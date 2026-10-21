@@ -141,8 +141,8 @@ def anchor_line(path: Path, anchor: str) -> int:
 
 
 def principle_layer_entries(root: Path) -> list[RegistryEntry]:
-    preamble = root / "core_00000_preamble.md"
-    values = root / "core_01005_values_principles.md"
+    preamble = root / "core_00.000_preamble.md"
+    values = root / "core_01.005_values_principles.md"
     tetrad_start = anchor_line(preamble, "#constitutional-tetrad")
     spec: list[tuple[str, Path, str, int | None]] = [
         ("Constitutional Tetrad", preamble, "#constitutional-tetrad", tetrad_start + 4),

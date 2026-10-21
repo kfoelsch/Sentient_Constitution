@@ -54,7 +54,7 @@ Run:
     make ch17-nested-list-candidates
     make ch18-nested-list-candidates
     python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 18
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05035_band_accountability.md
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05.035_band_accountability.md
 """
 
 from __future__ import annotations
@@ -72,61 +72,61 @@ if str(_TOOLS) not in sys.path:
 
 from ch5_paths import CH5_APEX, CH5_DEFS  # noqa: E402
 
-CH0_PARTS: tuple[str, ...] = ("core_00000_preamble.md",)
+CH0_PARTS: tuple[str, ...] = ("core_00.000_preamble.md",)
 
 CH1_PARTS: tuple[str, ...] = (
-    "core_01005_values_principles.md",
-    "core_01010_interaction_interpretation.md",
-    "core_01015_stewardship_capacity_principles.md",
+    "core_01.005_values_principles.md",
+    "core_01.010_interaction_interpretation.md",
+    "core_01.015_stewardship_capacity_principles.md",
 )
 
-CH2_PARTS: tuple[str, ...] = ("core_02000_definition_structure.md",)
+CH2_PARTS: tuple[str, ...] = ("core_02.000_definition_structure.md",)
 
-CH3_PARTS: tuple[str, ...] = ("core_03000_definition_integrity.md",)
+CH3_PARTS: tuple[str, ...] = ("core_03.000_definition_integrity.md",)
 
-CH4_PARTS: tuple[str, ...] = ("core_04000_burden_traceability_verification.md",)
+CH4_PARTS: tuple[str, ...] = ("core_04.000_burden_traceability_verification.md",)
 
 CH6_RIGHTS: tuple[str, ...] = (
-    "core_06005_rights_part_a.md",
-    "core_06010_rights_part_b.md",
-    "core_06015_rights_part_c.md",
-    "core_06020_rights_part_d.md",
-    "core_06025_rights_part_e.md",
+    "core_06.005_rights_part_a.md",
+    "core_06.010_rights_part_b.md",
+    "core_06.015_rights_part_c.md",
+    "core_06.020_rights_part_d.md",
+    "core_06.025_rights_part_e.md",
 )
 
-CH7_PARTS: tuple[str, ...] = ("core_07000_charters.md",)
+CH7_PARTS: tuple[str, ...] = ("core_07.000_charters.md",)
 
 CH8_PARTS: tuple[str, ...] = (
-    "core_08000_functional_independence_segregation_of_duties.md",
+    "core_08.000_functional_independence_segregation_of_duties.md",
 )
 
 CH9_PARTS: tuple[str, ...] = (
-    "core_09005_system_alignment_certification_evaluation.md",
-    "core_09010_system_alignment_certification_record_process.md",
-    "core_09015_system_alignment_certification_illustrations.md",
-    "core_09020_institutional_alignment_certification.md",
+    "core_09.005_system_alignment_certification_evaluation.md",
+    "core_09.010_system_alignment_certification_record_process.md",
+    "core_09.015_system_alignment_certification_illustrations.md",
+    "core_09.020_institutional_alignment_certification.md",
 )
 
-CH10_PARTS: tuple[str, ...] = ("core_10000_standing_assessment.md",)
+CH10_PARTS: tuple[str, ...] = ("core_10.000_standing_assessment.md",)
 
-CH11_PARTS: tuple[str, ...] = ("core_11000_standing_integration.md",)
+CH11_PARTS: tuple[str, ...] = ("core_11.000_standing_integration.md",)
 
 CH12_PARTS: tuple[str, ...] = (
-    "core_12005_misconduct_designation.md",
-    "core_12010_misconduct_pattern_applications.md",
+    "core_12.005_misconduct_designation.md",
+    "core_12.010_misconduct_pattern_applications.md",
 )
 
-CH13_PARTS: tuple[str, ...] = ("core_13000_forum.md",)
+CH13_PARTS: tuple[str, ...] = ("core_13.000_forum.md",)
 
-CH14_PARTS: tuple[str, ...] = ("core_14000_governance.md",)
+CH14_PARTS: tuple[str, ...] = ("core_14.000_governance.md",)
 
-CH15_PARTS: tuple[str, ...] = ("core_15000_non_regression.md",)
+CH15_PARTS: tuple[str, ...] = ("core_15.000_non_regression.md",)
 
-CH16_PARTS: tuple[str, ...] = ("core_16000_expansion_supremacy.md",)
+CH16_PARTS: tuple[str, ...] = ("core_16.000_expansion_supremacy.md",)
 
-CH17_PARTS: tuple[str, ...] = ("core_17000_amendment_ratification.md",)
+CH17_PARTS: tuple[str, ...] = ("core_17.000_amendment_ratification.md",)
 
-CH18_PARTS: tuple[str, ...] = ("core_18000_incorporation.md",)
+CH18_PARTS: tuple[str, ...] = ("core_18.000_incorporation.md",)
 
 SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(19))
 WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset(
@@ -360,39 +360,43 @@ def _is_packable_role(role: str) -> bool:
 
 def chapter_from_rel(rel: str) -> int | None:
     name = Path(rel).name if rel else ""
-    if name.startswith("core_00_"):
+    if name.startswith("core_00."):
         return 0
-    if name.startswith("core_01_"):
+    if name.startswith("core_01."):
         return 1
-    if name.startswith("core_02_"):
+    if name.startswith("core_02."):
         return 2
-    if name.startswith("core_03_"):
+    if name.startswith("core_03."):
         return 3
-    if name.startswith("core_04_"):
+    if name.startswith("core_04."):
         return 4
-    if name.startswith("core_13_"):
+    if name.startswith("core_13."):
         return 13
-    if name.startswith("core_14_"):
+    if name.startswith("core_14."):
         return 14
-    if name.startswith("core_15_"):
+    if name.startswith("core_15."):
         return 15
-    if name.startswith("core_16_"):
+    if name.startswith("core_16."):
         return 16
-    if name.startswith("core_12_"):
+    if name.startswith("core_17."):
+        return 17
+    if name.startswith("core_18."):
+        return 18
+    if name.startswith("core_12."):
         return 12
-    if name.startswith("core_11_"):
+    if name.startswith("core_11."):
         return 11
-    if name.startswith("core_10_"):
+    if name.startswith("core_10."):
         return 10
-    if name.startswith("core_09_"):
+    if name.startswith("core_09."):
         return 9
-    if name.startswith("core_08_"):
+    if name.startswith("core_08."):
         return 8
-    if name.startswith("core_07_"):
+    if name.startswith("core_07."):
         return 7
-    if name.startswith("core_06_"):
+    if name.startswith("core_06."):
         return 6
-    if name.startswith("core_05_"):
+    if name.startswith("core_05."):
         return 5
     return None
 

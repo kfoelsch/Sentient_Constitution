@@ -9,9 +9,9 @@
 Open these first. They point; they do not replace the numbered `core_*` files.
 
 - [README.md](../README.md) — how to read the Constitution, and common lookups
-- [Preamble §6 Key Practical Process Pipelines](../core_00000_preamble.md#6-key-practical-process-pipelines) — what each chapter in this chain owns and produces
-- [Preamble §6.2 How the full chain fits together](../core_00000_preamble.md#62-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
-- [Preamble §7 Process Ownership and Outputs](../core_00000_preamble.md#7-process-ownership-and-outputs) — the owner and output of each pipeline stage
+- [Preamble §6 Key Practical Process Pipelines](../core_00.000_preamble.md#6-key-practical-process-pipelines) — what each chapter in this chain owns and produces
+- [Preamble §6.2 How the full chain fits together](../core_00.000_preamble.md#62-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
+- [Preamble §7 Process Ownership and Outputs](../core_00.000_preamble.md#7-process-ownership-and-outputs) — the owner and output of each pipeline stage
 - [Steward entry doors](STEWARD_ENTRY_DOORS.md) — next-step pointers under time pressure (process support; cannot narrow core)
 - [Affected-reader process guides](adoption/easy_entry/README.md#process-guides) — challenge, independent review, certification, help and harm, crisis clocks
 
@@ -36,24 +36,24 @@ flowchart TB
 
 *Caption: forums supervise the chain; a filed case is not standing by itself.*
 
-1. **Certify the system** — [Chapter Nine](../core_09005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
-   Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **system alignment certification record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_06010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A certification record may later supply verified facts to Chapter Ten; it does not assign standing effects.
+1. **Certify the system** — [Chapter Nine](../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+   Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **system alignment certification record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A certification record may later supply verified facts to Chapter Ten; it does not assign standing effects.
 
-2. **Measure standing** — [Chapter Ten](../core_10000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (Questions 1–2)
+2. **Measure standing** — [Chapter Ten](../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (Questions 1–2)
    When conduct or harm matters constitutionally, verified facts enter **standing records**. Question 1 asks what happened. Question 2 measures how good or how harmful it was. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) stay on **separate axes** — they never fold into one net score. Rumors, reputations, and dispute stories are not standing.
 
-3. **Apply effects and remedy** — [Chapter Eleven](../core_11000_standing_integration.md#chapter-eleven-standing-effects-and-integration) (Question 3)
-   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_11000_standing_integration.md#41-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_01015_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter One §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
+3. **Apply effects and remedy** — [Chapter Eleven](../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) (Question 3)
+   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_11.000_standing_integration.md#41-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter One §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
 
-4. **Forum families supervise** — [Chapter Thirteen](../core_13000_forum.md#chapter-thirteen-forums-and-jurisdiction)
+4. **Forum families supervise** — [Chapter Thirteen](../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction)
    Forum families decide which track handles a dispute, where a case ordinarily starts, how matters transfer, and how clocks keep remedy from dying in delay. They may open, update, or correct standing records when facts are verified — or set a bad record aside on challenge. They must not be the sole final home for a claim that the same family is biased, captured, or in conflict (**anti-self-judging**). Filing a case alone has no immediate impact on standing.
 
 ## Rights floors that travel with the chain
 
 These floors are already in Chapter Six. This page does not restate them as new duties.
 
-- **[Article XIII-A](../core_06015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../core_06015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)** (*Right to Redress and Remedy*) — a real way to challenge, get review, and be made whole; good-faith reports must not be punished.
-- **[Article XVI](../core_06015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XVI](../core_06015_rights_part_c.md#audit-three-layers). Chapter Nine is one large audit process under that floor, not the only audit home.
+- **[Article XIII-A](../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)** (*Right to Redress and Remedy*) — a real way to challenge, get review, and be made whole; good-faith reports must not be punished.
+- **[Article XVI](../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XVI](../core_06.015_rights_part_c.md#audit-three-layers). Chapter Nine is one large audit process under that floor, not the only audit home.
 
 ## What this page does not do
 
@@ -62,4 +62,4 @@ These floors are already in Chapter Six. This page does not restate them as new 
 - Does not treat this map as compliance.
 - Does not decide sentience status, rewrite standing measurement, or replace forum supervision.
 
-**Next:** [Preamble §6.2](../core_00000_preamble.md#62-how-the-full-chain-fits-together) for how the chain fits together, [§7](../core_00000_preamble.md#7-process-ownership-and-outputs) for the owner register, then the named chapter.
+**Next:** [Preamble §6.2](../core_00.000_preamble.md#62-how-the-full-chain-fits-together) for how the chain fits together, [§7](../core_00.000_preamble.md#7-process-ownership-and-outputs) for the owner register, then the named chapter.

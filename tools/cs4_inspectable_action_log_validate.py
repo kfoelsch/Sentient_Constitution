@@ -40,7 +40,7 @@ DISCLOSE_DISPOSITIONS = ("disclosed", "suppressed", "mixed")
 INSTRUCTION_DISPOSITIONS = ("followed", "refused")
 STANDING_STATUSES = ("none_opened_yet", "opened", "corrected")
 STEWARD_KINDS = ("human", "ai")
-# CI-14.205 §6 seat catalog (corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
+# CI-14.205 §6 seat catalog (corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
 SEAT_TYPES = (
     "initiating",
     "verify_or_authorize",

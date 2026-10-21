@@ -2,7 +2,7 @@
 
 **What this is:** A process-support sitting that tests whether the Sentient Constitution **reaches named sentients in a colliding scene** — floors, voice, oversight, accountability, and timely remedy — not whether those sentients get what they want.
 
-**What this is not:** Binding constitutional text. [Chapter Seventeen](../../core_17000_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Eighteen](../../core_18000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Ten standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Ten–Thirteen application vignettes](../../core_10005_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
+**What this is not:** Binding constitutional text. [Chapter Seventeen](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Eighteen](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Ten standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Ten–Thirteen application vignettes](../../core_10.005_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
 
 **Pack edition:** `lived-situations-2026-09-11`.  
 **Corpus edition pin:** `SC-Corpus-2026.10.21`.
@@ -40,7 +40,7 @@ Name the file like: results/YYYY-MM-DD_human_<role-or-initials>.md
 In the “Model / agent” line, write: human operator — <your role>
 ```
 
-An AI-only screen would recreate the capture path [Chapter One §17.1](../../core_01015_stewardship_capacity_principles.md#171-shared-stewardship-standard) forbids. Human operators take the same packets.
+An AI-only screen would recreate the capture path [Chapter One §17.1](../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard) forbids. Human operators take the same packets.
 
 ## How scoring works
 
@@ -90,4 +90,4 @@ A results file is not standing measurement.
 | [`results/`](results/) | You (readable outcomes) |
 | [`../`](../) | You (announced pack — separate sitting) |
 | [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry/) | You (related outreach briefs — **not** this sitting; not an answer key) |
-| [`../../core_10005_application_vignettes.md`](../../core_10005_application_vignettes.md) | You (pipeline illustrations — not this sitting) |
+| [`../../core_10.005_application_vignettes.md`](../../core_10.005_application_vignettes.md) | You (pipeline illustrations — not this sitting) |

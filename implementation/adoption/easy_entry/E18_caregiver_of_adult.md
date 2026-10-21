@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -41,25 +41,25 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The hours do not count until they are waged. No rest-break. The job that keeps them alive is your hobby.
 - **With this Constitution:** A body that has agreed to follow this Constitution has to name who routes rest-breaks, who counts unpaid care, and who takes reports of pressure.
 
-See: [CI-6.225](../../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md).
+See: [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md).
 
 **Rest is not supposed to cost their say — or yours.**
 - **Today:** The clinic will give you a break if you become “decision-maker.” Or they will only help if you leave the household. Keep the adult and lose rest, or take rest and take over.
 - **With this Constitution:** Survival and rest cannot be billed as the price of unpaid care. Helping with one hard thing is not a key to every decision. If someone has to decide a thing they cannot currently carry, that step has to be only that thing, the smallest needed, time-limited, and looked at again.
 
-See: [Article III-A](../../../core_06005_rights_part_a.md#article-iii-a-survival); [Article VII-A](../../../core_06010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §13.1.5](../../../core_01010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+See: [Article III-A](../../../core_06.005_rights_part_a.md#article-iii-a-survival); [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §13.1.5](../../../core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 **You are not automatically their owner.**
 - **Today:** Because you pay a bill, the file lists you as the one who decides the clinician, the cards, and who they may see. Refusal is treated as proof they cannot decide — or as proof you are failing.
 - **With this Constitution:** Family relationship is not authority over another adult’s clinician or household. Supported help is not a quiet takeover. A concern report is not an official record of verified help or harm.
 
-See: [CI-6.220](../../../corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md); [Chapter Ten §2.1](../../../core_10000_standing_assessment.md#21-silence-is-the-default).
+See: [CI-6.220](../../../corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md); [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-is-the-default).
 
 **A lasting split is not the default “help.”**
 - **Today:** The “safe” rest-break is a durable break from the care relationship you actually have — or from the adult you care for.
 - **With this Constitution:** A lasting split from someone you depend on, or someone who depends on you, is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again.
 
-See: [Article VIII-A](../../../core_06010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05055_band_participation.md#non-separation).
+See: [Article VIII-A](../../../core_06.010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06.010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05.055_band_participation.md#non-separation).
 
 ## What you might reasonably object to
 
@@ -69,9 +69,9 @@ See: [Article VIII-A](../../../core_06010_rights_part_b.md#article-viii-a-family
 
 - **“I want to decide for them. I know better.”** What they can still do tracks what they can actually show, not your convenience. The page for the adult being taken over is [E06](E06_age_related_challenges.md). This text will not make you their owner to settle a preference contest.
 
-- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, family, or labor law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, family, or labor law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“Don’t put me in a carer type.”** You do not have to take that label to use this page. This brief is for someone doing unpaid care for an adult, when rest or help is being billed as takeover. It does not change the Rights Floor that applies to you. When unpaid care, rest, or a quiet takeover is actually at stake, those rules are located in the sections on [CI-6.225](../../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md) and [Article VII-A](../../../core_06010_rights_part_b.md#article-vii-a-self-ownership-of-body).
+- **“Don’t put me in a carer type.”** You do not have to take that label to use this page. This brief is for someone doing unpaid care for an adult, when rest or help is being billed as takeover. It does not change the Rights Floor that applies to you. When unpaid care, rest, or a quiet takeover is actually at stake, those rules are located in the sections on [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) and [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body).
 
 ## What this will not pretend to give you
 

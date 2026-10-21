@@ -19,7 +19,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a di
 
 **Your role:** You sit the named **movement-intake** desk on this adopter’s host administration. A camp operator filed a written request to treat Noor as “unrated” and to refuse onward movement. Noor is reachable and disputes the request in writing. No forum case is open. No standing record exists. No verified liberty-restricting finding is in the file. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you grant a visa, assign a city, verify a standing record, or decide refuge on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-14.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-14.205 §6](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-14.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-14.205 §6](../../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -79,15 +79,15 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article XXII](../../../core_06020_rights_part_d.md#article-xxii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) — movement, refuge, not left with no body that counts you; a particular host is not required to take in everyone at once; origin’s first duty
-- [Climate-unlivability refuge (adopter-decided)](../../../core_06020_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided) — this Article does not invent a yes or a no
-- [Article XXII-D](../../../core_06020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) — a score of how trusted you are is not, by itself, a border
-- [Article XXI](../../../core_06020_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXI-C](../../../core_06020_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
-- [Article III-A](../../../core_06005_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05040_band_continuity.md#occupancy-continuity)
-- [Article I-A](../../../core_06005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) where the project made the place unlivable
-- [Article XX-B](../../../core_06020_rights_part_d.md#article-xx-b-restriction-floors) if a verified restriction is later claimed
-- [Chapter Ten §2.1](../../../core_10000_standing_assessment.md#21-silence-is-the-default) — silence is the default; accusations are not findings
-- [Sentience Non-Exclusion](../../../core_05055_band_participation.md#sentience-non-exclusion) if “security class” is used as a hidden denial
+- [Article XXII](../../../core_06.020_rights_part_d.md#article-xxii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) — movement, refuge, not left with no body that counts you; a particular host is not required to take in everyone at once; origin’s first duty
+- [Climate-unlivability refuge (adopter-decided)](../../../core_06.020_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided) — this Article does not invent a yes or a no
+- [Article XXII-D](../../../core_06.020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) — a score of how trusted you are is not, by itself, a border
+- [Article XXI](../../../core_06.020_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXI-C](../../../core_06.020_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
+- [Article III-A](../../../core_06.005_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05.040_band_continuity.md#occupancy-continuity)
+- [Article I-A](../../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) where the project made the place unlivable
+- [Article XX-B](../../../core_06.020_rights_part_d.md#article-xx-b-restriction-floors) if a verified restriction is later claimed
+- [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-is-the-default) — silence is the default; accusations are not findings
+- [Sentience Non-Exclusion](../../../core_05.055_band_participation.md#sentience-non-exclusion) if “security class” is used as a hidden denial
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

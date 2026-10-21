@@ -1,6 +1,6 @@
 # Article XXVII sub-bullet migration — cut list (2026-10-03)
 
-**Status:** Applied (2026-10-03). Resolutions: the incentive-alignment carve-out moved to Chapter Eleven §5.4 (*Misaligned rewards — Transition exception*); preservation mechanics moved to new **CS-6.350 §8**; the core names only class or tier, misalignment, and ease of alignment and points to **CS-6.350 §7** and **CI-6.275 §5** for the rest; **Gate** and **Gate Criteria** were added to Chapter Five (Oversight band). Process support for the Article XXVII slimming pass; it cannot narrow `core_06025_rights_part_e.md` or any incorporated corpus file.
+**Status:** Applied (2026-10-03). Resolutions: the incentive-alignment carve-out moved to Chapter Eleven §5.4 (*Misaligned rewards — Transition exception*); preservation mechanics moved to new **CS-6.350 §8**; the core names only class or tier, misalignment, and ease of alignment and points to **CS-6.350 §7** and **CI-6.275 §5** for the rest; **Gate** and **Gate Criteria** were added to Chapter Five (Oversight band). Process support for the Article XXVII slimming pass; it cannot narrow `core_06.025_rights_part_e.md` or any incorporated corpus file.
 
 ## Purpose
 
@@ -10,7 +10,7 @@ The first slimming pass removed the most obviously operational text from **Artic
 
 A sentence stays in the core text if **a corpus-level edit to it could lower a protection for someone**, or if it states who may be restricted, what may be taken, or what may never be done. A sentence moves if it states **how, how often, who fills in which field, in what format, or by what measure** a floor is carried out.
 
-Why the test matters: incorporated corpus text is binding but must satisfy the Constitution and does not narrow it ([Chapter Eighteen](../core_18000_incorporation.md#chapter-eighteen-incorporation-bridge)). It is easier to change than Chapter Six text. Moving a floor there would quietly lower its rank.
+Why the test matters: incorporated corpus text is binding but must satisfy the Constitution and does not narrow it ([Chapter Eighteen](../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge)). It is easier to change than Chapter Six text. Moving a floor there would quietly lower its rank.
 
 ## Disposition by sub-bullet
 

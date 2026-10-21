@@ -7,7 +7,7 @@ prose that introduces what follows — not a bare ``- `` / ``* `` / ``1. `` list
 item. A section whose first content is a child heading is a container and is
 out of scope.
 
-Carve-out: Chapter Five definition files (``core_05_*.md``) are excluded —
+Carve-out: Chapter Five definition files (``core_05.*.md``) are excluded —
 their entries open with O / E / C bullets by design (see
 ``ch5_entry_format_audit.py``).
 
@@ -37,7 +37,7 @@ FENCE_RE = re.compile(r"^(```|~~~)")
 DETAILS_OPEN_RE = re.compile(r"<details\b", re.I)
 DETAILS_CLOSE_RE = re.compile(r"</details>", re.I)
 LIST_ITEM_RE = re.compile(r"^(?:[-*+]|\d+[.)])\s+\S")
-CARVE_OUT_RE = re.compile(r"^core_05\d{3}_")
+CARVE_OUT_RE = re.compile(r"^core_05\.\d{3}_")
 
 
 @dataclass(frozen=True)

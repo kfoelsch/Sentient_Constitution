@@ -29,18 +29,18 @@ from definition_index import (  # noqa: E402
 )
 
 
-CH0_FILE = "core_00000_preamble.md"
+CH0_FILE = "core_00.000_preamble.md"
 CH1_FILES = [
-    "core_01005_values_principles.md",
-    "core_01010_interaction_interpretation.md",
-    "core_01015_stewardship_capacity_principles.md",
+    "core_01.005_values_principles.md",
+    "core_01.010_interaction_interpretation.md",
+    "core_01.015_stewardship_capacity_principles.md",
 ]
 CH6_FILES = [
-    "core_06005_rights_part_a.md",
-    "core_06010_rights_part_b.md",
-    "core_06015_rights_part_c.md",
-    "core_06020_rights_part_d.md",
-    "core_06025_rights_part_e.md",
+    "core_06.005_rights_part_a.md",
+    "core_06.010_rights_part_b.md",
+    "core_06.015_rights_part_c.md",
+    "core_06.020_rights_part_d.md",
+    "core_06.025_rights_part_e.md",
 ]
 
 TETRAD_TERMS = ["participation", "oversight", "accountability", "timeliness"]
@@ -375,7 +375,7 @@ def extract_principles(root: Path) -> list[Principle]:
     for record in collect_ch1_principles(root):
         if record.file not in {CH0_FILE, *CH1_FILES}:
             continue
-        ch6_refs = sorted(set(re.findall(r"core_06_rights_part_[a-d]\.md#[a-z0-9-]+", record.body)))
+        ch6_refs = sorted(set(re.findall(r"core_06\.0[0-9]{2}_rights_part_[a-d]\.md#[a-z0-9-]+", record.body)))
         principles.append(
             Principle(
                 section=record.section,
@@ -444,7 +444,7 @@ def extract_direct_ch1_refs(
     live_sections: set[str] | None = None,
 ) -> list[str]:
     refs: set[str] = set()
-    for match in re.finditer(r"\[([^]]+)\]\((core_01_[^)#]+\.md)#([^)]+)\)", text):
+    for match in re.finditer(r"\[([^]]+)\]\((core_01\.[0-9]{3}_[^)#]+\.md)#([^)]+)\)", text):
         key = f"{match.group(2)}#{match.group(3)}"
         if fragment_map and key in fragment_map:
             refs.add(fragment_map[key])

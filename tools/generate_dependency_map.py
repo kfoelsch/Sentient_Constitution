@@ -13,7 +13,7 @@ from corpus_paths import ADOPTED_IMPLEMENTATION_WRAPPERS, CORE_FILES
 
 
 GROUPS = (
-    ("Preamble and Chapter One", ("core_00_", "core_01_")),
+    ("Preamble and Chapter One", ("core_00.", "core_01.")),
     ("Definition mechanics (Chapters Two–Four)", ("core_02", "core_04")),
     ("Chapter Five definition stack", ("core_05",)),
     ("Chapter Six Rights Floor", ("core_06",)),

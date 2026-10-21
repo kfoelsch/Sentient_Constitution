@@ -14,7 +14,7 @@ import corpus_lookup
 ROOT = Path(__file__).resolve().parents[1]
 # The README edition table is the source of truth; `make edition-bump` moves it.
 EDITION, EFFECTIVE = corpus_lookup.read_edition(ROOT)
-CF10 = "corpus_forum/cf_13440_technical_specialist_forums_specialist_chambers.md"
+CF10 = "corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md"
 CF10_ANCHOR = "#cf-13440-technical-specialist-forums-and-specialist-chambers"
 GLOSS_NEEDLE = "unaccountable parallel judiciary"
 
@@ -43,7 +43,7 @@ class CorpusLookupTests(unittest.TestCase):
         code, payload = run_cli("resolve", "Def.P1")
         self.assertEqual(code, 0)
         result = payload["result"]
-        self.assertEqual(result["file"], "core_05055_band_participation.md")
+        self.assertEqual(result["file"], "core_05.055_band_participation.md")
         self.assertEqual(result["id"], "Def.P1")
         self.assertNotIn("gloss", result)
 
@@ -56,7 +56,7 @@ class CorpusLookupTests(unittest.TestCase):
         expected = {
             "machine_id": "CI-11210.4",
             "display_id": "CI-11.210 §4",
-            "source_file": "corpus_institutions/ci_11210_institutional_failure_dissolution.md",
+            "source_file": "corpus_institutions/ci_11.210_institutional_failure_dissolution.md",
         }
         for payload in (dotted, machine):
             result = payload["result"]
@@ -80,11 +80,11 @@ class CorpusLookupTests(unittest.TestCase):
     def test_hydrate_def_p1_cluster_hits_file_via_definition_term(self) -> None:
         code, resolved = run_cli("resolve", "Def.P1")
         self.assertEqual(code, 0)
-        self.assertEqual(resolved["result"]["file"], "core_05055_band_participation.md")
+        self.assertEqual(resolved["result"]["file"], "core_05.055_band_participation.md")
         code, hydrated = run_cli("hydrate", "Animal Life")
         self.assertEqual(code, 0)
         result = hydrated["result"]
-        self.assertEqual(result["file"], "core_05055_band_participation.md")
+        self.assertEqual(result["file"], "core_05.055_band_participation.md")
         self.assertIn("Animal Life", result["text"])
         self.assertLessEqual(
             result["line_end"] - result["line_start"] + 1,
@@ -290,8 +290,8 @@ class CorpusLookupTests(unittest.TestCase):
         files = {str(hit["file"]) for hit in result["hits"]}
         self.assertTrue(
             any(
-                name.endswith("core_05040_band_continuity.md")
-                or name.endswith("core_06005_rights_part_a.md")
+                name.endswith("core_05.040_band_continuity.md")
+                or name.endswith("core_06.005_rights_part_a.md")
                 for name in files
             ),
             files,

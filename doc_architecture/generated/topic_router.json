@@ -1,7 +1,7 @@
 {
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "source": "corpus_joint_structure/cjs_00105_registry_and_reading_rules.md",
+  "source": "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md",
   "description": "Full CJS-0.105 \u00a71 topic router with resolved owner and read-with files. Authoritative row table remains CJS-0.105 \u00a71.",
   "rows": [
     {
@@ -11,33 +11,33 @@
       "primary_owners": [
         {
           "id": "CI-9.210 \u00a73",
-          "file": "corpus_institutions/ci_09210_classification_linked_institutional_obligations.md"
+          "file": "corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-18.110 \u00a71",
-          "file": "corpus_joint_structure/cjs_18105_drafting_contracts.md"
+          "file": "corpus_joint_structure/cjs_18.105_drafting_contracts.md"
         },
         {
           "id": "CJS-18.110 \u00a75",
-          "file": "corpus_joint_structure/cjs_18105_drafting_contracts.md"
+          "file": "corpus_joint_structure/cjs_18.105_drafting_contracts.md"
         },
         {
           "id": "CJS-5.125 \u00a713",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CI-8.205",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         },
         {
           "id": "CJS-5.125 \u00a711",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.125 \u00a712",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         }
       ]
     },
@@ -48,29 +48,29 @@
       "primary_owners": [
         {
           "id": "CF-13.405 \u00a75",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         },
         {
           "id": "CF-13.405 \u00a78",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-18.110 \u00a71",
-          "file": "corpus_joint_structure/cjs_18105_drafting_contracts.md"
+          "file": "corpus_joint_structure/cjs_18.105_drafting_contracts.md"
         },
         {
           "id": "CJS-18.110 \u00a75",
-          "file": "corpus_joint_structure/cjs_18105_drafting_contracts.md"
+          "file": "corpus_joint_structure/cjs_18.105_drafting_contracts.md"
         },
         {
           "id": "CJS-5.125 \u00a713",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CI-9.210 \u00a73",
-          "file": "corpus_institutions/ci_09210_classification_linked_institutional_obligations.md"
+          "file": "corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md"
         }
       ]
     },
@@ -81,25 +81,25 @@
       "primary_owners": [
         {
           "id": "CF-13.410",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-18.110 \u00a75",
-          "file": "corpus_joint_structure/cjs_18105_drafting_contracts.md"
+          "file": "corpus_joint_structure/cjs_18.105_drafting_contracts.md"
         },
         {
           "id": "CJS-5.125 \u00a713",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CI-14.205",
-          "file": "corpus_institutions/ci_14205_appointment_competency_rotation_removal.md"
+          "file": "corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md"
         },
         {
           "id": "CI-8.210",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         }
       ]
     },
@@ -110,21 +110,21 @@
       "primary_owners": [
         {
           "id": "CF-13.415",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-18.110 \u00a75",
-          "file": "corpus_joint_structure/cjs_18105_drafting_contracts.md"
+          "file": "corpus_joint_structure/cjs_18.105_drafting_contracts.md"
         },
         {
           "id": "CJS-5.125 \u00a713",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CI-6.205",
-          "file": "corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md"
+          "file": "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md"
         }
       ]
     },
@@ -135,17 +135,17 @@
       "primary_owners": [
         {
           "id": "CF-13.420",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CI-13.205",
-          "file": "corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md"
+          "file": "corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md"
         },
         {
           "id": "CJS-5.125 \u00a713",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         }
       ]
     },
@@ -156,17 +156,17 @@
       "primary_owners": [
         {
           "id": "CF-13.425",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CI-8.210",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         },
         {
           "id": "CI-8.215 \u00a73",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         }
       ]
     },
@@ -177,17 +177,17 @@
       "primary_owners": [
         {
           "id": "CF-13.430",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CI-8.215",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         },
         {
           "id": "CI-8.215 \u00a73",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         }
       ]
     },
@@ -198,13 +198,13 @@
       "primary_owners": [
         {
           "id": "CF-13.435",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CI-13.210",
-          "file": "corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md"
+          "file": "corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md"
         }
       ]
     },
@@ -215,13 +215,13 @@
       "primary_owners": [
         {
           "id": "CF-13.440",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CI-6.270",
-          "file": "corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md"
+          "file": "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md"
         }
       ]
     },
@@ -232,13 +232,13 @@
       "primary_owners": [
         {
           "id": "CF-13.445",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CI-8.215 \u00a73",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         }
       ]
     },
@@ -249,13 +249,13 @@
       "primary_owners": [
         {
           "id": "CF-13.450",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CI-6.275",
-          "file": "corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md"
+          "file": "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md"
         }
       ]
     },
@@ -266,17 +266,17 @@
       "primary_owners": [
         {
           "id": "CF-13.455",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CF-13.410",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         },
         {
           "id": "CF-13.425",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ]
     },
@@ -287,13 +287,13 @@
       "primary_owners": [
         {
           "id": "CF-13.460",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CF-13.445",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ]
     },
@@ -304,13 +304,13 @@
       "primary_owners": [
         {
           "id": "CF-13.465",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CI-13.205",
-          "file": "corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md"
+          "file": "corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md"
         }
       ]
     },
@@ -321,21 +321,21 @@
       "primary_owners": [
         {
           "id": "CF-13.470",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CI-14.205",
-          "file": "corpus_institutions/ci_14205_appointment_competency_rotation_removal.md"
+          "file": "corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md"
         },
         {
           "id": "CI-8.210",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         },
         {
           "id": "CI-9.210 \u00a73",
-          "file": "corpus_institutions/ci_09210_classification_linked_institutional_obligations.md"
+          "file": "corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md"
         }
       ]
     },
@@ -346,13 +346,13 @@
       "primary_owners": [
         {
           "id": "CI-8.205",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-5.125 \u00a711",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         }
       ]
     },
@@ -363,21 +363,21 @@
       "primary_owners": [
         {
           "id": "CI-8.215 \u00a73",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         }
       ],
       "read_with": [
         {
           "id": "CF-13.410",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         },
         {
           "id": "CF-13.445",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         },
         {
           "id": "CJS-5.125 \u00a713",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         }
       ]
     },
@@ -388,17 +388,17 @@
       "primary_owners": [
         {
           "id": "CI-13.210",
-          "file": "corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md"
+          "file": "corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md"
         }
       ],
       "read_with": [
         {
           "id": "CF-13.415",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         },
         {
           "id": "CF-13.425",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ]
     },
@@ -409,57 +409,57 @@
       "primary_owners": [
         {
           "id": "CJS-18.110 \u00a73",
-          "file": "corpus_joint_structure/cjs_18105_drafting_contracts.md"
+          "file": "corpus_joint_structure/cjs_18.105_drafting_contracts.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-5.120 \u00a79",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.120 \u00a710",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.130 \u00a716",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.130 \u00a719",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.130 \u00a717",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.110 \u00a73",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.110 \u00a75",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.130 \u00a720",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.130 \u00a718",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CI-8.215 \u00a73",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         },
         {
           "id": "CI-6.205",
-          "file": "corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md"
+          "file": "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md"
         },
         {
           "id": "CF-13.445",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ]
     },
@@ -470,29 +470,29 @@
       "primary_owners": [
         {
           "id": "CI-8.205",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         },
         {
           "id": "CI-14.205",
-          "file": "corpus_institutions/ci_14205_appointment_competency_rotation_removal.md"
+          "file": "corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md"
         },
         {
           "id": "CI-6.215",
-          "file": "corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md"
+          "file": "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md"
         },
         {
           "id": "CI-13.210",
-          "file": "corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md"
+          "file": "corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-18.110 \u00a74",
-          "file": "corpus_joint_structure/cjs_18105_drafting_contracts.md"
+          "file": "corpus_joint_structure/cjs_18.105_drafting_contracts.md"
         },
         {
           "id": "CJS-5.125 \u00a711",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         }
       ]
     },
@@ -503,33 +503,33 @@
       "primary_owners": [
         {
           "id": "CJS-5.110 \u00a76",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-5.110 \u00a73",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.125 \u00a715",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CI-8.215 \u00a73",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         },
         {
           "id": "CI-6.205",
-          "file": "corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md"
+          "file": "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md"
         },
         {
           "id": "CI-13.210",
-          "file": "corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md"
+          "file": "corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md"
         },
         {
           "id": "CF-13.445",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ]
     },
@@ -540,13 +540,13 @@
       "primary_owners": [
         {
           "id": "CI-11.205",
-          "file": "corpus_institutions/ci_11210_institutional_failure_dissolution.md"
+          "file": "corpus_institutions/ci_11.210_institutional_failure_dissolution.md"
         }
       ],
       "read_with": [
         {
           "id": "CF-13.445",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ]
     },
@@ -557,17 +557,17 @@
       "primary_owners": [
         {
           "id": "CF-13.415",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ],
       "read_with": [
         {
           "id": "CF-13.445",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         },
         {
           "id": "CI-11.205",
-          "file": "corpus_institutions/ci_11210_institutional_failure_dissolution.md"
+          "file": "corpus_institutions/ci_11.210_institutional_failure_dissolution.md"
         }
       ]
     },
@@ -578,17 +578,17 @@
       "primary_owners": [
         {
           "id": "CI-8.205",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-5.125 \u00a711",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CF-13.435",
-          "file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md"
+          "file": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md"
         }
       ]
     },
@@ -599,21 +599,21 @@
       "primary_owners": [
         {
           "id": "CI-14.205",
-          "file": "corpus_institutions/ci_14205_appointment_competency_rotation_removal.md"
+          "file": "corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md"
         }
       ],
       "read_with": [
         {
           "id": "CJS-5.105 \u00a70",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CJS-5.125 \u00a711",
-          "file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md"
+          "file": "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md"
         },
         {
           "id": "CI-8.205",
-          "file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md"
+          "file": "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md"
         }
       ]
     }

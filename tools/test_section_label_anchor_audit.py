@@ -64,17 +64,17 @@ class SectionLabelAnchorTests(unittest.TestCase):
     def test_missing_alias_is_reported(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_11000_standing_integration.md").write_text(
+            (root / "core_11.000_standing_integration.md").write_text(
                 "<a id=\"54-special-violation-rules\"></a>\n"
                 "#### 5.4 Special violation rules\n\n"
                 "<a id=\"411-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
                 "**Duty to resist.**\n",
                 encoding="utf-8",
             )
-            citing = root / "core_01015_stewardship_capacity_principles.md"
+            citing = root / "core_01.015_stewardship_capacity_principles.md"
             citing.write_text(
                 "[Chapter Ten §5.4 Duty to resist]"
-                "(core_11000_standing_integration.md"
+                "(core_11.000_standing_integration.md"
                 "#411-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",
                 encoding="utf-8",
             )
@@ -88,16 +88,16 @@ class SectionLabelAnchorTests(unittest.TestCase):
     def test_current_numbering_id_satisfies_section_label(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_11000_standing_integration.md").write_text(
+            (root / "core_11.000_standing_integration.md").write_text(
                 "<a id=\"54-special-violation-rules\"></a>\n"
                 "#### 5.4 Special violation rules\n\n"
                 "<a id=\"54-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
                 "**Duty to resist.**\n",
                 encoding="utf-8",
             )
-            (root / "core_01015_stewardship_capacity_principles.md").write_text(
+            (root / "core_01.015_stewardship_capacity_principles.md").write_text(
                 "[Chapter Ten §5.4 Duty to resist]"
-                "(core_11000_standing_integration.md"
+                "(core_11.000_standing_integration.md"
                 "#54-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",
                 encoding="utf-8",
             )
@@ -107,7 +107,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
     def test_section_label_mismatch_is_reported(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_16000_expansion_supremacy.md").write_text(
+            (root / "core_16.000_expansion_supremacy.md").write_text(
                 "### 3. Anti-Evasion Clause and Constitutional-Misconduct Referral\n\n"
                 "[§11](#3-anti-evasion-clause-and-constitutional-misconduct-referral)\n",
                 encoding="utf-8",
@@ -121,7 +121,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
     def test_matching_section_label_passes(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_16000_expansion_supremacy.md").write_text(
+            (root / "core_16.000_expansion_supremacy.md").write_text(
                 "### 3. Anti-Evasion Clause and Constitutional-Misconduct Referral\n\n"
                 "[§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral)\n",
                 encoding="utf-8",
@@ -136,7 +136,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
     def test_missing_fragment_is_reported(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_16000_expansion_supremacy.md").write_text(
+            (root / "core_16.000_expansion_supremacy.md").write_text(
                 "### 3. Anti-Evasion Clause\n\n"
                 "[§3](#3-does-not-exist)\n",
                 encoding="utf-8",
@@ -154,7 +154,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
             "#### 3.16 Stricter External\n"
             "#### 3.3 Conflict Disclosure\n"
         )
-        errors = heading_sequence_errors("core_16000_expansion_supremacy.md", numbered)
+        errors = heading_sequence_errors("core_16.000_expansion_supremacy.md", numbered)
         self.assertTrue(
             any("duplicate heading §3.16" in err and RULE_SEQ in err for err in errors),
             msg="\n".join(errors),
@@ -171,7 +171,7 @@ class SectionLabelAnchorTests(unittest.TestCase):
             "#### 3.2 Stricter External Protections\n"
             "#### 3.3 Conflict Disclosure and Mitigation\n"
         )
-        errors = heading_sequence_errors("core_16000_expansion_supremacy.md", numbered)
+        errors = heading_sequence_errors("core_16.000_expansion_supremacy.md", numbered)
         self.assertEqual(errors, [], msg="\n".join(errors))
 
     def test_front_door_pages_are_checked_but_other_implementation_files_are_not(self) -> None:

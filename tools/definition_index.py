@@ -23,20 +23,20 @@ from ch5_single_definition_audit import (  # noqa: E402
 from cjs_odef_format import guidepost_complete  # noqa: E402
 
 CJS3_FILES = (
-    "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_05110_oversight_operations.md",
-    "corpus_joint_structure/cjs_05120_participation_operations.md",
-    "corpus_joint_structure/cjs_05125_accountability_operations.md",
-    "corpus_joint_structure/cjs_05130_continuity_operations.md",
-    "corpus_joint_structure/cjs_05135_integrative_operations.md",
+    "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_05.110_oversight_operations.md",
+    "corpus_joint_structure/cjs_05.120_participation_operations.md",
+    "corpus_joint_structure/cjs_05.125_accountability_operations.md",
+    "corpus_joint_structure/cjs_05.130_continuity_operations.md",
+    "corpus_joint_structure/cjs_05.135_integrative_operations.md",
 )
-CJS3_PROCESS_HOME = "corpus_joint_structure/cjs_05115_audit_process.md"
+CJS3_PROCESS_HOME = "corpus_joint_structure/cjs_05.115_audit_process.md"
 
 CH01_FILES = (
-    "core_00000_preamble.md",
-    "core_01005_values_principles.md",
-    "core_01010_interaction_interpretation.md",
-    "core_01015_stewardship_capacity_principles.md",
+    "core_00.000_preamble.md",
+    "core_01.005_values_principles.md",
+    "core_01.010_interaction_interpretation.md",
+    "core_01.015_stewardship_capacity_principles.md",
 )
 
 CLUSTER_HEADING_RE = re.compile(
@@ -435,7 +435,7 @@ def collect_ch1_principles(root: Path) -> list[PrincipleRecord]:
         for pos, (start_idx, section, title) in enumerate(starts):
             end_idx = starts[pos + 1][0] if pos + 1 < len(starts) else len(lines)
             body = "\n".join(lines[start_idx + 1 : end_idx])
-            if rel == "core_00000_preamble.md":
+            if rel == "core_00.000_preamble.md":
                 section = f"Preamble §{section}"
             principles.append(
                 PrincipleRecord(
@@ -478,15 +478,15 @@ def ch5_term_lookup(entries: list[Ch5Entry]) -> dict[str, Ch5Entry]:
 # Tetrad leg heads live in apex files as letter-form O/M/A/C without #### titles,
 # so collect_ch5_entries does not index them. Surface them for creep / anti-redefinition checks.
 TETRAD_APEX_HEADS: tuple[tuple[str, str, str], ...] = (
-    ("Participation", "core_05025_apex_participation_leg.md", "#participation-constitutional"),
-    ("Oversight", "core_05020_apex_oversight_leg.md", "#oversight-constitutional"),
-    ("Accountability", "core_05005_apex_accountability_leg.md", "#accountability"),
-    ("Timeliness", "core_05030_apex_timeliness_leg.md", "#timeliness-constitutional"),
+    ("Participation", "core_05.025_apex_participation_leg.md", "#participation-constitutional"),
+    ("Oversight", "core_05.020_apex_oversight_leg.md", "#oversight-constitutional"),
+    ("Accountability", "core_05.005_apex_accountability_leg.md", "#accountability"),
+    ("Timeliness", "core_05.030_apex_timeliness_leg.md", "#timeliness-constitutional"),
 )
 AIM_APEX_HEADS: tuple[tuple[str, str, str], ...] = (
-    ("Flourishing", "core_05015_apex_flourishing_aim.md", "#flourishing-constitutional"),
-    ("Continuity", "core_05010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
-    ("Continuity (Constitutional Aim)", "core_05010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
+    ("Flourishing", "core_05.015_apex_flourishing_aim.md", "#flourishing-constitutional"),
+    ("Continuity", "core_05.010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
+    ("Continuity (Constitutional Aim)", "core_05.010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
 )
 
 

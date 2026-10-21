@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -39,41 +39,41 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Licensing and capital access are slow for you and easy for them. Paperwork says the market is open while gates freeze out new or disfavored founders.
 - **With this Constitution:** You must be able to start and run commercial enterprises. Shutting you out with delay or paperwork that privileges incumbents is a failure.
 
-See: [Business Creation](../../../core_05055_band_participation.md#business-creation); [Article XI-E](../../../core_06010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation).
+See: [Business Creation](../../../core_05.055_band_participation.md#business-creation); [Article XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation).
 
 **Being bigger is not a license to trap you.**
 - **Today:** A few buyers, platforms, or employers control who you can hire, who you can sell to, and whether you can leave — and they call that competition.
 - **With this Constitution:** A contract cannot stop your workers from leaving, or stop you from hiring someone who used to work at another shop. You still have to pay fairly, keep the shop safe, give rest, and let workers organize. That is not the same as whether a few big buyers or platforms control the terms. Paying legal wages does not make that control OK.
 
-See: [Article III-C](../../../core_06005_rights_part_a.md#article-iii-c-labor-and-economic-floor); [Chapter One §11.2](../../../core_01005_values_principles.md#112-pro-competition-and-anti-domination).
+See: [Article III-C](../../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor); [Chapter One §11.2](../../../core_01.005_values_principles.md#112-pro-competition-and-anti-domination).
 
 **Leaving a vendor is not supposed to be the product.**
 - **Today:** The tools you bought cannot be repaired except through the vendor. “Features” exist mainly to make switching painful. A new scheduling or lending system is being pushed as “modernization.”
 - **With this Constitution:** Barriers whose primary effect is to block exit, substitution, or challenge are violations, not strategy. Repair and independent servicing have a floor for covered products.
 
-See: [Article XXI-C](../../../core_06020_rights_part_d.md#article-xxi-c-anti-lock-in-rule); [Article II-B](../../../core_06005_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing).
+See: [Article XXI-C](../../../core_06.020_rights_part_d.md#article-xxi-c-anti-lock-in-rule); [Article II-B](../../../core_06.005_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing).
 
 **Duties scale with what is actually on the line.**
 - **Today:** The same theater is demanded of a tiny shop and a city-scale deploy.
-- **With this Constitution:** Participation, oversight, accountability, and timeliness scale with [how much is actually on the line](../../../core_00000_preamble.md#material-stake). A small shop is not automatically the highest-impact kind of system.
+- **With this Constitution:** Participation, oversight, accountability, and timeliness scale with [how much is actually on the line](../../../core_00.000_preamble.md#material-stake). A small shop is not automatically the highest-impact kind of system.
 
 **Markets still operate above the floor.**
 - **Today:** Any floor is sold as anti-market.
 - **With this Constitution:** Essential survival access cannot be made to depend on premium purchase, but voluntary markets may operate above that floor.
 
-See: [CI-9.210 §4](../../../corpus_institutions/ci_09210_classification_linked_institutional_obligations.md).
+See: [CI-9.210 §4](../../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md).
 
 ## What you might reasonably object to
 
-- **“This will bury me in process.”** If you adopt, you take matching duties — fair pay, safe conditions, rest, decisions that can be challenged — scaled to what is on the line, not a copy of a ministry. If you do not adopt, this page does not bind you ([Chapter Eighteen §4](../../../core_18000_incorporation.md#4-adoption-framing-and-scope-of-authority)). Using the ideas as a handbook is the honest near-term mode.
+- **“This will bury me in process.”** If you adopt, you take matching duties — fair pay, safe conditions, rest, decisions that can be challenged — scaled to what is on the line, not a copy of a ministry. If you do not adopt, this page does not bind you ([Chapter Eighteen §4](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). Using the ideas as a handbook is the honest near-term mode.
 
 - **“My workers will organize and I will lose the shop.”** Collective organization is a basic protection, not a confiscation rule. Classification tricks designed to defeat it are out. So is retaliation. This text will not pretend that avoiding unions is a constitutional right.
 
 - **“The big platforms will never adopt, so I just get extra rules.”** Correct that this Constitution does not bind a marketplace you do not control. Partial scope has to stay honest. The case for you is the leave-without-tricks and business-creation floor *if* a body in your stack actually takes it up — not a promise that a global processor already has.
 
-- **“This isn’t law where I file taxes.”** Correct. Pre-release model constitution. It does not override applicable commercial or labor law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law where I file taxes.”** Correct. Pre-release model constitution. It does not override applicable commercial or labor law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not change the Rights Floor that applies to you. When you later want a published scope document for systems you actually run, those rules are located in the section on [System Charter](../../../core_05040_band_continuity.md#system-charter) or [Institutional Charter](../../../core_05040_band_continuity.md#institutional-charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
+- **“I am not an ‘institution.’ I am trying to make payroll.”** You do not have to call the shop an institution to use this page. This brief is for someone who runs a small shop, workshop, clinic, farm stand, or platform-dependent service. It does not change the Rights Floor that applies to you. When you later want a published scope document for systems you actually run, those rules are located in the section on [System Charter](../../../core_05.040_band_continuity.md#system-charter) or [Institutional Charter](../../../core_05.040_band_continuity.md#institutional-charter). [FIT_SITUATIONS.md](../FIT_SITUATIONS.md) is the operator map.
 
 ## What this will not pretend to give you
 

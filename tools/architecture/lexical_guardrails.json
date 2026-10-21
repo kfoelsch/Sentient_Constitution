@@ -162,15 +162,15 @@
     },
     {
       "avoid": "bare Charter / charter (Corpus/Constitution sense)",
-      "prefer": "name which: (1) System Charter — scope document of one system (core_05040_band_continuity.md#system-charter); (2) Institutional Charter — scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them (core_05040_band_continuity.md#institutional-charter); (3) Constitutional Charter — Chapter Fourteen polity-authorization document, as in treaty, compact, or Constitutional Charter (core_05040_band_continuity.md#constitutional-charter); Charter Role Map keeps its name; verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
+      "prefer": "name which: (1) System Charter — scope document of one system (core_05.040_band_continuity.md#system-charter); (2) Institutional Charter — scope document of an institution that runs more than one system, holding their System Charters and the reason it runs them (core_05.040_band_continuity.md#institutional-charter); (3) Constitutional Charter — Chapter Fourteen polity-authorization document, as in treaty, compact, or Constitutional Charter (core_05.040_band_continuity.md#constitutional-charter); Charter Role Map keeps its name; verb hold a charter over / supervise, charter, or … — do not use bare charter for this Constitution or the Corpus"
     },
     {
       "avoid": "Chapter Zero",
-      "prefer": "Preamble (core_00000_preamble.md); e.g. Preamble §2, Preamble measurement family"
+      "prefer": "Preamble (core_00.000_preamble.md); e.g. Preamble §2, Preamble measurement family"
     },
     {
       "avoid": "Chapter 00",
-      "prefer": "Preamble (core_00000_preamble.md); retain filename core_00000_preamble.md, ch00_* keys, and #chapter-00-* anchors"
+      "prefer": "Preamble (core_00.000_preamble.md); retain filename core_00.000_preamble.md, ch00_* keys, and #chapter-00-* anchors"
     },
     {
       "avoid": "pathway (bare; any sense)",

@@ -4,7 +4,7 @@
 
 *Your right to leave a system, switch, and take your things with you.*
 
-> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXI](../../core_06020_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity), the official text is what counts.
+> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXI](../../core_06.020_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity), the official text is what counts.
 >
 > A note on "you" and "people": this constitution protects every sentient being it covers, not only humans. Here, "people" means all of them.
 

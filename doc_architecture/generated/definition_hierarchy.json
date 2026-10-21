@@ -6,7 +6,7 @@
   "entries": [
     {
       "term": "Abstract Strictness",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#abstract-strictness",
       "line_start": 515,
       "definition_class": "semi_independent",
@@ -21,7 +21,7 @@
     },
     {
       "term": "Accessibility",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#accessibility-constitutional",
       "line_start": 42,
       "definition_class": "independent",
@@ -36,7 +36,7 @@
     },
     {
       "term": "Accountability",
-      "canonical_file": "core_05005_apex_accountability_leg.md",
+      "canonical_file": "core_05.005_apex_accountability_leg.md",
       "anchor": "accountability",
       "line_start": 1,
       "definition_class": "apex_head",
@@ -51,7 +51,7 @@
     },
     {
       "term": "Adjudication and Dispute Resolution",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#adjudication-and-dispute-resolution-constitutional",
       "line_start": 578,
       "definition_class": "semi_independent",
@@ -67,7 +67,7 @@
     },
     {
       "term": "Adversarial, Scaled, and Exploited Conditions",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#adversarial-scaled-and-exploited-conditions",
       "line_start": 37,
       "definition_class": "independent",
@@ -82,7 +82,7 @@
     },
     {
       "term": "Animal Cruelty",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#animal-cruelty",
       "line_start": 2297,
       "definition_class": "dependent_cluster",
@@ -98,7 +98,7 @@
     },
     {
       "term": "Animal Life",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#animal-life-constitutional",
       "line_start": 2337,
       "definition_class": "dependent_cluster",
@@ -113,7 +113,7 @@
     },
     {
       "term": "Anti-Capture",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#anti-capture",
       "line_start": 2741,
       "definition_class": "semi_independent",
@@ -128,7 +128,7 @@
     },
     {
       "term": "Anti-Constitutional Misconduct Review",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#anti-constitutional-misconduct-review",
       "line_start": 3466,
       "definition_class": "dependent_cluster",
@@ -143,7 +143,7 @@
     },
     {
       "term": "Anti-Displacement Floor",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#anti-displacement-floor-constitutional",
       "line_start": 4106,
       "definition_class": "dependent_cluster",
@@ -159,7 +159,7 @@
     },
     {
       "term": "Assembly",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#assembly-constitutional",
       "line_start": 456,
       "definition_class": "semi_independent",
@@ -174,7 +174,7 @@
     },
     {
       "term": "Attributable Action",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#attributable-action-constitutional",
       "line_start": 469,
       "definition_class": "semi_independent",
@@ -190,7 +190,7 @@
     },
     {
       "term": "Attribution Integrity",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#attribution-integrity-constitutional",
       "line_start": 505,
       "definition_class": "semi_independent",
@@ -206,7 +206,7 @@
     },
     {
       "term": "Auditability",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#auditability",
       "line_start": 1182,
       "definition_class": "dependent_cluster",
@@ -221,7 +221,7 @@
     },
     {
       "term": "Authority Stack and Internal Hierarchy",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#authority-stack",
       "line_start": 1020,
       "definition_class": "dependent_cluster",
@@ -237,7 +237,7 @@
     },
     {
       "term": "Autonomous Coercion Tool",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#autonomous-coercion-tool-constitutional",
       "line_start": 4055,
       "definition_class": "dependent_cluster",
@@ -253,7 +253,7 @@
     },
     {
       "term": "Autonomous Lethal System",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#autonomous-lethal-system-constitutional",
       "line_start": 3796,
       "definition_class": "dependent_cluster",
@@ -269,7 +269,7 @@
     },
     {
       "term": "Avoidable Burden",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#avoidable-burden",
       "line_start": 1598,
       "definition_class": "semi_independent",
@@ -285,7 +285,7 @@
     },
     {
       "term": "Best-Interest Standard",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
       "line_start": 3423,
       "definition_class": "dependent_cluster",
@@ -300,7 +300,7 @@
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
       "line_start": 2872,
       "definition_class": "dependent_cluster",
@@ -315,7 +315,7 @@
     },
     {
       "term": "Bodily-Maintenance Access",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#bodily-maintenance-access-constitutional",
       "line_start": 3395,
       "definition_class": "semi_independent",
@@ -331,7 +331,7 @@
     },
     {
       "term": "Burden-Reduction Duty",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#burden-reduction-duty-constitutional",
       "line_start": 1675,
       "definition_class": "semi_independent",
@@ -347,7 +347,7 @@
     },
     {
       "term": "Business Creation",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#business-creation-constitutional",
       "line_start": 624,
       "definition_class": "semi_independent",
@@ -362,7 +362,7 @@
     },
     {
       "term": "Capability Requirement",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#capability-requirement",
       "line_start": 78,
       "definition_class": "semi_independent",
@@ -377,7 +377,7 @@
     },
     {
       "term": "Capture of Resolution Pathways",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#capture-of-resolution-pathways",
       "line_start": 1208,
       "definition_class": "semi_independent",
@@ -393,7 +393,7 @@
     },
     {
       "term": "Cascading Failure",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#cascading-failure",
       "line_start": 1265,
       "definition_class": "semi_independent",
@@ -408,7 +408,7 @@
     },
     {
       "term": "Charter Pointer",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#charter-pointer",
       "line_start": 3230,
       "definition_class": "semi_independent",
@@ -423,7 +423,7 @@
     },
     {
       "term": "Charter Role Map",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#charter-role-map",
       "line_start": 3175,
       "definition_class": "semi_independent",
@@ -438,7 +438,7 @@
     },
     {
       "term": "Chartered Party",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#chartered-party",
       "line_start": 3276,
       "definition_class": "semi_independent",
@@ -453,7 +453,7 @@
     },
     {
       "term": "Classification-Scaled Governance",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#classification-scaled-governance",
       "line_start": 111,
       "definition_class": "semi_independent",
@@ -468,7 +468,7 @@
     },
     {
       "term": "Coercion and Manipulation",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#coercion-and-manipulation-constitutional",
       "line_start": 883,
       "definition_class": "semi_independent",
@@ -483,7 +483,7 @@
     },
     {
       "term": "Collective Accountability Failure",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#collective-accountability-failure",
       "line_start": 942,
       "definition_class": "semi_independent",
@@ -499,7 +499,7 @@
     },
     {
       "term": "Collective Harm Boundary",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#collective-harm-boundary",
       "line_start": 2411,
       "definition_class": "dependent_cluster",
@@ -515,7 +515,7 @@
     },
     {
       "term": "Collective Organization",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#collective-organization-constitutional",
       "line_start": 509,
       "definition_class": "semi_independent",
@@ -530,7 +530,7 @@
     },
     {
       "term": "Combatant / Non-Combatant Distinction",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#combatant-non-combatant-distinction-constitutional",
       "line_start": 3913,
       "definition_class": "dependent_cluster",
@@ -546,7 +546,7 @@
     },
     {
       "term": "Competency Bar",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#competency-bar",
       "line_start": 3319,
       "definition_class": "dependent_cluster",
@@ -561,7 +561,7 @@
     },
     {
       "term": "Competency Clearance",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#competency-clearance",
       "line_start": 3364,
       "definition_class": "dependent_cluster",
@@ -576,7 +576,7 @@
     },
     {
       "term": "Consent",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#consent-constitutional",
       "line_start": 769,
       "definition_class": "semi_independent",
@@ -591,7 +591,7 @@
     },
     {
       "term": "Consent, Sexual",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#consent-sexual",
       "line_start": 819,
       "definition_class": "semi_independent",
@@ -606,7 +606,7 @@
     },
     {
       "term": "Constitutional Charter",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#constitutional-charter",
       "line_start": 3135,
       "definition_class": "semi_independent",
@@ -621,7 +621,7 @@
     },
     {
       "term": "Constitutional Collision",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#constitutional-collision",
       "line_start": 370,
       "definition_class": "semi_independent",
@@ -636,7 +636,7 @@
     },
     {
       "term": "Constitutional Collision Record",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#constitutional-collision-record",
       "line_start": 421,
       "definition_class": "semi_independent",
@@ -651,7 +651,7 @@
     },
     {
       "term": "Constitutional Community",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#constitutional-community",
       "line_start": 105,
       "definition_class": "semi_independent",
@@ -666,7 +666,7 @@
     },
     {
       "term": "Constitutional Constraint",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#constitutional-constraint",
       "line_start": 1120,
       "definition_class": "dependent_cluster",
@@ -681,7 +681,7 @@
     },
     {
       "term": "Constitutional Contract Layer",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#constitutional-contract-layer",
       "line_start": 90,
       "definition_class": "semi_independent",
@@ -696,7 +696,7 @@
     },
     {
       "term": "Constitutional Efficiency",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#constitutional-efficiency",
       "line_start": 1448,
       "definition_class": "semi_independent",
@@ -711,7 +711,7 @@
     },
     {
       "term": "Constitutional Emergency and Contingency",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#constitutional-emergency-and-contingency",
       "line_start": 2200,
       "definition_class": "semi_independent",
@@ -726,7 +726,7 @@
     },
     {
       "term": "Contest Seat",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#contest-seat",
       "line_start": 1731,
       "definition_class": "semi_independent",
@@ -742,7 +742,7 @@
     },
     {
       "term": "Contestability",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#contestability",
       "line_start": 540,
       "definition_class": "semi_independent",
@@ -758,7 +758,7 @@
     },
     {
       "term": "Contested-Sentient Life",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#contested-sentient-life-constitutional",
       "line_start": 2464,
       "definition_class": "dependent_cluster",
@@ -773,7 +773,7 @@
     },
     {
       "term": "Contingent Claim",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#contingent-claim",
       "line_start": 253,
       "definition_class": "semi_independent",
@@ -789,7 +789,7 @@
     },
     {
       "term": "Continuity (Constitutional Aim)",
-      "canonical_file": "core_05010_apex_continuity_aim.md",
+      "canonical_file": "core_05.010_apex_continuity_aim.md",
       "anchor": "continuity-aim-constitutional",
       "line_start": 1,
       "definition_class": "apex_head",
@@ -804,7 +804,7 @@
     },
     {
       "term": "Contribution Nature",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#contribution-nature",
       "line_start": 3056,
       "definition_class": "dependent_cluster",
@@ -819,7 +819,7 @@
     },
     {
       "term": "Corpus",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#corpus",
       "line_start": 977,
       "definition_class": "dependent_cluster",
@@ -835,7 +835,7 @@
     },
     {
       "term": "Creative Work Attribution",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#creative-work-attribution-constitutional",
       "line_start": 3978,
       "definition_class": "dependent_cluster",
@@ -851,7 +851,7 @@
     },
     {
       "term": "Cross-System Extraction",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#cross-system-extraction",
       "line_start": 2428,
       "definition_class": "semi_independent",
@@ -866,7 +866,7 @@
     },
     {
       "term": "Cruelty",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#cruelty",
       "line_start": 2244,
       "definition_class": "dependent_cluster",
@@ -882,7 +882,7 @@
     },
     {
       "term": "Decentralization",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#decentralization",
       "line_start": 1845,
       "definition_class": "semi_independent",
@@ -898,7 +898,7 @@
     },
     {
       "term": "Dependency",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#dependency",
       "line_start": 2358,
       "definition_class": "semi_independent",
@@ -913,7 +913,7 @@
     },
     {
       "term": "Derived Information",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#derived-information",
       "line_start": 472,
       "definition_class": "semi_independent",
@@ -928,7 +928,7 @@
     },
     {
       "term": "Derived Sentient",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#derived-sentient-constitutional",
       "line_start": 1542,
       "definition_class": "dependent_cluster",
@@ -943,7 +943,7 @@
     },
     {
       "term": "Developing Sentient",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
       "line_start": 3386,
       "definition_class": "dependent_cluster",
@@ -958,7 +958,7 @@
     },
     {
       "term": "Dignity and Equal Moral Standing",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#dignity-and-equal-moral-standing",
       "line_start": 134,
       "definition_class": "semi_independent",
@@ -973,7 +973,7 @@
     },
     {
       "term": "Distributed Understanding",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#distributed-understanding-constitutional",
       "line_start": 4308,
       "definition_class": "dependent_cluster",
@@ -989,7 +989,7 @@
     },
     {
       "term": "Documented Legitimacy Mechanism",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#documented-legitimacy-mechanism",
       "line_start": 201,
       "definition_class": "semi_independent",
@@ -1004,7 +1004,7 @@
     },
     {
       "term": "Domain-Specific Materiality",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#domain-specific-materiality",
       "line_start": 479,
       "definition_class": "semi_independent",
@@ -1019,7 +1019,7 @@
     },
     {
       "term": "Due Process",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#due-process-constitutional",
       "line_start": 628,
       "definition_class": "semi_independent",
@@ -1035,7 +1035,7 @@
     },
     {
       "term": "Duty to Resist",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#duty-to-resist",
       "line_start": 38,
       "definition_class": "independent",
@@ -1051,7 +1051,7 @@
     },
     {
       "term": "Ecological Footprint",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#ecological-footprint",
       "line_start": 1915,
       "definition_class": "semi_independent",
@@ -1066,7 +1066,7 @@
     },
     {
       "term": "Ecological Integrity",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#ecological-integrity-constitutional",
       "line_start": 1760,
       "definition_class": "semi_independent",
@@ -1081,7 +1081,7 @@
     },
     {
       "term": "Ecological Recovery Capacity",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#ecological-recovery-capacity-constitutional",
       "line_start": 1833,
       "definition_class": "semi_independent",
@@ -1096,7 +1096,7 @@
     },
     {
       "term": "Educational Agency",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#educational-agency",
       "line_start": 3220,
       "definition_class": "dependent_cluster",
@@ -1111,7 +1111,7 @@
     },
     {
       "term": "Elevated Communicative Life",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#elevated-communicative-life-constitutional",
       "line_start": 2399,
       "definition_class": "dependent_cluster",
@@ -1126,7 +1126,7 @@
     },
     {
       "term": "Emergency and Contingency",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#emergency-and-contingency-constitutional",
       "line_start": 2155,
       "definition_class": "semi_independent",
@@ -1141,7 +1141,7 @@
     },
     {
       "term": "Emergency Pre-Deliberation Action (Binding Collective Choice)",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#emergency-pre-deliberation-action-binding-collective-choice",
       "line_start": 2291,
       "definition_class": "semi_independent",
@@ -1156,7 +1156,7 @@
     },
     {
       "term": "Environmental Preconditions",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#environmental-preconditions-constitutional",
       "line_start": 1071,
       "definition_class": "semi_independent",
@@ -1172,7 +1172,7 @@
     },
     {
       "term": "Epistemic Integrity",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#epistemic-integrity",
       "line_start": 1657,
       "definition_class": "dependent_cluster",
@@ -1187,7 +1187,7 @@
     },
     {
       "term": "Essential-Environment Non-Commodification",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#essential-environment-non-commodification-constitutional",
       "line_start": 37,
       "definition_class": "independent",
@@ -1202,7 +1202,7 @@
     },
     {
       "term": "Evaluation Completeness Constraint",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#evaluation-completeness-constraint",
       "line_start": 1314,
       "definition_class": "dependent_cluster",
@@ -1217,7 +1217,7 @@
     },
     {
       "term": "Event-Contract Market",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#event-contract-market",
       "line_start": 284,
       "definition_class": "semi_independent",
@@ -1233,7 +1233,7 @@
     },
     {
       "term": "Evidence Preservation",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#evidence-preservation",
       "line_start": 1264,
       "definition_class": "dependent_cluster",
@@ -1248,7 +1248,7 @@
     },
     {
       "term": "Existential Risk",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#existential-risk",
       "line_start": 1316,
       "definition_class": "semi_independent",
@@ -1263,7 +1263,7 @@
     },
     {
       "term": "Expression",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#expression-constitutional",
       "line_start": 3085,
       "definition_class": "dependent_cluster",
@@ -1278,7 +1278,7 @@
     },
     {
       "term": "Fair Compensation",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#fair-compensation-constitutional",
       "line_start": 3720,
       "definition_class": "dependent_cluster",
@@ -1294,7 +1294,7 @@
     },
     {
       "term": "Family and Care Relationships",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#family-and-care-relationships-constitutional",
       "line_start": 1385,
       "definition_class": "semi_independent",
@@ -1309,7 +1309,7 @@
     },
     {
       "term": "Feasibility",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#feasibility",
       "line_start": 69,
       "definition_class": "independent",
@@ -1325,7 +1325,7 @@
     },
     {
       "term": "Flourishing",
-      "canonical_file": "core_05015_apex_flourishing_aim.md",
+      "canonical_file": "core_05.015_apex_flourishing_aim.md",
       "anchor": "flourishing-constitutional",
       "line_start": 1,
       "definition_class": "apex_head",
@@ -1340,7 +1340,7 @@
     },
     {
       "term": "Force Majeure",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#force-majeure-constitutional",
       "line_start": 1163,
       "definition_class": "semi_independent",
@@ -1356,7 +1356,7 @@
     },
     {
       "term": "Foreseeability",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#foreseeability-diligence",
       "line_start": 1743,
       "definition_class": "dependent_cluster",
@@ -1371,7 +1371,7 @@
     },
     {
       "term": "Forum Case Record",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#forum-case-record",
       "line_start": 2769,
       "definition_class": "dependent_cluster",
@@ -1387,7 +1387,7 @@
     },
     {
       "term": "Forum Family, Constitutional",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-constitutional",
       "line_start": 2731,
       "definition_class": "dependent_cluster",
@@ -1403,7 +1403,7 @@
     },
     {
       "term": "Forum Family, Environment",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-environment",
       "line_start": 2658,
       "definition_class": "dependent_cluster",
@@ -1419,7 +1419,7 @@
     },
     {
       "term": "Forum Family, Institutional",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-institutional",
       "line_start": 2629,
       "definition_class": "dependent_cluster",
@@ -1435,7 +1435,7 @@
     },
     {
       "term": "Forum Family, Integrity",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-integrity",
       "line_start": 2687,
       "definition_class": "dependent_cluster",
@@ -1451,7 +1451,7 @@
     },
     {
       "term": "Forum Family, Sentient",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-sentient",
       "line_start": 2565,
       "definition_class": "dependent_cluster",
@@ -1467,7 +1467,7 @@
     },
     {
       "term": "Forum Family, Technical",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#forum-family-technical",
       "line_start": 2594,
       "definition_class": "dependent_cluster",
@@ -1483,7 +1483,7 @@
     },
     {
       "term": "Foundational Constitutional Choice",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#foundational-constitutional-choice",
       "line_start": 146,
       "definition_class": "semi_independent",
@@ -1498,7 +1498,7 @@
     },
     {
       "term": "Freedom (Bounded Agency)",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#freedom-bounded-agency",
       "line_start": 169,
       "definition_class": "semi_independent",
@@ -1513,7 +1513,7 @@
     },
     {
       "term": "Full Certification",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#full-certification",
       "line_start": 78,
       "definition_class": "semi_independent",
@@ -1528,7 +1528,7 @@
     },
     {
       "term": "Fullest Protective Effect",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#fullest-protective-effect",
       "line_start": 551,
       "definition_class": "semi_independent",
@@ -1543,7 +1543,7 @@
     },
     {
       "term": "Game of Chance",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#game-of-chance",
       "line_start": 326,
       "definition_class": "semi_independent",
@@ -1559,7 +1559,7 @@
     },
     {
       "term": "Gate",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#gate",
       "line_start": 157,
       "definition_class": "semi_independent",
@@ -1574,7 +1574,7 @@
     },
     {
       "term": "Gate Criteria",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#gate-criteria",
       "line_start": 194,
       "definition_class": "semi_independent",
@@ -1589,7 +1589,7 @@
     },
     {
       "term": "Go-Live",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#go-live",
       "line_start": 122,
       "definition_class": "semi_independent",
@@ -1604,7 +1604,7 @@
     },
     {
       "term": "Good Faith",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#good-faith",
       "line_start": 100,
       "definition_class": "semi_independent",
@@ -1620,7 +1620,7 @@
     },
     {
       "term": "Governance",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#governance",
       "line_start": 1419,
       "definition_class": "semi_independent",
@@ -1636,7 +1636,7 @@
     },
     {
       "term": "Graduated Capability",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
       "line_start": 3471,
       "definition_class": "dependent_cluster",
@@ -1651,7 +1651,7 @@
     },
     {
       "term": "Harassment and Bullying",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#harassment-and-bullying",
       "line_start": 2353,
       "definition_class": "dependent_cluster",
@@ -1667,7 +1667,7 @@
     },
     {
       "term": "Hard Content",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#hard-content",
       "line_start": 3173,
       "definition_class": "dependent_cluster",
@@ -1682,7 +1682,7 @@
     },
     {
       "term": "Harm",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#harm",
       "line_start": 2128,
       "definition_class": "dependent_cluster",
@@ -1697,7 +1697,7 @@
     },
     {
       "term": "Harm Minimization (Tradeoff Selection)",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#harm-minimization-tradeoff-selection",
       "line_start": 129,
       "definition_class": "semi_independent",
@@ -1713,7 +1713,7 @@
     },
     {
       "term": "Heightened Scrutiny",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#heightened-scrutiny",
       "line_start": 245,
       "definition_class": "semi_independent",
@@ -1728,7 +1728,7 @@
     },
     {
       "term": "High-Impact and Systemic Harm Publication Constraint",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#high-impact-and-systemic-harm-publication-constraint",
       "line_start": 1559,
       "definition_class": "dependent_cluster",
@@ -1743,7 +1743,7 @@
     },
     {
       "term": "Identity Data Protection",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#identity-data-protection",
       "line_start": 4857,
       "definition_class": "dependent_cluster",
@@ -1758,7 +1758,7 @@
     },
     {
       "term": "Incentive Alignment",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#incentive-alignment",
       "line_start": 616,
       "definition_class": "dependent_cluster",
@@ -1773,7 +1773,7 @@
     },
     {
       "term": "Incentive Alignment — baseline constitutional alignment",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#incentive-alignment-baseline-constitutional-alignment",
       "line_start": 684,
       "definition_class": "dependent_cluster",
@@ -1788,7 +1788,7 @@
     },
     {
       "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
       "line_start": 748,
       "definition_class": "dependent_cluster",
@@ -1803,7 +1803,7 @@
     },
     {
       "term": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
       "line_start": 714,
       "definition_class": "dependent_cluster",
@@ -1818,7 +1818,7 @@
     },
     {
       "term": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
       "line_start": 594,
       "definition_class": "semi_independent",
@@ -1833,7 +1833,7 @@
     },
     {
       "term": "Indigenous Continuity",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#indigenous-continuity-constitutional",
       "line_start": 3529,
       "definition_class": "semi_independent",
@@ -1848,7 +1848,7 @@
     },
     {
       "term": "Info-Sphere",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#info-sphere",
       "line_start": 231,
       "definition_class": "semi_independent",
@@ -1863,7 +1863,7 @@
     },
     {
       "term": "Initiating Seat",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#initiating-seat",
       "line_start": 1551,
       "definition_class": "semi_independent",
@@ -1879,7 +1879,7 @@
     },
     {
       "term": "Innovation Reward and Anti-Enclosure",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#innovation-reward-and-anti-enclosure",
       "line_start": 251,
       "definition_class": "semi_independent",
@@ -1894,7 +1894,7 @@
     },
     {
       "term": "Insider Advantage",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#insider-advantage",
       "line_start": 357,
       "definition_class": "semi_independent",
@@ -1910,7 +1910,7 @@
     },
     {
       "term": "Instantiation Consent",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#instantiation-consent-constitutional",
       "line_start": 1591,
       "definition_class": "dependent_cluster",
@@ -1925,7 +1925,7 @@
     },
     {
       "term": "Institution",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#institution",
       "line_start": 2979,
       "definition_class": "semi_independent",
@@ -1940,7 +1940,7 @@
     },
     {
       "term": "Institutional Alignment Certification",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#institutional-alignment-certification",
       "line_start": 168,
       "definition_class": "semi_independent",
@@ -1955,7 +1955,7 @@
     },
     {
       "term": "Institutional Certification Record",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#institutional-certification-record",
       "line_start": 225,
       "definition_class": "semi_independent",
@@ -1970,7 +1970,7 @@
     },
     {
       "term": "Institutional Charter",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#institutional-charter",
       "line_start": 3084,
       "definition_class": "semi_independent",
@@ -1985,7 +1985,7 @@
     },
     {
       "term": "Institutional Development",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#institutional-development-constitutional",
       "line_start": 4384,
       "definition_class": "dependent_cluster",
@@ -2001,7 +2001,7 @@
     },
     {
       "term": "Interested Party",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#interested-party",
       "line_start": 1509,
       "definition_class": "semi_independent",
@@ -2017,7 +2017,7 @@
     },
     {
       "term": "Intergenerational Responsibility",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#intergenerational-responsibility-constitutional",
       "line_start": 2047,
       "definition_class": "semi_independent",
@@ -2032,7 +2032,7 @@
     },
     {
       "term": "Interim Hold",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#interim-hold",
       "line_start": 832,
       "definition_class": "semi_independent",
@@ -2048,7 +2048,7 @@
     },
     {
       "term": "Irreversible Deprivation Measure",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#irreversible-deprivation-measure-constitutional",
       "line_start": 3981,
       "definition_class": "dependent_cluster",
@@ -2064,7 +2064,7 @@
     },
     {
       "term": "Irreversible Harm",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#irreversible-harm",
       "line_start": 2205,
       "definition_class": "dependent_cluster",
@@ -2080,7 +2080,7 @@
     },
     {
       "term": "Jurisdiction",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#jurisdiction",
       "line_start": 2495,
       "definition_class": "dependent_cluster",
@@ -2096,7 +2096,7 @@
     },
     {
       "term": "Language, Culture, and Heritage",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#language-culture-and-heritage-constitutional",
       "line_start": 3592,
       "definition_class": "semi_independent",
@@ -2111,7 +2111,7 @@
     },
     {
       "term": "Leisure and Rest",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#leisure-and-rest-constitutional",
       "line_start": 3853,
       "definition_class": "dependent_cluster",
@@ -2127,7 +2127,7 @@
     },
     {
       "term": "Lifespan Equivalent Unit (LEQU)",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#lifespan-equivalent-unit-lequ",
       "line_start": 278,
       "definition_class": "semi_independent",
@@ -2142,7 +2142,7 @@
     },
     {
       "term": "Likeness and Documentary Depiction Interface",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
       "line_start": 3915,
       "definition_class": "dependent_cluster",
@@ -2158,7 +2158,7 @@
     },
     {
       "term": "Market Concentration Threshold",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#market-concentration-threshold-constitutional",
       "line_start": 1989,
       "definition_class": "semi_independent",
@@ -2174,7 +2174,7 @@
     },
     {
       "term": "Market Structure",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#market-structure-constitutional",
       "line_start": 1932,
       "definition_class": "semi_independent",
@@ -2190,7 +2190,7 @@
     },
     {
       "term": "Material",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#material",
       "line_start": 373,
       "definition_class": "semi_independent",
@@ -2205,7 +2205,7 @@
     },
     {
       "term": "Material Control Line",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#material-control-line",
       "line_start": 1466,
       "definition_class": "semi_independent",
@@ -2221,7 +2221,7 @@
     },
     {
       "term": "Material Degradation",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#material-degradation",
       "line_start": 900,
       "definition_class": "semi_independent",
@@ -2236,7 +2236,7 @@
     },
     {
       "term": "Material Impact",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#material-impact",
       "line_start": 695,
       "definition_class": "semi_independent",
@@ -2251,7 +2251,7 @@
     },
     {
       "term": "Material Risk",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#material-risk",
       "line_start": 743,
       "definition_class": "semi_independent",
@@ -2266,7 +2266,7 @@
     },
     {
       "term": "Materiality",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#materiality-determination",
       "line_start": 407,
       "definition_class": "semi_independent",
@@ -2279,7 +2279,7 @@
     },
     {
       "term": "Materiality Integrity Constraint",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#materiality-integrity-constraint",
       "line_start": 658,
       "definition_class": "semi_independent",
@@ -2294,7 +2294,7 @@
     },
     {
       "term": "Materiality Under Uncertainty",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#materiality-under-uncertainty",
       "line_start": 789,
       "definition_class": "semi_independent",
@@ -2309,7 +2309,7 @@
     },
     {
       "term": "Materially Binding Act",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#materially-binding-act",
       "line_start": 1767,
       "definition_class": "semi_independent",
@@ -2325,7 +2325,7 @@
     },
     {
       "term": "Materially Binding Act Record",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#materially-binding-act-record",
       "line_start": 1806,
       "definition_class": "semi_independent",
@@ -2341,7 +2341,7 @@
     },
     {
       "term": "Meaningful Agency",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#meaningful-agency",
       "line_start": 704,
       "definition_class": "semi_independent",
@@ -2357,7 +2357,7 @@
     },
     {
       "term": "Merits Determination",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#merits-determination",
       "line_start": 719,
       "definition_class": "semi_independent",
@@ -2373,7 +2373,7 @@
     },
     {
       "term": "Misaligned Reward Correction",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#misaligned-reward-correction",
       "line_start": 881,
       "definition_class": "dependent_cluster",
@@ -2388,7 +2388,7 @@
     },
     {
       "term": "Misalignment Detection",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#misalignment-detection",
       "line_start": 805,
       "definition_class": "dependent_cluster",
@@ -2403,7 +2403,7 @@
     },
     {
       "term": "Movement and Relocation",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#movement-and-relocation-constitutional",
       "line_start": 1906,
       "definition_class": "semi_independent",
@@ -2418,7 +2418,7 @@
     },
     {
       "term": "Natural Systems Standing",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#natural-systems-standing",
       "line_start": 307,
       "definition_class": "semi_independent",
@@ -2433,7 +2433,7 @@
     },
     {
       "term": "Necessity",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#necessity",
       "line_start": 160,
       "definition_class": "semi_independent",
@@ -2449,7 +2449,7 @@
     },
     {
       "term": "Negligence",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#negligence",
       "line_start": 891,
       "definition_class": "semi_independent",
@@ -2465,7 +2465,7 @@
     },
     {
       "term": "No-Bypass",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#no-bypass",
       "line_start": 340,
       "definition_class": "semi_independent",
@@ -2480,7 +2480,7 @@
     },
     {
       "term": "Non-Compliance",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#non-compliance",
       "line_start": 41,
       "definition_class": "independent",
@@ -2495,7 +2495,7 @@
     },
     {
       "term": "Non-Compliance Finding Profile",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#non-compliance-finding-profile",
       "line_start": 2844,
       "definition_class": "semi_independent",
@@ -2511,7 +2511,7 @@
     },
     {
       "term": "Non-Imposition (Cooperative Interaction)",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#non-imposition-cooperative-interaction",
       "line_start": 340,
       "definition_class": "semi_independent",
@@ -2526,7 +2526,7 @@
     },
     {
       "term": "Non-Separation",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#non-separation-constitutional",
       "line_start": 1474,
       "definition_class": "semi_independent",
@@ -2541,7 +2541,7 @@
     },
     {
       "term": "Non-Statelessness",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#non-statelessness-constitutional",
       "line_start": 2042,
       "definition_class": "semi_independent",
@@ -2556,7 +2556,7 @@
     },
     {
       "term": "Occupancy Continuity",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#occupancy-continuity-constitutional",
       "line_start": 3452,
       "definition_class": "semi_independent",
@@ -2572,7 +2572,7 @@
     },
     {
       "term": "Open Systems, Data, and Auditing",
-      "canonical_file": "core_05045_band_integrative.md",
+      "canonical_file": "core_05.045_band_integrative.md",
       "anchor": "#open-systems-data-and-auditing",
       "line_start": 846,
       "definition_class": "dependent_cluster",
@@ -2587,7 +2587,7 @@
     },
     {
       "term": "Openness Aspiration",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#openness-aspiration-constitutional",
       "line_start": 4457,
       "definition_class": "dependent_cluster",
@@ -2603,7 +2603,7 @@
     },
     {
       "term": "Operating Party",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#operating-party",
       "line_start": 610,
       "definition_class": "semi_independent",
@@ -2618,7 +2618,7 @@
     },
     {
       "term": "Outcome-Resolution Source",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#outcome-resolution-source",
       "line_start": 394,
       "definition_class": "semi_independent",
@@ -2634,7 +2634,7 @@
     },
     {
       "term": "Oversight",
-      "canonical_file": "core_05020_apex_oversight_leg.md",
+      "canonical_file": "core_05.020_apex_oversight_leg.md",
       "anchor": "oversight-constitutional",
       "line_start": 1,
       "definition_class": "apex_head",
@@ -2649,7 +2649,7 @@
     },
     {
       "term": "Parent-System Relationship",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
       "line_start": 1647,
       "definition_class": "dependent_cluster",
@@ -2664,7 +2664,7 @@
     },
     {
       "term": "Participant Standing",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#participant-standing-constitutional",
       "line_start": 2939,
       "definition_class": "dependent_cluster",
@@ -2679,7 +2679,7 @@
     },
     {
       "term": "Participation",
-      "canonical_file": "core_05025_apex_participation_leg.md",
+      "canonical_file": "core_05.025_apex_participation_leg.md",
       "anchor": "participation-constitutional",
       "line_start": 1,
       "definition_class": "apex_head",
@@ -2694,7 +2694,7 @@
     },
     {
       "term": "Personhood",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#personhood",
       "line_start": 371,
       "definition_class": "semi_independent",
@@ -2709,7 +2709,7 @@
     },
     {
       "term": "Pilot",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#pilot",
       "line_start": 269,
       "definition_class": "semi_independent",
@@ -2724,7 +2724,7 @@
     },
     {
       "term": "Press and Journalistic Activity",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#press-and-journalistic-activity-constitutional",
       "line_start": 297,
       "definition_class": "semi_independent",
@@ -2739,7 +2739,7 @@
     },
     {
       "term": "Primary-Stakes Routing",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#primary-stakes-routing",
       "line_start": 2535,
       "definition_class": "dependent_cluster",
@@ -2755,7 +2755,7 @@
     },
     {
       "term": "Privacy (Informational)",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#privacy-informational",
       "line_start": 4748,
       "definition_class": "dependent_cluster",
@@ -2770,7 +2770,7 @@
     },
     {
       "term": "Procedural Fairness",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#procedural-fairness-constitutional",
       "line_start": 1020,
       "definition_class": "semi_independent",
@@ -2785,7 +2785,7 @@
     },
     {
       "term": "Process",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#process",
       "line_start": 2934,
       "definition_class": "semi_independent",
@@ -2800,7 +2800,7 @@
     },
     {
       "term": "Productive Capacity",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#productive-capacity-constitutional",
       "line_start": 1522,
       "definition_class": "semi_independent",
@@ -2816,7 +2816,7 @@
     },
     {
       "term": "Proportionality",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#proportionality",
       "line_start": 198,
       "definition_class": "semi_independent",
@@ -2832,7 +2832,7 @@
     },
     {
       "term": "Proportionate Cross-System Support",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#proportionate-cross-system-support-constitutional",
       "line_start": 2486,
       "definition_class": "semi_independent",
@@ -2847,7 +2847,7 @@
     },
     {
       "term": "Protected Characteristic Proxying and Disparate Impact",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#protected-characteristic-proxying-and-disparate-impact",
       "line_start": 1088,
       "definition_class": "semi_independent",
@@ -2862,7 +2862,7 @@
     },
     {
       "term": "Protected Characteristics",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#protected-characteristics-constitutional",
       "line_start": 1158,
       "definition_class": "semi_independent",
@@ -2877,7 +2877,7 @@
     },
     {
       "term": "Protected Data and Internal-State Publication Constraint",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#protected-data-and-internal-state-publication-constraint",
       "line_start": 1541,
       "definition_class": "dependent_cluster",
@@ -2892,7 +2892,7 @@
     },
     {
       "term": "Protected Internal-State Boundary",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#protected-internal-state-boundary-constitutional",
       "line_start": 4811,
       "definition_class": "dependent_cluster",
@@ -2907,7 +2907,7 @@
     },
     {
       "term": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
       "line_start": 1268,
       "definition_class": "semi_independent",
@@ -2922,7 +2922,7 @@
     },
     {
       "term": "Protected Reporting (Whistleblowing)",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#protected-reporting-whistleblowing",
       "line_start": 1263,
       "definition_class": "semi_independent",
@@ -2938,7 +2938,7 @@
     },
     {
       "term": "Protected Reporting Retaliation and Access Interference",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#protected-reporting-retaliation-and-access-interference",
       "line_start": 1298,
       "definition_class": "semi_independent",
@@ -2954,7 +2954,7 @@
     },
     {
       "term": "Provisional Certification",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#provisional-certification",
       "line_start": 314,
       "definition_class": "semi_independent",
@@ -2969,7 +2969,7 @@
     },
     {
       "term": "Proxy Divergence",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#proxy-divergence",
       "line_start": 829,
       "definition_class": "semi_independent",
@@ -2985,7 +2985,7 @@
     },
     {
       "term": "Psychological Harm",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#psychological-harm",
       "line_start": 2177,
       "definition_class": "dependent_cluster",
@@ -3001,7 +3001,7 @@
     },
     {
       "term": "Public Oversight Baseline Disclosure",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#public-oversight-baseline-disclosure",
       "line_start": 1059,
       "definition_class": "dependent_cluster",
@@ -3016,7 +3016,7 @@
     },
     {
       "term": "Publication Truthfulness and Recklessness Floor",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#publication-truthfulness-and-recklessness-floor",
       "line_start": 1511,
       "definition_class": "dependent_cluster",
@@ -3031,7 +3031,7 @@
     },
     {
       "term": "Reasonably Foreseeable",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#reasonably-foreseeable",
       "line_start": 1804,
       "definition_class": "dependent_cluster",
@@ -3046,7 +3046,7 @@
     },
     {
       "term": "Recertification",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#recertification",
       "line_start": 358,
       "definition_class": "semi_independent",
@@ -3061,7 +3061,7 @@
     },
     {
       "term": "Record Custodian",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#record-custodian",
       "line_start": 1695,
       "definition_class": "semi_independent",
@@ -3077,7 +3077,7 @@
     },
     {
       "term": "Record Seat",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#record-seat",
       "line_start": 1659,
       "definition_class": "semi_independent",
@@ -3093,7 +3093,7 @@
     },
     {
       "term": "Record-Opening Authority",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#record-opening-authority",
       "line_start": 1623,
       "definition_class": "semi_independent",
@@ -3109,7 +3109,7 @@
     },
     {
       "term": "Redress and Remediation",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#redress-and-remediation-constitutional",
       "line_start": 985,
       "definition_class": "semi_independent",
@@ -3125,7 +3125,7 @@
     },
     {
       "term": "Refuge from Non-Compliance",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#refuge-from-non-compliance-constitutional",
       "line_start": 1980,
       "definition_class": "semi_independent",
@@ -3140,7 +3140,7 @@
     },
     {
       "term": "Remedy System",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#remedy-system-constitutional",
       "line_start": 1042,
       "definition_class": "semi_independent",
@@ -3156,7 +3156,7 @@
     },
     {
       "term": "Reproductive Autonomy",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#reproductive-autonomy-constitutional",
       "line_start": 1423,
       "definition_class": "semi_independent",
@@ -3171,7 +3171,7 @@
     },
     {
       "term": "Residual Risk / Misalignment",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#residual-risk--misalignment",
       "line_start": 404,
       "definition_class": "semi_independent",
@@ -3186,7 +3186,7 @@
     },
     {
       "term": "Restorative Justice",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#restorative-justice",
       "line_start": 1114,
       "definition_class": "semi_independent",
@@ -3202,7 +3202,7 @@
     },
     {
       "term": "Reversibility",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#reversibility-constitutional",
       "line_start": 1131,
       "definition_class": "semi_independent",
@@ -3217,7 +3217,7 @@
     },
     {
       "term": "Review and Correction Duty",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#review-and-correction-duty-constitutional",
       "line_start": 4667,
       "definition_class": "dependent_cluster",
@@ -3233,7 +3233,7 @@
     },
     {
       "term": "Risk",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#risk",
       "line_start": 896,
       "definition_class": "semi_independent",
@@ -3249,7 +3249,7 @@
     },
     {
       "term": "Risk Disclosure",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#risk-disclosure",
       "line_start": 1139,
       "definition_class": "dependent_cluster",
@@ -3264,7 +3264,7 @@
     },
     {
       "term": "Risk Evaluation",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#risk-evaluation",
       "line_start": 949,
       "definition_class": "semi_independent",
@@ -3280,7 +3280,7 @@
     },
     {
       "term": "Safe Conditions",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#safe-conditions-constitutional",
       "line_start": 3788,
       "definition_class": "dependent_cluster",
@@ -3296,7 +3296,7 @@
     },
     {
       "term": "Safety (Constitutional Constraint)",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#safety-constraint",
       "line_start": 827,
       "definition_class": "semi_independent",
@@ -3311,7 +3311,7 @@
     },
     {
       "term": "Security-Sensitive Disclosure Balance",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#security-sensitive-disclosure-balance",
       "line_start": 1588,
       "definition_class": "dependent_cluster",
@@ -3326,7 +3326,7 @@
     },
     {
       "term": "Self-Determination",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#self-determination-constitutional",
       "line_start": 3038,
       "definition_class": "dependent_cluster",
@@ -3341,7 +3341,7 @@
     },
     {
       "term": "Self-Healing",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#self-healing-constitutional",
       "line_start": 1190,
       "definition_class": "semi_independent",
@@ -3356,7 +3356,7 @@
     },
     {
       "term": "Sentience Non-Exclusion",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#sentience-non-exclusion",
       "line_start": 2255,
       "definition_class": "dependent_cluster",
@@ -3371,7 +3371,7 @@
     },
     {
       "term": "Sentience Status Adjudication",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#sentience-status-adjudication-constitutional",
       "line_start": 2648,
       "definition_class": "dependent_cluster",
@@ -3386,7 +3386,7 @@
     },
     {
       "term": "Sentience-Status Adjudication Record",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#sentience-status-adjudication-record-constitutional",
       "line_start": 2737,
       "definition_class": "dependent_cluster",
@@ -3401,7 +3401,7 @@
     },
     {
       "term": "Sentient",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#sentient",
       "line_start": 2583,
       "definition_class": "dependent_cluster",
@@ -3416,7 +3416,7 @@
     },
     {
       "term": "Shared-System Capacity",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#shared-system-capacity-constitutional",
       "line_start": 1393,
       "definition_class": "semi_independent",
@@ -3431,7 +3431,7 @@
     },
     {
       "term": "Short-Horizon Governance Defect",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#short-horizon-governance-defect-constitutional",
       "line_start": 4563,
       "definition_class": "dependent_cluster",
@@ -3447,7 +3447,7 @@
     },
     {
       "term": "Single Catastrophic Incident",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#single-catastrophic-incident",
       "line_start": 3600,
       "definition_class": "dependent_cluster",
@@ -3462,7 +3462,7 @@
     },
     {
       "term": "Stakeholder",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#stakeholder",
       "line_start": 1713,
       "definition_class": "semi_independent",
@@ -3477,7 +3477,7 @@
     },
     {
       "term": "Stakeholder Emergency and Contingency",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#stakeholder-emergency-and-contingency",
       "line_start": 2246,
       "definition_class": "semi_independent",
@@ -3492,7 +3492,7 @@
     },
     {
       "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
       "line_start": 2928,
       "definition_class": "dependent_cluster",
@@ -3507,7 +3507,7 @@
     },
     {
       "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
       "line_start": 2965,
       "definition_class": "dependent_cluster",
@@ -3522,7 +3522,7 @@
     },
     {
       "term": "Stakeholder Weight",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#stakeholder-weight",
       "line_start": 1761,
       "definition_class": "semi_independent",
@@ -3537,7 +3537,7 @@
     },
     {
       "term": "Standardization",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#standardization",
       "line_start": 1887,
       "definition_class": "semi_independent",
@@ -3553,7 +3553,7 @@
     },
     {
       "term": "Standing Effect",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#standing-effect-chapter-six",
       "line_start": 3161,
       "definition_class": "dependent_cluster",
@@ -3568,7 +3568,7 @@
     },
     {
       "term": "Standing Lock",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#standing-lock",
       "line_start": 3411,
       "definition_class": "dependent_cluster",
@@ -3583,7 +3583,7 @@
     },
     {
       "term": "Standing Record",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#standing-record-chapter-six",
       "line_start": 3227,
       "definition_class": "dependent_cluster",
@@ -3598,7 +3598,7 @@
     },
     {
       "term": "Stay",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#stay",
       "line_start": 775,
       "definition_class": "semi_independent",
@@ -3614,7 +3614,7 @@
     },
     {
       "term": "Stewardship",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#stewardship-constitutional",
       "line_start": 4249,
       "definition_class": "dependent_cluster",
@@ -3630,7 +3630,7 @@
     },
     {
       "term": "Stewardship Defect",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#stewardship-defect-constitutional",
       "line_start": 4608,
       "definition_class": "dependent_cluster",
@@ -3646,7 +3646,7 @@
     },
     {
       "term": "Strategic Stewardship Obligation",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#strategic-stewardship-obligation-constitutional",
       "line_start": 4507,
       "definition_class": "dependent_cluster",
@@ -3662,7 +3662,7 @@
     },
     {
       "term": "Substantive Fairness",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#substantive-fairness-constitutional",
       "line_start": 958,
       "definition_class": "semi_independent",
@@ -3677,7 +3677,7 @@
     },
     {
       "term": "Substrate Class",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#substrate-agnostic",
       "line_start": 2213,
       "definition_class": "dependent_cluster",
@@ -3692,7 +3692,7 @@
     },
     {
       "term": "Subversion",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#subversion",
       "line_start": 1340,
       "definition_class": "semi_independent",
@@ -3708,7 +3708,7 @@
     },
     {
       "term": "Surveillance Boundary",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#surveillance-boundary",
       "line_start": 4878,
       "definition_class": "dependent_cluster",
@@ -3723,7 +3723,7 @@
     },
     {
       "term": "Sustainability",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#sustainability",
       "line_start": 1978,
       "definition_class": "semi_independent",
@@ -3738,7 +3738,7 @@
     },
     {
       "term": "Sustained High-Gravity Pattern",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
       "line_start": 3639,
       "definition_class": "dependent_cluster",
@@ -3753,7 +3753,7 @@
     },
     {
       "term": "System",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#system-definition",
       "line_start": 2833,
       "definition_class": "semi_independent",
@@ -3768,7 +3768,7 @@
     },
     {
       "term": "System Alignment Certification",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#system-alignment-certification-constitutional",
       "line_start": 490,
       "definition_class": "semi_independent",
@@ -3783,7 +3783,7 @@
     },
     {
       "term": "System Boundaries",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#system-boundaries",
       "line_start": 2868,
       "definition_class": "semi_independent",
@@ -3798,7 +3798,7 @@
     },
     {
       "term": "System Boundary Integrity",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#system-boundary-integrity",
       "line_start": 2900,
       "definition_class": "semi_independent",
@@ -3813,7 +3813,7 @@
     },
     {
       "term": "System Capture",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#system-capture",
       "line_start": 2690,
       "definition_class": "semi_independent",
@@ -3828,7 +3828,7 @@
     },
     {
       "term": "System Certification Record",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#system-certification-record-constitutional",
       "line_start": 589,
       "definition_class": "semi_independent",
@@ -3843,7 +3843,7 @@
     },
     {
       "term": "System Charter",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#system-charter",
       "line_start": 3027,
       "definition_class": "semi_independent",
@@ -3858,7 +3858,7 @@
     },
     {
       "term": "System Classification Record",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#system-classification-record-constitutional",
       "line_start": 672,
       "definition_class": "semi_independent",
@@ -3873,7 +3873,7 @@
     },
     {
       "term": "System Creation",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#system-creation-constitutional",
       "line_start": 564,
       "definition_class": "semi_independent",
@@ -3888,7 +3888,7 @@
     },
     {
       "term": "System Data Types Record",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#system-data-types-record-constitutional",
       "line_start": 733,
       "definition_class": "semi_independent",
@@ -3903,7 +3903,7 @@
     },
     {
       "term": "Systemic",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#systemic",
       "line_start": 2586,
       "definition_class": "semi_independent",
@@ -3918,7 +3918,7 @@
     },
     {
       "term": "Systemic Lock-In",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#systemic-lock-in",
       "line_start": 3326,
       "definition_class": "semi_independent",
@@ -3933,7 +3933,7 @@
     },
     {
       "term": "Systemic Materiality",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#systemic-materiality",
       "line_start": 2641,
       "definition_class": "semi_independent",
@@ -3948,7 +3948,7 @@
     },
     {
       "term": "Timeliness",
-      "canonical_file": "core_05030_apex_timeliness_leg.md",
+      "canonical_file": "core_05.030_apex_timeliness_leg.md",
       "anchor": "timeliness-constitutional",
       "line_start": 1,
       "definition_class": "apex_head",
@@ -3963,7 +3963,7 @@
     },
     {
       "term": "Timely Resolution",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#timely-resolution-constitutional",
       "line_start": 673,
       "definition_class": "semi_independent",
@@ -3979,7 +3979,7 @@
     },
     {
       "term": "Training-Data Use",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#training-data-use-constitutional",
       "line_start": 4049,
       "definition_class": "dependent_cluster",
@@ -3995,7 +3995,7 @@
     },
     {
       "term": "Transparency",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#transparency",
       "line_start": 999,
       "definition_class": "dependent_cluster",
@@ -4010,7 +4010,7 @@
     },
     {
       "term": "Trust",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#trust",
       "line_start": 4979,
       "definition_class": "dependent_cluster",
@@ -4025,7 +4025,7 @@
     },
     {
       "term": "Trust Degradation and Misleading Reliance",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#trust-degradation-and-misleading-reliance",
       "line_start": 5080,
       "definition_class": "dependent_cluster",
@@ -4040,7 +4040,7 @@
     },
     {
       "term": "Trustworthiness",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#trustworthiness",
       "line_start": 5014,
       "definition_class": "dependent_cluster",
@@ -4056,7 +4056,7 @@
     },
     {
       "term": "Truth (Constitutional Constraint)",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#truth-constitutional-constraint",
       "line_start": 1617,
       "definition_class": "dependent_cluster",
@@ -4072,7 +4072,7 @@
     },
     {
       "term": "Unified Incident",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#unified-incident",
       "line_start": 3509,
       "definition_class": "dependent_cluster",
@@ -4087,7 +4087,7 @@
     },
     {
       "term": "Unified Incident Record",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#unified-incident-record",
       "line_start": 3549,
       "definition_class": "dependent_cluster",
@@ -4102,7 +4102,7 @@
     },
     {
       "term": "Use of Force",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#use-of-force-constitutional",
       "line_start": 3730,
       "definition_class": "dependent_cluster",
@@ -4118,7 +4118,7 @@
     },
     {
       "term": "Verifiability",
-      "canonical_file": "core_05050_band_oversight.md",
+      "canonical_file": "core_05.050_band_oversight.md",
       "anchor": "#verifiability",
       "line_start": 1377,
       "definition_class": "dependent_cluster",
@@ -4133,7 +4133,7 @@
     },
     {
       "term": "Verified Inputs for Standing",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#verified-inputs-for-standing",
       "line_start": 3003,
       "definition_class": "dependent_cluster",
@@ -4148,7 +4148,7 @@
     },
     {
       "term": "Verify-or-Authorize Seat",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#verify-or-authorize-seat",
       "line_start": 1587,
       "definition_class": "semi_independent",
@@ -4164,7 +4164,7 @@
     },
     {
       "term": "Violation Nature",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#violation-nature-chapter-six",
       "line_start": 3109,
       "definition_class": "dependent_cluster",
@@ -4179,7 +4179,7 @@
     },
     {
       "term": "Volitional Integrity",
-      "canonical_file": "core_05055_band_participation.md",
+      "canonical_file": "core_05.055_band_participation.md",
       "anchor": "#volitional-integrity",
       "line_start": 3281,
       "definition_class": "dependent_cluster",
@@ -4194,7 +4194,7 @@
     },
     {
       "term": "Voluntary Discontinuation",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#voluntary-discontinuation-constitutional",
       "line_start": 425,
       "definition_class": "semi_independent",
@@ -4209,7 +4209,7 @@
     },
     {
       "term": "Weapons of Mass Harm",
-      "canonical_file": "core_05035_band_accountability.md",
+      "canonical_file": "core_05.035_band_accountability.md",
       "anchor": "#weapons-of-mass-harm-constitutional",
       "line_start": 3849,
       "definition_class": "dependent_cluster",
@@ -4225,7 +4225,7 @@
     },
     {
       "term": "Wellbeing",
-      "canonical_file": "core_05040_band_continuity.md",
+      "canonical_file": "core_05.040_band_continuity.md",
       "anchor": "#wellbeing",
       "line_start": 989,
       "definition_class": "semi_independent",

@@ -18,10 +18,10 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-CH8_PART_A = "core_09005_system_alignment_certification_evaluation.md"
-CH8_PART_B = "core_09010_system_alignment_certification_record_process.md"
+CH8_PART_A = "core_09.005_system_alignment_certification_evaluation.md"
+CH8_PART_B = "core_09.010_system_alignment_certification_record_process.md"
 CH8_FILES = (CH8_PART_A, CH8_PART_B)
-CH4_FILE = "core_04000_burden_traceability_verification.md"
+CH4_FILE = "core_04.000_burden_traceability_verification.md"
 
 # Operative phrases owned by Chapter Four §§1–6; Ch9 should cite upstream, not restate.
 CH4_EXCLUSIVE_PATTERNS: list[tuple[str, re.Pattern[str]]] = [

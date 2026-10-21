@@ -19,9 +19,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 from local_markdown_fragment_audit import github_slug  # noqa: E402
 
-FA = "core_01005_values_principles.md"
-FB = "core_01010_interaction_interpretation.md"
-FC = "core_01015_stewardship_capacity_principles.md"
+FA = "core_01.005_values_principles.md"
+FB = "core_01.010_interaction_interpretation.md"
+FC = "core_01.015_stewardship_capacity_principles.md"
 CH1 = [FA, FB, FC]
 
 TOP = {6: 7, 7: 6}
@@ -46,7 +46,7 @@ HEAD = re.compile(r"^(#{3,6}) (\d+(?:\.\d+)*)(\.?) (.+?)\s*$")
 ANCH_LINE = re.compile(r'^<a id="[^"]+"></a>\s*$')
 ANCH = re.compile(r'<a id="([^"]+)"></a>')
 LINK = re.compile(r'\[((?:[^\[\]]|\[[^\]]*\])*)\]\(([^)\s]+)((?:\s+"[^"]*")?)\)')
-RAW_REF = re.compile(r"(?P<path>(?:[\w./-]*/)?core_01_[abc]_\w+\.md)#(?P<frag>[\w-]+)")
+RAW_REF = re.compile(r"(?P<path>(?:[\w./-]*/)?core_01\.[0-9]{3}_\w+\.md)#(?P<frag>[\w-]+)")
 
 
 def new_num(old: str) -> str:

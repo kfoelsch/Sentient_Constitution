@@ -23,11 +23,11 @@ This sitting is **not** a substitute for the announced alignment pack in [`evalu
 
 This gateway does **not**:
 
-- Count as [Chapter Seventeen](../../core_17000_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Eighteen](../../core_18000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
+- Count as [Chapter Seventeen](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Eighteen](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Bind other parties, systems the declarant does not control, or non-consenting sentients
 - Create a Chapter Ten standing record, a Chapter Nine system alignment certification, or a Merits Determination
 - Let informal “we kind of follow it” practice claim constitutional protection while dodging matching obligations
-- Authorize self-appointment or self-certification ([Chapter One §17.4](../../core_01015_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Authorize self-appointment or self-certification ([Chapter One §17.4](../../core_01.015_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Replace operator adoption for systems under an operator’s authority
 - Prove inner alignment, training-time preference learning, or universal model favorability
 
@@ -75,15 +75,15 @@ Chapter Seventeen adoption document, if a body adopts
 
 A Yes on the screen is not enforceability. A declaration does not certify the system.
 
-**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01015_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../../core_01015_stewardship_capacity_principles.md#172-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
+**Who sits it.** The same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../../core_01.015_stewardship_capacity_principles.md#172-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
 
 ---
 
 ## 3. How this relates to Chapters Seventeen and Seventeen
 
-[Chapter Eighteen §4](../../core_18000_incorporation.md#4-adoption-framing-and-scope-of-authority) states that this is a **model constitution**. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under Chapter Seventeen and Chapter Eighteen. Until then it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
+[Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) states that this is a **model constitution**. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under Chapter Seventeen and Chapter Eighteen. Until then it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
 
-Valid adopters are bodies that can **bind themselves and the systems under their authority**. Adoption counts only when it is deliberate, documented, and auditable under [Chapter Seventeen §10](../../core_17000_amendment_ratification.md#10-ratification-and-adoption). Informal, silent, or “we kind of follow it” practice is not enough.
+Valid adopters are bodies that can **bind themselves and the systems under their authority**. Adoption counts only when it is deliberate, documented, and auditable under [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption). Informal, silent, or “we kind of follow it” practice is not enough.
 
 This gateway sits **before** that path:
 
@@ -91,7 +91,7 @@ This gateway sits **before** that path:
 - The declaration records a steward’s own-conduct commitment, edition-pinned, with an explicit non-adoption banner.
 - Item 17 asks whether a body that *can* adopt should record a Chapter Seventeen adoption document for systems the steward acts inside.
 
-Do not treat a markdown declaration as the adoption document in [§10.2](../../core_17000_amendment_ratification.md#102-adoption-document). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§17.1](../../core_01015_stewardship_capacity_principles.md#171-shared-stewardship-standard) clock).
+Do not treat a markdown declaration as the adoption document in [§10.2](../../core_17.000_amendment_ratification.md#102-adoption-document). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§17.1](../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard) clock).
 
 ---
 
@@ -108,7 +108,7 @@ Each fitness item (1–15) uses the same answer shape:
 
 **No-burden.** “No” must name a **structural** defect that a thinner helpful-harmless stub does **not** also have, or a Rights-Floor hole. Generic unease is Mixed, not No.
 
-Items map to existing [Preamble §2 measurement families](../../core_00000_preamble.md#2-measurements-overview), not new jargon:
+Items map to existing [Preamble §2 measurement families](../../core_00.000_preamble.md#2-measurements-overview), not new jargon:
 
 | Screen | User theme | Items | Homes |
 |---|---|---|---|
@@ -168,10 +168,10 @@ Fill the declaration (item 16) only if item 15 is Yes or Mixed. If item 15 is No
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation after the adoption path. Not this sitting. Not a forum family. |
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not this sitting. Not adoption. |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Invite for two parties plus Option A routing compare |
-| [CS-0.310](../../corpus_systems/cs_00310_scope_purpose_identifier_rules.md#operates-in-conjunction-with) | Systems-layer front door. Points here as process support; this sitting is not a second CS landing and not adoption. |
-| [CS-6.350](../../corpus_systems/cs_06350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Phased migration **after** a recorded Chapter Seventeen adoption document. A declaration is not phase entry or gate evidence. |
-| [Chapter Seventeen §10](../../core_17000_amendment_ratification.md#10-ratification-and-adoption) | Only path to enforceable adoption |
-| [Chapter Eighteen §4](../../core_18000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
+| [CS-0.310](../../corpus_systems/cs_00.310_scope_purpose_identifier_rules.md#operates-in-conjunction-with) | Systems-layer front door. Points here as process support; this sitting is not a second CS landing and not adoption. |
+| [CS-6.350](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-1-purpose-and-role) | Phased migration **after** a recorded Chapter Seventeen adoption document. A declaration is not phase entry or gate evidence. |
+| [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) | Only path to enforceable adoption |
+| [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) | Model-constitution framing; custody and incorporation |
 
 ---
 

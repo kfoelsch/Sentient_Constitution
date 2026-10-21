@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -17,7 +17,7 @@
 
 *In plain terms: a diagnosis does not mean you have already lost the right to choose. No one should make a roof or medical care depend on giving up your doctor, your money, or who you live with. If someone truly has to step in during a crisis, they should handle only that problem, do as little as needed, set an end date, and check again later.*
 
-This page is for you if you live with a mental-health condition, or if a rough week is being treated as if you can no longer speak for yourself. You do not have to take a label to use it. When a diagnosis is used to take over decisions, those rules are located in the section on [Article VII-C](../../../core_06010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor).
+This page is for you if you live with a mental-health condition, or if a rough week is being treated as if you can no longer speak for yourself. You do not have to take a label to use it. When a diagnosis is used to take over decisions, those rules are located in the section on [Article VII-C](../../../core_06.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor).
 
 ## One in seven now — and most still cannot reach care
 
@@ -41,25 +41,25 @@ If a clinic, hospital, or other body that actually runs the systems in your life
 - **Today:** The refill was delayed. They call the gap “noncompliant.” The only way to get the next appointment, or to stay housed, is to take their clinician’s list and agree in advance they will decide “until you are stable.”
 - **With this Constitution:** Everyone this covers has a right to the care needed to keep body and mind functioning. Getting that care is not consent to intrusion, and it does not let anyone compel treatment.
 
-See: [Article III-B](../../../core_06005_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access); [Article VII-C](../../../core_06010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor).
+See: [Article III-B](../../../core_06.005_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access); [Article VII-C](../../../core_06.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor).
 
 **A diagnosis is not proof you can no longer choose for yourself.**
 - **Today:** Once you have the diagnosis, they act as if you no longer get to choose. If you say no to the extra conditions on their help, they treat that as proof you cannot make your own choices. A relative writes a concern and talks as if it were already decided that you are unsafe.
 - **With this Constitution:** How much you may do yourself follows what you can actually show, including when that showing changes. “For your own good” still does not, by itself, pass the tests a limit must meet. A relative’s written concern is a report waiting to be looked at, not already a finding that you are unsafe.
 
-See: [Article VII-A](../../../core_06010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VIII-D](../../../core_06010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability); [Chapter Ten §2.1](../../../core_10000_standing_assessment.md#21-silence-is-the-default).
+See: [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VIII-D](../../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability); [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-is-the-default).
 
 **Help cannot buy your clinician, your money, or who you live with.**
 - **Today:** The spare room, food, and rides are offered only if you switch clinicians, give them your bank cards, and agree “the family” will decide housing and who you see. If you refuse, they say they will have you held, or that someone you live with is not safe.
 - **With this Constitution:** You own your body and mind. Family relationship is not authority over you. Using housing or survival help as the price of those decisions is a violation of this protection, not ordinary family terms you can refuse.
 
-See: [Article VII-A](../../../core_06010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-F](../../../core_06010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association); [CI-6.245](../../../corpus_institutions/ci_06245_relational_coercive_control_intimate_power_anti_domination.md).
+See: [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-F](../../../core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association); [CI-6.245](../../../corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md).
 
 **If someone steps in during a crisis, that step cannot become a lasting takeover.**
 - **Today:** “Crisis” is used to detain you, change your medication, and keep your bank cards and the lease with no date to look again. You were in a clinic for a few days years ago, and they still use that as a reason to keep making your choices for you.
 - **With this Constitution:** Where a mental-health crisis leads to detention, treatment, restraint, or compelled medication, the step has to be the smallest needed, time-limited, independently reviewed, and reversible. Calling it a crisis does not relax those tests. It does not let anyone reconstruct what you think and feel from how you behave.
 
-See: [Article VII-C](../../../core_06010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor); [Chapter One §13.1.5](../../../core_01010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+See: [Article VII-C](../../../core_06.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor); [Chapter One §13.1.5](../../../core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 ## What you might reasonably object to
 
@@ -67,11 +67,11 @@ See: [Article VII-C](../../../core_06010_rights_part_b.md#article-vii-c-health-c
 
 - **“They’ll hold me for my own good.”** A real crisis can still mean a small step with an end date. What this text will not treat as ordinary is using “crisis” to take over your life for good, or holding you because a relative wrote a concern. Someone still has to check what is actually happening, and that check is not the relative’s job. This text will not pretend you can do a thing you currently cannot.
 
-- **“I don’t want a mental-illness label. I want care, and I want my say.”** You do not have to take that label to use this page. Health status still cannot be used, without a real reason, to shut you out. When a diagnosis is used to take over your choices, those rules are located in the section on [Article VII-C](../../../core_06010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor).
+- **“I don’t want a mental-illness label. I want care, and I want my say.”** You do not have to take that label to use this page. Health status still cannot be used, without a real reason, to shut you out. When a diagnosis is used to take over your choices, those rules are located in the section on [Article VII-C](../../../core_06.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor).
 
-- **“This isn’t law at my clinic.”** Correct, until a body that actually runs that clinic agrees to follow this Constitution. Until then this may guide; it has no independent power against a clinic or relative who did not agree ([Chapter Eighteen §4](../../../core_18000_incorporation.md#4-adoption-framing-and-scope-of-authority)). It does not replace the health or family law already in force ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law at my clinic.”** Correct, until a body that actually runs that clinic agrees to follow this Constitution. Until then this may guide; it has no independent power against a clinic or relative who did not agree ([Chapter Eighteen §4](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)). It does not replace the health or family law already in force ([Chapter Sixteen §5](../../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“Family is just trying to help.”** Worry is not automatically a harm. What is easier for your family is not, by itself, the same as what is good for you. A relative’s written concern is waiting to be looked at, not already a decision that you are unsafe ([Chapter Ten §2.1](../../../core_10000_standing_assessment.md#21-silence-is-the-default)).
+- **“Family is just trying to help.”** Worry is not automatically a harm. What is easier for your family is not, by itself, the same as what is good for you. A relative’s written concern is waiting to be looked at, not already a decision that you are unsafe ([Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-is-the-default)).
 
 ## What this will not pretend to give you
 

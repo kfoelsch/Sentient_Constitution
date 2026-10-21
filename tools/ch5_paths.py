@@ -2,23 +2,23 @@
 
 from __future__ import annotations
 
-CH5_INDEX = "core_05000_definitions_home.md"
+CH5_INDEX = "core_05.000_definitions_home.md"
 CH5_PART_A = CH5_INDEX  # alias for legacy imports
 
-CH5_BAND_O = "core_05050_band_oversight.md"
-CH5_BAND_P = "core_05055_band_participation.md"
-CH5_BAND_A = "core_05035_band_accountability.md"
-CH5_BAND_C = "core_05040_band_continuity.md"
-CH5_BAND_I = "core_05045_band_integrative.md"
-CH5_BAND_M = "core_05060_band_performance.md"
+CH5_BAND_O = "core_05.050_band_oversight.md"
+CH5_BAND_P = "core_05.055_band_participation.md"
+CH5_BAND_A = "core_05.035_band_accountability.md"
+CH5_BAND_C = "core_05.040_band_continuity.md"
+CH5_BAND_I = "core_05.045_band_integrative.md"
+CH5_BAND_M = "core_05.060_band_performance.md"
 
-CH5_AIM_F = "core_05015_apex_flourishing_aim.md"
-CH5_AIM_G = "core_05010_apex_continuity_aim.md"
+CH5_AIM_F = "core_05.015_apex_flourishing_aim.md"
+CH5_AIM_G = "core_05.010_apex_continuity_aim.md"
 
-CH5_LEG_A = "core_05005_apex_accountability_leg.md"
-CH5_LEG_O = "core_05020_apex_oversight_leg.md"
-CH5_LEG_P = "core_05025_apex_participation_leg.md"
-CH5_LEG_T = "core_05030_apex_timeliness_leg.md"
+CH5_LEG_A = "core_05.005_apex_accountability_leg.md"
+CH5_LEG_O = "core_05.020_apex_oversight_leg.md"
+CH5_LEG_P = "core_05.025_apex_participation_leg.md"
+CH5_LEG_T = "core_05.030_apex_timeliness_leg.md"
 
 CH5_BANDS: tuple[str, ...] = (
     CH5_BAND_A,

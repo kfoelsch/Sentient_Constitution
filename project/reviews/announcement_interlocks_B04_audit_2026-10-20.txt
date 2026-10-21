@@ -13,37 +13,37 @@ Audit report: scope regression, 105 targets, 4 jobs, 20s
 
 -- section-cite-name-audit (Links, anchors and cites), exit 2, 0.3s
    FAIL: SECTION-CITE-NAME-01 — 1 unnamed section-number cite(s).
-     core_07000_charters.md:562: SECTION-CITE-NAME-01: unnamed §4.7.1: section-number link has no title in the link text or a following (*title*) gloss
+     core_07.000_charters.md:562: SECTION-CITE-NAME-01: unnamed §4.7.1: section-number link has no title in the link text or a following (*title*) gloss
    re-run: make section-cite-name-audit
 
 -- corpus-ref-name-audit (Links, anchors and cites), exit 2, 0.1s
    FAIL: CORPUS-REF-NAME-01 — 1 corpus reference problem(s).
-     core_07000_charters.md:698: CORPUS-REF-NAME-01: CI-14.205 §2: corpus reference has no name; add (*Role criteria, appointment standards, and removal pathways*) or put the name in the link text
+     core_07.000_charters.md:698: CORPUS-REF-NAME-01: CI-14.205 §2: corpus reference has no name; add (*Role criteria, appointment standards, and removal pathways*) or put the name in the link text
    re-run: make corpus-ref-name-audit
 
 -- heading-runin-echo-audit (Markdown structure and layout), exit 2, 0.1s
    FAIL: MD-HEADING-RUNIN-01 — 2 heading-echo run-in label(s).
-     core_07000_charters.md:544: MD-HEADING-RUNIN-01: §4.7.3 opens with a bold run-in that restates the heading: **If events remove the last qualified substitute**
-     core_07000_charters.md:556: MD-HEADING-RUNIN-01: §4.7.4 opens with a bold run-in that restates the heading: **Certification seats run on the same clock**
+     core_07.000_charters.md:544: MD-HEADING-RUNIN-01: §4.7.3 opens with a bold run-in that restates the heading: **If events remove the last qualified substitute**
+     core_07.000_charters.md:556: MD-HEADING-RUNIN-01: §4.7.4 opens with a bold run-in that restates the heading: **Certification seats run on the same clock**
    re-run: make heading-runin-echo-audit
 
 -- section-bullet-lead-audit (Markdown structure and layout), exit 2, 0.1s
    FAIL: MD-SECTION-LEAD-01 — 4 section(s) open with a list item (Chapter Five definition files exempt).
-     core_07000_charters.md:526: MD-SECTION-LEAD-01: section '4.7.1 When a gap exists and how it is logged' (line 524) opens with a list item, not lead-in prose: '- **A map with gaps makes the System Charter or Institutional C
-     core_07000_charters.md:534: MD-SECTION-LEAD-01: section '4.7.2 While a gap is open' (line 532) opens with a list item, not lead-in prose: "- **Until it is resolved:** None of the Chartered Party's own offices can issue a
-     core_07000_charters.md:544: MD-SECTION-LEAD-01: section '4.7.3 If events remove the last qualified substitute' (line 542) opens with a list item, not lead-in prose: '- **If events remove the last qualified substitute:** I
+     core_07.000_charters.md:526: MD-SECTION-LEAD-01: section '4.7.1 When a gap exists and how it is logged' (line 524) opens with a list item, not lead-in prose: '- **A map with gaps makes the System Charter or Institutional C
+     core_07.000_charters.md:534: MD-SECTION-LEAD-01: section '4.7.2 While a gap is open' (line 532) opens with a list item, not lead-in prose: "- **Until it is resolved:** None of the Chartered Party's own offices can issue a
+     core_07.000_charters.md:544: MD-SECTION-LEAD-01: section '4.7.3 If events remove the last qualified substitute' (line 542) opens with a list item, not lead-in prose: '- **If events remove the last qualified substitute:** I
    re-run: make section-bullet-lead-audit
 
 -- time-reference-audit (Time windows), exit 2, 0.8s
    FAIL: 2 time reference(s) without a stated bound and tier or class (TIME-REF-01)
-     core_07000_charters.md:550: [duration] missing bound: Tier A emergency: In a Tier A emergency where a life or serious rights are at stake, the default is 3 days.
-     core_07000_charters.md:727: [duration] missing bound: An emergency substitution keeps its own shorter check window, which the Charter sets and which can't be longer than the Tier maximum (defaul
+     core_07.000_charters.md:550: [duration] missing bound: Tier A emergency: In a Tier A emergency where a life or serious rights are at stake, the default is 3 days.
+     core_07.000_charters.md:727: [duration] missing bound: An emergency substitution keeps its own shorter check window, which the Charter sets and which can't be longer than the Tier maximum (defaul
      Name the bound kind (e.g. outer bound, intake target) and the tier or class that sets it, or use a registered fixed-period name (tools/time_reference_registry.json).
    re-run: make time-reference-audit
 
 -- section-abbreviation-descriptor-audit (Markdown structure and layout), exit 2, 0.1s
    Naked implementation-section IDs found:
-   core_07000_charters.md:698: CI-14.205 §2: It does not create standing records, locks, holds, or competency bars. It does not replace **CI-14.205 §2** or Chapter Eight. It does not make any member of staff a test of belief. It does not
+   core_07.000_charters.md:698: CI-14.205 §2: It does not create standing records, locks, holds, or competency bars. It does not replace **CI-14.205 §2** or Chapter Eight. It does not make any member of staff a test of belief. It does not
    re-run: make section-abbreviation-descriptor-audit
 
 -- lexical-vocabulary-audit (Vocabulary and readability), exit 2, 9.5s

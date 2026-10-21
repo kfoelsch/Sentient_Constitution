@@ -3,311 +3,311 @@
   "note": "Time references that predate TIME-REF-01 and do not yet name a bound kind and a tier or class (or a registered fixed period). Shrink this list; do not grow it. Regenerate with --write-baseline only when removing entries.",
   "known": [
     {
-      "key": "core_06010_rights_part_b.md::duration::6fc701d5e5f0",
+      "key": "core_06.010_rights_part_b.md::duration::6fc701d5e5f0",
       "snippet": "The independent review above must begin inside the prompt-review window ([Chapter Thirteen §6 Timely resolution, materiality tiers, and anti"
     },
     {
-      "key": "core_06015_rights_part_c.md::duration::2b90d6a4fcc4",
+      "key": "core_06.015_rights_part_c.md::duration::2b90d6a4fcc4",
       "snippet": "One ordinary term: Expressive and functional works share the same ordinary outer term: 30 years from the point the work is made public."
     },
     {
-      "key": "core_06015_rights_part_c.md::duration::3d2c03ed5054",
+      "key": "core_06.015_rights_part_c.md::duration::3d2c03ed5054",
       "snippet": "In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee."
     },
     {
-      "key": "core_06015_rights_part_c.md::duration::45ffef9ec2a0",
+      "key": "core_06.015_rights_part_c.md::duration::45ffef9ec2a0",
       "snippet": "Exclusive phase: For no more than disclosure+15 years, the right-holder may refuse permission to others."
     },
     {
-      "key": "core_06015_rights_part_c.md::duration::5038f1e18848",
+      "key": "core_06.015_rights_part_c.md::duration::5038f1e18848",
       "snippet": "A non-commercial draft or unpublished expressive work that has made an initial appearance may receive copyright-like exclusion for no more t"
     },
     {
-      "key": "core_06015_rights_part_c.md::duration::71f7c3aa3257",
+      "key": "core_06.015_rights_part_c.md::duration::71f7c3aa3257",
       "snippet": "Open-licensing phase: From the end of the exclusive phase until no later than disclosure+30 years, anyone may use the invention without the "
     },
     {
-      "key": "core_06015_rights_part_c.md::duration::81abb97e1f34",
+      "key": "core_06.015_rights_part_c.md::duration::81abb97e1f34",
       "snippet": "A published work should presumptively receive no more than publication+30 years of exclusion."
     },
     {
-      "key": "core_06015_rights_part_c.md::duration::8ed67ff323f9",
+      "key": "core_06.015_rights_part_c.md::duration::8ed67ff323f9",
       "snippet": "*In plain terms: creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication —"
     },
     {
-      "key": "core_06020_rights_part_d.md::duration::084185556035",
+      "key": "core_06.020_rights_part_d.md::duration::084185556035",
       "snippet": "Transition: A system already in operation when this sub-article first applies to it must disclose a migration plan and meet the interoperabi"
     },
     {
-      "key": "core_06025_rights_part_e.md::duration::c72e411e8f31",
+      "key": "core_06.025_rights_part_e.md::duration::c72e411e8f31",
       "snippet": "Attainment is measured, not asserted: attainment and readiness must be shown by a Rights-Floor attainment ledger that is independently verif"
     },
     {
-      "key": "core_10000_standing_assessment.md::duration::0a42e0ca4982",
+      "key": "core_10.000_standing_assessment.md::duration::0a42e0ca4982",
       "snippet": "| 1 | Less than about 9 days | Basic Baseline Contribution — verified satisfaction of the constitutional floor for the assessed scope; any m"
     },
     {
-      "key": "core_10000_standing_assessment.md::duration::2c3d95e555f9",
+      "key": "core_10.000_standing_assessment.md::duration::2c3d95e555f9",
       "snippet": "Regulator notice eight months earlier flagged failing retaining berms."
     },
     {
-      "key": "core_10000_standing_assessment.md::duration::63c6c9b7f873",
+      "key": "core_10.000_standing_assessment.md::duration::63c6c9b7f873",
       "snippet": "| 7 | About 1–5 lifetimes (80–400 years) | Recognized Champion — at least one LEQU of verified, constitutionally aligned benefit. | Serious "
     },
     {
-      "key": "core_10000_standing_assessment.md::duration::73f68501985e",
+      "key": "core_10.000_standing_assessment.md::duration::73f68501985e",
       "snippet": "| 3 | About 47 days–8 months | Verified Positive Contribution — demonstrable benefit beyond baseline at this impact level. | Material Consti"
     },
     {
-      "key": "core_10000_standing_assessment.md::duration::823bf6183911",
+      "key": "core_10.000_standing_assessment.md::duration::823bf6183911",
       "snippet": "| 5 | About 3.2–16 years | Established Stewardship-Positive Contribution — durable stewardship, coordination, maintenance, repair, or compar"
     },
     {
-      "key": "core_10000_standing_assessment.md::duration::924dae311eb3",
+      "key": "core_10.000_standing_assessment.md::duration::924dae311eb3",
       "snippet": "| 8 | About 5–25 lifetimes (400–2,000 years) | Distinguished Champion — verified benefit materially exceeding s = 7. | Grave Constitutional "
     },
     {
-      "key": "core_10000_standing_assessment.md::duration::9d019cb60285",
+      "key": "core_10.000_standing_assessment.md::duration::9d019cb60285",
       "snippet": "| 2 | About 9–47 days | Strengthened Baseline Contribution — reliable, bounded performance above the minimum floor within this impact level."
     },
     {
-      "key": "core_10000_standing_assessment.md::duration::a922870fa62d",
+      "key": "core_10.000_standing_assessment.md::duration::a922870fa62d",
       "snippet": "| 4 | About 8 months–3.2 years | Material Positive Contribution — deeper, lasting, repeated, vulnerability-responsive, or broader verified b"
     },
     {
-      "key": "core_10000_standing_assessment.md::duration::aba625a21e03",
+      "key": "core_10.000_standing_assessment.md::duration::aba625a21e03",
       "snippet": "| 6 | About 16–80 years | Major Stewardship-Positive Contribution — major verified benefit approaching one LEQU. | Severe Constitutional Imp"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::0e43cac3d8f5",
+      "key": "core_10.005_application_vignettes.md::duration::0e43cac3d8f5",
       "snippet": "| Remedy commencement | 2 days | 4 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::0e9581e3b099",
+      "key": "core_10.005_application_vignettes.md::duration::0e9581e3b099",
       "snippet": "The question this vignette answers is the one the standing chapters are most often read as failing to answer: what does this sentient see of"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::116ca70bcf2f",
+      "key": "core_10.005_application_vignettes.md::duration::116ca70bcf2f",
       "snippet": "| Remedy record opened on operator's finding | ≤ 1 day after Q3 |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::229640033d78",
+      "key": "core_10.005_application_vignettes.md::duration::229640033d78",
       "snippet": "| Intake acknowledgment | 2 days | 2 days (no relaxation) |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::2519383b55fe",
+      "key": "core_10.005_application_vignettes.md::duration::2519383b55fe",
       "snippet": "| Remedy commencement | 2 days after Q3 |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::48378187f274",
+      "key": "core_10.005_application_vignettes.md::duration::48378187f274",
       "snippet": "| Q2 measurement | 1 day after verified inputs |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::51db61b9c53d",
+      "key": "core_10.005_application_vignettes.md::duration::51db61b9c53d",
       "snippet": "| Intake acknowledgment | 2 calendar days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::6b939587c0a1",
+      "key": "core_10.005_application_vignettes.md::duration::6b939587c0a1",
       "snippet": "| Integrated resolution outer bound (the stages add up to it) | ≤ 14 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::9589ed8e406e",
+      "key": "core_10.005_application_vignettes.md::duration::9589ed8e406e",
       "snippet": "| Integrated resolution outer bound (the stages add up to it) | ≤ 7 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::9fb30d5bfd35",
+      "key": "core_10.005_application_vignettes.md::duration::9fb30d5bfd35",
       "snippet": "| Status case opened; representative appointed | ≤ 3 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::a1c39a052320",
+      "key": "core_10.005_application_vignettes.md::duration::a1c39a052320",
       "snippet": "| Q1 verified finding → standing record | 2 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::ad2bb8337e15",
+      "key": "core_10.005_application_vignettes.md::duration::ad2bb8337e15",
       "snippet": "| Q2 measurement | 2 days after verified inputs |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::aee0d1f70eb5",
+      "key": "core_10.005_application_vignettes.md::duration::aee0d1f70eb5",
       "snippet": "| Integrity review of operator's own-product filing | ≤ 7 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::b08635779877",
+      "key": "core_10.005_application_vignettes.md::duration::b08635779877",
       "snippet": "| Q3 integration | 4 days after Q2 |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::b82f36adfe36",
+      "key": "core_10.005_application_vignettes.md::duration::b82f36adfe36",
       "snippet": "| Q1 verified finding → standing record | 4 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::bb7ec3a1e1f6",
+      "key": "core_10.005_application_vignettes.md::duration::bb7ec3a1e1f6",
       "snippet": "| Q3 integration | 2 days after Q2 |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::d16037900af5",
+      "key": "core_10.005_application_vignettes.md::duration::d16037900af5",
       "snippet": "| Q3 integration | 4 days | 9 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::df8c50579f2b",
+      "key": "core_10.005_application_vignettes.md::duration::df8c50579f2b",
       "snippet": "| Q1 verified finding → standing record | 4 days | 9 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::e3caa5839891",
+      "key": "core_10.005_application_vignettes.md::duration::e3caa5839891",
       "snippet": "| Remedy commencement | 1 day after Q3 |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::f188d44c0baf",
+      "key": "core_10.005_application_vignettes.md::duration::f188d44c0baf",
       "snippet": "| Q2 measurement | 2 days | 4 days |"
     },
     {
-      "key": "core_10005_application_vignettes.md::duration::fa682cd5c881",
+      "key": "core_10.005_application_vignettes.md::duration::fa682cd5c881",
       "snippet": "| Intake acknowledgment | ≤ 24 hours |"
     },
     {
-      "key": "core_11000_standing_integration.md::duration::cf2c20419d9b",
+      "key": "core_11.000_standing_integration.md::duration::cf2c20419d9b",
       "snippet": "After 50 years, a contribution remains in the historical record but supplies no current clearance weight."
     },
     {
-      "key": "core_13000_forum.md::duration::3aa98e88dc91",
+      "key": "core_13.000_forum.md::duration::3aa98e88dc91",
       "snippet": "Tier L: at most 60 days (two months);"
     },
     {
-      "key": "core_13000_forum.md::duration::46b008449f9f",
+      "key": "core_13.000_forum.md::duration::46b008449f9f",
       "snippet": "If that month has no such day (for example 29 February, or the 31st in a 30-day month), it ends on the last day of that month."
     },
     {
-      "key": "core_13000_forum.md::duration::4e87552ed85a",
+      "key": "core_13.000_forum.md::duration::4e87552ed85a",
       "snippet": "The audit must be completed no later than that midpoint: 45 days for Class A, 3 months for Class B, 6 months for Class C, 1 year for Class L"
     },
     {
-      "key": "core_13000_forum.md::duration::55e75ef3b147",
+      "key": "core_13.000_forum.md::duration::55e75ef3b147",
       "snippet": "The same five classes set how often certified systems and Institutions are checked, from every three months to every three years, with an au"
     },
     {
-      "key": "core_13000_forum.md::duration::5d60b2be4cdd",
+      "key": "core_13.000_forum.md::duration::5d60b2be4cdd",
       "snippet": "*In plain terms: forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for"
     },
     {
-      "key": "core_13000_forum.md::duration::6218121e3645",
+      "key": "core_13.000_forum.md::duration::6218121e3645",
       "snippet": "Tier C: at most 30 days (one month);"
     },
     {
-      "key": "core_13000_forum.md::duration::65f42a83f496",
+      "key": "core_13.000_forum.md::duration::65f42a83f496",
       "snippet": "They must finish within 3 days of the start of the measure or of the deferral, whichever is earlier."
     },
     {
-      "key": "core_13000_forum.md::duration::7a2306390a5c",
+      "key": "core_13.000_forum.md::duration::7a2306390a5c",
       "snippet": "Tier P: at most 90 days (three months)."
     },
     {
-      "key": "core_13000_forum.md::duration::ad88a551471f",
+      "key": "core_13.000_forum.md::duration::ad88a551471f",
       "snippet": "Independent review of the measure must begin sooner, inside the prompt-review window of 24 hours (see Prompt review below)."
     },
     {
-      "key": "core_13000_forum.md::duration::b6754ca0e511",
+      "key": "core_13.000_forum.md::duration::b6754ca0e511",
       "snippet": "At the Emergency level (see Time-scale levels above) the window is 3 days, not 7."
     },
     {
-      "key": "core_13000_forum.md::duration::d97f407f08fd",
+      "key": "core_13.000_forum.md::duration::d97f407f08fd",
       "snippet": "Tier A: at most 7 days (1 week);"
     },
     {
-      "key": "core_13000_forum.md::duration::df985f2288ec",
+      "key": "core_13.000_forum.md::duration::df985f2288ec",
       "snippet": "Tier B: at most 14 days (2 weeks);"
     },
     {
-      "key": "core_14000_governance.md::duration::887dbcb0ed5f",
+      "key": "core_14.000_governance.md::duration::887dbcb0ed5f",
       "snippet": "*In plain terms: if power runs on a term or stretch between real votes, the written rules should say whether the community can end it early—"
     },
     {
-      "key": "corpus_forum/cf_13405_forum_formation_chamber_structure.md::duration::d2bedff6b8ae",
+      "key": "corpus_forum/cf_13.405_forum_formation_chamber_structure.md::duration::d2bedff6b8ae",
       "snippet": "the attachment-publication requirements in CJS-18.110 §1.2 (*Attachment publication*), with one calendar year treated as the ordinary maximu"
     },
     {
-      "key": "corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md::duration::0611efa5d411",
+      "key": "corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md::duration::0611efa5d411",
       "snippet": "No shelving: The registrar enters a received result in the register within seven days of receipt."
     },
     {
-      "key": "corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md::duration::5f1e95668667",
+      "key": "corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md::duration::5f1e95668667",
       "snippet": "Silence is receipt: If the registrar gives no receipt within seven days, the filing counts as received on the day it was lodged."
     },
     {
-      "key": "corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md::duration::718d600cc6a4",
+      "key": "corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md::duration::718d600cc6a4",
       "snippet": "Silence is receipt: If the registrar gives no receipt within seven days, the result counts as received on the day it was lodged."
     },
     {
-      "key": "corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md::duration::de8f6ef99d28",
+      "key": "corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md::duration::de8f6ef99d28",
       "snippet": "Incomplete lodging: The date of first lodging stands if the missing items are supplied within the time the registrar states, which is never "
     },
     {
-      "key": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md::duration::04aa218800b2",
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::04aa218800b2",
       "snippet": "At the Emergency level it stays at the Tier A figure of 24 hours."
     },
     {
-      "key": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md::duration::1f24f5b20505",
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::1f24f5b20505",
       "snippet": "In Tiers C, L, and P, intake, Question 2, and remedy commencement take 4, 8, and 12 days, and Question 1 and Question 3 each take half of th"
     },
     {
-      "key": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md::duration::228243f1f2d7",
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::228243f1f2d7",
       "snippet": "Those outer bounds implement [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline] (7 / 14 / 30 / 60 / 90 da"
     },
     {
-      "key": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md::duration::40c90d93d8dc",
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::40c90d93d8dc",
       "snippet": "They must finish within 3 calendar days of the start of the measure or of the deferral, whichever is earlier."
     },
     {
-      "key": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md::duration::ad88a551471f",
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::ad88a551471f",
       "snippet": "Independent review of the measure must begin sooner, inside the prompt-review window of 24 hours (see Prompt review below)."
     },
     {
-      "key": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md::duration::ce476753051e",
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::duration::ce476753051e",
       "snippet": "The restricted information authority (CF-13.415 §8 (*Restricted information authority*)) answers an access question in an Emergency-level ma"
     },
     {
-      "key": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md::vague::94477bea6beb",
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::vague::94477bea6beb",
       "snippet": "obtain a lawful forum without unreasonable delay;"
     },
     {
-      "key": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md::vague::b84852bc6cd4",
+      "key": "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md::vague::b84852bc6cd4",
       "snippet": "*In plain terms: Performance is measured by what an affected party can actually do: find out where the matter stands, reach a forum without "
     },
     {
-      "key": "corpus_institutions/ci_06275_transitional_governance_institutional_evolution.md::duration::2e27c304e582",
+      "key": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md::duration::2e27c304e582",
       "snippet": "Major progress report: at least every three months, and at every phase gate, the institution publishes a report that explains the ledger."
     },
     {
-      "key": "corpus_institutions/ci_06275_transitional_governance_institutional_evolution.md::duration::f8660c92a7ca",
+      "key": "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md::duration::f8660c92a7ca",
       "snippet": "It says where each floor started, where it is now, where it must be and by when, which scopes it is already enforceable for, how the numbers"
     },
     {
-      "key": "corpus_institutions/ci_08215_oversight_assurance_controls_evidence.md::duration::153d0e7c3baf",
+      "key": "corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md::duration::153d0e7c3baf",
       "snippet": "*In plain terms: each institution must report on whether its safeguards work — but reporting is not only once a year."
     },
     {
-      "key": "corpus_institutions/ci_08215_oversight_assurance_controls_evidence.md::duration::c65bff9d486a",
+      "key": "corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md::duration::c65bff9d486a",
       "snippet": "CI-8.215 §1 — routine controls attestation plus urgency-scaled incident notice when something breaks (breaches, corruption, control failures"
     },
     {
-      "key": "corpus_joint_structure/cjs_05130_continuity_operations.md::duration::a0ffb1d1d387",
+      "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::a0ffb1d1d387",
       "snippet": "Published works should use publication+30 years as the presumptive outer limit."
     },
     {
-      "key": "corpus_joint_structure/cjs_05130_continuity_operations.md::duration::cc9528cdaaf0",
+      "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::cc9528cdaaf0",
       "snippet": "Claims over inventions, processes, and other functional works should use disclosure+15 years as the outer limit of exclusion, followed by an"
     },
     {
-      "key": "corpus_joint_structure/cjs_05130_continuity_operations.md::duration::d352d0b658b4",
+      "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::d352d0b658b4",
       "snippet": "Systems already running have one year by default to move to open formats, apart from the way out, which applies at once.*"
     },
     {
-      "key": "corpus_joint_structure/cjs_05130_continuity_operations.md::duration::f869c42dad19",
+      "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::f869c42dad19",
       "snippet": "Non-commercial drafts or unpublished expressive works that have made an initial non-confidential public appearance may receive no more than "
     },
     {
-      "key": "corpus_joint_structure/cjs_05130_continuity_operations.md::duration::ff6e06a60056",
+      "key": "corpus_joint_structure/cjs_05.130_continuity_operations.md::duration::ff6e06a60056",
       "snippet": "Systems already in operation when the sub-article first applies must disclose a migration plan and meet the interoperability, internal-forma"
     },
     {
-      "key": "corpus_systems/cs_06310_data_classifications.md::duration::7bd5531731b4",
+      "key": "corpus_systems/cs_06.310_data_classifications.md::duration::7bd5531731b4",
       "snippet": "Where the rights-holder has neither made the work available nor offered it for use on reasonable terms for a continuous period of three year"
     }
   ]

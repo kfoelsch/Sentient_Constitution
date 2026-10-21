@@ -20,16 +20,16 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-PART_A = "core_05000_definitions_home.md"
+PART_A = "core_05.000_definitions_home.md"
 OLD_PART_B = "core_05-05_definitions_b_semi_independent.md"
 OLD_PART_C = "core_05-05_definitions_c_dependent_clusters.md"
 
 BAND_FILES = {
-    "o": "core_05050_band_oversight.md",
-    "p": "core_05055_band_participation.md",
-    "a": "core_05035_band_accountability.md",
-    "c": "core_05040_band_continuity.md",
-    "i": "core_05045_band_integrative.md",
+    "o": "core_05.050_band_oversight.md",
+    "p": "core_05.055_band_participation.md",
+    "a": "core_05.035_band_accountability.md",
+    "c": "core_05.040_band_continuity.md",
+    "i": "core_05.045_band_integrative.md",
 }
 
 BAND_ORDER = ("o", "p", "a", "c", "i")
@@ -276,24 +276,24 @@ TOPIC_GROUP_BAND_MAP: dict[str, str] = {
 BAND_PREAMBLES: dict[str, str] = {
     "o": (
         "This band holds **Oversight**-leg definitions from the [Constitutional Triad]"
-        "(../core_00000_preamble.md#constitutional-triad): transparency, auditability, truth, "
+        "(../core_00.000_preamble.md#constitutional-triad): transparency, auditability, truth, "
         "materiality classification, and strategic stewardship oversight. Primary constitutional "
-        "aim: [Flourishing](../core_01005_values_principles.md#flourishing), with Continuity-scaled "
+        "aim: [Flourishing](../core_01.005_values_principles.md#flourishing), with Continuity-scaled "
         "clusters where noted in the compass."
     ),
     "p": (
         "This band holds **Participation**-leg definitions: accessibility, agency, consent, "
         "assembly, stakeholder voice, self-determination, and comparable participation floors. "
-        "Primary constitutional aim: [Flourishing](../core_01005_values_principles.md#flourishing)."
+        "Primary constitutional aim: [Flourishing](../core_01.005_values_principles.md#flourishing)."
     ),
     "a": (
         "This band holds **Accountability**-leg definitions: contestability, redress, governance "
         "architecture, procedural integrity, standing, collective harm, forum routing, and use-of-force "
-        "constraints. Scales with [material stake](../core_00000_preamble.md#material-stake)."
+        "constraints. Scales with [material stake](../core_00.000_preamble.md#material-stake)."
     ),
     "c": (
         "This band holds definitions under the constitutional [Continuity aim]"
-        "(../core_01005_values_principles.md#continuity): dependency, risk, survival-floor continuity, "
+        "(../core_01.005_values_principles.md#continuity): dependency, risk, survival-floor continuity, "
         "labor floors, stewardship discipline, privacy lifecycle, and trust. "
         "**Continuity disambiguation:** constitutional **Continuity aim** (Chapter One ?1) is distinct "
         "from operational or protocol continuity elsewhere in the corpus."
@@ -306,27 +306,27 @@ BAND_PREAMBLES: dict[str, str] = {
 }
 
 NEW_FILES_SPEC: dict[str, dict] = {
-    "core_05050_band_oversight.md": {
+    "core_05.050_band_oversight.md": {
         "band": "o",
         "family_title": "Oversight leg definitions (Chapter One ?8.2���?3.3 clusters)",
         "clusters": ["3.2", "3.3"],
     },
-    "core_05055_band_participation.md": {
+    "core_05.055_band_participation.md": {
         "band": "p",
         "family_title": "Participation leg definitions (?3.5���?3.7 clusters)",
         "clusters": ["3.5", "3.6", "3.7"],
     },
-    "core_05035_band_accountability.md": {
+    "core_05.035_band_accountability.md": {
         "band": "a",
         "family_title": "Accountability leg definitions (?3.8���Chapter One ?8.11 clusters)",
         "clusters": ["3.8", "3.9", "3.10", "3.11"],
     },
-    "core_05040_band_continuity.md": {
+    "core_05.040_band_continuity.md": {
         "band": "c",
         "family_title": "Continuity aim definitions (Chapter One ?8.12���Chapter One ?8.15 clusters)",
         "clusters": ["3.12", "3.13", "3.14", "3.15"],
     },
-    "core_05045_band_integrative.md": {
+    "core_05.045_band_integrative.md": {
         "band": "i",
         "family_title": "Integrative cross-leg definitions (Chapter One ?8.16 cluster)",
         "clusters": ["3.16"],
@@ -353,11 +353,11 @@ CLUSTER_ANCHORS: dict[str, str] = {
 
 REDIRECT_MAP = {
     OLD_PART_B: (
-        "core_05035_band_accountability.md",
+        "core_05.035_band_accountability.md",
         "Semi-independent definitions are now distributed across constitutional band files.",
     ),
     OLD_PART_C: (
-        "core_05045_band_integrative.md",
+        "core_05.045_band_integrative.md",
         "Dependent clusters are now distributed across constitutional band files.",
     ),
 }
@@ -524,8 +524,8 @@ def constitutional_frame_lines(new_id: str) -> list[str]:
         return []
     lines = [
         f"- Constitutional frame: **{meta['leg']}** leg; **{meta['aim']}** aim (primary); "
-        "scales with [material stake](../core_00000_preamble.md#material-stake) via "
-        "[Materiality Determination](../core_05050_band_oversight.md#materiality-determination)."
+        "scales with [material stake](../core_00.000_preamble.md#material-stake) via "
+        "[Materiality Determination](../core_05.050_band_oversight.md#materiality-determination)."
     ]
     if meta.get("cross"):
         lines.append(f"- Cross-leg note: {meta['cross']}.")
@@ -534,7 +534,7 @@ def constitutional_frame_lines(new_id: str) -> list[str]:
     if meta.get("basis"):
         lines.append(
             f"- Chapter One basis: {meta['basis']} (see "
-            "[Chapter Five compass](../core_05000_definitions_home.md#chapter-five-compass-and-definition-map) map)."
+            "[Chapter Five compass](../core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) map)."
         )
     return lines
 
@@ -606,8 +606,8 @@ BAND_CHAIN = (
 
 def band_footer(filename: str) -> str:
     idx = BAND_CHAIN.index(filename)
-    prev_file = BAND_CHAIN[idx - 1] if idx > 0 else "core_05000_definitions_home.md"
-    next_file = "core_10000_standing_assessment.md" if idx == len(BAND_CHAIN) - 1 else BAND_CHAIN[idx + 1]
+    prev_file = BAND_CHAIN[idx - 1] if idx > 0 else "core_05.000_definitions_home.md"
+    next_file = "core_10.000_standing_assessment.md" if idx == len(BAND_CHAIN) - 1 else BAND_CHAIN[idx + 1]
     return (
         f"\n\n---\n\n"
         f"**Previous file:** [{prev_file}]({prev_file})\n\n"
@@ -712,8 +712,8 @@ def build_band_file(
         '<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>',
         "",
         f"- Upstream: [Chapter Five compass]({PART_A}#chapter-five-compass-and-definition-map); "
-        "[Constitutional Triad](../core_00000_preamble.md#constitutional-triad); "
-        "[Two Constitutional Aims](../core_01005_values_principles.md#two-constitutional-aims).",
+        "[Constitutional Triad](../core_00.000_preamble.md#constitutional-triad); "
+        "[Two Constitutional Aims](../core_01.005_values_principles.md#two-constitutional-aims).",
         f"- Downstream: {leg}-band canonical definition homes for Chapter Five.",
         f"- Read with: **{leg}** band definitions; mandatory cluster read-with where admission scope applies.",
         "",
@@ -790,7 +790,7 @@ def build_compass_section() -> str:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Triad](../core_00000_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01005_values_principles.md#two-constitutional-aims); [material stake](../core_00000_preamble.md#material-stake).
+- Upstream: [Constitutional Triad](../core_00.000_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01.005_values_principles.md#two-constitutional-aims); [material stake](../core_00.000_preamble.md#material-stake).
 - Downstream: constitutional orientation for all Chapter Five band definitions and ?3 dependent clusters.
 - Read with: [?3.0.1 Joint invocation](#21-joint-invocation-and-satisfaction) and [?3.0.2 Standalone interaction](#22-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
@@ -798,14 +798,14 @@ def build_compass_section() -> str:
 
 <br>
 
-Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes; it does not replace the [Constitutional Triad](../core_00000_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01005_values_principles.md#two-constitutional-aims), or [material stake](../core_00000_preamble.md#material-stake) scaling required by [Chapter Two](../core_02-04_definition_mechanics.md).
+Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes; it does not replace the [Constitutional Triad](../core_00.000_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01.005_values_principles.md#two-constitutional-aims), or [material stake](../core_00.000_preamble.md#material-stake) scaling required by [Chapter Two](../core_02-04_definition_mechanics.md).
 
 **Reading order**
 
 1. This compass and the constitutional bands below.
 2. The band file for the relevant Triad leg, **Continuity** band, or **Integrative** band.
 3. Individual definition O/E/C entries; dependent clusters per admission scope.
-4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05035_band_accountability.md#non-compliance-finding-profile) metadata.
+4. Where a finding is **non-compliant**, optional [Non-Compliance Finding Profile](core_05.035_band_accountability.md#non-compliance-finding-profile) metadata.
 
 **Constitutional bands**
 

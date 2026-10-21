@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "cs4_inspectable_action_log.schema.json",
   "title": "CS-14.305 §10 inspectable attributable action log",
-  "description": "Machine-checkable form of the CS-14.305 §10 five-element set. Same schema for human and AI stewards. Binding home: corpus_systems/cs_14305_critical_system_stewardship.md#10-inspectable-attributable-action. This file is a validating schema, not a standing record. Timestamps against Chapter Thirteen §6 / Article XXVI-C tier clocks are required when a numeric bound applies.",
+  "description": "Machine-checkable form of the CS-14.305 §10 five-element set. Same schema for human and AI stewards. Binding home: corpus_systems/cs_14.305_critical_system_stewardship.md#10-inspectable-attributable-action. This file is a validating schema, not a standing record. Timestamps against Chapter Thirteen §6 / Article XXVI-C tier clocks are required when a numeric bound applies.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -161,7 +161,7 @@
   "$defs": {
     "seat_type": {
       "type": "string",
-      "description": "CI-14.205 §6 seat catalog: corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-46-seat-catalog.",
+      "description": "CI-14.205 §6 seat catalog: corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-catalog.",
       "enum": [
         "initiating",
         "verify_or_authorize",

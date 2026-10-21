@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Give every adopted-implementation section heading an explicit anchor.
 
-``cs_06305_information_types_and_handling.md`` places an ``<a id="...">`` line
+``cs_06.305_information_types_and_handling.md`` places an ``<a id="...">`` line
 above each heading, so a citation keeps working even if the heading text is
 later reworded. Sections added or promoted elsewhere in the systems corpus
 inherited the auto-generated slug instead.

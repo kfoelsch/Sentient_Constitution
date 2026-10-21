@@ -160,7 +160,7 @@ def is_registry_annex(rel: str) -> bool:
 
 def is_ch5_definition_file(rel: str) -> bool:
     name = Path(rel).name
-    return name.startswith("core_05_") or name == "core_05000_definitions_home.md"
+    return name.startswith("core_05.") or name == "core_05.000_definitions_home.md"
 
 
 def intervening_between_widgets(

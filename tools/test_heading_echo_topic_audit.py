@@ -63,12 +63,12 @@ class HeadingEchoTopicTests(unittest.TestCase):
             '<a id="4-3-voluntary-public-accountability-expression"></a>\n'
             "### 4.3 Voluntary public accountability expression (anti-constitutional)\n\n"
             "*In plain terms: gloss.*\n\n"
-            "[Chapter Ten §4.3](core_11000_standing_integration.md"
+            "[Chapter Ten §4.3](core_11.000_standing_integration.md"
             "#43-voluntary-public-accountability-expression) supplies the "
             "general rule.\n"
         )
         self.assertEqual(
-            self._cites(text, "core_12005_misconduct_designation.md"),
+            self._cites(text, "core_12.005_misconduct_designation.md"),
             [],
         )
 

@@ -24,7 +24,7 @@ from corpus_paths import binding_corpus_scope
 from corpus_ref_name_audit import added_line_numbers
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-PART_FILES = sorted(ROOT.glob("core_060??_rights_part_*.md"))
+PART_FILES = sorted(ROOT.glob("core_06.???_rights_part_*.md"))
 
 HEADING_RE = re.compile(
     r"^#{3,5} Article ([IVXLCDM]+(?:-[A-Z](?:\.\d+)?)?): (.+?)\s*$"

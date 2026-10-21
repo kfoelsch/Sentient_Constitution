@@ -72,7 +72,7 @@ class SectionCiteNameTests(unittest.TestCase):
     def test_accepts_preamble_cite_with_title(self) -> None:
         self.assertEqual(
             self._cites(
-                "[Preamble §3.3 Governance Layers](core_00000_preamble.md#33-governance-layers)"
+                "[Preamble §3.3 Governance Layers](core_00.000_preamble.md#33-governance-layers)"
             ),
             [],
         )
@@ -108,7 +108,7 @@ class SectionCiteNameTests(unittest.TestCase):
         self.assertEqual(
             self._cites(
                 "[Chapter Seven §2 *Four-seat constitutional floor*]"
-                "(core_08000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)"
+                "(core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)"
             ),
             [],
         )

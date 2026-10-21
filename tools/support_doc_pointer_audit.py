@@ -14,7 +14,7 @@ routing, or formatting. Allowed exceptions:
 support — so binding text must not route *through* it either. A deep link into a
 README section (``README.md#…``) sends a reader to the support map to learn where
 a constitutional step lives; cite the owner chapter, or the Preamble chain map at
-``core_00000_preamble.md#62-how-the-full-chain-fits-together``, instead. A bare
+``core_00.000_preamble.md#62-how-the-full-chain-fits-together``, instead. A bare
 ``README.md`` link stays allowed: reading order, the binding/support split, edition
 and document-control identifiers, and the reading-chain footer are what the README
 is for.
@@ -74,7 +74,7 @@ def audit(root: Path) -> list[str]:
                 errors.append(
                     f"{rel}:{lineno}: binding corpus routes through a README section; "
                     f"cite the owner chapter or the Preamble chain map "
-                    f"(core_00000_preamble.md#62-how-the-full-chain-fits-together) "
+                    f"(core_00.000_preamble.md#62-how-the-full-chain-fits-together) "
                     f"(SUPPORT-DOC-POINTER-01): {line.strip()[:160]}"
                 )
             if not DOC_ARCH.search(line):

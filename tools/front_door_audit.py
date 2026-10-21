@@ -71,7 +71,7 @@ README = "README.md"
 START_HERE = "START_HERE.md"
 ANNOUNCEMENT = "implementation/adoption/ANNOUNCEMENT.md"
 FIT = "implementation/adoption/FIT_SITUATIONS.md"
-PREAMBLE = "core_00000_preamble.md"
+PREAMBLE = "core_00.000_preamble.md"
 
 # Pages that must carry the edition string.
 EDITION_PAGES = (
@@ -261,7 +261,7 @@ def core_chapter_count(root: Path) -> int:
     numbers = [
         int(m.group(1))
         for path in root.glob("core_*.md")
-        if (m := re.match(r"core_(\d{2})\d{3}_", path.name))
+        if (m := re.match(r"core_(\d{2})\.\d{3}_", path.name))
     ]
     return max(numbers) if numbers else 0
 
@@ -298,7 +298,7 @@ def check_chapters(root: Path) -> list[str]:
 
 def article_numerals(root: Path) -> list[int]:
     found: set[int] = set()
-    for path in sorted(root.glob("core_060??_rights_part_*.md")):
+    for path in sorted(root.glob("core_06.???_rights_part_*.md")):
         for match in re.finditer(r"^#{1,6}\s+Article\s+([IVXL]+)\b", path.read_text(encoding="utf-8"), re.M):
             found.add(roman_to_int(match.group(1)))
     return sorted(found)

@@ -33,12 +33,12 @@ import sys
 from pathlib import Path
 
 CJS3_FILES = [
-    "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_05110_oversight_operations.md",
-    "corpus_joint_structure/cjs_05120_participation_operations.md",
-    "corpus_joint_structure/cjs_05125_accountability_operations.md",
-    "corpus_joint_structure/cjs_05130_continuity_operations.md",
-    "corpus_joint_structure/cjs_05135_integrative_operations.md",
+    "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_05.110_oversight_operations.md",
+    "corpus_joint_structure/cjs_05.120_participation_operations.md",
+    "corpus_joint_structure/cjs_05.125_accountability_operations.md",
+    "corpus_joint_structure/cjs_05.130_continuity_operations.md",
+    "corpus_joint_structure/cjs_05.135_integrative_operations.md",
 ]
 
 NONCOMPLIANT_PREFIX_RE = re.compile(

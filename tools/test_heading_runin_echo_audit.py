@@ -71,7 +71,7 @@ class HeadingRuninEchoTests(unittest.TestCase):
     def test_accepts_heading_term_as_sentence_subject(self) -> None:
         text = (
             "### 14. Market Structure\n\n"
-            "**[Market Structure](core_05035_band_accountability.md#market-structure)** "
+            "**[Market Structure](core_05.035_band_accountability.md#market-structure)** "
             "governs whether sentients can take part in productive systems.\n"
         )
         self.assertEqual(self._labels(text), [])

@@ -25,20 +25,20 @@ from cjs_odef_format import LEGACY_OP_RE, titled_guidepost_entries
 from definition_separator_format import audit_separator_lines
 
 CJS1_FILES = (
-    "corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md",
-    "corpus_joint_structure/cjs_18105_drafting_contracts.md",
-    "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md",
-    "corpus_joint_structure/cjs_08105_support_hosting_classification.md",
+    "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
+    "corpus_joint_structure/cjs_18.105_drafting_contracts.md",
+    "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
+    "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
 )
 CJS1_FILE = CJS1_FILES[0]
 OPERATIONAL_CLUSTER_GLOB = "corpus_joint_structure/cjs_05*.md"
-OPERATIONAL_COMPASS_FILE = "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md"
+OPERATIONAL_COMPASS_FILE = "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md"
 OPERATIONAL_BAND_FILES = [
-    "corpus_joint_structure/cjs_05110_oversight_operations.md",
-    "corpus_joint_structure/cjs_05120_participation_operations.md",
-    "corpus_joint_structure/cjs_05125_accountability_operations.md",
-    "corpus_joint_structure/cjs_05130_continuity_operations.md",
-    "corpus_joint_structure/cjs_05135_integrative_operations.md",
+    "corpus_joint_structure/cjs_05.110_oversight_operations.md",
+    "corpus_joint_structure/cjs_05.120_participation_operations.md",
+    "corpus_joint_structure/cjs_05.125_accountability_operations.md",
+    "corpus_joint_structure/cjs_05.130_continuity_operations.md",
+    "corpus_joint_structure/cjs_05.135_integrative_operations.md",
 ]
 EXPECTED_OPERATIONAL_CLUSTER_IDS = [str(n) for n in range(2, 24)]
 
@@ -135,7 +135,7 @@ def audit_cjs1_op_clusters(root: Path) -> list[str]:
 def audit_operational_legacy_op_lines(root: Path) -> list[str]:
     findings: list[str] = []
     for rel in OPERATIONAL_BAND_FILES + [
-        "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md"
+        "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md"
     ]:
         path = root / rel
         if not path.is_file():
@@ -244,7 +244,7 @@ def audit_letter_cluster_citations(root: Path) -> list[str]:
 
 def audit_operational_separators(root: Path) -> list[str]:
     findings: list[str] = []
-    for rel in [OPERATIONAL_COMPASS_FILE, *OPERATIONAL_BAND_FILES, "corpus_joint_structure/cjs_05115_audit_process.md"]:
+    for rel in [OPERATIONAL_COMPASS_FILE, *OPERATIONAL_BAND_FILES, "corpus_joint_structure/cjs_05.115_audit_process.md"]:
         path = root / rel
         if not path.exists():
             continue

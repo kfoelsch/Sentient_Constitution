@@ -2,9 +2,9 @@
 """Rewrite Chapter Five path references after core_05_* rename.
 
 Historical map (already applied on live corpus):
-  core_05_definitions_home.md → core_05000_definitions_home.md
-  core_05apex_*               → core_05_apex_*
-  core_05defs_*               → core_05_band_*
+  core_05_definitions_home.md → core_05.000_definitions_home.md
+  core_05apex_*               → core_05.0*_apex_*
+  core_05defs_*               → core_05.0*_band_*
 
 Skips archive/ and .git/. Safe to re-run (identity on already-migrated text).
 """
@@ -19,23 +19,23 @@ ROOT = Path(__file__).resolve().parents[1]
 # Longest / most specific first. Keep OLD names on the left for re-entry from
 # mixed checkouts; already-migrated trees are no-ops.
 REPLACEMENTS: list[tuple[str, str]] = [
-    ("core_05_definitions_home.md", "core_05000_definitions_home.md"),
-    ("core_05apex_flourishing_aim.md", "core_05015_apex_flourishing_aim.md"),
-    ("core_05apex_continuity_aim.md", "core_05010_apex_continuity_aim.md"),
-    ("core_05apex_accountability_leg.md", "core_05005_apex_accountability_leg.md"),
-    ("core_05apex_oversight_leg.md", "core_05020_apex_oversight_leg.md"),
-    ("core_05apex_participation_leg.md", "core_05025_apex_participation_leg.md"),
-    ("core_05apex_timeliness_leg.md", "core_05030_apex_timeliness_leg.md"),
-    ("core_05defs_oversight.md", "core_05050_band_oversight.md"),
-    ("core_05defs_participation.md", "core_05055_band_participation.md"),
-    ("core_05defs_accountability.md", "core_05035_band_accountability.md"),
-    ("core_05defs_continuity.md", "core_05040_band_continuity.md"),
-    ("core_05defs_integrative.md", "core_05045_band_integrative.md"),
-    ("core_05defs_performance.md", "core_05060_band_performance.md"),
-    ("core_05apex_*", "core_05_apex_*"),
-    ("core_05defs_*", "core_05_band_*"),
-    ("`core_05apex_`", "`core_05_apex_`"),
-    ("`core_05defs_`", "`core_05_band_`"),
+    ("core_05_definitions_home.md", "core_05.000_definitions_home.md"),
+    ("core_05apex_flourishing_aim.md", "core_05.015_apex_flourishing_aim.md"),
+    ("core_05apex_continuity_aim.md", "core_05.010_apex_continuity_aim.md"),
+    ("core_05apex_accountability_leg.md", "core_05.005_apex_accountability_leg.md"),
+    ("core_05apex_oversight_leg.md", "core_05.020_apex_oversight_leg.md"),
+    ("core_05apex_participation_leg.md", "core_05.025_apex_participation_leg.md"),
+    ("core_05apex_timeliness_leg.md", "core_05.030_apex_timeliness_leg.md"),
+    ("core_05defs_oversight.md", "core_05.050_band_oversight.md"),
+    ("core_05defs_participation.md", "core_05.055_band_participation.md"),
+    ("core_05defs_accountability.md", "core_05.035_band_accountability.md"),
+    ("core_05defs_continuity.md", "core_05.040_band_continuity.md"),
+    ("core_05defs_integrative.md", "core_05.045_band_integrative.md"),
+    ("core_05defs_performance.md", "core_05.060_band_performance.md"),
+    ("core_05apex_*", "core_05.0*_apex_*"),
+    ("core_05defs_*", "core_05.0*_band_*"),
+    ("`core_05apex_`", "`core_05.0*_apex_`"),
+    ("`core_05defs_`", "`core_05.0*_band_`"),
 ]
 
 SKIP_DIR_PARTS = {

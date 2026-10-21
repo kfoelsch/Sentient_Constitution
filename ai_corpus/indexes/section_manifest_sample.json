@@ -3,7 +3,7 @@
   "edition": "SC-Corpus-2026.04.33",
   "generated_at": "2026-06-16T14:00:00Z",
   "files": {
-    "core_00_preamble.md": {
+    "core_00.000_preamble.md": {
       "total_lines": 52,
       "sections": [
         {
@@ -17,7 +17,7 @@
         }
       ]
     },
-    "core_01_a_values_principles.md": {
+    "core_01.005_values_principles.md": {
       "total_lines": 595,
       "sections": [
         {
@@ -49,7 +49,7 @@
         }
       ]
     },
-    "core_05__definitions_home.md": {
+    "core_05.000_definitions_home.md": {
       "total_lines": 1275,
       "sections": [
         {

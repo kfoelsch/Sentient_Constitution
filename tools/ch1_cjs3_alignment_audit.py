@@ -40,7 +40,7 @@ EXPECTED_CLUSTER_IDS = [
 ]
 
 
-CLUSTER_MAP_FILE = "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md"
+CLUSTER_MAP_FILE = "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md"
 _CLUSTER_ROW = re.compile(r"^\|\s*\*\*(CJS-5\.(?:110|115|120|125|130|135)\s+§\d+)")
 
 
@@ -211,10 +211,10 @@ class Ch1Cjs3AlignmentAuditor:
         if any(
             marker in text
             for marker in (
-                "core_00000_preamble.md",
-                "core_01005_values_principles.md",
-                "core_01010_interaction_interpretation.md",
-                "core_01015_stewardship_capacity_principles.md",
+                "core_00.000_preamble.md",
+                "core_01.005_values_principles.md",
+                "core_01.010_interaction_interpretation.md",
+                "core_01.015_stewardship_capacity_principles.md",
             )
         ):
             refs.add("linked")

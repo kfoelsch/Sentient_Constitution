@@ -2,6 +2,10 @@
 
 **Drafted:** 2026-10-20 (Claude session, from a steward proposal). **Revised 2026-10-20 (evening):** the core files are renamed in the same migration, and the core chapter list is treated as fixed (D1, D10, Phase 0). **Signoff update 2026-10-20:** D2, D4, D5, D7, D8, D9, D11, D12, D13 and D14 approved; D6 revised by the steward to align lettered chapter files during this migration. **Final signoff update 2026-10-21:** all D1-D14 design decisions and all chapter-home assignments are settled, including the revised D6 and dotted reader-facing numbers. **Implementation status (2026-10-21):** The approved registry, crosswalk, chapter renames, resolver, audits, and Trace updates are applied on `codex/chapter-numbering-migration`. The expanded numbering prose proof passes for all 43 core and 74 corpus files after reference, filename, anchor, Core home, and approved Trace normalization. `renumber_corpus_chapters.py --verify` reports zero legacy-id findings. All 482 unique qualified sections and 485 heading anchors round-trip; chapter-number migration tests pass for all 117 rows and finalizer markers. The inverse checker passes for all tracked changes after recording the planned policy/front-door/support/generated changes; it reports 141 new untracked files separately, including dated evidence outputs, two implementation templates with no baseline counterpart, migration tooling, and the plan/worklist. `make audit-report` is 104/105: the sole remaining finding is three Japanese translation Markdown-format findings in `translations/ja/core_05_band_integrative.md`, unchanged from baseline. `make audit-report-all` is 130/138, matching the previously recorded baseline: in addition to that translation formatting finding, the same plain-language/readability findings and paused translation audits remain outside the regression gate. Translation files remain untouched under the standing translation decision. Front-door, link, section-label, local-fragment, generated-file, and audit-test categories pass. The Phase 4 technical proof is ready for steward signoff on the core-file id-only diff; that human approval is still pending. The regression gate remains at its baseline translation finding, which cannot be repaired under the paused translation decision. The plan's verification scope and the reviewed collateral paths are recorded below.
 
+## Filename format correction (2026-10-21)
+
+The initial rename used concatenated five-digit filenames such as `core_06005_…` even though reader-facing identifiers use `6.005`. All active English numbered filenames now insert the separator explicitly as `core_06.005_…`, `cjs_05.105_…`, and so on. The five-digit machine IDs and registry identifiers are unchanged. Translation files and their filenames remain unchanged under standing decision D12.
+
 ## 1. Purpose
 
 Corpus chapter numbers (CJS, CS, CI, CF) are unrelated to core chapter numbers and to each other. "13" currently means the Forum chapter (Chapter Thirteen), CF-13 (fallback operation), CI-13 (failure and dissolution), and CS-13 (system requirements). Inserting a chapter shifts everything after it: Chapter Seven's insertion renumbered the core, and CI-13's split had to put CI-28 at the end because there was no room beside CI-13.
@@ -22,23 +26,23 @@ A corpus chapter number is **five digits, `CCLSS`**, fixed width, zero padded:
 
 Steward direction in session 2026-10-20: group the thousands with a separator for readability. Use a **dot**, with no leading zero in the thousands group: `01005` displays as **1.005**, `02015` as **2.015**, `06000` as **6.000**, and `13415` as **13.415**. Values below 1,000 display with a zero group, such as **0.105**. These are identifier strings, never decimal quantities.
 
-Implementation convention for this plan: filenames, registry keys and machine ids retain fixed-width `CCLSS` digits; the registry supplies the dotted display form. Reader-facing corpus references include the prefix, such as **CI-6.220**, **CF-13.415**, and **CJS-5.105**. Use `§` for section references (**CI-11.210 §4**) so the grouping dot is distinct from the section hierarchy. Lookup must accept dotted display references as well as machine ids and legacy ids. D11 subsequently confirmed the existing core-file order and vignette placement at **10.005**.
+Implementation convention at initial migration: registry keys and machine ids retained fixed-width `CCLSS` digits, while filenames lacked the separator used in reader-facing references. Filename correction (2026-10-21): active English numbered filenames now use `CC.LSS` with a literal dot after the two-digit chapter home; the machine IDs remain `CCLSS` and registry rows remain authoritative. Translation filenames are unchanged under standing decision D12. Reader-facing corpus references include the prefix, such as **CI-6.220**, **CF-13.415**, and **CJS-5.105**. Use `§` for section references (**CI-11.210 §4**) so the grouping dot is distinct from the section hierarchy. Lookup must accept dotted display references as well as machine ids and legacy ids. D11 subsequently confirmed the existing core-file order and vignette placement at **10.005**.
 
 Examples: **CI-6.220** is the CI chapter on neurodiversity and disability justice (home: Chapter Six, the Articles). **CF-13.415** is CF routing operations (home: Chapter Thirteen, Forum). **CJS-5.105** is the CJS-3 operational terms (home: Chapter Five).
 
-Machine section ids keep their suffix: `CI-13.4` becomes `CI-11210.4`. File names carry the same padded number: `ci_11210_institutional_failure_dissolution.md`. Each lettered corpus file receives its own chapter number during this migration (D6); its file name uses that number and drops the ordering letter. The registry maps old file-qualified section ids to their new chapter ids. Existing section suffixes are preserved unless a separately reviewed mapping requires a change. The layer prefix stays in every id as a readable check on the layer digit.
+Machine section ids keep their suffix: `CI-13.4` becomes `CI-11210.4`. File names carry the same padded number: `ci_11.210_institutional_failure_dissolution.md`. Each lettered corpus file receives its own chapter number during this migration (D6); its file name uses that number and drops the ordering letter. The registry maps old file-qualified section ids to their new chapter ids. Existing section suffixes are preserved unless a separately reviewed mapping requires a change. The layer prefix stays in every id as a readable check on the layer digit.
 
 ### Core chapters and core parts
 
 Core chapters live in the same number space, with layer digit `0`. A core chapter is `CC000` (Chapter Six is `06000`). A chapter that has one file uses `CC000` as that file's number. A chapter that is split into files gives its index or compass file `CC000` if it has one, and gives the other files `CC005`, `CC010`, ... in reading order. Examples: Chapter Six's five parts are `06005` to `06025`; Chapter Seven is `07000`; Chapter Nine's reading index is `09000` and its Parts A to D are `09005` to `09020`.
 
-Core file names take the same five-digit form: `core_06005_rights_part_a.md`, `core_07000_charters.md`. The part letter is dropped from the file name because the number now carries the order; prose still says "Part A". The visible chapter names ("CHAPTER SIX", "Chapter Six" in prose and headings), Article numbers, and chapter-local section numbers (Chapter One §15.4.4) do not change. The registry records both the number and the ordinal name. Approved mapping: Appendix C.
+Core filenames group the same five-digit number as `CC.LSS`: `core_06.005_rights_part_a.md`, `core_07.000_charters.md`. The part letter is dropped from the file name because the number now carries the order; prose still says "Part A". The visible chapter names ("CHAPTER SIX", "Chapter Six" in prose and headings), Article numbers, and chapter-local section numbers (Chapter One §15.4.4) do not change. The registry records both the number and the ordinal name. Approved mapping: Appendix C.
 
 ## 3. Improvements over the original proposal
 
 | Original | Plan | Why |
 |---|---|---|
-| Core chapters become 0, 1000, 2000, ... | Core chapters get the registry numbers `00000`, `01000`, ..., `18000`, and core files are renamed to match (`core_06005_...`). The visible names ("Chapter Six") stay in prose and headings. | One number space for every chapter and file, so the tools, the resolver, and the audits treat core and corpus alike, with room for new core parts. Writing "Chapter 6000" in prose (about 14,000 "Chapter X" references, plus translations and citations) would cost readability and add nothing the registry does not already carry. Decision D1. |
+| Core chapters become 0, 1000, 2000, ... | Core chapters get the registry numbers `00000`, `01000`, ..., `18000`, and core files are renamed to match (`core_06.005_...`). The visible names ("Chapter Six") stay in prose and headings. | One number space for every chapter and file, so the tools, the resolver, and the audits treat core and corpus alike, with room for new core parts. Writing "Chapter 6000" in prose (about 14,000 "Chapter X" references, plus translations and citations) would cost readability and add nothing the registry does not already carry. Decision D1. |
 | `0100`, `6100` (four digits, mixed widths) | Fixed five digits, `CCLSS`. | One regex, string order equals numeric order, the first two digits are always the core home, and the preamble no longer collapses to "CJS-100". It also removes the anchor ambiguity that `tools/renumber_ci_narrative.py` has to guess around (`ci-121` could be 12.1 or 1.21). |
 | Gaps of 100 | Steps of 5 inside each slot (four insertions fit between neighbours), with 19 chapters per slot. | Steps of 10 would cap a slot at 9; home 06 / CI has 15 approved files. |
 | Numbers imply the core relationship | Each corpus file also gets a one-line `Core home:` declaration, and an audit checks the number, the declaration, and the registry agree. | Without enforcement the alignment drifts the first time a chapter moves. |
@@ -60,7 +64,7 @@ Core file names take the same five-digit form: `core_06005_rights_part_a.md`, `c
 | D8 | Edition bump. | Approved by the steward in session 2026-10-20: run `make edition-bump` when the migration lands, because public identifiers change. |
 | D9 | Unnumbered files (`cf_sentience_status_record.md`, `cjs_reader_guide.md`). | Approved by the steward in session 2026-10-20: give the Sentience-Status Adjudication Record protocol its own CF number; keep the reader guide unnumbered. D3 confirms the protocol at CF-13.475. |
 | D10 | Core chapter list. | Treated as fixed from now (steward, 2026-10-20). A chapter that does appear before the announcement takes the next unused core number if it is added at the end; if it must go in the middle, the registry re-prefixes the affected corpus ids in one run (Phase 0 note). After the announcement, a new core chapter takes the next unused number and no chapter is renumbered. |
-| D11 | Core reading order inside split chapters (Chapter Five's compass, apex, and band files; Chapter Nine's index and Parts A-D). `core_10-13_application_vignettes.md` spans Chapters 10-13. | Approved by the steward in session 2026-10-20: preserve the existing file order in Appendix C and place the vignettes at **10.005** (machine key `10005`, filename `core_10005_application_vignettes.md`), retaining their Chapters Ten–Thirteen title and illustrative scope. |
+| D11 | Core reading order inside split chapters (Chapter Five's compass, apex, and band files; Chapter Nine's index and Parts A-D). `core_10-13_application_vignettes.md` spans Chapters 10-13. | Approved by the steward in session 2026-10-20: preserve the existing file order in Appendix C and place the vignettes at **10.005** (machine key `10005`, filename `core_10.005_application_vignettes.md`), retaining their Chapters Ten–Thirteen title and illustrative scope. |
 | D12 | Translation files (`translations/*`) mirror earlier core file names. | Approved by the steward in session 2026-10-20: leave existing translation filenames unchanged during the English migration. Publish the filename crosswalk and a translations README note; align translations through the settled-chapter workflow. Existing translation work remains separate from English edits. |
 | D13 | Numbers in Trace widgets (918 widgets across core and corpus). Trace widgets only: not the Downstream/Applies/Compare widgets (steward, 2026-10-20). | Format approved by the steward in session 2026-10-20. Corpus ids already carry the core home in the number. Add the registry number after each link that names a chapter or part: `[Chapter Nine Part A §2 ...](...) (9.005 §2)`. Do not add it to term links, same-file `§` links, or Article links. Generated from the registry, never typed by hand. |
 | D14 | Bullets in Trace widgets. Today each line (Upstream, Downstream, Read with, ...) is one semicolon-separated run; 2,820 lines in 918 widgets, 1,012 of them with four or more references and 327 with seven or more (the longest has 23). | Approved by the steward in session 2026-10-20. A line with four or more references becomes a parent bullet with one reference per sub-bullet; lines with one to three stay inline. Done in the same pass as D13, as its own commit, so each widget is touched once. |
@@ -241,44 +245,44 @@ Reading order inside split chapters and vignette placement were approved by the 
 
 | Core chapter | Current file | New file | Number |
 |---|---|---|---|
-| 0 | core_00_preamble.md | core_00000_preamble.md | 0.000 |
-| 1 | core_01_a_values_principles.md | core_01005_values_principles.md | 1.005 |
-| 1 | core_01_b_interaction_interpretation.md | core_01010_interaction_interpretation.md | 1.010 |
-| 1 | core_01_c_stewardship_capacity_principles.md | core_01015_stewardship_capacity_principles.md | 1.015 |
-| 2 | core_02_definition_structure.md | core_02000_definition_structure.md | 2.000 |
-| 3 | core_03_definition_integrity.md | core_03000_definition_integrity.md | 3.000 |
-| 4 | core_04_burden_traceability_verification.md | core_04000_burden_traceability_verification.md | 4.000 |
-| 5 | core_05__definitions_home.md | core_05000_definitions_home.md | 5.000 |
-| 5 | core_05_apex_accountability_leg.md | core_05005_apex_accountability_leg.md | 5.005 |
-| 5 | core_05_apex_continuity_aim.md | core_05010_apex_continuity_aim.md | 5.010 |
-| 5 | core_05_apex_flourishing_aim.md | core_05015_apex_flourishing_aim.md | 5.015 |
-| 5 | core_05_apex_oversight_leg.md | core_05020_apex_oversight_leg.md | 5.020 |
-| 5 | core_05_apex_participation_leg.md | core_05025_apex_participation_leg.md | 5.025 |
-| 5 | core_05_apex_timeliness_leg.md | core_05030_apex_timeliness_leg.md | 5.030 |
-| 5 | core_05_band_accountability.md | core_05035_band_accountability.md | 5.035 |
-| 5 | core_05_band_continuity.md | core_05040_band_continuity.md | 5.040 |
-| 5 | core_05_band_integrative.md | core_05045_band_integrative.md | 5.045 |
-| 5 | core_05_band_oversight.md | core_05050_band_oversight.md | 5.050 |
-| 5 | core_05_band_participation.md | core_05055_band_participation.md | 5.055 |
-| 5 | core_05_band_performance.md | core_05060_band_performance.md | 5.060 |
-| 6 | core_06_rights_part_a.md ... part_e.md | core_06005_rights_part_a.md ... core_06025_rights_part_e.md | 6.005-6.025 |
-| 7 | core_07_charters.md | core_07000_charters.md | 7.000 |
-| 8 | core_08_functional_independence_segregation_of_duties.md | core_08000_functional_independence_segregation_of_duties.md | 8.000 |
-| 9 | core_09_system_alignment_certification.md (index) | core_09000_system_alignment_certification.md | 9.000 |
-| 9 | core_09_a_system_alignment_certification_evaluation.md | core_09005_system_alignment_certification_evaluation.md | 9.005 |
-| 9 | core_09_b_system_alignment_certification_record_process.md | core_09010_system_alignment_certification_record_process.md | 9.010 |
-| 9 | core_09_c_system_alignment_certification_illustrations.md | core_09015_system_alignment_certification_illustrations.md | 9.015 |
-| 9 | core_09_d_institutional_alignment_certification.md | core_09020_institutional_alignment_certification.md | 9.020 |
-| 10 | core_10_standing_assessment.md | core_10000_standing_assessment.md | 10.000 |
-| 10-13 | core_10-13_application_vignettes.md (non-operative) | core_10005_application_vignettes.md | 10.005 (D11) |
-| 11 | core_11_standing_integration.md | core_11000_standing_integration.md | 11.000 |
-| 12 | core_12_a_misconduct_designation.md | core_12005_misconduct_designation.md | 12.005 |
-| 12 | core_12_b_misconduct_pattern_applications.md | core_12010_misconduct_pattern_applications.md | 12.010 |
-| 13 | core_13_forum.md | core_13000_forum.md | 13.000 |
-| 14 | core_14_governance.md | core_14000_governance.md | 14.000 |
-| 15 | core_15_non_regression.md | core_15000_non_regression.md | 15.000 |
-| 16 | core_16_expansion_supremacy.md | core_16000_expansion_supremacy.md | 16.000 |
-| 17 | core_17_amendment_ratification.md | core_17000_amendment_ratification.md | 17.000 |
-| 18 | core_18_incorporation.md | core_18000_incorporation.md | 18.000 |
+| 0 | core_00_preamble.md | core_00.000_preamble.md | 0.000 |
+| 1 | core_01_a_values_principles.md | core_01.005_values_principles.md | 1.005 |
+| 1 | core_01_b_interaction_interpretation.md | core_01.010_interaction_interpretation.md | 1.010 |
+| 1 | core_01_c_stewardship_capacity_principles.md | core_01.015_stewardship_capacity_principles.md | 1.015 |
+| 2 | core_02_definition_structure.md | core_02.000_definition_structure.md | 2.000 |
+| 3 | core_03_definition_integrity.md | core_03.000_definition_integrity.md | 3.000 |
+| 4 | core_04_burden_traceability_verification.md | core_04.000_burden_traceability_verification.md | 4.000 |
+| 5 | core_05__definitions_home.md | core_05.000_definitions_home.md | 5.000 |
+| 5 | core_05_apex_accountability_leg.md | core_05.005_apex_accountability_leg.md | 5.005 |
+| 5 | core_05_apex_continuity_aim.md | core_05.010_apex_continuity_aim.md | 5.010 |
+| 5 | core_05_apex_flourishing_aim.md | core_05.015_apex_flourishing_aim.md | 5.015 |
+| 5 | core_05_apex_oversight_leg.md | core_05.020_apex_oversight_leg.md | 5.020 |
+| 5 | core_05_apex_participation_leg.md | core_05.025_apex_participation_leg.md | 5.025 |
+| 5 | core_05_apex_timeliness_leg.md | core_05.030_apex_timeliness_leg.md | 5.030 |
+| 5 | core_05_band_accountability.md | core_05.035_band_accountability.md | 5.035 |
+| 5 | core_05_band_continuity.md | core_05.040_band_continuity.md | 5.040 |
+| 5 | core_05_band_integrative.md | core_05.045_band_integrative.md | 5.045 |
+| 5 | core_05_band_oversight.md | core_05.050_band_oversight.md | 5.050 |
+| 5 | core_05_band_participation.md | core_05.055_band_participation.md | 5.055 |
+| 5 | core_05_band_performance.md | core_05.060_band_performance.md | 5.060 |
+| 6 | core_06_rights_part_a.md ... part_e.md | core_06.005_rights_part_a.md ... core_06.025_rights_part_e.md | 6.005-6.025 |
+| 7 | core_07_charters.md | core_07.000_charters.md | 7.000 |
+| 8 | core_08_functional_independence_segregation_of_duties.md | core_08.000_functional_independence_segregation_of_duties.md | 8.000 |
+| 9 | core_09_system_alignment_certification.md (index) | core_09.000_system_alignment_certification.md | 9.000 |
+| 9 | core_09_a_system_alignment_certification_evaluation.md | core_09.005_system_alignment_certification_evaluation.md | 9.005 |
+| 9 | core_09_b_system_alignment_certification_record_process.md | core_09.010_system_alignment_certification_record_process.md | 9.010 |
+| 9 | core_09_c_system_alignment_certification_illustrations.md | core_09.015_system_alignment_certification_illustrations.md | 9.015 |
+| 9 | core_09_d_institutional_alignment_certification.md | core_09.020_institutional_alignment_certification.md | 9.020 |
+| 10 | core_10_standing_assessment.md | core_10.000_standing_assessment.md | 10.000 |
+| 10-13 | core_10-13_application_vignettes.md (non-operative) | core_10.005_application_vignettes.md | 10.005 (D11) |
+| 11 | core_11_standing_integration.md | core_11.000_standing_integration.md | 11.000 |
+| 12 | core_12_a_misconduct_designation.md | core_12.005_misconduct_designation.md | 12.005 |
+| 12 | core_12_b_misconduct_pattern_applications.md | core_12.010_misconduct_pattern_applications.md | 12.010 |
+| 13 | core_13_forum.md | core_13.000_forum.md | 13.000 |
+| 14 | core_14_governance.md | core_14.000_governance.md | 14.000 |
+| 15 | core_15_non_regression.md | core_15.000_non_regression.md | 15.000 |
+| 16 | core_16_expansion_supremacy.md | core_16.000_expansion_supremacy.md | 16.000 |
+| 17 | core_17_amendment_ratification.md | core_17.000_amendment_ratification.md | 17.000 |
+| 18 | core_18_incorporation.md | core_18.000_incorporation.md | 18.000 |
 
 Chapters 1, 6, and 12 have no index file, so their registry number (`1.000`, `6.000`, `12.000`) names the chapter and the first part starts at `005`.
