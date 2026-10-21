@@ -1,7 +1,7 @@
 # Chapters Ten–Thirteen Triad / Aims restructure cut list
 
 **Date:** 2026-06-19  
-**Scope:** Reader-comprehension reframe around [Constitutional Triad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and the [standing pipeline and forums](../README.md#standing-pipeline-and-forums) navigation. Operative standing rules unchanged.
+**Scope:** Reader-comprehension reframe around [Constitutional Triad](../core_00000_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01005_values_principles.md#two-constitutional-aims), and the [standing pipeline and forums](../README.md#standing-pipeline-and-forums) navigation. Operative standing rules unchanged.
 
 ## New anchors
 
@@ -72,15 +72,15 @@
 
 ## Files touched
 
-- `core_10_standing_assessment.md`
-- `core_11_standing_integration.md`
-- `core_12_a_misconduct_designation.md`
-- `core_13_forum.md`
-- `core_00_preamble.md`
-- `core_05_band_accountability.md` (Chapter One §15.10 trace)
+- `core_10000_standing_assessment.md`
+- `core_11000_standing_integration.md`
+- `core_12005_misconduct_designation.md`
+- `core_13000_forum.md`
+- `core_00000_preamble.md`
+- `core_05035_band_accountability.md` (Chapter One §15.10 trace)
 - `README.md`
 - `doc_architecture.md`
-- `corpus_forum/cf_00_registry_and_reading_rules.md`
+- `corpus_forum/cf_00405_registry_and_reading_rules.md`
 
 ## Verification
 

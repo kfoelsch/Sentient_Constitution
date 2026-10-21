@@ -161,7 +161,7 @@
     "independent_representative": {
       "type": "object",
       "additionalProperties": false,
-      "description": "Appointment path, conflict screen, and access terms for the entity's independent representative under Chapter Thirteen §5. Appointment mechanics remain in CF-4; this object records the result. Not a standing record.",
+      "description": "Appointment path, conflict screen, and access terms for the entity's independent representative under Chapter Thirteen §5. Appointment mechanics remain in CF-13.410; this object records the result. Not a standing record.",
       "required": [
         "appointed",
         "appointment_path",
@@ -180,7 +180,7 @@
         "appointment_path": {
           "type": "string",
           "minLength": 1,
-          "description": "How the representative was or will be appointed. Follows forum-panel rotation and conflict rules; does not replace CF-4."
+          "description": "How the representative was or will be appointed. Follows forum-panel rotation and conflict rules; does not replace CF-13.410."
         },
         "conflict_screen": {
           "type": "string",

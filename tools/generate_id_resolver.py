@@ -35,7 +35,7 @@ from section_label_anchor_audit import (  # noqa: E402
 ANCHOR_RE = re.compile(r'<a id="([^"]+)"></a>')
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+)$")
 SECTION_ID_RE = re.compile(
-    r"^((?:CF|CI|CJS|CS)-[0-9]+(?:\.[0-9]+)*[A-Z]?|Def\.[OPACI]\d+)\b"
+    r"^((?:CF|CI|CJS|CS)-\d{1,2}\.\d{3}(?:\s+§\s*\d+(?:\.\d+)*)?|Def\.[OPACI]\d+)\b"
 )
 GLOSS_FILES = (
     "tools/glosses_cf.json",
@@ -163,9 +163,9 @@ def scan_section_ids(root: Path) -> dict[str, dict[str, Any]]:
 def family_kind(section_id: str) -> str:
     if section_id.startswith("Def."):
         return "cluster"
-    if re.match(r"^(?:CF|CI|CJS|CS)-\d+$", section_id) or section_id in {
-        "CJS-0",
-        "CJS-0.1",
+    if re.match(r"^(?:CF|CI|CJS|CS)-\d{1,2}\.\d{3}$", section_id) or section_id in {
+        "CJS-0.105",
+        "CJS-0.105 §1",
     }:
         return "family"
     return "section"
@@ -366,7 +366,7 @@ def build_payload(root: Path) -> dict[str, Any]:
         "status": "process_support_not_binding",
         "cannot_narrow_core": True,
         "description": (
-            "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five "
+            "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Five "
             "terms. Indexes point; source text binds. Pre-release: current heading "
             "anchors only; no fossil or legacy fragment aliases."
         ),

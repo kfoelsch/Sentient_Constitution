@@ -8,7 +8,7 @@ running as a blocking regression gate alongside the other ``make regression``
 audits. It enforces two invariants:
 
 1. **Chapter Five anchor presence.** Every ``####`` and ``#####`` definition
-   entry in ``core_05__definitions_home.md`` that owns ``- O:`` /
+   entry in ``core_05000_definitions_home.md`` that owns ``- O:`` /
    ``- E:`` / ``- C:`` bullets carries the canonical anchor trio:
 
    - the entry-level slug (either from an explicit ``<a id="SLUG"></a>`` tag
@@ -29,11 +29,11 @@ audits. It enforces two invariants:
      C link.
 
 2. **D/A/C widget row-shape and anchor resolution.** Across the consumer core
-   files (``core_00_preamble.md`, `core_01_a_values_principles.md`, and `core_01_c_stewardship_capacity_principles.md``, ``core_02_definition_structure.md``,
+   files (``core_00000_preamble.md`, `core_01005_values_principles.md`, and `core_01015_stewardship_capacity_principles.md``, ``core_02000_definition_structure.md``,
    the four Chapter Thirteen parts), every line inside a D/A/C widget that appears
    to be a widget row must match the canonical shape:
 
-       - [Name](core_05_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
+       - [Name](core_05035_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
 
    and every anchor in that row must resolve to a live Chapter Five anchor.
    The single-concept inline form is also recognized:
@@ -88,21 +88,21 @@ _WIDGET_SLUG_SUFFIXES = (
 # anchors must still resolve — so Chapter Five is the canonical anchor source
 # rather than a consumer.
 CONSUMERS = [
-    "core_00_preamble.md",
-    "core_01_a_values_principles.md",
-    "core_01_b_interaction_interpretation.md",
-    "core_01_c_stewardship_capacity_principles.md",
-    "core_02_definition_structure.md",
-    "core_03_definition_integrity.md",
-    "core_10_standing_assessment.md",
-    "core_11_standing_integration.md",
-    "core_12_a_misconduct_designation.md",
-    "core_12_b_misconduct_pattern_applications.md",
-    "core_06_rights_part_a.md",
-    "core_06_rights_part_b.md",
-    "core_06_rights_part_c.md",
-    "core_06_rights_part_d.md",
-    "core_06_rights_part_e.md",
+    "core_00000_preamble.md",
+    "core_01005_values_principles.md",
+    "core_01010_interaction_interpretation.md",
+    "core_01015_stewardship_capacity_principles.md",
+    "core_02000_definition_structure.md",
+    "core_03000_definition_integrity.md",
+    "core_10000_standing_assessment.md",
+    "core_11000_standing_integration.md",
+    "core_12005_misconduct_designation.md",
+    "core_12010_misconduct_pattern_applications.md",
+    "core_06005_rights_part_a.md",
+    "core_06010_rights_part_b.md",
+    "core_06015_rights_part_c.md",
+    "core_06020_rights_part_d.md",
+    "core_06025_rights_part_e.md",
 ]
 
 # Headings that are cluster parents without direct O/E/C body. The audit does
@@ -167,7 +167,7 @@ DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 # middle-dot with single spaces. Each href must point into Chapter Five.
 #
 # Example:
-#   - [Wellbeing](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+#   - [Wellbeing](core_05040_band_continuity.md#wellbeing) · [O](core_05040_band_continuity.md#wellbeing) · [M](core_05040_band_continuity.md#wellbeing-a) · [A](core_05040_band_continuity.md#wellbeing-a) · [C](core_05040_band_continuity.md#wellbeing-c)
 # M targets #{slug}-m when present (aim/leg apex heads); otherwise #{slug}-a
 # (leaf guidepost form interweaves Measurement with Assessment).
 ROW_RE = re.compile(

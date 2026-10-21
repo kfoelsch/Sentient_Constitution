@@ -19,7 +19,7 @@ Rules:
                            README table = AGENTS = llms.txt = docs/index.md =
                            ANNOUNCEMENT = CONTRIBUTING = steward index pin
   FRONT-DOOR-EDITION-02    the edition label's date is the effective date
-                           (SC-Corpus-2026.10.19 <-> 2026-10-12)
+                           (SC-Corpus-2026.10.21 <-> 2026-10-12)
   FRONT-DOOR-EDITION-03    with --edition-tracks-date (until the announcement):
                            the edition is today's date; fix with `make edition-bump`
   FRONT-DOOR-STATUS-01     pages agree on whether the corpus is "pre-release"
@@ -71,7 +71,7 @@ README = "README.md"
 START_HERE = "START_HERE.md"
 ANNOUNCEMENT = "implementation/adoption/ANNOUNCEMENT.md"
 FIT = "implementation/adoption/FIT_SITUATIONS.md"
-PREAMBLE = "core_00_preamble.md"
+PREAMBLE = "core_00000_preamble.md"
 
 # Pages that must carry the edition string.
 EDITION_PAGES = (
@@ -261,7 +261,7 @@ def core_chapter_count(root: Path) -> int:
     numbers = [
         int(m.group(1))
         for path in root.glob("core_*.md")
-        if (m := re.match(r"core_(\d{2})_", path.name))
+        if (m := re.match(r"core_(\d{2})\d{3}_", path.name))
     ]
     return max(numbers) if numbers else 0
 
@@ -269,7 +269,7 @@ def core_chapter_count(root: Path) -> int:
 def check_chapters(root: Path) -> list[str]:
     count = core_chapter_count(root)
     if not count:
-        return ["no core_NN_*.md files found (FRONT-DOOR-CHAPTERS-01)"]
+        return ["no numbered core chapter files found (FRONT-DOOR-CHAPTERS-01)"]
     errors: list[str] = []
     words = "|".join(NUMBER_WORDS)
     range_re = re.compile(
@@ -286,7 +286,7 @@ def check_chapters(root: Path) -> list[str]:
             if upper != count:
                 errors.append(
                     f"{rel}: '{match.group(0)}' but the core has {count} chapters "
-                    f"(highest core_{count:02d}_*) (FRONT-DOOR-CHAPTERS-01)"
+                    f"(highest core chapter {count}) (FRONT-DOOR-CHAPTERS-01)"
                 )
         for match in count_re.finditer(text):
             if to_number(match.group(1)) != count:
@@ -298,7 +298,7 @@ def check_chapters(root: Path) -> list[str]:
 
 def article_numerals(root: Path) -> list[int]:
     found: set[int] = set()
-    for path in sorted(root.glob("core_06_rights_part_*.md")):
+    for path in sorted(root.glob("core_060??_rights_part_*.md")):
         for match in re.finditer(r"^#{1,6}\s+Article\s+([IVXL]+)\b", path.read_text(encoding="utf-8"), re.M):
             found.add(roman_to_int(match.group(1)))
     return sorted(found)
@@ -307,7 +307,7 @@ def article_numerals(root: Path) -> list[int]:
 def check_articles(root: Path) -> list[str]:
     numerals = article_numerals(root)
     if not numerals:
-        return ["no Article headings found in core_06_rights_part_*.md (FRONT-DOOR-ARTICLES-01)"]
+        return ["no Article headings found in Chapter Six rights files (FRONT-DOOR-ARTICLES-01)"]
     errors: list[str] = []
     count, top = len(numerals), max(numerals)
     if numerals != list(range(1, top + 1)):

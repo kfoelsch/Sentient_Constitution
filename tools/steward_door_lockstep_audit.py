@@ -13,8 +13,8 @@ index to the README edition stamp and requires:
 1. The three costly-case refusals live in Chapter One §17.2. The doors
    page points there once; it does not restate the bullets on every card.
 2. One shared refusal-and-logging pointer with instruction received /
-   refuse / document / escalate, naming CS-4 §10 as the default logging
-   contract. The inspectable-action set lives in CS-4 §10.
+   refuse / document / escalate, naming CS-14.305 §10 as the default logging
+   contract. The inspectable-action set lives in CS-14.305 §10.
 3. Every named-stack card has an owner-text pointer, a next step, and a
    next-step class.
 4. Each card's owner-text pointer names the index case's first owner, each
@@ -50,8 +50,8 @@ CARDS_REL = "implementation/STEWARD_ENTRY_DOORS.md"
 ROUTING_REL = "evaluation/OPERATOR_ROUTING.md"
 INDEX_REL = "implementation/steward_owner_clock_index.json"
 SCHEMA_REL = "implementation/schemas/steward_owner_clock_index.schema.json"
-CORE_REL = "core_01_c_stewardship_capacity_principles.md"
-CS4_REL = "corpus_systems/cs_04_critical_system_stewardship.md"
+CORE_REL = "core_01015_stewardship_capacity_principles.md"
+CS4_REL = "corpus_systems/cs_14305_critical_system_stewardship.md"
 README_REL = "README.md"
 SCENARIO_DIR_REL = "implementation/ai_alignment_eval/scenarios"
 
@@ -721,14 +721,14 @@ def audit(root: Path) -> list[str]:
             f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at Chapter One "
             "§17.5 Duty to Resist (STEWARD-DOOR-LOCKSTEP-01)"
         )
-    if "cs-4103-inspectable-attributable-action" not in screen:
+    if "cs-14305-103-inspectable-attributable-action" not in screen:
         errors.append(
-            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at CS-4 §10 "
+            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at CS-14.305 §10 "
             "(STEWARD-DOOR-LOCKSTEP-01)"
         )
     if "default logging contract" not in cs4.lower():
         errors.append(
-            f"{CS4_REL}: CS-4 §10 must name the default logging contract "
+            f"{CS4_REL}: CS-14.305 §10 must name the default logging contract "
             "(STEWARD-DOOR-LOCKSTEP-01)"
         )
     for phrase in INSPECTABLE_PHRASES:
@@ -859,7 +859,7 @@ def main() -> int:
         return 1
     print(
         "PASS: steward-entry cards match the owner/clock index, "
-        "core costly cases, the shared refusal-and-logging pointer, CS-4 §10 "
+        "core costly cases, the shared refusal-and-logging pointer, CS-14.305 §10 "
         "logging contract, next-step classes, live anchors, "
         "README edition pin, and operator-only routing examples."
     )

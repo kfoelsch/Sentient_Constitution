@@ -42,23 +42,23 @@ MARKET_STRUCTURE_INTRO = """<a id="9-market-structure"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00_preamble.md#material-stake) scaling (especially [§14.2 Pro-Competition and Anti-Domination](#142-pro-competition-and-anti-domination)).
-- Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
+- Read with: [Constitutional Tetrad](core_00000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00000_preamble.md#material-stake) scaling (especially [§14.2 Pro-Competition and Anti-Domination](#142-pro-competition-and-anti-domination)).
+- Read with: [Two Constitutional Aims](core_00000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
 - Upstream: Principles: [§13 Shared-System Capacity](#13-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [7. Governance Under Stewardship Discipline](#12-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §6](core_10-10_misconduct.md#61-concentration-based-subversion-criteria-interaction) (concentration-based subversion); [5. Interaction and Conflict Resolution](#6-interaction-and-conflict-resolution) ([Chapter One §6.4.2 Proxy-Divergence Invalidation](#642-proxy-divergence-invalidation)).
-- Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XX: Interoperability, Portability, and Exit Integrity](core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity).
+- Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06005_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06005_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XX: Interoperability, Portability, and Exit Integrity](core_06015_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Market Structure](core_05_band_accountability.md#market-structure-constitutional) · [O](core_05_band_accountability.md#market-structure-constitutional) · [E](core_05_band_accountability.md#market-structure-constitutional-e) · [C](core_05_band_accountability.md#market-structure-constitutional-c)
-- [Concentration Threshold](core_05_band_accountability.md#concentration-threshold-constitutional) · [O](core_05_band_accountability.md#concentration-threshold-constitutional) · [E](core_05_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_05_band_accountability.md#concentration-threshold-constitutional-c)
-- [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [E](core_05_band_accountability.md#contestability-e) · [C](core_05_band_accountability.md#contestability-c)
-- [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [E](core_05_band_oversight.md#proxy-divergence-e) · [C](core_05_band_oversight.md#proxy-divergence-c)
-- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [E](core_05_band_continuity.md#dependency-e) · [C](core_05_band_continuity.md#dependency-c)
-- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [E](core_05_band_participation.md#meaningful-agency-e) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Market Structure](core_05035_band_accountability.md#market-structure-constitutional) · [O](core_05035_band_accountability.md#market-structure-constitutional) · [E](core_05035_band_accountability.md#market-structure-constitutional-e) · [C](core_05035_band_accountability.md#market-structure-constitutional-c)
+- [Concentration Threshold](core_05035_band_accountability.md#concentration-threshold-constitutional) · [O](core_05035_band_accountability.md#concentration-threshold-constitutional) · [E](core_05035_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_05035_band_accountability.md#concentration-threshold-constitutional-c)
+- [Contestability](core_05035_band_accountability.md#contestability) · [O](core_05035_band_accountability.md#contestability) · [E](core_05035_band_accountability.md#contestability-e) · [C](core_05035_band_accountability.md#contestability-c)
+- [Proxy Divergence](core_05050_band_oversight.md#proxy-divergence) · [O](core_05050_band_oversight.md#proxy-divergence) · [E](core_05050_band_oversight.md#proxy-divergence-e) · [C](core_05050_band_oversight.md#proxy-divergence-c)
+- [Dependency](core_05040_band_continuity.md#dependency) · [O](core_05040_band_continuity.md#dependency) · [E](core_05040_band_continuity.md#dependency-e) · [C](core_05040_band_continuity.md#dependency-c)
+- [Meaningful Agency](core_05055_band_participation.md#meaningful-agency) · [O](core_05035_band_accountability.md#meaningful-agency-o) · [E](core_05055_band_participation.md#meaningful-agency-e) · [C](core_05055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -70,7 +70,7 @@ MARKET_STRUCTURE_INTRO = """<a id="9-market-structure"></a>
 
 Productive-capacity and constitutional-efficiency claims under **§14** fail where market structure permits concentration, domination, or consolidation that predictably degrades wellbeing, meaningful agency, dignity, ecological integrity, or constitutional review.
 
-This section advances the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** through fair access to livelihood and innovation, and **Continuity** through durable, contestable systems — and carries the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) where concentration or domination defeats voice, scrutiny, answerability, or timely correction, scaled to [material stake](core_00_preamble.md#material-stake).
+This section advances the [Two Constitutional Aims](core_00000_preamble.md#two-constitutional-aims) — **Flourishing** through fair access to livelihood and innovation, and **Continuity** through durable, contestable systems — and carries the [Constitutional Tetrad](core_00000_preamble.md#constitutional-tetrad) where concentration or domination defeats voice, scrutiny, answerability, or timely correction, scaled to [material stake](core_00000_preamble.md#material-stake).
 
 """
 
@@ -115,11 +115,11 @@ def split_part_b(text: str) -> str:
         "Anti-concentration discipline for contestable productive conditions appears in **[§14 Market Structure](#14-market-structure)**.",
     )
     before = before.replace(
-        "- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00_preamble.md#material-stake) scaling (especially [§8.4 Pro-Competition and Anti-Domination](#84-pro-competition-and-anti-domination)).\n",
+        "- Read with: [Constitutional Tetrad](core_00000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00000_preamble.md#material-stake) scaling (especially [§8.4 Pro-Competition and Anti-Domination](#84-pro-competition-and-anti-domination)).\n",
         "",
     )
     before = before.replace(
-        "- [Concentration Threshold](core_05_band_accountability.md#concentration-threshold-constitutional) · [O](core_05_band_accountability.md#concentration-threshold-constitutional) · [E](core_05_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_05_band_accountability.md#concentration-threshold-constitutional-c)\n",
+        "- [Concentration Threshold](core_05035_band_accountability.md#concentration-threshold-constitutional) · [O](core_05035_band_accountability.md#concentration-threshold-constitutional) · [E](core_05035_band_accountability.md#concentration-threshold-constitutional-e) · [C](core_05035_band_accountability.md#concentration-threshold-constitutional-c)\n",
         "",
     )
     before = before.replace(
@@ -127,7 +127,7 @@ def split_part_b(text: str) -> str:
         "",
     )
     before = before.replace(
-        "and carries the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) where concentration or domination defeats voice, scrutiny, answerability, or timely correction, scaled to [material stake](core_00_preamble.md#material-stake).\n",
+        "and carries the [Constitutional Tetrad](core_00000_preamble.md#constitutional-tetrad) where concentration or domination defeats voice, scrutiny, answerability, or timely correction, scaled to [material stake](core_00000_preamble.md#material-stake).\n",
         ".\n",
     )
 

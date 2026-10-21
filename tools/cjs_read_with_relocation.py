@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Move operative-prose ``Read it with:`` blocks into the owning Trace widget.
 
-Maintenance helper for CJS-3 cluster files. Converts each routing bullet to
+Maintenance helper for CJS operational cluster files. Converts each routing bullet to
 ``- Read with: …`` inside the section's Trace ``<details>`` block and removes
 the operative-prose header and bullets.
 """
@@ -14,14 +14,14 @@ import sys
 from pathlib import Path
 
 CJS3_CLUSTER_FILES = [
-    "corpus_joint_structure/cjs_03o_oversight_operations.md",
-    "corpus_joint_structure/cjs_03p_participation_operations.md",
-    "corpus_joint_structure/cjs_03a_accountability_operations.md",
-    "corpus_joint_structure/cjs_03c_continuity_operations.md",
-    "corpus_joint_structure/cjs_03i_integrative_operations.md",
+    "corpus_joint_structure/cjs_05110_oversight_operations.md",
+    "corpus_joint_structure/cjs_05120_participation_operations.md",
+    "corpus_joint_structure/cjs_05125_accountability_operations.md",
+    "corpus_joint_structure/cjs_05130_continuity_operations.md",
+    "corpus_joint_structure/cjs_05135_integrative_operations.md",
 ]
 
-SECTION_HEADING_RE = re.compile(r"^## CJS-3\.\d+\b")
+SECTION_HEADING_RE = re.compile(r"^## CJS-5\.\d+\s+§\d+\b")
 READ_IT_WITH_RE = re.compile(r"^Read it with:\s*$", re.IGNORECASE)
 TRACE_SUMMARY_RE = re.compile(r"<summary>.*Trace.*</summary>", re.IGNORECASE)
 

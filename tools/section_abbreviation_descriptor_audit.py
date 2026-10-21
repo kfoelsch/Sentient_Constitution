@@ -86,31 +86,39 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
         return True
     if stripped.startswith(">") and "CJS cluster mapping" in stripped:
         return True
-    if "–CJS-" in stripped or "–CJS-3." in stripped:
-        return True
     if re.search(r"CJS-\d+\s+through\s+CJS-", stripped):
         return True
     if re.search(r"\*\*CJS-\d+\*\* through \*\*CJS-", stripped):
         return True
-    if re.search(r"\*\*CJS-1\.0\*\*, \*\*CJS-1\.1\*\*, and \*\*CJS-1\.3\*\*", stripped):
-        return True
-    if "Cross-layer topic routing remains in **CJS-0.1**" in stripped:
-        return True
-    if re.search(r"wrapper → \*\*CJS-1\*\* → \*\*CJS-2\*\* → \*\*CJS-3\*\*", stripped):
-        return True
-    if "retired" in stripped.lower() and "CJS-3" in stripped:
-        return True
-    if re.search(r"\*\*\[CJS-3\.\d+\]", stripped) and "(*" in stripped:
+    if "Cross-layer topic routing remains in **CJS-0.105 §1**" in stripped:
         return True
     return False
 
 
 def has_descriptor(text_after_id: str) -> bool:
     text_after_id = text_after_id.lstrip()
-    # REF-FAMILY cites are ``[**CI-23**](path) (*short title*)``. Strip the
+    # REF-FAMILY cites are ``[**CI-6.260**](path) (*short title*)``. Strip the
     # closing bold that wraps the ID before looking for the markdown link.
     text_after_id = re.sub(r"^\*+", "", text_after_id).lstrip()
+    section = re.match(r"§\s*\d+(?:\.\d+)*", text_after_id)
+    if section:
+        tail = text_after_id[section.end() :].lstrip()
+        # The § suffix completes the new chapter ID. A title after that
+        # suffix (inside or immediately after its link) is the descriptor.
+        if tail.startswith("**"):
+            tail = tail[2:].lstrip()
+        if tail.startswith("]("):
+            close = tail.find(")")
+            if close >= 0:
+                tail = tail[close + 1 :].lstrip()
+                tail = re.sub(r"^\*+", "", tail).lstrip()
+        if re.match(r"(?:\(\*[^)]+\*\)|\*[^*]+\*|[A-Za-z][^.;,\n]{2,})", tail):
+            return True
     if re.match(r"[A-Za-z][^]\n]{2,}\]", text_after_id):
+        return True
+    # In the new numbering scheme the chapter ID is followed by a § section
+    # suffix; a section label with its title is already a readable descriptor.
+    if re.match(r"§\s*\d+(?:\.\d+)*(?:\s+[A-Za-z*])", text_after_id):
         return True
     link_close = re.match(r"\]\([^)]+\)\*{0,2}", text_after_id)
     if link_close:
@@ -130,7 +138,7 @@ def scan_line(rel_path: str, line_number: int, line: str) -> Finding | None:
     if is_exempt_line(line, in_trace_widget=False):
         return None
 
-    # ``CJS-3.*n*`` is the oDef placeholder pattern, not a cite of CJS-3.
+    # ``oDef.*n*`` is a placeholder, not a corpus chapter citation.
     match = next(
         (m for m in SECTION_ID_RE.finditer(line) if not re.match(r"[*_]*\.\*", line[m.end() :])),
         None,

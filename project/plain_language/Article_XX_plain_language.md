@@ -1,5 +1,5 @@
 # Article XX: Justice After Verified Violation
-*Plain-language version of Article XX (Justice After Verified Violation), including XX-A and XX-B in `core_06_rights_part_c.md`. Disputes and timely review are in Article XXVI, and emergency rules are in Chapter Thirteen §6.1. The official text remains the binding version.*
+*Plain-language version of Article XX (Justice After Verified Violation), including XX-A and XX-B in `core_06015_rights_part_c.md`. Disputes and timely review are in Article XXVI, and emergency rules are in Chapter Thirteen §6.1. The official text remains the binding version.*
 
 ## The big idea
 When someone has been shown to have caused serious harm, the answer is never revenge, endless delay, or cruelty for its own sake. The answer is a fair process that does three things: **stop the harm, repair the damage, and make it less likely to happen again.** Any action taken should be as small as it can be while still working, last no longer than needed, and be open to challenge and review.

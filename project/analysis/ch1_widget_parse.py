@@ -1,5 +1,5 @@
 import re,json,collections
-files=['core_01_a_values_principles.md','core_01_b_interaction_interpretation.md','core_01_c_stewardship_capacity_principles.md']
+files=['core_01005_values_principles.md','core_01010_interaction_interpretation.md','core_01015_stewardship_capacity_principles.md']
 SUM='Definitions · Assessment · Compliance'
 prin=[]
 for f in files:

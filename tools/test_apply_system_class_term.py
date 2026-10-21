@@ -45,7 +45,7 @@ class RewriteTests(unittest.TestCase):
                 "3.4.8. Illustrative Whole-System Application by System Class (Non-Exhaustive)",
             "System Class Scaling and Escalation": "System Class Scaling and Escalation",
             "System-Class-Scaled Infrastructure Assurance": "System-Class-Scaled Infrastructure Assurance",
-            "What to check in CS-3 and where it ends": "What to Check in CS-3 and Where It Ends",
+            "What to check in CS-9.310 and where it ends": "What to Check in CS-9.310 and Where It Ends",
         }
         for src, want in cases.items():
             self.assertEqual(tool.chicago_title(src), want)

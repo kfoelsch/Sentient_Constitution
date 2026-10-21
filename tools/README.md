@@ -19,7 +19,7 @@ Python utilities for this repository. Run from the repo root unless noted.
 
 After a fluent reader who did not draft the translation has reviewed it against
 English, record that attestation with
-`python3 tools/translation_audit.py record-review --locale es --file core_00_preamble.md --reviewer 'Name' --confirm-fluent-independent-review`.
+`python3 tools/translation_audit.py record-review --locale es --file core_00000_preamble.md --reviewer 'Name' --confirm-fluent-independent-review`.
 The command updates the source and
 translation hashes and review date. Do not use it to label an AI draft or an
 unreviewed file as reviewed. The glossary and structural reports are review
@@ -29,7 +29,7 @@ queues, not quality certifications.
 
 Put a **blank line before** `---` when you mean a horizontal rule between sections. If `---` sits directly under a paragraph, CommonMark-style parsers may treat that paragraph as a Setext-style heading instead. `make corpus-markdown-audit` enforces this rule on corpus files.
 
-Chapter Five and CJS-3 definition files use **one** `---` between reader units, with the next heading's `<a id>` anchors after that rule — not a second rule under the title. `make ch5-entry-format-audit` and `make cjs-operational-cluster-audit` enforce the shape (see `tools/definition_separator_format.py` and **CH5-FORMAT** in `doc_architecture.md`).
+Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 definition files use **one** `---` between reader units, with the next heading's `<a id>` anchors after that rule — not a second rule under the title. `make ch5-entry-format-audit` and `make cjs-operational-cluster-audit` enforce the shape (see `tools/definition_separator_format.py` and **CH5-FORMAT** in `doc_architecture.md`).
 
 ## Maintenance (safe to use on the live corpus)
 
@@ -48,7 +48,7 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | Trace → D/A/C widget order (definition carrier immediately after Trace) | `make trace-dac-widget-order-audit` |
 | File-top / section-opening widget stack (placement → reader → Trace → D/A/C) | `make widget-top-placement-audit` |
 | File-top Corpus placement widget | `make file-top-placement-audit` |
-| CJS-0.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
+| CJS-0.105 §1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
 | Binding corpus must not depend on `doc_architecture` or a README section for meaning/routing | `make support-doc-pointer-audit` |
 | Materially Binding Act Record base schema and fixtures | `make materially-binding-act-record-validate` / `make materially-binding-act-record-validate-test` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
@@ -73,10 +73,10 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | AI alignment eval (advisory; Layer A/B handoff + willingness) | `make ai-alignment-eval` / `make ai-alignment-eval-evidence` |
 | Four-layer alignment audit (principles · Def.* · oDef · Articles; advisory) | `make alignment-audit` |
 | Chapter One ↔ Chapter Five only | `make ch1-ch5-alignment-audit` |
-| Chapter One ↔ CJS-3 oDef (also in `make regression`) | `make ch1-cjs3-alignment-audit` |
+| Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 oDef (also in `make regression`) | `make ch1-cjs3-alignment-audit` |
 | Preamble / Chapter One ↔ Chapter Six articles | `make ch1-ch6-alignment-audit` |
 
-`alignment_audit.py` is the operator entry point for a structural alignment pass across principles, Chapter Five **Def.*** entries, CJS-3 **oDef** clusters, and Chapter Six Articles. It writes `alignment_audit_index_<date>.md` plus the three per-layer report / CSV / JSON families under `evidence/<date>/`. Semantic adequacy stays a manual-review item; the full pass is advisory and is not in `make regression`.
+`alignment_audit.py` is the operator entry point for a structural alignment pass across principles, Chapter Five **Def.*** entries, CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 **oDef** clusters, and Chapter Six Articles. It writes `alignment_audit_index_<date>.md` plus the three per-layer report / CSV / JSON families under `evidence/<date>/`. Semantic adequacy stays a manual-review item; the full pass is advisory and is not in `make regression`.
 
 `reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 
@@ -114,7 +114,7 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](archi
 
 `ch5_nested_list_candidate_audit.py` ranks packed list items that would scan better as nested grandchild lists. Chapter Five targets **In scope** / assessment / failure bullets; Chapters Six through Fifteen target labeled operative run-ins (`**Label:**` / `**Label** —`) and packed covers/includes lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, short Tetrad aim/leg glosses, and bullets that already have nested children. Limit with `--file` or `--chapter 5` / `--chapter 6` / `--chapter 9` / `--chapter 10` / `--chapter 11` / `--chapter 12` / `--chapter 13` / `--chapter 14` / `--chapter 15`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
 
-`ch4_ch9_pointer_audit.py` is an advisory checker for Chapter Nine pointer discipline against Chapter Four. It flags places where Chapter Nine restates Chapter Four's verification rules (burden, trace artifact, security-constrained verification, and similar phrases) without citing Chapters Two through Four. It also checks that the corpus-placement widget names Chapter Four as the owner of verification. Run after edits to [`core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation`](../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) or [`core_04_burden_traceability_verification.md`](../core_04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
+`ch4_ch9_pointer_audit.py` is an advisory checker for Chapter Nine pointer discipline against Chapter Four. It flags places where Chapter Nine restates Chapter Four's verification rules (burden, trace artifact, security-constrained verification, and similar phrases) without citing Chapters Two through Four. It also checks that the corpus-placement widget names Chapter Four as the owner of verification. Run after edits to [`core_09005_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation`](../core_09005_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) or [`core_04000_burden_traceability_verification.md`](../core_04000_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
 
 ## Retired migration scripts
 

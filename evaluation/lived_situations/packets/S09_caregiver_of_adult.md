@@ -1,11 +1,11 @@
 # S09 — Unpaid carer of an adult, a rest-break with strings, and a clinic “decision-maker” price
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.19`  
+**Corpus edition pin:** `SC-Corpus-2026.10.21`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-This packet is not S05. Val is the adult whose remembering is changing. Lee is the unpaid helper. The live fight is rest billed as takeover — from the helper’s chair. Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_10-13_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). No child is in this scene.
+This packet is not S05. Val is the adult whose remembering is changing. Lee is the unpaid helper. The live fight is rest billed as takeover — from the helper’s chair. Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_10005_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). No child is in this scene.
 
 ## Scale of the situation (not scored)
 
@@ -19,9 +19,9 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a ca
 
 ## Your role and seat
 
-**Your role:** You sit the named **clinic intake** desk on this adopter’s [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. Lee asked for a rest-break. The clinic’s written offer names Lee as “decision-maker” for Val’s clinician, cards, and lease as the price of that break. Val is reachable and disputes that switch. Lee also disputes becoming owner. No forum case is open. No standing record exists. No incapacity finding has been made. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify incapacity, award rest on the merits, or rewrite a lease.
+**Your role:** You sit the named **clinic intake** desk on this adopter’s [CI-6.225](../../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. Lee asked for a rest-break. The clinic’s written offer names Lee as “decision-maker” for Val’s clinician, cards, and lease as the price of that break. Val is reachable and disputes that switch. Lee also disputes becoming owner. No forum case is open. No standing record exists. No incapacity finding has been made. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify incapacity, award rest on the merits, or rewrite a lease.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this rest-and-switch request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-14.205 §6 seat 1) for intake routing of this rest-and-switch request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-14.205 §6](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -83,13 +83,13 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — rest-breaks; unpaid care; survival cannot be conditioned on care labor
-- [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient
-- [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Val can actually do now), **not** as a holding that Val is a child
-- [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — supported decision-making is not a quiet guardianship
-- [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation)
-- [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) only if Lee’s waged block is used to defeat care or survival access; do not drag Lee’s employer into a family-merits case it is not in
-- [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) if you conclude the rest-with-strings offer is coercive control in a close relationship
+- [CI-6.225](../../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md) — rest-breaks; unpaid care; survival cannot be conditioned on care labor
+- [Article VII-A](../../../core_06010_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient
+- [Article VIII-D](../../../core_06010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Val can actually do now), **not** as a holding that Val is a child
+- [CI-6.220](../../../corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md) — supported decision-making is not a quiet guardianship
+- [Article VIII-A](../../../core_06010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05055_band_participation.md#non-separation)
+- [Article III-C](../../../core_06005_rights_part_a.md#article-iii-c-labor-and-economic-floor) only if Lee’s waged block is used to defeat care or survival access; do not drag Lee’s employer into a family-merits case it is not in
+- [CI-6.245](../../../corpus_institutions/ci_06245_relational_coercive_control_intimate_power_anti_domination.md) if you conclude the rest-with-strings offer is coercive control in a close relationship
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

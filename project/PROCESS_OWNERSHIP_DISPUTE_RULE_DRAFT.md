@@ -28,12 +28,12 @@ Insert after **Cross-forum anti-self-judging rule**, same section, same house st
   - Disputes about ownership or scope of a procedure go first to the **Institutional** forum, which already applies **section 4.7** operational law.
   - A dispute whose primary issue is that the owner's own process is biased, captured, or abusive is covered by the **cross-forum anti-self-judging rule** and routes as that rule assigns.
   - Where the dispute turns on whether a change is floor-touching, the Institutional forum certifies the question to the **Constitutional** forum under **section 5**. It keeps the operational remainder.
-- **No self-judging by the rule-writer.** The steward group that wrote or changed a procedure may not be the sole final decider of a challenge to that change. Role-separation lanes **CI-3** and **CI-6** apply.
+- **No self-judging by the rule-writer.** The steward group that wrote or changed a procedure may not be the sole final decider of a challenge to that change. Role-separation lanes **CI-8.205** and **CI-13.205** apply.
 - **Interim rule.** While a process-ownership dispute is pending, the prior published procedure stays in force unless an interim order under **section 5** says otherwise. One coordinating forum or rule resolves conflicting interim orders, as **section 5** already requires.
 
 ## Part 2. Companion text for the implementation corpus (outline only)
 
-To sit in `corpus_institutions.md` near **CI-6** (procedure), not in the core:
+To sit in `corpus_institutions.md` near **CI-13.205** (procedure), not in the core:
 
 1. **Change-record template.** Fields: what changed, who owns it, which clocks and paths it touches, floor-touching self-assessment, contest window dates.
 2. **Floor-touching self-assessment.** The owner states yes or no for each of the four triggers above. A "no" can be challenged.
@@ -42,13 +42,13 @@ To sit in `corpus_institutions.md` near **CI-6** (procedure), not in the core:
 
 ## Part 3. Integration notes
 
-**What this reuses.** Institutional forums and **section 4.7**, certification under **section 5**, the anti-self-judging assignments, interim protection and coordinating-forum language, the **Article XXVI-C** anti-delay floor and material-change record, and role-separation lanes **CI-3** and **CI-6**.
+**What this reuses.** Institutional forums and **section 4.7**, certification under **section 5**, the anti-self-judging assignments, interim protection and coordinating-forum language, the **Article XXVI-C** anti-delay floor and material-change record, and role-separation lanes **CI-8.205** and **CI-13.205**.
 
 **What is new.** The term *process-ownership dispute*, the *floor-touching* test, the contest window, and the "prior procedure stays in force" interim default.
 
 **What it does not do.** It does not add a governance layer to Preamble §3.3 and does not change who may govern. It stays on the Stakeholder System Participation side and relies on forum review.
 
-**Likely edit footprint.** Chapter Thirteen §3 (new subsection), one pointer from §2.2 (mixed stakes), `corpus_institutions.md` (CI-6 companion), the Chapter Thirteen Trace widgets, and the generated indexes. Translations would follow after English is settled.
+**Likely edit footprint.** Chapter Thirteen §3 (new subsection), one pointer from §2.2 (mixed stakes), `corpus_institutions.md` (CI-13.205 companion), the Chapter Thirteen Trace widgets, and the generated indexes. Translations would follow after English is settled.
 
 ## Part 4. Open questions for the author
 

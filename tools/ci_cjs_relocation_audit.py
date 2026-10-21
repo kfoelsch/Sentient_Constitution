@@ -26,7 +26,7 @@ CJS_DIR = "corpus_joint_structure"
 
 DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
     (
-        "CJS-3.5–CJS-3.8 / CJS-2.1 / CJS-2.5",
+        "CJS-5.110 §5–CJS-5.120 §8 / CJS-18.110 §1 / CJS-18.110 §5",
         (
             "authority",
             "delegation",
@@ -43,7 +43,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("authority/procedure", "shared procedural abstraction"),
     ),
     (
-        "CJS-3.22–CJS-3.12",
+        "CJS-5.135 §22–CJS-5.125 §12",
         (
             "audit",
             "evidence",
@@ -59,7 +59,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("evidence/audit", "claim integrity"),
     ),
     (
-        "CJS-3.13–CJS-3.4",
+        "CJS-5.125 §13–CJS-5.110 §4",
         (
             "participation",
             "notice",
@@ -74,7 +74,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("participation/disclosure", "comprehension/accessibility"),
     ),
     (
-        "CJS-3.16–CJS-3.18",
+        "CJS-5.130 §16–CJS-5.130 §18",
         (
             "dependency",
             "exit",
@@ -88,7 +88,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("dependency/exit", "lifecycle integrity"),
     ),
     (
-        "CJS-3.19–CJS-3.53",
+        "CJS-5.130 §19–CJS-5.135 §23",
         (
             "failure",
             "emergency",
@@ -103,12 +103,12 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("failure/robustness", "intervention/correction"),
     ),
     (
-        "CJS-2.3",
+        "CJS-18.110 §3",
         ("trust", "trustworthiness", "misleading reliance", "proxy metric", "integrity"),
         ("cross-implementation trust",),
     ),
     (
-        "CJS-1 / CJS-2",
+        "CJS scope and coordination / CJS-18.110",
         (
             "joint",
             "cross-implementation",
@@ -239,7 +239,7 @@ def strip_navigation_and_alignment(text: str) -> str:
 
 
 def strip_inst_proto_registry(text: str) -> str:
-    """Remove local CI-26 compliance index tables before relocation scoring."""
+    """Remove local CI-0.215 compliance index tables before relocation scoring."""
 
     text = re.sub(
         r"\n?\*\*Core section families\*\*\n\n\| Section \| Topic \|\n\|---\|---\|\n(?:\| \*\*CI-[^|]+\|[^\n]*\n)+",
@@ -296,7 +296,7 @@ def strip_cjs_pointer_sentences(text: str) -> str:
 
     text = strip_navigation_and_alignment(strip_inst_proto_registry(strip_constitutional_index(text)))
     paragraph_kept: list[str] = []
-    cjs_ref_re = re.compile(r"(corpus_joint_structure\.md|CJS-\d|CJS-3[A-E]?)", flags=re.I)
+    cjs_ref_re = re.compile(r"(corpus_joint_structure\.md|CJS-\d|CJS-\d[A-E]?)", flags=re.I)
     post_relocation_re = re.compile(
         r"(this subsection states the institutional|this section states the institutional|"
         r"this section records the institutional|this subsection records the institutional|"
@@ -322,7 +322,7 @@ def strip_cjs_pointer_sentences(text: str) -> str:
     pointer_re = re.compile(
         r"(\bapply\b|\bread\b|\bsee\b|\bunder\b|\bgoverned by\b|\bremain(?:s)?\b|"
         r"\bshared\b|\bpointer\b|\brouter\b|\bowner map\b|\bjoint-obligation\b).{0,260}"
-        r"(corpus_joint_structure\.md|CJS-\d|CJS-3[A-E]?)",
+        r"(corpus_joint_structure\.md|CJS-\d|CJS-\d[A-E]?)",
         flags=re.I | re.S,
     )
     for chunk in chunks:
@@ -417,7 +417,7 @@ def extract_cjs_paragraphs(root: Path) -> list[dict[str, object]]:
 
 
 def extract_router_rows(root: Path) -> list[dict[str, str]]:
-    path = root / CJS_DIR / "cjs_00_registry_and_reading_rules.md"
+    path = root / CJS_DIR / "cjs_00105_registry_and_reading_rules.md"
     rows: list[dict[str, str]] = []
     row_re = re.compile(r"^\|\s+\*\*(CJS-R[^*]+)\*\*\s+\|\s+([^|]+)\|\s+([^|]+)\|\s+([^|]+)\|")
     for line in read_text(path).splitlines():
@@ -578,7 +578,7 @@ def render_markdown(candidates: list[Candidate], root: Path, min_score: int) -> 
         "",
         f"Generated: {generated}",
         "",
-        "Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-0.1 topic router.",
+        "Scope: `corpus_institutions/*.md` compared against `corpus_joint_structure/*.md` and the CJS-0.105 §1 topic router.",
         "",
         "This is an editorial exposure audit. It identifies candidate passages for relocation, pointer replacement, or split ownership; it does not apply moves.",
         "",

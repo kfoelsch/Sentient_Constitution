@@ -25,10 +25,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-A = "core_09_a_system_alignment_certification_evaluation.md"
-B = "core_09_b_system_alignment_certification_record_process.md"
-C = "core_09_c_system_alignment_certification_illustrations.md"
-HUB = "core_09_system_alignment_certification.md"
+A = "core_09005_system_alignment_certification_evaluation.md"
+B = "core_09010_system_alignment_certification_record_process.md"
+C = "core_09015_system_alignment_certification_illustrations.md"
+HUB = "core_09000_system_alignment_certification.md"
 CH8 = {A, B, C}
 
 # ---------------------------------------------------------------- number map
@@ -249,8 +249,8 @@ def git_files() -> list[str]:
 
 
 # History logs and rule text that describe the earlier numbering are edited by hand;
-# cs_02_b's "Part A §7" is CS-2 Part A, not Chapter Eight.
-HAND_EDITED = {"project/MEMLOG.md", "doc_architecture.md", "corpus_systems/cs_02_b_data_classifications.md"}
+# cs_02_b's "Part A §7" is CS-6.310, not Chapter Eight.
+HAND_EDITED = {"project/MEMLOG.md", "doc_architecture.md", "corpus_systems/cs_06310_data_classifications.md"}
 
 
 def processable(relpath: str) -> bool:

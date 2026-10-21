@@ -14,7 +14,7 @@ I would continue toward publication. I would not yet describe the corpus as a de
 
 This is a first cross-corpus examination, not a line-by-line review of the whole repository. I directly examined selected operative passages across the Preamble; Chapter One Parts A–C; Chapter Five's Material Control Line definition; Chapter Six's environmental, sentience-status, standing, and derived-sentient provisions; Chapter Seven; Chapter Eight; Chapter Nine Parts B and D; Chapters Ten–Twelve; Chapter Thirteen's timing provisions; Chapters Fourteen, Fifteen, and Seventeen; and selected implementation sources below. Some passages were sampled rather than read in full.
 
-Implementation reading included CF-3 formation and family inventory, CJS-2.4 staffing, CS-3 Class P routing, CS-10 transition gates, CI-27 remedy capacity, the first-adopter kit, minimum-viable-adopter profiles, the LEQU calibration reference, public entry material, and evaluation instructions and result inventories. I also consulted the publication spec, vision, TODO, and MEMLOG as planning records, not binding meaning. I used source hydration for Material Control Line; locator gloss was not used as authority.
+Implementation reading included CF-13.405 formation and family inventory, CJS-18.110 §4 staffing, CS-9.305 and CS-9.310 Class P routing, CS-6.350 transition gates, CI-11.205 remedy capacity, the first-adopter kit, minimum-viable-adopter profiles, the LEQU calibration reference, public entry material, and evaluation instructions and result inventories. I also consulted the publication spec, vision, TODO, and MEMLOG as planning records, not binding meaning. I used source hydration for Material Control Line; locator gloss was not used as authority.
 
 The review reflects `origin/main` at `9145e113` plus the existing local Chapter Seven edits. Those edits and the pre-existing translation work were preserved. No core or translation text was edited for this review. I did not conduct a formal trial, verify translations, research external platforms, or establish any claim about actual model sentience. The numerical audit result below applies to this working checkout.
 
@@ -26,7 +26,7 @@ Statements below distinguish **observed text**, **editorial judgment**, and **te
 
 The Preamble's Two Fundamental Questions examine what a system rewards, including concealment, delay, and cost shifting. Chapter One §6 makes trustworthy reliance depend on behavior; §6.1 makes correction and remedy part of trust itself. This is a useful conceptual center for a project intended to rebuild trust: it supplies questions people can ask about an institution without first trusting its leadership.
 
-**Sources:** [Preamble: What Systems Reward](../../core_00_preamble.md#what-systems-reward); [Chapter One §6](../../core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
+**Sources:** [Preamble: What Systems Reward](../../core_00000_preamble.md#what-systems-reward); [Chapter One §6](../../core_01005_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 
 ### 2. Help cannot buy permission to harm
 
@@ -34,7 +34,7 @@ Chapter Ten separates verified contribution from verified violation. Its three-q
 
 This is also more constructive than a system concerned only with punishment. The recognition and aspiration provisions in Chapter One §3.2 give useful work a positive place in the design.
 
-**Sources:** [Chapter Ten §§1–2.2](../../core_10_standing_assessment.md#1-the-three-questions); [Chapter One §3.2](../../core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration).
+**Sources:** [Chapter Ten §§1–2.2](../../core_10000_standing_assessment.md#1-the-three-questions); [Chapter One §3.2](../../core_01005_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
 ### 3. The corpus explicitly resists becoming a universal reputation system
 
@@ -42,7 +42,7 @@ This is also more constructive than a system concerned only with punishment. The
 
 These are substantive protections worth making conspicuous in explanations and trials. They also create implementation obligations: a future interface must not quietly reintroduce a global score or an “unverified” stigma.
 
-**Sources:** [Chapter Ten §2.1](../../core_10_standing_assessment.md#21-silence-is-the-default); [Chapter One §17.3](../../core_01_c_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Eleven §§7–8](../../core_11_standing_integration.md#7-final-standing-effect).
+**Sources:** [Chapter Ten §2.1](../../core_10000_standing_assessment.md#21-silence-is-the-default); [Chapter One §17.3](../../core_01015_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Chapter Eleven §§7–8](../../core_11000_standing_integration.md#7-final-standing-effect).
 
 ### 4. Independence follows actual power
 
@@ -50,15 +50,15 @@ The Material Control Line definition asks who can actually direct, punish, remov
 
 For agent governance, this prevents four role prompts from being mistaken for four independent authorities.
 
-**Sources:** [Material Control Line](../../core_05_band_accountability.md#material-control-line); [Chapter Eight §§2–3](../../core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor).
+**Sources:** [Material Control Line](../../core_05035_band_accountability.md#material-control-line); [Chapter Eight §§2–3](../../core_08000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor).
 
 ### 5. Repair, restoration, and capacity are treated as real work
 
-Chapter Eleven requires institutions capable of delivering remedy, with funding, staffing, continuity, and review. CI-27 makes backlog and milestone performance visible. Restoration and archival limit the prospect of an ordinary resolved finding becoming a lifelong public identity.
+Chapter Eleven requires institutions capable of delivering remedy, with funding, staffing, continuity, and review. CI-11.205 makes backlog and milestone performance visible. Restoration and archival limit the prospect of an ordinary resolved finding becoming a lifelong public identity.
 
 The strongest idea here is that restrictions do not themselves repair the injured party. Chapter Twelve §4.1 says that explicitly, including for serious misconduct. I would protect this through any compression of the implementation text.
 
-**Sources:** [Chapter Eleven §§8–9](../../core_11_standing_integration.md#8-restoration-and-reassessment); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md); [Chapter Twelve §4.1](../../core_12_a_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
+**Sources:** [Chapter Eleven §§8–9](../../core_11000_standing_integration.md#8-restoration-and-reassessment); [CI-11.205](../../corpus_institutions/ci_11205_remedy_systems_institutional_redress_capacity.md); [Chapter Twelve §4.1](../../core_12005_misconduct_designation.md#41-remedy-and-correction-anti-constitutional).
 
 ### 6. It distinguishes protection, competence, participation, and authority
 
@@ -66,13 +66,13 @@ Sentience status does not come from a certification badge or standing score. Aff
 
 Those distinctions make the proposal more adaptable, although the explanation needs to make them easier to retain.
 
-**Sources:** [Article VI-B](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Preamble §3.3](../../core_00_preamble.md#33-governance-layers); [Chapter Fourteen §§1.1 and 4.1](../../core_14_governance.md#11-mechanism-families-auditability-and-pluralism).
+**Sources:** [Article VI-B](../../core_06010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Preamble §3.3](../../core_00000_preamble.md#33-governance-layers); [Chapter Fourteen §§1.1 and 4.1](../../core_14000_governance.md#11-mechanism-families-auditability-and-pluralism).
 
 ## Improvements in priority order
 
 ### Priority 1 — Demonstrate an affordable starting path
 
-**Observed text:** The first-adopter kit permits a bounded mutual protocol when the parties can bind it and name independent review. CF-3 requires adopting entities to maintain the six forum families, with shared administration and mapped external capacity permitted. The minimum-viable-adopter guide's hosted-family profile estimates 8–25 in-house FTE plus external capacity and annual in-house costs of 10⁶–10⁷ currency units. Those are explicitly support estimates for a high-cost professional setting, not constitutional minimum prices or verified budgets.
+**Observed text:** The first-adopter kit permits a bounded mutual protocol when the parties can bind it and name independent review. CF-13.405 requires adopting entities to maintain the six forum families, with shared administration and mapped external capacity permitted. The minimum-viable-adopter guide's hosted-family profile estimates 8–25 in-house FTE plus external capacity and annual in-house costs of 10⁶–10⁷ currency units. Those are explicitly support estimates for a high-cost professional setting, not constitutional minimum prices or verified budgets.
 
 **Judgment:** The corpus offers a small-party entrance but has not demonstrated a small-party operating arrangement under all the applicable rules. The proposed initial audience needs that demonstration. Cheap agent execution does not establish independence from whoever controls accounts, credentials, hosting, or funding.
 
@@ -80,11 +80,11 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** A reader can reproduce formation and the first contested allocation without an unwritten exception. If the requirements cannot be satisfied, report the actual conflict to the steward; do not invent a cheaper constitutional tier or weaken independence in support text.
 
-**Sources:** [First-adopter kit §§1–2](../../implementation/adoption/FIRST_ADOPTER_KIT.md#1-three-substeps-do-not-collapse); [adopter profiles §6.3](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#63-profile-3--adoption-document-plus-hosted-families); [CF-3.1–3.4](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule); [Chapter Nine Part D §13.1](../../core_09_d_institutional_alignment_certification.md#131-four-seats-in-an-institutional-certification).
+**Sources:** [First-adopter kit §§1–2](../../implementation/adoption/FIRST_ADOPTER_KIT.md#1-three-substeps-do-not-collapse); [adopter profiles §6.3](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#63-profile-3--adoption-document-plus-hosted-families); [CF-13.405 §1–3.4](../../corpus_forum/cf_13405_forum_formation_chamber_structure.md#cf-13405-1-core-structural-rule); [Chapter Nine Part D §13.1](../../core_09020_institutional_alignment_certification.md#131-four-seats-in-an-institutional-certification).
 
 ### Priority 2 — Make the next action easier to find and execute
 
-**Observed text:** Entry documents repeatedly explain authority boundaries, adoption versus declaration, institution versus forum tracks, and what each page cannot do. Those distinctions are necessary, but the first-adopter and sizing pages put substantial boundary material ahead of execution. CS-10 specifies phase and gate requirements; the adopter must still instantiate their criteria, thresholds, owners, and evidence.
+**Observed text:** Entry documents repeatedly explain authority boundaries, adoption versus declaration, institution versus forum tracks, and what each page cannot do. Those distinctions are necessary, but the first-adopter and sizing pages put substantial boundary material ahead of execution. CS-6.350 specifies phase and gate requirements; the adopter must still instantiate their criteria, thresholds, owners, and evidence.
 
 **Judgment:** Good sentences do not by themselves make a usable procedure. The reader still needs to assemble a large dependency graph. An agent may navigate it more quickly while still getting the wrong authority or missing a qualification.
 
@@ -92,7 +92,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** An unfamiliar reader completes a bounded task without author coaching; record time, failed searches, unresolved handoffs, and corrections. A simulation can test this before live participants are recruited.
 
-**Sources:** [first-adopter kit](../../implementation/adoption/FIRST_ADOPTER_KIT.md); [CS-10.2–10.3](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-102-phased-transition-structure); [Chapter One §5.2](../../core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty).
+**Sources:** [first-adopter kit](../../implementation/adoption/FIRST_ADOPTER_KIT.md); [CS-6.350 §2–10.3](../../corpus_systems/cs_06350_transition_constitution_migration_governance.md#cs-6350-2-phased-transition-structure); [Chapter One §5.2](../../core_01005_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty).
 
 ### Priority 3 — Establish how reliably different evaluators measure the same facts
 
@@ -104,7 +104,7 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** Published disagreements, their consequences, and a defensible resolution path. Do not treat consensus between coached sessions as empirical calibration.
 
-**Sources:** [Chapter Ten §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Twelve §1](../../core_12_a_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
+**Sources:** [Chapter Ten §7](../../core_10000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [LEQU calibration reference §§2–3](../../implementation/LEQU_CALIBRATION_REFERENCE.md#2-lifespan-equivalent-without-fixed-mortality); [Chapter Twelve §1](../../core_12005_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame).
 
 ### Priority 4 — Test the strongest powers against hostile administration
 
@@ -116,15 +116,15 @@ Those distinctions make the proposal more adaptable, although the explanation ne
 
 **Completion evidence:** The protected subjects have a usable route under adversarial conditions; a simulation result must be labeled as such. If a value choice remains, present it to the steward rather than treating it as copyediting.
 
-**Sources:** [Chapter Fourteen §4.1](../../core_14_governance.md#41-entitlement-and-eligibility); [Chapter Twelve §§4–4.2](../../core_12_a_misconduct_designation.md#4-due-process-safeguards-remedy-and-prevention); [Chapter Fifteen §§1–3](../../core_15_non_regression.md#1-non-regression-floor).
+**Sources:** [Chapter Fourteen §4.1](../../core_14000_governance.md#41-entitlement-and-eligibility); [Chapter Twelve §§4–4.2](../../core_12005_misconduct_designation.md#4-due-process-safeguards-remedy-and-prevention); [Chapter Fifteen §§1–3](../../core_15000_non_regression.md#1-non-regression-floor).
 
 ### Priority 5 — Repair semantic drift between core and implementation
 
-**Confirmed example:** [Chapter Eleven §9.2](../../core_11_standing_integration.md#92-remedy-parity-funding-floor) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-27.5](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md#ci-275-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-floors-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
+**Confirmed example:** [Chapter Eleven §9.2](../../core_11000_standing_integration.md#92-remedy-parity-funding-floor) permits an adopter departing from budget parity to record reasons and demonstrate that remedy commencement and restoration review still meet their windows. [CI-11.205 §5](../../corpus_institutions/ci_11205_remedy_systems_institutional_redress_capacity.md#ci-11205-5-remedy-parity-and-capacity-failure-interface) repeats the parity requirement without carrying that qualification. The [sizing guide §2](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#2-binding-floors-that-drive-cost) likewise presents parity without it, and its profiles use unconditional parity shorthand.
 
-The core controls. The omission is still a practical defect because readers acting from the implementation layer may infer a stricter rule. CI-27's express pointer to the core helps but does not make the restatement complete. This is an alignment issue to fix, not a conclusion that core should remove or expand the exception.
+The core controls. The omission is still a practical defect because readers acting from the implementation layer may infer a stricter rule. CI-11.205's express pointer to the core helps but does not make the restatement complete. This is an alignment issue to fix, not a conclusion that core should remove or expand the exception.
 
-**Confirmed reference defect:** [Chapter Fourteen §1.1](../../core_14_governance.md#11-mechanism-families-auditability-and-pluralism), under Non-Usurpation, says deliberate adoption remains governed by “Chapter Eighteen (Ratification and Adoption).” The actual adoption provisions are [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption); Chapter Eighteen is the incorporation bridge. The core correction remains for the steward to approve.
+**Confirmed reference defect:** [Chapter Fourteen §1.1](../../core_14000_governance.md#11-mechanism-families-auditability-and-pluralism), under Non-Usurpation, says deliberate adoption remains governed by “Chapter Eighteen (Ratification and Adoption).” The actual adoption provisions are [Chapter Seventeen §10](../../core_17000_amendment_ratification.md#10-ratification-and-adoption); Chapter Eighteen is the incorporation bridge. The core correction remains for the steward to approve.
 
 **Work needed:** Compare conditional rules across source and summaries: exceptions, default classifications, burdens, emergency powers, deadlines, and restoration. Link and anatomy checks cannot establish that paraphrases preserve all conditions. Prefer precise pointers over restating a rule incompletely.
 

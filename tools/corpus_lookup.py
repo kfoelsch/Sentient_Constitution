@@ -425,6 +425,28 @@ def cmd_resolve(indexes: Indexes, query: str | None, prefix: str | None) -> dict
     if not query:
         raise LookupError_("resolve requires QUERY or --prefix")
 
+    registry_path = indexes.root / "tools/architecture/chapter_numbers.json"
+    if registry_path.is_file():
+        registry = load_json(registry_path).get("chapters", [])
+        chapter_hits = [row for row in registry if query == row.get("old_id") or query in row.get("legacy_chapter_ids", [])]
+        if len(chapter_hits) > 1:
+            destinations = {}
+            for row in chapter_hits:
+                destinations[(row["machine_id"], row["display_id"], row["destination_file"])] = {
+                    "machine_id": row["machine_id"],
+                    "display_id": row["display_id"],
+                    "source_file": row["destination_file"],
+                    "legacy_id": query,
+                }
+            if len(destinations) > 1:
+                return {"kind": "chapter-number-list", "query": query, "destinations": list(destinations.values())}
+
+    # The chapter registry is the source for migrated, dotted references and
+    # for legacy IDs that are not represented in the generated term resolver.
+    chapter_result = resolve_chapter_number(indexes.root, query)
+    if chapter_result is not None:
+        return chapter_result
+
     ids = indexes.resolver.get("ids", {})
     if query in ids:
         return pointer_from_id(ids[query], query)
@@ -438,6 +460,44 @@ def cmd_resolve(indexes: Indexes, query: str | None, prefix: str | None) -> dict
         return topic_pointers(topic)
 
     raise LookupError_(f"unknown id, term, or topic: {query}")
+
+
+def resolve_chapter_number(root: Path, query: str) -> dict[str, Any] | None:
+    registry_path = root / "tools/architecture/chapter_numbers.json"
+    crosswalk_path = root / "tools/architecture/chapter_crosswalk.json"
+    if not registry_path.is_file() or not crosswalk_path.is_file():
+        return None
+    registry = load_json(registry_path).get("chapters", [])
+    crosswalk = load_json(crosswalk_path)
+    rows = {row["original_file"]: row for row in registry}
+    hits: list[dict[str, Any]] = []
+    for section in crosswalk.get("sections", []):
+        row = rows.get(section.get("source_file"))
+        if row is None:
+            continue
+        if query in {section.get("legacy_section_id"), section.get("display_id"), section.get("machine_id")}:
+            hits.append({
+                "machine_id": section.get("machine_id"),
+                "display_id": section.get("display_id"),
+                "source_file": row.get("destination_file"),
+                "legacy_id": section.get("legacy_section_id"),
+            })
+    if hits:
+        unique = {(hit["machine_id"], hit["display_id"], hit["source_file"]): hit for hit in hits}
+        values = list(unique.values())
+        if len(values) == 1:
+            return {"kind": "chapter-number", **values[0], "legacy_id_note": "Resolved through the migration crosswalk."}
+        return {"kind": "chapter-number-list", "query": query, "destinations": values}
+
+    legacy_hits = [row for row in registry if query == row.get("old_id") or query in row.get("legacy_chapter_ids", [])]
+    if legacy_hits:
+        values = [{"machine_id": row["machine_id"], "display_id": row["display_id"], "source_file": row["destination_file"], "legacy_id": query} for row in legacy_hits]
+        unique = {(hit["machine_id"], hit["display_id"], hit["source_file"]): hit for hit in values}
+        values = list(unique.values())
+        if len(values) == 1:
+            return {"kind": "chapter-number", **values[0], "legacy_id_note": "Resolved through the migration registry."}
+        return {"kind": "chapter-number-list", "query": query, "destinations": values}
+    return None
 
 
 def normalize_anchor(anchor: str | None) -> str | None:

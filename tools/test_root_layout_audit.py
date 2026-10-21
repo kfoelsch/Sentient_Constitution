@@ -34,7 +34,7 @@ class ClassifyTests(unittest.TestCase):
         self.assertEqual(classify("ARTICLE_VIII_PLAIN_LANGUAGE_DRAFT.md").rule_id, "RL-PLAIN-01")
 
     def test_legitimate_root_files_pass(self) -> None:
-        for name in ("README.md", "AGENTS.md", "core_06_rights_part_c.md", "steward_box_review.md",
+        for name in ("README.md", "AGENTS.md", "core_06015_rights_part_c.md", "steward_box_review.md",
                      "Makefile", "doc_architecture.md", "swipe.md", "drafting_contracts.md"):
             self.assertIsNone(classify(name), name)
 

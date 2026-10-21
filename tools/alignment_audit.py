@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Four-layer alignment audit: principles, Def.*, oDef, and Articles.
 
-Runs the Chapter One ↔ Chapter Five, Chapter One ↔ CJS-3, and Chapter 0/1 ↔
+Runs the Chapter One ↔ Chapter Five, Chapter One ↔ CJS operational cluster, and Chapter 0/1 ↔
 Chapter Six auditors in-process and writes a combined index plus each layer's
 existing report / CSV / JSON artifacts.
 
@@ -87,7 +87,7 @@ def _write_index(
         "|---|---:|",
         f"| Principles (Preamble + Chapter One) | {len(ch5.ch1_principles)} |",
         f"| Chapter Five Def.* (including apex heads) | {len(ch5.ch5_definitions)} |",
-        f"| CJS-3 oDef clusters | {len(cjs3.clusters)} |",
+        f"| CJS operational cluster oDef clusters | {len(cjs3.clusters)} |",
         f"| Chapter Six articles / subarticles | {len(ch6.articles)} |",
         "",
         "## Layer findings",
@@ -131,7 +131,7 @@ def _write_index(
 
     lines.extend([
         "",
-        "## CJS-3 oDef clusters",
+        "## CJS operational cluster oDef clusters",
         "",
         "| Cluster | Title | Guideposts | Chapter One basis | Chapter Five cites | Owner routing | Status |",
         "|---|---|---|---|---|---|---|",

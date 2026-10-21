@@ -306,7 +306,7 @@
     {
       "id": "REF-FAMILY",
       "legacy_ref": "section 7 companion family cites",
-      "summary": "Adopted implementation family cites link the authoritative subfile, not the layer wrapper; CJS-3.n is the public cluster ID.",
+      "summary": "Adopted implementation family cites link the authoritative subfile, not the layer wrapper; CJS chapter ids are assigned by the chapter registry.",
       "make_target": "adopted-implementation-cite-audit",
       "status": "blocking"
     },
@@ -341,7 +341,7 @@
     {
       "id": "ROUTER-CJS01",
       "legacy_ref": "implementation routing",
-      "summary": "Cross-implementation topic routing via CJS-0.1.",
+      "summary": "Cross-implementation topic routing via CJS-0.105 §1.",
       "make_target": "router-bidirectional-audit",
       "status": "blocking"
     },

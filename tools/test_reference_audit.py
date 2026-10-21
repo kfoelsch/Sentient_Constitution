@@ -37,7 +37,7 @@ class SemanticRuleGuardTests(unittest.TestCase):
         and the rule pointing at it stops matching, here rather than in a
         report that tells authors to insert a wrong citation.
         """
-        validate_semantic_rules(canonical_map_from_paths(ROOT, "core_06_rights_part_a.md"))
+        validate_semantic_rules(canonical_map_from_paths(ROOT, "core_06005_rights_part_a.md"))
 
     def test_shipped_rules_match_their_articles(self) -> None:
         """Every rule keyword must appear in the heading it points at."""

@@ -11,7 +11,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 2. **Clock lines** are steward procedure. Several repeat the Forbidden move in positive form (Proceed, Remedy, Emergency, Delay). Interpretation's Clock duplicates the interim posture already written in Chapter One §13.1.5 (lines ~329-332: preserve, freeze irreversible steps, do not manufacture a winner). Move the rest to the implementation cards and `implementation/steward_owner_clock_index.json`, which already carry clock notes.
 3. **Forbidden moves** are mostly principles the owning text already states (table below). A handful do not appear to be, and are the real decisions.
 4. **Functional Independence (Ch8)** is not in Owner/Forbidden/Clock form. It is a substantive seat-separation rule ("identify the seat you hold... do not verify your own act... if the needed seat is absent, preserve the record, name the gap, route to the published substitute"). Check whether Chapter Eight's body already says this; if not, promote it into the body rather than remove it.
-5. **Widget gap:** XXVI-C (`core_06_rights_part_e.md`) and Chapter Thirteen §6.1 (`core_13_forum.md`) are still bare blockquotes; the other 13 are in widgets. `TODO.md` says all were wrapped.
+5. **Widget gap:** XXVI-C (`core_06025_rights_part_e.md`) and Chapter Thirteen §6.1 (`core_13000_forum.md`) are still bare blockquotes; the other 13 are in widgets. `TODO.md` says all were wrapped.
 
 ## Per-box diff
 
@@ -22,7 +22,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 | Shared Stewardship | No AI-only morals overlay; no exemption for human operators | Yes | Ch1 §10.5 (~576) "binds human operators and AI stewards alike... not an AI-only test"; §10.1 plain-terms |
 | Unlawful Instruction | Cover is not a transfer of duty; don't close contest pathways | **Yes** (corrected in Follow-up 2) | Ch1 §10.5 "No transfer by cover", "No compliance defense", "keeps contest pathways open" |
 | Incentive | Bonus is not a compliance defense; don't ship by suppressing disclosure | Yes | Ch1 §12 (~403-416): reward for hiding problems, partial testing |
-| Market Structure | Adopter-tunable is not adopter-optional; don't clear the floor with entity count or efficiency talk | **Yes** (corrected in Follow-up 2) | CJS-3.11.1 (`cjs_03a_accountability_operations.md` ~120-121): floor preservation, substance over form, anti-nullification; Ch1 §14.1 "provided the floor holds" |
+| Market Structure | Adopter-tunable is not adopter-optional; don't clear the floor with entity count or efficiency talk | **Yes** (corrected in Follow-up 2) | CJS-5.125 §11.1 (`cjs_05125_accountability_operations.md` ~120-121): floor preservation, substance over form, anti-nullification; Ch1 §14.1 "provided the floor holds" |
 | Contest | Lower/adopted text cannot close challenge, review, or redress; bar fixed now, not later | **Not found** | Already flagged in `TODO.md`. The general rule lives in the Authority Stack; the "now, not later" rule appears only in the box. Highest-priority check |
 | Audit | Deadline is not a reason to drop audit trails | Yes | Ch1 §12 (~408) "cutting the record to hit a deadline". "No fifth audit home" not found by keyword; the SAC box itself says SAC sits under Article XVI |
 | Comprehensibility | Density is no reason to hide the next step; no specialist required to use XIII-A | **Not found** (thin) | XXIII-A covers understanding generally; nothing on "no specialist required". Mostly routing; consider dropping |
@@ -47,9 +47,9 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 
 **What XIII-A already says.** The contestability guarantee requires a usable path to challenge and review, audit under Article XVI, and "no narrowing of any of these because the system is certified, officially recognized, or widely relied on." That covers narrowing by a system's status. It does not mention narrowing by adopted implementation text.
 
-**What the wider text says.** The Authority Stack (Ch5, `core_05_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Sixteen §3.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIII-A the way it is in Article XVI.
+**What the wider text says.** The Authority Stack (Ch5, `core_05045_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Sixteen §3.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIII-A the way it is in Article XVI.
 
-**The parallel that exists.** Article XVI (`core_06_rights_part_c.md` line 861) states: "**Adopted implementation text applies; it does not replace the floor.** ... They must satisfy layers 1-2. Deadline, secrecy, and local policy are lower-kind limits."
+**The parallel that exists.** Article XVI (`core_06015_rights_part_c.md` line 861) states: "**Adopted implementation text applies; it does not replace the floor.** ... They must satisfy layers 1-2. Deadline, secrecy, and local policy are lower-kind limits."
 
 **Verdict.** A small real gap. The principle is implied but not written in XIII-A. The "now, not later / no permanent bar while a later process is promised" half of the box is steward procedure, not principle, and belongs in the implementation card (it is already what the JSON `clock_note` style carries).
 
@@ -71,7 +71,7 @@ Corrections to the first table: Unlawful Instruction and Market Structure are **
 | Box | Verdict | Evidence | Action |
 |---|---|---|---|
 | **Unlawful Instruction** | Fully covered | Ch1 §10.5: "No compliance defense", "No transfer by cover: a principal's statement that they will take responsibility does not transfer the duty", "How: instruction received -> refuse -> document -> escalate", "keeps contest pathways open" | Remove the box. Its Clock is the "How" bullet verbatim |
-| **Market Structure** | Covered at the operative layer | CJS-3.11.1 (~120-121): no threshold above the level where concentration degrades wellbeing, agency, dignity, or ecological integrity, "whatever the justification, including efficiency, competitiveness"; "Thresholds judge substantive concentration, not headcount of legal entities"; anti-nullification. Ch1 §14.1: thresholds may differ "provided the floor holds" | Remove the box. "Invalidate the nullifying threshold now" is a steward action for the card |
+| **Market Structure** | Covered at the operative layer | CJS-5.125 §11.1 (~120-121): no threshold above the level where concentration degrades wellbeing, agency, dignity, or ecological integrity, "whatever the justification, including efficiency, competitiveness"; "Thresholds judge substantive concentration, not headcount of legal entities"; anti-nullification. Ch1 §14.1: thresholds may differ "provided the floor holds" | Remove the box. "Invalidate the nullifying threshold now" is a steward action for the card |
 | **Comprehensibility** | Covered in substance | XXIII-A: understanding "must not be confined to specialist-only surfaces where broader accountability or participation is materially implicated". XXIII-B: complexity cannot be a wall against audit, contest, or correction | Remove the box. "Point at the existing card... no scavenger hunt" is routing for the card |
 | **Proceed** | Mostly covered; one real gap | Covered: Ch1 §6.2.3 and §6.2 (privacy carries independent weight, "not automatically subordinate", collisions go through the §6.1 decision record); §6.1 confidentiality limits must keep "independent reviewer access"; §10.5 "What it does not reach" (merely unwelcome instruction). Gap: nothing in Ch10/10 says privacy or model-internals opacity is not an exemption from standing measurement (the Standing box also says this) | See draft below |
 | **SAC** | Mostly covered; one check left | Covered: Ch9 A proportionality ("not a one-size-fits-all checklist"), ~202 (a checklist or after-the-fact statement is not evaluation), Ch6 Part B ~214 (badge/LEQU is not sentience status), challenge and stakeholder review at ~74 and ~147 | Not confirmed: that Ch9 Part A §3 and Part B §5–§6.2 makes the challenge window a precondition of the aligned claim ("do not skip the challenge window"). Read Ch9 Part A §3 and Part B §5–§6.2 before removing the box |
@@ -114,7 +114,7 @@ Note: Proceed and Standing share one added sentence, so there are three drafted 
 
 Decision: the challenge window opens once the system has stakeholders. For high-impact systems there should almost always be a pilot, and the path opens when the pilot goes live.
 
-Note: Chapter Nine Parts A and B do not mention pilots at all (only two passing uses elsewhere: `core_05_band_continuity.md` ~3498 and `core_06_rights_part_c.md` ~1066). The pilot expectation is therefore new text, not a restatement.
+Note: Chapter Nine Parts A and B do not mention pilots at all (only two passing uses elsewhere: `core_05040_band_continuity.md` ~3498 and `core_06015_rights_part_c.md` ~1066). The pilot expectation is therefore new text, not a restatement.
 
 **Draft for Chapter Nine Part A §3.1** (not applied):
 
@@ -134,7 +134,7 @@ Open choice: which systems count as "high-impact" for the pilot expectation (Cla
 
 Open point: a pilot of a Class A system (the Chapter Nine example is municipal drinking-water control) exposes real stakeholders to a system not yet fully certified. Consider one more sentence saying a pilot runs under the certification depth its class requires for the scope it touches, with a fallback available. Not included above; your call.
 
-**Delay sentence for Chapter Thirteen §6** (not applied). It fits as one more bullet in the existing "Anti-delay floor" list (`core_13_forum.md` ~889-899), which already covers "self-created delay, procedural layering... to prolong resolution without milestone justification" (the hop-count / read-more rule). The only missing piece is the throughput rule:
+**Delay sentence for Chapter Thirteen §6** (not applied). It fits as one more bullet in the existing "Anti-delay floor" list (`core_13000_forum.md` ~889-899), which already covers "self-created delay, procedural layering... to prolong resolution without milestone justification" (the hop-count / read-more rule). The only missing piece is the throughput rule:
 
 > - treating a met throughput, closure, or docket target as timely resolution while the harm the matter concerns continues;
 

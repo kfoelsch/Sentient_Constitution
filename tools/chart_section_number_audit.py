@@ -19,7 +19,7 @@ inside ``ID["..."]``, ``ID{"..."}``, ``ID[["..."]]``, and so on). Edge labels
 * **Trailing cite.** No line of a label may end in a dash-led section cite
   (``... — §2``, ``... — §3–§5``, ``(... — §1)``).
 
-A cite qualified by another document (``CS-4 §10``, ``Chapter Nine §3``) names
+A cite qualified by another document (``CS-14.305 §10``, ``Chapter Nine §3``) names
 a section elsewhere and is not the box's own number. Inline cross-references
 in running content (``carried downstream (§18, §19)``) are prose, not labels,
 and are out of scope. Article numbers (``Article VI``) are not section numbers.
@@ -63,7 +63,7 @@ NODE_LABEL_RE = re.compile(
 BR_RE = re.compile(r"<br\s*/?>", re.IGNORECASE)
 
 SECTION_REF_RE = re.compile(r"§\d")
-# A section cite qualified by the document it belongs to: ``CS-4 §10``,
+# A section cite qualified by the document it belongs to: ``CS-14.305 §10``,
 # ``Chapter Nine §3``, ``Part D §14``, ``Article XI-E §2``.
 QUALIFIER_BEFORE_RE = re.compile(
     r"(?:\b[A-Z]{1,3}-\d+(?:\.\d+)*|\bChapter [A-Z][a-z]+|\bPart [A-Z]"

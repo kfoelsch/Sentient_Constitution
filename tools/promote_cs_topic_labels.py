@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """Give the remaining wall-of-text CS files real section headings.
 
-``cs_04`` and ``CS-9`` carry their whole body under a single title, with
+``cs_04`` and ``CS-6.335`` carry their whole body under a single title, with
 topic changes marked only by a bold run-in such as ``**Dependent systems
 map.** Systems must maintain ...``. A reader gets no table of contents, no
 anchors, and no way to link to a topic.
 
 This promotes a named list of those labels to numbered ``## N. Title``
 headings with explicit anchors, matching the pattern already working in
-``cs_02_a_information_types_and_handling.md``, and leaves the sentence that
+``cs_06305_information_types_and_handling.md``, and leaves the sentence that
 followed the label as the section's opening paragraph.
 
 Labels are listed per file rather than matched by pattern, because these files
@@ -29,7 +29,7 @@ ROOT = Path(__file__).resolve().parents[1]
 # Ordered topic labels, exactly as they appear between the bold markers and
 # before the terminating "." or ":".
 LABELS: dict[str, tuple[str, ...]] = {
-    "cs_04_critical_system_stewardship.md": (
+    "cs_14305_critical_system_stewardship.md": (
         "Definition",
         "Classification as steward",
         "Stewardship criticality levels",
@@ -50,7 +50,7 @@ LABELS: dict[str, tuple[str, ...]] = {
         "Governance and incentive integrity",
         "Failure and reclassification",
     ),
-    "cs_09_resource_allocation_funding_stewardship.md": (
+    "cs_06335_resource_allocation_funding_stewardship.md": (
         "Principles of funding",
         "Cross-system resource flows and dependencies",
         "Dependent systems map",

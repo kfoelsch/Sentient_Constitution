@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Migrate CJS-3 oDef OP-O/OP-E/OP-C triads to Chapter Five guidepost form.
+"""Migrate CJS operational cluster oDef OP-O/OP-E/OP-C triads to Chapter Five guidepost form.
 
 Target shape per titled entry:
 
@@ -33,12 +33,12 @@ import sys
 from pathlib import Path
 
 CJS3_FILES = [
-    "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_03o_oversight_operations.md",
-    "corpus_joint_structure/cjs_03p_participation_operations.md",
-    "corpus_joint_structure/cjs_03a_accountability_operations.md",
-    "corpus_joint_structure/cjs_03c_continuity_operations.md",
-    "corpus_joint_structure/cjs_03i_integrative_operations.md",
+    "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_05110_oversight_operations.md",
+    "corpus_joint_structure/cjs_05120_participation_operations.md",
+    "corpus_joint_structure/cjs_05125_accountability_operations.md",
+    "corpus_joint_structure/cjs_05130_continuity_operations.md",
+    "corpus_joint_structure/cjs_05135_integrative_operations.md",
 ]
 
 NONCOMPLIANT_PREFIX_RE = re.compile(
