@@ -1628,7 +1628,7 @@ Việc theo đuổi chính đáng vận hành thông qua [Tứ diện Hiến ph�
 
 <br>
 
-*Nói đơn giản: bất kỳ ai cũng có thể thành lập thể chế hoặc doanh nghiệp mới. Người sáng lập phải thực sự phù hợp với mục đích đã nêu và không được có ý định lừa dối hay gây hại. Chỉ có hai cổng giới hạn được phép hạn chế quyền hạn của một người được nêu tên; không cổng nào ngăn người khác thành lập hay tiếp tục điều hành thể chế. Với hành vi rủi ro cao được nêu tên, có thể yêu cầu chứng nhận hành nghề nếu đáp ứng đủ bảo đảm; đây không phải cổng đối với thể chế.*
+*Nói đơn giản: Ai cũng có thể lập thể chế hoặc doanh nghiệp mới, nhưng việc lập ra để lừa dối hay gây hại cho người khác không được bảo vệ. Chỉ có hai giới hạn hẹp đối với quyền của một cá nhân; chúng không được ngăn cản việc thành lập hoặc vận hành Bên Vận Hành. Có thể yêu cầu giấy phép hoặc chứng nhận hành nghề cho một công việc cụ thể có thể gây hại cho người không thể đánh giá hay tránh rủi ro; yêu cầu đó gắn với công việc, không gắn với Bên Vận Hành.*
 
 Điều này quy định quyền thành lập thể chế và doanh nghiệp, điều kiện thành lập chân thực, hai cổng quyền hạn hẹp, chứng nhận hành nghề cho hành vi rủi ro cao được nêu tên và các giới hạn của quyền này:
 
@@ -2055,7 +2055,6 @@ Việc theo đuổi lợi ích chính đáng vận hành qua [Tứ trụ Hiến 
   - **CI-5** (*Tính toàn vẹn xung đột, chống chiếm đoạt và chống tham nhũng*);
   - **CJS-3.6** (*hoạt động bảo đảm liêm chính và khả năng phục hồi*), *Giới hạn về tiếp xúc gây ảnh hưởng và vận động hành lang*;
   - đối với hội đồng diễn đàn, **CF-4** (*Thành lập hội đồng, công khai, hồi tránh và cấu thành hội đồng hợp pháp*) và **CF-7** (*Bảo đảm liêm chính, hoạt động chống chiếm đoạt và hỗ trợ chống tự xét xử*) trong [corpus_forum.md](../../corpus_forum.md).
-
 ---
 
 ---
