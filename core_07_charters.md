@@ -659,7 +659,11 @@ What this section does and does not decide:
 
 One kind of statement is conduct and counts against the holder: a verified statement, call, or plan that others deserve harm, or discriminatory treatment forbidden under [Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*), or that the holder will cause either.
 
-- **Weight:** It is evidence of intent to harm and of misalignment with fair treatment of those the Chartered Party or office affects. It weighs more where the holder's office or the Chartered Party gives power over those others. A statement alone never meets the ground for an [Interim Hold](core_05_band_accountability.md#interim-hold): the hold also needs independent verified facts of conduct, control, or reward. Where speech is part of the ground, it is shown by clear, verified evidence, open doubt counts against the hold, and the highest scrutiny that [**Article XI-B** (*Expression*)](core_06_rights_part_b.md#article-xi-b-expression) applies to limits based on what is said is recorded as applying.
+- **Weight:**
+  - It is evidence of intent to harm and of misalignment with fair treatment of those the Chartered Party or office affects.
+  - It weighs more where the holder's office or the Chartered Party gives power over those others.
+  - A statement alone never meets the ground for an [Interim Hold](core_05_band_accountability.md#interim-hold): the hold also needs independent verified facts of conduct, control, or reward.
+  - Where speech is part of the ground, it is shown by clear, verified evidence, open doubt counts against the hold, and the highest scrutiny that [**Article XI-B** (*Expression*)](core_06_rights_part_b.md#article-xi-b-expression) applies to limits based on what is said is recorded as applying.
 - **What does not count:** A view that a group, idea, or institution is wrong, harsh criticism, lawful dissent, satire, quotation, reporting, and scholarship do not count, because none of them states or calls for harm or discriminatory treatment of others. Offense or disagreement alone is not harm ([**Article XI-G** (*Collective Harm Boundary and Enforcement Interface*)](core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
 - **How it is found:** The statement must be verified and read in context. It comes from what is already public, from what was said in or about the Chartered Party or office, or from a protected report. No Chartered Party may surveil a founder's or holder's private speech or associations to look for one.
 - **Answer and resolution:** The holder may answer, show the context, and show by action that the statement no longer holds. A bare retraction does not erase it.
@@ -668,7 +672,13 @@ One kind of statement is conduct and counts against the holder: a verified state
 <a id="56-structural-limb-for-other-staff"></a>
 #### 5.6 Structural limb for other staff
 
-For staff who hold no covered office, the Chartered Party shows once, in the statement below, that its appointment, pay, promotion, and removal rules do not reward working against the Chartered Party's stated purpose; that a protected reporting route exists and no staff member who used it, or who refused a wrongful instruction, has been penalized; and that the rights in [Article III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) are intact. This checks the Chartered Party's structure. Individual staff are not screened.
+For staff who hold no covered office, the Chartered Party shows once, in the statement below, that:
+
+- Its appointment, pay, promotion, and removal rules do not reward working against the Chartered Party's stated purpose;
+- A protected reporting route exists and no staff member who used it, or who refused a wrongful instruction, has been penalized; and
+- The rights in [Article III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) are intact.
+
+This checks the Chartered Party's structure. Individual staff are not screened.
 
 <a id="57-the-formation-check-statement"></a>
 #### 5.7 The formation check statement
@@ -683,8 +693,15 @@ Before a System or Institution begins to exercise authority over others, and wit
 
 A holder may be identified by office and dated Role Map version where naming would endanger them. The independent verifying authority sees the name.
 
-- **Verification:** The standing facts are verified by the record-opening authority and the record custodian the Charter Role Map names ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)). The governing authority does not verify the authenticity of its own members, and a holder does not verify its own check: where the covered office is itself a seat in the map, the formation check is made by the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) or a forum. Where a Chartered Party is small and no independent seat is yet in place, the statement is a declaration with its evidence, and it is verified at the Chartered Party's first certification. Being unverified for that interval is never a bar to forming or operating.
-- **False statement:** A statement that is false, or that hides who controls a covered office, is concealment and fraudulent evidence for the certification record and for the standing bridge ([Chapter Nine Part D §15 Standing Bridge and Non-Evasion](core_09_d_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Chapter Nine Part B §10 Relationship to Standing](core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing)).
+- **Verification:**
+  - The standing facts are verified by the record-opening authority and the record custodian the Charter Role Map names ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
+  - The governing authority does not verify the authenticity of its own members, and a holder does not verify its own check: where the covered office is itself a seat in the map, the formation check is made by the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) or a forum.
+  - Where a Chartered Party is small and no independent seat is yet in place, the statement is a declaration with its evidence, and it is verified at the Chartered Party's first certification.
+  - Being unverified for that interval is never a bar to forming or operating.
+- **False statement:**
+  - A statement that is false, or that hides who controls a covered office, is concealment and fraudulent evidence for the certification record and for the standing bridge ([Chapter Nine Part D §15 Standing Bridge and Non-Evasion](core_09_d_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Chapter Nine Part B §10 Relationship to Standing](core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing)).
+  - Where a sentient knowingly made the statement, signed it, or caused it to be made, and the falsity is material and verified, it is also a ground for the Institutional Authority Standing Lock on that sentient ([Chapter Eleven §5.5 Special locks](core_11_standing_integration.md#55-special-locks)), whether or not it hides control. The lock attaches to the sentient who made or caused the statement, and not to the Chartered Party or to a holder who did not.
+  - A statement that is wrong without the sentient's knowledge is not that ground. It is a defect to correct under [§6 When a Holder Fails the Formation Check](#6-when-a-holder-fails-the-formation-check).
 
 <a id="58-timing-and-re-check"></a>
 #### 5.8 Timing and re-check
