@@ -523,7 +523,8 @@ These rules apply to a gap in the entries that [§4.6.1 Operator standing record
 <a id="471-when-a-gap-exists-and-how-it-is-logged"></a>
 ##### 4.7.1 When a gap exists and how it is logged
 
-- **A map with gaps makes the System Charter or Institutional Charter invalid:** The map has to name the record-opening authority, the record custodian, the contest seat, and the independent route. A change that would leave any of them unnamed is not allowed.
+A map with gaps makes the System Charter or Institutional Charter invalid. The map has to name the record-opening authority, the record custodian, the contest seat, and the independent route. A change that would leave any of them unnamed is not allowed.
+
 - **Who can log a gap:** Anyone, without standing, by notice to a forum, a registrar, or the Backup Record Authority.
   - **What the notice says:** The notice names the seat and says why it appears unfilled.
   - **When the clocks start:** The gap is logged on the day the first notice is received, and the clocks run from then; a notice shown to be wrong starts no clock.
@@ -531,36 +532,39 @@ These rules apply to a gap in the entries that [§4.6.1 Operator standing record
 <a id="472-while-a-gap-is-open"></a>
 ##### 4.7.2 While a gap is open
 
-- **Until it is resolved:** None of the Chartered Party's own offices can issue a valid standing record for the affected scope.
-  - **Where the record goes:** The record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) to verify and the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)) to hold, or to a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *No self-custody*).
-  - **When custody goes back:** The Backup Record Authority and Backup Record Custodian keep handling the record until all three of these have happened. Then custody goes back to the named holders.
-    - **All seats are filled:** Every seat the map requires has a named holder again.
-    - **The holders pass the tests:** The Backup Record Authority or a forum confirms that each holder passes the tests in **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10.
-    - **Notice and a chance to contest have run:** The notice and chance to contest in [§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders) have been completed.
+Until it is resolved, none of the Chartered Party's own offices can issue a valid standing record for the affected scope.
+
+- **Where the record goes:** The record goes to the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) to verify and the Backup Record Custodian (**CF-5.9** (*Backup Record Custodian*)) to hold, or to a forum instead, so nobody's record waits on the Chartered Party's repair ([Chapter Ten §3.7 Record custody and opening authority](core_10_standing_assessment.md#37-record-custody-and-opening-authority), *No self-custody*).
+- **When custody goes back:** The Backup Record Authority and Backup Record Custodian keep handling the record until all three of these have happened. Then custody goes back to the named holders.
+  - **All seats are filled:** Every seat the map requires has a named holder again.
+  - **The holders pass the tests:** The Backup Record Authority or a forum confirms that each holder passes the tests in **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10.
+  - **Notice and a chance to contest have run:** The notice and chance to contest in [§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders) have been completed.
 
 <a id="473-if-events-remove-the-last-qualified-substitute"></a>
 ##### 4.7.3 If events remove the last qualified substitute
 
-- **If events remove the last qualified substitute:** If something nobody could have foreseen leaves one of those seats without a qualified holder, the Chartered Party gets the usual response window and resolution window ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)).
-  - **Emergency substitution:** It is allowed only for a seat that is actually empty, and it is temporary.
-  - **How a substitute takes the seat:** The Chartered Party may name a substitute, but the substitute takes the seat only after the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) or a forum confirms that it passes the tests in **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10 and the independence tests in [§4.2 What makes a placement valid](#42-what-makes-a-placement-valid), and the Chartered Party carries the burden of showing that.
-  - **When the substitution lapses:** An emergency substitute is a stopgap. It ends when its check window ends, unless it has by then become a regular holder change under [§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders).
-    - **Who sets the window:** Your Charter sets the length of that window, but it can't be longer than the maximum for your Tier.
-    - **The maximums:** 7 days for Tier A, 14 for Tier B, 30 for Tier C, and 60 for Tier L (the resolution windows in the [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing) table).
-    - **Tier A emergency:** In a Tier A emergency where a life or serious rights are at stake, the default is 3 days.
-    - **Until the formation check is done:** The substitute cannot take any binding action alone.
+If something nobody could have foreseen leaves one of those seats without a qualified holder, the Chartered Party gets the usual response window and resolution window ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)).
+
+- **Emergency substitution:** It is allowed only for a seat that is actually empty, and it is temporary.
+- **How a substitute takes the seat:** The Chartered Party may name a substitute, but the substitute takes the seat only after the Backup Record Authority (**CF-5.7** (*Backup Record Authority*)) or a forum confirms that it passes the tests in **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) field 10 and the independence tests in [§4.2 What makes a placement valid](#42-what-makes-a-placement-valid), and the Chartered Party carries the burden of showing that.
+- **When the substitution lapses:** An emergency substitute is a stopgap. It ends when its check window ends, unless it has by then become a regular holder change under [§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders).
+  - **Who sets the window:** The System Charter or Institutional Charter sets the length of that window, but it can't be longer than the maximum for your Tier.
+  - **The maximums:** 7 days for Tier A, 14 for Tier B, 30 for Tier C, and 60 for Tier L (the resolution windows in the [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing) table).
+  - **Tier A emergency:** In a Tier A emergency where a life or serious rights are at stake, the default check window is 3 days, the protective-step bound in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13_forum.md#time-scale-levels) (*Time-scale levels*).
+  - **Until the formation check is done:** The substitute cannot take any binding action alone.
 
 <a id="474-certification-seats"></a>
 ##### 4.7.4 Certification seats
 
-- **Certification seats run on the same clock:** If the map does not name who starts, who keeps the record of, or who handles contests for a system alignment certification or an institutional alignment certification, that is a defect to log and correct. It does not make the System Charter or Institutional Charter invalid at once.
-  - **What the institution can do:**
-    - **Keep operating and keep certifying:** The **CI-3.2** (*Functional separation lanes*) lane map places the seat in the meantime, so no certification pass stops.
-    - **Fix the defect:** It places the seat by a dated amendment of the map. It has the usual response window and resolution window (**CI-13.3** (*Notice, response, and resolution*), [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)), counted from the logged notice of the gap.
-  - **What the institution cannot do:**
-    - **Use the gap to stop a certification:** An unplaced certification seat is never a reason to pause, delay, or block a pass.
-    - **Leave the gap open past the resolution window:** If the seat is still unplaced when that window ends, the System Charter or Institutional Charter is invalid on the same terms as for a gap in the standing-record entries ([§4.7.1](#471-when-a-gap-exists-and-how-it-is-logged)).
-  - **The verify-or-authorize seat:** The map does not place this seat ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)), so it is never a gap of this kind.
+The same clock applies to certification seats. If the map does not name who starts, who keeps the record of, or who handles contests for a system alignment certification or an institutional alignment certification, that is a defect to log and correct. It does not make the System Charter or Institutional Charter invalid at once.
+
+- **What the institution can do:**
+  - **Keep operating and keep certifying:** The **CI-3.2** (*Functional separation lanes*) lane map places the seat in the meantime, so no certification pass stops.
+  - **Fix the defect:** It places the seat by a dated amendment of the map. It has the usual response window and resolution window (**CI-13.3** (*Notice, response, and resolution*), [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)), counted from the logged notice of the gap.
+- **What the institution cannot do:**
+  - **Use the gap to stop a certification:** An unplaced certification seat is never a reason to pause, delay, or block a pass.
+  - **Leave the gap open past the resolution window:** If the seat is still unplaced when that window ends, the System Charter or Institutional Charter is invalid on the same terms as for a gap in the standing-record entries ([§4.7.1 When a gap exists and how it is logged](#471-when-a-gap-exists-and-how-it-is-logged)).
+- **The verify-or-authorize seat:** The map does not place this seat ([Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)), so it is never a gap of this kind.
 
 <a id="5-formation-check-office-holder-standing-and-authenticity"></a>
 ### 5. Formation Check: Office-Holder Standing and Authenticity
@@ -729,7 +733,7 @@ A failed or late formation check is a defect to log and correct. It does not sto
 - **Resolution window:** A failed finding on a covered office runs on the same response and resolution windows as a request for a System Charter or Institutional Charter ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)), taken at the Tier that matches the Chartered Party's class.
   - **When it starts:** The windows start the day the failure is found by the Chartered Party, by its verifying authority, or by a forum, or is reported by anyone and not shown to be wrong. If the holder contests the finding through the contest seat before it takes effect, the windows start when the contest is decided, and a good-faith contest is not delay.
   - **Response window:** Inside the response window the Chartered Party states in writing which office failed and what it will do: change the holder, end the undisclosed control, change the reward, or disclose the interest and have it cleared. Or it shows that the finding is wrong.
-  - **Resolution window:** Inside the resolution window the problem is resolved and a new dated version of the statement is published, with the verifying authority's confirmation. An emergency substitution keeps its own shorter check window, which the Charter sets and which can't be longer than the Tier maximum (default 3 days for a Tier A emergency), as set out in **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) and under *When the substitution lapses* in [§4.7 Gaps in the map for operator standing records](#47-gaps-in-the-map-for-operator-standing-records).
+  - **Resolution window:** Inside the resolution window the problem is resolved and a new dated version of the statement is published, with the verifying authority's confirmation. An emergency substitution keeps its own shorter check window, which the System Charter or Institutional Charter sets and which can't be longer than the Tier maximum (default 3 days, the protective-step bound for a Tier A emergency), as set out in **CI-3.6** (*System and Institutional Charter contents, review, and formation template*) and under *When the substitution lapses* in [§4.7 Gaps in the map for operator standing records](#47-gaps-in-the-map-for-operator-standing-records).
   - **If it is not resolved:** The Chartered Party is not stopped, and the miss is a finding in its next certification. Where the failure still stands after the resolution window and a reasonable chance to resolve it in good faith, the lead forum refers it as realignment resistance, which opens structural review under **CI-13** (*Institutional failure and dissolution*) and **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*). That review follows the ladder in **CI-13** (*Institutional failure and dissolution*) and **CI-28** (*Institutional accountability and sanctions*): directed correction, constrained authority, a contraction order that returns the Chartered Party to below Class L, supervised operation, receivership or structural separation, and as a last step dissolution, each only where the lighter measures cannot protect the Constitution's obligations. The forum alone decides, nothing here is automatic, and the continuity safeguards keep services, records, and challenge rights in place. A dissolution carries a Dissolution Reformation Lock, so the dissolved Chartered Party and its successor vehicles may not be re-formed, and the lock is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([§2 The Right to Form, and Three Narrow Limits](#2-the-right-to-form-and-three-narrow-limits)). Dissolution never replaces anti-constitutional-misconduct designation under Chapter Twelve or the accountability of the responsible sentients.
 - **Reaching the Chartered Party:** The only consequence that can reach the Chartered Party is the review in *Resolution window* above, and it follows a failure to resolve and never the failure alone. A lock that a final order has already set on the Chartered Party, such as the Dissolution Reformation Lock on a dissolved Chartered Party that returns, is not a consequence of the formation check and does not wait for it. A failed formation check is also evidence on the limits of the right to form and does not settle them.
 

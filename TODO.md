@@ -9,7 +9,7 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - [x] Complete the small-agent formation and contested-allocation [desk walkthrough](project/trials/agent_cooperative_2026-10-20/DESK_WALKTHROUGH.md); record required capacity, unavailable handoffs, and next-step usability findings. Same-author desk analysis only; no live or independent trial claimed.
 - [ ] Execute the [case packet](project/trials/agent_cooperative_2026-10-20/CASE_PACKET.md) in a fresh session without the preparer's analysis; retain outputs, assistance, effort, missed gates and retest results. Human-operator evidence remains separate.
 - [ ] Complete the non-core review batches and reopen affected portions when governing core changes.
-- [ ] Resolve plan decision D01: Chapter Fourteen §1.1 adoption citation points at Chapter Eighteen instead of Chapter Seventeen §10; core correction remains with the steward.
+- [x] Resolve plan decision D01: steward approved the citation correction in session 2026-10-20; Chapter Fourteen §1.1 now links deliberate adoption to Chapter Seventeen §10 (Ratification and Adoption).
 
 ## Editor Checklist (Pre-Review / Pre-Merge)
 

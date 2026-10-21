@@ -26,6 +26,8 @@ python3 tools/corpus_lookup.py serve   # optional local HTTP at /v1/{command}
 
 Checking your work: `make audit-report` runs the `make regression` targets quietly and prints one line per category, expanding only failures (about half a minute); `make audit-report-all` adds the audits outside the gate; `python3 tools/audit_report.py --root . --list` shows the categories. Prefer it to reading raw `make regression` output (**AUDIT-REGISTRY-01** in [doc_architecture.md](doc_architecture.md#audit-registry-and-report-audit-registry-01)).
 
+**Automatic audit repairs (AUDIT-AUTOFIX-01):** Formatting, lexical, and citation findings are auto-fixable: fix them without requesting individual sign-off, rerun the affected audits, and run `make audit-report` before reporting completion. This authorization includes numbered core files when the repair preserves meaning. Use canonical source wording and targets; regenerate affected generated files. Do not weaken an audit, add an exemption, or change duties, authority, thresholds, clocks, or scope merely to pass. If a finding requires choosing meaning or has no unambiguous source-backed repair, fix the independent items and present that specific decision. Translation edits remain governed by the translation standing decision below. This is a standing agent workflow, not a claim that every audit has a software `--fix` option. See [Automatic audit repairs](doc_architecture.md#automatic-audit-repairs-audit-autofix-01).
+
 Spine pack (generated pointers, not duties): `doc_architecture/generated/spine_pack.md`.
 
 Patterns: `ai_corpus/AI_NAVIGATION_GUIDE.md`.

@@ -97,3 +97,7 @@ Core and translations are outside this edit scope. The fresh-session cooperative
 The earlier trial's source manifest no longer matches Chapter Seven. That text changed before and during B04 in the steward's concurrent work. Preserve the old trial evidence and capture a new baseline before fresh execution, checking the current formation conditions; do not silently reuse its old hash as the current edition. The core and implementation dependencies that directly support B04's corrections were separately hashed and remained unchanged at the dependency check.
 
 Next: resolve D04 against the precise shared/owner wording, review CS-3 Parts A/B as their own bounded batch, and carry the hosting and coverage desk cases into the fresh-session exercise. Keep subsequent formation, appointment, forum and remedy reviews linked to their source baselines.
+
+## D04 steward disposition after B04
+
+On 2026-10-20 the steward approved the owner-specific scope, ordinary hybrid-workflow requirement, and alternative-design safeguards. Those edits are applied to CJS-2.1.1 and CI-9.3.2. The steward withheld approval of the emergency summary and requested explicit references to the strict emergency rules. The steward subsequently approved the [replacement emergency clause and source trace](D04_emergency_signoff_2026-10-20.md), now applied to CJS-2.1.1. D04 is closed as a wording decision; independent re-review is not claimed. This reopens the affected portions; the original B04 hashes and checks record the earlier pass, not validation of these follow-ups.
