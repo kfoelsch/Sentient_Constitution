@@ -1,0 +1,374 @@
+# CF-13.415: Routing operations, transfer, certification, and representative treatment
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> This file is **binding incorporated implementation text** where [`corpus_forum.md`](../corpus_forum.md) is incorporated under [Chapter Eighteen](../core_18000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*).
+>
+> Start at the [Forums landing page](../corpus_forum.md) for reading order, or the [forums registry](cf_00405_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream:
+  - [CJS-0.110 §3](../corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
+  - [CJS-0.105 §1](../corpus_joint_structure/cjs_00105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [Chapter Thirteen](../core_13000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) forum-family routing;
+  - [Chapter Eighteen](../core_18000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline; and
+  - [Chapter Five](../core_05000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions.
+- Downstream:
+  - [CF-13.415 §1 Published intake classes](#cf-13415-1-published-intake-classes);
+  - [CF-13.415 §2 Intake triage body](#cf-13415-2-intake-triage-body);
+  - [CF-13.415 §3 Natural-systems representatives](#cf-13415-3-natural-systems-representatives);
+  - [CF-13.415 §4 Capacity-failure routing](#cf-13415-4-capacity-failure-routing);
+  - [CF-13.415 §5 Institutional and local registrars](#cf-13415-5-institutional-and-local-registrars);
+  - [CF-13.415 §6 Integrity registrar](#cf-13415-6-integrity-registrar);
+  - [CF-13.415 §7 Backup Record Authority](#cf-13415-7-backup-record-authority);
+  - [CF-13.415 §8 Restricted information authority](#cf-13415-8-restricted-information-authority);
+  - [CF-13.415 §9 Backup Record Custodian](#cf-13415-9-backup-record-custodian).
+- Read with:
+  - **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*);
+  - **CF-13.415 §1** (*Published intake classes*);
+  - **CF-13.415 §2** (*Intake triage body*);
+  - **CF-13.415 §3** (*Natural-systems representatives*);
+  - **CF-13.415 §4** (*Capacity-failure routing*);
+  - **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*);
+  - [CJS-0.105 §1](../corpus_joint_structure/cjs_00105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [CJS-0.110 §3](../corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract.
+- Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-13.210**.
+- Topic routing (primary owner): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in
+  - **CJS-0.105 §1** (*Topic router*). Mandatory read-with:
+  - **CJS-18.110 §5**,
+  - **CJS-5.125 §13**,
+  - **CI-6.205**.
+- Topic routing (primary owner): **CJS-R21** (*Capacity-failure routing*) in **CJS-0.105 §1** (*Topic router*). Mandatory read-with: **CF-13.445**, **CI-11.205**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Adjudication and Dispute Resolution](../core_05035_band_accountability.md#adjudication-and-dispute-resolution) · [O](../core_05035_band_accountability.md#adjudication-and-dispute-resolution) · [M](../core_05035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_05035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_05035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Procedural Fairness](../core_05055_band_participation.md#procedural-fairness) · [O](../core_05055_band_participation.md#procedural-fairness) · [M](../core_05055_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05055_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05055_band_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](../core_05035_band_accountability.md#contestability) · [O](../core_05035_band_accountability.md#contestability) · [M](../core_05035_band_accountability.md#contestability-a) · [A](../core_05035_band_accountability.md#contestability-a) · [C](../core_05035_band_accountability.md#contestability-c)
+- [Accessibility](../core_05055_band_participation.md#accessibility) · [O](../core_05055_band_participation.md#accessibility) · [M](../core_05055_band_participation.md#accessibility-constitutional-a) · [A](../core_05055_band_participation.md#accessibility-constitutional-a) · [C](../core_05055_band_participation.md#accessibility-constitutional-c)
+- [Corpus](../core_05045_band_integrative.md#corpus) · [O](../core_05045_band_integrative.md#corpus) · [M](../core_05045_band_integrative.md#corpus-a) · [A](../core_05045_band_integrative.md#corpus-a) · [C](../core_05045_band_integrative.md#corpus-c)
+- [System Capture](../core_05040_band_continuity.md#system-capture) · [O](../core_05040_band_continuity.md#system-capture) · [M](../core_05040_band_continuity.md#system-capture-a) · [A](../core_05040_band_continuity.md#system-capture-a) · [C](../core_05040_band_continuity.md#system-capture-c)
+- [Incentive Alignment](../core_05045_band_integrative.md#incentive-alignment) · [O](../core_05045_band_integrative.md#incentive-alignment) · [M](../core_05045_band_integrative.md#incentive-alignment-a) · [A](../core_05045_band_integrative.md#incentive-alignment-a) · [C](../core_05045_band_integrative.md#incentive-alignment-c)
+- [Unified Incident Record](../core_05035_band_accountability.md#unified-incident-record) · [O](../core_05035_band_accountability.md#unified-incident-record) · [M](../core_05035_band_accountability.md#unified-incident-record-a) · [A](../core_05035_band_accountability.md#unified-incident-record-a) · [C](../core_05035_band_accountability.md#unified-incident-record-c)
+
+</details>
+
+<br>
+
+Core home: 13
+
+This file is the forum implementation home for **CF-13.415** (*Routing operations, transfer, certification, and representative treatment*).
+
+*In plain terms: **CF-13.415** (*Routing operations*) is day-to-day traffic control for cases — how a matter is classified on arrival, who triages it, when it may be transferred, and how anyone acting on another's behalf must be treated. Routing must be published and reviewable, so a case cannot be steered to a friendly venue in silence.*
+
+This section turns [Chapter Thirteen](../core_13000_forum.md#chapter-thirteen-forums-and-jurisdiction) forum-access rules into day-to-day routing requirements. It explains how forum families must handle:
+- published intake classes and intake triage (**CF-13.415 §1** (*Published intake classes*), **CF-13.415 §2** (*Intake triage body*));
+- decisions about where a matter should go;
+- tie-breaks when a matter involves more than one kind of stake;
+- orders that transfer a matter or certify a question;
+- consolidation of related matters;
+- procedures for representative treatment, including natural-systems representatives under **CF-13.415 §3** (*Natural-systems representatives*) and sentience-status independent representatives appointed under **CF-13.410 §14** (*Independent representative appointment*);
+- capacity-failure claims under **CF-13.415 §4** (*Capacity-failure routing*), which must be heard outside the starved body;
+- the Institutional and local registrars under **CF-13.415 §5** (*Institutional and local registrars*), which take in and check System Charters and Institutional Charters as routine administration and not adjudication;
+- the Integrity registrar under **CF-13.415 §6** (*Integrity registrar*), which does the same for financial and resource audit results;
+- the Backup Record Authority under **CF-13.415 §7** (*Backup Record Authority*), a separate office outside intake triage and the registrars that checks the facts of a standing record when a Chartered Party's own offices cannot;
+- the Backup Record Custodian under **CF-13.415 §9** (*Backup Record Custodian*), a separate body from the Backup Record Authority that enters and holds a standing record when a Chartered Party's own custodian cannot;
+- records and public notice when routing rules change;
+- coordination with **Integrity** forum **alignment** rulings (**CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)) when intake, referral, and certification steps overlap.
+This section implements the primary-stakes rule in `core_13000_forum.md` **Chapter Thirteen**. It does not change that rule.
+**Chapter Thirteen linkage.** Each forum family must have an intake triage body — the family's first-touch desk — as required by **Chapter Thirteen**, **section 2**, which also states mixed-stakes safeguards, asymmetry rules, standing-record contests, and the merits-panel boundary. That requirement works alongside **transfer**, **consolidation**, **certification**, and **backup** discipline in **sections 3 and 5**, and **forum support** before, during, and after review in **section 7**. An intake triage body helps route matters at the start; it is **not** a separate forum family and cannot replace a lawfully constituted **merits** panel. **CF-13.415 §1** (*Published intake classes*) and **CF-13.415 §2** (*Intake triage body*) state the operational rules for that boundary.
+
+## CF-13.415 §1 Published intake classes
+
+*In plain terms: Every family must publish how it sorts incoming matters by urgency, with at least three levels, and add finer sorting when volume demands it.*
+
+Each required forum family must publish an intake path. At minimum, that path must:
+- include **at least three** priority or urgency classes for matters within the family's constitutional scope;
+- allow the family to add or adjust classes when caseload volume, matter mix, backlog risk, or foreseeable stress makes finer sorting necessary for timeliness, rights protection, or contest integrity;
+- describe each class in plain language, including where matters are expected to go, what service expectations apply, and how a matter can move **between** classes when the facts or stakes materially change.
+
+## CF-13.415 §2 Intake triage body
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CF-13.415 §2** (*Intake triage body*); **CF-13.415 §1** (*Published intake classes*).
+
+</details>
+
+<br>
+
+*In plain terms: Somebody must own the first touch — sorting arrivals into the published classes — and that role carries the same independence and challenge expectations as the rest of the process.*
+
+Each required forum family must publish an **intake triage body**, or a functionally equivalent arrangement — the family's **first-touch desk** under **Chapter Thirteen**, **section 2**. The body or arrangement must have the same duties, independence expectations, and contestability. At minimum, it must:
+- sort incoming matters into the published classes under **CF-13.415 §1** (*Published intake classes*);
+- flag preservation, Rights-Floor, cross-family routing, and backup-forum needs;
+- maintain attributable intake records sufficient for review;
+- **not** substitute for lawfully constituted merits panels on substantive outcomes;
+- publish its mandate, composition or duty pool, conflict rules, confidentiality boundaries where applicable, and a way to challenge contested routing or classification, with review of the challenge begun inside the **intake target** of the matching tier ([CF-13.445 §3.1](cf_13445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-timing-floors) (*Stage targets and timing floors*)).
+
+## CF-13.415 §3 Natural-systems representatives
+
+*In plain terms: An Environment forum case protecting a life-supporting system's own continuity may be opened by a published representative — an affected community, indigenous-continuity holder, or designated guardian — without treating the system as a sentient.*
+
+This subsection implements, and must not narrow, [Chapter Thirteen §4.4 Environment forums](../core_13000_forum.md#44-environment-forums) **Representative filing**. Appointment, recusal, and publication of natural-systems representatives are operational here.
+
+Each Environment forum family must publish:
+- who may serve as a natural-systems representative (affected community, indigenous-continuity holder, or designated guardian) and how appointment is recorded;
+- recusal and conflict rules, including when a representative's private interest conflicts with the system's continuity or integrity interests, and a contest path, with review begun inside the **intake target** of the matching tier ([CF-13.445 §3.1](cf_13445_performance_backlog_publication_accessibility.md#cf-13445-31-stage-targets-and-timing-floors) (*Stage targets and timing floors*));
+- the representative's identity, appointment basis, and recusal status, kept attributable and inspectable.
+
+Intake under **CF-13.415 §1** (*Published intake classes*) and **CF-13.415 §2** (*Intake triage body*) must not refuse an Environment-forum filing solely because no individual sentient pleads private harm when a published representative files for the system's continuity or integrity interests. This treatment does not make the system a sentient or a Chapter Six rights-holder, and it does not replace [Chapter Thirteen §3 Transfer, consolidation, and coordination — continuity and anti-capture](../core_13000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) class or subclass representative treatment for sentient groups.
+
+Independent representation for a contested-sentient or status-adjudication entity is appointed under **CF-13.410 §14** (*Independent representative appointment*), not under this subsection. Intake must not treat the parent system as the entity's representative.
+
+
+## CF-13.415 §4 Capacity-failure routing
+
+*In plain terms: A body that is too slow, too starved, or too backlogged does not get to decide that it is fine. Someone else hears that claim.*
+
+This subsection implements, and must not narrow, [Chapter Thirteen §3](../core_13000_forum.md#capacity-failure-routing) (*Capacity failure is heard outside the starved body*) and the [Chapter Eleven §4.4 Remedy parity and lock preconditions](../core_11000_standing_integration.md#44-remedy-parity-and-lock-preconditions) tripwire.
+
+A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped Chapter Eleven §4.4 (*Remedy parity and lock preconditions*) remedy-parity tripwire — is an anti-self-judging matter.
+
+- The **Integrity** family is the default lead. Where Integrity is itself the body in question, the [Chapter Thirteen §3 Transfer, consolidation, and coordination — continuity and anti-capture](../core_13000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) backup pairs apply.
+- Any affected party, protected reporter, or self-organized group under [Chapter One §17.4 Aligned Self-Organization](../core_01015_stewardship_capacity_principles.md#174-aligned-self-organization) may file. The claim is heard on a Tier B window under [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) unless the record shows Tier A stakes.
+- Intake under **CF-13.415 §1** (*Published intake classes*) and **CF-13.415 §2** (*Intake triage body*) must not park a capacity-failure claim inside the family whose capacity is in question, and must not require that family's consent to transfer.
+- The body in question must supply its published Chapter Eleven §4.4 (*Remedy parity and lock preconditions*) and Chapter Thirteen §6 (*Timely resolution, materiality tiers, and anti-delay discipline*) backlog figures, and may give evidence, but must not control the finding or the corrective order.
+- A capacity-failure finding is a [Chapter Eleven §9.2 Remedy-system durability](../core_11000_standing_integration.md#92-remedy-system-durability) durability failure. Corrective orders route to the primary-stakes family responsible for staffing and funding. Where the pattern is chronic or concealed, the ordinary Chapter Ten path opens.
+- **CF-13.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) publishes the performance figures that make the tripwire inspectable. **CI-11.205** (*Remedy systems and institutional redress capacity*) holds institutional capacity, funding, and the remedy-parity funding floor. Neither file lets the starved body hear its own capacity claim.
+
+
+## CF-13.415 §5 Institutional and local registrars
+
+*In plain terms: a System Charter or Institutional Charter is only useful if someone outside the Chartered Party can say it was filed, whole, and on what date. A registrar is a clerk and not a judge. It takes the filing in, checks that nothing required is missing, gives a receipt, and keeps a public register. It never gives permission and never rules on what the filing says.*
+
+This subsection implements, and must not narrow, [Chapter Seven §1.5 When a System Charter or Institutional Charter is due](../core_07000_charters.md#15-when-a-system-charter-or-institutional-charter-is-due) and [Article XI-E](../core_06010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). A registrar does routine administration, which [Chapter Thirteen](../core_13000_forum.md#chapter-thirteen-forums-and-jurisdiction) section 1 keeps apart from adjudication.
+
+**Where a registrar sits:** Each registrar is an administrative arm of an intake triage body (**CF-13.415 §2** (*Intake triage body*)), or a functionally equivalent arrangement, with the same independence and contest expectations:
+- the **Institutional** forum family keeps an **Institutional registrar** for System Charters and Institutional Charters generally; and
+- a local forum with jurisdiction over the locality where a Chartered Party acts, and where the sentients it affects live, keeps a **local registrar** for local community matters. A Chartered Party whose activity and affected sentients are local lodges there.
+
+A filing lodged at the wrong registrar is forwarded and keeps its lodging date. It is not refused.
+
+**What a registrar does:**
+- It receives a System Charter or Institutional Charter with its Charter Role Map and formation check statement, and records the version and the date of lodging. Anyone may lodge, including a Class P Operating Party that chooses to publish.
+- It checks completeness only, against the minimum in [Chapter Seven §3 What System and Institutional Charters Must State](../core_07000_charters.md#3-what-system-and-institutional-charters-must-state): each required item is present, each [Charter Pointer](../core_05040_band_continuity.md#charter-pointer) resolves, and the one lodging is the governing authority or acts for it.
+- It gives a dated receipt that says the lodging is complete or lists what is missing.
+- It keeps a public register of lodged filings, their versions, amendments, and review dates, and the two kinds of registrar share one register format.
+- It receives a request under [Chapter Seven §1.6 If a System Charter or Institutional Charter is missing](../core_07000_charters.md#16-if-a-system-charter-or-institutional-charter-is-missing) and an insider's report of a crossing under [Domain-Specific Materiality](../core_05050_band_oversight.md#domain-specific-materiality), and passes either to the intake triage body for routing under **CF-13.415 §2** (*Intake triage body*) without judging it.
+
+**What a registrar does not do:**
+- It does not grant or withhold permission to form or operate.
+- It does not rule on class, on whether a body is below a line, or on what a filing claims.
+- It does not verify or authorize a standing record. That belongs to the Backup Record Authority (**CF-13.415 §7** (*Backup Record Authority*)), a separate authority.
+- It does not run or judge the formation check in [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](../core_07000_charters.md#5-formation-check-office-holder-standing-and-authenticity).
+- It charges no fee, and it refuses a filing for no reason other than a missing required item.
+
+**Time and fallback:**
+- **Silence is receipt:** If the registrar gives no receipt within seven days, the filing counts as received on the day it was lodged.
+- **Incomplete lodging:** The date of first lodging stands if the missing items are supplied within the time the registrar states, which is never less than seven days.
+- **Registrar unavailable:** If the registrar cannot be reached or is in capacity failure under **CF-13.415 §4** (*Capacity-failure routing*), the Chartered Party publishes the filing openly and gives notice to the forum family. That counts as lodging on the day of notice.
+
+**Safeguards:**
+- **A receipt is not an endorsement:** The registrar's check is administrative. A forum hearing a dispute about a filing is not bound by it.
+- **No gate:** A registrar's delay, error, or refusal never stops a Chartered Party from forming, publishing, or operating. It is a defect to log and correct, and the Chartered Party may contest it on the route in **CF-13.415 §2** (*Intake triage body*).
+- **No steering:** A registrar may not use funding, fees, or sorting to push Chartered Parties toward a favored forum or away from lodging.
+- **No self-judging:** Staff of the registrar who received a filing do not sit on a merits panel hearing a dispute about it (**CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+
+
+## CF-13.415 §6 Integrity registrar
+
+*In plain terms: an audit of money or shared resources only protects anyone if the result reaches a place that is outside the audited party, logs it, and cannot be quietly shelved. The **Integrity registrar** is the clerk for that. It takes in the result, checks that it is whole, gives a receipt, keeps the register, and sends anything that looks like a problem on to intake. It does not grade the audit or the audited party.*
+
+This subsection implements, and must not narrow, [Chapter Thirteen §4.5 Integrity forums](../core_13000_forum.md#45-integrity-forums) and [Article XVI-A](../core_06015_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*). It does routine administration, as **CF-13.415 §5** (*Institutional and local registrars*) does, and does not adjudicate.
+
+**Where the Integrity registrar sits:** It is an administrative arm of the **Integrity** forum family's intake triage body (**CF-13.415 §2** (*Intake triage body*)), or a functionally equivalent arrangement, with the same independence and contest expectations. A result lodged with another forum family's registrar is forwarded and keeps its lodging date.
+
+**What the Integrity registrar receives:** Results of a financial audit or a resource audit that the review cadence in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), an adopting document, a certification, a forum order, an external assurance trigger under **CI-8.215 §2** (*External assurance triggers*), or the audited party's own published controls under **CI-8.215 §1** (*Controls declaration*) call for. This subsection adds no duty to audit: the duty and its timing are in that review cadence. It says where a result goes.
+- A **financial audit** covers funds held, income and spending, reserves, fees and charges, and compensation and reward arrangements.
+- A **resource audit** covers the allocation and stewardship of shared or scarce resources, including the funding stewardship matters in **CS-6.335** (*Resource allocation and funding stewardship*).
+
+**What the Integrity registrar does:**
+- It receives the result with the audited party, the period and scope covered, the method, the date, who commissioned and paid for the audit, any tie between the auditor and the audited party, the findings, and the audited party's response.
+- It checks completeness only: each of those items is present, and the one lodging is the auditor, the audited party, or a forum or certifier that holds the result.
+- It gives a dated receipt that says the lodging is complete or lists what is missing.
+- It tags each record by access class under **CF-13.465 §3** (*Access classes*) and keeps a register. A result is public by default. A restriction is justified under that section and leaves a path to later review.
+- It passes any finding that shows a possible crossing of a line in [Domain-Specific Materiality](../core_05050_band_oversight.md#domain-specific-materiality), diverted or hidden funds or resources, an undisclosed conflict, or a misaligned reward to the intake triage body for routing under **CF-13.415 §2** (*Intake triage body*), without judging it.
+- It tells the **Integrity** forums handling a certification, validation, or recertification of the audited party that a result has been lodged, so the certification record can cite it.
+
+**What the Integrity registrar does not do:**
+- It does not grade the audit, the auditor, or the audited party, and it does not state a conclusion from the findings.
+- It does not order, schedule, or scope an audit.
+- It does not decide whether an audit was independent or sufficient. A forum with jurisdiction decides that on referral.
+- It charges no fee, and it refuses a result for no reason other than a missing required item.
+
+**Time and fallback:**
+- **Silence is receipt:** If the registrar gives no receipt within seven days, the result counts as received on the day it was lodged.
+- **Incomplete lodging:** The date of first lodging stands if the missing items are supplied within the time the registrar states, which is never less than seven days.
+- **Registrar unavailable:** If the registrar cannot be reached or is in capacity failure under **CF-13.415 §4** (*Capacity-failure routing*), the result is published openly with notice to the forum family. That counts as lodging on the day of notice.
+
+**Safeguards:**
+- **A receipt is not an endorsement:** The registrar's check is administrative. A forum is not bound by it.
+- **No shelving:** The registrar enters a received result in the register within seven days of receipt. It may not hold back, delay, or bury a result. An auditor's report that access was refused or the audit was obstructed is [Protected Reporting (Whistleblowing)](../core_05035_band_accountability.md#protected-reporting-whistleblowing).
+- **No gate:** A registrar's delay, error, or refusal never stops the audited party from operating, and a missing or late audit is a defect to log and correct. The audited party or the auditor may contest it on the route in **CF-13.415 §2** (*Intake triage body*).
+- **No steering:** The registrar may not use funding, fees, or sorting to push audited parties toward a favored auditor or forum.
+- **No self-judging:** Staff of the registrar who received a result do not sit on a merits panel hearing a dispute about the audited party's finances or resources (**CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+
+
+## CF-13.415 §7 Backup Record Authority
+
+*In plain terms: when a Chartered Party's own offices can't verify a standing record, because its System Charter or Institutional Charter has a gap, someone outside it has to. The **Backup Record Authority** is that authority. It checks the facts and authorizes the record, so nobody's record waits on the Chartered Party's repair. It is not a clerk, not a forum, and not part of the intake desk. It checks facts. It does not rule on what the Chartered Party is or may do, and it does not measure how good or bad the record is. If it is slow, the record goes to a forum.*
+
+This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custody and opening authority](../core_10000_standing_assessment.md#37-record-custody-and-opening-authority) (*No self-custody*; *A System Charter or Institutional Charter that does not name them*) and [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07000_charters.md#4-the-charter-role-map-and-standing-record-custody). It stays outside the intake triage body (**CF-13.415 §2** (*Intake triage body*)) and the registrars (**CF-13.415 §5** (*Institutional and local registrars*), **CF-13.415 §6** (*Integrity registrar*)), which do routine administration, and outside the merits panels, which [Chapter Thirteen §2 Default venue and primary stakes](../core_13000_forum.md#2-default-venue-and-primary-stakes) keeps for substantive outcomes.
+
+**Where it sits:** The **Institutional** forum family, or the local forum where the Chartered Party acts and the sentients it affects live, keeps one Backup Record Authority, or a functionally equivalent arrangement, with the same independence and contest expectations as an intake triage body. It is a separate authority. It is not part of the intake triage body, it is not a registrar, it is not the Backup Record Custodian, and it is not a merits panel. Staff of one do not staff another.
+
+**When it acts:**
+- **A gap in the System Charter or Institutional Charter:** From the day the gap is logged, for operator standing records in the affected scope, until the Chartered Party lodges a version that names every required seat and this authority, or a forum, confirms that the named holders pass the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10 and the notice and chance to contest in [Chapter Seven §4.5 Changing seat rules and seat holders](../core_07000_charters.md#45-changing-seat-rules-and-seat-holders) have run ([Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07000_charters.md#4-the-charter-role-map-and-standing-record-custody)). Anyone may log a gap, without standing, by notice to a forum, a registrar, or this authority.
+- **No route named:** Where *No self-custody* in [Chapter Ten §3.7 Record custody and opening authority](../core_10000_standing_assessment.md#37-record-custody-and-opening-authority) sends a record to independent verification and the System Charter or Institutional Charter or designation names no route, the Backup Record Authority is the default. A forum under [Chapter Ten §3.6 Forum boundary](../core_10000_standing_assessment.md#36-forum-boundary) stays available, and the subject or a claimant may take the record straight there.
+
+**What it does:**
+- It logs the request and routes it the day it arrives.
+- It verifies the factual basis of the record under Chapters Two through Four and the Chapter Ten **section 3.1** gate, then authorizes the opening, correction, expiry, or supersession.
+- It names itself on the record as record-opening authority, with the reason it acted and the version of the System Charter or Institutional Charter in force.
+- It passes the authorized version to the record custodian. Where the Chartered Party's custodian is excluded or cannot act, custody follows *Record custodian* in Chapter Ten **section 3.7**: it goes to the successor named there or, where none is named, to the Backup Record Custodian (**CF-13.415 §9** (*Backup Record Custodian*)).
+- If the facts cannot be verified without deciding a contested merits question, it refers the record to a forum under Chapter Ten **section 3.6** and does not decide the question itself.
+
+**What it does not do:**
+- It does not enter or hold the record (that belongs to the record custodian, or the Backup Record Custodian under **CF-13.415 §9** (*Backup Record Custodian*)), and it does not hear a contest of a record it verified. A contest goes to secondary review under Chapter Ten **section 3.6** and **CF-13.420** (*Appeal, secondary review, and exhaustion pathways*), in a forum outside the family that keeps this authority, such as the Integrity family, never in a panel of the keeping family.
+- It does not assign a Chapter Ten slot or measure how good or bad the record is.
+- It does not rule on class, on scope, or on whether a System Charter or Institutional Charter is valid, and it does not fix the gap for the Chartered Party.
+- It does not grant or withhold permission to form or operate.
+- It charges no fee to the subject or a claimant.
+- It takes no instruction on a record from the Chartered Party or from the forum family that funds it.
+
+**Funding and accountability:**
+- **Funding:** The forum family or local forum that keeps it funds it from a published budget. No fee is charged for a record, a subject, or a claimant. The keeping family may not withhold funds over a decision, and the Chartered Party cannot fund it.
+- **Reporting:** It answers to the keeping family for its budget, its aggregate reports, and its conduct, never for an individual decision. It publishes aggregate figures: requests received, whether each came from a gap or from no named route, outcomes (authorized, refused, referred, declined for conflict), time taken, and missed targets, by tier. It also publishes its capacity, its open queue, and the age of its oldest open request, by tier.
+
+**Time and fallback:**
+- **Answer:** It authorizes, refuses, or refers the record within the **intake target** of the Tier that matches the Chartered Party's class (Class A, B, C, L, or P takes Tier A, B, C, L, or P), counted from the day the request is logged. This is the same window as the response window in [Chapter Seven §6 When a Holder Fails the Formation Check](../core_07000_charters.md#6-when-a-holder-fails-the-formation-check), and it runs inside the matter's tier window, never on top of it.
+- **Silence:** If it has not answered by then, the record goes to a forum under Chapter Ten **section 3.6**, and the subject, a claimant, or a challenger may take it there at once. A missed target is recorded and published as the authority's own failure under **CF-13.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
+- **Surge:** If open requests exceed what it can answer inside the intake targets, it says so on the day it knows, publishes the shortfall, and sends the excess to a forum under Chapter Ten **section 3.6** at once. A continuing shortfall is a capacity-failure matter under **CF-13.415 §4** (*Capacity-failure routing*), and **CI-11.205** (*Remedy systems and institutional redress capacity*) holds the funding floor.
+- **Unavailable:** If the Backup Record Authority cannot be reached or is in capacity failure under **CF-13.415 §4** (*Capacity-failure routing*), the record goes to a forum under Chapter Ten **section 3.6** or to the independent investigative service under **CF-13.435 §6** (*No self-investigation*).
+- **Conflict of its own:** If it has an interest in the record, it declines the seat, logs the conflict, and routes the record to a forum.
+- **Family capture:** If **CF-13.425 §3.8** (*Family-Level Capture Activation*) displaces the family that keeps it, that family does not appoint, staff, fund, or instruct it. The body the continuity record names for activation oversight (**CF-13.455 §4** (*Family-capture fallback operation*)) names the keeper until restoration, and the authority keeps answering.
+
+**Safeguards:**
+- **Outside the line:** The Chartered Party cannot choose, appoint, or fund it through a channel the Chartered Party controls, and it cannot change its authority.
+- **Not an endorsement:** Verifying a record says nothing about whether the System Charter or Institutional Charter is sound.
+- **No gate:** Its delay, error, or refusal never stops a Chartered Party from operating. It is a defect to log and correct, and the Chartered Party, the subject, or a claimant may contest it on the route in **CF-13.415 §2** (*Intake triage body*).
+- **No steering:** It may not use funding, fees, or sorting to push records toward a favored forum.
+- **No self-judging:** Staff who verified a record do not sit on a merits panel hearing a dispute about it (**CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+- **Oversight:** Integrity or independent assurance bodies under **CF-13.435 §5** (*Required separations*) monitor it for capture and delay.
+
+## CF-13.415 §8 Restricted information authority
+
+*In plain terms: when a forum, a party, or a holder disagrees about who may see restricted information, someone neutral has to answer fast, so the matter does not stall and forums do not end up fighting each other. The **restricted information authority** is that authority. It decides who may see an item, and in what form. It does not decide the case. If it is slow, the case goes on without the item. Its answers can be appealed, but the appeal does not stop the clock.*
+
+This subsection implements the rule in [CF-13.445 §3.3 Restricted-evidence timing](cf_13445_performance_backlog_publication_accessibility.md#cf-13445-33-restricted-evidence-timing) that restricted evidence does not slow the clock, and the **Anti-delay floor** in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_13000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline). It is modeled on **CF-13.415 §7** (*Backup Record Authority*). It stays outside the intake triage body (**CF-13.415 §2** (*Intake triage body*)), the registrars (**CF-13.415 §5** (*Institutional and local registrars*), **CF-13.415 §6** (*Integrity registrar*)), the Backup Record Authority, and the merits panels.
+
+**Where it sits:** Each adopter keeps one restricted information authority, or a functionally equivalent arrangement. It answers to all of the adopter's forum families together and to none of them alone. The families appoint it together, under a published, contestable, rotatable process, for a stated term, and it is removed only for cause on a published finding. It is a separate authority. It is not a forum, not a registrar, and not part of the intake triage body. Staff of one do not staff another.
+
+**What comes to it:** A dispute about access to, or the scope of, restricted information, including a claim of privilege over restricted material. It may be raised by a forum, a party, or a holder. The question is whether the item may be seen, by whom, and in what form: cleared reviewer, reviewable summary, closed review, or redaction. This includes a dispute about a disclosure limit stated in a standing record under [Chapter Ten §3.1 Minimum record contents](../core_10000_standing_assessment.md#31-minimum-record-contents). Disputes go to the authority first.
+
+**What it decides under:** Published criteria that are at least as protective as **CS-6.305 and CS-6.310** (*Information types and handling*) for **Type S** data, which must stay minimized, time-bound, and review-bound, and as the record a secrecy measure must carry under **CF-13.435 §7** (*Rights, secrecy, and protected activity*). It also preserves material that tends to show that a sentient is not at fault or is less at fault, that the harm was smaller, or that casts doubt on other evidence, as **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) requires of any secrecy. A reviewable summary, redaction, or closed review may not strip it from what the matter can use. It gives reasons.
+
+**Clock:**
+- **Answer:** Inside the matter's tier window, never on top of it. The answer is due within the **intake target** of the matter's tier, counted from the day the question is logged: 1 calendar day for Tier A, 2 for Tier B, 4 for Tier C, 8 for Tier L, and 12 for Tier P, and 6 hours at the **Emergency level** (**CF-13.445 §3.1** (*Stage targets and timing floors*)).
+- **Silence:** If the authority has not answered by then, the forum proceeds on the lawful evidence it has, and the item stays restricted. The party that asked to restrict the item may not rely on it, and an item that an accused sentient has not been able to answer cannot support an adverse finding against that sentient. A missed target is recorded and published as the authority's own failure, and counted under **CF-13.445 §3.3** (*Restricted-evidence timing*).
+
+**What it does not do:**
+- It does not decide the merits, admissibility, or weight. Those stay with forums.
+- It does not authorize warrants, compulsory process, preservation orders, or new secrecy limits. Forums keep those under **CF-13.435 §5** (*Required separations*).
+- It does not rule on a restriction it imposed itself, or on an item it holds. That question goes to a forum.
+- It takes no instruction on a case from any forum family, including the families that fund it.
+- It does not grant or withhold permission to form or operate, and it charges no fee to a party.
+- It does not decide who may audit or inspect records for oversight. Those routes stay as **Article XVI-B** (*Distributed Oversight and Anti-Monopoly Review*) and **CJS-5.110 §4** (*Oversight: tiered transparency and audit-access terms*) set them.
+- It does not conduct release review when a secrecy limit ends. That stays with the forum and the restricting body under **CJS-5.135 §22** (*Integrative: constrained-secrecy and protected-investigation terms*).
+
+**Review:**
+- **Appeal:** A decision of the authority is appealed in the forum family related to the matter that raised the question, before a panel separate from the sentients deciding that matter's merits (**CF-13.420** (*Appeal, secondary review, and exhaustion pathways*)). The appeal asks whether the authority followed its published criteria, gave reasons, and was right that withholding or limiting the item was necessary.
+- **Effect:** The decision stands during the appeal and binds every forum family of the adopter until the appeal reverses it. Another family may not decide the same item for itself.
+- **Clock:** The appeal runs alongside the matter and does not stop it. A reversal that releases an item feeds the existing reconsideration path.
+
+**Funding and accountability:**
+- **Funding:** The adopter's forum families fund it together, in proportion to how much each uses it, under a published formula. No fee is charged for a decision, a party, or a case. The budget is settled in aggregate by the families together, and no family may withhold funds over a decision. A party cannot fund it.
+- **Reporting:** It answers to the families for its budget, its aggregate reports, and its conduct, never for an individual decision. It publishes aggregate figures: questions received, outcomes, time taken, missed targets, and the asserting party, by tier and level.
+
+**Time and fallback:**
+- **Unavailable:** If the authority cannot be reached or is in capacity failure under **CF-13.415 §4** (*Capacity-failure routing*), the silence rule applies and the matter goes on.
+- **Conflict of its own:** If it has an interest in the item, it declines, logs the conflict, and the question goes to a forum.
+
+**Safeguards:**
+- **Outside the line:** A holder or party to a matter cannot choose, appoint, or fund it through a channel the holder or party controls.
+- **No steering:** It may not use funding, fees, or sorting to push questions toward a favored forum.
+- **No self-judging:** Staff who decided an access question do not sit on a merits panel hearing a dispute about the same item (**CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+- **Oversight:** Integrity or independent assurance bodies under **CF-13.435 §5** (*Required separations*) monitor it for capture and delay.
+
+## CF-13.415 §9 Backup Record Custodian
+
+*In plain terms: when a Chartered Party has no custodian that can hold a record without a conflict, someone outside it has to keep the record. The **Backup Record Custodian** is that custodian. It enters and holds a record that an authority has authorized, and nothing else. It does not check the facts (that is the Backup Record Authority or another record-opening authority) and it does not hear a challenge. If it is slow, the record goes to a forum, which holds it or names a holder.*
+
+This subsection implements, and must not narrow, [Chapter Ten §3.7 Record custody and opening authority](../core_10000_standing_assessment.md#37-record-custody-and-opening-authority) (*Record custodian*; *Conflicted custodian on a single record*; *No self-custody*) and [Chapter Seven §4 The Charter Role Map and Standing-Record Custody](../core_07000_charters.md#4-the-charter-role-map-and-standing-record-custody). It is modeled on **CF-13.415 §7** (*Backup Record Authority*). It stays outside the intake triage body (**CF-13.415 §2** (*Intake triage body*)), the registrars (**CF-13.415 §5** (*Institutional and local registrars*), **CF-13.415 §6** (*Integrity registrar*)), which file and receipt and do not hold records, the merits panels, and the Backup Record Authority.
+
+**Where it sits:** The **Institutional** forum family, or the local forum where the Chartered Party acts and the sentients it affects live, keeps one Backup Record Custodian, or a functionally equivalent arrangement, with the same independence and contest expectations as an intake triage body. It is a separate body from the Backup Record Authority. Staff of one do not staff the other, and nobody supervises both on the same record, because no body may both verify and enter a record. It is bound by the recusal and anti-self-judging rules of **CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and publishes its reasons.
+
+**When it acts, and what it takes:**
+- **A gap in the System Charter or Institutional Charter:** From the day the gap is logged, for operator standing records in the affected scope, it enters and holds each version that a record-opening authority authorizes for a record it holds. Each record stays whole with one custodian. On the day notice of the gap reaches a forum, a registrar, or the Backup Record Authority, any operator standing record held by an office inside the Chartered Party's [Material Control Line](../core_05035_band_accountability.md#material-control-line) moves to it with its full audit trail, because those offices are already excluded from every operator standing record. Until the move, that office holds the record read-only: it enters no version and gives this body a sealed copy at once. A record held by a custodian outside the line stays there, and that custodian enters any version opened during the gap, unless a forum finds that it is not outside the line. Anyone may log a gap, without standing, by notice to a forum, a registrar, or the Backup Record Authority. This body acts until the Chartered Party lodges a version that names every required seat, the Backup Record Authority or a forum confirms that the named holders pass the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10, the notice and chance to contest in [Chapter Seven §4.5 Changing seat rules and seat holders](../core_07000_charters.md#45-changing-seat-rules-and-seat-holders) have run, and the named custodian takes custody by a logged transfer.
+- **An excluded custodian with no substitute:** Where the named custodian is excluded for one record under *Conflicted custodian on a single record* and the System Charter, Institutional Charter, or lane map names no substitute holder, it holds that record and no other.
+- **A custodian that cannot continue:** Where a forum finds that the named custodian is dissolved, captured, or unable to hold records, and no successor is named, it takes the records that custodian held for the scope, with the full audit trail, so custody does not lapse.
+- **No route named:** It is the default custodian where *No self-custody* sends a record to independent verification and the System Charter or Institutional Charter or designation names none. A forum under Chapter Ten **section 3.6** stays available.
+
+**What it does:**
+- It logs the request and routes it the day it arrives.
+- It enters each authorized version, holds it with the full audit trail under [Evidence Preservation](../core_05050_band_oversight.md#evidence-preservation), and publishes the challenge path.
+- It names itself on the record as custodian, with the reason it acts and the version of the System Charter or Institutional Charter in force.
+- It logs a challenge when received, sets the status to *under challenge*, notifies the subject and any claimant, and routes the challenge to the contest seat, or to the supervising forum under Chapter Ten **section 3.6** where no contest seat is named or that seat is the one in gap.
+- It returns custody by a logged transfer when the conflict or the gap ends.
+
+**What it does not do:**
+- It does not verify or authorize a record, and it does not hear a contest of a record it holds. A contest goes to the contest seat or a forum under Chapter Ten **section 3.6** and **CF-13.420** (*Appeal, secondary review, and exhaustion pathways*), in a forum outside the family that keeps this body, such as the Integrity family, never in a panel of the keeping family.
+- It does not take over the Chartered Party's whole store. It takes only the records named above, and the rest stay where they are, preserved unchanged. It does not take part of a record: a record moves whole, with its trail.
+- It does not apply a Chapter Eleven standing effect, decide a merits question, or measure how good or bad the record is.
+- It does not rule on class, on scope, or on whether a System Charter or Institutional Charter is valid.
+- It does not grant or withhold permission to form or operate.
+- It charges no fee to the subject or a claimant.
+- It takes no instruction on a record from the Chartered Party or from the forum family that funds it.
+
+**Funding and accountability:**
+- **Funding:** The forum family or local forum that keeps it funds it from a published budget. No fee is charged for a record, a subject, or a claimant. The keeping family may not withhold funds over a decision, and the Chartered Party cannot fund it.
+- **Reporting:** It answers to the keeping family for its budget, its aggregate reports, and its conduct, never for an individual decision. It publishes aggregate figures: records received, whether each came from a gap, an excluded custodian, a lapse, or no named route, time taken, and missed targets, by tier. It also publishes its capacity, its open queue, and the age of its oldest open request, by tier.
+
+**Time and fallback:**
+- **Answer:** It accepts custody, or refers the record, within the **intake target** of the Tier that matches the Chartered Party's class (Class A, B, C, L, or P takes Tier A, B, C, L, or P), counted from the day the authorization reaches it or, for a transfer, the day the transfer is requested. The Backup Record Authority's window runs first and this one runs after it, and both stay inside the matter's tier window, never on top of it.
+- **Silence:** If it has not answered by then, the record goes to a forum under Chapter Ten **section 3.6**, which holds it or names a holder that passes the tests in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 10, and the subject, a claimant, or a challenger may take it there at once. A forum that holds a record or names its holder does not hear a contest of that record. A missed target is recorded and published as the custodian's own failure under **CF-13.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
+- **Surge:** If open requests exceed what it can answer inside the intake targets, it says so on the day it knows, publishes the shortfall, and sends the excess to a forum under Chapter Ten **section 3.6** at once. A continuing shortfall is a capacity-failure matter under **CF-13.415 §4** (*Capacity-failure routing*), and **CI-11.205** (*Remedy systems and institutional redress capacity*) holds the funding floor.
+- **Unavailable:** If the Backup Record Custodian cannot be reached or is in capacity failure under **CF-13.415 §4** (*Capacity-failure routing*), the record goes to a forum under Chapter Ten **section 3.6**.
+- **Conflict of its own:** If it has an interest in the record, it declines the seat, logs the conflict, and routes the record to a forum.
+- **Family capture:** If **CF-13.425 §3.8** (*Family-Level Capture Activation*) displaces the family that keeps it, that family does not appoint, staff, fund, or instruct it. The body the continuity record names for activation oversight (**CF-13.455 §4** (*Family-capture fallback operation*)) names the keeper until restoration, and the custodian keeps answering.
+
+**Safeguards:**
+- **Outside the line:** The Chartered Party cannot choose, appoint, or fund it through a channel the Chartered Party controls, and it cannot change its authority.
+- **Not an endorsement:** Holding a record says nothing about whether the System Charter or Institutional Charter is sound.
+- **No gate:** Its delay, error, or refusal never stops a Chartered Party from operating. It is a defect to log and correct, and the Chartered Party, the subject, or a claimant may contest it on the route in **CF-13.415 §2** (*Intake triage body*).
+- **No steering:** It may not use funding, fees, or sorting to push records toward a favored forum.
+- **No self-judging:** Staff who held a record do not sit on a merits panel hearing a dispute about it (**CF-13.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*)).
+- **Oversight:** Integrity or independent assurance bodies under **CF-13.435 §5** (*Required separations*) monitor it for capture and delay.
+- **Second copy:** It records a hash with each version and keeps a sealed second copy of each record it holds with an independent assurance body under **CF-13.435 §5** (*Required separations*), so a loss or alteration shows.
+- **Restricted information:** Restricted information in a record it holds is handled under **CF-13.415 §8** (*Restricted information authority*), and access is limited to those the record's published terms allow.
+- **Concentration:** The same family keeps this body and the Backup Record Authority, so no one sentient may supervise both on a record, and a contest of a record either handled goes outside that family.
+
+---
+
+**Previous file:** [cf_13410_panel_formation_disclosure_recusal_bench_constitution.md](cf_13410_panel_formation_disclosure_recusal_bench_constitution.md)
+
+**Next file:** [cf_13420_appeal_secondary_review_exhaustion_pathways.md](cf_13420_appeal_secondary_review_exhaustion_pathways.md)

@@ -1,0 +1,2512 @@
+{
+  "schema_version": 1,
+  "edition": "SC-Corpus-2026.10.21",
+  "number_format": "CCLSS",
+  "layer_digits": {
+    "CORE": "0",
+    "CJS": "1",
+    "CI": "2",
+    "CS": "3",
+    "CF": "4"
+  },
+  "chapters": [
+    {
+      "old_id": "Chapter 0",
+      "original_file": "core_00_preamble.md",
+      "machine_id": "00000",
+      "display_id": "0.000",
+      "layer": "CORE",
+      "core_home": "00",
+      "title": "0",
+      "destination_file": "core_00000_preamble.md",
+      "status": "active",
+      "machine_number": "00000",
+      "layer_digit": "0",
+      "ordinal_name": "0"
+    },
+    {
+      "old_id": "Chapter 1",
+      "original_file": "core_01_a_values_principles.md",
+      "machine_id": "01005",
+      "display_id": "1.005",
+      "layer": "CORE",
+      "core_home": "01",
+      "title": "1",
+      "destination_file": "core_01005_values_principles.md",
+      "status": "active",
+      "machine_number": "01005",
+      "layer_digit": "0",
+      "ordinal_name": "1"
+    },
+    {
+      "old_id": "Chapter 1",
+      "original_file": "core_01_b_interaction_interpretation.md",
+      "machine_id": "01010",
+      "display_id": "1.010",
+      "layer": "CORE",
+      "core_home": "01",
+      "title": "1",
+      "destination_file": "core_01010_interaction_interpretation.md",
+      "status": "active",
+      "machine_number": "01010",
+      "layer_digit": "0",
+      "ordinal_name": "1"
+    },
+    {
+      "old_id": "Chapter 1",
+      "original_file": "core_01_c_stewardship_capacity_principles.md",
+      "machine_id": "01015",
+      "display_id": "1.015",
+      "layer": "CORE",
+      "core_home": "01",
+      "title": "1",
+      "destination_file": "core_01015_stewardship_capacity_principles.md",
+      "status": "active",
+      "machine_number": "01015",
+      "layer_digit": "0",
+      "ordinal_name": "1"
+    },
+    {
+      "old_id": "Chapter 2",
+      "original_file": "core_02_definition_structure.md",
+      "machine_id": "02000",
+      "display_id": "2.000",
+      "layer": "CORE",
+      "core_home": "02",
+      "title": "2",
+      "destination_file": "core_02000_definition_structure.md",
+      "status": "active",
+      "machine_number": "02000",
+      "layer_digit": "0",
+      "ordinal_name": "2"
+    },
+    {
+      "old_id": "Chapter 3",
+      "original_file": "core_03_definition_integrity.md",
+      "machine_id": "03000",
+      "display_id": "3.000",
+      "layer": "CORE",
+      "core_home": "03",
+      "title": "3",
+      "destination_file": "core_03000_definition_integrity.md",
+      "status": "active",
+      "machine_number": "03000",
+      "layer_digit": "0",
+      "ordinal_name": "3"
+    },
+    {
+      "old_id": "Chapter 4",
+      "original_file": "core_04_burden_traceability_verification.md",
+      "machine_id": "04000",
+      "display_id": "4.000",
+      "layer": "CORE",
+      "core_home": "04",
+      "title": "4",
+      "destination_file": "core_04000_burden_traceability_verification.md",
+      "status": "active",
+      "machine_number": "04000",
+      "layer_digit": "0",
+      "ordinal_name": "4"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05__definitions_home.md",
+      "machine_id": "05000",
+      "display_id": "5.000",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05000_definitions_home.md",
+      "status": "active",
+      "machine_number": "05000",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_apex_accountability_leg.md",
+      "machine_id": "05005",
+      "display_id": "5.005",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05005_apex_accountability_leg.md",
+      "status": "active",
+      "machine_number": "05005",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_apex_continuity_aim.md",
+      "machine_id": "05010",
+      "display_id": "5.010",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05010_apex_continuity_aim.md",
+      "status": "active",
+      "machine_number": "05010",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_apex_flourishing_aim.md",
+      "machine_id": "05015",
+      "display_id": "5.015",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05015_apex_flourishing_aim.md",
+      "status": "active",
+      "machine_number": "05015",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_apex_oversight_leg.md",
+      "machine_id": "05020",
+      "display_id": "5.020",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05020_apex_oversight_leg.md",
+      "status": "active",
+      "machine_number": "05020",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_apex_participation_leg.md",
+      "machine_id": "05025",
+      "display_id": "5.025",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05025_apex_participation_leg.md",
+      "status": "active",
+      "machine_number": "05025",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_apex_timeliness_leg.md",
+      "machine_id": "05030",
+      "display_id": "5.030",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05030_apex_timeliness_leg.md",
+      "status": "active",
+      "machine_number": "05030",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_band_accountability.md",
+      "machine_id": "05035",
+      "display_id": "5.035",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05035_band_accountability.md",
+      "status": "active",
+      "machine_number": "05035",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_band_continuity.md",
+      "machine_id": "05040",
+      "display_id": "5.040",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05040_band_continuity.md",
+      "status": "active",
+      "machine_number": "05040",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_band_integrative.md",
+      "machine_id": "05045",
+      "display_id": "5.045",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05045_band_integrative.md",
+      "status": "active",
+      "machine_number": "05045",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_band_oversight.md",
+      "machine_id": "05050",
+      "display_id": "5.050",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05050_band_oversight.md",
+      "status": "active",
+      "machine_number": "05050",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_band_participation.md",
+      "machine_id": "05055",
+      "display_id": "5.055",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05055_band_participation.md",
+      "status": "active",
+      "machine_number": "05055",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 5",
+      "original_file": "core_05_band_performance.md",
+      "machine_id": "05060",
+      "display_id": "5.060",
+      "layer": "CORE",
+      "core_home": "05",
+      "title": "5",
+      "destination_file": "core_05060_band_performance.md",
+      "status": "active",
+      "machine_number": "05060",
+      "layer_digit": "0",
+      "ordinal_name": "5"
+    },
+    {
+      "old_id": "Chapter 6 Part A",
+      "original_file": "core_06_rights_part_a.md",
+      "machine_id": "06005",
+      "display_id": "6.005",
+      "layer": "CORE",
+      "core_home": "06",
+      "title": "Chapter 6 Part A",
+      "destination_file": "core_06005_rights_part_a.md",
+      "status": "active",
+      "machine_number": "06005",
+      "layer_digit": "0",
+      "ordinal_name": "CHAPTER SIX, PART A"
+    },
+    {
+      "old_id": "Chapter 6 Part B",
+      "original_file": "core_06_rights_part_b.md",
+      "machine_id": "06010",
+      "display_id": "6.010",
+      "layer": "CORE",
+      "core_home": "06",
+      "title": "Chapter 6 Part B",
+      "destination_file": "core_06010_rights_part_b.md",
+      "status": "active",
+      "machine_number": "06010",
+      "layer_digit": "0",
+      "ordinal_name": "CHAPTER SIX, PART B"
+    },
+    {
+      "old_id": "Chapter 6 Part C",
+      "original_file": "core_06_rights_part_c.md",
+      "machine_id": "06015",
+      "display_id": "6.015",
+      "layer": "CORE",
+      "core_home": "06",
+      "title": "Chapter 6 Part C",
+      "destination_file": "core_06015_rights_part_c.md",
+      "status": "active",
+      "machine_number": "06015",
+      "layer_digit": "0",
+      "ordinal_name": "CHAPTER SIX, PART C"
+    },
+    {
+      "old_id": "Chapter 6 Part D",
+      "original_file": "core_06_rights_part_d.md",
+      "machine_id": "06020",
+      "display_id": "6.020",
+      "layer": "CORE",
+      "core_home": "06",
+      "title": "Chapter 6 Part D",
+      "destination_file": "core_06020_rights_part_d.md",
+      "status": "active",
+      "machine_number": "06020",
+      "layer_digit": "0",
+      "ordinal_name": "CHAPTER SIX, PART D"
+    },
+    {
+      "old_id": "Chapter 6 Part E",
+      "original_file": "core_06_rights_part_e.md",
+      "machine_id": "06025",
+      "display_id": "6.025",
+      "layer": "CORE",
+      "core_home": "06",
+      "title": "Chapter 6 Part E",
+      "destination_file": "core_06025_rights_part_e.md",
+      "status": "active",
+      "machine_number": "06025",
+      "layer_digit": "0",
+      "ordinal_name": "CHAPTER SIX, PART E"
+    },
+    {
+      "old_id": "Chapter 7",
+      "original_file": "core_07_charters.md",
+      "machine_id": "07000",
+      "display_id": "7.000",
+      "layer": "CORE",
+      "core_home": "07",
+      "title": "7",
+      "destination_file": "core_07000_charters.md",
+      "status": "active",
+      "machine_number": "07000",
+      "layer_digit": "0",
+      "ordinal_name": "7"
+    },
+    {
+      "old_id": "Chapter 8",
+      "original_file": "core_08_functional_independence_segregation_of_duties.md",
+      "machine_id": "08000",
+      "display_id": "8.000",
+      "layer": "CORE",
+      "core_home": "08",
+      "title": "8",
+      "destination_file": "core_08000_functional_independence_segregation_of_duties.md",
+      "status": "active",
+      "machine_number": "08000",
+      "layer_digit": "0",
+      "ordinal_name": "8"
+    },
+    {
+      "old_id": "Chapter 9",
+      "original_file": "core_09_system_alignment_certification.md",
+      "machine_id": "09000",
+      "display_id": "9.000",
+      "layer": "CORE",
+      "core_home": "09",
+      "title": "9",
+      "destination_file": "core_09000_system_alignment_certification.md",
+      "status": "active",
+      "machine_number": "09000",
+      "layer_digit": "0",
+      "ordinal_name": "9"
+    },
+    {
+      "old_id": "Chapter 9",
+      "original_file": "core_09_a_system_alignment_certification_evaluation.md",
+      "machine_id": "09005",
+      "display_id": "9.005",
+      "layer": "CORE",
+      "core_home": "09",
+      "title": "9",
+      "destination_file": "core_09005_system_alignment_certification_evaluation.md",
+      "status": "active",
+      "machine_number": "09005",
+      "layer_digit": "0",
+      "ordinal_name": "9"
+    },
+    {
+      "old_id": "Chapter 9",
+      "original_file": "core_09_b_system_alignment_certification_record_process.md",
+      "machine_id": "09010",
+      "display_id": "9.010",
+      "layer": "CORE",
+      "core_home": "09",
+      "title": "9",
+      "destination_file": "core_09010_system_alignment_certification_record_process.md",
+      "status": "active",
+      "machine_number": "09010",
+      "layer_digit": "0",
+      "ordinal_name": "9"
+    },
+    {
+      "old_id": "Chapter 9",
+      "original_file": "core_09_c_system_alignment_certification_illustrations.md",
+      "machine_id": "09015",
+      "display_id": "9.015",
+      "layer": "CORE",
+      "core_home": "09",
+      "title": "9",
+      "destination_file": "core_09015_system_alignment_certification_illustrations.md",
+      "status": "active",
+      "machine_number": "09015",
+      "layer_digit": "0",
+      "ordinal_name": "9"
+    },
+    {
+      "old_id": "Chapter 9",
+      "original_file": "core_09_d_institutional_alignment_certification.md",
+      "machine_id": "09020",
+      "display_id": "9.020",
+      "layer": "CORE",
+      "core_home": "09",
+      "title": "9",
+      "destination_file": "core_09020_institutional_alignment_certification.md",
+      "status": "active",
+      "machine_number": "09020",
+      "layer_digit": "0",
+      "ordinal_name": "9"
+    },
+    {
+      "old_id": "Chapter 10",
+      "original_file": "core_10_standing_assessment.md",
+      "machine_id": "10000",
+      "display_id": "10.000",
+      "layer": "CORE",
+      "core_home": "10",
+      "title": "10",
+      "destination_file": "core_10000_standing_assessment.md",
+      "status": "active",
+      "machine_number": "10000",
+      "layer_digit": "0",
+      "ordinal_name": "10"
+    },
+    {
+      "old_id": "Chapter 10-13",
+      "original_file": "core_10-13_application_vignettes.md",
+      "machine_id": "10005",
+      "display_id": "10.005",
+      "layer": "CORE",
+      "core_home": "10",
+      "title": "10-13",
+      "destination_file": "core_10005_application_vignettes.md",
+      "status": "active",
+      "machine_number": "10005",
+      "layer_digit": "0",
+      "ordinal_name": "10-13"
+    },
+    {
+      "old_id": "Chapter 11",
+      "original_file": "core_11_standing_integration.md",
+      "machine_id": "11000",
+      "display_id": "11.000",
+      "layer": "CORE",
+      "core_home": "11",
+      "title": "11",
+      "destination_file": "core_11000_standing_integration.md",
+      "status": "active",
+      "machine_number": "11000",
+      "layer_digit": "0",
+      "ordinal_name": "11"
+    },
+    {
+      "old_id": "Chapter 12",
+      "original_file": "core_12_a_misconduct_designation.md",
+      "machine_id": "12005",
+      "display_id": "12.005",
+      "layer": "CORE",
+      "core_home": "12",
+      "title": "12",
+      "destination_file": "core_12005_misconduct_designation.md",
+      "status": "active",
+      "machine_number": "12005",
+      "layer_digit": "0",
+      "ordinal_name": "12"
+    },
+    {
+      "old_id": "Chapter 12",
+      "original_file": "core_12_b_misconduct_pattern_applications.md",
+      "machine_id": "12010",
+      "display_id": "12.010",
+      "layer": "CORE",
+      "core_home": "12",
+      "title": "12",
+      "destination_file": "core_12010_misconduct_pattern_applications.md",
+      "status": "active",
+      "machine_number": "12010",
+      "layer_digit": "0",
+      "ordinal_name": "12"
+    },
+    {
+      "old_id": "Chapter 13",
+      "original_file": "core_13_forum.md",
+      "machine_id": "13000",
+      "display_id": "13.000",
+      "layer": "CORE",
+      "core_home": "13",
+      "title": "13",
+      "destination_file": "core_13000_forum.md",
+      "status": "active",
+      "machine_number": "13000",
+      "layer_digit": "0",
+      "ordinal_name": "13"
+    },
+    {
+      "old_id": "Chapter 14",
+      "original_file": "core_14_governance.md",
+      "machine_id": "14000",
+      "display_id": "14.000",
+      "layer": "CORE",
+      "core_home": "14",
+      "title": "14",
+      "destination_file": "core_14000_governance.md",
+      "status": "active",
+      "machine_number": "14000",
+      "layer_digit": "0",
+      "ordinal_name": "14"
+    },
+    {
+      "old_id": "Chapter 15",
+      "original_file": "core_15_non_regression.md",
+      "machine_id": "15000",
+      "display_id": "15.000",
+      "layer": "CORE",
+      "core_home": "15",
+      "title": "15",
+      "destination_file": "core_15000_non_regression.md",
+      "status": "active",
+      "machine_number": "15000",
+      "layer_digit": "0",
+      "ordinal_name": "15"
+    },
+    {
+      "old_id": "Chapter 16",
+      "original_file": "core_16_expansion_supremacy.md",
+      "machine_id": "16000",
+      "display_id": "16.000",
+      "layer": "CORE",
+      "core_home": "16",
+      "title": "16",
+      "destination_file": "core_16000_expansion_supremacy.md",
+      "status": "active",
+      "machine_number": "16000",
+      "layer_digit": "0",
+      "ordinal_name": "16"
+    },
+    {
+      "old_id": "Chapter 17",
+      "original_file": "core_17_amendment_ratification.md",
+      "machine_id": "17000",
+      "display_id": "17.000",
+      "layer": "CORE",
+      "core_home": "17",
+      "title": "17",
+      "destination_file": "core_17000_amendment_ratification.md",
+      "status": "active",
+      "machine_number": "17000",
+      "layer_digit": "0",
+      "ordinal_name": "17"
+    },
+    {
+      "old_id": "Chapter 18",
+      "original_file": "core_18_incorporation.md",
+      "machine_id": "18000",
+      "display_id": "18.000",
+      "layer": "CORE",
+      "core_home": "18",
+      "title": "18",
+      "destination_file": "core_18000_incorporation.md",
+      "status": "active",
+      "machine_number": "18000",
+      "layer_digit": "0",
+      "ordinal_name": "18"
+    },
+    {
+      "old_id": "CJS-0",
+      "original_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "machine_id": "CJS-00105",
+      "display_id": "CJS-0.105",
+      "layer": "CJS",
+      "core_home": "00",
+      "title": "registry and reading rules",
+      "destination_file": "corpus_joint_structure/cjs_00105_registry_and_reading_rules.md",
+      "status": "active",
+      "machine_number": "00105",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-0",
+      "legacy_section_ids": [
+        "CJS-0",
+        "CJS-0.1",
+        "CJS-0.2",
+        "CJS-0.3",
+        "CJS-0.4"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-0"
+      ]
+    },
+    {
+      "old_id": "CJS-1",
+      "original_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+      "machine_id": "CJS-00110",
+      "display_id": "CJS-0.110",
+      "layer": "CJS",
+      "core_home": "00",
+      "title": "scope purpose boundary interface",
+      "destination_file": "corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md",
+      "status": "active",
+      "machine_number": "00110",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-1",
+      "legacy_section_ids": [
+        "CJS-1",
+        "CJS-1.0",
+        "CJS-1.1",
+        "CJS-1.3"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-1"
+      ]
+    },
+    {
+      "old_id": "CI-0",
+      "original_file": "corpus_institutions/ci_00_registry_and_reading_rules.md",
+      "machine_id": "CI-00205",
+      "display_id": "CI-0.205",
+      "layer": "CI",
+      "core_home": "00",
+      "title": "registry and reading rules",
+      "destination_file": "corpus_institutions/ci_00205_registry_and_reading_rules.md",
+      "status": "active",
+      "machine_number": "00205",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-0",
+      "legacy_section_ids": [
+        "CI-0"
+      ],
+      "legacy_chapter_ids": [
+        "CI-0"
+      ]
+    },
+    {
+      "old_id": "CI-1",
+      "original_file": "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
+      "machine_id": "CI-00210",
+      "display_id": "CI-0.210",
+      "layer": "CI",
+      "core_home": "00",
+      "title": "scope purpose legitimacy interface",
+      "destination_file": "corpus_institutions/ci_00210_scope_purpose_legitimacy_interface.md",
+      "status": "active",
+      "machine_number": "00210",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-1",
+      "legacy_section_ids": [
+        "CI-1",
+        "CI-1.1",
+        "CI-1.2"
+      ],
+      "legacy_chapter_ids": [
+        "CI-1"
+      ]
+    },
+    {
+      "old_id": "CI-26",
+      "original_file": "corpus_institutions/ci_26_compliance_mapping_stable_registry.md",
+      "machine_id": "CI-00215",
+      "display_id": "CI-0.215",
+      "layer": "CI",
+      "core_home": "00",
+      "title": "compliance mapping stable registry",
+      "destination_file": "corpus_institutions/ci_00215_compliance_mapping_stable_registry.md",
+      "status": "active",
+      "machine_number": "00215",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-26",
+      "legacy_section_ids": [
+        "CI-26"
+      ],
+      "legacy_chapter_ids": [
+        "CI-26"
+      ]
+    },
+    {
+      "old_id": "CS-0",
+      "original_file": "corpus_systems/cs_00_registry_and_reading_rules.md",
+      "machine_id": "CS-00305",
+      "display_id": "CS-0.305",
+      "layer": "CS",
+      "core_home": "00",
+      "title": "registry and reading rules",
+      "destination_file": "corpus_systems/cs_00305_registry_and_reading_rules.md",
+      "status": "active",
+      "machine_number": "00305",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-0",
+      "legacy_section_ids": [
+        "CS-0"
+      ],
+      "legacy_chapter_ids": [
+        "CS-0"
+      ]
+    },
+    {
+      "old_id": "CS-1",
+      "original_file": "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+      "machine_id": "CS-00310",
+      "display_id": "CS-0.310",
+      "layer": "CS",
+      "core_home": "00",
+      "title": "scope purpose identifier rules",
+      "destination_file": "corpus_systems/cs_00310_scope_purpose_identifier_rules.md",
+      "status": "active",
+      "machine_number": "00310",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-1",
+      "legacy_section_ids": [
+        "CS-1",
+        "CS-1.0"
+      ],
+      "legacy_chapter_ids": [
+        "CS-1"
+      ]
+    },
+    {
+      "old_id": "CF-0",
+      "original_file": "corpus_forum/cf_00_registry_and_reading_rules.md",
+      "machine_id": "CF-00405",
+      "display_id": "CF-0.405",
+      "layer": "CF",
+      "core_home": "00",
+      "title": "registry and reading rules",
+      "destination_file": "corpus_forum/cf_00405_registry_and_reading_rules.md",
+      "status": "active",
+      "machine_number": "00405",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-0",
+      "legacy_section_ids": [
+        "CF-0"
+      ],
+      "legacy_chapter_ids": [
+        "CF-0"
+      ]
+    },
+    {
+      "old_id": "CF-1",
+      "original_file": "corpus_forum/cf_01_scope_authority_boundary_rules.md",
+      "machine_id": "CF-00410",
+      "display_id": "CF-0.410",
+      "layer": "CF",
+      "core_home": "00",
+      "title": "scope authority boundary rules",
+      "destination_file": "corpus_forum/cf_00410_scope_authority_boundary_rules.md",
+      "status": "active",
+      "machine_number": "00410",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-1",
+      "legacy_section_ids": [
+        "CF-1"
+      ],
+      "legacy_chapter_ids": [
+        "CF-1"
+      ]
+    },
+    {
+      "old_id": "CJS-3",
+      "original_file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+      "machine_id": "CJS-05105",
+      "display_id": "CJS-5.105",
+      "layer": "CJS",
+      "core_home": "05",
+      "title": "cross implementation operational terms",
+      "destination_file": "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md",
+      "status": "active",
+      "machine_number": "05105",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-3 (main file)",
+      "legacy_section_ids": [
+        "CJS-3",
+        "CJS-3.0",
+        "CJS-3.1"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-3"
+      ]
+    },
+    {
+      "old_id": "CJS-3",
+      "original_file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
+      "machine_id": "CJS-05110",
+      "display_id": "CJS-5.110",
+      "layer": "CJS",
+      "core_home": "05",
+      "title": "oversight operations",
+      "destination_file": "corpus_joint_structure/cjs_05110_oversight_operations.md",
+      "status": "active",
+      "machine_number": "05110",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-3 (`cjs_03o`)",
+      "legacy_section_ids": [
+        "CJS-3.2",
+        "CJS-3.3",
+        "CJS-3.4",
+        "CJS-3.5",
+        "CJS-3.6"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-3"
+      ]
+    },
+    {
+      "old_id": "CJS-3",
+      "original_file": "corpus_joint_structure/cjs_03u_audit_process.md",
+      "machine_id": "CJS-05115",
+      "display_id": "CJS-5.115",
+      "layer": "CJS",
+      "core_home": "05",
+      "title": "audit process",
+      "destination_file": "corpus_joint_structure/cjs_05115_audit_process.md",
+      "status": "active",
+      "machine_number": "05115",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-3 (`cjs_03u`)",
+      "legacy_section_ids": [
+        "CJS-3.3"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-3"
+      ]
+    },
+    {
+      "old_id": "CJS-3",
+      "original_file": "corpus_joint_structure/cjs_03p_participation_operations.md",
+      "machine_id": "CJS-05120",
+      "display_id": "CJS-5.120",
+      "layer": "CJS",
+      "core_home": "05",
+      "title": "participation operations",
+      "destination_file": "corpus_joint_structure/cjs_05120_participation_operations.md",
+      "status": "active",
+      "machine_number": "05120",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-3 (`cjs_03p`)",
+      "legacy_section_ids": [
+        "CJS-3.7",
+        "CJS-3.8",
+        "CJS-3.9",
+        "CJS-3.10"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-3"
+      ]
+    },
+    {
+      "old_id": "CJS-3",
+      "original_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "machine_id": "CJS-05125",
+      "display_id": "CJS-5.125",
+      "layer": "CJS",
+      "core_home": "05",
+      "title": "accountability operations",
+      "destination_file": "corpus_joint_structure/cjs_05125_accountability_operations.md",
+      "status": "active",
+      "machine_number": "05125",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-3 (`cjs_03a`)",
+      "legacy_section_ids": [
+        "CJS-3.11",
+        "CJS-3.11.1",
+        "CJS-3.11.2",
+        "CJS-3.11.3",
+        "CJS-3.12",
+        "CJS-3.13",
+        "CJS-3.14",
+        "CJS-3.15"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-3"
+      ]
+    },
+    {
+      "old_id": "CJS-3",
+      "original_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
+      "machine_id": "CJS-05130",
+      "display_id": "CJS-5.130",
+      "layer": "CJS",
+      "core_home": "05",
+      "title": "continuity operations",
+      "destination_file": "corpus_joint_structure/cjs_05130_continuity_operations.md",
+      "status": "active",
+      "machine_number": "05130",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-3 (`cjs_03c`)",
+      "legacy_section_ids": [
+        "CJS-3.16",
+        "CJS-3.17",
+        "CJS-3.18",
+        "CJS-3.19",
+        "CJS-3.20",
+        "CJS-3.21"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-3"
+      ]
+    },
+    {
+      "old_id": "CJS-3",
+      "original_file": "corpus_joint_structure/cjs_03i_integrative_operations.md",
+      "machine_id": "CJS-05135",
+      "display_id": "CJS-5.135",
+      "layer": "CJS",
+      "core_home": "05",
+      "title": "integrative operations",
+      "destination_file": "corpus_joint_structure/cjs_05135_integrative_operations.md",
+      "status": "active",
+      "machine_number": "05135",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-3 (`cjs_03i`)",
+      "legacy_section_ids": [
+        "CJS-3.22",
+        "CJS-3.23"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-3"
+      ]
+    },
+    {
+      "old_id": "CJS-5",
+      "original_file": "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
+      "machine_id": "CJS-05140",
+      "display_id": "CJS-5.140",
+      "layer": "CJS",
+      "core_home": "05",
+      "title": "odef parse mechanics",
+      "destination_file": "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md",
+      "status": "active",
+      "machine_number": "05140",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-5",
+      "legacy_section_ids": [
+        "CJS-1.13",
+        "CJS-1.14"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-1"
+      ]
+    },
+    {
+      "old_id": "CI-8",
+      "original_file": "corpus_institutions/ci_08_transparency_participation_accessible_pathways.md",
+      "machine_id": "CI-06205",
+      "display_id": "CI-6.205",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "transparency participation accessible pathways",
+      "destination_file": "corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md",
+      "status": "active",
+      "machine_number": "06205",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-8",
+      "legacy_section_ids": [
+        "CI-8",
+        "CI-8.1",
+        "CI-8.2",
+        "CI-8.3",
+        "CI-8.4"
+      ],
+      "legacy_chapter_ids": [
+        "CI-8"
+      ]
+    },
+    {
+      "old_id": "CI-10",
+      "original_file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
+      "machine_id": "CI-06210",
+      "display_id": "CI-6.210",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "public revenue fees recurring charges billing integrity",
+      "destination_file": "corpus_institutions/ci_06210_public_revenue_fees_recurring_charges_billing_integrity.md",
+      "status": "active",
+      "machine_number": "06210",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-10",
+      "legacy_section_ids": [
+        "CI-10",
+        "CI-10.1",
+        "CI-10.2"
+      ],
+      "legacy_chapter_ids": [
+        "CI-10"
+      ]
+    },
+    {
+      "old_id": "CI-11",
+      "original_file": "corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md",
+      "machine_id": "CI-06215",
+      "display_id": "CI-6.215",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "resource stewardship incentive integrity",
+      "destination_file": "corpus_institutions/ci_06215_resource_stewardship_incentive_integrity.md",
+      "status": "active",
+      "machine_number": "06215",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-11",
+      "legacy_section_ids": [
+        "CI-11",
+        "CI-11.1",
+        "CI-11.2",
+        "CI-11.3",
+        "CI-11.4"
+      ],
+      "legacy_chapter_ids": [
+        "CI-11"
+      ]
+    },
+    {
+      "old_id": "CI-15",
+      "original_file": "corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md",
+      "machine_id": "CI-06220",
+      "display_id": "CI-6.220",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "neurodiversity disability justice trauma informed participation",
+      "destination_file": "corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md",
+      "status": "active",
+      "machine_number": "06220",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-15",
+      "legacy_section_ids": [
+        "CI-15"
+      ],
+      "legacy_chapter_ids": [
+        "CI-15"
+      ]
+    },
+    {
+      "old_id": "CI-16",
+      "original_file": "corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md",
+      "machine_id": "CI-06225",
+      "display_id": "CI-6.225",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "care labor dependent support respite care economy fairness",
+      "destination_file": "corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md",
+      "status": "active",
+      "machine_number": "06225",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-16",
+      "legacy_section_ids": [
+        "CI-16"
+      ],
+      "legacy_chapter_ids": [
+        "CI-16"
+      ]
+    },
+    {
+      "old_id": "CI-17",
+      "original_file": "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+      "machine_id": "CI-06230",
+      "display_id": "CI-6.230",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "end of life continuity memorial dignity posthumous data",
+      "destination_file": "corpus_institutions/ci_06230_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+      "status": "active",
+      "machine_number": "06230",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-17",
+      "legacy_section_ids": [
+        "CI-17"
+      ],
+      "legacy_chapter_ids": [
+        "CI-17"
+      ]
+    },
+    {
+      "old_id": "CI-18",
+      "original_file": "corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md",
+      "machine_id": "CI-06235",
+      "display_id": "CI-6.235",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "collective public health epidemic response addiction informed care",
+      "destination_file": "corpus_institutions/ci_06235_collective_public_health_epidemic_response_addiction_informed_care.md",
+      "status": "active",
+      "machine_number": "06235",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-18",
+      "legacy_section_ids": [
+        "CI-18"
+      ],
+      "legacy_chapter_ids": [
+        "CI-18"
+      ]
+    },
+    {
+      "old_id": "CI-19",
+      "original_file": "corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md",
+      "machine_id": "CI-06240",
+      "display_id": "CI-6.240",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "vulnerable personal services markets (Article VII-E interface)",
+      "destination_file": "corpus_institutions/ci_06240_vulnerable_personal_services_markets_article_viie_interface.md",
+      "status": "active",
+      "machine_number": "06240",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-19",
+      "legacy_section_ids": [
+        "CI-19"
+      ],
+      "legacy_chapter_ids": [
+        "CI-19"
+      ]
+    },
+    {
+      "old_id": "CI-20",
+      "original_file": "corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md",
+      "machine_id": "CI-06245",
+      "display_id": "CI-6.245",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "relational coercive control intimate power anti domination",
+      "destination_file": "corpus_institutions/ci_06245_relational_coercive_control_intimate_power_anti_domination.md",
+      "status": "active",
+      "machine_number": "06245",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-20",
+      "legacy_section_ids": [
+        "CI-20"
+      ],
+      "legacy_chapter_ids": [
+        "CI-20"
+      ]
+    },
+    {
+      "old_id": "CI-21",
+      "original_file": "corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md",
+      "machine_id": "CI-06250",
+      "display_id": "CI-6.250",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "community life voluntary association non instrumental time",
+      "destination_file": "corpus_institutions/ci_06250_community_life_voluntary_association_non_instrumental_time.md",
+      "status": "active",
+      "machine_number": "06250",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-21",
+      "legacy_section_ids": [
+        "CI-21",
+        "CI-21.1",
+        "CI-21.2",
+        "CI-21.3"
+      ],
+      "legacy_chapter_ids": [
+        "CI-21"
+      ]
+    },
+    {
+      "old_id": "CI-22",
+      "original_file": "corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md",
+      "machine_id": "CI-06255",
+      "display_id": "CI-6.255",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "commons cooperatives mutual aid non market governance",
+      "destination_file": "corpus_institutions/ci_06255_commons_cooperatives_mutual_aid_non_market_governance.md",
+      "status": "active",
+      "machine_number": "06255",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-22",
+      "legacy_section_ids": [
+        "CI-22"
+      ],
+      "legacy_chapter_ids": [
+        "CI-22"
+      ]
+    },
+    {
+      "old_id": "CI-23",
+      "original_file": "corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md",
+      "machine_id": "CI-06260",
+      "display_id": "CI-6.260",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "place based stewardship indigenous continuity consultation",
+      "destination_file": "corpus_institutions/ci_06260_place_based_stewardship_indigenous_continuity_consultation.md",
+      "status": "active",
+      "machine_number": "06260",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-23",
+      "legacy_section_ids": [
+        "CI-23"
+      ],
+      "legacy_chapter_ids": [
+        "CI-23"
+      ]
+    },
+    {
+      "old_id": "CI-24",
+      "original_file": "corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md",
+      "machine_id": "CI-06265",
+      "display_id": "CI-6.265",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "innovation reward disclosure anti enclosure",
+      "destination_file": "corpus_institutions/ci_06265_innovation_reward_disclosure_anti_enclosure.md",
+      "status": "active",
+      "machine_number": "06265",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-24",
+      "legacy_section_ids": [
+        "CI-24"
+      ],
+      "legacy_chapter_ids": [
+        "CI-24"
+      ]
+    },
+    {
+      "old_id": "CI-25",
+      "original_file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
+      "machine_id": "CI-06270",
+      "display_id": "CI-6.270",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "scientific publication peer review replication evidence stewardship",
+      "destination_file": "corpus_institutions/ci_06270_scientific_publication_peer_review_replication_evidence_stewardship.md",
+      "status": "active",
+      "machine_number": "06270",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-25",
+      "legacy_section_ids": [
+        "CI-25",
+        "CI-25.1",
+        "CI-25.2",
+        "CI-25.3",
+        "CI-25.4",
+        "CI-25.5"
+      ],
+      "legacy_chapter_ids": [
+        "CI-25"
+      ]
+    },
+    {
+      "old_id": "CI-14",
+      "original_file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+      "machine_id": "CI-06275",
+      "display_id": "CI-6.275",
+      "layer": "CI",
+      "core_home": "06",
+      "title": "transitional governance institutional evolution",
+      "destination_file": "corpus_institutions/ci_06275_transitional_governance_institutional_evolution.md",
+      "status": "active",
+      "machine_number": "06275",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-14",
+      "legacy_section_ids": [
+        "CI-14",
+        "CI-14.1",
+        "CI-14.2",
+        "CI-14.3",
+        "CI-14.4",
+        "CI-14.4.1",
+        "CI-14.4.2",
+        "CI-14.4.3",
+        "CI-14.4.4",
+        "CI-14.4.5",
+        "CI-14.4.6",
+        "CI-14.4.7",
+        "CI-14.4.8",
+        "CI-14.4.9",
+        "CI-14.4.10",
+        "CI-14.4.11",
+        "CI-14.4.12",
+        "CI-14.5"
+      ],
+      "legacy_chapter_ids": [
+        "CI-14"
+      ]
+    },
+    {
+      "old_id": "CS-2",
+      "original_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "machine_id": "CS-06305",
+      "display_id": "CS-6.305",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "information types and handling",
+      "destination_file": "corpus_systems/cs_06305_information_types_and_handling.md",
+      "status": "active",
+      "machine_number": "06305",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-2 Part A",
+      "legacy_section_ids": [
+        "CS-2",
+        "CS-2.1",
+        "CS-2.2",
+        "CS-2.3",
+        "CS-2.4",
+        "CS-2.5",
+        "CS-2.6",
+        "CS-2.7",
+        "CS-2.8"
+      ],
+      "legacy_chapter_ids": [
+        "CS-2"
+      ]
+    },
+    {
+      "old_id": "CS-2",
+      "original_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "machine_id": "CS-06310",
+      "display_id": "CS-6.310",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "data classifications",
+      "destination_file": "corpus_systems/cs_06310_data_classifications.md",
+      "status": "active",
+      "machine_number": "06310",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-2 Part B",
+      "legacy_section_ids": [
+        "CS-2",
+        "CS-2.9"
+      ],
+      "legacy_chapter_ids": [
+        "CS-2"
+      ]
+    },
+    {
+      "old_id": "CS-6",
+      "original_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+      "machine_id": "CS-06315",
+      "display_id": "CS-6.315",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "comprehensibility complexity stewardship",
+      "destination_file": "corpus_systems/cs_06315_comprehensibility_complexity_stewardship.md",
+      "status": "active",
+      "machine_number": "06315",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-6",
+      "legacy_section_ids": [
+        "CS-6",
+        "CS-6.1",
+        "CS-6.2",
+        "CS-6.3",
+        "CS-6.4"
+      ],
+      "legacy_chapter_ids": [
+        "CS-6"
+      ]
+    },
+    {
+      "old_id": "CS-7",
+      "original_file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
+      "machine_id": "CS-06320",
+      "display_id": "CS-6.320",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "justice safeguards restitution rehabilitation",
+      "destination_file": "corpus_systems/cs_06320_justice_safeguards_restitution_rehabilitation.md",
+      "status": "active",
+      "machine_number": "06320",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-7",
+      "legacy_section_ids": [
+        "CS-7",
+        "CS-7.1",
+        "CS-7.2",
+        "CS-7.3",
+        "CS-7.4",
+        "CS-7.5",
+        "CS-7.6",
+        "CS-7.7",
+        "CS-7.8",
+        "CS-7.9",
+        "CS-7.10",
+        "CS-7.11"
+      ],
+      "legacy_chapter_ids": [
+        "CS-7"
+      ]
+    },
+    {
+      "old_id": "CS-8",
+      "original_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "machine_id": "CS-06325",
+      "display_id": "CS-6.325",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "adaptive sustainability ecosystem resilience",
+      "destination_file": "corpus_systems/cs_06325_adaptive_sustainability_ecosystem_resilience.md",
+      "status": "active",
+      "machine_number": "06325",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-8",
+      "legacy_section_ids": [
+        "CS-8",
+        "CS-8.1",
+        "CS-8.2",
+        "CS-8.3",
+        "CS-8.4",
+        "CS-8.5",
+        "CS-8.6",
+        "CS-8.7",
+        "CS-8.8",
+        "CS-8.9",
+        "CS-8.10"
+      ],
+      "legacy_chapter_ids": [
+        "CS-8"
+      ]
+    },
+    {
+      "old_id": "CS-12",
+      "original_file": "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
+      "machine_id": "CS-06330",
+      "display_id": "CS-6.330",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "decentralized continuity partition resilience",
+      "destination_file": "corpus_systems/cs_06330_decentralized_continuity_partition_resilience.md",
+      "status": "active",
+      "machine_number": "06330",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-12",
+      "legacy_section_ids": [
+        "CS-12",
+        "CS-12.1",
+        "CS-12.2",
+        "CS-12.3",
+        "CS-12.4",
+        "CS-12.5",
+        "CS-12.6",
+        "CS-12.7",
+        "CS-12.8",
+        "CS-12.9"
+      ],
+      "legacy_chapter_ids": [
+        "CS-12"
+      ]
+    },
+    {
+      "old_id": "CS-9",
+      "original_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+      "machine_id": "CS-06335",
+      "display_id": "CS-6.335",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "resource allocation funding stewardship",
+      "destination_file": "corpus_systems/cs_06335_resource_allocation_funding_stewardship.md",
+      "status": "active",
+      "machine_number": "06335",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-9",
+      "legacy_section_ids": [
+        "CS-9",
+        "CS-9.1",
+        "CS-9.2",
+        "CS-9.3",
+        "CS-9.4",
+        "CS-9.5",
+        "CS-9.6",
+        "CS-9.7",
+        "CS-9.8",
+        "CS-9.9",
+        "CS-9.10",
+        "CS-9.11",
+        "CS-9.12",
+        "CS-9.13",
+        "CS-9.14",
+        "CS-9.15",
+        "CS-9.16",
+        "CS-9.17",
+        "CS-9.18",
+        "CS-9.19",
+        "CS-9.20",
+        "CS-9.21"
+      ],
+      "legacy_chapter_ids": [
+        "CS-9"
+      ]
+    },
+    {
+      "old_id": "CS-13",
+      "original_file": "corpus_systems/cs_13_system_requirements.md",
+      "machine_id": "CS-06340",
+      "display_id": "CS-6.340",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "system requirements",
+      "destination_file": "corpus_systems/cs_06340_system_requirements.md",
+      "status": "active",
+      "machine_number": "06340",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-13",
+      "legacy_section_ids": [
+        "CS-13",
+        "CS-13.1",
+        "CS-13.2",
+        "CS-13.3",
+        "CS-13.4"
+      ],
+      "legacy_chapter_ids": [
+        "CS-13"
+      ]
+    },
+    {
+      "old_id": "CS-5",
+      "original_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "machine_id": "CS-06345",
+      "display_id": "CS-6.345",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "design testing verification deployment",
+      "destination_file": "corpus_systems/cs_06345_design_testing_verification_deployment.md",
+      "status": "active",
+      "machine_number": "06345",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-5",
+      "legacy_section_ids": [
+        "CS-5",
+        "CS-5.1",
+        "CS-5.2",
+        "CS-5.3",
+        "CS-5.4",
+        "CS-5.5",
+        "CS-5.6",
+        "CS-5.7",
+        "CS-5.8",
+        "CS-5.9",
+        "CS-5.10"
+      ],
+      "legacy_chapter_ids": [
+        "CS-5"
+      ]
+    },
+    {
+      "old_id": "CS-10",
+      "original_file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
+      "machine_id": "CS-06350",
+      "display_id": "CS-6.350",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "transition constitution migration governance",
+      "destination_file": "corpus_systems/cs_06350_transition_constitution_migration_governance.md",
+      "status": "active",
+      "machine_number": "06350",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-10",
+      "legacy_section_ids": [
+        "CS-10",
+        "CS-10.1",
+        "CS-10.2",
+        "CS-10.3",
+        "CS-10.4",
+        "CS-10.5",
+        "CS-10.6",
+        "CS-10.7",
+        "CS-10.8"
+      ],
+      "legacy_chapter_ids": [
+        "CS-10"
+      ]
+    },
+    {
+      "old_id": "CS-11",
+      "original_file": "corpus_systems/cs_11_subversion_response_replacement_reconstitution.md",
+      "machine_id": "CS-06355",
+      "display_id": "CS-6.355",
+      "layer": "CS",
+      "core_home": "06",
+      "title": "subversion response replacement reconstitution",
+      "destination_file": "corpus_systems/cs_06355_subversion_response_replacement_reconstitution.md",
+      "status": "active",
+      "machine_number": "06355",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-11",
+      "legacy_section_ids": [
+        "CS-11",
+        "CS-11.1",
+        "CS-11.2",
+        "CS-11.3",
+        "CS-11.4",
+        "CS-11.5",
+        "CS-11.6",
+        "CS-11.7",
+        "CS-11.8"
+      ],
+      "legacy_chapter_ids": [
+        "CS-11"
+      ]
+    },
+    {
+      "old_id": "CJS-6",
+      "original_file": "corpus_joint_structure/cjs_06_support_hosting_classification.md",
+      "machine_id": "CJS-08105",
+      "display_id": "CJS-8.105",
+      "layer": "CJS",
+      "core_home": "08",
+      "title": "support hosting classification",
+      "destination_file": "corpus_joint_structure/cjs_08105_support_hosting_classification.md",
+      "status": "active",
+      "machine_number": "08105",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-6",
+      "legacy_section_ids": [
+        "CJS-1.9",
+        "CJS-1.10",
+        "CJS-1.11"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-1"
+      ]
+    },
+    {
+      "old_id": "CI-3",
+      "original_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "machine_id": "CI-08205",
+      "display_id": "CI-8.205",
+      "layer": "CI",
+      "core_home": "08",
+      "title": "institutional design separation of powers",
+      "destination_file": "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md",
+      "status": "active",
+      "machine_number": "08205",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-3",
+      "legacy_section_ids": [
+        "CI-3",
+        "CI-3.1",
+        "CI-3.2",
+        "CI-3.3",
+        "CI-3.4",
+        "CI-3.5",
+        "CI-3.6",
+        "CI-3.6.1",
+        "CI-3.6.2",
+        "CI-3.6.3",
+        "CI-3.6.4",
+        "CI-3.6.5",
+        "CI-3.6.6",
+        "CI-3.6.7",
+        "CI-3.6.8"
+      ],
+      "legacy_chapter_ids": [
+        "CI-3"
+      ]
+    },
+    {
+      "old_id": "CI-5",
+      "original_file": "corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md",
+      "machine_id": "CI-08210",
+      "display_id": "CI-8.210",
+      "layer": "CI",
+      "core_home": "08",
+      "title": "conflict integrity anti capture anti corruption",
+      "destination_file": "corpus_institutions/ci_08210_conflict_integrity_anti_capture_anti_corruption.md",
+      "status": "active",
+      "machine_number": "08210",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-5",
+      "legacy_section_ids": [
+        "CI-5",
+        "CI-5.1",
+        "CI-5.2",
+        "CI-5.3"
+      ],
+      "legacy_chapter_ids": [
+        "CI-5"
+      ]
+    },
+    {
+      "old_id": "CI-7",
+      "original_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
+      "machine_id": "CI-08215",
+      "display_id": "CI-8.215",
+      "layer": "CI",
+      "core_home": "08",
+      "title": "oversight assurance controls evidence",
+      "destination_file": "corpus_institutions/ci_08215_oversight_assurance_controls_evidence.md",
+      "status": "active",
+      "machine_number": "08215",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-7",
+      "legacy_section_ids": [
+        "CI-7",
+        "CI-7.1",
+        "CI-7.2",
+        "CI-7.3"
+      ],
+      "legacy_chapter_ids": [
+        "CI-7"
+      ]
+    },
+    {
+      "old_id": "CI-9",
+      "original_file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+      "machine_id": "CI-09210",
+      "display_id": "CI-9.210",
+      "layer": "CI",
+      "core_home": "09",
+      "title": "classification linked institutional obligations",
+      "destination_file": "corpus_institutions/ci_09210_classification_linked_institutional_obligations.md",
+      "status": "active",
+      "machine_number": "09210",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-9",
+      "legacy_section_ids": [
+        "CI-9",
+        "CI-9.1",
+        "CI-9.2",
+        "CI-9.3",
+        "CI-9.3.1",
+        "CI-9.3.2",
+        "CI-9.3.3",
+        "CI-9.3.4",
+        "CI-9.4"
+      ],
+      "legacy_chapter_ids": [
+        "CI-9"
+      ]
+    },
+    {
+      "old_id": "CS-3",
+      "original_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "machine_id": "CS-09305",
+      "display_id": "CS-9.305",
+      "layer": "CS",
+      "core_home": "09",
+      "title": "system classification machinery",
+      "destination_file": "corpus_systems/cs_09305_system_classification_machinery.md",
+      "status": "active",
+      "machine_number": "09305",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-3 Part A",
+      "legacy_section_ids": [
+        "CS-3",
+        "CS-3.1",
+        "CS-3.2",
+        "CS-3.3",
+        "CS-3.4",
+        "CS-3.5",
+        "CS-3.6",
+        "CS-3.7"
+      ],
+      "legacy_chapter_ids": [
+        "CS-3"
+      ]
+    },
+    {
+      "old_id": "CS-3",
+      "original_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+      "machine_id": "CS-09310",
+      "display_id": "CS-9.310",
+      "layer": "CS",
+      "core_home": "09",
+      "title": "system impact classifications",
+      "destination_file": "corpus_systems/cs_09310_system_impact_classifications.md",
+      "status": "active",
+      "machine_number": "09310",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-3 Part B",
+      "legacy_section_ids": [
+        "CS-3",
+        "CS-3.8",
+        "CS-3.9",
+        "CS-3.10",
+        "CS-3.11",
+        "CS-3.12",
+        "CS-3.13"
+      ],
+      "legacy_chapter_ids": [
+        "CS-3"
+      ]
+    },
+    {
+      "old_id": "CI-27",
+      "original_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "machine_id": "CI-11205",
+      "display_id": "CI-11.205",
+      "layer": "CI",
+      "core_home": "11",
+      "title": "remedy systems institutional redress capacity",
+      "destination_file": "corpus_institutions/ci_11205_remedy_systems_institutional_redress_capacity.md",
+      "status": "active",
+      "machine_number": "11205",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-27",
+      "legacy_section_ids": [
+        "CI-27",
+        "CI-27.1",
+        "CI-27.2",
+        "CI-27.3",
+        "CI-27.4",
+        "CI-27.5"
+      ],
+      "legacy_chapter_ids": [
+        "CI-27"
+      ]
+    },
+    {
+      "old_id": "CI-13",
+      "original_file": "corpus_institutions/ci_13_institutional_failure_dissolution.md",
+      "machine_id": "CI-11210",
+      "display_id": "CI-11.210",
+      "layer": "CI",
+      "core_home": "11",
+      "title": "institutional failure dissolution",
+      "destination_file": "corpus_institutions/ci_11210_institutional_failure_dissolution.md",
+      "status": "active",
+      "machine_number": "11210",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-13",
+      "legacy_section_ids": [
+        "CI-13",
+        "CI-13.1",
+        "CI-13.2",
+        "CI-13.3",
+        "CI-13.4"
+      ],
+      "legacy_chapter_ids": [
+        "CI-13"
+      ]
+    },
+    {
+      "old_id": "CI-28",
+      "original_file": "corpus_institutions/ci_28_institutional_accountability_sanctions.md",
+      "machine_id": "CI-11215",
+      "display_id": "CI-11.215",
+      "layer": "CI",
+      "core_home": "11",
+      "title": "institutional accountability sanctions",
+      "destination_file": "corpus_institutions/ci_11215_institutional_accountability_sanctions.md",
+      "status": "active",
+      "machine_number": "11215",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-28",
+      "legacy_section_ids": [
+        "CI-28",
+        "CI-28.1",
+        "CI-28.2",
+        "CI-28.3",
+        "CI-28.4",
+        "CI-28.5",
+        "CI-28.6"
+      ],
+      "legacy_chapter_ids": [
+        "CI-28"
+      ]
+    },
+    {
+      "old_id": "CI-6",
+      "original_file": "corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md",
+      "machine_id": "CI-13205",
+      "display_id": "CI-13.205",
+      "layer": "CI",
+      "core_home": "13",
+      "title": "procedure integrity contestability secondary review",
+      "destination_file": "corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md",
+      "status": "active",
+      "machine_number": "13205",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-6",
+      "legacy_section_ids": [
+        "CI-6"
+      ],
+      "legacy_chapter_ids": [
+        "CI-6"
+      ]
+    },
+    {
+      "old_id": "CI-12",
+      "original_file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
+      "machine_id": "CI-13210",
+      "display_id": "CI-13.210",
+      "layer": "CI",
+      "core_home": "13",
+      "title": "cross institution coordination escalation",
+      "destination_file": "corpus_institutions/ci_13210_cross_institution_coordination_escalation.md",
+      "status": "active",
+      "machine_number": "13210",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-12",
+      "legacy_section_ids": [
+        "CI-12"
+      ],
+      "legacy_chapter_ids": [
+        "CI-12"
+      ]
+    },
+    {
+      "old_id": "CF-3",
+      "original_file": "corpus_forum/cf_03_forum_formation_chamber_structure.md",
+      "machine_id": "CF-13405",
+      "display_id": "CF-13.405",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "forum formation chamber structure",
+      "destination_file": "corpus_forum/cf_13405_forum_formation_chamber_structure.md",
+      "status": "active",
+      "machine_number": "13405",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-3",
+      "legacy_section_ids": [
+        "CF-3",
+        "CF-3.1",
+        "CF-3.2",
+        "CF-3.3",
+        "CF-3.4",
+        "CF-3.5",
+        "CF-3.6",
+        "CF-3.7",
+        "CF-3.8"
+      ],
+      "legacy_chapter_ids": [
+        "CF-3"
+      ]
+    },
+    {
+      "old_id": "CF-4",
+      "original_file": "corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md",
+      "machine_id": "CF-13410",
+      "display_id": "CF-13.410",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "panel formation disclosure recusal bench constitution",
+      "destination_file": "corpus_forum/cf_13410_panel_formation_disclosure_recusal_bench_constitution.md",
+      "status": "active",
+      "machine_number": "13410",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-4",
+      "legacy_section_ids": [
+        "CF-4",
+        "CF-4.1",
+        "CF-4.2",
+        "CF-4.3",
+        "CF-4.4",
+        "CF-4.5",
+        "CF-4.6",
+        "CF-4.7",
+        "CF-4.8",
+        "CF-4.9",
+        "CF-4.10",
+        "CF-4.11",
+        "CF-4.12",
+        "CF-4.13",
+        "CF-4.14",
+        "CF-4.15"
+      ],
+      "legacy_chapter_ids": [
+        "CF-4"
+      ]
+    },
+    {
+      "old_id": "CF-5",
+      "original_file": "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+      "machine_id": "CF-13415",
+      "display_id": "CF-13.415",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "routing operations transfer certification representative treatment",
+      "destination_file": "corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md",
+      "status": "active",
+      "machine_number": "13415",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-5",
+      "legacy_section_ids": [
+        "CF-5",
+        "CF-5.1",
+        "CF-5.2",
+        "CF-5.3",
+        "CF-5.4",
+        "CF-5.5",
+        "CF-5.6",
+        "CF-5.7",
+        "CF-5.8",
+        "CF-5.9"
+      ],
+      "legacy_chapter_ids": [
+        "CF-5"
+      ]
+    },
+    {
+      "old_id": "CF-6",
+      "original_file": "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md",
+      "machine_id": "CF-13420",
+      "display_id": "CF-13.420",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "appeal secondary review exhaustion pathways",
+      "destination_file": "corpus_forum/cf_13420_appeal_secondary_review_exhaustion_pathways.md",
+      "status": "active",
+      "machine_number": "13420",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-6",
+      "legacy_section_ids": [
+        "CF-6",
+        "CF-6.1",
+        "CF-6.1.1",
+        "CF-6.1.2",
+        "CF-6.1.3",
+        "CF-6.1.4",
+        "CF-6.2",
+        "CF-6.2.1",
+        "CF-6.2.2",
+        "CF-6.2.3",
+        "CF-6.2.4",
+        "CF-6.2.5",
+        "CF-6.2.6"
+      ],
+      "legacy_chapter_ids": [
+        "CF-6"
+      ]
+    },
+    {
+      "old_id": "CF-7",
+      "original_file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
+      "machine_id": "CF-13425",
+      "display_id": "CF-13.425",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "integrity safeguards anti capture anti self judging",
+      "destination_file": "corpus_forum/cf_13425_integrity_safeguards_anti_capture_anti_self_judging.md",
+      "status": "active",
+      "machine_number": "13425",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-7",
+      "legacy_section_ids": [
+        "CF-7",
+        "CF-7.1",
+        "CF-7.1.1",
+        "CF-7.1.2",
+        "CF-7.1.3",
+        "CF-7.1.4",
+        "CF-7.1.5",
+        "CF-7.2",
+        "CF-7.2.1",
+        "CF-7.2.2",
+        "CF-7.2.3",
+        "CF-7.2.4",
+        "CF-7.2.5",
+        "CF-7.2.6",
+        "CF-7.2.7",
+        "CF-7.3",
+        "CF-7.3.1",
+        "CF-7.3.2",
+        "CF-7.3.3",
+        "CF-7.3.4",
+        "CF-7.3.5",
+        "CF-7.3.6",
+        "CF-7.3.7",
+        "CF-7.3.8"
+      ],
+      "legacy_chapter_ids": [
+        "CF-7"
+      ]
+    },
+    {
+      "old_id": "CF-8",
+      "original_file": "corpus_forum/cf_08_forum_forensic_analytical_support.md",
+      "machine_id": "CF-13430",
+      "display_id": "CF-13.430",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "forum forensic analytical support",
+      "destination_file": "corpus_forum/cf_13430_forum_forensic_analytical_support.md",
+      "status": "active",
+      "machine_number": "13430",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-8",
+      "legacy_section_ids": [
+        "CF-8",
+        "CF-8.1",
+        "CF-8.2",
+        "CF-8.3",
+        "CF-8.4",
+        "CF-8.5",
+        "CF-8.6"
+      ],
+      "legacy_chapter_ids": [
+        "CF-8"
+      ]
+    },
+    {
+      "old_id": "CF-9",
+      "original_file": "corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md",
+      "machine_id": "CF-13435",
+      "display_id": "CF-13.435",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "independent investigative service prosecution interface",
+      "destination_file": "corpus_forum/cf_13435_independent_investigative_service_prosecution_interface.md",
+      "status": "active",
+      "machine_number": "13435",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-9",
+      "legacy_section_ids": [
+        "CF-9",
+        "CF-9.1",
+        "CF-9.2",
+        "CF-9.3",
+        "CF-9.4",
+        "CF-9.5",
+        "CF-9.5.1",
+        "CF-9.5.2",
+        "CF-9.6",
+        "CF-9.7",
+        "CF-9.8"
+      ],
+      "legacy_chapter_ids": [
+        "CF-9"
+      ]
+    },
+    {
+      "old_id": "CF-10",
+      "original_file": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
+      "machine_id": "CF-13440",
+      "display_id": "CF-13.440",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "technical specialist forums specialist chambers",
+      "destination_file": "corpus_forum/cf_13440_technical_specialist_forums_specialist_chambers.md",
+      "status": "active",
+      "machine_number": "13440",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-10",
+      "legacy_section_ids": [
+        "CF-10",
+        "CF-10.1",
+        "CF-10.2",
+        "CF-10.3",
+        "CF-10.4",
+        "CF-10.5",
+        "CF-10.6",
+        "CF-10.7",
+        "CF-10.8",
+        "CF-10.9",
+        "CF-10.10",
+        "CF-10.11",
+        "CF-10.12",
+        "CF-10.13",
+        "CF-10.14",
+        "CF-10.15"
+      ],
+      "legacy_chapter_ids": [
+        "CF-10"
+      ]
+    },
+    {
+      "old_id": "CF-11",
+      "original_file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
+      "machine_id": "CF-13445",
+      "display_id": "CF-13.445",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "performance backlog publication accessibility",
+      "destination_file": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md",
+      "status": "active",
+      "machine_number": "13445",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-11",
+      "legacy_section_ids": [
+        "CF-11",
+        "CF-11.1",
+        "CF-11.2",
+        "CF-11.2.1",
+        "CF-11.2.2",
+        "CF-11.2.3",
+        "CF-11.2.4",
+        "CF-11.3",
+        "CF-11.3.1",
+        "CF-11.3.2",
+        "CF-11.3.3",
+        "CF-11.4",
+        "CF-11.5",
+        "CF-11.6",
+        "CF-11.6.1",
+        "CF-11.7",
+        "CF-11.8",
+        "CF-11.9",
+        "CF-11.10"
+      ],
+      "legacy_chapter_ids": [
+        "CF-11"
+      ]
+    },
+    {
+      "old_id": "CF-12",
+      "original_file": "corpus_forum/cf_12_forum_continuity.md",
+      "machine_id": "CF-13450",
+      "display_id": "CF-13.450",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "forum continuity",
+      "destination_file": "corpus_forum/cf_13450_forum_continuity.md",
+      "status": "active",
+      "machine_number": "13450",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-12",
+      "legacy_section_ids": [
+        "CF-12",
+        "CF-12.1",
+        "CF-12.2",
+        "CF-12.3",
+        "CF-12.4",
+        "CF-12.5",
+        "CF-12.6",
+        "CF-12.7",
+        "CF-12.8"
+      ],
+      "legacy_chapter_ids": [
+        "CF-12"
+      ]
+    },
+    {
+      "old_id": "CF-13",
+      "original_file": "corpus_forum/cf_13_fallback_operation.md",
+      "machine_id": "CF-13455",
+      "display_id": "CF-13.455",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "fallback operation",
+      "destination_file": "corpus_forum/cf_13455_fallback_operation.md",
+      "status": "active",
+      "machine_number": "13455",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-13",
+      "legacy_section_ids": [
+        "CF-13",
+        "CF-13.1",
+        "CF-13.2",
+        "CF-13.3",
+        "CF-13.4"
+      ],
+      "legacy_chapter_ids": [
+        "CF-13"
+      ]
+    },
+    {
+      "old_id": "CF-14",
+      "original_file": "corpus_forum/cf_14_emergency_adjudication.md",
+      "machine_id": "CF-13460",
+      "display_id": "CF-13.460",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "emergency adjudication",
+      "destination_file": "corpus_forum/cf_13460_emergency_adjudication.md",
+      "status": "active",
+      "machine_number": "13460",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-14",
+      "legacy_section_ids": [
+        "CF-14",
+        "CF-14.1",
+        "CF-14.2",
+        "CF-14.3",
+        "CF-14.4",
+        "CF-14.5"
+      ],
+      "legacy_chapter_ids": [
+        "CF-14"
+      ]
+    },
+    {
+      "old_id": "CF-15",
+      "original_file": "corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md",
+      "machine_id": "CF-13465",
+      "display_id": "CF-13.465",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "standard records forms evidence artifacts",
+      "destination_file": "corpus_forum/cf_13465_standard_records_forms_evidence_artifacts.md",
+      "status": "active",
+      "machine_number": "13465",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-15",
+      "legacy_section_ids": [
+        "CF-15",
+        "CF-15.1",
+        "CF-15.2",
+        "CF-15.3",
+        "CF-15.4",
+        "CF-15.5",
+        "CF-15.6"
+      ],
+      "legacy_chapter_ids": [
+        "CF-15"
+      ]
+    },
+    {
+      "old_id": "CF-16",
+      "original_file": "corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md",
+      "machine_id": "CF-13470",
+      "display_id": "CF-13.470",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "staffing reserve capacity structural records",
+      "destination_file": "corpus_forum/cf_13470_staffing_reserve_capacity_structural_records.md",
+      "status": "active",
+      "machine_number": "13470",
+      "layer_digit": "4",
+      "legacy_file_label": "CF-16",
+      "legacy_section_ids": [
+        "CF-16",
+        "CF-16.1",
+        "CF-16.1.1",
+        "CF-16.2",
+        "CF-16.3",
+        "CF-16.4",
+        "CF-16.5",
+        "CF-16.6"
+      ],
+      "legacy_chapter_ids": [
+        "CF-16"
+      ]
+    },
+    {
+      "old_id": "`cf_sentience_status_record.md` (unnumbered)",
+      "original_file": "corpus_forum/cf_sentience_status_record.md",
+      "machine_id": "CF-13475",
+      "display_id": "CF-13.475",
+      "layer": "CF",
+      "core_home": "13",
+      "title": "sentience-status adjudication record protocol",
+      "destination_file": "corpus_forum/cf_13475_sentience_status_record.md",
+      "status": "active",
+      "machine_number": "13475",
+      "layer_digit": "4",
+      "legacy_section_ids": [],
+      "legacy_chapter_ids": []
+    },
+    {
+      "old_id": "CI-4",
+      "original_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "machine_id": "CI-14205",
+      "display_id": "CI-14.205",
+      "layer": "CI",
+      "core_home": "14",
+      "title": "appointment competency rotation removal",
+      "destination_file": "corpus_institutions/ci_14205_appointment_competency_rotation_removal.md",
+      "status": "active",
+      "machine_number": "14205",
+      "layer_digit": "2",
+      "legacy_file_label": "CI-4",
+      "legacy_section_ids": [
+        "CI-4",
+        "CI-4.1",
+        "CI-4.2",
+        "CI-4.3",
+        "CI-4.4",
+        "CI-4.5",
+        "CI-4.6",
+        "CI-4.7"
+      ],
+      "legacy_chapter_ids": [
+        "CI-4"
+      ]
+    },
+    {
+      "old_id": "CS-4",
+      "original_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "machine_id": "CS-14305",
+      "display_id": "CS-14.305",
+      "layer": "CS",
+      "core_home": "14",
+      "title": "critical system stewardship",
+      "destination_file": "corpus_systems/cs_14305_critical_system_stewardship.md",
+      "status": "active",
+      "machine_number": "14305",
+      "layer_digit": "3",
+      "legacy_file_label": "CS-4",
+      "legacy_section_ids": [
+        "CS-4",
+        "CS-4.1",
+        "CS-4.2",
+        "CS-4.3",
+        "CS-4.4",
+        "CS-4.5",
+        "CS-4.6",
+        "CS-4.7",
+        "CS-4.8",
+        "CS-4.9",
+        "CS-4.10",
+        "CS-4.10.1",
+        "CS-4.10.2",
+        "CS-4.10.3",
+        "CS-4.10.4",
+        "CS-4.10.5",
+        "CS-4.10.6",
+        "CS-4.10.7",
+        "CS-4.10.8",
+        "CS-4.11",
+        "CS-4.12",
+        "CS-4.13",
+        "CS-4.14",
+        "CS-4.15",
+        "CS-4.16",
+        "CS-4.17",
+        "CS-4.18",
+        "CS-4.19",
+        "CS-4.20"
+      ],
+      "legacy_chapter_ids": [
+        "CS-4"
+      ]
+    },
+    {
+      "old_id": "CJS-4",
+      "original_file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
+      "machine_id": "CJS-18105",
+      "display_id": "CJS-18.105",
+      "layer": "CJS",
+      "core_home": "18",
+      "title": "drafting contracts",
+      "destination_file": "corpus_joint_structure/cjs_18105_drafting_contracts.md",
+      "status": "active",
+      "machine_number": "18105",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-4",
+      "legacy_section_ids": [
+        "CJS-1.7",
+        "CJS-1.8",
+        "CJS-1.8.1"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-1"
+      ]
+    },
+    {
+      "old_id": "CJS-2",
+      "original_file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+      "machine_id": "CJS-18110",
+      "display_id": "CJS-18.110",
+      "layer": "CJS",
+      "core_home": "18",
+      "title": "specific joint interlocks",
+      "destination_file": "corpus_joint_structure/cjs_18110_specific_joint_interlocks.md",
+      "status": "active",
+      "machine_number": "18110",
+      "layer_digit": "1",
+      "legacy_file_label": "CJS-2",
+      "legacy_section_ids": [
+        "CJS-2",
+        "CJS-2.1",
+        "CJS-2.1.1",
+        "CJS-2.1.2",
+        "CJS-2.3",
+        "CJS-2.4",
+        "CJS-2.5"
+      ],
+      "legacy_chapter_ids": [
+        "CJS-2"
+      ]
+    }
+  ],
+  "retired_numbers": [
+    {
+      "layer": "CI",
+      "legacy_id": "CI-2",
+      "status": "retired"
+    },
+    {
+      "layer": "CF",
+      "legacy_id": "CF-2",
+      "status": "retired"
+    }
+  ]
+}

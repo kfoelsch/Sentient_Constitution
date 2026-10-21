@@ -14,9 +14,9 @@ import ch1_cjs3_alignment_audit as audit  # noqa: E402
 TABLE = """\
 | ID | Title | Leg | Aim | Profile | Chapter One § basis | Note |
 |---|---|---|---|---|---|---|
-| **CJS-3.2** / **oDef.2** (*Oversight*) | Oversight | O | F | O·F | Chapter One §15.2, §6, §15.2 | — |
-| **CJS-3.3** / **oDef.3** (*Oversight*) | Oversight | O | F | O·F | Chapter One §18.2, §19.1 | — |
-| **CJS-3.4** / **oDef.4** (*Oversight*) | Oversight | O | F | O·F | — | — |
+| **CJS-5.110 §2** / **oDef.2** (*Oversight*) | Oversight | O | F | O·F | Chapter One §15.2, §6, §15.2 | — |
+| **CJS-5.110 §3 and CJS-5.115 §3** / **oDef.3** (*Oversight*) | Oversight | O | F | O·F | Chapter One §18.2, §19.1 | — |
+| **CJS-5.110 §4** / **oDef.4** (*Oversight*) | Oversight | O | F | O·F | — | — |
 | not a cluster row | x | x | x | x | Chapter One §1 | x |
 """
 
@@ -29,9 +29,9 @@ class LiveMapTests(unittest.TestCase):
             target.parent.mkdir(parents=True)
             target.write_text(TABLE, encoding="utf-8")
             mapping = audit.load_live_cluster_map(root)
-        self.assertEqual(mapping["CJS-3.2"], ["15.2", "6"])
-        self.assertEqual(mapping["CJS-3.3"], ["18.2", "19.1"])
-        self.assertNotIn("CJS-3.4", mapping)
+        self.assertEqual(mapping["CJS-5.110 §2"], ["15.2", "6"])
+        self.assertEqual(mapping["CJS-5.110 §3"], ["18.2", "19.1"])
+        self.assertNotIn("CJS-5.110 §4", mapping)
         self.assertEqual(len(mapping), 2)
 
     def test_missing_file_gives_empty_map(self) -> None:
@@ -41,8 +41,7 @@ class LiveMapTests(unittest.TestCase):
     def test_repo_map_covers_every_numbered_cluster(self) -> None:
         repo = Path(__file__).resolve().parent.parent
         mapping = audit.load_live_cluster_map(repo)
-        for number in range(2, 24):
-            self.assertIn(f"CJS-3.{number}", mapping)
+        self.assertEqual(set(mapping), set(audit.EXPECTED_CLUSTER_IDS))
 
     def test_repo_basis_lines_match_the_map(self) -> None:
         repo = Path(__file__).resolve().parent.parent

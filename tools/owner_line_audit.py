@@ -34,6 +34,7 @@ Two implementation files state their role another way and are listed in
 from __future__ import annotations
 
 import argparse
+import json
 import re
 import sys
 from pathlib import Path
@@ -49,12 +50,12 @@ CHAPTER_WORDS = {
 
 # Files that add no rule: they must say so instead of claiming ownership.
 CORE_NON_OWNER = {
-    "core_09_system_alignment_certification.md",
-    "core_09_c_system_alignment_certification_illustrations.md",
-    "core_10-13_application_vignettes.md",
+    "core_09000_system_alignment_certification.md",
+    "core_09015_system_alignment_certification_illustrations.md",
+    "core_10005_application_vignettes.md",
 }
 # Chapter Six Part A carries the chapter-level claim and does not name "Part A".
-CORE_PART_OPTIONAL = {"core_06_rights_part_a.md"}
+CORE_PART_OPTIONAL = {"core_06005_rights_part_a.md"}
 
 LAYERS = {
     "corpus_forum": ("forum", "CF"),
@@ -69,7 +70,7 @@ IMPL_EXEMPT = {
         r"reader guidance only",
         "reader guide: says it adds no duty",
     ),
-    "corpus_forum/cf_sentience_status_record.md": (
+    "corpus_forum/cf_13475_sentience_status_record.md": (
         r"^This file is the designated implementation text for ",
         "Chapter Five's definition names it the designated implementation text",
     ),
@@ -121,10 +122,24 @@ def strip_markup(line: str) -> str:
 
 
 def chapter_and_part(name: str) -> tuple[int | None, str | None]:
-    m = re.match(r"core_(\d\d)(?:_([a-e])_|_rights_part_([a-e])\b)?", name)
+    m = re.match(r"core_(\d\d)\d{3}(?:_([a-e])_|_rights_part_([a-e])\b)?", name)
+    if not m:
+        # Keep the helper useful for legacy-format audit fixtures and archived samples.
+        m = re.match(r"core_(\d\d)(?:_([a-e])_|_rights_part_([a-e])\b)?", name)
     if not m:
         return None, None
     part = m.group(2) or m.group(3)
+    if part is None:
+        registry = ROOT / "tools/architecture/chapter_numbers.json"
+        if registry.is_file():
+            try:
+                rows = json.loads(registry.read_text(encoding="utf-8"))["chapters"]
+                row = next((r for r in rows if r.get("destination_file") == name), None)
+                original = row.get("original_file", "") if row else ""
+                original_match = re.match(r"core_\d+_([a-e])_", original)
+                part = original_match.group(1) if original_match else None
+            except (OSError, KeyError, ValueError):
+                pass
     return int(m.group(1)), part.upper() if part else None
 
 
@@ -215,7 +230,11 @@ def check_impl(rel: str, text: str) -> tuple[list[str], list[tuple[str, str | No
     if m.group(1) != layer_word:
         findings.append(f"{rel}:{number}: NAV-IMPL-SUBFILE-01: layer word is '{m.group(1)}'; the folder is the {layer_word} layer")
     sentence = first_sentence(m.group(2))
+    # The opening sentence may describe related files after naming this file's
+    # owner. Only its first identifier is the ownership claim; subsequent IDs
+    # in that sentence are contextual references, not duplicate file claims.
     ids = sorted(set(mm.group(0) for mm in ID_RE.finditer(sentence)))
+    ids = ids[:1]
     if not ids:
         findings.append(f"{rel}:{number}: NAV-IMPL-SUBFILE-01: the sentence names no {prefix}-ID")
     headings = heading_texts(text)

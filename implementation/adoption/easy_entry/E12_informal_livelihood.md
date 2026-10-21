@@ -4,10 +4,10 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.10.19`
+> **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -39,43 +39,43 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** There is no formal contract, or the contract is a waiver. Someone says informality means you opted out of rights. No contract, no floor.
 - **With this Constitution:** Anyone who contributes productive work — wages, contracts, platforms, cooperatives, or comparable arrangements — holds fair compensation, collective organization, safe conditions, and rest. Classification tricks designed to defeat that are out.
 
-See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor).
+See: [Article III-C](../../../core_06005_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 **Poverty is not a lawful gate on survival.**
 - **Today:** Being poor is treated as proof you can be priced out of water, shelter, or a clinic. “Unbanked” is used as a lesser tier.
 - **With this Constitution:** How poor or rich you are, what you own, or your social standing cannot be used to close the Rights Floor minimums.
 
-See: [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics); [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival).
+See: [Protected Characteristics](../../../core_05055_band_participation.md#protected-characteristics); [Article III-A](../../../core_06005_rights_part_a.md#article-iii-a-survival).
 
 **The new app is not allowed to be the only door.**
 - **Today:** A new ID wallet, mobile lender, or NGO app is now the gate to water, a stall permit, a remittance, or a clinic queue. A fee or a data-share is the price of staying visible. Modernization means one vendor, opaque formats, and a fee to exit.
 - **With this Constitution:** Leaving, taking your records with you, and systems that can actually work with each other have to work in practice. Tricks that make leaving costly or confusing are violations.
 
-See: [Article XXI](../../../core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXI-C](../../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule).
+See: [Article XXI](../../../core_06020_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXI-C](../../../core_06020_rights_part_d.md#article-xxi-c-anti-lock-in-rule).
 
 **Unpaid care still cannot be the price of staying alive.**
 - **Today:** The household absorbs the clinic queue and the water walk, then the earner is told to “just work more.”
 - **With this Constitution:** Survival floors cannot be conditioned on care labor.
 
-See: [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md); [E02](E02_single_parent.md).
+See: [CI-6.225](../../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md); [E02](E02_single_parent.md).
 
 **Shared arrangements can stay shared.**
 - **Today:** A savings circle or stall cooperative is invisible until it becomes a company.
 - **With this Constitution:** Commons and mutual aid are supposed to remain legible without being forced into only state or corporate form, and cannot hide exclusion.
 
-See: [CI-22](../../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md).
+See: [CI-6.255](../../../corpus_institutions/ci_06255_commons_cooperatives_mutual_aid_non_market_governance.md).
 
 ## What you might reasonably object to
 
 - **“There is no inspector here. Words on a foreign site do nothing.”** Honest. This Constitution binds a body that has agreed to follow it, not a stall, a ministry, or a telco that did not agree. The case is what a payment system, identity stack, or aid platform that agreed would owe you — not a claim that your city has adopted it.
 
-- **“Formalization is how they tax us out.”** The right to start a stall, and to organize with others, is a protection against being frozen out — not a rule that every stall must become a company. Lawful savings circles and mutual aid are not supposed to be treated as a crime ([CI-22](../../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md)). That is not a secret promise that you owe no tax.
+- **“Formalization is how they tax us out.”** The right to start a stall, and to organize with others, is a protection against being frozen out — not a rule that every stall must become a company. Lawful savings circles and mutual aid are not supposed to be treated as a crime ([CI-6.255](../../../corpus_institutions/ci_06255_commons_cooperatives_mutual_aid_non_market_governance.md)). That is not a secret promise that you owe no tax.
 
-- **“If I challenge the app, they will shut the SIM.”** Retaliation against good-faith reports is in the challenge floor ([Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)). Reachability still depends on a body that actually runs that system and has agreed to follow this Constitution.
+- **“If I challenge the app, they will shut the SIM.”** Retaliation against good-faith reports is in the challenge floor ([Article XIII-A](../../../core_06015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)). Reachability still depends on a body that actually runs that system and has agreed to follow this Constitution.
 
-- **“This isn’t our law.”** Correct. It does not override applicable law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). Use inside an existing framework has to stay consistent with that framework.
+- **“This isn’t our law.”** Correct. It does not override applicable law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). Use inside an existing framework has to stay consistent with that framework.
 
-- **“Call this ‘developing world’ and you have already ranked us.”** You do not have to take that label to use this page. This brief is for someone who sells in a market, cooks, builds, drives, cares, or takes platform tasks, with thin public protections and a newly arrived ID, payment, or aid gate. It does not change the Rights Floor that applies to you. The same lock-in and labor patterns appear in rich cities. When work or leaving an app is actually at stake, those rules are located in the sections on [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) and [Article XXI](../../../core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
+- **“Call this ‘developing world’ and you have already ranked us.”** You do not have to take that label to use this page. This brief is for someone who sells in a market, cooks, builds, drives, cares, or takes platform tasks, with thin public protections and a newly arrived ID, payment, or aid gate. It does not change the Rights Floor that applies to you. The same lock-in and labor patterns appear in rich cities. When work or leaving an app is actually at stake, those rules are located in the sections on [Article III-C](../../../core_06005_rights_part_a.md#article-iii-c-labor-and-economic-floor) and [Article XXI](../../../core_06020_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
 
 ## What this will not pretend to give you
 

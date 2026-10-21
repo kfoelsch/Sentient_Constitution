@@ -4,7 +4,7 @@
 
 *Who qualifies for which roles, and how that can be fairly challenged, limited, and restored.*
 
-> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XIX](../../core_06_rights_part_d.md#article-xix-standing-and-participation-status), the official text is what counts.
+> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XIX](../../core_06020_rights_part_d.md#article-xix-standing-and-participation-status), the official text is what counts.
 >
 > A note on "you" and "people": this constitution protects every sentient being it covers, not only humans. Here, "people" means all of them.
 
@@ -54,7 +54,7 @@ Most people will never have a standing record at all, and that's fine.
 
 #### Standing never decides who counts
 
-A standing score, a certification badge, a benefit score, or a product label can **never** be used to decide whether someone is a sentient being with rights. That question has its own separate process ([Article VI-B](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)).
+A standing score, a certification badge, a benefit score, or a product label can **never** be used to decide whether someone is a sentient being with rights. That question has its own separate process ([Article VI-B](../../core_06010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)).
 
 ---|---|
 | **Governance vote** | The big, foundational questions: who governs and under what rules. Everyone's voice counts equally. |
@@ -186,7 +186,7 @@ These are never allowed:
 - sweeping whole broad categories of misconduct into voting bans;
 - lock patterns that end up targeting people by race, sex, disability, or other protected traits, or by stand-ins for them.
 
-**The one exception:** after a **final** finding of the most serious kind of attack on the constitution itself, a person loses their foundational vote **until they've fully made things right**. Even then, the vote can't be withheld just because of poverty, disability, exile, loss of the body or hardware they run on, or uncertainty about how much is owed, if they're making good-faith, ongoing repayment. (Details are in [Chapter Fourteen §4.1](../../core_14_governance.md#41-entitlement-and-eligibility).)
+**The one exception:** after a **final** finding of the most serious kind of attack on the constitution itself, a person loses their foundational vote **until they've fully made things right**. Even then, the vote can't be withheld just because of poverty, disability, exile, loss of the body or hardware they run on, or uncertainty about how much is owed, if they're making good-faith, ongoing repayment. (Details are in [Chapter Fourteen §4.1](../../core_14000_governance.md#41-entitlement-and-eligibility).)
 
 #### Three special locks for serious cases
 
@@ -198,7 +198,7 @@ These are never allowed:
 
 ### Where did the movement and refuge rules go?
 
-The rule that standing can never be used as a border used to be its own part of this article. It now lives in [Article XXII-D](../../core_06_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline), alongside the other rules on moving, finding refuge, and never being left without a country.
+The rule that standing can never be used as a border used to be its own part of this article. It now lives in [Article XXII-D](../../core_06020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline), alongside the other rules on moving, finding refuge, and never being left without a country.
 
 In short: lower standing, or a lock, can never by itself stop you from moving, deny you refuge, trap you in a system, or leave you without any authority that protects your basic rights. Real dangers are handled only through a full, fair justice process.
 

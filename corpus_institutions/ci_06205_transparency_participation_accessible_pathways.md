@@ -1,0 +1,232 @@
+# CI-6.205: Transparency, participation, and accessible challenge and service pathways
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Eighteen](../core_18000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00205_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream:
+  - [CJS-0.110 §3](../corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
+  - [CJS-0.105 §1](../corpus_joint_structure/cjs_00105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [Chapter Eighteen](../core_18000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline;
+  - [Chapter Five](../core_05000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions; and
+  - [Chapter Six](../core_06005_rights_part_a.md#chapter-six-foundational-rights) (6.005) rights architecture where rights interfaces are invoked.
+- Downstream:
+  - [CI-6.205 §1: Stakeholder oversight, notification, and binding-governance pathway integrity](#ci-6205-1-stakeholder-oversight-notification-and-binding-governance-pathway-integrity);
+  - [CI-6.205 §2: Anti-concentration and participation-legitimacy safeguards](#ci-6205-2-anti-concentration-and-participation-legitimacy-safeguards);
+  - [CI-6.205 §3: Digital self-service pathway integrity](#ci-6205-3-digital-self-service-pathway-integrity);
+  - [CI-6.205 §4: Governance disclosure schema](#ci-6205-4-governance-disclosure-schema).
+- Read with:
+  - **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*);
+  - **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*);
+  - **CI-6.205 §2** (*Anti-concentration and participation-legitimacy safeguards*);
+  - **CI-13.210** (*Cross-institution coordination and escalation*);
+  - **CI-6.205 §3** (*Digital self-service pathway integrity*);
+  - **CI-6.210 §2** (*Recurring charges, renewals, and commercial billing integrity*);
+  - **CI-6.210** (*Public revenue, fees, recurring charges, and billing integrity*).
+- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-13.415**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-18.110 §3**.
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-5.110 §6**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Trust Degradation and Misleading Reliance](../core_05040_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05040_band_continuity.md#trust-degradation-and-misleading-reliance) · [M](../core_05040_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../core_05040_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05040_band_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Stakeholder Weight](../core_05055_band_participation.md#stakeholder-weight) · [O](../core_05055_band_participation.md#stakeholder-weight) · [M](../core_05055_band_participation.md#stakeholder-weight-a) · [A](../core_05055_band_participation.md#stakeholder-weight-a) · [C](../core_05055_band_participation.md#stakeholder-weight-c)
+- [Coercion and Manipulation](../core_05055_band_participation.md#coercion-and-manipulation) · [O](../core_05055_band_participation.md#coercion-and-manipulation) · [M](../core_05055_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05055_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05055_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Contestability](../core_05035_band_accountability.md#contestability) · [O](../core_05035_band_accountability.md#contestability) · [M](../core_05035_band_accountability.md#contestability-a) · [A](../core_05035_band_accountability.md#contestability-a) · [C](../core_05035_band_accountability.md#contestability-c)
+- [Accessibility](../core_05055_band_participation.md#accessibility) · [O](../core_05055_band_participation.md#accessibility) · [M](../core_05055_band_participation.md#accessibility-constitutional-a) · [A](../core_05055_band_participation.md#accessibility-constitutional-a) · [C](../core_05055_band_participation.md#accessibility-constitutional-c)
+- [Auditability](../core_05050_band_oversight.md#auditability) · [O](../core_05050_band_oversight.md#auditability) · [M](../core_05050_band_oversight.md#auditability-a) · [A](../core_05050_band_oversight.md#auditability-a) · [C](../core_05050_band_oversight.md#auditability-c)
+- [Transparency](../core_05050_band_oversight.md#transparency) · [O](../core_05050_band_oversight.md#transparency) · [M](../core_05050_band_oversight.md#transparency-a) · [A](../core_05050_band_oversight.md#transparency-a) · [C](../core_05050_band_oversight.md#transparency-c)
+- [Stakeholder](../core_05055_band_participation.md#stakeholder) · [O](../core_05055_band_participation.md#stakeholder) · [M](../core_05055_band_participation.md#stakeholder-a) · [A](../core_05055_band_participation.md#stakeholder-a) · [C](../core_05055_band_participation.md#stakeholder-c)
+- [Dependency](../core_05040_band_continuity.md#dependency) · [O](../core_05040_band_continuity.md#dependency) · [M](../core_05040_band_continuity.md#dependency-a) · [A](../core_05040_band_continuity.md#dependency-a) · [C](../core_05040_band_continuity.md#dependency-c)
+- [Governance](../core_05035_band_accountability.md#governance) · [O](../core_05035_band_accountability.md#governance) · [M](../core_05035_band_accountability.md#governance-a) · [A](../core_05035_band_accountability.md#governance-a) · [C](../core_05035_band_accountability.md#governance-c)
+- [Oversight](../core_05020_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05020_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05020_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05020_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05020_apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05050_band_oversight.md#material) · [O](../core_05050_band_oversight.md#material) · [M](../core_05050_band_oversight.md#material-a) · [A](../core_05050_band_oversight.md#material-a) · [C](../core_05050_band_oversight.md#material-c)
+- [Institutional Charter](../core_05040_band_continuity.md#institutional-charter) · [O](../core_05040_band_continuity.md#institutional-charter) · [M](../core_05040_band_continuity.md#institutional-charter-a) · [A](../core_05040_band_continuity.md#institutional-charter-a) · [C](../core_05040_band_continuity.md#institutional-charter-c)
+- [Binding Stakeholder Choice](../core_05055_band_participation.md#defp2-binding-stakeholder-choice)
+- [Consent](../core_05055_band_participation.md#consent) · [O](../core_05055_band_participation.md#consent) · [M](../core_05055_band_participation.md#consent-constitutional-a) · [A](../core_05055_band_participation.md#consent-constitutional-a) · [C](../core_05055_band_participation.md#consent-constitutional-c)
+- [Corpus](../core_05045_band_integrative.md#corpus) · [O](../core_05045_band_integrative.md#corpus) · [M](../core_05045_band_integrative.md#corpus-a) · [A](../core_05045_band_integrative.md#corpus-a) · [C](../core_05045_band_integrative.md#corpus-c)
+- [Trust](../core_05040_band_continuity.md#trust) · [O](../core_05040_band_continuity.md#trust) · [M](../core_05040_band_continuity.md#trust-a) · [A](../core_05040_band_continuity.md#trust-a) · [C](../core_05040_band_continuity.md#trust-c)
+- [Accountability](../core_05005_apex_accountability_leg.md#accountability) · [O](../core_05005_apex_accountability_leg.md#accountability) · [M](../core_05005_apex_accountability_leg.md#accountability-m) · [A](../core_05005_apex_accountability_leg.md#accountability-a) · [C](../core_05005_apex_accountability_leg.md#accountability-c)
+
+</details>
+
+<br>
+
+Core home: 06
+
+This file is the institutional implementation home for **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*).
+
+*In plain terms: **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*) makes sure sentients can see what an institution is deciding, understand it, have a say before it binds them, and challenge it or leave without retaliation. Shared floors live in the joint structure; this file names what each institution publishes, who owns it, and where problems escalate.*
+
+**Quick orientation**
+- **The basic idea** — apply [Transparency](../core_05050_band_oversight.md#transparency) and [Participation](../core_05025_apex_participation_leg.md#participation) so that:
+  - information is usable, not a wall of documents;
+  - participation routes are practical, not symbolic; and
+  - challenge and escalation routes work without retaliation.
+- **What it rules out** — publishing more pages does not meet these duties if affected sentients still cannot use them. A lawyer, a marathon attention span, or insider status is never the price of:
+  - understanding how a decision will affect you;
+  - weighing in before it binds you;
+  - challenging a bad outcome; or
+  - leaving a service you joined online, without dark patterns.
+- **CI-6.205 §1** — stakeholder notice and binding-governance pathways: when a decision will really affect you, you get timely notice, a real window to weigh in, a published decision path, and a record of what happens next.
+- **CI-6.205 §2** — anti-concentration and participation-legitimacy safeguards: no single voice or bloc should dominate; institutions must publish how participation weighting works and where to escalate when concentration risk appears.
+- **CI-6.205 §3** — digital self-service pathway integrity: sign up, manage, downgrade, renew, and cancel online must be at least as workable as signing up; read with **CI-6.210 §2** (*Recurring charges, renewals, and commercial billing integrity*) where billing applies.
+- **CI-6.205 §4** — governance disclosure schema: one standard periodic report covering scope, risks, incidents, conflicts, remediation, assurance, and sanctions.
+- **Read with:**
+  - **CI-13.210** (*Cross-institution coordination and escalation*) when local challenge pathways fail or stall;
+  - **CF-13.445 §3.1** (*Stage targets and timing floors*), [Chapter Thirteen §6](../core_13000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) for remedy-organ and intake timing floors; and
+  - **CI-6.210** (*Public revenue, fees, recurring charges, and billing integrity*) and **CI-6.210 §2** (*Recurring charges, renewals, and commercial billing integrity*) where charges or recurring billing touch self-service pathways.
+
+*Shared rules live elsewhere:*
+- **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) — **Notification and participation-pathway integrity**; **Stakeholder oversight and binding-governance pathway integrity**.
+- **CJS-5.120 §8** (*Participation: comprehensibility and cognitive accessibility terms*) — **Institutional participation and challenge-pathway accessibility floor**: understandability, participation, challenge, accessibility, protected escalation, and anti-retaliation.
+- **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) — **Representation and participation legitimacy controls** and the anti-concentration floor.
+- **CJS-5.130 §17** (*Continuity: interoperability, portability, and exit-integrity terms*) — **Digital self-service pathway integrity**.
+
+**Apply.** Apply **CJS-5.120 §8** (*Participation: comprehensibility and cognitive accessibility terms*) **Institutional participation and challenge-pathway accessibility floor** for the shared floor. **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*) states only local owner duties:
+- **publication** — what each institution publishes;
+- **office** — who owns each duty;
+- **record** — the records each institution keeps; and
+- **escalation** — the **CI-13.210** (*Cross-institution coordination and escalation*) route when local review fails.
+
+Stewardship-development pathways are owned by **CI-14.205 §5** (*Authorized roles and accountability chains*).
+
+## CI-6.205 §1: Stakeholder oversight, notification, and binding-governance pathway integrity
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with:
+  - **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*);
+  - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*);
+  - [Def.P2 Binding Stakeholder Choice](../core_05055_band_participation.md#defp2-binding-stakeholder-choice);
+  - [Institutional Charter](../core_05040_band_continuity.md#institutional-charter).
+
+</details>
+
+<br>
+
+*In plain terms: when an institution asks for your input on something that will really bind you, it must say so clearly — who counts as affected, how long you have to respond, what happens to your submission, and what exit or adaptation consequences the decision may create. Symbolic consultation does not count as binding governance, and binding governance cannot be hidden as optional feedback.*
+
+Apply **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*) **Stakeholder oversight and binding-governance pathway integrity** for the shared floor. **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) keeps only what each institution must name and maintain locally:
+
+- who owns **stakeholder-status** identification for each materially binding governance pathway in scope;
+- a **participation-window file** showing open and close timing, eligible participants, and practical engagement routes for each binding decision event;
+- a **notice record** proving timely notice of binding-governance pathway status, decision scope, and material exit or adaptation effects before outcomes harden;
+- published **decision-path** material explaining whether input is advisory, binding, or otherwise relied on for governance effect; and
+- the escalation route when notice, participation, or reconstruction duties fail — including **CI-13.210** (*Cross-institution coordination and escalation*) where local review is conflicted or unavailable.
+
+Where [Def.P2 Binding Stakeholder Choice](../core_05055_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Institutional Charter](../core_05040_band_continuity.md#institutional-charter) must point to these materials under **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 9. The Institutional Charter points; this file and related Def.P2-compliant rules carry the substance.
+
+**What the local participation-window file must name**
+
+- affected-class criteria and coverage gaps disclosed before binding action;
+- participation or review rights that follow from identified stakeholder status;
+- challenge and correction paths, including protected escalation and anti-retaliation routing under **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*);
+- records of submissions, reasons, dissent, and alternative proposals where high-impact choice is implicated;
+- privacy or security limits on publication, with redaction rules that do not destroy reconstructability;
+- transition, adaptation, downgrade, transfer, or exit implications created by the decision; and
+- the Institutional Charter version that currently points to this file where Def.P2 admission scope applies.
+
+## CI-6.205 §2: Anti-concentration and participation-legitimacy safeguards
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with:
+  - **CI-6.205 §2** (*Anti-concentration and participation-legitimacy safeguards*);
+  - **CI-13.210** (*Cross-institution coordination and escalation*);
+  - **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*);
+  - [Def.P2 Binding Stakeholder Choice](../core_05055_band_participation.md#defp2-binding-stakeholder-choice);
+  - [Institutional Charter](../core_05040_band_continuity.md#institutional-charter);
+  - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+
+</details>
+
+<br>
+
+*In plain terms: institutions must watch whether participation is getting captured or dominated — by a single stakeholder class, a concentration of weight, or informal power — and publish how weighting works, what triggers remediation, and where to escalate through **CI-13.210** (*Cross-institution coordination and escalation*) when the fix stalls.*
+
+Apply **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) **Representation and participation legitimacy controls** and **CJS-5.120 §8** (*Participation: comprehensibility and cognitive accessibility terms*) **Institutional participation and challenge-pathway accessibility floor** for the shared concentration and participation-legitimacy floors. **CI-6.205 §2** (*Anti-concentration and participation-legitimacy safeguards*) keeps only what each institution must name and maintain locally:
+
+- who owns the **concentration monitor** for participation-weight and legitimacy risk in the institution's governance pathways;
+- a **weighting publication file** explaining how **Stakeholder Weight** is assigned, bounded, and revalidated;
+- published **concentration indicators and thresholds** tied to lasting control, dependency concentration, interface gatekeeping, or dominance-prone weighting;
+- a **remediation trigger** and response path when thresholds are crossed or credibly approached; and
+- the **CI-13.210** (*Cross-institution coordination and escalation*) escalation route when local remediation stalls, is captured, or cannot act independently.
+
+Where [Def.P2 Binding Stakeholder Choice](../core_05055_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Institutional Charter](../core_05040_band_continuity.md#institutional-charter) must point to the weighting publication file under **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) field 9. The Institutional Charter points; this file carries the weighting substance under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+
+**What the local weighting publication file must name**
+
+- factors, anti-dominance limits, and revalidation cadence for each weighted participation rule in scope;
+- affected-class coverage and how representation gaps are recorded before binding action;
+- dissent, alternative, and reopening records where high-impact collective choice is implicated;
+- remediation actions taken, completion status, and escalation records;
+- linkage to stakeholder-notice and binding-pathway duties under **CI-6.205 §1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*) where weighting affects materially binding governance; and
+- the Institutional Charter version that currently points to this file where Def.P2 admission scope applies.
+
+## CI-6.205 §3: Digital self-service pathway integrity
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with:
+  - **CI-6.205 §3** (*Digital self-service pathway integrity*);
+  - **CI-6.210 §2** (*Recurring charges, renewals, and commercial billing integrity*);
+  - **CI-6.210** (*Public revenue, fees, recurring charges, and billing integrity*);
+  - **CJS-5.130 §17** (*interoperability, portability, and exit-integrity terms*).
+
+</details>
+
+<br>
+
+*In plain terms: if you can subscribe online, you should be able to manage, downgrade, renew, or cancel through the same kind of self-service path — without dark patterns, hidden phone-only exits, or billing that keeps running after you thought you left. Institutions that supervise those services must name who watches operators and how billing complaints route to **CI-6.210 §2** (*Recurring charges, renewals, and commercial billing integrity*).*
+
+Apply **CJS-5.130 §17** (*Continuity: interoperability, portability, and exit-integrity terms*) **Digital self-service pathway integrity** for the shared floor. **CI-6.205 §3** (*Digital self-service pathway integrity*) keeps only what each institution must name and maintain locally:
+
+- who owns **digital pathway supervision** for user-facing self-service enrollment, account management, downgrade, renewal, and exit in scope the institution supervises, authorizes, or sets compliance expectations for;
+- an **operator-artifact file** showing how supervised operators map entry, management, downgrade, renewal, accessibility, and exit paths — including evidence of obligation release or billing cessation where applicable;
+- an **offense-routing interface** linking self-service pathway failures, dark-pattern allegations, deceptive retention, and access-blocking complaints to **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-13.205** (*Procedure integrity, contestability, and secondary review*), **CI-13.210** (*Cross-institution coordination and escalation*), **CI-6.210 §2** (*Recurring charges, renewals, and commercial billing integrity*), and **CI-11.210** (*Institutional failure and dissolution*) as the facts require; and
+- a published **CI-6.210 §2** (*Recurring charges, renewals, and commercial billing integrity*) billing-interface read-with where recurring or transaction-linked charges apply to the same self-service channels.
+
+Each supervised self-service pathway class must appear in the local operator-artifact file with:
+
+- self-service pathway class and supervised scope;
+- accountable operator or platform;
+- class and tier assignment under **CI-9.210** (*Classification-linked institutional obligations*) where dependency scales assurance burden;
+- attestation artifacts and review cadence;
+- accessibility parity and accommodation routing under **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*) and **CI-6.220** (*Neurodiversity, disability justice, and trauma-informed participation*); and
+- the billing and exit complaint route — including coordination with **CI-6.210 §2** (*Recurring charges, renewals, and commercial billing integrity*) where charges apply.
+
+---
+
+## CI-6.205 §4: Governance disclosure schema
+
+*In plain terms: every institution must publish a standard governance report on a fixed schedule — not a marketing brochure, but a checklist covering what it oversees, what went wrong, what it is fixing, who had conflicts, and what outside reviewers or supervisors found.*
+
+Institutions must publish a standard governance report on a fixed cadence.
+
+Minimum required fields:
+- institutional scope and class/tier coverage,
+- risk profile summary,
+- material controls declaration,
+- material incidents and current status,
+- conflict and related-party disclosures,
+- remediation actions and completion status,
+- external assurance outcomes,
+- sanctions and supervisory actions.
+
+---
+
+**Previous file:** [ci_08215_oversight_assurance_controls_evidence.md](ci_08215_oversight_assurance_controls_evidence.md)
+
+**Next file:** [ci_09210_classification_linked_institutional_obligations.md](ci_09210_classification_linked_institutional_obligations.md)

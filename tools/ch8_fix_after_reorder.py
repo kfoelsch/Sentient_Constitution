@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH8 = ROOT / "core_09_a_system_alignment_certification_evaluation.md"
+CH8 = ROOT / "core_09005_system_alignment_certification_evaluation.md"
 
 HEADING_ANCHORS: list[tuple[str, list[str]]] = [
     (

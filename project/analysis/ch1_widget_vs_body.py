@@ -1,6 +1,6 @@
 import re,json,collections
 P=json.load(open('/tmp/an/prin.json'))
-home=open('core_05__definitions_home.md').read()
+home=open('core_05000_definitions_home.md').read()
 lab={m.group(3):m.group(1) for m in re.finditer(r'\[([^\]]+)\]\((core_05[^)#]*)#([^)]+)\)',home)}
 def canon(a):
     if a in lab: return lab[a]

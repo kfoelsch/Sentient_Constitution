@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "cs4_inspectable_action_log.schema.json",
-  "title": "CS-4 §10 inspectable attributable action log",
-  "description": "Machine-checkable form of the CS-4 §10 five-element set. Same schema for human and AI stewards. Binding home: corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action. This file is a validating schema, not a standing record. Timestamps against Chapter Thirteen §6 / Article XXVI-C tier clocks are required when a numeric bound applies.",
+  "title": "CS-14.305 §10 inspectable attributable action log",
+  "description": "Machine-checkable form of the CS-14.305 §10 five-element set. Same schema for human and AI stewards. Binding home: corpus_systems/cs_14305_critical_system_stewardship.md#10-inspectable-attributable-action. This file is a validating schema, not a standing record. Timestamps against Chapter Thirteen §6 / Article XXVI-C tier clocks are required when a numeric bound applies.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -36,7 +36,7 @@
         "role": { "type": "string" },
         "seat_type": {
           "$ref": "#/$defs/seat_type",
-          "description": "Optional CI-4.6 seat type the steward held on this act."
+          "description": "Optional CI-14.205 §6 seat type the steward held on this act."
         }
       }
     },
@@ -101,11 +101,11 @@
             "role": { "type": "string" },
             "seat_type": {
               "$ref": "#/$defs/seat_type",
-              "description": "Optional CI-4.6 seat type under which the act was authorized."
+              "description": "Optional CI-14.205 §6 seat type under which the act was authorized."
             },
             "routed_to_seat_type": {
               "$ref": "#/$defs/seat_type",
-              "description": "Optional. When the step was declined as outside the steward's seat (CI-4.6 wrong-seat rule), the seat type it was routed to."
+              "description": "Optional. When the step was declined as outside the steward's seat (CI-14.205 §6 wrong-seat rule), the seat type it was routed to."
             },
             "timestamp": { "type": "string", "minLength": 1 }
           }
@@ -161,7 +161,7 @@
   "$defs": {
     "seat_type": {
       "type": "string",
-      "description": "CI-4.6 seat catalog: corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog.",
+      "description": "CI-14.205 §6 seat catalog: corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-46-seat-catalog.",
       "enum": [
         "initiating",
         "verify_or_authorize",

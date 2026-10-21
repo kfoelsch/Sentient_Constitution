@@ -4,10 +4,10 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.10.19`
+> **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -39,43 +39,43 @@ If a clinic, hospital, care home, or other body that actually runs the systems i
 - **Today:** After a certain age, or after a diagnosis, your say is treated as already gone. Someone suggests that once daily things are harder, consent is a formality.
 - **With this Constitution:** How much you may do yourself follows what you can actually show, including when that showing changes. “For your own good” still does not, by itself, pass the tests a limit must meet.
 
-See: [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
+See: [Article VIII-D](../../../core_06010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
 
 **Help with one hard thing is not a key to every decision.**
 - **Today:** Once they help with the bills, they keep the cards, the lease, who you may see, and which clinician. Nobody sets a time to check whether you can take those decisions back.
 - **With this Constitution:** If someone has to decide a thing you cannot currently carry, that step has to be only that thing, the smallest needed, time-limited, and looked at again. It cannot become a standing substitute for your say.
 
-See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §13.1.5](../../../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+See: [Article VII-A](../../../core_06010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §13.1.5](../../../core_01010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 **Wishes and palliative routing have an owner.**
 - **Today:** Whoever is in the room holds the file. An advance wish is treated as outdated because it is inconvenient.
 - **With this Constitution:** A body that has agreed to follow this Constitution has to name who holds advance directives, who routes palliative access, and who enforces control of your image after death.
 
-See: [CI-17](../../../corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md).
+See: [CI-6.230](../../../corpus_institutions/ci_06230_end_of_life_continuity_memorial_dignity_posthumous_data.md).
 
 **Support is not supposed to become separation.**
 - **Today:** The “help” starts to decide money, housing, who you see, which clinician, whether you stay in the relationship you have. The “safe” placement is a durable break from the care relationship you actually have.
 - **With this Constitution:** A lasting split from someone you depend on — who you live with, who you see, who cares for you — cannot be the default “help.” It is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again. A short distance with a real way back, or a split you freely choose, is different.
 
-See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation).
+See: [Article VIII-A](../../../core_06010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05055_band_participation.md#non-separation).
 
 **Process still has to be usable.**
 - **Today:** Hearings and portals assume the energy and speed you used to have, then treat a missed form as consent.
 - **With this Constitution:** Supported decision-making and alternatives that do not pile trauma on are part of usable participation.
 
-See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md).
+See: [CI-6.220](../../../corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md).
 
 ## What you might reasonably object to
 
-- **“They’ll take the house / the accounts / the children.”** Family convenience is not a finding about your interests, and a concern report is not an official record of verified help or harm ([Chapter Ten §2.1](../../../core_10_standing_assessment.md#21-silence-is-the-default)). Verified harm, if it exists, still has to be verified in the right role. This text will not freeze what you used to be able to do either: if you cannot currently do a thing, the text will not pretend you can.
+- **“They’ll take the house / the accounts / the children.”** Family convenience is not a finding about your interests, and a concern report is not an official record of verified help or harm ([Chapter Ten §2.1](../../../core_10000_standing_assessment.md#21-silence-is-the-default)). Verified harm, if it exists, still has to be verified in the right role. This text will not freeze what you used to be able to do either: if you cannot currently do a thing, the text will not pretend you can.
 
-- **“I already wrote down what I want. Why isn’t that enough?”** Advance wishes are supposed to have a named holder under CI-17. They are not a magic override of a later verified safety showing, and they are not supposed to be discarded because they slow someone else down.
+- **“I already wrote down what I want. Why isn’t that enough?”** Advance wishes are supposed to have a named holder under CI-6.230. They are not a magic override of a later verified safety showing, and they are not supposed to be discarded because they slow someone else down.
 
-- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, guardianship, or family law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, guardianship, or family law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 - **“If I refuse help, they’ll say that proves I lack capacity.”** Refusal of a conditioned offer is not, by itself, a verified incapacity finding. That is the same pattern [E01](E01_pregnant_reproducing.md) names in a different scene.
 
-- **“I’m not ‘developing.’ Don’t use the child article on me.”** You do not have to be classed as a child to use this page. This brief is for someone facing age-related challenges, or any change in remembering, stamina, or keeping up with decisions. It does not change the Rights Floor that applies to you. Birthday and diagnosis are not stand-ins for what you can actually do. You still hold [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) self-ownership. The rules this brief uses — what you can actually do, not a birthday — are located in the section on [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
+- **“I’m not ‘developing.’ Don’t use the child article on me.”** You do not have to be classed as a child to use this page. This brief is for someone facing age-related challenges, or any change in remembering, stamina, or keeping up with decisions. It does not change the Rights Floor that applies to you. Birthday and diagnosis are not stand-ins for what you can actually do. You still hold [Article VII-A](../../../core_06010_rights_part_b.md#article-vii-a-self-ownership-of-body) self-ownership. The rules this brief uses — what you can actually do, not a birthday — are located in the section on [Article VIII-D](../../../core_06010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
 
 ## What this will not pretend to give you
 

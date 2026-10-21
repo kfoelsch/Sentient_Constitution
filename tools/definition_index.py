@@ -1,4 +1,4 @@
-"""Shared index builders for Chapter Five and CJS-3 operational definitions."""
+"""Shared index builders for Chapter Five and operational definitions."""
 
 from __future__ import annotations
 
@@ -23,23 +23,25 @@ from ch5_single_definition_audit import (  # noqa: E402
 from cjs_odef_format import guidepost_complete  # noqa: E402
 
 CJS3_FILES = (
-    "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
-    "corpus_joint_structure/cjs_03o_oversight_operations.md",
-    "corpus_joint_structure/cjs_03p_participation_operations.md",
-    "corpus_joint_structure/cjs_03a_accountability_operations.md",
-    "corpus_joint_structure/cjs_03c_continuity_operations.md",
-    "corpus_joint_structure/cjs_03i_integrative_operations.md",
+    "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md",
+    "corpus_joint_structure/cjs_05110_oversight_operations.md",
+    "corpus_joint_structure/cjs_05120_participation_operations.md",
+    "corpus_joint_structure/cjs_05125_accountability_operations.md",
+    "corpus_joint_structure/cjs_05130_continuity_operations.md",
+    "corpus_joint_structure/cjs_05135_integrative_operations.md",
 )
-CJS3_PROCESS_HOME = "corpus_joint_structure/cjs_03u_audit_process.md"
+CJS3_PROCESS_HOME = "corpus_joint_structure/cjs_05115_audit_process.md"
 
 CH01_FILES = (
-    "core_00_preamble.md",
-    "core_01_a_values_principles.md",
-    "core_01_b_interaction_interpretation.md",
-    "core_01_c_stewardship_capacity_principles.md",
+    "core_00000_preamble.md",
+    "core_01005_values_principles.md",
+    "core_01010_interaction_interpretation.md",
+    "core_01015_stewardship_capacity_principles.md",
 )
 
-CLUSTER_HEADING_RE = re.compile(r"^##\s+(CJS-3\.\d+)\s+(.+)$")
+CLUSTER_HEADING_RE = re.compile(
+    r"^##\s+(CJS-5\.(?:110|115|120|125|130|135)\s+§\d+)\s+(.+)$"
+)
 CH5_LINK_RE = re.compile(
     r"(?:core_05[a-z_\-]+\.md|Chapter Five|chapter five)",
     re.I,
@@ -53,8 +55,8 @@ DAC_WIDGET_RE = re.compile(
     r"^- \[([^\]]+)\]\([^)]+\) · \[O\]\([^)]+\) · \[M\]\([^)]+\) · \[A\]\([^)]+\) · \[C\]\([^)]+\)",
     re.MULTILINE,
 )
-ODEF_CITE_RE = re.compile(r"\b(?:oDef|CJS-3)\.(\d+)\b")
-CJS3_FILE_LINK_RE = re.compile(r"cjs_03[a-z0-9_]*\.md(?:#[a-z0-9\-]+)?", re.I)
+ODEF_CITE_RE = re.compile(r"\boDef\.(\d+)\b")
+CJS3_FILE_LINK_RE = re.compile(r"cjs_05[a-z0-9_]*\.md(?:#[a-z0-9\-]+)?", re.I)
 LETTER_O_RE = re.compile(r"^- O:", re.MULTILINE)
 LETTER_M_RE = re.compile(r"^- M:", re.MULTILINE)
 LETTER_A_RE = re.compile(r"^- A:", re.MULTILINE)
@@ -397,7 +399,7 @@ def collect_cjs3_clusters(root: Path) -> list[Cjs3Cluster]:
     if process_path.is_file():
         extra = process_path.read_text(encoding="utf-8")
         for cluster in clusters:
-            if cluster.cluster_id != "CJS-3.3":
+            if cluster.cluster_id != "CJS-5.110 §3":
                 continue
             cluster.body = f"{cluster.body}\n\n{extra}"
             cluster.ch5_links = sorted(set(cluster.ch5_links + _extract_ch5_links(extra)))
@@ -405,7 +407,7 @@ def collect_cjs3_clusters(root: Path) -> list[Cjs3Cluster]:
             if extra_read:
                 cluster.read_with = list(dict.fromkeys([*cluster.read_with, *extra_read]))
             process_cluster = Cjs3Cluster(
-                cluster_id="CJS-3.3",
+                cluster_id="CJS-5.110 §3",
                 title=cluster.title,
                 file=CJS3_PROCESS_HOME,
                 start_line=1,
@@ -433,7 +435,7 @@ def collect_ch1_principles(root: Path) -> list[PrincipleRecord]:
         for pos, (start_idx, section, title) in enumerate(starts):
             end_idx = starts[pos + 1][0] if pos + 1 < len(starts) else len(lines)
             body = "\n".join(lines[start_idx + 1 : end_idx])
-            if rel == "core_00_preamble.md":
+            if rel == "core_00000_preamble.md":
                 section = f"Preamble §{section}"
             principles.append(
                 PrincipleRecord(
@@ -460,7 +462,7 @@ def extract_ch5_term_cites(text: str) -> list[str]:
 
 
 def extract_odef_cites(text: str) -> list[str]:
-    cites = {f"CJS-3.{number}" for number in ODEF_CITE_RE.findall(text)}
+    cites = {f"oDef.{number}" for number in ODEF_CITE_RE.findall(text)}
     cites.update(CJS3_FILE_LINK_RE.findall(text))
     return sorted(cites)
 
@@ -476,15 +478,15 @@ def ch5_term_lookup(entries: list[Ch5Entry]) -> dict[str, Ch5Entry]:
 # Tetrad leg heads live in apex files as letter-form O/M/A/C without #### titles,
 # so collect_ch5_entries does not index them. Surface them for creep / anti-redefinition checks.
 TETRAD_APEX_HEADS: tuple[tuple[str, str, str], ...] = (
-    ("Participation", "core_05_apex_participation_leg.md", "#participation-constitutional"),
-    ("Oversight", "core_05_apex_oversight_leg.md", "#oversight-constitutional"),
-    ("Accountability", "core_05_apex_accountability_leg.md", "#accountability"),
-    ("Timeliness", "core_05_apex_timeliness_leg.md", "#timeliness-constitutional"),
+    ("Participation", "core_05025_apex_participation_leg.md", "#participation-constitutional"),
+    ("Oversight", "core_05020_apex_oversight_leg.md", "#oversight-constitutional"),
+    ("Accountability", "core_05005_apex_accountability_leg.md", "#accountability"),
+    ("Timeliness", "core_05030_apex_timeliness_leg.md", "#timeliness-constitutional"),
 )
 AIM_APEX_HEADS: tuple[tuple[str, str, str], ...] = (
-    ("Flourishing", "core_05_apex_flourishing_aim.md", "#flourishing-constitutional"),
-    ("Continuity", "core_05_apex_continuity_aim.md", "#continuity-aim-constitutional"),
-    ("Continuity (Constitutional Aim)", "core_05_apex_continuity_aim.md", "#continuity-aim-constitutional"),
+    ("Flourishing", "core_05015_apex_flourishing_aim.md", "#flourishing-constitutional"),
+    ("Continuity", "core_05010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
+    ("Continuity (Constitutional Aim)", "core_05010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
 )
 
 

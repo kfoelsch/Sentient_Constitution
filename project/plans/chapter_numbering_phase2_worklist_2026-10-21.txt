@@ -1,0 +1,234 @@
+registry: 117 rows (43 core, 74 corpus)
+operative text files scanned: 564; legacy file-name occurrences: 29907; uniquely mappable chapter-id occurrences: 10922
+shared legacy ids/sections requiring file-qualified resolution: 8; real source anchors indexed: 744
+  AMBIGUOUS CI-11:
+    corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md -> CI-002101
+    corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md -> CI-06215
+  AMBIGUOUS CI-12:
+    corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md -> CI-002102
+    corpus_institutions/ci_12_cross_institution_coordination_escalation.md -> CI-13210
+  AMBIGUOUS CJS-1:
+    corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md -> CJS-00110
+    corpus_joint_structure/cjs_05_odef_parse_mechanics.md -> CJS-05140
+    corpus_joint_structure/cjs_06_support_hosting_classification.md -> CJS-08105
+    corpus_joint_structure/cjs_04_drafting_contracts.md -> CJS-18105
+  AMBIGUOUS CJS-3:
+    corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md -> CJS-05105
+    corpus_joint_structure/cjs_03o_oversight_operations.md -> CJS-05110
+    corpus_joint_structure/cjs_03u_audit_process.md -> CJS-05115
+    corpus_joint_structure/cjs_03p_participation_operations.md -> CJS-05120
+    corpus_joint_structure/cjs_03a_accountability_operations.md -> CJS-05125
+    corpus_joint_structure/cjs_03c_continuity_operations.md -> CJS-05130
+    corpus_joint_structure/cjs_03i_integrative_operations.md -> CJS-05135
+  AMBIGUOUS CJS-33:
+    corpus_joint_structure/cjs_03o_oversight_operations.md -> CJS-051103
+    corpus_joint_structure/cjs_03u_audit_process.md -> CJS-051153
+  AMBIGUOUS CS-10:
+    corpus_systems/cs_01_scope_purpose_identifier_rules.md -> CS-003100
+    corpus_systems/cs_10_transition_constitution_migration_governance.md -> CS-06350
+  AMBIGUOUS CS-2:
+    corpus_systems/cs_02_a_information_types_and_handling.md -> CS-06305
+    corpus_systems/cs_02_b_data_classifications.md -> CS-06310
+  AMBIGUOUS CS-3:
+    corpus_systems/cs_03_a_system_classification_machinery.md -> CS-09305
+    corpus_systems/cs_03_b_system_impact_classifications.md -> CS-09310
+range/list expressions for manual review: 78
+  doc_architecture.md:836: **Twenty-sixth move (dissolution and forced-contraction procedure in CI-13; two chart boxes added; 2026-10-15).** Decision (custodian, asked in session, "draft and insert"; uncommitted): CI-13 had a trigger floor and cooperation duties but no ordered steps, clocks, or definitions for the measures th
+  doc_architecture.md:838: **Twenty-seventh move (practice clearance added to Article XI-E; Class P four-seat exemption; Chapter Seven §1 chart reordered; 2026-10-15).** Decision (custodian, asked in session; uncommitted): professional certifications and licences are handled as a *practice clearance*, a Competency Clearance (
+  doc_architecture.md:870: **Forty-third move (CS-4 rewritten in plain language; header numbering fixed; 2026-10-18).** Decision (custodian, asked in session; uncommitted): (1) `corpus_systems/cs_04_critical_system_stewardship.md` is rewritten for general readers: shorter sentences, bullets where items are parallel, and a new
+  doc_architecture.md:914: **Sixty-fifth move (CI-13 split into CI-13 and CI-28; 2026-10-19).** Decision (steward, in session): CI-13 held two questions in one file of about 51 KB, so it is split into failure and dissolution, and accountability and sanctions. (1) **CI-13** is now *Institutional failure and dissolution* (`ci_1
+  doc_architecture.md:918: **Sixty-seventh move (CS-5 split into CS-5 System lifecycle and CS-13 System requirements; 2026-10-20).** Decision (custodian, asked in session; uncommitted): CS-5 carried two unrelated topics under one number and two titles, so the family was split. Retitle: **CS-5** is now *System lifecycle* (desi
+  doc_architecture.md:978: **Domain-interface local-duty pattern (CI-15–CI-25).** Domain CI files do not restate CJS-3, Chapter Five, or Chapter Six floors as if they originated here. After the file gloss they use:
+  doc_architecture.md:984: CS-5–CS-13 and CF specialist / continuity files use a lighter version of the same split: one purpose sentence, then what this file adds versus what it cites.
+  corpus_joint_structure.md:76: | CJS-1.7–CJS-1.8.1: Drafting contracts and owner-to-CJS seam | [cjs_04_drafting_contracts.md](corpus_joint_structure/cjs_04_drafting_contracts.md) |
+  corpus_joint_structure.md:82: | CJS-1.13–CJS-1.14: oDef parse mechanics | [cjs_05_odef_parse_mechanics.md](corpus_joint_structure/cjs_05_odef_parse_mechanics.md) |
+  corpus_joint_structure.md:89: | CJS-1.9–CJS-1.11: Support roles, hosting independence, and classification alignment | [cjs_06_support_hosting_classification.md](corpus_joint_structure/cjs_06_support_hosting_classification.md) |
+  corpus_joint_structure.md:97: | CJS-3.2–CJS-3.6 / oDef.2–oDef.6: Oversight leg clusters | [cjs_03o_oversight_operations.md](corpus_joint_structure/cjs_03o_oversight_operations.md) |
+  corpus_joint_structure.md:98: | CJS-3.7–CJS-3.10 / oDef.7–oDef.10: Participation leg clusters | [cjs_03p_participation_operations.md](corpus_joint_structure/cjs_03p_participation_operations.md) |
+  corpus_joint_structure.md:99: | CJS-3.11–CJS-3.15 / oDef.11–oDef.15: Accountability leg clusters | [cjs_03a_accountability_operations.md](corpus_joint_structure/cjs_03a_accountability_operations.md) |
+  corpus_joint_structure.md:100: | CJS-3.16–CJS-3.21 / oDef.16–oDef.21: Continuity aim clusters | [cjs_03c_continuity_operations.md](corpus_joint_structure/cjs_03c_continuity_operations.md) |
+  corpus_joint_structure.md:101: | CJS-3.22–CJS-3.23 / oDef.22–oDef.23: Integrative cross-leg clusters | [cjs_03i_integrative_operations.md](corpus_joint_structure/cjs_03i_integrative_operations.md) |
+  corpus_joint_structure/cjs_03o_oversight_operations.md:1: # Oversight leg (CJS-3.2–CJS-3.6) / oDef.2–oDef.6
+  corpus_joint_structure/cjs_03o_oversight_operations.md:6: > This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Oversight leg 
+  corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md:358: | **Oversight leg** | [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md) | **oDef.2–oDef.6** (**CJS-3.2–CJS-3.6**) |
+  corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md:359: | **Participation leg** | [cjs_03p_participation_operations.md](cjs_03p_participation_operations.md) | **oDef.7–oDef.10** (**CJS-3.7–CJS-3.10**) |
+  corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md:360: | **Accountability leg** | [cjs_03a_accountability_operations.md](cjs_03a_accountability_operations.md) | **oDef.11–oDef.15** (**CJS-3.11–CJS-3.15**) |
+  corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md:361: | **Continuity aim** | [cjs_03c_continuity_operations.md](cjs_03c_continuity_operations.md) | **oDef.16–oDef.21** (**CJS-3.16–CJS-3.21**) |
+  corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md:362: | **Integrative cross-leg** | [cjs_03i_integrative_operations.md](cjs_03i_integrative_operations.md) | **oDef.22–oDef.23** (**CJS-3.22–CJS-3.23**) |
+  corpus_joint_structure/cjs_03p_participation_operations.md:1: # Participation leg (CJS-3.7–CJS-3.10) / oDef.7–oDef.10
+  corpus_joint_structure/cjs_03p_participation_operations.md:6: > This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Participation 
+  corpus_joint_structure/cjs_04_drafting_contracts.md:1: # CJS-1.7–CJS-1.8.1: Drafting contracts and owner-to-CJS seam
+  corpus_joint_structure/cjs_03i_integrative_operations.md:1: # Integrative cross-leg operations (CJS-3.22–CJS-3.23) / oDef.22–oDef.23
+  corpus_joint_structure/cjs_03i_integrative_operations.md:6: > This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Integrative cr
+  corpus_joint_structure/cjs_05_odef_parse_mechanics.md:1: # CJS-1.13–CJS-1.14: oDef parse mechanics
+  corpus_joint_structure/cjs_06_support_hosting_classification.md:1: # CJS-1.9–CJS-1.11: Support roles, hosting independence, and classification alignment
+  corpus_joint_structure/cjs_03a_accountability_operations.md:1: # Accountability leg (CJS-3.11–CJS-3.15) / oDef.11–oDef.15
+  corpus_joint_structure/cjs_03a_accountability_operations.md:6: > This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Accountability
+  corpus_joint_structure/cjs_03c_continuity_operations.md:1: # Continuity aim operations (CJS-3.16–CJS-3.21) / oDef.16–oDef.21
+  corpus_joint_structure/cjs_03c_continuity_operations.md:6: > This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Eighteen](../core_18_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **Continuity aim
+  tools/ci_cjs_relocation_audit.py:29: "CJS-3.5–CJS-3.8 / CJS-2.1 / CJS-2.5",
+  tools/ci_cjs_relocation_audit.py:46: "CJS-3.22–CJS-3.12",
+  tools/ci_cjs_relocation_audit.py:62: "CJS-3.13–CJS-3.4",
+  tools/ci_cjs_relocation_audit.py:77: "CJS-3.16–CJS-3.18",
+  tools/ci_cjs_relocation_audit.py:91: "CJS-3.19–CJS-3.53",
+  tools/definition_appropriateness_audit.py:355: expected_layer="CJS-3.2–CJS-3.23 inventory",
+  tools/best_practices_check.py:63: internal_anchor="SC Ch 11; Art XXIV; Ch 6 sec. 5; CI-3 to CI-8",
+  tools/best_practices_check.py:72: proposed_close="Add a one-page incompatibility matrix keyed to CI-3 through CI-8 and CI-7/7A/7B routing.",
+  tools/best_practices_check.py:108: internal_anchor="SC Ch 1 sec. 7; Arts XIII-XVI, XXI-XXI; CI-3, CI-7; CS-5; CS-3–CS-4",
+  tools/best_practices_check.py:153: internal_anchor="Arts XIII-XVII, XXI-XXI; CS-5, CS-6, CS-11, CS-12; CS-2–CS-4",
+  tools/cjs_operational_cluster_audit.py:215: "use numeric CJS-3.5–CJS-3.53 IDs."
+  corpus_systems/cs_00_registry_and_reading_rules.md:40: > - Technical requirements map primarily to **CJS-3.2–CJS-3.6** (*Oversight leg*), **CJS-3.7–CJS-3.10** (*Participation leg*), **CJS-3.16–CJS-3.21** (*Continuity aim*), and **CJS-3.22–CJS-3.23** (*Integrative cross-leg*).
+  corpus_systems/cs_00_registry_and_reading_rules.md:41: > - Governance, proportionality of authority, justification, challenge, and collective-choice processes map primarily to **CJS-3.11–CJS-3.15** (*Accountability leg*), together with Chapter Fourteen decision-resolution requirements.
+  corpus_systems/cs_00_registry_and_reading_rules.md:44: > - **Taxonomy home:** data types, system classes/dependency types, and steward tiers are canonical in **CS-2–CS-4**; other corpus files reference these labels.
+  project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md:1279: - **Read with:** CI-13.1 to CI-13.3; CI-28.1 to CI-28.3; Domain-Specific Materiality; Chapter Eleven §9.4; Article XXVIII-D essential-access guardrail.
+  project/MEMLOG.md:19: **2026-10-18 to 2026-10-19 (merged into `origin/main`):** the CI-13 split into CI-13 (*Institutional failure and dissolution*, CI-13.1 to CI-13.4) and CI-28 (*Institutional accountability and sanctions*, CI-28.1 to CI-28.6); time windows and Document at Action (Chapter One §16.4); the CS-4 rewrite; 
+  project/MEMLOG.md:21: **2026-10-14 to 2026-10-17 (merged earlier):** Domain-Specific Materiality is the one nine-question test for a material act and for Class L (Class P split into a private unit and ordinary community activity); Chapter Seven follows the order of its one chart; CI-13.1 to CI-13.10 give the consequence 
+  implementation/ROLE_SEPARATION_MATRIX.md:1: # Role separation quick reference
+  implementation/PRE_PUBLICATION_SPEC.md:3: **Status:** Draft v0.27 (CI-15–CI-25 domain companions compressed to local owner maps; process support; cannot narrow core; does **not** drop **pre-release**. Prior v0.26: LEQU calibration reference shipped under [`LEQU_CALIBRATION_REFERENCE.md`](LEQU_CALIBRATION_REFERENCE.md); process support; cann
+  implementation/PRE_PUBLICATION_SPEC.md:7: **Progress pointer:** Restore-challenge clocks shipped 2026-08-12 ([Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13_forum.md#61-emergency-measures-and-continuation-burden); reuse [Article XXVI-C](../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay
+  implementation/PRE_PUBLICATION_SPEC.md:150: | **CI-15–CI-25 local owner maps** | **Shipped 2026-09-09.** Domain companions compressed to the local-duty pattern: short gloss, orientation, pointer list, owner map. **CI-21** / **CI-25** numbered subsections and **CI-24** registry lists kept. Restated CJS/Chapter Six floors cut. Does not drop **p
+  implementation/PRE_PUBLICATION_SPEC.md:284: | 2026-09-09 | v0.27 | CI-15–CI-25 domain companions compressed to local owner maps (short gloss, orientation, pointer list, owner map). CI-21 / CI-25 numbered subsections and CI-24 registry lists kept. Restated CJS/Chapter Six floors cut. Obligation inventory 1:1. Does not drop **pre-release**, bum
+  implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md:188: | Separation of powers, role clarity, and anti-self-judging | FRC 2024 `Section 2`; IIA 2020 `Principles 1-5`, `Key roles`, `Relationships among core roles`; OECD Public Integrity `2. Responsibilities`, `12. Oversight` | Are governing, operating, review, and independent assurance roles separated cle
+  implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md:194: | AI and system lifecycle governance | NIST AI RMF `Govern`, `Map`, `Measure`, `Manage`; ISO/IEC 42001 clauses `4-10`; NIST GenAI Profile 2024 | Does the corpus cover classification, testing, deployment control, monitoring, rollback, synthetic-content risk, and adaptive-system oversight? | the Senti
+  implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md:262: - `corpus_institutions.md` CI-3 through CI-14
+  implementation/adoption/MINIMUM_VIABLE_ADOPTER.md:320: | **Optional** | Domain CI-15–CI-25 that match the work. **CI-22** for cooperatives and commons. **CI-10** if charging |
+  implementation/adoption/MINIMUM_VIABLE_ADOPTER.md:335: | **Optional** | In-house specialist CF-8/9/10 if caseload needs them; otherwise contracted through the hosted bodies. Domain CI-15–CI-25 |
+  project/plans/ai_corpus_optimization_plan.md:58: | `corpus_systems.md` | ~2,170 | Adopted | Systems adopted implementation text (CS-2–CS-4, Protocols A, B, S4, S5) |
+  project/plans/ai_corpus_optimization_plan.md:59: | `corpus_institutions.md` | ~940 | Adopted | Institutional governance (CI-1 to CI-26) |
+  project/plain_language/Article_XXVIII_plain_language.md:156: **The fine print can't shrink the floor.** Operating details (triggers, valuation, appeals, chain of custody, funds, reviews) live in CI-14.1 to CI-14.3 and in adopting documents. None of them can weaken this Article, Chapter Ten, or Article XX-B.
+  project/plain_language/Article_XXVIII_plain_language.md:164: - **How non-compliant property and systems are handled and how voluntary turnover programs run:** CI-14.1 through CI-14.3.
+  tools/architecture/regression_scenarios.json:2295: "read_with": "CI-13.1 to CI-13.3; CI-28.1 to CI-28.3; Domain-Specific Materiality; Chapter Eleven §9.4; Article XXVIII-D essential-access guardrail."
+  tools/architecture/family_map.json:104: "label": "CJS-1.7–CJS-1.8.1: Drafting contracts and owner-to-CJS seam",
+  tools/architecture/family_map.json:116: "label": "CJS-1.13–CJS-1.14: oDef parse mechanics",
+  tools/architecture/family_map.json:134: "label": "CJS-1.9–CJS-1.11: Support roles, hosting independence, and classification alignment",
+  tools/architecture/family_map.json:157: "id": "CJS-3.2–CJS-3.6",
+  tools/architecture/family_map.json:158: "label": "CJS-3.2–CJS-3.6 / oDef.2–oDef.6: Oversight leg clusters",
+  tools/architecture/family_map.json:163: "id": "CJS-3.7–CJS-3.10",
+  tools/architecture/family_map.json:164: "label": "CJS-3.7–CJS-3.10 / oDef.7–oDef.10: Participation leg clusters",
+  tools/architecture/family_map.json:169: "id": "CJS-3.11–CJS-3.15",
+  tools/architecture/family_map.json:170: "label": "CJS-3.11–CJS-3.15 / oDef.11–oDef.15: Accountability leg clusters",
+  tools/architecture/family_map.json:175: "id": "CJS-3.16–CJS-3.21",
+  tools/architecture/family_map.json:176: "label": "CJS-3.16–CJS-3.21 / oDef.16–oDef.21: Continuity aim clusters",
+  tools/architecture/family_map.json:181: "id": "CJS-3.22–CJS-3.23",
+  tools/architecture/family_map.json:182: "label": "CJS-3.22–CJS-3.23 / oDef.22–oDef.23: Integrative cross-leg clusters",
+planned file renames:
+  core_00_preamble.md -> core_00000_preamble.md
+  core_01_a_values_principles.md -> core_01005_values_principles.md
+  core_01_b_interaction_interpretation.md -> core_01010_interaction_interpretation.md
+  core_01_c_stewardship_capacity_principles.md -> core_01015_stewardship_capacity_principles.md
+  core_02_definition_structure.md -> core_02000_definition_structure.md
+  core_03_definition_integrity.md -> core_03000_definition_integrity.md
+  core_04_burden_traceability_verification.md -> core_04000_burden_traceability_verification.md
+  core_05__definitions_home.md -> core_05000_definitions_home.md
+  core_05_apex_accountability_leg.md -> core_05005_apex_accountability_leg.md
+  core_05_apex_continuity_aim.md -> core_05010_apex_continuity_aim.md
+  core_05_apex_flourishing_aim.md -> core_05015_apex_flourishing_aim.md
+  core_05_apex_oversight_leg.md -> core_05020_apex_oversight_leg.md
+  core_05_apex_participation_leg.md -> core_05025_apex_participation_leg.md
+  core_05_apex_timeliness_leg.md -> core_05030_apex_timeliness_leg.md
+  core_05_band_accountability.md -> core_05035_band_accountability.md
+  core_05_band_continuity.md -> core_05040_band_continuity.md
+  core_05_band_integrative.md -> core_05045_band_integrative.md
+  core_05_band_oversight.md -> core_05050_band_oversight.md
+  core_05_band_participation.md -> core_05055_band_participation.md
+  core_05_band_performance.md -> core_05060_band_performance.md
+  core_06_rights_part_a.md -> core_06005_rights_part_a.md
+  core_06_rights_part_b.md -> core_06010_rights_part_b.md
+  core_06_rights_part_c.md -> core_06015_rights_part_c.md
+  core_06_rights_part_d.md -> core_06020_rights_part_d.md
+  core_06_rights_part_e.md -> core_06025_rights_part_e.md
+  core_07_charters.md -> core_07000_charters.md
+  core_08_functional_independence_segregation_of_duties.md -> core_08000_functional_independence_segregation_of_duties.md
+  core_09_system_alignment_certification.md -> core_09000_system_alignment_certification.md
+  core_09_a_system_alignment_certification_evaluation.md -> core_09005_system_alignment_certification_evaluation.md
+  core_09_b_system_alignment_certification_record_process.md -> core_09010_system_alignment_certification_record_process.md
+  core_09_c_system_alignment_certification_illustrations.md -> core_09015_system_alignment_certification_illustrations.md
+  core_09_d_institutional_alignment_certification.md -> core_09020_institutional_alignment_certification.md
+  core_10_standing_assessment.md -> core_10000_standing_assessment.md
+  core_10-13_application_vignettes.md -> core_10005_application_vignettes.md
+  core_11_standing_integration.md -> core_11000_standing_integration.md
+  core_12_a_misconduct_designation.md -> core_12005_misconduct_designation.md
+  core_12_b_misconduct_pattern_applications.md -> core_12010_misconduct_pattern_applications.md
+  core_13_forum.md -> core_13000_forum.md
+  core_14_governance.md -> core_14000_governance.md
+  core_15_non_regression.md -> core_15000_non_regression.md
+  core_16_expansion_supremacy.md -> core_16000_expansion_supremacy.md
+  core_17_amendment_ratification.md -> core_17000_amendment_ratification.md
+  core_18_incorporation.md -> core_18000_incorporation.md
+  corpus_joint_structure/cjs_00_registry_and_reading_rules.md -> corpus_joint_structure/cjs_00105_registry_and_reading_rules.md
+  corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md -> corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md
+  corpus_institutions/ci_00_registry_and_reading_rules.md -> corpus_institutions/ci_00205_registry_and_reading_rules.md
+  corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md -> corpus_institutions/ci_00210_scope_purpose_legitimacy_interface.md
+  corpus_institutions/ci_26_compliance_mapping_stable_registry.md -> corpus_institutions/ci_00215_compliance_mapping_stable_registry.md
+  corpus_systems/cs_00_registry_and_reading_rules.md -> corpus_systems/cs_00305_registry_and_reading_rules.md
+  corpus_systems/cs_01_scope_purpose_identifier_rules.md -> corpus_systems/cs_00310_scope_purpose_identifier_rules.md
+  corpus_forum/cf_00_registry_and_reading_rules.md -> corpus_forum/cf_00405_registry_and_reading_rules.md
+  corpus_forum/cf_01_scope_authority_boundary_rules.md -> corpus_forum/cf_00410_scope_authority_boundary_rules.md
+  corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md -> corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md
+  corpus_joint_structure/cjs_03o_oversight_operations.md -> corpus_joint_structure/cjs_05110_oversight_operations.md
+  corpus_joint_structure/cjs_03u_audit_process.md -> corpus_joint_structure/cjs_05115_audit_process.md
+  corpus_joint_structure/cjs_03p_participation_operations.md -> corpus_joint_structure/cjs_05120_participation_operations.md
+  corpus_joint_structure/cjs_03a_accountability_operations.md -> corpus_joint_structure/cjs_05125_accountability_operations.md
+  corpus_joint_structure/cjs_03c_continuity_operations.md -> corpus_joint_structure/cjs_05130_continuity_operations.md
+  corpus_joint_structure/cjs_03i_integrative_operations.md -> corpus_joint_structure/cjs_05135_integrative_operations.md
+  corpus_joint_structure/cjs_05_odef_parse_mechanics.md -> corpus_joint_structure/cjs_05140_odef_parse_mechanics.md
+  corpus_institutions/ci_08_transparency_participation_accessible_pathways.md -> corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md
+  corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md -> corpus_institutions/ci_06210_public_revenue_fees_recurring_charges_billing_integrity.md
+  corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md -> corpus_institutions/ci_06215_resource_stewardship_incentive_integrity.md
+  corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md -> corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md
+  corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md -> corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md
+  corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md -> corpus_institutions/ci_06230_end_of_life_continuity_memorial_dignity_posthumous_data.md
+  corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md -> corpus_institutions/ci_06235_collective_public_health_epidemic_response_addiction_informed_care.md
+  corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md -> corpus_institutions/ci_06240_vulnerable_personal_services_markets_article_viie_interface.md
+  corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md -> corpus_institutions/ci_06245_relational_coercive_control_intimate_power_anti_domination.md
+  corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md -> corpus_institutions/ci_06250_community_life_voluntary_association_non_instrumental_time.md
+  corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md -> corpus_institutions/ci_06255_commons_cooperatives_mutual_aid_non_market_governance.md
+  corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md -> corpus_institutions/ci_06260_place_based_stewardship_indigenous_continuity_consultation.md
+  corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md -> corpus_institutions/ci_06265_innovation_reward_disclosure_anti_enclosure.md
+  corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md -> corpus_institutions/ci_06270_scientific_publication_peer_review_replication_evidence_stewardship.md
+  corpus_institutions/ci_14_transitional_governance_institutional_evolution.md -> corpus_institutions/ci_06275_transitional_governance_institutional_evolution.md
+  corpus_systems/cs_02_a_information_types_and_handling.md -> corpus_systems/cs_06305_information_types_and_handling.md
+  corpus_systems/cs_02_b_data_classifications.md -> corpus_systems/cs_06310_data_classifications.md
+  corpus_systems/cs_06_comprehensibility_complexity_stewardship.md -> corpus_systems/cs_06315_comprehensibility_complexity_stewardship.md
+  corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md -> corpus_systems/cs_06320_justice_safeguards_restitution_rehabilitation.md
+  corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md -> corpus_systems/cs_06325_adaptive_sustainability_ecosystem_resilience.md
+  corpus_systems/cs_12_decentralized_continuity_partition_resilience.md -> corpus_systems/cs_06330_decentralized_continuity_partition_resilience.md
+  corpus_systems/cs_09_resource_allocation_funding_stewardship.md -> corpus_systems/cs_06335_resource_allocation_funding_stewardship.md
+  corpus_systems/cs_13_system_requirements.md -> corpus_systems/cs_06340_system_requirements.md
+  corpus_systems/cs_05_design_testing_verification_deployment.md -> corpus_systems/cs_06345_design_testing_verification_deployment.md
+  corpus_systems/cs_10_transition_constitution_migration_governance.md -> corpus_systems/cs_06350_transition_constitution_migration_governance.md
+  corpus_systems/cs_11_subversion_response_replacement_reconstitution.md -> corpus_systems/cs_06355_subversion_response_replacement_reconstitution.md
+  corpus_joint_structure/cjs_06_support_hosting_classification.md -> corpus_joint_structure/cjs_08105_support_hosting_classification.md
+  corpus_institutions/ci_03_institutional_design_separation_of_powers.md -> corpus_institutions/ci_08205_institutional_design_separation_of_powers.md
+  corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md -> corpus_institutions/ci_08210_conflict_integrity_anti_capture_anti_corruption.md
+  corpus_institutions/ci_07_oversight_assurance_controls_evidence.md -> corpus_institutions/ci_08215_oversight_assurance_controls_evidence.md
+  corpus_institutions/ci_09_classification_linked_institutional_obligations.md -> corpus_institutions/ci_09210_classification_linked_institutional_obligations.md
+  corpus_systems/cs_03_a_system_classification_machinery.md -> corpus_systems/cs_09305_system_classification_machinery.md
+  corpus_systems/cs_03_b_system_impact_classifications.md -> corpus_systems/cs_09310_system_impact_classifications.md
+  corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md -> corpus_institutions/ci_11205_remedy_systems_institutional_redress_capacity.md
+  corpus_institutions/ci_13_institutional_failure_dissolution.md -> corpus_institutions/ci_11210_institutional_failure_dissolution.md
+  corpus_institutions/ci_28_institutional_accountability_sanctions.md -> corpus_institutions/ci_11215_institutional_accountability_sanctions.md
+  corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md -> corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md
+  corpus_institutions/ci_12_cross_institution_coordination_escalation.md -> corpus_institutions/ci_13210_cross_institution_coordination_escalation.md
+  corpus_forum/cf_03_forum_formation_chamber_structure.md -> corpus_forum/cf_13405_forum_formation_chamber_structure.md
+  corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md -> corpus_forum/cf_13410_panel_formation_disclosure_recusal_bench_constitution.md
+  corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md -> corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md
+  corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md -> corpus_forum/cf_13420_appeal_secondary_review_exhaustion_pathways.md
+  corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md -> corpus_forum/cf_13425_integrity_safeguards_anti_capture_anti_self_judging.md
+  corpus_forum/cf_08_forum_forensic_analytical_support.md -> corpus_forum/cf_13430_forum_forensic_analytical_support.md
+  corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md -> corpus_forum/cf_13435_independent_investigative_service_prosecution_interface.md
+  corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md -> corpus_forum/cf_13440_technical_specialist_forums_specialist_chambers.md
+  corpus_forum/cf_11_performance_backlog_publication_accessibility.md -> corpus_forum/cf_13445_performance_backlog_publication_accessibility.md
+  corpus_forum/cf_12_forum_continuity.md -> corpus_forum/cf_13450_forum_continuity.md
+  corpus_forum/cf_13_fallback_operation.md -> corpus_forum/cf_13455_fallback_operation.md
+  corpus_forum/cf_14_emergency_adjudication.md -> corpus_forum/cf_13460_emergency_adjudication.md
+  corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md -> corpus_forum/cf_13465_standard_records_forms_evidence_artifacts.md
+  corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md -> corpus_forum/cf_13470_staffing_reserve_capacity_structural_records.md
+  corpus_forum/cf_sentience_status_record.md -> corpus_forum/cf_13475_sentience_status_record.md
+  corpus_institutions/ci_04_appointment_competency_rotation_removal.md -> corpus_institutions/ci_14205_appointment_competency_rotation_removal.md
+  corpus_systems/cs_04_critical_system_stewardship.md -> corpus_systems/cs_14305_critical_system_stewardship.md
+  corpus_joint_structure/cjs_04_drafting_contracts.md -> corpus_joint_structure/cjs_18105_drafting_contracts.md
+  corpus_joint_structure/cjs_02_specific_joint_interlocks.md -> corpus_joint_structure/cjs_18110_specific_joint_interlocks.md
+
+REVIEW COMPLETION (2026-10-21)
+The original scan is retained as a record of raw candidates, not as an unresolved work queue. The current report candidates were reviewed against the chapter registry and actual source headings. Active non-contiguous ranges were replaced with explicit destination ids in tools/best_practices_check.py, implementation/BEST_PRACTICES_CHECK_STANDARD_2026-04-12.md, project/plans/ai_corpus_optimization_plan.md, project/plans/announcement_readiness_2026-10-20.md, project/reviews/announcement_interlocks_B04_2026-10-20.md, implementation/adoption/MINIMUM_VIABLE_ADOPTER.md, and corpus_systems/cs_00305_registry_and_reading_rules.md. Remaining historical entries in doc_architecture.md and project/MEMLOG.md were retained as dated history. Current sequential ranges were checked against registry ordering. The five shared legacy-id groups are intentional one-to-many mappings covered by chapter_crosswalk.json; file-qualified source anchors round-trip. Final --verify result: zero findings.

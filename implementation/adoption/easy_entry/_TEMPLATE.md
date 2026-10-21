@@ -4,10 +4,10 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.10.19`
+> **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** draft / current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -54,7 +54,7 @@ See: …
 ## What this will not pretend to give you
 
 - (Honest non-support — a preference, a control claim, or a wish this Constitution refuses, delays, or leaves to a body that has agreed to follow it.)
-- Enforcement against a hospital, platform, lab, or host that has not adopted it ([Chapter Eighteen §4](../../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- Enforcement against a hospital, platform, lab, or host that has not adopted it ([Chapter Eighteen §4](../../../core_18000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further
 

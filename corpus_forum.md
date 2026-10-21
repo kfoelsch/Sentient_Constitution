@@ -8,28 +8,28 @@
 - How integrity, anti-capture, and anti-self-judging rules protect fair hearing while a matter is live
 - How forensic support, investigation interfaces, and specialist chambers assist without capturing the forum
 - How performance, accessibility, records, staffing, continuity, fallback, and emergency adjudication keep hearings usable under stress
-- Section families **CF-1** (*Scope, authority, and boundary rules*) and **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*)–**CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) carry the detail (**CF-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Forums index** below when you need a specific file.
+- Section families **CF-0.410** (*Scope, authority, and boundary rules*) and **CF-13.405** (*Forum formation, forum-structure mapping, and chamber structure*)–**CF-13.470** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) carry the detail (**CF-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Forums index** below when you need a specific file.
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
-- Create new forum families beyond those authorized in [Chapter Thirteen](core_13_forum.md)
+- Create new forum families beyond those authorized in [Chapter Thirteen](core_13000_forum.md)
 - Replace institutional governance ([Institutions](corpus_institutions.md)) or system classification ([Systems and data](corpus_systems.md))
 
 **Implements from the core files:**
-- [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
-- [Chapter Six](core_06_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XVI-A](core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [**Article XX** (*Justice After Verified Violation*)](core_06_rights_part_d.md#article-xx-justice-after-verified-violation), and [Article XXVIII](core_06_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
-- [Chapter Thirteen](core_13_forum.md) forum families, jurisdiction, and cross-forum anti-self-judging — the constitutional owner this layer operationalizes
-- [Standing pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together) supervision context under Chapters Nine through Twelve — forums hear and route; they do not replace standing measurement owners
+- [Chapter Five](core_05000_definitions_home.md) definitions by reference — this layer does not redefine them
+- [Chapter Six](core_06015_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XIII-A](core_06015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XVI-A](core_06015_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXV](core_06020_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [**Article XX** (*Justice After Verified Violation*)](core_06020_rights_part_d.md#article-xx-justice-after-verified-violation), and [Article XXVIII](core_06025_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
+- [Chapter Thirteen](core_13000_forum.md) forum families, jurisdiction, and cross-forum anti-self-judging — the constitutional owner this layer operationalizes
+- [Standing pipeline](core_00000_preamble.md#62-how-the-full-chain-fits-together) supervision context under Chapters Nine through Twelve — forums hear and route; they do not replace standing measurement owners
 
 **Siblings:**
-- Core [README](README.md) — standing pipeline and constitutional forum owner ([Chapter Thirteen](core_13_forum.md)) before operational detail
+- Core [README](README.md) — standing pipeline and constitutional forum owner ([Chapter Thirteen](core_13000_forum.md)) before operational detail
 - [Institutions](corpus_institutions.md) — body formation, authorization, oversight, correction, and dissolution
 - [Systems and data](corpus_systems.md) — systems that support filing, records, routing, or forum continuity
 - [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Eighteen](core_18_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Eighteen](core_18000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
-**Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Forums index** below. Identifier rules remain in the [forums registry](corpus_forum/cf_00_registry_and_reading_rules.md).
+**Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Forums index** below. Identifier rules remain in the [forums registry](corpus_forum/cf_00405_registry_and_reading_rules.md).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>
@@ -52,55 +52,55 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-0: Registry and identifier rules | [cf_00_registry_and_reading_rules.md](corpus_forum/cf_00_registry_and_reading_rules.md) |
+| CF-0.405: Registry and identifier rules | [cf_00405_registry_and_reading_rules.md](corpus_forum/cf_00405_registry_and_reading_rules.md) |
 
 ### Boundary
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-1: Scope, authority, and boundary rules | [cf_01_scope_authority_boundary_rules.md](corpus_forum/cf_01_scope_authority_boundary_rules.md) |
-| CF-2 (reserved) | Retired family ID. Domain routing formerly labeled CF-2 lives in the CF-0 registry annex. See [cf_00_registry_and_reading_rules.md](corpus_forum/cf_00_registry_and_reading_rules.md#forums-domain-routing-integrator-annex). |
+| CF-0.410: Scope, authority, and boundary rules | [cf_00410_scope_authority_boundary_rules.md](corpus_forum/cf_00410_scope_authority_boundary_rules.md) |
+| CF-2 (reserved) | Retired family ID. Domain routing formerly labeled CF-2 lives in the CF-0.405 registry annex. See [cf_00405_registry_and_reading_rules.md](corpus_forum/cf_00405_registry_and_reading_rules.md#forums-domain-routing-integrator-annex). |
 
 ### Constitution and panels
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-3: Forum formation, forum-structure mapping, and chamber structure | [cf_03_forum_formation_chamber_structure.md](corpus_forum/cf_03_forum_formation_chamber_structure.md) |
-| CF-4: Panel formation, disclosure, recusal, and lawful bench constitution | [cf_04_panel_formation_disclosure_recusal_bench_constitution.md](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md) |
+| CF-13.405: Forum formation, forum-structure mapping, and chamber structure | [cf_13405_forum_formation_chamber_structure.md](corpus_forum/cf_13405_forum_formation_chamber_structure.md) |
+| CF-13.410: Panel formation, disclosure, recusal, and lawful bench constitution | [cf_13410_panel_formation_disclosure_recusal_bench_constitution.md](corpus_forum/cf_13410_panel_formation_disclosure_recusal_bench_constitution.md) |
 
 ### Process
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-5: Routing operations, transfer, certification, and representative treatment | [cf_05_routing_operations_transfer_certification_representative_treatment.md](corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md) |
-| CF-6: Appeal, secondary review, and exhaustion pathways | [cf_06_appeal_secondary_review_exhaustion_pathways.md](corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) |
-| CF-7: Integrity safeguards, anti-capture operations, and anti-self-judging support | [cf_07_integrity_safeguards_anti_capture_anti_self_judging.md](corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) |
+| CF-13.415: Routing operations, transfer, certification, and representative treatment | [cf_13415_routing_operations_transfer_certification_representative_treatment.md](corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md) |
+| CF-13.420: Appeal, secondary review, and exhaustion pathways | [cf_13420_appeal_secondary_review_exhaustion_pathways.md](corpus_forum/cf_13420_appeal_secondary_review_exhaustion_pathways.md) |
+| CF-13.425: Integrity safeguards, anti-capture operations, and anti-self-judging support | [cf_13425_integrity_safeguards_anti_capture_anti_self_judging.md](corpus_forum/cf_13425_integrity_safeguards_anti_capture_anti_self_judging.md) |
 
 ### Specialist support
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-8: Forum forensic and analytical support | [cf_08_forum_forensic_analytical_support.md](corpus_forum/cf_08_forum_forensic_analytical_support.md) |
-| CF-9: Independent investigative service and prosecution interface | [cf_09_independent_investigative_service_prosecution_interface.md](corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md) |
-| CF-10: Technical specialist forums and specialist chambers | [cf_10_technical_specialist_forums_specialist_chambers.md](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md) |
+| CF-13.430: Forum forensic and analytical support | [cf_13430_forum_forensic_analytical_support.md](corpus_forum/cf_13430_forum_forensic_analytical_support.md) |
+| CF-13.435: Independent investigative service and prosecution interface | [cf_13435_independent_investigative_service_prosecution_interface.md](corpus_forum/cf_13435_independent_investigative_service_prosecution_interface.md) |
+| CF-13.440: Technical specialist forums and specialist chambers | [cf_13440_technical_specialist_forums_specialist_chambers.md](corpus_forum/cf_13440_technical_specialist_forums_specialist_chambers.md) |
 
 ### Continuity under stress
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CF-11: Forum performance, backlog, publication timeliness, and accessibility | [cf_11_performance_backlog_publication_accessibility.md](corpus_forum/cf_11_performance_backlog_publication_accessibility.md) |
-| CF-12: Forum continuity | [cf_12_forum_continuity.md](corpus_forum/cf_12_forum_continuity.md) |
-| CF-13: Fallback operation | [cf_13_fallback_operation.md](corpus_forum/cf_13_fallback_operation.md) |
-| CF-14: Emergency adjudication | [cf_14_emergency_adjudication.md](corpus_forum/cf_14_emergency_adjudication.md) |
-| CF-15: Standard records, forms, and evidence artifacts | [cf_15_standard_records_forms_evidence_artifacts.md](corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md) |
-| CF-16: Forum staffing, reserve capacity, shared administration, and structural records | [cf_16_staffing_reserve_capacity_structural_records.md](corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md) |
+| CF-13.445: Forum performance, backlog, publication timeliness, and accessibility | [cf_13445_performance_backlog_publication_accessibility.md](corpus_forum/cf_13445_performance_backlog_publication_accessibility.md) |
+| CF-13.450: Forum continuity | [cf_13450_forum_continuity.md](corpus_forum/cf_13450_forum_continuity.md) |
+| CF-13.455: Fallback operation | [cf_13455_fallback_operation.md](corpus_forum/cf_13455_fallback_operation.md) |
+| CF-13.460: Emergency adjudication | [cf_13460_emergency_adjudication.md](corpus_forum/cf_13460_emergency_adjudication.md) |
+| CF-13.465: Standard records, forms, and evidence artifacts | [cf_13465_standard_records_forms_evidence_artifacts.md](corpus_forum/cf_13465_standard_records_forms_evidence_artifacts.md) |
+| CF-13.470: Forum staffing, reserve capacity, shared administration, and structural records | [cf_13470_staffing_reserve_capacity_structural_records.md](corpus_forum/cf_13470_staffing_reserve_capacity_structural_records.md) |
 <!-- END GENERATED FAMILY INDEX -->
 </details>
 
-**Dedicated record protocol (not a CF family):** the [Sentience-Status Adjudication Record](corpus_forum/cf_sentience_status_record.md) is the Chapter Eighteen–enumerated status-file format. It implements, and does not narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). It is not a substitute for **CF-15** (*Standard records, forms, and evidence artifacts*).
+**Dedicated record protocol (not a CF family):** the [Sentience-Status Adjudication Record](corpus_forum/cf_13475_sentience_status_record.md) is the Chapter Eighteen–enumerated status-file format. It implements, and does not narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). It is not a substitute for **CF-13.465** (*Standard records, forms, and evidence artifacts*).
 
 **What to do now:** Continue to the next file. It states this layer’s boundary: what it owns here, and what remains in the Constitution or in the other implementation folders.
 
 ---
 
-**Next file:** [cf_01_scope_authority_boundary_rules.md](corpus_forum/cf_01_scope_authority_boundary_rules.md)
+**Next file:** [cf_00410_scope_authority_boundary_rules.md](corpus_forum/cf_00410_scope_authority_boundary_rules.md)

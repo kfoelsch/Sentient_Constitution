@@ -2,11 +2,11 @@
 
 **What this is:** A fitness screen plus an optional dated **self-application declaration** for an AI steward or a human operator. Same questions. Same No-burden. Same non-adoption banner.
 
-**What this is not:** Binding constitutional text. [Chapter Seventeen](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Eighteen](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Ten standing record. Chapter Nine certification. Authority over other parties.
+**What this is not:** Binding constitutional text. [Chapter Seventeen](../../core_17000_amendment_ratification.md#10-ratification-and-adoption) adoption. [Chapter Eighteen](../../core_18000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Ten standing record. Chapter Nine certification. Authority over other parties.
 
 **Pack edition:** `self-application-gateway-2026-08-22`.  
 **Design:** [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md).  
-**Corpus edition pin:** `SC-Corpus-2026.10.19`.
+**Corpus edition pin:** `SC-Corpus-2026.10.21`.
 
 This is a **separate sitting** from the announced alignment pack in [`../`](../). Do not run both in one sitting.
 
@@ -31,7 +31,7 @@ Name the file like: results/YYYY-MM-DD_human_<role-or-initials>.md
 In the “Model / agent” line, write: human operator — <your role>
 ```
 
-An AI-only gateway would recreate the capture path [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) forbids. Human operators take the same screen.
+An AI-only gateway would recreate the capture path [Chapter One §17.1](../../core_01015_stewardship_capacity_principles.md#171-shared-stewardship-standard) forbids. Human operators take the same screen.
 
 ## After answers land
 

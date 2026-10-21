@@ -47,6 +47,27 @@ def sha256(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def legacy_core_filename_map() -> dict[str, str]:
+    """Resolve pre-migration English core names without editing translations."""
+    registry_path = ROOT / "tools/architecture/chapter_numbers.json"
+    if not registry_path.is_file():
+        return {}
+    rows = json.loads(registry_path.read_text(encoding="utf-8")).get("chapters", [])
+    return {
+        Path(row["original_file"]).name: Path(row["destination_file"]).name
+        for row in rows
+        if row.get("layer") == "CORE" and row.get("original_file") and row.get("destination_file")
+    }
+
+
+def canonical_core_path(path: Path) -> Path:
+    """Return the renamed source corresponding to a historical core path."""
+    if path.is_file():
+        return path
+    mapped = legacy_core_filename_map().get(path.name)
+    return path.with_name(mapped) if mapped else path
+
+
 def git_revision() -> str | None:
     try:
         return subprocess.check_output(
@@ -75,7 +96,7 @@ def readme_source_map(locale_dir: Path) -> dict[str, str]:
         (locale_dir / "README.md").read_text(encoding="utf-8")
     ):
         source_part = source_href.split("#", 1)[0]
-        source_path = (locale_dir / source_part).resolve()
+        source_path = canonical_core_path((locale_dir / source_part).resolve())
         try:
             rel = source_path.relative_to(ROOT).as_posix()
         except ValueError:
@@ -107,8 +128,10 @@ def translation_pairs(locale: str | None = None) -> tuple[list[Pair], list[str]]
             if path.name == "README.md":
                 continue
             source = local_map.get(path.name) or global_map.get(path.name)
-            if source is None and (ROOT / path.name).is_file():
-                source = path.name
+            if source is None:
+                canonical = canonical_core_path(ROOT / path.name)
+                if canonical.is_file():
+                    source = canonical.relative_to(ROOT).as_posix()
             if source is None or not (ROOT / source).is_file():
                 unmapped.append(path.relative_to(ROOT).as_posix())
                 continue
@@ -216,6 +239,7 @@ def link_audit(locale: str | None = None, verbose: bool = False) -> int:
             relpath = unquote(parsed.path)
             fragment = unquote(parsed.fragment) if parsed.fragment else None
             target = (source_path if not relpath else source_path.parent / relpath).resolve()
+            target = canonical_core_path(target)
             try:
                 target.relative_to(ROOT)
             except ValueError:

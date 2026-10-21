@@ -96,3 +96,8 @@ JSON schemas in `ai_corpus/schemas/` define generated index shape. When adding f
 - `AI_NAVIGATION_GUIDE.md` — usage patterns
 - `QUICK_REFERENCE.md` — quick lookup
 - `project/plans/ai_corpus_optimization_plan.md` — original (now superseded in parts by the locator layer)
+
+
+## Chapter numbers
+
+Use `tools/architecture/chapter_numbers.json` and `tools/architecture/chapter_crosswalk.json` as the numbering and compatibility sources. Resolve anchors from `ai_corpus/indexes/section_manifest.json` and the real Markdown anchor set; do not guess section numbers from filename digits. Regenerate all derived indexes after a source or registry change. A shared legacy ID without section or file context must retain all destinations.

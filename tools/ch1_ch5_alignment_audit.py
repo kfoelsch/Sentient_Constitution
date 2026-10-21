@@ -4,7 +4,7 @@ Chapter 1 ↔ Chapter 5 Alignment Audit Script
 
 Verifies that Chapter 0/1 principles have explicit definition anchors in
 Chapter Five, with complete O/M/A/C guideposts and no segmentation of
-dependent clusters. Also records CJS-3 oDef clusters that apply each term.
+dependent clusters. Also records CJS operational cluster oDef clusters that apply each term.
 
 Usage: python ch1_ch5_alignment_audit.py [--output-dir /path/to/evidence]
 
@@ -346,7 +346,7 @@ class AlignmentAuditor:
             )
             f.write(f"- **Cluster Integrity:** {len(self.cluster_gaps)} potential segmentations\n")
             f.write(
-                f"- **oDef backlinks:** {odef_linked}/{len(self.ch5_definitions)} Def.* terms cited from CJS-3\n\n"
+                f"- **oDef backlinks:** {odef_linked}/{len(self.ch5_definitions)} Def.* terms cited from CJS operational cluster\n\n"
             )
 
             if self.completeness_gaps:
@@ -393,7 +393,7 @@ class AlignmentAuditor:
                 f.write("\n")
 
             f.write("## oDef Application\n\n")
-            f.write("| Def.* term | Category | Cluster | CJS-3 oDef clusters |\n")
+            f.write("| Def.* term | Category | Cluster | CJS operational cluster oDef clusters |\n")
             f.write("|---|---|---|---|\n")
             for term, data in sorted(self.ch5_definitions.items(), key=lambda item: item[0].casefold()):
                 if not data["odef_clusters"]:

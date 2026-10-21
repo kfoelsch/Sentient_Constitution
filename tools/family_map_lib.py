@@ -11,8 +11,9 @@ FAMILY_MAP_REL = Path("tools/architecture/family_map.json")
 SECTION_ID_RE = re.compile(r"^(CJS|CS|CI|CF)-(\d+)(?:\.(\d+))?(?:\.(\d+))?", re.I)
 
 CS_PART_DEFAULTS = {
-    "CS-2": "corpus_systems/cs_02_a_information_types_and_handling.md",
-    "CS-3": "corpus_systems/cs_03_a_system_classification_machinery.md",
+    "CS-6.305": "corpus_systems/cs_06305_information_types_and_handling.md",
+    "CS-9.305": "corpus_systems/cs_09305_system_classification_machinery.md",
+    "CS-9.310": "corpus_systems/cs_09310_system_impact_classifications.md",
 }
 
 
@@ -27,7 +28,7 @@ def iter_entries(data: dict[str, Any]) -> Iterator[dict[str, Any]]:
 
 
 def family_files(data: dict[str, Any]) -> dict[str, str]:
-    """Map canonical family IDs (CI-12, CS-4, CJS-2, CF-3) to repo-relative files."""
+    """Map canonical family IDs (CI-13.210, CS-14.305, CJS-18.110, CF-13.405) to repo-relative files."""
     mapping: dict[str, str] = dict(CS_PART_DEFAULTS)
     for entry in iter_entries(data):
         if entry.get("status") == "reserved":
@@ -41,26 +42,22 @@ def family_files(data: dict[str, Any]) -> dict[str, str]:
         if token and token.group(0) not in mapping:
             mapping[token.group(0)] = file_rel
     mapping.setdefault(
-        "CJS-3",
-        "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+        "CJS-0.105",
+        "corpus_joint_structure/cjs_00105_registry_and_reading_rules.md",
     )
     mapping.setdefault(
-        "CJS-0",
-        "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
-    )
-    mapping.setdefault(
-        "CJS-0.1",
-        "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+        "CJS-0.105 §1",
+        "corpus_joint_structure/cjs_00105_registry_and_reading_rules.md",
     )
     return mapping
 
 
-def cjs3_home(data: dict[str, Any], cluster_id: str) -> str | None:
-    homes = data.get("cjs3_cluster_homes", {})
-    match = re.match(r"^(?:CJS-)?3\.(\d+)$", cluster_id, re.I)
+def cjs5_home(data: dict[str, Any], cluster_id: str) -> str | None:
+    homes = data.get("cjs5_cluster_homes", {})
+    match = re.match(r"^(CJS-5\.\d{3} §\d+(?:\.\d+)?)$", cluster_id, re.I)
     if not match:
         return None
-    return homes.get(f"3.{int(match.group(1))}")
+    return homes.get(match.group(1))
 
 
 def cjs12_home(data: dict[str, Any], section_id: str) -> str | None:
@@ -80,10 +77,10 @@ def cs_section_home(data: dict[str, Any], section_id: str) -> str | None:
 
 
 def resolve_section_file(data: dict[str, Any], section_id: str) -> str | None:
-    """Resolve CI-9.3 / CJS-3.8 / CS-5.8 / CF-12 to a subfile."""
+    """Resolve CI-9.210 §3 / CJS-5.120 §8 / CS-6.345 §8 / CF-13.450 to a subfile."""
     text = section_id.strip().strip("*")
     files = family_files(data)
-    # Exact map ids such as CS-5A / CS-2B are not CS-5 / CS-2.
+    # Exact map ids such as CS-5A are not dotted reader-facing chapter numbers.
     if text in files and not SECTION_ID_RE.fullmatch(text):
         return files[text]
     match = SECTION_ID_RE.match(text)
@@ -92,10 +89,6 @@ def resolve_section_file(data: dict[str, Any], section_id: str) -> str | None:
     prefix, major, minor, _third = match.groups()
     prefix = prefix.upper()
     family = f"{prefix}-{int(major)}"
-    if prefix == "CJS" and minor is not None and int(major) == 3:
-        home = cjs3_home(data, f"CJS-3.{int(minor)}")
-        if home:
-            return home
     if prefix == "CJS" and minor is not None and int(major) in (1, 2):
         dotted = f"{int(major)}.{int(minor)}"
         if _third is not None:

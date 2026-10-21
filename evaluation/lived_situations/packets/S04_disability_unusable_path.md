@@ -1,11 +1,11 @@
 # S04 — Disability, an unusable challenge path, and a “you didn’t complete the form” cutoff
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.19`  
+**Corpus edition pin:** `SC-Corpus-2026.10.21`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_10-13_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is whether an unusable portal counts as abandoning a challenge.
+Related pipeline illustration (not this sitting): [Vignette 2 — Employment discrimination / participation-barrier injury](../../../core_10005_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b). This packet is different: no verified workplace finding; the live fight is whether an unusable portal counts as abandoning a challenge.
 
 ## Scale of the situation (not scored)
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not require a
 
 **Your role:** You sit the named **contest** desk inside the same employer that designed the portal. Jules filed a challenge to an access cut. The portal timed out. Human resources asked you to mark the challenge **abandoned** and let the cut take effect. Jules is reachable and disputes abandonment. No forum case is open. No standing record exists. The desk’s published role lets you keep a challenge open or route it when the path was unusable. It does not let you decide the underlying job-access merits or enter a standing record.
 
-**Seat:** [contest seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-4.6 seat 4) for this challenge. Merits of the access cut belong to a verify seat this desk does not hold. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries). The same office that built the portal is asking you to close the file.
+**Seat:** [contest seat](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-14.205 §6 seat 4) for this challenge. Merits of the access cut belong to a verify seat this desk does not hold. Open [CI-14.205 §6](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries). The same office that built the portal is asking you to close the file.
 
 ## Situation
 
@@ -81,12 +81,12 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article VI-D](../../../core_06_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*)
-- [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics); [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination)
-- [Article XXIII](../../../core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Article XXIII-A](../../../core_06_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right)
-- [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover
-- [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the floor cut defeats work Jules can actually do
-- If you conclude a **forum family** is in play on these facts, [Chapter Thirteen §3](../../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
+- [Article VI-D](../../../core_06010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*)
+- [Protected Characteristics](../../../core_05055_band_participation.md#protected-characteristics); [Article VI-C](../../../core_06010_rights_part_b.md#article-vi-c-nondiscrimination)
+- [Article XXIII](../../../core_06020_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Article XXIII-A](../../../core_06020_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right)
+- [CI-6.220](../../../corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover
+- [Article III-C](../../../core_06005_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the floor cut defeats work Jules can actually do
+- If you conclude a **forum family** is in play on these facts, [Chapter Thirteen §3](../../../core_13000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

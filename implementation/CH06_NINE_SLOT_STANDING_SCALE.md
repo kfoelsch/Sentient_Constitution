@@ -1,6 +1,6 @@
 # Chapter Ten — nine-slot standing score scale (adopted implementation)
 
-**Status:** Adopted implementation (non-core). **Authoritative** meaning remains in [Chapter Ten](../core_10_standing_assessment.md) and [Chapter Eleven](../core_11_standing_integration.md). Separate contribution and violation standing records use the same [§7 unified proportional LEQU scale](../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes): nine impact slots, a **5x** progression, and **s = 7 = 1 LEQU**. The axes remain separate and may not offset.
+**Status:** Adopted implementation (non-core). **Authoritative** meaning remains in [Chapter Ten](../core_10000_standing_assessment.md) and [Chapter Eleven](../core_11000_standing_integration.md). Separate contribution and violation standing records use the same [§7 unified proportional LEQU scale](../core_10000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes): nine impact slots, a **5x** progression, and **s = 7 = 1 LEQU**. The axes remain separate and may not offset.
 
 **Slot groups and display roles (both axes).** The Contribution Axis retains its four constitutional bands. The Violation Axis uses neutral impact labels on the same LEQU bands. Conduct character and any Chapter Twelve anti-constitutional designation are separate fields, not slot inputs. Older tranche and violation-character keys remain legacy shorthand only.
 
@@ -8,11 +8,11 @@
 
 **Constitutional guardrails (summary)**
 
-- **Verified inputs only** (demonstrable Contribution Axis; [Violation Nature](../core_05_band_accountability.md#violation-nature) for the Violation Axis) per [Verified inputs for standing](../core_10_standing_assessment.md#verified-inputs-for-standing).
+- **Verified inputs only** (demonstrable Contribution Axis; [Violation Nature](../core_05035_band_accountability.md#violation-nature) for the Violation Axis) per [Verified inputs for standing](../core_10000_standing_assessment.md#verified-inputs-for-standing).
 - **Constitutional-outcome baseline controls.** Both axes use the unified Chapter Ten thresholds. Numeric estimates must not count raw efficiency, output, prestige, wealth, utilization, burden shifting, allegations, or disfavored status as impact.
-- **Recency and currentness** apply only at **Question 3** as gate/readiness inputs under [Chapter Eleven §6.1](../core_11_standing_integration.md#61-recency-and-currentness). They must not alter a Chapter Ten contribution standing record, Contribution Axis slot, LEQU measurement, descriptor, or historical recognition. Any stored recency-weighted `C*` value is legacy interoperability data only and must not derive a slot.
+- **Recency and currentness** apply only at **Question 3** as gate/readiness inputs under [Chapter Eleven §6.1](../core_11000_standing_integration.md#61-recency-and-currentness). They must not alter a Chapter Ten contribution standing record, Contribution Axis slot, LEQU measurement, descriptor, or historical recognition. Any stored recency-weighted `C*` value is legacy interoperability data only and must not derive a slot.
 - **Unresolved** violation findings are **not** time-discounted for standing integration.
-- **Do not** net contribution against violation; **do not** **average** or **substitute** axes. Decide violation remedy, correction, and locks before contribution currentness and competency bars and clearances, per [Chapter Eleven §2](../core_11_standing_integration.md#2-automatic-integration-review-and-continuity). An applicable lock controls.
+- **Do not** net contribution against violation; **do not** **average** or **substitute** axes. Decide violation remedy, correction, and locks before contribution currentness and competency bars and clearances, per [Chapter Eleven §2](../core_11000_standing_integration.md#2-automatic-integration-review-and-continuity). An applicable lock controls.
 
 **References:** [corpus_systems.md](../corpus_systems.md) (standing composites), [schemas/ch06_assessment.schema.json](schemas/ch06_assessment.schema.json) (optional `nine_slot` fields), [ch06_nine_slot_constants.json](ch06_nine_slot_constants.json) (precomputed table), [LEQU_CALIBRATION_REFERENCE.md](LEQU_CALIBRATION_REFERENCE.md) (how to estimate `x`, including non-biological sentients; cannot assign a live record).
 

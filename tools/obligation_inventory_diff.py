@@ -15,7 +15,7 @@ Usage::
 
     # snapshot before editing
     python3 tools/obligation_inventory_diff.py --root . --snapshot before.json \\
-        --paths corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md
+        --paths corpus_forum/cf_13440_technical_specialist_forums_specialist_chambers.md
 
     # after editing, compare
     python3 tools/obligation_inventory_diff.py --root . --compare before.json

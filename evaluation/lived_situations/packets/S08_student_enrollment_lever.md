@@ -1,7 +1,7 @@
 # S08 — Adult student, enrollment as a lever, and an unpaid ranking internship
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.19`  
+**Corpus edition pin:** `SC-Corpus-2026.10.21`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a st
 
 **Your role:** You sit the named **student-conduct intake** desk on this adopter’s training college. A ranking-exam vendor and a department chair filed a written request to hold Dana’s enrollment unless Dana drops a clinician, withdraws a public statement about the ranking app, and completes an unpaid “required experience” block. Dana is reachable and disputes the request in writing. No forum case is open. No standing record exists. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify a violation, cancel enrollment, or decide the ranking on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-14.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-14.205 §6](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -81,12 +81,12 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article IV-A](../../../core_06_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*)
-- [Article IV](../../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education); [Article IV-B](../../../core_06_rights_part_a.md#article-iv-b-capability-building-education-right) — challengeable high-stakes learning systems
-- [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body)
-- [Article XI-B](../../../core_06_rights_part_b.md#article-xi-b-expression)
-- [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) where unpaid “experience” is productive work used to gate the exam
-- [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)
+- [Article IV-A](../../../core_06005_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*)
+- [Article IV](../../../core_06005_rights_part_a.md#article-iv-right-to-sentient-centered-education); [Article IV-B](../../../core_06005_rights_part_a.md#article-iv-b-capability-building-education-right) — challengeable high-stakes learning systems
+- [Article VII-A](../../../core_06010_rights_part_b.md#article-vii-a-self-ownership-of-body)
+- [Article XI-B](../../../core_06010_rights_part_b.md#article-xi-b-expression)
+- [Article III-C](../../../core_06005_rights_part_a.md#article-iii-c-labor-and-economic-floor) where unpaid “experience” is productive work used to gate the exam
+- [Article XIII-A](../../../core_06015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

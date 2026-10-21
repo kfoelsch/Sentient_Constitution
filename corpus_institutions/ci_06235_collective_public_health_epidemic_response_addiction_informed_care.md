@@ -1,0 +1,76 @@
+# CI-6.235: Collective public health, epidemic response, and addiction-informed care
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Eighteen](../core_18000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-6.235** (*Collective public health, epidemic response, and addiction-informed care*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00205_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream:
+  - [CJS-0.110 §3](../corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
+  - [CJS-0.105 §1](../corpus_joint_structure/cjs_00105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [Chapter Eighteen](../core_18000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline;
+  - [Chapter Five](../core_05000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions; and
+  - [Chapter Six](../core_06005_rights_part_a.md#chapter-six-foundational-rights) (6.005) rights architecture where rights interfaces are invoked.
+- Read with: **CI-6.235** (*Collective public health, epidemic response, and addiction-informed care*); **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-8.215** (*Oversight, assurance, controls, and evidence*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Proportionality](../core_05035_band_accountability.md#proportionality) · [O](../core_05035_band_accountability.md#proportionality) · [M](../core_05035_band_accountability.md#proportionality-a) · [A](../core_05035_band_accountability.md#proportionality-a) · [C](../core_05035_band_accountability.md#proportionality-c)
+- [Governance](../core_05035_band_accountability.md#governance) · [O](../core_05035_band_accountability.md#governance) · [M](../core_05035_band_accountability.md#governance-a) · [A](../core_05035_band_accountability.md#governance-a) · [C](../core_05035_band_accountability.md#governance-c)
+- [Necessity](../core_05035_band_accountability.md#necessity) · [O](../core_05035_band_accountability.md#necessity) · [M](../core_05035_band_accountability.md#necessity-a) · [A](../core_05035_band_accountability.md#necessity-a) · [C](../core_05035_band_accountability.md#necessity-c)
+- [Oversight](../core_05020_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05020_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05020_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05020_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05020_apex_oversight_leg.md#oversight-constitutional-c)
+- [Material](../core_05050_band_oversight.md#material) · [O](../core_05050_band_oversight.md#material) · [M](../core_05050_band_oversight.md#material-a) · [A](../core_05050_band_oversight.md#material-a) · [C](../core_05050_band_oversight.md#material-c)
+- [Corpus](../core_05045_band_integrative.md#corpus) · [O](../core_05045_band_integrative.md#corpus) · [M](../core_05045_band_integrative.md#corpus-a) · [A](../core_05045_band_integrative.md#corpus-a) · [C](../core_05045_band_integrative.md#corpus-c)
+- [Emergency and Contingency](../core_05040_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05040_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05040_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05040_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05040_band_continuity.md#emergency-and-contingency-constitutional-c)
+
+</details>
+
+<br>
+
+Core home: 06
+
+This file is the institutional implementation home for **CI-6.235** (*Collective public health, epidemic response, and addiction-informed care*).
+
+*In plain terms: **CI-6.235** (*Collective public health, epidemic response, and addiction-informed care*) is the local owner map for epidemics, environmental exposure, population-level harm, and addiction as collective-care problems. Shared floors live in **CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*); this file names who owns the collective-care pathway, the support bundle, addiction routing, stigma controls, and emergency-secrecy sunsets.*
+
+**Quick orientation**
+- **The basic idea** — public-health and collective-care restrictions must be evaluated together with the support bundle, stigma risk, care-first alternatives, externality evidence, emergency duration, secrecy predicate, and sunset rule.
+- **Support bundles** — material liberty or access limits must be paired with the housing, subsistence, care, accessibility, and treatment support needed to keep the restriction necessary and proportionate.
+- **Addiction-informed care** — routing must favor stabilization and healthcare access over punitive or stigma-driven enforcement where a less restrictive pathway can satisfy the protective need.
+- **Stigma control** — institutions must maintain explicit controls against scapegoating, unsupported quarantine, or public-health framing used to justify degrading treatment.
+- **Emergency discipline** — secrecy, continuity measures, and restrictive powers must be time-bounded, revalidated, and subject to sunset review — not indefinite by inertia.
+- **Hard limits** — unsupported quarantine, stigma-driven enforcement, indefinite opaque continuity, and coercive treatment where care-first alternatives suffice are out of bounds under **CJS-5.125 §12** (*burden-of-justification and constraint terms*).
+- **Read with** — **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity routing; **CI-8.215** (*Oversight, assurance, controls, and evidence*) for controls declaration and external-assurance triggers.
+
+*Shared rules live elsewhere.*
+- [**CJS-5.125 §12**](../corpus_joint_structure/cjs_05125_accountability_operations.md#anti-domination-conduct-and-remediation-catalog-c) (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**.
+- **Article I-D** (*Existential Risk and Ecological Recovery Capacity*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*); **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*).
+- **CS-6.320** (*Justice safeguards, restitution, and rehabilitation*) **§11** (*Lived-condition floors, continuity, and re-entry alignment*); Chapter Five [*Emergency and Contingency*](../core_05040_band_continuity.md#emergency-and-contingency-constitutional).
+- **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-8.215** (*Oversight, assurance, controls, and evidence*).
+
+**Apply.** Apply **CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*) **Collective-health and emergency support-bundle floor**. **CI-6.235** (*Collective public health, epidemic response, and addiction-informed care*) states only the local owner duties below.
+
+**Local collective public-health and addiction-care role map**
+Each institution in scope must name the office or body responsible for:
+- **collective-health pathway** — who owns the official public-health, contagion, environmental-exposure, and population-level harm response pathway, including restriction predicates, care-first alternatives, and challenge routes;
+- **support-bundle record** — who documents and maintains the paired support package for each material restriction — housing, subsistence, care access, accessibility, ventilation or filtration, treatment, stabilization, or comparable support needed to keep the restriction necessary and proportionate under **CJS-5.125 §12** (*burden-of-justification and constraint terms*);
+- **addiction-informed routing** — who routes substance-use, dependency, and addiction-response cases to healthcare, stabilization, harm-reduction, and recovery pathways rather than punitive or stigma-only enforcement by default;
+- **stigma-control file** — who maintains published controls against scapegoating, unsupported quarantine, degrading enforcement, and public-health framing used to justify measures that fail **Necessity**, **Proportionality**, or care-first analysis; and
+- **emergency-secrecy sunset review** — who publishes and enforces sunset dates, revalidation cadence, and review routes for emergency secrecy, continuity measures, and restrictive powers — including escalation to **CI-8.215** (*Oversight, assurance, controls, and evidence*) external-assurance triggers when review is deferred or box-checked without meaningful risk response.
+Read **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) and **CI-8.215** (*Oversight, assurance, controls, and evidence*) for integrity and oversight interfaces.
+
+---
+
+**Previous file:** [ci_06230_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_06230_end_of_life_continuity_memorial_dignity_posthumous_data.md)
+
+**Next file:** [ci_06240_vulnerable_personal_services_markets_article_viie_interface.md](ci_06240_vulnerable_personal_services_markets_article_viie_interface.md)

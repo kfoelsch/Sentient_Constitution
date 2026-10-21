@@ -1,4 +1,4 @@
-"""Parse CJS-0.1 topic router rows and locate implementation sections."""
+"""Parse CJS-0.105 §1 topic router rows and locate implementation sections."""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import re
 from dataclasses import dataclass, field
 from pathlib import Path
 
-ROUTER_PATH = Path("corpus_joint_structure/cjs_00_registry_and_reading_rules.md")
+ROUTER_PATH = Path("corpus_joint_structure/cjs_00105_registry_and_reading_rules.md")
 CORPUS_FOLDERS = ("corpus_forum", "corpus_institutions", "corpus_joint_structure")
 SKIP_PARTS = {"archive", ".git", "__pycache__", "node_modules", "evidence"}
 
@@ -16,10 +16,10 @@ ROW_RE = re.compile(
     re.M,
 )
 SECTION_ID_RE = re.compile(
-    r"^((?:CF|CI|CJS)-[0-9]+(?:\.[0-9]+)?[A-Z]?(?:\.[0-9]+)?)"
+    r"^((?:CF|CI|CJS)-[0-9]+(?:\.[0-9]+)?[A-Z]?(?:\.[0-9]+)?(?:\s+§\s*[0-9]+(?:\.[0-9]+)*)?)"
 )
 SECTION_HEADING_RE = re.compile(
-    r"^(#{1,3})\s+((?:CF|CI|CJS)-[0-9]+(?:\.[0-9]+)?[A-Z]?(?:\.[0-9]+)?)[:*\s]",
+    r"^(#{1,3})\s+((?:CF|CI|CJS)-[0-9]+(?:\.[0-9]+)?[A-Z]?(?:\.[0-9]+)?(?:\s+§\s*[0-9]+(?:\.[0-9]+)*)?)[:*\s]",
     re.M,
 )
 ROUTER_DOMAIN_ORDER = (
@@ -27,10 +27,15 @@ ROUTER_DOMAIN_ORDER = (
     "Institutional governance",
     "Cross-implementation integrity",
 )
-ROUTER_READ_RE = re.compile(r"^\*\*Router read:\*\*.*$", re.M)
+ROUTER_READ_RE = re.compile(r"^\s*\*\*Router read:\*\*.*$")
 TOPIC_ROUTE_BULLET_RE = re.compile(
-    r"^- Topic routing \((?:primary owner|mandatory read-with)\):.*$",
-    re.M,
+    r"^(?P<indent>\s*)- Topic routing \((?:primary owner|mandatory read-with)\):.*$",
+)
+ROUTER_REFERENCE_BULLET_RE = re.compile(
+    r"^(?P<indent>\s*)-\s+\*\*CJS-0\.105\s+§1\*\* \(\*Topic router\*\)"
+)
+ROUTER_CHILD_REFERENCE_RE = re.compile(
+    r"^\s*-\s+\*\*(?:CF|CI|CJS|CS)-[0-9]"
 )
 TRACE_SUMMARY_MARKER = (
     '<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>'
@@ -66,7 +71,7 @@ def parse_primary_owner_ids(owner_cell: str) -> list[str]:
         if section_id:
             ids.append(section_id)
     if not ids:
-        inline = re.search(r"(CJS-[0-9]+(?:\.[0-9]+)?[A-Z]?)", owner_cell)
+        inline = re.search(r"(CJS-[0-9]+(?:\.[0-9]+)?[A-Z]?(?:\s+§\s*[0-9]+(?:\.[0-9]+)*)?)", owner_cell)
         if inline:
             ids.append(inline.group(1))
     return ids
@@ -181,7 +186,7 @@ def primary_owner_line(row: RouterRow) -> str:
         suffix = "; see that row for mandatory read-with."
     return (
         f"Topic routing (primary owner): **{row.row_id}** (*{short_topic(row.topic)}*) "
-        f"in **CJS-0.1** (*Topic router*).{suffix}"
+        f"in **CJS-0.105 §1** (*Topic router*).{suffix}"
     )
 
 
@@ -192,7 +197,7 @@ def read_with_line(row: RouterRow) -> str:
         owners = "primary owners " + ", ".join(f"**{item}**" for item in row.primary_attach)
     return (
         f"Topic routing (mandatory read-with): **{row.row_id}** (*{short_topic(row.topic)}*) "
-        f"in **CJS-0.1** (*Topic router*); {owners}."
+        f"in **CJS-0.105 §1** (*Topic router*); {owners}."
     )
 
 
@@ -308,10 +313,34 @@ def section_has_read_with_route(section_text: str, row: RouterRow) -> bool:
 def strip_routing_annotations(section_text: str) -> str:
     lines = section_text.splitlines()
     kept: list[str] = []
+    skip_descendants_of: int | None = None
+    skip_router_children_at: int | None = None
     for line in lines:
-        if ROUTER_READ_RE.match(line):
+        if skip_router_children_at is not None:
+            if not line.strip():
+                continue
+            indent = len(line) - len(line.lstrip())
+            if indent > skip_router_children_at or (
+                indent == skip_router_children_at and ROUTER_CHILD_REFERENCE_RE.match(line)
+            ):
+                continue
+            skip_router_children_at = None
+        if skip_descendants_of is not None:
+            if not line.strip():
+                continue
+            indent = len(line) - len(line.lstrip())
+            if indent > skip_descendants_of:
+                continue
+            skip_descendants_of = None
+        route = TOPIC_ROUTE_BULLET_RE.match(line)
+        if route:
+            skip_descendants_of = len(route.group("indent"))
             continue
-        if TOPIC_ROUTE_BULLET_RE.match(line):
+        router_reference = ROUTER_REFERENCE_BULLET_RE.match(line)
+        if router_reference:
+            skip_router_children_at = len(router_reference.group("indent"))
+            continue
+        if ROUTER_READ_RE.match(line):
             continue
         kept.append(line)
     return "\n".join(kept)

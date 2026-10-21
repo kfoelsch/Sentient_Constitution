@@ -79,7 +79,7 @@ def chicago_title(title: str) -> str:
     The first and last word, and the first word after a colon or dash, are always
     capitalised. Each part of a hyphenated word is treated as a word of its own
     (``Data-Handling``, ``Non-Exhaustive``). Only the first letter changes, so
-    ``CS-3`` and ``Class A`` keep their shape.
+    ``CS-9.310`` and ``Class A`` keep their shape.
     """
     parts = re.split(r"(\s+)", title)
     word_idx = [i for i, p in enumerate(parts) if p.strip()]

@@ -7,7 +7,7 @@
 
 This directory provides machine-readable **locators** for `python3 tools/corpus_lookup.py`. Assistants should use that CLI (see [`AI_NAVIGATION_GUIDE.md`](AI_NAVIGATION_GUIDE.md)); they should not treat index JSON, including gloss, as duty text.
 
-1. **ID resolver** for family/section IDs, CJS-0.1 topics, and Chapter Five terms (CLI input; may embed human-editor gloss)
+1. **ID resolver** for family/section IDs, CJS-0.105 §1 topics, and Chapter Five terms (CLI input; may embed human-editor gloss)
 2. **Section manifest** for heading line ranges
 3. **Cross-reference graphs** (file-to-file and section-to-section)
 4. **Definition registry** for Chapter Five locations

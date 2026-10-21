@@ -4,10 +4,10 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-12`
-> **Corpus edition pin:** `SC-Corpus-2026.10.19`
+> **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -25,19 +25,19 @@ Someone with power over housing, care, pay, movement, or a system you depend on 
 - **Today:** The same team that shipped the cutoff is also the “appeals desk.”
 - **With this Constitution:** A claim that the hearing body is biased, captured, or in conflict must be able to leave that body. The crew that cooperates to run a system does not get to staff the only final review and call that independence.
 
-See: [Chapter Thirteen §3](../../../core_13_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).
+See: [Chapter Thirteen §3](../../../core_13000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).
 
 **A report waiting to be looked at is not already a verdict.**
 - **Today:** Once someone files, you are already “in the system,” and silence or refusal is treated as proof.
 - **With this Constitution:** Most of us have no official record of verified help or harm. That is the normal state. Filing a case, by itself, does not change that. Someone still has to check actual facts.
 
-See: [Chapter Ten §2.1](../../../core_10_standing_assessment.md#21-silence-is-the-default); [Chapter Ten §3.6](../../../core_10_standing_assessment.md#36-forum-boundary).
+See: [Chapter Ten §2.1](../../../core_10000_standing_assessment.md#21-silence-is-the-default); [Chapter Ten §3.6](../../../core_10000_standing_assessment.md#36-forum-boundary).
 
 **You do not have to read the whole Constitution to get intake.**
 - **Today:** “Read the corpus first” is the next step.
 - **With this Constitution:** Complexity and specialist-only surfaces must not be the way the path is closed.
 
-See: [Article XXIII](../../../core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility).
+See: [Article XXIII](../../../core_06020_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility).
 
 ## What to open next
 
@@ -50,8 +50,8 @@ See: [Article XXIII](../../../core_06_rights_part_d.md#article-xxiii-comprehensi
 ## What this will not pretend to give you
 
 - A promise that every complaint wins, or that the other side is always wrong.
-- A markdown working group that calls itself independent review ([Chapter One §17.4](../../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)).
-- Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Eighteen §4](../../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)).
+- A markdown working group that calls itself independent review ([Chapter One §17.4](../../../core_01015_stewardship_capacity_principles.md#174-aligned-self-organization)).
+- Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Eighteen §4](../../../core_18000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further
 

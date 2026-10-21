@@ -140,7 +140,7 @@ Confidence: 42 high, 22 medium, 3 low.
 | 1C §14.1 | Market Concentration Threshold Mechanism | System | — | H | Floor against pile-ups of control |
 | 1C §14.2 | Pro-Competition and Anti-Domination | System | Institution | H | Durable domination, lock-in |
 | 1C §14.3 | Consolidation Ceiling | Institution | System | M | Early-warning power over consolidation |
-| 1C §15 | Systemic Evaluation Requirement | System | Process | H | Pointer to Chapter Nine and CS-3 |
+| 1C §15 | Systemic Evaluation Requirement | System | Process | H | Pointer to Chapter Nine and CS-9.305 and CS-9.310 |
 | 1C §16 | Integrated Application | All objects | — | H | Read every later chapter through Chapter One |
 | 7 §1 | Purpose, Scope, and Owner Boundary | Process | Institution | H | Separate jobs inside any binding process |
 | 7 §2 | Four-Seat Constitutional Floor | Process | Institution | H | Ask or act, check, keep record, hear challenge |
@@ -154,6 +154,6 @@ Confidence: 42 high, 22 medium, 3 low.
 
 ## Legend
 
-- **1A / 1B / 1C:** `core_01_a_values_principles.md`, `core_01_b_interaction_interpretation.md`, `core_01_c_stewardship_capacity_principles.md`.
-- **7:** `core_08_functional_independence_segregation_of_duties.md`.
+- **1A / 1B / 1C:** `core_01005_values_principles.md`, `core_01010_interaction_interpretation.md`, `core_01015_stewardship_capacity_principles.md`.
+- **7:** `core_08000_functional_independence_segregation_of_duties.md`.
 - **Also:** the second object the item clearly touches, if any.

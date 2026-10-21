@@ -60,7 +60,7 @@ REVIEWS = [
     DomainReview(
         domain="Separation of powers, role clarity, and anti-self-judging",
         external_sections="FRC 2024 Section 2; IIA Principles 1-5; OECD Integrity 2/12",
-        internal_anchor="SC Ch 11; Art XXIV; Ch 6 sec. 5; CI-3 to CI-8",
+        internal_anchor="SC Ch 11; Art XXIV; Ch 6 sec. 5; CI-8.205, CI-14.205, CI-8.210, CI-13.205, CI-8.215, and CI-6.205",
         design=3,
         operationalization=3,
         evidence=2,
@@ -69,13 +69,13 @@ REVIEWS = [
             "Court-family separation, cross-court anti-self-judging, assurance-line separation, and interpretive safeguards are explicit."
         ),
         gap="The repository still lacks a concise incompatibility matrix and role-separation quick reference for high-impact institutional operators.",
-        proposed_close="Add a one-page incompatibility matrix keyed to CI-3 through CI-8 and CI-7/7A/7B routing.",
+        proposed_close="Add a one-page incompatibility matrix keyed to CI-8.205, CI-14.205, CI-8.210, CI-13.205, CI-8.215, and CI-6.205, with CI-8.215 §§1–3 routing.",
         priority="P1",
     ),
     DomainReview(
         domain="Composition, competency, succession, and removal",
         external_sections="FRC 2024 Section 3; IIA Applying the model; OECD Integrity leadership/capacity",
-        internal_anchor="Art XXIV-B to XXIV-D; Ch 6 sec. 5; CI-4, CI-14; CF-10",
+        internal_anchor="Art XXIV-B to XXIV-D; Ch 6 sec. 5; CI-14.205, CI-6.275; CF-13.440",
         design=2,
         operationalization=2,
         evidence=2,
@@ -90,7 +90,7 @@ REVIEWS = [
     DomainReview(
         domain="Conflict integrity, anti-corruption, and anti-capture",
         external_sections="OECD Integrity 4/10/11; ISO 37001/37301 by analogy",
-        internal_anchor="SC Ch 1 sec. 7.2; Arts XII-D, XIII-D, XXIV; Ch 10; CI-5, CI-11, CI-13",
+        internal_anchor="SC Ch 1 sec. 7.2; Arts XII-D, XIII-D, XXIV; Ch 10; CI-8.210, CI-6.215, CI-11.210",
         design=2,
         operationalization=2,
         evidence=1,
@@ -105,7 +105,7 @@ REVIEWS = [
     DomainReview(
         domain="Risk governance and internal controls",
         external_sections="FRC 2024 Section 4/Provision 29; IIA 1-6; OECD Integrity 10; NIST AI RMF Govern/Map",
-        internal_anchor="SC Ch 1 sec. 7; Arts XIII-XVI, XXI-XXI; CI-3, CI-7; CS-5; CS-3–CS-4",
+        internal_anchor="SC Ch 1 sec. 7; Arts XIII-XVI, XXI-XXI; CI-8.205, CI-8.215; CS-6.345; CS-9.305, CS-9.310, and CS-14.305",
         design=3,
         operationalization=3,
         evidence=2,
@@ -120,22 +120,22 @@ REVIEWS = [
     DomainReview(
         domain="Transparency, disclosure, and public intelligibility",
         external_sections="OECD 2023 IV; OECD Integrity 9/13; NIST Govern/Measure; OHCHR II/III",
-        internal_anchor="Arts IX, XIV, XV, XXI, XXIV-C, XXV-E; Defs Ch 4; CI-12, CI-26; CJS-3.3/CJS-3.4/CJS-3.14-CJS-3.12",
+        internal_anchor="Arts IX, XIV, XV, XXI, XXIV-C, XXV-E; Defs Ch 4; CI-13.210, CI-0.215; CJS-5.115 §3/CJS-5.110 §4/CJS-5.125 §14–§12",
         design=3,
         operationalization=2,
         evidence=2,
         performance=2,
         current_state=(
-            "The corpus strongly protects disclosure, traceability, auditability, and accessible pathway concepts, with a dedicated governance disclosure schema hook in CI-12.4."
+            "The corpus strongly protects disclosure, traceability, auditability, and accessible pathway concepts, with a dedicated governance disclosure schema hook in CI-13.210 §4."
         ),
         gap="A standardized governance reporting taxonomy and mandatory field list are still not fully closed out as a stable publication package.",
-        proposed_close="Finish the CI-12/CI-26 reporting schema as a reusable disclosure template with cadence and comparison fields.",
+        proposed_close="Finish the CI-13.210/CI-0.215 reporting schema as a reusable disclosure template with cadence and comparison fields.",
         priority="P1",
     ),
     DomainReview(
         domain="Independent assurance and verification",
         external_sections="IIA Principles 4-5; OECD Integrity 12; FRC 2024 Section 4",
-        internal_anchor="Arts XV and XXIV; Ch 11; Defs Ch 4; CI-7, CI-8; CF-8, CF-9, CF-10; doc_architecture sec. 15-17",
+        internal_anchor="Arts XV and XXIV; Ch 11; Defs Ch 4; CI-8.215, CI-6.205; CF-13.430, CF-13.435, CF-13.440; doc_architecture sec. 15-17",
         design=3,
         operationalization=3,
         evidence=3,
@@ -150,7 +150,7 @@ REVIEWS = [
     DomainReview(
         domain="AI and system lifecycle governance",
         external_sections="NIST AI RMF Govern/Map/Measure/Manage; ISO/IEC 42001 4-10; NIST GenAI Profile 2024",
-        internal_anchor="Arts XIII-XVII, XXI-XXI; CS-5, CS-6, CS-11, CS-12; CS-2–CS-4",
+        internal_anchor="Arts XIII-XVII, XXI-XXI; CS-6.345, CS-6.315, CS-6.355, CS-6.330; CS-6.305, CS-6.310, CS-9.305, CS-9.310, and CS-14.305",
         design=3,
         operationalization=3,
         evidence=2,
@@ -165,7 +165,7 @@ REVIEWS = [
     DomainReview(
         domain="Remedy, redress, contestability, and restorative closure",
         external_sections="OHCHR III; OECD 2023 II; OECD Integrity 11/13",
-        internal_anchor="Arts XIII-B, XV, XVIII-B, XXV, XXVI; Ch 9; CI-6, CI-13; CS-7",
+        internal_anchor="Arts XIII-B, XV, XVIII-B, XXV, XXVI; Ch 9; CI-13.205, CI-11.210; CS-6.320",
         design=3,
         operationalization=2,
         evidence=2,
@@ -180,7 +180,7 @@ REVIEWS = [
     DomainReview(
         domain="Continuity, resilience, transition, and emergency discipline",
         external_sections="OECD 2023 VI; FRC 2024 Section 4; NIST Manage; ISO 37000 risk governance/social responsibility",
-        internal_anchor="Arts XXV-XXVI; Amendment Ch 14-15; CI-14; CS-10/CS-11/CS-12/CS-8",
+        internal_anchor="Arts XXV-XXVI; Amendment Ch 14-15; CI-6.275; CS-6.350/CS-6.355/CS-6.330/CS-6.325",
         design=3,
         operationalization=3,
         evidence=3,
@@ -317,7 +317,7 @@ def materialize_reviews(root: pathlib.Path) -> list[DomainReview]:
                     "Control-failure disclosure is now materially more standardized; the remaining close is to convert trigger thresholds and example use into routine, cycle-based operational practice."
                 ),
                 proposed_close=(
-                    "Align edition-cycle assurance reviews to the existing CI-7.2 trigger thresholds and accumulate dated control-failure packets where incidents or exercises warrant."
+                    "Align edition-cycle assurance reviews to the existing CI-8.215 §2 trigger thresholds and accumulate dated control-failure packets where incidents or exercises warrant."
                 ),
                 priority="P1",
             )

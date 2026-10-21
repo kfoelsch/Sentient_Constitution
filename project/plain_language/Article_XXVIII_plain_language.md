@@ -1,5 +1,5 @@
 # Article XXVIII: Transition Governance, Continuity, and Re-Baselining
-*Plain-language version of Article XXVIII (Transition Governance, Continuity, and Re-Baselining), including XXVIII-A through XXVIII-D in `core_06_rights_part_e.md`. The detailed "how it runs" rules are in CI-14 (transitional governance) and CI-7 (oversight and evidence). The official text remains the binding version.*
+*Plain-language version of Article XXVIII (Transition Governance, Continuity, and Re-Baselining), including XXVIII-A through XXVIII-D in `core_06025_rights_part_e.md`. The detailed "how it runs" rules are in CI-6.275 (transitional governance) and CI-8.215 (oversight and evidence). The official text remains the binding version.*
 
 ## The big idea
 Think of this Article as the **moving-day rules**. A community is switching from its old systems to running under this Constitution. That switch can't happen in one night, so it happens in steps. During the move:
@@ -153,13 +153,13 @@ And if the property is a system with a credible sentience indicator or an open s
 - they fit with reliability and protected-reporting safeguards; and
 - where practical, the people deciding who gets rewarded are separate from the people carrying out seizures, so payouts don't drive who gets targeted.
 
-**The fine print can't shrink the floor.** Operating details (triggers, valuation, appeals, chain of custody, funds, reviews) live in CI-14.1 to CI-14.3 and in adopting documents. None of them can weaken this Article, Chapter Ten, or Article XX-B.
+**The fine print can't shrink the floor.** Operating details (triggers, valuation, appeals, chain of custody, funds, reviews) live in CI-6.275 §1 to CI-6.275 §3 and in adopting documents. None of them can weaken this Article, Chapter Ten, or Article XX-B.
 
 ## Where the detail lives
-- **Phase gates, goals, owners, and proof of completion:** CI-14, Transitional governance and institutional evolution.
-- **The rights-attainment scorecard (measures, checking, publication):** CI-14.4.
-- **How often temporary powers are reviewed and renewed:** CI-14.
-- **Fallback paths, partial rollbacks, and reset procedures:** CI-14.
-- **How decisions are published and evidence is kept:** CI-7, Oversight, assurance, controls, and evidence, together with CI-14.
-- **How non-compliant property and systems are handled and how voluntary turnover programs run:** CI-14.1 through CI-14.3.
+- **Phase gates, goals, owners, and proof of completion:** CI-6.275, Transitional governance and institutional evolution.
+- **The rights-attainment scorecard (measures, checking, publication):** CI-6.275 §4.
+- **How often temporary powers are reviewed and renewed:** CI-6.275.
+- **Fallback paths, partial rollbacks, and reset procedures:** CI-6.275.
+- **How decisions are published and evidence is kept:** CI-8.215, Oversight, assurance, controls, and evidence, together with CI-6.275.
+- **How non-compliant property and systems are handled and how voluntary turnover programs run:** CI-6.275 §1 through CI-6.275 §3.
 - **Certification of systems:** Chapter Nine. **How standing is assessed:** Chapters Ten through Thirteen.

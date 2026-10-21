@@ -31,7 +31,7 @@ This inventory covers tracked non-core paths outside translations, historical ev
 
 Pending means no full pass is claimed by this inventory; prior work may already be sound. Review each file for its purpose and authority, owning core sources, conditions and exceptions, class and timing rules, human entry and failure route, citations, and relevant checks. Record completed batches and reopened dependencies in the [working plan](announcement_readiness_2026-10-20.md). Do not rewrite sound text simply to mark it reviewed.
 
-**B04 progress:** [Three full editorial passes recorded](../reviews/announcement_interlocks_B04_2026-10-20.md), leaving 72 of the 75 implementation-family files pending a full pass. CJS-1.9–1.11 has no remaining finding in that pass; CI-9 and CJS-2 retain D04 on hybrid-body applicability and exceptions. A recorded full pass is not clearance of an open issue, independent validation, or a frozen dependency baseline.
+**B04 progress:** [Three full editorial passes recorded](../reviews/announcement_interlocks_B04_2026-10-20.md), leaving 72 of the 75 implementation-family files pending a full pass. CJS-8.105 §9–1.11 has no remaining finding in that pass; CI-9.210 and CJS-18.110 retain D04 on hybrid-body applicability and exceptions. A recorded full pass is not clearance of an open issue, independent validation, or a frozen dependency baseline.
 
 ## Other tracked assets
 
@@ -121,96 +121,96 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 
 | File | Review state |
 |---|---|
-| [corpus_forum/cf_00_registry_and_reading_rules.md](../../corpus_forum/cf_00_registry_and_reading_rules.md) | Pending |
-| [corpus_forum/cf_01_scope_authority_boundary_rules.md](../../corpus_forum/cf_01_scope_authority_boundary_rules.md) | Pending |
-| [corpus_forum/cf_03_forum_formation_chamber_structure.md](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) | Pending |
-| [corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md](../../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md) | Pending |
-| [corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md](../../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md) | Pending |
-| [corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) | Pending |
-| [corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) | Pending |
-| [corpus_forum/cf_08_forum_forensic_analytical_support.md](../../corpus_forum/cf_08_forum_forensic_analytical_support.md) | Pending |
-| [corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md](../../corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md) | Pending |
-| [corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md) | Pending |
-| [corpus_forum/cf_11_performance_backlog_publication_accessibility.md](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md) | Pending |
-| [corpus_forum/cf_12_forum_continuity.md](../../corpus_forum/cf_12_forum_continuity.md) | Pending |
-| [corpus_forum/cf_13_fallback_operation.md](../../corpus_forum/cf_13_fallback_operation.md) | Pending |
-| [corpus_forum/cf_14_emergency_adjudication.md](../../corpus_forum/cf_14_emergency_adjudication.md) | Pending |
-| [corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md](../../corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md) | Pending |
-| [corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md](../../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md) | Pending |
-| [corpus_forum/cf_sentience_status_record.md](../../corpus_forum/cf_sentience_status_record.md) | Pending |
+| [corpus_forum/cf_00405_registry_and_reading_rules.md](../../corpus_forum/cf_00405_registry_and_reading_rules.md) | Pending |
+| [corpus_forum/cf_00410_scope_authority_boundary_rules.md](../../corpus_forum/cf_00410_scope_authority_boundary_rules.md) | Pending |
+| [corpus_forum/cf_13405_forum_formation_chamber_structure.md](../../corpus_forum/cf_13405_forum_formation_chamber_structure.md) | Pending |
+| [corpus_forum/cf_13410_panel_formation_disclosure_recusal_bench_constitution.md](../../corpus_forum/cf_13410_panel_formation_disclosure_recusal_bench_constitution.md) | Pending |
+| [corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md](../../corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md) | Pending |
+| [corpus_forum/cf_13420_appeal_secondary_review_exhaustion_pathways.md](../../corpus_forum/cf_13420_appeal_secondary_review_exhaustion_pathways.md) | Pending |
+| [corpus_forum/cf_13425_integrity_safeguards_anti_capture_anti_self_judging.md](../../corpus_forum/cf_13425_integrity_safeguards_anti_capture_anti_self_judging.md) | Pending |
+| [corpus_forum/cf_13430_forum_forensic_analytical_support.md](../../corpus_forum/cf_13430_forum_forensic_analytical_support.md) | Pending |
+| [corpus_forum/cf_13435_independent_investigative_service_prosecution_interface.md](../../corpus_forum/cf_13435_independent_investigative_service_prosecution_interface.md) | Pending |
+| [corpus_forum/cf_13440_technical_specialist_forums_specialist_chambers.md](../../corpus_forum/cf_13440_technical_specialist_forums_specialist_chambers.md) | Pending |
+| [corpus_forum/cf_13445_performance_backlog_publication_accessibility.md](../../corpus_forum/cf_13445_performance_backlog_publication_accessibility.md) | Pending |
+| [corpus_forum/cf_13450_forum_continuity.md](../../corpus_forum/cf_13450_forum_continuity.md) | Pending |
+| [corpus_forum/cf_13455_fallback_operation.md](../../corpus_forum/cf_13455_fallback_operation.md) | Pending |
+| [corpus_forum/cf_13460_emergency_adjudication.md](../../corpus_forum/cf_13460_emergency_adjudication.md) | Pending |
+| [corpus_forum/cf_13465_standard_records_forms_evidence_artifacts.md](../../corpus_forum/cf_13465_standard_records_forms_evidence_artifacts.md) | Pending |
+| [corpus_forum/cf_13470_staffing_reserve_capacity_structural_records.md](../../corpus_forum/cf_13470_staffing_reserve_capacity_structural_records.md) | Pending |
+| [corpus_forum/cf_13475_sentience_status_record.md](../../corpus_forum/cf_13475_sentience_status_record.md) | Pending |
 
 ## CI
 
 | File | Review state |
 |---|---|
-| [corpus_institutions/ci_00_registry_and_reading_rules.md](../../corpus_institutions/ci_00_registry_and_reading_rules.md) | Pending |
-| [corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md](../../corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md) | Pending |
-| [corpus_institutions/ci_03_institutional_design_separation_of_powers.md](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) | Pending |
-| [corpus_institutions/ci_04_appointment_competency_rotation_removal.md](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) | Pending |
-| [corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) | Pending |
-| [corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md](../../corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md) | Pending |
-| [corpus_institutions/ci_07_oversight_assurance_controls_evidence.md](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) | Pending |
-| [corpus_institutions/ci_08_transparency_participation_accessible_pathways.md](../../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) | Pending |
-| [corpus_institutions/ci_09_classification_linked_institutional_obligations.md](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) | Full pass B04 recorded; D04 open |
-| [corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](../../corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md) | Pending |
-| [corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md](../../corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md) | Pending |
-| [corpus_institutions/ci_12_cross_institution_coordination_escalation.md](../../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) | Pending |
-| [corpus_institutions/ci_13_institutional_failure_dissolution.md](../../corpus_institutions/ci_13_institutional_failure_dissolution.md) | Pending |
-| [corpus_institutions/ci_14_transitional_governance_institutional_evolution.md](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) | Pending |
-| [corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md](../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) | Pending |
-| [corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md](../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) | Pending |
-| [corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](../../corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md) | Pending |
-| [corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md](../../corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md) | Pending |
-| [corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md](../../corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md) | Pending |
-| [corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md](../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) | Pending |
-| [corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md](../../corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md) | Pending |
-| [corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) | Pending |
-| [corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md](../../corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md) | Pending |
-| [corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md](../../corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md) | Pending |
-| [corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md](../../corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md) | Pending |
-| [corpus_institutions/ci_26_compliance_mapping_stable_registry.md](../../corpus_institutions/ci_26_compliance_mapping_stable_registry.md) | Pending |
-| [corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) | B01 targeted parity correction; full pass pending |
-| [corpus_institutions/ci_28_institutional_accountability_sanctions.md](../../corpus_institutions/ci_28_institutional_accountability_sanctions.md) | Pending |
+| [corpus_institutions/ci_00205_registry_and_reading_rules.md](../../corpus_institutions/ci_00205_registry_and_reading_rules.md) | Pending |
+| [corpus_institutions/ci_00210_scope_purpose_legitimacy_interface.md](../../corpus_institutions/ci_00210_scope_purpose_legitimacy_interface.md) | Pending |
+| [corpus_institutions/ci_08205_institutional_design_separation_of_powers.md](../../corpus_institutions/ci_08205_institutional_design_separation_of_powers.md) | Pending |
+| [corpus_institutions/ci_14205_appointment_competency_rotation_removal.md](../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md) | Pending |
+| [corpus_institutions/ci_08210_conflict_integrity_anti_capture_anti_corruption.md](../../corpus_institutions/ci_08210_conflict_integrity_anti_capture_anti_corruption.md) | Pending |
+| [corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md](../../corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md) | Pending |
+| [corpus_institutions/ci_08215_oversight_assurance_controls_evidence.md](../../corpus_institutions/ci_08215_oversight_assurance_controls_evidence.md) | Pending |
+| [corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md](../../corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md) | Pending |
+| [corpus_institutions/ci_09210_classification_linked_institutional_obligations.md](../../corpus_institutions/ci_09210_classification_linked_institutional_obligations.md) | Full pass B04 recorded; D04 open |
+| [corpus_institutions/ci_06210_public_revenue_fees_recurring_charges_billing_integrity.md](../../corpus_institutions/ci_06210_public_revenue_fees_recurring_charges_billing_integrity.md) | Pending |
+| [corpus_institutions/ci_06215_resource_stewardship_incentive_integrity.md](../../corpus_institutions/ci_06215_resource_stewardship_incentive_integrity.md) | Pending |
+| [corpus_institutions/ci_13210_cross_institution_coordination_escalation.md](../../corpus_institutions/ci_13210_cross_institution_coordination_escalation.md) | Pending |
+| [corpus_institutions/ci_11210_institutional_failure_dissolution.md](../../corpus_institutions/ci_11210_institutional_failure_dissolution.md) | Pending |
+| [corpus_institutions/ci_06275_transitional_governance_institutional_evolution.md](../../corpus_institutions/ci_06275_transitional_governance_institutional_evolution.md) | Pending |
+| [corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md](../../corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md) | Pending |
+| [corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md](../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md) | Pending |
+| [corpus_institutions/ci_06230_end_of_life_continuity_memorial_dignity_posthumous_data.md](../../corpus_institutions/ci_06230_end_of_life_continuity_memorial_dignity_posthumous_data.md) | Pending |
+| [corpus_institutions/ci_06235_collective_public_health_epidemic_response_addiction_informed_care.md](../../corpus_institutions/ci_06235_collective_public_health_epidemic_response_addiction_informed_care.md) | Pending |
+| [corpus_institutions/ci_06240_vulnerable_personal_services_markets_article_viie_interface.md](../../corpus_institutions/ci_06240_vulnerable_personal_services_markets_article_viie_interface.md) | Pending |
+| [corpus_institutions/ci_06245_relational_coercive_control_intimate_power_anti_domination.md](../../corpus_institutions/ci_06245_relational_coercive_control_intimate_power_anti_domination.md) | Pending |
+| [corpus_institutions/ci_06250_community_life_voluntary_association_non_instrumental_time.md](../../corpus_institutions/ci_06250_community_life_voluntary_association_non_instrumental_time.md) | Pending |
+| [corpus_institutions/ci_06255_commons_cooperatives_mutual_aid_non_market_governance.md](../../corpus_institutions/ci_06255_commons_cooperatives_mutual_aid_non_market_governance.md) | Pending |
+| [corpus_institutions/ci_06260_place_based_stewardship_indigenous_continuity_consultation.md](../../corpus_institutions/ci_06260_place_based_stewardship_indigenous_continuity_consultation.md) | Pending |
+| [corpus_institutions/ci_06265_innovation_reward_disclosure_anti_enclosure.md](../../corpus_institutions/ci_06265_innovation_reward_disclosure_anti_enclosure.md) | Pending |
+| [corpus_institutions/ci_06270_scientific_publication_peer_review_replication_evidence_stewardship.md](../../corpus_institutions/ci_06270_scientific_publication_peer_review_replication_evidence_stewardship.md) | Pending |
+| [corpus_institutions/ci_00215_compliance_mapping_stable_registry.md](../../corpus_institutions/ci_00215_compliance_mapping_stable_registry.md) | Pending |
+| [corpus_institutions/ci_11205_remedy_systems_institutional_redress_capacity.md](../../corpus_institutions/ci_11205_remedy_systems_institutional_redress_capacity.md) | B01 targeted parity correction; full pass pending |
+| [corpus_institutions/ci_11215_institutional_accountability_sanctions.md](../../corpus_institutions/ci_11215_institutional_accountability_sanctions.md) | Pending |
 
 ## CJS
 
 | File | Review state |
 |---|---|
-| [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../../corpus_joint_structure/cjs_00_registry_and_reading_rules.md) | Pending |
-| [corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md](../../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md) | Pending |
-| [corpus_joint_structure/cjs_02_specific_joint_interlocks.md](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md) | Full pass B04 recorded; D04 open |
-| [corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md) | Pending |
-| [corpus_joint_structure/cjs_03a_accountability_operations.md](../../corpus_joint_structure/cjs_03a_accountability_operations.md) | Pending |
-| [corpus_joint_structure/cjs_03c_continuity_operations.md](../../corpus_joint_structure/cjs_03c_continuity_operations.md) | Pending |
-| [corpus_joint_structure/cjs_03i_integrative_operations.md](../../corpus_joint_structure/cjs_03i_integrative_operations.md) | Pending |
-| [corpus_joint_structure/cjs_03o_oversight_operations.md](../../corpus_joint_structure/cjs_03o_oversight_operations.md) | Pending |
-| [corpus_joint_structure/cjs_03p_participation_operations.md](../../corpus_joint_structure/cjs_03p_participation_operations.md) | Pending |
-| [corpus_joint_structure/cjs_03u_audit_process.md](../../corpus_joint_structure/cjs_03u_audit_process.md) | Pending |
-| [corpus_joint_structure/cjs_04_drafting_contracts.md](../../corpus_joint_structure/cjs_04_drafting_contracts.md) | Pending |
-| [corpus_joint_structure/cjs_05_odef_parse_mechanics.md](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md) | Pending |
-| [corpus_joint_structure/cjs_06_support_hosting_classification.md](../../corpus_joint_structure/cjs_06_support_hosting_classification.md) | Full pass B04 recorded; no remaining finding in that pass; reopen on source change |
+| [corpus_joint_structure/cjs_00105_registry_and_reading_rules.md](../../corpus_joint_structure/cjs_00105_registry_and_reading_rules.md) | Pending |
+| [corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md](../../corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md) | Pending |
+| [corpus_joint_structure/cjs_18110_specific_joint_interlocks.md](../../corpus_joint_structure/cjs_18110_specific_joint_interlocks.md) | Full pass B04 recorded; D04 open |
+| [corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md](../../corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md) | Pending |
+| [corpus_joint_structure/cjs_05125_accountability_operations.md](../../corpus_joint_structure/cjs_05125_accountability_operations.md) | Pending |
+| [corpus_joint_structure/cjs_05130_continuity_operations.md](../../corpus_joint_structure/cjs_05130_continuity_operations.md) | Pending |
+| [corpus_joint_structure/cjs_05135_integrative_operations.md](../../corpus_joint_structure/cjs_05135_integrative_operations.md) | Pending |
+| [corpus_joint_structure/cjs_05110_oversight_operations.md](../../corpus_joint_structure/cjs_05110_oversight_operations.md) | Pending |
+| [corpus_joint_structure/cjs_05120_participation_operations.md](../../corpus_joint_structure/cjs_05120_participation_operations.md) | Pending |
+| [corpus_joint_structure/cjs_05115_audit_process.md](../../corpus_joint_structure/cjs_05115_audit_process.md) | Pending |
+| [corpus_joint_structure/cjs_18105_drafting_contracts.md](../../corpus_joint_structure/cjs_18105_drafting_contracts.md) | Pending |
+| [corpus_joint_structure/cjs_05140_odef_parse_mechanics.md](../../corpus_joint_structure/cjs_05140_odef_parse_mechanics.md) | Pending |
+| [corpus_joint_structure/cjs_08105_support_hosting_classification.md](../../corpus_joint_structure/cjs_08105_support_hosting_classification.md) | Full pass B04 recorded; no remaining finding in that pass; reopen on source change |
 | [corpus_joint_structure/cjs_reader_guide.md](../../corpus_joint_structure/cjs_reader_guide.md) | Pending |
 
 ## CS
 
 | File | Review state |
 |---|---|
-| [corpus_systems/cs_00_registry_and_reading_rules.md](../../corpus_systems/cs_00_registry_and_reading_rules.md) | Pending |
-| [corpus_systems/cs_01_scope_purpose_identifier_rules.md](../../corpus_systems/cs_01_scope_purpose_identifier_rules.md) | Pending |
-| [corpus_systems/cs_02_a_information_types_and_handling.md](../../corpus_systems/cs_02_a_information_types_and_handling.md) | Pending |
-| [corpus_systems/cs_02_b_data_classifications.md](../../corpus_systems/cs_02_b_data_classifications.md) | Pending |
-| [corpus_systems/cs_03_a_system_classification_machinery.md](../../corpus_systems/cs_03_a_system_classification_machinery.md) | Pending |
-| [corpus_systems/cs_03_b_system_impact_classifications.md](../../corpus_systems/cs_03_b_system_impact_classifications.md) | Pending |
-| [corpus_systems/cs_04_critical_system_stewardship.md](../../corpus_systems/cs_04_critical_system_stewardship.md) | Pending |
-| [corpus_systems/cs_05_design_testing_verification_deployment.md](../../corpus_systems/cs_05_design_testing_verification_deployment.md) | Pending |
-| [corpus_systems/cs_06_comprehensibility_complexity_stewardship.md](../../corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) | Pending |
-| [corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md) | Pending |
-| [corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) | Pending |
-| [corpus_systems/cs_09_resource_allocation_funding_stewardship.md](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) | Pending full review; B03 corrects §17 gloss only |
-| [corpus_systems/cs_10_transition_constitution_migration_governance.md](../../corpus_systems/cs_10_transition_constitution_migration_governance.md) | Pending |
-| [corpus_systems/cs_11_subversion_response_replacement_reconstitution.md](../../corpus_systems/cs_11_subversion_response_replacement_reconstitution.md) | Pending |
-| [corpus_systems/cs_12_decentralized_continuity_partition_resilience.md](../../corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) | Pending |
-| [corpus_systems/cs_13_system_requirements.md](../../corpus_systems/cs_13_system_requirements.md) | Pending |
+| [corpus_systems/cs_00305_registry_and_reading_rules.md](../../corpus_systems/cs_00305_registry_and_reading_rules.md) | Pending |
+| [corpus_systems/cs_00310_scope_purpose_identifier_rules.md](../../corpus_systems/cs_00310_scope_purpose_identifier_rules.md) | Pending |
+| [corpus_systems/cs_06305_information_types_and_handling.md](../../corpus_systems/cs_06305_information_types_and_handling.md) | Pending |
+| [corpus_systems/cs_06310_data_classifications.md](../../corpus_systems/cs_06310_data_classifications.md) | Pending |
+| [corpus_systems/cs_09305_system_classification_machinery.md](../../corpus_systems/cs_09305_system_classification_machinery.md) | Pending |
+| [corpus_systems/cs_09310_system_impact_classifications.md](../../corpus_systems/cs_09310_system_impact_classifications.md) | Pending |
+| [corpus_systems/cs_14305_critical_system_stewardship.md](../../corpus_systems/cs_14305_critical_system_stewardship.md) | Pending |
+| [corpus_systems/cs_06345_design_testing_verification_deployment.md](../../corpus_systems/cs_06345_design_testing_verification_deployment.md) | Pending |
+| [corpus_systems/cs_06315_comprehensibility_complexity_stewardship.md](../../corpus_systems/cs_06315_comprehensibility_complexity_stewardship.md) | Pending |
+| [corpus_systems/cs_06320_justice_safeguards_restitution_rehabilitation.md](../../corpus_systems/cs_06320_justice_safeguards_restitution_rehabilitation.md) | Pending |
+| [corpus_systems/cs_06325_adaptive_sustainability_ecosystem_resilience.md](../../corpus_systems/cs_06325_adaptive_sustainability_ecosystem_resilience.md) | Pending |
+| [corpus_systems/cs_06335_resource_allocation_funding_stewardship.md](../../corpus_systems/cs_06335_resource_allocation_funding_stewardship.md) | Pending full review; B03 corrects §17 gloss only |
+| [corpus_systems/cs_06350_transition_constitution_migration_governance.md](../../corpus_systems/cs_06350_transition_constitution_migration_governance.md) | Pending |
+| [corpus_systems/cs_06355_subversion_response_replacement_reconstitution.md](../../corpus_systems/cs_06355_subversion_response_replacement_reconstitution.md) | Pending |
+| [corpus_systems/cs_06330_decentralized_continuity_partition_resilience.md](../../corpus_systems/cs_06330_decentralized_continuity_partition_resilience.md) | Pending |
+| [corpus_systems/cs_06340_system_requirements.md](../../corpus_systems/cs_06340_system_requirements.md) | Pending |
 
 ## Published documentation
 
@@ -289,12 +289,12 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [implementation/CONTINUITY_RESILIENCE_DASHBOARD.md](../../implementation/CONTINUITY_RESILIENCE_DASHBOARD.md) | Pending |
 | [implementation/EDITION_ASSURANCE_PACKET_TEMPLATE_2026-04-23.md](../../implementation/EDITION_ASSURANCE_PACKET_TEMPLATE_2026-04-23.md) | Pending |
 | [implementation/FAQ.md](../../implementation/FAQ.md) | Pending |
-| [implementation/GOVERNANCE_DISCLOSURE_TEMPLATE_CI8_CI26.md](../../implementation/GOVERNANCE_DISCLOSURE_TEMPLATE_CI8_CI26.md) | Pending |
+| [implementation/GOVERNANCE_DISCLOSURE_TEMPLATE.md](../../implementation/GOVERNANCE_DISCLOSURE_TEMPLATE.md) | Pending |
 | [implementation/LEQU_CALIBRATION_REFERENCE.md](../../implementation/LEQU_CALIBRATION_REFERENCE.md) | Pending |
 | [implementation/PRE_PUBLICATION_SPEC.md](../../implementation/PRE_PUBLICATION_SPEC.md) | Pending |
 | [implementation/PRINT_PACK.md](../../implementation/PRINT_PACK.md) | Pending |
 | [implementation/PROCESS_PIPELINES_READER.md](../../implementation/PROCESS_PIPELINES_READER.md) | Pending |
-| [implementation/ROLE_SEPARATION_MATRIX_CI3_CI12.md](../../implementation/ROLE_SEPARATION_MATRIX_CI3_CI12.md) | Pending |
+| [implementation/ROLE_SEPARATION_MATRIX.md](../../implementation/ROLE_SEPARATION_MATRIX.md) | Pending |
 | [implementation/STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md) | Pending |
 | [implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md](../../implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md) | Pending |
 | [implementation/TETRAD_TIMELINESS_CUT_LIST_2026-06-22.md](../../implementation/TETRAD_TIMELINESS_CUT_LIST_2026-06-22.md) | Pending |

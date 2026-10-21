@@ -7,8 +7,8 @@
 - How shared contracts set authority, readability, identifiers, and “who owns this topic”
 - How topic routing and mandatory read-with order work across implementation files
 - How joint obligations and interlocks must be satisfied together — not restated as domain doctrine
-- How shared operational definitions (**oDef**) live in the **CJS-3** (*operational cluster library (oDef)*) library (**oDef.*n*** = **CJS-3.*n***) — including the **[CJS-3.3 / oDef.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
-- Families **CJS-1** (*Scope, purpose, and boundary interface*)–**CJS-3** (*operational cluster library (oDef)*) and the registry annex carry the detail — expand **Joint structure index** below, or open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) / [CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*), when you need a specific file
+- Shared operational definitions (**oDef**) are organized across the operational cluster chapters: **CJS-5.105** (*operational cluster library*), **CJS-5.110 §2** (*Oversight: reflexive transparency and accountability terms*), **CJS-5.115 §3** (*Audit process home*), **CJS-5.120 §7** (*Participation: quorum and participatory legitimacy terms*), **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*), **CJS-5.130 §16** (*Continuity: dependency integrity and disclosure terms*), and **CJS-5.135 §22** (*Integrative: constrained-secrecy and protected-investigation terms*). The [CJS-5.115 §3 audit process home](corpus_joint_structure/cjs_05115_audit_process.md#cjs-5115-3--odef3-audit-process-home) explains the shared audit process.
+- The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-18.105 §7** (*Drafting contracts*), **CJS-5.140 §13** (*oDef parse mechanics*), and **CJS-8.105 §9** (*Support roles, hosting independence, and classification alignment*). Open the [Joint structure index](corpus_joint_structure.md) or the [CJS-0.105 §1 Cross-file routing](corpus_joint_structure/cjs_00105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) for a specific file.
 
 **Does not:**
 - Replace day-to-day domain rules in [Systems and data](corpus_systems.md), [Institutions](corpus_institutions.md), or [Forums](corpus_forum.md)
@@ -16,28 +16,28 @@
 - Require most readers to read this folder front to back
 
 **Implements from the core files:**
-- [Chapter One](core_01_a_values_principles.md) / [Preamble](core_00_preamble.md) — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) as the compass for **oDef** / **CJS-3** (*operational cluster library*) bands
-- [Chapter Five](core_05__definitions_home.md) definition stack and [Corpus](core_05_band_integrative.md#corpus) designation — joint interfaces and **oDef** clusters that must track constitutional **Def.*** meaning without redefining it
-- Cross-layer support for [Chapter Six](core_06_rights_part_a.md) through [Chapter Fourteen](core_14_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
-- [Chapter Eighteen](core_18_incorporation.md) incorporation discipline for how implementation text binds when adopted
+- [Chapter One](core_01005_values_principles.md) / [Preamble](core_00000_preamble.md) — [Constitutional Tetrad](core_00000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00000_preamble.md#two-constitutional-aims) provide the compass for **oDef** and the shared operational clusters.
+- [Chapter Five](core_05000_definitions_home.md) definition stack and [Corpus](core_05045_band_integrative.md#corpus) designation — joint interfaces and **oDef** clusters that must track constitutional **Def.*** meaning without redefining it
+- Cross-layer support for [Chapter Six](core_06005_rights_part_a.md) through [Chapter Fourteen](core_14000_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
+- [Chapter Eighteen](core_18000_incorporation.md) incorporation discipline for how implementation text binds when adopted
 
 **Siblings:**
 - Core [README](README.md) — constitutional reading order before joint-structure detail
 - [Systems and data](corpus_systems.md) — start here for typing, classification, and system protocols
 - [Institutions](corpus_institutions.md) — start here for body formation, oversight, and institutional remedy
 - [Forums](corpus_forum.md) — start here for panels, routing, appeals, and hearing operations
-- [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) and [CJS-0.1 Cross-file routing](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) — topic-driven entry when you already know the subject (**CJS-0.1** (*Cross-file routing*) is integrator/maintainer only)
+- [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) and [CJS-0.105 §1 Cross-file routing](corpus_joint_structure/cjs_00105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) — topic-driven entry when you already know the subject; this router table is integrator/maintainer detail.
 
-**Binding:** When an adopter incorporates this layer under [Chapter Eighteen](core_18_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Eighteen](core_18000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
-**New to the non-core corpus?** Start at the [joint-structure reader guide](corpus_joint_structure/cjs_reader_guide.md) — how to enter this layer, how labels work, and which file to open. The binding gateway is [CJS-1.0 Purpose of this layer](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer).
+**New to the non-core corpus?** Start at the [joint-structure reader guide](corpus_joint_structure/cjs_reader_guide.md) — how to enter this layer, how labels work, and which file to open. The binding gateway is [CJS-0.110 §0 Purpose of this layer](corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-of-this-layer).
 
-**Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Joint structure index** below. Maintainers edit the integrator table under [CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*). How to enter the layer: [joint-structure reader guide](corpus_joint_structure/cjs_reader_guide.md).
+**Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Joint structure index** below. Maintainers edit the integrator table under [CJS-0.105 §1 Cross-file routing](corpus_joint_structure/cjs_00105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing). How to enter the layer: [joint-structure reader guide](corpus_joint_structure/cjs_reader_guide.md).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>
 
-> *(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `core_05__definitions_home.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
+> *(Edition alignment: same labels as the Sentient Constitution numbered `core_*.md` files (see [README.md](README.md)), `core_05000_definitions_home.md`, `corpus_systems.md`, `corpus_institutions.md`, and `corpus_forum.md`.)*
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the joint-structure implementation file. Substantive CJS text lives in the `corpus_joint_structure/` subfiles. Broad references to `corpus_joint_structure.md` continue to mean the joint-structure implementation file as a whole.
 >
@@ -61,44 +61,44 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CJS-0: Registry, identifier rules, and CJS-0.1 routing table | [cjs_00_registry_and_reading_rules.md](corpus_joint_structure/cjs_00_registry_and_reading_rules.md) |
+| CJS-0.105: Registry, identifier rules, and CJS-0.105 §1 routing table | [cjs_00105_registry_and_reading_rules.md](corpus_joint_structure/cjs_00105_registry_and_reading_rules.md) |
 
 ### Scope and contract
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CJS-1: Scope, purpose, boundary interface, and shared contract | [cjs_01_scope_purpose_boundary_interface.md](corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md) |
+| CJS-0.110: Scope, purpose, boundary interface, and shared contract | [cjs_00110_scope_purpose_boundary_interface.md](corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md) |
 
 ### Drafting contracts
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CJS-1.7–CJS-1.8.1: Drafting contracts and owner-to-CJS seam | [cjs_04_drafting_contracts.md](corpus_joint_structure/cjs_04_drafting_contracts.md) |
+| CJS-18.105 §7–CJS-18.105 §8.1: Drafting contracts and owner-to-CJS seam | [cjs_18105_drafting_contracts.md](corpus_joint_structure/cjs_18105_drafting_contracts.md) |
 
 ### oDef parse mechanics
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CJS-1.13–CJS-1.14: oDef parse mechanics | [cjs_05_odef_parse_mechanics.md](corpus_joint_structure/cjs_05_odef_parse_mechanics.md) |
+| CJS-5.140 §13–CJS-5.140 §14: oDef parse mechanics | [cjs_05140_odef_parse_mechanics.md](corpus_joint_structure/cjs_05140_odef_parse_mechanics.md) |
 
 ### Interlocks
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CJS-2: Specific joint interlocks and shared abstractions | [cjs_02_specific_joint_interlocks.md](corpus_joint_structure/cjs_02_specific_joint_interlocks.md) |
-| CJS-1.9–CJS-1.11: Support roles, hosting independence, and classification alignment | [cjs_06_support_hosting_classification.md](corpus_joint_structure/cjs_06_support_hosting_classification.md) |
+| CJS-18.110: Specific joint interlocks and shared abstractions | [cjs_18110_specific_joint_interlocks.md](corpus_joint_structure/cjs_18110_specific_joint_interlocks.md) |
+| CJS-8.105 §9–CJS-8.105 §11: Support roles, hosting independence, and classification alignment | [cjs_08105_support_hosting_classification.md](corpus_joint_structure/cjs_08105_support_hosting_classification.md) |
 
-### oDef library (CJS-3)
+### oDef library (CJS-5.105–CJS-5.135)
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CJS-3 / oDef: operational cluster library (compass and role preface) | [cjs_03_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md) |
-| CJS-3.3 / oDef.3: Audit process home (what / why / how / when) | [cjs_03u_audit_process.md](corpus_joint_structure/cjs_03u_audit_process.md) |
-| CJS-3.2–CJS-3.6 / oDef.2–oDef.6: Oversight leg clusters | [cjs_03o_oversight_operations.md](corpus_joint_structure/cjs_03o_oversight_operations.md) |
-| CJS-3.7–CJS-3.10 / oDef.7–oDef.10: Participation leg clusters | [cjs_03p_participation_operations.md](corpus_joint_structure/cjs_03p_participation_operations.md) |
-| CJS-3.11–CJS-3.15 / oDef.11–oDef.15: Accountability leg clusters | [cjs_03a_accountability_operations.md](corpus_joint_structure/cjs_03a_accountability_operations.md) |
-| CJS-3.16–CJS-3.21 / oDef.16–oDef.21: Continuity aim clusters | [cjs_03c_continuity_operations.md](corpus_joint_structure/cjs_03c_continuity_operations.md) |
-| CJS-3.22–CJS-3.23 / oDef.22–oDef.23: Integrative cross-leg clusters | [cjs_03i_integrative_operations.md](corpus_joint_structure/cjs_03i_integrative_operations.md) |
+| CJS-5.105 / oDef: operational cluster library (compass and role preface) | [cjs_05105_cross_implementation_operational_terms.md](corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md) |
+| CJS-5.115 §3 / oDef.3: Audit process home (what / why / how / when) | [cjs_05115_audit_process.md](corpus_joint_structure/cjs_05115_audit_process.md) |
+| CJS-5.110 §2–CJS-5.110 §6 / oDef.2–oDef.6: Oversight leg clusters | [cjs_05110_oversight_operations.md](corpus_joint_structure/cjs_05110_oversight_operations.md) |
+| CJS-5.120 §7–CJS-5.120 §10 / oDef.7–oDef.10: Participation leg clusters | [cjs_05120_participation_operations.md](corpus_joint_structure/cjs_05120_participation_operations.md) |
+| CJS-5.125 §11–CJS-5.125 §15 / oDef.11–oDef.15: Accountability leg clusters | [cjs_05125_accountability_operations.md](corpus_joint_structure/cjs_05125_accountability_operations.md) |
+| CJS-5.130 §16–CJS-5.130 §21 / oDef.16–oDef.21: Continuity aim clusters | [cjs_05130_continuity_operations.md](corpus_joint_structure/cjs_05130_continuity_operations.md) |
+| CJS-5.135 §22–CJS-5.135 §23 / oDef.22–oDef.23: Integrative cross-leg clusters | [cjs_05135_integrative_operations.md](corpus_joint_structure/cjs_05135_integrative_operations.md) |
 <!-- END GENERATED FAMILY INDEX -->
 
 </details>
