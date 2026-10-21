@@ -5,79 +5,79 @@
   "note": "Hashes identify consulted dependencies, not completed whole-file reviews. Chapter Seven belongs to steward work and was separately committed as 616dda15 during this pass. Forum kit worktree hash includes B02 template repair; CS-6.335 worktree hash includes B03 gloss alignment. If a dependency changes, reassess the affected findings. No resolver index is a meaning source.",
   "sources": [
     {
-      "path": "core_05035_band_accountability.md",
+      "path": "core_05.035_band_accountability.md",
       "head_sha256": "9b7b5a34681e1d983fa09de5eaa403869ab301c4562592b0140dd6a1e7b62c18",
       "worktree_sha256": "9b7b5a34681e1d983fa09de5eaa403869ab301c4562592b0140dd6a1e7b62c18",
       "differs_from_head": false
     },
     {
-      "path": "core_06010_rights_part_b.md",
+      "path": "core_06.010_rights_part_b.md",
       "head_sha256": "99c7ccc5376d7d721f5a84b81dba321cb0aecdaee09d7b02086c9521c2e6b9f1",
       "worktree_sha256": "99c7ccc5376d7d721f5a84b81dba321cb0aecdaee09d7b02086c9521c2e6b9f1",
       "differs_from_head": false
     },
     {
-      "path": "core_06015_rights_part_c.md",
+      "path": "core_06.015_rights_part_c.md",
       "head_sha256": "dc495faf46e65fd3a4a7d843bc885a5c9a117f740948629d5f0b1807ec539c2f",
       "worktree_sha256": "dc495faf46e65fd3a4a7d843bc885a5c9a117f740948629d5f0b1807ec539c2f",
       "differs_from_head": false
     },
     {
-      "path": "core_07000_charters.md",
+      "path": "core_07.000_charters.md",
       "head_sha256": "cc4be802d7339f0d56c3ffce3abe0f425086c25c6f2ca3167918ae490550898f",
       "worktree_sha256": "475dca85de286cda047da2075796f5ccec964b21dddb35dde7d4a474b784750b",
       "differs_from_head": true
     },
     {
-      "path": "core_08000_functional_independence_segregation_of_duties.md",
+      "path": "core_08.000_functional_independence_segregation_of_duties.md",
       "head_sha256": "0d6678fc56c0ab703e177470d4fc2cd0b80bd00eb18228010acdd89f7b069e35",
       "worktree_sha256": "0d6678fc56c0ab703e177470d4fc2cd0b80bd00eb18228010acdd89f7b069e35",
       "differs_from_head": false
     },
     {
-      "path": "core_13000_forum.md",
+      "path": "core_13.000_forum.md",
       "head_sha256": "5c614db7818aeafa7ea177068a60d5653dd67e44104461f4b8af7d42885d0976",
       "worktree_sha256": "5c614db7818aeafa7ea177068a60d5653dd67e44104461f4b8af7d42885d0976",
       "differs_from_head": false
     },
     {
-      "path": "core_17000_amendment_ratification.md",
+      "path": "core_17.000_amendment_ratification.md",
       "head_sha256": "6913fbc00367cbef79fd3cb2fcb0950dc4a63de61885dbd34dd96ba84ef77c8d",
       "worktree_sha256": "6913fbc00367cbef79fd3cb2fcb0950dc4a63de61885dbd34dd96ba84ef77c8d",
       "differs_from_head": false
     },
     {
-      "path": "core_18000_incorporation.md",
+      "path": "core_18.000_incorporation.md",
       "head_sha256": "c0a613f28afe46cb3c51c85c741cff8781eb007fabb055136e760d9758d4f12e",
       "worktree_sha256": "c0a613f28afe46cb3c51c85c741cff8781eb007fabb055136e760d9758d4f12e",
       "differs_from_head": false
     },
     {
-      "path": "corpus_systems/cs_09305_system_classification_machinery.md",
+      "path": "corpus_systems/cs_09.305_system_classification_machinery.md",
       "head_sha256": "c396f21c4de891271c2229bad5565a0abbe98707eb97d23aec2e16bbc61656c1",
       "worktree_sha256": "c396f21c4de891271c2229bad5565a0abbe98707eb97d23aec2e16bbc61656c1",
       "differs_from_head": false
     },
     {
-      "path": "corpus_systems/cs_09310_system_impact_classifications.md",
+      "path": "corpus_systems/cs_09.310_system_impact_classifications.md",
       "head_sha256": "91ace25a6339eafceb671113c8ffaf9c46dc56379e13c4319cf34ff1950090ac",
       "worktree_sha256": "91ace25a6339eafceb671113c8ffaf9c46dc56379e13c4319cf34ff1950090ac",
       "differs_from_head": false
     },
     {
-      "path": "corpus_systems/cs_06335_resource_allocation_funding_stewardship.md",
+      "path": "corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md",
       "head_sha256": "c8d3c08c4419dbae928ed411721811ba2aa8afa8c9e65e5a900b9bc3f4ee61b7",
       "worktree_sha256": "ffc69846cd9b13aa563ffb772238931e6518692e0ff05c46bdb082a30fdf97f1",
       "differs_from_head": true
     },
     {
-      "path": "corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md",
+      "path": "corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md",
       "head_sha256": "a97ec19f4efa0e14b221e6706302c6be7b7157d850601253f66c34485a98060c",
       "worktree_sha256": "a97ec19f4efa0e14b221e6706302c6be7b7157d850601253f66c34485a98060c",
       "differs_from_head": false
     },
     {
-      "path": "corpus_institutions/ci_06255_commons_cooperatives_mutual_aid_non_market_governance.md",
+      "path": "corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md",
       "head_sha256": "0ad1c33a8fa9d06183635d91d34374e244c8ba00bcabf32fbfeb0b4fb5a34473",
       "worktree_sha256": "0ad1c33a8fa9d06183635d91d34374e244c8ba00bcabf32fbfeb0b4fb5a34473",
       "differs_from_head": false

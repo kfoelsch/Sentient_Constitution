@@ -16,21 +16,21 @@ class FossilAnchorAuditTests(unittest.TestCase):
     def test_dual_ids_are_pruned_to_current(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_11000_standing_integration.md").write_text(
+            (root / "core_11.000_standing_integration.md").write_text(
                 "<a id=\"411-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
                 "<a id=\"54-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
                 "#### 5.4 Duty to resist unlawful or unconstitutional instructions\n",
                 encoding="utf-8",
             )
-            (root / "core_01015_stewardship_capacity_principles.md").write_text(
-                "[Chapter Ten §5.4](core_11000_standing_integration.md"
+            (root / "core_01.015_stewardship_capacity_principles.md").write_text(
+                "[Chapter Ten §5.4](core_11.000_standing_integration.md"
                 "#411-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",
                 encoding="utf-8",
             )
             impl = root / "implementation"
             impl.mkdir()
             (impl / "index.json").write_text(
-                '{\n  "href": "core_11000_standing_integration.md'
+                '{\n  "href": "core_11.000_standing_integration.md'
                 '#411-duty-to-resist-unlawful-or-unconstitutional-instructions"\n}\n',
                 encoding="utf-8",
             )
@@ -47,7 +47,7 @@ class FossilAnchorAuditTests(unittest.TestCase):
             )
             leftovers = remaining_citations(root, prunes)
             self.assertTrue(
-                any("core_01015_stewardship_capacity_principles.md" in item for item in leftovers),
+                any("core_01.015_stewardship_capacity_principles.md" in item for item in leftovers),
                 msg="\n".join(leftovers),
             )
             self.assertTrue(

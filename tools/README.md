@@ -19,7 +19,7 @@ Python utilities for this repository. Run from the repo root unless noted.
 
 After a fluent reader who did not draft the translation has reviewed it against
 English, record that attestation with
-`python3 tools/translation_audit.py record-review --locale es --file core_00000_preamble.md --reviewer 'Name' --confirm-fluent-independent-review`.
+`python3 tools/translation_audit.py record-review --locale es --file core_00.000_preamble.md --reviewer 'Name' --confirm-fluent-independent-review`.
 The command updates the source and
 translation hashes and review date. Do not use it to label an AI draft or an
 unreviewed file as reviewed. The glossary and structural reports are review
@@ -78,7 +78,7 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 
 `alignment_audit.py` is the operator entry point for a structural alignment pass across principles, Chapter Five **Def.*** entries, CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 **oDef** clusters, and Chapter Six Articles. It writes `alignment_audit_index_<date>.md` plus the three per-layer report / CSV / JSON families under `evidence/<date>/`. Semantic adequacy stays a manual-review item; the full pass is advisory and is not in `make regression`.
 
-`reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
+`reference_audit.py` builds the **canonical Chapter Six map** from merged `### Article …:` headings in `core_06.0*_rights_part_*.md` (falling back across part files as needed). If a citation fails the audit, fix the citing file or the heading—not the audit script.
 
 `section_label_anchor_audit.py` checks three things: `§N` (and dotted-only `[4.1]`) link text must match the resolved heading number or a dotted parent/child, and the fragment must exist; related cites must use a current-numbering fragment prefix (`54-` or `5-4-`); numbered ATX siblings in `core_*.md` must not duplicate or skip. Named fragments without a numeric id prefix are not compared to the `§` label. `implementation/` and `evaluation/` sources are out of scope for the cite checks.
 
@@ -86,7 +86,7 @@ Chapter Five and CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.13
 
 `heading_echo_topic_audit.py` flags a numbered section whose first body-prose line (after widgets and `*In plain terms*` gloss) restates that heading as a topic sentence — a self-cite such as `**[§13.2 Title](#…):**`. Unnumbered heading-echo run-ins (`**Symmetric costly constraints:**`) stay under MD-LIST-INTRO-01.
 
-`section_bullet_lead_audit.py` (**MD-SECTION-LEAD-01**, blocking; in `make regression`) flags a section whose first body line — after Trace / D/A/C widgets, `<br>` spacers, callouts, and `*In plain terms*` gloss — is a bare list item instead of lead-in prose. Sections that open straight into a child heading are containers and are skipped. Chapter Five definition files (`core_05_*.md`) are carved out because their entries open with O / E / C bullets by design. `make section-bullet-lead-audit-summary` prints per-file counts. Not in `make regression` until the backlog is cleared.
+`section_bullet_lead_audit.py` (**MD-SECTION-LEAD-01**, blocking; in `make regression`) flags a section whose first body line — after Trace / D/A/C widgets, `<br>` spacers, callouts, and `*In plain terms*` gloss — is a bare list item instead of lead-in prose. Sections that open straight into a child heading are containers and are skipped. Chapter Five definition files (`core_05.*.md`) are carved out because their entries open with O / E / C bullets by design. `make section-bullet-lead-audit-summary` prints per-file counts. Not in `make regression` until the backlog is cleared.
 
 `apply_article_cite_gloss.py` adds missing **REF-ARTICLES-GLOSS** parenthetical titles to bare `**Article …**`, `[Article …](url)`, and unbolded `Article …` cites across the binding corpus (see `doc_architecture.md` section 7). `make article-cite-gloss-audit` (`--check --changed-only`, in `make regression`) fails on bare cites in added lines; run the script without `--check` to fix them. Run after heading renames or bulk cite cleanup; review combined-label and bullet-specific edge cases by hand.
 
@@ -114,10 +114,10 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](archi
 
 `ch5_nested_list_candidate_audit.py` ranks packed list items that would scan better as nested grandchild lists. Chapter Five targets **In scope** / assessment / failure bullets; Chapters Six through Fifteen target labeled operative run-ins (`**Label:**` / `**Label** —`) and packed covers/includes lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, short Tetrad aim/leg glosses, and bullets that already have nested children. Limit with `--file` or `--chapter 5` / `--chapter 6` / `--chapter 9` / `--chapter 10` / `--chapter 11` / `--chapter 12` / `--chapter 13` / `--chapter 14` / `--chapter 15`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
 
-`ch4_ch9_pointer_audit.py` is an advisory checker for Chapter Nine pointer discipline against Chapter Four. It flags places where Chapter Nine restates Chapter Four's verification rules (burden, trace artifact, security-constrained verification, and similar phrases) without citing Chapters Two through Four. It also checks that the corpus-placement widget names Chapter Four as the owner of verification. Run after edits to [`core_09005_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation`](../core_09005_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) or [`core_04000_burden_traceability_verification.md`](../core_04000_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
+`ch4_ch9_pointer_audit.py` is an advisory checker for Chapter Nine pointer discipline against Chapter Four. It flags places where Chapter Nine restates Chapter Four's verification rules (burden, trace artifact, security-constrained verification, and similar phrases) without citing Chapters Two through Four. It also checks that the corpus-placement widget names Chapter Four as the owner of verification. Run after edits to [`core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation`](../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) or [`core_04.000_burden_traceability_verification.md`](../core_04.000_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
 
 ## Retired migration scripts
 
 One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to `archive/tools_retired/` on **2026-06-17** and removed from the tree on **2026-09-24**; recover them from git history (`git log --all -- archive/tools_retired`) if needed. **Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
 
-For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06_rights_part_*.md`.
+For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06.0*_rights_part_*.md`.

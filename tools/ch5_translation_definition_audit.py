@@ -20,7 +20,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE_INDEX = "core_05000_definitions_home.md"
+SOURCE_INDEX = "core_05.000_definitions_home.md"
 LOCALES = "es hi ar id zh pt bn fr ur ru ja tr mr vi fa te ko ta th".split()
 DEFINITION_START = '<a id="definitions-a-z"></a>'
 CLUSTER_START = '<a id="clusters-a-z"></a>'

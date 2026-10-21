@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH8 = ROOT / "core_09005_system_alignment_certification_evaluation.md"
+CH8 = ROOT / "core_09.005_system_alignment_certification_evaluation.md"
 
 ANCHOR_REMAP: dict[str, str] = {
     "1a-whole-system-certification-evaluation": "2-whole-system-certification-evaluation",
@@ -199,8 +199,8 @@ def apply_replacements(text: str, pairs: list[tuple[str, str]]) -> str:
 def remap_markdown_links(text: str) -> str:
     for old, new in ANCHOR_REMAP.items():
         text = text.replace(
-            f"core_09005_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{old}",
-            f"core_09005_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{new}",
+            f"core_09.005_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{old}",
+            f"core_09.005_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation#{new}",
         )
     return text
 
@@ -258,16 +258,16 @@ DOUBLE_SHIFT_FIXES: list[tuple[str, str]] = [
     ("under **Chapter Eight §3**", "under **Chapter Eight §2**"),
     ("apply **Chapter Eight §3** evaluation", "apply **Chapter Eight §2** evaluation"),
     (
-        "[Chapter Eight §3](core_09005_system_alignment_certification_evaluation.md#2-whole-system-certification-evaluation)",
-        "[Chapter Eight §2](core_09005_system_alignment_certification_evaluation.md#2-whole-system-certification-evaluation)",
+        "[Chapter Eight §3](core_09.005_system_alignment_certification_evaluation.md#2-whole-system-certification-evaluation)",
+        "[Chapter Eight §2](core_09.005_system_alignment_certification_evaluation.md#2-whole-system-certification-evaluation)",
     ),
 ]
 
 
 def process_ch8_self_refs(text: str) -> str:
     text = text.replace(
-        "[Chapter Eight §1A.2](core_09005_system_alignment_certification_evaluation.md#1a2-accessibility-under-sentience-non-exclusion)",
-        "[Chapter Eight §2.2](core_09005_system_alignment_certification_evaluation.md#22-accessibility-under-sentience-non-exclusion)",
+        "[Chapter Eight §1A.2](core_09.005_system_alignment_certification_evaluation.md#1a2-accessibility-under-sentience-non-exclusion)",
+        "[Chapter Eight §2.2](core_09.005_system_alignment_certification_evaluation.md#22-accessibility-under-sentience-non-exclusion)",
     )
     text = text.replace(
         "**§9** states the standing bridge boundary explicitly.",

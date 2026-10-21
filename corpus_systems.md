@@ -16,10 +16,10 @@
 - Own day-to-day institutional governance or forum hearing process (see siblings)
 
 **Implements from the core files:**
-- [Chapter One](core_01005_values_principles.md) principles and [Chapter Five](core_05000_definitions_home.md) definitions by reference — this layer does not redefine them
-- [Chapters Two through Four](core_02000_definition_structure.md) where auditability, traceability, and verification must hold in systems
-- [Chapter Six](core_06005_rights_part_a.md) Rights Floor themes in operation — especially [Article XIII-A](core_06015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XV](core_06015_rights_part_c.md) (*Info-Sphere Integrity*), [Article XVI](core_06015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XVI-A](core_06015_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIII-A / XXIII-B](core_06015_rights_part_c.md) (comprehensibility), and related system-facing articles
-- [Chapter Nine](core_09000_system_alignment_certification.md) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVI** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
+- [Chapter One](core_01.005_values_principles.md) principles and [Chapter Five](core_05.000_definitions_home.md) definitions by reference — this layer does not redefine them
+- [Chapters Two through Four](core_02.000_definition_structure.md) where auditability, traceability, and verification must hold in systems
+- [Chapter Six](core_06.005_rights_part_a.md) Rights Floor themes in operation — especially [Article XIII-A](core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XV](core_06.015_rights_part_c.md) (*Info-Sphere Integrity*), [Article XVI](core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XVI-A](core_06.015_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIII-A / XXIII-B](core_06.015_rights_part_c.md) (comprehensibility), and related system-facing articles
+- [Chapter Nine](core_09.000_system_alignment_certification.md) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVI** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
 
 **Siblings:**
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail
@@ -27,9 +27,9 @@
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Eighteen](core_18000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Eighteen](core_18.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
-**Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Systems index** below. Identifier rules remain in the [systems registry](corpus_systems/cs_00305_registry_and_reading_rules.md).
+**Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Systems index** below. Identifier rules remain in the [systems registry](corpus_systems/cs_00.305_registry_and_reading_rules.md).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Compatibility and authority (non-operative)</span></strong></summary>
@@ -52,37 +52,37 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CS-0.305: Registry and identifier rules | [cs_00305_registry_and_reading_rules.md](corpus_systems/cs_00305_registry_and_reading_rules.md) |
+| CS-0.305: Registry and identifier rules | [cs_00.305_registry_and_reading_rules.md](corpus_systems/cs_00.305_registry_and_reading_rules.md) |
 
 ### Boundary
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CS-0.310: Scope, purpose, and boundary interface | [cs_00310_scope_purpose_identifier_rules.md](corpus_systems/cs_00310_scope_purpose_identifier_rules.md) |
+| CS-0.310: Scope, purpose, and boundary interface | [cs_00.310_scope_purpose_identifier_rules.md](corpus_systems/cs_00.310_scope_purpose_identifier_rules.md) |
 
 ### Taxonomy
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CS-6.305, Part A — Handling rules (§1–§8) | [cs_06305_information_types_and_handling.md](corpus_systems/cs_06305_information_types_and_handling.md) |
-| CS-6.310, Part B — Data classifications (§9) | [cs_06310_data_classifications.md](corpus_systems/cs_06310_data_classifications.md) |
-| CS-9.305, Part A — Classification machinery (§1–§7) | [cs_09305_system_classification_machinery.md](corpus_systems/cs_09305_system_classification_machinery.md) |
-| CS-9.310, Part B — System impact classifications (§8–§13) | [cs_09310_system_impact_classifications.md](corpus_systems/cs_09310_system_impact_classifications.md) |
-| CS-14.305 — Critical system stewardship | [cs_14305_critical_system_stewardship.md](corpus_systems/cs_14305_critical_system_stewardship.md) |
+| CS-6.305, Part A — Handling rules (§1–§8) | [cs_06.305_information_types_and_handling.md](corpus_systems/cs_06.305_information_types_and_handling.md) |
+| CS-6.310, Part B — Data classifications (§9) | [cs_06.310_data_classifications.md](corpus_systems/cs_06.310_data_classifications.md) |
+| CS-9.305, Part A — Classification machinery (§1–§7) | [cs_09.305_system_classification_machinery.md](corpus_systems/cs_09.305_system_classification_machinery.md) |
+| CS-9.310, Part B — System impact classifications (§8–§13) | [cs_09.310_system_impact_classifications.md](corpus_systems/cs_09.310_system_impact_classifications.md) |
+| CS-14.305 — Critical system stewardship | [cs_14.305_critical_system_stewardship.md](corpus_systems/cs_14.305_critical_system_stewardship.md) |
 
 ### Engineering protocols
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CS-6.345 — System lifecycle | [cs_06345_design_testing_verification_deployment.md](corpus_systems/cs_06345_design_testing_verification_deployment.md) |
-| CS-6.340 — System requirements | [cs_06340_system_requirements.md](corpus_systems/cs_06340_system_requirements.md) |
-| CS-6.315 — Comprehensibility and complexity stewardship | [cs_06315_comprehensibility_complexity_stewardship.md](corpus_systems/cs_06315_comprehensibility_complexity_stewardship.md) |
-| CS-6.320 — Justice safeguards, restitution, and rehabilitation | [cs_06320_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_06320_justice_safeguards_restitution_rehabilitation.md) |
-| CS-6.325 — Adaptive sustainability and ecosystem resilience | [cs_06325_adaptive_sustainability_ecosystem_resilience.md](corpus_systems/cs_06325_adaptive_sustainability_ecosystem_resilience.md) |
-| CS-6.335 — Resource allocation and funding stewardship | [cs_06335_resource_allocation_funding_stewardship.md](corpus_systems/cs_06335_resource_allocation_funding_stewardship.md) |
-| CS-6.350 — Transition constitution and migration governance | [cs_06350_transition_constitution_migration_governance.md](corpus_systems/cs_06350_transition_constitution_migration_governance.md) |
-| CS-6.355 — Subversion response, replacement, and reconstitution | [cs_06355_subversion_response_replacement_reconstitution.md](corpus_systems/cs_06355_subversion_response_replacement_reconstitution.md) |
-| CS-6.330 — Decentralized continuity and partition resilience | [cs_06330_decentralized_continuity_partition_resilience.md](corpus_systems/cs_06330_decentralized_continuity_partition_resilience.md) |
+| CS-6.345 — System lifecycle | [cs_06.345_design_testing_verification_deployment.md](corpus_systems/cs_06.345_design_testing_verification_deployment.md) |
+| CS-6.340 — System requirements | [cs_06.340_system_requirements.md](corpus_systems/cs_06.340_system_requirements.md) |
+| CS-6.315 — Comprehensibility and complexity stewardship | [cs_06.315_comprehensibility_complexity_stewardship.md](corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md) |
+| CS-6.320 — Justice safeguards, restitution, and rehabilitation | [cs_06.320_justice_safeguards_restitution_rehabilitation.md](corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md) |
+| CS-6.325 — Adaptive sustainability and ecosystem resilience | [cs_06.325_adaptive_sustainability_ecosystem_resilience.md](corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) |
+| CS-6.335 — Resource allocation and funding stewardship | [cs_06.335_resource_allocation_funding_stewardship.md](corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) |
+| CS-6.350 — Transition constitution and migration governance | [cs_06.350_transition_constitution_migration_governance.md](corpus_systems/cs_06.350_transition_constitution_migration_governance.md) |
+| CS-6.355 — Subversion response, replacement, and reconstitution | [cs_06.355_subversion_response_replacement_reconstitution.md](corpus_systems/cs_06.355_subversion_response_replacement_reconstitution.md) |
+| CS-6.330 — Decentralized continuity and partition resilience | [cs_06.330_decentralized_continuity_partition_resilience.md](corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md) |
 <!-- END GENERATED FAMILY INDEX -->
 
 </details>
@@ -91,4 +91,4 @@
 
 ---
 
-**Next file:** [cs_00310_scope_purpose_identifier_rules.md](corpus_systems/cs_00310_scope_purpose_identifier_rules.md)
+**Next file:** [cs_00.310_scope_purpose_identifier_rules.md](corpus_systems/cs_00.310_scope_purpose_identifier_rules.md)

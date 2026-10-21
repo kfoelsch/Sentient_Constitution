@@ -50,12 +50,12 @@ CHAPTER_WORDS = {
 
 # Files that add no rule: they must say so instead of claiming ownership.
 CORE_NON_OWNER = {
-    "core_09000_system_alignment_certification.md",
-    "core_09015_system_alignment_certification_illustrations.md",
-    "core_10005_application_vignettes.md",
+    "core_09.000_system_alignment_certification.md",
+    "core_09.015_system_alignment_certification_illustrations.md",
+    "core_10.005_application_vignettes.md",
 }
 # Chapter Six Part A carries the chapter-level claim and does not name "Part A".
-CORE_PART_OPTIONAL = {"core_06005_rights_part_a.md"}
+CORE_PART_OPTIONAL = {"core_06.005_rights_part_a.md"}
 
 LAYERS = {
     "corpus_forum": ("forum", "CF"),
@@ -70,7 +70,7 @@ IMPL_EXEMPT = {
         r"reader guidance only",
         "reader guide: says it adds no duty",
     ),
-    "corpus_forum/cf_13475_sentience_status_record.md": (
+    "corpus_forum/cf_13.475_sentience_status_record.md": (
         r"^This file is the designated implementation text for ",
         "Chapter Five's definition names it the designated implementation text",
     ),
@@ -122,7 +122,7 @@ def strip_markup(line: str) -> str:
 
 
 def chapter_and_part(name: str) -> tuple[int | None, str | None]:
-    m = re.match(r"core_(\d\d)\d{3}(?:_([a-e])_|_rights_part_([a-e])\b)?", name)
+    m = re.match(r"core_(\d\d)\.\d{3}(?:_([a-e])_|_rights_part_([a-e])\b)?", name)
     if not m:
         # Keep the helper useful for legacy-format audit fixtures and archived samples.
         m = re.match(r"core_(\d\d)(?:_([a-e])_|_rights_part_([a-e])\b)?", name)

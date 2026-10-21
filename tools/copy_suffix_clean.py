@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Find and remove copy-suffixed duplicate files (FILE-COPY-SUFFIX-01).
 
-A file such as ``core_07_charters 2.md`` beside ``core_07000_charters.md`` is a copy made by a
+A file such as ``core_07.000_charters 2.md`` beside ``core_07.000_charters.md`` is a copy made by a
 file manager or sync client. It is not corpus and may be deleted freely, provided the
 original exists and git does not track the copy.
 

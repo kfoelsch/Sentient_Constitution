@@ -46,38 +46,38 @@ LAYERS = {
     "corpus_joint_structure": {
         "wrapper": "corpus_joint_structure.md",
         "wrapper_label": "Joint structure landing page",
-        "registry": "cjs_00105_registry_and_reading_rules.md",
+        "registry": "cjs_00.105_registry_and_reading_rules.md",
         "registry_label": "joint-structure registry",
         "descriptor": "joint-structure",
     },
     "corpus_systems": {
         "wrapper": "corpus_systems.md",
         "wrapper_label": "Systems and data landing page",
-        "registry": "cs_00305_registry_and_reading_rules.md",
+        "registry": "cs_00.305_registry_and_reading_rules.md",
         "registry_label": "systems registry",
         "descriptor": "systems",
     },
     "corpus_institutions": {
         "wrapper": "corpus_institutions.md",
         "wrapper_label": "Institutions landing page",
-        "registry": "ci_00205_registry_and_reading_rules.md",
+        "registry": "ci_00.205_registry_and_reading_rules.md",
         "registry_label": "institutions registry",
         "descriptor": "institutional",
     },
     "corpus_forum": {
         "wrapper": "corpus_forum.md",
         "wrapper_label": "Forums landing page",
-        "registry": "cf_00405_registry_and_reading_rules.md",
+        "registry": "cf_00.405_registry_and_reading_rules.md",
         "registry_label": "forums registry",
         "descriptor": "forum",
     },
 }
 
 SKIP_NAMES = {
-    "cjs_00105_registry_and_reading_rules.md",
-    "cs_00305_registry_and_reading_rules.md",
-    "ci_00205_registry_and_reading_rules.md",
-    "cf_00405_registry_and_reading_rules.md",
+    "cjs_00.105_registry_and_reading_rules.md",
+    "cs_00.305_registry_and_reading_rules.md",
+    "ci_00.205_registry_and_reading_rules.md",
+    "cf_00.405_registry_and_reading_rules.md",
 }
 
 
@@ -137,7 +137,7 @@ def placement_widget(layer: str, title: str, ident: str | None, phrase: str) -> 
         "",
         f"> This file is **binding incorporated implementation text** where "
         f"[`{meta['wrapper']}`](../{meta['wrapper']}) is incorporated under "
-        f"[Chapter Eighteen](../core_18000_incorporation.md). It must satisfy the "
+        f"[Chapter Eighteen](../core_18.000_incorporation.md). It must satisfy the "
         f"Sentient Constitution and does not override or narrow it. {holds}",
         ">",
         f"> Start at the [{meta['wrapper_label']}](../{meta['wrapper']}) for reading "

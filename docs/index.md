@@ -7,7 +7,7 @@ description: Pre-release model constitution for systems that shape our lives, wh
 
 **A model constitution for systems that shape our lives, whether they are run by humans, by AI, or by both.**
 
-This GitHub Pages site is a **pointer**, not a second constitution. The front door for all readers is the **[README](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md)**. If this page and the README differ, **the README wins**. Opening this page is not adoption under [Chapter Seventeen §10](https://github.com/kfoelsch/Sentient_Constitution/blob/main/core_17000_amendment_ratification.md#10-ratification-and-adoption).
+This GitHub Pages site is a **pointer**, not a second constitution. The front door for all readers is the **[README](https://github.com/kfoelsch/Sentient_Constitution/blob/main/README.md)**. If this page and the README differ, **the README wins**. Opening this page is not adoption under [Chapter Seventeen §10](https://github.com/kfoelsch/Sentient_Constitution/blob/main/core_17.000_amendment_ratification.md#10-ratification-and-adoption).
 
 **Pre-release:** edition `SC-Corpus-2026.10.21` (effective 2026-10-21). Not yet a final published edition. License: [CC BY 4.0](https://github.com/kfoelsch/Sentient_Constitution/blob/main/LICENSE).
 

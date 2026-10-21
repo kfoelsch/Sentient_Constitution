@@ -25,10 +25,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-A = "core_09005_system_alignment_certification_evaluation.md"
-B = "core_09010_system_alignment_certification_record_process.md"
-C = "core_09015_system_alignment_certification_illustrations.md"
-HUB = "core_09000_system_alignment_certification.md"
+A = "core_09.005_system_alignment_certification_evaluation.md"
+B = "core_09.010_system_alignment_certification_record_process.md"
+C = "core_09.015_system_alignment_certification_illustrations.md"
+HUB = "core_09.000_system_alignment_certification.md"
 CH8 = {A, B, C}
 
 # ---------------------------------------------------------------- number map
@@ -250,7 +250,7 @@ def git_files() -> list[str]:
 
 # History logs and rule text that describe the earlier numbering are edited by hand;
 # cs_02_b's "Part A §7" is CS-6.310, not Chapter Eight.
-HAND_EDITED = {"project/MEMLOG.md", "doc_architecture.md", "corpus_systems/cs_06310_data_classifications.md"}
+HAND_EDITED = {"project/MEMLOG.md", "doc_architecture.md", "corpus_systems/cs_06.310_data_classifications.md"}
 
 
 def processable(relpath: str) -> bool:
@@ -365,7 +365,7 @@ def main() -> int:
                 src = p.read_text(encoding="utf-8")
             except UnicodeDecodeError:
                 continue
-        if "core_08_" not in src and rel not in CH8 and "Chapter Eight" not in src:
+        if "core_08." not in src and rel not in CH8 and "Chapter Eight" not in src:
             continue
         in_ch8 = rel in CH8 or rel == HUB
         dst = rm.rewrite_links(src, rel)

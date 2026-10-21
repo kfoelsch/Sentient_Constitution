@@ -2,7 +2,7 @@
 
 **Status:** implemented in `CONCEPTUAL_OVERVIEW.md` (subsection *Stewardship: three pillars*). Open decisions 1 and 2 remain open.  
 **Edition consulted:** `SC-Corpus-2026.10.21` (pre-release).  
-**Scope:** reader-oriented conceptual support in `CONCEPTUAL_OVERVIEW.md`. It adds no definitions or duties, creates no pillar taxonomy of its own, and cannot narrow `core_01015_stewardship_capacity_principles.md`.
+**Scope:** reader-oriented conceptual support in `CONCEPTUAL_OVERVIEW.md`. It adds no definitions or duties, creates no pillar taxonomy of its own, and cannot narrow `core_01.015_stewardship_capacity_principles.md`.
 
 ## Assessment: does the pillar chart belong in the overview?
 
@@ -19,10 +19,10 @@ Yes. Four reasons, in order of weight:
 
 The corpus already has a convention for shared diagrams, and it runs in the opposite direction from what "copy it there" implies:
 
-- `core_01005_values_principles.md` reproduces the Tetrad chart and closes with *"Reproduced from the [Conceptual Overview](../../guides/CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad)."*
-- `core_01010_interaction_interpretation.md` uses the same pattern for the definitions chart.
+- `core_01.005_values_principles.md` reproduces the Tetrad chart and closes with *"Reproduced from the [Conceptual Overview](../../guides/CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad)."*
+- `core_01.010_interaction_interpretation.md` uses the same pattern for the definitions chart.
 
-Those are cross-cutting maps that span the Constitution, so the overview is their natural canonical home. The pillar chart is different: it is Chapter One §16's own taxonomy, and §9 is its source. So this plan inverts the pointer and uses the overview's *own* native pattern instead — the Tetrad subsection already says *"Their source is the [Preamble's Constitutional Tetrad](../../core_00000_preamble.md#constitutional-tetrad)."*
+Those are cross-cutting maps that span the Constitution, so the overview is their natural canonical home. The pillar chart is different: it is Chapter One §16's own taxonomy, and §9 is its source. So this plan inverts the pointer and uses the overview's *own* native pattern instead — the Tetrad subsection already says *"Their source is the [Preamble's Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad)."*
 
 **Decision:** the overview version carries a source pointer to §9. `core_01_c` is left unchanged. A reciprocal pointer in §9 is optional and listed under *Open decisions*.
 
@@ -65,9 +65,9 @@ flowchart TB
 
 The Tetrad says which duties keep a shared system legitimate. Stewardship is how those duties get carried by the people and institutions actually running it. All three pillars work together rather than in sequence, and each is bounded by Safety, Truth, Necessity, Proportionality, Avoidable Burden, and Epistemic Integrity — they operate within those constraints, not around them.
 
-Their source is [§16 Stewardship In Depth](core_01015_stewardship_capacity_principles.md#16-stewardship-in-depth). The steward role itself — the hands-on duties, the shared standard binding human and AI stewards alike, symmetric costly constraints, and role-scoped observability — lives at [§17 Consequential Stewardship: The Steward Role](core_01015_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role). The community and institutional facets of the third pillar are [§16.1 Distributed Understanding](core_01015_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](core_01015_stewardship_capacity_principles.md#162-institutional-development).
+Their source is [§16 Stewardship In Depth](core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth). The steward role itself — the hands-on duties, the shared standard binding human and AI stewards alike, symmetric costly constraints, and role-scoped observability — lives at [§17 Consequential Stewardship: The Steward Role](core_01.015_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role). The community and institutional facets of the third pillar are [§16.1 Distributed Understanding](core_01.015_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](core_01.015_stewardship_capacity_principles.md#162-institutional-development).
 
-This is a different sense of the word from [Article II: Material Stewardship and Durable-Use Integrity](core_06005_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity). Chapter One stewardship is about who operates shared systems and to what standard; Article II is a Rights Floor about how durable and network-dependent products are designed, described, and supported.
+This is a different sense of the word from [Article II: Material Stewardship and Durable-Use Integrity](core_06.005_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity). Chapter One stewardship is about who operates shared systems and to what standard; Article II is a Rights Floor about how durable and network-dependent products are designed, described, and supported.
 ````
 
 ## Companion edits
@@ -82,7 +82,7 @@ This is a different sense of the word from [Article II: Material Stewardship and
 - The chart implies no sequence among the pillars and no precedence over the Tetrad.
 - Chapter One stewardship and Article II Material Stewardship are distinguishable from the overview alone.
 - Node colours preserve the overview's existing colour-to-concept mapping; no pillar borrows the Participation or aims colour.
-- `core_01015_stewardship_capacity_principles.md` is unchanged by this plan.
+- `core_01.015_stewardship_capacity_principles.md` is unchanged by this plan.
 
 ## Validation
 

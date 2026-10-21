@@ -14,8 +14,8 @@ class AnchorHeadingDriftTests(unittest.TestCase):
     def scan_text(self, text: str) -> list:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_00000_preamble.md").write_text(text, encoding="utf-8")
-            return scan(root, ["core_00000_preamble.md"])
+            (root / "core_00.000_preamble.md").write_text(text, encoding="utf-8")
+            return scan(root, ["core_00.000_preamble.md"])
 
     def test_drifted_name_is_reported(self) -> None:
         findings = self.scan_text(

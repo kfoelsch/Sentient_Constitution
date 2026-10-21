@@ -4,7 +4,7 @@
 
 *Your right to know who decides what the constitution means, and to make sure they can't rig it.*
 
-> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXV](../../core_06020_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), the official text is what counts.
+> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXV](../../core_06.020_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards), the official text is what counts.
 >
 > A note on "you" and "people": this constitution protects every sentient being it covers, not only humans. Here, "people" means all of them.
 
@@ -87,7 +87,7 @@ If a ruling affects you, you can ask for review by an independent route.
 
 ### Part C: No one owns the referee
 
-The general rules against capture live in [Article XII-D](../../core_06010_rights_part_b.md#article-xii-d-non-capture-safeguards). They apply to **every** body that makes decisions for others: all kinds of forums, governance boards, and the groups that appoint them. This article applies those rules at their strictest to the bodies that decide what the constitution means. The rules below are the same ones, seen from that angle.
+The general rules against capture live in [Article XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards). They apply to **every** body that makes decisions for others: all kinds of forums, governance boards, and the groups that appoint them. This article applies those rules at their strictest to the bodies that decide what the constitution means. The rules below are the same ones, seen from that angle.
 
 The constitutional bodies, and the people who choose, rotate, and remove their members, must follow rules that stop any one group from taking lasting control.
 
@@ -114,7 +114,7 @@ If the integrity forum itself is in doubt, backup routes exist, so this duty can
 
 ### Part D: Firing for cause, not for revenge
 
-The same removal and anti-retaliation rules in [Article XII-D](../../core_06010_rights_part_b.md#article-xii-d-non-capture-safeguards) cover all decision-making bodies. Here they are applied to the bodies that interpret the constitution, where the risk of punishing disagreement is greatest.
+The same removal and anti-retaliation rules in [Article XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) cover all decision-making bodies. Here they are applied to the bodies that interpret the constitution, where the risk of punishing disagreement is greatest.
 
 Members of these bodies can be removed by whoever appointed them, but only through a fair, open process and only for:
 
@@ -150,10 +150,10 @@ The whole constitution uses four checks. Here's how each one applies to this art
 
 ### How this fits with other articles
 
-- **Who runs the panels day to day.** [Chapter Thirteen](../../core_13000_forum.md#chapter-thirteen-forums-and-jurisdiction) sets out how the constitutional panels are organized and supervised. Its procedures carry out this article, but they can't be used to water down the protections stated here.
-- **Your right to challenge and get justice.** [Article XIII-A](../../core_06015_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) covers reliable, trustworthy systems. [Article XX](../../core_06020_rights_part_d.md#article-xx-justice-after-verified-violation) covers settling conflicts fairly and keeping emergency responses proportionate. Both also protect your ability to challenge decisions. When a ruling is reviewed, your challenge rights and the fairness rules must stay fully intact.
-- **Protection against capture everywhere.** [Article XII-D](../../core_06010_rights_part_b.md#article-xii-d-non-capture-safeguards) sets the general rules for every body that makes decisions for others. Parts C and D of this article hold the constitutional bodies to those rules at their strictest.
-- **Keeping the setup open to change.** [Article XXVII-A](../../core_06025_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) says no arrangement of power gets to become permanent. Part D of this article applies that rule to the panels themselves. Their design must be re-examined from time to time.
+- **Who runs the panels day to day.** [Chapter Thirteen](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) sets out how the constitutional panels are organized and supervised. Its procedures carry out this article, but they can't be used to water down the protections stated here.
+- **Your right to challenge and get justice.** [Article XIII-A](../../core_06.015_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) covers reliable, trustworthy systems. [Article XX](../../core_06.020_rights_part_d.md#article-xx-justice-after-verified-violation) covers settling conflicts fairly and keeping emergency responses proportionate. Both also protect your ability to challenge decisions. When a ruling is reviewed, your challenge rights and the fairness rules must stay fully intact.
+- **Protection against capture everywhere.** [Article XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) sets the general rules for every body that makes decisions for others. Parts C and D of this article hold the constitutional bodies to those rules at their strictest.
+- **Keeping the setup open to change.** [Article XXVII-A](../../core_06.025_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) says no arrangement of power gets to become permanent. Part D of this article applies that rule to the panels themselves. Their design must be re-examined from time to time.
 - **The detailed hiring-and-conflict rules.** [CI-14.205 and CI-8.210](../../corpus_institutions.md) spell out how panel members are chosen, rotated, and removed, and how conflicts of interest and corruption are handled. They fill in the details, but they can't weaken the basic protections here.
 
 The other documents supply the mechanics, but none of them can override the floor set by this article.

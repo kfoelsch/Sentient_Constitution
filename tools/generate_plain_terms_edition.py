@@ -205,7 +205,7 @@ def render_markdown(reports: list[FileReport], edition: str, effective: str, pre
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](" + prefix + "core_16000_expansion_supremacy.md); [README — Binding vs support](" + prefix + "README.md#binding-vs-support)). A heading without a gloss is listed with its link only.",
+        "> **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](" + prefix + "core_16.000_expansion_supremacy.md); [README — Binding vs support](" + prefix + "README.md#binding-vs-support)). A heading without a gloss is listed with its link only.",
         "",
         f"Coverage: **{glossed}** of **{total}** headings carry a gloss ({pct:.0f}%).",
         "",

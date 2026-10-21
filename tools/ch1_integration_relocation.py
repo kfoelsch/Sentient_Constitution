@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PART_A = ROOT / "core_01005_values_principles.md"
+PART_A = ROOT / "core_01.005_values_principles.md"
 PART_B = ROOT / "core_01_b_stewardship_capacity_principles.md"
 
 SECTION_RENUMBER = {2: 9, 3: 2, 4: 3, 5: 4, 6: 11, 7: 12, 8: 13, 9: 14, 10: 5, 11: 6, 12: 7, 13: 8, 14: 10}
@@ -20,7 +20,7 @@ PART_A_HEADER = """# Values Principles (Chapter One, Part A)
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part A** (§§1–10: purpose, values, integration, interpretation, and integrated application).
 >
-> **Upstream:** [core_00000_preamble.md](core_00000_preamble.md)  
+> **Upstream:** [core_00.000_preamble.md](core_00.000_preamble.md)
 > **Next:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md) (Chapter One, Part B).
 
 </details>
@@ -39,7 +39,7 @@ PART_B_HEADER = """# Stewardship and Governance (Chapter One, Part B)
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§11–14: stewardship, governance, capacity, and market structure).
 >
-> **Upstream:** [core_01005_values_principles.md](core_01005_values_principles.md) (Chapter One, Part A)  
+> **Upstream:** [core_01.005_values_principles.md](core_01.005_values_principles.md) (Chapter One, Part A)
 > **Next:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)<br>
 > **Reading arc:** §11 stewardship → §12 governance discipline → §13 capacity → §14 market structure.
 
@@ -53,9 +53,9 @@ PART_B_HEADER = """# Stewardship and Governance (Chapter One, Part B)
 
 **Principle hierarchy (Part B).** At principle layer:
 
-1. **[Stewardship](core_05040_band_continuity.md#stewardship-constitutional)** orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_00000_preamble.md#two-constitutional-aims).
-2. **[Governance](core_05035_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00000_preamble.md#constitutional-tetrad) — especially **[Oversight](core_05020_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Thirteen**.
-3. **[Shared-System Capacity](core_05040_band_continuity.md#shared-system-capacity-constitutional)** is the durable, contestable ability those jointly produce — an **instrumental outcome** toward the **Flourishing** aim under the [Two Constitutional Aims](core_00000_preamble.md#two-constitutional-aims), not a freestanding trump value. **[Market Structure](core_05035_band_accountability.md#market-structure-constitutional)** at [§14](#14-market-structure) supplies the anti-concentration discipline that keeps that capacity contestable in practice.
+1. **[Stewardship](core_05.040_band_continuity.md#stewardship-constitutional)** orients systems toward durable constitutional alignment over time, including the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+2. **[Governance](core_05.035_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **[Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Thirteen**.
+3. **[Shared-System Capacity](core_05.040_band_continuity.md#shared-system-capacity-constitutional)** is the durable, contestable ability those jointly produce — an **instrumental outcome** toward the **Flourishing** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), not a freestanding trump value. **[Market Structure](core_05.035_band_accountability.md#market-structure-constitutional)** at [§14](#14-market-structure) supplies the anti-concentration discipline that keeps that capacity contestable in practice.
 
 """
 
@@ -295,7 +295,7 @@ def reassemble_part_a(part_a: str, part_b: str) -> str:
     footer = """
 ---
 
-**Previous file:** [core_00000_preamble.md](core_00000_preamble.md)
+**Previous file:** [core_00.000_preamble.md](core_00.000_preamble.md)
 
 **Next file:** [core_01_b_stewardship_capacity_principles.md](core_01_b_stewardship_capacity_principles.md)
 """
@@ -340,7 +340,7 @@ def reassemble_part_b(part_b: str) -> str:
     footer = """
 ---
 
-**Previous file:** [core_01005_values_principles.md](core_01005_values_principles.md)
+**Previous file:** [core_01.005_values_principles.md](core_01.005_values_principles.md)
 
 **Next file:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
 """
@@ -350,37 +350,37 @@ def reassemble_part_b(part_b: str) -> str:
 def migrate_file_paths(content: str) -> str:
     """Move Part B integration links to Part A after physical relocation."""
     pairs = [
-        ("core_01_b_stewardship_capacity_principles.md#1042-", "core_01005_values_principles.md#542-"),
-        ("core_01_b_stewardship_capacity_principles.md#1041-", "core_01005_values_principles.md#541-"),
-        ("core_01_b_stewardship_capacity_principles.md#1032-", "core_01005_values_principles.md#532-"),
-        ("core_01_b_stewardship_capacity_principles.md#1031-", "core_01005_values_principles.md#531-"),
-        ("core_01_b_stewardship_capacity_principles.md#103-", "core_01005_values_principles.md#53-"),
-        ("core_01_b_stewardship_capacity_principles.md#1022-", "core_01005_values_principles.md#522-"),
-        ("core_01_b_stewardship_capacity_principles.md#1021-", "core_01005_values_principles.md#521-"),
-        ("core_01_b_stewardship_capacity_principles.md#102-", "core_01005_values_principles.md#52-"),
-        ("core_01_b_stewardship_capacity_principles.md#1014-", "core_01005_values_principles.md#514-"),
-        ("core_01_b_stewardship_capacity_principles.md#1013-", "core_01005_values_principles.md#513-"),
-        ("core_01_b_stewardship_capacity_principles.md#1012-", "core_01005_values_principles.md#512-"),
-        ("core_01_b_stewardship_capacity_principles.md#1011-", "core_01005_values_principles.md#511-"),
-        ("core_01_b_stewardship_capacity_principles.md#101-", "core_01005_values_principles.md#51-"),
-        ("core_01_b_stewardship_capacity_principles.md#10-interaction", "core_01005_values_principles.md#5-interaction"),
-        ("core_01_b_stewardship_capacity_principles.md#11-systemic", "core_01005_values_principles.md#6-systemic"),
-        ("core_01_b_stewardship_capacity_principles.md#111-", "core_01005_values_principles.md#61-"),
-        ("core_01_b_stewardship_capacity_principles.md#112-read", "core_01005_values_principles.md#62-read"),
-        ("core_01_b_stewardship_capacity_principles.md#12-freedom", "core_01005_values_principles.md#7-freedom"),
-        ("core_01_b_stewardship_capacity_principles.md#13-prohibition", "core_01005_values_principles.md#8-prohibition"),
-        ("core_01_b_stewardship_capacity_principles.md#14-integrated", "core_01005_values_principles.md#10-integrated"),
-        ("core_01005_values_principles.md#2-constitutional", "core_01005_values_principles.md#9-constitutional"),
-        ("core_01005_values_principles.md#21-definitional", "core_01005_values_principles.md#91-definitional"),
-        ("core_01005_values_principles.md#22-ambiguity", "core_01005_values_principles.md#92-ambiguity"),
-        ("core_01005_values_principles.md#23-conflict", "core_01005_values_principles.md#93-conflict"),
-        ("core_01005_values_principles.md#3-foundational", "core_01005_values_principles.md#2-foundational"),
-        ("core_01005_values_principles.md#31-fairness", "core_01005_values_principles.md#21-fairness"),
-        ("core_01005_values_principles.md#32-recognition", "core_01005_values_principles.md#22-recognition"),
-        ("core_01005_values_principles.md#41-safety", "core_01005_values_principles.md#31-safety"),
-        ("core_01005_values_principles.md#42-truth", "core_01005_values_principles.md#32-truth"),
-        ("core_01005_values_principles.md#5-system-stability", "core_01005_values_principles.md#4-system-stability"),
-        ("core_01005_values_principles.md#51-resilience", "core_01005_values_principles.md#41-resilience"),
+        ("core_01_b_stewardship_capacity_principles.md#1042-", "core_01.005_values_principles.md#542-"),
+        ("core_01_b_stewardship_capacity_principles.md#1041-", "core_01.005_values_principles.md#541-"),
+        ("core_01_b_stewardship_capacity_principles.md#1032-", "core_01.005_values_principles.md#532-"),
+        ("core_01_b_stewardship_capacity_principles.md#1031-", "core_01.005_values_principles.md#531-"),
+        ("core_01_b_stewardship_capacity_principles.md#103-", "core_01.005_values_principles.md#53-"),
+        ("core_01_b_stewardship_capacity_principles.md#1022-", "core_01.005_values_principles.md#522-"),
+        ("core_01_b_stewardship_capacity_principles.md#1021-", "core_01.005_values_principles.md#521-"),
+        ("core_01_b_stewardship_capacity_principles.md#102-", "core_01.005_values_principles.md#52-"),
+        ("core_01_b_stewardship_capacity_principles.md#1014-", "core_01.005_values_principles.md#514-"),
+        ("core_01_b_stewardship_capacity_principles.md#1013-", "core_01.005_values_principles.md#513-"),
+        ("core_01_b_stewardship_capacity_principles.md#1012-", "core_01.005_values_principles.md#512-"),
+        ("core_01_b_stewardship_capacity_principles.md#1011-", "core_01.005_values_principles.md#511-"),
+        ("core_01_b_stewardship_capacity_principles.md#101-", "core_01.005_values_principles.md#51-"),
+        ("core_01_b_stewardship_capacity_principles.md#10-interaction", "core_01.005_values_principles.md#5-interaction"),
+        ("core_01_b_stewardship_capacity_principles.md#11-systemic", "core_01.005_values_principles.md#6-systemic"),
+        ("core_01_b_stewardship_capacity_principles.md#111-", "core_01.005_values_principles.md#61-"),
+        ("core_01_b_stewardship_capacity_principles.md#112-read", "core_01.005_values_principles.md#62-read"),
+        ("core_01_b_stewardship_capacity_principles.md#12-freedom", "core_01.005_values_principles.md#7-freedom"),
+        ("core_01_b_stewardship_capacity_principles.md#13-prohibition", "core_01.005_values_principles.md#8-prohibition"),
+        ("core_01_b_stewardship_capacity_principles.md#14-integrated", "core_01.005_values_principles.md#10-integrated"),
+        ("core_01.005_values_principles.md#2-constitutional", "core_01.005_values_principles.md#9-constitutional"),
+        ("core_01.005_values_principles.md#21-definitional", "core_01.005_values_principles.md#91-definitional"),
+        ("core_01.005_values_principles.md#22-ambiguity", "core_01.005_values_principles.md#92-ambiguity"),
+        ("core_01.005_values_principles.md#23-conflict", "core_01.005_values_principles.md#93-conflict"),
+        ("core_01.005_values_principles.md#3-foundational", "core_01.005_values_principles.md#2-foundational"),
+        ("core_01.005_values_principles.md#31-fairness", "core_01.005_values_principles.md#21-fairness"),
+        ("core_01.005_values_principles.md#32-recognition", "core_01.005_values_principles.md#22-recognition"),
+        ("core_01.005_values_principles.md#41-safety", "core_01.005_values_principles.md#31-safety"),
+        ("core_01.005_values_principles.md#42-truth", "core_01.005_values_principles.md#32-truth"),
+        ("core_01.005_values_principles.md#5-system-stability", "core_01.005_values_principles.md#4-system-stability"),
+        ("core_01.005_values_principles.md#51-resilience", "core_01.005_values_principles.md#41-resilience"),
         ("core_01_b_stewardship_capacity_principles.md#6-stewardship", "core_01_b_stewardship_capacity_principles.md#11-stewardship"),
         ("core_01_b_stewardship_capacity_principles.md#61-", "core_01_b_stewardship_capacity_principles.md#111-"),
         ("core_01_b_stewardship_capacity_principles.md#62-", "core_01_b_stewardship_capacity_principles.md#112-"),
@@ -726,11 +726,11 @@ def apply_trace_repairs_part_b(text: str) -> str:
     repl = [
         (
             "[10. Interaction and Conflict Resolution](#10-interaction-and-conflict-resolution)",
-            "[5. Interaction and Conflict Resolution](core_01005_values_principles.md#5-interaction-and-conflict-resolution)",
+            "[5. Interaction and Conflict Resolution](core_01.005_values_principles.md#5-interaction-and-conflict-resolution)",
         ),
         (
             "([§10.4.2 Proxy-Divergence Invalidation](#1042-proxy-divergence-invalidation))",
-            "([§5.4.2 Proxy-Divergence Invalidation](core_01005_values_principles.md#542-proxy-divergence-invalidation))",
+            "([§5.4.2 Proxy-Divergence Invalidation](core_01.005_values_principles.md#542-proxy-divergence-invalidation))",
         ),
         (
             "[§8 Shared-System Capacity](#8-shared-system-capacity)",
@@ -781,12 +781,12 @@ def apply_trace_repairs_part_b(text: str) -> str:
 def apply_trace_repairs_integrated(text: str) -> str:
     repl = [
         (
-            "[2. Constitutional Interpretation](core_01005_values_principles.md#2-constitutional-interpretation)",
-            "[9. Constitutional Interpretation](core_01005_values_principles.md#9-constitutional-interpretation)",
+            "[2. Constitutional Interpretation](core_01.005_values_principles.md#2-constitutional-interpretation)",
+            "[9. Constitutional Interpretation](core_01.005_values_principles.md#9-constitutional-interpretation)",
         ),
         (
             "(value collisions: [§10 Interaction and Conflict Resolution](#10-interaction-and-conflict-resolution))",
-            "(value collisions: [§5 Interaction and Conflict Resolution](core_01005_values_principles.md#5-interaction-and-conflict-resolution))",
+            "(value collisions: [§5 Interaction and Conflict Resolution](core_01.005_values_principles.md#5-interaction-and-conflict-resolution))",
         ),
         (
             "[§10 Interaction and Conflict Resolution](#10-interaction-and-conflict-resolution)",
@@ -817,12 +817,12 @@ def apply_trace_repairs_integrated(text: str) -> str:
             "[10. Integrated Application](#10-integrated-application)",
         ),
         (
-            "[§2.2 Ambiguity resolution](core_01005_values_principles.md#22-ambiguity-resolution)",
-            "[§9.2 Ambiguity resolution](core_01005_values_principles.md#92-ambiguity-resolution)",
+            "[§2.2 Ambiguity resolution](core_01.005_values_principles.md#22-ambiguity-resolution)",
+            "[§9.2 Ambiguity resolution](core_01.005_values_principles.md#92-ambiguity-resolution)",
         ),
         (
-            "[§2.1 Definitional layer and required disciplines](core_01005_values_principles.md#21-definitional-layer-and-required-disciplines)",
-            "[§9.1 Definitional layer and required disciplines](core_01005_values_principles.md#91-definitional-layer-and-required-disciplines)",
+            "[§2.1 Definitional layer and required disciplines](core_01.005_values_principles.md#21-definitional-layer-and-required-disciplines)",
+            "[§9.1 Definitional layer and required disciplines](core_01.005_values_principles.md#91-definitional-layer-and-required-disciplines)",
         ),
     ]
     for old, new in repl:

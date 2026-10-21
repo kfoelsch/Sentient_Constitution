@@ -11,9 +11,9 @@ FAMILY_MAP_REL = Path("tools/architecture/family_map.json")
 SECTION_ID_RE = re.compile(r"^(CJS|CS|CI|CF)-(\d+)(?:\.(\d+))?(?:\.(\d+))?", re.I)
 
 CS_PART_DEFAULTS = {
-    "CS-6.305": "corpus_systems/cs_06305_information_types_and_handling.md",
-    "CS-9.305": "corpus_systems/cs_09305_system_classification_machinery.md",
-    "CS-9.310": "corpus_systems/cs_09310_system_impact_classifications.md",
+    "CS-6.305": "corpus_systems/cs_06.305_information_types_and_handling.md",
+    "CS-9.305": "corpus_systems/cs_09.305_system_classification_machinery.md",
+    "CS-9.310": "corpus_systems/cs_09.310_system_impact_classifications.md",
 }
 
 
@@ -43,11 +43,11 @@ def family_files(data: dict[str, Any]) -> dict[str, str]:
             mapping[token.group(0)] = file_rel
     mapping.setdefault(
         "CJS-0.105",
-        "corpus_joint_structure/cjs_00105_registry_and_reading_rules.md",
+        "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md",
     )
     mapping.setdefault(
         "CJS-0.105 §1",
-        "corpus_joint_structure/cjs_00105_registry_and_reading_rules.md",
+        "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md",
     )
     return mapping
 

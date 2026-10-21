@@ -27,11 +27,11 @@ import sys
 
 
 DEFAULT_FILES = [
-    "core_06005_rights_part_a.md",
-    "core_06010_rights_part_b.md",
-    "core_06015_rights_part_c.md",
-    "core_06020_rights_part_d.md",
-    "core_06025_rights_part_e.md",
+    "core_06.005_rights_part_a.md",
+    "core_06.010_rights_part_b.md",
+    "core_06.015_rights_part_c.md",
+    "core_06.020_rights_part_d.md",
+    "core_06.025_rights_part_e.md",
 ]
 
 

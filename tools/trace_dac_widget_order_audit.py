@@ -189,7 +189,7 @@ def audit_dec_without_trace_placement(
 def audit_roadmap_exclusion_parent_dec(
     lines: list[str], rel: str, start: int, end: int, heading_text: str, level: int
 ) -> list[str]:
-    if level != 3 or not rel.startswith("core_01_"):
+    if level != 3 or not rel.startswith("core_01."):
         return []
 
     first_child = end

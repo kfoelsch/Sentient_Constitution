@@ -27,56 +27,56 @@ class CoreTests(unittest.TestCase):
 
     def test_standard_line_passes(self):
         body = "Chapter Seven is the constitutional owner of **System Charters**.\n\n*In plain terms: x*\n\n### 1. A\n"
-        self.assertEqual(self.check("core_07000_charters.md", core(body)), [])
+        self.assertEqual(self.check("core_07.000_charters.md", core(body)), [])
 
     def test_claim_only_in_widget_fails(self):
         body = "*In plain terms: x*\n\n### 1. A\n"
         text = core(body, widget_claim="Chapter Seven is the constitutional owner of **X**.")
-        self.assertTrue(any("needs a visible" in f for f in self.check("core_07000_charters.md", text)))
+        self.assertTrue(any("needs a visible" in f for f in self.check("core_07.000_charters.md", text)))
 
     def test_claim_after_gloss_fails(self):
         body = "*In plain terms: x*\n\nChapter Seven is the constitutional owner of **X**.\n"
-        self.assertTrue(any("before the first gloss" in f for f in self.check("core_07000_charters.md", core(body))))
+        self.assertTrue(any("before the first gloss" in f for f in self.check("core_07.000_charters.md", core(body))))
 
     def test_wrong_chapter_fails(self):
         body = "Chapter Eight is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
-        self.assertTrue(any("must start 'Chapter Seven'" in f for f in self.check("core_07000_charters.md", core(body))))
+        self.assertTrue(any("must start 'Chapter Seven'" in f for f in self.check("core_07.000_charters.md", core(body))))
 
     def test_part_letter_required(self):
         body = "Chapter Nine is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
-        name = "core_09005_system_alignment_certification_evaluation.md"
+        name = "core_09.005_system_alignment_certification_evaluation.md"
         self.assertTrue(any("name 'Part A'" in f for f in self.check(name, core(body))))
         ok = "Chapter Nine, **Part A**, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
         self.assertEqual(self.check(name, core(ok)), [])
 
     def test_chapter_six_part_a_may_omit_part(self):
         body = "Chapter Six is the constitutional owner of **Rights Floors**.\n\n### 1. A\n"
-        self.assertEqual(self.check("core_06005_rights_part_a.md", core(body)), [])
-        self.assertTrue(self.check("core_06010_rights_part_b.md", core(body)))
+        self.assertEqual(self.check("core_06.005_rights_part_a.md", core(body)), [])
+        self.assertTrue(self.check("core_06.010_rights_part_b.md", core(body)))
 
     def test_part_heading_before_claim_is_allowed(self):
         body = "### Part B: Personhood\n\nChapter Six, Part B, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
-        self.assertEqual(self.check("core_06010_rights_part_b.md", core(body)), [])
+        self.assertEqual(self.check("core_06.010_rights_part_b.md", core(body)), [])
 
     def test_where_material_and_unbolded_domain_fail(self):
         a = "Chapter Seven is the constitutional owner of **X** where material.\n\n*In plain terms: x*\n"
-        self.assertTrue(any("where material" in f for f in self.check("core_07000_charters.md", core(a))))
+        self.assertTrue(any("where material" in f for f in self.check("core_07.000_charters.md", core(a))))
         b = "Chapter Seven is the constitutional owner of X.\n\n*In plain terms: x*\n"
-        self.assertTrue(any("in bold" in f for f in self.check("core_07000_charters.md", core(b))))
+        self.assertTrue(any("in bold" in f for f in self.check("core_07.000_charters.md", core(b))))
 
     def test_bold_in_list_under_the_line_counts(self):
         body = "Chapter Nine, Part B, is the constitutional owner of these parts:\n\n- **Phase III:** review\n\n*In plain terms: x*\n"
-        name = "core_09010_system_alignment_certification_record_process.md"
+        name = "core_09.010_system_alignment_certification_record_process.md"
         self.assertEqual(self.check(name, core(body)), [])
 
     def test_preamble_form(self):
         ok = "The Preamble is the constitutional owner of **the Model**.\n\n*In plain terms: x*\n"
-        self.assertEqual(self.check("core_00000_preamble.md", core(ok)), [])
+        self.assertEqual(self.check("core_00.000_preamble.md", core(ok)), [])
         bad = "Chapter Zero is the constitutional owner of **the Model**.\n\n*In plain terms: x*\n"
-        self.assertTrue(self.check("core_00000_preamble.md", core(bad)))
+        self.assertTrue(self.check("core_00.000_preamble.md", core(bad)))
 
     def test_non_owner_files_must_say_so(self):
-        name = "core_10005_application_vignettes.md"
+        name = "core_10.005_application_vignettes.md"
         ok = "These vignettes are illustrative and own no rule.\n\n*In plain terms: x*\n"
         self.assertEqual(self.check(name, core(ok)), [])
         self.assertTrue(self.check(name, core("*In plain terms: x*\n")))
@@ -84,7 +84,7 @@ class CoreTests(unittest.TestCase):
     def test_two_claims_before_the_first_section_fail(self):
         body = ("Chapter Seven is the constitutional owner of **X**.\n\n"
                 "Chapter Seven is the constitutional owner of **Y**.\n\n### 1. A\n")
-        self.assertTrue(any("once" in f for f in self.check("core_07000_charters.md", core(body))))
+        self.assertTrue(any("once" in f for f in self.check("core_07.000_charters.md", core(body))))
 
 
 class ImplTests(unittest.TestCase):
@@ -155,7 +155,7 @@ class CorpusTests(unittest.TestCase):
 
     def test_copy_artifacts_are_ignored(self):
         root = Path(tempfile.mkdtemp())
-        (root / "core_07_charters 2.md").write_text("junk\n", encoding="utf-8")
+        (root / "core_07.000_charters 2.md").write_text("junk\n", encoding="utf-8")
         self.assertEqual(ola.core_files(root), [])
 
 

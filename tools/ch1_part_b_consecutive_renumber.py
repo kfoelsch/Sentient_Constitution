@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PART_A = ROOT / "core_01005_values_principles.md"
+PART_A = ROOT / "core_01.005_values_principles.md"
 PART_B = ROOT / "core_01_b_stewardship_capacity_principles.md"
 
 SECTION_MAP = {11: 9, 12: 10, 13: 11, 14: 12, 15: 13, 16: 14}
@@ -372,7 +372,7 @@ def reassemble_part_b(part_b: str) -> str:
     footer = """
 ---
 
-**Previous file:** [core_01005_values_principles.md](core_01005_values_principles.md)
+**Previous file:** [core_01.005_values_principles.md](core_01.005_values_principles.md)
 
 **Next file:** [core_02-04_definition_mechanics.md](core_02-04_definition_mechanics.md)
 """

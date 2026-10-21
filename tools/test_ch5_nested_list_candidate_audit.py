@@ -181,7 +181,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--root",
                     str(_TOOLS.parent),
                     "--file",
-                    "core_05035_band_accountability.md",
+                    "core_05.035_band_accountability.md",
                     "--top",
                     "3",
                 ]
@@ -279,7 +279,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "6",
                     "--file",
-                    "core_06010_rights_part_b.md",
+                    "core_06.010_rights_part_b.md",
                     "--top",
                     "3",
                 ]
@@ -327,7 +327,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "8",
                     "--file",
-                    "core_09005_system_alignment_certification_evaluation.md",
+                    "core_09.005_system_alignment_certification_evaluation.md",
                     "--top",
                     "3",
                 ]
@@ -376,7 +376,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "9",
                     "--file",
-                    "core_10000_standing_assessment.md",
+                    "core_10.000_standing_assessment.md",
                     "--top",
                     "3",
                 ]
@@ -427,7 +427,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "10",
                     "--file",
-                    "core_11000_standing_integration.md",
+                    "core_11.000_standing_integration.md",
                     "--top",
                     "3",
                 ]
@@ -479,7 +479,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "11",
                     "--file",
-                    "core_12005_misconduct_designation.md",
+                    "core_12.005_misconduct_designation.md",
                     "--top",
                     "3",
                 ]
@@ -531,7 +531,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "12",
                     "--file",
-                    "core_13000_forum.md",
+                    "core_13.000_forum.md",
                     "--top",
                     "3",
                 ]
@@ -584,7 +584,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "13",
                     "--file",
-                    "core_14000_governance.md",
+                    "core_14.000_governance.md",
                     "--top",
                     "3",
                 ]
@@ -638,7 +638,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--chapter",
                     "14",
                     "--file",
-                    "core_15000_non_regression.md",
+                    "core_15.000_non_regression.md",
                     "--top",
                     "3",
                 ]

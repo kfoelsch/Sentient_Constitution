@@ -12,7 +12,7 @@ from pathlib import Path
 
 from corpus_paths import source_markdown_files
 
-CH00_FILE = "core_00000_preamble.md"
+CH00_FILE = "core_00.000_preamble.md"
 
 # Preamble §3 (Major Measurement Aspects) and its per-category anchors were
 # removed in 2026-07. The §2 overview now links straight to the Chapter Five

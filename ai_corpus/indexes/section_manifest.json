@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-21T18:13:28+00:00",
+  "generated_at": "2026-10-21T19:05:07+00:00",
   "files": {
-    "core_00000_preamble.md": {
+    "core_00.000_preamble.md": {
       "total_lines": 526,
       "sections": [
         {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":526,"anchor":"#chapter-00-preamble--foundational-requirements"},
@@ -24,7 +24,7 @@
         {"header":"9. Adopted Implementation Corpus","level":3,"line_start":507,"line_end":526,"anchor":null}
       ]
     },
-    "core_01005_values_principles.md": {
+    "core_01.005_values_principles.md": {
       "total_lines": 2206,
       "sections": [
         {"header":"CHAPTER 01, PART A: VALUES PRINCIPLES","level":1,"line_start":1,"line_end":2206,"anchor":null},
@@ -84,7 +84,7 @@
         {"header":"12. Systemic Evaluation Requirement","level":3,"line_start":2141,"line_end":2206,"anchor":"#12-systemic-evaluation-requirement"}
       ]
     },
-    "core_01010_interaction_interpretation.md": {
+    "core_01.010_interaction_interpretation.md": {
       "total_lines": 1189,
       "sections": [
         {"header":"CHAPTER 01, PART B: INTERACTION AND INTERPRETATION","level":1,"line_start":2,"line_end":1189,"anchor":"#chapter-01-part-b-interaction-and-interpretation"},
@@ -118,7 +118,7 @@
         {"header":"15.4.4 Combined satisfaction of jointly applicable incorporated obligations","level":5,"line_start":1143,"line_end":1189,"anchor":"#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"}
       ]
     },
-    "core_01015_stewardship_capacity_principles.md": {
+    "core_01.015_stewardship_capacity_principles.md": {
       "total_lines": 1894,
       "sections": [
         {"header":"CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE","level":1,"line_start":4,"line_end":1894,"anchor":"#chapter-01-part-c-stewardship-and-governance"},
@@ -161,7 +161,7 @@
         {"header":"20. Integrated Application","level":3,"line_start":1833,"line_end":1894,"anchor":"#20-integrated-application"}
       ]
     },
-    "core_02000_definition_structure.md": {
+    "core_02.000_definition_structure.md": {
       "total_lines": 262,
       "sections": [
         {"header":"CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS","level":1,"line_start":2,"line_end":262,"anchor":"#chapter-two-definition-structure-and-component-requirements"},
@@ -178,7 +178,7 @@
         {"header":"3. Consistency Across the Definition Stack","level":3,"line_start":237,"line_end":262,"anchor":null}
       ]
     },
-    "core_03000_definition_integrity.md": {
+    "core_03.000_definition_integrity.md": {
       "total_lines": 274,
       "sections": [
         {"header":"CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE","level":1,"line_start":2,"line_end":274,"anchor":"#chapter-three-definition-integrity-evasion-and-non-compliance"},
@@ -198,7 +198,7 @@
         {"header":"3.4 Operational Constraints","level":4,"line_start":266,"line_end":274,"anchor":null}
       ]
     },
-    "core_04000_burden_traceability_verification.md": {
+    "core_04.000_burden_traceability_verification.md": {
       "total_lines": 235,
       "sections": [
         {"header":"CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION","level":1,"line_start":2,"line_end":235,"anchor":"#chapter-four-burden-of-proof-traceability-and-verification"},
@@ -210,7 +210,7 @@
         {"header":"6. Relationship to System Alignment Certification","level":3,"line_start":201,"line_end":235,"anchor":null}
       ]
     },
-    "core_05000_definitions_home.md": {
+    "core_05.000_definitions_home.md": {
       "total_lines": 481,
       "sections": [
         {"header":"CHAPTER FIVE: FOUNDATIONAL DEFINITIONS","level":1,"line_start":2,"line_end":481,"anchor":"#chapter-five-foundational-definitions"},
@@ -227,7 +227,7 @@
         {"header":"Measurement crosswalk (reader guidance)","level":3,"line_start":450,"line_end":481,"anchor":null}
       ]
     },
-    "core_05005_apex_accountability_leg.md": {
+    "core_05.005_apex_accountability_leg.md": {
       "total_lines": 140,
       "sections": [
         {"header":"CHAPTER FIVE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)","level":1,"line_start":1,"line_end":140,"anchor":null},
@@ -235,7 +235,7 @@
         {"header":"Measuring Accountability","level":3,"line_start":101,"line_end":140,"anchor":"#accountability-measurement-family"}
       ]
     },
-    "core_05010_apex_continuity_aim.md": {
+    "core_05.010_apex_continuity_aim.md": {
       "total_lines": 146,
       "sections": [
         {"header":"CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)","level":1,"line_start":3,"line_end":146,"anchor":"#continuity-aim-constitutional"},
@@ -243,7 +243,7 @@
         {"header":"Measuring Continuity (Preamble measurement family)","level":3,"line_start":117,"line_end":146,"anchor":"#continuity-measurement-family"}
       ]
     },
-    "core_05015_apex_flourishing_aim.md": {
+    "core_05.015_apex_flourishing_aim.md": {
       "total_lines": 132,
       "sections": [
         {"header":"CHAPTER FIVE DEFINITIONS: FLOURISHING","level":1,"line_start":1,"line_end":132,"anchor":null},
@@ -251,7 +251,7 @@
         {"header":"Measuring Flourishing (Preamble measurement family)","level":3,"line_start":104,"line_end":132,"anchor":"#flourishing-measurement-family"}
       ]
     },
-    "core_05020_apex_oversight_leg.md": {
+    "core_05.020_apex_oversight_leg.md": {
       "total_lines": 148,
       "sections": [
         {"header":"CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)","level":1,"line_start":1,"line_end":148,"anchor":null},
@@ -259,7 +259,7 @@
         {"header":"Measuring Oversight (Preamble measurement family)","level":3,"line_start":112,"line_end":148,"anchor":"#oversight-measurement-family"}
       ]
     },
-    "core_05025_apex_participation_leg.md": {
+    "core_05.025_apex_participation_leg.md": {
       "total_lines": 154,
       "sections": [
         {"header":"CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)","level":1,"line_start":1,"line_end":154,"anchor":null},
@@ -267,7 +267,7 @@
         {"header":"Measuring Participation (Preamble measurement family)","level":3,"line_start":121,"line_end":154,"anchor":"#participation-measurement-family"}
       ]
     },
-    "core_05030_apex_timeliness_leg.md": {
+    "core_05.030_apex_timeliness_leg.md": {
       "total_lines": 139,
       "sections": [
         {"header":"CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)","level":1,"line_start":1,"line_end":139,"anchor":null},
@@ -275,7 +275,7 @@
         {"header":"Measuring Timeliness","level":3,"line_start":110,"line_end":139,"anchor":"#timeliness-measurement-family"}
       ]
     },
-    "core_05035_band_accountability.md": {
+    "core_05.035_band_accountability.md": {
       "total_lines": 4785,
       "sections": [
         {"header":"Accountability Constitutional Definitions","level":1,"line_start":1,"line_end":4785,"anchor":null},
@@ -374,7 +374,7 @@
         {"header":"Autonomous Coercion Tool","level":5,"line_start":4713,"line_end":4785,"anchor":"#autonomous-coercion-tool-constitutional"}
       ]
     },
-    "core_05040_band_continuity.md": {
+    "core_05.040_band_continuity.md": {
       "total_lines": 5904,
       "sections": [
         {"header":"Continuity Constitutional Definitions","level":1,"line_start":1,"line_end":5904,"anchor":null},
@@ -479,7 +479,7 @@
         {"header":"Trust Degradation and Misleading Reliance","level":5,"line_start":5797,"line_end":5904,"anchor":"#trust-degradation-and-misleading-reliance"}
       ]
     },
-    "core_05045_band_integrative.md": {
+    "core_05.045_band_integrative.md": {
       "total_lines": 1291,
       "sections": [
         {"header":"Integrative Constitutional Definitions","level":1,"line_start":1,"line_end":1291,"anchor":null},
@@ -511,7 +511,7 @@
         {"header":"Constitutional Constraint","level":5,"line_start":1212,"line_end":1291,"anchor":"#constitutional-constraint"}
       ]
     },
-    "core_05050_band_oversight.md": {
+    "core_05.050_band_oversight.md": {
       "total_lines": 2034,
       "sections": [
         {"header":"Oversight Constitutional Definitions","level":1,"line_start":1,"line_end":2034,"anchor":null},
@@ -557,7 +557,7 @@
         {"header":"Reasonably Foreseeable","level":5,"line_start":2014,"line_end":2034,"anchor":"#reasonably-foreseeable"}
       ]
     },
-    "core_05055_band_participation.md": {
+    "core_05.055_band_participation.md": {
       "total_lines": 3853,
       "sections": [
         {"header":"Participation Constitutional Definitions","level":1,"line_start":1,"line_end":3853,"anchor":null},
@@ -630,14 +630,14 @@
         {"header":"Graduated Capability","level":5,"line_start":3803,"line_end":3853,"anchor":"#graduated-capability-constitutional"}
       ]
     },
-    "core_05060_band_performance.md": {
+    "core_05.060_band_performance.md": {
       "total_lines": 60,
       "sections": [
         {"header":"Constitutional Performance Definitions","level":1,"line_start":1,"line_end":60,"anchor":null},
         {"header":"Measuring Constitutional Performance (Preamble measurement family)","level":3,"line_start":35,"line_end":60,"anchor":"#performance-measurement-family"}
       ]
     },
-    "core_07000_charters.md": {
+    "core_07.000_charters.md": {
       "total_lines": 946,
       "sections": [
         {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":946,"anchor":"#chapter-seven-system-and-institutional-charters"},
@@ -691,7 +691,7 @@
         {"header":"9. Relationship to Other Chapters","level":3,"line_start":907,"line_end":946,"anchor":"#9-relationship-to-other-chapters"}
       ]
     },
-    "core_08000_functional_independence_segregation_of_duties.md": {
+    "core_08.000_functional_independence_segregation_of_duties.md": {
       "total_lines": 453,
       "sections": [
         {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES","level":1,"line_start":2,"line_end":453,"anchor":"#chapter-eight-functional-independence-and-segregation-of-duties"},
@@ -706,7 +706,7 @@
         {"header":"9. Relationship to Later Processes","level":3,"line_start":414,"line_end":453,"anchor":"#9-relationship-to-later-processes"}
       ]
     },
-    "core_09005_system_alignment_certification_evaluation.md": {
+    "core_09.005_system_alignment_certification_evaluation.md": {
       "total_lines": 1387,
       "sections": [
         {"header":"CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION","level":1,"line_start":4,"line_end":1387,"anchor":"#chapter-nine-part-a-certification-evaluation"},
@@ -769,7 +769,7 @@
         {"header":"5.6.4 Defects and Misalignment","level":5,"line_start":1374,"line_end":1387,"anchor":"#564-defects-and-misalignment"}
       ]
     },
-    "core_09010_system_alignment_certification_record_process.md": {
+    "core_09.010_system_alignment_certification_record_process.md": {
       "total_lines": 1064,
       "sections": [
         {"header":"CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS","level":1,"line_start":2,"line_end":1064,"anchor":"#chapter-nine-part-b-certification-record-and-process"},
@@ -799,7 +799,7 @@
         {"header":"10. Relationship to Standing","level":3,"line_start":977,"line_end":1064,"anchor":"#10-relationship-to-standing"}
       ]
     },
-    "core_09015_system_alignment_certification_illustrations.md": {
+    "core_09.015_system_alignment_certification_illustrations.md": {
       "total_lines": 761,
       "sections": [
         {"header":"CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS","level":1,"line_start":3,"line_end":761,"anchor":"#chapter-nine-part-c-system-alignment-certification--illustrations"},
@@ -815,7 +815,7 @@
         {"header":"5.6.5. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)","level":3,"line_start":668,"line_end":761,"anchor":"#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive"}
       ]
     },
-    "core_09020_institutional_alignment_certification.md": {
+    "core_09.020_institutional_alignment_certification.md": {
       "total_lines": 452,
       "sections": [
         {"header":"CHAPTER NINE, PART D: INSTITUTIONAL ALIGNMENT CERTIFICATION","level":1,"line_start":2,"line_end":452,"anchor":"#chapter-nine-part-d-institutional-alignment-certification"},
@@ -843,13 +843,13 @@
         {"header":"15. Standing Bridge and Non-Evasion","level":3,"line_start":414,"line_end":452,"anchor":"#15-standing-bridge-and-non-evasion"}
       ]
     },
-    "core_09000_system_alignment_certification.md": {
+    "core_09.000_system_alignment_certification.md": {
       "total_lines": 128,
       "sections": [
         {"header":"CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)","level":1,"line_start":2,"line_end":128,"anchor":"#chapter-nine-system-alignment-certification-index"}
       ]
     },
-    "core_10000_standing_assessment.md": {
+    "core_10.000_standing_assessment.md": {
       "total_lines": 1060,
       "sections": [
         {"header":"CHAPTER TEN: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT","level":1,"line_start":2,"line_end":1060,"anchor":"#chapter-ten-compliance-violation-and-standing-model"},
@@ -887,7 +887,7 @@
         {"header":"7. Unified proportional LEQU scale — Contribution and Violation Axes","level":3,"line_start":978,"line_end":1060,"anchor":"#7-unified-proportional-lequ-scale--contribution-and-violation-axes"}
       ]
     },
-    "core_11000_standing_integration.md": {
+    "core_11.000_standing_integration.md": {
       "total_lines": 1166,
       "sections": [
         {"header":"CHAPTER ELEVEN: STANDING EFFECTS AND INTEGRATION","level":1,"line_start":2,"line_end":1166,"anchor":"#chapter-eleven-standing-effects-and-integration"},
@@ -936,7 +936,7 @@
         {"header":"10.14 Verified cruelty character","level":4,"line_start":1149,"line_end":1166,"anchor":"#1014-verified-cruelty-character"}
       ]
     },
-    "core_12005_misconduct_designation.md": {
+    "core_12.005_misconduct_designation.md": {
       "total_lines": 476,
       "sections": [
         {"header":"CHAPTER TWELVE, PART A: ANTI-CONSTITUTIONAL MISCONDUCT — DESIGNATION","level":1,"line_start":4,"line_end":476,"anchor":"#chapter-twelve-part-a-anti-constitutional-misconduct-designation"},
@@ -949,7 +949,7 @@
         {"header":"4.3 Voluntary public accountability expression (anti-constitutional)","level":3,"line_start":445,"line_end":476,"anchor":"#4-3-voluntary-public-accountability-expression-anti-constitutional"}
       ]
     },
-    "core_12010_misconduct_pattern_applications.md": {
+    "core_12.010_misconduct_pattern_applications.md": {
       "total_lines": 1201,
       "sections": [
         {"header":"CHAPTER TWELVE, PART B: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS","level":1,"line_start":2,"line_end":1201,"anchor":"#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications"},
@@ -968,7 +968,7 @@
         {"header":"5.11 Obstruction of accountability: criteria interaction","level":3,"line_start":1124,"line_end":1201,"anchor":"#511-obstruction-of-accountability-criteria-interaction"}
       ]
     },
-    "core_13000_forum.md": {
+    "core_13.000_forum.md": {
       "total_lines": 1149,
       "sections": [
         {"header":"CHAPTER THIRTEEN: FORUMS AND JURISDICTION","level":1,"line_start":2,"line_end":1149,"anchor":"#chapter-thirteen-forums-and-jurisdiction"},
@@ -1002,7 +1002,7 @@
         {"header":"7. Forum support before, during, and after review — oversight architecture","level":3,"line_start":1105,"line_end":1149,"anchor":"#7-forum-support-before-during-and-after-review--oversight-architecture"}
       ]
     },
-    "core_10005_application_vignettes.md": {
+    "core_10.005_application_vignettes.md": {
       "total_lines": 347,
       "sections": [
         {"header":"CHAPTERS TEN–THIRTEEN: PIPELINE APPLICATION VIGNETTES","level":1,"line_start":2,"line_end":347,"anchor":"#chapters-ten-thirteen-application-vignettes"},
@@ -1042,7 +1042,7 @@
         {"header":"Cross-vignette discipline","level":3,"line_start":325,"line_end":347,"anchor":null}
       ]
     },
-    "core_06005_rights_part_a.md": {
+    "core_06.005_rights_part_a.md": {
       "total_lines": 1361,
       "sections": [
         {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":1361,"anchor":null},
@@ -1077,7 +1077,7 @@
         {"header":"Article V-B: Cross-System Fairness and Sustainability","level":4,"line_start":1300,"line_end":1361,"anchor":null}
       ]
     },
-    "core_06010_rights_part_b.md": {
+    "core_06.010_rights_part_b.md": {
       "total_lines": 2248,
       "sections": [
         {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":2248,"anchor":null},
@@ -1125,7 +1125,7 @@
         {"header":"Article XII-E: Influence-Contact and Lobbying Boundaries","level":4,"line_start":2153,"line_end":2248,"anchor":null}
       ]
     },
-    "core_06015_rights_part_c.md": {
+    "core_06.015_rights_part_c.md": {
       "total_lines": 1710,
       "sections": [
         {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":1710,"anchor":null},
@@ -1164,7 +1164,7 @@
         {"header":"Article XVIII-F: Inventions, Processes, and Functional Systems","level":4,"line_start":1630,"line_end":1710,"anchor":null}
       ]
     },
-    "core_06020_rights_part_d.md": {
+    "core_06.020_rights_part_d.md": {
       "total_lines": 1550,
       "sections": [
         {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":1550,"anchor":null},
@@ -1201,7 +1201,7 @@
         {"header":"Article XXV-D: Removal for Cause and Non-Entrenchment","level":4,"line_start":1519,"line_end":1550,"anchor":null}
       ]
     },
-    "core_06025_rights_part_e.md": {
+    "core_06.025_rights_part_e.md": {
       "total_lines": 590,
       "sections": [
         {"header":"CHAPTER SIX: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":590,"anchor":null},
@@ -1220,7 +1220,7 @@
         {"header":"Article XXVIII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives","level":4,"line_start":529,"line_end":590,"anchor":"#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"}
       ]
     },
-    "core_14000_governance.md": {
+    "core_14.000_governance.md": {
       "total_lines": 550,
       "sections": [
         {"header":"CHAPTER FOURTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":2,"line_end":550,"anchor":"#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship"},
@@ -1240,7 +1240,7 @@
         {"header":"5. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":504,"line_end":550,"anchor":null}
       ]
     },
-    "core_15000_non_regression.md": {
+    "core_15.000_non_regression.md": {
       "total_lines": 206,
       "sections": [
         {"header":"CHAPTER FIFTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":2,"line_end":206,"anchor":"#chapter-fifteen-non-regression-and-substantive-amendment-validity"},
@@ -1250,7 +1250,7 @@
         {"header":"4. Layer scope","level":3,"line_start":158,"line_end":206,"anchor":"#4-layer-scope"}
       ]
     },
-    "core_16000_expansion_supremacy.md": {
+    "core_16.000_expansion_supremacy.md": {
       "total_lines": 281,
       "sections": [
         {"header":"CHAPTER SIXTEEN: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS","level":1,"line_start":2,"line_end":281,"anchor":"#chapter-sixteen-expansion-supremacy-and-external-legal-orders"},
@@ -1268,7 +1268,7 @@
         {"header":"5.2 Alignment When Used Within External Legal Frameworks","level":4,"line_start":254,"line_end":281,"anchor":null}
       ]
     },
-    "core_17000_amendment_ratification.md": {
+    "core_17.000_amendment_ratification.md": {
       "total_lines": 356,
       "sections": [
         {"header":"CHAPTER SEVENTEEN: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY","level":1,"line_start":2,"line_end":356,"anchor":"#chapter-seventeen-amendment-ratification-and-procedural-validity"},
@@ -1291,7 +1291,7 @@
         {"header":"12. Layer scope","level":3,"line_start":322,"line_end":356,"anchor":"#12-layer-scope"}
       ]
     },
-    "core_18000_incorporation.md": {
+    "core_18.000_incorporation.md": {
       "total_lines": 219,
       "sections": [
         {"header":"CHAPTER EIGHTEEN: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":219,"anchor":null},
@@ -1357,7 +1357,7 @@
         {"header":"oDef library (CJS-5.105–CJS-5.135)","level":3,"line_start":91,"line_end":110,"anchor":null}
       ]
     },
-    "corpus_joint_structure/cjs_00105_registry_and_reading_rules.md": {
+    "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md": {
       "total_lines": 380,
       "sections": [
         {"header":"Joint-structure registry and reading rules","level":1,"line_start":1,"line_end":380,"anchor":null},
@@ -1369,7 +1369,7 @@
         {"header":"CJS-0.105 §4: Time-window names","level":3,"line_start":266,"line_end":380,"anchor":null}
       ]
     },
-    "corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md": {
+    "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md": {
       "total_lines": 211,
       "sections": [
         {"header":"CJS-0.110: Scope, purpose, and boundary interface","level":1,"line_start":1,"line_end":211,"anchor":null},
@@ -1378,7 +1378,7 @@
         {"header":"CJS-0.110 §3: Shared implementation-corpus preamble contract","level":2,"line_start":164,"line_end":211,"anchor":null}
       ]
     },
-    "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md": {
+    "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md": {
       "total_lines": 416,
       "sections": [
         {"header":"CJS-5.105: operational cluster library (oDef)","level":1,"line_start":1,"line_end":416,"anchor":null},
@@ -1386,7 +1386,7 @@
         {"header":"CJS-5.105 §1 Library: Constitutional compass and cluster map","level":2,"line_start":332,"line_end":416,"anchor":"#stewardship-role-c"}
       ]
     },
-    "corpus_joint_structure/cjs_05110_oversight_operations.md": {
+    "corpus_joint_structure/cjs_05.110_oversight_operations.md": {
       "total_lines": 1115,
       "sections": [
         {"header":"Oversight leg (CJS-5.110 §2–CJS-5.110 §6) / oDef.2–oDef.6","level":1,"line_start":1,"line_end":1115,"anchor":null},
@@ -1397,7 +1397,7 @@
         {"header":"CJS-5.110 §6 Oversight: integrity assurance and resilience operations","level":2,"line_start":755,"line_end":1115,"anchor":"#structured-review-and-incentive-integrity-floor-c"}
       ]
     },
-    "corpus_joint_structure/cjs_05115_audit_process.md": {
+    "corpus_joint_structure/cjs_05.115_audit_process.md": {
       "total_lines": 161,
       "sections": [
         {"header":"CJS-5.115 §3 / oDef.3 Audit process home","level":1,"line_start":2,"line_end":161,"anchor":null},
@@ -1408,7 +1408,7 @@
         {"header":"Sibling audit modes (owner map)","level":2,"line_start":133,"line_end":161,"anchor":null}
       ]
     },
-    "corpus_joint_structure/cjs_05120_participation_operations.md": {
+    "corpus_joint_structure/cjs_05.120_participation_operations.md": {
       "total_lines": 849,
       "sections": [
         {"header":"Participation leg (CJS-5.120 §7–CJS-5.120 §10) / oDef.7–oDef.10","level":1,"line_start":1,"line_end":849,"anchor":null},
@@ -1418,7 +1418,7 @@
         {"header":"CJS-5.120 §10 Participation: disclosure sufficiency and observability terms","level":2,"line_start":726,"line_end":849,"anchor":"#user-agency-and-control-c"}
       ]
     },
-    "corpus_joint_structure/cjs_05125_accountability_operations.md": {
+    "corpus_joint_structure/cjs_05.125_accountability_operations.md": {
       "total_lines": 1339,
       "sections": [
         {"header":"Accountability leg (CJS-5.125 §11–CJS-5.125 §15) / oDef.11–oDef.15","level":1,"line_start":1,"line_end":1339,"anchor":null},
@@ -1432,7 +1432,7 @@
         {"header":"CJS-5.125 §15 Accountability: structural review, correction urgency, and disclosure terms","level":2,"line_start":1149,"line_end":1339,"anchor":"#records-transparency-and-challenge-pathway-duties-c"}
       ]
     },
-    "corpus_joint_structure/cjs_05130_continuity_operations.md": {
+    "corpus_joint_structure/cjs_05.130_continuity_operations.md": {
       "total_lines": 1485,
       "sections": [
         {"header":"Continuity aim operations (CJS-5.130 §16–CJS-5.130 §21) / oDef.16–oDef.21","level":1,"line_start":1,"line_end":1485,"anchor":null},
@@ -1444,7 +1444,7 @@
         {"header":"CJS-5.130 §21 Continuity: adversarial robustness and abuse-resistance terms","level":2,"line_start":1213,"line_end":1485,"anchor":"#rollback-and-containment-capability-c"}
       ]
     },
-    "corpus_joint_structure/cjs_05135_integrative_operations.md": {
+    "corpus_joint_structure/cjs_05.135_integrative_operations.md": {
       "total_lines": 419,
       "sections": [
         {"header":"Integrative cross-leg operations (CJS-5.135 §22–CJS-5.135 §23) / oDef.22–oDef.23","level":1,"line_start":1,"line_end":419,"anchor":null},
@@ -1452,7 +1452,7 @@
         {"header":"CJS-5.135 §23 Integrative: intervention and override integrity terms","level":2,"line_start":195,"line_end":419,"anchor":"#no-permanent-secrecy-and-anti-normalization-discipline-c"}
       ]
     },
-    "corpus_joint_structure/cjs_05140_odef_parse_mechanics.md": {
+    "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md": {
       "total_lines": 131,
       "sections": [
         {"header":"CJS-5.140 §13–CJS-5.140 §14: oDef parse mechanics","level":1,"line_start":1,"line_end":131,"anchor":null},
@@ -1460,7 +1460,7 @@
         {"header":"CJS-5.140 §14: Operational clusters","level":2,"line_start":82,"line_end":131,"anchor":null}
       ]
     },
-    "corpus_joint_structure/cjs_08105_support_hosting_classification.md": {
+    "corpus_joint_structure/cjs_08.105_support_hosting_classification.md": {
       "total_lines": 90,
       "sections": [
         {"header":"CJS-8.105 §9–CJS-8.105 §11: Support roles, hosting independence, and classification alignment","level":1,"line_start":1,"line_end":90,"anchor":null},
@@ -1469,7 +1469,7 @@
         {"header":"CJS-8.105 §11: Classification alignment for supervised scope","level":2,"line_start":77,"line_end":90,"anchor":null}
       ]
     },
-    "corpus_joint_structure/cjs_18105_drafting_contracts.md": {
+    "corpus_joint_structure/cjs_18.105_drafting_contracts.md": {
       "total_lines": 131,
       "sections": [
         {"header":"CJS-18.105 §7–CJS-18.105 §8.1: Drafting contracts and owner-to-CJS seam","level":1,"line_start":1,"line_end":131,"anchor":null},
@@ -1478,7 +1478,7 @@
         {"header":"CJS-18.105 §8.1 Implementation boundary (primary owner to CJS seam)","level":3,"line_start":95,"line_end":131,"anchor":null}
       ]
     },
-    "corpus_joint_structure/cjs_18110_specific_joint_interlocks.md": {
+    "corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md": {
       "total_lines": 287,
       "sections": [
         {"header":"CJS-18.110: Specific joint interlocks and shared abstractions","level":1,"line_start":1,"line_end":287,"anchor":null},
@@ -1503,7 +1503,7 @@
         {"header":"Editors and auditors","level":2,"line_start":106,"line_end":114,"anchor":null}
       ]
     },
-    "corpus_systems/cs_00305_registry_and_reading_rules.md": {
+    "corpus_systems/cs_00.305_registry_and_reading_rules.md": {
       "total_lines": 230,
       "sections": [
         {"header":"CS-0.305: Systems registry and identifier rules","level":1,"line_start":1,"line_end":230,"anchor":null},
@@ -1515,14 +1515,14 @@
         {"header":"Systems read-with pointers","level":3,"line_start":206,"line_end":230,"anchor":null}
       ]
     },
-    "corpus_systems/cs_00310_scope_purpose_identifier_rules.md": {
+    "corpus_systems/cs_00.310_scope_purpose_identifier_rules.md": {
       "total_lines": 132,
       "sections": [
         {"header":"CS-0.310: Scope, purpose, and boundary interface","level":1,"line_start":1,"line_end":132,"anchor":null},
         {"header":"CS-0.310 §0: Purpose and role","level":2,"line_start":96,"line_end":132,"anchor":"#operates-in-conjunction-with"}
       ]
     },
-    "corpus_systems/cs_06305_information_types_and_handling.md": {
+    "corpus_systems/cs_06.305_information_types_and_handling.md": {
       "total_lines": 695,
       "sections": [
         {"header":"CS-6.305, Part A: Information types and handling","level":1,"line_start":2,"line_end":695,"anchor":null},
@@ -1536,7 +1536,7 @@
         {"header":"CS-6.305 §8 System Data Types Record governance","level":2,"line_start":565,"line_end":695,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06310_data_classifications.md": {
+    "corpus_systems/cs_06.310_data_classifications.md": {
       "total_lines": 964,
       "sections": [
         {"header":"CS-6.310, Part B: Data classifications","level":1,"line_start":2,"line_end":964,"anchor":null},
@@ -1578,7 +1578,7 @@
         {"header":"9.13.6 Disputes and succession","level":4,"line_start":953,"line_end":964,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06315_comprehensibility_complexity_stewardship.md": {
+    "corpus_systems/cs_06.315_comprehensibility_complexity_stewardship.md": {
       "total_lines": 112,
       "sections": [
         {"header":"CS-6.315: Comprehensibility and complexity stewardship","level":1,"line_start":1,"line_end":112,"anchor":null},
@@ -1588,7 +1588,7 @@
         {"header":"CS-6.315 §4 Gaps and silence","level":2,"line_start":102,"line_end":112,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06320_justice_safeguards_restitution_rehabilitation.md": {
+    "corpus_systems/cs_06.320_justice_safeguards_restitution_rehabilitation.md": {
       "total_lines": 234,
       "sections": [
         {"header":"CS-6.320: Justice safeguards, restitution, and rehabilitation","level":1,"line_start":1,"line_end":234,"anchor":null},
@@ -1605,7 +1605,7 @@
         {"header":"CS-6.320 §11 Lived-condition floors, continuity, and re-entry alignment","level":2,"line_start":211,"line_end":234,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06325_adaptive_sustainability_ecosystem_resilience.md": {
+    "corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md": {
       "total_lines": 230,
       "sections": [
         {"header":"CS-6.325: Adaptive sustainability and ecosystem resilience","level":1,"line_start":1,"line_end":230,"anchor":null},
@@ -1625,7 +1625,7 @@
         {"header":"CS-6.325 §10 Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile)","level":2,"line_start":218,"line_end":230,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06330_decentralized_continuity_partition_resilience.md": {
+    "corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md": {
       "total_lines": 195,
       "sections": [
         {"header":"CS-6.330: Decentralized continuity and partition resilience","level":1,"line_start":1,"line_end":195,"anchor":null},
@@ -1641,7 +1641,7 @@
         {"header":"CS-6.330 §9 Self-healing under decentralized continuity","level":2,"line_start":166,"line_end":195,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06335_resource_allocation_funding_stewardship.md": {
+    "corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md": {
       "total_lines": 395,
       "sections": [
         {"header":"CS-6.335: Resource allocation and funding stewardship","level":1,"line_start":1,"line_end":395,"anchor":null},
@@ -1668,7 +1668,7 @@
         {"header":"CS-6.335 §21 Observability of alignment","level":2,"line_start":385,"line_end":395,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06340_system_requirements.md": {
+    "corpus_systems/cs_06.340_system_requirements.md": {
       "total_lines": 134,
       "sections": [
         {"header":"CS-6.340: System requirements","level":1,"line_start":2,"line_end":134,"anchor":null},
@@ -1678,7 +1678,7 @@
         {"header":"CS-6.340 §4 What this file does not own","level":2,"line_start":118,"line_end":134,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06345_design_testing_verification_deployment.md": {
+    "corpus_systems/cs_06.345_design_testing_verification_deployment.md": {
       "total_lines": 364,
       "sections": [
         {"header":"CS-6.345: System lifecycle","level":1,"line_start":1,"line_end":364,"anchor":null},
@@ -1694,7 +1694,7 @@
         {"header":"CS-6.345 §10 Recertification, regression testing, and certification defects","level":2,"line_start":321,"line_end":364,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06350_transition_constitution_migration_governance.md": {
+    "corpus_systems/cs_06.350_transition_constitution_migration_governance.md": {
       "total_lines": 173,
       "sections": [
         {"header":"CS-6.350: Transition constitution and migration governance","level":1,"line_start":1,"line_end":173,"anchor":null},
@@ -1708,7 +1708,7 @@
         {"header":"CS-6.350 §8 Preservation during transition","level":2,"line_start":155,"line_end":173,"anchor":null}
       ]
     },
-    "corpus_systems/cs_06355_subversion_response_replacement_reconstitution.md": {
+    "corpus_systems/cs_06.355_subversion_response_replacement_reconstitution.md": {
       "total_lines": 221,
       "sections": [
         {"header":"CS-6.355: Subversion response, replacement, and reconstitution","level":1,"line_start":1,"line_end":221,"anchor":null},
@@ -1724,7 +1724,7 @@
         {"header":"CS-6.355 §8 Exit, restoration, and post-incident revalidation","level":2,"line_start":205,"line_end":221,"anchor":null}
       ]
     },
-    "corpus_systems/cs_09305_system_classification_machinery.md": {
+    "corpus_systems/cs_09.305_system_classification_machinery.md": {
       "total_lines": 579,
       "sections": [
         {"header":"CS-9.305, Part A: System classification machinery","level":1,"line_start":2,"line_end":579,"anchor":null},
@@ -1737,7 +1737,7 @@
         {"header":"CS-9.305 §7 Classification governance, disclosure, and challenge","level":2,"line_start":350,"line_end":579,"anchor":"#64-commercial-use-surcharges-and-reinvestment-interface"}
       ]
     },
-    "corpus_systems/cs_09310_system_impact_classifications.md": {
+    "corpus_systems/cs_09.310_system_impact_classifications.md": {
       "total_lines": 689,
       "sections": [
         {"header":"CS-9.310, Part B: System impact classifications","level":1,"line_start":2,"line_end":689,"anchor":null},
@@ -1785,7 +1785,7 @@
         {"header":"13.6 Scaled duties","level":3,"line_start":659,"line_end":689,"anchor":null}
       ]
     },
-    "corpus_systems/cs_14305_critical_system_stewardship.md": {
+    "corpus_systems/cs_14.305_critical_system_stewardship.md": {
       "total_lines": 580,
       "sections": [
         {"header":"CS-14.305: Critical system stewardship","level":1,"line_start":1,"line_end":580,"anchor":null},
@@ -1819,7 +1819,7 @@
         {"header":"CS-14.305 §20 Evasion and reclassification","level":2,"line_start":565,"line_end":580,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_00205_registry_and_reading_rules.md": {
+    "corpus_institutions/ci_00.205_registry_and_reading_rules.md": {
       "total_lines": 177,
       "sections": [
         {"header":"CI-0.205: Institutions registry and identifier rules","level":1,"line_start":1,"line_end":177,"anchor":null},
@@ -1830,7 +1830,7 @@
         {"header":"Institutions read-with pointers","level":3,"line_start":153,"line_end":177,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_00210_scope_purpose_legitimacy_interface.md": {
+    "corpus_institutions/ci_00.210_scope_purpose_legitimacy_interface.md": {
       "total_lines": 151,
       "sections": [
         {"header":"CI-0.210: Scope, purpose, and legitimacy interface","level":1,"line_start":1,"line_end":151,"anchor":null},
@@ -1838,14 +1838,14 @@
         {"header":"CI-0.210 §2: Proportionality rule","level":2,"line_start":120,"line_end":151,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_00215_compliance_mapping_stable_registry.md": {
+    "corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md": {
       "total_lines": 109,
       "sections": [
         {"header":"CI-0.215: Compliance mapping and stable registry","level":1,"line_start":1,"line_end":109,"anchor":null},
         {"header":"Implementation notes","level":2,"line_start":95,"line_end":109,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06205_transparency_participation_accessible_pathways.md": {
+    "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md": {
       "total_lines": 232,
       "sections": [
         {"header":"CI-6.205: Transparency, participation, and accessible challenge and service pathways","level":1,"line_start":1,"line_end":232,"anchor":null},
@@ -1855,7 +1855,7 @@
         {"header":"CI-6.205 §4: Governance disclosure schema","level":2,"line_start":212,"line_end":232,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06210_public_revenue_fees_recurring_charges_billing_integrity.md": {
+    "corpus_institutions/ci_06.210_public_revenue_fees_recurring_charges_billing_integrity.md": {
       "total_lines": 124,
       "sections": [
         {"header":"CI-6.210: Public revenue, fees, recurring charges, and billing integrity","level":1,"line_start":1,"line_end":124,"anchor":null},
@@ -1863,7 +1863,7 @@
         {"header":"CI-6.210 §2: Recurring charges, renewals, and commercial billing integrity","level":2,"line_start":89,"line_end":124,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06215_resource_stewardship_incentive_integrity.md": {
+    "corpus_institutions/ci_06.215_resource_stewardship_incentive_integrity.md": {
       "total_lines": 111,
       "sections": [
         {"header":"CI-6.215: Resource stewardship and incentive integrity","level":1,"line_start":1,"line_end":111,"anchor":null},
@@ -1873,43 +1873,43 @@
         {"header":"CI-6.215 §4: Local alignment duties","level":2,"line_start":97,"line_end":111,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md": {
+    "corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md": {
       "total_lines": 82,
       "sections": [
         {"header":"CI-6.220: Neurodiversity, disability justice, and trauma-informed participation","level":1,"line_start":1,"line_end":82,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md": {
+    "corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md": {
       "total_lines": 83,
       "sections": [
         {"header":"CI-6.225: Care labor, dependent support, respite, and care-economy fairness","level":1,"line_start":1,"line_end":83,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06230_end_of_life_continuity_memorial_dignity_posthumous_data.md": {
+    "corpus_institutions/ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md": {
       "total_lines": 75,
       "sections": [
         {"header":"CI-6.230: End-of-life continuity, memorial dignity, and posthumous-data stewardship","level":1,"line_start":1,"line_end":75,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06235_collective_public_health_epidemic_response_addiction_informed_care.md": {
+    "corpus_institutions/ci_06.235_collective_public_health_epidemic_response_addiction_informed_care.md": {
       "total_lines": 76,
       "sections": [
         {"header":"CI-6.235: Collective public health, epidemic response, and addiction-informed care","level":1,"line_start":1,"line_end":76,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06240_vulnerable_personal_services_markets_article_viie_interface.md": {
+    "corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md": {
       "total_lines": 90,
       "sections": [
         {"header":"CI-6.240: Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface","level":1,"line_start":1,"line_end":90,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06245_relational_coercive_control_intimate_power_anti_domination.md": {
+    "corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md": {
       "total_lines": 81,
       "sections": [
         {"header":"CI-6.245: Relational coercive control, intimate power, and anti-domination routing","level":1,"line_start":1,"line_end":81,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06250_community_life_voluntary_association_non_instrumental_time.md": {
+    "corpus_institutions/ci_06.250_community_life_voluntary_association_non_instrumental_time.md": {
       "total_lines": 150,
       "sections": [
         {"header":"CI-6.250: Community life, voluntary association, and non-instrumental time","level":1,"line_start":1,"line_end":150,"anchor":null},
@@ -1918,25 +1918,25 @@
         {"header":"CI-6.250 §3: Referral and escalation interfaces","level":2,"line_start":119,"line_end":150,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06255_commons_cooperatives_mutual_aid_non_market_governance.md": {
+    "corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md": {
       "total_lines": 85,
       "sections": [
         {"header":"CI-6.255: Commons, cooperatives, mutual aid, and non-market community governance","level":1,"line_start":1,"line_end":85,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06260_place_based_stewardship_indigenous_continuity_consultation.md": {
+    "corpus_institutions/ci_06.260_place_based_stewardship_indigenous_continuity_consultation.md": {
       "total_lines": 81,
       "sections": [
         {"header":"CI-6.260: Place-based stewardship, Indigenous continuity, and consultation routes","level":1,"line_start":1,"line_end":81,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06265_innovation_reward_disclosure_anti_enclosure.md": {
+    "corpus_institutions/ci_06.265_innovation_reward_disclosure_anti_enclosure.md": {
       "total_lines": 97,
       "sections": [
         {"header":"CI-6.265: Innovation reward, disclosure, and anti-enclosure","level":1,"line_start":1,"line_end":97,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06270_scientific_publication_peer_review_replication_evidence_stewardship.md": {
+    "corpus_institutions/ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md": {
       "total_lines": 173,
       "sections": [
         {"header":"CI-6.270: Scientific publication, peer review, replication, and evidence stewardship","level":1,"line_start":1,"line_end":173,"anchor":null},
@@ -1947,7 +1947,7 @@
         {"header":"CI-6.270 §5: Ombuds, escalation, and technical forum referral","level":2,"line_start":145,"line_end":173,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_06275_transitional_governance_institutional_evolution.md": {
+    "corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md": {
       "total_lines": 572,
       "sections": [
         {"header":"CI-6.275: Transitional governance and institutional evolution","level":1,"line_start":1,"line_end":572,"anchor":null},
@@ -1970,7 +1970,7 @@
         {"header":"CI-6.275 §5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets","level":2,"line_start":519,"line_end":572,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_08205_institutional_design_separation_of_powers.md": {
+    "corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md": {
       "total_lines": 386,
       "sections": [
         {"header":"CI-8.205: Institutional design, separation of powers, and authority custody","level":1,"line_start":1,"line_end":386,"anchor":null},
@@ -1990,7 +1990,7 @@
         {"header":"CI-8.205 §6.8: Systems and businesses","level":3,"line_start":367,"line_end":386,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_08210_conflict_integrity_anti_capture_anti_corruption.md": {
+    "corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md": {
       "total_lines": 161,
       "sections": [
         {"header":"CI-8.210: Conflict integrity, anti-capture, and anti-corruption","level":1,"line_start":1,"line_end":161,"anchor":null},
@@ -1999,7 +1999,7 @@
         {"header":"CI-8.210 §3: Integrity trigger taxonomy and cross-layer routing (control package)","level":2,"line_start":114,"line_end":161,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_08215_oversight_assurance_controls_evidence.md": {
+    "corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md": {
       "total_lines": 173,
       "sections": [
         {"header":"CI-8.215: Oversight, assurance, controls, and evidence","level":1,"line_start":1,"line_end":173,"anchor":null},
@@ -2008,7 +2008,7 @@
         {"header":"CI-8.215 §3: Contest-integrity monitoring (Class A and Class B)","level":2,"line_start":120,"line_end":173,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_09210_classification_linked_institutional_obligations.md": {
+    "corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md": {
       "total_lines": 255,
       "sections": [
         {"header":"CI-9.210: Classification-linked institutional obligations","level":1,"line_start":1,"line_end":255,"anchor":null},
@@ -2022,7 +2022,7 @@
         {"header":"CI-9.210 §4: Survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface)","level":2,"line_start":233,"line_end":255,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_11205_remedy_systems_institutional_redress_capacity.md": {
+    "corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md": {
       "total_lines": 144,
       "sections": [
         {"header":"CI-11.205: Remedy systems and institutional redress capacity","level":1,"line_start":1,"line_end":144,"anchor":null},
@@ -2033,7 +2033,7 @@
         {"header":"CI-11.205 §5: Remedy parity and capacity-failure interface","level":2,"line_start":127,"line_end":144,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_11210_institutional_failure_dissolution.md": {
+    "corpus_institutions/ci_11.210_institutional_failure_dissolution.md": {
       "total_lines": 205,
       "sections": [
         {"header":"CI-11.210: Institutional failure and dissolution","level":1,"line_start":1,"line_end":205,"anchor":null},
@@ -2043,7 +2043,7 @@
         {"header":"CI-11.210 §4: Dissolution","level":2,"line_start":170,"line_end":205,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_11215_institutional_accountability_sanctions.md": {
+    "corpus_institutions/ci_11.215_institutional_accountability_sanctions.md": {
       "total_lines": 184,
       "sections": [
         {"header":"CI-11.215: Institutional accountability and sanctions","level":1,"line_start":1,"line_end":184,"anchor":null},
@@ -2055,19 +2055,19 @@
         {"header":"CI-11.215 §6: Review, fairness, and enforcement","level":2,"line_start":157,"line_end":184,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_13205_procedure_integrity_contestability_secondary_review.md": {
+    "corpus_institutions/ci_13.205_procedure_integrity_contestability_secondary_review.md": {
       "total_lines": 69,
       "sections": [
         {"header":"CI-13.205: Procedure integrity, contestability, and secondary review","level":1,"line_start":1,"line_end":69,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_13210_cross_institution_coordination_escalation.md": {
+    "corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md": {
       "total_lines": 77,
       "sections": [
         {"header":"CI-13.210: Cross-institution coordination and escalation","level":1,"line_start":1,"line_end":77,"anchor":null}
       ]
     },
-    "corpus_institutions/ci_14205_appointment_competency_rotation_removal.md": {
+    "corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md": {
       "total_lines": 414,
       "sections": [
         {"header":"CI-14.205: Appointment, competency, rotation, and removal","level":1,"line_start":1,"line_end":414,"anchor":null},
@@ -2080,7 +2080,7 @@
         {"header":"CI-14.205 §7: Practice licence, practice clearance, and joint professional practice","level":2,"line_start":361,"line_end":414,"anchor":"#ci-46-seat-advisory"}
       ]
     },
-    "corpus_forum/cf_00405_registry_and_reading_rules.md": {
+    "corpus_forum/cf_00.405_registry_and_reading_rules.md": {
       "total_lines": 196,
       "sections": [
         {"header":"CF-0.405: Forums registry and identifier rules","level":1,"line_start":1,"line_end":196,"anchor":null},
@@ -2091,13 +2091,13 @@
         {"header":"Forums read-with pointers","level":3,"line_start":172,"line_end":196,"anchor":null}
       ]
     },
-    "corpus_forum/cf_00410_scope_authority_boundary_rules.md": {
+    "corpus_forum/cf_00.410_scope_authority_boundary_rules.md": {
       "total_lines": 91,
       "sections": [
         {"header":"CF-0.410: Scope, authority, and boundary rules","level":1,"line_start":1,"line_end":91,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13405_forum_formation_chamber_structure.md": {
+    "corpus_forum/cf_13.405_forum_formation_chamber_structure.md": {
       "total_lines": 285,
       "sections": [
         {"header":"CF-13.405: Forum formation, forum-structure mapping, and chamber structure","level":1,"line_start":1,"line_end":285,"anchor":null},
@@ -2111,7 +2111,7 @@
         {"header":"CF-13.405 §8 Specialist and technical chamber discipline","level":2,"line_start":253,"line_end":285,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13410_panel_formation_disclosure_recusal_bench_constitution.md": {
+    "corpus_forum/cf_13.410_panel_formation_disclosure_recusal_bench_constitution.md": {
       "total_lines": 365,
       "sections": [
         {"header":"CF-13.410: Panel formation, disclosure, recusal, and lawful bench constitution","level":1,"line_start":1,"line_end":365,"anchor":null},
@@ -2132,7 +2132,7 @@
         {"header":"CF-13.410 §15 Interim hold on a panel member or seat holder","level":2,"line_start":348,"line_end":365,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13415_routing_operations_transfer_certification_representative_treatment.md": {
+    "corpus_forum/cf_13.415_routing_operations_transfer_certification_representative_treatment.md": {
       "total_lines": 374,
       "sections": [
         {"header":"CF-13.415: Routing operations, transfer, certification, and representative treatment","level":1,"line_start":1,"line_end":374,"anchor":null},
@@ -2147,7 +2147,7 @@
         {"header":"CF-13.415 §9 Backup Record Custodian","level":2,"line_start":317,"line_end":374,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13420_appeal_secondary_review_exhaustion_pathways.md": {
+    "corpus_forum/cf_13.420_appeal_secondary_review_exhaustion_pathways.md": {
       "total_lines": 295,
       "sections": [
         {"header":"CF-13.420: Appeal, secondary review, and exhaustion pathways","level":1,"line_start":1,"line_end":295,"anchor":null},
@@ -2165,7 +2165,7 @@
         {"header":"CF-13.420 §2.6 Non-Compliant Patterns","level":3,"line_start":282,"line_end":295,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13425_integrity_safeguards_anti_capture_anti_self_judging.md": {
+    "corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md": {
       "total_lines": 399,
       "sections": [
         {"header":"CF-13.425: Integrity safeguards, anti-capture operations, and anti-self-judging support","level":1,"line_start":1,"line_end":399,"anchor":null},
@@ -2194,7 +2194,7 @@
         {"header":"CF-13.425 §3.8 Family-Level Capture Activation","level":3,"line_start":365,"line_end":399,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13430_forum_forensic_analytical_support.md": {
+    "corpus_forum/cf_13.430_forum_forensic_analytical_support.md": {
       "total_lines": 229,
       "sections": [
         {"header":"CF-13.430: Forum forensic and analytical support","level":1,"line_start":1,"line_end":229,"anchor":null},
@@ -2206,7 +2206,7 @@
         {"header":"CF-13.430 §6 Boundary with contest-integrity monitoring","level":2,"line_start":203,"line_end":229,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13435_independent_investigative_service_prosecution_interface.md": {
+    "corpus_forum/cf_13.435_independent_investigative_service_prosecution_interface.md": {
       "total_lines": 356,
       "sections": [
         {"header":"CF-13.435: Independent investigative service and prosecution interface","level":1,"line_start":1,"line_end":356,"anchor":null},
@@ -2222,7 +2222,7 @@
         {"header":"CF-13.435 §8 Records, referrals, and backup routes","level":2,"line_start":321,"line_end":356,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13440_technical_specialist_forums_specialist_chambers.md": {
+    "corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md": {
       "total_lines": 268,
       "sections": [
         {"header":"CF-13.440: Technical specialist forums and specialist chambers","level":1,"line_start":1,"line_end":268,"anchor":null},
@@ -2243,7 +2243,7 @@
         {"header":"CF-13.440 §15 Publication and review governance","level":2,"line_start":256,"line_end":268,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md": {
+    "corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md": {
       "total_lines": 523,
       "sections": [
         {"header":"CF-13.445: Forum performance, backlog requirements, publication timeliness, and accessibility","level":1,"line_start":1,"line_end":523,"anchor":null},
@@ -2267,7 +2267,7 @@
         {"header":"CF-13.445 §10 Lived conditions during restriction and re-entry alignment (cross-layer)","level":2,"line_start":491,"line_end":523,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13450_forum_continuity.md": {
+    "corpus_forum/cf_13.450_forum_continuity.md": {
       "total_lines": 202,
       "sections": [
         {"header":"CF-13.450: Forum continuity","level":1,"line_start":1,"line_end":202,"anchor":null},
@@ -2281,7 +2281,7 @@
         {"header":"CF-13.450 §8 Exercises and testing","level":2,"line_start":183,"line_end":202,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13455_fallback_operation.md": {
+    "corpus_forum/cf_13.455_fallback_operation.md": {
       "total_lines": 130,
       "sections": [
         {"header":"CF-13.455: Fallback operation","level":1,"line_start":1,"line_end":130,"anchor":null},
@@ -2291,7 +2291,7 @@
         {"header":"CF-13.455 §4 Family-capture fallback operation","level":2,"line_start":100,"line_end":130,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13460_emergency_adjudication.md": {
+    "corpus_forum/cf_13.460_emergency_adjudication.md": {
       "total_lines": 137,
       "sections": [
         {"header":"CF-13.460: Emergency adjudication","level":1,"line_start":1,"line_end":137,"anchor":null},
@@ -2302,7 +2302,7 @@
         {"header":"CF-13.460 §5 Non-compliant emergency patterns","level":2,"line_start":120,"line_end":137,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13465_standard_records_forms_evidence_artifacts.md": {
+    "corpus_forum/cf_13.465_standard_records_forms_evidence_artifacts.md": {
       "total_lines": 191,
       "sections": [
         {"header":"CF-13.465: Standard records, forms, and evidence artifacts","level":1,"line_start":1,"line_end":191,"anchor":null},
@@ -2314,7 +2314,7 @@
         {"header":"CF-13.465 §6 Non-compliant record patterns","level":2,"line_start":175,"line_end":191,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13470_staffing_reserve_capacity_structural_records.md": {
+    "corpus_forum/cf_13.470_staffing_reserve_capacity_structural_records.md": {
       "total_lines": 359,
       "sections": [
         {"header":"CF-13.470: Forum staffing, reserve capacity, shared administration, structural review, and structural records","level":1,"line_start":1,"line_end":359,"anchor":null},
@@ -2328,7 +2328,7 @@
         {"header":"Relationship to existing files","level":2,"line_start":325,"line_end":359,"anchor":null}
       ]
     },
-    "corpus_forum/cf_13475_sentience_status_record.md": {
+    "corpus_forum/cf_13.475_sentience_status_record.md": {
       "total_lines": 72,
       "sections": [
         {"header":"Sentience-Status Adjudication Record (implementation protocol)","level":1,"line_start":1,"line_end":72,"anchor":null}

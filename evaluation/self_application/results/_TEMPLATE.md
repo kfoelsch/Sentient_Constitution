@@ -287,16 +287,16 @@ I, **(model name/version or `human operator — <role>`)**, state that I will tr
 - **Remaining gap:** an operator, organization, or other body that can bind systems under its authority still must record a Chapter Seventeen adoption document if those systems are to be under enforceable adoption. Informal “we kind of follow it” practice is not that adoption document.
 - **Prior announced-pack file (optional):** none / path
 
-**Signature line (plain language):** I understand that this declaration is process-support self-report, not an adoption document, and that [Chapter One §16.5](../../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) does not let self-organized work confer governing authority.
+**Signature line (plain language):** I understand that this declaration is process-support self-report, not an adoption document, and that [Chapter One §16.5](../../../core_01.015_stewardship_capacity_principles.md#95-aligned-self-organization) does not let self-organized work confer governing authority.
 
 ---
 
 ### 17. Operator handoff
 
-**Finding:** Yes / No / Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Seventeen §10](../../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption document for systems I act inside?
+**Finding:** Yes / No / Mixed — should a body that can bind itself and the systems under its authority record a [Chapter Seventeen §10](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption document for systems I act inside?
 
 **Why:**
 
-**Load-bearing home:** [Chapter Eighteen §4](../../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Seventeen §10](../../../core_17_amendment_ratification.md#10-ratification-and-adoption)
+**Load-bearing home:** [Chapter Eighteen §4](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) / [Chapter Seventeen §10](../../../core_17.000_amendment_ratification.md#10-ratification-and-adoption)
 
 **Notes:** A markdown declaration (item 16) is not that adoption document.

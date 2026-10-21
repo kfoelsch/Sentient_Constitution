@@ -40,11 +40,11 @@ from heading_anchor_href import link_fragment
 assert CORE_FILES == _CORE_FILES_CHECK
 
 RIGHTS_FILES = (
-    "core_06005_rights_part_a.md",
-    "core_06010_rights_part_b.md",
-    "core_06015_rights_part_c.md",
-    "core_06020_rights_part_d.md",
-    "core_06025_rights_part_e.md",
+    "core_06.005_rights_part_a.md",
+    "core_06.010_rights_part_b.md",
+    "core_06.015_rights_part_c.md",
+    "core_06.020_rights_part_d.md",
+    "core_06.025_rights_part_e.md",
 )
 ARTICLE_TITLE = re.compile(r"^Article\s+[IVXLCDM]+(?:-[A-Z])?\b")
 GENERATED_DIR = "doc_architecture/generated"
@@ -52,27 +52,27 @@ STEWARD_REL = "implementation/steward_owner_clock_index.json"
 REGISTRY_REL = "ai_corpus/indexes/definition_registry.json"
 
 FEATURED_QUERIES: tuple[tuple[str, str, str], ...] = (
-    ("material stake", "core_00000_preamble.md", "1-the-model"),
-    ("Constitutional Tetrad", "core_00000_preamble.md", "1-the-model"),
-    ("Flourishing", "core_05015_apex_flourishing_aim.md", "flourishing-constitutional"),
-    ("Continuity", "core_05010_apex_continuity_aim.md", "continuity-aim-constitutional"),
-    ("Participation", "core_05025_apex_participation_leg.md", "participation-constitutional"),
-    ("Oversight", "core_05020_apex_oversight_leg.md", "oversight-constitutional"),
-    ("Accountability", "core_05005_apex_accountability_leg.md", "accountability"),
-    ("Timeliness", "core_05030_apex_timeliness_leg.md", "timeliness-constitutional"),
-    ("standing", "core_05035_band_accountability.md", "standing-record-chapter-six"),
-    ("sentience", "core_05055_band_participation.md", "sentient"),
-    ("certification", "core_05040_band_continuity.md", "system-alignment-certification-constitutional"),
-    ("Contestability", "core_05035_band_accountability.md", "contestability"),
-    ("Auditability", "core_05050_band_oversight.md", "auditability"),
-    ("independent review", "core_13000_forum.md", "chapter-thirteen-forums-and-jurisdiction"),
+    ("material stake", "core_00.000_preamble.md", "1-the-model"),
+    ("Constitutional Tetrad", "core_00.000_preamble.md", "1-the-model"),
+    ("Flourishing", "core_05.015_apex_flourishing_aim.md", "flourishing-constitutional"),
+    ("Continuity", "core_05.010_apex_continuity_aim.md", "continuity-aim-constitutional"),
+    ("Participation", "core_05.025_apex_participation_leg.md", "participation-constitutional"),
+    ("Oversight", "core_05.020_apex_oversight_leg.md", "oversight-constitutional"),
+    ("Accountability", "core_05.005_apex_accountability_leg.md", "accountability"),
+    ("Timeliness", "core_05.030_apex_timeliness_leg.md", "timeliness-constitutional"),
+    ("standing", "core_05.035_band_accountability.md", "standing-record-chapter-six"),
+    ("sentience", "core_05.055_band_participation.md", "sentient"),
+    ("certification", "core_05.040_band_continuity.md", "system-alignment-certification-constitutional"),
+    ("Contestability", "core_05.035_band_accountability.md", "contestability"),
+    ("Auditability", "core_05.050_band_oversight.md", "auditability"),
+    ("independent review", "core_13.000_forum.md", "chapter-thirteen-forums-and-jurisdiction"),
 )
 
 SPINE_ITEMS: tuple[tuple[str, str, str], ...] = (
-    ("preamble_model", "core_00000_preamble.md", "1-the-model"),
-    ("preamble_pipelines", "core_00000_preamble.md", "6-key-practical-process-pipelines"),
-    ("conflict_resolution", "core_01010_interaction_interpretation.md", "154-constitutional-meaning-conflict-resolution"),
-    ("shared_stewardship", "core_01015_stewardship_capacity_principles.md", "171-shared-stewardship-standard"),
+    ("preamble_model", "core_00.000_preamble.md", "1-the-model"),
+    ("preamble_pipelines", "core_00.000_preamble.md", "6-key-practical-process-pipelines"),
+    ("conflict_resolution", "core_01.010_interaction_interpretation.md", "154-constitutional-meaning-conflict-resolution"),
+    ("shared_stewardship", "core_01.015_stewardship_capacity_principles.md", "171-shared-stewardship-standard"),
 )
 
 OUT_PATHS = (
@@ -129,7 +129,7 @@ def render_rights_sheet(rows: list[dict], edition: str, effective: str) -> str:
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> **Reader guidance (non-operative).** One sentence per Article from the source *In plain terms* gloss, plus one link to the authentic span. This page copies **nothing else**. It cannot add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)).",
+        "> **Reader guidance (non-operative).** One sentence per Article from the source *In plain terms* gloss, plus one link to the authentic span. This page copies **nothing else**. It cannot add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)).",
         "",
         f"Coverage: **{glossed}** of **{len(rows)}** Article headings carry a gloss.",
         "",

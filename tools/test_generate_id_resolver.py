@@ -28,23 +28,23 @@ class IdResolverTests(unittest.TestCase):
         ids = self.payload["ids"]
         self.assertEqual(
             ids["CF-13.440"]["file"],
-            "corpus_forum/cf_13440_technical_specialist_forums_specialist_chambers.md",
+            "corpus_forum/cf_13.440_technical_specialist_forums_specialist_chambers.md",
         )
         self.assertEqual(
             ids["CJS-5.125 §13"]["file"],
-            "corpus_joint_structure/cjs_05125_accountability_operations.md",
+            "corpus_joint_structure/cjs_05.125_accountability_operations.md",
         )
         self.assertEqual(
             ids["CS-14.305"]["file"],
-            "corpus_systems/cs_14305_critical_system_stewardship.md",
+            "corpus_systems/cs_14.305_critical_system_stewardship.md",
         )
         self.assertEqual(
             ids["CI-13.210"]["file"],
-            "corpus_institutions/ci_13210_cross_institution_coordination_escalation.md",
+            "corpus_institutions/ci_13.210_cross_institution_coordination_escalation.md",
         )
         self.assertEqual(
             ids["Def.P1"]["file"],
-            "core_05055_band_participation.md",
+            "core_05.055_band_participation.md",
         )
         self.assertEqual(ids["Def.P1"]["kind"], "cluster")
 
@@ -67,7 +67,7 @@ class IdResolverTests(unittest.TestCase):
         proportionality = next(
             item for item in self.payload["definitions"] if item["term"] == "Proportionality"
         )
-        self.assertTrue(proportionality["file"].startswith("core_050"))
+        self.assertTrue(proportionality["file"].startswith("core_05."))
         self.assertTrue(proportionality["anchor"].startswith("#"))
         self.assertNotIn("must", proportionality)
         self.assertNotIn("components", proportionality)
@@ -90,7 +90,7 @@ class SectionCrossrefTests(unittest.TestCase):
             edge
             for edge in expand_edges(payload)
             if edge["source_file"].endswith(
-                "cf_13440_technical_specialist_forums_specialist_chambers.md"
+                "cf_13.440_technical_specialist_forums_specialist_chambers.md"
             )
             and edge.get("target_anchor")
         )

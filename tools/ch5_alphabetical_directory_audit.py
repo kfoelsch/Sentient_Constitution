@@ -2,7 +2,7 @@
 """Audit Chapter Five alphabetical directory and section 1 order.
 
 Checks the non-operative Definitions A-Z / Clusters A-Z directory in
-``core_05000_definitions_home.md`` and preserves the older section 1
+``core_05.000_definitions_home.md`` and preserves the older section 1
 Independent Definitions heading-order check.
 """
 

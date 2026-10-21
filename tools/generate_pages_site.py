@@ -389,7 +389,7 @@ def main(argv: list[str] | None = None) -> int:
                 for err in errors:
                     print(f"  {err}")
                 return 1
-            if not (out / "index.md").is_file() or not (out / "core_00000_preamble.md").is_file():
+            if not (out / "index.md").is_file() or not (out / "core_00.000_preamble.md").is_file():
                 print("pages site check failed: missing index or Preamble")
                 return 1
             report_unresolved(unresolved)

@@ -16,7 +16,7 @@ REGISTRY = Path("tools/architecture/chapter_numbers.json")
 PREFIX_DIR = {"CJS": "corpus_joint_structure", "CI": "corpus_institutions", "CS": "corpus_systems", "CF": "corpus_forum"}
 TRACE_RE = re.compile(r'<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>\s*\n(.*?)\n</details>', re.S)
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
-CORE_FILE_RE = re.compile(r"core_\d{5}_[^/]+\.md$")
+CORE_FILE_RE = re.compile(r"core_\d{2}\.\d{3}_[^/]+\.md$")
 CHAPTER_OR_PART_RE = re.compile(r"\b(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|\d+)|Part\s+[A-E])\b", re.I)
 D14_REFERENCE_RE = re.compile(r"\[[^\]]+\]\([^)]+\)|\*\*(?:Chapter\s+[A-Za-z0-9]+|(?:CF|CI|CJS|CS)-\d+(?:\.\d+)?(?:\s+§\s*\d+(?:\.\d+)*)?)\*\*", re.I)
 
@@ -29,6 +29,8 @@ def run(root: Path, fail: bool) -> int:
     data = json.loads((root / REGISTRY).read_text())
     rows = data.get("chapters", [])
     problems: list[str] = []
+    if data.get("filename_number_format") != "CC.LSS":
+        problems.append("registry filename_number_format must be CC.LSS")
     seen_numbers: set[str] = set()
     seen_files: set[str] = set()
     core_display = {
@@ -51,6 +53,10 @@ def run(root: Path, fail: bool) -> int:
         expected_display=display(number) if layer == 'CORE' else f"{layer}-{display(number)}"
         if row.get("display_id") != expected_display:
             problems.append(f"{machine_id}: dotted display id disagrees with formatter")
+        layer_prefix = {"CORE": "core", "CJS": "cjs", "CI": "ci", "CS": "cs", "CF": "cf"}.get(layer)
+        expected_filename_prefix = f"{layer_prefix}_{number[:2]}.{number[2:]}_" if layer_prefix else ""
+        if not expected_filename_prefix or not Path(destination).name.startswith(expected_filename_prefix):
+            problems.append(f"{destination}: filename must start with {expected_filename_prefix} (layer_CC.LSS_)")
         if number in seen_numbers:
             problems.append(f"{number}: duplicate number across layers")
         seen_numbers.add(number)
@@ -74,8 +80,6 @@ def run(root: Path, fail: bool) -> int:
             text = (root / destination).read_text(errors="replace")
             if f"Core home: {row['core_home']}" not in text:
                 problems.append(f"{machine_id}: missing Core home declaration")
-            if number not in Path(destination).stem:
-                problems.append(f"{destination}: filename does not carry {number}")
             manifest_path = root / "ai_corpus/indexes/section_manifest.json"
             if manifest_path.is_file():
                 manifest = json.loads(manifest_path.read_text()).get("files", {})

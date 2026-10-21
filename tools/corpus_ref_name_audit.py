@@ -158,7 +158,7 @@ def add_registry_names(root: Path, index: dict[str, Section]) -> None:
     """Accept the canonical ``**CS-9.305 / CS-9.310 — System classification and handling**``
     names the family registries use, alongside the heading titles."""
     for family in FAMILY_DIRS:
-        for path in sorted((root / family).glob("*_00_*registry*.md")):
+        for path in sorted((root / family).glob("*_00.*_registry*.md")):
             for match in REGISTRY_NAME_RE.finditer(path.read_text(encoding="utf-8")):
                 section = index.get(match.group(1).upper())
                 if section is not None:

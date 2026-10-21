@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""NAV-IMPL-FILENAME-01: adopted-implementation files use their five-digit IDs."""
+"""NAV-IMPL-FILENAME-01: adopted-implementation filenames use CC.LSS IDs."""
 
 from __future__ import annotations
 
@@ -20,7 +20,7 @@ ADOPTED_IMPLEMENTATION_DIRS = (
 )
 
 NUMBERED_PREFIX_RE = re.compile(r"^(cjs|cs|ci|cf)_\d", re.I)
-ADOPTED_IMPLEMENTATION_FILE_RE = re.compile(r"^(cjs|cs|ci|cf)_(\d{5})_(.+)\.md$", re.I)
+ADOPTED_IMPLEMENTATION_FILE_RE = re.compile(r"^(cjs|cs|ci|cf)_(\d{2})\.(\d{3})_(.+)\.md$", re.I)
 
 
 @dataclass(frozen=True)
@@ -44,7 +44,8 @@ def parse_adopted_implementation_filename(name: str) -> AdoptedImplementationNam
     match = ADOPTED_IMPLEMENTATION_FILE_RE.fullmatch(name)
     if not match:
         return None
-    layer, number, rest = match.groups()
+    layer, chapter, layer_and_section, rest = match.groups()
+    number = chapter + layer_and_section
     return AdoptedImplementationName(layer.lower(), number, "", rest, name)
 
 
@@ -69,7 +70,7 @@ def audit_filenames(names: list[str]) -> list[str]:
         if item is None:
             findings.append(
                 f"{name}: numbered adopted-implementation filename is not parseable "
-                "(expected layer_NN_home.md, layer_NNx_part.md, or layer_NN_a_part.md)"
+                "(expected layer_CC.LSS_home.md, layer_CC.LSSx_part.md, or layer_CC.LSS_a_part.md)"
             )
             continue
         parsed.append(item)
@@ -83,14 +84,14 @@ def audit_filenames(names: list[str]) -> list[str]:
     for (layer, number), files in sorted(by_family.items()):
         if len(files) > 1:
             listed = ", ".join(item.filename for item in files)
-            findings.append(f"{layer}_{number}: duplicate chapter number ({listed})")
+            findings.append(f"{layer}_{number[:2]}.{number[2:]}: duplicate chapter number ({listed})")
 
     for key, files in sorted(by_part.items()):
         if not key[2] or len(files) < 2:
             continue
         listed = ", ".join(item.filename for item in files)
         findings.append(
-            f"{key[0]}_{key[1]}{key[2]}: duplicate part letter ({listed})"
+            f"{key[0]}_{key[1][:2]}.{key[1][2:]}{key[2]}: duplicate part letter ({listed})"
         )
     return findings
 

@@ -8,7 +8,7 @@ of contents, no anchors, and no way to link to a section.
 
 This promotes those labels to ``## 3. Partition-safe decision constraints``,
 matching the pattern already working in
-``cs_06305_information_types_and_handling.md``, and leaves the sentence that
+``cs_06.305_information_types_and_handling.md``, and leaves the sentence that
 followed the label as the section's opening paragraph.
 
 Only labels that begin a line and read as ``<number or letter>. <Title>.`` are
@@ -30,14 +30,14 @@ ROOT = Path(__file__).resolve().parents[1]
 LABEL_RE = re.compile(r"^\*\*(?P<label>(?:\d+|[A-Z]))\.\s+(?P<title>[^*]+?)\.\*\*(?P<rest>.*)$")
 
 TARGETS = (
-    "cs_14305_critical_system_stewardship.md",
-    "cs_06345_design_testing_verification_deployment.md",
-    "cs_06315_comprehensibility_complexity_stewardship.md",
-    "cs_06330_decentralized_continuity_partition_resilience.md",
-    "cs_06355_subversion_response_replacement_reconstitution.md",
-    "cs_06325_adaptive_sustainability_ecosystem_resilience.md",
-    "cs_06335_resource_allocation_funding_stewardship.md",
-    "cs_06350_transition_constitution_migration_governance.md",
+    "cs_14.305_critical_system_stewardship.md",
+    "cs_06.345_design_testing_verification_deployment.md",
+    "cs_06.315_comprehensibility_complexity_stewardship.md",
+    "cs_06.330_decentralized_continuity_partition_resilience.md",
+    "cs_06.355_subversion_response_replacement_reconstitution.md",
+    "cs_06.325_adaptive_sustainability_ecosystem_resilience.md",
+    "cs_06.335_resource_allocation_funding_stewardship.md",
+    "cs_06.350_transition_constitution_migration_governance.md",
 )
 
 

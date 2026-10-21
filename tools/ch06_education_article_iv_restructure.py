@@ -64,7 +64,7 @@ RUN_FILLER_RE = re.compile(
 LINK_TARGET_RE = re.compile(r"\]\([^)]*\)")
 HISTORY_RE = re.compile(r"\b(old|formerly|is now|was)\b|→", re.IGNORECASE)
 
-ANCHOR_MAP_A = {  # stays in core_06005_rights_part_a.md
+ANCHOR_MAP_A = {  # stays in core_06.005_rights_part_a.md
     "article-iii-survival-and-equal-educational-access": "article-iii-survival-and-essential-access",
     "article-iii-b-equal-educational-access": "article-iv-a-equal-educational-access",
     "article-iii-c-bodily-maintenance-and-healthcare-access": "article-iii-b-bodily-maintenance-and-healthcare-access",
@@ -75,7 +75,7 @@ ANCHOR_MAP_A = {  # stays in core_06005_rights_part_a.md
     "article-iv-a-dependency-mapping-and-resource-flow-transparency": "article-v-a-dependency-mapping-and-resource-flow-transparency",
     "article-iv-b-cross-system-fairness-and-sustainability": "article-v-b-cross-system-fairness-and-sustainability",
 }
-ANCHOR_MAP_B = {  # stays in core_06010_rights_part_b.md
+ANCHOR_MAP_B = {  # stays in core_06.010_rights_part_b.md
     "article-v-equal-basic-rights": "article-vi-equal-basic-rights",
     "article-v-a-dignity-and-equal-moral-standing": "article-vi-a-dignity-and-equal-moral-standing",
     "article-v-b-sentience-status-adjudication-floor": "article-vi-b-sentience-status-adjudication-floor",
@@ -84,7 +84,7 @@ ANCHOR_MAP_B = {  # stays in core_06010_rights_part_b.md
     "part-b-personhood-education-capability-agency-cooperation-and-stakeholder-system-participation":
         "part-b-personhood-agency-cooperation-and-stakeholder-system-participation",
 }
-ANCHOR_MOVE_B_TO_A = {  # core_06010_rights_part_b.md -> core_06005_rights_part_a.md
+ANCHOR_MOVE_B_TO_A = {  # core_06.010_rights_part_b.md -> core_06.005_rights_part_a.md
     "article-vi-right-to-sentient-centered-education": "article-iv-right-to-sentient-centered-education",
     "article-vi-a-capability-building-education-right": "article-iv-b-capability-building-education-right",
     "article-vi-b-lifelong-and-adaptive-learning-and-contestability": "article-iv-c-lifelong-and-adaptive-learning-and-contestability",
@@ -169,18 +169,18 @@ def reanchor_text(text: str, r: str) -> str:
     # Part B -> Part A moves: explicit file references first.
     for old, new in ANCHOR_MOVE_B_TO_A.items():
         text = re.sub(
-            rf"core_06_rights_part_b\.md#{re.escape(old)}(?![\w-])",
-            f"core_06005_rights_part_a.md#{new}",
+            rf"core_06\.010_rights_part_b\.md#{re.escape(old)}(?![\w-])",
+            f"core_06.005_rights_part_a.md#{new}",
             text,
         )
-        if here == "core_06010_rights_part_b.md":
-            text = re.sub(rf"\(#{re.escape(old)}\)", f"(core_06005_rights_part_a.md#{new})", text)
+        if here == "core_06.010_rights_part_b.md":
+            text = re.sub(rf"\(#{re.escape(old)}\)", f"(core_06.005_rights_part_a.md#{new})", text)
         text = re.sub(rf"#{re.escape(old)}(?![\w-])", f"#{new}", text)
     for mapping in (ANCHOR_MAP_A, ANCHOR_MAP_B, ANCHOR_MAP_OTHER):
         for old, new in mapping.items():
             text = re.sub(rf"(?<![\w-]){re.escape(old)}(?![\w-])", new, text)
-    if here == "core_06005_rights_part_a.md":
-        text = text.replace("](core_06005_rights_part_a.md#", "](#")
+    if here == "core_06.005_rights_part_a.md":
+        text = text.replace("](core_06.005_rights_part_a.md#", "](#")
     return text
 
 
@@ -213,7 +213,7 @@ def main() -> int:
     args = ap.parse_args()
 
     if args.phase == "labels" and args.write:
-        part_a = (ROOT / "core_06005_rights_part_a.md").read_text(encoding="utf-8")
+        part_a = (ROOT / "core_06.005_rights_part_a.md").read_text(encoding="utf-8")
         if "### Article IV: Right to Sentient-Centered Education" in part_a:
             print("labels: already applied (Part A has the new Article IV); refusing to relabel twice.")
             return 1

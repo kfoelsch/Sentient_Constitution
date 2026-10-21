@@ -417,7 +417,7 @@ def extract_cjs_paragraphs(root: Path) -> list[dict[str, object]]:
 
 
 def extract_router_rows(root: Path) -> list[dict[str, str]]:
-    path = root / CJS_DIR / "cjs_00105_registry_and_reading_rules.md"
+    path = root / CJS_DIR / "cjs_00.105_registry_and_reading_rules.md"
     rows: list[dict[str, str]] = []
     row_re = re.compile(r"^\|\s+\*\*(CJS-R[^*]+)\*\*\s+\|\s+([^|]+)\|\s+([^|]+)\|\s+([^|]+)\|")
     for line in read_text(path).splitlines():

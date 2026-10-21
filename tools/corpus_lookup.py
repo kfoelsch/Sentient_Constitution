@@ -469,7 +469,12 @@ def resolve_chapter_number(root: Path, query: str) -> dict[str, Any] | None:
         return None
     registry = load_json(registry_path).get("chapters", [])
     crosswalk = load_json(crosswalk_path)
-    rows = {row["original_file"]: row for row in registry}
+    rows = {
+        key: row
+        for row in registry
+        for key in (row.get("original_file"), row.get("destination_file"))
+        if key
+    }
     hits: list[dict[str, Any]] = []
     for section in crosswalk.get("sections", []):
         row = rows.get(section.get("source_file"))

@@ -26,14 +26,14 @@ class ParallelNormCheckTests(unittest.TestCase):
         self.assertFalse(payload["ok"])
 
     def test_missing_anchor_in_existing_file(self) -> None:
-        text = "See [gone](core_00000_preamble.md#this-anchor-does-not-exist)."
+        text = "See [gone](core_00.000_preamble.md#this-anchor-does-not-exist)."
         payload = parallel_norm_check.check_text(self.indexes, text, None)
         kinds = {flag["kind"] for flag in payload["flags"]}
         self.assertIn("missing_anchor", kinds)
 
     def test_clean_pointer_is_ok(self) -> None:
         text = (
-            "Open [Article XIII-B](core_06015_rights_part_c.md"
+            "Open [Article XIII-B](core_06.015_rights_part_c.md"
             "#article-xiii-b-right-to-redress-and-remedy). "
             "The source binds."
         )

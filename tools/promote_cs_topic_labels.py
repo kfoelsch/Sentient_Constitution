@@ -8,7 +8,7 @@ anchors, and no way to link to a topic.
 
 This promotes a named list of those labels to numbered ``## N. Title``
 headings with explicit anchors, matching the pattern already working in
-``cs_06305_information_types_and_handling.md``, and leaves the sentence that
+``cs_06.305_information_types_and_handling.md``, and leaves the sentence that
 followed the label as the section's opening paragraph.
 
 Labels are listed per file rather than matched by pattern, because these files
@@ -29,7 +29,7 @@ ROOT = Path(__file__).resolve().parents[1]
 # Ordered topic labels, exactly as they appear between the bold markers and
 # before the terminating "." or ":".
 LABELS: dict[str, tuple[str, ...]] = {
-    "cs_14305_critical_system_stewardship.md": (
+    "cs_14.305_critical_system_stewardship.md": (
         "Definition",
         "Classification as steward",
         "Stewardship criticality levels",
@@ -50,7 +50,7 @@ LABELS: dict[str, tuple[str, ...]] = {
         "Governance and incentive integrity",
         "Failure and reclassification",
     ),
-    "cs_06335_resource_allocation_funding_stewardship.md": (
+    "cs_06.335_resource_allocation_funding_stewardship.md": (
         "Principles of funding",
         "Cross-system resource flows and dependencies",
         "Dependent systems map",

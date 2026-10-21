@@ -247,7 +247,7 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             findings,
             check="CORE-TRACE",
             term=gap.get("principle", ""),
-            current_layer="core_01005_values_principles.md",
+            current_layer="core_01.005_values_principles.md",
             line=0,
             message=gap.get("issue", "Principle missing definition anchors"),
             severity="error",
@@ -543,7 +543,7 @@ def run_impl_non_redefinition(
     count = 0
     ch5_terms_sorted = sorted(ch5_lookup.keys(), key=len, reverse=True)
     for rel in binding_corpus_scope(root):
-        if rel in CH5_OWNERS or rel.startswith("core_02_") or rel.startswith("core_03_") or rel.startswith("core_04_"):
+        if rel in CH5_OWNERS or rel.startswith("core_02.") or rel.startswith("core_03.") or rel.startswith("core_04."):
             continue
         path = root / rel
         if not path.is_file() or not any(rel.startswith(d) for d in IMPL_DIRS):

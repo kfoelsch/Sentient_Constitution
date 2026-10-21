@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-CH06 = ROOT / "core_10000_standing_assessment.md"
+CH06 = ROOT / "core_10.000_standing_assessment.md"
 
 SECTION_4_START = "<a id=\"32-constitutional-outcome-baseline-for-slots\"></a>"
 CONTINUATION = "\n\n---\n\n**Continuation.**"
@@ -40,7 +40,7 @@ For this section, a **full-life-equivalent constitutional benefit** means verifi
 
 **Examples of what counts toward contribution (slot movement up):**
 
-Each row ties verified contribution benefit to the [Constitutional Triad](core_00000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01005_values_principles.md#two-constitutional-aims). **Triad leg(s)** name the dominant governance hook; **Primary aim(s)** name the dominant constitutional objective. Full slot assignment still requires **sections 2** and **5.1**.
+Each row ties verified contribution benefit to the [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01.005_values_principles.md#two-constitutional-aims). **Triad leg(s)** name the dominant governance hook; **Primary aim(s)** name the dominant constitutional objective. Full slot assignment still requires **sections 2** and **5.1**.
 
 | Type of Benefit | What It Looks Like | Triad leg(s) | Primary aim(s) |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ The claimed benefit counts only to the extent it remains traceable, non-external
 
 **How slots map to LEQU scale on the contribution side:**
 
-Same [Constitutional Triad](core_00000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01005_values_principles.md#two-constitutional-aims) discipline as the examples table above. Higher slots add **Continuity** and broader Triad legs as verified benefit scales across people, time, and institutions.
+Same [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01.005_values_principles.md#two-constitutional-aims) discipline as the examples table above. Higher slots add **Continuity** and broader Triad legs as verified benefit scales across people, time, and institutions.
 
 | `s` | Contribution Level | Roughly Equivalent To... | Triad leg(s) | Primary aim(s) |
 | ---: | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ Same [Constitutional Triad](core_00000_preamble.md#constitutional-triad) and [Tw
 
 **Examples of what counts toward violation severity (slot movement up):**
 
-Each row ties verified constitutional loss to the [Constitutional Triad](core_00000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01005_values_principles.md#two-constitutional-aims). Full operative severity assignment still requires **sections 2** and **5.2**.
+Each row ties verified constitutional loss to the [Constitutional Triad](core_00.000_preamble.md#constitutional-triad) and [Two Constitutional Aims](core_01.005_values_principles.md#two-constitutional-aims). Full operative severity assignment still requires **sections 2** and **5.2**.
 
 | Type of Loss or Danger | What It Looks Like | Triad leg(s) | Primary aim(s) |
 | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ Each row ties verified constitutional loss to the [Constitutional Triad](core_00
 | Degraded Safety, Truth, or auditability | Concealment, misinformation, broken records, inaccessible challenge paths, or unreviewable aggregation | **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
 | System capture or dependency abuse | Structural enablement, dependency-asymmetry abuse, anti-evasion design, or capture of accountability pathways | **Accountability**, **Participation** | **Continuity**, **Flourishing** |
 
-The claimed violation severity counts only to the extent it rests on verified violation findings that remain traceable, bounded, auditable, and contestable under **Chapters Two through Four**. Allegations, provisional tags, forum-phase narratives, and intake-only labels may support routing and triage under [Chapter Twelve](core_13000_forum.md#chapter-twelve-forums-and-jurisdiction). They do not supply **violation nature** for standing unless they produce auditable, contestable findings. Positive contribution does not offset, average down, excuse, cure, or relabel adverse findings.
+The claimed violation severity counts only to the extent it rests on verified violation findings that remain traceable, bounded, auditable, and contestable under **Chapters Two through Four**. Allegations, provisional tags, forum-phase narratives, and intake-only labels may support routing and triage under [Chapter Twelve](core_13.000_forum.md#chapter-twelve-forums-and-jurisdiction). They do not supply **violation nature** for standing unless they produce auditable, contestable findings. Positive contribution does not offset, average down, excuse, cure, or relabel adverse findings.
 
 **How slots map to LEQU scale on the violation side:**
 
@@ -172,21 +172,21 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§11](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter One §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter One §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Ten §3.9](core_11000_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
-- Downstream: [Chapter Ten §3](core_11000_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Ten §4](core_11000_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Eleven](core_10-10_misconduct.md#chapter-eleven-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
-- Read with: [Supremacy and Enforceability](core_05045_band_integrative.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05045_band_integrative.md#constitutional-constraint-violation), [Harm](core_05035_band_accountability.md#harm), and [Materiality Determination](core_05050_band_oversight.md#materiality-determination).
-- Triad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00000_preamble.md#material-stake) scaling applies to severity and verification burden.
+- Upstream: [§3](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§11](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter One §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter One §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Ten §3.9](core_11.000_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
+- Downstream: [Chapter Ten §3](core_11.000_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Ten §4](core_11.000_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Eleven](core_10-10_misconduct.md#chapter-eleven-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
+- Read with: [Supremacy and Enforceability](core_05.045_band_integrative.md#supremacy-and-enforceability), [Constitutional Constraint Violation](core_05.045_band_integrative.md#constitutional-constraint-violation), [Harm](core_05.035_band_accountability.md#harm), and [Materiality Determination](core_05.050_band_oversight.md#materiality-determination).
+- Triad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00.000_preamble.md#material-stake) scaling applies to severity and verification burden.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Harm](core_05035_band_accountability.md#harm) · [O](core_05035_band_accountability.md#harm) · [E](core_05035_band_accountability.md#harm-e) · [C](core_05035_band_accountability.md#harm-c)
-- [Materiality Determination](core_05050_band_oversight.md#materiality-determination) · [O](core_05050_band_oversight.md#materiality-determination) · [E](core_05050_band_oversight.md#materiality-determination-e) · [C](core_05050_band_oversight.md#materiality-determination-c)
-- [Constitutional Constraint Violation](core_05045_band_integrative.md#constitutional-constraint-violation) · [O](core_05045_band_integrative.md#constitutional-constraint-violation) · [E](core_05045_band_integrative.md#constitutional-constraint-violation-e) · [C](core_05045_band_integrative.md#constitutional-constraint-violation-c)
-- [Coercion and Manipulation](core_05055_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05055_band_participation.md#coercion-and-manipulation-constitutional) · [E](core_05055_band_participation.md#coercion-and-manipulation-constitutional-e) · [C](core_05055_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Foreseeability Diligence](core_05050_band_oversight.md#foreseeability-diligence) · [O](core_05050_band_oversight.md#foreseeability-diligence) · [E](core_05050_band_oversight.md#foreseeability-diligence-e) · [C](core_05050_band_oversight.md#foreseeability-diligence-c)
+- [Harm](core_05.035_band_accountability.md#harm) · [O](core_05.035_band_accountability.md#harm) · [E](core_05.035_band_accountability.md#harm-e) · [C](core_05.035_band_accountability.md#harm-c)
+- [Materiality Determination](core_05.050_band_oversight.md#materiality-determination) · [O](core_05.050_band_oversight.md#materiality-determination) · [E](core_05.050_band_oversight.md#materiality-determination-e) · [C](core_05.050_band_oversight.md#materiality-determination-c)
+- [Constitutional Constraint Violation](core_05.045_band_integrative.md#constitutional-constraint-violation) · [O](core_05.045_band_integrative.md#constitutional-constraint-violation) · [E](core_05.045_band_integrative.md#constitutional-constraint-violation-e) · [C](core_05.045_band_integrative.md#constitutional-constraint-violation-c)
+- [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [E](core_05.055_band_participation.md#coercion-and-manipulation-constitutional-e) · [C](core_05.055_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Foreseeability Diligence](core_05.050_band_oversight.md#foreseeability-diligence) · [O](core_05.050_band_oversight.md#foreseeability-diligence) · [E](core_05.050_band_oversight.md#foreseeability-diligence-e) · [C](core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -325,7 +325,7 @@ CORPUS_REPLACEMENTS = [
     ("Chapter Nine — section 5", "Chapter Nine — section 5.1"),
     ("Chapter Nine — section 6", "Chapter Nine — section 5.2"),
     ("Chapter Nine §5", "Chapter Nine Chapter One §8.1"),
-    ("[§5](core_10000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter One §6.2](core_10000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("[§5](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter One §6.2](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
     ("sections 5 and 6", "sections 5.1 and 5.2"),
     ("**sections 5 and 6**", "**sections 5.1 and 5.2**"),
     ("section 6 severity", "section 5.2 severity"),
@@ -347,7 +347,7 @@ CORPUS_REPLACEMENTS = [
     ("in section 5", "in section 5.1"),
     ("in **section 5**", "in **section 5.1**"),
     ("**section 5**", "**section 5.1**"),
-    ("§5](core_10000_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "Chapter One §8.1](core_10000_standing_assessment.md#51-contribution-axis-bands-and-table-2)"),
+    ("§5](core_10.000_standing_assessment.md#33-primary-category-defaults-and-lequ-slot-baseline)", "Chapter One §8.1](core_10.000_standing_assessment.md#51-contribution-axis-bands-and-table-2)"),
     ("primary slot defaults", "primary category defaults"),
     ("the Chapter Nine **section 6** severity ladder", "the Chapter Nine **section 5.2** severity ladder"),
     ("Chapter Nine **section 6** severity ladder", "Chapter Nine **section 5.2** severity ladder"),
