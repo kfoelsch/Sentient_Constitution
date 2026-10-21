@@ -1619,7 +1619,7 @@ Bu Madde, toplanma, muhalefet ve barışçıl protesto tabanlarını ve bunları
 
 <br>
 
-*Yalın dille: herkes yalnızca var olan bir yapıya katılmakla kalmayıp yeni bir şey başlatabilir — okul, araştırma grubu, karşılıklı yardım ağı, kooperatif veya işletme. Kâğıt üzerinde açık görünen, ancak yeni veya istenmeyen kurucuları dışlayan lisans, sermaye ya da evrak engelleri bu ölçütü karşılamaz. Geçmiş kaydı olmayan kurucu samimi kabul edilir ve ön izin gerekmez; iki engel kişinin yetkisiyle sınırlıdır, kurumu durdurmaz. Adı belirli yüksek riskli eylemler için tüm güvenceler sağlanırsa ayrıca uygulama izni gerekebilir; bu, kurum kurma veya işletme kapısı değildir.*
+*Basitçe: Herkes yeni bir kurum veya işletme kurabilir; ancak başkalarını aldatmak ya da onlara zarar vermek amacıyla kurulması korunmaz. Bir kişinin yetkisine yalnızca iki dar kısıtlama getirilebilir ve bunlar Faaliyet Tarafının kurulmasını veya işletilmesini engelleyemez. Riski değerlendiremeyen ya da kaçınamayan kişilere zarar verebilecek belirli işler için uygulama lisansı veya izni gerekebilir; bu şartlar Faaliyet Tarafına değil, işe bağlanır.*
 
 Bu Madde, kurum ve işletme kurma hakkını ve sınırlarını belirler:
 
@@ -2055,7 +2055,6 @@ Bu Madde aşağıdaki asgari standartları belirler:
   - **CI-5** (*Çıkar çatışması bütünlüğü, ele geçirmeyi önleme ve yolsuzlukla mücadele*);
   - **CJS-3.6** (*bütünlük güvencesi ve dayanıklılık operasyonları*), *etki teması ve lobicilik sınırları*;
   - forum panelleri için [corpus_forum.md](../../corpus_forum.md) içindeki **CF-4** (*Panel oluşumu, açıklama, çekilme ve hukuka uygun heyet teşkili*) ve **CF-7** (*Bütünlük güvenceleri, ele geçirmeyi önleme operasyonları ve kendi kendini yargılamama desteği*).
-
 ---
 
 **Önceki dosya:** [core_06_rights_part_a.md](core_06_rights_part_a.md)

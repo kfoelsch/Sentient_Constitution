@@ -20,6 +20,9 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "tools"))
+import translation_audit as audit  # noqa: E402
+
 SOURCE_INDEX = "core_05.000_definitions_home.md"
 LOCALES = "es hi ar id zh pt bn fr ur ru ja tr mr vi fa te ko ta th".split()
 DEFINITION_START = '<a id="definitions-a-z"></a>'
@@ -35,7 +38,8 @@ class Entry:
 
     @property
     def key(self) -> tuple[str, str]:
-        return (self.target_file, normalize_anchor(self.anchor))
+        canonical_file = audit.canonical_core_path(ROOT / self.target_file).name
+        return (canonical_file, normalize_anchor(self.anchor))
 
 
 def normalize_anchor(anchor: str) -> str:
@@ -45,6 +49,18 @@ def normalize_anchor(anchor: str) -> str:
 
 def git_text(*args: str) -> str:
     return subprocess.check_output(["git", *args], cwd=ROOT, text=True)
+
+
+def translation_index_path(locale: str) -> Path:
+    locale_dir = ROOT / "translations" / locale
+    source_map = audit.readme_source_map(locale_dir)
+    local_names = [name for name, source in source_map.items() if source == SOURCE_INDEX]
+    if len(local_names) != 1:
+        raise ValueError(
+            f"Expected one README mapping to {SOURCE_INDEX} for {locale}, "
+            f"found {len(local_names)}"
+        )
+    return locale_dir / local_names[0]
 
 
 def parse_entries(text: str, source: str) -> list[Entry]:
@@ -64,7 +80,7 @@ def parse_entries(text: str, source: str) -> list[Entry]:
 
 
 def latest_index_commit(locale: str) -> str:
-    path = f"translations/{locale}/{SOURCE_INDEX}"
+    path = translation_index_path(locale).relative_to(ROOT).as_posix()
     commit = git_text("log", "-1", "--format=%H", "--", path).strip()
     if not commit:
         raise ValueError(f"No Git history found for {path}")
@@ -72,7 +88,17 @@ def latest_index_commit(locale: str) -> str:
 
 
 def read_index_at(commit: str) -> str:
-    return git_text("show", f"{commit}:{SOURCE_INDEX}")
+    historical_names = [
+        old_name
+        for old_name, new_name in audit.legacy_core_filename_map().items()
+        if new_name == Path(SOURCE_INDEX).name
+    ]
+    for source_path in [SOURCE_INDEX, *historical_names]:
+        try:
+            return git_text("show", f"{commit}:{source_path}")
+        except subprocess.CalledProcessError:
+            continue
+    raise ValueError(f"No historical source index found at {commit}")
 
 
 def main() -> int:
@@ -116,7 +142,7 @@ def main() -> int:
 
         any_gaps = False
         for locale in LOCALES:
-            path = ROOT / "translations" / locale / SOURCE_INDEX
+            path = translation_index_path(locale)
             translated_entries = parse_entries(path.read_text(encoding="utf-8"), str(path))
             translated_keys = {entry.key for entry in translated_entries}
             current_keys = {entry.key for entry in current_entries}

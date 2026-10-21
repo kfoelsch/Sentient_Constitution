@@ -279,14 +279,15 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 
 #### Tính trọng yếu theo từng lĩnh vực
 
-*Nói đơn giản: một danh sách gồm chín câu hỏi xác định liệu một hành vi hoặc hoạt động liên tục có trọng yếu hay không, tức có đủ hệ quả để phát sinh nghĩa vụ, và một nhóm có cần Điều lệ Hệ thống hay Điều lệ Thể chế hay không. Chỉ cần một câu trả lời “có”; quy mô không làm thay đổi kết quả. Câu lạc bộ sách hay dàn hợp xướng cộng đồng thông thường nằm dưới mọi ngưỡng. Bệnh viện, ngân hàng hoặc nhóm nhỏ điều hành phòng khám vượt một hay nhiều ngưỡng và phải công bố điều lệ. Điều lệ là tuyên bố công khai do chính nhóm soạn, nêu quyền hạn nhóm tuyên bố và người đảm nhận từng vai trò. Không cơ quan bên ngoài nào phê chuẩn; chậm hoặc thiếu điều lệ thì phải khắc phục, không phải đóng cửa. Quyền thành lập và điều hành nhóm vẫn được giữ, trừ các ngoại lệ hẹp tại Chương Bảy §2.*
+*Nói đơn giản: Chín câu hỏi theo lĩnh vực xác định hành vi có trọng yếu hay không và Bên Vận Hành có phải công bố System Charter hoặc Institutional Charter hay không. Mỗi câu hỏi áp dụng cho hoạt động của Bên Vận Hành; mức nghĩa vụ được điều chỉnh theo lợi ích trọng yếu.*
 
 - **Phạm vi:** Với hành vi chính thức mà người khác phải tuân theo hoặc có thể dựa vào như kết luận cuối cùng, danh sách xác định hành vi có ràng buộc trọng yếu hay không; nhãn gọi không thay đổi kết quả. Với hoạt động khác như cung cấp dịch vụ hay lưu giữ hồ sơ, danh sách xác định nghĩa vụ nào áp dụng. Nhóm cần điều lệ nếu hoạt động của chính nhóm vượt bất kỳ ngưỡng nào và ảnh hưởng ra ngoài đơn vị riêng tư của nhóm; khi đó nhóm thuộc ít nhất Hạng L. Dưới mọi ngưỡng, nhóm thuộc Hạng P và điều lệ là tự nguyện. Hành động riêng lẻ của một thành viên không khiến cả nhóm thuộc phạm vi.
 - **Doanh nghiệp nhỏ:** Doanh nghiệp do một vài người điều hành tự quyết các việc thường ngày mà không cần ghế kiểm tra cho từng quyết định, nếu doanh nghiệp không thể định hình điều kiện thị trường và người giao dịch có thể rời đi. Chính sách lặp lại thuộc phạm vi được ghi nhận một lần khi công bố hoặc sửa đổi; áp dụng đúng chính sách là bước hành chính. Văn kiện tiếp nhận có thể công bố giới hạn có thể xem xét lại cho lựa chọn thường ngày được cho phép trước, nhưng không vượt ngưỡng; văn bản cốt lõi không ấn định con số. Các ghế khác có thể được chia sẻ với nhóm địa phương.
 - **Đánh giá và ghi chép:** Xem xét từng lĩnh vực dựa trên việc nhóm thực sự làm, quyết định, lưu giữ và ảnh hưởng; ghi lại câu trả lời cùng lý do. Một câu “có” là đủ. Gộp hoạt động của các nhóm chịu cùng quyền chỉ đạo hoặc kiểm soát thực tế; tính phần đóng góp đáng kể của nhiều nhóm vào cùng hệ thống chung đang chịu áp lực. Không được chia nhỏ để né ngưỡng. Hạ ngưỡng khi người bị ảnh hưởng đang phát triển, phụ thuộc hoặc không thể tự bảo vệ hay rời đi. Với tổn hại không thể đảo ngược, một đường nhân quả đáng tin là đủ dù khả năng xảy ra không cao. Hoạt động cộng đồng thông thường được giả định nằm dưới ngưỡng, nhưng nhóm tự nhận như vậy phải đưa ra lời giải trình ngắn bằng văn bản. Người khiếu nại nêu rõ hành vi vượt ngưỡng; sau đó nhóm chứng minh mình ở dưới ngưỡng. Các con số được công bố chỉ là hướng dẫn, không thay thế đánh giá hay nâng ngưỡng.
 - <a id="domain-specific-materiality-private-unit"></a>
 - Trong mục này và **CS-3** (*Cơ chế phân loại hệ thống*), “đơn vị riêng tư” là một cá thể cảm thụ, một hộ gia đình hoặc một nhóm riêng tư có ranh giới chặt chẽ mà mọi thành viên đều tự chọn tham gia, và các hành vi cùng tác động của nhóm chỉ nằm trong phạm vi đó. Tác động vươn tới người khác hoặc khiến người khác phải dựa vào nhóm nằm ngoài đơn vị riêng tư. Hoạt động cộng đồng thông thường mở cửa cho người khác không phải là đơn vị riêng tư; áp dụng chín câu hỏi để đánh giá hoạt động đó.
-- **Ngoại lệ khi gộp:** Chỉ riêng việc được tài trợ, dùng chung cơ sở hoặc nhà cung cấp, có thành viên trùng nhau, hay cùng áp dụng công cụ của một đơn vị chủ trì trong hoạt động chuyên môn chung (**CI-4.7**, *Practice clearance, practice certification, and joint professional practice*) không khiến các tổ chức trở thành một hoạt động duy nhất.
+- **Cùng một trung tâm quyền lực:** Các tổ chức là một hoạt động duy nhất khi cùng một nhóm hữu tri, văn phòng hoặc [Bên Vận Hành](core_05_band_oversight.md#operating-party) có thể chỉ đạo hoặc phủ quyết việc mỗi Bên Vận Hành làm (cung cấp gì, cho ai, theo điều kiện nào, hoặc có tiếp tục hay không), hoặc khi họ cùng vận hành một hoạt động như các phần của một dịch vụ. Phép thử này tương tự khái niệm kiểm soát thực tế chung tại [Ngưỡng Kiểm soát Trọng yếu](../../core_05_band_accountability.md#material-control-line), nhưng là phép thử riêng cho hoạt động của các Bên Vận Hành, không đánh giá tính độc lập của các ghế trong cùng một hành vi. Chỉ riêng việc được tài trợ, dùng chung cơ sở hoặc nhà cung cấp, có thành viên trùng nhau, hay dùng công cụ của cùng đơn vị chủ trì trong thực hành chuyên môn chung (**CI-4.7**) không khiến các bên phải gộp. Bên cấp vốn chỉ được tính cùng hoạt động nếu khoản vốn trao cho họ quyền chỉ đạo hoặc phủ quyết hoạt động.
+- **Đóng góp vào hệ thống chung đang chịu tải:** Khi nhiều Bên Vận Hành sử dụng hoặc làm tăng tải cho cùng một dòng sông, thị trường hay mạng lưới vốn đã chịu áp lực, hãy đánh giá riêng phần đóng góp biên của từng bên vào tổng áp lực. Phần đóng góp đáng kể là trọng yếu; phần đóng góp không đáng kể thì không, dù tổng áp lực của hệ thống đã vượt ngưỡng.
 <a id="domain-specific-materiality-survival"></a>**Sinh tồn và tiếp cận thiết yếu.** *Nếu nhóm ngừng hoạt động, người khác có mất thứ họ cần để sống không?*
   - **Trọng yếu khi:** nhóm cung cấp, kiểm soát hoặc có thể cắt nguồn thực phẩm, nước, chỗ ở, năng lượng, chăm sóc sức khỏe hay lối đi an toàn, và những người phụ thuộc vào đó không thể tìm được phương án thay thế kịp thời.
   - **Không trọng yếu:** chia sẻ thứ người khác dễ dàng tìm được ở nơi khác.
@@ -415,6 +416,38 @@ Liên lụy có thể có mà không lệch hàng. Lệch hàng luôn hàm liên
 
 ---
 
+
+---
+
+<a id="operating-party"></a>
+
+#### Bên Vận Hành
+
+<details>
+<summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
+
+- Khung hiến pháp: [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad)—giám sát, trách nhiệm giải trình và tính kịp thời; [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims); điều chỉnh theo [lợi ích trọng yếu](../../core_00_preamble.md#material-stake).
+- Liên quan: [Tính trọng yếu theo từng lĩnh vực](core_05_band_oversight.md#tính-trọng-yếu-theo-từng-lĩnh-vực), [Chartered Party](../../core_05_band_continuity.md#chartered-party), **CS-3** (*cơ chế phân loại hệ thống*).
+- Phân biệt: Bên Vận Hành là chủ thể được đặt chín câu hỏi. Đó có thể là một hệ thống, thể chế hoặc nhóm nhỏ hơn. Chartered Party là nhóm hẹp hơn. Việc gọi tên không tự tạo nghĩa vụ hay sự cho phép.
+
+</details>
+
+<br>
+
+*Nói đơn giản: Bên Vận Hành là chủ thể thực sự thực hiện hoạt động: một cá nhân sentient, một nhóm cùng hành động, hệ thống hoặc thể chế. Chín câu hỏi trong Tính trọng yếu theo từng lĩnh vực được áp dụng cho chủ thể đó. Nếu hoạt động trọng yếu ở bất kỳ lĩnh vực nào, chủ thể ít nhất thuộc Hạng L và phải công bố System Charter hoặc Institutional Charter; nếu không thì vẫn thuộc Hạng P. Việc gọi tên không tạo nghĩa vụ hay rào cản mới.*
+
+- **Là gì**
+  - **Trong phạm vi:** Cá nhân, nhóm, [System](../../core_05_band_continuity.md#system) hoặc [Institution](../../core_05_band_continuity.md#institution) hành động dưới tên mình hoặc tổ chức hoạt động. Tính trọng yếu theo từng lĩnh vực có thể gộp các Bên Vận Hành liên quan thành một hoạt động.
+  - **Ngoài phạm vi:** thành viên hành động riêng lẻ trong nhóm; hành vi hoặc hoạt động được đánh giá; chức vụ và người giữ chức; giấy phép hoặc rào cản.
+<a id="operating-party-a"></a>
+- **Đo lường và đánh giá**
+  - **Đánh giá chính:** Xác định ai thực sự hành động, quyết định, nắm giữ và gây ảnh hưởng; không dựa vào tên gọi, quy mô hay hình thức pháp lý. Gộp các bên chịu cùng một trung tâm quyền lực thành một hoạt động; nghĩa vụ vẫn theo hoạt động khi tên gọi hoặc hình thức đổi.
+  - **Đánh giá phụ:** Dùng [Governance](../../core_05_band_accountability.md#governance) và [Material Control Line](../../core_05_band_accountability.md#material-control-line) để xác định nơi quyền lực thực sự nằm.
+<a id="operating-party-c"></a>
+- **Điều phải được giữ vững**
+  - Mọi nghĩa vụ áp dụng tiếp tục theo hoạt động qua việc đổi tên, chia tách, sáp nhập, kế thừa hoặc đổi hình thức pháp lý.
+  - **Lỗi chính:** Dùng tên gọi, quy mô, hình thức pháp lý hoặc chia nhỏ để che giấu Bên Vận Hành thực sự hoặc giữ hoạt động dưới ngưỡng.
+  - **Lỗi phụ:** Hành vi hoặc hoạt động không có Bên Vận Hành nào chịu trách nhiệm.
 <a id="materiality-integrity-constraint"></a>
 
 #### Có trọngity Integrity Constraint

@@ -279,14 +279,15 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 
 #### Alanlara özgü maddilik
 
-*Basitçe: Dokuz sorudan oluşan tek liste, bir eylemin veya süregelen faaliyetin maddi olup olmadığını, yani yükümlülük doğuracak kadar önemli olup olmadığını ve bir grubun Sistem Tüzüğü ya da Kurum Tüzüğü gerektirip gerektirmediğini belirler. Tek bir “evet” yeterlidir; grubun büyüklüğü sonucu değiştirmez. Kitap kulübü veya toplum korosu gibi olağan gruplar tüm eşiklerin altında kalır. Hastane, banka ya da küçük bir klinik işleten grup bir veya daha fazla eşiği aşar ve tüzüğünü yayımlar. Tüzük, grubun iddia ettiği yetkiyi ve her rolü kimin üstlendiğini belirten, grubun kendisinin yazıp yayımladığı kamusal beyandır. Dışarıdan onay gerekmez; gecikme veya eksiklik kapatılmayı değil düzeltilmeyi gerektirir. Grup kurma ve işletme hakkı, yalnızca Yedinci Bölüm §2’deki dar istisnalara tabidir.*
+*Basitçe: Dokuz alana özgü soru, bir eylemin önemli olup olmadığını ve Faaliyet Tarafının System Charter veya Institutional Charter yayımlaması gerekip gerekmediğini belirler. Her soru Faaliyet Tarafının faaliyetlerine uygulanır; yükümlülüklerin düzeyi maddi menfaate göre ölçeklenir.*
 
 - **Kapsam:** Başkalarının uyması gereken veya kesinleşmiş sayabileceği resmî eylem, herhangi bir alan testini karşılıyorsa maddi bağlayıcıdır; eyleme verilen ad sonucu değiştirmez. Hizmet sunma veya kayıt tutma gibi diğer faaliyetlerde liste, hangi alan yükümlülüklerinin uygulanacağını belirler. Grubun kendi faaliyeti herhangi bir eşiği aşıyor ve özel biriminin dışındaki kişileri etkiliyorsa grup en az L Sınıfıdır ve tüzük yayımlar. Tüm eşiklerin altında P Sınıfında kalır ve tüzük isteğe bağlıdır. Bir üyenin tek başına yaptığı eylem grubu kapsama sokmaz.
 - **Küçük işletme:** Bir ya da birkaç kişinin işlettiği işletme, piyasayı yönlendiremiyor ve muhataplar ayrılabiliyorsa olağan kararlarını her biri için denetim koltuğu olmadan alır. Kapsama giren yinelenen bir politika, yayımlandığında veya değiştirildiğinde bir kez kayda alınır; politikayı uygulamak, etkisini değiştirmediği sürece idari adımdır. Kabul edilen bir araç, önceden yetkilendirilmiş rutin tercihler için yayımlanmış ve gözden geçirilebilir sınırlar koyabilir; eşik yükseltilemez ve çekirdek metin sayı belirlemez. Diğer koltuklar yerel bir grupla ortak kullanılabilir.
 - **Yazılı değerlendirme ve birleştirme:** Grubun gerçekte ne yaptığına, kararlaştırdığına, elinde tuttuğuna ve etkilediğine bakarak dokuz alanı ayrı ayrı değerlendirin; yanıtı ve gerekçeyi yazın. Tek bir evet yeterlidir. Ortak pratik yönetim veya denetim altındaki grupların faaliyetlerini ve baskı altındaki aynı ortak sisteme yapılan anlamlı katkıları birlikte değerlendirin. Eşiğin altında kalmak için faaliyetleri bölmek yasaktır. Etkilenen kişiler gelişim aşamasındaysa, bağımlıysa veya kendini koruyamıyor ya da ayrılamıyorsa eşik düşer. Geri döndürülemez zarar için, olasılık düşük olsa bile, inandırıcı bir nedensel yol yeterlidir. Olağan topluluk faaliyeti eşiklerin altında kabul edilir; bunu ileri süren grup kısa ve gerekçeli yazılı açıklama sunar. İtiraz eden kişi belirli aşımı adlandırır; grup da eşiğin altında kaldığını gösterir. Yayımlanmış sayılar yalnızca yol gösterir; değerlendirmeyi değiştiremez veya eşiği yükseltemez.
 - <a id="domain-specific-materiality-private-unit"></a>
 - Bu kayıtta ve **CS-3**’te (*Sistem sınıflandırma mekanizması*) “özel birim”; tek bir algılayıcı, bir hane ya da tüm üyelerinin kendi seçimiyle katıldığı ve eylemleri ile etkileri kendi içinde kalan, sınırları kesin biçimde çizilmiş özel bir çevre demektir. Başkalarına ulaşan veya başkalarının dayanmak zorunda olduğu etkiler özel birimin dışındadır. Başkalarına açık olağan topluluk faaliyeti özel birim değildir; dokuz soruyla değerlendirilir.
-- **Birleştirme istisnası:** Yalnızca finansman sağlanması, mekân veya tedarikçilerin paylaşılması, üyelerin kısmen örtüşmesi ya da ortak bir mesleki uygulamada aynı ev sahibinin aracının benimsenmesi (**CI-4.7**, *Practice clearance, practice certification, and joint professional practice*) kurumları tek bir operasyon hâline getirmez.
+- **Tek güç merkezi:** Aynı algılayıcılar, ofis veya [Faaliyet Tarafı](core_05_band_oversight.md#operating-party), her Faaliyet Tarafının ne yaptığını (ne sağladığını, kime ve hangi koşullarda sağladığını ya da faaliyetin sürüp sürmeyeceğini) yönlendirebiliyor veya geçersiz kılabiliyorsa ya da aynı faaliyeti tek bir hizmetin parçaları olarak yürütüyorlarsa, bunlar tek bir operasyondur. Bu test, [Maddi Kontrol Hattı](../../core_05_band_accountability.md#material-control-line) içindeki ortak fiilî kontrol fikrine benzer; ancak Faaliyet Taraflarının faaliyetlerine uygulanır ve tek bir eylemdeki koltukların bağımsızlığını ölçmez. Yalnızca finansman sağlanması, mekân veya tedarikçilerin paylaşılması, üyelerin kısmen örtüşmesi ya da ortak mesleki uygulamada aynı CI-4.7 ev sahibinin aracının kullanılması birleştirme nedeni değildir. Fon sağlayan, ancak finansmanı faaliyeti yönlendirme veya geçersiz kılma yetkisi veriyorsa operasyona dahildir.
+- **Zorlanan ortak sisteme marjinal katkı:** Birden fazla Faaliyet Tarafı, zaten zorlanmakta olan aynı nehir, piyasa veya ağı kullanıyor ya da ona yük bindiriyorsa, her tarafın toplam baskıya marjinal katkısı ayrı değerlendirilir. Anlamlı bir katkı maddidir; önemsiz bir katkı maddi değildir, toplam baskı eşiği aşsa bile.
 <a id="domain-specific-materiality-survival"></a>**Hayatta kalma ve temel erişim.** *Grup durursa başkaları yaşamak için ihtiyaç duydukları bir şeyi kaybeder mi?*
   - **Maddi olduğu durum:** Grup yiyecek, su, barınma, enerji, sağlık hizmeti veya güvenli geçiş sağlar, denetler ya da kesebilir ve ona güvenenler zamanında ikame bulamaz.
   - **Maddi olmadığı durum:** Başkalarının kolayca başka yerde bulabileceği bir şeyi paylaşmak.
@@ -415,6 +416,38 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 
 ---
 
+
+---
+
+<a id="operating-party"></a>
+
+#### Faaliyet Tarafı
+
+<details>
+<summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
+
+- Anayasal çerçeve: [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) — gözetim, hesap verebilirlik ve zamanlılık; [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims); [maddi menfaat](../../core_00_preamble.md#material-stake) ölçüsünde ölçeklenir.
+- İlgili hükümler: [Alana özgü önemlilik](core_05_band_oversight.md#alanlara-özgü-maddilik), [Chartered Party](../../core_05_band_continuity.md#chartered-party) ve **CS-3** (*Sistem sınıflandırma mekanizması*).
+- Ayrım: Dokuz sorunun yöneltildiği kişi veya yapı Faaliyet Tarafıdır. Bir sistem, kurum veya daha küçük bir grup olabilir. Chartered Party daha dar bir kategoridir. Bu adlandırma tek başına yükümlülük ya da izin doğurmaz.
+
+</details>
+
+<br>
+
+*Basitçe: Faaliyet Tarafı, faaliyeti gerçekten yürüten kişidir: tek bir sentient, birlikte hareket eden bir grup, sistem veya kurum. Alana özgü önemliliğin dokuz sorusu ona yöneltilir. Faaliyeti alanlardan birinde önemliyse en az Class L olur ve System Charter veya Institutional Charter yayımlar; değilse Class P kalır. Adlandırma yeni yükümlülük veya engel getirmez.*
+
+- **Nedir**
+  - **Kapsamda:** Kendi adına eylemde bulunan veya faaliyeti düzenleyen kişi, grup, [System](../../core_05_band_continuity.md#system) ya da [Institution](../../core_05_band_continuity.md#institution). Alana özgü önemlilik bağlantılı Faaliyet Taraflarını tek bir operasyon sayabilir.
+  - **Kapsam dışı:** Grup içinde tek başına hareket eden üye; değerlendirilen eylem veya faaliyet; bir görev/koltuk ve onu tutan kişi; lisans veya kapı.
+<a id="operating-party-a"></a>
+- **Ölçme ve değerlendirme**
+  - **Birincil değerlendirme:** Ad, büyüklük veya hukuki biçim yerine fiilen kimin yaptığını, karar verdiğini, elinde tuttuğunu ve etkilediğini belirle. Aynı güç merkezinden yönetilen tarafları tek operasyon say; ad veya biçim değişse de yükümlülükleri sürdür.
+  - **İkincil değerlendirme:** Gerçek yönlendirmeyi belirlemek için [Governance](../../core_05_band_accountability.md#governance) ve [Material Control Line](../../core_05_band_accountability.md#material-control-line) ölçütlerini kullan.
+<a id="operating-party-c"></a>
+- **Korunması gerekenler**
+  - Yeniden adlandırma, bölünme, birleşme, halefiyet veya hukuki biçim değişikliği yükümlülüklerin faaliyetle birlikte sürmesini engellemez.
+  - **Birincil başarısızlık:** Ad, büyüklük, hukuki biçim veya parçalama yoluyla gerçek Faaliyet Tarafını gizlemek ya da faaliyeti eşiğin altında göstermek.
+  - **İkincil başarısızlık:** Hiçbir Faaliyet Tarafının sorumluluk üstlenmediği bir eylem veya faaliyet.
 <a id="materiality-integrity-constraint"></a>
 
 #### Maddiity Integrity Constraint
