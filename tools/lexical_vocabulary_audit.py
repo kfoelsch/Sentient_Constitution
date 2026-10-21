@@ -396,6 +396,22 @@ def run_internal_regression_checks() -> None:
         raise RuntimeError(
             "Internal regression failed: bare pathway was not flagged or qualified forms broke.",
         )
+    check_findings = scan_avoid_bare_check(
+        "core_07_charters.md",
+        "The check scales with class.\n"
+        "A failed check lands on one office.\n"
+        "The formation check scales with class; the standing check does too.\n"
+        "The Chartered Party checks and records that the check is done.\n"
+        "This checks the structure, and a seat that checks an act is not independent.\n"
+        "See [When a Holder Fails the Formation Check](core_07_charters.md#6-when-a-holder-fails-the-formation-check) and the check window.\n"
+        "`the check` inside backticks is documentation only.\n",
+    )
+    if len(check_findings) != 3:
+        raise RuntimeError(
+            "Internal regression failed: bare check was not flagged or qualified forms broke.",
+        )
+    if scan_avoid_bare_check("core_08_functional_independence_segregation_of_duties.md", "The check scales.\n"):
+        raise RuntimeError("Internal regression failed: bare-check scope leaked outside its scoped files.")
     layer_findings = scan_avoid_governance_layer_labels(
         "internal-regression.md",
         "Remain subject to stakeholder governance.\n"
@@ -628,6 +644,55 @@ def scan_avoid_bare_pathway(rel_path: str, text: str) -> list[Finding]:
             findings.append(
                 Finding(file=rel_path, line=idx, rule="avoid-bare-pathway", text=raw.strip()),
             )
+    return findings
+
+
+# Bare **check** (custodian decision, 2026-10-20): a check is always a named check. In Chapter Seven the noun "check" means the
+# **formation check**, and the chapter also has seat checks, standing checks, and authenticity checks, so "the check" alone does not
+# say which one. Say **formation check** (or the named part: standing limb, authenticity limb). Enforced only on files in
+# `_BARE_CHECK_SCOPE`; expand as other files are swept (outside Chapter Seven a bare "check" is often a different check altogether).
+_BARE_CHECK_SCOPE = frozenset({"core_07_charters.md"})
+_CHECK_WORD = re.compile(r"(?<![A-Za-z0-9-])(checks?)(?![A-Za-z0-9-])", re.IGNORECASE)
+# Determiners and generic adjectives that leave the check unnamed. Singular "check" after any of them is a noun. Plural "checks" counts
+# only after a determiner that cannot take a verb ("this checks", "that checks", "each checks", "a checks" are verb or typo, not nouns).
+_CHECK_BARE_PRECEDERS = frozenset(
+    """
+    a an the this that these those such each every any all some no other another its their our
+    same first second new single failed late short independent separate proper real full simple
+    """.split()
+)
+_CHECK_BARE_PRECEDERS_PLURAL = frozenset("the these those such all some any other its their our no".split())
+# Fixed terms that already carry the check inside a longer name: the "check window" clock.
+_CHECK_ALLOWLIST = [
+    re.compile(r"check windows?", re.IGNORECASE),
+]
+
+
+def scan_avoid_bare_check(rel_path: str, text: str) -> list[Finding]:
+    """Reject bare noun **check** / **checks**: every use must say which check it is (formation check, standing limb, ...)."""
+    if rel_path not in _BARE_CHECK_SCOPE:
+        return []
+
+    findings: list[Finding] = []
+    in_fence = False
+    for idx, raw in enumerate(text.splitlines(), start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+        check_line = _mask_inline_code_and_link_targets(raw)
+        check_line = re.sub(r'id="[^"]*"', lambda m: " " * len(m.group(0)), check_line)
+        for pat in _CHECK_ALLOWLIST:
+            check_line = pat.sub(lambda m: " " * len(m.group(0)), check_line)
+        for match in _CHECK_WORD.finditer(check_line):
+            word = _pathway_preceding_word(check_line, match.start())
+            allowed = _CHECK_BARE_PRECEDERS_PLURAL if match.group(1).lower() == "checks" else _CHECK_BARE_PRECEDERS
+            if word in allowed:
+                findings.append(
+                    Finding(file=rel_path, line=idx, rule="avoid-bare-check", text=raw.strip()),
+                )
+                break
     return findings
 
 
@@ -1205,6 +1270,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Ten**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Ten wording.",
         "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
         "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Eleven §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
+        "- **`avoid-bare-check`:** in scoped files (`core_07_charters.md`), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing limb, authenticity limb). **Allowed:** verb uses (**the Chartered Party checks and records**), qualified compounds (**formation check**, **standing check**), and **check window**.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",
@@ -1278,6 +1344,7 @@ def main() -> int:
         findings.extend(scan_avoid_standing_calculus(rel_path, text))
         findings.extend(scan_avoid_bare_drift(rel_path, text))
         findings.extend(scan_avoid_bare_pathway(rel_path, text))
+        findings.extend(scan_avoid_bare_check(rel_path, text))
         findings.extend(scan_load_bearing_capitalization(rel_path, text))
         findings.extend(scan_avoid_should_not_prohibitions(rel_path, text))
         findings.extend(scan_avoid_definition_map_label(rel_path, text))

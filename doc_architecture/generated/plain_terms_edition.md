@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.19` · effective **2026-10-19**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **716** of **1068** headings carry a gloss (67%).
+Coverage: **716** of **1082** headings carry a gloss (66%).
 
 ## Contents
 
@@ -30,7 +30,7 @@ Coverage: **716** of **1068** headings carry a gloss (67%).
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/35 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07_charters.md` (9/49 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09_a_system_alignment_certification_evaluation.md` (16/58 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09_b_system_alignment_certification_record_process.md` (13/25 glossed)
@@ -3214,7 +3214,7 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/35 headings glossed
+Source file: [`core_07_charters.md`](../../core_07_charters.md) · 9/49 headings glossed
 
 #### 1. When System and Institutional Charters Are Required
 
@@ -3390,17 +3390,101 @@ the System Charter or Institutional Charter is where the seats get names. It car
 
 [Source](../../core_07_charters.md#47-gaps-in-the-map-for-operator-standing-records)
 
+###### 4.7.1 When a gap exists and how it is logged
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#471-when-a-gap-exists-and-how-it-is-logged)
+
+###### 4.7.2 While a gap is open
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#472-while-a-gap-is-open)
+
+###### 4.7.3 If events remove the last qualified substitute
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#473-if-events-remove-the-last-qualified-substitute)
+
+###### 4.7.4 Certification seats
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#474-certification-seats)
+
 #### 5. Formation Check: Office-Holder Standing and Authenticity
 
-before a Chartered Party exercises authority over others, the sentients who hold its key offices are checked twice. Do they meet the published standard for the role, with no standing lock in the way? And do they hold the office in their own right and for the Chartered Party's stated purpose, and not as a front or a nominee? The answer comes from who directs them, what they are paid for, and what they have verifiably said and done, never from what they believe. This is a check and not a licence.
+before a Chartered Party exercises authority over others, the sentients who hold its key offices are checked twice. Do they meet the published standard for the role, with no standing lock in the way? And do they hold the office in their own right and for the Chartered Party's stated purpose, and not as a front or a nominee? The answer comes from who directs them, what they are paid for, and what they have verifiably said and done, never from what they believe. This is a formation check and not a licence.
 
 [Source](../../core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)
 
-#### 6. When a Holder Fails the Check
+##### 5.1 What is covered
 
-a failed check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved. The Chartered Party gets a short window to answer and a longer one to fix it, and both are shorter the more critical it is. It keeps operating throughout. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause. A Chartered Party that a forum has dissolved is the one exception: it may not come back under any name while the lock on it stands.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_07_charters.md#6-when-a-holder-fails-the-check)
+[Source](../../core_07_charters.md#51-what-is-covered)
+
+##### 5.2 Limb one: standing
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#52-limb-one-standing)
+
+##### 5.3 Limb two: authenticity
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#53-limb-two-authenticity)
+
+##### 5.4 What the formation check may use as evidence
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#54-what-the-formation-check-may-use-as-evidence)
+
+##### 5.5 What a holder has said
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#55-what-a-holder-has-said)
+
+##### 5.6 Structural limb for other staff
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#56-structural-limb-for-other-staff)
+
+##### 5.7 The formation check statement
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#57-the-formation-check-statement)
+
+##### 5.8 Timing and re-check
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#58-timing-and-re-check)
+
+##### 5.9 Proportion and burden
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#59-proportion-and-burden)
+
+##### 5.10 What this section does not do
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07_charters.md#510-what-this-section-does-not-do)
+
+#### 6. When a Holder Fails the Formation Check
+
+a failed formation check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved. The Chartered Party gets a short window to answer and a longer one to fix it, and both are shorter the more critical it is. It keeps operating throughout. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The formation check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause. A Chartered Party that a forum has dissolved is the one exception: it may not come back under any name while the lock on it stands.
+
+[Source](../../core_07_charters.md#6-when-a-holder-fails-the-formation-check)
 
 #### 7. Amendment, Review, and Scope Misalignment
 
