@@ -65,7 +65,9 @@ This file is the institutional implementation home for **CI-9** (*Classification
 *Shared rules live elsewhere.* Class- and tier-scaling terms are in **CJS-3.11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** (*Classification-linked institutional obligations*) keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
 Apply **CJS-3.11** (*Accountability: distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
 **Constitutional floor for formation**
-The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five Rights Floor for [System Creation](../core_05_band_participation.md#system-creation) (non-commercial institutional formation) and [Business Creation](../core_05_band_participation.md#business-creation) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05_band_participation.md#assembly-collective-organization-and-institutional-formation) and owner-floor provisions in **Article X-C** (*Stakeholder Role and Participation Rights*) (System Creation) and **Article III-C** (*Labor and Economic Floor*) (Business Creation).
+The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement [System Creation](../core_05_band_participation.md#system-creation) (non-commercial institutional formation) and [Business Creation](../core_05_band_participation.md#business-creation) (commercial entrepreneurial formation), whose formation Rights Floor is [Article XI-E](../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). These mechanics must not narrow that floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05_band_participation.md#assembly-collective-organization-and-institutional-formation). **Article X-C** (*Stakeholder Role and Participation Rights*) governs stakeholder participation once the created body's activities are material to others; **Article III-C** (*Labor and Economic Floor*) governs labor and economic protections, including organizing within productive systems.
+
+Formation and authorization mechanics here do not add a licence or clearance to form or run an Operating Party. **Article XI-E** (*Institutional Formation and Business Creation*) sets the two narrow gates on who may hold authority, and its practice licence or practice clearance attaches only to performing a named act for others. An authorization path for a separately conferred function must not become an additional gate on formation itself.
 
 ## CI-9.1: Formation proportionality
 <details>
@@ -135,7 +137,7 @@ Each formation or authorizing document must state:
 - the subunit's **subject-matter scope**;
 - the **competence profile** expected for service in the subunit.
 
-Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** (*Procedure integrity, contestability, and secondary review*) contest pathways, or **Chapter Twelve** routing where adjudication applies.
+Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** (*Procedure integrity, contestability, and secondary review*) contest pathways, or [Chapter Thirteen](../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) routing where adjudication applies.
 
 ## CI-9.3.2: Authority composition
 <details>
@@ -167,7 +169,7 @@ Where a multi-member body uses a different deciding-bench balance or materially 
 
 <br>
 
-*In plain terms: when members rotate in and out of a hybrid body, spell lengths must be bounded and published — not left to informal discretion. One year is the ordinary ceiling for a single rotating spell; longer spells need stronger justification and, for the highest-impact bodies, outside review.*
+*In plain terms: publish bounded rules for rotating service. For Class C, one calendar year is a suggested ordinary maximum; for Class B, publish minimum and maximum terms; for Class A, one calendar year is the expected ordinary maximum, and a longer ceiling needs the external assurance or participation described below.*
 
 Apply **CJS-2.1.2** (*Attachment publication*) for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, illustration status, and continuity relationship to home-based terms).
 

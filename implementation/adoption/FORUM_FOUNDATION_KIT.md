@@ -195,6 +195,10 @@ If any box is unchecked, stop. Scaffolding + non-forum banner only.
 
 Use this when first adopters need a Test 4 path and no live CF-3 structure exists yet. Existing external reviewers, published backups, and adjudicative bodies the crew does not control belong here. Inventing a two-party “forum” does not.
 
+**Check the route in practice.** A name and an acknowledgment do not establish independence or capacity. For the acts this route will review, trace the [Material Control Line](../../core_05_band_accountability.md#material-control-line), including power over funding, removal, credentials, evidence, and records. [Chapter Eight §§3–6](../../core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) supplies the independence, substitution, and hosting rules; [§8](../../core_08_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs) supplies the Act Record and handoff floor. Record what the reviewer has actually accepted and can do. Mark missing capacity as missing. A shared service alone does not prove control; separate role names alone do not prove independence.
+
+The added fields below help test the proposed route; they do not grant authority or set new constitutional deadlines. For an operations-guide arrangement, identify the agreed schedule as such. Where constitutional forum clocks apply, cite their owner and record the matter's urgency tier separately from the system's impact class ([Chapter Thirteen §6](../../core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)).
+
 ```text
 NOT-LIVE BANNER
 This block is a process-support template.
@@ -213,6 +217,25 @@ What is named (pick one; do not relabel as a forum family):
   [ ] external reviewer (identity; how appointed; how reached):
   [ ] existing adjudicative body the cooperating crew does not solely staff
       (identity; why it is independent of this crew):
+
+Accepted scope and authority:
+  Acts and parties this reviewer may review; source of that authority:
+  Reviewer's acceptance record; limits on correction or interim action:
+  Filing address or channel; who receives and acknowledges a challenge:
+
+Control and capacity for those acts:
+  Who appoints, pays, directs, removes, or replaces the reviewer:
+  Who controls credentials, evidence access, and record preservation:
+  Material interests or control lines; recusals and safeguards:
+  Available reviewer time, resources, and practical correction route:
+
+Record and handoff:
+  Record holder, custody location, version history, and evidence access:
+  Applicable clock owner and source; trigger and acknowledgment record:
+  Agreed service schedule if operations-guide only (not a forum clock):
+  Substitute if absent or conflicted; independent route if none qualifies:
+  How a filer reaches that route without the challenged party's permission:
+  Unavailable authority or capacity; resulting limits on the claim:
 
 This path is not solely the other signatory / founding crew.
   [ ] acknowledged

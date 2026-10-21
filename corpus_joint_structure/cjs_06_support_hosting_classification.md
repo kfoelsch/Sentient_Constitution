@@ -13,7 +13,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CJS-1.9](#cjs-19-boundary-between-support-roles-and-merits-decisions) (*CJS-1.11: Support roles, hosting independence, and classification alignment*); [CJS-1.10](#cjs-110-institution-hosted-or-forum-adjacent-operations) (*Institution-hosted or forum-adjacent operations*); [CJS-1.11](#cjs-111-classification-alignment-for-supervised-scope) (*Classification alignment for supervised scope*).
+- Downstream: [CJS-1.9](#cjs-19-boundary-between-support-roles-and-merits-decisions) (*Boundary Between Support Roles and Merits Decisions*); [CJS-1.10](#cjs-110-institution-hosted-or-forum-adjacent-operations) (*Institution-hosted or forum-adjacent operations*); [CJS-1.11](#cjs-111-classification-alignment-for-supervised-scope) (*Classification alignment for supervised scope*).
 - Read with: **CJS-1.9** (*Boundary Between Support Roles and Merits Decisions*); **CJS-1.10** (*Institution-hosted or forum-adjacent operations*); **CJS-1.11** (*Classification alignment for supervised scope*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*); **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
@@ -31,7 +31,7 @@
 
 This file is the joint-structure implementation home for **CJS-1.9** (*Boundary Between Support Roles and Merits Decisions*), **CJS-1.10** (*Institution-hosted or forum-adjacent operations*), and **CJS-1.11** (*Classification alignment for supervised scope*).
 
-*In plain terms: monitors and forensic helpers must not quietly decide who wins; hosting a forum's building or software does not let the host control its decisions; and a system's published risk class must match how it is actually run.*
+*In plain terms: monitors and forensic helpers must not quietly decide who wins; hosting a forum's building or software does not let the host control its decisions; and published system classifications must match actual operation.*
 
 ## CJS-1.9: Boundary Between Support Roles and Merits Decisions
 <a id="cjs-19-boundary-between-support-roles-and-merits-decisions"></a>
@@ -50,6 +50,8 @@ Roles that monitor, review how challenge or review routes perform, provide foren
 
 Institutions must publish what each role may do and what it may **not** decide — including who the role reports to, how often it reports, and how it connects to assurance work. Oversight and support roles must not quietly take over merits decisions assigned to a lawfully constituted forum family under **Chapter Thirteen**.
 
+A separate lawful grant of limited merits authority remains subject to [Chapter Eight §2 Four-Seat Constitutional Floor](../core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and its independence, substitution, and hosting rules: the role may not verify its own act, hear its own challenge, or acquire a prohibited seat combination. Its [Act Record](../core_08_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs) must identify that authority and the seats used. A support-role title or delegation does not waive those requirements.
+
 See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-8** (*Forum forensic and analytical support*), **CF-9** (*Independent investigative service and prosecution interface*), and **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
 
 ## CJS-1.10: Institution-hosted or forum-adjacent operations
@@ -59,10 +61,12 @@ See **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CF-8** 
 
 When an institution hosts, funds, administers, or technically runs forum infrastructure, it must make forum independence and contestability work in practice — including budget, staffing, records, security, procurement, clerking, digital systems, and personnel systems. Independence on paper is not enough.
 
+Assess those arrangements for the particular act under [Chapter Eight §3 Independence, Conflict, and Control Lines](../core_08_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines). Shared infrastructure alone does not establish a Material Control Line; practical power over the check, evidence, credentials, funding, removal, or record does. If the holder is absent or conflicted, use the published substitute or independent route under [Chapter Eight §4 Wrong-Seat Routing](../core_08_functional_independence_segregation_of_duties.md#4-wrong-seat-routing) and [§5 Published Placement, Vacancy, and Substitution](../core_08_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution), preserving evidence and logging the handoff. Hosting does not let the institution fill a missing independent seat with an interested operator.
+
 ## CJS-1.11: Classification alignment for supervised scope
 <a id="cjs-111-classification-alignment-for-supervised-scope"></a>
 
-*In plain terms: do not call a system one risk class in supervision papers and a different class in how it is actually run, if that label change would change what duties apply.*
+*In plain terms: supervision papers must use the system classification that actual operation warrants, so a lower label cannot reduce the duties that apply.*
 
 Apply **CJS-3.11** (*Accountability: distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
 

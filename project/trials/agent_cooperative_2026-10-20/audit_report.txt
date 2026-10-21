@@ -1,0 +1,45 @@
+python3 tools/audit_report.py --root .
+Audit report: scope regression, 105 targets, 4 jobs, 20s
+  Repo hygiene and front doors .............. 4/4
+  Links, anchors and cites .................. 13/14  FAIL: section-cite-name-audit
+  Markdown structure and layout ............. 17/19  FAIL: heading-runin-echo-audit, section-bullet-lead-audit
+  Chapter Five definitions and measurements . 14/14
+  Vocabulary and readability ................ 3/4  FAIL: lexical-vocabulary-audit
+  Time windows .............................. 1/2  FAIL: time-reference-audit
+  Cross-chapter alignment and lockstep ...... 4/4
+  Scenarios and record validators ........... 5/5
+  Generated files and indexes ............... 8/8
+  Unit tests of the audits .................. 31/31
+
+-- section-cite-name-audit (Links, anchors and cites), exit 2, 0.3s
+   FAIL: SECTION-CITE-NAME-01 — 1 unnamed section-number cite(s).
+     core_07_charters.md:562: SECTION-CITE-NAME-01: unnamed §4.7.1: section-number link has no title in the link text or a following (*title*) gloss
+   re-run: make section-cite-name-audit
+
+-- heading-runin-echo-audit (Markdown structure and layout), exit 2, 0.1s
+   FAIL: MD-HEADING-RUNIN-01 — 2 heading-echo run-in label(s).
+     core_07_charters.md:544: MD-HEADING-RUNIN-01: §4.7.3 opens with a bold run-in that restates the heading: **If events remove the last qualified substitute**
+     core_07_charters.md:556: MD-HEADING-RUNIN-01: §4.7.4 opens with a bold run-in that restates the heading: **Certification seats run on the same clock**
+   re-run: make heading-runin-echo-audit
+
+-- section-bullet-lead-audit (Markdown structure and layout), exit 2, 0.1s
+   FAIL: MD-SECTION-LEAD-01 — 4 section(s) open with a list item (Chapter Five definition files exempt).
+     core_07_charters.md:526: MD-SECTION-LEAD-01: section '4.7.1 When a gap exists and how it is logged' (line 524) opens with a list item, not lead-in prose: '- **A map with gaps makes the System Charter or Institutional C
+     core_07_charters.md:534: MD-SECTION-LEAD-01: section '4.7.2 While a gap is open' (line 532) opens with a list item, not lead-in prose: "- **Until it is resolved:** None of the Chartered Party's own offices can issue a
+     core_07_charters.md:544: MD-SECTION-LEAD-01: section '4.7.3 If events remove the last qualified substitute' (line 542) opens with a list item, not lead-in prose: '- **If events remove the last qualified substitute:** I
+   re-run: make section-bullet-lead-audit
+
+-- time-reference-audit (Time windows), exit 2, 0.8s
+   FAIL: 2 time reference(s) without a stated bound and tier or class (TIME-REF-01)
+     core_07_charters.md:550: [duration] missing bound: Tier A emergency: In a Tier A emergency where a life or serious rights are at stake, the default is 3 days.
+     core_07_charters.md:674: [duration] missing bound: An emergency substitution keeps its own shorter check window, which the Charter sets and which can't be longer than the Tier maximum (defaul
+     Name the bound kind (e.g. outer bound, intake target) and the tier or class that sets it, or use a registered fixed-period name (tools/time_reference_registry.json).
+   re-run: make time-reference-audit
+
+-- lexical-vocabulary-audit (Vocabulary and readability), exit 2, 9.4s
+   - **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or
+   - `FAIL`
+   re-run: make lexical-vocabulary-audit
+
+Result: FAIL (5 gate targets failing; 100/105 pass)
+make: *** [audit-report] Error 1

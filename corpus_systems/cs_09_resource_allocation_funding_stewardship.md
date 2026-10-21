@@ -326,7 +326,7 @@ Systems must define measurable indicators and thresholds that reflect system hea
 <a id="cs-9-17-triggering-review-and-challenge"></a>
 ## CS-9.17 Triggering review and challenge
 
-*In plain terms: Anyone with standing may challenge a funding structure or outcome, and no minimum number of participants is required to start a review.*
+*In plain terms: Any sentient or group may challenge a funding structure or outcome. Standing locks alone do not cut off challenge or audit, and no minimum number of participants is required to start a review.*
 
 Funding structures and allocation outcomes may be challenged by any sentient or group under **Article XIX-B** (*Contestability and Proportional Restriction Limits*). Standing locks do not by themselves cut off challenge or audit pathways.
 

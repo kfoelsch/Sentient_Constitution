@@ -31,6 +31,8 @@ This inventory covers tracked non-core paths outside translations, historical ev
 
 Pending means no full pass is claimed by this inventory; prior work may already be sound. Review each file for its purpose and authority, owning core sources, conditions and exceptions, class and timing rules, human entry and failure route, citations, and relevant checks. Record completed batches and reopened dependencies in the [working plan](announcement_readiness_2026-10-20.md). Do not rewrite sound text simply to mark it reviewed.
 
+**B04 progress:** [Three full editorial passes recorded](../reviews/announcement_interlocks_B04_2026-10-20.md), leaving 72 of the 75 implementation-family files pending a full pass. CJS-1.9–1.11 has no remaining finding in that pass; CI-9 and CJS-2 retain D04 on hybrid-body applicability and exceptions. A recorded full pass is not clearance of an open issue, independent validation, or a frozen dependency baseline.
+
 ## Other tracked assets
 
 | File | Review state |
@@ -149,7 +151,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md](../../corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md) | Pending |
 | [corpus_institutions/ci_07_oversight_assurance_controls_evidence.md](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) | Pending |
 | [corpus_institutions/ci_08_transparency_participation_accessible_pathways.md](../../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) | Pending |
-| [corpus_institutions/ci_09_classification_linked_institutional_obligations.md](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) | Pending |
+| [corpus_institutions/ci_09_classification_linked_institutional_obligations.md](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) | Full pass B04 recorded; D04 open |
 | [corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md](../../corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md) | Pending |
 | [corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md](../../corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md) | Pending |
 | [corpus_institutions/ci_12_cross_institution_coordination_escalation.md](../../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) | Pending |
@@ -176,7 +178,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 |---|---|
 | [corpus_joint_structure/cjs_00_registry_and_reading_rules.md](../../corpus_joint_structure/cjs_00_registry_and_reading_rules.md) | Pending |
 | [corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md](../../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md) | Pending |
-| [corpus_joint_structure/cjs_02_specific_joint_interlocks.md](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md) | Pending |
+| [corpus_joint_structure/cjs_02_specific_joint_interlocks.md](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md) | Full pass B04 recorded; D04 open |
 | [corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md) | Pending |
 | [corpus_joint_structure/cjs_03a_accountability_operations.md](../../corpus_joint_structure/cjs_03a_accountability_operations.md) | Pending |
 | [corpus_joint_structure/cjs_03c_continuity_operations.md](../../corpus_joint_structure/cjs_03c_continuity_operations.md) | Pending |
@@ -186,7 +188,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_joint_structure/cjs_03u_audit_process.md](../../corpus_joint_structure/cjs_03u_audit_process.md) | Pending |
 | [corpus_joint_structure/cjs_04_drafting_contracts.md](../../corpus_joint_structure/cjs_04_drafting_contracts.md) | Pending |
 | [corpus_joint_structure/cjs_05_odef_parse_mechanics.md](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md) | Pending |
-| [corpus_joint_structure/cjs_06_support_hosting_classification.md](../../corpus_joint_structure/cjs_06_support_hosting_classification.md) | Pending |
+| [corpus_joint_structure/cjs_06_support_hosting_classification.md](../../corpus_joint_structure/cjs_06_support_hosting_classification.md) | Full pass B04 recorded; no remaining finding in that pass; reopen on source change |
 | [corpus_joint_structure/cjs_reader_guide.md](../../corpus_joint_structure/cjs_reader_guide.md) | Pending |
 
 ## CS
@@ -204,7 +206,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [corpus_systems/cs_06_comprehensibility_complexity_stewardship.md](../../corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) | Pending |
 | [corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md) | Pending |
 | [corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) | Pending |
-| [corpus_systems/cs_09_resource_allocation_funding_stewardship.md](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) | Pending |
+| [corpus_systems/cs_09_resource_allocation_funding_stewardship.md](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) | Pending full review; B03 corrects §17 gloss only |
 | [corpus_systems/cs_10_transition_constitution_migration_governance.md](../../corpus_systems/cs_10_transition_constitution_migration_governance.md) | Pending |
 | [corpus_systems/cs_11_subversion_response_replacement_reconstitution.md](../../corpus_systems/cs_11_subversion_response_replacement_reconstitution.md) | Pending |
 | [corpus_systems/cs_12_decentralized_continuity_partition_resilience.md](../../corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) | Pending |
@@ -305,7 +307,7 @@ Pending means no full pass is claimed by this inventory; prior work may already 
 | [implementation/adoption/COOPERATION_SCALING_KIT.md](../../implementation/adoption/COOPERATION_SCALING_KIT.md) | Pending |
 | [implementation/adoption/FIRST_ADOPTER_KIT.md](../../implementation/adoption/FIRST_ADOPTER_KIT.md) | Pending |
 | [implementation/adoption/FIT_SITUATIONS.md](../../implementation/adoption/FIT_SITUATIONS.md) | Pending |
-| [implementation/adoption/FORUM_FOUNDATION_KIT.md](../../implementation/adoption/FORUM_FOUNDATION_KIT.md) | Pending |
+| [implementation/adoption/FORUM_FOUNDATION_KIT.md](../../implementation/adoption/FORUM_FOUNDATION_KIT.md) | Pending full review; B02 expands §5 naming form only |
 | [implementation/adoption/INSTITUTION_FOUNDATION_KIT.md](../../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md) | Pending |
 | [implementation/adoption/MINIMUM_VIABLE_ADOPTER.md](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) | B01 targeted parity correction; full pass pending |
 | [implementation/adoption/README.md](../../implementation/adoption/README.md) | Pending |
