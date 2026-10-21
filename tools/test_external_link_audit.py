@@ -29,7 +29,7 @@ class ExternalLinkAuditTests(unittest.TestCase):
             root = Path(temp_dir)
             write(
                 root,
-                "core_06_rights_part_a.md",
+                "core_06005_rights_part_a.md",
                 "- Downstream: [README](README.md#standing-pipeline-and-forums).\n"
                 "- Read with: [§1.2 Layer scope](#12-layer-scope).\n"
                 "- Source: [spec](https://example.org/spec).\n"
@@ -54,7 +54,7 @@ class ExternalLinkAuditTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
             write(root, "README.md", f"[README]({VSCODE_PREVIEW})\n")
-            write(root, "core_13_forum.md", f"[README]({VSCODE_PREVIEW})\n")
+            write(root, "core_13000_forum.md", f"[README]({VSCODE_PREVIEW})\n")
             findings, _ = audit(root)
             self.assertEqual(len(findings), 2, msg="\n".join(findings))
             self.assertTrue(all("editor preview URL" in item for item in findings), findings)

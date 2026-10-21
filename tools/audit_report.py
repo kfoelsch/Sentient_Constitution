@@ -136,10 +136,25 @@ def failure_excerpt(output: str, max_lines: int) -> list[str]:
 
     A Python traceback is shown by its last lines (the exception). Otherwise the lines that carry a failure word
     are kept, with the detail lines under them: indented lines, and the next two lines after a FAIL line.
+    The corpus Markdown audit reports its findings as a ``- Result: FAIL`` line
+    followed by one bullet per finding; keep that complete list so a long set of
+    formatting findings is visible in one audit-report run.
     """
     lines = [ln.rstrip() for ln in output.splitlines() if ln.strip() and not ln.startswith(("make[", "make:"))]
     if any(ln.startswith("Traceback (most recent call last)") for ln in lines):
         return [ln[:220] for ln in lines[-min(max_lines, 6):]]
+    corpus_markdown_result = next(
+        (i for i, line in enumerate(lines) if line.strip() == "- Result: FAIL" and
+         any("Corpus Markdown structure audit:" in prior for prior in lines[:i])),
+        None,
+    )
+    if corpus_markdown_result is not None:
+        findings = []
+        for line in lines[corpus_markdown_result + 1 :]:
+            if not line.startswith("  - "):
+                break
+            findings.append(line)
+        return [lines[corpus_markdown_result], *(line[:220] for line in findings)]
     picked: list[str] = []
     i = 0
     while i < len(lines) and len(picked) < max_lines:

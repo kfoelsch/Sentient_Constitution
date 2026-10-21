@@ -178,10 +178,10 @@ def build(root: Path) -> None:
     put("CONTRIBUTING.md", f"Edition `{EDITION}` is pre-release. Attribution: Karl Ernst and collaborating AI models.\n")
     put("LICENSE", "Attribution: Karl Ernst and collaborating AI models (Claude Fable and Opus, ChatGPT), Sentient Constitution.\n")
     put("Makefile", MAKEFILE)
-    put("core_00_preamble.md", PREAMBLE)
+    put("core_00000_preamble.md", PREAMBLE)
     for number in range(1, 6):
-        put(f"core_{number:02d}_chapter.md", f"# Chapter {number}\n")
-    put("core_06_rights_part_a.md", "# Rights\n\n## Article I\n\n## Article II\n")
+        put(f"core_{number:02d}000_chapter.md", f"# Chapter {number}\n")
+    put("core_06005_rights_part_a.md", "# Rights\n\n## Article I\n\n## Article II\n")
     put("translations/README.md", "| Espanol | [Open](es/README.md) |\n")
     put("translations/es/README.md", "# es\n")
     for rel in GENERATED:
@@ -304,7 +304,7 @@ class ChapterTests(Fixture):
         self.assertEqual(self.errors(), [])
 
     def test_new_chapter_makes_old_claim_stale(self) -> None:
-        (self.root / "core_07_new.md").write_text("# Three\n", encoding="utf-8")
+        (self.root / "core_07000_new.md").write_text("# Three\n", encoding="utf-8")
         self.assertRule("FRONT-DOOR-CHAPTERS-01")
 
 
@@ -314,17 +314,17 @@ class ArticleTests(Fixture):
         self.assertRule("FRONT-DOOR-ARTICLES-01")
 
     def test_new_article_makes_count_stale(self) -> None:
-        part = self.root / "core_06_rights_part_a.md"
+        part = self.root / "core_06005_rights_part_a.md"
         part.write_text(part.read_text(encoding="utf-8") + "\n## Article III\n", encoding="utf-8")
         self.assertRule("FRONT-DOOR-ARTICLES-01")
 
     def test_sub_articles_do_not_count(self) -> None:
-        part = self.root / "core_06_rights_part_a.md"
+        part = self.root / "core_06005_rights_part_a.md"
         part.write_text(part.read_text(encoding="utf-8") + "\n### Article II-D Something\n", encoding="utf-8")
         self.assertEqual(self.errors(), [])
 
     def test_gap_in_numerals(self) -> None:
-        part = self.root / "core_06_rights_part_a.md"
+        part = self.root / "core_06005_rights_part_a.md"
         part.write_text(part.read_text(encoding="utf-8") + "\n## Article IV\n", encoding="utf-8")
         errors = self.assertRule("FRONT-DOOR-ARTICLES-01")
         self.assertTrue(any("not consecutive" in e for e in errors))
@@ -369,7 +369,7 @@ class QuestionTests(Fixture):
         self.assertTrue(any("README.md" in e for e in errors))
 
     def test_preamble_change_flags_both_pages(self) -> None:
-        self.edit("core_00_preamble.md", "helps others and repairs harm", "helps others and prevents harm")
+        self.edit("core_00000_preamble.md", "helps others and repairs harm", "helps others and prevents harm")
         errors = self.assertRule("FRONT-DOOR-QUESTIONS-01")
         self.assertEqual(len([e for e in errors if "does not quote" in e]), 2)
 
@@ -382,7 +382,7 @@ class QuestionTests(Fixture):
         self.assertEqual(self.errors(), [])
 
     def test_preamble_layout_change_is_loud(self) -> None:
-        (self.root / "core_00_preamble.md").write_text("# Preamble\n", encoding="utf-8")
+        (self.root / "core_00000_preamble.md").write_text("# Preamble\n", encoding="utf-8")
         errors = self.assertRule("FRONT-DOOR-QUESTIONS-01")
         self.assertTrue(any("expected the two numbered" in e for e in errors))
 

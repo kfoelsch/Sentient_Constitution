@@ -27,7 +27,7 @@ GENERATED_REL = "doc_architecture/generated/print_pack.md"
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
 PARTS: tuple[tuple[str, str], ...] = (
-    ("core_00_preamble.md", "Preamble (binding source)"),
+    ("core_00000_preamble.md", "Preamble (binding source)"),
     (
         "doc_architecture/generated/rights_floor_sheet.md",
         "Chapter Six one-liners (generated wall sheet; source articles bind)",
@@ -75,7 +75,7 @@ def render_pack(root: Path) -> str:
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> **Reader guidance (non-operative).** This pack is process support. It is **not** the Constitution. It **cannot narrow** numbered `core_*` files. Opening or printing it is not [Chapter Seventeen §10](../../core_17_amendment_ratification.md#10-ratification-and-adoption) adoption. It does **not** override local, national, or international law ([Chapter Sixteen §5](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). The wall sheet is one sentence per Article; the numbered Chapter Six files bind. If this pack and a source file disagree, the source file wins.",
+        "> **Reader guidance (non-operative).** This pack is process support. It is **not** the Constitution. It **cannot narrow** numbered `core_*` files. Opening or printing it is not [Chapter Seventeen §10](../../core_17000_amendment_ratification.md#10-ratification-and-adoption) adoption. It does **not** override local, national, or international law ([Chapter Sixteen §5](../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). The wall sheet is one sentence per Article; the numbered Chapter Six files bind. If this pack and a source file disagree, the source file wins.",
         "",
         "Human door: [`implementation/PRINT_PACK.md`](../../implementation/PRINT_PACK.md).",
         "",
@@ -88,11 +88,11 @@ def render_pack(root: Path) -> str:
         [
             "",
             "Full Chapter Six source (not inlined here; too long for a first-hour pack): "
-            "[part A](../../core_06_rights_part_a.md), "
-            "[part B](../../core_06_rights_part_b.md), "
-            "[part C](../../core_06_rights_part_c.md), "
-            "[part D](../../core_06_rights_part_d.md), "
-            "[part E](../../core_06_rights_part_e.md).",
+            "[part A](../../core_06005_rights_part_a.md), "
+            "[part B](../../core_06010_rights_part_b.md), "
+            "[part C](../../core_06015_rights_part_c.md), "
+            "[part D](../../core_06020_rights_part_d.md), "
+            "[part E](../../core_06025_rights_part_e.md).",
             "",
         ]
     )

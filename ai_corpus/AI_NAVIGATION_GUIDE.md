@@ -19,8 +19,8 @@ Use `python3 tools/corpus_lookup.py`. Do not open `id_resolver.json` for meaning
    - Do not treat card prose as a duty
 
 2. **ID, topic, or term** → `python3 tools/corpus_lookup.py resolve QUERY`
-   - `CF-10`, `CJS-3.13`, `CS-4`, `CI-12`, `Def.P1`
-   - CJS-0.1 topic rows (`CJS-R09` and the topic string) via `topic-route`
+   - `CF-13.440`, `CJS-5.125 §13`, `CS-14.305`, `CI-13.210`, `Def.P1`
+   - CJS-0.105 §1 topic rows (`CJS-R09` and the topic string) via `topic-route`
    - Chapter Five terms (file + line range; hydrate the source block)
    - Current heading anchors only — `validity --file FILE --anchor '#fragment'`
 
@@ -132,7 +132,7 @@ python3 tools/corpus_lookup.py validity --file FILE --anchor '#fragment'
 
 ## Current corpus shape (do not use retired filenames)
 
-Chapter Five lives in **band and apex files** (`core_05_band_*.md`, `core_05_apex_*.md`), with Part A compass in `core_05__definitions_home.md`. Adopted implementation text lives in **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06_rights_part_*.md`). Standing measurement is **Chapter Nine**; standing effects are **Chapter Ten**.
+Chapter Five lives in **band and apex files** (`core_05_band_*.md`, `core_05_apex_*.md`), with Part A compass in `core_05000_definitions_home.md`. Adopted implementation text lives in **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06_rights_part_*.md`). Standing measurement is **Chapter Nine**; standing effects are **Chapter Ten**.
 
 Inventory of current files: `ai_corpus/visualization/dependency_map.mmd` (generated file list, not a citation-weight graph). Citation edges: `crossref_matrix.json` and `section_crossref.json`.
 
@@ -141,3 +141,8 @@ Retired pilots under `ai_corpus/definitions/` are not a lookup path.
 ---
 
 *This guide enables token-efficient navigation while maintaining the corpus's human-readable plain-language structure.*
+
+
+## Chapter numbers
+
+Use `tools/architecture/chapter_numbers.json` and `tools/architecture/chapter_crosswalk.json` as the numbering and compatibility sources. Resolve anchors from `ai_corpus/indexes/section_manifest.json` and the real Markdown anchor set; do not guess section numbers from filename digits. Regenerate all derived indexes after a source or registry change. A shared legacy ID without section or file context must retain all destinations.

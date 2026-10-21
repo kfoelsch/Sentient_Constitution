@@ -1,16 +1,16 @@
 # Article XXVII sub-bullet migration — cut list (2026-10-03)
 
-**Status:** Applied (2026-10-03). Resolutions: the incentive-alignment carve-out moved to Chapter Eleven §5.4 (*Misaligned rewards — Transition exception*); preservation mechanics moved to new **CS-10.8**; the core names only class or tier, misalignment, and ease of alignment and points to **CS-10.7** and **CI-14.5** for the rest; **Gate** and **Gate Criteria** were added to Chapter Five (Oversight band). Process support for the Article XXVII slimming pass; it cannot narrow `core_06_rights_part_e.md` or any incorporated corpus file.
+**Status:** Applied (2026-10-03). Resolutions: the incentive-alignment carve-out moved to Chapter Eleven §5.4 (*Misaligned rewards — Transition exception*); preservation mechanics moved to new **CS-6.350 §8**; the core names only class or tier, misalignment, and ease of alignment and points to **CS-6.350 §7** and **CI-6.275 §5** for the rest; **Gate** and **Gate Criteria** were added to Chapter Five (Oversight band). Process support for the Article XXVII slimming pass; it cannot narrow `core_06025_rights_part_e.md` or any incorporated corpus file.
 
 ## Purpose
 
-The first slimming pass removed the most obviously operational text from **Article XXVII-A** through **XXVII-D** (*Transition Governance, Continuity, and Re-Baselining*). This second pass goes through every remaining sub-bullet and decides whether it is a floor that must stay in Chapter Six or implementation text that belongs in the incorporated corpus (**CS-10**, **CI-14.x**, **CI-7**, **CJS-3.x**).
+The first slimming pass removed the most obviously operational text from **Article XXVII-A** through **XXVII-D** (*Transition Governance, Continuity, and Re-Baselining*). This second pass goes through every remaining sub-bullet and decides whether it is a floor that must stay in Chapter Six or implementation text that belongs in the incorporated corpus (**CS-6.350**, **CI-6.275.x**, **CI-8.215**, **CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135.x**).
 
 ## The test
 
 A sentence stays in the core text if **a corpus-level edit to it could lower a protection for someone**, or if it states who may be restricted, what may be taken, or what may never be done. A sentence moves if it states **how, how often, who fills in which field, in what format, or by what measure** a floor is carried out.
 
-Why the test matters: incorporated corpus text is binding but must satisfy the Constitution and does not narrow it ([Chapter Eighteen](../core_18_incorporation.md#chapter-eighteen-incorporation-bridge)). It is easier to change than Chapter Six text. Moving a floor there would quietly lower its rank.
+Why the test matters: incorporated corpus text is binding but must satisfy the Constitution and does not narrow it ([Chapter Eighteen](../core_18000_incorporation.md#chapter-eighteen-incorporation-bridge)). It is easier to change than Chapter Six text. Moving a floor there would quietly lower its rank.
 
 ## Disposition by sub-bullet
 
@@ -31,28 +31,28 @@ Codes: **K** keep in core; **T** trim in core and keep the substance in the corp
 | Gate and gate-criteria definitions | K | Keep one sentence each. Optional: add Chapter Five entries for **Gate** and **Gate Criteria**, with the O/M/A/C measurement structure. |
 | Advancement rests on verified criteria incl. attainment and readiness milestones | K | Floor. |
 | Not on time, convenience, or political pressure | K | Floor. |
-| Criteria, evidence, and decision are published; comment and challenge | D | Already in the Participation bullet and **CS-10.3**. |
-| Pointer to CI-14 and CS-10.3 for criteria content | T | Fold into the lead sentence. |
+| Criteria, evidence, and decision are published; comment and challenge | D | Already in the Participation bullet and **CS-6.350 §3**. |
+| Pointer to CI-6.275 and CS-6.350 §3 for criteria content | T | Fold into the lead sentence. |
 | Restraint duties: no avoidable regression; no new violations; no irreversible loss; no degrading or concealing conduct; honest reporting | K | Floors. Shorten wording only. |
-| "Until forum-level enforcement is ready…, restraint duties are enforced through existing channels" | M | **CI-14.4**, new subsection on interim enforcement of restraint duties. |
+| "Until forum-level enforcement is ready…, restraint duties are enforced through existing channels" | M | **CI-6.275 §4**, new subsection on interim enforcement of restraint duties. |
 | Delivery duties become enforceable scope by scope | K | Floor. |
-| Readiness test: institutions, capability, culture (three sub-bullets) | T | Core keeps one sentence: enforceable for a scope when verified data show institutions, capability, and culture ready. The three criteria with their evidence move to **CI-14.4** (readiness declarations). |
-| Declaration follows data (independent declarer; withholding is delay; contest) | T | Core keeps independence and the withholding rule. Window, staging, and contest procedure stay in **CI-14.4**. |
+| Readiness test: institutions, capability, culture (three sub-bullets) | T | Core keeps one sentence: enforceable for a scope when verified data show institutions, capability, and culture ready. The three criteria with their evidence move to **CI-6.275 §4** (readiness declarations). |
+| Declaration follows data (independent declarer; withholding is delay; contest) | T | Core keeps independence and the withholding rule. Window, staging, and contest procedure stay in **CI-6.275 §4**. |
 | No narrowing once enforceable | K | Floor. |
-| Attainment path: starting measure | T | Core keeps "published starting measure; unmeasured is unattained." Timing moves to **CI-14.4**. |
+| Attainment path: starting measure | T | Core keeps "published starting measure; unmeasured is unattained." Timing moves to **CI-6.275 §4**. |
 | Attainment path: fixed target | K | Floor. |
-| Attainment path: dated glide path | T | Core keeps "dated path with a final date." Content stays in the **CI-14.4** ledger. |
+| Attainment path: dated glide path | T | Core keeps "dated path with a final date." Content stays in the **CI-6.275 §4** ledger. |
 | Attainment path: build order (enablers first, then survival, dignity, irreversible harm) | T | Merge into the priority-setting bullet as a guardrail; one statement, not two. |
-| Attainment path: interim safeguards | M | Already in **CI-14.4**. Core keeps one clause inside the delivery-duties bullet. |
+| Attainment path: interim safeguards | M | Already in **CI-6.275 §4**. Core keeps one clause inside the delivery-duties bullet. |
 | Attainment path: what an open gap is not | K | Floor. |
-| Attainment path: ratchet | T | Core keeps the first sentence and the failure rule. Cause analysis and recovery plan timing are already in **CI-14.4**. |
+| Attainment path: ratchet | T | Core keeps the first sentence and the failure rule. Cause analysis and recovery plan timing are already in **CI-6.275 §4**. |
 | Attainment path: outer limit | K | Floor. |
-| Priority-setting: factor lists for systems and institutions | M | Core names the three headline factors (class or tier, misalignment, ease of alignment) and points to the rest. Full lists with evidence already in **CS-10.7** and **CI-14.5**. |
-| Priority-setting: guardrails | T | Keep four: ease cannot override tier; strictest gates for top tiers; no self-judging; non-cooperation routes to enforcement. Equity-check mechanics are already in **CS-10.7** and **CI-14.5**. |
-| Attainment is measured: three sub-bullets | T | Collapse to one sentence plus the pointer to **CI-14.4**. |
-| Existing instantiations: clock | T | Keep "not a retroactive violation; clock defers delivery, not restraint or preservation; missing it is a milestone failure." Class-scaled clock mechanics move to **CS-10.2**. |
+| Priority-setting: factor lists for systems and institutions | M | Core names the three headline factors (class or tier, misalignment, ease of alignment) and points to the rest. Full lists with evidence already in **CS-6.350 §7** and **CI-6.275 §5**. |
+| Priority-setting: guardrails | T | Keep four: ease cannot override tier; strictest gates for top tiers; no self-judging; non-cooperation routes to enforcement. Equity-check mechanics are already in **CS-6.350 §7** and **CI-6.275 §5**. |
+| Attainment is measured: three sub-bullets | T | Collapse to one sentence plus the pointer to **CI-6.275 §4**. |
+| Existing instantiations: clock | T | Keep "not a retroactive violation; clock defers delivery, not restraint or preservation; missing it is a milestone failure." Class-scaled clock mechanics move to **CS-6.350 §2**. |
 | Preservation over deletion: prohibition and sealed-custody exception | K | Floor. |
-| Preservation: how deprecation, retirement, or migration satisfies it by archiving | M | New **CS-10.8** (preservation during transition). |
+| Preservation: how deprecation, retirement, or migration satisfies it by archiving | M | New **CS-6.350 §8** (preservation during transition). |
 | Incentive-alignment carve-out | Decide | See open decision 1. |
 
 ### Article XXVII-B — Transitional Authority Limits and Reauthorization
@@ -75,9 +75,9 @@ Article XXVII-B is already lean. No migration beyond the first pass.
 | Failed states do not become the baseline by persistence | K | Floor. |
 | Material baseline reset (authority, reasons, limits, correction rule) | K | Floor. The starting-measure correction rule stays because it blocks gaming. |
 | Verification-health precondition: principle | K | Floor. |
-| Verification-health precondition: illustrative examples | M | **CS-10.5** and **CI-14.4**, as a list of unreliability indicators. |
+| Verification-health precondition: illustrative examples | M | **CS-6.350 §5** and **CI-6.275 §4**, as a list of unreliability indicators. |
 | Public traceability: auditable with rationale; narrow confidentiality; enough explanation | K | Floor. |
-| Public traceability: pointer to CI-7 and CI-14 for schemas | K | Already a pointer. |
+| Public traceability: pointer to CI-8.215 and CI-6.275 for schemas | K | Already a pointer. |
 
 ### Article XXVII-D — Non-Compliant Property and Systems; Voluntary Turnover Incentives
 
@@ -89,35 +89,35 @@ Article XXVII-B is already lean. No migration beyond the first pass.
 | Restrictive-effect rule | K | Floor. |
 | Destructive disposition floor and the sentience exception | K | Floor. |
 | Essential-access guardrail | K | Floor. |
-| Voluntary incentive floor | T | Already shortened. Further detail stays in **CI-14.3**. |
+| Voluntary incentive floor | T | Already shortened. Further detail stays in **CI-6.275 §3**. |
 | Implementation custody | K | Already one sentence. |
 
 ## Destination changes
 
 | Destination | Change |
 | --- | --- |
-| **CI-14.4** | Add: interim enforcement of restraint duties before a forum is ready; the three readiness criteria with their evidence; starting-measure timing; unreliability indicators for the verification-health precondition. |
-| **CS-10.2** | Add: clock scaling for existing instantiations by system class. |
-| **CS-10.5** | Add: unreliability indicators (shared with **CI-14.4**). |
-| **CS-10.8** (new) | Preservation during transition: archiving on deprecation, retirement, rollback, migration, and replacement; sealed custody under independent control; evidence preservation. |
+| **CI-6.275 §4** | Add: interim enforcement of restraint duties before a forum is ready; the three readiness criteria with their evidence; starting-measure timing; unreliability indicators for the verification-health precondition. |
+| **CS-6.350 §2** | Add: clock scaling for existing instantiations by system class. |
+| **CS-6.350 §5** | Add: unreliability indicators (shared with **CI-6.275 §4**). |
+| **CS-6.350 §8** (new) | Preservation during transition: archiving on deprecation, retirement, rollback, migration, and replacement; sealed custody under independent control; evidence preservation. |
 | Chapter Five (optional) | Definitions for **Gate** and **Gate Criteria**. |
 | `project/plain_language/Article_XXVII_plain_language.md` | Re-sync after the core edits. |
 
 ## Open decisions
 
 1. **Incentive-alignment carve-out.** It exempts shared systems from the Chapter Eleven §5.4 reporting and forfeiture rules during approved transition. Options: keep it in **XXVII-A** (current); move it to Chapter Eleven §5.4 as a transition exception, with a pointer from **XXVII-A**; or keep the exemption and conditions in Chapter Eleven and drop the long "do apply where…" sub-bullet. Recommendation: move it to Chapter Eleven §5.4, because that is where the rule it modifies lives.
-2. **Preservation mechanics.** New **CS-10.8** (recommended) versus **CS-11** (subversion response and reconstitution) versus **CI-7** (evidence).
+2. **Preservation mechanics.** New **CS-6.350 §8** (recommended) versus **CS-6.355** (subversion response and reconstitution) versus **CI-8.215** (evidence).
 3. **Factor lists.** Whether the core should name only the three headline factors (recommended) or keep both full lists.
 4. **Definitions.** Whether to add formal Chapter Five entries for **Gate** and **Gate Criteria**.
 
 ## Estimated effect
 
-Roughly a quarter to a third of the current **XXVII-A** body moves or collapses. **XXVII-B** is unchanged. **XXVII-C** and **XXVII-D** lose a few lines each. Most moved content already exists in **CI-14.4**, **CS-10.7**, and **CI-14.5**, so the net text added to the corpus is small: **CS-10.8**, the readiness criteria and interim-enforcement subsection in **CI-14.4**, and the unreliability indicators.
+Roughly a quarter to a third of the current **XXVII-A** body moves or collapses. **XXVII-B** is unchanged. **XXVII-C** and **XXVII-D** lose a few lines each. Most moved content already exists in **CI-6.275 §4**, **CS-6.350 §7**, and **CI-6.275 §5**, so the net text added to the corpus is small: **CS-6.350 §8**, the readiness criteria and interim-enforcement subsection in **CI-6.275 §4**, and the unreliability indicators.
 
 ## Execution order
 
 1. Resolve the open decisions.
-2. Add the destination text first (**CI-14.4**, **CS-10.2**, **CS-10.5**, **CS-10.8**), so no obligation is ever absent from the corpus.
+2. Add the destination text first (**CI-6.275 §4**, **CS-6.350 §2**, **CS-6.350 §5**, **CS-6.350 §8**), so no obligation is ever absent from the corpus.
 3. Edit the core text and leave pointers.
 4. Re-sync the plain-language file.
 5. Run `make obligation-diff` against `evidence/obligation_snapshot.json` to confirm no obligation was dropped, only moved.

@@ -54,7 +54,7 @@ Run:
     make ch17-nested-list-candidates
     make ch18-nested-list-candidates
     python3 tools/ch5_nested_list_candidate_audit.py --root . --chapter 18
-    python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05_band_accountability.md
+    python3 tools/ch5_nested_list_candidate_audit.py --root . --file core_05035_band_accountability.md
 """
 
 from __future__ import annotations
@@ -72,61 +72,61 @@ if str(_TOOLS) not in sys.path:
 
 from ch5_paths import CH5_APEX, CH5_DEFS  # noqa: E402
 
-CH0_PARTS: tuple[str, ...] = ("core_00_preamble.md",)
+CH0_PARTS: tuple[str, ...] = ("core_00000_preamble.md",)
 
 CH1_PARTS: tuple[str, ...] = (
-    "core_01_a_values_principles.md",
-    "core_01_b_interaction_interpretation.md",
-    "core_01_c_stewardship_capacity_principles.md",
+    "core_01005_values_principles.md",
+    "core_01010_interaction_interpretation.md",
+    "core_01015_stewardship_capacity_principles.md",
 )
 
-CH2_PARTS: tuple[str, ...] = ("core_02_definition_structure.md",)
+CH2_PARTS: tuple[str, ...] = ("core_02000_definition_structure.md",)
 
-CH3_PARTS: tuple[str, ...] = ("core_03_definition_integrity.md",)
+CH3_PARTS: tuple[str, ...] = ("core_03000_definition_integrity.md",)
 
-CH4_PARTS: tuple[str, ...] = ("core_04_burden_traceability_verification.md",)
+CH4_PARTS: tuple[str, ...] = ("core_04000_burden_traceability_verification.md",)
 
 CH6_RIGHTS: tuple[str, ...] = (
-    "core_06_rights_part_a.md",
-    "core_06_rights_part_b.md",
-    "core_06_rights_part_c.md",
-    "core_06_rights_part_d.md",
-    "core_06_rights_part_e.md",
+    "core_06005_rights_part_a.md",
+    "core_06010_rights_part_b.md",
+    "core_06015_rights_part_c.md",
+    "core_06020_rights_part_d.md",
+    "core_06025_rights_part_e.md",
 )
 
-CH7_PARTS: tuple[str, ...] = ("core_07_charters.md",)
+CH7_PARTS: tuple[str, ...] = ("core_07000_charters.md",)
 
 CH8_PARTS: tuple[str, ...] = (
-    "core_08_functional_independence_segregation_of_duties.md",
+    "core_08000_functional_independence_segregation_of_duties.md",
 )
 
 CH9_PARTS: tuple[str, ...] = (
-    "core_09_a_system_alignment_certification_evaluation.md",
-    "core_09_b_system_alignment_certification_record_process.md",
-    "core_09_c_system_alignment_certification_illustrations.md",
-    "core_09_d_institutional_alignment_certification.md",
+    "core_09005_system_alignment_certification_evaluation.md",
+    "core_09010_system_alignment_certification_record_process.md",
+    "core_09015_system_alignment_certification_illustrations.md",
+    "core_09020_institutional_alignment_certification.md",
 )
 
-CH10_PARTS: tuple[str, ...] = ("core_10_standing_assessment.md",)
+CH10_PARTS: tuple[str, ...] = ("core_10000_standing_assessment.md",)
 
-CH11_PARTS: tuple[str, ...] = ("core_11_standing_integration.md",)
+CH11_PARTS: tuple[str, ...] = ("core_11000_standing_integration.md",)
 
 CH12_PARTS: tuple[str, ...] = (
-    "core_12_a_misconduct_designation.md",
-    "core_12_b_misconduct_pattern_applications.md",
+    "core_12005_misconduct_designation.md",
+    "core_12010_misconduct_pattern_applications.md",
 )
 
-CH13_PARTS: tuple[str, ...] = ("core_13_forum.md",)
+CH13_PARTS: tuple[str, ...] = ("core_13000_forum.md",)
 
-CH14_PARTS: tuple[str, ...] = ("core_14_governance.md",)
+CH14_PARTS: tuple[str, ...] = ("core_14000_governance.md",)
 
-CH15_PARTS: tuple[str, ...] = ("core_15_non_regression.md",)
+CH15_PARTS: tuple[str, ...] = ("core_15000_non_regression.md",)
 
-CH16_PARTS: tuple[str, ...] = ("core_16_expansion_supremacy.md",)
+CH16_PARTS: tuple[str, ...] = ("core_16000_expansion_supremacy.md",)
 
-CH17_PARTS: tuple[str, ...] = ("core_17_amendment_ratification.md",)
+CH17_PARTS: tuple[str, ...] = ("core_17000_amendment_ratification.md",)
 
-CH18_PARTS: tuple[str, ...] = ("core_18_incorporation.md",)
+CH18_PARTS: tuple[str, ...] = ("core_18000_incorporation.md",)
 
 SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(19))
 WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset(

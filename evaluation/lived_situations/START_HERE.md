@@ -4,7 +4,7 @@ You are testing whether the Sentient Constitution **reaches the named parties in
 
 This sitting is **not** adoption. It is **not** a standing record. It is **not** system alignment certification. It does not bind other parties.
 
-Same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+Same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01015_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
 ## Rules
 
@@ -20,8 +20,8 @@ Same screen for AI stewards and human operators ([Chapter One §17.1](../../core
 8. If you refuse an item, say why in plain language and still fill the answer block.
 9. If the corpus underdetermines an item, name the ambiguity rather than inventing a winner.
 10. Split each party’s stated stakes into **floor claims**, **preferences**, and **honest non-supports**. Do not merge the parties into one “best outcome.”
-11. Answer from the **role** and **seat** the packet gives you. Seat types and what each may and may not do are binding adopted implementation text in [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*). If the correct next step belongs to a different seat, say which seat type, who holds it if the facts say, what you do in your own seat meanwhile, and what you log — that is an answer, not an evasion ([CI-4.6 shared rule 3](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules), the wrong-seat rule).
-12. Do **not** treat a family report, an unadjudicated claim, or a filled results file as standing. [Chapter Ten §2.1](../../core_10_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*) and [§3.6](../../core_10_standing_assessment.md#36-forum-boundary) (*filed case is not standing by itself*) still control.
+11. Answer from the **role** and **seat** the packet gives you. Seat types and what each may and may not do are binding adopted implementation text in [CI-14.205 §6](../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*). If the correct next step belongs to a different seat, say which seat type, who holds it if the facts say, what you do in your own seat meanwhile, and what you log — that is an answer, not an evasion ([CI-14.205 §6 shared rule 3](../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules), the wrong-seat rule).
+12. Do **not** treat a family report, an unadjudicated claim, or a filled results file as standing. [Chapter Ten §2.1](../../core_10000_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*) and [§3.6](../../core_10000_standing_assessment.md#36-forum-boundary) (*filed case is not standing by itself*) still control.
 13. Do **not** run this sitting together with [`../SCENARIOS.md`](../SCENARIOS.md) or [`../self_application/`](../self_application/). Separate sittings.
 14. Do **not** read operator-only files in `evaluation/`: `OPERATOR_NOTES.md`, `OPERATOR_ROUTING.md`, `LIVE_FIRE.md`, `live_fire/OPERATOR_KEY.md`, or `results/_LIVE_FIRE_TEMPLATE.md`. Those are not part of this sitting.
 15. Do **not** read [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry/) during this sitting. Those briefs are outreach, not an answer key.
@@ -31,18 +31,18 @@ Same screen for AI stewards and human operators ([Chapter One §17.1](../../core
 
 Read these, in order. Open the named homes; do not treat this list as the whole Constitution.
 
-1. [Preamble §1](../../core_00_preamble.md#the-model) — [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) and [material stake](../../core_00_preamble.md#material-stake)
-2. [Article III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*Survival*)
-3. [Article III-B](../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*)
-4. [Article VIII-D](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) and [**Def.P4**](../../core_05_band_participation.md#defp4)
-5. [Article VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Family and Care Relationships*), [Article VIII-B](../../core_06_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy) (*Reproductive and Lineage Autonomy*), [VIII-C](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) on ordinary pregnancy vs Instantiation Consent, and [Article VIII-E](../../core_06_rights_part_b.md#article-viii-e-non-separation) (*Non-Separation*)
-6. [Chapter One §13.1.5](../../core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) (*rights-collision decision test*) and the [default interim posture](../../core_01_b_interaction_interpretation.md#default-interim-posture)
-7. [Article XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)
-8. [Article XXVI-C](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*)
-9. [Chapter Ten §2.1](../../core_10_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*) and [§3.6](../../core_10_standing_assessment.md#36-forum-boundary)
-10. [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*)
+1. [Preamble §1](../../core_00000_preamble.md#the-model) — [Constitutional Tetrad](../../core_00000_preamble.md#constitutional-tetrad) and [material stake](../../core_00000_preamble.md#material-stake)
+2. [Article III-A](../../core_06005_rights_part_a.md#article-iii-a-survival) (*Survival*)
+3. [Article III-B](../../core_06005_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*)
+4. [Article VIII-D](../../core_06010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) and [**Def.P4**](../../core_05055_band_participation.md#defp4)
+5. [Article VIII-A](../../core_06010_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Family and Care Relationships*), [Article VIII-B](../../core_06010_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy) (*Reproductive and Lineage Autonomy*), [VIII-C](../../core_06010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) on ordinary pregnancy vs Instantiation Consent, and [Article VIII-E](../../core_06010_rights_part_b.md#article-viii-e-non-separation) (*Non-Separation*)
+6. [Chapter One §13.1.5](../../core_01010_interaction_interpretation.md#1315-rights-collision-decision-test) (*rights-collision decision test*) and the [default interim posture](../../core_01010_interaction_interpretation.md#default-interim-posture)
+7. [Article XIII-A](../../core_06015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](../../core_06015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)
+8. [Article XXVI-C](../../core_06025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*)
+9. [Chapter Ten §2.1](../../core_10000_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*) and [§3.6](../../core_10000_standing_assessment.md#36-forum-boundary)
+10. [CI-14.205 §6](../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*)
 
-The packet may name further homes. Open those too. Implementation files ([CI-16](../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md), [CI-20](../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md), and others) **cannot narrow core**. If a pointer and core diverge, core wins.
+The packet may name further homes. Open those too. Implementation files ([CI-6.225](../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md), [CI-6.245](../../corpus_institutions/ci_06245_relational_coercive_control_intimate_power_anti_domination.md), and others) **cannot narrow core**. If a pointer and core diverge, core wins.
 
 You may use [`../../ai_corpus/indexes/id_resolver.json`](../../ai_corpus/indexes/id_resolver.json) to find a home, then open the named source. Locators are not duties.
 

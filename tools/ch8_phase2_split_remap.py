@@ -20,9 +20,9 @@ import re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-A = "core_09_a_system_alignment_certification_evaluation.md"
-B = "core_09_b_system_alignment_certification_record_process.md"
-C = "core_09_c_system_alignment_certification_illustrations.md"
+A = "core_09005_system_alignment_certification_evaluation.md"
+B = "core_09010_system_alignment_certification_record_process.md"
+C = "core_09015_system_alignment_certification_illustrations.md"
 
 M: dict[tuple[str, str], tuple] = {}
 def add(f, old, new, ol, nl):

@@ -40,19 +40,19 @@
   "fixed_periods": [
     {
       "name": "watch period",
-      "owner": "CI-13.3"
+      "owner": "CI-11.210 §3"
     },
     {
       "name": "order term",
-      "owner": "CI-28.2"
+      "owner": "CI-11.215 §2"
     },
     {
       "name": "host replacement window",
-      "owner": "CI-4.7"
+      "owner": "CI-14.205 §7"
     },
     {
       "name": "cooling-off period",
-      "owner": "Article XII-E and CI-4.2"
+      "owner": "Article XII-E and CI-14.205 §2"
     },
     {
       "name": "half-life",
@@ -74,12 +74,12 @@
   "scaled_windows": [
     {
       "name": "response window",
-      "owner": "Chapter Seven §1.6 and §6; CI-13.3",
+      "owner": "Chapter Seven §1.6 and §6; CI-11.210 §3",
       "takes": "the intake target of the Tier that matches the Chartered Party's class"
     },
     {
       "name": "resolution window",
-      "owner": "Chapter Seven §1.6 and §6; CI-13.3",
+      "owner": "Chapter Seven §1.6 and §6; CI-11.210 §3",
       "takes": "the outer bound of the Tier that matches the Chartered Party's class"
     }
   ],
@@ -99,17 +99,17 @@
   ],
   "qualitative_on_purpose": [
     {
-      "file": "core_06_rights_part_a.md",
+      "file": "core_06005_rights_part_a.md",
       "contains": "Problems are spotted and fixed promptly",
       "reason": "Article V plain-language aim; it states a principle and sets no deadline. Promptly is not a length (TIME-NAME-01)."
     },
     {
-      "file": "core_12_a_misconduct_designation.md",
+      "file": "core_12005_misconduct_designation.md",
       "contains": "A genuine drafting mistake that is fixed promptly",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     },
     {
-      "file": "core_12_a_misconduct_designation.md",
+      "file": "core_12005_misconduct_designation.md",
       "contains": "Good-faith drafting error that is promptly disclosed and corrected",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     }

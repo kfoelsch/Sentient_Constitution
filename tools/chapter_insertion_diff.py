@@ -11,20 +11,20 @@ import re
 
 
 PATH_RENAMES = {
-    "core_08-11_application_vignettes.md": "core_10-13_application_vignettes.md",
-    "core_07_a_system_alignment_certification_evaluation.md": "core_09_a_system_alignment_certification_evaluation.md",
-    "core_07_b_system_alignment_certification_record_process.md": "core_09_b_system_alignment_certification_record_process.md",
-    "core_07_system_alignment_certification.md": "core_09_system_alignment_certification.md",
-    "core_08_standing_assessment.md": "core_10_standing_assessment.md",
-    "core_09_standing_integration.md": "core_11_standing_integration.md",
-    "core_10_a_misconduct_designation.md": "core_12_a_misconduct_designation.md",
-    "core_10_b_misconduct_pattern_applications.md": "core_12_b_misconduct_pattern_applications.md",
-    "core_11_forum.md": "core_13_forum.md",
-    "core_12_governance.md": "core_14_governance.md",
-    "core_13_non_regression.md": "core_15_non_regression.md",
-    "core_14_expansion_supremacy.md": "core_16_expansion_supremacy.md",
-    "core_15_amendment_ratification.md": "core_17_amendment_ratification.md",
-    "core_16_incorporation.md": "core_18_incorporation.md",
+    "core_08-11_application_vignettes.md": "core_10005_application_vignettes.md",
+    "core_07_a_system_alignment_certification_evaluation.md": "core_09005_system_alignment_certification_evaluation.md",
+    "core_07_b_system_alignment_certification_record_process.md": "core_09010_system_alignment_certification_record_process.md",
+    "core_07_system_alignment_certification.md": "core_09000_system_alignment_certification.md",
+    "core_08_standing_assessment.md": "core_10000_standing_assessment.md",
+    "core_09_standing_integration.md": "core_11000_standing_integration.md",
+    "core_10_a_misconduct_designation.md": "core_12005_misconduct_designation.md",
+    "core_10_b_misconduct_pattern_applications.md": "core_12010_misconduct_pattern_applications.md",
+    "core_11_forum.md": "core_13000_forum.md",
+    "core_12_governance.md": "core_14000_governance.md",
+    "core_13_non_regression.md": "core_15000_non_regression.md",
+    "core_14_expansion_supremacy.md": "core_16000_expansion_supremacy.md",
+    "core_15_amendment_ratification.md": "core_17000_amendment_ratification.md",
+    "core_16_incorporation.md": "core_18000_incorporation.md",
 }
 
 NUMBER_WORDS = {
@@ -122,8 +122,8 @@ def forward_insert_chapter_seven(text: str) -> str:
     text = _replace_paths(text)
     text = _replace_chapter_references(text)
     text = text.replace(
-        "core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties",
-        "core_08_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor",
+        "core_01015_stewardship_capacity_principles.md#102-segregation-of-duties",
+        "core_08000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor",
     )
     text = text.replace(
         "Chapter One §10.2 Segregation of Duties",

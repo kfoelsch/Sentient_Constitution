@@ -798,6 +798,16 @@
       "category": "tests",
       "run": "auto",
       "writes": false
+    },
+    "chapter-number-audit": {
+      "category": "hygiene",
+      "run": "auto",
+      "writes": false
+    },
+    "chapter-number-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
     }
   }
 }

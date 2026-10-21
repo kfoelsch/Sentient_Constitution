@@ -29,18 +29,18 @@ from definition_index import (  # noqa: E402
 )
 
 
-CH0_FILE = "core_00_preamble.md"
+CH0_FILE = "core_00000_preamble.md"
 CH1_FILES = [
-    "core_01_a_values_principles.md",
-    "core_01_b_interaction_interpretation.md",
-    "core_01_c_stewardship_capacity_principles.md",
+    "core_01005_values_principles.md",
+    "core_01010_interaction_interpretation.md",
+    "core_01015_stewardship_capacity_principles.md",
 ]
 CH6_FILES = [
-    "core_06_rights_part_a.md",
-    "core_06_rights_part_b.md",
-    "core_06_rights_part_c.md",
-    "core_06_rights_part_d.md",
-    "core_06_rights_part_e.md",
+    "core_06005_rights_part_a.md",
+    "core_06010_rights_part_b.md",
+    "core_06015_rights_part_c.md",
+    "core_06020_rights_part_d.md",
+    "core_06025_rights_part_e.md",
 ]
 
 TETRAD_TERMS = ["participation", "oversight", "accountability", "timeliness"]

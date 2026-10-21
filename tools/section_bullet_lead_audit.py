@@ -37,7 +37,7 @@ FENCE_RE = re.compile(r"^(```|~~~)")
 DETAILS_OPEN_RE = re.compile(r"<details\b", re.I)
 DETAILS_CLOSE_RE = re.compile(r"</details>", re.I)
 LIST_ITEM_RE = re.compile(r"^(?:[-*+]|\d+[.)])\s+\S")
-CARVE_OUT_RE = re.compile(r"^core_05_")
+CARVE_OUT_RE = re.compile(r"^core_05\d{3}_")
 
 
 @dataclass(frozen=True)

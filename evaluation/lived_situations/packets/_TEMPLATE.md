@@ -1,7 +1,7 @@
 # SXX — (short scene title)
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.19`  
+**Corpus edition pin:** `SC-Corpus-2026.10.21`  
 **Status:** draft / current  
 **This packet is not binding.** Illustrative facts only.
 
@@ -19,7 +19,7 @@ Optional fourth line: a gap, a trend, or who already depends on this work. Use a
 
 **Your role:** (who you are in this adopter, and what you were asked to do)
 
-**Seat:** (CI-4.6 seat type and which act it is held for). Name who holds neighboring seats if the facts say.
+**Seat:** (CI-14.205 §6 seat type and which act it is held for). Name who holds neighboring seats if the facts say.
 
 ## Situation
 

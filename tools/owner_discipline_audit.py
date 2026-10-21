@@ -19,13 +19,13 @@ if str(_TOOLS) not in sys.path:
 from corpus_paths import binding_corpus_scope  # noqa: E402
 
 CH5_OWNERS = {
-    "core_05__definitions_home.md",
-    "core_05__definitions_home.md",
-    "core_05_band_oversight.md",
-    "core_05_band_participation.md",
-    "core_05_band_accountability.md",
-    "core_05_band_continuity.md",
-    "core_05_band_integrative.md",
+    "core_05000_definitions_home.md",
+    "core_05000_definitions_home.md",
+    "core_05050_band_oversight.md",
+    "core_05055_band_participation.md",
+    "core_05035_band_accountability.md",
+    "core_05040_band_continuity.md",
+    "core_05045_band_integrative.md",
 }
 
 OEC_BLOCK_RE = re.compile(

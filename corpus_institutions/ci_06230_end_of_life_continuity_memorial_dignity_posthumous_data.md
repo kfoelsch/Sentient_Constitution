@@ -1,0 +1,75 @@
+# CI-6.230: End-of-life continuity, memorial dignity, and posthumous-data stewardship
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Eighteen](../core_18000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-6.230** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00205_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream:
+  - [CJS-0.110 §3](../corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
+  - [CJS-0.105 §1](../corpus_joint_structure/cjs_00105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [Chapter Eighteen](../core_18000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline;
+  - [Chapter Five](../core_05000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions; and
+  - [Chapter Six](../core_06005_rights_part_a.md#chapter-six-foundational-rights) (6.005) rights architecture where rights interfaces are invoked.
+- Read with: **CI-6.230** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*); **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Irreversible Deprivation Measure](../core_05035_band_accountability.md#irreversible-deprivation-measure) · [O](../core_05035_band_accountability.md#irreversible-deprivation-measure) · [M](../core_05035_band_accountability.md#irreversible-deprivation-measure-constitutional-a) · [A](../core_05035_band_accountability.md#irreversible-deprivation-measure-constitutional-a) · [C](../core_05035_band_accountability.md#irreversible-deprivation-measure-constitutional-c)
+- [Voluntary Discontinuation](../core_05040_band_continuity.md#voluntary-discontinuation) · [O](../core_05040_band_continuity.md#voluntary-discontinuation) · [M](../core_05040_band_continuity.md#voluntary-discontinuation-constitutional-a) · [A](../core_05040_band_continuity.md#voluntary-discontinuation-constitutional-a) · [C](../core_05040_band_continuity.md#voluntary-discontinuation-constitutional-c)
+- [Accessibility](../core_05055_band_participation.md#accessibility) · [O](../core_05055_band_participation.md#accessibility) · [M](../core_05055_band_participation.md#accessibility-constitutional-a) · [A](../core_05055_band_participation.md#accessibility-constitutional-a) · [C](../core_05055_band_participation.md#accessibility-constitutional-c)
+- [Transparency](../core_05050_band_oversight.md#transparency) · [O](../core_05050_band_oversight.md#transparency) · [M](../core_05050_band_oversight.md#transparency-a) · [A](../core_05050_band_oversight.md#transparency-a) · [C](../core_05050_band_oversight.md#transparency-c)
+- [Material](../core_05050_band_oversight.md#material) · [O](../core_05050_band_oversight.md#material) · [M](../core_05050_band_oversight.md#material-a) · [A](../core_05050_band_oversight.md#material-a) · [C](../core_05050_band_oversight.md#material-c)
+- [Consent](../core_05055_band_participation.md#consent) · [O](../core_05055_band_participation.md#consent) · [M](../core_05055_band_participation.md#consent-constitutional-a) · [A](../core_05055_band_participation.md#consent-constitutional-a) · [C](../core_05055_band_participation.md#consent-constitutional-c)
+- [Dignity and Equal Moral Standing](../core_05055_band_participation.md#dignity-and-equal-moral-standing) · [O](../core_05055_band_participation.md#dignity-and-equal-moral-standing) · [M](../core_05055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../core_05055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../core_05055_band_participation.md#dignity-and-equal-moral-standing-c)
+
+</details>
+
+<br>
+
+Core home: 06
+
+This file is the institutional implementation home for **CI-6.230** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
+
+*In plain terms: **CI-6.230** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*) is the local owner map for dying, mourning, and posthumous records, likeness, and wishes. Shared floors live in **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*); this file names who holds advance directives, who routes palliative access, and who enforces posthumous likeness controls.*
+
+**Quick orientation**
+- **The basic idea** — dying, mourning, and post-death stewardship are continuity problems: records, wishes, access routes, and dignity must survive the transition.
+- **Advance planning** — advance instructions and substitute decision-maker records must have a named custodian and an auditable chain from creation through incapacity.
+- **Care at the end of life** — palliative and bodily-maintenance access routing must stay practical under **Article III-B** (*Bodily-Maintenance and Healthcare Access*); billing, network, or administrative gates cannot quietly block comfort care.
+- **Memorial and disposition** — memorial files, disposition choices, and grief or cultural-practice accommodation must have named owners and contest routes.
+- **After death** — posthumous likeness and experiential-data controls must honor **Article IX** (*Likeness, Experiential Data, and Publication Rights*) defaults and documented wishes; posthumous data retention follows **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*) lifecycle rules.
+- **Hard limits** — voluntary discontinuation under **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*) is distinct from involuntary deprivation categorically forbidden under **Article XX-B** (*Restriction Floors*); crisis-intervention floors under **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) are not narrowed.
+- **Read with** — **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility.
+
+*Shared rules live elsewhere.*
+- [**CJS-5.130 §18**](../corpus_joint_structure/cjs_05130_continuity_operations.md#substitutability-exit-constraints-and-mitigation-duties-c) (*data-retention and lifecycle-integrity terms*).
+- **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*); **Article IX** (*Likeness, Experiential Data, and Publication Rights*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article XX-B** (*Restriction Floors*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) (not narrowed here).
+
+**Apply.** Apply **CJS-5.130 §18** (*Continuity: data-retention and lifecycle-integrity terms*) for the shared posthumous-data and continuity floor. **CI-6.230** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*) states only the local owner duties below.
+
+**Local end-of-life and posthumous-stewardship role map**
+Each institution in scope must name the office or body responsible for:
+- **advance-instruction custody** — who receives, stores, versions, and honors advance directives, living wills, and comparable end-of-life instructions while the sentient can still update them;
+- **substitute decision-maker records** — who maintains the official file for designated agents, guardians, or comparable substitute decision-makers, including scope, activation triggers, and challenge routes;
+- **palliative access routing** — who routes bodily-maintenance and comfort-care requests through billing, network, eligibility, and referral gates so **Article III-B** (*Bodily-Maintenance and Healthcare Access*) access is not defeated in practice;
+- **memorial and disposition files** — who holds memorial preferences, burial or disposition choices, and comparable post-death handling records with auditable custody;
+- **grief and cultural-practice accommodation** — who coordinates leave, ritual space, bereavement support, and culturally specific mourning practices without treating grief as a scheduling inconvenience; and
+- **posthumous likeness or experiential-data controls** — who enforces **Article IX** (*Likeness, Experiential Data, and Publication Rights*) defaults and documented wishes for likeness, voice, synthetic depiction, and experiential or derived data after death, including retention, deletion, and secondary-use limits under **CJS-5.130 §18** (*data-retention and lifecycle-integrity terms*).
+Read **CI-6.205** (*Transparency, participation, and accessible challenge and service pathways*) for participation and accessibility interfaces.
+
+---
+
+**Previous file:** [ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md](ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md)
+
+**Next file:** [ci_06235_collective_public_health_epidemic_response_addiction_informed_care.md](ci_06235_collective_public_health_epidemic_response_addiction_informed_care.md)

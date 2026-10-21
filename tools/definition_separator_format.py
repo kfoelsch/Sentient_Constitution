@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Canonical ``---`` placement for Chapter Five and CJS-3 definition files.
+"""Canonical ``---`` placement for Chapter Five and CJS operational cluster definition files.
 
-Architecture (CH5-FORMAT / CJS-1.14): one horizontal rule between reader
+Architecture (CH5-FORMAT / CJS-5.140 §14): one horizontal rule between reader
 units. Anchors for the next heading sit *after* that rule, not a second
 rule under the title. Double/triple stacks from retired Part B/C files
 are not used on the current band / oDef files.
@@ -78,7 +78,7 @@ def normalize_heading_separators(text: str) -> str:
     """Rewrite heading preambles to the canonical single-``---`` shape.
 
     Does not invent a ``---`` unless the heading already had one or is a
-    trace-bearing sibling (CH5-FORMAT). CJS-1.14 treats ``---`` as a cluster
+    trace-bearing sibling (CH5-FORMAT). CJS-5.140 §14 treats ``---`` as a cluster
     delimiter, so new rules are not inserted in front of ordinary subsections.
     """
     newline = "\n" if "\r\n" not in text else "\r\n"
@@ -131,7 +131,7 @@ def normalize_heading_separators(text: str) -> str:
             and not body_has_content
         )
         # Invent a missing rule only for Chapter Five leaf titles (#### / #####).
-        # CJS-1.14 treats --- as a cluster delimiter, so ## / ### must not gain
+        # CJS-5.140 §14 treats --- as a cluster delimiter, so ## / ### must not gain
         # a new rule just because they carry Trace.
         invent = unit["trace"] and unit["level"] is not None and unit["level"] >= 4
         need_hr = not first_child and (unit["had_hr"] or invent)

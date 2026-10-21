@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""NAV-IMPL-FILENAME-01: adopted-implementation files share a numeric prefix only as chapter parts.
-
-Undifferenced ``cjs_02_foo.md`` and ``cjs_02_bar.md`` are not parts of one chapter.
-Same-chapter extras need a discriminator: glued letter (``cjs_03o_``) or CS-style
-part letter (``cs_02_a_``). Family ``01`` is the unique scope page for that layer.
-"""
+"""NAV-IMPL-FILENAME-01: adopted-implementation files use their five-digit IDs."""
 
 from __future__ import annotations
 
@@ -25,11 +20,7 @@ ADOPTED_IMPLEMENTATION_DIRS = (
 )
 
 NUMBERED_PREFIX_RE = re.compile(r"^(cjs|cs|ci|cf)_\d", re.I)
-ADOPTED_IMPLEMENTATION_FILE_RE = re.compile(
-    r"^(cjs|cs|ci|cf)_(\d{2,})(?:([a-z]+)|_([a-z]))?_(.+)\.md$",
-    re.I,
-)
-SINGLETON_FAMILIES = {"01"}
+ADOPTED_IMPLEMENTATION_FILE_RE = re.compile(r"^(cjs|cs|ci|cf)_(\d{5})_(.+)\.md$", re.I)
 
 
 @dataclass(frozen=True)
@@ -53,9 +44,8 @@ def parse_adopted_implementation_filename(name: str) -> AdoptedImplementationNam
     match = ADOPTED_IMPLEMENTATION_FILE_RE.fullmatch(name)
     if not match:
         return None
-    layer, number, glued, us_letter, rest = match.groups()
-    part = (glued or us_letter or "").lower()
-    return AdoptedImplementationName(layer.lower(), number, part, rest, name)
+    layer, number, rest = match.groups()
+    return AdoptedImplementationName(layer.lower(), number, "", rest, name)
 
 
 def iter_adopted_implementation_filenames(root: Path) -> list[str]:
@@ -91,26 +81,9 @@ def audit_filenames(names: list[str]) -> list[str]:
         by_part[item.part_key].append(item)
 
     for (layer, number), files in sorted(by_family.items()):
-        homes = [item for item in files if not item.part]
-        parts = [item for item in files if item.part]
-        if number in SINGLETON_FAMILIES and len(files) > 1:
+        if len(files) > 1:
             listed = ", ".join(item.filename for item in files)
-            findings.append(
-                f"{layer}_{number}: family 01 is the unique scope page; "
-                f"found {len(files)} files: {listed}"
-            )
-            continue
-        if len(homes) > 1:
-            listed = ", ".join(item.filename for item in homes)
-            findings.append(
-                f"{layer}_{number}: multiple undifferenced files share this prefix; "
-                f"same-chapter extras need a part letter ({listed})"
-            )
-        if number in SINGLETON_FAMILIES and parts:
-            listed = ", ".join(item.filename for item in parts)
-            findings.append(
-                f"{layer}_{number}: family 01 may not use part letters ({listed})"
-            )
+            findings.append(f"{layer}_{number}: duplicate chapter number ({listed})")
 
     for key, files in sorted(by_part.items()):
         if not key[2] or len(files) < 2:

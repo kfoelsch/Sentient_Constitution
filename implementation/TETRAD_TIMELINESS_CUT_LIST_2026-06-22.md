@@ -1,16 +1,16 @@
 # Constitutional Tetrad / timeliness integration cut list
 
 **Date:** 2026-06-22  
-**Scope:** Elevate **timeliness** to fourth leg of [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); wire stewardship timely repair; extend Ch6–9 standing pipeline maps; add classification and non-recurrence hooks.
+**Scope:** Elevate **timeliness** to fourth leg of [Constitutional Tetrad](../core_00000_preamble.md#constitutional-tetrad); wire stewardship timely repair; extend Ch6–9 standing pipeline maps; add classification and non-recurrence hooks.
 
 ## New anchors
 
 | Anchor | Home |
 |--------|------|
-| `#constitutional-tetrad` | [core_00_preamble.md](../core_00_preamble.md) — four legs |
-| `#timeliness-constitutional` | [core_05_band_accountability.md](../core_05_band_accountability.md) — principle-layer timeliness leg |
-| `#vignette-stewardship-delay-deferred-repair` | [core_10-13_application_vignettes.md](../core_10-13_application_vignettes.md#4-stewardship-delay-and-deferred-repair) |
-| `#vignette-pipeline-overrun-tetrad-hollow` | [core_10-13_application_vignettes.md](../core_10-13_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums) |
+| `#constitutional-tetrad` | [core_00000_preamble.md](../core_00000_preamble.md) — four legs |
+| `#timeliness-constitutional` | [core_05035_band_accountability.md](../core_05035_band_accountability.md) — principle-layer timeliness leg |
+| `#vignette-stewardship-delay-deferred-repair` | [core_10005_application_vignettes.md](../core_10005_application_vignettes.md#4-stewardship-delay-and-deferred-repair) |
+| `#vignette-pipeline-overrun-tetrad-hollow` | [core_10005_application_vignettes.md](../core_10005_application_vignettes.md#5-pipeline-overrun-and-tetrad-hollow-forums) |
 
 ## Terminology
 
@@ -23,20 +23,20 @@
 
 ## Files touched (operative)
 
-- `core_00_preamble.md`
-- `core_05_band_accountability.md` — Timeliness; Timely Resolution upstream link
-- `core_05__definitions_home.md` — compass entry
-- `core_05_band_continuity.md` — stewardship cluster timeliness hooks
+- `core_00000_preamble.md`
+- `core_05035_band_accountability.md` — Timeliness; Timely Resolution upstream link
+- `core_05000_definitions_home.md` — compass entry
+- `core_05040_band_continuity.md` — stewardship cluster timeliness hooks
 - `core_01_b_stewardship_capacity_principles.md` — §6 stewardship timeliness
-- `core_10_standing_assessment.md` — compass, dual-use delay dimension
-- `core_11_standing_integration.md` — Chapter One §15.10 remedy-commencement row
-- `core_12_a_misconduct_designation.md` — tetrad capture
-- `core_13_forum.md` — timeliness leg in forum trace
+- `core_10000_standing_assessment.md` — compass, dual-use delay dimension
+- `core_11000_standing_integration.md` — Chapter One §15.10 remedy-commencement row
+- `core_12005_misconduct_designation.md` — tetrad capture
+- `core_13000_forum.md` — timeliness leg in forum trace
 - Corpus-wide Tetrad propagation (core Ch1–15, CJS/CI/CF/CS registries)
-- `corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md` — **T** finding-profile code
+- `corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md` — **T** finding-profile code
 - `tools/architecture/lexical_guardrails.json`
 - `doc_architecture.md`, `README.md`
-- `core_10-13_application_vignettes.md`
+- `core_10005_application_vignettes.md`
 - `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` — RS-TETRAD-TIMELINESS-001/002
 
 ## Verification

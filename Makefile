@@ -144,6 +144,16 @@ corpus-markdown-audit:
 corpus-markdown-audit-test:
 	$(PYTHON) tools/test_corpus_markdown_audit.py
 
+chapter-number-audit:
+	$(PYTHON) tools/chapter_number_audit.py --root .
+
+chapter-number-audit-test:
+	$(PYTHON) tools/test_chapter_numbering_migration.py
+
+.PHONY: core-numbering-content-proof
+core-numbering-content-proof:
+	$(PYTHON) tools/core_numbering_content_proof.py
+
 local-markdown-fragment-audit:
 	$(PYTHON) tools/local_markdown_fragment_audit.py --root .
 
@@ -449,6 +459,8 @@ pages-deploy-gate:
 		conflict-marker-audit \
 		conflict-marker-audit-test \
 		reference-audit \
+		chapter-number-audit \
+		chapter-number-audit-test \
 		local-markdown-fragment-audit \
 		external-link-audit \
 		corpus-markdown-audit \

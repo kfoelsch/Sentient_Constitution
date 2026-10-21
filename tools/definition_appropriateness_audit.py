@@ -2,7 +2,7 @@
 """Unified definition appropriateness audit for the Sentient Constitution corpus.
 
 Verifies constitutional definitions live in core Chapter Five files and
-cross-implementation operational definitions live in CJS-3, with implementation
+cross-implementation operational definitions live in CJS operational cluster, with implementation
 layers applying rather than redefining canonical terms.
 
 Produces:
@@ -247,7 +247,7 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             findings,
             check="CORE-TRACE",
             term=gap.get("principle", ""),
-            current_layer="core_01_a_values_principles.md",
+            current_layer="core_01005_values_principles.md",
             line=0,
             message=gap.get("issue", "Principle missing definition anchors"),
             severity="error",
@@ -298,7 +298,7 @@ def run_cjs_placement(root: Path, findings: list[Finding]) -> int:
             message=message,
             severity="error",
             expected_layer="corpus_joint_structure/cjs_03*.md",
-            action="relocate to CJS-3",
+            action="relocate to CJS operational cluster",
         )
     return len(hits)
 
@@ -352,7 +352,7 @@ def run_cjs_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             line=int(gap.get("line", 0)),
             message=gap.get("issue", "Cluster inventory mismatch"),
             severity="error",
-            expected_layer="CJS-3.2–CJS-3.23 inventory",
+            expected_layer="CJS-5.110 §2–CJS-5.135 §23 inventory",
             action="fix cluster heading inventory",
         )
     return counts
@@ -365,7 +365,7 @@ def run_cjs_constitutional_creep(
 ) -> int:
     count = 0
     for cluster in clusters:
-        if cluster.cluster_id in {"CJS-3.0", "CJS-3.1"}:
+        if cluster.cluster_id in {"CJS-5.105 §0", "CJS-5.105 §1"}:
             continue
         for rule in cluster.rules:
             key = normalize_term_label(rule.label)
@@ -383,7 +383,7 @@ def run_cjs_constitutional_creep(
                     current_layer=cluster.file,
                     line=rule.line,
                     message=(
-                        f"CJS-3 rule label matches Chapter Five term {ch5.term!r} "
+                        f"CJS operational cluster rule label matches Chapter Five term {ch5.term!r} "
                         f"but lacks explicit Chapter Five pointer; risk of competing constitutional gloss."
                     ),
                     severity="review",
@@ -722,7 +722,7 @@ def build_matrix_rows(
         )
 
     for cluster in cjs3_clusters:
-        if cluster.cluster_id in {"CJS-3.0", "CJS-3.1"}:
+        if cluster.cluster_id in {"CJS-5.105 §0", "CJS-5.105 §1"}:
             continue
         ids = [
             f.finding_id
@@ -765,7 +765,7 @@ def write_report(output_dir: Path, run: AuditRun, ledger: dict[str, Any]) -> Pat
         "| Metric | Result |",
         "|---|---:|",
         f"| Chapter Five terms indexed | {len(run.ch5_entries)} |",
-        f"| CJS-3 clusters indexed | {len(run.cjs3_clusters)} |",
+        f"| CJS operational cluster clusters indexed | {len(run.cjs3_clusters)} |",
         f"| Findings this run | {len(run.findings)} |",
         f"| Ledger open findings | {open_count} |",
         f"| Ledger stale findings | {stale_count} |",
@@ -791,7 +791,7 @@ def write_report(output_dir: Path, run: AuditRun, ledger: dict[str, Any]) -> Pat
             "",
             "## Manual Review Notes",
             "",
-            "Review CJS-3.7–5.10, 5.11–5.13, 5.16–5.18, and 5.19–5.21 cluster families for semantic adequacy.",
+            "Review CJS-5.120 §7–5.10, 5.11–5.13, 5.16–5.18, and 5.19–5.21 cluster families for semantic adequacy.",
             "Treat `weak_trace` and `IMPL-RELOCATION` hits as advisory unless escalation to Chapter Five is indicated.",
             "`IMPL-RELOCATION` scopes to **CI** sections with relocation score >= 16 on operative body text (CS/CF owner layers excluded; see `ci-cjs-relocation-audit`).",
             "Update `evidence/definition_audit/ledger.json` statuses (`accepted`, `deferred`, `resolved`) after triage.",

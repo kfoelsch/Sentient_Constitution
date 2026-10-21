@@ -4,10 +4,10 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.10.19`
+> **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_17000_amendment_ratification.md#10-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -39,25 +39,25 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Unpaid care is treated as your private hobby: no rest-break, no backup when you are sick. The job that keeps the child alive does not count until it is waged.
 - **With this Constitution:** A body that has agreed to follow this Constitution has to name who routes rest-breaks, who counts unpaid care, and who takes reports of pressure.
 
-See: [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md).
+See: [CI-6.225](../../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md).
 
 **Survival is not the wage for parenting.**
 - **Today:** If you cannot make the schedule work, you are told to accept a household that will “help” by taking decisions over the child. Keep the child and lose the basic protections, or keep those protections and surrender care.
 - **With this Constitution:** Essential survival access cannot be made to depend on working, buying premium services, or unpaid care labor.
 
-See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) as CI-16 names it.
+See: [Article III-A](../../../core_06005_rights_part_a.md#article-iii-a-survival); [CI-9.210 §4](../../../corpus_institutions/ci_09210_classification_linked_institutional_obligations.md) as CI-6.225 names it.
 
 **Family form is not a lesser tier.**
 - **Today:** Someone hints that a single-parent home is already a risk. Single parent, chosen family, or non-marital care is treated as incomplete and therefore easier to override.
 - **With this Constitution:** You may form, keep, and leave family and care relationships of your choosing. A one-parent home is not itself a reason to take the child. A lasting split from a child you care for is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again.
 
-See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation).
+See: [Article VIII-A](../../../core_06010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05055_band_participation.md#non-separation).
 
 **The child’s interests are not a spare argument for the other adult’s convenience.**
 - **Today:** “For the child” is used to move the child, change who they live with, or put another adult in charge — without asking what actually helps this child, and without asking them as far as they can show what they want.
 - **With this Constitution:** Those decisions have to be about this child’s own interests, including what they can show they want — not about a quieter house, a “complete” family, or an easier adult schedule. Calling it “for the child” is not enough.
 
-See: [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
+See: [Article VIII-D](../../../core_06010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
 
 ## What you might reasonably object to
 
@@ -65,11 +65,11 @@ See: [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developin
 
 - **“They’ll use ‘best interest’ to take my kid because I’m tired.”** What is actually in the child’s interests is not operator or household convenience, and it is not a license to treat exhaustion from unsupported care as neglect. Verified harm is a different showing from “the other adult has a quieter house.”
 
-- **“This isn’t law where I live.”** Correct until a qualifying body records a formal agreement to follow this Constitution. It does not override applicable family or housing law ([Chapter Sixteen §5](../../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law)).
+- **“This isn’t law where I live.”** Correct until a qualifying body records a formal agreement to follow this Constitution. It does not override applicable family or housing law ([Chapter Sixteen §5](../../../core_16000_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
 - **“I want the other parent out of the picture.”** Protected care relationships run both ways. This text will not make another adult disappear to settle a preference contest.
 
-- **“Work already treats parenting as my scheduling problem.”** The labor protection is in play when scheduling is used to defeat healthcare or survival access ([Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)). It does not rewrite every gig platform’s shift board for comfort.
+- **“Work already treats parenting as my scheduling problem.”** The labor protection is in play when scheduling is used to defeat healthcare or survival access ([Article III-C](../../../core_06005_rights_part_a.md#article-iii-c-labor-and-economic-floor)). It does not rewrite every gig platform’s shift board for comfort.
 
 ## What this will not pretend to give you
 

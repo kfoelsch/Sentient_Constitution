@@ -16,14 +16,14 @@ WIDGETS = (
 
 
 class SectionBulletLeadTests(unittest.TestCase):
-    def _lines(self, text: str, rel_path: str = "core_06_rights_part_a.md") -> list[int]:
+    def _lines(self, text: str, rel_path: str = "core_06005_rights_part_a.md") -> list[int]:
         return [finding.line for finding in scan_text(rel_path, text)]
 
     def test_flags_bullet_after_widgets_and_gloss(self) -> None:
         text = "#### Article III-D: Safe Working Conditions\n\n" + WIDGETS + (
             "- **Safe working conditions:** Productive activity must be safe.\n"
         )
-        findings = scan_text("core_06_rights_part_a.md", text)
+        findings = scan_text("core_06005_rights_part_a.md", text)
         self.assertEqual(len(findings), 1)
         self.assertEqual(findings[0].heading, "Article III-D: Safe Working Conditions")
         self.assertTrue(findings[0].preview.startswith("- **Safe"))
@@ -57,10 +57,10 @@ class SectionBulletLeadTests(unittest.TestCase):
         self.assertEqual(len(self._lines(text)), 1)
 
     def test_chapter_five_files_are_carved_out(self) -> None:
-        self.assertTrue(is_carved_out("core_05_band_continuity.md"))
-        self.assertTrue(is_carved_out("core_05__definitions_home.md"))
-        self.assertTrue(is_carved_out("core_05_apex_flourishing_aim.md"))
-        self.assertFalse(is_carved_out("core_06_rights_part_a.md"))
+        self.assertTrue(is_carved_out("core_05040_band_continuity.md"))
+        self.assertTrue(is_carved_out("core_05000_definitions_home.md"))
+        self.assertTrue(is_carved_out("core_05015_apex_flourishing_aim.md"))
+        self.assertFalse(is_carved_out("core_06005_rights_part_a.md"))
         self.assertFalse(is_carved_out("corpus_systems/cs_05_safety.md"))
 
 

@@ -2,7 +2,7 @@
 
 This file is a **pointer**. It is not the Constitution. It cannot narrow numbered `core_*` files.
 
-- **Edition:** `SC-Corpus-2026.10.19` (effective 2026-10-19). **Pre-release.** Not adoption.
+- **Edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21). **Pre-release.** Not adoption.
 - **Public door:** [README.md](README.md). Adopters and operators: [START_HERE.md](START_HERE.md).
 - **Indexes point. Source binds.** Do not open `ai_corpus/indexes/id_resolver.json` for meaning. Do not treat a locator, gloss, or steward card as a duty.
 
@@ -36,7 +36,7 @@ Working files stay out of the repo root: plain-language companions go in `projec
 
 Front doors (README, START_HERE, ANNOUNCEMENT, `llms.txt`, `docs/index.md`): when you change something they count or quote (edition, chapter or Article numbers, translations, the Two Fundamental Questions, a `make` target, the fit list), update them in the same commit and run `make front-door-audit` (**FRONT-DOOR-01** in [doc_architecture.md](doc_architecture.md)). The edition label is the current date until the announcement: move it with `make edition-bump` (dry run: `python3 tools/bump_edition.py --root .`), not by hand. Section labels in their links are checked by `make section-label-anchor-audit` (**FRONT-DOOR-LABEL-01**).
 
-Translations: Anthropic models (Claude) are not currently related to the translation work (steward note, 2026-10-20). Do not assume that files under `translations/`, `tools/translation_preannouncement.py`, or `project/translation_drafts/` come from a Claude session, and do not edit, sync, or commit them as part of English edits. Translations are paused (see `project/MEMLOG.md`, Standing Decisions).
+Translations: Anthropic models (Claude) are not currently related to the translation work (steward note, 2026-10-20). Do not assume that files under `translations/`, translation work, or `project/translation_drafts/` come from a Claude session, and do not edit, sync, or commit them as part of English edits. Translations are paused (see `project/MEMLOG.md`, Standing Decisions).
 
 Renumbering or renaming Articles: also update the Mermaid charts that list them (**VIS-CHART-SYNC-03** in [doc_architecture.md](doc_architecture.md#chart-sync-on-renumbering-vis-chart-sync-03)).
 
@@ -51,3 +51,5 @@ Always leave the checkout on the current branch: a branch whose pull request has
 Pull requests: the Claude Code UI auto-generates PR bodies and can mislabel them (wrong lane, "no change of meaning", wrong model). After a PR is created, correct the body so it says what changed and which files were touched.
 
 **Lanes are not enforced before the announcement (custodian decision, 2026-10-07).** The repo is pre-release, so the `CONTRIBUTING.md` lane gates (Proposal issue, obligation snapshot/diff, evidence folder, Test 1 self-check) do not block merging. Keep `make regression` green and the PR body accurate. The lanes apply after the announcement.
+
+Chapter numbering: use `tools/architecture/chapter_numbers.json` as the source; never derive chapter numbers by splitting filename digits. After an intentional renumbering, update every front door and Mermaid chart that lists the changed chapters, regenerate indexes, run `make chapter-number-audit`, `make chapter-number-audit-test`, and `make audit-report`. Preserve translation files and translation work.

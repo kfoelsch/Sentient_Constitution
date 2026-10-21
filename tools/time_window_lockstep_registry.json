@@ -2,12 +2,12 @@
   "rule": "TIME-LOCK-01",
   "note": "Where the tier windows are owned, and every copy that must follow them. Numbers live in the owners, never here. Add a copy here when a section quotes the tier figures; the audit reads the owners and rebuilds the copy.",
   "sources": {
-    "stage_table": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md",
-    "outer_bounds": "core_13_forum.md"
+    "stage_table": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md",
+    "outer_bounds": "core_13000_forum.md"
   },
   "tables": [
     {
-      "file": "core_07_charters.md",
+      "file": "core_07000_charters.md",
       "header": ["Class and Tier", "Response window (intake target)", "Resolution window (outer bound)"],
       "rows": {
         "Class A, Tier A": "A",
@@ -18,8 +18,8 @@
     }
   ],
   "phrases": [
-    { "file": "core_13_forum.md" },
-    { "file": "corpus_forum/cf_11_performance_backlog_publication_accessibility.md" },
+    { "file": "core_13000_forum.md" },
+    { "file": "corpus_forum/cf_13445_performance_backlog_publication_accessibility.md" },
     { "file": "guides/CONCEPTUAL_OVERVIEW.md" }
   ]
 }

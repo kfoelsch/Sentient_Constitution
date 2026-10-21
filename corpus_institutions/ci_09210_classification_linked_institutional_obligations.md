@@ -1,0 +1,255 @@
+# CI-9.210: Classification-linked institutional obligations
+
+<details>
+<summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
+
+> This file is **binding incorporated implementation text** where [`corpus_institutions.md`](../corpus_institutions.md) is incorporated under [Chapter Eighteen](../core_18000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CI-9.210** (*Classification-linked institutional obligations*).
+>
+> Start at the [Institutions landing page](../corpus_institutions.md) for reading order, or the [institutions registry](ci_00205_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream:
+  - [CJS-0.110 §3](../corpus_joint_structure/cjs_00110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract;
+  - [CJS-0.105 §1](../corpus_joint_structure/cjs_00105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router;
+  - [Chapter Eighteen](../core_18000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000) incorporation discipline;
+  - [Chapter Five](../core_05000_definitions_home.md#chapter-five-foundational-definitions) (5.000) canonical definitions; and
+  - [Chapter Six](../core_06005_rights_part_a.md#chapter-six-foundational-rights) (6.005) rights architecture where rights interfaces are invoked.
+- Downstream: [CI-9.210 §1: Formation proportionality](#ci-9210-1-formation-proportionality); [CI-9.210 §2: Published industry and domain mapping](#ci-9210-2-published-industry-and-domain-mapping); [CI-9.210 §3: Delegated subunits, institutional design class, and attachment discipline](#ci-9210-3-delegated-subunits-institutional-design-class-and-attachment-discipline).
+- Read with:
+  - **CI-9.210** (*Classification-linked institutional obligations*);
+  - **CI-9.210 §1** (*Formation proportionality*);
+  - **CI-8.215** (*Oversight, assurance, controls, and evidence*);
+  - **CI-9.210 §2** (*Published industry and domain mapping*);
+  - **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*);
+  - **CI-9.210 §3.1** (*Identification and competence*);
+  - **CI-9.210 §3.2** (*Authority composition*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Authority Stack and Internal Hierarchy](../core_05045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](../core_05045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](../core_05045_band_integrative.md#authority-stack-a) · [A](../core_05045_band_integrative.md#authority-stack-a) · [C](../core_05045_band_integrative.md#authority-stack-c)
+- [Constitutional Constraint](../core_05045_band_integrative.md#constitutional-constraint) · [O](../core_05045_band_integrative.md#constitutional-constraint) · [M](../core_05045_band_integrative.md#constitutional-constraint-a) · [A](../core_05045_band_integrative.md#constitutional-constraint-a) · [C](../core_05045_band_integrative.md#constitutional-constraint-c)
+- [Classification-Scaled Governance](../core_05050_band_oversight.md#classification-scaled-governance) · [O](../core_05050_band_oversight.md#classification-scaled-governance) · [M](../core_05050_band_oversight.md#classification-scaled-governance-a) · [A](../core_05050_band_oversight.md#classification-scaled-governance-a) · [C](../core_05050_band_oversight.md#classification-scaled-governance-c)
+- [Collective Organization](../core_05055_band_participation.md#collective-organization) · [O](../core_05055_band_participation.md#collective-organization) · [M](../core_05055_band_participation.md#collective-organization-constitutional-a) · [A](../core_05055_band_participation.md#collective-organization-constitutional-a) · [C](../core_05055_band_participation.md#collective-organization-constitutional-c)
+- [Business Creation](../core_05055_band_participation.md#business-creation) · [O](../core_05055_band_participation.md#business-creation) · [M](../core_05055_band_participation.md#business-creation-constitutional-a) · [A](../core_05055_band_participation.md#business-creation-constitutional-a) · [C](../core_05055_band_participation.md#business-creation-constitutional-c)
+- [Proportionality](../core_05035_band_accountability.md#proportionality) · [O](../core_05035_band_accountability.md#proportionality) · [M](../core_05035_band_accountability.md#proportionality-a) · [A](../core_05035_band_accountability.md#proportionality-a) · [C](../core_05035_band_accountability.md#proportionality-c)
+- [System Creation](../core_05055_band_participation.md#system-creation) · [O](../core_05055_band_participation.md#system-creation) · [M](../core_05055_band_participation.md#system-creation-constitutional-a) · [A](../core_05055_band_participation.md#system-creation-constitutional-a) · [C](../core_05055_band_participation.md#system-creation-constitutional-c)
+- [Dependency](../core_05040_band_continuity.md#dependency) · [O](../core_05040_band_continuity.md#dependency) · [M](../core_05040_band_continuity.md#dependency-a) · [A](../core_05040_band_continuity.md#dependency-a) · [C](../core_05040_band_continuity.md#dependency-c)
+- [Oversight](../core_05020_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05020_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05020_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05020_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05020_apex_oversight_leg.md#oversight-constitutional-c)
+- [Risk](../core_05040_band_continuity.md#risk) · [O](../core_05040_band_continuity.md#risk) · [M](../core_05040_band_continuity.md#risk-a) · [A](../core_05040_band_continuity.md#risk-a) · [C](../core_05040_band_continuity.md#risk-c)
+- [Auditability](../core_05050_band_oversight.md#auditability) · [O](../core_05050_band_oversight.md#auditability) · [M](../core_05050_band_oversight.md#auditability-a) · [A](../core_05050_band_oversight.md#auditability-a) · [C](../core_05050_band_oversight.md#auditability-c)
+- [Corpus](../core_05045_band_integrative.md#corpus) · [O](../core_05045_band_integrative.md#corpus) · [M](../core_05045_band_integrative.md#corpus-a) · [A](../core_05045_band_integrative.md#corpus-a) · [C](../core_05045_band_integrative.md#corpus-c)
+- [Governance](../core_05035_band_accountability.md#governance) · [O](../core_05035_band_accountability.md#governance) · [M](../core_05035_band_accountability.md#governance-a) · [A](../core_05035_band_accountability.md#governance-a) · [C](../core_05035_band_accountability.md#governance-c)
+- [Material Impact](../core_05050_band_oversight.md#material-impact) · [O](../core_05050_band_oversight.md#material-impact) · [M](../core_05050_band_oversight.md#material-impact-a) · [A](../core_05050_band_oversight.md#material-impact-a) · [C](../core_05050_band_oversight.md#material-impact-c)
+- [Transparency](../core_05050_band_oversight.md#transparency) · [O](../core_05050_band_oversight.md#transparency) · [M](../core_05050_band_oversight.md#transparency-a) · [A](../core_05050_band_oversight.md#transparency-a) · [C](../core_05050_band_oversight.md#transparency-c)
+- [Material](../core_05050_band_oversight.md#material) · [O](../core_05050_band_oversight.md#material) · [M](../core_05050_band_oversight.md#material-a) · [A](../core_05050_band_oversight.md#material-a) · [C](../core_05050_band_oversight.md#material-c)
+- [System](../core_05040_band_continuity.md#system) · [O](../core_05040_band_continuity.md#system) · [M](../core_05040_band_continuity.md#system-definition-a) · [A](../core_05040_band_continuity.md#system-definition-a) · [C](../core_05040_band_continuity.md#system-definition-c)
+- [Contestability](../core_05035_band_accountability.md#contestability) · [O](../core_05035_band_accountability.md#contestability) · [M](../core_05035_band_accountability.md#contestability-a) · [A](../core_05035_band_accountability.md#contestability-a) · [C](../core_05035_band_accountability.md#contestability-c)
+- [Epistemic Integrity](../core_05050_band_oversight.md#epistemic-integrity) · [O](../core_05050_band_oversight.md#epistemic-integrity) · [M](../core_05050_band_oversight.md#epistemic-integrity-a) · [A](../core_05050_band_oversight.md#epistemic-integrity-a) · [C](../core_05050_band_oversight.md#epistemic-integrity-c)
+- [Procedural Fairness](../core_05055_band_participation.md#procedural-fairness) · [O](../core_05055_band_participation.md#procedural-fairness) · [M](../core_05055_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05055_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05055_band_participation.md#procedural-fairness-constitutional-c)
+- [Review and Correction Duty](../core_05040_band_continuity.md#review-and-correction-duty) · [O](../core_05040_band_continuity.md#review-and-correction-duty) · [M](../core_05040_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../core_05040_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../core_05040_band_continuity.md#review-and-correction-duty-constitutional-c)
+- [System Capture](../core_05040_band_continuity.md#system-capture) · [O](../core_05040_band_continuity.md#system-capture) · [M](../core_05040_band_continuity.md#system-capture-a) · [A](../core_05040_band_continuity.md#system-capture-a) · [C](../core_05040_band_continuity.md#system-capture-c)
+- [Emergency and Contingency](../core_05040_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05040_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05040_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05040_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05040_band_continuity.md#emergency-and-contingency-constitutional-c)
+- [Necessity](../core_05035_band_accountability.md#necessity) · [O](../core_05035_band_accountability.md#necessity) · [M](../core_05035_band_accountability.md#necessity-a) · [A](../core_05035_band_accountability.md#necessity-a) · [C](../core_05035_band_accountability.md#necessity-c)
+
+</details>
+
+<br>
+
+Core home: 09
+
+This file is the institutional implementation home for **CI-9.210** (*Classification-linked institutional obligations*).
+
+*In plain terms: **CI-9.210** (*Classification-linked institutional obligations*) is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations must not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-5.125 §11** (*distributed and proportional authority terms*), **CJS-5.130 §16** (*dependency integrity and disclosure terms*), and **CJS-5.125 §12** (*burden-of-justification and constraint terms*); delegated-body composition rules live in **CJS-18.110 §1** (*Hybrid delegated authority (delegated binding bodies)*). What this file adds is local: what each institution must publish and maintain locally.*
+
+**Quick orientation**
+- **The basic idea** — when an institution's duties depend on system class under **CS-9.305 and CS-9.310** (*System classification machinery*) or stewardship tier under **CS-14.305** (*Critical system stewardship*), apply the burden with the [Fullest Protective Effect](../core_05045_band_integrative.md#fullest-protective-effect) that fits the affected scope. You cannot use a lower class label to dodge stronger duties.
+- **CI-9.210 §1** — formation and authorization burdens that scale with impact: easy paths for low-risk (**Class P**) contexts, deeper diligence for high-dependency (**Class A** / **Class B**) contexts.
+- **CI-9.210 §2** — a published map of which industries and domains the institution supervises, how they are classified, and when reclassification is required.
+- **CI-9.210 §3** — rules for delegated subunits and hybrid decision bodies: who they are, what they may decide, how members are composed, and how long rotating or home-based terms run.
+- **CI-9.210 §4** — how institutional mechanisms connect essential-access floors and voluntary markets without conditioning survival on labor or premium purchasing (**Article III-A** (*Survival*) interface).
+*In plain terms: classification is not a decorative label. It is the dial that sets how hard institutions must work — and the dial must match reality, stay published, and tighten when dependency or risk grows.*
+
+*Shared rules live elsewhere.* Class- and tier-scaling terms are in **CJS-5.125 §11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9.210** (*Classification-linked institutional obligations*) keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
+Apply **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
+**Constitutional floor for formation**
+The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement [System Creation](../core_05055_band_participation.md#system-creation) (non-commercial institutional formation) and [Business Creation](../core_05055_band_participation.md#business-creation) (commercial entrepreneurial formation), whose formation Rights Floor is [Article XI-E](../core_06010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). These mechanics must not narrow that floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05055_band_participation.md#assembly-collective-organization-and-institutional-formation). **Article X-C** (*Stakeholder Role and Participation Rights*) governs stakeholder participation once the created body's activities are material to others; **Article III-C** (*Labor and Economic Floor*) governs labor and economic protections, including organizing within productive systems.
+
+Formation and authorization mechanics here do not add a licence or clearance to form or run an Operating Party. **Article XI-E** (*Institutional Formation and Business Creation*) sets the two narrow gates on who may hold authority, and its practice licence or practice clearance attaches only to performing a named act for others. An authorization path for a separately conferred function must not become an additional gate on formation itself.
+
+## CI-9.210 §1: Formation proportionality
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-9.210 §1** (*Formation proportionality*); **CI-8.215** (*Oversight, assurance, controls, and evidence*); **CI-8.215 §3** (*Contest-integrity monitoring (Class A and Class B)*).
+
+</details>
+
+<br>
+
+*In plain terms: starting or authorizing an institution must be as easy as the risk allows and as rigorous as the risk requires. A small low-impact group must not face the same paperwork as a body supervising survival-critical systems.*
+
+Apply **CJS-5.125 §11** (*Accountability: distributed and proportional authority terms*) **Formation and authorization proportionality floor** for the shared scaling rule. **CI-9.210 §1** (*Formation proportionality*) keeps only what each formation or authorizing document must publish locally:
+
+- the authorization path — who approves formation and on what basis;
+- the evidence burden — what proof is required before authorization;
+- audit cadence — how often compliance is checked;
+- publication depth — how much the public can see about the body and its duties;
+- continuity-planning depth — how the institution stays operational through disruption;
+- compliance-cost expectations — so burdens are not hidden; and
+- the contest-integrity monitoring route for **Class A** and **Class B** supervised scope (**CI-8.215 §3** (*Contest-integrity monitoring (Class A and Class B)*)).
+
+## CI-9.210 §2: Published industry and domain mapping
+
+*In plain terms: if an institution regulates or supervises whole sectors — food, energy, health, finance, communications, and the like — it must publish a living map of what it oversees, how risky each domain is classified, and when that classification must change. The map is for real planning and proportional burden, not for hiding critical dependencies behind vague labels.*
+
+Apply **CJS-5.130 §16** (*Continuity: dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassification floor. **CI-9.210 §2** (*Published industry and domain mapping*) keeps only what each institution must name and maintain locally:
+
+- who owns the domain map;
+- how often the map is published or refreshed;
+- the local-treatment file explaining how each mapped domain is handled in practice; and
+- the duty to update the map when dependency criticality, cascade risk, or historical treatment changes.
+
+## CI-9.210 §3: Delegated subunits, institutional design class, and attachment discipline
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with:
+  - **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*);
+  - **CI-9.210 §2** (*Published industry and domain mapping*);
+  - **CI-9.210 §3.1** (*Identification and competence*);
+  - **CI-9.210 §3.2** (*Authority composition*);
+  - **CI-9.210 §3.3** (*Rotating authority: attachment bounds*);
+  - **CI-9.210 §3.4** (*Home-based authority: term and renewal*);
+  - **CJS-18.110 §5** (*Shared procedural abstractions for delegated bodies and forum routing*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Thirteen fami…*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-13.405 §5**, **CF-13.405 §8**.
+- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-13.470**.
+- Topic routing (primary owner): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in
+  - **CJS-0.105 §1** (*Topic router*). Mandatory read-with:
+  - **CJS-18.110 §1**,
+  - **CJS-18.110 §5**,
+  - **CJS-5.125 §13**,
+  - **CI-8.205**,
+  - **CJS-5.125 §11**,
+  - **CJS-5.125 §12**.
+
+</details>
+
+<br>
+
+*In plain terms: when an institution creates a subunit or hybrid decision body to share authority, the rules must be written down before sentients serve — who the parent is, what the subunit may decide, who sits on it, how long they serve, and what safeguards stop the subunit from becoming a shadow power structure.*
+
+Apply **CJS-18.110 §1** (*Hybrid delegated authority (delegated binding bodies)*) and **CJS-18.110 §5** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*) through **CI-9.210 §3.4** (*Home-based authority: term and renewal*) state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **CS-9.305 and CS-9.310 — System classification and handling** class.
+
+## CI-9.210 §3.1: Identification and competence
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-9.210 §3.1** (*Identification and competence*); **CI-13.205** (*Procedure integrity, contestability, and secondary review*).
+
+</details>
+
+<br>
+
+*In plain terms: every delegated subunit must be clearly labeled — who it reports to, what it may decide, and what qualifications its members need. A subunit cannot become a back door that skips normal challenge routes or forum routing.*
+
+Each formation or authorizing document must state:
+
+- the **parent institution** and the **lane** (constitutional, statutory, or published policy boundary) within which the subunit operates;
+- the subunit's **subject-matter scope**;
+- the **competence profile** expected for service in the subunit.
+
+Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-13.205** (*Procedure integrity, contestability, and secondary review*) contest pathways, or [Chapter Thirteen](../core_13000_forum.md#chapter-thirteen-forums-and-jurisdiction) routing where adjudication applies.
+
+## CI-9.210 §3.2: Authority composition
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with:
+  - **CI-9.210 §3.2** (*Authority composition*);
+  - **CI-9.210 §3.1** (*Identification and competence*);
+  - **CI-9.210 §3.3** (*Rotating authority: attachment bounds*);
+  - **CI-9.210 §3.4** (*Home-based authority: term and renewal*);
+  - **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*);
+  - **CI-8.215 §2** (*External assurance triggers*);
+  - **CI-13.210** (*Cross-institution coordination and escalation*).
+
+</details>
+
+<br>
+
+*In plain terms: hybrid bodies must follow the shared composition rules in **CJS-18.110 §1** (*Hybrid delegated authority (delegated binding bodies)*). If a local document uses a different deciding-group balance or different hybrid staging, it must publish substitute anti-capture safeguards and, for high-impact **Class A** and **Class B** scope, get outside review or a published independent cross-institution arrangement first.*
+
+Delegated subunits in scope must satisfy **CJS-18.110 §1** (*Hybrid delegated authority (delegated binding bodies)*). **CI-9.210 §3.2** (*Authority composition*) keeps only:
+
+- the institutional route for alternative hybrid designs within **CJS-18.110 §1** (*Hybrid delegated authority (delegated binding bodies)*);
+- the duty to publish substitute capture safeguards proportionate to institutional design class under **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*); and
+- the external-assurance or **CI-13.210** (*Cross-institution coordination and escalation*) independent-review requirement where that departure affects **Class A** or **Class B** scope.
+
+Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the document must publish substitute capture safeguards proportionate to institutional design class under **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-8.215 §2** (*External assurance triggers*), or a published **CI-13.210** (*Cross-institution coordination and escalation*) functionally independent review arrangement.
+
+An ordinary alternative must retain both home-based and rotating authority across the decision workflow under **CJS-18.110 §1.1** (*Composition floor*). Publishing substitute safeguards or obtaining assurance does not authorize an entirely home-based or entirely rotating ordinary workflow.
+
+## CI-9.210 §3.3: Rotating authority: attachment bounds
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-9.210 §3.3** (*Rotating authority: attachment bounds*); **CJS-18.110 §1.2** (*Attachment publication*); **CI-8.215 §2** (*External assurance triggers*).
+
+</details>
+
+<br>
+
+*In plain terms: publish bounded rules for rotating service. For Class C, one calendar year is a suggested ordinary maximum; for Class B, publish minimum and maximum terms; for Class A, one calendar year is the expected ordinary maximum, and a longer ceiling needs the external assurance or participation described below.*
+
+Apply **CJS-18.110 §1.2** (*Attachment publication*) for shared rotating-attachment requirements (bounded formula, no undefined duration discretion, illustration status, and continuity relationship to home-based terms).
+
+**Scaling by institutional design class:**
+
+- **Class C** — suggested guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the document publishes a longer ceiling and a brief justification.
+- **Class B** — maximum and minimum attachment rules must be **published**; **undefined discretion** over duration is **non-compliant**.
+- **Class A** — the ordinary **maximum** of **one calendar year** for a single rotating attachment spell is **expected**; any **longer** published ceiling requires **independent external assurance** or **documented external participation** in the approval record under **CI-8.215 §2** (*External assurance triggers*).
+
+## CI-9.210 §3.4: Home-based authority: term and renewal
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-9.210 §3.4** (*Home-based authority: term and renewal*); **CJS-18.110 §1.2** (*Attachment publication*).
+
+</details>
+
+<br>
+
+*In plain terms: "home-based" members — those with a stable seat on the body — also need published term, renewal, and stagger rules so continuity is planned, not accidental. Those rules do not have to mirror the rotating-member formula, but they must be written down.*
+
+Apply **CJS-18.110 §1.2** (*Attachment publication*) for shared home-based continuity requirements (published term, renewal, and stagger rules and no mirror requirement relative to rotating formulas). **CI-9.210 §3.4** (*Home-based authority: term and renewal*) retains institution-specific scaling and assurance requirements on top of that shared floor.
+
+## CI-9.210 §4: Survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: **CI-9.210 §4** (*Survival floors, voluntary exchange, and markets (Article III-A (Survival) interface)*); **CI-6.210 §1** (*Public revenue, user fees, and class-aligned burden*).
+
+</details>
+
+<br>
+
+*In plain terms: essential survival access cannot be made to depend on working, buying premium services, or winning market lotteries. Voluntary markets may operate above the floor, but institutions must document how their mechanisms protect baseline access, keep charges proportionate, and stay aligned with class-scaled revenue rules under **CI-6.210 §1** (*Public revenue, user fees, and class-aligned burden*).*
+
+Apply **CJS-5.125 §12** (*Accountability: burden-of-justification and constraint terms*) **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.210 §4** (*Survival floors, voluntary exchange, and markets (Article III-A (Survival) interface)*) keeps only what each institution must name and maintain locally:
+
+- who owns the **Article III-A** (*Survival*) mechanism or program interface;
+- how it links to **CI-6.210 §1** (*Public revenue, user fees, and class-aligned burden*) revenue and charge design; and
+- documentation duties for eligibility, migration, fraud control, regional adequacy, and proportionality.
+
+---
+
+**Previous file:** [ci_06205_transparency_participation_accessible_pathways.md](ci_06205_transparency_participation_accessible_pathways.md)
+
+**Next file:** [ci_06210_public_revenue_fees_recurring_charges_billing_integrity.md](ci_06210_public_revenue_fees_recurring_charges_billing_integrity.md)

@@ -38,7 +38,7 @@ HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
 H1_WITH_ID_RE = re.compile(r"^#\s+(?:CF|CI|CS|CJS)-\S+")
 PLAIN_TERMS_RE = re.compile(r"^\*In plain terms[:,]")
 # Part of the file-top stack, not the operative body.
-OWNER_LINE_RE = re.compile(r"^(?:This file is the |\*?\*?(?:CF|CI|CS|CJS)-[\d.]+)")
+OWNER_LINE_RE = re.compile(r"^(?:Core home:\s+\d{2}\b|This file is the |\*?\*?(?:CF|CI|CS|CJS)-[\d.]+)")
 SELF_DOWNSTREAM_RE = re.compile(
     r"^- Downstream: this section's local operational requirements", re.I
 )
@@ -90,7 +90,10 @@ def file_level_upstream(lines: list[str]) -> str | None:
             if line.strip() == "</details>":
                 return None
             if line.startswith("- Upstream:"):
-                return line.strip()
+                # D14 represents long routing lines as a parent label plus
+                # indented reference bullets; a label-only parent is not the
+                # file-level upstream statement being compared below.
+                return line.strip() if line.partition(":")[2].strip() else None
     return None
 
 

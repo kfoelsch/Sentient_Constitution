@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Insert CJS-0.1 topic-routing trace bullets for bidirectional routing."""
+"""Insert CJS-0.105 §1 topic-routing trace bullets for bidirectional routing."""
 
 from __future__ import annotations
 
@@ -89,6 +89,21 @@ def main() -> int:
 
     all_sections = sorted(set(primary_lines) | set(read_with_lines))
     changed_files: dict[Path, str] = {}
+    original_files: dict[Path, str] = {}
+
+    # Clear generated routing annotations across each corpus file before
+    # rebuilding them at their qualified section. This also removes legacy
+    # file-level Trace bullets and nested descendants left by earlier formats.
+    for folder in CORPUS_FOLDERS:
+        folder_path = root / folder
+        if not folder_path.is_dir():
+            continue
+        for path in folder_path.glob("*.md"):
+            original = path.read_text(encoding="utf-8")
+            original_files[path] = original
+            cleaned = strip_legacy_router_read_labels(strip_router_lines(original))
+            if cleaned != original:
+                changed_files[path] = cleaned
 
     for section_id in all_sections:
         path = index.get(section_id)
@@ -105,25 +120,33 @@ def main() -> int:
         if updated_section == section_text:
             continue
         changed_files[path] = original.replace(section_text, updated_section, 1)
-        print(f"update {path.relative_to(root)} :: {section_id} ({len(lines)} topic-routing bullets)")
 
-    for folder in CORPUS_FOLDERS:
-        folder_path = root / folder
-        if not folder_path.is_dir():
-            continue
-        for path in folder_path.glob("*.md"):
-            original = changed_files.get(path, path.read_text(encoding="utf-8"))
-            cleaned = strip_legacy_router_read_labels(original)
-            if cleaned != original:
-                changed_files[path] = cleaned
-                print(f"strip legacy router labels {path.relative_to(root)}")
+    net_changes: dict[Path, str] = {}
+    import trace_widget_numbering
+
+    trace_numbers = trace_widget_numbering.registry_numbers(root)
+    for path, content in changed_files.items():
+        content = trace_widget_numbering.transform(
+            content,
+            path,
+            root,
+            trace_numbers,
+            add_numbers=False,
+            nest_references=True,
+        )
+        repaired = repair_heading_markdown(content)
+        if repaired != original_files.get(path, path.read_text(encoding="utf-8")):
+            net_changes[path] = repaired
 
     if args.write:
-        for path, content in changed_files.items():
-            path.write_text(repair_heading_markdown(content), encoding="utf-8")
-        print(f"Wrote {len(changed_files)} files.")
+        for path, content in net_changes.items():
+            path.write_text(content, encoding="utf-8")
+            print(f"update {path.relative_to(root)}")
+        print(f"Wrote {len(net_changes)} files.")
     else:
-        print(f"Dry run: {len(changed_files)} files would change. Pass --write to apply.")
+        for path in net_changes:
+            print(f"would update {path.relative_to(root)}")
+        print(f"Dry run: {len(net_changes)} files would change. Pass --write to apply.")
     return 0
 
 

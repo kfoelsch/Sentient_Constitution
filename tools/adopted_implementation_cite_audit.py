@@ -2,7 +2,7 @@
 """Flag wrapper-only adopted-implementation family cites that should point at subfiles.
 
 REF-FAMILY: when a family file exists, cite the subfile (and optional anchor),
-not the layer wrapper. ``oDef.*n*`` remains an alias of **CJS-3.*n***.
+not the layer wrapper. ``oDef.*n*`` remains an alias of **CJS operational cluster.*n***.
 """
 
 from __future__ import annotations

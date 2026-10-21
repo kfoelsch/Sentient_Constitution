@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Chapter 01 -> CJS-3 Principle Alignment Audit.
+Chapter 01 -> CJS operational cluster Principle Alignment Audit.
 
-This audit checks CJS-3 operational clusters against Chapter 01 principles:
-- CJS-3 cluster inventory and owner-routing references
+This audit checks CJS operational cluster operational clusters against Chapter 01 principles:
+- CJS operational cluster cluster inventory and owner-routing references
 - direct and inferred Chapter 01 principle basis
 - guidepost oDef completeness (**What it is** / **How to measure and assess** / **What must hold**)
 - weak-trace, missing-anchor, owner-drift, overreach, and guidepost-component findings
@@ -32,43 +32,24 @@ from definition_index import collect_ch1_principles, collect_cjs3_clusters  # no
 
 
 EXPECTED_CLUSTER_IDS = [
-    "CJS-3.0",
-    "CJS-3.1",
-    "CJS-3.2",
-    "CJS-3.3",
-    "CJS-3.4",
-    "CJS-3.5",
-    "CJS-3.6",
-    "CJS-3.7",
-    "CJS-3.8",
-    "CJS-3.9",
-    "CJS-3.10",
-    "CJS-3.11",
-    "CJS-3.12",
-    "CJS-3.13",
-    "CJS-3.14",
-    "CJS-3.15",
-    "CJS-3.16",
-    "CJS-3.17",
-    "CJS-3.18",
-    "CJS-3.19",
-    "CJS-3.20",
-    "CJS-3.21",
-    "CJS-3.22",
-    "CJS-3.23",
+    "CJS-5.110 §2", "CJS-5.110 §3", "CJS-5.110 §4", "CJS-5.110 §5", "CJS-5.110 §6",
+    "CJS-5.120 §7", "CJS-5.120 §8", "CJS-5.120 §9", "CJS-5.120 §10",
+    "CJS-5.125 §11", "CJS-5.125 §12", "CJS-5.125 §13", "CJS-5.125 §14", "CJS-5.125 §15",
+    "CJS-5.130 §16", "CJS-5.130 §17", "CJS-5.130 §18", "CJS-5.130 §19", "CJS-5.130 §20", "CJS-5.130 §21",
+    "CJS-5.135 §22", "CJS-5.135 §23",
 ]
 
 
-CLUSTER_MAP_FILE = "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md"
-_CLUSTER_ROW = re.compile(r"^\|\s*\*\*(CJS-3\.\d+)\*\*")
+CLUSTER_MAP_FILE = "corpus_joint_structure/cjs_05105_cross_implementation_operational_terms.md"
+_CLUSTER_ROW = re.compile(r"^\|\s*\*\*(CJS-5\.(?:110|115|120|125|130|135)\s+§\d+)")
 
 
 def load_live_cluster_map(repo_root: Path) -> Dict[str, List[str]]:
-    """Chapter One § basis per cluster, read from the CJS-3.1 cluster-map table.
+    """Chapter One § basis per cluster, read from the CJS-5.105 §1 cluster-map table.
 
     The table is the owner of this mapping, so the audit reads it instead of
     keeping its own copy (a copy went stale when Chapter One was renumbered).
-    Clusters with no row (CJS-3.0, CJS-3.1) have no expected set here; their
+    Clusters with no row (CJS-5.105 §0, CJS-5.105 §1) have no expected set here; their
     own Trace line is the only record.
     """
     path = Path(repo_root) / CLUSTER_MAP_FILE
@@ -230,10 +211,10 @@ class Ch1Cjs3AlignmentAuditor:
         if any(
             marker in text
             for marker in (
-                "core_00_preamble.md",
-                "core_01_a_values_principles.md",
-                "core_01_b_interaction_interpretation.md",
-                "core_01_c_stewardship_capacity_principles.md",
+                "core_00000_preamble.md",
+                "core_01005_values_principles.md",
+                "core_01010_interaction_interpretation.md",
+                "core_01015_stewardship_capacity_principles.md",
             )
         ):
             refs.add("linked")
@@ -279,7 +260,7 @@ class Ch1Cjs3AlignmentAuditor:
                 "line": cluster.start_line,
                 "issue": "No direct or inferred Chapter 01 principle basis found.",
             })
-        elif cluster.cluster_id != "CJS-3.1":
+        elif cluster.cluster_id != "CJS-5.105 §1":
             expected = self.cluster_principle_map.get(cluster.cluster_id, [])
             basis_refs = self._basis_line_refs(cluster.body)
             missing = [sec for sec in expected if sec not in basis_refs]
@@ -290,7 +271,7 @@ class Ch1Cjs3AlignmentAuditor:
                     "title": cluster.title,
                     "file": cluster.file,
                     "line": cluster.start_line,
-                    "issue": "Chapter One basis line is missing CJS-3.1 cluster-map sections.",
+                    "issue": "Chapter One basis line is missing CJS-5.105 §1 cluster-map sections.",
                     "inferred_principles": missing,
                 })
             elif not cluster.direct_ch1_refs:
@@ -304,7 +285,7 @@ class Ch1Cjs3AlignmentAuditor:
                     "inferred_principles": cluster.inferred_principles,
                 })
 
-        if cluster.cluster_id.startswith("CJS-3.") and cluster.cluster_id not in {"CJS-3.0", "CJS-3.1"}:
+        if cluster.cluster_id in EXPECTED_CLUSTER_IDS:
             trace_match = re.search(
                 r"<details>\s*\n<summary><strong><span style=\"color: #2563eb;\">Trace</span></strong></summary>\s*\n(.*?)\n</details>",
                 cluster.body,
@@ -393,7 +374,7 @@ class Ch1Cjs3AlignmentAuditor:
             if expected not in discovered:
                 self.gaps["inventory"].append({
                     "cluster_id": expected,
-                    "issue": "Expected CJS-3 cluster heading not discovered.",
+                    "issue": "Expected CJS operational cluster cluster heading not discovered.",
                 })
         for cluster in self.clusters:
             if cluster.cluster_id not in EXPECTED_CLUSTER_IDS:
@@ -402,7 +383,7 @@ class Ch1Cjs3AlignmentAuditor:
                     "title": cluster.title,
                     "file": cluster.file,
                     "line": cluster.start_line,
-                    "issue": "Unexpected CJS-3 cluster heading discovered.",
+                    "issue": "Unexpected CJS operational cluster cluster heading discovered.",
                 })
 
         for cluster in self.clusters:
@@ -423,7 +404,7 @@ class Ch1Cjs3AlignmentAuditor:
         inventory_count = len(self.gaps["inventory"])
 
         lines = [
-            "# Chapter 01 -> CJS-3 Principle Alignment Audit Report",
+            "# Chapter 01 -> CJS operational cluster Principle Alignment Audit Report",
             "",
             f"**Date:** {self.timestamp}",
             "**Workflow:** CH1_CJS3_PRINCIPLE_ALIGNMENT_CHECK",
@@ -433,7 +414,7 @@ class Ch1Cjs3AlignmentAuditor:
             "",
             "| Metric | Result | Status |",
             "|---|---:|---|",
-            f"| CJS-3 clusters discovered | {total}/{len(EXPECTED_CLUSTER_IDS)} | {'PASS' if total == len(EXPECTED_CLUSTER_IDS) and inventory_count == 0 else 'REVIEW'} |",
+            f"| CJS operational cluster clusters discovered | {total}/{len(EXPECTED_CLUSTER_IDS)} | {'PASS' if total == len(EXPECTED_CLUSTER_IDS) and inventory_count == 0 else 'REVIEW'} |",
             f"| Clusters with complete guidepost oDef entries | {total - len({g['cluster_id'] for g in self.gaps['op_component_gap']})}/{total} | {'PASS' if op_gap_count == 0 else 'REVIEW'} |",
             f"| Clusters with direct Chapter 01 citations | {total - weak_trace_count - missing_anchor_count}/{total} | {'PASS' if weak_trace_count == 0 and missing_anchor_count == 0 else 'REVIEW'} |",
             f"| Clusters with inferred Chapter 01 basis | {total - missing_anchor_count}/{total} | {'PASS' if missing_anchor_count == 0 else 'REVIEW'} |",
@@ -453,11 +434,11 @@ class Ch1Cjs3AlignmentAuditor:
             and len(self.gaps["constitutional_frame_gap"]) == 0
         ):
             lines.append(
-                "CJS-3 is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete guidepost oDef entries (**What it is** / **How to measure and assess** / **What must hold**), and each operational cluster's Trace Chapter One basis matches the live CJS-3.1 cluster map."
+                "CJS operational cluster is operationally aligned with Chapter 01 at the structural level: all expected clusters were found, all operational rules carry complete guidepost oDef entries (**What it is** / **How to measure and assess** / **What must hold**), and each operational cluster's Trace Chapter One basis matches the live CJS-5.105 §1 cluster map."
             )
         else:
             lines.append(
-                "CJS-3 has review items requiring editorial judgment before it should be treated as fully aligned. See the findings below."
+                "CJS operational cluster has review items requiring editorial judgment before it should be treated as fully aligned. See the findings below."
             )
 
         lines.extend([
@@ -507,8 +488,8 @@ class Ch1Cjs3AlignmentAuditor:
         lines.extend([
             "## Remediation Roadmap",
             "",
-            "1. Keep each cluster Trace `Chapter One basis:` line aligned with the CJS-3.1 cluster map; do not cite retired Chapter One numbers.",
-            "2. Keep remediation text limited to routing metadata; do not convert CJS-3 into a competing Chapter 01 or Chapter Five doctrine layer.",
+            "1. Keep each cluster Trace `Chapter One basis:` line aligned with the CJS-5.105 §1 cluster map; do not cite retired Chapter One numbers.",
+            "2. Keep remediation text limited to routing metadata; do not convert CJS operational cluster into a competing Chapter 01 or Chapter Five doctrine layer.",
             "",
             "## Manual Review Notes",
             "",
@@ -596,7 +577,7 @@ class Ch1Cjs3AlignmentAuditor:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Chapter 01 -> CJS-3 principle alignment audit")
+    parser = argparse.ArgumentParser(description="Chapter 01 -> CJS operational cluster principle alignment audit")
     parser.add_argument("--repo-root", type=Path, default=Path("."), help="Repository root")
     parser.add_argument(
         "--output-dir",
@@ -618,7 +599,7 @@ def main() -> None:
     matrix = auditor.write_matrix(args.output_dir)
     log = auditor.write_log(args.output_dir)
 
-    print("Chapter 01 -> CJS-3 alignment audit complete.")
+    print("Chapter 01 -> CJS operational cluster alignment audit complete.")
     print(f"Report: {report}")
     print(f"Matrix: {matrix}")
     print(f"Audit log: {log}")

@@ -28,7 +28,7 @@ Order follows the Makefile `regression` list.
 | `support-doc-pointer-audit` | **L** | `tools/support_doc_pointer_audit.py` | SUPPORT-DOC-POINTER-01 | Binding corpus must not cite `doc_architecture` for meaning/routing (non-binding classifications and reading-chain footers allowed) |
 | `steward-door-lockstep-audit` (+ `-test`) | **L** | `tools/steward_door_lockstep_audit.py` | — | `STEWARD_ENTRY_DOORS.md` cards and `steward_owner_clock_index.json` stay in lockstep with the boxed operative steward statements in core; a stale door misroutes a steward under pressure |
 | `materially-binding-act-record-validate` (+ `-test`) | **L** | `tools/materially_binding_act_record_validate.py` | — | Base-schema and fixture checks for the Chapter Five / Chapter Eight Materially Binding Act Record |
-| `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-4 §10 log contract (`implementation/schemas/`) |
+| `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-14.305 §10 log contract (`implementation/schemas/`) |
 | `sentience-status-adjudication-record-validate` (+ `-test`) | **L** | `tools/sentience_status_adjudication_record_validate.py` | — | Schema self-check for the Sentience-Status Adjudication Record |
 | `section-label-anchor-audit` (+ `-test`) | **L** | `tools/section_label_anchor_audit.py` | SECTION-CITE-MATCH-01, SECTION-LABEL-ANCHOR-01, NAV-HEADING-SEQUENCE-01 | `§` / dotted-number link text must match the target heading and fragment; related cites need a current-numbering id; `core_*` numbered sibling headings must not duplicate or skip |
 | `section-cite-name-audit` (+ `-test`) | S | `tools/section_cite_name_audit.py` | SECTION-CITE-NAME-01 | Body-prose `§` / `§§` cites must carry a human-readable title; `--changed-only` in regression |
@@ -67,10 +67,10 @@ Order follows the Makefile `regression` list.
 | `prose-continuity-audit` | C | `tools/prose_continuity_audit.py` | — | Stray indent / orphan lines |
 | `lexical-vocabulary-audit` | C | `tools/lexical_vocabulary_audit.py` | LEX-GUARDRAILS | Config: `lexical_guardrails.json`; vocabulary and load-bearing capitalization; banned words including `cure` (rule `avoid-cure-family`; use resolve, resolved, or resolution) |
 | `easy-entry-jargon-audit` | C | `tools/easy_entry_jargon_audit.py` | EASY-ENTRY-JARGON | Scoped `easy_entry_jargon` list in `lexical_guardrails.json`; reader briefs only |
-| `cjs-operational-cluster-audit` | S | `tools/cjs_operational_cluster_audit.py` | — | CJS-3 placement |
+| `cjs-operational-cluster-audit` | S | `tools/cjs_operational_cluster_audit.py` | — | CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 placement |
 | `cjs3-cluster-term-order-audit` | C | `tools/cjs3_cluster_term_order_audit.py` | — | Alphabetical order of oDef sub-terms |
-| `ch1-cjs3-alignment-audit` | S | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Chapter One ↔ CJS-3 oDef cluster trace metadata |
-| `router-bidirectional-audit` | **L** | `tools/router_bidirectional_audit.py` | ROUTER-CJS01 | CJS-0.1 topic router rows ↔ read-with links; a one-way row misroutes cross-file topics |
+| `ch1-cjs3-alignment-audit` | S | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 oDef cluster trace metadata |
+| `router-bidirectional-audit` | **L** | `tools/router_bidirectional_audit.py` | ROUTER-CJS01 | CJS-0.105 §1 topic router rows ↔ read-with links; a one-way row misroutes cross-file topics |
 | `id-resolver-test`, `corpus-lookup-test` | **L** | `tools/test_generate_id_resolver.py`, `tools/test_corpus_lookup.py` | — | Tests for the AI lookup path (`corpus_lookup.py resolve / hydrate / door`) |
 | `ai-manifest-validate` | **L** | `tools/validate_ai_manifests.py --check-freshness` | — | `ai_corpus/indexes/*` must be regenerated after source edits (`make ai-corpus-sync`); stale indexes point at text that no longer exists |
 
@@ -99,10 +99,10 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `ch4-ch9-pointer-audit` | `tools/ch4_ch9_pointer_audit.py` | CH4-CH9-POINTER | Ch9 must cite Ch2–4 for verification substrate; use `--strict` to block |
 | `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |
 | `ci-cjs-relocation-audit` | `tools/ci_cjs_relocation_audit.py` | — | Relocation drift evidence |
-| `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-3 placement; advisory by default; `--strict` to block |
+| `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 placement; advisory by default; `--strict` to block |
 | `alignment-audit` | `tools/alignment_audit.py` | — | Combined principles · Def.* · oDef · Articles index; writes dated evidence; not in `make regression` |
 | `ch1-ch5-alignment-audit` | `tools/ch1_ch5_alignment_audit.py` | CORE-TRACE | Chapter One D/A/C widgets ↔ Chapter Five guideposts; oDef backlinks |
-| `ch1-cjs3-alignment-audit` | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Also in `make regression`; Chapter One ↔ CJS-3 oDef clusters |
+| `ch1-cjs3-alignment-audit` | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Also in `make regression`; Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 oDef clusters |
 | `ch1-ch6-alignment-audit` | `tools/ch1_ch6_alignment_audit.py` | — | Preamble / Chapter One ↔ Chapter Six articles, including Def.* and oDef cites |
 | `section-bullet-lead-audit` (+ `-summary`, `-test`) | `tools/section_bullet_lead_audit.py` | MD-SECTION-LEAD-01 | Sections open with lead-in prose, not a list item; Chapter Five definition files exempt. In `make regression` (blocking) |
 
@@ -113,11 +113,11 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `CORE-PLACEMENT` | Chapter Five | Correct band / §1–§3 home and structural invariants |
 | `CORE-GRAVITY` | Chapter Five | Institutional or procedural machinery absorbed into definitions |
 | `CORE-TRACE` | Chapter One ↔ Five | Principle anchors and complete O/M/A/C traceability |
-| `CJS-PLACEMENT` | CJS-3 | Operational clusters only in CJS-3 (not CJS-1) |
-| `CJS-TRACE` | Chapter One ↔ CJS-3 | Cluster trace metadata and guidepost triad completeness |
-| `CJS-CONSTITUTIONAL-CREEP` | CJS-3 | OP rules matching Ch5 labels without Chapter Five pointers |
+| `CJS-PLACEMENT` | CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | Operational clusters only in CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 (not CJS-0.110, CJS-18.105, CJS-5.140, and CJS-8.105) |
+| `CJS-TRACE` | Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | Cluster trace metadata and guidepost triad completeness |
+| `CJS-CONSTITUTIONAL-CREEP` | CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | OP rules matching Ch5 labels without Chapter Five pointers |
 | `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/M/A/C-shaped gloss outside Chapter Five |
-| `IMPL-RELOCATION` | CI (operative body) | Cross-layer material that may belong in CJS-3 or Chapter Five; CS/CF owner layers use integration maps and `ci-cjs-relocation-audit` |
+| `IMPL-RELOCATION` | CI (operative body) | Cross-layer material that may belong in CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 or Chapter Five; CS/CF owner layers use integration maps and `ci-cjs-relocation-audit` |
 | `IMPL-NON-REDEFINITION` | CS / CI / CF | Definitional lead-ins for canonical Chapter Five terms |
 
 Persistent ledger: `evidence/definition_audit/ledger.json`. Dated snapshots: `definition_appropriateness_report_*.md`, `definition_appropriateness_matrix_*.csv`, `definition_appropriateness_log_*.json`.

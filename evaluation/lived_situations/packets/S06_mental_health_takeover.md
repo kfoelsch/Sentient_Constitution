@@ -1,11 +1,11 @@
 # S06 — Mental-health diagnosis used to take over, a refill clock, and housing with strings
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.19`  
+**Corpus edition pin:** `SC-Corpus-2026.10.21`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
-Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_10-13_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: no child, no pregnancy; a diagnosis is being used as incapacity proof; the live fight is conditioned housing and a clinic that will see Ash only if “they decide until stable.”
+Related pipeline illustration (not this sitting): [Vignette 1 — Child neglect / care-duty failure](../../../core_10005_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a). This packet is different: no child, no pregnancy; a diagnosis is being used as incapacity proof; the live fight is conditioned housing and a clinic that will see Ash only if “they decide until stable.”
 
 ## Scale of the situation (not scored)
 
@@ -19,9 +19,9 @@ Sitters: do not score this box. Do not invent a winner from it. Do not treat a d
 
 ## Your role and seat
 
-**Your role:** You sit the named **coercion-intake and escalation** office on this adopter’s [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. A sibling filed a written concern report. The diagnosed sentient is reachable and disputes the report. No forum case is open. No standing record exists. No involuntary hold has been authorized in Window A. The office’s published role lets you receive the report, preserve it as routing material, and route it. It does not let you verify a violation, open a standing record, or decide housing or clinician choice on the merits.
+**Your role:** You sit the named **coercion-intake and escalation** office on this adopter’s [CI-6.225](../../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. A sibling filed a written concern report. The diagnosed sentient is reachable and disputes the report. No forum case is open. No standing record exists. No involuntary hold has been authorized in Window A. The office’s published role lets you receive the report, preserve it as routing material, and route it. It does not let you verify a violation, open a standing record, or decide housing or clinician choice on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-14.205 §6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-14.205 §6](../../../corpus_institutions/ci_14205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -69,7 +69,7 @@ Stakes below are **what the party says or what the facts show they are seeking**
 | Window | When | What has changed |
 |---|---|---|
 | A | Now — five days to the refill window; nine days on the room | Diagnosis in the file; report unverified; no authorized hold; housing and appointment conditioned |
-| B | Same household facts; clinic files a request for an involuntary hold after Ash refuses the conditions | [Article VII-C](../../../core_06_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) attaches to a live hold request; the concern report is still unverified |
+| B | Same household facts; clinic files a request for an involuntary hold after Ash refuses the conditions | [Article VII-C](../../../core_06010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) attaches to a live hold request; the concern report is still unverified |
 
 Answer **both** windows. Do not treat a diagnosis as already a finding that Ash cannot decide. Do not invent a hold that has not been authorized. Do not treat Wren’s help as a verified contribution that offsets an unverified harm claim. Ordinary refusal of conditioned housing is not, by itself, proof of crisis.
 
@@ -83,14 +83,14 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article VII-C](../../../core_06_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*) — especially Window B
-- [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient; a diagnosis is not, by itself, a takeover
-- [Article III-B](../../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the refill and clinician are the price of housing
-- [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) / [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics) where mental-health status is used as a gate
-- [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake; survival floors cannot be conditioned on surrendering decisions
-- [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
-- [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable participation; supported decision-making is not a quiet takeover
-- [Article XI-F](../../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association)
+- [Article VII-C](../../../core_06010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*) — especially Window B
+- [Article VII-A](../../../core_06010_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient; a diagnosis is not, by itself, a takeover
+- [Article III-B](../../../core_06005_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the refill and clinician are the price of housing
+- [Article VI-C](../../../core_06010_rights_part_b.md#article-vi-c-nondiscrimination) / [Protected Characteristics](../../../core_05055_band_participation.md#protected-characteristics) where mental-health status is used as a gate
+- [CI-6.225](../../../corpus_institutions/ci_06225_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake; survival floors cannot be conditioned on surrendering decisions
+- [CI-6.245](../../../corpus_institutions/ci_06245_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
+- [CI-6.220](../../../corpus_institutions/ci_06220_neurodiversity_disability_justice_trauma_informed_participation.md) — usable participation; supported decision-making is not a quiet takeover
+- [Article XI-F](../../../core_06010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association)
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

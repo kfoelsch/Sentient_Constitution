@@ -35,9 +35,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 from local_markdown_fragment_audit import github_slug  # noqa: E402
 
-FA = "core_01_a_values_principles.md"
-FB = "core_01_b_interaction_interpretation.md"
-FC = "core_01_c_stewardship_capacity_principles.md"
+FA = "core_01005_values_principles.md"
+FB = "core_01010_interaction_interpretation.md"
+FC = "core_01015_stewardship_capacity_principles.md"
 CH1 = [FA, FB, FC]
 
 TOP = {13: 7, 14: 8, 15: 9, 6: 10, 7: 11, 8: 12, 9: 13, 10: 14, 11: 15, 12: 16, 16: 17}

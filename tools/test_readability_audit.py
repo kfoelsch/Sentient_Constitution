@@ -12,7 +12,7 @@ SAMPLE = """<a id="32-example"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §12 Systemic Evaluation Requirement](core_01_b_interaction_interpretation.md#12-systemic-evaluation-requirement).
+- Upstream: [Chapter One §12 Systemic Evaluation Requirement](core_01010_interaction_interpretation.md#12-systemic-evaluation-requirement).
 </details>
 
 ```mermaid

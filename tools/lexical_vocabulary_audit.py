@@ -13,11 +13,11 @@ from dataclasses import dataclass
 from corpus_paths import binding_corpus_scope
 
 # Enforce **breach**-family ban only where the chapter-six pass has landed; expand as other scoped files are scrubbed.
-_BREACH_FAMILY_SCOPE = frozenset({"core_10_standing_assessment.md", "core_11_standing_integration.md"})
+_BREACH_FAMILY_SCOPE = frozenset({"core_10000_standing_assessment.md", "core_11000_standing_integration.md"})
 
 # Ban the word **instrument** / **instruments** (custodian decision, 2026-10-19). Name the thing: System Charter, Institutional Charter,
 # rule set, record, act; otherwise **document** or **text**. Enforced only on files in `_INSTRUMENT_SCOPE`; expand as other files are swept.
-_INSTRUMENT_SCOPE = frozenset({"core_07_charters.md"})
+_INSTRUMENT_SCOPE = frozenset({"core_07000_charters.md"})
 # Swept 2026-10-19: numbered core chapters, corpus_* implementation files, implementation/, front doors, guides, docs, evaluation/, project/.
 # Dated records keep the wording they were written with: a file name ending _YYYY-MM-DD, a file name starting YYYY-MM-DD_ (sitting results),
 # and a folder ending _YYYY-MM (the external audit). Translation drafts stay pinned to the older text.
@@ -390,27 +390,27 @@ def run_internal_regression_checks() -> None:
         "Records the pathway-specific effect.\n"
         "The blocked named pathway stays closed; challenge and review pathways stay open.\n"
         "A credible causal pathway and a contest-pathway failure are qualified.\n"
-        "See [link](core_05_band_accountability.md#capture-of-resolution-pathways) and `pathway`.\n",
+        "See [link](core_05035_band_accountability.md#capture-of-resolution-pathways) and `pathway`.\n",
     )
     if len(pathway_findings) != 3:
         raise RuntimeError(
             "Internal regression failed: bare pathway was not flagged or qualified forms broke.",
         )
     check_findings = scan_avoid_bare_check(
-        "core_07_charters.md",
+        "core_07000_charters.md",
         "The check scales with class.\n"
         "A failed check lands on one office.\n"
         "The formation check scales with class; the standing check does too.\n"
         "The Chartered Party checks and records that the check is done.\n"
         "This checks the structure, and a seat that checks an act is not independent.\n"
-        "See [When a Holder Fails the Formation Check](core_07_charters.md#6-when-a-holder-fails-the-formation-check) and the check window.\n"
+        "See [When a Holder Fails the Formation Check](core_07000_charters.md#6-when-a-holder-fails-the-formation-check) and the check window.\n"
         "`the check` inside backticks is documentation only.\n",
     )
     if len(check_findings) != 3:
         raise RuntimeError(
             "Internal regression failed: bare check was not flagged or qualified forms broke.",
         )
-    if scan_avoid_bare_check("core_08_functional_independence_segregation_of_duties.md", "The check scales.\n"):
+    if scan_avoid_bare_check("core_08000_functional_independence_segregation_of_duties.md", "The check scales.\n"):
         raise RuntimeError("Internal regression failed: bare-check scope leaked outside its scoped files.")
     layer_findings = scan_avoid_governance_layer_labels(
         "internal-regression.md",
@@ -651,7 +651,7 @@ def scan_avoid_bare_pathway(rel_path: str, text: str) -> list[Finding]:
 # **formation check**, and the chapter also has seat checks, standing checks, and authenticity checks, so "the check" alone does not
 # say which one. Say **formation check** (or the named part: standing limb, authenticity limb). Enforced only on files in
 # `_BARE_CHECK_SCOPE`; expand as other files are swept (outside Chapter Seven a bare "check" is often a different check altogether).
-_BARE_CHECK_SCOPE = frozenset({"core_07_charters.md"})
+_BARE_CHECK_SCOPE = frozenset({"core_07000_charters.md"})
 _CHECK_WORD = re.compile(r"(?<![A-Za-z0-9-])(checks?)(?![A-Za-z0-9-])", re.IGNORECASE)
 # Determiners and generic adjectives that leave the check unnamed. Singular "check" after any of them is a noun. Plural "checks" counts
 # only after a determiner that cannot take a verb ("this checks", "that checks", "each checks", "a checks" are verb or typo, not nouns).
@@ -1221,7 +1221,7 @@ def scan_avoid_definition_map_label(rel_path: str, text: str) -> list[Finding]:
 
 
 def scan_avoid_router_read_label(rel_path: str, text: str) -> list[Finding]:
-    """Reject **Router read:** body labels; CJS-0.1 routing belongs in Trace bullets."""
+    """Reject **Router read:** body labels; CJS-0.105 §1 routing belongs in Trace bullets."""
     if not rel_path.startswith(_IMPLEMENTATION_CORPUS_PREFIXES):
         return []
     findings: list[Finding] = []
@@ -1258,7 +1258,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.",
         "- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.",
         "- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Ten typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*",
-        "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
+        "- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05050_band_oversight.md#materiality-determination) threshold), not an intensity adverb.",
         "- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.",
         "- **`avoid-instrument`:** reject **instrument** / **instruments** → name the thing (**System Charter**, **Institutional Charter**, **rule set**, **record**, **act**), or use **document** / **text**. *Currently enforced on the numbered `core_*` and `corpus_*` files, `implementation/`, the front doors, guides, docs, `evaluation/` and `project/` (`_INSTRUMENT_SCOPE` and `_INSTRUMENT_SCOPE_PREFIXES`), except dated records and translation drafts, inside `tools/lexical_vocabulary_audit.py`.*",
         "- **`avoid-verifier`:** reject **verifier** / **verifiers** → say **verifying authority** (a body or sentient that verifies, authorizes, or decides is an authority; TERM-BODY-01 in `doc_architecture.md`). *Enforced on the same files as `avoid-instrument`, except `evaluation/` and `project/`.*",
@@ -1270,7 +1270,7 @@ def report_markdown(run_date: str, scope: list[str], findings: list[Finding]) ->
         "- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Ten**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Ten wording.",
         "- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.",
         "- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Eleven §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.",
-        "- **`avoid-bare-check`:** in scoped files (`core_07_charters.md`), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing limb, authenticity limb). **Allowed:** verb uses (**the Chartered Party checks and records**), qualified compounds (**formation check**, **standing check**), and **check window**.",
+        "- **`avoid-bare-check`:** in scoped files (`core_07000_charters.md`), reject the noun **check** / **checks** after a determiner or generic adjective (**the check**, **a failed check**, **its check**) → say which check: **formation check**, or the named part (standing limb, authenticity limb). **Allowed:** verb uses (**the Chartered Party checks and records**), qualified compounds (**formation check**, **standing check**), and **check window**.",
         "- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.",
         "- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.",
         "- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.",

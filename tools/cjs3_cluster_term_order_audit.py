@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Audit alphabetical order of CJS-3 oDef cluster sub-terms within each subsection.
+"""Audit alphabetical order of oDef cluster sub-terms within each subsection.
 
-Fails when sortable sub-terms (excluding cluster intro lines and CJS-3.0 pinned
+Fails when sortable sub-terms (excluding cluster intro lines and CJS-5.105 §0 pinned
 preface rules) are not in case-insensitive alphabetical order.
 """
 
@@ -14,10 +14,10 @@ from pathlib import Path
 
 from cjs_odef_format import titled_guidepost_entries
 
-CJS3_GLOB = "corpus_joint_structure/cjs_03*.md"
+CJS3_GLOB = "corpus_joint_structure/cjs_05*.md"
 
-SECTION_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-3)", re.MULTILINE)
-SECTION_ID_RE = re.compile(r"^#{1,3} (CJS-3\S+)", re.MULTILINE)
+SECTION_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-5\.(?:105|110|115|120|125|130|135)\b)", re.MULTILINE)
+SECTION_ID_RE = re.compile(r"^#{1,3} (CJS-5\.(?:105|110|115|120|125|130|135) §[\d.]+)", re.MULTILINE)
 
 CJS30_PINNED = {
     "Competency bar, clearance, and standing interface",
@@ -35,7 +35,7 @@ def sortable_terms(section_id: str, body: str) -> list[str]:
     terms = titled_guidepost_entries(body)
     filtered: list[str] = []
     for title in terms:
-        if section_id.startswith("CJS-3.0") and title in CJS30_PINNED:
+        if section_id.startswith("CJS-5.105 §0") and title in CJS30_PINNED:
             continue
         # Cluster floor titles pinned in functional order (often lowercase).
         if title[:1].islower():
@@ -70,7 +70,7 @@ def audit_file(root: Path, path: Path) -> list[str]:
     text = path.read_text(encoding="utf-8")
     findings: list[str] = []
     for part in SECTION_SPLIT_RE.split(text):
-        if part.startswith("## CJS-3"):
+        if re.match(r"#{1,3} CJS-5\.(?:105|110|115|120|125|130|135)\b", part):
             findings.extend(audit_section(rel, part))
     return findings
 
@@ -83,12 +83,12 @@ def main() -> int:
         findings.extend(audit_file(root, path))
 
     if findings:
-        print("FAIL: CJS-3 cluster term order audit detected issues:", file=sys.stderr)
+        print("FAIL: oDef cluster term order audit detected issues:", file=sys.stderr)
         for item in findings:
             print(f"  - {item}", file=sys.stderr)
         return 1
 
-    print("PASS: CJS-3 cluster sub-terms are alphabetically ordered within subsections.")
+    print("PASS: oDef cluster sub-terms are alphabetically ordered within subsections.")
     return 0
 
 

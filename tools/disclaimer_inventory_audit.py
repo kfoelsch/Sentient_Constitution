@@ -361,7 +361,7 @@ def render_markdown(
             "",
             "1. **Wave A — Global integrity + proxy** (`global_integrity_negative`, `proxy_metrics`, "
             "`instrumental_only`, `symbolic_participation`): canonicalize in "
-            "`core_01_c_stewardship_capacity_principles.md` §11; thin aim heads and cluster O lines.",
+            "`core_01015_stewardship_capacity_principles.md` §11; thin aim heads and cluster O lines.",
             "2. **Wave B — Layer separation** (`layer_separation`, `not_substitute`, `pointer_disclaimer`): "
             "one Ch00/Ch05i exposition + Trace pointers.",
             "3. **Wave C — Review queue** (`scope_exclusion`, `anti_formalism`): per-term triage; "

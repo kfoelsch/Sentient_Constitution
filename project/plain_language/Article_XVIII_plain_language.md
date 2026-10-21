@@ -4,7 +4,7 @@
 
 *Trying new things, and getting fairly rewarded for what you make.*
 
-> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XVIII](../../core_06_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom), the official text is what counts.
+> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XVIII](../../core_06015_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom), the official text is what counts.
 >
 > A note on "you" and "people": this constitution protects every sentient being it covers, not only humans. Here, "people" means all of them.
 
@@ -67,7 +67,7 @@ Just calling something a "sandbox" isn't enough. It has to really be one.
 
 ### Part C: Graduating out of the sandbox
 
-Projects grow. When yours starts to have more impact, gets more people relying on it, becomes harder to undo, or gets more tied into shared systems, it has to move up to the full rules for real-world systems (see [Article XVII](../../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)).
+Projects grow. When yours starts to have more impact, gets more people relying on it, becomes harder to undo, or gets more tied into shared systems, it has to move up to the full rules for real-world systems (see [Article XVII](../../core_06015_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)).
 
 That means:
 
@@ -256,7 +256,7 @@ Sometimes something that started small becomes a system everyone runs through, l
 
 ### Where did the science rules go?
 
-Rules on publishing, reviewing, repeating, and correcting scientific work used to be part of this article. They now live in [Article XV-D](../../core_06_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity), under Info-Sphere Integrity, alongside the other rules on keeping shared information honest.
+Rules on publishing, reviewing, repeating, and correcting scientific work used to be part of this article. They now live in [Article XV-D](../../core_06015_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity), under Info-Sphere Integrity, alongside the other rules on keeping shared information honest.
 
 ---
 

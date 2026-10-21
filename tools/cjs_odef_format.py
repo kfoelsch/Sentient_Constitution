@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Shared CJS-3 oDef guidepost block detection helpers."""
+"""Shared CJS operational cluster oDef guidepost block detection helpers."""
 
 from __future__ import annotations
 

@@ -22,8 +22,8 @@ SELF_TRACE_BLOCK_RE = re.compile(
 )
 FAMILY_FROM_NAME = re.compile(r"^cs_(\d+)")
 SKIP = {
-    "cs_00_registry_and_reading_rules.md",
-    "cs_01_scope_purpose_identifier_rules.md",
+    "cs_00305_registry_and_reading_rules.md",
+    "cs_00310_scope_purpose_identifier_rules.md",
 }
 
 
