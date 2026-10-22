@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **716** of **1090** headings carry a gloss (66%).
+Coverage: **716** of **1096** headings carry a gloss (65%).
 
 ## Contents
 
@@ -30,7 +30,7 @@ Coverage: **716** of **1090** headings carry a gloss (66%).
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (9/57 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (9/63 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08.000_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.005_system_alignment_certification_evaluation.md` (16/58 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.010_system_alignment_certification_record_process.md` (13/25 glossed)
@@ -3214,7 +3214,7 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 9/57 headings glossed
+Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 9/63 headings glossed
 
 #### 1. When System and Institutional Charters Are Required
 
@@ -3539,6 +3539,42 @@ a Chartered Party that a forum has dissolved may not come back under any name wh
 scope can change, but not quietly. A change to what the Chartered Party may do is made by the sentients its System Charter or Institutional Charter names as able to make it, with notice and a way to contest it. The document is re-checked on a schedule and sooner when something goes wrong, and when the paper and the practice disagree, one of them is fixed in the open.
 
 [Source](../../core_07.000_charters.md#7-amendment-review-and-scope-misalignment)
+
+##### 7.1 Changing the document
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#71-changing-the-document)
+
+##### 7.2 No quiet widening of scope
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#72-no-quiet-widening-of-scope)
+
+##### 7.3 Regular review
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#73-regular-review)
+
+##### 7.4 Adding, retiring, or merging Systems
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#74-adding-retiring-or-merging-systems)
+
+##### 7.5 When the document and the practice disagree
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#75-when-the-document-and-the-practice-disagree)
+
+##### 7.6 Keeping old versions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#76-keeping-old-versions)
 
 #### 8. What System and Institutional Charters Cannot Do
 
