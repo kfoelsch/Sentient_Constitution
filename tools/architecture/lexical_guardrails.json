@@ -182,7 +182,11 @@
     },
     {
       "avoid": "check / checks (bare noun in Chapter Seven: the check, a failed check, its check)",
-      "prefer": "formation check, or the named part of it (standing limb, authenticity limb); verb uses (the Chartered Party checks and records) and qualified compounds (formation check, standing check) stay; the check window clock is allowed; enforced by avoid-bare-check"
+      "prefer": "formation check, or the named part of it (standing check, authenticity check, staff safeguards check); verb uses (the Chartered Party checks and records) and qualified compounds (formation check, standing check, authenticity check, staff safeguards check) stay; the check window clock is allowed; enforced by avoid-bare-check"
+    },
+    {
+      "avoid": "re-check / re-checks / recheck / rechecks (bare noun in Chapter Seven: a re-check, the re-check, what triggers a re-check)",
+      "prefer": "formation re-check; the verb forms (re-checked, re-checking) stay; enforced by avoid-bare-recheck"
     },
     {
       "avoid": "named-pathway result / named-pathway results",

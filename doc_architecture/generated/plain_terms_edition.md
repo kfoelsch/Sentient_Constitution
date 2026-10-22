@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **716** of **1082** headings carry a gloss (66%).
+Coverage: **716** of **1090** headings carry a gloss (66%).
 
 ## Contents
 
@@ -30,7 +30,7 @@ Coverage: **716** of **1082** headings carry a gloss (66%).
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (9/49 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (9/57 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08.000_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.005_system_alignment_certification_evaluation.md` (16/58 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.010_system_alignment_certification_record_process.md` (13/25 glossed)
@@ -478,7 +478,7 @@ shared infrastructure, such as networks, open tools, public services, data, and 
 
 #### 12. Systemic Evaluation Requirement
 
-this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Nine** and **CS-9.305 and CS-9.310** (*System classification machinery*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05.050_band_oversight.md#auditability)).
+this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Nine** and **CS-9.305 (*System classification machinery*) and CS-9.310** (*System classification machinery*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05.050_band_oversight.md#auditability)).
 
 [Source](../../core_01.005_values_principles.md#12-systemic-evaluation-requirement)
 
@@ -1376,7 +1376,7 @@ a temporary, documented pause or limit while further review or a required findin
 
 ##### Interim Hold
 
-an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on probable cause while the facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.
+an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.
 
 [Source](../../core_05.035_band_accountability.md#interim-hold)
 
@@ -1890,13 +1890,13 @@ a **System Certification Record** is the auditable case file for one system unde
 
 ##### System Classification Record
 
-a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 and CS-9.310 (*System classification machinery*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
+a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System classification machinery*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
 
 [Source](../../core_05.040_band_continuity.md#system-classification-record)
 
 ##### System Data Types Record
 
-a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 and CS-6.310 (*Information types and handling*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
+a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
 
 [Source](../../core_05.040_band_continuity.md#system-data-types-record)
 
@@ -2630,7 +2630,7 @@ materiality is the threshold at which an impact or risk is big enough in stake t
 
 ##### Domain-Specific Materiality
 
-this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 The Right to Form, and Three Narrow Limits](../../core_07.000_charters.md#2-the-right-to-form-and-three-narrow-limits).
+this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 The Right to Form, and Four Narrow Limits](../../core_07.000_charters.md#2-the-right-to-form-and-four-narrow-limits).
 
 [Source](../../core_05.050_band_oversight.md#domain-specific-materiality)
 
@@ -3214,7 +3214,7 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 9/49 headings glossed
+Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 9/57 headings glossed
 
 #### 1. When System and Institutional Charters Are Required
 
@@ -3264,11 +3264,11 @@ before anyone can judge whether a system or institution stayed within its limits
 
 [Source](../../core_07.000_charters.md#17-the-process-at-a-glance)
 
-#### 2. The Right to Form, and Three Narrow Limits
+#### 2. The Right to Form, and Four Narrow Limits
 
-you do not need anyone's permission to form a system, institution, or business. Three narrow limits can apply: two can keep one sentient out of one controlling office, and one can require a licence or clearance before a named high-risk act. The first of these can also apply to a Chartered Party that is itself under a lock. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming or operating, and this chapter adds none.
+you do not need anyone's permission to form a system, institution, or business. Four narrow limits can apply. Three are gates: an unresolved lock can keep one sentient out of one controlling office, a short hold on specific verified facts can do the same, and a lock on an Operating Party itself can bar that Operating Party. The fourth can require a licence or clearance before a named high-risk act. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming or operating, and this chapter adds none.
 
-[Source](../../core_07.000_charters.md#2-the-right-to-form-and-three-narrow-limits)
+[Source](../../core_07.000_charters.md#2-the-right-to-form-and-four-narrow-limits)
 
 ##### 2.1 The right to form
 
@@ -3276,23 +3276,29 @@ you do not need anyone's permission to form a system, institution, or business. 
 
 [Source](../../core_07.000_charters.md#21-the-right-to-form)
 
-##### 2.2 First limit: an outstanding lock
+##### 2.2 First limit: an outstanding lock on a sentient
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07.000_charters.md#22-first-limit-an-outstanding-lock)
+[Source](../../core_07.000_charters.md#22-first-limit-an-outstanding-lock-on-a-sentient)
 
-##### 2.3 Second limit: a short hold on probable cause
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_07.000_charters.md#23-second-limit-a-short-hold-on-probable-cause)
-
-##### 2.4 Third limit: a practice licence or clearance
+##### 2.3 Second limit: a short hold on specific verified facts
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07.000_charters.md#24-third-limit-a-practice-licence-or-clearance)
+[Source](../../core_07.000_charters.md#23-second-limit-a-short-hold-on-specific-verified-facts)
+
+##### 2.4 Third limit: a lock on the Operating Party itself
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#24-third-limit-a-lock-on-the-operating-party-itself)
+
+##### 2.5 Fourth limit: a practice licence or clearance
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#25-fourth-limit-a-practice-licence-or-clearance)
 
 #### 3. What System and Institutional Charters Must State
 
@@ -3426,17 +3432,17 @@ before a Chartered Party exercises authority over others, the sentients who hold
 
 [Source](../../core_07.000_charters.md#51-what-is-covered)
 
-##### 5.2 Limb one: standing
+##### 5.2 Standing check
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07.000_charters.md#52-limb-one-standing)
+[Source](../../core_07.000_charters.md#52-standing-check)
 
-##### 5.3 Limb two: authenticity
+##### 5.3 Authenticity check
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07.000_charters.md#53-limb-two-authenticity)
+[Source](../../core_07.000_charters.md#53-authenticity-check)
 
 ##### 5.4 What the formation check may use as evidence
 
@@ -3450,11 +3456,11 @@ before a Chartered Party exercises authority over others, the sentients who hold
 
 [Source](../../core_07.000_charters.md#55-what-a-holder-has-said)
 
-##### 5.6 Structural limb for other staff
+##### 5.6 Staff safeguards check
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07.000_charters.md#56-structural-limb-for-other-staff)
+[Source](../../core_07.000_charters.md#56-staff-safeguards-check)
 
 ##### 5.7 The formation check statement
 
@@ -3462,11 +3468,11 @@ before a Chartered Party exercises authority over others, the sentients who hold
 
 [Source](../../core_07.000_charters.md#57-the-formation-check-statement)
 
-##### 5.8 Timing and re-check
+##### 5.8 Timing and formation re-check
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07.000_charters.md#58-timing-and-re-check)
+[Source](../../core_07.000_charters.md#58-timing-and-formation-re-check)
 
 ##### 5.9 Proportion and burden
 
@@ -3474,17 +3480,59 @@ before a Chartered Party exercises authority over others, the sentients who hold
 
 [Source](../../core_07.000_charters.md#59-proportion-and-burden)
 
-##### 5.10 What this section does not do
+#### 6. When a Holder Fails the Formation Check
+
+a Chartered Party that a forum has dissolved may not come back under any name while the lock on it stands. That is the one case where the Chartered Party itself is stopped, and the lock does it, not the formation check. In every other case a failed formation check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved. The Chartered Party gets a short window to answer and a longer one to fix it, and both are shorter the more critical it is. It keeps operating throughout. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The formation check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office on specific verified facts.
+
+[Source](../../core_07.000_charters.md#6-when-a-holder-fails-the-formation-check)
+
+##### 6.1 What a failed formation check does
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_07.000_charters.md#510-what-this-section-does-not-do)
+[Source](../../core_07.000_charters.md#61-what-a-failed-formation-check-does)
 
-#### 6. When a Holder Fails the Formation Check
+##### 6.2 When the standing check fails
 
-a failed formation check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved. The Chartered Party gets a short window to answer and a longer one to fix it, and both are shorter the more critical it is. It keeps operating throughout. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The formation check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause. A Chartered Party that a forum has dissolved is the one exception: it may not come back under any name while the lock on it stands.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_07.000_charters.md#6-when-a-holder-fails-the-formation-check)
+[Source](../../core_07.000_charters.md#62-when-the-standing-check-fails)
+
+##### 6.3 When the facts may support an Interim Hold
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#63-when-the-facts-may-support-an-interim-hold)
+
+##### 6.4 When the authenticity check fails
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#64-when-the-authenticity-check-fails)
+
+##### 6.5 When a dissolved Chartered Party returns
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#65-when-a-dissolved-chartered-party-returns)
+
+##### 6.6 Response and resolution windows
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#66-response-and-resolution-windows)
+
+##### 6.7 If a failure is not resolved
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#67-if-a-failure-is-not-resolved)
+
+##### 6.8 Fairness to the holder
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_07.000_charters.md#68-fairness-to-the-holder)
 
 #### 7. Amendment, Review, and Scope Misalignment
 
@@ -4546,7 +4594,7 @@ once a lock is needed under [§4.2 Prevention — general standing locks](../../
 
 ##### 5.6 Interim holds and locks
 
-a hold is what a forum may do on probable cause while the facts are checked. A lock is what follows a verified finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.
+a hold is what a forum may do on specific verified facts while the full facts are checked. A lock is what follows a verified finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.
 
 [Source](../../core_11.000_standing_integration.md#56-interim-holds-and-locks)
 
@@ -5572,7 +5620,7 @@ if a system materially affects a sentient — directly or through dependency —
 
 ##### Article X-D: Inclusion and Exclusion Challenge Rights
 
-when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-9.305 and CS-9.310 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
+when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
 
 [Source](../../core_06.010_rights_part_b.md#article-x-d-inclusion-and-exclusion-challenge-rights)
 
@@ -5608,7 +5656,7 @@ every sentient may gather, associate, and act together — in physical, digital,
 
 ##### Article XI-E: Institutional Formation and Business Creation
 
-anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test. The right is for founders who mean what they say: forming an Operating Party to mislead others about what it is for, who controls it, or whom it serves, or to harm others, is not covered. Only two narrow gates stand on who may control an Operating Party, and neither is a licence to form or run one. A sentient who is under an unresolved lock on authority, or whom a forum has found on specific facts to be probably misaligned, may be kept for a time from holding control of an Operating Party. A lock can also sit on an Operating Party itself, and one that a forum has dissolved stays barred from coming back under any name or form, for good where the dissolution rests on pervasive anti-constitutional conduct or on harm that cannot be undone and has not been remedied. Neither gate stops any other Operating Party, and everyone else may still form and run one, including one that does the same kind of work. Two further rules cover acts that can hurt someone who cannot judge the risk. A technical forum can list a family of such acts, and a sentient may then be required to hold a practice licence, for acts that can cause severe or irreversible injury, or a practice clearance, for acts with a lesser but real risk such as cosmetology or food handling, before performing one for others. Those rules attach to the act and never to forming or running an Operating Party.
+anyone can start something new — a school, a research group, a mutual-aid network, a cooperative, or a business — not only join what already exists. Licensing, capital, or paperwork barriers that look open on paper but shut out new or disfavored founders fail this test. The right is for founders who mean what they say: forming an Operating Party to mislead others about what it is for, who controls it, or whom it serves, or to harm others, is not covered. Only three narrow gates stand, and none is a licence to form or run an Operating Party. Two attach to a sentient: one who is under an unresolved lock on authority, or whom a forum has found on specific facts to be probably misaligned, may be kept for a time from holding control of an Operating Party. The third attaches to an Operating Party that is itself under a lock: one that a forum has dissolved stays barred from coming back under any name or form, for good where the dissolution rests on pervasive anti-constitutional conduct or on harm that cannot be undone and has not been remedied. No gate stops any other Operating Party, and everyone else may still form and run one, including one that does the same kind of work. Two further rules cover acts that can hurt someone who cannot judge the risk. A technical forum can list a family of such acts, and a sentient may then be required to hold a practice licence, for acts that can cause severe or irreversible injury, or a practice clearance, for acts with a lesser but real risk such as cosmetology or food handling, before performing one for others. Those rules attach to the act and never to forming or running an Operating Party.
 
 [Source](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)
 

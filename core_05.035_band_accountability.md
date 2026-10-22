@@ -506,7 +506,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - [Timely Resolution](core_05.035_band_accountability.md#timely-resolution) — resolution within materiality-scaled windows.
 - [Merits Determination](core_05.035_band_accountability.md#merits-determination) — binding substantive dispositions in those dispute-resolution pathways.
 - [Stay](core_05.035_band_accountability.md#stay) — temporary pause or reliance-limit orders pending further review.
-- [Interim Hold](core_05.035_band_accountability.md#interim-hold) — a narrow, time-bound limit on one named sentient's use of one named authority, on probable cause.
+- [Interim Hold](core_05.035_band_accountability.md#interim-hold) — a narrow, time-bound limit on one named sentient's use of one named authority, on specific verified facts.
 - [Attributable Action](core_05.035_band_accountability.md#attributable-action) — materially relevant action traceable to identifiable responsible actors.
 - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — attribution chains resistant to obscuring, ambiguity, tampering, and repudiation.
 - [Negligence](core_05.035_band_accountability.md#negligence) — reasonably avoidable failures of care that produce material harm.
@@ -984,10 +984,10 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 <br>
 
-*In plain terms: an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on probable cause while the facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.*
+*In plain terms: an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.*
 
 - **What it is**
-  - **In scope:** An interim order by a forum with jurisdiction that limits one named sentient's exercise of one named authority, pathway, or matter on probable cause, while the facts are verified. It states its ground, scope, lapse date, and review route, and it uses the lightest measure that works. It may:
+  - **In scope:** An interim order by a forum with jurisdiction that limits one named sentient's exercise of one named authority, pathway, or matter on the grounds in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway), while the facts are verified. It states its ground, scope, lapse date, and review route, and it uses the lightest measure that works. It may:
     - require disclosure and monitoring;
     - require an independent co-holder or second key;
     - require step-aside from one matter;
@@ -1007,7 +1007,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     **Primary assessment:** Identify:
     - the named sentient and the one authority, pathway, or matter limited;
     - the issuing forum, and whether it stands outside the subject's control line;
-    - the probable-cause showing and the evidence tier relied on;
+    - the showing of the grounds and the evidence tier relied on;
     - the risk, and why it could not wait for verification;
     - the lightest measure used and why a lighter one would not do; and
     - the lapse date and the review route.
@@ -1016,7 +1016,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <a id="interim-hold-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - issue a hold without probable cause, or on mere belief, identity, membership of a group, dissent that does not call for harm or discriminatory treatment of others, or protected reporting (see [Chapter One §7.5 Expression and the Harm Line](core_01.005_values_principles.md#75-expression-and-the-harm-line));
+    - issue a hold without the grounds in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway), or on mere belief, identity, membership of a group, dissent that does not call for harm or discriminatory treatment of others, or protected reporting (see [Chapter One §7.5 Expression and the Harm Line](core_01.005_values_principles.md#75-expression-and-the-harm-line));
     - have the subject's own body, appointing authority, or control line issue it;
     - reach beyond the one named authority or into an excluded pathway;
     - continue it past its lapse date or past the single permitted extension;
@@ -4001,7 +4001,7 @@ See **Anti-Segmentation Principle**.
     - A lock on the attestation and verifying pathways, after a verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, is the Perjury Standing Lock under [Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks). It restricts no testimony.
     - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](core_05.055_band_participation.md#stakeholder) status, or a substitute for the other named pathway.
   - **Out of scope:**
-    - A lock from unverified allegations. The interim measure for probable cause is an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which is not a lock.
+    - A lock from unverified allegations. The interim measure on specific verified facts, short of a finding, is an [Interim Hold](core_05.035_band_accountability.md#interim-hold), which is not a lock.
     - A permanent lock without review or remediation path.
     - A dignity or Rights-Floor cut.
     - Automatic retaliation framed as a standing lock.

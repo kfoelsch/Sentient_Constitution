@@ -692,7 +692,7 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
   - [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*);
   - [Chapter One](core_01.015_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.015) (*Safety and Truth hooks in certified constitutional questions*).
 - Downstream: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*contestable forum support for escalation and certification*); [Chapter Eighteen](core_18.000_incorporation.md) (18.000) (*implementation routing for **Article VI-B** (*Sentience-Status Adjudication Floor*) implementation design*).
-- Within §5: [Interim protection](#interim-protection) (*status-quo pending merits and multi-forum interim-order conflict coordination*); [Interim hold on a named sentient's pathway](#interim-hold-on-a-named-sentients-pathway) (*probable cause, narrow, time-bound, no standing effect*).
+- Within §5: [Interim protection](#interim-protection) (*status-quo pending merits and multi-forum interim-order conflict coordination*); [Interim hold on a named sentient's pathway](#interim-hold-on-a-named-sentients-pathway) (*specific verified facts, narrow, time-bound, no standing effect*).
 - Read with:
   - [Article VI-B: Sentience-Status Adjudication Floor](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor);
   - [Chapter Five — Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication) (5.055);

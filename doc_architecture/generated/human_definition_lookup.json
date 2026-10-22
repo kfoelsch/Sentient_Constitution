@@ -578,7 +578,7 @@
       "term": "Domain-Specific Materiality",
       "file": "core_05.050_band_oversight.md",
       "anchor": "#domain-specific-materiality",
-      "plain_terms": "this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 The Right to Form, and Three Narrow Limits](../../core_07.000_charters.md#2-the-right-to-form-and-three-narrow-limits).",
+      "plain_terms": "this one list of nine questions does two jobs. It tells whether an act, or an ongoing activity, is material: does it matter enough that duties attach to it? And it tells whether a group needs a System Charter or Institutional Charter: it does when what the group itself does is material in any one area. A quilting circle, a book club, and a community choir answer no to all nine, so they need neither a System Charter nor an Institutional Charter. A hospital (it answers yes on survival, safety, and custody) or a bank (livelihood, custody, and dependence) answers yes on several, so each needs one. A single yes is enough, and size does not matter: a three-member group that runs a clinic needs a System Charter or Institutional Charter just as a large hospital does. Either one is a public statement that the group writes and publishes itself, saying what it claims authority to do and who holds each role. No outside office approves it, and a group that is late or has none is told to fix it, not shut down. The right to form and run a group stands, with only the exceptions in [Chapter Seven §2 The Right to Form, and Four Narrow Limits](../../core_07.000_charters.md#2-the-right-to-form-and-four-narrow-limits).",
       "href": "../../core_05.050_band_oversight.md#domain-specific-materiality"
     },
     {
@@ -1047,7 +1047,7 @@
       "term": "Interim Hold",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#interim-hold",
-      "plain_terms": "an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on probable cause while the facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.",
+      "plain_terms": "an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a finding, a lock, or a penalty, and it ends on its own clock.",
       "href": "../../core_05.035_band_accountability.md#interim-hold"
     },
     {
@@ -1873,7 +1873,7 @@
       "term": "System Classification Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#system-classification-record-constitutional",
-      "plain_terms": "a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 and CS-9.310 (*System classification machinery*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "plain_terms": "a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System classification machinery*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
       "href": "../../core_05.040_band_continuity.md#system-classification-record"
     },
     {
@@ -1887,7 +1887,7 @@
       "term": "System Data Types Record",
       "file": "core_05.040_band_continuity.md",
       "anchor": "#system-data-types-record-constitutional",
-      "plain_terms": "a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 and CS-6.310 (*Information types and handling*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
+      "plain_terms": "a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.",
       "href": "../../core_05.040_band_continuity.md#system-data-types-record"
     },
     {
