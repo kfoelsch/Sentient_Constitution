@@ -7,7 +7,7 @@
 > یہ فائل **Sentient Constitution کا حصہ** ہے اور ایک ہی دستاویز کے طور پر پڑھی جانے والی دیگر نمبر شدہ `core_*` فائلوں کے **ساتھ مل کر ہی پابند** ہے۔ اس میں **باب سات** شامل ہے: فعلی خودمختاری اور فرائض کی علیحدگی کے لیے تمام کارروائیوں پر لاگو کم از کم معیار۔ یہ باب چھ کے حقوقی معیار کے بعد اور [باب آٹھ کی نظامی ہم آہنگی کی توثیق](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) سے شروع ہونے والے آئینی کارروائی کے ابواب سے پہلے آتا ہے۔
 >
 > - **آئینی مالک:** مادی طور پر پابند اعمال کے لیے الگ نشستوں کا کم از کم معیار؛ ہر [مادی طور پر پابند عمل کے ریکارڈ](../../core_05_band_accountability.md#materially-binding-act-record) کا عالمگیر کم از کم مواد؛ عامل اور اس کی [مادی کنٹرول لائن](../../core_05_band_accountability.md#material-control-line) سے خودمختاری؛ شائع شدہ راستوں اور کرداروں کی جگہ بندی؛ مفادات کے تصادم، خالی آسامی، متبادل اور غلط نشست کو معاملہ بھیجنا؛ متناسب مشترکہ میزبانی؛ قابل انتساب حوالگیاں؛ اور وہ کم از کم خودمختاری کی شرائط جن کا اطلاق ہر بعد کی آئینی کارروائی کو کرنا ہوگا۔
-> - **اصولی سطح کا ماخذ:** [باب اول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) حکمرانی سے فعلی خودمختاری محفوظ رکھنے کا تقاضا کرتا ہے اور عملی نشستوں کے ڈھانچے کو یہاں بھیجتا ہے۔
+> - **اصولی سطح کا ماخذ:** [باب اول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) حکمرانی سے فعلی خودمختاری محفوظ رکھنے کا تقاضا کرتا ہے اور عملی نشستوں کے ڈھانچے کو یہاں بھیجتا ہے۔
 > - **نفاذ کا مالک:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)، [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)، اور [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) نشستوں کی جگہ مقرر اور انہیں عملی بناتے ہیں۔ وہ مزید سخت ہو سکتے ہیں اور محدود خصوصی اختیار کی نشستوں کی اقسام شامل کر سکتے ہیں؛ وہ اس باب کو تنگ نہیں کر سکتے۔
 > - **کارروائی سے مخصوص اطلاق بعد کے ابواب میں رہے گا:** باب آٹھ اس معیار کو نظامی ہم آہنگی کی توثیق پر لاگو کرتا ہے؛ [باب نہم §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) اسے حیثیت کے ریکارڈز پر لاگو کرتا ہے؛ باب بارہ اور [corpus_forum.md](../../corpus_forum.md) اسے فورم کی کارروائی پر لاگو کرتے ہیں۔ یہ ابواب اپنے موضوع کے مطابق تحفظات بڑھا سکتے ہیں؛ کمزور متبادل نہیں بنا سکتے۔
 >
@@ -71,7 +71,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
-- ماقبل: [§1](#1-purpose-scope-and-owner-boundary)؛ [باب اول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties)؛ [باب اول §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)۔
+- ماقبل: [§1](#1-purpose-scope-and-owner-boundary)؛ [باب اول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)؛ [باب اول §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)۔
 - مابعد: [§3](#3-independence-conflict-and-control-lines) سے [§9](#9-relationship-to-later-processes) تک؛ [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*نشستوں کی فہرست — کارروائی کے کرداروں کی اقسام اور عملی حدود*)۔
 - واحد مجاز مشترکہ میزبانی کے راستے کے لیے [§6](#6-proportional-scaling-and-merged-hosting) پڑھیں۔
 

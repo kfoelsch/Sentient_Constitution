@@ -7,7 +7,7 @@
 > 이 파일은 **Sentient Constitution의 일부**이며, 하나의 문서로 함께 읽는 다른 번호가 붙은 `core_*` 파일들과 **함께 읽을 때에만 구속력**을 가집니다. 이 파일에는 **제7장**이 담겨 있습니다. 즉, 기능적 독립성과 직무 분리에 관해 모든 절차에 공통으로 적용되는 기준선입니다. 이 장은 제6장의 권리 기준선 다음에 오며, [제8장 시스템 정렬 인증](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)으로 시작하는 헌법 절차 장들보다 앞섭니다.
 >
 > - **헌법상 소관:** 실질적으로 구속력 있는 행위를 위한 별도 좌석 기준선, 모든 [실질적 구속 행위 기록](../../core_05_band_accountability.md#materially-binding-act-record)의 보편적 최소 내용, 행위자와 행위자의 [중요 통제선](../../core_05_band_accountability.md#material-control-line)으로부터의 독립성, 공표된 경로 및 역할 배치, 이해충돌·공석·대체 및 잘못된 좌석으로의 이관, 비례적인 통합 운영, 귀속 가능한 인계, 그리고 이후 모든 헌법 절차가 적용해야 하는 최소 독립 조건.
-> - **원칙 계층의 출처:** [제1장 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties)은 통치가 기능적 독립성을 보존하도록 요구하며, 실행 좌석 구조를 이 장에 맡깁니다.
+> - **원칙 계층의 출처:** [제1장 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)은 통치가 기능적 독립성을 보존하도록 요구하며, 실행 좌석 구조를 이 장에 맡깁니다.
 > - **이행 소관:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries)은 좌석을 배치하고 운영화합니다. 이들은 더 엄격한 규칙을 두거나 범위가 제한된 특별 권한 좌석 유형을 추가할 수 있지만, 이 장을 축소할 수는 없습니다.
 > - **절차별 적용은 후속 규정에 둡니다:** 제8장은 이 기준선을 시스템 정렬 인증에 적용하고, [제9장 §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties)은 지위 기록에 적용하며, 제12장과 [corpus_forum.md](../../corpus_forum.md)는 포럼 절차에 적용합니다. 이 장들은 주제에 필요한 보호 장치를 추가할 수 있지만, 더 약한 대체 기준을 만들 수는 없습니다.
 >
@@ -71,7 +71,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적 경로</span></strong></summary>
 
-- 상위 근거: [§1](#1-purpose-scope-and-owner-boundary); [제1장 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties); [제1장 §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+- 상위 근거: [§1](#1-purpose-scope-and-owner-boundary); [제1장 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties); [제1장 §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 - 하위 규정: [§3](#3-independence-conflict-and-control-lines)부터 [§9](#9-relationship-to-later-processes)까지; [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*좌석 목록 — 절차 역할 유형 및 운영 경계*).
 - 허용되는 유일한 통합 운영 경로에 관해서는 [§6](#6-proportional-scaling-and-merged-hosting)을 함께 읽으십시오.
 

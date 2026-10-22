@@ -82,7 +82,7 @@ Aşağıdaki **XIII–XVIII. Maddeler** bu tabanları eksiksiz biçimde düzenle
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§3 Temel Amaç: İyi Olma Hali](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) ve [§19 Teşvik Uyumu ve Sistem Ele Geçirme](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Üst dayanak: Birinci Bölüm İlkeleri [§3 Temel Amaç: İyi Olma Hali](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-anayasal-çatışma-çözüm-süreci) ve [§19 Teşvik Uyumu ve Sistem Ele Geçirme](core_01_c_stewardship_capacity_principles.md#19-teşvik-uyumu-ve-sistem-ele-geçirilmesi).
 
 </details>
 
@@ -144,7 +144,7 @@ Sistem **XIII. Madde**de (*Güvenilir ve Güven Verilebilir Sistem Hakkı*) yer 
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims)—**Gelişim** ve **Süreklilik**; [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional) ve sistemin sürekli kullanılmasına bağımlılığın yaşamsal erişimi etkileyeceği durumlarda **III-A. Madde** (*Yaşamda Kalma*); başarılı bir itirazın neye yol açması gerektiği için [**XIII-B. Madde**](#article-xiii-b-right-to-redress-and-remedy) (*Giderim ve Çözüm Hakkı*).
+- Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims)—**Gelişim** ve **Süreklilik**; [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional) ve sistemin sürekli kullanılmasına bağımlılığın yaşamsal erişimi etkileyeceği durumlarda **III-A. Madde** (*Yaşamda Kalma*); başarılı bir itirazın neye yol açması gerektiği için [**XIII-B. Madde**](#xiii-b-madde-giderim-ve-çözüm-hakkı) (*Giderim ve Çözüm Hakkı*).
 
 </details>
 
@@ -171,10 +171,10 @@ Bu Madde, sentientleri maddi ölçüde etkileyen sistemlere ilişkin güvenceyi 
   - güvenmenin haklı olup olmadığını değerlendirmek için gerekli maddi koşulların, sınırların ve risklerin açıklanması;
   - sistematik aldatma, yanlış beyan veya doğrulanamayan yönlendirme bulunmaması;
   - güvenmeden doğan açıklanmamış, orantısız veya kolayca fark edilemeyen risklere karşı koruma;
-  - sistem yanlış yaptığında kabul, düzeltme, orantılı telafi ve tekrarın önlenmesi dahil düzeltme ve çözüm; [**XIII-B. Madde**](#article-xiii-b-right-to-redress-and-remedy) (*Giderim ve Çözüm Hakkı*) ile [Birinci Bölüm §6.1 Düzeltme ve Çözüm](core_01_a_values_principles.md#61-correction-and-remedy) uyarınca.
+  - sistem yanlış yaptığında kabul, düzeltme, orantılı telafi ve tekrarın önlenmesi dahil düzeltme ve çözüm; [**XIII-B. Madde**](#xiii-b-madde-giderim-ve-çözüm-hakkı) (*Giderim ve Çözüm Hakkı*) ile [Birinci Bölüm §6.1 Düzeltme ve Çözüm](core_01_a_values_principles.md#61-correction-and-remedy) uyarınca.
 - **İtiraz edilebilirlik güvencesi:** Sentientler sisteme dayandığı sürece sistemler itiraza açık kalmalıdır. Bunun için:
   - sistemin davranışına, çıktısına veya beyanlarına itiraz edilebilecek ve itirazın incelenebileceği kullanılabilir bir yol;
-  - etki ve bağımlılıkla orantılı denetim ve bağımsız doğrulama; [**XVI. Madde**](#article-xvi-audit-transparency-and-independent-verification) (*Denetim, Şeffaflık ve Bağımsız Doğrulama*) uyarınca;
+  - etki ve bağımlılıkla orantılı denetim ve bağımsız doğrulama; [**XVI. Madde**](#xvi-madde-denetim-şeffaflık-ve-bağımsız-doğrulama) (*Denetim, Şeffaflık ve Bağımsız Doğrulama*) uyarınca;
   - sistemin sertifikalı, resmen tanınmış veya yaygın kullanılıyor olması nedeniyle bu korumaların daraltılmaması;
   - kabul edilmiş uygulama metinleriyle de daraltılmaması gerekir. Bu metinler bir alanda itiraz, inceleme ve giderimin nasıl yürütüleceğini açıklar ve bu Maddeyi karşılamalıdır. Kolaylık, süre sınırı ve yerel politika daha alt düzey kısıtlardır; itirazı, incelemeyi veya giderimi kapatamaz.
 - **İtiraz ve inceleme hakkı:** Sentientler şu haklara sahiptir:
@@ -193,7 +193,7 @@ Bu iki güvence devam eden güvenin iki yanıdır: güven güvencesi, sistemin y
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Üst dayanak: Birinci Bölüm [§6.1 Düzeltme ve Çözüm](core_01_a_values_principles.md#61-correction-and-remedy) (ilke tabanı), [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ve [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Birlikte okuyun: [**XIII-A. Madde**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*Güvenilirlik ve Güven Verilebilirlik Tabanı*)—giderime giden yolu açan itiraz edilebilirlik güvencesi, itiraz hakkı ve korunan bildirim; **III-A. Madde** (*Yaşamda Kalma*); sistemin başarısızlığı veya uyumsuzluğu yaşamsal erişimi ortadan kaldırdığında [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional); [Önsöz §6.2 Tüm zincirin birlikte işlemesi](core_00_preamble.md#62-how-the-full-chain-fits-together) (*doğrulanmış sınıflandırma ve zamanında çözüm*); [Onuncu Bölüm §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Uygulama gerçekçiliği ve çözüm sistemleri*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Çözüm sistemleri ve kurumsal giderim kapasitesi*).
+- Birlikte okuyun: [**XIII-A. Madde**](#xiii-a-madde-güvenilirlik-ve-güven-verilebilirlik-tabanı) (*Güvenilirlik ve Güven Verilebilirlik Tabanı*)—giderime giden yolu açan itiraz edilebilirlik güvencesi, itiraz hakkı ve korunan bildirim; **III-A. Madde** (*Yaşamda Kalma*); sistemin başarısızlığı veya uyumsuzluğu yaşamsal erişimi ortadan kaldırdığında [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional); [Önsöz §6.2 Tüm zincirin birlikte işlemesi](core_00_preamble.md#62-how-the-full-chain-fits-together) (*doğrulanmış sınıflandırma ve zamanında çözüm*); [Onuncu Bölüm §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Uygulama gerçekçiliği ve çözüm sistemleri*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Çözüm sistemleri ve kurumsal giderim kapasitesi*).
 
 </details>
 
@@ -231,7 +231,7 @@ Kademeye uygun ve belgelenmiş bir gerekçe olmaksızın süresiz bekletme bu Ma
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-bilgisel-açıklama-kısıtları).
 
 </details>
 
@@ -240,7 +240,7 @@ Kademeye uygun ve belgelenmiş bir gerekçe olmaksızın süresiz bekletme bu Ma
 
 - [Güven](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
 - [Güven Verilebilirlik](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -263,14 +263,14 @@ Bu Madde, sahte güven yasağını ve kapsamını belirler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) ve [§19.1.1 Teşvikler Ne Yapmalı](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*ödül önceliği*).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-stewardship-disiplini-altında-yönetişim) ve [§19.1.1 Teşvikler Ne Yapmalı](core_01_c_stewardship_capacity_principles.md#1911-teşvikler-ne-yapmalıdır) (*ödül önceliği*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Teşvik Uyumu](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [Teşvik Uyumu](core_05_band_integrative.md#teşvik-hizalaması) · [O](core_05_band_integrative.md#teşvik-hizalaması) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 - [Güven Verilebilirlik](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
 - [Anlamlı Eyleyicilik](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
@@ -304,7 +304,7 @@ Bu Madde, güvenlik ve güven teşviklerine ilişkin hak düzeyindeki kısıtlar
   - **XIII-B. Madde** (*Giderim ve Çözüm Hakkı*) uyarınca çözümü;
   - en çok da sorunların proaktif biçimde önlenmesini—bir sorunu önlemek, çözmekten daha fazla ödül getirir.
 
-  Sorunları gizleyerek önleme ödülü kazanma yasağını da içeren ilke, [Birinci Bölüm §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*Teşvikler Ne Yapmalı*) içinde yer alır.
+  Sorunları gizleyerek önleme ödülü kazanma yasağını da içeren ilke, [Birinci Bölüm §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-teşvikler-ne-yapmalıdır) (*Teşvikler Ne Yapmalı*) içinde yer alır.
 - **Kısıt ve mutlak olmama:** Her iki hak da bu bölümün başındaki **varsayılan kısıtlar bütününe** tabidir. Maddi ölçüde ilgili olduğunda, koşullu talepler, şans oyunları ve olay sözleşmesi piyasalarına ilişkin **Birinci Bölüm §19.5**'e de tabidir.
 
 <a id="article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
@@ -312,14 +312,14 @@ Bu Madde, güvenlik ve güven teşviklerine ilişkin hak düzeyindeki kısıtlar
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) ve [§18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) ve [§18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-stewardship-disiplini-altında-yönetişim).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [İtiraz Edilebilirlik](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Gereklilik](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Orantılılık](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -363,7 +363,7 @@ Bu Madde, yüksek otonomili sistemlerin süreç bütünlüğüne nasıl bağlı 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Dayanıklılık ve Kendi Kendini İyileştirme Tasarımı](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Birinci Bölüm §13.3 Kaçınılabilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Dayanıklılık ve Kendi Kendini İyileştirme Tasarımı](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Birinci Bölüm §13.3 Kaçınılabilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-önlenebilir-yükün-en-aza-indirilmesi) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -373,7 +373,7 @@ Bu Madde, yüksek otonomili sistemlerin süreç bütünlüğüne nasıl bağlı 
 - [Kendi Kendini İyileştirme](core_05_band_continuity.md#self-healing-constitutional) · [O](core_05_band_continuity.md#self-healing-constitutional) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
 - [Tersine Çevrilebilirlik](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [Zincirleme Başarısızlık](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) · [O](core_05_band_oversight.md#denetlenebilirlik) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [İtiraz Edilebilirlik](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Kaçınılabilir Yük](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 
@@ -388,7 +388,7 @@ Bu Madde, tespitten kök nedenin giderilmesine kadar iyileşme tabanını düzen
 - **Gereklilik:** Bu Madde kapsamındaki her sistem arızalardan kurtulabilmelidir. Bir sistemin etkisi, başkalarının ona bağımlılığı ve riski arttıkça iyileşme kabiliyeti de güçlenmelidir. Bu, **Birinci Bölüm**deki [**§10 Dayanıklılık ve Kendi Kendini İyileştirme Tasarımı**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) ve **Beşinci Bölüm**deki [**Kendi Kendini İyileştirme**](core_05_band_continuity.md#self-healing-constitutional) ilkesini izler.
   - İyileşmenin nasıl tasarlanacağına ilişkin ayrıntılı teknik kurallar uygulama metninde bulunur: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Tasarım, test, doğrulama ve devreye alma*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Uyarlanabilir sürdürülebilirlik ve ekosistem dayanıklılığı*) ve [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Merkeziyetsiz süreklilik ve bölümleme dayanıklılığı*).
   - Uygulama metni ayrıntı ekleyebilir ancak bu Maddeyi zayıflatamaz.
-- **Sorunları zamanında fark etme:** Sistem; arızaları, yavaşlamaları, kısmi bozulmaları ve anayasal sınır ihlallerini **XVI-A. Madde**deki (*Denetlenebilirlik ve Gözlemlenebilir Kanıt*) kayıt standardını karşılayacak kadar hızlı ve görünür biçimde fark etmelidir ([Denetlenebilirlik](core_05_band_oversight.md#auditability)). Bu yükümlülük yalnızca normal işleyişe değil, iyileşme sürecinin kendisine de uygulanır.
+- **Sorunları zamanında fark etme:** Sistem; arızaları, yavaşlamaları, kısmi bozulmaları ve anayasal sınır ihlallerini **XVI-A. Madde**deki (*Denetlenebilirlik ve Gözlemlenebilir Kanıt*) kayıt standardını karşılayacak kadar hızlı ve görünür biçimde fark etmelidir ([Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik)). Bu yükümlülük yalnızca normal işleyişe değil, iyileşme sürecinin kendisine de uygulanır.
 - **Zararı sınırlandırma:** İyileşme, arızanın ne kadar yayılabileceğini sınırlamalıdır. İyileşme sırasında sistem:
   - arızayı başka parçalara veya sistemlere aktaramaz ([Zincirleme Başarısızlık](core_05_band_continuity.md#cascading-failure) bölümüne bakın);
   - arızalı ve onarım altında ilan ettiği alanın **dışında** bulunan sentientlere, işletmecilere veya diğer sistemlere ait kayıtlı verileri, kimlik bilgilerini, yükümlülükleri ya da ayarları değiştiremez;
@@ -404,14 +404,14 @@ Bu Madde, tespitten kök nedenin giderilmesine kadar iyileşme tabanını düzen
 - **Geçici çözüm, düzeltme değildir:** Otomatik iyileşme sistemi yeniden çalıştırsa bile bilinen bir kusur sürüyorsa sistemin durumu nihai değil geçicidir. Şunları taşımalıdır:
   - **XXIII. Madde** (*Kök Neden Analizi ve Uyarlanabilir Müdahale*) uyarınca kök nedeni bulmaya yönelik açık yükümlülük;
   - kusurun ne zaman giderilmesinin beklendiğine ilişkin, **XVI-A. Madde** (*Denetlenebilirlik ve Gözlemlenebilir Kanıt*) uyarınca açıklanmış takvim.
-- **Sonsuz gecikme olmaz:** İşletmecilerin iş yükünü azaltmak ([Kaçınılabilir Yük](core_05_band_continuity.md#avoidable-burden) ve [Birinci Bölüm §13.3 Kaçınılabilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) bölümlerine bakın), güvenliği veya Hak Tabanını maddi ölçüde etkileyen kusurların giderimini süresiz erteleme gerekçesi yapılamaz.
+- **Sonsuz gecikme olmaz:** İşletmecilerin iş yükünü azaltmak ([Kaçınılabilir Yük](core_05_band_continuity.md#avoidable-burden) ve [Birinci Bölüm §13.3 Kaçınılabilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-önlenebilir-yükün-en-aza-indirilmesi) bölümlerine bakın), güvenliği veya Hak Tabanını maddi ölçüde etkileyen kusurların giderimini süresiz erteleme gerekçesi yapılamaz.
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### XIV. Madde: Güvenlik, İstihbarat, Güç ve Otonom Zorlama Sistemleri
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§3 Temel Amaç: İyi Olma Hali](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Üst dayanak: Birinci Bölüm İlkeleri [§3 Temel Amaç: İyi Olma Hali](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-stewardship-disiplini-altında-yönetişim).
 
 </details>
 
@@ -515,7 +515,7 @@ Bu Madde, güvenlik, istihbarat ve gizli güç üzerindeki sınırları belirler
   - maddi açıdan ciddi hukuka aykırı davranışı soruşturma.
 - **Bağımsız yetkilendirme:** Gizlilikle sınırlı soruşturma adımları dahil müdahaleci gizli tedbirler, hukuka uygun bağımsız bir süreçten önceden yetki almalıdır.
   - İstisna: Yakın ve maddi bir zararı önlemek için derhal harekete geçmek gerekiyorsa ve yetkilendirmedeki gecikme amacı boşa çıkaracaksa.
-  - Olağanüstü kullanım; hızlı sonradan incelemeyi, [Kanıtların Korunması](core_05_band_oversight.md#evidence-preservation) uyarınca kayıtların saklanmasını ve zamanında yeniden yetkilendirme yoksa otomatik sona ermeyi gerektirir.
+  - Olağanüstü kullanım; hızlı sonradan incelemeyi, [Kanıtların Korunması](core_05_band_oversight.md#kanıt-koruma) uyarınca kayıtların saklanmasını ve zamanında yeniden yetkilendirme yoksa otomatik sona ermeyi gerektirir.
 - **Dolaylı yoldan atlatma yoktur:** Hiçbir kurum; doğrudan topladığı veya çıkardığı bilgiye uygulanacak anayasal sınırları aşmak amacıyla aşağıdaki kanallardan bilgi edinemez, isteyemez, satın alamaz, alamaz, aklayamaz veya kullanamaz:
   - yabancı ortaklar;
   - aracılar;
@@ -541,7 +541,7 @@ Bu Madde, güvenlik, istihbarat ve gizli güç üzerindeki sınırları belirler
   Bağımsız gözetim, itiraz yolları ve kişinin kendi faaliyetini soruşturmasını önleyen korumalar işlevsel olarak gerçek olmalıdır.
 - **Giderim ve kirlilik kuralı:** Bu Maddeyi ihlal ederek elde edilen veya kullanılan bilgi, hakları geri kazandırmaya ve tekrarını caydırmaya yeterli hukuka uygun düzeltici işleme tabi tutulmalıdır. Örnekler:
   - hariç tutma;
-  - ayırma;
+  - izolasyon;
   - silme;
   - yeniden sınıflandırma;
   - bildirim;
@@ -554,7 +554,7 @@ Bu Madde, güvenlik, istihbarat ve gizli güç üzerindeki sınırları belirler
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Gereklilik](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 Sınırlama Disiplini](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Hak Çatışması Karar Testi](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Mutlak Geçersiz Kılma Yasağı](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Gereklilik](core_01_b_interaction_interpretation.md#1311-gereklilik), [§7.1 Sınırlama Disiplini](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Hak Çatışması Karar Testi](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Mutlak Geçersiz Kılma Yasağı](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Alt dayanak: **I-A. Madde** (*Çevresel Ön Koşullar ve Ekolojik Bütünlük*) çevresel ön koşulları, **I-D. Madde** (*Varoluşsal Risk ve Ekolojik İyileşme Kapasitesi*) varoluşsal risk incelemesini, **VI-A. Madde** (*Onur ve Eşit Ahlaki Statü*) onuru, **XIV-A. Madde** gizli güç sınırlarını (aleni gücün karşılığı), **On İkinci Bölüm §6.1** (*Olağanüstü hâl tedbirleri ve sürdürme yükü*) olağanüstü hâl tedbiri sınırlarını, **XXV. Madde** (*Zamanında Geriye Dönük İnceleme ve Onarıcı Uyum*) çatışma çözümünü, **XXVII. Madde** (*Geçiş Yönetişimi, Süreklilik ve Tabanı Yeniden Belirleme*) geçiş yönetişimini kapsar. Çapraz gönderme: **XX-B. Madde** ve Beşinci Bölüm *[Geri Döndürülemez Yoksun Bırakma Ölçütü](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*—**XIV. Madde**deki *Karıştırmama* disiplini uygulanır.
 - Birlikte okuyun: [**Def.A4 Güç Kullanımı, Otonom Zorlama, Otonom Ölümcül Sistemler ve Kitlesel Zarar Silahları**](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (maddi ölçüde söz konusu olduğunda birlikte işletilir); Beşinci Bölümdeki *Güç Kullanımı*, *Kitlesel Zarar Silahları*, *Muharip/Sivil Ayrımı*, *[Geri Döndürülemez Yoksun Bırakma Ölçütü](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Varoluşsal Risk*, *Tersine Çevrilebilirlik*, *Giderim ve Telafi*.
 
@@ -619,7 +619,7 @@ Bu Madde, aleni güç, silahlı çatışma ve askerî güç üzerindeki sınırl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 Orantılılık](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 Gereklilik](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 Uyum Gerekliliği](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [§14 Mutlak Geçersiz Kılma Yasağı](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 Orantılılık](core_01_b_interaction_interpretation.md#1313-orantılılık), [§13.1.1 Gereklilik](core_01_b_interaction_interpretation.md#1311-gereklilik), [§19.1 Uyum Gerekliliği](core_01_c_stewardship_capacity_principles.md#191-uyum-gerekliliği), [§14 Mutlak Geçersiz Kılma Yasağı](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Alt dayanak: **I-D. Madde** (*Varoluşsal Risk ve Ekolojik İyileşme Kapasitesi*) varoluşsal risk incelemesi; **X-A. Madde** (*Eyleyicilik ve Manipülasyondan Özgürlük*) manipülasyondan özgürlük; **XIV-A. Madde** gizli güç sınırları; **XIV-B. Madde** aleni güç tabanı; sistem katmanındaki karşılığı olan **XIII-A. Madde** (*Güvenilirlik ve Güven Verilebilirlik Tabanı*); **XIII-E. Madde** (*Yüksek Otonomili Sistemler ve Araç Aracılı Süreç Bütünlüğü*) otonomi vesayeti ve ölçekleme; **XIII-F. Madde** (*Dayanıklılık ve Kendi Kendini İyileştirme Tabanı*). Çapraz gönderme: **XX-B. Madde** ve Beşinci Bölüm *[Geri Döndürülemez Yoksun Bırakma Ölçütü](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*—**XIV. Madde**nin *Karıştırmama* disiplini geçerlidir.
 - Birlikte okuyun: [**Def.A4 Güç Kullanımı, Otonom Zorlama, Otonom Ölümcül Sistemler ve Kitlesel Zarar Silahları**](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (maddi ölçüde söz konusu olduğunda birlikte işletilir); Beşinci Bölümdeki *Otonom Ölümcül Sistem*, *Otonom Zorlama Aracı*, *[Geri Döndürülemez Yoksun Bırakma Ölçütü](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Zorlama ve Manipülasyon*, *Tersine Çevrilebilirlik*. Sistem katmanı uygulaması: **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme** sınıflandırması.
 
@@ -631,7 +631,7 @@ Bu Madde, aleni güç, silahlı çatışma ve askerî güç üzerindeki sınırl
 - [Otonom Ölümcül Sistem](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [O](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [M](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [A](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [C](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
 - [Otonom Zorlama Aracı](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [O](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [M](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [A](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [C](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
 - [Zorlama ve Manipülasyon](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Hasmane, Ölçeklendirilmiş ve İstismar Edilmiş Koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [O](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
+- [Hasmane, Ölçeklendirilmiş ve İstismar Edilmiş Koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar) · [O](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
 - [Güçlendirilmiş İnceleme](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
@@ -693,7 +693,7 @@ Bu Madde, karşı casusluk yetkisinin sınırlarını belirler:
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Epistemik Bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Epistemik Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [Kendi Kaderini Tayin](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
 - [İtiraz Edilebilirlik](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
@@ -717,13 +717,13 @@ Meşru amaçlar, [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) 
 
 Doğru, ilgili ve itiraz edilebilir bilgi; kendi kaderini tayinin, eşgüdümün ve gerçeklik içindeki kaynak tahsisinin temelidir.
 
-[Epistemik Bütünlük](core_05_band_oversight.md#epistemic-integrity) hem bir haktır hem de sistem çapında bir kısıttır. Çatışma doğduğunda kısıt işlevi geçerlidir.
+[Epistemik Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) hem bir haktır hem de sistem çapında bir kısıttır. Çatışma doğduğunda kısıt işlevi geçerlidir.
 
 *Komşu maddeler:*
 
 - **Birlikte okuyun:** sistem çıktılarının dayanmayı şekillendirdiği yerde **XIII. Madde** (*Güvenilir ve Güven Verilebilir Sistem Hakkı*); kayıtlar ve bağımsız doğrulama için **XVI. Madde** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*); yayın kapsamındaki bütünlüğün maddi ölçüde söz konusu olduğu yerde **XV-D. Madde** (*Bilimsel Yayın, İnceleme ve Tekrarlama Bütünlüğü*).
-- **Hakikat kısıtı:** Birinci Bölüm [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ve [Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) buradaki her alt maddeyi bağlar.
-- **Sınıflandırma:** **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme**, **A Sınıfı**, **B Sınıfı** ve **C Sınıfı** sistemler için bilgi alanı yükümlülüklerinin ayrıntılarını ölçeklendirir; sınıf belirsizse [Maddi Etki](core_05_band_oversight.md#material-impact) sınıflandırmayı tetikler.
+- **Hakikat kısıtı:** Birinci Bölüm [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ve [Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-bilgisel-açıklama-kısıtları) buradaki her alt maddeyi bağlar.
+- **Sınıflandırma:** **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme**, **A Sınıfı**, **B Sınıfı** ve **C Sınıfı** sistemler için bilgi alanı yükümlülüklerinin ayrıntılarını ölçeklendirir; sınıf belirsizse [Maddi Etki](core_05_band_oversight.md#maddi-impact) sınıflandırmayı tetikler.
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### XV-A. Madde: Bilgi Alanı Çoğulculuğu ve Tekelleşmeyi Önleme
@@ -737,9 +737,9 @@ Doğru, ilgili ve itiraz edilebilir bilgi; kendi kaderini tayinin, eşgüdümün
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Epistemik Bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Epistemik Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) · [O](core_05_band_oversight.md#denetlenebilirlik) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -759,22 +759,22 @@ Bu Madde, bilgi alanı çoğulculuğu ve hakikatin aracılanmasında tekelleşme
     - itiraz edilebilirlik;
     - güvenlik, emniyet ve sistem bütünlüğüne tabi olmak üzere, sıralama ölçütlerini aşma veya ayarlama konusunda orantılı imkân.
 - **Koşullu uzlaşma sinyalleri:** Koşullu ödeme veya olay uzlaşma sistemlerinin fiyatları, oranları, havuz büyüklükleri veya benzer çıktıları, tek başına; haklar, güvenlik veya yönetişim kararlarında hakikati, olasılığı ya da uyumu belirleyecek yeterli kanıt sayılamaz.
-  - Bu sinyaller kamu kararlarını veya [Maddi Etki](core_05_band_oversight.md#material-impact) taşıyan kararları etkilediğinde **Birinci Bölüm §19.5** (*Koşullu Talepler, Şans Oyunları ve Olay Sözleşmesi Piyasaları*), **Beşinci Bölüm** (*Hakikat (Anayasal Kısıt)*; *Epistemik Bütünlük*) ve bu Maddedeki itiraz edilebilirlik yükümlülüklerine tabi kalırlar.
+  - Bu sinyaller kamu kararlarını veya [Maddi Etki](core_05_band_oversight.md#maddi-impact) taşıyan kararları etkilediğinde **Birinci Bölüm §19.5** (*Koşullu Talepler, Şans Oyunları ve Olay Sözleşmesi Piyasaları*), **Beşinci Bölüm** (*Hakikat (Anayasal Kısıt)*; *Epistemik Bütünlük*) ve bu Maddedeki itiraz edilebilirlik yükümlülüklerine tabi kalırlar.
 
 <a id="article-xv-b-transparency-auditability-and-contestability"></a>
 #### XV-B. Madde: Şeffaflık, Denetlenebilirlik ve İtiraz Edilebilirlik
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-bilgisel-açıklama-kısıtları) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Şeffaflık](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Şeffaflık](core_05_band_oversight.md#şeffaflık) · [O](core_05_band_oversight.md#şeffaflık) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) · [O](core_05_band_oversight.md#denetlenebilirlik) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [İtiraz Edilebilirlik](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -787,7 +787,7 @@ Bu Madde; sahici araştırma, kaynak kökeni ve itiraz edilebilir bilgi tabanlar
 
 - **Sahici araştırma ve yorum çeşitliliği:** Tüm sentientler ortak bilginin alternatif yorumlarını karşılaştırma hakkına sahiptir.
   - Kritik bilgi altyapıları, farklı modellerin, çerçevelerin ve analiz yöntemlerinin anlamlı biçimde erişilebilir kalmasını sağlayarak yorum çeşitliliğini korumalıdır.
-- **Şeffaflık ve kaynak kökeni:** [Maddi Etki](core_05_band_oversight.md#material-impact) taşıyan dağıtım veya kurumsal dayanma öncesinde şunlar belgelenmelidir:
+- **Şeffaflık ve kaynak kökeni:** [Maddi Etki](core_05_band_oversight.md#maddi-impact) taşıyan dağıtım veya kurumsal dayanma öncesinde şunlar belgelenmelidir:
   - maddi kaynaklar;
   - yöntemler;
   - kapsam;
@@ -804,7 +804,7 @@ Bu Madde; sahici araştırma, kaynak kökeni ve itiraz edilebilir bilgi tabanlar
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-bilgisel-açıklama-kısıtları) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -812,8 +812,8 @@ Bu Madde; sahici araştırma, kaynak kökeni ve itiraz edilebilir bilgi tabanlar
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
 - [Ekolojik Ayak İzi](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [Şeffaflık](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Şeffaflık](core_05_band_oversight.md#şeffaflık) · [O](core_05_band_oversight.md#şeffaflık) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -839,16 +839,16 @@ Bu Madde, ayak izi verileri dahil düzeltme ve raporlama tabanlarını düzenler
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-bilgisel-açıklama-kısıtları) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Epistemik Bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Epistemik Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) · [O](core_05_band_oversight.md#denetlenebilirlik) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -876,7 +876,7 @@ Bu Madde, bilimsel yayın, inceleme, tekrarlama ve düzeltme tabanlarını düze
   - uzun vadeli açıklama veya öngörü güvenilirliği.
 
   Dergi markasını, etki faktörü vekilini veya kapalı editör statüsünü izleyemez.
-  - [Maddi Etki](core_05_band_oversight.md#material-impact) taşıyan ve politika, güvenlik veya bağımlılıkla ilgili iddialar, kalıcı kurumsal itibar görmeden önce bağımsız tekrarlama, hasmane inceleme veya her ikisine tabi olmalıdır şeklinde güçlü bir karineyle karşılanmalıdır.
+  - [Maddi Etki](core_05_band_oversight.md#maddi-impact) taşıyan ve politika, güvenlik veya bağımlılıkla ilgili iddialar, kalıcı kurumsal itibar görmeden önce bağımsız tekrarlama, hasmane inceleme veya her ikisine tabi olmalıdır şeklinde güçlü bir karineyle karşılanmalıdır.
   - Tekrarlama, sıfır sonuç ve düzeltme odaklı çalışmalar prestij sinyaline bağlı olmayan koşullarda yayımlanabilir ve alıntılanabilir kalmalıdır.
 - **Düzeltme ve itiraz edilebilirlik:** İyi niyetli düzeltme, değişiklik ve önceki yayının yerine geçme, gizlemekten daha kolay kalmalıdır.
   - İnceleme ve editörlük sistemleri önemli kabul, düzeltme ve geri çekme kararlarında itiraz edilebilir, denetlenebilir, çıkar çatışması disiplinine tabi ve gerekçe sunar olmalıdır.
@@ -890,7 +890,7 @@ Bu Madde, bilimsel yayın, inceleme, tekrarlama ve düzeltme tabanlarını düze
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 Dağıtık Anlayış](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) ve [§9 Paylaşılan Sistem Kapasitesi](core_01_a_values_principles.md#9-shared-system-capacity).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-anayasal-çatışma-çözüm-süreci), [§16.1 Dağıtık Anlayış](core_01_c_stewardship_capacity_principles.md#161-dağıtık-anlayış) ve [§9 Paylaşılan Sistem Kapasitesi](core_01_a_values_principles.md#9-ortak-sistem-kapasitesi).
 - Birlikte okuyun: Aşağıdaki [Üç katmanlı denetim görünümü](#audit-three-layers).
 
 </details>
@@ -898,9 +898,9 @@ Bu Madde, bilimsel yayın, inceleme, tekrarlama ve düzeltme tabanlarını düze
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Şeffaflık](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Önemlilik](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) · [O](core_05_band_oversight.md#denetlenebilirlik) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Şeffaflık](core_05_band_oversight.md#şeffaflık) · [O](core_05_band_oversight.md#şeffaflık) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Önemlilik](core_05_band_oversight.md#maddiity-determination) · [O](core_05_band_oversight.md#maddiity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Bağımlılık](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Risk](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
 
@@ -922,7 +922,7 @@ Tek bir yığın, üç katman. Gözetim yeniden kurulabilirlik gerektirir. Siste
 | Katman | İşlev | Sorumlu | Bu katman değildir |
 |---|---|---|---|
 | **1. Taban** | Sentientlere borçlu olunan: yeniden kurulabilir denetim, bağımsız doğrulama, erişilebilir itiraz | XVI-A / XVI-B / XVI-C dahil bu Madde | Süreç değildir. Tanım değildir. Kabul edilmiş uygulama metni kontrol listesi değildir. |
-| **2. Nitelik** | Yeniden kurulabilirliğin anlamı: dışarıdan kişiler, maddi zamanlar, durumlar ve bağlamlar boyunca sistemin yaptığını yeniden kurup kontrol edebilir | [Denetlenebilirlik](core_05_band_oversight.md#auditability) (Beşinci Bölüm) | Hak Tabanı değildir. Denetimin nasıl/ne zaman yapılacağı değildir. |
+| **2. Nitelik** | Yeniden kurulabilirliğin anlamı: dışarıdan kişiler, maddi zamanlar, durumlar ve bağlamlar boyunca sistemin yaptığını yeniden kurup kontrol edebilir | [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) (Beşinci Bölüm) | Hak Tabanı değildir. Denetimin nasıl/ne zaman yapılacağı değildir. |
 | **3. Süreç** | Sistemler, kurumlar ve forumlar genelinde denetimin nasıl ve ne zaman yapılacağı | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Denetim süreci ana kaynağı*). İşletmeci ekleri: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (erişim kademeleri), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (iddia kontrolü) | Sistem uyum sertifikasyonu değildir. 1–2. katmanların yerine geçmez. |
 
 **Dokuzuncu Bölüm dördüncü katman değildir.** [Sistem uyum sertifikasyonu](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), bu yığını **kullanan**, forum gözetimindeki büyük süreçlerden biridir. 1–2. katmanları karşılamalıdır. Sınıflandırma kaydı denetimi, veri türleri kaydı denetimi, iddia doğrulama ve sürekli izleme gibi kardeş yöntemler de yığını kullanır. Hiçbiri yeni bir ana kaynak değildir.
@@ -972,23 +972,23 @@ Bu mekanizmalar; münhasır uygulama ve ispat yükü dağılımı, Uyum Kanıtı
   - denetimin desteklediği ancak yerine geçmediği itiraz hakları için **XIII-A. Madde**;
   - uyum kanıtlarının bağımsız doğrulanabilir kalması gereken yerlerde [Dokuzuncu Bölüm](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ve [Sistem Uyum Sertifikasyonu](core_05_band_continuity.md#system-alignment-certification-constitutional).
 - **Doğrulama araçları:** **İkinci ila Dördüncü Bölümler**, bu Maddenin Hak Tabanı katmanında uyguladığı tanım bütünlüğü, ispat yükü dağılımı, gözlemlenebilirlik ve doğrulamaya erişimi sağlar.
-- **Sınıflandırma:** yükümlülükler [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#classification-scaled-governance) ve **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme** uyarınca ölçeklenir; sınıf belirsizse çözülene dek makul görünen en yüksek sınıfa göre hareket edilir.
+- **Sınıflandırma:** yükümlülükler [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) ve **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme** uyarınca ölçeklenir; sınıf belirsizse çözülene dek makul görünen en yüksek sınıfa göre hareket edilir.
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### XVI-A. Madde: Denetlenebilirlik ve Gözlemlenebilir Kanıt
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-bilgisel-açıklama-kısıtları) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) · [O](core_05_band_oversight.md#denetlenebilirlik) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Hesap Verebilirlik](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Şeffaflık](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Şeffaflık](core_05_band_oversight.md#şeffaflık) · [O](core_05_band_oversight.md#şeffaflık) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -1006,7 +1006,7 @@ Bu Madde, gözlemlenebilir ve itiraz edilebilir kanıt tabanını düzenler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-stewardship-disiplini-altında-yönetişim).
 
 </details>
 
@@ -1037,14 +1037,14 @@ Bu Madde, dağıtık gözetim tabanını düzenler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-temel-ödünleşim-ilkeleri) ve [§20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) · [O](core_05_band_oversight.md#denetlenebilirlik) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [İtiraz Edilebilirlik](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Orantılılık](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -1071,7 +1071,7 @@ Bu Madde, doğrulamaya erişilebilirlik tabanını düzenler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 Derinlemesine Vesayet](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) ve [§12 Sistemik Değerlendirme Gerekliliği](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-anayasal-çatışma-çözüm-süreci), [§16 Derinlemesine Vesayet](core_01_c_stewardship_capacity_principles.md#16-emanetçiliğe-yakından-bakış) ve [§12 Sistemik Değerlendirme Gerekliliği](core_01_a_values_principles.md#12-sistemik-değerlendirme-gerekliliği).
 
 </details>
 
@@ -1079,11 +1079,11 @@ Bu Madde, doğrulamaya erişilebilirlik tabanını düzenler:
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
 - [Risk](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Önemlilik](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Önemlilik](core_05_band_oversight.md#maddiity-determination) · [O](core_05_band_oversight.md#maddiity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Bağımlılık](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Tersine Çevrilebilirlik](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [Güvenlik (Anayasal Kısıt)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Epistemik Bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Epistemik Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [İtiraz Edilebilirlik](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1094,7 +1094,7 @@ Bu Madde, doğrulamaya erişilebilirlik tabanını düzenler:
 
 Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) kapsamında sistem yaşam döngüsü, ortamlar ve tersine çevrilebilirlik için **anayasal tabanları** düzenler:
 
-- **Gelişim:** sentientler tasarım, test, devreye alma ve değişiklik boyunca korunur; etki ve bağımlılık artarken güvenlik, [Epistemik Bütünlük](core_05_band_oversight.md#epistemic-integrity) ve itiraz hakları korunur; aksi halde zarar kalıcı olacaksa geri alma, sınırlandırma veya telafi edici iyileştirme sağlanır.
+- **Gelişim:** sentientler tasarım, test, devreye alma ve değişiklik boyunca korunur; etki ve bağımlılık artarken güvenlik, [Epistemik Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) ve itiraz hakları korunur; aksi halde zarar kalıcı olacaksa geri alma, sınırlandırma veya telafi edici iyileştirme sağlanır.
 - **Süreklilik:** yaşam döngüsü disiplini zaman ve ölçek boyunca işler; ortamlar ayrı kalır, yükseltme belgelenip denetlenebilir olur, sistemleri değiştirmek zorlaştıkça veya ortak altyapıya daha fazla yerleştikçe tersine çevrilebilirlik sessizce ortadan kalkmaz.
 
 Meşru amaçlar, [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) aracılığıyla ve [maddi menfaat](core_00_preamble.md#material-stake) ölçüsünde izlenir:
@@ -1118,14 +1118,14 @@ Sentientler, işlevsel yaşam döngüsü boyunca güvenliği, epistemik bütünl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [O](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [Risk](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
 - [Hesap Verebilirlik](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -1156,7 +1156,7 @@ Bu Madde, ortam bütünlüğü tabanını düzenler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-temel-ödünleşim-ilkeleri) ve [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1192,15 +1192,15 @@ Bu Madde, aşamalı devreye alma ve tersine çevrilebilirlik tabanlarını düze
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [O](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [Hesap Verebilirlik](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1221,7 +1221,7 @@ Bu Madde, yanlış sınıflandırma ve kaçınmanın sonuçlarını düzenler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) ve [§19 Teşvik Uyumu ve Sistem Ele Geçirme](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Anayasal Çatışma Çözüm Süreci](core_01_b_interaction_interpretation.md#13-anayasal-çatışma-çözüm-süreci) ve [§19 Teşvik Uyumu ve Sistem Ele Geçirme](core_01_c_stewardship_capacity_principles.md#19-teşvik-uyumu-ve-sistem-ele-geçirilmesi).
 
 </details>
 
@@ -1258,9 +1258,9 @@ Meşru amaçlar, [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [O](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [Risk](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Maddi Etki](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Maddi Etki](core_05_band_oversight.md#maddi-impact) · [O](core_05_band_oversight.md#maddi-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1284,7 +1284,7 @@ Bu Madde, yenilik ve deney hakkını ve korumalı alan işleminin ne zaman uygul
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-temel-ödünleşim-ilkeleri).
 
 </details>
 
@@ -1319,14 +1319,14 @@ Bu Madde, deneysel sistemler için sınırlandırma, açıklama, isteğe bağlı
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Dokuzuncu Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [O](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [Bağımlılık](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Tersine Çevrilebilirlik](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 
@@ -1349,14 +1349,14 @@ Bu Madde, korumalı alandaki sistemin daha yüksek yükümlülüklere ne zaman g
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-stewardship-disiplini-altında-yönetişim).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Yeniliği Ödüllendirme ve Çevrelemeyi Önleme](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Yeniliği Ödüllendirme ve Çevrelemeyi Önleme](core_05_band_integrative.md#yenilik-ödülü-ve-kapatma-karşıtı) · [O](core_05_band_integrative.md#yenilik-ödülü-ve-kapatma-karşıtı) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [Sistemik Kilitlenme](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
 - [Orantılılık](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 

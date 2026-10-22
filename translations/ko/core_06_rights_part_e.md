@@ -69,7 +69,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 헌법상 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§15 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 헌법상 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), [§15 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - 함께 읽을 자료: 적시성 측정군(*헌법적 측정으로서의 시의적절한 해결*).
 
 </details>
@@ -81,9 +81,9 @@ flowchart TB
 - [절차적 공정성](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [시의적절한 해결](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [회복적 사법](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [감사가능성](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [감사가능성](core_05_band_oversight.md#감사-가능성) · [O](core_05_band_oversight.md#감사-가능성) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [이의제기 가능성](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [투명성](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [투명성](core_05_band_oversight.md#투명) · [O](core_05_band_oversight.md#투명) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -111,7 +111,7 @@ flowchart TB
 *인접 조항:*
 
 - **적시성 기준선:** 해결 속도, 지연 방지 규율 및 중요도 단계별 이정표는 **제26-C조**(*시의적절한 해결과 지연 방지 기준선*)가 규율하며, [제13장 §6 시의적절한 해결, 중요도 단계 및 지연 방지 규율](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)을 통해 이행됩니다.
-- **시의적절한 구제:** [**제13-B조**(*구제 및 시정에 대한 권리*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)(*구제에 대한 적시 접근*)와 함께 읽으십시오.
+- **시의적절한 구제:** [**제13-B조**(*구제 및 시정에 대한 권리*)](core_06_rights_part_c.md#제xiii-b조-구제-및-구제에-대한-권리)(*구제에 대한 적시 접근*)와 함께 읽으십시오.
 - **비상조치:** [제13장 §6.1 비상조치와 계속 적용의 부담](core_13_forum.md#61-emergency-measures-and-continuation-burden)이 규율합니다. 비상조치에 대한 사후 검토는 **제26-A조**(*사후 검토와 공개*)가 규율합니다.
 - **검증된 위반 이후의 정의:** **제20조**(*검증된 위반 이후의 정의*)가 규율합니다.
 
@@ -126,16 +126,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [감사가능성](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [감사가능성](core_05_band_oversight.md#감사-가능성) · [O](core_05_band_oversight.md#감사-가능성) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [책임성](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [진실(헌법상 제약)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [진실(헌법상 제약)](core_05_band_oversight.md#진실헌법-제약) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -164,7 +164,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§13.1.5 권리 충돌 결정 심사](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 상위 근거: 원칙: 제1장 [§13.1.5 권리 충돌 결정 심사](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
 - 함께 읽을 자료: [제11장 §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression)(*자발적 공적 책임 표명*); [제12장 §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)(*자발적 공적 책임 표명(반헌법적)*).
 
 </details>
@@ -203,7 +203,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
 - 상위 근거: 적시성 측정군(*헌법적 측정으로서의 시의적절한 해결 및 지연 방지 규율*); [서문 §6.2 전체 연결망의 작동 방식](core_00_preamble.md#62-how-the-full-chain-fits-together)(*권리주체성, 통합 및 포럼 조정 파이프라인*).
-- 원칙: 제1장 [§9.2 헌법적 효율성](core_01_a_values_principles.md#92-constitutional-efficiency), [제1장 §13.3 회피 가능한 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- 원칙: 제1장 [§9.2 헌법적 효율성](core_01_a_values_principles.md#92-헌법적-효율성), [제1장 §13.3 회피 가능한 부담의 최소화](core_01_b_interaction_interpretation.md#133-피할-수-있는-부담의-최소화), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - 하위 규정: [제13장 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(*중요도 단계, 파이프라인 이정표 및 지연 방지 규율*); [제13장 §6.1 비상조치와 계속 적용의 부담](core_13_forum.md#61-emergency-measures-and-continuation-burden)(*비상 격리 후 기본 복구·이의제기 기간의 동일한 외곽 한도*).
 - 관리인 안내(비규범적): 다음 단계 카드: [지연](implementation/STEWARD_ENTRY_DOORS.md#delay). 이 카드는 헌법을 축소할 수 없습니다.
 
@@ -217,7 +217,7 @@ flowchart TB
 - [헌법적 효율성](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [회피 가능한 부담](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [해결 경로의 포획](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [중요도](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [중요도](core_05_band_oversight.md#실질성-인정) · [O](core_05_band_oversight.md#실질성-인정) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -230,7 +230,7 @@ flowchart TB
 - **조정 목적:** **제20-A조**(*정의의 목적과 범위*)에 따른 헌법적 정의는 무기한 적대적 지연, 평판 점수화 또는 그 자체를 위한 처벌이 아니라 사실을 검증하고 권리주체성을 측정하며 결과를 통합하고 가능한 경우 복구하는 **헌법적 조정·해결 체계**를 통해 작동합니다.
 - **세 가지 공동 요건:** 중대한 해결 경로는 함께 **시의적절하고**, **효율적이며**, **공정해야** 합니다.
   - **시의적절성** — [중대한 이해관계](core_00_preamble.md#material-stake)와 피해의 긴급성에 맞춘 제한된 기간;
-  - **효율성** — 제1장 [§9.2 헌법적 효율성](core_01_a_values_principles.md#92-constitutional-efficiency)의 의미에서 [헌법적 효율성](core_05_band_continuity.md#constitutional-efficiency), 즉 지성체의 시간과 공동 노력을 소비한 만큼의 실질적 헌법상 결과이지 단순 처리량이나 사건 종결이 아닙니다;
+  - **효율성** — 제1장 [§9.2 헌법적 효율성](core_01_a_values_principles.md#92-헌법적-효율성)의 의미에서 [헌법적 효율성](core_05_band_continuity.md#constitutional-efficiency), 즉 지성체의 시간과 공동 노력을 소비한 만큼의 실질적 헌법상 결과이지 단순 처리량이나 사건 종결이 아닙니다;
   - **공정성** — **제20-A조**(*정의의 목적과 범위*)와 **제20-B조**(*제한 기준선*)는 계속 전면 적용됩니다. 신속한 처리는 확인된 사실을 건너뛰거나([제10장 §3.1 검증된 입력 관문](core_10_standing_assessment.md#verified-inputs-for-standing)), 잘못된 당사자를 처벌하거나, 피해에 맞지 않는 해결책을 제시하거나, 이의제기와 항소를 차단하는 구실이 아닙니다.
 - **포럼 및 파이프라인 감독:** **제10장부터 제13장**까지의 경로로 이송되는 분쟁에 관해 다음 사항은 이 조항의 적시성·효율성·공정성 기준선에 따라 [제13장 §6 시의적절한 해결, 중요도 단계 및 지연 방지 규율](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)이 규율합니다.
   - 중요도 단계 분류;
@@ -260,13 +260,13 @@ flowchart TB
 - **책임성:** 거버넌스를 통제하는 자는 습관이나 편의만으로 규칙을 유지할 때 책임져야 합니다. 실질적인 헌법 변경을 비상사태, 이행 또는 보관이라는 표지 뒤로 돌려 **권리 기준선 최소치**나 헌법을 적법하게 변경하는 규칙을 회피할 때도 마찬가지입니다.
 - **적시성:** 예정된 재검증과 포획 압력, 이해관계자 배제, 이의제기 권리 저하 또는 중대한 저성과가 나타났을 때의 신속 검토에 적용됩니다.
 
-거버넌스 규칙, 참여 메커니즘, 가중치 모델 및 자금 구조에는 [제1장 §18.4 지속적 정당화](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)의 지속적 정당화 규율이 적용됩니다. **제27-A조**(*고착 방지와 재검토 가능성*) 및 **제27-B조**(*정기적 재검증과 투명한 변경*)는 고착 방지, 재검증 및 투명한 변경의 실질적 기준선을 정합니다.
+거버넌스 규칙, 참여 메커니즘, 가중치 모델 및 자금 구조에는 [제1장 §18.4 지속적 정당화](core_01_c_stewardship_capacity_principles.md#184-지속적-정당화)의 지속적 정당화 규율이 적용됩니다. **제27-A조**(*고착 방지와 재검토 가능성*) 및 **제27-B조**(*정기적 재검증과 투명한 변경*)는 고착 방지, 재검증 및 투명한 변경의 실질적 기준선을 정합니다.
 
 #### 제27-A조: 고착 방지와 재검토 가능성
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: [제1장 §18.4 지속적 정당화](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); 제1장 [§3 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- 상위 근거: 원칙: [제1장 §18.4 지속적 정당화](core_01_c_stewardship_capacity_principles.md#184-지속적-정당화); 제1장 [§3 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -274,7 +274,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
 - [책임성](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [투명성](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [투명성](core_05_band_oversight.md#투명) · [O](core_05_band_oversight.md#투명) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [이해관계자](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -304,7 +304,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [투명성](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [투명성](core_05_band_oversight.md#투명) · [O](core_05_band_oversight.md#투명) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [이의제기 가능성](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [책임성](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -364,7 +364,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [제11장 §5.4](core_11_standing_integration.md#54-special-violation-rules)(*불일치 보상 박탈 및 보고는 이 조항에 따라 과도기 중 제한됨*); [제8장 — 시스템 정렬 인증](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [제11장 §5.4](core_11_standing_integration.md#54-special-violation-rules)(*불일치 보상 박탈 및 보고는 이 조항에 따라 과도기 중 제한됨*); [제8장 — 시스템 정렬 인증](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -374,7 +374,7 @@ flowchart TB
 - [책임성](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [웰빙](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [증거 보존](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [증거 보존](core_05_band_oversight.md#증거-보존) · [O](core_05_band_oversight.md#증거-보존) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -393,12 +393,12 @@ flowchart TB
     - 정치적 압력.
   - 기준, 충족 증거 및 관문 결정은 공개됩니다. 영향을 받는 이해관계자는 채택 전에 기준에 의견을 내고 결정에 이의를 제기할 수 있습니다.
   - 기준 내용, 책임자 지정 및 검증 자료는 [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)(*과도기 거버넌스와 기관 진화*) 및 [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules)(*관문 기준과 진행 규칙*)가 규율합니다.
-- **권리 기준선 채택 — 억제는 지금, 제공은 준비 구축에 따라:** [권리 기준선 최소 원칙](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)에 따라 **제6조**(*동등한 기본권*)를 통해 적용되는 **권리 기준선 최소치**와, 영향을 받는 맥락에서 요구되는 생존·행위능력·차별금지·접근성·감사가능성·구제에 관한 더 강한 분야별 기준선은 각 단계의 채택 목표입니다. 이를 집행할 기관과 문화가 생기기 전에는 권리 기준선을 완전히 집행할 수 없으며, 이 조항도 그렇다고 가장하지 않습니다. 그렇다고 그 사실이 기준선을 낮추도록 허용하지도 않습니다. 의무의 유형에 따라 기준선은 두 방식으로 구속력을 가집니다.
+- **권리 기준선 채택 — 억제는 지금, 제공은 준비 구축에 따라:** [권리 기준선 최소 원칙](core_01_b_interaction_interpretation.md#권리-최저선-최소-기준-원칙)에 따라 **제6조**(*동등한 기본권*)를 통해 적용되는 **권리 기준선 최소치**와, 영향을 받는 맥락에서 요구되는 생존·행위능력·차별금지·접근성·감사가능성·구제에 관한 더 강한 분야별 기준선은 각 단계의 채택 목표입니다. 이를 집행할 기관과 문화가 생기기 전에는 권리 기준선을 완전히 집행할 수 없으며, 이 조항도 그렇다고 가장하지 않습니다. 그렇다고 그 사실이 기준선을 낮추도록 허용하지도 않습니다. 의무의 유형에 따라 기준선은 두 방식으로 구속력을 가집니다.
   - **억제 의무** — 채택자와 과도기 당국이 해서는 안 되는 일 — 새로운 기관이 필요하지 않으므로 발효일부터 구속력을 가집니다.
     - **고의 또는 회피 가능한 후퇴 금지:** 어떤 지성체도 권리 기준선 보호에 접근할 수 있는 정도를 **시작 측정치** 아래로 고의 또는 회피 가능하게 낮춰서는 안 되며, 과도기 조치로 기준선 행사가 실질적으로 더 어려워져서도 안 됩니다.
     - **새로운 위반 금지:** 신규 시스템·정책·관행 및 기존 항목의 중대한 확대는 처음부터 기준선에 맞게 설계해야 합니다. 아래의 달성 경로는 기존 결손만 다루며 새로운 행위에는 적용되지 않습니다.
     - **비가역적 손실 금지:** 아래의 보존 기본원칙과 [제1장 §13.1 기본 임시 태세](core_01_b_interaction_interpretation.md#default-interim-posture)가 전면 적용됩니다.
-    - 과도기 조치에서 **존엄을 훼손하거나, 구실을 만들거나, 차별하거나, 은폐하는 행위**는 금지됩니다. 여기에는 [존엄 훼손 절차 금지 원칙](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)에 따라 **제28-D조**(*비준수 재산 및 시스템; 자발적 양도 유인*)가 과도기 당국에 요구하는 모든 사항도 포함됩니다.
+    - 과도기 조치에서 **존엄을 훼손하거나, 구실을 만들거나, 차별하거나, 은폐하는 행위**는 금지됩니다. 여기에는 [존엄 훼손 절차 금지 원칙](core_01_b_interaction_interpretation.md#존엄-훼손-절차-금지-원칙)에 따라 **제28-D조**(*비준수 재산 및 시스템; 자발적 양도 유인*)가 과도기 당국에 요구하는 모든 사항도 포함됩니다.
     - **정직한 보고:** 검증된 원장 데이터가 없으면 어떠한 기준선도 집행 가능하거나 달성된 것으로, 어떠한 격차도 해소된 것으로 표시할 수 없습니다.
 
     포럼이 해당 범위를 다룰 준비가 되기 전 억제 의무의 임시 집행은 [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication)(*권리 기준선 달성 원장*)이 규율합니다.
@@ -443,7 +443,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [§14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙), [§14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -485,7 +485,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙), [§20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
 - 함께 읽을 자료: [제8장](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)(*시스템 정렬 인증*); [제10장부터 제13장](core_00_preamble.md#62-how-the-full-chain-fits-together)(*권리주체성 파이프라인과 포럼 감독*).
 
 </details>
@@ -493,7 +493,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [감사가능성](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [감사가능성](core_05_band_oversight.md#감사-가능성) · [O](core_05_band_oversight.md#감사-가능성) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [책임성](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [가역성](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

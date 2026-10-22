@@ -7,7 +7,7 @@
 > هذا الملف **جزء من Sentient Constitution**، ويكون **ملزماً فقط معاً** مع ملفات `core_*` المرقمة الأخرى عند قراءتها بوصفها صكاً واحداً. وهو يتضمن **الفصل السابع**: الحد الأدنى المشترك بين العمليات للاستقلال الوظيفي وفصل الواجبات. يأتي بعد أرضية الحقوق في الفصل السادس وقبل فصول الإجراءات الدستورية التي تبدأ بـ[شهادة مواءمة النظام في الفصل الثامن](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index).
 >
 > - **المالك الدستوري:** الحد الأدنى للمقاعد المنفصلة في الأفعال الملزمة مادياً؛ الحد الأدنى الشامل لمحتوى كل [سجل فعل ملزم مادياً](../../core_05_band_accountability.md#materially-binding-act-record)؛ الاستقلال عن الفاعل وعن [خط السيطرة المادية](../../core_05_band_accountability.md#material-control-line) الخاص به؛ نشر توزيع المسارات والأدوار؛ توجيه تضارب المصالح والشواغر والاستبدال والإحالة إلى المقعد الخطأ؛ الاستضافة المدمجة المتناسبة؛ عمليات التسليم القابلة للإسناد؛ والحد الأدنى لشروط الاستقلال التي يجب على كل عملية دستورية لاحقة تطبيقها.
-> - **مصدر طبقة المبادئ:** يقتضي [الفصل الأول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) أن يحافظ الحكم على الاستقلال الوظيفي، ويوجه البنية التشغيلية للمقاعد إلى هذا الموضع.
+> - **مصدر طبقة المبادئ:** يقتضي [الفصل الأول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) أن يحافظ الحكم على الاستقلال الوظيفي، ويوجه البنية التشغيلية للمقاعد إلى هذا الموضع.
 > - **مالك التنفيذ:** يحدّد [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)، و[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)، و[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) مواضع المقاعد ويجعلها تشغيلية. ويجوز أن تكون أحكامها أشد وأن تضيف أنواع مقاعد ذات صلاحية خاصة ومحدودة؛ ولا يجوز لها تضييق هذا الفصل.
 > - **يظل التطبيق الخاص بالعملية في الفصول اللاحقة:** يطبق الفصل الثامن هذه الأرضية على شهادة مواءمة النظام؛ ويطبقها [الفصل التاسع §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) على سجلات الوضع؛ ويطبقها الفصل الثاني عشر و[corpus_forum.md](../../corpus_forum.md) على إجراءات المنتدى. ويجوز لهذه الفصول إضافة ضمانات يقتضيها موضوعها، ولا يجوز لها إنشاء بديل أضعف.
 >
@@ -71,7 +71,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
-- الأساس السابق: [§1](#1-purpose-scope-and-owner-boundary)؛ [الفصل الأول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties)؛ [الفصل الأول §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+- الأساس السابق: [§1](#1-purpose-scope-and-owner-boundary)؛ [الفصل الأول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)؛ [الفصل الأول §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 - اللاحق: من [§3](#3-independence-conflict-and-control-lines) إلى [§9](#9-relationship-to-later-processes)؛ [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*كتالوج المقاعد — نماذج أدوار العملية وحدود التشغيل*).
 - يُقرأ مع: [§6](#6-proportional-scaling-and-merged-hosting) لمسار الاستضافة المدمجة الوحيد المسموح.
 

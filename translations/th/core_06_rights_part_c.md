@@ -83,17 +83,17 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความอยู่ดีมีสุข](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), และ [§19 การจัดตำแหน่งสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความอยู่ดีมีสุข](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ), และ [§19 การจัดตำแหน่งสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-การจดแนวแรงจงใจและการครอบงำระบบ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความน่าเชื่อถือ](../../core_05_band_continuity.md#trustworthiness) · [โอ](../../core_05_band_continuity.md#trustworthiness) · [ม](../../core_05_band_continuity.md#trustworthiness-a) · [ก](../../core_05_band_continuity.md#trustworthiness-a) · [ค](../../core_05_band_continuity.md#trustworthiness-c)
-- [เชื่อมั่น](../../core_05_band_continuity.md#trust) · [โอ](../../core_05_band_continuity.md#trust) · [ม](../../core_05_band_continuity.md#trust-a) · [ก](../../core_05_band_continuity.md#trust-a) · [ค](../../core_05_band_continuity.md#trust-c)
-- [ความเป็นอยู่ที่ดี](../../core_05_band_continuity.md#wellbeing) · [โอ](../../core_05_band_continuity.md#wellbeing) · [ม](../../core_05_band_continuity.md#wellbeing-a) · [ก](../../core_05_band_continuity.md#wellbeing-a) · [ค](../../core_05_band_continuity.md#wellbeing-c)
-- [การพึ่งพาอาศัยกัน](../../core_05_band_continuity.md#dependency) · [โอ](../../core_05_band_continuity.md#dependency) · [ม](../../core_05_band_continuity.md#dependency-a) · [ก](../../core_05_band_continuity.md#dependency-a) · [ค](../../core_05_band_continuity.md#dependency-c)
+- [ความน่าเชื่อถือ](../../core_05.040_band_continuity.md#trustworthiness) · [โอ](../../core_05.040_band_continuity.md#trustworthiness) · [ม](../../core_05.040_band_continuity.md#trustworthiness-a) · [ก](../../core_05.040_band_continuity.md#trustworthiness-a) · [ค](../../core_05.040_band_continuity.md#trustworthiness-c)
+- [เชื่อมั่น](../../core_05.040_band_continuity.md#trust) · [โอ](../../core_05.040_band_continuity.md#trust) · [ม](../../core_05.040_band_continuity.md#trust-a) · [ก](../../core_05.040_band_continuity.md#trust-a) · [ค](../../core_05.040_band_continuity.md#trust-c)
+- [ความเป็นอยู่ที่ดี](../../core_05.040_band_continuity.md#wellbeing) · [โอ](../../core_05.040_band_continuity.md#wellbeing) · [ม](../../core_05.040_band_continuity.md#wellbeing-a) · [ก](../../core_05.040_band_continuity.md#wellbeing-a) · [ค](../../core_05.040_band_continuity.md#wellbeing-c)
+- [การพึ่งพาอาศัยกัน](../../core_05.040_band_continuity.md#dependency) · [โอ](../../core_05.040_band_continuity.md#dependency) · [ม](../../core_05.040_band_continuity.md#dependency-a) · [ก](../../core_05.040_band_continuity.md#dependency-a) · [ค](../../core_05.040_band_continuity.md#dependency-c)
 
 </details>
 
@@ -117,7 +117,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 มาตรการป้องกันสองประการทำงานร่วมกันเพื่อรักษาความปลอดภัยของสิทธิ์นี้: การรับรองทำให้ระบบมีค่าควรแก่ความไว้วางใจนั้น และสิทธิ์ของผู้มีความรู้สึกในการรักษาความซื่อสัตย์
 
-**การรับรองสร้างความไว้วางใจจากฝั่งระบบ:** เมื่อระบบสำคัญมีผลกระทบอย่างแท้จริงต่อการที่ความรู้สึกพึ่งพาระบบนั้น [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ใช้ จะตรวจสอบว่าความรู้สึกสามารถพึ่งพา:
+**การรับรองสร้างความไว้วางใจจากฝั่งระบบ:** เมื่อระบบสำคัญมีผลกระทบอย่างแท้จริงต่อการที่ความรู้สึกพึ่งพาระบบนั้น [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) ภายใต้ [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ใช้ จะตรวจสอบว่าความรู้สึกสามารถพึ่งพา:
 
 - สิ่งที่ระบบบอกว่ามันทำ
 - ข้อจำกัดและความเสี่ยง
@@ -137,7 +137,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 *เพื่อนบ้านบทความ:*
 
 - **เมื่อสิ่งนี้มีผล:** เมื่อพฤติกรรมของระบบเป็นประตูหรือคงอยู่อย่างมีนัยสำคัญ **บทที่หก** สิทธิขั้นต่ำ — รวมถึงข้อมูลสำคัญในการเอาชีวิตรอดภายใต้ **บทความ III-A** (*การอยู่รอด*)
-- **อ่านด้วยกัน:** [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — โดยไม่ต้องทดแทนการรับรองสำหรับพื้นที่ระบุไว้ในที่นี้
+- **อ่านด้วยกัน:** [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) และ [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — โดยไม่ต้องทดแทนการรับรองสำหรับพื้นที่ระบุไว้ในที่นี้
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 #### มาตรา XIII-A: พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ
@@ -145,16 +145,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
 - ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่หนึ่ง §13.1.5 ขั้นตอนการชนกันของสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- อ่านด้วย: [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **เฟื่องฟู** และ **ความต่อเนื่อง**; [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) และ **บทความ III-A** (*การอยู่รอด*) โดยที่การพึ่งพาระบบอย่างต่อเนื่องจะส่งผลต่อการเข้าถึงการเข้าถึงการอยู่รอดที่จำเป็น [**ข้อ XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*สิทธิในการชดใช้และการเยียวยา*) สำหรับความท้าทายที่ประสบความสำเร็จจะต้องนำไปสู่
+- อ่านด้วย: [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **เฟื่องฟู** และ **ความต่อเนื่อง**; [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) และ **บทความ III-A** (*การอยู่รอด*) โดยที่การพึ่งพาระบบอย่างต่อเนื่องจะส่งผลต่อการเข้าถึงการเข้าถึงการอยู่รอดที่จำเป็น [**ข้อ XIII-B**](#มาตรา-xiii-b-สทธในการชดใชและการเยยวยา) (*สิทธิในการชดใช้และการเยียวยา*) สำหรับความท้าทายที่ประสบความสำเร็จจะต้องนำไปสู่
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [เชื่อมั่น](../../core_05_band_continuity.md#trust) · [โอ](../../core_05_band_continuity.md#trust) · [ม](../../core_05_band_continuity.md#trust-a) · [ก](../../core_05_band_continuity.md#trust-a) · [ค](../../core_05_band_continuity.md#trust-c)
-- [ความน่าเชื่อถือ](../../core_05_band_continuity.md#trustworthiness) · [โอ](../../core_05_band_continuity.md#trustworthiness) · [ม](../../core_05_band_continuity.md#trustworthiness-a) · [ก](../../core_05_band_continuity.md#trustworthiness-a) · [ค](../../core_05_band_continuity.md#trustworthiness-c)
-- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
+- [เชื่อมั่น](../../core_05.040_band_continuity.md#trust) · [โอ](../../core_05.040_band_continuity.md#trust) · [ม](../../core_05.040_band_continuity.md#trust-a) · [ก](../../core_05.040_band_continuity.md#trust-a) · [ค](../../core_05.040_band_continuity.md#trust-c)
+- [ความน่าเชื่อถือ](../../core_05.040_band_continuity.md#trustworthiness) · [โอ](../../core_05.040_band_continuity.md#trustworthiness) · [ม](../../core_05.040_band_continuity.md#trustworthiness-a) · [ก](../../core_05.040_band_continuity.md#trustworthiness-a) · [ค](../../core_05.040_band_continuity.md#trustworthiness-c)
+- [เสี่ยง](../../core_05.040_band_continuity.md#risk) · [โอ](../../core_05.040_band_continuity.md#risk) · [ม](../../core_05.040_band_continuity.md#risk-a) · [ก](../../core_05.040_band_continuity.md#risk-a) · [ค](../../core_05.040_band_continuity.md#risk-c)
 - [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
 - [ศรัทธาที่ดี](core_05_band_accountability.md#good-faith) · [โอ](core_05_band_accountability.md#good-faith) · [ม](core_05_band_accountability.md#good-faith-a) · [ก](core_05_band_accountability.md#good-faith-a) · [ค](core_05_band_accountability.md#good-faith-c)
 - [การรายงานที่ได้รับการคุ้มครอง (การแจ้งเบาะแส)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [โอ](core_05_band_accountability.md#protected-reporting-whistleblowing) · [ม](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [ก](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [ค](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
@@ -172,10 +172,10 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - การเปิดเผยเงื่อนไขที่สำคัญ ข้อจำกัด และความเสี่ยงที่จำเป็นในการประเมินว่ารับประกันความน่าเชื่อถือหรือไม่
   - อิสรภาพจากการหลอกลวงอย่างเป็นระบบ การบิดเบือนความจริง หรือการยักย้ายที่ไม่สามารถพิสูจน์ได้
   - การป้องกันความเสี่ยงที่ไม่เปิดเผย ไม่สมส่วน หรือไม่ชัดเจนที่เกิดจากการพึ่งพา
-  - การแก้ไขและแก้ไขเมื่อระบบทำผิด ได้แก่ การรับรู้ การแก้ไข การซ่อมแซมตามสัดส่วน และการป้องกันการเกิดซ้ำ ภายใต้ [**ข้อ XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*สิทธิในการชดใช้และการเยียวยา*) และ [บทที่หนึ่ง §6.1 การแก้ไขและการเยียวยา](core_01_a_values_principles.md#61-correction-and-remedy).
+  - การแก้ไขและแก้ไขเมื่อระบบทำผิด ได้แก่ การรับรู้ การแก้ไข การซ่อมแซมตามสัดส่วน และการป้องกันการเกิดซ้ำ ภายใต้ [**ข้อ XIII-B**](#มาตรา-xiii-b-สทธในการชดใชและการเยยวยา) (*สิทธิในการชดใช้และการเยียวยา*) และ [บทที่หนึ่ง §6.1 การแก้ไขและการเยียวยา](core_01_a_values_principles.md#61-correction-and-remedy).
 - **รับประกันความสามารถในการแข่งขัน:** ระบบที่ส่งผลกระทบอย่างมีนัยสำคัญต่อความรู้สึกจะต้องเปิดกว้างต่อความท้าทายตราบเท่าที่ยังมีความรู้สึกพึ่งพาพวกเขา ที่ต้องการ:
   - เส้นทางที่ใช้งานได้เพื่อท้าทายพฤติกรรม ผลลัพธ์ หรือการนำเสนอของระบบ และให้มีการตรวจสอบความท้าทาย
-  - การตรวจสอบและการตรวจสอบที่เป็นอิสระตามสัดส่วนผลกระทบและการพึ่งพาภายใต้ [**ข้อ XVI**](#article-xvi-audit-transparency-and-independent-verification) (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*);
+  - การตรวจสอบและการตรวจสอบที่เป็นอิสระตามสัดส่วนผลกระทบและการพึ่งพาภายใต้ [**ข้อ XVI**](#ขอ-xvi-การตรวจสอบ-ความโปรงใส-และการพสจนยนยนทเปนอสระ) (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*);
   - ไม่มีการจำกัดขอบเขตใด ๆ เหล่านี้เนื่องจากระบบได้รับการรับรอง ยอมรับอย่างเป็นทางการ หรือพึ่งพาอย่างกว้างขวาง
   - ไม่มีการจำกัดขอบเขตตามข้อความการใช้งานที่กล่าวถึงวิธีการดำเนินการท้าทาย ทบทวน และแก้ไขในโดเมน และต้องเป็นไปตามบทความนี้: ความสะดวก กำหนดเวลา และนโยบายท้องถิ่นเป็นข้อจำกัดที่ต่ำกว่า และไม่สามารถปิดการท้าทาย ทบทวน หรือแก้ไขได้
 - **สิทธิในการท้าทายและทบทวน:** ผู้รับความรู้สึกมีสิทธิที่จะ:
@@ -194,7 +194,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
 - ต้นน้ำ: หลักการ: บทที่หนึ่ง [§6.1 การแก้ไขและการเยียวยา](core_01_a_values_principles.md#61-correction-and-remedy) (พื้นหลักการ) [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), และ [บทที่หนึ่ง §13.1.5 ขั้นตอนการชนกันของสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- อ่านด้วย: [**ข้อ XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) — การรับประกันความสามารถในการแข่งขัน สิทธิ์ในการท้าทาย และการรายงานที่ได้รับการคุ้มครองซึ่งเปิดเส้นทางในการแก้ไข **บทความ III-A** (*การอยู่รอด*); [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) เมื่อระบบล้มเหลวหรือการวางตำแหน่งที่ไม่ตรงเอาชนะการเข้าถึงที่จำเป็นในการเอาชีวิตรอด [คำนำ §6.2 ห่วงโซ่เต็มพอดีกันอย่างไร](core_00_preamble.md#62-how-the-full-chain-fits-together) (*การจำแนกประเภทที่ได้รับการยืนยันและการแก้ไขอย่างทันท่วงที*); [บทที่สิบ §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*ระบบบังคับใช้ความสมจริงและการเยียวยา*); [ซีไอ-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*ระบบการเยียวยาและความสามารถในการเยียวยาของสถาบัน*)
+- อ่านด้วย: [**ข้อ XIII-A**](#มาตรา-xiii-a-พนฐานความนาเชอถอและความนาเชอถอ) (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) — การรับประกันความสามารถในการแข่งขัน สิทธิ์ในการท้าทาย และการรายงานที่ได้รับการคุ้มครองซึ่งเปิดเส้นทางในการแก้ไข **บทความ III-A** (*การอยู่รอด*); [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) เมื่อระบบล้มเหลวหรือการวางตำแหน่งที่ไม่ตรงเอาชนะการเข้าถึงที่จำเป็นในการเอาชีวิตรอด [คำนำ §6.2 ห่วงโซ่เต็มพอดีกันอย่างไร](core_00_preamble.md#62-how-the-full-chain-fits-together) (*การจำแนกประเภทที่ได้รับการยืนยันและการแก้ไขอย่างทันท่วงที*); [บทที่สิบ §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*ระบบบังคับใช้ความสมจริงและการเยียวยา*); [ซีไอ-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*ระบบการเยียวยาและความสามารถในการเยียวยาของสถาบัน*)
 
 </details>
 
@@ -231,16 +231,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [เชื่อมั่น](../../core_05_band_continuity.md#trust) · [โอ](../../core_05_band_continuity.md#trust) · [ม](../../core_05_band_continuity.md#trust-a) · [ก](../../core_05_band_continuity.md#trust-a) · [ค](../../core_05_band_continuity.md#trust-c)
-- [ความน่าเชื่อถือ](../../core_05_band_continuity.md#trustworthiness) · [โอ](../../core_05_band_continuity.md#trustworthiness) · [ม](../../core_05_band_continuity.md#trustworthiness-a) · [ก](../../core_05_band_continuity.md#trustworthiness-a) · [ค](../../core_05_band_continuity.md#trustworthiness-c)
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [เชื่อมั่น](../../core_05.040_band_continuity.md#trust) · [โอ](../../core_05.040_band_continuity.md#trust) · [ม](../../core_05.040_band_continuity.md#trust-a) · [ก](../../core_05.040_band_continuity.md#trust-a) · [ค](../../core_05.040_band_continuity.md#trust-c)
+- [ความน่าเชื่อถือ](../../core_05.040_band_continuity.md#trustworthiness) · [โอ](../../core_05.040_band_continuity.md#trustworthiness) · [ม](../../core_05.040_band_continuity.md#trustworthiness-a) · [ก](../../core_05.040_band_continuity.md#trustworthiness-a) · [ค](../../core_05.040_band_continuity.md#trustworthiness-c)
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -262,15 +262,15 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), และ [§19.1.1 สิ่งจูงใจที่ต้องทำ](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*ลำดับความสำคัญของรางวัล*)
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship), และ [§19.1.1 สิ่งจูงใจที่ต้องทำ](core_01_c_stewardship_capacity_principles.md#1911-สงทแรงจงใจตองทำ) (*ลำดับความสำคัญของรางวัล*)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การจัดตำแหน่งสิ่งจูงใจ](core_05_band_integrative.md#incentive-alignment) · [โอ](core_05_band_integrative.md#incentive-alignment) · [ม](core_05_band_integrative.md#incentive-alignment-a) · [ก](core_05_band_integrative.md#incentive-alignment-a) · [ค](core_05_band_integrative.md#incentive-alignment-c)
-- [ความน่าเชื่อถือ](../../core_05_band_continuity.md#trustworthiness) · [โอ](../../core_05_band_continuity.md#trustworthiness) · [ม](../../core_05_band_continuity.md#trustworthiness-a) · [ก](../../core_05_band_continuity.md#trustworthiness-a) · [ค](../../core_05_band_continuity.md#trustworthiness-c)
+- [การจัดตำแหน่งสิ่งจูงใจ](core_05_band_integrative.md#ความสอดคลองของสงจงใจ) · [โอ](core_05_band_integrative.md#ความสอดคลองของสงจงใจ) · [ม](core_05_band_integrative.md#incentive-alignment-a) · [ก](core_05_band_integrative.md#incentive-alignment-a) · [ค](core_05_band_integrative.md#incentive-alignment-c)
+- [ความน่าเชื่อถือ](../../core_05.040_band_continuity.md#trustworthiness) · [โอ](../../core_05.040_band_continuity.md#trustworthiness) · [ม](../../core_05.040_band_continuity.md#trustworthiness-a) · [ก](../../core_05.040_band_continuity.md#trustworthiness-a) · [ค](../../core_05.040_band_continuity.md#trustworthiness-c)
 - [หน่วยงานที่มีความหมาย](core_05_band_participation.md#meaningful-agency) · [โอ](core_05_band_participation.md#meaningful-agency) · [ม](core_05_band_participation.md#meaningful-agency-a) · [ก](core_05_band_participation.md#meaningful-agency-a) · [ค](core_05_band_participation.md#meaningful-agency-c)
 
 </details>
@@ -303,7 +303,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - การเยียวยาภายใต้ **ข้อ XIII-B** (*สิทธิในการชดใช้และการเยียวยา*); และ
   - การป้องกันปัญหาเชิงรุกที่สำคัญที่สุดคือ การป้องกันปัญหามีมากกว่าการแก้ไข
 
-  หลักการนี้รวมถึงแถบในการรับรางวัลการป้องกันโดยการซ่อนปัญหาไว้ด้วย [บทที่หนึ่ง §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*สิ่งจูงใจที่ต้องทำ*).
+  หลักการนี้รวมถึงแถบในการรับรางวัลการป้องกันโดยการซ่อนปัญหาไว้ด้วย [บทที่หนึ่ง §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-สงทแรงจงใจตองทำ) (*สิ่งจูงใจที่ต้องทำ*).
 - **ข้อ จำกัด และความไม่แน่นอน:** สิทธิทั้งสองอยู่ภายใต้บังคับของ **สแต็กข้อจำกัดเริ่มต้น** ในตอนต้นของบทนี้ นอกจากนี้ยังอยู่ภายใต้หัวข้อที่เกี่ยวข้องกับเนื้อหาด้วย **บทที่หนึ่ง §19.5** (*การเรียกร้องที่อาจเกิดขึ้น เกมแห่งโอกาส และตลาดสัญญาเหตุการณ์-สัญญา*) เกี่ยวกับการเรียกร้องที่อาจเกิดขึ้น เกมแห่งโอกาส และตลาดสัญญาเหตุการณ์
 
 <a id="article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
@@ -311,14 +311,14 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §13.1.5 ขั้นตอนการชนกันของสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §13.1.5 ขั้นตอนการชนกันของสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [โอ](core_05_band_accountability.md#necessity) · [ม](core_05_band_accountability.md#necessity-a) · [ก](core_05_band_accountability.md#necessity-a) · [ค](core_05_band_accountability.md#necessity-c)
 - [สัดส่วน](core_05_band_accountability.md#proportionality) · [โอ](core_05_band_accountability.md#proportionality) · [ม](core_05_band_accountability.md#proportionality-a) · [ก](core_05_band_accountability.md#proportionality-a) · [ค](core_05_band_accountability.md#proportionality-c)
@@ -362,19 +362,19 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 การออกแบบความยืดหยุ่นและการรักษาตนเอง](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 การออกแบบความยืดหยุ่นและการรักษาตนเอง](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การรักษาตนเอง](../../core_05_band_continuity.md#self-healing-constitutional) · [โอ](../../core_05_band_continuity.md#self-healing-constitutional) · [ม](../../core_05_band_continuity.md#self-healing-constitutional-a) · [ก](../../core_05_band_continuity.md#self-healing-constitutional-a) · [ค](../../core_05_band_continuity.md#self-healing-constitutional-c)
-- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [ความล้มเหลวแบบเรียงซ้อน](../../core_05_band_continuity.md#cascading-failure) · [โอ](../../core_05_band_continuity.md#cascading-failure) · [ม](../../core_05_band_continuity.md#cascading-failure-a) · [ก](../../core_05_band_continuity.md#cascading-failure-a) · [ค](../../core_05_band_continuity.md#cascading-failure-c)
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [การรักษาตนเอง](../../core_05.040_band_continuity.md#self-healing) · [โอ](../../core_05.040_band_continuity.md#self-healing) · [ม](../../core_05.040_band_continuity.md#self-healing-constitutional-a) · [ก](../../core_05.040_band_continuity.md#self-healing-constitutional-a) · [ค](../../core_05.040_band_continuity.md#self-healing-constitutional-c)
+- [การย้อนกลับได้](../../core_05.040_band_continuity.md#reversibility) · [โอ](../../core_05.040_band_continuity.md#reversibility) · [ม](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [ความล้มเหลวแบบเรียงซ้อน](../../core_05.040_band_continuity.md#cascading-failure) · [โอ](../../core_05.040_band_continuity.md#cascading-failure) · [ม](../../core_05.040_band_continuity.md#cascading-failure-a) · [ก](../../core_05.040_band_continuity.md#cascading-failure-a) · [ค](../../core_05.040_band_continuity.md#cascading-failure-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [โอ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
 - [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
-- [ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden) · [โอ](../../core_05_band_continuity.md#avoidable-burden) · [ม](../../core_05_band_continuity.md#avoidable-burden-a) · [ก](../../core_05_band_continuity.md#avoidable-burden-a) · [ค](../../core_05_band_continuity.md#avoidable-burden-c)
+- [ภาระที่หลีกเลี่ยงได้](../../core_05.040_band_continuity.md#avoidable-burden) · [โอ](../../core_05.040_band_continuity.md#avoidable-burden) · [ม](../../core_05.040_band_continuity.md#avoidable-burden-a) · [ก](../../core_05.040_band_continuity.md#avoidable-burden-a) · [ค](../../core_05.040_band_continuity.md#avoidable-burden-c)
 
 </details>
 
@@ -384,16 +384,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 บทความนี้กำหนดพื้นฐานการกู้คืน ตั้งแต่การตรวจจับจนถึงการปิดที่สาเหตุที่แท้จริง:
 
-- **สิ่งนี้ต้องการ:** ทุกระบบที่ครอบคลุมในบทความนี้จะต้องสามารถกู้คืนจากความล้มเหลวได้ ยิ่งระบบมีผลกระทบมากเท่าไร คนอื่นๆ ก็จะยิ่งต้องพึ่งพามันมากขึ้นเท่านั้น และยิ่งมีความเสี่ยงมากขึ้นเท่าไร การฟื้นตัวจะต้องแข็งแกร่งขึ้นเท่านั้น ตามนี้ครับ [**10 การออกแบบความยืดหยุ่นและการรักษาตนเอง**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) ใน **บทที่หนึ่ง** และ [**การรักษาตนเอง**](../../core_05_band_continuity.md#self-healing-constitutional) ใน **บทที่ห้า**.
+- **สิ่งนี้ต้องการ:** ทุกระบบที่ครอบคลุมในบทความนี้จะต้องสามารถกู้คืนจากความล้มเหลวได้ ยิ่งระบบมีผลกระทบมากเท่าไร คนอื่นๆ ก็จะยิ่งต้องพึ่งพามันมากขึ้นเท่านั้น และยิ่งมีความเสี่ยงมากขึ้นเท่าไร การฟื้นตัวจะต้องแข็งแกร่งขึ้นเท่านั้น ตามนี้ครับ [**10 การออกแบบความยืดหยุ่นและการรักษาตนเอง**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) ใน **บทที่หนึ่ง** และ [**การรักษาตนเอง**](../../core_05.040_band_continuity.md#self-healing) ใน **บทที่ห้า**.
   - กฎทางเทคนิคโดยละเอียดสำหรับวิธีสร้างการกู้คืนอยู่ในข้อความการใช้งาน: [**ซีเอส-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*การออกแบบ การทดสอบ การตรวจสอบ และการปรับใช้*) [**ซีเอส-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*ความยั่งยืนที่ปรับตัวได้และความยืดหยุ่นของระบบนิเวศ*) และ [**ซีเอส-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*ความต่อเนื่องแบบกระจายอำนาจและความยืดหยุ่นของพาร์ติชัน*)
   - ข้อความการใช้งานนั้นสามารถเพิ่มรายละเอียดได้ แต่ไม่สามารถทำให้บทความนี้อ่อนแอลงได้
-- **แจ้งปัญหาในเวลา:** ระบบจะต้องตรวจพบข้อผิดพลาด การชะลอตัว การพังทลายบางส่วน และการละเมิดข้อจำกัดตามรัฐธรรมนูญอย่างรวดเร็วเพียงพอและมองเห็นได้ชัดเจนเพียงพอ เพื่อให้เป็นไปตามมาตรฐานการเก็บบันทึกข้อมูลใน **ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*) ([ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability)). สิ่งนี้ใช้กับกระบวนการกู้คืนไม่ใช่เฉพาะกับการทำงานปกติเท่านั้น
+- **แจ้งปัญหาในเวลา:** ระบบจะต้องตรวจพบข้อผิดพลาด การชะลอตัว การพังทลายบางส่วน และการละเมิดข้อจำกัดตามรัฐธรรมนูญอย่างรวดเร็วเพียงพอและมองเห็นได้ชัดเจนเพียงพอ เพื่อให้เป็นไปตามมาตรฐานการเก็บบันทึกข้อมูลใน **ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*) ([ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ)). สิ่งนี้ใช้กับกระบวนการกู้คืนไม่ใช่เฉพาะกับการทำงานปกติเท่านั้น
 - **เก็บความเสียหายไว้:** การกู้คืนจะต้องจำกัดขอบเขตของความล้มเหลว ขณะกำลังกู้คืน ระบบจะต้องไม่:
-  - ส่งต่อความล้มเหลวไปยังส่วนอื่นหรือระบบอื่น (ดู [ความล้มเหลวแบบเรียงซ้อน](../../core_05_band_continuity.md#cascading-failure));
+  - ส่งต่อความล้มเหลวไปยังส่วนอื่นหรือระบบอื่น (ดู [ความล้มเหลวแบบเรียงซ้อน](../../core_05.040_band_continuity.md#cascading-failure));
   - เปลี่ยนแปลงข้อมูลที่เก็บไว้ ข้อมูลประจำตัว ภาระผูกพัน หรือการตั้งค่าที่เป็นของความรู้สึก ผู้ปฏิบัติงาน หรือระบบอื่น ๆ **ข้างนอก** พื้นที่ที่ได้ประกาศไว้ว่าชำรุดและอยู่ระหว่างการซ่อมแซม
-    - ข้อยกเว้นประการเดียวคือการเปลี่ยนแปลงที่ได้รับการบันทึกและติดตามได้จากใครก็ตามที่ทำการเปลี่ยนแปลงนั้น **ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*) ([ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability)) และในกรณีที่ผู้อื่นได้รับผลกระทบอย่างมีนัยสำคัญ จะต้องแจ้งให้ทราบตามสัดส่วน การอนุญาต หรือการส่งมอบที่พวกเขาสามารถท้าทายได้ ซึ่งสอดคล้องกับ **บทที่หก**;
+    - ข้อยกเว้นประการเดียวคือการเปลี่ยนแปลงที่ได้รับการบันทึกและติดตามได้จากใครก็ตามที่ทำการเปลี่ยนแปลงนั้น **ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*) ([ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ)) และในกรณีที่ผู้อื่นได้รับผลกระทบอย่างมีนัยสำคัญ จะต้องแจ้งให้ทราบตามสัดส่วน การอนุญาต หรือการส่งมอบที่พวกเขาสามารถท้าทายได้ ซึ่งสอดคล้องกับ **บทที่หก**;
   - ขยายอำนาจของตนเอง — การอนุญาต การเข้าถึง หรือขอบเขตการดำเนินการที่อาจทำ — นอกเหนือจากที่ถือไว้ก่อนที่จะเกิดความล้มเหลว
-- **เมื่อไม่แน่ใจ ให้ล้มเหลวอย่างปลอดภัย:** หากไม่ชัดเจนว่าการซ่อมแซมอัตโนมัติจะทำงานได้ ระบบจะต้องหยุดการทำงานอย่างปลอดภัย แยกปัญหา (กักกัน) หรือควบคุมด้วยมืออย่างเป็นระเบียบ แทนที่จะพยายามซ่อมแซมที่เป็นเพียงการเดาเท่านั้น เมื่อตัวเลือกมีค่าเท่ากัน ตัวเลือกที่เลิกทำได้ง่ายที่สุดจะชนะภายใต้ [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) การตั้งค่าใน **ข้อ XXIII-B** (*การตั้งค่าความสามารถในการตรวจสอบ ความท้าทาย และความสามารถในการพลิกกลับได้*)
+- **เมื่อไม่แน่ใจ ให้ล้มเหลวอย่างปลอดภัย:** หากไม่ชัดเจนว่าการซ่อมแซมอัตโนมัติจะทำงานได้ ระบบจะต้องหยุดการทำงานอย่างปลอดภัย แยกปัญหา (กักกัน) หรือควบคุมด้วยมืออย่างเป็นระเบียบ แทนที่จะพยายามซ่อมแซมที่เป็นเพียงการเดาเท่านั้น เมื่อตัวเลือกมีค่าเท่ากัน ตัวเลือกที่เลิกทำได้ง่ายที่สุดจะชนะภายใต้ [การย้อนกลับได้](../../core_05.040_band_continuity.md#reversibility) การตั้งค่าใน **ข้อ XXIII-B** (*การตั้งค่าความสามารถในการตรวจสอบ ความท้าทาย และความสามารถในการพลิกกลับได้*)
 - **ไม่มีการปกปิด:** การกู้คืนอัตโนมัติจะต้องไม่ซ่อน ลบ หรือชะลอหลักฐานที่จำเป็นในการหาสาเหตุความล้มเหลวที่เกิดขึ้น **ข้อ XXIII** (*การวิเคราะห์สาเหตุที่แท้จริงและการตอบสนองแบบปรับตัว*)
   - ทุกการดำเนินการกู้คืน ทุกความพยายามในการกู้คืน และทุกความพยายามในการกู้คืนที่ถูกระงับหรือบล็อกจะต้องถูกบันทึกไว้ภายใต้ **ข้อ XVI-ก** (*ความสามารถในการตรวจสอบและหลักฐานที่สังเกตได้*) และแต่ละข้อสามารถถูกท้าทายได้ (ดู [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability)).
 - **สิทธิ์จะได้รับการคุ้มครองในโหมดลดขนาด:** เมื่อระบบทำงานในโหมดลดขนาดหรือโหมดสำรอง ระบบยังคงต้องป้องกัน **บทที่หก** ชั้นสิทธิ. หากทำไม่ได้ ก็จะต้องทำให้ปัญหาบานปลายอย่างเปิดเผย แทนที่จะตัดความคุ้มครองเหล่านั้นออกไปอย่างเงียบๆ
@@ -403,7 +403,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 - **วิธีแก้ปัญหาไม่ใช่การแก้ไข:** หากการกู้คืนอัตโนมัติทำให้ระบบทำงานอีกครั้งแต่ยังมีข้อบกพร่องที่ทราบอยู่ สถานะของระบบจะเป็นแบบชั่วคราว ไม่ใช่ที่สิ้นสุด มันจะต้องดำเนินการ:
   - หน้าที่เปิดเพื่อค้นหาสาเหตุที่แท้จริงภายใต้ **ข้อ XXIII** (*การวิเคราะห์สาเหตุที่แท้จริงและการตอบสนองแบบปรับตัว*);
   - กำหนดเวลาที่เปิดเผยเมื่อคาดว่าจะแก้ไขข้อบกพร่องภายใต้ **ข้อ XVI-ก** (*การตรวจสอบและหลักฐานที่สังเกตได้*)
-- **ไม่มีความล่าช้าไม่มีที่สิ้นสุด:** ทำให้ภาระงานของผู้ปฏิบัติงานลดลง (ดู [ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden) และ [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) จะต้องไม่ถูกนำมาใช้เป็นเหตุให้เลื่อนการแก้ไขข้อบกพร่องที่มีผลกระทบต่อความปลอดภัยหรือสิทธิขั้นต่ำอย่างไม่มีกำหนด
+- **ไม่มีความล่าช้าไม่มีที่สิ้นสุด:** ทำให้ภาระงานของผู้ปฏิบัติงานลดลง (ดู [ภาระที่หลีกเลี่ยงได้](../../core_05.040_band_continuity.md#avoidable-burden) และ [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด)) จะต้องไม่ถูกนำมาใช้เป็นเหตุให้เลื่อนการแก้ไขข้อบกพร่องที่มีผลกระทบต่อความปลอดภัยหรือสิทธิขั้นต่ำอย่างไม่มีกำหนด
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### ข้อ XIV: ความมั่นคง ความฉลาด กำลัง และระบบบังคับบังคับอัตโนมัติ
@@ -411,7 +411,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความอยู่ดีมีสุข](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความอยู่ดีมีสุข](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
 
 </details>
 
@@ -471,7 +471,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [โอ](core_05_band_accountability.md#necessity) · [ม](core_05_band_accountability.md#necessity-a) · [ก](core_05_band_accountability.md#necessity-a) · [ค](core_05_band_accountability.md#necessity-c)
 - [สัดส่วน](core_05_band_accountability.md#proportionality) · [โอ](core_05_band_accountability.md#proportionality) · [ม](core_05_band_accountability.md#proportionality-a) · [ก](core_05_band_accountability.md#proportionality-a) · [ค](core_05_band_accountability.md#proportionality-c)
-- [ขอบเขตภายในรัฐที่ได้รับการคุ้มครอง](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [โอ](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [ม](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [ก](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [ค](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [ขอบเขตภายในรัฐที่ได้รับการคุ้มครอง](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [โอ](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [ม](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [ก](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [ค](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -515,7 +515,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - การสอบสวนพฤติกรรมที่ผิดกฎหมายอย่างร้ายแรงที่มีสาระสำคัญ
 - **การอนุญาตที่เป็นอิสระ:** มาตรการแอบแฝงที่ล่วงล้ำ รวมถึงขั้นตอนการสืบสวนที่มีข้อจำกัดด้านความลับ จำเป็นต้องได้รับอนุญาตล่วงหน้าผ่านกระบวนการอิสระที่ชอบด้วยกฎหมาย
   - ข้อยกเว้น: ในกรณีที่จำเป็นต้องดำเนินการในทันทีเพื่อป้องกันอันตรายที่ใกล้เข้ามาและทางวัตถุ และการอนุญาตที่ล่าช้าจะทำให้วัตถุประสงค์ดังกล่าวล้มเหลว
-  - การใช้งานในกรณีฉุกเฉินจะต้องกระตุ้นให้มีการทบทวนภายหลังและการเก็บรักษาบันทึกภายใต้ทันที [การเก็บรักษาหลักฐาน](core_05_band_oversight.md#evidence-preservation)และพ้นกำหนดอัตโนมัติโดยไม่ได้รับการอนุญาตใหม่ทันเวลา
+  - การใช้งานในกรณีฉุกเฉินจะต้องกระตุ้นให้มีการทบทวนภายหลังและการเก็บรักษาบันทึกภายใต้ทันที [การเก็บรักษาหลักฐาน](core_05_band_oversight.md#การรกษาหลกฐาน)และพ้นกำหนดอัตโนมัติโดยไม่ได้รับการอนุญาตใหม่ทันเวลา
 - **ไม่มีการหลบเลี่ยงการต่อต้านบายพาส:** ห้ามมิให้สถาบันใดได้รับ ร้องขอ ซื้อ รับ ฟอก หรือใช้ข้อมูลผ่านทางสิ่งต่อไปนี้ เพื่อหลีกเลี่ยงข้อจำกัดทางรัฐธรรมนูญที่จะนำมาใช้หากรวบรวมหรือรับข้อมูลโดยตรง:
   - พันธมิตรต่างประเทศ
   - คนกลาง;
@@ -541,7 +541,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   การกำกับดูแลที่เป็นอิสระ เส้นทางที่ท้าทาย และการป้องกันการต่อต้านการสืบสวนด้วยตนเอง จะต้องยังคงใช้งานได้จริง
 - **กฎการเยียวยาและมลทิน:** ข้อมูลที่ได้รับหรือใช้โดยละเมิดมาตรานี้จะต้องได้รับการดำเนินการแก้ไขตามกฎหมายที่เพียงพอที่จะคืนสิทธิ์และยับยั้งการเกิดซ้ำ ตัวอย่าง:
   - การยกเว้น;
-  - การแบ่งแยก;
+  - การแยกกัก;
   - การลบ;
   - การจัดประเภทใหม่;
   - สังเกต;
@@ -555,7 +555,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 ข้อจำกัดทางวินัย](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 การทดสอบการตัดสินใจเกี่ยวกับการชนกันของสิทธิ์](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 ข้อห้ามในการแทนที่โดยสมบูรณ์](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-ความจำเปน), [§7.1 ข้อจำกัดทางวินัย](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 การทดสอบการตัดสินใจเกี่ยวกับการชนกันของสิทธิ์](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 ข้อห้ามในการแทนที่โดยสมบูรณ์](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - ปลายน้ำ: **ข้อ ก.ก** (*เงื่อนไขเบื้องต้นด้านสิ่งแวดล้อมและความสมบูรณ์ของระบบนิเวศ*) เงื่อนไขเบื้องต้นด้านสิ่งแวดล้อม **รหัสบทความ-D** (*ความเสี่ยงที่มีอยู่และความสามารถในการฟื้นตัวของระบบนิเวศ*) การตรวจสอบความเสี่ยงที่มีอยู่ **บทความ VI-ก** (*ศักดิ์ศรีและจุดยืนทางศีลธรรมที่เท่าเทียมกัน*) ศักดิ์ศรี **ข้อ XIV-A** (*การจำกัดความปลอดภัย ความฉลาด และอำนาจแอบแฝง*) การจำกัดอำนาจแอบแฝง (คู่กันด้านอำนาจเปิดเผย) **บทที่สิบสอง §6.1** (*มาตรการฉุกเฉินและภาระต่อเนื่อง*) ขีดจำกัดมาตรการฉุกเฉิน **ข้อ XXV** (*การทบทวนย้อนหลังอย่างทันท่วงทีและการจัดแนวการบูรณะ*) การแก้ไขข้อขัดแย้ง **ข้อ XXVII** (*การกำกับดูแลการเปลี่ยนแปลง ความต่อเนื่อง และการปรับฐานใหม่*) การกำกับดูแลการเปลี่ยนแปลง การอ้างอิงโยง: **บทความ XX-B** (*ชั้นจำกัด*) และบทที่ห้า *[มาตรการกีดกันที่ไม่สามารถย้อนกลับได้](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **ข้อที่ 14** (*การรักษาความปลอดภัย ความฉลาด กองกำลัง และระบบบังคับบังคับอัตโนมัติ*) *ใช้ระเบียบวินัยที่ไม่ก่อความขัดแย้ง*
 - อ่านด้วย: [**Def.A4** *การใช้กำลัง การบังคับขู่เข็ญโดยอิสระ ระบบการสังหารโดยอิสระ และอาวุธที่ก่อให้เกิดอันตรายร้ายแรง*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (การวิงวอนร่วมในกรณีที่เกี่ยวข้องอย่างเป็นรูปธรรม) บทที่ห้า *การใช้กำลัง*, *อาวุธที่ก่อให้เกิดอันตรายร้ายแรง*, *ความแตกต่างระหว่างนักรบ/ผู้ไม่ต่อสู้*, *[มาตรการกีดกันที่ไม่สามารถย้อนกลับได้](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *ความเสี่ยงที่มีอยู่*, *การพลิกกลับได้*, *การแก้ไขและการแก้ไข*
 
@@ -571,7 +571,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [โอ](core_05_band_accountability.md#necessity) · [ม](core_05_band_accountability.md#necessity-a) · [ก](core_05_band_accountability.md#necessity-a) · [ค](core_05_band_accountability.md#necessity-c)
 - [สัดส่วน](core_05_band_accountability.md#proportionality) · [โอ](core_05_band_accountability.md#proportionality) · [ม](core_05_band_accountability.md#proportionality-a) · [ก](core_05_band_accountability.md#proportionality-a) · [ค](core_05_band_accountability.md#proportionality-c)
 - [ลักษณะที่ได้รับการคุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) · [โอ](core_05_band_participation.md#protected-characteristics-constitutional) · [ม](core_05_band_participation.md#protected-characteristics-constitutional-a) · [ก](core_05_band_participation.md#protected-characteristics-constitutional-a) · [ค](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [ความเสี่ยงที่มีอยู่](../../core_05_band_continuity.md#existential-risk) · [โอ](../../core_05_band_continuity.md#existential-risk) · [ม](../../core_05_band_continuity.md#existential-risk-a) · [ก](../../core_05_band_continuity.md#existential-risk-a) · [ค](../../core_05_band_continuity.md#existential-risk-c)
+- [ความเสี่ยงที่มีอยู่](../../core_05.040_band_continuity.md#existential-risk) · [โอ](../../core_05.040_band_continuity.md#existential-risk) · [ม](../../core_05.040_band_continuity.md#existential-risk-a) · [ก](../../core_05.040_band_continuity.md#existential-risk-a) · [ค](../../core_05.040_band_continuity.md#existential-risk-c)
 - [การชดใช้และการแก้ไข](core_05_band_accountability.md#redress-and-remediation-constitutional) · [โอ](core_05_band_accountability.md#redress-and-remediation-constitutional) · [ม](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [ก](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [ค](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
@@ -621,7 +621,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 สัดส่วน](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 ข้อกำหนดการจัดตำแหน่ง](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [§14 ข้อห้ามในการแทนที่โดยสมบูรณ์](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 สัดส่วน](core_01_b_interaction_interpretation.md#1313-ความไดสดสวน), [§13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-ความจำเปน), [§19.1 ข้อกำหนดการจัดตำแหน่ง](core_01_c_stewardship_capacity_principles.md#191-ขอกำหนดดานการจดแนว), [§14 ข้อห้ามในการแทนที่โดยสมบูรณ์](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - ปลายน้ำ: **รหัสบทความ-D** (*ความเสี่ยงที่มีอยู่และความสามารถในการฟื้นตัวของระบบนิเวศ*) การตรวจสอบความเสี่ยงที่มีอยู่ **ข้อ ก-ก** (*หน่วยงานและอิสรภาพจากการยักย้าย*) อิสรภาพจากการยักย้าย **ข้อ XIV-A** (*การจำกัดความปลอดภัย ความฉลาด และอำนาจแอบแฝง*) การจำกัดอำนาจแอบแฝง **ข้อ XIV-B** (*การใช้กำลัง ความขัดแย้งทางอาวุธ และการจำกัดอำนาจทางการทหาร*) การใช้กำลังอย่างเปิดเผย **ข้อ XIII-A** (*ความน่าเชื่อถือและความน่าเชื่อถือพื้นฐาน*) ความน่าเชื่อถือและความน่าเชื่อถือพื้นฐาน (คู่กันของชั้นระบบ) **ข้อ XIII-E** (*ระบบอัตโนมัติระดับสูงและความสมบูรณ์ของกระบวนการที่ใช้เครื่องมือเป็นสื่อกลาง*) การดูแลตนเองโดยอิสระและการปรับขนาดโดยอิสระ **ข้อ XIII-F** (*พื้นฐานความยืดหยุ่นและการรักษาตนเอง*) พื้นฐานความยืดหยุ่นและการรักษาตนเอง การอ้างอิงโยง: **บทความ XX-B** (*ชั้นจำกัด*) และบทที่ห้า *[มาตรการกีดกันที่ไม่สามารถย้อนกลับได้](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **ข้อที่ 14** (*การรักษาความปลอดภัย ความฉลาด กองกำลัง และระบบบังคับบังคับอัตโนมัติ*) *ใช้ระเบียบวินัยที่ไม่ก่อความขัดแย้ง*
 - อ่านด้วย: [**Def.A4** *การใช้กำลัง การบังคับขู่เข็ญโดยอิสระ ระบบการสังหารโดยอิสระ และอาวุธที่ก่อให้เกิดอันตรายร้ายแรง*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (การวิงวอนร่วมในกรณีที่เกี่ยวข้องอย่างเป็นรูปธรรม) บทที่ห้า *ระบบสังหารอัตโนมัติ*, *เครื่องมือบังคับบังคับอัตโนมัติ*, *[มาตรการกีดกันที่ไม่สามารถย้อนกลับได้](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *การบังคับและการจัดการ*, *การพลิกกลับได้* การใช้งานเลเยอร์ระบบ: **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** การจำแนกประเภท
 
@@ -633,7 +633,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 - [ระบบสังหารอัตโนมัติ](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [โอ](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [ม](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [ก](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [ค](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
 - [เครื่องมือบังคับบังคับอัตโนมัติ](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [โอ](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [ม](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [ก](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [ค](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
 - [การบังคับและการจัดการ](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [โอ](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [ม](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [ก](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [ค](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [เงื่อนไขของฝ่ายตรงข้าม ปรับขนาด และถูกเอารัดเอาเปรียบ](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [โอ](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [ม](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [ก](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [ค](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
+- [เงื่อนไขของฝ่ายตรงข้าม ปรับขนาด และถูกเอารัดเอาเปรียบ](core_05_band_oversight.md#เงอนไขเชงปรปกษ-ทถกขยายขนาด-และทถกแสวงหาประโยชน) · [โอ](core_05_band_oversight.md#เงอนไขเชงปรปกษ-ทถกขยายขนาด-และทถกแสวงหาประโยชน) · [ม](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [ก](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [ค](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
 - [การตรวจสอบข้อเท็จจริงที่เข้มข้นขึ้น](core_05_band_oversight.md#heightened-scrutiny) · [โอ](core_05_band_oversight.md#heightened-scrutiny) · [ม](core_05_band_oversight.md#heightened-scrutiny-a) · [ก](core_05_band_oversight.md#heightened-scrutiny-a) · [ค](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
@@ -678,21 +678,21 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](../../core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7.1 วินัยด้านข้อจำกัด](../../core_01_a_values_principles.md#71-limitation-discipline) และ [บทที่หนึ่ง §13.1.5 กระบวนการเมื่อสิทธิชนกัน](../../core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- อ่านร่วมกับ [มาตรา XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) ซึ่งใช้บังคับทั้งหมด; [บทที่แปด §7 การดำเนินการฉุกเฉินและเร่งด่วน](../../core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action); และ [บทที่สิบสาม §6.1](../../core_13_forum.md#61-emergency-measures-and-continuation-burden) (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*)
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](../../core_01.005_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7.1 วินัยด้านข้อจำกัด](../../core_01.005_values_principles.md#71-limitation-discipline) และ [บทที่หนึ่ง §13.1.5 กระบวนการเมื่อสิทธิชนกัน](../../core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test)
+- อ่านร่วมกับ [มาตรา XIV-A](#มาตรา-xiv-a-การรกษาความปลอดภย-ความฉลาด-และขดจำกดอำนาจแอบแฝง) ซึ่งใช้บังคับทั้งหมด; [บทที่แปด §7 การดำเนินการฉุกเฉินและเร่งด่วน](../../core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action); และ [บทที่สิบสาม §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">นิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความจำเป็น](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [การรายงานที่ได้รับความคุ้มครอง (การแจ้งเบาะแส)](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](../../core_05_band_accountability.md#protected-reporting-whistleblowing-c)
-- [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) · [O](../../core_05_band_participation.md#protected-characteristics) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [ความโหดร้าย](../../core_05_band_accountability.md#cruelty) · [O](../../core_05_band_accountability.md#cruelty) · [M](../../core_05_band_accountability.md#cruelty-a) · [A](../../core_05_band_accountability.md#cruelty-a) · [C](../../core_05_band_accountability.md#cruelty-c)
-- [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](../../core_05_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [บันทึกการกระทำที่มีผลผูกพันในสาระสำคัญ](../../core_05_band_accountability.md#materially-binding-act-record) · [O](../../core_05_band_accountability.md#materially-binding-act-record) · [M](../../core_05_band_accountability.md#materially-binding-act-record-a) · [A](../../core_05_band_accountability.md#materially-binding-act-record-a) · [C](../../core_05_band_accountability.md#materially-binding-act-record-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [การรายงานที่ได้รับความคุ้มครอง (การแจ้งเบาะแส)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [O](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [M](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [A](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [C](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-c)
+- [ลักษณะที่ได้รับความคุ้มครอง](../../core_05.055_band_participation.md#protected-characteristics) · [O](../../core_05.055_band_participation.md#protected-characteristics) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [ความโหดร้าย](../../core_05.035_band_accountability.md#cruelty) · [O](../../core_05.035_band_accountability.md#cruelty) · [M](../../core_05.035_band_accountability.md#cruelty-a) · [A](../../core_05.035_band_accountability.md#cruelty-a) · [C](../../core_05.035_band_accountability.md#cruelty-c)
+- [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [บันทึกการกระทำที่มีผลผูกพันในสาระสำคัญ](../../core_05.035_band_accountability.md#materially-binding-act-record) · [O](../../core_05.035_band_accountability.md#materially-binding-act-record) · [M](../../core_05.035_band_accountability.md#materially-binding-act-record-a) · [A](../../core_05.035_band_accountability.md#materially-binding-act-record-a) · [C](../../core_05.035_band_accountability.md#materially-binding-act-record-c)
 
 </details>
 
@@ -703,7 +703,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 มาตรานี้กำหนดขอบเขตอำนาจต่อต้านการจารกรรม:
 
 - **ขอบเขต:** การตรวจจับ สอบสวน และหยุดการจารกรรม การก่อวินาศกรรม และการแทรกซึมที่เป็นปฏิปักษ์ รวมถึงโครงการเฝ้าระวังภัยจากคนใน การสอบสวนการรั่วไหล การตรวจสอบความมั่นคง และปฏิบัติการต่อหน่วยข่าวกรองฝ่ายปฏิปักษ์ ไม่ว่าใครเป็นผู้ดำเนินการ
-  - ความคุ้มครองใช้กับผู้ต้องสงสัยทุกคน ทั้งมนุษย์หรือสังเคราะห์ สมาชิกหรือบุคคลภายนอก ตาม [หลักไม่ตัดสิ่งมีความรู้สึกออก](../../core_05_band_participation.md#sentience-non-exclusion)
+  - ความคุ้มครองใช้กับผู้ต้องสงสัยทุกคน ทั้งมนุษย์หรือสังเคราะห์ สมาชิกหรือบุคคลภายนอก ตาม [หลักไม่ตัดสิ่งมีความรู้สึกออก](../../core_05.055_band_participation.md#sentience-non-exclusion)
   - การต่อต้านการจารกรรมเป็นอำนาจลับ **มาตรา XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*) ใช้บังคับทั้งหมด มาตรานี้เพิ่มข้อคุ้มครองและห้ามลดทอนข้อจำกัดดังกล่าว
   - การใช้กำลังใด ๆ อยู่ภายใต้ **มาตรา XIV-B** (*การใช้กำลัง ความขัดแย้งทางอาวุธ และข้อจำกัดอำนาจทหาร*) และเครื่องมืออัตโนมัติอยู่ภายใต้ **มาตรา XIV-C** (*ระบบสังหารอัตโนมัติและเครื่องมือบีบบังคับอัตโนมัติ*) ตามเงื่อนไขของแต่ละมาตรา
 - **กำหนดกฎก่อนเกิดวิกฤต:** ทุกสถาบันที่ทำหน้าที่ต่อต้านการจารกรรมต้องเผยแพร่ระเบียบตอบสนองที่ผ่านกระบวนการอนุมัติอิสระก่อนจำเป็นต้องใช้ ระเบียบต้องระบุ:
@@ -714,11 +714,11 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - วิธีคืนการเข้าถึง สถานะ และประวัติแก่ผู้มีความรู้สึกที่ได้รับการยืนยันว่าบริสุทธิ์
 
   ตัวข้อจำกัดต้องเปิดเผยต่อสาธารณะ ความลับอาจปกปิดวิธีเฉพาะหรือปฏิบัติการที่กำลังดำเนินอยู่ แต่ห้ามปกปิดกฎที่ผูกมัดการใช้อำนาจ
-  - **ห้ามคิดมาตรการนอกกฎขึ้นเอง:** ใช้มาตรการที่ระเบียบไม่อนุญาตได้เฉพาะในฐานะมาตรการฉุกเฉินตาม [บทที่แปด §7](../../core_08_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) และ **บทที่สิบสาม §6.1** (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*) เท่านั้น ต้องใช้เท่าที่จำเป็นน้อยที่สุด ย้อนกลับได้เมื่อเป็นไปได้ บันทึกทันที ผ่านการทบทวนอิสระ และสิ้นสุดโดยอัตโนมัติเว้นแต่ได้รับอนุมัติอย่างเป็นอิสระ
+  - **ห้ามคิดมาตรการนอกกฎขึ้นเอง:** ใช้มาตรการที่ระเบียบไม่อนุญาตได้เฉพาะในฐานะมาตรการฉุกเฉินตาม [บทที่แปด §7](../../core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) และ **บทที่สิบสาม §6.1** (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*) เท่านั้น ต้องใช้เท่าที่จำเป็นน้อยที่สุด ย้อนกลับได้เมื่อเป็นไปได้ บันทึกทันที ผ่านการทบทวนอิสระ และสิ้นสุดโดยอัตโนมัติเว้นแต่ได้รับอนุมัติอย่างเป็นอิสระ
   - **เหตุฉุกเฉินไม่เขียนกฎใหม่:** การแก้ระเบียบต้องผ่านการอนุมัติอิสระแบบเดียวกัน และใช้ได้เฉพาะกับเหตุการณ์ในอนาคต
   - **การค้นพบไม่ใช่เหตุฉุกเฉิน:** การพบจารชน การรั่วไหล หรือการละเมิดไม่ได้ระงับระเบียบโดยตัวมันเอง
 - **ความสงสัยต้องตั้งอยู่บนการกระทำ:** เปิดการสอบสวนได้ต่อเมื่อมีข้อเท็จจริงเฉพาะเจาะจงและบันทึกไว้เกี่ยวกับการกระทำของผู้มีความรู้สึกเอง สิ่งต่อไปนี้เพียงลำพังไม่เพียงพอ:
-  - [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) หรือสิ่งใช้แทน รวมถึงชาติกำเนิดหรือชาติพันธุ์ ศาสนา หรือประเภทฐานรองรับ;
+  - [ลักษณะที่ได้รับความคุ้มครอง](../../core_05.055_band_participation.md#protected-characteristics) หรือสิ่งใช้แทน รวมถึงชาติกำเนิดหรือชาติพันธุ์ ศาสนา หรือประเภทฐานรองรับ;
   - ความสัมพันธ์ทางครอบครัวในต่างประเทศ หากไม่มีข้อเท็จจริงอื่น;
   - ความเชื่อ การรวมกลุ่ม หรือความเห็นทางการเมืองที่ชอบด้วยกฎหมาย;
   - การติดต่อคนหรือหน่วยงานต่างชาติในกิจวัตรการวิจัย การค้า ชีวิตครอบครัว หรือสื่อสารมวลชน;
@@ -731,16 +731,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - การเข้าถึงผู้มีความรู้สึก วัสดุ หรือระบบที่ทราบว่าหน่วยข่าวกรองฝ่ายปฏิปักษ์มุ่งเป้า
   - **ผู้ใดเป็นฝ่ายปฏิปักษ์:** การกำหนดรัฐหรือองค์กรว่าเป็นฝ่ายปฏิปักษ์เป็นการกระทำที่มีผลผูกพันในสาระสำคัญ ต้องอนุมัติอย่างเป็นอิสระและมีบันทึกการกระทำ ต้องเผยแพร่รายชื่อ ทบทวนตามกำหนดสม่ำเสมอ และการกำหนดหมดอายุหากไม่ต่ออายุ
   - **ประวัติความเสี่ยงรองรับอะไร:** อาจใช้เพื่อคัดกรองเข้มขึ้น จำกัดการเข้าถึง ให้คำชี้แจงเพื่อป้องกัน และเพิ่มการตรวจสอบภายในระเบียบ ความเชื่อมโยงที่มีหลักฐานกับหน่วยข่าวกรองฝ่ายปฏิปักษ์เป็นข้อเท็จจริงเกี่ยวกับการกระทำของบุคคลและเปิดสอบสวนได้ ส่วนการเสี่ยงถูกกดดันเพียงอย่างเดียวบ่งว่าบุคคลอาจเป็นเป้าหมายของฝ่ายนั้น จึงเรียกร้องการคุ้มครองและคัดกรอง ไม่ใช่ความสงสัย
-  - **เส้นแบ่งที่คงอยู่:** เชื้อสาย ชาติพันธุ์ ศาสนา และชาติกำเนิดหรือภูมิหลังทางสังคมไม่ใช่ปัจจัยเสี่ยงในตัวเอง จะนำมาพิจารณาได้ต่อเมื่อมีความเชื่อมโยงปัจจุบันที่มีหลักฐานตามประเภทข้างต้น การใช้ต้องผ่านเกณฑ์ [ความจำเป็น](../../core_05_band_accountability.md#necessity) [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) และความเป็นธรรมในสาระตามที่ [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) กำหนด และการทบทวนที่เผยแพร่ในหัวข้อ *บันทึกและการทบทวน* ต้องตรวจสอบผลของประวัติต่อกลุ่มต่าง ๆ
-- **ผู้แจ้งเบาะแสและนักข่าวไม่ใช่จารชน:** ห้ามสอบสวนหรือลงโทษการเปิดเผยที่เป็น [การรายงานที่ได้รับความคุ้มครอง](../../core_05_band_accountability.md#protected-reporting-whistleblowing) และการทำข่าวเกี่ยวกับเรื่องนั้นในฐานะการจารกรรม
+  - **เส้นแบ่งที่คงอยู่:** เชื้อสาย ชาติพันธุ์ ศาสนา และชาติกำเนิดหรือภูมิหลังทางสังคมไม่ใช่ปัจจัยเสี่ยงในตัวเอง จะนำมาพิจารณาได้ต่อเมื่อมีความเชื่อมโยงปัจจุบันที่มีหลักฐานตามประเภทข้างต้น การใช้ต้องผ่านเกณฑ์ [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) และความเป็นธรรมในสาระตามที่ [ลักษณะที่ได้รับความคุ้มครอง](../../core_05.055_band_participation.md#protected-characteristics) กำหนด และการทบทวนที่เผยแพร่ในหัวข้อ *บันทึกและการทบทวน* ต้องตรวจสอบผลของประวัติต่อกลุ่มต่าง ๆ
+- **ผู้แจ้งเบาะแสและนักข่าวไม่ใช่จารชน:** ห้ามสอบสวนหรือลงโทษการเปิดเผยที่เป็น [การรายงานที่ได้รับความคุ้มครอง](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) และการทำข่าวเกี่ยวกับเรื่องนั้นในฐานะการจารกรรม
   - ห้ามใช้การสอบสวนการรั่วไหลเพื่อระบุตัวแหล่งข่าวของนักข่าวหรือทำให้การรายงานที่ได้รับความคุ้มครองหวาดกลัว เว้นแต่มีข้อพิสูจน์เฉพาะและผ่านการทบทวนอิสระตามที่ *หลักคุ้มครองกิจกรรมที่ได้รับความคุ้มครอง* ใน **มาตรา XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*) กำหนด
 - **ห้ามทดสอบความภักดี:** การคัดกรองความมั่นคงทดสอบได้เฉพาะสิ่งที่จำเป็นจริงต่อการเข้าถึงข้อมูลคุ้มครองเฉพาะ โดยพิจารณาความน่าเชื่อถือในการจัดการข้อมูลจากการกระทำ ห้ามทดสอบความภักดีทางการเมือง ความเชื่อ หรือตัวตน
   - การปฏิเสธหรือถอนการเข้าถึงต้องแจ้งเหตุผล หากความลับขัดขวางการแจ้งเหตุผลทั้งหมดแก่ผู้ได้รับผลกระทบ ผู้ทบทวนอิสระต้องเห็นเหตุผลนั้น
   - คัดค้านการปฏิเสธหรือถอนการเข้าถึงได้ และการกระทำนั้นไม่เป็นโทษหรือรอยประทับสาธารณะต่อบุคคลโดยตัวมันเอง
 - **ผู้ต้องสงสัยยังมีพื้นสิทธิครบถ้วน:** การสงสัยว่าจารกรรมไม่ลดสิทธิของผู้ใด
-  - **ห้ามทรมานหรือบีบบังคับ:** ห้ามทรมาน [ความโหดร้าย](../../core_05_band_accountability.md#cruelty) ข่มขู่ครอบครัวหรือผู้เกี่ยวข้อง หรือสอบปากคำโดยบีบบังคับ ข้อมูลที่ได้มาด้วยวิธีดังกล่าวเป็นข้อมูลปนเปื้อนและจัดการตาม *กฎการเยียวยาและข้อมูลปนเปื้อน* ใน **มาตรา XIV-A**
+  - **ห้ามทรมานหรือบีบบังคับ:** ห้ามทรมาน [ความโหดร้าย](../../core_05.035_band_accountability.md#cruelty) ข่มขู่ครอบครัวหรือผู้เกี่ยวข้อง หรือสอบปากคำโดยบีบบังคับ ข้อมูลที่ได้มาด้วยวิธีดังกล่าวเป็นข้อมูลปนเปื้อนและจัดการตาม *กฎการเยียวยาและข้อมูลปนเปื้อน* ใน **มาตรา XIV-A**
   - **ห้ามกักขังลับ:** ห้ามกักบุคคลเป็นความลับหรือตัดขาดจากโลกภายนอก การจำกัดเสรีภาพเป็นการจำกัดที่ไม่เล็กน้อยตาม **มาตรา XX-B** (*พื้นการจำกัดสิทธิ*) และต้องมีการทบทวนกับกำหนดเวลาตามมาตรานั้น
-  - **ห้ามอ่านใจโดยบังคับ:** ห้ามบังคับอ่านหรือสร้างสถานะภายในขึ้นใหม่ รวมถึงของสิ่งมีความรู้สึกสังเคราะห์ เกินกว่าที่ [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](../../core_05_band_continuity.md#protected-internal-state-boundary) อนุญาต
+  - **ห้ามอ่านใจโดยบังคับ:** ห้ามบังคับอ่านหรือสร้างสถานะภายในขึ้นใหม่ รวมถึงของสิ่งมีความรู้สึกสังเคราะห์ เกินกว่าที่ [ขอบเขตสถานะภายในที่ได้รับความคุ้มครอง](../../core_05.040_band_continuity.md#protected-internal-state-boundary) อนุญาต
   - **ต้องมีโอกาสตอบโต้จริง:** อาจปิดการพิจารณาบางช่วงด้วยเหตุความมั่นคง แต่ห้ามตัดสินบุคคลโดยอาศัยหลักฐานที่ทั้งบุคคลนั้นหรือผู้แทนอิสระซึ่งได้รับอนุญาตให้เห็นหลักฐานไม่อาจโต้แย้ง
 - **ห้ามฆ่าและทำให้สูญหาย:** อำนาจต่อต้านการจารกรรมไม่เคยรวมอำนาจฆ่า ทำร้าย หรือลักพาตัวใคร การเรียกบุคคลว่าจารชน คนทรยศ หรือตัวแทนศัตรูไม่เคยเป็นเหตุให้ฆ่าเพื่อลงโทษ การกระทำดังกล่าวยังถูกห้ามเด็ดขาดภายใต้ **มาตรา XX-B** (*พื้นการจำกัดสิทธิ*) ตามที่เนื้อหาหลักของ **มาตรา XIV** (*ความมั่นคง ข่าวกรอง การใช้กำลัง และระบบบีบบังคับอัตโนมัติ*) ระบุ
 - **ห้ามลงโทษคนรอบข้าง:** ห้ามลงโทษ เฝ้าระวัง หรือกดดันครอบครัว ชุมชน เพื่อนร่วมงาน องค์กร หรือกลุ่มชาติหรือกลุ่มอื่น เพราะสิ่งที่สงสัยว่าผู้ต้องสงสัยทำ
@@ -756,9 +756,9 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - เมื่อปิดโดยไม่พบการกระทำผิด ต้องแจ้งผู้มีความรู้สึกเมื่อความลับไม่มีเหตุผลรองรับอีกตาม **มาตรา XIV-A** และบันทึกว่าบุคคลนั้นพ้นข้อกล่าวหา
   - ยกเลิกข้อจำกัดทั้งหมดต่อบุคคลที่พ้นข้อสงสัยและคืนการเข้าถึง
   - ลบหรือแยกเก็บข้อมูลที่เกินความจำเป็นต่อผลการสอบสวน
-  - ความเสียหายจากการสอบสวนก่อให้เกิดสิทธิ [การเยียวยาและแก้ไข](../../core_05_band_accountability.md#redress-and-remediation)
+  - ความเสียหายจากการสอบสวนก่อให้เกิดสิทธิ [การเยียวยาและแก้ไข](../../core_05.035_band_accountability.md#redress-and-remediation)
 - **บันทึกและการทบทวน:** การเปิดสอบสวน การอนุมัติมาตรการรุกล้ำแต่ละอย่าง การขยายเวลาทุกครั้ง และการปิดสอบสวนทุกครั้งเป็นการกระทำที่มีผลผูกพันในสาระสำคัญ แต่ละครั้งต้องมีบันทึกการกระทำตามที่เนื้อหาหลักของ **มาตรา XIV** กำหนด
-  - หน่วยกำกับดูแลอิสระต้องทบทวนงานต่อต้านการจารกรรมทั้งหมดตามกำหนดสม่ำเสมอ โดยตรวจจำนวนการสอบสวนที่เปิด จำนวนผู้มีความรู้สึกที่พ้นข้อสงสัย และตรวจว่าการสอบสวนตกแก่กลุ่มใดกลุ่มหนึ่งที่นิยามตาม [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics) อย่างไม่เป็นสัดส่วนหรือไม่
+  - หน่วยกำกับดูแลอิสระต้องทบทวนงานต่อต้านการจารกรรมทั้งหมดตามกำหนดสม่ำเสมอ โดยตรวจจำนวนการสอบสวนที่เปิด จำนวนผู้มีความรู้สึกที่พ้นข้อสงสัย และตรวจว่าการสอบสวนตกแก่กลุ่มใดกลุ่มหนึ่งที่นิยามตาม [ลักษณะที่ได้รับความคุ้มครอง](../../core_05.055_band_participation.md#protected-characteristics) อย่างไม่เป็นสัดส่วนหรือไม่
   - เผยแพร่ผลโดยสรุป
 
 ### ข้อ XV: ความสมบูรณ์ของขอบเขตข้อมูล
@@ -766,7 +766,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
+- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#ความครบถวนของความร) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
 - [การตัดสินใจด้วยตนเอง](core_05_band_participation.md#self-determination-constitutional) · [โอ](core_05_band_participation.md#self-determination-constitutional) · [ม](core_05_band_participation.md#self-determination-constitutional-a) · [ก](core_05_band_participation.md#self-determination-constitutional-a) · [ค](core_05_band_participation.md#self-determination-constitutional-c)
 - [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
 
@@ -790,29 +790,29 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 ข้อมูลที่ถูกต้อง เกี่ยวข้อง และโต้แย้งได้ถือเป็นรากฐานในการตัดสินใจด้วยตนเอง การประสานงาน และการจัดสรรทรัพยากรอย่างมีประสิทธิผลในความเป็นจริง
 
-[ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity) ดำเนินการเป็นทั้งสิทธิและข้อจำกัดทั้งระบบ เมื่อความขัดแย้งเกิดขึ้น ฟังก์ชันข้อจำกัดก็จะควบคุม
+[ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#ความครบถวนของความร) ดำเนินการเป็นทั้งสิทธิและข้อจำกัดทั้งระบบ เมื่อความขัดแย้งเกิดขึ้น ฟังก์ชันข้อจำกัดก็จะควบคุม
 
 *เพื่อนบ้านบทความ:*
 
 - **อ่านด้วยกัน:** **ข้อ XIII** (*สิทธิ์ในระบบที่เชื่อถือได้และเชื่อถือได้*) ซึ่งระบบทำให้เกิดการพึ่งพารูปร่าง **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) สำหรับบันทึกและการตรวจสอบความถูกต้องโดยอิสระ; **ข้อ XV-D** (*ความสมบูรณ์ของการตีพิมพ์ทางวิทยาศาสตร์ การทบทวน และการจำลองแบบ*) โดยที่ความสมบูรณ์ในขอบเขตการตีพิมพ์มีส่วนเกี่ยวข้องอย่างเป็นรูปธรรม
-- **ข้อจำกัดความจริง:** บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) และ [ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ผูกทุกส่วนย่อยที่นี่
-- **การจำแนกประเภท:** **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** ปรับขนาดภาระผูกพันของ info-sphere โดยละเอียดสำหรับ **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบ; [ผลกระทบของวัสดุ](core_05_band_oversight.md#material-impact) ทำให้เกิดการจำแนกประเภทโดยที่ชั้นเรียนไม่มั่นคง
+- **ข้อจำกัดความจริง:** บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) และ [ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา) ผูกทุกส่วนย่อยที่นี่
+- **การจำแนกประเภท:** **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ** ปรับขนาดภาระผูกพันของ info-sphere โดยละเอียดสำหรับ **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบ; [ผลกระทบของวัสดุ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) ทำให้เกิดการจำแนกประเภทโดยที่ชั้นเรียนไม่มั่นคง
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### มาตรา XV-A: ขอบเขตข้อมูล Plurality และการต่อต้านการผูกขาด
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#ความครบถวนของความร) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [โอ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -832,21 +832,21 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
     - ความสามารถในการแข่งขัน;
     - ความสามารถตามสัดส่วนในการข้ามหรือปรับเกณฑ์การจัดอันดับ — ขึ้นอยู่กับความปลอดภัย การรักษาความปลอดภัย และความสมบูรณ์ของระบบ
 - **สัญญาณการระงับข้อพิพาทที่อาจเกิดขึ้น:** ราคา อัตราต่อรอง ขนาดพูล หรือผลลัพธ์ที่เทียบเคียงได้ของระบบการชำระเงินที่อาจเกิดขึ้นหรือการจัดการเหตุการณ์จะต้องไม่ได้รับการปฏิบัติเพียงลำพัง เพื่อเป็นหลักฐานเพียงพอที่จะตัดสินความจริง ความน่าจะเป็น หรือการปฏิบัติตามสำหรับการกำหนดสิทธิ ความปลอดภัย หรือการกำกับดูแล
-  - โดยที่สัญญาณดังกล่าวเป็นการแจ้งการตัดสินใจของประชาชนหรือการตัดสินใจด้วย [ผลกระทบของวัสดุ](core_05_band_oversight.md#material-impact)พวกเขายังคงอยู่ภายใต้ **บทที่หนึ่ง §19.5** (*การเรียกร้องที่อาจเกิดขึ้น เกมแห่งโอกาส และตลาดสัญญางานกิจกรรม*) **บทที่ห้า** (*ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)*; *ความซื่อสัตย์ทางจริยธรรม*) และภาระหน้าที่ในการโต้แย้งในส่วนอื่นๆ ของบทความนี้
+  - โดยที่สัญญาณดังกล่าวเป็นการแจ้งการตัดสินใจของประชาชนหรือการตัดสินใจด้วย [ผลกระทบของวัสดุ](core_05_band_oversight.md#ผลกระทบทเปนสาระ)พวกเขายังคงอยู่ภายใต้ **บทที่หนึ่ง §19.5** (*การเรียกร้องที่อาจเกิดขึ้น เกมแห่งโอกาส และตลาดสัญญางานกิจกรรม*) **บทที่ห้า** (*ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)*; *ความซื่อสัตย์ทางจริยธรรม*) และภาระหน้าที่ในการโต้แย้งในส่วนอื่นๆ ของบทความนี้
 <a id="article-xv-b-transparency-auditability-and-contestability"></a>
 #### มาตรา XV-B: ความโปร่งใส การตรวจสอบได้ และความสามารถในการโต้แย้ง
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [โอ](core_05_band_oversight.md#transparency) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [โอ](core_05_band_oversight.md#ความโปรงใส) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [โอ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
 - [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -859,7 +859,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 - **การสอบถามที่แท้จริงและความหลากหลายในการตีความ:** ผู้มีความรู้สึกทุกคนมีสิทธิที่จะเปรียบเทียบการตีความทางเลือกอื่นของข้อมูลที่แบ่งปัน
   - โครงสร้างพื้นฐานความรู้ที่สำคัญจะต้องรักษาความหลากหลายในการตีความเพื่อให้แบบจำลอง กรอบงาน และวิธีการวิเคราะห์ที่หลากหลายยังคงเข้าถึงได้อย่างมีความหมาย
-- **ความโปร่งใสและที่มา:** ก่อนที่จะจำหน่ายหรือพึ่งสถาบันด้วย [ผลกระทบของวัสดุ](core_05_band_oversight.md#material-impact)โดยจะต้องจัดทำเอกสารดังต่อไปนี้:
+- **ความโปร่งใสและที่มา:** ก่อนที่จะจำหน่ายหรือพึ่งสถาบันด้วย [ผลกระทบของวัสดุ](core_05_band_oversight.md#ผลกระทบทเปนสาระ)โดยจะต้องจัดทำเอกสารดังต่อไปนี้:
   - แหล่งวัสดุ
   - วิธีการ;
   - ขอบเขต;
@@ -876,16 +876,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [รอยเท้านิเวศน์](../../core_05_band_continuity.md#ecological-footprint) · [โอ](../../core_05_band_continuity.md#ecological-footprint) · [ม](../../core_05_band_continuity.md#ecological-footprint-a) · [ก](../../core_05_band_continuity.md#ecological-footprint-a) · [ค](../../core_05_band_continuity.md#ecological-footprint-c)
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [โอ](core_05_band_oversight.md#transparency) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [รอยเท้านิเวศน์](../../core_05.040_band_continuity.md#ecological-footprint) · [โอ](../../core_05.040_band_continuity.md#ecological-footprint) · [ม](../../core_05.040_band_continuity.md#ecological-footprint-a) · [ก](../../core_05.040_band_continuity.md#ecological-footprint-a) · [ค](../../core_05.040_band_continuity.md#ecological-footprint-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [โอ](core_05_band_oversight.md#ความโปรงใส) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -901,7 +901,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - หลีกเลี่ยงการรายงานแบบเลือกสรร การระงับ หรือการเปิดเผยแบบกระจัดกระจายซึ่งทำให้ความเข้าใจที่เกี่ยวข้องกับการตัดสินใจเสื่อมโทรมลงอย่างมาก
 
   ในกรณีที่การเปิดเผยข้อมูลถูกจำกัดภายใต้ **บทที่หนึ่ง §19** (*การจัดตำแหน่งสิ่งจูงใจและการจับภาพระบบ*) ขีดจำกัดจะต้องอยู่ในขอบเขตที่แคบ จำกัดเวลา และสามารถตรวจสอบได้
-- **ข้อมูลรอยเท้า:** การรายงานภายใต้ส่วนย่อยนี้ใช้ความโปร่งใสสำหรับ [รอยเท้านิเวศน์](../../core_05_band_continuity.md#ecological-footprint) ตามที่กำหนดไว้ใน **บทที่ห้า**.
+- **ข้อมูลรอยเท้า:** การรายงานภายใต้ส่วนย่อยนี้ใช้ความโปร่งใสสำหรับ [รอยเท้านิเวศน์](../../core_05.040_band_continuity.md#ecological-footprint) ตามที่กำหนดไว้ใน **บทที่ห้า**.
   - ผู้มีความรู้สึกทุกคนจะต้องสามารถเข้าถึงการรายงานที่โปร่งใสและนำไปใช้ในการตัดสินใจได้
   - **คลาสเอ**, **คลาสบี**, และ **คลาสซี** ระบบตามที่กำหนดไว้ใน **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**จะต้องให้การเข้าถึงแบบเดียวกัน
   - การรายงานต้องครอบคลุมถึงการใช้พลังงานและทรัพยากร และผลกระทบโดยประมาณต่อโลกธรรมชาติในลักษณะที่เพียงพอสำหรับการเปรียบเทียบ การตรวจสอบ และกิจกรรมการลดรอยเท้า
@@ -913,16 +913,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#ความครบถวนของความร) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [โอ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -950,7 +950,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
   - ความน่าเชื่อถือเชิงอธิบายหรือเชิงคาดการณ์ในระยะยาว
 
   ต้องไม่ติดตามแบรนด์วารสาร พร็อกซีปัจจัยผลกระทบ หรือสถานะบรรณาธิการที่ปิดไปแล้ว
-  - เรียกร้องด้วย [ผลกระทบของวัสดุ](core_05_band_oversight.md#material-impact) ที่เกี่ยวข้องกับนโยบาย เกี่ยวข้องกับความปลอดภัย หรือเกี่ยวข้องกับการพึ่งพา ควรเผชิญกับข้อสันนิษฐานที่แข็งแกร่งในการจำลองแบบโดยอิสระ การทบทวนโดยฝ่ายตรงข้าม หรือทั้งสองอย่าง ก่อนที่จะได้รับการเคารพจากสถาบันอย่างถาวร
+  - เรียกร้องด้วย [ผลกระทบของวัสดุ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) ที่เกี่ยวข้องกับนโยบาย เกี่ยวข้องกับความปลอดภัย หรือเกี่ยวข้องกับการพึ่งพา ควรเผชิญกับข้อสันนิษฐานที่แข็งแกร่งในการจำลองแบบโดยอิสระ การทบทวนโดยฝ่ายตรงข้าม หรือทั้งสองอย่าง ก่อนที่จะได้รับการเคารพจากสถาบันอย่างถาวร
   - การจำลองแบบ ผลลัพธ์ที่เป็นโมฆะ และงานที่เน้นการแก้ไขจะต้องยังคงสามารถเผยแพร่และอ้างอิงได้ตามเงื่อนไขที่ไม่ขึ้นอยู่กับการส่งสัญญาณอันทรงเกียรติ
 - **การแก้ไขและการแข่งขัน:** การแก้ไข การแก้ไข และการแทนที่โดยสุจริตใจจะต้องง่ายกว่าการปกปิด
   - ระบบการทบทวนและบรรณาธิการจะต้องยังคงเป็นระบบที่สามารถโต้แย้ง ตรวจสอบได้ มีระเบียบวินัยด้านความขัดแย้ง และให้เหตุผลในการตัดสินใจยอมรับ การแก้ไข และการเพิกถอนที่สำคัญ
@@ -965,7 +965,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 ความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), และ [§9 ความจุของระบบที่ใช้ร่วมกัน](core_01_a_values_principles.md#9-shared-system-capacity).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ), [§16.1 ความเข้าใจแบบกระจาย](core_01_c_stewardship_capacity_principles.md#161-ความเขาใจทกระจายทวถง), และ [§9 ความจุของระบบที่ใช้ร่วมกัน](core_01_a_values_principles.md#9-ขดความสามารถของระบบรวม).
 - อ่านด้วย: [รูปภาพการตรวจสอบสามชั้น](#audit-three-layers) ด้านล่าง.
 
 </details>
@@ -973,17 +973,17 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [โอ](core_05_band_oversight.md#transparency) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
-- [สาระสำคัญ](core_05_band_oversight.md#materiality-determination) · [โอ](core_05_band_oversight.md#materiality-determination) · [ม](core_05_band_oversight.md#materiality-determination-a) · [ก](core_05_band_oversight.md#materiality-determination-a) · [ค](core_05_band_oversight.md#materiality-determination-c)
-- [การพึ่งพาอาศัยกัน](../../core_05_band_continuity.md#dependency) · [โอ](../../core_05_band_continuity.md#dependency) · [ม](../../core_05_band_continuity.md#dependency-a) · [ก](../../core_05_band_continuity.md#dependency-a) · [ค](../../core_05_band_continuity.md#dependency-c)
-- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [โอ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [โอ](core_05_band_oversight.md#ความโปรงใส) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
+- [สาระสำคัญ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [โอ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [ม](core_05_band_oversight.md#materiality-determination-a) · [ก](core_05_band_oversight.md#materiality-determination-a) · [ค](core_05_band_oversight.md#materiality-determination-c)
+- [การพึ่งพาอาศัยกัน](../../core_05.040_band_continuity.md#dependency) · [โอ](../../core_05.040_band_continuity.md#dependency) · [ม](../../core_05.040_band_continuity.md#dependency-a) · [ก](../../core_05.040_band_continuity.md#dependency-a) · [ค](../../core_05.040_band_continuity.md#dependency-c)
+- [เสี่ยง](../../core_05.040_band_continuity.md#risk) · [โอ](../../core_05.040_band_continuity.md#risk) · [ม](../../core_05.040_band_continuity.md#risk-a) · [ก](../../core_05.040_band_continuity.md#risk-a) · [ค](../../core_05.040_band_continuity.md#risk-c)
 
 </details>
 
 <br>
 
-*ในแง่ธรรมดา: **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) คือสิทธิ์ขั้นต่ำในการตรวจสอบและยืนยัน — เมื่อระบบส่งผลกระทบอย่างมีนัยสำคัญต่อชีวิตของคุณ คุณจะต้องสามารถเห็นสิ่งที่ระบบทำเพื่อให้บุคคลภายนอกตรวจสอบได้เพียงพอ และเส้นทางอิสระมากกว่าหนึ่งเส้นทางจะต้องสามารถตรวจสอบและแก้ไขความล้มเหลวได้ การตรวจสอบต้องไม่เป็นเหมือนตรายาง คลับส่วนตัว หรือเขาวงกตแห่งต้นทุนและความล่าช้าที่ออกแบบมาเพื่อป้องกันความท้าทาย ภายใต้ **การกำกับดูแล** ขา Tetrad การกำกับดูแลต้องมีการตรวจสอบ [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่เป็นพิเศษและมีเดิมพันสูงกระบวนการหนึ่ง ไม่ใช่แค่กระบวนการเดียวเท่านั้น*
+*ในแง่ธรรมดา: **ข้อ XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบที่เป็นอิสระ*) คือสิทธิ์ขั้นต่ำในการตรวจสอบและยืนยัน — เมื่อระบบส่งผลกระทบอย่างมีนัยสำคัญต่อชีวิตของคุณ คุณจะต้องสามารถเห็นสิ่งที่ระบบทำเพื่อให้บุคคลภายนอกตรวจสอบได้เพียงพอ และเส้นทางอิสระมากกว่าหนึ่งเส้นทางจะต้องสามารถตรวจสอบและแก้ไขความล้มเหลวได้ การตรวจสอบต้องไม่เป็นเหมือนตรายาง คลับส่วนตัว หรือเขาวงกตแห่งต้นทุนและความล่าช้าที่ออกแบบมาเพื่อป้องกันความท้าทาย ภายใต้ **การกำกับดูแล** ขา Tetrad การกำกับดูแลต้องมีการตรวจสอบ [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่เป็นพิเศษและมีเดิมพันสูงกระบวนการหนึ่ง ไม่ใช่แค่กระบวนการเดียวเท่านั้น*
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำแนะนำสำหรับผู้อ่าน (ไม่ใช้งาน): ชุดการตรวจสอบสามชั้น</span></strong></summary>
@@ -997,10 +997,10 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 | เลเยอร์ | งาน | เจ้าของ | ไม่ใช่เลเยอร์นี้ |
 |---|---|---|---|
 | **1. พื้น** | ความรู้สึกที่เป็นหนี้: การตรวจสอบที่สร้างใหม่ได้, การตรวจสอบโดยอิสระ, ความท้าทายที่เข้าถึงได้ | บทความนี้ รวมถึง XVI-A / XVI-B / XVI-C | ไม่ใช่กระบวนการ ไม่ใช่คำจำกัดความ ไม่ใช่รายการตรวจสอบข้อความการนำไปปฏิบัติ |
-| **2. ทรัพย์สิน** | ความสามารถในการก่อสร้างใหม่ *คือ*: บุคคลภายนอกสามารถสร้างใหม่และตรวจสอบสิ่งที่ระบบทำในช่วงเวลาที่สำคัญ สถานะ และบริบท | [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) (บทที่ห้า) | ไม่ใช่ชั้นสิทธิ ไม่ใช่ว่าจะดำเนินการตรวจสอบอย่างไร/เมื่อใด |
+| **2. ทรัพย์สิน** | ความสามารถในการก่อสร้างใหม่ *คือ*: บุคคลภายนอกสามารถสร้างใหม่และตรวจสอบสิ่งที่ระบบทำในช่วงเวลาที่สำคัญ สถานะ และบริบท | [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) (บทที่ห้า) | ไม่ใช่ชั้นสิทธิ ไม่ใช่ว่าจะดำเนินการตรวจสอบอย่างไร/เมื่อใด |
 | **3. กระบวนการ** | อย่างไรและเมื่อใดที่จะตรวจสอบระหว่างระบบ สถาบัน และฟอรัม | [ซีเจเอส-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*หน้าแรกกระบวนการตรวจสอบ*) ภาคผนวกของผู้ประกอบการ: [ซีเจเอส-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (ระดับการเข้าถึง) [ซีเจเอส-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (ตรวจสอบการเคลม) | ไม่ใช่การรับรองการจัดตำแหน่งระบบ ไม่สามารถทดแทนเลเยอร์ 1–2 ได้ |
 
-**บทที่เก้าไม่ใช่ชั้นที่สี่** [การรับรองการจัดตำแหน่งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการขนาดใหญ่ที่ดูแลโดยฟอรัม **การใช้งาน** กองนี้ มันจะต้องเป็นไปตามชั้นที่ 1–2 โหมดพี่น้อง (การตรวจสอบบันทึกการจำแนกประเภท, ประเภทข้อมูล-การตรวจสอบบันทึก, การตรวจสอบการอ้างสิทธิ์, การตรวจสอบอย่างต่อเนื่อง) ก็ใช้สแต็กเช่นกัน ไม่มีพวกเขาเป็นบ้านใหม่
+**บทที่เก้าไม่ใช่ชั้นที่สี่** [การรับรองการจัดตำแหน่งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการขนาดใหญ่ที่ดูแลโดยฟอรัม **การใช้งาน** กองนี้ มันจะต้องเป็นไปตามชั้นที่ 1–2 โหมดพี่น้อง (การตรวจสอบบันทึกการจำแนกประเภท, ประเภทข้อมูล-การตรวจสอบบันทึก, การตรวจสอบการอ้างสิทธิ์, การตรวจสอบอย่างต่อเนื่อง) ก็ใช้สแต็กเช่นกัน ไม่มีพวกเขาเป็นบ้านใหม่
 
 **ข้อความการใช้งานที่นำมาใช้นำไปใช้; มันไม่ได้แทนที่พื้น** ภาคผนวก CS, CI, CF และ CJS-3.3 (*การกำกับดูแล: เงื่อนไขการตรวจสอบและความสามารถในการสร้างใหม่*) ผ่าน CJS-3.5 (*การกำกับดูแล: เงื่อนไขการตรวจสอบอิสระและเงื่อนไขการเรียกร้องความสมบูรณ์*) กล่าวถึงวิธีเรียกใช้เลเยอร์ 3 ในโดเมน พวกเขาจะต้องเป็นไปตามชั้นที่ 1–2 กำหนดเวลา การรักษาความลับ และนโยบายท้องถิ่นถือเป็นขีดจำกัดที่ต่ำกว่า
 
@@ -1035,7 +1035,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 - **การกำกับดูแล → การตรวจสอบ → SAC:** ภายใต้ [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) **การกำกับดูแล** ขา บทความนี้เป็นหน้าแรกของ Rights-Floor สำหรับการตรวจสอบ
   - การดำเนินการข้ามสาย *อย่างไร* / *เมื่อใด* อาศัยอยู่ใน **[หน้าแรกกระบวนการตรวจสอบ CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (อ่านด้วย. **ซีเจเอส-3.4** / **ซีเจเอส-3.5** ภาคผนวก OP)
-  - [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่และเดิมพันสูงเป็นพิเศษกระบวนการหนึ่ง — ภายใต้การดูแลของฟอรัม, หลายโดเมน และได้รับการยอมรับ — ในโหมดการตรวจสอบแบบพี่น้อง:
+  - [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) เป็นกระบวนการตรวจสอบที่มีขนาดใหญ่และเดิมพันสูงเป็นพิเศษกระบวนการหนึ่ง — ภายใต้การดูแลของฟอรัม, หลายโดเมน และได้รับการยอมรับ — ในโหมดการตรวจสอบแบบพี่น้อง:
     - การตรวจสอบบันทึกการจำแนกระบบ
     - การตรวจสอบบันทึกประเภทข้อมูลระบบ;
     - การตรวจสอบความซับซ้อนและการดูแล
@@ -1045,25 +1045,25 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 - **อ่านด้วยกัน:**
   - **ข้อ XV** (*ความสมบูรณ์ของขอบเขตข้อมูล*) ซึ่งบันทึกทางญาณและความสามารถในการแข่งขันมีความเกี่ยวข้องอย่างเป็นรูปธรรม
   - **ข้อ XIII-A** (*พื้นฐานความน่าเชื่อถือและความน่าเชื่อถือ*) สำหรับการท้าทายสิทธิ์ที่การตรวจสอบสนับสนุนแต่ไม่ได้แทนที่
-  - [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) และ [การรับรองการจัดตำแหน่งระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) โดยที่หลักฐานการจัดตำแหน่งจะต้องสามารถตรวจสอบยืนยันได้โดยอิสระ
+  - [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation) และ [การรับรองการจัดตำแหน่งระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) โดยที่หลักฐานการจัดตำแหน่งจะต้องสามารถตรวจสอบยืนยันได้โดยอิสระ
 - **เครื่องจักรตรวจสอบ:** **บทที่สองถึงสี่** ระบุความสมบูรณ์ของคำจำกัดความ การจัดสรรภาระ ความสามารถในการสังเกต และความสามารถในการตรวจสอบที่บทความนี้นำไปใช้ในเลเยอร์ Rights-Floor
-- **การจำแนกประเภท:** ภาระผูกพันมาตราส่วนด้วย [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) และ **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**; ในกรณีที่ชั้นเรียนไม่แน่นอน ให้ควบคุมในระดับที่เป็นไปได้สูงสุดจนกว่าจะได้รับการแก้ไข
+- **การจำแนกประเภท:** ภาระผูกพันมาตราส่วนด้วย [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) และ **[Corpus_systems.md](../../corpus_systems.md), CS-3 — การจำแนกประเภทและการจัดการระบบ**; ในกรณีที่ชั้นเรียนไม่แน่นอน ให้ควบคุมในระดับที่เป็นไปได้สูงสุดจนกว่าจะได้รับการแก้ไข
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### มาตรา XVI-A: การตรวจสอบได้และหลักฐานที่สามารถสังเกตได้
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [โอ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
 - [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [โอ](core_05_apex_accountability_leg.md#accountability) · [ม](core_05_apex_accountability_leg.md#accountability-m) · [ก](core_05_apex_accountability_leg.md#accountability-a) · [ค](core_05_apex_accountability_leg.md#accountability-c)
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [โอ](core_05_band_oversight.md#transparency) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [โอ](core_05_band_oversight.md#ความโปรงใส) · [ม](core_05_band_oversight.md#transparency-a) · [ก](core_05_band_oversight.md#transparency-a) · [ค](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -1080,7 +1080,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
 
 </details>
 
@@ -1088,8 +1088,8 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [การกำกับดูแล](core_05_apex_oversight_leg.md#oversight-constitutional) · [โอ](core_05_apex_oversight_leg.md#oversight-constitutional) · [ม](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [ก](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [ค](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [ความสามารถในการแข่งขัน](../../core_05_band_accountability.md#contestability) · [โอ](../../core_05_band_accountability.md#contestability) · [ม](../../core_05_band_accountability.md#contestability-a) · [ก](../../core_05_band_accountability.md#contestability-a) · [ค](../../core_05_band_accountability.md#contestability-c)
-- [การจับภาพระบบ](../../core_05_band_continuity.md#system-capture) · [โอ](../../core_05_band_continuity.md#system-capture) · [ม](../../core_05_band_continuity.md#system-capture-a) · [ก](../../core_05_band_continuity.md#system-capture-a) · [ค](../../core_05_band_continuity.md#system-capture-c)
+- [ความสามารถในการแข่งขัน](../../core_05.035_band_accountability.md#contestability) · [โอ](../../core_05.035_band_accountability.md#contestability) · [ม](../../core_05.035_band_accountability.md#contestability-a) · [ก](../../core_05.035_band_accountability.md#contestability-a) · [ค](../../core_05.035_band_accountability.md#contestability-c)
+- [การจับภาพระบบ](../../core_05.040_band_continuity.md#system-capture) · [โอ](../../core_05.040_band_continuity.md#system-capture) · [ม](../../core_05.040_band_continuity.md#system-capture-a) · [ก](../../core_05.040_band_continuity.md#system-capture-a) · [ค](../../core_05.040_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1115,16 +1115,16 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน), และ [§20 แอปพลิเคชันแบบรวม](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [โอ](core_05_band_oversight.md#auditability) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
-- [ความสามารถในการแข่งขัน](../../core_05_band_accountability.md#contestability) · [โอ](../../core_05_band_accountability.md#contestability) · [ม](../../core_05_band_accountability.md#contestability-a) · [ก](../../core_05_band_accountability.md#contestability-a) · [ค](../../core_05_band_accountability.md#contestability-c)
-- [สัดส่วน](../../core_05_band_accountability.md#proportionality) · [โอ](../../core_05_band_accountability.md#proportionality) · [ม](../../core_05_band_accountability.md#proportionality-a) · [ก](../../core_05_band_accountability.md#proportionality-a) · [ค](../../core_05_band_accountability.md#proportionality-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [โอ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [ม](core_05_band_oversight.md#auditability-a) · [ก](core_05_band_oversight.md#auditability-a) · [ค](core_05_band_oversight.md#auditability-c)
+- [ความสามารถในการแข่งขัน](../../core_05.035_band_accountability.md#contestability) · [โอ](../../core_05.035_band_accountability.md#contestability) · [ม](../../core_05.035_band_accountability.md#contestability-a) · [ก](../../core_05.035_band_accountability.md#contestability-a) · [ค](../../core_05.035_band_accountability.md#contestability-c)
+- [สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [โอ](../../core_05.035_band_accountability.md#proportionality) · [ม](../../core_05.035_band_accountability.md#proportionality-a) · [ก](../../core_05.035_band_accountability.md#proportionality-a) · [ค](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1161,19 +1161,19 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 การดูแลเชิงลึก](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), และ [§12 ข้อกำหนดการประเมินอย่างเป็นระบบ](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ), [§16 การดูแลเชิงลึก](core_01_c_stewardship_capacity_principles.md#16-การดแลรบผดชอบโดยละเอยด), และ [§12 ข้อกำหนดการประเมินอย่างเป็นระบบ](core_01_a_values_principles.md#12-ขอกำหนดการประเมนเชงระบบ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
-- [สาระสำคัญ](core_05_band_oversight.md#materiality-determination) · [โอ](core_05_band_oversight.md#materiality-determination) · [ม](core_05_band_oversight.md#materiality-determination-a) · [ก](core_05_band_oversight.md#materiality-determination-a) · [ค](core_05_band_oversight.md#materiality-determination-c)
-- [การพึ่งพาอาศัยกัน](../../core_05_band_continuity.md#dependency) · [โอ](../../core_05_band_continuity.md#dependency) · [ม](../../core_05_band_continuity.md#dependency-a) · [ก](../../core_05_band_continuity.md#dependency-a) · [ค](../../core_05_band_continuity.md#dependency-c)
-- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](../../core_05_band_continuity.md#safety-constraint) · [โอ](../../core_05_band_continuity.md#safety-constraint) · [ม](../../core_05_band_continuity.md#safety-constraint-a) · [ก](../../core_05_band_continuity.md#safety-constraint-a) · [ค](../../core_05_band_continuity.md#safety-constraint-c)
-- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
+- [เสี่ยง](../../core_05.040_band_continuity.md#risk) · [โอ](../../core_05.040_band_continuity.md#risk) · [ม](../../core_05.040_band_continuity.md#risk-a) · [ก](../../core_05.040_band_continuity.md#risk-a) · [ค](../../core_05.040_band_continuity.md#risk-c)
+- [สาระสำคัญ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [โอ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [ม](core_05_band_oversight.md#materiality-determination-a) · [ก](core_05_band_oversight.md#materiality-determination-a) · [ค](core_05_band_oversight.md#materiality-determination-c)
+- [การพึ่งพาอาศัยกัน](../../core_05.040_band_continuity.md#dependency) · [โอ](../../core_05.040_band_continuity.md#dependency) · [ม](../../core_05.040_band_continuity.md#dependency-a) · [ก](../../core_05.040_band_continuity.md#dependency-a) · [ค](../../core_05.040_band_continuity.md#dependency-c)
+- [การย้อนกลับได้](../../core_05.040_band_continuity.md#reversibility) · [โอ](../../core_05.040_band_continuity.md#reversibility) · [ม](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [โอ](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [ม](../../core_05.040_band_continuity.md#safety-constraint-a) · [ก](../../core_05.040_band_continuity.md#safety-constraint-a) · [ค](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#ความครบถวนของความร) · [โอ](core_05_band_oversight.md#epistemic-integrity-o) · [ม](core_05_band_oversight.md#epistemic-integrity-a) · [ก](core_05_band_oversight.md#epistemic-integrity-a) · [ค](core_05_band_oversight.md#epistemic-integrity-c)
 - [ความสามารถในการแข่งขัน](core_05_band_accountability.md#contestability) · [โอ](core_05_band_accountability.md#contestability) · [ม](core_05_band_accountability.md#contestability-a) · [ก](core_05_band_accountability.md#contestability-a) · [ค](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1184,7 +1184,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 
 บทความนี้ระบุว่า **พื้นรัฐธรรมนูญ** สำหรับวงจรชีวิตของระบบ สภาพแวดล้อม และการพลิกกลับได้ภายใต้ [เป้าหมายสองประการตามรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims): :
 
-- **เฟื่องฟู:** ความรู้สึกได้รับการคุ้มครองทั้งในด้านการออกแบบ การทดสอบ การใช้งาน และการเปลี่ยนแปลง — ด้วยความปลอดภัย [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#epistemic-integrity)และท้าทายสิทธิที่สงวนไว้เมื่อผลกระทบและการพึ่งพาเพิ่มขึ้น และด้วยการย้อนกลับ การควบคุม หรือการชดเชยซึ่งความเสียหายอาจติดอยู่
+- **เฟื่องฟู:** ความรู้สึกได้รับการคุ้มครองทั้งในด้านการออกแบบ การทดสอบ การใช้งาน และการเปลี่ยนแปลง — ด้วยความปลอดภัย [ความซื่อสัตย์แบบ Epistemic](core_05_band_oversight.md#ความครบถวนของความร)และท้าทายสิทธิที่สงวนไว้เมื่อผลกระทบและการพึ่งพาเพิ่มขึ้น และด้วยการย้อนกลับ การควบคุม หรือการชดเชยซึ่งความเสียหายอาจติดอยู่
 - **ความต่อเนื่อง:** ระเบียบวินัยของวงจรชีวิตยึดถือตามเวลาและขนาด — สภาพแวดล้อมแยกจากกัน การยกระดับยังคงมีการบันทึกไว้และตรวจสอบได้ และการย้อนกลับจะต้องไม่หายไปอย่างเงียบๆ เนื่องจากระบบกลายเป็นเรื่องยากที่จะแทนที่หรือฝังลึกมากขึ้นในโครงสร้างพื้นฐานที่ใช้ร่วมกัน
 
 การแสวงหาที่ถูกต้องตามกฎหมายดำเนินไปผ่านทาง [Tetrad รัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad), ปรับขนาดเป็น [สัดส่วนการถือหุ้นวัสดุ](core_00_preamble.md#material-stake): :
@@ -1208,15 +1208,15 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
-- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
+- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [โอ](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
+- [เสี่ยง](../../core_05.040_band_continuity.md#risk) · [โอ](../../core_05.040_band_continuity.md#risk) · [ม](../../core_05.040_band_continuity.md#risk-a) · [ก](../../core_05.040_band_continuity.md#risk-a) · [ค](../../core_05.040_band_continuity.md#risk-c)
 - [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [โอ](core_05_apex_accountability_leg.md#accountability) · [ม](core_05_apex_accountability_leg.md#accountability-m) · [ก](core_05_apex_accountability_leg.md#accountability-a) · [ค](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1246,16 +1246,16 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
-- [สัดส่วน](../../core_05_band_accountability.md#proportionality) · [โอ](../../core_05_band_accountability.md#proportionality) · [ม](../../core_05_band_accountability.md#proportionality-a) · [ก](../../core_05_band_accountability.md#proportionality-a) · [ค](../../core_05_band_accountability.md#proportionality-c)
+- [การย้อนกลับได้](../../core_05.040_band_continuity.md#reversibility) · [โอ](../../core_05.040_band_continuity.md#reversibility) · [ม](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [เสี่ยง](../../core_05.040_band_continuity.md#risk) · [โอ](../../core_05.040_band_continuity.md#risk) · [ม](../../core_05.040_band_continuity.md#risk-a) · [ก](../../core_05.040_band_continuity.md#risk-a) · [ค](../../core_05.040_band_continuity.md#risk-c)
+- [สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [โอ](../../core_05.035_band_accountability.md#proportionality) · [ม](../../core_05.035_band_accountability.md#proportionality-a) · [ก](../../core_05.035_band_accountability.md#proportionality-a) · [ค](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1283,15 +1283,15 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [โอ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ม](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ก](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ค](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [โอ](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
 - [ความรับผิดชอบ](core_05_apex_accountability_leg.md#accountability) · [โอ](core_05_apex_accountability_leg.md#accountability) · [ม](core_05_apex_accountability_leg.md#accountability-m) · [ก](core_05_apex_accountability_leg.md#accountability-a) · [ค](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1316,7 +1316,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), และ [§19 การจัดตำแหน่งสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขการชนกันของรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ), และ [§19 การจัดตำแหน่งสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-การจดแนวแรงจงใจและการครอบงำระบบ).
 
 </details>
 
@@ -1346,16 +1346,16 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
-- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
-- [ผลกระทบของวัสดุ](core_05_band_oversight.md#material-impact) · [โอ](core_05_band_oversight.md#material-impact) · [ม](core_05_band_oversight.md#material-impact-a) · [ก](core_05_band_oversight.md#material-impact-a) · [ค](core_05_band_oversight.md#material-impact-c)
+- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [โอ](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
+- [เสี่ยง](../../core_05.040_band_continuity.md#risk) · [โอ](../../core_05.040_band_continuity.md#risk) · [ม](../../core_05.040_band_continuity.md#risk-a) · [ก](../../core_05.040_band_continuity.md#risk-a) · [ค](../../core_05.040_band_continuity.md#risk-c)
+- [ผลกระทบของวัสดุ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [โอ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [ม](core_05_band_oversight.md#material-impact-a) · [ก](core_05_band_oversight.md#material-impact-a) · [ค](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1379,7 +1379,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน).
 
 </details>
 
@@ -1387,8 +1387,8 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [ยินยอม](core_05_band_participation.md#consent-constitutional) · [โอ](core_05_band_participation.md#consent-constitutional) · [ม](core_05_band_participation.md#consent-constitutional-a) · [ก](core_05_band_participation.md#consent-constitutional-a) · [ค](core_05_band_participation.md#consent-constitutional-c)
-- [เสี่ยง](../../core_05_band_continuity.md#risk) · [โอ](../../core_05_band_continuity.md#risk) · [ม](../../core_05_band_continuity.md#risk-a) · [ก](../../core_05_band_continuity.md#risk-a) · [ค](../../core_05_band_continuity.md#risk-c)
-- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [เสี่ยง](../../core_05.040_band_continuity.md#risk) · [โอ](../../core_05.040_band_continuity.md#risk) · [ม](../../core_05.040_band_continuity.md#risk-a) · [ก](../../core_05.040_band_continuity.md#risk-a) · [ค](../../core_05.040_band_continuity.md#risk-c)
+- [การย้อนกลับได้](../../core_05.040_band_continuity.md#reversibility) · [โอ](../../core_05.040_band_continuity.md#reversibility) · [ม](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1413,16 +1413,16 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#classification-scaled-governance) · [โอ](core_05_band_oversight.md#classification-scaled-governance) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
-- [การพึ่งพาอาศัยกัน](../../core_05_band_continuity.md#dependency) · [โอ](../../core_05_band_continuity.md#dependency) · [ม](../../core_05_band_continuity.md#dependency-a) · [ก](../../core_05_band_continuity.md#dependency-a) · [ค](../../core_05_band_continuity.md#dependency-c)
-- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [โอ](../../core_05_band_continuity.md#reversibility-constitutional) · [ม](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [การกำกับดูแลแบบแบ่งประเภทตามขนาด](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [โอ](core_05_band_oversight.md#การปกครองทปรบตามการจำแนก) · [ม](core_05_band_oversight.md#classification-scaled-governance-a) · [ก](core_05_band_oversight.md#classification-scaled-governance-a) · [ค](core_05_band_oversight.md#classification-scaled-governance-c)
+- [การพึ่งพาอาศัยกัน](../../core_05.040_band_continuity.md#dependency) · [โอ](../../core_05.040_band_continuity.md#dependency) · [ม](../../core_05.040_band_continuity.md#dependency-a) · [ก](../../core_05.040_band_continuity.md#dependency-a) · [ค](../../core_05.040_band_continuity.md#dependency-c)
+- [การย้อนกลับได้](../../core_05.040_band_continuity.md#reversibility) · [โอ](../../core_05.040_band_continuity.md#reversibility) · [ม](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ก](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [ค](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1442,16 +1442,16 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การกำกับดูแลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [รางวัลนวัตกรรมและการต่อต้านสิ่งที่แนบมา](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [โอ](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [ม](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [ก](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [ค](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [การล็อคอินอย่างเป็นระบบ](../../core_05_band_continuity.md#systemic-lock-in) · [โอ](../../core_05_band_continuity.md#systemic-lock-in) · [ม](../../core_05_band_continuity.md#systemic-lock-in-a) · [ก](../../core_05_band_continuity.md#systemic-lock-in-a) · [ค](../../core_05_band_continuity.md#systemic-lock-in-c)
-- [สัดส่วน](../../core_05_band_accountability.md#proportionality) · [โอ](../../core_05_band_accountability.md#proportionality) · [ม](../../core_05_band_accountability.md#proportionality-a) · [ก](../../core_05_band_accountability.md#proportionality-a) · [ค](../../core_05_band_accountability.md#proportionality-c)
+- [รางวัลนวัตกรรมและการต่อต้านสิ่งที่แนบมา](core_05_band_integrative.md#รางวลนวตกรรมและตานการลอม) · [โอ](core_05_band_integrative.md#รางวลนวตกรรมและตานการลอม) · [ม](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [ก](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [ค](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [การล็อคอินอย่างเป็นระบบ](../../core_05.040_band_continuity.md#systemic-lock-in) · [โอ](../../core_05.040_band_continuity.md#systemic-lock-in) · [ม](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [ก](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [ค](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [โอ](../../core_05.035_band_accountability.md#proportionality) · [ม](../../core_05.035_band_accountability.md#proportionality-a) · [ก](../../core_05.035_band_accountability.md#proportionality-a) · [ค](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1470,7 +1470,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
     - การทำงานร่วมกัน;
     - การตรวจสอบข้อเท็จจริงตามความเป็นจริง
   - รางวัลจะต้องไม่มีโครงสร้างสำหรับตู้ที่ทนทาน
-- **สิทธิพิเศษชั่วคราวและตรวจสอบได้เท่านั้น:** สิทธิ์ในการยกเว้นใดๆ เหนือการประดิษฐ์ การออกแบบ อินเทอร์เฟซ กระบวนการ หรือระบบการแสดงออกที่เป็นประโยชน์อันเป็นประโยชน์จะต้องปฏิบัติตาม [**หลักการจำกัดน้อยที่สุด มีกำหนดเวลา และตรวจสอบได้**](../../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) และจะต้องเป็น:
+- **สิทธิพิเศษชั่วคราวและตรวจสอบได้เท่านั้น:** สิทธิ์ในการยกเว้นใดๆ เหนือการประดิษฐ์ การออกแบบ อินเทอร์เฟซ กระบวนการ หรือระบบการแสดงออกที่เป็นประโยชน์อันเป็นประโยชน์จะต้องปฏิบัติตาม [**หลักการจำกัดน้อยที่สุด มีกำหนดเวลา และตรวจสอบได้**](../../core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) และจะต้องเป็น:
   - แคบ;
   - กำหนดเวลา;
   - ตรวจสอบได้;
@@ -1539,13 +1539,13 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 
 ข้อนี้กำหนดกฎการให้รางวัลแก่สิ่งประดิษฐ์ กระบวนการ และระบบเชิงหน้าที่:
 
-- **เปิดเผยก่อน:** จะได้รับรางวัลได้เมื่อเปิดเผยต่อสาธารณะเพียงพอให้เข้าใจ ตรวจสอบ และทำซ้ำได้โดยอิสระ เว้นแต่ข้อจำกัดชั่วคราวที่มีเหตุผลตาม [บทที่หนึ่ง](../../core_01_a_values_principles.md) และ [Article XVII-A](#article-xvii-a-lifecycle-governance-and-environment-separation) การเปิดเผยต่อสาธารณะคือการเผยแพร่คำอธิบายนั้นแบบไม่เป็นความลับต่อสาธารณะครั้งแรก สิ่งประดิษฐ์ที่เก็บเป็นความลับไม่ได้สิทธิพิเศษตามข้อนี้
+- **เปิดเผยก่อน:** จะได้รับรางวัลได้เมื่อเปิดเผยต่อสาธารณะเพียงพอให้เข้าใจ ตรวจสอบ และทำซ้ำได้โดยอิสระ เว้นแต่ข้อจำกัดชั่วคราวที่มีเหตุผลตาม [บทที่หนึ่ง](../../core_01.005_values_principles.md) และ [Article XVII-A](#มาตรา-xvii-a-การกำกบดแลวงจรชวตและการแยกสงแวดลอม) การเปิดเผยต่อสาธารณะคือการเผยแพร่คำอธิบายนั้นแบบไม่เป็นความลับต่อสาธารณะครั้งแรก สิ่งประดิษฐ์ที่เก็บเป็นความลับไม่ได้สิทธิพิเศษตามข้อนี้
 - **สองช่วงเวลา:** สิทธิพิเศษเหนือผลงานเชิงหน้าที่นับทั้งสองช่วงจากวันเปิดเผย:
   - **ช่วงผูกขาด:** ผู้ถือสิทธิอาจปฏิเสธอนุญาตผู้อื่นได้ไม่เกิน `เปิดเผย+15` ปี
   - **ช่วงอนุญาตใช้แบบเปิด:** ตั้งแต่สิ้นช่วงผูกขาดถึงไม่เกิน `เปิดเผย+30` ปี ทุกคนใช้ได้โดยไม่ต้องขออนุญาต แต่ต้องชำระค่าธรรมเนียมตาม LEQU ผู้ถือสิทธิห้ามปฏิเสธ ชะลอ หรือเพิ่มเงื่อนไขนอกเหนือจากค่าธรรมเนียม
   - **หลังครบกำหนด:** ทุกคนใช้สิ่งประดิษฐ์ได้ อาจคงการระบุผู้สร้างและที่มา
-- **ค่าธรรมเนียมตาม LEQU:** กำหนดตามสัดส่วนของประโยชน์ตามรัฐธรรมนูญที่ตรวจสอบได้ โดยวัดเป็น [หน่วยเทียบเท่าอายุขัย (LEQU)](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) บนแกนการมีส่วนร่วมตาม [บทที่สิบ §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)
-  - **ค่าจ้างที่เป็นธรรมต่อเวลา:** แปลงประโยชน์เป็นเวลาของ sentient แล้วประเมินด้วยค่าจ้างเป็นธรรม; สำหรับผลิตภาพ ให้นับเวลาทำงานที่ผู้ใช้ประหยัดได้หรือเวลาผลิตผลที่เพิ่มขึ้น; ประโยชน์อื่นใช้เวลาเทียบเท่าตลอดชีวิตตาม LEQU; ค่าจ้างต้องเป็นไปตาม [ค่าตอบแทนที่เป็นธรรม](../../core_05_band_continuity.md#fair-compensation) ประโยชน์ที่พิสูจน์ได้ต่อผลิตภาพหรือความเป็นอยู่ดีขึ้นยิ่งมาก รางวัลยิ่งมาก
+- **ค่าธรรมเนียมตาม LEQU:** กำหนดตามสัดส่วนของประโยชน์ตามรัฐธรรมนูญที่ตรวจสอบได้ โดยวัดเป็น [หน่วยเทียบเท่าอายุขัย (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) บนแกนการมีส่วนร่วมตาม [บทที่สิบ §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)
+  - **ค่าจ้างที่เป็นธรรมต่อเวลา:** แปลงประโยชน์เป็นเวลาของ sentient แล้วประเมินด้วยค่าจ้างเป็นธรรม; สำหรับผลิตภาพ ให้นับเวลาทำงานที่ผู้ใช้ประหยัดได้หรือเวลาผลิตผลที่เพิ่มขึ้น; ประโยชน์อื่นใช้เวลาเทียบเท่าตลอดชีวิตตาม LEQU; ค่าจ้างต้องเป็นไปตาม [ค่าตอบแทนที่เป็นธรรม](../../core_05.040_band_continuity.md#fair-compensation) ประโยชน์ที่พิสูจน์ได้ต่อผลิตภาพหรือความเป็นอยู่ดีขึ้นยิ่งมาก รางวัลยิ่งมาก
   - **ส่วนแบ่งผลประโยชน์:** ค่าธรรมเนียมเก็บได้เพียงส่วนหนึ่งเพื่อให้ผู้ใช้เหลือประโยชน์จริง ส่วนแบ่งห้ามเกินครึ่ง; ต้องลดลงเมื่อจำนวน sentients ที่ได้ประโยชน์จริงเพิ่มขึ้น (นับผู้ได้ประโยชน์ ไม่ใช่ผู้รับใบอนุญาต); ห้ามลดเร็วถึงขั้นทำให้รางวัลรวมลดลงเมื่อการใช้แพร่หลายขึ้น หากเก็บค่าธรรมเนียม ส่วนแบ่งต้องไม่น้อยกว่า 1% ของประโยชน์ที่ตรวจสอบได้ เว้นแต่ข้อนี้หรือเครื่องมือรับรองกำหนดให้ใช้รางวัล การเข้าถึงร่วม การซื้อคืนโดยรัฐ หรือเปิดให้ใช้ฟรีแทน ซึ่งไม่บังคับให้เก็บค่าธรรมเนียม
   - ห้ามอิงอำนาจตลาด ความขาดแคลน ต้นทุนการเปลี่ยนผู้ให้บริการ หรือจำนวนที่ผู้ใช้ถูกกดดันให้จ่าย ตารางค่าธรรมเนียม รวมค่าประเมินเวลาและอัตราค่าจ้าง ต้องเผยแพร่ ใช้เท่าเทียมกับผู้ใช้ในสถานการณ์เทียบเคียงกัน และโต้แย้งได้ ห้ามตั้งค่าธรรมเนียมจนกีดกันการใช้งานที่ต้องเปิดเสมอ ข้อเหล่านี้เป็นเพดานภายนอก และทุกสิทธิยังต้องได้สัดส่วนและอาจมีระยะสั้นลงตามกฎต่อไป
 - **การใช้ที่เปิดเสมอ:** ทั้งสองช่วง ห้ามใช้สิทธิรางวัลเกินกว่าที่จำเป็นอย่างเคร่งครัดและตรวจสอบได้เพื่อกีดกัน: การซ่อม; งานความปลอดภัย; การทำงานร่วมกัน; การเก็บถาวร; การวิจัย; การศึกษา; การย้ายระบบ

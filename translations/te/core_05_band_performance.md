@@ -6,13 +6,13 @@
 
 > కింది విషయం **కేవలం పాఠక మార్గదర్శకం**. ఇది ఈ ఫైల్‌లో లేదా ఇతర అధ్యాయాల్లో బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, సంకుచితం చేయదు.
 >
-> ఈ ఫైల్ [ఆంగ్ల అధ్యాయం ఐదు, రాజ్యాంగ పనితీరు బ్యాండ్](../../core_05_band_performance.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_05_band_performance.md`](../../core_05_band_performance.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
+> ఈ ఫైల్ [ఆంగ్ల అధ్యాయం ఐదు, రాజ్యాంగ పనితీరు బ్యాండ్](../../core_05.060_band_performance.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_05_band_performance.md`](../../core_05.060_band_performance.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
 >
-> ఇది **అధ్యాయం ఐదు రాజ్యాంగ పనితీరు బ్యాండ్**ను కలిగి ఉంది — అడ్డంగా ఉండే రాజ్యాంగ పనితీరు వర్గానికి అధ్యాయం ఐదు **కొలత కుటుంబం ఇల్లు**. రాజ్యాంగ పనితీరు [**సమున్నతి**](core_00_preamble.md#flourishing) మరియు [**కొనసాగింపు**](core_00_preamble.md#continuity) రెండు లక్ష్యాలకు సాధనం మరియు చతుష్టయం కాలు **కాదు**. దాని ఆకు నిర్వచనాలు (రాజ్యాంగ సమర్థత, నివారించదగిన భారం, ఉత్పాదక సామర్థ్యం, భారం-తగ్గింపు కర్తవ్యం) రూపకల్పన ప్రకారం **ప్రామాణిక ఇళ్ళు [కొనసాగింపు బ్యాండ్](core_05_band_continuity.md)లో** ఉంచుతాయి: అవి బాధ్యతాయుత నిర్వహణ / భాగస్వామ్య-వ్యవస్థ సామర్థ్యం మరియు [అనుపాతత–భారం–సమర్థత ఆధారిత క్లస్టర్](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) కింద కొనసాగింపు-బ్యాండ్ క్లస్టర్ సభ్యులు, నిలకడ సామర్థ్యం, వ్యర్థం, వనరు-ప్రతి-ఫలిత అందింపు కొనసాగింపు అంశాలతో కూర్చుంటాయి. ఈ ఫైల్ ప్రస్తావన కొలత వర్గాన్ని మార్గనిర్దేశం చేస్తుంది; ఆ ఆకు శరీరాలు పట్టుకోదు. ఆకులు ఇక్కడకు స్పష్టమైన, తేదీ ఉన్న ఉంపు నిర్ణయంతో మాత్రమే వస్తాయి. చదివే క్రమం మరియు దిక్సూచి [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions)లో ఉంటాయి.
+> ఇది **అధ్యాయం ఐదు రాజ్యాంగ పనితీరు బ్యాండ్**ను కలిగి ఉంది — అడ్డంగా ఉండే రాజ్యాంగ పనితీరు వర్గానికి అధ్యాయం ఐదు **కొలత కుటుంబం ఇల్లు**. రాజ్యాంగ పనితీరు [**సమున్నతి**](core_00_preamble.md#flourishing) మరియు [**కొనసాగింపు**](core_00_preamble.md#continuity) రెండు లక్ష్యాలకు సాధనం మరియు చతుష్టయం కాలు **కాదు**. దాని ఆకు నిర్వచనాలు (రాజ్యాంగ సమర్థత, నివారించదగిన భారం, ఉత్పాదక సామర్థ్యం, భారం-తగ్గింపు కర్తవ్యం) రూపకల్పన ప్రకారం **ప్రామాణిక ఇళ్ళు [కొనసాగింపు బ్యాండ్](core_05_band_continuity.md)లో** ఉంచుతాయి: అవి బాధ్యతాయుత నిర్వహణ / భాగస్వామ్య-వ్యవస్థ సామర్థ్యం మరియు [అనుపాతత–భారం–సమర్థత ఆధారిత క్లస్టర్](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) కింద కొనసాగింపు-బ్యాండ్ క్లస్టర్ సభ్యులు, నిలకడ సామర్థ్యం, వ్యర్థం, వనరు-ప్రతి-ఫలిత అందింపు కొనసాగింపు అంశాలతో కూర్చుంటాయి. ఈ ఫైల్ ప్రస్తావన కొలత వర్గాన్ని మార్గనిర్దేశం చేస్తుంది; ఆ ఆకు శరీరాలు పట్టుకోదు. ఆకులు ఇక్కడకు స్పష్టమైన, తేదీ ఉన్న ఉంపు నిర్ణయంతో మాత్రమే వస్తాయి. చదివే క్రమం మరియు దిక్సూచి [core_05__definitions_home.md](core_05__definitions_home.md#అధయయ-ఐద-పనద-నరవచనల)లో ఉంటాయి.
 >
 > **మునుపటి (ఈ భాషలో):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+> **తదుపరి (ఇంకా ఆంగ్లంలో):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 > **చదివే చాపం:** కొలత కుటుంబం ఇల్లు → కొనసాగింపు బ్యాండ్ ఆకు మార్గనిర్దేశం.
 
 </details>
@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: [అధ్యాయం ఐదు దిక్సూచి](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad).
+- మూలం: [అధ్యాయం ఐదు దిక్సూచి](core_05__definitions_home.md#అధయయ-ఐద-దకసచ-మరయ-నరవచన-మయప); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad).
 - గమ్యం: రాజ్యాంగ పనితీరుకు అధ్యాయం ఐదు కొలత కుటుంబం ఇల్లు; **అన్ని ఆకు శరీరాలు** [కొనసాగింపు బ్యాండ్](core_05_band_continuity.md)లో ఉంటాయి (బాధ్యతాయుత నిర్వహణ / భాగస్వామ్య-వ్యవస్థ సామర్థ్యం / అనుపాతత–భారం–సమర్థత క్లస్టర్లు).
 - దీనితో చదవండి: [రాజ్యాంగ సమర్థత](core_05_band_continuity.md#constitutional-efficiency), [నివారించదగిన భారం](core_05_band_continuity.md#avoidable-burden), [ఉత్పాదక సామర్థ్యం](core_05_band_continuity.md#productive-capacity-constitutional) మరియు [భారం-తగ్గింపు కర్తవ్యం](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 
@@ -45,7 +45,7 @@
 
 *రాజ్యాంగ పనితీరు కొలత కుటుంబానికి అధ్యాయం ఐదు ఇల్లు. ప్రస్తావన §2 సాధారణ-భాష వర్గ ప్రశ్నను సమీక్ష పట్టికలో ఉంచుతుంది; కుటుంబ పట్టిక, రాజ్యాంగ వాడుక, నిర్వచన మార్గం ఇక్కడ ఉంటాయి.*
 
-*భౌతికత* ([భౌతికత నిర్ణయం](core_05_band_oversight.md#materiality-determination)) సమగ్రం — వేరు కొలత వర్గం కాదు; [భౌతిక పందెం](core_00_preamble.md#material-stake) కింద ఈ కుటుంబం ఎంత బలంగా వర్తిస్తుందో స్కేల్ చేస్తుంది.
+*భౌతికత* ([భౌతికత నిర్ణయం](core_05_band_oversight.md#భతకity-determination)) సమగ్రం — వేరు కొలత వర్గం కాదు; [భౌతిక పందెం](core_00_preamble.md#material-stake) కింద ఈ కుటుంబం ఎంత బలంగా వర్తిస్తుందో స్కేల్ చేస్తుంది.
 
 | కొలత కుటుంబం | సాధారణ ప్రశ్న | ప్రధాన రాజ్యాంగ వాడుక |
 |---|---|---|
@@ -58,12 +58,12 @@
 - సంచాలక కొలత స్థాయిలు అధ్యాయం ఐదు నిర్వచన ఇళ్ళలో ఉంటాయి — చూడండి [రాజ్యాంగ సమర్థత](core_05_band_continuity.md#constitutional-efficiency), [నివారించదగిన భారం](core_05_band_continuity.md#avoidable-burden), [ఉత్పాదక సామర్థ్యం](core_05_band_continuity.md#productive-capacity-constitutional) మరియు [భారం-తగ్గింపు కర్తవ్యం](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - పనితీరు లక్ష్యాలు, బహుమతులు, వనరు కొలతలు రాజ్యాంగ ఫలితాలకు అనుసరణీయంగా ఉన్నంతవరకు మాత్రమే చెల్లుబాటు.
 - అవి రాజ్యాంగ సమర్థత, [ఉత్పాదక సామర్థ్యం](core_05_band_continuity.md#productive-capacity-constitutional), లేదా హక్కుల నేల అనుసరణను భర్తీ చేయలేవు.
-- మొత్తం-వ్యవస్థ పనితీరు భౌతికంగా పరిధిలో ఉన్న చోట [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)తో చదవండి.
+- మొత్తం-వ్యవస్థ పనితీరు భౌతికంగా పరిధిలో ఉన్న చోట [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)తో చదవండి.
 
 ---
 
 **మునుపటి ఫైల్ (ఈ భాషలో):** [core_05_band_participation.md](core_05_band_participation.md)
 
-**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+**తదుపరి ఫైల్ (ఇంకా ఆంగ్లంలో):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 
-**బంధనీయ మూలం:** [core_05_band_performance.md](../../core_05_band_performance.md)
+**బంధనీయ మూలం:** [core_05_band_performance.md](../../core_05.060_band_performance.md)

@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 本文件是[英语第四章](../../core_04_burden_traceability_verification.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
+> 本文件是[英语第四章](../../core_04.000_burden_traceability_verification.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_04_burden_traceability_verification.md`](../../core_04.000_burden_traceability_verification.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > **上一篇（本语种）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
@@ -17,10 +17,10 @@
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：第四章所在位置与本章保留者</span></strong></summary>
 
 > 本章所在位置（导航）：
-> - **四元地图：** 负担分配、证据、可追溯性、可观察性与核验，实施[序言](core_00_preamble.md#chapter-00-preamble--foundational-requirements)所确立的[宪法四元](core_00_preamble.md#constitutional-tetrad)**监督**与**问责**腿；凡具实质性要求之处，通过第 **3** 节与第 **4** 节下的实践可观察性与独立质疑实施**参与**。要求按[实质利害](core_00_preamble.md#material-stake)缩放。
+> - **四元地图：** 负担分配、证据、可追溯性、可观察性与核验，实施[序言](core_00_preamble.md#序言--基础要求)所确立的[宪法四元](core_00_preamble.md#constitutional-tetrad)**监督**与**问责**腿；凡具实质性要求之处，通过第 **3** 节与第 **4** 节下的实践可观察性与独立质疑实施**参与**。要求按[实质利害](core_00_preamble.md#material-stake)缩放。
 > - **宪法主责者：** 负担分配、合规证据、定义可追溯性、可观察性，以及受安全约束的核验。**第十章**主责与本章一并阅读的轨迹记录与经核实输入纪律。
 > - **实施主责者：** 指定实施文件中的部署、数据处理与保证机制必须与这些规则保持一致，并且凡文本库已提供更严规则逻辑之处可以更严。
-> - **反挪位规则：** 本章仅统管负担、追溯、可观察性、安全限度与证据。它不重述第五章定义、**第十章**贡献或轨迹测量，或第十二章反宪法不当行为标准。经核实不合规向轨迹的路由，由[第三章 §3 — 不合规认定画像](core_03_definition_integrity.md#3-non-compliance-finding-profiles)与[第十章 — 贡献、违规与轨迹模型](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)统管。**第 6 节**陈述第二至四章如何有别于[第九章 — 系统对齐认证](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。
+> - **反挪位规则：** 本章仅统管负担、追溯、可观察性、安全限度与证据。它不重述第五章定义、**第十章**贡献或轨迹测量，或第十二章反宪法不当行为标准。经核实不合规向轨迹的路由，由[第三章 §3 — 不合规认定画像](core_03_definition_integrity.md#3-不合规认定画像)与[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)统管。**第 6 节**陈述第二至四章如何有别于[第九章 — 系统对齐认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。
 
 </details>
 
@@ -43,21 +43,21 @@
 
 | 步骤 | 直白工作 | 节 |
 | --- | --- | --- |
-| **1 — 谁来证明** | 负担落在主张合规的一方 | [§1](#1-exclusive-enforcement-and-burden-allocation) |
-| **2 — 出示该图** | 从定义到可观察行为的结构化追溯 | [§2](#2-definition-traceability-requirement) |
-| **3 — 使之可核对** | 系统必须在实践中、而非仅在理论上，暴露足以核验该图的内容 | [§3](#3-observability-of-traceability-requirement) |
-| **4 — 安全限度** | 真实安全限度被允许；借口性阻断不被允许 | [§4](#4-security-constrained-observability-and-verification-rule) |
-| **5 — 什么算数** | 证据必须真实、完整、独立，并随时间维持 | [§5](#5-compliance-evidence-standard) |
+| **1 — 谁来证明** | 负担落在主张合规的一方 | [§1](#1-排他执行与负担分配) |
+| **2 — 出示该图** | 从定义到可观察行为的结构化追溯 | [§2](#2-定义可追溯性要求) |
+| **3 — 使之可核对** | 系统必须在实践中、而非仅在理论上，暴露足以核验该图的内容 | [§3](#3-可追溯性的可观察性要求) |
+| **4 — 安全限度** | 真实安全限度被允许；借口性阻断不被允许 | [§4](#4-受安全约束的可观察性与核验规则) |
+| **5 — 什么算数** | 证据必须真实、完整、独立，并随时间维持 | [§5](#5-合规证据标准) |
 
-**直白语言可及性。** [第一章 §3.4 — 直白语言可及性尽责管理义务](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)适用于感知者为行使权利、质疑决定或核验合规所使用的治理、裁决性与运行材料。直白语言**不**改变或减低第二至四章所要求者。若直白语言版本与此处的定义或核验规则不一致，以那些规则为准。使用行话、堆叠的复杂性或不透明来阻断[可质疑性](../../core_05_band_accountability.md#contestability)或 [Article XVI：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)通路，构成本章与**第一章 §3.4**下的不合规。
+**直白语言可及性。** [第一章 §3.4 — 直白语言可及性尽责管理义务](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)适用于感知者为行使权利、质疑决定或核验合规所使用的治理、裁决性与运行材料。直白语言**不**改变或减低第二至四章所要求者。若直白语言版本与此处的定义或核验规则不一致，以那些规则为准。使用行话、堆叠的复杂性或不透明来阻断[可质疑性](../../core_05.035_band_accountability.md#contestability)或 [Article XVI：审计、透明与独立核验](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)通路，构成本章与**第一章 §3.4**下的不合规。
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 定义可追溯性要求
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[第四章，第 1 节 — 排他执行与负担分配](#1-exclusive-enforcement-and-burden-allocation)；[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — 实质性定义与不合规规则；**§3** 仅陈述追溯图要求，不重述那些规则。
-- 下游：[第四章，第 3 节 — 可追溯性的可观察性要求](#3-observability-of-traceability-requirement)；[第四章，第 4 节 — 受安全约束的可观察性与核验规则](#4-security-constrained-observability-and-verification-rule)；[第四章，第 5 节 — 合规证据标准](#5-compliance-evidence-standard)。
+- 上游：[第四章，第 1 节 — 排他执行与负担分配](#1-排他执行与负担分配)；[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-宗旨与角色)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-定义完整性要求)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-定义完整性与反规避约束)；[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-来自可观察系统行为的不合规) — 实质性定义与不合规规则；**§3** 仅陈述追溯图要求，不重述那些规则。
+- 下游：[第四章，第 3 节 — 可追溯性的可观察性要求](#3-可追溯性的可观察性要求)；[第四章，第 4 节 — 受安全约束的可观察性与核验规则](#4-受安全约束的可观察性与核验规则)；[第四章，第 5 节 — 合规证据标准](#5-合规证据标准)。
 
 </details>
 
@@ -87,14 +87,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第四章，第 2 节 — 定义可追溯性要求](#2-definition-traceability-requirement)。
-- 下游：[第四章，第 4 节 — 受安全约束的可观察性与核验规则](#4-security-constrained-observability-and-verification-rule)；[第四章，第 5 节 — 合规证据标准](#5-compliance-evidence-standard)。
-- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 在合理可预见条件下并非实践上可达成的理论可核验性，即不合规。
-- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 由设计驱动的不透明必须对照合理可预见条件来评估，而不是对照最佳情形运行。
+- 上游：原则：[第四章，第 2 节 — 定义可追溯性要求](#2-定义可追溯性要求)。
+- 下游：[第四章，第 4 节 — 受安全约束的可观察性与核验规则](#4-受安全约束的可观察性与核验规则)；[第四章，第 5 节 — 合规证据标准](#5-合规证据标准)。
+- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05.050_band_oversight.md#foreseeability) — 在合理可预见条件下并非实践上可达成的理论可核验性，即不合规。
+- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05.050_band_oversight.md#foreseeability) — 由设计驱动的不透明必须对照合理可预见条件来评估，而不是对照最佳情形运行。
 
 </details>
 
-<strong><span style="color: #2563eb;">定义：</span></strong> [可预见性](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">定义：</span></strong> [可预见性](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *用直白的话说：第 2 节要求一张追溯图 — 本节要求系统暴露足够的自身，使经授权或受影响的各方能够在实践中、而不只是在理论上核对该图。不透明的架构、外部依赖与黑箱组件不能过关。*
 
@@ -122,13 +122,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第四章，第 3 节 — 可追溯性的可观察性要求](#3-observability-of-traceability-requirement)；[第一章，第 6.2 节 — 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)。
-- 下游：[第四章，第 5 节 — 合规证据标准](#5-compliance-evidence-standard)；[corpus_systems.md](../../corpus_systems.md)，**CS-2 — 信息类型与处理**，以及 **CS-5** — 操作性密码学、凭证与信息类型处理。
-- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 在合理可预见条件下可预见地阻止核验的设计选择，不论所声称的安全理由为何，即不合规；[第五章 真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint)与[第五章 安全（约束）](../../core_05_band_continuity.md#safety-constraint) — 密码学与信息类型处理不得取代第 **2**、**3** 或 **5** 节；凡环境隔离约束具有实质性之处，适用 **Articles VII-A**、**VII-B**、**XVI-A** 与 **XVII-A**。
+- 上游：原则：[第四章，第 3 节 — 可追溯性的可观察性要求](#3-可追溯性的可观察性要求)；[第一章，第 6.2 节 — 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)。
+- 下游：[第四章，第 5 节 — 合规证据标准](#5-合规证据标准)；[corpus_systems.md](../../corpus_systems.md)，**CS-2 — 信息类型与处理**，以及 **CS-5** — 操作性密码学、凭证与信息类型处理。
+- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05.050_band_oversight.md#foreseeability) — 在合理可预见条件下可预见地阻止核验的设计选择，不论所声称的安全理由为何，即不合规；[第五章 真理（宪法约束）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)与[第五章 安全（约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) — 密码学与信息类型处理不得取代第 **2**、**3** 或 **5** 节；凡环境隔离约束具有实质性之处，适用 **Articles VII-A**、**VII-B**、**XVI-A** 与 **XVII-A**。
 
 </details>
 
-<strong><span style="color: #2563eb;">定义：</span></strong> [可预见性](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">定义：</span></strong> [可预见性](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *用直白的话说：安全可以收窄披露或审计如何发生、何时发生、向谁发生 — 它不能抹去追溯、核验并允许独立核对的义务。*
 
@@ -149,16 +149,16 @@
 - 该项判定经独立正当化且可审计
 - 剩余方法保全足以作出合规判定的认识完整性
 
-密码学与信息类型处理必须与本宪法以及 **[corpus_systems.md](../../corpus_systems.md)，CS-2 — 信息类型与处理** 对齐；凡具实质性相关之处，它们仍必须允许本章下的完整合规核验。密码学与信息类型处理不得取代[真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint)或[安全（约束）](../../core_05_band_continuity.md#safety-constraint)，或第 **2**、**3** 或 **5** 节中的义务。
+密码学与信息类型处理必须与本宪法以及 **[corpus_systems.md](../../corpus_systems.md)，CS-2 — 信息类型与处理** 对齐；凡具实质性相关之处，它们仍必须允许本章下的完整合规核验。密码学与信息类型处理不得取代[真理（宪法约束）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)或[安全（约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)，或第 **2**、**3** 或 **5** 节中的义务。
 
 <a id="5-compliance-evidence-standard"></a>
 ### 5. 合规证据标准
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[第四章，第 1 节至第 4 节](#1-exclusive-enforcement-and-burden-allocation)；[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)；[第二章，§3 跨定义栈的一致性](core_02_definition_structure.md#3-consistency-across-the-definition-stack)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)；[第三章，§2.6 不确定性完整性与不利用约束](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — 实质性定义与不合规规则；**§4** 仅陈述证据层要求，不重述那些规则。
-- 下游：[第十章 — 贡献、违规与轨迹模型](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)。
-- 一并阅读：[第四章，第 2 节 — 定义可追溯性要求](#2-definition-traceability-requirement) — 未能调用或正确适用任何一项具实质性要求的**第五章**定义，使相关评价、证据与合规判定全部失效；[第一章，§6 — 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)，凡缩放影响感知者福祉与长时域稳定之间的权衡之处；[第五章 安全（约束）](../../core_05_band_continuity.md#safety-constraint)、[第五章 真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint)，以及[第五章 认识完整性](../../core_05_band_oversight.md#epistemic-integrity) — 对经验、预测或因果主张的科学知情证据对齐。
+- 上游：[第四章，第 1 节至第 4 节](#1-排他执行与负担分配)；[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-宗旨与角色)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-定义完整性要求)；[第二章，§3 跨定义栈的一致性](core_02_definition_structure.md#3-跨定义栈的一致性)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-定义完整性与反规避约束)；[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-来自可观察系统行为的不合规)；[第三章，§2.6 不确定性完整性与不利用约束](core_03_definition_integrity.md#26-不确定性完整性与不利用约束) — 实质性定义与不合规规则；**§4** 仅陈述证据层要求，不重述那些规则。
+- 下游：[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
+- 一并阅读：[第四章，第 2 节 — 定义可追溯性要求](#2-定义可追溯性要求) — 未能调用或正确适用任何一项具实质性要求的**第五章**定义，使相关评价、证据与合规判定全部失效；[第一章，§6 — 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)，凡缩放影响感知者福祉与长时域稳定之间的权衡之处；[第五章 安全（约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[第五章 真理（宪法约束）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)，以及[第五章 认识完整性](../../core_05.050_band_oversight.md#epistemic-integrity) — 对经验、预测或因果主张的科学知情证据对齐。
 
 </details>
 
@@ -178,21 +178,21 @@
 - 对合规、分类或治理具有实质性的**经验**、**预测**或**因果**主张，凡相称之处反映**科学完整性** — 可检验或可审查的方法，已记录的假定与限度，凡它们影响决定之处不压制空结果或失败复现，以及结论可随新证据而修订
 
 **下列各项未满足第 1 节下的举证责任：**
-- 未能满足[第二章，§2.1 核心完整性条件](core_02_definition_structure.md#21-core-integrity-conditions)下任何一项所要求的定义或组件，或[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)下的不合规 — 使本章下全部依赖它们的合规主张失效
+- 未能满足[第二章，§2.1 核心完整性条件](core_02_definition_structure.md#21-核心完整性条件)下任何一项所要求的定义或组件，或[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-来自可观察系统行为的不合规)下的不合规 — 使本章下全部依赖它们的合规主张失效
 - 未能提供本章下已存在或被要求的所要求证据
-- 仅替代指标的、自我声明的、部分的或选择性范围的证明，若被当作该系统的合规展示，会在[第三章，第 2 节](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)下构成不合规
+- 仅替代指标的、自我声明的、部分的或选择性范围的证明，若被当作该系统的合规展示，会在[第三章，第 2 节](core_03_definition_integrity.md#2-来自可观察系统行为的不合规)下构成不合规
 - 不足以满足上文**证据必须**要求的证据
 
-凡不确定性使具实质性相关的定义组件无法被确定地展示合规之处，适用[第三章，§2.6 不确定性完整性与不利用约束](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint)。凡举证责任未被满足之处，默认处于**不合规**状态。
+凡不确定性使具实质性相关的定义组件无法被确定地展示合规之处，适用[第三章，§2.6 不确定性完整性与不利用约束](core_03_definition_integrity.md#26-不确定性完整性与不利用约束)。凡举证责任未被满足之处，默认处于**不合规**状态。
 
 <a id="6-relationship-to-system-alignment-certification"></a>
 ### 6. 与系统对齐认证的关系
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[第二章 — 定义结构与组件要求](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)；[第三章 — 定义完整性、规避与不合规](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)；[第四章，第 1 节至第 5 节](#1-exclusive-enforcement-and-burden-allocation)。
-- 下游：[第九章 — 系统对齐认证](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 贡献、违规与轨迹模型](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)。
-- 一并阅读：[第九章 §7 — 认证结果](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) — 第二至四章下的经核实不合规可以重开或击败认证，不论先前认证如何。
+- 上游：[第二章 — 定义结构与组件要求](core_02_definition_structure.md#第二章定义结构与组件要求)；[第三章 — 定义完整性、规避与不合规](core_03_definition_integrity.md#第三章定义完整性规避与不合规)；[第四章，第 1 节至第 5 节](#1-排他执行与负担分配)。
+- 下游：[第九章 — 系统对齐认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
+- 一并阅读：[第九章 §7 — 认证结果](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) — 第二至四章下的经核实不合规可以重开或击败认证，不论先前认证如何。
 
 </details>
 
@@ -203,13 +203,13 @@
 本节为**非操作性**。它仅陈述一条**层级边界**。
 
 **第二、三、四章**提供常设的定义与核验底层：
-- **[第二章](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)** — 定义如何被建造并保持内部一致（O/M/A/C）
-- **[第三章](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)** — 定义如何适用于真实行为，包括不合规与规避
-- **[第四章](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)**（第 **1** 节至第 **5** 节） — 举证责任、追溯图、可观察性、安全限度与证据标准
+- **[第二章](core_02_definition_structure.md#第二章定义结构与组件要求)** — 定义如何被建造并保持内部一致（O/M/A/C）
+- **[第三章](core_03_definition_integrity.md#第三章定义完整性规避与不合规)** — 定义如何适用于真实行为，包括不合规与规避
+- **[第四章](core_04_burden_traceability_verification.md#第四章举证责任可追溯性与核验)**（第 **1** 节至第 **5** 节） — 举证责任、追溯图、可观察性、安全限度与证据标准
 
 这些凡评价合规时即适用 — 不论有无认证。
 
-**[第九章 — 系统对齐认证](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** 在具实质性之处提供评议所监督的**认证过程**：整系统评价域、认证记录义务、认证结果、再认证节奏、可质疑性链，以及通向第十章的经核实输入桥接。它**适用**第二至四章；它**不**重述它们。
+**[第九章 — 系统对齐认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** 在具实质性之处提供评议所监督的**认证过程**：整系统评价域、认证记录义务、认证结果、再认证节奏、可质疑性链，以及通向第十章的经核实输入桥接。它**适用**第二至四章；它**不**重述它们。
 
 读者不得把以下各项当作：
 - 一份**认证记录**顶替第二至四章下的持续合规
@@ -222,4 +222,4 @@
 
 **下一文件（本语言）：** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**有约束力的原文：** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)
+**有约束力的原文：** [core_04_burden_traceability_verification.md](../../core_04.000_burden_traceability_verification.md)

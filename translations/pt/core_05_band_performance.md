@@ -6,13 +6,13 @@
 
 > O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes neste arquivo nem em outros capítulos.
 >
-> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Cinco, faixa Desempenho constitucional em inglês](../../core_05_band_performance.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_05_band_performance.md`](../../core_05_band_performance.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
+> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Cinco, faixa Desempenho constitucional em inglês](../../core_05.060_band_performance.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_05_band_performance.md`](../../core_05.060_band_performance.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
-> Contém a **faixa Desempenho constitucional do Capítulo Cinco** — o **lar de família de medição** do Capítulo Cinco para a categoria transversal Desempenho constitucional. O desempenho constitucional é instrumental a ambos os fins de [**Florescimento**](core_00_preamble.md#flourishing) e [**Continuidade**](core_00_preamble.md#continuity) e **não** é uma perna da Tétrade. Suas definições-folha (Eficiência constitucional, Ônus evitável, Capacidade produtiva, Dever de redução de ônus) conservam seus **lares canônicos na [faixa Continuidade](core_05_band_continuity.md)** por desenho: são membros de aglomerado da faixa Continuidade sob Administração responsável / Capacidade de sistemas compartilhados e o [aglomerado dependente proporcionalidade–ônus–eficiência](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), onde a capacidade durável, o desperdício e a entrega de resultado por recurso sentam com os temas de Continuidade. Este arquivo roteia a categoria de medição do Preâmbulo; não sustenta esses corpos-folha. As folhas se realocam aqui só por uma decisão de colocação expressa e datada. A ordem de leitura e a bússola vivem em [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> Contém a **faixa Desempenho constitucional do Capítulo Cinco** — o **lar de família de medição** do Capítulo Cinco para a categoria transversal Desempenho constitucional. O desempenho constitucional é instrumental a ambos os fins de [**Florescimento**](core_00_preamble.md#flourishing) e [**Continuidade**](core_00_preamble.md#continuity) e **não** é uma perna da Tétrade. Suas definições-folha (Eficiência constitucional, Ônus evitável, Capacidade produtiva, Dever de redução de ônus) conservam seus **lares canônicos na [faixa Continuidade](core_05_band_continuity.md)** por desenho: são membros de aglomerado da faixa Continuidade sob Administração responsável / Capacidade de sistemas compartilhados e o [aglomerado dependente proporcionalidade–ônus–eficiência](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), onde a capacidade durável, o desperdício e a entrega de resultado por recurso sentam com os temas de Continuidade. Este arquivo roteia a categoria de medição do Preâmbulo; não sustenta esses corpos-folha. As folhas se realocam aqui só por uma decisão de colocação expressa e datada. A ordem de leitura e a bússola vivem em [core_05__definitions_home.md](core_05__definitions_home.md#capítulo-cinco-definições-fundacionais).
 >
 > **Anterior (este idioma):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **Próximo (ainda em inglês):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+> **Próximo (ainda em inglês):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 > **Arco de leitura:** lar de família de medição → roteamento de folhas na faixa Continuidade.
 
 </details>
@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: [Bússola do Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad).
+- Origem: [Bússola do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad).
 - Destino: lar de família de medição do Capítulo Cinco para o Desempenho constitucional; **todos os corpos-folha** permanecem na [faixa Continuidade](core_05_band_continuity.md) (aglomerados de administração responsável / capacidade de sistemas compartilhados / proporcionalidade–ônus–eficiência).
 - Ler com: [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency), [Ônus evitável](core_05_band_continuity.md#avoidable-burden), [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional) e [Dever de redução de ônus](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 
@@ -58,12 +58,12 @@ Essas medidas transversais perguntam se os sistemas entregam resultados constitu
 - Os níveis de medição operativos vivem nos lares de definição do Capítulo Cinco — veja [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency), [Ônus evitável](core_05_band_continuity.md#avoidable-burden), [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional) e [Dever de redução de ônus](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Metas de desempenho, recompensas e medidas de recursos só são válidas na medida em que permaneçam rastreáveis a resultados constitucionais.
 - Não podem substituir a Eficiência constitucional, a [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional) nem o cumprimento do Piso de Direitos.
-- Ler com [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) onde o desempenho do sistema inteiro esteja materialmente no alcance.
+- Ler com [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) onde o desempenho do sistema inteiro esteja materialmente no alcance.
 
 ---
 
 **Arquivo anterior:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**Próximo arquivo (ainda em inglês):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+**Próximo arquivo (ainda em inglês):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 
-**Original vinculante:** [core_05_band_performance.md](../../core_05_band_performance.md)
+**Original vinculante:** [core_05_band_performance.md](../../core_05.060_band_performance.md)

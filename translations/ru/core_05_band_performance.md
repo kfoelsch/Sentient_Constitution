@@ -6,13 +6,13 @@
 
 > Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей в этом файле или в других главах.
 >
-> Этот файл — **пилот читательского языка** [английской Главы пятой, полосы Конституционной результативности](../../core_05_band_performance.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_05_band_performance.md`](../../core_05_band_performance.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
+> Этот файл — **пилот читательского языка** [английской Главы пятой, полосы Конституционной результативности](../../core_05.060_band_performance.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_05_band_performance.md`](../../core_05.060_band_performance.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
 >
-> Он содержит **полосу Конституционной результативности Главы пятой** — **дом семьи измерений** Главы пятой для сквозной категории Конституционной результативности. Конституционная результативность инструментальна к обеим целям [**Расцвет**](core_00_preamble.md#flourishing) и [**Преемственность**](core_00_preamble.md#continuity) и **не** является ногой Тетрады. Её листовые определения (Конституционная эффективность, Избежимая нагрузка, Производительная способность, Обязанность снижения нагрузки) сохраняют свои **канонические дома в [полосе Преемственности](core_05_band_continuity.md)** по замыслу: они члены кластера полосы Преемственности под Ответственным управлением / Способностью общих систем и [зависимым кластером соразмерность–нагрузка–эффективность](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), где длительная способность, растрата и доставка исхода на ресурс сидят с темами Преемственности. Этот файл маршрутизирует категорию измерения Преамбулы; он не держит эти листовые тела. Листья переселяются сюда только по явному, датированному решению о размещении. Порядок чтения и компас живут в [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> Он содержит **полосу Конституционной результативности Главы пятой** — **дом семьи измерений** Главы пятой для сквозной категории Конституционной результативности. Конституционная результативность инструментальна к обеим целям [**Расцвет**](core_00_preamble.md#flourishing) и [**Преемственность**](core_00_preamble.md#continuity) и **не** является ногой Тетрады. Её листовые определения (Конституционная эффективность, Избежимая нагрузка, Производительная способность, Обязанность снижения нагрузки) сохраняют свои **канонические дома в [полосе Преемственности](core_05_band_continuity.md)** по замыслу: они члены кластера полосы Преемственности под Ответственным управлением / Способностью общих систем и [зависимым кластером соразмерность–нагрузка–эффективность](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), где длительная способность, растрата и доставка исхода на ресурс сидят с темами Преемственности. Этот файл маршрутизирует категорию измерения Преамбулы; он не держит эти листовые тела. Листья переселяются сюда только по явному, датированному решению о размещении. Порядок чтения и компас живут в [core_05__definitions_home.md](core_05__definitions_home.md#глава-пятая-основополагающие-определения).
 >
 > **Предыдущий (этот язык):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **Следующий (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+> **Следующий (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 > **Дуга чтения:** дом семьи измерений → маршрутизация листьев полосы Преемственности.
 
 </details>
@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: [Компас Главы пятой](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims); [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad).
+- Исход: [Компас Главы пятой](core_05__definitions_home.md#компас-и-карта-определений-главы-пятой); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims); [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad).
 - Назначение: дом семьи измерений Главы пятой для Конституционной результативности; **все листовые тела** остаются в [полосе Преемственности](core_05_band_continuity.md) (кластеры ответственного управления / способности общих систем / соразмерность–нагрузка–эффективность).
 - Читать вместе с: [Конституционная эффективность](core_05_band_continuity.md#constitutional-efficiency), [Избежимая нагрузка](core_05_band_continuity.md#avoidable-burden), [Производительная способность](core_05_band_continuity.md#productive-capacity-constitutional) и [Обязанность снижения нагрузки](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 
@@ -58,12 +58,12 @@
 - Оперативные ярусы измерения живут на домах определений Главы пятой — см. [Конституционная эффективность](core_05_band_continuity.md#constitutional-efficiency), [Избежимая нагрузка](core_05_band_continuity.md#avoidable-burden), [Производительная способность](core_05_band_continuity.md#productive-capacity-constitutional) и [Обязанность снижения нагрузки](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Цели результативности, вознаграждения и меры ресурсов действительны только в той мере, в какой они остаются прослеживаемыми к конституционным исходам.
 - Они не могут подменять Конституционную эффективность, [Производительную способность](core_05_band_continuity.md#productive-capacity-constitutional) или соответствие Полу прав.
-- Читать вместе с [Глава седьмая §3 Оценка сертификации целой системы](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), где результативность целой системы материально в охвате.
+- Читать вместе с [Глава седьмая §3 Оценка сертификации целой системы](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), где результативность целой системы материально в охвате.
 
 ---
 
 **Предыдущий файл:** [core_05_band_participation.md](core_05_band_participation.md)
 
-**Следующий файл (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+**Следующий файл (ещё на английском):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 
-**Связывающий оригинал:** [core_05_band_performance.md](../../core_05_band_performance.md)
+**Связывающий оригинал:** [core_05_band_performance.md](../../core_05.060_band_performance.md)

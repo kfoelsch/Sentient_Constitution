@@ -6,13 +6,13 @@
 
 > المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 >
-> هذا الملف **تجريب بلغة القارئ** لـ[الفصل الخامس، نطاق الأداء الدستوري بالإنجليزية](../../core_05_band_performance.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_05_band_performance.md`](../../core_05_band_performance.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
+> هذا الملف **تجريب بلغة القارئ** لـ[الفصل الخامس، نطاق الأداء الدستوري بالإنجليزية](../../core_05.060_band_performance.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_05_band_performance.md`](../../core_05.060_band_performance.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
-> يحتوي **نطاق الأداء الدستوري في الفصل الخامس** — **موطن أسرة القياس** في الفصل الخامس لفئة الأداء الدستوري العابرة. الأداء الدستوري أداتية لكلا مقصدي [**الازدهار**](core_00_preamble.md#flourishing) و[**الاستمرارية**](core_00_preamble.md#continuity) و**ليس** رجل رباعية. تحتفظ تعريفاته الطرفية (الكفاءة الدستورية، العبء القابل للتجنّب، القدرة الإنتاجية، واجب تقليل العبء) بـ**مواطنها القانونية في [نطاق الاستمرارية](core_05_band_continuity.md)** تصميمًا: فهي أعضاء عنقود نطاق الاستمرارية تحت الإدارة المسؤولة / قدرة الأنظمة المشتركة و[العنقود التابع التناسب–العبء–الكفاءة](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)، حيث تجلس القدرة الدائمة والهدر وتسليم النتيجة لكل مورد مع موضوعات الاستمرارية. يوجّه هذا الملف فئة قياس الديباجة؛ ولا يحمل تلك الأجسام الطرفية. لا تنتقل الأطراف إلى هنا إلا بقرار تموضع صريح ومؤرَّخ. ترتيب القراءة والبوصلة يعيشان في [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> يحتوي **نطاق الأداء الدستوري في الفصل الخامس** — **موطن أسرة القياس** في الفصل الخامس لفئة الأداء الدستوري العابرة. الأداء الدستوري أداتية لكلا مقصدي [**الازدهار**](core_00_preamble.md#flourishing) و[**الاستمرارية**](core_00_preamble.md#continuity) و**ليس** رجل رباعية. تحتفظ تعريفاته الطرفية (الكفاءة الدستورية، العبء القابل للتجنّب، القدرة الإنتاجية، واجب تقليل العبء) بـ**مواطنها القانونية في [نطاق الاستمرارية](core_05_band_continuity.md)** تصميمًا: فهي أعضاء عنقود نطاق الاستمرارية تحت الإدارة المسؤولة / قدرة الأنظمة المشتركة و[العنقود التابع التناسب–العبء–الكفاءة](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)، حيث تجلس القدرة الدائمة والهدر وتسليم النتيجة لكل مورد مع موضوعات الاستمرارية. يوجّه هذا الملف فئة قياس الديباجة؛ ولا يحمل تلك الأجسام الطرفية. لا تنتقل الأطراف إلى هنا إلا بقرار تموضع صريح ومؤرَّخ. ترتيب القراءة والبوصلة يعيشان في [core_05__definitions_home.md](core_05__definitions_home.md#الفصل-الخامس-التعريفات-التأسيسية).
 >
 > **السابق (هذه اللغة):** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+> **التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 > **قوس القراءة:** موطن أسرة القياس → توجيه الأطراف في نطاق الاستمرارية.
 
 </details>
@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [بوصلة الفصل الخامس](core_05__definitions_home.md#chapter-five-compass-and-definition-map)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad).
+- أعلى: [بوصلة الفصل الخامس](core_05__definitions_home.md#بوصلة-الفصل-الخامس-وخريطة-التعريفات)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad).
 - أسفل: موطن أسرة القياس في الفصل الخامس للأداء الدستوري؛ **جميع الأجسام الطرفية** تبقى في [نطاق الاستمرارية](core_05_band_continuity.md) (عناقيد الإدارة المسؤولة / قدرة الأنظمة المشتركة / التناسب–العبء–الكفاءة).
 - يُقرأ مع: [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency)، [العبء القابل للتجنّب](core_05_band_continuity.md#avoidable-burden)، [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity-constitutional) و[واجب تقليل العبء](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 
@@ -58,12 +58,12 @@
 - تعيش مستويات القياس التشغيلية في مواطن تعريف الفصل الخامس — انظر [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency)، [العبء القابل للتجنّب](core_05_band_continuity.md#avoidable-burden)، [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity-constitutional) و[واجب تقليل العبء](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - أهداف الأداء والمكافآت ومقاييس الموارد لا تصح إلا بقدر ما تبقى قابلة للتتبّع إلى نواتج دستورية.
 - لا يجوز أن تحل محل الكفاءة الدستورية أو [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity-constitutional) أو الامتثال لأرضية الحقوق.
-- يُقرأ مع [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث يكون أداء النظام كاملًا داخل النطاق على نحو مادي الصلة.
+- يُقرأ مع [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث يكون أداء النظام كاملًا داخل النطاق على نحو مادي الصلة.
 
 ---
 
 **الملف السابق (هذه اللغة):** [core_05_band_participation.md](core_05_band_participation.md)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+**الملف التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 
-**الأصل الملزم:** [core_05_band_performance.md](../../core_05_band_performance.md)
+**الأصل الملزم:** [core_05_band_performance.md](../../core_05.060_band_performance.md)

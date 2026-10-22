@@ -6,11 +6,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">کارپس میں مقام (غیرِ عملی): فائل کی ساخت اور پڑھنے کے قواعد</span></strong></summary>
 
-> یہ فائل [انگریزی باب پنجم، بروقت کارروائی چوکڑی کی ٹانگ](../../core_05_apex_timeliness_leg.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_05_apex_timeliness_leg.md`](../../core_05_apex_timeliness_leg.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
+> یہ فائل [انگریزی باب پنجم، بروقت کارروائی چوکڑی کی ٹانگ](../../core_05.030_apex_timeliness_leg.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_05_apex_timeliness_leg.md`](../../core_05.030_apex_timeliness_leg.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > **پچھلا (اس زبان میں):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 >
-> **اگلا (ابھی انگریزی میں):** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+> **اگلا (ابھی انگریزی میں):** [core_05_band_accountability.md](../../core_05.035_band_accountability.md)
 > **پڑھنے کا قوس:** O/M/A/C → ٹانگ کی تحلیل → پیمائش خاندان۔
 
 </details>
@@ -18,9 +18,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#chapter-five-compass-and-definition-map)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) (بروقت کارروائی ٹانگ؛ [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ بنیادی مقصد [شگفتگی](core_00_preamble.md#flourishing)۔
-- زیریں: [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional) (*حل کے راستوں کے لیے بروقت کارروائی ٹانگ کو عمل میں لاتی ہے*)؛ **دفعہ XXV-C** (*بروقت حل اور تاخیر مخالف تہہ*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [چوکڑی کی ٹانگ کی تحلیل](#timeliness-tetrad-leg-decomposition)؛ بروقت کارروائی کو عمل میں لانے والی برگ تعریفیں [core_05_band_accountability.md](../../core_05_band_accountability.md) میں۔
-- ساتھ پڑھیں: [حل کے راستوں کا قبضہ](../../core_05_band_accountability.md#capture-of-resolution-pathways)، [جوابدہی](core_05_apex_accountability_leg.md#accountability)، [آئینی کارآمدگی](../../core_05_band_continuity.md#constitutional-efficiency)، [قابلِ اجتناب بوجھ](../../core_05_band_continuity.md#avoidable-burden)، [ذمہ دارانہ انتظام کا عیب](../../core_05_band_continuity.md#stewardship-defect-constitutional)، [جائزہ اور درستی کا فرض](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)، اور [ذمہ دارانہ انتظام](../../core_05_band_continuity.md#stewardship-constitutional)۔
+- بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) (بروقت کارروائی ٹانگ؛ [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ بنیادی مقصد [شگفتگی](core_00_preamble.md#flourishing)۔
+- زیریں: [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution) (*حل کے راستوں کے لیے بروقت کارروائی ٹانگ کو عمل میں لاتی ہے*)؛ **دفعہ XXV-C** (*بروقت حل اور تاخیر مخالف تہہ*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [چوکڑی کی ٹانگ کی تحلیل](#timeliness-tetrad-leg-decomposition)؛ بروقت کارروائی کو عمل میں لانے والی برگ تعریفیں [core_05_band_accountability.md](../../core_05.035_band_accountability.md) میں۔
+- ساتھ پڑھیں: [حل کے راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)، [جوابدہی](core_05_apex_accountability_leg.md#accountability)، [آئینی کارآمدگی](../../core_05.040_band_continuity.md#constitutional-efficiency)، [قابلِ اجتناب بوجھ](../../core_05.040_band_continuity.md#avoidable-burden)، [ذمہ دارانہ انتظام کا عیب](../../core_05.040_band_continuity.md#stewardship-defect)، [جائزہ اور درستی کا فرض](../../core_05.040_band_continuity.md#review-and-correction-duty)، اور [ذمہ دارانہ انتظام](../../core_05.040_band_continuity.md#stewardship)۔
 
 </details>
 
@@ -39,11 +39,11 @@
     - ذمہ دارانہ انتظام کی درستی
     آئینی ہم آہنگی کے چکر میں۔
   - **منحصر ہے:** وہ شرائط اور چینل جن کی اس ٹانگ کو کام کرنے کے لیے ضرورت ہے۔ ہر اصطلاح کا تفصیلی دائرہ اور کیسے ناپنے کے قواعد اس کی اپنی تعریف پر رہتے ہیں؛ [چوکڑی کی ٹانگ کی تحلیل](#timeliness-tetrad-leg-decomposition) سے شروع کریں:
-    - [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional)؛
-    - [حل کے راستوں کا قبضہ](../../core_05_band_accountability.md#capture-of-resolution-pathways)؛
-    - [آئینی کارآمدگی](../../core_05_band_continuity.md#constitutional-efficiency)؛ اور
-    - [قابلِ اجتناب بوجھ](../../core_05_band_continuity.md#avoidable-burden)۔
-  - **دائرے سے باہر:** برگ تعریف کی تفصیلات، پیمائش درجے، اور عمل درآمد میکانکس جن کے مالک [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional)، بہن برگ، اور CJS ہیں۔
+    - [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution)؛
+    - [حل کے راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)؛
+    - [آئینی کارآمدگی](../../core_05.040_band_continuity.md#constitutional-efficiency)؛ اور
+    - [قابلِ اجتناب بوجھ](../../core_05.040_band_continuity.md#avoidable-burden)۔
+  - **دائرے سے باہر:** برگ تعریف کی تفصیلات، پیمائش درجے، اور عمل درآمد میکانکس جن کے مالک [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution)، بہن برگ، اور CJS ہیں۔
 <a id="timeliness-constitutional-m"></a>
 - M: کیا مسائل حقیقتاً وقت پر چل رہے ہیں؟ یہ سطر صرف یہ نام لیتی ہے کہ کیا دیکھنا ہے؛ کیسے ناپنے کے قواعد ہر جڑی تعریف پر رہتے ہیں۔ موضوع نقشہ: [چوکڑی کی ٹانگ کی تحلیل](#timeliness-tetrad-leg-decomposition)۔
 <a id="timeliness-constitutional-a"></a>
@@ -51,12 +51,12 @@
   - [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کے تحت جائزہ لیں، [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ۔
   - پوچھیں کہ بروقت کارروائی حقیقی ہے یا نہیں — حقوق بچانے والی رفتار، خام بہاؤ نہیں — صرف رسم نہیں۔
   - ساتھ پڑھیں:
-    - [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional)؛
-    - [حل کے راستوں کا قبضہ](../../core_05_band_accountability.md#capture-of-resolution-pathways)؛
-    - [آئینی کارآمدگی](../../core_05_band_continuity.md#constitutional-efficiency)؛
-    - [قابلِ اجتناب بوجھ](../../core_05_band_continuity.md#avoidable-burden)؛
-    - [ذمہ دارانہ انتظام کا عیب](../../core_05_band_continuity.md#stewardship-defect-constitutional)؛ اور
-    - [جائزہ اور درستی کا فرض](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)۔
+    - [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution)؛
+    - [حل کے راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)؛
+    - [آئینی کارآمدگی](../../core_05.040_band_continuity.md#constitutional-efficiency)؛
+    - [قابلِ اجتناب بوجھ](../../core_05.040_band_continuity.md#avoidable-burden)؛
+    - [ذمہ دارانہ انتظام کا عیب](../../core_05.040_band_continuity.md#stewardship-defect)؛ اور
+    - [جائزہ اور درستی کا فرض](../../core_05.040_band_continuity.md#review-and-correction-duty)۔
   - بروقت کارروائی شرکت، نگرانی اور جوابدہی سے گزرتی ہے، مگر آزادانہ طور پر کھوکھلی ہو سکتی ہے جہاں رسمی ڈھانچے موجود ہوں اور مادی مسائل نہ چلیں۔
 <a id="timeliness-constitutional-c"></a>
 - C: عدمِ اطاعت جب:
@@ -77,16 +77,16 @@
 
 *سادہ الفاظ میں: یہ نقشہ بروقت کارروائی کی برگ کی فہرست کرتا ہے؛ وہ اس ٹانگ کا دائرہ وراثت میں لیتی ہیں جب تک وہ اور نہ کہیں۔*
 
-اس ٹانگ کے تحت برگ تعریفیں اس کا دائرہ وراثت میں لیتی ہیں جب تک وہ اسے صریحاً تنگ یا وسیع نہ کریں۔ پورا موضوع نقشہ: [باب پنجم قطب نما](core_05__definitions_home.md#chapter-five-compass-and-definition-map)۔
+اس ٹانگ کے تحت برگ تعریفیں اس کا دائرہ وراثت میں لیتی ہیں جب تک وہ اسے صریحاً تنگ یا وسیع نہ کریں۔ پورا موضوع نقشہ: [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ)۔
 
 **بروقت کارروائی پیمائش خاندان کی برگ** — عملی پیمائش درجے:
 
-- [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional)
-- [حل کے راستوں کا قبضہ](../../core_05_band_accountability.md#capture-of-resolution-pathways)
+- [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution)
+- [حل کے راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 
 **عرضی۔** بروقت کارروائی شرکت، نگرانی اور جوابدہی سے گزرتی ہے؛ وہ ٹانگیں مفید ہونے کے لیے وقت پر ہونی چاہئیں۔
 
-بروقت کارروائی کو عمل میں لانے والی **آزاد اور نیم آزاد اصطلاحیں** [core_05_band_accountability.md](../../core_05_band_accountability.md) میں رہتی ہیں۔
+بروقت کارروائی کو عمل میں لانے والی **آزاد اور نیم آزاد اصطلاحیں** [core_05_band_accountability.md](../../core_05.035_band_accountability.md) میں رہتی ہیں۔
 
 ---
 
@@ -98,9 +98,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: بروقت کارروائی پیمائش خاندان — صرف لنک رول اپ؛ فی اصطلاح درجے برگ تعریفوں پر رہتے ہیں — دیکھیں [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional)، [حل کے راستوں کا قبضہ](../../core_05_band_accountability.md#capture-of-resolution-pathways) اور [بروقت کارروائی](#timeliness-constitutional) (صرف لنک ٹانگ سر رول اپ)۔
+- زیریں: بروقت کارروائی پیمائش خاندان — صرف لنک رول اپ؛ فی اصطلاح درجے برگ تعریفوں پر رہتے ہیں — دیکھیں [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution)، [حل کے راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) اور [بروقت کارروائی](#timeliness-constitutional) (صرف لنک ٹانگ سر رول اپ)۔
 - ساتھ پڑھیں: [شرکت](core_05_apex_participation_leg.md#participation-constitutional)، [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) اور [جوابدہی](core_05_apex_accountability_leg.md#accountability) — بروقت کارروائی دیگر تین چوکڑی کی ٹانگوں سے بھی گزرتی ہے؛ وہ ٹانگیں مفید ہونے کے لیے وقت پر ہونی چاہئیں۔
-- ساتھ پڑھیں: [باب یازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)۔
+- ساتھ پڑھیں: [باب یازدهم §6](core_11_forum.md#6-بروقت-حل-مادیت-درجات-اور-تاخیر-مخالف-ضبط)۔
 
 </details>
 
@@ -108,12 +108,12 @@
 
 *سادہ الفاظ میں: یہ سوال پوچھتے ہیں کہ مسائل حقیقتاً وقت پر چلتے ہیں یا نہیں — یہ نہیں کہ کوئی ڈیش بورڈ بہاؤ دکھاتا ہے۔ یہ بروقت کارروائی پیمائش خاندان کا باب پنجم گھر ہے؛ تمہید §2 سادہ زبان کا زمرہ سوال رکھتی ہے، اور خاندانی جدول اور تعریف کی راہ بندی یہاں رہتے ہیں۔*
 
-*مادیت* ([مادیت کا تعین](../../core_05_band_oversight.md#materiality-determination)) انضمامی ہے — الگ پیمائش زمرہ نہیں؛ وہ پیمانہ کرتی ہے کہ یہ خاندان [مادی داؤ](core_00_preamble.md#material-stake) کے تحت کتنی مضبوطی سے لاگو ہوتا ہے۔
+*مادیت* ([مادیت کا تعین](../../core_05.050_band_oversight.md#materiality)) انضمامی ہے — الگ پیمائش زمرہ نہیں؛ وہ پیمانہ کرتی ہے کہ یہ خاندان [مادی داؤ](core_00_preamble.md#material-stake) کے تحت کتنی مضبوطی سے لاگو ہوتا ہے۔
 
 | پیمائش خاندان | سادہ سوال | بنیادی آئینی استعمال |
 |---|---|---|
-| [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional) | کیا تنازعات اس وقت حل ہوتے ہیں جب تدارک اب بھی معنی رکھتا ہے؟ | تاخیر کو حقوق کھوکھلا کرنے سے روکتی ہے |
-| تاخیر مخالف اور حل کے راستوں کی ضبط | کیا محرکات اور ڈھانچے بنائے گئے انبار، قبضے، اور کھوکھلی معیادوں سے بچتے ہیں؟ | تاخیر کے نظاموں اور [حل کے راستوں کا قبضہ](../../core_05_band_accountability.md#capture-of-resolution-pathways) کا پتہ لگاتی ہے |
+| [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution) | کیا تنازعات اس وقت حل ہوتے ہیں جب تدارک اب بھی معنی رکھتا ہے؟ | تاخیر کو حقوق کھوکھلا کرنے سے روکتی ہے |
+| تاخیر مخالف اور حل کے راستوں کی ضبط | کیا محرکات اور ڈھانچے بنائے گئے انبار، قبضے، اور کھوکھلی معیادوں سے بچتے ہیں؟ | تاخیر کے نظاموں اور [حل کے راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) کا پتہ لگاتی ہے |
 
 یہ پیمانے پوچھتے ہیں کہ عمل کی گھڑیاں، حل کے راستے، اور مرمت کی رفتار [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کی **بروقت کارروائی** ٹانگ کو عمل میں حقیقی رکھتی ہیں یا نہیں — محض کاغذ پر موجود نہیں۔
 
@@ -122,6 +122,6 @@
 
 **پچھلی فائل (اس زبان میں):** [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+**اگلی فائل (ابھی انگریزی میں):** [core_05_band_accountability.md](../../core_05.035_band_accountability.md)
 
-**پابند اصل:** [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md)
+**پابند اصل:** [core_05_apex_timeliness_leg.md](../../core_05.030_apex_timeliness_leg.md)

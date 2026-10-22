@@ -5,7 +5,7 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc.
 >
-> Thư mục này là một **thử nghiệm ngôn ngữ đọc**. **Không** phải là Hiến pháp Hữu tri. **Không** thể thay đổi các tệp `core_*` đã đánh số. **Không** phải một ấn bản phát hành. Đọc nó **không** phải là [tiếp nhận Hiến pháp này](../../core_17_amendment_ratification.md#10-ratification-and-adoption). Nếu bản dịch và nguyên bản tiếng Anh có vẻ lệch nhau, các `core_*` đánh số bằng tiếng Anh thắng cho đến khi một ấn bản sau nói khác. Xem [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> Thư mục này là một **thử nghiệm ngôn ngữ đọc**. **Không** phải là Hiến pháp Hữu tri. **Không** thể thay đổi các tệp `core_*` đã đánh số. **Không** phải một ấn bản phát hành. Đọc nó **không** phải là [tiếp nhận Hiến pháp này](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption). Nếu bản dịch và nguyên bản tiếng Anh có vẻ lệch nhau, các `core_*` đánh số bằng tiếng Anh thắng cho đến khi một ấn bản sau nói khác. Xem [Reader-language editions](../../doc_architecture.md#reader-language-editions-shipping-order).
 >
 > **Ghim vào ấn bản kho văn bản:** `SC-Corpus-2026.08.09` (có hiệu lực 2026-08-09; [README.md](../../README.md)). **Tiền phát hành.**
 
@@ -19,32 +19,35 @@
 
 **Lát cắt đầu, theo kiến trúc.** Thứ tự phát hành yêu cầu trước hết các bản tóm tắt dễ vào, tờ Sàn Quyền, và cửa công cộng. Thử nghiệm này cố ý dịch [Lời nói đầu](core_00_preamble.md), [Chương Một, Phần A](core_01_a_values_principles.md), [Chương Một, Phần B](core_01_b_interaction_interpretation.md), và [Chương Một, Phần C](core_01_c_stewardship_capacity_principles.md) để đo chi phí của một `core_*` đã đánh số. Một cửa đọc không phải là can thiệp chính trị.
 
+**Chapter Seven status.** [Chapter Seven charters](core_07_charters.md) is an AI-assisted translation draft without independent fluent-reader review. It is non-binding; the numbered English source controls.
+
 ## Tệp
 
 | Tệp | Nguyên bản tiếng Anh |
 |---|---|
-| [core_00_preamble.md](core_00_preamble.md) | [core_00_preamble.md](../../core_00_preamble.md) |
-| [core_01_a_values_principles.md](core_01_a_values_principles.md) | [core_01_a_values_principles.md](../../core_01_a_values_principles.md) |
-| [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) | [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md) |
-| [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) | [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) |
-| [core_02_definition_structure.md](core_02_definition_structure.md) | [core_02_definition_structure.md](../../core_02_definition_structure.md) |
-| [core_03_definition_integrity.md](core_03_definition_integrity.md) | [core_03_definition_integrity.md](../../core_03_definition_integrity.md) |
-| [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md) | [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md) |
-| [core_05__definitions_home.md](core_05__definitions_home.md) | [core_05__definitions_home.md](../../core_05__definitions_home.md) |
-| [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md) | [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md) |
-| [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md) |
-| [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) |
-| [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
-| [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
-| [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08_functional_independence_segregation_of_duties.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09_b_system_alignment_certification_record_process.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12_a_misconduct_designation.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13_forum.md) |
+| [core_00_preamble.md](core_00_preamble.md) | [core_00_preamble.md](../../core_00.000_preamble.md) |
+| [core_01_a_values_principles.md](core_01_a_values_principles.md) | [core_01_a_values_principles.md](../../core_01.005_values_principles.md) |
+| [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) | [core_01_b_interaction_interpretation.md](../../core_01.010_interaction_interpretation.md) |
+| [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) | [core_01_c_stewardship_capacity_principles.md](../../core_01.015_stewardship_capacity_principles.md) |
+| [core_02_definition_structure.md](core_02_definition_structure.md) | [core_02_definition_structure.md](../../core_02.000_definition_structure.md) |
+| [core_03_definition_integrity.md](core_03_definition_integrity.md) | [core_03_definition_integrity.md](../../core_03.000_definition_integrity.md) |
+| [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md) | [core_04_burden_traceability_verification.md](../../core_04.000_burden_traceability_verification.md) |
+| [core_05__definitions_home.md](core_05__definitions_home.md) | [core_05__definitions_home.md](../../core_05.000_definitions_home.md) |
+| [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md) | [core_05_apex_accountability_leg.md](../../core_05.005_apex_accountability_leg.md) |
+| [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | [core_05_apex_continuity_aim.md](../../core_05.010_apex_continuity_aim.md) |
+| [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | [core_05_apex_flourishing_aim.md](../../core_05.015_apex_flourishing_aim.md) |
+| [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05.020_apex_oversight_leg.md) |
+| [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05.025_apex_participation_leg.md) |
+| [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05.030_apex_timeliness_leg.md) |
+| [core_07_charters.md](core_07_charters.md) | [core_07.000_charters.md](../../core_07.000_charters.md) |
+| [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.010_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.005_misconduct_designation.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
 
 Liên kết trong thử nghiệm trỏ tới các tệp tiếng Anh chưa có bản dịch. Neo HTML (`id`) được sao từ nguyên bản để đối chiếu từng đoạn.
 

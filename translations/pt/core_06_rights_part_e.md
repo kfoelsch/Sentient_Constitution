@@ -73,7 +73,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Processo constitucional de resolução de conflitos](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) e [§15 Interpretação constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Processo constitucional de resolução de conflitos](core_01_b_interaction_interpretation.md#13-processo-de-resolução-de-colisões-constitucionais) e [§15 Interpretação constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - Leitura conjunta: família de mensuração da tempestividade (*Resolução oportuna como mensuração constitucional*).
 
 </details>
@@ -115,7 +115,7 @@ No sentido constitucional, adjudicação e resolução de disputas são definida
 *Artigos correlatos:*
 
 - **Piso de tempestividade:** A velocidade de resolução, a disciplina contra atrasos e os marcos por nível de materialidade são regidos pelo **Artigo XXVI-C** (*Resolução oportuna e piso contra atrasos*), implementado por [Capítulo Treze §6 Resolução oportuna, níveis de materialidade e disciplina contra atrasos](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- **Reparação oportuna:** Ler em conjunto com o [**Artigo XIII-B** (*Direito à reparação e ao remédio*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*acesso oportuno à reparação*).
+- **Reparação oportuna:** Ler em conjunto com o [**Artigo XIII-B** (*Direito à reparação e ao remédio*)](core_06_rights_part_c.md#artigo-xiii-b-direito-à-reparação-e-ao-remédio) (*acesso oportuno à reparação*).
 - **Medidas de emergência:** Regidas por [Capítulo Treze §6.1 Medidas de emergência e ônus de continuidade](core_13_forum.md#61-emergency-measures-and-continuation-burden). A revisão retrospectiva de uma medida de emergência é regida pelo **Artigo XXVI-A** (*Revisão retrospectiva e divulgação*).
 - **Justiça após violação verificada:** Regida pelo **Artigo XX** (*Justiça após violação verificada*).
 
@@ -130,7 +130,7 @@ A implementação da governança adotada prevê:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: Capítulo Um [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restrições de divulgação epistêmica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Antecedentes: Princípios: Capítulo Um [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restrições de divulgação epistêmica](core_01_b_interaction_interpretation.md#132-restrições-à-divulgação-epistêmica) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
 
 </details>
 
@@ -167,7 +167,7 @@ Este Artigo estabelece os pisos para revisão, registros e divulgação após em
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: Capítulo Um [§13.1.5 Teste decisório para conflitos entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Antecedentes: Princípios: Capítulo Um [§13.1.5 Teste decisório para conflitos entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
 - Leitura conjunta: [Capítulo Onze §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression) (*Expressão voluntária de responsabilização pública*); [Capítulo Doze §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expressão voluntária de responsabilização pública (anticonstitucional)*).
 
 </details>
@@ -206,7 +206,7 @@ Este Artigo estabelece o procedimento para conflitos entre direitos e o lugar do
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
 - Antecedentes: família de mensuração da tempestividade (*Resolução oportuna e disciplina contra atrasos como mensuração constitucional*); [Preâmbulo §6.2 Como toda a cadeia se encaixa](core_00_preamble.md#62-how-the-full-chain-fits-together) (*pipeline de legitimidade, integração e coordenação de fóruns*).
-- Princípios: Capítulo Um [§9.2 Eficiência constitucional](core_01_a_values_principles.md#92-constitutional-efficiency), [Capítulo Um §13.3 Minimização de ônus evitáveis](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) e [§13.1.5 Procedimento para conflitos entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Princípios: Capítulo Um [§9.2 Eficiência constitucional](core_01_a_values_principles.md#92-eficiência-constitucional), [Capítulo Um §13.3 Minimização de ônus evitáveis](core_01_b_interaction_interpretation.md#133-minimização-dos-encargos-evitáveis) e [§13.1.5 Procedimento para conflitos entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Aplicação posterior: [Capítulo Treze §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*níveis de materialidade, marcos do pipeline e disciplina contra atrasos*); [Capítulo Treze §6.1 Medidas de emergência e ônus de continuidade](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*os mesmos limites máximos das janelas padrão para restabelecimento e contestação após contenção emergencial*).
 - Porta de entrada para custódios (não operativa): cartão da próxima etapa: [Atraso](implementation/STEWARD_ENTRY_DOORS.md#delay). O cartão não pode restringir a Constituição.
 
@@ -233,7 +233,7 @@ Este Artigo estabelece o piso contra atrasos na resolução de problemas constit
 - **Objetivo de coordenação:** A justiça constitucional segundo o **Artigo XX-A** (*Objetivo e alcance da justiça*) opera por meio de um **sistema constitucional de coordenação e resolução** — verificar fatos, mensurar legitimidade, integrar consequências e restaurar quando viável —, não por atrasos adversariais indefinidos, pontuação de reputação ou punição por si só.
 - **Três requisitos conjuntos:** Vias de resolução de questões materiais devem ser **oportunas**, **eficientes** e **justas** simultaneamente:
   - **Oportunas** — prazos definidos e proporcionais à [relevância material](core_00_preamble.md#material-stake) e à urgência do dano;
-  - **Eficientes** — [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency) no sentido do Capítulo Um [§9.2 Eficiência constitucional](core_01_a_values_principles.md#92-constitutional-efficiency): resultados constitucionais reais por tempo dos seres sencientes e esforço compartilhado consumidos, e não mero volume de processamento ou encerramento de casos;
+  - **Eficientes** — [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency) no sentido do Capítulo Um [§9.2 Eficiência constitucional](core_01_a_values_principles.md#92-eficiência-constitucional): resultados constitucionais reais por tempo dos seres sencientes e esforço compartilhado consumidos, e não mero volume de processamento ou encerramento de casos;
   - **Justas** — o **Artigo XX-A** (*Objetivo e alcance da justiça*) e o **Artigo XX-B** (*Pisos de restrição*) continuam plenamente aplicáveis; rapidez não justifica deixar de verificar fatos ([Capítulo Dez §3.1 Filtro de dados verificados](core_10_standing_assessment.md#verified-inputs-for-standing)), punir a parte errada, oferecer solução inadequada ao dano ou impedir contestação e recurso.
 - **Supervisão de fóruns e do pipeline:** Para disputas encaminhadas pelos **Capítulos Nove a Doze**, os itens a seguir são regidos por [Capítulo Treze §6 Resolução oportuna, níveis de materialidade e disciplina contra atrasos](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), sujeitos ao piso de oportunidade, eficiência e justiça deste Artigo:
   - classificação por nível de materialidade;
@@ -263,13 +263,13 @@ A busca legítima ocorre por meio da [Tétrade Constitucional](core_00_preamble.
 - **Responsabilização:** quem controla a governança deve responder quando regras persistirem apenas por hábito ou conveniência e quando mudanças constitucionais reais forem desviadas por rótulos de emergência, implementação ou custódia para evitar os **mínimos dos Pisos de Direitos** ou as regras de mudança lícita da Constituição.
 - **Tempestividade:** revalidação programada e revisão acelerada quando houver pressão de captura, exclusão de partes interessadas, degradação dos direitos de contestação ou desempenho material insuficiente.
 
-Regras de governança, mecanismos de participação, modelos de ponderação e estruturas de financiamento continuam sujeitos à disciplina de justificação contínua prevista em [Capítulo Um §18.4 Justificação contínua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). O **Artigo XXVII-A** (*Não entrincheiramento e revisabilidade*) e o **Artigo XXVII-B** (*Revalidação periódica e mudança transparente*) estabelecem os pisos operacionais de não entrincheiramento, revalidação e mudança transparente.
+Regras de governança, mecanismos de participação, modelos de ponderação e estruturas de financiamento continuam sujeitos à disciplina de justificação contínua prevista em [Capítulo Um §18.4 Justificação contínua](core_01_c_stewardship_capacity_principles.md#184-justificação-contínua). O **Artigo XXVII-A** (*Não entrincheiramento e revisabilidade*) e o **Artigo XXVII-B** (*Revalidação periódica e mudança transparente*) estabelecem os pisos operacionais de não entrincheiramento, revalidação e mudança transparente.
 
 #### Artigo XXVII-A: não entrincheiramento e revisabilidade
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: [Capítulo Um §18.4 Justificação contínua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Capítulo Um [§3 Objetivo fundamental: bem-estar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Capítulo Oito §3 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [Capítulo Um §14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Antecedentes: Princípios: [Capítulo Um §18.4 Justificação contínua](core_01_c_stewardship_capacity_principles.md#184-justificação-contínua); Capítulo Um [§3 Objetivo fundamental: bem-estar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Capítulo Oito §3 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [Capítulo Um §14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -366,7 +366,7 @@ A governança transitória existe para garantir continuidade e evitar regressõe
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Oito §3 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Onze §5.4](core_11_standing_integration.md#54-special-violation-rules) (*este Artigo limita, durante a transição, a perda e a comunicação de recompensas desalinhadas*); [Capítulo Oito — Certificação de alinhamento do sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação) e [Capítulo Oito §3 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Onze §5.4](core_11_standing_integration.md#54-special-violation-rules) (*este Artigo limita, durante a transição, a perda e a comunicação de recompensas desalinhadas*); [Capítulo Oito — Certificação de alinhamento do sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -395,12 +395,12 @@ Este Artigo estabelece a adoção em fases e como os mínimos dos Pisos de Direi
     - pressão política.
   - Os critérios, as evidências de cumprimento e a decisão de etapa são publicados. Partes interessadas afetadas podem comentar os critérios antes da adoção e contestar a decisão.
   - O conteúdo dos critérios, a designação de responsáveis e os artefatos de verificação são regidos por [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Governança transitória e evolução institucional*) e [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*Critérios de etapa e regras de avanço*).
-- **Adoção dos Pisos de Direitos — abstenção imediata, prestação à medida que a prontidão é construída:** Os **mínimos dos Pisos de Direitos** aplicados por meio do **Artigo VI** (*Igualdade de direitos básicos*) conforme o [Princípio dos Mínimos dos Pisos de Direitos](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), juntamente com quaisquer pisos setoriais mais rigorosos para sobrevivência, agência, não discriminação, acessibilidade, auditabilidade e reparação acionados pelo contexto afetado, são o objetivo adotado em todas as fases. Um Piso de Direitos não pode ser plenamente aplicado antes que existam as instituições e a cultura necessárias para fazê-lo cumprir, e este Artigo não finge o contrário. Também não permite que esse fato reduza o piso. Portanto, os pisos vinculam de duas maneiras, conforme o tipo de dever:
+- **Adoção dos Pisos de Direitos — abstenção imediata, prestação à medida que a prontidão é construída:** Os **mínimos dos Pisos de Direitos** aplicados por meio do **Artigo VI** (*Igualdade de direitos básicos*) conforme o [Princípio dos Mínimos dos Pisos de Direitos](core_01_b_interaction_interpretation.md#princípio-dos-mínimos-da-base-de-direitos), juntamente com quaisquer pisos setoriais mais rigorosos para sobrevivência, agência, não discriminação, acessibilidade, auditabilidade e reparação acionados pelo contexto afetado, são o objetivo adotado em todas as fases. Um Piso de Direitos não pode ser plenamente aplicado antes que existam as instituições e a cultura necessárias para fazê-lo cumprir, e este Artigo não finge o contrário. Também não permite que esse fato reduza o piso. Portanto, os pisos vinculam de duas maneiras, conforme o tipo de dever:
   - **Deveres de abstenção** — aquilo que o adotante e as autoridades de transição não devem fazer — vinculam desde a data de entrada em vigor, pois seu cumprimento não exige nova instituição:
     - **Sem regressão consciente ou evitável:** não se pode reduzir deliberada ou evitavelmente o acesso de qualquer ser senciente a uma proteção de Piso de Direitos abaixo de sua **medição inicial**, nem adotar medida transitória que torne materialmente mais difícil exercer um piso.
     - **Sem novas violações:** novos sistemas, políticas e práticas, assim como expansões materiais dos existentes, devem ser projetados para cumprir o piso desde o início. O caminho de atingimento abaixo cobre apenas déficits herdados, não novas condutas.
     - **Sem perdas irreversíveis:** aplicam-se integralmente o padrão de preservação abaixo e a [postura provisória padrão do Capítulo Um §13.1](core_01_b_interaction_interpretation.md#default-interim-posture).
-    - **Sem conduta degradante, pretextual, discriminatória ou de ocultação** nas medidas de transição, inclusive todas as obrigações impostas às autoridades de transição pelo **Artigo XXVIII-D** (*Bens e sistemas não conformes; incentivos para entrega voluntária*), conforme o [Princípio do Processo Não Degradante](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+    - **Sem conduta degradante, pretextual, discriminatória ou de ocultação** nas medidas de transição, inclusive todas as obrigações impostas às autoridades de transição pelo **Artigo XXVIII-D** (*Bens e sistemas não conformes; incentivos para entrega voluntária*), conforme o [Princípio do Processo Não Degradante](core_01_b_interaction_interpretation.md#princípio-do-processo-não-degradante).
     - **Relato honesto:** nenhum piso pode ser representado como exigível ou atingido, nem qualquer lacuna como fechada, exceto com base em dados verificados do registro.
 
     A aplicação provisória dos deveres de abstenção, antes de um fórum estar pronto para determinado escopo, é regida por [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Registro de atingimento dos Pisos de Direitos*).
@@ -444,7 +444,7 @@ Este Artigo estabelece a adoção em fases e como os mínimos dos Pisos de Direi
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [§14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação) e [§14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -486,7 +486,7 @@ Escopo provisório estagnado ou crescente sem amadurecimento institucional corre
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
 - Leitura conjunta: [Capítulo Oito](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*certificação de alinhamento do sistema*); [Capítulos Nove a Doze](core_00_preamble.md#62-how-the-full-chain-fits-together) (*pipeline de legitimidade e supervisão de fóruns*).
 
 </details>

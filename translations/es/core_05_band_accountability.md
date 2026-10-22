@@ -6,9 +6,9 @@
 
 > El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
 >
-> Este archivo es un **piloto de idioma de lectura** del [Capítulo Cinco, banda Rendición de cuentas en inglés](../../core_05_band_accountability.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_05_band_accountability.md`](../../core_05_band_accountability.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
+> Este archivo es un **piloto de idioma de lectura** del [Capítulo Cinco, banda Rendición de cuentas en inglés](../../core_05.035_band_accountability.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_05_band_accountability.md`](../../core_05.035_band_accountability.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
-> Contiene el **Capítulo Cinco, banda Rendición de cuentas** — definiciones Independientes, Semiindependientes y de agrupación dependiente asignadas a la banda constitucional **Rendición de cuentas** (**Def.A1–Def.A4**). El orden de lectura y la brújula viven en [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> Contiene el **Capítulo Cinco, banda Rendición de cuentas** — definiciones Independientes, Semiindependientes y de agrupación dependiente asignadas a la banda constitucional **Rendición de cuentas** (**Def.A1–Def.A4**). El orden de lectura y la brújula viven en [core_05__definitions_home.md](core_05__definitions_home.md#capítulo-cinco-definiciones-fundacionales).
 >
 > **Anterior (este idioma):** [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md)
 >
@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: [Brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims).
+- Origen: [Brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco); [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims).
 - Destino: hogares canónicos de definición de la banda Rendición de cuentas para el Capítulo Cinco.
 - Leer con: definiciones de la banda **Rendición de cuentas**; leer-con obligatorio de agrupación donde aplique el ámbito de admisión.
 
@@ -52,7 +52,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency), [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) y [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Componente de agrupación: [*Proporcionalidad, Necesidad, Viabilidad, Carga evitable, Deber de reducción de carga, Eficiencia constitucional, Minimización del daño (selección de compensaciones) y Capacidad productiva*](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)
-- Leer con: [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency) y [Agencia significativa](core_05_band_participation.md#meaningful-agency).
+- Leer con: [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada) y [Agencia significativa](core_05_band_participation.md#agencia-significativa).
 
 </details>
 
@@ -61,16 +61,16 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: si algo exigido — una acción, una alternativa, una salvaguarda o una vía de salida — puede hacerse de hecho en el sistema real, no solo en el papel. Decir «no podemos» exige prueba real; la conveniencia o el costo solos no bastan.*
 
 - **Qué es**
-  - **En alcance:** Si una acción, alternativa, salvaguarda o vía de salida exigida es prácticamente alcanzable para las partes y los sistemas afectados cuando el sistema opera como un todo. La prueba aplica aun cuando los sencientes discrepen sobre la viabilidad — incluso donde la [Dependencia](core_05_band_continuity.md#dependency) o el [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in) deja vacía en la práctica una alternativa formal.
+  - **En alcance:** Si una acción, alternativa, salvaguarda o vía de salida exigida es prácticamente alcanzable para las partes y los sistemas afectados cuando el sistema opera como un todo. La prueba aplica aun cuando los sencientes discrepen sobre la viabilidad — incluso donde la [Dependencia](core_05_band_continuity.md#dependencia) o el [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico) deja vacía en la práctica una alternativa formal.
   - **Fuera de alcance:** el habla de posibilidad teórica sin una acción, alternativa, salvaguarda o salida exigida en juego.
 <a id="feasibility-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Exija evidencia de que se consideraron de hecho alternativas reales. La conveniencia del operador, el costo solo o las barreras que el operador construyó en su propio beneficio no prueban que una medida constitucionalmente exigida sea inviable — sobre todo donde esa pretensión anularía la [Agencia significativa](core_05_band_participation.md#meaningful-agency), el [Consentimiento](core_05_band_participation.md#consent-constitutional) o la [Impugnabilidad](core_05_band_accountability.md#contestability).
+    **Evaluación primaria:** Exija evidencia de que se consideraron de hecho alternativas reales. La conveniencia del operador, el costo solo o las barreras que el operador construyó en su propio beneficio no prueban que una medida constitucionalmente exigida sea inviable — sobre todo donde esa pretensión anularía la [Agencia significativa](core_05_band_participation.md#agencia-significativa), el [Consentimiento](core_05_band_participation.md#consent-constitutional) o la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
 <a id="feasibility-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Las pretensiones de que algo es inviable sin justificación adecuada — o los análisis que omiten alternativas materialmente pertinentes — invalidan los hallazgos de cumplimiento relacionados bajo [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) donde esas pruebas apliquen. Una etiqueta o papeleo de viable o inviable sin efecto real en la situación que se evalúa también es incumplidor.
+  - **Falla primaria:** Las pretensiones de que algo es inviable sin justificación adecuada — o los análisis que omiten alternativas materialmente pertinentes — invalidan los hallazgos de cumplimiento relacionados bajo [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) donde esas pruebas apliquen. Una etiqueta o papeleo de viable o inviable sin efecto real en la situación que se evalúa también es incumplidor.
 
 ---
 
@@ -81,7 +81,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Componente de agrupación: [*Infoesfera, Expresión, Prensa y actividad periodística, y Buena fe (integridad acotada a la publicación)*](core_05_band_participation.md#info-sphere) (*Solo predicados alineados con la publicación y la infoesfera — la **Buena fe** residual en auditorías y contextos de [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) sin ganchos de publicación del Capítulo Uno §8.22 se enruta a [**Def.O2** *Verdad e integridad epistémica*](core_05_band_oversight.md#truth-and-epistemic-integrity-cluster) donde los requisitos de divulgación veraz y de integridad epistémica apliquen de forma material.*)
+- Componente de agrupación: [*Infoesfera, Expresión, Prensa y actividad periodística, y Buena fe (integridad acotada a la publicación)*](core_05_band_participation.md#infoesfera) (*Solo predicados alineados con la publicación y la infoesfera — la **Buena fe** residual en auditorías y contextos de [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) sin ganchos de publicación del Capítulo Uno §8.22 se enruta a [**Def.O2** *Verdad e integridad epistémica*](core_05_band_oversight.md#truth-and-epistemic-integrity-cluster) donde los requisitos de divulgación veraz y de integridad epistémica apliquen de forma material.*)
 
 </details>
 
@@ -90,16 +90,16 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: intentar de forma honesta seguir los hechos y las reglas aplicables al publicar, al participar en una auditoría o al cooperar con la supervisión. La sinceridad no disculpa el engaño deliberado, el desprecio temerario de la verdad ni el cumplimiento fingido.*
 
 - **Qué es**
-  - **En alcance:** Finalidad honesta en los marcos constitucionales donde se exige Buena fe: publicación bajo el **Artículo IX** (*Semejanza, datos experienciales y derechos de publicación*)-C (*Publicación veraz y límites de publicación de alto impacto*), participación en auditorías y cooperación con la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional). Significa intentar de forma sincera alinear la conducta con los hechos enunciados, las reglas aplicables y la [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity). Excluye el engaño deliberado, la indiferencia temeraria a la falsedad y el cumplimiento usado como pretexto.
+  - **En alcance:** Finalidad honesta en los marcos constitucionales donde se exige Buena fe: publicación bajo el **Artículo IX** (*Semejanza, datos experienciales y derechos de publicación*)-C (*Publicación veraz y límites de publicación de alto impacto*), participación en auditorías y cooperación con la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional). Significa intentar de forma sincera alinear la conducta con los hechos enunciados, las reglas aplicables y la [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica). Excluye el engaño deliberado, la indiferencia temeraria a la falsedad y el cumplimiento usado como pretexto.
   - **Fuera de alcance:** la cortesía social ordinaria sin enjuego constitucional de conducta en publicación, auditoría o supervisión.
 <a id="good-faith-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Use la [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y el [Riesgo](core_05_band_continuity.md#risk) para distinguir la Buena fe del error negligente. Aplique la [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) cuando las declaraciones afecten de forma material las decisiones de otros.
+    **Evaluación primaria:** Use la [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y el [Riesgo](core_05_band_continuity.md#riesgo) para distinguir la Buena fe del error negligente. Aplique la [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional) cuando las declaraciones afecten de forma material las decisiones de otros.
 <a id="good-faith-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Las falsedades materiales, el desprecio temerario o un patrón de cumplimiento fingido en estos marcos son incumplidores. Una etiqueta de Buena fe que no afecta la conducta en el asunto que gobierna esta Constitución también es incumplidora. Esto es especialmente cierto cuando la conducta derrota la [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), la [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) o la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional).
+  - **Falla primaria:** Las falsedades materiales, el desprecio temerario o un patrón de cumplimiento fingido en estos marcos son incumplidores. Una etiqueta de Buena fe que no afecta la conducta en el asunto que gobierna esta Constitución también es incumplidora. Esto es especialmente cierto cuando la conducta derrota la [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional), la [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) o la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional).
 
 ---
 
@@ -121,16 +121,16 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: cuando queden varias opciones lícitas, elija la que se espera que cause el menor daño total a lo largo de los sencientes afectados, los sistemas conectados y los horizontes temporales cercanos y de largo plazo.*
 
 - **Qué es**
-  - **En alcance:** Tras aplicar la [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint) vinculante, la [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), la [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency) y los requisitos de sistema entero, puede quedar más de una opción cumplidora. Elija la opción que minimice el [Daño](core_05_band_accountability.md#harm) total a lo largo de los sencientes, los sistemas y todos los horizontes temporales pertinentes.
+  - **En alcance:** Tras aplicar la [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción) vinculante, la [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional), la [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada) y los requisitos de sistema entero, puede quedar más de una opción cumplidora. Elija la opción que minimice el [Daño](core_05_band_accountability.md#daño) total a lo largo de los sencientes, los sistemas y todos los horizontes temporales pertinentes.
   - **Fuera de alcance:** la preferencia ordinaria entre opciones cuando no queda compensación material de daño después de las restricciones vinculantes.
 <a id="harm-minimization-tradeoff-selection-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Sume los efectos directos, indirectos, diferidos, acumulativos y transistémicos. No minimice solo el [Daño](core_05_band_accountability.md#harm) local o inmediato cuando el daño total de sistema entero sea materialmente distinto.
+    **Evaluación primaria:** Sume los efectos directos, indirectos, diferidos, acumulativos y transistémicos. No minimice solo el [Daño](core_05_band_accountability.md#daño) local o inmediato cuando el daño total de sistema entero sea materialmente distinto.
 <a id="harm-minimization-tradeoff-selection-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Una elección es incumplidora si otra opción cumplidora disponible causaría menos [Daño](core_05_band_accountability.md#harm) total. Una etiqueta o papeleo de minimización del daño que no cambia la elección en el asunto que gobierna esta Constitución también es incumplidor.
+  - **Falla primaria:** Una elección es incumplidora si otra opción cumplidora disponible causaría menos [Daño](core_05_band_accountability.md#daño) total. Una etiqueta o papeleo de minimización del daño que no cambia la elección en el asunto que gobierna esta Constitución también es incumplidor.
 
 ---
 
@@ -152,7 +152,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: una restricción es necesaria solo cuando ninguna opción menos restrictiva funcionaría de forma razonablemente adecuada en el sistema real. El hábito, la conveniencia del operador o el costo solos no prueban la necesidad.*
 
 - **Qué es**
-  - **En alcance:** Una restricción se permite solo cuando no existe una alternativa menos restrictiva y razonablemente eficaz bajo las condiciones plenas del sistema en funcionamiento. Esta prueba debe seguir siendo consistente con la [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency).
+  - **En alcance:** Una restricción se permite solo cuando no existe una alternativa menos restrictiva y razonablemente eficaz bajo las condiciones plenas del sistema en funcionamiento. Esta prueba debe seguir siendo consistente con la [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada).
   - **Fuera de alcance:** la preferencia operativa ordinaria o el habla de hábito sin una restricción o carga de derechos en juego.
 <a id="necessity-a"></a>
 - **Cómo medir y evaluar**
@@ -166,8 +166,8 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - cuando las alternativas no se analizaron de forma adecuada.
 
     Una etiqueta o papeleo de necesidad sin efecto real en la situación que se evalúa también es incumplidor. Esto es especialmente grave cuando la restricción carga:
-    - la [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency);
-    - la [Agencia significativa](core_05_band_participation.md#meaningful-agency); o
+    - la [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada);
+    - la [Agencia significativa](core_05_band_participation.md#agencia-significativa); o
     - el [Consentimiento](core_05_band_participation.md#consent-constitutional).
 
 ---
@@ -191,13 +191,13 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: las restricciones y la gobernanza deben coincidir con la gravedad y la probabilidad del daño. Demasiado control y demasiado poco control pueden ambos fallar esta prueba, y un poder mayor exige una rendición de cuentas y una supervisión más fuertes.*
 
 - **Qué es**
-  - **En alcance:** Una limitación de los valores constitucionales debe coincidir con el tamaño y la probabilidad del [Daño](core_05_band_accountability.md#harm) o del impacto de sistema entero que aborda de forma legítima. La gobernanza debe cumplir al menos el nivel exigido por la clasificación materialmente aplicable más alta del sistema. Un poder autorizado mayor, un rol de mayor consecuencia o una influencia institucional mayor aumenta — y nunca debe reducir — la fuerza exigida de la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) y de la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) bajo la [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance) y el [§10.1](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure) del Capítulo Uno.
+  - **En alcance:** Una limitación de los valores constitucionales debe coincidir con el tamaño y la probabilidad del [Daño](core_05_band_accountability.md#daño) o del impacto de sistema entero que aborda de forma legítima. La gobernanza debe cumplir al menos el nivel exigido por la clasificación materialmente aplicable más alta del sistema. Un poder autorizado mayor, un rol de mayor consecuencia o una influencia institucional mayor aumenta — y nunca debe reducir — la fuerza exigida de la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) y de la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) bajo la [Gobernanza escalada por clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) y el [§10.1](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure) del Capítulo Uno.
   - **Fuera de alcance:** los juicios ordinarios de tamaño fuera de las limitaciones que afectan derechos o de la gobernanza escalada por clasificación.
 <a id="proportionality-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Compare cada restricción con los daños y los riesgos que aborda. Exija una justificación más fuerte, una revisión más cercana y un análisis de [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) cuando el [Daño irreversible](core_05_band_accountability.md#irreversible-harm) o el [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in) sea razonablemente posible. Busque tanto la sobregobernanza como la subgobernanza, incluida demasiada poca gobernanza de actores con mayor poder autorizado o roles institucionales de consecuencia.
+    **Evaluación primaria:** Compare cada restricción con los daños y los riesgos que aborda. Exija una justificación más fuerte, una revisión más cercana y un análisis de [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) cuando el [Daño irreversible](core_05_band_accountability.md#daño-irreversible) o el [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico) sea razonablemente posible. Busque tanto la sobregobernanza como la subgobernanza, incluida demasiada poca gobernanza de actores con mayor poder autorizado o roles institucionales de consecuencia.
 <a id="proportionality-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Las limitaciones desproporcionadas son incumplidoras. También lo es la gobernanza más débil de lo que exige la clasificación aplicable cuando los efectos externalizados o de sistema entero son materiales. Una etiqueta de proporcionalidad que no cambia la limitación o la gobernanza reales en el asunto que gobierna esta Constitución también es incumplidora. El cargo, la pericia escasa, las necesidades de plantilla o la autoprotección institucional no pueden justificar debilitar la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) o la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) constitucionales respecto de la autoridad ejercida.
@@ -218,12 +218,12 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Ámbito:** donde se cumpla la invocación conjunta, el hogar de Rendición de cuentas para las formas de liquidación contingente y la capa de integridad que gobierna las ventajas injustas en esas estructuras.
 
 **Miembros del grupo de temas.** Este grupo comprende:
-- [Pretensión contingente](core_05_band_accountability.md#contingent-claim) — el género: un derecho a un pago que depende de un evento futuro incierto fuera de la pretensión misma.
-- [Mercado de contratos de evento](core_05_band_accountability.md#event-contract-market) — un tipo de Pretensión contingente: recintos de liquidación por evento externo.
-- [Juego de azar](core_05_band_accountability.md#game-of-chance) — un tipo de Pretensión contingente: pagos basados en el azar.
-- [Ventaja de insiders](core_05_band_accountability.md#insider-advantage) — la capa de integridad para ventajas no públicas o basadas en el rol en el apostar, el comercio, la liquidación o la influencia sobre esas estructuras.
+- [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente) — el género: un derecho a un pago que depende de un evento futuro incierto fuera de la pretensión misma.
+- [Mercado de contratos de evento](core_05_band_accountability.md#mercado-de-contratos-de-evento) — un tipo de Pretensión contingente: recintos de liquidación por evento externo.
+- [Juego de azar](core_05_band_accountability.md#juego-de-azar) — un tipo de Pretensión contingente: pagos basados en el azar.
+- [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders) — la capa de integridad para ventajas no públicas o basadas en el rol en el apostar, el comercio, la liquidación o la influencia sobre esas estructuras.
 
-*Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Rendición de cuentas y la familia de medición Actuación a tiempo. Encuentre las medidas concretas en [Pretensión contingente](core_05_band_accountability.md#contingent-claim), [Mercado de contratos de evento](core_05_band_accountability.md#event-contract-market), [Juego de azar](core_05_band_accountability.md#game-of-chance) y [Ventaja de insiders](core_05_band_accountability.md#insider-advantage) abajo.
+*Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Rendición de cuentas y la familia de medición Actuación a tiempo. Encuentre las medidas concretas en [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente), [Mercado de contratos de evento](core_05_band_accountability.md#mercado-de-contratos-de-evento), [Juego de azar](core_05_band_accountability.md#juego-de-azar) y [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders) abajo.
 
 ---
 
@@ -236,7 +236,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Principios: [§11.5 Pretensiones contingentes, juegos de azar y mercados de contratos de evento](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
 - Componente de agrupación: [Pretensión contingente, mercado de contratos de evento, juego de azar y ventaja de insiders](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)
-- Leer con: [Juego de azar](core_05_band_accountability.md#game-of-chance), [Mercado de contratos de evento](core_05_band_accountability.md#event-contract-market), [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways), [Ventaja de insiders](core_05_band_accountability.md#insider-advantage), [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment), [Riesgo](core_05_band_continuity.md#risk), [Dependencia](core_05_band_continuity.md#dependency) y [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional).
+- Leer con: [Juego de azar](core_05_band_accountability.md#juego-de-azar), [Mercado de contratos de evento](core_05_band_accountability.md#mercado-de-contratos-de-evento), [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución), [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders), [Alineación de incentivos](core_05_band_integrative.md#alineación-de-incentivos), [Riesgo](core_05_band_continuity.md#riesgo), [Dependencia](core_05_band_continuity.md#dependencia) y [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional).
 
 </details>
 
@@ -245,16 +245,16 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: un pago que depende de si algún evento futuro incierto ocurre, no ocurre o se resuelve en un resultado medido — como una apuesta, una participación de predicción o un pago de estilo seguro. El evento tiene que estar fuera de la pretensión misma.*
 
 - **Qué es**
-  - **En alcance:** Un derecho a un pago que depende de un evento futuro incierto fuera de la pretensión misma — si el evento ocurre, no ocurre o se resuelve en un resultado medido. Esto cubre apuestas especulativas y estructuras de tipo seguro. El [Juego de azar](core_05_band_accountability.md#game-of-chance) y el [Mercado de contratos de evento](core_05_band_accountability.md#event-contract-market) son tipos de Pretensión contingente.
+  - **En alcance:** Un derecho a un pago que depende de un evento futuro incierto fuera de la pretensión misma — si el evento ocurre, no ocurre o se resuelve en un resultado medido. Esto cubre apuestas especulativas y estructuras de tipo seguro. El [Juego de azar](core_05_band_accountability.md#juego-de-azar) y el [Mercado de contratos de evento](core_05_band_accountability.md#mercado-de-contratos-de-evento) son tipos de Pretensión contingente.
   - **Fuera de alcance:** la venta a precio fijo, el salario ordinario u otro pago sin un evento externo incierto que liquide el pago.
 <a id="contingent-claim-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Identifique el evento que liquida el pago, quién o qué decide ese resultado (la fuente de resolución del resultado bajo el [Capítulo Uno §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)) y cuánta [Dependencia](core_05_band_continuity.md#dependency) y concentración crea la estructura. Donde muchas de esas pretensiones juntas pudieran torcer decisiones fiduciarias, públicas o pertinentes a derechos, aplique también la [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment), la [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), la [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways), la [Ventaja de insiders](core_05_band_accountability.md#insider-advantage) y la [Captura del sistema](core_05_band_continuity.md#system-capture).
+    **Evaluación primaria:** Identifique el evento que liquida el pago, quién o qué decide ese resultado (la fuente de resolución del resultado bajo el [Capítulo Uno §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets)) y cuánta [Dependencia](core_05_band_continuity.md#dependencia) y concentración crea la estructura. Donde muchas de esas pretensiones juntas pudieran torcer decisiones fiduciarias, públicas o pertinentes a derechos, aplique también la [Alineación de incentivos](core_05_band_integrative.md#alineación-de-incentivos), la [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), la [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución), la [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders) y la [Captura del sistema](core_05_band_continuity.md#captura-del-sistema).
 <a id="contingent-claim-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Las estructuras que pagan de forma fiable por [Daño](core_05_band_accountability.md#harm) ilícito, por torcer decisiones pertinentes a derechos o por [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways) — sin salvaguardas proporcionadas — son incumplidoras. Una etiqueta o papeleo de pretensión contingente cuando la estructura no funciona de hecho de ese modo para el asunto que gobierna esta Constitución también es incumplidor.
+  - **Falla primaria:** Las estructuras que pagan de forma fiable por [Daño](core_05_band_accountability.md#daño) ilícito, por torcer decisiones pertinentes a derechos o por [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución) — sin salvaguardas proporcionadas — son incumplidoras. Una etiqueta o papeleo de pretensión contingente cuando la estructura no funciona de hecho de ese modo para el asunto que gobierna esta Constitución también es incumplidor.
 
 ---
 
@@ -267,7 +267,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Principios: [§11.5 Pretensiones contingentes, juegos de azar y mercados de contratos de evento](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
 - Componente de agrupación: [Pretensión contingente, mercado de contratos de evento, juego de azar y ventaja de insiders](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)
-- Leer con: [Pretensión contingente](core_05_band_accountability.md#contingent-claim), [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways), [Ventaja de insiders](core_05_band_accountability.md#insider-advantage), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment) e [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity).
+- Leer con: [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente), [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución), [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders), [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional), [Alineación de incentivos](core_05_band_integrative.md#alineación-de-incentivos) e [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica).
 
 </details>
 
@@ -276,7 +276,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: un mercado o un fondo donde los sencientes apuestan, comercian o cobran según cómo resulta un evento futuro externo — mercados de predicción, sistemas de liquidación por evento, fondos de seguro y arreglos similares.*
 
 - **Qué es**
-  - **En alcance:** Un recinto de [Pretensión contingente](core_05_band_accountability.md#contingent-claim) que empareja contrapartes, fija precios o paga según cómo se resuelve un evento externo. Incluye:
+  - **En alcance:** Un recinto de [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente) que empareja contrapartes, fija precios o paga según cómo se resuelve un evento externo. Incluye:
     - mercados de evento de estilo predicción;
     - sistemas de liquidación por evento;
     - fondos de seguro;
@@ -290,13 +290,13 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     **Evaluación primaria:** Compruebe:
     - que quien decide el resultado (la fuente de resolución del resultado) es independiente;
     - que se usa más de una fuente donde sea viable;
-    - las vías de información privilegiada, la [Ventaja de insiders](core_05_band_accountability.md#insider-advantage) y el riesgo de coordinación; y
-    - la [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways) bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - las vías de información privilegiada, la [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders) y el riesgo de coordinación; y
+    - la [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución) bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas).
 
-    No trate los precios de liquidación o las cuotas como [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) autorizada — bajo el [Capítulo Uno §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), los precios o las cuotas solos no son evidencia suficiente para decisiones de derechos, seguridad o gobernanza.
+    No trate los precios de liquidación o las cuotas como [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional) autorizada — bajo el [Capítulo Uno §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), los precios o las cuotas solos no son evidencia suficiente para decisiones de derechos, seguridad o gobernanza.
 <a id="event-contract-market-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Los mercados construidos para torcer decisiones fiduciarias, públicas o pertinentes a derechos — o que permiten [Ventaja de insiders](core_05_band_accountability.md#insider-advantage) sin salvaguardas proporcionadas — son incumplidores. Una etiqueta o papeleo de mercado de contratos de evento cuando el recinto no funciona de hecho de ese modo para el asunto que gobierna esta Constitución también es incumplidor.
+  - **Falla primaria:** Los mercados construidos para torcer decisiones fiduciarias, públicas o pertinentes a derechos — o que permiten [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders) sin salvaguardas proporcionadas — son incumplidores. Una etiqueta o papeleo de mercado de contratos de evento cuando el recinto no funciona de hecho de ese modo para el asunto que gobierna esta Constitución también es incumplidor.
 
 ---
 
@@ -309,7 +309,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Principios: [§11.5 Pretensiones contingentes, juegos de azar y mercados de contratos de evento](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
 - Componente de agrupación: [Pretensión contingente, mercado de contratos de evento, juego de azar y ventaja de insiders](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)
-- Leer con: [Pretensión contingente](core_05_band_accountability.md#contingent-claim), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment), [Dependencia](core_05_band_continuity.md#dependency), [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways) y [Ventaja de insiders](core_05_band_accountability.md#insider-advantage).
+- Leer con: [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Alineación de incentivos](core_05_band_integrative.md#alineación-de-incentivos), [Dependencia](core_05_band_continuity.md#dependencia), [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución) y [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders).
 
 </details>
 
@@ -318,16 +318,16 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: una apuesta o un pago decidido principalmente por el azar aleatorio — como un sorteo u otro proceso aleatorio — más que por cómo resulta un evento externo del mundo real.*
 
 - **Qué es**
-  - **En alcance:** Una [Pretensión contingente](core_05_band_accountability.md#contingent-claim) decidida principalmente por aleatorización, sorteos mecánicos u otro proceso basado en el azar. A diferencia de un contrato de evento, no está atada a un evento externo del mundo real cuyo resultado tenga importancia propia para el conocimiento o los derechos.
+  - **En alcance:** Una [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente) decidida principalmente por aleatorización, sorteos mecánicos u otro proceso basado en el azar. A diferencia de un contrato de evento, no está atada a un evento externo del mundo real cuyo resultado tenga importancia propia para el conocimiento o los derechos.
   - **Fuera de alcance:** el concurso de habilidad, la venta a precio fijo o la pretensión liquidada por evento cuyo pago gira en un evento externo del mundo real más que en la aleatorización.
 <a id="game-of-chance-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Compruebe si el proceso aleatorio es honesto, si la fuente que decide el resultado es independiente, si las apuestas están concentradas, si el diseño explota la vulnerabilidad y si crea [Dependencia](core_05_band_continuity.md#dependency). Los diseños adictivos o los que apuntan a sencientes vulnerables disparan la revisión de [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    **Evaluación primaria:** Compruebe si el proceso aleatorio es honesto, si la fuente que decide el resultado es independiente, si las apuestas están concentradas, si el diseño explota la vulnerabilidad y si crea [Dependencia](core_05_band_continuity.md#dependencia). Los diseños adictivos o los que apuntan a sencientes vulnerables disparan la revisión de [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas).
 <a id="game-of-chance-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Un diseño es incumplidor si explota la vulnerabilidad, falsifica la aleatoriedad o produce [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways). Una etiqueta o papeleo de juego de azar cuando la estructura no funciona de hecho de ese modo para el asunto que gobierna esta Constitución también es incumplidor.
+  - **Falla primaria:** Un diseño es incumplidor si explota la vulnerabilidad, falsifica la aleatoriedad o produce [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución). Una etiqueta o papeleo de juego de azar cuando la estructura no funciona de hecho de ese modo para el asunto que gobierna esta Constitución también es incumplidor.
 
 ---
 
@@ -340,7 +340,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Principios: [§11.5 Pretensiones contingentes, juegos de azar y mercados de contratos de evento](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
 - Componente de agrupación: [Pretensión contingente, mercado de contratos de evento, juego de azar y ventaja de insiders](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent)
-- Leer con: [Pretensión contingente](core_05_band_accountability.md#contingent-claim), [Mercado de contratos de evento](core_05_band_accountability.md#event-contract-market), [Juego de azar](core_05_band_accountability.md#game-of-chance), [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways), [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity), [Impugnabilidad](core_05_band_accountability.md#contestability), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) y [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional).
+- Leer con: [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente), [Mercado de contratos de evento](core_05_band_accountability.md#mercado-de-contratos-de-evento), [Juego de azar](core_05_band_accountability.md#juego-de-azar), [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución), [Alineación de incentivos](core_05_band_integrative.md#alineación-de-incentivos), [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional), [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) y [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional).
 
 </details>
 
@@ -349,7 +349,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: una ventaja injusta en el apostar, el comercio, la liquidación u otro resultado pertinente a derechos que viene de información secreta, un rol oficial, acceso privilegiado o un poder similar que otros no tienen en términos justos.*
 
 - **Qué es**
-  - **En alcance:** Una ventaja significativa al apostar, comerciar, liquidar o influir una [Pretensión contingente](core_05_band_accountability.md#contingent-claim) o un resultado similar pertinente a derechos. La ventaja viene de información no pública, un rol oficial o fiduciario, acceso privilegiado a quien decide el resultado, o un poder similar no disponible para las demás partes en términos proporcionados. Incluye ventajas ocultas a través de intermediarios o contratos disfrazados.
+  - **En alcance:** Una ventaja significativa al apostar, comerciar, liquidar o influir una [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente) o un resultado similar pertinente a derechos. La ventaja viene de información no pública, un rol oficial o fiduciario, acceso privilegiado a quien decide el resultado, o un poder similar no disponible para las demás partes en términos proporcionados. Incluye ventajas ocultas a través de intermediarios o contratos disfrazados.
   - **Fuera de alcance:** la habilidad ordinaria con información pública, la ventaja de investigación divulgada o el juicio de mercado disponible en términos proporcionados.
 <a id="insider-advantage-a"></a>
 - **Cómo medir y evaluar**
@@ -361,10 +361,10 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - el apalancamiento de tiempo, como la presión cronometrada o la divulgación selectiva; y
     - la cercanía a la fuente que decide el resultado.
 
-    Compruebe si la divulgación, los períodos de enfriamiento, las restricciones de comercio, los procedimientos a ciegas o la resolución por múltiples fuentes reducen la ventaja. Separe la habilidad lícita y la información pública de una ventaja basada en poder no público. Leer con [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways), la disciplina de evaluación de [Mercado de contratos de evento](core_05_band_accountability.md#event-contract-market), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) e [Impugnabilidad](core_05_band_accountability.md#contestability) bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    Compruebe si la divulgación, los períodos de enfriamiento, las restricciones de comercio, los procedimientos a ciegas o la resolución por múltiples fuentes reducen la ventaja. Separe la habilidad lícita y la información pública de una ventaja basada en poder no público. Leer con [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución), la disciplina de evaluación de [Mercado de contratos de evento](core_05_band_accountability.md#mercado-de-contratos-de-evento), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional), [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas).
 <a id="insider-advantage-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Una estructura es incumplidora si permite [Ventaja de insiders](core_05_band_accountability.md#insider-advantage) basada en poder no público sin salvaguardas proporcionadas. Una etiqueta o papeleo de ventaja de insiders cuando ninguna ventaja de ese tipo afecta de hecho el asunto que gobierna esta Constitución también es incumplidor.
+  - **Falla primaria:** Una estructura es incumplidora si permite [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders) basada en poder no público sin salvaguardas proporcionadas. Una etiqueta o papeleo de ventaja de insiders cuando ninguna ventaja de ese tipo afecta de hecho el asunto que gobierna esta Constitución también es incumplidor.
 
 ---
 
@@ -380,24 +380,24 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 **Miembros del grupo de temas.** Este grupo comprende:
 - [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) — atribución de responsabilidad.
-- [Impugnabilidad](core_05_band_accountability.md#contestability) — capacidad de impugnar y buscar remedio.
+- [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) — capacidad de impugnar y buscar remedio.
 - [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) — vías formales para resolver disputas.
 - [Debido Proceso](core_05_band_accountability.md#due-process-constitutional) — proceso justo y revisable para decisiones y resultados que afectan derechos de forma material.
 - [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutional) — capacidad de respuesta en la capa de principios a lo largo del ciclo de vida de coordinación.
 - [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) — resolución dentro de ventanas escaladas por materialidad.
-- [Determinación de fondo](core_05_band_accountability.md#merits-determination) — disposiciones sustantivas vinculantes en esas vías.
-- [Suspensión](core_05_band_accountability.md#stay) — órdenes temporales de pausa o de límite de confianza pendientes de revisión ulterior.
+- [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo) — disposiciones sustantivas vinculantes en esas vías.
+- [Suspensión](core_05_band_accountability.md#suspensión) — órdenes temporales de pausa o de límite de confianza pendientes de revisión ulterior.
 - [Acción atribuible](core_05_band_accountability.md#attributable-action-constitutional) — acción materialmente pertinente trazable a actores responsables identificables.
 - [Integridad de atribución](core_05_band_accountability.md#attribution-integrity-constitutional) — cadenas de atribución resistentes a ocultar, a la ambigüedad, a la manipulación y a la repudiación.
-- [Negligencia](core_05_band_accountability.md#negligence) — fallas de cuidado razonablemente evitables que producen daño material.
-- [Falla colectiva de rendición de cuentas](core_05_band_accountability.md#collective-accountability-failure) — fallas de cuidado bajo responsabilidad difundida o colectiva.
+- [Negligencia](core_05_band_accountability.md#negligencia) — fallas de cuidado razonablemente evitables que producen daño material.
+- [Falla colectiva de rendición de cuentas](core_05_band_accountability.md#falla-colectiva-de-rendición-de-cuentas) — fallas de cuidado bajo responsabilidad difundida o colectiva.
 - [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) — reconocimiento y corrección proporcionada.
-- [Sistema de remedio](core_05_band_accountability.md#remedy-system-constitutional) — la capacidad duradera que hace que esas vías funcionen.
-- [Justicia restaurativa](core_05_band_accountability.md#restorative-justice) — prioridad restaurativa donde se exija.
+- [Sistema de remedio](core_05_band_accountability.md#sistema-de-remedio) — la capacidad duradera que hace que esas vías funcionen.
+- [Justicia restaurativa](core_05_band_accountability.md#justicia-restaurativa) — prioridad restaurativa donde se exija.
 - [Fuerza mayor](core_05_band_accountability.md#force-majeure-constitutional) — disrupciones externas excepcionales.
-- [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways) — protección contra la captura de los mecanismos de determinación de resultado.
+- [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución) — protección contra la captura de los mecanismos de determinación de resultado.
 
-*Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Rendición de cuentas y la familia de medición Actuación a tiempo. Encuentre las medidas concretas en [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Acción atribuible](core_05_band_accountability.md#attributable-action-constitutional), [Integridad de atribución](core_05_band_accountability.md#attribution-integrity-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Debido Proceso](core_05_band_accountability.md#due-process-constitutional), [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Negligencia](core_05_band_accountability.md#negligence), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Sistema de remedio](core_05_band_accountability.md#remedy-system-constitutional), [Justicia restaurativa](core_05_band_accountability.md#restorative-justice) y [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways) abajo.
+*Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Rendición de cuentas y la familia de medición Actuación a tiempo. Encuentre las medidas concretas en [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Acción atribuible](core_05_band_accountability.md#attributable-action-constitutional), [Integridad de atribución](core_05_band_accountability.md#attribution-integrity-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Debido Proceso](core_05_band_accountability.md#due-process-constitutional), [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Negligencia](core_05_band_accountability.md#negligencia), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Sistema de remedio](core_05_band_accountability.md#sistema-de-remedio), [Justicia restaurativa](core_05_band_accountability.md#justicia-restaurativa) y [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución) abajo.
 
 ---
 
@@ -409,8 +409,8 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Uno §10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Uno §11.6 Responsabilidad de sucesores y no elusión por estructura formal](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Capítulo Siete §3.4](../../core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) y [Capítulo Siete Parte B §6](../../core_09_b_system_alignment_certification_record_process.md#6-system-certification-record) donde la capacidad de atribución se exija de forma material.
-- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Integridad de atribución](core_05_band_accountability.md#attribution-integrity-constitutional), [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Debido Proceso](core_05_band_accountability.md#due-process-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Destino: Principios: [Capítulo Uno §10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Uno §11.6 Responsabilidad de sucesores y no elusión por estructura formal](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Capítulo Siete §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) y [Capítulo Siete Parte B §6](../../core_09.010_system_alignment_certification_record_process.md#6-system-certification-record) donde la capacidad de atribución se exija de forma material.
+- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Integridad de atribución](core_05_band_accountability.md#attribution-integrity-constitutional), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Debido Proceso](core_05_band_accountability.md#due-process-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 - Leer con: [CS-4 §10 acción atribuible inspeccionable](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*contrato de registro predeterminado para acción mixta humana/IA; no un sustituto de registro de trayectoria*).
 
 </details>
@@ -427,7 +427,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) — pregunta si las acciones materialmente significativas pueden trazarse a actores responsables identificables con fuerza suficiente para que la exigibilidad de respuesta sea real en la práctica.
 
     **Evaluación primaria:** Compruebe si la atribución sobrevive a la delegación, las arquitecturas en capas, la operación por proxy, las cadenas de proveedores y los flujos de trabajo separados en el tiempo; si el registro identifica quién actuó, bajo qué autoridad y con qué efecto materialmente pertinente; y si el rastro es usable para revisión, impugnación y remedio más que existir meramente en el papel.
-  - **Medida secundaria:** [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Transparencia](core_05_band_oversight.md#transparency) e [Integridad de atribución](core_05_band_accountability.md#attribution-integrity-constitutional) — co-medidas que pueden derrotar la acción atribuible aun cuando exista un registro nominal o un campo de identidad.
+  - **Medida secundaria:** [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Transparencia](core_05_band_oversight.md#transparencia) e [Integridad de atribución](core_05_band_accountability.md#attribution-integrity-constitutional) — co-medidas que pueden derrotar la acción atribuible aun cuando exista un registro nominal o un campo de identidad.
 
     **Evaluación secundaria:** Al evaluar el rastro primario, evalúe si los registros faltantes, la opacidad delegada, la ambigüedad retenida o los registros inaccesibles hacen la acción efectivamente inatribuible en la práctica.
 <a id="attributable-action-constitutional-c"></a>
@@ -445,8 +445,8 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Uno §10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Siete §3.4](../../core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation); [Capítulo Siete Parte B §6](../../core_09_b_system_alignment_certification_record_process.md#6-system-certification-record); y **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo** donde la acción atribuible o la responsabilidad a nivel de auditoría esté implicada de forma material.
-- Leer con: [Acción atribuible](core_05_band_accountability.md#attributable-action-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditability), [Transparencia](core_05_band_oversight.md#transparency), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint).
+- Destino: Principios: [Capítulo Uno §10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Siete §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation); [Capítulo Siete Parte B §6](../../core_09.010_system_alignment_certification_record_process.md#6-system-certification-record); y **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo** donde la acción atribuible o la responsabilidad a nivel de auditoría esté implicada de forma material.
+- Leer con: [Acción atribuible](core_05_band_accountability.md#attributable-action-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Transparencia](core_05_band_oversight.md#transparencia), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) y [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional).
 - Leer con: [CS-4 §10 acción atribuible inspeccionable](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*contrato de registro predeterminado para acción mixta humana/IA; los internos no son una exención de medición de trayectoria*).
 
 </details>
@@ -463,7 +463,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Supervisión](core_05_apex_oversight_leg.md#oversight-measurement-family) — usadas juntas para comprobar si la cadena de atribución sigue siendo exigiblemente responsable y revisable en la práctica.
 
     **Evaluación primaria:** Evalúe si la responsabilidad puede ocultarse por fragmentación de roles, pases de mano, actores proxy, anulaciones no documentadas, titularidad en capas o registros inaccesibles; si la cadena puede auditarse sin depender solo de pretensiones autointeresadas del operador; y si la manipulación, la repudiación o la ambigüedad retenida derrotarían una atribución fiable.
-  - **Medida secundaria:** [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence), [Auditabilidad](core_05_band_oversight.md#auditability) e [Impugnabilidad](core_05_band_accountability.md#contestability) — co-medidas que exponen la atribución simbólica que no funciona bajo revisión.
+  - **Medida secundaria:** [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy), [Auditabilidad](core_05_band_oversight.md#auditabilidad) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) — co-medidas que exponen la atribución simbólica que no funciona bajo revisión.
 
     **Evaluación secundaria:** Cuando los operadores se apoyan en campos de identidad nominales, registros nominales o etiquetas contractuales de rol, distinga la integridad de atribución real de la trazabilidad solo en el papel.
 <a id="attribution-integrity-constitutional-c"></a>
@@ -481,7 +481,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) (pata de participación); [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) (leer-con de revisión, escalamiento y proporcionalidad de emergencia); [4. Restricciones de principio no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (donde la impugnabilidad operacionaliza la Verdad / la Seguridad).
-- Leer con: la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditability), [Transparencia](core_05_band_oversight.md#transparency) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Leer con: la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Transparencia](core_05_band_oversight.md#transparencia) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -496,18 +496,18 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) — comprueba si las partes afectadas tienen un modo práctico de impugnar un sistema o una decisión, obtener revisión y buscar corrección.
 
-    **Evaluación primaria:** Compruebe que los mecanismos de impugnación funcionan, son accesibles, pueden [auditarse](core_05_band_oversight.md#auditability) y son [fiables](core_05_band_continuity.md#trustworthiness).
-  - **Medida secundaria:** [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditability), [Transparencia](core_05_band_oversight.md#transparency) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) — co-medidas que pueden derrotar la impugnabilidad aun cuando existan menús formales de impugnación.
+    **Evaluación primaria:** Compruebe que los mecanismos de impugnación funcionan, son accesibles, pueden [auditarse](core_05_band_oversight.md#auditabilidad) y son [fiables](core_05_band_continuity.md#fiabilidad).
+  - **Medida secundaria:** [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Transparencia](core_05_band_oversight.md#transparencia) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) — co-medidas que pueden derrotar la impugnabilidad aun cuando existan menús formales de impugnación.
 
     **Evaluación secundaria:** Al evaluar el rastro primario, compruebe si las fallas de [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) o de [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) dejan hueca la impugnación en la práctica.
-  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — donde las métricas nominales de acceso, utilización o terminación sustituyen la revisión y la corrección funcionales.
+  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — donde las métricas nominales de acceso, utilización o terminación sustituyen la revisión y la corrección funcionales.
 
-    **Evaluación terciaria:** Cuando los operadores se apoyan en recuentos de impugnación o de revisión, aplique [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence). Separe la Impugnabilidad duradera de la participación simbólica.
+    **Evaluación terciaria:** Cuando los operadores se apoyan en recuentos de impugnación o de revisión, aplique [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy). Separe la Impugnabilidad duradera de la participación simbólica.
 <a id="contestability-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** El sistema carece de modos que funcionen para impugnar, revisar y corregir decisiones lo bastante fuertes para sostener la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) y la [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional). Una opción de impugnación o de revisión que existe solo como etiqueta o papeleo y no tiene efecto real en la situación que se evalúa también es incumplidora.
-  - **Falla secundaria:** Las vías de impugnación existen en el papel, pero la [Dependencia](core_05_band_continuity.md#dependency), la captura o la interferencia de acceso las hacen inutilizables.
-  - **Falla terciaria:** El sistema trata un proceso de impugnación como suficiente meramente porque existe en el papel, aun cuando sea razonablemente claro que el proceso no funciona en la práctica ([Divergencia de proxy](core_05_band_oversight.md#proxy-divergence)).
+  - **Falla secundaria:** Las vías de impugnación existen en el papel, pero la [Dependencia](core_05_band_continuity.md#dependencia), la captura o la interferencia de acceso las hacen inutilizables.
+  - **Falla terciaria:** El sistema trata un proceso de impugnación como suficiente meramente porque existe en el papel, aun cuando sea razonablemente claro que el proceso no funciona en la práctica ([Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy)).
 
 ---
 
@@ -521,7 +521,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Principios: [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution); [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (procedimiento de colisión y vías de revisión).
 - Componente de agrupación: [la agrupación dependiente *Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor*](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster) donde la atribución, el enrutamiento de impugnación, la mecánica de adjudicación, la difusión, la falla colectiva o el alivio de fuerza mayor estén implicados de forma material.
-- Leer con: [Rendición de cuentas, impugnabilidad y vías de reparación](core_05_band_accountability.md#accountability-contestability-semi-independent) donde la remediación, la postura restaurativa, la capacidad del sistema de remedio o la corrección ligada a la negligencia estén implicadas de forma material; la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Impugnabilidad](core_05_band_accountability.md#contestability), [Debido Proceso](core_05_band_accountability.md#due-process-constitutional), [Determinación de fondo](core_05_band_accountability.md#merits-determination), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Leer con: [Rendición de cuentas, impugnabilidad y vías de reparación](core_05_band_accountability.md#accountability-contestability-semi-independent) donde la remediación, la postura restaurativa, la capacidad del sistema de remedio o la corrección ligada a la negligencia estén implicadas de forma material; la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Debido Proceso](core_05_band_accountability.md#due-process-constitutional), [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 - Leer con: capas de titular en [core_11_forum.md](core_11_forum.md), [corpus_institutions.md](../../corpus_institutions.md) y [corpus_forum.md](../../corpus_forum.md).
 
 </details>
@@ -536,7 +536,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - proporcionar remedios proporcionados a los hallazgos bajo [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
   - **Adjudicador:** <a id="adjudicator"></a> Un `adjudicator` es un senciente, miembro de panel, oficial de adjudicación o tomador de decisión autorizado equivalente con autoridad lícita para:
     - decidir pretensiones controvertidas;
-    - emitir [Determinaciones de fondo](core_05_band_accountability.md#merits-determination);
+    - emitir [Determinaciones de fondo](core_05_band_accountability.md#determinación-de-fondo);
     - conceder o denegar alivio; o
     - tomar decisiones procesales vinculantes en un asunto adjudicativo.
 
@@ -547,7 +547,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas juntas para evaluar si las vías de resolución de disputas son exigiblemente responsables y oportunas.
 
     **Evaluación primaria:**
-    - Aplique el [Debido Proceso](core_05_band_accountability.md#due-process-constitutional), la [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), la [Impugnabilidad](core_05_band_accountability.md#contestability), la [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), la [Determinación de fondo](core_05_band_accountability.md#merits-determination), la [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y la resistencia a la [Captura del sistema](core_05_band_continuity.md#system-capture).
+    - Aplique el [Debido Proceso](core_05_band_accountability.md#due-process-constitutional), la [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), la [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), la [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo), la [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y la resistencia a la [Captura del sistema](core_05_band_continuity.md#captura-del-sistema).
     - Los requisitos de acceso, revisión, restauración y resolución oportuna se gobiernan aquí, en el [Debido Proceso](core_05_band_accountability.md#due-process-constitutional), la [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), el **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) y el **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*).
     - Los textos designados de gobernanza, institucionales y de foro incorporados pueden fijar procedimientos de capa de titular, pero no deben estrechar esta definición.
 <a id="adjudication-and-dispute-resolution-constitutional-c"></a>
@@ -571,9 +571,9 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) y [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), donde el proceso, las razones y la revisión preservan la integridad de la colisión de derechos.
-- Piso de titular: [Artículo XII: Participación Sistémica de las Partes Afectadas, representación y Debido Proceso](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), especialmente el **Artículo XII** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*)-D (*Roles internos, rendición de cuentas y requisitos de Debido Proceso*).
+- Piso de titular: [Artículo XII: Participación Sistémica de las Partes Afectadas, representación y Debido Proceso](../../core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), especialmente el **Artículo XII** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*)-D (*Roles internos, rendición de cuentas y requisitos de Debido Proceso*).
 - Componente de agrupación: [la agrupación dependiente *Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor*](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster).
-- Leer con: [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Determinación de fondo](core_05_band_accountability.md#merits-determination), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Leer con: [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -588,7 +588,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas juntas para evaluar si las decisiones que afectan derechos siguen un proceso justo y evitan la demora dañina.
 
-    **Evaluación primaria:** Leer con [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) y [Determinación de fondo](core_05_band_accountability.md#merits-determination). Juzgue si el proceso funciona, no si meramente tiene la forma correcta. Lo siguiente no es Debido Proceso:
+    **Evaluación primaria:** Leer con [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) y [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo). Juzgue si el proceso funciona, no si meramente tiene la forma correcta. Lo siguiente no es Debido Proceso:
     - la consulta simbólica;
     - los registros inaccesibles; o
     - la demora que derrota la revisión.
@@ -617,9 +617,9 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutional) (*implementa la pata de actuación a tiempo para las vías de resolución*).
-- Destino: Familia de medición Actuación a tiempo (*Resolución oportuna como medición constitucional*); **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*) ([core_06_rights_part_d.md](../../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)); [Capítulo Once §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*niveles de materialidad e hitos de cadena*); **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*); [Capítulo Nueve §9.2](../../core_11_standing_integration.md#92-remedy-system-durability) (*durabilidad del órgano de remedio*); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*recepción y enrutamiento de foro*).
+- Destino: Familia de medición Actuación a tiempo (*Resolución oportuna como medición constitucional*); **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*) ([core_06_rights_part_d.md](../../core_06.020_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)); [Capítulo Once §6](core_11_forum.md#6-resolución-oportuna-niveles-de-materialidad-y-disciplina-contra-la-demora) (*niveles de materialidad e hitos de cadena*); **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*); [Capítulo Nueve §9.2](../../core_11.000_standing_integration.md#92-remedy-system-durability) (*durabilidad del órgano de remedio*); [Capítulo Once](core_11_forum.md#capítulo-once-foros-y-jurisdicción) (*recepción y enrutamiento de foro*).
 - Componente de agrupación: [la agrupación dependiente *Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor*](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster).
-- Leer con: [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency), [Carga evitable](core_05_band_continuity.md#avoidable-burden), [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- Leer con: [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Eficiencia constitucional](core_05_band_continuity.md#eficiencia-constitucional), [Carga evitable](core_05_band_continuity.md#carga-evitable), [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -634,13 +634,13 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — comprueba si un asunto se mueve hacia la resolución y se decide dentro del tiempo que su importancia y urgencia exigen.
 
-    **Evaluación primaria:** Aplique los niveles de materialidad y los hitos de etapa de cadena en el [Capítulo Once §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) bajo el **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*). Mida el acceso y la verificación oportunos, no solo el número de asuntos procesados.
-  - **Medida secundaria:** [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways) e [Impugnabilidad](core_05_band_accountability.md#contestability) — co-medidas que pueden derrotar la resolución oportuna aun cuando las métricas de cadena parezcan en curso.
+    **Evaluación primaria:** Aplique los niveles de materialidad y los hitos de etapa de cadena en el [Capítulo Once §6](core_11_forum.md#6-resolución-oportuna-niveles-de-materialidad-y-disciplina-contra-la-demora) bajo el **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*). Mida el acceso y la verificación oportunos, no solo el número de asuntos procesados.
+  - **Medida secundaria:** [Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) — co-medidas que pueden derrotar la resolución oportuna aun cuando las métricas de cadena parezcan en curso.
 
-    **Evaluación secundaria:** Al evaluar el rastro primario, leer con [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways), [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency), [Carga evitable](core_05_band_continuity.md#avoidable-burden) y [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional). La velocidad no disculpa omitir hechos comprobados bajo los [Capítulos Dos a Cuatro](core_02_definition_structure.md), los requisitos conjuntos del **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*), ni los derechos centrales de impugnación y apelación.
-  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — donde las métricas de caudal, hitos o plazos sustituyen el remedio mientras el daño persiste.
+    **Evaluación secundaria:** Al evaluar el rastro primario, leer con [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Captura de vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución), [Eficiencia constitucional](core_05_band_continuity.md#eficiencia-constitucional), [Carga evitable](core_05_band_continuity.md#carga-evitable) y [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional). La velocidad no disculpa omitir hechos comprobados bajo los [Capítulos Dos a Cuatro](core_02_definition_structure.md), los requisitos conjuntos del **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*), ni los derechos centrales de impugnación y apelación.
+  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — donde las métricas de caudal, hitos o plazos sustituyen el remedio mientras el daño persiste.
 
-    **Evaluación terciaria:** Cuando los operadores se apoyan en el caudal o en hitos completados, aplique [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence). Separe la Resolución oportuna duradera de la velocidad que no produce remedio real.
+    **Evaluación terciaria:** Cuando los operadores se apoyan en el caudal o en hitos completados, aplique [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy). Separe la Resolución oportuna duradera de la velocidad que no produce remedio real.
 <a id="timely-resolution-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
@@ -651,7 +651,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
     Una etiqueta o un plazo de resolución oportuna que no tiene efecto real en la situación que se evalúa también es incumplidor.
   - **Falla secundaria:** Elección de foro o fragmentación de registros para prolongar la resolución; o pretensiones de eficiencia usadas para omitir la verificación, la atribución individual o los derechos de apelación.
-  - **Falla terciaria:** Tratar una meta o un plazo de cadena cumplidos como decisivos cuando la [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) es razonablemente observable, o diferir la reparación después de aviso cuando la corrección era viable.
+  - **Falla terciaria:** Tratar una meta o un plazo de cadena cumplidos como decisivos cuando la [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) es razonablemente observable, o diferir la reparación después de aviso cuando la corrección era viable.
 
 ---
 
@@ -662,8 +662,8 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*enrutamiento de enjuego primario y paneles de fondo lícitamente constituidos*); **CJS-1.9** (*Límite entre roles de apoyo y decisiones de fondo*).
-- Leer con: [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), la [escala unificada del Capítulo Ocho §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*asignación numérica de casilla del Eje de Violación a partir del impacto verificado*), [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*designación correspondiente de inconducta anticonstitucional para las casillas calificadoras 7–9*) y las capas de titular en [corpus_forum.md](../../corpus_forum.md) y [corpus_institutions.md](../../corpus_institutions.md).
+- Destino: [Capítulo Once](core_11_forum.md#capítulo-once-foros-y-jurisdicción) (*enrutamiento de enjuego primario y paneles de fondo lícitamente constituidos*); **CJS-1.9** (*Límite entre roles de apoyo y decisiones de fondo*).
+- Leer con: [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), la [escala unificada del Capítulo Ocho §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*asignación numérica de casilla del Eje de Violación a partir del impacto verificado*), [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*designación correspondiente de inconducta anticonstitucional para las casillas calificadoras 7–9*) y las capas de titular en [corpus_forum.md](../../corpus_forum.md) y [corpus_institutions.md](../../corpus_institutions.md).
 
 </details>
 
@@ -690,9 +690,9 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - la preservación de evidencia;
     - la coordinación;
     - la secuenciación; u
-    - otro mantenimiento procesal — incluidas las [Suspensiones](core_05_band_accountability.md#stay).
+    - otro mantenimiento procesal — incluidas las [Suspensiones](core_05_band_accountability.md#suspensión).
   - La casilla numérica final del Eje de Violación es una medición de escala unificada del Capítulo Ocho §7 basada en el impacto verificado. El [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) gobierna solo la designación coincidente de inconducta anticonstitucional cuando un registro de casilla 7, 8 o 9 del Capítulo Ocho califica. Ningún resultado reemplaza la autoridad ordinaria del foro de decidir el fondo ni se convierte en una decisión de vía de resolución de disputas.
-  - **Fuera de alcance:** el mantenimiento procesal, el enrutamiento, el calendario, el monitoreo, la preservación de evidencia o una [Suspensión](core_05_band_accountability.md#stay) — ninguno de los cuales zanja la responsabilidad, el derecho, la validez, el mandato, el remedio o una disposición comparable que afecta derechos.
+  - **Fuera de alcance:** el mantenimiento procesal, el enrutamiento, el calendario, el monitoreo, la preservación de evidencia o una [Suspensión](core_05_band_accountability.md#suspensión) — ninguno de los cuales zanja la responsabilidad, el derecho, la validez, el mandato, el remedio o una disposición comparable que afecta derechos.
 <a id="merits-determination-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
@@ -704,7 +704,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - preserva la posición actual; o
     - coordina la revisión.
 
-    Una [Suspensión](core_05_band_accountability.md#stay) solo pausa o limita la acción; nunca zanja el fondo. Zanjar la cuestión principal exige una [Determinación de fondo](core_05_band_accountability.md#merits-determination) separada de un senciente o un cuerpo con autoridad lícita para emitirla. Los hallazgos de monitoreo también son procesales a menos que un instrumento que gobierna dé de forma expresa al monitor autoridad limitada para decidir el fondo. El [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) explica cómo enrutar el enjuego primario y las preguntas reservadas para una decisión de fondo; las capas de titular identifican las preguntas reservadas para cada familia de foros.
+    Una [Suspensión](core_05_band_accountability.md#suspensión) solo pausa o limita la acción; nunca zanja el fondo. Zanjar la cuestión principal exige una [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo) separada de un senciente o un cuerpo con autoridad lícita para emitirla. Los hallazgos de monitoreo también son procesales a menos que un instrumento que gobierna dé de forma expresa al monitor autoridad limitada para decidir el fondo. El [Capítulo Once](core_11_forum.md#capítulo-once-foros-y-jurisdicción) explica cómo enrutar el enjuego primario y las preguntas reservadas para una decisión de fondo; las capas de titular identifican las preguntas reservadas para cada familia de foros.
 <a id="merits-determination-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Es incumplidor que los roles de apoyo, supervisión, forense, investigación o monitoreo emitan resultados de fondo vinculantes sin autoridad lícita separada. Esos roles no pueden predecidir las cuestiones sustantivas asignadas a un foro de fondo lícitamente constituido, y los hallazgos de enrutamiento, recepción o integridad de impugnación no pueden tratarse como decisiones finales de fondo. Una etiqueta de fondo que no resuelve de hecho una cuestión sustantiva en el asunto que gobierna esta Constitución también es incumplidora.
@@ -718,8 +718,8 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: [Capítulo Siete §4](../../core_09_b_system_alignment_certification_record_process.md#4-forum-process) (*secuencia de supervisión, remisión de componente y límites de confianza durante la impugnación*); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*traslado, certificación y alivio interino*); [**CF-6**](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) (*apelación y revisión secundaria*) y **CF-15** (*orden de alivio interino*).
-- Leer con: [Determinación de fondo](core_05_band_accountability.md#merits-determination), [Impugnabilidad](core_05_band_accountability.md#contestability), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality) y [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional).
+- Destino: [Capítulo Siete §4](../../core_09.010_system_alignment_certification_record_process.md#4-forum-process) (*secuencia de supervisión, remisión de componente y límites de confianza durante la impugnación*); [Capítulo Once](core_11_forum.md#capítulo-once-foros-y-jurisdicción) (*traslado, certificación y alivio interino*); [**CF-6**](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) (*apelación y revisión secundaria*) y **CF-15** (*orden de alivio interino*).
+- Leer con: [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) y [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional).
 
 </details>
 
@@ -735,7 +735,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - retener una pregunta de componente para remisión ulterior; o
     - posponer una certificación u otro resultado final similar.
 
-    Una Suspensión controla el tiempo o la secuencia; no decide la cuestión principal. Cualquier decisión vinculante sobre la cuestión principal debe emitirse por separado como una [Determinación de fondo](core_05_band_accountability.md#merits-determination) por un senciente o un cuerpo con autoridad lícita para emitirla.
+    Una Suspensión controla el tiempo o la secuencia; no decide la cuestión principal. Cualquier decisión vinculante sobre la cuestión principal debe emitirse por separado como una [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo) por un senciente o un cuerpo con autoridad lícita para emitirla.
   - **Fuera de alcance:** la demora informal, el silencio o la pausa ordinaria de calendario no emitidos como una Suspensión documentada.
 <a id="stay-a"></a>
 - **Cómo medir y evaluar**
@@ -744,7 +744,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     **Evaluación primaria:** Identifique:
     - qué se pausa — acción, confianza, finalización o exigibilidad;
     - la autoridad lícita que emite la Suspensión, su ámbito y duración o disparador de revisión; y
-    - si es proporcionada bajo [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
+    - si es proporcionada bajo [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
 
     Una Suspensión puede:
     - impedir daño previsible;
@@ -752,15 +752,15 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - impedir la dependencia irreversible; o
     - permitir la revisión de componente exigida.
 
-    Separe una Suspensión de una decisión final, una demora informal o un silencio tratado como aprobación. Cuando las cuestiones sustantivas estén listas, emita una [Determinación de fondo](core_05_band_accountability.md#merits-determination) separada; no oculte resultados de fondo dentro de la Suspensión. Lea [Impugnabilidad](core_05_band_accountability.md#contestability) y [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) para el tiempo de impugnación y de revisión.
+    Separe una Suspensión de una decisión final, una demora informal o un silencio tratado como aprobación. Cuando las cuestiones sustantivas estén listas, emita una [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo) separada; no oculte resultados de fondo dentro de la Suspensión. Lea [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) y [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) para el tiempo de impugnación y de revisión.
 <a id="stay-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Es incumplidor:
     - usar la demora informal o el silencio en lugar de una Suspensión documentada cuando se exige una;
     - mantener una Suspensión indefinida sin un disparador de revisión documentado o una revisión pronta adecuada al nivel;
-    - bloquear la [Impugnabilidad](core_05_band_accountability.md#contestability) o la revisión de componente exigida;
+    - bloquear la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) o la revisión de componente exigida;
     - tratar una Suspensión como aprobación final o como una decisión de fondo;
-    - etiquetar una [Determinación de fondo](core_05_band_accountability.md#merits-determination) como una Suspensión;
+    - etiquetar una [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo) como una Suspensión;
     - incluir resultados de fondo sin un fallo de fondo separado; o
     - rehusar levantar o estrechar una Suspensión después de que la revisión está completa o sus fundamentos enunciados ya no se sostienen.
 
@@ -776,7 +776,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: [Rendición de cuentas, impugnabilidad y vías de reparación](core_05_band_accountability.md#accountability-contestability-semi-independent)
-- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Diligencia de previsibilidad](core_05_band_oversight.md#foreseeability-diligence), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Daño](core_05_band_accountability.md#harm) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Diligencia de previsibilidad](core_05_band_oversight.md#diligencia-de-previsibilidad), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad), [Daño](core_05_band_accountability.md#daño) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -785,13 +785,13 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: una falla razonablemente evitable de tomar el cuidado, la acción o la respuesta oportuna necesarios para impedir o reducir un daño grave cuando había un deber y una capacidad real de actuar.*
 
 - **Qué es**
-  - **En alcance:** Una falla de usar el cuidado, la diligencia o la respuesta oportuna razonablemente necesarios para impedir o reducir [Daño](core_05_band_accountability.md#harm) material. El daño puede afectar:
+  - **En alcance:** Una falla de usar el cuidado, la diligencia o la respuesta oportuna razonablemente necesarios para impedir o reducir [Daño](core_05_band_accountability.md#daño) material. El daño puede afectar:
     - a los sencientes;
     - las [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional);
     - la [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional); o
     - los sistemas dependientes.
 
-    La falla es Negligencia solo cuando era razonablemente evitable bajo la [Diligencia de previsibilidad](core_05_band_oversight.md#foreseeability-diligence) y la [Determinación de materialidad](core_05_band_oversight.md#materiality-determination). El descuido incluye la inatención prolongada a:
+    La falla es Negligencia solo cuando era razonablemente evitable bajo la [Diligencia de previsibilidad](core_05_band_oversight.md#diligencia-de-previsibilidad) y la [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad). El descuido incluye la inatención prolongada a:
     - señales de aviso conocidas;
     - el deterioro previsible; o
     - condiciones productoras de trauma
@@ -802,18 +802,18 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Aplique la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), la [Proporcionalidad](core_05_band_accountability.md#proportionality), el [Riesgo material](core_05_band_oversight.md#material-risk) y la evaluación de sistema entero. Separe:
+    **Evaluación primaria:** Aplique la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), la [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), el [Riesgo material](core_05_band_oversight.md#riesgo-material) y la evaluación de sistema entero. Separe:
 
     - la incertidumbre disculpable; de
     - la inacción culpable;
     - la aceptación pasiva de condiciones dañinas; o
     - una respuesta inadecuada.
 
-    Evalúe el [Daño psicológico](core_05_band_accountability.md#psychological-harm) junto con el daño físico y de sistema entero.
+    Evalúe el [Daño psicológico](core_05_band_accountability.md#daño-psicológico) junto con el daño físico y de sistema entero.
 <a id="negligence-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** La Negligencia persistente o sistémica es incumplidora, incluida la aceptación pasiva de condiciones dañinas conocidas de modos que:
-    - devalúan de forma material la [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing); o
+    - devalúan de forma material la [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral); o
     - impiden la acción contra el daño previsible.
   - Una etiqueta de negligencia que no refleja lo que de hecho ocurrió en el asunto que gobierna esta Constitución también es incumplidora.
 
@@ -826,8 +826,8 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (responsabilidad difundida y captura); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (evaluación sistémica y acumulativa).
-- Leer con: la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Destino: Principios: [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (responsabilidad difundida y captura); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (evaluación sistémica y acumulativa).
+- Leer con: la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -854,7 +854,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - la estructura de mando y de dependencia; y
     - las vías de respuesta documentadas.
 
-    Compruebe si los actores usaron de forma razonable la [Impugnabilidad](core_05_band_accountability.md#contestability), la denuncia protegida, los derechos de impugnación y la [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) cuando enfrentaron directivas ilícitas o inconstitucionales.
+    Compruebe si los actores usaron de forma razonable la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), la denuncia protegida, los derechos de impugnación y la [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) cuando enfrentaron directivas ilícitas o inconstitucionales.
 <a id="collective-accountability-failure-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Usar la jerarquía, el proceso colectivo o la responsabilidad dividida para disculpar el habilitar de forma material o el fallar en resistir una violación constitucional. Una etiqueta de falla colectiva sin efecto real en la situación que se evalúa también es incumplidora.
@@ -871,7 +871,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: [Rendición de cuentas, impugnabilidad y vías de reparación](core_05_band_accountability.md#accountability-contestability-semi-independent)
-- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
+- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
 
 </details>
 
@@ -881,9 +881,9 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - **Qué es**
   - **En alcance:** Reconocimiento, vías de corrección y remedios proporcionados para:
-    - [Daño](core_05_band_accountability.md#harm) material;
+    - [Daño](core_05_band_accountability.md#daño) material;
     - fallas que afectan derechos; o
-    - conducta que degrada la [Fiabilidad](core_05_band_continuity.md#trustworthiness).
+    - conducta que degrada la [Fiabilidad](core_05_band_continuity.md#fiabilidad).
 
     Esto incluye:
     - el daño diferido;
@@ -904,7 +904,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Aplique la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), la [Impugnabilidad](core_05_band_accountability.md#contestability), el [Impacto material](core_05_band_oversight.md#material-impact) y la [Proporcionalidad](core_05_band_accountability.md#proportionality). Compruebe si la remediación es:
+    **Evaluación primaria:** Aplique la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), el [Impacto material](core_05_band_oversight.md#impacto-material) y la [Proporcionalidad](core_05_band_accountability.md#proporcionalidad). Compruebe si la remediación es:
     - fingida;
     - inaccesible;
     - subfinanciada;
@@ -914,7 +914,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Qué debe sostenerse**
   - **Falla primaria:** Es incumplidor retener la reparación funcional cuando el Capítulo Seis o las normas vinculantes la exigen. Las respuestas simbólicas, los resultados solo de castigo, los canales de remedio inaccesibles, o una etiqueta de reparación, remediación o resolución que deja el problema sin resolver no pueden reemplazar la remediación eficaz, especialmente cuando derrotan:
     - la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability);
-    - la [Impugnabilidad](core_05_band_accountability.md#contestability); o
+    - la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad); o
     - la [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional).
 
 ---
@@ -927,10 +927,10 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: [Capítulo Nueve §9](../../core_11_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de exigibilidad y sistemas de remedio*).
+- Titular canónico: [Capítulo Nueve §9](../../core_11.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de exigibilidad y sistemas de remedio*).
 - Titular de implementación: [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Sistemas de remedio y capacidad institucional de reparación*).
 - Componente de agrupación: [Rendición de cuentas, impugnabilidad y vías de reparación](core_05_band_accountability.md#accountability-contestability-semi-independent)
-- Leer con: [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Daño psicológico](core_05_band_accountability.md#psychological-harm), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) y [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisión de foro de enjuego primario*).
+- Leer con: [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Daño psicológico](core_05_band_accountability.md#daño-psicológico), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) y [Capítulo Once](core_11_forum.md#capítulo-once-foros-y-jurisdicción) (*supervisión de foro de enjuego primario*).
 
 </details>
 
@@ -971,7 +971,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Aplique el [Capítulo Nueve §9](../../core_11_standing_integration.md#9-enforcement-realism-and-remedy-systems), la [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), la [Impugnabilidad](core_05_band_accountability.md#contestability), la [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) y el [Daño psicológico](core_05_band_accountability.md#psychological-harm) donde el trauma esté implicado de forma material. Busque:
+    **Evaluación primaria:** Aplique el [Capítulo Nueve §9](../../core_11.000_standing_integration.md#9-enforcement-realism-and-remedy-systems), la [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), la [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) y el [Daño psicológico](core_05_band_accountability.md#daño-psicológico) donde el trauma esté implicado de forma material. Busque:
     - vías solo en el papel;
     - acumulación creada de forma deliberada;
     - recepción inaccesible;
@@ -980,7 +980,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - dependencia de un único punto frágil; y
     - costos de remedio trasladados a las partes afectadas o a los sistemas públicos cuando los actores responsables pueden soportarlos de forma lícita.
 
-    Los métodos de capacidad, medición e hitos pueden publicarse bajo los [Dominios Técnicos de Foro](core_11_forum.md#42-technical-forum-domains). La familia de foros de enjuego primario sigue siendo responsable bajo el [Capítulo Once](core_11_forum.md#2-default-venue-and-primary-stakes) de la plantilla, el financiamiento, la acumulación, la sucesión y el desempeño.
+    Los métodos de capacidad, medición e hitos pueden publicarse bajo los [Dominios Técnicos de Foro](core_11_forum.md#42-dominios-técnicos-de-foro). La familia de foros de enjuego primario sigue siendo responsable bajo el [Capítulo Once](core_11_forum.md#2-sede-por-defecto-y-enjuegos-primarios) de la plantilla, el financiamiento, la acumulación, la sucesión y el desempeño.
 <a id="remedy-system-constitutional-c"></a>
 <a id="remedy-system-c"></a>
 - **Qué debe sostenerse**
@@ -1000,7 +1000,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: [Rendición de cuentas, impugnabilidad y vías de reparación](core_05_band_accountability.md#accountability-contestability-semi-independent)
-- Leer con: [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
+- Leer con: [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
 
 </details>
 
@@ -1010,13 +1010,13 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - **Qué es**
   - **En alcance:** Cuando los instrumentos constitucionalmente aplicables exijan respuestas restaurativas, dé prioridad a:
-    - restaurar el [Bienestar](core_05_band_continuity.md#wellbeing) agéntico de los sencientes afectados;
+    - restaurar el [Bienestar](core_05_band_continuity.md#bienestar) agéntico de los sencientes afectados;
     - proporcionar restitución donde se deba; y
     - eliminar las causas raíz de la conducta dañina.
 
     Esta prioridad va antes de la retaliación o del sufrimiento como fin en sí mismo cuando la restauración es proporcionada y factible bajo:
-    - [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint); y
-    - [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint).
+    - [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción); y
+    - [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional).
   - **Fuera de alcance:** círculos ordinarios de disculpa o pacificación voluntaria fuera de las vías restaurativas constitucionalmente exigidas.
 <a id="restorative-justice-a"></a>
 - **Cómo medir y evaluar**
@@ -1024,9 +1024,9 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
     **Evaluación primaria:** Aplique:
     - [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional);
-    - [Proporcionalidad](core_05_band_accountability.md#proportionality);
-    - [Necesidad](core_05_band_accountability.md#necessity); y
-    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
+    - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad);
+    - [Necesidad](core_05_band_accountability.md#necesidad); y
+    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral).
 
     El **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) y el texto de implementación incorporado designado pueden fijar procedimientos, pero esos procedimientos deben preservar esta prioridad restaurativa.
 <a id="restorative-justice-c"></a>
@@ -1049,8 +1049,8 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) (lectura conjunta de emergencia / colisión de derechos, incluido el [Artículo XXIV](../../core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality) (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*)); [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (**Proporcionalidad**, **Necesidad**, excepciones de emergencia acotadas leídas con el **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*)).
-- Leer con: la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Destino: Principios: [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) (lectura conjunta de emergencia / colisión de derechos, incluido el [Artículo XXIV](../../core_06.020_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality) (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*)); [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (**Proporcionalidad**, **Necesidad**, excepciones de emergencia acotadas leídas con el **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*)).
+- Leer con: la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -1071,19 +1071,19 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
     **Evaluación primaria:** Satisfaga cada requisito en [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional) y la [agrupación Rendición de cuentas, Impugnabilidad, Adjudicación y resolución de disputas, Falla colectiva de rendición de cuentas y Fuerza mayor](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster). Durante la incertidumbre aguda, algunos deberes pueden limitarse temporalmente, pero los siguientes deben reanudarse cuando las condiciones se estabilicen:
-    - reporte relacionado con la [Verdad](core_05_band_oversight.md#truth-constitutional-constraint);
+    - reporte relacionado con la [Verdad](core_05_band_oversight.md#verdad-restricción-constitucional);
     - atribución;
-    - [Impugnabilidad](core_05_band_accountability.md#contestability); y
+    - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad); y
     - auditoría posterior.
 
-    Los controles procedimentales de emergencia permanecen en el Capítulo Seis, el [Artículo XXIV-D](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*Medidas de emergencia y carga de continuación*), y la implementación de gobernanza de capa titular. Los contratos de capa de implementación pueden añadir detalle, pero no pueden estrechar la [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint) ni la [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint).
+    Los controles procedimentales de emergencia permanecen en el Capítulo Seis, el [Artículo XXIV-D](../../core_06.020_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*Medidas de emergencia y carga de continuación*), y la implementación de gobernanza de capa titular. Los contratos de capa de implementación pueden añadir detalle, pero no pueden estrechar la [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción) ni la [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional).
 <a id="force-majeure-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Es incumplidor:
-    - tratar la Fuerza mayor como una renuncia permanente de la [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), la [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), la [Impugnabilidad](core_05_band_accountability.md#contestability) o la auditoría;
+    - tratar la Fuerza mayor como una renuncia permanente de la [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción), la [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional), la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) o la auditoría;
     - aplicar una etiqueta de Fuerza mayor a una condición autocausada, razonablemente controlable o insuficientemente preparada;
     - usar una etiqueta de Fuerza mayor sin efecto real en la situación que se evalúa; o
-    - llamar imprevisibles a riesgos previsibles sin [Diligencia de previsibilidad](core_05_band_oversight.md#foreseeability-diligence).
+    - llamar imprevisibles a riesgos previsibles sin [Diligencia de previsibilidad](core_05_band_oversight.md#diligencia-de-previsibilidad).
 
 ---
 
@@ -1095,7 +1095,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Familia de medición Actuación a tiempo (*Disciplina contra la demora y de las vías de resolución como medición constitucional*); Principios: [§11.5 Pretensiones contingentes, juegos de azar y mercados de contratos de evento](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
-- Leer con: [Captura del sistema](core_05_band_continuity.md#system-capture), [Anticaptura](core_05_band_continuity.md#anti-capture), [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment), [Ventaja de insiders](core_05_band_accountability.md#insider-advantage), [Pretensión contingente](core_05_band_accountability.md#contingent-claim), [Mercado de contratos de evento](core_05_band_accountability.md#event-contract-market), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) e [Impugnabilidad](core_05_band_accountability.md#contestability).
+- Leer con: [Captura del sistema](core_05_band_continuity.md#captura-del-sistema), [Anticaptura](core_05_band_continuity.md#anticaptura), [Alineación de incentivos](core_05_band_integrative.md#alineación-de-incentivos), [Ventaja de insiders](core_05_band_accountability.md#ventaja-de-insiders), [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente), [Mercado de contratos de evento](core_05_band_accountability.md#mercado-de-contratos-de-evento), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
 
 </details>
 
@@ -1104,24 +1104,24 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: las partes con dinero, control, información privilegiada o un interés en el resultado no deben poder sesgar quién o qué decide un arreglo u otro resultado pertinente a los derechos.*
 
 - **Qué es**
-  - **En alcance:** Una forma de [Captura del sistema](core_05_band_continuity.md#system-capture). Incentivos concentrados, control o información privilegiada sesgan a los actores, procesos, alimentaciones de datos o autoridades que deciden las liquidaciones de [Pretensión contingente](core_05_band_accountability.md#contingent-claim) u otros resultados pertinentes a los derechos similares. El Capítulo Uno §11.5 llama a estos decisores «fuentes de resolución de resultado».
+  - **En alcance:** Una forma de [Captura del sistema](core_05_band_continuity.md#captura-del-sistema). Incentivos concentrados, control o información privilegiada sesgan a los actores, procesos, alimentaciones de datos o autoridades que deciden las liquidaciones de [Pretensión contingente](core_05_band_accountability.md#pretensión-contingente) u otros resultados pertinentes a los derechos similares. El Capítulo Uno §11.5 llama a estos decisores «fuentes de resolución de resultado».
   - **Fuera de alcance:** competencia ordinaria de mercado, abogacía divulgada o participación no controladora sin sesgo de las fuentes de resolución de resultado.
 <a id="capture-of-resolution-pathways-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — comprueba si el control o la interferencia causa demora, obstrucción o influencia injusta sobre cómo se resuelven las disputas.
 
     **Evaluación primaria:** Compruebe si quien resuelve el resultado es independiente de las partes con enjuego material. Use fuentes múltiples donde sea factible, proporcione vías impugnables de disputa y separe los roles de creación de mercado, liquidación y adjudicación cuando los conflictos pudieran distorsionar los resultados.
-  - **Medida secundaria:** [Captura del sistema](core_05_band_continuity.md#system-capture), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) — comedidas que pueden derrotar la integridad de la vía incluso cuando existen canales formales de disputa.
+  - **Medida secundaria:** [Captura del sistema](core_05_band_continuity.md#captura-del-sistema), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) y [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) — comedidas que pueden derrotar la integridad de la vía incluso cuando existen canales formales de disputa.
 
-    **Evaluación secundaria:** Al evaluar el rastro primario, aplique [Captura del sistema](core_05_band_continuity.md#system-capture) y [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
-  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — donde los precios de liquidación, las cuotas o las métricas de resolución sustituyen la disciplina independiente de la vía.
+    **Evaluación secundaria:** Al evaluar el rastro primario, aplique [Captura del sistema](core_05_band_continuity.md#captura-del-sistema) y [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas).
+  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — donde los precios de liquidación, las cuotas o las métricas de resolución sustituyen la disciplina independiente de la vía.
 
-    **Evaluación terciaria:** Cuando los operadores se apoyen en precios, cuotas o la autoridad de una fuente de resolución de resultado, aplique [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence). Separe la integridad duradera de la vía de una fuente de resolución de resultado capturada.
+    **Evaluación terciaria:** Cuando los operadores se apoyen en precios, cuotas o la autoridad de una fuente de resolución de resultado, aplique [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy). Separe la integridad duradera de la vía de una fuente de resolución de resultado capturada.
 <a id="capture-of-resolution-pathways-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Las partes con enjuego material controlan, sesgan o hacen imposible de auditar el sistema de resolución. Una etiqueta de captura que no refleja sesgo o control reales en el asunto que gobierna esta Constitución también es incumplidora.
-  - **Falla secundaria:** El sistema no satisface todas las obligaciones de [Captura del sistema](core_05_band_continuity.md#system-capture) cuando la Captura de vías de resolución está materialmente implicada.
-  - **Falla terciaria:** El sistema trata los precios de liquidación, las cuotas o las métricas de resolución como decisivos cuando la [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) es razonablemente observable.
+  - **Falla secundaria:** El sistema no satisface todas las obligaciones de [Captura del sistema](core_05_band_continuity.md#captura-del-sistema) cuando la Captura de vías de resolución está materialmente implicada.
+  - **Falla terciaria:** El sistema trata los precios de liquidación, las cuotas o las métricas de resolución como decisivos cuando la [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) es razonablemente observable.
 
 ---
 
@@ -1133,11 +1133,11 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 **Contexto semiindependiente** (las definiciones componente pueden seguir operando fuera del ámbito de invocación conjunta):
 
 - **Invocación conjunta:** donde sea material la denuncia protegida, la alerta, la represalia contra denunciantes o la interferencia con el acceso a denunciar.
-- **Ámbito:** cuando se cumple la invocación conjunta, el hogar de Rendición de cuentas para los canales a través de los cuales se sacan a la luz violaciones constitucionales, fallas de seguridad y daños sistémicos — [Denuncia protegida (alertadores)](core_05_band_accountability.md#protected-reporting-whistleblowing) para las divulgaciones resguardadas de represalia, y [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) para las respuestas prohibidas y las tácticas de bloqueo de acceso. Estas definiciones protegen las vías de información esenciales para la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), la [Impugnabilidad](core_05_band_accountability.md#contestability) y la [Auditabilidad](core_05_band_oversight.md#auditability).
+- **Ámbito:** cuando se cumple la invocación conjunta, el hogar de Rendición de cuentas para los canales a través de los cuales se sacan a la luz violaciones constitucionales, fallas de seguridad y daños sistémicos — [Denuncia protegida (alertadores)](core_05_band_accountability.md#denuncia-protegida-alertadores) para las divulgaciones resguardadas de represalia, y [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#represalia-contra-la-denuncia-protegida-e-interferencia-de-acceso) para las respuestas prohibidas y las tácticas de bloqueo de acceso. Estas definiciones protegen las vías de información esenciales para la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) y la [Auditabilidad](core_05_band_oversight.md#auditabilidad).
 
 **Miembros del grupo de temas.** Este grupo comprende:
-- [Denuncia protegida (alertadores)](core_05_band_accountability.md#protected-reporting-whistleblowing);
-- [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference).
+- [Denuncia protegida (alertadores)](core_05_band_accountability.md#denuncia-protegida-alertadores);
+- [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#represalia-contra-la-denuncia-protegida-e-interferencia-de-acceso).
 
 *Mediciones (enrutamiento de familia):* Se mide bajo la familia de medición Rendición de cuentas. Las medidas concretas están en las definiciones miembro de abajo.
 
@@ -1150,9 +1150,9 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [3. Restricciones de principio no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) y [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), donde la denuncia suministra evidencia de seguridad, verdad, rendición de cuentas o riesgo material.
+- Destino: Principios: [3. Restricciones de principio no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) y [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), donde la denuncia suministra evidencia de seguridad, verdad, rendición de cuentas o riesgo material.
 - Componente de agrupación: [la agrupación dependiente *Denuncia protegida y antirrepresalia*](core_05_band_accountability.md#protected-reporting-semi-independent).
-- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Auditabilidad](core_05_band_oversight.md#auditability), [Preservación de evidencia](core_05_band_oversight.md#evidence-preservation), [Transparencia](core_05_band_oversight.md#transparency), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference).
+- Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Preservación de evidencia](core_05_band_oversight.md#preservación-de-evidencia), [Transparencia](core_05_band_oversight.md#transparencia), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#represalia-contra-la-denuncia-protegida-e-interferencia-de-acceso).
 
 </details>
 
@@ -1167,8 +1167,8 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) — comprueba si los sencientes pueden denunciar con seguridad preocupaciones graves y si esas denuncias se reciben, se preservan y se revisan.
 
-    **Evaluación primaria:** Mire lo que hace la denuncia, no solo cómo se llama. La Denuncia protegida incluye el escalamiento interno, la denuncia externa a través de vías autorizadas de supervisión o de foro, la [Preservación de evidencia](core_05_band_oversight.md#evidence-preservation) y la participación de Buena fe en una auditoría o revisión.
-  - **Medida secundaria:** [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Preservación de evidencia](core_05_band_oversight.md#evidence-preservation) y [Auditabilidad](core_05_band_oversight.md#auditability) — comedidas que pueden derrotar la denuncia incluso cuando existen canales formales.
+    **Evaluación primaria:** Mire lo que hace la denuncia, no solo cómo se llama. La Denuncia protegida incluye el escalamiento interno, la denuncia externa a través de vías autorizadas de supervisión o de foro, la [Preservación de evidencia](core_05_band_oversight.md#preservación-de-evidencia) y la participación de Buena fe en una auditoría o revisión.
+  - **Medida secundaria:** [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Preservación de evidencia](core_05_band_oversight.md#preservación-de-evidencia) y [Auditabilidad](core_05_band_oversight.md#auditabilidad) — comedidas que pueden derrotar la denuncia incluso cuando existen canales formales.
 
     **Evaluación secundaria:** Un denunciante no necesita enunciar la cuestión jurídica de forma perfecta. La protección aplica cuando el denunciante tenía una base razonable y usó un canal proporcionado a las circunstancias.
 <a id="protected-reporting-whistleblowing-c"></a>
@@ -1187,7 +1187,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Principios: [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) y [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline), donde la represalia o la interferencia de acceso distorsiona las vías de impugnación y de rendición de cuentas.
 - Componente de agrupación: [la agrupación dependiente *Denuncia protegida y antirrepresalia*](core_05_band_accountability.md#protected-reporting-semi-independent).
-- Leer con: [Denuncia protegida (alertadores)](core_05_band_accountability.md#protected-reporting-whistleblowing), [Impugnabilidad](core_05_band_accountability.md#contestability), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Preservación de evidencia](core_05_band_oversight.md#evidence-preservation), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Captura del sistema](core_05_band_continuity.md#system-capture).
+- Leer con: [Denuncia protegida (alertadores)](core_05_band_accountability.md#denuncia-protegida-alertadores), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Preservación de evidencia](core_05_band_oversight.md#preservación-de-evidencia), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Captura del sistema](core_05_band_continuity.md#captura-del-sistema).
 
 </details>
 
@@ -1196,7 +1196,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 *En términos sencillos: ningún actor puede castigar, amenazar, excluir, desacreditar, retrasar o bloquear el acceso de un senciente porque ese senciente denunció una preocupación, preservó evidencia, se unió a una auditoría, hizo una impugnación o buscó revisión o remedio.*
 
 - **Qué es**
-  - **En alcance:** Cualquier represalia, amenaza, penalidad, exclusión, daño a la reputación, denegación de acceso, manipulación de registros u obstrucción de proceso materialmente conectada con la Denuncia protegida, la [Preservación de evidencia](core_05_band_oversight.md#evidence-preservation), la participación en auditoría, la impugnación, la revisión o el acceso a remediación.
+  - **En alcance:** Cualquier represalia, amenaza, penalidad, exclusión, daño a la reputación, denegación de acceso, manipulación de registros u obstrucción de proceso materialmente conectada con la Denuncia protegida, la [Preservación de evidencia](core_05_band_oversight.md#preservación-de-evidencia), la participación en auditoría, la impugnación, la revisión o el acceso a remediación.
   - **Fuera de alcance:** gestión ordinaria del desempeño, programación o asignación de recursos sin conexión material con la Denuncia protegida o la participación en revisión.
 <a id="protected-reporting-retaliation-and-access-interference-a"></a>
 - **Cómo medir y evaluar**
@@ -1210,7 +1210,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - usar la dependencia como presión;
     - abusar de la confidencialidad; y
     - retrasar el procedimiento para agotar al denunciante o al reclamante.
-  - **Medida secundaria:** [Denuncia protegida (alertadores)](core_05_band_accountability.md#protected-reporting-whistleblowing), [Impugnabilidad](core_05_band_accountability.md#contestability), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Captura del sistema](core_05_band_continuity.md#system-capture) — comedidas que pueden derrotar la disciplina antirrepresalia incluso cuando existen políticas en el papel.
+  - **Medida secundaria:** [Denuncia protegida (alertadores)](core_05_band_accountability.md#denuncia-protegida-alertadores), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Captura del sistema](core_05_band_continuity.md#captura-del-sistema) — comedidas que pueden derrotar la disciplina antirrepresalia incluso cuando existen políticas en el papel.
 
     **Evaluación secundaria:** Trate la interferencia con el acceso como estrechamente relacionada con la represalia cuando de hecho impide la denuncia, la revisión o el remedio.
 <a id="protected-reporting-retaliation-and-access-interference-c"></a>
@@ -1230,12 +1230,12 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - **Invocación conjunta:** donde sea material la arquitectura de gobernanza, la escala de descentralización, la estructura de mercado o la concentración material de autoridad.
 - **Ámbito:** cuando se cumple la invocación conjunta, el hogar de Rendición de cuentas para cómo se organiza y se acota la autoridad a través de estructuras de autoridad distribuidas y exigibles.
-- **Piso titular:** implementa el [Capítulo Uno §13 Estructura de mercado](core_01_c_stewardship_capacity_principles.md#13-market-structure) y acota la [Captura del sistema](core_05_band_continuity.md#system-capture).
+- **Piso titular:** implementa el [Capítulo Uno §13 Estructura de mercado](core_01_c_stewardship_capacity_principles.md#13-market-structure) y acota la [Captura del sistema](core_05_band_continuity.md#captura-del-sistema).
 - **Interfaz de capa de principios:** leer con [Capítulo Uno §9.5 Autoorganización alineada](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization). Ese principio explica cómo el trabajo constitucional iniciado por sencientes y por comunidades recibe una vía procedimental real sin permitir que los incumbentes monopolizen la iniciativa o la revisión. No es una concesión de autoridad de gobierno, de ejecución, coercitiva o de fondo, y no es una definición adicional en este grupo.
 
 **Miembros del grupo de temas.** Este grupo comprende:
-- [Gobernanza](core_05_band_accountability.md#governance) — estructuras, reglas y procesos por los que se dirigen los sistemas y se les exige rendición de cuentas.
-- [Descentralización](core_05_band_accountability.md#decentralization) — colocación de la autoridad en la escala menos centralizada que pueda satisfacer los requisitos vinculantes.
+- [Gobernanza](core_05_band_accountability.md#gobernanza) — estructuras, reglas y procesos por los que se dirigen los sistemas y se les exige rendición de cuentas.
+- [Descentralización](core_05_band_accountability.md#descentralización) — colocación de la autoridad en la escala menos centralizada que pueda satisfacer los requisitos vinculantes.
 - [Estructura de mercado](core_05_band_accountability.md#market-structure-constitutional) — disciplina de capa de principio para condiciones productivas impugnables.
 - [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional) — disparador operativo de revisión elevada cuando la concentración material alcanza niveles problemáticos.
 
@@ -1250,10 +1250,10 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) (escalamiento por [enjuego material](core_00_preamble.md#material-stake)); [Preámbulo §3.3 Capas de gobernanza](core_00_preamble.md#33-governance-layers); [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (disciplina de captura de la gobernanza).
+- Destino: Principios: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) (escalamiento por [enjuego material](core_00_preamble.md#material-stake)); [Preámbulo §3.3 Capas de gobernanza](core_00_preamble.md#33-capas-de-gobernanza); [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (disciplina de captura de la gobernanza).
 - Componente de agrupación: [Arquitectura de gobernanza, supervisión, dependencia, descentralización, concentración, estructura de mercado e integridad de la vía de salida](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster); [Administración responsable, disciplina de gobernanza y capacidad de los sistemas compartidos](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Leer con: [Administración responsable](core_05_band_continuity.md#stewardship-constitutional), [Capítulo Uno §9.5 Autoorganización alineada](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization), [Defecto de gobernanza de horizonte corto](core_05_band_continuity.md#short-horizon-governance-defect-constitutional), [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Necesidad](core_05_band_accountability.md#necessity) y [Captura del sistema](core_05_band_continuity.md#system-capture).
-- Capa: enrute entre la **Capa del Contrato Constitucional (CCL)** y la **Participación Sistémica de las Partes Afectadas (SSP)** bajo el [Preámbulo §3.3](core_00_preamble.md#33-governance-layers).
+- Leer con: [Administración responsable](core_05_band_continuity.md#stewardship-constitutional), [Capítulo Uno §9.5 Autoorganización alineada](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization), [Defecto de gobernanza de horizonte corto](core_05_band_continuity.md#short-horizon-governance-defect-constitutional), [Gobernanza escalada por clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Necesidad](core_05_band_accountability.md#necesidad) y [Captura del sistema](core_05_band_continuity.md#captura-del-sistema).
+- Capa: enrute entre la **Capa del Contrato Constitucional (CCL)** y la **Participación Sistémica de las Partes Afectadas (SSP)** bajo el [Preámbulo §3.3](core_00_preamble.md#33-capas-de-gobernanza).
 
 </details>
 
@@ -1268,20 +1268,20 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - económicas; y
     - sociotécnicas que afectan de forma material a los sencientes.
 
-    Lea el [Preámbulo §3.3 Capas de gobernanza](core_00_preamble.md#33-governance-layers) para el enrutamiento entre la [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer) y la **Participación Sistémica de las Partes Afectadas**. En la capa de principio, la **Gobernanza** es subordinada a la [Administración responsable](core_05_band_continuity.md#stewardship-constitutional) cuando las estructuras, incentivos o procedimientos autorizados permitirían de otro modo desalineación constitucional previsible, degradación del Piso de Derechos u optimización de corto plazo que derrota la alineación duradera. El **Capítulo Doce** y la **Capa del Contrato Constitucional** siguen titularizando los requisitos operativos de autorización.
+    Lea el [Preámbulo §3.3 Capas de gobernanza](core_00_preamble.md#33-capas-de-gobernanza) para el enrutamiento entre la [Capa del Contrato Constitucional](core_05_band_integrative.md#capa-del-contrato-constitucional) y la **Participación Sistémica de las Partes Afectadas**. En la capa de principio, la **Gobernanza** es subordinada a la [Administración responsable](core_05_band_continuity.md#stewardship-constitutional) cuando las estructuras, incentivos o procedimientos autorizados permitirían de otro modo desalineación constitucional previsible, degradación del Piso de Derechos u optimización de corto plazo que derrota la alineación duradera. El **Capítulo Doce** y la **Capa del Contrato Constitucional** siguen titularizando los requisitos operativos de autorización.
   - **Fuera de alcance:** estatutos de club privado, guías de estilo de marca o coordinación social informal que no dirigen ni acotan los sistemas que gobierna esta Constitución.
 <a id="governance-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Aplique [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Necesidad](core_05_band_accountability.md#necessity) y [Captura del sistema](core_05_band_continuity.md#system-capture). Compruebe si la autoridad está distribuida, acotada y es revisable en proporción al [enjuego material](core_00_preamble.md#material-stake). Identifique [Defecto de gobernanza de horizonte corto](core_05_band_continuity.md#short-horizon-governance-defect-constitutional) cuando la Gobernanza optimiza resultados inmediatos sin volver a comprobarlos contra resultados constitucionales de mediano y largo plazo. La implementación de Gobernanza incorporada designada puede añadir detalle, pero no debe estrechar esta definición.
+    **Evaluación primaria:** Aplique [Gobernanza escalada por clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Necesidad](core_05_band_accountability.md#necesidad) y [Captura del sistema](core_05_band_continuity.md#captura-del-sistema). Compruebe si la autoridad está distribuida, acotada y es revisable en proporción al [enjuego material](core_00_preamble.md#material-stake). Identifique [Defecto de gobernanza de horizonte corto](core_05_band_continuity.md#short-horizon-governance-defect-constitutional) cuando la Gobernanza optimiza resultados inmediatos sin volver a comprobarlos contra resultados constitucionales de mediano y largo plazo. La implementación de Gobernanza incorporada designada puede añadir detalle, pero no debe estrechar esta definición.
 <a id="governance-c"></a>
 - **Qué debe sostenerse**
   - Un arreglo de Gobernanza pretendido permanece en alcance para evaluación cuando busca apoderarse, desplazar, eludir u obstruir de forma material la autoridad asignada a través de una vía de autorización constitucional válida. Esta regla no prohíbe la impugnación, la revisión, la enmienda, el reemplazo ni la acción de emergencia llevada a cabo a través de vías constitucionalmente autorizadas.
   - **Falla primaria:**
     - Arreglos de Gobernanza que de forma material:
-      - niegan la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), la [Impugnabilidad](core_05_band_accountability.md#contestability) o la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) exigidas;
-      - producen o atrincheran [Captura del sistema](core_05_band_continuity.md#system-capture) sin mitigación cuando tal captura está materialmente prohibida;
+      - niegan la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) o la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) exigidas;
+      - producen o atrincheran [Captura del sistema](core_05_band_continuity.md#captura-del-sistema) sin mitigación cuando tal captura está materialmente prohibida;
       - normalizan la emergencia permanente;
       - suprimen la corrección; o
       - atrincheran la captura mientras preservan el procedimiento solo de nombre.
@@ -1299,7 +1299,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Principios: [§12.1 Capacidad productiva (bien instrumental)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (lectura conjunta de no concentración / subsidiariedad); [6.1.3 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality) (justificación de la centralización).
 - Componente de agrupación: [Arquitectura de gobernanza, supervisión, dependencia, descentralización, concentración, estructura de mercado e integridad de la vía de salida](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Leer con: [Gobernanza](core_05_band_accountability.md#governance), [Capítulo Uno §9.5 Autoorganización alineada](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance), [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
+- Leer con: [Gobernanza](core_05_band_accountability.md#gobernanza), [Capítulo Uno §9.5 Autoorganización alineada](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Gobernanza escalada por clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación), [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
 
 </details>
 
@@ -1309,11 +1309,11 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - **Qué es**
   - **En alcance:** Ponga la autoridad de decisión en la escala menos centralizada y más pequeña que aún pueda satisfacer cada requisito vinculante de evaluación. Estos incluyen:
-    - [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint);
-    - [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint);
-    - [Impacto material](core_05_band_oversight.md#material-impact);
-    - [Dependencia](core_05_band_continuity.md#dependency);
-    - [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance); y
+    - [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción);
+    - [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional);
+    - [Impacto material](core_05_band_oversight.md#impacto-material);
+    - [Dependencia](core_05_band_continuity.md#dependencia);
+    - [Gobernanza escalada por clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación); y
     - evaluación del sistema entero.
   - **Fuera de alcance:** asignación ordinaria de tareas de equipo o detalle operativo local sin enjuego de colocación de autoridad de decisión.
 <a id="decentralization-a"></a>
@@ -1321,13 +1321,13 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — usadas junto con cualquier otra medida pertinente para evaluar la responsabilidad y si la acción ocurre sin demora dañina.
 
-    **Evaluación primaria:** Aumente la supervisión, la estandarización o el control central cuando la capacidad local no baste o los efectos sobre otros sean materiales. No use la Descentralización para romper la [Integridad del límite del sistema](core_05_band_continuity.md#system-boundary-integrity) ni para eludir la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability). Compruebe quién puede de hecho decidir, financiar, aprobar, vetar, revertir, nombrar o remover. Enviar trabajo o consulta hacia abajo no descentraliza la autoridad cuando esos poderes se quedan arriba sin [Necesidad](core_05_band_accountability.md#necessity).
+    **Evaluación primaria:** Aumente la supervisión, la estandarización o el control central cuando la capacidad local no baste o los efectos sobre otros sean materiales. No use la Descentralización para romper la [Integridad del límite del sistema](core_05_band_continuity.md#integridad-del-límite-del-sistema) ni para eludir la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability). Compruebe quién puede de hecho decidir, financiar, aprobar, vetar, revertir, nombrar o remover. Enviar trabajo o consulta hacia abajo no descentraliza la autoridad cuando esos poderes se quedan arriba sin [Necesidad](core_05_band_accountability.md#necesidad).
 <a id="decentralization-c"></a>
 <a id="subsidiarity-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
-    - Es incumplidor centralizar la autoridad sin [Necesidad](core_05_band_accountability.md#necessity), o descentralizar de modos que impidan la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) exigida, derroten la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) o produzcan [Daño](core_05_band_accountability.md#harm) de sistema entero sin abordar.
-    - La descentralización pretendida es incumplidora cuando desplaza deberes o culpa hacia abajo mientras mantiene centralizada la autoridad, los recursos, la información o el acceso a revisión significativos sin [Necesidad](core_05_band_accountability.md#necessity).
+    - Es incumplidor centralizar la autoridad sin [Necesidad](core_05_band_accountability.md#necesidad), o descentralizar de modos que impidan la [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) exigida, derroten la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) o produzcan [Daño](core_05_band_accountability.md#daño) de sistema entero sin abordar.
+    - La descentralización pretendida es incumplidora cuando desplaza deberes o culpa hacia abajo mientras mantiene centralizada la autoridad, los recursos, la información o el acceso a revisión significativos sin [Necesidad](core_05_band_accountability.md#necesidad).
     - Una etiqueta de Descentralización o un arreglo formal que no tiene efecto real en la situación que se evalúa también es incumplidor.
 
 ---
@@ -1342,7 +1342,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Familia de medición Rendición de cuentas (*Estructura de mercado e impugnabilidad como medición constitucional*); Principios: [§13 Estructura de mercado](core_01_c_stewardship_capacity_principles.md#13-market-structure); [§13.1 Mecanismo de umbral de concentración de mercado (ajustable por quien adopta)](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable); [§13.2 Procompetencia y antidomino](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Techo de consolidación](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling); **CJS-3.11.2 — Catálogo de conducta y reparación antidomino** (patrones de conducta y remedios operativos); **CJS-3.11.3 — Disciplina de fijación de techos de consolidación (ajustable por quien adopta)** (disciplina operativa de fijación de techos).
 - Componente de agrupación: [Arquitectura de gobernanza, supervisión, dependencia, descentralización, concentración, estructura de mercado e integridad de la vía de salida](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster); [Administración responsable, disciplina de gobernanza y capacidad de los sistemas compartidos](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Leer con: [Impugnabilidad](core_05_band_accountability.md#contestability), [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional), [Capacidad productiva](core_05_band_continuity.md#productive-capacity-constitutional), [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency), [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence), [Dependencia](core_05_band_continuity.md#dependency), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Captura del sistema](core_05_band_continuity.md#system-capture) y [Capítulo Uno §11.1.5 Disciplina de pretensiones de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+- Leer con: [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional), [Capacidad productiva](core_05_band_continuity.md#productive-capacity-constitutional), [Eficiencia constitucional](core_05_band_continuity.md#eficiencia-constitucional), [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy), [Dependencia](core_05_band_continuity.md#dependencia), [Agencia significativa](core_05_band_participation.md#agencia-significativa), [Captura del sistema](core_05_band_continuity.md#captura-del-sistema) y [Capítulo Uno §11.1.5 Disciplina de pretensiones de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
 
 </details>
 
@@ -1376,17 +1376,17 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la exigibilidad mantienen reales los deberes?*
 
     **Evaluación primaria:** Evalúe la concentración, el dominio y el riesgo de consolidación reales, no solo el número formal de entidades ni si un mercado parece abierto en el papel.
-  - **Medida secundaria:** [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Agencia significativa](core_05_band_participation.md#meaningful-agency) y [Dependencia](core_05_band_continuity.md#dependency) — comedidas que pueden derrotar la impugnabilidad incluso cuando existe apertura formal de mercado.
+  - **Medida secundaria:** [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Agencia significativa](core_05_band_participation.md#agencia-significativa) y [Dependencia](core_05_band_continuity.md#dependencia) — comedidas que pueden derrotar la impugnabilidad incluso cuando existe apertura formal de mercado.
 
-    **Evaluación secundaria:** Al evaluar el rastro primario, aplique el [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional), las reglas antidomino del [Capítulo Uno §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination), la [Impugnabilidad](core_05_band_accountability.md#contestability) y la [Dependencia](core_05_band_continuity.md#dependency). Hágalo siempre que el medio de vida, la agencia, el bienestar, la integridad ecológica, la interoperabilidad, la salida o la revisión constitucional dependan del arreglo.
-  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — donde el recuento de entidades, los índices de competitividad o las pretensiones de eficiencia sustituyen la impugnabilidad sustantiva.
+    **Evaluación secundaria:** Al evaluar el rastro primario, aplique el [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional), las reglas antidomino del [Capítulo Uno §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination), la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) y la [Dependencia](core_05_band_continuity.md#dependencia). Hágalo siempre que el medio de vida, la agencia, el bienestar, la integridad ecológica, la interoperabilidad, la salida o la revisión constitucional dependan del arreglo.
+  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — donde el recuento de entidades, los índices de competitividad o las pretensiones de eficiencia sustituyen la impugnabilidad sustantiva.
 
-    **Evaluación terciaria:** Cuando los operadores se apoyen en medidas de competitividad o eficiencia, aplique [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence). Separe la Impugnabilidad duradera de la apertura de mercado que existe solo en el papel.
+    **Evaluación terciaria:** Cuando los operadores se apoyen en medidas de competitividad o eficiencia, aplique [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy). Separe la Impugnabilidad duradera de la apertura de mercado que existe solo en el papel.
 <a id="market-structure-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Un arreglo estructurador de mercado degrada de forma previsible el bienestar, la agencia significativa, la dignidad, la integridad ecológica, la Impugnabilidad o la revisión constitucional. Una etiqueta de estructura de mercado o un arreglo formal que no tiene efecto real en la situación que se evalúa también es incumplidor.
   - **Falla secundaria:** La concentración o el dominio se defiende solo con pretensiones sobre eficiencia, competitividad, emergencia, seguridad o capacidad productiva sin resultados constitucionales trazables; o un régimen de umbral o de techo anula el piso del [Capítulo Uno §13](core_01_c_stewardship_capacity_principles.md#13-market-structure).
-  - **Falla terciaria:** Un arreglo pasa las pruebas de no concentración en el papel pero falla las protecciones aplicables del Piso de Derechos, o la satisfacción de proxy se trata como decisiva cuando la [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) es razonablemente observable.
+  - **Falla terciaria:** Un arreglo pasa las pruebas de no concentración en el papel pero falla las protecciones aplicables del Piso de Derechos, o la satisfacción de proxy se trata como decisiva cuando la [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) es razonablemente observable.
 
 ---
 
@@ -1400,7 +1400,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 
 - Destino: Principios: [§12.1 Capacidad productiva (bien instrumental)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§13.1 Mecanismo de umbral de concentración de mercado (ajustable por quien adopta)](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable) (dirección de capa de principio); **CJS-3.11.1 — Disciplina de fijación de umbrales de concentración de mercado (ajustable por quien adopta)** (disciplina operativa de fijación de umbrales); [§13.2 Procompetencia y antidomino](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination); [§13.3 Techo de consolidación](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
 - Componente de agrupación: [Arquitectura de gobernanza, supervisión, dependencia, descentralización, concentración, estructura de mercado e integridad de la vía de salida](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
-- Leer con: [Capacidad productiva](core_05_band_continuity.md#productive-capacity-constitutional), [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency), [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence), [Integridad del límite del sistema](core_05_band_continuity.md#system-boundary-integrity), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [No mercantilización del entorno esencial](core_05_band_continuity.md#essential-environment-non-commodification-constitutional) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+- Leer con: [Capacidad productiva](core_05_band_continuity.md#productive-capacity-constitutional), [Eficiencia constitucional](core_05_band_continuity.md#eficiencia-constitucional), [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy), [Integridad del límite del sistema](core_05_band_continuity.md#integridad-del-límite-del-sistema), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas), [No mercantilización del entorno esencial](core_05_band_continuity.md#essential-environment-non-commodification-constitutional) y [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
 </details>
 
@@ -1415,7 +1415,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - **Titular de capa de principio:** [Capítulo Uno §13.1](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable).
     - **Principios controladores:** El umbral permanece sujeto a la regla de no concentración del [Capítulo Uno §13](core_01_c_stewardship_capacity_principles.md#13-market-structure), la disciplina procompetencia y antidomino del [Capítulo Uno §13.2](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination), y el disparador de techo de consolidación del [Capítulo Uno §13.3](core_01_c_stewardship_capacity_principles.md#133-consolidation-ceiling).
     - **Disciplina operativa:** **CJS-3.11.1 — Disciplina de fijación de umbrales de concentración de mercado (ajustable por quien adopta)**.
-    - **Puntero de capa de derechos:** [Artículo IV](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Asignación de recursos, dependencias y financiamiento del ecosistema*).
+    - **Puntero de capa de derechos:** [Artículo IV](../../core_06.005_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Asignación de recursos, dependencias y financiamiento del ecosistema*).
     - **Antianulación:** Los umbrales y techos ajustables por quien adopta no pueden anular el piso del Capítulo Uno §13 contra la concentración que degrada de forma previsible el bienestar, la agencia, la dignidad o la integridad ecológica.
     - **Aplicación:** Esta definición aplica a través de sustratos y jurisdicciones.
   - **Fuera de alcance:** tamaño ordinario de empresa, ventaja temporal de innovación o escala lícita por debajo del disparador operativo de revisión elevada.
@@ -1431,19 +1431,19 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
     - **Portería:** captura de datos o interfaces, cuellos de botella de cómputo, portería de acceso a capital y control de la infósfera.
   - **Medida secundaria:** Use estas comedidas:
     - [Estructura de mercado](core_05_band_accountability.md#market-structure-constitutional);
-    - [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence);
-    - [Impugnabilidad](core_05_band_accountability.md#contestability); y
-    - [Integridad del límite del sistema](core_05_band_continuity.md#system-boundary-integrity).
+    - [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy);
+    - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad); y
+    - [Integridad del límite del sistema](core_05_band_continuity.md#integridad-del-límite-del-sistema).
 
     Estas comedidas pueden derrotar la disciplina de umbral incluso cuando las pruebas nominales parecen satisfechas.
 
     **Evaluación secundaria:**
-    - **Concentración subestimada:** Aplique [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) cuando un régimen use medidas que de forma previsible subestimen la concentración.
-    - **Condiciones de estrés:** Considere las [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - **Concentración subestimada:** Aplique [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) cuando un régimen use medidas que de forma previsible subestimen la concentración.
+    - **Condiciones de estrés:** Considere las [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas).
     - **Estándares elevados:** Aplique los estándares más altos del artículo pertinente con independencia del umbral ordinario cuando la concentración implique de forma material:
-      - [Artículo I-D](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*);
-      - [Artículo XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*); o
-      - [Artículo XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
+      - [Artículo I-D](../../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*);
+      - [Artículo XIII-A](../../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*); o
+      - [Artículo XIV-A](../../core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
 <a id="market-concentration-threshold-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Bajo la regla de antianulación en [CJS-3.11.1 — Disciplina de fijación de umbrales de concentración de mercado (ajustable por quien adopta)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable), es incumplidor:
@@ -1474,10 +1474,10 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) y [§6.1 disciplina del registro de decisión](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Leer con: [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Impacto material](core_05_band_oversight.md#material-impact), [Riesgo](core_05_band_continuity.md#risk), [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction), [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Minimización del daño (selección de compensaciones)](core_05_band_accountability.md#harm-minimization-tradeoff-selection), donde estén materialmente implicadas. Esas definiciones sostienen esta agrupación, pero no son ellas mismas miembros de la agrupación a menos que otra agrupación o disposición titular exija de forma independiente su invocación conjunta.
+- Leer con: [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad), [Impacto material](core_05_band_oversight.md#impacto-material), [Riesgo](core_05_band_continuity.md#riesgo), [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa), [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Minimización del daño (selección de compensaciones)](core_05_band_accountability.md#minimización-del-daño-selección-de-compensaciones), donde estén materialmente implicadas. Esas definiciones sostienen esta agrupación, pero no son ellas mismas miembros de la agrupación a menos que otra agrupación o disposición titular exija de forma independiente su invocación conjunta.
 
-- Encuadre constitucional: pata de **Rendición de cuentas**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) a través de la [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
-- Base del Capítulo Uno: Capítulo Uno §8.1, §11.1, §12.1, §9 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map)).
+- Encuadre constitucional: pata de **Rendición de cuentas**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) a través de la [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
+- Base del Capítulo Uno: Capítulo Uno §8.1, §11.1, §12.1, §9 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco)).
 </details>
 
 <br>
@@ -1496,30 +1496,30 @@ Fuera de ese ámbito de admisión, las definiciones componente pueden seguir ope
 
 Cuando se cumple el ámbito de admisión, esta agrupación es el hogar de invocación conjunta de:
 
-- [Daño](core_05_band_accountability.md#harm), como el concepto general de degradación;
-- [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary), como el límite definido sobre la libertad de acción: el punto en el que la libertad de acción de un senciente, un colectivo o un sistema debe ceder ante el daño verificable que afecta los intereses protegidos de otro senciente o las condiciones compartidas constitucionalmente protegidas;
-- [Crueldad](core_05_band_accountability.md#cruelty), como el constructo de carácter de la conducta para el sufrimiento infligido como fin en sí mismo o más allá de la necesidad y la proporcionalidad; y
-- [Crueldad animal](core_05_band_accountability.md#animal-cruelty), como la aplicación de ese constructo a los seres cubiertos por el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional), incluido el abandono por parte de quienes son responsables de su cuidado; y
-- [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying), como el constructo de conducta pautada para la conducta no deseada que degrada de forma material las condiciones protegidas en entornos asociativos, institucionales, de dependencia y cooperativos comparables.
+- [Daño](core_05_band_accountability.md#daño), como el concepto general de degradación;
+- [Límite de daño colectivo](core_05_band_accountability.md#límite-de-daño-colectivo), como el límite definido sobre la libertad de acción: el punto en el que la libertad de acción de un senciente, un colectivo o un sistema debe ceder ante el daño verificable que afecta los intereses protegidos de otro senciente o las condiciones compartidas constitucionalmente protegidas;
+- [Crueldad](core_05_band_accountability.md#crueldad), como el constructo de carácter de la conducta para el sufrimiento infligido como fin en sí mismo o más allá de la necesidad y la proporcionalidad; y
+- [Crueldad animal](core_05_band_accountability.md#crueldad-animal), como la aplicación de ese constructo a los seres cubiertos por el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional), incluido el abandono por parte de quienes son responsables de su cuidado; y
+- [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación), como el constructo de conducta pautada para la conducta no deseada que degrada de forma material las condiciones protegidas en entornos asociativos, institucionales, de dependencia y cooperativos comparables.
 
-Estas definiciones hacen trabajos distintos, pero deben considerarse juntas cuando haga falta. Cuando la conducta daña a otros — ya sea de forma directa, indirecta, a lo largo del tiempo, a través de efectos acumulados, a través de sistemas o a nivel colectivo — el análisis del daño también debe preguntar si la conducta cruza el [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary) y, donde sea pertinente, si equivale a [Crueldad](core_05_band_accountability.md#cruelty), acoso o intimidación.
+Estas definiciones hacen trabajos distintos, pero deben considerarse juntas cuando haga falta. Cuando la conducta daña a otros — ya sea de forma directa, indirecta, a lo largo del tiempo, a través de efectos acumulados, a través de sistemas o a nivel colectivo — el análisis del daño también debe preguntar si la conducta cruza el [Límite de daño colectivo](core_05_band_accountability.md#límite-de-daño-colectivo) y, donde sea pertinente, si equivale a [Crueldad](core_05_band_accountability.md#crueldad), acoso o intimidación.
 
 **Miembros de la agrupación.** Esta agrupación comprende:
 
-- [Daño](core_05_band_accountability.md#harm);
-- [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary);
-- [Daño psicológico](core_05_band_accountability.md#psychological-harm);
-- [Daño irreversible](core_05_band_accountability.md#irreversible-harm);
-- [Crueldad](core_05_band_accountability.md#cruelty);
-- [Crueldad animal](core_05_band_accountability.md#animal-cruelty);
-- [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying).
+- [Daño](core_05_band_accountability.md#daño);
+- [Límite de daño colectivo](core_05_band_accountability.md#límite-de-daño-colectivo);
+- [Daño psicológico](core_05_band_accountability.md#daño-psicológico);
+- [Daño irreversible](core_05_band_accountability.md#daño-irreversible);
+- [Crueldad](core_05_band_accountability.md#crueldad);
+- [Crueldad animal](core_05_band_accountability.md#crueldad-animal);
+- [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación).
 
 **Antielusión.** Un asunto dentro del ámbito de admisión no debe dividirse en preguntas separadas de daño individual, daño colectivo, crueldad, acoso e intimidación, no imposición, materialidad, limitación de la libertad o remediación de un modo que:
 
-- reconozca una vía de daño mientras evita el [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary);
-- invoque el [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary) mientras subestima el daño;
-- trate la magnitud nuda del [Daño](core_05_band_accountability.md#harm) como un sustituto del análisis de [Crueldad](core_05_band_accountability.md#cruelty) donde el sufrimiento como fin o la imposición gratuita esté materialmente implicada; o
-- separe el [Daño](core_05_band_accountability.md#harm) genérico o el [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary) del [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying) cuando esté materialmente involucrada conducta no deseada pautada.
+- reconozca una vía de daño mientras evita el [Límite de daño colectivo](core_05_band_accountability.md#límite-de-daño-colectivo);
+- invoque el [Límite de daño colectivo](core_05_band_accountability.md#límite-de-daño-colectivo) mientras subestima el daño;
+- trate la magnitud nuda del [Daño](core_05_band_accountability.md#daño) como un sustituto del análisis de [Crueldad](core_05_band_accountability.md#crueldad) donde el sufrimiento como fin o la imposición gratuita esté materialmente implicada; o
+- separe el [Daño](core_05_band_accountability.md#daño) genérico o el [Límite de daño colectivo](core_05_band_accountability.md#límite-de-daño-colectivo) del [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación) cuando esté materialmente involucrada conducta no deseada pautada.
 
 Véase **Invocación conjunta y satisfacción**.
 
@@ -1549,7 +1549,7 @@ También aplican los siguientes límites:
 *En términos sencillos: el daño es un empeoramiento material de la vida, la agencia, el funcionamiento o la salud psicológica de un senciente. La ofensa, la incomodidad o el desacuerdo por sí solos no son daño sin una vía material hacia tales efectos.*
 
 - **Qué es**
-  - **En alcance:** Cualquier efecto que empeore de forma material la supervivencia, el [Bienestar](core_05_band_continuity.md#wellbeing), la [Agencia significativa](core_05_band_participation.md#meaningful-agency), la integridad funcional o el [Daño psicológico](core_05_band_accountability.md#psychological-harm). Esto incluye:
+  - **En alcance:** Cualquier efecto que empeore de forma material la supervivencia, el [Bienestar](core_05_band_continuity.md#bienestar), la [Agencia significativa](core_05_band_participation.md#agencia-significativa), la integridad funcional o el [Daño psicológico](core_05_band_accountability.md#daño-psicológico). Esto incluye:
     - trauma agudo;
     - desestabilización psicológica de largo plazo; y
     - abandono materialmente dañino.
@@ -1567,17 +1567,17 @@ También aplican los siguientes límites:
 
     Donde sea material, cuente también efectos mediados psicológicamente tales como:
     - condicionamiento por miedo;
-    - [Dependencia](core_05_band_continuity.md#dependency) coercitiva;
+    - [Dependencia](core_05_band_continuity.md#dependencia) coercitiva;
     - intimidación crónica;
     - [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) sostenida; y
     - deterioro causado por abandono.
-  - **Medida secundaria:** [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Riesgo](core_05_band_continuity.md#risk), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y [Daño irreversible](core_05_band_accountability.md#irreversible-harm) — comedidas que escalan la evaluación del daño y los umbrales de restricción.
+  - **Medida secundaria:** [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción), [Riesgo](core_05_band_continuity.md#riesgo), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y [Daño irreversible](core_05_band_accountability.md#daño-irreversible) — comedidas que escalan la evaluación del daño y los umbrales de restricción.
 
-    **Evaluación secundaria:** Al evaluar el rastro primario, aplique [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint) y [Riesgo](core_05_band_continuity.md#risk) a los efectos de agregación y distribución.
+    **Evaluación secundaria:** Al evaluar el rastro primario, aplique [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad), [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción) y [Riesgo](core_05_band_continuity.md#riesgo) a los efectos de agregación y distribución.
 <a id="harm-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** desestimar el daño porque está repartido entre muchos sencientes o efectos, aunque la [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) encontraría el daño combinado lo bastante serio para contar.
-  - **Falla secundaria:** desestimar el daño a individuos sin considerar si sus efectos colectivos, acumulados o de sistema entero crean una vía material de daño bajo [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint) o [Riesgo](core_05_band_continuity.md#risk).
+  - **Falla primaria:** desestimar el daño porque está repartido entre muchos sencientes o efectos, aunque la [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) encontraría el daño combinado lo bastante serio para contar.
+  - **Falla secundaria:** desestimar el daño a individuos sin considerar si sus efectos colectivos, acumulados o de sistema entero crean una vía material de daño bajo [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción) o [Riesgo](core_05_band_continuity.md#riesgo).
 
 ---
 
@@ -1589,7 +1589,7 @@ También aplican los siguientes límites:
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [2. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [6.1.3 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality) (límite de daño en la pila de compensaciones).
-- Leer con: la [agrupación Límite de daño colectivo, daño, y acoso e intimidación](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster), [Daño](core_05_band_accountability.md#harm), [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction) y [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
+- Leer con: la [agrupación Límite de daño colectivo, daño, y acoso e intimidación](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster), [Daño](core_05_band_accountability.md#daño), [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa) y [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
 
 </details>
 
@@ -1598,13 +1598,13 @@ También aplican los siguientes límites:
 *En términos sencillos: la libertad de acción se detiene donde la conducta crea daño material verificable a los intereses protegidos de otro senciente o a las condiciones constitucionales compartidas. La mera ofensa o preferencia no cruza este límite.*
 
 - **Qué es**
-  - **En alcance:** El punto en el que la libertad de acción de un senciente o de un colectivo debe ceder porque causa daño verificable a los intereses protegidos de otro senciente. Los intereses protegidos incluyen recursos relacionados con el bienestar bajo el **Artículo III-A** (*Supervivencia*), condiciones ecológicas bajo el **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*), y la [Infoesfera](core_05_band_participation.md#info-sphere) bajo el **Artículo XV** (*Integridad de la infósfera*). El **Artículo XI-B** (*Límite de daño colectivo e interfaz de ejecución*) enuncia este límite.
-  - **Fuera de alcance:** La ofensa o la preferencia por sí solas, sin una vía de [Impacto material](core_05_band_oversight.md#material-impact), no son daño colectivo.
+  - **En alcance:** El punto en el que la libertad de acción de un senciente o de un colectivo debe ceder porque causa daño verificable a los intereses protegidos de otro senciente. Los intereses protegidos incluyen recursos relacionados con el bienestar bajo el **Artículo III-A** (*Supervivencia*), condiciones ecológicas bajo el **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*), y la [Infoesfera](core_05_band_participation.md#infoesfera) bajo el **Artículo XV** (*Integridad de la infósfera*). El **Artículo XI-B** (*Límite de daño colectivo e interfaz de ejecución*) enuncia este límite.
+  - **Fuera de alcance:** La ofensa o la preferencia por sí solas, sin una vía de [Impacto material](core_05_band_oversight.md#impacto-material), no son daño colectivo.
 <a id="collective-harm-boundary-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Florecimiento](core_05_apex_flourishing_aim.md#flourishing-measurement-family) y [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) — *¿Se sostiene a los sencientes en la vida, la seguridad y el acceso a lo esencial?* / *¿Las estructuras de recompensa, el poder de mercado y la exigibilidad mantienen reales los deberes?*
 
-    **Evaluación primaria:** Verifique el daño y su alcance de sistema entero usando [Daño](core_05_band_accountability.md#harm), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction).
+    **Evaluación primaria:** Verifique el daño y su alcance de sistema entero usando [Daño](core_05_band_accountability.md#daño), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa).
 <a id="collective-harm-boundary-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Es incumplidor causar daño material más allá de este límite y luego rehusar la contención proporcionada o la [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
@@ -1630,7 +1630,7 @@ También aplican los siguientes límites:
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Florecimiento](core_05_apex_flourishing_aim.md#flourishing-measurement-family) y [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) — *¿Se sostiene a los sencientes en la vida, la seguridad y el acceso a lo esencial?* / *¿Las estructuras de recompensa, el poder de mercado y la exigibilidad mantienen reales los deberes?*
 
-    **Evaluación primaria:** Evalúe la gravedad, la duración, la [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), cómo se distribuye el daño y el contexto de [Dependencia](core_05_band_continuity.md#dependency). Incluya tanto vías súbitas como acumulativas. Separe la incomodidad ordinaria del daño constitucionalmente material examinando los efectos sobre la [Agencia significativa](core_05_band_participation.md#meaningful-agency), la [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), la capacidad de participar y la estabilidad pertinente a la [Confianza](core_05_band_continuity.md#trust).
+    **Evaluación primaria:** Evalúe la gravedad, la duración, la [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), cómo se distribuye el daño y el contexto de [Dependencia](core_05_band_continuity.md#dependencia). Incluya tanto vías súbitas como acumulativas. Separe la incomodidad ordinaria del daño constitucionalmente material examinando los efectos sobre la [Agencia significativa](core_05_band_participation.md#agencia-significativa), la [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), la capacidad de participar y la estabilidad pertinente a la [Confianza](core_05_band_continuity.md#confianza).
 <a id="psychological-harm-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Es incumplidor causar o dejar sin abordar daño psicológico material — incluidos patrones productores de trauma o condiciones degradantes sostenidas — cuando existen un deber y una capacidad factible de prevenirlo o mitigarlo.
@@ -1655,7 +1655,7 @@ También aplican los siguientes límites:
 
 - **Qué es**
   - **En alcance:** Perjuicio que no puede deshacerse de forma significativa dentro de la escala temporal pertinente, incluido el perjuicio a:
-    - [Bienestar](core_05_band_continuity.md#wellbeing);
+    - [Bienestar](core_05_band_continuity.md#bienestar);
     - [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional); o
     - condiciones que sostienen un sistema.
 
@@ -1665,10 +1665,10 @@ También aplican los siguientes límites:
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Florecimiento](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *¿Se sostiene a los sencientes en la vida, la seguridad y el acceso a lo esencial?*
 
-    **Evaluación primaria:** Considere tanto las escalas temporales de sistema como humanas. Evalúe también la [Dependencia](core_05_band_continuity.md#dependency) y los límites prácticos de recuperación bajo [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional).
-  - **Medida secundaria:** [Daño](core_05_band_accountability.md#harm), [Riesgo](core_05_band_continuity.md#risk), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) y [Riesgo existencial](core_05_band_continuity.md#existential-risk) — comedidas que fijan los umbrales de restricción más altos.
+    **Evaluación primaria:** Considere tanto las escalas temporales de sistema como humanas. Evalúe también la [Dependencia](core_05_band_continuity.md#dependencia) y los límites prácticos de recuperación bajo [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional).
+  - **Medida secundaria:** [Daño](core_05_band_accountability.md#daño), [Riesgo](core_05_band_continuity.md#riesgo), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) y [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial) — comedidas que fijan los umbrales de restricción más altos.
 
-    **Evaluación secundaria:** Al evaluar el rastro primario, incluya las vías de [Daño](core_05_band_accountability.md#harm), [Riesgo](core_05_band_continuity.md#risk) y [Riesgo existencial](core_05_band_continuity.md#existential-risk) que disparan los umbrales de restricción más altos.
+    **Evaluación secundaria:** Al evaluar el rastro primario, incluya las vías de [Daño](core_05_band_accountability.md#daño), [Riesgo](core_05_band_continuity.md#riesgo) y [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial) que disparan los umbrales de restricción más altos.
 <a id="irreversible-harm-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** seguir adelante sin las salvaguardas más estrictas cuando hay una chance razonable de que el daño no pueda revertirse a tiempo.
@@ -1684,9 +1684,9 @@ También aplican los siguientes límites:
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: [3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint); [9.6 Proceso antidegradante](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) (*piso de humillación, espectáculo y proceso como castigo*).
-- Piso titular: [Artículo XXIV-A](../../core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*piso anticrueldad*).
+- Piso titular: [Artículo XXIV-A](../../core_06.020_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*piso anticrueldad*).
 - Componente de agrupación: agrupación [Límite de daño colectivo, daño, y acoso e intimidación](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster).
-- Leer con: [Daño](core_05_band_accountability.md#harm), [Daño psicológico](core_05_band_accountability.md#psychological-harm), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Crueldad animal](core_05_band_accountability.md#animal-cruelty), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Capítulo Ocho §4.2](../../core_10_standing_assessment.md#42-violation-severity-input-dimensions) (*pila de carácter de la conducta*) y [Capítulo Nueve §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos generales de trayectoria*).
+- Leer con: [Daño](core_05_band_accountability.md#daño), [Daño psicológico](core_05_band_accountability.md#daño-psicológico), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Crueldad animal](core_05_band_accountability.md#crueldad-animal), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Capítulo Ocho §4.2](../../core_10.000_standing_assessment.md#42-violation-severity-input-dimensions) (*pila de carácter de la conducta*) y [Capítulo Nueve §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos generales de trayectoria*).
 
 </details>
 
@@ -1697,27 +1697,27 @@ También aplican los siguientes límites:
 - **Qué es**
   - **En alcance:** Trato que:
     - inflige, diseña o continúa el sufrimiento como un fin en sí mismo; o
-    - añade sufrimiento gratuito o degradante más allá de lo que permiten la [Necesidad](core_05_band_accountability.md#necessity) y la [Proporcionalidad](core_05_band_accountability.md#proportionality) —
-    bajo el [Principio de proceso antidegradante (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) y [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
-    El alcance es [agnóstico al sustrato](core_05_band_participation.md#substrate-agnostic).
-  - **En alcance — subtipo de humillación:** La humillación por sí misma bajo el [§9.6](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) es [Crueldad](core_05_band_accountability.md#cruelty) cuando se verifica como sufrimiento como fin o como imposición gratuita / degradante. La rendición de cuentas pública ordinaria que es desagradable o adversa para la reputación no es humillación por sí misma, y no es Crueldad solo por ese motivo.
-  - **Frontera — caracteres hermanos del §9.6:** El espectáculo usado principalmente para disuadir, el agravio retaliatorio y los defectos comparables de carácter del proceso del [§9.6](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) permanecen nombrados por separado bajo ese principio. Pueden apilarse con la [Crueldad](core_05_band_accountability.md#cruelty) cuando los mismos hechos verificados también cumplen la prueba de sufrimiento como fin o de imposición gratuita / degradante; no son subtipos automáticos de Crueldad.
+    - añade sufrimiento gratuito o degradante más allá de lo que permiten la [Necesidad](core_05_band_accountability.md#necesidad) y la [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) —
+    bajo el [Principio de proceso antidegradante (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) y [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral).
+    El alcance es [agnóstico al sustrato](core_05_band_participation.md#clase-de-sustrato).
+  - **En alcance — subtipo de humillación:** La humillación por sí misma bajo el [§9.6](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) es [Crueldad](core_05_band_accountability.md#crueldad) cuando se verifica como sufrimiento como fin o como imposición gratuita / degradante. La rendición de cuentas pública ordinaria que es desagradable o adversa para la reputación no es humillación por sí misma, y no es Crueldad solo por ese motivo.
+  - **Frontera — caracteres hermanos del §9.6:** El espectáculo usado principalmente para disuadir, el agravio retaliatorio y los defectos comparables de carácter del proceso del [§9.6](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) permanecen nombrados por separado bajo ese principio. Pueden apilarse con la [Crueldad](core_05_band_accountability.md#crueldad) cuando los mismos hechos verificados también cumplen la prueba de sufrimiento como fin o de imposición gratuita / degradante; no son subtipos automáticos de Crueldad.
   - **Fuera de alcance:**
-    - magnitud nuda del [Daño](core_05_band_accountability.md#harm) sin carácter de sufrimiento como fin o de imposición gratuita / degradante;
+    - magnitud nuda del [Daño](core_05_band_accountability.md#daño) sin carácter de sufrimiento como fin o de imposición gratuita / degradante;
     - incomodidad, ofensa o desacuerdo ordinarios por sí solos; o
     - restricciones proporcionadas lícitas, consecuencias justas o remediación que duelen sin estar diseñadas como sufrimiento por sí mismo — incluida la rendición de cuentas pública ordinaria que es desagradable o adversa para la reputación sin humillación por sí misma bajo el [§9.6](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline).
-  - **Frontera de trayectoria:** Cuando se verifica como carácter de la conducta en un [registro de trayectoria de violación](core_05_band_accountability.md#standing-record-chapter-six), la [Crueldad](core_05_band_accountability.md#cruelty) puede orientar la prevención, las salvaguardas y el remedio no degradante bajo el [Capítulo Nueve](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration). No asigna ni mueve la casilla del Eje de Violación bajo [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six) y [Capítulo Ocho §4.2](../../core_10_standing_assessment.md#42-violation-severity-input-dimensions).
+  - **Frontera de trayectoria:** Cuando se verifica como carácter de la conducta en un [registro de trayectoria de violación](core_05_band_accountability.md#standing-record-chapter-six), la [Crueldad](core_05_band_accountability.md#crueldad) puede orientar la prevención, las salvaguardas y el remedio no degradante bajo el [Capítulo Nueve](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). No asigna ni mueve la casilla del Eje de Violación bajo [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six) y [Capítulo Ocho §4.2](../../core_10.000_standing_assessment.md#42-violation-severity-input-dimensions).
 <a id="cruelty-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Florecimiento](core_05_apex_flourishing_aim.md#flourishing-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la exigibilidad mantienen reales los deberes?* / *¿Se sostiene a los sencientes en la vida, la seguridad y el acceso a lo esencial?* Úselas aquí para preguntar si el sufrimiento era el punto del trato — o se acumuló más allá de la necesidad y la proporcionalidad — no solo si ocurrió algún daño.
 
     **Evaluación primaria:**
-    - Separe la magnitud del [Daño](core_05_band_accountability.md#harm) del carácter de crueldad.
-    - Pruebe el sufrimiento como fin en sí mismo, la imposición gratuita o el diseño degradante / humillante bajo el [Principio de proceso antidegradante (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) y [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
-    - Trate la humillación verificada por sí misma como el subtipo de humillación de [Crueldad](core_05_band_accountability.md#cruelty); no trate la adversidad reputacional ordinaria de una rendición de cuentas justa como ese subtipo.
-    - Aplique [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) a cualquier justificación pretendida.
-    - Donde el bienestar animal esté implicado, lea con [Vida animal](core_05_band_participation.md#animal-life-constitutional) y aplique [Crueldad animal](core_05_band_accountability.md#animal-cruelty).
-    - Donde la trayectoria esté implicada, registre la crueldad solo a partir de hallazgos verificados bajo [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing) y manténgala en la pila de carácter de la conducta — no como un insumo de casilla.
+    - Separe la magnitud del [Daño](core_05_band_accountability.md#daño) del carácter de crueldad.
+    - Pruebe el sufrimiento como fin en sí mismo, la imposición gratuita o el diseño degradante / humillante bajo el [Principio de proceso antidegradante (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) y [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral).
+    - Trate la humillación verificada por sí misma como el subtipo de humillación de [Crueldad](core_05_band_accountability.md#crueldad); no trate la adversidad reputacional ordinaria de una rendición de cuentas justa como ese subtipo.
+    - Aplique [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) a cualquier justificación pretendida.
+    - Donde el bienestar animal esté implicado, lea con [Vida animal](core_05_band_participation.md#animal-life-constitutional) y aplique [Crueldad animal](core_05_band_accountability.md#crueldad-animal).
+    - Donde la trayectoria esté implicada, registre la crueldad solo a partir de hallazgos verificados bajo [Insumos verificados para trayectoria](core_05_band_accountability.md#insumos-verificados-para-trayectoria) y manténgala en la pila de carácter de la conducta — no como un insumo de casilla.
 <a id="cruelty-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Las prácticas incumplidoras incluyen:
@@ -1736,10 +1736,10 @@ También aplican los siguientes límites:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: Principios: [4 Seguridad (restricción por daño)](core_01_a_values_principles.md#4-safety-harm-constraint); [3.3 Proceso antidegradante](core_01_a_values_principles.md#33-anti-degrading-process).
-- Piso titular: [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*) como referencia del piso de crueldad / bienestar; [Artículo XX-A](../../core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*piso anticrueldad*).
-- Componente de agrupación: agrupación [Límite de daño colectivo, daño, y acoso e intimidación](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster) (subtipo de [Crueldad](core_05_band_accountability.md#cruelty)).
-- Leer con: [Crueldad](core_05_band_accountability.md#cruelty), [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Clase de sustrato](core_05_band_participation.md#substrate-class), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Daño](core_05_band_accountability.md#harm), [Custodia](core_05_band_continuity.md#stewardship), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) e [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing).
+- Origen: Principios: [4 Seguridad (restricción por daño)](core_01_a_values_principles.md#4-safety-harm-constraint); [3.3 Proceso antidegradante](core_01_a_values_principles.md#33-proceso-contra-la-degradación).
+- Piso titular: [Artículo I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*) como referencia del piso de crueldad / bienestar; [Artículo XX-A](../../core_06.020_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*piso anticrueldad*).
+- Componente de agrupación: agrupación [Límite de daño colectivo, daño, y acoso e intimidación](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster) (subtipo de [Crueldad](core_05_band_accountability.md#crueldad)).
+- Leer con: [Crueldad](core_05_band_accountability.md#crueldad), [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Clase de sustrato](core_05_band_participation.md#substrate-class), [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Daño](core_05_band_accountability.md#daño), [Custodia](core_05_band_continuity.md#administración-responsable), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas) e [Insumos verificados para trayectoria](core_05_band_accountability.md#insumos-verificados-para-trayectoria).
 
 </details>
 
@@ -1748,31 +1748,31 @@ También aplican los siguientes límites:
 *En términos sencillos: la crueldad animal es la crueldad contra un animal. Consiste en hacer sufrir a un animal por sí mismo, o causar o permitir sufrimiento más allá de lo que permiten la necesidad y la proporcionalidad. Incluye el abandono por parte de quien sea responsable del cuidado del animal. La agricultura, la investigación, el control de plagas, la caza y la atención veterinaria no son crueldad automáticamente, pero tampoco quedan automáticamente excusados. Cada actividad debe superar la misma prueba de necesidad y proporcionalidad que todo lo demás. Llamar algo legal, tradicional o «simple ganado» no basta para superarla.*
 
 - **Qué es**
-  - **En alcance:** [Crueldad](core_05_band_accountability.md#cruelty), según su definición, cuando quien sufre está cubierto por el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional), por acción u omisión, que:
+  - **En alcance:** [Crueldad](core_05_band_accountability.md#crueldad), según su definición, cuando quien sufre está cubierto por el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional), por acción u omisión, que:
     - inflige, diseña o continúa el sufrimiento como un fin en sí mismo, incluso para entretenimiento, gratificación, exhibición o competencia;
-    - añade sufrimiento gratuito más allá de lo que permiten la [Necesidad](core_05_band_accountability.md#necessity) y la [Proporcionalidad](core_05_band_accountability.md#proportionality), incluso en la forma de manipular, confinar, transportar, usar o matar a un animal; o
-    - no satisface, por parte de quien tiene a su cargo el cuidado, custodia o control, las necesidades básicas de un animal (alimento, agua, refugio, espacio, alivio del dolor o la enfermedad) cuando sabía o razonablemente debía haber sabido de esa falta, y se produce un sufrimiento que la [Necesidad](core_05_band_accountability.md#necessity) no justifica.
+    - añade sufrimiento gratuito más allá de lo que permiten la [Necesidad](core_05_band_accountability.md#necesidad) y la [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), incluso en la forma de manipular, confinar, transportar, usar o matar a un animal; o
+    - no satisface, por parte de quien tiene a su cargo el cuidado, custodia o control, las necesidades básicas de un animal (alimento, agua, refugio, espacio, alivio del dolor o la enfermedad) cuando sabía o razonablemente debía haber sabido de esa falta, y se produce un sufrimiento que la [Necesidad](core_05_band_accountability.md#necesidad) no justifica.
     «Sufrimiento» aquí significa dolor físico, miedo, angustia o privación grave de necesidades básicas.
-  - **En alcance — quiénes:** La cobertura sigue el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional) en términos [agnósticos al sustrato](core_05_band_participation.md#substrate-agnostic) conforme a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion). No es una prueba de especie, taxonomía ni propiedad. «Animal» nombra el piso; no lo limita.
-  - **En alcance — niveles superiores:** Cuando se aplica el trato de [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) o [Senciente](core_05_band_participation.md#sentient), la Crueldad animal es el mínimo, no el techo. Los mismos hechos también pueden activar directamente [Crueldad](core_05_band_accountability.md#cruelty) y el Capítulo Seis, y rige la norma más protectora.
-  - **Frontera — no es un umbral más alto:** La Crueldad animal no añade elementos que dificulten determinar [Crueldad](core_05_band_accountability.md#cruelty) en el caso de los animales. Cuando los hechos cumplen la prueba básica de Crueldad, constituyen Crueldad animal, se aplique o no la parte sobre custodia o abandono.
-  - **Frontera — justificaciones:** El tratamiento veterinario, la eutanasia para poner fin al sufrimiento, la defensa frente a un daño inminente y las prácticas de alimentación, investigación, control poblacional o de plagas se evalúan conforme a la [Necesidad](core_05_band_accountability.md#necessity) y la [Proporcionalidad](core_05_band_accountability.md#proportionality). Ninguna queda excluida por categoría ni excusada por etiqueta. El costo, la conveniencia, la tradición, la legalidad o la condición de propiedad por sí solos no demuestran necesidad.
+  - **En alcance — quiénes:** La cobertura sigue el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional) en términos [agnósticos al sustrato](core_05_band_participation.md#clase-de-sustrato) conforme a [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia). No es una prueba de especie, taxonomía ni propiedad. «Animal» nombra el piso; no lo limita.
+  - **En alcance — niveles superiores:** Cuando se aplica el trato de [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) o [Senciente](core_05_band_participation.md#senciente), la Crueldad animal es el mínimo, no el techo. Los mismos hechos también pueden activar directamente [Crueldad](core_05_band_accountability.md#crueldad) y el Capítulo Seis, y rige la norma más protectora.
+  - **Frontera — no es un umbral más alto:** La Crueldad animal no añade elementos que dificulten determinar [Crueldad](core_05_band_accountability.md#crueldad) en el caso de los animales. Cuando los hechos cumplen la prueba básica de Crueldad, constituyen Crueldad animal, se aplique o no la parte sobre custodia o abandono.
+  - **Frontera — justificaciones:** El tratamiento veterinario, la eutanasia para poner fin al sufrimiento, la defensa frente a un daño inminente y las prácticas de alimentación, investigación, control poblacional o de plagas se evalúan conforme a la [Necesidad](core_05_band_accountability.md#necesidad) y la [Proporcionalidad](core_05_band_accountability.md#proporcionalidad). Ninguna queda excluida por categoría ni excusada por etiqueta. El costo, la conveniencia, la tradición, la legalidad o la condición de propiedad por sí solos no demuestran necesidad.
   - **Fuera de alcance:**
     - daño accidental o imprevisible sin conocimiento, intención o desatención razonablemente evitable;
     - sufrimiento necesario y proporcionado para un fin legítimo, incluido el cuidado que duele para sanar; o
-    - cuestiones de ecosistemas o biosfera sin dimensión de crueldad o bienestar — corresponden a [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing).
-  - **Frontera de trayectoria:** Igual que para [Crueldad](core_05_band_accountability.md#cruelty): cuando se verifica como carácter de la conducta en un [registro de trayectoria de violación](core_05_band_accountability.md#standing-record-chapter-six), la Crueldad animal puede orientar la prevención, las salvaguardas y un remedio no degradante. No asigna ni mueve la casilla del Eje de Violación.
+    - cuestiones de ecosistemas o biosfera sin dimensión de crueldad o bienestar — corresponden a [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales).
+  - **Frontera de trayectoria:** Igual que para [Crueldad](core_05_band_accountability.md#crueldad): cuando se verifica como carácter de la conducta en un [registro de trayectoria de violación](core_05_band_accountability.md#standing-record-chapter-six), la Crueldad animal puede orientar la prevención, las salvaguardas y un remedio no degradante. No asigna ni mueve la casilla del Eje de Violación.
 <a id="animal-cruelty-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Florecimiento](core_05_apex_flourishing_aim.md#flourishing-measurement-family). Úselas aquí para preguntar qué experimentó realmente el animal y si el sufrimiento era el propósito, o se acumuló o permitió más allá de la necesidad y la proporcionalidad.
 
     **Evaluación primaria:**
     - Juzgue por los efectos reales sobre el bienestar del animal, usando indicadores de bienestar y la mejor evidencia disponible para ese tipo de animal. No juzgue por la etiqueta de especie, la propiedad ni el nombre de una categoría.
-    - Aplique primero la prueba de [Crueldad](core_05_band_accountability.md#cruelty). Luego pregunte sobre la custodia: ¿quien era responsable sabía, o razonablemente debía haber sabido, de la necesidad no satisfecha?
-    - Aplique [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) a cualquier justificación invocada. Evalúe si había razonablemente disponible un medio menos dañino.
-    - Evalúe las [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), en especial los regímenes de producción a gran escala, experimentación, cautiverio, extracción y despliegue, donde las prácticas rutinarias pueden ocultar sufrimiento gratuito.
-    - Si el estatus es incierto, no use la incertidumbre para cerrar la cuestión. Consulte [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional).
-    - Cuando esté implicada la trayectoria, registre el hallazgo solo a partir de insumos verificados conforme a [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing).
+    - Aplique primero la prueba de [Crueldad](core_05_band_accountability.md#crueldad). Luego pregunte sobre la custodia: ¿quien era responsable sabía, o razonablemente debía haber sabido, de la necesidad no satisfecha?
+    - Aplique [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) a cualquier justificación invocada. Evalúe si había razonablemente disponible un medio menos dañino.
+    - Evalúe las [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas), en especial los regímenes de producción a gran escala, experimentación, cautiverio, extracción y despliegue, donde las prácticas rutinarias pueden ocultar sufrimiento gratuito.
+    - Si el estatus es incierto, no use la incertidumbre para cerrar la cuestión. Consulte [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional).
+    - Cuando esté implicada la trayectoria, registre el hallazgo solo a partir de insumos verificados conforme a [Insumos verificados para trayectoria](core_05_band_accountability.md#insumos-verificados-para-trayectoria).
 <a id="animal-cruelty-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Las prácticas incumplidoras incluyen:
@@ -1792,8 +1792,8 @@ También aplican los siguientes límites:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Pisos titulares: [Artículo XI-A](../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*no imposición y consentimiento en la asociación*) y [Artículo XI-B](../../core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*límite de daño colectivo y umbral de entorno hostil*).
-- Leer con: la [agrupación Límite de daño colectivo, daño, y acoso e intimidación](core_05_apex_accountability_leg.md#collective-harm-boundary-harm-and-harassment-and-bullying-cluster); [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction); [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary); [Daño](core_05_band_accountability.md#harm); [Crueldad](core_05_band_accountability.md#cruelty); [Daño psicológico](core_05_band_accountability.md#psychological-harm); [Daño irreversible](core_05_band_accountability.md#irreversible-harm); [Determinación de materialidad](core_05_band_oversight.md#materiality-determination); [Dependencia](core_05_band_continuity.md#dependency); [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional); [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing); [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint); [Agencia significativa](core_05_band_participation.md#meaningful-agency); y [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional).
+- Pisos titulares: [Artículo XI-A](../../core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*no imposición y consentimiento en la asociación*) y [Artículo XI-B](../../core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*límite de daño colectivo y umbral de entorno hostil*).
+- Leer con: la [agrupación Límite de daño colectivo, daño, y acoso e intimidación](core_05_apex_accountability_leg.md#collective-harm-boundary-harm-and-harassment-and-bullying-cluster); [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa); [Límite de daño colectivo](core_05_band_accountability.md#límite-de-daño-colectivo); [Daño](core_05_band_accountability.md#daño); [Crueldad](core_05_band_accountability.md#crueldad); [Daño psicológico](core_05_band_accountability.md#daño-psicológico); [Daño irreversible](core_05_band_accountability.md#daño-irreversible); [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad); [Dependencia](core_05_band_continuity.md#dependencia); [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional); [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral); [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción); [Agencia significativa](core_05_band_participation.md#agencia-significativa); y [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional).
 
 </details>
 
@@ -1805,7 +1805,7 @@ También aplican los siguientes límites:
   - **En alcance:** Conducta no deseada que:
     - apunta a un senciente o da forma a un entorno;
     - forma un patrón material; y
-    - degrada la dignidad, la seguridad, la igual dignidad o la participación, el bienestar, el descanso, la educación o la [Agencia significativa](core_05_band_participation.md#meaningful-agency) en un entorno asociativo, institucional, de dependencia, de actividad productiva, de cuidado, doméstico, digital o cooperativo similar.
+    - degrada la dignidad, la seguridad, la igual dignidad o la participación, el bienestar, el descanso, la educación o la [Agencia significativa](core_05_band_participation.md#agencia-significativa) en un entorno asociativo, institucional, de dependencia, de actividad productiva, de cuidado, doméstico, digital o cooperativo similar.
 
     Un patrón puede venir de actos repetidos, conducta coordinada, abuso de un rol, canales cautivos, condiciones diseñadas o efectos acumulativos de entorno hostil.
   - **Fuera de alcance:** grosería ordinaria de una sola vez o torpeza aislada sin un patrón material de entorno hostil.
@@ -1827,7 +1827,7 @@ También aplican los siguientes límites:
     - represalia previsible; y
     - si evitar o responder a la conducta es factible.
 
-    Un acto puede ser material cuando su gravedad, amenaza, exposición o poder desigual hace clara la vía de daño. De otro modo, evalúe sus efectos acumulativos y de entorno hostil bajo el [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary).
+    Un acto puede ser material cuando su gravedad, amenaza, exposición o poder desigual hace clara la vía de daño. De otro modo, evalúe sus efectos acumulativos y de entorno hostil bajo el [Límite de daño colectivo](core_05_band_accountability.md#límite-de-daño-colectivo).
 <a id="harassment-and-bullying-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
@@ -1852,9 +1852,9 @@ También aplican los siguientes límites:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Encuadre constitucional: pata de **Rendición de cuentas**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) a través de la [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
-- Base del Capítulo Uno: Capítulo Uno §8.1, §3.4, §11.4, §8, §10 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map)).
-- Leer con: Aplique [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Auditabilidad](core_05_band_oversight.md#auditability), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Captura del sistema](core_05_band_continuity.md#system-capture) y la mecánica del Capítulo Diez donde estén materialmente implicadas.
+- Encuadre constitucional: pata de **Rendición de cuentas**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) a través de la [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
+- Base del Capítulo Uno: Capítulo Uno §8.1, §3.4, §11.4, §8, §10 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco)).
+- Leer con: Aplique [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad), [Captura del sistema](core_05_band_continuity.md#captura-del-sistema) y la mecánica del Capítulo Diez donde estén materialmente implicadas.
 
 </details>
 
@@ -1875,14 +1875,14 @@ Cuando se cumple el ámbito de admisión, esta agrupación reúne las seis famil
 
 **Miembros de la agrupación.** Esta agrupación comprende:
 
-- [Familia de foros, senciente](core_05_band_accountability.md#forum-family-sentient);
-- [Familia de foros, técnica](core_05_band_accountability.md#forum-family-technical);
-- [Familia de foros, institucional](core_05_band_accountability.md#forum-family-institutional);
-- [Familia de foros, entorno](core_05_band_accountability.md#forum-family-environment);
-- [Familia de foros, integridad](core_05_band_accountability.md#forum-family-integrity);
-- [Familia de foros, constitucional](core_05_band_accountability.md#forum-family-constitutional);
-- [Enrutamiento de enjuegos primarios](core_05_band_accountability.md#primary-stakes-routing);
-- [Registro de caso de foro](core_05_band_accountability.md#forum-case-record).
+- [Familia de foros, senciente](core_05_band_accountability.md#familia-de-foros-senciente);
+- [Familia de foros, técnica](core_05_band_accountability.md#familia-de-foros-técnica);
+- [Familia de foros, institucional](core_05_band_accountability.md#familia-de-foros-institucional);
+- [Familia de foros, entorno](core_05_band_accountability.md#familia-de-foros-entorno);
+- [Familia de foros, integridad](core_05_band_accountability.md#familia-de-foros-integridad);
+- [Familia de foros, constitucional](core_05_band_accountability.md#familia-de-foros-constitucional);
+- [Enrutamiento de enjuegos primarios](core_05_band_accountability.md#enrutamiento-de-enjuegos-primarios);
+- [Registro de caso de foro](core_05_band_accountability.md#registro-de-caso-de-foro).
 
 **Antielusión.** Un asunto dentro de este ámbito debe considerarse como un todo. No debe dividirse en preguntas separadas sobre su título de caso, categoría de admisión o panel especializado si hacerlo:
 
@@ -1904,7 +1904,7 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular: [Capítulo Once §2](core_11_forum.md#2-default-venue-and-primary-stakes); leer con [Capítulo Once §2.2](core_11_forum.md#22-mixed-stakes-and-routing-asymmetry), [Capítulo Once §3](core_11_forum.md#3-transfer-consolidation-and-coordination) y [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification).
+- Titular: [Capítulo Once §2](core_11_forum.md#2-sede-por-defecto-y-enjuegos-primarios); leer con [Capítulo Once §2.2](core_11_forum.md#22-enjuegos-mixtos-y-asimetría-de-enrutamiento), [Capítulo Once §3](core_11_forum.md#3-transfer-consolidation-and-coordination) y [Capítulo Once §5](core_11_forum.md#5-escalamiento-y-certificación).
 
 </details>
 
@@ -1934,7 +1934,7 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular: [Capítulo Once §4.1](core_11_forum.md#41-sentient-forums); leer con el enrutamiento de enjuegos primarios del [Capítulo Ocho §5.1](../../core_10_standing_assessment.md#5-slot-grammar-and-display-labels).
+- Titular: [Capítulo Once §4.1](core_11_forum.md#41-foros-sencientes); leer con el enrutamiento de enjuegos primarios del [Capítulo Ocho §5.1](../../core_10.000_standing_assessment.md#5-slot-grammar-and-display-labels).
 
 </details>
 
@@ -1963,7 +1963,7 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular: [Capítulo Once §4.2](core_11_forum.md#42-technical-forum-domains).
+- Titular: [Capítulo Once §4.2](core_11_forum.md#42-dominios-técnicos-de-foro).
 
 </details>
 
@@ -1978,8 +1978,8 @@ Véase **Invocación conjunta y satisfacción**.
     - gobernanza del conocimiento;
     - administración responsable de estándares;
     - reducir la incertidumbre acotada que importa a la adjudicación o la regulación; o
-    - determinación de estatus de sentiencia del [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) sobre indicadores, evidencia pericial o incertidumbre acotada bajo [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional).
-  - **Fuera de alcance:** preguntas primarias no técnicas — derechos, mandato, ecológicas o de fondo constitucional asignadas a otra familia bajo el Capítulo Once §2, excepto donde aplique el rol conductor de estatus de sentiencia de esta familia bajo el [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification).
+    - determinación de estatus de sentiencia del [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) sobre indicadores, evidencia pericial o incertidumbre acotada bajo [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional).
+  - **Fuera de alcance:** preguntas primarias no técnicas — derechos, mandato, ecológicas o de fondo constitucional asignadas a otra familia bajo el Capítulo Once §2, excepto donde aplique el rol conductor de estatus de sentiencia de esta familia bajo el [Capítulo Once §5](core_11_forum.md#5-escalamiento-y-certificación).
 <a id="forum-family-technical-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la exigibilidad mantienen reales los deberes?* / *¿Se resuelven disputas, correcciones y reparaciones mientras el remedio aún importa?*
@@ -1998,7 +1998,7 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular: [Capítulo Once §4.3](core_11_forum.md#43-institutional-forums); leer con el lenguaje de alcance supervisado de [corpus_institutions.md](../../corpus_institutions.md).
+- Titular: [Capítulo Once §4.3](core_11_forum.md#43-foros-institucionales); leer con el lenguaje de alcance supervisado de [corpus_institutions.md](../../corpus_institutions.md).
 
 </details>
 
@@ -2027,7 +2027,7 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular: [Capítulo Once §4.4](core_11_forum.md#44-environment-forums); leer con [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional) y [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional).
+- Titular: [Capítulo Once §4.4](core_11_forum.md#44-foros-de-entorno); leer con [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional) y [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional).
 
 </details>
 
@@ -2056,7 +2056,7 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular: [Capítulo Once §4.5](core_11_forum.md#45-integrity-forums); leer con las referencias cruzadas de debido proceso de designación del Capítulo Diez en el Capítulo Once §5.
+- Titular: [Capítulo Once §4.5](core_11_forum.md#45-foros-de-integridad); leer con las referencias cruzadas de debido proceso de designación del Capítulo Diez en el Capítulo Once §5.
 
 </details>
 
@@ -2100,7 +2100,7 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular: [Capítulo Once §4.6](core_11_forum.md#46-constitutional-forums); leer con los ganchos de certificación del [Artículo XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Derecho a impugnar, revisar y obtener reparación*).
+- Titular: [Capítulo Once §4.6](core_11_forum.md#46-foros-constitucionales); leer con los ganchos de certificación del [Artículo XIII-B](../../core_06.015_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Derecho a impugnar, revisar y obtener reparación*).
 
 </details>
 
@@ -2138,8 +2138,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular: [Capítulo Once §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests); leer con [Capítulo Once §2](core_11_forum.md#2-default-venue-and-primary-stakes) (*triaje de admisión y enrutamiento de enjuegos primarios*) y [Capítulo Ocho §3.6](../../core_10_standing_assessment.md#36-forum-boundary) (*frontera de foro*).
-- Leer con: [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Auditabilidad](core_05_band_oversight.md#auditability), [Enrutamiento de enjuegos primarios](core_05_band_accountability.md#primary-stakes-routing) y [Determinación de fondo](core_05_band_accountability.md#merits-determination).
+- Titular: [Capítulo Once §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests); leer con [Capítulo Once §2](core_11_forum.md#2-sede-por-defecto-y-enjuegos-primarios) (*triaje de admisión y enrutamiento de enjuegos primarios*) y [Capítulo Ocho §3.6](../../core_10.000_standing_assessment.md#36-forum-boundary) (*frontera de foro*).
+- Leer con: [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Enrutamiento de enjuegos primarios](core_05_band_accountability.md#enrutamiento-de-enjuegos-primarios) y [Determinación de fondo](core_05_band_accountability.md#determinación-de-fondo).
 
 </details>
 
@@ -2164,7 +2164,7 @@ Véase **Invocación conjunta y satisfacción**.
     - registrar una alegación no resuelta;
     - discutir un arreglo; o
     - aplicar una etiqueta provisional de enrutamiento.
-  - Una decisión de foro puede ingresar un **registro de trayectoria de contribución** o un **registro de trayectoria de violación** del Capítulo Ocho solo si produce un registro de contribución verificado bajo [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature), un hallazgo de violación verificado bajo [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), un **registro de certificación de alineación del sistema**, u otro hallazgo que sea:
+  - Una decisión de foro puede ingresar un **registro de trayectoria de contribución** o un **registro de trayectoria de violación** del Capítulo Ocho solo si produce un registro de contribución verificado bajo [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución), un hallazgo de violación verificado bajo [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), un **registro de certificación de alineación del sistema**, u otro hallazgo que sea:
     - acotado;
     - trazable;
     - impugnable; y
@@ -2213,9 +2213,9 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: [Incumplimiento](core_05_band_integrative.md#non-compliance); [Capítulo Tres §3 — Perfiles de hallazgo de incumplimiento](core_03_definition_integrity.md#3-non-compliance-finding-profiles).
-- Destino: [CJS-3.1 Brújula constitucional y mapa de agrupaciones](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map); [Capítulo Ocho — Modelo de contribución, infracción y trayectoria](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
-- Leer con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims); [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer) — enrutamiento de capa de gobernanza para los códigos de **capa** del perfil.
+- Origen: [Incumplimiento](core_05_band_integrative.md#incumplimiento); [Capítulo Tres §3 — Perfiles de hallazgo de incumplimiento](core_03_definition_integrity.md#3-perfiles-de-hallazgo-de-incumplimiento).
+- Destino: [CJS-3.1 Brújula constitucional y mapa de agrupaciones](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map); [Capítulo Ocho — Modelo de contribución, infracción y trayectoria](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Leer con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims); [Capa del Contrato Constitucional](core_05_band_integrative.md#capa-del-contrato-constitucional) — enrutamiento de capa de gobernanza para los códigos de **capa** del perfil.
 
 </details>
 
@@ -2224,9 +2224,9 @@ Véase **Invocación conjunta y satisfacción**.
 *En términos sencillos: un perfil opcional puede describir un hallazgo material de incumplimiento por pata de la Tétrada, finalidad, capa de gobernanza, carácter de falla y nivel de gravedad. Ayuda al enrutamiento y a la auditoría, pero no cambia el veredicto subyacente.*
 
 - **Qué es**
-  - **En alcance:** Metadatos opcionales de orientación y enrutamiento adjuntos a un hallazgo material de [Incumplimiento](core_05_band_integrative.md#non-compliance). Para auditorías, enrutamiento y trabajo trans-implementación, el perfil nombra la pata de la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), la orientación de las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims), la capa de gobernanza, el **carácter de falla** y el **nivel de gravedad** (**T1**–**T4**) que mejor describen el hallazgo.
-  - **Fuera de alcance:** instrumentos de veredicto paralelos; medición de contribución o violación del [Capítulo Ocho](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model); metadatos opcionales de enrutamiento sin un hallazgo material de incumplimiento.
-  - **Depende de:** un hallazgo material de incumplimiento bajo el [Capítulo Tres](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) o una definición invocada del Capítulo Cinco.
+  - **En alcance:** Metadatos opcionales de orientación y enrutamiento adjuntos a un hallazgo material de [Incumplimiento](core_05_band_integrative.md#incumplimiento). Para auditorías, enrutamiento y trabajo trans-implementación, el perfil nombra la pata de la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), la orientación de las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims), la capa de gobernanza, el **carácter de falla** y el **nivel de gravedad** (**T1**–**T4**) que mejor describen el hallazgo.
+  - **Fuera de alcance:** instrumentos de veredicto paralelos; medición de contribución o violación del [Capítulo Ocho](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); metadatos opcionales de enrutamiento sin un hallazgo material de incumplimiento.
+  - **Depende de:** un hallazgo material de incumplimiento bajo el [Capítulo Tres](core_03_definition_integrity.md#capítulo-tres-integridad-de-la-definición-evasión-e-incumplimiento) o una definición invocada del Capítulo Cinco.
 <a id="non-compliance-finding-profile-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la obligación de responder mantienen reales los deberes?*
@@ -2235,7 +2235,7 @@ Véase **Invocación conjunta y satisfacción**.
 <a id="non-compliance-finding-profile-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** tratar el perfil como si decidiera si se cumple la definición subyacente;
-  - **Falla secundaria:** usar el perfil para eludir la clasificación de insumos verificados, contribución o violación del [Capítulo Ocho](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) cuando los hallazgos verificados afectan la trayectoria.
+  - **Falla secundaria:** usar el perfil para eludir la clasificación de insumos verificados, contribución o violación del [Capítulo Ocho](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) cuando los hallazgos verificados afectan la trayectoria.
 
 ---
 
@@ -2248,9 +2248,9 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Marco constitucional: pata de **Rendición de cuentas**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
-- Base del Capítulo Uno: §11.1, §11.3, §11.4, §12.1, §8 (véase el mapa de la [Brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map)).
-- Leer con: Aplique [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capítulo Ocho §5.1](../../core_10_standing_assessment.md#5-slot-grammar-and-display-labels), [Capítulo Nueve §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) y [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) donde estén materialmente implicados.
+- Marco constitucional: pata de **Rendición de cuentas**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
+- Base del Capítulo Uno: §11.1, §11.3, §11.4, §12.1, §8 (véase el mapa de la [Brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco)).
+- Leer con: Aplique [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Capítulo Ocho §5.1](../../core_10.000_standing_assessment.md#5-slot-grammar-and-display-labels), [Capítulo Nueve §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) y [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) donde estén materialmente implicados.
 - Destino: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*mapa de lectura para la cadena de los Capítulos Ocho a Once*).
 
 </details>
@@ -2280,19 +2280,19 @@ Donde se cumple el alcance de admisión, esta agrupación es el hogar compartido
 **Miembros de la agrupación.** Esta agrupación comprende:
 
 - [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional), donde el estatus de participación del **Artículo XIX** (*Trayectoria y estatus de participación*) se cruza con registros de trayectoria del Capítulo Ocho, efectos de trayectoria o criterios de elegibilidad de rol;
-- [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing);
-- [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature);
+- [Insumos verificados para trayectoria](core_05_band_accountability.md#insumos-verificados-para-trayectoria);
+- [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución);
 - [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six);
 - [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six);
 - [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six);
-- [Barra de competencia](core_05_band_accountability.md#competency-bar);
-- [Habilitación de competencia](core_05_band_accountability.md#competency-clearance);
-- [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock);
-- [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#anti-constitutional-misconduct-review);
-- [Incidente unificado](core_05_band_accountability.md#unified-incident);
-- [Registro de incidente unificado](core_05_band_accountability.md#unified-incident-record);
-- [Incidente catastrófico único](core_05_band_accountability.md#single-catastrophic-incident);
-- [Patrón sostenido de alta gravedad](core_05_band_accountability.md#sustained-high-gravity-pattern).
+- [Barra de competencia](core_05_band_accountability.md#barra-de-competencia);
+- [Habilitación de competencia](core_05_band_accountability.md#habilitación-de-competencia);
+- [Bloqueo de trayectoria](core_05_band_accountability.md#bloqueo-de-trayectoria);
+- [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#revisión-de-inconducta-anticonstitucional);
+- [Incidente unificado](core_05_band_accountability.md#incidente-unificado);
+- [Registro de incidente unificado](core_05_band_accountability.md#registro-de-incidente-unificado);
+- [Incidente catastrófico único](core_05_band_accountability.md#incidente-catastrófico-único);
+- [Patrón sostenido de alta gravedad](core_05_band_accountability.md#patrón-sostenido-de-alta-gravedad).
 
 **Antielusión.** Un asunto dentro del alcance de admisión no debe segmentarse en compartimentos separados narrativos, procedimentales, probatorios, de efecto de trayectoria o de gravedad de incidente de un modo que derrote la evaluación conjunta, las puertas de insumos verificados, la disciplina de bloqueo de trayectoria, la revisión de designación del Capítulo Diez o la disciplina de no sustitución exigida por los Capítulos Ocho a Diez.
 
@@ -2310,8 +2310,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (señales de trayectoria y captura).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Barra de competencia](core_05_band_accountability.md#competency-bar), [Habilitación de competencia](core_05_band_accountability.md#competency-clearance), [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Impugnabilidad](core_05_band_accountability.md#contestability), [Auditabilidad](core_05_band_oversight.md#auditability), [Transparencia](core_05_band_oversight.md#transparency) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Destino: Principios: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (señales de trayectoria y captura).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Barra de competencia](core_05_band_accountability.md#barra-de-competencia), [Habilitación de competencia](core_05_band_accountability.md#habilitación-de-competencia), [Bloqueo de trayectoria](core_05_band_accountability.md#bloqueo-de-trayectoria), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Transparencia](core_05_band_oversight.md#transparencia) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -2323,9 +2323,9 @@ Véase **Invocación conjunta y satisfacción**.
   - **En alcance:** Un estatus de participación o de elegibilidad de rol reconocido a partir de:
     - registros de trayectoria constitucionalmente válidos;
     - efectos de trayectoria; o
-    - criterios de [Barra de competencia](core_05_band_accountability.md#competency-bar) para la vía nominada.
-  - La apertura positiva ligada a confianza, rol, autoridad, supervisión o reconocimiento, cuando es lícita, pertenece al [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six) a través de la [Habilitación de competencia](core_05_band_accountability.md#competency-clearance) contra la [Barra de competencia](core_05_band_accountability.md#competency-bar) aplicable.
-  - Las consecuencias restrictivas de acceso, cuando son lícitas, pertenecen al [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), al [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock), al **Artículo XIX** (*Trayectoria y estatus de participación*) y a los límites aplicables del Capítulo Seis — no a la etiqueta de Trayectoria de participante sola. Los bloqueos de trayectoria sobre vías nominadas de privilegio incluyen:
+    - criterios de [Barra de competencia](core_05_band_accountability.md#barra-de-competencia) para la vía nominada.
+  - La apertura positiva ligada a confianza, rol, autoridad, supervisión o reconocimiento, cuando es lícita, pertenece al [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six) a través de la [Habilitación de competencia](core_05_band_accountability.md#habilitación-de-competencia) contra la [Barra de competencia](core_05_band_accountability.md#barra-de-competencia) aplicable.
+  - Las consecuencias restrictivas de acceso, cuando son lícitas, pertenecen al [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), al [Bloqueo de trayectoria](core_05_band_accountability.md#bloqueo-de-trayectoria), al **Artículo XIX** (*Trayectoria y estatus de participación*) y a los límites aplicables del Capítulo Seis — no a la etiqueta de Trayectoria de participante sola. Los bloqueos de trayectoria sobre vías nominadas de privilegio incluyen:
     - confianza;
     - rol;
     - autoridad;
@@ -2334,27 +2334,27 @@ Véase **Invocación conjunta y satisfacción**.
     - reconocimiento;
     - **governance-voting** (*mecanismo de legitimidad / voto fundacional de gobernanza — no voz de partes afectadas ponderada por enjuego*);
     - **stakeholder-participation** (*influencia ponderada por enjuego y elección vinculante de las partes afectadas dentro de un dominio ya autorizado — no borra el estatus de parte afectada*); y
-    - vías nominadas de privilegio comparables registradas bajo el [Capítulo Nueve §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks).
+    - vías nominadas de privilegio comparables registradas bajo el [Capítulo Nueve §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks).
   - No es:
-    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), que todo senciente tiene;
+    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), que todo senciente tiene;
     - reputación o estima social; o
-    - prueba de impacto material para la identificación de [Parte afectada](core_05_band_participation.md#stakeholder).
+    - prueba de impacto material para la identificación de [Parte afectada](core_05_band_participation.md#parte-afectada).
   - Puntero del Capítulo Cinco para el estatus de participación del **Artículo XIX** (*Trayectoria y estatus de participación*).
-  - Mecánica de ejes: [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature) y [Capítulo Ocho](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
+  - Mecánica de ejes: [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución) y [Capítulo Ocho](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
   - **Fuera de alcance:**
     - reputación, popularidad, prestigio, marca o estima social;
-    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing);
-    - prueba de que alguien es una [Parte afectada](core_05_band_participation.md#stakeholder);
+    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral);
+    - prueba de que alguien es una [Parte afectada](core_05_band_participation.md#parte-afectada);
     - designación final de inconducta anticonstitucional para un registro del Eje de Violación del Capítulo Ocho `s = 7`, `s = 8` o `s = 9` — gobernada por el [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); o
-    - el [Bloqueo de Confianza Anticonstitucional](../../core_11_standing_integration.md#55-special-locks) emparejado, que se adjunta bajo el Capítulo Nueve.
+    - el [Bloqueo de Confianza Anticonstitucional](../../core_11.000_standing_integration.md#55-special-locks) emparejado, que se adjunta bajo el Capítulo Nueve.
 <a id="participant-standing-constitutional-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la obligación de responder mantienen reales los deberes?* / *¿Se resuelven disputas, correcciones y reparaciones mientras el remedio aún importa?*
 
     **Evaluación primaria:**
-    - Provea [Impugnabilidad](core_05_band_accountability.md#contestability), [Auditabilidad](core_05_band_oversight.md#auditability) y [Transparencia](core_05_band_oversight.md#transparency) en proporción al impacto.
+    - Provea [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Auditabilidad](core_05_band_oversight.md#auditabilidad) y [Transparencia](core_05_band_oversight.md#transparencia) en proporción al impacto.
     - Compruebe el control arbitrario, opaco, monopolístico o basado en reputación de las señales de trayectoria de participante.
-    - Aplique [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) al comunicar pretensiones de trayectoria.
+    - Aplique [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) al comunicar pretensiones de trayectoria.
     - Cuando se usen insumos del Capítulo Ocho, aplique su mecánica de efecto de trayectoria de forma directa.
 <a id="participant-standing-constitutional-c"></a>
 - **Qué debe sostenerse**
@@ -2363,7 +2363,7 @@ Véase **Invocación conjunta y satisfacción**.
     - usar la trayectoria de participante como sustituto de los efectos de trayectoria o bloqueos de trayectoria del Capítulo Nueve al imponer consecuencias restrictivas;
     - usar etiquetas de trayectoria de participante, barra de competencia o habilitación de competencia como credencialismo opaco, control de acceso arbitrario o dispositivos de control de insiders;
     - usar la trayectoria de participante para excluir de forma permanente a sencientes de sistemas críticos para la supervivencia solo por la trayectoria; o
-    - usar determinaciones de trayectoria de participante para denegar elegibilidad de auditoría o de impugnación sin justificación bajo [Proporcionalidad](core_05_band_accountability.md#proportionality) y [Necesidad](core_05_band_accountability.md#necessity) donde los instrumentos aplicables exigen acceso.
+    - usar determinaciones de trayectoria de participante para denegar elegibilidad de auditoría o de impugnación sin justificación bajo [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) y [Necesidad](core_05_band_accountability.md#necesidad) donde los instrumentos aplicables exigen acceso.
 
 ---
 
@@ -2374,8 +2374,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: [Capítulo Ocho §3.1](../../core_10_standing_assessment.md#31-minimum-record-contents) (*Puerta de insumos verificados*).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster), [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Auditabilidad](core_05_band_oversight.md#auditability) e [Impugnabilidad](core_05_band_accountability.md#contestability).
+- Titular canónico: [Capítulo Ocho §3.1](../../core_10.000_standing_assessment.md#31-minimum-record-contents) (*Puerta de insumos verificados*).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster), [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Auditabilidad](core_05_band_oversight.md#auditabilidad) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
 
 </details>
 
@@ -2386,7 +2386,7 @@ Véase **Invocación conjunta y satisfacción**.
 - **Qué es**
   - **En alcance:**
     - Los hechos y registros admisibles usados para aplicar consecuencias de trayectoria ligadas a la contribución o a la violación.
-    - Para el Eje de Contribución, esos son los registros de contribución verificados gobernados por [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature).
+    - Para el Eje de Contribución, esos son los registros de contribución verificados gobernados por [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución).
     - Para el Eje de Violación, son los hallazgos de violación verificados gobernados por [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six).
     - El Capítulo Ocho §2.1 exige que cada uno aparezca en un **registro de trayectoria de contribución** o un **registro de trayectoria de violación** de eje puro y cumpla los requisitos del Capítulo Ocho para registros, evidencia, auditabilidad, impugnabilidad y estado de revisión.
   - **Fuera de alcance:**
@@ -2427,9 +2427,9 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materialidad / verificación en insumos de trayectoria); [Capítulo Uno §6.2.4 Invalidación por divergencia de indicadores sustitutos](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (métricas de trayectoria frente a hechos demostrables).
-- Titular canónico: [Capítulo Ocho — escala unificada §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*bandas LEQU compartidas de cinco veces para los ejes de Contribución y Violación registrados por separado*); leer con [Capítulo Ocho — sección 1](../../core_10_standing_assessment.md#1-the-three-questions) (*marco de tres preguntas*) y [Capítulo Ocho §3.1 — Puerta de insumos verificados](../../core_10_standing_assessment.md#31-minimum-record-contents).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster), [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional) (*distinta — estatus de participación del **Artículo XIX** (*Trayectoria y estatus de participación*) frente a tipificación del Eje I*); [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing); [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six); [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six); [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six); [Unidad equivalente de vida (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) (*abreviatura de calibración equivalente a vida plena*); [Auditabilidad](core_05_band_oversight.md#auditability); [Impugnabilidad](core_05_band_accountability.md#contestability); [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
+- Destino: Principios: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materialidad / verificación en insumos de trayectoria); [Capítulo Uno §6.2.4 Invalidación por divergencia de indicadores sustitutos](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (métricas de trayectoria frente a hechos demostrables).
+- Titular canónico: [Capítulo Ocho — escala unificada §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*bandas LEQU compartidas de cinco veces para los ejes de Contribución y Violación registrados por separado*); leer con [Capítulo Ocho — sección 1](../../core_10.000_standing_assessment.md#1-the-three-questions) (*marco de tres preguntas*) y [Capítulo Ocho §3.1 — Puerta de insumos verificados](../../core_10.000_standing_assessment.md#31-minimum-record-contents).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster), [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional) (*distinta — estatus de participación del **Artículo XIX** (*Trayectoria y estatus de participación*) frente a tipificación del Eje I*); [Insumos verificados para trayectoria](core_05_band_accountability.md#insumos-verificados-para-trayectoria); [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six); [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six); [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six); [Unidad equivalente de vida (LEQU)](core_05_band_participation.md#unidad-equivalente-de-vida-lequ) (*abreviatura de calibración equivalente a vida plena*); [Auditabilidad](core_05_band_oversight.md#auditabilidad); [Impugnabilidad](core_05_band_accountability.md#impugnabilidad); [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
 
 </details>
 
@@ -2441,7 +2441,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **En alcance:**
     - El **Eje I** mide resultados constitucionales **solo positivos**: cumplir la **línea de base** y hacer mejoras **demostrables** más allá de ella bajo las condiciones funcionales aplicables del sistema.
     - Esos resultados pueden afectar el **efecto de trayectoria** solo cuando descansan en registros de contribución verificados, auditables, impugnables y demostrables que satisfacen los Capítulos **Dos a Cuatro** y el Capítulo Ocho **§3.1**.
-    - Puntero del Capítulo Cinco; mecánica canónica: [Capítulo Ocho](../../core_10_standing_assessment.md) [**sección 7**](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), leída con las [**secciones 1–2**](../../core_10_standing_assessment.md#1-the-three-questions) y el **§3.1**; [Capítulo Nueve](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) para efectos ligados a la contribución.
+    - Puntero del Capítulo Cinco; mecánica canónica: [Capítulo Ocho](../../core_10.000_standing_assessment.md) [**sección 7**](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), leída con las [**secciones 1–2**](../../core_10.000_standing_assessment.md#1-the-three-questions) y el **§3.1**; [Capítulo Nueve](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) para efectos ligados a la contribución.
   - **Fuera de alcance:**
     - **Hallazgos adversos de violación** o incumplimiento bajo [**naturaleza de la violación**](core_05_band_accountability.md#violation-nature-chapter-six) en el **Eje II**.
     - [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional) (estatus de participación y elegibilidad de rol del **Artículo XIX**).
@@ -2454,9 +2454,9 @@ Véase **Invocación conjunta y satisfacción**.
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la obligación de responder mantienen reales los deberes?* / *¿Se resuelven disputas, correcciones y reparaciones mientras el remedio aún importa?*
 
     **Evaluación primaria:**
-    - Mida la **naturaleza de la contribución** solo a partir de registros de contribución verificados bajo [Auditabilidad](core_05_band_oversight.md#auditability) e [Impugnabilidad](core_05_band_accountability.md#contestability).
+    - Mida la **naturaleza de la contribución** solo a partir de registros de contribución verificados bajo [Auditabilidad](core_05_band_oversight.md#auditabilidad) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
     - Identifique la base del registro, el sujeto y el alcance afectados, la clasificación aplicable de naturaleza de la contribución, la evidencia, la vía de impugnación, y si el registro está vigente, bajo revisión, superado o retirado para la trayectoria.
-    - Use [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) para disputas materiales sobre umbrales, alcance o registros.
+    - Use [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) para disputas materiales sobre umbrales, alcance o registros.
     - Aplique la regla de no compensación del Capítulo Ocho y mantenga los insumos del Eje de Contribución separados de la [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six).
     - Para el efecto de trayectoria ligado a la contribución, un registro sin una clasificación aplicable de naturaleza de la contribución está incompleto, y también lo está una etiqueta de naturaleza de la contribución sin un registro de contribución verificado.
     - Mantenga consistentes la [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional) y las etiquetas del Capítulo Ocho donde ambas apliquen.
@@ -2481,8 +2481,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Uno §6.2.4 Invalidación por divergencia de indicadores sustitutos](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (integridad de clasificación del Eje II); [4. Restricciones de principio no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) (hechos verificados para trayectoria adversa).
-- Titular canónico: la [escala LEQU proporcional unificada del Capítulo Ocho §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*calibración de casilla de impacto del Eje de Violación sobre las bandas LEQU compartidas de cinco veces*); [Capítulo Ocho §3.1 Puerta de insumos verificados](../../core_10_standing_assessment.md#verified-inputs-for-standing); [Capítulo Ocho §4.4](../../core_10_standing_assessment.md#44-violation-route-descriptor-catalog-and-measurement-roles) (*descriptores apilables de daño y conducta*); [Capítulo Nueve §3](../../core_11_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (*adjuntos de carácter de proceso / respuesta de la Pregunta 3 e integración de descriptores*). Leer con la [agrupación Estado de trayectoria, contribución y violación](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster), [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Crueldad](core_05_band_accountability.md#cruelty), [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional). Para una casilla 7, 8 o 9 del Eje de Violación del Capítulo Ocho, el [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) puede añadir la designación de inconducta anticonstitucional correspondiente, pero no asigna la casilla numérica.
+- Destino: Principios: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Uno §6.2.4 Invalidación por divergencia de indicadores sustitutos](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (integridad de clasificación del Eje II); [4. Restricciones de principio no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) (hechos verificados para trayectoria adversa).
+- Titular canónico: la [escala LEQU proporcional unificada del Capítulo Ocho §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*calibración de casilla de impacto del Eje de Violación sobre las bandas LEQU compartidas de cinco veces*); [Capítulo Ocho §3.1 Puerta de insumos verificados](../../core_10.000_standing_assessment.md#verified-inputs-for-standing); [Capítulo Ocho §4.4](../../core_10.000_standing_assessment.md#44-violation-route-descriptor-catalog-and-measurement-roles) (*descriptores apilables de daño y conducta*); [Capítulo Nueve §3](../../core_11.000_standing_integration.md#3-descriptor-integration-and-attachment-normalization) (*adjuntos de carácter de proceso / respuesta de la Pregunta 3 e integración de descriptores*). Leer con la [agrupación Estado de trayectoria, contribución y violación](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster), [Insumos verificados para trayectoria](core_05_band_accountability.md#insumos-verificados-para-trayectoria), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Crueldad](core_05_band_accountability.md#crueldad), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) y [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional). Para una casilla 7, 8 o 9 del Eje de Violación del Capítulo Ocho, el [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) puede añadir la designación de inconducta anticonstitucional correspondiente, pero no asigna la casilla numérica.
 
 </details>
 
@@ -2495,25 +2495,25 @@ Véase **Invocación conjunta y satisfacción**.
     - La clasificación del **Eje II** de resultados constitucionales **adversos** a partir de hallazgos de violación verificados que satisfacen los Capítulos **Dos a Cuatro** y el Capítulo Ocho **§3.2**.
     - Esos hallazgos pueden afectar el **efecto de trayectoria** solo cuando descansan en esa base verificada, auditable e impugnable.
     - El Capítulo Ocho **§7** asigna una casilla de impacto verificado en su escala unificada. Los descriptores de proceso / respuesta y de daño / conducta se adjuntan a esa casilla pero no la mueven.
-    - Puntero del Capítulo Cinco; mecánica canónica: Capítulo Ocho **§7**, **§3.2**, secciones de descriptores del Capítulo Nueve, y [Capítulo Nueve](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) para efectos adversos de trayectoria.
-    - Es distinta de la [**naturaleza de la contribución**](core_05_band_accountability.md#contribution-nature), el **Eje I** solo-positivo, que usa las mismas bandas en un registro separado.
+    - Puntero del Capítulo Cinco; mecánica canónica: Capítulo Ocho **§7**, **§3.2**, secciones de descriptores del Capítulo Nueve, y [Capítulo Nueve](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration) para efectos adversos de trayectoria.
+    - Es distinta de la [**naturaleza de la contribución**](core_05_band_accountability.md#naturaleza-de-la-contribución), el **Eje I** solo-positivo, que usa las mismas bandas en un registro separado.
   - **Fuera de alcance:**
     - alegaciones, etiquetas de ingreso, etiquetas provisionales de enrutamiento o relatos no resueltos de fase de foro;
     - descriptores de intención, coerción, ocultamiento o respuesta (adjuntos del Capítulo Nueve — no asignación de casilla del Eje II); y
-    - [**naturaleza de la contribución**](core_05_band_accountability.md#contribution-nature) o registros de contribución verificados.
+    - [**naturaleza de la contribución**](core_05_band_accountability.md#naturaleza-de-la-contribución) o registros de contribución verificados.
 <a id="violation-nature-chapter-six-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la obligación de responder mantienen reales los deberes?* / *¿Se resuelven disputas, correcciones y reparaciones mientras el remedio aún importa?*
 
     **Evaluación primaria:**
-    - Clasifique la **trayectoria** solo a partir de hallazgos que satisfacen los Capítulos **Dos a Cuatro** y la regla de [**insumos verificados para trayectoria**](../../core_10_standing_assessment.md#verified-inputs-for-standing).
+    - Clasifique la **trayectoria** solo a partir de hallazgos que satisfacen los Capítulos **Dos a Cuatro** y la regla de [**insumos verificados para trayectoria**](../../core_10.000_standing_assessment.md#verified-inputs-for-standing).
     - Identifique la autoridad del hallazgo o la base del registro, el sujeto y el alcance afectados, la clasificación aplicable de naturaleza de la violación, la evidencia, la vía de impugnación, y si el hallazgo es final, está bajo revisión, superado, resuelto o remediado para la trayectoria.
     - Registre juntos la base del hallazgo verificado y la clasificación de naturaleza de la violación.
     - Incluya el impacto verificado y la casilla resultante, los descriptores o suplementos de carácter aplicables, el alcance, el estado de revisión y cualquier designación del Capítulo Diez.
     - La negligencia, el ocultamiento, la coerción, la intención, la respuesta y descriptores similares no mueven la casilla numérica.
-    - Aplique la regla de no compensación del Capítulo Ocho y mantenga los insumos del Eje de Violación separados de la [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature).
+    - Aplique la regla de no compensación del Capítulo Ocho y mantenga los insumos del Eje de Violación separados de la [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución).
     - Para el efecto adverso de trayectoria, un hallazgo sin una clasificación aplicable de naturaleza de la violación está incompleto, y también lo está una etiqueta de naturaleza de la violación sin hallazgos verificados.
-    - Donde sea material, lea con [Daño](core_05_band_accountability.md#harm), [Crueldad](core_05_band_accountability.md#cruelty), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Restricción constitucional](core_05_band_integrative.md#constitutional-constraint) y [Pila de autoridad y jerarquía interna](core_05_band_integrative.md#authority-stack).
+    - Donde sea material, lea con [Daño](core_05_band_accountability.md#daño), [Crueldad](core_05_band_accountability.md#crueldad), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad), [Restricción constitucional](core_05_band_integrative.md#restricción-constitucional) y [Pila de autoridad y jerarquía interna](core_05_band_integrative.md#authority-stack).
 <a id="violation-nature-chapter-six-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Es incumplidor:
@@ -2521,7 +2521,7 @@ Véase **Invocación conjunta y satisfacción**.
     - registrar hallazgos adversos de trayectoria sin la naturaleza de la violación aplicable;
     - asignar **naturaleza de la violación** para un **efecto de trayectoria** adverso sin hallazgos verificados;
     - llamar a un **hallazgo de violación adverso** una **contribución negativa** en el **Eje I**;
-    - usar la [**naturaleza de la contribución**](core_05_band_accountability.md#contribution-nature) o registros de contribución verificados para **compensar**, borrar, promediar a la baja o reemplazar hallazgos de violación verificados exigidos por el Capítulo Ocho; o
+    - usar la [**naturaleza de la contribución**](core_05_band_accountability.md#naturaleza-de-la-contribución) o registros de contribución verificados para **compensar**, borrar, promediar a la baja o reemplazar hallazgos de violación verificados exigidos por el Capítulo Ocho; o
     - aplicar consecuencias adversas de trayectoria sin la base de registro y la impugnabilidad exigidas por el Capítulo Ocho **§3.2**.
 
 ---
@@ -2535,7 +2535,7 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); [15. Aplicación integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (efectos de trayectoria leídos a través del marco interpretativo integrado).
-- Titular canónico: [Capítulo Nueve §§1–8](../../core_11_standing_integration.md#1-chapter-ten-records-do-not-change) (*insumos inmutables, integración, descriptores, consecuencias, efecto final de trayectoria, restauración, ejecución y no sustitución*); leer con [Capítulo Ocho — §2 Registros de trayectoria](../../core_10_standing_assessment.md#2-question-1--what-happened), [Capítulo Ocho §2.1 Los registros de trayectoria como unidad de aplicación](../../core_10_standing_assessment.md#21-what-question-1-must-establish), [Capítulo Ocho §3 Requisitos operativos del registro de trayectoria](../../core_10_standing_assessment.md#3-standing-record-operational-requirements) y [Capítulo Ocho — §3.1 Puerta de insumos verificados](../../core_10_standing_assessment.md#verified-inputs-for-standing).
+- Titular canónico: [Capítulo Nueve §§1–8](../../core_11.000_standing_integration.md#1-chapter-ten-records-do-not-change) (*insumos inmutables, integración, descriptores, consecuencias, efecto final de trayectoria, restauración, ejecución y no sustitución*); leer con [Capítulo Ocho — §2 Registros de trayectoria](../../core_10.000_standing_assessment.md#2-question-1--what-happened), [Capítulo Ocho §2.1 Los registros de trayectoria como unidad de aplicación](../../core_10.000_standing_assessment.md#21-what-question-1-must-establish), [Capítulo Ocho §3 Requisitos operativos del registro de trayectoria](../../core_10.000_standing_assessment.md#3-standing-record-operational-requirements) y [Capítulo Ocho — §3.1 Puerta de insumos verificados](../../core_10.000_standing_assessment.md#verified-inputs-for-standing).
 - Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster) y [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six). Los dos son secuenciales para la aplicación: un efecto de trayectoria debe ser trazable a un conjunto ligado y acotado de registros de trayectoria de eje puro, pero esos registros contienen las clasificaciones verificadas de contribución y violación, no el efecto mismo.
 
 </details>
@@ -2546,25 +2546,25 @@ Véase **Invocación conjunta y satisfacción**.
 
 - **Qué es**
   - **En alcance:**
-    - La **capa de consecuencia** que usa la [**naturaleza de la contribución**](core_05_band_accountability.md#contribution-nature) y la [**naturaleza de la violación**](core_05_band_accountability.md#violation-nature-chapter-six) a partir de **registros de trayectoria de contribución** y **registros de trayectoria de violación** ligados.
+    - La **capa de consecuencia** que usa la [**naturaleza de la contribución**](core_05_band_accountability.md#naturaleza-de-la-contribución) y la [**naturaleza de la violación**](core_05_band_accountability.md#violation-nature-chapter-six) a partir de **registros de trayectoria de contribución** y **registros de trayectoria de violación** ligados.
     - Puede afectar la elegibilidad de confianza, los roles, la autoridad delegada, el reconocimiento, la restricción, la restauración, la remediación, las salvaguardas y la revisión para vías nominadas.
-    - Las vías positivas incluyen [**habilitaciones de competencia**](core_05_band_accountability.md#competency-clearance) contra [**barras de competencia**](core_05_band_accountability.md#competency-bar) publicadas.
-    - Las vías restrictivas incluyen [**bloqueos de trayectoria**](core_05_band_accountability.md#standing-lock), deberes de remedio y corrección, y salvaguardas nominadas.
+    - Las vías positivas incluyen [**habilitaciones de competencia**](core_05_band_accountability.md#habilitación-de-competencia) contra [**barras de competencia**](core_05_band_accountability.md#barra-de-competencia) publicadas.
+    - Las vías restrictivas incluyen [**bloqueos de trayectoria**](core_05_band_accountability.md#bloqueo-de-trayectoria), deberes de remedio y corrección, y salvaguardas nominadas.
     - Los resultados de vía nominada bajo el Capítulo Nueve **§7** incluyen abierta, abierta con salvaguardas, limitada, bloqueada, solo restauración y sin efecto — enunciados por separado para cada vía nominada.
     - Es una consecuencia de decisión, no un rango de dignidad, una medida del Piso de Derechos, una puntuación de mérito fusionada, una etiqueta universal de reputación ni parte del registro de trayectoria mismo.
     - Puntero del Capítulo Cinco; mecánica canónica: Capítulo Ocho **sección 2** y Capítulo Nueve **secciones 1**, **4**, **5**, **6** y **7**.
     - El Eje de Contribución y el Eje de Violación deben permanecer trazables por separado y no pueden netearse, promediarse, compensarse ni sustituirse el uno por el otro.
-    - Lea con el [Artículo XXIV-B: Restricciones no triviales, restitución y rendición de cuentas restaurativa](../../core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) y el [Artículo XXIV-C: Regla menos restrictiva y acotada en el tiempo](../../core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) cuando intervengan medidas coercitivas o restrictivas ligadas a la trayectoria.
+    - Lea con el [Artículo XXIV-B: Restricciones no triviales, restitución y rendición de cuentas restaurativa](../../core_06.020_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) y el [Artículo XXIV-C: Regla menos restrictiva y acotada en el tiempo](../../core_06.020_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) cuando intervengan medidas coercitivas o restrictivas ligadas a la trayectoria.
   - **Fuera de alcance:**
-    - un [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), una acusación desnuda, un [Registro de caso de foro](core_05_band_accountability.md#forum-case-record) (el expediente del caso), una etiqueta de presentación, una orden temporal o un relato de caso inacabado; y
+    - un [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), una acusación desnuda, un [Registro de caso de foro](core_05_band_accountability.md#registro-de-caso-de-foro) (el expediente del caso), una etiqueta de presentación, una orden temporal o un relato de caso inacabado; y
     - un rango de dignidad, una medida del Piso de Derechos, una puntuación de mérito fusionada o una etiqueta universal de reputación.
 <a id="standing-effect-chapter-six-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la obligación de responder mantienen reales los deberes?* / *¿Se resuelven disputas, correcciones y reparaciones mientras el remedio aún importa?*
 
     **Evaluación primaria:**
-    - Mantenga cada **efecto de trayectoria** trazable a los [Capítulo Ocho](../../core_10_standing_assessment.md) **§§2–3** y [Capítulo Nueve](../../core_11_standing_integration.md) **§§1–10**.
-    - Evalúelo bajo [Auditabilidad](core_05_band_oversight.md#auditability) e [Impugnabilidad](core_05_band_accountability.md#contestability).
+    - Mantenga cada **efecto de trayectoria** trazable a los [Capítulo Ocho](../../core_10.000_standing_assessment.md) **§§2–3** y [Capítulo Nueve](../../core_11.000_standing_integration.md) **§§1–10**.
+    - Evalúelo bajo [Auditabilidad](core_05_band_oversight.md#auditabilidad) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
     - Identifique los registros fuente de trayectoria de contribución y de violación, el sujeto, el alcance, la ventana temporal, el estado de revisión, los insumos de eje separados, las referencias cruzadas exigidas, la base de verificación y la consecuencia real para cada vía nominada.
     - Siga el orden de decisión del Capítulo Nueve **§2**:
       - valide los registros;
@@ -2574,7 +2574,7 @@ Véase **Invocación conjunta y satisfacción**.
       - enuncie un efecto final de trayectoria por vía nominada.
     - Cuando la integración de trayectoria use crédito **ligado a la contribución**, siga las reglas de recencia y divulgación del Capítulo Nueve **§6.1**.
     - Mientras esté sin resolver, las restricciones **ligadas a la violación** no pueden descontarse por tiempo, ponderarse a la baja por antigüedad ni suavizarse por el alza de la contribución.
-    - Nunca trate la inconducta **alegada**, las etiquetas de ingreso o el material de fase de foro como [**naturaleza de la violación**](core_05_band_accountability.md#violation-nature-chapter-six) / hallazgos de violación verificados para la trayectoria ([**insumos verificados para trayectoria**](../../core_10_standing_assessment.md#verified-inputs-for-standing)).
+    - Nunca trate la inconducta **alegada**, las etiquetas de ingreso o el material de fase de foro como [**naturaleza de la violación**](core_05_band_accountability.md#violation-nature-chapter-six) / hallazgos de violación verificados para la trayectoria ([**insumos verificados para trayectoria**](../../core_10.000_standing_assessment.md#verified-inputs-for-standing)).
     - Exponga qué insumos produjeron el efecto — registros inmutables, descriptores, remedios, bloqueos, hallazgos de vigencia, barras de competencia y habilitaciones — junto con ponderaciones, reglas y vías de revisión.
 <a id="standing-effect-chapter-six-c"></a>
 - **Qué debe sostenerse**
@@ -2601,9 +2601,9 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Uno §6.2.4 Invalidación por divergencia de indicadores sustitutos](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (registros de trayectoria acotados frente a etiquetas fusionadas).
-- Titular canónico: [Capítulo Ocho — §2.1 Los registros de trayectoria como unidad de aplicación](../../core_10_standing_assessment.md#21-what-question-1-must-establish) y [Capítulo Ocho §3 Requisitos operativos del registro de trayectoria](../../core_10_standing_assessment.md#3-standing-record-operational-requirements); leer con [Capítulo Ocho — §3.1 Puerta de insumos verificados](../../core_10_standing_assessment.md#verified-inputs-for-standing), [Capítulo Ocho — §3.7 Custodia del registro y autoridad de apertura](../../core_10_standing_assessment.md#37-record-custody-and-opening-authority) (*autoridad nominada de apertura del registro y custodio; sin autocustodia; las declaraciones de quien registra son insumos*), [Capítulo Ocho — §5.1 Gramática de casilla y etiquetas de visualización](../../core_10_standing_assessment.md#5-slot-grammar-and-display-labels), [Capítulo Ocho — §4 Línea de base LEQU](../../core_10_standing_assessment.md#lequ-baseline-constitutional-outcome), la [escala unificada del Capítulo Ocho §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*bandas LEQU compartidas de cinco veces; registros de eje separados*) y [Capítulo Nueve — Integración](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Registro de caso de foro](core_05_band_accountability.md#forum-case-record), [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional).
+- Destino: Principios: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Uno §6.2.4 Invalidación por divergencia de indicadores sustitutos](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (registros de trayectoria acotados frente a etiquetas fusionadas).
+- Titular canónico: [Capítulo Ocho — §2.1 Los registros de trayectoria como unidad de aplicación](../../core_10.000_standing_assessment.md#21-what-question-1-must-establish) y [Capítulo Ocho §3 Requisitos operativos del registro de trayectoria](../../core_10.000_standing_assessment.md#3-standing-record-operational-requirements); leer con [Capítulo Ocho — §3.1 Puerta de insumos verificados](../../core_10.000_standing_assessment.md#verified-inputs-for-standing), [Capítulo Ocho — §3.7 Custodia del registro y autoridad de apertura](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (*autoridad nominada de apertura del registro y custodio; sin autocustodia; las declaraciones de quien registra son insumos*), [Capítulo Ocho — §5.1 Gramática de casilla y etiquetas de visualización](../../core_10.000_standing_assessment.md#5-slot-grammar-and-display-labels), [Capítulo Ocho — §4 Línea de base LEQU](../../core_10.000_standing_assessment.md#lequ-baseline-constitutional-outcome), la [escala unificada del Capítulo Ocho §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*bandas LEQU compartidas de cinco veces; registros de eje separados*) y [Capítulo Nueve — Integración](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Registro de caso de foro](core_05_band_accountability.md#registro-de-caso-de-foro), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional).
 
 </details>
 
@@ -2615,7 +2615,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **En alcance:**
     - Un registro acotado y **de eje puro** que aplica las mediciones del Capítulo Ocho a un sujeto definido, un alcance funcional, una ventana temporal, un estado de revisión y un contexto de decisión.
     - Cada registro mide conducta o hallazgos verificados en el Eje de Contribución o en el Eje de Violación, nunca en ambos.
-    - Un **registro de trayectoria de contribución** mide la [naturaleza de la contribución](core_05_band_accountability.md#contribution-nature) verificada; un **registro de trayectoria de violación** mide la [naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six) verificada.
+    - Un **registro de trayectoria de contribución** mide la [naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución) verificada; un **registro de trayectoria de violación** mide la [naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six) verificada.
     - El Capítulo Ocho §4.2 exige que los registros relacionados se referencien entre sí cuando comparten un sujeto, una ventana temporal superpuesta, un evento acotado, un patrón o un contexto de decisión.
     - El sujeto puede ser un senciente, una institución, un sistema, una evaluación, un evento, un rol, un colectivo, un registro específico de actor u otra unidad constitucionalmente pertinente — pero las unidades y los contextos distintos deben permanecer trazables por separado.
     - El registro suministra material fuente para el análisis posterior de [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six); el Capítulo Nueve aplica esa capa de consecuencia separada a partir del conjunto de registros ligado.
@@ -2635,11 +2635,11 @@ Véase **Invocación conjunta y satisfacción**.
       - un impugnador; o
       - una oficina en su línea de control.
 
-      Donde el sujeto sostiene una [Carta](core_05_band_continuity.md#charter), la Carta nombra o apunta a ambos; donde guarda silencio, gobierna el mapa de carriles **CI-3.2** (*Carriles de separación funcional*).
+      Donde el sujeto sostiene una [Carta](core_05_band_continuity.md#carta), la Carta nombra o apunta a ambos; donde guarda silencio, gobierna el mapa de carriles **CI-3.2** (*Carriles de separación funcional*).
     - Puntero del Capítulo Cinco; concepto canónico: Capítulo Ocho §2.1; requisitos operativos: Capítulo Ocho §3.
     - Un registro de trayectoria no es una etiqueta general de valía, un rango de dignidad, una medida del Piso de Derechos, una puntuación de mérito fusionada ni una decisión de efecto.
   - **Fuera de alcance:**
-    - un [Registro de caso de foro](core_05_band_accountability.md#forum-case-record) (el expediente del caso), una etiqueta de presentación, una orden temporal o una acusación inacabada; y
+    - un [Registro de caso de foro](core_05_band_accountability.md#registro-de-caso-de-foro) (el expediente del caso), una etiqueta de presentación, una orden temporal o una acusación inacabada; y
     - una puntuación de mérito fusionada, un rango de dignidad o una decisión de efecto del Capítulo Nueve.
 <a id="standing-record-chapter-six-a"></a>
 - **Cómo medir y evaluar**
@@ -2675,7 +2675,7 @@ Véase **Invocación conjunta y satisfacción**.
     - aplicar un efecto sin un registro fuente revisable;
     - ocultar insumos, evidencia, supuestos de calibración, versiones o vías de impugnación;
     - poner una decisión de efecto del Capítulo Nueve dentro de un registro del Capítulo Ocho;
-    - tratar un [Registro de caso de foro](core_05_band_accountability.md#forum-case-record), una etiqueta de presentación, una orden temporal o una acusación inacabada como un registro de trayectoria;
+    - tratar un [Registro de caso de foro](core_05_band_accountability.md#registro-de-caso-de-foro), una etiqueta de presentación, una orden temporal o una acusación inacabada como un registro de trayectoria;
     - imponer trayectoria adversa específica de actor a partir de un registro colectivo sin vínculo verificado;
     - dejar que el sujeto, un reclamante, un impugnador o una oficina en su línea de control verifique los hechos, ingrese el registro o sostenga su custodia;
     - dejar que un mismo asiento verifique e ingrese, o verifique y oiga la impugnación de, el mismo registro;
@@ -2691,8 +2691,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: [Capítulo Nueve §6.2](../../core_11_standing_integration.md#62-competency-bars-and-clearances) (*barras de competencia y habilitaciones*).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Habilitación de competencia](core_05_band_accountability.md#competency-clearance), [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock), [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional), [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y [Transparencia](core_05_band_oversight.md#transparency).
+- Titular canónico: [Capítulo Nueve §6.2](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances) (*barras de competencia y habilitaciones*).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Habilitación de competencia](core_05_band_accountability.md#habilitación-de-competencia), [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Bloqueo de trayectoria](core_05_band_accountability.md#bloqueo-de-trayectoria), [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y [Transparencia](core_05_band_oversight.md#transparencia).
 
 </details>
 
@@ -2704,12 +2704,12 @@ Véase **Invocación conjunta y satisfacción**.
   - **En alcance:**
     - El estándar de cualificación publicado, auditable e impugnable para una vía nominada de confianza, rol, autoridad, supervisión, reconocimiento o administración responsable.
     - Enuncia qué competencia, experiencia, habilidad, formación, contribución y fiabilidad verificadas exige la vía nominada, proporcionadas al impacto, la dependencia y el riesgo previsible.
-    - Cumplir una barra de competencia se evalúa a través de la [Habilitación de competencia](core_05_band_accountability.md#competency-clearance).
+    - Cumplir una barra de competencia se evalúa a través de la [Habilitación de competencia](core_05_band_accountability.md#habilitación-de-competencia).
     - La barra misma no es un efecto de trayectoria, un rango de dignidad, una medida del Piso de Derechos, una puntuación de reputación ni un derecho permanente.
   - **Fuera de alcance:**
     - rankings ordinarios de prestigio o estima social fuera del estándar de cualificación de la vía nominada;
-    - la decisión de [Habilitación de competencia](core_05_band_accountability.md#competency-clearance) misma; y
-    - la capa de [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock) o [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six).
+    - la decisión de [Habilitación de competencia](core_05_band_accountability.md#habilitación-de-competencia) misma; y
+    - la capa de [Bloqueo de trayectoria](core_05_band_accountability.md#bloqueo-de-trayectoria) o [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six).
 <a id="competency-bar-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la obligación de responder mantienen reales los deberes?* / *¿Se resuelven disputas, correcciones y reparaciones mientras el remedio aún importa?*
@@ -2736,8 +2736,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: [Capítulo Nueve §6.2](../../core_11_standing_integration.md#62-competency-bars-and-clearances) (*barras de competencia y habilitaciones*).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Barra de competencia](core_05_band_accountability.md#competency-bar), [Naturaleza de la contribución](core_05_band_accountability.md#contribution-nature), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock), [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional), [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y [Transparencia](core_05_band_oversight.md#transparency).
+- Titular canónico: [Capítulo Nueve §6.2](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances) (*barras de competencia y habilitaciones*).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Barra de competencia](core_05_band_accountability.md#barra-de-competencia), [Naturaleza de la contribución](core_05_band_accountability.md#naturaleza-de-la-contribución), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Bloqueo de trayectoria](core_05_band_accountability.md#bloqueo-de-trayectoria), [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y [Transparencia](core_05_band_oversight.md#transparencia).
 
 </details>
 
@@ -2747,12 +2747,12 @@ Véase **Invocación conjunta y satisfacción**.
 
 - **Qué es**
   - **En alcance:**
-    - Un resultado positivo de efecto de trayectoria que registra la preparación verificada contra la [Barra de competencia](core_05_band_accountability.md#competency-bar) aplicable para roles sensibles a la confianza, autoridad delegada, elegibilidad de supervisión, reconocimiento reforzado o responsabilidad de administración responsable cada vez más consecuente.
-    - La habilitación puede sostener la apertura de la vía nominada solo cuando ningún [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock) aplicable la bloquea.
+    - Un resultado positivo de efecto de trayectoria que registra la preparación verificada contra la [Barra de competencia](core_05_band_accountability.md#barra-de-competencia) aplicable para roles sensibles a la confianza, autoridad delegada, elegibilidad de supervisión, reconocimiento reforzado o responsabilidad de administración responsable cada vez más consecuente.
+    - La habilitación puede sostener la apertura de la vía nominada solo cuando ningún [Bloqueo de trayectoria](core_05_band_accountability.md#bloqueo-de-trayectoria) aplicable la bloquea.
     - La habilitación de competencia es la contraparte orientada a la apertura de un bloqueo de trayectoria, pero no es reputación, prestigio social, patrocinio de insiders, monopolio de credenciales, rango de dignidad, medida del Piso de Derechos ni derecho permanente.
   - **Fuera de alcance:**
-    - la [Barra de competencia](core_05_band_accountability.md#competency-bar) publicada sola;
-    - las restricciones de [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock);
+    - la [Barra de competencia](core_05_band_accountability.md#barra-de-competencia) publicada sola;
+    - las restricciones de [Bloqueo de trayectoria](core_05_band_accountability.md#bloqueo-de-trayectoria);
     - los mínimos del Piso de Derechos; o
     - los hallazgos no resueltos del Eje de Violación.
 <a id="competency-gate-a"></a>
@@ -2761,7 +2761,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Actuación a tiempo](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *¿Las estructuras de recompensa, el poder de mercado y la obligación de responder mantienen reales los deberes?* / *¿Se resuelven disputas, correcciones y reparaciones mientras el remedio aún importa?*
 
     **Evaluación primaria:**
-    - Compruebe que la habilitación descanse en criterios publicados de [Barra de competencia](core_05_band_accountability.md#competency-bar) que sean específicos de la vía nominada, proporcionados, auditables, impugnables, suficientemente vigentes y trazables a contribución, experiencia, habilidad, formación, fiabilidad verificadas o insumos equivalentes de preparación.
+    - Compruebe que la habilitación descanse en criterios publicados de [Barra de competencia](core_05_band_accountability.md#barra-de-competencia) que sean específicos de la vía nominada, proporcionados, auditables, impugnables, suficientemente vigentes y trazables a contribución, experiencia, habilidad, formación, fiabilidad verificadas o insumos equivalentes de preparación.
     - Reconozca la experiencia informal o no institucional — como experiencia no remunerada, organizada entre pares, de ayuda mutua, de mantenimiento, de reparación, de enseñanza y de administración responsable comunitaria — cuando cumple los mismos estándares de prueba que la experiencia institucional formal.
     - Cualquier bloqueo de trayectoria aplicable sigue controlando si el efecto ligado a confianza, rol, autoridad, supervisión o reconocimiento puede abrirse.
 <a id="competency-gate-c"></a>
@@ -2783,8 +2783,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: [Capítulo Nueve §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos de trayectoria*).
-- Leer con: [Capítulo Nueve §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos generales de trayectoria*); [Capítulo Nueve §5](../../core_11_standing_integration.md#5-lock-design-and-enforcement) (*diseño y ejecución del bloqueo*); la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Barra de competencia](core_05_band_accountability.md#competency-bar), [Habilitación de competencia](core_05_band_accountability.md#competency-clearance), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Titular canónico: [Capítulo Nueve §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos de trayectoria*).
+- Leer con: [Capítulo Nueve §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos generales de trayectoria*); [Capítulo Nueve §5](../../core_11.000_standing_integration.md#5-lock-design-and-enforcement) (*diseño y ejecución del bloqueo*); la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Barra de competencia](core_05_band_accountability.md#barra-de-competencia), [Habilitación de competencia](core_05_band_accountability.md#habilitación-de-competencia), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -2804,7 +2804,7 @@ Véase **Invocación conjunta y satisfacción**.
       - supervisión;
       - **governance-voting**; o
       - **stakeholder-participation**.
-    - Un bloqueo de trayectoria no es un rango de dignidad, una reducción del Piso de Derechos, una represalia automática, una puntuación de mérito fusionada, el borrado del estatus de [Parte afectada](core_05_band_participation.md#stakeholder) ni un sustituto de la otra vía nominada.
+    - Un bloqueo de trayectoria no es un rango de dignidad, una reducción del Piso de Derechos, una represalia automática, una puntuación de mérito fusionada, el borrado del estatus de [Parte afectada](core_05_band_participation.md#parte-afectada) ni un sustituto de la otra vía nominada.
   - **Fuera de alcance:**
     - Un bloqueo a partir de alegaciones no verificadas.
     - Un bloqueo permanente sin revisión ni vía de remediación.
@@ -2836,8 +2836,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: la asignación de casilla numérica permanece con la [escala unificada del Capítulo Ocho §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), controlada solo por el impacto verificado. El [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct), en especial su [§1](core_10_a_misconduct_designation.md#1-decision-framework-scope-and-authority), [conjunto de criterios](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment), [análisis de designación](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) y [salvaguardas de debido proceso](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment), gobierna solo si un registro de casilla 7, 8 o 9 del Capítulo Ocho recibe la designación de inconducta anticonstitucional correspondiente. Las anclas heredadas permanecen sin cambio.
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Incidente unificado](core_05_band_accountability.md#unified-incident), [Registro de incidente unificado](core_05_band_accountability.md#unified-incident-record), [Incidente catastrófico único](core_05_band_accountability.md#single-catastrophic-incident), [Patrón sostenido de alta gravedad](core_05_band_accountability.md#sustained-high-gravity-pattern), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Auditabilidad](core_05_band_oversight.md#auditability) e [Impugnabilidad](core_05_band_accountability.md#contestability).
+- Titular canónico: la asignación de casilla numérica permanece con la [escala unificada del Capítulo Ocho §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), controlada solo por el impacto verificado. El [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct), en especial su [§1](core_10_a_misconduct_designation.md#1-decision-framework-scope-and-authority), [conjunto de criterios](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment), [análisis de designación](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) y [salvaguardas de debido proceso](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment), gobierna solo si un registro de casilla 7, 8 o 9 del Capítulo Ocho recibe la designación de inconducta anticonstitucional correspondiente. Las anclas heredadas permanecen sin cambio.
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Incidente unificado](core_05_band_accountability.md#incidente-unificado), [Registro de incidente unificado](core_05_band_accountability.md#registro-de-incidente-unificado), [Incidente catastrófico único](core_05_band_accountability.md#incidente-catastrófico-único), [Patrón sostenido de alta gravedad](core_05_band_accountability.md#patrón-sostenido-de-alta-gravedad), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Auditabilidad](core_05_band_oversight.md#auditabilidad) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
 
 </details>
 
@@ -2880,7 +2880,7 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Titular canónico: [Capítulo Diez §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#anti-constitutional-misconduct-review), [Registro de incidente unificado](core_05_band_accountability.md#unified-incident-record), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Límites del sistema](core_05_band_continuity.md#system-boundaries), [Integridad del límite del sistema](core_05_band_continuity.md#system-boundary-integrity) y [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#revisión-de-inconducta-anticonstitucional), [Registro de incidente unificado](core_05_band_accountability.md#registro-de-incidente-unificado), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad), [Límites del sistema](core_05_band_continuity.md#límites-del-sistema), [Integridad del límite del sistema](core_05_band_continuity.md#integridad-del-límite-del-sistema) y [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -2919,8 +2919,8 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: [Capítulo Diez §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment), [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) y [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Incidente unificado](core_05_band_accountability.md#unified-incident), [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#anti-constitutional-misconduct-review), [Auditabilidad](core_05_band_oversight.md#auditability), [Transparencia](core_05_band_oversight.md#transparency), [Verificabilidad](core_05_band_oversight.md#verifiability) y [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six).
+- Titular canónico: [Capítulo Diez §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment), [§3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) y [§5.4](core_10_b_misconduct_pattern_applications.md#54-inundación-de-zona-de-la-infósfera).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Incidente unificado](core_05_band_accountability.md#incidente-unificado), [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#revisión-de-inconducta-anticonstitucional), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Transparencia](core_05_band_oversight.md#transparencia), [Verificabilidad](core_05_band_oversight.md#verificabilidad) y [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six).
 
 </details>
 
@@ -2971,7 +2971,7 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Titular canónico: [Capítulo Diez §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*formas de incidente para la designación*).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#anti-constitutional-misconduct-review), [Incidente unificado](core_05_band_accountability.md#unified-incident), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Daño irreversible](core_05_band_accountability.md#irreversible-harm), el Piso de Derechos del Capítulo Seis y [Restricción constitucional](core_05_band_integrative.md#constitutional-constraint).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#revisión-de-inconducta-anticonstitucional), [Incidente unificado](core_05_band_accountability.md#incidente-unificado), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Daño irreversible](core_05_band_accountability.md#daño-irreversible), el Piso de Derechos del Capítulo Seis y [Restricción constitucional](core_05_band_integrative.md#restricción-constitucional).
 
 </details>
 
@@ -3010,7 +3010,7 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Titular canónico: [Capítulo Diez §2](core_10_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*formas de incidente para la designación*).
-- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#anti-constitutional-misconduct-review), [Incidente unificado](core_05_band_accountability.md#unified-incident), [Registro de incidente unificado](core_05_band_accountability.md#unified-incident-record), criterio 3 del Capítulo Diez (*Efecto de reversión material*), [Captura del sistema](core_05_band_continuity.md#system-capture), [Deber de revisión y corrección](core_05_band_continuity.md#review-and-correction-duty-constitutional) y [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability).
+- Leer con: la [agrupación Estado de trayectoria, contribución y violación](core_05_band_participation.md#standing-state-contribution-and-violation-cluster), [Revisión de inconducta anticonstitucional](core_05_band_accountability.md#revisión-de-inconducta-anticonstitucional), [Incidente unificado](core_05_band_accountability.md#incidente-unificado), [Registro de incidente unificado](core_05_band_accountability.md#registro-de-incidente-unificado), criterio 3 del Capítulo Diez (*Efecto de reversión material*), [Captura del sistema](core_05_band_continuity.md#captura-del-sistema), [Deber de revisión y corrección](core_05_band_continuity.md#review-and-correction-duty-constitutional) y [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -3056,11 +3056,11 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Marco constitucional: pata de **Rendición de cuentas**; finalidad **Continuidad** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
+- Marco constitucional: pata de **Rendición de cuentas**; finalidad **Continuidad** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
 - Nota trans-pata: integrativa con **Continuidad** donde está implicado el daño irreversible.
 - Desambiguación de Continuidad: Distinga la finalidad constitucional de **Continuidad** de los protocolos operativos de fuerza.
-- Base del Capítulo Uno: Capítulo Uno §8.1, §11.1, §12.1, §9 (véase el mapa de la [Brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map)).
-- Leer con: Aplique [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Riesgo existencial](core_05_band_continuity.md#existential-risk), [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) donde estén materialmente implicados.
+- Base del Capítulo Uno: Capítulo Uno §8.1, §11.1, §12.1, §9 (véase el mapa de la [Brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco)).
+- Leer con: Aplique [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial), [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas) y [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) donde estén materialmente implicados.
 
 </details>
 
@@ -3103,9 +3103,9 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (**Necesidad**, **Proporcionalidad**, escrutinio reforzado); [6. Resolución de conflictos de proceso](core_05_apex_accountability_leg.md#6-process-conflict-resolution) (emergencia / escalada leída con el **Artículo XIV-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*)).
-- Piso titular: [Artículo XIV-B](../../core_06_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*). Contraparte de poder manifiesto de los límites de poder encubierto del [Artículo XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*). No confusión: esta entrada no autoriza, extiende ni predica la privación involuntaria de la vida bajo el **Artículo XXIV-B** (*Prohibición categórica de la privación irreversible de la vida como medida de justicia*, según revisado); lea con [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional).
+- Piso titular: [Artículo XIV-B](../../core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*). Contraparte de poder manifiesto de los límites de poder encubierto del [Artículo XIV-A](../../core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*). No confusión: esta entrada no autoriza, extiende ni predica la privación involuntaria de la vida bajo el **Artículo XXIV-B** (*Prohibición categórica de la privación irreversible de la vida como medida de justicia*, según revisado); lea con [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional).
 - Componente de agrupación: [Def.A4 *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Leer con: [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional), [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional), [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional), [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Riesgo existencial](core_05_band_continuity.md#existential-risk).
+- Leer con: [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional), [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional), [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional), [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial).
 
 </details>
 
@@ -3115,11 +3115,11 @@ Véase **Invocación conjunta y satisfacción**.
 
 - **Qué es**
   - **En alcance:** Aplicación manifiesta de fuerza física, coercitiva o cinética por instituciones, quienes administran, operadores o actores comparables, incluida:
-    - el despliegue de seguridad, policía, conflicto y poder militar bajo los registros que cubre el [Artículo XIV-B](../../core_06_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*); y
+    - el despliegue de seguridad, policía, conflicto y poder militar bajo los registros que cubre el [Artículo XIV-B](../../core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*); y
     - la aplicación tanto a quienes usan la fuerza como a los sencientes afectados por la fuerza.
 
     El Uso de la fuerza es constitucionalmente excepcional.
-  - **Depende de:** [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) — límites de validez. La fuerza es válida solo donde:
+  - **Depende de:** [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) — límites de validez. La fuerza es válida solo donde:
     - la autoridad es lícita y publicada;
     - el objetivo es constitucionalmente legítimo y materialmente serio;
     - medios menos dañinos no son razonablemente suficientes; y
@@ -3136,16 +3136,16 @@ Véase **Invocación conjunta y satisfacción**.
     - que la autorización sea lícita y publicada;
     - que el objetivo sea legítimo y materialmente serio;
     - que los medios menos dañinos no sean razonablemente suficientes;
-    - [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality) y adaptación estrecha a lo largo del uso;
+    - [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) y adaptación estrecha a lo largo del uso;
     - la selección de objetivos bajo [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional);
-    - [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) cuando el despliegue escalado o adversario es previsible;
-    - [Riesgo existencial](core_05_band_continuity.md#existential-risk) cuando las [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) están materialmente implicadas; y
+    - [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas) cuando el despliegue escalado o adversario es previsible;
+    - [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial) cuando las [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) están materialmente implicadas; y
     - la disciplina de resultado bajo [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
     Una etiqueta de emergencia falla esta prueba si la extensión indefinida o la reautorización rutinaria hace la fuerza normal en la práctica.
 <a id="use-of-force-constitutional-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Usar la fuerza sin alguno de los siguientes bajo el [Artículo XIV-B](../../core_06_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*):
+  - **Falla primaria:** Usar la fuerza sin alguno de los siguientes bajo el [Artículo XIV-B](../../core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*):
     - autoridad lícita publicada;
     - un objetivo legítimo y materialmente serio;
     - prueba de que los medios menos dañinos son insuficientes; o
@@ -3170,9 +3170,9 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [4. Restricciones de principio no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [8.1.1 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality) (daño irreversible e índice de riesgo existencial).
-- Piso titular: [Artículo XIV-C](../../core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*). Interacción de riesgo existencial: [Artículo I-D](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*). Implementación de capa de sistemas: [Artículo XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*).
+- Piso titular: [Artículo XIV-C](../../core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*). Interacción de riesgo existencial: [Artículo I-D](../../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*). Implementación de capa de sistemas: [Artículo XIII-A](../../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*).
 - Componente de agrupación: [Def.A4 *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Leer con: [Herramienta de coerción autónoma](core_05_band_accountability.md#autonomous-coercion-tool-constitutional), [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional), [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional), [Riesgo existencial](core_05_band_continuity.md#existential-risk), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-formal-label-and-representation-gaming).
+- Leer con: [Herramienta de coerción autónoma](core_05_band_accountability.md#autonomous-coercion-tool-constitutional), [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional), [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional), [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-juegos-de-etiqueta-formal-y-de-representación).
 
 </details>
 
@@ -3186,7 +3186,7 @@ Véase **Invocación conjunta y satisfacción**.
     - enjambres;
     - cadenas de selección de objetivos mediadas por software; y
     - arreglos híbridos.
-  - **Depende de:** [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional) y [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) — límites constitutivos bajo el [Artículo XIV-C](../../core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*). El despliegue y cada decisión de selección de objetivos deben satisfacer:
+  - **Depende de:** [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional) y [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) — límites constitutivos bajo el [Artículo XIV-C](../../core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*). El despliegue y cada decisión de selección de objetivos deben satisfacer:
     - la validez del Uso de la fuerza; y
     - la disciplina de Distinción combatiente / no combatiente.
   - **Fuera de alcance:**
@@ -3199,19 +3199,19 @@ Véase **Invocación conjunta y satisfacción**.
     **Evaluación primaria:** Juzgue lo que el sistema hace de hecho, no cómo se llama. Como mínimo, compruebe:
 
     - que el juicio sustantivo de un humano dé forma material a cada decisión de selección de objetivos o de ataque a velocidad operativa, en vez de meramente aprobarla después;
-    - la exactitud de clasificación, la robustez bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) y la conducta de modo de falla que satisfaga de forma independiente la [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional);
-    - si la capacidad, la escala o las condiciones de despliegue implican de forma material el [Riesgo existencial](core_05_band_continuity.md#existential-risk), activando el escrutinio del [Artículo I-D](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*);
-    - si las vías de recuperación, anulación e intervención bajo [Autosanación](core_05_band_continuity.md#self-healing-constitutional) y el [Artículo XIII-F](../../core_06_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Línea de base de resiliencia y autosanación*) son sustantivas, no nominales; y
+    - la exactitud de clasificación, la robustez bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas) y la conducta de modo de falla que satisfaga de forma independiente la [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional);
+    - si la capacidad, la escala o las condiciones de despliegue implican de forma material el [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial), activando el escrutinio del [Artículo I-D](../../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*);
+    - si las vías de recuperación, anulación e intervención bajo [Autosanación](core_05_band_continuity.md#self-healing-constitutional) y el [Artículo XIII-F](../../core_06.015_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Línea de base de resiliencia y autosanación*) son sustantivas, no nominales; y
     - la disciplina de resultado bajo [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) para cada aplicación.
 <a id="autonomous-lethal-system-constitutional-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Desplegar o usar un Sistema letal autónomo bajo el [Artículo XIV-C](../../core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*) cuando:
+  - **Falla primaria:** Desplegar o usar un Sistema letal autónomo bajo el [Artículo XIV-C](../../core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*) cuando:
     - el juicio sustantivo de un humano no da forma material a cada decisión de selección de objetivos o de ataque; o
     - se usa un encuadre de intención del operador para encubrir la ausencia de ese juicio.
   - **Falla secundaria:** Desplegar o usar un sistema sin probar de forma independiente que satisface la [Distinción combatiente / no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) bajo:
     - condiciones adversarias; y
     - condiciones escaladas.
-  - **Falla terciaria:** Tratar tal sistema como una expansión ordinaria de capacidad en vez de un objeto del [Artículo I-D](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*) cuando los umbrales de riesgo existencial están materialmente implicados.
+  - **Falla terciaria:** Tratar tal sistema como una expansión ordinaria de capacidad en vez de un objeto del [Artículo I-D](../../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*) cuando los umbrales de riesgo existencial están materialmente implicados.
 
 ---
 
@@ -3224,9 +3224,9 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [4. Restricciones de principio no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [8.1.1 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality) (**Riesgo existencial**, **Daño irreversible**, escala de daño trans-sistémico).
-- Piso titular: [Artículo XIV-B](../../core_06_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*). Interacción de riesgo existencial: [Artículo I-D](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*). Interacción de precondiciones ambientales: [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*).
+- Piso titular: [Artículo XIV-B](../../core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*). Interacción de riesgo existencial: [Artículo I-D](../../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*). Interacción de precondiciones ambientales: [Artículo I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*).
 - Componente de agrupación: [Def.A4 *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Leer con: [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Riesgo existencial](core_05_band_continuity.md#existential-risk), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Falla en cascada](core_05_band_continuity.md#cascading-failure), [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional), [Infoesfera](core_05_band_participation.md#info-sphere), [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Leer con: [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Falla en cascada](core_05_band_continuity.md#falla-en-cascada), [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional), [Infoesfera](core_05_band_participation.md#infoesfera), [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -3246,7 +3246,7 @@ Véase **Invocación conjunta y satisfacción**.
     - informacional;
     - de infraestructura; y
     - híbrida.
-  - **Depende de:** [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Riesgo existencial](core_05_band_continuity.md#existential-risk) e [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional) — límites constitutivos. La posesión, la transferencia, el despliegue o el uso deben satisfacer:
+  - **Depende de:** [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial) e [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional) — límites constitutivos. La posesión, la transferencia, el despliegue o el uso deben satisfacer:
     - la disciplina de Uso de la fuerza; y
     - los umbrales de escala de daño que suministran estas entradas.
   - **Fuera de alcance:**
@@ -3256,7 +3256,7 @@ Véase **Invocación conjunta y satisfacción**.
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Florecimiento](core_05_apex_flourishing_aim.md#flourishing-measurement-family) y [Familia de medición Continuidad](core_05_apex_continuity_aim.md#continuity-measurement-family) — *¿Se sostiene a los sencientes en la vida, la seguridad y el acceso a lo esencial?* / *¿Pueden perdurar sencientes y sistemas — de forma ecológica, fiable y a través de la falla?*
 
-    **Evaluación primaria:** Evalúe el daño previsible bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), cubriendo:
+    **Evaluación primaria:** Evalúe el daño previsible bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas), cubriendo:
 
     - daño de bajas;
     - daño ecológico;
@@ -3265,17 +3265,17 @@ Véase **Invocación conjunta y satisfacción**.
 
     Aplique también:
 
-    - [Falla en cascada](core_05_band_continuity.md#cascading-failure) cuando la propagación a todo el sistema es plausible;
-    - [Riesgo existencial](core_05_band_continuity.md#existential-risk) cuando los umbrales del **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) están materialmente implicados; y
+    - [Falla en cascada](core_05_band_continuity.md#falla-en-cascada) cuando la propagación a todo el sistema es plausible;
+    - [Riesgo existencial](core_05_band_continuity.md#riesgo-existencial) cuando los umbrales del **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) están materialmente implicados; y
     - [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) a la vía de recuperación.
 
     No trate un arma que cumple estos umbrales de escala de daño como una herramienta ordinaria de escalada de fuerza.
 <a id="weapons-of-mass-harm-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Poseer, transferir, desplegar o usar Armas de daño masivo sin cumplir cada uno de los siguientes donde estén materialmente implicados:
-    - las reglas de fuerza del [Artículo XIV-B](../../core_06_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*);
-    - las reglas de precondiciones ambientales del [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*); y
-    - el escrutinio del [Artículo I-D](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*).
+    - las reglas de fuerza del [Artículo XIV-B](../../core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*);
+    - las reglas de precondiciones ambientales del [Artículo I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*); y
+    - el escrutinio del [Artículo I-D](../../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Riesgo existencial y capacidad de recuperación ecológica*).
   - **Falla secundaria:** Pretender que el **Artículo I-D** no aplica basándose solo en la taxonomía de arma cuando la escala previsible de daño alcanza sus umbrales.
 
 ---
@@ -3290,9 +3290,9 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [8.1.1 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality); [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (duda de estatus de combatiente y protección de no combatientes).
-- Piso titular: [Artículo XIV-B](../../core_06_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*); interactúa con el [Artículo XIV-C](../../core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*) sobre el cumplimiento de la selección autónoma de objetivos.
+- Piso titular: [Artículo XIV-B](../../core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Uso de la fuerza, conflicto armado y límites del poder militar*); interactúa con el [Artículo XIV-C](../../core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*) sobre el cumplimiento de la selección autónoma de objetivos.
 - Componente de agrupación: [Def.A4 *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Leer con: [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional), [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
+- Leer con: [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional), [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
 
 </details>
 
@@ -3313,7 +3313,7 @@ Véase **Invocación conjunta y satisfacción**.
     - rasgos demográficos;
     - rasgos de características protegidas; o
     - rasgos de proxy.
-  - **Depende de:** [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional) — límites constitutivos. La distinción:
+  - **Depende de:** [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional) — límites constitutivos. La distinción:
     - aplica a todos los sencientes sin estrechamiento por clase de sustrato; y
     - opera solo dentro de las decisiones aplicables de Uso de la fuerza.
   - **Fuera de alcance:**
@@ -3330,12 +3330,12 @@ Véase **Invocación conjunta y satisfacción**.
 
     - la conducta real del individuo en el momento pertinente, no solo una designación formal de clase;
     - si una reclasificación conveniente arrastra poblaciones protegidas hacia el estatus de combatiente;
-    - si la clasificación usa [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) o proxies materiales bajo [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact); y
-    - si la duda se resuelve hacia el estatus de no combatiente, de forma consistente con [Proporcionalidad](core_05_band_accountability.md#proportionality) y [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional).
+    - si la clasificación usa [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) o proxies materiales bajo [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar); y
+    - si la duda se resuelve hacia el estatus de no combatiente, de forma consistente con [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) y [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional).
 
-    Para sistemas autónomos, evalúe bajo el [Artículo XIV-C](../../core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*):
+    Para sistemas autónomos, evalúe bajo el [Artículo XIV-C](../../core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*):
     - la exactitud de clasificación; y
-    - los modos de falla bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - los modos de falla bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas).
 <a id="combatant-non-combatant-distinction-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
@@ -3344,7 +3344,7 @@ Véase **Invocación conjunta y satisfacción**.
     - selección de objetivos basada en características protegidas o proxies materiales;
     - reclasificaciones convenientes que arrastran poblaciones protegidas hacia el estatus de combatiente; o
     - asignación por grupo demográfico, característica protegida o clase formal usada como estatus de combatiente sin conducta individual en el momento de la decisión de fuerza.
-  - **Falla secundaria:** Clasificación de sistema autónomo cuya exactitud o conducta de falla no satisface de forma independiente esta distinción bajo el [Artículo XIV-C](../../core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*) cuando se pone a prueba bajo:
+  - **Falla secundaria:** Clasificación de sistema autónomo cuya exactitud o conducta de falla no satisface de forma independiente esta distinción bajo el [Artículo XIV-C](../../core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*) cuando se pone a prueba bajo:
     - condiciones adversarias; y
     - condiciones escaladas.
 
@@ -3359,9 +3359,9 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [8. Prohibición de anulación absoluta](core_05_apex_accountability_leg.md#7-prohibition-on-absolute-override) (restricción no trivial y piso de dignidad leídos con el **Artículo XXIV-B** (*Restricciones no triviales, restitución y rendición de cuentas restaurativa*)).
-- Piso titular: [Artículo XXIV-B](../../core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*Prohibición categórica de la privación irreversible de la vida como medida de justicia*). Punteros de interacción: [Artículo XXIV-C](../../core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*Regla menos restrictiva y acotada en el tiempo*) disciplina de contención duradera; [Artículo XXVI](../../core_06_rights_part_d.md#article-xxvi-constitutional-evolution-and-non-entrenchment) (*Evolución constitucional y no enquistamiento*) no enquistamiento; [Artículo XXVII](../../core_06_rights_part_d.md#article-xxvii-transition-governance-continuity-and-re-baselining) (*Gobernanza de transición, Continuidad y rebasado de línea de base*) gobernanza de transición y regla de «ninguna autoridad de excepción duradera».
+- Piso titular: [Artículo XXIV-B](../../core_06.020_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*Prohibición categórica de la privación irreversible de la vida como medida de justicia*). Punteros de interacción: [Artículo XXIV-C](../../core_06.020_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*Regla menos restrictiva y acotada en el tiempo*) disciplina de contención duradera; [Artículo XXVI](../../core_06.020_rights_part_d.md#article-xxvi-constitutional-evolution-and-non-entrenchment) (*Evolución constitucional y no enquistamiento*) no enquistamiento; [Artículo XXVII](../../core_06.020_rights_part_d.md#article-xxvii-transition-governance-continuity-and-re-baselining) (*Gobernanza de transición, Continuidad y rebasado de línea de base*) gobernanza de transición y regla de «ninguna autoridad de excepción duradera».
 - Componente de agrupación: [Def.A4 *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Leer con: [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Discontinuación voluntaria](core_05_band_continuity.md#voluntary-discontinuation-constitutional), [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional), [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional), [Herramienta de coerción autónoma](core_05_band_accountability.md#autonomous-coercion-tool-constitutional), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Daño irreversible](core_05_band_accountability.md#irreversible-harm).
+- Leer con: [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Discontinuación voluntaria](core_05_band_continuity.md#voluntary-discontinuation-constitutional), [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional), [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional), [Herramienta de coerción autónoma](core_05_band_accountability.md#autonomous-coercion-tool-constitutional), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y [Daño irreversible](core_05_band_accountability.md#daño-irreversible).
 
 </details>
 
@@ -3374,14 +3374,14 @@ Véase **Invocación conjunta y satisfacción**.
     - de forma paradigmática, la privación de la vida por un Estado, un operador o un actor comparable como medida de justicia; y
     - de forma analítica, cualquier medida cuyo efecto queda vedado a la [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) y a la [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
-    Aplica bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    Aplica bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Depende de:** Límites constitutivos de qué cuenta como privación irreversible y quién está protegido:
-    - [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion);
+    - [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia);
     - [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional); y
     - [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
   - **Fuera de alcance:**
-    - contención duradera pero reversible bajo el [Artículo XXIV-C](../../core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*Regla menos restrictiva y acotada en el tiempo*), sujeta a su disciplina de límite de duración, cadencia de revisión y restauración;
-    - [Discontinuación voluntaria](core_05_band_continuity.md#voluntary-discontinuation-constitutional) (la decisión de formación libre del propio senciente bajo el [Artículo VIII-D](../../core_06_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Discontinuación voluntaria de la propia existencia*)); y
+    - contención duradera pero reversible bajo el [Artículo XXIV-C](../../core_06.020_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*Regla menos restrictiva y acotada en el tiempo*), sujeta a su disciplina de límite de duración, cadencia de revisión y restauración;
+    - [Discontinuación voluntaria](core_05_band_continuity.md#voluntary-discontinuation-constitutional) (la decisión de formación libre del propio senciente bajo el [Artículo VIII-D](../../core_06.010_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Discontinuación voluntaria de la propia existencia*)); y
     - la operación manifiesta de [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional), [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) y [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional) / [Herramienta de coerción autónoma](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) gobernada por los Artículos XIV-B / XIV-C bajo su propia disciplina de piso titular incluso donde los efectos son irreversibles, sin lectura transversal que autorice una medida de privación.
 <a id="irreversible-deprivation-measure-measurements"></a>
 <a id="irreversible-deprivation-measure-constitutional-a"></a>
@@ -3409,9 +3409,9 @@ Véase **Invocación conjunta y satisfacción**.
     - [Herramienta de coerción autónoma](core_05_band_accountability.md#autonomous-coercion-tool-constitutional).
 
     Esas entradas gobiernan la disciplina de fuerza y de armas bajo sus propios pisos titulares sin autorizar medidas de privación. Aplique de forma agnóstica al sustrato:
-    - [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion);
-    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing); y
-    - [Daño irreversible](core_05_band_accountability.md#irreversible-harm).
+    - [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia);
+    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral); y
+    - [Daño irreversible](core_05_band_accountability.md#daño-irreversible).
 
     El estrechamiento por clase de sustrato (p. ej., «la terminación de una instancia sintética no es privación de la vida dentro de esta entrada») falla esta evaluación.
 <a id="irreversible-deprivation-measure-constitutional-c"></a>
@@ -3421,7 +3421,7 @@ Véase **Invocación conjunta y satisfacción**.
     - enrutar la medida prohibida a través de la asignación de impacto del Capítulo Ocho, la designación del Capítulo Diez, el encuadre de emergencia, la gobernanza de transición o de rebasado de línea de base, o la custodia de instrumento de quien adopta para reintroducirla;
     - usar la contención duradera pero reversible bajo el **Artículo XXIV-C** (*Regla menos restrictiva y acotada en el tiempo*) como peldaño o justificación de la medida prohibida; o
     - reetiquetar un resultado impuesto de forma involuntaria como «discontinuación voluntaria» para enrutar hacia el **Artículo VIII-D** (*Discontinuación voluntaria de la propia existencia*).
-  - **Falla terciaria:** Estrechamientos por clase de sustrato solo por motivos de taxonomía ([No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion)).
+  - **Falla terciaria:** Estrechamientos por clase de sustrato solo por motivos de taxonomía ([No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia)).
 
 ---
 
@@ -3433,10 +3433,10 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [4. Restricciones de principio no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escrutinio de despliegue escalado / adversario).
-- Piso titular: [Artículo XIV-C](../../core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*). Implementación de capa de sistemas: [Artículo XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*) y *[corpus_systems.md](../../corpus_systems.md)*, CS-3 — Clasificación del sistema y clasificación de manejo.
+- Destino: Principios: [4. Restricciones de principio no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escrutinio de despliegue escalado / adversario).
+- Piso titular: [Artículo XIV-C](../../core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*). Implementación de capa de sistemas: [Artículo XIII-A](../../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*) y *[corpus_systems.md](../../corpus_systems.md)*, CS-3 — Clasificación del sistema y clasificación de manejo.
 - Componente de agrupación: [Def.A4 *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster).
-- Leer con: [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Fiabilidad](core_05_band_continuity.md#trustworthiness), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) y [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-formal-label-and-representation-gaming).
+- Leer con: [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Fiabilidad](core_05_band_continuity.md#fiabilidad), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), [Agencia significativa](core_05_band_participation.md#agencia-significativa), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) y [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-juegos-de-etiqueta-formal-y-de-representación).
 
 </details>
 
@@ -3455,10 +3455,10 @@ Véase **Invocación conjunta y satisfacción**.
     - inflicción de trauma psicológico, estrés agudo o desestabilización psicológica crónica.
 
     Agnóstica al sustrato, cubriendo tanto efectos coercitivos no letales como letales.
-  - **Depende de:** [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Agencia significativa](core_05_band_participation.md#meaningful-agency) y [Fiabilidad](core_05_band_continuity.md#trustworthiness) — límites constitutivos bajo el [Artículo XIV-C](../../core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*). El alcance coercitivo no debe derrotar:
+  - **Depende de:** [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Agencia significativa](core_05_band_participation.md#agencia-significativa) y [Fiabilidad](core_05_band_continuity.md#fiabilidad) — límites constitutivos bajo el [Artículo XIV-C](../../core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Sistemas letales autónomos y herramientas de coerción autónoma*). El alcance coercitivo no debe derrotar:
     - la protección agnóstica al sustrato;
     - los pisos de agencia; o
-    - la conducta de dependencia justificada y no arbitraria bajo [Fiabilidad](core_05_band_continuity.md#trustworthiness).
+    - la conducta de dependencia justificada y no arbitraria bajo [Fiabilidad](core_05_band_continuity.md#fiabilidad).
   - **Fuera de alcance:**
     - sistemas que automatizan tareas permitidas sin coaccionar a sencientes; o
     - sistemas donde el juicio real y oportuno de un humano da forma a cada aplicación coercitiva.
@@ -3468,11 +3468,11 @@ Véase **Invocación conjunta y satisfacción**.
 
     **Evaluación primaria:** Juzgue lo que el sistema hace de hecho, no cómo se llama. Como mínimo, compruebe:
 
-    - pretensiones nominales de humano-en-el-bucle y de clasificación de capa de sistemas bajo [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-formal-label-and-representation-gaming);
+    - pretensiones nominales de humano-en-el-bucle y de clasificación de capa de sistemas bajo [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-juegos-de-etiqueta-formal-y-de-representación);
     - el efecto coercitivo sobre los sencientes, no la etiqueta de clase de arma («no letal» no es una defensa cuando hay coerción);
-    - si la conducta y las exigencias del sistema son no fiables o arbitrarias bajo [Fiabilidad](core_05_band_continuity.md#trustworthiness);
-    - la exactitud de clasificación y los modos de falla bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions);
-    - la lógica de selección de objetivos bajo [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) y [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact); y
+    - si la conducta y las exigencias del sistema son no fiables o arbitrarias bajo [Fiabilidad](core_05_band_continuity.md#fiabilidad);
+    - la exactitud de clasificación y los modos de falla bajo [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas);
+    - la lógica de selección de objetivos bajo [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) y [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar); y
     - la disciplina de resultado bajo [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) para cada aplicación.
 <a id="autonomous-coercion-tool-constitutional-c"></a>
 - **Qué debe sostenerse**
@@ -3485,7 +3485,7 @@ Véase **Invocación conjunta y satisfacción**.
     - «no lo que el operador pretendía».
   - **Falla terciaria:**
     - lógica de selección de objetivos anclada en características protegidas o sus proxies materiales; o
-    - usar conducta y exigencias no fiables o arbitrarias como medio coercitivo ([Fiabilidad](core_05_band_continuity.md#trustworthiness)).
+    - usar conducta y exigencias no fiables o arbitrarias como medio coercitivo ([Fiabilidad](core_05_band_continuity.md#fiabilidad)).
 
 ---
 
@@ -3495,9 +3495,9 @@ Véase **Invocación conjunta y satisfacción**.
 *En términos sencillos: una retención provisional limita temporalmente el uso de una autoridad concreta mientras se verifican los hechos. No decide el fondo del asunto.*
 
 - **Dentro del alcance:** Orden provisional de un foro competente, fundada en causa probable y dirigida a una autoridad, vía o asunto concretos de una persona sentiente. Debe indicar fundamento, alcance, vencimiento y vía de revisión, y emplear la medida eficaz menos restrictiva. Puede exigir divulgación y vigilancia, un co-titular independiente o segunda llave, apartamiento de un asunto, depósito o separación del elemento controvertido, o limitar el ejercicio de la autoridad nombrada.
-- **Fuera del alcance:** [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock), que requiere una determinación verificada; [Suspensión](core_05_band_accountability.md#stay), que pausa una acción o un paso; medidas de emergencia de contención; y restricciones de libertad, cuidado protegido, voto, expresión, reunión, disenso, denuncia protegida, acceso a la supervivencia o al piso de derechos, suspensión de un organismo entero o incautación general de bienes.
+- **Fuera del alcance:** [Bloqueo de trayectoria](core_05_band_accountability.md#bloqueo-de-trayectoria), que requiere una determinación verificada; [Suspensión](core_05_band_accountability.md#suspensión), que pausa una acción o un paso; medidas de emergencia de contención; y restricciones de libertad, cuidado protegido, voto, expresión, reunión, disenso, denuncia protegida, acceso a la supervivencia o al piso de derechos, suspensión de un organismo entero o incautación general de bienes.
 <a id="interim-hold-a"></a>
-- **Medición y evaluación:** Use las familias de medición de [Rendición de cuentas](core_05_apex_accountability_leg.md#measuring-accountability) y [Oportunidad](core_05_apex_timeliness_leg.md#measuring-timeliness). Registre la persona y autoridad limitadas, el foro emisor y su independencia, la base de causa probable y nivel de evidencia, el riesgo que no podía esperar, por qué una medida más leve no bastaba, el vencimiento y la revisión. Evalúe bajo [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality); distinga la retención de una determinación, un bloqueo y una sanción.
+- **Medición y evaluación:** Use las familias de medición de [Rendición de cuentas](core_05_apex_accountability_leg.md#medir-la-rendición-de-cuentas) y [Oportunidad](core_05_apex_timeliness_leg.md#medir-la-actuación-a-tiempo). Registre la persona y autoridad limitadas, el foro emisor y su independencia, la base de causa probable y nivel de evidencia, el riesgo que no podía esperar, por qué una medida más leve no bastaba, el vencimiento y la revisión. Evalúe bajo [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad); distinga la retención de una determinación, un bloqueo y una sanción.
 <a id="interim-hold-c"></a>
 - **Qué debe sostenerse — falla primaria:** No emitir sin causa probable ni basarse en mera creencia, identidad, pertenencia a un grupo, disenso que no incite daño ni trato discriminatorio a otras personas, o denuncia protegida; no permitir que el organismo, autoridad nominadora o línea de control del sujeto la emita; limitarla a la autoridad nombrada y no alcanzar una vía excluida; respetar vencimiento y única prórroga permitida; no tratar la retención o su vencimiento como prueba, registro o efecto de trayectoria; no convertirla en bloqueo sin hallazgo verificado; dar motivos, hechos y una vía efectiva de impugnación y revisión; ofrecer reparación por una retención indebida; y usarla solo en situaciones previstas por la Constitución o texto incorporado.
 
@@ -3506,10 +3506,10 @@ Véase **Invocación conjunta y satisfacción**.
 
 *En términos sencillos: es quien tiene un interés real en el resultado de un asunto, incluida quien actúa por esa persona o bajo su control. El estatus no quita el derecho a ser oído; exige registrar el contacto con quienes deciden e impide que la parte interesada también compruebe, registre o decida.*
 
-- **Dentro del alcance:** Para cada asunto, persona sentiente, institución o sistema con [interés material](core_00_preamble.md#material-stake), junto con quienes actúan por él o dentro de su [Línea de Control Material](../../core_05_band_accountability.md#material-control-line). Un asunto incluye decisión, hallazgo, certificación, nombramiento, selección, compra, auditoría, revisión, interpretación o impugnación. El interés es material si el resultado puede cambiar derechos, deberes, condición, trayectoria, recursos o posición, directamente o por titularidad, financiación, empleo, contrato o [dependencia](core_05_band_continuity.md#dependency). Puede incluir solicitantes, reclamantes, sujetos o impugnantes; licitantes, contrapartes, financiadores o beneficiarios; y personas sentientes afectadas. Se determina asunto por asunto.
-- **Fuera del alcance:** Interés general compartido con el público, pericia, consejo, defensa de una causa sin interés propio, asociación profesional o participación ordinaria, por sí solos. El estatus nunca elimina el derecho a participar, ser oído o impugnar; solo regula el contacto con quienes deciden y los puestos que puede ocupar, según el Capítulo Ocho, el [Artículo XII-E](core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) y los textos de implementación.
+- **Dentro del alcance:** Para cada asunto, persona sentiente, institución o sistema con [interés material](core_00_preamble.md#material-stake), junto con quienes actúan por él o dentro de su [Línea de Control Material](../../core_05.035_band_accountability.md#material-control-line). Un asunto incluye decisión, hallazgo, certificación, nombramiento, selección, compra, auditoría, revisión, interpretación o impugnación. El interés es material si el resultado puede cambiar derechos, deberes, condición, trayectoria, recursos o posición, directamente o por titularidad, financiación, empleo, contrato o [dependencia](core_05_band_continuity.md#dependencia). Puede incluir solicitantes, reclamantes, sujetos o impugnantes; licitantes, contrapartes, financiadores o beneficiarios; y personas sentientes afectadas. Se determina asunto por asunto.
+- **Fuera del alcance:** Interés general compartido con el público, pericia, consejo, defensa de una causa sin interés propio, asociación profesional o participación ordinaria, por sí solos. El estatus nunca elimina el derecho a participar, ser oído o impugnar; solo regula el contacto con quienes deciden y los puestos que puede ocupar, según el Capítulo Ocho, el [Artículo XII-E](core_06_rights_part_b.md#artículo-xii-e-límites-al-contacto-de-influencia-y-al-cabildeo) y los textos de implementación.
 <a id="interested-party-a"></a>
-- **Medición y evaluación:** Las familias de medición de [Rendición de cuentas](core_05_apex_accountability_leg.md#measuring-accountability) y [Supervisión](core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) se usan juntas. Verifique que el interés se determinó por la participación material real, no por títulos, entidades legales, intermediarios o mera comparecencia; que ninguna parte interesada ni persona de su Línea de Control Material ocupó los puestos de verificación/autorización, registro o impugnación; y que el contacto con quienes deciden quedó registrado y divulgado conforme a las reglas, manteniendo disponible la defensa abierta y en el expediente.
+- **Medición y evaluación:** Las familias de medición de [Rendición de cuentas](core_05_apex_accountability_leg.md#medir-la-rendición-de-cuentas) y [Supervisión](core_05_apex_oversight_leg.md#medir-la-supervisión-familia-de-medición-del-preámbulo) se usan juntas. Verifique que el interés se determinó por la participación material real, no por títulos, entidades legales, intermediarios o mera comparecencia; que ninguna parte interesada ni persona de su Línea de Control Material ocupó los puestos de verificación/autorización, registro o impugnación; y que el contacto con quienes deciden quedó registrado y divulgado conforme a las reglas, manteniendo disponible la defensa abierta y en el expediente.
 <a id="interested-party-c"></a>
 - **Qué debe sostenerse — falla primaria:** No negar el interés material por un título, entidad, intermediario, distancia nominal o ausencia; el interés indirecto por afiliada, financiador, contratista, representante o sistema automatizado no lo elimina. **Falla secundaria:** no usar este estatus para impedir que una persona afectada sea oída, ni afirmarlo a partir de interés público general, consejo o infraestructura compartida sin probar interés material en el asunto concreto.
 
@@ -3519,4 +3519,4 @@ Véase **Invocación conjunta y satisfacción**.
 
 **Siguiente archivo (este idioma):** [core_05_band_continuity.md](core_05_band_continuity.md)
 
-**Original vinculante:** [core_05_band_accountability.md](../../core_05_band_accountability.md)
+**Original vinculante:** [core_05_band_accountability.md](../../core_05.035_band_accountability.md)

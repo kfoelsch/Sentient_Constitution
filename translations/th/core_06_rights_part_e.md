@@ -69,7 +69,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 กระบวนการแก้ไขความขัดแย้งตามรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) และ [§15 การตีความรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 กระบวนการแก้ไขความขัดแย้งตามรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ) และ [§15 การตีความรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - อ่านร่วมกับ: ชุดการวัดความทันท่วงที (*การแก้ไขอย่างทันท่วงทีในฐานะการวัดตามรัฐธรรมนูญ*).
 
 </details>
@@ -81,9 +81,9 @@ flowchart TB
 - [ความเป็นธรรมเชิงกระบวนการ](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [การแก้ไขอย่างทันท่วงที](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [ความยุติธรรมเชิงเยียวยา](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [O](core_05_band_oversight.md#ความโปรงใส) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -111,7 +111,7 @@ flowchart TB
 *มาตราที่เกี่ยวข้อง:*
 
 - **หลักประกันความทันท่วงที:** ความรวดเร็วในการแก้ไข วินัยต่อต้านความล่าช้า และหลักหมายตามระดับความมีนัยสำคัญอยู่ภายใต้ **มาตรา XXVI-C** (*การแก้ไขอย่างทันท่วงทีและหลักประกันต่อต้านความล่าช้า*) และดำเนินการตาม [บทที่สิบสาม §6 การแก้ไขอย่างทันท่วงที ระดับความมีนัยสำคัญ และวินัยต่อต้านความล่าช้า](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)
-- **การเยียวยาอย่างทันท่วงที:** อ่านร่วมกับ [**มาตรา XIII-B** (*สิทธิในการเรียกร้องการเยียวยาและการแก้ไข*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*การเข้าถึงการเยียวยาอย่างทันท่วงที*)
+- **การเยียวยาอย่างทันท่วงที:** อ่านร่วมกับ [**มาตรา XIII-B** (*สิทธิในการเรียกร้องการเยียวยาและการแก้ไข*)](core_06_rights_part_c.md#มาตรา-xiii-b-สทธในการชดใชและการเยยวยา) (*การเข้าถึงการเยียวยาอย่างทันท่วงที*)
 - **มาตรการฉุกเฉิน:** อยู่ภายใต้ [บทที่สิบสาม §6.1 มาตรการฉุกเฉินและภาระการให้เหตุผลเพื่อดำเนินมาตรการต่อ](core_13_forum.md#61-emergency-measures-and-continuation-burden) การทบทวนย้อนหลังมาตรการฉุกเฉินอยู่ภายใต้ **มาตรา XXVI-A** (*การทบทวนย้อนหลังและการเปิดเผยข้อมูล*)
 - **ความยุติธรรมหลังการละเมิดที่พิสูจน์แล้ว:** อยู่ภายใต้ **มาตรา XX** (*ความยุติธรรมหลังการละเมิดที่พิสูจน์แล้ว*)
 
@@ -126,16 +126,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดการเปิดเผยข้อมูลเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- หลักการต้นทาง: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดการเปิดเผยข้อมูลเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [ความจริง (ข้อจำกัดตามรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [ความจริง (ข้อจำกัดตามรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -163,7 +163,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§13.1.5 การทดสอบเพื่อตัดสินความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- หลักการต้นทาง: บทที่หนึ่ง [§13.1.5 การทดสอบเพื่อตัดสินความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 - อ่านร่วมกับ: [บทที่สิบเอ็ด §4.3 การแสดงความรับผิดรับชอบต่อสาธารณะโดยสมัครใจ](core_11_standing_integration.md#43-voluntary-public-accountability-expression) (*การแสดงความรับผิดรับชอบต่อสาธารณะโดยสมัครใจ*); [บทที่สิบสอง §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*การแสดงความรับผิดรับชอบต่อสาธารณะโดยสมัครใจ (การประพฤติขัดต่อรัฐธรรมนูญ)*).
 
 </details>
@@ -202,7 +202,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
 - หลักการต้นทาง: ชุดการวัดความทันท่วงที (*การแก้ไขอย่างทันท่วงทีและวินัยต่อต้านความล่าช้าในฐานะการวัดตามรัฐธรรมนูญ*); [คำนำ §6.2 ความเชื่อมโยงของกระบวนการทั้งหมด](core_00_preamble.md#62-how-the-full-chain-fits-together) (*กระบวนงานสถานะการยืนหยัด การบูรณาการ และการประสานงานของเวทีพิจารณา*).
-- หลักการ: บทที่หนึ่ง [§9.2 ประสิทธิภาพตามรัฐธรรมนูญ](core_01_a_values_principles.md#92-constitutional-efficiency), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) และ [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- หลักการ: บทที่หนึ่ง [§9.2 ประสิทธิภาพตามรัฐธรรมนูญ](core_01_a_values_principles.md#92-ประสทธภาพตามรฐธรรมนญ), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด) และ [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - ส่วนที่นำไปใช้ต่อ: [บทที่สิบสาม §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*ระดับความมีนัยสำคัญ หลักหมายของกระบวนงาน และวินัยต่อต้านความล่าช้า*); [บทที่สิบสาม §6.1 มาตรการฉุกเฉินและภาระการให้เหตุผลเพื่อดำเนินมาตรการต่อ](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*กรอบเวลาสูงสุดเดียวกับค่าเริ่มต้นสำหรับคืนสิทธิแจ้งและโต้แย้งหลังควบคุมภาวะฉุกเฉิน*).
 - ทางเข้าสำหรับผู้ดูแล (ไม่มีผลบังคับ): บัตรขั้นตอนถัดไป: [ความล่าช้า](implementation/STEWARD_ENTRY_DOORS.md#delay) บัตรนี้ไม่อาจจำกัดรัฐธรรมนูญได้
 
@@ -216,7 +216,7 @@ flowchart TB
 - [ประสิทธิภาพตามรัฐธรรมนูญ](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [ภาระที่หลีกเลี่ยงได้](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [การครอบงำช่องทางการแก้ไข](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [ความมีนัยสำคัญ](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [ความมีนัยสำคัญ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [O](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -229,7 +229,7 @@ flowchart TB
 - **วัตถุประสงค์ด้านการประสานงาน:** ความยุติธรรมตามรัฐธรรมนูญภายใต้ **มาตรา XX-A** (*วัตถุประสงค์และขอบเขตของความยุติธรรม*) ดำเนินผ่าน **ระบบประสานงานและแก้ไขปัญหาตามรัฐธรรมนูญ** ได้แก่ ตรวจสอบข้อเท็จจริง ประเมินสถานะการยืนหยัด บูรณาการผลที่ตามมา และฟื้นฟูเมื่อทำได้ ไม่ใช่ปล่อยให้การต่อสู้เชิงปฏิปักษ์ยืดเยื้อไม่มีกำหนด ให้คะแนนชื่อเสียง หรือลงโทษเพื่อการลงโทษเอง
 - **ข้อกำหนดร่วมสามประการ:** ช่องทางแก้ไขปัญหาที่มีนัยสำคัญต้อง **ทันท่วงที**, **มีประสิทธิภาพ**, และ **เป็นธรรม** พร้อมกัน:
   - **ทันท่วงที** — กำหนดกรอบเวลาตาม [สิ่งที่เป็นเดิมพันอย่างมีนัยสำคัญ](core_00_preamble.md#material-stake) และความเร่งด่วนของความเสียหาย;
-  - **มีประสิทธิภาพ** — [ประสิทธิภาพตามรัฐธรรมนูญ](core_05_band_continuity.md#constitutional-efficiency) ตามความหมายในบทที่หนึ่ง [§9.2 ประสิทธิภาพตามรัฐธรรมนูญ](core_01_a_values_principles.md#92-constitutional-efficiency) คือผลลัพธ์ตามรัฐธรรมนูญที่เกิดขึ้นจริงต่อเวลาและความพยายามร่วมกันที่ผู้มีความรู้สึกใช้ไป ไม่ใช่ปริมาณงานดิบหรือการเร่งปิดสำนวน;
+  - **มีประสิทธิภาพ** — [ประสิทธิภาพตามรัฐธรรมนูญ](core_05_band_continuity.md#constitutional-efficiency) ตามความหมายในบทที่หนึ่ง [§9.2 ประสิทธิภาพตามรัฐธรรมนูญ](core_01_a_values_principles.md#92-ประสทธภาพตามรฐธรรมนญ) คือผลลัพธ์ตามรัฐธรรมนูญที่เกิดขึ้นจริงต่อเวลาและความพยายามร่วมกันที่ผู้มีความรู้สึกใช้ไป ไม่ใช่ปริมาณงานดิบหรือการเร่งปิดสำนวน;
   - **เป็นธรรม** — **มาตรา XX-A** (*วัตถุประสงค์และขอบเขตของความยุติธรรม*) และ **มาตรา XX-B** (*หลักประกันขั้นต่ำเกี่ยวกับข้อจำกัด*) ยังคงใช้บังคับเต็มที่ การเร่งดำเนินการไม่ใช่ข้ออ้างให้ข้ามการตรวจสอบข้อเท็จจริง ([บทที่สิบ §3.1 ด่านตรวจสอบข้อมูล](core_10_standing_assessment.md#verified-inputs-for-standing)) ลงโทษผิดฝ่าย เสนอวิธีแก้ที่ไม่ตรงกับความเสียหาย หรือตัดสิทธิการโต้แย้งและอุทธรณ์
 - **การกำกับดูแลเวทีพิจารณาและขั้นตอนดำเนินงาน:** เรื่องต่อไปนี้สำหรับข้อพิพาทที่ส่งผ่าน **บทที่สิบถึงสิบสอง** อยู่ภายใต้ [บทที่สิบสาม §6 การแก้ไขอย่างทันท่วงที ระดับความมีนัยสำคัญ และวินัยต่อต้านความล่าช้า](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) โดยต้องเป็นไปตามหลักประกันขั้นต่ำด้านความทันท่วงที ประสิทธิภาพ และความเป็นธรรมในมาตรานี้:
   - การจัดระดับความมีนัยสำคัญ;
@@ -259,13 +259,13 @@ flowchart TB
 - **ความรับผิดรับชอบ:** ผู้ควบคุมการกำกับดูแลต้องชี้แจงเมื่อคงกฎไว้เพียงเพราะความเคยชินหรือความสะดวก และเมื่อเบี่ยงการเปลี่ยนแปลงรัฐธรรมนูญที่แท้จริงไปไว้ใต้ชื่อมาตรการฉุกเฉิน การดำเนินงาน หรือการดูแล เพื่อหลีกเลี่ยง **หลักประกันขั้นต่ำด้านสิทธิ** หรือกฎว่าด้วยการเปลี่ยนรัฐธรรมนูญโดยชอบด้วยกฎหมาย
 - **ความทันท่วงที:** ผ่านการตรวจสอบยืนยันซ้ำตามกำหนด และเร่งการทบทวนเมื่อเกิดแรงกดดันจากการครอบงำ การกีดกันผู้มีส่วนได้เสีย การเสื่อมถอยของสิทธิในการโต้แย้ง หรือผลการดำเนินงานต่ำกว่าระดับอย่างมีนัยสำคัญ
 
-กฎการกำกับดูแล กลไกการมีส่วนร่วม แบบจำลองการถ่วงน้ำหนัก และโครงสร้างเงินทุนยังอยู่ภายใต้วินัยการให้เหตุผลรองรับอย่างต่อเนื่องตาม [บทที่หนึ่ง §18.4 การให้เหตุผลรองรับอย่างต่อเนื่อง](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification) **มาตรา XXVII-A** (*การไม่ฝังตรึงและการแก้ไขทบทวนได้*) และ **มาตรา XXVII-B** (*การตรวจสอบยืนยันซ้ำเป็นระยะและการเปลี่ยนแปลงอย่างโปร่งใส*) กำหนดหลักประกันขั้นต่ำที่ใช้บังคับเกี่ยวกับการไม่ฝังตรึง การตรวจสอบยืนยันซ้ำ และการเปลี่ยนแปลงอย่างโปร่งใส
+กฎการกำกับดูแล กลไกการมีส่วนร่วม แบบจำลองการถ่วงน้ำหนัก และโครงสร้างเงินทุนยังอยู่ภายใต้วินัยการให้เหตุผลรองรับอย่างต่อเนื่องตาม [บทที่หนึ่ง §18.4 การให้เหตุผลรองรับอย่างต่อเนื่อง](core_01_c_stewardship_capacity_principles.md#184-การใหเหตผลอยางตอเนอง) **มาตรา XXVII-A** (*การไม่ฝังตรึงและการแก้ไขทบทวนได้*) และ **มาตรา XXVII-B** (*การตรวจสอบยืนยันซ้ำเป็นระยะและการเปลี่ยนแปลงอย่างโปร่งใส*) กำหนดหลักประกันขั้นต่ำที่ใช้บังคับเกี่ยวกับการไม่ฝังตรึง การตรวจสอบยืนยันซ้ำ และการเปลี่ยนแปลงอย่างโปร่งใส
 
 #### มาตรา XXVII-A: การไม่ฝังตรึงและการแก้ไขทบทวนได้
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: [บทที่หนึ่ง §18.4 การให้เหตุผลรองรับอย่างต่อเนื่อง](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: สุขภาวะ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- หลักการต้นทาง: [บทที่หนึ่ง §18.4 การให้เหตุผลรองรับอย่างต่อเนื่อง](core_01_c_stewardship_capacity_principles.md#184-การใหเหตผลอยางตอเนอง); บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: สุขภาวะ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -273,7 +273,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [O](core_05_band_oversight.md#ความโปรงใส) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [ผู้มีส่วนได้เสีย](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -303,7 +303,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [O](core_05_band_oversight.md#ความโปรงใส) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานสำหรับการชั่งน้ำหนักข้อแลกเปลี่ยน](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [บทที่สิบเอ็ด §5.4](core_11_standing_integration.md#54-special-violation-rules) (*มาตรานี้จำกัดการริบผลตอบแทนที่ไม่สอดคล้องและการรายงานในช่วงเปลี่ยนผ่าน*); [บทที่แปด — การรับรองความสอดคล้องของระบบ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานสำหรับการชั่งน้ำหนักข้อแลกเปลี่ยน](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [บทที่สิบเอ็ด §5.4](core_11_standing_integration.md#54-special-violation-rules) (*มาตรานี้จำกัดการริบผลตอบแทนที่ไม่สอดคล้องและการรายงานในช่วงเปลี่ยนผ่าน*); [บทที่แปด — การรับรองความสอดคล้องของระบบ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -373,7 +373,7 @@ flowchart TB
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [สุขภาวะ](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [การรักษาพยานหลักฐาน](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [การรักษาพยานหลักฐาน](core_05_band_oversight.md#การรกษาหลกฐาน) · [O](core_05_band_oversight.md#การรกษาหลกฐาน) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -392,12 +392,12 @@ flowchart TB
     - แรงกดดันทางการเมือง
   - ต้องเผยแพร่เกณฑ์ หลักฐานการผ่าน และคำตัดสินที่ด่าน ผู้มีส่วนได้เสียที่ได้รับผลกระทบให้ความเห็นต่อเกณฑ์ก่อนนำมาใช้และโต้แย้งคำตัดสินได้
   - เนื้อหาเกณฑ์ การกำหนดเจ้าของงาน และเอกสารหลักฐานการยืนยันอยู่ภายใต้ [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*การกำกับดูแลช่วงเปลี่ยนผ่านและวิวัฒนาการสถาบัน*) และ [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*เกณฑ์ผ่านด่านและกฎการเลื่อนระยะ*).
-- **การนำหลักประกันขั้นต่ำด้านสิทธิมาใช้ — ยับยั้งข้อห้ามทันที จัดให้มีสิทธิเมื่อสร้างความพร้อม:** **หลักประกันขั้นต่ำด้านสิทธิ**ตาม **มาตรา VI** (*สิทธิพื้นฐานที่เท่าเทียมกัน*) ภายใต้ [หลักประกันขั้นต่ำด้านสิทธิ](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) รวมถึงหลักประกันเฉพาะด้านที่เข้มงวดกว่าซึ่งบริบทกำหนด เช่น การอยู่รอด การกำหนดตนเอง การไม่เลือกปฏิบัติ การเข้าถึง ความสามารถในการตรวจสอบ และการเยียวยา เป็นเป้าหมายที่ต้องนำมาใช้ในทุกระยะ หลักประกันด้านสิทธิจะบังคับใช้เต็มที่ไม่ได้จนกว่าจะมีสถาบันและวัฒนธรรมที่ใช้บังคับ มาตรานี้ไม่อ้างเป็นอย่างอื่น และไม่อนุญาตให้ลดมาตรฐานด้วยเหตุนี้ หลักประกันจึงผูกพันสองแบบตามประเภทของหน้าที่:
+- **การนำหลักประกันขั้นต่ำด้านสิทธิมาใช้ — ยับยั้งข้อห้ามทันที จัดให้มีสิทธิเมื่อสร้างความพร้อม:** **หลักประกันขั้นต่ำด้านสิทธิ**ตาม **มาตรา VI** (*สิทธิพื้นฐานที่เท่าเทียมกัน*) ภายใต้ [หลักประกันขั้นต่ำด้านสิทธิ](core_01_b_interaction_interpretation.md#หลกการหลกประกนขนตำของพนสทธ) รวมถึงหลักประกันเฉพาะด้านที่เข้มงวดกว่าซึ่งบริบทกำหนด เช่น การอยู่รอด การกำหนดตนเอง การไม่เลือกปฏิบัติ การเข้าถึง ความสามารถในการตรวจสอบ และการเยียวยา เป็นเป้าหมายที่ต้องนำมาใช้ในทุกระยะ หลักประกันด้านสิทธิจะบังคับใช้เต็มที่ไม่ได้จนกว่าจะมีสถาบันและวัฒนธรรมที่ใช้บังคับ มาตรานี้ไม่อ้างเป็นอย่างอื่น และไม่อนุญาตให้ลดมาตรฐานด้วยเหตุนี้ หลักประกันจึงผูกพันสองแบบตามประเภทของหน้าที่:
   - **หน้าที่ในการยับยั้ง** — สิ่งที่ผู้รับหลักการและผู้มีอำนาจช่วงเปลี่ยนผ่านห้ามทำ — มีผลตั้งแต่วันที่มีผลบังคับ เพราะปฏิบัติตามได้โดยไม่ต้องมีสถาบันใหม่:
     - **ห้ามถดถอยโดยรู้หรือหลีกเลี่ยงได้:** ห้ามจงใจหรือลดการเข้าถึงการคุ้มครองตามหลักประกันขั้นต่ำด้านสิทธิของผู้มีความรู้สึกต่ำกว่า **ค่าตั้งต้น**โดยหลีกเลี่ยงได้ และห้ามใช้มาตรการช่วงเปลี่ยนผ่านที่ทำให้ใช้หลักประกันได้ยากขึ้นอย่างมีนัยสำคัญ
     - **ห้ามก่อการละเมิดใหม่:** ระบบ นโยบาย และแนวปฏิบัติใหม่ รวมทั้งการขยายของเดิมอย่างมีนัยสำคัญ ต้องออกแบบให้ได้มาตรฐานตั้งแต่เริ่มต้น เส้นทางการบรรลุด้านล่างครอบคลุมเฉพาะข้อบกพร่องที่สืบทอดมา ไม่ครอบคลุมการกระทำใหม่
     - **ห้ามสูญเสียอย่างย้อนคืนไม่ได้:** ต้องใช้หลักการรักษาสภาพเริ่มต้นด้านล่างและ [แนวทางชั่วคราวเริ่มต้นในบทที่หนึ่ง §13.1](core_01_b_interaction_interpretation.md#default-interim-posture) อย่างเต็มที่
-    - **ห้ามกระทำการที่ลดทอนศักดิ์ศรี อ้างเหตุบังหน้า เลือกปฏิบัติ หรือปกปิด** ในมาตรการช่วงเปลี่ยนผ่าน รวมถึงข้อกำหนดทั้งหมดที่ **มาตรา XXVIII-D** (*ทรัพย์สินและระบบที่ไม่เป็นไปตามข้อกำหนด; แรงจูงใจสำหรับการส่งมอบโดยสมัครใจ*) วางไว้แก่ผู้มีอำนาจช่วงเปลี่ยนผ่าน ภายใต้ [หลักการห้ามกระบวนการที่ลดทอนศักดิ์ศรี](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
+    - **ห้ามกระทำการที่ลดทอนศักดิ์ศรี อ้างเหตุบังหน้า เลือกปฏิบัติ หรือปกปิด** ในมาตรการช่วงเปลี่ยนผ่าน รวมถึงข้อกำหนดทั้งหมดที่ **มาตรา XXVIII-D** (*ทรัพย์สินและระบบที่ไม่เป็นไปตามข้อกำหนด; แรงจูงใจสำหรับการส่งมอบโดยสมัครใจ*) วางไว้แก่ผู้มีอำนาจช่วงเปลี่ยนผ่าน ภายใต้ [หลักการห้ามกระบวนการที่ลดทอนศักดิ์ศรี](core_01_b_interaction_interpretation.md#หลกการหามกระบวนการทบนทอนศกดศร)
     - **รายงานอย่างตรงไปตรงมา:** ห้ามระบุว่าหลักประกันใดบังคับใช้หรือบรรลุแล้ว หรือปิดช่องว่างแล้ว เว้นแต่ข้อมูลในบัญชีรายการได้รับการยืนยัน
 
     การบังคับใช้หน้าที่ยับยั้งชั่วคราวก่อนที่เวทีพิจารณาจะพร้อมสำหรับขอบเขตนั้นอยู่ภายใต้ [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*บัญชีรายการการบรรลุหลักประกันขั้นต่ำด้านสิทธิ*)
@@ -441,7 +441,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานสำหรับการชั่งน้ำหนักข้อแลกเปลี่ยน](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [§14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานสำหรับการชั่งน้ำหนักข้อแลกเปลี่ยน](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และ [§14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -483,7 +483,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานสำหรับการชั่งน้ำหนักข้อแลกเปลี่ยน](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานสำหรับการชั่งน้ำหนักข้อแลกเปลี่ยน](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ).
 - อ่านร่วมกับ: [บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*การรับรองความสอดคล้องของระบบ*); [บทที่สิบถึงสิบสอง](core_00_preamble.md#62-how-the-full-chain-fits-together) (*กระบวนงานสถานะการยืนหยัดและการกำกับดูแลเวทีพิจารณา*).
 
 </details>
@@ -491,7 +491,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [ความสามารถในการย้อนกลับ](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

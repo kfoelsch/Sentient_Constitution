@@ -97,7 +97,7 @@ Les **Articles XIX–XXV** ci-dessous énoncent ces planchers dans leur intégra
 
 - [Qualité de participant](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [Partie prenante](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
-- [Impact matériel](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Impact matériel](core_05_band_oversight.md#impact-matériel) · [O](core_05_band_oversight.md#impact-matériel) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [Dignité et égalité du statut moral](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Réparation et remédiation](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Contestabilité](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
@@ -110,7 +110,7 @@ Les **Articles XIX–XXV** ci-dessous énoncent ces planchers dans leur intégra
 
 Le présent Article énonce les **planchers constitutionnels** relatifs à la qualité pour agir et au statut de participation dans le cadre des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
 
-- **Épanouissement :** les sentients peuvent détenir et contester leur éligibilité à un rôle par des voies nommées valides, pluralistes et auditables — sans que les libellés de qualité pour agir se substituent à la dignité, aux minima du Seuil de droits ou au statut de partie prenante lorsqu’il existe un [impact matériel](core_05_band_oversight.md#material-impact) ; l’éligibilité aux voies nommées repose sur des éléments actuels, observables et contestables, et non sur la marque, l’échelle ou l’estime passée seules.
+- **Épanouissement :** les sentients peuvent détenir et contester leur éligibilité à un rôle par des voies nommées valides, pluralistes et auditables — sans que les libellés de qualité pour agir se substituent à la dignité, aux minima du Seuil de droits ou au statut de partie prenante lorsqu’il existe un [impact matériel](core_05_band_oversight.md#impact-matériel) ; l’éligibilité aux voies nommées repose sur des éléments actuels, observables et contestables, et non sur la marque, l’échelle ou l’estime passée seules.
 - **Continuité :** les règles de qualité pour agir restent révisables dans le temps — les restrictions demeurent proportionnées et restaurables après correction, sans se transformer en exclusion permanente de la voix constitutionnelle fondamentale, sauf lorsque la qualification d’**inconduite anticonstitutionnelle** au **Chapitre Onze** et [**Chapitre Treize §4.1 Droit et éligibilité**](core_13_governance.md#41-entitlement-and-eligibility) privent expressément de voix politique durable jusqu’à **restitution intégrale**.
 
 La poursuite légitime s’effectue selon la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), proportionnée à l’[intérêt matériel](core_00_preamble.md#material-stake) :
@@ -142,7 +142,7 @@ Elle doit rester distincte :
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fondement : Principes : Chapitre Un [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-application-intégrée).
 - À lire avec : [Chapitre Dix §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*seuils et habilitations de compétence*), [Seuil de compétence](core_05_band_accountability.md#competency-bar) et [Habilitation de compétence](core_05_band_accountability.md#competency-clearance) ; [Chapitre Dix §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*verrous de qualité pour agir*), [Nature du manquement](core_05_band_accountability.md#violation-nature-chapter-six) et [Verrou de qualité pour agir](core_05_band_accountability.md#standing-lock) — les voies nommées restrictives reposent sur des éléments vérifiés de l’Axe des manquements ; l’habilitation de compétence ne lève pas un verrou applicable et une contribution positive n’efface pas des conclusions de manquement non résolues.
 
 </details>
@@ -193,7 +193,7 @@ Le présent Article précise en quoi la qualité pour agir diffère des seuils d
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [Chapitre Un §13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-principes-fondamentaux-darbitrage) et [Chapitre Un §13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Mise en œuvre : [Chapitre Neuf §2](core_09_standing_assessment.md#2-question-1--what-happened) (*dossiers de qualité pour agir, filtre des éléments vérifiés et contenu minimal des dossiers*) ; [Chapitre Neuf §3.6](core_09_standing_assessment.md#36-forum-boundary) (*limite du forum*) ; [Chapitre Dix §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*seuils et habilitations de compétence*) ; [Chapitre Dix §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*verrous de qualité pour agir*) ; [Chapitre Dix §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*rétablissement et réexamen*).
 - À lire avec : **Article III-A** (*Survie*) ; **Article XIII-A** (*Base de fiabilité et de confiance*) et **Article XIII-B** (*Droit à réparation et à recours*) ; [Préambule §6.2 Comment s’articule la chaîne complète](core_00_preamble.md#62-how-the-full-chain-fits-together) ; [Certification de l’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **participation**, **supervision**, **responsabilité** et **diligence**, en vertu de l’**Article XXVI-C** (*Plancher de résolution diligente et de lutte contre les retards*) et de l’**Article XX-B** (*Planchers de restriction*).
 
@@ -206,7 +206,7 @@ Le présent Article précise en quoi la qualité pour agir diffère des seuils d
 - [Proportionnalité](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Nécessité](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Équité procédurale](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilité](core_05_band_oversight.md#auditabilité) · [O](core_05_band_oversight.md#auditabilité) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Nature du manquement](core_05_band_accountability.md#violation-nature-chapter-six) · [O](core_05_band_accountability.md#violation-nature-chapter-six) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
 - [Seuil de compétence](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
 - [Habilitation de compétence](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
@@ -246,7 +246,7 @@ Le présent Article énonce les limites de contestabilité et de proportionnalit
   - Une conclusion de moindre impact sur l’Axe des manquements selon l’[échelle unifiée du Chapitre Neuf §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) ne justifie pas une exclusion durable en l’absence de preuves de récurrence, de contournement ou de lien avec un préjudice matériel. La négligence, la dissimulation, la coercition, la récurrence et les qualificatifs comparables de conduite éclairent cet examen sans modifier le niveau d’impact du Chapitre Neuf.
   - Toute aggravation en raison de la récurrence du comportement ou de la dissimulation de responsabilité demeure nécessaire, proportionnée, révisable et liée à des conclusions vérifiées.
 - **Minima du Seuil de droits et absence de fermeture :** la qualité de participant, les seuils et habilitations de compétence et les verrous de qualité pour agir régissent uniquement l’éligibilité à des rôles et aux voies nommées de privilège. Ils ne doivent pas :
-  - suspendre, écarter, éteindre ou réduire les **minima du Seuil de droits** appliqués par l’**Article VI** (*Droits fondamentaux égaux*) en vertu du [Principe des minima du Seuil de droits](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) ;
+  - suspendre, écarter, éteindre ou réduire les **minima du Seuil de droits** appliqués par l’**Article VI** (*Droits fondamentaux égaux*) en vertu du [Principe des minima du Seuil de droits](core_01_b_interaction_interpretation.md#principe-des-minima-du-socle-des-droits) ;
   - fermer l’accès essentiel à la survie ou les planchers d’allocation des ressources et de dépendance de l’**Article III-A** (*Survie*), lorsqu’ils sont matériellement concernés ; ni
   - fermer les voies d’audit, de contestation ou de réparation requises par la Constitution — notamment au titre des **Articles XIII-A** (*Base de fiabilité et de confiance*) et **XIII-B** (*Droit à réparation et à recours*), **XV-B** (*Intégrité de la sphère informationnelle*), et **XVI** (*Audit, transparence et vérification indépendante*) — sans justification suffisante au regard du **Chapitre Un**, du **Chapitre Cinq** et de la procédure incorporée applicable.
 - **Rétablissement et prévention de l’enracinement :** lorsque la qualité pour agir est réduite à la suite de conclusions de manquement, les systèmes prévoient des conditions claires d’examen, de rétablissement fondé sur la remédiation et de réévaluation périodique selon [Chapitre Dix §8 Rétablissement et réexamen](core_10_standing_integration.md#8-restoration-and-reassessment).
@@ -259,7 +259,7 @@ Le présent Article énonce les limites de contestabilité et de proportionnalit
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), et [Chapitre Un §18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fondement : Principes : Chapitre Un [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), et [Chapitre Un §18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde).
 
 </details>
 
@@ -273,7 +273,7 @@ Le présent Article énonce les limites de contestabilité et de proportionnalit
 - [Qualité de participant](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [Défaillance de responsabilité collective](core_05_band_accountability.md#collective-accountability-failure) · [O](core_05_band_accountability.md#collective-accountability-failure) · [M](core_05_band_accountability.md#collective-accountability-failure-a) · [A](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
 - [Confiance](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Choix constitutionnel fondamental](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [Choix constitutionnel fondamental](core_05_band_integrative.md#choix-constitutionnel-fondationnel) · [O](core_05_band_integrative.md#choix-constitutionnel-fondationnel) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [Équité procédurale](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Nécessité](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proportionnalité](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -335,7 +335,7 @@ Le présent Article définit l’éligibilité et la responsabilité des voies n
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§3 Objectif fondamental : bien-être](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fondement : Principes : Chapitre Un [§3 Objectif fondamental : bien-être](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde).
 - Mise en œuvre : [Chapitre Dix §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Manquement, correction et prévention*) ; [Chapitre Onze §4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Garanties de procédure régulière, réparation et prévention*).
 
 </details>
@@ -358,8 +358,8 @@ Le présent Article énonce les planchers de justice applicables dès qu’un ma
 
 - **Résolution des conflits, examen et diligence :** les différends relatifs aux Seuils de droits constitutionnels, à l’examen rétrospectif, aux collisions de droits et à la discipline anti-retard relèvent de l’[**Article XXVI**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Examen rétrospectif diligent et alignement restauratif*).
 - **Mesures d’urgence :** relèvent du [Chapitre Douze §6.1 Mesures d’urgence et charge de leur maintien](core_12_forum.md#61-emergency-measures-and-continuation-burden), à lire avec l’**Article XX-B** (*Planchers de restriction*) pour toute restriction qu’impose une mesure d’urgence.
-- **Qualité pour agir :** l’[**Article XIX**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*Qualité pour agir et statut de participation*) régit la qualité pour agir. Les mesures de justice prévues ici sont distinctes et ne contournent pas les règles par un simple libellé de qualité pour agir.
-- **Réparation diligente :** à lire avec l’[**Article XIII-B** (*Droit à réparation et à recours*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*accès diligent à la réparation*).
+- **Qualité pour agir :** l’[**Article XIX**](core_06_rights_part_d.md#article-xix--qualité-pour-agir-et-statut-de-participation) (*Qualité pour agir et statut de participation*) régit la qualité pour agir. Les mesures de justice prévues ici sont distinctes et ne contournent pas les règles par un simple libellé de qualité pour agir.
+- **Réparation diligente :** à lire avec l’[**Article XIII-B** (*Droit à réparation et à recours*)](core_06_rights_part_c.md#article-xiii-b--droit-à-la-réparation-et-aux-mesures-correctives) (*accès diligent à la réparation*).
 
 La mise en œuvre de la gouvernance adoptée peut ajouter des précisions. Elle ne doit pas réduire l’objectif de justice ni les planchers de restriction du présent Article.
 <a id="article-xx-a-justice-objective-and-scope"></a>
@@ -367,8 +367,8 @@ La mise en œuvre de la gouvernance adoptée peut ajouter des précisions. Elle 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Chapitre Un §3.3 Procédure anti-dégradante](core_01_a_values_principles.md#33-anti-degrading-process) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- Mise en œuvre : [Chapitre Dix §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Manquement, correction et prévention*) ; [Article XX-B](#article-xx-b-restriction-floors).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Chapitre Un §3.3 Procédure anti-dégradante](core_01_a_values_principles.md#33-processus-anti-dégradant) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-application-intégrée).
+- Mise en œuvre : [Chapitre Dix §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Manquement, correction et prévention*) ; [Article XX-B](#article-xx-b--planchers-de-restriction).
 - À lire avec : [Cruauté](core_05_band_accountability.md#cruelty) (*ancrage au Chapitre Cinq du plancher contre la cruauté, qui interdit de faire de la souffrance une fin en soi*).
 
 </details>
@@ -400,9 +400,9 @@ Le présent Article énonce l’objectif et la portée de la justice ainsi que l
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Chapitre Un §13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) et [§14 Interdiction de la dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-principes-fondamentaux-darbitrage), [Chapitre Un §13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) et [§14 Interdiction de la dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Mise en œuvre : [Chapitre Dix §5 Conception et application des verrous](core_10_standing_integration.md#5-lock-design-and-enforcement) et [§5.4 Règles particulières relatives aux manquements](core_10_standing_integration.md#54-special-violation-rules) (*emprisonnement obligatoire pour violences vérifiées et autres garanties coercitives ou restreignant la liberté*) ; [Chapitre Onze §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prévention — verrous anti-constitutionnels* ; dispositions particulières sur l’emprisonnement).
-- À lire avec : [Article XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Plancher de résolution diligente et de lutte contre les retards*) ; [Chapitre Douze §5 Escalade et certification](core_12_forum.md#5-escalation-and-certification).
+- À lire avec : [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c--résolution-en-temps-utile-et-plancher-contre-les-retards) (*Plancher de résolution diligente et de lutte contre les retards*) ; [Chapitre Douze §5 Escalade et certification](core_12_forum.md#5-escalation-and-certification).
 
 </details>
 
@@ -448,7 +448,7 @@ Le présent Article fixe les planchers applicables aux restrictions. Les règles
   - les restrictions graves indéfinies ;
   - les mesures restrictives irréversibles lorsqu’une restitution, une remédiation ou une protection réversible est faisable ;
   - les restrictions dépourvues de déclencheurs de réévaluation auditables.
-- **Droits fondamentaux égaux et dignité :** les restrictions, exclusions et mesures de justice comparables respectent l’**Article VI** (*Droits fondamentaux égaux*) et les [**Principes de dignité**](core_01_b_interaction_interpretation.md#dignity-principles) (le [Principe des minima du Seuil de droits](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) et le [Principe contre les procédures dégradantes](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)) pendant l’imposition, l’examen et l’exécution de toute restriction, mesure de confinement ou de responsabilité restaurative.
+- **Droits fondamentaux égaux et dignité :** les restrictions, exclusions et mesures de justice comparables respectent l’**Article VI** (*Droits fondamentaux égaux*) et les [**Principes de dignité**](core_01_b_interaction_interpretation.md#principes-de-dignité) (le [Principe des minima du Seuil de droits](core_01_b_interaction_interpretation.md#principe-des-minima-du-socle-des-droits) et le [Principe contre les procédures dégradantes](core_01_b_interaction_interpretation.md#principe-interdisant-les-procédures-dégradantes)) pendant l’imposition, l’examen et l’exécution de toute restriction, mesure de confinement ou de responsabilité restaurative.
 - **Escalade et examen :** les parties affectées ont accès à des voies d’escalade proportionnées à l’impact.
   - Cet accès comprend une procédure d’appel ou un examen à plusieurs niveaux lorsque des intérêts matériels sont en jeu.
   - Les parties affectées reçoivent :
@@ -468,7 +468,7 @@ Le présent Article fixe les planchers applicables aux restrictions. Les règles
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Discipline des limitations](core_01_a_values_principles.md#71-limitation-discipline) et [§11 Structure du marché](core_01_a_values_principles.md#11-market-structure).
+- Fondement : Principes : Chapitre Un [§7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Discipline des limitations](core_01_a_values_principles.md#71-limitation-discipline) et [§11 Structure du marché](core_01_a_values_principles.md#11-structure-du-marché).
 
 </details>
 
@@ -492,7 +492,7 @@ Le présent Article fixe les planchers applicables aux restrictions. Les règles
 
 Le présent Article énonce les **planchers constitutionnels** applicables à l’interopérabilité, à la portabilité, à la mobilité, au refuge et à l’intégrité de sortie dans le cadre des [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) :
 
-- **Épanouissement :** les sentients peuvent choisir, changer et se coordonner entre systèmes et juridictions sans enfermement coercitif, sans exclusion contraire à la [Non-exclusion des sentients](core_05_band_participation.md#sentience-non-exclusion) ni refus indirect — grâce à une portabilité utilisable, une interopérabilité réciproque et de véritables voies de mobilité et de refuge lorsqu’un [impact matériel](core_05_band_oversight.md#material-impact) existe.
+- **Épanouissement :** les sentients peuvent choisir, changer et se coordonner entre systèmes et juridictions sans enfermement coercitif, sans exclusion contraire à la [Non-exclusion des sentients](core_05_band_participation.md#sentience-non-exclusion) ni refus indirect — grâce à une portabilité utilisable, une interopérabilité réciproque et de véritables voies de mobilité et de refuge lorsqu’un [impact matériel](core_05_band_oversight.md#impact-matériel) existe.
 - **Continuité :** les obligations de sortie, de portabilité, de refuge et de reconnaissance demeurent durables à mesure que la dépendance s’approfondit, que les opérateurs changent ou que les juridictions évoluent — les systèmes et régimes ne doivent pas renforcer les architectures de piège, restreindre sans préavis les conditions d’intégration ou rendre les sentients apatrides en cas de défaillance des structures ou de rupture des relations.
 
 La poursuite légitime s’effectue selon la [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad), proportionnée à l’[intérêt matériel](core_00_preamble.md#material-stake) :
@@ -522,7 +522,7 @@ Les sentients et les systèmes dépendants ont droit à une sortie, une migratio
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-principes-fondamentaux-darbitrage), et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -553,7 +553,7 @@ Le présent Article énonce le plancher de portabilité :
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-principes-fondamentaux-darbitrage), et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -581,7 +581,7 @@ Le présent Article énonce les planchers d’interopérabilité réciproque et 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), et [Chapitre Un §18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), et [Chapitre Un §18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde).
 
 </details>
 
@@ -628,7 +628,7 @@ Le présent Article fixe le plancher des formats ouverts applicables aux systèm
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Proportionnalité](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 Discipline des limitations](core_01_a_values_principles.md#71-limitation-discipline).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Proportionnalité](core_01_b_interaction_interpretation.md#1313-proportionnalité), [§7.1 Discipline des limitations](core_01_a_values_principles.md#71-limitation-discipline).
 - Mise en œuvre : plancher de dignité de l’**Article VI-A** (*Dignité et égalité du statut moral*), non-discrimination de l’**Article VI-C** (*Non-discrimination*), participation des parties prenantes de l’**Article XII** (*Participation, représentation et procédure régulière dans le système des parties prenantes*), orientation de la qualité pour agir et du statut de participation de l’**Article XIX** (*Qualité pour agir et statut de participation*), limites des mesures d’urgence du **Chapitre Douze §6.1** (*Mesures d’urgence et charge de leur maintien*), gouvernance de transition de l’**Article XXVIII** (*Gouvernance de transition, continuité et réétalonnage*).
 - À lire avec : [Chapitre Cinq *Mobilité, refuge, absence d’apatridie et intégrité de sortie*](core_05_band_oversight.md#movement-refuge-semi-independent) ; *Mobilité et relocalisation*, *Refuge contre la non-conformité*, *Absence d’apatridie*, *Non-exclusion des sentients* ; *Enfermement systémique* et *Continuité d’occupation* lorsque sortie, fin d’hébergement, expulsion ou relocalisation substantielle sont matériellement en jeu ; **Article I-A** (*Conditions environnementales préalables et intégrité écologique*) lorsque des systèmes ou projets ont rendu un lieu inhabitable ; **Article XXI-A** (*Droits à la portabilité*) à **l’Article XXI-C** (*Règle anti-enfermement*) pour les mécanismes de portabilité du substrat et d’intégrité de sortie ; **Article XXVIII** (*Gouvernance de transition, continuité et réétalonnage*) pour les mécanismes de reconnaissance transitoire.
 
@@ -730,8 +730,8 @@ Le présent Article énonce les planchers de mobilité, de refuge et d’absence
   - des systèmes d’accréditation qui excluent contrairement à la [Non-exclusion des sentients](core_05_band_participation.md#sentience-non-exclusion) ;
   - des régimes d’allocation qui orientent les demandeurs vers des services non équivalents.
 - **Limites de la séparation et des verrous :** une séparation peut interdire des environnements ou contacts précis, mais ne peut servir d’exil général, de refus de refuge, d’apatridie, de confinement ou d’enfermement systémique. Un verrou de qualité pour agir **n’autorise jamais à lui seul** l’emprisonnement, la détention ou une autre restriction de liberté ; le processus de justice ci-dessus est nécessaire. Les deux mesures ne peuvent coexister que si chacune satisfait à ses exigences constitutionnelles propres. Le Seuil de droits, le recours et l’équité procédurale demeurent pendant la garde.
-- **Plancher de garde :** les mesures satisfont à l’**Article XX-B** (*Planchers de restriction*), notamment au [plancher des conditions de garde](../../core_06_rights_part_d.md#xx-b-conditions-of-custody), ainsi qu’aux protections de procédure pénale ou équivalentes applicables du Chapitre Onze §5.4.
-- **La qualité pour agir n’est pas une frontière :** statut de participation, barrières ou habilitations de compétence et verrous régissent l’accès aux voies nommées. Si le risque vérifié l’exige, un verrou peut séparer de milieux, réseaux ou sentients précis dans les [limites de séparation](../../core_11_standing_integration.md#51-separation-limits) du Chapitre Onze §5.1. Toutefois, ni l’étiquette de qualité ni un verrou de séparation **à eux seuls** ne limitent les droits de mobilité, migration, refuge, portabilité, sortie ou absence d’apatridie.
+- **Plancher de garde :** les mesures satisfont à l’**Article XX-B** (*Planchers de restriction*), notamment au [plancher des conditions de garde](../../core_06.020_rights_part_d.md#xx-b-conditions-of-custody), ainsi qu’aux protections de procédure pénale ou équivalentes applicables du Chapitre Onze §5.4.
+- **La qualité pour agir n’est pas une frontière :** statut de participation, barrières ou habilitations de compétence et verrous régissent l’accès aux voies nommées. Si le risque vérifié l’exige, un verrou peut séparer de milieux, réseaux ou sentients précis dans les [limites de séparation](../../core_11.000_standing_integration.md#51-separation-limits) du Chapitre Onze §5.1. Toutefois, ni l’étiquette de qualité ni un verrou de séparation **à eux seuls** ne limitent les droits de mobilité, migration, refuge, portabilité, sortie ou absence d’apatridie.
 <a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
 <a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
 ### Article XXIII : intelligibilité et gestion responsable de la complexité
@@ -739,7 +739,7 @@ Le présent Article énonce les planchers de mobilité, de refuge et d’absence
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : [Chapitre Un §5.2 Accessibilité en langage clair (devoir de gestion responsable)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), et [Chapitre Un Partie C §16.1 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
+- Fondement : Principes : [Chapitre Un §5.2 Accessibilité en langage clair (devoir de gestion responsable)](core_01_a_values_principles.md#52-accessibilité-en-langage-clair-obligation-de-participation-et-de-tutelle), [§13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-réduction-de-la-charge-évitable), et [Chapitre Un Partie C §16.1 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-compréhension-distribuée).
 - À lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux finalités constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** et **Continuité** ; [Charge évitable](core_05_band_continuity.md#avoidable-burden), [Capacité productive](core_05_band_continuity.md#productive-capacity-constitutional) et [Efficacité constitutionnelle](core_05_band_continuity.md#constitutional-efficiency) au **Chapitre Cinq**.
 
 </details>
@@ -751,10 +751,10 @@ Le présent Article énonce les planchers de mobilité, de refuge et d’absence
 - [Efficacité constitutionnelle](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [Charge évitable](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [Sécurité (contrainte constitutionnelle)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Caractère matériel](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Vérité (contrainte constitutionnelle)](core_05_band_oversight.md#vérité-contrainte-constitutionnelle) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Caractère matériel](core_05_band_oversight.md#détermination-de-matérialité) · [O](core_05_band_oversight.md#détermination-de-matérialité) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Agentivité effective](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilité](core_05_band_oversight.md#auditabilité) · [O](core_05_band_oversight.md#auditabilité) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Contestabilité](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -772,19 +772,19 @@ La poursuite légitime s’effectue selon la [Tétrade constitutionnelle](core_0
 
 - **Participation :** compréhension du fonctionnement matériel, des limites, des dépendances et des modes de défaillance, proportionnée au rôle et à l’impact ; contestation des complexités qui bloquent l’agentivité effective ou un choix éclairé.
 - **Supervision :** explications à plusieurs niveaux, audits de complexité et divulgation du comportement proportionnés au classement et au risque — afin que les personnes chargées de l’examen vérifient le fonctionnement et les défaillances des systèmes.
-- **Responsabilité :** les responsables répondent de la complexité inutile, des couches cachées et des obstacles à la compréhension qui empêchent l’[Auditabilité](core_05_band_oversight.md#auditability) ou la [Contestabilité](core_05_band_accountability.md#contestability) — et corrigent les défauts de gestion lorsque la complexité gaspille des capacités sans justification constitutionnelle.
+- **Responsabilité :** les responsables répondent de la complexité inutile, des couches cachées et des obstacles à la compréhension qui empêchent l’[Auditabilité](core_05_band_oversight.md#auditabilité) ou la [Contestabilité](core_05_band_accountability.md#contestability) — et corrigent les défauts de gestion lorsque la complexité gaspille des capacités sans justification constitutionnelle.
 - **Diligence :** l’examen de la complexité, la correction des obstacles et la divulgation accessible interviennent avant que délais, opacité ou interfaces réservées aux spécialistes ne rendent la compréhension, la contestation ou la réparation effectivement inaccessibles.
 
 Les sentients ont droit à une intelligibilité proportionnée des systèmes ayant un impact matériel sur la survie, les conditions environnementales préalables, l’intégrité de la sphère informationnelle et l’agentivité effective. Ce droit protège la compréhension concrète du fonctionnement d’un système, de ses dépendances, de ses limites et de ses modes de défaillance — et non une simple notification formelle.
 
-La discipline de gestion responsable de la complexité, de l’accès en langage clair et de la réduction des charges est énoncée au niveau des principes dans [Chapitre Un §5.2 Accessibilité en langage clair (devoir de gestion responsable)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) et [Chapitre Un Partie C §16.1 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), à lire avec la [Charge évitable](core_05_band_continuity.md#avoidable-burden), la [Capacité productive](core_05_band_continuity.md#productive-capacity-constitutional) et l’[Efficacité constitutionnelle](core_05_band_continuity.md#constitutional-efficiency) du **Chapitre Cinq**. Le présent Article énonce le Seuil de droits mis en œuvre par ces disciplines lorsque les systèmes affectent matériellement des intérêts protégés.
+La discipline de gestion responsable de la complexité, de l’accès en langage clair et de la réduction des charges est énoncée au niveau des principes dans [Chapitre Un §5.2 Accessibilité en langage clair (devoir de gestion responsable)](core_01_a_values_principles.md#52-accessibilité-en-langage-clair-obligation-de-participation-et-de-tutelle), [§13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-réduction-de-la-charge-évitable) et [Chapitre Un Partie C §16.1 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-compréhension-distribuée), à lire avec la [Charge évitable](core_05_band_continuity.md#avoidable-burden), la [Capacité productive](core_05_band_continuity.md#productive-capacity-constitutional) et l’[Efficacité constitutionnelle](core_05_band_continuity.md#constitutional-efficiency) du **Chapitre Cinq**. Le présent Article énonce le Seuil de droits mis en œuvre par ces disciplines lorsque les systèmes affectent matériellement des intérêts protégés.
 
 *Articles connexes :*
 
 - **Niveau des principes :**
-  - [Chapitre Un §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*langage clair et interdiction d’utiliser le jargon pour neutraliser l’accès*) ;
-  - [Chapitre Un §13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*réduction des charges évitables et exceptions de simplification*) ;
-  - [Chapitre Un Partie C §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (*compréhension distribuée en fonction du caractère matériel et de la dépendance*).
+  - [Chapitre Un §5.2](core_01_a_values_principles.md#52-accessibilité-en-langage-clair-obligation-de-participation-et-de-tutelle) (*langage clair et interdiction d’utiliser le jargon pour neutraliser l’accès*) ;
+  - [Chapitre Un §13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-réduction-de-la-charge-évitable) (*réduction des charges évitables et exceptions de simplification*) ;
+  - [Chapitre Un Partie C §16.1](core_01_c_stewardship_capacity_principles.md#161-compréhension-distribuée) (*compréhension distribuée en fonction du caractère matériel et de la dépendance*).
 
 <a id="article-xxiii-a-proportional-comprehensibility-right"></a>
 <a id="article-xxii-a-proportional-comprehensibility-right"></a>
@@ -793,15 +793,15 @@ La discipline de gestion responsable de la complexité, de l’accès en langage
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
 - Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- À lire avec : [Chapitre Un §5.2 Accessibilité en langage clair (devoir de gestion responsable)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) et [Chapitre Un Partie C §16.1 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
+- À lire avec : [Chapitre Un §5.2 Accessibilité en langage clair (devoir de gestion responsable)](core_01_a_values_principles.md#52-accessibilité-en-langage-clair-obligation-de-participation-et-de-tutelle), [§13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-réduction-de-la-charge-évitable) et [Chapitre Un Partie C §16.1 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-compréhension-distribuée).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
 
-- [Transparence](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Impact matériel](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Transparence](core_05_band_oversight.md#transparence) · [O](core_05_band_oversight.md#transparence) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Impact matériel](core_05_band_oversight.md#impact-matériel) · [O](core_05_band_oversight.md#impact-matériel) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [Faisabilité](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
 
 </details>
@@ -826,14 +826,14 @@ Le présent Article énonce le plancher d’intelligibilité proportionnée :
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Chapitre Un §18.5 Architecture modulaire et discipline des dépendances](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Chapitre Un §18.5 Architecture modulaire et discipline des dépendances](core_01_c_stewardship_capacity_principles.md#185-architecture-modulaire-et-discipline-des-dépendances), et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-application-intégrée).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
 
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilité](core_05_band_oversight.md#auditabilité) · [O](core_05_band_oversight.md#auditabilité) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Dépendance](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Intégrité des frontières du système](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
 
@@ -850,7 +850,7 @@ Le présent Article énonce les planchers applicables aux audits de complexité,
   - du couplage des dépendances ;
   - des modes de défaillance ;
   - des frontières au-delà desquelles la responsabilité ou l’observabilité est transmise.
-- **Architecture modulaire :** les systèmes critiques **doivent** être structurés de sorte que leurs composants, les responsabilités de chacun et leurs dépendances puissent être identifiés et examinés indépendamment. Les dépendances sont déclarées aux interfaces, ne dépassent pas ce que requiert la fonction et sont cartographiées selon les mêmes frontières que celles faisant l’objet d’un audit. La responsabilité et l’observabilité sont préservées à chaque frontière interne. Une structure modulaire qui dissimule la responsabilité ou empêche l’audit de l’ensemble du système constitue un empilement de couches interdit au sens du point suivant et ne satisfait pas à cette exigence. À lire avec [§18.5 Architecture modulaire et discipline des dépendances](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
+- **Architecture modulaire :** les systèmes critiques **doivent** être structurés de sorte que leurs composants, les responsabilités de chacun et leurs dépendances puissent être identifiés et examinés indépendamment. Les dépendances sont déclarées aux interfaces, ne dépassent pas ce que requiert la fonction et sont cartographiées selon les mêmes frontières que celles faisant l’objet d’un audit. La responsabilité et l’observabilité sont préservées à chaque frontière interne. Une structure modulaire qui dissimule la responsabilité ou empêche l’audit de l’ensemble du système constitue un empilement de couches interdit au sens du point suivant et ne satisfait pas à cette exigence. À lire avec [§18.5 Architecture modulaire et discipline des dépendances](core_01_c_stewardship_capacity_principles.md#185-architecture-modulaire-et-discipline-des-dépendances).
 - **Prévention de l’empilement de couches :** la complexité ne peut être utilisée — par empilement technique, organisationnel, contractuel ou procédural — pour empêcher l’audit, la contestation ou la correction.
 - **Alignement des protocoles :** l’évaluation est cohérente avec :
   - **[corpus_systems.md](corpus_systems.md), CS-6 — *Intelligibilité et gestion responsable de la complexité*** ;
@@ -864,7 +864,7 @@ Le présent Article énonce les planchers applicables aux audits de complexité,
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et Chapitre huit [§3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-principes-fondamentaux-darbitrage) et Chapitre huit [§3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - À lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** et **Continuité** ; [Réversibilité](core_05_band_continuity.md#reversibility-constitutional), [Risque](core_05_band_continuity.md#risk) et [Captation du système](core_05_band_continuity.md#system-capture) du **Chapitre cinq**.
 
 </details>
@@ -872,10 +872,10 @@ Le présent Article énonce les planchers applicables aux audits de complexité,
 <details>
 <summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
 
-- [Matérialité](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Matérialité](core_05_band_oversight.md#détermination-de-matérialité) · [O](core_05_band_oversight.md#détermination-de-matérialité) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Captation du système](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [Lutte contre la captation](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilité](core_05_band_oversight.md#auditabilité) · [O](core_05_band_oversight.md#auditabilité) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Contestabilité](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -919,8 +919,8 @@ La rigueur diagnostique doit rester vérifiable et contestable. Elle doit être 
 <summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
 
 - [Responsabilité](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Prévisibilité](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [Auditabilité](core_05_band_oversight.md#auditabilité) · [O](core_05_band_oversight.md#auditabilité) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Prévisibilité](core_05_band_oversight.md#diligence-de-prévisibilité) · [O](core_05_band_oversight.md#diligence-de-prévisibilité) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -945,7 +945,7 @@ Le présent Article établit les seuils de documentation et de contestation des 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et Chapitre huit [§3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-principes-fondamentaux-darbitrage) et Chapitre huit [§3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -954,7 +954,7 @@ Le présent Article établit les seuils de documentation et de contestation des 
 
 - [Réversibilité](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [Risque](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilité](core_05_band_oversight.md#auditabilité) · [O](core_05_band_oversight.md#auditabilité) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -978,7 +978,7 @@ Le présent Article établit la préférence pour la réversibilité et les gard
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- En amont : Principes : Chapitre premier [§13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-application-intégrée).
 - À lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** et **Continuité** ; [Hiérarchie des autorités](core_05_band_integrative.md#authority-stack), [Famille des forums constitutionnels](core_05_band_accountability.md#forum-family-constitutional), [Captation du système](core_05_band_continuity.md#system-capture) et [Lutte contre la captation](core_05_band_continuity.md#anti-capture) du **Chapitre cinq**.
 
 </details>
@@ -990,7 +990,7 @@ Le présent Article établit la préférence pour la réversibilité et les gard
 - [Famille des forums constitutionnels](core_05_band_accountability.md#forum-family-constitutional) · [O](core_05_band_accountability.md#forum-family-constitutional) · [M](core_05_band_accountability.md#forum-family-constitutional-a) · [A](core_05_band_accountability.md#forum-family-constitutional-a) · [C](core_05_band_accountability.md#forum-family-constitutional-c)
 - [Captation du système](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [Lutte contre la captation](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilité](core_05_band_oversight.md#auditabilité) · [O](core_05_band_oversight.md#auditabilité) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Contestabilité](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1016,7 +1016,7 @@ L’interprétation **constitutionnelle** définitive doit demeurer faisant auto
 *Articles connexes :*
 
 - **Supervision des forums :** [Chapitre douze](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) — l’orientation et la supervision par la famille des forums constitutionnels mettent en œuvre le présent Article sans substituer la procédure des forums aux seuils d’interprétation énoncés ici.
-- **Contestation et justice :** **Article XIII-A** (*Socle de fiabilité et de confiance*) et [**Article XX**](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*Justice après une violation vérifiée*) — le contrôle interprétatif préserve les droits de contestation et les contraintes de justice sans réduire ces seuils.
+- **Contestation et justice :** **Article XIII-A** (*Socle de fiabilité et de confiance*) et [**Article XX**](core_06_rights_part_d.md#article-xx--justice-après-un-manquement-vérifié) (*Justice après une violation vérifiée*) — le contrôle interprétatif préserve les droits de contestation et les contraintes de justice sans réduire ces seuils.
 - **Absence d’enracinement :** [**Article XXVII-A** (*Absence d’enracinement et révisabilité*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — la revalidation périodique prévue ici au titre des dispositions de révocation pour motif valable se lit conjointement avec la discipline de non-enracinement.
 - **Orientation institutionnelle :** **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Nomination, compétence, rotation et révocation*) et **CI-5** (*Intégrité des conflits, lutte contre la captation et la corruption*) — mettent en œuvre les contrôles de composition et de conflits sans se substituer aux Seuils des droits énoncés ici.
 <a id="article-xxv-a-bounded-interpretive-mandate"></a>
@@ -1025,8 +1025,8 @@ L’interprétation **constitutionnelle** définitive doit demeurer faisant auto
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§13.1.5 Critère de décision en cas de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Interdiction de dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- À lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — participation, supervision, responsabilité et diligence ; discipline de lutte contre la captation de la tétrade au [Chapitre premier §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- En amont : Principes : Chapitre premier [§13.1.5 Critère de décision en cas de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Interdiction de dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-application-intégrée).
+- À lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — participation, supervision, responsabilité et diligence ; discipline de lutte contre la captation de la tétrade au [Chapitre premier §18](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde).
 
 </details>
 
@@ -1062,7 +1062,7 @@ Le présent Article définit le mandat limité des forums constitutionnels et se
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§13.1.5 Critère de décision en cas de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- En amont : Principes : Chapitre premier [§13.1.5 Critère de décision en cas de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-application-intégrée).
 - À lire avec : [Chapitre dix §5.5](core_10_standing_integration.md#55-special-locks) (*omission de déclaration d’un conflit au sein d’un forum et impact sur la procédure de récusation*) ; [Chapitre onze §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*schéma nommé d’inconduite*) ; [Chapitre douze §2](core_12_forum.md#2-default-venue-and-primary-stakes) et [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*orientation privilégiant l’intégrité et interdiction de se juger soi-même*).
 
 </details>
@@ -1099,7 +1099,7 @@ Le présent Article établit les seuils de composition, de lutte contre la capta
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- En amont : Principes : Chapitre premier [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1.5 Procédure de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-application-intégrée).
 
 </details>
 
@@ -1107,7 +1107,7 @@ Le présent Article établit les seuils de composition, de lutte contre la capta
 <summary><strong><span style="color: #2563eb;">Définitions · Évaluation · Conformité</span></strong></summary>
 
 - [Responsabilité](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Auditabilité](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilité](core_05_band_oversight.md#auditabilité) · [O](core_05_band_oversight.md#auditabilité) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Contestabilité](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1144,7 +1144,7 @@ Le présent Article établit les seuils relatifs aux motifs publics, à la conte
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§13.1.5 Critère de décision en cas de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- En amont : Principes : Chapitre premier [§13.1.5 Critère de décision en cas de collision des droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-gouvernance-sous-discipline-de-la-responsabilité-de-garde) et [§20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-application-intégrée).
 
 </details>
 

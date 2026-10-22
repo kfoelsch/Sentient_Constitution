@@ -69,7 +69,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[§15 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)。
+- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)、[§15 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)。
 - あわせて読む：適時性の測定群（*憲法上の測定としての適時な解決*）。
 
 </details>
@@ -81,9 +81,9 @@ flowchart TB
 - [手続的公正](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [適時な解決](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [修復的正義](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [監査可能性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [監査可能性](core_05_band_oversight.md#監査可能性) · [O](core_05_band_oversight.md#監査可能性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [異議申立て可能性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [透明性](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [透明性](core_05_band_oversight.md#透明性) · [O](core_05_band_oversight.md#透明性) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -113,7 +113,7 @@ flowchart TB
 *隣接する条文：*
 
 - **適時性の最低基準：**解決の速度、遅延防止の規律、重大性区分ごとの節目は**第XXVI-C条**（*適時な解決と遅延防止の最低基準*）が定め、[第十三章 §6 適時な解決、重大性区分、遅延防止の規律](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)を通じて実施されます。
-- **適時な救済：**[**第XIII-B条**（*救済と是正を受ける権利*）](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)（*適時に救済へアクセスすること*）とあわせて読みます。
+- **適時な救済：**[**第XIII-B条**（*救済と是正を受ける権利*）](core_06_rights_part_c.md#第xiii-b条救済を受ける権利)（*適時に救済へアクセスすること*）とあわせて読みます。
 - **緊急措置：**[第十三章 §6.1 緊急措置と継続の立証責任](core_13_forum.md#61-emergency-measures-and-continuation-burden)が定めます。緊急措置の事後審査は**第XXVI-A条**（*事後審査と開示*）が定めます。
 - **検証済み違反後の正義：****第XX条**（*検証済み違反後の正義*）が定めます。
 
@@ -128,16 +128,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：第一章の[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上位原則：第一章の[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-認識上の開示に関する制約)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [監査可能性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [監査可能性](core_05_band_oversight.md#監査可能性) · [O](core_05_band_oversight.md#監査可能性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [真実（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -165,7 +165,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：第一章の[§13.1.5 権利衝突の判断基準](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上位原則：第一章の[§13.1.5 権利衝突の判断基準](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
 - あわせて読む：[第十一章 §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression)（*自発的な公的説明責任の表明*）；[第十二章 §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自発的な公的説明責任の表明（反憲法的行為）*）。
 
 </details>
@@ -204,7 +204,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
 - 上位根拠：適時性の測定群（*憲法上の測定としての適時な解決と遅延防止の規律*）；[前文 §6.2 全体の連鎖の関係](core_00_preamble.md#62-how-the-full-chain-fits-together)（*法的地位、統合、フォーラム調整の経路*）。
-- 原則：第一章の[§9.2 憲法上の効率性](core_01_a_values_principles.md#92-constitutional-efficiency)、[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[§13.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 原則：第一章の[§9.2 憲法上の効率性](core_01_a_values_principles.md#92-憲法上の効率性)、[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-回避可能な負担の最小化)、[§13.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 - 下位規則：[第十三章 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*重大性区分、経路の節目、遅延防止の規律*）；[第十三章 §6.1 緊急措置と継続の立証責任](core_13_forum.md#61-emergency-measures-and-continuation-burden)（*緊急封じ込め後の回復・異議申立てに関する既定期間と同じ外枠*）。
 - スチュワード向け入口（非規範）：次の手順カード：[遅延](implementation/STEWARD_ENTRY_DOORS.md#delay)。このカードは憲法を狭めません。
 
@@ -218,7 +218,7 @@ flowchart TB
 - [憲法上の効率性](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [回避可能な負担](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [解決経路の捕獲](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [重大性](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [重大性](core_05_band_oversight.md#実質性の判定) · [O](core_05_band_oversight.md#実質性の判定) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -231,7 +231,7 @@ flowchart TB
 - **調整の目的：****第XX-A条**（*正義の目的と範囲*）に基づく憲法上の正義は、事実を検証し、法的地位を測定し、結果を統合し、可能な場合は回復する**憲法上の調整・解決システム**を通じて行います。無期限の対審遅延、評判スコア、またはそれ自体を目的とする処罰によるものではありません。
 - **三つの共同要件：**重大な解決経路は、**適時**、**効率的**、**公正**でなければなりません。
   - **適時：**[重大な利害](core_00_preamble.md#material-stake)と損害の緊急性に応じた期限を設けること。
-  - **効率的：**第一章 [§9.2 憲法上の効率性](core_01_a_values_principles.md#92-constitutional-efficiency)の意味での[憲法上の効率性](core_05_band_continuity.md#constitutional-efficiency)—センティエントの時間と共有の労力を使って実際の憲法上の成果を得ることであり、処理件数や案件の消化速度ではありません。
+  - **効率的：**第一章 [§9.2 憲法上の効率性](core_01_a_values_principles.md#92-憲法上の効率性)の意味での[憲法上の効率性](core_05_band_continuity.md#constitutional-efficiency)—センティエントの時間と共有の労力を使って実際の憲法上の成果を得ることであり、処理件数や案件の消化速度ではありません。
   - **公正：****第XX-A条**（*正義の目的と範囲*）と**第XX-B条**（*制約の最低基準*）は全面的に適用されます。迅速な処理は確認済みの事実を省き（[第十章 §3.1 法的地位のための検証済み情報のゲート](core_10_standing_assessment.md#verified-inputs-for-standing)）、誤った当事者を罰し、損害に合わない修正を提示し、異議申立てや上訴を断つ口実にはなりません。
 - **フォーラムと経路の監督：****第十章から第十三章**を通じて付託された紛争について、次の事項は、適時・効率的・公正という本条の最低基準に従い、[第十三章 §6 適時な解決、重大性区分、遅延防止の規律](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)が定めます。
   - 重大性区分の分類。
@@ -261,13 +261,13 @@ flowchart TB
 - **説明責任：**統治を支配する者は、習慣や便宜だけで規則を維持した場合、または緊急措置、実施、保管の名目を使って実質的な変更を迂回させ、**権利最低基準**や憲法を適法に変更する規則を回避した場合に説明責任を負います。
 - **適時性：**定期的な再検証に加え、捕獲圧力、利害関係者の排除、異議申立て権の劣化、重大な実績不足が現れた場合は審査を加速します。
 
-統治規則、参加の仕組み、重みづけモデル、資金構造は、[第一章 §18.4 継続的正当化](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)の規律に引き続き従います。**第XXVII-A条**（*固定化の禁止と改訂可能性*）および**第XXVII-B条**（*定期的な再検証と透明な変更*）が、固定化の禁止、再検証、透明な変更に関する実施上の最低基準を定めます。
+統治規則、参加の仕組み、重みづけモデル、資金構造は、[第一章 §18.4 継続的正当化](core_01_c_stewardship_capacity_principles.md#184-継続的な正当化)の規律に引き続き従います。**第XXVII-A条**（*固定化の禁止と改訂可能性*）および**第XXVII-B条**（*定期的な再検証と透明な変更*）が、固定化の禁止、再検証、透明な変更に関する実施上の最低基準を定めます。
 
 #### 第XXVII-A条：固定化の禁止と改訂可能性
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：[第一章 §18.4 継続的正当化](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)；第一章の[§3 基礎的目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上位原則：[第一章 §18.4 継続的正当化](core_01_c_stewardship_capacity_principles.md#184-継続的な正当化)；第一章の[§3 基礎的目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 
 </details>
 
@@ -275,7 +275,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [透明性](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [透明性](core_05_band_oversight.md#透明性) · [O](core_05_band_oversight.md#透明性) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [利害関係者](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -305,7 +305,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [透明性](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [透明性](core_05_band_oversight.md#透明性) · [O](core_05_band_oversight.md#透明性) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [異議申立て可能性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -365,7 +365,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的な均衡原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第十一章 §5.4](core_11_standing_integration.md#54-special-violation-rules)（*本条により移行中の不整合な報酬の没収と報告が制限される*）；[第八章—システム整合性認証](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
+- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的な均衡原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第十一章 §5.4](core_11_standing_integration.md#54-special-violation-rules)（*本条により移行中の不整合な報酬の没収と報告が制限される*）；[第八章—システム整合性認証](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
 
 </details>
 
@@ -375,7 +375,7 @@ flowchart TB
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [ウェルビーイング](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [証拠の保全](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [証拠の保全](core_05_band_oversight.md#証拠保全) · [O](core_05_band_oversight.md#証拠保全) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -394,12 +394,12 @@ flowchart TB
     - 政治的圧力。
   - 基準、達成を示す証拠、ゲートの決定を公表します。影響を受ける利害関係者は、採択前に基準へ意見を述べ、決定に異議を申し立てられます。
   - 基準の内容、責任者の割当て、検証資料は[**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)（*移行期の統治と制度的進化*）および[**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules)（*ゲート基準と進行規則*）が定めます。
-- **権利最低基準の採用—抑制は直ちに、実現は準備に応じて：**[権利最低基準の原則](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)に基づき、**第VI条**（*基本的権利の平等*）を通じて適用される**権利最低基準**と、影響を受ける状況に応じて必要となる生存、主体性、差別禁止、アクセシビリティ、監査可能性、救済に関するより強い分野別基準が、各段階で採用される目標です。権利最低基準は、それを執行する制度と文化が存在するまで完全には執行できません。本条はその事実を否定しませんが、その事実を理由に基準を引き下げることも認めません。したがって、義務の種類に応じて二つの形で基準を拘束します。
+- **権利最低基準の採用—抑制は直ちに、実現は準備に応じて：**[権利最低基準の原則](core_01_b_interaction_interpretation.md#権利の最低保障原則)に基づき、**第VI条**（*基本的権利の平等*）を通じて適用される**権利最低基準**と、影響を受ける状況に応じて必要となる生存、主体性、差別禁止、アクセシビリティ、監査可能性、救済に関するより強い分野別基準が、各段階で採用される目標です。権利最低基準は、それを執行する制度と文化が存在するまで完全には執行できません。本条はその事実を否定しませんが、その事実を理由に基準を引き下げることも認めません。したがって、義務の種類に応じて二つの形で基準を拘束します。
   - **抑制義務**—採用者と移行当局がしてはならないこと—は、新たな制度を必要とせず遵守できるため、発効日から拘束します。
     - **認識ある、または回避可能な後退をしない：**センティエントが権利最低基準による保護を利用できる度合いを、その**初期測定値**より意図的または回避可能な形で下げてはならず、移行措置によって基準の行使を実質的に困難にしてもなりません。
     - **新たな違反を生じさせない：**新たなシステム、方針、慣行、および既存のものの重大な拡張は、最初から基準に適合するよう設計しなければなりません。以下の達成経路が対象とするのは引き継いだ不足だけであり、新たな行為ではありません。
     - **不可逆な喪失を生じさせない：**以下の保全の既定ルールと、[第一章 §13.1の既定の暫定姿勢](core_01_b_interaction_interpretation.md#default-interim-posture)を全面的に適用します。
-    - 移行措置で**尊厳を損なう、口実に基づく、差別的、または隠蔽的な行為をしない**こと。これには、[反尊厳的手続の原則](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)に基づき、**第XXVIII-D条**（*不適合な財産およびシステム；自発的引渡しのインセンティブ*）が移行当局に求めるすべてが含まれます。
+    - 移行措置で**尊厳を損なう、口実に基づく、差別的、または隠蔽的な行為をしない**こと。これには、[反尊厳的手続の原則](core_01_b_interaction_interpretation.md#尊厳を損なう手続の禁止原則)に基づき、**第XXVIII-D条**（*不適合な財産およびシステム；自発的引渡しのインセンティブ*）が移行当局に求めるすべてが含まれます。
     - **誠実に報告する：**検証済みの台帳データがない限り、基準が執行可能または達成済みである、あるいは格差が解消済みであると表示してはなりません。
 
     ある範囲でフォーラムの準備が整う前の抑制義務の暫定執行は、[**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication)（*権利最低基準の達成台帳*）が定めます。
@@ -443,7 +443,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的な均衡原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的な均衡原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 
 </details>
 
@@ -485,7 +485,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的な均衡原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的な均衡原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
 - あわせて読む：[第八章](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*システム整合性認証*）；[第十章から第十三章](core_00_preamble.md#62-how-the-full-chain-fits-together)（*法的地位の経路とフォーラム監督*）。
 
 </details>
@@ -493,7 +493,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [監査可能性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [監査可能性](core_05_band_oversight.md#監査可能性) · [O](core_05_band_oversight.md#監査可能性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [説明責任](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [可逆性](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

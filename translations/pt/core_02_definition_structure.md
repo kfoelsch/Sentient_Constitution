@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Dois em inglês](../../core_02_definition_structure.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_02_definition_structure.md`](../../core_02_definition_structure.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
+> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Dois em inglês](../../core_02.000_definition_structure.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_02_definition_structure.md`](../../core_02.000_definition_structure.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
@@ -17,11 +17,11 @@
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): pilha de definições e onde vive o Capítulo Dois</span></strong></summary>
 
 > Os capítulos **Dois a Cinco** formam a pilha constitucional de definições; o **[CJS](../../corpus_joint_structure.md)** carrega as definições operacionais que a aplicam:
-> - **Capítulo Dois (este arquivo)** — estrutura das definições O/M/A/C e alinhamento de componentes: cada definição liga **Ontológico (O)** (o que é), o registro de **Medição (M)** entretecido com o dever de **Avaliação (A)** (como deve ser medido e avaliado), e **Conformidade (C)** (o que deve sustentar-se) ([§1 Propósito e papel](core_02_definition_structure.md#1-purpose-and-role); [§2 Exigência de integridade da definição](core_02_definition_structure.md#2-definition-integrity-requirement)).
-> - **Capítulo Três** — integridade da definição, evasão e não conformidade ([Capítulo Três](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
-> - **Capítulo Quatro** — ônus da prova, rastreabilidade das definições, observabilidade, verificação sob limites de segurança e acessibilidade da verificação ([Capítulo Quatro — Ônus da prova, rastreabilidade e verificação](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
-> - **Capítulo Cinco** — vocabulário compartilhado para medição, avaliação e conformidade (definições independentes, agrupadas e de pacote nas seções 1–3 ao longo dos cinco arquivos de faixa da Tétrade e dos arquivos de fim constitucional: [Fim Florescimento](core_05_apex_flourishing_aim.md), [Supervisão](../../core_05_band_oversight.md), [Participação](../../core_05_band_participation.md), [Prestação de contas](../../core_05_band_accountability.md), [Continuidade](../../core_05_band_continuity.md), [Integrativa](../../core_05_band_integrative.md)); ordem de leitura e mapa na [Parte A](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
-> - **CJS** — definições operacionais para termos de transimplementação ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) biblioteca operacional de aglomerados); aplicar os lares canônicos do Capítulo Cinco — não redefini-los. As taxonomias de domínio e os protocolos em **CS**, **CI** e **CF** seguem a mesma regra.
+> - **Capítulo Dois (este arquivo)** — estrutura das definições O/M/A/C e alinhamento de componentes: cada definição liga **Ontológico (O)** (o que é), o registro de **Medição (M)** entretecido com o dever de **Avaliação (A)** (como deve ser medido e avaliado), e **Conformidade (C)** (o que deve sustentar-se) ([§1 Propósito e papel](core_02_definition_structure.md#1-propósito-e-papel); [§2 Exigência de integridade da definição](core_02_definition_structure.md#2-exigência-de-integridade-da-definição)).
+> - **Capítulo Três** — integridade da definição, evasão e não conformidade ([Capítulo Três](core_03_definition_integrity.md#capítulo-três-integridade-da-definição-evasão-e-não-conformidade)).
+> - **Capítulo Quatro** — ônus da prova, rastreabilidade das definições, observabilidade, verificação sob limites de segurança e acessibilidade da verificação ([Capítulo Quatro — Ônus da prova, rastreabilidade e verificação](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
+> - **Capítulo Cinco** — vocabulário compartilhado para medição, avaliação e conformidade (definições independentes, agrupadas e de pacote nas seções 1–3 ao longo dos cinco arquivos de faixa da Tétrade e dos arquivos de fim constitucional: [Fim Florescimento](core_05_apex_flourishing_aim.md), [Supervisão](../../core_05.050_band_oversight.md), [Participação](../../core_05.055_band_participation.md), [Prestação de contas](../../core_05.035_band_accountability.md), [Continuidade](../../core_05.040_band_continuity.md), [Integrativa](../../core_05.045_band_integrative.md)); ordem de leitura e mapa na [Parte A](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco).
+> - **CJS** — definições operacionais para termos de transimplementação ([CJS-5.105](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) biblioteca operacional de aglomerados); aplicar os lares canônicos do Capítulo Cinco — não redefini-los. As taxonomias de domínio e os protocolos em **CS**, **CI** e **CF** seguem a mesma regra.
 >
 > Navegação adicional:
 > - **Regra antirrealocação:** os fluxos de trabalho procedimentais, a mecânica de execução e os esquemas de classificação além do âmbito definicional não devem ser absorvidos neste capítulo.
@@ -32,7 +32,7 @@
 
 O Capítulo Dois é o titular constitucional da **estrutura das definições e do alinhamento de componentes**.
 
-*Em termos simples: os capítulos Dois a Cinco são a pilha constitucional de definições — se constrói (Dois), se mantém honesta (Três), se verifica (Quatro), se nomeia (Cinco). O Capítulo Dois constrói cada definição a partir de partes ligadas — o que um termo é (O), como deve ser medido e avaliado (o registro de medição entretecido com a avaliação, M/A), e o que deve sustentar-se na prática (C). As definições operacionais de transimplementação vivem no [CJS](../../corpus_joint_structure.md) ([CJS-3 — Termos operacionais de transimplementação](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)); aplicam os termos do Capítulo Cinco e não os redefinem.*
+*Em termos simples: os capítulos Dois a Cinco são a pilha constitucional de definições — se constrói (Dois), se mantém honesta (Três), se verifica (Quatro), se nomeia (Cinco). O Capítulo Dois constrói cada definição a partir de partes ligadas — o que um termo é (O), como deve ser medido e avaliado (o registro de medição entretecido com a avaliação, M/A), e o que deve sustentar-se na prática (C). As definições operacionais de transimplementação vivem no [CJS](../../corpus_joint_structure.md) ([CJS-5.105 — Termos operacionais de transimplementação](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)); aplicam os termos do Capítulo Cinco e não os redefinem.*
 
 <br>
 
@@ -43,16 +43,16 @@ O Capítulo Dois é o titular constitucional da **estrutura das definições e d
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Preâmbulo §1 O modelo](core_00_preamble.md#the-model) — a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad), os [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) e a escalada da [aposta material](core_00_preamble.md#material-stake) aplicam-se a todo o capítulo pelos rastros de seção; [Capítulo Um §1 Propósito e papel](core_01_a_values_principles.md#1-purpose-and-role) (*valores e restrições a que esta pilha de definições serve*).
-- Origem: [Abertura do Capítulo Dois](#chapter-two-definition-structure-and-component-requirements) — decomposição O/M/A/C e exigência de alinhamento interno.
+- Origem: [Abertura do Capítulo Dois](#capítulo-dois-estrutura-das-definições-e-requisitos-dos-componentes) — decomposição O/M/A/C e exigência de alinhamento interno.
 - Perna(s) da Tétrade: **supervisão**, **prestação de contas** (as definições devem ser avaliáveis e exigíveis sobre conduta observável). Fim(ns) primário(s): **Florescimento** e **Continuidade**. A escalada da [aposta material](core_00_preamble.md#material-stake) aplica-se a todo o capítulo.
-- Destino: [§1.2 Componentes de medição](#12-measurement-components) e [§1.3 Componentes de avaliação](#13-assessment-components) (*registro de Medição (M) entretecido com o dever de avaliação; forma de entrada O/M/A/C neste capítulo*); [§2 Exigência de integridade da definição](#2-definition-integrity-requirement); [Capítulo Três, seção 1 — Integridade da definição e restrições antievasão](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Capítulo Quatro, seção 1 — Execução exclusiva e alocação do ônus](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [bússola e mapa de definições do Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
-- Ler com: [Preâmbulo — registro positivo de titulares constitucionais](core_00_preamble.md#4-principles-definitions-and-rights) e [Pilha de autoridade e hierarquia interna](../../core_05_band_integrative.md#authority-stack); [Restrição constitucional](../../core_05_band_integrative.md#constitutional-constraint) — a execução, a governança, a implementação, a medição, a auditoria e a mecânica de classificação posteriores devem cumprir; [CJS-3.1 Bússola constitucional e mapa de aglomerados](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — as definições operacionais aplicam, e NÃO DEVEM redefinir, os lares canônicos do Capítulo Cinco.
+- Destino: [§1.2 Componentes de medição](#12-measurement-components) e [§1.3 Componentes de avaliação](#13-assessment-components) (*registro de Medição (M) entretecido com o dever de avaliação; forma de entrada O/M/A/C neste capítulo*); [§2 Exigência de integridade da definição](#2-exigência-de-integridade-da-definição); [Capítulo Três, seção 1 — Integridade da definição e restrições antievasão](core_03_definition_integrity.md#1-integridade-da-definição-e-restrições-antievasão); [Capítulo Quatro, seção 1 — Execução exclusiva e alocação do ônus](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [bússola e mapa de definições do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco).
+- Ler com: [Preâmbulo — registro positivo de titulares constitucionais](core_00_preamble.md#4-princípios-definições-e-direitos) e [Pilha de autoridade e hierarquia interna](../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy); [Restrição constitucional](../../core_05.045_band_integrative.md#constitutional-constraint) — a execução, a governança, a implementação, a medição, a auditoria e a mecânica de classificação posteriores devem cumprir; [CJS-5.105 §1 Bússola constitucional e mapa de aglomerados](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — as definições operacionais aplicam, e NÃO DEVEM redefinir, os lares canônicos do Capítulo Cinco.
 
 </details>
 
 <br>
 
-*Em termos simples: esta seção é a descrição do trabalho do Capítulo Dois. É titular da primeira camada da pilha de definições: cada definição constitucional se constrói a partir de partes ligadas — o que um termo é (O), como deve ser medido e avaliado (o registro de Medição entretecido com a avaliação, M/E), e o que deve sustentar-se na prática (C) — e essas partes devem permanecer alinhadas. Satisfazer uma contornando outra não conta. As operações de execução, governança e medição vivem em capítulos posteriores e devem cumprir o que este capítulo estabelece.*
+*Em termos simples: esta seção é a descrição do trabalho do Capítulo Dois. É titular da primeira camada da pilha de definições: cada definição constitucional se constrói a partir de partes ligadas — o que um termo é (O), como deve ser medido e avaliado (o registro de Medição entretecido com a avaliação, M/A), e o que deve sustentar-se na prática (C) — e essas partes devem permanecer alinhadas. Satisfazer uma contornando outra não conta. As operações de execução, governança e medição vivem em capítulos posteriores e devem cumprir o que este capítulo estabelece.*
 
 Toda definição constitucional DEVE ser construída a partir de partes ligadas, cada uma com exatamente um trabalho:
 - **Ontológico (O)** — de que trata o termo.
@@ -60,7 +60,7 @@ Toda definição constitucional DEVE ser construída a partir de partes ligadas,
 - **Avaliação (A)** — como o termo deve ser avaliado. Nas definições-folha do Capítulo Cinco, o registro de **Medição (M)** está entretecido no componente de **Avaliação (A)**. Veja [§1.3 Componentes de avaliação](#13-assessment-components).
 - **Conformidade (C)** — o que deve ser verdade na prática.
 
-Essas partes DEVEM permanecer consistentes dentro de cada definição. A execução, a governança, a implementação, as operações de medição, a auditoria e a mecânica de classificação além do âmbito definicional pertencem a capítulos posteriores; DEVEM cumprir as [Restrições constitucionais](../../core_05_band_integrative.md#constitutional-constraint) estabelecidas aqui.
+Essas partes DEVEM permanecer consistentes dentro de cada definição. A execução, a governança, a implementação, as operações de medição, a auditoria e a mecânica de classificação além do âmbito definicional pertencem a capítulos posteriores; DEVEM cumprir as [Restrições constitucionais](../../core_05.045_band_integrative.md#constitutional-constraint) estabelecidas aqui.
 
 Toda definição DEVE ser cumprida para o sistema inteiro como realmente opera — inclusive os sistemas estendidos por sencientes, máquinas e lugares. As partes O, M, A e C DEVEM aprovar juntas, no mesmo âmbito e sob as mesmas condições de teste. Aprovar uma parte recortando pedaços do sistema, estreitando o que conta ou enfraquecendo outra parte não conta.
 
@@ -118,8 +118,8 @@ As definições-folha do Capítulo Cinco devem carregar esses requisitos M usand
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: [Abertura do Capítulo Dois](#chapter-two-definition-structure-and-component-requirements); [§1 Propósito e papel](#1-purpose-and-role) — papel do componente A dentro da decomposição O/M/A/C.
-- Destino: [Capítulo Três, seção 1 — Integridade da definição e restrições antievasão](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Capítulo Quatro, seção 1 — Execução exclusiva e alocação do ônus](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — via nomeada de execução exclusiva para os requisitos de avaliação definidos nos capítulos Dois e Três; [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — suficiência de evidência para essa execução.
+- Origem: Princípios: [Abertura do Capítulo Dois](#capítulo-dois-estrutura-das-definições-e-requisitos-dos-componentes); [§1 Propósito e papel](#1-propósito-e-papel) — papel do componente A dentro da decomposição O/M/A/C.
+- Destino: [Capítulo Três, seção 1 — Integridade da definição e restrições antievasão](core_03_definition_integrity.md#1-integridade-da-definição-e-restrições-antievasão); [Capítulo Quatro, seção 1 — Execução exclusiva e alocação do ônus](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — via nomeada de execução exclusiva para os requisitos de avaliação definidos nos capítulos Dois e Três; [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) — suficiência de evidência para essa execução.
 - Ler com: [Definições independentes do Capítulo Cinco](core_05__definitions_home.md#1-interdependent-definitions) — definições aplicáveis que governam o âmbito e as condições da avaliação; os requisitos de avaliação se aplicam de forma consistente com cada definição aplicável do Capítulo Cinco dentro do seu âmbito de admissão.
 
 </details>
@@ -188,9 +188,9 @@ As definições-folha do Capítulo Cinco devem carregar esses requisitos C usand
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: [§1 Propósito e papel](#1-purpose-and-role) — estrutura de componentes O/M/A/C e regra de satisfação conjunta do sistema inteiro.
-- Destino: [§2.4 Regra de interpretação sob ambiguidade](#24-interpretation-rule-under-ambiguity); [§3 Consistência ao longo da pilha de definições](#3-consistency-across-the-definition-stack); [Capítulo Três, seção 1 — Integridade da definição e restrições antievasão](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Capítulo Quatro, seção 1 — Execução exclusiva e alocação do ônus](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
-- Ler com: [Definições agrupadas do Capítulo Cinco (Diligência de previsibilidade)](../../core_05_band_oversight.md#foreseeability-diligence) — significado operativo de todo «razoavelmente previsível» nos capítulos Dois a Quatro.
+- Origem: [§1 Propósito e papel](#1-propósito-e-papel) — estrutura de componentes O/M/A/C e regra de satisfação conjunta do sistema inteiro.
+- Destino: [§2.4 Regra de interpretação sob ambiguidade](#24-regra-de-interpretação-sob-ambiguidade); [§3 Consistência ao longo da pilha de definições](#3-consistência-ao-longo-da-pilha-de-definições); [Capítulo Três, seção 1 — Integridade da definição e restrições antievasão](core_03_definition_integrity.md#1-integridade-da-definição-e-restrições-antievasão); [Capítulo Quatro, seção 1 — Execução exclusiva e alocação do ônus](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard).
+- Ler com: [Definições agrupadas do Capítulo Cinco (Diligência de previsibilidade)](../../core_05.050_band_oversight.md#foreseeability) — significado operativo de todo «razoavelmente previsível» nos capítulos Dois a Quatro.
 
 </details>
 
@@ -200,7 +200,7 @@ As definições-folha do Capítulo Cinco devem carregar esses requisitos C usand
 
 <a id="21-core-integrity-conditions"></a>
 #### 2.1 Condições centrais de integridade
-Toda definição deve sustentar-se junta ao ser aplicada. As partes ligadas exigidas por [§1 Propósito e papel](#1-purpose-and-role) devem:
+Toda definição deve sustentar-se junta ao ser aplicada. As partes ligadas exigidas por [§1 Propósito e papel](#1-propósito-e-papel) devem:
 - continuar de acordo umas com as outras
 - ser todas cumpridas juntas; satisfazer uma ou duas não basta
 - ser cumpridas no mesmo sistema e sob as mesmas condições — não se pode aprovar uma parte num recorte estreito e outra parte noutro recorte
@@ -217,9 +217,9 @@ Uma definição não é cumprida se o modo como é construída, lida ou aplicada
 <a id="23-construction-constraints"></a>
 #### 2.3 Restrições de construção
 As definições devem ser escritas de modo que:
-- todas as partes (O, M, E, C) só possam ser cumpridas juntas sob condições que reflitam como o sistema realmente se comporta e o que realmente produz
+- todas as partes (O, M, A, C) só possam ser cumpridas juntas sob condições que reflitam como o sistema realmente se comporta e o que realmente produz
 - nenhuma parte possa ser cumprida generalizando, partindo as coisas, estreitando o âmbito ou descrevendo-as de um modo que deixe de fora elementos do sistema, interações ou efeitos que realmente importam
-- nenhuma medida substitua o resultado que está destinada a capturar; uma medida que se afasta do resultado do mundo real que representa (veja [Divergência de proxy](../../core_05_band_oversight.md#proxy-divergence)) não pode cumprir a definição, e a escolha de medidas não deve encolher o que tem de ser avaliado nem o que tem de sustentar-se na prática
+- nenhuma medida substitua o resultado que está destinada a capturar; uma medida que se afasta do resultado do mundo real que representa (veja [Divergência de proxy](../../core_05.050_band_oversight.md#proxy-divergence)) não pode cumprir a definição, e a escolha de medidas não deve encolher o que tem de ser avaliado nem o que tem de sustentar-se na prática
 - nenhum pressuposto não enunciado, dependência oculta ou condição omitida mude ou enfraqueça o que deve ser avaliado ou o que deve sustentar-se na prática
 
 <a id="24-interpretation-rule-under-ambiguity"></a>
@@ -237,13 +237,13 @@ Se uma leitura razoável enfraqueceria as salvaguardas, estreitaria o que deve s
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: [§2 Exigência de integridade da definição](#2-definition-integrity-requirement); [§1 Propósito e papel](#1-purpose-and-role).
-- Destino: [Capítulo Três, seção 2 — Não conformidade a partir de conduta observável do sistema](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); seções **4.1**, **3**, **5** e **6** do Capítulo Quatro onde aparece «razoavelmente previsível» sem um ponteiro em linha ao Capítulo Cinco.
-- Ler com: [Definições agrupadas do Capítulo Cinco (Diligência de previsibilidade)](../../core_05_band_oversight.md#foreseeability-diligence) — regra que governa todo «razoavelmente previsível» nos capítulos Dois a Quatro; significado operativo em [Razoavelmente previsível](../../core_05_band_oversight.md#reasonably-foreseeable) (Capítulo Cinco, seção 3 — Aglomerados dependentes (aglomerado Verdade e integridade epistêmica; Diligência de previsibilidade)).
+- Origem: Princípios: [§2 Exigência de integridade da definição](#2-exigência-de-integridade-da-definição); [§1 Propósito e papel](#1-propósito-e-papel).
+- Destino: [Capítulo Três, seção 2 — Não conformidade a partir de conduta observável do sistema](core_03_definition_integrity.md#2-não-conformidade-a-partir-de-conduta-observável-do-sistema); [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](../../core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement); seções **4.1**, **3**, **5** e **6** do Capítulo Quatro onde aparece «razoavelmente previsível» sem um ponteiro em linha ao Capítulo Cinco.
+- Ler com: [Definições agrupadas do Capítulo Cinco (Diligência de previsibilidade)](../../core_05.050_band_oversight.md#foreseeability) — regra que governa todo «razoavelmente previsível» nos capítulos Dois a Quatro; significado operativo em [Razoavelmente previsível](../../core_05.050_band_oversight.md#reasonably-foreseeable) (Capítulo Cinco, seção 3 — Aglomerados dependentes (aglomerado Verdade e integridade epistêmica; Diligência de previsibilidade)).
 
 </details>
 
-<strong><span style="color: #2563eb;">Definição:</span></strong> [Previsibilidade](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definição:</span></strong> [Previsibilidade](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *Em termos simples: uma definição não só tem de se sustentar junta no papel — tem de se sustentar junta ao longo da pilha de definições no mundo real. Suas partes devem alinhar-se do mesmo modo na operação normal, degradada e adversária, ao longo do tempo, através de sistemas conectados, em cada situação que razoavelmente se poderia ver vir e sob cada leitura justa de suas palavras.*
 
@@ -260,4 +260,4 @@ As partes de uma definição devem permanecer consistentes ao longo de:
 
 **Próximo arquivo (este idioma):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**Original vinculante:** [core_02_definition_structure.md](../../core_02_definition_structure.md)
+**Original vinculante:** [core_02_definition_structure.md](../../core_02.000_definition_structure.md)

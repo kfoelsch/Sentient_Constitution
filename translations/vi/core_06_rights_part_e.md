@@ -69,7 +69,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Quy trình giải quyết xung đột hiến pháp](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), và [§15 Diễn giải hiến pháp](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Quy trình giải quyết xung đột hiến pháp](core_01_b_interaction_interpretation.md#13-quy-trình-giải-quyết-xung-đột-hiến-định), và [§15 Diễn giải hiến pháp](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - Đọc cùng: Nhóm đo lường tính kịp thời (*Giải quyết kịp thời như một thước đo hiến pháp*).
 
 </details>
@@ -81,9 +81,9 @@ flowchart TB
 - [Công bằng thủ tục](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Giải quyết kịp thời](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [Công lý phục hồi](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [Khả năng kiểm toán](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) · [O](core_05_band_oversight.md#khả-năng-kiểm-toán) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Khả năng phản đối](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Tính minh bạch](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Tính minh bạch](core_05_band_oversight.md#minh-bạch) · [O](core_05_band_oversight.md#minh-bạch) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -111,7 +111,7 @@ Phân xử và giải quyết tranh chấp theo nghĩa hiến định được *
 *Các điều khoản liền kề:*
 
 - **Ngưỡng về tính kịp thời:**Tốc độ giải quyết, kỷ luật chống trì hoãn và các mốc theo cấp độ trọng yếu do **Điều XXVI-C** (*Giải quyết kịp thời và Ngưỡng chống trì hoãn*) điều chỉnh, được thực hiện thông qua [Chương Mười Ba §6 Giải quyết kịp thời, các cấp độ trọng yếu và kỷ luật chống trì hoãn](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- **Khắc phục kịp thời:**Đọc cùng [**Điều XIII-B** (*Quyền được khắc phục và biện pháp khắc phục*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*tiếp cận khắc phục kịp thời*).
+- **Khắc phục kịp thời:**Đọc cùng [**Điều XIII-B** (*Quyền được khắc phục và biện pháp khắc phục*)](core_06_rights_part_c.md#điều-xiii-b-quyền-được-khắc-phục-và-khắc-phục) (*tiếp cận khắc phục kịp thời*).
 - **Biện pháp khẩn cấp:**Được điều chỉnh bởi [Chương Mười Ba §6.1 Biện pháp khẩn cấp và gánh nặng khi tiếp tục](core_13_forum.md#61-emergency-measures-and-continuation-burden). Rà soát hồi cứu biện pháp khẩn cấp do **Điều XXVI-A** (*Rà soát hồi cứu và công khai*) điều chỉnh.
 - **Công lý sau vi phạm đã được xác minh:**Được điều chỉnh bởi **Điều XX** (*Công lý sau vi phạm đã được xác minh*).
 
@@ -126,16 +126,16 @@ Việc thực thi quản trị được thông qua quy định:
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Các giới hạn công khai nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Các giới hạn công khai nhận thức](core_01_b_interaction_interpretation.md#132-các-giới-hạn-đối-với-việc-tiết-lộ-tri-thức), và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Khả năng kiểm toán](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) · [O](core_05_band_oversight.md#khả-năng-kiểm-toán) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Chân lý (Giới hạn của Hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Chân lý (Giới hạn của Hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -163,7 +163,7 @@ Việc thực thi quản trị được thông qua quy định:
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§13.1.5 Phép thử quyết định xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§13.1.5 Phép thử quyết định xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
 - Đọc cùng: [Chương Mười Một §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression) (*Bày tỏ trách nhiệm giải trình công khai tự nguyện*); [Chương Mười Hai §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Bày tỏ trách nhiệm giải trình công khai tự nguyện (phản hiến pháp)*).
 
 </details>
@@ -202,7 +202,7 @@ Việc thực thi quản trị được thông qua quy định:
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
 - Nguồn thượng tầng: Nhóm đo lường tính kịp thời (*Giải quyết kịp thời và kỷ luật chống trì hoãn như một thước đo hiến pháp*); [Lời mở đầu §6.2 Cách toàn bộ chuỗi phối hợp](core_00_preamble.md#62-how-the-full-chain-fits-together) (*lộ trình phối hợp tư cách khởi kiện, tích hợp và diễn đàn*).
-- Các nguyên tắc: Chương Một [§9.2 Hiệu quả hiến pháp](core_01_a_values_principles.md#92-constitutional-efficiency), [§13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), và [§13.1.5 Thủ tục giải quyết xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Các nguyên tắc: Chương Một [§9.2 Hiệu quả hiến pháp](core_01_a_values_principles.md#92-hiệu-quả-hiến-pháp), [§13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-giảm-thiểu-gánh-nặng-có-thể-tránh), và [§13.1.5 Thủ tục giải quyết xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Quy tắc triển khai: [Chương Mười Ba §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*các cấp độ trọng yếu, mốc quy trình và kỷ luật chống trì hoãn*); [Chương Mười Ba §6.1 Biện pháp khẩn cấp và gánh nặng khi tiếp tục](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*cùng giới hạn ngoài như thời hạn mặc định để khôi phục và phản đối sau khi khẩn cấp phong tỏa*).
 - Cửa vào dành cho steward (không có hiệu lực vận hành): Thẻ bước tiếp theo: [Trì hoãn](implementation/STEWARD_ENTRY_DOORS.md#delay). Thẻ này không thể thu hẹp Hiến pháp.
 
@@ -216,7 +216,7 @@ Việc thực thi quản trị được thông qua quy định:
 - [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [Gánh nặng có thể tránh](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [Chiếm đoạt lộ trình giải quyết](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [Tính trọng yếu](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) · [O](core_05_band_oversight.md#có-trọngity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -229,7 +229,7 @@ Việc thực thi quản trị được thông qua quy định:
 - **Mục đích phối hợp:** Công lý hiến pháp theo **Điều XX-A** (*Mục tiêu và phạm vi công lý*) vận hành qua **hệ thống phối hợp và giải quyết hiến pháp** — xác minh sự kiện, đo lường tư cách khởi kiện, tích hợp hệ quả và phục hồi khi khả thi — chứ không phải trì hoãn đối kháng vô thời hạn, chấm điểm danh tiếng hay trừng phạt vì chính nó.
 - **Ba yêu cầu chung:** Lộ trình giải quyết vấn đề trọng yếu phải đồng thời **kịp thời**, **hiệu quả** và **công bằng**:
   - **Kịp thời** — thời hạn xác định tương ứng với [lợi ích trọng yếu](core_00_preamble.md#material-stake) và tính cấp bách của tổn hại;
-  - **Hiệu quả** — [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) theo nghĩa của Chương Một [§9.2 Hiệu quả hiến pháp](core_01_a_values_principles.md#92-constitutional-efficiency): kết quả hiến pháp thực chất trên mỗi đơn vị thời gian của hữu thể có tri giác và công sức chung, không phải số lượng xử lý hay giải phóng hồ sơ;
+  - **Hiệu quả** — [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) theo nghĩa của Chương Một [§9.2 Hiệu quả hiến pháp](core_01_a_values_principles.md#92-hiệu-quả-hiến-pháp): kết quả hiến pháp thực chất trên mỗi đơn vị thời gian của hữu thể có tri giác và công sức chung, không phải số lượng xử lý hay giải phóng hồ sơ;
   - **Công bằng** — **Điều XX-A** (*Mục tiêu và phạm vi công lý*) và **Điều XX-B** (*Các ngưỡng hạn chế*) vẫn được áp dụng đầy đủ; nhanh chóng không phải lý do để bỏ qua sự kiện đã kiểm tra ([Chương Mười §3.1 Cổng thông tin đã xác minh](core_10_standing_assessment.md#verified-inputs-for-standing)), phạt sai bên, đưa ra cách sửa không phù hợp với tổn hại hoặc cắt quyền phản đối và kháng cáo.
 - **Giám sát diễn đàn và quy trình:** Đối với tranh chấp được chuyển qua **Chương Mười đến Chương Mười Ba**, các vấn đề sau do [Chương Mười Ba §6 Giải quyết kịp thời, các cấp độ trọng yếu và kỷ luật chống trì hoãn](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) điều chỉnh, theo ngưỡng kịp thời, hiệu quả và công bằng của Điều này:
   - phân loại theo cấp độ trọng yếu;
@@ -259,13 +259,13 @@ Việc theo đuổi chính đáng diễn ra qua [Bộ tứ Hiến pháp](core_00
 - **Trách nhiệm giải trình:** người kiểm soát quản trị phải trả lời khi quy tắc chỉ được duy trì do thói quen hoặc thuận tiện — và khi thay đổi hiến pháp thực chất bị chuyển hướng qua nhãn khẩn cấp, triển khai hoặc lưu giữ để né tránh **các mức tối thiểu của Ngưỡng Quyền** hoặc quy tắc thay đổi Hiến pháp hợp pháp.
 - **Tính kịp thời:** tái xác nhận theo lịch và rà soát tăng tốc khi xuất hiện áp lực chiếm đoạt, loại trừ bên liên quan, suy giảm quyền phản đối hoặc hoạt động kém hiệu quả trọng yếu.
 
-Các quy tắc quản trị, cơ chế tham gia, mô hình trọng số và cấu trúc tài trợ tiếp tục chịu kỷ luật biện minh liên tục theo [Chương Một §18.4 Biện minh liên tục](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). **Điều XXVII-A** (*Chống cố thủ và khả năng sửa đổi*) và **Điều XXVII-B** (*Tái xác nhận định kỳ và thay đổi minh bạch*) quy định các ngưỡng vận hành về chống cố thủ, tái xác nhận và thay đổi minh bạch.
+Các quy tắc quản trị, cơ chế tham gia, mô hình trọng số và cấu trúc tài trợ tiếp tục chịu kỷ luật biện minh liên tục theo [Chương Một §18.4 Biện minh liên tục](core_01_c_stewardship_capacity_principles.md#184-biện-minh-liên-tục). **Điều XXVII-A** (*Chống cố thủ và khả năng sửa đổi*) và **Điều XXVII-B** (*Tái xác nhận định kỳ và thay đổi minh bạch*) quy định các ngưỡng vận hành về chống cố thủ, tái xác nhận và thay đổi minh bạch.
 
 #### Điều XXVII-A: Chống cố thủ và khả năng sửa đổi
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: [Chương Một §18.4 Biện minh liên tục](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Chương Một [§3 Mục tiêu nền tảng: Sức khỏe](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [Chương Một §14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Nguồn thượng tầng: [Chương Một §18.4 Biện minh liên tục](core_01_c_stewardship_capacity_principles.md#184-biện-minh-liên-tục); Chương Một [§3 Mục tiêu nền tảng: Sức khỏe](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [Chương Một §14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -273,7 +273,7 @@ Các quy tắc quản trị, cơ chế tham gia, mô hình trọng số và cấ
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Tính minh bạch](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Tính minh bạch](core_05_band_oversight.md#minh-bạch) · [O](core_05_band_oversight.md#minh-bạch) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Bên liên quan](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -303,7 +303,7 @@ Các quy tắc quản trị, cơ chế tham gia, mô hình trọng số và cấ
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Tính minh bạch](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Tính minh bạch](core_05_band_oversight.md#minh-bạch) · [O](core_05_band_oversight.md#minh-bạch) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Khả năng phản đối](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -363,7 +363,7 @@ Quản trị chuyển tiếp nhằm bảo đảm tính liên tục và không th
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: Các nguyên tắc Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc cân bằng cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chương Mười Một §5.4](core_11_standing_integration.md#54-special-violation-rules) (*quy tắc tước bỏ và báo cáo phần thưởng không phù hợp bị giới hạn trong thời kỳ chuyển tiếp theo Điều này*); [Chương Tám — Chứng nhận mức độ phù hợp hệ thống](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Nguồn thượng tầng: Các nguyên tắc Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc cân bằng cốt lõi](core_01_b_interaction_interpretation.md#131-các-nguyên-tắc-cốt-lõi-về-đánh-đổi), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chương Mười Một §5.4](core_11_standing_integration.md#54-special-violation-rules) (*quy tắc tước bỏ và báo cáo phần thưởng không phù hợp bị giới hạn trong thời kỳ chuyển tiếp theo Điều này*); [Chương Tám — Chứng nhận mức độ phù hợp hệ thống](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -373,7 +373,7 @@ Quản trị chuyển tiếp nhằm bảo đảm tính liên tục và không th
 - [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Tính tương xứng](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Sức khỏe](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [Bảo toàn chứng cứ](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [Bảo toàn chứng cứ](core_05_band_oversight.md#bảo-toàn-bằng-chứng) · [O](core_05_band_oversight.md#bảo-toàn-bằng-chứng) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [Sự cần thiết](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -392,12 +392,12 @@ Quản trị chuyển tiếp nhằm bảo đảm tính liên tục và không th
     - áp lực chính trị.
   - Tiêu chí, bằng chứng chứng minh việc đáp ứng và quyết định tại cổng phải được công khai. Các bên liên quan bị ảnh hưởng có thể góp ý tiêu chí trước khi áp dụng và phản đối quyết định.
   - Nội dung tiêu chí, phân công chủ sở hữu và tài liệu xác minh do [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Quản trị chuyển tiếp và tiến hóa thể chế*) và [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*Tiêu chí cổng và quy tắc tiến triển*) điều chỉnh.
-- **Áp dụng Ngưỡng Quyền — kiềm chế ngay, thực hiện khi xây dựng đủ sẵn sàng:** **Các mức tối thiểu của Ngưỡng Quyền** được áp dụng qua **Điều VI** (*Bình đẳng về các quyền cơ bản*) theo [Nguyên tắc các mức tối thiểu của Ngưỡng Quyền](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), cùng mọi ngưỡng chuyên biệt mạnh hơn về sinh tồn, năng lực hành động, không phân biệt đối xử, khả năng tiếp cận, khả năng kiểm toán và khắc phục mà bối cảnh bị ảnh hưởng đòi hỏi, là mục tiêu được áp dụng ở mọi giai đoạn. Ngưỡng Quyền không thể được thực thi đầy đủ cho đến khi tồn tại các thể chế và văn hóa thực thi nó; Điều này không giả vờ điều ngược lại, nhưng cũng không cho phép sự thật đó hạ thấp ngưỡng. Vì vậy, tùy loại nghĩa vụ, các ngưỡng ràng buộc theo hai cách:
+- **Áp dụng Ngưỡng Quyền — kiềm chế ngay, thực hiện khi xây dựng đủ sẵn sàng:** **Các mức tối thiểu của Ngưỡng Quyền** được áp dụng qua **Điều VI** (*Bình đẳng về các quyền cơ bản*) theo [Nguyên tắc các mức tối thiểu của Ngưỡng Quyền](core_01_b_interaction_interpretation.md#nguyên-tắc-về-các-mức-tối-thiểu-của-sàn-quyền), cùng mọi ngưỡng chuyên biệt mạnh hơn về sinh tồn, năng lực hành động, không phân biệt đối xử, khả năng tiếp cận, khả năng kiểm toán và khắc phục mà bối cảnh bị ảnh hưởng đòi hỏi, là mục tiêu được áp dụng ở mọi giai đoạn. Ngưỡng Quyền không thể được thực thi đầy đủ cho đến khi tồn tại các thể chế và văn hóa thực thi nó; Điều này không giả vờ điều ngược lại, nhưng cũng không cho phép sự thật đó hạ thấp ngưỡng. Vì vậy, tùy loại nghĩa vụ, các ngưỡng ràng buộc theo hai cách:
   - **Nghĩa vụ kiềm chế** — những điều bên áp dụng và cơ quan chuyển tiếp không được làm — ràng buộc từ ngày có hiệu lực vì tuân thủ không cần thể chế mới:
     - **Không thụt lùi có chủ ý hoặc có thể tránh:** không cố ý hoặc có thể tránh mà hạ thấp khả năng tiếp cận của bất kỳ hữu thể có tri giác nào đối với bảo vệ của Ngưỡng Quyền xuống dưới **số đo khởi điểm**, và không có biện pháp chuyển tiếp nào làm việc thực hiện một ngưỡng khó khăn hơn đáng kể.
     - **Không tạo vi phạm mới:** hệ thống, chính sách, thực tiễn mới và việc mở rộng đáng kể những thứ hiện có phải được thiết kế đáp ứng ngưỡng ngay từ đầu. Lộ trình đạt được dưới đây chỉ bao gồm thiếu hụt được thừa hưởng, không bao gồm hành vi mới.
     - **Không gây mất mát không thể đảo ngược:** áp dụng đầy đủ mặc định bảo toàn bên dưới và [tư thế tạm thời mặc định tại Chương Một §13.1](core_01_b_interaction_interpretation.md#default-interim-posture).
-    - Không có **hành vi hạ thấp phẩm giá, lấy cớ, phân biệt đối xử hoặc che giấu** trong biện pháp chuyển tiếp, bao gồm mọi điều **Điều XXVIII-D** (*Tài sản và hệ thống không tuân thủ; Khuyến khích tự nguyện bàn giao*) yêu cầu cơ quan chuyển tiếp thực hiện theo [Nguyên tắc Quy trình Chống hạ thấp phẩm giá](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+    - Không có **hành vi hạ thấp phẩm giá, lấy cớ, phân biệt đối xử hoặc che giấu** trong biện pháp chuyển tiếp, bao gồm mọi điều **Điều XXVIII-D** (*Tài sản và hệ thống không tuân thủ; Khuyến khích tự nguyện bàn giao*) yêu cầu cơ quan chuyển tiếp thực hiện theo [Nguyên tắc Quy trình Chống hạ thấp phẩm giá](core_01_b_interaction_interpretation.md#nguyên-tắc-cấm-quy-trình-hạ-thấp-phẩm-giá).
     - **Báo cáo trung thực:** không được trình bày một ngưỡng là có thể thực thi hoặc đã đạt, hay một khoảng cách là đã khép lại, trừ khi dữ liệu sổ cái đã được xác minh chứng minh điều đó.
 
     Việc thực thi tạm thời nghĩa vụ kiềm chế trước khi diễn đàn sẵn sàng cho một phạm vi do [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Sổ cái đạt Ngưỡng Quyền*) điều chỉnh.
@@ -441,7 +441,7 @@ Quản trị chuyển tiếp nhằm bảo đảm tính liên tục và không th
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc cân bằng cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), và [§14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc cân bằng cốt lõi](core_01_b_interaction_interpretation.md#131-các-nguyên-tắc-cốt-lõi-về-đánh-đổi), và [§14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -483,7 +483,7 @@ Phạm vi tạm thời đứng yên hoặc tăng lên mà thể chế không tr�
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc cân bằng cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc cân bằng cốt lõi](core_01_b_interaction_interpretation.md#131-các-nguyên-tắc-cốt-lõi-về-đánh-đổi), và [§20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-áp-dụng-tích-hợp).
 - Đọc cùng: [Chương Tám](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*chứng nhận mức độ phù hợp hệ thống*); [Chương Mười đến Chương Mười Ba](core_00_preamble.md#62-how-the-full-chain-fits-together) (*quy trình tư cách khởi kiện và giám sát diễn đàn*).
 
 </details>
@@ -491,7 +491,7 @@ Phạm vi tạm thời đứng yên hoặc tăng lên mà thể chế không tr�
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Khả năng kiểm toán](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Khả năng kiểm toán](core_05_band_oversight.md#khả-năng-kiểm-toán) · [O](core_05_band_oversight.md#khả-năng-kiểm-toán) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Khả năng đảo ngược](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

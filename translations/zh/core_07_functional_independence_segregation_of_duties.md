@@ -7,7 +7,7 @@
 > 本文件是 **Sentient Constitution 的一部分**，并且只有与其他编号的 `core_*` 文件作为一部文书共同阅读时，才具有约束力。本文件包含**第七章**：适用于跨流程职能独立与职责分离的底线。本章位于第六章权利底线之后，并在以[第八章系统协调认证](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)开篇的宪法程序章节之前。
 >
 > - **宪法所有者：**针对实质性约束行为的不同席位底线；每份[实质性约束行为记录](../../core_05_band_accountability.md#materially-binding-act-record)的普遍最低内容；独立于行为者及其[实质控制线](../../core_05_band_accountability.md#material-control-line)；公开发布的流程与角色配置；冲突、空缺、替代及错误席位转交；合乎比例的合并承载；可归责的交接；以及每项后续宪法程序都必须适用的最低独立条件。
-> - **原则层来源：**[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties)要求治理维护职能独立，并将操作性席位架构指向本章。
+> - **原则层来源：**[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)要求治理维护职能独立，并将操作性席位架构指向本章。
 > - **实施所有者：**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)、[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)和[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries)配置席位并使其投入运行。它们可以更严格，也可以增加边界明确的特殊权限席位类型，但不得缩小本章范围。
 > - **流程特定的适用仍由下游规定：**第八章将本底线用于系统协调认证；[第九章 §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties)将其用于身份记录；第十二章和[corpus_forum.md](../../corpus_forum.md)将其用于论坛程序。这些章节可以增加其主题所需的保障措施，但不得另设更弱的替代标准。
 >
@@ -71,7 +71,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[§1](#1-purpose-scope-and-owner-boundary)；[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties)；[第一章 §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)。
+- 上游：[§1](#1-purpose-scope-and-owner-boundary)；[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)；[第一章 §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)。
 - 下游：从[§3](#3-independence-conflict-and-control-lines)到[§9](#9-relationship-to-later-processes)；[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries)（*席位目录——流程角色原型与操作边界*）。
 - 一并阅读：关于唯一允许的合并承载路径，参见[§6](#6-proportional-scaling-and-merged-hosting)。
 

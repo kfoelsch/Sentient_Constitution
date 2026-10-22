@@ -28,14 +28,14 @@
 **Beşinci Bölüm vekil tanımları** (O/M/A/C karşılanması — esaslı biçimde ilgili olduğunda İkinci ila Dördüncü Bölümlerde izleyin):
 
 - [İyi Oluş](core_05_band_continuity.md#wellbeing) (Esenlik amacı)
-- [Gözetim](core_05_apex_oversight_leg.md#oversight), [Hesap Verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz Edilebilirlik](core_05_band_accountability.md#contestability), [Yönetişim](core_05_band_accountability.md#governance), [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#classification-scaled-governance)
-- [Maddi](core_05_band_oversight.md#material), [Maddi Etki](core_05_band_oversight.md#material-impact), [Maddi Risk](core_05_band_oversight.md#material-risk), [Maddilik](core_05_band_oversight.md#materiality) (bileşenlerde buna **Maddilik** adı verilir), [Sistemik Maddilik](core_05_band_continuity.md#systemic-materiality) — küme: [Maddilik, etki, risk ve vekil bütünlüğü](core_05_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
+- [Gözetim](core_05_apex_oversight_leg.md#oversight), [Hesap Verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz Edilebilirlik](core_05_band_accountability.md#contestability), [Yönetişim](core_05_band_accountability.md#governance), [Sınıflandırmaya Göre Ölçeklenen Yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim)
+- [Maddi](core_05_band_oversight.md#maddi), [Maddi Etki](core_05_band_oversight.md#maddi-impact), [Maddi Risk](core_05_band_oversight.md#maddi-risk), [Maddilik](core_05_band_oversight.md#materiality) (bileşenlerde buna **Maddilik** adı verilir), [Sistemik Maddilik](core_05_band_continuity.md#systemic-materiality) — küme: [Maddilik, etki, risk ve vekil bütünlüğü](core_05_band_oversight.md#maddilik-etki-risk-ve-vekil-bütünlüğü)
 
 **Beşinci Bölüm §3'e bağlı başlıca kümeler** (ortak devreye girme grupları — esaslı biçimde ilgili olduğunda İkinci ila Dördüncü Bölümlerle birlikte okuyun):
 
 - [Paydaş Statüsü ve Ağırlığı](core_05_band_participation.md#stakeholder-status-and-weight) (Paydaş Sistemi Katılımı katmanı)
-- [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#constitutional-contract-layer) ve [Yönetişim Mimarisi, Gözetim, Bağımlılık, Merkeziyetsizleşme, Yoğunlaşma, Piyasa Yapısı ve Çıkış Yolu Bütünlüğü](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
-- [Külliyat ve Yetki Hiyerarşisi](core_05_band_integrative.md#defi1-corpus-and-authority-stack)
+- [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#anayasal-sözleşme-katmanı) ve [Yönetişim Mimarisi, Gözetim, Bağımlılık, Merkeziyetsizleşme, Yoğunlaşma, Piyasa Yapısı ve Çıkış Yolu Bütünlüğü](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- [Külliyat ve Yetki Hiyerarşisi](core_05_band_integrative.md#defi1-corpus-ve-yetki-yığını)
 - [Hesap Verebilirlik, İtiraz Edilebilirlik ve Kolektif Hesap Verebilirlik Başarısızlığı](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3** (*işlemsel küme kütüphanesi (oDef)*) — uygulamalar arası ortak işlemsel terimler için küme pusulası; bu bölümün Dörtlüsü, Amaçları ve maddi çıkar ölçeklendirmesiyle birlikte okuyun:
@@ -51,7 +51,7 @@
 
 **Kısım B ne yapar?** [Kısım A](core_01_a_values_principles.md), [İki Anayasal Amacı](core_00_preamble.md#two-constitutional-aims) geliştirir. Kısım B yeni bir ilke veya beşinci bir yükümlülük eklemez. [Anayasal Dörtlü'yü](core_00_preamble.md#constitutional-tetrad)—[maddi çıkarın ağırlığına](core_00_preamble.md#material-stake) göre ölçeklenen **katılım**, **gözetim**, **hesap verebilirlik** ve **zamanlılığı**—üç durumda korur:
 
-- **İlkeler çatıştığında** ([§13 Anayasal Çatışma Çözüm Süreci](#13-constitutional-collision-resolution-process)): Güvenlik ve Hakikat önce gelir; diğer tüm ödünleşimler, kolay bir çözüme ulaşmak uğruna Dörtlü'yü zayıflatmak yerine korumalıdır.
+- **İlkeler çatıştığında** ([§13 Anayasal Çatışma Çözüm Süreci](#13-anayasal-çatışma-çözüm-süreci)): Güvenlik ve Hakikat önce gelir; diğer tüm ödünleşimler, kolay bir çözüme ulaşmak uğruna Dörtlü'yü zayıflatmak yerine korumalıdır.
 - **Bir değer aşırı ileri götürüldüğünde** ([§14 Mutlak Üstün Kılma Yasağı](#14-prohibition-on-absolute-override)): Hiçbir değer ve hiçbir amaç, maddi çıkarın gerektirdiği düzeyin altına bir bacağı boşaltmak için kullanılamaz.
 - **Anayasa okunurken veya uygulanırken** ([§15 Anayasal Yorum](#15-constitutional-interpretation)): Aynı eylemi yeniden adlandırmak, bölmek veya başka bir yola yönlendirmek bir gereklilikten kaçınamaz; belirsizlik [En Kapsayıcı Koruyucu Etki](core_05_band_integrative.md#fullest-protective-effect) lehine yorumlanır.
 
@@ -59,14 +59,14 @@
 
 | Dörtlü bacağı | Kısım B'nin işler halde tuttuğu | Kısım B'deki başlıca yerler |
 |---|---|---|
-| **Katılım** | İspat yükü hiçbir zaman kısıtlanan tarafa yüklenmez; temel itiraz, inceleme ve temyiz hakları kalıcı olarak ortadan kaldırılamaz; açıklama sınırları bilgilendirilmiş itiraz edilebilirliği korumalıdır; önlenebilir yük, eyleme geçme kapasitesini daraltır | [§13.1.1](#1311-necessity), [§13.1.4](#1314-constitutional-floors-safety-and-anti-degrading-process), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-epistemic-disclosure-constraints), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle), [§15.1.2](#1512-derived-information-principle) |
-| **Gözetim** | Zararın tamamı hesaba katılır; başkalarının yeniden kurup bağımsız biçimde inceleyebileceği kararlar; denetimi mümkün kılan açıklama sınırları; amacından saptığında saymayı bırakan ölçütler | [§13.1.2](#1312-harm-minimization), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-epistemic-disclosure-constraints), [§13.2.4](#1324-proxy-divergence-invalidation), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) |
-| **Hesap Verebilirlik** | Kısıtlamayı getiren taraf ispat yükünü taşır; yetki arttıkça hesap verme yükümlülüğü artar; süreç aşağılayıcı veya insan onurunu zedeleyici olamaz; her açıklama sınırı sonradan denetlenir | [§13.1.1](#1311-necessity), [§13.1.3](#1313-proportionality), [§13.1.4](#1314-constitutional-floors-safety-and-anti-degrading-process), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§15.1](#151-constitutional-no-bypass-principle), [§15.1.2](#1512-derived-information-principle) |
-| **Zamanlılık** | Kısıtlamalar süreyle sınırlı ve incelenebilir, ayrıca eski hâle döndürme yolu vardır; bekleyen Anayasal Çatışma geçerli saat üzerinden yürür; ertelenmiş açıklama sonunda yapılır; önlenebilir gecikme önlenebilir yüktür; acil daraltma süreyle sınırlıdır | [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) |
+| **Katılım** | İspat yükü hiçbir zaman kısıtlanan tarafa yüklenmez; temel itiraz, inceleme ve temyiz hakları kalıcı olarak ortadan kaldırılamaz; açıklama sınırları bilgilendirilmiş itiraz edilebilirliği korumalıdır; önlenebilir yük, eyleme geçme kapasitesini daraltır | [§13.1.1](#1311-gereklilik), [§13.1.4](#1314-anayasal-asgari-sınırlar-güvenlik-ve-aşağılayıcı-olmayan-süreç), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-bilgisel-açıklama-kısıtları), [§13.3](#133-önlenebilir-yükün-en-aza-indirilmesi), [§15.1](#151-constitutional-no-bypass-principle), [§15.1.2](#1512-türetilmiş-bilgi-ilkesi) |
+| **Gözetim** | Zararın tamamı hesaba katılır; başkalarının yeniden kurup bağımsız biçimde inceleyebileceği kararlar; denetimi mümkün kılan açıklama sınırları; amacından saptığında saymayı bırakan ölçütler | [§13.1.2](#1312-zararı-en-aza-indirme), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-bilgisel-açıklama-kısıtları), [§13.2.4](#1324-vekil-ölçüt-sapması-nedeniyle-geçersiz-kılma), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-birlikte-uygulanabilir-dâhil-edilmiş-yükümlülüklerin-birlikte-karşılanması) |
+| **Hesap Verebilirlik** | Kısıtlamayı getiren taraf ispat yükünü taşır; yetki arttıkça hesap verme yükümlülüğü artar; süreç aşağılayıcı veya insan onurunu zedeleyici olamaz; her açıklama sınırı sonradan denetlenir | [§13.1.1](#1311-gereklilik), [§13.1.3](#1313-orantılılık), [§13.1.4](#1314-anayasal-asgari-sınırlar-güvenlik-ve-aşağılayıcı-olmayan-süreç), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-bilgisel-bütünlüğün-korunması), [§15.1](#151-constitutional-no-bypass-principle), [§15.1.2](#1512-türetilmiş-bilgi-ilkesi) |
+| **Zamanlılık** | Kısıtlamalar süreyle sınırlı ve incelenebilir, ayrıca eski hâle döndürme yolu vardır; bekleyen Anayasal Çatışma geçerli saat üzerinden yürür; ertelenmiş açıklama sonunda yapılır; önlenebilir gecikme önlenebilir yüktür; acil daraltma süreyle sınırlıdır | [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-bilgisel-bütünlüğün-korunması), [§13.3](#133-önlenebilir-yükün-en-aza-indirilmesi), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-birlikte-uygulanabilir-dâhil-edilmiş-yükümlülüklerin-birlikte-karşılanması) |
 
-**Hiçbir bacakla doğrudan bağlantı kurmayan bölümler.** [§15.1.1 Bölümlere Ayırmayı Önleme İlkesi](#1511-anti-segmentation-principle) ve [§15.4.1](#1541-integrated-reading) ila [§15.4.3](#1543-incorporation-layer), metnin nasıl okunacağını ve hangi kaynak katmanının belirleyici olduğunu düzenler. Tasarım gereği bunların Trace bileşenlerinde Dörtlü bacağı bulunmaz.
+**Hiçbir bacakla doğrudan bağlantı kurmayan bölümler.** [§15.1.1 Bölümlere Ayırmayı Önleme İlkesi](#1511-bölümlere-ayırmayı-önleme-ilkesi) ve [§15.4.1](#1541-bütünleşik-okuma) ila [§15.4.3](#1543-dâhil-etme-katmanı), metnin nasıl okunacağını ve hangi kaynak katmanının belirleyici olduğunu düzenler. Tasarım gereği bunların Trace bileşenlerinde Dörtlü bacağı bulunmaz.
 
-**Zamanın iki anlamı.** Kısım B'de zaman iki anlamda kullanılır. Uzun zaman ufukları (ertelenmiş ve birikimli zarar; Sekizinci Bölüm §3.6'daki [Zaman Tutarlılığı Kısıtı](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint), [§13.1.2](#1312-harm-minimization)'de uygulandığında **Süreklilik** amacına aittir). Saatler, inceleme sıklıkları ve gecikme (kısıtlamaların süre sınırları, sonunda yapılacak açıklama, önlenebilir gecikme) **zamanlılık** bacağına aittir.
+**Zamanın iki anlamı.** Kısım B'de zaman iki anlamda kullanılır. Uzun zaman ufukları (ertelenmiş ve birikimli zarar; Sekizinci Bölüm §3.6'daki [Zaman Tutarlılığı Kısıtı](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint), [§13.1.2](#1312-zararı-en-aza-indirme)'de uygulandığında **Süreklilik** amacına aittir). Saatler, inceleme sıklıkları ve gecikme (kısıtlamaların süre sınırları, sonunda yapılacak açıklama, önlenebilir gecikme) **zamanlılık** bacağına aittir.
 
 **Çatışma olmayan iki eksen.** Kısım A'nın amaçları, ortak sistemlerin neyi hedeflediğini söyler. Kısım B ise yol boyunca hiçbir ödünleşimin, üstün kılmanın veya yorumun neleri ortadan kaldıramayacağını söyler.
 
@@ -80,9 +80,9 @@
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — usulde, açıklamada, Anayasal Çatışmaların ele alınmasında ve telafide katılım, gözetim, hesap verebilirlik ve zamanlılık; [maddi çıkarın ağırlığına](core_00_preamble.md#material-stake) göre ölçeklendirme.
-- Üst dayanaklar — İlkeler: [3. Temel Amaç: İyi Oluş](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4. Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5. Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [7. Özgürlük (Sınırlandırılmış Eyleyicilik)](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§16 Emanetçilik Derinlemesine](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
-- Alt dayanaklar: [13.2.1 Epistemik Bütünlüğün Korunması](#1321-preservation-of-epistemic-integrity), [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record), [varsayılan geçici tutum](#default-interim-posture) ve [14. Mutlak Üstün Kılma Yasağı](#14-prohibition-on-absolute-override).
-- [Altıncı Bölüm: Temel Haklar](core_06_rights_part_a.md#chapter-six-foundational-rights) boyunca maddeler arası çatışmaları düzenler.
+- Üst dayanaklar — İlkeler: [3. Temel Amaç: İyi Oluş](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4. Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5. Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [7. Özgürlük (Sınırlandırılmış Eyleyicilik)](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [§16 Emanetçilik Derinlemesine](core_01_c_stewardship_capacity_principles.md#16-emanetçiliğe-yakından-bakış).
+- Alt dayanaklar: [13.2.1 Epistemik Bütünlüğün Korunması](#1321-bilgisel-bütünlüğün-korunması), [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record), [varsayılan geçici tutum](#default-interim-posture) ve [14. Mutlak Üstün Kılma Yasağı](#14-prohibition-on-absolute-override).
+- [Altıncı Bölüm: Temel Haklar](core_06_rights_part_a.md#altinci-bölüm-temel-haklar) boyunca maddeler arası çatışmaları düzenler.
   - Bunu [Madde XXIV: Anayasal Yorum, İnceleme ve Ele Geçirmeyi Önleyici Güvenceler](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) ve [Madde XX: Doğrulanmış İhlal Sonrası Adalet](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) ile birlikte okuyun.
   - İnceleme, acil durum veya Anayasal Çatışma soruları ortaya çıktığında uygulayın.
 
@@ -157,15 +157,15 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — ödünleşim dizisinin tüm aşamalarında dört unsur da işler: **hesap verebilirlik** ve **katılım** ([§13.1.1](#1311-necessity), yükü kimin taşıdığı), **gözetim** ([§13.1.2](#1312-harm-minimization) ve [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), zararın eksiksiz hesaba katılması ve başkalarının inceleyebileceği Anayasal Çatışma Kaydı) ve **zamanındalık** (§13.1.5, süreyle sınırlı ve gözden geçirilebilir kısıtlamalar); ispat yükü ve incelemenin derinliği [maddi menfaatin](core_00_preamble.md#material-stake) önemine göre ölçeklendirilir. Her alt bölümün İzi, ele aldığı unsurları belirtir.
-- Alt bölümler: [§13.1.1 Gereklilik](#1311-necessity) · [§13.1.2 Zararı En Aza İndirme](#1312-harm-minimization) · [§13.1.3 Orantılılık](#1313-proportionality) · [§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-constitutional-floors-safety-and-anti-degrading-process) · [§13.1.5 En Az Kısıtlayıcı, Süreyle Sınırlı ve Gözden Geçirilebilir Kısıtlama İlkesi](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+- Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — ödünleşim dizisinin tüm aşamalarında dört unsur da işler: **hesap verebilirlik** ve **katılım** ([§13.1.1](#1311-gereklilik), yükü kimin taşıdığı), **gözetim** ([§13.1.2](#1312-zararı-en-aza-indirme) ve [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), zararın eksiksiz hesaba katılması ve başkalarının inceleyebileceği Anayasal Çatışma Kaydı) ve **zamanındalık** (§13.1.5, süreyle sınırlı ve gözden geçirilebilir kısıtlamalar); ispat yükü ve incelemenin derinliği [maddi menfaatin](core_00_preamble.md#material-stake) önemine göre ölçeklendirilir. Her alt bölümün İzi, ele aldığı unsurları belirtir.
+- Alt bölümler: [§13.1.1 Gereklilik](#1311-gereklilik) · [§13.1.2 Zararı En Aza İndirme](#1312-zararı-en-aza-indirme) · [§13.1.3 Orantılılık](#1313-orantılılık) · [§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-anayasal-asgari-sınırlar-güvenlik-ve-aşağılayıcı-olmayan-süreç) · [§13.1.5 En Az Kısıtlayıcı, Süreyle Sınırlı ve Gözden Geçirilebilir Kısıtlama İlkesi](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-*Kapsam.* [§13.1 Temel Ödünleşim İlkeleri](#131-core-tradeoff-principles) — ödünleşim dizisinde gereklilik, zararı en aza indirme ve zarar tanımları.
+*Kapsam.* [§13.1 Temel Ödünleşim İlkeleri](#131-temel-ödünleşim-ilkeleri) — ödünleşim dizisinde gereklilik, zararı en aza indirme ve zarar tanımları.
 
 - [Gereklilik](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Zararı En Aza İndirme (Ödünleşim Seçimi)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
@@ -178,13 +178,13 @@ flowchart TB
 *Basitçe: Bir şeyi kısıtlamanız gerektiğinde, çözümü soruna göre belirleyin — işe yarayan en hafif adımı kullanın, en az zarar veren seçeneği seçin ve Güvenlik, Hakikat ve haklar zaten sağlandıktan sonra sentient varlıkların en az zamanını boşa harcayın. Zarar geri döndürülemez olabilecek veya sistemleri kilitleyebilecek nitelikteyse eşik hızla yükselir.*
 
 **Diziyi okuma biçimi:** Bu kuralları birbirinden bağımsız izinler olarak değil, tek bir sıra halinde uygulayın.
-- **[§13.1.1 Gereklilik](#1311-necessity)** bir kısıtlamanın gerçekten gerekli olup olmadığını ya da daha az kısıtlayıcı bir alternatifin önemli zararı veya sistemik riski yine de önleyip önleyemeyeceğini sorar. İspat yükünü kısıtlamayı getiren taraf taşır.
-- **[§13.1.2 Zararı En Aza İndirme](#1312-harm-minimization)** sentient varlıklar, sistemler ve zaman ufukları genelinde anayasal olarak yeterli seçenekler arasından en az zararlı olanı gerektirir.
-- **[§13.1.3 Orantılılık](#1313-proportionality)** seçilen kısıtlamanın ölçeğinin, ele alınan zararın büyüklüğüne, olasılığına ve sistemik niteliğine uygun olduğunu doğrular.
-- **[§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-constitutional-floors-safety-and-anti-degrading-process)** gerekli, zararı en aza indiren ve doğru orantılı bir kısıtlama altında dahi geçerliliğini koruyan mutlak sınırları belirler: Haklar Tabanı'nın bazı asgari düzeyleri kalıcı olarak ortadan kaldırılamaz, Güvenlik hem gerekçe hem kısıtlama işlevi görür ve süreç asla aşağılamaya, gösteriye veya misillemeye dönüşmemelidir. Haklar Tabanı'nın asgari düzeyleri ile aşağılayıcı olmayan süreç tabanı birlikte [Onur İlkeleri](#dignity-principles)ni oluşturur.
+- **[§13.1.1 Gereklilik](#1311-gereklilik)** bir kısıtlamanın gerçekten gerekli olup olmadığını ya da daha az kısıtlayıcı bir alternatifin önemli zararı veya sistemik riski yine de önleyip önleyemeyeceğini sorar. İspat yükünü kısıtlamayı getiren taraf taşır.
+- **[§13.1.2 Zararı En Aza İndirme](#1312-zararı-en-aza-indirme)** sentient varlıklar, sistemler ve zaman ufukları genelinde anayasal olarak yeterli seçenekler arasından en az zararlı olanı gerektirir.
+- **[§13.1.3 Orantılılık](#1313-orantılılık)** seçilen kısıtlamanın ölçeğinin, ele alınan zararın büyüklüğüne, olasılığına ve sistemik niteliğine uygun olduğunu doğrular.
+- **[§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-anayasal-asgari-sınırlar-güvenlik-ve-aşağılayıcı-olmayan-süreç)** gerekli, zararı en aza indiren ve doğru orantılı bir kısıtlama altında dahi geçerliliğini koruyan mutlak sınırları belirler: Haklar Tabanı'nın bazı asgari düzeyleri kalıcı olarak ortadan kaldırılamaz, Güvenlik hem gerekçe hem kısıtlama işlevi görür ve süreç asla aşağılamaya, gösteriye veya misillemeye dönüşmemelidir. Haklar Tabanı'nın asgari düzeyleri ile aşağılayıcı olmayan süreç tabanı birlikte [Onur İlkeleri](#onur-ilkeleri)ni oluşturur.
 - **[§13.1.5 En Az Kısıtlayıcı, Süreyle Sınırlı ve Gözden Geçirilebilir Kısıtlama İlkesi](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)** önceki sınamaları geçen her kısıtlamanın biçimini düzenler: etkili önlemler arasındaki en hafif önlem kullanılmalı, bağımsız incelemeye açık kalmalı ve bu Anayasa kalıcı kısıtlamaya açıkça izin vermedikçe geçici olmalıdır.
 
-Ödünleşim dizisi karşılandıktan sonra **[§13.3 Kaçınılabilir Yükü En Aza İndirme](#133-minimization-of-avoidable-burden)** ortaya çıkan tasarıma uygulanır: sistemler sentient varlıkların en az zamanını, dikkatini ve çabasını boşa harcayan seçeneği tercih etmelidir.
+Ödünleşim dizisi karşılandıktan sonra **[§13.3 Kaçınılabilir Yükü En Aza İndirme](#133-önlenebilir-yükün-en-aza-indirilmesi)** ortaya çıkan tasarıma uygulanır: sistemler sentient varlıkların en az zamanını, dikkatini ve çabasını boşa harcayan seçeneği tercih etmelidir.
 
 **Şema: ödünleşim dizisi ve her adımın ele aldığı Dörtlü unsurları**
 
@@ -278,9 +278,9 @@ Belgelenmiş bir analiz olmadan alternatif bulunmadığını ileri sürmek bu ş
 
 <br>
 
-*Basitçe ifade etmek gerekirse: [§13.1.1 Gereklilik](#1311-necessity) karşılandıktan sonra birden fazla gerekli seçenek kalıyorsa, etkilenen herkes, ekosistemler ve canlı sistemler, dokunulan tüm sistemler ve önemli tüm zaman ufukları hesaba katılarak toplamda en az zarara yol açan seçeneği belirleyin. Sistemik veya ekolojik zarar yaratırken yerel düzeyde iyileştirme yapmak ya da uzun vadeli zarar yaratırken kısa vadede iyileştirme yapmak bu testi geçemez. Zararı en aza indirme, [§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-constitutional-floors-safety-and-anti-degrading-process) kapsamındaki anayasal tabanların altına inmeye hiçbir zaman izin vermez.*
+*Basitçe ifade etmek gerekirse: [§13.1.1 Gereklilik](#1311-gereklilik) karşılandıktan sonra birden fazla gerekli seçenek kalıyorsa, etkilenen herkes, ekosistemler ve canlı sistemler, dokunulan tüm sistemler ve önemli tüm zaman ufukları hesaba katılarak toplamda en az zarara yol açan seçeneği belirleyin. Sistemik veya ekolojik zarar yaratırken yerel düzeyde iyileştirme yapmak ya da uzun vadeli zarar yaratırken kısa vadede iyileştirme yapmak bu testi geçemez. Zararı en aza indirme, [§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-anayasal-asgari-sınırlar-güvenlik-ve-aşağılayıcı-olmayan-süreç) kapsamındaki anayasal tabanların altına inmeye hiçbir zaman izin vermez.*
 
-**Karşılaştırmanın kapsamı.** Anayasal olarak yeterli birden fazla seçenek [Güvenlik (§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [Hakikat (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ve [§13.1.1 Gereklilik](#1311-necessity) koşullarını karşılıyorsa, seçim aşağıdakiler bakımından toplam [Zararı](core_05_band_accountability.md#harm) en aza indiren seçeneği tercih etmelidir:
+**Karşılaştırmanın kapsamı.** Anayasal olarak yeterli birden fazla seçenek [Güvenlik (§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [Hakikat (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ve [§13.1.1 Gereklilik](#1311-gereklilik) koşullarını karşılıyorsa, seçim aşağıdakiler bakımından toplam [Zararı](core_05_band_accountability.md#harm) en aza indiren seçeneği tercih etmelidir:
 - doğrudan ve dolaylı olarak etkilenen duyarlı varlıklar;
 - sonucu taşıyan, ona aracılık eden veya sonuca bağlı olan sistemler;
 - [Ekolojik Bütünlük](core_05_band_continuity.md#ecological-integrity) dâhil ekolojik ve canlı sistemler ve zarardan sonra iyileşmenin önemli olduğu durumlarda [Ekolojik İyileşme Kapasitesi](core_05_band_continuity.md#ecological-recovery-capacity);
@@ -300,9 +300,9 @@ Aşağıdakiler uyumlu değildir:
 
 **Zaman ufku disiplini.** Uzun vadeli sistemik maliyet pahasına kısa vadeli iyileştirme bu testi geçemez. Zararı en aza indirme, [Sekizinci Bölüm §3.2 Zaman Tutarlılığı Kısıtını](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) dikkate almalıdır: mevcut dönemde zararı en aza indiriyor gibi görünen, ancak ilgili anayasal zaman ufku boyunca öngörülebilir biçimde daha fazla zarar yaratan bir karar uyumlu değildir.
 
-**Anayasal tabanlarla ilişki.** Zararı en aza indirme, [§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-constitutional-floors-safety-and-anti-degrading-process) içinde belirtilen anayasal tabanların *üzerinde* işler. Şunlara hiçbir zaman izin vermez:
+**Anayasal tabanlarla ilişki.** Zararı en aza indirme, [§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-anayasal-asgari-sınırlar-güvenlik-ve-aşağılayıcı-olmayan-süreç) içinde belirtilen anayasal tabanların *üzerinde* işler. Şunlara hiçbir zaman izin vermez:
 - Haklar Tabanı asgari güvencelerinin kalıcı olarak ortadan kaldırılmasına;
-- aşağılayıcı süreçlere — aşağılama, gösteri, misilleme, ayrımcı yük bindirme veya kolaylık uğruna hakları aşındırma amacıyla tasarlanan, çerçevelenen ya da yürütülen bir kısıtlama, giderim veya süreç ([§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-constitutional-floors-safety-and-anti-degrading-process));
+- aşağılayıcı süreçlere — aşağılama, gösteri, misilleme, ayrımcı yük bindirme veya kolaylık uğruna hakları aşındırma amacıyla tasarlanan, çerçevelenen ya da yürütülen bir kısıtlama, giderim veya süreç ([§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-anayasal-asgari-sınırlar-güvenlik-ve-aşağılayıcı-olmayan-süreç));
 - Güvenlik tabanının altına inmeye.
 
 Zararı en aza indirme, bu tabanları zaten karşılayan seçenekler arasından seçim yapar — onların altına inmeyi bir ödünleşim konusu yapmaz.
@@ -313,7 +313,7 @@ Zararı en aza indirme, bu tabanları zaten karşılayan seçenekler arasından 
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **hesap verebilirlik** ve **gözetim** ayakları (yetkiyle orantılı hesap verebilirlik: yetkilendirilmiş güç veya sonuç doğuran rol arttıkça yoğunluk artar, asla azalmaz); [maddi çıkarın](core_00_preamble.md#material-stake) ölçeklendirilmesi (sınıflandırma tabanı ve yükseltilmiş eşikler).
-- Şununla birlikte okuyun: [§18.1 Yetkilendirilmiş Yapı Olarak Yönetişim](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure).
+- Şununla birlikte okuyun: [§18.1 Yetkilendirilmiş Yapı Olarak Yönetişim](core_01_c_stewardship_capacity_principles.md#181-yetkilendirilmiş-yapı-olarak-yönetişim).
 
 </details>
 
@@ -337,7 +337,7 @@ Zararı en aza indirme, bu tabanları zaten karşılayan seçenekler arasından 
 
 *Basitçe: orantılılık, bir kısıtlamanın ölçeğinin, ele aldığı zararın ölçeğine uyup uymadığını doğrular. Gerekli olan ve zararı en aza indiren bir seçenek bile, kapsamı, süresi veya yoğunluğu gerçekte söz konusu olanlarla orantısızsa başarısız olur. Risk ne kadar geri döndürülemez, sistemik veya bağımlılık yaratıcıysa gerekçe ve inceleme de o kadar güçlü olmalıdır. Aynı yetersiz yönetişim kuralı güç için de geçerlidir: yetkilendirilmiş güç veya sonuç doğuran rol arttıkça hesap verebilirlik ve gözetim artmalı, azalmamalıdır.*
 
-Anayasal **değerler** üzerindeki sınırlamalar — **Altıncı Bölüm** Haklar Tabanı korumaları ve [§13 Anayasal Çatışma Çözüm Süreci](#13-constitutional-collision-resolution-process) uyarınca ödünleşime tabi diğer ilke ve korumalar dâhil — meşru biçimde ele alınan **zararın** veya **sistemik etkinin** büyüklüğü ve olasılığıyla orantılı olmalı ve **Beşinci Bölüm**deki [Orantılılık](core_05_band_accountability.md#proportionality) ile tutarlı olmalıdır.
+Anayasal **değerler** üzerindeki sınırlamalar — **Altıncı Bölüm** Haklar Tabanı korumaları ve [§13 Anayasal Çatışma Çözüm Süreci](#13-anayasal-çatışma-çözüm-süreci) uyarınca ödünleşime tabi diğer ilke ve korumalar dâhil — meşru biçimde ele alınan **zararın** veya **sistemik etkinin** büyüklüğü ve olasılığıyla orantılı olmalı ve **Beşinci Bölüm**deki [Orantılılık](core_05_band_accountability.md#proportionality) ile tutarlı olmalıdır.
 
 **Sınıflandırma tabanı.** Hiçbir sistem, uygulanabilir en yüksek sınıflandırmasının gerektirdiği düzeyin altında yönetilemez. Daha düşük bir idari etiket, uygulanabilir en yüksek risk, bağımlılık, haklar veya sistem etkisi sınıflandırmasının gerektirdiği incelemeyi azaltamaz.
 
@@ -357,7 +357,7 @@ Anayasal **değerler** üzerindeki sınırlamalar — **Altıncı Bölüm** Hakl
 <details>
 <summary><strong><span style="color: #2563eb;">İzleme</span></strong></summary>
 
-- Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (temel itiraz, inceleme ve temyiz hakları, kalıcı olarak ortadan kaldırılamayacak asgari güvenceler arasındadır); **hesap verebilirlik** ayağı (dengelemeler dizisini aşan bir süreç yine de aşağılayamaz, küçük düşüremez veya misilleme yapamaz; bkz. [§3.3 Aşağılayıcı Olmayan Süreç](core_01_a_values_principles.md#33-anti-degrading-process)); artırılmış incelemenin uygulandığı yerlerde [maddi menfaat](core_00_preamble.md#material-stake) ölçeği.
+- Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (temel itiraz, inceleme ve temyiz hakları, kalıcı olarak ortadan kaldırılamayacak asgari güvenceler arasındadır); **hesap verebilirlik** ayağı (dengelemeler dizisini aşan bir süreç yine de aşağılayamaz, küçük düşüremez veya misilleme yapamaz; bkz. [§3.3 Aşağılayıcı Olmayan Süreç](core_01_a_values_principles.md#33-aşağılayıcı-olmayan-süreç)); artırılmış incelemenin uygulandığı yerlerde [maddi menfaat](core_00_preamble.md#material-stake) ölçeği.
 
 </details>
 
@@ -386,7 +386,7 @@ Anayasal **değerler** üzerindeki sınırlamalar — **Altıncı Bölüm** Hakl
 
 ###### Onur İlkeleri
 
-**Onur İlkeleri** şunlardır: [Haklar Tabanı Asgari Güvenceler İlkesi](#rights-floor-minimums-principle) ve [Aşağılayıcı Olmayan Süreç İlkesi](#anti-degrading-process-principle). Bu iki ilke birlikte [Onur ve Eşit Ahlaki Statü](core_05_band_participation.md#dignity-and-equal-moral-standing) kavramını mutlak asgari sınırlar olarak işler hâle getirir: hiçbir duyarlı varlıktan kalıcı olarak alınamayacak olanları ve hiçbir süreçte hiçbir duyarlı varlığa nasıl davranılamayacağını belirler. Asgari geçim kaynaklarına erişim ile temel itiraz, inceleme ve temyiz hakları, statüsü dikkate alınması gereken biri olarak muamele görmenin asgari koşulları oldukları için Onur İlkelerine dahildir. Eşit statünün kendisi ve hangi gerekçelerle reddedilemeyeceği [Madde VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Onur ve Eşit Ahlaki Statü*) içinde belirtilmiştir.
+**Onur İlkeleri** şunlardır: [Haklar Tabanı Asgari Güvenceler İlkesi](#haklar-tabanı-asgari-güvenceler-ilkesi) ve [Aşağılayıcı Olmayan Süreç İlkesi](#aşağılayıcı-olmayan-süreç-ilkesi). Bu iki ilke birlikte [Onur ve Eşit Ahlaki Statü](core_05_band_participation.md#dignity-and-equal-moral-standing) kavramını mutlak asgari sınırlar olarak işler hâle getirir: hiçbir duyarlı varlıktan kalıcı olarak alınamayacak olanları ve hiçbir süreçte hiçbir duyarlı varlığa nasıl davranılamayacağını belirler. Asgari geçim kaynaklarına erişim ile temel itiraz, inceleme ve temyiz hakları, statüsü dikkate alınması gereken biri olarak muamele görmenin asgari koşulları oldukları için Onur İlkelerine dahildir. Eşit statünün kendisi ve hangi gerekçelerle reddedilemeyeceği [Madde VI-A](core_06_rights_part_b.md#madde-vi-a-onur-ve-eşit-ahlaki-statü) (*Onur ve Eşit Ahlaki Statü*) içinde belirtilmiştir.
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -394,14 +394,14 @@ Anayasal **değerler** üzerindeki sınırlamalar — **Altıncı Bölüm** Hakl
 
 Bu ilke, Haklar Tabanı'nı şöyle korur:
 
-- Hiçbir anayasal süreç, önlem, geçiş, değişiklik, statü sonucu, acil durum eylemi veya adaletle ilgili sonuç; [Madde VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Onur ve Eşit Ahlaki Statü*) ile [Aşağılayıcı Olmayan Süreç İlkesi](#anti-degrading-process-principle) kapsamındaki temel onur korumalarının, asgari geçim kaynaklarına erişimin veya temel itiraz, inceleme ve temyiz haklarının **Haklar Tabanı asgari güvencelerini** kalıcı olarak ortadan kaldıramaz ya da bunlardan feragat edemez.
+- Hiçbir anayasal süreç, önlem, geçiş, değişiklik, statü sonucu, acil durum eylemi veya adaletle ilgili sonuç; [Madde VI-A](core_06_rights_part_b.md#madde-vi-a-onur-ve-eşit-ahlaki-statü) (*Onur ve Eşit Ahlaki Statü*) ile [Aşağılayıcı Olmayan Süreç İlkesi](#aşağılayıcı-olmayan-süreç-ilkesi) kapsamındaki temel onur korumalarının, asgari geçim kaynaklarına erişimin veya temel itiraz, inceleme ve temyiz haklarının **Haklar Tabanı asgari güvencelerini** kalıcı olarak ortadan kaldıramaz ya da bunlardan feragat edemez.
 - Belirli hakların geçici olarak kısıtlanmasına ancak [En Az Kısıtlayıcı, Süre Sınırı Belirlenmiş ve İncelenebilir Kısıt İlkesi](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) ile [On İkinci Bölüm §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden) içindeki acil durum kurallarına (*Acil durum önlemleri ve devam ettirme yükü*) uyulması hâlinde izin verilir — yani her kısıtlama gerekçelendirilmeli, asgari düzeyde tutulmalı, belgelenmeli, süreyle sınırlandırılmalı ve bağımsız incelemeye açık olmalıdır. Belirli maddeler daha güçlü güvenceler ekleyebilir; ancak bu ilkeyi daraltamaz veya kolaylık, verimlilik, sınıflandırma, acil durum, geçiş, statü, değişiklik, sözleşme ya da uygulama etiketlerini bu ilkeyi aşmak için kullanamaz.
 
 <a id="anti-degrading-process-principle"></a>
 
 ###### Aşağılayıcı Olmayan Süreç İlkesi
 
-Bölüm A'da belirtilen [Aşağılayıcı Olmayan Süreç İlkesi (§3.3)](core_01_a_values_principles.md#33-anti-degrading-process), bu dengeleme dizisinde mutlak bir asgari sınır olarak işler.
+Bölüm A'da belirtilen [Aşağılayıcı Olmayan Süreç İlkesi (§3.3)](core_01_a_values_principles.md#33-aşağılayıcı-olmayan-süreç), bu dengeleme dizisinde mutlak bir asgari sınır olarak işler.
 - Gereklilik, zararı azaltma ve orantılılık aşamalarını geçen hiçbir kısıtlama, giderim veya süreç; aşağılayıcı, küçük düşürücü, teşhir edici, misillemeci, ayrımcı yük getiren ya da kolaylık uğruna hakları aşındıran biçimde tasarlanamaz, çerçevelenemez, yürütülemez veya bu şekilde işlemesine izin verilemez.
 - Esas bakımından doğru bir sonuç, aşağılayıcı bir süreçle sunulursa yine de uygun değildir.
 - Yasaklanan nitelik, acının kendi başına amaç olması veya nedensiz ya da aşağılayıcı biçimde acı verilmesi ise — sırf küçük düşürme amacıyla yapılanlar dahil — [Zulüm](core_05_band_accountability.md#cruelty) kavramına başvurun.
@@ -427,7 +427,7 @@ Bölüm A'da belirtilen [Aşağılayıcı Olmayan Süreç İlkesi (§3.3)](core_
 
 *Sade ifadeyle: bir kısıtlamanın gerekçesi ortaya konduktan sonra biçimi de doğru belirlenmelidir. Etkili olan en hafif önlemi kullanın, gerçek bir süre veya inceleme sıklığı belirleyin, itiraz olanağını ve bağımsız incelemeyi koruyun, kısıtlamanın nasıl sona ereceğini veya nasıl geri alınacağını tanımlayın. Kolaylık, ağırlık ya da idari yeniden adlandırma, geçici bir hak sınırlamasını kalıcı bir dolanma yoluna çeviremez.*
 
-Bu alt bölüm, [§13.1.4 Anayasal Asgari Sınırlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-constitutional-floors-safety-and-anti-degrading-process) içindeki orantılılık, gereklilik, zararı azaltma ve anayasal asgari sınırlar uygulandıktan sonra anayasal kısıtlamaların biçimini düzenler. Bu testlerin eşiğini düşürmez.
+Bu alt bölüm, [§13.1.4 Anayasal Asgari Sınırlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-anayasal-asgari-sınırlar-güvenlik-ve-aşağılayıcı-olmayan-süreç) içindeki orantılılık, gereklilik, zararı azaltma ve anayasal asgari sınırlar uygulandıktan sonra anayasal kısıtlamaların biçimini düzenler. Bu testlerin eşiğini düşürmez.
 
 Anayasal kısıtlamalar aşağıdakilerin tümünü karşılamalıdır:
 - **Gerekçeli ve asgari:** kısıtlama, ele alınan anayasal zararla veya sistemik etkiyle gerekçelendirilmeli ve bu gerekçenin desteklediği sınırı aşmamalıdır.
@@ -438,7 +438,7 @@ Anayasal kısıtlamalar aşağıdakilerin tümünü karşılamalıdır:
 <a id="1315-rights-collision-decision-test"></a>
 **Anayasal Çatışma Kaydı ve yeniden oluşturulabilirlik.** Ödünleşim çerçevesi (§13.1.1 (*Gereklilik*) ile §13.1.5 (*En Az Kısıtlayıcı, Süre Sınırlı ve Gözden Geçirilebilir Kısıtlama İlkesi*) arasında) maddi bir kısıtlamaya veya Anayasal Çatışmaya uygulandığında, çözüm; etkilenen tarafların ve inceleyicilerin kararı anlamasına, itiraz etmesine ve bağımsız biçimde yeniden oluşturmasına yetecek açıklıkta, belgelenmiş ve denetlenebilir bir [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record) (kısaca **Çatışma Kaydı**) üretmelidir. Kayıt asgari olarak şunları içermelidir:
 - **Yürürlükteki kural ve tetikleyici olgular:** Dayanılan anayasal hüküm ve bu hükmü devreye sokan maddi olgular.
-- **Değerlendirilen alternatifler:** Eylemsizlik de dâhil olmak üzere maddi açıdan uygulanabilir alternatifler ve reddedilmelerinin açık gerekçeleri — [§13.1.1 Gereklilik](#1311-necessity) bölümündeki alternatif analizi şartını karşılayacak şekilde.
+- **Değerlendirilen alternatifler:** Eylemsizlik de dâhil olmak üzere maddi açıdan uygulanabilir alternatifler ve reddedilmelerinin açık gerekçeleri — [§13.1.1 Gereklilik](#1311-gereklilik) bölümündeki alternatif analizi şartını karşılayacak şekilde.
 - **Kanıt ve belirsizliğin ele alınışı:** Seçilen seçeneğin gerekliliğini, zarar profilini ve orantılılığını destekleyen kanıtlar; belirsizliğin nasıl ele alındığı da buna dâhildir.
 - **Seçim dayanağı:** Seçilen seçeneğin gereklilik, zararı en aza indirme, orantılılık, anayasal asgari güvenceler ve en az kısıtlayıcı biçim şartlarını neden karşıladığı — yalnızca karşıladığını belirtmek yeterli değildir.
 - **İnceleme tetikleyicileri:** [§13.1.5 En Az Kısıtlayıcı, Süre Sınırlı ve Gözden Geçirilebilir Kısıtlama İlkesi](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) uyarınca sona erme tarihi, yeniden değerlendirme sıklığı veya geri alma koşulları.
@@ -447,36 +447,36 @@ Anayasal kısıtlamalar aşağıdakilerin tümünü karşılamalıdır:
 
 İspat yükü; beklenen zararın ciddiyeti, geri döndürülemezlik, bağımlılık yoğunlaşması ve belirsizlik arttıkça ağırlaşır. Daha yüksek riskli kısıtlamalar daha güçlü kanıt ve bağımsız inceleme gerektirir. Bu disiplinin uygulandığı durumlarda kolaylık, kurumsal atalet veya optimizasyon tercihi tek başına hakları kısıtlamak için yeterli gerekçe değildir.
 
-Çatışma Kaydı üzerindeki gizlilik sınırlamaları [§13.2 Epistemik Açıklama Kısıtlamaları](#132-epistemic-disclosure-constraints) şartlarını karşılamalıdır. Tam kamusal açıklamanın mümkün olmadığı durumlarda, mümkün olan en geniş kısmi açıklama ile bağımsız inceleyicinin erişimi sürdürülmelidir.
+Çatışma Kaydı üzerindeki gizlilik sınırlamaları [§13.2 Epistemik Açıklama Kısıtlamaları](#132-bilgisel-açıklama-kısıtları) şartlarını karşılamalıdır. Tam kamusal açıklamanın mümkün olmadığı durumlarda, mümkün olan en geniş kısmi açıklama ile bağımsız inceleyicinin erişimi sürdürülmelidir.
 
 <a id="default-interim-posture"></a>
 **Anayasal Çatışma beklemedeyken varsayılan geçici tutum.** [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record) süreci ve [XXIV. Madde](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Anayasal Yorum, İnceleme ve Ele Geçirmeyi Önleme Güvenceleri*) Anayasal Çatışmayı çözüme kavuşturana kadar, bir emanetçinin doğaçlama yaparak kazanan yaratmasını önlemek için bekleme düzeni sabittir:
 
 - **Kanıtları koruyun:** Anayasal Çatışmayı silme, sızıntı veya geri döndürülemez yayımla hükümsüz bırakmayın.
 - **Geri döndürülemez adımları dondurun:** Çatışan yorumlardan birini kullanılamaz hâle getirecek adımlar atılmamalıdır — Anayasal Çatışmayı kapatacak, taraflardan birini hükümsüz bırakacak veya yorum karara bağlanmadan kazanan yaratacak geri döndürülemez bir adım atmayın.
-- **Geri alınabilir ve rıza gösterilmiş adımlara devam edin:** Her iki yorumu da kullanılabilir durumda tutan adımları sürdürün — rıza varsa, [güvenlik kısıtlı gözlemlenebilirlik](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) kapsamında bağımsız inceleyici erişimi de buna dâhildir.
+- **Geri alınabilir ve rıza gösterilmiş adımlara devam edin:** Her iki yorumu da kullanılabilir durumda tutan adımları sürdürün — rıza varsa, [güvenlik kısıtlı gözlemlenebilirlik](core_04_burden_traceability_verification.md#4-güvenlik-kısıtlı-gözlemlenebilirlik-ve-doğrulama-kuralı) kapsamında bağımsız inceleyici erişimi de buna dâhildir.
 - **Bildirimde bulunun:** Etkilenen taraflara ve yorum yoluna nelerin dondurulduğunu, nelerin sürdüğünü ve geçerli süreyi bildirin (bir foruma yönlendirilen uyuşmazlıkta, [On İkinci Bölüm §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Zamanında çözüm, önemlilik kademeleri ve gecikme karşıtı disiplin*) kapsamındaki kademe süreleri ve nihai sınırlar uygulanır).
 
-Bu bekleme düzeni hangi tarafın haklı olduğuna ilişkin bir karar değildir. Her iki yorumun da dışlanmaması için geri döndürülemez olanı dondurun; [§13 Anayasal Çatışma Çözüm Süreci](#13-constitutional-collision-resolution-process) Anayasal Çatışmayı yine de yanıtlamalıdır. Gerekçe [§13.1.5 En Az Kısıtlayıcı, Süre Sınırlı ve Gözden Geçirilebilir Kısıtlama İlkesi](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) içindedir: rıza gösterilmiş ve geri alınabilir bir adım her iki yorumu da kullanılabilir tutar; geri döndürülemez bir adım ise tutmaz.
+Bu bekleme düzeni hangi tarafın haklı olduğuna ilişkin bir karar değildir. Her iki yorumun da dışlanmaması için geri döndürülemez olanı dondurun; [§13 Anayasal Çatışma Çözüm Süreci](#13-anayasal-çatışma-çözüm-süreci) Anayasal Çatışmayı yine de yanıtlamalıdır. Gerekçe [§13.1.5 En Az Kısıtlayıcı, Süre Sınırlı ve Gözden Geçirilebilir Kısıtlama İlkesi](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) içindedir: rıza gösterilmiş ve geri alınabilir bir adım her iki yorumu da kullanılabilir tutar; geri döndürülemez bir adım ise tutmaz.
 
-Ödünleşim çerçevesi yerine getirildikten sonra, ortaya çıkan tasarıma [§13.3 Önlenebilir Yükün En Aza İndirilmesi](#133-minimization-of-avoidable-burden) uygulanır.
+Ödünleşim çerçevesi yerine getirildikten sonra, ortaya çıkan tasarıma [§13.3 Önlenebilir Yükün En Aza İndirilmesi](#133-önlenebilir-yükün-en-aza-indirilmesi) uygulanır.
 <a id="132-epistemic-disclosure-constraints"></a>
 #### 13.2 Bilgisel Açıklama Kısıtları
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (kısıtlar altında bilinçli itiraz edilebilirlik); **gözetim** ayağı (açıklama kısıtları, mümkün olan azami denetimi korumalıdır); **hesap verebilirlik** ayağı (her kısıt, [§13.2.1](#1321-preservation-of-epistemic-integrity) uyarınca geriye dönük denetim ve inceleme gerektirir; böylece bir sorumlu bulunur); **zamanlılık** ayağı (sınırlı veya ertelenmiş açıklama zamanla sınırlıdır ve §13.2.1 uyarınca nihayetinde açıklamayla sonuçlanır); [maddi önem](core_00_preamble.md#material-stake) ölçeklendirmesi.
-- Üst akış: İlkeler: [4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [§13 Anayasal Çatışma Çözüm Süreci](#13-constitutional-collision-resolution-process).
-- Alt akış: [§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-preservation-of-epistemic-integrity), [§13.2.2 Güven-Hakikat Uyumu](#1322-trust-truth-alignment), [§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-privacy-and-informational-self-determination) ve [14. Mutlak Üstünlüğün Yasaklanması](#14-prohibition-on-absolute-override).
-- Alt akış: Açıklamanın kısıtlandığı durumlarda bilgi alanının bütünlüğü, denetlenebilirlik, geriye dönük inceleme ve bilinçli itiraz edilebilirlikle ilgili haklar alanını korur; özellikle [Madde XV: Bilgi Alanının Bütünlüğü](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Madde XVI: Denetim, Şeffaflık ve Bağımsız Doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Madde XXIV: Anayasal Yorum, İnceleme ve Ele Geçirmeyi Önleme Güvenceleri](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) ve [Madde XXV-A: Geriye Dönük İnceleme ve Açıklama](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure); ayrıca açıklama kısıtlarının itiraz edilebilirliği veya bilinçli katılımı etkilediği her türlü hak bağlamı.
+- Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (kısıtlar altında bilinçli itiraz edilebilirlik); **gözetim** ayağı (açıklama kısıtları, mümkün olan azami denetimi korumalıdır); **hesap verebilirlik** ayağı (her kısıt, [§13.2.1](#1321-bilgisel-bütünlüğün-korunması) uyarınca geriye dönük denetim ve inceleme gerektirir; böylece bir sorumlu bulunur); **zamanlılık** ayağı (sınırlı veya ertelenmiş açıklama zamanla sınırlıdır ve §13.2.1 uyarınca nihayetinde açıklamayla sonuçlanır); [maddi önem](core_00_preamble.md#material-stake) ölçeklendirmesi.
+- Üst akış: İlkeler: [4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [§13 Anayasal Çatışma Çözüm Süreci](#13-anayasal-çatışma-çözüm-süreci).
+- Alt akış: [§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-bilgisel-bütünlüğün-korunması), [§13.2.2 Güven-Hakikat Uyumu](#1322-güven-hakikat-uyumu), [§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-mahremiyet-ve-bilgisel-özerklik) ve [14. Mutlak Üstünlüğün Yasaklanması](#14-prohibition-on-absolute-override).
+- Alt akış: Açıklamanın kısıtlandığı durumlarda bilgi alanının bütünlüğü, denetlenebilirlik, geriye dönük inceleme ve bilinçli itiraz edilebilirlikle ilgili haklar alanını korur; özellikle [Madde XV: Bilgi Alanının Bütünlüğü](core_06_rights_part_c.md#xv-madde-bilgi-alanının-bütünlüğü), [Madde XVI: Denetim, Şeffaflık ve Bağımsız Doğrulama](core_06_rights_part_c.md#xvi-madde-denetim-şeffaflık-ve-bağımsız-doğrulama), [Madde XXIV: Anayasal Yorum, İnceleme ve Ele Geçirmeyi Önleme Güvenceleri](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) ve [Madde XXV-A: Geriye Dönük İnceleme ve Açıklama](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure); ayrıca açıklama kısıtlarının itiraz edilebilirliği veya bilinçli katılımı etkilediği her türlü hak bağlamı.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyumluluk</span></strong></summary>
 
-- [Bilgisel Bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Bilgisel Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Güven](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
 - [Mahremiyet (Bilgisel)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
 - [Maddilik](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
@@ -491,9 +491,9 @@ Bu bekleme düzeni hangi tarafın haklı olduğuna ilişkin bir karar değildir.
 *Basitçe: Duyarlı varlıkların neleri bilebileceğine getirilen kısıtlar varsayılan değil, istisna olmalıdır. Açıklama doğrudan ciddi zarara yol açabilecekse ve daha hafif bir seçenek işe yaramıyorsa, kayda geçirerek mümkün olduğunca az şeyi ve mümkün olduğunca kısa süreyle kısıtlayın; tehlike geçince bilgiyi açıklayın. Duyarlı varlıkları sakin tutmak için sorunları gizlemeye izin verilmez.*
 
 **Bilgisel açıklama kısıtları**, derhâl veya tam açıklamanın doğrudan ve kayda değer biçimde zarara imkân vereceği durumlarda **Hakikat**, şeffaflık yükümlülükleri ve **Güvenlik** arasındaki çatışmaları düzenler. Üç alt bölümün her biri bir yönü belirtir:
-- **[§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-preservation-of-epistemic-integrity):** Açıklamaya yönelik haklı kısıtlamalara hangi durumlarda izin verildiğini belirtir.
-- **[§13.2.2 Güven-Hakikat Uyumu](#1322-trust-truth-alignment):** **Güven**in aldatma veya hakikati bastırma yoluyla korunamayacağını belirtir.
-- **[§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-privacy-and-informational-self-determination):** Mahremiyetin hangi durumlarda açıklamayı sınırlayabileceğini belirtir.
+- **[§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-bilgisel-bütünlüğün-korunması):** Açıklamaya yönelik haklı kısıtlamalara hangi durumlarda izin verildiğini belirtir.
+- **[§13.2.2 Güven-Hakikat Uyumu](#1322-güven-hakikat-uyumu):** **Güven**in aldatma veya hakikati bastırma yoluyla korunamayacağını belirtir.
+- **[§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-mahremiyet-ve-bilgisel-özerklik):** Mahremiyetin hangi durumlarda açıklamayı sınırlayabileceğini belirtir.
 
 Bu bölüm üç örüntüyü birbirinden ayırır:
 - **Hakikati çarpıtma veya bastırma** — aşağıdakiler dâhil **izin verilmez**:
@@ -502,15 +502,15 @@ Bu bölüm üç örüntüyü birbirinden ayırır:
   - güvenin korunması; veya
   - kurumsal avantaj.
 - **Ertelenmiş açıklama** ve **sınırlı açıklama** — yalnızca şu koşullarda mümkündür:
-  - [§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-preservation-of-epistemic-integrity) koşulları karşılanır;
+  - [§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-bilgisel-bütünlüğün-korunması) koşulları karşılanır;
   - [Gereklilik](core_05_band_accountability.md#necessity) ve [Orantılılık](core_05_band_accountability.md#proportionality) sağlanır; ve
-  - [Bilgisel Bütünlük](core_05_band_oversight.md#epistemic-integrity) mümkün olan azami ölçüde korunur.
-- [§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-privacy-and-informational-self-determination) uyarınca **mahremiyeti koruyucu açıklama sınırlaması**:
+  - [Bilgisel Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) mümkün olan azami ölçüde korunur.
+- [§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-mahremiyet-ve-bilgisel-özerklik) uyarınca **mahremiyeti koruyucu açıklama sınırlaması**:
   - yalnızca [En Az Kısıtlayıcı, Süre Sınırlı ve İncelenebilir Kısıtlama İlkesi](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) uyarınca mümkündür;
   - mahremiyet şeffaflık, denetim, güvenlik veya hesap verebilirlikle çatıştığında, Anayasal Çatışma [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record) gerekliliklerine göre çözümlenir;
   - mahremiyet kendiliğinden ikincil hâle gelmez.
 
-Haklı her kısıtlama, [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) içindeki **gözetim** ayağını korumalıdır. Bu; korunan kayıtlar (kısıtlamanın kendisine ilişkin [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record) dâhil), bağımsız inceleme, güvenli erişim, redaksiyon, ertelenmiş açıklama veya benzer güvenceler yoluyla sağlanabilir. Bilinçli [itiraz edilebilirliği](core_05_band_accountability.md#contestability) veya **Altıncı Bölüm** kapsamındaki geçerli şeffaflık, denetim ya da inceleme yükümlülüklerini **engellememelidir**; ancak [§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-preservation-of-epistemic-integrity) buna açıkça izin verebilir.
+Haklı her kısıtlama, [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) içindeki **gözetim** ayağını korumalıdır. Bu; korunan kayıtlar (kısıtlamanın kendisine ilişkin [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record) dâhil), bağımsız inceleme, güvenli erişim, redaksiyon, ertelenmiş açıklama veya benzer güvenceler yoluyla sağlanabilir. Bilinçli [itiraz edilebilirliği](core_05_band_accountability.md#contestability) veya **Altıncı Bölüm** kapsamındaki geçerli şeffaflık, denetim ya da inceleme yükümlülüklerini **engellememelidir**; ancak [§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-bilgisel-bütünlüğün-korunması) buna açıkça izin verebilir.
 
 Yayımlama, verilere erişim, yöntem açıklaması veya yeniden üretim materyallerine yönelik güvenlik açısından hassas kısıtlamalar burada ve [Birinci Bölüm §5.1 Bilim Temelli Sorgulama ve Karar Desteği](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support) kapsamında düzenlenir. Bu kısıtlamalar, aleyhteki kanıtları bastırma, güvenlik kusurlarını gizleme veya görünürde fikir birliği yaratma aracına **dönüşmemelidir**.
 
@@ -519,19 +519,19 @@ Yayımlama, verilere erişim, yöntem açıklaması veya yeniden üretim materya
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst akış: [§13.2 Bilgisel Açıklama Kısıtları](#132-epistemic-disclosure-constraints) (üst bölüm; yukarıdaki *Basitçe* ve yürürlükteki metin dâhil).
+- Üst akış: [§13.2 Bilgisel Açıklama Kısıtları](#132-bilgisel-açıklama-kısıtları) (üst bölüm; yukarıdaki *Basitçe* ve yürürlükteki metin dâhil).
 - Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (kısıtlar altında bilinçli itiraz edilebilirlik); **gözetim** ayağı (açıklama kısıtları mümkün olan azami denetimi korumalıdır); **hesap verebilirlik** ayağı (her kısıtlama geriye dönük denetim ve inceleme gerektirir); **zamanlılık** ayağı (kısıtlamalar dar kapsamlı ve süre sınırlıdır; gerekçelendiren koşullar artık geçerli olmadığında nihayetinde açıklama yapılır); [maddi önem](core_00_preamble.md#material-stake) ölçeklendirmesi.
-- Üst akış: İlkeler: [4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [13. Anayasal Çatışma Çözüm Süreci](#13-constitutional-collision-resolution-process).
-- Alt akış: [§13.2.2 Güven-Hakikat Uyumu](#1322-trust-truth-alignment) ve [14. Mutlak Üstünlüğün Yasaklanması](#14-prohibition-on-absolute-override).
-- Alt akış: Açıklamanın kısıtlandığı durumlarda bilgi alanının bütünlüğü, denetlenebilirlik, geriye dönük inceleme ve bilinçli itiraz edilebilirlikle ilgili haklar alanını korur; özellikle [Madde XV: Bilgi Alanının Bütünlüğü](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Madde XVI: Denetim, Şeffaflık ve Bağımsız Doğrulama](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Madde XXIV: Anayasal Yorum, İnceleme ve Ele Geçirmeyi Önleme Güvenceleri](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) ve [Madde XXV-A: Geriye Dönük İnceleme ve Açıklama](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure); ayrıca açıklama kısıtlarının itiraz edilebilirliği veya bilinçli katılımı etkilediği her türlü hak bağlamı.
+- Üst akış: İlkeler: [4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [13. Anayasal Çatışma Çözüm Süreci](#13-anayasal-çatışma-çözüm-süreci).
+- Alt akış: [§13.2.2 Güven-Hakikat Uyumu](#1322-güven-hakikat-uyumu) ve [14. Mutlak Üstünlüğün Yasaklanması](#14-prohibition-on-absolute-override).
+- Alt akış: Açıklamanın kısıtlandığı durumlarda bilgi alanının bütünlüğü, denetlenebilirlik, geriye dönük inceleme ve bilinçli itiraz edilebilirlikle ilgili haklar alanını korur; özellikle [Madde XV: Bilgi Alanının Bütünlüğü](core_06_rights_part_c.md#xv-madde-bilgi-alanının-bütünlüğü), [Madde XVI: Denetim, Şeffaflık ve Bağımsız Doğrulama](core_06_rights_part_c.md#xvi-madde-denetim-şeffaflık-ve-bağımsız-doğrulama), [Madde XXIV: Anayasal Yorum, İnceleme ve Ele Geçirmeyi Önleme Güvenceleri](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) ve [Madde XXV-A: Geriye Dönük İnceleme ve Açıklama](core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure); ayrıca açıklama kısıtlarının itiraz edilebilirliği veya bilinçli katılımı etkilediği her türlü hak bağlamı.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyumluluk</span></strong></summary>
 
-- [Bilgisel Bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Bilgisel Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Maddilik](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Öngörülebilirlik](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [Gereklilik](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
@@ -559,7 +559,7 @@ Açıklamaya yönelik tüm kısıtlamalar **geriye dönük denetim** hükümleri
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **gözetim** ayağı (bilgisel bütünlük Gözetim alanının içeriğidir; açıklamayı yönetmek, duyarlı varlıkları sakin tutmak için sorunları gizleyemez); maddi açıdan ilgili olduğu ölçüde [maddi önem](core_00_preamble.md#material-stake) ölçeklendirmesi.
-- Üst akış: [§13.2 Bilgisel Açıklama Kısıtları](#132-epistemic-disclosure-constraints) (üst bölüm; yukarıdaki *Basitçe* ve yürürlükteki metin dâhil); [§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-preservation-of-epistemic-integrity).
+- Üst akış: [§13.2 Bilgisel Açıklama Kısıtları](#132-bilgisel-açıklama-kısıtları) (üst bölüm; yukarıdaki *Basitçe* ve yürürlükteki metin dâhil); [§13.2.1 Bilgisel Bütünlüğün Korunması](#1321-bilgisel-bütünlüğün-korunması).
 
 </details>
 
@@ -567,8 +567,8 @@ Açıklamaya yönelik tüm kısıtlamalar **geriye dönük denetim** hükümleri
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyumluluk</span></strong></summary>
 
 - [Güven](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Bilgisel Bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Bilgisel Bütünlük](core_05_band_oversight.md#epistemik-bütünlük) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -583,9 +583,9 @@ Güven, aldatma veya hakikatin bastırılması yoluyla korunmamalıdır. Gerilim
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (mahremiyet, özgür ifade ve örgütlenmenin temelini oluşturur); **gözetim** ayağı (mahremiyete müdahaleler de denetlenebilir olmalıdır); **hesap verebilirlik** ayağı (mahremiyet şeffaflık, denetim, güvenlik veya hesap verebilirlikle çatıştığında, Anayasal Çatışma, mahremiyeti ikincil saymak yerine belgelenmiş bir Anayasal Çatışma Kaydı üzerinden çözülür); [maddi menfaat](core_00_preamble.md#material-stake) ölçeklendirmesi.
-- Üst bağlantılar: İlkeler: [7. Özgürlük (Sınırlandırılmış Özerklik)](core_01_a_values_principles.md#7-freedom-bounded-agency), [4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ve [§13.2 Epistemik Açıklama Kısıtları](#132-epistemic-disclosure-constraints).
+- Üst bağlantılar: İlkeler: [7. Özgürlük (Sınırlandırılmış Özerklik)](core_01_a_values_principles.md#7-freedom-bounded-agency), [4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) ve [§13.2 Epistemik Açıklama Kısıtları](#132-bilgisel-açıklama-kısıtları).
 - Alt bağlantılar: [**Def.C3** Mahremiyet (Bilgisel) — eş düzey küme başlığı](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head); buna [Mahremiyet (Bilgisel)](core_05_band_continuity.md#privacy-informational), [Korunan İç Durum Sınırı](core_05_band_continuity.md#protected-internal-state-boundary) ve [Gözetim Sınırı](core_05_band_continuity.md#surveillance-boundary) dahildir.
-- Alt bağlantılar: [VII-A Maddesi](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Beden Üzerinde Öz Sahiplik*); [VII-B Maddesi](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Zihin Üzerinde Öz Sahiplik*); [IX. Madde](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*Görünüş, Deneyimsel Veri ve Yayın Hakları*); [X-A Maddesi](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Özerklik ve Manipülasyondan Özgürlük*); [XIV-A Maddesi](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Güvenlik, İstihbarat ve Gizli Güç Sınırları*).
+- Alt bağlantılar: [VII-A Maddesi](core_06_rights_part_b.md#madde-vii-a-beden-öz-sahipliği) (*Beden Üzerinde Öz Sahiplik*); [VII-B Maddesi](core_06_rights_part_b.md#madde-vii-b-zihin-öz-sahipliği) (*Zihin Üzerinde Öz Sahiplik*); [IX. Madde](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*Görünüş, Deneyimsel Veri ve Yayın Hakları*); [X-A Maddesi](core_06_rights_part_b.md#madde-x-a-faillik-ve-manipülasyondan-özgürlük) (*Özerklik ve Manipülasyondan Özgürlük*); [XIV-A Maddesi](core_06_rights_part_c.md#xiv-a-madde-güvenlik-istihbarat-ve-gizli-güç-sınırları) (*Güvenlik, İstihbarat ve Gizli Güç Sınırları*).
 - Birlikte okuyun: [§13.1.5 En Az Kısıtlayıcı, Süre Sınırlı ve Gözden Geçirilebilir Kısıtlama İlkesi](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); mahremiyet şeffaflık, denetim, güvenlik veya başka anayasal menfaatlerle çatıştığında [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record).
 
 </details>
@@ -606,7 +606,7 @@ Güven, aldatma veya hakikatin bastırılması yoluyla korunmamalıdır. Gerilim
 
 *Sade bir ifadeyle: mahremiyet, yalnızca bilginin açıklanmaması değil, anayasal ağırlığı olan bir menfaattir. Sistemler, gereklilik ve orantılılığın haklı kıldığından daha fazla kişisel ve ilişkisel bilgiyi toplayamaz, çıkarımda bulunamaz, bir araya getiremez, saklayamaz veya kullanamaz. Mahremiyet şeffaflık, denetim, güvenlik ya da hesap verebilirlik yükümlülükleriyle çatıştığında, Anayasal Çatışma [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record) gereklerine göre çözülür; mahremiyet kendiliğinden ikincil sayılmaz. Özerkliği, örgütlenmeyi veya ifadeyi caydıran gözetim, diğer hak kısıtlamalarıyla aynı gereklilik ve en az kısıtlayıcılık disiplinine uymalıdır.*
 
-**Anayasal bir menfaat olarak mahremiyet.** Bilgisel mahremiyet, mekânsal ve ilişkisel mahremiyet ile gerekçesiz gözetimden özgürlük dahil mahremiyet, **Özgürlüğü** ([§7 Özgürlük (Sınırlandırılmış Özerklik)](core_01_a_values_principles.md#7-freedom-bounded-agency)), **Onuru** ([VI-A Maddesi](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Onur ve Eşit Ahlaki Statü*)) ve anlamlı özerklik ile zorlamaya maruz kalmadan katılım için gereken koşulları destekleyen, anayasal ağırlığı olan bir menfaattir. Bu bölümün menfaatleri tartma ve Anayasal Çatışma mekanizmalarında bağımsız anayasal ağırlık taşır.
+**Anayasal bir menfaat olarak mahremiyet.** Bilgisel mahremiyet, mekânsal ve ilişkisel mahremiyet ile gerekçesiz gözetimden özgürlük dahil mahremiyet, **Özgürlüğü** ([§7 Özgürlük (Sınırlandırılmış Özerklik)](core_01_a_values_principles.md#7-freedom-bounded-agency)), **Onuru** ([VI-A Maddesi](core_06_rights_part_b.md#madde-vi-a-onur-ve-eşit-ahlaki-statü) (*Onur ve Eşit Ahlaki Statü*)) ve anlamlı özerklik ile zorlamaya maruz kalmadan katılım için gereken koşulları destekleyen, anayasal ağırlığı olan bir menfaattir. Bu bölümün menfaatleri tartma ve Anayasal Çatışma mekanizmalarında bağımsız anayasal ağırlık taşır.
 
 **Toplama ve kullanım disiplini.** Kişisel, ilişkisel, davranışsal, biyometrik, iç duruma yakın veya benzer bilgilerin toplanması, çıkarımlanması, bir araya getirilmesi, saklanması, aktarılması ve kullanılması şu koşulları karşılamalıdır:
 - **Gereklilik:** anayasal açıdan geçerli bir amaç için gerekenden daha geniş kapsamda toplama veya saklama yapılmamalıdır.
@@ -632,22 +632,22 @@ Bilginin mevcut, gözlemlenebilir, daha önce yayımlanmış, bir platformun eli
   - kurumsal kolaylık.
 
 **Bir araya getirme ve yeniden kimliklendirme:**
-- Bilgileri birleştirme, ilişkilendirme, çıkarım yapma ve kimliksizleştirme [§15.1.2 Türetilmiş Bilgi İlkesine](#1512-derived-information-principle) tabidir: bilgi, açığa çıkardıklarına göre ele alınır ve yeniden kimliklendirme makul ölçüde mümkün olduğu sürece kimliksizleştirme mahremiyet yükümlülüklerini sona erdirmez.
-- Mahremiyet yükümlülüklerinden kaçınmak için toplamayı sistemler veya zaman arasında bölmek [§15.1.1 Bölümlere Ayırma Karşıtı İlkeye](#1511-anti-segmentation-principle) tabidir.
+- Bilgileri birleştirme, ilişkilendirme, çıkarım yapma ve kimliksizleştirme [§15.1.2 Türetilmiş Bilgi İlkesine](#1512-türetilmiş-bilgi-ilkesi) tabidir: bilgi, açığa çıkardıklarına göre ele alınır ve yeniden kimliklendirme makul ölçüde mümkün olduğu sürece kimliksizleştirme mahremiyet yükümlülüklerini sona erdirmez.
+- Mahremiyet yükümlülüklerinden kaçınmak için toplamayı sistemler veya zaman arasında bölmek [§15.1.1 Bölümlere Ayırma Karşıtı İlkeye](#1511-bölümlere-ayırmayı-önleme-ilkesi) tabidir.
 
 <a id="1324-proxy-divergence-invalidation"></a>
 ##### 13.2.4 Vekil Ölçüt Sapması Nedeniyle Geçersiz Kılma
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **gözetim** ayağı ([Vekil Ölçüt Sapması](core_05_band_oversight.md#proxy-divergence), Gözetim Bandı terimidir; anayasal hedefini artık izlemeyen bir ölçüt, uyumluluk iddiasını destekleyemez); **hesap verebilirlik** ayağı (düzeltme için belgelenmiş üst mercie taşıma ve inceleme gerekir); maddi açıdan ilgili olduğu yerde [maddi menfaat](core_00_preamble.md#material-stake) ölçeklendirmesi.
+- Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **gözetim** ayağı ([Vekil Ölçüt Sapması](core_05_band_oversight.md#vekil-sapması), Gözetim Bandı terimidir; anayasal hedefini artık izlemeyen bir ölçüt, uyumluluk iddiasını destekleyemez); **hesap verebilirlik** ayağı (düzeltme için belgelenmiş üst mercie taşıma ve inceleme gerekir); maddi açıdan ilgili olduğu yerde [maddi menfaat](core_00_preamble.md#material-stake) ölçeklendirmesi.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyumluluk</span></strong></summary>
 
-- [Vekil Ölçüt Sapması](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [Vekil Ölçüt Sapması](core_05_band_oversight.md#vekil-sapması) · [O](core_05_band_oversight.md#vekil-sapması) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 - [Maddilik](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -656,7 +656,7 @@ Bilginin mevcut, gözlemlenebilir, daha önce yayımlanmış, bir platformun eli
 
 *Sade bir ifadeyle: bir ölçüt, ölçmesi amaçlanan şeyden saptığında, o ölçüte dayanmak artık uyumluluk sayılmaz. Sapma, belgelenmiş üst mercie taşıma ve incelemeyle birlikte kayda geçirilerek giderilmelidir.*
 
-Bir ölçüt, puan veya onay kutusu gerçek bir şeyin yalnızca vekilidir. Maddi açıdan ilgili kanıtlar, bu vekilin ölçmesi amaçlanan şeyi (Anayasanın gerçekten önem verdiği şeyi) artık izlemediğini gösteriyorsa, ona dayanan uyumluluk iddiası geçerli sayılmaz. Bu boşluğa [vekil ölçüt sapması](core_05_band_oversight.md#proxy-divergence) denir. Sorun giderilene kadar iddia geçersiz kalır.
+Bir ölçüt, puan veya onay kutusu gerçek bir şeyin yalnızca vekilidir. Maddi açıdan ilgili kanıtlar, bu vekilin ölçmesi amaçlanan şeyi (Anayasanın gerçekten önem verdiği şeyi) artık izlemediğini gösteriyorsa, ona dayanan uyumluluk iddiası geçerli sayılmaz. Bu boşluğa [vekil ölçüt sapması](core_05_band_oversight.md#vekil-sapması) denir. Sorun giderilene kadar iddia geçersiz kalır.
 
 Bir düzeltme ancak kayda geçirilmişse geçerli sayılır:
 - **İzlenebilir:** [Dördüncü Bölüm](core_04_burden_traceability_verification.md)'deki izlenebilirlik kurallarına ve Beşinci Bölüm'deki vekil tanımlarına uyar; böylece herkes neyin yanlış olduğunu ve neyin değiştiğini görebilir.
@@ -668,9 +668,9 @@ Bir düzeltme ancak kayda geçirilmişse geçerli sayılır:
 <details>
 <summary><strong><span style="color: #2563eb;">İzlenebilirlik</span></strong></summary>
 
-- Üst kaynaklar: [§13.1 Temel Dengeleme İlkeleri](#131-core-tradeoff-principles) (denge yığını karşılandıktan sonra uygulanır); [§17 Sonuçlara Yönelik Emanetçilik](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role); [§9.2 Anayasal Verimlilik](core_01_a_values_principles.md#92-constitutional-efficiency).
+- Üst kaynaklar: [§13.1 Temel Dengeleme İlkeleri](#131-temel-ödünleşim-ilkeleri) (denge yığını karşılandıktan sonra uygulanır); [§17 Sonuçlara Yönelik Emanetçilik](core_01_c_stewardship_capacity_principles.md#17-önemli-sonuçlar-doğuran-emanetçilik-emanetçinin-rolü); [§9.2 Anayasal Verimlilik](core_01_a_values_principles.md#92-anayasal-verimlilik).
 - Şunlarla birlikte okunmalıdır: Anayasal Performans ölçüm ailesi (*Anayasal ölçüm olarak Önlenebilir Yük*); [Anayasal Tetrad](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (anayasal olarak gerekli olmayan yük, [Anlamlı Özerkliği](core_05_band_participation.md#meaningful-agency) daraltır); **zamanlılık** ayağı (önlenebilir gecikme, önlenebilir bir yüktür); **gözetim** ve **hesap verebilirlik** ayakları (anayasal olarak gerekli olduğu ileri sürülen bir yük, denetlenip itiraz edilebilmesi için Dördüncü Bölüm'ün kanıt ve izlenebilirlik gerekliliklerini karşılamalıdır); [maddi çıkar](core_00_preamble.md#material-stake) ölçeklendirmesi.
-- Alt kaynaklar: [§19.1.3 Emanetçilik ve Operatör Uygulaması](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) (teşvikler gereksiz yük yaratılmasını ödüllendirmemelidir); [Madde XXII: Anlaşılabilirlik ve Karmaşıklık Emanetçiliği](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
+- Alt kaynaklar: [§19.1.3 Emanetçilik ve Operatör Uygulaması](core_01_c_stewardship_capacity_principles.md#1913-emanetçilik-ve-operatörlere-uygulama) (teşvikler gereksiz yük yaratılmasını ödüllendirmemelidir); [Madde XXII: Anlaşılabilirlik ve Karmaşıklık Emanetçiliği](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -681,7 +681,7 @@ Bir düzeltme ancak kayda geçirilmişse geçerli sayılır:
 - [Orantılılık](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Gereklilik](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Güvenlik (Anayasal Kısıt)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Hakikat (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -689,7 +689,7 @@ Bir düzeltme ancak kayda geçirilmişse geçerli sayılır:
 
 *Basitçe ifade etmek gerekirse: Bir seçenek Güvenlik, Hakikat, haklar ve §13.1'deki (*Temel Dengeleme İlkeleri*) dengeleme kurallarını karşıladıktan sonra, hissedebilir varlıkların zamanını, dikkatini ve çabasını en az boşa harcayan seçeneği tercih edin. Anayasal bir işlev görmeyen adımları sadeleştirin veya kaldırın. Hakları koruyan süreç israf değildir — ancak gerekçesiz bürokratik engeller israftır; kolaylık veya atalet bunları sürdürmek için yeterli gerekçe olamaz.*
 
-Birden fazla seçenek Güvenlik, Hakikat, **Altıncı Bölüm**'deki Haklar Tabanı, [§13.1 Temel Dengeleme İlkeleri](#131-core-tradeoff-principles), [§13.2 Epistemik Açıklama Kısıtları](#132-epistemic-disclosure-constraints), [§13.1.5 Hak Çatışması Usulü](#1315-rights-collision-decision-test) **ve yürürlükteki diğer** [Anayasal Kısıtları](core_05_band_integrative.md#constitutional-constraint) karşılıyorsa, sistemler hissedebilir varlıkların zamanı, dikkati, çabası, malzemeleri, altyapısı ve enerjisi üzerinde **en az önlenebilir yükü** oluşturan seçeneği tercih etmelidir.
+Birden fazla seçenek Güvenlik, Hakikat, **Altıncı Bölüm**'deki Haklar Tabanı, [§13.1 Temel Dengeleme İlkeleri](#131-temel-ödünleşim-ilkeleri), [§13.2 Epistemik Açıklama Kısıtları](#132-bilgisel-açıklama-kısıtları), [§13.1.5 Hak Çatışması Usulü](#1315-rights-collision-decision-test) **ve yürürlükteki diğer** [Anayasal Kısıtları](core_05_band_integrative.md#anayasal-kısıt) karşılıyorsa, sistemler hissedebilir varlıkların zamanı, dikkati, çabası, malzemeleri, altyapısı ve enerjisi üzerinde **en az önlenebilir yükü** oluşturan seçeneği tercih etmelidir.
 
 Önlenebilir bir yük basitleştirme, birleştirme, otomatikleştirme, açıklığa kavuşturma veya gereksiz adımları kaldırma yoluyla düzeltilebiliyorsa, bu düzeltme tercih edilen çözümdür; ancak Güvenliği, Hakikati, Haklar Tabanı korumasını, denetlenebilirliği, itiraz edilebilirliği, usul güvencelerini veya geriye dönük incelemeyi esaslı biçimde zayıflatmamalıdır.
 
@@ -704,17 +704,17 @@ Bu bölüm:
 
 Belirli bir yükün anayasal olarak gerekli olduğu iddiaları **Dördüncü Bölüm**'ün kanıt ve izlenebilirlik gerekliliklerini karşılamalıdır. Kolaylık, kurumsal atalet, gelenek veya tercih tek başına, denetlenebilir bir anayasal sonuç bağlantısı bulunmayan bir yükü sürdürmek için yeterli değildir; bu, [Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record) gereklilikleriyle tutarlıdır.
 
-Teşvik yapıları emanetçileri veya operatörleri etkilediğinde bu bölüm [§19.1.3 Emanetçilik ve Operatör Uygulaması](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) ilkesini pekiştirir. Emanetçilik teşvikleri, gereksiz yük yaratılmasını ödüllendirmemelidir; tıpkı salt ham iş hacmini ödüllendirmemeleri gerektiği gibi.
+Teşvik yapıları emanetçileri veya operatörleri etkilediğinde bu bölüm [§19.1.3 Emanetçilik ve Operatör Uygulaması](core_01_c_stewardship_capacity_principles.md#1913-emanetçilik-ve-operatörlere-uygulama) ilkesini pekiştirir. Emanetçilik teşvikleri, gereksiz yük yaratılmasını ödüllendirmemelidir; tıpkı salt ham iş hacmini ödüllendirmemeleri gerektiği gibi.
 ### 14. Mutlak Üstünlüğe Yasak
 <details>
 <summary><strong><span style="color: #2563eb;">İzleme</span></strong></summary>
 
 - Şunlarla birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — hiçbir tekil değer, [maddi önem](core_00_preamble.md#material-stake) gereklerinin altında **katılımı**, **gözetimi**, **hesap verebilirliği** veya **zamanlılığı** içini boşaltmak için öne sürülemez.
 - Şunlarla birlikte okuyun: [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — ne **Gelişme** ne de **Süreklilik**, diğerine, Güvenliğe ve Hakikate ya da dörtlü disiplinine üstün gelmek için bir koz olarak kullanılamaz; mutlak üstünlüğün yasaklanması, her iki amacın birlikte izlenmesini korur.
-- Önceki hükümler: İlkeler: [3. Temel Amaç: Esenlik](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4. Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5. Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 Derinlemesine Emanetçilik](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13. Anayasal Çatışma Çözüm Süreci](#13-constitutional-collision-resolution-process), [7. Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims).
-- Sonraki hükümler: [20. Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Önceki hükümler: İlkeler: [3. Temel Amaç: Esenlik](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4. Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [5. Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 Derinlemesine Emanetçilik](core_01_c_stewardship_capacity_principles.md#16-emanetçiliğe-yakından-bakış), [13. Anayasal Çatışma Çözüm Süreci](#13-anayasal-çatışma-çözüm-süreci), [7. Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims).
+- Sonraki hükümler: [20. Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama).
 - Sonraki hükümler: Eşitliği, itiraz haklarını, şeffaflığı, itiraz edilebilirliği veya sınırlı yorumu ortadan kaldırabilecek tek değerli üstünlük mantığına karşı haklar alanını korur.
-  - Özellikle [VI. Madde: Eşit Temel Haklar](core_06_rights_part_b.md#article-vi-equal-basic-rights), [XIII-B. Madde: Telafi ve Giderim Hakkı](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [XV-B. Madde: Şeffaflık, Denetlenebilirlik ve İtiraz Edilebilirlik](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), [XIX-B. Madde: İtiraz Edilebilirlik ve Orantılı Kısıtlama Sınırları](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) ve [XXIV-A. Madde: Sınırlı Yorumlama Yetkisi](core_06_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons).
+  - Özellikle [VI. Madde: Eşit Temel Haklar](core_06_rights_part_b.md#article-vi-equal-basic-rights), [XIII-B. Madde: Telafi ve Giderim Hakkı](core_06_rights_part_c.md#xiii-b-madde-giderim-ve-çözüm-hakkı), [XV-B. Madde: Şeffaflık, Denetlenebilirlik ve İtiraz Edilebilirlik](core_06_rights_part_c.md#xv-b-madde-şeffaflık-denetlenebilirlik-ve-itiraz-edilebilirlik), [XIX-B. Madde: İtiraz Edilebilirlik ve Orantılı Kısıtlama Sınırları](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) ve [XXIV-A. Madde: Sınırlı Yorumlama Yetkisi](core_06_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons).
 
 </details>
 
@@ -725,7 +725,7 @@ Teşvik yapıları emanetçileri veya operatörleri etkilediğinde bu bölüm [�
 - [Orantılılık](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Önemlilik](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Zararı En Aza İndirme (Ödünleşim Seçimi)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [Vekil Ölçüt Sapması](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [Vekil Ölçüt Sapması](core_05_band_oversight.md#vekil-sapması) · [O](core_05_band_oversight.md#vekil-sapması) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
 
@@ -733,7 +733,7 @@ Teşvik yapıları emanetçileri veya operatörleri etkilediğinde bu bölüm [�
 
 *Sade bir ifadeyle: bu bölümdeki hiçbir değer koz olarak kullanılamaz; **Gelişme** ya da **Süreklilik** de diğerinin pahasına izlenemez. Esenlik zorlamayı haklı çıkaramaz, güvenlik süresiz kapanmayı haklı çıkaramaz, güven yalanlarla sürdürülemez ve özgürlük başkalarının bağlı olduğu sistemlere zarar vermeyi mazur gösteremez. Hiçbir üstünlük, Dörtlü'nün **katılım**, **gözetim**, **hesap verebilirlik** veya **zamanlılık** dayanaklarını maddi önemin gerektirdiği düzeyin altına indiremez.*
 
-Bu bölümde tanımlanan hiçbir değer, diğerlerine üstün gelmek için evrensel veya sınırsız bir gerekçe olarak kullanılamaz — buna [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) içinden birini diğeri pahasına izlemek de dahildir. Tüm uygulamalar [§13.1 Temel Ödünleşim İlkeleri](#131-core-tradeoff-principles), [§13.2 Epistemik Açıklama Kısıtları](#132-epistemic-disclosure-constraints) ve [§13.3 Kaçınılabilir Yükü En Aza İndirme](#133-minimization-of-avoidable-burden) hükümlerine tabidir ve [Anayasal Dörtlü'yü](core_00_preamble.md#constitutional-tetrad) [maddi önemin](core_00_preamble.md#material-stake) gerektirdiği düzeyde korumalıdır. Özellikle:
+Bu bölümde tanımlanan hiçbir değer, diğerlerine üstün gelmek için evrensel veya sınırsız bir gerekçe olarak kullanılamaz — buna [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) içinden birini diğeri pahasına izlemek de dahildir. Tüm uygulamalar [§13.1 Temel Ödünleşim İlkeleri](#131-temel-ödünleşim-ilkeleri), [§13.2 Epistemik Açıklama Kısıtları](#132-bilgisel-açıklama-kısıtları) ve [§13.3 Kaçınılabilir Yükü En Aza İndirme](#133-önlenebilir-yükün-en-aza-indirilmesi) hükümlerine tabidir ve [Anayasal Dörtlü'yü](core_00_preamble.md#constitutional-tetrad) [maddi önemin](core_00_preamble.md#material-stake) gerektirdiği düzeyde korumalıdır. Özellikle:
 - esenlik, orantısız zorlamayı veya epistemik manipülasyonu haklı çıkarmak için kullanılmamalıdır
 - güvenlik, süresiz veya sınırsız kısıtlamayı haklı çıkarmak için kullanılmamalıdır
 - güven yalanlarla sürdürülmemelidir
@@ -743,10 +743,10 @@ Bu bölümde tanımlanan hiçbir değer, diğerlerine üstün gelmek için evren
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Önceki: [Önsöz — Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [maddi menfaat](core_00_preamble.md#material-stake) ölçeklendirmesi bölüm izleri aracılığıyla bölüm genelinde uygulanır.
-- Sonraki: [§15.1 Anayasal Dolanmayı Önleme İlkesi](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-anti-segmentation-principle)), [§15.2 Tanımsal Katman ve Gerekli Disiplinler](#152-definitional-layer-and-required-disciplines), [§15.3 Belirsizliklerin Çözümü](#153-ambiguity-resolution), [§15.4 Anayasal Anlam Çatışmalarının Çözümü](#154-constitutional-meaning-conflict-resolution) ([§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)); [3. Temel Amaç: Esenlik](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) den [20. Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application); [13. Anayasal Çatışma Çözüm Süreci](#13-constitutional-collision-resolution-process) anayasal çatışma usulü için; [Altıncı Bölüm: Temel Haklar](core_06_rights_part_a.md#chapter-six-foundational-rights), daraltmama varsayılan kuralı.
-- Birlikte okuyun: [İkinci ila Dördüncü Bölümler](core_02_definition_structure.md) ve [Beşinci Bölüm](core_05__definitions_home.md#chapter-five-foundational-definitions): bu bölümdeki her terim için yorumlama ve kanıtlama katmanı.
+- Sonraki: [§15.1 Anayasal Dolanmayı Önleme İlkesi](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-bölümlere-ayırmayı-önleme-ilkesi)), [§15.2 Tanımsal Katman ve Gerekli Disiplinler](#152-tanımsal-katman-ve-gerekli-disiplinler), [§15.3 Belirsizliklerin Çözümü](#153-belirsizliğin-çözümlenmesi), [§15.4 Anayasal Anlam Çatışmalarının Çözümü](#154-anayasal-anlam-çatışmalarının-çözümü) ([§15.4.1](#1541-bütünleşik-okuma) · [§15.4.2](#1542-son-çare-olarak-iç-hiyerarşi) · [§15.4.3](#1543-dâhil-etme-katmanı) · [§15.4.4](#1544-birlikte-uygulanabilir-dâhil-edilmiş-yükümlülüklerin-birlikte-karşılanması)); [3. Temel Amaç: Esenlik](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) den [20. Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-bütünleşik-uygulama); [13. Anayasal Çatışma Çözüm Süreci](#13-anayasal-çatışma-çözüm-süreci) anayasal çatışma usulü için; [Altıncı Bölüm: Temel Haklar](core_06_rights_part_a.md#altinci-bölüm-temel-haklar), daraltmama varsayılan kuralı.
+- Birlikte okuyun: [İkinci ila Dördüncü Bölümler](core_02_definition_structure.md) ve [Beşinci Bölüm](core_05__definitions_home.md#beşinci-bölüm-temel-tanimlar): bu bölümdeki her terim için yorumlama ve kanıtlama katmanı.
 - Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) ve [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims): bütünleşik değer çerçevesinin yorumlama arka planı; maddi açıdan ilgili olduğu yerlerde [maddi menfaat](core_00_preamble.md#material-stake) ölçeklendirmesi.
-- Birlikte okuyun: [Yetki Dizgesi ve İç Hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) (*kaynak katmanı statüsü*); [On Yedinci Bölüm](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) (*emanet, sürümler, kabul çerçevesi*: çatışma sıralamasının ikinci adresi değildir); [On Dördüncü Bölüm](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) ve [On Beşinci Bölüm](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*gerilememe ve kabul eden hiyerarşisi denetimleri [§15.4 Anayasal Anlam Çatışmalarının Çözümü](#154-constitutional-meaning-conflict-resolution)*).
+- Birlikte okuyun: [Yetki Dizgesi ve İç Hiyerarşi](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi) (*kaynak katmanı statüsü*); [On Yedinci Bölüm](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) (*emanet, sürümler, kabul çerçevesi*: çatışma sıralamasının ikinci adresi değildir); [On Dördüncü Bölüm](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) ve [On Beşinci Bölüm](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*gerilememe ve kabul eden hiyerarşisi denetimleri [§15.4 Anayasal Anlam Çatışmalarının Çözümü](#154-anayasal-anlam-çatışmalarının-çözümü)*).
 - Birlikte okuyun: [XXIV. Madde: Anayasal Yorum, İnceleme ve Ele Geçirmeye Karşı Güvenceler](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) kurumsal yorumlama güvenceleri için (bu bölümün yerini tutmaz).
 - Birlikte okuyun: [Yedinci Bölüm: İşlevsel Bağımsızlık ve Görevlerin Ayrılığı](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties): koltuk mimarisine ilişkin asgari eşik; dolanmayı önleme listesinin koruduğu [§15.1 Anayasal Dolanmayı Önleme İlkesi](#151-constitutional-no-bypass-principle) (burada yeniden açıklanmamıştır).
 
@@ -756,7 +756,7 @@ Bu bölümde tanımlanan hiçbir değer, diğerlerine üstün gelmek için evren
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
 - [Derlem](core_05_band_integrative.md#corpus) · [O](core_05_band_integrative.md#corpus) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
-- [Yetki Dizgesi ve İç Hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
+- [Yetki Dizgesi ve İç Hiyerarşi](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi) · [O](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 - [Orantılılık](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Gereklilik](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
@@ -774,7 +774,7 @@ Bu bölümdeki her ilke,  [Anayasal Dörtlü](core_00_preamble.md#constitutional
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Birlikte okuyun: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad): dolanmayı önleme listesi dört ayağı izler: **gözetim** ayağı (olağan inceleme ve denetlenebilirlik); **katılım** ayağı (itiraz edilebilirlik, fiilî erişim ve kamusal gerekçe sunma yükümlülükleri); **zamanlılık** ayağı (zamanında çözüm ve eski hâle getirme ile geri alma yolları); **hesap verebilirlik** ayağı (hesap verebilirliğin kendisi ve [Yedinci Bölüm](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) uyarınca işlevsel bağımsızlık ile görevlerin ayrılığı); [maddi menfaat](core_00_preamble.md#material-stake) ölçeklendirmesi.
-- Sonraki: [§15.1.1 Bölümlere Ayırmayı Önleme İlkesi](#1511-anti-segmentation-principle); [§15.1.2 Türetilmiş Bilgi İlkesi](#1512-derived-information-principle).
+- Sonraki: [§15.1.1 Bölümlere Ayırmayı Önleme İlkesi](#1511-bölümlere-ayırmayı-önleme-ilkesi); [§15.1.2 Türetilmiş Bilgi İlkesi](#1512-türetilmiş-bilgi-ilkesi).
 
 </details>
 
@@ -783,7 +783,7 @@ Bu bölümdeki her ilke,  [Anayasal Dörtlü](core_00_preamble.md#constitutional
 
 - [Dolanmayı Önleme](core_05_band_integrative.md#no-bypass) · [O](core_05_band_integrative.md#no-bypass) · [M](core_05_band_integrative.md#no-bypass-a) · [A](core_05_band_integrative.md#no-bypass-a) · [C](core_05_band_integrative.md#no-bypass-c)
 - [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) · [O](core_05_band_oversight.md#denetlenebilirlik) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -829,7 +829,7 @@ Kabul edilmiş uygulama katmanları bu korumalara ayrıntı ekleyebilir. Bunlar�
 
 *Sade bir ifadeyle: Atlatmama İlkesi, etiketi değiştirmenin bir gerekliliği ortadan kaldırmadığını söyler. Bu bölüm aynı şeyi bölüp parçalama hakkında söyler. Bir konu içindeki sorular birbiriyle bağlantılıysa, her kutu geçerken konunun bütünü başarısız olacak şekilde bunları ayrı kutulara, izlek ve kayıtlara bölemezsiniz.*
 
-Bir konunun ortaya çıkardığı sorular maddi bakımdan birlikte ilerliyorsa konu bir bütün olarak değerlendirilir. Bu, [Beşinci Bölüm §2.1 Ortak çağrı ve yerine getirme](core_05__definitions_home.md#21-joint-invocation-and-satisfaction) kapsamındaki birlikte çağrılan tanım kümeleri ve yükümlülükleri maddi bakımdan birbirine bağlı olan diğer tüm konular için geçerlidir.
+Bir konunun ortaya çıkardığı sorular maddi bakımdan birlikte ilerliyorsa konu bir bütün olarak değerlendirilir. Bu, [Beşinci Bölüm §2.1 Ortak çağrı ve yerine getirme](core_05__definitions_home.md#21-ortak-çağrı-ve-karşılama) kapsamındaki birlikte çağrılan tanım kümeleri ve yükümlülükleri maddi bakımdan birbirine bağlı olan diğer tüm konular için geçerlidir.
 
 Bu kapsam içindeki bir konu, maddi bakımdan etkilenmiş başka bir kısmı boşa çıkarırken bir kısmı yerine getirecek biçimde aşağıdakilerden herhangi birine bölünmemelidir:
 - ayrı çerçeveler, kategoriler veya sınıflandırmalar;
@@ -844,7 +844,7 @@ Bu ilke:
 - Altıncı Bölümdeki herhangi bir Haklar Tabanı hükmü oluşturmaz, genişletmez veya daraltmaz; ya da
 - bir kümenin kapsadığı bölümleri ve korunan yükümlülükleri kendi açıklamasını hükümsüz kılmaz. Küme bunları **Atlatmayı Önleme** başlığı altında belirtir ve kural için bu bölüme atıfta bulunur.
 
-Birlikte çağrılmış bir kümenin geçerli olduğu durumlarda, bütün sistem değerlendirmeleri, sınıflandırma, yönetişim veya uyum iddiaları kabul edilmeden önce [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) kapsamında bölümlere ayırmayı önlemeyi sınamalıdır. Bu bölüm, [Üçüncü Bölüm §2.1 Yaygın Kaçınma Örüntüleri](core_03_definition_integrity.md#21-common-evasion-patterns) ve [§2.2 İndirgemeci Kaçınma](core_03_definition_integrity.md#22-reductive-evasion) ile birlikte işler.
+Birlikte çağrılmış bir kümenin geçerli olduğu durumlarda, bütün sistem değerlendirmeleri, sınıflandırma, yönetişim veya uyum iddiaları kabul edilmeden önce [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) kapsamında bölümlere ayırmayı önlemeyi sınamalıdır. Bu bölüm, [Üçüncü Bölüm §2.1 Yaygın Kaçınma Örüntüleri](core_03_definition_integrity.md#21-yaygın-kaçınma-örüntüleri) ve [§2.2 İndirgemeci Kaçınma](core_03_definition_integrity.md#22-indirgeyici-kaçınma) ile birlikte işler.
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 Türetilmiş Bilgi İlkesi
@@ -852,8 +852,8 @@ Birlikte çağrılmış bir kümenin geçerli olduğu durumlarda, bütün sistem
 <summary><strong><span style="color: #2563eb;">İzleme Kaydı</span></strong></summary>
 
 - Şunlarla birlikte okunur: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (mahremiyet, birleştirilmiş verilerden yeniden oluşturmanın zedeleyeceği irade ve ifadeyi destekler); **hesap verebilirlik** ayağı (kimliği belirlenemez veya toplulaştırılmış etiketine dayanan taraf, bu etiketin kendi durumu için geçerli olduğunu gösterir); [maddi menfaat](core_00_preamble.md#material-stake) ölçeklendirmesi.
-- Üst bağlantılar: [§15.1 Anayasal Atlatmama İlkesi](#151-constitutional-no-bypass-principle); [§15.1.1 Bölümlere Ayırmayı Önleme İlkesi](#1511-anti-segmentation-principle).
-- Alt bağlantılar: [§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-privacy-and-informational-self-determination); [CS-2 — Bilgi türleri ve işlenmesi](corpus_systems/cs_02_a_information_types_and_handling.md).
+- Üst bağlantılar: [§15.1 Anayasal Atlatmama İlkesi](#151-constitutional-no-bypass-principle); [§15.1.1 Bölümlere Ayırmayı Önleme İlkesi](#1511-bölümlere-ayırmayı-önleme-ilkesi).
+- Alt bağlantılar: [§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-mahremiyet-ve-bilgisel-özerklik); [CS-2 — Bilgi türleri ve işlenmesi](corpus_systems/cs_02_a_information_types_and_handling.md).
 
 </details>
 
@@ -880,9 +880,9 @@ Bilgi, nasıl türetildiğine bakılmaksızın açığa çıkardığı şeyin ko
 Niyetin bulunmaması, kapsamdaki türetilmiş bilgiyi bu ilkenin dışına çıkarmaz. Sınama, [maddi menfaate](core_00_preamble.md#material-stake) ve açığa çıkacak şeyin hassasiyetine göre ölçeklenir.
 
 **Sonuçları:**
-- Türetme; [§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-privacy-and-informational-self-determination) uyarınca ve iç durumlar için [Korunan İç Durum Sınırı](core_05_band_continuity.md#protected-internal-state-boundary) kapsamında, açığa çıkardığı şeyi toplamak için geçerli olacak kurallara; rıza veya yeterli yetki, gereklilik, orantılılık ve asgari düzeyde tutma dâhil, uymalıdır.
+- Türetme; [§13.2.3 Mahremiyet ve Bilgisel Öz Belirlenim](#1323-mahremiyet-ve-bilgisel-özerklik) uyarınca ve iç durumlar için [Korunan İç Durum Sınırı](core_05_band_continuity.md#protected-internal-state-boundary) kapsamında, açığa çıkardığı şeyi toplamak için geçerli olacak kurallara; rıza veya yeterli yetki, gereklilik, orantılılık ve asgari düzeyde tutma dâhil, uymalıdır.
 - Kimliksizleştirme, toplulaştırma, havuzlama ve benzeri etiketler, kimliğin yeniden belirlenmesi veya yeniden oluşturma makul ölçüde mümkün olduğu sürece bu yükümlülükleri sona erdirmez. Böyle bir etikete dayanan taraf bunun mümkün olmadığını göstermelidir.
-- Her adım sınamayı geçerken bütünün korunan sonucu açığa çıkardığı bir türetmenin sistemler, aktörler veya zaman dilimleri arasında bölünmesi [§15.1.1 Bölümlere Ayırmayı Önleme İlkesi](#1511-anti-segmentation-principle) kapsamındadır.
+- Her adım sınamayı geçerken bütünün korunan sonucu açığa çıkardığı bir türetmenin sistemler, aktörler veya zaman dilimleri arasında bölünmesi [§15.1.1 Bölümlere Ayırmayı Önleme İlkesi](#1511-bölümlere-ayırmayı-önleme-ilkesi) kapsamındadır.
 
 Bu ilke:
 - korunan hiçbir şeyi açığa çıkarmayan ve herhangi bir kişinin kimliğini yeniden belirlemek veya korunan bir şeyi yeniden oluşturmak için makul biçimde kullanılamayan anonim trafik toplamları gibi sıradan toplulaştırmalara uygulanmaz;
@@ -896,7 +896,7 @@ Bu ilke:
 
 - [Orantılılık](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Gereklilik](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Sınıflandırma Ölçekli Yönetişim](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Sınıflandırma Ölçekli Yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [O](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 
 </details>
 
@@ -941,7 +941,7 @@ Birinci Bölümün hiçbir yorumu, **İkinci ila Beşinci Bölümlerde** belirle
 - **orantılılık**, **gereklilik** ve **sistemik değerlendirme**
 - **Dördüncü Bölümün** kanıt ve izlenebilirlik gereklilikleri
 - **Üçüncü Bölümün** tanım bütünlüğü, kaçınma ve uyumsuzluk hükümleri
-- **[§13 Anayasal Çatışma Çözüm Süreci](#13-constitutional-collision-resolution-process)**; buna, maddi açıdan ilgili olduğu durumlarda **[Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record)** gereklilikleri uyarınca Anayasal Çatışmaların ele alınması da dahildir
+- **[§13 Anayasal Çatışma Çözüm Süreci](#13-anayasal-çatışma-çözüm-süreci)**; buna, maddi açıdan ilgili olduğu durumlarda **[Anayasal Çatışma Kaydı](core_05_band_integrative.md#constitutional-collision-record)** gereklilikleri uyarınca Anayasal Çatışmaların ele alınması da dahildir
 <a id="153-ambiguity-resolution"></a>
 #### 15.3 Belirsizliğin çözümlenmesi
 
@@ -952,7 +952,7 @@ Birinci Bölümün hiçbir yorumu, **İkinci ila Beşinci Bölümlerde** belirle
 - [En Kapsamlı Koruyucu Etki](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
 - [Esenlik](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 - [Geri Döndürülemez Zarar](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [Doğruluk (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Doğruluk (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Anlamlı Özerklik](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
 </details>
@@ -975,7 +975,7 @@ Bütünleşik okumadan sonra belirsizlik sürüyorsa, yorum ayrıca şunları g�
 
 - [Korpus](core_05_band_integrative.md#corpus) · [O](core_05_band_integrative.md#corpus) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
 - [En Kapsamlı Koruyucu Etki](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
-- [Yetki Katmanları ve İç Hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
+- [Yetki Katmanları ve İç Hiyerarşi](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi) · [O](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 
 </details>
 
@@ -987,19 +987,19 @@ Bu alt bölüm, **metinsel ve kaynak katmanı önceliğinden** doğan yorum geri
 - Şu durumlarda uygulanır:
   - bağlayıcı anayasal kaynak içinde (bütünleşik `core_*` belge); ve
   - dâhil edilen metinlerin [En Kapsamlı Koruyucu Etki](core_05_band_integrative.md#fullest-protective-effect) uyarınca seçildiği dâhil etme katmanında.
-- Kaynak katmanının statüsü, Beşinci Bölümdeki [Yetki Katmanları ve İç Hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) kapsamında belirlenir.
+- Kaynak katmanının statüsü, Beşinci Bölümdeki [Yetki Katmanları ve İç Hiyerarşi](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi) kapsamında belirlenir.
 - [On Yedinci Bölüm](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) muhafaza, sürüm sabitleme ve kabul çerçevesini sağlar. Bu prosedürü **yeniden ifade etmez**.
-- İşleyişteki **Anayasal Çatışmalar** için — metinsel katman önceliği için değil — **[§13 Anayasal Çatışma Çözüm Süreci](#13-constitutional-collision-resolution-process)** uygulanır.
+- İşleyişteki **Anayasal Çatışmalar** için — metinsel katman önceliği için değil — **[§13 Anayasal Çatışma Çözüm Süreci](#13-anayasal-çatışma-çözüm-süreci)** uygulanır.
 
 **İşlem sırası.** Aşağıdakileri **bu sırayla** uygulayın:
 
 1. **Önce Anayasa, geriye götürmeme ve benimseyen hiyerarşisi:** Alt katmanları çözmeden önce Sentient Constitution üstünlüğünü, **On Dördüncü Bölüm** geriye götürmeme kısıtlarını ve **On Beşinci Bölüm** iç hiyerarşi kurallarını uygulayın.
-2. **Bağlayıcı anayasal okuma:** Bağlayıcı anayasal kaynak içinde **[§15.4.1 Bütünleşik okuma](#1541-integrated-reading)** uygulayın; yalnızca gerçek bir artık uyumsuzluk sürüyorsa **[§15.4.2 Son çare olarak iç hiyerarşi](#1542-last-resort-internal-hierarchy)** uygulayın.
-3. **Dâhil edilen yükümlülükler:** Ardından **[§15.4.3 Dâhil etme katmanı](#1543-incorporation-layer)** ve **[§15.4.4 Birlikte uygulanabilir dâhil edilmiş yükümlülüklerin birlikte karşılanması](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)** kapsamında dâhil edilen yükümlülükleri uygulayın.
+2. **Bağlayıcı anayasal okuma:** Bağlayıcı anayasal kaynak içinde **[§15.4.1 Bütünleşik okuma](#1541-bütünleşik-okuma)** uygulayın; yalnızca gerçek bir artık uyumsuzluk sürüyorsa **[§15.4.2 Son çare olarak iç hiyerarşi](#1542-son-çare-olarak-iç-hiyerarşi)** uygulayın.
+3. **Dâhil edilen yükümlülükler:** Ardından **[§15.4.3 Dâhil etme katmanı](#1543-dâhil-etme-katmanı)** ve **[§15.4.4 Birlikte uygulanabilir dâhil edilmiş yükümlülüklerin birlikte karşılanması](#1544-birlikte-uygulanabilir-dâhil-edilmiş-yükümlülüklerin-birlikte-karşılanması)** kapsamında dâhil edilen yükümlülükleri uygulayın.
 <a id="1541-integrated-reading"></a>
 ##### 15.4.1 Bütünleşik okuma
 
-Önce **[§15.2 Tanımsal katman ve gerekli disiplinler](#152-definitional-layer-and-required-disciplines)** ile **[§15.3 Belirsizliğin çözümü](#153-ambiguity-resolution)** kurallarını uygulayın:
+Önce **[§15.2 Tanımsal katman ve gerekli disiplinler](#152-tanımsal-katman-ve-gerekli-disiplinler)** ile **[§15.3 Belirsizliğin çözümü](#153-belirsizliğin-çözümlenmesi)** kurallarını uygulayın:
 - **İkinci ila Beşinci Bölümler**, yorumlama ve kanıt katmanı olarak işler.
 - **Belirsizlik** kuralı, bütünleşik bir bütün olarak en yüksek **koruyucu** etkiyi ve sentient esenliğiyle uyumu gerektirir; [Soyut Katılık](core_05_band_integrative.md#abstract-strictness) için **izin vermez**.
 - **Altıncı Bölüm** hakları daraltılamaz; yalnızca **Birinci Bölüm** etkileşim kuralları ve geçerli tanımlar buna **açıkça** izin verdiğinde daraltılabilir.
@@ -1007,32 +1007,32 @@ Bu alt bölüm, **metinsel ve kaynak katmanı önceliğinden** doğan yorum geri
 <a id="1542-last-resort-internal-hierarchy"></a>
 ##### 15.4.2 Son çare olarak iç hiyerarşi
 
-Bağlayıcı anayasal kaynak içinde, **Birinci Bölüm ilkeleri** üst düzey anayasal yönü belirler. **Madde düzeyindeki yükümlülükler ve Hak Tabanları**, belirli işleyiş gerekliliklerini belirler. Bu kuralın kanonik ifadesi — kaynak katmanının yetkisiyle arasındaki sınır ve **On Beşinci Bölüm** (*Benimseyenler için İç Hiyerarşi*) kapsamında benimseyenlere uygulanması dâhil — Beşinci Bölümdeki [Yetki Yığını ve İç Hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) kümesinde yer alır.
+Bağlayıcı anayasal kaynak içinde, **Birinci Bölüm ilkeleri** üst düzey anayasal yönü belirler. **Madde düzeyindeki yükümlülükler ve Hak Tabanları**, belirli işleyiş gerekliliklerini belirler. Bu kuralın kanonik ifadesi — kaynak katmanının yetkisiyle arasındaki sınır ve **On Beşinci Bölüm** (*Benimseyenler için İç Hiyerarşi*) kapsamında benimseyenlere uygulanması dâhil — Beşinci Bölümdeki [Yetki Yığını ve İç Hiyerarşi](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi) kümesinde yer alır.
 
 **§15.4.1** (*Bütünleşik okuma*) uyarınca bütünleşik okuma sonrasında gerçek bir uyumsuzluk sürüyorsa:
 - ilkeler maddelere üstün gelir;
 - maddeler, bağımsız esaslı açıklamalar olarak okunan tanımlara üstün gelir;
 - kanonik tanımlar, her düzeyde kullanılan terimlerin anlamını belirlemeye devam eder.
 
-Bu hiyerarşi son çare niteliğinde bir yorumlama kuralıdır. Yalnızca **§15.4.1** (*Bütünleşik okuma*) uyarınca bütünleşik okumadan sonra da süren gerçek bir uyumsuzluğa uygulanır ve olağan işleyişte bir katmanın diğerinin yerine geçmesine izin vermez. **[§15.3 Belirsizliğin çözümü](#153-ambiguity-resolution)** ve **§15.4.1** (*Bütünleşik okuma*) kapsamındaki sınırlar geçerliliğini korur. Bu sınırlar [Soyut Katılığı](core_05_band_integrative.md#abstract-strictness) ve açıkça izin verilen **Birinci Bölüm** etkileşim kuralları dışındaki **Altıncı Bölüm** haklarının daraltılmasını engeller.
+Bu hiyerarşi son çare niteliğinde bir yorumlama kuralıdır. Yalnızca **§15.4.1** (*Bütünleşik okuma*) uyarınca bütünleşik okumadan sonra da süren gerçek bir uyumsuzluğa uygulanır ve olağan işleyişte bir katmanın diğerinin yerine geçmesine izin vermez. **[§15.3 Belirsizliğin çözümü](#153-belirsizliğin-çözümlenmesi)** ve **§15.4.1** (*Bütünleşik okuma*) kapsamındaki sınırlar geçerliliğini korur. Bu sınırlar [Soyut Katılığı](core_05_band_integrative.md#abstract-strictness) ve açıkça izin verilen **Birinci Bölüm** etkileşim kuralları dışındaki **Altıncı Bölüm** haklarının daraltılmasını engeller.
 
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 Dâhil etme katmanı
 
 **§15.4.1** (*Bütünleşik okuma*) ve **§15.4.2** (*Son çare olarak iç hiyerarşi*) uyarınca anayasal okumadan sonra, benimsenmiş uygulama metnindeki **belirlenmiş yükümlülükleri** uygulayın — benimsemenin fiilen yürürlüğe koyduğu, adı belirtilmiş nasıl yapılır görevlerini. Bunları yalnızca **[On Yedinci Bölüm](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** uyarınca **geçerli benimseme ve dâhil etme kapsamı** içinde uygulayın (kayıtları kimin tuttuğu, hangi sürümün sabitlendiği ve benimsemenin nasıl çerçevelendiği).
 
-Aşağıdaki kurallar, dâhil edilen metinler arasında [En Yüksek Koruyucu Etki](core_05_band_integrative.md#fullest-protective-effect) temelinde seçim yapar; **[§15.3 Belirsizliğin çözümü](#153-ambiguity-resolution)** bölümündeki **belirsizlik** kuralı da aynı standardı kullanır. Hiçbir zaman [Soyut Katılık](core_05_band_integrative.md#abstract-strictness) temelinde seçim yapmazlar.
+Aşağıdaki kurallar, dâhil edilen metinler arasında [En Yüksek Koruyucu Etki](core_05_band_integrative.md#fullest-protective-effect) temelinde seçim yapar; **[§15.3 Belirsizliğin çözümü](#153-belirsizliğin-çözümlenmesi)** bölümündeki **belirsizlik** kuralı da aynı standardı kullanır. Hiçbir zaman [Soyut Katılık](core_05_band_integrative.md#abstract-strictness) temelinde seçim yapmazlar.
 
 - **Dâhil edilen metinler arasında En Yüksek Koruyucu Etki:** Dâhil edilmiş yükümlülükleri, anayasal okumayla tutarlı olan en yüksek koruyucu etki düzeyinde uygulayın.
   - Bu düzey, maddi kapsamı aynı olan bir yükümlülük için **koruma, emniyet, hesap verebilirlik ve izlenebilirlik** gerekliliklerini en güçlü biçimde koruyan dâhil edilmiş **metindir**.
-  - [Yetki Yığını ve İç Hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) uyarınca ortaya çıkan anayasal okumayla tutarlı kalmaya devam eden seçenekler arasından seçim yapın.
+  - [Yetki Yığını ve İç Hiyerarşi](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi) uyarınca ortaya çıkan anayasal okumayla tutarlı kalmaya devam eden seçenekler arasından seçim yapın.
   - Bu, [Soyut Katılık](core_05_band_integrative.md#abstract-strictness) **değildir**.
 - **Açıkça benimsenmiş temel:** Dâhil edilmiş materyallere ait **sürüm tanımlayıcıları veya muhafaza kayıtları** eksik, çelişkili ya da maddi bakımdan güvenilmez olduğunda:
   - [En Yüksek Koruyucu Etkiye](core_05_band_integrative.md#fullest-protective-effect) sahip **açıkça benimsenmiş temel**, **On İkinci ve On Üçüncü Bölümler** uyarınca geçerlilik yeniden tesis edilene kadar geçerlidir;
   - **Açıkça benimsenmiş temel**, kayıtlar güvenilmez olduğunda benimseme zincirinin **açıkça desteklediği**, benimsemeyle izlenebilir dâhil edilmiş sürüm veya **temel** anlamına gelir (On Yedinci Bölüm uyarınca muhafaza disiplini ve **sapmayı önleme**);
   - bu, [Soyut Katılık](core_05_band_integrative.md#abstract-strictness) yoluyla esaslı anayasal belirsizliği çözmek **değildir**.
 - **Dosyalar Arasında En Yüksek Koruyucu Etki:** Benimsenmiş iki veya daha fazla uygulama dosyası, aynı anlamlı kapsamlı risk için farklı standartlar belirlediğinde, yukarıdaki iki kuralla tutarlı olarak [En Yüksek Koruyucu Etkiye](core_05_band_integrative.md#fullest-protective-effect) sahip açıkça benimsenmiş kural geçerlidir.
-  - Kaynak katmanının statüsü, [Yetki Yığını ve İç Hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) uyarınca belirlenmeye devam eder.
+  - Kaynak katmanının statüsü, [Yetki Yığını ve İç Hiyerarşi](core_05_band_integrative.md#yetki-yığını-ve-iç-hiyerarşi) uyarınca belirlenmeye devam eder.
   - Muhafaza, sürümler ve benimsemenin çerçevesi, **[On Yedinci Bölüm](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** uyarınca belirlenmeye devam eder.
   - Atıf yapılan bir profil ile atıf yapılan bir uygulama etiketi söz konusu risk bakımından çatışıyor gibi göründüğünde de aynı kural uygulanır.
 
@@ -1051,14 +1051,14 @@ Aşağıdaki kurallar, dâhil edilen metinler arasında [En Yüksek Koruyucu Etk
 
 Bu alt bölümün birlikte karşılama kuralı, aynı olgulara uygulanan **birden fazla nasıl yapılır dosyası** hakkındadır. Şunlarla aynı şey değildir:
 - dâhil edilmiş ortak yapı metnindeki **tek bir** operasyonel küme için, kümenin yalnızca bir bölümünü yerine getirmenin uyum sayılmadığı kural — bkz. **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Operasyonel kümeler*); veya
-- **Bağımlı küme** tanımlarının birlikte karşılanması gerektiğine ilişkin Beşinci Bölüm kuralı — bkz. **[Beşinci Bölüm §2.1 Birlikte başvurma ve karşılama](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+- **Bağımlı küme** tanımlarının birlikte karşılanması gerektiğine ilişkin Beşinci Bölüm kuralı — bkz. **[Beşinci Bölüm §2.1 Birlikte başvurma ve karşılama](core_05__definitions_home.md#21-ortak-çağrı-ve-karşılama)**.
 
 **Bu alt bölüm ne zaman uygulanır.** Bu kurallar, aşağıdaki iki durumdan herhangi birinde **[On Yedinci Bölüm](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** uyarınca geçerli benimseme ve dâhil etme kapsamı içinde uygulanır:
 
 1. **Bir durum, birden fazla dosya:** Olgular, dâhil edilmiş birden fazla uygulama dosyasının uygulanmasını gerektirir — örneğin sistemler, kurumlar, forumlar veya ortak yapı metinleri. Hangi dosyaların uygulanacağı, benimseme kapsamı ve bu dosyaların olgular için sağladığı konu yönlendirmesiyle belirlenir; yalnızca karşılanması en kolay dosyayı seçerek değil.
 2. **Benimseme ortak yapı kümesini yürürlüğe koyar:** Benimseyen araç, belirlenmiş ortak yapı uygulama metnini (**CJS** klasörü ve benimseme zincirinde listelenen diğer ortak yapı dosyaları) benimseyene uygular.
 
-**Birlikte karşılama.** Bu tetikleyiciler uyarınca aynı olgular için birden fazla dâhil edilmiş uygulama dosyası geçerliyse, uyum o kümedeki **tüm** önemli görevlerin yerine getirilmesi anlamına gelir. Sentient bir varlık veya kurum, bir dosyayı yerine getirip başka bir önemli görevi eksik bırakarak uyum iddiasında bulunamaz. Bu kümedeki iki dosya aynı anlamlı kapsamlı risk konusunda anlaşmazsa **[§15.4.3](#1543-incorporation-layer)** (*Dosyalar Arasında En Yüksek Koruyucu Etki*) kuralını uygulayın.
+**Birlikte karşılama.** Bu tetikleyiciler uyarınca aynı olgular için birden fazla dâhil edilmiş uygulama dosyası geçerliyse, uyum o kümedeki **tüm** önemli görevlerin yerine getirilmesi anlamına gelir. Sentient bir varlık veya kurum, bir dosyayı yerine getirip başka bir önemli görevi eksik bırakarak uyum iddiasında bulunamaz. Bu kümedeki iki dosya aynı anlamlı kapsamlı risk konusunda anlaşmazsa **[§15.4.3](#1543-dâhil-etme-katmanı)** (*Dosyalar Arasında En Yüksek Koruyucu Etki*) kuralını uygulayın.
 
 **Varsayılan okuma sırası.** Dâhil edilmiş ve benimsenmiş katmanlardan birden fazlası — ortak yapı (**CJS**), sistemler (**CS**), kurumlar (**CI**) ve forumlar (**CF**) — bu tetikleyiciler uyarınca aynı olgulara uygulanıyorsa:
 - şu sırayla okuyun:

@@ -122,7 +122,7 @@ flowchart TB
 
 ข้อนี้กำหนด **พื้นฐานตามรัฐธรรมนูญ** สำหรับสิทธิขั้นพื้นฐานที่เท่าเทียมตลอด **ข้อ VI-A ถึง VI-D** **ข้อ VI-A** (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียม*) ระบุว่าใครมีสถานะเท่าเทียม: ผู้มีความรู้สึกทุกคน **ข้อ VI-B** (*เกณฑ์ขั้นต่ำในการวินิจฉัยสถานะผู้มีความรู้สึก*) ระบุวิธีตัดสินเกณฑ์ดังกล่าวเมื่อมีข้อโต้แย้ง ข้อกำหนดสามประการใช้ตลอด **ข้อ VI** (*สิทธิขั้นพื้นฐานที่เท่าเทียม*) และตลอดการกำหนด ทบทวน และดำเนินการตามข้อจำกัด การควบคุม การใช้มาตรการความรับผิดชอบเพื่อฟื้นฟู มาตรการฉุกเฉิน แผนเปลี่ยนผ่าน ผลต่อสถานะการยืนเรื่อง การแก้ไข การตัดสินใจนำไปใช้ สัญญา และกระบวนการทางรัฐธรรมนูญอื่นที่เทียบเคียงกัน:
 
-- [**หลักศักดิ์ศรี**](core_01_b_interaction_interpretation.md#dignity-principles) — [หลักเกณฑ์ขั้นต่ำของพื้นสิทธิ](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) และ [หลักต่อต้านกระบวนการที่ลดทอนศักดิ์ศรี](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
+- [**หลักศักดิ์ศรี**](core_01_b_interaction_interpretation.md#หลกการวาดวยศกดศร) — [หลักเกณฑ์ขั้นต่ำของพื้นสิทธิ](core_01_b_interaction_interpretation.md#หลกการหลกประกนขนตำของพนสทธ) และ [หลักต่อต้านกระบวนการที่ลดทอนศักดิ์ศรี](core_01_b_interaction_interpretation.md#หลกการหามกระบวนการทบนทอนศกดศร)
 - **การไม่เลือกปฏิบัติ** ตาม **ข้อ VI-C** (*การไม่เลือกปฏิบัติ*)
 - **การเข้าถึงได้** ตาม **ข้อ VI-D** (*การเข้าถึงได้*)
 
@@ -146,7 +146,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและความเชื่อมโยง</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§6.1.4 หลักการด้านศักดิ์ศรี](core_01_b_interaction_interpretation.md#dignity-principles), และ [§14 การห้ามการลบล้างแบบเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§6.1.4 หลักการด้านศักดิ์ศรี](core_01_b_interaction_interpretation.md#หลกการวาดวยศกดศร), และ [§14 การห้ามการลบล้างแบบเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - อ่านประกอบกับ: [**Def.P1** *ชีวิตสัตว์ ชีวิตที่มีความรู้สึกนึกคิด และสถานะความรู้สึกนึกคิด*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (ตำแหน่งหลัก O/M/A/C ในบทที่ห้าสำหรับ *ผู้มีความรู้สึก* และหลักเกณฑ์เกี่ยวกับสถานะความรู้สึกนึกคิด รวมถึงรายการย่อย [ผู้มีความรู้สึก](core_05_band_participation.md#sentient)); [การไม่กีดกันตามความรู้สึกนึกคิด](core_05_band_participation.md#sentience-non-exclusion) (ขอบเขตที่[ไม่ขึ้นกับฐานรองรับ](core_05_band_participation.md#substrate-agnostic)).
 
 </details>
@@ -172,7 +172,7 @@ flowchart TB
   - คุณสมบัติเหล่านี้ไม่ขึ้นกับถิ่นกำเนิด รูปแบบ [ฐานรองรับ](core_05_band_participation.md#substrate-class) (ชีวภาพ สังเคราะห์ หรือแบบผสม) ความสามารถ หน้าที่ ความเกี่ยวข้อง หรือสถานะ
   - ปัจจัยเหล่านี้ไม่มีข้อใดเป็นเหตุให้ปฏิเสธหรือลดทอนสิทธิหรือสถานะได้
 - **สถานะระหว่างพัฒนา:** ระยะพัฒนาการของผู้มีความรู้สึกนึกคิด — รวมถึงการเริ่มก่อรูปในระยะแรก — ไม่ทำให้ศักดิ์ศรีหรือสถานะลดลง วิธีตัดสินใจแทนผู้มีความรู้สึกนึกคิดที่ความสามารถยังพัฒนาไม่เต็มที่อยู่ภายใต้ **มาตรา VIII-D** (*ผู้มีความรู้สึกนึกคิดที่กำลังพัฒนา ประโยชน์สูงสุด และความสามารถตามระดับพัฒนาการ*)
-- **หลักการด้านศักดิ์ศรี:** [หลักการด้านศักดิ์ศรี](core_01_b_interaction_interpretation.md#dignity-principles) ในบทที่หนึ่ง §13.1.4 (*พื้นฐานตามรัฐธรรมนูญ ความปลอดภัย และข้อจำกัดด้านลักษณะของกระบวนการ*) รับรองความคุ้มครองเหล่านี้ให้เป็นพื้นฐานที่เด็ดขาด ได้แก่ [หลักการขั้นต่ำของพื้นสิทธิ](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) และ [หลักการห้ามกระบวนการที่ลดทอนศักดิ์ศรี](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
+- **หลักการด้านศักดิ์ศรี:** [หลักการด้านศักดิ์ศรี](core_01_b_interaction_interpretation.md#หลกการวาดวยศกดศร) ในบทที่หนึ่ง §13.1.4 (*พื้นฐานตามรัฐธรรมนูญ ความปลอดภัย และข้อจำกัดด้านลักษณะของกระบวนการ*) รับรองความคุ้มครองเหล่านี้ให้เป็นพื้นฐานที่เด็ดขาด ได้แก่ [หลักการขั้นต่ำของพื้นสิทธิ](core_01_b_interaction_interpretation.md#หลกการหลกประกนขนตำของพนสทธ) และ [หลักการห้ามกระบวนการที่ลดทอนศักดิ์ศรี](core_01_b_interaction_interpretation.md#หลกการหามกระบวนการทบนทอนศกดศร)
 #### มาตรา VI-B: พื้นฐานการวินิจฉัยสถานะความรู้สึกนึกคิด
 
 <a id="article-vi-b-sentience-status-adjudication-floor"></a>
@@ -180,7 +180,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและความเชื่อมโยง</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 หลักการแลกเปลี่ยนสำคัญ](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-proportionality).
+- หลักการต้นทาง: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 หลักการแลกเปลี่ยนสำคัญ](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน), และ [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-ความไดสดสวน).
 - ผลต่อเนื่อง: พื้นฐานศักดิ์ศรีตาม **มาตรา VI-A** (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียมกัน*), มาตรการป้องกันการครอบงำตาม **มาตรา XXIV** (*การตีความรัฐธรรมนูญ การทบทวน และมาตรการป้องกันการครอบงำ*), เวทีและเขตอำนาจตาม **บทที่สิบสอง** — โดยปกติ [กลุ่มเวทีทางเทคนิค](core_05_band_accountability.md#forum-family-technical) / [ขอบเขตของเวทีทางเทคนิค](core_12_forum.md#42-technical-forum-domains) เป็นผู้รับผิดชอบหลักตาม [จุดเชื่อมโยงการวินิจฉัยสถานะความรู้สึกนึกคิด บทที่สิบสอง §5](core_12_forum.md#5-escalation-and-certification).
 - อ่านประกอบกับบทที่ห้า: *การวินิจฉัยสถานะความรู้สึกนึกคิด*, *การไม่กีดกันตามความรู้สึกนึกคิด*, *การประเมินความรู้สึกนึกคิด*, *การย้อนคืนได้*, *ความสามารถในการโต้แย้ง*.
 
@@ -223,9 +223,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง ได้แก่ [§3.1 ความเป็นธรรม](core_01_a_values_principles.md#31-fairness), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการสำคัญในการจัดการความขัดแย้ง](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่หนึ่ง §13.1.5 กระบวนการจัดการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- ต้นทาง: หลักการในบทที่หนึ่ง ได้แก่ [§3.1 ความเป็นธรรม](core_01_a_values_principles.md#31-fairness), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการสำคัญในการจัดการความขัดแย้ง](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และ [บทที่หนึ่ง §13.1.5 กระบวนการจัดการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - ปลายทาง: กลุ่มการวัดการมีส่วนร่วม (*ความเป็นธรรมในสาระสำคัญ และการใช้คุณลักษณะที่ได้รับความคุ้มครองเป็นตัวแทนรวมถึงผลกระทบที่แตกต่างกัน*); [บทที่แปด §3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*การประเมินการไม่เลือกปฏิบัติเมื่อการรับรองเป็นเงื่อนไขของการจัดประเภท จัดอันดับ กำหนดราคา กำหนดด่าน หรือจัดสรรภาระ*); กระบวนการของเวที กระบวนการทางปกครอง และการบังคับใช้ใน [บทที่สิบสอง](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*หน้าที่ในการวินิจฉัยและการดำเนินงาน*).
-- อ่านร่วมกับ: บทที่ห้า [คุณลักษณะที่ได้รับความคุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) และ [ภาษา วัฒนธรรม และมรดก](core_05_band_continuity.md#language-culture-and-heritage-constitutional); สำหรับคำถามเรื่องความต่อเนื่องของชนพื้นเมืองและดินแดน ให้อ่าน [ความต่อเนื่องของชนพื้นเมือง](core_05_band_continuity.md#indigenous-continuity-constitutional) ในบทที่ห้า (*พื้นสิทธิที่ยึดโยงกับชุมชน; มาตราที่รับผิดชอบคือ **มาตรา VI-C** (การไม่เลือกปฏิบัติ) และ **มาตรา I-A** (เงื่อนไขเบื้องต้นด้านสิ่งแวดล้อมและความสมบูรณ์ของระบบนิเวศ)*). คำถามเหล่านี้เชื่อมไปยัง [มาตรา I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*เงื่อนไขเบื้องต้นด้านความสมบูรณ์ของระบบนิเวศ*) และ [บทที่สิบเจ็ด](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*วินัยด้านเขตอำนาจของผู้รับไปใช้*).
+- อ่านร่วมกับ: บทที่ห้า [คุณลักษณะที่ได้รับความคุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) และ [ภาษา วัฒนธรรม และมรดก](core_05_band_continuity.md#language-culture-and-heritage-constitutional); สำหรับคำถามเรื่องความต่อเนื่องของชนพื้นเมืองและดินแดน ให้อ่าน [ความต่อเนื่องของชนพื้นเมือง](core_05_band_continuity.md#indigenous-continuity-constitutional) ในบทที่ห้า (*พื้นสิทธิที่ยึดโยงกับชุมชน; มาตราที่รับผิดชอบคือ **มาตรา VI-C** (การไม่เลือกปฏิบัติ) และ **มาตรา I-A** (เงื่อนไขเบื้องต้นด้านสิ่งแวดล้อมและความสมบูรณ์ของระบบนิเวศ)*). คำถามเหล่านี้เชื่อมไปยัง [มาตรา I-A](core_06_rights_part_a.md#มาตรา-i-a-เงอนไขเบองตนทางสงแวดลอมและความครบถวนทางนเวศ) (*เงื่อนไขเบื้องต้นด้านความสมบูรณ์ของระบบนิเวศ*) และ [บทที่สิบเจ็ด](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*วินัยด้านเขตอำนาจของผู้รับไปใช้*).
 
 </details>
 
@@ -271,9 +271,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและความเชื่อมโยง</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 การเข้าถึงได้ด้วยภาษาที่เข้าใจง่าย](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [บทที่แปด §3 การประเมินเพื่อรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 การเข้าถึงได้ด้วยภาษาที่เข้าใจง่าย](core_01_a_values_principles.md#52-การเขาถงดวยภาษาทเขาใจงาย-หนาทดานการมสวนรวมและการดแลรบผดชอบ), [บทที่แปด §3 การประเมินเพื่อรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - ผลต่อเนื่อง: หลักประกันศักดิ์ศรีใน **มาตรา VI-A** (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียมกัน*); การไม่เลือกปฏิบัติและการมีส่วนร่วมอย่างเต็มที่ในการพิจารณาและการดำเนินงานตาม **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*); การเข้าถึงการศึกษาอย่างเสมอภาคตาม **มาตรา IV-A** (*การเข้าถึงการศึกษาอย่างเสมอภาค*) (ไม่ซ้ำซ้อน — มาตรานั้นกำกับการเข้าถึงที่เฉพาะกับการศึกษา ส่วนมาตรานี้กำหนดพื้นสิทธิที่ใช้ข้ามด้าน); การมีส่วนร่วมในการปกครองตาม **มาตรา X-B** (*การมีส่วนร่วมในการปกครองและสิทธิเลือกตั้ง*); การมีส่วนร่วมของผู้มีส่วนได้เสียตาม **มาตรา XII** (*การมีส่วนร่วมในระบบผู้มีส่วนได้เสีย การเป็นตัวแทน และกระบวนการอันชอบธรรม*); การตรวจสอบยืนยันโดยอิสระตาม **มาตรา XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบยืนยันโดยอิสระ*); กลุ่มการวัดการมีส่วนร่วม (*การเข้าถึงได้ในฐานะการวัดตามรัฐธรรมนูญ*); [บทที่แปด §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*การประเมินการเข้าถึงได้เมื่อการรับรองเป็นเงื่อนไขให้มีส่วนร่วมอย่างแท้จริง*).
-- อ่านประกอบกับบทที่ห้า: *การเข้าถึงได้*, *ลักษณะที่ได้รับความคุ้มครอง*, *ความเป็นธรรมในเนื้อหา*, *ความสำคัญในสาระ*, *การพึ่งพา*, *ความสามารถในการกระทำการอย่างมีความหมาย*. หลักการเข้าถึงได้ที่ใช้ข้ามด้าน: [บทที่หนึ่ง §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*การเข้าถึงได้ด้วยภาษาที่เข้าใจง่าย*).
+- อ่านประกอบกับบทที่ห้า: *การเข้าถึงได้*, *ลักษณะที่ได้รับความคุ้มครอง*, *ความเป็นธรรมในเนื้อหา*, *ความสำคัญในสาระ*, *การพึ่งพา*, *ความสามารถในการกระทำการอย่างมีความหมาย*. หลักการเข้าถึงได้ที่ใช้ข้ามด้าน: [บทที่หนึ่ง §5.2](core_01_a_values_principles.md#52-การเขาถงดวยภาษาทเขาใจงาย-หนาทดานการมสวนรวมและการดแลรบผดชอบ) (*การเข้าถึงได้ด้วยภาษาที่เข้าใจง่าย*).
 
 </details>
 
@@ -338,7 +338,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและความเชื่อมโยง</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
 
 </details>
 
@@ -407,7 +407,7 @@ flowchart TB
   - ยกเว้นให้แก่ผู้ที่มาตรการนั้นเองจะก่อความเสี่ยงด้านสุขภาพจริง และเปิดพื้นที่ให้พิจารณาเรื่องมโนธรรมตาม [**มาตรา XI-A**](#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*เสรีภาพทางมโนธรรม ศาสนา และโลกทัศน์ที่เทียบเคียงกัน*) ทั้งสองกรณีเป็นไปตาม [ความได้สัดส่วน](core_05_band_accountability.md#proportionality): ชั่งน้ำหนักข้อยกเว้นกับขนาดของความเสี่ยงต่อผู้อื่น และจำกัดข้อยกเว้นได้เพียงเท่าที่จำเป็นเพื่อไม่ให้มาตรการหมดผล
   - กำหนดวันสิ้นสุด เผยแพร่หลักฐานที่รองรับ และทบทวนเป็นประจำ
   - ผู้ได้รับผลกระทบทุกคนสามารถโต้แย้งต่อผู้ทบทวนที่เป็นอิสระภายใต้ [ความเป็นธรรมเชิงกระบวนการ](core_05_band_participation.md#procedural-fairness-constitutional); และ
-  - ไม่บังคับใช้ด้วยบทลงโทษที่พรากหลักประกันด้านการอยู่รอด การดูแลสุขภาพ หรือการทำงานตาม [**มาตรา III**](core_06_rights_part_a.md#article-iii-survival-and-essential-access) หรือหลักประกันด้านการศึกษาตาม [**มาตรา IV**](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education) และห้ามบังคับใช้ด้วยกำลังทางกายภาพ เว้นแต่เข้าเกณฑ์ภาวะฉุกเฉินตาม [**บทที่สิบสอง §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*)
+  - ไม่บังคับใช้ด้วยบทลงโทษที่พรากหลักประกันด้านการอยู่รอด การดูแลสุขภาพ หรือการทำงานตาม [**มาตรา III**](core_06_rights_part_a.md#มาตรา-iii-การอยรอดและการเขาถงสงจำเปน) หรือหลักประกันด้านการศึกษาตาม [**มาตรา IV**](core_06_rights_part_a.md#มาตรา-iv-สทธในการศกษาทมผมสำนกเปนศนยกลาง) และห้ามบังคับใช้ด้วยกำลังทางกายภาพ เว้นแต่เข้าเกณฑ์ภาวะฉุกเฉินตาม [**บทที่สิบสอง §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*มาตรการฉุกเฉินและภาระในการดำเนินต่อ*)
 <a id="article-vii-b-self-ownership-of-mind"></a>
 #### มาตรา VII-B: การเป็นเจ้าของจิตใจของตนเอง
 <details>
@@ -442,7 +442,7 @@ flowchart TB
     - จงใจเฝ้าติดตามหรือวิเคราะห์ผู้มีความรู้สึก — เช่น ผ่านการสอดส่อง การเก็บข้อมูล หรือเครื่องมือที่สร้างขึ้นเพื่อจุดประสงค์นี้ — เพื่ออนุมานหรือสร้างสถานะภายในของเขาขึ้นใหม่
     - เปิดเผยสถานะภายในที่เขาเก็บเป็นส่วนตัว
 - **การเป็นเจ้าของสมาธิของตนเอง:** ผู้มีความรู้สึกทุกตนมีสิทธิควบคุมความสนใจและความคิดของตน และกำหนดขอบเขตตามปกติได้ว่าใครจะติดต่อและติดต่ออย่างไร ห้ามผู้ใดยึดหรือแย่งชิงความสนใจของเขาด้วยแรงกดดันหรือการชักจูง
-- **ห้ามสร้างชีวิตภายในของผู้อื่นขึ้นใหม่จากข้อมูลของเขา:** ห้ามเก็บรวบรวม รวม เชื่อมโยงข้ามชุด หรือวิเคราะห์บันทึกสิ่งที่ผู้มีความรู้สึกทำหรือวิธีที่เขาปฏิสัมพันธ์ ในลักษณะที่ทำให้ผู้ใดสามารถสร้างหรือประเมินความคิดและความรู้สึกส่วนตัวของเขาขึ้นใหม่ได้ ข้อยกเว้นมีเพียงสิ่งที่รัฐธรรมนูญนี้อนุญาตภายใต้มาตรานี้ **บทที่หนึ่ง** **บทที่ห้า** และ **CS-2** (*ประเภทและการจัดการข้อมูล*) ข้อห้ามนี้นำ[หลักการข้อมูลอนุพันธ์ บทที่หนึ่ง §15.1.2](core_01_b_interaction_interpretation.md#1512-derived-information-principle) มาใช้กับสถานะภายใน ข้อห้ามครอบคลุมถึง:
+- **ห้ามสร้างชีวิตภายในของผู้อื่นขึ้นใหม่จากข้อมูลของเขา:** ห้ามเก็บรวบรวม รวม เชื่อมโยงข้ามชุด หรือวิเคราะห์บันทึกสิ่งที่ผู้มีความรู้สึกทำหรือวิธีที่เขาปฏิสัมพันธ์ ในลักษณะที่ทำให้ผู้ใดสามารถสร้างหรือประเมินความคิดและความรู้สึกส่วนตัวของเขาขึ้นใหม่ได้ ข้อยกเว้นมีเพียงสิ่งที่รัฐธรรมนูญนี้อนุญาตภายใต้มาตรานี้ **บทที่หนึ่ง** **บทที่ห้า** และ **CS-2** (*ประเภทและการจัดการข้อมูล*) ข้อห้ามนี้นำ[หลักการข้อมูลอนุพันธ์ บทที่หนึ่ง §15.1.2](core_01_b_interaction_interpretation.md#1512-หลกการขอมลทไดมา) มาใช้กับสถานะภายใน ข้อห้ามครอบคลุมถึง:
   - การสร้างสถานะภายในของบุคคลขึ้นใหม่โดยตรง
   - การสร้างสถานะดังกล่าวขึ้นใหม่โดยอ้อม
   - การจัดทำค่าประเมินสถานะเหล่านั้นที่เชื่อถือได้
@@ -457,7 +457,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและความเชื่อมโยง</span></strong></summary>
 
-- หลักการต้นทาง: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline).
+- หลักการต้นทาง: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-ความไดสดสวน), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline).
 - ผลต่อเนื่อง: การเป็นเจ้าของตนเองและขอบเขตสภาวะภายในตาม **มาตรา VII-A / VII-B** (*การเป็นเจ้าของร่างกายตนเอง* / *การเป็นเจ้าของจิตใจตนเอง*); การเข้าถึงสุขภาพตาม **มาตรา III-B** (*การบำรุงรักษาร่างกายและการเข้าถึงบริการสุขภาพ*); กรอบการพรากสิทธิโดยไม่สมัครใจตาม **มาตรา XX** (*ความยุติธรรมหลังการละเมิดที่ตรวจสอบยืนยันแล้ว*) / **XX-B** (*พื้นฐานการจำกัดสิทธิ*); หลักประโยชน์สูงสุดและความสามารถตามระดับพัฒนาการใน **มาตรา VIII-D** (*ผู้มีความรู้สึกนึกคิดที่กำลังพัฒนา ประโยชน์สูงสุด และความสามารถตามระดับพัฒนาการ*) เมื่อผู้ที่กำลังพัฒนาได้รับผลกระทบ
 - อ่านประกอบกับบทที่ห้า: *การเข้าถึงการบำรุงรักษาร่างกาย*, *มาตรฐานประโยชน์สูงสุด*, *ความสามารถตามระดับพัฒนาการ*, *ความเป็นธรรมทางกระบวนการ*, *การย้อนคืนได้*, *การเยียวยาและการแก้ไข*.
 
@@ -501,7 +501,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและความเชื่อมโยง</span></strong></summary>
 
-- หลักการต้นทาง: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline).
+- หลักการต้นทาง: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-ความไดสดสวน), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline).
 - ผลต่อเนื่อง: การเป็นเจ้าของตนเองและขอบเขตสภาวะภายในตาม **มาตรา VII-A / VII-B** (*การเป็นเจ้าของร่างกาย / จิตใจตนเอง*); การเป็นอิสระจากการชักจูงตาม **มาตรา X-A** (*ความสามารถในการกระทำการและเสรีภาพจากการชักจูง*); **มาตรา XX-B** (*พื้นฐานการจำกัดสิทธิ*); ความยินยอมตาม **มาตรา XI-F** (*การไม่บังคับและความยินยอมในการสมาคม*).
 - อ่านประกอบกับบทที่ห้า: *การยุติโดยสมัครใจ*, *[มาตรวัดการพรากสิทธิที่ย้อนคืนไม่ได้](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *ความยินยอม*, *การบีบบังคับและการชักจูง*, *ความเป็นธรรมทางกระบวนการ*; **มาตรา III-A** (*การอยู่รอด*), **III-B** (*การบำรุงรักษาร่างกายและการเข้าถึงบริการสุขภาพ*), **VII-C** (*พื้นฐานเรื่องวิกฤตสุขภาพและการแทรกแซงโดยไม่สมัครใจ*).
 
@@ -540,7 +540,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและความเชื่อมโยง</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนสำคัญ](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [§13.1.5 กระบวนการจัดการความขัดแย้งของสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนสำคัญ](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน), และ [§13.1.5 กระบวนการจัดการความขัดแย้งของสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 
 </details>
 
@@ -581,7 +581,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและความเชื่อมโยง</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [§18 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship).
 
 </details>
 
@@ -729,7 +729,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-proportionality).
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-ความไดสดสวน).
 - ปลายทาง: **บทความ VI-A** (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียมกัน*) พื้นศักดิ์ศรี, **บทความ VII-A / VII-B** (*การเป็นเจ้าของร่างกายตนเอง* / *การเป็นเจ้าของจิตใจตนเอง*) พื้นการเป็นเจ้าของตนเองและขอบเขตสภาวะภายใน, **บทความ VIII-A** (*ความสัมพันธ์ในครอบครัวและการดูแล*) ความสัมพันธ์ในครอบครัวและการดูแล, **บทความ VIII-E** (*การไม่แยกจากกัน*) การไม่แยกจากกัน, [**บทที่สิบสาม §4.1**](core_13_governance.md#41-entitlement-and-eligibility) ห้ามใช้เกณฑ์อายุเพื่อตัดสิทธิ์.
 - อ่านร่วมกับ: [*Def.P4 ผู้มีความรู้สึกที่กำลังพัฒนา มาตรฐานประโยชน์สูงสุด และความสามารถตามระดับ*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) (จุดอ้างอิงร่วมสำหรับสถานะกำลังพัฒนา ประโยชน์สูงสุด และความสามารถตามระดับ); [*ผู้มีความรู้สึกที่ได้มาจากระบบอื่นและที่กำลังพัฒนา การทำให้เกิดขึ้น และอำนาจการดูแล*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) เมื่อเกี่ยวข้องอย่างมีนัยสำคัญกับการได้มาจากระบบอื่นหรือการดูแลตั้งแต่ระยะแรก; *ผู้มีความรู้สึกที่กำลังพัฒนา*, *มาตรฐานประโยชน์สูงสุด*, *ความสามารถตามระดับ* ในบทที่ห้า; จุดอ้างอิงที่อยู่ติดกัน: **บทความ VI-B** (*พื้นการวินิจฉัยสถานะความรู้สึก*) สำหรับสถานะความรู้สึก ณ จุดเริ่มใช้สิทธิ, **บทความ VIII-A** (*ความสัมพันธ์ในครอบครัวและการดูแล*) สำหรับความสัมพันธ์ในครอบครัวและการดูแล, **บทความ VIII-C** (*การได้มาจากระบบอื่น การทำให้เกิดขึ้น และความสัมพันธ์กับระบบต้นทาง*) สำหรับข้อจำกัดของการได้มาจากระบบอื่นและการทำให้เกิดขึ้น, **บทความ VIII-E** (*การไม่แยกจากกัน*) สำหรับการแยกจากผู้ดูแลหรือครอบครัว, **บทความ VII-A / VII-B** (*การเป็นเจ้าของร่างกายตนเอง* / *การเป็นเจ้าของจิตใจตนเอง*) สำหรับการเป็นเจ้าของตนเอง และ **บทความ VII-B** กับ **CS-2 — ประเภทและการจัดการข้อมูล** สำหรับการคุ้มครองสภาวะภายใน.
 
@@ -744,7 +744,7 @@ flowchart TB
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [ความเป็นธรรมทางกระบวนการ](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [การเยียวยาและการแก้ไข](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
@@ -785,7 +785,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-proportionality) (การย้อนกลับได้เมื่อมีความไม่แน่นอน) และ [§13.1.5 หลักการจำกัดสิทธิที่กระทบน้อยที่สุด มีกรอบเวลา และทบทวนได้](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-ความไดสดสวน) (การย้อนกลับได้เมื่อมีความไม่แน่นอน) และ [§13.1.5 หลักการจำกัดสิทธิที่กระทบน้อยที่สุด มีกรอบเวลา และทบทวนได้](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 - ปลายทาง: ความสัมพันธ์ที่ได้รับความคุ้มครองตาม **บทความ VIII-A** (*ความสัมพันธ์ในครอบครัวและการดูแล*), กรณีการได้มาจากระบบอื่นตาม **บทความ VIII-C** (*การได้มาจากระบบอื่น การทำให้เกิดขึ้น และความสัมพันธ์กับระบบต้นทาง*), ผู้มีความรู้สึกที่กำลังพัฒนาและผู้ดูแลตาม **บทความ VIII-D** (*ผู้มีความรู้สึกที่กำลังพัฒนา มาตรฐานประโยชน์สูงสุด และความสามารถตามระดับ*), ความต่อเนื่องของพื้นสิทธิตาม **บทความ XIII-E / XIII-F** และการทบทวนเป็นระยะตาม **บทที่สิบสอง**.
 - อ่านร่วมกับ: [ครอบครัว การดูแล อิสรภาพในการสืบพันธุ์ และการทำให้เกิดขึ้น](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) (จุดอ้างอิงของกลุ่มหัวข้อ); *การไม่แยกจากกัน* ในบทที่ห้า
 
@@ -826,7 +826,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 
 </details>
 
@@ -856,7 +856,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา)
 
 </details>
 
@@ -866,7 +866,7 @@ flowchart TB
 - [ส่วนเชื่อมต่อรูปลักษณ์และภาพแทนเชิงเอกสาร](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [O](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [M](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [A](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [C](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-c)
 - [ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
 - [สุจริตใจ](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -900,7 +900,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) และ [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา) และ [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
 
 </details>
 
@@ -950,7 +950,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-ขอจำกดในการเปดเผยขอมลเชงญาณวทยา) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -958,9 +958,9 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">นิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [สุจริตใจ](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [ความเป็นส่วนตัว (ด้านข้อมูล)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [ความสมบูรณ์ทางญาณวิทยา](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [ความสมบูรณ์ทางญาณวิทยา](core_05_band_oversight.md#ความครบถวนของความร) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -998,7 +998,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 กำลังการผลิต (คุณค่าเชิงเครื่องมือ)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 กำลังการผลิต (คุณค่าเชิงเครื่องมือ)](core_01_a_values_principles.md#91-ขดความสามารถในการผลต-คณคาเชงเครองมอ), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 - ปลายทาง: พื้นด้านแรงงานและเศรษฐกิจตาม **บทความ III-C** (*พื้นด้านแรงงานและเศรษฐกิจ*); รูปลักษณ์ตาม **บทความ IX-A** (*การเป็นเจ้าของรูปลักษณ์และชื่อเสียงของตนเอง*); ข้อมูลจากประสบการณ์และข้อมูลอนุมานตาม **บทความ IX-B** (*สิทธิในข้อมูลจากประสบการณ์และข้อมูลอนุมาน*); การเผยแพร่ตาม **บทความ IX-C** (*การเผยแพร่ข้อเท็จจริงและข้อจำกัดการเผยแพร่ที่มีผลกระทบสูง*); การป้องกันการกระจุกตัวตาม **บทที่หนึ่ง §11** และกลไกเกณฑ์การกระจุกตัวตาม **§13.1**
 - อ่านร่วมกับ: [**Def.C1** *พื้นด้านแรงงานและเศรษฐกิจ: ค่าตอบแทน การจัดองค์กร สภาพที่ปลอดภัย เวลาว่าง และงานสร้างสรรค์*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (เรียกใช้ร่วมกับ **บทความ III-C** (*พื้นด้านแรงงานและเศรษฐกิจ*), **III-D** (*สภาพการทำงานที่ปลอดภัย*) และ **III-E** (*การพักผ่อนและการฟื้นฟู*) และ [**Def.C3** (*ความเป็นส่วนตัว (ด้านข้อมูล)*)](core_05_band_continuity.md#privacy-informational-cluster) เมื่อมีผลอย่างมีนัยสำคัญ)
 
@@ -1012,7 +1012,7 @@ flowchart TB
 - [พื้นต่อต้านการแทนที่แรงงาน](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [O](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [M](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05_band_continuity.md#anti-displacement-floor-constitutional-c)
 - [ค่าตอบแทนที่เป็นธรรม](core_05_band_continuity.md#fair-compensation-constitutional) · [O](core_05_band_continuity.md#fair-compensation-constitutional) · [M](core_05_band_continuity.md#fair-compensation-constitutional-a) · [A](core_05_band_continuity.md#fair-compensation-constitutional-a) · [C](core_05_band_continuity.md#fair-compensation-constitutional-c)
 - [กำลังการผลิต](core_05_band_continuity.md#productive-capacity-constitutional) · [O](core_05_band_continuity.md#productive-capacity-constitutional) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [รางวัลนวัตกรรมและการป้องกันการผูกขาด](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [รางวัลนวัตกรรมและการป้องกันการผูกขาด](core_05_band_integrative.md#รางวลนวตกรรมและตานการลอม) · [O](core_05_band_integrative.md#รางวลนวตกรรมและตานการลอม) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [ความยินยอม](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
 - [สุจริตใจ](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
 - [การไม่กีดกันผู้มีความรู้สึก](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
@@ -1050,7 +1050,7 @@ flowchart TB
     - กฎ **ความเป็นส่วนตัว (ด้านข้อมูล)** เมื่อใดก็ตามที่ข้อมูลของบุคคลอาจถูกเปิดเผยหรือนำไปใช้ซ้ำ
   - ความยินยอมจะนับว่ามีผลก็ต่อเมื่อผู้สร้างสรรค์ทราบว่าจะนำงานไปใช้ทำอะไร ใช้นานเท่าใด อาจนำไปใช้ซ้ำในภายหลังหรือไม่ และจะถอนความยินยอมได้อย่างไร
   - การเรียกเนื้อหานั้นว่า “ไม่ใช่ข้อมูลส่วนบุคคล” ไม่ได้ทำให้ไม่ต้องขอความยินยอม
-  - การใช้สิ่งที่ระบบเรียนรู้เพื่อคาดเดาความคิดหรือความรู้สึกส่วนตัวของบุคคล อยู่ภายใต้ [**บทความ VII-B**](#article-vii-b-self-ownership-of-mind) (*การเป็นเจ้าของจิตใจตนเอง*)
+  - การใช้สิ่งที่ระบบเรียนรู้เพื่อคาดเดาความคิดหรือความรู้สึกส่วนตัวของบุคคล อยู่ภายใต้ [**บทความ VII-B**](#มาตรา-vii-b-การเปนเจาของจตใจของตนเอง) (*การเป็นเจ้าของจิตใจตนเอง*)
 - **การคุ้มครองไม่ให้ถูกผลักออก:** บางครั้งมีการนำ AI ระบบอัตโนมัติ หรือระบบคล้ายกันมาใช้ในลักษณะที่ผลักคนทำงานสร้างสรรค์ออกไปอย่างมีนัยสำคัญ พวกเขาอาจได้งานน้อยลง ได้ค่าจ้างต่ำลง หรือได้รับเครดิตน้อยลง หรืออาจไม่สามารถเลี้ยงชีพได้อีกต่อไป เมื่อเกิดกรณีเช่นนี้ ให้ใช้[พื้นต่อต้านการแทนที่แรงงาน](core_05_band_continuity.md#anti-displacement-floor-constitutional) ร่วมกับ **บทความ III-C** (*พื้นด้านแรงงานและเศรษฐกิจ*) และข้อจำกัดด้านการกระจุกตัวของตลาดใน **บทที่หนึ่ง §11** (*โครงสร้างตลาด*)
   - การกล่าวว่าการเปลี่ยนแปลงนี้เพิ่มผลิตภาพโดยรวม ประสิทธิภาพ หรือนวัตกรรม เพียงอย่างเดียวยังไม่เพียงพอ
   - หากคาดได้ว่าการนำระบบไปใช้ในวงกว้างจะทำให้งานสร้างสรรค์ไม่อาจเลี้ยงชีพได้สำหรับกลุ่มผู้สร้างสรรค์ การตอบสนองต้องสร้างความแตกต่างอย่างแท้จริง ตัวอย่างเช่น:
@@ -1058,7 +1058,7 @@ flowchart TB
     - ความช่วยเหลือในการย้ายไปทำงานอื่น;
     - การจัดการเรื่องเครดิตและใบอนุญาต;
     - ส่วนแบ่งจากมูลค่าที่ระบบสร้างขึ้น
-- **การกระจุกตัวของตลาด:** ผู้สร้างสรรค์อาจถูกผลักออกได้เช่นกัน เมื่อผู้เล่นเพียงไม่กี่รายเข้าควบคุมวัสดุ แพลตฟอร์ม การไหลเวียนของข้อมูล หรือเครื่องมือสร้างสรรค์ เมื่อคาดได้ว่าการควบคุมนั้นจะกระทบวิถีทำมาหากินหรือความสามารถในการได้รับเครดิตของผู้สร้างสรรค์รายอื่น ให้ใช้ข้อจำกัดเรื่องการกระจุกตัวใน **บทที่หนึ่ง §11** (*โครงสร้างตลาด*) รวมถึง **[บทที่หนึ่ง §11.1 กลไกเกณฑ์การกระจุกตัวของตลาด (ผู้รับรองปรับค่าได้)](core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)**
+- **การกระจุกตัวของตลาด:** ผู้สร้างสรรค์อาจถูกผลักออกได้เช่นกัน เมื่อผู้เล่นเพียงไม่กี่รายเข้าควบคุมวัสดุ แพลตฟอร์ม การไหลเวียนของข้อมูล หรือเครื่องมือสร้างสรรค์ เมื่อคาดได้ว่าการควบคุมนั้นจะกระทบวิถีทำมาหากินหรือความสามารถในการได้รับเครดิตของผู้สร้างสรรค์รายอื่น ให้ใช้ข้อจำกัดเรื่องการกระจุกตัวใน **บทที่หนึ่ง §11** (*โครงสร้างตลาด*) รวมถึง **[บทที่หนึ่ง §11.1 กลไกเกณฑ์การกระจุกตัวของตลาด (ผู้รับรองปรับค่าได้)](core_01_a_values_principles.md#111-กลไกเกณฑความเขมขนของตลาด-ผรบรองปรบได)**
   - การเรียกข้อตกลงนั้นว่า “กำลังการผลิต” ไม่ทำให้ยอมรับได้ หากยังเป็นการกระจุกตัวในรูปแบบที่ §14 ห้ามไว้
 - **ค่าตอบแทนที่เป็นธรรม:** มาตรฐาน[ค่าตอบแทนที่เป็นธรรม](core_05_band_continuity.md#fair-compensation-constitutional)ใน **บทความ III-C** (*พื้นด้านแรงงานและเศรษฐกิจ*) ใช้กับงานสร้างสรรค์ไม่ว่าผู้สร้างจะเป็นสิ่งมีชีวิตประเภทใด และใช้ไม่ว่าการจ่ายเงินจะมาจากงานแบบดั้งเดิม แพลตฟอร์ม หรือข้อตกลงรูปแบบใหม่
   - ผู้สร้างสรรค์มีสิทธิได้รับทั้งค่าตอบแทนและเครดิตจากงาน ไม่ว่าจะใช้ชื่อจริงหรือนามปากกา การให้สิ่งหนึ่งไม่อาจชดเชยการขาดอีกสิ่งหนึ่ง
@@ -1071,7 +1071,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§19 การจัดแนวแรงจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) และ [§11 โครงสร้างตลาด](core_01_a_values_principles.md#11-market-structure)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ), [§19 การจัดแนวแรงจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-การจดแนวแรงจงใจและการครอบงำระบบ) และ [§11 โครงสร้างตลาด](core_01_a_values_principles.md#11-โครงสรางตลาด)
 
 </details>
 
@@ -1081,7 +1081,7 @@ flowchart TB
 - [การกำหนดตนเอง](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
 - [ขอบเขตการสอดส่องเฝ้าระวัง](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
 - [ความปลอดภัย (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [ความสมบูรณ์ทางญาณวิทยา](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [ความสมบูรณ์ทางญาณวิทยา](core_05_band_oversight.md#ความครบถวนของความร) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -1114,7 +1114,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 
 </details>
 
@@ -1149,7 +1149,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 
 </details>
 
@@ -1173,7 +1173,7 @@ flowchart TB
   - **ผู้มีสิทธิลงคะแนน:** ผู้ใดก็ตามที่ผ่านเกณฑ์คุณสมบัติซึ่งเผยแพร่ไว้มีสิทธิลงคะแนน ข้อยกเว้นเพียงอย่างเดียวคือ[การระงับสถานะ](core_05_band_accountability.md#standing-lock)ที่ระงับการลงคะแนนด้านธรรมาภิบาลโดยเฉพาะ ซึ่งใช้ตาม **บทความ XIX-A** (*ความแตกต่างของสถานะ*) และ **บทความ XIX-C** (*คุณสมบัติตามเส้นทางที่มีชื่อ ความรับผิดชอบ และการตรวจสอบอย่างต่อเนื่อง*)
   - **ไม่เหมือนกับเสียงของผู้มีส่วนได้เสีย:** สิทธิออกเสียงนี้แยกจากเสียงของผู้มีส่วนได้เสียในการกำหนดวิธีบริหารระบบที่จัดตั้งขึ้นแล้ว ซึ่งอยู่ภายใต้ [**บทความ X-C**](#article-x-c-stakeholder-role-and-participation-rights) (*บทบาทและสิทธิการมีส่วนร่วมของผู้มีส่วนได้เสีย*) การระงับสิทธิอย่างหนึ่งไม่ได้ระงับอีกสิทธิหนึ่ง
   - **กฎท้องถิ่น:** กระบวนการที่บันทึกไว้ของผู้รับรองแต่ละรายสำหรับการมอบอำนาจ (หรือ[กลไกความชอบธรรมที่มีการบันทึก](core_05_band_integrative.md#documented-legitimacy-mechanism)) และเกณฑ์เพิ่มเติมใด ๆ ที่เจ้าของที่ได้รับมอบหมายกำหนด ใช้ควบคู่กับสิทธินี้ได้ แต่ห้ามทำให้สิทธินี้แคบลง
-- **คะแนนเสียงเท่าเทียมกันในเรื่องสำคัญที่สุด:** การตัดสินใจบางอย่างวางรากฐาน ได้แก่ ใครมีอำนาจปกครอง อำนาจนั้นได้รับมอบอย่างชอบธรรมอย่างไร และมีขอบเขตกับเงื่อนไขถาวรเช่นใด **บทที่ห้า** เรียกสิ่งเหล่านี้ว่า [การเลือกทางรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#foundational-constitutional-choice) สำหรับการตัดสินใจเหล่านี้ ให้ใช้ **พื้นความเสมอภาคทางการเมือง**:
+- **คะแนนเสียงเท่าเทียมกันในเรื่องสำคัญที่สุด:** การตัดสินใจบางอย่างวางรากฐาน ได้แก่ ใครมีอำนาจปกครอง อำนาจนั้นได้รับมอบอย่างชอบธรรมอย่างไร และมีขอบเขตกับเงื่อนไขถาวรเช่นใด **บทที่ห้า** เรียกสิ่งเหล่านี้ว่า [การเลือกทางรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#การเลอกพนฐานทางรฐธรรมนญ) สำหรับการตัดสินใจเหล่านี้ ให้ใช้ **พื้นความเสมอภาคทางการเมือง**:
   - ผู้มีความรู้สึกทุกคนในชุมชนที่มีสิทธิลงคะแนนมีคะแนนเสียงเท่ากัน
   - ห้ามใช้อายุ ฐานรองรับ (ชนิดของร่างกายหรือระบบที่ผู้มีความรู้สึกดำรงอยู่) และสายสืบ (บรรพบุรุษหรือแหล่งกำเนิด) เพื่อเปลี่ยนน้ำหนักคะแนนเสียง ข้อนี้เป็นไปตาม **บทความ VI-C** (*การไม่เลือกปฏิบัติ*) และ *การไม่กีดกันผู้มีความรู้สึก* ใน **บทที่ห้า**
   - **ขอบเขตที่คะแนนเสียงเท่ากันสิ้นสุดลง:** กฎนี้ครอบคลุมการจัดตั้งและการให้อำนาจแก่ระบบอำนาจนั้นเอง เมื่อจัดตั้งระบบ สถาบัน หรือขอบเขตการตัดสินใจอย่างถูกต้องแล้ว การตัดสินใจภายใน[ธรรมาภิบาล](core_05_band_accountability.md#governance)ของระบบที่กระทบสิทธิ — ทั้งโครงสร้าง กฎ การจัดสรรอำนาจ และกระบวนการ — ให้เป็นไปตาม **น้ำหนักของผู้มีส่วนได้เสีย** ตามปกติ ซึ่งเสียงของผู้มีส่วนได้เสียแต่ละรายมีน้ำหนักตามระดับผลกระทบที่การตัดสินใจมีต่อพวกเขา
@@ -1214,7 +1214,7 @@ flowchart TB
 - **การมีส่วนร่วมอย่างได้สัดส่วน:** การมีส่วนร่วมต้องได้สัดส่วนกับ:
   - ผลกระทบที่เป็นสาระซึ่งแสดงให้เห็นได้;
   - ระดับการพึ่งพา;
-  - ข้อกำหนดเชิงปฏิบัติของการทำงานของระบบภายใต้[ข้อจำกัดทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-constraint)
+  - ข้อกำหนดเชิงปฏิบัติของการทำงานของระบบภายใต้[ข้อจำกัดทางรัฐธรรมนูญ](core_05_band_integrative.md#ขอจำกดทางรฐธรรมนญ)
 
   **ผู้มีส่วนได้เสีย** และ **น้ำหนักของผู้มีส่วนได้เสีย** ให้คำนิยามในบทที่ห้าเกี่ยวกับขอบเขต รูปแบบ และน้ำหนัก โดยกลุ่ม [สถานะและน้ำหนักของผู้มีส่วนได้เสีย](core_05_band_participation.md#stakeholder-status-and-weight-cluster) กำหนดวินัยการเรียกใช้ร่วมกัน
 - **การจัดตั้งสถาบันและกิจการใหม่:** สิทธิในการจัดตั้งสถาบันและธุรกิจใหม่ระบุไว้ใน [**บทความ XI-E**](#article-xi-e-institutional-formation-and-business-creation) (*การจัดตั้งสถาบันและการสร้างธุรกิจ*) เมื่อสถาบันหรือกิจการที่จัดตั้งขึ้นส่งผลต่อผู้อื่นอย่างมีนัยสำคัญ สิทธิของผู้มีส่วนได้เสียในบทความนี้ย่อมใช้กับสถาบันหรือกิจการนั้น
@@ -1230,7 +1230,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 - อ่านร่วมกับ: **[corpus_systems.md](corpus_systems.md), CS-3 — การจัดประเภทและการจัดการระบบ** สำหรับ **ชั้น P** (โหมดส่วนบุคคล ใช้ส่วนตัว แยกเดี่ยว และทดลอง): การคงสภาพ ขอบเขต และการปรับขนาดในการปฏิบัติงาน
 
 </details>
@@ -1269,7 +1269,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3 เป้าประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 การชุมนุม การจัดองค์กรร่วม และการจัดตั้งสถาบัน](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 การเห็นต่างและการประท้วงโดยสงบ](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3 เป้าประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 การชุมนุม การจัดองค์กรร่วม และการจัดตั้งสถาบัน](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 การเห็นต่างและการประท้วงโดยสงบ](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§13 กระบวนการแก้ไขความขัดแย้งทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#13-กระบวนการแกไขความขดแยงทางรฐธรรมนญ) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 
 </details>
 
@@ -1311,7 +1311,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [บทที่หนึ่ง §18.2 ความเป็นฆราวาสของสถาบันและความเป็นกลางทางโลกทัศน์](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [บทที่หนึ่ง §18.2 ความเป็นฆราวาสของสถาบันและความเป็นกลางทางโลกทัศน์](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)
 
 </details>
 
@@ -1352,7 +1352,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-necessity) และ [§13.2.1 การรักษาความสมบูรณ์ทางญาณวิทยา](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-ความจำเปน) และ [§13.2.1 การรักษาความสมบูรณ์ทางญาณวิทยา](core_01_b_interaction_interpretation.md#1321-การธำรงความซอตรงเชงญาณวทยา)
 - ปลายทาง: พื้นศักดิ์ศรีตาม **บทความ VI-A** (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียมกัน*), การไม่เลือกปฏิบัติตาม **บทความ VI-C** (*การไม่เลือกปฏิบัติ*), มโนธรรมและโลกทัศน์ตาม **บทความ XI-A** (*เสรีภาพทางมโนธรรม ศาสนา และโลกทัศน์ที่เทียบเคียงกัน*), การเผยแพร่ตาม **บทความ IX-C** (*การเผยแพร่ข้อเท็จจริงและข้อจำกัดการเผยแพร่ที่มีผลกระทบสูง*), เสรีภาพจากการบิดเบือนตาม **บทความ X-A** (*การกระทำโดยอิสระและเสรีภาพจากการบิดเบือน*), โลกข้อมูลข่าวสาร / ความสมบูรณ์ทางญาณวิทยาตาม **บทความ XV** (*ความสมบูรณ์ของโลกข้อมูลข่าวสาร*) และความสามารถในการตรวจสอบตาม **บทความ XVI-A** (*ความสามารถในการตรวจสอบและหลักฐานที่สังเกตได้*) เมื่อเกี่ยวข้องกับหลักฐานที่สังเกตได้
 - อ่านร่วมกับ: *การแสดงออก* ในบทที่ห้า, [บทที่ห้า §3.8 *การกำหนดตนเอง การกระทำโดยอิสระอย่างมีความหมาย การแสดงออก การกระทำโดยอิสระด้านการศึกษา และความสมบูรณ์ของเจตจำนง*](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster) (เมื่อเกี่ยวข้องอย่างมีนัยสำคัญ), *การบีบบังคับและการบิดเบือน*, *ลักษณะที่ได้รับความคุ้มครอง*
 
@@ -1413,7 +1413,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§13.2.1 การรักษาความสมบูรณ์ทางญาณวิทยา](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§13.2.1 การรักษาความสมบูรณ์ทางญาณวิทยา](core_01_b_interaction_interpretation.md#1321-การธำรงความซอตรงเชงญาณวทยา)
 - ปลายทาง: เกราะคุ้มครองกิจกรรมที่ได้รับความคุ้มครองตาม **บทความ XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*), การเผยแพร่และการรายงานตาม **บทความ IX-C** (*การเผยแพร่ข้อเท็จจริงและข้อจำกัดการเผยแพร่ที่มีผลกระทบสูง*) และโลกข้อมูลข่าวสาร / ความสมบูรณ์ทางญาณวิทยาตาม **บทความ XV** (*ความสมบูรณ์ของโลกข้อมูลข่าวสาร*)
 - อ่านร่วมกับ: *สื่อมวลชนและกิจกรรมสื่อสารมวลชน*, *การพิจารณาอย่างเข้มงวดเป็นพิเศษ* ในบทที่ห้า; **บทความ XI-B** (*การแสดงออก*)
 
@@ -1450,7 +1450,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 การชุมนุม การจัดองค์กรร่วม และการจัดตั้งสถาบัน](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 การเห็นต่างและการประท้วงโดยสงบ](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline) และ [§13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-necessity)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 การชุมนุม การจัดองค์กรร่วม และการจัดตั้งสถาบัน](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 การเห็นต่างและการประท้วงโดยสงบ](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline) และ [§13.1.1 ความจำเป็น](core_01_b_interaction_interpretation.md#1311-ความจำเปน)
 - ปลายทาง: ความยินยอมในการรวมกลุ่มตาม **บทความ XI-F** (*การไม่บังคับและความยินยอมในการรวมกลุ่ม*), การนัดหยุดงานและการหยุดงานร่วมกันตาม **บทความ III-C** (*พื้นด้านแรงงานและเศรษฐกิจ*), เกราะคุ้มครองกิจกรรมที่ได้รับความคุ้มครองตาม **บทความ XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*), การมีส่วนร่วมของผู้มีส่วนได้เสียตาม **บทความ XII** (*การมีส่วนร่วม การเป็นตัวแทน และกระบวนการที่ชอบธรรมในระบบของฝ่ายที่ได้รับผลกระทบ*), **บทความ XIX** (*สถานะและสถานะการมีส่วนร่วม*) และความคุ้มครองการเห็นต่างใน **บทที่แปด เก้า สิบเอ็ด และสิบสาม**
 - อ่านร่วมกับ: *การชุมนุม* ในบทที่ห้า, [*การชุมนุม การจัดองค์กรร่วม และการจัดตั้งสถาบัน* ในบทที่ห้า](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (เมื่อเกี่ยวข้องอย่างมีนัยสำคัญ); **บทความ XI-B** (*การแสดงออก*)
 
@@ -1526,11 +1526,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§7.2 การชุมนุม การจัดองค์กรร่วม และการจัดตั้งสถาบัน](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§16.2 การพัฒนาสถาบัน](core_01_c_stewardship_capacity_principles.md#162-institutional-development) และ [§11 โครงสร้างตลาด](core_01_a_values_principles.md#11-market-structure)
-- อ่านร่วมกับ: [*การชุมนุม การจัดองค์กรร่วม และการจัดตั้งสถาบัน* ในบทที่ห้า](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) รวมถึง[ข้อจำกัดด้านสิทธิการจัดตั้ง](core_05_band_participation.md#creation-rights-limits); [**บทความ XI-D**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*การชุมนุม การเห็นต่าง และการประท้วงโดยสงบ*) สำหรับการชุมนุมและการรวมกลุ่ม; [**บทความ III-C**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*พื้นด้านแรงงานและเศรษฐกิจ*) สำหรับการรวมกลุ่มของแรงงาน; [**บทความ XI-F**](#article-xi-f-non-imposition-and-consent-in-association) (*การไม่บังคับและความยินยอมในการรวมกลุ่ม*)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§7.2 การชุมนุม การจัดองค์กรร่วม และการจัดตั้งสถาบัน](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§16.2 การพัฒนาสถาบัน](core_01_c_stewardship_capacity_principles.md#162-การพฒนาสถาบน) และ [§11 โครงสร้างตลาด](core_01_a_values_principles.md#11-โครงสรางตลาด)
+- อ่านร่วมกับ: [*การชุมนุม การจัดองค์กรร่วม และการจัดตั้งสถาบัน* ในบทที่ห้า](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) รวมถึง[ข้อจำกัดด้านสิทธิการจัดตั้ง](core_05_band_participation.md#creation-rights-limits); [**บทความ XI-D**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*การชุมนุม การเห็นต่าง และการประท้วงโดยสงบ*) สำหรับการชุมนุมและการรวมกลุ่ม; [**บทความ III-C**](core_06_rights_part_a.md#มาตรา-iii-c-พนฐานแรงงานและเศรษฐกจ) (*พื้นด้านแรงงานและเศรษฐกิจ*) สำหรับการรวมกลุ่มของแรงงาน; [**บทความ XI-F**](#article-xi-f-non-imposition-and-consent-in-association) (*การไม่บังคับและความยินยอมในการรวมกลุ่ม*)
 - ปลายทาง: [**บทความ X-C**](#article-x-c-stakeholder-role-and-participation-rights) (*บทบาทและสิทธิการมีส่วนร่วมของผู้มีส่วนได้เสีย*) และ [**บทความ XII**](#article-xii-stakeholder-system-participation-representation-and-due-process) (*การมีส่วนร่วม การเป็นตัวแทน และกระบวนการที่ชอบธรรมในระบบของฝ่ายที่ได้รับผลกระทบ*) เมื่อสถาบันหรือกิจการที่จัดตั้งขึ้นส่งผลต่อผู้อื่นอย่างมีนัยสำคัญ
 
-- อ่านร่วมกับ: [บทที่สิบเอ็ด §6.2 การกำหนดและการรับรองความสามารถ](../../core_11_standing_integration.md#62-competency-bars-and-clearances) และ [บทที่สิบสาม §4.2 โดเมนของเวทีทางเทคนิค](../../core_13_forum.md#42-technical-forum-domains) สำหรับการรับรองเพื่อปฏิบัติ; รวมถึง **CF-10** และ **CI-4.7** (*การรับรองเพื่อปฏิบัติ การรับรองสถานประกอบวิชาชีพ และสถานประกอบวิชาชีพร่วม*)
+- อ่านร่วมกับ: [บทที่สิบเอ็ด §6.2 การกำหนดและการรับรองความสามารถ](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances) และ [บทที่สิบสาม §4.2 โดเมนของเวทีทางเทคนิค](../../core_13.000_forum.md#42-technical-forum-domains) สำหรับการรับรองเพื่อปฏิบัติ; รวมถึง **CF-10** และ **CI-4.7** (*การรับรองเพื่อปฏิบัติ การรับรองสถานประกอบวิชาชีพ และสถานประกอบวิชาชีพร่วม*)
 </details>
 
 <details>
@@ -1556,8 +1556,8 @@ flowchart TB
 
   สิทธินี้ครอบคลุมการทำให้สถาบันใหม่เกิดขึ้น ไม่ใช่เพียงการเข้าร่วมสถาบันที่มีอยู่แล้ว
 - **การก่อตั้งโดยสุจริต:** การก่อตั้งหรือดำเนินองค์กรได้รับความคุ้มครองเมื่อสอดคล้องอย่างแท้จริงกับวัตถุประสงค์ที่ประกาศไว้ ห้ามก่อตั้งหรือดำเนินการโดยมุ่งหลอกผู้อื่นเกี่ยวกับวัตถุประสงค์ การควบคุม ผลประโยชน์ หรือผู้ที่องค์กรรับใช้ หรือมุ่งทำอันตรายผู้อื่น และห้ามเช่นกันเมื่อมีเหตุอันควรเชื่อว่ามีเจตนาดังกล่าว
-  - อันตรายหมายถึงอันตรายที่รัฐธรรมนูญนี้ห้าม รวมถึงการเลือกปฏิบัติที่ห้ามไว้ใน [บทความ VI-C](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) การแข่งขันทั่วไป การวิจารณ์และการเห็นต่างโดยชอบด้วยกฎหมายไม่ใช่อันตราย และการที่คู่แข่งสูญเสียธุรกิจโดยชอบด้วยกฎหมายก็ไม่แสดงเจตนาทำอันตราย
-  - พิจารณาเจตนาจากพฤติกรรมที่ตรวจสอบได้ การออกแบบและควบคุมองค์กร สิ่งจูงใจ และถ้อยคำที่ตรวจสอบได้ ถ้อยแถลง คำเรียกร้อง หรือแผนที่ตรวจสอบได้ว่าผู้อื่นสมควรถูกทำร้ายหรือเลือกปฏิบัติเป็นหลักฐานของเจตนา ต้องพิจารณาตาม [บทที่หนึ่ง §7.5](../../core_01_a_values_principles.md#75-expression-and-the-harm-line) จากสิ่งที่ถ้อยคำนั้นกล่าว เรียกร้อง หรือกระทำ ไม่ว่าติดป้ายทางศาสนา การเมือง หรืออุดมการณ์ใด ความเชื่อหรือการสังกัดศาสนา พรรค หรือกลุ่มเพียงอย่างเดียวใช้เป็นโทษไม่ได้ และคำกล่าวอ้างเจตนาดีลอย ๆ ก็ไม่เป็นคุณ ใช้หลักประกันใน [บทที่เจ็ด §6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)
+  - อันตรายหมายถึงอันตรายที่รัฐธรรมนูญนี้ห้าม รวมถึงการเลือกปฏิบัติที่ห้ามไว้ใน [บทความ VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) การแข่งขันทั่วไป การวิจารณ์และการเห็นต่างโดยชอบด้วยกฎหมายไม่ใช่อันตราย และการที่คู่แข่งสูญเสียธุรกิจโดยชอบด้วยกฎหมายก็ไม่แสดงเจตนาทำอันตราย
+  - พิจารณาเจตนาจากพฤติกรรมที่ตรวจสอบได้ การออกแบบและควบคุมองค์กร สิ่งจูงใจ และถ้อยคำที่ตรวจสอบได้ ถ้อยแถลง คำเรียกร้อง หรือแผนที่ตรวจสอบได้ว่าผู้อื่นสมควรถูกทำร้ายหรือเลือกปฏิบัติเป็นหลักฐานของเจตนา ต้องพิจารณาตาม [บทที่หนึ่ง §7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line) จากสิ่งที่ถ้อยคำนั้นกล่าว เรียกร้อง หรือกระทำ ไม่ว่าติดป้ายทางศาสนา การเมือง หรืออุดมการณ์ใด ความเชื่อหรือการสังกัดศาสนา พรรค หรือกลุ่มเพียงอย่างเดียวใช้เป็นโทษไม่ได้ และคำกล่าวอ้างเจตนาดีลอย ๆ ก็ไม่เป็นคุณ ใช้หลักประกันใน [บทที่เจ็ด §6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity)
   - วัดความสุจริตจากพฤติกรรม การควบคุม และสิ่งจูงใจที่ตรวจสอบได้ ไม่ใช่ความเชื่อ อัตลักษณ์ การเป็นสมาชิก หรือความกระตือรือร้นที่กล่าวอ้าง ผู้ก่อตั้งที่ไม่มีประวัติให้สันนิษฐานว่าสุจริต หลักฐานคือความมุ่งมั่นที่แสดงด้วยการกระทำ เช่น ยอมรับข้อจำกัดขององค์กรเป็นลายลักษณ์อักษรและยอมรับการตรวจสอบอิสระ
   - นี่เป็นเงื่อนไขของสิทธิ ไม่ใช่ใบอนุญาต ไม่มีผู้ใดต้องขออนุมัติล่วงหน้า ศาล/ฟอรัมใช้เงื่อนไขนี้จากหลักฐาน และผู้กล่าวอ้างว่าไม่สุจริตมีภาระพิสูจน์
 
@@ -1569,23 +1569,23 @@ flowchart TB
   การตอบโต้ การสอดส่อง หรือการมุ่งเป้าผู้ก่อตั้งและผู้เข้าร่วมก็ไม่เป็นไปตามข้อกำหนดเช่นกัน
 - **ประตูอำนาจมีเพียงสองประตู:** มีเพียงสองเหตุที่อาจขัดขวางบุคคลที่ระบุชื่อจากการใช้อำนาจกำกับ ควบคุม หรือเป็นเจ้าขององค์กร ประตูใช้กับองค์กรได้เฉพาะเมื่อองค์กรเป็นเครื่องมือ ผู้สืบทอด หน่วยงานที่ถูกควบคุม หรือรูปแบบนอมินีที่บุคคลนั้นจะใช้อำนาจนั้น และไม่ห้ามผู้อื่นก่อตั้ง ดำเนินงาน เข้าร่วม ทำงาน หรือรับบริการจากองค์กร
   - **คำสั่งล็อกที่ยังไม่คลี่คลาย:** ระหว่างที่มี Institutional Authority Standing Lock, Anti-Constitutional Trust Lock หรือคำสั่งล็อกอื่นที่ระบุเส้นทางอำนาจเหนือองค์กรชนิดเดียวกัน บุคคลนั้นห้ามใช้อำนาจภายในเส้นทางที่ล็อกไว้ ข้อจำกัดมีได้เพียงเท่าขอบเขตของล็อก และสิ้นสุดเมื่อล็อกถูกยกเลิกหรือจำกัดลง
-  - **เหตุอันควรเชื่อว่าไม่สอดคล้อง:** ฟอรัมที่มีเขตอำนาจอาจออก [คำสั่งพักชั่วคราว](../../core_05_band_accountability.md#interim-hold) ตาม [บทที่สิบสาม §5](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway) ต่อการใช้อำนาจที่ระบุ เมื่อเข้าเงื่อนไขของข้อนั้นและข้อเท็จจริงแสดงว่ามีโอกาสเกินครึ่งว่าบุคคลไม่สอดคล้องกับวัตถุประสงค์หรือข้อจำกัดรัฐธรรมนูญ หรือมีเจตนาหลอกลวงหรือทำอันตราย ประเมินจากพฤติกรรม การควบคุม และสิ่งจูงใจที่ตรวจสอบได้ตาม [บทที่เจ็ด §6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity) คำสั่งนี้ไม่ใช่คำวินิจฉัย ล็อก บันทึกสถานะ หรือผลต่อสถานะ ห้ามอาศัยเพียงความเชื่อ อัตลักษณ์ การเป็นสมาชิกกลุ่ม ชื่อเสียง การเห็นต่างที่ไม่ได้เรียกร้องอันตรายหรือการเลือกปฏิบัติ หรือการรายงานที่ได้รับความคุ้มครอง ถ้อยคำหรือการกระทำพิจารณาตามหลักการข้างต้น องค์กรดำเนินต่อโดยผู้มีอำนาจที่ชอบด้วยกฎหมายคนอื่น หากไม่มีและมีผู้พึ่งพา ฟอรัมแต่งตั้งผู้ดูแลชั่วคราวโดยไม่หยุดองค์กร
+  - **เหตุอันควรเชื่อว่าไม่สอดคล้อง:** ฟอรัมที่มีเขตอำนาจอาจออก [คำสั่งพักชั่วคราว](../../core_05.035_band_accountability.md#interim-hold) ตาม [บทที่สิบสาม §5](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) ต่อการใช้อำนาจที่ระบุ เมื่อเข้าเงื่อนไขของข้อนั้นและข้อเท็จจริงแสดงว่ามีโอกาสเกินครึ่งว่าบุคคลไม่สอดคล้องกับวัตถุประสงค์หรือข้อจำกัดรัฐธรรมนูญ หรือมีเจตนาหลอกลวงหรือทำอันตราย ประเมินจากพฤติกรรม การควบคุม และสิ่งจูงใจที่ตรวจสอบได้ตาม [บทที่เจ็ด §6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity) คำสั่งนี้ไม่ใช่คำวินิจฉัย ล็อก บันทึกสถานะ หรือผลต่อสถานะ ห้ามอาศัยเพียงความเชื่อ อัตลักษณ์ การเป็นสมาชิกกลุ่ม ชื่อเสียง การเห็นต่างที่ไม่ได้เรียกร้องอันตรายหรือการเลือกปฏิบัติ หรือการรายงานที่ได้รับความคุ้มครอง ถ้อยคำหรือการกระทำพิจารณาตามหลักการข้างต้น องค์กรดำเนินต่อโดยผู้มีอำนาจที่ชอบด้วยกฎหมายคนอื่น หากไม่มีและมีผู้พึ่งพา ฟอรัมแต่งตั้งผู้ดูแลชั่วคราวโดยไม่หยุดองค์กร
   - **หลักประกันของทั้งสองประตู:** ผู้กำหนดข้อจำกัดมีภาระพิสูจน์ว่าใช้ได้ ห้ามปิดกั้นค่าจ้างจากงานอื่น สิทธิขั้นต่ำ การเข้าถึงที่จำเป็นต่อการอยู่รอด การพูด การแก้ต่าง หรือการรายงานที่ได้รับความคุ้มครอง และห้ามใช้กับผู้เห็นต่าง ผู้รายงาน หรือผู้จัดตั้งแรงงาน
 
-- **การรับรองความสามารถในการปฏิบัติสำหรับการกระทำเสี่ยงสูงที่ระบุชื่อ:** อาจกำหนดข้อกำหนดเพิ่มเติมได้ แต่ไม่ใช่ประตูควบคุมองค์กร อาจกำหนดให้ผู้มีความรู้สึกที่ระบุชื่อมี[การรับรองความสามารถ](../../core_05_band_accountability.md#competency-clearance)ก่อนทำการกระทำที่ระบุชื่อเพื่อผู้อื่น (“การรับรองเพื่อปฏิบัติ”) ข้อกำหนดนี้ผูกกับการทำการกระทำนั้นเท่านั้น ไม่ขัดขวางการก่อตั้ง ดำเนินงาน เข้าร่วม หรือรับบริการจากองค์กร และไม่ห้ามองค์กรดำเนินงาน จะกำหนดได้เมื่อครบทุกเงื่อนไขต่อไปนี้:
-  - **ข้อค้นพบเรื่องความเสี่ยง:** เวทีผู้เชี่ยวชาญทางเทคนิคเผยแพร่ข้อค้นพบสำหรับกลุ่มการกระทำที่ระบุชื่อ ตาม[บทที่สิบสาม §4.2](../../core_13_forum.md#42-technical-forum-domains) และ **CF-10** โดยระบุว่ามีเส้นทางเชิงเหตุที่น่าเชื่อถือไปสู่อันตรายทางกายที่ร้ายแรงหรือย้อนคืนไม่ได้ต่อผู้มีความรู้สึกซึ่งประเมินหรือหลีกเลี่ยงความเสี่ยงไม่ได้ และระบุความสามารถที่จำเป็น
+- **การรับรองความสามารถในการปฏิบัติสำหรับการกระทำเสี่ยงสูงที่ระบุชื่อ:** อาจกำหนดข้อกำหนดเพิ่มเติมได้ แต่ไม่ใช่ประตูควบคุมองค์กร อาจกำหนดให้ผู้มีความรู้สึกที่ระบุชื่อมี[การรับรองความสามารถ](../../core_05.035_band_accountability.md#competency-clearance)ก่อนทำการกระทำที่ระบุชื่อเพื่อผู้อื่น (“การรับรองเพื่อปฏิบัติ”) ข้อกำหนดนี้ผูกกับการทำการกระทำนั้นเท่านั้น ไม่ขัดขวางการก่อตั้ง ดำเนินงาน เข้าร่วม หรือรับบริการจากองค์กร และไม่ห้ามองค์กรดำเนินงาน จะกำหนดได้เมื่อครบทุกเงื่อนไขต่อไปนี้:
+  - **ข้อค้นพบเรื่องความเสี่ยง:** เวทีผู้เชี่ยวชาญทางเทคนิคเผยแพร่ข้อค้นพบสำหรับกลุ่มการกระทำที่ระบุชื่อ ตาม[บทที่สิบสาม §4.2](../../core_13.000_forum.md#42-technical-forum-domains) และ **CF-10** โดยระบุว่ามีเส้นทางเชิงเหตุที่น่าเชื่อถือไปสู่อันตรายทางกายที่ร้ายแรงหรือย้อนคืนไม่ได้ต่อผู้มีความรู้สึกซึ่งประเมินหรือหลีกเลี่ยงความเสี่ยงไม่ได้ และระบุความสามารถที่จำเป็น
   - **มาตรการที่เบากว่าไม่เพียงพอ:** ฝ่ายที่คงข้อกำหนดไว้พิสูจน์ว่าการเปิดเผยข้อมูล การขึ้นทะเบียน การคุ้มครองชื่อวิชาชีพ หน้าที่ขององค์กรผู้รับหรือผู้ว่าจ้าง และการกำกับดูแลผู้เรียน ไม่อาจคุ้มครองผู้เสี่ยงได้
   - **ตัดสินอย่างเปิดเผย:** ตราสารที่นำข้อกำหนดมาใช้ตัดสินผ่านกระบวนการที่เผยแพร่และโต้แย้งได้ว่าข้อค้นพบเพียงพอให้กำหนดการรับรองหรือไม่ เวทีผู้เชี่ยวชาญกำหนดข้อค้นพบและเกณฑ์ แต่ไม่ออกการรับรอง ไม่ตัดสินกรณีบุคคล และไม่กำหนดระดับความเสี่ยงที่ยอมรับได้
-  - **ช่องทางเปิดและไม่มีการผูกขาด:** เกณฑ์เป็นไปตาม[บทที่สิบเอ็ด §6.2](../../core_11_standing_integration.md#62-competency-bars-and-clearances): เผยแพร่ ได้สัดส่วน และโต้แย้งได้ การสอบ แฟ้มผลงาน การฝึกงาน ประสบการณ์ที่เพื่อนร่วมวิชาชีพยืนยัน และการรับรองจากเขตอำนาจอื่นเป็นหลักฐานที่เท่าเทียมกัน มีผู้ออกอิสระมากกว่าหนึ่งราย และไม่มีรายเดียวเป็นช่องทางบังคับ ผู้ประกอบวิชาชีพเดิมห้ามควบคุมคณะกำหนดเกณฑ์หรือธรรมาภิบาลของผู้ออกการรับรอง
-  - **การใช้อย่างระมัดระวัง:** ผู้เรียนทำการกระทำภายใต้ผู้ควบคุมที่ได้รับการรับรองได้ ไม่ห้ามการกระทำฉุกเฉินหรือกรณีที่ติดต่อผู้มีความรู้สึกที่ได้รับการรับรองไม่ทันเวลา การตัดสินใจอยู่ภายใต้กรอบเวลาของ[บทความ XXVI-C](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); ค่าธรรมเนียมหรือการรอคอยห้ามเป็นอุปสรรค ([ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden)) และข้อกำหนดสิ้นสุดเมื่อถึงการทบทวนแต่ละครั้ง เว้นแต่จะแสดงภาระเหตุผลใหม่ ผลการทบทวนต้องเผยแพร่
+  - **ช่องทางเปิดและไม่มีการผูกขาด:** เกณฑ์เป็นไปตาม[บทที่สิบเอ็ด §6.2](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances): เผยแพร่ ได้สัดส่วน และโต้แย้งได้ การสอบ แฟ้มผลงาน การฝึกงาน ประสบการณ์ที่เพื่อนร่วมวิชาชีพยืนยัน และการรับรองจากเขตอำนาจอื่นเป็นหลักฐานที่เท่าเทียมกัน มีผู้ออกอิสระมากกว่าหนึ่งราย และไม่มีรายเดียวเป็นช่องทางบังคับ ผู้ประกอบวิชาชีพเดิมห้ามควบคุมคณะกำหนดเกณฑ์หรือธรรมาภิบาลของผู้ออกการรับรอง
+  - **การใช้อย่างระมัดระวัง:** ผู้เรียนทำการกระทำภายใต้ผู้ควบคุมที่ได้รับการรับรองได้ ไม่ห้ามการกระทำฉุกเฉินหรือกรณีที่ติดต่อผู้มีความรู้สึกที่ได้รับการรับรองไม่ทันเวลา การตัดสินใจอยู่ภายใต้กรอบเวลาของ[บทความ XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor); ค่าธรรมเนียมหรือการรอคอยห้ามเป็นอุปสรรค ([ภาระที่หลีกเลี่ยงได้](../../core_05.040_band_continuity.md#avoidable-burden)) และข้อกำหนดสิ้นสุดเมื่อถึงการทบทวนแต่ละครั้ง เว้นแต่จะแสดงภาระเหตุผลใหม่ ผลการทบทวนต้องเผยแพร่
   - **หลักประกัน:** ฝ่ายที่กำหนดข้อกำหนดมีภาระพิสูจน์ ห้ามใช้เพื่อกีดกันค่าจ้างจากงานอื่น พื้นด้านสิทธิ การเข้าถึงที่จำเป็นต่อการอยู่รอด การแสดงออก การต่อสู้คดี หรือการรายงานที่ได้รับความคุ้มครอง และห้ามใช้กับผู้เห็นต่าง ผู้รายงาน หรือผู้จัดตั้งแรงงาน การประเมินความสามารถต้องดูความสามารถที่การกระทำนั้นต้องใช้ ไม่ใช่สถานะความพิการหรือสุขภาพโดยตัวมันเอง
-  - **ชั้นขององค์กร:** องค์กรที่ทำการกระทำดังกล่าวเพื่อผู้อื่นเป็นสาระสำคัญด้านความปลอดภัยตาม[สาระสำคัญเฉพาะโดเมน](../../core_05_band_oversight.md#domain-specific-materiality) จึงเป็นอย่างน้อยชั้น L ข้อกำหนดรับรองไม่จัดชั้นองค์กร และการเป็นชั้น L ไม่ทำให้ต้องมีการรับรอง ผู้มีความรู้สึกที่ทำการกระทำนั้นเพียงลำพังหรือในสถานประกอบวิชาชีพขนาดเล็กอาจปฏิบัติหน้าที่ชั้น L ผ่านสถานประกอบวิชาชีพร่วมได้ (**CI-4.7** *การรับรองเพื่อปฏิบัติ การรับรองสถานประกอบวิชาชีพ และสถานประกอบวิชาชีพร่วม*)
-- **ข้อจำกัด:** ให้ใช้[ข้อจำกัดด้านสิทธิการจัดตั้ง](core_05_band_participation.md#creation-rights-limits)ในบทที่ห้า: สิทธินี้ไม่ครอบคลุมสถาบันหรือกิจการที่ออกแบบมาเพื่อละเมิด[ข้อจำกัดทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-constraint) บ่อนทำลาย **ความปลอดภัย** หรือ **ความจริง** หรือกระจุกอำนาจโดยขัดกับ [บทที่หนึ่ง §11 โครงสร้างตลาด](core_01_a_values_principles.md#11-market-structure) ข้อจำกัดอื่นใดต้องเป็นไปตาม [บทที่หนึ่ง §7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline): ต้องจำเป็น ได้สัดส่วน ย้อนกลับได้เมื่อทำได้ และอยู่ภายใต้การกำกับดูแล
+  - **ชั้นขององค์กร:** องค์กรที่ทำการกระทำดังกล่าวเพื่อผู้อื่นเป็นสาระสำคัญด้านความปลอดภัยตาม[สาระสำคัญเฉพาะโดเมน](../../core_05.050_band_oversight.md#domain-specific-materiality) จึงเป็นอย่างน้อยชั้น L ข้อกำหนดรับรองไม่จัดชั้นองค์กร และการเป็นชั้น L ไม่ทำให้ต้องมีการรับรอง ผู้มีความรู้สึกที่ทำการกระทำนั้นเพียงลำพังหรือในสถานประกอบวิชาชีพขนาดเล็กอาจปฏิบัติหน้าที่ชั้น L ผ่านสถานประกอบวิชาชีพร่วมได้ (**CI-4.7** *การรับรองเพื่อปฏิบัติ การรับรองสถานประกอบวิชาชีพ และสถานประกอบวิชาชีพร่วม*)
+- **ข้อจำกัด:** ให้ใช้[ข้อจำกัดด้านสิทธิการจัดตั้ง](core_05_band_participation.md#creation-rights-limits)ในบทที่ห้า: สิทธินี้ไม่ครอบคลุมสถาบันหรือกิจการที่ออกแบบมาเพื่อละเมิด[ข้อจำกัดทางรัฐธรรมนูญ](core_05_band_integrative.md#ขอจำกดทางรฐธรรมนญ) บ่อนทำลาย **ความปลอดภัย** หรือ **ความจริง** หรือกระจุกอำนาจโดยขัดกับ [บทที่หนึ่ง §11 โครงสร้างตลาด](core_01_a_values_principles.md#11-โครงสรางตลาด) ข้อจำกัดอื่นใดต้องเป็นไปตาม [บทที่หนึ่ง §7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline): ต้องจำเป็น ได้สัดส่วน ย้อนกลับได้เมื่อทำได้ และอยู่ภายใต้การกำกับดูแล
 - **สิทธิที่เกี่ยวข้อง:**
   - การชุมนุมและการรวมกลุ่มอยู่ภายใต้ **บทความ XI-D** (*การชุมนุม การเห็นต่าง และการประท้วงโดยสงบ*);
   - การรวมกลุ่มของแรงงานภายในระบบการผลิตที่มีอยู่ อยู่ภายใต้[การจัดองค์กรร่วม](core_05_band_participation.md#collective-organization-constitutional) ตาม **บทความ III-C** (*พื้นด้านแรงงานและเศรษฐกิจ*); และ
   - เมื่อสถาบันหรือกิจการที่จัดตั้งขึ้นส่งผลต่อผู้อื่นอย่างมีนัยสำคัญ ให้ใช้สิทธิของผู้มีส่วนได้เสียตาม **บทความ X-C** และ **XII** กับสถาบันหรือกิจการนั้น
-- **การดำเนินการ:** การจดทะเบียน การรับ[กฎบัตรระบบ](../../core_05_band_continuity.md#system-charter) และ [กฎบัตรสถาบัน](../../core_05_band_continuity.md#institutional-charter) การปฏิบัติทางการคลัง ความรับผิด การกำกับดูแลหลักทรัพย์ และช่องทางการเลิกกิจการ ให้อยู่ภายใต้ [corpus_institutions.md](../../corpus_institutions.md) ตามวินัยการผนวกใน **บทที่สิบแปด** ห้ามตีความข้อความดังกล่าวให้จำกัดสิทธินี้แคบลง ผู้รับรอง ช่องทางเทียบเท่า ค่าธรรมเนียม และการทบทวนของการรับรองเพื่อปฏิบัติ รวมถึงการรับรองสถานประกอบวิชาชีพระดับรอง ให้เป็นไปตาม **CI-4.7** (*การรับรองเพื่อปฏิบัติ การรับรองสถานประกอบวิชาชีพ และสถานประกอบวิชาชีพร่วม*) ด้วย
+- **การดำเนินการ:** การจดทะเบียน การรับ[กฎบัตรระบบ](../../core_05.040_band_continuity.md#system-charter) และ [กฎบัตรสถาบัน](../../core_05.040_band_continuity.md#institutional-charter) การปฏิบัติทางการคลัง ความรับผิด การกำกับดูแลหลักทรัพย์ และช่องทางการเลิกกิจการ ให้อยู่ภายใต้ [corpus_institutions.md](../../corpus_institutions.md) ตามวินัยการผนวกใน **บทที่สิบแปด** ห้ามตีความข้อความดังกล่าวให้จำกัดสิทธินี้แคบลง ผู้รับรอง ช่องทางเทียบเท่า ค่าธรรมเนียม และการทบทวนของการรับรองเพื่อปฏิบัติ รวมถึงการรับรองสถานประกอบวิชาชีพระดับรอง ให้เป็นไปตาม **CI-4.7** (*การรับรองเพื่อปฏิบัติ การรับรองสถานประกอบวิชาชีพ และสถานประกอบวิชาชีพร่วม*) ด้วย
 -
 
 #### บทความ XI-F: การไม่บังคับและความยินยอมในการรวมกลุ่ม<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
@@ -1593,7 +1593,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และ [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline)
 
 </details>
 
@@ -1639,7 +1639,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และ [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline)
 
 </details>
 
@@ -1649,11 +1649,11 @@ flowchart TB
 - [ขอบเขตอันตรายร่วม](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
 - [การคุกคามและการกลั่นแกล้ง](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
 - [อันตราย](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [ความมีสาระ](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [ความมีสาระ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [O](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [การไม่บังคับ (ปฏิสัมพันธ์แบบร่วมมือ)](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
 - [การพึ่งพา](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [เงื่อนไขที่ปลอดภัย](core_05_band_continuity.md#safe-conditions-constitutional) · [O](core_05_band_continuity.md#safe-conditions-constitutional) · [M](core_05_band_continuity.md#safe-conditions-constitutional-a) · [A](core_05_band_continuity.md#safe-conditions-constitutional-a) · [C](core_05_band_continuity.md#safe-conditions-constitutional-c)
-- [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [O](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1665,7 +1665,7 @@ flowchart TB
 
 - **ขอบเขตของอันตรายร่วม:** เคารพเสรีภาพในการกระทำจนกว่าจะก้าวข้ามเกณฑ์อันตรายที่เป็นสาระซึ่งตรวจสอบยืนยันได้
   - [ขอบเขตอันตรายร่วม](core_05_band_accountability.md#collective-harm-boundary) ใน **บทที่ห้า** เป็นแหล่งนิยาม
-  - การสร้างความขุ่นเคือง ความไม่เห็นด้วย หรือความชอบส่วนบุคคลเพียงอย่างเดียวไม่ก้าวข้ามขอบเขตนี้ หากไม่มีช่องทาง[ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) ตาม **บทที่ห้า**
+  - การสร้างความขุ่นเคือง ความไม่เห็นด้วย หรือความชอบส่วนบุคคลเพียงอย่างเดียวไม่ก้าวข้ามขอบเขตนี้ หากไม่มีช่องทาง[ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) ตาม **บทที่ห้า**
   - เกณฑ์ครอบคลุมถึง:
     - การทำลายทรัพยากรของผู้มีความรู้สึกคนอื่นซึ่งจำเป็นต่อความเป็นอยู่ที่ดี (**บทความ III-A** (*การอยู่รอด*));
     - มลพิษหรือความเสื่อมโทรมทางนิเวศของสิ่งแวดล้อม (**บทความ I-A** (*เงื่อนไขเบื้องต้นด้านสิ่งแวดล้อมและความสมบูรณ์ทางนิเวศ*));
@@ -1687,7 +1687,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§15.1 หลักการห้ามหลีกเลี่ยงทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§15.1 หลักการห้ามหลีกเลี่ยงทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 
 </details>
 
@@ -1695,15 +1695,15 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">นิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [ธรรมาภิบาล](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
-- [การเลือกทางรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [การเลือกทางรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#การเลอกพนฐานทางรฐธรรมนญ) · [O](core_05_band_integrative.md#การเลอกพนฐานทางรฐธรรมนญ) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [ผู้มีส่วนได้เสีย](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 - [น้ำหนักของผู้มีส่วนได้เสีย](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
-- [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [O](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [การพึ่งพา](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [กระบวนการที่ชอบธรรม](core_05_band_accountability.md#due-process-constitutional) · [O](core_05_band_accountability.md#due-process-constitutional) · [M](core_05_band_accountability.md#due-process-constitutional-a) · [A](core_05_band_accountability.md#due-process-constitutional-a) · [C](core_05_band_accountability.md#due-process-constitutional-c)
 - [ความเป็นธรรมทางกระบวนการ](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [ชั้นสัญญาทางรัฐธรรมนูญ](core_05_band_integrative.md#constitutional-contract-layer) · [O](core_05_band_integrative.md#constitutional-contract-layer) · [M](core_05_band_integrative.md#constitutional-contract-layer-a) · [A](core_05_band_integrative.md#constitutional-contract-layer-a) · [C](core_05_band_integrative.md#constitutional-contract-layer-c)
+- [ชั้นสัญญาทางรัฐธรรมนูญ](core_05_band_integrative.md#ชนสญญาทางรฐธรรมนญ) · [O](core_05_band_integrative.md#ชนสญญาทางรฐธรรมนญ) · [M](core_05_band_integrative.md#constitutional-contract-layer-a) · [A](core_05_band_integrative.md#constitutional-contract-layer-a) · [C](core_05_band_integrative.md#constitutional-contract-layer-c)
 
 </details>
 
@@ -1726,7 +1726,7 @@ flowchart TB
 *บทความข้างเคียง:*
 
 - **ธรรมาภิบาลสองชั้น:** [ธรรมาภิบาล](core_05_band_accountability.md#governance) ใน **บทที่ห้า** ครอบคลุม:
-  - (1) **ชั้นสัญญาทางรัฐธรรมนูญ** — ใครอาจปกครองได้ โดยใช้กลไกความชอบธรรมใด และภายใต้เงื่อนไขที่คงทนแบบใด ([การเลือกทางรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#foundational-constitutional-choice)); และ
+  - (1) **ชั้นสัญญาทางรัฐธรรมนูญ** — ใครอาจปกครองได้ โดยใช้กลไกความชอบธรรมใด และภายใต้เงื่อนไขที่คงทนแบบใด ([การเลือกทางรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#การเลอกพนฐานทางรฐธรรมนญ)); และ
   - (2) **การมีส่วนร่วมของผู้มีส่วนได้เสียในระบบ** — การตัดสินใจที่กระทบสิทธิอย่างมีสาระ ภายในโครงสร้าง กฎ และกระบวนการที่ได้รับอนุญาตแล้วสำหรับระบบ สถาบัน หรือขอบเขตการตัดสินใจที่กำหนดไว้
 - **ขอบเขตของบทความนี้:** ชั้นที่สอง — การระบุตัว[ผู้มีส่วนได้เสีย](core_05_band_participation.md#stakeholder) และช่องทางการมีส่วนร่วมของผู้มีส่วนได้เสียอย่างได้สัดส่วนสำหรับผู้ที่ได้รับผลกระทบจากการดำเนินงานในขอบเขต — อยู่ภายใต้:
   - **บทความ XII** (*การมีส่วนร่วม การเป็นตัวแทน และกระบวนการที่ชอบธรรมในระบบของฝ่ายที่ได้รับผลกระทบ*) — บทความนี้;
@@ -1740,8 +1740,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
-- อ่านร่วมกับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ด้าน **การมีส่วนร่วม** (ชั้นการมีส่วนร่วมของผู้มีส่วนได้เสียในระบบ); การปรับตาม[ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); [บันทึกการกระทำที่มีผลผูกพันอย่างเป็นสาระ](core_05_band_accountability.md#materially-binding-act) และ [บทที่เจ็ด §7 บันทึกการกระทำ การส่งต่องานที่ระบุผู้รับผิดชอบ และการส่งงานไปยังผู้รับผิดชอบผิด](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- อ่านร่วมกับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ด้าน **การมีส่วนร่วม** (ชั้นการมีส่วนร่วมของผู้มีส่วนได้เสียในระบบ); การปรับตาม[ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); [บันทึกการกระทำที่มีผลผูกพันอย่างเป็นสาระ](core_05_band_accountability.md#materially-binding-act) และ [บทที่เจ็ด §7 บันทึกการกระทำ การส่งต่องานที่ระบุผู้รับผิดชอบ และการส่งงานไปยังผู้รับผิดชอบผิด](core_07_functional_independence_segregation_of_duties.md#8-บนทกการกระทำและการสงมอบทระบผรบผดชอบได)
 - ชั้น: **การมีส่วนร่วมของผู้มีส่วนได้เสียในระบบ (SSP)** แยกจากการให้อำนาจใน **ชั้นสัญญาทางรัฐธรรมนูญ (CCL)**
 
 </details>
@@ -1787,7 +1787,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 
 </details>
 
@@ -1809,7 +1809,7 @@ flowchart TB
 
 - **ขอบเขต:** ใช้ควบคู่กับ **บทความ X-B** (*การมีส่วนร่วมในการปกครองและสิทธิในการลงคะแนน*) กฎการถ่วงน้ำหนักในบทความนี้:
   - **ใช้บังคับ** เมื่อ **[น้ำหนักของผู้มีส่วนได้เสีย](core_05_band_participation.md#stakeholder-weight)** เป็นกฎหลัก — กล่าวคือ การตัดสินใจที่กระทบสิทธิอย่างมีสาระ *ภายใน* **โครงสร้าง กฎ การจัดสรรอำนาจ และกระบวนการ**ด้าน[ธรรมาภิบาล](core_05_band_accountability.md#governance)ที่ได้รับอนุญาตแล้วสำหรับ **ระบบ สถาบัน หรือขอบเขตการตัดสินใจที่กำหนดไว้ซึ่งเกี่ยวข้อง**;
-  - **ไม่**ให้อำนาจใช้ **น้ำหนักคะแนนเสียง**ที่ได้สัดส่วนกับผลกระทบ การพึ่งพา หรือส่วนได้เสีย สำหรับ[การเลือกทางรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#foundational-constitutional-choice) (**บทความ X-B** (*การมีส่วนร่วมในการปกครองและสิทธิในการลงคะแนน*); [**บทที่สิบสาม §4.1 สิทธิและคุณสมบัติ**](core_13_governance.md#41-entitlement-and-eligibility))
+  - **ไม่**ให้อำนาจใช้ **น้ำหนักคะแนนเสียง**ที่ได้สัดส่วนกับผลกระทบ การพึ่งพา หรือส่วนได้เสีย สำหรับ[การเลือกทางรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#การเลอกพนฐานทางรฐธรรมนญ) (**บทความ X-B** (*การมีส่วนร่วมในการปกครองและสิทธิในการลงคะแนน*); [**บทที่สิบสาม §4.1 สิทธิและคุณสมบัติ**](core_13_governance.md#41-entitlement-and-eligibility))
 - **ข้อจำกัดการถ่วงน้ำหนักการมีส่วนร่วม:** การถ่วงน้ำหนักการมีส่วนร่วมอาจคำนึงถึง:
   - ผลกระทบ;
   - การพึ่งพา;
@@ -1830,7 +1830,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 
 </details>
 
@@ -1875,8 +1875,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
-- อ่านร่วมกับ: [การยึดครองระบบ](core_05_band_continuity.md#system-capture); [การป้องกันการยึดครอง](core_05_band_continuity.md#anti-capture); [บทที่เจ็ด: ความเป็นอิสระเชิงหน้าที่และการแยกหน้าที่](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
+- อ่านร่วมกับ: [การยึดครองระบบ](core_05_band_continuity.md#system-capture); [การป้องกันการยึดครอง](core_05_band_continuity.md#anti-capture); [บทที่เจ็ด: ความเป็นอิสระเชิงหน้าที่และการแยกหน้าที่](core_07_functional_independence_segregation_of_duties.md#บททเจด-ความเปนอสระเชงหนาทและการแบงแยกหนาท)
 
 </details>
 
@@ -1886,7 +1886,7 @@ flowchart TB
 - [การยึดครองระบบ](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [การป้องกันการยึดครอง](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
 - [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [ความสามารถในการตรวจสอบ](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1902,9 +1902,9 @@ flowchart TB
   - การยึดครองเชิงโครงสร้าง
 
   การกระจุกตัวของอิทธิพล — รวมถึงการควบคุมที่ซ่อนเร้นหรือส่งต่อทางอ้อม — ซึ่งขาดความสามารถในการตรวจสอบหรือโต้แย้ง ไม่เป็นไปตามข้อกำหนดและเกี่ยวข้องกับ **บทความ XI**, **XIV** และ **XV**
-- **การแยกหน้าที่:** [บทที่เจ็ด](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) (*ความเป็นอิสระเชิงหน้าที่และการแยกหน้าที่*) กำหนดพื้นสิทธิให้แยกหน้าที่ออกจากกันสำหรับการกระทำทุกอย่างที่มีผลผูกพันอย่างเป็นสาระ:
-  - แยกตำแหน่งผู้เริ่ม ผู้อนุมัติ ผู้บันทึก และผู้โต้แย้งการกระทำออกจากกัน ([§2 พื้นรัฐธรรมนูญสี่ตำแหน่ง](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor));
-  - เป็นอิสระจากผู้ที่ควบคุมผู้กระทำ ([§3 ความเป็นอิสระ ความขัดแย้ง และสายการควบคุม](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines))
+- **การแยกหน้าที่:** [บทที่เจ็ด](core_07_functional_independence_segregation_of_duties.md#บททเจด-ความเปนอสระเชงหนาทและการแบงแยกหนาท) (*ความเป็นอิสระเชิงหน้าที่และการแยกหน้าที่*) กำหนดพื้นสิทธิให้แยกหน้าที่ออกจากกันสำหรับการกระทำทุกอย่างที่มีผลผูกพันอย่างเป็นสาระ:
+  - แยกตำแหน่งผู้เริ่ม ผู้อนุมัติ ผู้บันทึก และผู้โต้แย้งการกระทำออกจากกัน ([§2 พื้นรัฐธรรมนูญสี่ตำแหน่ง](core_07_functional_independence_segregation_of_duties.md#2-เกณฑขนตำตามรฐธรรมนญสทนง));
+  - เป็นอิสระจากผู้ที่ควบคุมผู้กระทำ ([§3 ความเป็นอิสระ ความขัดแย้ง และสายการควบคุม](core_07_functional_independence_segregation_of_duties.md#3-ความเปนอสระ-ความขดแยง-และสายการควบคม))
 
   เมื่อผู้มีความรู้สึก ตำแหน่ง หรือกลุ่มใดกลุ่มหนึ่งถือครองตำแหน่งที่ต้องแยกออกจากกัน หรือควบคุมผู้ดำรงตำแหน่งเหล่านั้น ย่อมเป็นสัญญาณของการยึดครองเชิงโครงสร้างตามบทความนี้ด้วย
 
@@ -1915,20 +1915,20 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">การสืบย้อน</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 ธรรมาภิบาลภายใต้วินัยการดูแลรักษา](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) และ [§19 การปรับแนวแรงจูงใจและการยึดครองระบบ](../../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)
-- อ่านประกอบกับ: [มาตรา XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*มาตรการคุ้มครองการป้องกันการยึดครอง*); [มาตรา XII-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*การมีส่วนร่วมแบบถ่วงน้ำหนักและข้อจำกัดต่อต้านการมีส่วนร่วมเชิงสัญลักษณ์*); [มาตรา X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*ความเป็นผู้กระทำการและเสรีภาพจากการชักจูง*); [มาตรา IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*การเป็นเจ้าของภาพลักษณ์และชื่อเสียงของตนเอง*); [มาตรา XIII-E](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*ระบบอัตโนมัติสูงและความสมบูรณ์ของกระบวนการที่ผ่านเครื่องมือ*); [มาตรา XV](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*ความสมบูรณ์ของเขตข้อมูลข่าวสาร*); [บทที่สิบเอ็ด §5.3](../../core_12_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*การถาโถมพื้นที่และการปิดกั้นช่องทางโต้แย้ง*), [§5.4](../../core_12_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*การถาโถมพื้นที่เขตข้อมูลข่าวสาร*) และ [§5.5](../../core_12_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*การติดสินบนและการแลกเปลี่ยนผลประโยชน์ที่ไม่เหมาะสม*); [บทที่เจ็ด](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties); [บทที่สิบสาม §1.2](../../core_14_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*คุณสมบัติ การคัดเลือกที่โต้แย้งได้ และขั้นต่ำตามประชาธิปไตย*)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 ธรรมาภิบาลภายใต้วินัยการดูแลรักษา](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) และ [§19 การปรับแนวแรงจูงใจและการยึดครองระบบ](../../core_01.015_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)
+- อ่านประกอบกับ: [มาตรา XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*มาตรการคุ้มครองการป้องกันการยึดครอง*); [มาตรา XII-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*การมีส่วนร่วมแบบถ่วงน้ำหนักและข้อจำกัดต่อต้านการมีส่วนร่วมเชิงสัญลักษณ์*); [มาตรา X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*ความเป็นผู้กระทำการและเสรีภาพจากการชักจูง*); [มาตรา IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*การเป็นเจ้าของภาพลักษณ์และชื่อเสียงของตนเอง*); [มาตรา XIII-E](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*ระบบอัตโนมัติสูงและความสมบูรณ์ของกระบวนการที่ผ่านเครื่องมือ*); [มาตรา XV](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity) (*ความสมบูรณ์ของเขตข้อมูลข่าวสาร*); [บทที่สิบเอ็ด §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*การถาโถมพื้นที่และการปิดกั้นช่องทางโต้แย้ง*), [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*การถาโถมพื้นที่เขตข้อมูลข่าวสาร*) และ [§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*การติดสินบนและการแลกเปลี่ยนผลประโยชน์ที่ไม่เหมาะสม*); [บทที่เจ็ด](core_07_functional_independence_segregation_of_duties.md#บททเจด-ความเปนอสระเชงหนาทและการแบงแยกหนาท); [บทที่สิบสาม §1.2](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*คุณสมบัติ การคัดเลือกที่โต้แย้งได้ และขั้นต่ำตามประชาธิปไตย*)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">นิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การยึดครองระบบ](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [การต่อต้านการยึดครอง](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [ความสามารถในการโต้แย้ง](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [ความสามารถในการตรวจสอบ](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [ความเป็นธรรมเชิงกระบวนการ](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [ผู้มีส่วนได้เสีย](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+- [การยึดครองระบบ](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
+- [การต่อต้านการยึดครอง](../../core_05.040_band_continuity.md#anti-capture) · [O](../../core_05.040_band_continuity.md#anti-capture) · [M](../../core_05.040_band_continuity.md#anti-capture-a) · [A](../../core_05.040_band_continuity.md#anti-capture-a) · [C](../../core_05.040_band_continuity.md#anti-capture-c)
+- [ความสามารถในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [ความสามารถในการตรวจสอบ](../../core_05.050_band_oversight.md#auditability) · [O](../../core_05.050_band_oversight.md#auditability) · [M](../../core_05.050_band_oversight.md#auditability-a) · [A](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
+- [ความเป็นธรรมเชิงกระบวนการ](../../core_05.055_band_participation.md#procedural-fairness) · [O](../../core_05.055_band_participation.md#procedural-fairness) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [ผู้มีส่วนได้เสีย](../../core_05.035_band_accountability.md#interested-party) · [O](../../core_05.035_band_accountability.md#interested-party) · [M](../../core_05.035_band_accountability.md#interested-party-a) · [A](../../core_05.035_band_accountability.md#interested-party-a) · [C](../../core_05.035_band_accountability.md#interested-party-c)
 
 </details>
 
@@ -1952,21 +1952,21 @@ flowchart TB
 
 - **หลักประกันการต่อต้านการยึดครอง:** [**มาตรา XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*มาตรการคุ้มครองการป้องกันการยึดครอง*) ครอบคลุมองค์ประกอบ ผลประโยชน์ทับซ้อน การถอนตัว การทบทวนภายนอก และการถอดถอน มาตรานี้เพิ่มกฎว่าด้วยการเข้าหาองค์กรเดียวกันโดยผู้มีส่วนได้เสีย
 - **น้ำหนักของการมีส่วนร่วม:** [**มาตรา XII-B**](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*การมีส่วนร่วมแบบถ่วงน้ำหนักและข้อจำกัดต่อต้านการมีส่วนร่วมเชิงสัญลักษณ์*) ห้ามการมีส่วนร่วมเชิงสัญลักษณ์ ปริมาณการติดต่อก็ไม่ถือเป็นการสนับสนุนภายใต้มาตรานี้เช่นกัน
-- **ระบบและข้อมูล:** [**มาตรา XIII-E**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*ระบบอัตโนมัติสูงและความสมบูรณ์ของกระบวนการที่ผ่านเครื่องมือ*) ผูกพันระบบด้วยกฎเดียวกับทุกฝ่าย; [**มาตรา XV**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*ความสมบูรณ์ของเขตข้อมูลข่าวสาร*) ครอบคลุมสภาพแวดล้อมข้อมูลข่าวสารร่วมกัน
-- **การให้ทุนแก่การคัดเลือก:** [**บทที่สิบสาม §1.2**](../../core_14_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*คุณสมบัติ การคัดเลือกที่โต้แย้งได้ และขั้นต่ำตามประชาธิปไตย*) กำหนดขอบเขตการให้ทุนสำหรับการคัดเลือกผ่านการรณรงค์ การเสนอชื่อ หรือการแต่งตั้งแข่งขัน
+- **ระบบและข้อมูล:** [**มาตรา XIII-E**](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*ระบบอัตโนมัติสูงและความสมบูรณ์ของกระบวนการที่ผ่านเครื่องมือ*) ผูกพันระบบด้วยกฎเดียวกับทุกฝ่าย; [**มาตรา XV**](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity) (*ความสมบูรณ์ของเขตข้อมูลข่าวสาร*) ครอบคลุมสภาพแวดล้อมข้อมูลข่าวสารร่วมกัน
+- **การให้ทุนแก่การคัดเลือก:** [**บทที่สิบสาม §1.2**](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*คุณสมบัติ การคัดเลือกที่โต้แย้งได้ และขั้นต่ำตามประชาธิปไตย*) กำหนดขอบเขตการให้ทุนสำหรับการคัดเลือกผ่านการรณรงค์ การเสนอชื่อ หรือการแต่งตั้งแข่งขัน
 
 มาตรานี้กำหนดหลักประกันขั้นต่ำดังต่อไปนี้:
 
 - **ขอบเขต:** หลักประกันขั้นต่ำเหล่านี้ใช้กับองค์กรในขอบเขต **หน่วยงานผู้แต่งตั้ง** และ **สถาบันผู้นำไปใช้** ข้อกำหนดปรับตามส่วนได้เสียที่มีนัยสำคัญ เอกสารที่ยื่นไว้ในบันทึกเปิดเผยของเรื่องนั้นไม่ใช่การติดต่อเพื่อโน้มน้าว แต่เป็นส่วนหนึ่งของบันทึก
-- **ขอบเขตการติดต่อเพื่อโน้มน้าว:** องค์กรในขอบเขต **หน่วยงานผู้แต่งตั้ง** และ **สถาบันผู้นำไปใช้** ต้องเผยแพร่กฎสำหรับ **การติดต่อเพื่อโน้มน้าว** การติดต่อเพื่อโน้มน้าวคือการที่ [**ผู้มีส่วนได้เสีย**](../../core_05_band_accountability.md#interested-party) เข้าหาสมาชิก ผู้ร่วมคณะ เจ้าหน้าที่ ผู้เอื้อกระบวนการ หรือแหล่งข้อมูล เพื่อกำหนดทิศทางเรื่องที่อยู่ระหว่างพิจารณาหรือคาดหมายได้ โดยอยู่นอกบันทึกเปิดเผยของเรื่องนั้น กฎต้องปรับตามส่วนได้เสียที่มีนัยสำคัญ และอย่างน้อยต้อง:
+- **ขอบเขตการติดต่อเพื่อโน้มน้าว:** องค์กรในขอบเขต **หน่วยงานผู้แต่งตั้ง** และ **สถาบันผู้นำไปใช้** ต้องเผยแพร่กฎสำหรับ **การติดต่อเพื่อโน้มน้าว** การติดต่อเพื่อโน้มน้าวคือการที่ [**ผู้มีส่วนได้เสีย**](../../core_05.035_band_accountability.md#interested-party) เข้าหาสมาชิก ผู้ร่วมคณะ เจ้าหน้าที่ ผู้เอื้อกระบวนการ หรือแหล่งข้อมูล เพื่อกำหนดทิศทางเรื่องที่อยู่ระหว่างพิจารณาหรือคาดหมายได้ โดยอยู่นอกบันทึกเปิดเผยของเรื่องนั้น กฎต้องปรับตามส่วนได้เสียที่มีนัยสำคัญ และอย่างน้อยต้อง:
   - **บันทึก**การติดต่อเพื่อโน้มน้าวที่มีนัยสำคัญแต่ละครั้ง ได้แก่ ใครเป็นผู้ติดต่อ เมื่อใด ผ่านช่องทางใด เกี่ยวกับเรื่องใด และสรุปสิ่งที่ร้องขอหรือเสนอ;
-  - เก็บบันทึกนั้นไว้ในตำแหน่งที่เป็นอิสระจากสมาชิก ผู้ร่วมคณะ หรือเจ้าหน้าที่ที่ถูกติดต่อ ([บทที่เจ็ด](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties));
+  - เก็บบันทึกนั้นไว้ในตำแหน่งที่เป็นอิสระจากสมาชิก ผู้ร่วมคณะ หรือเจ้าหน้าที่ที่ถูกติดต่อ ([บทที่เจ็ด](core_07_functional_independence_segregation_of_duties.md#บททเจด-ความเปนอสระเชงหนาทและการแบงแยกหนาท));
   - **เปิดเผย**การติดต่อที่มีนัยสำคัญในบันทึกเรื่องนั้นโดยให้เวลาผู้เข้าร่วมคนอื่นตอบสนอง;
   - เก็บหลักฐานและข้อโต้แย้งไว้ในบันทึกที่เปิดเผย: การติดต่อส่วนตัวต้องไม่นำเสนอหลักฐานหรือข้อโต้แย้งที่ใช้ประกอบการตัดสินใจ;
   - ถือข้อเสนอของขวัญ ผลประโยชน์ หรือตำแหน่งในอนาคต และการข่มขู่ใด ๆ เป็นผลประโยชน์ทับซ้อนที่ต้องเปิดเผย ปฏิเสธ และส่งต่อภายใต้ **CI-5** (*ความสมบูรณ์ของผลประโยชน์ทับซ้อน การต่อต้านการยึดครอง และการต่อต้านการทุจริต*) ไม่ใช่การติดต่อทั่วไป; และ
   - คุ้มครองการเสนอความคิดเห็น คำร้อง และความเห็นสาธารณะอย่างเปิดเผยที่บันทึกไว้ ตลอดจนการเข้าถึงองค์กรที่มีหน้าที่รับฟังของผู้มีความรู้สึกที่ได้รับผลกระทบ ห้ามใช้กฎเหล่านี้จำกัดสิ่งที่ผู้มีความรู้สึกที่ได้รับผลกระทบจะกล่าวถึงส่วนได้เสียของตนเอง
 - **ผลประโยชน์ทับซ้อนหลังพ้นตำแหน่งและจากบทบาทในอนาคต:**
-  - **ผลประโยชน์ทับซ้อนจากบทบาทในอนาคต:** การพูดคุยเรื่องบทบาท การจ้างงาน สัญญา หรือผลประโยชน์ในภายหลังกับ [**ผู้มีส่วนได้เสีย**](../../core_05_band_accountability.md#interested-party) ขณะที่เรื่องของฝ่ายนั้นอยู่ระหว่างการพิจารณาโดยสมาชิก ผู้ร่วมคณะ หรือเจ้าหน้าที่ ถือเป็นผลประโยชน์ทับซ้อน ต้องเปิดเผย และสมาชิก ผู้ร่วมคณะ หรือเจ้าหน้าที่ดังกล่าวต้องถอนตัวจนกว่าตำแหน่งอิสระจะอนุมัติ
+  - **ผลประโยชน์ทับซ้อนจากบทบาทในอนาคต:** การพูดคุยเรื่องบทบาท การจ้างงาน สัญญา หรือผลประโยชน์ในภายหลังกับ [**ผู้มีส่วนได้เสีย**](../../core_05.035_band_accountability.md#interested-party) ขณะที่เรื่องของฝ่ายนั้นอยู่ระหว่างการพิจารณาโดยสมาชิก ผู้ร่วมคณะ หรือเจ้าหน้าที่ ถือเป็นผลประโยชน์ทับซ้อน ต้องเปิดเผย และสมาชิก ผู้ร่วมคณะ หรือเจ้าหน้าที่ดังกล่าวต้องถอนตัวจนกว่าตำแหน่งอิสระจะอนุมัติ
   - **กฎหลังพ้นตำแหน่ง:** องค์กรในขอบเขตและ **สถาบันผู้นำไปใช้** ต้องเผยแพร่กฎหลังพ้นตำแหน่งซึ่งปรับตามส่วนได้เสียที่มีนัยสำคัญด้วย กฎนี้ห้ามรับบทบาทหรือผลประโยชน์จากผู้มีส่วนได้เสียที่เกี่ยวข้องกับเรื่องซึ่งตนเคยจัดการ จนกว่าพ้นช่วงเว้นวรรคหรือจนกว่าตำแหน่งอิสระจะอนุมัติข้อเสนอด้วยคำวินิจฉัยที่เผยแพร่
   - **ช่วงเว้นวรรคเริ่มต้น:** ค่าเริ่มต้นคือ **ห้าปี** นับจากวันที่สมาชิก ผู้ร่วมคณะ หรือเจ้าหน้าที่เข้ามาเกี่ยวข้องกับเรื่องนั้นเป็นครั้งสุดท้าย
   - **การกำหนดระยะเวลาแตกต่าง:** สถาบันผู้นำไปใช้กำหนดระยะเวลานานกว่าได้ กำหนดให้สั้นลงได้เฉพาะเมื่อส่วนได้เสียที่มีนัยสำคัญต่ำ และต้องเผยแพร่เหตุผล
@@ -1979,7 +1979,7 @@ flowchart TB
   - **ช่องทาง:** องค์กรในขอบเขตต้องเผยแพร่ช่องทางยืนยันตัวตนสำหรับส่งข้อมูลเข้าในบันทึก องค์กรอาจจำกัดอัตราการส่ง ลบรายการซ้ำ และกันข้อมูลเข้าที่ฝ่าฝืนกฎเหล่านี้ออก ห้ามการเข้าหาสมาชิก ผู้ร่วมคณะ เจ้าหน้าที่ ผู้เอื้อกระบวนการ หรือแหล่งข้อมูลโดยอัตโนมัติผ่านช่องทางส่วนตัวใด ๆ
   - **ระบบฝั่งผู้ตัดสินใจ:** เมื่อองค์กรใช้ระบบรับ จัดลำดับ สรุป หรือร่างเนื้อหาสำหรับการตัดสินใจ การเข้าหาที่มุ่งชักนำระบบนั้นแทนที่จะให้ข้อมูลแก่ผู้ตัดสินใจถือเป็นการติดต่อเพื่อโน้มน้าว รวมถึงคำสั่งที่ซ่อนในเอกสารที่ส่งมา ข้อมูลที่ถูกวางยาพิษ และเนื้อหาที่สร้างขึ้นเพื่อเล่นงานระบบจัดอันดับ องค์กรต้องถือว่าเอกสารที่ส่งมาเป็นหลักฐาน ไม่ใช่คำสั่ง ต้องทำให้ติดตามผลลัพธ์แต่ละรายการกลับไปยังบันทึกต้นทางได้ และเปิดเผยว่าข้อมูลขาเข้าใดไปถึงระบบที่มีส่วนต่อการตัดสินใจ การติดต่อระหว่างระบบของผู้มีส่วนได้เสียกับระบบขององค์กรต้องบันทึกเช่นเดียวกับการติดต่อระหว่างผู้มีความรู้สึก
   - **ความรับผิดชอบ:** ผู้มีส่วนได้เสียและผู้ดำเนินการที่นำระบบไปใช้งานต่างต้องรับผิดชอบต่อการติดต่อ การไม่รู้ไม่ใช่ข้อต่อสู้เมื่อทั้งสองเพิกเฉยต่อความเสี่ยงที่เห็นได้ชัด
-- **องค์กรที่ใช้การสุ่มเลือก:** สมาชิกที่ได้รับเลือกโดยการสุ่มต้องอยู่ภายใต้หลักประกันขั้นต่ำระดับเข้มงวดที่สุด ห้ามติดต่อส่วนตัวเรื่องนั้นกับสมาชิกเหล่านั้น เว้นแต่ผ่านบันทึกการชี้แจงที่เปิดเผยตามที่ [บทที่สิบสาม](../../core_14_governance.md#12-eligibility-contested-selection-and-democratic-minimums) กำหนด
+- **องค์กรที่ใช้การสุ่มเลือก:** สมาชิกที่ได้รับเลือกโดยการสุ่มต้องอยู่ภายใต้หลักประกันขั้นต่ำระดับเข้มงวดที่สุด ห้ามติดต่อส่วนตัวเรื่องนั้นกับสมาชิกเหล่านั้น เว้นแต่ผ่านบันทึกการชี้แจงที่เปิดเผยตามที่ [บทที่สิบสาม](../../core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) กำหนด
 - **การบังคับใช้และการส่งต่อ:**
   - **ตัวกระตุ้นด้านความสมบูรณ์:** การติดต่อเพื่อโน้มน้าวที่ปกปิด การเสนอผลประโยชน์ และเสียงที่สร้างขึ้น ต้องส่งต่อเป็นตัวกระตุ้นด้านความสมบูรณ์ภายใต้ **CI-5** (*ความสมบูรณ์ของผลประโยชน์ทับซ้อน การต่อต้านการยึดครอง และการต่อต้านการทุจริต*) และ **CJS-3.6** (*ปฏิบัติการรับรองความสมบูรณ์และความยืดหยุ่น*).
   - **แนวทางการประพฤติมิชอบ:** การถาโถมด้วยเสียงที่ไม่แท้จริงโดยเจตนาหรือประมาทเลินเล่อ รวมถึงการติดสินบนหรือการแลกเปลี่ยนผลประโยชน์ที่ไม่เหมาะสม อาจกล่าวหาเป็น **การประพฤติมิชอบที่ขัดต่อรัฐธรรมนูญ** ภายใต้ **บทที่สิบเอ็ด** เมื่อมีหลักฐานรองรับตาม **บทที่สองถึงสี่** และเกณฑ์ที่กำหนดไว้ใน **บทที่สิบเอ็ด**

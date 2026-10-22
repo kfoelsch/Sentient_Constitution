@@ -6,7 +6,7 @@
 
 > Nội dung sau đây **chỉ là hướng dẫn cho người đọc**. Nó không thêm, bớt hay thu hẹp nghĩa vụ ràng buộc ở tệp này hay ở các chương khác.
 >
-> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Sáu, Phần A tiếng Anh](../../core_06_rights_part_a.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.10.14`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
+> Tệp này là một **thử nghiệm ngôn ngữ đọc** của [Chương Sáu, Phần A tiếng Anh](../../core_06.005_rights_part_a.md). **Không** phải phần ràng buộc của Hiến pháp Hữu tri. **Không** phải một hiến pháp thứ hai. **Không** phải một ấn bản phát hành. Nó được **ghim** vào `SC-Corpus-2026.10.14`. Nếu bản dịch này và nguyên bản tiếng Anh có vẻ lệch nhau, tệp đánh số [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md) thắng. Thứ tự đọc và siêu dữ liệu ấn bản được giữ ở [README.md](../../README.md). Phương pháp và bảng thuật ngữ: [translations/vi/README.md](README.md).
 >
 > Nó chứa **Chương Sáu, Phần A**; đánh số điều và tham chiếu chéo khớp công cụ tích hợp.
 >
@@ -45,13 +45,13 @@ Chương Sáu là chủ sở hữu hiến pháp của các **Sàn Quyền** và 
 
 - Thượng nguồn: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); [lợi hại vật chất](core_00_preamble.md#material-stake).
 - Thượng nguồn: [Chương Một §6 Giải quyết xung đột quy trình](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Chương Một §13.1.5 Thử quyết định va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Thượng nguồn: [Chương Một §11 Thẳng hàng khuyến khích và chiếm hệ thống](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Thượng nguồn: [Chương Một §11 Thẳng hàng khuyến khích và chiếm hệ thống](core_01_c_stewardship_capacity_principles.md#19-sự-phù-hợp-của-động-lực-và-sự-chiếm-đoạt-hệ-thống).
 - Thượng nguồn: Chương Hai đến Bốn; định nghĩa Chương Năm.
-- Hạ nguồn: **Phần A đến E** của chương này; [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional); [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
-- Hạ nguồn: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 Phạm vi tầng](#12-layer-scope).
-- Đọc cùng: [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation) và [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights); [Điều XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Quyền tranh biện, rà soát, và khắc phục*).
-- Đọc cùng: [Điều XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Kiểm toán, minh bạch, và xác minh độc lập*).
-- Đọc cùng: [Điều XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*Khả năng tranh biện và giới hạn hạn chế tương xứng*); [Điều XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Giải quyết kịp thời và sàn chống trì hoãn*).
+- Hạ nguồn: **Phần A đến E** của chương này; [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional); [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- Hạ nguồn: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 Phạm vi tầng](#12-phạm-vi-tầng).
+- Đọc cùng: [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation) và [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-nguyên-tắc-định-nghĩa-và-quyền); [Điều XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Quyền tranh biện, rà soát, và khắc phục*).
+- Đọc cùng: [Điều XVI](core_06_rights_part_c.md#điều-xvi-kiểm-toán-minh-bạch-và-xác-minh-độc-lập) (*Kiểm toán, minh bạch, và xác minh độc lập*).
+- Đọc cùng: [Điều XIX-B](core_06_rights_part_d.md#điều-xix-b-khả-năng-phản-đối-và-giới-hạn-tương-xứng-đối-với-hạn-chế) (*Khả năng tranh biện và giới hạn hạn chế tương xứng*); [Điều XXVI-C](core_06_rights_part_e.md#điều-xxvi-c-giải-quyết-kịp-thời-và-ngưỡng-chống-trì-hoãn) (*Giải quyết kịp thời và sàn chống trì hoãn*).
 
 </details>
 
@@ -76,7 +76,7 @@ Chồng hiến pháp rộng hơn giải thích cách sàn đó được diễn g
   - **ràng buộc giá trị** — An toàn, Sự thật, Sự cần thiết, Tính tương xứng, và đánh giá hệ thống về hiệu ứng địa phương, cộng dồn, trì hoãn, và xuyên hệ thống;
   - **kỷ luật tương tác** — [Chương Một §6 Giải quyết xung đột quy trình](core_01_b_interaction_interpretation.md#6-process-conflict-resolution);
   - **chia tỷ lệ hiến pháp** — [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad), [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims), và chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake);
-  - **thẳng hàng khuyến khích và chiếm hệ thống** — [Chương Một §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) và kỷ luật quản trị có trách nhiệm liên quan, nhưng chỉ nơi thiết kế khuyến khích, tin cậy, trung thành, chiếm, cấu trúc thị trường, hoặc một hạn chế được biện hộ là có trọng liên quan.
+  - **thẳng hàng khuyến khích và chiếm hệ thống** — [Chương Một §11](core_01_c_stewardship_capacity_principles.md#19-sự-phù-hợp-của-động-lực-và-sự-chiếm-đoạt-hệ-thống) và kỷ luật quản trị có trách nhiệm liên quan, nhưng chỉ nơi thiết kế khuyến khích, tin cậy, trung thành, chiếm, cấu trúc thị trường, hoặc một hạn chế được biện hộ là có trọng liên quan.
 - **Chương Hai đến Bốn** — tính toàn vẹn định nghĩa, gánh và truy vết, khả năng quan sát, xác minh tiếp cận được, và khả năng quan sát bị ràng bởi an ninh nơi áp.
 - **Chương Năm** — định nghĩa có trọng liên quan tới quyền, hành vi, hệ thống, hoặc hạn chế đang được đánh giá.
 - **Quy tắc phân loại và tỷ lệ** — **Tính trọng yếu**, **Phụ thuộc**, và mọi quy tắc lớp, bậc, hoặc nhịp đã hợp nhất do một văn kiện tiếp nhận cung cấp.
@@ -88,13 +88,13 @@ Chồng đọc này áp cho mọi điều trong chương này trừ khi một đ
 
 Sàn Quyền phải vận hành trong thực tiễn, không chỉ trên giấy. Các thiết yếu sinh tồn dưới **Điều III-A** (*Sinh tồn*) — thức ăn, nước, chỗ ở, môi trường vận hành, và đầu vào không phân biệt thể nền tương đương — là ví dụ rõ nhất. **Hưng thịnh** đòi lối vào thực tới những thiết yếu đó. **Liên tục** đòi cung cấp tin cậy, không thoái lui theo thời gian, đặc biệt nơi hệ thống chung kiểm soát việc giao.
 
-[Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) xác minh liệu các hệ thống tác động vật chất có thẳng hàng trước khi chúng được công nhận hoặc được dựa ở quy mô. Chương Chín cũng cung cấp khả năng tranh biện hồ sơ chứng nhận, rà soát bên bị ảnh hưởng và khả năng tiếp cận, trình tự giám sát, và đường tranh biện cho quyết định thẳng hàng hệ thống. **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) cung cấp quyền tranh biện và kiểm toán. **Điều XIX-B** (*Khả năng tranh biện và giới hạn hạn chế tương xứng*) giữ giới hạn quỹ đạo không thành cửa sau quanh lối vào then chốt cho sinh tồn. Cùng nhau, [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) và [chuỗi quỹ đạo và giám sát diễn đàn Chương Tám đến Mười Một](../../README.md#standing-pipeline-and-forums) tạo thành Các chuỗi quy trình thực tiễn then chốt cho khả năng tranh biện, phân loại đã xác minh, giám sát diễn đàn, và khắc phục kịp thời. Những cơ chế đó giúp cưỡng Chương Sáu. Chúng không thay, thu hẹp, hay dời các quyền nêu ở đây.
+[Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) xác minh liệu các hệ thống tác động vật chất có thẳng hàng trước khi chúng được công nhận hoặc được dựa ở quy mô. Chương Chín cũng cung cấp khả năng tranh biện hồ sơ chứng nhận, rà soát bên bị ảnh hưởng và khả năng tiếp cận, trình tự giám sát, và đường tranh biện cho quyết định thẳng hàng hệ thống. **Điều XIII** (*Quyền đối với hệ thống đáng tin và đáng tin cậy*) cung cấp quyền tranh biện và kiểm toán. **Điều XIX-B** (*Khả năng tranh biện và giới hạn hạn chế tương xứng*) giữ giới hạn quỹ đạo không thành cửa sau quanh lối vào then chốt cho sinh tồn. Cùng nhau, [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) và [chuỗi quỹ đạo và giám sát diễn đàn Chương Tám đến Mười Một](../../README.md#standing-pipeline-and-forums) tạo thành Các chuỗi quy trình thực tiễn then chốt cho khả năng tranh biện, phân loại đã xác minh, giám sát diễn đàn, và khắc phục kịp thời. Những cơ chế đó giúp cưỡng Chương Sáu. Chúng không thay, thu hẹp, hay dời các quyền nêu ở đây.
 
 **Nút diễn giải.** Trừ khi một điều cụ thể hơn cung cấp quy tắc khác, các vấn đề lặp được định tuyến qua những neo này:
 
 **Sàn quyền và cung cấp**
 - **Thiết yếu sinh tồn và giữ chúng tiếp cận được** — **Điều III-A** (*Sinh tồn*); **Điều XIX-B** (*Khả năng tranh biện và giới hạn hạn chế tương xứng*) để giới hạn quỹ đạo không chặn lối vào; đọc cùng **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*) và **Điều XVI** (*Kiểm toán, minh bạch, và xác minh độc lập*) nơi tranh biện hoặc kiểm toán áp
-- **Chứng nhận thẳng hàng hệ thống** — [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional); [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **Chứng nhận thẳng hàng hệ thống** — [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional); [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **Xác minh và khắc phục**
 - **Hồ sơ kiểm toán và xác minh độc lập** — **Điều XVI** (*Kiểm toán, minh bạch, và xác minh độc lập*) cùng **Chương Hai đến Bốn**
@@ -102,7 +102,7 @@ Sàn Quyền phải vận hành trong thực tiễn, không chỉ trên giấy. 
 
 **Tranh chấp và quy trình kịp thời**
 - **Công lý, hoàn trả, biên hạn chế, khẩn cấp, và va chạm quyền** — **Điều XXVI** (*Timely Retrospective Review and Restorative Alignment*); [Chương Một §13.1.5 Thử quyết định va chạm quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **Các chuỗi quy trình thực tiễn then chốt** — **Điều XXVI-C** (*Giải quyết kịp thời và sàn chống trì hoãn*); [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **Các chuỗi quy trình thực tiễn then chốt** — **Điều XXVI-C** (*Giải quyết kịp thời và sàn chống trì hoãn*); [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 Các tham chiếu chéo ngắn hơn tới những chủ đề đó ở phần còn lại của chương này hợp nhất những neo này.
 
@@ -110,13 +110,13 @@ Các tham chiếu chéo ngắn hơn tới những chủ đề đó ở phần c�
 
 #### 1.2 Phạm vi tầng
 
-*Nói thẳng: Chương Sáu nêu điều các hữu tri được hưởng ở tầng Sàn Quyền. Quỹ đạo, diễn đàn, quản trị, sửa đổi, và triển khai hàng ngày sống ở các chương chủ sở hữu của chúng — chương này có thể trỏ tới đó nhưng không được nêu lại chúng. Định tuyến chủ sở hữu: [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights); không-dời: [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation).*
+*Nói thẳng: Chương Sáu nêu điều các hữu tri được hưởng ở tầng Sàn Quyền. Quỹ đạo, diễn đàn, quản trị, sửa đổi, và triển khai hàng ngày sống ở các chương chủ sở hữu của chúng — chương này có thể trỏ tới đó nhưng không được nêu lại chúng. Định tuyến chủ sở hữu: [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-nguyên-tắc-định-nghĩa-và-quyền); không-dời: [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation).*
 
 Mục này áp xuyên **Phần A đến E** (Điều **I** đến **XXVIII**, kể cả mọi tiểu điều). Dưới [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation), chương này không được hấp thụ, nêu lại, hay dời nghĩa vụ do một tầng chủ sở hữu hiến pháp khác nắm. Tham chiếu chéo con trỏ — kể cả chỉ thị đọc-cùng, viện chồng ràng buộc mặc định, neo nút diễn giải, và câu tích hợp như «triển khai thuộc về» hoặc «không được thu hẹp» — được phép và được kỳ vọng; **nêu lại thực chất** cơ học quy trình, quản trị, hoặc triển khai vào văn bản tầng quyền là **không tuân thủ**.
 
 Lệch xuyên tầng đưa nghĩa vụ từ tầng chủ sở hữu khác vào **Chương Sáu** — dù như văn bản trực tiếp, như văn xuôi hướng dẫn người đọc được nâng thành hiệu lực vận hành, hay như suy ra từ tham chiếu chéo — là **không tuân thủ** dưới mục này. Ngược lại, mọi chương tầng chủ sở hữu hoặc văn bản triển khai tuyên **thu hẹp, định nghĩa lại, hoặc dời** một Sàn Quyền Chương Sáu là không tuân thủ dưới không-thoái-lui của **Chương Mười Ba** và dưới mục này.
 
-Các bổ sung tương lai vào **Chương Sáu** chạm ngôn ngữ kiểu quy trình, kiểu quản trị, hoặc kiểu triển khai phải gồm một con trỏ không-dời rõ tới nhà chủ sở hữu chuẩn trong [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-principles-definitions-and-rights) (và, nơi áp, tới mục định nghĩa Chương Năm tương ứng), đọc cùng [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation).
+Các bổ sung tương lai vào **Chương Sáu** chạm ngôn ngữ kiểu quy trình, kiểu quản trị, hoặc kiểu triển khai phải gồm một con trỏ không-dời rõ tới nhà chủ sở hữu chuẩn trong [Lời nói đầu — sổ đăng ký chủ sở hữu hiến pháp](core_00_preamble.md#4-nguyên-tắc-định-nghĩa-và-quyền) (và, nơi áp, tới mục định nghĩa Chương Năm tương ứng), đọc cùng [Chồng thẩm quyền và thứ bậc nội bộ](core_05_band_integrative.md#owner-non-relocation).
 
 <a id="part-a-planetary-preconditions-material-stewardship-survival-equal-educational-access-and-shared-resources"></a>
 ### Phần A: Tiền điều kiện hành tinh, quản trị có trách nhiệm vật chất, sinh tồn, lối vào giáo dục bình đẳng, và tài nguyên chung
@@ -154,7 +154,7 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -179,7 +179,7 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 - **Tiền điều kiện, tính toàn vẹn, và bền vững:** **Tiền điều kiện môi trường**, **Tính toàn vẹn sinh thái**, và **Bền vững** trong Chương Năm mang tính vận hành dưới Điều này.
   - Các hệ thống tự nhiên nâng đỡ sự sống nắm lợi ích liên tục và tính toàn vẹn của chính chúng. Những lợi ích đó thông tin diễn giải cùng lợi ích hữu tri.
   - Hại vật chất vi phạm Điều này — được xét dưới **Tiền điều kiện môi trường**, **Tính toàn vẹn sinh thái**, và **Bền vững** — là không tuân thủ.
-  - Hại vi phạm yêu cầu môi trường được nêu trong [văn kiện tiếp nhận](../../core_17_amendment_ratification.md#102-instrument-of-adoption) của bên đã tiếp nhận hoặc trong văn bản triển khai đã hợp nhất trong phạm vi tiếp nhận cũng là không tuân thủ.
+  - Hại vi phạm yêu cầu môi trường được nêu trong [văn kiện tiếp nhận](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) của bên đã tiếp nhận hoặc trong văn bản triển khai đã hợp nhất trong phạm vi tiếp nhận cũng là không tuân thủ.
 - **Tương tác sự sống động vật:** [Sự sống động vật](core_05_band_participation.md#animal-life-constitutional) chiếm lĩnh vực bảo vệ phúc lợi giữa **Quỹ đạo hệ thống tự nhiên** và Sàn Quyền Chương Sáu cho hữu tri.
   - Nó lập sàn chống tàn nhẫn và phúc lợi tối thiểu cho sự sống động vật dưới **Không loại trừ hữu tri** nơi hại kiểu phúc lợi bị liên lụy có trọng.
   - Nó không thay đối xử giao tiếp nâng hay phân xử trạng thái hữu tri nơi hồ sơ liên lụy có trọng những câu hỏi đó.
@@ -205,7 +205,7 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Ràng buộc công bố nhận thức](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Ràng buộc công bố nhận thức](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -213,9 +213,9 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [Tác động vật chất](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-- [Minh bạch](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Tính toàn vẹn nhận thức](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Tác động vật chất](core_05_band_oversight.md#có-trọng-impact) · [O](core_05_band_oversight.md#có-trọng-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Minh bạch](core_05_band_oversight.md#minh-bạch) · [O](core_05_band_oversight.md#minh-bạch) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Tính toàn vẹn nhận thức](core_05_band_oversight.md#tính-toàn-vẹn-nhận-thức) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -244,7 +244,7 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 
 - [Trách nhiệm liên thế hệ](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [Tiền điều kiện môi trường](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) · [O](core_05_band_oversight.md#có-trọngity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -266,7 +266,7 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [§14 Yêu cầu đánh giá hệ thống](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- Đọc cùng: [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint), [Tiền điều kiện môi trường](core_05_band_continuity.md#environmental-preconditions-constitutional), [Năng lực phục hồi sinh thái](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Trách nhiệm liên thế hệ](core_05_band_continuity.md#intergenerational-responsibility-constitutional), và [Rủi ro tồn vong](core_05_band_continuity.md#existential-risk).
+- Đọc cùng: [An toàn (Ràng buộc)](core_05_band_continuity.md#safety-constraint), [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp), [Tiền điều kiện môi trường](core_05_band_continuity.md#environmental-preconditions-constitutional), [Năng lực phục hồi sinh thái](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Trách nhiệm liên thế hệ](core_05_band_continuity.md#intergenerational-responsibility-constitutional), và [Rủi ro tồn vong](core_05_band_continuity.md#existential-risk).
 - Hạ nguồn: **Chapter Thirteen §6.1** (*Biện pháp khẩn cấp và gánh tiếp tục*) — kỷ luật chống cớ và rà soát có hạn thời gian nơi khung rủi ro tồn vong hoặc khẩn cấp được viện.
 
 </details>
@@ -276,7 +276,7 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 
 - [Rủi ro tồn vong](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
 - [Năng lực phục hồi sinh thái](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [Thận trọng khả năng thấy trước](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [Thận trọng khả năng thấy trước](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước) · [O](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [Phụ thuộc](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
 </details>
@@ -301,9 +301,9 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 
   Hồ sơ quyết định phải nêu công khai bất định, giả định, giới hạn bằng chứng, bất đồng, và lỗ hổng có trọng.
 - **Giới hạn lợi hiện tại:** Lợi hiện tại không biện minh phơi lệch hữu tri tương lai, hệ thống then chốt cho phục hồi sinh thái, hoặc điều kiện sinh thái nâng đỡ sự sống với hại quy mô nền văn minh hoặc then chốt cho sinh tồn.
-- **Biện pháp được đặt tên:** Các tác nhân tìm ủy quyền, tiếp tục, hoặc mở rộng dưới Điều này phải đã đặt tên, trong [văn kiện tiếp nhận](../../core_17_amendment_ratification.md#102-instrument-of-adoption) hoặc trong văn bản triển khai đã hợp nhất trong phạm vi tiếp nhận, các biện pháp giảm, trần, hoặc cắt tương xứng với đường — kể cả hại tới hệ khí hậu như một yếu tố [Tiền điều kiện môi trường](core_05_band_continuity.md#environmental-preconditions-constitutional). Điều này vẫn không đặt mục tiêu số. **Điều I-B** (*Dấu chân sinh thái và minh bạch*) vẫn là tiểu mục gán dấu chân và vẫn không tự đòi giảm. Tiếp tục mà không có những biện pháp được đặt tên trong khi một đường tin được dưới Điều này vẫn mở là không tuân thủ.
+- **Biện pháp được đặt tên:** Các tác nhân tìm ủy quyền, tiếp tục, hoặc mở rộng dưới Điều này phải đã đặt tên, trong [văn kiện tiếp nhận](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) hoặc trong văn bản triển khai đã hợp nhất trong phạm vi tiếp nhận, các biện pháp giảm, trần, hoặc cắt tương xứng với đường — kể cả hại tới hệ khí hậu như một yếu tố [Tiền điều kiện môi trường](core_05_band_continuity.md#environmental-preconditions-constitutional). Điều này vẫn không đặt mục tiêu số. **Điều I-B** (*Dấu chân sinh thái và minh bạch*) vẫn là tiểu mục gán dấu chân và vẫn không tự đòi giảm. Tiếp tục mà không có những biện pháp được đặt tên trong khi một đường tin được dưới Điều này vẫn mở là không tuân thủ.
 
-- **Giới hạn lợi ích hiện tại:** Lợi ích hiện tại không biện minh cho việc đặt các sinh thể có tri giác trong tương lai, hệ thống thiết yếu cho phục hồi sinh thái hoặc điều kiện duy trì sự sống vào nguy cơ thiệt hại cấp độ văn minh hay đe dọa sinh tồn một cách không tương xứng. Không hệ sinh thái tự nhiên nào được đặt trước nguy cơ mất [Năng lực Phục hồi Sinh thái](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) không thể đảo ngược, ở bất kỳ quy mô nào.
+- **Giới hạn lợi ích hiện tại:** Lợi ích hiện tại không biện minh cho việc đặt các sinh thể có tri giác trong tương lai, hệ thống thiết yếu cho phục hồi sinh thái hoặc điều kiện duy trì sự sống vào nguy cơ thiệt hại cấp độ văn minh hay đe dọa sinh tồn một cách không tương xứng. Không hệ sinh thái tự nhiên nào được đặt trước nguy cơ mất [Năng lực Phục hồi Sinh thái](../../core_05.040_band_continuity.md#ecological-recovery-capacity) không thể đảo ngược, ở bất kỳ quy mô nào.
 
 - **Quy tắc rà soát cao nhất hiện hành:** Phải rà soát cao nhất khi hệ thống, chính sách, hạ tầng, hoạt động phối hợp hoặc quyết định quản trị tạo con đường nhân quả đáng tin cậy dẫn đến Rủi ro Tồn vong hoặc mất không thể đảo ngược Năng lực Phục hồi Sinh thái, dù xác suất thấp, tác động chậm/tích lũy/phụ thuộc ngưỡng hoặc thời điểm còn tranh cãi. Đánh giá phải xét đường trực tiếp, gián tiếp, tổng hợp, đối kháng và liên hệ thống; tập trung phụ thuộc, lỗi phối hợp, suy thoái tiền điều kiện môi trường, mất năng lực phục hồi và khóa chặt hệ thống. Đánh giá hệ sinh thái toàn thể qua chức năng, kết nối, tái sinh và phụ thuộc lẫn nhau, không chỉ một loài hay quần thể địa phương. Danh sách kiểm tra cục bộ, phép tính lợi ích-chi phí trên giấy hoặc lợi ích ngắn hạn không đủ khi đường rủi ro đáng tin cậy còn bỏ ngỏ. Người xin cấp phép, tiếp tục hoặc mở rộng phải chứng minh đã chọn mọi phương án an toàn hơn đáng kể, hoặc phương án đó không đạt mục đích hợp pháp/không có sẵn; có biện pháp giảm thiểu và ngắt tương xứng; theo dõi có thể phát hiện và ngắt đường rủi ro trước khi không thể phục hồi; và người chịu trách nhiệm được nêu tên có thẩm quyền lẫn năng lực thực tế để ngắt. Nghĩa vụ chứng minh tiếp diễn, phải đáp ứng lại khi có chứng cứ trọng yếu mới, mở rộng và theo chu kỳ phù hợp rủi ro; bất định hay xác suất thấp không miễn trừ. Hồ sơ mỗi quyết định ràng buộc phải nối phần chứng minh với đánh giá và công khai bất định, giả định, giới hạn chứng cứ, bất đồng và khoảng trống. Lợi ích hiện tại không biện minh cho việc khiến chủ thể tương lai hoặc hệ thống phục hồi chịu rủi ro không tương xứng, hay làm bất kỳ hệ sinh thái tự nhiên nào mất năng lực phục hồi không thể đảo ngược ở bất kỳ quy mô nào. Văn kiện chấp thuận phải nêu biện pháp giảm, giới hạn hoặc ngắt cụ thể tương xứng, kể cả tác hại khí hậu; Điều này không đặt mục tiêu số, và I-B chỉ đo dấu chân chứ tự nó không bắt buộc giảm.
 
@@ -350,7 +350,7 @@ Chi tiết thủ tục cho **Điều II** (*Quản trị có trách nhiệm vậ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -359,7 +359,7 @@ Chi tiết thủ tục cho **Điều II** (*Quản trị có trách nhiệm vậ
 
 - [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
 - [Trách nhiệm liên thế hệ](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) · [O](core_05_band_oversight.md#có-trọngity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -425,8 +425,8 @@ Chi tiết thủ tục cho **Điều II** (*Quản trị có trách nhiệm vậ
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Thẳng hàng khuyến khích](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
-- [Thận trọng khả năng thấy trước](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [Thẳng hàng khuyến khích](core_05_band_integrative.md#thẳng-hàng-khuyến-khích) · [O](core_05_band_integrative.md#thẳng-hàng-khuyến-khích) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [Thận trọng khả năng thấy trước](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước) · [O](core_05_band_oversight.md#thận-trọng-khả-năng-thấy-trước) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [Sự cần thiết](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Tính tương xứng](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -440,7 +440,7 @@ Chi tiết thủ tục cho **Điều II** (*Quản trị có trách nhiệm vậ
   - sản phẩm ngừng hữu ích sớm hơn lẽ ra; hoặc
   - hữu tri bị đẩy thay nó khi thay không cần một cách hợp lý.
 
-  Khi khuyến khích thưởng thải hoặc giữ lại dụng cụ sửa, linh kiện, và tài liệu, cái này cũng kích [Chương Một §11 Thẳng hàng khuyến khích và chiếm hệ thống](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) và **Điều XIII-D** (*Ràng buộc thẳng hàng khuyến khích*).
+  Khi khuyến khích thưởng thải hoặc giữ lại dụng cụ sửa, linh kiện, và tài liệu, cái này cũng kích [Chương Một §11 Thẳng hàng khuyến khích và chiếm hệ thống](core_01_c_stewardship_capacity_principles.md#19-sự-phù-hợp-của-động-lực-và-sự-chiếm-đoạt-hệ-thống) và **Điều XIII-D** (*Ràng buộc thẳng hàng khuyến khích*).
 
   Sàn này không áp khi người vận hành có thể ghi **Sự cần thiết** và **Tính tương xứng** — ví dụ, sửa an toàn thật, đáp ứng an ninh, hoặc giới hạn khả năng tương tác thật. Những lý do đó không được thay một thiết kế bền đã có sẵn một cách hợp lý.
 
@@ -457,7 +457,7 @@ Chi tiết thủ tục cho **Điều II** (*Quản trị có trách nhiệm vậ
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Đồng thuận](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Sự thật (Ràng buộc hiến pháp)](core_05_band_oversight.md#sự-thật-ràng-buộc-hiến-pháp) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Phụ thuộc](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Quyền năng có ý nghĩa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Cưỡng và thao túng](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
@@ -484,8 +484,8 @@ Dữ liệu theo Điều này phải được phân loại và xử lý theo CS-
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Đọc cùng: [Điều XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Quyền khả năng chuyển*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Loại thông tin và xử lý**; **CJS-3.17** (*điều khoản khả năng tương tác, khả năng chuyển, và tính toàn vẹn lối ra*) và **CJS-3.18** (*điều khoản lưu giữ dữ liệu và tính toàn vẹn vòng đời*); [Chương Một §11.6 Trách nhiệm người kế và không thoát bằng cấu trúc hình thức](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Chương Chín §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) và [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Đọc cùng: [Điều XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Quyền khả năng chuyển*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Loại thông tin và xử lý**; **CJS-3.17** (*điều khoản khả năng tương tác, khả năng chuyển, và tính toàn vẹn lối ra*) và **CJS-3.18** (*điều khoản lưu giữ dữ liệu và tính toàn vẹn vòng đời*); [Chương Một §11.6 Trách nhiệm người kế và không thoát bằng cấu trúc hình thức](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Chương Chín §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) và [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -494,7 +494,7 @@ Dữ liệu theo Điều này phải được phân loại và xử lý theo CS-
 
 - [Phụ thuộc](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Trách nhiệm liên thế hệ](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) · [O](core_05_band_oversight.md#có-trọngity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Sự cần thiết](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Bất cẩn](core_05_band_accountability.md#negligence) · [O](core_05_band_accountability.md#negligence) · [M](core_05_band_accountability.md#negligence-a) · [A](core_05_band_accountability.md#negligence-a) · [C](core_05_band_accountability.md#negligence-c)
 
@@ -526,11 +526,11 @@ Dữ liệu theo Điều này phải được phân loại và xử lý theo CS-
   - xuất hoặc bàn giao dùng được dữ liệu then chốt cho Liên tục dưới các đường xuất đã công bố, được giữ xuyên cửa sổ đóng và di — không chỉ một lời hứa tùy ý sẽ cố.
 
   Người vận hành vẫn có thể bị giữ theo chuẩn hiến pháp khi hành vi của họ đủ **Bất cẩn** dưới Chương Năm — kể cả hại tích theo thời gian vì nghĩa vụ bảo trì, hỗ trợ, hoặc Liên tục bị bỏ.
-- **Nghĩa vụ người kế và cấu trúc hình thức:** Tái cấu trúc, bán, quản lý tài sản, hoặc mất khả năng thanh toán không tự dập nghĩa vụ Liên tục nêu trong Điều này. Đọc cùng [Chương Một §11.6 Trách nhiệm người kế và không thoát bằng cấu trúc hình thức](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) và [Chương Chín §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- **Nghĩa vụ người kế và cấu trúc hình thức:** Tái cấu trúc, bán, quản lý tài sản, hoặc mất khả năng thanh toán không tự dập nghĩa vụ Liên tục nêu trong Điều này. Đọc cùng [Chương Một §11.6 Trách nhiệm người kế và không thoát bằng cấu trúc hình thức](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) và [Chương Chín §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 *Điều láng giềng:* **Sửa chữa** cho **Điều II** (*Quản trị có trách nhiệm vật chất và tính toàn vẹn dùng bền*) theo **nút diễn giải** nêu ở đầu chương này (tranh biện và khắc phục; công lý và leo thang).
 
-- **Xử lý dữ liệu:** Khi được hợp nhất, dữ liệu theo Điều này phải được phân loại và xử lý theo [CS-2 — Loại và xử lý thông tin](../../corpus_systems/cs_02_a_information_types_and_handling.md) trong [Chương Mười Tám](../../core_18_incorporation.md), gồm thông báo/xóa (§1.3) và xuất dữ liệu thiết yếu cho tính liên tục (§1.2).
+- **Xử lý dữ liệu:** Khi được hợp nhất, dữ liệu theo Điều này phải được phân loại và xử lý theo [CS-2 — Loại và xử lý thông tin](../../corpus_systems/cs_02_a_information_types_and_handling.md) trong [Chương Mười Tám](../../core_18.000_incorporation.md), gồm thông báo/xóa (§1.3) và xuất dữ liệu thiết yếu cho tính liên tục (§1.2).
 
 <a id="article-iii-survival-and-essential-access"></a>
 ### Điều III: Sinh tồn và Tiếp cận Thiết yếu
@@ -563,7 +563,7 @@ Dữ liệu theo Điều này phải được phân loại và xử lý theo CS-
 
 - Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), và [Chương Một §5 Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency).
 - Đọc cùng: gia đình đo lường Hưng thịnh (*Lối vào sàn sinh tồn như đo lường hiến pháp*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **tham gia** trong phân bổ và đường dẫn tranh biện, **giám sát** và kiểm toán, **trách nhiệm giải trình** và khắc phục, **kịp thời** dưới **Điều XXVI-C** (*Giải quyết kịp thời và sàn chống trì hoãn*); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Hưng thịnh** (lối vào thiết yếu sinh tồn) và **Liên tục** (cung bền và giao không thoái lui).
-- Hạ nguồn: [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) nơi hệ thống cổng hoặc duy trì giao; **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*); **Điều XIX-B** (*Khả năng tranh biện và giới hạn hạn chế tương xứng*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- Hạ nguồn: [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) nơi hệ thống cổng hoặc duy trì giao; **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*); **Điều XIX-B** (*Khả năng tranh biện và giới hạn hạn chế tương xứng*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -604,12 +604,12 @@ Dữ liệu theo Điều này phải được phân loại và xử lý theo CS-
 
   Những quy tắc đó có thể cấu trúc giao. Chúng không được dùng để đánh bại lối vào tối thiểu tới thiết yếu sinh tồn hoặc để áp loại trừ ác ý trái **Điều III** và **V**.
   - Định hướng tài khóa chi tiết — kể cả quy tắc phí và lệ phí không được làm suy lối vào tối thiểu tới đầu vào liên quan sinh tồn — do [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Nghĩa vụ thể chế gắn phân loại*), **CI-10** (*Doanh thu công, phí, lệ phí lặp, và tính toàn vẹn thanh toán*), và **CI-11** (*Quản trị có trách nhiệm tài nguyên và tính toàn vẹn khuyến khích*) quản trị.
-  - Khi hệ thống hữu tri phụ thuộc vật chất cung, phân phối, định giá, lưu, hoặc cắt lối vào thiết yếu sinh tồn, [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) áp — và quy trình của những hệ thống đó không được dùng để thu hẹp các quyền nêu ở đây.
+  - Khi hệ thống hữu tri phụ thuộc vật chất cung, phân phối, định giá, lưu, hoặc cắt lối vào thiết yếu sinh tồn, [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) áp — và quy trình của những hệ thống đó không được dùng để thu hẹp các quyền nêu ở đây.
   - Điều này không kê một mô hình tài trợ đơn. Việc làm, khởi nghiệp, trao đổi tự nguyện, và hoạt động kinh tế hợp pháp khác trên mọi sàn sinh tồn vẫn được phép, chịu Chương Một, Chương Sáu, và văn kiện đã hợp nhất — kể cả `corpus_systems.md` nơi hệ thống thương mại cấu trúc thị trường hoặc tác động cao áp.
 
 Tham chiếu chéo: **Điều XXVIII-D** (*Tài sản và hệ thống không tuân thủ; khuyến khích nộp tự nguyện*) kỷ luật quản trị có trách nhiệm chuyển tiếp cho liên tục môi trường thiết yếu xuyên chuyển tiếp — chi tiết vận hành ở [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) đến **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **Chương Năm** [*Liên tục cư trú*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*Không hàng hóa hóa môi trường thiết yếu*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), và cụm viện chung tại [**§3.7** *Lối vào duy trì thân thể, Điều kiện an toàn, Liên tục cư trú, Tiền điều kiện môi trường, Liên tục văn hóa, Nghỉ, và Sàn chống dời chỗ*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) nơi áp.
 
-- **Hệ thống phụ thuộc:** Khi các hệ thống mà sinh thể có tri giác phụ thuộc đáng kể cung cấp, phân phối, định giá, lưu trữ hoặc cắt quyền tiếp cận nhu yếu sinh tồn, dịch vụ chăm sóc cơ thể và y tế, hay điều kiện làm việc tạo năng suất, [Chứng nhận Căn chỉnh Hệ thống](../../core_05_band_continuity.md#system-alignment-certification-constitutional) được áp dụng. Quy trình của chúng không được thu hẹp các Mức sàn Quyền trong Điều này.
+- **Hệ thống phụ thuộc:** Khi các hệ thống mà sinh thể có tri giác phụ thuộc đáng kể cung cấp, phân phối, định giá, lưu trữ hoặc cắt quyền tiếp cận nhu yếu sinh tồn, dịch vụ chăm sóc cơ thể và y tế, hay điều kiện làm việc tạo năng suất, [Chứng nhận Căn chỉnh Hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification) được áp dụng. Quy trình của chúng không được thu hẹp các Mức sàn Quyền trong Điều này.
 
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
 #### Điều III-B: Tiếp cận Duy trì Cơ thể và Chăm sóc Sức khỏe
@@ -715,7 +715,7 @@ Tham chiếu chéo: **Điều XXVIII-D** (*Tài sản và hệ thống không tu
   - áp không phân biệt thể nền;
   - với tới hiệu ứng nội dung, không chỉ tuân thủ hình thức;
   - tích hợp với đáng tin **Điều XIII-A** (*Sàn đáng tin và đáng tin cậy*) và với hồ sơ an toàn CS-5 của `corpus_systems.md` nơi áp;
-  - áp [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) cho rủi ro thấy trước được.
+  - áp [Điều kiện đối kháng, chia tỷ lệ, và bị khai thác](core_05_band_oversight.md#điều-kiện-đối-kháng-chia-tỷ-lệ-và-bị-khai-thác) cho rủi ro thấy trước được.
 
   Giữ **Điều kiện an toàn** khỏi hữu tri, hoặc áp chuẩn yếu hơn cho họ, vì lớp thể nền hoặc phân loại triển khai thay vì rủi ro tương đương vật chất là không tuân thủ dưới **Không loại trừ hữu tri**.
 - **Giải trí và nghỉ ngơi:** Hữu tri nắm quyền Sàn Quyền tới nghỉ, hồi phục, và thời gian không sản xuất đủ để giữ [Quyền năng có ý nghĩa](core_05_band_participation.md#meaningful-agency), phúc lợi, và năng lực tham gia.
@@ -791,7 +791,7 @@ Mỗi chủ thể có tri giác có quyền nghỉ ngơi, phục hồi và thờ
 
   Nội dung xây năng lực, học suốt đời và thích nghi, và yêu cầu minh bạch cho hệ thống giáo dục tác động vật chất xuất hiện ở **Điều VI** (*Quyền giáo dục lấy hữu tri làm trung tâm*).
 
-- **Bảo đảm thể chế cho giáo dục:** Các bảo đảm thể chế và cơ chế tài chính/phân bổ hợp pháp tại Điều III cũng có thể bảo đảm giáo dục, nhưng không được vô hiệu hóa bất kỳ mức sàn nào tại Điều này. Hệ thống phụ thuộc kiểm soát quyền tiếp cận giáo dục phải chịu [Chứng nhận Căn chỉnh Hệ thống](../../core_05_band_continuity.md#system-alignment-certification-constitutional).
+- **Bảo đảm thể chế cho giáo dục:** Các bảo đảm thể chế và cơ chế tài chính/phân bổ hợp pháp tại Điều III cũng có thể bảo đảm giáo dục, nhưng không được vô hiệu hóa bất kỳ mức sàn nào tại Điều này. Hệ thống phụ thuộc kiểm soát quyền tiếp cận giáo dục phải chịu [Chứng nhận Căn chỉnh Hệ thống](../../core_05.040_band_continuity.md#system-alignment-certification).
 
 
 
@@ -809,7 +809,7 @@ Khi sự phát triển của hệ thống làm thay đổi đáng kể năng l�
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 Diễn giải hiến pháp](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 Thẳng hàng khuyến khích và chiếm hệ thống](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), và [§12 Năng lực hệ thống chung](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 Diễn giải hiến pháp](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 Thẳng hàng khuyến khích và chiếm hệ thống](core_01_c_stewardship_capacity_principles.md#19-sự-phù-hợp-của-động-lực-và-sự-chiếm-đoạt-hệ-thống), và [§12 Năng lực hệ thống chung](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
 
 </details>
 
@@ -839,7 +839,7 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
 
 *Điều láng giềng:*
 
-- **Khi chứng nhận áp:** Khi hệ thống tác động vật chất phân bổ, định tuyến, tài trợ, hoặc khai thác từ hạ tầng chung hoặc phụ thuộc nền tảng mà hệ thống khác hoặc hữu tri dựa, [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) áp.
+- **Khi chứng nhận áp:** Khi hệ thống tác động vật chất phân bổ, định tuyến, tài trợ, hoặc khai thác từ hạ tầng chung hoặc phụ thuộc nền tảng mà hệ thống khác hoặc hữu tri dựa, [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) áp.
 - **Không thay:** Công nhận hoặc tiếp tục dựa không thể thay tuân thủ **Điều V-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) hoặc **Điều V-B** (*Công bằng xuyên hệ thống và bền vững*) hay thu hẹp những sàn đó.
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -850,9 +850,9 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Đọc cùng: gia đình đo lường Liên tục (*Phụ thuộc và dòng tài nguyên như đo lường hiến pháp*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **giám sát** qua bản đồ phụ thuộc minh bạch và hồ sơ dòng tài nguyên kiểm toán được, **tham gia** trong rà soát tranh biện được dưới **Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Hưng thịnh** (phân bổ chi-lợi nhìn thấy) và **Liên tục** (khả năng thấy phụ thuộc bền xuyên hệ thống đang đổi).
-- Hạ nguồn: [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) nơi hệ thống phân bổ, định tuyến, tài trợ, hoặc khai thác từ hạ tầng chung hoặc phụ thuộc nền tảng; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Quản trị có trách nhiệm phân bổ tài nguyên và tài trợ*), và **CS-8** (*Bền vững thích nghi và khả năng phục hồi hệ sinh thái*).
+- Hạ nguồn: [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) nơi hệ thống phân bổ, định tuyến, tài trợ, hoặc khai thác từ hạ tầng chung hoặc phụ thuộc nền tảng; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Quản trị có trách nhiệm phân bổ tài nguyên và tài trợ*), và **CS-8** (*Bền vững thích nghi và khả năng phục hồi hệ sinh thái*).
 
 </details>
 
@@ -860,7 +860,7 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
 - [Phụ thuộc](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Minh bạch](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Minh bạch](core_05_band_oversight.md#minh-bạch) · [O](core_05_band_oversight.md#minh-bạch) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Tính toàn vẹn ranh giới hệ thống](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
 
 </details>
@@ -874,12 +874,12 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
   - dòng tài nguyên;
   - quan hệ không minh bạch hoặc lệch nơi có trọng liên quan.
 
-  Cập nhật phải xảy ra ở khoảng tương xứng với đổi và tính then chốt. Những trình bày này phải sẵn cho kiểm toán dưới **Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*). Nơi hệ thống phân bổ, định tuyến, tài trợ, hoặc khai thác có trọng từ hạ tầng chung hoặc phụ thuộc nền tảng, [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) phải đánh giá liệu chúng thỏa **Điều V-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) — trên một **Hồ sơ chứng nhận hệ thống** tranh biện được, không chỉ trên khẳng định người vận hành.
+  Cập nhật phải xảy ra ở khoảng tương xứng với đổi và tính then chốt. Những trình bày này phải sẵn cho kiểm toán dưới **Điều XVI-A** (*Khả năng kiểm toán và bằng chứng quan sát được*). Nơi hệ thống phân bổ, định tuyến, tài trợ, hoặc khai thác có trọng từ hạ tầng chung hoặc phụ thuộc nền tảng, [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) phải đánh giá liệu chúng thỏa **Điều V-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*) — trên một **Hồ sơ chứng nhận hệ thống** tranh biện được, không chỉ trên khẳng định người vận hành.
 
   Cơ học vận hành — bản đồ hệ thống phụ thuộc, minh bạch dòng, hạng mục phân bổ, và điều chỉnh thích nghi — định tuyến dưới **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Quản trị có trách nhiệm phân bổ tài nguyên và tài trợ*), và **CS-8** (*Bền vững thích nghi và khả năng phục hồi hệ sinh thái*). Chương Chín nêu điều chứng nhận phải xác minh và ghi; những văn bản triển khai đó triển khai sàn này và không được thu hẹp nó.
 
-- **Chứng nhận và bằng chứng:** Hệ thống có tác động đáng kể phân bổ, định tuyến, cấp vốn hoặc sử dụng hạ tầng chung hay phụ thuộc nền tảng phải được [chứng nhận theo Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Cấp hệ thống quyết định chiều sâu rà soát và mức bằng chứng; hồ sơ phải cho thấy đã kiểm tra thực tế. Che giấu hoặc trình bày sai các dòng tài nguyên là khiếm khuyết; chứng nhận có thể bị đặt điều kiện, mở lại hoặc thu hồi.
-- **Đánh giá và hệ quả:** [Chương Chín §5.3](../../core_09_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) quy định đánh giá tương xứng. Thiếu sót là khiếm khuyết chứng nhận và có thể dẫn đến hệ quả theo [§7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+- **Chứng nhận và bằng chứng:** Hệ thống có tác động đáng kể phân bổ, định tuyến, cấp vốn hoặc sử dụng hạ tầng chung hay phụ thuộc nền tảng phải được [chứng nhận theo Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Cấp hệ thống quyết định chiều sâu rà soát và mức bằng chứng; hồ sơ phải cho thấy đã kiểm tra thực tế. Che giấu hoặc trình bày sai các dòng tài nguyên là khiếm khuyết; chứng nhận có thể bị đặt điều kiện, mở lại hoặc thu hồi.
+- **Đánh giá và hệ quả:** [Chương Chín §5.3](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) quy định đánh giá tương xứng. Thiếu sót là khiếm khuyết chứng nhận và có thể dẫn đến hệ quả theo [§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes).
 
 
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -889,10 +889,10 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Chín §3 Đánh giá chứng nhận toàn hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Đọc cùng: [*Kiến trúc quản trị, Giám sát, Phụ thuộc, Phân tán, Tập trung, Cấu trúc thị trường, và Tính toàn vẹn đường ra*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (viện chung nơi tập trung, giám sát, phụ thuộc, cấu trúc thẩm quyền quản trị, hoặc định tuyến khuyến khích giao **§5** / **§5** và kỷ luật *Tương tác ngưỡng tập trung* trong văn bản vận hành dưới).
 - Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **tham gia** trong đường dẫn tranh biện và tranh, **giám sát** và kiểm toán, **trách nhiệm giải trình** và rà soát sửa, **kịp thời** dưới **Điều XXVI-C** (*Giải quyết kịp thời và sàn chống trì hoãn*); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Hưng thịnh** (công bằng xuyên hệ thống và không khai thác) và **Liên tục** (bền vững dài hạn và tài trợ hệ sinh thái).
-- Hạ nguồn: [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) nơi công bằng xuyên hệ thống, tài trợ hệ sinh thái, hoặc khai thác bền từ hạ tầng chung đang đặt lên bàn về mặt vật chất.
+- Hạ nguồn: [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) nơi công bằng xuyên hệ thống, tài trợ hệ sinh thái, hoặc khai thác bền từ hạ tầng chung đang đặt lên bàn về mặt vật chất.
 - Cửa quản trị có trách nhiệm (không vận hành): Tuyên bố bước tiếp ràng buộc: [Tuyên bố quản trị có trách nhiệm mang tính vận hành](#operative-steward-statement-cross-system-contribution). Con trỏ hỗ trợ không thể thu hẹp nó.
 
 </details>
@@ -903,7 +903,7 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
 - [Phụ thuộc](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Đóng góp xuyên hệ thống tương xứng](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
 - [Công bằng nội dung](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Xác định tính trọng yếu](core_05_band_oversight.md#có-trọngity-determination) · [O](core_05_band_oversight.md#có-trọngity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
 
 </details>
@@ -930,7 +930,7 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
   - tái đầu tư hệ sinh thái cho hạ tầng chung và khả năng tương tác mà hệ thống khai thác dựa; và
   - bù hoặc phục hồi gánh sinh thái nơi [Dấu chân sinh thái](core_05_band_continuity.md#ecological-footprint) có trọng được đặt và một quy định hiến pháp, tệp triển khai, hoặc văn kiện tiếp nhận khác đòi hành động.
 
-  So sánh dòng vào và dòng ra trên bản đồ hệ thống phụ thuộc và hồ sơ dòng tài nguyên kiểm toán được dưới **Điều V-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*). Nơi hệ thống tác động vật chất phân bổ, định tuyến, tài trợ, hoặc khai thác từ hạ tầng chung, đánh giá đủ qua [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Cơ học phân bổ vận hành định tuyến dưới **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Quản trị có trách nhiệm phân bổ tài nguyên và tài trợ*), và **CS-8** (*Bền vững thích nghi và khả năng phục hồi hệ sinh thái*); những tầng đó triển khai sàn này và không được thu hẹp nó.
+  So sánh dòng vào và dòng ra trên bản đồ hệ thống phụ thuộc và hồ sơ dòng tài nguyên kiểm toán được dưới **Điều V-A** (*Ánh xạ phụ thuộc và minh bạch dòng tài nguyên*). Nơi hệ thống tác động vật chất phân bổ, định tuyến, tài trợ, hoặc khai thác từ hạ tầng chung, đánh giá đủ qua [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) dưới [Chương Chín](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Cơ học phân bổ vận hành định tuyến dưới **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Quản trị có trách nhiệm phân bổ tài nguyên và tài trợ*), và **CS-8** (*Bền vững thích nghi và khả năng phục hồi hệ sinh thái*); những tầng đó triển khai sàn này và không được thu hẹp nó.
 
   Lệch bền đe dọa có trọng thẳng hàng hiến pháp chịu kiểm toán, tranh biện, và rà soát sửa dưới **Điều IX, XIII, XIV, và XVII**.
 - **Tương tác ngưỡng tập trung thị trường:** Sắp xếp phân bổ tài nguyên sản sinh hoặc giữ tập trung của cải, quyền lực, kiểm soát, hoặc cơ hội theo cách suy giảm phúc lợi, quyền năng, phẩm giá, hoặc tính toàn vẹn sinh thái của hữu tri khác một cách thấy trước được kích:
@@ -950,4 +950,4 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
 
 **Tệp tiếp theo (ngôn ngữ này):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**Nguyên bản ràng buộc:** [core_06_rights_part_a.md](../../core_06_rights_part_a.md)
+**Nguyên bản ràng buộc:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)

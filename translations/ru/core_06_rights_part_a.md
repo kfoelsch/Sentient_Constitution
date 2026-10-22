@@ -6,7 +6,7 @@
 
 > Следующее содержание — **только ориентир для читателя**. Оно не добавляет, не снимает и не сужает связывающих обязанностей в этом файле или в других главах.
 >
-> Этот файл — **пилот читательского языка** [английской Главы шестой, Части A](../../core_06_rights_part_a.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
+> Этот файл — **пилот читательского языка** [английской Главы шестой, Части A](../../core_06.005_rights_part_a.md). **Не** является связывающей частью Конституции сентентов. **Не** является второй конституцией. **Не** является изданием к отправке. **Закреплён** за `SC-Corpus-2026.08.09`. Если этот перевод и английский оригинал кажутся расходящимися, побеждает нумерованный файл [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md). Порядок чтения и метаданные издания ведутся в [README.md](../../README.md). Метод и глоссарий: [translations/ru/README.md](README.md).
 >
 > Он содержит **Главу шестую, Часть A**; нумерация статей и перекрёстные ссылки совпадают с интегрированным инструментом.
 >
@@ -43,14 +43,14 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims); [материальная ставка](core_00_preamble.md#material-stake).
-- Исход: [Глава первая §6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Глава первая §6.1.5 Процедура столкновения прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Исход: [Глава первая §19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Исход: [Глава первая §6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#13-процедура-разрешения-конституционных-коллизий); [Глава первая §6.1.5 Процедура столкновения прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Исход: [Глава первая §19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-согласование-стимулов-и-захват-системы).
 - Исход: Главы со второй по четвёртую; определения Главы пятой.
-- Назначение: **Части A–D** этой главы; [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional); [Глава седьмая](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
-- Назначение: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 Охват слоя](#12-layer-scope).
-- Читать вместе с: [Стек власти и внутренняя иерархия](core_05_band_integrative.md#owner-non-relocation) и [Преамбула — позитивный реестр владельцев](core_00_preamble.md#4-principles-definitions-and-rights); [Статья XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Право оспаривать, на пересмотр и восстановление*).
+- Назначение: **Части A–D** этой главы; [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional); [Глава седьмая](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- Назначение: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 Охват слоя](#12-охват-слоя).
+- Читать вместе с: [Стек власти и внутренняя иерархия](core_05_band_integrative.md#owner-non-relocation) и [Преамбула — позитивный реестр владельцев](core_00_preamble.md#4-принципы-определения-и-права); [Статья XIII-B](core_06_rights_part_c.md#статья-xiii-b-право-на-возмещение-и-исправление) (*Право оспаривать, на пересмотр и восстановление*).
 - Читать вместе с: [Статья XV](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Аудит, прозрачность и независимая проверка*).
-- Читать вместе с: [Статья XX-C](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*Оспоримость и пределы соразмерного ограничения*); [Статья XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Своевременное разрешение и пол против промедления*).
+- Читать вместе с: [Статья XX-C](core_06_rights_part_d.md#статья-xix-b-оспоримость-и-пределы-соразмерных-ограничений) (*Оспоримость и пределы соразмерного ограничения*); [Статья XXVI-C](core_06_rights_part_e.md#статья-xxvi-c-своевременное-разрешение-и-минимум-защиты-от-задержек) (*Своевременное разрешение и пол против промедления*).
 
 </details>
 
@@ -73,9 +73,9 @@
 Более широкий конституционный стек объясняет, как этот пол толкуется, ограничивается, проверяется и обеспечивается. Если положение этой главы прямо не говорит иное, каждое право Главы шестой читается вместе с:
 - **Главой первой**, включая:
   - **ограничения ценности** — Безопасность, Истина, Необходимость, Соразмерность и системная оценка местных, совокупных, отложенных и межсистемных эффектов;
-  - **дисциплину взаимодействия** — [Глава первая §6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process);
+  - **дисциплину взаимодействия** — [Глава первая §6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#13-процедура-разрешения-конституционных-коллизий);
   - **конституционное масштабирование** — [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad), [Две конституционные цели](core_00_preamble.md#two-constitutional-aims) и масштабирование по [материальной ставке](core_00_preamble.md#material-stake);
-  - **согласование стимулов и захват системы** — [Глава первая §19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) и смежная дисциплина ответственного управления, но только там, где дизайн стимулов, доверие, верность, захват, рыночная структура или защищаемое ограничение материально уместны.
+  - **согласование стимулов и захват системы** — [Глава первая §19](core_01_c_stewardship_capacity_principles.md#19-согласование-стимулов-и-захват-системы) и смежная дисциплина ответственного управления, но только там, где дизайн стимулов, доверие, верность, захват, рыночная структура или защищаемое ограничение материально уместны.
 - **Главами со второй по четвёртую** — целостность определений, бремя и прослеживаемость, наблюдаемость, доступная проверка и наблюдаемость, ограниченная безопасностью, где это применяется.
 - **Главой пятой** — определения, которые материально касаются оцениваемого права, поведения, системы или ограничения.
 - **правилами классификации и масштаба** — **Материальность**, **Зависимость** и любое инкорпорированное правило класса, яруса или каденции, которое поставляет принимающий инструмент.
@@ -87,13 +87,13 @@
 
 Пол прав должен работать на практике, а не только на бумаге. Предметы выживания под **Статьёй III-A** (*Выживание*) — пища, вода, кров, среда работы и сравнимые входы, независимые от субстрата, — самый ясный пример. **Расцвет** требует реального доступа к этим предметам. **Преемственность** требует надёжной, нерегрессивной поставки со временем, особенно там, где общие системы контролируют доставку.
 
-[Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) проверяют, согласованы ли материально воздействующие системы, прежде чем их признают или на них опираются в масштабе. Глава седьмая также поставляет оспоримость записи сертификации, пересмотр затрагиваемых сторон и доступности, надзорную последовательность и пути оспаривания решений о согласовании системы. **Статья XIII** (*Право на надёжные и заслуживающие доверия системы*) поставляет права оспаривания и аудита. **Статья XIX-B** (*Оспоримость и пределы соразмерного ограничения*) не даёт пределам траектории стать чёрным ходом вокруг доступа, критичного для выживания. Вместе [Глава седьмая](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) и [цепочка траектории и надзора форумов Глав с восьмой по одиннадцатую](../../README.md#standing-pipeline-and-forums) образуют Ключевые практические цепочки процессов для оспоримости, проверенной классификации, надзора форумов и своевременного средства защиты. Эти механизмы помогают обеспечивать Главу шестую. Они не заменяют, не сужают и не переносят права, названные здесь.
+[Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) проверяют, согласованы ли материально воздействующие системы, прежде чем их признают или на них опираются в масштабе. Глава седьмая также поставляет оспоримость записи сертификации, пересмотр затрагиваемых сторон и доступности, надзорную последовательность и пути оспаривания решений о согласовании системы. **Статья XIII** (*Право на надёжные и заслуживающие доверия системы*) поставляет права оспаривания и аудита. **Статья XIX-B** (*Оспоримость и пределы соразмерного ограничения*) не даёт пределам траектории стать чёрным ходом вокруг доступа, критичного для выживания. Вместе [Глава седьмая](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) и [цепочка траектории и надзора форумов Глав с восьмой по одиннадцатую](../../README.md#standing-pipeline-and-forums) образуют Ключевые практические цепочки процессов для оспоримости, проверенной классификации, надзора форумов и своевременного средства защиты. Эти механизмы помогают обеспечивать Главу шестую. Они не заменяют, не сужают и не переносят права, названные здесь.
 
 **Интерпретационные узлы.** Если более конкретная статья не поставляет иное правило, повторяющиеся вопросы маршрутизируются через эти якоря:
 
 **Полы прав и поставка**
 - **Предметы выживания и сохранение их доступности** — **Статья III-A** (*Выживание*); **Статья XIX-B** (*Оспоримость и пределы соразмерного ограничения*), чтобы пределы траектории не могли перекрыть доступ; читать вместе с **Статьёй XII-B** (*Право оспаривать, на пересмотр и восстановление*) и **Статьёй XV** (*Аудит, прозрачность и независимая проверка*) там, где применяется оспаривание или аудит
-- **Сертификация согласования системы** — [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional); [Глава седьмая](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **Сертификация согласования системы** — [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional); [Глава седьмая](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **Проверка и средство защиты**
 - **Записи аудита и независимая проверка** — **Статья XVI** (*Аудит, прозрачность и независимая проверка*) вместе с **Главами со второй по четвёртую**
@@ -101,7 +101,7 @@
 
 **Споры и своевременный процесс**
 - **Справедливость, реституция, границы ограничения, чрезвычайные ситуации и столкновения прав** — **Статья XXIII** (*Разрешение конфликтов, эскалация и чрезвычайная соразмерность*); [Глава первая §6.1.5 Процедура столкновения прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **Ключевые практические цепочки процессов** — **Статья XXVI-C** (*Своевременное разрешение и пол против промедления*); [Глава седьмая](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **Ключевые практические цепочки процессов** — **Статья XXVI-C** (*Своевременное разрешение и пол против промедления*); [Глава седьмая](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 Более короткие перекрёстные ссылки на эти темы в остальной этой главе включают эти якоря.
 
@@ -109,13 +109,13 @@
 
 #### 1.2 Охват слоя
 
-*Простыми словами: Глава шестая называет, на что сентенты имеют право на уровне Пола прав. Траектория, форумы, управление, поправка и повседневная реализация живут в своих главах-владельцах — эта глава может туда указывать, но не должна их переизлагать. Маршрутизация владельцев: [Преамбула — позитивный реестр владельцев](core_00_preamble.md#4-principles-definitions-and-rights); запрет переноса: [Стек власти и внутренняя иерархия](core_05_band_integrative.md#owner-non-relocation).*
+*Простыми словами: Глава шестая называет, на что сентенты имеют право на уровне Пола прав. Траектория, форумы, управление, поправка и повседневная реализация живут в своих главах-владельцах — эта глава может туда указывать, но не должна их переизлагать. Маршрутизация владельцев: [Преамбула — позитивный реестр владельцев](core_00_preamble.md#4-принципы-определения-и-права); запрет переноса: [Стек власти и внутренняя иерархия](core_05_band_integrative.md#owner-non-relocation).*
 
 Этот раздел применяется к **Частям A–D** (Статьи **I**–**XXVI**, включая все подстатьи). Под [Стеком власти и внутренней иерархией](core_05_band_integrative.md#owner-non-relocation) эта глава не должна поглощать, переизлагать или переносить обязанности, принадлежащие другому слою конституционного владельца. Перекрёстные указатели — включая директивы «читать вместе с», вызов стека ограничений по умолчанию, якоря интерпретационных узлов и интеграционные фразы вроде «реализация принадлежит» или «не должна сужать» — разрешены и ожидаются; **содержательное переизложение** механики процесса, управления или реализации в текст слоя прав является **несоответствующим**.
 
 Межслойное рассогласование, которое ввозит обязанности другого слоя-владельца в **Главу шестую** — будь то прямым текстом, прозой ориентира для читателя, возведённой в оперативный эффект, или выводом из перекрёстных ссылок, — является **несоответствующим** под этим разделом. Наоборот, любая глава слоя-владельца или текст реализации, который претендует **сузить, переопределить или перенести** Пол прав Главы шестой, несоответствующ под запретом регрессии **Главы тринадцатой** и под этим разделом.
 
-Будущие добавления к **Главе шестой**, которые касаются языка процессуального, управленческого или реализационного оттенка, должны включать явный указатель запрета переноса к каноническому дому владельца в [Преамбуле — позитивном реестре владельцев](core_00_preamble.md#4-principles-definitions-and-rights) (и, где применяется, к соответствующей записи определения Главы пятой), читаемый вместе со [Стеком власти и внутренней иерархией](core_05_band_integrative.md#owner-non-relocation).
+Будущие добавления к **Главе шестой**, которые касаются языка процессуального, управленческого или реализационного оттенка, должны включать явный указатель запрета переноса к каноническому дому владельца в [Преамбуле — позитивном реестре владельцев](core_00_preamble.md#4-принципы-определения-и-права) (и, где применяется, к соответствующей записи определения Главы пятой), читаемый вместе со [Стеком власти и внутренней иерархией](core_05_band_integrative.md#owner-non-relocation).
 
 <a id="part-a-planetary-preconditions-material-stewardship-survival-equal-educational-access-and-shared-resources"></a>
 ### Часть A: Планетарные предпосылки, материальное ответственное управление, выживание, равный образовательный доступ и общие ресурсы
@@ -126,7 +126,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) и [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#13-процедура-разрешения-конституционных-коллизий) и [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 - [Недопущение исключения из-за сентентности](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion-c)
 </details>
@@ -179,7 +179,7 @@
 - **Предпосылки, целостность и устойчивость:** **Средовые предпосылки**, **Экологическая целостность** и **Устойчивость** Главы пятой оперативны под этой статьёй.
   - Природные системы, поддерживающие жизнь, держат собственные интересы преемственности и целостности. Эти интересы информируют толкование рядом с интересами сентентов.
   - Материальный вред, нарушающий эту статью — оцениваемый под **Средовыми предпосылками**, **Экологической целостностью** и **Устойчивостью**, — несоответствующ.
-  - Вред, нарушающий средовые требования, названные в [инструменте принятия](../../core_17_amendment_ratification.md#102-instrument-of-adoption) принявшего или в инкорпорированном тексте реализации внутри охвата принятия, также несоответствующ.
+  - Вред, нарушающий средовые требования, названные в [инструменте принятия](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) принявшего или в инкорпорированном тексте реализации внутри охвата принятия, также несоответствующ.
 - **Взаимодействие животной жизни:** [Животная жизнь](core_05_band_participation.md#animal-life) занимает область защиты благополучия между **Траекторией природных систем** и Полом прав Главы шестой для сентентов.
   - Она устанавливает минимальные полы жестокости и благополучия для животной жизни под **Неисключением сентентности** там, где вред благополучия материально затронут.
   - Она не замена повышенному коммуникативному обращению или разбирательству статуса сентентности там, где запись материально ставит эти вопросы.
@@ -205,7 +205,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Ограничения эпистемического раскрытия](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Ограничения эпистемического раскрытия](core_01_b_interaction_interpretation.md#132-ограничения-на-раскрытие-знаний) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -213,9 +213,9 @@
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
 
 - [Экологический след](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [Материальное воздействие](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-- [Прозрачность](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Эпистемическая целостность](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Материальное воздействие](core_05_band_oversight.md#материальное-воздействие) · [O](core_05_band_oversight.md#материальное-воздействие) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Прозрачность](core_05_band_oversight.md#прозрачность) · [O](core_05_band_oversight.md#прозрачность) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Эпистемическая целостность](core_05_band_oversight.md#эпистемическая-целостность) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -264,8 +264,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [§14 Требование системной оценки](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- Читать вместе с: [Безопасность (ограничение)](core_05_band_continuity.md#safety-constraint), [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint), [Средовые предпосылки](core_05_band_continuity.md#environmental-preconditions), [Способность экологического восстановления](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Межпоколенческая ответственность](core_05_band_continuity.md#intergenerational-responsibility-constitutional) и [Экзистенциальный риск](core_05_band_continuity.md#existential-risk).
+- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [§14 Требование системной оценки](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
+- Читать вместе с: [Безопасность (ограничение)](core_05_band_continuity.md#safety-constraint), [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение), [Средовые предпосылки](core_05_band_continuity.md#environmental-preconditions), [Способность экологического восстановления](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Межпоколенческая ответственность](core_05_band_continuity.md#intergenerational-responsibility-constitutional) и [Экзистенциальный риск](core_05_band_continuity.md#existential-risk).
 - Назначение: **Статья XXIII-D** (*Чрезвычайные меры и бремя продолжения*) — дисциплина против предлога и ограниченного по времени пересмотра там, где вызывается рамка экзистенциального риска или чрезвычайности.
 
 </details>
@@ -275,7 +275,7 @@
 
 - [Экзистенциальный риск](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
 - [Способность экологического восстановления](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [Должная предвидимость](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [Должная предвидимость](core_05_band_oversight.md#должная-предвидимость) · [O](core_05_band_oversight.md#должная-предвидимость) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [Зависимость](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
 </details>
@@ -300,9 +300,9 @@
 
   Записи решений должны открыто называть неопределённость, допущения, пределы доказательств, разногласие и материальные пробелы.
 - **Предел нынешней выгоды:** нынешняя выгода не оправдывает несоразмерного подвергания будущих сентентов, систем, критичных для экологического восстановления, или жизнеподдерживающих экологических условий вреду цивилизационного масштаба или критичному для выживания.
-- **Названные меры:** акторы, ищущие уполномочивания, продолжения или расширения под этой статьёй, должны были назвать в [инструменте принятия](../../core_17_amendment_ratification.md#102-instrument-of-adoption) или в инкорпорированном тексте реализации внутри охвата принятия меры снижения, потолка или прерывания, соразмерные пути, — включая вред климатической системе как фактор [Средовых предпосылок](core_05_band_continuity.md#environmental-preconditions). Эта статья по-прежнему не задаёт числовую цель. **Статья I-B** (*Экологический след и прозрачность*) остаётся подразделом приписывания следа и по-прежнему сама по себе не требует снижения. Продолжение без этих названных мер, пока правдоподобный путь под этой статьёй остаётся открытым, несоответствующ.
+- **Названные меры:** акторы, ищущие уполномочивания, продолжения или расширения под этой статьёй, должны были назвать в [инструменте принятия](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) или в инкорпорированном тексте реализации внутри охвата принятия меры снижения, потолка или прерывания, соразмерные пути, — включая вред климатической системе как фактор [Средовых предпосылок](core_05_band_continuity.md#environmental-preconditions). Эта статья по-прежнему не задаёт числовую цель. **Статья I-B** (*Экологический след и прозрачность*) остаётся подразделом приписывания следа и по-прежнему сама по себе не требует снижения. Продолжение без этих названных мер, пока правдоподобный путь под этой статьёй остаётся открытым, несоответствующ.
 
-- **Ограничение текущей выгоды:** Текущая выгода не оправдывает несоразмерное подвергание будущих сенциентов, систем, важных для экологического восстановления, или условий жизнеобеспечения цивилизационному либо критическому для выживания вреду. Ни одна природная экосистема не должна подвергаться необратимой утрате [способности к экологическому восстановлению](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) в любом масштабе.
+- **Ограничение текущей выгоды:** Текущая выгода не оправдывает несоразмерное подвергание будущих сенциентов, систем, важных для экологического восстановления, или условий жизнеобеспечения цивилизационному либо критическому для выживания вреду. Ни одна природная экосистема не должна подвергаться необратимой утрате [способности к экологическому восстановлению](../../core_05.040_band_continuity.md#ecological-recovery-capacity) в любом масштабе.
 
 - **Актуальное правило высшей проверки:** Высшая проверка обязательна, если система, политика, инфраструктура, согласованная деятельность или решение управления создаёт достоверный причинный путь к Экзистенциальному риску либо необратимой утрате Способности экологического восстановления, даже при низкой вероятности, отсроченном/накопительном/пороговом эффекте или спорных сроках. Проверка охватывает прямые, косвенные, совокупные, adversarial и межсистемные пути, концентрацию зависимости, сбой координации, ухудшение экологических предпосылок, утрату восстановления и системную блокировку. Экосистему оценивают целиком — по функциям, связности, регенерации и взаимозависимости, а не по одному виду или местной популяции. Местный чек-лист, бумажный расчёт затрат и выгод или краткосрочная выгода недостаточны, пока достоверные пути не устранены. Ищущие разрешение, продолжение или расширение обязаны доказать для каждой существенно более безопасной альтернативы, что она принята либо не достигает законной цели или недоступна; что смягчение и остановка соразмерны вреду; и что мониторинг выявит путь и позволит прервать его до необратимости, причём названный ответственный имеет полномочия и практическую возможность остановить его. Бремя продолжается: оно возобновляется при новых существенных данных, расширении и периодически с частотой по риску; неопределённость и малая вероятность его не снимают. Каждое решение — существенно обязательный акт; запись связывает обоснование и оценку проверяющего и открыто указывает неопределённость, допущения, пределы доказательств, разногласия и пробелы. Текущая выгода не оправдывает несоразмерное подвергание будущих существ или систем восстановления критическому вреду и не оправдывает необратимую потерю способности восстановления любой природной экосистемы в любом масштабе. В акте принятия должны быть названы соразмерные меры сокращения, предела или остановки, включая климатический ущерб; числовой цели здесь нет, а I-B измеряет след, но сама не требует его сокращать.
 
@@ -312,7 +312,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) и [§9.2 Распределённое понимание](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
+- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#16-ответственное-управление-подробное-рассмотрение) и [§9.2 Распределённое понимание](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
 
 </details>
 
@@ -349,9 +349,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
-- Читать вместе с: [Глава девятая §5.1 Оценка экологического следа](../../core_09_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) и [§5.6 Оценка надёжности и целостности доверия к системе](../../core_09_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (если система с существенным воздействием сертифицируется, там оцениваются нагрузки и заявления о жизненном цикле; эта статья сама по себе не требует сертификации).
+- Читать вместе с: [Глава девятая §5.1 Оценка экологического следа](../../core_09.005_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) и [§5.6 Оценка надёжности и целостности доверия к системе](../../core_09.005_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (если система с существенным воздействием сертифицируется, там оцениваются нагрузки и заявления о жизненном цикле; эта статья сама по себе не требует сертификации).
 
 </details>
 
@@ -385,7 +385,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) и [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) и [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса).
 
 </details>
 
@@ -419,15 +419,15 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
 
-- [Согласование стимулов](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
-- [Должная предвидимость](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [Согласование стимулов](core_05_band_integrative.md#согласование-стимулов) · [O](core_05_band_integrative.md#согласование-стимулов) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [Должная предвидимость](core_05_band_oversight.md#должная-предвидимость) · [O](core_05_band_oversight.md#должная-предвидимость) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [Необходимость](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Соразмерность](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -441,7 +441,7 @@
   - продукт перестаёт быть полезным раньше, чем должен; или
   - сентентов толкают заменить его, когда замена не является разумно необходимой.
 
-  Если цены, планы продаж, оплата персонала, сервисные договоры или сходные схемы дают производителю или оператору выгоду от выбрасывания изделий либо удержания инструментов, деталей или руководств для ремонта, применяются также [Глава первая §19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) и **Статья XIII-D** (*Ограничение согласования стимулов*).
+  Если цены, планы продаж, оплата персонала, сервисные договоры или сходные схемы дают производителю или оператору выгоду от выбрасывания изделий либо удержания инструментов, деталей или руководств для ремонта, применяются также [Глава первая §19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-согласование-стимулов-и-захват-системы) и **Статья XIII-D** (*Ограничение согласования стимулов*).
 
   Этот пол не применяется, когда оператор может задокументировать **Необходимость** и **Соразмерность** — например, подлинное исправление безопасности, ответ защиты или реальный предел интероперабельности. Эти причины не должны подменять долговечный дизайн, который был разумно доступен.
 
@@ -458,7 +458,7 @@
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
 
 - [Согласие](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Зависимость](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Значимая агентность](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Принуждение и манипуляция](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
@@ -485,8 +485,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Читать вместе с: [Статья XXI-A](core_06_rights_part_d.md#article-xxi-a-portability-rights) (*Права переносимости*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Типы информации и обращение**; **CJS-3.17** (*условия интероперабельности, переносимости и целостности выхода*) и **CJS-3.18** (*условия хранения данных и целостности жизненного цикла*); [Глава первая §19.6 Ответственность преемника и запрет бегства через формальную структуру](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape); [Глава девятая §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) и [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Читать вместе с: [Статья XXI-A](core_06_rights_part_d.md#статья-xxi-a-право-на-переносимость) (*Права переносимости*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Типы информации и обращение**; **CJS-3.17** (*условия интероперабельности, переносимости и целостности выхода*) и **CJS-3.18** (*условия хранения данных и целостности жизненного цикла*); [Глава первая §19.6 Ответственность преемника и запрет бегства через формальную структуру](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape); [Глава девятая §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) и [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -527,7 +527,7 @@
   - используемому экспорту или передаче данных, критичных для преемственности, по раскрытым путям экспорта, сохранённым через окна отключения и миграции, — а не просто дискреционному обещанию попытаться.
 
   Операторы всё ещё могут быть удерживаемы к конституционным стандартам, когда их поведение квалифицируется как **Халатность** под Главой пятой, — включая вред, который накапливается со временем, потому что обязанности обслуживания, поддержки или преемственности были заброшены.
-- **Обязанности преемников и формальной структуры:** реструктуризация, продажа, внешнее управление или несостоятельность сами по себе не гасят обязанности преемственности, названные в этой статье. Читать вместе с [Главой первой §19.6 Ответственность преемника и запрет бегства через формальную структуру](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape) и [Главой девятой §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- **Обязанности преемников и формальной структуры:** реструктуризация, продажа, внешнее управление или несостоятельность сами по себе не гасят обязанности преемственности, названные в этой статье. Читать вместе с [Главой первой §19.6 Ответственность преемника и запрет бегства через формальную структуру](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape) и [Главой девятой §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 *Соседи статьи:* **исправление** **Статьи II** (*Материальное ответственное управление и целостность долговечного использования*) следует **интерпретационным узлам**, названным в открытии этой главы (оспаривание и восстановление; справедливость и эскалация).
 
@@ -539,7 +539,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Читать вместе с: **Статьёй I** (*Экологическое выживание*), **Статьёй II** (*Материальное ответственное управление и целостность долговечного использования*) и Главой пятой там, где выживание, телесное поддержание или трудовые условия материально стоят на кону.
-- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) и [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
+- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 Разрешение процессуальных конфликтов](core_01_b_interaction_interpretation.md#13-процедура-разрешения-конституционных-коллизий) и [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#16-ответственное-управление-подробное-рассмотрение).
 
 </details>
 
@@ -563,7 +563,7 @@
 
 - Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint) и [Глава первая §5 Свобода](core_01_a_values_principles.md#5-freedom-bounded-agency).
 - Читать вместе с: семьёй измерений Расцвета (*доступ к полу выживания как конституционное измерение*); [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad) — **участие** в путях распределения и оспаривания, **надзор** и аудит, **подотчётность** и средство защиты, **своевременность** под **Статьёй XXIV-C** (*Своевременное разрешение и пол против промедления*); [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) — **Расцвет** (доступ к предметам выживания) и **Преемственность** (долговечная поставка и нерегрессивная доставка).
-- Назначение: [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) там, где системы воротят или поддерживают доставку; **Статья XIII-B** (*Право оспаривать, на пересмотр и восстановление*); **Статья XIX-B** (*Оспоримость и пределы соразмерного ограничения*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- Назначение: [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) там, где системы воротят или поддерживают доставку; **Статья XIII-B** (*Право оспаривать, на пересмотр и восстановление*); **Статья XIX-B** (*Оспоримость и пределы соразмерного ограничения*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -604,12 +604,12 @@
 
   Эти правила могут структурировать доставку. Их нельзя использовать, чтобы победить минимальный доступ к предметам выживания или навязать одиозное исключение, противное **Статьям III** и **V**.
   - Подробная фискальная ориентация — включая правило, что сборы и платежи не должны подрывать минимальный доступ к входам, уместным для выживания, — управляется [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Институциональные обязанности, связанные с классификацией*), **CI-10** (*Публичные доходы, сборы, повторяющиеся платежи и целостность выставления счетов*) и **CI-11** (*Ответственное управление ресурсами и целостность стимулов*).
-  - Когда системы, от которых сентенты материально зависят, поставляют, распределяют, назначают цену, размещают или отрезают доступ к предметам выживания, применяется [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — и процессы этих систем нельзя использовать, чтобы сузить права, названные здесь.
+  - Когда системы, от которых сентенты материально зависят, поставляют, распределяют, назначают цену, размещают или отрезают доступ к предметам выживания, применяется [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — и процессы этих систем нельзя использовать, чтобы сузить права, названные здесь.
   - Эта статья не предписывает одну модель финансирования. Занятость, предпринимательство, добровольный обмен и иная законная экономическая деятельность выше любого пола выживания остаются разрешёнными, подлежащими Главе первой, Главе шестой и инкорпорированным инструментам — включая `corpus_systems.md` там, где применяются системы структурирования рынка или коммерческие системы высокого воздействия.
 
 Перекрёстная ссылка: **Статья XXVIII-D** (*Несоответствующее имущество и системы; стимулы добровольной передачи*) — переходная дисциплина ответственного управления для преемственности существенной среды сквозь переход — оперативная деталь в [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) через **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **Глава пятая** [*Преемственность обитания*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*Некоммодификация существенной среды*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional) и кластер совместного вызова в [**§3.7** *Доступ к телесному поддержанию, безопасные условия, преемственность обитания, средовые предпосылки, культурная преемственность, отдых и пол против вытеснения*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) там, где применяется.
 
-- **Зависимые системы:** Когда системы, от которых сенциенты существенно зависят, предоставляют, распределяют, устанавливают цену, размещают или прекращают доступ к жизненно необходимым ресурсам, телесному уходу и медицинской помощи либо условиям продуктивного труда, применяется [сертификация системного соответствия](../../core_05_band_continuity.md#system-alignment-certification-constitutional). Их процессы не могут снижать минимальные уровни прав этой статьи.
+- **Зависимые системы:** Когда системы, от которых сенциенты существенно зависят, предоставляют, распределяют, устанавливают цену, размещают или прекращают доступ к жизненно необходимым ресурсам, телесному уходу и медицинской помощи либо условиям продуктивного труда, применяется [сертификация системного соответствия](../../core_05.040_band_continuity.md#system-alignment-certification). Их процессы не могут снижать минимальные уровни прав этой статьи.
 
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
 #### Статья III-B: Доступ к телесному поддержанию и здравоохранению
@@ -715,7 +715,7 @@
   - применяться независимо от субстрата;
   - достигать содержательного эффекта, а не только формального соответствия;
   - интегрироваться с надёжностью **Статьи X-C** (*Базовый уровень надёжности и заслуживаемости доверия*) и с профилями безопасности `corpus_systems.md` CS-5 там, где применяется;
-  - применять [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) к предвидимому риску.
+  - применять [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#противодействующие-масштабированные-и-эксплуатируемые-условия) к предвидимому риску.
 
   Удержание **Безопасных условий** у сентентов или применение к ним более слабого стандарта из-за классификации субстрата или реализации, а не материально сравнимого риска, несоответствующе под **Неисключением сентентности**.
 - **Досуг и отдых:** сентенты держат право Пола прав на отдых, восстановление и непроизводительное время, достаточные, чтобы сохранять [Значимую агентность](core_05_band_participation.md#meaningful-agency), благополучие и способность участия.
@@ -787,7 +787,7 @@
 
   Содержание построения способности, пожизненное и адаптивное обучение и требования прозрачности для материально воздействующих образовательных систем появляются в **Статье VI** (*Право на образование, центрированное на сентенте*).
 
-- **Институциональные гарантии и образование:** Законные финансовые и распределительные гарантии статьи III могут обеспечивать образование, но не отменять установленные здесь минимумы. Если зависимые системы контролируют доступ к образованию, применяется [сертификация системного соответствия](../../core_05_band_continuity.md#system-alignment-certification-constitutional), и их процессы не могут снижать эти уровни прав.
+- **Институциональные гарантии и образование:** Законные финансовые и распределительные гарантии статьи III могут обеспечивать образование, но не отменять установленные здесь минимумы. Если зависимые системы контролируют доступ к образованию, применяется [сертификация системного соответствия](../../core_05.040_band_continuity.md#system-alignment-certification), и их процессы не могут снижать эти уровни прав.
 
 
 
@@ -807,7 +807,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 Конституционное толкование](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) и [§12 Способность общих систем](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 Конституционное толкование](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-согласование-стимулов-и-захват-системы) и [§12 Способность общих систем](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
 
 </details>
 
@@ -837,7 +837,7 @@
 
 *Соседи статьи:*
 
-- **Когда применяется сертификация:** когда материально воздействующие системы распределяют, маршрутизируют, финансируют или извлекают из общей инфраструктуры или основополагающих зависимостей, на которые опираются другие системы или сентенты, применяется [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- **Когда применяется сертификация:** когда материально воздействующие системы распределяют, маршрутизируют, финансируют или извлекают из общей инфраструктуры или основополагающих зависимостей, на которые опираются другие системы или сентенты, применяется [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - **Незамещение:** признание или продолжающаяся опора не могут подменять соответствие **Статье V-A** (*Карта зависимостей и прозрачность потоков ресурсов*) или **Статье V-B** (*Межсистемная справедливость и устойчивость*) и не могут сужать эти полы.
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -848,9 +848,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Глава седьмая §3 Оценка сертификации целой системы](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Глава седьмая §3 Оценка сертификации целой системы](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Читать вместе с: семьёй измерений Преемственности (*Зависимость и потоки ресурсов как конституционное измерение*); [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad) — **надзор** через прозрачные карты зависимостей и аудитируемые записи потоков ресурсов, **участие** в оспоримом пересмотре под **Статьёй XV-A** (*Аудитируемость и наблюдаемые доказательства*); [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) — **Расцвет** (видимое распределение издержек и выгод) и **Преемственность** (долговечная видимость зависимости сквозь меняющиеся системы).
-- Назначение: [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) там, где системы распределяют, маршрутизируют, финансируют или извлекают из общей инфраструктуры или основополагающих зависимостей; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Ответственное управление распределением ресурсов и финансированием*) и **CS-8** (*Адаптивная устойчивость и живучесть экосистемы*).
+- Назначение: [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) там, где системы распределяют, маршрутизируют, финансируют или извлекают из общей инфраструктуры или основополагающих зависимостей; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Ответственное управление распределением ресурсов и финансированием*) и **CS-8** (*Адаптивная устойчивость и живучесть экосистемы*).
 
 </details>
 
@@ -858,7 +858,7 @@
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соответствие</span></strong></summary>
 
 - [Зависимость](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Прозрачность](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Прозрачность](core_05_band_oversight.md#прозрачность) · [O](core_05_band_oversight.md#прозрачность) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Целостность границы системы](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
 
 </details>
@@ -872,12 +872,12 @@
   - потоков ресурсов;
   - непрозрачных или асимметричных отношений там, где материально уместно.
 
-  Обновления должны происходить с интервалами, соразмерными изменению и критичности. Эти представления должны быть доступны для аудита под **Статьёй XV-A** (*Аудитируемость и наблюдаемые доказательства*). Там, где система материально распределяет, маршрутизирует, финансирует или извлекает из общей инфраструктуры или основополагающих зависимостей, [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) должна оценить, удовлетворяют ли они **Статье V-A** (*Карта зависимостей и прозрачность потоков ресурсов*) — по оспоримой **Записи сертификации системы**, а не просто по утверждению оператора.
+  Обновления должны происходить с интервалами, соразмерными изменению и критичности. Эти представления должны быть доступны для аудита под **Статьёй XV-A** (*Аудитируемость и наблюдаемые доказательства*). Там, где система материально распределяет, маршрутизирует, финансирует или извлекает из общей инфраструктуры или основополагающих зависимостей, [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) должна оценить, удовлетворяют ли они **Статье V-A** (*Карта зависимостей и прозрачность потоков ресурсов*) — по оспоримой **Записи сертификации системы**, а не просто по утверждению оператора.
 
   Оперативная механика — карты зависимых систем, прозрачность потоков, категории распределения и адаптивная подстройка — маршрутизируется под **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Ответственное управление распределением ресурсов и финансированием*) и **CS-8** (*Адаптивная устойчивость и живучесть экосистемы*). Глава седьмая называет, что сертификация должна проверить и записать; эти тексты реализации осуществляют этот пол и не должны его сужать.
 
-- **Сертификация и доказательства:** Системы со значительным воздействием, распределяющие, направляющие, финансирующие или использующие общую инфраструктуру либо ключевые зависимости, проходят [сертификацию по главе девять](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Класс определяет глубину проверки и уровень доказательств; запись должна показывать фактическую проверку. Сокрытие или искажение потоков является дефектом; сертификация может стать условной, быть возобновлена или отозвана.
-- **Проверка и последствия:** [Глава девять §5.3](../../core_09_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) определяет пропорциональную оценку и ее документирование. Недостатки являются дефектами сертификации и могут повлечь меры по [§7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes).
+- **Сертификация и доказательства:** Системы со значительным воздействием, распределяющие, направляющие, финансирующие или использующие общую инфраструктуру либо ключевые зависимости, проходят [сертификацию по главе девять](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Класс определяет глубину проверки и уровень доказательств; запись должна показывать фактическую проверку. Сокрытие или искажение потоков является дефектом; сертификация может стать условной, быть возобновлена или отозвана.
+- **Проверка и последствия:** [Глава девять §5.3](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) определяет пропорциональную оценку и ее документирование. Недостатки являются дефектами сертификации и могут повлечь меры по [§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes).
 
 
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -885,10 +885,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Читать вместе с: [*Архитектура управления, надзор, зависимость, децентрализация, концентрация, рыночная структура и целостность пути выхода*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (совместный вызов там, где концентрация, надзор, зависимость, структура управляющей власти или маршрутизация стимулов пересекают **§5** / **§5** и дисциплину *Взаимодействие порога концентрации* в оперативном тексте ниже).
 - Читать вместе с: [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad) — **участие** в путях оспаривания и возражения, **надзор** и аудит, **подотчётность** и исправительный пересмотр, **своевременность** под **Статьёй XXIV-C** (*Своевременное разрешение и пол против промедления*); [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) — **Расцвет** (межсистемная справедливость и неизвлечение) и **Преемственность** (долгосрочная устойчивость и финансирование экосистемы).
-- Назначение: [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) там, где межсистемная справедливость, финансирование экосистемы или устойчивое извлечение из общей инфраструктуры материально стоят на кону.
+- Назначение: [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) там, где межсистемная справедливость, финансирование экосистемы или устойчивое извлечение из общей инфраструктуры материально стоят на кону.
 - Дверь ответственного управления (неоперативная): Связывающее заявление следующего шага: [Оперативное заявление ответственного управляющего](#operative-steward-statement-cross-system-contribution). Указатели поддержки не могут его сузить.
 
 </details>
@@ -926,7 +926,7 @@
   - экосистемное реинвестирование в общую инфраструктуру и интероперабельность, на которые опирается извлекающая система; и
   - компенсацию или восстановление экологической нагрузки там, где налагается материальный [Экологический след](core_05_band_continuity.md#ecological-footprint) и другое конституционное положение, файл реализации или инструмент принятия требует действия.
 
-  Сравните притоки и оттоки на картах зависимых систем и аудитируемых записях потоков ресурсов под **Статьёй V-A** (*Карта зависимостей и прозрачность потоков ресурсов*). Там, где материально воздействующие системы распределяют, маршрутизируют, финансируют или извлекают из общей инфраструктуры, оцените достаточность через [Сертификацию согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Оперативная механика распределения маршрутизируется под **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Ответственное управление распределением ресурсов и финансированием*) и **CS-8** (*Адаптивная устойчивость и живучесть экосистемы*); эти слои осуществляют этот пол и не должны его сужать.
+  Сравните притоки и оттоки на картах зависимых систем и аудитируемых записях потоков ресурсов под **Статьёй V-A** (*Карта зависимостей и прозрачность потоков ресурсов*). Там, где материально воздействующие системы распределяют, маршрутизируют, финансируют или извлекают из общей инфраструктуры, оцените достаточность через [Сертификацию согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) под [Главой седьмой](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Оперативная механика распределения маршрутизируется под **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Ответственное управление распределением ресурсов и финансированием*) и **CS-8** (*Адаптивная устойчивость и живучесть экосистемы*); эти слои осуществляют этот пол и не должны его сужать.
 
   Устойчивые дисбалансы, которые материально угрожают конституционному согласованию, подлежат аудиту, оспариванию и исправительному пересмотру под **Статьями IX, XII, XIV и XVII**.
 - **Взаимодействие порога рыночной концентрации:** устройства распределения ресурсов, которые производят или сохраняют концентрацию богатства, власти, контроля или возможности способами, которые предсказуемо деградируют благополучие, агентность, достоинство или экологическую целостность других сентентов, запускают:
@@ -946,5 +946,5 @@
 
 **Следующий файл (этот язык):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**Связывающий оригинал:** [core_06_rights_part_a.md](../../core_06_rights_part_a.md)
+**Связывающий оригинал:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
 

@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">在文本库中的位置（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 本文件是[英语第二章](../../core_02_definition_structure.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_02_definition_structure.md`](../../core_02_definition_structure.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
+> 本文件是[英语第二章](../../core_02.000_definition_structure.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_02_definition_structure.md`](../../core_02.000_definition_structure.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > **上一篇（本语种）：** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
@@ -17,11 +17,11 @@
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：定义栈与第二章所在位置</span></strong></summary>
 
 > **第二至五章**构成宪法定义栈；**[CJS](../../corpus_joint_structure.md)** 承载适用它的操作性定义：
-> - **第二章（本文件）** — O/M/A/C 定义结构与组件对齐：每一项定义链接**本体（O）**（它是什么）、与**评估（A）**义务交织的**测量（M）**登记（必须如何测量与评估），以及**合规（C）**（必须成立什么）（[§1 宗旨与角色](core_02_definition_structure.md#1-purpose-and-role)；[§2 定义完整性要求](core_02_definition_structure.md#2-definition-integrity-requirement)）。
-> - **第三章** — 定义完整性、规避与不合规（[第三章](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)）。
-> - **第四章** — 举证责任、定义可追溯性、可观察性、安全限度下的核验，以及核验可及性（[第四章 — 举证责任、可追溯性与核验](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)）。
-> - **第五章** — 用于测量、评价与合规的共享词汇（第 1–3 节中的独立、成组与套装定义，跨越五个四元带文件与宪法宗旨文件：[繁盛宗旨](core_05_apex_flourishing_aim.md)、[监督](../../core_05_band_oversight.md)、[参与](../../core_05_band_participation.md)、[问责](../../core_05_band_accountability.md)、[延续](../../core_05_band_continuity.md)、[整合](../../core_05_band_integrative.md)）；阅读顺序与地图在 [A 部分](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
-> - **CJS** — 跨实施用语的操作性定义（[CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 操作性聚类库）；适用第五章典范家园 — 不得重新定义它们。**CS**、**CI** 与 **CF** 中的领域分类与协议遵循同一规则。
+> - **第二章（本文件）** — O/M/A/C 定义结构与组件对齐：每一项定义链接**本体（O）**（它是什么）、与**评估（A）**义务交织的**测量（M）**登记（必须如何测量与评估），以及**合规（C）**（必须成立什么）（[§1 宗旨与角色](core_02_definition_structure.md#1-宗旨与角色)；[§2 定义完整性要求](core_02_definition_structure.md#2-定义完整性要求)）。
+> - **第三章** — 定义完整性、规避与不合规（[第三章](core_03_definition_integrity.md#第三章定义完整性规避与不合规)）。
+> - **第四章** — 举证责任、定义可追溯性、可观察性、安全限度下的核验，以及核验可及性（[第四章 — 举证责任、可追溯性与核验](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)）。
+> - **第五章** — 用于测量、评价与合规的共享词汇（第 1–3 节中的独立、成组与套装定义，跨越五个四元带文件与宪法宗旨文件：[繁盛宗旨](core_05_apex_flourishing_aim.md)、[监督](../../core_05.050_band_oversight.md)、[参与](../../core_05.055_band_participation.md)、[问责](../../core_05.035_band_accountability.md)、[延续](../../core_05.040_band_continuity.md)、[整合](../../core_05.045_band_integrative.md)）；阅读顺序与地图在 [A 部分](core_05__definitions_home.md#第五章指南针与定义地图)。
+> - **CJS** — 跨实施用语的操作性定义（[CJS-5.105](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 操作性聚类库）；适用第五章典范家园 — 不得重新定义它们。**CS**、**CI** 与 **CF** 中的领域分类与协议遵循同一规则。
 >
 > 额外导航：
 > - **反挪位规则：** 超出定义范围的程序性工作流、执行机制与分类图式，不得被吸收进本章。
@@ -32,7 +32,7 @@
 
 第二章是**定义结构与组件对齐**的宪法主责者。
 
-*用直白的话说：第二至五章是宪法定义栈 — 建造（二）、保持诚实（三）、核验（四）、命名（五）。第二章由相互链接的部分建造每一项定义 — 一项用语是什么（O）、必须如何测量与评估（与评估交织的测量登记，M/A），以及实践中必须成立什么（C）。跨实施操作性定义住在 [CJS](../../corpus_joint_structure.md)（[CJS-3 — 跨实施操作性用语](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)）；它们适用第五章用语，并不重新定义它们。*
+*用直白的话说：第二至五章是宪法定义栈 — 建造（二）、保持诚实（三）、核验（四）、命名（五）。第二章由相互链接的部分建造每一项定义 — 一项用语是什么（O）、必须如何测量与评估（与评估交织的测量登记，M/A），以及实践中必须成立什么（C）。跨实施操作性定义住在 [CJS](../../corpus_joint_structure.md)（[CJS-5.105 — 跨实施操作性用语](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)）；它们适用第五章用语，并不重新定义它们。*
 
 <br>
 
@@ -43,16 +43,16 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[序言 §1 模型](core_00_preamble.md#the-model) — [宪法四元](core_00_preamble.md#constitutional-tetrad)、[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)与[实质利害](core_00_preamble.md#material-stake)缩放，经各节溯源适用于全章；[第一章 §1 宗旨与角色](core_01_a_values_principles.md#1-purpose-and-role)（*本定义栈所服务的价值与约束*）。
-- 上游：[第二章开篇](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C 分解与内部对齐要求。
+- 上游：[第二章开篇](#第二章定义结构与组件要求) — O/M/A/C 分解与内部对齐要求。
 - 四元腿：**监督**、**问责**（定义必须可评估，并在可观察行为上可执行）。首要宗旨：**繁盛**与**延续**。[实质利害](core_00_preamble.md#material-stake)缩放适用于全章。
-- 下游：[§1.2 测量组件](#12-measurement-components)与 [§1.3 评估组件](#13-assessment-components)（*与评估义务交织的测量（M）登记；本章中的 O/M/A/C 入口形态*）；[§2 定义完整性要求](#2-definition-integrity-requirement)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第五章指南针与定义地图](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
-- 一并阅读：[序言 — 宪法主责登记](core_00_preamble.md#4-principles-definitions-and-rights)与[权威栈与内部层级](../../core_05_band_integrative.md#authority-stack)；[宪法约束](../../core_05_band_integrative.md#constitutional-constraint) — 其后的执行、治理、实施、测量、审计与分类机制必须遵从；[CJS-3.1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — 操作性定义适用、且不得重新定义第五章典范家园。
+- 下游：[§1.2 测量组件](#12-measurement-components)与 [§1.3 评估组件](#13-assessment-components)（*与评估义务交织的测量（M）登记；本章中的 O/M/A/C 入口形态*）；[§2 定义完整性要求](#2-定义完整性要求)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-定义完整性与反规避约束)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第五章指南针与定义地图](core_05__definitions_home.md#第五章指南针与定义地图)。
+- 一并阅读：[序言 — 宪法主责登记](core_00_preamble.md#4-原则定义与权利)与[权威栈与内部层级](../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy)；[宪法约束](../../core_05.045_band_integrative.md#constitutional-constraint) — 其后的执行、治理、实施、测量、审计与分类机制必须遵从；[CJS-5.105 §1 宪法指南针与聚类地图](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — 操作性定义适用、且不得重新定义第五章典范家园。
 
 </details>
 
 <br>
 
-*用直白的话说：本节是第二章的职责说明。它主责定义栈的第一层：每一项宪法定义由相互链接的部分建造 — 一项用语是什么（O）、必须如何测量与评估（与评价交织的测量登记，M/E），以及实践中必须成立什么（C） — 并且那些部分必须保持对齐。满足一项而绕开另一项，不算数。执行、治理与测量运营住在其后各章，并且必须遵从本章所确立者。*
+*用直白的话说：本节是第二章的职责说明。它主责定义栈的第一层：每一项宪法定义由相互链接的部分建造 — 一项用语是什么（O）、必须如何测量与评估（与评价交织的测量登记，M/A），以及实践中必须成立什么（C） — 并且那些部分必须保持对齐。满足一项而绕开另一项，不算数。执行、治理与测量运营住在其后各章，并且必须遵从本章所确立者。*
 
 每一项宪法定义必须由相互链接的部分构成，每一部分恰好一项工作：
 - **本体（O）** — 该用语关于什么。
@@ -60,7 +60,7 @@
 - **评估（A）** — 该用语必须如何被评估。在第五章叶定义上，**测量（M）**登记被织入**评估（A）**组件。见 [§1.3 评估组件](#13-assessment-components)。
 - **合规（C）** — 实践中必须为真者。
 
-那些部分必须在每一项定义内部保持一致。执行、治理、实施、测量运营、审计，以及超出定义范围的分类机制，属于其后各章；它们必须遵从此处确立的[宪法约束](../../core_05_band_integrative.md#constitutional-constraint)。
+那些部分必须在每一项定义内部保持一致。执行、治理、实施、测量运营、审计，以及超出定义范围的分类机制，属于其后各章；它们必须遵从此处确立的[宪法约束](../../core_05.045_band_integrative.md#constitutional-constraint)。
 
 每一项定义必须就系统实际运行的整体而被满足 — 包括跨感知者、机器与地点分布的系统。O、M、A 与 C 各部分必须一并通过，在同一范围、同一检验条件下。靠切掉系统片段、收窄什么算数，或削弱另一部分来通过某一部分，不算数。
 
@@ -118,8 +118,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第二章开篇](#chapter-two-definition-structure-and-component-requirements)；[§1 宗旨与角色](#1-purpose-and-role) — A 组件在 O/M/A/C 分解中的角色。
-- 下游：[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 为第二、三章所定义评估要求而设的排他执行路径；[第四章，第 5 节 — 合规证据标准](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 该执行的证据充分性。
+- 上游：原则：[第二章开篇](#第二章定义结构与组件要求)；[§1 宗旨与角色](#1-宗旨与角色) — A 组件在 O/M/A/C 分解中的角色。
+- 下游：[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-定义完整性与反规避约束)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 为第二、三章所定义评估要求而设的排他执行路径；[第四章，第 5 节 — 合规证据标准](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) — 该执行的证据充分性。
 - 一并阅读：[第五章独立定义](core_05__definitions_home.md#1-interdependent-definitions) — 统管评估范围与条件的可适用定义；评估要求在每一项可适用第五章定义的准入范围内与之一致适用。
 
 </details>
@@ -188,9 +188,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[§1 宗旨与角色](#1-purpose-and-role) — O/M/A/C 组件结构与整系统联合满足规则。
-- 下游：[§2.4 歧义下的解释规则](#24-interpretation-rule-under-ambiguity)；[§3 跨定义栈的一致性](#3-consistency-across-the-definition-stack)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第四章，第 5 节 — 合规证据标准](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)。
-- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 第二至四章中每一处「合理可预见」的操作性含义。
+- 上游：[§1 宗旨与角色](#1-宗旨与角色) — O/M/A/C 组件结构与整系统联合满足规则。
+- 下游：[§2.4 歧义下的解释规则](#24-歧义下的解释规则)；[§3 跨定义栈的一致性](#3-跨定义栈的一致性)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-定义完整性与反规避约束)；[第四章，第 1 节 — 排他执行与负担分配](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第四章，第 5 节 — 合规证据标准](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard)。
+- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05.050_band_oversight.md#foreseeability) — 第二至四章中每一处「合理可预见」的操作性含义。
 
 </details>
 
@@ -200,7 +200,7 @@
 
 <a id="21-core-integrity-conditions"></a>
 #### 2.1 核心完整性条件
-每一项定义在适用时必须保持整体成立。[§1 宗旨与角色](#1-purpose-and-role)所要求的相互链接部分必须：
+每一项定义在适用时必须保持整体成立。[§1 宗旨与角色](#1-宗旨与角色)所要求的相互链接部分必须：
 - 彼此仍然一致
 - 全部一并被满足；只满足其中一项或两项不够
 - 在同一系统、同一条件下被满足 — 不得在狭窄切片上通过一部分，又在不同切片上通过另一部分
@@ -217,9 +217,9 @@
 <a id="23-construction-constraints"></a>
 #### 2.3 构造约束
 定义必须写成：
-- 所有部分 (O, M, E, C) 只能在反映系统真实行为及其真实产出的条件下一并被满足
+- 所有部分 (O, M, A, C) 只能在反映系统真实行为及其真实产出的条件下一并被满足
 - 任何一部分都不得靠概括化、拆分、收窄范围，或以漏掉真正要紧的系统要素、互动或效果的方式来描述，而被满足
-- 任何测量都不得顶替它本应捕捉的结果；偏离其所代表真实世界结果的测量（见[替代指标偏离](../../core_05_band_oversight.md#proxy-divergence)）不能满足该定义，并且测量的选择不得收缩必须被评估者，或实践中必须成立者
+- 任何测量都不得顶替它本应捕捉的结果；偏离其所代表真实世界结果的测量（见[替代指标偏离](../../core_05.050_band_oversight.md#proxy-divergence)）不能满足该定义，并且测量的选择不得收缩必须被评估者，或实践中必须成立者
 - 任何未陈述的假设、隐藏依赖或被省略的条件，都不得改变或削弱必须被评估者，或实践中必须成立者
 
 <a id="24-interpretation-rule-under-ambiguity"></a>
@@ -237,13 +237,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[§2 定义完整性要求](#2-definition-integrity-requirement)；[§1 宗旨与角色](#1-purpose-and-role)。
-- 下游：[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)；[第四章，第 2 节 — 定义可追溯性要求](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；第四章第 **4.1**、**3**、**5** 与 **6** 节中，「合理可预见」出现且没有指向第五章的行内指针之处。
-- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 统管第二至四章中每一处「合理可预见」的规则；操作性含义在[合理可预见](../../core_05_band_oversight.md#reasonably-foreseeable)（第五章，第 3 节 — 依赖聚类（真理与认识完整性聚类；可预见性勤勉））。
+- 上游：原则：[§2 定义完整性要求](#2-定义完整性要求)；[§1 宗旨与角色](#1-宗旨与角色)。
+- 下游：[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-来自可观察系统行为的不合规)；[第四章，第 2 节 — 定义可追溯性要求](../../core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement)；第四章第 **4.1**、**3**、**5** 与 **6** 节中，「合理可预见」出现且没有指向第五章的行内指针之处。
+- 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05.050_band_oversight.md#foreseeability) — 统管第二至四章中每一处「合理可预见」的规则；操作性含义在[合理可预见](../../core_05.050_band_oversight.md#reasonably-foreseeable)（第五章，第 3 节 — 依赖聚类（真理与认识完整性聚类；可预见性勤勉））。
 
 </details>
 
-<strong><span style="color: #2563eb;">定义：</span></strong> [可预见性](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">定义：</span></strong> [可预见性](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *用直白的话说：一项定义不只是必须在纸上保持整体成立 — 它必须在真实世界中跨定义栈保持整体成立。其各部分必须在正常、降级与对抗性运行中以同一方式对齐，随时间、跨相连系统、在你能够合理预见的每一种情形中，以及在对其语词的每一种公正读法下。*
 
@@ -260,4 +260,4 @@
 
 **下一文件（本语种）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**有约束力的原文：** [core_02_definition_structure.md](../../core_02_definition_structure.md)
+**有约束力的原文：** [core_02_definition_structure.md](../../core_02.000_definition_structure.md)

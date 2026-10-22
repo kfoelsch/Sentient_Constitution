@@ -94,7 +94,7 @@ flowchart TB
 
 - [Kedudukan Peserta](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [Pemangku kepentingan](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
-- [Dampak Material](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Dampak Material](core_05_band_oversight.md#dampak-material) · [O](core_05_band_oversight.md#dampak-material) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [Martabat dan Kedudukan Moral yang Setara](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Ganti Rugi dan Remediasi](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Kontestabilitas](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
@@ -107,7 +107,7 @@ flowchart TB
 
 Pasal ini menyatakan **landasan konstitusional** untuk status kedudukan dan partisipasi di bawah [Dua Tujuan Konstitusi](core_00_preamble.md#two-constitutional-aims):
 
-- **Maju:** masyarakat dapat mempertahankan dan menantang kelayakan peran melalui jalur yang sah, jamak, dan dapat diaudit – tanpa label yang menggantikan martabat, minimum Hak-Hak, atau status pemangku kepentingan ketika [Dampak Material](core_05_band_oversight.md#material-impact) hadir; Kelayakan jalur bernama bergantung pada bukti yang ada saat ini, dapat diamati, dan dapat diperdebatkan, bukan pada merek, skala, atau penghargaan di masa lalu saja.
+- **Maju:** masyarakat dapat mempertahankan dan menantang kelayakan peran melalui jalur yang sah, jamak, dan dapat diaudit – tanpa label yang menggantikan martabat, minimum Hak-Hak, atau status pemangku kepentingan ketika [Dampak Material](core_05_band_oversight.md#dampak-material) hadir; Kelayakan jalur bernama bergantung pada bukti yang ada saat ini, dapat diamati, dan dapat diperdebatkan, bukan pada merek, skala, atau penghargaan di masa lalu saja.
 - **Kontinuitas:** disiplin yang berlaku tetap dapat direvisi seiring berjalannya waktu — pembatasan tetap proporsional, dapat dipulihkan jika diperbaiki, dan tidak boleh menjadi pengecualian permanen dari suara dasar konstitusi kecuali jika **Bab Sebelas** **pelanggaran anti-konstitusional** klasifikasi dan [**Bab Tiga Belas §4.1 Hak dan kelayakan**](core_13_governance.md#41-entitlement-and-eligibility) secara tegas menahan suara politik yang bertahan lama **restitusi penuh**.
 
 Pengejaran yang sah dilakukan melalui [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), diskalakan menjadi [taruhan materi](core_00_preamble.md#material-stake):
@@ -140,7 +140,7 @@ Itu harus tetap berbeda dari:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
 - Baca dengan: [Bab Sepuluh §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*batas kompetensi dan izin*), [Bilah Kompetensi](core_05_band_accountability.md#competency-bar), dan [Izin Kompetensi](core_05_band_accountability.md#competency-clearance); [Bab Sepuluh §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*penguncian kedudukan*), [Pelanggaran Alam](core_05_band_accountability.md#violation-nature-chapter-six), dan [Penguncian kedudukan](core_05_band_accountability.md#standing-lock) — jalur bernama yang membatasi dari masukan Sumbu Pelanggaran yang terverifikasi; izin kompetensi tidak menghapuskan penguncian kedudukan yang berlaku, dan kontribusi yang baik tidak menghapus temuan pelanggaran yang belum terselesaikan.
 
 </details>
@@ -192,7 +192,7 @@ Artikel ini menjelaskan perbedaan kedudukan dengan palang kompetensi, izin kompe
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), dan [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Hilir: [Bab Sembilan §2](core_09_standing_assessment.md#2-question-1--what-happened) (*catatan kedudukan, gerbang masukan terverifikasi, dan isi catatan minimum*); [Bab Sembilan §3.6](core_09_standing_assessment.md#36-forum-boundary) (*batas forum*); [Bab Sepuluh §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*batas kompetensi dan izin*); [Bab Sepuluh §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*penguncian kedudukan*); [Bab Sepuluh §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*pengaktifan kembali dan peninjauan*).
 - Baca dengan: **Pasal III-A** (*Kelangsungan hidup*); **Pasal XIII-A** (*Dasar Keandalan dan Kepercayaan*) dan **Pasal XIII-B** (*Hak untuk Mendapatkan Ganti Rugi dan Pemulihan*); [Pembukaan §6.2 Bagaimana rantai penuh menyatu](core_00_preamble.md#62-how-the-full-chain-fits-together); [Sertifikasi Penyelarasan Sistem](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — **partisipasi**, **pengawasan**, **akuntabilitas**, dan **ketepatan waktu** di bawah **Pasal XXVI-C** (*Resolusi Tepat Waktu dan Lantai Anti Penundaan*) dan **Pasal XX-B** (*Lantai Pembatasan*).
 
@@ -205,7 +205,7 @@ Artikel ini menjelaskan perbedaan kedudukan dengan palang kompetensi, izin kompe
 - [Proporsionalitas](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Kebutuhan](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Keadilan Prosedural](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Kemampuan Audit](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Kemampuan Audit](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Pelanggaran Alam](core_05_band_accountability.md#violation-nature-chapter-six) · [O](core_05_band_accountability.md#violation-nature-chapter-six) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
 - [Bilah Kompetensi](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
 - [Izin Kompetensi](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
@@ -245,7 +245,7 @@ Pasal ini menetapkan batas-batas kontestabilitas dan proporsionalitas pada pemba
   - Temuan Poros Pelanggaran yang berdampak lebih rendah pada [Bab Sembilan §7 skala terpadu](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) tidak membenarkan pengecualian yang bertahan lama jika tidak ada bukti pola yang berulang, penghindaran, atau hubungan yang merugikan secara material. Kelalaian, penyembunyian, paksaan, pengulangan, dan deskriptor karakter serupa menginformasikan ulasan tersebut tetapi tidak memindahkan slot dampak Bab Sembilan.
   - Eskalasi karena tindakan yang berulang atau tanggung jawab disembunyikan harus tetap diperlukan, proporsional, dapat ditinjau, dan dikaitkan dengan temuan yang diverifikasi.
 - **Batasan minimum Hak dan non-penyitaan:** Status peserta, batasan kompetensi, izin kompetensi, dan status status hanya mengatur kelayakan peran dan jalur hak istimewa saja. Mereka tidak boleh:
-  - menangguhkan, mengesampingkan, memadamkan, atau mengurangi **Minimum Dasar Hak** diterapkan melalui **Pasal VI** (*Hak-hak Dasar yang Sama*) berdasarkan [Prinsip Minimum Dasar Hak](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle);
+  - menangguhkan, mengesampingkan, memadamkan, atau mengurangi **Minimum Dasar Hak** diterapkan melalui **Pasal VI** (*Hak-hak Dasar yang Sama*) berdasarkan [Prinsip Minimum Dasar Hak](core_01_b_interaction_interpretation.md#prinsip-minimum-lantai-hak);
   - menyita akses penting untuk bertahan hidup atau **Pasal III-A** (*Kelangsungan Hidup*) alokasi sumber daya dan tingkat ketergantungan jika ada dampak material; atau
   - menyita jalur audit, tantangan, atau perbaikan yang disyaratkan secara konstitusional – termasuk berdasarkan ketentuan di bawah ini **Pasal XIII-A** (*Dasar Keandalan dan Kepercayaan*) dan **Pasal XIII-B** (*Hak untuk Ganti Rugi dan Ganti Rugi*), **Pasal XV-B** (*Transparansi, Auditabilitas, dan Kontestabilitas*), dan **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*) — tidak ada justifikasi yang memadai berdasarkan **Bab Satu**, **Bab Lima**, dan prosedur terpadu yang berlaku.
 - **Pemulihan kembali dan non-kubu:** Jika kedudukan berkurang karena temuan pelanggaran, sistem harus memberikan kondisi yang jelas untuk peninjauan, restorasi berbasis remediasi, dan evaluasi ulang secara berkala berdasarkan ketentuan yang ada. [Bab Sepuluh §8 Restorasi dan penilaian ulang](core_10_standing_integration.md#8-restoration-and-reassessment).
@@ -259,7 +259,7 @@ Pasal ini menetapkan batas-batas kontestabilitas dan proporsionalitas pada pemba
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan).
 
 </details>
 
@@ -273,7 +273,7 @@ Pasal ini menetapkan batas-batas kontestabilitas dan proporsionalitas pada pemba
 - [Kedudukan Peserta](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [Kegagalan Akuntabilitas Kolektif](core_05_band_accountability.md#collective-accountability-failure) · [O](core_05_band_accountability.md#collective-accountability-failure) · [M](core_05_band_accountability.md#collective-accountability-failure-a) · [A](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
 - [Memercayai](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Pilihan Konstitusional yang Mendasar](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [Pilihan Konstitusional yang Mendasar](core_05_band_integrative.md#pilihan-konstitusional-fondasional) · [O](core_05_band_integrative.md#pilihan-konstitusional-fondasional) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [Keadilan Prosedural](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Kebutuhan](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proporsionalitas](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -314,9 +314,9 @@ Pasal ini mengatur kelayakan dan tanggung jawab jalur yang disebutkan, serta dis
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Pertukaran Inti](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [§18 Tata Kelola di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Pertukaran Inti](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), dan [§18 Tata Kelola di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan).
 - Hilir: [Bab Sebelas §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*penguncian kedudukan*); [Bab Sebelas §8](core_11_standing_integration.md#8-restoration-and-reassessment) (*pemulihan dan peninjauan*).
-- Baca bersama: [Pasal XIX-E](#article-xix-e-voting-and-special-locks) (*Pemungutan Suara dan Penguncian Khusus*); [Bab Sepuluh §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*skala terpadu*); **Pasal XX-B** (*Batas Pembatasan*); [Pasal XXII-D](#article-xxii-d-limitation-custody-and-emergency-discipline) (*kedudukan bukan perbatasan*).
+- Baca bersama: [Pasal XIX-E](#pasal-xix-e-pemungutan-suara-dan-penguncian-khusus) (*Pemungutan Suara dan Penguncian Khusus*); [Bab Sepuluh §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*skala terpadu*); **Pasal XX-B** (*Batas Pembatasan*); [Pasal XXII-D](#pasal-xxii-d-pembatasan-penahanan-dan-disiplin-darurat) (*kedudukan bukan perbatasan*).
 
 </details>
 
@@ -342,9 +342,9 @@ Pasal ini mengatur pencatatan pelanggaran dan penerapan penguncian kedudukan:
   - Kelayakan dan penguncian harus memperhitungkan partisipasi yang menyetujui serta kegagalan menentang arahan yang melanggar hukum atau konstitusi ketika kewajiban dan kapasitas material memang ada, selaras dengan **Bab Lima** (*Kegagalan Akuntabilitas Kolektif*).
 - **Penguncian kedudukan:** [Penguncian Kedudukan](core_05_band_accountability.md#standing-lock) adalah pasangan pembatas dari izin kompetensi. Selama temuan pelanggaran terverifikasi belum diselesaikan atau belum dipulihkan secara material, penguncian dapat mencegah atau membatasi jalur kepercayaan, peran, kewenangan, kredit, pengawasan, pengakuan, **pemungutan suara pemerintahan**, atau **partisipasi pemangku kepentingan** menurut [Bab Sebelas §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*Penguncian Kedudukan Umum*). Konsekuensi pembatasan hanya diterapkan melalui penguncian pada jalur hak istimewa yang disebutkan—termasuk, jika risiko terverifikasi mengharuskannya, pemisahan dari lingkungan, jaringan, atau makhluk sadar tertentu dalam [batas pemisahan](core_11_standing_integration.md#51-separation-limits) Bab Sebelas §5.1 (*Definisi dan Penerapan*).
   - Penguncian kedudukan bukan peringkat martabat, pengurangan Lantai Hak, pembalasan otomatis, atau skor jasa gabungan.
-  - Setiap penguncian harus menjelaskan akses yang diblokir, pihak atau hal yang dilindungi, perbaikan yang disyaratkan sebelum penguncian dicabut, jalur peninjauan atau banding, serta waktu penilaian ulang. Penguncian harus tetap perlu, proporsional, dapat diaudit, dan dapat diperdebatkan menurut [Pasal XIX-B](#article-xix-b-contestability-and-proportional-restriction-limits) (*Kontestabilitas dan Batas Pembatasan Proporsional*).
+  - Setiap penguncian harus menjelaskan akses yang diblokir, pihak atau hal yang dilindungi, perbaikan yang disyaratkan sebelum penguncian dicabut, jalur peninjauan atau banding, serta waktu penilaian ulang. Penguncian harus tetap perlu, proporsional, dapat diaudit, dan dapat diperdebatkan menurut [Pasal XIX-B](#pasal-xix-b-kontestabilitas-dan-batasan-pembatasan-proporsional) (*Kontestabilitas dan Batas Pembatasan Proporsional*).
   - Izin kompetensi tidak mengesampingkan penguncian kedudukan yang berlaku; kontribusi baik tidak menghapus temuan pelanggaran terverifikasi yang belum diselesaikan.
-  - Penguncian pada jalur pemungutan suara dan tiga penguncian khusus tunduk pada aturan tambahan dalam [Pasal XIX-E](#article-xix-e-voting-and-special-locks) (*Pemungutan Suara dan Penguncian Khusus*).
+  - Penguncian pada jalur pemungutan suara dan tiga penguncian khusus tunduk pada aturan tambahan dalam [Pasal XIX-E](#pasal-xix-e-pemungutan-suara-dan-penguncian-khusus) (*Pemungutan Suara dan Penguncian Khusus*).
   - Penguncian kedudukan bukan pengganti proses keadilan individual dan **dengan sendirinya** tidak membatasi pergerakan, perlindungan, portabilitas, atau keluar ([Pasal XXI](#article-xxi-interoperability-portability-and-exit-integrity) dan [Pasal XXII](#article-xxii-movement-migration-refuge-and-non-statelessness)).
 - **Kesesuaian penguncian dengan kerugian:** Penguncian harus sesuai dengan tingkat keseriusan kerugian terverifikasi, peran atau hak istimewa tertentu yang dilindungi, dan kemajuan pemulihan.
   - **Bantuan masa lalu:** hanya boleh dipertimbangkan jika menunjukkan kemampuan makhluk sadar untuk memulihkan kerugian, mempertahankan perlindungan, mencegah pengulangan, atau mendukung pembatasan yang lebih ringan saat penilaian ulang ([Bab Sepuluh §2](core_10_standing_assessment.md#2-question-1--what-happened)). Bantuan itu tidak pernah mengimbangi, menghapus, menurunkan rata-rata, atau menggantikan temuan kerugian yang belum diselesaikan.
@@ -361,9 +361,9 @@ Pasal ini mengatur pencatatan pelanggaran dan penerapan penguncian kedudukan:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency) dan [§18 Tata Kelola di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency) dan [§18 Tata Kelola di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan).
 - Hilir: [Bab Sebelas §5.5](core_11_standing_integration.md#55-special-locks) (*Penguncian Khusus*); [Bab Empat Belas §4.1](core_14_governance.md#41-entitlement-and-eligibility) (*Hak dan Kelayakan*).
-- Baca bersama: [Pasal XIX-D](#article-xix-d-violations-and-standing-locks) (*Pelanggaran dan Penguncian Kedudukan*); **Pasal X-B** (*Partisipasi Tata Kelola dan Hak Pemungutan Suara*); **Bab Dua Belas** (*Pelanggaran Anti-Konstitusional*).
+- Baca bersama: [Pasal XIX-D](#pasal-xix-d-pelanggaran-dan-penguncian-kedudukan) (*Pelanggaran dan Penguncian Kedudukan*); **Pasal X-B** (*Partisipasi Tata Kelola dan Hak Pemungutan Suara*); **Bab Dua Belas** (*Pelanggaran Anti-Konstitusional*).
 
 </details>
 
@@ -379,7 +379,7 @@ Pasal ini mengatur pencatatan pelanggaran dan penerapan penguncian kedudukan:
 
 <br>
 
-*Secara sederhana: penguncian tertentu memiliki aturan tambahan di atas [Pasal XIX-D](#article-xix-d-violations-and-standing-locks). Penguncian pada suara tata kelola dasar tidak menghapus suara pemangku kepentingan berbobot dalam sistem tertentu, dan sebaliknya. Pencabutan hak suara tata kelola seseorang memerlukan temuan tentang tindakannya sendiri, pembatasan yang tepat dan sempit, serta jalan pemulihan yang nyata. Hanya temuan final Bab Dua Belas tentang pelanggaran anti-konstitusional yang menahan suara tersebut, dan hanya sampai **restitusi penuh**. Tiga penguncian khusus mengatur hakim yang tidak mengundurkan diri saat wajib, manipulasi suara pemangku kepentingan, serta serangan terhadap konstitusi.*
+*Secara sederhana: penguncian tertentu memiliki aturan tambahan di atas [Pasal XIX-D](#pasal-xix-d-pelanggaran-dan-penguncian-kedudukan). Penguncian pada suara tata kelola dasar tidak menghapus suara pemangku kepentingan berbobot dalam sistem tertentu, dan sebaliknya. Pencabutan hak suara tata kelola seseorang memerlukan temuan tentang tindakannya sendiri, pembatasan yang tepat dan sempit, serta jalan pemulihan yang nyata. Hanya temuan final Bab Dua Belas tentang pelanggaran anti-konstitusional yang menahan suara tersebut, dan hanya sampai **restitusi penuh**. Tiga penguncian khusus mengatur hakim yang tidak mengundurkan diri saat wajib, manipulasi suara pemangku kepentingan, serta serangan terhadap konstitusi.*
 
 Pasal ini menetapkan batas penguncian suara dan penguncian khusus:
 
@@ -409,7 +409,7 @@ Pasal ini menetapkan batas penguncian suara dan penguncian khusus:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [§18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [§18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan).
 - Hilir: [Bab Sepuluh §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Pelanggaran, koreksi, dan pencegahan*); [Bab Sebelas §4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Pengamanan, perbaikan, dan pencegahan proses hukum*).
 
 </details>
@@ -432,8 +432,8 @@ Pasal ini menyatakan landasan peradilan yang berlaku setelah pelanggaran diverif
 
 - **Resolusi konflik, tinjauan, dan ketepatan waktu:** Perselisihan mengenai Landasan Hak konstitusional, tinjauan retrospektif, pelanggaran hak, dan disiplin anti penundaan diatur oleh [**Pasal XXV**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Tinjauan Retrospektif Tepat Waktu dan Penyelarasan Restoratif*).
 - **Tindakan darurat:** Diatur oleh [Bab Dua Belas §6.1 Tindakan darurat dan beban lanjutan](core_12_forum.md#61-emergency-measures-and-continuation-burden), baca dengan **Pasal XX-B** (*Batas Pembatasan*) untuk pembatasan apa pun yang diberlakukan oleh tindakan darurat.
-- **Kedudukan:** [**Pasal XIX**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*Status Kedudukan dan Partisipasi*) mengatur kedudukan. Tindakan keadilan berdasarkan Pasal ini bersifat terpisah dan bukan merupakan solusi yang baku.
-- **Ganti rugi tepat waktu:** Baca dengan [**Pasal XIII-B** (*Hak untuk Ganti Rugi dan Pemulihan*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*akses ganti rugi tepat waktu*).
+- **Kedudukan:** [**Pasal XIX**](core_06_rights_part_d.md#pasal-xix-status-kedudukan-dan-partisipasi) (*Status Kedudukan dan Partisipasi*) mengatur kedudukan. Tindakan keadilan berdasarkan Pasal ini bersifat terpisah dan bukan merupakan solusi yang baku.
+- **Ganti rugi tepat waktu:** Baca dengan [**Pasal XIII-B** (*Hak untuk Ganti Rugi dan Pemulihan*)](core_06_rights_part_c.md#pasal-xiii-b-hak-atas-pemulihan-dan-perbaikan) (*akses ganti rugi tepat waktu*).
 
 Penerapan tata kelola yang diadopsi dapat menambah rincian. Hal ini tidak boleh mempersempit tujuan keadilan atau batasan pembatasan berdasarkan Pasal ini.
 <a id="article-xx-a-justice-objective-and-scope"></a>
@@ -441,8 +441,8 @@ Penerapan tata kelola yang diadopsi dapat menambah rincian. Hal ini tidak boleh 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Bab Satu §3.3 Proses Anti-Degradasi](core_01_a_values_principles.md#33-anti-degrading-process), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- Hilir: [Bab Sepuluh §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Pelanggaran, koreksi, dan pencegahan*); [Pasal XX-B](#article-xx-b-restriction-floors).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Bab Satu §3.3 Proses Anti-Degradasi](core_01_a_values_principles.md#33-proses-anti-perendahan-martabat), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
+- Hilir: [Bab Sepuluh §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Pelanggaran, koreksi, dan pencegahan*); [Pasal XX-B](#pasal-xx-b-batasan-batasan).
 - Baca dengan: [Kekejaman](core_05_band_accountability.md#cruelty) (*Bab Lima rumah bagi standar penderitaan sebagai akhir dari lantai anti-kekejaman*).
 
 </details>
@@ -474,7 +474,7 @@ Pasal ini menguraikan tujuan dan ruang lingkup keadilan serta dasar anti-kekejam
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), dan [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), dan [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Hilir: [Bab Sepuluh §5 Desain dan penegakan kunci](core_10_standing_integration.md#5-lock-design-and-enforcement) dan [§5.4 Aturan pelanggaran khusus](core_10_standing_integration.md#54-special-violation-rules) (*wajib dipenjara karena kekerasan yang terverifikasi dan upaya perlindungan lain yang bersifat memaksa atau membatasi kebebasan*); [Bab Sebelas §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Pencegahan — kunci anti-konstitusional*; spesialisasi pemenjaraan).
 - Baca dengan: [Pasal XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Resolusi Tepat Waktu dan Lantai Anti-Penundaan*); [Bab Dua Belas §5 Eskalasi dan sertifikasi](core_12_forum.md#5-escalation-and-certification).
 
@@ -522,7 +522,7 @@ Pasal ini menetapkan dasar pembatasan. Aturan pengoperasiannya ada di bab-bab ya
   - pembatasan ketat yang tidak terbatas;
   - tindakan pembatasan yang tidak dapat diubah jika restitusi, remediasi, atau perlindungan yang dapat diubah dapat dilakukan;
   - pembatasan yang tidak memiliki pemicu evaluasi ulang yang dapat diaudit.
-- **Hak dan martabat dasar yang setara:** Pembatasan, pengecualian, dan tindakan keadilan serupa harus dipatuhi **Pasal VI** (*Persamaan Hak Dasar*) dan [**Prinsip Martabat**](core_01_b_interaction_interpretation.md#dignity-principles) (itu [Prinsip Minimum Dasar Hak](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) dan itu [Prinsip Proses Anti-Degradasi](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)) selama penerapan, peninjauan, dan pelaksanaan segala pembatasan, penahanan, atau tindakan akuntabilitas restoratif.
+- **Hak dan martabat dasar yang setara:** Pembatasan, pengecualian, dan tindakan keadilan serupa harus dipatuhi **Pasal VI** (*Persamaan Hak Dasar*) dan [**Prinsip Martabat**](core_01_b_interaction_interpretation.md#prinsip-martabat) (itu [Prinsip Minimum Dasar Hak](core_01_b_interaction_interpretation.md#prinsip-minimum-lantai-hak) dan itu [Prinsip Proses Anti-Degradasi](core_01_b_interaction_interpretation.md#prinsip-proses-yang-tidak-merendahkan)) selama penerapan, peninjauan, dan pelaksanaan segala pembatasan, penahanan, atau tindakan akuntabilitas restoratif.
 - **Eskalasi dan peninjauan:** Pihak-pihak yang terkena dampak harus memiliki akses terhadap jalur eskalasi yang sebanding dengan dampaknya.
   - Akses mencakup banding atau tinjauan berlapis yang mempertaruhkan kepentingan material.
   - Pihak yang terkena dampak harus menerima:
@@ -544,7 +544,7 @@ Pasal ini menetapkan dasar pembatasan. Aturan pengoperasiannya ada di bab-bab ya
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Batasan Disiplin](core_01_a_values_principles.md#71-limitation-discipline), dan [§11 Struktur Pasar](core_01_a_values_principles.md#11-market-structure).
+- Hulu: Prinsip: Bab Satu [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Batasan Disiplin](core_01_a_values_principles.md#71-limitation-discipline), dan [§11 Struktur Pasar](core_01_a_values_principles.md#11-struktur-pasar).
 
 </details>
 
@@ -568,7 +568,7 @@ Pasal ini menetapkan dasar pembatasan. Aturan pengoperasiannya ada di bab-bab ya
 
 Pasal ini menyatakan **landasan konstitusional** untuk interoperabilitas, portabilitas, pergerakan, perlindungan, dan integritas pintu keluar berdasarkan [Dua Tujuan Konstitusi](core_00_preamble.md#two-constitutional-aims):
 
-- **Maju:** masyarakat dapat memilih, beralih, dan berkoordinasi antar sistem dan yurisdiksi tanpa adanya penguncian yang bersifat memaksa, yang justru bertentangan dengan pengecualian [Non-Pengecualian Perasaan](core_05_band_participation.md#sentience-non-exclusion), atau penolakan-demi-proksi — melalui portabilitas yang dapat digunakan, interoperabilitas timbal balik, dan jalur nyata menuju pergerakan dan perlindungan di mana [Dampak Material](core_05_band_oversight.md#material-impact) hadir.
+- **Maju:** masyarakat dapat memilih, beralih, dan berkoordinasi antar sistem dan yurisdiksi tanpa adanya penguncian yang bersifat memaksa, yang justru bertentangan dengan pengecualian [Non-Pengecualian Perasaan](core_05_band_participation.md#sentience-non-exclusion), atau penolakan-demi-proksi — melalui portabilitas yang dapat digunakan, interoperabilitas timbal balik, dan jalur nyata menuju pergerakan dan perlindungan di mana [Dampak Material](core_05_band_oversight.md#dampak-material) hadir.
 - **Kontinuitas:** Kewajiban untuk keluar, mudah dibawa, perlindungan, dan pengakuan akan tetap bertahan seiring dengan meningkatnya ketergantungan, perubahan operator, atau pergeseran yurisdiksi – sistem dan rezim tidak boleh memperkeras arsitektur jebakan, mempersempit persyaratan integrasi tanpa pemberitahuan, atau membuat orang tidak memiliki kewarganegaraan ketika struktur gagal atau hubungan berakhir.
 
 Pengejaran yang sah dilakukan melalui [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), diskalakan menjadi [taruhan materi](core_00_preamble.md#material-stake):
@@ -582,7 +582,7 @@ Masyarakat yang hidup dan sistem yang bergantung memiliki hak untuk keluar, berm
 
 - Hak tersebut tidak memerlukan paparan yang tidak aman atau tidak dapat dibenarkan.
 - Hal ini memerlukan kondisi transisi yang nyata dalam praktiknya – tidak hanya formal.
-- Hal ini konsisten dengan **Bab Lima** [*Penguncian Sistemik*](core_05_band_continuity.md#systemic-lock-in) membaca dengan **[Bab Lima *Arsitektur Tata Kelola, Pengawasan, Ketergantungan, Desentralisasi, Konsentrasi, Struktur Pasar, dan Integritas Jalur Keluar*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** di mana ketergantungan, penggabungan, atau penyitaan penting untuk analisis anti-lock-in, bersama-sama dengan **[Bab Lima *Gerakan, Perlindungan, Non-Kewarganegaraan, dan Keluar dari Integritas*](core_05_band_oversight.md#movement-refuge-semi-independent)** dimana pintu keluar, portabilitas, pengungsian, pengakuan, atau keadaan tanpa kewarganegaraan secara material saling bergantung, dan dengan persyaratan implementasi yang terintegrasi untuk interoperabilitas, portabilitas, integritas pintu keluar, dan batasan-batasan yang dapat dibenarkan.
+- Hal ini konsisten dengan **Bab Lima** [*Penguncian Sistemik*](core_05_band_continuity.md#systemic-lock-in) membaca dengan **[Bab Lima *Arsitektur Tata Kelola, Pengawasan, Ketergantungan, Desentralisasi, Konsentrasi, Struktur Pasar, dan Integritas Jalur Keluar*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** di mana ketergantungan, penggabungan, atau penyitaan penting untuk analisis anti-lock-in, bersama-sama dengan **[Bab Lima *Gerakan, Perlindungan, Non-Kewarganegaraan, dan Keluar dari Integritas*](core_05_band_oversight.md#pengawasan-klaster-dependen)** dimana pintu keluar, portabilitas, pengungsian, pengakuan, atau keadaan tanpa kewarganegaraan secara material saling bergantung, dan dengan persyaratan implementasi yang terintegrasi untuk interoperabilitas, portabilitas, integritas pintu keluar, dan batasan-batasan yang dapat dibenarkan.
 
 *Artikel tetangga:*
 
@@ -597,7 +597,7 @@ Masyarakat yang hidup dan sistem yang bergantung memiliki hak untuk keluar, berm
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -628,7 +628,7 @@ Artikel ini menetapkan batas portabilitas:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -655,7 +655,7 @@ Pasal ini menetapkan batasan untuk interoperabilitas timbal balik dan pemberitah
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan).
 
 </details>
 
@@ -689,8 +689,8 @@ Artikel ini menetapkan aturan anti-lock-in:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§16.3 Aspirasi Keterbukaan](core_01_c_stewardship_capacity_principles.md#163-openness-aspiration), [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [§11 Struktur Pasar](core_01_a_values_principles.md#11-market-structure).
-- Baca bersama: [Pasal XXI-A](#article-xxi-a-portability-rights) (*Hak Portabilitas*); [Pasal XXI-B](#article-xxi-b-reciprocal-interoperability-boundaries) (*Batas Interoperabilitas Timbal Balik*); [Pasal XXI-C](#article-xxi-c-anti-lock-in-rule) (*Aturan Anti-Lock-In*); [Pasal XXIII](#article-xxiii-comprehensibility-and-complexity-stewardship) (*Pengelolaan Keterpahaman dan Kompleksitas*); [corpus_systems.md](corpus_systems.md) **CS-2 (*Jenis dan Penanganan Informasi*)**; **CJS-3.17** (*istilah interoperabilitas, portabilitas, dan integritas keluar*).
+- Hulu: Prinsip: Bab Satu [§16.3 Aspirasi Keterbukaan](core_01_c_stewardship_capacity_principles.md#163-aspirasi-keterbukaan), [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [§11 Struktur Pasar](core_01_a_values_principles.md#11-struktur-pasar).
+- Baca bersama: [Pasal XXI-A](#pasal-xxi-a-hak-portabilitas) (*Hak Portabilitas*); [Pasal XXI-B](#pasal-xxi-b-batasan-interoperabilitas-timbal-balik) (*Batas Interoperabilitas Timbal Balik*); [Pasal XXI-C](#pasal-xxi-c-aturan-anti-lock-in) (*Aturan Anti-Lock-In*); [Pasal XXIII](#pasal-xxiii-pengelolaan-yang-dapat-dipahami-dan-kompleksitas) (*Pengelolaan Keterpahaman dan Kompleksitas*); [corpus_systems.md](corpus_systems.md) **CS-2 (*Jenis dan Penanganan Informasi*)**; **CJS-3.17** (*istilah interoperabilitas, portabilitas, dan integritas keluar*).
 
 </details>
 
@@ -741,9 +741,9 @@ Pasal ini menetapkan dasar penggunaan format terbuka oleh sistem:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Proporsionalitas](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 Batasan Disiplin](core_01_a_values_principles.md#71-limitation-discipline).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Proporsionalitas](core_01_b_interaction_interpretation.md#1313-proporsionalitas), [§7.1 Batasan Disiplin](core_01_a_values_principles.md#71-limitation-discipline).
 - Hilir: **Pasal VI-A** (*Martabat dan Kedudukan Moral yang Setara*) lantai martabat, **Pasal VI-C** (*Nondiskriminasi*) non-diskriminasi, **Pasal XII** (*Partisipasi, Representasi, dan Proses Hukum Pemangku Kepentingan*) partisipasi pemangku kepentingan, **Pasal XIX** (*Status Kedudukan dan Partisipasi*) kedudukan dan perutean status partisipasi, **Bab Tiga Belas §6.1** (*Tindakan darurat dan beban lanjutan*) batas tindakan darurat, **Pasal XXVIII** (*Tata Kelola Transisi, Kontinuitas, dan Pendasaran Ulang*) tata kelola transisi.
-- Baca dengan: [Bab Lima *Gerakan, Perlindungan, Non-Kewarganegaraan, dan Keluar dari Integritas*](core_05_band_oversight.md#movement-refuge-semi-independent); *Pemindahan dan Relokasi*, *Perlindungan dari Ketidakpatuhan*, *Non-Tanpa Kewarganegaraan*, *Non-Pengecualian Perasaan*; *Penguncian Sistemik* dan *Kontinuitas Hunian* di mana keluarnya, penghentian hosting, penggusuran, atau relokasi substantif mempunyai dampak yang signifikan; **Pasal I-A** (*Prakondisi Lingkungan dan Integritas Ekologis*) ketika sistem atau proyek membuat suatu tempat tidak dapat dihuni; **Pasal XXI-A** (*Hak Portabilitas*) hingga **Pasal XXI-C** (*Aturan Anti-Lock-In*) untuk portabilitas media dan mekanisme integritas keluar; **Pasal XXVIII** (*Tata Kelola Transisi, Kontinuitas, dan Penetapan Kembali*) untuk mekanisme pengenalan transisi.
+- Baca dengan: [Bab Lima *Gerakan, Perlindungan, Non-Kewarganegaraan, dan Keluar dari Integritas*](core_05_band_oversight.md#pengawasan-klaster-dependen); *Pemindahan dan Relokasi*, *Perlindungan dari Ketidakpatuhan*, *Non-Tanpa Kewarganegaraan*, *Non-Pengecualian Perasaan*; *Penguncian Sistemik* dan *Kontinuitas Hunian* di mana keluarnya, penghentian hosting, penggusuran, atau relokasi substantif mempunyai dampak yang signifikan; **Pasal I-A** (*Prakondisi Lingkungan dan Integritas Ekologis*) ketika sistem atau proyek membuat suatu tempat tidak dapat dihuni; **Pasal XXI-A** (*Hak Portabilitas*) hingga **Pasal XXI-C** (*Aturan Anti-Lock-In*) untuk portabilitas media dan mekanisme integritas keluar; **Pasal XXVIII** (*Tata Kelola Transisi, Kontinuitas, dan Penetapan Kembali*) untuk mekanisme pengenalan transisi.
 
 </details>
 
@@ -842,7 +842,7 @@ Pasal ini menetapkan batas-batas perpindahan, pengungsian, dan keadaan tanpa kew
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §5.2 Aksesibilitas Bahasa Biasa (Tugas Penatalayanan)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), dan [Bab Satu Bagian C §16.1 Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
+- Hulu: Prinsip: [Bab Satu §5.2 Aksesibilitas Bahasa Biasa (Tugas Penatalayanan)](core_01_a_values_principles.md#52-aksesibilitas-bahasa-sederhana-kewajiban-partisipasi-dan-penatalayanan), [§13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-meminimalkan-beban-yang-dapat-dihindari), dan [Bab Satu Bagian C §16.1 Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#161-pemahaman-yang-tersebar).
 - Baca dengan: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusi](core_00_preamble.md#two-constitutional-aims) — **Maju** dan **Kontinuitas**; [Beban yang Dapat Dihindari](core_05_band_continuity.md#avoidable-burden), [Kapasitas Produktif](core_05_band_continuity.md#productive-capacity-constitutional), dan [Efisiensi Konstitusional](core_05_band_continuity.md#constitutional-efficiency) di dalam **Bab Lima**.
 
 </details>
@@ -854,10 +854,10 @@ Pasal ini menetapkan batas-batas perpindahan, pengungsian, dan keadaan tanpa kew
 - [Efisiensi Konstitusional](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [Beban yang Dapat Dihindari](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [Keamanan (Kendala Konstitusi)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Kebenaran (Kendala Konstitusi)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Kebenaran (Kendala Konstitusi)](core_05_band_oversight.md#kebenaran-kendala-konstitusional) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Materialitas](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Agensi yang Berarti](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [Kemampuan Audit](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Kemampuan Audit](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Kontestabilitas](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -875,34 +875,34 @@ Pengejaran yang sah dilakukan melalui [Tetrad Konstitusional](core_00_preamble.m
 
 - **Partisipasi:** dalam memahami operasi material, batasan, ketergantungan, dan mode kegagalan yang sebanding dengan peran dan dampak — dan dalam menantang kompleksitas yang menghalangi tindakan yang berarti atau pilihan yang tepat.
 - **Pengawasan:** melalui penjelasan berlapis, audit kompleksitas, dan pengungkapan perilaku yang proporsional dengan klasifikasi dan risiko — sehingga peninjau dapat memverifikasi apa yang dilakukan sistem dan bagaimana kegagalannya.
-- **Akuntabilitas:** penatalayan harus menjawab kompleksitas yang tidak perlu, lapisan tersembunyi, atau hambatan pemahaman yang menghalangi [Kemampuan Audit](core_05_band_oversight.md#auditability) atau [Kontestabilitas](core_05_band_accountability.md#contestability) — dan memperbaiki kelemahan penatagunaan dimana kompleksitas menyia-nyiakan kapasitas tanpa pembenaran konstitusional.
+- **Akuntabilitas:** penatalayan harus menjawab kompleksitas yang tidak perlu, lapisan tersembunyi, atau hambatan pemahaman yang menghalangi [Kemampuan Audit](core_05_band_oversight.md#keter-auditan) atau [Kontestabilitas](core_05_band_accountability.md#contestability) — dan memperbaiki kelemahan penatagunaan dimana kompleksitas menyia-nyiakan kapasitas tanpa pembenaran konstitusional.
 - **Ketepatan waktu:** dalam tinjauan kompleksitas, koreksi penghalang, dan pengungkapan yang dapat diakses sebelum penundaan, ketidakjelasan, atau permukaan khusus spesialis akan membuat pemahaman, tantangan, atau penyelesaian secara efektif tidak dapat dicapai.
 
 Makhluk hidup mempunyai hak atas pemahaman proporsional terhadap sistem yang secara signifikan mempengaruhi kelangsungan hidup, prakondisi lingkungan, integritas bidang informasi, dan keagenan yang berarti. Hak tersebut melindungi pemahaman praktis tentang bagaimana suatu sistem beroperasi, bergantung pada apa, di mana batasannya, dan bagaimana sistem bisa gagal – bukan sekedar pemberitahuan formal.
 
-Disiplin penatalayanan untuk kompleksitas, akses bahasa sederhana, dan minimalisasi beban dinyatakan pada prinsip lapisan dalam [Bab Satu §5.2 Aksesibilitas Bahasa Biasa (Tugas Penatalayanan)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), dan [Bab Satu Bagian C §16.1 Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), baca dengan [Beban yang Dapat Dihindari](core_05_band_continuity.md#avoidable-burden), [Kapasitas Produktif](core_05_band_continuity.md#productive-capacity-constitutional), dan [Efisiensi Konstitusional](core_05_band_continuity.md#constitutional-efficiency) di dalam **Bab Lima**. Pasal ini menyatakan Landasan Hak yang diterapkan oleh disiplin ilmu yang sistemnya berdampak signifikan terhadap kepentingan yang dilindungi.
+Disiplin penatalayanan untuk kompleksitas, akses bahasa sederhana, dan minimalisasi beban dinyatakan pada prinsip lapisan dalam [Bab Satu §5.2 Aksesibilitas Bahasa Biasa (Tugas Penatalayanan)](core_01_a_values_principles.md#52-aksesibilitas-bahasa-sederhana-kewajiban-partisipasi-dan-penatalayanan), [§13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-meminimalkan-beban-yang-dapat-dihindari), dan [Bab Satu Bagian C §16.1 Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#161-pemahaman-yang-tersebar), baca dengan [Beban yang Dapat Dihindari](core_05_band_continuity.md#avoidable-burden), [Kapasitas Produktif](core_05_band_continuity.md#productive-capacity-constitutional), dan [Efisiensi Konstitusional](core_05_band_continuity.md#constitutional-efficiency) di dalam **Bab Lima**. Pasal ini menyatakan Landasan Hak yang diterapkan oleh disiplin ilmu yang sistemnya berdampak signifikan terhadap kepentingan yang dilindungi.
 
 *Artikel tetangga:*
 
 - **Lapisan prinsip:**
-  - [Bab Satu §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*Disiplin bahasa sederhana dan jargon sebagai kekalahan*);
-  - [Bab Satu §13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*pengurangan minimalisasi dan penyederhanaan beban yang dapat dihindari*);
-  - [Bab Satu Bagian C §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (*pemahaman terdistribusi yang mengarah pada materialitas dan ketergantungan*).
+  - [Bab Satu §5.2](core_01_a_values_principles.md#52-aksesibilitas-bahasa-sederhana-kewajiban-partisipasi-dan-penatalayanan) (*Disiplin bahasa sederhana dan jargon sebagai kekalahan*);
+  - [Bab Satu §13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-meminimalkan-beban-yang-dapat-dihindari) (*pengurangan minimalisasi dan penyederhanaan beban yang dapat dihindari*);
+  - [Bab Satu Bagian C §16.1](core_01_c_stewardship_capacity_principles.md#161-pemahaman-yang-tersebar) (*pemahaman terdistribusi yang mengarah pada materialitas dan ketergantungan*).
 <a id="article-xxiii-a-proportional-comprehensibility-right"></a>
 #### Pasal XXIII-A: Hak Pemahaman Proporsional
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Baca dengan: [Bab Satu §5.2 Aksesibilitas Bahasa Biasa (Tugas Penatalayanan)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), dan [Bab Satu Bagian C §16.1 Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
+- Baca dengan: [Bab Satu §5.2 Aksesibilitas Bahasa Biasa (Tugas Penatalayanan)](core_01_a_values_principles.md#52-aksesibilitas-bahasa-sederhana-kewajiban-partisipasi-dan-penatalayanan), [§13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-meminimalkan-beban-yang-dapat-dihindari), dan [Bab Satu Bagian C §16.1 Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#161-pemahaman-yang-tersebar).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
 
-- [Transparansi](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Dampak Material](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Transparansi](core_05_band_oversight.md#transparansi) · [O](core_05_band_oversight.md#transparansi) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Dampak Material](core_05_band_oversight.md#dampak-material) · [O](core_05_band_oversight.md#dampak-material) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [Kemungkinan](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
 
 </details>
@@ -925,14 +925,14 @@ Pasal ini menetapkan landasan untuk pemahaman proporsional:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18.5 Arsitektur Modular dan Disiplin Ketergantungan](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), dan [Bab Satu §20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18.5 Arsitektur Modular dan Disiplin Ketergantungan](core_01_c_stewardship_capacity_principles.md#185-arsitektur-modular-dan-disiplin-ketergantungan), dan [Bab Satu §20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
 
-- [Kemampuan Audit](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Kemampuan Audit](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Ketergantungan](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Integritas Batas Sistem](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
 
@@ -949,7 +949,7 @@ Artikel ini menetapkan landasan untuk audit kompleksitas, modularitas, anti-pela
   - kopling ketergantungan;
   - mode kegagalan;
   - batas-batas di mana tanggung jawab atau observasi diserahkan.
-- **Arsitektur modular:** Sistem kritis **harus** disusun sedemikian rupa sehingga komponen-komponennya, tanggung jawab masing-masing, dan ketergantungan antar komponen dapat diidentifikasi dan diperiksa secara independen. Ketergantungan harus dideklarasikan pada antarmuka, dijaga tidak lebih luas dari yang dibutuhkan fungsi, dan dipetakan ke batasan yang sama dengan yang diaudit. Tanggung jawab dan observasi harus dipertahankan di setiap batasan internal. Struktur modular yang menyembunyikan tanggung jawab atau mengalahkan audit seluruh sistem bersifat anti-pelapisan, dan tidak memenuhi persyaratan ini. Baca dengan [§18.5 Arsitektur Modular dan Disiplin Ketergantungan](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
+- **Arsitektur modular:** Sistem kritis **harus** disusun sedemikian rupa sehingga komponen-komponennya, tanggung jawab masing-masing, dan ketergantungan antar komponen dapat diidentifikasi dan diperiksa secara independen. Ketergantungan harus dideklarasikan pada antarmuka, dijaga tidak lebih luas dari yang dibutuhkan fungsi, dan dipetakan ke batasan yang sama dengan yang diaudit. Tanggung jawab dan observasi harus dipertahankan di setiap batasan internal. Struktur modular yang menyembunyikan tanggung jawab atau mengalahkan audit seluruh sistem bersifat anti-pelapisan, dan tidak memenuhi persyaratan ini. Baca dengan [§18.5 Arsitektur Modular dan Disiplin Ketergantungan](core_01_c_stewardship_capacity_principles.md#185-arsitektur-modular-dan-disiplin-ketergantungan).
 - **Anti-pelapisan:** Kompleksitas tidak boleh digunakan – melalui pelapisan teknis, organisasi, kontrak, atau prosedural – untuk mengalahkan audit, kontes, atau koreksi.
 - **Penyelarasan protokol:** Evaluasi harus konsisten dengan:
   - **[corpus_systems.md](corpus_systems.md), CS-6 — *Pemahaman dan kompleksitas penatalayanan***;
@@ -965,7 +965,7 @@ Artikel ini menetapkan landasan untuk audit kompleksitas, modularitas, anti-pela
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Baca dengan: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusi](core_00_preamble.md#two-constitutional-aims) — **Maju** dan **Kontinuitas**; [Reversibilitas](core_05_band_continuity.md#reversibility-constitutional), [Mempertaruhkan](core_05_band_continuity.md#risk), dan [Penangkapan Sistem](core_05_band_continuity.md#system-capture) di dalam **Bab Lima**.
 
 </details>
@@ -976,7 +976,7 @@ Artikel ini menetapkan landasan untuk audit kompleksitas, modularitas, anti-pela
 - [Materialitas](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Penangkapan Sistem](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [Anti-Penangkapan](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [Kemampuan Audit](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Kemampuan Audit](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Kontestabilitas](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1019,7 +1019,7 @@ Ketelitian diagnostik harus tetap dapat diaudit dan ditantang. Itu harus konsist
 <summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
 
 - [Akuntabilitas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Kemampuan Audit](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Kemampuan Audit](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Dapat diperkirakan](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 
 </details>
@@ -1044,7 +1044,7 @@ Artikel ini menguraikan dokumentasi dan landasan tantangan untuk temuan akar per
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1053,7 +1053,7 @@ Artikel ini menguraikan dokumentasi dan landasan tantangan untuk temuan akar per
 
 - [Reversibilitas](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [Mempertaruhkan](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Kemampuan Audit](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Kemampuan Audit](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1079,7 +1079,7 @@ Pasal ini menetapkan preferensi reversibilitas dan perlindungannya terhadap penu
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
 - Baca dengan: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusi](core_00_preamble.md#two-constitutional-aims) — **Maju** dan **Kontinuitas**; [Tumpukan Otoritas dan Hierarki Internal](core_05_band_integrative.md#authority-stack), [Forum Keluarga, Konstitusional](core_05_band_accountability.md#forum-family-constitutional), [Penangkapan Sistem](core_05_band_continuity.md#system-capture), dan [Anti-Penangkapan](core_05_band_continuity.md#anti-capture) di dalam **Bab Lima**.
 
 </details>
@@ -1091,7 +1091,7 @@ Pasal ini menetapkan preferensi reversibilitas dan perlindungannya terhadap penu
 - [Forum Keluarga, Konstitusional](core_05_band_accountability.md#forum-family-constitutional) · [O](core_05_band_accountability.md#forum-family-constitutional) · [M](core_05_band_accountability.md#forum-family-constitutional-a) · [A](core_05_band_accountability.md#forum-family-constitutional-a) · [C](core_05_band_accountability.md#forum-family-constitutional-c)
 - [Penangkapan Sistem](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [Anti-Penangkapan](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [Kemampuan Audit](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Kemampuan Audit](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Kontestabilitas](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1125,8 +1125,8 @@ Terakhir **konstitusional** interpretasi harus tetap otoritatif, terikat, dapat 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§13.1.5 Uji Keputusan Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- Baca dengan: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — partisipasi, pengawasan, akuntabilitas, dan ketepatan waktu; disiplin penangkapan tetrad di bawah [Bab Satu §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§13.1.5 Uji Keputusan Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
+- Baca dengan: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — partisipasi, pengawasan, akuntabilitas, dan ketepatan waktu; disiplin penangkapan tetrad di bawah [Bab Satu §18](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan).
 
 </details>
 
@@ -1161,7 +1161,7 @@ Pasal ini menguraikan mandat terbatas forum Konstitusi dan batasannya:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§13.1.5 Uji Keputusan Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§13.1.5 Uji Keputusan Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
 - Baca dengan: [Bab Sepuluh §5.5](core_10_standing_integration.md#55-special-locks) (*penghilangan pengungkapan forum dan dampak proses penolakan*); [Bab Sebelas §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*menyebutkan pola pelanggaran*); [Bab Dua Belas §2](core_12_forum.md#2-default-venue-and-primary-stakes) dan [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Perutean yang mengutamakan integritas dan anti-menilai diri sendiri*).
 
 </details>
@@ -1197,7 +1197,7 @@ Pasal ini menguraikan dasar-dasar komposisi, anti-penangkapan, dan pengendalian 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Satu §13.1.5 Prosedur Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
 
 </details>
 
@@ -1205,7 +1205,7 @@ Pasal ini menguraikan dasar-dasar komposisi, anti-penangkapan, dan pengendalian 
 <summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
 
 - [Akuntabilitas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Kemampuan Audit](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Kemampuan Audit](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Kontestabilitas](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1241,7 +1241,7 @@ Pasal ini menetapkan landasan untuk alasan publik, tantangan independen, dan tin
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§13.1.5 Uji Keputusan Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§13.1.5 Uji Keputusan Tabrakan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-tata-kelola-dalam-disiplin-pengampuan), dan [§20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
 
 </details>
 

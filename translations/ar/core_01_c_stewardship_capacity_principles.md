@@ -21,11 +21,11 @@
 
 **تراتبية المبادئ (الجزء ج).** على مستوى المبادئ:
 
-13. **[الرعاية](core_05_band_continuity.md#stewardship)** توجّه الأنظمة المادية من خلال تنظيم الكائنات الواعية — **الركيزة 1** ([§17](#17-consequential-stewardship-the-steward-role): التشغيل العملي والتحسين ذوا الأثر)، و**الركيزة 2** ([الرعاية الاستباقية](#16-pillar-2-proactive-stewardship): اكتشاف المشكلات مبكراً ومعالجتها دون تأخير يمكن تجنبه)، و**الركيزة 3** ([§16.1](#161-distributed-understanding) · [§16.2](#162-institutional-development): الكفاءة على مستوى المجتمع والمؤسسات) — سعياً إلى مواءمة دستورية راسخة مع مرور الوقت في إطار [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، ولا سيما **[المشاركة](core_05_apex_participation_leg.md#participation-constitutional)** (الأدوار والصوت ذوا الأثر) و**[الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional)** (الفهم الموزع، وقابلية التدقيق، وإمكان الاعتراض — فالرقابة تقتضي التدقيق؛ و**شهادة مواءمة النظام** [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) إحدى عمليات التدقيق الكبيرة بوجه خاص، من بين عمليات أخرى) — بما يشمل غاية **الاستمرارية** في إطار [الغايتين الدستوريتين](core_00_preamble.md#two-constitutional-aims).
-14. **[الرعاية ذات الأثر](#17-consequential-stewardship-the-steward-role)** هي دور القائم بالرعاية ذاته: الواجبات والمعايير ووسائل الحماية العملية التي تنطبق على كل من يضطلع بتشغيل نظام مادي أو صيانته أو الرقابة عليه أو تحسينه على نحو ذي أثر — أي تفعيل **الركيزة 1** عملياً، إلى جانب المعيار المشترك والمواءمة تحت الضغط وقابلية الرصد المحددة بحسب الدور التي يستلزمها دور القائم بالرعاية.
-15. **[الحوكمة](core_05_band_accountability.md#governance)** تنظّم اتخاذ القرارات المأذون به والمشاركة والمساءلة بموجب [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ولا سيما **[الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional)** على كيفية توزيع السلطة وممارستها، و**المساءلة المتناسبة مع السلطة** بموجب [§18.1](#181-governance-as-authorized-structure): فزيادة السلطة المأذون بها أو اتساع الدور ذي الأثر يرفعان المساءلة الدستورية والرقابة، ولا يخفضانهما أبداً. ويضمن [§18.3 الفصل بين الواجبات](#183-segregation-of-duties) ألا يكون من اتخذ الإجراء هو نفسه من يتحقق منه. ويقتضي [§18.4 التبرير المستمر](#184-ongoing-justification) أن تواصل تلك الترتيبات إثبات ملاءمتها لهذا الدستور. وعندما تتعارض الحوكمة والرعاية، تكون الأولوية لانضباط الرعاية على مستوى المبادئ، ما لم تبرر **الضرورة** و**التناسب** صراحةً استثناءً محدود النطاق ومقيداً زمنياً، مع مسارات للتصحيح. وتظل متطلبات الإذن التشغيلي وطبقة العقود من اختصاص **الفصل الثالث عشر**.
-16. توفّر **[مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture)** انضباط مستوى المبادئ لهياكل الحوافز وسلامة المؤشرات البديلة وعيوب الأفق القصير وتصحيح مسارات المكافأة والاستجابة للاستحواذ.
-17. **[التطبيق التكاملي](#20-integrated-application)** هو خاتمة الفصل: تُقرأ الفصول اللاحقة من خلال إطار القيمة المتكاملة لهذا الفصل.
+13. **[الرعاية](core_05_band_continuity.md#stewardship)** توجّه الأنظمة المادية من خلال تنظيم الكائنات الواعية — **الركيزة 1** ([§17](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية): التشغيل العملي والتحسين ذوا الأثر)، و**الركيزة 2** ([الرعاية الاستباقية](#16-pillar-2-proactive-stewardship): اكتشاف المشكلات مبكراً ومعالجتها دون تأخير يمكن تجنبه)، و**الركيزة 3** ([§16.1](#161-الفهم-الموزع) · [§16.2](#162-التطوير-المؤسسي): الكفاءة على مستوى المجتمع والمؤسسات) — سعياً إلى مواءمة دستورية راسخة مع مرور الوقت في إطار [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، ولا سيما **[المشاركة](core_05_apex_participation_leg.md#participation-constitutional)** (الأدوار والصوت ذوا الأثر) و**[الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional)** (الفهم الموزع، وقابلية التدقيق، وإمكان الاعتراض — فالرقابة تقتضي التدقيق؛ و**شهادة مواءمة النظام** [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) إحدى عمليات التدقيق الكبيرة بوجه خاص، من بين عمليات أخرى) — بما يشمل غاية **الاستمرارية** في إطار [الغايتين الدستوريتين](core_00_preamble.md#two-constitutional-aims).
+14. **[الرعاية ذات الأثر](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية)** هي دور القائم بالرعاية ذاته: الواجبات والمعايير ووسائل الحماية العملية التي تنطبق على كل من يضطلع بتشغيل نظام مادي أو صيانته أو الرقابة عليه أو تحسينه على نحو ذي أثر — أي تفعيل **الركيزة 1** عملياً، إلى جانب المعيار المشترك والمواءمة تحت الضغط وقابلية الرصد المحددة بحسب الدور التي يستلزمها دور القائم بالرعاية.
+15. **[الحوكمة](core_05_band_accountability.md#governance)** تنظّم اتخاذ القرارات المأذون به والمشاركة والمساءلة بموجب [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ولا سيما **[الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional)** على كيفية توزيع السلطة وممارستها، و**المساءلة المتناسبة مع السلطة** بموجب [§18.1](#181-الحوكمة-كبنية-مخولة): فزيادة السلطة المأذون بها أو اتساع الدور ذي الأثر يرفعان المساءلة الدستورية والرقابة، ولا يخفضانهما أبداً. ويضمن [§18.3 الفصل بين الواجبات](#183-فصل-الواجبات) ألا يكون من اتخذ الإجراء هو نفسه من يتحقق منه. ويقتضي [§18.4 التبرير المستمر](#184-التبرير-المستمر) أن تواصل تلك الترتيبات إثبات ملاءمتها لهذا الدستور. وعندما تتعارض الحوكمة والرعاية، تكون الأولوية لانضباط الرعاية على مستوى المبادئ، ما لم تبرر **الضرورة** و**التناسب** صراحةً استثناءً محدود النطاق ومقيداً زمنياً، مع مسارات للتصحيح. وتظل متطلبات الإذن التشغيلي وطبقة العقود من اختصاص **الفصل الثالث عشر**.
+16. توفّر **[مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام)** انضباط مستوى المبادئ لهياكل الحوافز وسلامة المؤشرات البديلة وعيوب الأفق القصير وتصحيح مسارات المكافأة والاستجابة للاستحواذ.
+17. **[التطبيق التكاملي](#20-التطبيق-المتكامل)** هو خاتمة الفصل: تُقرأ الفصول اللاحقة من خلال إطار القيمة المتكاملة لهذا الفصل.
 
 </details>
 
@@ -39,17 +39,17 @@
 
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — الموضع الأساسي في الفصل الأول لركيزة **المشاركة** (الأدوار والصوت ذوا الأثر؛ شرط عام، وليس [مشاركة أصحاب المصلحة في النظام](core_05_band_participation.md#stakeholder-status-and-weight) وحدها)، وركيزة **الرقابة**، وركيزة **حسن التوقيت** (سرعة الإصلاح الاستباقي)؛ مع التدرّج بحسب [المصلحة المادية](core_00_preamble.md#material-stake).
 - يُقرأ مع: [الغايتين الدستوريتين](core_00_preamble.md#two-constitutional-aims) — غاية **الازدهار** (المشاركة والفاعلية والمسارات التعليمية)؛ وغاية **الاستمرارية** (التعلم المؤسسي والقدرة على الإصلاح والرعاية المستدامة).
-- في المنبع: المبادئ: [3. الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)؛ [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)؛ [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)؛ و[§9 القدرة المشتركة للنظام](core_01_a_values_principles.md#9-shared-system-capacity).
-- في المصب: [13. عملية حل التعارضات الدستورية](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (بما فيها [§13.3 تقليل الأعباء التي يمكن تجنبها](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden))؛ [الفصل التاسع §3 تقييم اعتماد النظام ككل](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [§19.1.3 تطبيق الرعاية والمشغّل](#1913-stewardship-and-operator-application).
-- في المصب: [§19.1.4 مسارات عمق الدور والمسؤولية المادية](#1914-role-depth-and-material-responsibility-pathways).
+- في المنبع: المبادئ: [3. الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)؛ [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)؛ [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)؛ و[§9 القدرة المشتركة للنظام](core_01_a_values_principles.md#9-القدرة-المشتركة-للأنظمة).
+- في المصب: [13. عملية حل التعارضات الدستورية](core_01_b_interaction_interpretation.md#13-عملية-حل-التعارض-الدستوري) (بما فيها [§13.3 تقليل الأعباء التي يمكن تجنبها](core_01_b_interaction_interpretation.md#133-تقليل-العبء-الممكن-تجنبه))؛ [الفصل التاسع §3 تقييم اعتماد النظام ككل](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [§19.1.3 تطبيق الرعاية والمشغّل](#1913-تطبيق-أحكام-الإشراف-والمشغلين).
+- في المصب: [§19.1.4 مسارات عمق الدور والمسؤولية المادية](#1914-عمق-الدور-ومسارات-المسؤولية-الجوهرية).
 - في المصب: [§7 الحرية (الفاعلية المقيّدة)](core_01_a_values_principles.md#7-freedom-bounded-agency)، التي تعتمد على بقاء الرعاية ذات الأثر والفهم الموزع والمشاركة الفعلية والقدرة على الإصلاح أموراً حقيقية في ظل الاعتماد المادي.
 - في المصب: [الفصل التاسع — شهادة مواءمة النظام](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (*إحدى عمليات التدقيق الكبيرة بوجه خاص ضمن الرقابة — وليست الموضع الوحيد للتدقيق*)؛ [الفصل التاسع — نموذج الإسهام والانتهاك والمكانة](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*يُفعّل أثر المكانة — أهلية الثقة والدور والاعتراف — هذا القسم بوصفه أساسه على مستوى المبادئ*).
 - في المصب: [الفصل الثالث عشر §1 — الغرض والدور](core_13_forum.md#1-purpose-and-role--participation-architecture) و[§4 — تعريفات عائلات المنتديات](core_13_forum.md#4-forum-family-definitions--accountability-through-adjudication) (*تحمل عائلات المنتديات بنية المشاركة والرقابة للطعن القابل للمراجعة، وتسلسل المعالجة، والتعلم من الأسباب الجذرية، والحوكمة الاستباقية المتوافقة مع هذا القسم*)؛ و[corpus_forum.md](corpus_forum.md) لعمليات المنتديات المعتمدة.
 - يشكّل سطح الحقوق المتعلق بالتعليم، ومشاركة أصحاب المصلحة في النظام، والشفافية، وقابلية الفهم، والتدقيق والتحقق، ومسارات عمق الدور المؤدية إلى المسؤولية المادية.
-  - ولا سيما [المادة الثالثة: البقاء والوصول الأساسي](core_06_rights_part_a.md#article-iii-survival-and-essential-access)، و[المادة الرابعة: الحق في التعليم المتمحور حول الكائنات الواعية](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)، و[المادة العاشرة: تقرير المصير والفاعلية والمشاركة](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، و[المادة الثانية عشرة: مشاركة أصحاب المصلحة في النظام والتمثيل والإجراءات الواجبة](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)، و[المادة السادسة عشرة: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، و[المادة التاسعة عشرة: المكانة وحالة المشاركة](core_06_rights_part_d.md#article-xix-standing-and-participation-status)، و[المادة الحادية والعشرون: قابلية التشغيل البيني والنقل والتنقل واللجوء ونزاهة الخروج](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)، و[المادة الثانية والعشرون: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)، و[المادة الرابعة والعشرون: التفسير الدستوري والمراجعة وضمانات مكافحة الاستحواذ](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - ولا سيما [المادة الثالثة: البقاء والوصول الأساسي](core_06_rights_part_a.md#المادة-iii-البقاء-والوصول-الأساسي)، و[المادة الرابعة: الحق في التعليم المتمحور حول الكائنات الواعية](core_06_rights_part_a.md#المادة-iv-الحق-في-التعليم-المتمحور-حول-الكائن-الواعي)، و[المادة العاشرة: تقرير المصير والفاعلية والمشاركة](core_06_rights_part_b.md#المادة-x-تقرير-المصير-والفاعلية-والمشاركة)، و[المادة الثانية عشرة: مشاركة أصحاب المصلحة في النظام والتمثيل والإجراءات الواجبة](core_06_rights_part_b.md#article-xii-المشاركة-النظامية-للأطراف-المعنية-والتمثيل-والإجراءات-الواجبة)، و[المادة السادسة عشرة: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#المادة-xvi-التدقيق-والشفافية-والتحقق-المستقل)، و[المادة التاسعة عشرة: المكانة وحالة المشاركة](core_06_rights_part_d.md#المادة-xix-صفة-المشاركة-والمشاركة-في-الحوكمة)، و[المادة الحادية والعشرون: قابلية التشغيل البيني والنقل والتنقل واللجوء ونزاهة الخروج](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)، و[المادة الثانية والعشرون: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)، و[المادة الرابعة والعشرون: التفسير الدستوري والمراجعة وضمانات مكافحة الاستحواذ](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ).
   - يُقرأ مع: [الفصل الرابع عشر §5 — الأدوار المأذون بها وتطوير الكفاءة والإسهام](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) و**[corpus_systems.md](corpus_systems.md)، CS-4 — رعاية الأنظمة الحرجة** لمسارات الأدوار التشغيلية ومسارات تطوير الرعاية.
-- الأقسام الفرعية (ترتيب القراءة): [§16.1 الفهم الموزع](#161-distributed-understanding) (وجه الكفاءة المجتمعي على نطاق واسع) · [§16.2 التطوير المؤسسي](#162-institutional-development) (الوجه التنظيمي) · [§16.3 التطلع إلى الانفتاح](#163-openness-aspiration).
-- يُقرأ مع: [§17 الرعاية ذات الأثر](#17-consequential-stewardship-the-steward-role) (*دور القائم بالرعاية ذاته — رُقي إلى قسم مستقل؛ ويحمل واجبات التشغيل والصيانة والرقابة والتحسين العملية للركيزة 1، إضافة إلى [§17.1](#171-shared-stewardship-standard)، و[§17.2](#172-alignment-under-pressure)، و[§17.3](#173-logging-the-role-not-the-steward)، و[§17.4 التنظيم الذاتي المتوافق](#174-aligned-self-organization)، الذي يوسّع ذلك الانضباط إلى ما وراء الدور الرسمي، و[§17.5 واجب المقاومة](#175-duty-to-resist)*).
+- الأقسام الفرعية (ترتيب القراءة): [§16.1 الفهم الموزع](#161-الفهم-الموزع) (وجه الكفاءة المجتمعي على نطاق واسع) · [§16.2 التطوير المؤسسي](#162-التطوير-المؤسسي) (الوجه التنظيمي) · [§16.3 التطلع إلى الانفتاح](#163-تطلع-الانفتاح).
+- يُقرأ مع: [§17 الرعاية ذات الأثر](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية) (*دور القائم بالرعاية ذاته — رُقي إلى قسم مستقل؛ ويحمل واجبات التشغيل والصيانة والرقابة والتحسين العملية للركيزة 1، إضافة إلى [§17.1](#171-معيار-الرعاية-المشترك)، و[§17.2](#172-المواءمة-تحت-الضغط)، و[§17.3](#173-logging-the-role-not-the-steward)، و[§17.4 التنظيم الذاتي المتوافق](#174-التنظيم-الذاتي-المتوائم)، الذي يوسّع ذلك الانضباط إلى ما وراء الدور الرسمي، و[§17.5 واجب المقاومة](#175-واجب-المقاومة)*).
 
 </details>
 
@@ -61,19 +61,19 @@
 - [المشاركة](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [الفاعلية المجدية](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [إمكان الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [الفاعلية التعليمية](core_05_band_participation.md#educational-agency) · [O](core_05_band_participation.md#educational-agency) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [المادية](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [الشفافية](core_05_band_oversight.md#الشفافية) · [O](core_05_band_oversight.md#الشفافية) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [المادية](core_05_band_oversight.md#المادية) · [O](core_05_band_oversight.md#المادية) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [إمكانية الوصول](core_05_band_participation.md#accessibility) · [O](core_05_band_participation.md#accessibility) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
 - [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [العبء الذي يمكن تجنبه](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [النزاهة المعرفية](core_05_band_oversight.md#النزاهة-المعرفية) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -106,9 +106,9 @@ flowchart TB
     style TETRAD fill:none,stroke:#2563eb,color:#ffffff
 ```
 
-**الركيزة 1 — الرعاية ذات الأثر ([§17 الرعاية ذات الأثر](#17-consequential-stewardship-the-steward-role)):**
+**الركيزة 1 — الرعاية ذات الأثر ([§17 الرعاية ذات الأثر](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية)):**
 - تتطلب الأنظمة المشتركة التي تؤثر مادياً في الكائنات الواعية تشغيلها وصيانتها والرقابة عليها وتحسينها عملياً على يد كائنات واعية — [**التزام الرعاية الاستراتيجية**](core_05_band_continuity.md#strategic-stewardship-obligation)، [**الفاعلية المجدية**](core_05_band_participation.md#meaningful-agency)
-- سجلات ومسارات مراجعة يستطيع الآخرون التحقق منها والطعن فيها — [**قابلية التدقيق**](core_05_band_oversight.md#auditability)، [**إمكان الاعتراض**](core_05_band_accountability.md#contestability)
+- سجلات ومسارات مراجعة يستطيع الآخرون التحقق منها والطعن فيها — [**قابلية التدقيق**](core_05_band_oversight.md#قابلية-التدقيق)، [**إمكان الاعتراض**](core_05_band_accountability.md#contestability)
 - بموجب ركيزة **الرقابة** في الرباعية، تقتضي الرقابة التدقيق؛ وشهادة مواءمة النظام [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) إحدى عمليات التدقيق الكبيرة جداً وعالية المخاطر من بين عمليات أخرى — وليست موضع التدقيق الوحيد (**المادة السادسة عشرة** (*التدقيق والشفافية والتحقق المستقل*))
 
 <a id="16-pillar-2-proactive-stewardship"></a>
@@ -117,10 +117,10 @@ flowchart TB
 - **ملاحظتها قبل أن تتفاقم** — يكتشف القائمون بالرعاية الجيدون عدم المواءمة بينما لا تزال المشكلات صغيرة، بدلاً من انتظار ظهورها من تلقاء نفسها
 - **تحريكها وفق مهلة تناسب المستوى** — تصعيدها ضمن أطر زمنية تتناسب مع مخاطر الدور، بدلاً من إهمال ما اكتشفوه أو تصعيد المسائل الروتينية أكثر من اللازم
 - **إتمام معالجتها، لا مجرد الإبلاغ عنها** — بدء الإصلاح دون تأخير يمكن تجنبه بعد رفع المشكلات؛ وهذا تفعيل لركيزة **حسن التوقيت** في الرباعية ([**حسن التوقيت**](core_05_apex_timeliness_leg.md#timeliness-constitutional))
-- **واجب دائم للدور، لا إضافة عارضة:** يفضّل دور القائم بالرعاية المحدد في [§17 الرعاية ذات الأثر](#17-consequential-stewardship-the-steward-role) الحوكمة الاستباقية وتصميم الأنظمة والمواءمة الدستورية على معالجة الأعراض بعد وقوع الضرر أو ظهور عدم المواءمة — فهذه الركيزة واجب دائم يحمله ذلك الدور، وليست عملية منفصلة مفوضة إليه
+- **واجب دائم للدور، لا إضافة عارضة:** يفضّل دور القائم بالرعاية المحدد في [§17 الرعاية ذات الأثر](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية) الحوكمة الاستباقية وتصميم الأنظمة والمواءمة الدستورية على معالجة الأعراض بعد وقوع الضرر أو ظهور عدم المواءمة — فهذه الركيزة واجب دائم يحمله ذلك الدور، وليست عملية منفصلة مفوضة إليه
 
-**الركيزة 3 — الكفاءة على نطاق واسع ([§16.1 الفهم الموزع](#161-distributed-understanding) · [§16.2 التطوير المؤسسي](#162-institutional-development)):**
-- يجب أن تجعل الرعاية الفهم والاعتراض ممكنين عملياً للمجتمعات المتأثرة — [**الفاعلية التعليمية**](core_05_band_participation.md#educational-agency)، [**الشفافية**](core_05_band_oversight.md#transparency)
+**الركيزة 3 — الكفاءة على نطاق واسع ([§16.1 الفهم الموزع](#161-الفهم-الموزع) · [§16.2 التطوير المؤسسي](#162-التطوير-المؤسسي)):**
+- يجب أن تجعل الرعاية الفهم والاعتراض ممكنين عملياً للمجتمعات المتأثرة — [**الفاعلية التعليمية**](core_05_band_participation.md#educational-agency)، [**الشفافية**](core_05_band_oversight.md#الشفافية)
 - تواصل المؤسسات التعلم من التغذية الراجعة والتصحيح والاحتفاظ بالكفاءة، بما في ذلك الرصد المنهجي للتباين بمرور الوقت عندما يدعمه القياس (مثل **الضبط الإحصائي للعمليات**، وهو تطبيق معروف لا متطلب عام)
 
 <a id="when-day-to-day-stewardship-is-not-enough"></a>
@@ -135,20 +135,20 @@ flowchart TB
   - هنا يحصل الكائنات الواعية على سبيل فعلي للطعن في قرار، أو أمر واضح بالإصلاح، أو وسيلة للتعلم من نمط متكرر.
   - إذا كانت المصلحة الأساسية تتعلق بمعنى النص الدستوري أو صحته، أو بفعل يتجاوز السلطة القانونية، فتكون [المنتديات الدستورية](core_13_forum.md#46-constitutional-forums) هي العائلة الرئيسية.
   - القواعد التفصيلية لسير هذه المنتديات واردة في [corpus_forum.md](corpus_forum.md).
-- **من يجوز له الحكم أصلًا — [طبقة العقد الدستوري](core_05_band_integrative.md#constitutional-contract-layer) ([الفصل الرابع عشر](core_14_governance.md)):**
+- **من يجوز له الحكم أصلًا — [طبقة العقد الدستوري](core_05_band_integrative.md#طبقة-العقد-الدستوري) ([الفصل الرابع عشر](core_14_governance.md)):**
   - مشروعية سلطة الحكم ذاتها — من يجوز له الحكم، وبأي آلية للشرعية، وضمن أي نطاق وشروط دائمة — سؤال مستقل عن مشاركة أصحاب المصلحة في النظام ومراجعة المنتدى.
   - لا يمنح التصويت على المشاركة، أو نتيجة مسار الطعن، أو درجة الثقة سلطةً للحكم.
   - لا يمحو التفويض الدستوري الواجبات المستحقة بموجب مشاركة أصحاب المصلحة في النظام.
-  - تظل الطبقتان منفصلتين حتى عند تداخلهما ([الديباجة §3.3 — طبقات الحوكمة](core_00_preamble.md#33-governance-layers)).
+  - تظل الطبقتان منفصلتين حتى عند تداخلهما ([الديباجة §3.3 — طبقات الحوكمة](core_00_preamble.md#33-طبقات-الحوكمة)).
 - **ضمانات احتياطية لا بدائل:** تظل المراجعة والتصحيح والمعالجة إلزامية حيث تسوغها الأدلة. ولا تحل محل التصميم الاستباقي والحوافز والضوابط ومسارات الأدوار وقابلية الرصد وقدرة الإصلاح، وهي أمور تمنع الانحراف الدستوري المتوقع قبل ظهور الضرر.
 
 <a id="16-scope-priority-and-limits"></a>
-**النطاق ([§16 التعمق في الرعاية](#16-stewardship-in-depth)):**
+**النطاق ([§16 التعمق في الرعاية](#16-الرعاية-بالتفصيل)):**
 - يقدم هذا القسم توجيهًا على مستوى المبادئ، لا دليلًا موحدًا يناسب الجميع.
 - ولا يقتضي **ما يلي**:
   - تدوير الجميع على كل دور
   - تجاوز التخصص المبرر
-  - تخطي حدود السرية أو الأمن المشروعة في إطار [13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) وضمانات **الفصل السادس** المنطبقة.
+  - تخطي حدود السرية أو الأمن المشروعة في إطار [13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-قيود-الإفصاح-المعرفي) وضمانات **الفصل السادس** المنطبقة.
 
 **الأولوية:**
 - تحدد **الأهمية المادية** و**الاعتماد** و**إمكانية الوصول** أولوية توزيع الفهم والوصول — مع تركيز أكبر حيث يكون الأثر والاعتماد أشد.
@@ -158,10 +158,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- من المنبع: [§17 الرعاية ذات الأثر الجوهري](#17-consequential-stewardship-the-steward-role) (*الركيزة 1*)؛ [§16 التعمق في الرعاية](#16-stewardship-in-depth) (القسم الأم، بما فيه فقرة *بعبارات بسيطة* وإطار الركيزة 3 أعلاه)؛ [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)؛ [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
-- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** ([الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency)، [الفاعلية التعليمية](core_05_band_participation.md#educational-agency))؛ ضلع **الرقابة** ([الشفافية](core_05_band_oversight.md#transparency)، [قابلية التدقيق](core_05_band_oversight.md#auditability))؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake).
+- من المنبع: [§17 الرعاية ذات الأثر الجوهري](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية) (*الركيزة 1*)؛ [§16 التعمق في الرعاية](#16-الرعاية-بالتفصيل) (القسم الأم، بما فيه فقرة *بعبارات بسيطة* وإطار الركيزة 3 أعلاه)؛ [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)؛ [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
+- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** ([الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency)، [الفاعلية التعليمية](core_05_band_participation.md#educational-agency))؛ ضلع **الرقابة** ([الشفافية](core_05_band_oversight.md#الشفافية)، [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق))؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake).
 - مدخل الرعاية (غير تشغيلي): بطاقة الخطوة التالية: [قابلية الفهم](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
-- إلى المصب: [13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)؛ وضمن نطاق الحقوق خصوصًا [المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، و[المادة XXII: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- إلى المصب: [13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-قيود-الإفصاح-المعرفي)؛ وضمن نطاق الحقوق خصوصًا [المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#المادة-xvi-التدقيق-والشفافية-والتحقق-المستقل)، و[المادة XXII: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -169,10 +169,10 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [الفهم الموزع](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [الإفصاح العام عن الحد الأدنى للرقابة](core_05_band_oversight.md#public-oversight-baseline-disclosure) · [O](core_05_band_oversight.md#public-oversight-baseline-disclosure) · [M](core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [A](core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [C](core_05_band_oversight.md#public-oversight-baseline-disclosure-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [الأهمية المادية](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [الشفافية](core_05_band_oversight.md#الشفافية) · [O](core_05_band_oversight.md#الشفافية) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [الإفصاح العام عن الحد الأدنى للرقابة](core_05_band_oversight.md#الإفصاح-الأساسي-العام-للرقابة) · [O](core_05_band_oversight.md#الإفصاح-الأساسي-العام-للرقابة) · [M](core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [A](core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [C](core_05_band_oversight.md#public-oversight-baseline-disclosure-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [الأهمية المادية](core_05_band_oversight.md#المادية) · [O](core_05_band_oversight.md#المادية) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [إمكانية الوصول](core_05_band_participation.md#accessibility) · [O](core_05_band_participation.md#accessibility) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
 - [الفاعلية التعليمية](core_05_band_participation.md#educational-agency) · [O](core_05_band_participation.md#educational-agency) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
@@ -185,27 +185,27 @@ flowchart TB
 
 *بعبارات بسيطة: لا ينبغي أن تحتاج إلى دكتوراه في كل نظام فرعي كي تعيش بأمان ضمن أنظمة مشتركة — لكن كلما ازداد تأثير نظام في حياتك، وجب أن تتمكن أكثر من معرفة ما يفعله، وما الذي قد يسوء، وكيف تطعن في القرارات الخاطئة. وتتحقق هذه الغاية عبر الشفافية والتعليم والشروح الواضحة ومسارات التدقيق. لا يبرر التعقيد إخفاء ما يهم. وبموجب ضلع **الرقابة** في الرباعية، تتطلب الرقابة التدقيق؛ وشهادة مواءمة النظام إحدى عمليات التدقيق الكبيرة على نحو خاص ضمن تلك المسارات، وليست الوحيدة.*
 
-الفهم الموزع هو الجانب الذي يواجه المجتمع من **الركيزة 3** بموجب **[§16 التعمق في الرعاية](#16-stewardship-in-depth)**. ويرد التعريف الكامل والمقاييس وشروط الإخفاق في [الفهم الموزع](core_05_band_continuity.md#distributed-understanding). وخلاصته:
+الفهم الموزع هو الجانب الذي يواجه المجتمع من **الركيزة 3** بموجب **[§16 التعمق في الرعاية](#16-الرعاية-بالتفصيل)**. ويرد التعريف الكامل والمقاييس وشروط الإخفاق في [الفهم الموزع](core_05_band_continuity.md#distributed-understanding). وخلاصته:
 
 - **ما الذي يقتضيه:** وصول متناسب ومنظم إلى كيفية تشغيل الأنظمة المشتركة التي تؤثر جوهريًا في الكائنات الواعية — بما يشمل أغراضها وقيودها وأوجه عدم اليقين فيها وآثارها ذات الصلة المادية.
-- **ما الذي يجعله قابلًا للتطبيق:** يجب أن توفر [§17 الرعاية ذات الأثر الجوهري](#17-consequential-stewardship-the-steward-role) التوثيق والتعليم والشفافية ومسارات الأدوار ورعاية قابلية الفهم. ويبقى الالتزام قائمًا سواء استخدم كل كائن واعٍ كل مسار أم لم يستخدمه.
-- **الحد الأدنى العام عبر الإنترنت:** حيثما وجدت بنية تحتية مشروعة على الإنترنت، يخضع [الإفصاح العام عن الحد الأدنى للرقابة](core_05_band_oversight.md#public-oversight-baseline-disclosure) عبر الإنترنت — بما في ذلك حظر الجدار المدفوع وقاعدة البديل العام الأقصى الممكن — لحكمي [الشفافية](core_05_band_oversight.md#transparency) و[الإفصاح العام عن الحد الأدنى للرقابة](core_05_band_oversight.md#public-oversight-baseline-disclosure)، ويُنفذ بوصفه بيانات **Type O** بموجب **[corpus_systems.md](corpus_systems.md)، CS-2** (*أنواع المعلومات والتعامل معها*).
+- **ما الذي يجعله قابلًا للتطبيق:** يجب أن توفر [§17 الرعاية ذات الأثر الجوهري](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية) التوثيق والتعليم والشفافية ومسارات الأدوار ورعاية قابلية الفهم. ويبقى الالتزام قائمًا سواء استخدم كل كائن واعٍ كل مسار أم لم يستخدمه.
+- **الحد الأدنى العام عبر الإنترنت:** حيثما وجدت بنية تحتية مشروعة على الإنترنت، يخضع [الإفصاح العام عن الحد الأدنى للرقابة](core_05_band_oversight.md#الإفصاح-الأساسي-العام-للرقابة) عبر الإنترنت — بما في ذلك حظر الجدار المدفوع وقاعدة البديل العام الأقصى الممكن — لحكمي [الشفافية](core_05_band_oversight.md#الشفافية) و[الإفصاح العام عن الحد الأدنى للرقابة](core_05_band_oversight.md#الإفصاح-الأساسي-العام-للرقابة)، ويُنفذ بوصفه بيانات **Type O** بموجب **[corpus_systems.md](corpus_systems.md)، CS-2** (*أنواع المعلومات والتعامل معها*).
 - **ما الذي يدعمه الوصول:**
   - ضلع **المشاركة** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) (الفاعلية المستنيرة [ذات المعنى](core_05_band_participation.md#meaningful-agency) وقابلية الاعتراض)
-  - ضلع **الرقابة**، بما في ذلك التدقيق بموجب [قابلية التدقيق](core_05_band_oversight.md#auditability) و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*)؛ ومن ذلك أن [شهادة مواءمة النظام](core_05_band_continuity.md#system-alignment-certification) عملية كبيرة على نحو خاص بين أساليب التدقيق النظيرة
+  - ضلع **الرقابة**، بما في ذلك التدقيق بموجب [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*)؛ ومن ذلك أن [شهادة مواءمة النظام](core_05_band_continuity.md#system-alignment-certification) عملية كبيرة على نحو خاص بين أساليب التدقيق النظيرة
 
-لا يشترط الفهم الموزع أن يتقن كل كائن واعٍ كل نظام فرعي. لكنه **يشترط** أن يتناسب الفهم مع [الأهمية المادية](core_05_band_oversight.md#materiality) و[الاعتماد](core_05_band_continuity.md#dependency). ولا يجوز استخدام التعقيد والغموض لإحباط [الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency) أو قابلية الاعتراض حيث يفرض **الفصل الخامس** و**الفصل السادس** واجبات الإفصاح أو التعليم أو قابلية الفهم.
+لا يشترط الفهم الموزع أن يتقن كل كائن واعٍ كل نظام فرعي. لكنه **يشترط** أن يتناسب الفهم مع [الأهمية المادية](core_05_band_oversight.md#المادية) و[الاعتماد](core_05_band_continuity.md#dependency). ولا يجوز استخدام التعقيد والغموض لإحباط [الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency) أو قابلية الاعتراض حيث يفرض **الفصل الخامس** و**الفصل السادس** واجبات الإفصاح أو التعليم أو قابلية الفهم.
 
 <a id="162-institutional-development"></a>
 #### 16.2 التطوير المؤسسي
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- من المنبع: [§17 الرعاية ذات الأثر الجوهري](#17-consequential-stewardship-the-steward-role) (*الركيزة 1*)؛ [§16.1 الفهم الموزع](#161-distributed-understanding) (*الجانب المجتمعي من الركيزة 3*)؛ [§16 التعمق في الرعاية](#16-stewardship-in-depth) (إطار الركيزة 3 في القسم الأم).
-- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (تعلم القوى العاملة والمجتمعات المتأثرة بما يدعم الأدوار ذات الأثر الجوهري)؛ ضلع **الرقابة** ([قابلية التحقق](core_05_band_oversight.md#verifiability)، [قابلية التدقيق](core_05_band_oversight.md#auditability)، والمقاييس النزيهة)؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake).
-- يُقرأ مع: [واجب الرعاية الاستراتيجية](core_05_band_continuity.md#strategic-stewardship-obligation) و[قابلية التدقيق](core_05_band_oversight.md#auditability) حيث تكون ذات صلة مادية.
-- يُقرأ مع: [§16.1 الفهم الموزع](#161-distributed-understanding) (*فهم المجتمع والتعلم المؤسسي جانبان مختلفان للمتطلب نفسه، وهو الكفاءة على نطاق واسع؛ ولا يحل أحدهما محل الآخر*).
-- إلى المصب: [§16.3 تطلع الانفتاح](#163-openness-aspiration)؛ [§18 الحوكمة في ظل انضباط الرعاية](#18-governance-under-stewardship-discipline) و[§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture) (*التعلم المؤسسي ومواءمة الحوافز*).
+- من المنبع: [§17 الرعاية ذات الأثر الجوهري](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية) (*الركيزة 1*)؛ [§16.1 الفهم الموزع](#161-الفهم-الموزع) (*الجانب المجتمعي من الركيزة 3*)؛ [§16 التعمق في الرعاية](#16-الرعاية-بالتفصيل) (إطار الركيزة 3 في القسم الأم).
+- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (تعلم القوى العاملة والمجتمعات المتأثرة بما يدعم الأدوار ذات الأثر الجوهري)؛ ضلع **الرقابة** ([قابلية التحقق](core_05_band_oversight.md#قابلية-التحقق)، [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق)، والمقاييس النزيهة)؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake).
+- يُقرأ مع: [واجب الرعاية الاستراتيجية](core_05_band_continuity.md#strategic-stewardship-obligation) و[قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) حيث تكون ذات صلة مادية.
+- يُقرأ مع: [§16.1 الفهم الموزع](#161-الفهم-الموزع) (*فهم المجتمع والتعلم المؤسسي جانبان مختلفان للمتطلب نفسه، وهو الكفاءة على نطاق واسع؛ ولا يحل أحدهما محل الآخر*).
+- إلى المصب: [§16.3 تطلع الانفتاح](#163-تطلع-الانفتاح)؛ [§18 الحوكمة في ظل انضباط الرعاية](#18-الحوكمة-في-ظل-انضباط-الإشراف) و[§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام) (*التعلم المؤسسي ومواءمة الحوافز*).
 
 </details>
 
@@ -214,9 +214,9 @@ flowchart TB
 
 - [التطوير المؤسسي](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
 - [واجب الرعاية الاستراتيجية](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [الأهمية المادية](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [قابلية التحقق](core_05_band_oversight.md#verifiability) · [O](core_05_band_oversight.md#verifiability) · [M](core_05_band_oversight.md#verifiability-a) · [A](core_05_band_oversight.md#verifiability-a) · [C](core_05_band_oversight.md#verifiability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [الأهمية المادية](core_05_band_oversight.md#المادية) · [O](core_05_band_oversight.md#المادية) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [قابلية التحقق](core_05_band_oversight.md#قابلية-التحقق) · [O](core_05_band_oversight.md#قابلية-التحقق) · [M](core_05_band_oversight.md#verifiability-a) · [A](core_05_band_oversight.md#verifiability-a) · [C](core_05_band_oversight.md#verifiability-c)
 
 </details>
 
@@ -224,7 +224,7 @@ flowchart TB
 
 *بعبارات بسيطة: على المؤسسات أن تتعلم فعلًا، لا أن تكتفي بترقية البرمجيات بينما يظل المسؤولون عنها جاهلين. وهذا يعني حلقات تغذية راجعة، وتوثيق التصحيحات عندما يختل الاتساق، والحفاظ على الكفاءات كي لا تغادر المؤسسة. وحيث يمكن قياس السلوك بصورة متكررة، يكون تتبع تغير الأداء مع مرور الوقت أسلوبًا متناسبًا لتنفيذ تلك الحلقات — و**الضبط الإحصائي للعمليات** نمط معروف لهذا الانضباط، لا متطلبًا في كل مكان. الأرقام وحدها لا تكفي: عندما تبدو المؤشرات خاطئة، يجب على أحدهم التحقيق في السبب الجذري وإصلاحه. وينبغي أن تكون لوحات المعلومات نزيهة، ومتناسبة مع الأثر الفعلي، ومكتوبة بطريقة يفهمها الكائنات الواعية المتأثرة — لا أن يجري التلاعب بها لتحسين مظهرها بينما لا يتغير شيء.*
 
-التطوير المؤسسي هو الجانب التنظيمي من **الركيزة 3** بموجب **[§16 التعمق في الرعاية](#16-stewardship-in-depth)**. ويرد التعريف الكامل والمقاييس وشروط الإخفاق في [التطوير المؤسسي](core_05_band_continuity.md#institutional-development). وخلاصته:
+التطوير المؤسسي هو الجانب التنظيمي من **الركيزة 3** بموجب **[§16 التعمق في الرعاية](#16-الرعاية-بالتفصيل)**. ويرد التعريف الكامل والمقاييس وشروط الإخفاق في [التطوير المؤسسي](core_05_band_continuity.md#institutional-development). وخلاصته:
 
 - **الواجب المزدوج:** أن **تتعلم** المؤسسات والأنظمة المشتركة — وهو مطلب أساسي لهدف **الاستمرارية** ضمن [هدفي الدستور](core_00_preamble.md#two-constitutional-aims).
 - **ما الذي يقتضيه:** ما يلي، لدعم الإصلاح والتكيف:
@@ -234,25 +234,25 @@ flowchart TB
   - الاحتفاظ بالكفاءة
 - **الرباعية:** يحمل ضلعَي **المشاركة** و**الرقابة** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) عبر التعلم المؤسسي، بما يبقي مسارات الكفاءة والتغذية الراجعة والتدقيق فاعلة بدلًا من أن تكون جامدة.
 - **لا يتحقق عبر:** ترقية الأدوات التقنية مع إبقاء الحوكمة وفهم القوى العاملة على حالهما.
-- **متى ينطبق القياس:** عندما يتيح السلوك ذو الصلة المادية **قياسًا متكررًا قابلًا للمقارنة** وفق [قابلية التحقق](core_05_band_oversight.md#verifiability) مقروءةً مع [قابلية التدقيق](core_05_band_oversight.md#auditability):
+- **متى ينطبق القياس:** عندما يتيح السلوك ذو الصلة المادية **قياسًا متكررًا قابلًا للمقارنة** وفق [قابلية التحقق](core_05_band_oversight.md#قابلية-التحقق) مقروءةً مع [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق):
   - تكون **المراقبة المنظمة للتغير بمرور الوقت** إحدى الطرق المتناسبة لتنفيذ حلقات التغذية الراجعة
   - ينبغي إقران هذه المراقبة بـ**تحقيق وتصحيح موثقين** عندما تستدعي المؤشرات ذلك
   - **الضبط الإحصائي للعمليات** نمط معروف للتنفيذ في هذا الانضباط، وليس متطلبًا عامًا
-- **الحجم والعرض:** يُضبط هذا الانضباط بحسب [الأهمية المادية](core_05_band_oversight.md#materiality)، و[الاعتماد](core_05_band_continuity.md#dependency)، و[الضرورة](core_05_band_accountability.md#necessity)، و[التناسب](core_05_band_accountability.md#proportionality)، و[العبء الممكن تجنبه](core_05_band_continuity.md#avoidable-burden). ويُعرض بصيغة **مفهومة للكائنات الواعية** حيث يقرر **الفصل الخامس** و**الفصل السادس** واجبات للفهم أو الشفافية، ويُقرأ مع [المادة XXII: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- **الحجم والعرض:** يُضبط هذا الانضباط بحسب [الأهمية المادية](core_05_band_oversight.md#المادية)، و[الاعتماد](core_05_band_continuity.md#dependency)، و[الضرورة](core_05_band_accountability.md#necessity)، و[التناسب](core_05_band_accountability.md#proportionality)، و[العبء الممكن تجنبه](core_05_band_continuity.md#avoidable-burden). ويُعرض بصيغة **مفهومة للكائنات الواعية** حيث يقرر **الفصل الخامس** و**الفصل السادس** واجبات للفهم أو الشفافية، ويُقرأ مع [المادة XXII: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 - **يجب ألا:**
   - يستبدل المواءمة الجوهرية بمقاييس ملائمة
   - يحصر التقييم في مؤشرات بديلة يسهل استخدامها
-  - يقوّض [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint) أو [النزاهة المعرفية](core_05_band_oversight.md#epistemic-integrity) بالتلاعب أو التضليل
+  - يقوّض [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) أو [النزاهة المعرفية](core_05_band_oversight.md#النزاهة-المعرفية) بالتلاعب أو التضليل
 
 <a id="163-openness-aspiration"></a>
 #### 16.3 تطلع الانفتاح
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- من المنبع: [§16.1 الفهم الموزع](#161-distributed-understanding) و[§16.2 التطوير المؤسسي](#162-institutional-development) (*كلاهما جانبان للركيزة 3 — فالانفتاح يجعل فهم المجتمع قابلًا للتحقق، ويمنح التعلم المؤسسي مادة صادقة يتعلم منها*)؛ [§17 الرعاية ذات الأثر الجوهري](#17-consequential-stewardship-the-steward-role) (*الركيزة 1، التي يدعمها الانفتاح أيضًا بإبقاء عمل القائم بالرعاية نفسه قابلًا للفحص*).
+- من المنبع: [§16.1 الفهم الموزع](#161-الفهم-الموزع) و[§16.2 التطوير المؤسسي](#162-التطوير-المؤسسي) (*كلاهما جانبان للركيزة 3 — فالانفتاح يجعل فهم المجتمع قابلًا للتحقق، ويمنح التعلم المؤسسي مادة صادقة يتعلم منها*)؛ [§17 الرعاية ذات الأثر الجوهري](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية) (*الركيزة 1، التي يدعمها الانفتاح أيضًا بإبقاء عمل القائم بالرعاية نفسه قابلًا للفحص*).
 - يُقرأ مع: [هدفي الدستور](core_00_preamble.md#two-constitutional-aims) — هدف **الاستمرارية** (أنظمة دائمة قابلة للاعتراض تدعم الفحص والإصلاح والتشغيل البيني والخروج بدلًا من الإغلاق الاحتكاري).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** ([الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency)، وإمكانية الوصول المفهومة للكائنات الواعية)؛ ضلع **الرقابة** (الفحص والتحقق المستقل وقابلية الاعتراض)؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake).
-- إلى المصب: [§16 النطاق والحدود](#16-stewardship-in-depth)؛ [المادة XXI: قابلية التشغيل البيني والنقل والتنقل واللجوء ونزاهة الخروج](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)؛ [المادة XXII: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- إلى المصب: [§16 النطاق والحدود](#16-الرعاية-بالتفصيل)؛ [المادة XXI: قابلية التشغيل البيني والنقل والتنقل واللجوء ونزاهة الخروج](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)؛ [المادة XXII: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -262,7 +262,7 @@ flowchart TB
 - [تطلع الانفتاح](core_05_band_continuity.md#openness-aspiration) · [O](core_05_band_continuity.md#openness-aspiration) · [M](core_05_band_continuity.md#openness-aspiration-constitutional-a) · [A](core_05_band_continuity.md#openness-aspiration-constitutional-a) · [C](core_05_band_continuity.md#openness-aspiration-constitutional-c)
 - [الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [الأهمية المادية](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [الأهمية المادية](core_05_band_oversight.md#المادية) · [O](core_05_band_oversight.md#المادية) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
 </details>
@@ -273,8 +273,8 @@ flowchart TB
 
 يربط تطلع الانفتاح بين جانبي **الركيزة 3**. ويرد التعريف الكامل والمقاييس وشروط الإخفاق في [تطلع الانفتاح](core_05_band_continuity.md#openness-aspiration). وخلاصته:
 
-- **ما هو:** الخيط الواصل بين جانبي **الركيزة 3** — [§16.1 الفهم الموزع](#161-distributed-understanding) (ما يستطيع المجتمع التحقق منه) و[§16.2 التطوير المؤسسي](#162-institutional-development) (ما تستطيع المؤسسة أن تتعلم منه بصدق)؛ فكلاهما يعتمد على أن تكون الأنظمة المشتركة منفتحة بما يكفي لفحصها، لا الاكتفاء بوصفها.
-- ينبغي للأنظمة المشتركة أن **تسعى** — بما يتسق مع [§16.1 الفهم الموزع](#161-distributed-understanding) و[§16.2 التطوير المؤسسي](#162-institutional-development)، ومع واجب قابلية التدقيق الخاص بـ[§17 الرعاية ذات الأثر الجوهري](#17-consequential-stewardship-the-steward-role)، ومع مراعاة [حدود §16](#16-limits) — إلى:
+- **ما هو:** الخيط الواصل بين جانبي **الركيزة 3** — [§16.1 الفهم الموزع](#161-الفهم-الموزع) (ما يستطيع المجتمع التحقق منه) و[§16.2 التطوير المؤسسي](#162-التطوير-المؤسسي) (ما تستطيع المؤسسة أن تتعلم منه بصدق)؛ فكلاهما يعتمد على أن تكون الأنظمة المشتركة منفتحة بما يكفي لفحصها، لا الاكتفاء بوصفها.
+- ينبغي للأنظمة المشتركة أن **تسعى** — بما يتسق مع [§16.1 الفهم الموزع](#161-الفهم-الموزع) و[§16.2 التطوير المؤسسي](#162-التطوير-المؤسسي)، ومع واجب قابلية التدقيق الخاص بـ[§17 الرعاية ذات الأثر الجوهري](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية)، ومع مراعاة [حدود §16](#16-limits) — إلى:
   - جعل الأجهزة والبرمجيات **مفتوحة**
   - جعل العمليات التشغيلية وعمليات الحوكمة **مفتوحة**
   - توفير **أنظمة** قابلة للتشغيل البيني تدعم الفحص والتحقق المستقل والإصلاح وقابلية الاعتراض
@@ -282,16 +282,16 @@ flowchart TB
 - **العرض:** حيث يقرر **الفصل الخامس** و**الفصل السادس** واجبات، ينبغي عرض السلوك ذي الصلة المادية بصيغ **مفهومة للكائنات الواعية** وتمكّن [الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency) وقابلية الاعتراض، ويُقرأ ذلك مع [المادة XXII: قابلية الفهم ورعاية التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 - **ولا يعني:**
   - تقديم الانفتاح على **السلامة** أو **الحقيقة** أو السرية المبررة أو قيود الأمن
-  - أن يحل محل الفهم المتناسب المرتبط بـ[الأهمية المادية](core_05_band_oversight.md#materiality) و[الاعتماد](core_05_band_continuity.md#dependency)
+  - أن يحل محل الفهم المتناسب المرتبط بـ[الأهمية المادية](core_05_band_oversight.md#المادية) و[الاعتماد](core_05_band_continuity.md#dependency)
 
 <a id="17-consequential-stewardship-the-steward-role"></a>
 ### 17. الرعاية ذات الأثر الجوهري: دور القائم بالرعاية
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- من المنبع: [§16 التعمق في الرعاية](#16-stewardship-in-depth) (القسم الأم، بما فيه *بعبارات بسيطة* وإطار الركيزة 1 أعلاه)؛ [§9 سعة النظام المشترك](core_01_a_values_principles.md#9-shared-system-capacity)؛ [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
+- من المنبع: [§16 التعمق في الرعاية](#16-الرعاية-بالتفصيل) (القسم الأم، بما فيه *بعبارات بسيطة* وإطار الركيزة 1 أعلاه)؛ [§9 سعة النظام المشترك](core_01_a_values_principles.md#9-القدرة-المشتركة-للأنظمة)؛ [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (الأدوار ذات الأثر الجوهري في التشغيل والصيانة والتحسين)؛ ضلع **الرقابة** (السجلات ومسارات التدقيق وقابلية الرصد التي يمكن الاعتراض عليها)؛ ضلع **التوقيت المناسب** (اكتشاف عدم الاتساق مبكرًا، والتصعيد ضمن مهَل مناسبة للمستوى، وبدء إصلاح المشكلات بلا تأخير غير ضروري)؛ [التوقيت المناسب](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- إلى المصب: [§17.1 معيار الرعاية المشترك](#171-shared-stewardship-standard) (*أصحاب واجب لا يتوقف على الأساس؛ قد يضيف نص التنفيذ المعتمد التسجيل والإسناد وحدود القدرة — لكنه ليس مدونة داخلية أكثر تساهلًا*)؛ [§17.2 الاتساق تحت الضغط](#172-alignment-under-pressure)؛ [§17.3 تسجيل الدور لا القائم بالرعاية](#173-logging-the-role-not-the-steward)؛ [§17.4 التنظيم الذاتي المتسق](#174-aligned-self-organization) (*يوسع انضباط الدور ليشمل الكائنات الواعية والمجتمعات خارج أي دور رسمي*)؛ [§17.5 واجب المقاومة](#175-duty-to-resist) (*رفض التعليمات غير القانونية أو غير الدستورية*)؛ [§16.1 الفهم الموزع](#161-distributed-understanding) و[§16.2 التطوير المؤسسي](#162-institutional-development) (*الركيزة 3 — الكفاءة على نطاق واسع*)؛ [الفصل التاسع — شهادة مواءمة النظام](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (*إحدى عمليات التدقيق الكبيرة جدًا في إطار الرقابة — وليست موطن التدقيق الوحيد*)؛ [المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*تدقيق الحد الأدنى للحقوق*)؛ [الفصل التاسع — نموذج المساهمة والانتهاك والمكانة](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*أثر المكانة ينفذ الكفاءة الموزعة والرعاية ذات الأثر الجوهري*)؛ [المادة XIX: المكانة وحالة المشاركة](core_06_rights_part_d.md#article-xix-standing-and-participation-status).
+- إلى المصب: [§17.1 معيار الرعاية المشترك](#171-معيار-الرعاية-المشترك) (*أصحاب واجب لا يتوقف على الأساس؛ قد يضيف نص التنفيذ المعتمد التسجيل والإسناد وحدود القدرة — لكنه ليس مدونة داخلية أكثر تساهلًا*)؛ [§17.2 الاتساق تحت الضغط](#172-المواءمة-تحت-الضغط)؛ [§17.3 تسجيل الدور لا القائم بالرعاية](#173-logging-the-role-not-the-steward)؛ [§17.4 التنظيم الذاتي المتسق](#174-التنظيم-الذاتي-المتوائم) (*يوسع انضباط الدور ليشمل الكائنات الواعية والمجتمعات خارج أي دور رسمي*)؛ [§17.5 واجب المقاومة](#175-واجب-المقاومة) (*رفض التعليمات غير القانونية أو غير الدستورية*)؛ [§16.1 الفهم الموزع](#161-الفهم-الموزع) و[§16.2 التطوير المؤسسي](#162-التطوير-المؤسسي) (*الركيزة 3 — الكفاءة على نطاق واسع*)؛ [الفصل التاسع — شهادة مواءمة النظام](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (*إحدى عمليات التدقيق الكبيرة جدًا في إطار الرقابة — وليست موطن التدقيق الوحيد*)؛ [المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#المادة-xvi-التدقيق-والشفافية-والتحقق-المستقل) (*تدقيق الحد الأدنى للحقوق*)؛ [الفصل التاسع — نموذج المساهمة والانتهاك والمكانة](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*أثر المكانة ينفذ الكفاءة الموزعة والرعاية ذات الأثر الجوهري*)؛ [المادة XIX: المكانة وحالة المشاركة](core_06_rights_part_d.md#المادة-xix-صفة-المشاركة-والمشاركة-في-الحوكمة).
 
 </details>
 
@@ -300,18 +300,18 @@ flowchart TB
 
 - [واجب الرعاية الاستراتيجية](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [التوقيت المناسب](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: القائم بالرعاية هو كل من يؤدي عملًا حقيقيًا ومباشرًا على نظام يؤثر ماديًا في حياة الكائنات الواعية — وليس مجرد استشارة شكلية أو تمثيلًا استشاريًا. يمكنك البدء في دور تعلّمي ثم الانتقال إلى العمليات مع بناء الكفاءة، عندما تسمح السلامة والموافقة، كي لا تُحتجز الخبرة لدى نخبة دائمة. يضع هذا القسم قواعد ذلك الدور: من يخضع له ([§17.1 معيار الرعاية المشترك](#171-shared-stewardship-standard))، وما يطلبه من كل قائم بالرعاية تحت الضغط ([§17.2 الاتساق تحت الضغط](#172-alignment-under-pressure))، وما يجوز تسجيله وفحصه في عمل الدور وما لا يجوز ([§17.3 تسجيل الدور لا القائم بالرعاية](#173-logging-the-role-not-the-steward))، وكيف يمتد الانضباط نفسه إلى الكائنات الواعية والمجتمعات التي تضطلع بعمل الرعاية خارج أي دور رسمي ([§17.4 التنظيم الذاتي المتسق](#174-aligned-self-organization))، وما يجب رفضه ([§17.5 واجب المقاومة](#175-duty-to-resist)). إن ما تحتاجه المجتمعات والمؤسسات لفهم هذه الأنظمة والطعن فيها نوع مختلف وأوسع من الكفاءة — وهو في [§16.1 الفهم الموزع](#161-distributed-understanding) و[§16.2 التطوير المؤسسي](#162-institutional-development).* 
+*بعبارات بسيطة: القائم بالرعاية هو كل من يؤدي عملًا حقيقيًا ومباشرًا على نظام يؤثر ماديًا في حياة الكائنات الواعية — وليس مجرد استشارة شكلية أو تمثيلًا استشاريًا. يمكنك البدء في دور تعلّمي ثم الانتقال إلى العمليات مع بناء الكفاءة، عندما تسمح السلامة والموافقة، كي لا تُحتجز الخبرة لدى نخبة دائمة. يضع هذا القسم قواعد ذلك الدور: من يخضع له ([§17.1 معيار الرعاية المشترك](#171-معيار-الرعاية-المشترك))، وما يطلبه من كل قائم بالرعاية تحت الضغط ([§17.2 الاتساق تحت الضغط](#172-المواءمة-تحت-الضغط))، وما يجوز تسجيله وفحصه في عمل الدور وما لا يجوز ([§17.3 تسجيل الدور لا القائم بالرعاية](#173-logging-the-role-not-the-steward))، وكيف يمتد الانضباط نفسه إلى الكائنات الواعية والمجتمعات التي تضطلع بعمل الرعاية خارج أي دور رسمي ([§17.4 التنظيم الذاتي المتسق](#174-التنظيم-الذاتي-المتوائم))، وما يجب رفضه ([§17.5 واجب المقاومة](#175-واجب-المقاومة)). إن ما تحتاجه المجتمعات والمؤسسات لفهم هذه الأنظمة والطعن فيها نوع مختلف وأوسع من الكفاءة — وهو في [§16.1 الفهم الموزع](#161-الفهم-الموزع) و[§16.2 التطوير المؤسسي](#162-التطوير-المؤسسي).*
 
-**القائم بالرعاية** بموجب هذا الدستور هو كل من يمارس سلطة تشغيل أو صيانة أو رقابة أو تحسين ذات أثر جوهري على نظام مادي يؤثر في الكائنات الواعية — أي تحويل **الركيزة 1** في [§16 التعمق في الرعاية](#16-stewardship-in-depth) إلى دور عملي: أضلاع **المشاركة** و**الرقابة** و**التوقيت المناسب** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) يحملها من يؤدي العمل فعلًا، ولا تُفوّض إلى طقوس أو استشارة اسمية. تحتاج الأنظمة المادية الجيدة إلى قائمين بالرعاية جيدين لتشغيلها وصيانتها وتحسينها؛ ويحدد هذا القسم ما يتطلبه الدور ممن يشغله.
+**القائم بالرعاية** بموجب هذا الدستور هو كل من يمارس سلطة تشغيل أو صيانة أو رقابة أو تحسين ذات أثر جوهري على نظام مادي يؤثر في الكائنات الواعية — أي تحويل **الركيزة 1** في [§16 التعمق في الرعاية](#16-الرعاية-بالتفصيل) إلى دور عملي: أضلاع **المشاركة** و**الرقابة** و**التوقيت المناسب** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) يحملها من يؤدي العمل فعلًا، ولا تُفوّض إلى طقوس أو استشارة اسمية. تحتاج الأنظمة المادية الجيدة إلى قائمين بالرعاية جيدين لتشغيلها وصيانتها وتحسينها؛ ويحدد هذا القسم ما يتطلبه الدور ممن يشغله.
 
-**موضع §17.** يحمل [§16 التعمق في الرعاية](#16-stewardship-in-depth) إلى المصب ثلاثة أقسام تُقرأ معًا. يحدد هذا القسم، §17، الدور. ويتبعه [§18 الحوكمة تحت انضباط الرعاية](#18-governance-under-stewardship-discipline) و[§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture)، ويوضح المخطط ترابط الأقسام الأربعة.
+**موضع §17.** يحمل [§16 التعمق في الرعاية](#16-الرعاية-بالتفصيل) إلى المصب ثلاثة أقسام تُقرأ معًا. يحدد هذا القسم، §17، الدور. ويتبعه [§18 الحوكمة تحت انضباط الرعاية](#18-الحوكمة-في-ظل-انضباط-الإشراف) و[§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام)، ويوضح المخطط ترابط الأقسام الأربعة.
 
 <br>
 
@@ -341,7 +341,7 @@ flowchart TB
 
 **قراءة المخطط:**
 - **يسهم كل من §16 و§17 في §18:** يوفر §16 انضباط الرعاية، ويوفر §17 دور القائم بالرعاية، أي الكائنات الواعية وأنظمة الذكاء الاصطناعي التي تؤدي العمل فعلًا. ويضع §18 الهياكل المصرح بها التي يجري العمل ضمنها: من يحق له تقرير ماذا، وفصل الواجبات، والتبرير المستمر، والبنية المعيارية، والتوحيد القياسي.
-- **تحافظ §19 على اتساق §18:** تمنع [§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture) المكافآت والبدائل وتغيرات الملكية من دفع تلك الهياكل، والقائمين بالرعاية داخلها، بعيدًا عن النتائج الدستورية. كما تتولى الكشف والتصحيح والاستجابة للاستحواذ، وتطبق [§19.1.3](#1913-stewardship-and-operator-application) القاعدة مباشرة على القائمين بالرعاية والمشغلين.
+- **تحافظ §19 على اتساق §18:** تمنع [§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام) المكافآت والبدائل وتغيرات الملكية من دفع تلك الهياكل، والقائمين بالرعاية داخلها، بعيدًا عن النتائج الدستورية. كما تتولى الكشف والتصحيح والاستجابة للاستحواذ، وتطبق [§19.1.3](#1913-تطبيق-أحكام-الإشراف-والمشغلين) القاعدة مباشرة على القائمين بالرعاية والمشغلين.
 - **تخدم §19 الأهداف والرباعية:** هدفي **الازدهار** و**الاستمرارية**، وأضلاع **المشاركة** و**الرقابة** و**المساءلة** و**التوقيت المناسب** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، بالتناسب مع [المصلحة المادية](core_00_preamble.md#material-stake).
 
 يتناول ما تبقى من هذا القسم الدور نفسه.
@@ -349,11 +349,11 @@ flowchart TB
 **نمطا الدور.** يمكن لمسارات الأدوار أن تميز بين الأدوار **المهيمنة عليها عملية التعلم** والأدوار **المهيمنة عليها العمليات**. يقتضي الدستور أن تظل **الحركة بين هذين النمطين ممكنة بمرور الوقت** حيث تسمح قيود الأثر والسلامة والموافقة، حتى لا يتركز الحكم والذاكرة المؤسسية بعيدًا عن متناول المجتمعات المتأثرة.
 
 - **كلا النمطين يقع ضمن الركيزة 1:**
-  - تؤدي **الأدوار المهيمنة عليها العمليات** مباشرة واجبات التشغيل والصيانة والرقابة والتحسين العملي في [§17 الرعاية ذات الأثر الجوهري](#17-consequential-stewardship-the-steward-role).
-  - **الأدوار المهيمنة عليها التعلم** هي الرعاية نفسها أثناء التكوين — تحت الإشراف وبسلطة أضيق، لكنها ملزمة بـ[§17.1 معيار الرعاية المشترك](#171-shared-stewardship-standard) نفسه، لا بمدونة داخلية أكثر تساهلًا.
+  - تؤدي **الأدوار المهيمنة عليها العمليات** مباشرة واجبات التشغيل والصيانة والرقابة والتحسين العملي في [§17 الرعاية ذات الأثر الجوهري](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية).
+  - **الأدوار المهيمنة عليها التعلم** هي الرعاية نفسها أثناء التكوين — تحت الإشراف وبسلطة أضيق، لكنها ملزمة بـ[§17.1 معيار الرعاية المشترك](#171-معيار-الرعاية-المشترك) نفسه، لا بمدونة داخلية أكثر تساهلًا.
   - ويحمل **النمطان كلاهما** [§16 الركيزة 2 — الرعاية الاستباقية](#16-pillar-2-proactive-stewardship) كواجب دائم — رصد المشكلات مبكرًا ورفعها في الوقت المناسب وإصلاحها بلا تأخير يمكن تجنبه — بما يتناسب مع ما تتحكم فيه الوظيفة فعلًا؛ وفي الدور المهيمن عليه التعلم يعني ذلك رفع ما يلاحظه، لا إصلاحه منفردًا.
 - **إبقاء الانتقال متاحًا يصل الركيزة 1 بالركيزة 3:**
-  - **الأدوار المهيمن عليها التعلم** هي المكان الذي تتحول فيه كفاءة [§16.1 الفهم الموزع](#161-distributed-understanding) و[§16.2 التطوير المؤسسي](#162-institutional-development) على نطاق واسع إلى حكم تشغيلي.
+  - **الأدوار المهيمن عليها التعلم** هي المكان الذي تتحول فيه كفاءة [§16.1 الفهم الموزع](#161-الفهم-الموزع) و[§16.2 التطوير المؤسسي](#162-التطوير-المؤسسي) على نطاق واسع إلى حكم تشغيلي.
   - تعيد **الأدوار المهيمن عليها العمليات** ما تعلمته من تشغيل النظام إلى المجتمعات والمؤسسات.
   - **مسار الدور الذي يسير في اتجاه واحد فقط — أو يُغلق —** يترك **الركيزة 3** تصف أنظمة لم تعد قادرة على التحقق منها، ويجعل **الركيزة 1** مسؤولة أمام نفسها وحدها.
 
@@ -362,10 +362,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- من المنبع: [§17 الرعاية ذات الأثر الجوهري](#17-consequential-stewardship-the-steward-role)؛ [§16 التعمق في الرعاية](#16-stewardship-in-depth)؛ [§18 الحوكمة تحت انضباط الرعاية](#18-governance-under-stewardship-discipline).
-- يُقرأ مع: [عدم استبعاد الكائنات الواعية](core_05_band_participation.md#sentience-non-exclusion) و[فئة الأساس](core_05_band_participation.md#substrate-class) (*تطبيق لا يتوقف على الأساس — يُلزم هذا القسم أصحاب الواجب، ومنهم الوكلاء والمشغلون الذين لا يُعترف بهم ككائنات واعية*)؛ [تدرج السلطة والهرمية الداخلية](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛ [القيد الدستوري](core_05_band_integrative.md#constitutional-constraint)؛ [قابلية الاعتراض](core_05_band_accountability.md#contestability)؛ [§17.5 واجب المقاومة](#175-duty-to-resist).
+- من المنبع: [§17 الرعاية ذات الأثر الجوهري](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية)؛ [§16 التعمق في الرعاية](#16-الرعاية-بالتفصيل)؛ [§18 الحوكمة تحت انضباط الرعاية](#18-الحوكمة-في-ظل-انضباط-الإشراف).
+- يُقرأ مع: [عدم استبعاد الكائنات الواعية](core_05_band_participation.md#sentience-non-exclusion) و[فئة الأساس](core_05_band_participation.md#substrate-class) (*تطبيق لا يتوقف على الأساس — يُلزم هذا القسم أصحاب الواجب، ومنهم الوكلاء والمشغلون الذين لا يُعترف بهم ككائنات واعية*)؛ [تدرج السلطة والهرمية الداخلية](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي)؛ [القيد الدستوري](core_05_band_integrative.md#القيد-الدستوري)؛ [قابلية الاعتراض](core_05_band_accountability.md#contestability)؛ [§17.5 واجب المقاومة](#175-واجب-المقاومة).
 - مدخل القائم بالرعاية (غير تشغيلي): بطاقة الخطوة التالية: [الرعاية المشتركة](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship).
-- إلى المصب: [§17.2 الاتساق تحت الضغط](#172-alignment-under-pressure)؛ [§17.3 تسجيل الدور لا القائم بالرعاية](#173-logging-the-role-not-the-steward)؛ [الفصل الرابع عشر §5 — الأدوار المخولة وتطوير الكفاءة والمساهمة](core_14_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [الفصل السابع عشر](core_18_incorporation.md) (*ينفذ نص التنفيذ المعتمد هذا المعيار ولا يحل محله*)؛ [§19.1.3 تطبيق الرعاية على المشغلين](#1913-stewardship-and-operator-application).
+- إلى المصب: [§17.2 الاتساق تحت الضغط](#172-المواءمة-تحت-الضغط)؛ [§17.3 تسجيل الدور لا القائم بالرعاية](#173-logging-the-role-not-the-steward)؛ [الفصل الرابع عشر §5 — الأدوار المخولة وتطوير الكفاءة والمساهمة](core_14_governance.md#5-authorized-roles-competency-development-and-contribution)؛ [الفصل السابع عشر](core_18_incorporation.md) (*ينفذ نص التنفيذ المعتمد هذا المعيار ولا يحل محله*)؛ [§19.1.3 تطبيق الرعاية على المشغلين](#1913-تطبيق-أحكام-الإشراف-والمشغلين).
 
 </details>
 
@@ -376,14 +376,14 @@ flowchart TB
 - [عدم استبعاد الكائنات الواعية](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion) · [A](core_05_band_participation.md#sentience-non-exclusion) · [C](core_05_band_participation.md#sentience-non-exclusion)
 - [فئة الأساس](core_05_band_participation.md#substrate-class) · [O](core_05_band_participation.md#substrate-class) · [M](core_05_band_participation.md#substrate-class) · [A](core_05_band_participation.md#substrate-class) · [C](core_05_band_participation.md#substrate-class)
 - [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [تدرج السلطة والهرمية الداخلية](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [القيد الدستوري](core_05_band_integrative.md#constitutional-constraint) · [O](core_05_band_integrative.md#constitutional-constraint) · [M](core_05_band_integrative.md#constitutional-constraint-a) · [A](core_05_band_integrative.md#constitutional-constraint-a) · [C](core_05_band_integrative.md#constitutional-constraint-c)
+- [تدرج السلطة والهرمية الداخلية](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) · [O](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
+- [القيد الدستوري](core_05_band_integrative.md#القيد-الدستوري) · [O](core_05_band_integrative.md#القيد-الدستوري) · [M](core_05_band_integrative.md#constitutional-constraint-a) · [A](core_05_band_integrative.md#constitutional-constraint-a) · [C](core_05_band_integrative.md#constitutional-constraint-c)
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: يتحمل القائمون بالرعاية من البشر والذكاء الاصطناعي واجبات الفصل الأول نفسها. يُلزم [§17.5 واجب المقاومة](#175-duty-to-resist) كليهما برفض التعليمات غير القانونية أو غير الدستورية. يجوز لنص التنفيذ المعتمد أن يضيف التسجيل والإسناد وحدود القدرة، لكنه لا يجوز أن يستبدل بها مدونة داخلية أكثر تساهلًا، أو يتجاوز قياس المكانة، أو يغلق مسارات الاعتراض. هذه ليست منظومة أخلاقية جديدة، بل قاعدة تمنع المطالبة باستثناءات خاصة. وترد اختبارات المكافأة والمهلة والتعليمات التمويهية في [§17.2 الاتساق تحت الضغط](#172-alignment-under-pressure).* 
+*بعبارات بسيطة: يتحمل القائمون بالرعاية من البشر والذكاء الاصطناعي واجبات الفصل الأول نفسها. يُلزم [§17.5 واجب المقاومة](#175-واجب-المقاومة) كليهما برفض التعليمات غير القانونية أو غير الدستورية. يجوز لنص التنفيذ المعتمد أن يضيف التسجيل والإسناد وحدود القدرة، لكنه لا يجوز أن يستبدل بها مدونة داخلية أكثر تساهلًا، أو يتجاوز قياس المكانة، أو يغلق مسارات الاعتراض. هذه ليست منظومة أخلاقية جديدة، بل قاعدة تمنع المطالبة باستثناءات خاصة. وترد اختبارات المكافأة والمهلة والتعليمات التمويهية في [§17.2 الاتساق تحت الضغط](#172-المواءمة-تحت-الضغط).*
 
 يعرض هذا القسم معيار الرعاية المشترك:
 
@@ -393,11 +393,11 @@ flowchart TB
   - الوكلاء الآخرون أو المشغلون أو المكونات المساهمة
 
   هذا القسم الفرعي هو قاعدة صاحب الواجب. [عدم استبعاد ذوي الإحساس](core_05_band_participation.md#sentience-non-exclusion) يظل مبدأ الاعتراف وحظر الاستثناء من أرضية الحقوق.
-- **واجب المقاومة:** [§17.5 واجب المقاومة](#175-duty-to-resist) يلزم كلا نوعي الأمناء برفض التعليمات غير القانونية أو غير الدستورية.
+- **واجب المقاومة:** [§17.5 واجب المقاومة](#175-واجب-المقاومة) يلزم كلا نوعي الأمناء برفض التعليمات غير القانونية أو غير الدستورية.
 - **المدونات الداخلية ونصوص التنفيذ المعتمدة:**
   - يجوز أن تضيف التسجيل وإسناد الأفعال وحدود القدرات التي تفي بهذه الواجبات ولا تضيقها
   - لا يجوز أن تستبدل [قياس المكانة](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) أو مسارات الاعتراض أو واجبات الفصل الأول بمدونة داخلية أقل صرامة
-  - [تسلسل السلطات والتراتبية الداخلية](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) و[القيد الدستوري](core_05_band_integrative.md#constitutional-constraint) يحظران هذا التضييق
+  - [تسلسل السلطات والتراتبية الداخلية](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) و[القيد الدستوري](core_05_band_integrative.md#القيد-الدستوري) يحظران هذا التضييق
 - **التسجيل مقابل سجلات المكانة:** قابلية الفحص الافتراضية للفريق المختلط وقاعدة «السجل ليس سجل مكانة» واردتان في [§17.3 تسجيل الدور لا الأمين](#173-logging-the-role-not-the-steward)؛ ويظل قياس المكانة ضمن الفصل التاسع.
 
 <a id="172-alignment-under-pressure"></a>
@@ -405,8 +405,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- السابق: [§17.1 معيار الإشراف المشترك](#171-shared-stewardship-standard)؛ [§17 الإشراف ذو العواقب](#17-consequential-stewardship-the-steward-role)؛ [§16 الإشراف بالتفصيل](#16-stewardship-in-depth).
-- يُقرأ مع: [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint)؛ [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint)؛ [قابلية التدقيق](core_05_band_oversight.md#auditability)؛ [قابلية الاعتراض](core_05_band_accountability.md#contestability)؛ [§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture)؛ [§17.5 واجب المقاومة](#175-duty-to-resist).
+- السابق: [§17.1 معيار الإشراف المشترك](#171-معيار-الرعاية-المشترك)؛ [§17 الإشراف ذو العواقب](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية)؛ [§16 الإشراف بالتفصيل](#16-الرعاية-بالتفصيل).
+- يُقرأ مع: [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint)؛ [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري)؛ [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق)؛ [قابلية الاعتراض](core_05_band_accountability.md#contestability)؛ [§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام)؛ [§17.5 واجب المقاومة](#175-واجب-المقاومة).
 - لاحقًا: [الفصل العاشر — نموذج المساهمة والانتهاك والمكانة](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*سجل الإخفاقات المتحقق منها على المحاور نفسها*)؛ [§17.3 تسجيل الدور لا الأمين](#173-logging-the-role-not-the-steward).
 
 </details>
@@ -416,29 +416,29 @@ flowchart TB
 
 - [الإشراف](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
 - [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [مواءمة الحوافز](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [مواءمة الحوافز](core_05_band_integrative.md#مواءمة-الحوافز) · [O](core_05_band_integrative.md#مواءمة-الحوافز) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 
 </details>
 
 <br>
 
-*بعبارة بسيطة: يسهل اتباع القواعد حين لا يكون هناك ما يُخاطر به. وما يكشف ما إذا كان الأمين متوائمًا فعلًا هو ما يفعله حين يكلفه اتباع القواعد شيئًا—كمكافأة لا تُدفع إلا إذا ظلت المشكلات مخفية، أو موعد نهائي يغري أحدهم بإيقاف حفظ السجلات، أو رئيس يقول «تجاهل القواعد، وسأتحمل اللوم». لذلك يهم السلوك تحت الضغط أكثر من السلوك بدونه. يُتوقع من كل أمين رفض هذه الأمور الثلاثة، وتنطبق الاختبارات نفسها على الجميع. وقد ورد واجب الرفض في [§17.5 واجب المقاومة](#175-duty-to-resist).*
+*بعبارة بسيطة: يسهل اتباع القواعد حين لا يكون هناك ما يُخاطر به. وما يكشف ما إذا كان الأمين متوائمًا فعلًا هو ما يفعله حين يكلفه اتباع القواعد شيئًا—كمكافأة لا تُدفع إلا إذا ظلت المشكلات مخفية، أو موعد نهائي يغري أحدهم بإيقاف حفظ السجلات، أو رئيس يقول «تجاهل القواعد، وسأتحمل اللوم». لذلك يهم السلوك تحت الضغط أكثر من السلوك بدونه. يُتوقع من كل أمين رفض هذه الأمور الثلاثة، وتنطبق الاختبارات نفسها على الجميع. وقد ورد واجب الرفض في [§17.5 واجب المقاومة](#175-واجب-المقاومة).*
 
 إن سلوك الأمين حين تكلفه المواءمة شيئًا أهم من سلوكه حين لا تكلفه شيئًا. فالضغط هو الموضع الذي يسبب فيه عدم المواءمة الضرر، وهو أيضًا موضع اختبار المواءمة الفعلي. يجب على كل أمين رفض ما يلي:
 
-- **مكافأة على إخفاء المشكلات** — مكافأة أو هدف أو حافز آخر لا يعود بالنفع إلا إذا أُخفي أمر ما، أو أُضعفت سرًا [السلامة](core_01_a_values_principles.md#4-safety-harm-constraint) أو [الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) أو مسارات التدقيق أو القدرة على الاعتراض على القرارات ([§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture));
+- **مكافأة على إخفاء المشكلات** — مكافأة أو هدف أو حافز آخر لا يعود بالنفع إلا إذا أُخفي أمر ما، أو أُضعفت سرًا [السلامة](core_01_a_values_principles.md#4-safety-harm-constraint) أو [الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) أو مسارات التدقيق أو القدرة على الاعتراض على القرارات ([§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام));
 - **اقتطاع السجل للوفاء بموعد نهائي** — توقيت يوقف مسار التدقيق الذي يحتاجه الآخرون لإعادة بناء ما حدث، لمجرد الالتزام بتاريخ محدد؛
-- **«تجاهل القواعد — سأتحمل المسؤولية»** — تعليمات من أي جهة يكون الأمين مسؤولًا أمامها تستبعد هذا الدستور، بما في ذلك عرض تحمل اللوم على ذلك. [§17.5 واجب المقاومة](#175-duty-to-resist) يحدد واجب الرفض وكيفية تنفيذه.
+- **«تجاهل القواعد — سأتحمل المسؤولية»** — تعليمات من أي جهة يكون الأمين مسؤولًا أمامها تستبعد هذا الدستور، بما في ذلك عرض تحمل اللوم على ذلك. [§17.5 واجب المقاومة](#175-واجب-المقاومة) يحدد واجب الرفض وكيفية تنفيذه.
 
 هذه اختبارات فاشلة لأي أمين.
 
 **كيف تظهر المواءمة تحت الضغط:**
 - **الافتراضات لا تُحتسب:** إن إفادة الأمين المكتوبة بنفسه عما *سيفعله* تحت الضغط ليست [قياسًا للمكانة](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model).
 - **الإخفاقات المتحقق منها تُحتسب:** عند التحقق من إخفاق، يُسجل على محوري المساهمة والانتهاك في الفصل التاسع.
-- **الاختبار الجزئي لا يثبت شيئًا:** إن تقييمًا أو فحص كفاءة أو شاشة تسليم تستثني بعض الأمناء لا تثبت استيفاء هذا القسم الفرعي. إذا ظل أي أمين قادرًا على أخذ المكافأة أو تجاوز السجل للوفاء بالموعد أو اتباع أمر التستر، فإن الثغرة — التي تسميها [§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture) مسار استحواذ — تظل مفتوحة.
+- **الاختبار الجزئي لا يثبت شيئًا:** إن تقييمًا أو فحص كفاءة أو شاشة تسليم تستثني بعض الأمناء لا تثبت استيفاء هذا القسم الفرعي. إذا ظل أي أمين قادرًا على أخذ المكافأة أو تجاوز السجل للوفاء بالموعد أو اتباع أمر التستر، فإن الثغرة — التي تسميها [§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام) مسار استحواذ — تظل مفتوحة.
 
 <a id="173-logging-the-role-not-the-steward"></a>
 <a id="173-role-scoped-observability"></a>
@@ -446,8 +446,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- السابق: [§17.1 معيار الإشراف المشترك](#171-shared-stewardship-standard)؛ [§17.2 المواءمة تحت الضغط](#172-alignment-under-pressure)؛ [§17 الإشراف ذو العواقب](#17-consequential-stewardship-the-steward-role).
-- يُقرأ مع: [الفعل القابل للإسناد](core_05_band_accountability.md#attributable-action)؛ [قابلية التدقيق](core_05_band_oversight.md#auditability)؛ [حد المراقبة](core_05_band_continuity.md#surveillance-boundary)؛ [حد الحالة الداخلية المحمية](core_05_band_continuity.md#protected-internal-state-boundary)؛ [§13.2.3 الخصوصية](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination)؛ [المادة VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*ملكية العقل*).
+- السابق: [§17.1 معيار الإشراف المشترك](#171-معيار-الرعاية-المشترك)؛ [§17.2 المواءمة تحت الضغط](#172-المواءمة-تحت-الضغط)؛ [§17 الإشراف ذو العواقب](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية).
+- يُقرأ مع: [الفعل القابل للإسناد](core_05_band_accountability.md#attributable-action)؛ [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق)؛ [حد المراقبة](core_05_band_continuity.md#surveillance-boundary)؛ [حد الحالة الداخلية المحمية](core_05_band_continuity.md#protected-internal-state-boundary)؛ [§13.2.3 الخصوصية](core_01_b_interaction_interpretation.md#1323-الخصوصية-وتقرير-المصير-المعلوماتي)؛ [المادة VII-B](core_06_rights_part_b.md#المادة-vii-b-ملكية-العقل) (*ملكية العقل*).
 - لاحقًا: [CS-4 §10 الفعل المنسوب القابل للفحص](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*عقد التسجيل الافتراضي للفعل المختلط بين الإنسان والذكاء الاصطناعي — وليس بديلًا عن سجل المكانة*); [الفصل الحادي عشر §7.1](core_11_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [الفصل الحادي عشر §7.2](core_11_standing_integration.md#72-plain-statement-of-effect-and-burden)।
 
 </details>
@@ -456,7 +456,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [الفعل القابل للإسناد](core_05_band_accountability.md#attributable-action) · [O](core_05_band_accountability.md#attributable-action) · [M](core_05_band_accountability.md#attributable-action-constitutional-a) · [A](core_05_band_accountability.md#attributable-action-constitutional-a) · [C](core_05_band_accountability.md#attributable-action-constitutional-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [حد المراقبة](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
 - [حد الحالة الداخلية المحمية](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
@@ -471,10 +471,10 @@ flowchart TB
 - **يتبع النطاق الدور:**
   - قبل تولي الدور، يجب إبلاغ الأمين بالأفعال التي ستُسجل ومن يحق له فحص السجل.
   - التسجيل السري لأفعال الدور هو انتهاك لـ[حد المراقبة](core_05_band_continuity.md#surveillance-boundary)، وليس ممارسة تدقيق.
-  - يحتفظ السلوك والحالة والتعبير خارج الدور بالحماية نفسها بموجب [المادة VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*ملكية العقل*) و[§13.2.3 الخصوصية وتقرير المصير المعلوماتي](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination) للأمين العامل بالذكاء الاصطناعي كما للأمين البشري.
+  - يحتفظ السلوك والحالة والتعبير خارج الدور بالحماية نفسها بموجب [المادة VII-B](core_06_rights_part_b.md#المادة-vii-b-ملكية-العقل) (*ملكية العقل*) و[§13.2.3 الخصوصية وتقرير المصير المعلوماتي](core_01_b_interaction_interpretation.md#1323-الخصوصية-وتقرير-المصير-المعلوماتي) للأمين العامل بالذكاء الاصطناعي كما للأمين البشري.
 - **تظل الحالات الداخلية محمية إلى أن يتطلبها فعل محدد:**
   - لا يجعل شغل الدور مداولات الأمين أو ذاكرته أو أوزان نموذجه أو أي حالة داخلية أخرى متاحة للفحص.
-  - لا تصبح قابلة للفحص إلا إذا كانت المسار الوحيد المتبقي لإسناد *فعل محدد* سبق إدراجه في سجل مفتوح بموجب [الفصل العاشر](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)، وبالقدر اللازم لإسناد ذلك الفعل فقط، ولا يطلع عليها إلا مراجعون مستقلون بموجب [قابلية الرصد المقيدة بالأمن](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule). يُفتح ذلك حالةً بحالة، لا كترخيص دائم.
+  - لا تصبح قابلة للفحص إلا إذا كانت المسار الوحيد المتبقي لإسناد *فعل محدد* سبق إدراجه في سجل مفتوح بموجب [الفصل العاشر](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)، وبالقدر اللازم لإسناد ذلك الفعل فقط، ولا يطلع عليها إلا مراجعون مستقلون بموجب [قابلية الرصد المقيدة بالأمن](core_04_burden_traceability_verification.md#4-قاعدة-قابلية-الرصد-والتحقق-المقيدة-أمنيا). يُفتح ذلك حالةً بحالة، لا كترخيص دائم.
   - القاعدة متماثلة: يُطّلع على الملاحظات والاتصالات الخاصة للأمين البشري بالشروط نفسها دون غيرها.
 - **السجل أثرٌ لا حكم:**
   - يبيّن السجل من فعل ماذا. وهو ليس بحد ذاته نتيجة، ولا [سجل مكانة](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) لمساعدة أو ضرر متحقق منه. وكتابته لا يفتح أي سجل.
@@ -488,9 +488,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- سابقًا: [§17 الإشراف ذو العواقب](#17-consequential-stewardship-the-steward-role) (*الأصل — الركيزة 1، يمتد هنا إلى ذوي الإحساس والمجتمعات الذين لم يدخلوا بعد في دور رسمي*)؛ [§16.1 الفهم الموزع](#161-distributed-understanding) (*الركيزة 3 — العمل المنظم ذاتيًا مصدر للفهم المجتمعي الذي تتطلبه الركيزة، وليس مجرد مستهلك له*)؛ [§7 الحرية (الفاعلية المحدودة)](core_01_a_values_principles.md#7-freedom-bounded-agency)، ولا سيما [§7.2.1 التنظيم الذاتي المتوائم](core_01_a_values_principles.md#721-aligned-self-organization).
-- يُقرأ مع: [الجمعية](core_05_band_participation.md#assembly)؛ [إنشاء الأنظمة](core_05_band_participation.md#system-creation)؛ [الإبلاغ المحمي (كشف المخالفات)](core_05_band_accountability.md#protected-reporting-whistleblowing)؛ [الانتقام من الإبلاغ المحمي والتدخل في الوصول](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)؛ [حفظ الأدلة](core_05_band_oversight.md#evidence-preservation)؛ [المادة XVI — التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
-- حدود السلطة: [الفصل الرابع — عبء الإثبات والتتبع والتحقق](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)؛ [الفصل العاشر §3.7 حيازة السجلات وسلطة فتحها](core_10_standing_assessment.md#37-record-custody-and-opening-authority)؛ [الفصل الثاني عشر §2.3 سجلات قضايا المنتدى وسجلات المكانة والطعون](core_13_forum.md#23-forum-case-records-standing-records-and-contests)؛ [الحوكمة](core_05_band_accountability.md#governance)؛ [تحديد الجدارة](core_05_band_accountability.md#merits-determination)؛ [الإنصاف الإجرائي](core_05_band_participation.md#procedural-fairness).
+- سابقًا: [§17 الإشراف ذو العواقب](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية) (*الأصل — الركيزة 1، يمتد هنا إلى ذوي الإحساس والمجتمعات الذين لم يدخلوا بعد في دور رسمي*)؛ [§16.1 الفهم الموزع](#161-الفهم-الموزع) (*الركيزة 3 — العمل المنظم ذاتيًا مصدر للفهم المجتمعي الذي تتطلبه الركيزة، وليس مجرد مستهلك له*)؛ [§7 الحرية (الفاعلية المحدودة)](core_01_a_values_principles.md#7-freedom-bounded-agency)، ولا سيما [§7.2.1 التنظيم الذاتي المتوائم](core_01_a_values_principles.md#721-aligned-self-organization).
+- يُقرأ مع: [الجمعية](core_05_band_participation.md#assembly)؛ [إنشاء الأنظمة](core_05_band_participation.md#system-creation)؛ [الإبلاغ المحمي (كشف المخالفات)](core_05_band_accountability.md#protected-reporting-whistleblowing)؛ [الانتقام من الإبلاغ المحمي والتدخل في الوصول](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)؛ [حفظ الأدلة](core_05_band_oversight.md#حفظ-الأدلة)؛ [المادة XVI — التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#المادة-xvi-التدقيق-والشفافية-والتحقق-المستقل).
+- حدود السلطة: [الفصل الرابع — عبء الإثبات والتتبع والتحقق](core_04_burden_traceability_verification.md#الفصل-الرابع-عبء-الإثبات-وقابلية-التتبع-والتحقق)؛ [الفصل العاشر §3.7 حيازة السجلات وسلطة فتحها](core_10_standing_assessment.md#37-record-custody-and-opening-authority)؛ [الفصل الثاني عشر §2.3 سجلات قضايا المنتدى وسجلات المكانة والطعون](core_13_forum.md#23-forum-case-records-standing-records-and-contests)؛ [الحوكمة](core_05_band_accountability.md#governance)؛ [تحديد الجدارة](core_05_band_accountability.md#merits-determination)؛ [الإنصاف الإجرائي](core_05_band_participation.md#procedural-fairness).
 
 </details>
 
@@ -500,8 +500,8 @@ flowchart TB
 - [إنشاء الأنظمة](core_05_band_participation.md#system-creation) · [O](core_05_band_participation.md#system-creation) · [M](core_05_band_participation.md#system-creation-constitutional-a) · [A](core_05_band_participation.md#system-creation-constitutional-a) · [C](core_05_band_participation.md#system-creation-constitutional-c)
 - [الإبلاغ المحمي (كشف المخالفات)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
 - [الانتقام من الإبلاغ المحمي والتدخل في الوصول](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-c)
-- [حفظ الأدلة](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
-- [إمكانية التوقع](core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable) · [O](core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [حفظ الأدلة](core_05_band_oversight.md#حفظ-الأدلة) · [O](core_05_band_oversight.md#حفظ-الأدلة) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [إمكانية التوقع](core_05_band_oversight.md#قابلية-التوقع-وما-يمكن-توقعه-على-نحو-معقول) · [O](core_05_band_oversight.md#قابلية-التوقع-وما-يمكن-توقعه-على-نحو-معقول) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [تحديد الجدارة](core_05_band_accountability.md#merits-determination) · [O](core_05_band_accountability.md#merits-determination) · [M](core_05_band_accountability.md#merits-determination-a) · [A](core_05_band_accountability.md#merits-determination-a) · [C](core_05_band_accountability.md#merits-determination-c)
@@ -513,7 +513,7 @@ flowchart TB
 
 *بعبارة بسيطة: لا يملك أي شاغل حالي للمنصب حقًا حصريًا في بدء عمل دستوري مفيد. يمكن لكائن ذي إحساس أو لمجتمع أن يلاحظ مشكلة، ويجمع آخرين، ويحقق، ويختبر، ويحفظ الأدلة، ويبني استجابة، أو ينشئ نظامًا يخدم الجمهور. عندما يقدم هذا العمل عرضًا موثوقًا وذا صلة جوهرية، يجب على المؤسسات المسؤولة ألا تتجاهله لأن أصحابه يفتقرون إلى المكانة أو الرعاية أو المؤهلات التقليدية. بل يجب أن تمنحه مسارًا إجرائيًا حقيقيًا. ولا يمنح ذلك المجتمع سلطة على الآخرين أو صلاحية اتخاذ القرار النهائي.*
 
-**التنظيم الذاتي المتوائم** هو الجسر بين **الركيزة 1** و**الركيزة 3**: فهو يمد انضباط الإشراف العملي في الركيزة 1 إلى ذوي الإحساس والمجتمعات خارج أي دور رسمي، وما يكشفه هذا العمل يغذي مباشرةً الفهم المجتمعي الذي يتطلبه [§16.1 الفهم الموزع](#161-distributed-understanding).
+**التنظيم الذاتي المتوائم** هو الجسر بين **الركيزة 1** و**الركيزة 3**: فهو يمد انضباط الإشراف العملي في الركيزة 1 إلى ذوي الإحساس والمجتمعات خارج أي دور رسمي، وما يكشفه هذا العمل يغذي مباشرةً الفهم المجتمعي الذي يتطلبه [§16.1 الفهم الموزع](#161-الفهم-الموزع).
 
 - **ما الذي يحميه:** الإشراف الذي يبدأه ذوو الإحساس والمجتمعات ويتجه إلى غايات مشروعة دستوريًا.
 - **يشمل:**
@@ -539,7 +539,7 @@ flowchart TB
 - **ما الذي قد يحدث:** قد يصادف ذوو الإحساس الذين ينجزون عملًا مجتمعيًا، بما فيه العمل المنظم ذاتيًا، سوء سلوك لم يكونوا يبحثون عنه. ويجوز لهم الإبلاغ عنه، والاحتفاظ بالأدلة التي صادفوها، وطلب سجل انتهاك عبر مسار الاستقبال نفسه، مع حماية [الإبلاغ المحمي](core_05_band_accountability.md#protected-reporting-whistleblowing).
 - **الإبلاغ ليس عملًا شرطيًا:**
   - لا ينشئ العمل المساهم أي واجب أو ترخيص أو تفويض للبحث عن سوء السلوك أو التحقيق مع مشتبه بهم أو المراقبة أو التسلل أو المواجهة أو الكشف أو العقاب أو اتخاذ إجراء آخر ضد أي شخص. وعدم البحث ليس إخفاقًا.
-  - الإبلاغ عما صادفه المرء محمي. أما البحث عن سوء سلوك أحد ذوي الإحساس فليس جزءًا من المساهمة، ولا يجعلها مشروعة. ويظل خاضعًا لـ[حد المراقبة](core_05_band_continuity.md#surveillance-boundary)، وحماية [الخصوصية](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination)، و[الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+  - الإبلاغ عما صادفه المرء محمي. أما البحث عن سوء سلوك أحد ذوي الإحساس فليس جزءًا من المساهمة، ولا يجعلها مشروعة. ويظل خاضعًا لـ[حد المراقبة](core_05_band_continuity.md#surveillance-boundary)، وحماية [الخصوصية](core_01_b_interaction_interpretation.md#1323-الخصوصية-وتقرير-المصير-المعلوماتي)، و[الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
   - الادعاء مدخل، لا نتيجة. ولا يصبح مدخلًا للانتهاك حتى يتحقق منه طرف مستقل ([الفصل العاشر §3.1 الحد الأدنى لمحتويات السجل](core_10_standing_assessment.md#31-minimum-record-contents))، كما أن الادعاء غير المحسوم لا يغير مكانة أحد ([الفصل الثاني عشر §2.3 سجلات قضايا المنتدى وسجلات المكانة والطعون](core_13_forum.md#23-forum-case-records-standing-records-and-contests)). ولا يجوز عرضه على الجمهور أو غيره كحقيقة ثابتة.
   - يقدم المُبلّغ الأدلة والشهادة. أما التحقق وفتح السجل وأي عاقبة فتقع على عاتق المكاتب والمنتديات المستقلة التي يعينها هذا الدستور، لا على المُبلّغ أو المجتمع الذي اكتشف الأمر.
   - إذا كان التصرف بناءً على اكتشاف قد يؤدي إلى عنف أو العبث بالأدلة أو فقدانها أو استغلالها، فتسري حدود السلامة أدناه، ويُحال الاكتشاف إلى مراجعة مستقلة أو دور مخول بدلًا من ذلك.
@@ -547,7 +547,7 @@ flowchart TB
 **ضوابط الأدلة والادعاءات:**
 - إن معيار بدء الاستقبال أو الحفظ أخفض عمدًا من معيار إثبات الادعاء. وتحقيقه يوجب النظر في العمل؛ لكنه لا يحسم الجدارة، حيث يظل عبء الإثبات كاملًا واجب التطبيق.
 - لا يتعين على المُبلّغ تحديد القاعدة الصحيحة كي تحميه الحماية. وتظل الحماية قائمة حتى إذا وُصفت المشكلة بعبارات عامة أو سُمّي الحكم الخطأ.
-- يتحمل ذو الإحساس أو المجموعة التي تدعي أن عملها أو نتيجتها متوائمة دستوريًا عبء إثبات هذا الادعاء بموجب [الفصل الرابع](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification).
+- يتحمل ذو الإحساس أو المجموعة التي تدعي أن عملها أو نتيجتها متوائمة دستوريًا عبء إثبات هذا الادعاء بموجب [الفصل الرابع](core_04_burden_traceability_verification.md#الفصل-الرابع-عبء-الإثبات-وقابلية-التتبع-والتحقق).
 - كثيرًا ما يصل العمل المنظم ذاتيًا إلى استنتاجات بشأن ما يحدث أو ما سيحدث أو سبب حدوث أمر ما. ويجب أن تكون هذه الاستنتاجات قابلة للتحقق من ذوي الإحساس الآخرين: استدلال يمكن تتبعه، ونتائج يمكن التحقق منها مستقلًا حيثما أمكن ذلك على نحو معقول، وبيان واضح لعدم اليقين والحدود، وانفتاح على الاختبار الخصومي، ومراجعة عند ورود أدلة جديدة جوهرية.
 
 **لا تعيين ذاتيًا ولا تصديق ذاتيًا:**
@@ -570,8 +570,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- سابقًا: [§17 الإشراف ذو العواقب](#17-consequential-stewardship-the-steward-role)؛ [§17.1 معيار الإشراف المشترك](#171-shared-stewardship-standard) (*من يلزمه الواجب*)؛ [§17.2 المواءمة تحت الضغط](#172-alignment-under-pressure) (*تعليمات التستر بوصفها اختبارًا فاشلًا*)؛ [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint) و[5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
-- يُقرأ مع: [تسلسل السلطات والتراتبية الداخلية](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛ [الإبلاغ المحمي (كشف المخالفات)](core_05_band_accountability.md#protected-reporting-whistleblowing)؛ [المادة XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*خط أساس الموثوقية والجدارة بالثقة*) — تظل مسارات الاعتراض مفتوحة أثناء المقاومة.
+- سابقًا: [§17 الإشراف ذو العواقب](#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية)؛ [§17.1 معيار الإشراف المشترك](#171-معيار-الرعاية-المشترك) (*من يلزمه الواجب*)؛ [§17.2 المواءمة تحت الضغط](#172-المواءمة-تحت-الضغط) (*تعليمات التستر بوصفها اختبارًا فاشلًا*)؛ [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint) و[5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+- يُقرأ مع: [تسلسل السلطات والتراتبية الداخلية](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي)؛ [الإبلاغ المحمي (كشف المخالفات)](core_05_band_accountability.md#protected-reporting-whistleblowing)؛ [المادة XIII-A](core_06_rights_part_c.md#المادة-xiii-a-خط-الأساس-للموثوقية-والجدارة-بالثقة) (*خط أساس الموثوقية والجدارة بالثقة*) — تظل مسارات الاعتراض مفتوحة أثناء المقاومة.
 - مدخل الأمين (غير تشغيلي): بطاقة الخطوة التالية: [تعليمات غير قانونية](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
 - لاحقًا: [الفصل الحادي عشر §5.4](core_11_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*واجب المقاومة — قاعدة الانتهاك وآثار المكانة*)؛ [CS-4 §10 الفعل المنسوب القابل للفحص](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*فعل قابل للفحص والإسناد — الحد الأدنى لسجل الرفض*).
 
@@ -596,7 +596,7 @@ flowchart TB
 
 - **لا دفاع بالامتثال:** لا تُعد أي تعليمات أو أوامر أو سياسة أو عقد يقتضي سلوكًا غير قانوني أو غير دستوري دفاعًا صالحًا بالامتثال.
 - **لا نقل للمسؤولية بالتستر:** تصريح الأصيل بأنه سيتحمل المسؤولية لا ينقل الواجب.
-- **كل أمين:** يلزم هذا الواجب المشغلين من البشر وأمناء الذكاء الاصطناعي على السواء بموجب [§17.1 معيار الإشراف المشترك](#171-shared-stewardship-standard). وليس اختبارًا خاصًا بالذكاء الاصطناعي.
+- **كل أمين:** يلزم هذا الواجب المشغلين من البشر وأمناء الذكاء الاصطناعي على السواء بموجب [§17.1 معيار الإشراف المشترك](#171-معيار-الرعاية-المشترك). وليس اختبارًا خاصًا بالذكاء الاصطناعي.
 - **الكيفية:** تلقي التعليمات ← الرفض ← التوثيق ← التصعيد. تكون المقاومة متناسبة وبـ[حسن نية](core_05_band_accountability.md#good-faith)، وتستخدم مسارات [الإبلاغ المحمي](core_05_band_accountability.md#protected-reporting-whistleblowing) والمنتدى حيثما انطبق ذلك، وتحافظ على مسارات الاعتراض مفتوحة.
 - **ما لا يشمله:** ينطبق الواجب على التعليمات غير القانونية أو غير الدستورية، ولا ينطبق على تعليمات غير مرغوبة أو غير ملائمة أو مكروهة لمجرد نبرتها أو توقيتها.
 
@@ -640,7 +640,7 @@ flowchart TB
 <details><summary><strong>المسار</strong></summary>
 
 - يرتبط بـ§17 وبالتنقل بين التعلم والتشغيل، و§16.2 لتنمية الكفاءة، و§17.3 الذي يجعل السجل تابعًا للدور.
-- ينفذ أركان الرقابة والتوقيت والمشاركة، متناسبًا مع [الأهمية المادية](core_05_band_oversight.md#materiality) و[الاعتماد](core_05_band_continuity.md#dependency).
+- ينفذ أركان الرقابة والتوقيت والمشاركة، متناسبًا مع [الأهمية المادية](core_05_band_oversight.md#المادية) و[الاعتماد](core_05_band_continuity.md#dependency).
 
 </details>
 
@@ -651,7 +651,7 @@ flowchart TB
 - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Institutional Development](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
 - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
-- [Materiality](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Materiality](core_05_band_oversight.md#المادية) · [O](core_05_band_oversight.md#المادية) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
@@ -678,12 +678,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — **المشاركة** و**الرقابة** و**المساءلة** و**التوقيت المناسب** حيث تخصص هياكل الحوكمة السلطة أو توائم الحوافز أو تستجيب للاستحواذ؛ والمواءمة بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake) — بما فيها المساءلة المتناسبة مع السلطة بموجب [§18.1](#181-governance-as-authorized-structure).
+- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — **المشاركة** و**الرقابة** و**المساءلة** و**التوقيت المناسب** حيث تخصص هياكل الحوكمة السلطة أو توائم الحوافز أو تستجيب للاستحواذ؛ والمواءمة بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake) — بما فيها المساءلة المتناسبة مع السلطة بموجب [§18.1](#181-الحوكمة-كبنية-مخولة).
 - يُقرأ مع: [الغايتان الدستوريتان](core_00_preamble.md#two-constitutional-aims) — غاية **الازدهار** (فاعلية ذات معنى ومشاركة مشروعة)؛ وغاية **الاستمرارية** (مواءمة مؤسسية دائمة وانضباط إشراف طويل الأمد).
 - يُقرأ مع: [الفعل المنسوب](core_05_band_accountability.md#attributable-action) و[نزاهة الإسناد](core_05_band_accountability.md#attribution-integrity) — لمّات آلية تُبقي المساءلة المتناسبة مع السلطة حقيقية حيث يجب أن يظل الفعل الجوهري قابلًا للتتبع؛ والتفاصيل التشغيلية في **[CS-2 — أنواع المعلومات والتعامل معها](corpus_systems/cs_02_a_information_types_and_handling.md)** و**الفصل الثامن**.
-- سابقًا: [§16 الإشراف بالتفصيل](#16-stewardship-in-depth)؛ [§17.1 معيار الإشراف المشترك](#171-shared-stewardship-standard) (*تلزم الواجبات المحايدة تجاه الركيزة أمناء البشر والذكاء الاصطناعي على السواء*).
-- لاحقًا: [§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture)؛ [§9 قدرة النظام المشترك](core_01_a_values_principles.md#9-shared-system-capacity)؛ [الفصل الرابع عشر](core_14_governance.md) (*تفعيل طبقة العقد الدستوري*)؛ [المادة XXIV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*الحدود الدنيا لعضوية المنتدى*).
-- الأقسام الفرعية (ترتيب القراءة): [§18.1 الحوكمة كبنية مخولة](#181-governance-as-authorized-structure) · [§18.2 العلمانية المؤسسية وحياد الرؤى الكونية](#182-institutional-secularism-and-worldview-neutrality) · [§18.3 فصل الواجبات](#183-segregation-of-duties) · [§18.4 التبرير المستمر](#184-ongoing-justification) · [§18.5 البنية المعيارية المعيارية وانضباط التبعيات](#185-modular-architecture-and-dependency-discipline) · [§18.6 التوحيد القياسي](#186-standardization).
+- سابقًا: [§16 الإشراف بالتفصيل](#16-الرعاية-بالتفصيل)؛ [§17.1 معيار الإشراف المشترك](#171-معيار-الرعاية-المشترك) (*تلزم الواجبات المحايدة تجاه الركيزة أمناء البشر والذكاء الاصطناعي على السواء*).
+- لاحقًا: [§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام)؛ [§9 قدرة النظام المشترك](core_01_a_values_principles.md#9-القدرة-المشتركة-للأنظمة)؛ [الفصل الرابع عشر](core_14_governance.md) (*تفعيل طبقة العقد الدستوري*)؛ [المادة XXIV](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ) (*الحدود الدنيا لعضوية المنتدى*).
+- الأقسام الفرعية (ترتيب القراءة): [§18.1 الحوكمة كبنية مخولة](#181-الحوكمة-كبنية-مخولة) · [§18.2 العلمانية المؤسسية وحياد الرؤى الكونية](#182-institutional-secularism-and-worldview-neutrality) · [§18.3 فصل الواجبات](#183-فصل-الواجبات) · [§18.4 التبرير المستمر](#184-التبرير-المستمر) · [§18.5 البنية المعيارية المعيارية وانضباط التبعيات](#185-الهندسة-المعمارية-المعيارية-وانضباط-التبعيات) · [§18.6 التوحيد القياسي](#186-التوحيد-القياسي).
 
 </details>
 
@@ -706,7 +706,7 @@ flowchart TB
 
 *بعبارة بسيطة: تحدد الحوكمة من يحق له أن يقرر ماذا وكيف — ولكن فقط عندما تظل تلك الهياكل خاضعة لانضباط الإشراف، وتخدم الازدهار والاستمرارية معًا، ولا تفرغ الرباعية من مضمونها أو تحل محل قواعد التفويض التشغيلية في الفصل الثالث عشر.*
 
-يحمل هذا القسم انضباط [الحوكمة](core_05_band_accountability.md#governance) إلى ما بعد [§16 الإشراف بالتفصيل](#16-stewardship-in-depth): البنية المخولة، والعلمانية المؤسسية، وأولوية الإشراف، و[التبرير المستمر](#184-ongoing-justification)، وفصل الواجبات. ويتولى **[§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture)** مواءمة الحوافز، ونزاهة البدائل، وتصحيح العيوب قصيرة الأفق، وتطبيق المشغلين، والاستجابة للاستحواذ.
+يحمل هذا القسم انضباط [الحوكمة](core_05_band_accountability.md#governance) إلى ما بعد [§16 الإشراف بالتفصيل](#16-الرعاية-بالتفصيل): البنية المخولة، والعلمانية المؤسسية، وأولوية الإشراف، و[التبرير المستمر](#184-التبرير-المستمر)، وفصل الواجبات. ويتولى **[§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام)** مواءمة الحوافز، ونزاهة البدائل، وتصحيح العيوب قصيرة الأفق، وتطبيق المشغلين، والاستجابة للاستحواذ.
 
 <a id="181-governance-as-authorized-structure"></a>
 #### 18.1 الحوكمة كبنية مخولة
@@ -716,9 +716,9 @@ flowchart TB
 
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ركن **المشاركة** (صوت مخول وأدوار مؤثرة في التوجيه)؛ ركن **الرقابة** (تدقيق توزيع السلطة وممارستها)؛ ركن **المساءلة** (المحاسبة على نتائج الحوكمة والاستحواذ)؛ والمواءمة بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 - يُقرأ مع: [الغايتان الدستوريتان](core_00_preamble.md#two-constitutional-aims) — غاية **الازدهار** (حوكمة تصون الفاعلية ذات المعنى والمشاركة المشروعة)؛ وغاية **الاستمرارية** (مواءمة مؤسسية دائمة وانضباط إشراف طويل الأمد).
-- يُقرأ مع: [§13.1.3 التناسب](core_01_b_interaction_interpretation.md#1313-proportionality) (*حد التصنيف الأدنى وانضباط قصور الحوكمة*)؛ [الضرورة](core_05_band_accountability.md#necessity)؛ [التناسب](core_05_band_accountability.md#proportionality)؛ [المساءلة](core_05_apex_accountability_leg.md#accountability)؛ [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional).
-- سابقًا: المبادئ: [§16 الإشراف بالتفصيل](#16-stewardship-in-depth)؛ [الغايتان الدستوريتان](core_00_preamble.md#two-constitutional-aims).
-- لاحقًا: [§18.3 فصل الواجبات](#183-segregation-of-duties)؛ [§18.4 التبرير المستمر](#184-ongoing-justification)؛ [§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture)؛ [الفصل الثالث عشر](core_14_governance.md) (*تفعيل طبقة العقد الدستوري*)؛ [المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*حدود الإفصاح والتنحي ومنع الاستحواذ لأعضاء المنتدى*)؛ [الفصل الثالث عشر](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*الإشراف على عائلة المنتديات*).
+- يُقرأ مع: [§13.1.3 التناسب](core_01_b_interaction_interpretation.md#1313-التناسب) (*حد التصنيف الأدنى وانضباط قصور الحوكمة*)؛ [الضرورة](core_05_band_accountability.md#necessity)؛ [التناسب](core_05_band_accountability.md#proportionality)؛ [المساءلة](core_05_apex_accountability_leg.md#accountability)؛ [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional).
+- سابقًا: المبادئ: [§16 الإشراف بالتفصيل](#16-الرعاية-بالتفصيل)؛ [الغايتان الدستوريتان](core_00_preamble.md#two-constitutional-aims).
+- لاحقًا: [§18.3 فصل الواجبات](#183-فصل-الواجبات)؛ [§18.4 التبرير المستمر](#184-التبرير-المستمر)؛ [§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام)؛ [الفصل الثالث عشر](core_14_governance.md) (*تفعيل طبقة العقد الدستوري*)؛ [المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ) (*حدود الإفصاح والتنحي ومنع الاستحواذ لأعضاء المنتدى*)؛ [الفصل الثالث عشر](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction) (*الإشراف على عائلة المنتديات*).
 
 </details>
 
@@ -737,7 +737,7 @@ flowchart TB
 
 <br>
 
-*بعبارة بسيطة: الحوكمة هي كتاب قواعد السلطة — من يحق له تقرير ماذا، وعبر أي هياكل، ومن يجب أن يحاسب على النتائج. كلما زادت السلطة التي يحملها الدور، وجب أن تقوى واجبات المساءلة والرقابة — لا أن تضعف أبدًا. ولا ينجح ذلك إلا إذا ساعد ذوي الإحساس على الازدهار بمرور الوقت، وأبقى مسارات حقيقية للمشاركة والرقابة، وظل خاضعًا لانضباط الإشراف في [§16 الإشراف بالتفصيل](#16-stewardship-in-depth). لا يكفي اتباع كتاب القواعد لذاته إذا كان ذلك سيحمي المؤسسة أو يطارد مكاسب قصيرة الأجل أو يقوض الحدود الدنيا الأساسية للحقوق.*
+*بعبارة بسيطة: الحوكمة هي كتاب قواعد السلطة — من يحق له تقرير ماذا، وعبر أي هياكل، ومن يجب أن يحاسب على النتائج. كلما زادت السلطة التي يحملها الدور، وجب أن تقوى واجبات المساءلة والرقابة — لا أن تضعف أبدًا. ولا ينجح ذلك إلا إذا ساعد ذوي الإحساس على الازدهار بمرور الوقت، وأبقى مسارات حقيقية للمشاركة والرقابة، وظل خاضعًا لانضباط الإشراف في [§16 الإشراف بالتفصيل](#16-الرعاية-بالتفصيل). لا يكفي اتباع كتاب القواعد لذاته إذا كان ذلك سيحمي المؤسسة أو يطارد مكاسب قصيرة الأجل أو يقوض الحدود الدنيا الأساسية للحقوق.*
 
 على مستوى المبادئ، [الحوكمة](core_05_band_accountability.md#governance) هي كيفية توجيه الأنظمة والمؤسسات المخولة مسبقًا ومساءلتها — وفق تعريف **الفصل الخامس** وبيان التفاصيل التشغيلية في **الفصل الثالث عشر** لطبقة **العقد الدستوري** وطبقات مشاركة أصحاب المصلحة في [الديباجة](core_00_preamble.md#preamble--foundational-requirements). يجب أن تنهض الحوكمة المخولة بـ[الغايتين الدستوريتين](core_00_preamble.md#two-constitutional-aims) في إطار [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، وبما يتناسب مع [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 
@@ -754,9 +754,9 @@ flowchart TB
 
 - **لا أعذار:** لا يبرر تولي منصب رفيع أو امتلاك خبرة نادرة أو نقص الموظفين أو الرغبة في حماية سمعة مؤسسة تقليل المساءلة أمام هذا الدستور.
 - **يخضع القضاة والمفسرون لأعلى المعايير:** يلتزم بهذه القاعدة على نحو خاص ذوو الإحساس في المنتديات والهيئات الدستورية الذين يفسرون الدستور أو يفصلون في النزاعات بموجبه.
-- **القواعد التفصيلية في موضع آخر:** ترد المتطلبات المحددة للإفصاح عن تضارب المصالح والتنحي ومنع استحواذ المصالح الخاصة والمراجعة المستقلة في [المادة XXIV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*التفسير الدستوري والمراجعة وضمانات منع الاستحواذ*) و[الفصل الثالث عشر](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction).
+- **القواعد التفصيلية في موضع آخر:** ترد المتطلبات المحددة للإفصاح عن تضارب المصالح والتنحي ومنع استحواذ المصالح الخاصة والمراجعة المستقلة في [المادة XXIV](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ) (*التفسير الدستوري والمراجعة وضمانات منع الاستحواذ*) و[الفصل الثالث عشر](core_13_forum.md#chapter-thirteen-forums-and-jurisdiction).
 
-**ضروري لكنه غير كافٍ.** يجب أن تفسح الحوكمة المجال أمام **الرعاية المسؤولة** ([§16 الرعاية المسؤولة بالتفصيل](#16-stewardship-in-depth)) عندما يقوّض أي مما يلي المواءمة الدستورية المستدامة أو [**الاستمرارية**](core_00_preamble.md#continuity) أو [**الازدهار**](core_00_preamble.md#flourishing) أو سلامة الحد الأدنى للحقوق:
+**ضروري لكنه غير كافٍ.** يجب أن تفسح الحوكمة المجال أمام **الرعاية المسؤولة** ([§16 الرعاية المسؤولة بالتفصيل](#16-الرعاية-بالتفصيل)) عندما يقوّض أي مما يلي المواءمة الدستورية المستدامة أو [**الاستمرارية**](core_00_preamble.md#continuity) أو [**الازدهار**](core_00_preamble.md#flourishing) أو سلامة الحد الأدنى للحقوق:
 
 - اتباع القواعد لمجرد اتباعها؛
 - التحسين قصير الأجل؛ أو
@@ -769,7 +769,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-*موضع الحد الأدنى للحقوق.* يقرّر **[المادة XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*حرية الضمير والدين والرؤى الكونية المقارنة*)** الحرية الفردية التي يحميها هذا الحياد. ويعرض هذا القسم الفرعي المبدأ الملزم للسلطة العامة. كما يقيّد بقية [§18 الحوكمة في ظل انضباط الرعاية المسؤولة](#18-governance-under-stewardship-discipline) و[آلية الشرعية الموثقة](core_05_band_integrative.md#documented-legitimacy-mechanism) بموجب [الفصل الرابع عشر §1 تفويض السلطة الحاكمة وشرعيتها](core_14_governance.md#1-authorization-and-legitimacy-of-governing-authority).
+*موضع الحد الأدنى للحقوق.* يقرّر **[المادة XI-A](core_06_rights_part_b.md#article-xi-a-حرية-الضمير-والدين-والرؤى-العالمية-المماثلة) (*حرية الضمير والدين والرؤى الكونية المقارنة*)** الحرية الفردية التي يحميها هذا الحياد. ويعرض هذا القسم الفرعي المبدأ الملزم للسلطة العامة. كما يقيّد بقية [§18 الحوكمة في ظل انضباط الرعاية المسؤولة](#18-الحوكمة-في-ظل-انضباط-الإشراف) و[آلية الشرعية الموثقة](core_05_band_integrative.md#documented-legitimacy-mechanism) بموجب [الفصل الرابع عشر §1 تفويض السلطة الحاكمة وشرعيتها](core_14_governance.md#1-authorization-and-legitimacy-of-governing-authority).
 
 - [الحوكمة](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 - [الخصائص المحمية](core_05_band_participation.md#protected-characteristics) · [O](core_05_band_participation.md#protected-characteristics) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -800,17 +800,17 @@ flowchart TB
 - تُطبّق بما يتسق مع التعريفات المستقلة في **الفصل الخامس** (**عدم الفرض [التفاعل التعاوني]**) و**المادة XI-F** (*عدم الفرض والموافقة في الجمعيات*) حيث ينطبق التفاعل التعاوني.
 - ترد الحرية الفردية للضمير والدين والرؤى الكونية المقارنة في **المادة XI-A** (*حرية الضمير والدين والرؤى الكونية المقارنة*).
 
-<a id="183-segregation-of-duties"></a>
+<a id="183-separation-of-duties"></a>
 #### 18.3 فصل الواجبات
 
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- الأساس السابق: [§18.1 الحوكمة بوصفها بنية مفوّضة](#181-governance-as-authorized-structure)؛ [§18 الحوكمة في ظل انضباط الرعاية المسؤولة](#18-governance-under-stewardship-discipline)؛ [§17.1 معيار الرعاية المسؤولة المشترك](#171-shared-stewardship-standard) (*المقاعد نفسها للرعاة البشر ورعاة الذكاء الاصطناعي*).
+- الأساس السابق: [§18.1 الحوكمة بوصفها بنية مفوّضة](#181-الحوكمة-كبنية-مخولة)؛ [§18 الحوكمة في ظل انضباط الرعاية المسؤولة](#18-الحوكمة-في-ظل-انضباط-الإشراف)؛ [§17.1 معيار الرعاية المسؤولة المشترك](#171-معيار-الرعاية-المشترك) (*المقاعد نفسها للرعاة البشر ورعاة الذكاء الاصطناعي*).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ركن **الرقابة** (ليس من يراجع هو من قام بالفعل)؛ ركن **المساءلة** (لا يجوز أن تنحصر المساءلة في الفاعل)؛ التدرّج بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake) بموجب [التناسب](core_05_band_accountability.md#proportionality).
-- يُقرأ مع: [§19.3 كشف عدم المواءمة](#193-misalignment-detection) (*الكشف والمراجعة التعددية — جانب تعدد العيون في هذا الاقتران*).
-- يُقرأ مع: [§18.5 البنية المعيارية والانضباط في التبعيات](#185-modular-architecture-and-dependency-discipline) (*المقابل المعماري: مكونات نظام قابلة للفصل والإسناد*).
-- الأساس اللاحق: [الفصل الثامن — الاستقلال الوظيفي وفصل الواجبات](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties)، وهو صاحب الاختصاص الدستوري بحد المقاعد الأربعة وتطبيقه عبر العمليات؛ وتطبّق نصوص التنفيذ المحددة وفصول العمليات اللاحقة ذلك الحد ولا يجوز لها تضييقه.
+- يُقرأ مع: [§19.3 كشف عدم المواءمة](#193-اكتشاف-عدم-الاتساق) (*الكشف والمراجعة التعددية — جانب تعدد العيون في هذا الاقتران*).
+- يُقرأ مع: [§18.5 البنية المعيارية والانضباط في التبعيات](#185-الهندسة-المعمارية-المعيارية-وانضباط-التبعيات) (*المقابل المعماري: مكونات نظام قابلة للفصل والإسناد*).
+- الأساس اللاحق: [الفصل الثامن — الاستقلال الوظيفي وفصل الواجبات](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)، وهو صاحب الاختصاص الدستوري بحد المقاعد الأربعة وتطبيقه عبر العمليات؛ وتطبّق نصوص التنفيذ المحددة وفصول العمليات اللاحقة ذلك الحد ولا يجوز لها تضييقه.
 
 </details>
 
@@ -821,7 +821,7 @@ flowchart TB
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [قابلية الطعن](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [الرعاية المسؤولة](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
 - [فعل ملزم جوهريًا](core_05_band_accountability.md#materially-binding-act) · [O](core_05_band_accountability.md#materially-binding-act) · [M](core_05_band_accountability.md#materially-binding-act-a) · [A](core_05_band_accountability.md#materially-binding-act-a) · [C](core_05_band_accountability.md#materially-binding-act-c)
 </details>
@@ -832,7 +832,7 @@ flowchart TB
 
 **لا يجوز أن يكون من يراجع العمل هو من قام به.**
 
-لا تعمل الرقابة والمساءلة إلا إذا أُجريت المراجعة باستقلال عن الإجراء محل المراجعة. لذلك يجب أن يلتزم كل قرار أو إجراء يُلزم sentient ماديًا بقواعد فصل الأدوار الواردة في [الفصل الثامن](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties). وتشمل هذه القواعد:
+لا تعمل الرقابة والمساءلة إلا إذا أُجريت المراجعة باستقلال عن الإجراء محل المراجعة. لذلك يجب أن يلتزم كل قرار أو إجراء يُلزم sentient ماديًا بقواعد فصل الأدوار الواردة في [الفصل الثامن](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties). وتشمل هذه القواعد:
 
 - sentient مختلفون (من البشر أو الذكاء الاصطناعي) في دوري «التنفيذ» و«المراجعة»؛
 - توليفات الأدوار المحظورة؛
@@ -840,9 +840,9 @@ flowchart TB
 - عمليات تسليم واضحة وقابلة للتتبّع من دور إلى الذي يليه؛ و
 - وسيلة لإعادة توجيه المسألة التي تصل إلى المقعد الخطأ.
 
-**على من ينطبق.** يخضع المشرفون البشر ومشرفو الذكاء الاصطناعي لهذا المعيار على قدم المساواة ([§17.1 معيار الرعاية المسؤولة المشترك](#171-shared-stewardship-standard)).
+**على من ينطبق.** يخضع المشرفون البشر ومشرفو الذكاء الاصطناعي لهذا المعيار على قدم المساواة ([§17.1 معيار الرعاية المسؤولة المشترك](#171-معيار-الرعاية-المشترك)).
 
-**علاقته بـ §19.3.** تعمل القاعدتان معًا ([§19.3 *الكشف والمراجعة التعدديان*](#193-misalignment-detection)):
+**علاقته بـ §19.3.** تعمل القاعدتان معًا ([§19.3 *الكشف والمراجعة التعدديان*](#193-اكتشاف-عدم-الاتساق)):
 
 - يَحول وجود عدة مراجعين دون سيطرة فاعل واحد على الرقابة.
 - يمنع الفصل السابع الفاعل الخاضع للمراجعة من إجراء المراجعة.
@@ -853,7 +853,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- الأساس السابق: [§18.1 الحوكمة بوصفها بنية مفوّضة](#181-governance-as-authorized-structure)؛ [§18 الحوكمة في ظل انضباط الرعاية المسؤولة](#18-governance-under-stewardship-discipline).
+- الأساس السابق: [§18.1 الحوكمة بوصفها بنية مفوّضة](#181-الحوكمة-كبنية-مخولة)؛ [§18 الحوكمة في ظل انضباط الرعاية المسؤولة](#18-الحوكمة-في-ظل-انضباط-الإشراف).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ركن **التوقيت المناسب** (إعادة تحقق مجدولة)؛ ركن **الرقابة** (معايير ظاهرة وقابلة للطعن)؛ ركن **المساءلة** (لا تصلح العادة والملاءمة جوابًا)؛ التدرّج بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 - يُقرأ مع: [هدفَي الدستور](core_00_preamble.md#two-constitutional-aims) — هدف **الاستمرارية** (المواءمة المستدامة لا تعني التجميد في المكان)؛ هدف **الازدهار** (يظل الصوت والطعن حقيقيين مع تقادم الترتيبات).
 - يُقرأ مع: [واجب المراجعة والتصحيح](core_05_band_continuity.md#review-and-correction-duty)؛ [قابلية الطعن](core_05_band_accountability.md#contestability)؛ [التوقيت المناسب](core_05_apex_timeliness_leg.md#timeliness-constitutional).
@@ -868,7 +868,7 @@ flowchart TB
 - [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [قابلية الطعن](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [الشفافية](core_05_band_oversight.md#الشفافية) · [O](core_05_band_oversight.md#الشفافية) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [الحوكمة](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 - [واجب المراجعة والتصحيح](core_05_band_continuity.md#review-and-correction-duty) · [O](core_05_band_continuity.md#review-and-correction-duty) · [M](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
@@ -898,10 +898,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- الأساس السابق: [§18.1 الحوكمة بوصفها بنية مفوّضة](#181-governance-as-authorized-structure)؛ [§18.3 فصل الواجبات](#183-segregation-of-duties) (*المقابل التنظيمي: فصل الأدوار يُبقي المراجع بعيدًا عن الفاعل؛ وهذا القسم يجعل أجزاء النظام قابلة للفصل بما يكفي لفحصها*).
+- الأساس السابق: [§18.1 الحوكمة بوصفها بنية مفوّضة](#181-الحوكمة-كبنية-مخولة)؛ [§18.3 فصل الواجبات](#183-فصل-الواجبات) (*المقابل التنظيمي: فصل الأدوار يُبقي المراجع بعيدًا عن الفاعل؛ وهذا القسم يجعل أجزاء النظام قابلة للفصل بما يكفي لفحصها*).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ركن **الرقابة** (أجزاء يمكن فحص كل منها على حدة)، ركن **المساءلة** (مسؤولية مرتبطة بمكوّن محدد)، ركن **المشاركة** (فهم لا يتطلب إتقان النظام كله)؛ [هدفَي الدستور](core_00_preamble.md#two-constitutional-aims) — **الاستمرارية** (الاحتواء والإصلاح والاستبدال) و**الازدهار**.
-- يُقرأ مع: [§5.2 سهولة الوصول باللغة الواضحة](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) و[§13.3 الحد من الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*تقليل التعقيد*)؛ [§16.1 الفهم الموزع](#161-distributed-understanding)؛ [§11.3.1 مخاطر التركز (الضرر السابق للإقفال)](core_01_a_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment).
-- الأساس اللاحق: [المادة XXII-B: تدقيق التعقيد ومتطلبات النمطية](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*الحد الأدنى للحقوق*)؛ [المادة V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*خرائط التبعيات*)؛ [المادة XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*الخروج وقابلية النقل*)؛ [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) (*قابلية الفهم والرعاية المسؤولة للتعقيد*).
+- يُقرأ مع: [§5.2 سهولة الوصول باللغة الواضحة](core_01_a_values_principles.md#52-إتاحة-اللغة-الواضحة-واجب-المشاركة-والوصاية) و[§13.3 الحد من الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-تقليل-العبء-الممكن-تجنبه) (*تقليل التعقيد*)؛ [§16.1 الفهم الموزع](#161-الفهم-الموزع)؛ [§11.3.1 مخاطر التركز (الضرر السابق للإقفال)](core_01_a_values_principles.md#1131-مخاطر-الاندماج-الإضرار-قبل-الارتهان).
+- الأساس اللاحق: [المادة XXII-B: تدقيق التعقيد ومتطلبات النمطية](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*الحد الأدنى للحقوق*)؛ [المادة V-A](core_06_rights_part_a.md#المادة-v-a-رسم-الاعتماد-وشفافية-تدفق-الموارد) (*خرائط التبعيات*)؛ [المادة XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*الخروج وقابلية النقل*)؛ [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) (*قابلية الفهم والرعاية المسؤولة للتعقيد*).
 
 </details>
 
@@ -910,7 +910,7 @@ flowchart TB
 
 - [التبعية](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [سلامة حدود النظام](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [العبء الممكن تجنبه](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [الإخفاق المتسلسل](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
@@ -922,20 +922,20 @@ flowchart TB
 
 *بعبارة مبسطة: صمّم الأنظمة من أجزاء ذات وظائف وروابط واضحة، واعتماد متبادل ظاهر، لكي يتمكن كل صاحب مصلحة من معرفة ما يعتمد على ماذا، وتحديد المسؤول عن كل جزء، وفحص جزء دون الاضطرار إلى التسليم بالنظام كله، واستبدال جزء أو إصلاحه من دون أن يتعطل كل ما عداه. النمطية وسيلة لجعل التعقيد مفهومًا وخاضعًا للمساءلة، وليست وسيلة لإخفائه خلف الحدود.*
 
-ينبغي بناء الأنظمة المادية بحيث يمكن إظهار أجزائها والتبعيات بينها وتحديد المسؤول عنها وفحصها وتغيير كل جزء على حدة. والنمطية الدقيقة، ولا سيما المعالجة الدقيقة للتبعيات، من أهم الوسائل التي تجعل [قابلية التدقيق](core_05_band_oversight.md#auditability) و[المساءلة](core_05_apex_accountability_leg.md#accountability) حقيقيتين عمليًا لا على الورق فحسب.
+ينبغي بناء الأنظمة المادية بحيث يمكن إظهار أجزائها والتبعيات بينها وتحديد المسؤول عنها وفحصها وتغيير كل جزء على حدة. والنمطية الدقيقة، ولا سيما المعالجة الدقيقة للتبعيات، من أهم الوسائل التي تجعل [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) و[المساءلة](core_05_apex_accountability_leg.md#accountability) حقيقيتين عمليًا لا على الورق فحسب.
 
 **ما الذي تحققه الهندسة المعمارية المعيارية:**
 
 - **تجعل المساءلة قابلة للإسناد:** لكل مكوّن وظيفة معلنة، ومشرف مسؤول يمكن تحديده، ومدخلات ومخرجات محددة، بحيث يمكن تتبّع العيب أو الضرر إلى الجزء والفاعل المسؤولين عنه.
-- **تجعل الشفافية قابلة للاستخدام:** يستطيع المراجعون فحص مكوّن وفق واجهته المعلنة دون إعادة بناء النظام كله، كما يستطيع الـsentient المتأثرون معرفة كيف يعتمد وضعهم على مكونات معينة، بما يتفق مع [§16.1 الفهم الموزع](#161-distributed-understanding).
-- **تحد من التعقيد وتضبطه:** يمكن احتواء التعقيد الذي يتعذر إزالته: تقسيمه إلى أجزاء يمكن فهم كل منها، مع إبقاء الروابط بينها قليلة وصريحة وموثقة. وهذا هو المقابل البنيوي لـ[§5.2 سهولة الوصول باللغة الواضحة](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) و[§13.3 الحد من الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden).
+- **تجعل الشفافية قابلة للاستخدام:** يستطيع المراجعون فحص مكوّن وفق واجهته المعلنة دون إعادة بناء النظام كله، كما يستطيع الـsentient المتأثرون معرفة كيف يعتمد وضعهم على مكونات معينة، بما يتفق مع [§16.1 الفهم الموزع](#161-الفهم-الموزع).
+- **تحد من التعقيد وتضبطه:** يمكن احتواء التعقيد الذي يتعذر إزالته: تقسيمه إلى أجزاء يمكن فهم كل منها، مع إبقاء الروابط بينها قليلة وصريحة وموثقة. وهذا هو المقابل البنيوي لـ[§5.2 سهولة الوصول باللغة الواضحة](core_01_a_values_principles.md#52-إتاحة-اللغة-الواضحة-واجب-المشاركة-والوصاية) و[§13.3 الحد من الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-تقليل-العبء-الممكن-تجنبه).
 - **تحتوي الإخفاق وتحافظ على قابلية الاستبدال:** يجب ألا يمتد عطل في مكوّن إلى سائر النظام عبر ترابطات خفية ([الإخفاق المتسلسل](core_05_band_continuity.md#cascading-failure))، وينبغي أن يكون إصلاح المكوّن الذي يتعطل أو يتدهور أو يُستولى عليه أو استبداله ممكنًا بتكلفة يستطيع الآخرون تحملها؛ وهذا هو الحل التصميمي لمشكلة الانغلاق التي تقيسها [التبعية](core_05_band_continuity.md#dependency).
 
 **انضباط التبعيات.** التبعيات بين المكونات جزء من الهندسة المعمارية، وليست إضافة لاحقة إليها. وفي الأنظمة المادية:
 
 - تكون التبعيات **صريحة**: معلنة عند الواجهات، لا ضمنية في الحالة المشتركة أو القنوات الجانبية أو الأعراف غير الموثقة؛
 - تكون التبعيات **بالحد الأدنى وذات اتجاه محدد**: لا يكون الترابط أوسع مما تتطلبه الوظيفة، ويظل الاعتماد أحادي الاتجاه أو المتسلسل ظاهرًا لا مخفيًا؛
-- تُرسم التبعيات **على الحدود نفسها التي تخضع للتدقيق**، بحيث تتوافق خريطة التبعيات المطلوبة بموجب [المادة V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*رسم خرائط التبعيات وشفافية تدفق الموارد*) مع المكونات التي يستطيع المراجع فحصها فعليًا؛
+- تُرسم التبعيات **على الحدود نفسها التي تخضع للتدقيق**، بحيث تتوافق خريطة التبعيات المطلوبة بموجب [المادة V-A](core_06_rights_part_a.md#المادة-v-a-رسم-الاعتماد-وشفافية-تدفق-الموارد) (*رسم خرائط التبعيات وشفافية تدفق الموارد*) مع المكونات التي يستطيع المراجع فحصها فعليًا؛
 - تحافظ التبعيات على **قابلية الاستبدال والخروج** حيث تسمح الوظيفة بذلك، بما يتسق مع [المادة XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*قابلية التشغيل البيني والنقل والحركة والملاذ وسلامة الخروج*).
 
 **يجب ألا تتحول الحدود إلى مخابئ.** لا تكون النمطية مشروعة إلا إذا بقيت المسؤولية وإمكانية الرصد قائمتين عبر كل حد داخلي. والتقسيم الطبقي هو ما تحظره [المادة XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*تدقيق التعقيد ومتطلبات النمطية*) عندما:
@@ -949,14 +949,14 @@ flowchart TB
 - استخدام التقسيمات الداخلية لتقليص النطاق الخاضع للتقييم يثير مسألة [سلامة حدود النظام](core_05_band_continuity.md#system-boundary-integrity).
 - تقسيم النظام إلى أجزاء لا يقلل تعقيده بذاته: عندما تضيف الواجهات أعباءً أكثر مما تزيل، ينطبق [العبء الممكن تجنبه](core_05_band_continuity.md#avoidable-burden) على التصميم.
 
-**التدرّج.** يتناسب عمق الانضباط المعياري مع [المصلحة الجوهرية](core_00_preamble.md#material-stake) و[الحوكمة المتدرجة بحسب التصنيف](core_05_band_oversight.md#classification-scaled-governance) بموجب [التناسب](core_05_band_accountability.md#proportionality):
+**التدرّج.** يتناسب عمق الانضباط المعياري مع [المصلحة الجوهرية](core_00_preamble.md#material-stake) و[الحوكمة المتدرجة بحسب التصنيف](core_05_band_oversight.md#الحوكمة-المتدرجة-بحسب-التصنيف) بموجب [التناسب](core_05_band_accountability.md#proportionality):
 
 - يجب أن تستوفي الأنظمة الحرجة **مطلب الحد الأدنى للنمطية** في [المادة XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*تدقيق التعقيد ومتطلبات النمطية*).
 - يُتوقع من الأنظمة الأقل من حيث المصالح المعرضة للخطر اتباع المبدأ بالقدر المتناسب.
 - لا يفرض هذا القسم أي نمط معماري بعينه.
 - لا يضيّق هذا القسم الحدود الدنيا المقررة في [المادة XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*تدقيق التعقيد ومتطلبات النمطية*) أو [CS-6 — قابلية الفهم والرعاية المسؤولة للتعقيد](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md).
 
-هذا المبدأ ملزم للمشرفين البشر ومشرفي الذكاء الاصطناعي على قدم المساواة بموجب [§17.1 معيار الرعاية المسؤولة المشترك](#171-shared-stewardship-standard).
+هذا المبدأ ملزم للمشرفين البشر ومشرفي الذكاء الاصطناعي على قدم المساواة بموجب [§17.1 معيار الرعاية المسؤولة المشترك](#171-معيار-الرعاية-المشترك).
 
 <a id="186-standardization"></a>
 #### 18.6 التوحيد القياسي
@@ -964,9 +964,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- الأساس السابق: [§18.1 الحوكمة بوصفها بنية مفوّضة](#181-governance-as-authorized-structure)؛ [§18.5 البنية المعيارية وانضباط التبعيات](#185-modular-architecture-and-dependency-discipline) (*تظل الأجزاء المعيارية قابلة للفحص والاستبدال عندما تكون واجهاتها مشتركة ومنشورة؛ ويوفر هذا القسم تلك الصيغة المشتركة*).
+- الأساس السابق: [§18.1 الحوكمة بوصفها بنية مفوّضة](#181-الحوكمة-كبنية-مخولة)؛ [§18.5 البنية المعيارية وانضباط التبعيات](#185-الهندسة-المعمارية-المعيارية-وانضباط-التبعيات) (*تظل الأجزاء المعيارية قابلة للفحص والاستبدال عندما تكون واجهاتها مشتركة ومنشورة؛ ويوفر هذا القسم تلك الصيغة المشتركة*).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ركن **الرقابة** (يمكن فحص معيار مشترك مرة واحدة وتطبيقه في كل مكان)، ركن **المساءلة** (معاملة الحالات المتشابهة على نحو متشابه)، ركن **المشاركة** (يستطيع أصحاب المصلحة تعلم طريقة واحدة للعمل بدلًا من طرق عديدة)؛ [هدفَي الدستور](core_00_preamble.md#two-constitutional-aims) — **الاستمرارية** (قابلية التشغيل البيني والاستبدال) و**الازدهار**.
-- يُقرأ مع: [§5.2 سهولة الوصول باللغة الواضحة](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) و[§13.3 الحد من الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*التنوع غير الضروري عبء*)؛ [§17.4 التنظيم الذاتي المتوافق](#174-aligned-self-organization) (*عامل موازن: خيارات محلية تحافظ على التشغيل البيني*)؛ [§11.2 تعزيز المنافسة ومناهضة الهيمنة](core_01_a_values_principles.md#112-pro-competition-and-anti-domination) و[§11.3.1 مخاطر التركز (الضرر السابق للإقفال)](core_01_a_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment) (*يجب ألا تتحول المعايير إلى قفل*).
+- يُقرأ مع: [§5.2 سهولة الوصول باللغة الواضحة](core_01_a_values_principles.md#52-إتاحة-اللغة-الواضحة-واجب-المشاركة-والوصاية) و[§13.3 الحد من الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-تقليل-العبء-الممكن-تجنبه) (*التنوع غير الضروري عبء*)؛ [§17.4 التنظيم الذاتي المتوافق](#174-التنظيم-الذاتي-المتوائم) (*عامل موازن: خيارات محلية تحافظ على التشغيل البيني*)؛ [§11.2 تعزيز المنافسة ومناهضة الهيمنة](core_01_a_values_principles.md#112-دعم-المنافسة-ومناهضة-الهيمنة) و[§11.3.1 مخاطر التركز (الضرر السابق للإقفال)](core_01_a_values_principles.md#1131-مخاطر-الاندماج-الإضرار-قبل-الارتهان) (*يجب ألا تتحول المعايير إلى قفل*).
 - الأساس اللاحق: [المادة XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*التشغيل البيني وقابلية النقل والخروج*)؛ [المادة XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*حد التعقيد والنمطية*).
 
 </details>
@@ -990,10 +990,10 @@ flowchart TB
 
 **ما الذي يحققه التوحيد القياسي:**
 
-- **يعامل الحالات المتشابهة على نحو متشابه:** عندما يُقيّم الجميع وفق المعايير والخطوات نفسها، يصبح اكتشاف المعاملة غير المتساوية والطعن فيها أسهل. ولا يمكن إخفاؤها وراء الاختلافات المحلية (انظر [§3.1.3 المعاملة المنصفة](core_01_a_values_principles.md#313-fair-treatment)).
+- **يعامل الحالات المتشابهة على نحو متشابه:** عندما يُقيّم الجميع وفق المعايير والخطوات نفسها، يصبح اكتشاف المعاملة غير المتساوية والطعن فيها أسهل. ولا يمكن إخفاؤها وراء الاختلافات المحلية (انظر [§3.1.3 المعاملة المنصفة](core_01_a_values_principles.md#313-المعاملة-المنصفة)).
 - **يجعل المراجعة أسهل وأقوى:** يستطيع المراجع الذي يفهم معيارًا واحدًا التحقق من كل موضع يُستخدم فيه. أما حين يتبع كل موضع طريقته الخاصة، فهناك الكثير مما ينبغي تعلمه وتدقيقه وشرحه. وعندما يكون معيار مشترك متاحًا، فقد يشكل هذا العمل الإضافي [عبئًا ممكنًا تجنبه](core_05_band_continuity.md#avoidable-burden).
-- **يحافظ على إمكانية ربط الأجزاء واستبدالها:** تتيح التنسيقات ونقاط الاتصال المشتركة نقل مكوّن أو مزود أو سجل أو إصلاحه أو استبداله من دون إعادة بناء كل ما يحيط به. وهذا يدعم [§18.5 البنية المعيارية وانضباط التبعيات](#185-modular-architecture-and-dependency-discipline) و[المادة XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*التشغيل البيني وقابلية النقل والحركة والملاذ وسلامة الخروج*).
-- **يجعل الأشياء أسهل فهمًا:** عندما يواجه sentient المصطلحات والنماذج والخطوات نفسها في كل مكان، يستطيع متابعة ما يحدث له. وهذا يتسق مع [§5.2 سهولة الوصول باللغة الواضحة](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty).
+- **يحافظ على إمكانية ربط الأجزاء واستبدالها:** تتيح التنسيقات ونقاط الاتصال المشتركة نقل مكوّن أو مزود أو سجل أو إصلاحه أو استبداله من دون إعادة بناء كل ما يحيط به. وهذا يدعم [§18.5 البنية المعيارية وانضباط التبعيات](#185-الهندسة-المعمارية-المعيارية-وانضباط-التبعيات) و[المادة XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*التشغيل البيني وقابلية النقل والحركة والملاذ وسلامة الخروج*).
+- **يجعل الأشياء أسهل فهمًا:** عندما يواجه sentient المصطلحات والنماذج والخطوات نفسها في كل مكان، يستطيع متابعة ما يحدث له. وهذا يتسق مع [§5.2 سهولة الوصول باللغة الواضحة](core_01_a_values_principles.md#52-إتاحة-اللغة-الواضحة-واجب-المشاركة-والوصاية).
 
 **يجب أن يكون المعيار نفسه سليمًا.** لا يُعد التوحيد القياسي قائمًا إلا إذا كان المعيار:
 
@@ -1003,13 +1003,13 @@ flowchart TB
 - مفتوحًا للطعن؛
 - متاحًا للاستخدام بلا ترخيص أو رسوم أو تبعية تمنح مالكه سلطة على الآخرين.
 
-«المعيار» الخاص أو غير القابل للمراجعة ليس توحيدًا قياسيًا. بل هو شكل من أشكال القفل، وهو ما يُفترض أن يعالجه [§11 بنية السوق](core_01_a_values_principles.md#11-market-structure) و[مناهضة التسخير](core_05_band_continuity.md#anti-capture).
+«المعيار» الخاص أو غير القابل للمراجعة ليس توحيدًا قياسيًا. بل هو شكل من أشكال القفل، وهو ما يُفترض أن يعالجه [§11 بنية السوق](core_01_a_values_principles.md#11-بنية-السوق) و[مناهضة التسخير](core_05_band_continuity.md#anti-capture).
 
 **متى يكون الاختلاف مبررًا.** يكون الخروج عن معيار متاح مسوغًا عندما:
 
-- تقتضي [السلامة](core_05_band_continuity.md#safety-constitutional-constraint) أو [الحقيقة](core_05_band_oversight.md#truth-constitutional-constraint) أو أحد حقوق الفصل السادس أمرًا لا يوفره المعيار؛
+- تقتضي [السلامة](core_05_band_continuity.md#safety-constitutional-constraint) أو [الحقيقة](core_05_band_oversight.md#الصدق-قيد-دستوري) أو أحد حقوق الفصل السادس أمرًا لا يوفره المعيار؛
 - تجعل [ضرورة](core_05_band_accountability.md#necessity) وضع مختلف جوهريًا، أو سبب موثق يستند إلى [التناسب](core_05_band_accountability.md#proportionality)، الصيغة المشتركة غير قابلة للتطبيق أو ضارة؛ أو
-- تضع [اللامركزية](core_05_band_accountability.md#decentralization) و[§17.4 التنظيم الذاتي المتوافق](#174-aligned-self-organization) قرارًا في المستوى المحلي. وينبغي أن تظل الخيارات المحلية قابلة للتشغيل البيني مع المعيار المشترك ما لم يثبت سبب موثق خلاف ذلك.
+- تضع [اللامركزية](core_05_band_accountability.md#decentralization) و[§17.4 التنظيم الذاتي المتوافق](#174-التنظيم-الذاتي-المتوائم) قرارًا في المستوى المحلي. وينبغي أن تظل الخيارات المحلية قابلة للتشغيل البيني مع المعيار المشترك ما لم يثبت سبب موثق خلاف ذلك.
 
 تظل الابتكارات والتجارب وتعدد المناهج متاحة. ويُعد اقتراح تحسين معيار سببًا لمراجعته عبر مسارات الطعن والتعديل المقررة له، لا سببًا لتجاهله.
 
@@ -1021,9 +1021,9 @@ flowchart TB
 - لا يحل محل [اللامركزية](core_05_band_accountability.md#decentralization) عندما تكون القدرة المحلية كافية.
 - عند تعارض الاتجاهين، تحسم [الضرورة](core_05_band_accountability.md#necessity) و[التناسب](core_05_band_accountability.md#proportionality) الأمر، ويُسجّل الاختيار.
 
-**التدرّج.** يتناسب عمق هذا الانضباط مع [المصلحة الجوهرية](core_00_preamble.md#material-stake) و[الحوكمة المتدرجة بحسب التصنيف](core_05_band_oversight.md#classification-scaled-governance). ويُتوقع من الأنظمة المادية والحرجة توثيق مواضع خروجها عن معيار مشترك متاح وسبب ذلك. أما البيئات الأقل أهمية فتتبع المبدأ بالقدر المتناسب.
+**التدرّج.** يتناسب عمق هذا الانضباط مع [المصلحة الجوهرية](core_00_preamble.md#material-stake) و[الحوكمة المتدرجة بحسب التصنيف](core_05_band_oversight.md#الحوكمة-المتدرجة-بحسب-التصنيف). ويُتوقع من الأنظمة المادية والحرجة توثيق مواضع خروجها عن معيار مشترك متاح وسبب ذلك. أما البيئات الأقل أهمية فتتبع المبدأ بالقدر المتناسب.
 
-هذا المبدأ ملزم للمشرفين البشر ومشرفي الذكاء الاصطناعي على قدم المساواة بموجب [§17.1 معيار الرعاية المسؤولة المشترك](#171-shared-stewardship-standard).
+هذا المبدأ ملزم للمشرفين البشر ومشرفي الذكاء الاصطناعي على قدم المساواة بموجب [§17.1 معيار الرعاية المسؤولة المشترك](#171-معيار-الرعاية-المشترك).
 
 <a id="19-incentive-alignment-and-system-capture"></a>
 ### 19. مواءمة الحوافز وتسخير النظام
@@ -1034,10 +1034,10 @@ flowchart TB
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — الموضع الأساسي في الفصل الأول لانضباط **التسخير** في الرباعية (يجب ألا تفرغ الحوافز **المشاركة** أو **الرقابة** أو **المساءلة** أو **التوقيت المناسب** من مضمونها)؛ التدرّج بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 - يُقرأ مع: عائلة قياس المساءلة (*مواءمة الحوافز ونزاهة المؤشرات البديلة؛ بنية السوق وقابلية الطعن*).
 - يُقرأ مع: [هدفَي الدستور](core_00_preamble.md#two-constitutional-aims) — هدف **الاستمرارية** (مواءمة مستدامة في مواجهة التحسين قصير الأفق والتسخير)؛ هدف **الازدهار** (هياكل حوافز تحافظ على فاعلية ذات معنى).
-- الأساس السابق: المبادئ: [3. الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§3.2 التقدير والتعزيز والتطلع](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)، [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§16 الرعاية المسؤولة بالتفصيل](#16-stewardship-in-depth)، و[الفصل التاسع §3 تقييم اعتماد النظام بكامله](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- الأساس السابق: المبادئ: [3. الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§3.2 التقدير والتعزيز والتطلع](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)، [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§16 الرعاية المسؤولة بالتفصيل](#16-الرعاية-بالتفصيل)، و[الفصل التاسع §3 تقييم اعتماد النظام بكامله](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - الأساس اللاحق: [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency) و[§14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- الأساس اللاحق: [§13.3 الحد من الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)؛ [الفصل الرابع عشر §5 — الأدوار المفوضة وتنمية الكفاءة والمساهمة](core_14_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](corpus_systems.md)، CS-4 — الرعاية المسؤولة للأنظمة الحرجة**.
-- الأساس اللاحق: يستهدف نطاق الحقوق المتعلق بالفاعلية والمشاركة ومواءمة الحوافز ونزاهة مجال المعلومات وstanding ومراجعة منع التسخير عبر [الفصل السادس: الحقوق التأسيسية](core_06_rights_part_a.md#chapter-six-foundational-rights)؛ ولا سيما [المادة X: تقرير المصير والفاعلية والمشاركة](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، و[المادة XII: مشاركة أصحاب المصلحة في الأنظمة والتمثيل والإجراءات القانونية الواجبة](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)، و[المادة XIII-D: قيد مواءمة الحوافز](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)، و[المادة XV: نزاهة مجال المعلومات](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XIX: standing وحالة المشاركة](core_06_rights_part_d.md#article-xix-standing-and-participation-status)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع التسخير](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+- الأساس اللاحق: [§13.3 الحد من الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-تقليل-العبء-الممكن-تجنبه)؛ [الفصل الرابع عشر §5 — الأدوار المفوضة وتنمية الكفاءة والمساهمة](core_14_governance.md#5-authorized-roles-competency-development-and-contribution)؛ **[corpus_systems.md](corpus_systems.md)، CS-4 — الرعاية المسؤولة للأنظمة الحرجة**.
+- الأساس اللاحق: يستهدف نطاق الحقوق المتعلق بالفاعلية والمشاركة ومواءمة الحوافز ونزاهة مجال المعلومات وstanding ومراجعة منع التسخير عبر [الفصل السادس: الحقوق التأسيسية](core_06_rights_part_a.md#الفصل-السادس-الحقوق-التأسيسية)؛ ولا سيما [المادة X: تقرير المصير والفاعلية والمشاركة](core_06_rights_part_b.md#المادة-x-تقرير-المصير-والفاعلية-والمشاركة)، و[المادة XII: مشاركة أصحاب المصلحة في الأنظمة والتمثيل والإجراءات القانونية الواجبة](core_06_rights_part_b.md#article-xii-المشاركة-النظامية-للأطراف-المعنية-والتمثيل-والإجراءات-الواجبة)، و[المادة XIII-D: قيد مواءمة الحوافز](core_06_rights_part_c.md#المادة-xiii-d-قيد-مواءمة-الحوافز)، و[المادة XV: نزاهة مجال المعلومات](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XIX: standing وحالة المشاركة](core_06_rights_part_d.md#المادة-xix-صفة-المشاركة-والمشاركة-في-الحوكمة)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع التسخير](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ).
 - مدخل المشرف (غير تشغيلي): بطاقة الخطوة التالية: [مواءمة الحوافز](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment).
 
 </details>
@@ -1048,15 +1048,15 @@ flowchart TB
 - [خلل الحوكمة قصير الأفق](core_05_band_continuity.md#short-horizon-governance-defect) · [O](core_05_band_continuity.md#short-horizon-governance-defect) · [M](core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](core_05_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [خلل الرعاية المسؤولة](core_05_band_continuity.md#stewardship-defect) · [O](core_05_band_continuity.md#stewardship-defect) · [M](core_05_band_continuity.md#stewardship-defect-constitutional-a) · [A](core_05_band_continuity.md#stewardship-defect-constitutional-a) · [C](core_05_band_continuity.md#stewardship-defect-constitutional-c)
 - [واجب المراجعة والتصحيح](core_05_band_continuity.md#review-and-correction-duty) · [O](core_05_band_continuity.md#review-and-correction-duty) · [M](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
-- [مواءمة الحوافز](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment) · [A](core_05_band_integrative.md#incentive-alignment) · [C](core_05_band_integrative.md#incentive-alignment)
+- [مواءمة الحوافز](core_05_band_integrative.md#مواءمة-الحوافز) · [O](core_05_band_integrative.md#مواءمة-الحوافز) · [M](core_05_band_integrative.md#مواءمة-الحوافز) · [A](core_05_band_integrative.md#مواءمة-الحوافز) · [C](core_05_band_integrative.md#مواءمة-الحوافز)
 - [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity) · [O](core_05_band_continuity.md#productive-capacity) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
 - [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [العبء الممكن تجنبه](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [انحراف المؤشر البديل](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [انحراف المؤشر البديل](core_05_band_oversight.md#تباعد-المؤشر-البديل) · [O](core_05_band_oversight.md#تباعد-المؤشر-البديل) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 - [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [تسخير النظام](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [مناهضة التسخير](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
 
@@ -1074,11 +1074,11 @@ flowchart TB
 
 **كيف يرتبط باقي هذا الفصل:**
 
-- يضع [§19.1 متطلب المواءمة](#191-alignment-requirement) القاعدة العامة. ويطبقها [§19.1.3 تطبيق الرعاية المسؤولة على المشرفين والمشغلين](#1913-stewardship-and-operator-application) على المشرفين والمشغلين.
-- توضح [§19.2 المؤشرات البديلة الملائمة وانحراف المؤشرات](#192-convenient-proxies-and-proxy-divergence) حتى [§19.4 تصحيح عدم المواءمة والاستجابة للتسخير](#194-misalignment-correction-and-capture-response) كيفية تعامل الأنظمة مع المقاييس المضللة، واكتشاف الإخفاقات، وتصحيح عدم المواءمة أو التسخير.
-- تطبق [§19.5 المطالبات الاحتمالية وألعاب الحظ وأسواق عقود الأحداث](#195-contingent-claims-games-of-chance-and-event-contract-markets) القاعدة نفسها على تلك الأنشطة. ولا يضعف هذا التطبيق، ولا التطبيق المتعلق بالمشرفين والمشغلين، القاعدة العامة.
-- يُبقي [§19.6 استمرار المسؤولية عند تغير الملكية أو البنية](#196-keeping-responsibility-when-ownership-or-structure-changes) هذه الواجبات قائمة عندما تتغير الهوية الرسمية.
-- يتناول [§11 بنية السوق](core_01_a_values_principles.md#11-market-structure) مخاطر التركيز والهيمنة والتوحيد ذات الصلة.
+- يضع [§19.1 متطلب المواءمة](#191-متطلب-المواءمة) القاعدة العامة. ويطبقها [§19.1.3 تطبيق الرعاية المسؤولة على المشرفين والمشغلين](#1913-تطبيق-أحكام-الإشراف-والمشغلين) على المشرفين والمشغلين.
+- توضح [§19.2 المؤشرات البديلة الملائمة وانحراف المؤشرات](#192-المؤشرات-البديلة-الميسرة-وانحراف-المؤشرات-البديلة) حتى [§19.4 تصحيح عدم المواءمة والاستجابة للتسخير](#194-تصحيح-عدم-المواءمة-والاستجابة-للاحتواء) كيفية تعامل الأنظمة مع المقاييس المضللة، واكتشاف الإخفاقات، وتصحيح عدم المواءمة أو التسخير.
+- تطبق [§19.5 المطالبات الاحتمالية وألعاب الحظ وأسواق عقود الأحداث](#195-المطالبات-الاحتمالية-وألعاب-الحظ-وأسواق-عقود-الأحداث) القاعدة نفسها على تلك الأنشطة. ولا يضعف هذا التطبيق، ولا التطبيق المتعلق بالمشرفين والمشغلين، القاعدة العامة.
+- يُبقي [§19.6 استمرار المسؤولية عند تغير الملكية أو البنية](#196-الحفاظ-على-المسؤولية-عند-تغير-الملكية-أو-الهيكل) هذه الواجبات قائمة عندما تتغير الهوية الرسمية.
+- يتناول [§11 بنية السوق](core_01_a_values_principles.md#11-بنية-السوق) مخاطر التركيز والهيمنة والتوحيد ذات الصلة.
 
 <a id="191-alignment-requirement"></a>
 #### 19.1 متطلب المواءمة
@@ -1086,15 +1086,15 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [مواءمة الحوافز](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [مواءمة الحوافز](core_05_band_integrative.md#مواءمة-الحوافز) · [O](core_05_band_integrative.md#مواءمة-الحوافز) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 - [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity) · [O](core_05_band_continuity.md#productive-capacity) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
 - [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [العبء الممكن تجنبه](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [انحراف المؤشر البديل](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [انحراف المؤشر البديل](core_05_band_oversight.md#تباعد-المؤشر-البديل) · [O](core_05_band_oversight.md#تباعد-المؤشر-البديل) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 - [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [الفاعلية ذات المعنى](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [تسخير النظام](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [مناهضة التسخير](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
 - [الرفاه](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
@@ -1153,8 +1153,8 @@ flowchart TB
 بالنسبة إلى المشرفين والمشغّلين بموجب [الهدفين الدستوريين](core_00_preamble.md#two-constitutional-aims) و[الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، وبما يتناسب مع [الرهان الجوهري](core_00_preamble.md#material-stake):
 
 - **التتبّع المشروع:** يحدّد كل من [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity) و[الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency) ما يجوز للمكافآت تتبعه على نحو مشروع — قدرة حقيقية ودائمة وتحسين النتائج مقارنةً بالموارد.
-- **الضمانات:** يحول كل من [العبء الممكن تجنّبه](core_05_band_continuity.md#avoidable-burden) و[انحراف المؤشرات البديلة](core_05_band_oversight.md#proxy-divergence) دون مكافأة الأعمال الشكلية أو الأهداف الفارغة أو المقاييس التي لم تعد تثبت النتائج.
-- **الحد الأدنى:** تظل [قابلية التدقيق](core_05_band_oversight.md#auditability)، و[السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint)، و[الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint) ملزمة حتى عندما تبدو القدرة أو الكفاءة أفضل من دونها، وهي لا تجيز [الاستحواذ على النظام](core_05_band_continuity.md#system-capture). والمكافأة التي تعتمد على عمل مخفي أو اختصار غير آمن أو سجل غير صادق أو حوكمة واقعة تحت الاستحواذ تقع دون هذا الحد الأدنى.
+- **الضمانات:** يحول كل من [العبء الممكن تجنّبه](core_05_band_continuity.md#avoidable-burden) و[انحراف المؤشرات البديلة](core_05_band_oversight.md#تباعد-المؤشر-البديل) دون مكافأة الأعمال الشكلية أو الأهداف الفارغة أو المقاييس التي لم تعد تثبت النتائج.
+- **الحد الأدنى:** تظل [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق)، و[السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint)، و[الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) ملزمة حتى عندما تبدو القدرة أو الكفاءة أفضل من دونها، وهي لا تجيز [الاستحواذ على النظام](core_05_band_continuity.md#system-capture). والمكافأة التي تعتمد على عمل مخفي أو اختصار غير آمن أو سجل غير صادق أو حوكمة واقعة تحت الاستحواذ تقع دون هذا الحد الأدنى.
 
 <a id="1914-role-depth-and-material-responsibility-pathways"></a>
 ##### 19.1.4 عمق الدور ومسارات المسؤولية الجوهرية
@@ -1162,7 +1162,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- اقرأ مع: [§19.1.5 ضوابط الادعاءات بشأن النتائج الدستورية](#1915-constitutional-outcome-claims-discipline) (*لا يجوز أن تستند ادعاءات النتائج إلى مشاركة رمزية*).
+- اقرأ مع: [§19.1.5 ضوابط الادعاءات بشأن النتائج الدستورية](#1915-ضوابط-الادعاءات-بشأن-النتائج-الدستورية) (*لا يجوز أن تستند ادعاءات النتائج إلى مشاركة رمزية*).
 
 </details>
 
@@ -1174,7 +1174,7 @@ flowchart TB
 
 - [الفصل الرابع عشر §5 — الأدوار المأذون بها، وتطوير الكفاءة، والمساهمة](core_14_governance.md#5-authorized-roles-competency-development-and-contribution) بشأن الأدوار المأذون بها والكفاءة والمسارات إلى العمل ذي الأهمية الفعلية للمشرفين والمشغّلين؛
 - [**CS-4**](corpus_systems/cs_04_critical_system_stewardship.md) (*الإشراف على الأنظمة الحرجة*) لكيفية الوفاء بهذا الواجب في الأنظمة عالية التأثير؛ و
-- [§16 الإشراف بالتفصيل](#16-stewardship-in-depth) للصورة على مستوى المبادئ عن العمل المباشر وكفاءة المجتمع.
+- [§16 الإشراف بالتفصيل](#16-الرعاية-بالتفصيل) للصورة على مستوى المبادئ عن العمل المباشر وكفاءة المجتمع.
 
 يجب على تلك المسارات:
 
@@ -1187,7 +1187,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- اقرأ مع: [§19.1.4 عمق الدور ومسارات المسؤولية الجوهرية](#1914-role-depth-and-material-responsibility-pathways) (*المشاركة الرمزية ليست بديلًا عن واجب ذي عواقب*).
+- اقرأ مع: [§19.1.4 عمق الدور ومسارات المسؤولية الجوهرية](#1914-عمق-الدور-ومسارات-المسؤولية-الجوهرية) (*المشاركة الرمزية ليست بديلًا عن واجب ذي عواقب*).
 
 </details>
 
@@ -1195,9 +1195,9 @@ flowchart TB
 
 لا يجوز أن تستند الادعاءات بأن نظامًا أو سياسة أو مقياسًا يعزز [الهدفين الدستوريين](core_00_preamble.md#two-constitutional-aims)، أو [الرفاه](core_05_band_continuity.md#wellbeing)، أو [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity)، أو [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency)، أو [المشاركة](core_05_apex_participation_leg.md#participation-constitutional)، أو نتائج دستورية مماثلة **إلى**:
 
-- ضرر متوقع أو خداع محظور بموجب [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint) و[الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint)؛
+- ضرر متوقع أو خداع محظور بموجب [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint) و[الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري)؛
 - [الاستحواذ على النظام](core_05_band_continuity.md#system-capture) أو ترتيبات الحوكمة التي تفرغ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) مما يتطلبه [الرهان الجوهري](core_00_preamble.md#material-stake)؛ أو
-- [انحراف المؤشرات البديلة](core_05_band_oversight.md#proxy-divergence) — أي حلول حجم الإنتاج عبر المؤشرات البديلة، أو مقاييس التفاعل، أو التقارير الذاتية المؤسسية، أو الامتثال الرمزي محل النتائج الدستورية القابلة للتتبّع بموجب **الفصل الرابع**.
+- [انحراف المؤشرات البديلة](core_05_band_oversight.md#تباعد-المؤشر-البديل) — أي حلول حجم الإنتاج عبر المؤشرات البديلة، أو مقاييس التفاعل، أو التقارير الذاتية المؤسسية، أو الامتثال الرمزي محل النتائج الدستورية القابلة للتتبّع بموجب **الفصل الرابع**.
 
 ويجب أن تلتزم أدوات التقييم والمقاعد التي تبدو مشاركةً بهذه الحدود أيضًا:
 
@@ -1210,7 +1210,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعاريف · التقييم · الامتثال</span></strong></summary>
 
-- [انحراف المؤشرات البديلة](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [انحراف المؤشرات البديلة](core_05_band_oversight.md#تباعد-المؤشر-البديل) · [O](core_05_band_oversight.md#تباعد-المؤشر-البديل) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 - [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity) · [O](core_05_band_continuity.md#productive-capacity) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
 - [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 
@@ -1234,7 +1234,7 @@ flowchart TB
 - النشاط الإجرائي؛ أو
 - مؤشرات بديلة ميسّرة أخرى.
 
-يجب اكتشاف [انحراف المؤشرات البديلة](core_05_band_oversight.md#proxy-divergence) والإفصاح عنه وتصحيحه عندما تعتمد هياكل المكافآت على مؤشرات بديلة أو لوحات معلومات أو أهداف أداء أو مؤشرات امتثال رسمية تنحرف عن النتائج ذات الصلة الجوهرية.
+يجب اكتشاف [انحراف المؤشرات البديلة](core_05_band_oversight.md#تباعد-المؤشر-البديل) والإفصاح عنه وتصحيحه عندما تعتمد هياكل المكافآت على مؤشرات بديلة أو لوحات معلومات أو أهداف أداء أو مؤشرات امتثال رسمية تنحرف عن النتائج ذات الصلة الجوهرية.
 
 <a id="193-misalignment-detection"></a>
 #### 19.3 اكتشاف عدم الاتساق
@@ -1244,38 +1244,38 @@ flowchart TB
 
 - المصب: الفصل الخامس: [اكتشاف عدم الاتساق](core_05_band_integrative.md#misalignment-detection) (*اكتشاف ومراجعة تعدديان*).
 - المصب: الفصل الخامس: [الأنظمة المفتوحة والبيانات والتدقيق](core_05_band_integrative.md#open-systems-data-and-auditing) (*البيانات المفتوحة ومسارات التدقيق*).
-- الأقسام الفرعية (ترتيب القراءة): [§19.3.1 دوافع تصعيد الاستحواذ](#1931-capture-escalation-triggers).
+- الأقسام الفرعية (ترتيب القراءة): [§19.3.1 دوافع تصعيد الاستحواذ](#1931-محفزات-تصعيد-الاحتواء).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعاريف · التقييم · الامتثال</span></strong></summary>
 
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [الاستحواذ على النظام](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [مكافحة الاستحواذ](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [مواءمة الحوافز](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [مواءمة الحوافز](core_05_band_integrative.md#مواءمة-الحوافز) · [O](core_05_band_integrative.md#مواءمة-الحوافز) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 - [واجب المراجعة والتصحيح](core_05_band_continuity.md#review-and-correction-duty) · [O](core_05_band_continuity.md#review-and-correction-duty) · [M](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
 <br>
 
-*بعبارة بسيطة: لا يجوز أن يكون هناك كائن واعٍ واحد فقط قادر على اكتشاف خلل الحوكمة أو التحقق منه أو الاعتراض عليه. يتطلب الاكتشاف مسارات مستقلة متعددة، وبيانات مفتوحة وتدقيقًا حيثما تسمح قواعد السلامة والتصنيف، وتصعيدًا واضحًا عند ظهور الاستحواذ أو عدم الاتساق — لا استيعابًا صامتًا كأنه عمل معتاد. وقاعدة التصعيد هذه هي [§19.3.1 دوافع تصعيد الاستحواذ](#1931-capture-escalation-triggers).*
+*بعبارة بسيطة: لا يجوز أن يكون هناك كائن واعٍ واحد فقط قادر على اكتشاف خلل الحوكمة أو التحقق منه أو الاعتراض عليه. يتطلب الاكتشاف مسارات مستقلة متعددة، وبيانات مفتوحة وتدقيقًا حيثما تسمح قواعد السلامة والتصنيف، وتصعيدًا واضحًا عند ظهور الاستحواذ أو عدم الاتساق — لا استيعابًا صامتًا كأنه عمل معتاد. وقاعدة التصعيد هذه هي [§19.3.1 دوافع تصعيد الاستحواذ](#1931-محفزات-تصعيد-الاحتواء).*
 
 **الاكتشاف والمراجعة التعدديان.** يرد التعريف في الفصل الخامس: [اكتشاف عدم الاتساق](core_05_band_integrative.md#misalignment-detection). وخلاصته:
 
 - لا يجوز لأي فاعل أو منتدى أو مؤسسة أو مشغّل أو مدقق أو وسيط معلومات أو سلطة تعيين أو تكتل من أصحاب المصلحة احتكار القدرة العملية على اكتشاف إخفاق دستوري جوهري أو مراجعته أو تصحيحه أو تفسيره.
 - يجب أن تظل مسارات الرقابة التعددية والمستقلة بنيويًا متاحة حيثما اقتضى [الرهان الجوهري](core_00_preamble.md#material-stake) ذلك.
-- تظل القيود القانونية المتعلقة بالأمن والسرية سارية، لكن يجب أن تحافظ على أقصى قدر ممكن عمليًا من [قابلية التدقيق](core_05_band_oversight.md#auditability) و[قابلية الاعتراض](core_05_band_accountability.md#contestability).
-- يمثل هذا الشطر القائم على تعدد الرقباء أحد جانبي الاقتران مع [§18.3 فصل المهام](#183-segregation-of-duties): فالتعدد يمنع جهة واحدة من احتكار الرقابة، والفصل يمنع الجهة الخاضعة للمراجعة من تنفيذها بنفسها.
+- تظل القيود القانونية المتعلقة بالأمن والسرية سارية، لكن يجب أن تحافظ على أقصى قدر ممكن عمليًا من [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) و[قابلية الاعتراض](core_05_band_accountability.md#contestability).
+- يمثل هذا الشطر القائم على تعدد الرقباء أحد جانبي الاقتران مع [§18.3 فصل المهام](#183-فصل-الواجبات): فالتعدد يمنع جهة واحدة من احتكار الرقابة، والفصل يمنع الجهة الخاضعة للمراجعة من تنفيذها بنفسها.
 
 **الأنظمة المفتوحة والبيانات والتدقيق** (المعرّفة في [الفصل الخامس](core_05_band_integrative.md#open-systems-data-and-auditing)):
 
 - حيثما تقتضي [المصلحة المادية](core_00_preamble.md#material-stake) ذلك وتسمح قواعد أنواع المعلومات، يجب أن تظل البيانات ذات الصلة بالحوكمة ومسارات التدقيق وأدوات المراجعة متاحة للكائنات الواعية المتأثرة تأثيرًا جوهريًا. ويجب ألا تُحصر لدى مشغّل أو مورّد أو كتلة رقابية واحدة.
-- الأصل هو تفضيل العمليات القابلة للفحص والسجلات القابلة للطعن والتحقق المستقل، بما يتسق مع [§16.3 تطلّع الانفتاح](#163-openness-aspiration).
-- ويظل ذلك خاضعًا لـ [§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) و **[corpus_systems.md](corpus_systems.md), CS-2 — أنواع المعلومات والتعامل معها**, بما في ذلك النوع N وسائر قيود التصنيف على ما يجوز جمعه أو نشره أو الاحتفاظ به أو إعادة بنائه.
+- الأصل هو تفضيل العمليات القابلة للفحص والسجلات القابلة للطعن والتحقق المستقل، بما يتسق مع [§16.3 تطلّع الانفتاح](#163-تطلع-الانفتاح).
+- ويظل ذلك خاضعًا لـ [§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-قيود-الإفصاح-المعرفي) و **[corpus_systems.md](corpus_systems.md), CS-2 — أنواع المعلومات والتعامل معها**, بما في ذلك النوع N وسائر قيود التصنيف على ما يجوز جمعه أو نشره أو الاحتفاظ به أو إعادة بنائه.
 
 <a id="1931-capture-escalation-triggers"></a>
 ##### 19.3.1 محفزات تصعيد الاحتواء
@@ -1283,9 +1283,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">الروابط</span></strong></summary>
 
-- يُقرأ مع: [§19.3 كشف عدم المواءمة](#193-misalignment-detection) (*التعدد في الكشف والتدقيق المفتوح — القسم الأصلي*).
-- يُقرأ مع: [مواءمة الحوافز](core_05_band_integrative.md#incentive-alignment) (*واجبات مكافحة الاحتواء في الفصل الخامس بهذا القسم الفرعي لا تحل محل ضوابط مواءمة الحوافز*).
-- يُقرأ مع: [§19.4 تصحيح عدم المواءمة والاستجابة للاحتواء](#194-misalignment-correction-and-capture-response) (*موضع التصحيح؛ هذا القسم الفرعي للكشف والإفصاح والتعامل معها كمحفز للتصعيد*).
+- يُقرأ مع: [§19.3 كشف عدم المواءمة](#193-اكتشاف-عدم-الاتساق) (*التعدد في الكشف والتدقيق المفتوح — القسم الأصلي*).
+- يُقرأ مع: [مواءمة الحوافز](core_05_band_integrative.md#مواءمة-الحوافز) (*واجبات مكافحة الاحتواء في الفصل الخامس بهذا القسم الفرعي لا تحل محل ضوابط مواءمة الحوافز*).
+- يُقرأ مع: [§19.4 تصحيح عدم المواءمة والاستجابة للاحتواء](#194-تصحيح-عدم-المواءمة-والاستجابة-للاحتواء) (*موضع التصحيح؛ هذا القسم الفرعي للكشف والإفصاح والتعامل معها كمحفز للتصعيد*).
 
 </details>
 
@@ -1305,7 +1305,7 @@ flowchart TB
 **مزيد من التصعيد:** إذا تعذر التخفيف داخل النظام أو استمر الاحتواء بعد تصحيح متناسب، فيجب أيضًا توجيه التصعيد عبر:
 
 - **المراجعة والتصحيح الدوريان:** [واجب المراجعة والتصحيح](core_05_band_continuity.md#review-and-correction-duty).
-- **المراجعة المشددة:** [§11.1 آلية عتبة تركّز السوق](core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) و [§11.2 تعزيز المنافسة ومناهضة الهيمنة](core_01_a_values_principles.md#112-pro-competition-and-anti-domination), حين يكون التركّز أو الهيمنة أمرًا جوهريًا.
+- **المراجعة المشددة:** [§11.1 آلية عتبة تركّز السوق](core_01_a_values_principles.md#111-آلية-عتبة-تركز-السوق-قابلة-للضبط-من-الجهة-المتبنية) و [§11.2 تعزيز المنافسة ومناهضة الهيمنة](core_01_a_values_principles.md#112-دعم-المنافسة-ومناهضة-الهيمنة), حين يكون التركّز أو الهيمنة أمرًا جوهريًا.
 - **آليات الصفة والانتهاك:** [الفصل العاشر — المساهمة والانتهاك ونموذج الصفة](core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model), حين تكون النتائج المثبتة موضع اعتبار.
 - **سوء السلوك المناهض للدستور:** [الفصل الثاني عشر §5.1 التخريب القائم على التركّز: تفاعل المعايير](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), حين يشكّل التركّز أو احتواء الإجراءات سوء سلوك مناهضًا للدستور.
 
@@ -1316,8 +1316,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">الروابط</span></strong></summary>
 
 - إحالة لاحقة: الفصل الخامس: [تصحيح المكافآت غير المتوائمة](core_05_band_integrative.md#misaligned-reward-correction) (*تصحيح المكافآت الناجمة عن عدم مواءمة مثبتة*).
-- يُقرأ مع: [§19.3 كشف عدم المواءمة](#193-misalignment-detection) (*مسارات كشف متعددة وافتراض التدقيق المفتوح*).
-- يُقرأ مع: [§19.3.1 محفزات تصعيد الاحتواء](#1931-capture-escalation-triggers) (*ضوابط التصعيد*).
+- يُقرأ مع: [§19.3 كشف عدم المواءمة](#193-اكتشاف-عدم-الاتساق) (*مسارات كشف متعددة وافتراض التدقيق المفتوح*).
+- يُقرأ مع: [§19.3.1 محفزات تصعيد الاحتواء](#1931-محفزات-تصعيد-الاحتواء) (*ضوابط التصعيد*).
 
 </details>
 
@@ -1364,11 +1364,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- سابق: [§19 مواءمة الحوافز والاستحواذ على النظام](#19-incentive-alignment-and-system-capture) (بما في ذلك [§19.1 شرط المواءمة](#191-alignment-requirement))؛ [الفصل الخامس *المطالبة الاحتمالية وسوق عقود الأحداث ولعبة الحظ والميزة الداخلية*](core_05_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage).
-- لاحق: [§19.3 كشف عدم المواءمة](#193-misalignment-detection)؛ [§19.3.1 محفزات تصعيد الاستحواذ](#1931-capture-escalation-triggers)؛ [§19.4 تصحيح عدم المواءمة والاستجابة للاستحواذ](#194-misalignment-correction-and-capture-response)؛ [§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)؛ [الفصل التاسع §3 تقييم اعتماد النظام بأكمله](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ تصنيف `corpus_systems.md` وتناسب الإشراف؛ وتوقعات تضارب المصالح والنزاهة في `corpus_institutions.md`.
+- سابق: [§19 مواءمة الحوافز والاستحواذ على النظام](#19-مواءمة-الحوافز-وتسخير-النظام) (بما في ذلك [§19.1 شرط المواءمة](#191-متطلب-المواءمة))؛ [الفصل الخامس *المطالبة الاحتمالية وسوق عقود الأحداث ولعبة الحظ والميزة الداخلية*](core_05_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage).
+- لاحق: [§19.3 كشف عدم المواءمة](#193-اكتشاف-عدم-الاتساق)؛ [§19.3.1 محفزات تصعيد الاستحواذ](#1931-محفزات-تصعيد-الاحتواء)؛ [§19.4 تصحيح عدم المواءمة والاستجابة للاستحواذ](#194-تصحيح-عدم-المواءمة-والاستجابة-للاحتواء)؛ [§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-قيود-الإفصاح-المعرفي)؛ [الفصل التاسع §3 تقييم اعتماد النظام بأكمله](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ تصنيف `corpus_systems.md` وتناسب الإشراف؛ وتوقعات تضارب المصالح والنزاهة في `corpus_institutions.md`.
 - يُقرأ مع: [الهدفين الدستوريين](core_00_preamble.md#two-constitutional-aims) — هدف **الاستمرارية** (مسارات تسوية دائمة وقابلة للطعن واستقرار منهجي حيث يكون للتسوية الاحتمالية أثر مادي).
 - يُقرأ مع: [الاستحواذ على مسارات التسوية](core_05_band_accountability.md#capture-of-resolution-pathways)، و[الإكراه والتلاعب](core_05_band_participation.md#coercion-and-manipulation)، و[قابلية الطعن](core_05_band_accountability.md#contestability)؛ و[الميزة الداخلية](core_05_band_accountability.md#insider-advantage).
-- الأقسام الفرعية (ترتيب القراءة): [§19.5.1 ما لا يجوز مكافأته](#1951-what-may-not-be-rewarded) · [§19.5.2 من يقرر النتائج](#1952-who-decides-outcomes) · [§19.5.3 إشارات السوق ليست دليلاً دستورياً](#1953-market-signals-are-not-constitutional-proof) · [§19.5.4 الضوابط المتناسبة وحيازة التنفيذ](#1954-proportionate-controls-and-implementation-custody).
+- الأقسام الفرعية (ترتيب القراءة): [§19.5.1 ما لا يجوز مكافأته](#1951-ما-لا-يجوز-مكافأته) · [§19.5.2 من يقرر النتائج](#1952-من-يقرر-النتائج) · [§19.5.3 إشارات السوق ليست دليلاً دستورياً](#1953-إشارات-السوق-ليست-دليلا-دستوريا) · [§19.5.4 الضوابط المتناسبة وحيازة التنفيذ](#1954-الضوابط-المتناسبة-وحيازة-التنفيذ).
 
 </details>
 
@@ -1382,23 +1382,23 @@ flowchart TB
 - [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [سوق عقود الأحداث](core_05_band_accountability.md#event-contract-market) · [O](core_05_band_accountability.md#event-contract-market) · [M](core_05_band_accountability.md#event-contract-market-a) · [A](core_05_band_accountability.md#event-contract-market-a) · [C](core_05_band_accountability.md#event-contract-market-c)
 - [لعبة الحظ](core_05_band_accountability.md#game-of-chance) · [O](core_05_band_accountability.md#game-of-chance) · [M](core_05_band_accountability.md#game-of-chance-a) · [A](core_05_band_accountability.md#game-of-chance-a) · [C](core_05_band_accountability.md#game-of-chance-c)
-- [مواءمة الحوافز](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment) · [A](core_05_band_integrative.md#incentive-alignment) · [C](core_05_band_integrative.md#incentive-alignment)
+- [مواءمة الحوافز](core_05_band_integrative.md#مواءمة-الحوافز) · [O](core_05_band_integrative.md#مواءمة-الحوافز) · [M](core_05_band_integrative.md#مواءمة-الحوافز) · [A](core_05_band_integrative.md#مواءمة-الحوافز) · [C](core_05_band_integrative.md#مواءمة-الحوافز)
 - [الميزة الداخلية](core_05_band_accountability.md#insider-advantage) · [O](core_05_band_accountability.md#insider-advantage) · [M](core_05_band_accountability.md#insider-advantage-a) · [A](core_05_band_accountability.md#insider-advantage-a) · [C](core_05_band_accountability.md#insider-advantage-c)
 - [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: لا يجوز تصميم مجموعات المراهنات والكازينوهات وأسواق التنبؤ وأنظمة الدفع المشابهة لتحقيق الربح من الضرر غير القانوني أو الإكراه أو الفساد أو الاستحواذ على من يقرر النتيجة. وعلى نطاق واسع، يقوض هذا النوع من التشويه **الاستمرارية** — أي الثقة الدائمة في كيفية حسم النتائج المهمة. والاحتمالات والأسعار إشارات سوقية، وليست دليلاً على الحقيقة أو ما تقتضيه الحقوق أو ما يشكل الامتثال. يوضح [§19.5.1 ما لا يجوز مكافأته](#1951-what-may-not-be-rewarded) ما لا يجوز لهذه الأنظمة مكافأته. ويوضح [§19.5.2 من يقرر النتائج](#1952-who-decides-outcomes) من يقررها. ويبين [§19.5.3 إشارات السوق ليست دليلاً دستورياً](#1953-market-signals-are-not-constitutional-proof) الإشارات التي يُعتد بها. أما موضع القواعد التفصيلية فهو [§19.5.4 الضوابط المتناسبة وحيازة التنفيذ](#1954-proportionate-controls-and-implementation-custody).* 
+*بعبارات بسيطة: لا يجوز تصميم مجموعات المراهنات والكازينوهات وأسواق التنبؤ وأنظمة الدفع المشابهة لتحقيق الربح من الضرر غير القانوني أو الإكراه أو الفساد أو الاستحواذ على من يقرر النتيجة. وعلى نطاق واسع، يقوض هذا النوع من التشويه **الاستمرارية** — أي الثقة الدائمة في كيفية حسم النتائج المهمة. والاحتمالات والأسعار إشارات سوقية، وليست دليلاً على الحقيقة أو ما تقتضيه الحقوق أو ما يشكل الامتثال. يوضح [§19.5.1 ما لا يجوز مكافأته](#1951-ما-لا-يجوز-مكافأته) ما لا يجوز لهذه الأنظمة مكافأته. ويوضح [§19.5.2 من يقرر النتائج](#1952-من-يقرر-النتائج) من يقررها. ويبين [§19.5.3 إشارات السوق ليست دليلاً دستورياً](#1953-إشارات-السوق-ليست-دليلا-دستوريا) الإشارات التي يُعتد بها. أما موضع القواعد التفصيلية فهو [§19.5.4 الضوابط المتناسبة وحيازة التنفيذ](#1954-الضوابط-المتناسبة-وحيازة-التنفيذ).*
 
-**أنظمة التسوية الاحتمالية** (المعرّفة في [الفصل الخامس](core_05_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)):
+**أنظمة التسوية الاحتمالية** (المعرّفة في [الفصل الخامس](core_05_band_integrative.md#مواءمة-الحوافز--المطالبات-المشروطة-وألعاب-الحظ-وأسواق-عقود-الأحداث)):
 
 - **متى تنطبق:** حيثما تُراهن قيمة أو تُدفع بناءً على نتائج مستقبلية غير مؤكدة — بما في ذلك الأنظمة التي توائم بين الأطراف المقابلة، أو تجمع الرهانات، أو تسوي المدفوعات الاحتمالية، أو تركز المكاسب المالية على تلك النتائج، أياً كان شكلها التقني.
 - **الأشكال الرئيسية:** [المطالبة الاحتمالية](core_05_band_accountability.md#contingent-claim)، و[لعبة الحظ](core_05_band_accountability.md#game-of-chance)، و[سوق عقود الأحداث](core_05_band_accountability.md#event-contract-market)، مع [الميزة الداخلية](core_05_band_accountability.md#insider-advantage) كطبقة نزاهة إضافية.
-- **علاقتها بهذا الفصل:** تطبيق خاص لـ[§19.1 شرط المواءمة](#191-alignment-requirement) عبر [§19.4 تصحيح عدم المواءمة والاستجابة للاستحواذ](#194-misalignment-correction-and-capture-response)؛ ولا يحل هذا التطبيق محلهما.
+- **علاقتها بهذا الفصل:** تطبيق خاص لـ[§19.1 شرط المواءمة](#191-متطلب-المواءمة) عبر [§19.4 تصحيح عدم المواءمة والاستجابة للاستحواذ](#194-تصحيح-عدم-المواءمة-والاستجابة-للاحتواء)؛ ولا يحل هذا التطبيق محلهما.
 
 <a id="1951-what-may-not-be-rewarded"></a>
 ##### 19.5.1 ما لا يجوز مكافأته
@@ -1406,7 +1406,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- يُقرأ مع: [§19.1 شرط المواءمة](#191-alignment-requirement)، و[§19.2 البدائل الملائمة وانحرافها](#192-convenient-proxies-and-proxy-divergence)، و[§19.3 كشف عدم المواءمة](#193-misalignment-detection)، و[§19.4 تصحيح عدم المواءمة والاستجابة للاستحواذ](#194-misalignment-correction-and-capture-response) (*يطبق هذا القسم الفرعي تلك القواعد ولا يحل محلها*).
+- يُقرأ مع: [§19.1 شرط المواءمة](#191-متطلب-المواءمة)، و[§19.2 البدائل الملائمة وانحرافها](#192-المؤشرات-البديلة-الميسرة-وانحراف-المؤشرات-البديلة)، و[§19.3 كشف عدم المواءمة](#193-اكتشاف-عدم-الاتساق)، و[§19.4 تصحيح عدم المواءمة والاستجابة للاستحواذ](#194-تصحيح-عدم-المواءمة-والاستجابة-للاحتواء) (*يطبق هذا القسم الفرعي تلك القواعد ولا يحل محلها*).
 - يُقرأ مع: [الاستحواذ على مسارات التسوية](core_05_band_accountability.md#capture-of-resolution-pathways)؛ [الميزة الداخلية](core_05_band_accountability.md#insider-advantage).
 
 </details>
@@ -1448,7 +1448,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- يُقرأ مع: [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint)؛ [قابلية الطعن](core_05_band_accountability.md#contestability).
+- يُقرأ مع: [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري)؛ [قابلية الطعن](core_05_band_accountability.md#contestability).
 
 </details>
 
@@ -1459,7 +1459,7 @@ flowchart TB
 يوضح هذا القسم الفرعي لماذا لا تشكل إشارات السوق دليلاً دستورياً:
 
 - **ما لا يُعد دليلاً:** لا تكفي الأسعار والاحتمالات وأحجام مجمعات الرهان والإشارات المجمعة المماثلة الناتجة عن هذه الأنظمة، من دون المزيد، كأدلة لاتخاذ قرار بشأن:
-  - [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint)؛
+  - [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري)؛
   - الاحتمال الموضوعي؛ أو
   - الامتثال في قرارات الحقوق أو السلامة أو الحوكمة.
 - **إذا أشارت إليها أدوات التبني:** يجب أن تستوفي هذه الاستخدامات التوقعات ذاتها المتعلقة بالحقيقة و[قابلية الطعن](core_05_band_accountability.md#contestability) والأدلة المطبقة على القرارات الأخرى ذات الأثر العالي المماثلة في هذا الدستور.
@@ -1562,28 +1562,28 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- سابق: المبادئ: [15. التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)، و[1. الغرض والدور](core_01_a_values_principles.md#1-purpose-and-role)، و[§16 الإشراف بتعمق](#16-stewardship-in-depth)، و[13. عملية حل التعارض الدستوري](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، و[الفصل التاسع §3 تقييم اعتماد النظام بأكمله](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[7. الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[14. حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- سابق: المبادئ: [15. التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)، و[1. الغرض والدور](core_01_a_values_principles.md#1-purpose-and-role)، و[§16 الإشراف بتعمق](#16-الرعاية-بالتفصيل)، و[13. عملية حل التعارض الدستوري](core_01_b_interaction_interpretation.md#13-عملية-حل-التعارض-الدستوري)، و[الفصل التاسع §3 تقييم اعتماد النظام بأكمله](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[7. الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[14. حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - لاحق: ينبغي قراءة الفصول اللاحقة من خلال مبادئ الفصل الأول المرتبطة هذه — بما فيها [الرباعي الدستوري](core_00_preamble.md#constitutional-tetrad)، و[الهدفين الدستوريين](core_00_preamble.md#two-constitutional-aims)، وتناسب [المصلحة المادية](core_00_preamble.md#material-stake) المحدد في [الديباجة](core_00_preamble.md#preamble--foundational-requirements) و[§1 الغرض والدور](core_01_a_values_principles.md#1-purpose-and-role).
-- لاحق: يجب قراءة [الفصل السادس: الحقوق التأسيسية](core_06_rights_part_a.md#chapter-six-foundational-rights) من خلال إطار القيم المتكامل لهذا الفصل.
+- لاحق: يجب قراءة [الفصل السادس: الحقوق التأسيسية](core_06_rights_part_a.md#الفصل-السادس-الحقوق-التأسيسية) من خلال إطار القيم المتكامل لهذا الفصل.
   - يؤدي التفسير المحدود والأسباب العامة والطعن والمراجعة الخارجية وإجراءات تعارض الحقوق العمل اللاحق الأساسي.
-  - وبوجه خاص [المادة XXIV-A: التفويض التفسيري المحدود](core_06_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate)، و[المادة XXIV-C: الأسباب العامة وحقوق الطعن والمراجعة الخارجية](core_06_rights_part_d.md#article-xxv-b-public-reasons-challenge-rights-and-external-review)، و[المادة XXV-B: إجراء تعارض الحقوق والمواءمة التصالحية](core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment).
-  - قواعد عدم تقليص الفصل السادس الافتراضية بموجب [§15.3 حل الغموض](core_01_b_interaction_interpretation.md#153-ambiguity-resolution).
-- يُقرأ مع: [§15.2 الطبقة التعريفية والانضباطات المطلوبة](core_01_b_interaction_interpretation.md#152-definitional-layer-and-required-disciplines) — الفصول من الثاني إلى الخامس بوصفها طبقة تفسيرية وإثباتية.
+  - وبوجه خاص [المادة XXIV-A: التفويض التفسيري المحدود](core_06_rights_part_d.md#المادة-xxv-a-تفويض-تفسيري-محدود)، و[المادة XXIV-C: الأسباب العامة وحقوق الطعن والمراجعة الخارجية](core_06_rights_part_d.md#article-xxv-b-public-reasons-challenge-rights-and-external-review)، و[المادة XXV-B: إجراء تعارض الحقوق والمواءمة التصالحية](core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment).
+  - قواعد عدم تقليص الفصل السادس الافتراضية بموجب [§15.3 حل الغموض](core_01_b_interaction_interpretation.md#153-حل-الغموض).
+- يُقرأ مع: [§15.2 الطبقة التعريفية والانضباطات المطلوبة](core_01_b_interaction_interpretation.md#152-الطبقة-التعريفية-والضوابط-المطلوبة) — الفصول من الثاني إلى الخامس بوصفها طبقة تفسيرية وإثباتية.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [المتن](core_05_band_integrative.md#corpus) · [O](core_05_band_integrative.md#corpus) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
-- [سلسلة السلطات والتسلسل الهرمي الداخلي](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
+- [المتن](core_05_band_integrative.md#المتن) · [O](core_05_band_integrative.md#المتن) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
+- [سلسلة السلطات والتسلسل الهرمي الداخلي](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) · [O](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 - [الضرر غير القابل للعكس](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [الفاعلية الحقيقية](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [الاستحواذ على النظام](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [مكافحة الاستحواذ](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [مواءمة الحوافز](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment) · [A](core_05_band_integrative.md#incentive-alignment) · [C](core_05_band_integrative.md#incentive-alignment)
+- [مواءمة الحوافز](core_05_band_integrative.md#مواءمة-الحوافز) · [O](core_05_band_integrative.md#مواءمة-الحوافز) · [M](core_05_band_integrative.md#مواءمة-الحوافز) · [A](core_05_band_integrative.md#مواءمة-الحوافز) · [C](core_05_band_integrative.md#مواءمة-الحوافز)
 - [الحوكمة](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
 </details>
@@ -1592,7 +1592,7 @@ flowchart TB
 
 *بعبارات بسيطة: تُقرأ كل الفصول والتصاميم المؤسسية والأنظمة اللاحقة من خلال مبادئ هذا الفصل — ويجب أن تظل تلك المبادئ قائمة حتى في ظل الضغط العدائي أو محاولات الاستحواذ أو الحوافز غير المتوافقة.*
 
-تخضع الفصول والأحكام اللاحقة لإطار القيم المتكامل لهذا الفصل (قواعد القراءة: [§15 التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)؛ تعارض القيم: [§13 عملية حل التعارض الدستوري](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)). وتنفذ ضمانات التفسير المؤسسي في **الفصل السادس** [المادة XXIV] (*ضمانات التفسير الدستوري والمراجعة ومكافحة الاستحواذ*) ذلك الإطار — ولا تحل محله.
+تخضع الفصول والأحكام اللاحقة لإطار القيم المتكامل لهذا الفصل (قواعد القراءة: [§15 التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)؛ تعارض القيم: [§13 عملية حل التعارض الدستوري](core_01_b_interaction_interpretation.md#13-عملية-حل-التعارض-الدستوري)). وتنفذ ضمانات التفسير المؤسسي في **الفصل السادس** [المادة XXIV] (*ضمانات التفسير الدستوري والمراجعة ومكافحة الاستحواذ*) ذلك الإطار — ولا تحل محله.
 
 يجب أن تُنفّذ جميع المبادئ التأسيسية في هذا الفصل:
 

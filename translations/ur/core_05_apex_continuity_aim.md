@@ -6,7 +6,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">کارپس میں مقام (غیرِ عملی): فائل کی ساخت اور پڑھنے کے قواعد</span></strong></summary>
 
-> یہ فائل [انگریزی باب پنجم، استمرار آئینی مقصد](../../core_05_apex_continuity_aim.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_05_apex_continuity_aim.md`](../../core_05_apex_continuity_aim.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
+> یہ فائل [انگریزی باب پنجم، استمرار آئینی مقصد](../../core_05.010_apex_continuity_aim.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_05_apex_continuity_aim.md`](../../core_05.010_apex_continuity_aim.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > **پچھلا (اس زبان میں):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
@@ -18,9 +18,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#chapter-five-compass-and-definition-map)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ سادہ زبان کا مقصد [تمہید §1](core_00_preamble.md#continuity) پر۔
-- زیریں: اصول: [باب یکم §4.1 لچک اور خود مرمت ڈیزائن](core_01_a_values_principles.md#41-resilience-and-self-healing-design)؛ [§12 مشترکہ نظام کی صلاحیت](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)؛ [§11.1.5 آئینی نتیجہ دعووں کی ضبط](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [آئینی مقصد کی تحلیل](#continuity-aim-decomposition)؛ استمرار کے موضوع جھرمٹ [core_05_band_continuity.md](../../core_05_band_continuity.md) میں۔
-- ساتھ پڑھیں: [ذمہ دارانہ انتظام](../../core_05_band_continuity.md#stewardship-constitutional)، [ذمہ دارانہ انتظام کا عیب](../../core_05_band_continuity.md#stewardship-defect-constitutional)، [ماحولیاتی دیانت](../../core_05_band_continuity.md#ecological-integrity-constitutional)، [انحصار](../../core_05_band_continuity.md#dependency)، [متبادل اشاروں کا انحراف](../../core_05_band_oversight.md#proxy-divergence)، [وجودی خطرہ](../../core_05_band_continuity.md#existential-risk)، [زنجیری ناکامی](../../core_05_band_continuity.md#cascading-failure)، [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional) (جوڑا مقصد — کوئی ایک دوسرے کی قیمت پر نہیں پکڑی جا سکتی؛ قلیل مدتی نفع کا پیچھا جو **شرکت**، **نگرانی**، **جوابدہی**، یا **بروقت کارروائی** کو اس سے نیچے کھوکھلا کرے جو [مادی داؤ](core_00_preamble.md#material-stake) مانگتا ہے **استمرار** ہارتا ہے، چاہے قریب مدتی نتائج بڑھ جائیں)، [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ (استمرار جائز کیسے رہتی ہے — پانچواں تعمیراتی حصہ نہیں)، استمرار پیمائش خاندان، اور [باب پنجم کی حروف تہجی ڈائریکٹری](core_05__definitions_home.md#chapter-five-alphabetical-directory)۔
+- بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ سادہ زبان کا مقصد [تمہید §1](core_00_preamble.md#continuity) پر۔
+- زیریں: اصول: [باب یکم §4.1 لچک اور خود مرمت ڈیزائن](core_01_a_values_principles.md#41-resilience-and-self-healing-design)؛ [§12 مشترکہ نظام کی صلاحیت](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)؛ [§11.1.5 آئینی نتیجہ دعووں کی ضبط](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [آئینی مقصد کی تحلیل](#continuity-aim-decomposition)؛ استمرار کے موضوع جھرمٹ [core_05_band_continuity.md](../../core_05.040_band_continuity.md) میں۔
+- ساتھ پڑھیں: [ذمہ دارانہ انتظام](../../core_05.040_band_continuity.md#stewardship)، [ذمہ دارانہ انتظام کا عیب](../../core_05.040_band_continuity.md#stewardship-defect)، [ماحولیاتی دیانت](../../core_05.040_band_continuity.md#ecological-integrity)، [انحصار](../../core_05.040_band_continuity.md#dependency)، [متبادل اشاروں کا انحراف](../../core_05.050_band_oversight.md#proxy-divergence)، [وجودی خطرہ](../../core_05.040_band_continuity.md#existential-risk)، [زنجیری ناکامی](../../core_05.040_band_continuity.md#cascading-failure)، [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional) (جوڑا مقصد — کوئی ایک دوسرے کی قیمت پر نہیں پکڑی جا سکتی؛ قلیل مدتی نفع کا پیچھا جو **شرکت**، **نگرانی**، **جوابدہی**، یا **بروقت کارروائی** کو اس سے نیچے کھوکھلا کرے جو [مادی داؤ](core_00_preamble.md#material-stake) مانگتا ہے **استمرار** ہارتا ہے، چاہے قریب مدتی نتائج بڑھ جائیں)، [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ (استمرار جائز کیسے رہتی ہے — پانچواں تعمیراتی حصہ نہیں)، استمرار پیمائش خاندان، اور [باب پنجم کی حروف تہجی ڈائریکٹری](core_05__definitions_home.md#chapter-five-alphabetical-directory)۔
 
 </details>
 
@@ -33,15 +33,15 @@
 - **یہ کیا ہے**
   - **دائرے میں:** نظاموں کا اس مقصد کے خلاف فیصلہ [آئینی مقصد کی تحلیل](#continuity-aim-decomposition) میں گنی استمرار کے تعمیراتی حصوں اور پیمائش خاندانوں سے۔ مقصد لمبے افق کا استحکام، پائیداری، لچک، اور ماحولیاتی بہبود ہے شعوری وجودوں اور ان حیات سہارا نظاموں کے لیے جن پر وہ انحصار کرتے ہیں۔
   - **منحصر ہے:** [تمہید §1](core_00_preamble.md#continuity) میں نامزد موضوعات۔ ہر اصطلاح کا تفصیلی دائرہ اور کیسے ناپنے کے قواعد اس کی اپنی تعریف پر رہتے ہیں؛ [آئینی مقصد کی تحلیل](#continuity-aim-decomposition) سے شروع کریں:
-    - [ذمہ دارانہ انتظام](../../core_05_band_continuity.md#stewardship-constitutional)؛
-    - [خود مرمت](../../core_05_band_continuity.md#self-healing-constitutional)؛
-    - [پائیداری](../../core_05_band_continuity.md#sustainability)؛
-    - [ماحولیاتی دیانت](../../core_05_band_continuity.md#ecological-integrity-constitutional)؛
-    - [ماحولیاتی پیش شرائط](../../core_05_band_continuity.md#environmental-preconditions-constitutional)؛
-    - [بین نسلی ذمہ داری](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)؛
-    - [انحصار](../../core_05_band_continuity.md#dependency)؛ اور
-    - [متناسب بین نظامی حصہ](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)۔
-  - **دائرے سے باہر:** [دیسی استمرار](../../core_05_band_continuity.md#indigenous-continuity-constitutional) جب تک متن اسے صریحاً اندر نہ لائے؛ برگ تعریف کی تفصیلات، پیمائش درجے، اور عمل درآمد میکانکس جن کے مالک پٹی فائلیں اور CJS ہیں۔
+    - [ذمہ دارانہ انتظام](../../core_05.040_band_continuity.md#stewardship)؛
+    - [خود مرمت](../../core_05.040_band_continuity.md#self-healing)؛
+    - [پائیداری](../../core_05.040_band_continuity.md#sustainability)؛
+    - [ماحولیاتی دیانت](../../core_05.040_band_continuity.md#ecological-integrity)؛
+    - [ماحولیاتی پیش شرائط](../../core_05.040_band_continuity.md#environmental-preconditions)؛
+    - [بین نسلی ذمہ داری](../../core_05.040_band_continuity.md#intergenerational-responsibility)؛
+    - [انحصار](../../core_05.040_band_continuity.md#dependency)؛ اور
+    - [متناسب بین نظامی حصہ](../../core_05.040_band_continuity.md#proportionate-cross-system-support)۔
+  - **دائرے سے باہر:** [دیسی استمرار](../../core_05.040_band_continuity.md#indigenous-continuity) جب تک متن اسے صریحاً اندر نہ لائے؛ برگ تعریف کی تفصیلات، پیمائش درجے، اور عمل درآمد میکانکس جن کے مالک پٹی فائلیں اور CJS ہیں۔
 <a id="continuity-aim-constitutional-m"></a>
 <a id="continuity-aim-constitutional-a"></a>
 - **کیسے ناپیں اور جانچیں**
@@ -52,7 +52,7 @@
   - **بنیادی ناکامی:**
     - **استمرار** کو اصلاحیں ہمیشہ کے لیے ٹالنے کے لیے استعمال کرنا؛
     - «استحکام» کو اطاعت سمجھنا جب وہ چھپے خطرے کے انڈیل، ناقابلِ واپسی نقصان، یا ماحولیاتی بوجھ دوسروں پر سرکانے پر کھڑا ہو؛
-    - عام «روشنیاں جلائے رکھنا» کی بات سے [چیلنج پذیری](../../core_05_band_accountability.md#contestability) یا [بروقت حل](../../core_05_band_accountability.md#timely-resolution-constitutional) روکنا؛ یا
+    - عام «روشنیاں جلائے رکھنا» کی بات سے [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) یا [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution) روکنا؛ یا
     - **استمرار** اس طرح پکڑنا جو [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional) کو مادی طور پر ہرا دے بغیر واضح اجازت [باب یکم §6 عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) کے تحت۔
 
 ---
@@ -64,36 +64,36 @@
 
 *سادہ الفاظ میں: یہ نقشہ استمرار کے تعمیراتی حصے گنتا ہے — استحکام، پائیداری، ماحولیاتی بہبود، انحصار، اور بین نظامی سہارا — اور ہر برگ کہاں رہتی ہے۔*
 
-اس مقصد کے تحت تعریفیں اس کا دائرہ وراثت میں لیتی ہیں جب تک وہ اسے صریحاً تنگ یا چوڑا نہ کریں۔ پورا موضوع نقشہ: [باب پنجم قطب نما](core_05__definitions_home.md#chapter-five-compass-and-definition-map)۔
+اس مقصد کے تحت تعریفیں اس کا دائرہ وراثت میں لیتی ہیں جب تک وہ اسے صریحاً تنگ یا چوڑا نہ کریں۔ پورا موضوع نقشہ: [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ)۔
 
 **اصل تعمیراتی حصے** ([تمہید §1](core_00_preamble.md#continuity) میں نامزد — لمبے افق کا استحکام، پائیداری، لچک، اور ماحولیاتی بہبود) — ہر اصطلاح کہاں رہتی ہے، اور کون سا جھرمٹ پڑھیں جب کئی ساتھ لاگو ہوں:
 
 - **استحکام اور لچک:**
-  - [ذمہ دارانہ انتظام](../../core_05_band_continuity.md#stewardship-constitutional)
-  - [خود مرمت](../../core_05_band_continuity.md#self-healing-constitutional)
-  - [*لچک، حفاظت، الٹ پھیر، خود مرمت، زنجیری ناکامی، وجودی خطرہ، ماحولیاتی پیش شرائط، اور بہبود*](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-  - [Def.C2 *ذمہ دارانہ انتظام، حکمرانی ضبط، اور مشترکہ نظام کی صلاحیت*](../../core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
+  - [ذمہ دارانہ انتظام](../../core_05.040_band_continuity.md#stewardship)
+  - [خود مرمت](../../core_05.040_band_continuity.md#self-healing)
+  - [*لچک، حفاظت، الٹ پھیر، خود مرمت، زنجیری ناکامی، وجودی خطرہ، ماحولیاتی پیش شرائط، اور بہبود*](../../core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing)
+  - [Def.C2 *ذمہ دارانہ انتظام، حکمرانی ضبط، اور مشترکہ نظام کی صلاحیت*](../../core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity)
 - **پائیداری:**
-  - [پائیداری](../../core_05_band_continuity.md#sustainability)
-  - [ماحولیاتی نقش](../../core_05_band_continuity.md#ecological-footprint)
-  - [*ماحولیاتی دیانت، نقش، اور پائیداری*](../../core_05_band_continuity.md#ecological-footprint-semi-independent)
+  - [پائیداری](../../core_05.040_band_continuity.md#sustainability)
+  - [ماحولیاتی نقش](../../core_05.040_band_continuity.md#ecological-footprint)
+  - [*ماحولیاتی دیانت، نقش، اور پائیداری*](../../core_05.040_band_continuity.md#ecological-footprint-semi-independent)
 - **ماحولیاتی بہبود:**
-  - [ماحولیاتی دیانت](../../core_05_band_continuity.md#ecological-integrity-constitutional)
-  - [ماحولیاتی پیش شرائط](../../core_05_band_continuity.md#environmental-preconditions-constitutional)
-  - [بین نسلی ذمہ داری](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
+  - [ماحولیاتی دیانت](../../core_05.040_band_continuity.md#ecological-integrity)
+  - [ماحولیاتی پیش شرائط](../../core_05.040_band_continuity.md#environmental-preconditions)
+  - [بین نسلی ذمہ داری](../../core_05.040_band_continuity.md#intergenerational-responsibility)
 - **انحصار اور وسائل کا بہاؤ:**
-  - [انحصار](../../core_05_band_continuity.md#dependency)
+  - [انحصار](../../core_05.040_band_continuity.md#dependency)
   - **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*)
 - **بین نظامی سہارا:**
-  - [متناسب بین نظامی حصہ](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
+  - [متناسب بین نظامی حصہ](../../core_05.040_band_continuity.md#proportionate-cross-system-support)
   - **دفعہ IV-B** (*بین نظامی انصاف اور پائیداری*)
 
 **دیگر استمرار-بنیادی جھرمٹ** (جب ان کا داخلہ دائرہ لاگو ہو استعمال کریں؛ اوپر تعمیراتی حصہ گھروں کے طور پر فہرست نہیں):
 
-- [Def.A4 *قوت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور اجتماعی نقصان کے ہتھیار*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
-- [Def.C1 *مشقت اور معاشی تہہ: معاوضہ، تنظیم، محفوظ حالات، فراغت، اور تخلیقی کام*](../../core_05_band_continuity.md#labor-and-economic-floor-cluster)
-- [Def.C3 *رازداری (معلوماتی)*](../../core_05_band_continuity.md#privacy-informational-cluster)
-- [Def.C4 *اعتماد اور اعتبار*](../../core_05_band_continuity.md#trust-and-trustworthiness-cluster)
+- [Def.A4 *قوت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور اجتماعی نقصان کے ہتھیار*](../../core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm)
+- [Def.C1 *مشقت اور معاشی تہہ: معاوضہ، تنظیم، محفوظ حالات، فراغت، اور تخلیقی کام*](../../core_05.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work)
+- [Def.C3 *رازداری (معلوماتی)*](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)
+- [Def.C4 *اعتماد اور اعتبار*](../../core_05.040_band_continuity.md#defc4-trust-and-trustworthiness)
 
 ---
 
@@ -114,14 +114,14 @@
 
 *سادہ الفاظ میں: یہ سوال پوچھتے ہیں کہ شعوری وجود اور وہ زندہ نظام جن پر وہ انحصار کرتے ہیں ٹک سکتے ہیں یا نہیں — ماحولیاتی طور پر، قابلِ اعتماد طور پر، اور ناکامی کے پار۔ یہ استمرار پیمائش خاندان کا باب پنجم گھر ہے؛ تمہید §2 سادہ زبان کا زمرہ سوال رکھتی ہے، اور خاندانی جدول اور تعریف کی راہ بندی یہاں رہتے ہیں۔*
 
-*مادیت* ([مادیت کا تعین](../../core_05_band_oversight.md#materiality-determination)) انضمامی ہے — الگ پیمائش زمرہ نہیں۔ وہ پیمانہ کرتی ہے کہ یہ خاندان [مادی داؤ](core_00_preamble.md#material-stake) کے تحت کتنی مضبوطی سے لاگو ہوتا ہے۔
+*مادیت* ([مادیت کا تعین](../../core_05.050_band_oversight.md#materiality)) انضمامی ہے — الگ پیمائش زمرہ نہیں۔ وہ پیمانہ کرتی ہے کہ یہ خاندان [مادی داؤ](core_00_preamble.md#material-stake) کے تحت کتنی مضبوطی سے لاگو ہوتا ہے۔
 
 | ذیلی خاندان | سادہ سوال | بنیادی آئینی استعمال |
 |---|---|---|
-| ماحولیاتی نقش اور ماحولیاتی پیش شرائط | کون سا ماحولیاتی بوجھ پیدا یا سرکایا جا رہا ہے؟ | [ماحولیاتی نقش](../../core_05_band_continuity.md#ecological-footprint)، [ماحولیاتی پیش شرائط](../../core_05_band_continuity.md#environmental-preconditions-constitutional)؛ **دفعہ I-A** اور **I-B** کے تحت افشا |
-| لچک، الٹ پھیر اور نظامی خطرہ | کیا ناکامیاں قابو، الٹ، اور ایمانداری سے اوپر اٹھائی جا سکتی ہیں؟ | [الٹ پھیر](../../core_05_band_continuity.md#reversibility-constitutional)، [زنجیری ناکامی](../../core_05_band_continuity.md#cascading-failure)، [وجودی خطرہ](../../core_05_band_continuity.md#existential-risk)، [خود مرمت](../../core_05_band_continuity.md#self-healing-constitutional)؛ [*لچک، حفاظت، الٹ پھیر، خود مرمت، زنجیری ناکامی، وجودی خطرہ، ماحولیاتی پیش شرائط، اور بہبود*](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster) |
-| انحصار اور وسائل کا بہاؤ | کیا مشترکہ انحصار نظر آتے اور قائم رہتے ہیں؟ | [انحصار](../../core_05_band_continuity.md#dependency)؛ **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) |
-| بین نظامی سہارا | کیا دستاویزی واپسی مشترکہ بنیادی ڈھانچہ اور ماحولیاتی مرمت قائم رکھتی ہے؟ | [متناسب بین نظامی حصہ](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)؛ **دفعہ IV-B** (*بین نظامی انصاف اور پائیداری*) |
+| ماحولیاتی نقش اور ماحولیاتی پیش شرائط | کون سا ماحولیاتی بوجھ پیدا یا سرکایا جا رہا ہے؟ | [ماحولیاتی نقش](../../core_05.040_band_continuity.md#ecological-footprint)، [ماحولیاتی پیش شرائط](../../core_05.040_band_continuity.md#environmental-preconditions)؛ **دفعہ I-A** اور **I-B** کے تحت افشا |
+| لچک، الٹ پھیر اور نظامی خطرہ | کیا ناکامیاں قابو، الٹ، اور ایمانداری سے اوپر اٹھائی جا سکتی ہیں؟ | [الٹ پھیر](../../core_05.040_band_continuity.md#reversibility)، [زنجیری ناکامی](../../core_05.040_band_continuity.md#cascading-failure)، [وجودی خطرہ](../../core_05.040_band_continuity.md#existential-risk)، [خود مرمت](../../core_05.040_band_continuity.md#self-healing)؛ [*لچک، حفاظت، الٹ پھیر، خود مرمت، زنجیری ناکامی، وجودی خطرہ، ماحولیاتی پیش شرائط، اور بہبود*](../../core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| انحصار اور وسائل کا بہاؤ | کیا مشترکہ انحصار نظر آتے اور قائم رہتے ہیں؟ | [انحصار](../../core_05.040_band_continuity.md#dependency)؛ **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) |
+| بین نظامی سہارا | کیا دستاویزی واپسی مشترکہ بنیادی ڈھانچہ اور ماحولیاتی مرمت قائم رکھتی ہے؟ | [متناسب بین نظامی حصہ](../../core_05.040_band_continuity.md#proportionate-cross-system-support)؛ **دفعہ IV-B** (*بین نظامی انصاف اور پائیداری*) |
 
 کیسے ناپنے کے تفصیلی قواعد ہر جڑی تعریف پر رہتے ہیں۔
 
@@ -131,4 +131,4 @@
 
 **اگلی فائل (اس زبان میں):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
-**پابند اصل:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**پابند اصل:** [core_05_apex_continuity_aim.md](../../core_05.010_apex_continuity_aim.md)

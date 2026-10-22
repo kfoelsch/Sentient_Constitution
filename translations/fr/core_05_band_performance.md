@@ -6,13 +6,13 @@
 
 > Le contenu ci-dessous est **uniquement un guide de lecture**. Il n’ajoute, n’ôte ni ne resserre d’obligations contraignantes dans ce fichier ni dans d’autres chapitres.
 >
-> Ce fichier est un **pilote de langue de lecture** du [Chapitre cinq, bande Performance constitutionnelle en anglais](../../core_05_band_performance.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_05_band_performance.md`](../../core_05_band_performance.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
+> Ce fichier est un **pilote de langue de lecture** du [Chapitre cinq, bande Performance constitutionnelle en anglais](../../core_05.060_band_performance.md). **Ce n’est pas** une partie contraignante de la Constitution sentiente. **Ce n’est pas** une seconde constitution. **Ce n’est pas** une édition d’envoi. Il est **épinglé** à `SC-Corpus-2026.08.09`. Si cette traduction et la source anglaise semblent diverger, le fichier numéroté [`core_05_band_performance.md`](../../core_05.060_band_performance.md) l’emporte. L’ordre de lecture et les métadonnées d’édition restent dans [README.md](../../README.md). Méthode et glossaire : [translations/fr/README.md](README.md).
 >
-> Il contient la **bande Performance constitutionnelle du Chapitre cinq** — le **foyer de famille de mesure** du Chapitre cinq pour la catégorie transversale Performance constitutionnelle. La performance constitutionnelle est instrumentale aux deux fins [**Épanouissement**](core_00_preamble.md#flourishing) et [**Continuité**](core_00_preamble.md#continuity) et **n’est pas** une jambe de la Tétrade. Ses définitions feuille (Efficacité constitutionnelle, Charge évitable, Capacité productive, Devoir de réduction de charge) gardent leurs **foyers canoniques dans la [bande Continuité](core_05_band_continuity.md)** par conception : ce sont des membres de groupe de la bande Continuité sous Administration responsable / Capacité des systèmes partagés et le [groupe dépendant proportionnalité–charge–efficacité](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), où la capacité durable, le gaspillage et la livraison de résultat par ressource siègent avec les thèmes de Continuité. Ce fichier route la catégorie de mesure du Préambule ; il ne porte pas ces corps feuille. Les feuilles ne se relogent ici que sur une décision de placement expresse et datée. L’ordre de lecture et la boussole vivent dans [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> Il contient la **bande Performance constitutionnelle du Chapitre cinq** — le **foyer de famille de mesure** du Chapitre cinq pour la catégorie transversale Performance constitutionnelle. La performance constitutionnelle est instrumentale aux deux fins [**Épanouissement**](core_00_preamble.md#flourishing) et [**Continuité**](core_00_preamble.md#continuity) et **n’est pas** une jambe de la Tétrade. Ses définitions feuille (Efficacité constitutionnelle, Charge évitable, Capacité productive, Devoir de réduction de charge) gardent leurs **foyers canoniques dans la [bande Continuité](core_05_band_continuity.md)** par conception : ce sont des membres de groupe de la bande Continuité sous Administration responsable / Capacité des systèmes partagés et le [groupe dépendant proportionnalité–charge–efficacité](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster), où la capacité durable, le gaspillage et la livraison de résultat par ressource siègent avec les thèmes de Continuité. Ce fichier route la catégorie de mesure du Préambule ; il ne porte pas ces corps feuille. Les feuilles ne se relogent ici que sur une décision de placement expresse et datée. L’ordre de lecture et la boussole vivent dans [core_05__definitions_home.md](core_05__definitions_home.md#chapitre-cinq--définitions-fondationnelles).
 >
 > **Précédent (cette langue) :** [core_05_band_participation.md](core_05_band_participation.md)
 >
-> **Suivant (encore en anglais) :** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+> **Suivant (encore en anglais) :** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 > **Arc de lecture :** foyer de famille de mesure → routage des feuilles de la bande Continuité.
 
 </details>
@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : [Boussole du Chapitre cinq](core_05__definitions_home.md#chapter-five-compass-and-definition-map) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad).
+- En amont : [Boussole du Chapitre cinq](core_05__definitions_home.md#boussole-et-carte-des-définitions-du-chapitre-cinq) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad).
 - En aval : foyer de famille de mesure du Chapitre cinq pour la Performance constitutionnelle ; **tous les corps feuille** restent dans la [bande Continuité](core_05_band_continuity.md) (groupes administration responsable / capacité des systèmes partagés / proportionnalité–charge–efficacité).
 - Lire avec : [Efficacité constitutionnelle](core_05_band_continuity.md#constitutional-efficiency), [Charge évitable](core_05_band_continuity.md#avoidable-burden), [Capacité productive](core_05_band_continuity.md#productive-capacity-constitutional) et [Devoir de réduction de charge](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 
@@ -45,7 +45,7 @@ Ce fichier est le foyer de la famille de mesure **Performance constitutionnelle*
 
 *Foyer du Chapitre cinq pour la famille de mesure Performance constitutionnelle. Le Préambule §2 conserve la question de catégorie en langage simple dans le tableau d’aperçu ; le tableau de famille, l’usage constitutionnel et le routage des définitions vivent ici.*
 
-La *Matérialité* ([Détermination de matérialité](core_05_band_oversight.md#materiality-determination)) est Intégrative — ce n’est pas une catégorie de mesure séparée ; elle met à l’échelle avec quelle force cette famille s’applique sous l’[enjeu matériel](core_00_preamble.md#material-stake).
+La *Matérialité* ([Détermination de matérialité](core_05_band_oversight.md#détermination-de-matérialité)) est Intégrative — ce n’est pas une catégorie de mesure séparée ; elle met à l’échelle avec quelle force cette famille s’applique sous l’[enjeu matériel](core_00_preamble.md#material-stake).
 
 | Famille de mesure | Question simple | Usage constitutionnel principal |
 |---|---|---|
@@ -58,12 +58,12 @@ Ces mesures transversales demandent si les systèmes livrent efficacement des r�
 - Les paliers de mesure opératoires vivent sur les foyers de définition du Chapitre cinq — voir [Efficacité constitutionnelle](core_05_band_continuity.md#constitutional-efficiency), [Charge évitable](core_05_band_continuity.md#avoidable-burden), [Capacité productive](core_05_band_continuity.md#productive-capacity-constitutional) et [Devoir de réduction de charge](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Les cibles de performance, les récompenses et les mesures de ressources ne sont valides que dans la mesure où elles restent traçables aux résultats constitutionnels.
 - Elles ne peuvent pas se substituer à l’Efficacité constitutionnelle, à la [Capacité productive](core_05_band_continuity.md#productive-capacity-constitutional) ni à la conformité au Plancher des droits.
-- Lire avec [Chapitre sept §3 Évaluation de certification du système entier](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) lorsque la performance du système entier est matériellement dans la portée.
+- Lire avec [Chapitre sept §3 Évaluation de certification du système entier](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) lorsque la performance du système entier est matériellement dans la portée.
 
 ---
 
 **Fichier précédent :** [core_05_band_participation.md](core_05_band_participation.md)
 
-**Fichier suivant (encore en anglais) :** [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)
+**Fichier suivant (encore en anglais) :** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 
-**Original contraignant :** [core_05_band_performance.md](../../core_05_band_performance.md)
+**Original contraignant :** [core_05_band_performance.md](../../core_05.060_band_performance.md)

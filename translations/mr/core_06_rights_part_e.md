@@ -70,7 +70,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 घटनात्मक संघर्ष निराकरण प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), आणि [§15 घटनात्मक अर्थलावणी](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 घटनात्मक संघर्ष निराकरण प्रक्रिया](core_01_b_interaction_interpretation.md#१३-घटनतमक-सघरष-नरकरण-परकरय), आणि [§15 घटनात्मक अर्थलावणी](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - यासोबत वाचा: वेळबद्धतेचे मापन-कुटुंब (*घटनात्मक मापन म्हणून वेळेवर निराकरण*).
 
 </details>
@@ -82,9 +82,9 @@ flowchart TB
 - [प्रक्रियात्मक निष्पक्षता](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [वेळेवर निराकरण](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [पुनर्स्थापनात्मक न्याय](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#लखपरकषण-यगयत) · [O](core_05_band_oversight.md#लखपरकषण-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [आव्हानयोग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [पारदर्शकता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [पारदर्शकता](core_05_band_oversight.md#परदरशकत) · [O](core_05_band_oversight.md#परदरशकत) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -112,7 +112,7 @@ flowchart TB
 *लगतचे लेख:*
 
 - **वेळबद्धतेचा किमान निकष:** निराकरणाचा वेग, विलंबविरोधी शिस्त आणि महत्त्व-स्तरांतील टप्पे **लेख XXVI-C** (*वेळेवर निराकरण व विलंबविरोधी किमान निकष*) अंतर्गत आहेत आणि [अध्याय तेरावा §6 वेळेवर निराकरण, भौतिक महत्त्वाचे स्तर व विलंबविरोधी शिस्त](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) द्वारे अंमलात येतात.
-- **वेळेवर दाद:** [**लेख XIII-B** (*दाद व उपायाचा अधिकार*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*वेळेवर दाद मिळण्याचा प्रवेश*) यासोबत वाचा.
+- **वेळेवर दाद:** [**लेख XIII-B** (*दाद व उपायाचा अधिकार*)](core_06_rights_part_c.md#अनचछद-xiii-b-नवरण-आण-उपयच-हकक) (*वेळेवर दाद मिळण्याचा प्रवेश*) यासोबत वाचा.
 - **आणीबाणीचे उपाय:** [अध्याय तेरावा §6.1 आणीबाणीचे उपाय व पुढे चालू ठेवण्याचे ओझे](core_13_forum.md#61-emergency-measures-and-continuation-burden) यांद्वारे नियंत्रित. आणीबाणीच्या उपायाचे पूर्वलक्षी पुनरावलोकन **लेख XXVI-A** (*पूर्वलक्षी पुनरावलोकन व प्रकटीकरण*) अंतर्गत आहे.
 - **सत्यापित उल्लंघनानंतर न्याय:** **लेख XX** (*सत्यापित उल्लंघनानंतर न्याय*) अंतर्गत नियंत्रित.
 
@@ -127,16 +127,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानविषयक प्रकटीकरण मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [§20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानविषयक प्रकटीकरण मर्यादा](core_01_b_interaction_interpretation.md#132-जञनवषयक-परकटकरणवरल-मरयद), [§20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एकतमक-अनपरयग).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
 
-- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#लखपरकषण-यगयत) · [O](core_05_band_oversight.md#लखपरकषण-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [सत्य (घटनात्मक मर्यादा)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [सत्य (घटनात्मक मर्यादा)](core_05_band_oversight.md#सतय-सवधनक-बधन) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -165,7 +165,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§13.1.5 हक्क-संघर्ष निर्णय चाचणी](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), आणि [§20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§13.1.5 हक्क-संघर्ष निर्णय चाचणी](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), आणि [§20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एकतमक-अनपरयग).
 - यासोबत वाचा: [अध्याय अकरा §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression) (*स्वेच्छेने सार्वजनिक उत्तरदायित्व व्यक्त करणे*); [अध्याय बारा §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*स्वेच्छेने सार्वजनिक उत्तरदायित्व व्यक्त करणे (घटनाविरोधी)*).
 
 </details>
@@ -205,7 +205,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
 - वरच्या स्तरावरील आधार: वेळबद्धता मापन-कुटुंब (*घटनात्मक मापन म्हणून वेळेवर निराकरण व विलंबविरोधी शिस्त*); [प्रस्तावना §6.2 संपूर्ण साखळी कशी जोडली जाते](core_00_preamble.md#62-how-the-full-chain-fits-together) (*स्थिती, एकात्मता आणि मंच-समन्वय कार्यप्रवाह*).
-- तत्त्वे: अध्याय एक [§9.2 घटनात्मक कार्यक्षमता](core_01_a_values_principles.md#92-constitutional-efficiency), [अध्याय एक §13.3 टाळता येणारा भार कमी करणे](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [अध्याय एक §13.1.5 हक्क-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- तत्त्वे: अध्याय एक [§9.2 घटनात्मक कार्यक्षमता](core_01_a_values_principles.md#92-घटनतमक-करयकषमत), [अध्याय एक §13.3 टाळता येणारा भार कमी करणे](core_01_b_interaction_interpretation.md#133-टळत-यणयजग-भर-कम-करण), [अध्याय एक §13.1.5 हक्क-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - खालच्या स्तरावरील आधार: [अध्याय तेरावा §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*महत्त्वाचे स्तर, कार्यप्रवाह टप्पे व विलंबविरोधी शिस्त*); [अध्याय तेरावा §6.1 आणीबाणीचे उपाय व पुढे चालू ठेवण्याचे ओझे](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*आणीबाणीच्या नियंत्रणानंतर पूर्वनिश्चित पुनर्स्थापना-आव्हान कालमर्यादांची तीच बाह्य मर्यादा*).
 - पालक प्रवेशद्वार (कार्यकारी नाही): पुढील पायरी कार्ड: [विलंब](implementation/STEWARD_ENTRY_DOORS.md#delay). हे कार्ड संविधान मर्यादित करू शकत नाही.
 
@@ -219,7 +219,7 @@ flowchart TB
 - [घटनात्मक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [टाळता येणारा भार](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [निराकरण मार्गांवरील कब्जा](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [भौतिक महत्त्व](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [भौतिक महत्त्व](core_05_band_oversight.md#भतकity-determination) · [O](core_05_band_oversight.md#भतकity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -232,7 +232,7 @@ flowchart TB
 - **समन्वयाचा उद्देश:** **लेख XX-A** (*न्यायाचे उद्दिष्ट व व्याप्ती*) अंतर्गत घटनात्मक न्याय **घटनात्मक समन्वय व निराकरण व्यवस्था** वापरतो—तथ्ये पडताळणे, स्थिती मोजणे, परिणाम एकत्रित करणे आणि शक्य असेल तेथे पुनर्स्थापना करणे—अनिश्चित प्रतिकूल विलंब, प्रतिष्ठा-गुणांकन किंवा केवळ शिक्षेसाठी शिक्षा करणे नव्हे.
 - **तीन संयुक्त आवश्यकता:** महत्त्वाच्या निराकरण मार्गांनी एकत्रितपणे **वेळेवर, कार्यक्षम आणि न्याय्य** असले पाहिजे:
   - **वेळेवर** — [भौतिक महत्त्वा](core_00_preamble.md#material-stake)नुसार व हानीच्या तातडीप्रमाणे निश्चित कालमर्यादा;
-  - **कार्यक्षम** — [घटनात्मक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency), म्हणजे अध्याय एक [§9.2 घटनात्मक कार्यक्षमता](core_01_a_values_principles.md#92-constitutional-efficiency)च्या अर्थाने, वापरलेल्या संवेदनशील जीवांच्या वेळ व सामायिक प्रयत्नांमागे मिळणारा प्रत्यक्ष घटनात्मक परिणाम; केवळ कच्चा वेग किंवा प्रकरणांची यादी रिकामी करणे नव्हे;
+  - **कार्यक्षम** — [घटनात्मक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency), म्हणजे अध्याय एक [§9.2 घटनात्मक कार्यक्षमता](core_01_a_values_principles.md#92-घटनतमक-करयकषमत)च्या अर्थाने, वापरलेल्या संवेदनशील जीवांच्या वेळ व सामायिक प्रयत्नांमागे मिळणारा प्रत्यक्ष घटनात्मक परिणाम; केवळ कच्चा वेग किंवा प्रकरणांची यादी रिकामी करणे नव्हे;
   - **न्याय्य** — **लेख XX-A** (*न्यायाचे उद्दिष्ट व व्याप्ती*) आणि **लेख XX-B** (*निर्बंधांचे किमान निकष*) पूर्णपणे लागू राहतात; जलद गती म्हणजे तपासलेली तथ्ये वगळणे ([अध्याय दहा §3.1 स्थितीसाठी सत्यापित इनपुट प्रवेशद्वार](core_10_standing_assessment.md#verified-inputs-for-standing)), चुकीच्या पक्षाला शिक्षा करणे, हानीशी न जुळणारा उपाय देणे किंवा आव्हान व अपील बंद करणे यांचे समर्थन नाही.
 - **मंच व कार्यप्रवाह पर्यवेक्षण:** **अध्याय दहा ते बारा** यांद्वारे पाठवलेल्या विवादांबाबत पुढील बाबी [अध्याय तेरावा §6 वेळेवर निराकरण, भौतिक महत्त्वाचे स्तर व विलंबविरोधी शिस्त](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) अंतर्गत असतील; या लेखातील वेळेवर, कार्यक्षम व न्याय्य निकष लागू राहतील:
   - भौतिक महत्त्व-स्तर वर्गीकरण;
@@ -262,13 +262,13 @@ flowchart TB
 - **उत्तरदायित्व:** केवळ सवय किंवा सोयीमुळे नियम कायम राहिल्यास शासन नियंत्रित करणाऱ्यांनी उत्तर दिले पाहिजे; तसेच खरा घटनात्मक बदल आणीबाणी, अंमलबजावणी किंवा अभिरक्षा अशा नावाखाली वळवून **हक्क-किमान निकष** किंवा संविधान कायदेशीररीत्या बदलण्याचे नियम टाळले तरी उत्तर द्यावे.
 - **वेळबद्धता:** नियोजित पुनर्प्रमाणीकरणात आणि कब्जाचा दबाव, भागधारकांचे वगळणे, आव्हान-अधिकारांची घसरण किंवा महत्त्वपूर्ण कमी कामगिरी दिसल्यास जलद पुनरावलोकनात.
 
-शासन नियम, सहभाग यंत्रणा, वजन-मॉडेल आणि निधी रचना [अध्याय एक §18.4 सातत्यपूर्ण समर्थन](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification) येथील सतत समर्थन शिस्तीच्या अधीन राहतात. **लेख XXVII-A** (*स्थिरीकरणास प्रतिबंध व पुनर्विचारयोग्यता*) आणि **लेख XXVII-B** (*नियतकालिक पुनर्प्रमाणीकरण व पारदर्शक बदल*) स्थिरीकरणास प्रतिबंध, पुनर्प्रमाणीकरण आणि पारदर्शक बदलाचे कार्यकारी किमान निकष सांगतात.
+शासन नियम, सहभाग यंत्रणा, वजन-मॉडेल आणि निधी रचना [अध्याय एक §18.4 सातत्यपूर्ण समर्थन](core_01_c_stewardship_capacity_principles.md#184-सततयपरण-समरथन) येथील सतत समर्थन शिस्तीच्या अधीन राहतात. **लेख XXVII-A** (*स्थिरीकरणास प्रतिबंध व पुनर्विचारयोग्यता*) आणि **लेख XXVII-B** (*नियतकालिक पुनर्प्रमाणीकरण व पारदर्शक बदल*) स्थिरीकरणास प्रतिबंध, पुनर्प्रमाणीकरण आणि पारदर्शक बदलाचे कार्यकारी किमान निकष सांगतात.
 
 #### लेख XXVII-A: स्थिरीकरणास प्रतिबंध व पुनर्विचारयोग्यता
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: [अध्याय एक §18.4 सातत्यपूर्ण समर्थन](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); अध्याय एक [§3 मूलभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [अध्याय आठ §3 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- वरच्या स्तरावरील आधार: तत्त्वे: [अध्याय एक §18.4 सातत्यपूर्ण समर्थन](core_01_c_stewardship_capacity_principles.md#184-सततयपरण-समरथन); अध्याय एक [§3 मूलभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [अध्याय आठ §3 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -276,7 +276,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
 
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [पारदर्शकता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [पारदर्शकता](core_05_band_oversight.md#परदरशकत) · [O](core_05_band_oversight.md#परदरशकत) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [भागधारक](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -307,7 +307,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
 
-- [पारदर्शकता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [पारदर्शकता](core_05_band_oversight.md#परदरशकत) · [O](core_05_band_oversight.md#परदरशकत) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [आव्हानयोग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -367,7 +367,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य समतोल तत्त्वे](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), आणि [अध्याय आठ §3 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [अध्याय अकरा §5.4](core_11_standing_integration.md#54-special-violation-rules) (*या लेखाद्वारे संक्रमणकाळात विसंगत बक्षिसांचे जप्ती व अहवाल देणे मर्यादित*); [अध्याय आठ—प्रणाली संरेखन प्रमाणन](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य समतोल तत्त्वे](core_01_b_interaction_interpretation.md#131-मखय-तडजड-तततव), आणि [अध्याय आठ §3 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [अध्याय अकरा §5.4](core_11_standing_integration.md#54-special-violation-rules) (*या लेखाद्वारे संक्रमणकाळात विसंगत बक्षिसांचे जप्ती व अहवाल देणे मर्यादित*); [अध्याय आठ—प्रणाली संरेखन प्रमाणन](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -377,7 +377,7 @@ flowchart TB
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [कल्याण](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [पुरावा जतन](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [पुरावा जतन](core_05_band_oversight.md#परव-सरकषण) · [O](core_05_band_oversight.md#परव-सरकषण) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -396,12 +396,12 @@ flowchart TB
     - राजकीय दबाव.
   - निकष, ते पूर्ण झाल्याचा पुरावा आणि द्वाराचा निर्णय प्रकाशित केला जातो. प्रभावित भागधारक स्वीकारापूर्वी निकषांवर टिप्पणी करू शकतात आणि निर्णयाला आव्हान देऊ शकतात.
   - निकषांचा आशय, जबाबदारांची नेमणूक व पडताळणी दस्तऐवज [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*संक्रमण शासन व संस्थात्मक उत्क्रांती*) आणि [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*द्वार निकष व प्रगती नियम*) यांद्वारे नियंत्रित आहेत.
-- **हक्क-किमान स्वीकार—आता संयम, तयारीनुसार पूर्तता:** [हक्क-किमान तत्त्वा](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)नुसार **लेख VI** (*समान मूलभूत हक्क*) अंतर्गत लागू होणारे **हक्क-किमान निकष**, तसेच प्रभावित संदर्भानुसार जीवनरक्षण, स्वायत्तता, भेदभाव न करणे, प्रवेशयोग्यता, लेखापरीक्षणक्षमता व उपाय यांसाठीचे अधिक मजबूत क्षेत्रीय निकष, प्रत्येक टप्प्याचे स्वीकारलेले लक्ष्य आहेत. त्यांची अंमलबजावणी करणाऱ्या संस्था व संस्कृती अस्तित्वात येईपर्यंत हक्क-किमान पूर्णपणे अमलात आणता येत नाही; हा लेख ते नाकारत नाही. पण त्या कारणाने किमान निकष कमी करण्यासही परवानगी देत नाही. कर्तव्याच्या प्रकारानुसार निकष दोन प्रकारे बंधनकारक आहेत:
+- **हक्क-किमान स्वीकार—आता संयम, तयारीनुसार पूर्तता:** [हक्क-किमान तत्त्वा](core_01_b_interaction_interpretation.md#हकक-तळ-कमन-हमच-तततव)नुसार **लेख VI** (*समान मूलभूत हक्क*) अंतर्गत लागू होणारे **हक्क-किमान निकष**, तसेच प्रभावित संदर्भानुसार जीवनरक्षण, स्वायत्तता, भेदभाव न करणे, प्रवेशयोग्यता, लेखापरीक्षणक्षमता व उपाय यांसाठीचे अधिक मजबूत क्षेत्रीय निकष, प्रत्येक टप्प्याचे स्वीकारलेले लक्ष्य आहेत. त्यांची अंमलबजावणी करणाऱ्या संस्था व संस्कृती अस्तित्वात येईपर्यंत हक्क-किमान पूर्णपणे अमलात आणता येत नाही; हा लेख ते नाकारत नाही. पण त्या कारणाने किमान निकष कमी करण्यासही परवानगी देत नाही. कर्तव्याच्या प्रकारानुसार निकष दोन प्रकारे बंधनकारक आहेत:
   - **संयमाची कर्तव्ये**—स्वीकारकर्ता व संक्रमण अधिकारी यांनी काय करू नये—अंमलबजावणीच्या तारखेपासून बंधनकारक आहेत; ती पाळण्यासाठी नवी संस्था लागत नाही:
     - **जाणीवपूर्वक किंवा टाळता येणारी घसरण नको:** कोणत्याही संवेदनशील जीवाचा हक्क-किमान संरक्षणापर्यंतचा प्रवेश त्याच्या **प्रारंभिक मोजमापा**पेक्षा जाणीवपूर्वक किंवा टाळता येण्याजोग्या प्रकारे कमी करू नये; कोणताही संक्रमण उपाय किमान हक्क वापरणे भौतिकदृष्ट्या अधिक कठीण करू नये.
     - **नवी उल्लंघने नको:** नवी प्रणाली, धोरणे, आचरणे आणि विद्यमान प्रणालींचे महत्त्वपूर्ण विस्तार सुरुवातीपासून किमान निकषांनुसार तयार केले पाहिजेत. खालील प्राप्ती मार्ग वारशाने आलेल्या कमतरतांसाठी आहे, नव्या वर्तनासाठी नाही.
     - **अपरिवर्तनीय हानी नको:** खालील जतन-पूर्वनियम आणि [अध्याय एक §13.1 तात्पुरती पूर्वनिश्चित भूमिका](core_01_b_interaction_interpretation.md#default-interim-posture) पूर्णपणे लागू होतात.
-    - **अपमानकारक, बहाणेबाज, भेदभावकारी किंवा लपवणारे वर्तन नको:** संक्रमण उपायांत असे वर्तन मनाई आहे; [अवमानकारक प्रक्रिया-विरोधी तत्त्वा](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)नुसार **लेख XXVIII-D** (*अनुपालक नसलेली मालमत्ता व प्रणाली; स्वेच्छा हस्तांतरण प्रोत्साहने*) संक्रमण अधिकाऱ्यांवर जे काही कर्तव्य ठेवतो तेही यात येते.
+    - **अपमानकारक, बहाणेबाज, भेदभावकारी किंवा लपवणारे वर्तन नको:** संक्रमण उपायांत असे वर्तन मनाई आहे; [अवमानकारक प्रक्रिया-विरोधी तत्त्वा](core_01_b_interaction_interpretation.md#मनहनकरक-परकरयस-परतबधच-तततव)नुसार **लेख XXVIII-D** (*अनुपालक नसलेली मालमत्ता व प्रणाली; स्वेच्छा हस्तांतरण प्रोत्साहने*) संक्रमण अधिकाऱ्यांवर जे काही कर्तव्य ठेवतो तेही यात येते.
     - **प्रामाणिक अहवाल:** सत्यापित लेजर माहितीशिवाय कोणताही किमान निकष अंमलबजावणीयोग्य किंवा साध्य झालेला, अथवा कोणतेही अंतर बंद झालेले असल्याचे दाखवू नये.
 
     एखाद्या व्याप्तीसाठी मंच तयार होण्यापूर्वी संयमाची कर्तव्ये तात्पुरती कशी लागू करावीत हे [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*हक्क-किमान प्राप्ती लेजर*) नियंत्रित करते.
@@ -446,7 +446,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य समतोल तत्त्वे](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), आणि [§14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य समतोल तत्त्वे](core_01_b_interaction_interpretation.md#131-मखय-तडजड-तततव), आणि [§14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -489,7 +489,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य समतोल तत्त्वे](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), आणि [§20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य समतोल तत्त्वे](core_01_b_interaction_interpretation.md#131-मखय-तडजड-तततव), आणि [§20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एकतमक-अनपरयग).
 - यासोबत वाचा: [अध्याय आठ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*प्रणाली संरेखन प्रमाणन*); [अध्याय दहा ते बारा](core_00_preamble.md#62-how-the-full-chain-fits-together) (*स्थिती कार्यप्रवाह व मंच पर्यवेक्षण*).
 
 </details>
@@ -497,7 +497,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
 
-- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#लखपरकषण-यगयत) · [O](core_05_band_oversight.md#लखपरकषण-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [उलटवण्याची क्षमता](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

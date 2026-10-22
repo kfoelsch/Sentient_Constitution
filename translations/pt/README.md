@@ -5,9 +5,9 @@
 
 > O conteúdo a seguir é **apenas orientação para quem lê**. Não acrescenta, retira nem estreita obrigações vinculantes.
 >
-> Esta pasta é um **piloto de idioma de leitura**. **Não** é a Constituição Senciente. **Não** pode alterar os arquivos numerados `core_*`. **Não** é uma edição de envio. Lê-la **não** é [adotar esta Constituição](../../core_17_amendment_ratification.md#10-ratification-and-adoption). Se uma tradução e o original em inglês parecerem discordar, ganham os `core_*` numerados em inglês até que uma edição posterior diga o contrário. Veja [Reader-language editions](../../doc_architecture.md#reader-language-editions).
+> Esta pasta é um **piloto de idioma de leitura**. **Não** é a Constituição Senciente. **Não** pode alterar os arquivos numerados `core_*`. **Não** é uma edição de envio. Lê-la **não** é [adotar esta Constituição](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption). Se uma tradução e o original em inglês parecerem discordar, ganham os `core_*` numerados em inglês até que uma edição posterior diga o contrário. Veja [Reader-language editions](../../doc_architecture.md#reader-language-editions-shipping-order).
 >
-> **Fixado à edição do corpus:** `SC-Corpus-2026.08.09` (vigente em 2026-08-09; [README.md](../../README.md)). **Pré-lançamento.**
+> **Fixado à edição do corpus:** `SC-Corpus-2026.10.21` (vigente em 2026-10-21; [README.md](../../README.md)). **Pré-lançamento.**
 
 </details>
 
@@ -17,35 +17,36 @@
 
 **Local.** Português brasileiro. Não congela um país. O português europeu é outro perfil de alcance; não é este slot. O português não substitui o espanhol.
 
-**Próximo agrupamento, segundo a arquitetura.** Depois das cinco línguas de envio: português (brasileiro), bengali, depois francês, depois urdu. Este piloto traduz o [Preâmbulo](core_00_preamble.md) e o [Capítulo Um, Parte A](core_01_a_values_principles.md) de propósito, para medir o custo de um `core_*` numerado. Uma porta de leitura não é intervenção política.
+**Próximo agrupamento, segundo a arquitetura.** Depois das cinco línguas de envio: português (brasileiro), bengali, depois francês, depois urdu. Este piloto inclui o [Preâmbulo](core_00_preamble.md), o [Capítulo Um, Parte A](core_01_a_values_principles.md) e um rascunho assistido por IA do [Capítulo Sete](core_07_charters.md), para medir o custo e o método de traduzir arquivos `core_*` numerados. O rascunho do Capítulo Sete ainda aguarda revisão independente fluente em português. Uma porta de leitura não é intervenção política.
 
 ## Arquivos
 
 | Arquivo | Original em inglês |
 |---|---|
-| [core_00_preamble.md](core_00_preamble.md) | [core_00_preamble.md](../../core_00_preamble.md) |
-| [core_01_a_values_principles.md](core_01_a_values_principles.md) | [core_01_a_values_principles.md](../../core_01_a_values_principles.md) |
-| [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) | [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md) |
-| [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) | [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md) |
-| [core_02_definition_structure.md](core_02_definition_structure.md) | [core_02_definition_structure.md](../../core_02_definition_structure.md) |
-| [core_03_definition_integrity.md](core_03_definition_integrity.md) | [core_03_definition_integrity.md](../../core_03_definition_integrity.md) |
-| [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md) | [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md) |
-| [core_05__definitions_home.md](core_05__definitions_home.md) | [core_05__definitions_home.md](../../core_05__definitions_home.md) |
-| [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md) | [core_05_apex_accountability_leg.md](../../core_05_apex_accountability_leg.md) |
-| [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md) |
-| [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | [core_05_apex_flourishing_aim.md](../../core_05_apex_flourishing_aim.md) |
-| [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05_apex_oversight_leg.md) |
-| [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05_apex_participation_leg.md) |
-| [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05_apex_timeliness_leg.md) |
-| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md) |
-| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09_a_system_alignment_certification_evaluation.md) |
-| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09_b_system_alignment_certification_record_process.md) |
-| [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08_functional_independence_segregation_of_duties.md) |
-| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10_standing_assessment.md) |
-| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11_standing_integration.md) |
-| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12_a_misconduct_designation.md) |
-| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14_governance.md) |
-| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13_forum.md) |
+| [core_00_preamble.md](core_00_preamble.md) | [core_00_preamble.md](../../core_00.000_preamble.md) |
+| [core_01_a_values_principles.md](core_01_a_values_principles.md) | [core_01_a_values_principles.md](../../core_01.005_values_principles.md) |
+| [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) | [core_01_b_interaction_interpretation.md](../../core_01.010_interaction_interpretation.md) |
+| [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) | [core_01_c_stewardship_capacity_principles.md](../../core_01.015_stewardship_capacity_principles.md) |
+| [core_02_definition_structure.md](core_02_definition_structure.md) | [core_02_definition_structure.md](../../core_02.000_definition_structure.md) |
+| [core_03_definition_integrity.md](core_03_definition_integrity.md) | [core_03_definition_integrity.md](../../core_03.000_definition_integrity.md) |
+| [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md) | [core_04_burden_traceability_verification.md](../../core_04.000_burden_traceability_verification.md) |
+| [core_05__definitions_home.md](core_05__definitions_home.md) | [core_05__definitions_home.md](../../core_05.000_definitions_home.md) |
+| [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md) | [core_05_apex_accountability_leg.md](../../core_05.005_apex_accountability_leg.md) |
+| [core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) | [core_05_apex_continuity_aim.md](../../core_05.010_apex_continuity_aim.md) |
+| [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md) | [core_05_apex_flourishing_aim.md](../../core_05.015_apex_flourishing_aim.md) |
+| [core_05_apex_oversight_leg.md](core_05_apex_oversight_leg.md) | [core_05_apex_oversight_leg.md](../../core_05.020_apex_oversight_leg.md) |
+| [core_05_apex_participation_leg.md](core_05_apex_participation_leg.md) | [core_05_apex_participation_leg.md](../../core_05.025_apex_participation_leg.md) |
+| [core_05_apex_timeliness_leg.md](core_05_apex_timeliness_leg.md) | [core_05_apex_timeliness_leg.md](../../core_05.030_apex_timeliness_leg.md) |
+| [core_07_charters.md](core_07_charters.md) | [core_07_charters.md](../../core_07.000_charters.md) |
+| [core_07_functional_independence_segregation_of_duties.md](core_07_functional_independence_segregation_of_duties.md) | [core_07_functional_independence_segregation_of_duties.md](../../core_08.000_functional_independence_separation_of_duties.md) |
+| [core_07_system_alignment_certification.md](core_07_system_alignment_certification.md) | [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification.md) |
+| [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md) | [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md) |
+| [core_07_b_system_alignment_certification_record_process.md](core_07_b_system_alignment_certification_record_process.md) | [core_07_b_system_alignment_certification_record_process.md](../../core_09.010_system_alignment_certification_record_process.md) |
+| [core_08_standing_assessment.md](core_08_standing_assessment.md) | [core_08_standing_assessment.md](../../core_10.000_standing_assessment.md) |
+| [core_09_standing_integration.md](core_09_standing_integration.md) | [core_09_standing_integration.md](../../core_11.000_standing_integration.md) |
+| [core_10_a_misconduct_designation.md](core_10_a_misconduct_designation.md) | [core_10_a_misconduct_designation.md](../../core_12.005_misconduct_designation.md) |
+| [core_12_governance.md](core_12_governance.md) | [core_12_governance.md](../../core_14.000_governance.md) |
+| [core_11_forum.md](core_11_forum.md) | [core_11_forum.md](../../core_13.000_forum.md) |
 
 Os links do piloto apontam para arquivos em inglês ainda sem tradução. As âncoras HTML (`id`) são copiadas do original para comparar trecho a trecho.
 
@@ -68,6 +69,12 @@ Termos de casa usados de forma estável no português do piloto. Não são defin
 | timeliness | atuação em tempo | Um dever; não «oportunidade» no sentido de chance |
 | forum / forums / forum family | fórum / fóruns / família de fóruns | Nunca *tribunal* nem *corte* institucionais |
 | standing records / measurement / effects / lock | registros / medição / efeitos / trava de trajetória | Não *legitimação processual* |
+| Standing Record / standing lock | Registro de Posição / trava de posição | Estado constitucional e seus bloqueios, não legitimação processual |
+| System Charter / Institutional Charter | Carta do Sistema / Carta Institucional | Documentos de escopo publicados |
+| Charter Role Map / Charter Pointer | Mapa de Funções da Carta / Ponteiro da Carta | Mapa de assentos e referência publicada |
+| Chartered Party / Operating Party | Parte Constituída / Parte Operadora | Categoria da parte e entidade que efetivamente opera |
+| formation check / Interim Hold | verificação de formação / Suspensão Provisória | |
+| Dissolution Reformation Lock | Trava de Reconstituição após Dissolução | |
 | named pathway | via nomeada | |
 | Constitutional Contract Layer | Camada do Contrato Constitucional | Quem pode governar |
 | Stakeholder System Participation | Participação Sistêmica das Partes Afetadas | Voz dentro de sistemas já autorizados |

@@ -69,7 +69,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13 إجراءات حل التعارض الدستوري](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، و[§15 التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13 إجراءات حل التعارض الدستوري](core_01_b_interaction_interpretation.md#13-عملية-حل-التعارض-الدستوري)، و[§15 التفسير الدستوري](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - تُقرأ مع: عائلة قياس التوقيت (*الحل في الوقت المناسب بوصفه قياساً دستورياً*).
 
 </details>
@@ -81,9 +81,9 @@ flowchart TB
 - [الإنصاف الإجرائي](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [الحل في الوقت المناسب](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [العدالة التصالحية](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [الشفافية](core_05_band_oversight.md#الشفافية) · [O](core_05_band_oversight.md#الشفافية) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -111,7 +111,7 @@ flowchart TB
 *المواد ذات الصلة:*
 
 - **حد التوقيت المناسب:** تحكم **المادة XXVI-C** (*حد الحل في الوقت المناسب ومكافحة التأخير*) سرعة الحل، والانضباط في مكافحة التأخير، ومراحل الإنجاز بحسب درجات الجوهرية، ويجري تنفيذها من خلال [الفصل الثاني عشر §6 الحل في الوقت المناسب ودرجات الجوهرية والانضباط في مكافحة التأخير](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- **الانتصاف في الوقت المناسب:** تُقرأ مع [**المادة XIII-B** (*الحق في الانتصاف والمعالجة*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*إتاحة الانتصاف في الوقت المناسب*).
+- **الانتصاف في الوقت المناسب:** تُقرأ مع [**المادة XIII-B** (*الحق في الانتصاف والمعالجة*)](core_06_rights_part_c.md#المادة-xiii-b-الحق-في-الانتصاف-والمعالجة) (*إتاحة الانتصاف في الوقت المناسب*).
 - **تدابير الطوارئ:** يحكمها [الفصل الثاني عشر §6.1 تدابير الطوارئ وعبء استمرارها](core_12_forum.md#61-emergency-measures-and-continuation-burden). وتحكم **المادة XXVI-A** (*المراجعة الاستعادية والإفصاح*) المراجعة الاستعادية لتدبير طارئ.
 - **العدالة بعد التحقق من وقوع الانتهاك:** تحكمها **المادة XX** (*العدالة بعد التحقق من وقوع الانتهاك*).
 
@@ -126,16 +126,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-قيود-الإفصاح-المعرفي)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-التطبيق-المتكامل).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -163,7 +163,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§13.1.5 اختبار تقرير تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[§14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- المنبع: المبادئ: الفصل الأول [§13.1.5 اختبار تقرير تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[§14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-التطبيق-المتكامل).
 - تُقرأ مع: [الفصل العاشر §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*التعبير الطوعي عن المساءلة العامة*)؛ و[الفصل الحادي عشر §4.3](core_11_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*التعبير الطوعي عن المساءلة العامة (المضاد للدستور)*).
 
 </details>
@@ -202,7 +202,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
 - المنبع: عائلة قياس التوقيت (*الحل في الوقت المناسب والانضباط في مكافحة التأخير بوصفهما قياساً دستورياً*)؛ [الديباجة §6.2 كيفية ترابط السلسلة الكاملة](core_00_preamble.md#62-how-the-full-chain-fits-together) (*مسار تنسيق الصفة والتكامل والمنتدى*).
-- المبادئ: الفصل الأول [§9.2 الكفاءة الدستورية](core_01_a_values_principles.md#92-constitutional-efficiency)، و[الفصل الأول §13.3 تقليل العبء الممكن تجنبه](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، و[الفصل الأول §13.1.5 إجراءات تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- المبادئ: الفصل الأول [§9.2 الكفاءة الدستورية](core_01_a_values_principles.md#92-الكفاءة-الدستورية)، و[الفصل الأول §13.3 تقليل العبء الممكن تجنبه](core_01_b_interaction_interpretation.md#133-تقليل-العبء-الممكن-تجنبه)، و[الفصل الأول §13.1.5 إجراءات تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - المصب: [الفصل الثاني عشر §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*درجات الجوهرية ومراحل المسار والانضباط في مكافحة التأخير*)؛ و[الفصل الثاني عشر §6.1 تدابير الطوارئ وعبء استمرارها](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*الحدود القصوى نفسها المقررة افتراضياً لمهل استعادة الإخطار والطعن بعد احتواء الطوارئ*).
 - مدخل الجهة الوصية (غير تشغيلي): بطاقة الخطوة التالية: [التأخير](implementation/STEWARD_ENTRY_DOORS.md#delay). ولا يجوز للبطاقة أن تضيّق الدستور.
 
@@ -229,7 +229,7 @@ flowchart TB
 - **غرض التنسيق:** تعمل العدالة الدستورية بموجب **المادة XX-A** (*هدف العدالة ونطاقها*) من خلال **نظام دستوري للتنسيق والحل** — التحقق من الوقائع، وقياس الصفة، ودمج العواقب، والاستعادة حيثما أمكن — لا عبر تأخير خصومي بلا نهاية أو تقييم السمعة أو العقاب لذاته.
 - **ثلاثة متطلبات مشتركة:** يجب أن تكون مسارات الحل الجوهرية **في الوقت المناسب** و**فعّالة** و**عادلة** مجتمعةً:
   - **في الوقت المناسب** — مهل محددة تتناسب مع [حجم المصلحة](core_00_preamble.md#material-stake) وإلحاح الضرر؛
-  - **فعّالة** — [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency) بمعنى [§9.2 الكفاءة الدستورية](core_01_a_values_principles.md#92-constitutional-efficiency) من الفصل الأول — أي تحقيق نتيجة دستورية فعلية مقابل وقت الكائنات الواعية والجهد المشترك المستهلك، لا مجرد حجم المعاملات أو تصفية القضايا؛
+  - **فعّالة** — [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency) بمعنى [§9.2 الكفاءة الدستورية](core_01_a_values_principles.md#92-الكفاءة-الدستورية) من الفصل الأول — أي تحقيق نتيجة دستورية فعلية مقابل وقت الكائنات الواعية والجهد المشترك المستهلك، لا مجرد حجم المعاملات أو تصفية القضايا؛
   - **عادلة** — تظل **المادة XX-A** (*هدف العدالة ونطاقها*) و**المادة XX-B** (*حدود القيود الدنيا*) واجبتَي التطبيق بالكامل؛ ولا يبرر الإسراع تجاوز الوقائع المتحقق منها ([الفصل التاسع §3.1 بوابة المدخلات المتحقق منها](core_09_standing_assessment.md#verified-inputs-for-standing))، أو معاقبة الطرف الخطأ، أو تقديم معالجة لا تناسب الضرر، أو منع الطعن والاستئناف.
 - **الإشراف على المنتدى والمسار:** تخضع المسائل التالية المتعلقة بالنزاعات الموجهة عبر **الفصول التاسع إلى الثاني عشر** لـ [الفصل الثاني عشر §6 الحل في الوقت المناسب ودرجات الجوهرية والانضباط في مكافحة التأخير](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)، مع مراعاة الحد الذي تقرره هذه المادة للحل في الوقت المناسب والفعّال والعادل:
   - تصنيف درجة الجوهرية؛
@@ -259,13 +259,13 @@ flowchart TB
 - **المساءلة:** يجب على من يسيطرون على الحوكمة الإجابة عندما تبقى القواعد لمجرد العادة أو الملاءمة، وكذلك عندما يُعاد توجيه تغيير دستوري حقيقي عبر تسميات الطوارئ أو التنفيذ أو الحيازة للالتفاف على **الحدود الدنيا لحدود الحقوق** أو قواعد تغيير الدستور على نحو قانوني.
 - **التوقيت المناسب:** عبر إعادة التحقق المجدولة والمراجعة المعجّلة عند ظهور ضغط الاستحواذ أو إقصاء أصحاب المصلحة أو تراجع حقوق الطعن أو قصور جوهري في الأداء.
 
-تظل قواعد الحوكمة وآليات المشاركة ونماذج الترجيح وهياكل التمويل خاضعة لانضباط التبرير المستمر في [الفصل الأول §18.4 التبرير المستمر](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). وتحدد **المادة XXVII-A** (*عدم التحصين وقابلية المراجعة*) و**المادة XXVII-B** (*إعادة التحقق الدورية والتغيير الشفاف*) الحدود التشغيلية الدنيا لعدم التحصين وإعادة التحقق والتغيير الشفاف.
+تظل قواعد الحوكمة وآليات المشاركة ونماذج الترجيح وهياكل التمويل خاضعة لانضباط التبرير المستمر في [الفصل الأول §18.4 التبرير المستمر](core_01_c_stewardship_capacity_principles.md#184-التبرير-المستمر). وتحدد **المادة XXVII-A** (*عدم التحصين وقابلية المراجعة*) و**المادة XXVII-B** (*إعادة التحقق الدورية والتغيير الشفاف*) الحدود التشغيلية الدنيا لعدم التحصين وإعادة التحقق والتغيير الشفاف.
 
 #### المادة XXVII-A: عدم التحصين وقابلية المراجعة
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: [الفصل الأول §18.4 التبرير المستمر](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)؛ والفصل الأول [§3 الهدف الأساسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، و[الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- المنبع: المبادئ: [الفصل الأول §18.4 التبرير المستمر](core_01_c_stewardship_capacity_principles.md#184-التبرير-المستمر)؛ والفصل الأول [§3 الهدف الأساسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، و[الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -273,7 +273,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [الشفافية](core_05_band_oversight.md#الشفافية) · [O](core_05_band_oversight.md#الشفافية) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [صاحب المصلحة](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -303,7 +303,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الشفافية](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [الشفافية](core_05_band_oversight.md#الشفافية) · [O](core_05_band_oversight.md#الشفافية) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -338,7 +338,7 @@ flowchart TB
 
 ويتحقق السعي المشروع عبر [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، وبما يتناسب مع [حجم المصلحة](core_00_preamble.md#material-stake) — فكلما زاد الأثر والاعتماد والمخاطر، وجب تعزيز كل واجب:
 
-- **المشاركة:** يكون لأصحاب المصلحة المتأثرين صوت حقيقي في كل مرحلة انتقالية، بما في ذلك فرصة الاطلاع على [معايير البوابة](core_05_band_oversight.md#gate-criteria) (الاختبارات المنشورة التي يجب أن تجتازها المرحلة قبل انتقال الخطة) والتعليق عليها قبل اعتمادها، ورؤية أدلة استيفائها، والطعن في قرار البوابة؛ وفرصة الاعتراض على المصادرات أو القيود أثناء الانتقال؛ وإبداء الرأي عند تجديد السلطات المؤقتة التي تمس الحقوق أو الصفة.
+- **المشاركة:** يكون لأصحاب المصلحة المتأثرين صوت حقيقي في كل مرحلة انتقالية، بما في ذلك فرصة الاطلاع على [معايير البوابة](core_05_band_oversight.md#معايير-البوابة) (الاختبارات المنشورة التي يجب أن تجتازها المرحلة قبل انتقال الخطة) والتعليق عليها قبل اعتمادها، ورؤية أدلة استيفائها، والطعن في قرار البوابة؛ وفرصة الاعتراض على المصادرات أو القيود أثناء الانتقال؛ وإبداء الرأي عند تجديد السلطات المؤقتة التي تمس الحقوق أو الصفة.
 - **الرقابة:** يجب أن يظل الانتقال قابلاً للمشاهدة والتحقق — تُستوفى البوابات وتوثق، وتخضع السلطة المؤقتة لمراجعة مستقلة، ويُقاس التقدم بتقلص نطاقها المؤقت ونضج العمل الدستوري والتحقق من بلوغ حدود الحقوق، وتكون السجلات قابلة للتدقيق، وتُنشر أسباب التأخير أو التراجع أو إعادة تحديد خط الأساس.
 - **المساءلة:** يجب على القائمين على الانتقال الإجابة عن استخدامه ستاراً للتأخير الذي تسببوا فيه، أو اختصارات الملاءمة، أو الإنفاذ الذرائعي، أو فراغ الحوكمة، أو التثبيت بعد فشل المراحل، أو خفض الحدود الدستورية الدنيا خفيةً بسبب عدم مواءمة التنفيذ.
 - **التوقيت المناسب:** تحمل السلطات المؤقتة تواريخ انتهاء فعلية؛ وكلما طالت مدتها وازدادت الحقوق التي تمسها، وجب رفع معيار إعادة التفويض؛ كما تحتاج الانتقالات المتعثرة إلى مخارج قانونية قبل أن يتحول الجمود المؤقت إلى الوضع الطبيعي الجديد.
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 المبادئ الأساسية للمفاضلة](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ و[الفصل العاشر §5.4](core_10_standing_integration.md#54-special-violation-rules) (*مصادرة المكافآت غير المتوائمة والإبلاغ عنها، على نحو يحده هذا المقال أثناء الانتقال*)؛ و[الفصل الثامن — شهادة مواءمة النظام](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 المبادئ الأساسية للمفاضلة](core_01_b_interaction_interpretation.md#131-مبادئ-المفاضلة-الأساسية)، و[الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ و[الفصل العاشر §5.4](core_10_standing_integration.md#54-special-violation-rules) (*مصادرة المكافآت غير المتوائمة والإبلاغ عنها، على نحو يحده هذا المقال أثناء الانتقال*)؛ و[الفصل الثامن — شهادة مواءمة النظام](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -373,7 +373,7 @@ flowchart TB
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [الرفاه](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [حفظ الأدلة](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [حفظ الأدلة](core_05_band_oversight.md#حفظ-الأدلة) · [O](core_05_band_oversight.md#حفظ-الأدلة) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -384,7 +384,7 @@ flowchart TB
 
 تحدد هذه المادة الاعتماد المرحلي وكيفية إنفاذ الحدود الدنيا لحدود الحقوق مع بناء الجاهزية:
 
-- **الاعتماد المرحلي ومعايير البوابة:** يجب أن تكون خطط الانتقال مرحلية وقابلة للمراجعة. و[**البوابة**](core_05_band_oversight.md#gate) هي نقطة التحقق بين مرحلتين أو قبل توسيع نطاق الاعتماد. أما [**معايير البوابة**](core_05_band_oversight.md#gate-criteria) فهي الشروط المحددة والقابلة للقياس التي تنشرها الخطة مسبقاً، ويجب إثبات استيفائها بأدلة متحقق منها قبل فتح البوابة.
+- **الاعتماد المرحلي ومعايير البوابة:** يجب أن تكون خطط الانتقال مرحلية وقابلة للمراجعة. و[**البوابة**](core_05_band_oversight.md#بوابة) هي نقطة التحقق بين مرحلتين أو قبل توسيع نطاق الاعتماد. أما [**معايير البوابة**](core_05_band_oversight.md#معايير-البوابة) فهي الشروط المحددة والقابلة للقياس التي تنشرها الخطة مسبقاً، ويجب إثبات استيفائها بأدلة متحقق منها قبل فتح البوابة.
   - يجب أن يستند الانتقال بين المراحل إلى توثيق استيفاء معايير البوابة المنشورة، بما فيها بلوغ حدود الحقوق ومعالم الجاهزية للإنفاذ في المرحلة، استناداً إلى بيانات سجل متحقق منها لا إلى مجرد الادعاء.
   - ولا يجوز أن يستند وحده إلى أي مما يلي:
     - مرور الوقت؛
@@ -392,12 +392,12 @@ flowchart TB
     - الضغط السياسي.
   - تُنشر المعايير والأدلة على استيفائها وقرار البوابة. ويجوز لأصحاب المصلحة المتأثرين التعليق على المعايير قبل اعتمادها والطعن في القرار.
   - يحكم محتوى المعايير وتعيين المسؤولين وأدوات التحقق كل من [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*الحوكمة الانتقالية والتطور المؤسسي*) و[**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*معايير البوابة وقواعد التقدم*).
-- **اعتماد حدود الحقوق — الامتناع فوراً، والتوفير مع بناء الجاهزية:** تكون **الحدود الدنيا لحدود الحقوق** المطبقة بموجب **المادة VI** (*الحقوق الأساسية المتساوية*) وفق [مبدأ الحدود الدنيا لحدود الحقوق](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)، مع أي حدود أقوى خاصة بالمجال للبقاء والقدرة على التصرف وعدم التمييز والإتاحة وقابلية التدقيق والانتصاف التي يقتضيها السياق المتأثر، هي الهدف المعتمد في كل مرحلة. ولا يمكن إنفاذ حد الحقوق بالكامل حتى توجد المؤسسات والثقافة اللازمة لذلك، ولا تدّعي هذه المادة خلاف ذلك. كما أنها لا تسمح بخفض الحد لهذا السبب. لذا تكون الحدود ملزمة بطريقتين تبعاً لنوع الواجب:
+- **اعتماد حدود الحقوق — الامتناع فوراً، والتوفير مع بناء الجاهزية:** تكون **الحدود الدنيا لحدود الحقوق** المطبقة بموجب **المادة VI** (*الحقوق الأساسية المتساوية*) وفق [مبدأ الحدود الدنيا لحدود الحقوق](core_01_b_interaction_interpretation.md#مبدأ-الحدود-الدنيا-للأرضية-الحقوقية)، مع أي حدود أقوى خاصة بالمجال للبقاء والقدرة على التصرف وعدم التمييز والإتاحة وقابلية التدقيق والانتصاف التي يقتضيها السياق المتأثر، هي الهدف المعتمد في كل مرحلة. ولا يمكن إنفاذ حد الحقوق بالكامل حتى توجد المؤسسات والثقافة اللازمة لذلك، ولا تدّعي هذه المادة خلاف ذلك. كما أنها لا تسمح بخفض الحد لهذا السبب. لذا تكون الحدود ملزمة بطريقتين تبعاً لنوع الواجب:
   - **واجبات الامتناع** — ما يجب على المتبني وسلطات الانتقال عدم فعله — تكون ملزمة من تاريخ السريان، لأن احترامها لا يحتاج إلى مؤسسة جديدة:
     - **لا تراجع مع العلم أو الممكن تفاديه:** لا يجوز خفض قدرة أي كائن واعٍ عمداً أو بصورة يمكن تفاديها على الاستفادة من حماية حد الحقوق دون **مقياس البداية**، ولا يجوز لتدبير انتقالي أن يجعل ممارسة أي حد أصعب جوهرياً.
     - **لا انتهاكات جديدة:** يجب تصميم الأنظمة والسياسات والممارسات الجديدة والتوسعات الجوهرية لما هو قائم بما يحقق الحد منذ البداية. ولا يشمل مسار البلوغ أدناه إلا أوجه القصور الموروثة، لا السلوك الجديد.
     - **لا خسارة يتعذر تداركها:** يسري افتراض الحفظ أدناه و[الوضع المؤقت الافتراضي §13.1 من الفصل الأول](core_01_b_interaction_interpretation.md#default-interim-posture) بالكامل.
-    - **لا سلوك مهين أو ذرائعي أو تمييزي أو إخفائي** في تدابير الانتقال، بما في ذلك جميع ما تفرضه **المادة XXVIII-D** (*الممتلكات والأنظمة غير الممتثلة؛ حوافز التسليم الطوعي*) على سلطات الانتقال، بموجب [مبدأ الإجراءات غير المهينة](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+    - **لا سلوك مهين أو ذرائعي أو تمييزي أو إخفائي** في تدابير الانتقال، بما في ذلك جميع ما تفرضه **المادة XXVIII-D** (*الممتلكات والأنظمة غير الممتثلة؛ حوافز التسليم الطوعي*) على سلطات الانتقال، بموجب [مبدأ الإجراءات غير المهينة](core_01_b_interaction_interpretation.md#مبدأ-الإجراءات-المنافية-للكرامة).
     - **الإبلاغ الصادق:** لا يجوز وصف أي حد بأنه واجب الإنفاذ أو متحقق، ولا أي فجوة بأنها مغلقة، إلا استناداً إلى بيانات سجل متحقق منها.
 
     يحكم [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*سجل بلوغ حدود الحقوق*) الإنفاذ المؤقت لواجبات الامتناع قبل جاهزية محكمة لنطاق معين.
@@ -442,7 +442,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 المبادئ الأساسية للمفاضلة](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[§14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 المبادئ الأساسية للمفاضلة](core_01_b_interaction_interpretation.md#131-مبادئ-المفاضلة-الأساسية)، و[§14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -485,7 +485,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 المبادئ الأساسية للمفاضلة](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 المبادئ الأساسية للمفاضلة](core_01_b_interaction_interpretation.md#131-مبادئ-المفاضلة-الأساسية)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-التطبيق-المتكامل).
 - تُقرأ مع: [الفصل الثامن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*شهادة مواءمة النظام*)؛ و[الفصول التاسع إلى الثاني عشر](core_00_preamble.md#62-how-the-full-chain-fits-together) (*مسار الصفة والإشراف على المحاكم*).
 
 </details>
@@ -493,7 +493,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [قابلية العكس](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

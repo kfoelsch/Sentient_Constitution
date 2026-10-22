@@ -70,7 +70,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§15 రాజ్యాంగ వ్యాఖ్యానం](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ](core_01_b_interaction_interpretation.md#13-రజయగ-ఘరషణ-పరషకర-పరకరయ), [§15 రాజ్యాంగ వ్యాఖ్యానం](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - వీటితో కలిపి చదవాలి: సకాలికత కొలతల సమూహం (*రాజ్యాంగ కొలమానంగా సకాలిక పరిష్కారం*).
 
 </details>
@@ -82,9 +82,9 @@ flowchart TB
 - [విధానపరమైన న్యాయం](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [సకాలిక పరిష్కారం](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [పునరుద్ధరణాత్మక న్యాయం](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#ఆడట-యగయత) · [O](core_05_band_oversight.md#ఆడట-యగయత) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [సవాలు చేయగలగడం](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [పారదర్శకత](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [పారదర్శకత](core_05_band_oversight.md#పరదరశకత) · [O](core_05_band_oversight.md#పరదరశకత) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -112,7 +112,7 @@ flowchart TB
 *పక్కనున్న వ్యాసాలు:*
 
 - **సకాలికత కనీస ప్రమాణం:** పరిష్కార వేగం, ఆలస్య నిరోధ క్రమశిక్షణ, భౌతిక ప్రాముఖ్యత స్థాయిల మైలురాళ్లు **వ్యాసం XXVI-C** (*సకాలిక పరిష్కారం, ఆలస్య నిరోధ కనీస ప్రమాణం*)లో ఉంటాయి; ఇవి [అధ్యాయం పదమూడు §6 సకాలిక పరిష్కారం, భౌతిక ప్రాముఖ్యత స్థాయిలు, ఆలస్య నిరోధ క్రమశిక్షణ](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ద్వారా అమలవుతాయి.
-- **సకాలిక పరిహారం:** [**వ్యాసం XIII-B** (*పరిహారం, ఉపశమన హక్కు*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*సకాలిక పరిహార ప్రవేశం*)తో కలిపి చదవాలి.
+- **సకాలిక పరిహారం:** [**వ్యాసం XIII-B** (*పరిహారం, ఉపశమన హక్కు*)](core_06_rights_part_c.md#ఆరటకల-xiii-b-పరహర-మరయ-నవరణ-హకక) (*సకాలిక పరిహార ప్రవేశం*)తో కలిపి చదవాలి.
 - **అత్యవసర చర్యలు:** [అధ్యాయం పదమూడు §6.1 అత్యవసర చర్యలు, కొనసాగింపుకు సంబంధించిన భారం](core_13_forum.md#61-emergency-measures-and-continuation-burden) ప్రకారం ఉంటాయి. అత్యవసర చర్యపై గతసమీక్ష **వ్యాసం XXVI-A** (*గతసమీక్ష, వెల్లడింపు*) ప్రకారం ఉంటుంది.
 - **ధృవీకరించిన ఉల్లంఘన తర్వాత న్యాయం:** **వ్యాసం XX** (*ధృవీకరించిన ఉల్లంఘన తర్వాత న్యాయం*) ప్రకారం ఉంటుంది.
 
@@ -127,16 +127,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 జ్ఞాన సంబంధ వెల్లడింపు పరిమితులు](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 జ్ఞాన సంబంధ వెల్లడింపు పరిమితులు](core_01_b_interaction_interpretation.md#132-జఞన-సబధత-బహరగత-పరమతల), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
 
-- [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#ఆడట-యగయత) · [O](core_05_band_oversight.md#ఆడట-యగయత) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#సతయ-రజయగ-పరమత) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -165,7 +165,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§13.1.5 హక్కుల ఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§13.1.5 హక్కుల ఘర్షణ నిర్ణయ పరీక్ష](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
 - వీటితో కలిపి చదవాలి: [అధ్యాయం పదకొండు §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression) (*స్వచ్ఛంద ప్రజా జవాబుదారీ ప్రకటన*); [అధ్యాయం పన్నెండు §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*స్వచ్ఛంద ప్రజా జవాబుదారీ ప్రకటన (రాజ్యాంగవ్యతిరేకం)*).
 
 </details>
@@ -205,7 +205,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
 - పైస్థాయి ఆధారాలు: సకాలికత కొలతల సమూహం (*రాజ్యాంగ కొలమానంగా సకాలిక పరిష్కారం, ఆలస్య నిరోధ క్రమశిక్షణ*); [పీఠిక §6.2 మొత్తం శ్రేణి ఎలా కలుస్తుంది](core_00_preamble.md#62-how-the-full-chain-fits-together) (*స్థితి, సమన్వయం, వేదికల సమన్వయ పైప్‌లైన్*).
-- సూత్రాలు: అధ్యాయం ఒకటి [§9.2 రాజ్యాంగ సామర్థ్యం](core_01_a_values_principles.md#92-constitutional-efficiency), [అధ్యాయం ఒకటి §13.3 నివారించగల భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [అధ్యాయం ఒకటి §13.1.5 హక్కుల ఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- సూత్రాలు: అధ్యాయం ఒకటి [§9.2 రాజ్యాంగ సామర్థ్యం](core_01_a_values_principles.md#92-రజయగ-సమరథత), [అధ్యాయం ఒకటి §13.3 నివారించగల భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-నవరచగల-భరనన-తగగచడ), [అధ్యాయం ఒకటి §13.1.5 హక్కుల ఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - దిగువస్థాయి ఆధారాలు: [అధ్యాయం పదమూడు §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*ప్రాముఖ్యత స్థాయిలు, పైప్‌లైన్ మైలురాళ్లు, ఆలస్య నిరోధ క్రమశిక్షణ*); [అధ్యాయం పదమూడు §6.1 అత్యవసర చర్యలు, కొనసాగింపుకు సంబంధించిన భారం](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*అత్యవసర నియంత్రణ తర్వాత పునరుద్ధరణ-సవాలు డిఫాల్ట్ గడువులకున్న అదే బాహ్య పరిమితులు*).
 - నిర్వాహక ప్రవేశ ద్వారం (కార్యనిర్వాహకమైనది కాదు): తదుపరి దశ కార్డు: [ఆలస్యం](implementation/STEWARD_ENTRY_DOORS.md#delay). ఆ కార్డు రాజ్యాంగాన్ని కుదించలదు.
 
@@ -219,7 +219,7 @@ flowchart TB
 - [రాజ్యాంగ సామర్థ్యం](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [నివారించగల భారం](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [పరిష్కార మార్గాలపై పట్టు](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [ప్రాముఖ్యత](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [ప్రాముఖ్యత](core_05_band_oversight.md#భతకity-determination) · [O](core_05_band_oversight.md#భతకity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -232,7 +232,7 @@ flowchart TB
 - **సమన్వయ ఉద్దేశం:** **వ్యాసం XX-A** (*న్యాయ లక్ష్యం, పరిధి*) ప్రకారం రాజ్యాంగ న్యాయం **రాజ్యాంగ సమన్వయ, పరిష్కార వ్యవస్థ** ద్వారా పనిచేస్తుంది—వాస్తవాలను ధృవీకరించడం, స్థితిని కొలవడం, పరిణామాలను సమన్వయపరచడం, సాధ్యమైనచోట పునరుద్ధరించడం—అనంతమైన ప్రతికూల ఆలస్యం, కీర్తి స్కోరింగ్ లేదా శిక్ష కోసమే శిక్షించడం ద్వారా కాదు.
 - **మూడు సంయుక్త అవసరాలు:** ముఖ్యమైన సమస్యల పరిష్కార మార్గాలు కలిపి **సకాలికంగా, సామర్థ్యవంతంగా, న్యాయంగా** ఉండాలి:
   - **సకాలికం** — [భౌతిక ప్రాముఖ్యత](core_00_preamble.md#material-stake), హాని అత్యవసరతకు అనుగుణంగా నిర్దేశిత గడువులు;
-  - **సామర్థ్యవంతం** — [**అధ్యాయం ఒకటి §9.2 రాజ్యాంగ సామర్థ్యం**](core_01_a_values_principles.md#92-constitutional-efficiency) లోని భావంలో [రాజ్యాంగ సామర్థ్యం](core_05_band_continuity.md#constitutional-efficiency): వినియోగించిన సజ్ఞ జీవుల సమయం, ఉమ్మడి కృషితో పోలిస్తే నిజమైన రాజ్యాంగ ఫలితం; కేవలం ముడి నిర్వహణ వేగం లేదా కేసుల జాబితా ఖాళీ చేయడం కాదు;
+  - **సామర్థ్యవంతం** — [**అధ్యాయం ఒకటి §9.2 రాజ్యాంగ సామర్థ్యం**](core_01_a_values_principles.md#92-రజయగ-సమరథత) లోని భావంలో [రాజ్యాంగ సామర్థ్యం](core_05_band_continuity.md#constitutional-efficiency): వినియోగించిన సజ్ఞ జీవుల సమయం, ఉమ్మడి కృషితో పోలిస్తే నిజమైన రాజ్యాంగ ఫలితం; కేవలం ముడి నిర్వహణ వేగం లేదా కేసుల జాబితా ఖాళీ చేయడం కాదు;
   - **న్యాయం** — **వ్యాసం XX-A** (*న్యాయ లక్ష్యం, పరిధి*), **వ్యాసం XX-B** (*పరిమితుల కనీస ప్రమాణాలు*) పూర్తిగా వర్తిస్తాయి; వేగం, తనిఖీ చేసిన వాస్తవాలను వదిలేయడానికి ([అధ్యాయం పది §3.1 స్థితి కోసం ధృవీకరించిన ఇన్‌పుట్ ద్వారం](core_10_standing_assessment.md#verified-inputs-for-standing)), తప్పు పక్షాన్ని శిక్షించడానికి, హానికి సరిపోని పరిష్కారం ఇవ్వడానికి, సవాలు లేదా అప్పీల్‌ను నిలిపివేయడానికి కారణం కాదు.
 - **వేదిక, పైప్‌లైన్ పర్యవేక్షణ:** **అధ్యాయాలు తొమ్మిది నుంచి పన్నెండు** ద్వారా పంపబడిన వివాదాలకు కింది అంశాలు [అధ్యాయం పదమూడు §6 సకాలిక పరిష్కారం, ప్రాముఖ్యత స్థాయిలు, ఆలస్య నిరోధ క్రమశిక్షణ](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ప్రకారం ఉంటాయి; ఈ వ్యాసంలోని సకాలిక, సామర్థ్యవంతమైన, న్యాయమైన ప్రమాణాలకు లోబడి:
   - ప్రాముఖ్యత స్థాయి వర్గీకరణ;
@@ -262,13 +262,13 @@ flowchart TB
 - **జవాబుదారీతనం:** అలవాటు లేదా సౌలభ్యం కోసమే నియమాలు కొనసాగినప్పుడు పాలనను నియంత్రించేవారు జవాబు చెప్పాలి; అలాగే వాస్తవ రాజ్యాంగ మార్పును అత్యవసర, అమలు లేదా సంరక్షణ అనే లేబుళ్ల ద్వారా మళ్లించి **హక్కుల కనీస ప్రమాణాలను** లేదా రాజ్యాంగాన్ని చట్టబద్ధంగా మార్చే నియమాలను తప్పించుకున్నప్పుడూ జవాబు చెప్పాలి.
 - **సకాలికత:** షెడ్యూల్ చేసిన పునఃధృవీకరణలో, అలాగే పట్టు ఒత్తిడి, భాగస్వాముల మినహాయింపు, సవాలు హక్కు క్షీణత లేదా గణనీయమైన తక్కువ పనితీరు కనిపించినప్పుడు వేగవంతమైన సమీక్షలో.
 
-పాలనా నియమాలు, భాగస్వామ్య విధానాలు, బరువు కేటాయింపు నమూనాలు, నిధుల నిర్మాణాలు [అధ్యాయం ఒకటి §18.4 నిరంతర సమర్థన](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)లోని నిరంతర సమర్థన క్రమశిక్షణకు లోబడి ఉంటాయి. **వ్యాసం XXVII-A** (*స్థిరపరచకపోవడం, పునఃపరిశీలన సాధ్యత*) మరియు **వ్యాసం XXVII-B** (*కాలానుగుణ పునఃధృవీకరణ, పారదర్శక మార్పు*) స్థిరపరచకపోవడం, పునఃధృవీకరణ, పారదర్శక మార్పు కోసం అమలులో ఉండే కనీస ప్రమాణాలను పేర్కొంటాయి.
+పాలనా నియమాలు, భాగస్వామ్య విధానాలు, బరువు కేటాయింపు నమూనాలు, నిధుల నిర్మాణాలు [అధ్యాయం ఒకటి §18.4 నిరంతర సమర్థన](core_01_c_stewardship_capacity_principles.md#184-నరతర-సమరథన)లోని నిరంతర సమర్థన క్రమశిక్షణకు లోబడి ఉంటాయి. **వ్యాసం XXVII-A** (*స్థిరపరచకపోవడం, పునఃపరిశీలన సాధ్యత*) మరియు **వ్యాసం XXVII-B** (*కాలానుగుణ పునఃధృవీకరణ, పారదర్శక మార్పు*) స్థిరపరచకపోవడం, పునఃధృవీకరణ, పారదర్శక మార్పు కోసం అమలులో ఉండే కనీస ప్రమాణాలను పేర్కొంటాయి.
 
 #### వ్యాసం XXVII-A: స్థిరపరచకపోవడం, పునఃపరిశీలన సాధ్యత
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: [అధ్యాయం ఒకటి §18.4 నిరంతర సమర్థన](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); అధ్యాయం ఒకటి [§3 ప్రాథమిక లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [అధ్యాయం ఎనిమిది §3 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: [అధ్యాయం ఒకటి §18.4 నిరంతర సమర్థన](core_01_c_stewardship_capacity_principles.md#184-నరతర-సమరథన); అధ్యాయం ఒకటి [§3 ప్రాథమిక లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [అధ్యాయం ఎనిమిది §3 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -276,7 +276,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
 
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [పారదర్శకత](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [పారదర్శకత](core_05_band_oversight.md#పరదరశకత) · [O](core_05_band_oversight.md#పరదరశకత) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [భాగస్వామి](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -307,7 +307,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
 
-- [పారదర్శకత](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [పారదర్శకత](core_05_band_oversight.md#పరదరశకత) · [O](core_05_band_oversight.md#పరదరశకత) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [సవాలు చేయగలగడం](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -367,7 +367,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §3 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [అధ్యాయం పదకొండు §5.4](core_11_standing_integration.md#54-special-violation-rules) (*ఈ వ్యాసం ద్వారా పరివర్తనలో అసమతుల్య బహుమతుల జప్తు, నివేదన పరిమితం*); [అధ్యాయం ఎనిమిది—వ్యవస్థ సమలేఖన ధృవీకరణ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [అధ్యాయం ఎనిమిది §3 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [అధ్యాయం పదకొండు §5.4](core_11_standing_integration.md#54-special-violation-rules) (*ఈ వ్యాసం ద్వారా పరివర్తనలో అసమతుల్య బహుమతుల జప్తు, నివేదన పరిమితం*); [అధ్యాయం ఎనిమిది—వ్యవస్థ సమలేఖన ధృవీకరణ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -377,7 +377,7 @@ flowchart TB
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [అనుపాతికత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [శ్రేయస్సు](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [సాక్ష్య సంరక్షణ](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [సాక్ష్య సంరక్షణ](core_05_band_oversight.md#సకషయ-సరకషణ) · [O](core_05_band_oversight.md#సకషయ-సరకషణ) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -396,12 +396,12 @@ flowchart TB
     - రాజకీయ ఒత్తిడి.
   - ప్రమాణాలు, అవి నెరవేరిన ఆధారం, ద్వార నిర్ణయం ప్రచురించాలి. ప్రభావిత భాగస్వాములు స్వీకరణకు ముందు ప్రమాణాలపై అభిప్రాయం చెప్పి, నిర్ణయాన్ని సవాలు చేయవచ్చు.
   - ప్రమాణాల విషయం, బాధ్యతదారుల నియామకం, ధృవీకరణ పత్రాలు [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*పరివర్తన పాలన, సంస్థాగత పరిణామం*), [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*ద్వార ప్రమాణాలు, పురోగతి నియమాలు*) ప్రకారం ఉంటాయి.
-- **హక్కుల కనీస ప్రమాణాల స్వీకరణ—ఇప్పుడే నిరోధం, సిద్ధతతో అందజేత:** [హక్కుల కనీస ప్రమాణాల సూత్రం](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) ప్రకారం **వ్యాసం VI** (*సమాన ప్రాథమిక హక్కులు*) కింద వర్తించే హక్కుల కనీస ప్రమాణాలు, ప్రభావిత సందర్భం కోరే జీవనరక్షణ, స్వయంప్రతిపత్తి, వివక్షరాహిత్యం, అందుబాటు, ఆడిట్ చేయగలగడం, పరిహారంపై మరింత కఠిన రంగాల ప్రమాణాలతో సహా, ప్రతి దశలో స్వీకరించిన లక్ష్యం. అమలు చేసే సంస్థలు, సంస్కృతి లేనప్పుడు హక్కుల కనీస ప్రమాణాన్ని పూర్తిగా అమలుచేయలేరు; ఈ వ్యాసం ఆ వాస్తవాన్ని కాదనదు, దాని వల్ల ప్రమాణాన్ని తగ్గించనివ్వదు. కాబట్టి విధి స్వభావాన్ని బట్టి ప్రమాణాలు రెండు విధాలుగా బద్ధమవుతాయి:
+- **హక్కుల కనీస ప్రమాణాల స్వీకరణ—ఇప్పుడే నిరోధం, సిద్ధతతో అందజేత:** [హక్కుల కనీస ప్రమాణాల సూత్రం](core_01_b_interaction_interpretation.md#హకకల-కనస-హమల-సతర) ప్రకారం **వ్యాసం VI** (*సమాన ప్రాథమిక హక్కులు*) కింద వర్తించే హక్కుల కనీస ప్రమాణాలు, ప్రభావిత సందర్భం కోరే జీవనరక్షణ, స్వయంప్రతిపత్తి, వివక్షరాహిత్యం, అందుబాటు, ఆడిట్ చేయగలగడం, పరిహారంపై మరింత కఠిన రంగాల ప్రమాణాలతో సహా, ప్రతి దశలో స్వీకరించిన లక్ష్యం. అమలు చేసే సంస్థలు, సంస్కృతి లేనప్పుడు హక్కుల కనీస ప్రమాణాన్ని పూర్తిగా అమలుచేయలేరు; ఈ వ్యాసం ఆ వాస్తవాన్ని కాదనదు, దాని వల్ల ప్రమాణాన్ని తగ్గించనివ్వదు. కాబట్టి విధి స్వభావాన్ని బట్టి ప్రమాణాలు రెండు విధాలుగా బద్ధమవుతాయి:
   - **నిరోధ విధులు**—స్వీకర్త, పరివర్తన అధికారులు చేయకూడనివి—అమలు తేదీ నుంచే బద్ధమైనవి; వాటిని పాటించేందుకు కొత్త సంస్థ అవసరం లేదు:
     - **తెలిసి లేదా నివారించగల వెనుకడుగు వద్దు:** ఏ సజ్ఞ జీవికైనా హక్కుల రక్షణకు ఉన్న ప్రాప్యతను దాని **ప్రారంభ కొలత** కంటే ఉద్దేశపూర్వకంగా లేదా నివారించగలిగే విధంగా తగ్గించరాదు; ఏ పరివర్తన చర్య కూడా హక్కును వినియోగించడం గణనీయంగా కష్టతరం చేయరాదు.
     - **కొత్త ఉల్లంఘనలు వద్దు:** కొత్త వ్యవస్థలు, విధానాలు, ఆచరణలు మరియు ఉన్నవాటి గణనీయమైన విస్తరణలను మొదటి నుంచే ప్రమాణానికి అనుగుణంగా రూపొందించాలి. దిగువ సాధన మార్గం వారసత్వంగా వచ్చిన లోపాలకే, కొత్త ప్రవర్తనకు కాదు.
     - **తిరిగితెచ్చుకోలేని నష్టం వద్దు:** దిగువ సంరక్షణ డిఫాల్ట్, [అధ్యాయం ఒకటి §13.1 తాత్కాలిక డిఫాల్ట్ వైఖరి](core_01_b_interaction_interpretation.md#default-interim-posture) పూర్తిగా వర్తిస్తాయి.
-    - **అవమానకర, సాకుగా చూపే, వివక్షాత్మక లేదా దాచే ప్రవర్తన వద్దు:** పరివర్తన చర్యల్లో ఇవి నిషేధం; [అవమాన-నిరోధ ప్రక్రియ సూత్రం](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) కింద పరివర్తన అధికారులపై **వ్యాసం XXVIII-D** (*అనుగుణం కాని ఆస్తి, వ్యవస్థలు; స్వచ్ఛంద బదిలీ ప్రోత్సాహకాలు*) విధించే బాధ్యతలన్నీ ఇందులో ఉన్నాయి.
+    - **అవమానకర, సాకుగా చూపే, వివక్షాత్మక లేదా దాచే ప్రవర్తన వద్దు:** పరివర్తన చర్యల్లో ఇవి నిషేధం; [అవమాన-నిరోధ ప్రక్రియ సూత్రం](core_01_b_interaction_interpretation.md#అవమనకర-పరకరయల-నషధ-సతర) కింద పరివర్తన అధికారులపై **వ్యాసం XXVIII-D** (*అనుగుణం కాని ఆస్తి, వ్యవస్థలు; స్వచ్ఛంద బదిలీ ప్రోత్సాహకాలు*) విధించే బాధ్యతలన్నీ ఇందులో ఉన్నాయి.
     - **నిజాయితీగా నివేదించడం:** ధృవీకరించిన లెడ్జర్ డేటా లేకుండా ఏ ప్రమాణాన్నీ అమలుచేయదగినదిగా లేదా సాధించినదిగా చూపరాదు; ఏ అంతరాన్నీ మూసివేసినదిగా చెప్పరాదు.
 
     ఒక పరిధికి వేదిక సిద్ధమయ్యే ముందు నిరోధ విధులను తాత్కాలికంగా అమలుచేయడం [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*హక్కుల కనీస ప్రమాణాల సాధన లెడ్జర్*) ప్రకారం ఉంటుంది.
@@ -446,7 +446,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [§14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [§14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -489,7 +489,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-పరధన-తక-సతరల), [§20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-సమగర-అనవయ).
 - వీటితో కలిపి చదవాలి: [అధ్యాయం ఎనిమిది](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*వ్యవస్థ సమలేఖన ధృవీకరణ*); [అధ్యాయాలు తొమ్మిది నుంచి పన్నెండు](core_00_preamble.md#62-how-the-full-chain-fits-together) (*స్థితి పైప్‌లైన్, వేదికల పర్యవేక్షణ*).
 
 </details>
@@ -497,7 +497,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
 
-- [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#ఆడట-యగయత) · [O](core_05_band_oversight.md#ఆడట-యగయత) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [వెనక్కి మళ్లించగలగడం](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

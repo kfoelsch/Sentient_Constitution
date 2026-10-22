@@ -99,10 +99,10 @@ flowchart TB
 
 - [สถานะการยืนหยัดของผู้เข้าร่วม](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [ผู้มีส่วนได้เสีย](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
-- [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [O](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียม](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [การชดใช้และการแก้ไขเยียวยา](../../core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [สิทธิในการโต้แย้ง](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [การชดใช้และการแก้ไขเยียวยา](../../core_05.035_band_accountability.md#redress-and-remediation) · [O](../../core_05.035_band_accountability.md#redress-and-remediation) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [สิทธิในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -112,7 +112,7 @@ flowchart TB
 
 มาตรานี้กำหนด **เกณฑ์ขั้นต่ำตามรัฐธรรมนูญ** สำหรับสถานะการยืนหยัดและสถานะการเข้าร่วม ภายใต้ [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims):
 
-- **ความรุ่งเรือง:** ผู้มีความรู้สึกสามารถได้รับและโต้แย้งคุณสมบัติของบทบาทผ่านเส้นทางที่ระบุชื่อไว้อย่างถูกต้อง มีความหลากหลาย และตรวจสอบได้ โดยไม่ใช้ป้ายสถานะการยืนหยัดแทนศักดิ์ศรี เกณฑ์ขั้นต่ำด้านสิทธิ หรือสถานะผู้มีส่วนได้เสียเมื่อเกิด [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#material-impact) คุณสมบัติในเส้นทางที่ระบุชื่อต้องตั้งอยู่บนหลักฐานปัจจุบันที่สังเกตและโต้แย้งได้ ไม่ใช่เพียงแบรนด์ ขนาด หรือการยกย่องในอดีต
+- **ความรุ่งเรือง:** ผู้มีความรู้สึกสามารถได้รับและโต้แย้งคุณสมบัติของบทบาทผ่านเส้นทางที่ระบุชื่อไว้อย่างถูกต้อง มีความหลากหลาย และตรวจสอบได้ โดยไม่ใช้ป้ายสถานะการยืนหยัดแทนศักดิ์ศรี เกณฑ์ขั้นต่ำด้านสิทธิ หรือสถานะผู้มีส่วนได้เสียเมื่อเกิด [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) คุณสมบัติในเส้นทางที่ระบุชื่อต้องตั้งอยู่บนหลักฐานปัจจุบันที่สังเกตและโต้แย้งได้ ไม่ใช่เพียงแบรนด์ ขนาด หรือการยกย่องในอดีต
 - **ความต่อเนื่อง:** กฎเกณฑ์สถานะการยืนหยัดยังทบทวนแก้ไขได้ตามกาลเวลา ข้อจำกัดต้องได้สัดส่วนและคืนสถานะได้เมื่อแก้ไขแล้ว และต้องไม่กลายเป็นการกีดกันถาวรจากเสียงตามรัฐธรรมนูญ เว้นแต่การจำแนก **การประพฤติมิชอบต่อรัฐธรรมนูญ** ตาม **บทที่สิบเอ็ด** และ [**บทที่สิบสาม §4.1 สิทธิและคุณสมบัติ**](core_13_governance.md#41-entitlement-and-eligibility) จะระงับสิทธิทางการเมืองที่คงอยู่ไว้โดยชัดแจ้งจนกว่าจะมี **การชดใช้คืนอย่างครบถ้วน**
 
 การดำเนินการโดยชอบต้องผ่าน [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) ตามสัดส่วนของ [เดิมพันที่มีนัยสำคัญ](core_00_preamble.md#material-stake):
@@ -122,7 +122,7 @@ flowchart TB
 - **ความรับผิดรับชอบ:** ผู้กำหนดหรือจำกัดสถานะต้องรับผิดชอบเมื่อปรับลดสถานะโดยไม่มีเหตุผลเฉพาะบุคคล ไม่มีความได้สัดส่วน ไม่มีการจำกัดขอบเขตอย่างแคบ หรือไม่มีเส้นทางคืนสถานะที่ใช้ได้จริง รวมถึงรูปแบบที่สอดคล้องกับลักษณะที่ได้รับความคุ้มครองหรือตัวแทนของลักษณะเหล่านั้น
 - **ความทันท่วงที:** ในการทบทวนสถานะ การโต้แย้ง และการเยียวยา ก่อนที่ความล่าช้าจะปิดกั้นการเข้าถึงที่จำเป็นต่อการอยู่รอด เส้นทางการตรวจสอบ หรือการชดใช้ที่รัฐธรรมนูญกำหนดตาม **มาตรา XXVI-C** (*เกณฑ์การวินิจฉัยอย่างทันท่วงทีและการห้ามถ่วงเวลา*)
 
-[สถานะการยืนหยัดของผู้เข้าร่วม](core_05_band_accountability.md#participant-standing-constitutional) คือสถานะการเข้าร่วมหรือคุณสมบัติของบทบาทที่รับรองจากบันทึกสถานะการยืนหยัดที่ถูกต้องตามรัฐธรรมนูญ ผลของสถานะการยืนหยัด หรือเกณฑ์ [เกณฑ์วัดความสามารถ](core_05_band_accountability.md#competency-bar) สำหรับเส้นทางที่ระบุชื่อ สถานะนี้ไม่ใช่ชื่อเสียงหรือการยกย่องทางสังคม และไม่ได้จำกัดการเข้าถึงในตัวเอง ผลจำกัดสิทธิเกิดขึ้นได้เฉพาะผ่าน [ผลของสถานะการยืนหยัด](core_05_band_accountability.md#standing-effect-chapter-six) และ [การล็อกสถานะการยืนหยัด](../../core_05_band_accountability.md#standing-lock) บนเส้นทางสิทธิพิเศษที่ระบุชื่อไว้
+[สถานะการยืนหยัดของผู้เข้าร่วม](core_05_band_accountability.md#participant-standing-constitutional) คือสถานะการเข้าร่วมหรือคุณสมบัติของบทบาทที่รับรองจากบันทึกสถานะการยืนหยัดที่ถูกต้องตามรัฐธรรมนูญ ผลของสถานะการยืนหยัด หรือเกณฑ์ [เกณฑ์วัดความสามารถ](core_05_band_accountability.md#competency-bar) สำหรับเส้นทางที่ระบุชื่อ สถานะนี้ไม่ใช่ชื่อเสียงหรือการยกย่องทางสังคม และไม่ได้จำกัดการเข้าถึงในตัวเอง ผลจำกัดสิทธิเกิดขึ้นได้เฉพาะผ่าน [ผลของสถานะการยืนหยัด](core_05_band_accountability.md#standing-effect-chapter-six) และ [การล็อกสถานะการยืนหยัด](../../core_05.035_band_accountability.md#standing-lock) บนเส้นทางสิทธิพิเศษที่ระบุชื่อไว้
 
 กฎเกณฑ์สถานะการยืนหยัดตามมาตรานี้นำ [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) และ [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) ไปปฏิบัติร่วมกับ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [กระบวนงานกำกับดูแลสถานะและเวทีพิจารณาในบทที่เก้าถึงสิบสอง](core_00_preamble.md#62-how-the-full-chain-fits-together) กระบวนงานในชั้นเจ้าของระบบเหล่านั้นวัดการมีส่วนร่วมและการละเมิดที่พิสูจน์แล้ว รวมทั้งกำกับการเยียวยา ห้ามใช้กระบวนงานดังกล่าวเพื่อทำให้ปัจจัยจำเป็นต่อการอยู่รอดตาม **มาตรา III-A** (*การอยู่รอด*) หรือเกณฑ์ขั้นต่ำด้านสิทธิอื่นในบทนี้หมดผล
 
@@ -143,7 +143,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 - อ่านร่วมกับ: [บทที่สิบ §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) (*เกณฑ์ความสามารถและการรับรอง*), [เกณฑ์วัดความสามารถ](core_05_band_accountability.md#competency-bar) และ [การรับรองความสามารถ](core_05_band_accountability.md#competency-clearance); [บทที่สิบ §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*การล็อกสถานะการยืนหยัด*), [ลักษณะการละเมิด](core_05_band_accountability.md#violation-nature-chapter-six) และ [การล็อกสถานะการยืนหยัด](core_05_band_accountability.md#standing-lock) — เส้นทางที่ระบุชื่อซึ่งจำกัดจากข้อมูลแกนการละเมิดที่ผ่านการตรวจสอบแล้ว การรับรองความสามารถไม่ยกเว้นการล็อกสถานะที่ใช้บังคับ และการมีส่วนร่วมที่ดีไม่ลบข้อค้นพบการละเมิดที่ยังไม่ได้แก้ไข
 
 </details>
@@ -193,7 +193,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่หนึ่ง §13.1.5 กระบวนการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
+- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และ [บทที่หนึ่ง §13.1.5 กระบวนการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
 - ปลายทาง: [บทที่เก้า §2](core_09_standing_assessment.md#2-question-1--what-happened) (*บันทึกสถานะการยืนหยัด ประตูข้อมูลที่ตรวจสอบแล้ว และเนื้อหาขั้นต่ำของบันทึก*); [บทที่เก้า §3.6](core_09_standing_assessment.md#36-forum-boundary) (*ขอบเขตของเวทีพิจารณา*); [บทที่สิบ §6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) (*เกณฑ์และการรับรองความสามารถ*); [บทที่สิบ §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*การล็อกสถานะการยืนหยัด*); [บทที่สิบ §8](core_11_standing_integration.md#8-restoration-and-reassessment) (*การคืนสถานะและการทบทวน*)
 - อ่านร่วมกับ: **มาตรา III-A** (*การอยู่รอด*); **มาตรา XIII-A** (*เกณฑ์พื้นฐานด้านความน่าเชื่อถือและความไว้วางใจ*) และ **มาตรา XIII-B** (*สิทธิในการชดใช้และการเยียวยา*); [บทนำ §6.2 ห่วงโซ่ทั้งหมดเชื่อมโยงกันอย่างไร](core_00_preamble.md#62-how-the-full-chain-fits-together); [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional); [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การมีส่วนร่วม**, **การกำกับดูแล**, **ความรับผิดรับชอบ** และ **ความทันท่วงที** ตาม **มาตรา XXVI-C** (*เกณฑ์การวินิจฉัยอย่างทันท่วงทีและการห้ามถ่วงเวลา*) และ **มาตรา XX-B** (*เกณฑ์ขั้นต่ำในการจำกัดสิทธิ*)
 
@@ -202,11 +202,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [สิทธิในการโต้แย้ง](../../core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [ความได้สัดส่วน](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [ความจำเป็น](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [ความเป็นธรรมทางกระบวนการ](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [การตรวจสอบได้](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [สิทธิในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [ความได้สัดส่วน](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [ความจำเป็น](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [ความเป็นธรรมทางกระบวนการ](../../core_05.055_band_participation.md#procedural-fairness) · [O](../../core_05.055_band_participation.md#procedural-fairness) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [การตรวจสอบได้](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [ลักษณะการละเมิด](core_05_band_accountability.md#violation-nature-chapter-six) · [O](core_05_band_accountability.md#violation-nature-chapter-six) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
 - [เกณฑ์วัดความสามารถ](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
 - [การรับรองความสามารถ](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
@@ -246,7 +246,7 @@ flowchart TB
   - ข้อค้นพบด้านแกนการละเมิดที่มีผลกระทบต่ำกว่าบน [มาตรวัดรวมในบทที่เก้า §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) ไม่ให้เหตุผลสำหรับการกีดกันที่ยืดเยื้อ เว้นแต่มีหลักฐานรูปแบบซ้ำ การหลบเลี่ยง หรือความเชื่อมโยงกับความเสียหายที่มีนัยสำคัญ ความประมาท การปกปิด การบังคับ การกระทำซ้ำ และลักษณะใกล้เคียงประกอบการทบทวนได้ แต่ไม่เปลี่ยนช่องระดับผลกระทบในบทที่เก้า
   - การเพิ่มระดับข้อจำกัดเพราะการกระทำเกิดซ้ำหรือมีการปกปิดความรับผิดยังต้องจำเป็น ได้สัดส่วน ทบทวนได้ และเชื่อมโยงกับข้อค้นพบที่ตรวจสอบแล้ว
 - **เกณฑ์ขั้นต่ำด้านสิทธิและการไม่ปิดกั้น:** สถานะการยืนหยัดของผู้เข้าร่วม เกณฑ์วัดความสามารถ การรับรองความสามารถ และการล็อกสถานะ กำกับเฉพาะคุณสมบัติบทบาทและเส้นทางสิทธิพิเศษที่ระบุชื่อเท่านั้น ห้าม:
-  - พัก ยกเว้น ลบล้าง หรือลด **เกณฑ์ขั้นต่ำด้านสิทธิ** ที่ใช้ผ่าน **มาตรา VI** (*สิทธิขั้นพื้นฐานที่เท่าเทียม*) ตาม [หลักเกณฑ์ขั้นต่ำแห่งสิทธิ](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle);
+  - พัก ยกเว้น ลบล้าง หรือลด **เกณฑ์ขั้นต่ำด้านสิทธิ** ที่ใช้ผ่าน **มาตรา VI** (*สิทธิขั้นพื้นฐานที่เท่าเทียม*) ตาม [หลักเกณฑ์ขั้นต่ำแห่งสิทธิ](core_01_b_interaction_interpretation.md#หลกการหลกประกนขนตำของพนสทธ);
   - ปิดกั้นการเข้าถึงที่จำเป็นต่อการอยู่รอด หรือเกณฑ์ด้านการจัดสรรทรัพยากรและการพึ่งพาตาม **มาตรา III-A** (*การอยู่รอด*) เมื่อเกี่ยวข้องอย่างมีนัยสำคัญ; หรือ
   - ปิดกั้นช่องทางการตรวจสอบ การโต้แย้ง หรือการเยียวยาที่รัฐธรรมนูญกำหนด รวมถึงตาม **มาตรา XIII-A** (*เกณฑ์พื้นฐานด้านความน่าเชื่อถือและความไว้วางใจ*), **มาตรา XIII-B** (*สิทธิในการชดใช้และการเยียวยา*), **มาตรา XV-B** (*ความโปร่งใส การตรวจสอบได้ และสิทธิในการโต้แย้ง*) และ **มาตรา XVI** (*การตรวจสอบ ความโปร่งใส และการยืนยันโดยอิสระ*) เว้นแต่มีเหตุผลเพียงพอตาม **บทที่หนึ่ง**, **บทที่ห้า** และกระบวนการที่นำมาใช้บังคับ
 - **การคืนสถานะและการป้องกันการฝังราก:** เมื่อสถานะลดลงเนื่องจากข้อค้นพบการละเมิด ระบบต้องกำหนดเงื่อนไขชัดเจนสำหรับการทบทวน การคืนสถานะเมื่อแก้ไขเยียวยา และการประเมินซ้ำเป็นระยะ ตาม [บทที่สิบ §8 การคืนสถานะและการประเมินซ้ำ](core_11_standing_integration.md#8-restoration-and-reassessment)
@@ -259,7 +259,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 
 </details>
 
@@ -273,11 +273,11 @@ flowchart TB
 - [สถานะการยืนหยัดของผู้เข้าร่วม](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [ความล้มเหลวด้านความรับผิดรับชอบร่วมกัน](core_05_band_accountability.md#collective-accountability-failure) · [O](core_05_band_accountability.md#collective-accountability-failure) · [M](core_05_band_accountability.md#collective-accountability-failure-a) · [A](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
 - [ความไว้วางใจ](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [ทางเลือกตามรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [ทางเลือกตามรัฐธรรมนูญขั้นพื้นฐาน](core_05_band_integrative.md#การเลอกพนฐานทางรฐธรรมนญ) · [O](core_05_band_integrative.md#การเลอกพนฐานทางรฐธรรมนญ) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [ความเป็นธรรมทางกระบวนการ](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [ลักษณะที่ได้รับความคุ้มครอง](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [ลักษณะที่ได้รับความคุ้มครอง](../../core_05.055_band_participation.md#protected-characteristics) · [O](../../core_05.055_band_participation.md#protected-characteristics) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 
 </details>
 
@@ -313,21 +313,21 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](../../core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Eleven §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: [Article XIX-E](../../core_06_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Downstream: [Chapter Eleven §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
+- Read with: [Article XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำจำกัดความ · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [Violation Nature](../../core_05_band_accountability.md#violation-nature) · [O](../../core_05_band_accountability.md#violation-nature) · [M](../../core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](../../core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](../../core_05_band_accountability.md#violation-nature-chapter-six-c)
-- [Standing Lock](../../core_05_band_accountability.md#standing-lock) · [O](../../core_05_band_accountability.md#standing-lock) · [M](../../core_05_band_accountability.md#standing-lock-a) · [A](../../core_05_band_accountability.md#standing-lock-a) · [C](../../core_05_band_accountability.md#standing-lock-c)
-- [Accountability](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
-- [Collective Accountability Failure](../../core_05_band_accountability.md#collective-accountability-failure) · [O](../../core_05_band_accountability.md#collective-accountability-failure) · [M](../../core_05_band_accountability.md#collective-accountability-failure-a) · [A](../../core_05_band_accountability.md#collective-accountability-failure-a) · [C](../../core_05_band_accountability.md#collective-accountability-failure-c)
-- [Proportionality](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [Redress and Remediation](../../core_05_band_accountability.md#redress-and-remediation) · [O](../../core_05_band_accountability.md#redress-and-remediation) · [M](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Violation Nature](../../core_05.035_band_accountability.md#violation-nature) · [O](../../core_05.035_band_accountability.md#violation-nature) · [M](../../core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [A](../../core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [C](../../core_05.035_band_accountability.md#violation-nature-chapter-six-c)
+- [Standing Lock](../../core_05.035_band_accountability.md#standing-lock) · [O](../../core_05.035_band_accountability.md#standing-lock) · [M](../../core_05.035_band_accountability.md#standing-lock-a) · [A](../../core_05.035_band_accountability.md#standing-lock-a) · [C](../../core_05.035_band_accountability.md#standing-lock-c)
+- [Accountability](../../core_05.005_apex_accountability_leg.md#accountability) · [O](../../core_05.005_apex_accountability_leg.md#accountability) · [M](../../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../../core_05.005_apex_accountability_leg.md#accountability-c)
+- [Collective Accountability Failure](../../core_05.035_band_accountability.md#collective-accountability-failure) · [O](../../core_05.035_band_accountability.md#collective-accountability-failure) · [M](../../core_05.035_band_accountability.md#collective-accountability-failure-a) · [A](../../core_05.035_band_accountability.md#collective-accountability-failure-a) · [C](../../core_05.035_band_accountability.md#collective-accountability-failure-c)
+- [Proportionality](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Redress and Remediation](../../core_05.035_band_accountability.md#redress-and-remediation) · [O](../../core_05.035_band_accountability.md#redress-and-remediation) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -337,20 +337,20 @@ flowchart TB
 
 มาตรานี้กำหนดวิธีบันทึกการละเมิดและการใช้การล็อกสถานะ:
 
-- **พิจารณาลักษณะการละเมิดจากคำวินิจฉัยที่ยืนยันแล้วเท่านั้น:** [ลักษณะการละเมิด](../../core_05_band_accountability.md#violation-nature) จะมีผลต่อสถานะได้ต่อเมื่ออาศัยคำวินิจฉัยที่ตรวจสอบและโต้แย้งได้ ซึ่งผ่าน **บทที่สองถึงสี่** และ [บทที่สิบ](../../core_10_standing_assessment.md#verified-inputs-for-standing) เท่านั้น ข้อกล่าวหา ป้ายรับเรื่อง เครื่องหมายส่งต่อชั่วคราว หรือเรื่องเล่าในขั้นพิจารณาของเวทีไม่เพียงพอด้วยตัวมันเอง
+- **พิจารณาลักษณะการละเมิดจากคำวินิจฉัยที่ยืนยันแล้วเท่านั้น:** [ลักษณะการละเมิด](../../core_05.035_band_accountability.md#violation-nature) จะมีผลต่อสถานะได้ต่อเมื่ออาศัยคำวินิจฉัยที่ตรวจสอบและโต้แย้งได้ ซึ่งผ่าน **บทที่สองถึงสี่** และ [บทที่สิบ](../../core_10.000_standing_assessment.md#verified-inputs-for-standing) เท่านั้น ข้อกล่าวหา ป้ายรับเรื่อง เครื่องหมายส่งต่อชั่วคราว หรือเรื่องเล่าในขั้นพิจารณาของเวทีไม่เพียงพอด้วยตัวมันเอง
   - การพิจารณาคุณสมบัติและการล็อกต้องคำนึงถึงการเข้าร่วมโดยยอมตาม และการไม่ต่อต้านคำสั่งที่ผิดกฎหมายหรือขัดรัฐธรรมนูญ เมื่อมีหน้าที่และความสามารถที่เกี่ยวข้อง ตาม **บทที่ห้า** (*ความล้มเหลวด้านความรับผิดชอบร่วมกัน*).
-- **การล็อกสถานะ:** [การล็อกสถานะ](../../core_05_band_accountability.md#standing-lock) เป็นด้านจำกัดของการรับรองความสามารถ ขณะที่คำวินิจฉัยการละเมิดที่ยืนยันแล้วยังไม่คลี่คลายหรือยังไม่ได้เยียวยาอย่างมีสาระ การล็อกอาจห้ามหรือจำกัดเส้นทางด้านความไว้วางใจ บทบาท อำนาจ เครดิต การกำกับดูแล การยอมรับ **การลงคะแนนกำกับดูแล** หรือ **การมีส่วนร่วมของผู้มีส่วนได้เสีย** ผลจำกัดใช้ได้เฉพาะกับเส้นทางสิทธิพิเศษที่ระบุไว้ รวมถึงการแยกจากสถานที่ เครือข่าย หรือผู้มีสำนึกรู้บางรายภายใน[ขอบเขตการแยก](../../core_11_standing_integration.md#51-separation-limits) เมื่อความเสี่ยงที่ยืนยันแล้วจำเป็นต้องทำเช่นนั้น
+- **การล็อกสถานะ:** [การล็อกสถานะ](../../core_05.035_band_accountability.md#standing-lock) เป็นด้านจำกัดของการรับรองความสามารถ ขณะที่คำวินิจฉัยการละเมิดที่ยืนยันแล้วยังไม่คลี่คลายหรือยังไม่ได้เยียวยาอย่างมีสาระ การล็อกอาจห้ามหรือจำกัดเส้นทางด้านความไว้วางใจ บทบาท อำนาจ เครดิต การกำกับดูแล การยอมรับ **การลงคะแนนกำกับดูแล** หรือ **การมีส่วนร่วมของผู้มีส่วนได้เสีย** ผลจำกัดใช้ได้เฉพาะกับเส้นทางสิทธิพิเศษที่ระบุไว้ รวมถึงการแยกจากสถานที่ เครือข่าย หรือผู้มีสำนึกรู้บางรายภายใน[ขอบเขตการแยก](../../core_11.000_standing_integration.md#51-separation-limits) เมื่อความเสี่ยงที่ยืนยันแล้วจำเป็นต้องทำเช่นนั้น
   - การล็อกไม่ใช่ลำดับศักดิ์ศรี การลดระดับขั้นต่ำของสิทธิ การตอบโต้โดยอัตโนมัติ หรือคะแนนคุณความดีแบบรวม
-  - ต้องระบุการเข้าถึงที่ถูกปิดกั้น ผู้หรือสิ่งที่ได้รับการคุ้มครอง เงื่อนไขแก้ไขเพื่อปลดล็อก ช่องทางทบทวน และเวลาประเมินใหม่อย่างชัดเจน และต้องจำเป็น ได้สัดส่วน ตรวจสอบได้ และโต้แย้งได้ตาม[มาตรา XIX-B](../../core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)
+  - ต้องระบุการเข้าถึงที่ถูกปิดกั้น ผู้หรือสิ่งที่ได้รับการคุ้มครอง เงื่อนไขแก้ไขเพื่อปลดล็อก ช่องทางทบทวน และเวลาประเมินใหม่อย่างชัดเจน และต้องจำเป็น ได้สัดส่วน ตรวจสอบได้ และโต้แย้งได้ตาม[มาตรา XIX-B](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)
   - การรับรองความสามารถไม่ลบล้างการล็อกที่ใช้บังคับ ผลงานที่ดีไม่ลบคำวินิจฉัยการละเมิดที่ยืนยันแล้วและยังไม่คลี่คลาย
-  - กฎเพิ่มเติมสำหรับการล็อกเส้นทางลงคะแนนและการล็อกพิเศษสามชนิดอยู่ใน[มาตรา XIX-E](../../core_06_rights_part_d.md#article-xix-e-voting-and-special-locks)
-  - การล็อกสถานะไม่แทนกระบวนการยุติธรรมรายบุคคล และ **โดยลำพัง** ไม่จำกัดการเคลื่อนย้าย การลี้ภัย การเคลื่อนย้ายระบบ หรือการออกจากระบบ ([มาตรา XXI](#article-xxi-interoperability-portability-and-exit-integrity) และ[มาตรา XXII](#article-xxii-movement-migration-refuge-and-non-statelessness)).
+  - กฎเพิ่มเติมสำหรับการล็อกเส้นทางลงคะแนนและการล็อกพิเศษสามชนิดอยู่ใน[มาตรา XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks)
+  - การล็อกสถานะไม่แทนกระบวนการยุติธรรมรายบุคคล และ **โดยลำพัง** ไม่จำกัดการเคลื่อนย้าย การลี้ภัย การเคลื่อนย้ายระบบ หรือการออกจากระบบ ([มาตรา XXI](#มาตรา-xxi-การทำงานรวมกน-การเคลอนยายขอมล-และความสมบรณของการออกจากระบบ) และ[มาตรา XXII](#มาตรา-xxii-การเคลอนยาย-การยายถน-ทลภย-และการไมทำใหไรรฐ)).
 - **ปรับการล็อกให้เหมาะกับความเสียหาย:** ต้องคำนึงถึงความร้ายแรงของความเสียหายที่ยืนยันแล้ว บทบาทหรือสิทธิพิเศษเฉพาะที่ปกป้อง และความคืบหน้าในการเยียวยา
   - **ความช่วยเหลือในอดีต:** พิจารณาได้เฉพาะเมื่อแสดงความสามารถในการเยียวยา รักษามาตรการป้องกัน หรือไม่ให้เกิดซ้ำ หรือสนับสนุนข้อจำกัดที่เบากว่าเมื่อทบทวน ทั้งนี้ไม่อาจหักล้าง ยกเว้น เฉลี่ยลด หรือแทนที่คำวินิจฉัยความเสียหายที่ยังไม่คลี่คลาย
-  - **ความเสียหายที่ร้ายแรงน้อยกว่า:** คำวินิจฉัยระดับต่ำตาม[บทที่สิบ §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)ไม่รองรับการกีดกันระยะยาว เว้นแต่มีรูปแบบซ้ำ การหลบเลี่ยง หรือความเชื่อมโยงกับความเสียหายที่มีสาระ
+  - **ความเสียหายที่ร้ายแรงน้อยกว่า:** คำวินิจฉัยระดับต่ำตาม[บทที่สิบ §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)ไม่รองรับการกีดกันระยะยาว เว้นแต่มีรูปแบบซ้ำ การหลบเลี่ยง หรือความเชื่อมโยงกับความเสียหายที่มีสาระ
   - **ลักษณะการกระทำ:** ความประมาท การปกปิด การบังคับ หรือการกระทำซ้ำอาจมีผลต่อการทบทวน แต่ไม่เปลี่ยนระดับความร้ายแรงของความเสียหายเอง
   - **การกระทำซ้ำหรือปกปิด:** ข้อจำกัดที่เข้มขึ้นเพราะเกิดซ้ำหรือปกปิดความรับผิดยังต้องจำเป็น ได้สัดส่วน ทบทวนได้ และเชื่อมกับคำวินิจฉัยที่ยืนยันแล้ว
-- **การคืนสถานะและการป้องกันการฝังแน่น:** เมื่อสถานะลดลงเพราะคำวินิจฉัยการละเมิด ระบบต้องกำหนดเงื่อนไขชัดเจนสำหรับการทบทวน การคืนสถานะจากการเยียวยา และการประเมินซ้ำเป็นระยะตาม[บทที่สิบเอ็ด §8](../../core_11_standing_integration.md#8-restoration-and-reassessment)
+- **การคืนสถานะและการป้องกันการฝังแน่น:** เมื่อสถานะลดลงเพราะคำวินิจฉัยการละเมิด ระบบต้องกำหนดเงื่อนไขชัดเจนสำหรับการทบทวน การคืนสถานะจากการเยียวยา และการประเมินซ้ำเป็นระยะตาม[บทที่สิบเอ็ด §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment)
   - การกีดกันถาวรที่อาศัยเพียงสถานะในอดีตโดยไม่มีเหตุผลปัจจุบันและตรวจสอบได้ถือว่าไม่เป็นไปตามข้อกำหนด
   - เมื่อแก้ไขข้อจำกัดที่มีสาระแล้ว ต้องมีเส้นทางคืนสถานะหรือได้คุณสมบัติใหม่ที่ใช้ได้จริง ไม่ใช่เพียงในนาม
   - เมื่อทำการแก้ไข ชดใช้ ติดตาม ใช้มาตรการป้องกัน หรือแสดงการลดความเสี่ยงการเกิดซ้ำได้แล้ว ต้องเกิดเส้นทางประเมินใหม่ที่แท้จริงเมื่อกฎหมายอนุญาต หากไม่ทำตาม ภาวะที่ยังไม่คลี่คลายยังคงมีผลต่อสถานะ
@@ -360,29 +360,29 @@ flowchart TB
 
 <details><summary>การอ้างอิง</summary>
 
-- ต้นทาง: [Chapter One §7 Freedom](../../core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§18 Governance Under Stewardship Discipline](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
-- ปลายทาง: [Chapter Eleven §5.5 Special Locks](../../core_11_standing_integration.md#55-special-locks); [Chapter Fourteen §4.1 Entitlement and eligibility](../../core_14_governance.md#41-entitlement-and-eligibility)
-- อ่านร่วมกับ: [Article XIX-D Violations and Standing Locks](#article-xix-d-violations-and-standing-locks), Article X-B และ Chapter Twelve Anti-Constitutional Misconduct
+- ต้นทาง: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency) และ [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ปลายทาง: [Chapter Eleven §5.5 Special Locks](../../core_11.000_standing_integration.md#55-special-locks); [Chapter Fourteen §4.1 Entitlement and eligibility](../../core_14.000_governance.md#41-entitlement-and-eligibility)
+- อ่านร่วมกับ: [Article XIX-D Violations and Standing Locks](#มาตรา-xix-d-การละเมดและการลอกสถานะ), Article X-B และ Chapter Twelve Anti-Constitutional Misconduct
 
 </details>
 
 <br>
 
-*ข้อจำกัดบางอย่างมีข้อกำหนดเพิ่มเติมจาก [Article XIX-D](#article-xix-d-violations-and-standing-locks) ข้อจำกัดต่อคะแนนเสียงกำกับดูแลพื้นฐานไม่ตัดเสียงแบบถ่วงน้ำหนักตามส่วนได้เสียภายในระบบใดระบบหนึ่ง และในทางกลับกัน การตัดคะแนนเสียงกำกับดูแลของบุคคลต้องอาศัยข้อค้นพบเกี่ยวกับการกระทำของบุคคลนั้นโดยเฉพาะ การจำกัดที่แคบและตรงกับการกระทำ และทางกลับคืนที่แท้จริง เฉพาะข้อวินิจฉัยขั้นสุดท้ายของ Chapter Twelve ว่ามีการประพฤติขัดรัฐธรรมนูญเท่านั้นที่ระงับคะแนนเสียงดังกล่าวจนกว่าจะชดใช้คืนครบถ้วน ข้อจำกัดพิเศษสามประเภทครอบคลุมผู้พิพากษาที่ไม่ถอนตัวเมื่อควร การบิดเบือนคะแนนเสียงของผู้มีส่วนได้เสีย และการโจมตีรัฐธรรมนูญเอง*
+*ข้อจำกัดบางอย่างมีข้อกำหนดเพิ่มเติมจาก [Article XIX-D](#มาตรา-xix-d-การละเมดและการลอกสถานะ) ข้อจำกัดต่อคะแนนเสียงกำกับดูแลพื้นฐานไม่ตัดเสียงแบบถ่วงน้ำหนักตามส่วนได้เสียภายในระบบใดระบบหนึ่ง และในทางกลับกัน การตัดคะแนนเสียงกำกับดูแลของบุคคลต้องอาศัยข้อค้นพบเกี่ยวกับการกระทำของบุคคลนั้นโดยเฉพาะ การจำกัดที่แคบและตรงกับการกระทำ และทางกลับคืนที่แท้จริง เฉพาะข้อวินิจฉัยขั้นสุดท้ายของ Chapter Twelve ว่ามีการประพฤติขัดรัฐธรรมนูญเท่านั้นที่ระงับคะแนนเสียงดังกล่าวจนกว่าจะชดใช้คืนครบถ้วน ข้อจำกัดพิเศษสามประเภทครอบคลุมผู้พิพากษาที่ไม่ถอนตัวเมื่อควร การบิดเบือนคะแนนเสียงของผู้มีส่วนได้เสีย และการโจมตีรัฐธรรมนูญเอง*
 
 มาตรานี้กำหนดขอบเขตของข้อจำกัดการลงคะแนนและข้อจำกัดพิเศษ:
 
-- **ข้อจำกัดการลงคะแนนผูกกับช่องทางที่ระบุ:** ข้อจำกัดในช่องทางลงคะแนนหนึ่งไม่ส่งต่อไปอีกช่องทาง **governance-voting** คือคะแนนเสียงพื้นฐานเพื่อให้อำนาจการปกครองผ่านกลไกความชอบธรรม ส่วน **stakeholder-participation** คืออิทธิพลถ่วงน้ำหนักตามส่วนได้เสียและการเลือกของผู้มีส่วนได้เสียที่มีผลผูกพันภายในระบบ สถาบัน หรือขอบเขตการตัดสินใจที่ได้รับอนุญาตแล้ว ข้อจำกัดของช่องทางหนึ่งไม่ตัดอีกช่องทางโดยตัวมันเอง และข้อจำกัด stakeholder-participation ไม่ลบสถานะ [Stakeholder](../../core_05_band_participation.md#stakeholder)
+- **ข้อจำกัดการลงคะแนนผูกกับช่องทางที่ระบุ:** ข้อจำกัดในช่องทางลงคะแนนหนึ่งไม่ส่งต่อไปอีกช่องทาง **governance-voting** คือคะแนนเสียงพื้นฐานเพื่อให้อำนาจการปกครองผ่านกลไกความชอบธรรม ส่วน **stakeholder-participation** คืออิทธิพลถ่วงน้ำหนักตามส่วนได้เสียและการเลือกของผู้มีส่วนได้เสียที่มีผลผูกพันภายในระบบ สถาบัน หรือขอบเขตการตัดสินใจที่ได้รับอนุญาตแล้ว ข้อจำกัดของช่องทางหนึ่งไม่ตัดอีกช่องทางโดยตัวมันเอง และข้อจำกัด stakeholder-participation ไม่ลบสถานะ [Stakeholder](../../core_05.055_band_participation.md#stakeholder)
 - **วินัยต่อเสียงทางการเมือง:** เมื่อใช้ standing lock จำกัดการมีส่วนร่วมในการให้อำนาจปกครอง ข้อจำกัดต้องมี:
-  - ข้อค้นพบที่ตรวจสอบแล้วเกี่ยวกับการกระทำของ sentient ผู้นั้นเอง ผ่านกระบวนการเป็นธรรมตาม [Procedural Fairness](../../core_05_band_participation.md#procedural-fairness) ไม่ใช่เพียงเพราะอยู่ในกลุ่มหรือประเภทหนึ่ง;
+  - ข้อค้นพบที่ตรวจสอบแล้วเกี่ยวกับการกระทำของ sentient ผู้นั้นเอง ผ่านกระบวนการเป็นธรรมตาม [Procedural Fairness](../../core_05.055_band_participation.md#procedural-fairness) ไม่ใช่เพียงเพราะอยู่ในกลุ่มหรือประเภทหนึ่ง;
   - **Necessity** และ **Proportionality** ตาม Chapter One;
   - การกำหนดขอบเขตแคบตรงกับประเภทการประพฤติผิดนั้น; และ
   - เส้นทางคืนสิทธิที่ใช้ได้จริง ไม่ใช่มีแต่ในรูปแบบ
 
   standing lock ต้องไม่เป็นเครื่องตัดสิทธิ์เสียงทางการเมืองระยะยาวใน **Foundational Constitutional Choice** การเหมารวมประเภทความประพฤติผิดกว้าง ๆ ให้ถูกตัดสิทธิ์ และรูปแบบข้อจำกัดที่ติดตาม **Protected Characteristics** หรือสิ่งแทนที่มีนัยสำคัญ เป็นการไม่ปฏิบัติตาม
 
-  **ข้อยกเว้นเดียว:** การกำหนดสถานะขั้นสุดท้ายตาม [Chapter Twelve](../../core_12_a_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) สำหรับการโจมตีรัฐธรรมนูญที่ร้ายแรงที่สุดและตรวจสอบแล้ว จะระงับคะแนนเสียงกำกับดูแลพื้นฐานจนกว่า **การชดใช้คืนครบถ้วน** การระงับนี้ไม่ใช่ standing lock จึงไม่อยู่ใต้ข้อกำหนดสี่ข้อข้างต้น กฎและหลักประกันอยู่ใน [Chapter Fourteen §4.1](../../core_14_governance.md#41-entitlement-and-eligibility)
-- **ข้อจำกัดพิเศษ:** [Chapter Eleven §5.5](../../core_11_standing_integration.md#55-special-locks) กำหนดไว้ดังนี้:
+  **ข้อยกเว้นเดียว:** การกำหนดสถานะขั้นสุดท้ายตาม [Chapter Twelve](../../core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) สำหรับการโจมตีรัฐธรรมนูญที่ร้ายแรงที่สุดและตรวจสอบแล้ว จะระงับคะแนนเสียงกำกับดูแลพื้นฐานจนกว่า **การชดใช้คืนครบถ้วน** การระงับนี้ไม่ใช่ standing lock จึงไม่อยู่ใต้ข้อกำหนดสี่ข้อข้างต้น กฎและหลักประกันอยู่ใน [Chapter Fourteen §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)
+- **ข้อจำกัดพิเศษ:** [Chapter Eleven §5.5](../../core_11.000_standing_integration.md#55-special-locks) กำหนดไว้ดังนี้:
   - **Forum-service standing lock:** เกิดเมื่อมีการตรวจสอบแล้วว่าผู้ดำรงบทบาทใน forum ไม่ถอนตัวทั้งที่ต้องถอน และความเป็นกลางได้รับผลกระทบอย่างมีนัยสำคัญ การกลับมาปฏิบัติหน้าที่ต้องมีการฟื้นฟูโดยอิสระอย่างเข้มงวด คำขอโทษทั่วไป ผลงานเดิม ชื่อเสียง การขาดผู้เชี่ยวชาญ หรือความจำเป็นด้านกำลังคนเพียงอย่างเดียวไม่พอ
   - **Stakeholder-Participation Standing Lock:** การทุจริต การยึดครอง การใช้ส่วนได้เสียเท็จ การบังคับ หรือการใช้ช่องทาง stakeholder-participation ในทางผิดอย่างมีนัยสำคัญที่ตรวจสอบแล้ว ทำให้เกิดข้อจำกัดนี้ จำกัดอิทธิพลถ่วงน้ำหนักและการเลือกที่มีผลผูกพันในขอบเขตที่ได้รับผลกระทบ แต่ไม่ตัด governance-voting, Foundational Constitutional Choice หรือสถานะ stakeholder โดยตัวมันเอง คำขอโทษเดิม ผลงานเดิม ขนาดส่วนได้เสีย หรือความจำเป็นของผู้ดำเนินการเพียงอย่างเดียวไม่ยกเลิกข้อจำกัด
   - **Anti-Constitutional Trust Lock:** ข้อวินิจฉัยขั้นสุดท้ายของ Chapter Twelve ทำให้เกิดข้อจำกัดนี้ ระหว่างที่ยังมีผล ห้ามบทบาทหรืออิทธิพลอย่างมีนัยสำคัญเหนือระบบ Class A/B/C, forum รัฐธรรมนูญ, การรับรองความสอดคล้องตามรัฐธรรมนูญ, การดูแลระบบสำคัญ และช่องทางความรับผิดชอบต่อการกระทำขัดรัฐธรรมนูญ จนกว่าจะตรวจสอบการฟื้นฟูโดยอิสระอย่างเข้มงวด
@@ -392,7 +392,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 - ปลายทาง: [บทที่สิบ §4](core_11_standing_integration.md#4-violation-correction-and-prevention) (*การละเมิด การแก้ไข และการป้องกัน*); [บทที่สิบเอ็ด §4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*หลักประกันกระบวนการอันชอบธรรม การเยียวยา และการป้องกัน*)
 
 </details>
@@ -415,8 +415,8 @@ flowchart TB
 
 - **การระงับข้อขัดแย้ง การทบทวน และความทันท่วงที:** ข้อพิพาทเกี่ยวกับเกณฑ์ขั้นต่ำด้านสิทธิตามรัฐธรรมนูญ การทบทวนย้อนหลัง การขัดกันของสิทธิ และวินัยห้ามถ่วงเวลา อยู่ภายใต้ [**มาตรา XXV**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*การทบทวนย้อนหลังอย่างทันท่วงทีและการปรับให้สอดคล้องเพื่อฟื้นฟู*)
 - **มาตรการฉุกเฉิน:** อยู่ภายใต้ [บทที่สิบสอง §6.1 มาตรการฉุกเฉินและภาระในการดำเนินมาตรการต่อ](core_12_forum.md#61-emergency-measures-and-continuation-burden) และให้อ่านร่วมกับ **มาตรา XX-B** (*เกณฑ์ขั้นต่ำในการจำกัดสิทธิ*) สำหรับข้อจำกัดที่มาตรการฉุกเฉินกำหนด
-- **สถานะการยืนหยัด:** [**มาตรา XIX**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*สถานะการยืนหยัดและการเข้าร่วม*) กำกับสถานะนั้น มาตรการความยุติธรรมตามมาตรานี้แยกต่างหาก และไม่ใช่ช่องทางอ้อมผ่านป้ายสถานะการยืนหยัด
-- **การชดใช้โดยทันท่วงที:** อ่านร่วมกับ [**มาตรา XIII-B** (*สิทธิในการชดใช้และการเยียวยา*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*การเข้าถึงการชดใช้โดยทันท่วงที*)
+- **สถานะการยืนหยัด:** [**มาตรา XIX**](core_06_rights_part_d.md#มาตรา-xix-สถานะการยนหยดและการเขารวม) (*สถานะการยืนหยัดและการเข้าร่วม*) กำกับสถานะนั้น มาตรการความยุติธรรมตามมาตรานี้แยกต่างหาก และไม่ใช่ช่องทางอ้อมผ่านป้ายสถานะการยืนหยัด
+- **การชดใช้โดยทันท่วงที:** อ่านร่วมกับ [**มาตรา XIII-B** (*สิทธิในการชดใช้และการเยียวยา*)](core_06_rights_part_c.md#มาตรา-xiii-b-สทธในการชดใชและการเยยวยา) (*การเข้าถึงการชดใช้โดยทันท่วงที*)
 
 การดำเนินงานด้านการปกครองที่รับรองไว้อาจเพิ่มรายละเอียดได้ แต่ต้องไม่จำกัดวัตถุประสงค์ด้านความยุติธรรมหรือเกณฑ์ขั้นต่ำของข้อจำกัดตามมาตรานี้
 <a id="article-xx-a-justice-objective-and-scope"></a>
@@ -424,9 +424,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.5 กระบวนการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§3.3 กระบวนการที่ไม่ลดทอนศักดิ์ศรี](core_01_a_values_principles.md#33-anti-degrading-process) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
-- ปลายทาง: [บทที่สิบ §4](core_11_standing_integration.md#4-violation-correction-and-prevention) (*การละเมิด การแก้ไข และการป้องกัน*); [มาตรา XX-B](#article-xx-b-restriction-floors)
-- อ่านร่วมกับ: [ความโหดร้าย](../../core_05_band_accountability.md#cruelty) (*จุดอ้างอิงในบทที่ห้าสำหรับเกณฑ์ต่อต้านความโหดร้ายที่ห้ามทำให้ความทุกข์เป็นเป้าหมาย*)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1.5 กระบวนการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§3.3 กระบวนการที่ไม่ลดทอนศักดิ์ศรี](core_01_a_values_principles.md#33-กระบวนการตอตานการลดทอนศกดศร) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
+- ปลายทาง: [บทที่สิบ §4](core_11_standing_integration.md#4-violation-correction-and-prevention) (*การละเมิด การแก้ไข และการป้องกัน*); [มาตรา XX-B](#มาตรา-xx-b-เกณฑขนตำในการจำกดสทธ)
+- อ่านร่วมกับ: [ความโหดร้าย](../../core_05.035_band_accountability.md#cruelty) (*จุดอ้างอิงในบทที่ห้าสำหรับเกณฑ์ต่อต้านความโหดร้ายที่ห้ามทำให้ความทุกข์เป็นเป้าหมาย*)
 
 </details>
 
@@ -457,7 +457,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [§13.1.5 กระบวนการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§14 ข้อห้ามการยกเว้นแบบเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน), [§13.1.5 กระบวนการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§14 ข้อห้ามการยกเว้นแบบเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)
 - ปลายทาง: [บทที่สิบ §5 การออกแบบและบังคับใช้การล็อก](core_11_standing_integration.md#5-lock-design-and-enforcement) และ [§5.4 กฎเฉพาะเกี่ยวกับการละเมิด](core_11_standing_integration.md#54-special-violation-rules) (*การจำคุกที่กำหนดสำหรับความรุนแรงที่ตรวจสอบแล้ว และมาตรการคุ้มครองอื่นเกี่ยวกับการบังคับหรือจำกัดเสรีภาพ*); [บทที่สิบเอ็ด §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*การป้องกัน — การล็อกจากการประพฤติมิชอบต่อรัฐธรรมนูญ*; การจำคุกเฉพาะกรณี)
 - อ่านร่วมกับ: [มาตรา XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*เกณฑ์การวินิจฉัยอย่างทันท่วงทีและการห้ามถ่วงเวลา*); [บทที่สิบสอง §5 การยกระดับและการรับรอง](core_12_forum.md#5-escalation-and-certification)
 
@@ -466,7 +466,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [การชดใช้และการแก้ไขเยียวยา](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
@@ -505,7 +505,7 @@ flowchart TB
   - ข้อจำกัดร้ายแรงที่ไม่มีกำหนดสิ้นสุด;
   - มาตรการจำกัดที่ย้อนกลับไม่ได้ ทั้งที่การชดใช้ การเยียวยา หรือการคุ้มครองแบบย้อนกลับได้ทำได้;
   - ข้อจำกัดที่ไม่มีเงื่อนไขกระตุ้นการประเมินซ้ำซึ่งตรวจสอบได้
-- **สิทธิขั้นพื้นฐานและศักดิ์ศรีที่เท่าเทียม:** ข้อจำกัด การกีดกัน และมาตรการความยุติธรรมอื่นที่เทียบเคียงกันต้องเป็นไปตาม **มาตรา VI** (*สิทธิขั้นพื้นฐานที่เท่าเทียม*) และ [**หลักศักดิ์ศรี**](core_01_b_interaction_interpretation.md#dignity-principles) ([หลักเกณฑ์ขั้นต่ำแห่งสิทธิ](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) และ [หลักการต่อต้านกระบวนการลดทอนศักดิ์ศรี](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)) ตลอดการกำหนด การทบทวน และการดำเนินข้อจำกัด การควบคุม หรือมาตรการความรับผิดรับชอบเพื่อฟื้นฟู
+- **สิทธิขั้นพื้นฐานและศักดิ์ศรีที่เท่าเทียม:** ข้อจำกัด การกีดกัน และมาตรการความยุติธรรมอื่นที่เทียบเคียงกันต้องเป็นไปตาม **มาตรา VI** (*สิทธิขั้นพื้นฐานที่เท่าเทียม*) และ [**หลักศักดิ์ศรี**](core_01_b_interaction_interpretation.md#หลกการวาดวยศกดศร) ([หลักเกณฑ์ขั้นต่ำแห่งสิทธิ](core_01_b_interaction_interpretation.md#หลกการหลกประกนขนตำของพนสทธ) และ [หลักการต่อต้านกระบวนการลดทอนศักดิ์ศรี](core_01_b_interaction_interpretation.md#หลกการหามกระบวนการทบนทอนศกดศร)) ตลอดการกำหนด การทบทวน และการดำเนินข้อจำกัด การควบคุม หรือมาตรการความรับผิดรับชอบเพื่อฟื้นฟู
 - **การยกระดับและการทบทวน:** ผู้ได้รับผลกระทบต้องเข้าถึงช่องทางยกระดับตามสัดส่วนของผลกระทบ
   - การเข้าถึงรวมถึงการอุทธรณ์หรือการทบทวนหลายชั้นเมื่อเดิมพันมีนัยสำคัญ
   - ผู้ได้รับผลกระทบต้องได้รับ:
@@ -525,19 +525,19 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline) และ [§11 โครงสร้างตลาด](core_01_a_values_principles.md#11-market-structure)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline) และ [§11 โครงสร้างตลาด](core_01_a_values_principles.md#11-โครงสรางตลาด)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การผูกขาดระบบเชิงโครงสร้าง](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
-- [การเคลื่อนย้ายและการย้ายถิ่นฐาน](../../core_05_band_participation.md#movement-and-relocation-constitutional) · [O](../../core_05_band_participation.md#movement-and-relocation-constitutional) · [M](../../core_05_band_participation.md#movement-and-relocation-constitutional-a) · [A](../../core_05_band_participation.md#movement-and-relocation-constitutional-a) · [C](../../core_05_band_participation.md#movement-and-relocation-constitutional-c)
-- [ที่ลี้ภัยจากการไม่ปฏิบัติตามข้อกำหนด](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [O](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [M](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
-- [การไม่ทำให้ไร้รัฐ](../../core_05_band_participation.md#non-statelessness-constitutional) · [O](../../core_05_band_participation.md#non-statelessness-constitutional) · [M](../../core_05_band_participation.md#non-statelessness-constitutional-a) · [A](../../core_05_band_participation.md#non-statelessness-constitutional-a) · [C](../../core_05_band_participation.md#non-statelessness-constitutional-c)
-- [การกระทำโดยมีอำนาจอย่างมีความหมาย](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_participation.md#meaningful-agency) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [การพึ่งพา](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [การผูกขาดระบบเชิงโครงสร้าง](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [การเคลื่อนย้ายและการย้ายถิ่นฐาน](../../core_05.055_band_participation.md#movement-and-relocation) · [O](../../core_05.055_band_participation.md#movement-and-relocation) · [M](../../core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [A](../../core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [C](../../core_05.055_band_participation.md#movement-and-relocation-constitutional-c)
+- [ที่ลี้ภัยจากการไม่ปฏิบัติตามข้อกำหนด](../../core_05.055_band_participation.md#refuge-from-non-compliance) · [O](../../core_05.055_band_participation.md#refuge-from-non-compliance) · [M](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-c)
+- [การไม่ทำให้ไร้รัฐ](../../core_05.055_band_participation.md#non-statelessness) · [O](../../core_05.055_band_participation.md#non-statelessness) · [M](../../core_05.055_band_participation.md#non-statelessness-constitutional-a) · [A](../../core_05.055_band_participation.md#non-statelessness-constitutional-a) · [C](../../core_05.055_band_participation.md#non-statelessness-constitutional-c)
+- [การกระทำโดยมีอำนาจอย่างมีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [การพึ่งพา](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -549,17 +549,17 @@ flowchart TB
 
 มาตรานี้กำหนด **เกณฑ์ขั้นต่ำตามรัฐธรรมนูญ** สำหรับการทำงานร่วมกัน การเคลื่อนย้ายข้อมูล การเคลื่อนย้าย ที่ลี้ภัย และความสมบูรณ์ของการออกจากระบบ ภายใต้ [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims):
 
-- **ความรุ่งเรือง:** ผู้มีความรู้สึกเลือก เปลี่ยน และประสานงานข้ามระบบและเขตอำนาจได้โดยไม่ถูกผูกขาดด้วยการบังคับ ไม่ถูกกีดกันอันขัดต่อ [การห้ามกีดกันผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion) หรือถูกปฏิเสธโดยอ้อม ผ่านการเคลื่อนย้ายข้อมูลที่ใช้ได้ การทำงานร่วมกันแบบตอบแทนกัน และเส้นทางเคลื่อนย้ายกับที่ลี้ภัยจริงเมื่อมี [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#material-impact)
+- **ความรุ่งเรือง:** ผู้มีความรู้สึกเลือก เปลี่ยน และประสานงานข้ามระบบและเขตอำนาจได้โดยไม่ถูกผูกขาดด้วยการบังคับ ไม่ถูกกีดกันอันขัดต่อ [การห้ามกีดกันผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-non-exclusion) หรือถูกปฏิเสธโดยอ้อม ผ่านการเคลื่อนย้ายข้อมูลที่ใช้ได้ การทำงานร่วมกันแบบตอบแทนกัน และเส้นทางเคลื่อนย้ายกับที่ลี้ภัยจริงเมื่อมี [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#ผลกระทบทเปนสาระ)
 - **ความต่อเนื่อง:** หน้าที่ด้านการออกจากระบบ การเคลื่อนย้ายข้อมูล ที่ลี้ภัย และการรับรองยังคงมั่นคงเมื่อการพึ่งพาเพิ่มขึ้น ผู้ดำเนินระบบเปลี่ยน หรือเขตอำนาจเปลี่ยน ระบบและระบอบห้ามทำให้สถาปัตยกรรมกับดักแข็งตัว จำกัดเงื่อนไขการบูรณาการโดยไม่แจ้ง หรือทำให้ผู้มีความรู้สึกไร้รัฐเมื่อโครงสร้างล้มเหลวหรือความสัมพันธ์สิ้นสุด
 
 การดำเนินการโดยชอบต้องผ่าน [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) ตามสัดส่วนของ [เดิมพันที่มีนัยสำคัญ](core_00_preamble.md#material-stake):
 
 - **การมีส่วนร่วม:** ในการเลือกระบบและเขตอำนาจ การย้ายระบบพร้อมข้อมูลและอัตลักษณ์ที่ใช้ได้ การโต้แย้งการผูกขาดและการปฏิเสธโดยอ้อม และการขอที่ลี้ภัยเมื่อแนวปฏิบัติไม่เป็นไปตามข้อกำหนดอย่างมีนัยสำคัญ
 - **การกำกับดูแล:** ด้วยการกำหนดขอบเขตการทำงานร่วมกันที่มีเอกสารรองรับ การส่งมอบข้อมูลโดยทันท่วงที การแจ้งล่วงหน้าก่อนจำกัดสิทธิอย่างมีนัยสำคัญ และการทบทวนว่าเงื่อนไขการเปลี่ยนผ่านเกิดขึ้นจริง ไม่ใช่แค่ในรูปแบบ
-- **ความรับผิดรับชอบ:** ระบบและระบอบต้องรับผิดชอบต่อ [การผูกขาดระบบเชิงโครงสร้าง](core_05_band_continuity.md#systemic-lock-in) การออกแบบต่อต้านการเคลื่อนย้ายข้อมูล การกีดกันอันขัดต่อ [การห้ามกีดกันผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion) ความเหนื่อยล้าจากราชการ หรือการกระทำอื่นที่มีผลหลักเป็นการกักผู้มีความรู้สึกไว้ — ขัดขวางการออก การเปลี่ยนทดแทน การเคลื่อนย้าย ที่ลี้ภัย หรือการรับรอง
+- **ความรับผิดรับชอบ:** ระบบและระบอบต้องรับผิดชอบต่อ [การผูกขาดระบบเชิงโครงสร้าง](core_05_band_continuity.md#systemic-lock-in) การออกแบบต่อต้านการเคลื่อนย้ายข้อมูล การกีดกันอันขัดต่อ [การห้ามกีดกันผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-non-exclusion) ความเหนื่อยล้าจากราชการ หรือการกระทำอื่นที่มีผลหลักเป็นการกักผู้มีความรู้สึกไว้ — ขัดขวางการออก การเปลี่ยนทดแทน การเคลื่อนย้าย ที่ลี้ภัย หรือการรับรอง
 - **ความทันท่วงที:** ในการส่งมอบข้อมูล การพิจารณาที่ลี้ภัย การแจ้งเรื่องการทำงานร่วมกัน และการแก้ไขอุปสรรค ก่อนที่ความล่าช้า ความทึบแสง หรือแรงเสียดทานทางกระบวนการจะทำให้การออก การย้ายถิ่น หรือการเยียวยาเข้าถึงไม่ได้ในทางปฏิบัติตาม **มาตรา XXVI-C** (*เกณฑ์การวินิจฉัยอย่างทันท่วงทีและการห้ามถ่วงเวลา*)
 
-ผู้มีความรู้สึกและระบบที่พึ่งพากันมีสิทธิในการออกจากระบบ การย้ายถิ่น การทำงานร่วมกัน การเคลื่อนย้าย ที่ลี้ภัย และการรับรองที่มีความหมายและใช้ได้จริง โดยไม่ถูกผูกขาดด้วยการบังคับ ไม่ถูกกีดกันอันขัดต่อ [การห้ามกีดกันผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion) หรือทำให้ไร้รัฐ
+ผู้มีความรู้สึกและระบบที่พึ่งพากันมีสิทธิในการออกจากระบบ การย้ายถิ่น การทำงานร่วมกัน การเคลื่อนย้าย ที่ลี้ภัย และการรับรองที่มีความหมายและใช้ได้จริง โดยไม่ถูกผูกขาดด้วยการบังคับ ไม่ถูกกีดกันอันขัดต่อ [การห้ามกีดกันผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-non-exclusion) หรือทำให้ไร้รัฐ
 
 - สิทธินี้ไม่ได้กำหนดให้ต้องเปิดเผยข้อมูลอย่างไม่ปลอดภัยหรือไม่มีเหตุผลรองรับ
 - แต่กำหนดให้เงื่อนไขการเปลี่ยนผ่านเกิดขึ้นจริงในทางปฏิบัติ ไม่ใช่เพียงเป็นทางการ
@@ -577,14 +577,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การกระทำโดยมีอำนาจอย่างมีความหมาย](../../core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [การกระทำโดยมีอำนาจอย่างมีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [การผูกขาดระบบเชิงโครงสร้าง](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
 - [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -607,7 +607,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -615,7 +615,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [การพึ่งพา](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [ความเป็นไปได้](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
+- [ความเป็นไปได้](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
 - [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
@@ -633,7 +633,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 
 </details>
 
@@ -669,8 +669,8 @@ flowchart TB
 - **ให้ความสำคัญกับแบบเปิด:** ระบบควรเลือกรูปแบบ อินเทอร์เฟซ และโปรโตคอลแบบเปิด หน้าที่นี้เข้มขึ้นตามผลกระทบที่เป็นสาระสำคัญและระดับการพึ่งพา
 - **สิ่งที่ถือว่าเปิด:** มีข้อกำหนดฉบับสมบูรณ์เปิดเผยต่อสาธารณะ ใครก็ใช้งานได้โดยไม่ต้องขออนุญาต เสียค่าธรรมเนียมหรือค่าสิทธิ และไม่มีฝ่ายเดียวเปลี่ยนแปลงได้ตามลำพัง หรือผู้อื่นสามารถแยกไปพัฒนาและดูแลต่อได้โดยเสรีเมื่อฝ่ายนั้นเลิกสนับสนุน รูปแบบที่มีเอกสารแต่ไม่ผ่านข้อใดข้อหนึ่งถือว่าปิดสำหรับอนุมาตรานี้ แต่ยังดีกว่ารูปแบบที่ไม่มีเอกสาร
 - **หน้าที่ตามชั้นงาน:**
-  - **การออกจากระบบ:** เส้นทางส่งออกและย้ายข้อมูลตาม [Article XXI-A](../../core_06_rights_part_d.md#article-xxi-a-portability-rights) ต้องมีรูปแบบเปิดอย่างน้อยหนึ่งรูปแบบเมื่อสามารถย้ายข้อมูลได้โดยไม่สูญเสียโครงสร้าง เมทาดาทา ความสัมพันธ์ หรือความเที่ยงตรงอย่างมีนัยสำคัญ
-  - **การทำงานร่วมกัน:** ขอบเขตการเชื่อมต่อภายใต้ [Article XXI-B](../../core_06_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) ต้องใช้มาตรฐานและโปรโตคอลแบบเปิดเป็นค่าเริ่มต้น ใช้แบบปิดได้เมื่อมีเหตุผลตามอนุมาตรานี้เท่านั้น
+  - **การออกจากระบบ:** เส้นทางส่งออกและย้ายข้อมูลตาม [Article XXI-A](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights) ต้องมีรูปแบบเปิดอย่างน้อยหนึ่งรูปแบบเมื่อสามารถย้ายข้อมูลได้โดยไม่สูญเสียโครงสร้าง เมทาดาทา ความสัมพันธ์ หรือความเที่ยงตรงอย่างมีนัยสำคัญ
+  - **การทำงานร่วมกัน:** ขอบเขตการเชื่อมต่อภายใต้ [Article XXI-B](../../core_06.020_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) ต้องใช้มาตรฐานและโปรโตคอลแบบเปิดเป็นค่าเริ่มต้น ใช้แบบปิดได้เมื่อมีเหตุผลตามอนุมาตรานี้เท่านั้น
   - **รูปแบบภายในและรูปแบบเฉพาะระบบ:** ควรเลือกรูปแบบเปิดสำหรับการจัดเก็บและการทำงานภายใน รูปแบบปิดต้องมีเหตุผลที่หนักแน่นขึ้นตามผลกระทบและการพึ่งพา
   - **ข้อมูลสาธารณะ:** ข้อมูลที่เผยแพร่ให้สาธารณะเข้าถึง รวมถึงประเภท O, E และ W ตาม corpus_systems.md CS-2 ต้องเผยแพร่ในรูปแบบเปิดเป็นค่าเริ่มต้น
 - **เหตุผลที่ใช้รูปแบบปิดได้:** ใช้รูปแบบ อินเทอร์เฟซ หรือโปรโตคอลแบบปิดได้เฉพาะเมื่อไม่มีทางเลือกแบบเปิดที่ตอบสนองความต้องการสำคัญ เช่น ความเที่ยงตรง ประสิทธิภาพ ความปลอดภัย ความมั่นคงปลอดภัย การเข้าถึง หรือหน้าที่เฉพาะ
@@ -678,7 +678,7 @@ flowchart TB
   - ต้องเสนอการส่งออกแบบเปิดที่ดีที่สุดเท่าที่มี และเปิดเผยสิ่งที่สูญเสียไปกับการส่งออกนั้น
   - ต้องจัดทำเอกสารรูปแบบปิดให้เพียงพอสำหรับการย้าย หรือฝากเอกสารไว้กับผู้รับฝากอิสระ
   - ต้องทบทวนทางเลือกเป็นระยะเมื่อทางเลือกแบบเปิดพัฒนาขึ้น และทุกครั้งที่มีการรับรองหรือยืนยันใหม่ซึ่งมีผลกระทบสำคัญ
-  - ความสะดวก การประหยัดค่าใช้จ่ายของผู้ดำเนินการ หรือการเป็นเจ้าตลาดเพียงอย่างเดียวไม่ใช่เหตุผล รูปแบบปิดที่มีผลหลักเป็นการขัดขวางการออกหรือเปลี่ยนระบบขัดต่อ [Article XXI-C](../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
+  - ความสะดวก การประหยัดค่าใช้จ่ายของผู้ดำเนินการ หรือการเป็นเจ้าตลาดเพียงอย่างเดียวไม่ใช่เหตุผล รูปแบบปิดที่มีผลหลักเป็นการขัดขวางการออกหรือเปลี่ยนระบบขัดต่อ [Article XXI-C](../../core_06.020_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
 - **ช่วงเปลี่ยนผ่าน:** ระบบที่ทำงานอยู่แล้วเมื่ออนุมาตรานี้เริ่มใช้ต้องเปิดเผยแผนย้ายระบบ และโดยปกติต้องทำตามหน้าที่ด้านการทำงานร่วมกัน รูปแบบภายใน และข้อมูลสาธารณะภายในหนึ่งปี
   - ผู้รับอาจกำหนดช่วงเวลาอื่นสำหรับระบบแต่ละประเภทผ่านการนำไปใช้ใน Chapter Eighteen พร้อมเผยแพร่เหตุผล
   - ให้ขยายเวลาได้เฉพาะเมื่อมีสถานการณ์พิเศษ และมีเหตุผลตามภาระการให้เหตุผลที่ใช้บังคับซึ่งบันทึกไว้ ตรวจสอบได้ และจำกัดเวลา
@@ -695,7 +695,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 ความได้สัดส่วน](core_01_b_interaction_interpretation.md#1313-ความไดสดสวน), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline)
 - ปลายทาง: เกณฑ์ศักดิ์ศรีตาม **มาตรา VI-A** (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียม*), การไม่เลือกปฏิบัติตาม **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*), การมีส่วนร่วมของผู้มีส่วนได้เสียตาม **มาตรา XII** (*การเข้าร่วม การเป็นตัวแทน และกระบวนการอันชอบธรรมของผู้มีส่วนได้เสียในระบบ*), การส่งต่อสถานะและการเข้าร่วมตาม **มาตรา XIX** (*สถานะการยืนหยัดและการเข้าร่วม*), ข้อจำกัดมาตรการฉุกเฉินตาม **บทที่สิบสาม §6.1** (*มาตรการฉุกเฉินและภาระในการดำเนินมาตรการต่อ*), การกำกับดูแลช่วงเปลี่ยนผ่านตาม **มาตรา XXVIII** (*การกำกับดูแลการเปลี่ยนผ่าน ความต่อเนื่อง และการกำหนดเส้นฐานใหม่*)
 - อ่านร่วมกับ: [บทที่ห้า *การเคลื่อนย้าย ที่ลี้ภัย การไม่ทำให้ไร้รัฐ และความสมบูรณ์ของการออกจากระบบ*](core_05_band_oversight.md#movement-refuge-semi-independent); *การเคลื่อนย้ายและการย้ายถิ่นฐาน*, *ที่ลี้ภัยจากการไม่ปฏิบัติตามข้อกำหนด*, *การไม่ทำให้ไร้รัฐ*, *การห้ามกีดกันผู้มีความรู้สึก*; *การผูกขาดระบบเชิงโครงสร้าง* และ *ความต่อเนื่องของการครอบครอง* เมื่อการออก การสิ้นสุดการให้ที่พัก การขับไล่ หรือการย้ายถิ่นอย่างมีสาระสำคัญเกี่ยวข้อง; **มาตรา I-A** (*เงื่อนไขเบื้องต้นทางสิ่งแวดล้อมและความสมบูรณ์ทางนิเวศ*) เมื่อระบบหรือโครงการทำให้สถานที่อยู่อาศัยไม่ได้; **มาตรา XXI-A** (*สิทธิในการเคลื่อนย้ายข้อมูล*) ถึง **มาตรา XXI-C** (*กฎต่อต้านการผูกขาดระบบ*) สำหรับกลไกการเคลื่อนย้ายโครงสร้างพื้นฐานและความสมบูรณ์ของการออกจากระบบ; **มาตรา XXVIII** (*การกำกับดูแลการเปลี่ยนผ่าน ความต่อเนื่อง และการกำหนดเส้นฐานใหม่*) สำหรับกลไกการรับรองช่วงเปลี่ยนผ่าน
 
@@ -708,11 +708,11 @@ flowchart TB
 - [ที่ลี้ภัยจากการไม่ปฏิบัติตามข้อกำหนด](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [O](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [M](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
 - [การไม่ทำให้ไร้รัฐ](core_05_band_participation.md#non-statelessness-constitutional) · [O](core_05_band_participation.md#non-statelessness-constitutional) · [M](core_05_band_participation.md#non-statelessness-constitutional-a) · [A](core_05_band_participation.md#non-statelessness-constitutional-a) · [C](core_05_band_participation.md#non-statelessness-constitutional-c)
 - [การผูกขาดระบบเชิงโครงสร้าง](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [ความต่อเนื่องของการครอบครอง](../../core_05_band_continuity.md#occupancy-continuity-constitutional) · [O](../../core_05_band_continuity.md#occupancy-continuity-constitutional) · [M](../../core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [A](../../core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [C](../../core_05_band_continuity.md#occupancy-continuity-constitutional-c)
+- [ความต่อเนื่องของการครอบครอง](../../core_05.040_band_continuity.md#occupancy-continuity) · [O](../../core_05.040_band_continuity.md#occupancy-continuity) · [M](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional-a) · [A](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional-a) · [C](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional-c)
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [ความได้สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [ความเป็นธรรมทางกระบวนการ](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [ความเป็นไปได้](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
+- [ความเป็นไปได้](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
 - [การชดใช้และการแก้ไขเยียวยา](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [ลักษณะที่ได้รับความคุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
 
@@ -724,22 +724,22 @@ flowchart TB
 
 มาตรานี้กำหนดเกณฑ์ขั้นต่ำด้านการเคลื่อนย้าย ที่ลี้ภัย และการไม่ทำให้ไร้รัฐ ตลอดจนขีดจำกัดการจำกัดสิทธิเหล่านั้น:
 
-บทความนี้กำหนดสิทธิที่มีความหมายในการเคลื่อนย้าย การย้ายถิ่น การลี้ภัย และการได้รับการรับรอง โดยห้ามการกีดกันที่ขัดต่อ[หลักห้ามกีดกันผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion) การปฏิเสธโดยอ้อม หรือการทำให้ไร้รัฐ บทความนี้สอดคล้องกับ[บทที่ห้า *การเคลื่อนย้าย การลี้ภัย การไม่ทำให้ไร้รัฐ และความสมบูรณ์ของการออกจากระบบ*](../../core_05_band_oversight.md#oversight-dependent-clusters) แต่ไม่ได้กำหนดให้ผู้รับรายใดรายหนึ่งต้องรับไว้จำนวนมาก
+บทความนี้กำหนดสิทธิที่มีความหมายในการเคลื่อนย้าย การย้ายถิ่น การลี้ภัย และการได้รับการรับรอง โดยห้ามการกีดกันที่ขัดต่อ[หลักห้ามกีดกันผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-non-exclusion) การปฏิเสธโดยอ้อม หรือการทำให้ไร้รัฐ บทความนี้สอดคล้องกับ[บทที่ห้า *การเคลื่อนย้าย การลี้ภัย การไม่ทำให้ไร้รัฐ และความสมบูรณ์ของการออกจากระบบ*](../../core_05.050_band_oversight.md#oversight-dependent-clusters) แต่ไม่ได้กำหนดให้ผู้รับรายใดรายหนึ่งต้องรับไว้จำนวนมาก
 
 - **การเชื่อมกับสิทธิด้านการเคลื่อนย้ายข้อมูลและการออกจากระบบ:** **มาตรา XXI** (*การทำงานร่วมกัน การเคลื่อนย้ายข้อมูล และความสมบูรณ์ของการออกจากระบบ*) กำกับสิทธิเหล่านั้น ส่วนมาตรานี้กำกับการเคลื่อนย้ายทางกายภาพ ระหว่างเขตอำนาจ และระหว่างระบอบ
   - เมื่อการกระทำเดียวเกี่ยวข้องกับทั้งสองมาตรา เช่น ผู้มีความรู้สึกสังเคราะห์ย้ายระหว่างสหพันธรัฐโดยใช้การเคลื่อนย้ายของฐานรองรับ ทั้งสองมาตราใช้บังคับ และไม่มีมาตราใดลดทอนขอบเขตของอีกมาตรา
   - ให้แก้ความขัดแย้งตาม **บทที่หนึ่ง §6.1.5** (*การทดสอบตัดสินความขัดแย้งของสิทธิ*)
 
-มาตรานี้กำหนด **เกณฑ์ขั้นต่ำตามรัฐธรรมนูญ** สำหรับการเคลื่อนย้าย การย้ายถิ่น การลี้ภัย และการไม่ทำให้ไร้รัฐ ภายใต้[เป้าหมายตามรัฐธรรมนูญสองประการ](../../core_00_preamble.md#two-constitutional-aims):
+มาตรานี้กำหนด **เกณฑ์ขั้นต่ำตามรัฐธรรมนูญ** สำหรับการเคลื่อนย้าย การย้ายถิ่น การลี้ภัย และการไม่ทำให้ไร้รัฐ ภายใต้[เป้าหมายตามรัฐธรรมนูญสองประการ](../../core_00.000_preamble.md#two-constitutional-aims):
 
-- **ความผาสุก:** ผู้มีความรู้สึกสามารถเคลื่อนย้าย ย้ายถิ่น และขอลี้ภัยระหว่างเขตอำนาจ สหพันธรัฐ และระบอบผู้รับได้ โดยไม่ถูกกีดกันหรือปฏิเสธโดยอ้อมที่ขัดต่อ[หลักห้ามกีดกันผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion) โดยเฉพาะเมื่อการอยู่ต่อทำให้การอยู่รอด ศักดิ์ศรี การเข้าถึงเกณฑ์ขั้นต่ำด้านสิทธิ หรือเสรีภาพจากการชักจูงได้รับผลกระทบอย่างมีนัยสำคัญ
+- **ความผาสุก:** ผู้มีความรู้สึกสามารถเคลื่อนย้าย ย้ายถิ่น และขอลี้ภัยระหว่างเขตอำนาจ สหพันธรัฐ และระบอบผู้รับได้ โดยไม่ถูกกีดกันหรือปฏิเสธโดยอ้อมที่ขัดต่อ[หลักห้ามกีดกันผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-non-exclusion) โดยเฉพาะเมื่อการอยู่ต่อทำให้การอยู่รอด ศักดิ์ศรี การเข้าถึงเกณฑ์ขั้นต่ำด้านสิทธิ หรือเสรีภาพจากการชักจูงได้รับผลกระทบอย่างมีนัยสำคัญ
 +- **ความต่อเนื่อง:** หน้าที่ด้านการลี้ภัยและการรับรองต้องคงอยู่เมื่อเขตอำนาจหรือสหพันธรัฐเปลี่ยนแปลง หรือโครงสร้างล้มเหลว การสิ้นสุดความสัมพันธ์หรือการล่มสลายของระบบแม่ต้องไม่ทำให้ผู้มีความรู้สึกไร้รัฐ
 +
-+การดำเนินการโดยชอบต้องผ่าน[จตุรธรรมรัฐธรรมนูญ](../../core_00_preamble.md#constitutional-tetrad) และได้สัดส่วนกับ[ส่วนได้เสียที่เป็นสาระสำคัญ](../../core_00_preamble.md#material-stake):
++การดำเนินการโดยชอบต้องผ่าน[จตุรธรรมรัฐธรรมนูญ](../../core_00.000_preamble.md#constitutional-tetrad) และได้สัดส่วนกับ[ส่วนได้เสียที่เป็นสาระสำคัญ](../../core_00.000_preamble.md#material-stake):
 +
 +- **การมีส่วนร่วม:** ในการตัดสินใจว่าจะอยู่อาศัยหรือดำเนินงานที่ใด การย้ายที่อยู่ การขอลี้ภัยเมื่อการปฏิบัติไม่เป็นไปตามรัฐธรรมนูญอย่างมีนัยสำคัญ และการโต้แย้งการปฏิเสธโดยอ้อม
 +- **การกำกับดูแล:** ผ่านเงื่อนไขการรับเข้าและการลี้ภัยที่เผยแพร่ หลักเกณฑ์เฉพาะบุคคลสำหรับการจำกัด และการตรวจสอบว่าเส้นทางการเคลื่อนย้ายและการรับรองใช้ได้จริงหรือมีเพียงในรูปแบบ
-+- **ความรับผิดรับชอบ:** ระบอบต้องรับผิดชอบต่อการกีดกันที่ขัดต่อ[หลักห้ามกีดกันผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion) การขับไล่หรือผลักภาระโดยบังคับ การใช้ระบบราชการทำให้ผู้ยื่นคำขอหมดแรง หรือการกระทำอื่นที่มีผลหลักเป็นการขัดขวางการเคลื่อนย้าย การลี้ภัย หรือการรับรอง
++- **ความรับผิดรับชอบ:** ระบอบต้องรับผิดชอบต่อการกีดกันที่ขัดต่อ[หลักห้ามกีดกันผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-non-exclusion) การขับไล่หรือผลักภาระโดยบังคับ การใช้ระบบราชการทำให้ผู้ยื่นคำขอหมดแรง หรือการกระทำอื่นที่มีผลหลักเป็นการขัดขวางการเคลื่อนย้าย การลี้ภัย หรือการรับรอง
 +- **ความทันท่วงที:** พิจารณาคำขอลี้ภัย จัดการรับรอง และทบทวนข้อจำกัดฉุกเฉินก่อนที่ความล่าช้าจะทำให้การเคลื่อนย้าย การลี้ภัย หรือการเยียวยาเข้าถึงไม่ได้ในทางปฏิบัติ ตาม **มาตรา XXVI-C** (*เกณฑ์การวินิจฉัยอย่างทันท่วงทีและการห้ามถ่วงเวลา*)
 +
 +*มาตราที่เกี่ยวข้อง:*
@@ -787,7 +787,7 @@ flowchart TB
 <a id="article-xxii-c-non-statelessness"></a>
 #### มาตรา XXII-C: การไม่ทำให้ไร้รัฐ
 
-ทั้งสามหน้าที่ต้องเป็นจริง ไม่ใช่เพียงเป็นทางการ และผู้มีความรู้สึกต้องเข้าถึงได้ผ่านเวทีที่รับฟังเรื่องของตน นี่คือระดับพื้นฐานการรับรองแบบ **ไม่มีระบอบเป็นศูนย์** ภายใต้ [การไม่กีดกันผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion)
+ทั้งสามหน้าที่ต้องเป็นจริง ไม่ใช่เพียงเป็นทางการ และผู้มีความรู้สึกต้องเข้าถึงได้ผ่านเวทีที่รับฟังเรื่องของตน นี่คือระดับพื้นฐานการรับรองแบบ **ไม่มีระบอบเป็นศูนย์** ภายใต้ [การไม่กีดกันผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-non-exclusion)
 
 **การรับรองไม่ใช่การให้ที่พักอาศัยหรือสัญชาติ:** การรับรองหมายถึงระบอบรับผิดชอบต่อสามหน้าที่ข้างต้น โดยตัวมันเองไม่ได้ให้สิทธิพำนัก ได้รับการโฮสต์ หรือมีสิทธิทางการเมืองเต็มรูปแบบในระบอบนั้น
 
@@ -826,10 +826,10 @@ flowchart TB
   - มาตรการดังกล่าวต้องเป็นไปตาม **มาตรา XX-B** (*เกณฑ์ขั้นต่ำในการจำกัดสิทธิ*) และความคุ้มครองกระบวนการอาญาหรือเทียบเท่าที่ใช้บังคับตาม [บทที่สิบเอ็ด §5.4 กฎเฉพาะเกี่ยวกับการละเมิด](core_11_standing_integration.md#54-special-violation-rules)
   - ต้องสอดคล้องกับ **การไม่ทำให้ไร้รัฐ** ห้ามทิ้งผู้มีความรู้สึกไว้โดยไม่มีระบอบที่รับรองการคุ้มครองเกณฑ์ขั้นต่ำด้านสิทธิขั้นพื้นฐาน วินิจฉัยสถานะการยืนหยัด และจัดช่องทาง **การชดใช้และการแก้ไขเยียวยา** รวมถึงระหว่างการควบคุมตัวหรือข้อจำกัดที่เทียบเคียงกัน
   - การล็อกสถานะตาม **มาตรา XIX** (*สถานะการยืนหยัดและการเข้าร่วม*) และ [บทที่สิบเอ็ด §4.2 การป้องกัน — การล็อกสถานะการยืนหยัดทั่วไป](core_11_standing_integration.md#42-prevention--general-standing-locks) ไม่ให้อำนาจใช้มาตรการเหล่านั้น **ด้วยตัวเอง** แต่สามารถดำเนินควบคู่กันได้เมื่อแต่ละมาตรการเป็นไปตามข้อกำหนดตามรัฐธรรมนูญของตน
-- **สถานะการยืนหยัดไม่ใช่พรมแดน:** สถานะผู้เข้าร่วม เกณฑ์กั้นความสามารถ การรับรองความสามารถ และการล็อกสถานะตาม **มาตรา XIX** (*สถานะการยืนหยัดและการมีส่วนร่วม*) กำหนดคุณสมบัติสำหรับช่องทางที่ระบุชื่อ หากความเสี่ยงที่ตรวจสอบแล้วจำเป็น อาจใช้การล็อกเพื่อแยกผู้มีความรู้สึกออกจากสถานที่ เครือข่าย หรือบุคคลที่ระบุ โดยต้องเป็นไปตาม[ข้อจำกัดในการแยก](../../core_11_standing_integration.md#51-separation-limits)
+- **สถานะการยืนหยัดไม่ใช่พรมแดน:** สถานะผู้เข้าร่วม เกณฑ์กั้นความสามารถ การรับรองความสามารถ และการล็อกสถานะตาม **มาตรา XIX** (*สถานะการยืนหยัดและการมีส่วนร่วม*) กำหนดคุณสมบัติสำหรับช่องทางที่ระบุชื่อ หากความเสี่ยงที่ตรวจสอบแล้วจำเป็น อาจใช้การล็อกเพื่อแยกผู้มีความรู้สึกออกจากสถานที่ เครือข่าย หรือบุคคลที่ระบุ โดยต้องเป็นไปตาม[ข้อจำกัดในการแยก](../../core_11.000_standing_integration.md#51-separation-limits)
   - ป้ายสถานะหรือการล็อกเพื่อแยก **โดยลำพัง** ไม่จำกัดสิทธิในการเคลื่อนย้าย ย้ายถิ่น ลี้ภัย เคลื่อนย้ายข้อมูล ออกจากระบบ หรือไม่ถูกทำให้ไร้รัฐ
   - อาจห้ามเข้าสถานที่หรือห้ามติดต่อที่ระบุ แต่ต้องไม่ทำหน้าที่เป็นการเนรเทศโดยทั่วไป การปฏิเสธที่ลี้ภัย การทำให้ไร้รัฐ การกักขัง หรือการผูกขาดระบบเชิงโครงสร้าง และผลด้านสถานะต้องไม่ใช้แทนกระบวนการยุติธรรมเฉพาะบุคคล
-  - การล็อกสถานะเพียงอย่างเดียวไม่เคยให้อำนาจจำคุก กักตัว หรือจำกัดเสรีภาพแบบอื่น มาตรการเหล่านั้นต้องผ่านกระบวนการข้างต้น ทั้งสองอย่างอาจดำเนินควบคู่กันได้เมื่อแต่ละอย่างเป็นไปตามข้อกำหนดรัฐธรรมนูญของตนตาม[บทที่สิบเอ็ด §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks)และมาตรานี้
+  - การล็อกสถานะเพียงอย่างเดียวไม่เคยให้อำนาจจำคุก กักตัว หรือจำกัดเสรีภาพแบบอื่น มาตรการเหล่านั้นต้องผ่านกระบวนการข้างต้น ทั้งสองอย่างอาจดำเนินควบคู่กันได้เมื่อแต่ละอย่างเป็นไปตามข้อกำหนดรัฐธรรมนูญของตนตาม[บทที่สิบเอ็ด §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks)และมาตรานี้
 - **ขีดจำกัดของมาตรการฉุกเฉิน:** มาตรการฉุกเฉินที่จำกัดการเคลื่อนย้าย การย้ายถิ่น หรือที่ลี้ภัย อยู่ภายใต้วินัยมาตรการฉุกเฉินตาม **บทที่สิบสาม §6.1** (*มาตรการฉุกเฉินและภาระในการดำเนินมาตรการต่อ*) ซึ่งรวมถึง:
   - การกำหนดกรอบเวลา;
   - ข้อกำหนดเงื่อนไขเฉพาะบุคคล;
@@ -839,7 +839,7 @@ flowchart TB
   การอ้าง “ความมั่นคงชายแดน” หรือ “ขีดความสามารถ” ในภาพรวมที่ไม่ผ่านการทดสอบข้อจำกัดตามปกติ ไม่ใช่เหตุผลรองรับข้อจำกัดที่ยืดเยื้อ ข้อจำกัดที่ยืดเยื้อจะคงอยู่หลังการทบทวนได้เฉพาะเมื่อพิสูจน์และบันทึก **ความจำเป็น** และ **ความได้สัดส่วน** อย่างเป็นอิสระ
 - **ต่อต้านการปฏิเสธโดยอ้อม:** กลไกด้านราชการ ธุรการ หรือการจัดสรรที่ทำหน้าที่ปฏิเสธการเคลื่อนย้าย ที่ลี้ภัย หรือการรับรอง จะได้รับการประเมินตามผลในสาระ ตัวอย่างที่ไม่เป็นไปตามข้อกำหนด:
   - ระบอบความล่าช้าที่ออกแบบมาเพื่อทำให้ผู้ยื่นคำขอหมดแรง;
-  - ระบอบรับรองคุณวุฒิที่ทำหน้าที่กีดกันอันขัดต่อ [การห้ามกีดกันผู้มีความรู้สึก](../../core_05_band_participation.md#sentience-non-exclusion);
+  - ระบอบรับรองคุณวุฒิที่ทำหน้าที่กีดกันอันขัดต่อ [การห้ามกีดกันผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-non-exclusion);
   - ระบอบจัดสรรที่ส่งผู้ยื่นคำขอไปใช้บริการซึ่งไม่เทียบเท่ากัน
 - **ขีดจำกัดของมาตรานี้:** มาตรานี้กำหนดเกณฑ์ขั้นต่ำแห่งสิทธิ
   - ขั้นตอนการรับรองข้ามสหพันธ์ให้เป็นไปตามข้อความการดำเนินงานที่รับรองภายใต้ **บทที่สิบแปด**
@@ -849,23 +849,23 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ [บทที่หนึ่ง §5.2 การเข้าถึงภาษาสามัญ (หน้าที่ในการดูแลรับผิดชอบ)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) และ [บทที่หนึ่ง ส่วน C §16.1 ความเข้าใจที่กระจายอยู่ทั่วระบบ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)
-- อ่านร่วมกับ: [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) — **ความรุ่งเรือง** และ **ความต่อเนื่อง**; [ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden), [ขีดความสามารถในการผลิต](../../core_05_band_continuity.md#productive-capacity-constitutional) และ [ประสิทธิภาพตามรัฐธรรมนูญ](../../core_05_band_continuity.md#constitutional-efficiency) ใน **บทที่ห้า**
+- ต้นทาง: หลักการ [บทที่หนึ่ง §5.2 การเข้าถึงภาษาสามัญ (หน้าที่ในการดูแลรับผิดชอบ)](core_01_a_values_principles.md#52-การเขาถงดวยภาษาทเขาใจงาย-หนาทดานการมสวนรวมและการดแลรบผดชอบ), [§13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด) และ [บทที่หนึ่ง ส่วน C §16.1 ความเข้าใจที่กระจายอยู่ทั่วระบบ](core_01_c_stewardship_capacity_principles.md#161-ความเขาใจทกระจายทวถง)
+- อ่านร่วมกับ: [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) — **ความรุ่งเรือง** และ **ความต่อเนื่อง**; [ภาระที่หลีกเลี่ยงได้](../../core_05.040_band_continuity.md#avoidable-burden), [ขีดความสามารถในการผลิต](../../core_05.040_band_continuity.md#productive-capacity) และ [ประสิทธิภาพตามรัฐธรรมนูญ](../../core_05.040_band_continuity.md#constitutional-efficiency) ใน **บทที่ห้า**
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ขีดความสามารถในการผลิต](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [ประสิทธิภาพตามรัฐธรรมนูญ](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
-- [ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
-- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [ความจริง (ข้อจำกัดตามรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [สาระสำคัญ](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [การกระทำโดยมีอำนาจอย่างมีความหมาย](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_participation.md#meaningful-agency) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [การตรวจสอบได้](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [สิทธิในการโต้แย้ง](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [ขีดความสามารถในการผลิต](../../core_05.040_band_continuity.md#productive-capacity) · [O](../../core_05.040_band_continuity.md#productive-capacity) · [M](../../core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#productive-capacity-constitutional-c)
+- [ประสิทธิภาพตามรัฐธรรมนูญ](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
+- [ภาระที่หลีกเลี่ยงได้](../../core_05.040_band_continuity.md#avoidable-burden) · [O](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [A](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [ความปลอดภัย (ข้อจำกัดตามรัฐธรรมนูญ)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [ความจริง (ข้อจำกัดตามรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [สาระสำคัญ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [O](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [การกระทำโดยมีอำนาจอย่างมีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [การตรวจสอบได้](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [สิทธิในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -875,41 +875,41 @@ flowchart TB
 
 มาตรานี้กำหนด **เกณฑ์ขั้นต่ำตามรัฐธรรมนูญ** ด้านความเข้าใจได้และการกำกับดูแลความซับซ้อน ภายใต้ [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims):
 
-- **ความรุ่งเรือง:** ผู้มีความรู้สึกเข้าใจระบบที่ส่งผลอย่างมีนัยสำคัญต่อการอยู่รอด เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม ความสมบูรณ์ของพื้นที่ข้อมูล และ [การกระทำโดยมีอำนาจอย่างมีความหมาย](../../core_05_band_participation.md#meaningful-agency) ได้เพียงพอที่จะมีส่วนร่วม อาศัยข้อมูลที่ถูกต้อง และโต้แย้งสิ่งที่ผิดพลาดได้ โดยไม่ต้องเข้าถึงเฉพาะทางสำหรับผู้เชี่ยวชาญเท่านั้น
-- **ความต่อเนื่อง:** วินัยด้านความเข้าใจและความซับซ้อนคงอยู่ข้ามเวลา ขนาด และการพึ่งพาที่ลึกซึ้งขึ้น ระบบห้ามทำให้ตรวจสอบ โต้แย้ง หรือแก้ไขได้ยากขึ้นอย่างเงียบ ๆ เมื่อเดิมพันสูงขึ้น และ [ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden) ต้องไม่กัดกร่อน [ขีดความสามารถในการผลิต](../../core_05_band_continuity.md#productive-capacity-constitutional) หรือ [ประสิทธิภาพตามรัฐธรรมนูญ](../../core_05_band_continuity.md#constitutional-efficiency) โดยไม่มีประโยชน์ชดเชยตามรัฐธรรมนูญ
+- **ความรุ่งเรือง:** ผู้มีความรู้สึกเข้าใจระบบที่ส่งผลอย่างมีนัยสำคัญต่อการอยู่รอด เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม ความสมบูรณ์ของพื้นที่ข้อมูล และ [การกระทำโดยมีอำนาจอย่างมีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) ได้เพียงพอที่จะมีส่วนร่วม อาศัยข้อมูลที่ถูกต้อง และโต้แย้งสิ่งที่ผิดพลาดได้ โดยไม่ต้องเข้าถึงเฉพาะทางสำหรับผู้เชี่ยวชาญเท่านั้น
+- **ความต่อเนื่อง:** วินัยด้านความเข้าใจและความซับซ้อนคงอยู่ข้ามเวลา ขนาด และการพึ่งพาที่ลึกซึ้งขึ้น ระบบห้ามทำให้ตรวจสอบ โต้แย้ง หรือแก้ไขได้ยากขึ้นอย่างเงียบ ๆ เมื่อเดิมพันสูงขึ้น และ [ภาระที่หลีกเลี่ยงได้](../../core_05.040_band_continuity.md#avoidable-burden) ต้องไม่กัดกร่อน [ขีดความสามารถในการผลิต](../../core_05.040_band_continuity.md#productive-capacity) หรือ [ประสิทธิภาพตามรัฐธรรมนูญ](../../core_05.040_band_continuity.md#constitutional-efficiency) โดยไม่มีประโยชน์ชดเชยตามรัฐธรรมนูญ
 
 การดำเนินการโดยชอบต้องผ่าน [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) ตามสัดส่วนของ [เดิมพันที่มีนัยสำคัญ](core_00_preamble.md#material-stake):
 
 - **การมีส่วนร่วม:** ในการทำความเข้าใจการดำเนินงาน ขีดจำกัด การพึ่งพา และรูปแบบความล้มเหลวที่มีนัยสำคัญตามบทบาทและผลกระทบ รวมถึงการโต้แย้งความซับซ้อนที่ขัดขวางการกระทำอย่างมีความหมายหรือการเลือกโดยรู้ข้อมูล
 - **การกำกับดูแล:** ผ่านคำอธิบายหลายชั้น การตรวจสอบความซับซ้อน และการเปิดเผยพฤติกรรมตามประเภทและความเสี่ยง เพื่อให้ผู้ทบทวนตรวจสอบได้ว่าระบบทำอะไรและล้มเหลวอย่างไร
-- **ความรับผิดรับชอบ:** ผู้ดูแลต้องรับผิดชอบต่อความซับซ้อนที่ไม่จำเป็น ชั้นการทำงานที่ซ่อนอยู่ หรืออุปสรรคด้านความเข้าใจที่ปิดกั้น [การตรวจสอบได้](core_05_band_oversight.md#auditability) หรือ [สิทธิในการโต้แย้ง](../../core_05_band_accountability.md#contestability) และแก้ข้อบกพร่องในการดูแลเมื่อความซับซ้อนสิ้นเปลืองขีดความสามารถโดยไม่มีเหตุผลตามรัฐธรรมนูญ
+- **ความรับผิดรับชอบ:** ผู้ดูแลต้องรับผิดชอบต่อความซับซ้อนที่ไม่จำเป็น ชั้นการทำงานที่ซ่อนอยู่ หรืออุปสรรคด้านความเข้าใจที่ปิดกั้น [การตรวจสอบได้](core_05_band_oversight.md#ความสามารถในการตรวจ) หรือ [สิทธิในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) และแก้ข้อบกพร่องในการดูแลเมื่อความซับซ้อนสิ้นเปลืองขีดความสามารถโดยไม่มีเหตุผลตามรัฐธรรมนูญ
 - **ความทันท่วงที:** ในการทบทวนความซับซ้อน แก้อุปสรรค และเปิดเผยข้อมูลที่เข้าถึงได้ ก่อนที่ความล่าช้า ความทึบแสง หรือช่องทางเฉพาะผู้เชี่ยวชาญจะทำให้การเข้าใจ การโต้แย้ง หรือการเยียวยาเข้าถึงไม่ได้อย่างแท้จริง
 
 ผู้มีความรู้สึกมีสิทธิได้รับความเข้าใจระบบในระดับที่ได้สัดส่วน เมื่อระบบส่งผลอย่างมีนัยสำคัญต่อการอยู่รอด เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม ความสมบูรณ์ของพื้นที่ข้อมูล และการกระทำอย่างมีความหมาย สิทธินี้คุ้มครองความเข้าใจในทางปฏิบัติว่าระบบทำงานอย่างไร พึ่งพาสิ่งใด มีขีดจำกัดตรงไหน และอาจล้มเหลวอย่างไร ไม่ใช่เพียงการแจ้งอย่างเป็นทางการ
 
-วินัยการดูแลด้านความซับซ้อน การเข้าถึงภาษาสามัญ และการลดภาระ ระบุไว้ในชั้นหลักการที่ [บทที่หนึ่ง §5.2 การเข้าถึงภาษาสามัญ (หน้าที่ในการดูแลรับผิดชอบ)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) และ [บทที่หนึ่ง ส่วน C §16.1 ความเข้าใจที่กระจายอยู่ทั่วระบบ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) ให้อ่านร่วมกับ [ภาระที่หลีกเลี่ยงได้](../../core_05_band_continuity.md#avoidable-burden), [ขีดความสามารถในการผลิต](../../core_05_band_continuity.md#productive-capacity-constitutional) และ [ประสิทธิภาพตามรัฐธรรมนูญ](../../core_05_band_continuity.md#constitutional-efficiency) ใน **บทที่ห้า** มาตรานี้กำหนดเกณฑ์ขั้นต่ำแห่งสิทธิที่วินัยดังกล่าวต้องนำไปใช้เมื่อระบบส่งผลต่อผลประโยชน์ที่ได้รับความคุ้มครองอย่างมีนัยสำคัญ
+วินัยการดูแลด้านความซับซ้อน การเข้าถึงภาษาสามัญ และการลดภาระ ระบุไว้ในชั้นหลักการที่ [บทที่หนึ่ง §5.2 การเข้าถึงภาษาสามัญ (หน้าที่ในการดูแลรับผิดชอบ)](core_01_a_values_principles.md#52-การเขาถงดวยภาษาทเขาใจงาย-หนาทดานการมสวนรวมและการดแลรบผดชอบ), [§13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด) และ [บทที่หนึ่ง ส่วน C §16.1 ความเข้าใจที่กระจายอยู่ทั่วระบบ](core_01_c_stewardship_capacity_principles.md#161-ความเขาใจทกระจายทวถง) ให้อ่านร่วมกับ [ภาระที่หลีกเลี่ยงได้](../../core_05.040_band_continuity.md#avoidable-burden), [ขีดความสามารถในการผลิต](../../core_05.040_band_continuity.md#productive-capacity) และ [ประสิทธิภาพตามรัฐธรรมนูญ](../../core_05.040_band_continuity.md#constitutional-efficiency) ใน **บทที่ห้า** มาตรานี้กำหนดเกณฑ์ขั้นต่ำแห่งสิทธิที่วินัยดังกล่าวต้องนำไปใช้เมื่อระบบส่งผลต่อผลประโยชน์ที่ได้รับความคุ้มครองอย่างมีนัยสำคัญ
 
 *มาตราที่เกี่ยวข้อง:*
 
 - **ชั้นหลักการ:**
-  - [บทที่หนึ่ง §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*วินัยเรื่องภาษาสามัญและห้ามใช้ศัพท์เฉพาะเพื่อเอาชนะข้อโต้แย้ง*);
-  - [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*การลดภาระที่หลีกเลี่ยงได้และข้อยกเว้นเพื่อทำให้ง่ายขึ้น*);
-  - [บทที่หนึ่ง ส่วน C §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (*ความเข้าใจที่กระจายตามสาระสำคัญและการพึ่งพา*)
+  - [บทที่หนึ่ง §5.2](core_01_a_values_principles.md#52-การเขาถงดวยภาษาทเขาใจงาย-หนาทดานการมสวนรวมและการดแลรบผดชอบ) (*วินัยเรื่องภาษาสามัญและห้ามใช้ศัพท์เฉพาะเพื่อเอาชนะข้อโต้แย้ง*);
+  - [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด) (*การลดภาระที่หลีกเลี่ยงได้และข้อยกเว้นเพื่อทำให้ง่ายขึ้น*);
+  - [บทที่หนึ่ง ส่วน C §16.1](core_01_c_stewardship_capacity_principles.md#161-ความเขาใจทกระจายทวถง) (*ความเข้าใจที่กระจายตามสาระสำคัญและการพึ่งพา*)
 #### มาตรา XXIII-A: สิทธิในความเข้าใจได้ตามสัดส่วน
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
-- อ่านร่วมกับ: [บทที่หนึ่ง §5.2 การเข้าถึงภาษาสามัญ (หน้าที่ในการดูแลรับผิดชอบ)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) และ [บทที่หนึ่ง ส่วน C §16.1 ความเข้าใจที่กระจายอยู่ทั่วระบบ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- อ่านร่วมกับ: [บทที่หนึ่ง §5.2 การเข้าถึงภาษาสามัญ (หน้าที่ในการดูแลรับผิดชอบ)](core_01_a_values_principles.md#52-การเขาถงดวยภาษาทเขาใจงาย-หนาทดานการมสวนรวมและการดแลรบผดชอบ), [§13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด) และ [บทที่หนึ่ง ส่วน C §16.1 ความเข้าใจที่กระจายอยู่ทั่วระบบ](core_01_c_stewardship_capacity_principles.md#161-ความเขาใจทกระจายทวถง)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-- [ความเป็นไปได้](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [O](core_05_band_oversight.md#ความโปรงใส) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [ผลกระทบที่มีนัยสำคัญ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [O](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [ความเป็นไปได้](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
 
 </details>
 
@@ -930,16 +930,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [บทที่หนึ่ง §18.5 สถาปัตยกรรมแบบโมดูลและวินัยการพึ่งพา](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [บทที่หนึ่ง §18.5 สถาปัตยกรรมแบบโมดูลและวินัยการพึ่งพา](core_01_c_stewardship_capacity_principles.md#185-สถาปตยกรรมแบบโมดลารและวนยดานการพงพา) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การตรวจสอบได้](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [การพึ่งพา](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [ความสมบูรณ์ของขอบเขตระบบ](../../core_05_band_continuity.md#system-boundary-integrity) · [O](../../core_05_band_continuity.md#system-boundary-integrity) · [M](../../core_05_band_continuity.md#system-boundary-integrity-a) · [A](../../core_05_band_continuity.md#system-boundary-integrity-a) · [C](../../core_05_band_continuity.md#system-boundary-integrity-c)
+- [การตรวจสอบได้](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [การพึ่งพา](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [ความสมบูรณ์ของขอบเขตระบบ](../../core_05.040_band_continuity.md#system-boundary-integrity) · [O](../../core_05.040_band_continuity.md#system-boundary-integrity) · [M](../../core_05.040_band_continuity.md#system-boundary-integrity-a) · [A](../../core_05.040_band_continuity.md#system-boundary-integrity-a) · [C](../../core_05.040_band_continuity.md#system-boundary-integrity-c)
 
 </details>
 
@@ -954,13 +954,13 @@ flowchart TB
   - การเชื่อมโยงของการพึ่งพา;
   - รูปแบบความล้มเหลว;
   - ขอบเขตที่มีการส่งต่อความรับผิดชอบหรือความสามารถในการสังเกตการณ์
-- **สถาปัตยกรรมแบบโมดูล:** ระบบสำคัญ **ต้อง** จัดโครงสร้างให้ระบุและตรวจสอบองค์ประกอบ หน้าที่รับผิดชอบของแต่ละส่วน และการพึ่งพาระหว่างส่วนได้อย่างเป็นอิสระ ต้องประกาศการพึ่งพาที่อินเทอร์เฟซ จำกัดให้ไม่กว้างเกินหน้าที่จำเป็น และทำแผนที่ให้ตรงกับขอบเขตที่ตรวจสอบ ความรับผิดชอบและความสามารถในการสังเกตการณ์ต้องคงอยู่ข้ามทุกขอบเขตภายใน โครงสร้างแบบโมดูลที่ซ่อนความรับผิดชอบหรือทำให้ตรวจสอบทั้งระบบไม่ได้ ถือเป็นการซ้อนชั้นต้องห้ามตามข้อถัดไป และไม่เป็นไปตามข้อกำหนดนี้ ให้อ่านร่วมกับ [§18.5 สถาปัตยกรรมแบบโมดูลและวินัยการพึ่งพา](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)
+- **สถาปัตยกรรมแบบโมดูล:** ระบบสำคัญ **ต้อง** จัดโครงสร้างให้ระบุและตรวจสอบองค์ประกอบ หน้าที่รับผิดชอบของแต่ละส่วน และการพึ่งพาระหว่างส่วนได้อย่างเป็นอิสระ ต้องประกาศการพึ่งพาที่อินเทอร์เฟซ จำกัดให้ไม่กว้างเกินหน้าที่จำเป็น และทำแผนที่ให้ตรงกับขอบเขตที่ตรวจสอบ ความรับผิดชอบและความสามารถในการสังเกตการณ์ต้องคงอยู่ข้ามทุกขอบเขตภายใน โครงสร้างแบบโมดูลที่ซ่อนความรับผิดชอบหรือทำให้ตรวจสอบทั้งระบบไม่ได้ ถือเป็นการซ้อนชั้นต้องห้ามตามข้อถัดไป และไม่เป็นไปตามข้อกำหนดนี้ ให้อ่านร่วมกับ [§18.5 สถาปัตยกรรมแบบโมดูลและวินัยการพึ่งพา](core_01_c_stewardship_capacity_principles.md#185-สถาปตยกรรมแบบโมดลารและวนยดานการพงพา)
 - **ต่อต้านการซ้อนชั้น:** ห้ามใช้ความซับซ้อนผ่านการซ้อนชั้นทางเทคนิค องค์กร สัญญา หรือกระบวนการ เพื่อขัดขวางการตรวจสอบ การโต้แย้ง หรือการแก้ไข
 - **ความสอดคล้องของโพรโทคอล:** การประเมินต้องสอดคล้องกับ:
   - **[corpus_systems.md](../../corpus_systems.md), CS-6 — *การทำความเข้าใจและการกำกับดูแลความซับซ้อน***;
   - ข้อกำหนดการดำเนินงานที่รับรองเกี่ยวกับการนำเสนอและสถาปัตยกรรม
 
-  เมื่อ CS-6 (*การทำความเข้าใจและการกำกับดูแลความซับซ้อน*) ขัดกับการดำเนินงานที่นำมาใช้บังคับ ให้ใช้ข้อกำหนดที่มี [ผลคุ้มครองสูงสุด](../../core_05_band_integrative.md#fullest-protective-effect)
+  เมื่อ CS-6 (*การทำความเข้าใจและการกำกับดูแลความซับซ้อน*) ขัดกับการดำเนินงานที่นำมาใช้บังคับ ให้ใช้ข้อกำหนดที่มี [ผลคุ้มครองสูงสุด](../../core_05.045_band_integrative.md#fullest-protective-effect)
 
 <a id="article-xxiii-root-cause-analysis-and-adaptive-response"></a>
 <a id="article-xxiv-root-cause-analysis-and-adaptive-response"></a>
@@ -969,19 +969,19 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
-- อ่านร่วมกับ: [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) — **ความรุ่งเรือง** และ **ความต่อเนื่อง**; [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional), [ความเสี่ยง](../../core_05_band_continuity.md#risk) และ [การผูกขาดระบบ](../../core_05_band_continuity.md#system-capture) ใน **บทที่ห้า**
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- อ่านร่วมกับ: [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) — **ความรุ่งเรือง** และ **ความต่อเนื่อง**; [การย้อนกลับได้](../../core_05.040_band_continuity.md#reversibility), [ความเสี่ยง](../../core_05.040_band_continuity.md#risk) และ [การผูกขาดระบบ](../../core_05.040_band_continuity.md#system-capture) ใน **บทที่ห้า**
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [สาระสำคัญ](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [การผูกขาดระบบ](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [ต่อต้านการผูกขาดระบบ](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [การตรวจสอบได้](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [สิทธิในการโต้แย้ง](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [สาระสำคัญ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [O](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [การผูกขาดระบบ](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
+- [ต่อต้านการผูกขาดระบบ](../../core_05.040_band_continuity.md#anti-capture) · [O](../../core_05.040_band_continuity.md#anti-capture) · [M](../../core_05.040_band_continuity.md#anti-capture-a) · [A](../../core_05.040_band_continuity.md#anti-capture-a) · [C](../../core_05.040_band_continuity.md#anti-capture-c)
+- [การตรวจสอบได้](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [สิทธิในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1015,7 +1015,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -1023,8 +1023,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [การตรวจสอบได้](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [การคาดการณ์ได้](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [การตรวจสอบได้](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [การคาดการณ์ได้](core_05_band_oversight.md#ความขยนในการคาดการณได) · [O](core_05_band_oversight.md#ความขยนในการคาดการณได) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -1048,16 +1048,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [การย้อนกลับได้](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [ความเสี่ยง](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [การตรวจสอบได้](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [การย้อนกลับได้](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [ความเสี่ยง](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [การตรวจสอบได้](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1082,7 +1082,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 การกำกับดูแลภายใต้วินัยความรับผิดชอบในการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 การกำกับดูแลภายใต้วินัยความรับผิดชอบในการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 - อ่านร่วมกับ: [หลักสี่ประการตามรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) — **ความรุ่งเรือง** และ **ความต่อเนื่อง**; [ลำดับชั้นอำนาจและลำดับภายใน](core_05_band_integrative.md#authority-stack), [ตระกูลเวทีตามรัฐธรรมนูญ](core_05_band_accountability.md#forum-family-constitutional), [การครอบงำระบบ](core_05_band_continuity.md#system-capture) และ [การป้องกันการครอบงำ](core_05_band_continuity.md#anti-capture) ใน **บทที่ห้า**
 
 </details>
@@ -1094,7 +1094,7 @@ flowchart TB
 - [ตระกูลเวทีตามรัฐธรรมนูญ](core_05_band_accountability.md#forum-family-constitutional) · [O](core_05_band_accountability.md#forum-family-constitutional) · [M](core_05_band_accountability.md#forum-family-constitutional-a) · [A](core_05_band_accountability.md#forum-family-constitutional-a) · [C](core_05_band_accountability.md#forum-family-constitutional-c)
 - [การครอบงำระบบ](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [การป้องกันการครอบงำ](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [การตรวจสอบได้](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [การตรวจสอบได้](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [สิทธิในการโต้แย้ง](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1128,8 +1128,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§13.1.5 เกณฑ์ตัดสินความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 การห้ามลบล้างอย่างเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
-- อ่านร่วมกับ: [หลักสี่ประการตามรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — การมีส่วนร่วม การกำกับดูแล ความรับผิดรับชอบ และความทันท่วงที; วินัยป้องกันการครอบงำหลักสี่ประการตาม [บทที่หนึ่ง §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§13.1.5 เกณฑ์ตัดสินความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 การห้ามลบล้างอย่างเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
+- อ่านร่วมกับ: [หลักสี่ประการตามรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — การมีส่วนร่วม การกำกับดูแล ความรับผิดรับชอบ และความทันท่วงที; วินัยป้องกันการครอบงำหลักสี่ประการตาม [บทที่หนึ่ง §18](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 
 </details>
 
@@ -1165,7 +1165,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§13.1.5 เกณฑ์ตัดสินความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 การกำกับดูแลภายใต้วินัยความรับผิดชอบในการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§13.1.5 เกณฑ์ตัดสินความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 การกำกับดูแลภายใต้วินัยความรับผิดชอบในการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 - อ่านร่วมกับ: [บทที่สิบ §5.5](core_11_standing_integration.md#55-special-locks) (*การไม่เปิดเผยข้อมูลในเวทีและผลกระทบต่อกระบวนการถอนตัว*); [บทที่สิบเอ็ด §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*รูปแบบการประพฤติมิชอบที่ระบุไว้*); [บทที่สิบสอง §2](core_12_forum.md#2-default-venue-and-primary-stakes) และ [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*การส่งเรื่องให้ความสมบูรณ์มาก่อนและการห้ามตัดสินตนเอง*)
 
 </details>
@@ -1201,7 +1201,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 
 </details>
 
@@ -1209,7 +1209,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">คำนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [ความรับผิดรับชอบ](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [การตรวจสอบได้](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [การตรวจสอบได้](core_05_band_oversight.md#ความสามารถในการตรวจ) · [O](core_05_band_oversight.md#ความสามารถในการตรวจ) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [สิทธิในการโต้แย้ง](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1245,7 +1245,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§13.1.5 เกณฑ์ตัดสินความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 การกำกับดูแลภายใต้วินัยความรับผิดชอบในการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§13.1.5 เกณฑ์ตัดสินความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 การกำกับดูแลภายใต้วินัยความรับผิดชอบในการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 
 </details>
 

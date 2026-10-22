@@ -99,7 +99,7 @@ flowchart TB
 
 - [भागीदार पात्रता](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [हितधारक](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
-- [ठोस प्रभाव](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [ठोस प्रभाव](core_05_band_oversight.md#ततवक-परभव) · [O](core_05_band_oversight.md#ततवक-परभव) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [गरिमा और समान नैतिक दर्जा](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [निवारण और सुधार](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
@@ -112,7 +112,7 @@ flowchart TB
 
 यह अनुच्छेद [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत पात्रता और भागीदारी-दर्जा के **संवैधानिक न्यूनतम मानक** बताता है:
 
-- **समृद्धि:** sentients वैध, बहुलतावादी और लेखापरीक्षा-योग्य नामित मार्गों के माध्यम से भूमिका-योग्यता रख सकें और उसे चुनौती दे सकें — बिना पात्रता-लेबलों को गरिमा, अधिकार-तल न्यूनतमों या [ठोस प्रभाव](core_05_band_oversight.md#material-impact) मौजूद होने पर हितधारक-दर्जा का विकल्प बनाए; नामित मार्ग की पात्रता वर्तमान, प्रत्यक्ष रूप से देखे जा सकने वाले और चुनौती-योग्य साक्ष्य पर आधारित हो, केवल ब्रांड, पैमाने या पिछली प्रतिष्ठा पर नहीं।
+- **समृद्धि:** sentients वैध, बहुलतावादी और लेखापरीक्षा-योग्य नामित मार्गों के माध्यम से भूमिका-योग्यता रख सकें और उसे चुनौती दे सकें — बिना पात्रता-लेबलों को गरिमा, अधिकार-तल न्यूनतमों या [ठोस प्रभाव](core_05_band_oversight.md#ततवक-परभव) मौजूद होने पर हितधारक-दर्जा का विकल्प बनाए; नामित मार्ग की पात्रता वर्तमान, प्रत्यक्ष रूप से देखे जा सकने वाले और चुनौती-योग्य साक्ष्य पर आधारित हो, केवल ब्रांड, पैमाने या पिछली प्रतिष्ठा पर नहीं।
 - **निरंतरता:** पात्रता-अनुशासन समय के साथ संशोधन योग्य रहे — प्रतिबंध आनुपातिक और सुधार होने पर बहाल किए जा सकें, और **अध्याय ग्यारह** के **संविधान-विरोधी कदाचार** वर्गीकरण तथा [**अध्याय तेरह §4.1 पात्रता और योग्यता**](core_13_governance.md#41-entitlement-and-eligibility) द्वारा **पूर्ण प्रतिपूर्ति** तक टिकाऊ राजनीतिक आवाज़ को स्पष्ट रूप से रोके जाने के अलावा, वे संवैधानिक आवाज़ से स्थायी बहिष्कार में कठोर न हों।
 
 वैध प्रयोजन [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) के माध्यम से, [भौतिक दाँव](core_00_preamble.md#material-stake) के अनुरूप आगे बढ़ता है:
@@ -145,7 +145,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एककत-अनपरयग)।
 - साथ पढ़ें: [अध्याय दस §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*क्षमता-मानक और मंज़ूरियाँ*), [क्षमता-मानक](core_05_band_accountability.md#competency-bar) और [क्षमता-मंज़ूरी](core_05_band_accountability.md#competency-clearance); [अध्याय दस §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*पात्रता-लॉक*), [उल्लंघन का स्वरूप](core_05_band_accountability.md#violation-nature-chapter-six) और [पात्रता-लॉक](core_05_band_accountability.md#standing-lock) — सत्यापित उल्लंघन-अक्ष इनपुट से नामित मार्गों पर प्रतिबंध; क्षमता-मंज़ूरी लागू पात्रता-लॉक को निरस्त नहीं करती और अच्छा योगदान अनसुलझे उल्लंघन-निष्कर्षों को नहीं मिटाता।
 
 </details>
@@ -197,7 +197,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
+- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-मल-समझत-सदधत), और [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
 - अधोमुखी: [अध्याय नौ §2](core_09_standing_assessment.md#2-question-1--what-happened) (*पात्रता-अभिलेख, सत्यापित-इनपुट द्वार और न्यूनतम अभिलेख-विषय*); [अध्याय नौ §3.6](core_09_standing_assessment.md#36-forum-boundary) (*मंच सीमा*); [अध्याय दस §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*क्षमता-मानक और मंज़ूरियाँ*); [अध्याय दस §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*पात्रता-लॉक*); [अध्याय दस §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*बहाली और पुनर्मूल्यांकन*)।
 - साथ पढ़ें: **अनुच्छेद III-A** (*जीवन-रक्षा*); **अनुच्छेद XIII-A** (*विश्वसनीयता और भरोसेमंदी का आधार*) और **अनुच्छेद XIII-B** (*निवारण और उपाय का अधिकार*); [प्रस्तावना §6.2 पूरी शृंखला कैसे जुड़ती है](core_00_preamble.md#62-how-the-full-chain-fits-together); [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **भागीदारी**, **निरीक्षण**, **जवाबदेही** और **समयबद्धता**, **अनुच्छेद XXVI-C** (*समयबद्ध समाधान और विलंब-विरोधी न्यूनतम*) तथा **अनुच्छेद XX-B** (*प्रतिबंध के न्यूनतम मानक*) के अंतर्गत।
 
@@ -210,7 +210,7 @@ flowchart TB
 - [आनुपातिकता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [प्रक्रियात्मक निष्पक्षता](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) · [O](core_05_band_oversight.md#लखपरकष-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [उल्लंघन का स्वरूप](core_05_band_accountability.md#violation-nature-chapter-six) · [O](core_05_band_accountability.md#violation-nature-chapter-six) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
 - [क्षमता-मानक](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
 - [क्षमता-मंज़ूरी](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
@@ -250,7 +250,7 @@ flowchart TB
   - [अध्याय नौ §7 की एकीकृत मापनी](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) पर कम-प्रभाव वाला उल्लंघन-अक्ष निष्कर्ष बार-बार के पैटर्न, बचाव या ठोस हानि-संबंध के बिना स्थायी बहिष्कार को उचित नहीं ठहराता। लापरवाही, छिपाव, दबाव, पुनरावृत्ति और तुलनीय चरित्र-विवरण समीक्षा में प्रासंगिक हैं, पर अध्याय नौ का प्रभाव-स्थान नहीं बदलते।
   - आचरण की पुनरावृत्ति या जिम्मेदारी छिपाने के कारण बढ़ाया गया प्रतिबंध भी आवश्यक, आनुपातिक, समीक्षा-योग्य और सत्यापित निष्कर्षों से जुड़ा होना चाहिए।
 - **अधिकार-तल न्यूनतम और पहुँच बंद न करना:** भागीदार पात्रता, क्षमता-मानक, क्षमता-मंज़ूरियाँ और पात्रता-लॉक केवल भूमिका-योग्यता तथा नामित विशेषाधिकार-पथ नियंत्रित करते हैं। उन्हें यह नहीं करना चाहिए:
-  - [अधिकार-तल न्यूनतम सिद्धांत](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) के तहत **अनुच्छेद VI** (*समान मूलभूत अधिकार*) से लागू **अधिकार-तल न्यूनतमों** को निलंबित, माफ़, समाप्त या घटाना;
+  - [अधिकार-तल न्यूनतम सिद्धांत](core_01_b_interaction_interpretation.md#अधकर-आधर-नयनतम-सदधत) के तहत **अनुच्छेद VI** (*समान मूलभूत अधिकार*) से लागू **अधिकार-तल न्यूनतमों** को निलंबित, माफ़, समाप्त या घटाना;
   - जहाँ ठोस रूप से प्रासंगिक हो, जीवन-रक्षक पहुँच या **अनुच्छेद III-A** (*जीवन-रक्षा*) के संसाधन-वितरण और निर्भरता-मानकों को बंद करना; या
   - पर्याप्त औचित्य के बिना, **अध्याय एक**, **अध्याय पाँच** और लागू समाविष्ट प्रक्रिया के अधीन संवैधानिक रूप से आवश्यक लेखापरीक्षा, चुनौती या निवारण मार्ग बंद करना — इनमें **अनुच्छेद XIII-A** (*विश्वसनीयता और भरोसेमंदी का आधार*), **अनुच्छेद XIII-B** (*निवारण और उपाय का अधिकार*), **अनुच्छेद XV-B** (*पारदर्शिता, लेखापरीक्षा-योग्यता और चुनौती-योग्यता*) तथा **अनुच्छेद XVI** (*लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन*) शामिल हैं।
 - **पुनर्बहाली और स्थायी कब्ज़े की रोकथाम:** उल्लंघन-निष्कर्षों के कारण पात्रता घटने पर प्रणालियाँ [अध्याय दस §8 पुनर्स्थापन और पुनर्मूल्यांकन](core_10_standing_integration.md#8-restoration-and-reassessment) के तहत समीक्षा, सुधार-आधारित बहाली और आवधिक पुनर्मूल्यांकन की स्पष्ट शर्तें दें।
@@ -264,7 +264,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-सरकषकत-अनशसन-क-अधन-शसन)।
 
 </details>
 
@@ -278,7 +278,7 @@ flowchart TB
 - [भागीदार पात्रता](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [सामूहिक जवाबदेही विफलता](core_05_band_accountability.md#collective-accountability-failure) · [O](core_05_band_accountability.md#collective-accountability-failure) · [M](core_05_band_accountability.md#collective-accountability-failure-a) · [A](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
 - [विश्वास](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [मूलभूत संवैधानिक चयन](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [मूलभूत संवैधानिक चयन](core_05_band_integrative.md#आधरभत-सवधनक-चयन) · [O](core_05_band_integrative.md#आधरभत-सवधनक-चयन) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [प्रक्रियात्मक निष्पक्षता](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [आनुपातिकता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -349,7 +349,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§3 मूलभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [§18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§3 मूलभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [§18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-सरकषकत-अनशसन-क-अधन-शसन)।
 - अधोमुखी: [अध्याय दस §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*उल्लंघन, सुधार और रोकथाम*); [अध्याय ग्यारह §4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*उचित प्रक्रिया सुरक्षा, निवारण और रोकथाम*)।
 
 </details>
@@ -372,8 +372,8 @@ flowchart TB
 
 - **संघर्ष-समाधान, समीक्षा और समयबद्धता:** संवैधानिक अधिकार-तलों, पूर्वव्यापी समीक्षा, अधिकार-संघर्ष और विलंब-विरोधी अनुशासन पर विवाद [**अनुच्छेद XXVI**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*समयबद्ध पूर्वव्यापी समीक्षा और पुनर्स्थापनात्मक संरेखण*) के अधीन हैं।
 - **आपातकालीन उपाय:** [अध्याय बारह §6.1 आपातकालीन उपाय और जारी रखने का भार](core_12_forum.md#61-emergency-measures-and-continuation-burden) के अधीन; आपातकालीन उपाय से लगे किसी प्रतिबंध के लिए इसे **अनुच्छेद XX-B** (*प्रतिबंध के न्यूनतम मानक*) के साथ पढ़ें।
-- **पात्रता:** [**अनुच्छेद XIX**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*पात्रता और भागीदारी-दर्जा*) पात्रता नियंत्रित करता है। इस अनुच्छेद के न्याय-उपाय अलग हैं और पात्रता-लेबल का विकल्प नहीं हैं।
-- **समयबद्ध निवारण:** [**अनुच्छेद XIII-B** (*निवारण और उपाय का अधिकार*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*निवारण तक समयबद्ध पहुँच*) के साथ पढ़ें।
+- **पात्रता:** [**अनुच्छेद XIX**](core_06_rights_part_d.md#अनचछद-xix-पतरत-और-भगदर-दरज) (*पात्रता और भागीदारी-दर्जा*) पात्रता नियंत्रित करता है। इस अनुच्छेद के न्याय-उपाय अलग हैं और पात्रता-लेबल का विकल्प नहीं हैं।
+- **समयबद्ध निवारण:** [**अनुच्छेद XIII-B** (*निवारण और उपाय का अधिकार*)](core_06_rights_part_c.md#अनचछद-xiii-b-परततष-और-उपचर-क-अधकर) (*निवारण तक समयबद्ध पहुँच*) के साथ पढ़ें।
 
 स्वीकृत शासन-कार्यान्वयन अतिरिक्त विवरण जोड़ सकता है। वह इस अनुच्छेद के न्याय-उद्देश्य या प्रतिबंध-मानकों को संकुचित नहीं कर सकता।
 <a id="article-xx-a-justice-objective-and-scope"></a>
@@ -381,8 +381,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [अध्याय एक §3.3 अपमानकारी प्रक्रिया-विरोध](core_01_a_values_principles.md#33-anti-degrading-process), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
-- अधोमुखी: [अध्याय दस §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*उल्लंघन, सुधार और रोकथाम*); [अनुच्छेद XX-B](#article-xx-b-restriction-floors)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [अध्याय एक §3.3 अपमानकारी प्रक्रिया-विरोध](core_01_a_values_principles.md#33-गरम-हरस-रकन-वल-परकरय), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एककत-अनपरयग)।
+- अधोमुखी: [अध्याय दस §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*उल्लंघन, सुधार और रोकथाम*); [अनुच्छेद XX-B](#अनचछद-xx-b-परतबध-क-नयनतम-मनक)।
 - साथ पढ़ें: [क्रूरता](core_05_band_accountability.md#cruelty) (*अध्याय पाँच में क्रूरता-विरोधी मानक का मूल, जिसमें पीड़ा को साध्य बनाने पर रोक है*)।
 
 </details>
@@ -415,9 +415,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), और [§14 पूर्ण अधिभावी अधिकार का निषेध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-मल-समझत-सदधत), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), और [§14 पूर्ण अधिभावी अधिकार का निषेध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 - अधोमुखी: [अध्याय दस §5 लॉक-रचना और प्रवर्तन](core_10_standing_integration.md#5-lock-design-and-enforcement) तथा [§5.4 विशेष उल्लंघन नियम](core_10_standing_integration.md#54-special-violation-rules) (*सत्यापित हिंसा के लिए आवश्यक कारावास तथा अन्य दबावकारी या स्वतंत्रता-प्रतिबंधक सुरक्षा उपाय*); [अध्याय ग्यारह §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*रोकथाम — संविधान-विरोधी लॉक*; कारावास विशेष प्रावधान)।
-- साथ पढ़ें: [अनुच्छेद XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*समयबद्ध समाधान और विलंब-विरोधी न्यूनतम*); [अध्याय बारह §5 बढ़ोतरी और प्रमाणन](core_12_forum.md#5-escalation-and-certification)।
+- साथ पढ़ें: [अनुच्छेद XXVI-C](core_06_rights_part_e.md#अनचछद-xxvi-c-समयबदध-समधन-और-वलब-वरध-नयनतम-मनक) (*समयबद्ध समाधान और विलंब-विरोधी न्यूनतम*); [अध्याय बारह §5 बढ़ोतरी और प्रमाणन](core_12_forum.md#5-escalation-and-certification)।
 
 </details>
 
@@ -463,7 +463,7 @@ flowchart TB
   - अनिश्चितकालीन गंभीर प्रतिबंध;
   - जहाँ प्रत्यावर्तनीय प्रतिपूर्ति, सुधार या संरक्षण संभव हो वहाँ अपरिवर्तनीय प्रतिबंधात्मक उपाय;
   - लेखापरीक्षा-योग्य पुनर्मूल्यांकन संकेतों से रहित प्रतिबंध।
-- **समान मूलभूत अधिकार और गरिमा:** प्रतिबंध, बहिष्कार और तुलनीय न्याय-उपाय, **अनुच्छेद VI** (*समान मूलभूत अधिकार*) तथा [**गरिमा सिद्धांतों**](core_01_b_interaction_interpretation.md#dignity-principles) ([अधिकार-तल न्यूनतम सिद्धांत](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) और [अपमानकारी प्रक्रिया-विरोधी सिद्धांत](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)) का पालन करें — प्रतिबंध, परिरोध या पुनर्स्थापनात्मक-जवाबदेही उपाय लगाने, समीक्षा करने और लागू करने की पूरी अवधि में।
+- **समान मूलभूत अधिकार और गरिमा:** प्रतिबंध, बहिष्कार और तुलनीय न्याय-उपाय, **अनुच्छेद VI** (*समान मूलभूत अधिकार*) तथा [**गरिमा सिद्धांतों**](core_01_b_interaction_interpretation.md#गरम-क-सदधत) ([अधिकार-तल न्यूनतम सिद्धांत](core_01_b_interaction_interpretation.md#अधकर-आधर-नयनतम-सदधत) और [अपमानकारी प्रक्रिया-विरोधी सिद्धांत](core_01_b_interaction_interpretation.md#अपमनजनक-परकरय-क-नषध-सदधत)) का पालन करें — प्रतिबंध, परिरोध या पुनर्स्थापनात्मक-जवाबदेही उपाय लगाने, समीक्षा करने और लागू करने की पूरी अवधि में।
 - **बढ़ोतरी और समीक्षा:** प्रभावित पक्षों को प्रभाव के अनुपात में बढ़ोतरी-पथ उपलब्ध हों।
   - जहाँ ठोस हित दाँव पर हों, पहुँच में अपील या बहु-स्तरीय समीक्षा शामिल हो।
   - प्रभावित पक्षों को मिले:
@@ -484,7 +484,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 सीमा-अनुशासन](core_01_a_values_principles.md#71-limitation-discipline), और [§11 बाज़ार संरचना](core_01_a_values_principles.md#11-market-structure)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 सीमा-अनुशासन](core_01_a_values_principles.md#71-limitation-discipline), और [§11 बाज़ार संरचना](core_01_a_values_principles.md#11-बजर-सरचन)।
 
 </details>
 
@@ -508,7 +508,7 @@ flowchart TB
 
 यह अनुच्छेद [दो संवैधानिक उद्देश्यों](core_00_preamble.md#two-constitutional-aims) के अंतर्गत अंतःसंचालनीयता, सुवाह्यता, आवाजाही, शरण और निर्गमन-अखंडता के **संवैधानिक न्यूनतम मानक** बताता है:
 
-- **समृद्धि:** sentients प्रणालियों और अधिकार-क्षेत्रों के बीच चुनाव, बदलाव और समन्वय कर सकें — दबावकारी लॉक-इन, [sentience को बाहर न करने](core_05_band_participation.md#sentience-non-exclusion) के विरुद्ध बहिष्कार या प्रतिनिधि मार्ग से अस्वीकार किए बिना — उपयोगी सुवाह्यता, पारस्परिक अंतःसंचालनीयता और [ठोस प्रभाव](core_05_band_oversight.md#material-impact) होने पर आवाजाही तथा शरण के वास्तविक रास्तों के माध्यम से।
+- **समृद्धि:** sentients प्रणालियों और अधिकार-क्षेत्रों के बीच चुनाव, बदलाव और समन्वय कर सकें — दबावकारी लॉक-इन, [sentience को बाहर न करने](core_05_band_participation.md#sentience-non-exclusion) के विरुद्ध बहिष्कार या प्रतिनिधि मार्ग से अस्वीकार किए बिना — उपयोगी सुवाह्यता, पारस्परिक अंतःसंचालनीयता और [ठोस प्रभाव](core_05_band_oversight.md#ततवक-परभव) होने पर आवाजाही तथा शरण के वास्तविक रास्तों के माध्यम से।
 - **निरंतरता:** निर्भरता गहरी होने, संचालक बदलने या अधिकार-क्षेत्र बदलने पर निर्गमन, सुवाह्यता, शरण और मान्यता के दायित्व टिकाऊ बने रहें — प्रणालियाँ और व्यवस्थाएँ फँसाने वाली संरचना कठोर न करें, सूचना के बिना एकीकरण की शर्तें संकुचित न करें या संरचनाएँ विफल होने अथवा संबंध समाप्त होने पर sentients को राज्यविहीन न करें।
 
 वैध प्रयोजन [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) के माध्यम से, [भौतिक दाँव](core_00_preamble.md#material-stake) के अनुरूप आगे बढ़ता है:
@@ -538,7 +538,7 @@ sentients और उन पर निर्भर प्रणालियों
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-मल-समझत-सदधत), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -570,7 +570,7 @@ sentients और उन पर निर्भर प्रणालियों
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-मल-समझत-सदधत), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -598,7 +598,7 @@ sentients और उन पर निर्भर प्रणालियों
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-सरकषकत-अनशसन-क-अधन-शसन)।
 
 </details>
 
@@ -646,7 +646,7 @@ sentients और उन पर निर्भर प्रणालियों
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 आनुपातिकता](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 सीमा-अनुशासन](core_01_a_values_principles.md#71-limitation-discipline)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 आनुपातिकता](core_01_b_interaction_interpretation.md#1313-आनपतकत), [§7.1 सीमा-अनुशासन](core_01_a_values_principles.md#71-limitation-discipline)।
 - अधोमुखी: **अनुच्छेद VI-A** (*गरिमा और समान नैतिक दर्जा*) गरिमा-मानक, **अनुच्छेद VI-C** (*भेदभाव-निषेध*) भेदभाव-विरोध, **अनुच्छेद XII** (*हितधारक प्रणाली भागीदारी, प्रतिनिधित्व और उचित प्रक्रिया*) हितधारक भागीदारी, **अनुच्छेद XIX** (*पात्रता और भागीदारी-दर्जा*) पात्रता तथा भागीदारी-दर्जा मार्ग-निर्धारण, अध्याय बारह §6.1 (*आपातकालीन उपाय और जारी रखने का भार*) आपातकालीन उपाय की सीमाएँ, **अनुच्छेद XXVIII** (*संक्रमण शासन, निरंतरता और आधार-रेखा पुनःस्थापन*) संक्रमण शासन।
 - साथ पढ़ें: [अध्याय पाँच *आवाजाही, शरण, राज्यविहीनता से बचाव और निर्गमन-अखंडता*](core_05_band_oversight.md#movement-refuge-semi-independent); *आवाजाही और स्थानांतरण*, *अनुपालन-विहीनता से शरण*, *राज्यविहीनता से बचाव*, *sentience को बाहर न करना*; जहाँ निर्गमन, आवास-समापन, बेदखली या ठोस स्थानांतरण प्रासंगिक हों वहाँ *प्रणालीगत लॉक-इन* और *निवास निरंतरता*; जहाँ प्रणालियों या परियोजनाओं ने किसी स्थान को रहने योग्य न छोड़ा हो वहाँ **अनुच्छेद I-A** (*पर्यावरणीय पूर्वशर्तें और पारिस्थितिक अखंडता*); आधार-परिवेश सुवाह्यता और निर्गमन-अखंडता की प्रक्रियाओं के लिए **अनुच्छेद XXI-A** (*सुवाह्यता के अधिकार*) से **अनुच्छेद XXI-C** (*लॉक-इन विरोधी नियम*) तक; संक्रमणकालीन मान्यता की प्रक्रियाओं के लिए **अनुच्छेद XXVIII** (*संक्रमण शासन, निरंतरता और आधार-रेखा पुनःस्थापन*)।
 
@@ -763,15 +763,15 @@ sentients और उन पर निर्भर प्रणालियों
 
 <a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
 - **पृथक्करण और पात्रता-लॉक की सीमाएँ:** पृथक्करण खास परिवेश या संपर्क रोक सकता है; सामान्य निर्वासन, शरण-अस्वीकृति, राज्यविहीनता, कारावास या व्यवस्थागत लॉक-इन का काम नहीं कर सकता। पात्रता-लॉक **अपने-आप** कारावास, हिरासत या स्वतंत्रता पर अन्य रोक अधिकृत नहीं करता; ऊपर की न्याय-प्रक्रिया आवश्यक है। दोनों साथ चलें तो प्रत्येक अपनी स्वतंत्र संवैधानिक शर्त पूरी करे। हिरासत में भी अधिकार-तल, निवारण और प्रक्रियात्मक निष्पक्षता बनी रहे।
-- **हिरासत का न्यूनतम मानक:** उपाय **अनुच्छेद XX-B** (*प्रतिबंध के न्यूनतम मानक*), [हिरासत-शर्तों के न्यूनतम](../../core_06_rights_part_d.md#xx-b-conditions-of-custody) सहित, और अध्याय ग्यारह §5.4 की लागू आपराधिक-प्रक्रिया या समकक्ष सुरक्षा पूरी करें।
-- **पात्रता सीमा नहीं है:** भागीदारी-दर्जा, क्षमता-बाधाएँ/मंज़ूरियाँ और लॉक नामित रास्तों की पात्रता नियंत्रित करते हैं। सत्यापित जोखिम माँगे तो लॉक अध्याय ग्यारह §5.1 की [पृथक्करण-सीमाओं](../../core_11_standing_integration.md#51-separation-limits) के भीतर खास परिवेश, नेटवर्क या sentient से अलग कर सकता है। पर पात्रता-लेबल या पृथक्करण-लॉक **अपने-आप** आवाजाही, प्रवासन, शरण, सुवाह्यता, निर्गमन या राज्यविहीनता-निवारण के अधिकार सीमित नहीं करता।
+- **हिरासत का न्यूनतम मानक:** उपाय **अनुच्छेद XX-B** (*प्रतिबंध के न्यूनतम मानक*), [हिरासत-शर्तों के न्यूनतम](../../core_06.020_rights_part_d.md#xx-b-conditions-of-custody) सहित, और अध्याय ग्यारह §5.4 की लागू आपराधिक-प्रक्रिया या समकक्ष सुरक्षा पूरी करें।
+- **पात्रता सीमा नहीं है:** भागीदारी-दर्जा, क्षमता-बाधाएँ/मंज़ूरियाँ और लॉक नामित रास्तों की पात्रता नियंत्रित करते हैं। सत्यापित जोखिम माँगे तो लॉक अध्याय ग्यारह §5.1 की [पृथक्करण-सीमाओं](../../core_11.000_standing_integration.md#51-separation-limits) के भीतर खास परिवेश, नेटवर्क या sentient से अलग कर सकता है। पर पात्रता-लेबल या पृथक्करण-लॉक **अपने-आप** आवाजाही, प्रवासन, शरण, सुवाह्यता, निर्गमन या राज्यविहीनता-निवारण के अधिकार सीमित नहीं करता।
 <a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
 ### अनुच्छेद XXIII: सुबोधता और जटिलता का उत्तरदायी प्रबंधन
 
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §5.2 सरल भाषा में सुगम्यता (संरक्षकता कर्तव्य)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 टाले जा सकने वाले भार को न्यूनतम करना](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), और [अध्याय एक भाग C §16.1 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)।
+- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §5.2 सरल भाषा में सुगम्यता (संरक्षकता कर्तव्य)](core_01_a_values_principles.md#52-सरल-भष-म-सगमयत-भगदर-और-उततरदय-सरकषकत-क-करतवय), [§13.3 टाले जा सकने वाले भार को न्यूनतम करना](core_01_b_interaction_interpretation.md#133-टल-ज-सकन-वल-भर-क-नयनतमकरण), और [अध्याय एक भाग C §16.1 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-वतरत-समझ)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समृद्धि** और **निरंतरता**; **अध्याय पाँच** में [टाले जा सकने वाला भार](core_05_band_continuity.md#avoidable-burden), [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity-constitutional) और [संवैधानिक दक्षता](core_05_band_continuity.md#constitutional-efficiency)।
 
 </details>
@@ -783,10 +783,10 @@ sentients और उन पर निर्भर प्रणालियों
 - [संवैधानिक दक्षता](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [टाले जा सकने वाला भार](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [सुरक्षा (संवैधानिक प्रतिबंध)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [सत्य (संवैधानिक प्रतिबंध)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [सारभूतता](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [सत्य (संवैधानिक प्रतिबंध)](core_05_band_oversight.md#सतय-सवधनक-बधन) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [सारभूतता](core_05_band_oversight.md#ततवकत-नरधरण) · [O](core_05_band_oversight.md#ततवकत-नरधरण) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [सार्थक कर्तृत्व](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) · [O](core_05_band_oversight.md#लखपरकष-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -804,19 +804,19 @@ sentients और उन पर निर्भर प्रणालियों
 
 - **भागीदारी:** भूमिका और प्रभाव के अनुपात में ठोस संचालन, सीमाओं, निर्भरताओं और विफलता-तरीकों को समझने में — तथा सार्थक कर्तृत्व या सूचित चयन रोकने वाली जटिलता को चुनौती देने में।
 - **निरीक्षण:** वर्गीकरण और जोखिम के अनुपात में स्तरित व्याख्याओं, जटिलता-लेखापरीक्षाओं और प्रकट व्यवहार के माध्यम से — ताकि समीक्षक जाँच सकें कि प्रणालियाँ क्या करती हैं और कैसे विफल होती हैं।
-- **जवाबदेही:** संरक्षक अनावश्यक जटिलता, छिपी परतों या समझ-बाधाओं के लिए जवाब दें जो [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) या [चुनौती-योग्यता](core_05_band_accountability.md#contestability) रोकती हैं — और जहाँ संवैधानिक औचित्य के बिना जटिलता क्षमता नष्ट करती हो वहाँ संरक्षकता-दोष सुधारें।
+- **जवाबदेही:** संरक्षक अनावश्यक जटिलता, छिपी परतों या समझ-बाधाओं के लिए जवाब दें जो [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) या [चुनौती-योग्यता](core_05_band_accountability.md#contestability) रोकती हैं — और जहाँ संवैधानिक औचित्य के बिना जटिलता क्षमता नष्ट करती हो वहाँ संरक्षकता-दोष सुधारें।
 - **समयबद्धता:** जटिलता समीक्षा, बाधा-सुधार और सुलभ खुलासे में, इससे पहले कि विलंब, अपारदर्शिता या केवल विशेषज्ञों तक सीमित माध्यम समझ, चुनौती या निवारण को व्यवहार में अप्राप्य बना दें।
 
 sentients को जीवन-रक्षा, पर्यावरणीय पूर्वशर्तों, सूचना-क्षेत्र की अखंडता और सार्थक कर्तृत्व को ठोस रूप से प्रभावित करने वाली प्रणालियों की आनुपातिक सुबोधता का अधिकार है। यह अधिकार प्रणाली के संचालन, निर्भरता, सीमाओं और विफलता की व्यावहारिक समझ की रक्षा करता है — केवल औपचारिक सूचना की नहीं।
 
-जटिलता, सरल-भाषा पहुँच और भार-न्यूनकरण के संरक्षकता-अनुशासन सिद्धांत-स्तर पर [अध्याय एक §5.2 सरल भाषा में सुगम्यता (संरक्षकता कर्तव्य)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 टाले जा सकने वाले भार को न्यूनतम करना](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), तथा [अध्याय एक भाग C §16.1 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) में बताए गए हैं; इन्हें **अध्याय पाँच** के [टाले जा सकने वाला भार](core_05_band_continuity.md#avoidable-burden), [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity-constitutional) और [संवैधानिक दक्षता](core_05_band_continuity.md#constitutional-efficiency) के साथ पढ़ें। यह अनुच्छेद उन अनुशासनों के लागू करने के लिए अधिकार-तल बताता है जहाँ प्रणालियाँ संरक्षित हितों को ठोस रूप से प्रभावित करती हैं।
+जटिलता, सरल-भाषा पहुँच और भार-न्यूनकरण के संरक्षकता-अनुशासन सिद्धांत-स्तर पर [अध्याय एक §5.2 सरल भाषा में सुगम्यता (संरक्षकता कर्तव्य)](core_01_a_values_principles.md#52-सरल-भष-म-सगमयत-भगदर-और-उततरदय-सरकषकत-क-करतवय), [§13.3 टाले जा सकने वाले भार को न्यूनतम करना](core_01_b_interaction_interpretation.md#133-टल-ज-सकन-वल-भर-क-नयनतमकरण), तथा [अध्याय एक भाग C §16.1 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-वतरत-समझ) में बताए गए हैं; इन्हें **अध्याय पाँच** के [टाले जा सकने वाला भार](core_05_band_continuity.md#avoidable-burden), [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity-constitutional) और [संवैधानिक दक्षता](core_05_band_continuity.md#constitutional-efficiency) के साथ पढ़ें। यह अनुच्छेद उन अनुशासनों के लागू करने के लिए अधिकार-तल बताता है जहाँ प्रणालियाँ संरक्षित हितों को ठोस रूप से प्रभावित करती हैं।
 
 *अनुच्छेद पड़ोसी:*
 
 - **सिद्धांत-स्तर:**
-  - [अध्याय एक §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*सरल भाषा और शब्दाडंबर से पराजित न करने का अनुशासन*);
-  - [अध्याय एक §13.3 टाले जा सकने वाले भार को न्यूनतम करना](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*टाले जा सकने वाले भार को न्यूनतम करना और सरलीकरण अपवाद*);
-  - [अध्याय एक भाग C §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (*सारभूतता और निर्भरता के अनुरूप वितरित समझ*)।
+  - [अध्याय एक §5.2](core_01_a_values_principles.md#52-सरल-भष-म-सगमयत-भगदर-और-उततरदय-सरकषकत-क-करतवय) (*सरल भाषा और शब्दाडंबर से पराजित न करने का अनुशासन*);
+  - [अध्याय एक §13.3 टाले जा सकने वाले भार को न्यूनतम करना](core_01_b_interaction_interpretation.md#133-टल-ज-सकन-वल-भर-क-नयनतमकरण) (*टाले जा सकने वाले भार को न्यूनतम करना और सरलीकरण अपवाद*);
+  - [अध्याय एक भाग C §16.1](core_01_c_stewardship_capacity_principles.md#161-वतरत-समझ) (*सारभूतता और निर्भरता के अनुरूप वितरित समझ*)।
 
 <a id="article-xxii-a-proportional-comprehensibility-right"></a>
 <a id="article-xxiii-a-proportional-comprehensibility-right"></a>
@@ -825,15 +825,15 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
 - ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
-- साथ पढ़ें: [अध्याय एक §5.2 सरल भाषा में सुगम्यता (संरक्षकता कर्तव्य)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 टाले जा सकने वाले भार को न्यूनतम करना](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), और [अध्याय एक भाग C §16.1 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)।
+- साथ पढ़ें: [अध्याय एक §5.2 सरल भाषा में सुगम्यता (संरक्षकता कर्तव्य)](core_01_a_values_principles.md#52-सरल-भष-म-सगमयत-भगदर-और-उततरदय-सरकषकत-क-करतवय), [§13.3 टाले जा सकने वाले भार को न्यूनतम करना](core_01_b_interaction_interpretation.md#133-टल-ज-सकन-वल-भर-क-नयनतमकरण), और [अध्याय एक भाग C §16.1 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-वतरत-समझ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
-- [पारदर्शिता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [ठोस प्रभाव](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [पारदर्शिता](core_05_band_oversight.md#परदरशत) · [O](core_05_band_oversight.md#परदरशत) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [ठोस प्रभाव](core_05_band_oversight.md#ततवक-परभव) · [O](core_05_band_oversight.md#ततवक-परभव) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [व्यवहार्यता](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
 
 </details>
@@ -858,14 +858,14 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [अध्याय एक §18.5 मॉड्यूलर संरचना और निर्भरता-अनुशासन](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), तथा [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [अध्याय एक §18.5 मॉड्यूलर संरचना और निर्भरता-अनुशासन](core_01_c_stewardship_capacity_principles.md#185-मडयलर-सरचन-और-नरभरत-अनशसन), तथा [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एककत-अनपरयग)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) · [O](core_05_band_oversight.md#लखपरकष-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [निर्भरता](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [प्रणाली-सीमा अखंडता](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
 
@@ -882,7 +882,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
   - निर्भरता-युग्मन;
   - विफलता के तरीके;
   - वे सीमाएँ जहाँ जिम्मेदारी या दृश्यता आगे सौंपी जाती है।
-- **मॉड्यूलर संरचना:** महत्त्वपूर्ण प्रणालियाँ **अनिवार्य रूप से** इस तरह संरचित हों कि उनके घटकों, प्रत्येक की जिम्मेदारियों और घटकों के बीच निर्भरताओं की पहचान कर स्वतंत्र जाँच की जा सके। निर्भरताएँ इंटरफ़ेस पर घोषित हों, कार्य की आवश्यकता से अधिक व्यापक न हों और उन्हीं सीमाओं पर नक्शाबद्ध हों जिनकी लेखापरीक्षा होती है। हर आंतरिक सीमा पर जिम्मेदारी और दृश्यता बनी रहे। जिम्मेदारी छिपाने या संपूर्ण-प्रणाली लेखापरीक्षा विफल करने वाली मॉड्यूलर संरचना अगले बिंदु के तहत परतें बनाकर छिपाना है और इस आवश्यकता को पूरा नहीं करती। [§18.5 मॉड्यूलर संरचना और निर्भरता-अनुशासन](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) के साथ पढ़ें।
+- **मॉड्यूलर संरचना:** महत्त्वपूर्ण प्रणालियाँ **अनिवार्य रूप से** इस तरह संरचित हों कि उनके घटकों, प्रत्येक की जिम्मेदारियों और घटकों के बीच निर्भरताओं की पहचान कर स्वतंत्र जाँच की जा सके। निर्भरताएँ इंटरफ़ेस पर घोषित हों, कार्य की आवश्यकता से अधिक व्यापक न हों और उन्हीं सीमाओं पर नक्शाबद्ध हों जिनकी लेखापरीक्षा होती है। हर आंतरिक सीमा पर जिम्मेदारी और दृश्यता बनी रहे। जिम्मेदारी छिपाने या संपूर्ण-प्रणाली लेखापरीक्षा विफल करने वाली मॉड्यूलर संरचना अगले बिंदु के तहत परतें बनाकर छिपाना है और इस आवश्यकता को पूरा नहीं करती। [§18.5 मॉड्यूलर संरचना और निर्भरता-अनुशासन](core_01_c_stewardship_capacity_principles.md#185-मडयलर-सरचन-और-नरभरत-अनशसन) के साथ पढ़ें।
 - **परतें बनाकर छिपाना:** तकनीकी, संगठनात्मक, संविदात्मक या प्रक्रियात्मक परतें बनाकर जटिलता को लेखापरीक्षा, चुनौती या सुधार विफल करने के लिए इस्तेमाल नहीं किया जा सकता।
 - **प्रोटोकॉल-संरेखण:** मूल्यांकन निम्नलिखित के अनुरूप हो:
   - **[corpus_systems.md](corpus_systems.md), CS-6 — *सुबोधता और जटिलता का उत्तरदायी प्रबंधन***;
@@ -897,7 +897,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-मल-समझत-सदधत), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समृद्धि** और **निरंतरता**; **अध्याय पाँच** में [प्रत्यावर्तनीयता](core_05_band_continuity.md#reversibility-constitutional), [जोखिम](core_05_band_continuity.md#risk) और [प्रणाली पर कब्ज़ा](core_05_band_continuity.md#system-capture)।
 
 </details>
@@ -905,10 +905,10 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
-- [सारभूतता](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [सारभूतता](core_05_band_oversight.md#ततवकत-नरधरण) · [O](core_05_band_oversight.md#ततवकत-नरधरण) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [प्रणाली पर कब्ज़ा](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [कब्ज़ा-विरोध](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) · [O](core_05_band_oversight.md#लखपरकष-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -953,8 +953,8 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
 - [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [पूर्वानुमेयता](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) · [O](core_05_band_oversight.md#लखपरकष-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [पूर्वानुमेयता](core_05_band_oversight.md#परवनमयत-ततपरत) · [O](core_05_band_oversight.md#परवनमयत-ततपरत) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -980,7 +980,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-मल-समझत-सदधत), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -989,7 +989,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 
 - [प्रत्यावर्तनीयता](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [जोखिम](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) · [O](core_05_band_oversight.md#लखपरकष-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1014,7 +1014,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-सरकषकत-अनशसन-क-अधन-शसन), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एककत-अनपरयग)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समृद्धि** और **निरंतरता**; **अध्याय पाँच** में [प्राधिकार-क्रम और आंतरिक पदानुक्रम](core_05_band_integrative.md#authority-stack), [संवैधानिक मंच-परिवार](core_05_band_accountability.md#forum-family-constitutional), [प्रणाली पर कब्ज़ा](core_05_band_continuity.md#system-capture) और [कब्ज़ा-विरोध](core_05_band_continuity.md#anti-capture)।
 
 </details>
@@ -1026,7 +1026,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 - [संवैधानिक मंच-परिवार](core_05_band_accountability.md#forum-family-constitutional) · [O](core_05_band_accountability.md#forum-family-constitutional) · [M](core_05_band_accountability.md#forum-family-constitutional-a) · [A](core_05_band_accountability.md#forum-family-constitutional-a) · [C](core_05_band_accountability.md#forum-family-constitutional-c)
 - [प्रणाली पर कब्ज़ा](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [कब्ज़ा-विरोध](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) · [O](core_05_band_oversight.md#लखपरकष-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1062,8 +1062,8 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§13.1.5 अधिकार-संघर्ष निर्णय-परीक्षण](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 पूर्ण अधिभावी अधिकार का निषेध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
-- साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — भागीदारी, निरीक्षण, जवाबदेही और समयबद्धता; अध्याय एक [§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) के तहत चतुष्क पर कब्ज़े का अनुशासन।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§13.1.5 अधिकार-संघर्ष निर्णय-परीक्षण](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 पूर्ण अधिभावी अधिकार का निषेध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एककत-अनपरयग)।
+- साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — भागीदारी, निरीक्षण, जवाबदेही और समयबद्धता; अध्याय एक [§18](core_01_c_stewardship_capacity_principles.md#18-सरकषकत-अनशसन-क-अधन-शसन) के तहत चतुष्क पर कब्ज़े का अनुशासन।
 
 </details>
 
@@ -1100,7 +1100,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§13.1.5 अधिकार-संघर्ष निर्णय-परीक्षण](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§13.1.5 अधिकार-संघर्ष निर्णय-परीक्षण](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-सरकषकत-अनशसन-क-अधन-शसन), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एककत-अनपरयग)।
 - साथ पढ़ें: [अध्याय दस §5.5](core_10_standing_integration.md#55-special-locks) (*मंच पर खुलासे की चूक और अलग होने की प्रक्रिया का प्रभाव*); [अध्याय ग्यारह §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*नामित कदाचार पैटर्न*); [अध्याय बारह §2](core_12_forum.md#2-default-venue-and-primary-stakes) तथा [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*अखंडता-प्रथम मार्ग-निर्धारण और स्वयं-निर्णय-विरोध*)।
 
 </details>
@@ -1138,7 +1138,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एककत-अनपरयग)।
 
 </details>
 
@@ -1146,7 +1146,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <summary><strong><span style="color: #2563eb;">परिभाषाएँ · आकलन · अनुपालन</span></strong></summary>
 
 - [जवाबदेही](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [लेखापरीक्षा-योग्यता](core_05_band_oversight.md#लखपरकष-यगयत) · [O](core_05_band_oversight.md#लखपरकष-यगयत) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [चुनौती-योग्यता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1184,7 +1184,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§13.1.5 अधिकार-संघर्ष निर्णय-परीक्षण](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§13.1.5 अधिकार-संघर्ष निर्णय-परीक्षण](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-सरकषकत-अनशसन-क-अधन-शसन), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एककत-अनपरयग)।
 
 </details>
 

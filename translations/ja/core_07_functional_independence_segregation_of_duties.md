@@ -7,7 +7,7 @@
 > このファイルは**感知者憲法の一部**であり、単一の文書として読む他の番号付き`core_*`ファイルと**併せて初めて拘束力を持つ**。本ファイルは、機能的独立性と職務の分離に関するプロセス横断的な最低基準を定める**第七章**である。第六章の権利の最低基準に続き、憲法上のプロセス章の冒頭となる[第八章・システム整合性認証](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)に先立つ。
 >
 > - **憲法上の所管事項：**重大な拘束力を持つ行為について別個の席を設ける最低基準；各[重大な拘束力を持つ行為の記録](../../core_05_band_accountability.md#materially-binding-act-record)に共通する普遍的な最低内容；行為者およびその[物的支配ライン](../../core_05_band_accountability.md#material-control-line)からの独立性；公表されたレーンと役割の配置；利益相反、欠員、代行および誤った席への回付；比例的な統合運営；帰属を追跡できる引継ぎ；ならびに後続のすべての憲法上のプロセスが適用すべき最低限の独立性条件。
-> - **原則層の根拠：**[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties)は、統治に機能的独立性の維持を求め、運用上の席の構造を本章に委ねる。
+> - **原則層の根拠：**[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)は、統治に機能的独立性の維持を求め、運用上の席の構造を本章に委ねる。
 > - **実施所管：**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)、[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)、[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries)が席を配置し、運用可能にする。これらは本章より厳格であってよく、限定された特別権限の席種を追加してもよいが、本章の基準を狭めてはならない。
 > - **プロセス固有の適用は後続章が担う：**第八章はこの最低基準をシステム整合性認証に適用し、[第九章 §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties)はステータス記録に適用する。第十二章と[corpus_forum.md](../../corpus_forum.md)はフォーラムの手続に適用する。各章は対象分野に必要な保護策を追加できるが、より弱い代替策を設けてはならない。
 >
@@ -71,7 +71,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
-- 上流：[§1](#1-purpose-scope-and-owner-boundary)；[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties)；[第一章 §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)。
+- 上流：[§1](#1-purpose-scope-and-owner-boundary)；[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)；[第一章 §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)。
 - 下流：[§3](#3-independence-conflict-and-control-lines)から[§9](#9-relationship-to-later-processes)まで；[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries)（*席のカタログ — プロセス役割の類型と運用上の境界*）。
 - 併読：唯一認められる統合運営の経路については[§6](#6-proportional-scaling-and-merged-hosting)。
 

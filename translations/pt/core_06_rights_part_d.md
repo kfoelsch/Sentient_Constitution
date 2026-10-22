@@ -139,7 +139,7 @@ Deve permanecer distinta de:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§6 Confiança](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- A montante: Princípios: Capítulo Um [§6 Confiança](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
 - Ler em conjunto: [Capítulo Dez §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*padrões e habilitações de competência*), [Padrão de competência](core_05_band_accountability.md#competency-bar) e [Habilitação de competência](core_05_band_accountability.md#competency-clearance); [Capítulo Dez §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*bloqueios de legitimidade*), [Natureza da violação](core_05_band_accountability.md#violation-nature-chapter-six) e [Bloqueio de legitimidade](core_05_band_accountability.md#standing-lock) — vias nomeadas restritivas baseadas em entradas verificadas do Eixo da Violação; a habilitação de competência não dispensa um bloqueio de legitimidade aplicável, e uma boa contribuição não elimina conclusões de violação ainda não resolvidas.
 
 </details>
@@ -190,7 +190,7 @@ Este Artigo estabelece como a legitimidade se distingue de padrões de competên
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Um §13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- A montante: Princípios: [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação) e [Capítulo Um §13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - A jusante: [Capítulo Nove §2](core_09_standing_assessment.md#2-question-1--what-happened) (*registros de legitimidade, filtro de entradas verificadas e conteúdo mínimo do registro*); [Capítulo Nove §3.6](core_09_standing_assessment.md#36-forum-boundary) (*limite dos fóruns*); [Capítulo Dez §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*padrões e habilitações de competência*); [Capítulo Dez §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*bloqueios de legitimidade*); [Capítulo Dez §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*reintegração e revisão*).
 - Ler em conjunto: **Artigo III-A** (*Sobrevivência*); **Artigo XIII-A** (*Piso de confiabilidade e confiança*) e **Artigo XIII-B** (*Direito à reparação e ao remédio*); [Preâmbulo §6.2 Como a cadeia completa se articula](core_00_preamble.md#62-how-the-full-chain-fits-together); [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **participação**, **supervisão**, **prestação de contas** e **tempestividade** conforme **Artigo XXVI-C** (*Piso de resolução tempestiva e contra atrasos*) e **Artigo XX-B** (*Pisos para restrições*).
 
@@ -243,7 +243,7 @@ Este Artigo estabelece limites de contestabilidade e proporcionalidade para rest
   - Uma conclusão de menor impacto no Eixo da Violação segundo a [escala unificada do Capítulo Nove §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) não justifica exclusão duradoura sem evidência de padrão repetido, evasão ou vínculo com dano material. Negligência, ocultação, coerção, reincidência e descritores comparáveis de caráter informam essa revisão, mas não alteram a faixa de impacto do Capítulo Nove.
   - A escalada porque a conduta se repete ou a responsabilidade é ocultada ainda deve ser necessária, proporcional, revisável e vinculada a conclusões verificadas.
 - **Mínimos dos Pisos de Direitos e não impedimento:** legitimidade de participação, padrões e habilitações de competência e bloqueios de legitimidade regem apenas a elegibilidade para funções e vias nomeadas de privilégio. Não podem:
-  - suspender, dispensar, extinguir ou reduzir os **mínimos dos Pisos de Direitos** aplicados pelo **Artigo VI** (*Direitos básicos iguais*) conforme o [Princípio dos mínimos dos Pisos de Direitos](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle);
+  - suspender, dispensar, extinguir ou reduzir os **mínimos dos Pisos de Direitos** aplicados pelo **Artigo VI** (*Direitos básicos iguais*) conforme o [Princípio dos mínimos dos Pisos de Direitos](core_01_b_interaction_interpretation.md#princípio-dos-mínimos-da-base-de-direitos);
   - impedir acesso essencial à sobrevivência ou os pisos de alocação de recursos e dependência do **Artigo III-A** (*Sobrevivência*) quando materialmente envolvidos; nem
   - impedir vias de auditoria, contestação ou reparação exigidas constitucionalmente — inclusive nos termos dos **Artigos XIII-A** (*Piso de confiabilidade e confiança*) e **XIII-B** (*Direito à reparação e ao remédio*), **XV-B** (*Transparência, auditabilidade e impugnabilidade*) e **XVI** (*Auditoria, transparência e verificação independente*) — sem justificativa adequada conforme o **Capítulo Um**, o **Capítulo Cinco** e o procedimento incorporado aplicável.
 - **Reintegração e não entrincheiramento:** quando a legitimidade for reduzida devido a conclusões de violação, os sistemas devem oferecer condições claras para revisão, restauração baseada em reparação e reavaliação periódica conforme [Capítulo Dez §8 Restauração e reavaliação](core_10_standing_integration.md#8-restoration-and-reassessment).
@@ -257,7 +257,7 @@ Este Artigo estabelece limites de contestabilidade e proporcionalidade para rest
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§6 Confiança](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [Capítulo Um §18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- A montante: Princípios: Capítulo Um [§6 Confiança](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [Capítulo Um §18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governança-sob-a-disciplina-de-tutela).
 
 </details>
 
@@ -271,7 +271,7 @@ Este Artigo estabelece limites de contestabilidade e proporcionalidade para rest
 - [Legitimidade de participação](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [Falha coletiva de prestação de contas](core_05_band_accountability.md#collective-accountability-failure) · [O](core_05_band_accountability.md#collective-accountability-failure) · [M](core_05_band_accountability.md#collective-accountability-failure-a) · [A](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
 - [Confiança](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Escolha constitucional fundamental](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [Escolha constitucional fundamental](core_05_band_integrative.md#escolha-constitucional-fundacional) · [O](core_05_band_integrative.md#escolha-constitucional-fundacional) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [Equidade processual](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -312,9 +312,9 @@ Este Artigo estabelece a elegibilidade e responsabilidade por vias nomeadas e a 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- A montante: Princípios: Capítulo Um [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação) e [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governança-sob-a-disciplina-de-tutela).
 - A jusante: [Capítulo Onze §4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) (*bloqueios de legitimidade*); [Capítulo Onze §8](core_11_standing_integration.md#8-restoration-and-reassessment) (*reintegração e revisão*).
-- Ler em conjunto com: [Artigo XIX-E](#article-xix-e-voting-and-special-locks) (*votação e bloqueios especiais*); [Capítulo Dez §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*escala unificada*); **Artigo XX-B** (*Pisos para restrições*); [Artigo XXII-D](#article-xxii-d-limitation-custody-and-emergency-discipline) (*legitimidade não é fronteira*).
+- Ler em conjunto com: [Artigo XIX-E](#artigo-xix-e-votação-e-bloqueios-especiais) (*votação e bloqueios especiais*); [Capítulo Dez §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*escala unificada*); **Artigo XX-B** (*Pisos para restrições*); [Artigo XXII-D](#artigo-xxii-d-limitação-custódia-e-disciplina-de-emergência) (*legitimidade não é fronteira*).
 
 </details>
 
@@ -342,8 +342,8 @@ Este Artigo estabelece como as violações são registradas e como se aplicam bl
   - Um bloqueio não é classificação de dignidade, redução do Piso de Direitos, retaliação automática nem pontuação combinada de mérito.
   - Todo bloqueio deve especificar os acessos impedidos, quem ou o que protege, o que deve ser corrigido para que seja suspenso, como contestá-lo e quando será reavaliado. Deve continuar necessário, proporcional, auditável e contestável conforme [Artigo XIX-B](#article-xix-b-contestability-and-proportional-restriction-limits) (*Contestabilidade e limites às restrições proporcionais*).
   - Uma habilitação de competência não dispensa um bloqueio aplicável; boas contribuições não eliminam conclusões verificadas de violação ainda não resolvidas.
-  - Bloqueios de vias de votação e os três bloqueios especiais seguem as regras adicionais do [Artigo XIX-E](#article-xix-e-voting-and-special-locks) (*votação e bloqueios especiais*).
-  - Bloqueios de legitimidade não substituem processos de justiça individualizados e **por si sós** não restringem movimento, refúgio, portabilidade ou saída ([Artigos XXI](#article-xxi-interoperability-portability-and-exit-integrity) e [XXII](#article-xxii-movement-migration-refuge-and-non-statelessness)).
+  - Bloqueios de vias de votação e os três bloqueios especiais seguem as regras adicionais do [Artigo XIX-E](#artigo-xix-e-votação-e-bloqueios-especiais) (*votação e bloqueios especiais*).
+  - Bloqueios de legitimidade não substituem processos de justiça individualizados e **por si sós** não restringem movimento, refúgio, portabilidade ou saída ([Artigos XXI](#artigo-xxi-interoperabilidade-portabilidade-e-integridade-de-saída) e [XXII](#article-xxii-movement-migration-refuge-and-non-statelessness)).
 - **Adequação do bloqueio ao dano:** o bloqueio deve corresponder à gravidade do dano verificado, à função ou ao privilégio específico que protege e ao progresso da reparação.
   - **Ajuda anterior:** só pode ser considerada se demonstrar que o senciente pode reparar o dano, manter salvaguardas, evitar repetição ou justificar restrição menor na reavaliação ([Capítulo Dez §2](core_10_standing_assessment.md#2-question-1--what-happened)). Nunca compensa, dispensa, reduz por média ou substitui uma conclusão de dano ainda não resolvida.
   - **Dano menos grave:** uma conclusão de dano menos grave, conforme a [escala LEQU proporcional unificada do Capítulo Dez §7](core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), não justifica exclusão prolongada, salvo padrão repetido, evasão ou relação com dano material.
@@ -359,9 +359,9 @@ Este Artigo estabelece como as violações são registradas e como se aplicam bl
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- A montante: Princípios: Capítulo Um [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governança-sob-a-disciplina-de-tutela).
 - A jusante: [Capítulo Onze §5.5](core_11_standing_integration.md#55-special-locks) (*Bloqueios especiais*); [Capítulo Quatorze §4.1](core_14_governance.md#41-entitlement-and-eligibility) (*Direito e elegibilidade*).
-- Ler em conjunto com: [Artigo XIX-D](#article-xix-d-violations-and-standing-locks) (*Violações e bloqueios de legitimidade*); **Artigo X-B** (*Participação na governança e direito de voto*); **Capítulo Doze** (*Má conduta anticonstitucional*).
+- Ler em conjunto com: [Artigo XIX-D](#artigo-xix-d-violações-e-bloqueios-de-legitimidade) (*Violações e bloqueios de legitimidade*); **Artigo X-B** (*Participação na governança e direito de voto*); **Capítulo Doze** (*Má conduta anticonstitucional*).
 
 </details>
 
@@ -377,7 +377,7 @@ Este Artigo estabelece como as violações são registradas e como se aplicam bl
 
 <br>
 
-*Em termos simples: alguns bloqueios têm regras adicionais às do [Artigo XIX-D](#article-xix-d-violations-and-standing-locks). Um bloqueio do voto fundamental de governança não elimina a voz ponderada das partes interessadas em um sistema específico, e vice-versa. Retirar o voto de governança de alguém exige uma conclusão sobre sua própria conduta, um ajuste estrito ao que fez e uma via real de retorno. Somente uma conclusão final do Capítulo Doze sobre má conduta anticonstitucional suspende esse voto, e apenas até a **restituição integral**. Três bloqueios especiais abrangem julgadores que não se afastaram quando deviam, manipulação de votos de partes interessadas e ataques à Constituição.*
+*Em termos simples: alguns bloqueios têm regras adicionais às do [Artigo XIX-D](#artigo-xix-d-violações-e-bloqueios-de-legitimidade). Um bloqueio do voto fundamental de governança não elimina a voz ponderada das partes interessadas em um sistema específico, e vice-versa. Retirar o voto de governança de alguém exige uma conclusão sobre sua própria conduta, um ajuste estrito ao que fez e uma via real de retorno. Somente uma conclusão final do Capítulo Doze sobre má conduta anticonstitucional suspende esse voto, e apenas até a **restituição integral**. Três bloqueios especiais abrangem julgadores que não se afastaram quando deviam, manipulação de votos de partes interessadas e ataques à Constituição.*
 
 Este Artigo estabelece os limites dos bloqueios de voto e dos bloqueios especiais:
 
@@ -406,7 +406,7 @@ Este Artigo estabelece os limites dos bloqueios de voto e dos bloqueios especiai
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§3 Objetivo fundamental: bem-estar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- A montante: Princípios: Capítulo Um [§3 Objetivo fundamental: bem-estar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governança-sob-a-disciplina-de-tutela).
 - A jusante: [Capítulo Dez §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violação, correção e prevenção*); [Capítulo Onze §4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Salvaguardas de devido processo, reparação e prevenção*).
 
 </details>
@@ -429,8 +429,8 @@ Este Artigo enuncia os pisos de justiça aplicáveis depois de verificada uma vi
 
 - **Resolução de conflitos, revisão e tempestividade:** disputas sobre Pisos de Direitos constitucionais, revisão retrospectiva, colisões entre direitos e disciplina contra atrasos são regidas pelo [**Artigo XXV**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Revisão retrospectiva tempestiva e alinhamento restaurativo*).
 - **Medidas de emergência:** regidas por [Capítulo Doze §6.1 Medidas de emergência e ônus de continuidade](core_12_forum.md#61-emergency-measures-and-continuation-burden), em conjunto com o **Artigo XX-B** (*Pisos para restrições*) para qualquer restrição imposta por medida emergencial.
-- **Legitimidade:** o [**Artigo XIX**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*Legitimidade processual e status de participação*) rege a legitimidade. As medidas de justiça deste Artigo são distintas e não contornam as regras por meio de um rótulo de legitimidade.
-- **Reparação tempestiva:** ler em conjunto com [**Artigo XIII-B** (*Direito à reparação e ao remédio*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*acesso tempestivo à reparação*).
+- **Legitimidade:** o [**Artigo XIX**](core_06_rights_part_d.md#artigo-xix-legitimidade-processual-e-status-de-participação) (*Legitimidade processual e status de participação*) rege a legitimidade. As medidas de justiça deste Artigo são distintas e não contornam as regras por meio de um rótulo de legitimidade.
+- **Reparação tempestiva:** ler em conjunto com [**Artigo XIII-B** (*Direito à reparação e ao remédio*)](core_06_rights_part_c.md#artigo-xiii-b-direito-à-reparação-e-ao-remédio) (*acesso tempestivo à reparação*).
 
 A implementação de governança adotada pode acrescentar detalhes. Não pode estreitar o objetivo da justiça nem os pisos para restrições deste Artigo.
 <a id="article-xx-a-justice-objective-and-scope"></a>
@@ -438,8 +438,8 @@ A implementação de governança adotada pode acrescentar detalhes. Não pode es
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Um §13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Capítulo Um §3.3 Processo não degradante](core_01_a_values_principles.md#33-anti-degrading-process) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- A jusante: [Capítulo Dez §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violação, correção e prevenção*); [Artigo XX-B](#article-xx-b-restriction-floors).
+- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Um §13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Capítulo Um §3.3 Processo não degradante](core_01_a_values_principles.md#33-processo-contra-a-degradação) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
+- A jusante: [Capítulo Dez §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violação, correção e prevenção*); [Artigo XX-B](#artigo-xx-b-pisos-para-restrições).
 - Ler em conjunto com: [Crueldade](core_05_band_accountability.md#cruelty) (*referência no Capítulo Cinco para o padrão do piso contra crueldade que proíbe sofrimento como fim*).
 
 </details>
@@ -471,7 +471,7 @@ Este Artigo estabelece o objetivo e o alcance da justiça e o piso contra a crue
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Capítulo Um §13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) e [§14 Proibição de prevalência absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação), [Capítulo Um §13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) e [§14 Proibição de prevalência absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - A jusante: [Capítulo Dez §5 Projeto e aplicação de bloqueios](core_10_standing_integration.md#5-lock-design-and-enforcement) e [§5.4 Regras especiais para violações](core_10_standing_integration.md#54-special-violation-rules) (*prisão obrigatória por violência verificada e demais salvaguardas coercitivas ou restritivas da liberdade*); [Capítulo Onze §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevenção — bloqueios por conduta anticonstitucional*; especialização sobre prisão).
 - Ler em conjunto com: [Artigo XXVI-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Piso de resolução tempestiva e contra atrasos*); [Capítulo Doze §5 Escalada e certificação](core_12_forum.md#5-escalation-and-certification).
 
@@ -519,7 +519,7 @@ Este Artigo estabelece os pisos para restrições. As regras operacionais consta
   - restrições graves indefinidas;
   - medidas restritivas irreversíveis quando houver restituição, remediação ou proteção reversível viável;
   - restrições sem indicadores auditáveis para reavaliação.
-- **Direitos básicos iguais e dignidade:** restrições, exclusões e medidas de justiça comparáveis devem cumprir o **Artigo VI** (*Direitos básicos iguais*) e os [**Princípios de dignidade**](core_01_b_interaction_interpretation.md#dignity-principles) (o [Princípio dos mínimos dos Pisos de Direitos](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) e o [Princípio contra processos degradantes](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)) durante toda a imposição, revisão e execução de qualquer restrição, contenção ou medida de responsabilização restaurativa.
+- **Direitos básicos iguais e dignidade:** restrições, exclusões e medidas de justiça comparáveis devem cumprir o **Artigo VI** (*Direitos básicos iguais*) e os [**Princípios de dignidade**](core_01_b_interaction_interpretation.md#princípios-da-dignidade) (o [Princípio dos mínimos dos Pisos de Direitos](core_01_b_interaction_interpretation.md#princípio-dos-mínimos-da-base-de-direitos) e o [Princípio contra processos degradantes](core_01_b_interaction_interpretation.md#princípio-do-processo-não-degradante)) durante toda a imposição, revisão e execução de qualquer restrição, contenção ou medida de responsabilização restaurativa.
 - **Escalada e revisão:** partes afetadas devem ter acesso a vias de escalada proporcionais ao impacto.
   - O acesso inclui recurso ou revisão em várias instâncias quando houver interesses materiais em jogo.
   - Partes afetadas devem receber:
@@ -539,7 +539,7 @@ Este Artigo estabelece os pisos para restrições. As regras operacionais consta
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Disciplina de limitações](core_01_a_values_principles.md#71-limitation-discipline) e [§11 Estrutura de mercado](core_01_a_values_principles.md#11-market-structure).
+- A montante: Princípios: Capítulo Um [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Disciplina de limitações](core_01_a_values_principles.md#71-limitation-discipline) e [§11 Estrutura de mercado](core_01_a_values_principles.md#11-estrutura-de-mercado).
 
 </details>
 
@@ -592,7 +592,7 @@ Sentientes e sistemas dependentes têm direito a saída, migração, interoperab
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- A montante: Princípios: [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação) e [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -623,7 +623,7 @@ Este Artigo estabelece o piso de portabilidade:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- A montante: Princípios: [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação) e [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -650,7 +650,7 @@ Este Artigo estabelece os pisos de interoperabilidade recíproca e aviso de rest
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [Capítulo Um §18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- A montante: Princípios: [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [Capítulo Um §18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governança-sob-a-disciplina-de-tutela).
 
 </details>
 
@@ -684,8 +684,8 @@ Este Artigo estabelece a regra contra aprisionamento:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§16.3 Aspiração de abertura](core_01_c_stewardship_capacity_principles.md#163-openness-aspiration), [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§11 Estrutura de mercado](core_01_a_values_principles.md#11-market-structure).
-- Ler em conjunto com: [Artigo XXI-A](#article-xxi-a-portability-rights) (*Direitos de portabilidade*); [Artigo XXI-B](#article-xxi-b-reciprocal-interoperability-boundaries) (*Limites recíprocos de interoperabilidade*); [Artigo XXI-C](#article-xxi-c-anti-lock-in-rule) (*Regra contra aprisionamento*); [Artigo XXIII](#article-xxiii-comprehensibility-and-complexity-stewardship) (*Compreensibilidade e gestão responsável da complexidade*); [corpus_systems.md](corpus_systems.md) **CS-2 (*Tipos e tratamento de informações*)**; **CJS-3.17** (*termos de interoperabilidade, portabilidade e integridade de saída*).
+- A montante: Princípios: Capítulo Um [§16.3 Aspiração de abertura](core_01_c_stewardship_capacity_principles.md#163-aspiração-à-abertura), [§7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§11 Estrutura de mercado](core_01_a_values_principles.md#11-estrutura-de-mercado).
+- Ler em conjunto com: [Artigo XXI-A](#article-xxi-a-portability-rights) (*Direitos de portabilidade*); [Artigo XXI-B](#article-xxi-b-reciprocal-interoperability-boundaries) (*Limites recíprocos de interoperabilidade*); [Artigo XXI-C](#article-xxi-c-anti-lock-in-rule) (*Regra contra aprisionamento*); [Artigo XXIII](#artigo-xxiii-compreensibilidade-e-gestão-responsável-da-complexidade) (*Compreensibilidade e gestão responsável da complexidade*); [corpus_systems.md](corpus_systems.md) **CS-2 (*Tipos e tratamento de informações*)**; **CJS-3.17** (*termos de interoperabilidade, portabilidade e integridade de saída*).
 
 </details>
 
@@ -724,7 +724,7 @@ Este Artigo estabelece o piso de formatos abertos para sistemas:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Proporcionalidade](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 Disciplina de limitações](core_01_a_values_principles.md#71-limitation-discipline).
+- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 Proporcionalidade](core_01_b_interaction_interpretation.md#1313-proporcionalidade), [§7.1 Disciplina de limitações](core_01_a_values_principles.md#71-limitation-discipline).
 - A jusante: piso de dignidade do **Artigo VI-A** (*Dignidade e igual posição moral*), não discriminação do **Artigo VI-C** (*Não discriminação*), participação das partes interessadas do **Artigo XII** (*Participação, representação e devido processo das partes interessadas no sistema*), encaminhamento de legitimidade e status de participação do **Artigo XIX** (*Legitimidade processual e status de participação*), limites às medidas emergenciais do **Capítulo Treze §6.1** (*Medidas de emergência e ônus de continuidade*) e governança de transição do **Artigo XXVIII** (*Governança de transição, continuidade e reestabelecimento de bases*).
 - Ler em conjunto com: [Capítulo Cinco *Movimento, refúgio, prevenção da apatridia e integridade de saída*](core_05_band_oversight.md#movement-refuge-semi-independent); *Movimento e relocação*, *Refúgio contra descumprimento*, *Prevenção da apatridia*, *Não exclusão de sencientes*; *Aprisionamento sistêmico* e *Continuidade de ocupação* quando saída, encerramento de hospedagem, despejo ou relocação substantiva estiver materialmente implicada; **Artigo I-A** (*Pré-condições ambientais e integridade ecológica*) quando sistemas ou projetos tornarem um lugar inabitável; **Artigo XXI-A** (*Direitos de portabilidade*) a **Artigo XXI-C** (*Regra contra aprisionamento*) para mecânicas de portabilidade de substrato e integridade de saída; **Artigo XXVIII** (*Governança de transição, continuidade e reestabelecimento de bases*) para mecânicas de reconhecimento transitório.
 
@@ -826,7 +826,7 @@ Este Artigo estabelece os pisos para movimento, refúgio e prevenção da apatri
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: [Capítulo Um §5.2 Acessibilidade em linguagem simples (dever de administração responsável)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Minimização de ônus evitável](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) e [Capítulo Um Parte C §16.1 Compreensão distribuída](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
+- A montante: Princípios: [Capítulo Um §5.2 Acessibilidade em linguagem simples (dever de administração responsável)](core_01_a_values_principles.md#52-acessibilidade-em-linguagem-simples-dever-de-participação-e-gestão-responsável), [§13.3 Minimização de ônus evitável](core_01_b_interaction_interpretation.md#133-minimização-dos-encargos-evitáveis) e [Capítulo Um Parte C §16.1 Compreensão distribuída](core_01_c_stewardship_capacity_principles.md#161-compreensão-distribuída).
 - Ler em conjunto: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); [Dois Objetivos Constitucionais](core_00_preamble.md#two-constitutional-aims) — **Florescimento** e **Continuidade**; [Ônus evitável](core_05_band_continuity.md#avoidable-burden), [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional) e [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency) no **Capítulo Cinco**.
 
 </details>
@@ -864,21 +864,21 @@ A busca legítima ocorre pela [Tétrade Constitucional](core_00_preamble.md#cons
 
 Sentientes têm direito à compreensibilidade proporcional dos sistemas que afetem materialmente a sobrevivência, as pré-condições ambientais, a integridade da esfera informacional e a agência significativa. Esse direito protege a compreensão prática do funcionamento do sistema, de suas dependências, limites e possíveis falhas — não apenas uma notificação formal.
 
-A disciplina de administração responsável sobre complexidade, acesso em linguagem simples e minimização de ônus está estabelecida no nível dos princípios em [Capítulo Um §5.2 Acessibilidade em linguagem simples (dever de administração responsável)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Minimização de ônus evitável](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) e [Capítulo Um Parte C §16.1 Compreensão distribuída](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), em conjunto com [Ônus evitável](core_05_band_continuity.md#avoidable-burden), [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional) e [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency) do **Capítulo Cinco**. Este Artigo estabelece o Piso de Direitos implementado por essas disciplinas quando sistemas afetarem materialmente interesses protegidos.
+A disciplina de administração responsável sobre complexidade, acesso em linguagem simples e minimização de ônus está estabelecida no nível dos princípios em [Capítulo Um §5.2 Acessibilidade em linguagem simples (dever de administração responsável)](core_01_a_values_principles.md#52-acessibilidade-em-linguagem-simples-dever-de-participação-e-gestão-responsável), [§13.3 Minimização de ônus evitável](core_01_b_interaction_interpretation.md#133-minimização-dos-encargos-evitáveis) e [Capítulo Um Parte C §16.1 Compreensão distribuída](core_01_c_stewardship_capacity_principles.md#161-compreensão-distribuída), em conjunto com [Ônus evitável](core_05_band_continuity.md#avoidable-burden), [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional) e [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency) do **Capítulo Cinco**. Este Artigo estabelece o Piso de Direitos implementado por essas disciplinas quando sistemas afetarem materialmente interesses protegidos.
 
 *Artigos vizinhos:*
 
 - **Camada de princípios:**
-  - [Capítulo Um §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*disciplina de linguagem simples e proibição de usar jargão para frustrar direitos*);
-  - [Capítulo Um §13.3 Minimização de ônus evitável](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*minimização de ônus evitável e exceções de simplificação*);
-  - [Capítulo Um Parte C §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (*compreensão distribuída ajustada à materialidade e dependência*).
+  - [Capítulo Um §5.2](core_01_a_values_principles.md#52-acessibilidade-em-linguagem-simples-dever-de-participação-e-gestão-responsável) (*disciplina de linguagem simples e proibição de usar jargão para frustrar direitos*);
+  - [Capítulo Um §13.3 Minimização de ônus evitável](core_01_b_interaction_interpretation.md#133-minimização-dos-encargos-evitáveis) (*minimização de ônus evitável e exceções de simplificação*);
+  - [Capítulo Um Parte C §16.1](core_01_c_stewardship_capacity_principles.md#161-compreensão-distribuída) (*compreensão distribuída ajustada à materialidade e dependência*).
 
 #### Artigo XXIII-A: direito à compreensibilidade proporcional
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
 - A montante: Princípios: Capítulo Um [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Um §7 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency) e [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Ler em conjunto com: [Capítulo Um §5.2 Acessibilidade em linguagem simples (dever de administração responsável)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Minimização de ônus evitável](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) e [Capítulo Um Parte C §16.1 Compreensão distribuída](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
+- Ler em conjunto com: [Capítulo Um §5.2 Acessibilidade em linguagem simples (dever de administração responsável)](core_01_a_values_principles.md#52-acessibilidade-em-linguagem-simples-dever-de-participação-e-gestão-responsável), [§13.3 Minimização de ônus evitável](core_01_b_interaction_interpretation.md#133-minimização-dos-encargos-evitáveis) e [Capítulo Um Parte C §16.1 Compreensão distribuída](core_01_c_stewardship_capacity_principles.md#161-compreensão-distribuída).
 
 </details>
 
@@ -909,7 +909,7 @@ Este Artigo estabelece o piso de compreensão proporcional:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Capítulo Um §18.5 Arquitetura modular e disciplina de dependências](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) e [Capítulo Um §20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Capítulo Um §18.5 Arquitetura modular e disciplina de dependências](core_01_c_stewardship_capacity_principles.md#185-arquitetura-modular-e-disciplina-de-dependências) e [Capítulo Um §20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
 
 </details>
 
@@ -933,7 +933,7 @@ Este Artigo estabelece os pisos para auditorias de complexidade, modularidade, p
   - acoplamento de dependências;
   - modos de falha;
   - limites através dos quais responsabilidades ou observabilidade são transferidas.
-- **Arquitetura modular:** sistemas críticos **devem** ser estruturados de modo que seus componentes, as responsabilidades de cada um e as dependências entre componentes possam ser identificados e examinados de forma independente. Dependências devem ser declaradas nas interfaces, não exceder o necessário à função e ser mapeadas aos mesmos limites auditados. Responsabilidade e observabilidade devem ser preservadas em cada limite interno. Uma estrutura modular que esconda responsabilidades ou frustre a auditoria de todo o sistema constitui camadas opacas proibidas no item seguinte e não satisfaz este requisito. Ler em conjunto com [§18.5 Arquitetura modular e disciplina de dependências](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
+- **Arquitetura modular:** sistemas críticos **devem** ser estruturados de modo que seus componentes, as responsabilidades de cada um e as dependências entre componentes possam ser identificados e examinados de forma independente. Dependências devem ser declaradas nas interfaces, não exceder o necessário à função e ser mapeadas aos mesmos limites auditados. Responsabilidade e observabilidade devem ser preservadas em cada limite interno. Uma estrutura modular que esconda responsabilidades ou frustre a auditoria de todo o sistema constitui camadas opacas proibidas no item seguinte e não satisfaz este requisito. Ler em conjunto com [§18.5 Arquitetura modular e disciplina de dependências](core_01_c_stewardship_capacity_principles.md#185-arquitetura-modular-e-disciplina-de-dependências).
 - **Proibição de camadas opacas:** a complexidade não pode ser usada — por meio de camadas técnicas, organizacionais, contratuais ou processuais — para frustrar auditoria, contestação ou correção.
 - **Alinhamento de protocolos:** a avaliação deve ser compatível com:
   - **[corpus_systems.md](corpus_systems.md), CS-6 — *Gestão responsável da compreensibilidade e da complexidade***;
@@ -949,7 +949,7 @@ Este Artigo estabelece os pisos para auditorias de complexidade, modularidade, p
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação) e [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Ler em conjunto: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); [Dois Objetivos Constitucionais](core_00_preamble.md#two-constitutional-aims) — **Florescimento** e **Continuidade**; [Reversibilidade](core_05_band_continuity.md#reversibility-constitutional), [Risco](core_05_band_continuity.md#risk) e [Captura do sistema](core_05_band_continuity.md#system-capture) no **Capítulo Cinco**.
 
 </details>
@@ -1028,7 +1028,7 @@ Este Artigo estabelece os pisos de documentação e contestação para conclusõ
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- A montante: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-princípios-fundamentais-de-ponderação) e [Capítulo Oito §3 Avaliação da certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1062,7 +1062,7 @@ Este Artigo estabelece a preferência pela reversibilidade e suas salvaguardas c
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- A montante: Princípios: Capítulo Um [§13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governança-sob-a-disciplina-de-tutela) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
 - Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); [Dois Objetivos Constitucionais](core_00_preamble.md#two-constitutional-aims) — **Florescimento** e **Continuidade**; [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack), [Família de fóruns constitucionais](core_05_band_accountability.md#forum-family-constitutional), [Captura do sistema](core_05_band_continuity.md#system-capture) e [Prevenção de captura](core_05_band_continuity.md#anti-capture) no **Capítulo Cinco**.
 
 </details>
@@ -1108,8 +1108,8 @@ A interpretação **constitucional** final deve permanecer autoritativa, delimit
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§13.1.5 Critério de decisão para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Proibição de prevalência absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- Ler em conjunto: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — participação, supervisão, prestação de contas e tempestividade; disciplina contra captura da Tétrade conforme [Capítulo Um §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- A montante: Princípios: Capítulo Um [§13.1.5 Critério de decisão para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Proibição de prevalência absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
+- Ler em conjunto: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — participação, supervisão, prestação de contas e tempestividade; disciplina contra captura da Tétrade conforme [Capítulo Um §18](core_01_c_stewardship_capacity_principles.md#18-governança-sob-a-disciplina-de-tutela).
 
 </details>
 
@@ -1145,7 +1145,7 @@ Este Artigo estabelece o mandato delimitado dos fóruns constitucionais e seus l
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§13.1.5 Critério de decisão para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- A montante: Princípios: Capítulo Um [§13.1.5 Critério de decisão para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governança-sob-a-disciplina-de-tutela) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
 - Ler em conjunto com: [Capítulo Dez §5.5](core_10_standing_integration.md#55-special-locks) (*omissão de divulgação em fórum e impacto do processo de impedimento*); [Capítulo Onze §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*padrão de conduta imprópria nomeado*); [Capítulo Doze §2](core_12_forum.md#2-default-venue-and-primary-stakes) e [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*encaminhamento prioritário à Integridade e proibição de julgamento próprio*).
 
 </details>
@@ -1181,7 +1181,7 @@ Este Artigo estabelece os pisos de composição, prevenção de captura e contro
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Um §13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- A montante: Princípios: Capítulo Um [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Um §13.1.5 Procedimento para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
 
 </details>
 
@@ -1225,7 +1225,7 @@ Este Artigo estabelece os pisos de fundamentação pública, contestação indep
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- A montante: Princípios: Capítulo Um [§13.1.5 Critério de decisão para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- A montante: Princípios: Capítulo Um [§13.1.5 Critério de decisão para colisões entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governança-sob-a-disciplina-de-tutela) e [§20 Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada).
 
 </details>
 
