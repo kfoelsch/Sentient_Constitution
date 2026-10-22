@@ -218,7 +218,7 @@ The chart follows one Operating Party from the question of whether it is materia
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how to read the chart</span></strong></summary>
 
-> In plain terms: nobody grants a System Charter or Institutional Charter, and nobody needs permission to form. A Chartered Party whose activity is material to others publishes what it claims authority to do and who holds each seat, and the holders of its key offices are checked. A holder who fails is replaced and the Chartered Party goes on. If the failure is still not fixed when the resolution window ends, a forum may review the Chartered Party, starting with the lightest step that protects others. Making the Chartered Party shrink below Class L, or dissolving it, comes only if lighter steps fail. A dissolved Chartered Party may not come back while the lock on it stands.
+> In plain terms: nobody grants a System Charter or Institutional Charter, and nobody needs permission to form. A Chartered Party whose activity is material to others publishes what it claims authority to do and who holds each seat, and the holders of its key offices are checked. A holder who fails is replaced, or the cause is fixed, and the Chartered Party goes on. If the failure is still not fixed when the resolution window ends, a forum may review the Chartered Party, starting with the lightest step that protects others. Making the Chartered Party shrink below Class L, or dissolving it, comes only if lighter steps fail. A dissolved Chartered Party may not come back while the lock on it stands.
 >
 > Solid arrows are the main path. Dotted arrows are exceptions and hand-offs, labeled with the section that makes them. The boxes with double side bars belong to another chapter or to the incorporated implementation text. The chart adds no duty, seat, or field, and no step on it is a grant of permission.
 
@@ -235,10 +235,10 @@ flowchart TB
     X[["Chapter Nine — Alignment certification<br/><br/>Checks the scope against real operation<br/><br/>Outside this chapter"]]
     P["Class P: a System Charter or<br/>Institutional Charter is voluntary<br/><br/>Publishing one creates no duty<br/>under this chapter<br/><br/>§2 You don't need anyone's permission to start"]
     D{"§5 Does the formation check pass?"}
-    F["§6 A holder fails the formation check<br/><br/>Replace that sentient, not the Chartered Party<br/>A short window to answer,<br/>a longer one to resolve it"]
+    F["§6 A holder fails the formation check<br/><br/>Fix the failure, not the Chartered Party:<br/>replace the holder, or fix the cause<br/>A short window to answer,<br/>a longer one to resolve it"]
     W{"§6 Is the resolution window still open?"}
-    R[["CI-11.210 and CI-11.215 — Consequence review<br/><br/>Lightest step that protects others<br/><br/>Outside this chapter"]]
-    E[["CI-11.215 and CI-11.210 — Contract below Class L, or dissolve<br/><br/>Dissolution only as a last step<br/><br/>Outside this chapter"]]
+    R[["CI-11.210 and CI-11.215 — Structural review<br/><br/>Only a forum decides<br/>Lightest step that protects others<br/><br/>Outside this chapter"]]
+    E[["CI-11.210 and CI-11.215 — Contract below Class L, or dissolve<br/><br/>Dissolution only as a last step<br/>§6.5 A dissolved Chartered Party may<br/>not return while the lock stands<br/><br/>Outside this chapter"]]
     Q -->|"Yes"| C
     Q -->|"No"| P
     P -.->|"Becomes material, or claims compliance — §1"| C
@@ -247,8 +247,8 @@ flowchart TB
     D -->|"Yes"| K
     D -.->|"No"| F
     F --> W
-    W -.->|"Yes: holder replaced, check again"| D
-    W -.->|"No: still unresolved"| R
+    W -.->|"Yes: resolved, check again"| D
+    W -.->|"No: still unresolved — §6.7"| R
     R -.->|"Lesser steps fail"| E
     K -.->|"§7"| X
     style Q fill:none,stroke:#2563eb,color:#ffffff
