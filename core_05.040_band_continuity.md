@@ -3423,7 +3423,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
 - Downstream:
-  - [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*when a System Charter is required, what it states, how it changes, and what it cannot do*);
+  - [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*when a System Charter is required, what it states, and how it changes*);
   - [Chapter Nine](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.005) (*certification record scope and reopening*);
   - [Chapter Ten §3.7](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7) (*the System Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*);
   - [corpus_institutions.md](corpus_institutions.md)
@@ -3500,7 +3500,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
 - Downstream:
-  - [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*when an Institutional Charter is required, what it states, how it changes, and what it cannot do*);
+  - [Chapter Seven](core_07.000_charters.md#chapter-seven-system-and-institutional-charters) (7.000) (*when an Institutional Charter is required, what it states, and how it changes*);
   - [Chapter Ten §3.7](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7) (*the Institutional Charter names or points to the record-opening authority and record custodian for standing records concerning its chartered scope*);
   - [Chapter Thirteen §4.3](core_13.000_forum.md#43-institutional-forums) (13.000 §4.3) (*institutional mandate and supervised-scope disputes*);
   - [corpus_institutions.md](corpus_institutions.md)

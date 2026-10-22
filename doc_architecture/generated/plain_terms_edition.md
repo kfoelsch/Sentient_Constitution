@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **716** of **1096** headings carry a gloss (65%).
+Coverage: **714** of **1094** headings carry a gloss (65%).
 
 ## Contents
 
@@ -30,7 +30,7 @@ Coverage: **716** of **1096** headings carry a gloss (65%).
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (9/63 glossed)
+- [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
 - [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08.000_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.005_system_alignment_certification_evaluation.md` (16/58 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.010_system_alignment_certification_record_process.md` (13/25 glossed)
@@ -3214,7 +3214,7 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 9/63 headings glossed
+Source file: [`core_07.000_charters.md`](../../core_07.000_charters.md) · 7/61 headings glossed
 
 #### 1. When System and Institutional Charters Are Required
 
@@ -3575,18 +3575,6 @@ scope can change, but not quietly. A change to what the Chartered Party may do i
 *(no plain-terms gloss in source)*
 
 [Source](../../core_07.000_charters.md#76-keeping-old-versions)
-
-#### 8. What System and Institutional Charters Cannot Do
-
-a System Charter or Institutional Charter describes a Chartered Party's limits. It does not make the Chartered Party safe, does not choose its class, and does not give it power. Writing a narrow one does not shrink what the Chartered Party really does.
-
-[Source](../../core_07.000_charters.md#8-what-system-and-institutional-charters-cannot-do)
-
-#### 9. Relationship to Other Chapters
-
-later chapters read the System Charter and the Institutional Charter. They do not rewrite them, and they do not need to repeat them.
-
-[Source](../../core_07.000_charters.md#9-relationship-to-other-chapters)
 
 ## CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES
 
