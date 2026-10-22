@@ -5,12 +5,12 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Seven**: the floor for the published scope documents of a system and of an institution: the System Charter and the Institutional Charter. It follows the Chapter Six Rights Floor and precedes [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties), which separates the seats inside any materially binding act.
 >
-> - **Constitutional owner:** when a system must publish a System Charter and when an institution must publish an Institutional Charter (required at Class L or higher, voluntary at Class P), the minimum each must state, how each changes and is reviewed, and what neither can do, and the formation check on the standing and authenticity of the holders of covered offices.
+> - **Constitutional owner:** when a system must publish a System Charter and when an institution must publish an Institutional Charter (required at Class L or higher, voluntary at Class P), the minimum each must state, how each changes and is reviewed, and the formation check on the standing and authenticity of the holders of covered offices.
 > - **Definition home:** [System Charter](core_05.040_band_continuity.md#system-charter), [Institutional Charter](core_05.040_band_continuity.md#institutional-charter), [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), [Chartered Party](core_05.040_band_continuity.md#chartered-party), and [Operating Party](core_05.050_band_oversight.md#operating-party) are defined in Chapter Five. This chapter applies them and does not redefine them.
-> - **Implementation owner:** [CI-8.205 §6](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter contents, review, and formation template*) holds the full field template, the review checklist, the formation procedure, and the formation check statement template. It may be stricter and may add fields. It may not narrow this chapter.
+> - **Implementation owner:** [CI-8.205 §6](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter contents, review, and formation template*) holds the full field template, the review checklist, the formation procedure, and the formation check statement template. It may be stricter and may add fields. It may not narrow this chapter. Its text binds as incorporated implementation text only within valid adoption scope ([Chapter Eighteen §4 Adoption framing and scope of authority](core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); the floor in this chapter binds as core text.
 > - **Downstream consumers:** [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Nine Part D tests the formation check statement for an Institution. [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) applies it to standing records. [Chapter Thirteen §4.3 Institutional forums](core_13.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
 >
-> Reading order: §1 when System and Institutional Charters are required, with the chart that maps the process → §2 the right to form and four narrow limits → §3 what they must state → §4 the Charter Role Map and standing-record custody → §5 the formation check on office-holder standing and authenticity → §6 when a holder fails the formation check → §7 amendment, review, and scope misalignment → §8 what they cannot do → §9 relationship to other chapters.
+> Reading order: §1 when System and Institutional Charters are required, with the chart that maps the process → §2 the right to form and four narrow limits → §3 what they must state → §4 the Charter Role Map and standing-record custody → §5 the formation check on office-holder standing and authenticity → §6 when a holder fails the formation check → §7 amendment, review, and scope misalignment.
 
 </details>
 
@@ -29,9 +29,7 @@
   - [§4](#4-the-charter-role-map-and-standing-record-custody);
   - [§5](#5-formation-check-office-holder-standing-and-authenticity);
   - [§6](#6-when-a-holder-fails-the-formation-check);
-  - [§7](#7-amendment-review-and-scope-misalignment);
-  - [§8](#8-what-system-and-institutional-charters-cannot-do);
-  - [§9](#9-relationship-to-other-chapters).
+  - [§7](#7-amendment-review-and-scope-misalignment).
 - Downstream:
   - [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) (8.000);
   - [Chapter Nine](core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) (9.000);
@@ -57,7 +55,7 @@ Three chapters work as one chain:
 - **[Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties):** says how those seats must be kept apart.
 - **[Chapter Nine](core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index):** certifies a system, and separately an institution, each of which is one binding act that uses the seats. It sends what it finds back to the System Charter or Institutional Charter.
 
-Other chapters own the definitions, the seat rules, the standing locks, and the decision rules this chapter points to. [§9 Relationship to Other Chapters](#9-relationship-to-other-chapters) says which is which. **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) holds the field template, the formation procedure, and the review checklist.
+Other chapters own the definitions, the seat rules, the standing locks, and the decision rules this chapter points to. **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) holds the field template, the formation procedure, and the review checklist.
 
 <a id="1-when-system-and-institutional-charters-are-required"></a>
 
@@ -162,6 +160,8 @@ If either of these happens, publishing stops being optional.
 - its operator asserts constitutional compliance for the Operating Party.
 
 The Operating Party must then publish the System Charter or Institutional Charter that fits it, on the schedule in [§1.5 When a System Charter or Institutional Charter is due](#15-when-a-system-charter-or-institutional-charter-is-due).
+
+**Recognition does not depend on a scope document.** A group, with or without a System Charter or Institutional Charter and whatever its class, does not stand between its members and recognition. Each member may seek a contribution record as an individual claimant, for work done inside the group or outside it, and the record concerns the member's contribution and not the group's standing ([Chapter Ten §3.7 Informal and small-scope records](core_10.000_standing_assessment.md#37-informal-and-small-scope-records)). Giving aid, goods, labor, or services that no one is required to accept is not a materially binding act, so a mutual aid circle that gives quilts to refugees needs no System Charter or Institutional Charter for its members to be recognized.
 
 <a id="15-when-a-system-charter-or-institutional-charter-is-due"></a>
 #### 1.5 When a System Charter or Institutional Charter is due
@@ -306,7 +306,7 @@ flowchart TB
 <a id="21-the-right-to-form"></a>
 #### 2.1 The right to form
 
-Anyone may form a new system, institution, or business. That right is set out in [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). This chapter adds the duty that comes next. Once what an Operating Party does is material to others in any one of the nine areas of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), it must say in public, ahead of time, what it claims authority to do ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)).
+Anyone may form a new system, institution, or business. That right is set out in [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). This chapter adds the duty that comes next. Once what an Operating Party does is material to others in any one of the nine areas of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), it must say in public, ahead of time, what it claims authority to do ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)). Adopting a System Charter or Institutional Charter must not be read to narrow that right, or any Rights Floor protection.
 
 **Who the right to form does not cover.** Apart from the three gates in [§2.2 First limit: an outstanding lock on a sentient](#22-first-limit-an-outstanding-lock-on-a-sentient), [§2.3 Second limit: a short hold on specific verified facts](#23-second-limit-a-short-hold-on-specific-verified-facts), and [§2.4 Third limit: a lock on the Operating Party itself](#24-third-limit-a-lock-on-the-operating-party-itself), **Article XI-E** (*Institutional Formation and Business Creation*) does not protect:
 
@@ -403,8 +403,10 @@ A System Charter states, in plain language that affected sentients and auditors 
 1. **Identity and version:** the name, the steward or governing body, the version, the effective date, and the change history.
 2. **Purpose:** what the Chartered Party exists to do.
 3. **In-scope activities:** the functions, services, authorities, and domains it claims.
+   - **A claim, not a grant:** The document states authority the Chartered Party already holds and gives it none. Whether that authority is legitimate, including where it rests on a Constitutional Charter, is decided under [Chapter Fourteen §1 Authorization and Legitimacy of Governing Authority](core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority).
 4. **Out-of-scope limits:** the material activities, authorities, and domains it is not authorized to exercise.
 5. **Affected communities and dependencies:** who relies on the Chartered Party, and which systems or infrastructure it depends on or gates, where material.
+   - **Not an opt-out:** Leaving a group off this list does not take it out of scope. A sentient the Chartered Party materially affects keeps every Rights Floor protection whether or not the document names it, and a list narrower than the real reliance is read against the real reliance.
 6. **Classification assumptions:** the class or stewardship tier relied on, with a [Charter Pointer](core_05.040_band_continuity.md#charter-pointer) to **CS-9.305 (*System classification machinery*) and CS-9.310** (*System classification machinery*) and **CS-14.305** (*Critical system stewardship*) where they apply.
 7. **Charter Role Map:** the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map), or a Charter Pointer to the published document that is the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
 8. **Binding stakeholder-choice Charter Pointers:**
@@ -549,7 +551,7 @@ The map can change in two ways, and each has its own route:
 <a id="46-standing-record-custody"></a>
 #### 4.6 Standing-record custody
 
-What the map must say depends on the kind of [Standing Record](core_05.035_band_accountability.md#standing-record), because the two kinds face different conflicts of interest ([Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority), *Two kinds of standing record by subject*).
+What the map must say depends on the kind of [Standing Record](core_05.035_band_accountability.md#standing-record), because the two kinds face different conflicts of interest ([Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority), *Two kinds of standing record by subject*). Chapter Ten applies the four-seat floor to the records themselves.
 
 <a id="461-operator-standing-records"></a>
 ##### 4.6.1 Operator standing records
@@ -958,10 +960,10 @@ A holder who receives an adverse finding is protected as follows:
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
 - [§7.1 Changing the document](#71-changing-the-document) says who may amend a System Charter or Institutional Charter, that the change needs notice and a way to contest it, and that the authority and date are recorded.
-- [§7.2 No quiet widening of scope](#72-no-quiet-widening-of-scope) says that going beyond the stated scope without an amendment is a failure, and that offering the document as permission for work outside it is the main one.
+- [§7.2 No quiet widening of scope](#72-no-quiet-widening-of-scope) says that going beyond the stated scope without an amendment is a failure, that offering the document as permission for work outside it is the main one, and that writing a narrower scope does not shrink what the Chartered Party is held to.
 - [§7.3 Regular review](#73-regular-review) says how often the document is reviewed, what sets off an earlier review, and what each review checks.
 - [§7.4 Adding, retiring, or merging Systems](#74-adding-retiring-or-merging-systems) says that a change to an Institution's Systems is a material amendment of its Institutional Charter.
-- [§7.5 When the document and the practice disagree](#75-when-the-document-and-the-practice-disagree) says how a material mismatch is closed, and that it also sets off a new forum review of the certification, without waiting for the next scheduled one.
+- [§7.5 When the document and the practice disagree](#75-when-the-document-and-the-practice-disagree) says how a material mismatch is closed, that it also sets off a new forum review of the certification, without waiting for the next scheduled one, and which forums hear disputes about an Institutional Charter.
 - [§7.6 Keeping old versions](#76-keeping-old-versions) says that every version is dated and kept so that acts are judged against the version in force at the time.
 
 </details>
@@ -1006,6 +1008,7 @@ A Chartered Party stays inside the scope its System Charter or Institutional Cha
 
 - **What counts as a failure:** Operating materially outside the chartered scope is a failure of the System Charter or Institutional Charter. So is widening the scope by habit, by delegation, or by reading the words differently, without an amendment.
 - **The worst version:** Pointing to the System Charter or Institutional Charter as current permission for work that lies outside it is the main failure.
+- **A narrow document is no shelter:** Writing a narrow scope does not reduce what the Chartered Party is held to. Its class, its boundary, and its duties follow what it really does and what depends on it ([System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity)), and a document that claims less is read against them.
 
 <a id="73-regular-review"></a>
 #### 7.3 Regular review
@@ -1050,73 +1053,13 @@ When a System Charter or Institutional Charter and what the Chartered Party actu
 
 - **Ways to close it:** Amend the document, fix the practice (remediation), recertify, or cut back the scope to fit the document.
 - **Ways that do not count:** Quietly widening the scope, or leaving the paper as it is.
-- **Certification review:** A material mismatch also sets off a new forum review of that System's or Institution's certification. The review does not wait for the next scheduled one. For a System, see [Chapter Nine Part B §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening). For an Institution, see [Chapter Nine Part D §14.2 Reopening triggers](core_09.020_institutional_alignment_certification.md#142-reopening-triggers).
+- **Certification review:** A material mismatch also sets off a new forum review of that System's or Institution's certification. The review does not wait for the next scheduled one. For a System, see [Chapter Nine Part B §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening). For an Institution, see [Chapter Nine Part D §14.2 Reopening triggers](core_09.020_institutional_alignment_certification.md#142-reopening-triggers). Certification reads the stated scope and compares it with the real boundaries. It does not rewrite the document, and an institutional certification cites each included System Certification Record without redoing it ([Chapter Nine Part D](core_09.020_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
+- **Where a dispute goes:** Institutional forums hear disputes about Institutional Charter scope, Institutional Charter amendment authority, a mismatch between an Institutional Charter and behavior, and operation outside chartered scope ([Chapter Thirteen §4.3 Institutional forums](core_13.000_forum.md#43-institutional-forums)).
 
 <a id="76-keeping-old-versions"></a>
 #### 7.6 Keeping old versions
 
 Every version of a System Charter or Institutional Charter is dated and kept. That way an act, a certification, or a record is judged against the version in force when it happened, not against a later one.
-
-<a id="8-what-system-and-institutional-charters-cannot-do"></a>
-### 8. What System and Institutional Charters Cannot Do
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§3](#3-what-system-and-institutional-charters-must-state); [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000).
-- Downstream: [Chapter Nine](core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) (9.000).
-- Read with: [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity); [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification).
-
-</details>
-
-<br>
-
-*In plain terms: a System Charter or Institutional Charter describes a Chartered Party's limits. It does not make the Chartered Party safe, does not choose its class, and does not give it power. Writing a narrow one does not shrink what the Chartered Party really does.*
-
-A System Charter or Institutional Charter does not:
-
-- **Establish classification:** Its text is not proof of class, and it does not understate class. Class follows real impact and dependency under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System classification machinery*).
-- **Define the boundary:** Its text does not defeat [System Boundary Integrity](core_05.040_band_continuity.md#system-boundary-integrity). The boundary is set by [Material Impact](core_05.050_band_oversight.md#material-impact) and [Dependency](core_05.040_band_continuity.md#dependency), and a document that claims less is read against the boundary.
-- **Substitute for certification:** Where [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is required, a System Charter, an Institutional Charter, a vendor attestation, or a self-description is evidence for it, not a replacement.
-- **Carry the decision rules:** Neither holds the binding stakeholder-choice decision sequence, weighting model, or rights-collision record. Each points to the published rules that do ([§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state), item 10).
-- **Narrow a creation right or a Rights Floor:** Neither may be used to shrink [System Creation](core_05.055_band_participation.md#system-creation), [Business Creation](core_05.055_band_participation.md#business-creation), or any Rights Floor, or to exclude affected sentients from the scope it governs.
-- **Grant authority:** Each states the scope of authority the Chartered Party already holds. Whether that authority is legitimate is decided under [Chapter Fourteen §1 Authorization and Legitimacy of Governing Authority](core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority).
-
-<a id="9-relationship-to-other-chapters"></a>
-### 9. Relationship to Other Chapters
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: [§1](#1-when-system-and-institutional-charters-are-required) through [§8](#8-what-system-and-institutional-charters-cannot-do).
-- Downstream:
-  - [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) (8.000);
-  - [Chapter Nine](core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) (9.000);
-  - [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
-  - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
-  - [Chapter Fourteen](core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000);
-  - [Chapter Eighteen](core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (18.000).
-- Read with: [Preamble](core_00.000_preamble.md#preamble--foundational-requirements) owner register, sections 4 through 9.
-
-</details>
-
-<br>
-
-*In plain terms: later chapters read the System Charter and the Institutional Charter. They do not rewrite them, and they do not need to repeat them.*
-
-Each later chapter relates to the System Charter and the Institutional Charter as follows:
-
-- **Chapter Six:** [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) is the right to form. This chapter is the duty to state scope once what the Chartered Party does is material to others under [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality). Adopting a System Charter or Institutional Charter must not be read to narrow the right.
-- **Chapter Eight:** Chapter Eight takes the Charter Role Map as the place where seats are published ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)).
-- **Chapter Nine:** An institutional alignment certification consumes the Institutional Charter in the same way, tests it against the Institution's observed operation, and cites each included System Certification Record without redoing it ([Chapter Nine Part D](core_09.020_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)). A system alignment certification consumes the System Charter's stated scope, compares it with the system's real boundaries, and treats a System Charter amendment, a mismatch between the System Charter and behavior, operation outside chartered scope, or an overdue review as grounds to reopen. It does not redefine the System Charter. An institutional alignment certification also tests the formation check statement against observed operation ([Chapter Nine Part D §12.2 Institutional evaluation, always](core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7).
-- **Chapter Ten:** Standing-record custody is carried by the Charter Role Map ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)); Chapter Ten applies the four-seat floor to the records themselves.
-  - **Recognition of contribution does not depend on a scope document:** A group, with or without a System Charter or Institutional Charter and whatever its class, does not stand between its members and recognition.
-    - Each member may seek a contribution record as an individual claimant, for work done inside the group or outside it, and the record concerns the member's contribution and not the group's standing ([Chapter Ten §3.7 Informal and small-scope records](core_10.000_standing_assessment.md#37-informal-and-small-scope-records)).
-    - Giving aid, goods, labor, or services that no one is required to accept is not a materially binding act. A mutual aid circle that gives quilts to refugees needs no System Charter or Institutional Charter for its members to be recognized.
-- **Chapter Eleven:** Standing locks, competency bars, and clearances decide the standing check within the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity). This chapter creates none of them.
-- **Chapter Thirteen:** Institutional forums hear disputes about Institutional Charter scope, Institutional Charter amendment authority, a mismatch between an Institutional Charter and behavior, and operation outside chartered scope.
-- **Chapter Fourteen:** Authorization and legitimacy of governing authority, including by Constitutional Charter, and the binding stakeholder-choice decision rules a System Charter or Institutional Charter points to, stay in Chapter Fourteen.
-- **Chapter Eighteen:** System Charter and Institutional Charter text and its implementation template bind as incorporated implementation text only within valid adoption scope. The floor in this chapter binds as core text.
 
 ---
 
