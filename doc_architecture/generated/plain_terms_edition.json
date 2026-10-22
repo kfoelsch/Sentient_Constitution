@@ -3,7 +3,7 @@
   "effective_date": "2026-10-21",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 1090,
+  "heading_count": 1096,
   "glossed_count": 716,
   "files": [
     {
@@ -702,7 +702,7 @@
     {
       "file": "core_07.000_charters.md",
       "title": "CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS",
-      "heading_count": 57,
+      "heading_count": 63,
       "glossed_count": 9,
       "sections": [
         {"file":"core_07.000_charters.md","level":1,"title":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","anchor":"chapter-seven-system-and-institutional-charters","line":2,"gloss":null,"gloss_line":null},
@@ -759,9 +759,15 @@
         {"file":"core_07.000_charters.md","level":4,"title":"6.6 Response and resolution windows","anchor":"66-response-and-resolution-windows","line":919,"gloss":null,"gloss_line":null},
         {"file":"core_07.000_charters.md","level":4,"title":"6.7 If a failure is not resolved","anchor":"67-if-a-failure-is-not-resolved","line":929,"gloss":null,"gloss_line":null},
         {"file":"core_07.000_charters.md","level":4,"title":"6.8 Fairness to the holder","anchor":"68-fairness-to-the-holder","line":947,"gloss":null,"gloss_line":null},
-        {"file":"core_07.000_charters.md","level":3,"title":"7. Amendment, Review, and Scope Misalignment","anchor":"7-amendment-review-and-scope-misalignment","line":955,"gloss":"scope can change, but not quietly. A change to what the Chartered Party may do is made by the sentients its System Charter or Institutional Charter names as able to make it, with notice and a way to contest it. The document is re-checked on a schedule and sooner when something goes wrong, and when the paper and the practice disagree, one of them is fixed in the open.","gloss_line":977},
-        {"file":"core_07.000_charters.md","level":3,"title":"8. What System and Institutional Charters Cannot Do","anchor":"8-what-system-and-institutional-charters-cannot-do","line":989,"gloss":"a System Charter or Institutional Charter describes a Chartered Party's limits. It does not make the Chartered Party safe, does not choose its class, and does not give it power. Writing a narrow one does not shrink what the Chartered Party really does.","gloss_line":1002},
-        {"file":"core_07.000_charters.md","level":3,"title":"9. Relationship to Other Chapters","anchor":"9-relationship-to-other-chapters","line":1014,"gloss":"later chapters read the System Charter and the Institutional Charter. They do not rewrite them, and they do not need to repeat them.","gloss_line":1033}
+        {"file":"core_07.000_charters.md","level":3,"title":"7. Amendment, Review, and Scope Misalignment","anchor":"7-amendment-review-and-scope-misalignment","line":955,"gloss":"scope can change, but not quietly. A change to what the Chartered Party may do is made by the sentients its System Charter or Institutional Charter names as able to make it, with notice and a way to contest it. The document is re-checked on a schedule and sooner when something goes wrong, and when the paper and the practice disagree, one of them is fixed in the open.","gloss_line":989},
+        {"file":"core_07.000_charters.md","level":4,"title":"7.1 Changing the document","anchor":"71-changing-the-document","line":994,"gloss":null,"gloss_line":null},
+        {"file":"core_07.000_charters.md","level":4,"title":"7.2 No quiet widening of scope","anchor":"72-no-quiet-widening-of-scope","line":1003,"gloss":null,"gloss_line":null},
+        {"file":"core_07.000_charters.md","level":4,"title":"7.3 Regular review","anchor":"73-regular-review","line":1011,"gloss":null,"gloss_line":null},
+        {"file":"core_07.000_charters.md","level":4,"title":"7.4 Adding, retiring, or merging Systems","anchor":"74-adding-retiring-or-merging-systems","line":1038,"gloss":null,"gloss_line":null},
+        {"file":"core_07.000_charters.md","level":4,"title":"7.5 When the document and the practice disagree","anchor":"75-when-the-document-and-the-practice-disagree","line":1047,"gloss":null,"gloss_line":null},
+        {"file":"core_07.000_charters.md","level":4,"title":"7.6 Keeping old versions","anchor":"76-keeping-old-versions","line":1056,"gloss":null,"gloss_line":null},
+        {"file":"core_07.000_charters.md","level":3,"title":"8. What System and Institutional Charters Cannot Do","anchor":"8-what-system-and-institutional-charters-cannot-do","line":1061,"gloss":"a System Charter or Institutional Charter describes a Chartered Party's limits. It does not make the Chartered Party safe, does not choose its class, and does not give it power. Writing a narrow one does not shrink what the Chartered Party really does.","gloss_line":1074},
+        {"file":"core_07.000_charters.md","level":3,"title":"9. Relationship to Other Chapters","anchor":"9-relationship-to-other-chapters","line":1086,"gloss":"later chapters read the System Charter and the Institutional Charter. They do not rewrite them, and they do not need to repeat them.","gloss_line":1105}
       ]
     },
     {

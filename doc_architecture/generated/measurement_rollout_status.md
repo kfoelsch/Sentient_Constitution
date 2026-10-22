@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-21T06:54:54+00:00
+Generated: 2026-10-22T02:06:07+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **274/274** terms pass tier audit.
@@ -235,7 +235,7 @@ Approved progress: **274/274** terms pass tier audit.
 | Due Process | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Duty to Resist | approved | primary_only | independent | `core_05.035_band_accountability.md` | yes | pass |
 | Event-Contract Market | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
-| Feasibility | approved | primary_only | independent | `core_05.035_band_accountability.md` | yes | pass |
+| Feasibility | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Force Majeure | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Forum Case Record | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Forum Family, Constitutional | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |

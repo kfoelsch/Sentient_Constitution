@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-22T00:19:26+00:00",
+  "generated_at": "2026-10-22T02:11:53+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 526,
@@ -638,9 +638,9 @@
       ]
     },
     "core_07.000_charters.md": {
-      "total_lines": 1053,
+      "total_lines": 1125,
       "sections": [
-        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":1053,"anchor":"#chapter-seven-system-and-institutional-charters"},
+        {"header":"CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS","level":1,"line_start":2,"line_end":1125,"anchor":"#chapter-seven-system-and-institutional-charters"},
         {"header":"1. When System and Institutional Charters Are Required","level":3,"line_start":64,"line_end":267,"anchor":"#1-when-system-and-institutional-charters-are-required"},
         {"header":"1.1 Who must publish","level":4,"line_start":113,"line_end":129,"anchor":"#11-who-must-publish"},
         {"header":"1.2 Which classes are covered","level":4,"line_start":130,"line_end":138,"anchor":"#12-which-classes-are-covered"},
@@ -694,9 +694,15 @@
         {"header":"6.6 Response and resolution windows","level":4,"line_start":919,"line_end":928,"anchor":"#66-response-and-resolution-windows"},
         {"header":"6.7 If a failure is not resolved","level":4,"line_start":929,"line_end":946,"anchor":"#67-if-a-failure-is-not-resolved"},
         {"header":"6.8 Fairness to the holder","level":4,"line_start":947,"line_end":954,"anchor":"#68-fairness-to-the-holder"},
-        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":955,"line_end":988,"anchor":"#7-amendment-review-and-scope-misalignment"},
-        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":989,"line_end":1013,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
-        {"header":"9. Relationship to Other Chapters","level":3,"line_start":1014,"line_end":1053,"anchor":"#9-relationship-to-other-chapters"}
+        {"header":"7. Amendment, Review, and Scope Misalignment","level":3,"line_start":955,"line_end":1060,"anchor":"#7-amendment-review-and-scope-misalignment"},
+        {"header":"7.1 Changing the document","level":4,"line_start":994,"line_end":1002,"anchor":"#71-changing-the-document"},
+        {"header":"7.2 No quiet widening of scope","level":4,"line_start":1003,"line_end":1010,"anchor":"#72-no-quiet-widening-of-scope"},
+        {"header":"7.3 Regular review","level":4,"line_start":1011,"line_end":1037,"anchor":"#73-regular-review"},
+        {"header":"7.4 Adding, retiring, or merging Systems","level":4,"line_start":1038,"line_end":1046,"anchor":"#74-adding-retiring-or-merging-systems"},
+        {"header":"7.5 When the document and the practice disagree","level":4,"line_start":1047,"line_end":1055,"anchor":"#75-when-the-document-and-the-practice-disagree"},
+        {"header":"7.6 Keeping old versions","level":4,"line_start":1056,"line_end":1060,"anchor":"#76-keeping-old-versions"},
+        {"header":"8. What System and Institutional Charters Cannot Do","level":3,"line_start":1061,"line_end":1085,"anchor":"#8-what-system-and-institutional-charters-cannot-do"},
+        {"header":"9. Relationship to Other Chapters","level":3,"line_start":1086,"line_end":1125,"anchor":"#9-relationship-to-other-chapters"}
       ]
     },
     "core_08.000_functional_independence_segregation_of_duties.md": {

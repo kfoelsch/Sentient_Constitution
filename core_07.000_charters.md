@@ -719,7 +719,7 @@ A covered office is **authentic** when its holder holds it in their own right an
 - **Conduct:** what the holder has verifiably done in the same function, including a verified record of concealment, of retaliation against reporters, or of defeating the same kind of check, and including what the holder has verifiably said under [§5.5 What a holder has said](#55-what-a-holder-has-said).
   - A holder with no record does not have a bad record, and a first-time founder cannot fail the authenticity check for lack of history.
   - A holder with no record has no history to look at, so the formation check looks at what they commit to and do now. They agree in writing to the limits the Chartered Party has set on what it will not do. They accept checking by an independent party. And when they disagree with a finding about them, they use the route for challenging it.
-- **Protected voice:** the holder has a working route to refuse a wrongful instruction ([Chapter One §17.5 Duty to Resist](core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) and to report a problem ([Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing)), and the Chartered Party may not penalize the holder for using either route in good faith.
+- **Protected voice:** the holder has a working route to refuse an unlawful or unconstitutional instruction ([Chapter One §17.5 Duty to Resist](core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) and to make a protected report of a reasonable suspicion of constitutional non-compliance, material harm, a safety or truth failure, corruption, capture, abuse, retaliation, or obstruction of required review ([Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing)). The Chartered Party may not penalize the holder for using either route in good faith.
 
 <a id="54-what-the-formation-check-may-use-as-evidence"></a>
 #### 5.4 What the formation check may use as evidence
@@ -758,7 +758,7 @@ One kind of statement is conduct and counts against the holder: a verified state
 For staff who hold no covered office, the Chartered Party shows once, in the statement below, that:
 
 - Its appointment, pay, promotion, and removal rules do not reward working against the Chartered Party's stated purpose;
-- A protected reporting route exists and no staff member who used it, or who refused a wrongful instruction, has been penalized; and
+- A protected reporting route exists and no staff member who used it, or who refused an unlawful or unconstitutional instruction, has been penalized; and
 - The rights in [Article III-C](core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) are intact.
 
 This checks the Chartered Party's structure. Individual staff are not screened.
@@ -949,10 +949,22 @@ If a failure is still not resolved when the resolution window ends:
 A holder who receives an adverse finding is protected as follows:
 
 - A holder sees any adverse finding and the evidence for it, may answer it, and may contest it through the contest seat before it takes effect, except where urgent protection is needed. A holder under a lock or an Interim Hold contests it by the route that lock or hold states.
-- Removing, moving, or refusing a holder who made a protected report or refused a wrongful instruction is presumed retaliatory, and a forum may [Stay](core_05.035_band_accountability.md#stay) the action while the review is pending. The formation check may not be used to remove dissenters, reporters, or worker organizers.
+- Removing, moving, or refusing a holder who made a protected report or refused an unlawful or unconstitutional instruction is presumed retaliatory, and a forum may [Stay](core_05.035_band_accountability.md#stay) the action while the review is pending. The formation check may not be used to remove dissenters, reporters, or worker organizers.
 
 <a id="7-amendment-review-and-scope-misalignment"></a>
 ### 7. Amendment, Review, and Scope Misalignment
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
+
+- [§7.1 Changing the document](#71-changing-the-document) says who may amend a System Charter or Institutional Charter, that the change needs notice and a way to contest it, and that the authority and date are recorded.
+- [§7.2 No quiet widening of scope](#72-no-quiet-widening-of-scope) says that going beyond the stated scope without an amendment is a failure, and that offering the document as permission for work outside it is the main one.
+- [§7.3 Regular review](#73-regular-review) says how often the document is reviewed, what sets off an earlier review, and what each review checks.
+- [§7.4 Adding, retiring, or merging Systems](#74-adding-retiring-or-merging-systems) says that a change to an Institution's Systems is a material amendment of its Institutional Charter.
+- [§7.5 When the document and the practice disagree](#75-when-the-document-and-the-practice-disagree) says how a material mismatch is closed, and that it also sets off a new forum review of the certification, without waiting for the next scheduled one.
+- [§7.6 Keeping old versions](#76-keeping-old-versions) says that every version is dated and kept so that acts are judged against the version in force at the time.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -976,14 +988,74 @@ A holder who receives an adverse finding is protected as follows:
 
 *In plain terms: scope can change, but not quietly. A change to what the Chartered Party may do is made by the sentients its System Charter or Institutional Charter names as able to make it, with notice and a way to contest it. The document is re-checked on a schedule and sooner when something goes wrong, and when the paper and the practice disagree, one of them is fixed in the open.*
 
-A System Charter or Institutional Charter changes, and is kept true to practice, in these ways:
+A System Charter or Institutional Charter has to stay true over time. That takes six things, each set out below.
 
-- **Amendment:** A material amendment is made only by the amendment authority the System Charter or Institutional Charter names, on notice, with a contest path, and with the authority and date recorded. Material amendment is not delegable below that authority.
-- **No silent expansion:** Operating materially outside chartered scope, or widening scope by practice, delegation, or reinterpretation without amendment, is a failure of the System Charter or Institutional Charter. Offering that System Charter or Institutional Charter as current authorization for operation outside it is the primary failure.
-- **Periodic review:** The Chartered Party reviews its System Charter or Institutional Charter on the cadence its class sets in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#review-cadence) (*Review cadence*), and sooner after a material incident, dependency growth, class change, credible challenge, or observed operation outside stated scope. The review tests whether purpose and limits still match observed operation and [System Boundaries](core_05.040_band_continuity.md#system-boundaries), whether classification assumptions are honest, whether the amendment and contest paths work in practice, whether every Charter Pointer still resolves, and whether the Charter Role Map still resolves to live offices and current holders. A review of an Institutional Charter also tests whether the portfolio rationale still explains every System the Institution runs and whether every included System Charter is current. Where [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) applies, the review also tests whether the formation check statement still matches the holders of the covered offices and the controls, rewards, and protected routes it describes.
-- **Portfolio change:** Adding, retiring, or merging a System is a material amendment of the Institutional Charter. The System Charter of a new System is published before it goes live ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)), and the portfolio rationale is amended in the same step. An Institution that grows from one System to more than one publishes its Institutional Charter at that point.
-- **Mismatch:** A material mismatch between the System Charter or Institutional Charter and behavior is corrected by amendment, remediation, recertification, or scope contraction. It is not corrected by quiet expansion or by leaving the paper unchanged. It reopens the certification it bears on ([Chapter Nine Part B §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening) for a System, and [Chapter Nine Part D §14.2 Reopening triggers](core_09.020_institutional_alignment_certification.md#142-reopening-triggers) for an Institution).
-- **Versions:** Each version is dated and kept, so that an act, a certification, or a record can be judged against the version in force when it happened.
+<a id="71-changing-the-document"></a>
+#### 7.1 Changing the document
+
+A material change is an amendment, and an amendment follows set rules:
+
+- **Who decides:** Only the amendment authority named in the System Charter or Institutional Charter can make a material amendment. That authority cannot pass the job to anyone below it.
+- **Notice and a way to contest:** The change is announced beforehand, and there is a way to contest it.
+- **The record:** The deciding authority and the date are written down.
+
+<a id="72-no-quiet-widening-of-scope"></a>
+#### 7.2 No quiet widening of scope
+
+A Chartered Party stays inside the scope its System Charter or Institutional Charter states. To go beyond it, the document must be amended first:
+
+- **What counts as a failure:** Operating materially outside the chartered scope is a failure of the System Charter or Institutional Charter. So is widening the scope by habit, by delegation, or by reading the words differently, without an amendment.
+- **The worst version:** Pointing to the System Charter or Institutional Charter as current permission for work that lies outside it is the main failure.
+
+<a id="73-regular-review"></a>
+#### 7.3 Regular review
+
+The Chartered Party reviews its System Charter or Institutional Charter on a schedule, and sooner when something goes wrong:
+
+- **How often:** On the cadence its class sets in [Chapter Thirteen §6 Timely resolution, materiality tiers, and anti-delay discipline](core_13.000_forum.md#review-cadence) (*Review cadence*).
+- **Sooner when:**
+  - a material incident happens, meaning an event, or a connected series of events, whose harm (actual or likely) is big enough to change which duties apply ([Materiality](core_05.050_band_oversight.md#materiality));
+  - dependencies grow;
+  - the class changes;
+  - there is a credible challenge; or
+  - the Chartered Party is seen operating outside its stated scope.
+- **What every review checks:**
+  - whether the stated purpose and limits still match what the Chartered Party actually does, and its [System Boundaries](core_05.040_band_continuity.md#system-boundaries);
+  - whether the classification assumptions are honest;
+  - whether the amendment and contest paths work in practice;
+  - whether every Charter Pointer still leads somewhere; and
+  - whether the Charter Role Map still leads to live offices and their current holders.
+- **Extra checks for an Institutional Charter:**
+  - whether the portfolio rationale still explains every System the Institution runs; and
+  - whether every included System Charter is current.
+- **Extra check where the formation check applies:** Where [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) applies, the review also confirms that the published formation check statement is still true. It checks that:
+  - each covered office is still held by the sentient the statement names;
+  - the sentients who can instruct, fund, replace, or reward each holder are still the ones the statement describes;
+  - each holder's pay and other rewards still match what the statement describes; and
+  - each holder still has a working way to refuse an unlawful or unconstitutional instruction ([Chapter One §17.5 Duty to Resist](core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) and to make a protected report of a reasonable suspicion of constitutional non-compliance, material harm, a safety or truth failure, corruption, capture, abuse, retaliation, or obstruction of required review ([Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing)).
+
+<a id="74-adding-retiring-or-merging-systems"></a>
+#### 7.4 Adding, retiring, or merging Systems
+
+Changing which Systems an Institution runs is a major step, and it is handled as one:
+
+- **It is an amendment:** Adding, retiring, or merging a System is a material amendment of the Institutional Charter. The portfolio rationale is changed in the same step.
+- **A new System:** Its System Charter is published before it goes live ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)).
+- **Growing past one System:** An Institution that goes from one System to more than one publishes its Institutional Charter at that point.
+
+<a id="75-when-the-document-and-the-practice-disagree"></a>
+#### 7.5 When the document and the practice disagree
+
+When a System Charter or Institutional Charter and what the Chartered Party actually does differ in a material way, the gap is closed in the open:
+
+- **Ways to close it:** Amend the document, fix the practice (remediation), recertify, or cut back the scope to fit the document.
+- **Ways that do not count:** Quietly widening the scope, or leaving the paper as it is.
+- **Certification review:** A material mismatch also sets off a new forum review of that System's or Institution's certification. The review does not wait for the next scheduled one. For a System, see [Chapter Nine Part B §9 Recertification and Reopening](core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening). For an Institution, see [Chapter Nine Part D §14.2 Reopening triggers](core_09.020_institutional_alignment_certification.md#142-reopening-triggers).
+
+<a id="76-keeping-old-versions"></a>
+#### 7.6 Keeping old versions
+
+Every version of a System Charter or Institutional Charter is dated and kept. That way an act, a certification, or a record is judged against the version in force when it happened, not against a later one.
 
 <a id="8-what-system-and-institutional-charters-cannot-do"></a>
 ### 8. What System and Institutional Charters Cannot Do
