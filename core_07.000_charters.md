@@ -10,7 +10,7 @@
 > - **Implementation owner:** [CI-8.205 §6](corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-6-system-and-institutional-charter-contents-review-and-formation-template) (*System and Institutional Charter contents, review, and formation template*) holds the full field template, the review checklist, the formation procedure, and the formation check statement template. It may be stricter and may add fields. It may not narrow this chapter.
 > - **Downstream consumers:** [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) requires the Charter Role Map. Chapter Nine reads the System Charter for scope and boundary findings, and Chapter Nine Part D tests the formation check statement for an Institution. [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) applies it to standing records. [Chapter Thirteen §4.3 Institutional forums](core_13.000_forum.md#43-institutional-forums) hears disputes about the Institutional Charter.
 >
-> Reading order: §1 when System and Institutional Charters are required, with the chart that maps the process → §2 the right to form and three narrow limits → §3 what they must state → §4 the Charter Role Map and standing-record custody → §5 the formation check on office-holder standing and authenticity → §6 when a holder fails the formation check → §7 amendment, review, and scope misalignment → §8 what they cannot do → §9 relationship to other chapters.
+> Reading order: §1 when System and Institutional Charters are required, with the chart that maps the process → §2 the right to form and four narrow limits → §3 what they must state → §4 the Charter Role Map and standing-record custody → §5 the formation check on office-holder standing and authenticity → §6 when a holder fails the formation check → §7 amendment, review, and scope misalignment → §8 what they cannot do → §9 relationship to other chapters.
 
 </details>
 
@@ -24,7 +24,7 @@
   - [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 - Subsections:
   - [§1](#1-when-system-and-institutional-charters-are-required);
-  - [§2](#2-the-right-to-form-and-three-narrow-limits);
+  - [§2](#2-the-right-to-form-and-four-narrow-limits);
   - [§3](#3-what-system-and-institutional-charters-must-state);
   - [§4](#4-the-charter-role-map-and-standing-record-custody);
   - [§5](#5-formation-check-office-holder-standing-and-authenticity);
@@ -67,7 +67,7 @@ Other chapters own the definitions, the seat rules, the standing locks, and the 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§2](#2-the-right-to-form-and-three-narrow-limits);
+  - [§2](#2-the-right-to-form-and-four-narrow-limits);
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Proportionality](core_05.035_band_accountability.md#proportionality); chapter opening owner claim;
   - [Chapter One §18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18);
@@ -264,16 +264,17 @@ flowchart TB
     style E fill:none,stroke:#16a34a,color:#ffffff
 ```
 
-<a id="2-the-right-to-form-and-three-narrow-limits"></a>
-### 2. The Right to Form, and Three Narrow Limits
+<a id="2-the-right-to-form-and-four-narrow-limits"></a>
+### 2. The Right to Form, and Four Narrow Limits
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
 - [§2.1 The right to form](#21-the-right-to-form) states the right and who it does not cover.
-- [§2.2 First limit: an outstanding lock](#22-first-limit-an-outstanding-lock) says how a lock keeps one named sentient out of one controlling office, and when it reaches a Chartered Party.
-- [§2.3 Second limit: a short hold on probable cause](#23-second-limit-a-short-hold-on-probable-cause) says how a short hold can keep one named sentient out of one controlling office.
-- [§2.4 Third limit: a practice licence or clearance](#24-third-limit-a-practice-licence-or-clearance) says when a named high-risk act needs a licence or clearance. It is not a gate on forming.
+- [§2.2 First limit: an outstanding lock on a sentient](#22-first-limit-an-outstanding-lock-on-a-sentient) says how a lock keeps one named sentient out of one controlling office.
+- [§2.3 Second limit: a short hold on specific verified facts](#23-second-limit-a-short-hold-on-specific-verified-facts) says how a short hold can keep one named sentient out of one controlling office.
+- [§2.4 Third limit: a lock on the Operating Party itself](#24-third-limit-a-lock-on-the-operating-party-itself) says how a lock on an Operating Party bars it and its successors, and that a dissolved Chartered Party may not return.
+- [§2.5 Fourth limit: a practice licence or clearance](#25-fourth-limit-a-practice-licence-or-clearance) says when a named high-risk act needs a licence or clearance. It is not a gate on forming.
 
 </details>
 
@@ -292,48 +293,56 @@ flowchart TB
 
 <br>
 
-*In plain terms: you do not need anyone's permission to form a system, institution, or business. Three narrow limits can apply: two can keep one sentient out of one controlling office, and one can require a licence or clearance before a named high-risk act. The first of these can also apply to a Chartered Party that is itself under a lock. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming or operating, and this chapter adds none.*
+*In plain terms: you do not need anyone's permission to form a system, institution, or business. Four narrow limits can apply. Three are gates: an unresolved lock can keep one sentient out of one controlling office, a short hold on specific verified facts can do the same, and a lock on an Operating Party itself can bar that Operating Party. The fourth can require a licence or clearance before a named high-risk act. A Chartered Party that a forum has dissolved is barred from coming back, and the bar is permanent when the dissolution rested on widespread anti-constitutional conduct, or on serious harm that can't be undone and was never put right. None stops a new Operating Party from forming or operating, and this chapter adds none.*
 
-**Article XI-E** (*Institutional Formation and Business Creation*) allows three narrow limits:
+**Article XI-E** (*Institutional Formation and Business Creation*) allows four narrow limits:
 
-- **The first two are the only gates** on forming an Operating Party or holding authority in it. Each attaches to a named subject:
-  - **An outstanding lock** ([§2.2 First limit: an outstanding lock](#22-first-limit-an-outstanding-lock)) attaches to a named sentient in one office that controls the Chartered Party. It also attaches to a Chartered Party that is itself under a lock, including one that a forum has dissolved.
-  - **A probable-cause hold** ([§2.3 Second limit: a short hold on probable cause](#23-second-limit-a-short-hold-on-probable-cause)) attaches only to one named sentient in one office that controls the Chartered Party.
-- **The third is not a gate:** It is a practice licence or clearance ([§2.4 Third limit: a practice licence or clearance](#24-third-limit-a-practice-licence-or-clearance)).
+- **The first three are the only gates** on forming an Operating Party or holding authority in it. Each attaches to a named subject:
+  - **An outstanding lock** ([§2.2 First limit: an outstanding lock on a sentient](#22-first-limit-an-outstanding-lock-on-a-sentient)) attaches to a named sentient in one office that controls the Chartered Party.
+  - **An Interim Hold** ([§2.3 Second limit: a short hold on specific verified facts](#23-second-limit-a-short-hold-on-specific-verified-facts)) attaches only to one named sentient in one office that controls the Chartered Party.
+  - **A lock on the Operating Party itself** ([§2.4 Third limit: a lock on the Operating Party itself](#24-third-limit-a-lock-on-the-operating-party-itself)) attaches to a Chartered Party that is itself under a lock, including one that a forum has dissolved.
+- **The fourth is not a gate:** It is a practice licence or clearance ([§2.5 Fourth limit: a practice licence or clearance](#25-fourth-limit-a-practice-licence-or-clearance)).
 
 <a id="21-the-right-to-form"></a>
 #### 2.1 The right to form
 
 Anyone may form a new system, institution, or business. That right is set out in [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). This chapter adds the duty that comes next. Once what an Operating Party does is material to others in any one of the nine areas of [Domain-Specific Materiality](core_05.050_band_oversight.md#domain-specific-materiality), it must say in public, ahead of time, what it claims authority to do ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)).
 
-**Who the right to form does not cover.** Apart from the two gates in [§2.2 First limit: an outstanding lock](#22-first-limit-an-outstanding-lock) and [§2.3 Second limit: a short hold on probable cause](#23-second-limit-a-short-hold-on-probable-cause), **Article XI-E** (*Institutional Formation and Business Creation*) does not protect:
+**Who the right to form does not cover.** Apart from the three gates in [§2.2 First limit: an outstanding lock on a sentient](#22-first-limit-an-outstanding-lock-on-a-sentient), [§2.3 Second limit: a short hold on specific verified facts](#23-second-limit-a-short-hold-on-specific-verified-facts), and [§2.4 Third limit: a lock on the Operating Party itself](#24-third-limit-a-lock-on-the-operating-party-itself), **Article XI-E** (*Institutional Formation and Business Creation*) does not protect:
 
 - an Operating Party designed to break a Constitutional Constraint, to undermine Safety or Truth, or to concentrate power in ways [Chapter One §11 Market Structure](core_01.005_values_principles.md#11-market-structure) rules out; or
 - an Operating Party formed or run by a founder who is not authentically aligned with its stated purpose, as shown by verified conduct, control, and rewards, or who means to mislead others about its purpose, control, or interests, or to harm others.
 
-Forums decide these cases under that Article, and the only consequences are the two gates in it: the outstanding-lock gate and the Interim Hold. A failed formation check is one piece of evidence the forum weighs, which means the formation check alone does not decide the case.
+Forums decide these cases under that Article, and the only consequences are the three gates in it: the outstanding-lock gate, the Interim Hold, and a lock on the Operating Party itself. A failed formation check is one piece of evidence the forum weighs, which means the formation check alone does not decide the case.
 
-<a id="22-first-limit-an-outstanding-lock"></a>
-#### 2.2 First limit: an outstanding lock
+<a id="22-first-limit-an-outstanding-lock-on-a-sentient"></a>
+#### 2.2 First limit: an outstanding lock on a sentient
 
 A [standing lock](core_11.000_standing_integration.md#42-prevention--general-standing-locks) or [special lock](core_11.000_standing_integration.md#55-special-locks), set after a verified violation and not yet lifted, bars one named sentient from authority over this kind of institution or business.
 
 - What is barred: taking or exercising governing, controlling, or owning authority in the Operating Party.
 - How far it reaches: only as far as the lock does. It ends when the lock is lifted or narrowed.
-- A lock on the Chartered Party itself: a lock can also sit on the Chartered Party, as the [Anti-Constitutional Trust Lock](core_11.000_standing_integration.md#55-special-locks) does where the final designation names an institution, successor vehicle, or controlled entity. The gate then bars what the lock's named pathway names, in the Chartered Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
-- A dissolved Chartered Party: a final dissolution order under **CI-11.210 §4** (*Dissolution*) sets a [Dissolution Reformation Lock](core_11.000_standing_integration.md#55-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Eleven §8 Restoration and reassessment](core_11.000_standing_integration.md#8-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
+- A lock on an Operating Party itself: see [§2.4 Third limit: a lock on the Operating Party itself](#24-third-limit-a-lock-on-the-operating-party-itself).
 
-<a id="23-second-limit-a-short-hold-on-probable-cause"></a>
-#### 2.3 Second limit: a short hold on probable cause
+<a id="23-second-limit-a-short-hold-on-specific-verified-facts"></a>
+#### 2.3 Second limit: a short hold on specific verified facts
 
 This limit applies when a forum with jurisdiction has ordered an [Interim Hold](core_05.035_band_accountability.md#interim-hold) on specific verified facts that make it more likely than not that the holder is misaligned with the Chartered Party's stated purpose. Only that forum can order it ([Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)). The Chartered Party can't decide on its own to bar someone from an office, because that would make it the judge of its own member. The full ground is the one in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway); this short form does not replace it.
 
-Neither limit stops a new Operating Party from forming, publishing its System Charter or Institutional Charter, or getting to work. The only party they stop is one that is itself under a lock, such as a dissolved Chartered Party trying to come back. Both limits are applied at the formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)).
+<a id="24-third-limit-a-lock-on-the-operating-party-itself"></a>
+#### 2.4 Third limit: a lock on the Operating Party itself
 
-<a id="24-third-limit-a-practice-licence-or-clearance"></a>
-#### 2.4 Third limit: a practice licence or clearance
+A lock can sit on an Operating Party and not only on a sentient. The gate then bars what the lock's named pathway names, in that Operating Party and in its successors, controlled entities, and nominee- or shell-held vehicles. It does not bar any other Operating Party.
 
-The third limit works on a named act, not on forming an Operating Party:
+- A lock set by a final designation: the [Anti-Constitutional Trust Lock](core_11.000_standing_integration.md#55-special-locks) does this where the final designation names an institution, successor vehicle, or controlled entity. The gate then bars what the lock's named pathway names, in the Chartered Party and in its successors, controlled entities, and nominee- or shell-held vehicles.
+- A dissolved Chartered Party: a final dissolution order under **CI-11.210 §4** (*Dissolution*) sets a [Dissolution Reformation Lock](core_11.000_standing_integration.md#55-special-locks). The dissolved Chartered Party, its successors, controlled entities, nominee- or shell-held vehicles, and any Operating Party that is one operation with them may not be re-formed, revived, or run under any name or form while it stands. Where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([Chapter Eleven §8 Restoration and reassessment](core_11.000_standing_integration.md#8-restoration-and-reassessment)), the lock is permanent: time, a resolved cause, or a change of holders does not lift it, and it ends only if the dissolution order is set aside on review or material new verified facts show that its finding was wrong. Otherwise it ends on an independent finding that the cause is resolved, the remedy is delivered, and a return is safer than continued exclusion. It bars no sentient from forming a different Operating Party.
+
+None of the three gates stops a new Operating Party from forming, publishing its System Charter or Institutional Charter, or getting to work. The only party they stop is one that is itself under a lock, such as a dissolved Chartered Party trying to come back. The three gates are applied at the formation check ([§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity)).
+
+<a id="25-fourth-limit-a-practice-licence-or-clearance"></a>
+#### 2.5 Fourth limit: a practice licence or clearance
+
+The fourth limit works on a named act, not on forming an Operating Party:
 
 - **Not a gate on an Operating Party:** the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity) does not apply it.
 - **What it is:** a [Competency Clearance](core_05.035_band_accountability.md#competency-clearance) that **Article XI-E** (*Institutional Formation and Business Creation*) lets an adopter require before a named act is performed for others, on a technical forum's published risk finding.
@@ -427,7 +436,7 @@ This subsection says what a System Charter or Institutional Charter may claim wh
 - **The limit:** If an act requires a practice licence or practice clearance, a System Charter or Institutional Charter can't list it as something the Chartered Party does, and the Chartered Party can't do it, unless every sentient who performs it either holds the licence or clearance or works as a learner under a supervisor who does.
 - **Until then:** The System Charter or Institutional Charter lists the act under item 4 ([§3.1 What a System Charter states](#31-what-a-system-charter-states)) as out of scope.
 - **If claimed without a holder:** It is a missing item to log and fix, and it does not stop the Chartered Party from forming, publishing, or carrying on its other work.
-- **Where to look:** [§2 The Right to Form, and Three Narrow Limits](#2-the-right-to-form-and-three-narrow-limits) says where the requirement comes from, and **CI-14.205 §7** (*Practice licence, practice clearance, and joint professional practice*) holds the entries and the host check.
+- **Where to look:** [§2 The Right to Form, and Four Narrow Limits](#2-the-right-to-form-and-four-narrow-limits) says where the requirement comes from, and **CI-14.205 §7** (*Practice licence, practice clearance, and joint professional practice*) holds the entries and the host check.
 
 <a id="35-scaling"></a>
 #### 3.5 Scaling
@@ -626,15 +635,14 @@ The same clock applies to certification seats. If the map does not name who star
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
 - [§5.1 What is covered](#51-what-is-covered) says which offices the formation check reaches, that other staff are not checked one by one, and that the formation check is the same whatever the substrate of the holder.
-- [§5.2 Limb one: standing](#52-limb-one-standing) says what the Chartered Party checks and records before a sentient takes a covered office: no lock, no Interim Hold, the competency bar met, and conflicts disclosed.
-- [§5.3 Limb two: authenticity](#53-limb-two-authenticity) says when an office is held in the holder's own right and for the stated purpose, tested on four things: control, interests and rewards, conduct, and protected voice.
+- [§5.2 Standing check](#52-standing-check) says what the Chartered Party checks and records before a sentient takes a covered office: no lock, no Interim Hold, the competency bar met, and conflicts disclosed.
+- [§5.3 Authenticity check](#53-authenticity-check) says when an office is held in the holder's own right and for the stated purpose, tested on four things: control, interests and rewards, conduct, and protected voice.
 - [§5.4 What the formation check may use as evidence](#54-what-the-formation-check-may-use-as-evidence) says that the formation check never asks what a sentient believes, and sets three rules: holding is not enough, labels are no shield, and control is not membership.
 - [§5.5 What a holder has said](#55-what-a-holder-has-said) says how a verified statement that others deserve harm counts as conduct, and what does not count.
-- [§5.6 Structural limb for other staff](#56-structural-limb-for-other-staff) says what the Chartered Party shows once about staff who hold no covered office.
+- [§5.6 Staff safeguards check](#56-staff-safeguards-check) says what the Chartered Party shows once about staff who hold no covered office.
 - [§5.7 The formation check statement](#57-the-formation-check-statement) says what the governing authority publishes, who verifies it, and what follows a false statement.
-- [§5.8 Timing and re-check](#58-timing-and-re-check) says when the statement is published, when a new holder is checked, and what triggers a re-check.
+- [§5.8 Timing and formation re-check](#58-timing-and-formation-re-check) says when the statement is published, when a new holder is checked, and what triggers a formation re-check.
 - [§5.9 Proportion and burden](#59-proportion-and-burden) says how the formation check scales with class and material stake.
-- [§5.10 What this section does not do](#510-what-this-section-does-not-do) lists what the formation check does not create or replace.
 
 </details>
 
@@ -642,7 +650,7 @@ The same clock applies to certification seats. If the map does not name who star
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [§2](#2-the-right-to-form-and-three-narrow-limits);
+  - [§2](#2-the-right-to-form-and-four-narrow-limits);
   - [§1.5](#15-when-a-system-charter-or-institutional-charter-is-due);
   - [§3](#3-what-system-and-institutional-charters-must-state);
   - [§4](#4-the-charter-role-map-and-standing-record-custody);
@@ -673,7 +681,7 @@ The same clock applies to certification seats. If the map does not name who star
 
 *In plain terms: before a Chartered Party exercises authority over others, the sentients who hold its key offices are checked twice. Do they meet the published standard for the role, with no standing lock in the way? And do they hold the office in their own right and for the Chartered Party's stated purpose, and not as a front or a nominee? The answer comes from who directs them, what they are paid for, and what they have verifiably said and done, never from what they believe. This is a formation check and not a licence.*
 
-This section is the **formation check**. It applies the two gates stated in [§2 The Right to Form, and Three Narrow Limits](#2-the-right-to-form-and-three-narrow-limits) to covered offices. [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) is not narrowed by it. It applies to a Chartered Party of Class L or higher ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)).
+This section is the **formation check**. It applies the three gates stated in [§2 The Right to Form, and Four Narrow Limits](#2-the-right-to-form-and-four-narrow-limits): the two that attach to a named sentient apply to covered offices, and the third applies to a Chartered Party that is itself under a lock. [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) is not narrowed by it. It applies to a Chartered Party of Class L or higher ([§1 When System and Institutional Charters Are Required](#1-when-system-and-institutional-charters-are-required)).
 
 <a id="51-what-is-covered"></a>
 #### 5.1 What is covered
@@ -684,11 +692,11 @@ The formation check sets out which offices it covers, who falls outside it, and 
   - each office of the governing authority, including every office that holds the amendment authority named under [§3 What System and Institutional Charters Must State](#3-what-system-and-institutional-charters-must-state) (item 7);
   - each office the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) names for a seat, a substitute, or the independent route ([§4 The Charter Role Map and Standing-Record Custody](#4-the-charter-role-map-and-standing-record-custody)); and
   - any other office, delegate, or contractor whose acts materially bind others within the chartered scope or who controls the records, keys, or funds that scope depends on.
-- **Other staff:** are not checked one by one. They are covered by the structural limb below.
+- **Other staff:** are not checked one by one. They are covered by the staff safeguards check below.
 - **Any substrate:** the formation check is the same whatever the substrate of the holder. Where the holder of a covered office is a System, the formation check runs on that System's operator or steward, whose interests and control are the ones that matter, as well as on the System's own System Certification Record.
 
-<a id="52-limb-one-standing"></a>
-#### 5.2 Limb one: standing
+<a id="52-standing-check"></a>
+#### 5.2 Standing check
 
 Before a sentient takes a covered office, the Chartered Party checks and records that:
 
@@ -699,8 +707,8 @@ Before a sentient takes a covered office, the Chartered Party checks and records
 
 Only verified standing records count, and only through the [Verified Inputs for Standing](core_05.035_band_accountability.md#verified-inputs-for-standing) gate. An unverified allegation, a rumor, a reputation, social prestige, or the holder's identity, background, health, or disability as such is not standing and is not considered. This section creates no lock, no hold, no bar, and no standing record.
 
-<a id="53-limb-two-authenticity"></a>
-#### 5.3 Limb two: authenticity
+<a id="53-authenticity-check"></a>
+#### 5.3 Authenticity check
 
 A covered office is **authentic** when its holder holds it in their own right and for the purpose its System Charter or Institutional Charter states, and not as a front, a nominee, or a proxy for a purpose that document does not state. The Chartered Party finds this from evidence on four things. A forum later tests the same four ([Chapter Nine Part D §12.2 Institutional evaluation, always](core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7).
 
@@ -709,7 +717,7 @@ A covered office is **authentic** when its holder holds it in their own right an
   - The holder's pay, equity, targets, and other rewards are disclosed to the level of their materiality and put to the [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions): does the structure reward the stated purpose, or does it reward crossing the stated limits, hiding problems, or shifting costs onto others?
   - A holder who is rewarded for what the Chartered Party's published limits forbid does not hold the office for its stated purpose until the reward is changed.
 - **Conduct:** what the holder has verifiably done in the same function, including a verified record of concealment, of retaliation against reporters, or of defeating the same kind of check, and including what the holder has verifiably said under [§5.5 What a holder has said](#55-what-a-holder-has-said).
-  - A holder with no record does not have a bad record, and a first-time founder cannot fail this limb for lack of history.
+  - A holder with no record does not have a bad record, and a first-time founder cannot fail the authenticity check for lack of history.
   - A holder with no record has no history to look at, so the formation check looks at what they commit to and do now. They agree in writing to the limits the Chartered Party has set on what it will not do. They accept checking by an independent party. And when they disagree with a finding about them, they use the route for challenging it.
 - **Protected voice:** the holder has a working route to refuse a wrongful instruction ([Chapter One §17.5 Duty to Resist](core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) and to report a problem ([Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing)), and the Chartered Party may not penalize the holder for using either route in good faith.
 
@@ -744,8 +752,8 @@ One kind of statement is conduct and counts against the holder: a verified state
 - **Answer and resolution:** The holder may answer, show the context, and show by action that the statement no longer holds. A bare retraction does not erase it.
 - **Not a penalty for speech:** Using a statement as evidence is not a limit on expression ([Chapter One §7.5 Expression and the Harm Line](core_01.005_values_principles.md#75-expression-and-the-harm-line)), and the statement stays protected as speech under [**Article XI-B** (*Expression*)](core_06.010_rights_part_b.md#article-xi-b-expression). Its only effect is on who holds authority over those it concerns.
 
-<a id="56-structural-limb-for-other-staff"></a>
-#### 5.6 Structural limb for other staff
+<a id="56-staff-safeguards-check"></a>
+#### 5.6 Staff safeguards check
 
 For staff who hold no covered office, the Chartered Party shows once, in the statement below, that:
 
@@ -761,9 +769,9 @@ This checks the Chartered Party's structure. Individual staff are not screened.
 Before a System or Institution begins to exercise authority over others, and with its System Charter or Institutional Charter, the governing authority publishes a statement that:
 
 - names each covered office;
-- gives, for each, the result of the standing limb and of each of the four parts of the authenticity limb, and cites the evidence;
+- gives, for each, the result of the standing check and of each of the four parts of the authenticity check, and cites the evidence;
 - discloses the interests and control relationships found;
-- gives the findings of the structural limb for other staff; and
+- gives the findings of the staff safeguards check; and
 - names who verified what.
 
 A holder may be identified by office and dated Role Map version where naming would endanger them. The independent verifying authority sees the name.
@@ -778,10 +786,22 @@ A holder may be identified by office and dated Role Map version where naming wou
   - Where a sentient knowingly made the statement, signed it, or caused it to be made, and the falsity is material and verified, it is also a ground for the Institutional Authority Standing Lock on that sentient ([Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks)), whether or not it hides control. The lock attaches to the sentient who made or caused the statement, and not to the Chartered Party or to a holder who did not.
   - A statement that is wrong without the sentient's knowledge is not that ground. It is a defect to correct under [§6 When a Holder Fails the Formation Check](#6-when-a-holder-fails-the-formation-check).
 
-<a id="58-timing-and-re-check"></a>
-#### 5.8 Timing and re-check
+<a id="58-timing-and-formation-re-check"></a>
+#### 5.8 Timing and formation re-check
 
-The statement is published with the System Charter or Institutional Charter ([§1.5 When a System Charter or Institutional Charter is due](#15-when-a-system-charter-or-institutional-charter-is-due) and [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)). A new holder of a covered office is checked before taking the seat. In an emergency substitution the formation check is completed inside the short window that **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) sets, and the substitute takes no materially binding act alone before it is done. The statement is re-checked at each periodic review ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)) and on a trigger: a verified finding about a holder, a change in who controls a covered office, a change to a reward structure the statement relied on, an Interim Hold issued or ended on a holder, a protected report about it, or a credible challenge. A new holder or a changed fact makes a new dated version of the statement. It is not an amendment of the System Charter or Institutional Charter ([§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders)).
+The statement is published once and then kept current:
+
+- **Publication:** The statement is published with the System Charter or Institutional Charter ([§1.5 When a System Charter or Institutional Charter is due](#15-when-a-system-charter-or-institutional-charter-is-due) and [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)).
+- **New holder:** A new holder of a covered office is checked before taking the seat.
+- **Emergency substitution:** The formation check is completed inside the short window that **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) sets, and the substitute takes no materially binding act alone before it is done.
+- **Formation re-check:** The statement is re-checked at each periodic review ([§7 Amendment, Review, and Scope Misalignment](#7-amendment-review-and-scope-misalignment)) and on a trigger:
+  - a verified finding about a holder;
+  - a change in who controls a covered office;
+  - a change to a reward structure the statement relied on;
+  - an Interim Hold issued or ended on a holder;
+  - a protected report about it; or
+  - a credible challenge.
+- **New version, not an amendment:** A new holder or a changed fact makes a new dated version of the statement. It is not an amendment of the System Charter or Institutional Charter ([§4.5 Changing seat rules and seat holders](#45-changing-seat-rules-and-seat-holders)).
 
 What follows a failed or late formation check is in [§6 When a Holder Fails the Formation Check](#6-when-a-holder-fails-the-formation-check).
 
@@ -790,23 +810,32 @@ What follows a failed or late formation check is in [§6 When a Holder Fails the
 
 The formation check is kept in proportion to what it protects:
 
-- The Chartered Party collects only what each limb needs. Retaliation, surveillance, or targeting of founders is non-compliant under [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
+- The Chartered Party collects only what each of the three checks needs. Retaliation, surveillance, or targeting of founders is non-compliant under [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 - The formation check scales with class and [material stake](core_00.000_preamble.md#material-stake). At Class L it is a short statement for the few covered offices, and for a sole founder it reduces to the disclosure of interests and of any outside control. More than that is [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden).
-
-<a id="510-what-this-section-does-not-do"></a>
-#### 5.10 What this section does not do
-
-It does not create standing records, locks, holds, or competency bars. It does not replace **CI-14.205 §2** (*Role criteria, appointment standards, and removal pathways*) or Chapter Eight. It does not make any member of staff a test of belief. It does not make certification a licence.
 
 <a id="6-when-a-holder-fails-the-formation-check"></a>
 ### 6. When a Holder Fails the Formation Check
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
+
+- [§6.1 What a failed formation check does](#61-what-a-failed-formation-check-does) says that a failed or late formation check is a defect to log and correct, that it does not by itself stop an Operating Party from forming or operating (a lock does, as on a dissolved Chartered Party that comes back), that it enters the next certification as a finding, and that it is evidence on the right to form without settling it.
+- [§6.2 When the standing check fails](#62-when-the-standing-check-fails) says that the sentient may not hold that office, and that the office is filled again or substituted by dated Role Map version.
+- [§6.3 When the facts may support an Interim Hold](#63-when-the-facts-may-support-an-interim-hold) says that specific verified facts go to the forum with jurisdiction, that only that forum may issue an Interim Hold, and that the Chartered Party may not keep a sentient out of an office on its own view.
+- [§6.4 When the authenticity check fails](#64-when-the-authenticity-check-fails) says that a failed authenticity finding is evidence for a forum and not a hold or a lock, that the seat is treated as unfilled, and that replacing the holder is one choice and never required.
+- [§6.5 When a dissolved Chartered Party returns](#65-when-a-dissolved-chartered-party-returns) says that the Dissolution Reformation Lock follows the activity and the control and not the name or the holder, and who decides and who bears the burden.
+- [§6.6 Response and resolution windows](#66-response-and-resolution-windows) says when the windows start and what the Chartered Party must do inside each.
+- [§6.7 If a failure is not resolved](#67-if-a-failure-is-not-resolved) says that the miss is a finding in the next certification and, only after a reasonable chance to resolve it in good faith, a referral for structural review that only a forum decides.
+- [§6.8 Fairness to the holder](#68-fairness-to-the-holder) says that a holder sees, may answer, and may contest an adverse finding, and that the formation check may not be used to remove dissenters, reporters, or worker organizers.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
   - [§5](#5-formation-check-office-holder-standing-and-authenticity);
-  - [§2](#2-the-right-to-form-and-three-narrow-limits);
+  - [§2](#2-the-right-to-form-and-four-narrow-limits);
   - [§1.6](#16-if-a-system-charter-or-institutional-charter-is-missing);
   - [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
   - [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
@@ -822,24 +851,102 @@ It does not create standing records, locks, holds, or competency bars. It does n
 
 <br>
 
-*In plain terms: a failed formation check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved. The Chartered Party gets a short window to answer and a longer one to fix it, and both are shorter the more critical it is. It keeps operating throughout. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The formation check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office for probable cause. A Chartered Party that a forum has dissolved is the one exception: it may not come back under any name while the lock on it stands.*
+*In plain terms: a Chartered Party that a forum has dissolved may not come back under any name while the lock on it stands. That is the one case where the Chartered Party itself is stopped, and the lock does it, not the formation check. In every other case a failed formation check lands on one office, not on the Chartered Party. The holder is replaced or the problem is resolved. The Chartered Party gets a short window to answer and a longer one to fix it, and both are shorter the more critical it is. It keeps operating throughout. Only a failure that is never resolved can lead to a review of the Chartered Party, and only a forum can order one. The formation check can keep one sentient out of one office of control only while that sentient is under an outstanding lock, or while a forum has put a short hold on the office on specific verified facts.*
 
-A failed or late formation check is a defect to log and correct. It does not stop an Operating Party from forming, publishing its System Charter or Institutional Charter, or operating. It enters the Chartered Party's next certification as a finding. The two gates it applies attach to a named sentient, and to the Chartered Party only where a lock sits on it, as one does on a dissolved Chartered Party, and the limits of the right to form are stated in [§2 The Right to Form, and Three Narrow Limits](#2-the-right-to-form-and-three-narrow-limits).
+<a id="61-what-a-failed-formation-check-does"></a>
+#### 6.1 What a failed formation check does
 
-**What follows:**
+A failed or late formation check is a defect to log and correct. On its own it is not a stop:
 
-- **Standing fails:** the sentient may not hold that office, as **CI-14.205 §2** (*Role criteria, appointment standards, and removal pathways*) already provides and as the outstanding-lock gate and the Interim Hold in **Article XI-E** (*Institutional Formation and Business Creation*) provide. The office is filled again or substituted by dated Role Map version. If that leaves the Chartered Party without a lawful holder of a governing office and others depend on it, the forum with jurisdiction may name an interim steward and does not stop the Chartered Party, as [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) provides for the Interim Hold.
-- **Probable cause:** where the formation check turns up specific verified facts that make it more likely than not that a holder is misaligned with the Chartered Party's stated purpose, the Chartered Party refers those facts to the forum with jurisdiction. Only that forum may issue an [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway), and it may do so for a holder of a covered office at any time and not only at formation. The Chartered Party may not keep a sentient out of an office on its own view of probable cause, because it would then be judging its own member. The full ground, including the risk of serious harm that cannot wait and the test that a narrower safeguard would not be enough, is the one in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway); this short form does not replace it.
-- **Authenticity fails:** the failed finding is evidence the forum may weigh for an Interim Hold or, if a violation is verified, for the Institutional Authority Standing Lock. It is neither of them. The office is treated as unfilled for the seat it carries, because a seat held through a nominee or proxy is not an independent placement under [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines). The Chartered Party resolves the defect by ending the undisclosed control, changing the reward, or disclosing the interest and having it cleared. Replacing the holder is one choice the Chartered Party may make, and a finding never requires it: anything aimed at the named sentient goes through the Interim Hold or a lock on a verified finding.
-- **A dissolved Chartered Party returns:** where the formation check, the verifying authority, or a forum finds that the Chartered Party is a dissolved Chartered Party re-formed, or its successor, controlled entity, nominee- or shell-held vehicle, or one operation with it, the Dissolution Reformation Lock under [Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks) stands against it. Changing the holder of an office does not resolve it, because the lock follows the activity and the control and not the name or the holder ([Chapter Eleven §9.4 Anti-evasion and look-through authority](core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)). The forum with jurisdiction decides whether the lock reaches the vehicle, on verified facts, and the party that says it does bears the burden. The Chartered Party's own statement that it is new does not decide it. A different Operating Party that is not one operation with the dissolved one is not caught.
-- **Resolution window:** A failed finding on a covered office runs on the same response and resolution windows as a request for a System Charter or Institutional Charter ([§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing)), taken at the Tier that matches the Chartered Party's class.
-  - **When it starts:** The windows start the day the failure is found by the Chartered Party, by its verifying authority, or by a forum, or is reported by anyone and not shown to be wrong. If the holder contests the finding through the contest seat before it takes effect, the windows start when the contest is decided, and a good-faith contest is not delay.
-  - **Response window:** Inside the response window the Chartered Party states in writing which office failed and what it will do: change the holder, end the undisclosed control, change the reward, or disclose the interest and have it cleared. Or it shows that the finding is wrong.
-  - **Resolution window:** Inside the resolution window the problem is resolved and a new dated version of the statement is published, with the verifying authority's confirmation. An emergency substitution keeps its own shorter check window, which the System Charter or Institutional Charter sets and which can't be longer than the Tier maximum (default 3 days, the protective-step bound for a Tier A emergency), as set out in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) and under *When the substitution lapses* in [§4.7 Gaps in the map for operator standing records](#47-gaps-in-the-map-for-operator-standing-records).
-  - **If it is not resolved:** The Chartered Party is not stopped, and the miss is a finding in its next certification. Where the failure still stands after the resolution window and a reasonable chance to resolve it in good faith, the lead forum refers it as realignment resistance, which opens structural review under **CI-11.210** (*Institutional failure and dissolution*) and **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*). That review follows the ladder in **CI-11.210** (*Institutional failure and dissolution*) and **CI-11.215** (*Institutional accountability and sanctions*): directed correction, constrained authority, a contraction order that returns the Chartered Party to below Class L, supervised operation, receivership or structural separation, and as a last step dissolution, each only where the lighter measures cannot protect the Constitution's obligations. The forum alone decides, nothing here is automatic, and the continuity safeguards keep services, records, and challenge rights in place. A dissolution carries a Dissolution Reformation Lock, so the dissolved Chartered Party and its successor vehicles may not be re-formed, and the lock is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([§2 The Right to Form, and Three Narrow Limits](#2-the-right-to-form-and-three-narrow-limits)). Dissolution never replaces anti-constitutional-misconduct designation under Chapter Twelve or the accountability of the responsible sentients.
-- **Reaching the Chartered Party:** The only consequence that can reach the Chartered Party is the review in *Resolution window* above, and it follows a failure to resolve and never the failure alone. A lock that a final order has already set on the Chartered Party, such as the Dissolution Reformation Lock on a dissolved Chartered Party that returns, is not a consequence of the formation check and does not wait for it. A failed formation check is also evidence on the limits of the right to form and does not settle them.
+- **No block from the failure itself:** An Operating Party that is not under a lock can still form, publish its System Charter or Institutional Charter, and keep operating. An Operating Party that is under a lock, such as a dissolved Chartered Party that comes back, is stopped by the lock and not by the failed formation check ([§6.5 When a dissolved Chartered Party returns](#65-when-a-dissolved-chartered-party-returns)).
+- **Certification:** It enters the Chartered Party's next certification as a finding.
+- **No gate comes from the failure itself:** The formation check applies the three gates, and a failure does not create one. The gates come only from:
+  - [§2.2 First limit: an outstanding lock on a sentient](#22-first-limit-an-outstanding-lock-on-a-sentient);
+  - [§2.3 Second limit: a short hold on specific verified facts](#23-second-limit-a-short-hold-on-specific-verified-facts), which only a forum can order as an Interim Hold; or
+  - [§2.4 Third limit: a lock on the Operating Party itself](#24-third-limit-a-lock-on-the-operating-party-itself).
+- **Limits of the right to form:** A failed formation check is evidence a forum may weigh on the limits of the right to form, but it does not settle them ([§2 The Right to Form, and Four Narrow Limits](#2-the-right-to-form-and-four-narrow-limits)).
 
-**Fairness to the holder:**
+<a id="62-when-the-standing-check-fails"></a>
+#### 6.2 When the standing check fails
+
+When a sentient fails the standing check:
+
+- **Out of the office:** The sentient may not hold that office. The role rules in **CI-14.205 §2** (*Role criteria, appointment standards, and removal pathways*) already say so, and where the cause is an outstanding lock or an Interim Hold, so does **Article XI-E** (*Institutional Formation and Business Creation*).
+- **Filling the seat:** Someone else takes the office, or a substitute does, and the change is recorded in a new dated version of the Role Map.
+- **No lawful holder:** If that leaves the Chartered Party without a lawful holder of a governing office and others depend on it, the forum with jurisdiction may name an interim steward and does not stop the Chartered Party, as [Article XI-E](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) provides for the Interim Hold.
+
+<a id="63-when-the-facts-may-support-an-interim-hold"></a>
+#### 6.3 When the facts may support an Interim Hold
+
+The formation check may turn up facts that support an Interim Hold. They are handled as follows:
+
+- **Referral:** Where those facts are specific and verified, and make it more likely than not that a holder is misaligned with the Chartered Party's stated purpose, the Chartered Party refers them to the forum with jurisdiction.
+- **Who may issue a hold:** Only that forum may issue an [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway), and it may do so for a holder of a covered office at any time and not only at formation.
+- **Not the Chartered Party's call:** The Chartered Party can't decide on its own to keep someone out of an office, because it would be judging its own member.
+- **What the forum needs:** The forum can issue a hold only if the facts are specific and verified, the risk is more likely real than not, the facts show a risk of serious harm to others, or of defeating the oversight of a body, a forum, or a certification, that can't wait, and a narrower safeguard would not be enough. The full test is in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway).
+
+<a id="64-when-the-authenticity-check-fails"></a>
+#### 6.4 When the authenticity check fails
+
+When a covered office fails the authenticity check:
+
+- **Evidence, not a hold or a lock:** A failed authenticity finding is not itself an Interim Hold or an Institutional Authority Standing Lock. It is evidence that a forum may weigh when deciding whether to issue an Interim Hold or, if a violation is verified, the Institutional Authority Standing Lock.
+- **The seat:** The office is treated as unfilled for the seat it carries, because a seat held through a nominee or proxy is not an independent placement under [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines).
+- **How it is resolved:** The Chartered Party resolves the defect by:
+  - ending the undisclosed control;
+  - changing the reward; or
+  - disclosing the interest and having it cleared.
+- **Replacing the holder:** Replacing the holder is one choice the Chartered Party may make, and a finding never requires it: anything aimed at the named sentient goes through the Interim Hold or a lock on a verified finding.
+
+<a id="65-when-a-dissolved-chartered-party-returns"></a>
+#### 6.5 When a dissolved Chartered Party returns
+
+A dissolved Chartered Party that comes back is handled as follows:
+
+- **When the lock applies:** The Dissolution Reformation Lock under [Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks) applies to a Chartered Party that the formation check, the verifying authority, or a forum finds is any of these:
+  - the dissolved Chartered Party, re-formed;
+  - its successor;
+  - a controlled entity of it;
+  - a vehicle held through a nominee or a shell; or
+  - one operation with it.
+- **Changing the holder:** Changing the holder of an office does not resolve it, because the lock follows the activity and the control and not the name or the holder ([Chapter Eleven §9.4 Anti-evasion and look-through authority](core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)).
+- **Who decides:** The forum with jurisdiction decides whether the lock reaches the vehicle, on verified facts, and the party that says it does bears the burden.
+- **Own statement:** The Chartered Party's own statement that it is new does not decide it.
+- **Other Operating Parties:** The lock does not reach a different Operating Party, unless it is in fact one operation with the dissolved one.
+- **Deliberate evasion:** Re-forming, reviving, or running a dissolved Chartered Party under another name, or through a successor, controlled entity, or nominee- or shell-held vehicle, in order to get around the lock is a form of anti-constitutional misconduct. A forum may designate it under [Chapter Twelve Part A](core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) on verified facts.
+
+<a id="66-response-and-resolution-windows"></a>
+#### 6.6 Response and resolution windows
+
+When the standing check or the authenticity check finds that the holder of a covered office has failed, the Chartered Party gets the same two windows as for a request for a missing System Charter or Institutional Charter: a response window to answer and a resolution window to fix it. Each window's length comes from the Tier with the same letter as the Chartered Party's class (Class A uses Tier A, and so on), so the more critical the class, the shorter the windows. The lengths are in the table in [§1.6 If a System Charter or Institutional Charter is missing](#16-if-a-system-charter-or-institutional-charter-is-missing).
+
+- **When it starts:** The windows start the day the failure is found by the Chartered Party, by its verifying authority, or by a forum, or is reported by anyone and not shown to be wrong. If the holder contests the finding through the contest seat before it takes effect, the windows start when the contest is decided, and a good-faith contest is not delay.
+- **Response window:** Inside the response window the Chartered Party states in writing which office failed and what it will do: change the holder, end the undisclosed control, change the reward, or disclose the interest and have it cleared. Or it shows that the finding is wrong.
+- **Resolution window:** Inside the resolution window the problem is resolved and a new dated version of the statement is published, with the verifying authority's confirmation.
+  - **Emergency substitution:** An emergency substitution keeps its own shorter check window, which the System Charter or Institutional Charter sets and which can't be longer than the Tier maximum (default 3 days, the protective-step bound for a Tier A emergency), as set out in **CI-8.205 §6** (*System and Institutional Charter contents, review, and formation template*) and under *When the substitution lapses* in [§4.7 Gaps in the map for operator standing records](#47-gaps-in-the-map-for-operator-standing-records).
+
+<a id="67-if-a-failure-is-not-resolved"></a>
+#### 6.7 If a failure is not resolved
+
+If a failure is still not resolved when the resolution window ends:
+
+- **Not stopped:** The Chartered Party is not stopped, and the miss is a finding in its next certification.
+- **Referral:** Where the failure still stands after the resolution window and a reasonable chance to resolve it in good faith, the lead forum refers it as realignment resistance, which opens structural review under **CI-11.210** (*Institutional failure and dissolution*) and **CJS-5.125 §15** (*Accountability: structural review, correction urgency, and disclosure terms*).
+- **The ladder:** That review follows the ladder in **CI-11.210** (*Institutional failure and dissolution*) and **CI-11.215** (*Institutional accountability and sanctions*), each step only where the lighter measures cannot protect the Constitution's obligations:
+  - directed correction;
+  - constrained authority;
+  - a contraction order that returns the Chartered Party to below Class L;
+  - supervised operation;
+  - receivership or structural separation; and
+  - as a last step, dissolution.
+- **The forum decides:** Only the forum with jurisdiction decides which step to take, if any. No step follows automatically from a missed window or a failed finding. Whichever step is taken, the continuity safeguards keep services, records, and challenge rights in place.
+- **Dissolution:** A dissolution carries a Dissolution Reformation Lock, so the dissolved Chartered Party and its successor vehicles may not be re-formed, and the lock is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm ([§2 The Right to Form, and Four Narrow Limits](#2-the-right-to-form-and-four-narrow-limits)).
+- **Not a substitute:** Dissolution never replaces anti-constitutional-misconduct designation under Chapter Twelve or the accountability of the responsible sentients.
+
+<a id="68-fairness-to-the-holder"></a>
+#### 6.8 Fairness to the holder
+
+A holder who receives an adverse finding is protected as follows:
 
 - A holder sees any adverse finding and the evidence for it, may answer it, and may contest it through the contest seat before it takes effect, except where urgent protection is needed. A holder under a lock or an Interim Hold contests it by the route that lock or hold states.
 - Removing, moving, or refusing a holder who made a protected report or refused a wrongful instruction is presumed retaliatory, and a forum may [Stay](core_05.035_band_accountability.md#stay) the action while the review is pending. The formation check may not be used to remove dissenters, reporters, or worker organizers.
@@ -934,7 +1041,7 @@ Each later chapter relates to the System Charter and the Institutional Charter a
   - **Recognition of contribution does not depend on a scope document:** A group, with or without a System Charter or Institutional Charter and whatever its class, does not stand between its members and recognition.
     - Each member may seek a contribution record as an individual claimant, for work done inside the group or outside it, and the record concerns the member's contribution and not the group's standing ([Chapter Ten §3.7 Informal and small-scope records](core_10.000_standing_assessment.md#37-informal-and-small-scope-records)).
     - Giving aid, goods, labor, or services that no one is required to accept is not a materially binding act. A mutual aid circle that gives quilts to refugees needs no System Charter or Institutional Charter for its members to be recognized.
-- **Chapter Eleven:** Standing locks, competency bars, and clearances decide the standing limb of the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity). This chapter creates none of them.
+- **Chapter Eleven:** Standing locks, competency bars, and clearances decide the standing check within the formation check in [§5 Formation Check: Office-Holder Standing and Authenticity](#5-formation-check-office-holder-standing-and-authenticity). This chapter creates none of them.
 - **Chapter Thirteen:** Institutional forums hear disputes about Institutional Charter scope, Institutional Charter amendment authority, a mismatch between an Institutional Charter and behavior, and operation outside chartered scope.
 - **Chapter Fourteen:** Authorization and legitimacy of governing authority, including by Constitutional Charter, and the binding stakeholder-choice decision rules a System Charter or Institutional Charter points to, stay in Chapter Fourteen.
 - **Chapter Eighteen:** System Charter and Institutional Charter text and its implementation template bind as incorporated implementation text only within valid adoption scope. The floor in this chapter binds as core text.
