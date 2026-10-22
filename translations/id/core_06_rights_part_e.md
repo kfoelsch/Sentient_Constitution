@@ -69,7 +69,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Proses Penyelesaian Benturan Konstitusional](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), dan [§15 Penafsiran Konstitusional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Proses Penyelesaian Benturan Konstitusional](core_01_b_interaction_interpretation.md#13-proses-penyelesaian-benturan-konstitusional), dan [§15 Penafsiran Konstitusional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - Baca bersama: keluarga pengukuran ketepatan waktu (*Penyelesaian Tepat Waktu sebagai pengukuran konstitusional*).
 
 </details>
@@ -81,9 +81,9 @@ flowchart TB
 - [Keadilan Prosedural](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Penyelesaian Tepat Waktu](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [Keadilan Restoratif](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [Keter-auditan](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Keter-auditan](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Kemungkinan untuk Digugat](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Transparansi](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Transparansi](core_05_band_oversight.md#transparansi) · [O](core_05_band_oversight.md#transparansi) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -111,7 +111,7 @@ Ajudikasi dan penyelesaian sengketa dalam arti konstitusional didefinisikan dala
 *Pasal yang berkaitan:*
 
 - **Batas ketepatan waktu:** Kecepatan penyelesaian, disiplin pencegahan penundaan, dan tonggak berdasarkan tingkat materialitas diatur oleh **Pasal XXVI-C** (*Batas Penyelesaian Tepat Waktu dan Pencegahan Penundaan*), yang diterapkan melalui [Bab Tiga Belas §6 Penyelesaian tepat waktu, tingkat materialitas, dan disiplin pencegahan penundaan](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- **Pemulihan tepat waktu:** Baca bersama [**Pasal XIII-B** (*Hak atas Ganti Rugi dan Pemulihan*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*akses pemulihan tepat waktu*).
+- **Pemulihan tepat waktu:** Baca bersama [**Pasal XIII-B** (*Hak atas Ganti Rugi dan Pemulihan*)](core_06_rights_part_c.md#pasal-xiii-b-hak-atas-pemulihan-dan-perbaikan) (*akses pemulihan tepat waktu*).
 - **Tindakan darurat:** Diatur oleh [Bab Tiga Belas §6.1 Tindakan darurat dan beban kelanjutan](core_13_forum.md#61-emergency-measures-and-continuation-burden). Peninjauan retrospektif tindakan darurat diatur oleh **Pasal XXVI-A** (*Peninjauan Retrospektif dan Pengungkapan*).
 - **Keadilan setelah pelanggaran terverifikasi:** Diatur oleh **Pasal XX** (*Keadilan Setelah Pelanggaran Terverifikasi*).
 
@@ -126,16 +126,16 @@ Pelaksanaan tata kelola yang diadopsi menyediakan:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [§20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-batasan-pengungkapan-epistemik), dan [§20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
 
-- [Keter-auditan](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Keter-auditan](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Akuntabilitas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Kebenaran (Pembatasan Konstitusional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Kebenaran (Pembatasan Konstitusional)](core_05_band_oversight.md#kebenaran-kendala-konstitusional) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -163,7 +163,7 @@ Pasal ini menetapkan batas minimum untuk peninjauan, pencatatan, dan pengungkapa
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§13.1.5 Uji Keputusan Benturan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), dan [§20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§13.1.5 Uji Keputusan Benturan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), dan [§20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
 - Baca bersama: [Bab Sebelas §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression) (*Pernyataan akuntabilitas publik secara sukarela*); [Bab Dua Belas §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Pernyataan akuntabilitas publik secara sukarela (anti-konstitusional)*).
 
 </details>
@@ -202,7 +202,7 @@ Pasal ini menetapkan prosedur benturan hak dan tempat penyelarasan restoratif:
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: keluarga pengukuran ketepatan waktu (*Penyelesaian Tepat Waktu dan disiplin pencegahan penundaan sebagai pengukuran konstitusional*); [Prakata §6.2 Cara seluruh rangkaian bekerja bersama](core_00_preamble.md#62-how-the-full-chain-fits-together) (*jalur koordinasi kedudukan, integrasi, dan forum*).
-- Prinsip: Bab Satu [§9.2 Efisiensi Konstitusional](core_01_a_values_principles.md#92-constitutional-efficiency), [Bab Satu §13.3 Minimalisasi Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), dan [Bab Satu §13.1.5 Prosedur Benturan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Prinsip: Bab Satu [§9.2 Efisiensi Konstitusional](core_01_a_values_principles.md#92-efisiensi-konstitusional), [Bab Satu §13.3 Minimalisasi Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-meminimalkan-beban-yang-dapat-dihindari), dan [Bab Satu §13.1.5 Prosedur Benturan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Hilir: [Bab Tiga Belas §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tingkat materialitas, tonggak jalur, dan disiplin pencegahan penundaan*); [Bab Tiga Belas §6.1 Tindakan darurat dan beban kelanjutan](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*batas luar yang sama dengan jangka waktu baku pemulihan dan pengajuan keberatan setelah penahanan darurat*).
 - Pintu pengelola (non-operatif): kartu langkah berikutnya: [Penundaan](implementation/STEWARD_ENTRY_DOORS.md#delay). Kartu ini tidak dapat mempersempit Konstitusi.
 
@@ -229,7 +229,7 @@ Pasal ini menetapkan batas minimum pencegahan penundaan dalam penyelesaian masal
 - **Tujuan koordinasi:** Keadilan konstitusional berdasarkan **Pasal XX-A** (*Tujuan dan Cakupan Keadilan*) berjalan melalui **sistem koordinasi dan penyelesaian konstitusional** — memverifikasi fakta, mengukur kedudukan, mengintegrasikan konsekuensi, dan memulihkan jika memungkinkan — bukan melalui penundaan adversarial tanpa batas, pemeringkatan reputasi, atau penghukuman demi penghukuman itu sendiri.
 - **Tiga persyaratan bersama:** Jalur penyelesaian yang material harus **tepat waktu**, **efisien**, dan **adil** secara bersamaan:
   - **Tepat waktu** — tenggat yang dibatasi dan disesuaikan dengan [taruhan material](core_00_preamble.md#material-stake) serta urgensi kerugian;
-  - **Efisien** — [Efisiensi Konstitusional](core_05_band_continuity.md#constitutional-efficiency) dalam arti Bab Satu [§9.2 Efisiensi Konstitusional](core_01_a_values_principles.md#92-constitutional-efficiency) — hasil konstitusional nyata untuk setiap waktu sentien dan upaya bersama yang digunakan, bukan jumlah pemrosesan mentah atau sekadar mengosongkan daftar perkara;
+  - **Efisien** — [Efisiensi Konstitusional](core_05_band_continuity.md#constitutional-efficiency) dalam arti Bab Satu [§9.2 Efisiensi Konstitusional](core_01_a_values_principles.md#92-efisiensi-konstitusional) — hasil konstitusional nyata untuk setiap waktu sentien dan upaya bersama yang digunakan, bukan jumlah pemrosesan mentah atau sekadar mengosongkan daftar perkara;
   - **Adil** — **Pasal XX-A** (*Tujuan dan Cakupan Keadilan*) dan **Pasal XX-B** (*Batasan Pembatasan*) tetap berlaku sepenuhnya; kecepatan bukan alasan untuk melewatkan fakta yang telah diperiksa ([Bab Sepuluh §3.1 Gerbang masukan terverifikasi](core_10_standing_assessment.md#verified-inputs-for-standing)), menghukum pihak yang salah, menawarkan perbaikan yang tidak sesuai dengan kerugian, atau menutup akses gugatan dan banding.
 - **Pengawasan forum dan jalur:** Hal-hal berikut untuk sengketa yang dirutekan melalui **Bab Sepuluh sampai Dua Belas** diatur oleh [Bab Tiga Belas §6 Penyelesaian tepat waktu, tingkat materialitas, dan disiplin pencegahan penundaan](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), dengan tunduk pada batas tepat waktu, efisien, dan adil dalam Pasal ini:
   - klasifikasi tingkat materialitas;
@@ -259,13 +259,13 @@ Upaya yang sah berjalan melalui [Tetrad Konstitusional](core_00_preamble.md#cons
 - **Akuntabilitas:** pihak yang mengendalikan tata kelola harus menjawab jika aturan tetap berlaku semata-mata karena kebiasaan atau kenyamanan — dan jika perubahan konstitusional yang nyata dialihkan melalui label keadaan darurat, penerapan, atau penitipan untuk menghindari **Batas Minimum Hak** atau aturan perubahan Konstitusi yang sah.
 - **Ketepatan waktu:** melalui validasi ulang terjadwal dan peninjauan dipercepat ketika muncul tekanan penguasaan, pengecualian pemangku kepentingan, penurunan hak untuk menggugat, atau kinerja yang kurang secara material.
 
-Aturan tata kelola, mekanisme partisipasi, model pembobotan, dan struktur pendanaan tetap tunduk pada disiplin pembenaran berkelanjutan dalam [Bab Satu §18.4 Pembenaran Berkelanjutan](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). **Pasal XXVII-A** (*Larangan Pengukuhan dan Kemungkinan Revisi*) serta **Pasal XXVII-B** (*Validasi Ulang Berkala dan Perubahan Transparan*) menyatakan batas operatif untuk larangan pengukuhan, validasi ulang, dan perubahan transparan.
+Aturan tata kelola, mekanisme partisipasi, model pembobotan, dan struktur pendanaan tetap tunduk pada disiplin pembenaran berkelanjutan dalam [Bab Satu §18.4 Pembenaran Berkelanjutan](core_01_c_stewardship_capacity_principles.md#184-justifikasi-berkelanjutan). **Pasal XXVII-A** (*Larangan Pengukuhan dan Kemungkinan Revisi*) serta **Pasal XXVII-B** (*Validasi Ulang Berkala dan Perubahan Transparan*) menyatakan batas operatif untuk larangan pengukuhan, validasi ulang, dan perubahan transparan.
 
 #### Pasal XXVII-A: Larangan Pengukuhan dan Kemungkinan Revisi
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §18.4 Pembenaran Berkelanjutan](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Bab Satu [§3 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Hulu: Prinsip: [Bab Satu §18.4 Pembenaran Berkelanjutan](core_01_c_stewardship_capacity_principles.md#184-justifikasi-berkelanjutan); Bab Satu [§3 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -273,7 +273,7 @@ Aturan tata kelola, mekanisme partisipasi, model pembobotan, dan struktur pendan
 <summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
 
 - [Akuntabilitas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Transparansi](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Transparansi](core_05_band_oversight.md#transparansi) · [O](core_05_band_oversight.md#transparansi) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Pemangku kepentingan](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -303,7 +303,7 @@ Pasal ini menetapkan peninjauan tata kelola secara berkala dan dipercepat:
 <details>
 <summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
 
-- [Transparansi](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Transparansi](core_05_band_oversight.md#transparansi) · [O](core_05_band_oversight.md#transparansi) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Kemungkinan untuk Digugat](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Akuntabilitas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -338,7 +338,7 @@ Pasal ini menyatakan **batas minimum konstitusional** untuk tata kelola transisi
 
 Upaya yang sah berjalan melalui [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), disesuaikan dengan [taruhan material](core_00_preamble.md#material-stake) — makin besar dampak, ketergantungan, dan risiko, makin kuat kewajiban yang berlaku:
 
-- **Partisipasi:** pemangku kepentingan yang terdampak memiliki suara nyata dalam setiap fase transisi — termasuk kesempatan melihat dan mengomentari [kriteria gerbang](core_05_band_oversight.md#gate-criteria) (pengujian yang diumumkan dan harus dilalui suatu fase sebelum rencana berlanjut) sebelum diadopsi, melihat bukti pemenuhannya, serta menggugat keputusan gerbang; kesempatan menggugat penyitaan atau pembatasan selama transisi; dan kesempatan memberi masukan saat kewenangan sementara yang menyentuh hak atau kedudukan diperbarui.
+- **Partisipasi:** pemangku kepentingan yang terdampak memiliki suara nyata dalam setiap fase transisi — termasuk kesempatan melihat dan mengomentari [kriteria gerbang](core_05_band_oversight.md#kriteria-gerbang) (pengujian yang diumumkan dan harus dilalui suatu fase sebelum rencana berlanjut) sebelum diadopsi, melihat bukti pemenuhannya, serta menggugat keputusan gerbang; kesempatan menggugat penyitaan atau pembatasan selama transisi; dan kesempatan memberi masukan saat kewenangan sementara yang menyentuh hak atau kedudukan diperbarui.
 - **Pengawasan:** transisi harus tetap dapat diamati dan diperiksa — gerbang dipenuhi dan didokumentasikan, kewenangan sementara ditinjau secara independen, kemajuan diukur melalui penyusutan cakupan sementara, pematangan operasi konstitusional, dan pencapaian Batas Minimum Hak yang terverifikasi, catatan dapat diaudit, serta alasan penundaan, pembatalan, atau penetapan ulang dasar diumumkan.
 - **Akuntabilitas:** pihak yang menjalankan transisi harus bertanggung jawab jika menggunakannya sebagai kedok untuk penundaan yang dibuat sendiri, jalan pintas demi kemudahan, penegakan yang dibuat-buat, kekosongan tata kelola, penguncian setelah tonggak gagal, atau penurunan diam-diam atas batas minimum konstitusional akibat ketidakselarasan penerapan.
 - **Ketepatan waktu:** kewenangan sementara harus memiliki tanggal kedaluwarsa yang nyata; makin lama kewenangan itu berjalan dan makin banyak hak yang disentuhnya, makin berat syarat pemberian wewenang ulang; dan transisi yang macet membutuhkan jalan keluar yang sah sebelum limbo sementara mengeras menjadi keadaan normal yang baru.
@@ -363,7 +363,7 @@ Tata kelola transisi bertujuan menjamin keberlanjutan dan mencegah kemunduran. T
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pertukaran](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Bab Sebelas §5.4](core_11_standing_integration.md#54-special-violation-rules) (*perampasan imbalan yang tidak selaras dan pelaporan dibatasi selama transisi oleh Pasal ini*); [Bab Delapan — Sertifikasi Penyelarasan Sistem](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pertukaran](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Bab Sebelas §5.4](core_11_standing_integration.md#54-special-violation-rules) (*perampasan imbalan yang tidak selaras dan pelaporan dibatasi selama transisi oleh Pasal ini*); [Bab Delapan — Sertifikasi Penyelarasan Sistem](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -373,7 +373,7 @@ Tata kelola transisi bertujuan menjamin keberlanjutan dan mencegah kemunduran. T
 - [Akuntabilitas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Proporsionalitas](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Kesejahteraan](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [Pelestarian Bukti](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [Pelestarian Bukti](core_05_band_oversight.md#pelestarian-bukti) · [O](core_05_band_oversight.md#pelestarian-bukti) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [Kebutuhan](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -384,7 +384,7 @@ Tata kelola transisi bertujuan menjamin keberlanjutan dan mencegah kemunduran. T
 
 Pasal ini menetapkan penerapan bertahap dan cara Batas Minimum Hak menjadi dapat ditegakkan seiring kesiapan dibangun:
 
-- **Penerapan bertahap dan kriteria gerbang:** Rencana transisi harus bertahap dan dapat ditinjau. Sebuah [**gerbang**](core_05_band_oversight.md#gate) adalah titik pemeriksaan antara dua fase atau sebelum rencana memperluas cakupan penerapan. [**Kriteria gerbang**](core_05_band_oversight.md#gate-criteria) adalah kondisi spesifik dan terukur yang diumumkan sebelumnya oleh rencana dan harus terbukti terpenuhi berdasarkan bukti terverifikasi sebelum gerbang dibuka.
+- **Penerapan bertahap dan kriteria gerbang:** Rencana transisi harus bertahap dan dapat ditinjau. Sebuah [**gerbang**](core_05_band_oversight.md#gerbang) adalah titik pemeriksaan antara dua fase atau sebelum rencana memperluas cakupan penerapan. [**Kriteria gerbang**](core_05_band_oversight.md#kriteria-gerbang) adalah kondisi spesifik dan terukur yang diumumkan sebelumnya oleh rencana dan harus terbukti terpenuhi berdasarkan bukti terverifikasi sebelum gerbang dibuka.
   - Kemajuan fase harus didasarkan pada pemenuhan kriteria gerbang yang diumumkan dan didokumentasikan, termasuk tonggak pencapaian Batas Minimum Hak dan kesiapan penegakan pada fase tersebut, yang ditunjukkan oleh data buku besar terverifikasi, bukan sekadar pernyataan.
   - Kemajuan itu tidak boleh hanya didasarkan pada salah satu hal berikut:
     - waktu yang berlalu;
@@ -392,12 +392,12 @@ Pasal ini menetapkan penerapan bertahap dan cara Batas Minimum Hak menjadi dapat
     - tekanan politik.
   - Kriteria, bukti pemenuhannya, dan keputusan gerbang harus diumumkan. Pemangku kepentingan yang terdampak dapat mengomentari kriteria sebelum diadopsi dan menggugat keputusan tersebut.
   - Isi kriteria, penetapan penanggung jawab, dan artefak verifikasi diatur oleh [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Tata kelola transisi dan evolusi kelembagaan*) dan [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*Kriteria gerbang dan aturan kemajuan*).
-- **Penerapan Batas Minimum Hak — menahan diri sekarang, menyediakan setelah kesiapan dibangun:** **Batas Minimum Hak** yang diterapkan melalui **Pasal VI** (*Hak Dasar yang Setara*) berdasarkan [Prinsip Batas Minimum Hak](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), bersama batas khusus bidang yang lebih kuat untuk kelangsungan hidup, daya bertindak, nondiskriminasi, aksesibilitas, keter-auditan, dan pemulihan yang dipicu oleh konteks terdampak, menjadi sasaran yang diadopsi pada setiap fase. Batas Hak tidak dapat ditegakkan sepenuhnya sebelum lembaga dan budaya penegaknya tersedia, dan Pasal ini tidak berpura-pura sebaliknya. Namun, fakta itu juga tidak boleh menurunkan batasnya. Karena itu, batas mengikat dalam dua cara, sesuai jenis kewajibannya:
+- **Penerapan Batas Minimum Hak — menahan diri sekarang, menyediakan setelah kesiapan dibangun:** **Batas Minimum Hak** yang diterapkan melalui **Pasal VI** (*Hak Dasar yang Setara*) berdasarkan [Prinsip Batas Minimum Hak](core_01_b_interaction_interpretation.md#prinsip-minimum-lantai-hak), bersama batas khusus bidang yang lebih kuat untuk kelangsungan hidup, daya bertindak, nondiskriminasi, aksesibilitas, keter-auditan, dan pemulihan yang dipicu oleh konteks terdampak, menjadi sasaran yang diadopsi pada setiap fase. Batas Hak tidak dapat ditegakkan sepenuhnya sebelum lembaga dan budaya penegaknya tersedia, dan Pasal ini tidak berpura-pura sebaliknya. Namun, fakta itu juga tidak boleh menurunkan batasnya. Karena itu, batas mengikat dalam dua cara, sesuai jenis kewajibannya:
   - **Kewajiban menahan diri** — hal-hal yang tidak boleh dilakukan pihak pengadopsi dan otoritas transisi — mengikat sejak tanggal berlaku karena pemenuhannya tidak membutuhkan lembaga baru:
     - **Tidak ada kemunduran yang disengaja atau dapat dihindari:** akses sentien terhadap perlindungan Batas Minimum Hak tidak boleh diturunkan secara sengaja atau dapat dihindari di bawah **ukuran awal**, dan tindakan transisi tidak boleh secara material mempersulit penggunaan suatu batas.
     - **Tidak ada pelanggaran baru:** sistem, kebijakan, dan praktik baru, serta perluasan material dari yang sudah ada, harus dirancang untuk memenuhi batas sejak awal. Jalur pencapaian di bawah ini hanya mencakup kekurangan warisan, bukan perilaku baru.
     - **Tidak ada kehilangan yang tidak dapat dipulihkan:** praduga pelestarian di bawah ini dan [sikap sementara baku Bab Satu §13.1](core_01_b_interaction_interpretation.md#default-interim-posture) berlaku penuh.
-    - **Tidak ada perilaku yang merendahkan, dibuat-buat, diskriminatif, atau menutupi fakta** dalam tindakan transisi, termasuk seluruh hal yang diwajibkan **Pasal XXVIII-D** (*Properti dan Sistem yang Tidak Patuh; Insentif Penyerahan Sukarela*) kepada otoritas transisi, berdasarkan [Prinsip Proses Anti-Penghinaan](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+    - **Tidak ada perilaku yang merendahkan, dibuat-buat, diskriminatif, atau menutupi fakta** dalam tindakan transisi, termasuk seluruh hal yang diwajibkan **Pasal XXVIII-D** (*Properti dan Sistem yang Tidak Patuh; Insentif Penyerahan Sukarela*) kepada otoritas transisi, berdasarkan [Prinsip Proses Anti-Penghinaan](core_01_b_interaction_interpretation.md#prinsip-proses-yang-tidak-merendahkan).
     - **Pelaporan jujur:** suatu batas tidak boleh dinyatakan dapat ditegakkan atau telah tercapai, dan kesenjangan tidak boleh dinyatakan telah ditutup, kecuali berdasarkan data buku besar yang terverifikasi.
 
     Penegakan sementara kewajiban menahan diri sebelum forum siap untuk suatu cakupan diatur oleh [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*buku besar pencapaian Batas Minimum Hak*).
@@ -442,7 +442,7 @@ Pasal ini menetapkan penerapan bertahap dan cara Batas Minimum Hak menjadi dapat
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pertukaran](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pertukaran](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), dan [§14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -485,7 +485,7 @@ Cakupan sementara yang tidak berubah atau bertambah tanpa pematangan lembaga yan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pertukaran](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [§20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pertukaran](core_01_b_interaction_interpretation.md#131-prinsip-inti-pertukaran), dan [§20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-penerapan-terpadu).
 - Baca bersama: [Bab Delapan](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*sertifikasi penyelarasan sistem*); [Bab Sepuluh sampai Dua Belas](core_00_preamble.md#62-how-the-full-chain-fits-together) (*jalur kedudukan dan pengawasan forum*).
 
 </details>
@@ -493,7 +493,7 @@ Cakupan sementara yang tidak berubah atau bertambah tanpa pematangan lembaga yan
 <details>
 <summary><strong><span style="color: #2563eb;">Definisi · Penilaian · Kepatuhan</span></strong></summary>
 
-- [Keter-auditan](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Keter-auditan](core_05_band_oversight.md#keter-auditan) · [O](core_05_band_oversight.md#keter-auditan) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Akuntabilitas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Kemungkinan untuk Dibalikkan](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

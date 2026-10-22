@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">جایگاه در پیکره (غیرعملیاتی): ساختار پرونده و قواعد خواندن</span></strong></summary>
 
-> این پرونده **آزمایش زبان خواننده** برای [فصل چهارم به انگلیسی](../../core_04_burden_traceability_verification.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
+> این پرونده **آزمایش زبان خواننده** برای [فصل چهارم به انگلیسی](../../core_04.000_burden_traceability_verification.md) است. **بخش الزام‌آور قانون اساسی حس‌مندان نیست**. **قانون اساسی دوم نیست**. **ویرایش ارسال نیست**. روی `SC-Corpus-2026.08.09` **قفل** شده است. اگر این ترجمه و اصل انگلیسی ناسازگار به‌نظر برسند، پروندهٔ شماره‌دار [`core_04_burden_traceability_verification.md`](../../core_04.000_burden_traceability_verification.md) برنده است. ترتیب خواندن و فرادادهٔ ویرایش در [README.md](../../README.md) نگه داشته می‌شود. روش و واژه‌نامه: [translations/fa/README.md](README.md).
 >
 > **قبلی (این زبان):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
@@ -17,10 +17,10 @@
 <summary><strong><span style="color: #2563eb;">راهنمای خواننده (غیرعملیاتی): جای زندگی فصل چهارم و آنچه اینجا می‌ماند</span></strong></summary>
 
 > جایی که این زندگی می‌کند (ناوبری):
-> - **نقشهٔ چهارگانه:** تخصیص بار، شاهد، ردگیری‌پذیری، مشاهده‌پذیری، و راستی‌آزمایی پاهای **نظارت** و **پاسخگویی** [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) را که در [دیباچه](core_00_preamble.md#chapter-00-preamble--foundational-requirements) برقرار شده‌اند پیاده می‌کنند؛ **مشارکت** جایی که از نظر مادی الزامی است از راه مشاهده‌پذیری عملی و اعتراض مستقل زیر بخش‌های **3** و **4**. الزامات با [منافع مادی](core_00_preamble.md#material-stake) مقیاس می‌شوند.
+> - **نقشهٔ چهارگانه:** تخصیص بار، شاهد، ردگیری‌پذیری، مشاهده‌پذیری، و راستی‌آزمایی پاهای **نظارت** و **پاسخگویی** [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) را که در [دیباچه](core_00_preamble.md#دیباچه--الزامات-بنیادین) برقرار شده‌اند پیاده می‌کنند؛ **مشارکت** جایی که از نظر مادی الزامی است از راه مشاهده‌پذیری عملی و اعتراض مستقل زیر بخش‌های **3** و **4**. الزامات با [منافع مادی](core_00_preamble.md#material-stake) مقیاس می‌شوند.
 > - **مالک قانون اساسی:** تخصیص بار، شاهد انطباق، ردگیری‌پذیری تعریف، مشاهده‌پذیری، و راستی‌آزمایی مقید به امنیت. **فصل دهم** مالک انضباط سوابق ردپا و ورودی راستی‌آزمایی‌شده است که با این فصل خوانده می‌شود.
 > - **مالک پیاده‌سازی:** مکانیک استقرار، رسیدگی داده، و اطمینان در پرونده‌های پیاده‌سازی نام‌گذاری‌شده باید با این قواعد سازگار بماند و می‌تواند سخت‌گیرانه‌تر باشد جایی که پیکره ازپیش منطق قاعدهٔ سخت‌گیرانه‌تر فراهم می‌کند.
-> - **قاعدهٔ ضدجابه‌جایی:** این فصل فقط بر بار، ردگیری، مشاهده‌پذیری، حدهای امنیت، و شاهد حاکم است. تعریف‌های فصل پنجم، اندازه‌گیری همیاری یا ردپای **فصل دهم**، یا معیارهای سوءرفتار ضدقانون‌اساسی فصل دوازدهم را بازبیان نمی‌کند. مسیرگذاری عدم‌انطباق راستی‌آزمایی‌شده به ردپا زیر [فصل سوم §3 — نمایه‌های یافتهٔ عدم‌انطباق](core_03_definition_integrity.md#3-non-compliance-finding-profiles) و [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) اداره می‌شود. **بخش 6** بیان می‌کند فصل‌های دوم تا چهارم چگونه از [فصل نهم — گواهی هم‌راستایی نظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) فرق می‌کنند.
+> - **قاعدهٔ ضدجابه‌جایی:** این فصل فقط بر بار، ردگیری، مشاهده‌پذیری، حدهای امنیت، و شاهد حاکم است. تعریف‌های فصل پنجم، اندازه‌گیری همیاری یا ردپای **فصل دهم**، یا معیارهای سوءرفتار ضدقانون‌اساسی فصل دوازدهم را بازبیان نمی‌کند. مسیرگذاری عدم‌انطباق راستی‌آزمایی‌شده به ردپا زیر [فصل سوم §3 — نمایه‌های یافتهٔ عدم‌انطباق](core_03_definition_integrity.md#3-نمایههای-یافته-عدمانطباق) و [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) اداره می‌شود. **بخش 6** بیان می‌کند فصل‌های دوم تا چهارم چگونه از [فصل نهم — گواهی هم‌راستایی نظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) فرق می‌کنند.
 
 </details>
 
@@ -43,21 +43,21 @@
 
 | گام | کار ساده | بخش |
 | --- | --- | --- |
-| **1 — چه کسی ثابت می‌کند** | بار بر کسی است که ادعای انطباق می‌کند | [§1](#1-exclusive-enforcement-and-burden-allocation) |
-| **2 — نقشه را نشان دهید** | ردگیری ساخت‌یافته از تعریف‌ها تا رفتار مشاهده‌پذیر | [§2](#2-definition-traceability-requirement) |
-| **3 — قابل‌بررسی‌اش کنید** | نظام‌ها باید به‌قدر کافی آشکار کنند تا نقشه راستی‌آزمایی شود — در عمل، نه در نظریه | [§3](#3-observability-of-traceability-requirement) |
-| **4 — حدهای امنیت** | حدهای امنیت واقعی مجازند؛ انسدادهای پیش‌متنی مجاز نیستند | [§4](#4-security-constrained-observability-and-verification-rule) |
-| **5 — چه می‌شمرد** | شاهد باید واقعی، کامل، مستقل، و پایدار باشد | [§5](#5-compliance-evidence-standard) |
+| **1 — چه کسی ثابت می‌کند** | بار بر کسی است که ادعای انطباق می‌کند | [§1](#1-اجرای-انحصاری-و-تخصیص-بار) |
+| **2 — نقشه را نشان دهید** | ردگیری ساخت‌یافته از تعریف‌ها تا رفتار مشاهده‌پذیر | [§2](#2-الزام-ردگیریپذیری-تعریف) |
+| **3 — قابل‌بررسی‌اش کنید** | نظام‌ها باید به‌قدر کافی آشکار کنند تا نقشه راستی‌آزمایی شود — در عمل، نه در نظریه | [§3](#3-الزام-مشاهدهپذیری-ردگیریپذیری) |
+| **4 — حدهای امنیت** | حدهای امنیت واقعی مجازند؛ انسدادهای پیش‌متنی مجاز نیستند | [§4](#4-قاعده-مشاهدهپذیری-و-راستیآزمایی-مقید-به-امنیت) |
+| **5 — چه می‌شمرد** | شاهد باید واقعی، کامل، مستقل، و پایدار باشد | [§5](#5-استاندارد-شاهد-انطباق) |
 
-**دسترسی زبان ساده.** [فصل یکم §3.4 — دسترس‌پذیری زبان ساده (تکلیف مشارکت و مدیریت مسئولانه)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) بر مواد حکمرانی، رسیدگی، و عملیاتی‌ای اعمال می‌شود که حس‌مندان برای اعمال حقوق، اعتراض به تصمیم‌ها، یا راستی‌آزمایی انطباق به‌کار می‌برند. زبان ساده آنچه فصل‌های دوم تا چهارم می‌خواهند را **عوض نمی‌کند** و کم نمی‌کند. اگر نسخه‌ای به زبان ساده با قواعد تعریف یا راستی‌آزمایی اینجا ناسازگار باشد، آن قواعد حاکم‌اند. به‌کار بردن زبان تخصصی، پیچیدگی انباشته، یا کدورت برای سد کردن دسترسی به [قابلیت اعتراض](../../core_05_band_accountability.md#contestability) یا [اصل XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) غیرمنطبق است زیر این فصل و **فصل یکم §3.4**.
+**دسترسی زبان ساده.** [فصل یکم §3.4 — دسترس‌پذیری زبان ساده (تکلیف مشارکت و مدیریت مسئولانه)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) بر مواد حکمرانی، رسیدگی، و عملیاتی‌ای اعمال می‌شود که حس‌مندان برای اعمال حقوق، اعتراض به تصمیم‌ها، یا راستی‌آزمایی انطباق به‌کار می‌برند. زبان ساده آنچه فصل‌های دوم تا چهارم می‌خواهند را **عوض نمی‌کند** و کم نمی‌کند. اگر نسخه‌ای به زبان ساده با قواعد تعریف یا راستی‌آزمایی اینجا ناسازگار باشد، آن قواعد حاکم‌اند. به‌کار بردن زبان تخصصی، پیچیدگی انباشته، یا کدورت برای سد کردن دسترسی به [قابلیت اعتراض](../../core_05.035_band_accountability.md#contestability) یا [اصل XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) غیرمنطبق است زیر این فصل و **فصل یکم §3.4**.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. الزام ردگیری‌پذیری تعریف
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: [فصل چهارم، بخش 1 — اجرای انحصاری و تخصیص بار](#1-exclusive-enforcement-and-burden-allocation)؛ [فصل دوم، §1 — مقصود و نقش](core_02_definition_structure.md#1-purpose-and-role)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [فصل سوم، بخش 1 — یکپارچگی تعریف و قیدهای ضدگریز](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — قواعد ماهوی تعریف و عدم‌انطباق؛ **§3** فقط الزام نقشهٔ ردگیری را بیان می‌کند و آن قواعد را بازبیان نمی‌کند.
-- پایین‌دست: [فصل چهارم، بخش 3 — الزام مشاهده‌پذیری ردگیری‌پذیری](#3-observability-of-traceability-requirement)؛ [فصل چهارم، بخش 4 — قاعدهٔ مشاهده‌پذیری و راستی‌آزمایی مقید به امنیت](#4-security-constrained-observability-and-verification-rule)؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](#5-compliance-evidence-standard).
+- بالادست: [فصل چهارم، بخش 1 — اجرای انحصاری و تخصیص بار](#1-اجرای-انحصاری-و-تخصیص-بار)؛ [فصل دوم، §1 — مقصود و نقش](core_02_definition_structure.md#1-مقصود-و-نقش)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-الزام-یکپارچگی-تعریف)؛ [فصل سوم، بخش 1 — یکپارچگی تعریف و قیدهای ضدگریز](core_03_definition_integrity.md#1-یکپارچگی-تعریف-و-قیدهای-ضدگریز)؛ [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](core_03_definition_integrity.md#2-عدمانطباق-از-رفتار-مشاهدهپذیر-نظام) — قواعد ماهوی تعریف و عدم‌انطباق؛ **§3** فقط الزام نقشهٔ ردگیری را بیان می‌کند و آن قواعد را بازبیان نمی‌کند.
+- پایین‌دست: [فصل چهارم، بخش 3 — الزام مشاهده‌پذیری ردگیری‌پذیری](#3-الزام-مشاهدهپذیری-ردگیریپذیری)؛ [فصل چهارم، بخش 4 — قاعدهٔ مشاهده‌پذیری و راستی‌آزمایی مقید به امنیت](#4-قاعده-مشاهدهپذیری-و-راستیآزمایی-مقید-به-امنیت)؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](#5-استاندارد-شاهد-انطباق).
 
 </details>
 
@@ -87,14 +87,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](#2-definition-traceability-requirement).
-- پایین‌دست: [فصل چهارم، بخش 4 — قاعدهٔ مشاهده‌پذیری و راستی‌آزمایی مقید به امنیت](#4-security-constrained-observability-and-verification-rule)؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](#5-compliance-evidence-standard).
-- خوانده شود با: [تعریف‌های خوشه‌ای فصل پنجم (کوشش پیش‌بینی‌پذیری)](../../core_05_band_oversight.md#foreseeability-diligence) — قابلیت راستی‌آزمایی نظری‌ای که زیر شرایط به‌طور معقول پیش‌بینی‌پذیر عملاً دست‌یافتنی نیست غیرمنطبق است.
-- خوانده شود با: [تعریف‌های خوشه‌ای فصل پنجم (کوشش پیش‌بینی‌پذیری)](../../core_05_band_oversight.md#foreseeability-diligence) — کدورت ناشی از طراحی باید در برابر شرایط به‌طور معقول پیش‌بینی‌پذیر ارزیابی شود، نه عملیات بهترین‌حالت.
+- بالادست: اصول: [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](#2-الزام-ردگیریپذیری-تعریف).
+- پایین‌دست: [فصل چهارم، بخش 4 — قاعدهٔ مشاهده‌پذیری و راستی‌آزمایی مقید به امنیت](#4-قاعده-مشاهدهپذیری-و-راستیآزمایی-مقید-به-امنیت)؛ [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](#5-استاندارد-شاهد-انطباق).
+- خوانده شود با: [تعریف‌های خوشه‌ای فصل پنجم (کوشش پیش‌بینی‌پذیری)](../../core_05.050_band_oversight.md#foreseeability) — قابلیت راستی‌آزمایی نظری‌ای که زیر شرایط به‌طور معقول پیش‌بینی‌پذیر عملاً دست‌یافتنی نیست غیرمنطبق است.
+- خوانده شود با: [تعریف‌های خوشه‌ای فصل پنجم (کوشش پیش‌بینی‌پذیری)](../../core_05.050_band_oversight.md#foreseeability) — کدورت ناشی از طراحی باید در برابر شرایط به‌طور معقول پیش‌بینی‌پذیر ارزیابی شود، نه عملیات بهترین‌حالت.
 
 </details>
 
-<strong><span style="color: #2563eb;">تعریف:</span></strong> [پیش‌بینی‌پذیری](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">تعریف:</span></strong> [پیش‌بینی‌پذیری](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *به زبان ساده: بخش 2 نقشهٔ ردگیری می‌خواهد — این بخش می‌خواهد نظام به‌قدر کافی از خودش آشکار کند که طرف‌های مجاز یا اثرپذیر بتوانند نقشه را در عمل بررسی کنند، نه فقط در نظریه. معماری مات، وابستگی‌های بیرونی، و مؤلفه‌های جعبه سیاه معافیت نمی‌گیرند.*
 
@@ -122,13 +122,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: [فصل چهارم، بخش 3 — الزام مشاهده‌پذیری ردگیری‌پذیری](#3-observability-of-traceability-requirement)؛ [فصل یکم، بخش 8.2 — قیدهای افشای معرفتی](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
-- پایین‌دست: [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](#5-compliance-evidence-standard)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — گونه‌های اطلاعات و رسیدگی**، و **CS-5** — رمزنگاری عملیاتی، اعتبارنامه‌ها، و رسیدگی گونه‌های اطلاعات.
-- خوانده شود با: [تعریف‌های خوشه‌ای فصل پنجم (کوشش پیش‌بینی‌پذیری)](../../core_05_band_oversight.md#foreseeability-diligence) — گزینش‌های طراحی که به‌طور پیش‌بینی‌پذیر راستی‌آزمایی را زیر شرایط به‌طور معقول پیش‌بینی‌پذیر مانع می‌شوند غیرمنطبق‌اند صرف‌نظر از توجیه امنیت اعلام‌شده؛ [فصل پنجم حقیقت (قید قانون اساسی)](../../core_05_band_oversight.md#truth-constitutional-constraint) و [فصل پنجم ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint) — رسیدگی رمزنگاری و گونه‌های اطلاعات نباید جای **بخش‌های 2**، **3**، یا **5** را بگیرد؛ **اصول VII-A**، **VII-B**، **XVI-A**، و **XVII-A** جایی که قیدهای جدایی محیط از نظر مادی مربوط‌اند.
+- بالادست: اصول: [فصل چهارم، بخش 3 — الزام مشاهده‌پذیری ردگیری‌پذیری](#3-الزام-مشاهدهپذیری-ردگیریپذیری)؛ [فصل یکم، بخش 8.2 — قیدهای افشای معرفتی](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+- پایین‌دست: [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](#5-استاندارد-شاهد-انطباق)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — گونه‌های اطلاعات و رسیدگی**، و **CS-5** — رمزنگاری عملیاتی، اعتبارنامه‌ها، و رسیدگی گونه‌های اطلاعات.
+- خوانده شود با: [تعریف‌های خوشه‌ای فصل پنجم (کوشش پیش‌بینی‌پذیری)](../../core_05.050_band_oversight.md#foreseeability) — گزینش‌های طراحی که به‌طور پیش‌بینی‌پذیر راستی‌آزمایی را زیر شرایط به‌طور معقول پیش‌بینی‌پذیر مانع می‌شوند غیرمنطبق‌اند صرف‌نظر از توجیه امنیت اعلام‌شده؛ [فصل پنجم حقیقت (قید قانون اساسی)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) و [فصل پنجم ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) — رسیدگی رمزنگاری و گونه‌های اطلاعات نباید جای **بخش‌های 2**، **3**، یا **5** را بگیرد؛ **اصول VII-A**، **VII-B**، **XVI-A**، و **XVII-A** جایی که قیدهای جدایی محیط از نظر مادی مربوط‌اند.
 
 </details>
 
-<strong><span style="color: #2563eb;">تعریف:</span></strong> [پیش‌بینی‌پذیری](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">تعریف:</span></strong> [پیش‌بینی‌پذیری](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *به زبان ساده: امنیت می‌تواند چگونه، کی، و برای چه کسی افشا یا حسابرسی رخ می‌دهد را تنگ کند — نمی‌تواند تکلیف ردگیری، راستی‌آزمایی، و اجازهٔ بررسی مستقل را پاک کند.*
 
@@ -149,16 +149,16 @@
 - آن تعیین مستقلاً توجیه و قابل‌حسابرسی باشد
 - روش باقی‌مانده یکپارچگی معرفتی کافی برای تعیین انطباق را حفظ کند
 
-رمزنگاری و رسیدگی گونه‌های اطلاعات باید با قانون اساسی و **[corpus_systems.md](../../corpus_systems.md)، CS-2 — گونه‌های اطلاعات و رسیدگی** هم‌راستا باشند؛ جایی که از نظر مادی مربوط‌اند، همچنان باید راستی‌آزمایی کامل انطباق زیر این فصل را اجازه دهند. رسیدگی رمزنگاری و گونه‌های اطلاعات نباید جای [حقیقت (قید قانون اساسی)](../../core_05_band_oversight.md#truth-constitutional-constraint) یا [ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint)، یا تکالیف **بخش‌های 2**، **3**، یا **5** را بگیرند.
+رمزنگاری و رسیدگی گونه‌های اطلاعات باید با قانون اساسی و **[corpus_systems.md](../../corpus_systems.md)، CS-2 — گونه‌های اطلاعات و رسیدگی** هم‌راستا باشند؛ جایی که از نظر مادی مربوط‌اند، همچنان باید راستی‌آزمایی کامل انطباق زیر این فصل را اجازه دهند. رسیدگی رمزنگاری و گونه‌های اطلاعات نباید جای [حقیقت (قید قانون اساسی)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) یا [ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)، یا تکالیف **بخش‌های 2**، **3**، یا **5** را بگیرند.
 
 <a id="5-compliance-evidence-standard"></a>
 ### 5. استاندارد شاهد انطباق
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: [فصل چهارم، بخش‌های 1 تا 4](#1-exclusive-enforcement-and-burden-allocation)؛ [فصل دوم، §1 — مقصود و نقش](core_02_definition_structure.md#1-purpose-and-role)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [فصل دوم، §3 سازگاری در سراسر پشتهٔ تعریف](core_02_definition_structure.md#3-consistency-across-the-definition-stack)؛ [فصل سوم، بخش 1 — یکپارچگی تعریف و قیدهای ضدگریز](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [فصل سوم، §2.6 قید یکپارچگی عدم‌قطعیت و منع بهره‌برداری](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — قواعد ماهوی تعریف و عدم‌انطباق؛ **§4** فقط الزامات لایهٔ شاهد را بیان می‌کند و آن قواعد را بازبیان نمی‌کند.
-- پایین‌دست: [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- خوانده شود با: [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](#2-definition-traceability-requirement) — شکست در فراخواندن یا درست اعمال کردن هر تعریف **فصل پنجم** از نظر مادی الزامی، ارزیابی، شاهد، و تعیین انطباق وابسته را به‌تمامی باطل می‌کند؛ [فصل یکم، §6 — حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) جایی که مقیاس‌بندی بر بده‌بستان میان بهزیستی حس‌مند و پایداری افق بلند اثر می‌گذارد؛ [فصل پنجم ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint)، [فصل پنجم حقیقت (قید قانون اساسی)](../../core_05_band_oversight.md#truth-constitutional-constraint)، و [فصل پنجم یکپارچگی معرفتی](../../core_05_band_oversight.md#epistemic-integrity) — هم‌راستایی شاهد علم‌آگاه برای ادعاهای تجربی، پیش‌بینانه، یا علّی.
+- بالادست: [فصل چهارم، بخش‌های 1 تا 4](#1-اجرای-انحصاری-و-تخصیص-بار)؛ [فصل دوم، §1 — مقصود و نقش](core_02_definition_structure.md#1-مقصود-و-نقش)؛ [فصل دوم، §2 الزام یکپارچگی تعریف](core_02_definition_structure.md#2-الزام-یکپارچگی-تعریف)؛ [فصل دوم، §3 سازگاری در سراسر پشتهٔ تعریف](core_02_definition_structure.md#3-سازگاری-در-سراسر-پشته-تعریف)؛ [فصل سوم، بخش 1 — یکپارچگی تعریف و قیدهای ضدگریز](core_03_definition_integrity.md#1-یکپارچگی-تعریف-و-قیدهای-ضدگریز)؛ [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](core_03_definition_integrity.md#2-عدمانطباق-از-رفتار-مشاهدهپذیر-نظام)؛ [فصل سوم، §2.6 قید یکپارچگی عدم‌قطعیت و منع بهره‌برداری](core_03_definition_integrity.md#26-قید-یکپارچگی-عدمقطعیت-و-منع-بهرهبرداری) — قواعد ماهوی تعریف و عدم‌انطباق؛ **§4** فقط الزامات لایهٔ شاهد را بیان می‌کند و آن قواعد را بازبیان نمی‌کند.
+- پایین‌دست: [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- خوانده شود با: [فصل چهارم، بخش 2 — الزام ردگیری‌پذیری تعریف](#2-الزام-ردگیریپذیری-تعریف) — شکست در فراخواندن یا درست اعمال کردن هر تعریف **فصل پنجم** از نظر مادی الزامی، ارزیابی، شاهد، و تعیین انطباق وابسته را به‌تمامی باطل می‌کند؛ [فصل یکم، §6 — حل تعارض فرایند](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) جایی که مقیاس‌بندی بر بده‌بستان میان بهزیستی حس‌مند و پایداری افق بلند اثر می‌گذارد؛ [فصل پنجم ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)، [فصل پنجم حقیقت (قید قانون اساسی)](../../core_05.050_band_oversight.md#truth-constitutional-constraint)، و [فصل پنجم یکپارچگی معرفتی](../../core_05.050_band_oversight.md#epistemic-integrity) — هم‌راستایی شاهد علم‌آگاه برای ادعاهای تجربی، پیش‌بینانه، یا علّی.
 
 </details>
 
@@ -178,21 +178,21 @@
 - برای ادعاهای **تجربی**، **پیش‌بینانه**، یا **علّی** مادی برای انطباق، رده‌بندی، یا حکمرانی، **یکپارچگی علمی** را جایی که متناسب است بازتاب دهد — روش‌های آزمون‌پذیر یا قابل‌بازبینی، فرض‌ها و حدهای مستندشده، بدون سرکوب نتایج پوچ یا تکرارهای شکست‌خورده جایی که بر تصمیم‌ها اثر می‌گذارند، و نتیجه‌گیری‌های بازنگری‌پذیر با شاهد تازه
 
 **موارد زیر بار اثبات زیر بخش 1 را برآورده نمی‌کنند:**
-- شکست در برآوردن هر تعریف یا مؤلفهٔ الزامی زیر [فصل دوم، §2.1 شرایط مرکزی یکپارچگی](core_02_definition_structure.md#21-core-integrity-conditions)، یا عدم‌انطباق زیر [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — که همهٔ ادعاهای انطباق وابسته زیر این فصل را باطل می‌کند
+- شکست در برآوردن هر تعریف یا مؤلفهٔ الزامی زیر [فصل دوم، §2.1 شرایط مرکزی یکپارچگی](core_02_definition_structure.md#21-شرایط-مرکزی-یکپارچگی)، یا عدم‌انطباق زیر [فصل سوم، بخش 2 — عدم‌انطباق از رفتار مشاهده‌پذیر نظام](core_03_definition_integrity.md#2-عدمانطباق-از-رفتار-مشاهدهپذیر-نظام) — که همهٔ ادعاهای انطباق وابسته زیر این فصل را باطل می‌کند
 - شکست در فراهم کردن شاهد الزامی جایی که وجود دارد یا زیر این فصل الزامی است
-- اثبات فقط‌جانشین، خودگواهی‌شده، جزئی، یا با گسترهٔ گزینشی که اگر به‌عنوان نمایش انطباق نظام دانسته شود زیر [فصل سوم، بخش 2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) غیرمنطبق می‌بود
+- اثبات فقط‌جانشین، خودگواهی‌شده، جزئی، یا با گسترهٔ گزینشی که اگر به‌عنوان نمایش انطباق نظام دانسته شود زیر [فصل سوم، بخش 2](core_03_definition_integrity.md#2-عدمانطباق-از-رفتار-مشاهدهپذیر-نظام) غیرمنطبق می‌بود
 - شاهد ناکافی برای برآوردن الزامات **شاهد باید** بالا
 
-جایی که عدم‌قطعیت مانع نمایش قطعی انطباق برای مؤلفه‌های تعریف از نظر مادی مربوط شود، [فصل سوم، §2.6 قید یکپارچگی عدم‌قطعیت و منع بهره‌برداری](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) را اعمال کنید. جایی که بار اثبات برآورده نشود، پیش‌فرض وضعیت **غیرمنطبق** است.
+جایی که عدم‌قطعیت مانع نمایش قطعی انطباق برای مؤلفه‌های تعریف از نظر مادی مربوط شود، [فصل سوم، §2.6 قید یکپارچگی عدم‌قطعیت و منع بهره‌برداری](core_03_definition_integrity.md#26-قید-یکپارچگی-عدمقطعیت-و-منع-بهرهبرداری) را اعمال کنید. جایی که بار اثبات برآورده نشود، پیش‌فرض وضعیت **غیرمنطبق** است.
 
 <a id="6-relationship-to-system-alignment-certification"></a>
 ### 6. رابطه با گواهی هم‌راستایی نظام
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: [فصل دوم — ساختار تعریف و الزامات مؤلفه‌ها](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [فصل سوم — یکپارچگی تعریف، گریز، و عدم‌انطباق](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [فصل چهارم، بخش‌های 1 تا 5](#1-exclusive-enforcement-and-burden-allocation).
-- پایین‌دست: [فصل نهم — گواهی هم‌راستایی نظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- خوانده شود با: [فصل نهم §7 — پیامدهای گواهی](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) — عدم‌انطباق راستی‌آزمایی‌شده زیر فصل‌های دوم تا چهارم می‌تواند گواهی را بازگشاید یا شکست دهد صرف‌نظر از گواهی پیشین.
+- بالادست: [فصل دوم — ساختار تعریف و الزامات مؤلفه‌ها](core_02_definition_structure.md#فصل-دوم-ساختار-تعریف-و-الزامات-مؤلفهها)؛ [فصل سوم — یکپارچگی تعریف، گریز، و عدم‌انطباق](core_03_definition_integrity.md#فصل-سوم-یکپارچگی-تعریف-گریز-و-عدمانطباق)؛ [فصل چهارم، بخش‌های 1 تا 5](#1-اجرای-انحصاری-و-تخصیص-بار).
+- پایین‌دست: [فصل نهم — گواهی هم‌راستایی نظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [فصل دهم — مدل همیاری، تخلف، و ردپا](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- خوانده شود با: [فصل نهم §7 — پیامدهای گواهی](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) — عدم‌انطباق راستی‌آزمایی‌شده زیر فصل‌های دوم تا چهارم می‌تواند گواهی را بازگشاید یا شکست دهد صرف‌نظر از گواهی پیشین.
 
 </details>
 
@@ -203,13 +203,13 @@
 این بخش **غیرعملیاتی** است. فقط یک **مرز لایه** را بیان می‌کند.
 
 **فصل‌های دوم، سوم، و چهارم** زیربنای تعریف و راستی‌آزمایی پابرجا را می‌دهند:
-- **[فصل دوم](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)** — تعریف‌ها چگونه ساخته و از درون سازگار نگه داشته می‌شوند (O/M/A/C)
-- **[فصل سوم](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)** — تعریف‌ها چگونه بر رفتار واقعی اعمال می‌شوند، از جمله عدم‌انطباق و گریز
-- **[فصل چهارم](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)** (بخش‌های **1** تا **5**) — بار اثبات، نقشه‌های ردگیری، مشاهده‌پذیری، حدهای امنیت، و استانداردهای شاهد
+- **[فصل دوم](core_02_definition_structure.md#فصل-دوم-ساختار-تعریف-و-الزامات-مؤلفهها)** — تعریف‌ها چگونه ساخته و از درون سازگار نگه داشته می‌شوند (O/M/A/C)
+- **[فصل سوم](core_03_definition_integrity.md#فصل-سوم-یکپارچگی-تعریف-گریز-و-عدمانطباق)** — تعریف‌ها چگونه بر رفتار واقعی اعمال می‌شوند، از جمله عدم‌انطباق و گریز
+- **[فصل چهارم](core_04_burden_traceability_verification.md#فصل-چهارم-بار-اثبات-ردگیریپذیری-و-راستیآزمایی)** (بخش‌های **1** تا **5**) — بار اثبات، نقشه‌های ردگیری، مشاهده‌پذیری، حدهای امنیت، و استانداردهای شاهد
 
 این‌ها هرجا انطباق ارزیابی شود اعمال می‌شوند — با گواهی یا بدون آن.
 
-**[فصل نهم — گواهی هم‌راستایی نظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** **فرایند گواهی** تحت نظارت مجمع را جایی که مادی است می‌دهد: حوزه‌های ارزیابی کل‌نظام، تکالیف سابقهٔ گواهی، پیامدهای گواهی، دورهٔ تجدید گواهی، زنجیرهٔ قابلیت اعتراض، و پل ورودی راستی‌آزمایی‌شده به فصل دهم. فصل‌های دوم تا چهارم را **اعمال می‌کند**؛ **بازبیان‌شان نمی‌کند**.
+**[فصل نهم — گواهی هم‌راستایی نظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** **فرایند گواهی** تحت نظارت مجمع را جایی که مادی است می‌دهد: حوزه‌های ارزیابی کل‌نظام، تکالیف سابقهٔ گواهی، پیامدهای گواهی، دورهٔ تجدید گواهی، زنجیرهٔ قابلیت اعتراض، و پل ورودی راستی‌آزمایی‌شده به فصل دهم. فصل‌های دوم تا چهارم را **اعمال می‌کند**؛ **بازبیان‌شان نمی‌کند**.
 
 خوانندگان نباید این‌ها را چنین بدانند:
 - یک **سابقهٔ گواهی** را جانشین انطباق جاری زیر فصل‌های دوم تا چهارم
@@ -222,4 +222,4 @@
 
 **پروندهٔ بعدی (این زبان):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**اصل الزام‌آور:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)
+**اصل الزام‌آور:** [core_04_burden_traceability_verification.md](../../core_04.000_burden_traceability_verification.md)

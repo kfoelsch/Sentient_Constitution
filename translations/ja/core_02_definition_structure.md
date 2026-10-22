@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">コーパス上の位置（非操作性）：ファイル構造と読み方</span></strong></summary>
 
-> 本ファイルは[英語第二章](../../core_02_definition_structure.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_02_definition_structure.md`](../../core_02_definition_structure.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
+> 本ファイルは[英語第二章](../../core_02.000_definition_structure.md)の**読者言語パイロット**である。**感知者憲法の拘束力ある部分ではない**。**第二の憲法ではない**。**配布版ではない**。`SC-Corpus-2026.08.09` に**固定**されている。本訳文と英語原文が食い違って見える場合、番号付きファイル [`core_02_definition_structure.md`](../../core_02.000_definition_structure.md) が勝つ。読み順と版のメタデータは [README.md](../../README.md) に保たれる。方法と用語表：[translations/ja/README.md](README.md)。
 >
 > **前（本言語）：** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
@@ -17,11 +17,11 @@
 <summary><strong><span style="color: #2563eb;">読者案内（非操作性）：定義スタックと第二章の位置</span></strong></summary>
 
 > **第二から第五章**は憲法上の定義スタックをなす。[**CJS**](../../corpus_joint_structure.md) はそれを適用する運用定義を運ぶ：
-> - **第二章（本ファイル）** — O/M/A/C の定義構造と構成要素の整合：すべての定義は、**存在論（O）**（それが何か）、**評価（A）**義務と織り合わせられた**測定（M）**登録（どう測定され評価されなければならないか）、および**遵守（C）**（何が成り立たなければならないか）を結ぶ（[§1 目的と役割](core_02_definition_structure.md#1-purpose-and-role)；[§2 定義の誠実性要件](core_02_definition_structure.md#2-definition-integrity-requirement)）。
-> - **第三章** — 定義の誠実性、回避、不遵守（[第三章](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)）。
-> - **第四章** — 証明の負担、定義の追跡可能性、観測可能性、安全限度のもとでの検証、検証のアクセス可能性（[第四章 — 証明の負担、追跡可能性、検証](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)）。
-> - **第五章** — 測定、評価、遵守のための共有語彙（五つの四元帯ファイルと憲法上の目的ファイルを通じた第 1–3 節の独立、グループ、パッケージの定義：[繁栄目的](core_05_apex_flourishing_aim.md)、[監督](../../core_05_band_oversight.md)、[参加](../../core_05_band_participation.md)、[説明責任](../../core_05_band_accountability.md)、[継続](../../core_05_band_continuity.md)、[統合](../../core_05_band_integrative.md)）；読み順と地図は [A部](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
-> - **CJS** — 実施横断用語の運用定義（[CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 運用クラスターライブラリ）；第五章の典範の本拠を適用する — 再定義しない。**CS**、**CI**、**CF** における領域分類とプロトコルも同じ規則に従う。
+> - **第二章（本ファイル）** — O/M/A/C の定義構造と構成要素の整合：すべての定義は、**存在論（O）**（それが何か）、**評価（A）**義務と織り合わせられた**測定（M）**登録（どう測定され評価されなければならないか）、および**遵守（C）**（何が成り立たなければならないか）を結ぶ（[§1 目的と役割](core_02_definition_structure.md#1-目的と役割)；[§2 定義の誠実性要件](core_02_definition_structure.md#2-定義の誠実性要件)）。
+> - **第三章** — 定義の誠実性、回避、不遵守（[第三章](core_03_definition_integrity.md#第三章定義の誠実性回避不遵守)）。
+> - **第四章** — 証明の負担、定義の追跡可能性、観測可能性、安全限度のもとでの検証、検証のアクセス可能性（[第四章 — 証明の負担、追跡可能性、検証](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)）。
+> - **第五章** — 測定、評価、遵守のための共有語彙（五つの四元帯ファイルと憲法上の目的ファイルを通じた第 1–3 節の独立、グループ、パッケージの定義：[繁栄目的](core_05_apex_flourishing_aim.md)、[監督](../../core_05.050_band_oversight.md)、[参加](../../core_05.055_band_participation.md)、[説明責任](../../core_05.035_band_accountability.md)、[継続](../../core_05.040_band_continuity.md)、[統合](../../core_05.045_band_integrative.md)）；読み順と地図は [A部](core_05__definitions_home.md#第五章の羅針と定義地図)。
+> - **CJS** — 実施横断用語の運用定義（[CJS-5.105](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 運用クラスターライブラリ）；第五章の典範の本拠を適用する — 再定義しない。**CS**、**CI**、**CF** における領域分類とプロトコルも同じ規則に従う。
 >
 > さらなる案内：
 > - **再配置禁止規則：** 手続的ワークフロー、執行の仕組み、定義的範囲を超える分類スキーマは、本章に吸収してはならない。
@@ -32,7 +32,7 @@
 
 第二章は、**定義の構造と構成要素の整合**の憲法上の所管者である。
 
-*平たい言葉で言えば：第二から第五章は憲法上の定義スタックである — 組み立て（二）、誠実に保つ（三）、点検する（四）、名指す（五）。第二章は、各定義を連関した部分から組み立てる — 用語が何か（O）、どう測定され評価されなければならないか（評価と織り合わせられた測定登録、M/A）、実務で何が成り立たなければならないか（C）。実施横断の運用定義は [CJS](../../corpus_joint_structure.md) に住む（[CJS-3 — 実施横断の運用用語](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)）；それらは第五章の用語を適用し、再定義しない。*
+*平たい言葉で言えば：第二から第五章は憲法上の定義スタックである — 組み立て（二）、誠実に保つ（三）、点検する（四）、名指す（五）。第二章は、各定義を連関した部分から組み立てる — 用語が何か（O）、どう測定され評価されなければならないか（評価と織り合わせられた測定登録、M/A）、実務で何が成り立たなければならないか（C）。実施横断の運用定義は [CJS](../../corpus_joint_structure.md) に住む（[CJS-5.105 — 実施横断の運用用語](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)）；それらは第五章の用語を適用し、再定義しない。*
 
 <br>
 
@@ -43,16 +43,16 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[前文 §1 モデル](core_00_preamble.md#the-model) — [憲法四元](core_00_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、[実質的利害](core_00_preamble.md#material-stake)による尺度合わせは、各節の追跡を通じて全章に適用される；[第一章 §1 目的と役割](core_01_a_values_principles.md#1-purpose-and-role)（*この定義スタックが仕える価値と制約*）。
-- 上流：[第二章の冒頭](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C の分解と内部整合の要件。
+- 上流：[第二章の冒頭](#第二章定義の構造と構成要素の要件) — O/M/A/C の分解と内部整合の要件。
 - 四元の脚：**監督**、**説明責任**（定義は、観察可能な振る舞いに対して評価可能かつ執行可能でなければならない）。第一次の目的：**繁栄**と**継続**。[実質的利害](core_00_preamble.md#material-stake)による尺度合わせは全章に適用される。
-- 下流：[§1.2 測定構成要素](#12-measurement-components)および [§1.3 評価構成要素](#13-assessment-components)（*評価義務と織り合わせられた測定（M）登録；本章における O/M/A/C の入口の形*）；[§2 定義の誠実性要件](#2-definition-integrity-requirement)；[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章、第 1 節 — 排他的執行と負担の割当](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第五章の羅針と定義地図](core_05__definitions_home.md#chapter-five-compass-and-definition-map)。
-- あわせて読む：[前文 — 積極的所管登録](core_00_preamble.md#4-principles-definitions-and-rights)および [権限スタックと内部階層](../../core_05_band_integrative.md#authority-stack)；[憲法上の制約](../../core_05_band_integrative.md#constitutional-constraint) — 後の執行、統治、実施、測定、監査、分類の仕組みは遵守しなければならない；[CJS-3.1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — 運用定義は第五章の典範の本拠を適用し、再定義してはならない。
+- 下流：[§1.2 測定構成要素](#12-measurement-components)および [§1.3 評価構成要素](#13-assessment-components)（*評価義務と織り合わせられた測定（M）登録；本章における O/M/A/C の入口の形*）；[§2 定義の誠実性要件](#2-定義の誠実性要件)；[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-定義の誠実性と回避防止の制約)；[第四章、第 1 節 — 排他的執行と負担の割当](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第五章の羅針と定義地図](core_05__definitions_home.md#第五章の羅針と定義地図)。
+- あわせて読む：[前文 — 積極的所管登録](core_00_preamble.md#4-原則定義権利)および [権限スタックと内部階層](../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy)；[憲法上の制約](../../core_05.045_band_integrative.md#constitutional-constraint) — 後の執行、統治、実施、測定、監査、分類の仕組みは遵守しなければならない；[CJS-5.105 §1 憲法の羅針とクラスター地図](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — 運用定義は第五章の典範の本拠を適用し、再定義してはならない。
 
 </details>
 
 <br>
 
-*平たい言葉で言えば：本節は第二章の職務記述である。それは定義スタックの第一層を所管する：すべての憲法定義は連関した部分から組み立てられる — 用語が何か（O）、どう測定され評価されなければならないか（評価と織り合わせられた測定登録、M/E）、実務で何が成り立たなければならないか（C） — そしてそれらの部分は整合したままでいなければならない。一つを満たしつつ他を迂回することは数えない。執行、統治、測定の運用は後の章に住み、本章が確立することを遵守しなければならない。*
+*平たい言葉で言えば：本節は第二章の職務記述である。それは定義スタックの第一層を所管する：すべての憲法定義は連関した部分から組み立てられる — 用語が何か（O）、どう測定され評価されなければならないか（評価と織り合わせられた測定登録、M/A）、実務で何が成り立たなければならないか（C） — そしてそれらの部分は整合したままでいなければならない。一つを満たしつつ他を迂回することは数えない。執行、統治、測定の運用は後の章に住み、本章が確立することを遵守しなければならない。*
 
 すべての憲法定義は、連関した部分から組み立てられなければならない。各部分にはちょうど一つの仕事がある：
 - **存在論（O）** — その用語が何についてのものか。
@@ -60,7 +60,7 @@
 - **評価（A）** — その用語がどう評価されなければならないか。第五章の葉定義では、**測定（M）**登録は**評価（A）**構成要素に織り込まれる。[§1.3 評価構成要素](#13-assessment-components)を見よ。
 - **遵守（C）** — 実務で何が真でなければならないか。
 
-それらの部分は、各定義の内側で一貫したままでいなければならない。執行、統治、実施、測定の運用、監査、定義的範囲を超える分類の仕組みは後の章に属する；それらは、ここで確立された[憲法上の制約](../../core_05_band_integrative.md#constitutional-constraint)を遵守しなければならない。
+それらの部分は、各定義の内側で一貫したままでいなければならない。執行、統治、実施、測定の運用、監査、定義的範囲を超える分類の仕組みは後の章に属する；それらは、ここで確立された[憲法上の制約](../../core_05.045_band_integrative.md#constitutional-constraint)を遵守しなければならない。
 
 すべての定義は、システムが実際に走る全体について満たされなければならない — 感知者、機械、場所にまたがるシステムを含む。O、M、A、C の部分は、同じ範囲のうえで、同じ試験条件のもとで、ともに通らなければならない。システムの切れ端を切り出し、何が数えるかを狭め、または他の部分を弱めることで一部分だけを通すことは数えない。
 
@@ -118,8 +118,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：[第二章の冒頭](#chapter-two-definition-structure-and-component-requirements)；[§1 目的と役割](#1-purpose-and-role) — O/M/A/C 分解の内側での A 構成要素の役割。
-- 下流：[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章、第 1 節 — 排他的執行と負担の割当](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 第二・第三章で定義された評価要件についての排他的執行の指名された経路；[第四章、第 5 節 — 遵守証拠の標準](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — その執行についての証拠の十分性。
+- 上流：原則：[第二章の冒頭](#第二章定義の構造と構成要素の要件)；[§1 目的と役割](#1-目的と役割) — O/M/A/C 分解の内側での A 構成要素の役割。
+- 下流：[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-定義の誠実性と回避防止の制約)；[第四章、第 1 節 — 排他的執行と負担の割当](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 第二・第三章で定義された評価要件についての排他的執行の指名された経路；[第四章、第 5 節 — 遵守証拠の標準](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) — その執行についての証拠の十分性。
 - あわせて読む：[第五章の独立定義](core_05__definitions_home.md#1-interdependent-definitions) — 評価の範囲と条件を統治する適用可能な定義；評価要件は、その入場範囲の内側で、適用されるすべての第五章定義と一貫して適用される。
 
 </details>
@@ -188,9 +188,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：[§1 目的と役割](#1-purpose-and-role) — O/M/A/C 構成要素構造とシステム全体の共同充足規則。
-- 下流：[§2.4 曖昧さのもとでの解釈規則](#24-interpretation-rule-under-ambiguity)；[§3 定義スタックを通じた一貫性](#3-consistency-across-the-definition-stack)；[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)；[第四章、第 1 節 — 排他的執行と負担の割当](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第四章、第 5 節 — 遵守証拠の標準](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)。
-- あわせて読む：[第五章のクラスター定義（予見可能性の勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 第二から第四章におけるすべての「合理的に予見可能な」の操作性の意味。
+- 上流：[§1 目的と役割](#1-目的と役割) — O/M/A/C 構成要素構造とシステム全体の共同充足規則。
+- 下流：[§2.4 曖昧さのもとでの解釈規則](#24-曖昧さのもとでの解釈規則)；[§3 定義スタックを通じた一貫性](#3-定義スタックを通じた一貫性)；[第三章、第 1 節 — 定義の誠実性と回避防止の制約](core_03_definition_integrity.md#1-定義の誠実性と回避防止の制約)；[第四章、第 1 節 — 排他的執行と負担の割当](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation)；[第四章、第 5 節 — 遵守証拠の標準](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard)。
+- あわせて読む：[第五章のクラスター定義（予見可能性の勤勉）](../../core_05.050_band_oversight.md#foreseeability) — 第二から第四章におけるすべての「合理的に予見可能な」の操作性の意味。
 
 </details>
 
@@ -200,7 +200,7 @@
 
 <a id="21-core-integrity-conditions"></a>
 #### 2.1 中核的誠実性の条件
-すべての定義は、適用されるときにまとまって成り立たなければならない。[§1 目的と役割](#1-purpose-and-role)が求める連関した部分は、次でなければならない：
+すべての定義は、適用されるときにまとまって成り立たなければならない。[§1 目的と役割](#1-目的と役割)が求める連関した部分は、次でなければならない：
 - なお互いに一致する
 - すべてがともに満たされる；一つまたは二つを満たすだけでは足りない
 - 同じシステムのうえで、同じ条件のもとで満たされる — 狭い切れ端で一部分を通し、別の切れ端で他の部分を通すことはできない
@@ -219,7 +219,7 @@
 定義は、次のように書かれなければならない：
 - すべての部分（O, M, E, C）は、システムが実際に振る舞い、実際に産出することを反映する条件のもとで、ともにしか満たされえない
 - いかなる部分も、一般化し、物事を分割し、範囲を狭め、または実際に大切なシステム要素、相互作用、効果を外す記述によって満たされてはならない
-- いかなる測定も、それが捉えるべき結果の代わりに立ってはならない；それが表す実世界の結果から乖離する測定（[代替指標の乖離](../../core_05_band_oversight.md#proxy-divergence)を見よ）は定義を満たせず、測定の選択は、評価されなければならないもの、または実務で成り立たなければならないものを縮めてはならない
+- いかなる測定も、それが捉えるべき結果の代わりに立ってはならない；それが表す実世界の結果から乖離する測定（[代替指標の乖離](../../core_05.050_band_oversight.md#proxy-divergence)を見よ）は定義を満たせず、測定の選択は、評価されなければならないもの、または実務で成り立たなければならないものを縮めてはならない
 - 述べられていない仮定、隠れた依存、または外された条件は、評価されなければならないもの、または実務で成り立たなければならないものを変え、または弱めてはならない
 
 <a id="24-interpretation-rule-under-ambiguity"></a>
@@ -237,13 +237,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：[§2 定義の誠実性要件](#2-definition-integrity-requirement)；[§1 目的と役割](#1-purpose-and-role)。
-- 下流：[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)；[第四章、第 2 節 — 定義の追跡可能性要件](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement)；第五章への行内ポインタなしに「合理的に予見可能な」が現れる第四章の節 **4.1**、**3**、**5**、**6**。
-- あわせて読む：[第五章のクラスター定義（予見可能性の勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 第二から第四章におけるすべての「合理的に予見可能な」を統治する規則；操作性の意味は [合理的に予見可能な](../../core_05_band_oversight.md#reasonably-foreseeable)（第五章、第 3 節 — 依存クラスター（真理と認識的誠実性クラスター；予見可能性の勤勉））。
+- 上流：原則：[§2 定義の誠実性要件](#2-定義の誠実性要件)；[§1 目的と役割](#1-目的と役割)。
+- 下流：[第三章、第 2 節 — 観察可能なシステム振る舞いからの不遵守](core_03_definition_integrity.md#2-観察可能なシステム振る舞いからの不遵守)；[第四章、第 2 節 — 定義の追跡可能性要件](../../core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement)；第五章への行内ポインタなしに「合理的に予見可能な」が現れる第四章の節 **4.1**、**3**、**5**、**6**。
+- あわせて読む：[第五章のクラスター定義（予見可能性の勤勉）](../../core_05.050_band_oversight.md#foreseeability) — 第二から第四章におけるすべての「合理的に予見可能な」を統治する規則；操作性の意味は [合理的に予見可能な](../../core_05.050_band_oversight.md#reasonably-foreseeable)（第五章、第 3 節 — 依存クラスター（真理と認識的誠実性クラスター；予見可能性の勤勉））。
 
 </details>
 
-<strong><span style="color: #2563eb;">定義：</span></strong> [予見可能性](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">定義：</span></strong> [予見可能性](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *平たい言葉で言えば：定義は紙の上でまとまって成り立つだけでは足りない — 実世界の定義スタックを通じてまとまって成り立たなければならない。その部分は、通常、劣化した、敵対的な運用を通じて、時間を通じて、接続されたシステムを通じて、合理的に見通せたすべての状況で、その文言のすべての公正な読みのもとで、同じ仕方で並ばなければならない。*
 
@@ -260,4 +260,4 @@
 
 **次のファイル（本言語）：** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**拘束力ある原文：** [core_02_definition_structure.md](../../core_02_definition_structure.md)
+**拘束力ある原文：** [core_02_definition_structure.md](../../core_02.000_definition_structure.md)

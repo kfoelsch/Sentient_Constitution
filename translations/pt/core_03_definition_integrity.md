@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Três em inglês](../../core_03_definition_integrity.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_03_definition_integrity.md`](../../core_03_definition_integrity.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
+> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Três em inglês](../../core_03.000_definition_integrity.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_03_definition_integrity.md`](../../core_03.000_definition_integrity.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_02_definition_structure.md](core_02_definition_structure.md)
 >
@@ -36,8 +36,8 @@ O Capítulo Três é o titular constitucional da **integridade da definição, d
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: [Capítulo Dois, §1 — Propósito e papel](core_02_definition_structure.md#1-purpose-and-role); [Capítulo Dois, §2 Exigência de integridade da definição](core_02_definition_structure.md#2-definition-integrity-requirement).
-- Destino: [Capítulo Três, seção 2 — Não conformidade a partir de conduta observável do sistema](#2-non-compliance-from-observable-system-behavior); [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Origem: Princípios: [Capítulo Dois, §1 — Propósito e papel](core_02_definition_structure.md#1-propósito-e-papel); [Capítulo Dois, §2 Exigência de integridade da definição](core_02_definition_structure.md#2-exigência-de-integridade-da-definição).
+- Destino: [Capítulo Três, seção 2 — Não conformidade a partir de conduta observável do sistema](#2-não-conformidade-a-partir-de-conduta-observável-do-sistema); [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](core_04_burden_traceability_verification.md#2-exigência-de-rastreabilidade-da-definição); [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#5-padrão-de-evidência-de-conformidade); [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - Ler com: [Capítulo Um, seção 3.2 — Verdade (restrição de integridade epistêmica)](core_01_a_values_principles.md#5-verdade-restrição-de-integridade-epistêmica) — a interpretação baseada em conduta observável em vez de estrutura ou intenção declarada operacionaliza a restrição constitucional de verdade na camada de integridade da definição.
 
 </details>
@@ -45,31 +45,31 @@ O Capítulo Três é o titular constitucional da **integridade da definição, d
 <details>
 <summary><strong><span style="color: #2563eb;">Índice do Capítulo Três (não operativo): ligações alfabéticas aos cabeçalhos deste capítulo</span></strong></summary>
 
-[Restrição de integridade de âmbito entre componentes](#23-cross-component-scope-integrity-constraint)
+[Restrição de integridade de âmbito entre componentes](#23-restrição-de-integridade-de-âmbito-entre-componentes)
 
-[Restrição de integridade de interação entre sistemas](#24-cross-system-interaction-integrity-constraint)
+[Restrição de integridade de interação entre sistemas](#24-restrição-de-integridade-de-interação-entre-sistemas)
 
-[Integridade da definição e restrições antievasão](#1-definition-integrity-and-anti-evasion-constraints)
+[Integridade da definição e restrições antievasão](#1-integridade-da-definição-e-restrições-antievasão)
 
-[Perfis de achado de não conformidade](#3-non-compliance-finding-profiles)
+[Perfis de achado de não conformidade](#3-perfis-de-achado-de-não-conformidade)
 
-[Restrições operacionais](#34-operational-constraints)
+[Restrições operacionais](#34-restrições-operacionais)
 
-[Efeitos de trajetória para sistemas já certificados](#31-standing-effects-for-already-certified-systems)
+[Efeitos de trajetória para sistemas já certificados](#31-efeitos-de-trajetória-para-sistemas-já-certificados)
 
-[Efeitos de trajetória na primeira certificação](#32-standing-effects-at-first-certification)
+[Efeitos de trajetória na primeira certificação](#32-efeitos-de-trajetória-na-primeira-certificação)
 
-[Efeitos de trajetória para sencientes e instituições](#33-standing-effects-for-sentients-and-institutions)
+[Efeitos de trajetória para sencientes e instituições](#33-efeitos-de-trajetória-para-sencientes-e-instituições)
 
-[Não conformidade a partir de conduta observável do sistema](#2-non-compliance-from-observable-system-behavior)
+[Não conformidade a partir de conduta observável do sistema](#2-não-conformidade-a-partir-de-conduta-observável-do-sistema)
 
-[Padrões comuns de evasão](#21-common-evasion-patterns)
+[Padrões comuns de evasão](#21-padrões-comuns-de-evasão)
 
-[Evasão redutiva](#22-reductive-evasion)
+[Evasão redutiva](#22-evasão-redutiva)
 
-[Restrição de integridade temporal e de continuidade](#25-temporal-integrity-and-continuity-constraint)
+[Restrição de integridade temporal e de continuidade](#25-restrição-de-integridade-temporal-e-de-continuidade)
 
-[Restrição de integridade da incerteza e de não exploração](#26-uncertainty-integrity-and-non-exploitation-constraint)
+[Restrição de integridade da incerteza e de não exploração](#26-restrição-de-integridade-da-incerteza-e-de-não-exploração)
 
 </details>
 
@@ -78,7 +78,7 @@ O Capítulo Três é o titular constitucional da **integridade da definição, d
 Esta seção governa como as definições devem ser interpretadas e aplicadas na prática.
 
 - As definições devem ser interpretadas e aplicadas com base na conduta observável do sistema e nos resultados sob condições funcionais plenas do sistema.
-- Interpretações, construções e condutas de sistema que solapam o âmbito semântico, de avaliação e de conformidade completos das definições — correspondentes a seus componentes Ontológico (O), de Avaliação (A) e de Conformidade (C) — são proibidas; a [**Seção 2**](#2-non-compliance-from-observable-system-behavior) deste capítulo especifica a não conformidade a partir de conduta observável e evasão.
+- Interpretações, construções e condutas de sistema que solapam o âmbito semântico, de avaliação e de conformidade completos das definições — correspondentes a seus componentes Ontológico (O), de Avaliação (A) e de Conformidade (C) — são proibidas; a [**Seção 2**](#2-não-conformidade-a-partir-de-conduta-observável-do-sistema) deste capítulo especifica a não conformidade a partir de conduta observável e evasão.
 - A equivalência funcional prevalece sobre o nome, a estrutura, a decomposição, a representação ou a intenção declarada; os resultados que um sistema produz governam como ele é classificado e avaliado.
 
 Esta seção não define padrões de avaliação, suficiência de evidência nem ônus da prova, que são governados exclusivamente pelo **Capítulo Dois, seção 1** e pelo **Capítulo Quatro, seções 1 e 4**.
@@ -88,9 +88,9 @@ Esta seção não define padrões de avaliação, suficiência de evidência nem
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: [Capítulo Três, seção 1 — Integridade da definição e restrições antievasão](#1-definition-integrity-and-anti-evasion-constraints); [Capítulo Dois, §2 Exigência de integridade da definição](core_02_definition_structure.md#2-definition-integrity-requirement); [Capítulo Dois, §2.2 Não conformidade por enfraquecimento estrutural ou aplicado](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening).
-- Destino: catálogos de tipos nas seções [2.1](#21-common-evasion-patterns) a [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint); [3. Perfis de achado de não conformidade](#3-non-compliance-finding-profiles); [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [Capítulo Quatro, seção 3 — Exigência de observabilidade da rastreabilidade](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [Capítulo Nove §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*ponteiro de reabertura da certificação de alinhamento do sistema e antievasão*); [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Ler com: [Capítulo Dois, §1 — Propósito e papel](core_02_definition_structure.md#1-purpose-and-role) para a regra de satisfação conjunta sob condições funcionais plenas do sistema; [Capítulo Dois, §2.4 Regra de interpretação sob ambiguidade](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — interpretações que enfraquecem as salvaguardas, encolhem o que deve ser avaliado ou pioram os resultados do mundo real são inválidas; [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — a evidência deve demonstrar conformidade sob as regras desta seção; prova que seria não conforme aqui falha o ônus da prova; [Não conformidade](../../core_05_band_integrative.md#non-compliance).
+- Origem: Princípios: [Capítulo Três, seção 1 — Integridade da definição e restrições antievasão](#1-integridade-da-definição-e-restrições-antievasão); [Capítulo Dois, §2 Exigência de integridade da definição](core_02_definition_structure.md#2-exigência-de-integridade-da-definição); [Capítulo Dois, §2.2 Não conformidade por enfraquecimento estrutural ou aplicado](core_02_definition_structure.md#22-não-conformidade-por-enfraquecimento-estrutural-ou-aplicado).
+- Destino: catálogos de tipos nas seções [2.1](#21-padrões-comuns-de-evasão) a [2.6](#26-restrição-de-integridade-da-incerteza-e-de-não-exploração); [3. Perfis de achado de não conformidade](#3-perfis-de-achado-de-não-conformidade); [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#5-padrão-de-evidência-de-conformidade); [Capítulo Quatro, seção 3 — Exigência de observabilidade da rastreabilidade](core_04_burden_traceability_verification.md#3-exigência-de-observabilidade-da-rastreabilidade); [Capítulo Nove §7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) (*ponteiro de reabertura da certificação de alinhamento do sistema e antievasão*); [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Ler com: [Capítulo Dois, §1 — Propósito e papel](core_02_definition_structure.md#1-propósito-e-papel) para a regra de satisfação conjunta sob condições funcionais plenas do sistema; [Capítulo Dois, §2.4 Regra de interpretação sob ambiguidade](core_02_definition_structure.md#24-regra-de-interpretação-sob-ambiguidade) — interpretações que enfraquecem as salvaguardas, encolhem o que deve ser avaliado ou pioram os resultados do mundo real são inválidas; [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#5-padrão-de-evidência-de-conformidade) — a evidência deve demonstrar conformidade sob as regras desta seção; prova que seria não conforme aqui falha o ônus da prova; [Não conformidade](../../core_05.045_band_integrative.md#non-compliance).
 
 </details>
 
@@ -124,7 +124,7 @@ As subseções de tipo abaixo catalogam padrões comuns. Não substituem a regra
 <a id="21-common-evasion-patterns"></a>
 #### 2.1 Padrões comuns de evasão
 
-*Em termos simples: estas são formas comuns de um sistema parecer conforme sem de fato cumprir a definição — medidas trocadas, papelada falsa, âmbito recortado ou incentivos que empurram todos para longe da conformidade. A lista não é fechada. Os tipos podem ocorrer juntos. Encolher o que a definição significa está coberto em [§2.2](#22-reductive-evasion).*
+*Em termos simples: estas são formas comuns de um sistema parecer conforme sem de fato cumprir a definição — medidas trocadas, papelada falsa, âmbito recortado ou incentivos que empurram todos para longe da conformidade. A lista não é fechada. Os tipos podem ocorrer juntos. Encolher o que a definição significa está coberto em [§2.2](#22-evasão-redutiva).*
 
 As seguintes formas de evasão são proibidas:
 
@@ -132,7 +132,7 @@ As seguintes formas de evasão são proibidas:
   - substituir medidas, indicadores ou descrições que divergem daquilo de que a definição trata, enquanto ainda se alega aprovação
   - otimizar uma pontuação ou medida de modos que pioram o resultado do mundo real que a definição exige
   - apresentar registros, artefatos ou evidência que distorcem de forma material o que o sistema realmente faz ou se ele cumpre
-  - satisfazer requisitos no nome, na estrutura ou no processo sem produzir o efeito do mundo real que a definição exige (veja também [§2.1.1](#211-formal-label-and-representation-gaming))
+  - satisfazer requisitos no nome, na estrutura ou no processo sem produzir o efeito do mundo real que a definição exige (veja também [§2.1.1](#211-jogos-de-rótulo-formal-e-de-representação))
 - **Truques de âmbito e fronteira** — arranjar o que entra na conta, e quando, para que as partes difíceis nunca sejam testadas:
   - estreitar a avaliação ou a aplicação para deixar de fora elementos do sistema, efeitos ou condições que importam
   - partir a responsabilidade entre componentes, atores ou o tempo para que ninguém tenha de cumprir a definição para o sistema inteiro
@@ -153,7 +153,7 @@ Esta é uma forma focada de **Medidas e papelada falsas**. Os sistemas não deve
 - renomeação formal, reestruturação ou reclassificação de entidade que descarta deveres sem transferir a responsabilidade na prática
 - escolhas cômodas de taxonomia que apagam distinções que a definição exige
 
-Onde a mudança de estrutura formal for material, aplique [Capítulo Um §11.6 Responsabilidade sucessória e não evasão por estrutura formal](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes).
+Onde a mudança de estrutura formal for material, aplique [Capítulo Um §11.6 Responsabilidade sucessória e não evasão por estrutura formal](core_01_c_stewardship_capacity_principles.md#196-manutenção-da-responsabilidade-quando-a-propriedade-ou-a-estrutura-muda).
 
 <a id="22-reductive-evasion"></a>
 #### 2.2 Evasão redutiva
@@ -208,41 +208,41 @@ Um sistema é não conforme onde ele:
 - amplifica a ambiguidade para enfraquecer o rigor ou os resultados exigidos
 - exige certeza inatingível para reconhecer a não conformidade
 
-Onde a incerteza impede a demonstração definitiva de conformidade para componentes da definição materialmente pertinentes, os sistemas devem cumprir um ônus precautório proporcional ao dano potencial. Deixar de fazê-lo é não conformidade sob esta seção e falha o ônus da prova sob [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+Onde a incerteza impede a demonstração definitiva de conformidade para componentes da definição materialmente pertinentes, os sistemas devem cumprir um ônus precautório proporcional ao dano potencial. Deixar de fazê-lo é não conformidade sob esta seção e falha o ônus da prova sob [Capítulo Quatro, seção 5 — Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#5-padrão-de-evidência-de-conformidade).
 
 <a id="3-non-compliance-finding-profiles"></a>
 ### 3. Perfis de achado de não conformidade
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: [Capítulo Três, seção 2 — Não conformidade a partir de conduta observável do sistema](#2-non-compliance-from-observable-system-behavior); [Capítulo Dois, §2 Exigência de integridade da definição](core_02_definition_structure.md#2-definition-integrity-requirement).
-- Destino: [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [Capítulo Nove — Certificação de alinhamento do sistema](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Onze — Efeitos de trajetória e integração](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Bússola constitucional e mapa de aglomerados](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
-- Ler com: [Perfil de achado de não conformidade](../../core_05_band_accountability.md#non-compliance-finding-profile) — lar canônico O/M/A/C dos campos do perfil; [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims).
+- Origem: [Capítulo Três, seção 2 — Não conformidade a partir de conduta observável do sistema](#2-não-conformidade-a-partir-de-conduta-observável-do-sistema); [Capítulo Dois, §2 Exigência de integridade da definição](core_02_definition_structure.md#2-exigência-de-integridade-da-definição).
+- Destino: [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](core_04_burden_traceability_verification.md#2-exigência-de-rastreabilidade-da-definição); [Capítulo Nove — Certificação de alinhamento do sistema](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Onze — Efeitos de trajetória e integração](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Bússola constitucional e mapa de aglomerados](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- Ler com: [Perfil de achado de não conformidade](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — lar canônico O/M/A/C dos campos do perfil; [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims).
 
 </details>
 
 <br>
 
-*Em termos simples: quando algo não cumpre uma definição, um perfil de achado é um rótulo opcional que diz que tipo de problema constitucional é — para roteamento e auditorias. Não muda o resultado de aprovação/reprovação. Para sistemas já em operação sob certificação de alinhamento, a não conformidade verificada deve alimentar a trajetória; sencientes e instituições só são marcados quando o vínculo é verificado. A primeira certificação é um caso especial ([§3.2](#32-standing-effects-at-first-certification)).*
+*Em termos simples: quando algo não cumpre uma definição, um perfil de achado é um rótulo opcional que diz que tipo de problema constitucional é — para roteamento e auditorias. Não muda o resultado de aprovação/reprovação. Para sistemas já em operação sob certificação de alinhamento, a não conformidade verificada deve alimentar a trajetória; sencientes e instituições só são marcados quando o vínculo é verificado. A primeira certificação é um caso especial ([§3.2](#32-efeitos-de-trajetória-na-primeira-certificação)).*
 
-Achados materiais de **não conformidade** sob este capítulo ou sob definições invocadas do **Capítulo Cinco** podem carregar um [Perfil de achado de não conformidade](../../core_05_band_accountability.md#non-compliance-finding-profile). O perfil é só metadado de orientação e roteamento. Ele:
+Achados materiais de **não conformidade** sob este capítulo ou sob definições invocadas do **Capítulo Cinco** podem carregar um [Perfil de achado de não conformidade](../../core_05.035_band_accountability.md#non-compliance-finding-profile). O perfil é só metadado de orientação e roteamento. Ele:
 
 - pode nomear qual perna da [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) e qual orientação dos [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) melhor descrevem a falha — por exemplo Supervisão, Participação ou Prestação de contas cruzadas com Florescimento ou Continuidade
 - não muda se a definição subjacente é cumprida
 - não cria um segundo rótulo de veredicto
-- não substitui a medição de contribuição ou infração do [Capítulo Dez](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)
+- não substitui a medição de contribuição ou infração do [Capítulo Dez](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)
 
 Os efeitos de trajetória dependem de quem está sendo avaliado e de se o sistema já está certificado. As subseções abaixo fixam esses casos.
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 Efeitos de trajetória para sistemas já certificados
 
-Se um sistema já está em operação sob uma [certificação de alinhamento do sistema](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — incluindo certificação, certificação condicional ou recertificação ainda válida — a não conformidade verificada e material no âmbito funcional daquele sistema **deve** entrar na medição de trajetória do [Capítulo Dez](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) para **aquele sistema**. Só podem entrar fatos que passem pelo [portão de entrada verificada](../../core_10_standing_assessment.md#verified-inputs-for-standing). Meça a trajetória conforme o [Capítulo Dez](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); aplique sua integração e seus efeitos conforme o [Capítulo Onze](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration). Reabertura, retirada ou outras consequências da certificação permanecem sob o [Capítulo Nove](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes). Elas não substituem os registros de trajetória daquele sistema.
+Se um sistema já está em operação sob uma [certificação de alinhamento do sistema](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — incluindo certificação, certificação condicional ou recertificação ainda válida — a não conformidade verificada e material no âmbito funcional daquele sistema **deve** entrar na medição de trajetória do [Capítulo Dez](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) para **aquele sistema**. Só podem entrar fatos que passem pelo [portão de entrada verificada](../../core_10.000_standing_assessment.md#verified-inputs-for-standing). Meça a trajetória conforme o [Capítulo Dez](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); aplique sua integração e seus efeitos conforme o [Capítulo Onze](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). Reabertura, retirada ou outras consequências da certificação permanecem sob o [Capítulo Nove](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes). Elas não substituem os registros de trajetória daquele sistema.
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 Efeitos de trajetória na primeira certificação
 
-Se o sistema ainda está em sua **primeira** [certificação de alinhamento do sistema](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) e ainda não foi certificado — inclusive quando a certificação é adiada ou recusada — a não conformidade verificada decide sobretudo o **resultado da certificação** sob o Capítulo Nove. Esse resultado pode ser certificação condicional, certificação adiada, não certificação ou resultado comparável. Até a certificação ser concedida, esses registros não fornecem insumo de trajetória, conforme [Capítulo Nove §10 Relação com a trajetória](../../core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing), que vincula insumos de trajetória apenas a sistemas certificados. Depois da concessão, inclusive da certificação condicional, aplica-se [§3.1 Efeitos de trajetória para sistemas já certificados](#31-standing-effects-for-already-certified-systems). Este capítulo não exige os mesmos registros de trajetória que um sistema já certificado e em operação deve receber.
+Se o sistema ainda está em sua **primeira** [certificação de alinhamento do sistema](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) e ainda não foi certificado — inclusive quando a certificação é adiada ou recusada — a não conformidade verificada decide sobretudo o **resultado da certificação** sob o Capítulo Nove. Esse resultado pode ser certificação condicional, certificação adiada, não certificação ou resultado comparável. Até a certificação ser concedida, esses registros não fornecem insumo de trajetória, conforme [Capítulo Nove §10 Relação com a trajetória](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing), que vincula insumos de trajetória apenas a sistemas certificados. Depois da concessão, inclusive da certificação condicional, aplica-se [§3.1 Efeitos de trajetória para sistemas já certificados](#31-efeitos-de-trajetória-para-sistemas-já-certificados). Este capítulo não exige os mesmos registros de trajetória que um sistema já certificado e em operação deve receber.
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 Efeitos de trajetória para sencientes e instituições
@@ -258,7 +258,7 @@ A trajetória de um senciente só é afetada quando se mostra um vínculo verifi
 - ocultação
 - capacidade viável de prevenção
 
-A trajetória de uma instituição é afetada quando a instituição é o sujeito que está sendo avaliado, ou quando é verificada como o veículo do padrão de não conformidade. Os registros institucionais permanecem rastreáveis em separado dos registros individuais de sencientes. Aplique esses casos sob o [Capítulo Dez](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) e o [Capítulo Onze](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration). O perfil de achado ajuda a rotear e auditar. Ele mesmo não fixa desfechos de trajetória, vagas, travas, portas nem remédios.
+A trajetória de uma instituição é afetada quando a instituição é o sujeito que está sendo avaliado, ou quando é verificada como o veículo do padrão de não conformidade. Os registros institucionais permanecem rastreáveis em separado dos registros individuais de sencientes. Aplique esses casos sob o [Capítulo Dez](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) e o [Capítulo Onze](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). O perfil de achado ajuda a rotear e auditar. Ele mesmo não fixa desfechos de trajetória, vagas, travas, portas nem remédios.
 
 <a id="34-operational-constraints"></a>
 #### 3.4 Restrições operacionais
@@ -271,4 +271,4 @@ A não conformidade também pode ser encontrada contra restrições operacionais
 
 **Próximo arquivo (este idioma):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 
-**Original vinculante:** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**Original vinculante:** [core_03_definition_integrity.md](../../core_03.000_definition_integrity.md)

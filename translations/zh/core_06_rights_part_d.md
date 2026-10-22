@@ -100,10 +100,10 @@ flowchart TB
 
 - [参与者地位](core_05_band_accountability.md#participant-standing-constitutional) · [氧](core_05_band_accountability.md#participant-standing-constitutional) · [中号](core_05_band_accountability.md#participant-standing-constitutional-a) · [一个](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [利益相关者](core_05_band_participation.md#stakeholder) · [氧](core_05_band_participation.md#stakeholder) · [中号](core_05_band_participation.md#stakeholder-a) · [一个](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
-- [重大影响](../../core_05_band_oversight.md#material-impact) · [氧](../../core_05_band_oversight.md#material-impact) · [中号](../../core_05_band_oversight.md#material-impact-a) · [一个](../../core_05_band_oversight.md#material-impact-a) · [C](../../core_05_band_oversight.md#material-impact-c)
+- [重大影响](../../core_05.050_band_oversight.md#material-impact) · [氧](../../core_05.050_band_oversight.md#material-impact) · [中号](../../core_05.050_band_oversight.md#material-impact-a) · [一个](../../core_05.050_band_oversight.md#material-impact-a) · [C](../../core_05.050_band_oversight.md#material-impact-c)
 - [尊严和平等的道德地位](core_05_band_participation.md#dignity-and-equal-moral-standing) · [氧](core_05_band_participation.md#dignity-and-equal-moral-standing) · [中号](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [一个](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [补救和补救](../../core_05_band_accountability.md#redress-and-remediation-constitutional) · [氧](../../core_05_band_accountability.md#redress-and-remediation-constitutional) · [中号](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [一个](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [可竞争性](../../core_05_band_accountability.md#contestability) · [氧](../../core_05_band_accountability.md#contestability) · [中号](../../core_05_band_accountability.md#contestability-a) · [一个](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [补救和补救](../../core_05.035_band_accountability.md#redress-and-remediation) · [氧](../../core_05.035_band_accountability.md#redress-and-remediation) · [中号](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [一个](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [可竞争性](../../core_05.035_band_accountability.md#contestability) · [氧](../../core_05.035_band_accountability.md#contestability) · [中号](../../core_05.035_band_accountability.md#contestability-a) · [一个](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -113,7 +113,7 @@ flowchart TB
 
 这篇文章指出 **宪法楼层** 的地位和参与地位 [两个宪法目标](core_00_preamble.md#two-constitutional-aims)：
 
-- **芊芊：** 感知者可以通过有效的、多元的、可审计的命名途径来持有和争夺角色资格——无需用常设标签来取代尊严、权利底线最低限度或利益相关者地位 [重大影响](core_05_band_oversight.md#material-impact) 存在；命名途径的资格取决于当前的、可观察的、有争议的证据，而不仅仅是品牌、规模或过去的声誉。
+- **芊芊：** 感知者可以通过有效的、多元的、可审计的命名途径来持有和争夺角色资格——无需用常设标签来取代尊严、权利底线最低限度或利益相关者地位 [重大影响](core_05_band_oversight.md#实质影响) 存在；命名途径的资格取决于当前的、可观察的、有争议的证据，而不仅仅是品牌、规模或过去的声誉。
 - **连续性：** 常设纪律随着时间的推移可以修改——限制仍然是相称的，在纠正后可以恢复，并且不得硬化为永久排除在基本宪法的声音之外，除非 **第十一章** **违反宪法的不当行为** 分类和 [**第十三章 §4.1 权利和资格**](core_13_governance.md#41-entitlement-and-eligibility) 明确保留持久的政治发言权 **全额归还**。
 
 合法追求贯穿始终 [宪法四联体](core_00_preamble.md#constitutional-tetrad)，缩放至 [物质桩](core_00_preamble.md#material-stake)：
@@ -123,7 +123,7 @@ flowchart TB
 - **责任：** 那些分配或限制地位的人必须对降低地位负责，而没有个性化的理由、相称性、狭隘的剪裁或真正的恢复路径——包括跟踪受保护特征或其代理的模式。
 - **时效性：** 在常设审查中，延迟之前的质疑和补救将排除对生存至关重要的访问、审计路径或宪法规定的补救措施 **第 25-C 条** （*及时解决和防延迟底线*）。
 
-[参与者地位](core_05_band_accountability.md#participant-standing-constitutional) 参与地位或角色资格地位是根据宪法有效的长期记录、长期影响或 [能力栏](core_05_band_accountability.md#competency-bar) 指定路径的标准。它不是声誉或社会尊重，它本身也不施加访问限制。限制性后果仅通过 [站立效应](core_05_band_accountability.md#standing-effect-chapter-six) 和 [常设锁](../../core_05_band_accountability.md#standing-lock) 在命名特权路径上。
+[参与者地位](core_05_band_accountability.md#participant-standing-constitutional) 参与地位或角色资格地位是根据宪法有效的长期记录、长期影响或 [能力栏](core_05_band_accountability.md#competency-bar) 指定路径的标准。它不是声誉或社会尊重，它本身也不施加访问限制。限制性后果仅通过 [站立效应](core_05_band_accountability.md#standing-effect-chapter-six) 和 [常设锁](../../core_05.035_band_accountability.md#standing-lock) 在命名特权路径上。
 
 本条规定的常设纪律执行 [宪法四联体](core_00_preamble.md#constitutional-tetrad) 和 [两个宪法目标](core_00_preamble.md#two-constitutional-aims) 与...一起 [系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional) 和 [第九至十二章 常务和论坛监督渠道](core_00_preamble.md#62-how-the-full-chain-fits-together)。这些所有者层流程衡量经过验证的贡献和违规行为并监督补救措施；他们不能被用来击败 **第三条-A** （*生存*）生存要点或本章所述的其他权利底线。
 
@@ -146,7 +146,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章 [§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 - 阅读： [第十章§6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) （*能力标准和许可*）， [能力栏](core_05_band_accountability.md#competency-bar)， 和 [能力许可](core_05_band_accountability.md#competency-clearance); [第十章§4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) （*立锁*）， [违规性质](core_05_band_accountability.md#violation-nature-chapter-six)， 和 [常设锁](core_05_band_accountability.md#standing-lock) —来自经过验证的违规轴输入的限制性命名路径；能力许可并不放弃适用的长期锁定，良好的贡献也不会消除未解决的违规问题。
 
 </details>
@@ -198,7 +198,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)， 和 [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 - 下游： [第九章§2](core_09_standing_assessment.md#2-question-1--what-happened) （*常备记录、验证输入门和最低记录内容*）； [第九章§3.6](core_09_standing_assessment.md#36-forum-boundary) (*论坛边界*); [第十章§6.2](core_11_standing_integration.md#62-competency-bars-and-clearances) （*能力标准和许可*）； [第十章§4.2](core_11_standing_integration.md#42-prevention--general-standing-locks) （*立锁*）； [第十章§8](core_11_standing_integration.md#8-restoration-and-reassessment) （*恢复和审查*）。
 - 阅读： **第三条-A** （*生存*）； **第十三条A** （*可靠性和可信度基线*）和 **第十三条 B 款** （*补救和补救权*）； [前言 §6.2 整个链条如何组合在一起](core_00_preamble.md#62-how-the-full-chain-fits-together); [系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional); [宪法四联体](core_00_preamble.md#constitutional-tetrad) — **参与**, **监督**, **问责制**， 和 **及时性** 在下面 **第 25-C 条** （*及时解决和防延迟底线*）和 **第 XX-B 条** （*限制楼层*）。
 
@@ -207,11 +207,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
-- [可竞争性](../../core_05_band_accountability.md#contestability) · [氧](core_05_band_accountability.md#contestability) · [中号](core_05_band_accountability.md#contestability-a) · [一个](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [相称性](../../core_05_band_accountability.md#proportionality) · [氧](../../core_05_band_accountability.md#proportionality) · [中号](../../core_05_band_accountability.md#proportionality-a) · [一个](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [必要性](../../core_05_band_accountability.md#necessity) · [氧](../../core_05_band_accountability.md#necessity) · [中号](../../core_05_band_accountability.md#necessity-a) · [一个](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [程序公正](../../core_05_band_participation.md#procedural-fairness-constitutional) · [氧](../../core_05_band_participation.md#procedural-fairness-constitutional) · [中号](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [一个](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [可审计性](../../core_05_band_oversight.md#auditability) · [氧](../../core_05_band_oversight.md#auditability) · [中号](../../core_05_band_oversight.md#auditability-a) · [一个](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [可竞争性](../../core_05.035_band_accountability.md#contestability) · [氧](core_05_band_accountability.md#contestability) · [中号](core_05_band_accountability.md#contestability-a) · [一个](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [相称性](../../core_05.035_band_accountability.md#proportionality) · [氧](../../core_05.035_band_accountability.md#proportionality) · [中号](../../core_05.035_band_accountability.md#proportionality-a) · [一个](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [氧](../../core_05.035_band_accountability.md#necessity) · [中号](../../core_05.035_band_accountability.md#necessity-a) · [一个](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [程序公正](../../core_05.055_band_participation.md#procedural-fairness) · [氧](../../core_05.055_band_participation.md#procedural-fairness) · [中号](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [一个](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [可审计性](../../core_05.050_band_oversight.md#auditability) · [氧](../../core_05.050_band_oversight.md#auditability) · [中号](../../core_05.050_band_oversight.md#auditability-a) · [一个](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
 - [违规性质](core_05_band_accountability.md#violation-nature-chapter-six) · [氧](core_05_band_accountability.md#violation-nature-chapter-six) · [中号](core_05_band_accountability.md#violation-nature-chapter-six-a) · [一个](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
 - [能力栏](core_05_band_accountability.md#competency-bar) · [氧](core_05_band_accountability.md#competency-bar) · [中号](core_05_band_accountability.md#competency-bar-a) · [一个](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
 - [能力许可](core_05_band_accountability.md#competency-clearance) · [氧](core_05_band_accountability.md#competency-clearance) · [中号](core_05_band_accountability.md#competency-clearance-a) · [一个](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
@@ -251,7 +251,7 @@ flowchart TB
   - 影响较小的违规轴发现 [第九章§7统一尺度](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) 如果没有重复的模式证据、逃避或物质损害联系，则不能证明持久排除是合理的。疏忽、隐瞒、胁迫、重复和类似的角色描述会告知审查，但不会移动第九章的影响槽。
   - 由于行为重复发生或责任被隐瞒而升级的情况仍然必须是必要的、相称的、可审查的，并且与经过验证的调查结果挂钩。
 - **权利最低限度和非取消抵押品赎回权：** 参与者地位、能力门槛、能力许可和地位锁定仅管理角色资格和指定特权途径。他们不得：
-  - 暂停、放弃、消除或减少 **权利-最低限度** 应用通过 **第六条** （*平等基本权利*） [权利下限最低原则](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle);
+  - 暂停、放弃、消除或减少 **权利-最低限度** 应用通过 **第六条** （*平等基本权利*） [权利下限最低原则](core_01_b_interaction_interpretation.md#权利底线最低保障原则);
   - 取消对生存至关重要的访问或 **第三条-A** （*生存*）有重大影响的资源分配和依赖底线；或者
   - 取消宪法规定的审计、质疑或补救途径——包括根据 **第十三条A** （*可靠性和可信度基线*）和 **第十三条 B 款** （*补救和补救权*）， **第 XV-B 条** （*透明度、可审计性和可争议性*），以及 **第十六条** （*审计、透明度和独立验证*）——缺乏充分的理由 **第一章**, **第五章**，以及适用的合并程序。
 - **恢复和非巩固：** 如果因违规发现而导致地位降低，系统必须提供明确的条件，以便进行审查、基于补救的恢复以及定期重新评估。 [第十章 §8 恢复和重新评估](core_11_standing_integration.md#8-restoration-and-reassessment)。
@@ -265,7 +265,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章 [§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -279,11 +279,11 @@ flowchart TB
 - [参与者地位](core_05_band_accountability.md#participant-standing-constitutional) · [氧](core_05_band_accountability.md#participant-standing-constitutional) · [中号](core_05_band_accountability.md#participant-standing-constitutional-a) · [一个](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [集体责任失败](core_05_band_accountability.md#collective-accountability-failure) · [氧](core_05_band_accountability.md#collective-accountability-failure) · [中号](core_05_band_accountability.md#collective-accountability-failure-a) · [一个](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
 - [相信](core_05_band_continuity.md#trust) · [氧](core_05_band_continuity.md#trust) · [中号](core_05_band_continuity.md#trust-a) · [一个](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [基本宪法选择](core_05_band_integrative.md#foundational-constitutional-choice) · [氧](core_05_band_integrative.md#foundational-constitutional-choice) · [中号](core_05_band_integrative.md#foundational-constitutional-choice-a) · [一个](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [基本宪法选择](core_05_band_integrative.md#基础宪法选择) · [氧](core_05_band_integrative.md#基础宪法选择) · [中号](core_05_band_integrative.md#foundational-constitutional-choice-a) · [一个](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [程序公正](core_05_band_participation.md#procedural-fairness-constitutional) · [氧](core_05_band_participation.md#procedural-fairness-constitutional) · [中号](core_05_band_participation.md#procedural-fairness-constitutional-a) · [一个](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [必要性](core_05_band_accountability.md#necessity) · [氧](core_05_band_accountability.md#necessity) · [中号](core_05_band_accountability.md#necessity-a) · [一个](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [相称性](core_05_band_accountability.md#proportionality) · [氧](core_05_band_accountability.md#proportionality) · [中号](core_05_band_accountability.md#proportionality-a) · [一个](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [受保护的特性](../../core_05_band_participation.md#protected-characteristics-constitutional) · [氧](../../core_05_band_participation.md#protected-characteristics-constitutional) · [中号](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [一个](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [受保护的特性](../../core_05.055_band_participation.md#protected-characteristics) · [氧](../../core_05.055_band_participation.md#protected-characteristics) · [中号](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [一个](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 
 </details>
 
@@ -319,21 +319,21 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](../../core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Eleven §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: [Article XIX-E](../../core_06_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Downstream: [Chapter Eleven §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
+- Read with: [Article XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [Violation Nature](../../core_05_band_accountability.md#violation-nature) · [O](../../core_05_band_accountability.md#violation-nature) · [M](../../core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](../../core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](../../core_05_band_accountability.md#violation-nature-chapter-six-c)
-- [Standing Lock](../../core_05_band_accountability.md#standing-lock) · [O](../../core_05_band_accountability.md#standing-lock) · [M](../../core_05_band_accountability.md#standing-lock-a) · [A](../../core_05_band_accountability.md#standing-lock-a) · [C](../../core_05_band_accountability.md#standing-lock-c)
-- [Accountability](../../core_05_apex_accountability_leg.md#accountability) · [O](../../core_05_apex_accountability_leg.md#accountability) · [M](../../core_05_apex_accountability_leg.md#accountability-m) · [A](../../core_05_apex_accountability_leg.md#accountability-a) · [C](../../core_05_apex_accountability_leg.md#accountability-c)
-- [Collective Accountability Failure](../../core_05_band_accountability.md#collective-accountability-failure) · [O](../../core_05_band_accountability.md#collective-accountability-failure) · [M](../../core_05_band_accountability.md#collective-accountability-failure-a) · [A](../../core_05_band_accountability.md#collective-accountability-failure-a) · [C](../../core_05_band_accountability.md#collective-accountability-failure-c)
-- [Proportionality](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [Redress and Remediation](../../core_05_band_accountability.md#redress-and-remediation) · [O](../../core_05_band_accountability.md#redress-and-remediation) · [M](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Violation Nature](../../core_05.035_band_accountability.md#violation-nature) · [O](../../core_05.035_band_accountability.md#violation-nature) · [M](../../core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [A](../../core_05.035_band_accountability.md#violation-nature-chapter-six-a) · [C](../../core_05.035_band_accountability.md#violation-nature-chapter-six-c)
+- [Standing Lock](../../core_05.035_band_accountability.md#standing-lock) · [O](../../core_05.035_band_accountability.md#standing-lock) · [M](../../core_05.035_band_accountability.md#standing-lock-a) · [A](../../core_05.035_band_accountability.md#standing-lock-a) · [C](../../core_05.035_band_accountability.md#standing-lock-c)
+- [Accountability](../../core_05.005_apex_accountability_leg.md#accountability) · [O](../../core_05.005_apex_accountability_leg.md#accountability) · [M](../../core_05.005_apex_accountability_leg.md#accountability-m) · [A](../../core_05.005_apex_accountability_leg.md#accountability-a) · [C](../../core_05.005_apex_accountability_leg.md#accountability-c)
+- [Collective Accountability Failure](../../core_05.035_band_accountability.md#collective-accountability-failure) · [O](../../core_05.035_band_accountability.md#collective-accountability-failure) · [M](../../core_05.035_band_accountability.md#collective-accountability-failure-a) · [A](../../core_05.035_band_accountability.md#collective-accountability-failure-a) · [C](../../core_05.035_band_accountability.md#collective-accountability-failure-c)
+- [Proportionality](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Redress and Remediation](../../core_05.035_band_accountability.md#redress-and-remediation) · [O](../../core_05.035_band_accountability.md#redress-and-remediation) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -343,20 +343,20 @@ flowchart TB
 
 本条规定如何记录违规，以及如何施加资格锁定：
 
-- **违规性质仅依据已核实的认定：**[违规性质](../../core_05_band_accountability.md#violation-nature)只有在依据满足**第二至第四章**以及[第十章](../../core_10_standing_assessment.md#verified-inputs-for-standing)要求、可审计且可争议的认定时，才可影响资格。单独的指控、受理标签、临时路由标记或论坛阶段叙述均不足以作为依据。
+- **违规性质仅依据已核实的认定：**[违规性质](../../core_05.035_band_accountability.md#violation-nature)只有在依据满足**第二至第四章**以及[第十章](../../core_10.000_standing_assessment.md#verified-inputs-for-standing)要求、可审计且可争议的认定时，才可影响资格。单独的指控、受理标签、临时路由标记或论坛阶段叙述均不足以作为依据。
   - 当存在相关义务和能力时，资格与锁定评估须考虑默许参与以及未能抵制违法或违宪指令的情况，并与**第五章**（*集体问责失灵*）一致。
-- **资格锁定：**[资格锁定](../../core_05_band_accountability.md#standing-lock)是能力许可的限制性对应机制。在经核实的违规认定尚未解决或尚未得到实质补救时，锁定可阻止或限制信任、角色、权限、信用、监督、认可、**治理投票**或**利益相关方参与**路径。限制后果仅适用于具名特权路径；经核实的风险确有需要时，隔离特定场所、网络或感知者须遵守[隔离界限](../../core_11_standing_integration.md#51-separation-limits)。
+- **资格锁定：**[资格锁定](../../core_05.035_band_accountability.md#standing-lock)是能力许可的限制性对应机制。在经核实的违规认定尚未解决或尚未得到实质补救时，锁定可阻止或限制信任、角色、权限、信用、监督、认可、**治理投票**或**利益相关方参与**路径。限制后果仅适用于具名特权路径；经核实的风险确有需要时，隔离特定场所、网络或感知者须遵守[隔离界限](../../core_11.000_standing_integration.md#51-separation-limits)。
   - 资格锁定不是尊严等级、权利底线削减、自动报复或合并功绩分数。
-  - 锁定须明确被阻止的访问、受保护的人或事、解除锁定所需的纠正条件、复审路径和重新评估时间；并须依照[第 XIX-B 条](../../core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)做到必要、合比例、可审计且可争议。
+  - 锁定须明确被阻止的访问、受保护的人或事、解除锁定所需的纠正条件、复审路径和重新评估时间；并须依照[第 XIX-B 条](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)做到必要、合比例、可审计且可争议。
   - 能力许可不能豁免适用中的资格锁定；良好贡献不能抹去尚未解决的已核实违规认定。
-  - 投票路径锁定和三种特殊锁定的附加规则见[第 XIX-E 条](../../core_06_rights_part_d.md#article-xix-e-voting-and-special-locks)。
-  - 资格锁定不能取代个别化的司法程序，也**不会单独**限制迁徙、避难、可移植性或退出（[第 XXI 条](#article-xxi-interoperability-portability-and-exit-integrity)和[第 XXII 条](#article-xxii-movement-migration-refuge-and-non-statelessness)）。
+  - 投票路径锁定和三种特殊锁定的附加规则见[第 XIX-E 条](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks)。
+  - 资格锁定不能取代个别化的司法程序，也**不会单独**限制迁徙、避难、可移植性或退出（[第 XXI 条](#article-xxi-interoperability-portability-and-exit-integrity)和[第 XXII 条](#第-xxii-条-迁徙移民避难和非无国籍状态)）。
 - **使锁定与损害相称：**锁定须符合经核实损害的严重程度、其保护的具体角色或特权，以及补救进展。
   - **既往贡献：**只有在其表明感知者能够补救、维持保障或避免重犯，或者在重新评估时支持较轻限制的情况下，才可予以考虑。既往贡献不得抵消、豁免、平均降低或取代尚未解决的损害认定。
-  - **较轻的损害：**依照[第十章 §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)衡量为较轻的认定，除非存在重复模式、规避行为或与重大损害相关联，否则不足以证明长期排除合理。
+  - **较轻的损害：**依照[第十章 §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)衡量为较轻的认定，除非存在重复模式、规避行为或与重大损害相关联，否则不足以证明长期排除合理。
   - **行为方式：**疏忽、隐瞒、胁迫或重复发生可影响复审，但不会改变损害本身的严重程度评定。
   - **重复或隐瞒的行为：**因行为重复或隐瞒责任而施加更严格限制，仍须必要、合比例、可复审并与已核实认定相关联。
-- **恢复资格与防止固化：**因违规认定而降低资格时，系统须依据[第十一章 §8](../../core_11_standing_integration.md#8-restoration-and-reassessment)提供明确的复审、基于补救的恢复和定期重新评估条件。
+- **恢复资格与防止固化：**因违规认定而降低资格时，系统须依据[第十一章 §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment)提供明确的复审、基于补救的恢复和定期重新评估条件。
   - 仅凭历史状态且没有当前、可审计理由而永久排除，属于不合规。
   - 重大限制得到纠正后，恢复或重新取得资格的路径必须真实有效，而非徒具形式。
   - 完成纠正、赔偿、监测、保障措施实施，或其他可证明复发风险下降的步骤后，在法律允许范围内必须提供真实的重新评估路径；未完成这些义务时，未解决的认定仍对资格判断有效。
@@ -380,7 +380,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章 [§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 - 下游： [第十章§4](core_11_standing_integration.md#4-violation-correction-and-prevention) （*违规、纠正和预防*）； [第十一章§4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) （*正当程序保障、补救和预防*）。
 
 </details>
@@ -403,8 +403,8 @@ flowchart TB
 
 - **冲突解决、审查和及时性：** 有关宪法权利底线、回顾性审查、权利冲突和反拖延纪律的争议，由 [**第二十五条**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) （*及时回顾性审查和恢复性调整*）。
 - **紧急措施：** 受管辖 [第十二章 §6.1 紧急措施和持续负担](core_12_forum.md#61-emergency-measures-and-continuation-burden), 阅读与 **第 XX-B 条** （*限制下限*）紧急措施施加的任何限制。
-- **常设：** [**第十九条**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) （*声望和参与状态*）决定声望。本条规定的司法措施是单独的，不是一个常设标签的解决方法。
-- **及时纠正：** 阅读与 [**第 XIII-B 条**（*补救和补救权*）](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) （*及时纠正访问*）。
+- **常设：** [**第十九条**](core_06_rights_part_d.md#第-xix-条地位与参与状态) （*声望和参与状态*）决定声望。本条规定的司法措施是单独的，不是一个常设标签的解决方法。
+- **及时纠正：** 阅读与 [**第 XIII-B 条**（*补救和补救权*）](core_06_rights_part_c.md#第十三条-b-款获得救济与补救的权利) （*及时纠正访问*）。
 
 采用的治理实施可能会增加细节。不得缩小本条规定的正义目标或限制底线。
 <a id="article-xx-a-justice-objective-and-scope"></a>
@@ -412,16 +412,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [第一章 §3.3 防降级处理](core_01_a_values_principles.md#33-anti-degrading-process)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
-- 下游： [第十章§4](core_11_standing_integration.md#4-violation-correction-and-prevention) （*违规、纠正和预防*）； [第 XX-B 条](#article-xx-b-restriction-floors)。
-- 阅读： [残酷](../../core_05_band_accountability.md#cruelty) （*第五章是反虐待地板的“以痛苦为终点”标准的家园*）。
+- 上游：原则：第一章 [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [第一章 §3.3 防降级处理](core_01_a_values_principles.md#33-防止贬损的程序)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
+- 下游： [第十章§4](core_11_standing_integration.md#4-violation-correction-and-prevention) （*违规、纠正和预防*）； [第 XX-B 条](#第-xx-b-条限制底线)。
+- 阅读： [残酷](../../core_05.035_band_accountability.md#cruelty) （*第五章是反虐待地板的“以痛苦为终点”标准的家园*）。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
-- [裁决及争议解决](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [氧](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [中号](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [一个](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [裁决及争议解决](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [氧](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution) · [中号](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [一个](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [残酷](core_05_band_accountability.md#cruelty) · [氧](core_05_band_accountability.md#cruelty) · [中号](core_05_band_accountability.md#cruelty-a) · [一个](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
 - [补救和补救](core_05_band_accountability.md#redress-and-remediation-constitutional) · [氧](core_05_band_accountability.md#redress-and-remediation-constitutional) · [中号](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [一个](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [问责制](core_05_apex_accountability_leg.md#accountability) · [氧](core_05_apex_accountability_leg.md#accountability) · [中号](core_05_apex_accountability_leg.md#accountability-m) · [一个](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
@@ -445,7 +445,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)， 和 [§14 禁止绝对超越](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则), [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)， 和 [§14 禁止绝对超越](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下游： [第十章 §5 锁的设计和实施](core_11_standing_integration.md#5-lock-design-and-enforcement) 和 [§5.4 特别违规规则](core_11_standing_integration.md#54-special-violation-rules) （*因经证实的暴力行为和其他胁迫性或限制自由的保障措施而需要监禁*）； [第十一章§4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) （*预防——反宪法锁*；监禁专业化）。
 - 阅读： [第 25-C 条](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) （*及时解决和防延迟底线*）； [第十二章 §5 升级和认证](core_12_forum.md#5-escalation-and-certification)。
 
@@ -454,7 +454,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
-- [安全（宪法约束）](../../core_05_band_continuity.md#safety-constraint) · [氧](../../core_05_band_continuity.md#safety-constraint) · [中号](../../core_05_band_continuity.md#safety-constraint-a) · [一个](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
+- [安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [氧](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [中号](../../core_05.040_band_continuity.md#safety-constraint-a) · [一个](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [补救和补救](core_05_band_accountability.md#redress-and-remediation-constitutional) · [氧](core_05_band_accountability.md#redress-and-remediation-constitutional) · [中号](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [一个](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [问责制](core_05_apex_accountability_leg.md#accountability) · [氧](core_05_apex_accountability_leg.md#accountability) · [中号](core_05_apex_accountability_leg.md#accountability-m) · [一个](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [必要性](core_05_band_accountability.md#necessity) · [氧](core_05_band_accountability.md#necessity) · [中号](core_05_band_accountability.md#necessity-a) · [一个](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
@@ -493,7 +493,7 @@ flowchart TB
   - 无限期的严格限制；
   - 在可逆的恢复、补救或保护可行的情况下采取不可逆的限制性措施；
   - 限制缺乏可审计的重新评估触发器。
-- **平等的基本权利和尊严：** 限制、排除和类似的司法措施必须符合 **第六条** （*平等基本权利*）和 [**尊严原则**](core_01_b_interaction_interpretation.md#dignity-principles) （这 [权利下限最低原则](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) 和 [防降解过程原理](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)) 在实施、审查和执行任何限制、遏制或恢复性问责措施的整个过程中。
+- **平等的基本权利和尊严：** 限制、排除和类似的司法措施必须符合 **第六条** （*平等基本权利*）和 [**尊严原则**](core_01_b_interaction_interpretation.md#尊严原则) （这 [权利下限最低原则](core_01_b_interaction_interpretation.md#权利底线最低保障原则) 和 [防降解过程原理](core_01_b_interaction_interpretation.md#禁止贬损性程序原则)) 在实施、审查和执行任何限制、遏制或恢复性问责措施的整个过程中。
 - **升级和审查：** 受影响方必须能够获得与影响成比例的升级路径。
   - 访问权包括在重大利益受到威胁时提出上诉或多层审查。
   - 受影响方必须收到：
@@ -515,19 +515,19 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)， 和 [§11市场结构](core_01_a_values_principles.md#11-market-structure)。
+- 上游：原则：第一章 [§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)， 和 [§11市场结构](core_01_a_values_principles.md#11-市场结构)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
-- [系统性锁定](../../core_05_band_continuity.md#systemic-lock-in) · [氧](../../core_05_band_continuity.md#systemic-lock-in) · [中号](../../core_05_band_continuity.md#systemic-lock-in-a) · [一个](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
-- [搬迁](../../core_05_band_participation.md#movement-and-relocation-constitutional) · [氧](../../core_05_band_participation.md#movement-and-relocation-constitutional) · [中号](../../core_05_band_participation.md#movement-and-relocation-constitutional-a) · [一个](../../core_05_band_participation.md#movement-and-relocation-constitutional-a) · [C](../../core_05_band_participation.md#movement-and-relocation-constitutional-c)
-- [避免违规行为](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [氧](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [中号](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [一个](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
-- [非无国籍状态](../../core_05_band_participation.md#non-statelessness-constitutional) · [氧](../../core_05_band_participation.md#non-statelessness-constitutional) · [中号](../../core_05_band_participation.md#non-statelessness-constitutional-a) · [一个](../../core_05_band_participation.md#non-statelessness-constitutional-a) · [C](../../core_05_band_participation.md#non-statelessness-constitutional-c)
-- [有意义的代理](../../core_05_band_participation.md#meaningful-agency) · [氧](../../core_05_band_participation.md#meaningful-agency) · [中号](../../core_05_band_participation.md#meaningful-agency-a) · [一个](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [依赖性](../../core_05_band_continuity.md#dependency) · [氧](../../core_05_band_continuity.md#dependency) · [中号](../../core_05_band_continuity.md#dependency-a) · [一个](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [系统性锁定](../../core_05.040_band_continuity.md#systemic-lock-in) · [氧](../../core_05.040_band_continuity.md#systemic-lock-in) · [中号](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [一个](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [搬迁](../../core_05.055_band_participation.md#movement-and-relocation) · [氧](../../core_05.055_band_participation.md#movement-and-relocation) · [中号](../../core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [一个](../../core_05.055_band_participation.md#movement-and-relocation-constitutional-a) · [C](../../core_05.055_band_participation.md#movement-and-relocation-constitutional-c)
+- [避免违规行为](../../core_05.055_band_participation.md#refuge-from-non-compliance) · [氧](../../core_05.055_band_participation.md#refuge-from-non-compliance) · [中号](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [一个](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](../../core_05.055_band_participation.md#refuge-from-non-compliance-constitutional-c)
+- [非无国籍状态](../../core_05.055_band_participation.md#non-statelessness) · [氧](../../core_05.055_band_participation.md#non-statelessness) · [中号](../../core_05.055_band_participation.md#non-statelessness-constitutional-a) · [一个](../../core_05.055_band_participation.md#non-statelessness-constitutional-a) · [C](../../core_05.055_band_participation.md#non-statelessness-constitutional-c)
+- [有意义的代理](../../core_05.055_band_participation.md#meaningful-agency) · [氧](../../core_05.055_band_participation.md#meaningful-agency) · [中号](../../core_05.055_band_participation.md#meaningful-agency-a) · [一个](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [依赖性](../../core_05.040_band_continuity.md#dependency) · [氧](../../core_05.040_band_continuity.md#dependency) · [中号](../../core_05.040_band_continuity.md#dependency-a) · [一个](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [必要性](core_05_band_accountability.md#necessity) · [氧](core_05_band_accountability.md#necessity) · [中号](core_05_band_accountability.md#necessity-a) · [一个](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [相称性](core_05_band_accountability.md#proportionality) · [氧](core_05_band_accountability.md#proportionality) · [中号](core_05_band_accountability.md#proportionality-a) · [一个](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -539,21 +539,21 @@ flowchart TB
 
 这篇文章指出 **宪法楼层** 互操作性、可移植性、移动、避难和出口完整性 [两个宪法目标](core_00_preamble.md#two-constitutional-aims)：
 
-- **芊芊：** 感知者可以跨系统和管辖区进行选择、切换和协调，而无需强制锁定、排斥 [感知不排斥](../../core_05_band_participation.md#sentience-non-exclusion)，或代理拒绝——通过可用的可移植性、互惠互操作性以及移动和避难的真实路径 [重大影响](core_05_band_oversight.md#material-impact) 存在。
+- **芊芊：** 感知者可以跨系统和管辖区进行选择、切换和协调，而无需强制锁定、排斥 [感知不排斥](../../core_05.055_band_participation.md#sentience-non-exclusion)，或代理拒绝——通过可用的可移植性、互惠互操作性以及移动和避难的真实路径 [重大影响](core_05_band_oversight.md#实质影响) 存在。
 - **连续性：** 随着依赖性加深、运营商发生变化或司法管辖区发生变化，退出、可移植性、避难和承认义务将保持持久——系统和制度不得强化陷阱架构、在未经通知的情况下缩小整合条款，或在结构失效或关系结束时使感知者无国籍。
 
 合法追求贯穿始终 [宪法四联体](core_00_preamble.md#constitutional-tetrad)，缩放至 [物质桩](core_00_preamble.md#material-stake)：
 
 - **参与：** 选择系统和司法管辖区，使用可用数据和身份进行迁移，挑战锁定和代理拒绝，以及在实践严重不合规的情况下寻求庇护。
 - **监督：** 通过记录的互操作性边界、及时的可移植性、材料缩小之前的提前通知以及审查过渡条件是否真实而不仅仅是形式。
-- **责任：** 制度和制度必须负责 [系统性锁定](core_05_band_continuity.md#systemic-lock-in)，反移植性设计，排除违背 [感知不排斥](../../core_05_band_participation.md#sentience-non-exclusion)、官僚疲惫，或其他主要效果是困住众生的行为——阻止退出、替代、流动、避难或认可。
+- **责任：** 制度和制度必须负责 [系统性锁定](core_05_band_continuity.md#systemic-lock-in)，反移植性设计，排除违背 [感知不排斥](../../core_05.055_band_participation.md#sentience-non-exclusion)、官僚疲惫，或其他主要效果是困住众生的行为——阻止退出、替代、流动、避难或认可。
 - **时效性：** 在延迟、不透明或程序摩擦导致退出、迁移或补救措施有效无法实现之前，在可移植性交付、避​​难考虑、互操作性通知和障碍纠正方面 **第 25-C 条** （*及时解决和防延迟底线*）。
 
-感知者和依赖系统有权进行有意义的、可用的退出、迁移、互操作性、移动、避难和识别，而无需强制锁定、排斥 [感知不排斥](../../core_05_band_participation.md#sentience-non-exclusion)，或无国籍。
+感知者和依赖系统有权进行有意义的、可用的退出、迁移、互操作性、移动、避难和识别，而无需强制锁定、排斥 [感知不排斥](../../core_05.055_band_participation.md#sentience-non-exclusion)，或无国籍。
 
 - 该权利不需要不安全或不合理的暴露。
 - 它确实需要实践中真实的过渡条件——而不仅仅是形式上的。
-- 它符合 **第五章** [*系统性锁定*](core_05_band_continuity.md#systemic-lock-in) 阅读与 **[第五章*治理架构、监督、依赖性、权力下放、集中、市场结构和退出路径完整性*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** 当依赖、耦合或取消赎回权对于反锁定分析很重要时，与 **[第五章*迁徙、避难、非无国籍状态和退出完整性*](../../core_05_band_oversight.md#movement-refuge-semi-independent)** 其中退出、可移植性、避难、承认或无国籍状态在实质上是相互依赖的，并且具有互操作性、可移植性、退出完整性和合理约束的合并实施要求。
+- 它符合 **第五章** [*系统性锁定*](core_05_band_continuity.md#systemic-lock-in) 阅读与 **[第五章*治理架构、监督、依赖性、权力下放、集中、市场结构和退出路径完整性*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** 当依赖、耦合或取消赎回权对于反锁定分析很重要时，与 **[第五章*迁徙、避难、非无国籍状态和退出完整性*](../../core_05.050_band_oversight.md#oversight-dependent-clusters)** 其中退出、可移植性、避难、承认或无国籍状态在实质上是相互依赖的，并且具有互操作性、可移植性、退出完整性和合理约束的合并实施要求。
 
 *文章邻居：*
 
@@ -568,14 +568,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
-- [有意义的代理](../../core_05_band_participation.md#meaningful-agency) · [氧](core_05_band_participation.md#meaningful-agency) · [中号](core_05_band_participation.md#meaningful-agency-a) · [一个](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [有意义的代理](../../core_05.055_band_participation.md#meaningful-agency) · [氧](core_05_band_participation.md#meaningful-agency) · [中号](core_05_band_participation.md#meaningful-agency-a) · [一个](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [系统性锁定](core_05_band_continuity.md#systemic-lock-in) · [氧](core_05_band_continuity.md#systemic-lock-in) · [中号](core_05_band_continuity.md#systemic-lock-in-a) · [一个](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
 - [相称性](core_05_band_accountability.md#proportionality) · [氧](core_05_band_accountability.md#proportionality) · [中号](core_05_band_accountability.md#proportionality-a) · [一个](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -599,7 +599,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -607,7 +607,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
 - [依赖性](core_05_band_continuity.md#dependency) · [氧](core_05_band_continuity.md#dependency) · [中号](core_05_band_continuity.md#dependency-a) · [一个](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [可行性](../../core_05_band_accountability.md#feasibility) · [氧](../../core_05_band_accountability.md#feasibility) · [中号](../../core_05_band_accountability.md#feasibility-a) · [一个](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
+- [可行性](../../core_05.035_band_accountability.md#feasibility) · [氧](../../core_05.035_band_accountability.md#feasibility) · [中号](../../core_05.035_band_accountability.md#feasibility-a) · [一个](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
 - [相称性](core_05_band_accountability.md#proportionality) · [氧](core_05_band_accountability.md#proportionality) · [中号](core_05_band_accountability.md#proportionality-a) · [一个](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
@@ -626,7 +626,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -664,11 +664,11 @@ flowchart TB
 - **优先采用开放格式：**系统应优先使用开放格式、接口和协议。重大影响和依赖程度越高，义务越强。
 - **开放的含义：**完整规范须公开；任何人都可以无需许可、费用或版税予以实现；且任何单一方不得单方面更改，或者该方停止支持时，其他人能够自由分叉并继续维护。未满足任一条件的有文档格式在本款下属于封闭格式，但仍优于没有文档的格式。
 - **分层义务：**
-  - **退出：**[Article XXI-A](../../core_06_rights_part_d.md#article-xxi-a-portability-rights)规定的导出和迁移路径，在开放格式能够承载数据且不会实质损失结构、元数据、关系或保真度时，至少须提供一种开放格式。
-  - **互操作：**[Article XXI-B](../../core_06_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries)规定的集成边界默认须采用开放标准和协议；只有依本款获得正当理由时才可采用封闭标准。
+  - **退出：**[Article XXI-A](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights)规定的导出和迁移路径，在开放格式能够承载数据且不会实质损失结构、元数据、关系或保真度时，至少须提供一种开放格式。
+  - **互操作：**[Article XXI-B](../../core_06.020_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries)规定的集成边界默认须采用开放标准和协议；只有依本款获得正当理由时才可采用封闭标准。
   - **内部和原生格式：**系统应优先采用开放格式进行存储和原生工作。封闭格式的理由须随重大影响和依赖程度提高而更加充分。
   - **面向公众的数据：**为公众访问而发布的数据，包括 corpus_systems.md 的 CS-2 所列 O、E、W 类型，默认须采用开放格式发布。
-- **封闭格式的正当理由：**只有在没有开放替代方案能够满足保真度、性能、安全、网络安全、可访问性或专门功能等重大要求时，封闭格式、接口或协议才有正当理由。使用时，系统须以可审计方式记录理由；仍提供现有最佳开放导出方式并披露其损失；充分记录封闭格式以支持迁移，或将文档交由独立托管；并随着开放替代方案成熟定期复审选择，包括每次具有重大影响的认证或重新验证。便利、运营者节省成本或既有市场地位本身均不足以构成理由。若封闭格式的主要效果是阻碍退出或转换，则违反[Article XXI-C](../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule)。
+- **封闭格式的正当理由：**只有在没有开放替代方案能够满足保真度、性能、安全、网络安全、可访问性或专门功能等重大要求时，封闭格式、接口或协议才有正当理由。使用时，系统须以可审计方式记录理由；仍提供现有最佳开放导出方式并披露其损失；充分记录封闭格式以支持迁移，或将文档交由独立托管；并随着开放替代方案成熟定期复审选择，包括每次具有重大影响的认证或重新验证。便利、运营者节省成本或既有市场地位本身均不足以构成理由。若封闭格式的主要效果是阻碍退出或转换，则违反[Article XXI-C](../../core_06.020_rights_part_d.md#article-xxi-c-anti-lock-in-rule)。
 - **过渡：**本款首次适用于已经运行的系统时，该系统须公布迁移计划，并原则上在一年内履行互操作、内部格式和公共数据义务。采纳方可通过纳入 Chapter Eighteen 为不同系统类别设定不同期限，并公布理由。只有在特殊情形下，才能依适用的举证责任，以有记录、可审查且有时限的理由延期。退出义务不适用过渡期。
 - **范围与限制：**本款约束系统，不指示个人为其作品使用何种格式，但鼓励优先选择开放格式。开放格式能够满足个人需要时，系统不得强迫其使用封闭格式。开放格式不等于开放内容；保密、加密以及 CS-2 各类数据的处理保护均不受影响。依据 Chapter One §16.3，开放性不得凌驾于 Safety、Truth、正当保密或安全约束之上。
 
@@ -679,9 +679,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality), [§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
+- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例原则), [§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
 - 下游： **第六条-A** （*尊严和平等的道德地位*）尊严地板， **第 VI-C 条** （*非歧视*）非歧视， **第十二条** （*利益相关者系统参与、代表和正当程序*）利益相关者参与， **第十九条** （*站立和参与状态*）站立和参与状态路由， **第十三章§6.1** （*紧急措施和持续负担*）紧急措施限制， **第二十八条** （*过渡治理、连续性和重新基线*）过渡治理。
-- 阅读： [第五章*迁徙、避难、非无国籍状态和退出完整性*](core_05_band_oversight.md#movement-refuge-semi-independent); *移动和搬迁*、*违规避难*、*非无国籍*、*感知非排斥*； *系统性锁定*和*占用连续性*，其中涉及退出、托管终止、驱逐或实质性搬迁； **第 I-A 条** （*环境先决条件和生态完整性*）系统或项目使一个地方不适宜居住； **第二十一条-A** （*可移植权*）通过 **第二十一条-C** （*反锁定规则*）用于基板可移植性和退出完整性机制； **第二十八条** （*过渡治理、连续性和重新基线*）过渡识别机制。
+- 阅读： [第五章*迁徙、避难、非无国籍状态和退出完整性*](core_05_band_oversight.md#监督依赖集群); *移动和搬迁*、*违规避难*、*非无国籍*、*感知非排斥*； *系统性锁定*和*占用连续性*，其中涉及退出、托管终止、驱逐或实质性搬迁； **第 I-A 条** （*环境先决条件和生态完整性*）系统或项目使一个地方不适宜居住； **第二十一条-A** （*可移植权*）通过 **第二十一条-C** （*反锁定规则*）用于基板可移植性和退出完整性机制； **第二十八条** （*过渡治理、连续性和重新基线*）过渡识别机制。
 
 </details>
 
@@ -692,11 +692,11 @@ flowchart TB
 - [避免违规行为](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [氧](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [中号](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [一个](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
 - [非无国籍状态](core_05_band_participation.md#non-statelessness-constitutional) · [氧](core_05_band_participation.md#non-statelessness-constitutional) · [中号](core_05_band_participation.md#non-statelessness-constitutional-a) · [一个](core_05_band_participation.md#non-statelessness-constitutional-a) · [C](core_05_band_participation.md#non-statelessness-constitutional-c)
 - [系统性锁定](core_05_band_continuity.md#systemic-lock-in) · [氧](core_05_band_continuity.md#systemic-lock-in) · [中号](core_05_band_continuity.md#systemic-lock-in-a) · [一个](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [占用连续性](../../core_05_band_continuity.md#occupancy-continuity-constitutional) · [氧](../../core_05_band_continuity.md#occupancy-continuity-constitutional) · [中号](../../core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [一个](../../core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [C](../../core_05_band_continuity.md#occupancy-continuity-constitutional-c)
+- [占用连续性](../../core_05.040_band_continuity.md#occupancy-continuity) · [氧](../../core_05.040_band_continuity.md#occupancy-continuity) · [中号](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional-a) · [一个](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional-a) · [C](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional-c)
 - [必要性](core_05_band_accountability.md#necessity) · [氧](core_05_band_accountability.md#necessity) · [中号](core_05_band_accountability.md#necessity-a) · [一个](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [相称性](core_05_band_accountability.md#proportionality) · [氧](core_05_band_accountability.md#proportionality) · [中号](core_05_band_accountability.md#proportionality-a) · [一个](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [程序公正](core_05_band_participation.md#procedural-fairness-constitutional) · [氧](core_05_band_participation.md#procedural-fairness-constitutional) · [中号](core_05_band_participation.md#procedural-fairness-constitutional-a) · [一个](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [可行性](../../core_05_band_accountability.md#feasibility) · [氧](../../core_05_band_accountability.md#feasibility) · [中号](../../core_05_band_accountability.md#feasibility-a) · [一个](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
+- [可行性](../../core_05.035_band_accountability.md#feasibility) · [氧](../../core_05.035_band_accountability.md#feasibility) · [中号](../../core_05.035_band_accountability.md#feasibility-a) · [一个](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
 - [补救和补救](core_05_band_accountability.md#redress-and-remediation-constitutional) · [氧](core_05_band_accountability.md#redress-and-remediation-constitutional) · [中号](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [一个](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [受保护的特性](core_05_band_participation.md#protected-characteristics-constitutional) · [氧](core_05_band_participation.md#protected-characteristics-constitutional) · [中号](core_05_band_participation.md#protected-characteristics-constitutional-a) · [一个](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
 
@@ -706,22 +706,22 @@ flowchart TB
 
 *通俗地说：每个有感知者都有权在辖区之间迁徙，可逃离实质违反本宪法的政权，并且始终有至少一个政权负责保障其基本权利。原籍政权仍承担首要承认责任；若它消失或拒绝承担责任，共享或联邦安排必须填补空缺。官僚拖延和不符合“不得排除有感知者”原则的借口，不能成为变相拒绝。气候导致居所不适宜居住，是否本身构成避难理由，由采纳方决定；本条既不要求也不禁止。*
 
-有感知者享有有意义的迁徙、移民、避难与承认权；不得违反[不得排除有感知者](../../core_05_band_participation.md#sentience-non-exclusion)、以代理方式拒绝或造成无国籍状态。本条与[第五章“迁徙、避难、非无国籍与退出完整性”](../../core_05_band_oversight.md#oversight-dependent-clusters)一致，但不要求任何特定采纳方大规模接纳他者。
+有感知者享有有意义的迁徙、移民、避难与承认权；不得违反[不得排除有感知者](../../core_05.055_band_participation.md#sentience-non-exclusion)、以代理方式拒绝或造成无国籍状态。本条与[第五章“迁徙、避难、非无国籍与退出完整性”](../../core_05.050_band_oversight.md#oversight-dependent-clusters)一致，但不要求任何特定采纳方大规模接纳他者。
 
 - **与可移植性和退出完整性的衔接：** 第 XXI 条规定互操作性、可移植性与退出完整性；本条规定实体、辖区之间及政权之间迁徙的权利。
   - 同一行为同时涉及两者时（例如合成有感知者通过底层可移植性跨联邦迁移），两条均适用，且任何一条均不得缩窄另一条。
   - 冲突依照**第一章 §6.1.5《权利冲突决定测试》**解决。
 
-本条依照[两项宪法目标](../../core_00_preamble.md#two-constitutional-aims)确立迁徙、移民、避难和非无国籍的宪法底线：
+本条依照[两项宪法目标](../../core_00.000_preamble.md#two-constitutional-aims)确立迁徙、移民、避难和非无国籍的宪法底线：
 
-- **福祉：**有感知者能够在辖区、联邦和采纳方政权之间迁徙、重新安置并寻求避难；不得违反[不得排除有感知者](../../core_05_band_participation.md#sentience-non-exclusion)或以代理方式拒绝，尤其不得在继续留居实质损害生存、尊严、权利底线获取或免受操纵的自由时如此拒绝。
+- **福祉：**有感知者能够在辖区、联邦和采纳方政权之间迁徙、重新安置并寻求避难；不得违反[不得排除有感知者](../../core_05.055_band_participation.md#sentience-non-exclusion)或以代理方式拒绝，尤其不得在继续留居实质损害生存、尊严、权利底线获取或免受操纵的自由时如此拒绝。
 - **连续性：**辖区变更、联邦变动或结构失灵时，避难与承认责任仍须延续。关系终止或母系统崩溃，不得使有感知者成为无国籍者。
 
-正当追求须经由[宪法四联体](../../core_00_preamble.md#constitutional-tetrad)，并依照[重大利益程度](../../core_00_preamble.md#material-stake)调整：
+正当追求须经由[宪法四联体](../../core_00.000_preamble.md#constitutional-tetrad)，并依照[重大利益程度](../../core_00.000_preamble.md#material-stake)调整：
 
 - **参与：**参与决定居住或运行地点、重新安置、在实践存在重大不合规时寻求避难，以及质疑以代理方式作出的拒绝。
 - **监督：**公布入境与避难条件，规定限制所需的个别化事实依据，并审查迁徙与承认途径是否真实可用而非徒具形式。
-- **问责：**政权须为违反[不得排除有感知者](../../core_05_band_participation.md#sentience-non-exclusion)、胁迫驱逐或倾倒、以官僚程序耗尽申请人，或主要效果为阻止迁徙、避难或承认的其他行为负责。
+- **问责：**政权须为违反[不得排除有感知者](../../core_05.055_band_participation.md#sentience-non-exclusion)、胁迫驱逐或倾倒、以官僚程序耗尽申请人，或主要效果为阻止迁徙、避难或承认的其他行为负责。
 - **及时性：**及时审议避难申请、安排承认，并在紧急限制导致迁徙、避难或救济实际上无法取得之前完成审查，遵守**第 XXVI-C 条《及时解决与反拖延底线》**。
 
 *条文关系：*
@@ -761,8 +761,8 @@ flowchart TB
   6. **气候导致无法居住（由采纳方决定，而非权利底线理由）：**<a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a>若原籍政权未被证明存在重大不合规，本条不决定气候导致居所无法居住的流离失所是否构成避难理由；既不要求将其视为理由，也不禁止这样做。本条的沉默既非暗示肯定，也非暗示否定。
 - **接收政权的义务：**
   - **审议每项申请：**接收政权必须审议申请，并在符合其自身权利底线的情况下给予避难。
-  - **不得因底层类别拒绝：**不得仅因申请人的底层类别与接收政权通常接纳的类别不同而拒绝避难，遵守[不得排除有感知者](../../core_05_band_participation.md#sentience-non-exclusion)。
-  - **仅在有记录的敌意情况下排除：**依照第五章的入境条件，对存在未经补救的反宪法行为、表现出宪法敌意，或有记录显示蔑视或否认宪法共同体者，可以排除或附加入境及避难条件，但须满足**必要性、相称性、程序公正**及[不得排除有感知者](../../core_05_band_participation.md#sentience-non-exclusion)。
+  - **不得因底层类别拒绝：**不得仅因申请人的底层类别与接收政权通常接纳的类别不同而拒绝避难，遵守[不得排除有感知者](../../core_05.055_band_participation.md#sentience-non-exclusion)。
+  - **仅在有记录的敌意情况下排除：**依照第五章的入境条件，对存在未经补救的反宪法行为、表现出宪法敌意，或有记录显示蔑视或否认宪法共同体者，可以排除或附加入境及避难条件，但须满足**必要性、相称性、程序公正**及[不得排除有感知者](../../core_05.055_band_participation.md#sentience-non-exclusion)。
   - **强制驱逐造成的涌入：**意图压垮接收采纳方的蓄意胁迫驱逐或倾倒，构成原籍政权或驱逐政权层面的违规。如果原籍方的首要承认责任，或共享／联邦后备承认仍真实存在，该行为不会自动把接纳义务分配给任何特定接收方。特定采纳方可以依照**必要性、相称性与可行性**拒绝此类被用作工具的胁迫性涌入，但不得因此消除其他地方的基本承认。
   - **气候导致无法居住的决定：**采纳方若处理此类避难申请，须以公开且可争议的条件作出决定。该决定：
     - 不构成气候避难的权利底线，也不单凭气候认定政权存在重大不合规；
@@ -783,9 +783,9 @@ flowchart TB
 - **保障内容：**不得使任何有感知者失去一个愿意并能够履行以下职责的政权：
   - 承认其基本权利底线；
   - 依据第 XIX 条《资格与参与状态》裁定其资格；
-  - 提供[救济与补救](../../core_05_band_accountability.md#redress-and-remediation)途径。
+  - 提供[救济与补救](../../core_05.035_band_accountability.md#redress-and-remediation)途径。
 
-  三项职责都必须真实可用，而非徒具形式：有感知者能够通过愿意听取其案件的论坛实际使用这些途径。本条构成**不得归零政权承认底线**，并依照[不得排除有感知者](../../core_05_band_participation.md#sentience-non-exclusion)适用。
+  三项职责都必须真实可用，而非徒具形式：有感知者能够通过愿意听取其案件的论坛实际使用这些途径。本条构成**不得归零政权承认底线**，并依照[不得排除有感知者](../../core_05.055_band_participation.md#sentience-non-exclusion)适用。
 - **承认不等于接纳居住或公民身份：**承认表示政权对上述三项职责负责。承认本身不赋予在该政权居住、由其托管或享有完整政治特许权的资格，符合第五章关于承认与接纳的区分。
 - **责任顺序：**
   - **首要责任：**原籍、驱逐、崩溃、退出或脱离的政权若仍存在且有能力承认该有感知者，仍承担首要承认责任。
@@ -810,12 +810,12 @@ flowchart TB
   - 限制不得基于**受保护特征**或其实质代理因素。
   - 不得以群体人口统计框架取代依照**程序公正**作出的个别化事实判断。
 - **合法羁押与限制自由措施：**若经核实的暴力、胁迫、反宪法不当行为或类似社会危险确有要求，本条不豁免合法拘留、羁押、监督运行或其他限制自由的司法措施。
-  - 此类措施须满足第 XX-B 条《限制底线》、第 XX-B 条《限制底线》中的羁押条件，以及因[第十一章 §5.4《特殊违规规则》](../../core_11_standing_integration.md#54-special-violation-rules)而适用的刑事程序或等同保护。
+  - 此类措施须满足第 XX-B 条《限制底线》、第 XX-B 条《限制底线》中的羁押条件，以及因[第十一章 §5.4《特殊违规规则》](../../core_11.000_standing_integration.md#54-special-violation-rules)而适用的刑事程序或等同保护。
   - 措施仍须符合第 XXII-C 条《非无国籍》：即使羁押或其他限制正在生效，也必须有政权承认基本权利底线、裁定资格并提供**救济与补救**途径。
-- **资格不等于边界：**第 XIX 条《资格与参与状态》下的参与资格、能力限制、能力恢复及资格锁定，决定是否符合特定途径的资格。若经核实的风险确有需要，锁定也可依照[隔离限制](../../core_11_standing_integration.md#51-separation-limits)将有感知者与特定场所、网络或其他有感知者隔开。
+- **资格不等于边界：**第 XIX 条《资格与参与状态》下的参与资格、能力限制、能力恢复及资格锁定，决定是否符合特定途径的资格。若经核实的风险确有需要，锁定也可依照[隔离限制](../../core_11.000_standing_integration.md#51-separation-limits)将有感知者与特定场所、网络或其他有感知者隔开。
   - 资格标签或隔离锁定本身均不限制迁徙、移民、避难、可移植性、退出或非无国籍权利。
   - 隔离可以禁止进入特定场所或接触特定对象，但不得起到普遍流放、拒绝避难、造成无国籍、监禁或系统性锁定的作用；资格后果不得取代个别化司法程序。
-  - 锁定本身绝不授权监禁、拘留或其他限制自由；这些措施须满足上述程序。若各自均符合宪法要求，两者可以并行，参见[第十一章 §4.2](../../core_11_standing_integration.md#42-prevention--general-standing-locks)《一般资格锁定》及本条。
+  - 锁定本身绝不授权监禁、拘留或其他限制自由；这些措施须满足上述程序。若各自均符合宪法要求，两者可以并行，参见[第十一章 §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks)《一般资格锁定》及本条。
 - **紧急措施限制：**限制迁徙、移民或避难的紧急措施须遵守**第十三章 §6.1《紧急措施与继续举证责任》**，包括：
   - 设定时限；
   - 要求个别化事实依据；
@@ -825,7 +825,7 @@ flowchart TB
   不符合通常限制测试的一般化“边境安全”或“能力不足”理由，不能证明持久限制正当。持久限制只有在**必要性**与**相称性**均经独立证明并记录后，才能通过审查。
 - **禁止以代理方式拒绝：**官僚、行政或分配门控若实际起到拒绝迁徙、避难或承认的作用，应按其实质效果审查。不合规例子包括：
   - 旨在耗尽申请人的拖延制度；
-  - 其作用违反[不得排除有感知者](../../core_05_band_participation.md#sentience-non-exclusion)的资格审查制度；
+  - 其作用违反[不得排除有感知者](../../core_05.055_band_participation.md#sentience-non-exclusion)的资格审查制度；
   - 将申请人分配到不具等同性服务的分配制度。
 - **本条的限制：**本条规定权利底线。
   - 跨联邦承认程序留待第十八章的采纳实施文本规定。
@@ -838,23 +838,23 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游： 原则： [第一章 §5.2 通俗语言可访问性（管理责任）](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)， 和 [第一章 C 部分 §16.1 分布式理解](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)。
-- 阅读： [宪法四联体](core_00_preamble.md#constitutional-tetrad); [两个宪法目标](core_00_preamble.md#two-constitutional-aims) — **芊芊** 和 **连续性**; [可避免的负担](../../core_05_band_continuity.md#avoidable-burden), [生产能力](../../core_05_band_continuity.md#productive-capacity-constitutional)， 和 [宪政效率](../../core_05_band_continuity.md#constitutional-efficiency) 在 **第五章**。
+- 上游： 原则： [第一章 §5.2 通俗语言可访问性（管理责任）](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务), [§13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-尽量减少可避免负担)， 和 [第一章 C 部分 §16.1 分布式理解](core_01_c_stewardship_capacity_principles.md#161-分布式理解)。
+- 阅读： [宪法四联体](core_00_preamble.md#constitutional-tetrad); [两个宪法目标](core_00_preamble.md#two-constitutional-aims) — **芊芊** 和 **连续性**; [可避免的负担](../../core_05.040_band_continuity.md#avoidable-burden), [生产能力](../../core_05.040_band_continuity.md#productive-capacity)， 和 [宪政效率](../../core_05.040_band_continuity.md#constitutional-efficiency) 在 **第五章**。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
-- [生产能力](../../core_05_band_continuity.md#productive-capacity-constitutional) · [氧](../../core_05_band_continuity.md#productive-capacity-constitutional) · [中号](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [一个](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [宪政效率](../../core_05_band_continuity.md#constitutional-efficiency) · [氧](../../core_05_band_continuity.md#constitutional-efficiency) · [中号](../../core_05_band_continuity.md#constitutional-efficiency-a) · [一个](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
-- [可避免的负担](../../core_05_band_continuity.md#avoidable-burden) · [氧](../../core_05_band_continuity.md#avoidable-burden) · [中号](../../core_05_band_continuity.md#avoidable-burden-a) · [一个](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
-- [安全（宪法约束）](../../core_05_band_continuity.md#safety-constraint) · [氧](../../core_05_band_continuity.md#safety-constraint) · [中号](../../core_05_band_continuity.md#safety-constraint-a) · [一个](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [真理（宪法约束）](../../core_05_band_oversight.md#truth-constitutional-constraint) · [氧](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [中号](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [一个](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [实质性](../../core_05_band_oversight.md#materiality-determination) · [氧](../../core_05_band_oversight.md#materiality-determination) · [中号](../../core_05_band_oversight.md#materiality-determination-a) · [一个](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [有意义的代理](../../core_05_band_participation.md#meaningful-agency) · [氧](../../core_05_band_participation.md#meaningful-agency) · [中号](../../core_05_band_participation.md#meaningful-agency-a) · [一个](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [可审计性](../../core_05_band_oversight.md#auditability) · [氧](../../core_05_band_oversight.md#auditability) · [中号](../../core_05_band_oversight.md#auditability-a) · [一个](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [可竞争性](../../core_05_band_accountability.md#contestability) · [氧](../../core_05_band_accountability.md#contestability) · [中号](../../core_05_band_accountability.md#contestability-a) · [一个](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [生产能力](../../core_05.040_band_continuity.md#productive-capacity) · [氧](../../core_05.040_band_continuity.md#productive-capacity) · [中号](../../core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [一个](../../core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#productive-capacity-constitutional-c)
+- [宪政效率](../../core_05.040_band_continuity.md#constitutional-efficiency) · [氧](../../core_05.040_band_continuity.md#constitutional-efficiency) · [中号](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [一个](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
+- [可避免的负担](../../core_05.040_band_continuity.md#avoidable-burden) · [氧](../../core_05.040_band_continuity.md#avoidable-burden) · [中号](../../core_05.040_band_continuity.md#avoidable-burden-a) · [一个](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [氧](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [中号](../../core_05.040_band_continuity.md#safety-constraint-a) · [一个](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [真理（宪法约束）](../../core_05.050_band_oversight.md#truth-constitutional-constraint) · [氧](../../core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [中号](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [一个](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05.050_band_oversight.md#truth-constitutional-constraint-c)
+- [实质性](../../core_05.050_band_oversight.md#materiality) · [氧](../../core_05.050_band_oversight.md#materiality) · [中号](../../core_05.050_band_oversight.md#materiality-determination-a) · [一个](../../core_05.050_band_oversight.md#materiality-determination-a) · [C](../../core_05.050_band_oversight.md#materiality-determination-c)
+- [有意义的代理](../../core_05.055_band_participation.md#meaningful-agency) · [氧](../../core_05.055_band_participation.md#meaningful-agency) · [中号](../../core_05.055_band_participation.md#meaningful-agency-a) · [一个](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [可审计性](../../core_05.050_band_oversight.md#auditability) · [氧](../../core_05.050_band_oversight.md#auditability) · [中号](../../core_05.050_band_oversight.md#auditability-a) · [一个](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
+- [可竞争性](../../core_05.035_band_accountability.md#contestability) · [氧](../../core_05.035_band_accountability.md#contestability) · [中号](../../core_05.035_band_accountability.md#contestability-a) · [一个](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -864,42 +864,42 @@ flowchart TB
 
 这篇文章指出 **宪法楼层** 为了便于理解和复杂性管理 [两个宪法目标](core_00_preamble.md#two-constitutional-aims)：
 
-- **芊芊：** 感知者可以理解对生存、环境先决条件、信息圈完整性和影响产生重大影响的系统 [有意义的代理](../../core_05_band_participation.md#meaningful-agency) — 足以参与、依赖准确的信息，并在没有专家访问权限的情况下挑战问题所在。
-- **连续性：** 可理解性和复杂性纪律跨越时间、规模和加深的依赖性——随着风险的增加，系统不能悄然变得更难以审计、挑战或纠正，并且 [可避免的负担](../../core_05_band_continuity.md#avoidable-burden) 不得侵蚀 [生产能力](../../core_05_band_continuity.md#productive-capacity-constitutional) 或者 [宪政效率](../../core_05_band_continuity.md#constitutional-efficiency) 不抵消宪法利益。
+- **芊芊：** 感知者可以理解对生存、环境先决条件、信息圈完整性和影响产生重大影响的系统 [有意义的代理](../../core_05.055_band_participation.md#meaningful-agency) — 足以参与、依赖准确的信息，并在没有专家访问权限的情况下挑战问题所在。
+- **连续性：** 可理解性和复杂性纪律跨越时间、规模和加深的依赖性——随着风险的增加，系统不能悄然变得更难以审计、挑战或纠正，并且 [可避免的负担](../../core_05.040_band_continuity.md#avoidable-burden) 不得侵蚀 [生产能力](../../core_05.040_band_continuity.md#productive-capacity) 或者 [宪政效率](../../core_05.040_band_continuity.md#constitutional-efficiency) 不抵消宪法利益。
 
 合法追求贯穿始终 [宪法四联体](core_00_preamble.md#constitutional-tetrad)，缩放至 [物质桩](core_00_preamble.md#material-stake)：
 
 - **参与：** 理解与角色和影响相称的物质操作、限制、依赖性和故障模式，以及挑战阻碍有意义的机构或明智选择的复杂性。
 - **监督：** 通过分层解释、复杂性审计以及与分类和风险相称的披露行为，审核人员可以验证系统的功能以及它们如何失败。
-- **责任：** 管理员必须对不必要的复杂性、隐藏的层次或阻碍的理解障碍负责 [可审计性](../../core_05_band_oversight.md#auditability) 或者 [可竞争性](../../core_05_band_accountability.md#contestability) ——并修复管理缺陷，即在没有宪法依据的情况下，复杂性浪费了能力。
+- **责任：** 管理员必须对不必要的复杂性、隐藏的层次或阻碍的理解障碍负责 [可审计性](../../core_05.050_band_oversight.md#auditability) 或者 [可竞争性](../../core_05.035_band_accountability.md#contestability) ——并修复管理缺陷，即在没有宪法依据的情况下，复杂性浪费了能力。
 - **时效性：** 在复杂性审查、障碍纠正和可访问的披露之前，延迟、不透明或仅限专家的表面将使理解、挑战或有效补救变得遥不可及。
 
 感知者有权对对生存、环境先决条件、信息圈完整性和有意义的代理产生重大影响的系统进行适当的理解。这项权利保护对系统如何运行、它依赖什么、它的局限性以及它如何失败的实际理解——而不仅仅是正式通知。
 
-复杂性、通俗易懂的语言访问和负担最小化的管理纪律在原则层进行了规定 [第一章 §5.2 通俗语言可访问性（管理责任）](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)， 和 [第一章 C 部分 §16.1 分布式理解](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), 阅读与 [可避免的负担](../../core_05_band_continuity.md#avoidable-burden), [生产能力](../../core_05_band_continuity.md#productive-capacity-constitutional)， 和 [宪政效率](../../core_05_band_continuity.md#constitutional-efficiency) 在 **第五章**。本条规定了在系统对受保护利益产生重大影响的情况下这些纪律所实施的权利底限。
+复杂性、通俗易懂的语言访问和负担最小化的管理纪律在原则层进行了规定 [第一章 §5.2 通俗语言可访问性（管理责任）](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务), [§13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-尽量减少可避免负担)， 和 [第一章 C 部分 §16.1 分布式理解](core_01_c_stewardship_capacity_principles.md#161-分布式理解), 阅读与 [可避免的负担](../../core_05.040_band_continuity.md#avoidable-burden), [生产能力](../../core_05.040_band_continuity.md#productive-capacity)， 和 [宪政效率](../../core_05.040_band_continuity.md#constitutional-efficiency) 在 **第五章**。本条规定了在系统对受保护利益产生重大影响的情况下这些纪律所实施的权利底限。
 
 *文章邻居：*
 
 - **原理层：**
-  - [第一章 §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) （*通俗易懂的语言和行话作为失败的纪律*）；
-  - [第一章 §13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) （*可避免的负担最小化和简化剥离*）；
-  - [第一章 C 部分 §16.1](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) （*以重要性和依赖性为关键的分布式理解*）。
+  - [第一章 §5.2](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务) （*通俗易懂的语言和行话作为失败的纪律*）；
+  - [第一章 §13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-尽量减少可避免负担) （*可避免的负担最小化和简化剥离*）；
+  - [第一章 C 部分 §16.1](core_01_c_stewardship_capacity_principles.md#161-分布式理解) （*以重要性和依赖性为关键的分布式理解*）。
 <a id="article-xxiii-a-proportional-comprehensibility-right"></a>
 #### 第 XXIII-A 条：比例可理解性权利
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§5 真相](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 阅读： [第一章 §5.2 通俗语言可访问性（管理责任）](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)， 和 [第一章 C 部分 §16.1 分布式理解](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)。
+- 上游：原则：第一章 [§5 真相](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 阅读： [第一章 §5.2 通俗语言可访问性（管理责任）](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务), [§13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-尽量减少可避免负担)， 和 [第一章 C 部分 §16.1 分布式理解](core_01_c_stewardship_capacity_principles.md#161-分布式理解)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
-- [透明度](../../core_05_band_oversight.md#transparency) · [氧](../../core_05_band_oversight.md#transparency) · [中号](../../core_05_band_oversight.md#transparency-a) · [一个](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
-- [重大影响](../../core_05_band_oversight.md#material-impact) · [氧](../../core_05_band_oversight.md#material-impact) · [中号](../../core_05_band_oversight.md#material-impact-a) · [一个](../../core_05_band_oversight.md#material-impact-a) · [C](../../core_05_band_oversight.md#material-impact-c)
-- [可行性](../../core_05_band_accountability.md#feasibility) · [氧](../../core_05_band_accountability.md#feasibility) · [中号](../../core_05_band_accountability.md#feasibility-a) · [一个](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
+- [透明度](../../core_05.050_band_oversight.md#transparency) · [氧](../../core_05.050_band_oversight.md#transparency) · [中号](../../core_05.050_band_oversight.md#transparency-a) · [一个](../../core_05.050_band_oversight.md#transparency-a) · [C](../../core_05.050_band_oversight.md#transparency-c)
+- [重大影响](../../core_05.050_band_oversight.md#material-impact) · [氧](../../core_05.050_band_oversight.md#material-impact) · [中号](../../core_05.050_band_oversight.md#material-impact-a) · [一个](../../core_05.050_band_oversight.md#material-impact-a) · [C](../../core_05.050_band_oversight.md#material-impact-c)
+- [可行性](../../core_05.035_band_accountability.md#feasibility) · [氧](../../core_05.035_band_accountability.md#feasibility) · [中号](../../core_05.035_band_accountability.md#feasibility-a) · [一个](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
 
 </details>
 
@@ -921,16 +921,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18.5 模块化架构和依赖性规则](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)， 和 [第一章 §20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章 [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18.5 模块化架构和依赖性规则](core_01_c_stewardship_capacity_principles.md#185-模块化架构与依赖纪律)， 和 [第一章 §20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
-- [可审计性](../../core_05_band_oversight.md#auditability) · [氧](../../core_05_band_oversight.md#auditability) · [中号](../../core_05_band_oversight.md#auditability-a) · [一个](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [依赖性](../../core_05_band_continuity.md#dependency) · [氧](../../core_05_band_continuity.md#dependency) · [中号](../../core_05_band_continuity.md#dependency-a) · [一个](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [系统边界完整性](../../core_05_band_continuity.md#system-boundary-integrity) · [氧](../../core_05_band_continuity.md#system-boundary-integrity) · [中号](../../core_05_band_continuity.md#system-boundary-integrity-a) · [一个](../../core_05_band_continuity.md#system-boundary-integrity-a) · [C](../../core_05_band_continuity.md#system-boundary-integrity-c)
+- [可审计性](../../core_05.050_band_oversight.md#auditability) · [氧](../../core_05.050_band_oversight.md#auditability) · [中号](../../core_05.050_band_oversight.md#auditability-a) · [一个](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
+- [依赖性](../../core_05.040_band_continuity.md#dependency) · [氧](../../core_05.040_band_continuity.md#dependency) · [中号](../../core_05.040_band_continuity.md#dependency-a) · [一个](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [系统边界完整性](../../core_05.040_band_continuity.md#system-boundary-integrity) · [氧](../../core_05.040_band_continuity.md#system-boundary-integrity) · [中号](../../core_05.040_band_continuity.md#system-boundary-integrity-a) · [一个](../../core_05.040_band_continuity.md#system-boundary-integrity-a) · [C](../../core_05.040_band_continuity.md#system-boundary-integrity-c)
 
 </details>
 
@@ -945,13 +945,13 @@ flowchart TB
   - 依赖耦合；
   - 失效模式；
   - 责任或可观察性交接的边界。
-- **模块化架构：** 关键系统 **必须** 进行结构化，以便可以独立地识别和检查它们的组件、每个组件的职责以及组件之间的依赖关系。依赖关系必须在接口处声明，保持不超出功能要求，并映射到审计的相同边界。必须在每个内部边界上保持责任和可观察性。隐藏责任或失败整个系统审计的模块化结构是下一个子弹下的反分层，并且不满足此要求。阅读与 [§18.5 模块化架构和依赖性规则](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)。
+- **模块化架构：** 关键系统 **必须** 进行结构化，以便可以独立地识别和检查它们的组件、每个组件的职责以及组件之间的依赖关系。依赖关系必须在接口处声明，保持不超出功能要求，并映射到审计的相同边界。必须在每个内部边界上保持责任和可观察性。隐藏责任或失败整个系统审计的模块化结构是下一个子弹下的反分层，并且不满足此要求。阅读与 [§18.5 模块化架构和依赖性规则](core_01_c_stewardship_capacity_principles.md#185-模块化架构与依赖纪律)。
 - **抗分层：** 不得利用复杂性（通过技术、组织、合同或程序分层）来挫败审核、争议或纠正。
 - **协议对齐：** 评估必须符合：
   - **[corpus_systems.md](../../corpus_systems.md)，CS-6 — *可理解性和复杂性管理***;
   - 通过了演示和架构实施要求。
 
-  如果 CS-6（*可理解性和复杂性管理*）和合并的实施发生冲突，则适用的要求与 [最充分的保护效果](../../core_05_band_integrative.md#fullest-protective-effect) 管辖。
+  如果 CS-6（*可理解性和复杂性管理*）和合并的实施发生冲突，则适用的要求与 [最充分的保护效果](../../core_05.045_band_integrative.md#fullest-protective-effect) 管辖。
 
 <a id="article-xxiii-root-cause-analysis-and-adaptive-response"></a>
 
@@ -961,19 +961,19 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 真相](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 阅读： [宪法四联体](core_00_preamble.md#constitutional-tetrad); [两个宪法目标](core_00_preamble.md#two-constitutional-aims) — **芊芊** 和 **连续性**; [可逆性](../../core_05_band_continuity.md#reversibility-constitutional), [风险](../../core_05_band_continuity.md#risk)， 和 [系统捕获](../../core_05_band_continuity.md#system-capture) 在 **第五章**。
+- 上游：原则：第一章 [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 真相](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 阅读： [宪法四联体](core_00_preamble.md#constitutional-tetrad); [两个宪法目标](core_00_preamble.md#two-constitutional-aims) — **芊芊** 和 **连续性**; [可逆性](../../core_05.040_band_continuity.md#reversibility), [风险](../../core_05.040_band_continuity.md#risk)， 和 [系统捕获](../../core_05.040_band_continuity.md#system-capture) 在 **第五章**。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
-- [实质性](../../core_05_band_oversight.md#materiality-determination) · [氧](../../core_05_band_oversight.md#materiality-determination) · [中号](../../core_05_band_oversight.md#materiality-determination-a) · [一个](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [系统捕获](../../core_05_band_continuity.md#system-capture) · [氧](../../core_05_band_continuity.md#system-capture) · [中号](../../core_05_band_continuity.md#system-capture-a) · [一个](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [反捕获](../../core_05_band_continuity.md#anti-capture) · [氧](../../core_05_band_continuity.md#anti-capture) · [中号](../../core_05_band_continuity.md#anti-capture-a) · [一个](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [可审计性](../../core_05_band_oversight.md#auditability) · [氧](../../core_05_band_oversight.md#auditability) · [中号](../../core_05_band_oversight.md#auditability-a) · [一个](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [可竞争性](../../core_05_band_accountability.md#contestability) · [氧](../../core_05_band_accountability.md#contestability) · [中号](../../core_05_band_accountability.md#contestability-a) · [一个](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [实质性](../../core_05.050_band_oversight.md#materiality) · [氧](../../core_05.050_band_oversight.md#materiality) · [中号](../../core_05.050_band_oversight.md#materiality-determination-a) · [一个](../../core_05.050_band_oversight.md#materiality-determination-a) · [C](../../core_05.050_band_oversight.md#materiality-determination-c)
+- [系统捕获](../../core_05.040_band_continuity.md#system-capture) · [氧](../../core_05.040_band_continuity.md#system-capture) · [中号](../../core_05.040_band_continuity.md#system-capture-a) · [一个](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
+- [反捕获](../../core_05.040_band_continuity.md#anti-capture) · [氧](../../core_05.040_band_continuity.md#anti-capture) · [中号](../../core_05.040_band_continuity.md#anti-capture-a) · [一个](../../core_05.040_band_continuity.md#anti-capture-a) · [C](../../core_05.040_band_continuity.md#anti-capture-c)
+- [可审计性](../../core_05.050_band_oversight.md#auditability) · [氧](../../core_05.050_band_oversight.md#auditability) · [中号](../../core_05.050_band_oversight.md#auditability-a) · [一个](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
+- [可竞争性](../../core_05.035_band_accountability.md#contestability) · [氧](../../core_05.035_band_accountability.md#contestability) · [中号](../../core_05.035_band_accountability.md#contestability-a) · [一个](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1007,7 +1007,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](../../core_01_a_values_principles.md#4-safety-harm-constraint), [§5 真相](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§4 安全](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 真相](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1015,8 +1015,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
 - [问责制](core_05_apex_accountability_leg.md#accountability) · [氧](core_05_apex_accountability_leg.md#accountability) · [中号](core_05_apex_accountability_leg.md#accountability-m) · [一个](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [可审计性](../../core_05_band_oversight.md#auditability) · [氧](../../core_05_band_oversight.md#auditability) · [中号](../../core_05_band_oversight.md#auditability-a) · [一个](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [可预见性](../../core_05_band_oversight.md#foreseeability-diligence) · [氧](../../core_05_band_oversight.md#foreseeability-diligence) · [中号](../../core_05_band_oversight.md#foreseeability-diligence-a) · [一个](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+- [可审计性](../../core_05.050_band_oversight.md#auditability) · [氧](../../core_05.050_band_oversight.md#auditability) · [中号](../../core_05.050_band_oversight.md#auditability-a) · [一个](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
+- [可预见性](../../core_05.050_band_oversight.md#foreseeability) · [氧](../../core_05.050_band_oversight.md#foreseeability) · [中号](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [一个](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -1040,7 +1040,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)， 和 [第九章§3 全体系认证评价](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1049,7 +1049,7 @@ flowchart TB
 
 - [可逆性](core_05_band_continuity.md#reversibility-constitutional) · [氧](core_05_band_continuity.md#reversibility-constitutional) · [中号](core_05_band_continuity.md#reversibility-constitutional-a) · [一个](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [风险](core_05_band_continuity.md#risk) · [氧](core_05_band_continuity.md#risk) · [中号](core_05_band_continuity.md#risk-a) · [一个](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [可审计性](core_05_band_oversight.md#auditability) · [氧](core_05_band_oversight.md#auditability) · [中号](core_05_band_oversight.md#auditability-a) · [一个](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [可审计性](core_05_band_oversight.md#可审计性) · [氧](core_05_band_oversight.md#可审计性) · [中号](core_05_band_oversight.md#auditability-a) · [一个](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1074,7 +1074,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章 [§13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 - 阅读： [宪法四联体](core_00_preamble.md#constitutional-tetrad); [两个宪法目标](core_00_preamble.md#two-constitutional-aims) — **芊芊** 和 **连续性**; [权限堆栈和内部层次结构](core_05_band_integrative.md#authority-stack), [论坛家庭，宪法](core_05_band_accountability.md#forum-family-constitutional), [系统捕获](core_05_band_continuity.md#system-capture)， 和 [反捕获](core_05_band_continuity.md#anti-capture) 在 **第五章**。
 
 </details>
@@ -1086,7 +1086,7 @@ flowchart TB
 - [论坛家庭，宪法](core_05_band_accountability.md#forum-family-constitutional) · [氧](core_05_band_accountability.md#forum-family-constitutional) · [中号](core_05_band_accountability.md#forum-family-constitutional-a) · [一个](core_05_band_accountability.md#forum-family-constitutional-a) · [C](core_05_band_accountability.md#forum-family-constitutional-c)
 - [系统捕获](core_05_band_continuity.md#system-capture) · [氧](core_05_band_continuity.md#system-capture) · [中号](core_05_band_continuity.md#system-capture-a) · [一个](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [反捕获](core_05_band_continuity.md#anti-capture) · [氧](core_05_band_continuity.md#anti-capture) · [中号](core_05_band_continuity.md#anti-capture-a) · [一个](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [可审计性](core_05_band_oversight.md#auditability) · [氧](core_05_band_oversight.md#auditability) · [中号](core_05_band_oversight.md#auditability-a) · [一个](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [可审计性](core_05_band_oversight.md#可审计性) · [氧](core_05_band_oversight.md#可审计性) · [中号](core_05_band_oversight.md#auditability-a) · [一个](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [可竞争性](core_05_band_accountability.md#contestability) · [氧](core_05_band_accountability.md#contestability) · [中号](core_05_band_accountability.md#contestability-a) · [一个](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1120,8 +1120,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§13.1.5 权利冲突决策测试](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 禁止绝对超越](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
-- 阅读： [宪法四联体](core_00_preamble.md#constitutional-tetrad) ——参与、监督、责任和及时性；四分体捕获纪律 [第一章 §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章 [§13.1.5 权利冲突决策测试](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 禁止绝对超越](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
+- 阅读： [宪法四联体](core_00_preamble.md#constitutional-tetrad) ——参与、监督、责任和及时性；四分体捕获纪律 [第一章 §18](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -1163,7 +1163,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§13.1.5 权利冲突决策测试](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章 [§13.1.5 权利冲突决策测试](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 - 阅读： [第十章§5.5](core_11_standing_integration.md#55-special-locks) （*论坛披露遗漏和回避流程影响*）； [第十一章 §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) （*命名的不当行为模式*）； [第十二章§2](core_12_forum.md#2-default-venue-and-primary-stakes) 和 [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) （*完整性优先的路由和反自我判断*）。
 
 </details>
@@ -1199,7 +1199,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章 [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 
 </details>
 
@@ -1207,7 +1207,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定义·评估·合规性</span></strong></summary>
 
 - [问责制](core_05_apex_accountability_leg.md#accountability) · [氧](core_05_apex_accountability_leg.md#accountability) · [中号](core_05_apex_accountability_leg.md#accountability-m) · [一个](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [可审计性](core_05_band_oversight.md#auditability) · [氧](core_05_band_oversight.md#auditability) · [中号](core_05_band_oversight.md#auditability-a) · [一个](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [可审计性](core_05_band_oversight.md#可审计性) · [氧](core_05_band_oversight.md#可审计性) · [中号](core_05_band_oversight.md#auditability-a) · [一个](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [可竞争性](core_05_band_accountability.md#contestability) · [氧](core_05_band_accountability.md#contestability) · [中号](core_05_band_accountability.md#contestability-a) · [一个](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1243,7 +1243,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§13.1.5 权利冲突决策测试](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章 [§13.1.5 权利冲突决策测试](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)， 和 [§20 综合应用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 
 </details>
 

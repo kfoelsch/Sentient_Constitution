@@ -69,7 +69,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)和[§15 宪法解释](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)和[§15 宪法解释](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)。
 - 配合阅读：及时性测量系列（*及时解决作为宪法测量*）。
 
 </details>
@@ -81,9 +81,9 @@ flowchart TB
 - [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [及时解决](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [恢复性司法](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [可审计性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [可审计性](core_05_band_oversight.md#可审计性) · [O](core_05_band_oversight.md#可审计性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [可争辩性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [透明度](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [透明度](core_05_band_oversight.md#透明度) · [O](core_05_band_oversight.md#透明度) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -111,7 +111,7 @@ flowchart TB
 *相关条款：*
 
 - **及时性底线：****第 XXVI-C 条**（*及时解决与反拖延底线*）规定解决速度、反拖延纪律和按重要性分级的里程碑，并通过[第十三章 §6 及时解决、重要性等级与反拖延纪律](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)实施。
-- **及时救济：**配合阅读[**第 XIII-B 条**（*获得补偿与救济的权利*）](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)（*及时获得救济*）。
+- **及时救济：**配合阅读[**第 XIII-B 条**（*获得补偿与救济的权利*）](core_06_rights_part_c.md#第十三条-b-款获得救济与补救的权利)（*及时获得救济*）。
 - **紧急措施：**由[第十三章 §6.1 紧急措施与继续实施的负担](core_13_forum.md#61-emergency-measures-and-continuation-burden)规定。对紧急措施进行回溯审查由**第 XXVI-A 条**（*回溯审查与披露*）规定。
 - **核实违规后的正义：**由**第 XX 条**（*核实违规后的正义*）规定。
 
@@ -126,16 +126,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：第一章[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 认知披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)和[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 认知披露限制](core_01_b_interaction_interpretation.md#132-认知披露限制)和[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [可审计性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [可审计性](core_05_band_oversight.md#可审计性) · [O](core_05_band_oversight.md#可审计性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [真实（宪法约束）](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [真实（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -163,7 +163,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：第一章[§13.1.5 权利冲突决策测试](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)和[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章[§13.1.5 权利冲突决策测试](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)和[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 - 配合阅读：[第十一章 §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）；[第十二章 §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
 
 </details>
@@ -202,7 +202,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：及时性测量系列（*及时解决与反拖延纪律作为宪法测量*）；[序言 §6.2 完整链条如何协同](core_00_preamble.md#62-how-the-full-chain-fits-together)（*资格、整合与论坛协调流程*）。
-- 原则：第一章[§9.2 宪法效率](core_01_a_values_principles.md#92-constitutional-efficiency)、[第一章 §13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)和[第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 原则：第一章[§9.2 宪法效率](core_01_a_values_principles.md#92-宪法效率)、[第一章 §13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-尽量减少可避免负担)和[第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 - 下游：[第十三章 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*重要性等级、流程里程碑与反拖延纪律*）；[第十三章 §6.1 紧急措施与继续实施的负担](core_13_forum.md#61-emergency-measures-and-continuation-burden)（*与紧急遏制后恢复通知和质疑权的默认时限相同的外部界限*）。
 - 管理员入口（非操作性）：下一步卡片：[拖延](implementation/STEWARD_ENTRY_DOORS.md#delay)。卡片不得缩小宪法规定。
 
@@ -229,7 +229,7 @@ flowchart TB
 - **协调目的：**依据**第 XX-A 条**（*正义目标与范围*）实施的宪法正义，应通过**宪法协调与解决制度**运作——核实事实、衡量资格、整合后果，并在可行时恢复——而不是无限期的对抗式拖延、声誉评分或为惩罚而惩罚。
 - **三项共同要求：**重大解决途径必须同时做到**及时**、**高效**和**公正**：
   - **及时**——期限明确，并根据[重大利害关系](core_00_preamble.md#material-stake)和伤害紧迫性调整；
-  - **高效**——按照第一章[§9.2 宪法效率](core_01_a_values_principles.md#92-constitutional-efficiency)的含义实现[宪法效率](core_05_band_continuity.md#constitutional-efficiency)，即每单位有感知者时间和共同投入都产生真实的宪法成果，而非追求原始吞吐量或清空案卷；
+  - **高效**——按照第一章[§9.2 宪法效率](core_01_a_values_principles.md#92-宪法效率)的含义实现[宪法效率](core_05_band_continuity.md#constitutional-efficiency)，即每单位有感知者时间和共同投入都产生真实的宪法成果，而非追求原始吞吐量或清空案卷；
   - **公正**——**第 XX-A 条**（*正义目标与范围*）和**第 XX-B 条**（*限制底线*）仍完全适用；迅速处理不是跳过核实事实（[第十章 §3.1 经核实输入门槛](core_10_standing_assessment.md#verified-inputs-for-standing)）、惩罚错误一方、提供与伤害不相称的补救或阻断质疑和上诉的理由。
 - **论坛和流程监督：**经由**第十章至第十三章**转交的争议所涉以下事项，由[第十三章 §6 及时解决、重要性等级与反拖延纪律](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)规定，并受本条及时、高效、公正底线约束：
   - 重要性等级分类；
@@ -259,13 +259,13 @@ flowchart TB
 - **问责：**控制治理的人员必须对仅因习惯或方便而维持规则负责；当真正的宪法变更被改挂为紧急、实施或保管事项以规避**权利底线最低要求**或合法修改宪法的规则时，也必须负责。
 - **及时性：**按照计划重新验证；当出现控制压力、利益相关方被排斥、质疑权削弱或重大表现不佳时，加快审查。
 
-治理规则、参与机制、加权模型和资金结构继续受[第一章 §18.4 持续正当化](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)中持续正当化纪律的约束。**第 XXVII-A 条**（*禁止固化与可修订性*）和**第 XXVII-B 条**（*定期重新验证与透明变更*）规定禁止固化、重新验证和透明变更的操作性底线。
+治理规则、参与机制、加权模型和资金结构继续受[第一章 §18.4 持续正当化](core_01_c_stewardship_capacity_principles.md#184-持续论证)中持续正当化纪律的约束。**第 XXVII-A 条**（*禁止固化与可修订性*）和**第 XXVII-B 条**（*定期重新验证与透明变更*）规定禁止固化、重新验证和透明变更的操作性底线。
 
 #### 第 XXVII-A 条：禁止固化与可修订性
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：[第一章 §18.4 持续正当化](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)；第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)和[第一章 §14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上游：原则：[第一章 §18.4 持续正当化](core_01_c_stewardship_capacity_principles.md#184-持续论证)；第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)和[第一章 §14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 
 </details>
 
@@ -273,7 +273,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [透明度](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [透明度](core_05_band_oversight.md#透明度) · [O](core_05_band_oversight.md#透明度) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [利益相关方](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -303,7 +303,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [透明度](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [透明度](core_05_band_oversight.md#透明度) · [O](core_05_band_oversight.md#透明度) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [可争辩性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -338,7 +338,7 @@ flowchart TB
 
 正当追求通过[宪法四元框架](core_00_preamble.md#constitutional-tetrad)进行，并根据[重大利害关系](core_00_preamble.md#material-stake)调整——影响、依赖和风险越大，各项义务就越严格：
 
-- **参与：**受影响的利益相关方在每个过渡阶段都有真实发言权——包括在采纳[门槛标准](core_05_band_oversight.md#gate-criteria)（计划继续前某阶段必须通过的已公布测试）之前查看并评论标准、查看其达成证据并质疑门槛决定；在过渡期间质疑没收或限制；以及在涉及权利或资格的临时权限续期时提出意见。
+- **参与：**受影响的利益相关方在每个过渡阶段都有真实发言权——包括在采纳[门槛标准](core_05_band_oversight.md#闸门标准)（计划继续前某阶段必须通过的已公布测试）之前查看并评论标准、查看其达成证据并质疑门槛决定；在过渡期间质疑没收或限制；以及在涉及权利或资格的临时权限续期时提出意见。
 - **监督：**过渡必须持续可观察、可核查——门槛达成并记录，临时权限接受独立审查，通过临时权限范围缩小、宪法运行成熟和权利底线达成情况经核实来衡量进展，记录可审计，并公布延误、回滚或重新设定基线的理由。
 - **问责：**负责过渡者必须对把过渡用作掩护负责，包括自行造成延误、为图方便走捷径、借口执法、治理真空、里程碑失败后将安排固化，或通过实施不一致悄然降低宪法底线。
 - **及时性：**临时权限必须有真实到期日；持续时间越长、触及的权利越多，重新授权的门槛就越高；停滞的过渡必须在临时僵局固化为新常态之前设置合法退出途径。
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)和[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第十一章 §5.4](core_11_standing_integration.md#54-special-violation-rules)（*本条在过渡期间限制不一致奖励的没收和报告*）；[第八章——系统协调认证](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)和[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第十一章 §5.4](core_11_standing_integration.md#54-special-violation-rules)（*本条在过渡期间限制不一致奖励的没收和报告*）；[第八章——系统协调认证](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
 
 </details>
 
@@ -373,7 +373,7 @@ flowchart TB
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [合比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [福祉](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [证据保全](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [证据保全](core_05_band_oversight.md#证据保全) · [O](core_05_band_oversight.md#证据保全) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -384,7 +384,7 @@ flowchart TB
 
 本条规定分阶段采纳，以及如何随着能力建设让权利底线最低要求变得可执行：
 
-- **分阶段采纳和门槛标准：**过渡计划必须分阶段且可审查。[**门槛**](core_05_band_oversight.md#gate)是两个阶段之间的检查点，或计划扩大采纳范围之前的检查点。[**门槛标准**](core_05_band_oversight.md#gate-criteria)是计划预先公布的具体、可衡量条件；在门槛开启之前，必须依据经核实的证据证明这些条件已满足。
+- **分阶段采纳和门槛标准：**过渡计划必须分阶段且可审查。[**门槛**](core_05_band_oversight.md#闸门)是两个阶段之间的检查点，或计划扩大采纳范围之前的检查点。[**门槛标准**](core_05_band_oversight.md#闸门标准)是计划预先公布的具体、可衡量条件；在门槛开启之前，必须依据经核实的证据证明这些条件已满足。
   - 阶段推进必须依据已公布门槛标准的满足情况并形成记录，包括该阶段的权利底线达成里程碑和执法就绪里程碑；这些情况须由经核实的台账数据证明，而非仅凭声明。
   - 推进不得仅以以下任何一项为依据：
     - 已经过的时间；
@@ -392,12 +392,12 @@ flowchart TB
     - 政治压力。
   - 标准、证明其达成的证据以及门槛决定均须公布。受影响的利益相关方可以在标准采纳前提出意见，并质疑门槛决定。
   - 标准内容、责任方指派和验证材料由[**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)（*过渡治理与机构演进*）和[**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules)（*门槛标准和推进规则*）规定。
-- **采纳权利底线——立即克制，具备条件后提供：**根据[权利底线最低要求原则](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)，通过**第 VI 条**（*平等基本权利*）适用的**权利底线最低要求**，以及受影响情境所触发的生存、能动性、不歧视、可及性、可审计性和救济方面更严格的领域底线，构成每一阶段的采纳目标。执行权利底线所需的机构和文化尚不存在时，该底线无法完全执行；本条不作相反假设，也不允许因此降低底线。根据义务类型，底线以两种方式具有约束力：
+- **采纳权利底线——立即克制，具备条件后提供：**根据[权利底线最低要求原则](core_01_b_interaction_interpretation.md#权利底线最低保障原则)，通过**第 VI 条**（*平等基本权利*）适用的**权利底线最低要求**，以及受影响情境所触发的生存、能动性、不歧视、可及性、可审计性和救济方面更严格的领域底线，构成每一阶段的采纳目标。执行权利底线所需的机构和文化尚不存在时，该底线无法完全执行；本条不作相反假设，也不允许因此降低底线。根据义务类型，底线以两种方式具有约束力：
   - **克制义务**——采纳方和过渡主管机构不得做的事——自生效日起具有约束力，因为遵守这些义务不需要新建机构：
     - **不得明知或可避免地倒退：**不得蓄意或可避免地使任何有感知者获得权利底线保护的程度低于其**起始衡量值**；过渡措施也不得在实质上增加行使某项底线的难度。
     - **不得产生新的违规：**新系统、新政策、新做法以及现有系统的重大扩展，从一开始就必须按底线设计。下文的达成路径仅涵盖遗留缺口，不涵盖新的行为。
     - **不得造成不可逆损失：**下文的保全默认规则和[第一章 §13.1 默认临时立场](core_01_b_interaction_interpretation.md#default-interim-posture)完全适用。
-    - **不得在过渡措施中实施贬损、借口性、歧视性或隐瞒事实的行为**；这包括过渡主管机构根据[反贬损程序原则](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)必须遵守的**第 XXVIII-D 条**（*不合规财产与系统；自愿移交激励措施*）全部要求。
+    - **不得在过渡措施中实施贬损、借口性、歧视性或隐瞒事实的行为**；这包括过渡主管机构根据[反贬损程序原则](core_01_b_interaction_interpretation.md#禁止贬损性程序原则)必须遵守的**第 XXVIII-D 条**（*不合规财产与系统；自愿移交激励措施*）全部要求。
     - **如实报告：**除非有经核实的台账数据证明，否则不得声称某项底线可执行或已达成，也不得声称差距已经消除。
 
     在某一范围的论坛尚未就绪前，克制义务的临时执行由[**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication)（*权利底线达成台账*）规定。
@@ -442,7 +442,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)和[§14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)和[§14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 
 </details>
 
@@ -485,7 +485,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)和[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)和[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 - 配合阅读：[第八章](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*系统协调认证*）；[第九至第十三章](core_00_preamble.md#62-how-the-full-chain-fits-together)（*资格流程与论坛监督*）。
 
 </details>
@@ -493,7 +493,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [可审计性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [可审计性](core_05_band_oversight.md#可审计性) · [O](core_05_band_oversight.md#可审计性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [可逆性](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

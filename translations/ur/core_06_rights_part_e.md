@@ -73,7 +73,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ پذیری</span></strong></summary>
 
-- ماقبل: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، اور [§15 آئینی تشریح](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)۔
+- ماقبل: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-آئینی-تصادم-کے-حل-کا-عمل)، اور [§15 آئینی تشریح](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)۔
 - ساتھ پڑھیں: بروقتی کی پیمائش کا خاندان (*بروقت حل بطور آئینی پیمائش*)۔
 
 </details>
@@ -85,9 +85,9 @@ flowchart TB
 - [طریقۂ کار کی منصفانہ حیثیت](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [بروقت حل](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [بحالی پر مبنی انصاف](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [آڈٹ کے قابل ہونا](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [آڈٹ کے قابل ہونا](core_05_band_oversight.md#آڈٹ-پذیری) · [O](core_05_band_oversight.md#آڈٹ-پذیری) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [قابلِ اعتراض ہونا](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -115,7 +115,7 @@ flowchart TB
 *متعلقہ دفعات:*
 
 - **بروقتی کا کم از کم معیار:** حل کی رفتار، تاخیر مخالف نظم، اور مادیت کی سطح کے مراحل **دفعہ XXVI-C** (*بروقت حل اور تاخیر کے خلاف کم از کم معیار*) کے تحت ہیں، جس پر [باب بارہ §6 بروقت حل، مادیت کے درجات اور تاخیر مخالف نظم](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) عمل درآمد کرتا ہے۔
-- **بروقت تلافی:** [**دفعہ XIII-B** (*تلافی اور چارہ جوئی کا حق*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*تلافی تک بروقت رسائی*) کے ساتھ پڑھیں۔
+- **بروقت تلافی:** [**دفعہ XIII-B** (*تلافی اور چارہ جوئی کا حق*)](core_06_rights_part_c.md#آرٹیکل-xiii-b-ازالے-اور-تدارک-کا-حق) (*تلافی تک بروقت رسائی*) کے ساتھ پڑھیں۔
 - **ہنگامی اقدامات:** [باب بارہ §6.1 ہنگامی اقدامات اور تسلسل کا بوجھ](core_13_forum.md#61-emergency-measures-and-continuation-burden) کے تحت ہیں۔ ہنگامی اقدام کا سابقہ جائزہ **دفعہ XXVI-A** (*سابقہ جائزہ اور افشا*) کے تحت ہے۔
 - **ثابت شدہ خلاف ورزی کے بعد انصاف:** **دفعہ XX** (*ثابت شدہ خلاف ورزی کے بعد انصاف*) کے تحت ہے۔
 
@@ -130,16 +130,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ پذیری</span></strong></summary>
 
-- ماقبل: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 علمی افشا کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [§20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-integrated-application)۔
+- ماقبل: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 علمی افشا کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں)، اور [§20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [آڈٹ کے قابل ہونا](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [آڈٹ کے قابل ہونا](core_05_band_oversight.md#آڈٹ-پذیری) · [O](core_05_band_oversight.md#آڈٹ-پذیری) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [سچائی (آئینی پابندی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -167,7 +167,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ پذیری</span></strong></summary>
 
-- ماقبل: اصول: باب اول [§13.1.5 حقوق کے تصادم کا فیصلہ جاتی امتحان](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§14 مطلق فوقیت کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)، اور [§20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-integrated-application)۔
+- ماقبل: اصول: باب اول [§13.1.5 حقوق کے تصادم کا فیصلہ جاتی امتحان](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§14 مطلق فوقیت کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)، اور [§20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق)۔
 - ساتھ پڑھیں: [باب یازدہم §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression) (*رضاکارانہ عوامی اظہارِ جوابدہی*)؛ [باب دوازدہم §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*رضاکارانہ عوامی اظہارِ جوابدہی (آئین مخالف)*)۔
 
 </details>
@@ -206,7 +206,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">سراغ پذیری</span></strong></summary>
 
 - ماقبل: بروقتی کی پیمائش کا خاندان (*بروقت حل اور تاخیر مخالف نظم بطور آئینی پیمائش*)؛ [تمہید §6.2 مکمل سلسلہ کس طرح مربوط ہوتا ہے](core_00_preamble.md#62-how-the-full-chain-fits-together) (*اہلیت، انضمام اور فورم کی ہم آہنگی کا سلسلہ*)۔
-- اصول: باب اول [§9.2 آئینی کارکردگی](core_01_a_values_principles.md#92-constitutional-efficiency)، [§13.3 قابلِ اجتناب بوجھ میں کمی](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، اور [§13.1.5 حقوق کے تصادم کا طریقۂ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)۔
+- اصول: باب اول [§9.2 آئینی کارکردگی](core_01_a_values_principles.md#92-آئینی-کارکردگی)، [§13.3 قابلِ اجتناب بوجھ میں کمی](core_01_b_interaction_interpretation.md#133-قابل-اجتناب-بوجھ-میں-کمی)، اور [§13.1.5 حقوق کے تصادم کا طریقۂ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)۔
 - بعد کے احکام: [باب سیزدہم §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*مادیت کے درجات، سلسلے کے مراحل اور تاخیر مخالف نظم*)؛ [باب سیزدہم §6.1 ہنگامی اقدامات اور تسلسل کا بوجھ](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*ہنگامی روک تھام کے بعد بحالی اور اعتراض کی معیاری مدتوں کے وہی بیرونی حدود*)۔
 - نگرانوں کے لیے داخلی راستہ (غیر عامل): اگلے قدم کا کارڈ: [تاخیر](implementation/STEWARD_ENTRY_DOORS.md#delay)۔ یہ کارڈ آئین کو محدود نہیں کر سکتا۔
 
@@ -220,7 +220,7 @@ flowchart TB
 - [آئینی کارکردگی](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [قابلِ اجتناب بوجھ](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [حل کے راستوں پر قبضہ](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [مادیت](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [مادیت](core_05_band_oversight.md#مادیت-کا-تعین) · [O](core_05_band_oversight.md#مادیت-کا-تعین) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -233,7 +233,7 @@ flowchart TB
 - **ہم آہنگی کا مقصد:** **دفعہ XX-A** (*انصاف کا مقصد اور دائرہ*) کے تحت آئینی انصاف ایک **آئینی ہم آہنگی اور حل کے نظام** کے ذریعے چلتا ہے — حقائق کی تصدیق، اہلیت کی پیمائش، نتائج کا انضمام، اور جہاں ممکن ہو بحالی — نہ کہ غیر معینہ مخالفانہ تاخیر، شہرت کی درجہ بندی یا محض سزا کے ذریعے۔
 - **تین مشترکہ تقاضے:** مادی مسائل کے حل کے راستے بیک وقت **بروقت**، **مؤثر** اور **منصفانہ** ہونے چاہییں:
   - **بروقت** — [مادی داؤ](core_00_preamble.md#material-stake) اور نقصان کی فوری ضرورت کے مطابق مقررہ مدتیں؛
-  - **مؤثر** — [آئینی کارکردگی](core_05_band_continuity.md#constitutional-efficiency)، باب اول [§9.2 آئینی کارکردگی](core_01_a_values_principles.md#92-constitutional-efficiency) کے مفہوم میں: ذی حس وجود کے وقت اور مشترکہ کوشش کے ہر خرچ کے مقابل حقیقی آئینی نتیجہ، نہ کہ خام گزرگاہی رفتار یا مقدمات نمٹانا؛
+  - **مؤثر** — [آئینی کارکردگی](core_05_band_continuity.md#constitutional-efficiency)، باب اول [§9.2 آئینی کارکردگی](core_01_a_values_principles.md#92-آئینی-کارکردگی) کے مفہوم میں: ذی حس وجود کے وقت اور مشترکہ کوشش کے ہر خرچ کے مقابل حقیقی آئینی نتیجہ، نہ کہ خام گزرگاہی رفتار یا مقدمات نمٹانا؛
   - **منصفانہ** — **دفعہ XX-A** (*انصاف کا مقصد اور دائرہ*) اور **دفعہ XX-B** (*پابندیوں کے کم از کم معیار*) پوری طرح لاگو رہتے ہیں؛ تیزی سے کام کرنا جانچے ہوئے حقائق چھوڑنے ([باب دہم §3.1 تصدیق شدہ معلومات کا دروازہ](core_10_standing_assessment.md#verified-inputs-for-standing))، غلط فریق کو سزا دینے، نقصان سے غیر متعلق حل دینے، یا اعتراض اور اپیل روکنے کا جواز نہیں۔
 - **فورمز اور سلسلے کی نگرانی:** **ابواب نہم تا دوازدہم** کے ذریعے بھیجے گئے تنازعات کے لیے درج ذیل امور [باب سیزدہم §6 بروقت حل، مادیت کے درجات اور تاخیر مخالف نظم](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) کے تابع ہیں، اور اس دفعہ کے بروقت، مؤثر اور منصفانہ ہونے کے کم از کم معیار کے مطابق ہوں گے:
   - مادیت کے درجے کی درجہ بندی؛
@@ -263,13 +263,13 @@ flowchart TB
 - **جوابدہی:** حکمرانی پر قابض افراد کو ان قواعد کے برقرار رہنے کا جواب دینا ہوگا جو صرف عادت یا سہولت کے باعث قائم رہیں، اور حقیقی آئینی تبدیلیوں کو ہنگامی، نفاذی یا تحویل کے عنوانات سے گزار کر **حقوق کے کم از کم معیار** یا آئین میں قانونی تبدیلی کے قواعد سے بچنے کی کوشش کا بھی جواب دینا ہوگا۔
 - **بروقتی:** طے شدہ ازسرنو توثیق اور قبضے کے دباؤ، متعلقہ فریقوں کے اخراج، اعتراض کے حقوق میں کمی یا مادی کم کارکردگی کے آثار پر تیز جائزہ۔
 
-حکمرانی کے قواعد، شرکت کے طریقے، وزن دینے کے ماڈل اور مالی ڈھانچے [باب اول §18.4 مسلسل جواز](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification) کے تحت مسلسل جواز کی پابندی کے تابع رہتے ہیں۔ **دفعہ XXVII-A** (*جمود سے بچاؤ اور نظرثانی پذیری*) اور **دفعہ XXVII-B** (*وقفے وقفے سے توثیق اور شفاف تبدیلی*) عملی طور پر جمود سے بچاؤ، ازسرنو توثیق اور شفاف تبدیلی کے کم از کم معیار مقرر کرتی ہیں۔
+حکمرانی کے قواعد، شرکت کے طریقے، وزن دینے کے ماڈل اور مالی ڈھانچے [باب اول §18.4 مسلسل جواز](core_01_c_stewardship_capacity_principles.md#184-مسلسل-جواز) کے تحت مسلسل جواز کی پابندی کے تابع رہتے ہیں۔ **دفعہ XXVII-A** (*جمود سے بچاؤ اور نظرثانی پذیری*) اور **دفعہ XXVII-B** (*وقفے وقفے سے توثیق اور شفاف تبدیلی*) عملی طور پر جمود سے بچاؤ، ازسرنو توثیق اور شفاف تبدیلی کے کم از کم معیار مقرر کرتی ہیں۔
 
 #### دفعہ XXVII-A: جمود سے بچاؤ اور نظرثانی پذیری
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ پذیری</span></strong></summary>
 
-- ماقبل: اصول: [باب اول §18.4 مسلسل جواز](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)؛ باب اول [§3 بنیادی مقصد: بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [باب ہشتم §3 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §14 مطلق فوقیت کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)۔
+- ماقبل: اصول: [باب اول §18.4 مسلسل جواز](core_01_c_stewardship_capacity_principles.md#184-مسلسل-جواز)؛ باب اول [§3 بنیادی مقصد: بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [باب ہشتم §3 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §14 مطلق فوقیت کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)۔
 
 </details>
 
@@ -277,7 +277,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
 - [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [متعلقہ فریق](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -307,7 +307,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [قابلِ اعتراض ہونا](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ پذیری</span></strong></summary>
 
-- ماقبل: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب ہشتم §3 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [باب یازدہم §5.4](core_11_standing_integration.md#54-special-violation-rules) (*یہ دفعہ انتقال کے دوران عدم مطابقت والے انعامات کے ضبط اور اطلاع دہی کو محدود کرتی ہے*)؛ [باب ہشتم — نظامی ہم آہنگی کی سرٹیفکیشن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)۔
+- ماقبل: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول)، اور [باب ہشتم §3 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [باب یازدہم §5.4](core_11_standing_integration.md#54-special-violation-rules) (*یہ دفعہ انتقال کے دوران عدم مطابقت والے انعامات کے ضبط اور اطلاع دہی کو محدود کرتی ہے*)؛ [باب ہشتم — نظامی ہم آہنگی کی سرٹیفکیشن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)۔
 
 </details>
 
@@ -376,7 +376,7 @@ flowchart TB
 - [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [بہبود](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [شواہد کا تحفظ](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [شواہد کا تحفظ](core_05_band_oversight.md#ثبوت-کا-تحفظ) · [O](core_05_band_oversight.md#ثبوت-کا-تحفظ) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -395,12 +395,12 @@ flowchart TB
     - سیاسی دباؤ۔
   - معیار، ان کے پورا ہونے کے شواہد، اور مرحلے کا فیصلہ شائع کیے جائیں۔ متاثرہ متعلقہ فریق اختیار سے پہلے معیار پر تبصرہ اور فیصلے پر اعتراض کر سکتے ہیں۔
   - معیار کا مواد، ذمہ داروں کی نامزدگی، اور تصدیقی مواد [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*انتقالی حکمرانی اور ادارہ جاتی ارتقا*) اور [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*مرحلے کے معیار اور آگے بڑھنے کے قواعد*) کے تابع ہیں۔
-- **حقوق کے کم از کم معیار کا اختیار — ابھی امتناع، تیاری کے ساتھ فراہمی:** [حقوق کے کم از کم معیار کا اصول](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) کے تحت **دفعہ VI** (*بنیادی حقوق میں مساوات*) کے ذریعے لاگو **حقوق کے کم از کم معیار**، اور متاثرہ سیاق سے لازم ہونے والے بقا، عملی اختیار، عدمِ امتیاز، رسائی، آڈٹ پذیری اور چارہ جوئی کے زیادہ مضبوط شعبہ جاتی معیار، ہر مرحلے کا اختیار کردہ ہدف ہیں۔ حقوقی کم از کم معیار اس وقت تک پوری طرح نافذ نہیں ہو سکتا جب تک اسے نافذ کرنے والے ادارے اور ثقافت موجود نہ ہوں؛ یہ دفعہ اس حقیقت سے انکار نہیں کرتی، مگر اسے معیار گھٹانے بھی نہیں دیتی۔ لہٰذا فرض کی نوعیت کے مطابق یہ معیار دو طریقوں سے پابند ہیں:
+- **حقوق کے کم از کم معیار کا اختیار — ابھی امتناع، تیاری کے ساتھ فراہمی:** [حقوق کے کم از کم معیار کا اصول](core_01_b_interaction_interpretation.md#حقوقی-بنیاد-کی-کم-از-کم-ضمانتوں-کا-اصول) کے تحت **دفعہ VI** (*بنیادی حقوق میں مساوات*) کے ذریعے لاگو **حقوق کے کم از کم معیار**، اور متاثرہ سیاق سے لازم ہونے والے بقا، عملی اختیار، عدمِ امتیاز، رسائی، آڈٹ پذیری اور چارہ جوئی کے زیادہ مضبوط شعبہ جاتی معیار، ہر مرحلے کا اختیار کردہ ہدف ہیں۔ حقوقی کم از کم معیار اس وقت تک پوری طرح نافذ نہیں ہو سکتا جب تک اسے نافذ کرنے والے ادارے اور ثقافت موجود نہ ہوں؛ یہ دفعہ اس حقیقت سے انکار نہیں کرتی، مگر اسے معیار گھٹانے بھی نہیں دیتی۔ لہٰذا فرض کی نوعیت کے مطابق یہ معیار دو طریقوں سے پابند ہیں:
   - **امتناعی فرائض** — وہ کام جو اختیار کنندہ اور انتقالی حکام نہیں کر سکتے — مؤثر تاریخ سے پابند ہیں، کیونکہ ان پر عمل کے لیے نئے ادارے درکار نہیں:
     - **جان بوجھ کر یا قابلِ اجتناب تنزل نہیں:** کسی ذی حس وجود کی حقوقی تحفظ تک رسائی کو اس کے **ابتدائی پیمانے** سے نیچے جان بوجھ کر یا قابلِ اجتناب طور پر کم نہیں کیا جا سکتا، اور کوئی انتقالی اقدام کسی معیار پر عمل کو مادی طور پر مشکل نہیں بنا سکتا۔
     - **نئی خلاف ورزیاں نہیں:** نئے نظام، پالیسیاں اور معمولات، نیز موجودہ نظاموں کی مادی توسیع، ابتدا ہی سے معیار کے مطابق بنائی جائے۔ ذیل کا حصولی راستہ صرف ورثے میں ملنے والی کمیوں پر لاگو ہے، نئے طرزِ عمل پر نہیں۔
     - **ناقابلِ واپسی نقصان نہیں:** ذیل میں تحفظ کی بنیادی شرط اور [باب اول §13.1 کا معیاری عبوری موقف](core_01_b_interaction_interpretation.md#default-interim-posture) پوری طرح لاگو ہوں گے۔
-    - انتقالی اقدامات میں **توہین آمیز، بہانے پر مبنی، امتیازی یا چھپانے والا طرزِ عمل نہیں**؛ اس میں وہ تمام تقاضے شامل ہیں جو **دفعہ XXVIII-D** (*غیر مطابق املاک اور نظام؛ رضاکارانہ حوالگی کے ترغیبات*) اس [توہین سے پاک عمل کے اصول](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) کے تحت انتقالی حکام پر عائد کرتی ہے۔
+    - انتقالی اقدامات میں **توہین آمیز، بہانے پر مبنی، امتیازی یا چھپانے والا طرزِ عمل نہیں**؛ اس میں وہ تمام تقاضے شامل ہیں جو **دفعہ XXVIII-D** (*غیر مطابق املاک اور نظام؛ رضاکارانہ حوالگی کے ترغیبات*) اس [توہین سے پاک عمل کے اصول](core_01_b_interaction_interpretation.md#توہین-آمیز-عمل-کی-ممانعت-کا-اصول) کے تحت انتقالی حکام پر عائد کرتی ہے۔
     - **ایماندارانہ رپورٹنگ:** کسی معیار کو قابلِ نفاذ یا حاصل شدہ، یا کسی فرق کو بند شدہ نہیں کہا جا سکتا، سوائے تصدیق شدہ رجسٹر کے اعداد و شمار کے۔
 
     کسی دائرے کے لیے فورم کے تیار ہونے سے پہلے امتناعی فرائض کا عبوری نفاذ [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*حقوق کے کم از کم معیار کے حصول کا رجسٹر*) کے تحت ہے۔
@@ -444,7 +444,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادست ماخذ: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [§14 مطلق بالادستی کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)۔
+- بالادست ماخذ: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول)، اور [§14 مطلق بالادستی کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)۔
 
 </details>
 
@@ -486,7 +486,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادست ماخذ: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [§20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-integrated-application)۔
+- بالادست ماخذ: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول)، اور [§20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق)۔
 - ساتھ پڑھیں: [باب ہشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*نظامی مطابقت کی توثیق*)؛ [باب دہم سے دوازدہم](core_00_preamble.md#62-how-the-full-chain-fits-together) (*قانونی حیثیت کا سلسلہ اور فورمز کی نگرانی*)۔
 
 </details>
@@ -494,7 +494,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [قابلِ آڈٹ ہونا](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلِ آڈٹ ہونا](core_05_band_oversight.md#آڈٹ-پذیری) · [O](core_05_band_oversight.md#آڈٹ-پذیری) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [واپسی پذیری](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

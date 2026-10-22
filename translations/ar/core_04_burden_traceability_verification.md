@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">موضع الملف في المتن (غير تشغيلي): بنية الملف وقواعد القراءة</span></strong></summary>
 
-> هذا الملف **تجريب بلغة القارئ** لـ[الفصل الرابع بالإنجليزية](../../core_04_burden_traceability_verification.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
+> هذا الملف **تجريب بلغة القارئ** لـ[الفصل الرابع بالإنجليزية](../../core_04.000_burden_traceability_verification.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_04_burden_traceability_verification.md`](../../core_04.000_burden_traceability_verification.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > **السابق (هذه اللغة):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
@@ -17,10 +17,10 @@
 <summary><strong><span style="color: #2563eb;">توجيه للقارئ (غير تشغيلي): أين يعيش الفصل الرابع وما يبقى هنا</span></strong></summary>
 
 > أين يعيش هذا (ملاحة):
-> - **خريطة الرباعية:** توزيع العبء والدليل وقابلية التتبع وقابلية الرصد والتحقق تنفّذ رِجلي **الرقابة** و**المساءلة** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) المقررتين في [الديباجة](core_00_preamble.md#chapter-00-preamble--foundational-requirements)؛ و**المشاركة** حيث تُطلب ماديًا عبر قابلية الرصد العملية والطعن المستقل تحت القسمين **3** و**4**. تتصاعد المتطلبات مع [الرهان المادي](core_00_preamble.md#material-stake).
+> - **خريطة الرباعية:** توزيع العبء والدليل وقابلية التتبع وقابلية الرصد والتحقق تنفّذ رِجلي **الرقابة** و**المساءلة** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) المقررتين في [الديباجة](core_00_preamble.md#الديباجة--المتطلبات-التأسيسية)؛ و**المشاركة** حيث تُطلب ماديًا عبر قابلية الرصد العملية والطعن المستقل تحت القسمين **3** و**4**. تتصاعد المتطلبات مع [الرهان المادي](core_00_preamble.md#material-stake).
 > - **المالك الدستوري:** توزيع العبء ودليل الامتثال وقابلية تتبع التعريف وقابلية الرصد والتحقق المقيَّد أمنيًا. يملك **الفصل العاشر** انضباط سجلات الوضعية والمدخلات الموثّقة مقروءًا مع هذا الفصل.
 > - **مالك التنفيذ:** يجب أن تبقى ميكانيكا النشر ومعالجة البيانات والضمان في ملفات التنفيذ المعيَّنة متسقة مع هذه القواعد، ويجوز أن تكون أشد حيث يوفّر المتن أصلًا منطق قاعدة أشد.
-> - **قاعدة منع النقل:** يحكم هذا الفصل العبء والتتبع وقابلية الرصد وحدود الأمن والدليل فقط. وهو لا يعيد بيان تعريفات الفصل الخامس، ولا قياس الإسهام أو الوضعية في **الفصل العاشر**، ولا معايير سوء السلوك المضاد للدستور في الفصل الثاني عشر. توجيه عدم الامتثال الموثَّق إلى الوضعية محكوم بـ[الفصل الثالث §3 — توصيفات إيجاد عدم الامتثال](core_03_definition_integrity.md#3-non-compliance-finding-profiles) و[الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). يبيّن **القسم 6** كيف تختلف الفصول من الثاني إلى الرابع عن [الفصل التاسع — تصديق مواءمة النظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+> - **قاعدة منع النقل:** يحكم هذا الفصل العبء والتتبع وقابلية الرصد وحدود الأمن والدليل فقط. وهو لا يعيد بيان تعريفات الفصل الخامس، ولا قياس الإسهام أو الوضعية في **الفصل العاشر**، ولا معايير سوء السلوك المضاد للدستور في الفصل الثاني عشر. توجيه عدم الامتثال الموثَّق إلى الوضعية محكوم بـ[الفصل الثالث §3 — توصيفات إيجاد عدم الامتثال](core_03_definition_integrity.md#3-توصيفات-إيجاد-عدم-الامتثال) و[الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). يبيّن **القسم 6** كيف تختلف الفصول من الثاني إلى الرابع عن [الفصل التاسع — تصديق مواءمة النظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 
 </details>
 
@@ -43,21 +43,21 @@
 
 | الخطوة | المهمة البسيطة | القسم |
 | --- | --- | --- |
-| **1 — من يُثبت** | العبء يقع على من يدّعي الامتثال | [§1](#1-exclusive-enforcement-and-burden-allocation) |
-| **2 — أظهِر الخريطة** | تتبع منظَّم من التعريفات إلى السلوك القابل للرصد | [§2](#2-definition-traceability-requirement) |
-| **3 — اجعله قابلًا للفحص** | يجب أن تكشف الأنظمة ما يكفي للتحقق من الخريطة — في الممارسة، لا في النظرية | [§3](#3-observability-of-traceability-requirement) |
-| **4 — حدود الأمن** | حدود الأمن الحقيقية مسموحة؛ الحظر بذريعة غير مسموح | [§4](#4-security-constrained-observability-and-verification-rule) |
-| **5 — ما يُحتسب** | يجب أن يكون الدليل حقيقيًا وكاملًا ومستقلًا ومستدامًا | [§5](#5-compliance-evidence-standard) |
+| **1 — من يُثبت** | العبء يقع على من يدّعي الامتثال | [§1](#1-الإنفاذ-الحصري-وتوزيع-العبء) |
+| **2 — أظهِر الخريطة** | تتبع منظَّم من التعريفات إلى السلوك القابل للرصد | [§2](#2-متطلب-قابلية-تتبع-التعريف) |
+| **3 — اجعله قابلًا للفحص** | يجب أن تكشف الأنظمة ما يكفي للتحقق من الخريطة — في الممارسة، لا في النظرية | [§3](#3-متطلب-قابلية-رصد-التتبع) |
+| **4 — حدود الأمن** | حدود الأمن الحقيقية مسموحة؛ الحظر بذريعة غير مسموح | [§4](#4-قاعدة-قابلية-الرصد-والتحقق-المقيدة-أمنيا) |
+| **5 — ما يُحتسب** | يجب أن يكون الدليل حقيقيًا وكاملًا ومستقلًا ومستدامًا | [§5](#5-معيار-دليل-الامتثال) |
 
-**تيسير اللغة البسيطة.** [الفصل الأول §3.4 — تيسير اللغة البسيطة (واجب المشاركة والإدارة المسؤولة)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) ينطبق على المواد الحوكمية ومواد البتّ في النزاعات والتشغيلية التي تستخدمها الكائنات الواعية لممارسة الحقوق أو الطعن في القرارات أو التحقق من الامتثال. اللغة البسيطة **لا** تغيّر ولا تنقص ما تطلبه الفصول من الثاني إلى الرابع. إذا اختلفت نسخة بلغة بسيطة عن قواعد التعريف أو التحقق هنا، فتلك القواعد تتحكم. استخدام المصطلحات المتخصصة أو التعقيد المتراكم أو الغموض لحجب الوصول إلى [قابلية الطعن](../../core_05_band_accountability.md#contestability) أو إلى [المادة XVI: التدقيق والشفافية والتحقق المستقل](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) عدم امتثال تحت هذا الفصل و**الفصل الأول §3.4**.
+**تيسير اللغة البسيطة.** [الفصل الأول §3.4 — تيسير اللغة البسيطة (واجب المشاركة والإدارة المسؤولة)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) ينطبق على المواد الحوكمية ومواد البتّ في النزاعات والتشغيلية التي تستخدمها الكائنات الواعية لممارسة الحقوق أو الطعن في القرارات أو التحقق من الامتثال. اللغة البسيطة **لا** تغيّر ولا تنقص ما تطلبه الفصول من الثاني إلى الرابع. إذا اختلفت نسخة بلغة بسيطة عن قواعد التعريف أو التحقق هنا، فتلك القواعد تتحكم. استخدام المصطلحات المتخصصة أو التعقيد المتراكم أو الغموض لحجب الوصول إلى [قابلية الطعن](../../core_05.035_band_accountability.md#contestability) أو إلى [المادة XVI: التدقيق والشفافية والتحقق المستقل](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) عدم امتثال تحت هذا الفصل و**الفصل الأول §3.4**.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. متطلب قابلية تتبع التعريف
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [الفصل الرابع، القسم 1 — الإنفاذ الحصري وتوزيع العبء](#1-exclusive-enforcement-and-burden-allocation)؛ [الفصل الثاني، §1 — الغرض والدور](core_02_definition_structure.md#1-purpose-and-role)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — قواعد التعريف وعدم الامتثال الموضوعية؛ و**§3** يبيّن متطلب خريطة التتبع فقط ولا يعيد بيان تلك القواعد.
-- أسفل: [الفصل الرابع، القسم 3 — متطلب قابلية رصد التتبع](#3-observability-of-traceability-requirement)؛ [الفصل الرابع، القسم 4 — قاعدة قابلية الرصد والتحقق المقيَّدة أمنيًا](#4-security-constrained-observability-and-verification-rule)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](#5-compliance-evidence-standard).
+- أعلى: [الفصل الرابع، القسم 1 — الإنفاذ الحصري وتوزيع العبء](#1-الإنفاذ-الحصري-وتوزيع-العبء)؛ [الفصل الثاني، §1 — الغرض والدور](core_02_definition_structure.md#1-الغرض-والدور)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-متطلب-سلامة-التعريف)؛ [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](core_03_definition_integrity.md#1-سلامة-التعريف-وقيود-منع-التهرب)؛ [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](core_03_definition_integrity.md#2-عدم-الامتثال-من-سلوك-النظام-القابل-للرصد) — قواعد التعريف وعدم الامتثال الموضوعية؛ و**§3** يبيّن متطلب خريطة التتبع فقط ولا يعيد بيان تلك القواعد.
+- أسفل: [الفصل الرابع، القسم 3 — متطلب قابلية رصد التتبع](#3-متطلب-قابلية-رصد-التتبع)؛ [الفصل الرابع، القسم 4 — قاعدة قابلية الرصد والتحقق المقيَّدة أمنيًا](#4-قاعدة-قابلية-الرصد-والتحقق-المقيدة-أمنيا)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](#5-معيار-دليل-الامتثال).
 
 </details>
 
@@ -87,14 +87,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: مبادئ: [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](#2-definition-traceability-requirement).
-- أسفل: [الفصل الرابع، القسم 4 — قاعدة قابلية الرصد والتحقق المقيَّدة أمنيًا](#4-security-constrained-observability-and-verification-rule)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](#5-compliance-evidence-standard).
-- يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05_band_oversight.md#foreseeability-diligence) — قابلية التحقق النظرية التي لا يمكن بلوغها عمليًا تحت شروط متوقَّعة على نحو معقول عدم امتثال.
-- يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05_band_oversight.md#foreseeability-diligence) — يجب تقييم الإعتام المدفوع بالتصميم مقابل شروط متوقَّعة على نحو معقول، لا مقابل التشغيل في أفضل الحالات.
+- أعلى: مبادئ: [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](#2-متطلب-قابلية-تتبع-التعريف).
+- أسفل: [الفصل الرابع، القسم 4 — قاعدة قابلية الرصد والتحقق المقيَّدة أمنيًا](#4-قاعدة-قابلية-الرصد-والتحقق-المقيدة-أمنيا)؛ [الفصل الرابع، القسم 5 — معيار دليل الامتثال](#5-معيار-دليل-الامتثال).
+- يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05.050_band_oversight.md#foreseeability) — قابلية التحقق النظرية التي لا يمكن بلوغها عمليًا تحت شروط متوقَّعة على نحو معقول عدم امتثال.
+- يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05.050_band_oversight.md#foreseeability) — يجب تقييم الإعتام المدفوع بالتصميم مقابل شروط متوقَّعة على نحو معقول، لا مقابل التشغيل في أفضل الحالات.
 
 </details>
 
-<strong><span style="color: #2563eb;">تعريف:</span></strong> [قابلية التوقع](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">تعريف:</span></strong> [قابلية التوقع](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *بعبارات بسيطة: يطلب القسم 2 خريطة تتبع — ويطلب هذا القسم أن يكشف النظام من نفسه ما يكفي حتى تستطيع الأطراف المخوَّلة أو المتأثرة فحص الخريطة في الممارسة، لا في النظرية وحدها. المعمارية المعتِمة والاعتمادات الخارجية ومكوّنات الصندوق الأسود لا تُعفى.*
 
@@ -122,13 +122,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: مبادئ: [الفصل الرابع، القسم 3 — متطلب قابلية رصد التتبع](#3-observability-of-traceability-requirement)؛ [الفصل الأول، القسم 8.2 — قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
-- أسفل: [الفصل الرابع، القسم 5 — معيار دليل الامتثال](#5-compliance-evidence-standard)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — أنواع المعلومات ومعالجتها**، و**CS-5** — التشفير التشغيلي وبيانات الاعتماد ومعالجة أنواع المعلومات.
-- يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05_band_oversight.md#foreseeability-diligence) — اختيارات التصميم التي تمنع التحقق على نحو متوقَّع تحت شروط متوقَّعة على نحو معقول عدم امتثال بصرف النظر عن مبرّر الأمن المعلَن؛ [الفصل الخامس الحقيقة (قيد دستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint) و[الفصل الخامس السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint) — يجب ألا تحل معالجة التشفير وأنواع المعلومات محل **الأقسام 2** أو **3** أو **5**؛ و**المواد VII-A** و**VII-B** و**XVI-A** و**XVII-A** حيث تكون قيود فصل البيئة ذات صلة مادية.
+- أعلى: مبادئ: [الفصل الرابع، القسم 3 — متطلب قابلية رصد التتبع](#3-متطلب-قابلية-رصد-التتبع)؛ [الفصل الأول، القسم 8.2 — قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+- أسفل: [الفصل الرابع، القسم 5 — معيار دليل الامتثال](#5-معيار-دليل-الامتثال)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — أنواع المعلومات ومعالجتها**، و**CS-5** — التشفير التشغيلي وبيانات الاعتماد ومعالجة أنواع المعلومات.
+- يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05.050_band_oversight.md#foreseeability) — اختيارات التصميم التي تمنع التحقق على نحو متوقَّع تحت شروط متوقَّعة على نحو معقول عدم امتثال بصرف النظر عن مبرّر الأمن المعلَن؛ [الفصل الخامس الحقيقة (قيد دستوري)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) و[الفصل الخامس السلامة (قيد)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) — يجب ألا تحل معالجة التشفير وأنواع المعلومات محل **الأقسام 2** أو **3** أو **5**؛ و**المواد VII-A** و**VII-B** و**XVI-A** و**XVII-A** حيث تكون قيود فصل البيئة ذات صلة مادية.
 
 </details>
 
-<strong><span style="color: #2563eb;">تعريف:</span></strong> [قابلية التوقع](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">تعريف:</span></strong> [قابلية التوقع](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *بعبارات بسيطة: يجوز للأمن أن يضيّق كيف يحدث الإفصاح أو التدقيق ومتى ولمن — وهو لا يستطيع محو واجب التتبع والتحقق وإتاحة الفحص المستقل.*
 
@@ -149,16 +149,16 @@
 - ذلك التقرير مبرَّر على نحو مستقل وقابل للتدقيق
 - يحفظ المنهج المتبقي نزاهة معرفية كافية لتقرير الامتثال
 
-يجب أن يتواءم التشفير ومعالجة أنواع المعلومات مع الدستور و**[corpus_systems.md](../../corpus_systems.md)، CS-2 — أنواع المعلومات ومعالجتها**؛ وحيث تكون ذات صلة مادية، يجب أن يسمحا مع ذلك بالتحقق الكامل من الامتثال تحت هذا الفصل. ويجب ألا تحل معالجة التشفير وأنواع المعلومات محل [الحقيقة (قيد دستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint) أو [السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint)، أو محل الواجبات في **الأقسام 2** أو **3** أو **5**.
+يجب أن يتواءم التشفير ومعالجة أنواع المعلومات مع الدستور و**[corpus_systems.md](../../corpus_systems.md)، CS-2 — أنواع المعلومات ومعالجتها**؛ وحيث تكون ذات صلة مادية، يجب أن يسمحا مع ذلك بالتحقق الكامل من الامتثال تحت هذا الفصل. ويجب ألا تحل معالجة التشفير وأنواع المعلومات محل [الحقيقة (قيد دستوري)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) أو [السلامة (قيد)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)، أو محل الواجبات في **الأقسام 2** أو **3** أو **5**.
 
 <a id="5-compliance-evidence-standard"></a>
 ### 5. معيار دليل الامتثال
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [الفصل الرابع، الأقسام 1 حتى 4](#1-exclusive-enforcement-and-burden-allocation)؛ [الفصل الثاني، §1 — الغرض والدور](core_02_definition_structure.md#1-purpose-and-role)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [الفصل الثاني، §3 الاتساق عبر رصّة التعريف](core_02_definition_structure.md#3-consistency-across-the-definition-stack)؛ [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [الفصل الثالث، §2.6 قيد سلامة عدم اليقين وعدم الاستغلال](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — قواعد التعريف وعدم الامتثال الموضوعية؛ و**§4** يبيّن متطلبات طبقة الدليل فقط ولا يعيد بيان تلك القواعد.
-- أسفل: [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- يُقرأ مع: [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](#2-definition-traceability-requirement) — الإخفاق في استدعاء أي تعريف من **الفصل الخامس** مطلوب ماديًا أو في تطبيقه تطبيقًا صحيحًا يُبطل التقييم والدليل وتقرير الامتثال المرتبطة بالكامل؛ [الفصل الأول، §6 — حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) حيث يؤثّر التصعيد في المقايضات بين عافية الكائنات الواعية واستقرار الأفق الطويل؛ [الفصل الخامس السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint)، و[الفصل الخامس الحقيقة (قيد دستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint)، و[الفصل الخامس النزاهة المعرفية](../../core_05_band_oversight.md#epistemic-integrity) — مواءمة دليل مستنيرة بالعلم للادعاءات التجريبية أو التنبؤية أو السببية.
+- أعلى: [الفصل الرابع، الأقسام 1 حتى 4](#1-الإنفاذ-الحصري-وتوزيع-العبء)؛ [الفصل الثاني، §1 — الغرض والدور](core_02_definition_structure.md#1-الغرض-والدور)؛ [الفصل الثاني، §2 متطلب سلامة التعريف](core_02_definition_structure.md#2-متطلب-سلامة-التعريف)؛ [الفصل الثاني، §3 الاتساق عبر رصّة التعريف](core_02_definition_structure.md#3-الاتساق-عبر-رصة-التعريف)؛ [الفصل الثالث، القسم 1 — سلامة التعريف وقيود منع التهرّب](core_03_definition_integrity.md#1-سلامة-التعريف-وقيود-منع-التهرب)؛ [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](core_03_definition_integrity.md#2-عدم-الامتثال-من-سلوك-النظام-القابل-للرصد)؛ [الفصل الثالث، §2.6 قيد سلامة عدم اليقين وعدم الاستغلال](core_03_definition_integrity.md#26-قيد-سلامة-عدم-اليقين-وعدم-الاستغلال) — قواعد التعريف وعدم الامتثال الموضوعية؛ و**§4** يبيّن متطلبات طبقة الدليل فقط ولا يعيد بيان تلك القواعد.
+- أسفل: [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- يُقرأ مع: [الفصل الرابع، القسم 2 — متطلب قابلية تتبع التعريف](#2-متطلب-قابلية-تتبع-التعريف) — الإخفاق في استدعاء أي تعريف من **الفصل الخامس** مطلوب ماديًا أو في تطبيقه تطبيقًا صحيحًا يُبطل التقييم والدليل وتقرير الامتثال المرتبطة بالكامل؛ [الفصل الأول، §6 — حل تعارض الإجراءات](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) حيث يؤثّر التصعيد في المقايضات بين عافية الكائنات الواعية واستقرار الأفق الطويل؛ [الفصل الخامس السلامة (قيد)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)، و[الفصل الخامس الحقيقة (قيد دستوري)](../../core_05.050_band_oversight.md#truth-constitutional-constraint)، و[الفصل الخامس النزاهة المعرفية](../../core_05.050_band_oversight.md#epistemic-integrity) — مواءمة دليل مستنيرة بالعلم للادعاءات التجريبية أو التنبؤية أو السببية.
 
 </details>
 
@@ -178,21 +178,21 @@
 - للادعاءات **التجريبية** أو **التنبؤية** أو **السببية** ذات الصلة المادية بالامتثال أو التصنيف أو الحوكمة، يعكس **النزاهة العلمية** حيث يكون ذلك متناسبًا — مناهج قابلة للاختبار أو للمراجعة، وافتراضات وقيود موثَّقة، ولا كبت لنتائج العدم أو لإعادات التجريب الفاشلة حيث تمس القرارات، واستنتاجات قابلة للمراجعة عند ظهور دليل جديد
 
 **ما يلي لا يستوفي عبء الإثبات تحت القسم 1:**
-- الإخفاق في استيفاء أي تعريف أو مكوّن مطلوب تحت [الفصل الثاني، §2.1 شروط السلامة الأساسية](core_02_definition_structure.md#21-core-integrity-conditions)، أو عدم الامتثال تحت [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — بما يُبطل جميع ادعاءات الامتثال التابعة تحت هذا الفصل
+- الإخفاق في استيفاء أي تعريف أو مكوّن مطلوب تحت [الفصل الثاني، §2.1 شروط السلامة الأساسية](core_02_definition_structure.md#21-شروط-السلامة-الأساسية)، أو عدم الامتثال تحت [الفصل الثالث، القسم 2 — عدم الامتثال من سلوك النظام القابل للرصد](core_03_definition_integrity.md#2-عدم-الامتثال-من-سلوك-النظام-القابل-للرصد) — بما يُبطل جميع ادعاءات الامتثال التابعة تحت هذا الفصل
 - الإخفاق في تقديم الدليل المطلوب حيث يوجد أو يُطلب تحت هذا الفصل
-- الإثبات بالبديل وحده أو الذاتي الشهادة أو الجزئي أو الانتقائي النطاق الذي يكون غير ممتثل تحت [الفصل الثالث، القسم 2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) إن عُومل بوصفه إظهار امتثال النظام
+- الإثبات بالبديل وحده أو الذاتي الشهادة أو الجزئي أو الانتقائي النطاق الذي يكون غير ممتثل تحت [الفصل الثالث، القسم 2](core_03_definition_integrity.md#2-عدم-الامتثال-من-سلوك-النظام-القابل-للرصد) إن عُومل بوصفه إظهار امتثال النظام
 - دليل غير كافٍ لاستيفاء متطلبات **يجب على الدليل أن** أعلاه
 
-حيث يمنع عدم اليقين إظهارًا قطعيًا للامتثال لمكوّنات تعريف ذات صلة مادية، طبّق [الفصل الثالث، §2.6 قيد سلامة عدم اليقين وعدم الاستغلال](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint). وحيث لا يُستوفى عبء الإثبات، الافتراضي هو حالة **عدم الامتثال**.
+حيث يمنع عدم اليقين إظهارًا قطعيًا للامتثال لمكوّنات تعريف ذات صلة مادية، طبّق [الفصل الثالث، §2.6 قيد سلامة عدم اليقين وعدم الاستغلال](core_03_definition_integrity.md#26-قيد-سلامة-عدم-اليقين-وعدم-الاستغلال). وحيث لا يُستوفى عبء الإثبات، الافتراضي هو حالة **عدم الامتثال**.
 
 <a id="6-relationship-to-system-alignment-certification"></a>
 ### 6. العلاقة بتصديق مواءمة النظام
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: [الفصل الثاني — بنية التعريفات ومتطلبات المكوّنات](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [الفصل الثالث — سلامة التعريف والتهرّب وعدم الامتثال](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [الفصل الرابع، الأقسام 1 حتى 5](#1-exclusive-enforcement-and-burden-allocation).
-- أسفل: [الفصل التاسع — تصديق مواءمة النظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- يُقرأ مع: [الفصل التاسع §7 — مخرجات التصديق](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) — يجوز لعدم الامتثال الموثَّق تحت الفصول من الثاني إلى الرابع أن يعيد فتح التصديق أو يهزمه بصرف النظر عن تصديق سابق.
+- أعلى: [الفصل الثاني — بنية التعريفات ومتطلبات المكوّنات](core_02_definition_structure.md#الفصل-الثاني-بنية-التعريفات-ومتطلبات-المكونات)؛ [الفصل الثالث — سلامة التعريف والتهرّب وعدم الامتثال](core_03_definition_integrity.md#الفصل-الثالث-سلامة-التعريف-والتهرب-وعدم-الامتثال)؛ [الفصل الرابع، الأقسام 1 حتى 5](#1-الإنفاذ-الحصري-وتوزيع-العبء).
+- أسفل: [الفصل التاسع — تصديق مواءمة النظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [الفصل العاشر — نموذج الإسهام والانتهاك والوضعية](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- يُقرأ مع: [الفصل التاسع §7 — مخرجات التصديق](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) — يجوز لعدم الامتثال الموثَّق تحت الفصول من الثاني إلى الرابع أن يعيد فتح التصديق أو يهزمه بصرف النظر عن تصديق سابق.
 
 </details>
 
@@ -203,13 +203,13 @@
 هذا القسم **غير تشغيلي**. وهو يبيّن **حد طبقة** فقط.
 
 تمدّ **الفصول الثاني والثالث والرابع** أساس التعريف والتحقق القائم:
-- **[الفصل الثاني](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)** — كيف تُبنى التعريفات وتُحفَظ متسقة داخليًا (O/M/A/C)
-- **[الفصل الثالث](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)** — كيف تنطبق التعريفات على السلوك الحقيقي، بما في ذلك عدم الامتثال والتهرّب
-- **[الفصل الرابع](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)** (الأقسام **1** حتى **5**) — عبء الإثبات وخرائط التتبع وقابلية الرصد وحدود الأمن ومعايير الدليل
+- **[الفصل الثاني](core_02_definition_structure.md#الفصل-الثاني-بنية-التعريفات-ومتطلبات-المكونات)** — كيف تُبنى التعريفات وتُحفَظ متسقة داخليًا (O/M/A/C)
+- **[الفصل الثالث](core_03_definition_integrity.md#الفصل-الثالث-سلامة-التعريف-والتهرب-وعدم-الامتثال)** — كيف تنطبق التعريفات على السلوك الحقيقي، بما في ذلك عدم الامتثال والتهرّب
+- **[الفصل الرابع](core_04_burden_traceability_verification.md#الفصل-الرابع-عبء-الإثبات-وقابلية-التتبع-والتحقق)** (الأقسام **1** حتى **5**) — عبء الإثبات وخرائط التتبع وقابلية الرصد وحدود الأمن ومعايير الدليل
 
 تنطبق هذه كلما قُيِّم الامتثال — مع التصديق أو من دونه.
 
-يمدّ **[الفصل التاسع — تصديق مواءمة النظام](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** **عملية التصديق** تحت إشراف المنتدى حيث يكون ذلك ماديًا: مجالات تقييم النظام كاملًا، وواجبات سجل التصديق، ونواتج التصديق، وإيقاع إعادة التصديق، وسلسلة قابلية الطعن، وجسر المدخلات الموثّقة إلى الفصل العاشر. وهو **يطبّق** الفصول من الثاني إلى الرابع؛ و**لا** يعيد بيانها.
+يمدّ **[الفصل التاسع — تصديق مواءمة النظام](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** **عملية التصديق** تحت إشراف المنتدى حيث يكون ذلك ماديًا: مجالات تقييم النظام كاملًا، وواجبات سجل التصديق، ونواتج التصديق، وإيقاع إعادة التصديق، وسلسلة قابلية الطعن، وجسر المدخلات الموثّقة إلى الفصل العاشر. وهو **يطبّق** الفصول من الثاني إلى الرابع؛ و**لا** يعيد بيانها.
 
 يجب ألا يعامل القرّاء:
 - **سجل تصديق** بوصفه بديلًا عن الامتثال المستمر تحت الفصول من الثاني إلى الرابع
@@ -222,4 +222,4 @@
 
 **الملف التالي (هذه اللغة):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**الأصل الملزم:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)
+**الأصل الملزم:** [core_04_burden_traceability_verification.md](../../core_04.000_burden_traceability_verification.md)

@@ -69,7 +69,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), এবং [§15 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§15 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)।
 - সঙ্গে পড়ুন: সময়োচিত নিষ্পত্তিকে সাংবিধানিক পরিমাপ হিসেবে দেখার সময়সীমা-পরিমাপ পরিবার।
 
 </details>
@@ -81,9 +81,9 @@ flowchart TB
 - [প্রক্রিয়াগত ন্যায্যতা](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [সময়োচিত নিষ্পত্তি](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [পুনরুদ্ধারমূলক ন্যায়বিচার](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [নিরীক্ষণযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [নিরীক্ষণযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [চ্যালেঞ্জযোগ্যতা](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [স্বচ্ছতা](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [স্বচ্ছতা](core_05_band_oversight.md#সবচছত) · [O](core_05_band_oversight.md#সবচছত) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -111,7 +111,7 @@ flowchart TB
 *অনুচ্ছেদের পার্শ্ববর্তী বিধান:*
 
 - **সময়োচিততার ন্যূনতম মান:** নিষ্পত্তির গতি, বিলম্ব-বিরোধী শৃঙ্খলা ও গুরুত্ব-স্তরের মাইলফলক **অনুচ্ছেদ XXVI-C** (*সময়োচিত নিষ্পত্তি ও বিলম্ব-বিরোধী ন্যূনতম মান*) দ্বারা নিয়ন্ত্রিত এবং [অধ্যায় বারো §6 সময়োচিত নিষ্পত্তি, গুরুত্ব-স্তর ও বিলম্ব-বিরোধী শৃঙ্খলা](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)-র মাধ্যমে প্রয়োগ হয়।
-- **সময়মতো প্রতিকার:** [**অনুচ্ছেদ XIII-B** (*প্রতিকার ও প্রতিশোধনের অধিকার*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*সময়মতো প্রতিকারের সুযোগ*)-এর সঙ্গে পড়ুন।
+- **সময়মতো প্রতিকার:** [**অনুচ্ছেদ XIII-B** (*প্রতিকার ও প্রতিশোধনের অধিকার*)](core_06_rights_part_c.md#অনচছদ-xiii-b-পরতকর-ও-সশধনর-অধকর) (*সময়মতো প্রতিকারের সুযোগ*)-এর সঙ্গে পড়ুন।
 - **জরুরি ব্যবস্থা:** [অধ্যায় বারো §6.1 জরুরি ব্যবস্থা ও অব্যাহত রাখার ভার](core_12_forum.md#61-emergency-measures-and-continuation-burden) দ্বারা নিয়ন্ত্রিত। জরুরি ব্যবস্থার পূর্ববর্তী পর্যালোচনা **অনুচ্ছেদ XXVI-A** (*পূর্ববর্তী পর্যালোচনা ও প্রকাশ*) দ্বারা নিয়ন্ত্রিত।
 - **যাচাইকৃত লঙ্ঘনের পর ন্যায়বিচার:** **অনুচ্ছেদ XX** দ্বারা নিয়ন্ত্রিত।
 
@@ -126,16 +126,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানগত প্রকাশের সীমা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানগত প্রকাশের সীমা](core_01_b_interaction_interpretation.md#132-জঞনতততবক-পরকশর-সমবদধত), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [নিরীক্ষণযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [নিরীক্ষণযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [সত্য (সাংবিধানিক বাধ্যবাধকতা)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [সত্য (সাংবিধানিক বাধ্যবাধকতা)](core_05_band_oversight.md#সতয-সবধনক-বনধন) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -164,7 +164,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§13.1.5 অধিকার-সংঘাত সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§13.1.5 অধিকার-সংঘাত সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 - সঙ্গে পড়ুন: [অধ্যায় দশ §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*স্বেচ্ছামূলক জনসম্মুখে জবাবদিহিমূলক বক্তব্য*); [অধ্যায় এগারো §4.3](core_11_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*স্বেচ্ছামূলক জনসম্মুখে জবাবদিহিমূলক বক্তব্য (সাংবিধানিক-বিরোধী)*)।
 
 </details>
@@ -204,7 +204,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
 - সময়োচিততা পরিমাপ পরিবার (*সাংবিধানিক পরিমাপ হিসেবে সময়োচিত নিষ্পত্তি ও বিলম্ব-বিরোধী শৃঙ্খলা*); [প্রস্তাবনা §6.2 সম্পূর্ণ ধারাটি কীভাবে যুক্ত](core_00_preamble.md#62-how-the-full-chain-fits-together) (*অধিকার-অবস্থান, একীকরণ ও ফোরাম-সমন্বয় ধারা*)।
-- নীতি: অধ্যায় এক [§9.2 সাংবিধানিক দক্ষতা](core_01_a_values_principles.md#92-constitutional-efficiency), [অধ্যায় এক §13.3 এড়ানো যায় এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
+- নীতি: অধ্যায় এক [§9.2 সাংবিধানিক দক্ষতা](core_01_a_values_principles.md#৯২-সবধনক-দকষত), [অধ্যায় এক §13.3 এড়ানো যায় এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#১৩৩-এডন-সমভব-এমন-বঝ-কমন), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
 - পরবর্তী বিধান: [অধ্যায় বারো §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*গুরুত্ব-স্তর, ধারার মাইলফলক ও বিলম্ব-বিরোধী শৃঙ্খলা*); [অধ্যায় বারো §6.1 জরুরি ব্যবস্থা ও অব্যাহত রাখার ভার](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*জরুরি নিয়ন্ত্রণের পর পুনরুদ্ধার-চ্যালেঞ্জের ডিফল্ট সময়সীমার একই বাইরের সীমা*)।
 - তত্ত্বাবধায়ক প্রবেশদ্বার (কার্যকর নয়): পরবর্তী পদক্ষেপের কার্ড: [বিলম্ব](implementation/STEWARD_ENTRY_DOORS.md#delay)। কার্ডটি সংবিধানকে সংকুচিত করতে পারে না।
 
@@ -218,7 +218,7 @@ flowchart TB
 - [সাংবিধানিক দক্ষতা](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [এড়ানো যায় এমন বোঝা](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [নিষ্পত্তির পথ দখল](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [গুরুত্ব](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [গুরুত্ব](core_05_band_oversight.md#তৎপরয-নরণয) · [O](core_05_band_oversight.md#তৎপরয-নরণয) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -231,7 +231,7 @@ flowchart TB
 - **সমন্বয়ের উদ্দেশ্য:** **অনুচ্ছেদ XX-A** (*ন্যায়বিচারের উদ্দেশ্য ও পরিধি*)-এর অধীন সাংবিধানিক ন্যায়বিচার চলে **সাংবিধানিক সমন্বয় ও নিষ্পত্তি ব্যবস্থার** মাধ্যমে — তথ্য যাচাই, অধিকার-অবস্থান মাপা, পরিণতি একত্র করা এবং সম্ভব হলে পুনরুদ্ধার — অনির্দিষ্ট প্রতিদ্বন্দ্বিতামূলক বিলম্ব, সুনাম-স্কোরিং বা শাস্তির জন্য শাস্তির মাধ্যমে নয়।
 - **তিনটি যৌথ শর্ত:** গুরুত্বপূর্ণ নিষ্পত্তির পথ একসঙ্গে **সময়োচিত**, **দক্ষ** ও **ন্যায্য** হতে হবে:
   - **সময়োচিত** — [গুরুত্বপূর্ণ ঝুঁকি](core_00_preamble.md#material-stake) ও ক্ষতির জরুরিতার সঙ্গে মানানসই নির্দিষ্ট সময়সীমা;
-  - **দক্ষ** — অধ্যায় এক [§9.2 সাংবিধানিক দক্ষতা](core_01_a_values_principles.md#92-constitutional-efficiency)-র অর্থে [সাংবিধানিক দক্ষতা](core_05_band_continuity.md#constitutional-efficiency): সংবেদনশীল সত্তার সময় ও যৌথ প্রচেষ্টার বিনিময়ে প্রকৃত সাংবিধানিক ফল, নিছক প্রক্রিয়ার গতি বা মামলা-তালিকা খালি করা নয়;
+  - **দক্ষ** — অধ্যায় এক [§9.2 সাংবিধানিক দক্ষতা](core_01_a_values_principles.md#৯২-সবধনক-দকষত)-র অর্থে [সাংবিধানিক দক্ষতা](core_05_band_continuity.md#constitutional-efficiency): সংবেদনশীল সত্তার সময় ও যৌথ প্রচেষ্টার বিনিময়ে প্রকৃত সাংবিধানিক ফল, নিছক প্রক্রিয়ার গতি বা মামলা-তালিকা খালি করা নয়;
   - **ন্যায্য** — **অনুচ্ছেদ XX-A** (*ন্যায়বিচারের উদ্দেশ্য ও পরিধি*) এবং **অনুচ্ছেদ XX-B** (*সীমাবদ্ধতার ন্যূনতম মান*) সম্পূর্ণ প্রযোজ্য; দ্রুততা যাচাইকৃত তথ্য বাদ দেওয়ার ([অধ্যায় নয় §3.1 যাচাইকৃত-ইনপুট গেট](core_09_standing_assessment.md#verified-inputs-for-standing)), ভুল পক্ষকে শাস্তি দেওয়ার, ক্ষতির সঙ্গে না-মেলা প্রতিকার দেওয়ার, বা চ্যালেঞ্জ ও আপিল বন্ধ করার অজুহাত নয়।
 - **ফোরাম ও ধারার তদারকি:** **অধ্যায় নয় থেকে বারো**-এর মাধ্যমে পাঠানো বিরোধের ক্ষেত্রে, এই অনুচ্ছেদের সময়োচিত, দক্ষ ও ন্যায্য ন্যূনতম মান সাপেক্ষে, নিচের বিষয়গুলি [অধ্যায় বারো §6 সময়োচিত নিষ্পত্তি, গুরুত্ব-স্তর ও বিলম্ব-বিরোধী শৃঙ্খলা](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) দ্বারা নিয়ন্ত্রিত:
   - গুরুত্ব-স্তর শ্রেণিবিন্যাস;
@@ -261,13 +261,13 @@ flowchart TB
 - **জবাবদিহি:** শাসন নিয়ন্ত্রণকারীদের জবাব দিতে হবে যখন নিয়ম কেবল অভ্যাস বা সুবিধার কারণে বহাল থাকে — এবং যখন প্রকৃত সাংবিধানিক পরিবর্তনকে জরুরি অবস্থা, বাস্তবায়ন বা হেফাজতের নামে ঘুরিয়ে **অধিকার-ন্যূনতম মান** বা সংবিধান বৈধভাবে পরিবর্তনের নিয়ম এড়ানো হয়।
 - **সময়োচিততা:** নির্ধারিত পুনঃযাচাইয়ে এবং দখলের চাপ, অংশীজন বর্জন, চ্যালেঞ্জ-অধিকারের অবনতি বা গুরুত্বপূর্ণ নিম্ন-কার্যকারিতার লক্ষণ দেখা দিলে ত্বরিত পর্যালোচনায়।
 
-শাসন-নিয়ম, অংশগ্রহণ-পদ্ধতি, ভোট-ওজনের মডেল ও অর্থায়ন কাঠামো [অধ্যায় এক §18.4 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)-র ধারাবাহিক যুক্তি প্রদানের শৃঙ্খলার অধীন। **অনুচ্ছেদ XXVII-A** (*স্থায়ীভাবে গেঁথে যাওয়া নিষেধ ও সংশোধনযোগ্যতা*) এবং **অনুচ্ছেদ XXVII-B** (*পর্যায়ক্রমিক পুনঃযাচাই ও স্বচ্ছ পরিবর্তন*) কার্যকর স্থায়ী-গেঁথে-যাওয়া বিরোধী, পুনঃযাচাই এবং স্বচ্ছ-পরিবর্তনের ন্যূনতম মান নির্ধারণ করে।
+শাসন-নিয়ম, অংশগ্রহণ-পদ্ধতি, ভোট-ওজনের মডেল ও অর্থায়ন কাঠামো [অধ্যায় এক §18.4 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#184-চলমন-যকতসমরথন)-র ধারাবাহিক যুক্তি প্রদানের শৃঙ্খলার অধীন। **অনুচ্ছেদ XXVII-A** (*স্থায়ীভাবে গেঁথে যাওয়া নিষেধ ও সংশোধনযোগ্যতা*) এবং **অনুচ্ছেদ XXVII-B** (*পর্যায়ক্রমিক পুনঃযাচাই ও স্বচ্ছ পরিবর্তন*) কার্যকর স্থায়ী-গেঁথে-যাওয়া বিরোধী, পুনঃযাচাই এবং স্বচ্ছ-পরিবর্তনের ন্যূনতম মান নির্ধারণ করে।
 
 #### অনুচ্ছেদ XXVII-A: স্থায়ীভাবে গেঁথে যাওয়া নিষেধ ও সংশোধনযোগ্যতা
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: [অধ্যায় এক §18.4 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); অধ্যায় এক [§3 মৌলিক লক্ষ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- পূর্ববর্তী ভিত্তি: নীতি: [অধ্যায় এক §18.4 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#184-চলমন-যকতসমরথন); অধ্যায় এক [§3 মৌলিক লক্ষ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 
 </details>
 
@@ -275,7 +275,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
 - [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [স্বচ্ছতা](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [স্বচ্ছতা](core_05_band_oversight.md#সবচছত) · [O](core_05_band_oversight.md#সবচছত) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [অংশীজন](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -306,7 +306,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [স্বচ্ছতা](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [স্বচ্ছতা](core_05_band_oversight.md#সবচছত) · [O](core_05_band_oversight.md#সবচছত) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [চ্যালেঞ্জযোগ্যতা](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*misaligned-reward forfeiture and reporting limited during transition by this Article*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*misaligned-reward forfeiture and reporting limited during transition by this Article*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -376,7 +376,7 @@ flowchart TB
 - [Accountability](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Wellbeing](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [Evidence Preservation](core_05_band_oversight.md#পরমণ-সরকষণ) · [O](core_05_band_oversight.md#পরমণ-সরকষণ) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -395,12 +395,12 @@ flowchart TB
     - রাজনৈতিক চাপ।
   - মানদণ্ড, তা পূরণের প্রমাণ এবং গেটের সিদ্ধান্ত প্রকাশ করতে হবে। প্রভাবিত অংশীজনেরা গ্রহণের আগে মানদণ্ডে মত দিতে এবং সিদ্ধান্তকে চ্যালেঞ্জ করতে পারবেন।
   - মানদণ্ডের বিষয়বস্তু, দায়িত্বপ্রাপ্তের নিয়োগ ও যাচাই-উপকরণ [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*রূপান্তর শাসন ও প্রাতিষ্ঠানিক বিবর্তন*) এবং [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*গেট-মানদণ্ড ও অগ্রগতির নিয়ম*) দ্বারা নিয়ন্ত্রিত।
-- **অধিকার-ন্যূনতম গ্রহণ — এখন সংযম, প্রস্তুতির সঙ্গে প্রদান:** **অনুচ্ছেদ VI** (*সমান মৌলিক অধিকার*)-এর অধীনে [অধিকার-ন্যূনতম মান নীতি](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) অনুসারে প্রয়োগ করা অধিকার-ন্যূনতম মান, এবং প্রভাবিত পরিস্থিতিতে প্রয়োজন হওয়া জীবনরক্ষা, স্বায়ত্তশাসন, বৈষম্যহীনতা, প্রবেশগম্যতা, নিরীক্ষণযোগ্যতা ও প্রতিকারের আরও শক্ত ক্ষেত্রভিত্তিক মান, প্রতিটি পর্যায়ের গৃহীত লক্ষ্য। প্রয়োগকারী প্রতিষ্ঠান ও সংস্কৃতি না থাকলে অধিকার-ন্যূনতম পুরোপুরি প্রয়োগ করা যায় না; এই অনুচ্ছেদ তা অস্বীকার করে না, আবার এ কারণে মান কমাতেও দেয় না। তাই দায়িত্বের ধরন অনুসারে মান দুটি উপায়ে বাধ্যতামূলক:
+- **অধিকার-ন্যূনতম গ্রহণ — এখন সংযম, প্রস্তুতির সঙ্গে প্রদান:** **অনুচ্ছেদ VI** (*সমান মৌলিক অধিকার*)-এর অধীনে [অধিকার-ন্যূনতম মান নীতি](core_01_b_interaction_interpretation.md#অধকর-সরকষর-নযনতম-মনর-নত) অনুসারে প্রয়োগ করা অধিকার-ন্যূনতম মান, এবং প্রভাবিত পরিস্থিতিতে প্রয়োজন হওয়া জীবনরক্ষা, স্বায়ত্তশাসন, বৈষম্যহীনতা, প্রবেশগম্যতা, নিরীক্ষণযোগ্যতা ও প্রতিকারের আরও শক্ত ক্ষেত্রভিত্তিক মান, প্রতিটি পর্যায়ের গৃহীত লক্ষ্য। প্রয়োগকারী প্রতিষ্ঠান ও সংস্কৃতি না থাকলে অধিকার-ন্যূনতম পুরোপুরি প্রয়োগ করা যায় না; এই অনুচ্ছেদ তা অস্বীকার করে না, আবার এ কারণে মান কমাতেও দেয় না। তাই দায়িত্বের ধরন অনুসারে মান দুটি উপায়ে বাধ্যতামূলক:
   - **সংযমের দায়** — গ্রহণকারী ও রূপান্তর কর্তৃপক্ষের যা করা চলবে না — কার্যকর তারিখ থেকে বাধ্যতামূলক, কারণ তা পালনে নতুন প্রতিষ্ঠান লাগে না:
     - **জেনেশুনে বা এড়ানো যায় এমন অবনতি নয়:** কোনো সংবেদনশীল সত্তার অধিকার-ন্যূনতম সুরক্ষায় প্রবেশাধিকার তার **প্রারম্ভিক মাপ**-এর নিচে ইচ্ছাকৃতভাবে বা এড়ানো সম্ভব এমনভাবে কমানো যাবে না; কোনো রূপান্তর ব্যবস্থা অধিকার প্রয়োগকে উল্লেখযোগ্যভাবে কঠিন করতে পারবে না।
     - **নতুন লঙ্ঘন নয়:** নতুন ব্যবস্থা, নীতি ও অনুশীলন এবং বিদ্যমান ব্যবস্থার গুরুত্বপূর্ণ সম্প্রসারণ শুরু থেকেই ন্যূনতম মান অনুযায়ী নকশা করতে হবে। নিচের অর্জন-পথ কেবল উত্তরাধিকারসূত্রে পাওয়া ঘাটতি নিয়ে, নতুন আচরণ নয়।
     - **অপরিবর্তনীয় ক্ষতি নয়:** নিচের সংরক্ষণ-ডিফল্ট এবং [অধ্যায় এক §13.1 ডিফল্ট অন্তর্বর্তী অবস্থান](core_01_b_interaction_interpretation.md#default-interim-posture) সম্পূর্ণ প্রযোজ্য।
-    - **অপমানজনক, ছুতোয়, বৈষম্যমূলক বা গোপনকারী আচরণ নয়** — রূপান্তর ব্যবস্থায় এমন আচরণ চলবে না; [অবনমনকারী-প্রক্রিয়া নীতি](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) অনুযায়ী **অনুচ্ছেদ XXVIII-D** (*অননুগত সম্পত্তি ও ব্যবস্থা; স্বেচ্ছামূলক হস্তান্তর প্রণোদনা*) রূপান্তর কর্তৃপক্ষের ওপর যে সব দায় আরোপ করে সেগুলিও এতে অন্তর্ভুক্ত।
+    - **অপমানজনক, ছুতোয়, বৈষম্যমূলক বা গোপনকারী আচরণ নয়** — রূপান্তর ব্যবস্থায় এমন আচরণ চলবে না; [অবনমনকারী-প্রক্রিয়া নীতি](core_01_b_interaction_interpretation.md#অবমননকর-পরকরয-নষধ-নত) অনুযায়ী **অনুচ্ছেদ XXVIII-D** (*অননুগত সম্পত্তি ও ব্যবস্থা; স্বেচ্ছামূলক হস্তান্তর প্রণোদনা*) রূপান্তর কর্তৃপক্ষের ওপর যে সব দায় আরোপ করে সেগুলিও এতে অন্তর্ভুক্ত।
     - **সৎ প্রতিবেদন:** যাচাইকৃত লেজার-তথ্য ছাড়া কোনো মানকে প্রয়োগযোগ্য বা অর্জিত, কিংবা কোনো ঘাটতিকে বন্ধ বলে দেখানো যাবে না।
 
     সংযমের দায় কোনো পরিধিতে ফোরাম প্রস্তুত হওয়ার আগে কীভাবে অন্তর্বর্তীভাবে প্রয়োগ হবে, তা [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*অধিকার-ন্যূনতম অর্জন লেজার*) দ্বারা নিয়ন্ত্রিত।
@@ -445,7 +445,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বিনিময়-নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), এবং [§14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বিনিময়-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [§14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 
 </details>
 
@@ -488,7 +488,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বিনিময়-নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বিনিময়-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 - সঙ্গে পড়ুন: [অধ্যায় আট](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*ব্যবস্থা-সামঞ্জস্য সনদায়ন*); [অধ্যায় নয় থেকে বারো](core_00_preamble.md#62-how-the-full-chain-fits-together) (*অধিকার-অবস্থান ধারা ও ফোরাম তদারকি*)।
 
 </details>
@@ -496,7 +496,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [নিরীক্ষণযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [নিরীক্ষণযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [প্রত্যাবর্তনযোগ্যতা](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

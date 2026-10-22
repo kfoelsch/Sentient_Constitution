@@ -123,7 +123,7 @@ flowchart TB
 
 تقرّر هذه المادة **الأرضيات الدستورية** للحقوق الأساسية المتساوية في **المواد VI-A إلى VI-D**. وتحدد **المادة VI-A** (*الكرامة والمكانة الأخلاقية المتساوية*) من يتمتع بالمكانة المتساوية: كل كائن واعٍ. وتحدد **المادة VI-B** (*الحد الأدنى للفصل في صفة الكائن الواعي*) كيفية البت في هذه الصفة عند النزاع عليها. وتسري ثلاثة متطلبات في جميع أجزاء **المادة VI** (*الحقوق الأساسية المتساوية*)، وكذلك عند فرض القيود والاحتواء وتدابير المساءلة الإصلاحية وتدابير الطوارئ وخطط الانتقال وآثار الصفة القانونية والتعديلات وقرارات التنفيذ والعقود والعمليات الدستورية المماثلة ومراجعتها وتنفيذها:
 
-- [**مبادئ الكرامة**](core_01_b_interaction_interpretation.md#dignity-principles) — [مبدأ الحدود الدنيا لأرضية الحقوق](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) و[مبدأ منع الإجراءات المهينة](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
+- [**مبادئ الكرامة**](core_01_b_interaction_interpretation.md#مبادئ-الكرامة) — [مبدأ الحدود الدنيا لأرضية الحقوق](core_01_b_interaction_interpretation.md#مبدأ-الحدود-الدنيا-للأرضية-الحقوقية) و[مبدأ منع الإجراءات المهينة](core_01_b_interaction_interpretation.md#مبدأ-الإجراءات-المنافية-للكرامة)
 - **عدم التمييز** بموجب **المادة VI-C** (*عدم التمييز*)
 - **إمكانية الوصول** بموجب **المادة VI-D** (*إمكانية الوصول*)
 
@@ -145,7 +145,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§6.1.4 مبادئ الكرامة](core_01_b_interaction_interpretation.md#dignity-principles)، و[§14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§6.1.4 مبادئ الكرامة](core_01_b_interaction_interpretation.md#مبادئ-الكرامة)، و[§14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - تُقرأ مع: [**Def.P1** *الحياة الحيوانية والحياة الواعية وحالة الوعي*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (الموطن المرجعي O/M/A/C في الفصل الخامس لمصطلح *الكائن الواعي* وانضباط حالة الوعي ذي الصلة، بما فيه المدخل الفرعي [Sentient](core_05_band_participation.md#sentient))؛ [حظر استبعاد الكائنات الواعية](core_05_band_participation.md#sentience-non-exclusion) (نطاق [محايد تجاه الركيزة](core_05_band_participation.md#substrate-agnostic)).
 
 </details>
@@ -169,13 +169,13 @@ flowchart TB
   - لا تتوقف هاتان الصفتان على المنشأ أو الشكل أو [الركيزة](core_05_band_participation.md#substrate-class) (بيولوجية أو اصطناعية أو هجينة) أو القدرة أو الوظيفة أو الارتباط أو الوضع.
   - ولا يجوز اتخاذ أي من هذه العوامل أساسًا لحرمان أحد من الحقوق أو المكانة أو الانتقاص منهما.
 - **حالة النمو:** لا تخفض مرحلة نمو الكائن الواعي — بما فيها التكوين الأولي — كرامته أو مكانته. وتحكم **المادة VIII-D** (*الكائنات الواعية النامية ومعيار المصلحة الفضلى والقدرة المتدرجة*) كيفية اتخاذ القرارات للكائن الذي لا تزال قدراته في طور الظهور.
-- **مبادئ الكرامة:** تكفل [مبادئ الكرامة](core_01_b_interaction_interpretation.md#dignity-principles) في الفصل الأول §13.1.4 (*الحدود الدستورية والسلامة والقيود المتعلقة بطابع الإجراءات*) هذه الحمايات بوصفها حدودًا مطلقة: [مبدأ الحدود الدنيا لحدود الحقوق](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) و[مبدأ مناهضة الإجراءات المهينة](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+- **مبادئ الكرامة:** تكفل [مبادئ الكرامة](core_01_b_interaction_interpretation.md#مبادئ-الكرامة) في الفصل الأول §13.1.4 (*الحدود الدستورية والسلامة والقيود المتعلقة بطابع الإجراءات*) هذه الحمايات بوصفها حدودًا مطلقة: [مبدأ الحدود الدنيا لحدود الحقوق](core_01_b_interaction_interpretation.md#مبدأ-الحدود-الدنيا-للأرضية-الحقوقية) و[مبدأ مناهضة الإجراءات المهينة](core_01_b_interaction_interpretation.md#مبدأ-الإجراءات-المنافية-للكرامة).
 <a id="article-vi-b-sentience-status-adjudication-floor"></a>
 #### المادة VI-B: الحد الأدنى للفصل في حالة الوعي
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[§13.1.3 التناسب](core_01_b_interaction_interpretation.md#1313-proportionality).
+- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-مبادئ-المفاضلة-الأساسية)، و[§13.1.3 التناسب](core_01_b_interaction_interpretation.md#1313-التناسب).
 - المصب: حدّ الكرامة في **المادة VI-A** (*الكرامة والمكانة الأخلاقية المتساوية*)؛ ضمانات منع الاستحواذ في **المادة XXIV** (*التفسير الدستوري والمراجعة وضمانات منع الاستحواذ*)؛ محافل الفصل والاختصاص في **الفصل الثاني عشر** — والقيادة الافتراضية لـ[أسرة المحافل، التقنية](core_05_band_accountability.md#forum-family-technical) / [مجالات المحافل التقنية](core_12_forum.md#42-technical-forum-domains) بموجب [آلية الفصل في حالة الوعي في الفصل الثاني عشر §5](core_12_forum.md#5-escalation-and-certification).
 - تُقرأ مع مصطلحات الفصل الخامس: *الفصل في حالة الوعي* و*حظر استبعاد الكائنات الواعية* و*تقييم الوعي* و*قابلية الرجوع* و*إمكان الطعن*.
 
@@ -215,9 +215,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§3.1 الإنصاف](core_01_a_values_principles.md#31-fairness)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- المنبع: المبادئ: الفصل الأول [§3.1 الإنصاف](core_01_a_values_principles.md#31-fairness)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-مبادئ-المفاضلة-الأساسية)، و[الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - المصب: عائلة قياس المشاركة (*الإنصاف الجوهري والاستعاضة بالسمات المحمية والأثر المتفاوت*)؛ [الفصل الثامن §3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*تقييم عدم التمييز حيث يشترط الاعتماد التصنيف أو الترتيب أو التسعير أو فرض القيود أو توزيع الأعباء*)؛ وعمليات المحافل والإدارة والإنفاذ في [الفصل الثاني عشر](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*واجب الفصل في القضايا والتشغيل*).
-- يُقرأ مع: الفصل الخامس [السمات المحمية](core_05_band_participation.md#protected-characteristics-constitutional) و[اللغة والثقافة والتراث](core_05_band_continuity.md#language-culture-and-heritage-constitutional)؛ والفصل الخامس [استمرارية الشعوب الأصلية](core_05_band_continuity.md#indigenous-continuity-constitutional) (*أرضية حقوق مرتكزة إلى المجتمع؛ وأرضيتا الحماية الأساسيتان **المادة VI-C** (عدم التمييز) و**المادة I-A** (الشروط البيئية المسبقة والسلامة الإيكولوجية)*) في مسائل استمرارية الشعوب الأصلية والاستمرارية الإقليمية، وهي مسائل تُحال إلى [المادة I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*شرط مسبق لسلامة النظام الإيكولوجي*) و[الفصل السابع عشر](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*انضباط ولاية الجهة المعتمِدة*).
+- يُقرأ مع: الفصل الخامس [السمات المحمية](core_05_band_participation.md#protected-characteristics-constitutional) و[اللغة والثقافة والتراث](core_05_band_continuity.md#language-culture-and-heritage-constitutional)؛ والفصل الخامس [استمرارية الشعوب الأصلية](core_05_band_continuity.md#indigenous-continuity-constitutional) (*أرضية حقوق مرتكزة إلى المجتمع؛ وأرضيتا الحماية الأساسيتان **المادة VI-C** (عدم التمييز) و**المادة I-A** (الشروط البيئية المسبقة والسلامة الإيكولوجية)*) في مسائل استمرارية الشعوب الأصلية والاستمرارية الإقليمية، وهي مسائل تُحال إلى [المادة I-A](core_06_rights_part_a.md#المادة-i-a-الشروط-البيئية-المسبقة-والنزاهة-البيئية) (*شرط مسبق لسلامة النظام الإيكولوجي*) و[الفصل السابع عشر](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*انضباط ولاية الجهة المعتمِدة*).
 
 </details>
 
@@ -262,9 +262,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، [§5.2 الإتاحة بلغة واضحة](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)، [الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، [§5.2 الإتاحة بلغة واضحة](core_01_a_values_principles.md#52-إتاحة-اللغة-الواضحة-واجب-المشاركة-والوصاية)، [الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - المصب: حدّ الكرامة في **المادة VI-A** (*الكرامة والمكانة الأخلاقية المتساوية*)، وعدم التمييز والإدماج الكامل في الفصل في المنازعات والعمليات في **المادة VI-C** (*عدم التمييز*)، وتكافؤ فرص التعليم في **المادة IV-A** (*تكافؤ فرص التعليم*)—فالإتاحة الخاصة بالتعليم من اختصاصها؛ وتقرر هذه المادة حدّ الحقوق المشترك بين المجالات—ومشاركة الحوكمة في **المادة X-B** (*المشاركة في الحوكمة واستحقاق التصويت*)، ومشاركة أصحاب المصلحة وتمثيلهم والإجراءات الواجبة في **المادة XII**، والتحقق المستقل في **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*)؛ وأسرة قياس المشاركة (*الإتاحة بوصفها قياسًا دستوريًا*)؛ [الفصل الثامن §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*تقييم الإتاحة حيث يجعل الاعتماد المشاركة الفعلية شرطًا جوهريًا*).
-- تُقرأ مع مصطلحات الفصل الخامس: *الإتاحة* و*الخصائص المحمية* و*الإنصاف الجوهري* و*الأهمية المادية* و*الاعتماد* و*القدرة الفاعلة ذات المعنى*. ومبدأ الإتاحة المشترك: [الفصل الأول §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*الإتاحة بلغة واضحة*).
+- تُقرأ مع مصطلحات الفصل الخامس: *الإتاحة* و*الخصائص المحمية* و*الإنصاف الجوهري* و*الأهمية المادية* و*الاعتماد* و*القدرة الفاعلة ذات المعنى*. ومبدأ الإتاحة المشترك: [الفصل الأول §5.2](core_01_a_values_principles.md#52-إتاحة-اللغة-الواضحة-واجب-المشاركة-والوصاية) (*الإتاحة بلغة واضحة*).
 
 </details>
 
@@ -300,7 +300,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§18 الحوكمة وفق انضباط الرعاية المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§18 الحوكمة وفق انضباط الرعاية المسؤولة](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
 
 </details>
 
@@ -364,10 +364,10 @@ flowchart TB
 - **متطلبات الصحة العامة:** يقيد اشتراط التطعيم — أو اشتراط مماثل لعلاج وقائي أو فحص — حق رفض الرعاية. ولا يُسمح به إلا إذا اجتاز [الفصل الأول §7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline) واستوفى جميع الشروط التالية:
   - أن يستجيب لخطر محدد ومدعوم بالأدلة يهدد بإلحاق ضرر كبير بالآخرين أو بالمجتمع ككل، لا بخطر يقع على الكائن الواعي وحده؛
   - أن تُجرّب أولًا بدائل ألطف يُرجح أن تنجح، مثل مشاركة المعلومات أو تقديم الإجراء طوعًا أو إتاحة بدائل كالفحص؛
-  - أن يُعفى كل من يشكل الإجراء نفسه خطرًا صحيًا حقيقيًا عليه، وأن يُراعى الضمير بموجب [**المادة XI-A**](#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*حرية الضمير والدين والرؤية العالمية المماثلة*)، وفق [التناسب](core_05_band_accountability.md#proportionality) في الحالتين: توازن الإعفاءات بحجم الخطر على الآخرين، ولا تضيق إلا بالقدر اللازم لمنع إحباط الإجراء؛
+  - أن يُعفى كل من يشكل الإجراء نفسه خطرًا صحيًا حقيقيًا عليه، وأن يُراعى الضمير بموجب [**المادة XI-A**](#article-xi-a-حرية-الضمير-والدين-والرؤى-العالمية-المماثلة) (*حرية الضمير والدين والرؤية العالمية المماثلة*)، وفق [التناسب](core_05_band_accountability.md#proportionality) في الحالتين: توازن الإعفاءات بحجم الخطر على الآخرين، ولا تضيق إلا بالقدر اللازم لمنع إحباط الإجراء؛
   - أن يكون لها تاريخ انتهاء، وأن تنشر الأدلة التي تستند إليها، وأن تخضع لمراجعة منتظمة؛
   - أن يتمكن كل متأثر من الطعن فيها أمام مراجع مستقل وفق [الإنصاف الإجرائي](core_05_band_participation.md#procedural-fairness-constitutional)؛ و
-  - ألا تُنفذ بعقوبات تسلب ضمانات البقاء أو الرعاية الصحية أو العمل في [**المادة III**](core_06_rights_part_a.md#article-iii-survival-and-essential-access) أو ضمانات التعليم في [**المادة IV**](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)، وألا تُنفذ بالقوة الجسدية مطلقًا إلا ضمن عتبات الطوارئ في [**الفصل الثاني عشر §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*تدابير الطوارئ وعبء استمرارها*).
+  - ألا تُنفذ بعقوبات تسلب ضمانات البقاء أو الرعاية الصحية أو العمل في [**المادة III**](core_06_rights_part_a.md#المادة-iii-البقاء-والوصول-الأساسي) أو ضمانات التعليم في [**المادة IV**](core_06_rights_part_a.md#المادة-iv-الحق-في-التعليم-المتمحور-حول-الكائن-الواعي)، وألا تُنفذ بالقوة الجسدية مطلقًا إلا ضمن عتبات الطوارئ في [**الفصل الثاني عشر §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*تدابير الطوارئ وعبء استمرارها*).
 <a id="article-vii-b-self-ownership-of-mind"></a>
 #### المادة VII-B: ملكية العقل
 <details>
@@ -400,7 +400,7 @@ flowchart TB
     - مراقبة كائن واعٍ أو تحليله عمدًا — مثلًا بالمراقبة أو جمع البيانات أو أدوات مصممة لهذا الغرض — لاكتشاف حالاته الداخلية أو إعادة بنائها؛
     - كشف الحالات الداخلية التي أبقاها خاصة.
 - **ملكية التركيز:** لكل كائن واعٍ الحق في التحكم بانتباهه وتفكيره وتحديد حدود معتادة لمن يتصل به وكيف. ولا يجوز لأحد الاستيلاء على انتباهه أو اختطافه بالضغط أو التلاعب.
-- **حظر إعادة بناء الحياة الداخلية من البيانات:** لا يجوز جمع سجلات ما يفعله الكائن الواعي أو كيفية تفاعله أو دمجها أو مطابقتها أو تحليلها بطريقة تمكّن أي شخص من إعادة بناء أفكاره ومشاعره الخاصة أو تقديرها. والاستثناءات محصورة فيما يسمح به هذا الدستور بموجب هذه المادة و**الفصل الأول** و**الفصل الخامس** و**CS-2** (*أنواع المعلومات والتعامل معها*). ويطبق هذا الحظر [مبدأ المعلومات المشتقة، الفصل الأول §15.1.2](core_01_b_interaction_interpretation.md#1512-derived-information-principle) على الحالات الداخلية، ويشمل:
+- **حظر إعادة بناء الحياة الداخلية من البيانات:** لا يجوز جمع سجلات ما يفعله الكائن الواعي أو كيفية تفاعله أو دمجها أو مطابقتها أو تحليلها بطريقة تمكّن أي شخص من إعادة بناء أفكاره ومشاعره الخاصة أو تقديرها. والاستثناءات محصورة فيما يسمح به هذا الدستور بموجب هذه المادة و**الفصل الأول** و**الفصل الخامس** و**CS-2** (*أنواع المعلومات والتعامل معها*). ويطبق هذا الحظر [مبدأ المعلومات المشتقة، الفصل الأول §15.1.2](core_01_b_interaction_interpretation.md#1512-مبدأ-المعلومات-المشتقة) على الحالات الداخلية، ويشمل:
   - إعادة بناء الحالات الداخلية مباشرة؛
   - إعادة بنائها بصورة غير مباشرة؛
   - إنتاج تقدير موثوق لها؛
@@ -413,7 +413,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1.3 التناسب](core_01_b_interaction_interpretation.md#1313-proportionality)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline).
+- المنبع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1.3 التناسب](core_01_b_interaction_interpretation.md#1313-التناسب)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline).
 - المصب: ملكية الذات وحدّ الحالة الداخلية في **المادتين VII-A / VII-B** (*ملكية الجسد* / *ملكية العقل*)؛ إتاحة الرعاية الصحية في **المادة III-B** (*صون الجسد وإتاحة الرعاية الصحية*)؛ إطار الحرمان غير الطوعي في **المادة XX** (*العدالة بعد الانتهاك المثبت*) / **المادة XX-B** (*حدود القيود*)؛ معيار المصلحة الفضلى والقدرة المتدرجة في **المادة VIII-D** (*الكائنات الواعية النامية ومعيار المصلحة الفضلى والقدرة المتدرجة*) عند تأثر كائن واعٍ نامٍ.
 - تُقرأ مع مصطلحات الفصل الخامس: *إتاحة صون الجسد* و*معيار المصلحة الفضلى* و*القدرة المتدرجة* و*الإنصاف الإجرائي* و*قابلية الرجوع* و*جبر الضرر والمعالجة*.
 
@@ -449,7 +449,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1.3 التناسب](core_01_b_interaction_interpretation.md#1313-proportionality)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline).
+- المنبع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1.3 التناسب](core_01_b_interaction_interpretation.md#1313-التناسب)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline).
 - المصب: ملكية الذات وحدّ الحالة الداخلية في **VII-A / VII-B** (*ملكية الجسد* / *ملكية العقل*)؛ الحرية من التلاعب في **المادة X-A** (*القدرة الفاعلة والحرية من التلاعب*)؛ **المادة XX-B** (*حدود القيود*)؛ والموافقة في **المادة XI-F** (*منع الفرض والموافقة في الارتباط*).
 - تُقرأ مع مصطلحات الفصل الخامس: *الإنهاء الطوعي*، *[مقياس الحرمان غير القابل للعكس](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*، *الموافقة*، *الإكراه والتلاعب*، *الإنصاف الإجرائي*؛ **III-A** (*البقاء*)، **III-B** (*صون الجسد وإتاحة الرعاية الصحية*)، **VII-C** (*الحد الأدنى لأزمة الصحة والتدخل غير الطوعي*).
 
@@ -483,7 +483,7 @@ flowchart TB
 #### المادة VII-E: الخدمات الجنسية التجارية الرضائية للبالغين والاستغلال الجنسي
 <details><summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-مبادئ-المفاضلة-الأساسية)، و[الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 
 </details>
 <details><summary><strong><span style="color: #2563eb;">التعاريف · التقييم · الامتثال</span></strong></summary>
@@ -515,7 +515,7 @@ flowchart TB
 ### المادة VIII: الأسرة والرعاية والكائنات الواعية النامية
 <details><summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§18 الحوكمة وفق انضباط الرعاية المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§18 الحوكمة وفق انضباط الرعاية المسؤولة](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
 
 </details>
 <br>
@@ -681,7 +681,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1.3 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality).
+- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1.3 Proportionality](core_01_b_interaction_interpretation.md#1313-التناسب).
 - الآثار اللاحقة: أرضية الكرامة في **Article VI-A** (*Dignity and Equal Moral Standing*)، وحدود الملكية الذاتية والحالات الداخلية في **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*)، والعلاقات الأسرية وعلاقات الرعاية في **Article VIII-A** (*Family and Care Relationships*)، وعدم الفصل في **Article VIII-E** (*Non-Separation*)، وعدم استبعاد الأهلية بسبب العمر في [**Chapter Thirteen §4.1**](core_13_governance.md#41-entitlement-and-eligibility).
 - يُقرأ مع: [*Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) (الموضع المشترك للاستناد إلى صفة النماء والمصلحة الفضلى والقدرة المتدرجة)؛ و[*Derived and Developing Sentients, Instantiation, and Care Authority*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) حيث يكون الاشتقاق أو الرعاية في مرحلة الإنشاء المبكرة ذا أثر جوهري؛ وفي الفصل الخامس: *Developing Sentient* و*Best-Interest Standard* و*Graduated Capability*؛ والمراجع المجاورة: **Article VI-B** (*Sentience-Status Adjudication Floor*) لوضع الوعي عند عتبة الاعتراف، و**Article VIII-A** (*Family and Care Relationships*) للعلاقات الأسرية وعلاقات الرعاية، و**Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) للاشتقاق والإنشاء وحدود النظام الأم، و**Article VIII-E** (*Non-Separation*) للانفصال عن مقدمي الرعاية أو الأسرة، و**Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) للملكية الذاتية، و**Article VII-B** مع **CS-2 — Information types and handling** لحماية الحالات الداخلية.
 
@@ -696,7 +696,7 @@ flowchart TB
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditability](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
@@ -737,7 +737,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: [الفصل الأول §7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)، [§13.1.3 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (قابلية الرجوع عند عدم اليقين)، و[§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+- الأسس العليا: المبادئ: [الفصل الأول §7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)، [§13.1.3 Proportionality](core_01_b_interaction_interpretation.md#1313-التناسب) (قابلية الرجوع عند عدم اليقين)، و[§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 - الآثار اللاحقة: العلاقات المحمية في **Article VIII-A** (*Family and Care Relationships*)، وحالات الاشتقاق في **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*)، والكائنات الواعية النامية ومقدمو رعايتها في **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*)، واستمرارية أرضية الحقوق في **Article XIII-E / XIII-F**، والمراجعة الدورية في **Chapter Twelve**.
 - يُقرأ مع: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) (الموضع المرجعي لمجموعة الموضوعات)؛ ومن الفصل الخامس *Non-Separation*.
 
@@ -778,7 +778,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: الفصل الأول [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، و[§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- الأسس العليا: المبادئ: الفصل الأول [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-عملية-حل-التعارض-الدستوري)، و[§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
 
 </details>
 
@@ -808,7 +808,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-قيود-الإفصاح-المعرفي).
 
 </details>
 
@@ -818,7 +818,7 @@ flowchart TB
 - [Likeness and Documentary Depiction Interface](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [O](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [M](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [A](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [C](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-c)
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
 - [Good Faith](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Truth (Constitutional Constraint)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -852,7 +852,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[الفصل الأول §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- الأسس العليا: المبادئ: [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-قيود-الإفصاح-المعرفي)، و[الفصل الأول §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 
 </details>
 
@@ -902,7 +902,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[الفصل الثامن §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-قيود-الإفصاح-المعرفي)، و[الفصل الثامن §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -910,9 +910,9 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [Good Faith](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Truth (Constitutional Constraint)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Epistemic Integrity](core_05_band_oversight.md#النزاهة-المعرفية) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -950,7 +950,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§9.1 Productive Capacity (Instrumental Good)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)، [الفصل الأول §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، [الفصل الثامن §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§9.1 Productive Capacity (Instrumental Good)](core_01_a_values_principles.md#91-القدرة-الإنتاجية-خير-أداتي)، [الفصل الأول §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-تقليل-العبء-الممكن-تجنبه)، [الفصل الثامن §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
 - الآثار اللاحقة: أرضية العمل والاقتصاد في **Article III-C** (*Labor and Economic Floor*)؛ الصورة في **Article IX-A** (*Self-Ownership of Likeness and Reputation*)؛ البيانات التجريبية والمشتقة في **Article IX-B** (*Experiential and Derived Data Rights*)؛ النشر في **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*)؛ منع التركز في **Chapter One §11** وآلية عتبة التركز في **§13.1**.
 - يُقرأ مع: [**Def.C1** *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (استدعاء مشترك مع **Articles III-C** (*Labor and Economic Floor*) و**III-D** (*Safe Working Conditions*) و**III-E** (*Rest and Recuperation*))، ومع [**Def.C3** (*Privacy (Informational)*)](core_05_band_continuity.md#privacy-informational-cluster) حيث تكون ذات صلة جوهرية.
 
@@ -964,7 +964,7 @@ flowchart TB
 - [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [O](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [M](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05_band_continuity.md#anti-displacement-floor-constitutional-c)
 - [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional) · [O](core_05_band_continuity.md#fair-compensation-constitutional) · [M](core_05_band_continuity.md#fair-compensation-constitutional-a) · [A](core_05_band_continuity.md#fair-compensation-constitutional-a) · [C](core_05_band_continuity.md#fair-compensation-constitutional-c)
 - [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional) · [O](core_05_band_continuity.md#productive-capacity-constitutional) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#مكافأة-الابتكار-ومنع-الإغلاق) · [O](core_05_band_integrative.md#مكافأة-الابتكار-ومنع-الإغلاق) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [Consent](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
 - [Good Faith](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
 - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
@@ -1002,7 +1002,7 @@ flowchart TB
     - قواعد **Privacy (Informational)** كلما أمكن كشف معلومات شخص أو إعادة استخدامها.
   - لا تكون الموافقة معتبرة إلا إذا عرف المبدع الغرض من استخدام العمل، ومدة الاستخدام، وإمكان إعادة استخدامه لاحقاً، وكيفية سحب الموافقة.
   - لا يؤدي وصف المادة بأنها «ليست بيانات شخصية» إلى إسقاط ضرورة الموافقة.
-  - يخضع استخدام ما تعلمه نظام ما لاستنتاج أفكار شخص الخاصة أو مشاعره لـ [**Article VII-B**](#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
+  - يخضع استخدام ما تعلمه نظام ما لاستنتاج أفكار شخص الخاصة أو مشاعره لـ [**Article VII-B**](#المادة-vii-b-ملكية-العقل) (*Self-Ownership of Mind*).
 - **الحماية من الإزاحة:** قد تُطرح أحياناً أنظمة الذكاء الاصطناعي أو الأتمتة أو الأنظمة المماثلة بطريقة تُقصي العاملين المبدعين مادياً. وقد يقل العمل أو الأجر أو الإسناد، أو قد يفقدون القدرة على كسب عيشهم. عندئذٍ تُطبق [Anti-Displacement Floor](core_05_band_continuity.md#anti-displacement-floor-constitutional)، مع **Article III-C** (*Labor and Economic Floor*) وقيود تركّز السوق في **Chapter One §11** (*Market Structure*).
   - لا تكفي وحدها حجة أن التغيير يعزز الإنتاجية أو الكفاءة أو الابتكار إجمالاً.
   - إذا كان متوقعاً أن يجعل النشر واسع النطاق العمل الإبداعي غير قابل للاستمرار لفئة من المبدعين، فيجب أن يكون للاستجابة أثر حقيقي. ومن أمثلتها:
@@ -1010,7 +1010,7 @@ flowchart TB
     - المساعدة على الانتقال إلى أعمال أخرى؛
     - ترتيبات الإسناد والترخيص؛
     - حصة من القيمة التي ينتجها النظام.
-- **تركّز السوق:** قد يُقصى المبدعون أيضاً عندما يسيطر عدد قليل من الجهات على المواد أو المنصات أو تدفق المعلومات أو الأدوات الإبداعية. وحين يُتوقع أن تضر هذه السيطرة بسبل عيش المبدعين الآخرين أو بقدرتهم على نيل الإسناد، تنطبق قيود التركز في **Chapter One §11** (*Market Structure*)، بما فيها [**Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)**](core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable).
+- **تركّز السوق:** قد يُقصى المبدعون أيضاً عندما يسيطر عدد قليل من الجهات على المواد أو المنصات أو تدفق المعلومات أو الأدوات الإبداعية. وحين يُتوقع أن تضر هذه السيطرة بسبل عيش المبدعين الآخرين أو بقدرتهم على نيل الإسناد، تنطبق قيود التركز في **Chapter One §11** (*Market Structure*)، بما فيها [**Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)**](core_01_a_values_principles.md#111-آلية-عتبة-تركز-السوق-قابلة-للضبط-من-الجهة-المتبنية).
   - لا يصبح الترتيب مقبولاً لمجرد وصفه بأنه «قدرة إنتاجية» إذا كان يفضي مع ذلك إلى نوع التركز الذي يحظره §14.
 - **التعويض العادل:** ينطبق معيار [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional) في **Article III-C** (*Labor and Economic Floor*) على العمل الإبداعي بصرف النظر عن نوع الكائن الذي أنشأه، سواء أكان المقابل من خلال وظيفة تقليدية أم منصة أم ترتيب جديد.
   - يستحق المبدعون الأجر والإسناد معاً عن أعمالهم، سواء استخدموا أسماءهم الحقيقية أم أسماء مستعارة. ولا يعوّض تقديم أحدهما عن غياب الآخر.
@@ -1024,7 +1024,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: الفصل الأول [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)، و[§11 Market Structure](core_01_a_values_principles.md#11-market-structure).
+- الأسس العليا: المبادئ: الفصل الأول [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-عملية-حل-التعارض-الدستوري)، [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-مواءمة-الحوافز-وتسخير-النظام)، و[§11 Market Structure](core_01_a_values_principles.md#11-بنية-السوق).
 
 </details>
 
@@ -1034,7 +1034,7 @@ flowchart TB
 - [Self-Determination](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
 - [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
 - [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Epistemic Integrity](core_05_band_oversight.md#النزاهة-المعرفية) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -1066,7 +1066,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، و[§18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، و[§18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
 
 </details>
 
@@ -1100,7 +1100,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-التطبيق-المتكامل).
 
 </details>
 
@@ -1122,9 +1122,9 @@ flowchart TB
 
 - **حق التصويت:** يحق للكائنات الواعية التصويت في **اقتراعات الحوكمة** وغيرها من **الاختيارات الجماعية الملزمة** التي تقرر كيفية منح السلطة. وترد التفاصيل في [الفصل الثالث عشر §4.1 الاستحقاق والأهلية](core_13_governance.md#41-entitlement-and-eligibility).
   - **من يحق له التصويت:** يجوز لكل من يستوفي معايير الأهلية المنشورة التصويت. والاستثناء الوحيد هو [قفل الصفة](core_05_band_accountability.md#standing-lock) الذي يمنع تحديدًا التصويت في الحوكمة، ويُطبّق بموجب **Article XIX-A** (*التمييز بين الصفات*) و**Article XIX-C** (*أهلية المسار المسمى والمسؤولية والتدقيق المستمر*).
-  - **ليس هو نفسه رأي الطرف المعني:** هذا التصويت منفصل عن رأي الطرف المعني في كيفية إدارة نظام قائم بالفعل، وهو ما تنظمه [**Article X-C**](#article-x-c-stakeholder-role-and-participation-rights) (*دور الطرف المعني وحقوق المشاركة*). ولا يؤدي القفل على أحدهما إلى قفل الآخر.
+  - **ليس هو نفسه رأي الطرف المعني:** هذا التصويت منفصل عن رأي الطرف المعني في كيفية إدارة نظام قائم بالفعل، وهو ما تنظمه [**Article X-C**](#article-x-c-دور-الطرف-المعني-وحقوق-المشاركة) (*دور الطرف المعني وحقوق المشاركة*). ولا يؤدي القفل على أحدهما إلى قفل الآخر.
   - **القواعد المحلية:** تسري إلى جانب هذا الحق إجراءات كل جهة متبنّية المسجلة لديها لمنح السلطة (أي [آلية الشرعية الموثقة](core_05_band_integrative.md#documented-legitimacy-mechanism))، وأي معايير إضافية يضعها أصحاب الاختصاص المعينون لديها. ولا يجوز لهذه القواعد أن تنتقص من الحق.
-- **تساوي الأصوات في المسائل الكبرى:** ترسي بعض القرارات الأسس — من يتولى سلطة الحكم، وكيف تُمنح تلك السلطة على نحو مشروع، وما نطاقها وشروطها الدائمة. ويسمي **الفصل الخامس** هذه القرارات [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#foundational-constitutional-choice). وتسري عليها **أرضية المساواة السياسية**:
+- **تساوي الأصوات في المسائل الكبرى:** ترسي بعض القرارات الأسس — من يتولى سلطة الحكم، وكيف تُمنح تلك السلطة على نحو مشروع، وما نطاقها وشروطها الدائمة. ويسمي **الفصل الخامس** هذه القرارات [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#الاختيار-الدستوري-التأسيسي). وتسري عليها **أرضية المساواة السياسية**:
   - لكل كائن واعٍ في المجتمع يحق له التصويت صوت متساوٍ.
   - لا يجوز استخدام العمر أو الركيزة (نوع الجسد أو النظام الذي يوجد فيه الكائن الواعي) أو السلالة (النسب أو المنشأ) لتغيير وزن الصوت. ويتفق ذلك مع **Article VI-C** (*عدم التمييز*) و**الفصل الخامس** *عدم الإقصاء بسبب الحسّ*.
   - **حدود قاعدة تساوي الأصوات:** تنطبق هذه القاعدة على إنشاء نظام السلطة نفسه والتصريح به. وبعد إنشاء نظام أو مؤسسة أو مجال قرار على النحو السليم، تتبع القرارات المؤثرة في الحقوق والمتخذة ضمن [حوكمته](core_05_band_accountability.md#governance) — أي هياكله وقواعده وتوزيع سلطاته وإجراءاته — وزن الأطراف المعنية المعتاد، بحيث يتناسب رأي كل طرف مع مدى تأثره بالقرار.
@@ -1164,10 +1164,10 @@ flowchart TB
 - **المشاركة المتناسبة:** يجب أن تظل المشاركة متناسبة مع:
   - الأثر الجوهري المثبت؛
   - مستوى الاعتماد؛
-  - المتطلبات العملية لعمل النظام بموجب [القيود الدستورية](core_05_band_integrative.md#constitutional-constraint).
+  - المتطلبات العملية لعمل النظام بموجب [القيود الدستورية](core_05_band_integrative.md#القيد-الدستوري).
   
   ويوفر مفهوما **الطرف المعني** و**وزن الطرف المعني** تعريفات الفصل الخامس للنطاق والشكل والوزن؛ وتوفر مجموعة [صفة الطرف المعني ووزنه](core_05_band_participation.md#stakeholder-status-and-weight-cluster) ضوابط الاستدعاء المشترك.
-- **إنشاء مؤسسات ومشروعات جديدة:** يرد حق إنشاء مؤسسات ومشروعات تجارية جديدة في [**Article XI-E**](#article-xi-e-institutional-formation-and-business-creation) (*تأسيس المؤسسات وإنشاء المشروعات التجارية*). ومتى أثرت المؤسسة أو المنشأة المنشأة تأثيرًا جوهريًا في الآخرين، انطبقت عليها حقوق الأطراف المعنية الواردة في هذه المادة.
+- **إنشاء مؤسسات ومشروعات جديدة:** يرد حق إنشاء مؤسسات ومشروعات تجارية جديدة في [**Article XI-E**](#article-xi-e-تأسيس-المؤسسات-وإنشاء-المشروعات-التجارية) (*تأسيس المؤسسات وإنشاء المشروعات التجارية*). ومتى أثرت المؤسسة أو المنشأة المنشأة تأثيرًا جوهريًا في الآخرين، انطبقت عليها حقوق الأطراف المعنية الواردة في هذه المادة.
 - **التأهيل استنادًا إلى سجل الصفة أو معايير الدور:** عندما تؤثر معايير مبنية على سجل الصفة أو [حد الكفاءة](core_05_band_accountability.md#competency-bar) في صفة المشاركة أو أهلية الدور، ينطبق مفهوم **صفة المشارك**. وتترتب القيود عبر [قفل الصفة](core_05_band_accountability.md#standing-lock) على مسارات الامتياز المسماة.
   - يجب أن يحافظ التنفيذ على الإنصاف الإجرائي (الفصل الخامس — *الإنصاف الإجرائي*) ومقاومة التلاعب.
   - لا يحد قفل التصويت في الحوكمة بموجب **Article X-B** (*المشاركة في الحوكمة واستحقاق التصويت*)، في حد ذاته، من رأي الطرف المعني. ويتطلب تعليق مشاركة الطرف المعني أو تقييدها قفلًا خاصًا بـ**مشاركة الأطراف المعنية** — مثل **قفل الصفة لمشاركة الأطراف المعنية** الوارد في [الفصل العاشر §5.5 الأقفال الخاصة](core_10_standing_integration.md#55-special-locks) عند استيفاء شروطه.
@@ -1179,7 +1179,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-التطبيق-المتكامل).
 - يُقرأ مع: **[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة والتعامل معها** بشأن **الفئة P** (نمط الاستخدام الشخصي والخاص والمعزول والتجريبي): الاحتفاظ التشغيلي والحدود والتوسع.
 
 </details>
@@ -1218,7 +1218,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.2 التجمع والتنظيم الجماعي وتأسيس المؤسسات](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)، [§7.3 المعارضة والاحتجاج السلمي](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)، [§13 عملية حل التعارض الدستوري](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، و[§18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المنابع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.2 التجمع والتنظيم الجماعي وتأسيس المؤسسات](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)، [§7.3 المعارضة والاحتجاج السلمي](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)، [§13 عملية حل التعارض الدستوري](core_01_b_interaction_interpretation.md#13-عملية-حل-التعارض-الدستوري)، و[§18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
 
 </details>
 
@@ -1259,7 +1259,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 المبادئ الأساسية للموازنة](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[الفصل الأول §18.2 علمانية المؤسسات وحياد الرؤى العالمية](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality).
+- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 المبادئ الأساسية للموازنة](core_01_b_interaction_interpretation.md#131-مبادئ-المفاضلة-الأساسية)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[الفصل الأول §18.2 علمانية المؤسسات وحياد الرؤى العالمية](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality).
 
 </details>
 
@@ -1300,7 +1300,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، [§13.1.1 الضرورة](core_01_b_interaction_interpretation.md#1311-necessity)، و[§13.2.1 صون النزاهة المعرفية](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، [§13.1.1 الضرورة](core_01_b_interaction_interpretation.md#1311-الضرورة)، و[§13.2.1 صون النزاهة المعرفية](core_01_b_interaction_interpretation.md#1321-صون-النزاهة-المعرفية).
 - المصبّات: أرضية الكرامة في **Article VI-A** (*الكرامة والمكانة الأخلاقية المتساوية*)، وعدم التمييز في **Article VI-C** (*عدم التمييز*)، والضمير والرؤية العالمية في **Article XI-A** (*حرية الضمير والدين والرؤى العالمية المماثلة*)، والنشر في **Article IX-C** (*النشر الصادق وحدود النشر عالي الأثر*)، والحرية من التلاعب في **Article X-A** (*الفاعلية والحرية من التلاعب*)، ونزاهة فضاء المعلومات/النزاهة المعرفية في **Article XV** (*نزاهة فضاء المعلومات*)، وقابلية التدقيق في **Article XVI-A** (*قابلية التدقيق والأدلة القابلة للرصد*) عندما تكون الأدلة القابلة للرصد ذات صلة.
 - يُقرأ مع: *التعبير* في الفصل الخامس، [الفصل الخامس §3.8 *تقرير المصير والفاعلية الحقيقية والتعبير والفاعلية التعليمية والنزاهة الإرادية*](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster) (حيثما كان ذلك ذا صلة مادية)، و*الإكراه والتلاعب* و*الخصائص المحمية*.
 
@@ -1314,7 +1314,7 @@ flowchart TB
 - [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [الخصائص المحمية](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [التدقيق المشدد](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
+- [التدقيق المشدد](core_05_band_oversight.md#التدقيق-المشدد) · [O](core_05_band_oversight.md#التدقيق-المشدد) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
 
@@ -1361,7 +1361,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§13.2.1 صون النزاهة المعرفية](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§13.2.1 صون النزاهة المعرفية](core_01_b_interaction_interpretation.md#1321-صون-النزاهة-المعرفية).
 - المصبّات: درع الأنشطة المحمية بموجب **Article XIV-A** (*حدود الأمن والاستخبارات والسلطة السرية*)، والنشر والتغطية بموجب **Article IX-C** (*النشر الصادق وحدود النشر عالي الأثر*)، ونزاهة فضاء المعلومات/النزاهة المعرفية بموجب **Article XV** (*نزاهة فضاء المعلومات*).
 - يُقرأ مع: *الصحافة والنشاط الصحفي* و*التدقيق المشدد* في الفصل الخامس؛ و**Article XI-B** (*التعبير*).
 
@@ -1370,8 +1370,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الصحافة والنشاط الصحفي](core_05_band_oversight.md#press-and-journalistic-activity-constitutional) · [O](core_05_band_oversight.md#press-and-journalistic-activity-constitutional) · [M](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [A](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [C](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-c)
-- [التدقيق المشدد](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
+- [الصحافة والنشاط الصحفي](core_05_band_oversight.md#النشاط-الصحفي-والإعلامي) · [O](core_05_band_oversight.md#النشاط-الصحفي-والإعلامي) · [M](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [A](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [C](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-c)
+- [التدقيق المشدد](core_05_band_oversight.md#التدقيق-المشدد) · [O](core_05_band_oversight.md#التدقيق-المشدد) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 - [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -1383,7 +1383,7 @@ flowchart TB
 
 تقرر هذه المادة حماية مشددة للنشاط الصحفي وأرضية التغطية النقدية:
 
-- **الصحافة والنشاط الصحفي (التدقيق المشدد):** تخضع إجراءات الدولة والمشغّلين التي تستهدف النشاط الصحفي — جمع الأخبار وحماية المصادر والتحقيق والنشر الذي يؤدي وظيفة الصحافة — لـ[التدقيق المشدد](core_05_band_oversight.md#heightened-scrutiny).
+- **الصحافة والنشاط الصحفي (التدقيق المشدد):** تخضع إجراءات الدولة والمشغّلين التي تستهدف النشاط الصحفي — جمع الأخبار وحماية المصادر والتحقيق والنشر الذي يؤدي وظيفة الصحافة — لـ[التدقيق المشدد](core_05_band_oversight.md#التدقيق-المشدد).
   - لا ينشئ هذا الحكم أرضية حقوق مستقلة للكائنات الواعية التي تُعرّف بصفتها صحفيين.
   - عندما تكون وظيفة الإجراء إعاقة النشاط الصحفي:
     - يكون التدقيق في **الضرورة** و**التناسب** مشددًا؛
@@ -1391,14 +1391,14 @@ flowchart TB
   - يتحدد النشاط الصحفي والصحافة بحسب الوظيفة، لا بحسب المؤهلات المهنية أو المكانة المؤسسية.
 - **التأطير بحسن نية والتغطية النقدية:** تحكم معايير حسن النية والصدق في **Article IX-C** (*النشر الصادق وحدود النشر عالي الأثر*) النشر الواقع ضمن نطاقها. ولا يجوز تفسيرها على أنها تحظر التغطية النقدية المشروعة أو النشر الاستقصائي أو السخرية أو المعارضة.
   - عندما تتفاعل **Article IX-C** (*النشر الصادق وحدود النشر عالي الأثر*) مع هذه المادة أو **Article XI-B** (*التعبير*)، تكون الأولوية لأرضية التغطية النقدية المشروعة، منعًا لتوسيع التفسير على نحو يحول معايير حسن النية إلى درع ضد النقد.
-- **ضوابط مشتركة:** تنطبق بالكامل على الصحافة والنشاط الصحفي قواعد القيود ومناهضة التثبيط والنطاق الواردة في [**Article XI-B**](#article-xi-b-expression) (*التعبير*).
+- **ضوابط مشتركة:** تنطبق بالكامل على الصحافة والنشاط الصحفي قواعد القيود ومناهضة التثبيط والنطاق الواردة في [**Article XI-B**](#article-xi-b-التعبير) (*التعبير*).
 <a id="article-xi-d-assembly-dissent-and-peaceful-protest"></a>
 #### Article XI-D: التجمع والمعارضة والاحتجاج السلمي
 
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.2 التجمع والتنظيم الجماعي وتأسيس المؤسسات](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)، [§7.3 المعارضة والاحتجاج السلمي](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، و[§13.1.1 الضرورة](core_01_b_interaction_interpretation.md#1311-necessity).
+- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.2 التجمع والتنظيم الجماعي وتأسيس المؤسسات](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)، [§7.3 المعارضة والاحتجاج السلمي](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، و[§13.1.1 الضرورة](core_01_b_interaction_interpretation.md#1311-الضرورة).
 - المصبّات: الموافقة في تكوين الجمعيات بموجب **Article XI-F** (*عدم الفرض والموافقة في تكوين الجمعيات*)، والإضراب والتوقف الجماعي عن العمل بموجب **Article III-C** (*أرضية العمل والاقتصاد*)، ودرع الأنشطة المحمية بموجب **Article XIV-A** (*حدود الأمن والاستخبارات والسلطة السرية*)، ومشاركة الأطراف المعنية بموجب **Article XII** (*المشاركة النظامية للأطراف المعنية والتمثيل والإجراءات الواجبة*)، و**Article XIX** (*الصفة وحالة المشاركة*)، وحمايات المعارضة في **الفصول الثامن والتاسع والحادي عشر والثالث عشر**.
 - يُقرأ مع: *التجمع* في الفصل الخامس، و[الفصل الخامس *التجمع والتنظيم الجماعي وتأسيس المؤسسات*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (حيثما كان ذلك ذا صلة مادية)؛ و**Article XI-B** (*التعبير*).
 
@@ -1451,7 +1451,7 @@ flowchart TB
   - لا يجعل التعطيل أو الإزعاج أو الإساءة أو عدم الشعبية أو الشدة أو النقد اللاذع المعارضة أو الاحتجاج غير سلمي.
   - إذا اشتمل الاحتجاج أيضًا على سلوك منفصل يشكل بذاته خرقًا لأرضية دستورية — كالعنف أو التهديدات الموثوقة أو تدمير ممتلكات الآخرين أو الاستيلاء عليها أو منع الوصول الضروري للبقاء بموجب **Article III-A** (*البقاء*) — جاز تقييم ذلك السلوك على حدة، تمامًا كما لو وقع خارج الاحتجاج. ولا يجوز تشديد التقييم بسبب وجهة نظر الاحتجاج أو قضيته أو الجهة المستهدفة به.
   - المسؤولية فردية. ولا تجعل المشاركة في الاحتجاج أو تنظيمه أو تمويله أو التحدث باسمه كائنًا واعيًا مسؤولًا عن سلوك منفصل ارتكبه آخرون ولم يوجهه أو يسهّل ارتكابه عن علم.
-  - يجب أن تستوفي القيود المفروضة على زمان الاحتجاج ومكانه وكيفيته انضباط القيود في [**Article XI-B**](#article-xi-b-expression) (*التعبير*)، وأن تظل محايدة تجاه المحتوى ووجهة النظر، وأن تتيح وسائل بديلة كافية تصل إلى الجمهور أو الهدف المقصود.
+  - يجب أن تستوفي القيود المفروضة على زمان الاحتجاج ومكانه وكيفيته انضباط القيود في [**Article XI-B**](#article-xi-b-التعبير) (*التعبير*)، وأن تظل محايدة تجاه المحتوى ووجهة النظر، وأن تتيح وسائل بديلة كافية تصل إلى الجمهور أو الهدف المقصود.
   - لا يجوز للتدابير الطارئة بموجب **الفصل الثاني عشر §6.1** (*التدابير الطارئة وعبء استمرارها*) أن تقيد الاحتجاج إلا بالقدر الذي تقتضيه **الضرورة** و**التناسب** لمواجهة الحالة الطارئة المحددة، ولا يجوز أن تقوم أبدًا على وجهة النظر.
 - <a id="xi-d-nonviolent-civil-disobedience"></a>**العصيان المدني غير العنيف:** يُحمى خرق قاعدة عمدًا بوصفه فعل احتجاج أو ضمير باعتباره عصيانًا مدنيًا إذا كان الخرق:
   - علنيًا، لا قائمًا على الإخفاء أو الخداع؛
@@ -1467,18 +1467,18 @@ flowchart TB
   ولا يعد الامتناع عن طاعة قيد غير دستوري في ذاته خرقًا، ولا يجوز ترتيب عاقبة عليه. ويخضع السلوك الخارج عن هذه الشروط لقاعدة السلوك المنفصل أعلاه.
 - <a id="xi-d-dissent-burden-and-pretext"></a>**العبء والذريعة:** إذا أعقب المعارضة أو الاحتجاج المحمي إجراء سلبي يتعلق بالصفة أو الحوكمة أو الاعتماد أو الوصول أو الدور، وكان من المعقول ربطه به، فعلى الجهة التي اتخذت الإجراء إثبات استناده إلى أسباب مستقلة جرى التحقق منها بموجب **الفصول الثاني إلى الرابع**.
   - لا تحول أوصاف مثل «التعطيل» أو «عدم الاستقرار» أو «التطرف» أو «عدم الولاء» أو «عدم التعاون» أو «عدم التوافق» المعارضة المحمية أو الاحتجاج السلمي إلى مخالفة.
-- **ضوابط مشتركة:** تنطبق بالكامل على التجمع والمعارضة والاحتجاج قواعد القيود ومناهضة التثبيط والنطاق الواردة في [**Article XI-B**](#article-xi-b-expression) (*التعبير*).
+- **ضوابط مشتركة:** تنطبق بالكامل على التجمع والمعارضة والاحتجاج قواعد القيود ومناهضة التثبيط والنطاق الواردة في [**Article XI-B**](#article-xi-b-التعبير) (*التعبير*).
 <a id="article-xi-e-institutional-formation-and-business-creation"></a>
 #### Article XI-E: تأسيس المؤسسات وإنشاء المشروعات التجارية
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: الفصل الأول [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، [§7.2 التجمع والتنظيم الجماعي وتأسيس المؤسسات](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)، [§16.2 التطوير المؤسسي](core_01_c_stewardship_capacity_principles.md#162-institutional-development)، و[§11 بنية السوق](core_01_a_values_principles.md#11-market-structure).
-- يُقرأ مع: [*التجمع والتنظيم الجماعي وتأسيس المؤسسات*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) في الفصل الخامس، بما في ذلك [حدود حقوق الإنشاء](core_05_band_participation.md#creation-rights-limits)؛ و[**Article XI-D**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*التجمع والمعارضة والاحتجاج السلمي*) بشأن التجمع وتكوين الجمعيات؛ و[**Article III-C**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*أرضية العمل والاقتصاد*) بشأن تنظيم العمال؛ و[**Article XI-F**](#article-xi-f-non-imposition-and-consent-in-association) (*عدم الفرض والموافقة في تكوين الجمعيات*).
-- المصبّات: [**Article X-C**](#article-x-c-stakeholder-role-and-participation-rights) (*دور الطرف المعني وحقوق المشاركة*) و[**Article XII**](#article-xii-stakeholder-system-participation-representation-and-due-process) (*المشاركة النظامية للأطراف المعنية والتمثيل والإجراءات الواجبة*) متى أثرت مؤسسة أو منشأة منشأة تأثيرًا ماديًا في الآخرين.
+- المنابع: المبادئ: الفصل الأول [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، [§7.2 التجمع والتنظيم الجماعي وتأسيس المؤسسات](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)، [§16.2 التطوير المؤسسي](core_01_c_stewardship_capacity_principles.md#162-التطوير-المؤسسي)، و[§11 بنية السوق](core_01_a_values_principles.md#11-بنية-السوق).
+- يُقرأ مع: [*التجمع والتنظيم الجماعي وتأسيس المؤسسات*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) في الفصل الخامس، بما في ذلك [حدود حقوق الإنشاء](core_05_band_participation.md#creation-rights-limits)؛ و[**Article XI-D**](#article-xi-d-التجمع-والمعارضة-والاحتجاج-السلمي) (*التجمع والمعارضة والاحتجاج السلمي*) بشأن التجمع وتكوين الجمعيات؛ و[**Article III-C**](core_06_rights_part_a.md#المادة-iii-c-أرضية-العمل-والاقتصاد) (*أرضية العمل والاقتصاد*) بشأن تنظيم العمال؛ و[**Article XI-F**](#article-xi-f-عدم-الفرض-والموافقة-في-تكوين-الجمعيات) (*عدم الفرض والموافقة في تكوين الجمعيات*).
+- المصبّات: [**Article X-C**](#article-x-c-دور-الطرف-المعني-وحقوق-المشاركة) (*دور الطرف المعني وحقوق المشاركة*) و[**Article XII**](#article-xii-المشاركة-النظامية-للأطراف-المعنية-والتمثيل-والإجراءات-الواجبة) (*المشاركة النظامية للأطراف المعنية والتمثيل والإجراءات الواجبة*) متى أثرت مؤسسة أو منشأة منشأة تأثيرًا ماديًا في الآخرين.
 
 
-- Read with: [Competency Clearance](../../core_05_band_accountability.md#competency-clearance); [Chapter Eleven §6.2 Competency bars and clearances](../../core_11_standing_integration.md#62-competency-bars-and-clearances); [Chapter Thirteen §4.2 Technical Forum Domains](../../core_13_forum.md#42-technical-forum-domains); **CF-10** (*Technical specialist forums and specialist chambers*).
+- Read with: [Competency Clearance](../../core_05.035_band_accountability.md#competency-clearance); [Chapter Eleven §6.2 Competency bars and clearances](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances); [Chapter Thirteen §4.2 Technical Forum Domains](../../core_13.000_forum.md#42-technical-forum-domains); **CF-10** (*Technical specialist forums and specialist chambers*).
 
 </details>
 
@@ -1505,9 +1505,9 @@ flowchart TB
   
   يشمل الحق إيجاد مؤسسات جديدة، لا مجرد المشاركة في مؤسسات قائمة.
 - **التأسيس الأصيل:** لا يجوز للكائن الواعي إنشاء مؤسسة أو منشأة أو إدارتها إلا إذا كان منسجمًا أصالةً مع غرضها المعلن. ويحظر فعل ذلك بقصد تضليل الآخرين بشأن الغرض أو السيطرة أو المصالح أو من تخدمه المؤسسة، أو بقصد إلحاق الضرر بالآخرين؛ وكذلك عند وجود سبب محتمل للاستنتاج بأن هذا القصد قائم.
-  - يعني قصد الإضرار قصد إحداث ضرر يحظره هذا الدستور، بما في ذلك المعاملة التمييزية المحظورة بموجب [Article VI-C](#article-vi-c-nondiscrimination) (*عدم التمييز*). ولا تُعد المنافسة العادية أو النقد المشروع أو المعارضة المشروعة ضررًا بهذا المعنى، كما أن خسارة منافس لأعماله على نحو مشروع لا تثبت ذلك.
-  - يُستدل على قصد التضليل أو الإضرار من السلوك المتحقق منه للمؤسس أو صاحب السلطة، ومن تصميم الطرف المشغّل والسيطرة عليها، وما تكافئه حوافزها، وما قاله الكائن الواعي. ويُحتسب بيان أو دعوة أو خطة متحقق منها تقول إن الآخرين يستحقون الضرر أو المعاملة التمييزية المحظورة دليلًا على قصد الإضرار. ويُحكم على البيان وفق [الفصل الأول §7.5 التعبير وحدّ الضرر](../../core_01_a_values_principles.md#75-expression-and-the-harm-line): بالنظر إلى ما يقوله أو يدعو إليه أو يفعله، أيًا كان الوصف الديني أو السياسي أو الأيديولوجي الملصق به. ولا يُحسب مجرد اعتناق معتقد أو الانتماء إلى دين أو حزب أو جماعة ضد الكائن الواعي؛ كما لا يُحسب ادعاء حسن النية المجرد لصالحه. وترد ضمانات التعامل مع البيانات في [الفصل السابع §6 فحص التأسيس: الصفة والأصالة لشاغل المنصب](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity).
-  - تُحكم الأصالة على أساس السلوك والسيطرة والحوافز المتحقق منها، وفق [الفصل السابع §6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)، لا على أساس ما يعتقده الكائن الواعي فحسب أو انتمائه إلى دين أو حزب أو جماعة أو هويته أو حماسه المعلن.
+  - يعني قصد الإضرار قصد إحداث ضرر يحظره هذا الدستور، بما في ذلك المعاملة التمييزية المحظورة بموجب [Article VI-C](#المادة-vi-c-عدم-التمييز) (*عدم التمييز*). ولا تُعد المنافسة العادية أو النقد المشروع أو المعارضة المشروعة ضررًا بهذا المعنى، كما أن خسارة منافس لأعماله على نحو مشروع لا تثبت ذلك.
+  - يُستدل على قصد التضليل أو الإضرار من السلوك المتحقق منه للمؤسس أو صاحب السلطة، ومن تصميم الطرف المشغّل والسيطرة عليها، وما تكافئه حوافزها، وما قاله الكائن الواعي. ويُحتسب بيان أو دعوة أو خطة متحقق منها تقول إن الآخرين يستحقون الضرر أو المعاملة التمييزية المحظورة دليلًا على قصد الإضرار. ويُحكم على البيان وفق [الفصل الأول §7.5 التعبير وحدّ الضرر](../../core_01.005_values_principles.md#75-expression-and-the-harm-line): بالنظر إلى ما يقوله أو يدعو إليه أو يفعله، أيًا كان الوصف الديني أو السياسي أو الأيديولوجي الملصق به. ولا يُحسب مجرد اعتناق معتقد أو الانتماء إلى دين أو حزب أو جماعة ضد الكائن الواعي؛ كما لا يُحسب ادعاء حسن النية المجرد لصالحه. وترد ضمانات التعامل مع البيانات في [الفصل السابع §6 فحص التأسيس: الصفة والأصالة لشاغل المنصب](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity).
+  - تُحكم الأصالة على أساس السلوك والسيطرة والحوافز المتحقق منها، وفق [الفصل السابع §6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity)، لا على أساس ما يعتقده الكائن الواعي فحسب أو انتمائه إلى دين أو حزب أو جماعة أو هويته أو حماسه المعلن.
   - يُفترض أن المؤسس الذي لا سجل له أصيل. ويظهر التزامه من أفعاله، مثل قبول حدود الطرف المشغّل كتابةً وقبول التحقق المستقل.
   - هذا شرط للحق وليس ترخيصًا. لا يحتاج أي كائن واعٍ إلى موافقة مسبقة لإنشاء مؤسسة أو إدارتها. وتطبق المحافل هذا الشرط استنادًا إلى الأدلة، أو عبر التدبير المؤقت أدناه عند وجود سبب محتمل؛ وعلى من يدعي عدم الأصالة عبء الإثبات.
 - **لا إنكار من الباب الخلفي:** لا يجوز إحباط هذا الحق من خلال:
@@ -1517,28 +1517,28 @@ flowchart TB
   
   ويُعد الانتقام أو المراقبة أو استهداف المؤسسين والمشاركين أيضًا عدم امتثال. وباستثناء البوابتين الضيقتين أدناه وتخليص الممارسة المبيّن بعدهما، لا يجوز فرض أي قيد على إنشاء مؤسسة أو إدارتها، ولا يحتاج أي كائن واعٍ إلى تخليص مسبق لإنشاء مؤسسة أو إدارتها.
 - **بوابتان ضيقتان:** هاتان البوابتان وحدهما يجوز أن تقفا بين كائن واعٍ مسمى وبين السلطة في مؤسسة أو منشأة. وتتعلق البوابة بتولي ذلك الكائن الواعي أو ممارسته سلطة الحوكمة أو السيطرة أو الملكية. ولا تمتد إلى الطرف المشغّل إلا إذا كان الطرف المشغّل هو الوسيلة أو الخلف أو الكيان الخاضع للسيطرة أو الشكل المحفوظ باسم مرشح الذي سيمارس الكائن الواعي السلطة من خلاله. ولا تمنع مطلقًا الآخرين من إنشاء الطرف المشغّل أو إدارته أو الانضمام إليه أو العمل فيه أو تلقي خدماته.
-  - **قفل قائم:** ما دام الكائن الواعي خاضعًا لـ[قفل صفة السلطة المؤسسية](../../core_11_standing_integration.md#55-special-locks) لم يُحسم، أو [قفل الثقة المناهضة للدستور](../../core_11_standing_integration.md#55-special-locks)، أو قفل صفة آخر يشمل مساره المسمى سلطةً على النوع نفسه من المؤسسات أو المنشآت، فلا يجوز له تولي سلطة الحوكمة أو السيطرة أو الملكية أو ممارستها ضمن ذلك المسار. ولا تتجاوز البوابة نطاق القفل، وتنتهي عند رفعه أو تضييقه.
-  - **سبب محتمل لعدم الانسجام:** يجوز لمحفل ذي اختصاص إصدار [تدبير مؤقت](../../core_05_band_accountability.md#interim-hold) بموجب [الفصل الثالث عشر §5 التدبير المؤقت على مسار كائن واعٍ مسمى](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway) بشأن تولي كائن واعٍ مسمى أو ممارسته سلطة مسماة في مؤسسة أو منشأة مسماة، إذا تحقق أساس ذلك القسم وأظهرت الوقائع أن الأرجح هو عدم انسجام الكائن الواعي مع الغرض المعلن للمؤسسة أو القيود الدستورية، أو أنه ينشئ الطرف المشغّل أو يديره بقصد تضليل الآخرين بشأن غرضه أو السيطرة عليه أو مصالحه أو من يخدمه، أو بقصد إلحاق الضرر بالآخرين. ويُحكم على عدم الانسجام والقصد من السلوك والسيطرة والحوافز المتحقق منها، وفق [الفصل السابع §6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity). ويخضع التدبير لذلك القسم كاملًا: فهو ليس حكمًا ولا قفلًا ولا سجل صفة ولا أثرًا للصفة، ولا يجوز أن يستند إلى مجرد المعتقد أو الهوية أو عضوية جماعة أو السمعة أو معارضة لا تدعو بذاتها إلى الضرر أو التمييز ضد الآخرين أو الإبلاغ المحمي. ويُحكم على البيان أو الفعل المتحقق منه كما في «التأسيس الأصيل». ويستمر الطرف المشغّل تحت سلطة حامل آخر مشروع. وإذا تُرك بلا حامل سلطة وكان الآخرون يعتمدون عليه، يسمّي المحفل مشرفًا مؤقتًا ولا يوقف الطرف المشغّل.
+  - **قفل قائم:** ما دام الكائن الواعي خاضعًا لـ[قفل صفة السلطة المؤسسية](../../core_11.000_standing_integration.md#55-special-locks) لم يُحسم، أو [قفل الثقة المناهضة للدستور](../../core_11.000_standing_integration.md#55-special-locks)، أو قفل صفة آخر يشمل مساره المسمى سلطةً على النوع نفسه من المؤسسات أو المنشآت، فلا يجوز له تولي سلطة الحوكمة أو السيطرة أو الملكية أو ممارستها ضمن ذلك المسار. ولا تتجاوز البوابة نطاق القفل، وتنتهي عند رفعه أو تضييقه.
+  - **سبب محتمل لعدم الانسجام:** يجوز لمحفل ذي اختصاص إصدار [تدبير مؤقت](../../core_05.035_band_accountability.md#interim-hold) بموجب [الفصل الثالث عشر §5 التدبير المؤقت على مسار كائن واعٍ مسمى](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) بشأن تولي كائن واعٍ مسمى أو ممارسته سلطة مسماة في مؤسسة أو منشأة مسماة، إذا تحقق أساس ذلك القسم وأظهرت الوقائع أن الأرجح هو عدم انسجام الكائن الواعي مع الغرض المعلن للمؤسسة أو القيود الدستورية، أو أنه ينشئ الطرف المشغّل أو يديره بقصد تضليل الآخرين بشأن غرضه أو السيطرة عليه أو مصالحه أو من يخدمه، أو بقصد إلحاق الضرر بالآخرين. ويُحكم على عدم الانسجام والقصد من السلوك والسيطرة والحوافز المتحقق منها، وفق [الفصل السابع §6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity). ويخضع التدبير لذلك القسم كاملًا: فهو ليس حكمًا ولا قفلًا ولا سجل صفة ولا أثرًا للصفة، ولا يجوز أن يستند إلى مجرد المعتقد أو الهوية أو عضوية جماعة أو السمعة أو معارضة لا تدعو بذاتها إلى الضرر أو التمييز ضد الآخرين أو الإبلاغ المحمي. ويُحكم على البيان أو الفعل المتحقق منه كما في «التأسيس الأصيل». ويستمر الطرف المشغّل تحت سلطة حامل آخر مشروع. وإذا تُرك بلا حامل سلطة وكان الآخرون يعتمدون عليه، يسمّي المحفل مشرفًا مؤقتًا ولا يوقف الطرف المشغّل.
   - **ضمانات البوابتين:** يقع على من يفرض البوابة عبء إثبات انطباقها. ولا يجوز أن تمنع أجور عمل آخر أو أرضية الحقوق أو الوصول الضروري للبقاء أو التعبير أو الدفاع أو الإبلاغ المحمي، ولا أن تُستخدم ضد المعارضين أو المبلّغين أو منظمي العمال.
-- **ترخيص الممارسة وتخليص الممارسة للأفعال المسماة:** يجوز فرض شرطين إضافيين، ولا يشكل أي منهما بوابة على الطرف المشغّل. يجوز اشتراط [تخليص الكفاءة](../../core_05_band_accountability.md#competency-clearance) من كائن واعٍ مسمى قبل أن يؤدي فعلًا مسمى للآخرين. المستوى الأعلى هو «ترخيص ممارسة»، والأدنى «تخليص ممارسة». ويتعلق كل منهما بأداء ذلك الفعل وحده؛ فلا يمنع أحدًا من إنشاء الطرف المشغّل أو إدارته أو الانضمام إليه أو تلقي خدماته، ولا يمنع الطرف المشغّل من العمل. ولا يجوز اشتراط أي منهما إلا إذا تحققت جميع الشروط التالية:
-  - **النتيجة بشأن المخاطر:** ينشر محفل فني متخصص نتيجةً بشأن فئة مسماة من الأفعال بموجب [الفصل الثالث عشر §4.2 المجالات الفنية للمنتديات](../../core_13_forum.md#42-technical-forum-domains) و**CF-10** (*المنتديات الفنية المتخصصة والغرف المتخصصة*). وتحدد النتيجة مسارًا سببيًا موثوقًا — طريقًا قابلًا للتتبع من الفعل إلى الضرر — لإلحاق الضرر بكائن واعٍ لا يستطيع تقدير الخطر أو تفاديه. كما تحدد الكفاءة المطلوبة واسم المستوى: ترخيصًا للأذى الجسدي الخطير أو غير القابل للعكس، مثل الجراحة أو الأعمال الكهربائية؛ أو تخليصًا للخطر الحقيقي الأقل، مثل الحروق الكيميائية أو العدوى في التجميل، أو الأمراض المنقولة بالغذاء في تداول الطعام.
-  - **اختبار العبء الممكن تجنبه (لا يحميهم إلا هذا الشرط):** يتحمل الكائن الواعي الذي يلزمه الحصول على الترخيص أو التخليص كلفة امتثال، ولذلك لا يجوز فرضه إذا كان [عبئًا ممكن التجنب](../../core_05_band_continuity.md#avoidable-burden). وعلى الطرف الذي يُبقي الشرط أن يثبت ضرورته وتناسبه مع الضرر المحدد في النتيجة، وأن الإفصاح أو التسجيل أو اللقب المحمي أو واجب على الطرف المشغّل المضيف أو الموظِّف، أو الإشراف على المتعلمين، لا يحمي المعرضين للخطر. ويُطبق الاختبار على كل فعل مسمى وعلى كل مستوى؛ وكلما قل الضرر المحدد زاد احتمال كفاية تدبير أخف.
+- **ترخيص الممارسة وتخليص الممارسة للأفعال المسماة:** يجوز فرض شرطين إضافيين، ولا يشكل أي منهما بوابة على الطرف المشغّل. يجوز اشتراط [تخليص الكفاءة](../../core_05.035_band_accountability.md#competency-clearance) من كائن واعٍ مسمى قبل أن يؤدي فعلًا مسمى للآخرين. المستوى الأعلى هو «ترخيص ممارسة»، والأدنى «تخليص ممارسة». ويتعلق كل منهما بأداء ذلك الفعل وحده؛ فلا يمنع أحدًا من إنشاء الطرف المشغّل أو إدارته أو الانضمام إليه أو تلقي خدماته، ولا يمنع الطرف المشغّل من العمل. ولا يجوز اشتراط أي منهما إلا إذا تحققت جميع الشروط التالية:
+  - **النتيجة بشأن المخاطر:** ينشر محفل فني متخصص نتيجةً بشأن فئة مسماة من الأفعال بموجب [الفصل الثالث عشر §4.2 المجالات الفنية للمنتديات](../../core_13.000_forum.md#42-technical-forum-domains) و**CF-10** (*المنتديات الفنية المتخصصة والغرف المتخصصة*). وتحدد النتيجة مسارًا سببيًا موثوقًا — طريقًا قابلًا للتتبع من الفعل إلى الضرر — لإلحاق الضرر بكائن واعٍ لا يستطيع تقدير الخطر أو تفاديه. كما تحدد الكفاءة المطلوبة واسم المستوى: ترخيصًا للأذى الجسدي الخطير أو غير القابل للعكس، مثل الجراحة أو الأعمال الكهربائية؛ أو تخليصًا للخطر الحقيقي الأقل، مثل الحروق الكيميائية أو العدوى في التجميل، أو الأمراض المنقولة بالغذاء في تداول الطعام.
+  - **اختبار العبء الممكن تجنبه (لا يحميهم إلا هذا الشرط):** يتحمل الكائن الواعي الذي يلزمه الحصول على الترخيص أو التخليص كلفة امتثال، ولذلك لا يجوز فرضه إذا كان [عبئًا ممكن التجنب](../../core_05.040_band_continuity.md#avoidable-burden). وعلى الطرف الذي يُبقي الشرط أن يثبت ضرورته وتناسبه مع الضرر المحدد في النتيجة، وأن الإفصاح أو التسجيل أو اللقب المحمي أو واجب على الطرف المشغّل المضيف أو الموظِّف، أو الإشراف على المتعلمين، لا يحمي المعرضين للخطر. ويُطبق الاختبار على كل فعل مسمى وعلى كل مستوى؛ وكلما قل الضرر المحدد زاد احتمال كفاية تدبير أخف.
   - **قرار علني:** يقرر صك التبني، عبر مسار منشور وقابل للطعن، ما إذا كانت النتيجة تكفي لاشتراط الترخيص أو التخليص. ويحدد المحفل النتيجة والمعايير، ولا يصدر التراخيص أو التخليصات ولا يبت في الحالات الفردية أو يحدد مقدار الخطر المقبول.
-  - **مسارات مفتوحة بلا احتكار:** تستوفي المعايير [الفصل الحادي عشر §6.2 موانع الكفاءة والتخليصات](../../core_11_standing_integration.md#62-competency-bars-and-clearances): تكون منشورة ومتناسبة وقابلة للطعن. وتُقبل الاختبارات وملفات الأعمال والتدريب المهني والخبرة التي يتحقق منها الأقران والتخليص الصادر من ولاية قضائية أخرى على أساس أدلة متكافئة. ويجوز لأكثر من جهة مستقلة إصدار الترخيص أو التخليص، ولا تكون أي جهة المسار الوحيد. ولا يجوز للممارسين القائمين السيطرة على لجنة وضع المعايير أو على السلطة الحاكمة لجهة الإصدار.
-  - **حسن التطبيق:** يجوز للمتعلم أداء الفعل تحت إشراف مشرف يحمل الترخيص أو التخليص. ولا يُحظر فعل طارئ، ولا فعل يتعذر فيه الوصول في الوقت المناسب إلى أي كائن واعٍ يحمل المطلوب. ويبت في الطلب ضمن مهلة [Article XXVI-C](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*الأرضية الزمنية للبت ومكافحة التأخير*)؛ ولا يجوز أن تتحول الرسوم أو فترات الانتظار إلى عائق ([العبء الممكن تجنبه](../../core_05_band_continuity.md#avoidable-burden)). وينتهي الشرط عند كل مراجعة ما لم يُثبت مجددًا تحقق اختبار العبء الممكن تجنبه، وتُنشر نتائج المراجعة.
+  - **مسارات مفتوحة بلا احتكار:** تستوفي المعايير [الفصل الحادي عشر §6.2 موانع الكفاءة والتخليصات](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances): تكون منشورة ومتناسبة وقابلة للطعن. وتُقبل الاختبارات وملفات الأعمال والتدريب المهني والخبرة التي يتحقق منها الأقران والتخليص الصادر من ولاية قضائية أخرى على أساس أدلة متكافئة. ويجوز لأكثر من جهة مستقلة إصدار الترخيص أو التخليص، ولا تكون أي جهة المسار الوحيد. ولا يجوز للممارسين القائمين السيطرة على لجنة وضع المعايير أو على السلطة الحاكمة لجهة الإصدار.
+  - **حسن التطبيق:** يجوز للمتعلم أداء الفعل تحت إشراف مشرف يحمل الترخيص أو التخليص. ولا يُحظر فعل طارئ، ولا فعل يتعذر فيه الوصول في الوقت المناسب إلى أي كائن واعٍ يحمل المطلوب. ويبت في الطلب ضمن مهلة [Article XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*الأرضية الزمنية للبت ومكافحة التأخير*)؛ ولا يجوز أن تتحول الرسوم أو فترات الانتظار إلى عائق ([العبء الممكن تجنبه](../../core_05.040_band_continuity.md#avoidable-burden)). وينتهي الشرط عند كل مراجعة ما لم يُثبت مجددًا تحقق اختبار العبء الممكن تجنبه، وتُنشر نتائج المراجعة.
   - **الضمانات:** يتحمل الطرف الذي يفرض الشرط عبء إثباته. ولا يجوز أن يمنع أجور عمل آخر أو أرضية الحقوق أو الوصول الضروري للبقاء أو التعبير أو الدفاع أو الإبلاغ المحمي، ولا أن يُستخدم ضد المعارضين أو المبلّغين أو منظمي العمال. ويُحكم على تغير القدرة وفق القدرة التي يتطلبها الفعل، لا وفق الإعاقة أو الحالة الصحية بحد ذاتها.
-  - **تصنيف الطرف المشغّل:** يُعد صدور نتيجة تسمي ترخيصًا أيضًا نتيجةً بأن الفعل جوهري من منظور السلامة بموجب [الأهمية الخاصة بالمجال](../../core_05_band_oversight.md#domain-specific-materiality)، ولذلك يكون الطرف المشغّل الذي يؤدي الفعل المرخص للآخرين من الفئة L على الأقل. أما التخليص فلا يجعل الطرف المشغّل من الفئة L بذاته؛ ويُحدد تصنيفه بموجب الأهمية الخاصة بالمجال كما في حالة أي طرف مشغّل. ويتعلق أي من الشرطين بالكائن الواعي الذي يؤدي الفعل، أيًا كانت فئة الطرف المشغّل، ولا تستلزم الفئة L ترخيصًا أو تخليصًا. ويجوز لكائن واعٍ يؤدي أفعالًا مرخصة منفردًا أو في ممارسة صغيرة استيفاء واجبات الفئة L عبر ممارسة مهنية مشتركة (**CI-4.7**: *ترخيص الممارسة وتخليص الممارسة والممارسة المهنية المشتركة*).
-- **الحدود:** تنطبق [حدود حقوق الإنشاء](core_05_band_participation.md#creation-rights-limits) في الفصل الخامس: لا يمتد هذا الحق إلى المؤسسات أو المنشآت المصممة لانتهاك [القيود الدستورية](core_05_band_integrative.md#constitutional-constraint)، أو تقويض **السلامة** أو **الحقيقة**، أو تركيز السلطة خلافًا لـ[الفصل الأول §11 بنية السوق](core_01_a_values_principles.md#11-market-structure). ويجب أن يستوفي كل من البوابتين الضيقتين وأي قيد آخر [انضباط القيود في الفصل الأول §7.1](core_01_a_values_principles.md#71-limitation-discipline): أن يكون ضروريًا ومتناسبًا وقابلًا للعكس متى أمكن وخاضعًا للرقابة.
+  - **تصنيف الطرف المشغّل:** يُعد صدور نتيجة تسمي ترخيصًا أيضًا نتيجةً بأن الفعل جوهري من منظور السلامة بموجب [الأهمية الخاصة بالمجال](../../core_05.050_band_oversight.md#domain-specific-materiality)، ولذلك يكون الطرف المشغّل الذي يؤدي الفعل المرخص للآخرين من الفئة L على الأقل. أما التخليص فلا يجعل الطرف المشغّل من الفئة L بذاته؛ ويُحدد تصنيفه بموجب الأهمية الخاصة بالمجال كما في حالة أي طرف مشغّل. ويتعلق أي من الشرطين بالكائن الواعي الذي يؤدي الفعل، أيًا كانت فئة الطرف المشغّل، ولا تستلزم الفئة L ترخيصًا أو تخليصًا. ويجوز لكائن واعٍ يؤدي أفعالًا مرخصة منفردًا أو في ممارسة صغيرة استيفاء واجبات الفئة L عبر ممارسة مهنية مشتركة (**CI-4.7**: *ترخيص الممارسة وتخليص الممارسة والممارسة المهنية المشتركة*).
+- **الحدود:** تنطبق [حدود حقوق الإنشاء](core_05_band_participation.md#creation-rights-limits) في الفصل الخامس: لا يمتد هذا الحق إلى المؤسسات أو المنشآت المصممة لانتهاك [القيود الدستورية](core_05_band_integrative.md#القيد-الدستوري)، أو تقويض **السلامة** أو **الحقيقة**، أو تركيز السلطة خلافًا لـ[الفصل الأول §11 بنية السوق](core_01_a_values_principles.md#11-بنية-السوق). ويجب أن يستوفي كل من البوابتين الضيقتين وأي قيد آخر [انضباط القيود في الفصل الأول §7.1](core_01_a_values_principles.md#71-limitation-discipline): أن يكون ضروريًا ومتناسبًا وقابلًا للعكس متى أمكن وخاضعًا للرقابة.
 - **حقوق ذات صلة:**
   - ينظم **Article XI-D** (*التجمع والمعارضة والاحتجاج السلمي*) التجمع وتكوين الجمعيات؛
   - ينظم [التنظيم الجماعي](core_05_band_participation.md#collective-organization-constitutional) للعمال ضمن أنظمة الإنتاج القائمة **Article III-C** (*أرضية العمل والاقتصاد*)؛ و
   - متى أثرت مؤسسة أو منشأة منشأة تأثيرًا ماديًا في الآخرين، انطبقت عليها حقوق الأطراف المعنية في **Articles X-C** و**XII**.
-- **التنفيذ:** التسجيل واعتماد [ميثاق النظام](../../core_05_band_continuity.md#system-charter) أو [ميثاق المؤسسة](../../core_05_band_continuity.md#institutional-charter)، والمعاملة المالية والمسؤولية وتنظيم الأوراق المالية والحل، كلها وفق انضباط الإدماج في **الفصل الثامن عشر** بموجب [corpus_institutions.md](../../corpus_institutions.md). وتُحال إليه أيضًا جهات إصدار تخليص الممارسة والمسارات المكافئة والرسوم والمراجعة. ولا يجوز تفسير ذلك النص على نحو يضيّق هذا الحق بما يتجاوز البوابتين الضيقتين وتخليص الممارسة. كما تُحال إلى ذلك النص جهات إصدار تخليص الممارسة والمسارات المكافئة والرسوم والمراجعة، وأي تصديق للممارسة في مستوى أدنى (**CI-4.7**: *تخليص الممارسة، وتصديق الممارسة، والممارسة المهنية المشتركة*).<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
+- **التنفيذ:** التسجيل واعتماد [ميثاق النظام](../../core_05.040_band_continuity.md#system-charter) أو [ميثاق المؤسسة](../../core_05.040_band_continuity.md#institutional-charter)، والمعاملة المالية والمسؤولية وتنظيم الأوراق المالية والحل، كلها وفق انضباط الإدماج في **الفصل الثامن عشر** بموجب [corpus_institutions.md](../../corpus_institutions.md). وتُحال إليه أيضًا جهات إصدار تخليص الممارسة والمسارات المكافئة والرسوم والمراجعة. ولا يجوز تفسير ذلك النص على نحو يضيّق هذا الحق بما يتجاوز البوابتين الضيقتين وتخليص الممارسة. كما تُحال إلى ذلك النص جهات إصدار تخليص الممارسة والمسارات المكافئة والرسوم والمراجعة، وأي تصديق للممارسة في مستوى أدنى (**CI-4.7**: *تخليص الممارسة، وتصديق الممارسة، والممارسة المهنية المشتركة*).<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
 #### Article XI-F: عدم الفرض والموافقة في تكوين الجمعيات
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 المبادئ الأساسية للموازنة](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline).
+- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 المبادئ الأساسية للموازنة](core_01_b_interaction_interpretation.md#131-مبادئ-المفاضلة-الأساسية)، و[§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline).
 
 </details>
 
@@ -1583,7 +1583,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 المبادئ الأساسية للموازنة](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline).
+- المنابع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 المبادئ الأساسية للموازنة](core_01_b_interaction_interpretation.md#131-مبادئ-المفاضلة-الأساسية)، و[§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline).
 
 </details>
 
@@ -1597,7 +1597,7 @@ flowchart TB
 - [عدم الفرض (التفاعل التعاوني)](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
 - [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [الظروف الآمنة](core_05_band_continuity.md#safe-conditions-constitutional) · [O](core_05_band_continuity.md#safe-conditions-constitutional) · [M](core_05_band_continuity.md#safe-conditions-constitutional-a) · [A](core_05_band_continuity.md#safe-conditions-constitutional-a) · [C](core_05_band_continuity.md#safe-conditions-constitutional-c)
-- [الأثر المادي](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [الأثر المادي](core_05_band_oversight.md#الأثر-المادي) · [O](core_05_band_oversight.md#الأثر-المادي) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1631,7 +1631,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: الفصل الأول [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§15.1 المبدأ الدستوري لمنع الالتفاف](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle)، و[§18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المنابع: المبادئ: الفصل الأول [§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§15.1 المبدأ الدستوري لمنع الالتفاف](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle)، و[§18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
 
 </details>
 
@@ -1639,15 +1639,15 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [الحوكمة](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
-- [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#الاختيار-الدستوري-التأسيسي) · [O](core_05_band_integrative.md#الاختيار-الدستوري-التأسيسي) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [الطرف المعني](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 - [وزن الطرف المعني](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
-- [الأثر المادي](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [الأثر المادي](core_05_band_oversight.md#الأثر-المادي) · [O](core_05_band_oversight.md#الأثر-المادي) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [الإجراءات الواجبة](core_05_band_accountability.md#due-process-constitutional) · [O](core_05_band_accountability.md#due-process-constitutional) · [M](core_05_band_accountability.md#due-process-constitutional-a) · [A](core_05_band_accountability.md#due-process-constitutional-a) · [C](core_05_band_accountability.md#due-process-constitutional-c)
 - [الإنصاف الإجرائي](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [طبقة العقد الدستوري](core_05_band_integrative.md#constitutional-contract-layer) · [O](core_05_band_integrative.md#constitutional-contract-layer) · [M](core_05_band_integrative.md#constitutional-contract-layer-a) · [A](core_05_band_integrative.md#constitutional-contract-layer-a) · [C](core_05_band_integrative.md#constitutional-contract-layer-c)
+- [طبقة العقد الدستوري](core_05_band_integrative.md#طبقة-العقد-الدستوري) · [O](core_05_band_integrative.md#طبقة-العقد-الدستوري) · [M](core_05_band_integrative.md#constitutional-contract-layer-a) · [A](core_05_band_integrative.md#constitutional-contract-layer-a) · [C](core_05_band_integrative.md#constitutional-contract-layer-c)
 
 </details>
 
@@ -1670,7 +1670,7 @@ flowchart TB
 *المواد المجاورة:*
 
 - **طبقتا الحوكمة:** تشمل [الحوكمة](core_05_band_accountability.md#governance) في **الفصل الخامس**:
-  - (1) **طبقة العقد الدستوري** — من يجوز له أن يحكم، وبأي آلية شرعية، وبأي شروط دائمة ([الاختيار الدستوري التأسيسي](core_05_band_integrative.md#foundational-constitutional-choice))؛ و
+  - (1) **طبقة العقد الدستوري** — من يجوز له أن يحكم، وبأي آلية شرعية، وبأي شروط دائمة ([الاختيار الدستوري التأسيسي](core_05_band_integrative.md#الاختيار-الدستوري-التأسيسي))؛ و
   - (2) **المشاركة النظامية للأطراف المعنية** — القرارات المؤثرة ماديًا في الحقوق ضمن الهياكل والقواعد والإجراءات المصرح بها مسبقًا لنظام أو مؤسسة أو مجال قرار محدد.
 - **نطاق هذه المادة:** تتناول الطبقة الثانية — تحديد [**الطرف المعني**](core_05_band_participation.md#stakeholder) ومسارات مشاركة الأطراف المعنية المتناسبة لمن يتأثرون بتشغيل مجال ما — المواد التالية:
   - **Article XII** (*المشاركة النظامية للأطراف المعنية والتمثيل والإجراءات الواجبة*) — هذه المادة؛
@@ -1683,8 +1683,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application)، و[الفصل الثامن §3 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (طبقة المشاركة النظامية للأطراف المعنية)؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake)؛ و[سجل الفعل الملزم ماديًا](core_05_band_accountability.md#materially-binding-act-record) و[الفصل السابع §7 سجلات الأفعال والإحالات المنسوبة وتوجيه المسألة إلى الجهة غير المختصة](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
+- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-التطبيق-المتكامل)، و[الفصل الثامن §3 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (طبقة المشاركة النظامية للأطراف المعنية)؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake)؛ و[سجل الفعل الملزم ماديًا](core_05_band_accountability.md#materially-binding-act-record) و[الفصل السابع §7 سجلات الأفعال والإحالات المنسوبة وتوجيه المسألة إلى الجهة غير المختصة](core_07_functional_independence_segregation_of_duties.md#8-سجلات-الأفعال-وعمليات-التسليم-القابلة-للإسناد).
 - الطبقة: **المشاركة النظامية للأطراف المعنية (SSP)**. وهي متميزة عن تصريح **طبقة العقد الدستوري (CCL)**.
 
 </details>
@@ -1729,7 +1729,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الثامن §3 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الثامن §3 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
 
 </details>
 
@@ -1751,7 +1751,7 @@ flowchart TB
 
 - **النطاق:** تُقرأ هذه المادة إلى جانب **Article X-B** (*المشاركة في الحوكمة واستحقاق التصويت*). وتسري قواعد الترجيح الواردة هنا:
   - **عندما يكون [وزن الطرف المعني](core_05_band_participation.md#stakeholder-weight) هو القاعدة الحاكمة** — أي في القرارات المؤثرة ماديًا في الحقوق *داخل* هياكل **[الحوكمة](core_05_band_accountability.md#governance)** وقواعدها وتوزيع سلطاتها وإجراءاتها، التي سبق التصريح بها للنظام أو المؤسسة أو مجال القرار المحدد ذي الصلة؛
-  - ولا **تصرح** بأوزان **تصويت** تتناسب مع الأثر أو الاعتماد أو المصلحة في [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#foundational-constitutional-choice) (**Article X-B** (*المشاركة في الحوكمة واستحقاق التصويت*)؛ [**الفصل الثالث عشر §4.1 الاستحقاق والأهلية**](core_13_governance.md#41-entitlement-and-eligibility)).
+  - ولا **تصرح** بأوزان **تصويت** تتناسب مع الأثر أو الاعتماد أو المصلحة في [الاختيار الدستوري التأسيسي](core_05_band_integrative.md#الاختيار-الدستوري-التأسيسي) (**Article X-B** (*المشاركة في الحوكمة واستحقاق التصويت*)؛ [**الفصل الثالث عشر §4.1 الاستحقاق والأهلية**](core_13_governance.md#41-entitlement-and-eligibility)).
 - **قيود ترجيح المشاركة:** يجوز لترجيح المشاركة أن يراعي:
   - الأثر؛
   - الاعتماد؛
@@ -1771,7 +1771,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[§18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[§18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
 
 </details>
 
@@ -1816,8 +1816,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، والفصل الأول [§18 الحوكمة في ظل الانضباط بالوصاية](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- تُقرأ مع: [الاستحواذ على النظام](core_05_band_continuity.md#system-capture)؛ [مناهضة الاستحواذ](core_05_band_continuity.md#anti-capture)؛ [الفصل السابع: الاستقلال الوظيفي وفصل الواجبات](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
+- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، والفصل الأول [§18 الحوكمة في ظل الانضباط بالوصاية](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف).
+- تُقرأ مع: [الاستحواذ على النظام](core_05_band_continuity.md#system-capture)؛ [مناهضة الاستحواذ](core_05_band_continuity.md#anti-capture)؛ [الفصل السابع: الاستقلال الوظيفي وفصل الواجبات](core_07_functional_independence_segregation_of_duties.md#الفصل-السابع-الاستقلال-الوظيفي-وفصل-الواجبات).
 
 </details>
 
@@ -1827,7 +1827,7 @@ flowchart TB
 - [الاستحواذ على النظام](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [مناهضة الاستحواذ](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
 - [قابلية الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [قابلية التدقيق](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1843,9 +1843,9 @@ flowchart TB
   - الاستحواذ الهيكلي.
   
   إن تركّز النفوذ — بما في ذلك السيطرة الخفية أو الموجّهة بصورة غير مباشرة — من دون قابلية للتدقيق أو الاعتراض يُعد عدم امتثال ويمس **المواد XI وXIV وXV**.
-- **فصل الواجبات:** يحدد [الفصل السابع](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) (*الاستقلال الوظيفي وفصل الواجبات*) الحد الأدنى لفصل الواجبات في كل إجراء ذي أثر ملزم جوهري:
-  - مقاعد مستقلة لبدء الإجراء والموافقة عليه وتسجيله والطعن فيه ([§2 الحد الدستوري الأدنى للمقاعد الأربعة](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor))؛
-  - الاستقلال عن الجهة التي تسيطر على الفاعل ([§3 الاستقلال وتضارب المصالح وخطوط السيطرة](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)).
+- **فصل الواجبات:** يحدد [الفصل السابع](core_07_functional_independence_segregation_of_duties.md#الفصل-السابع-الاستقلال-الوظيفي-وفصل-الواجبات) (*الاستقلال الوظيفي وفصل الواجبات*) الحد الأدنى لفصل الواجبات في كل إجراء ذي أثر ملزم جوهري:
+  - مقاعد مستقلة لبدء الإجراء والموافقة عليه وتسجيله والطعن فيه ([§2 الحد الدستوري الأدنى للمقاعد الأربعة](core_07_functional_independence_segregation_of_duties.md#2-الأرضية-الدستورية-للمقاعد-الأربعة))؛
+  - الاستقلال عن الجهة التي تسيطر على الفاعل ([§3 الاستقلال وتضارب المصالح وخطوط السيطرة](core_07_functional_independence_segregation_of_duties.md#3-الاستقلال-وتضارب-المصالح-وخطوط-السيطرة)).
 
   عندما يشغل كائن واعٍ أو منصب أو تكتل مقاعد يجب فصلها، أو يسيطر على شاغليها، فذلك مؤشر أيضاً على الاستحواذ الهيكلي بموجب هذه المادة.
 
@@ -1855,20 +1855,20 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§18 الحكم في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)، و[§19 مواءمة الحوافز والاستحواذ على النظام](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
-- اقرأ مع: [المادة XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*ضمانات منع الاستحواذ*)؛ [المادة XII-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*المشاركة الموزونة وقيود منع المشاركة الرمزية*)؛ [المادة X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*القدرة على الفعل والتحرر من التلاعب*)؛ [المادة IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*الملكية الذاتية للصورة والسمعة*)؛ [المادة XIII-E](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*الأنظمة عالية الاستقلالية ونزاهة العمليات بوساطة الأدوات*)؛ [المادة XV](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*نزاهة المجال المعلوماتي*)؛ [الفصل الحادي عشر §5.3](../../core_12_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*إغراق المجال وإنكار مسار الاعتراض*)، [§5.4](../../core_12_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*إغراق نطاق المجال المعلوماتي*)، و[§5.5](../../core_12_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*الرشوة والتبادل غير المشروع للمنافع*)؛ [الفصل السابع](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)؛ [الفصل الثالث عشر §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*الأهلية والاختيار القابل للطعن والحدود الديمقراطية الدنيا*).
+- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§18 الحكم في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف)، و[§19 مواءمة الحوافز والاستحواذ على النظام](core_01_c_stewardship_capacity_principles.md#19-مواءمة-الحوافز-وتسخير-النظام).
+- اقرأ مع: [المادة XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*ضمانات منع الاستحواذ*)؛ [المادة XII-B](core_06_rights_part_b.md#article-xii-b-المشاركة-الموزونة-وقيود-المشاركة-الشكلية) (*المشاركة الموزونة وقيود منع المشاركة الرمزية*)؛ [المادة X-A](core_06_rights_part_b.md#article-x-a-الفاعلية-والحرية-من-التلاعب) (*القدرة على الفعل والتحرر من التلاعب*)؛ [المادة IX-A](core_06_rights_part_b.md#ix-a-الملكية-الذاتية-للصورة-والسمعة) (*الملكية الذاتية للصورة والسمعة*)؛ [المادة XIII-E](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*الأنظمة عالية الاستقلالية ونزاهة العمليات بوساطة الأدوات*)؛ [المادة XV](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity) (*نزاهة المجال المعلوماتي*)؛ [الفصل الحادي عشر §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*إغراق المجال وإنكار مسار الاعتراض*)، [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*إغراق نطاق المجال المعلوماتي*)، و[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*الرشوة والتبادل غير المشروع للمنافع*)؛ [الفصل السابع](core_07_functional_independence_segregation_of_duties.md#الفصل-السابع-الاستقلال-الوظيفي-وفصل-الواجبات)؛ [الفصل الثالث عشر §1.2](core_12_governance.md#12-الأهلية-والاختيار-المتنازع-عليه-والحد-الأدنى-الديمقراطي) (*الأهلية والاختيار القابل للطعن والحدود الديمقراطية الدنيا*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الاستحواذ على النظام](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [منع الاستحواذ](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [قابلية الاعتراض](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [قابلية التدقيق](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [الإنصاف الإجرائي](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [الطرف المعني](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+- [الاستحواذ على النظام](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
+- [منع الاستحواذ](../../core_05.040_band_continuity.md#anti-capture) · [O](../../core_05.040_band_continuity.md#anti-capture) · [M](../../core_05.040_band_continuity.md#anti-capture-a) · [A](../../core_05.040_band_continuity.md#anti-capture-a) · [C](../../core_05.040_band_continuity.md#anti-capture-c)
+- [قابلية الاعتراض](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [قابلية التدقيق](../../core_05.050_band_oversight.md#auditability) · [O](../../core_05.050_band_oversight.md#auditability) · [M](../../core_05.050_band_oversight.md#auditability-a) · [A](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
+- [الإنصاف الإجرائي](../../core_05.055_band_participation.md#procedural-fairness) · [O](../../core_05.055_band_participation.md#procedural-fairness) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [الطرف المعني](../../core_05.035_band_accountability.md#interested-party) · [O](../../core_05.035_band_accountability.md#interested-party) · [M](../../core_05.035_band_accountability.md#interested-party-a) · [A](../../core_05.035_band_accountability.md#interested-party-a) · [C](../../core_05.035_band_accountability.md#interested-party-c)
 
 </details>
 
@@ -1891,22 +1891,22 @@ flowchart TB
 *المواد المجاورة:*
 
 - **حد منع الاستحواذ:** تغطي [**المادة XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*ضمانات منع الاستحواذ*) التكوين وتضارب المصالح والتنحي والمراجعة الخارجية والعزل. وتضيف هذه المادة قواعد اقتراب الأطراف المعنية من الهيئات نفسها.
-- **وزن المشاركة:** تمنع [**المادة XII-B**](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*المشاركة الموزونة وقيود منع المشاركة الرمزية*) المشاركة الرمزية. ولا يُعد حجم الاتصالات دليلًا على التأييد بموجب هذه المادة أيضًا.
-- **الأنظمة والمعلومات:** تُلزم [**المادة XIII-E**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*الأنظمة عالية الاستقلالية ونزاهة العمليات بوساطة الأدوات*) الأنظمة بالقواعد نفسها التي تسري على الجميع؛ وتغطي [**المادة XV**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*نزاهة المجال المعلوماتي*) بيئة المعلومات المشتركة.
-- **تمويل الاختيار:** يحدد [**الفصل الثالث عشر §1.2**](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*الأهلية والاختيار القابل للطعن والحدود الديمقراطية الدنيا*) حدود التمويل للاختيار عن طريق الحملات أو الترشيح أو التعيين التنافسي.
+- **وزن المشاركة:** تمنع [**المادة XII-B**](core_06_rights_part_b.md#article-xii-b-المشاركة-الموزونة-وقيود-المشاركة-الشكلية) (*المشاركة الموزونة وقيود منع المشاركة الرمزية*) المشاركة الرمزية. ولا يُعد حجم الاتصالات دليلًا على التأييد بموجب هذه المادة أيضًا.
+- **الأنظمة والمعلومات:** تُلزم [**المادة XIII-E**](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*الأنظمة عالية الاستقلالية ونزاهة العمليات بوساطة الأدوات*) الأنظمة بالقواعد نفسها التي تسري على الجميع؛ وتغطي [**المادة XV**](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity) (*نزاهة المجال المعلوماتي*) بيئة المعلومات المشتركة.
+- **تمويل الاختيار:** يحدد [**الفصل الثالث عشر §1.2**](core_12_governance.md#12-الأهلية-والاختيار-المتنازع-عليه-والحد-الأدنى-الديمقراطي) (*الأهلية والاختيار القابل للطعن والحدود الديمقراطية الدنيا*) حدود التمويل للاختيار عن طريق الحملات أو الترشيح أو التعيين التنافسي.
 
 تضع هذه المادة الحدود الدنيا التالية:
 
 - **النطاق:** تسري هذه الحدود على الهيئات المشمولة و**سلطات التعيين** التابعة لها و**المؤسسات المتبنية**. وتتدرج المتطلبات بحسب المصلحة المادية. أما الوثيقة المقدمة في السجل المفتوح للمسألة فليست اتصالًا للتأثير؛ إنها السجل نفسه.
-- **حدود الاتصال للتأثير:** يجب على الهيئات المشمولة و**سلطات التعيين** التابعة لها و**المؤسسات المتبنية** نشر قواعد **الاتصال للتأثير**. وهو اقتراب طرف [**معني**](../../core_05_band_accountability.md#interested-party) من عضو أو عضو هيئة أو موظف أو ميسّر أو مصدر إحاطة، بقصد تشكيل مسألة منظورة أو متوقعة خارج سجلها المفتوح. وتتدرج القواعد بحسب المصلحة المادية، ويجب أن تتضمن على الأقل ما يلي:
+- **حدود الاتصال للتأثير:** يجب على الهيئات المشمولة و**سلطات التعيين** التابعة لها و**المؤسسات المتبنية** نشر قواعد **الاتصال للتأثير**. وهو اقتراب طرف [**معني**](../../core_05.035_band_accountability.md#interested-party) من عضو أو عضو هيئة أو موظف أو ميسّر أو مصدر إحاطة، بقصد تشكيل مسألة منظورة أو متوقعة خارج سجلها المفتوح. وتتدرج القواعد بحسب المصلحة المادية، ويجب أن تتضمن على الأقل ما يلي:
   - **تسجيل** كل اتصال مادي للتأثير: من أجراه، ومتى، وعبر أي قناة، وبشأن أي مسألة، وملخص ما طُلب أو عُرض؛
-  - حفظ ذلك السجل في مقعد مستقل عن العضو أو عضو الهيئة أو الموظف الذي جرى الاتصال به ([الفصل السابع](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties))؛
+  - حفظ ذلك السجل في مقعد مستقل عن العضو أو عضو الهيئة أو الموظف الذي جرى الاتصال به ([الفصل السابع](core_07_functional_independence_segregation_of_duties.md#الفصل-السابع-الاستقلال-الوظيفي-وفصل-الواجبات))؛
   - **الإفصاح** عن الاتصالات المادية في سجل المسألة في وقت يتيح للمشاركين الآخرين الرد؛
   - إبقاء الأدلة والحجج في السجل المفتوح: فلا يجوز للاتصال الخاص تقديم دليل أو حجة يستند إليها القرار؛
   - اعتبار أي عرض لهدية أو منفعة أو منصب مستقبلي، وأي تهديد، تضاربًا يجب الإفصاح عنه ورفضه وإحالته بموجب **CI-5** (*نزاهة تضارب المصالح ومنع الاستحواذ ومكافحة الفساد*)، لا اتصالًا عاديًا؛ و
   - حماية الترافع والالتماس والتعليق العام المفتوح المقدّم في السجل، وإمكانية وصول الكائنات الواعية المتأثرة إلى أي هيئة يتعين عليها سماعها. ولا يجوز استخدام هذه القواعد لتقييد ما يجوز للكائنات الواعية المتأثرة قوله بشأن مصلحتها هي.
 - **تضارب المصالح المتعلق بالأدوار المحتملة وما بعد الخدمة:**
-  - **تضارب الدور المحتمل:** تُعد مناقشة دور أو وظيفة أو عقد أو منفعة لاحقة مع طرف [**معني**](../../core_05_band_accountability.md#interested-party)، في أثناء نظر عضو أو عضو هيئة أو موظف في مسألة ذلك الطرف، تضاربًا. ويجب الإفصاح عنها، وعلى العضو أو عضو الهيئة أو الموظف التنحي إلى أن يجيزها مقعد مستقل.
+  - **تضارب الدور المحتمل:** تُعد مناقشة دور أو وظيفة أو عقد أو منفعة لاحقة مع طرف [**معني**](../../core_05.035_band_accountability.md#interested-party)، في أثناء نظر عضو أو عضو هيئة أو موظف في مسألة ذلك الطرف، تضاربًا. ويجب الإفصاح عنها، وعلى العضو أو عضو الهيئة أو الموظف التنحي إلى أن يجيزها مقعد مستقل.
   - **قواعد ما بعد الخدمة:** يجب على الهيئات المشمولة و**المؤسسات المتبنية** أيضًا نشر قواعد لما بعد الخدمة تتناسب مع المصلحة المادية. وتحظر هذه القواعد قبول دور أو منفعة من طرف معني بشأن مسألة سبق أن عالجها الشخص إلى أن تنقضي فترة التهدئة أو يجيز العرض مقعد مستقل في قرار منشور.
   - **فترة التهدئة الافتراضية:** الافتراضي **خمس سنوات** من انتهاء آخر مشاركة للعضو أو عضو الهيئة أو الموظف في المسألة.
   - **التغيير:** يجوز للمؤسسة المتبنية تحديد فترة أطول. ولا يجوز لها تحديد فترة أقصر إلا عندما تكون المصلحة المادية منخفضة، وعليها نشر أسباب ذلك.
@@ -1919,7 +1919,7 @@ flowchart TB
   - **القنوات:** يجب على الهيئة المشمولة نشر قناة موثّقة لإيداع المداخلات في السجل. ويجوز لها تقييد المعدل وإزالة التكرار واستبعاد المدخلات المخالفة لهذه القواعد. ويُحظر الاقتراب الآلي من عضو أو عضو هيئة أو موظف أو ميسّر أو مصدر إحاطة عبر أي قناة خاصة.
   - **الأنظمة لدى جهة القرار:** عندما تستخدم هيئة نظامًا لاستقبال المواد أو فرزها أو تلخيصها أو إعداد مسودة قرار، يكون الاقتراب الذي يستهدف توجيه النظام بدلًا من إبلاغ أصحاب القرار اتصالًا للتأثير. ويشمل ذلك التعليمات المخفية في المواد المقدمة والبيانات المسمومة والمحتوى المصمم للتلاعب بترتيب النتائج. وعلى الهيئة معاملة المواد المقدمة بوصفها أدلة لا تعليمات، وإبقاء كل مخرج قابلًا للتتبع إلى سجل المصدر، والإفصاح عن المواد الواردة التي وصلت إلى نظام أسهم في القرار. ويُسجّل الاتصال بين نظام طرف معني ونظام الهيئة على النحو نفسه الذي يُسجّل به الاتصال بين الكائنات الواعية.
   - **المسؤولية:** يُسأل الطرف المعني والمشغّل الذي ينشر النظام عن الاتصال. ولا يشكل الجهل دفاعًا عندما يتجاهلان خطرًا واضحًا.
-- **هيئات الاختيار بالقرعة:** يخضع الأعضاء المختارون في هيئة اختيار بالقرعة لأشد مستويات هذه الحدود. ويُحظر الاتصال الخاص بهم بشأن المسألة إلا عبر سجل الإحاطة المفتوح، كما يقتضي [الفصل الثالث عشر](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums).
+- **هيئات الاختيار بالقرعة:** يخضع الأعضاء المختارون في هيئة اختيار بالقرعة لأشد مستويات هذه الحدود. ويُحظر الاتصال الخاص بهم بشأن المسألة إلا عبر سجل الإحاطة المفتوح، كما يقتضي [الفصل الثالث عشر](core_12_governance.md#12-الأهلية-والاختيار-المتنازع-عليه-والحد-الأدنى-الديمقراطي).
 - **الإنفاذ والإحالة:**
   - **مؤشرات النزاهة:** تُحال الاتصالات المستترة للتأثير وعروض المنافع والأصوات المختلقة بوصفها مؤشرات نزاهة بموجب **CI-5** (*نزاهة تضارب المصالح ومنع الاستحواذ ومكافحة الفساد*) و**CJS-3.6** (*عمليات ضمان النزاهة والمرونة*).
   - **مسار سوء السلوك:** يجوز الادعاء بوجود **سوء سلوك مناهض للدستور** بموجب **الفصل الحادي عشر** في حالات الإغراق المتعمد أو المتهور بأصوات زائفة، والرشوة أو تبادل المنافع غير المشروع، متى أُثبت ذلك بموجب **الفصول الثاني إلى الرابع** ومجموعة معايير **الفصل الحادي عشر**.

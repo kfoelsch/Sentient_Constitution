@@ -6,9 +6,9 @@
 
 > Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
 >
-> Bu dosya, [İngilizce Beşinci Bölüm, Gözetim bantı](../../core_05_band_oversight.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_05_band_oversight.md`](../../core_05_band_oversight.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
+> Bu dosya, [İngilizce Beşinci Bölüm, Gözetim bantı](../../core_05.050_band_oversight.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.08.09`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_05_band_oversight.md`](../../core_05.050_band_oversight.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
-> Beşinci Bölüm **Gözetim bantını** içerir — **Gözetim** anayasal banta atanmış Bağımsız, Yarı-bağımsız ve bağımlı küme tanımları (**Def.O1–Def.O2**). Okuma sırası ve pusula [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions)de yaşar.
+> Beşinci Bölüm **Gözetim bantını** içerir — **Gözetim** anayasal banta atanmış Bağımsız, Yarı-bağımsız ve bağımlı küme tanımları (**Def.O1–Def.O2**). Okuma sırası ve pusula [core_05__definitions_home.md](core_05__definitions_home.md#beşinci-bölüm-temel-tanimlar)de yaşar.
 >
 > **Önceki (bu dil):** [core_05_band_integrative.md](core_05_band_integrative.md)
 >
@@ -21,7 +21,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: [Beşinci Bölüm pusulası](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims).
+- Yukarı: [Beşinci Bölüm pusulası](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims).
 - Aşağı: Beşinci Bölüm için Gözetim bantının kanonik tanım evleri.
 - Birlikte oku: **Gözetim** bant tanımları; kabul kapsamının uygulandığı yerde zorunlu küme birlikte-okuma.
 
@@ -92,7 +92,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Küme bileşeni: [*Maddi etki, maddilik belirlemesi, sınıflamaya ölçeklenmiş yönetişim, gözetim ve yetkinlik gereksinimi*](core_05_band_oversight.md#materiality-semi-independent).
-- Birlikte oku: [Maddi etki](core_05_band_oversight.md#material-impact), [Şeffaflık](core_05_band_oversight.md#transparency), ve [Sistem sınırları](core_05_band_continuity.md#system-boundaries).
+- Birlikte oku: [Maddi etki](core_05_band_oversight.md#maddi-impact), [Şeffaflık](core_05_band_oversight.md#şeffaflık), ve [Sistem sınırları](core_05_band_continuity.md#system-boundaries).
 
 </details>
 
@@ -109,7 +109,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - tasarım belgeleri;
     - planlar; ya da
     - amaçlanan davranış.
-    O kanıt şunun için yeterince açık olmalıdır: [Şeffaflık](core_05_band_oversight.md#transparency) ve dışarıdakilerin değerlendirmesi için [Maddi etki](core_05_band_oversight.md#material-impact).
+    O kanıt şunun için yeterince açık olmalıdır: [Şeffaflık](core_05_band_oversight.md#şeffaflık) ve dışarıdakilerin değerlendirmesi için [Maddi etki](core_05_band_oversight.md#maddi-impact).
 <a id="capability-requirement-c"></a>
 - **Neyin geçerli kalması gerekir**
   - Sistem, denetlenebilir sınırlar içinde pratikte belirtilmiş sonucu gösterilebilir biçimde başarmalıdır [Sistem sınırları](core_05_band_continuity.md#system-boundaries).
@@ -126,8 +126,8 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 
 - Yukarı: Principles: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — [maddi pay](core_00_preamble.md#material-stake) scaling.
 - Küme bileşeni: [*Maddi etki, maddilik belirlemesi, sınıflamaya ölçeklenmiş yönetişim, gözetim ve yetkinlik gereksinimi*](core_05_band_oversight.md#materiality-semi-independent).
-- Birlikte oku: [Bağımlılık](core_05_band_continuity.md#dependency), [Maddi etki](core_05_band_oversight.md#material-impact), [Risk](core_05_band_continuity.md#risk), [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity), ve [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional).
-- Aşağı: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — sınıfa ölçeklenmiş bütün-sistem değerlendirme ödevi.
+- Birlikte oku: [Bağımlılık](core_05_band_continuity.md#dependency), [Maddi etki](core_05_band_oversight.md#maddi-impact), [Risk](core_05_band_continuity.md#risk), [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity), ve [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional).
+- Aşağı: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — sınıfa ölçeklenmiş bütün-sistem değerlendirme ödevi.
 
 </details>
 
@@ -137,7 +137,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 
 - **Nedir**
   - **Kapsamda:** Ne kadar sıkı olması gerektiği: [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional), doğrulama ve süreç disiplini — şuna ölçeklenmiş [maddi pay](core_00_preamble.md#material-stake), şunları kapsayarak:
-    - [Maddi etki](core_05_band_oversight.md#material-impact);
+    - [Maddi etki](core_05_band_oversight.md#maddi-impact);
     - [Bağımlılık](core_05_band_continuity.md#dependency); and
     - [Risk](core_05_band_continuity.md#risk).
     The system's class under *[corpus_systems.md](../../corpus_systems.md)*, CS-3 — Sistem sınıflaması ve ele alma, ve ilgili kurallar o yoğunluğu belirler.
@@ -149,7 +149,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: gözetim derinliği ve doğrulama yükünün sistemin gerçek payı, etkisi, bağımlılığı ve riskiyle örtüşüp örtüşmediği — kendi-atanmış düşük bir sınıf değil.
 
-    **Birincil değerlendirme:** Uygulama kuralları altındaki gerçek sınıfı kullanın, şununla birlikte okuyarak [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) and [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity). Sistemin tam etkileri daha güçlüsünü gerektirdiğinde kendi-atanmış ya da informal düşük sınıf yetmez [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional) ya da yönetişim. Sınıfa göre ölçeklenen bütün-sistem incelemesi [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation):
+    **Birincil değerlendirme:** Uygulama kuralları altındaki gerçek sınıfı kullanın, şununla birlikte okuyarak [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) and [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity). Sistemin tam etkileri daha güçlüsünü gerektirdiğinde kendi-atanmış ya da informal düşük sınıf yetmez [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional) ya da yönetişim. Sınıfa göre ölçeklenen bütün-sistem incelemesi [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation):
     - **Class A**, **Class B**, ve **Class C** — full depth, mandatory;
     - **Class L** — zorunlu, ama etkiye göre boyutlandırılmış; ve
     - **Class P** — sistem geçerli biçimde **Class P** iken teşvik edilir.
@@ -159,7 +159,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - gerçek pay farklarını yok sayan tek-beden-herkese gözetim;
     - sistemin gerçek payını, etkisini, bağımlılığını ya da riskini eksik gösteren bir sınıf etiketi;
     - bir sistemi tam etkilerinin gerektirdiğinin altında çalıştırmak ya da etiketlemek; ya da
-    - sınıf-temelli ödevleri atlamak, şu [Maddi etki](core_05_band_oversight.md#material-impact), [Bağımlılık](core_05_band_continuity.md#dependency), or [Risk](core_05_band_continuity.md#risk) daha güçlü yönetişim gerektirdiğinde.
+    - sınıf-temelli ödevleri atlamak, şu [Maddi etki](core_05_band_oversight.md#maddi-impact), [Bağımlılık](core_05_band_continuity.md#dependency), or [Risk](core_05_band_continuity.md#risk) daha güçlü yönetişim gerektirdiğinde.
 
 ---
 
@@ -185,7 +185,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - kaynak koruma;
     - soruşturma; ve
     - yayımlama.
-    O işi yapan algılayanlar [İfade](core_05_band_participation.md#expression-constitutional) and [Toplanma](core_05_band_participation.md#assembly-constitutional) Hak Tabanı, şunun altında yükseltilmiş-inceleme korumasıyla [Madde V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, ve Press*) o etkinliği zayıflatmaya yönelik devlet ve işleç eylemlerine karşı.
+    O işi yapan algılayanlar [İfade](core_05_band_participation.md#expression-constitutional) and [Toplanma](core_05_band_participation.md#assembly-constitutional) Hak Tabanı, şunun altında yükseltilmiş-inceleme korumasıyla [Madde V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, ve Press*) o etkinliği zayıflatmaya yönelik devlet ve işleç eylemlerine karşı.
   - **Kapsam dışında:** haber toplama, soruşturma ya da gazetecilik olarak işleyen yayımlama olmayan basın belgeleri, kurumsal unvanlar ya da sıradan ticari konuşma.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
@@ -219,18 +219,18 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 - **Scope:** ortak çağrı karşılandığında, iki soru için Gözetim evi — etkiler anayasal olarak ne zaman yeterince önemlidir ve ölçütler hâlâ gerçekliği izliyor mu? Değerlendirme gerçek etkilere dayanmalıdır — manipüle edilebilir vekillere değil.
 
 **Konu grubu üyeleri.** Bu grup şunları kapsar:
-- [Maddi](core_05_band_oversight.md#material) — etkilerin anayasal olarak önemseyecek kadar büyük olup olmadığı.
-- [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) — sistemler ya da olaylar için onu sınıflama yöntemi.
-- [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#materiality-integrity-constraint) — resmi küçültmek için sınırları oyunlamayı yasaklar.
-- [Maddi etki](core_05_band_oversight.md#material-impact) — etkilerin ne kadar uzağa, ne kadar büyük ve ne kadar ağır olduğu.
-- [Maddi risk](core_05_band_oversight.md#material-risk) — zararın ne kadar olası, ne kadar çabuk ve geri almanın ne kadar zor olabileceği.
-- [Belirsizlik altında maddilik](core_05_band_oversight.md#materiality-under-uncertainty) — yanıt belirsizken ihtiyata öntanımlar.
-- [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — bir ölçüt artık gerçeklikle örtüşmediğinde işaretler, koşullar kötüleşirken skorun pişirilmesi dahil.
-- [Maddi bozulma](core_05_band_oversight.md#material-degradation) — güvenlik, epistemik bütünlük ya da anlamlı faillik gibi korunan bir koşulda gerçek bir düşüş.
+- [Maddi](core_05_band_oversight.md#maddi) — etkilerin anayasal olarak önemseyecek kadar büyük olup olmadığı.
+- [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) — sistemler ya da olaylar için onu sınıflama yöntemi.
+- [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#maddiity-integrity-constraint) — resmi küçültmek için sınırları oyunlamayı yasaklar.
+- [Maddi etki](core_05_band_oversight.md#maddi-impact) — etkilerin ne kadar uzağa, ne kadar büyük ve ne kadar ağır olduğu.
+- [Maddi risk](core_05_band_oversight.md#maddi-risk) — zararın ne kadar olası, ne kadar çabuk ve geri almanın ne kadar zor olabileceği.
+- [Belirsizlik altında maddilik](core_05_band_oversight.md#maddiity-şunun-altında-uncertainty) — yanıt belirsizken ihtiyata öntanımlar.
+- [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — bir ölçüt artık gerçeklikle örtüşmediğinde işaretler, koşullar kötüleşirken skorun pişirilmesi dahil.
+- [Maddi bozulma](core_05_band_oversight.md#maddi-degradation) — güvenlik, epistemik bütünlük ya da anlamlı faillik gibi korunan bir koşulda gerçek bir düşüş.
 
 <a id="materiality-operator-phrases"></a>
 
-**İşleç öbekleri** (corpus-wide reading aids owned with [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)):
+**İşleç öbekleri** (corpus-wide reading aids owned with [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)):
 
 - <a id="materially-implicated"></a>**maddi olarak içerilmiş** — bu ödev, ölçü ya da konu, pay maddi olduğu için dava için *masadadır*.
 - <a id="materially-misaligned"></a>**maddi olarak yanlış hizalı** / **anayasal yanlış hizalanma** — davranış ya da yapı maddi ölçekte *anayasal hizanın dışındadır*.
@@ -248,8 +248,8 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
-- Birlikte oku: [Maddi etki](core_05_band_oversight.md#material-impact), [Maddi risk](core_05_band_oversight.md#material-risk), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), ve [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#classification-scaled-governance).
+- Aşağı: Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)) (*Materiality as constitutional measurement*); Principles: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
+- Birlikte oku: [Maddi etki](core_05_band_oversight.md#maddi-impact), [Maddi risk](core_05_band_oversight.md#maddi-risk), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), ve [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim).
 
 </details>
 
@@ -258,19 +258,19 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 *Yalın dille: önemseyecek kadar büyük — hiçbir gerçeği değiştirmeyen ıvır zıvır, kozmetik ya da evrak değil.*
 
 - **Nedir**
-  - **Kapsamda:** Anlamlı üretebilen koşullar [Maddi etki](core_05_band_oversight.md#material-impact) or [Maddi risk](core_05_band_oversight.md#material-risk).
+  - **Kapsamda:** Anlamlı üretebilen koşullar [Maddi etki](core_05_band_oversight.md#maddi-impact) or [Maddi risk](core_05_band_oversight.md#maddi-risk).
   - **Kapsam dışında:** Anlamlı maddi etki ya da maddi riski olmayan ıvır zıvır, kozmetik ya da salt evrak.
 <a id="material-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
-  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) — threshold input for [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination).
+  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)) — threshold input for [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination).
 
-    **Birincil değerlendirme:** Koşulların anlamlı üretip üretemediğini sorun [Maddi etki](core_05_band_oversight.md#material-impact) or [Maddi risk](core_05_band_oversight.md#material-risk) yalnızca bir dilime değil bütün sisteme baktığınızda.
-  - **İkincil ölçü:** [Maddi etki](core_05_band_oversight.md#material-impact), [Maddi risk](core_05_band_oversight.md#material-risk), ve [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
+    **Birincil değerlendirme:** Koşulların anlamlı üretip üretemediğini sorun [Maddi etki](core_05_band_oversight.md#maddi-impact) or [Maddi risk](core_05_band_oversight.md#maddi-risk) yalnızca bir dilime değil bütün sisteme baktığınızda.
+  - **İkincil ölçü:** [Maddi etki](core_05_band_oversight.md#maddi-impact), [Maddi risk](core_05_band_oversight.md#maddi-risk), ve [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
 
     **İkincil değerlendirme:** Birincil yanıtı denetlerken, tek tek küçük görünen etkilerin bir araya konunca hâlâ küçük görünüp görünmeyeceğini sorun — sistem genelindeki [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality) pathways.
 <a id="material-c"></a>
 - **Neyin geçerli kalması gerekir**
-  - **Birincil başarısızlık:** ignoring conditions that [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) would treat as material.
+  - **Birincil başarısızlık:** ignoring conditions that [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) would treat as material.
   - **İkincil başarısızlık:** birlikte ya da sistem genelinde maddi sayılacak tek tek küçük etkileri maddi değil demek.
 
 ---
@@ -286,52 +286,52 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 - **Yazılı değerlendirme ve birleştirme:** Grubun gerçekte ne yaptığına, kararlaştırdığına, elinde tuttuğuna ve etkilediğine bakarak dokuz alanı ayrı ayrı değerlendirin; yanıtı ve gerekçeyi yazın. Tek bir evet yeterlidir. Ortak pratik yönetim veya denetim altındaki grupların faaliyetlerini ve baskı altındaki aynı ortak sisteme yapılan anlamlı katkıları birlikte değerlendirin. Eşiğin altında kalmak için faaliyetleri bölmek yasaktır. Etkilenen kişiler gelişim aşamasındaysa, bağımlıysa veya kendini koruyamıyor ya da ayrılamıyorsa eşik düşer. Geri döndürülemez zarar için, olasılık düşük olsa bile, inandırıcı bir nedensel yol yeterlidir. Olağan topluluk faaliyeti eşiklerin altında kabul edilir; bunu ileri süren grup kısa ve gerekçeli yazılı açıklama sunar. İtiraz eden kişi belirli aşımı adlandırır; grup da eşiğin altında kaldığını gösterir. Yayımlanmış sayılar yalnızca yol gösterir; değerlendirmeyi değiştiremez veya eşiği yükseltemez.
 - <a id="domain-specific-materiality-private-unit"></a>
 - Bu kayıtta ve **CS-3**’te (*Sistem sınıflandırma mekanizması*) “özel birim”; tek bir algılayıcı, bir hane ya da tüm üyelerinin kendi seçimiyle katıldığı ve eylemleri ile etkileri kendi içinde kalan, sınırları kesin biçimde çizilmiş özel bir çevre demektir. Başkalarına ulaşan veya başkalarının dayanmak zorunda olduğu etkiler özel birimin dışındadır. Başkalarına açık olağan topluluk faaliyeti özel birim değildir; dokuz soruyla değerlendirilir.
-- **Tek güç merkezi:** Aynı algılayıcılar, ofis veya [Faaliyet Tarafı](core_05_band_oversight.md#operating-party), her Faaliyet Tarafının ne yaptığını (ne sağladığını, kime ve hangi koşullarda sağladığını ya da faaliyetin sürüp sürmeyeceğini) yönlendirebiliyor veya geçersiz kılabiliyorsa ya da aynı faaliyeti tek bir hizmetin parçaları olarak yürütüyorlarsa, bunlar tek bir operasyondur. Bu test, [Maddi Kontrol Hattı](../../core_05_band_accountability.md#material-control-line) içindeki ortak fiilî kontrol fikrine benzer; ancak Faaliyet Taraflarının faaliyetlerine uygulanır ve tek bir eylemdeki koltukların bağımsızlığını ölçmez. Yalnızca finansman sağlanması, mekân veya tedarikçilerin paylaşılması, üyelerin kısmen örtüşmesi ya da ortak mesleki uygulamada aynı CI-4.7 ev sahibinin aracının kullanılması birleştirme nedeni değildir. Fon sağlayan, ancak finansmanı faaliyeti yönlendirme veya geçersiz kılma yetkisi veriyorsa operasyona dahildir.
+- **Tek güç merkezi:** Aynı algılayıcılar, ofis veya [Faaliyet Tarafı](core_05_band_oversight.md#faaliyet-tarafı), her Faaliyet Tarafının ne yaptığını (ne sağladığını, kime ve hangi koşullarda sağladığını ya da faaliyetin sürüp sürmeyeceğini) yönlendirebiliyor veya geçersiz kılabiliyorsa ya da aynı faaliyeti tek bir hizmetin parçaları olarak yürütüyorlarsa, bunlar tek bir operasyondur. Bu test, [Maddi Kontrol Hattı](../../core_05.035_band_accountability.md#material-control-line) içindeki ortak fiilî kontrol fikrine benzer; ancak Faaliyet Taraflarının faaliyetlerine uygulanır ve tek bir eylemdeki koltukların bağımsızlığını ölçmez. Yalnızca finansman sağlanması, mekân veya tedarikçilerin paylaşılması, üyelerin kısmen örtüşmesi ya da ortak mesleki uygulamada aynı CI-4.7 ev sahibinin aracının kullanılması birleştirme nedeni değildir. Fon sağlayan, ancak finansmanı faaliyeti yönlendirme veya geçersiz kılma yetkisi veriyorsa operasyona dahildir.
 - **Zorlanan ortak sisteme marjinal katkı:** Birden fazla Faaliyet Tarafı, zaten zorlanmakta olan aynı nehir, piyasa veya ağı kullanıyor ya da ona yük bindiriyorsa, her tarafın toplam baskıya marjinal katkısı ayrı değerlendirilir. Anlamlı bir katkı maddidir; önemsiz bir katkı maddi değildir, toplam baskı eşiği aşsa bile.
 <a id="domain-specific-materiality-survival"></a>**Hayatta kalma ve temel erişim.** *Grup durursa başkaları yaşamak için ihtiyaç duydukları bir şeyi kaybeder mi?*
   - **Maddi olduğu durum:** Grup yiyecek, su, barınma, enerji, sağlık hizmeti veya güvenli geçiş sağlar, denetler ya da kesebilir ve ona güvenenler zamanında ikame bulamaz.
   - **Maddi olmadığı durum:** Başkalarının kolayca başka yerde bulabileceği bir şeyi paylaşmak.
   - **Sahip hükümler:** **Article I** (*Çevresel Hayatta Kalma*) ve **Article III** (*Hayatta Kalma ve Temel Erişim*).
 - <a id="domain-specific-materiality-safety"></a>**Güvenlik.** *Faaliyet, bu riski seçmemiş ve ondan uzaklaşamayan birine zarar verebilir mi?*
-  - **Maddi olduğu durum:** Grubun yaptıklarından zarara uzanan inandırıcı ve izlenebilir bir nedensel yol vardır; riski bilerek kabul etmemiş ve özgürce ayrılamayan bir sentient bedensel veya psikolojik [Zarara](../../core_05_band_accountability.md#harm) uğrayabilir. Tipik örnekler: bağımlı kişilere bakım; yaralayabilecek ürün ve hizmetler; tehlikeli maddeler ve araçlar; tıbbi veya psikolojik bakım olarak verilen tavsiye; grubun yönettiği kişilerin çalışma koşulları.
+  - **Maddi olduğu durum:** Grubun yaptıklarından zarara uzanan inandırıcı ve izlenebilir bir nedensel yol vardır; riski bilerek kabul etmemiş ve özgürce ayrılamayan bir sentient bedensel veya psikolojik [Zarara](../../core_05.035_band_accountability.md#harm) uğrayabilir. Tipik örnekler: bağımlı kişilere bakım; yaralayabilecek ürün ve hizmetler; tehlikeli maddeler ve araçlar; tıbbi veya psikolojik bakım olarak verilen tavsiye; grubun yönettiği kişilerin çalışma koşulları.
   - **Maddi olmadığı durum:** Yetişkinlerin bilerek kabul ettiği, özgürce ayrılabildiği ve olağan yaşamda zaten bulunan riskler.
-  - **Sahip hükümler:** [Güvenlik (Anayasal Kısıt)](../../core_05_band_continuity.md#safety-constraint), **Article III-D** (*Güvenli Çalışma Koşulları*), **Article VII** (*Kendine Sahip Olma*) ve **Article VIII** (*Aile, Bakım ve Gelişen Sentientler*).
+  - **Sahip hükümler:** [Güvenlik (Anayasal Kısıt)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), **Article III-D** (*Güvenli Çalışma Koşulları*), **Article VII** (*Kendine Sahip Olma*) ve **Article VIII** (*Aile, Bakım ve Gelişen Sentientler*).
 - <a id="domain-specific-materiality-authority"></a>**Başkaları üzerindeki yetki.** *Grup, başkalarının uyması gereken veya kesin sayabileceği ve onların neye erişebileceğini ya da ne yapabileceğini değiştiren kararlar alıyor mu?*
-  - **Maddi olduğu durum:** Grup, başkalarının uyması gereken veya kesinleşmiş sayarak güvenebileceği resmî bir eylemde bulunur ve bu eylem hayati ihtiyaçlara, eğitime, güvenliğe, geçim kaynaklarına, haklara ya da statüye erişimi etkiler (bu eylem bir [Maddi Bağlayıcı Eylem](../../core_05_band_accountability.md#materially-binding-act) olur; maddiliğini bu listeden alır ve listeyi geriye dönük belirlemez); ya da bir üyeyi dışlama, disipline etme veya çıkarma bunlardan herhangi birini maddi olarak etkiler.
+  - **Maddi olduğu durum:** Grup, başkalarının uyması gereken veya kesinleşmiş sayarak güvenebileceği resmî bir eylemde bulunur ve bu eylem hayati ihtiyaçlara, eğitime, güvenliğe, geçim kaynaklarına, haklara ya da statüye erişimi etkiler (bu eylem bir [Maddi Bağlayıcı Eylem](../../core_05.035_band_accountability.md#materially-binding-act) olur; maddiliğini bu listeden alır ve listeyi geriye dönük belirlemez); ya da bir üyeyi dışlama, disipline etme veya çıkarma bunlardan herhangi birini maddi olarak etkiler.
   - **Maddi olmadığı durum:** Kimsenin kabul etmek zorunda olmadığı ve başkasının erişimini engellemeyen yardım, mal, emek veya hizmet sunmak; özel birim içindeki seçimler; kimseyi bağlamayan taslaklar, öneriler ve davetler.
   - **Sahip hükümler:** **Article VI** (*Eşit Temel Haklar*), **Article X** (*Kendi Kaderini Tayin, Faillik ve Katılım*), **Article XII** (*Paydaşların Sistem Katılımı, Temsil ve Usul Güvenceleri*) ve Bölüm Sekiz.
 - <a id="domain-specific-materiality-livelihood"></a>**Geçim kaynakları ve ekonomik koşullar.** *Başkaları gelir için ya da ihtiyaç duydukları şeylerin fiyat ve koşulları için gruba bağımlı mı?*
-  - **Maddi olduğu durum:** Grup başkalarının gelirinin önemli bir kaynağıdır (işveren, ödeme yapan, alıcı veya platform olarak); gerekli ve kolayca ikame edilemeyen şeylerin fiyatını/koşullarını belirler; ya da [Bölüm Bir §11 Piyasa Yapısı](core_01_a_values_principles.md#11-market-structure) uyarınca piyasa gücüne sahiptir.
+  - **Maddi olduğu durum:** Grup başkalarının gelirinin önemli bir kaynağıdır (işveren, ödeme yapan, alıcı veya platform olarak); gerekli ve kolayca ikame edilemeyen şeylerin fiyatını/koşullarını belirler; ya da [Bölüm Bir §11 Piyasa Yapısı](core_01_a_values_principles.md#11-piyasa-yapısı) uyarınca piyasa gücüne sahiptir.
   - **Maddi olmadığı durum:** Ayrılabilecek kişiler arasındaki ara sıra alışveriş ve grubun piyasa koşullarını belirleyemediği olağan ticaret.
   - **Sahip hükümler:** **Article III-C** (*Emek ve Ekonomik Taban*) ve **Article V** (*Kaynak Tahsisi, Bağımlılıklar ve Ekosistem Finansmanı*).
 - <a id="domain-specific-materiality-custody"></a>**Muhafaza.** *Grup, güvende tutması için kendisine güvenen başkaları açısından önemli şeyleri elinde tutuyor mu?*
-  - **Maddi olduğu durum:** Grup, üyelerin kendi çalışmaları için koyduklarının ötesinde başkalarının fonlarını, varlıklarını, kimlik bilgilerini, anahtarlarını veya kayıt/verilerini tutar ve bunların güvenli, doğru ya da erişilebilir kalması için başkaları gruba güvenir; ya da [Statü Kayıtlarını](../../core_05_band_accountability.md#standing-record-chapter-six) tutar veya forum, belgelendirme makamı ya da kayıt ofisi olarak görev yapar. Üye olmayanların kişisel veya hassas verileri de dahildir.
+  - **Maddi olduğu durum:** Grup, üyelerin kendi çalışmaları için koyduklarının ötesinde başkalarının fonlarını, varlıklarını, kimlik bilgilerini, anahtarlarını veya kayıt/verilerini tutar ve bunların güvenli, doğru ya da erişilebilir kalması için başkaları gruba güvenir; ya da [Statü Kayıtlarını](../../core_05.035_band_accountability.md#standing-record) tutar veya forum, belgelendirme makamı ya da kayıt ofisi olarak görev yapar. Üye olmayanların kişisel veya hassas verileri de dahildir.
   - **Maddi olmadığı durum:** Grubun kendi malzemelerine harcanan üye ortak kasası ve üyelerin bildiği, grubun kendi duyuruları için tutulan iletişim listesi.
-  - **Sahip hükümler:** **Article II-E** (*Veri İşleme ve Ağ Bağımlılığı*), **Article IX** (*Benzerlik, Deneyimsel Veri ve Yayın Hakları*), **Article XVI** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*) ve [Bölüm On §3.7 Kayıtların Saklanması ve Açma Yetkisi](../../core_10_standing_assessment.md#37-record-custody-and-opening-authority).
+  - **Sahip hükümler:** **Article II-E** (*Veri İşleme ve Ağ Bağımlılığı*), **Article IX** (*Benzerlik, Deneyimsel Veri ve Yayın Hakları*), **Article XVI** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*) ve [Bölüm On §3.7 Kayıtların Saklanması ve Açma Yetkisi](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority).
 - <a id="domain-specific-materiality-information"></a>**Bilgi ve doğruluk.** *Başkaları güvenlik, para, sağlık, haklar veya statü hakkında karar verirken grubun söylediklerine doğruymuş gibi güvenir mi?*
-  - **Maddi olduğu durum:** Grup, kaynağı bilenlerin ötesine ulaşarak, başkalarının bu kararlar için doğru kabul edip güvenmesi öngörülebilir bir şeyi belirtir, yayımlar, derecelendirir veya onaylar; ya da başkalarının bilgiyi bulup değerlendirmek için kullandığı platform, dizin veya derecelendirme gibi [Info-Sphere](../../core_05_band_participation.md#info-sphere) altyapısını işletir.
+  - **Maddi olduğu durum:** Grup, kaynağı bilenlerin ötesine ulaşarak, başkalarının bu kararlar için doğru kabul edip güvenmesi öngörülebilir bir şeyi belirtir, yayımlar, derecelendirir veya onaylar; ya da başkalarının bilgiyi bulup değerlendirmek için kullandığı platform, dizin veya derecelendirme gibi [Info-Sphere](../../core_05.055_band_participation.md#info-sphere) altyapısını işletir.
   - **Maddi olmadığı durum:** Görüş, sanat, kişisel anlatılar ve bu şekilde sunulan yazışmalar; kaynağı bilenler arasındaki doğru paylaşım.
-  - **Sahip hükümler:** [Doğruluk (Anayasal Kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), **Article IX-C** (*Doğru Yayın ve Yüksek Etkili Yayın Sınırları*), **Article XIII-C** (*Sahte Güven ve Yanıltıcı Dayanmayı Yasaklama*) ve **Article XV** (*Info-Sphere Bütünlüğü*).
+  - **Sahip hükümler:** [Doğruluk (Anayasal Kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), **Article IX-C** (*Doğru Yayın ve Yüksek Etkili Yayın Sınırları*), **Article XIII-C** (*Sahte Güven ve Yanıltıcı Dayanmayı Yasaklama*) ve **Article XV** (*Info-Sphere Bütünlüğü*).
 <a id="domain-specific-materiality-dependence"></a>**Bağımlılık ve çıkış.** *Başkaları gruptan ayrılsa, grubu ikame etse ya da grup başarısız olsa gerçekten bir şey kaybeder mi?*
-  - **Maddi olduğu durum:** Başkaları gruba öyle bağımlı hâle gelmiştir ki grubu reddetmek, ikame etmek veya terk etmek onlara kayda değer bir kayıp (erişim, veri, gelir, topluluk veya kolayca geri kazanamayacakları zaman) doğurur; ya da grubun başarısızlığı veya çekilmesi başkalarına yayılır ([Bağımlılık](../../core_05_band_continuity.md#dependency), [Zincirleme Başarısızlık](../../core_05_band_continuity.md#cascading-failure)).
+  - **Maddi olduğu durum:** Başkaları gruba öyle bağımlı hâle gelmiştir ki grubu reddetmek, ikame etmek veya terk etmek onlara kayda değer bir kayıp (erişim, veri, gelir, topluluk veya kolayca geri kazanamayacakları zaman) doğurur; ya da grubun başarısızlığı veya çekilmesi başkalarına yayılır ([Bağımlılık](../../core_05.040_band_continuity.md#dependency), [Zincirleme Başarısızlık](../../core_05.040_band_continuity.md#cascading-failure)).
   - **Maddi olmadığı durum:** Başkalarının kayda değer kayıp yaşamadan bırakabileceği bağımlılık.
   - **Sahip hükümler:** **Article V-A** (*Bağımlılık Haritalama ve Kaynak Akışı Şeffaflığı*), **Article XXI** (*Birlikte Çalışabilirlik, Taşınabilirlik ve Çıkış Bütünlüğü*) ve **Article II-F** (*Süreklilik ve İşletmeci Kapatması*).
 - <a id="domain-specific-materiality-ecology"></a>**Ekoloji.** *Faaliyet bugün dursa ekosistem kendi kendine toparlanır mı? Tersinden, grup bir alanın toparlanmasına yardım ediyor mu?*
-  - **Maddi olduğu durum:** Faaliyet [Ekolojik Toparlanma Kapasitesini](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) zayıflatır. Aşağıdaki üç testten herhangi biri yeterlidir:
+  - **Maddi olduğu durum:** Faaliyet [Ekolojik Toparlanma Kapasitesini](../../core_05.040_band_continuity.md#ecological-recovery-capacity) zayıflatır. Aşağıdaki üç testten herhangi biri yeterlidir:
     - ekosistem, o ekosistem türü için belirlenen süre içinde önceki işlevine kendi başına dönemez;
     - en iyi mevcut kanıta göre biyolojik çeşitlilik, toprak, su, iklim istikrarı veya habitat bağlantısı ölçülebilir biçimde bir devrilme noktasına (bu eşiğin ötesinde ekosistem işlevini kendi başına geri kazanamaz) yaklaşır; veya
     - yenilenebilir bir stok, yenilenme hızından daha hızlı tüketilir.
   - **Her zaman kapsamda:** Toparlanma kapasitesinin geri döndürülemez kaybına giden inandırıcı nedensel yol, yukarıdaki testlerin sonucundan bağımsız olarak her ölçekte **Article I-D** (*Varoluşsal Risk ve Ekolojik Toparlanma Kapasitesi*) kapsamındadır.
-  - **Maddi olmadığı durum:** Ekosistemin yenileyebildiği sınırlar içindeki kullanım. Sistemin baskı altında olduğu biliniyor veya tür/habitat tehdit altındaysa bu istisna hariç, olağan hane ve topluluk faaliyetlerinin toparlanma sınırları içinde kalması beklenir. [Ekolojik Ayak İzi](../../core_05_band_continuity.md#ecological-footprint) bir açıklama ölçüsüdür; bu eşiği belirlemez.
+  - **Maddi olmadığı durum:** Ekosistemin yenileyebildiği sınırlar içindeki kullanım. Sistemin baskı altında olduğu biliniyor veya tür/habitat tehdit altındaysa bu istisna hariç, olağan hane ve topluluk faaliyetlerinin toparlanma sınırları içinde kalması beklenir. [Ekolojik Ayak İzi](../../core_05.040_band_continuity.md#ecological-footprint) bir açıklama ölçüsüdür; bu eşiği belirlemez.
   - **Bir alanın toparlanmasına yardım:** Yeniden dikim, habitat ya da dere onarımı, istilacı türlerin kaldırılması, toprağın yeniden kurulması veya temizlik gibi ekosistemi etkin biçimde onaran işler bozulma sayılmaz ve bu soru bakımından grubu maddi hâle getirmez. Ekosistemin taşıyabileceği sınırlar içinde yapılırsa olağan topluluk faaliyetidir. Yalnızca şu hâllerde maddidir:
     - onarımın kendisi yukarıdaki üç testten birini karşılar (örneğin getirilen türün yayılması veya su akışındaki değişikliğin aşağı havzaya zarar vermesi); veya
     - başka bir alandaki eşiği aşar (örneğin başkalarının bağlı olduğu arazi veya fonları tutmak ya da başkalarının dayandığı toparlanma iddialarını yayımlamak).
-  - **Katkı olarak toparlanma işi:** Bu iş [Bölüm On §4.3 Katkı Yolu Tanımlayıcı Kataloğu ve Ölçüm Rolleri](../../core_10_standing_assessment.md#43-contribution-route-descriptor-measurement-roles) uyarınca Ekolojik Emanet olarak tanınır; her üye, herhangi bir Sistem Tüzüğü veya Kurum Tüzüğü olmadan bireysel talep sahibi olarak bu kaydı isteyebilir ([Bölüm On §3.7 Kayıt Saklama ve Açma Yetkisi](../../core_10_standing_assessment.md#37-record-custody-and-opening-authority)).
+  - **Katkı olarak toparlanma işi:** Bu iş [Bölüm On §4.3 Katkı Yolu Tanımlayıcı Kataloğu ve Ölçüm Rolleri](../../core_10.000_standing_assessment.md#43-contribution-route-descriptor-catalog-and-measurement-roles) uyarınca Ekolojik Emanet olarak tanınır; her üye, herhangi bir Sistem Tüzüğü veya Kurum Tüzüğü olmadan bireysel talep sahibi olarak bu kaydı isteyebilir ([Bölüm On §3.7 Kayıt Saklama ve Açma Yetkisi](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)).
   - **Sahip hükümler:** **Article I-A** (*Çevresel Önkoşullar ve Ekolojik Bütünlük*) ve **Article I-D** (*Varoluşsal Risk ve Ekolojik Toparlanma Kapasitesi*).
 - <a id="domain-specific-materiality-systemic"></a>**Sistemik ve geri döndürülemez etkiler.** *Faaliyet tek başına veya başkalarıyla birlikte gücü yoğunlaştırabilir, ortak bir işlevi ele geçirebilir, başarısızlığı yayabilir ya da geri alınamayacak bir durumu kilitleyebilir mi?*
-  - **Maddi olduğu durum:** Grubun faaliyeti tek başına, ortak denetim altındaki başka gruplarla veya aynı paylaşılan sistemde gücü yoğunlaştırabilir ya da ortak bir işlevi ele geçirebilir, sistemler arasında başarısızlığı yayabilir veya uygulamada geri döndürülemeyen bir durumu kilitleyebilir; ya da [Varoluşsal Risk](../../core_05_band_continuity.md#existential-risk) için inandırıcı nedensel yol yaratır.
+  - **Maddi olduğu durum:** Grubun faaliyeti tek başına, ortak denetim altındaki başka gruplarla veya aynı paylaşılan sistemde gücü yoğunlaştırabilir ya da ortak bir işlevi ele geçirebilir, sistemler arasında başarısızlığı yayabilir veya uygulamada geri döndürülemeyen bir durumu kilitleyebilir; ya da [Varoluşsal Risk](../../core_05.040_band_continuity.md#existential-risk) için inandırıcı nedensel yol yaratır.
   - **Maddi olmadığı durum:** Yerel, sınırlı ve geri döndürülebilir kalan etkiler.
-  - **Sahip hükümler:** [Sistemik Maddilik](../../core_05_band_continuity.md#systemic-materiality), **Article XII-D** (*Ele Geçirmeyi Önleme Güvenceleri*), **Article XVII** (*Sistem Yaşam Döngüsü, Ortamlar ve Geri Döndürülebilirlik*) ve **Article I-D** (*Varoluşsal Risk ve Ekolojik Toparlanma Kapasitesi*).
+  - **Sahip hükümler:** [Sistemik Maddilik](../../core_05.040_band_continuity.md#systemic-materiality), **Article XII-D** (*Ele Geçirmeyi Önleme Güvenceleri*), **Article XVII** (*Sistem Yaşam Döngüsü, Ortamlar ve Geri Döndürülebilirlik*) ve **Article I-D** (*Varoluşsal Risk ve Ekolojik Toparlanma Kapasitesi*).
 
 <a id="domain-specific-materiality-a"></a>Yazılı değerlendirme dokuz alanın yanıt ve gerekçelerini, birleştirmeyi, kırılganlığı ve geri döndürülemez zararı kaydeder. Hiçbir eşik açıkça aşılmıyorsa gerekçeli kısa bir beyan yeterlidir ve itiraza açıktır.
 - <a id="domain-specific-materiality-c"></a>**Lisans gerekmez:** Eşiğin aşılması ilgili yükümlülükleri başlatır; grubu kurmaya veya işletmeye izin vermez ya da bunu engellemez. Eşiğin altında da Güvenlik, Doğruluk, Haklar Tabanı ve çevresel korumalar dâhil tüm Anayasal Kısıtlar eksiksiz geçerlidir.
@@ -351,9 +351,9 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [maddi pay](core_00_preamble.md#material-stake) scaling proxy; Birinci Bölüm surfaces this definition across **Safety** (**Birinci Bölüm §8.1**), **Truth** (**Birinci Bölüm §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, ve **Birinci Bölüm §6.3.2** where **Materiality** appears in D/A/C widgets — see [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
+- Aşağı: Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)) (*Materiality as constitutional measurement*); Principles: [maddi pay](core_00_preamble.md#material-stake) scaling proxy; Birinci Bölüm surfaces this definition across **Safety** (**Birinci Bölüm §8.1**), **Truth** (**Birinci Bölüm §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, ve **Birinci Bölüm §6.3.2** where **Materiality** appears in D/A/C widgets — see [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - Küme bileşeni: [*Maddi etki, maddilik belirlemesi, sınıflamaya ölçeklenmiş yönetişim, gözetim ve yetkinlik gereksinimi*](core_05_band_oversight.md#materiality-semi-independent).
-- Birlikte oku: [Maddi etki](core_05_band_oversight.md#material-impact), [Maddi risk](core_05_band_oversight.md#material-risk), [Sistemik maddilik](core_05_band_continuity.md#systemic-materiality), ve [Denetlenebilirlik](core_05_band_oversight.md#auditability).
+- Birlikte oku: [Maddi etki](core_05_band_oversight.md#maddi-impact), [Maddi risk](core_05_band_oversight.md#maddi-risk), [Sistemik maddilik](core_05_band_continuity.md#systemic-materiality), ve [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik).
 
 </details>
 
@@ -362,19 +362,19 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 *Yalın dille: bir etki ya da riskin anayasal olarak maddi olup olmadığına — hangi ödevlerin uygulanacağını değiştirecek kadar payda büyük — bir sistem ya da olay için, yalıtılmış parçalara değil bağlı bütüne bakarak karar verme yöntemi. Bu, yalnızca olmuş zararı değil, olası zararı da kapsar.*
 
 - **Nedir**
-  - **Kapsamda:** Şunun olup olmadığını soran sınıflama kararları [Maddi etki](core_05_band_oversight.md#material-impact) or [Maddi risk](core_05_band_oversight.md#material-risk) is constitutionally material for:
+  - **Kapsamda:** Şunun olup olmadığını soran sınıflama kararları [Maddi etki](core_05_band_oversight.md#maddi-impact) or [Maddi risk](core_05_band_oversight.md#maddi-risk) is constitutionally material for:
     - a system (including [Sistemik maddilik](core_05_band_continuity.md#systemic-materiality)); or
-    - an event, incident, or episode (including prospective [Zarar](core_05_band_accountability.md#harm) under [Maddi risk](core_05_band_oversight.md#material-risk)),
+    - an event, incident, or episode (including prospective [Zarar](core_05_band_accountability.md#harm) under [Maddi risk](core_05_band_oversight.md#maddi-risk)),
     yalıtılmış parçalar yerine bağlı bütüne baktığınızda.
   - **Kapsam dışında:**
-    - [Maddi](core_05_band_oversight.md#material) threshold trivia, cosmetics, or mere paperwork significance with no stake-scaled duty change; or
-    - ordinary classification disagreement that still evaluates the connected whole under [Maddi etki](core_05_band_oversight.md#material-impact) and [Maddi risk](core_05_band_oversight.md#material-risk) —
+    - [Maddi](core_05_band_oversight.md#maddi) threshold trivia, cosmetics, or mere paperwork significance with no stake-scaled duty change; or
+    - ordinary classification disagreement that still evaluates the connected whole under [Maddi etki](core_05_band_oversight.md#maddi-impact) and [Maddi risk](core_05_band_oversight.md#maddi-risk) —
     bunlar kendi evlerinin altında durur ya da yerine geçen bir belirleme değil, sıradan anlaşmazlık olarak kalır.
 <a id="materiality-determination-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** Şunun altında [maddi pay](core_00_preamble.md#material-stake), bağlı bütüne baktığınızda hangi ödevlerin uygulanacağını değiştirecek kadar büyük olup olmadığını sorun — söz konusu sistem ya da olay için — şunları kapsayarak:
-    - [Maddi etki](core_05_band_oversight.md#material-impact);
-    - [Maddi risk](core_05_band_oversight.md#material-risk) (including prospective [Zarar](core_05_band_accountability.md#harm)); and
+    - [Maddi etki](core_05_band_oversight.md#maddi-impact);
+    - [Maddi risk](core_05_band_oversight.md#maddi-risk) (including prospective [Zarar](core_05_band_accountability.md#harm)); and
     - [Sistemik maddilik](core_05_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
 
     **Birincil değerlendirme:** Dava için önemli her türlü etkiyi dahil edin, şunları kapsayarak:
@@ -394,16 +394,16 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - birleştirme;
     - bağımlılık; ve
     - bir olay için, etkilenen algılayana ya da olayın bozduğuna bağlı diğer algılayanlar ya da sistemler üzerindeki aşağı etkiler.
-  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#proxy-divergence) and [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#materiality-integrity-constraint) — where boundary games, aggregation avoidance, or proxy metrics defeat honest materiality analysis.
+  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#vekil-sapması) and [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#maddiity-integrity-constraint) — where boundary games, aggregation avoidance, or proxy metrics defeat honest materiality analysis.
 
     **Üçüncül değerlendirme:** İşleçler şuna dayandığında:
     - sınırlar;
     - vekiller; ya da
     - informal düşük sınıf,
-    apply [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#materiality-integrity-constraint) and [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — separate real materiality analysis from structural manipulation or score gaming.
+    apply [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#maddiity-integrity-constraint) and [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — separate real materiality analysis from structural manipulation or score gaming.
 <a id="materiality-determination-c"></a>
 - **Neyin geçerli kalması gerekir**
-  - Bir Maddilik belirlemesi ancak sınıflama yazıya dökülmüşse geçerlidir, [Denetlenebilirlik](core_05_band_oversight.md#auditability), ve anayasal olarak gerçekten önemli etkilere bağlanmışsa.
+  - Bir Maddilik belirlemesi ancak sınıflama yazıya dökülmüşse geçerlidir, [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), ve anayasal olarak gerçekten önemli etkilere bağlanmışsa.
   - **Birincil başarısızlık:**
     - hangi anayasal ödevlerin uygulanacağını gerçekten değiştirmeyen yalnızca-kâğıt ya da maddi olmayan etiketler — söz konusu sistem ya da olay için yönetişim, gözetim, yetenek gerekleri ya da diğer paya ölçeklenmiş ödevler;
     - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [Esenlik](core_05_band_continuity.md#wellbeing); or
@@ -412,7 +412,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - onları bölmek;
     - birleştirmeden kaçınmak; ya da
     - bağımlılığı yok saymak.
-  - **Üçüncül başarısızlık:** determinations that rest on manipulated boundaries or "the metric looks fine" where [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#materiality-integrity-constraint) or [Vekil sapması](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **Üçüncül başarısızlık:** determinations that rest on manipulated boundaries or "the metric looks fine" where [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#maddiity-integrity-constraint) or [Vekil sapması](core_05_band_oversight.md#vekil-sapması) is reasonably observable.
 
 ---
 
@@ -426,8 +426,8 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Anayasal çerçeve: [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad) — gözetim, hesap verebilirlik ve zamanlılık; [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims); [maddi menfaat](../../core_00_preamble.md#material-stake) ölçüsünde ölçeklenir.
-- İlgili hükümler: [Alana özgü önemlilik](core_05_band_oversight.md#alanlara-özgü-maddilik), [Chartered Party](../../core_05_band_continuity.md#chartered-party) ve **CS-3** (*Sistem sınıflandırma mekanizması*).
+- Anayasal çerçeve: [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — gözetim, hesap verebilirlik ve zamanlılık; [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims); [maddi menfaat](../../core_00.000_preamble.md#material-stake) ölçüsünde ölçeklenir.
+- İlgili hükümler: [Alana özgü önemlilik](core_05_band_oversight.md#alanlara-özgü-maddilik), [Chartered Party](../../core_05.040_band_continuity.md#chartered-party) ve **CS-3** (*Sistem sınıflandırma mekanizması*).
 - Ayrım: Dokuz sorunun yöneltildiği kişi veya yapı Faaliyet Tarafıdır. Bir sistem, kurum veya daha küçük bir grup olabilir. Chartered Party daha dar bir kategoridir. Bu adlandırma tek başına yükümlülük ya da izin doğurmaz.
 
 </details>
@@ -437,12 +437,12 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 *Basitçe: Faaliyet Tarafı, faaliyeti gerçekten yürüten kişidir: tek bir sentient, birlikte hareket eden bir grup, sistem veya kurum. Alana özgü önemliliğin dokuz sorusu ona yöneltilir. Faaliyeti alanlardan birinde önemliyse en az Class L olur ve System Charter veya Institutional Charter yayımlar; değilse Class P kalır. Adlandırma yeni yükümlülük veya engel getirmez.*
 
 - **Nedir**
-  - **Kapsamda:** Kendi adına eylemde bulunan veya faaliyeti düzenleyen kişi, grup, [System](../../core_05_band_continuity.md#system) ya da [Institution](../../core_05_band_continuity.md#institution). Alana özgü önemlilik bağlantılı Faaliyet Taraflarını tek bir operasyon sayabilir.
+  - **Kapsamda:** Kendi adına eylemde bulunan veya faaliyeti düzenleyen kişi, grup, [System](../../core_05.040_band_continuity.md#system) ya da [Institution](../../core_05.040_band_continuity.md#institution). Alana özgü önemlilik bağlantılı Faaliyet Taraflarını tek bir operasyon sayabilir.
   - **Kapsam dışı:** Grup içinde tek başına hareket eden üye; değerlendirilen eylem veya faaliyet; bir görev/koltuk ve onu tutan kişi; lisans veya kapı.
 <a id="operating-party-a"></a>
 - **Ölçme ve değerlendirme**
   - **Birincil değerlendirme:** Ad, büyüklük veya hukuki biçim yerine fiilen kimin yaptığını, karar verdiğini, elinde tuttuğunu ve etkilediğini belirle. Aynı güç merkezinden yönetilen tarafları tek operasyon say; ad veya biçim değişse de yükümlülükleri sürdür.
-  - **İkincil değerlendirme:** Gerçek yönlendirmeyi belirlemek için [Governance](../../core_05_band_accountability.md#governance) ve [Material Control Line](../../core_05_band_accountability.md#material-control-line) ölçütlerini kullan.
+  - **İkincil değerlendirme:** Gerçek yönlendirmeyi belirlemek için [Governance](../../core_05.035_band_accountability.md#governance) ve [Material Control Line](../../core_05.035_band_accountability.md#material-control-line) ölçütlerini kullan.
 <a id="operating-party-c"></a>
 - **Korunması gerekenler**
   - Yeniden adlandırma, bölünme, birleşme, halefiyet veya hukuki biçim değişikliği yükümlülüklerin faaliyetle birlikte sürmesini engellemez.
@@ -455,8 +455,8 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: Principles: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
-- Birlikte oku: [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Sistem sınırları](core_05_band_continuity.md#system-boundaries), [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Denetlenebilirlik](core_05_band_oversight.md#auditability), ve [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability).
+- Aşağı: Principles: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- Birlikte oku: [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Sistem sınırları](core_05_band_continuity.md#system-boundaries), [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), ve [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -469,19 +469,19 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
   - **Kapsam dışında:** Maddilik üzerine sıradan anlaşmazlık, ya da bölme, birleştirme oyunları ya da yeniden sınıflama yoluyla topluca maddi etkileri küçültmeyen dürüst sınır açıklaması.
 <a id="materiality-integrity-constraint-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
-  - **Birincil ölçü:** [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) — ask whether anyone is making a material problem look smaller by redrawing boxes, splitting pieces, or reclassifying around it.
+  - **Birincil ölçü:** [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) — ask whether anyone is making a material problem look smaller by redrawing boxes, splitting pieces, or reclassifying around it.
 
-    **Birincil değerlendirme:** Dürüst olanı bozacak yapısal hamleleri arayın [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), şunlar dahil:
+    **Birincil değerlendirme:** Dürüst olanı bozacak yapısal hamleleri arayın [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), şunlar dahil:
     - bölme;
     - birleştirmeden kaçınma; ve
     - sınır oyunları.
-  - **İkincil ölçü:** [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Denetlenebilirlik](core_05_band_oversight.md#auditability), ve [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — co-measures that defeat manipulation or proxy gaming of materiality.
+  - **İkincil ölçü:** [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), ve [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — co-measures that defeat manipulation or proxy gaming of materiality.
 
-    **İkincil değerlendirme:** Birincil yanıtı denetlerken, include [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Denetlenebilirlik](core_05_band_oversight.md#auditability), ve [Vekil sapması](core_05_band_oversight.md#proxy-divergence) paths that would hide collectively material effects.
+    **İkincil değerlendirme:** Birincil yanıtı denetlerken, include [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), ve [Vekil sapması](core_05_band_oversight.md#vekil-sapması) paths that would hide collectively material effects.
 <a id="materiality-integrity-constraint-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:** yapısal manipülasyon yoluyla topluca maddi etkileri maddi değil saymak.
-  - **İkincil başarısızlık:** boundary or aggregation games that defeat [Denetlenebilirlik](core_05_band_oversight.md#auditability), or relying on "the metric looks fine" where [Vekil sapması](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **İkincil başarısızlık:** boundary or aggregation games that defeat [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), or relying on "the metric looks fine" where [Vekil sapması](core_05_band_oversight.md#vekil-sapması) is reasonably observable.
 
 ---
 
@@ -492,9 +492,9 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [maddi pay](core_00_preamble.md#material-stake) scaling proxy; [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
+- Aşağı: Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)) (*Materiality as constitutional measurement*); Principles: [maddi pay](core_00_preamble.md#material-stake) scaling proxy; [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
 - Küme bileşeni: [*Maddi etki, maddilik belirlemesi, sınıflamaya ölçeklenmiş yönetişim, gözetim ve yetkinlik gereksinimi*](core_05_band_oversight.md#materiality-semi-independent).
-- Birlikte oku: [Zarar](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Bağımlılık](core_05_band_continuity.md#dependency), [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#classification-scaled-governance), [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional), ve [Şeffaflık](core_05_band_oversight.md#transparency).
+- Birlikte oku: [Zarar](core_05_band_accountability.md#harm), [Risk](core_05_band_continuity.md#risk), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Bağımlılık](core_05_band_continuity.md#dependency), [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim), [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional), ve [Şeffaflık](core_05_band_oversight.md#şeffaflık).
 
 </details>
 
@@ -509,11 +509,11 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - ne kadar ağır oldukları.
   - **Kapsam dışında:**
     - erişim, büyüklük ya da ağırlık payı olmadan salt dikkat, görünürlük ya da evrak önemi; ya da
-    - prospective [Maddi risk](core_05_band_oversight.md#material-risk) analysis —
+    - prospective [Maddi risk](core_05_band_oversight.md#maddi-risk) analysis —
     o kendi evinin altında durur.
 <a id="material-impact-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
-  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) — scope-and-severity input for materiality classification.
+  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)) — scope-and-severity input for materiality classification.
 
     **Birincil değerlendirme:** Trace how far, how large, ve how severe the effects are for the whole system — including:
     - doğrudan etkiler;
@@ -528,7 +528,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
     - gerçek erişim, büyüklük ya da ağırlık çözümlemesi yerine kullanılan olası-risk söylemi; ya da
-    - material impacts that do not trigger the right constraints under [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#classification-scaled-governance), [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional), ve [Şeffaflık](core_05_band_oversight.md#transparency).
+    - material impacts that do not trigger the right constraints under [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim), [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional), ve [Şeffaflık](core_05_band_oversight.md#şeffaflık).
   - **İkincil başarısızlık:** ortak çözümleme onları maddi sınıflayacakken parçalı ya da bağımlılık-gizli etkilerin maddi değil etiketlenmesi.
 
 ---
@@ -540,8 +540,8 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
-- Birlikte oku: [Zarar](core_05_band_accountability.md#harm), [Geri döndürülemez zarar](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), ve [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#classification-scaled-governance).
+- Aşağı: Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)) (*Materiality as constitutional measurement*); Principles: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- Birlikte oku: [Zarar](core_05_band_accountability.md#harm), [Geri döndürülemez zarar](core_05_band_accountability.md#irreversible-harm), [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), ve [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim).
 
 </details>
 
@@ -557,10 +557,10 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
   - **Kapsam dışında:**
     - inandırıcı bir zarar yolu olmadan spekülatif kaygı; ya da
     - realized [Zarar](core_05_band_accountability.md#harm) already in hand —
-    that sits under Harm / [Maddi etki](core_05_band_oversight.md#material-impact), not prospective risk alone.
+    that sits under Harm / [Maddi etki](core_05_band_oversight.md#maddi-impact), not prospective risk alone.
 <a id="material-risk-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
-  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) — likelihood-and-irreversibility input for material risk classification.
+  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)) — likelihood-and-irreversibility input for material risk classification.
 
     **Birincil değerlendirme:** Bütün sisteme bakarak şunları dahil edin:
     - beklenen sonuçlar;
@@ -574,7 +574,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
     - yalnızca gelecekteki risk diye etiketlenmiş gerçekleşmiş zarar; ya da
-    - material risk not addressed and constrained under [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), ve [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#classification-scaled-governance).
+    - material risk not addressed and constrained under [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), ve [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim).
   - **İkincil başarısızlık:** tail or irreversible pathways excluded when [Geri döndürülemez zarar](core_05_band_accountability.md#irreversible-harm) remains plausible.
 
 ---
@@ -586,8 +586,8 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
-- Birlikte oku: [Maddi etki](core_05_band_oversight.md#material-impact), [Maddi risk](core_05_band_oversight.md#material-risk), [Geri döndürülemez zarar](core_05_band_accountability.md#irreversible-harm), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), ve [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#classification-scaled-governance).
+- Aşağı: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- Birlikte oku: [Maddi etki](core_05_band_oversight.md#maddi-impact), [Maddi risk](core_05_band_oversight.md#maddi-risk), [Geri döndürülemez zarar](core_05_band_accountability.md#irreversible-harm), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), ve [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim).
 
 </details>
 
@@ -596,25 +596,25 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 *Yalın dille: bir şeyin maddi olup olmadığından emin değilseniz, daha güvenli (daha yüksek) sınıflamaya öntanımlayın — kesinliği beklemeyin ya da düşük etiket ummayın.*
 
 - **Nedir**
-  - **Kapsamda:** What to do by default when [Maddi etki](core_05_band_oversight.md#material-impact) or [Maddi risk](core_05_band_oversight.md#material-risk) is uncertain.
+  - **Kapsamda:** What to do by default when [Maddi etki](core_05_band_oversight.md#maddi-impact) or [Maddi risk](core_05_band_oversight.md#maddi-risk) is uncertain.
   - **Kapsam dışında:**
     - maddi belirsizlik kalmadan maddiliğin zaten karara bağlandığı durumlar; ya da
-    - ordinary [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) once uncertainty is not material —
+    - ordinary [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) once uncertainty is not material —
     bunlar bu ihtiyatlı öntanımlının değil, yerleşmiş sınıflamanın altında durur.
 <a id="materiality-under-uncertainty-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
-  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) — precautionary default when materiality cannot be excluded.
+  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)) — precautionary default when materiality cannot be excluded.
 
     **Birincil değerlendirme:** Default to precaution when you cannot rule materiality out — including when [Geri döndürülemez zarar](core_05_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
-  - **İkincil ölçü:** [Maddi etki](core_05_band_oversight.md#material-impact), [Maddi risk](core_05_band_oversight.md#material-risk), [Geri döndürülemez zarar](core_05_band_accountability.md#irreversible-harm), ve [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
+  - **İkincil ölçü:** [Maddi etki](core_05_band_oversight.md#maddi-impact), [Maddi risk](core_05_band_oversight.md#maddi-risk), [Geri döndürülemez zarar](core_05_band_accountability.md#irreversible-harm), ve [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
 
-    **İkincil değerlendirme:** Birincil yanıtı denetlerken, include [Maddi etki](core_05_band_oversight.md#material-impact), [Maddi risk](core_05_band_oversight.md#material-risk), ve [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
+    **İkincil değerlendirme:** Birincil yanıtı denetlerken, include [Maddi etki](core_05_band_oversight.md#maddi-impact), [Maddi risk](core_05_band_oversight.md#maddi-risk), ve [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
 <a id="materiality-under-uncertainty-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
     - maddi etki ya da risk belirsizken sınıflamadan önce kesinliği beklemek;
     - maddi etki ya da risk belirsizken iyimser düşük sınıflama; ya da
-    - failure to default to conservative classification under uncertainty where [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#classification-scaled-governance) requires it.
+    - failure to default to conservative classification under uncertainty where [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim) requires it.
   - **İkincil başarısızlık:** optimism or informal low classification where [Geri döndürülemez zarar](core_05_band_accountability.md#irreversible-harm) or [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) requires precaution.
 
 ---
@@ -626,9 +626,9 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), ve [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Aşağı: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), ve [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Küme bileşeni: [*Maddi etki, maddilik belirlemesi, sınıflamaya ölçeklenmiş yönetişim, gözetim ve yetkinlik gereksinimi*](core_05_band_oversight.md#materiality-semi-independent).
-- Birlikte oku: [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#materiality-integrity-constraint), [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity), [Teşvik hizalaması](core_05_band_integrative.md#incentive-alignment), [Denetlenebilirlik](core_05_band_oversight.md#auditability), ve [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint).
+- Birlikte oku: [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#maddiity-integrity-constraint), [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity), [Teşvik hizalaması](core_05_band_integrative.md#teşvik-hizalaması), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), ve [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt).
 
 </details>
 
@@ -663,7 +663,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - uyum tiyatrosu; ve
     - anlatı ikamesi.
     Bir ölçüt, gözlemlenmiş maddi sonuçlara izlenemediğinde, ya da teşvikler onu öngörülebilir biçimde o sonuçlardan uzaklaştırdığında güvenilir değildir.
-  - **İkincil ölçü:** [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#materiality-integrity-constraint), ve [Denetlenebilirlik](core_05_band_oversight.md#auditability) — co-measures that can defeat proxy integrity even when reported indicators look stable.
+  - **İkincil ölçü:** [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Maddilik bütünlüğü kısıtı](core_05_band_oversight.md#maddiity-integrity-constraint), ve [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) — co-measures that can defeat proxy integrity even when reported indicators look stable.
 
     **İkincil değerlendirme:** Birincil yanıtı denetlerken, look for:
     - seçim etkileri;
@@ -673,7 +673,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - oyunlama teşvikleri;
     - karşıt uyarlanma; ve
     - elverişli yerel göstergelerin gizlediği toplu zararlar —
-    together with [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) and [Denetlenebilirlik](core_05_band_oversight.md#auditability).
+    together with [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) and [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik).
   - **Üçüncül ölçü:** [Esenlik](core_05_band_continuity.md#wellbeing), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), ve Hak Tabanı outcomes — where proxies stand in for what sentients actually experience.
 
     **Üçüncül değerlendirme:** Where proxies stand in for outcome measures, trace to [Esenlik](core_05_band_continuity.md#wellbeing), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), or Hak Tabanı delivery — separate durable constitutional outcomes from proxy throughput.
@@ -697,8 +697,8 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Aşağı: Principles: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§3 Pazarlığa kapalı ilke kısıtları: Güvenlik ve Doğruluk](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
-- Birlikte oku: [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), ve [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency).
+- Aşağı: Principles: [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§3 Pazarlığa kapalı ilke kısıtları: Güvenlik ve Doğruluk](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
+- Birlikte oku: [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), ve [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency).
 
 </details>
 
@@ -709,21 +709,21 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 - **Nedir**
   - **Kapsamda:** Korunan bir anayasal koşulun ne kadar iyi tutulduğunda önemsiz-olmayan bir düşüş, şunları kapsayarak:
     - [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint);
-    - [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity); or
+    - [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük); or
     - [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency).
   - **Kapsam dışında:** Güvenliği, epistemik bütünlüğü ya da anlamlı failliği anlamlı biçimde azaltmayan işletme ölçütleri ya da sistem çıktısındaki önemsiz düşüşler, planlı bakım ya da geçici kıpırtılar.
 <a id="material-degradation-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
-  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination)) — degradation signal for materiality classification.
+  - **Birincil ölçü:** Integrative Materiality ([Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination)) — degradation signal for materiality classification.
 
     **Birincil değerlendirme:** Include scaling and system-wide effects under [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality) and [Risk](core_05_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
-  - **İkincil ölçü:** [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Risk](core_05_band_continuity.md#risk), ve [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — co-measures that can defeat degradation assessment when proxies hide decline.
+  - **İkincil ölçü:** [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Sistemik maddilik](core_05_band_accountability.md#systemic-materiality), [Risk](core_05_band_continuity.md#risk), ve [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — co-measures that can defeat degradation assessment when proxies hide decline.
 
-    **İkincil değerlendirme:** Birincil yanıtı denetlerken, apply [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) and [Vekil sapması](core_05_band_oversight.md#proxy-divergence) where metrics hide material degradation.
+    **İkincil değerlendirme:** Birincil yanıtı denetlerken, apply [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) and [Vekil sapması](core_05_band_oversight.md#vekil-sapması) where metrics hide material degradation.
 <a id="material-degradation-c"></a>
 - **Neyin geçerli kalması gerekir**
-  - **Birincil başarısızlık:** material degradation not treated as material under [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination).
-  - **İkincil başarısızlık:** keeping proxy indicators looking stable while [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), or [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency) materially degrades.
+  - **Birincil başarısızlık:** material degradation not treated as material under [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination).
+  - **İkincil başarısızlık:** keeping proxy indicators looking stable while [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), or [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency) materially degrades.
 
 ---
 
@@ -741,9 +741,9 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Anayasal çerçeve: **Oversight** leg; **Flourishing** aim (primary); scales with [maddi pay](core_00_preamble.md#material-stake) via [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination).
-- Birinci Bölüm dayanağı: Birinci Bölüm §8.2, §4, §12.1, §12.2 (see [Beşinci Bölüm pusulası](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
-- Birlikte oku: Apply [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Usul adilliği](core_05_band_participation.md#procedural-fairness-constitutional), [Korumalı bildirim (İhbar)](core_05_band_accountability.md#protected-reporting-whistleblowing), [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), ve Chapters Two through Four mechanics where materially implicated.
+- Anayasal çerçeve: **Oversight** leg; **Flourishing** aim (primary); scales with [maddi pay](core_00_preamble.md#material-stake) via [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination).
+- Birinci Bölüm dayanağı: Birinci Bölüm §8.2, §4, §12.1, §12.2 (see [Beşinci Bölüm pusulası](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası) map).
+- Birlikte oku: Apply [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Usul adilliği](core_05_band_participation.md#procedural-fairness-constitutional), [Korumalı bildirim (İhbar)](core_05_band_accountability.md#protected-reporting-whistleblowing), [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), ve Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -763,7 +763,7 @@ O kapsamın dışında, tek tek girdiler bütün kümeyi içe aktarmadan kendi b
 
 Kabul kapsamı karşılandığında, bu küme açıklama, denetim, doğrulama (dışarıdan saptanabilirlik dahil) ve güvence derinliği için ortak evdir — İkinci Bölümden Dördüncü Bölüme bir sistemin ne yaptığının ve uyum iddialarının tutulup tutulmadığının izlenebilir, itiraz edilebilir kanıtını gerektirdiğinde.
 
-**Gözetim çerçevesi.** Şunun altında the [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, ve get audit access — owned here and at **Madde XVI** (*Audit, Transparency, ve Independent Verification*). [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Yedinci Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**Gözetim çerçevesi.** Şunun altında the [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, ve get audit access — owned here and at **Madde XVI** (*Audit, Transparency, ve Independent Verification*). [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Yedinci Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **Sistem sınıfı ve orantılılık.** Transparency, auditability, ve verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Sistem sınıflaması ve ele alma**, ve with material impact, dependency, ve risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), şunlar dahil:
 - daha derin güvence;
@@ -771,23 +771,23 @@ Kabul kapsamı karşılandığında, bu küme açıklama, denetim, doğrulama (d
 - daha güçlü bağımsız doğrulama; ve
 - daha geniş denetim kapsamı.
 
-**Okuma sırası.** Start with what must be disclosed ([Şeffaflık](core_05_band_oversight.md#transparency), [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Risk açıklaması](core_05_band_oversight.md#risk-disclosure)); then whether outsiders can reconstruct ([Denetlenebilirlik](core_05_band_oversight.md#auditability) and audit supports); then whether behavior is externally detectable and independently checkable ([Doğrulanabilirlik](core_05_band_oversight.md#verifiability)).
+**Okuma sırası.** Start with what must be disclosed ([Şeffaflık](core_05_band_oversight.md#şeffaflık), [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#kamusal-gözetim-taban-açıklaması), [Risk açıklaması](core_05_band_oversight.md#risk-açıklaması)); then whether outsiders can reconstruct ([Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) and audit supports); then whether behavior is externally detectable and independently checkable ([Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik)).
 
 **Küme üyeleri.** Bu küme şunları kapsar:
 
-- [Şeffaflık](core_05_band_oversight.md#transparency) — decision-relevant clarity about function, limits, ve risk;
-- [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure) — the required public disclosure floor for high-impact systems, including lawful substitutes;
-- [Risk açıklaması](core_05_band_oversight.md#risk-disclosure) — communicating evaluated systemic risk to those who need it;
-- [Denetlenebilirlik](core_05_band_oversight.md#auditability) — whether outsiders can reconstruct and check what a system did, across the material times, states, ve contexts that matter;
-- [Kanıt koruma](core_05_band_oversight.md#evidence-preservation) — identify, secure, ve keep materially relevant evidence reviewably available;
-- [Değerlendirme tamamlama kısıtı](core_05_band_oversight.md#evaluation-completeness-constraint) — cover plausible failure, misuse, interaction, ve adversarial pathways before claiming compliance; and
-- [Doğrulanabilirlik](core_05_band_oversight.md#verifiability) — externally detect and measure behavior and effects, ve independently validate what was observed under practical access, independence, proportionate burden, ve stressed-condition reliability.
+- [Şeffaflık](core_05_band_oversight.md#şeffaflık) — decision-relevant clarity about function, limits, ve risk;
+- [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#kamusal-gözetim-taban-açıklaması) — the required public disclosure floor for high-impact systems, including lawful substitutes;
+- [Risk açıklaması](core_05_band_oversight.md#risk-açıklaması) — communicating evaluated systemic risk to those who need it;
+- [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) — whether outsiders can reconstruct and check what a system did, across the material times, states, ve contexts that matter;
+- [Kanıt koruma](core_05_band_oversight.md#kanıt-koruma) — identify, secure, ve keep materially relevant evidence reviewably available;
+- [Değerlendirme tamamlama kısıtı](core_05_band_oversight.md#değerlendirme-tamamlama-kısıtı) — cover plausible failure, misuse, interaction, ve adversarial pathways before claiming compliance; and
+- [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik) — externally detect and measure behavior and effects, ve independently validate what was observed under practical access, independence, proportionate burden, ve stressed-condition reliability.
 
 **Dolanma yasağı.** Kabul kapsamında, konuyu ayrı açıklama, koruma, günlüğe kaydetme, ölçüt, denetim örneklemesi, doğrulama UX'i ya da bağımsızlık sorularına, bir kanalda kutuyu işaretleyip pratik yeniden kurmayı, itirazı ya da orantılı güvence derinliğini bozacak biçimde bölmeyin.
 
 Bkz. **Ortak çağrı ve karşılama**.
 
-*Ölçümler (aile yönlendirmesi):* Measured under the Oversight measurement family. Find the concrete measures on [Şeffaflık](core_05_band_oversight.md#transparency), [Denetlenebilirlik](core_05_band_oversight.md#auditability), ve [Doğrulanabilirlik](core_05_band_oversight.md#verifiability) below.
+*Ölçümler (aile yönlendirmesi):* Measured under the Oversight measurement family. Find the concrete measures on [Şeffaflık](core_05_band_oversight.md#şeffaflık), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), ve [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik) below.
 
 ---
 
@@ -800,7 +800,7 @@ Bkz. **Ortak çağrı ve karşılama**.
 
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Aşağı: Principles: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- Birlikte oku: [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Risk açıklaması](core_05_band_oversight.md#risk-disclosure), [Doğrulanabilirlik](core_05_band_oversight.md#verifiability), ve **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
+- Birlikte oku: [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#kamusal-gözetim-taban-açıklaması), [Risk açıklaması](core_05_band_oversight.md#risk-açıklaması), [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik), ve **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -809,8 +809,8 @@ Bkz. **Ortak çağrı ve karşılama**.
 *Yalın dille: telling affected sentients enough about how a system works, its limits, ve its risks that they can genuinely understand and question it — not burying them in noise.*
 
 - **Nedir**
-  - **Kapsamda:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, ve what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
-    - Maddi bir sistem, kurum, forum süreci ya da benzer yönetilen alan yasal olarak çevrimiçi yayımlayabiliyorsa, taban şeffaflık açıklaması sınıfının gerektirdiği erişim düzeyinde kamuya ücretsiz olmalıdır — not behind a paywall or available only to insiders — wherever [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure) applies.
+  - **Kapsamda:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, ve what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+    - Maddi bir sistem, kurum, forum süreci ya da benzer yönetilen alan yasal olarak çevrimiçi yayımlayabiliyorsa, taban şeffaflık açıklaması sınıfının gerektirdiği erişim düzeyinde kamuya ücretsiz olmalıdır — not behind a paywall or available only to insiders — wherever [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#kamusal-gözetim-taban-açıklaması) applies.
     - Ham maddeyi yayımlamak yasal korumaları bozacaksa, sahip yine de hesap verebilirliği ya da itiraz edilebilirliği oymadan, çevrimiçi makul biçimde mümkün en güçlü kamusal ikameyi yayımlamalıdır — [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) — for example:
       - birleştirme;
       - kimliksizleştirme;
@@ -818,36 +818,36 @@ Bkz. **Ortak çağrı ve karşılama**.
       - gecikmeli açıklama; ya da
       - nitelikli denetim erişimi.
   - **Kapsam dışında:**
-    - [Denetlenebilirlik](core_05_band_oversight.md#auditability) reconstruction channels alone;
-    - [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure) Type O floor mechanics as such; or
+    - [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) reconstruction channels alone;
+    - [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#kamusal-gözetim-taban-açıklaması) Type O floor mechanics as such; or
     - etkilenen taraflara karar-ilgili açıklama olmayan sıradan ticari pazarlama —
     bunlar kendi evlerinin ya da sıradan ticari konuşmanın altında durur.
 <a id="transparency-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: affected parties get decision-relevant clarity about function, limits, ve risk — not volume, noise, or insider-only access.
 
-    **Birincil değerlendirme:** Compare what is disclosed to [Maddi etki](core_05_band_oversight.md#material-impact) and [Bağımlılık](core_05_band_continuity.md#dependency).
-  - **İkincil ölçü:** [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), [Maddi etki](core_05_band_oversight.md#material-impact), [Bağımlılık](core_05_band_continuity.md#dependency), [Denetlenebilirlik](core_05_band_oversight.md#auditability), ve [Doğrulanabilirlik](core_05_band_oversight.md#verifiability) — co-measures that can defeat transparency even when disclosure volume is high.
+    **Birincil değerlendirme:** Compare what is disclosed to [Maddi etki](core_05_band_oversight.md#maddi-impact) and [Bağımlılık](core_05_band_continuity.md#dependency).
+  - **İkincil ölçü:** [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), [Maddi etki](core_05_band_oversight.md#maddi-impact), [Bağımlılık](core_05_band_continuity.md#dependency), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), ve [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik) — co-measures that can defeat transparency even when disclosure volume is high.
 
     **İkincil değerlendirme:** Birincil yanıtı denetlerken:
     - karar-ilgili açıklığın yerine geçen hacim, belirsizlik ya da biçimlendirmeyi saptayın; ve
-    - apply safety- and security-justified limits consistent with [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity).
+    - apply safety- and security-justified limits consistent with [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük).
 
-    Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [Doğrulanabilirlik](core_05_band_oversight.md#verifiability) owns those check conditions, şunlar dahil:
+    Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik) owns those check conditions, şunlar dahil:
     - pratik erişim;
     - işleç öz-iddiasından bağımsızlık;
     - orantılı yük; ve
     - reliability under stress, misuse, ve adversarial pressure.
-  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — where volume, formatting, or procedural opacity stands in for decision-relevant clarity.
+  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — where volume, formatting, or procedural opacity stands in for decision-relevant clarity.
 
-    **Üçüncül değerlendirme:** Where operators lean on disclosure volume or formatting, apply [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — separate real transparency from burying sentients in volume.
+    **Üçüncül değerlendirme:** Where operators lean on disclosure volume or formatting, apply [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — separate real transparency from burying sentients in volume.
 <a id="transparency-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
     - etkilenen algılayanlar için işlev ve risk hakkında gerçek karar-ilgili açıklık olmadan veri dökümü, belge dağı, ödeme duvarı ya da yalnızca-içeriden erişim; ya da
     - material omissions or disclosures that foreseeably block informed participation or [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional) where required.
   - **İkincil başarısızlık:** safety- or security-framed limits that defeat materially required clarity without satisfying [Gereklilik](core_05_band_accountability.md#necessity) and [Orantılılık](core_05_band_accountability.md#proportionality).
-  - **Üçüncül başarısızlık:** disclosure volume or formatting treated as decisive where [Vekil sapması](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **Üçüncül başarısızlık:** disclosure volume or formatting treated as decisive where [Vekil sapması](core_05_band_oversight.md#vekil-sapması) is reasonably observable.
 
 ---
 
@@ -859,8 +859,8 @@ Bkz. **Ortak çağrı ve karşılama**.
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Aşağı: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Yedinci Bölüm §3.4](../../core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Yedinci Bölüm Part B §6](../../core_09_b_system_alignment_certification_record_process.md#6-system-certification-record) (*Certification record*); [Yedinci Bölüm Part B §6.2](../../core_09_b_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) (*Transparency, auditability, ve contestability*).
-- Birlikte oku: [Şeffaflık](core_05_band_oversight.md#transparency), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Risk açıklaması](core_05_band_oversight.md#risk-disclosure), [Kapsam belgesi](core_05_band_continuity.md#charter), [Sistem sınırları](core_05_band_continuity.md#system-boundaries), [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional), [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional), [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional), [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional), [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#classification-scaled-governance), ve **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
+- Aşağı: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Yedinci Bölüm §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Yedinci Bölüm Part B §6](../../core_09.010_system_alignment_certification_record_process.md#6-system-certification-record) (*Certification record*); [Yedinci Bölüm Part B §6.2](../../core_09.010_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) (*Transparency, auditability, ve contestability*).
+- Birlikte oku: [Şeffaflık](core_05_band_oversight.md#şeffaflık), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Risk açıklaması](core_05_band_oversight.md#risk-açıklaması), [Kapsam belgesi](core_05_band_continuity.md#charter), [Sistem sınırları](core_05_band_continuity.md#system-boundaries), [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional), [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional), [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional), [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional), [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#sınıflamaya-ölçeklenmiş-yönetişim), ve **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
 
@@ -883,7 +883,7 @@ Bkz. **Ortak çağrı ve karşılama**.
     - the [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional);
     - the [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional); and
     - the [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional) produced by [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
-  - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, ve stakeholder effects may be satisfied through those records, [Risk açıklaması](core_05_band_oversight.md#risk-disclosure) where systemic risk is in scope, ve other lawful **Type O** summaries or substitutes — not by omitting the topics.
+  - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, ve stakeholder effects may be satisfied through those records, [Risk açıklaması](core_05_band_oversight.md#risk-açıklaması) where systemic risk is in scope, ve other lawful **Type O** summaries or substitutes — not by omitting the topics.
   - **Yasal ikameler:** **Type G**, **Type E** ya da diğer kaynak kayıtları kamusal-olmayan, taban-olmayan ya da başka türlü kısıtlı kaldığında kapsamda kalın, şunlar dahil:
     - birleştirme;
     - kimliksizleştirme;
@@ -897,8 +897,8 @@ Bkz. **Ortak çağrı ve karşılama**.
     - Systems-layer typing, substitute mechanics, ve holding-back limits are owned by **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** as **Type O**.
   - **Kapsam dışında:**
     - ham **Type G**, **Type E** ya da diğer kısıtlı kaynak kayıtları — onlardan türetilmiş kamusal bir ikame yayımlamak o ham kayıtları bu açıklama tabanına getirmez;
-    - [Denetlenebilirlik](core_05_band_oversight.md#auditability) structured or qualified audit access as such — that is not itself the public floor; or
-    - [Risk açıklaması](core_05_band_oversight.md#risk-disclosure) of evaluated systemic risk to those who need it —
+    - [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) structured or qualified audit access as such — that is not itself the public floor; or
+    - [Risk açıklaması](core_05_band_oversight.md#risk-açıklaması) of evaluated systemic risk to those who need it —
     bunlar kendi evlerinin altında durur.
 <a id="public-oversight-baseline-disclosure-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
@@ -909,7 +909,7 @@ Bkz. **Ortak çağrı ve karşılama**.
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, ve constitutional compliance are each covered at baseline depth;
     - that lawful substitutes still support meaningful accountability and [İtiraz edilebilirlik](core_05_band_accountability.md#contestability); and
     - yasal yayımlama altyapısının bulunduğu yerde ücretsiz çevrimiçi erişilebilirliğin geçerli kalması.
-  - **İkincil ölçü:** [Şeffaflık](core_05_band_oversight.md#transparency), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), [Denetlenebilirlik](core_05_band_oversight.md#auditability), ve [Risk açıklaması](core_05_band_oversight.md#risk-disclosure) — co-measures that can defeat the floor even when some public artifacts exist.
+  - **İkincil ölçü:** [Şeffaflık](core_05_band_oversight.md#şeffaflık), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), ve [Risk açıklaması](core_05_band_oversight.md#risk-açıklaması) — co-measures that can defeat the floor even when some public artifacts exist.
 
     **İkincil değerlendirme:** Birincil yanıtı denetlerken, look for:
     - ince özetler;
@@ -927,7 +927,7 @@ Bkz. **Ortak çağrı ve karşılama**.
     - sınıfa uygun kamusal erişim için yasal çevrimiçi yayımlama altyapısı varken tabanın ödeme duvarlı ya da yalnızca-içeriden dağıtımı;
     - omitting a usable public view of the [Kapsam belgesi](core_05_band_continuity.md#charter), [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional), [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional), or [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**; or
     - amaca, bağımlılık yapısına, işletme durumuna, maddi risklere, performansa, başarısızlıklara, yönetişime, denetim sonuçlarına, etkilenen taraf etkilerine ya da anayasal uyuma taban görünürlüğünü atlamak.
-  - **Üçüncül başarısızlık:** hold-backs that are not narrow, documented, proportionate, auditable, ve challengeable under CS-2 and [Şeffaflık](core_05_band_oversight.md#transparency).
+  - **Üçüncül başarısızlık:** hold-backs that are not narrow, documented, proportionate, auditable, ve challengeable under CS-2 and [Şeffaflık](core_05_band_oversight.md#şeffaflık).
 
 ---
 
@@ -939,8 +939,8 @@ Bkz. **Ortak çağrı ve karşılama**.
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Aşağı: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint); [Yedinci Bölüm §3.1 Systemic Scope and Risk Factors](../../core_09_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [Yedinci Bölüm Part B §6.1](../../core_09_b_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
-- Birlikte oku: [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation), [Risk](core_05_band_continuity.md#risk), [Şeffaflık](core_05_band_oversight.md#transparency), [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), ve [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional).
+- Aşağı: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint); [Yedinci Bölüm §3.1 Systemic Scope and Risk Factors](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [Yedinci Bölüm Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- Birlikte oku: [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation), [Risk](core_05_band_continuity.md#risk), [Şeffaflık](core_05_band_oversight.md#şeffaflık), [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#kamusal-gözetim-taban-açıklaması), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), ve [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
 
@@ -950,25 +950,25 @@ Bkz. **Ortak çağrı ve karşılama**.
 
 - **Nedir**
   - **Kapsamda:** Communicating evaluated systemic [Risk](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, ve act.
-    - **Süregelen ödev:** The duty is not limited to certification cycles — it applies whenever [Şeffaflık](core_05_band_oversight.md#transparency) or [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [Yedinci Bölüm §3.1](../../core_09_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+    - **Süregelen ödev:** The duty is not limited to certification cycles — it applies whenever [Şeffaflık](core_05_band_oversight.md#şeffaflık) or [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
+    - **SAC verification:** Where [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [Yedinci Bölüm §3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **Kapsam dışında:**
     - [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
-    - [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure) as the broader public baseline floor; or
+    - [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#kamusal-gözetim-taban-açıklaması) as the broader public baseline floor; or
     - findings placement on the [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional) or [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional) —
     bunlar kendi evlerinin altında durur.
 <a id="risk-disclosure-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: evaluated systemic risk actually reaches the sentients who need it — not only whether an evaluation exists somewhere.
 
-    **Birincil değerlendirme:** Ask whether disclosure is timely, decision-relevant, ve sized to material stake under [Şeffaflık](core_05_band_oversight.md#transparency). Read with [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
-  - **İkincil ölçü:** [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), ve [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity) — other checks that can show disclosure failed even when some risk wording is on file.
+    **Birincil değerlendirme:** Ask whether disclosure is timely, decision-relevant, ve sized to material stake under [Şeffaflık](core_05_band_oversight.md#şeffaflık). Read with [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
+  - **İkincil ölçü:** [Risk değerlendirmesi](core_05_band_continuity.md#risk-evaluation), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), ve [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük) — other checks that can show disclosure failed even when some risk wording is on file.
 
     **İkincil değerlendirme:** Birincil yanıtı denetlerken, look for walls of text, buried details, insider-only channels, or late notice that keep the sentients who needed the risk picture from actually understanding it in time.
 <a id="risk-disclosure-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
-    - failure to disclose risk where [Şeffaflık](core_05_band_oversight.md#transparency) or [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) requires it; or
+    - failure to disclose risk where [Şeffaflık](core_05_band_oversight.md#şeffaflık) or [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint) requires it; or
     - [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
   - **İkincil başarısızlık:** risk resmine ihtiyaç duyan algılayanlar onu zamanında kullanamadığında açıklama diye kullanılan yalnızca-iç not, gömülü ek ya da oldubitti bildirimi.
 
@@ -982,9 +982,9 @@ Bkz. **Ortak çağrı ve karşılama**.
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Birlikte oku: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), [Şeffaflık](core_05_band_oversight.md#transparency), [Doğrulanabilirlik](core_05_band_oversight.md#verifiability), [Kanıt koruma](core_05_band_oversight.md#evidence-preservation), ve [Değerlendirme tamamlama kısıtı](core_05_band_oversight.md#evaluation-completeness-constraint).
+- Birlikte oku: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), [Şeffaflık](core_05_band_oversight.md#şeffaflık), [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik), [Kanıt koruma](core_05_band_oversight.md#kanıt-koruma), ve [Değerlendirme tamamlama kısıtı](core_05_band_oversight.md#değerlendirme-tamamlama-kısıtı).
 - Birlikte oku: **Madde XVI** (*Audit, Transparency, ve Independent Verification*); [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- Yönetici kapısı (işlemsel değil): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Madde XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Madde XVI](../../core_06_rights_part_c.md#audit-three-layers).
+- Yönetici kapısı (işlemsel değil): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Madde XVI)](../../core_06.015_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Madde XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -993,14 +993,14 @@ Bkz. **Ortak çağrı ve karşılama**.
 *Yalın dille: **auditability** is whether outsiders can actually reconstruct and check what a system did — across the real times, states, ve situations that matter, not just one happy-path snapshot. Sistem hizalama belgelendirmesi, o özelliğin yüksek-paylı sistemler için kullanıldığı özellikle büyük bir yoldur; tek denetim süreci değildir.*
 
 - **Nedir**
-  - **Kapsamda:** Whether outsiders can systematically examine, reconstruct, ve evaluate system behavior through enough [Doğrulanabilirlik](core_05_band_oversight.md#verifiability) — including external detectability and independent validation.
+  - **Kapsamda:** Whether outsiders can systematically examine, reconstruct, ve evaluate system behavior through enough [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik) — including external detectability and independent validation.
     - **Kapsama:** Must span the material times, states, ve interaction contexts — not only a single snapshot or happy-path sample.
     - **Gözetim rolü:** Şunun altında the **oversight** Tetrad leg, oversight requires this property; [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
     - **İşlemsel yetenek:** Bağlayıcı ödevler işletme yeteneği gerektirdiğinde, denetlenebilirlik iddia edilen uyumun gerçek, yeniden kurulabilir yeteneğe dayandığını denetlemeyi içerir — not text, assertions, or unimplemented controls alone ([Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack) supremacy effect).
   - **Kapsam dışında:**
-    - raw logs or [Doğrulanabilirlik](core_05_band_oversight.md#verifiability) external detectability alone;
-    - [Şeffaflık](core_05_band_oversight.md#transparency) or [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#public-oversight-baseline-disclosure) public disclosure alone; or
-    - leaf measurement tiers and implementation mechanics owned by [Doğrulanabilirlik](core_05_band_oversight.md#verifiability), [Kanıt koruma](core_05_band_oversight.md#evidence-preservation), ve CJS —
+    - raw logs or [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik) external detectability alone;
+    - [Şeffaflık](core_05_band_oversight.md#şeffaflık) or [Kamusal gözetim taban açıklaması](core_05_band_oversight.md#kamusal-gözetim-taban-açıklaması) public disclosure alone; or
+    - leaf measurement tiers and implementation mechanics owned by [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik), [Kanıt koruma](core_05_band_oversight.md#kanıt-koruma), ve CJS —
     bunlar kendi evlerinin altında durur; kendileri yeniden kurulabilir denetlenebilirlik değildir.
 <a id="auditability-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
@@ -1009,21 +1009,21 @@ Bkz. **Ortak çağrı ve karşılama**.
     **Birincil değerlendirme:** It must work across relevant conditions and [Etkilenen taraf](core_05_band_participation.md#stakeholder), including conditions relevant to [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) and [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [Risk](core_05_band_continuity.md#risk), ve constitutional misalignment across:
     - [Sistem sınırları](core_05_band_continuity.md#system-boundaries);
     - işletme durumları; ve
-    - [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar).
     Bağlayıcı bir ödev işletme yeteneği gerektiriyorsa, iddia edilen uyumun doğrulanmış yetenekle desteklenip desteklenmediğini sorun — şununla değil:
       - metin;
       - iddialar;
       - kâğıt denetimler;
       - acil durum pratiği; ya da
       - gözlemlenemez iddialar.
-  - **İkincil ölçü:** [Doğrulanabilirlik](core_05_band_oversight.md#verifiability), [Kanıt koruma](core_05_band_oversight.md#evidence-preservation), ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
+  - **İkincil ölçü:** [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik), [Kanıt koruma](core_05_band_oversight.md#kanıt-koruma), ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
 
     **İkincil değerlendirme:** Birincil yanıtı denetlerken:
     - sorumlu yönetim yinelenen karşılaştırılabilir ölçülere bel bağladığında, denetim yolları zaman içindeki değişimi ve iddia edildiğinde eşik-tetiklemeli izlemeyi incelemeyi desteklemelidir ([Birinci Bölüm §9.3 Institutional Development](core_01_c_stewardship_capacity_principles.md#93-institutional-development); [Orantılılık](core_05_band_accountability.md#proportionality)); and
-    - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, ve effects that matter — and is available for independent [Doğrulanabilirlik](core_05_band_oversight.md#verifiability) and [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional).
-  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
+    - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, ve effects that matter — and is available for independent [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik) and [Gözetim](core_05_apex_oversight_leg.md#oversight-constitutional).
+  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
 
-    **Üçüncül değerlendirme:** Where operators lean on check-the-box audit channels or thin sampling, apply [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — dışarıdakilerin olanı gerçekten yeniden kurup kuramadığını, yoksa incelemenin çoğunlukla gösteri için mi olduğunu sorun.
+    **Üçüncül değerlendirme:** Where operators lean on check-the-box audit channels or thin sampling, apply [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — dışarıdakilerin olanı gerçekten yeniden kurup kuramadığını, yoksa incelemenin çoğunlukla gösteri için mi olduğunu sorun.
 <a id="auditability-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
@@ -1050,9 +1050,9 @@ Bkz. **Ortak çağrı ve karşılama**.
       - etkiler;
       - durumlar;
       - bağlamlar; ya da
-      - [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions);
+      - [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar);
     - supremacy or compliance claims while suppressing [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) or defeating auditable verification.
-  - **Üçüncül başarısızlık:** audit sampling or "the metric looks fine" treated as decisive where [Vekil sapması](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **Üçüncül başarısızlık:** audit sampling or "the metric looks fine" treated as decisive where [Vekil sapması](core_05_band_oversight.md#vekil-sapması) is reasonably observable.
 
 ---
 
@@ -1065,7 +1065,7 @@ Bkz. **Ortak çağrı ve karşılama**.
 
 - Aşağı: Principles: [§3 Pazarlığa kapalı ilke kısıtları: Güvenlik ve Doğruluk](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [Birinci Bölüm §6 Süreç çatışması çözümü](core_05_apex_oversight_leg.md#6-process-conflict-resolution), ve [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, ve correction.
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Birlikte oku: [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Doğrulanabilirlik](core_05_band_oversight.md#verifiability), [Şeffaflık](core_05_band_oversight.md#transparency), [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Usul adilliği](core_05_band_participation.md#procedural-fairness-constitutional), [Korumalı bildirim (İhbar)](core_05_band_accountability.md#protected-reporting-whistleblowing), ve [Onarım ve giderme](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- Birlikte oku: [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik), [Şeffaflık](core_05_band_oversight.md#şeffaflık), [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Usul adilliği](core_05_band_participation.md#procedural-fairness-constitutional), [Korumalı bildirim (İhbar)](core_05_band_accountability.md#protected-reporting-whistleblowing), ve [Onarım ve giderme](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -1114,8 +1114,8 @@ Bkz. **Ortak çağrı ve karşılama**.
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Aşağı: Oversight measurement family (*evaluation coverage as constitutional measurement*); [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [Yedinci Bölüm Part B §6.1](../../core_09_b_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, ve deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, ve regression coverage*).
-- Birlikte oku: [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional), [Kapsam belgesi](core_05_band_continuity.md#charter), [Sistem sınırları](core_05_band_continuity.md#system-boundaries), [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity), [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Sistem oluşturma](core_05_band_participation.md#system-creation-constitutional), ve [İşletme oluşturma](core_05_band_participation.md#business-creation-constitutional).
+- Aşağı: Oversight measurement family (*evaluation coverage as constitutional measurement*); [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [Yedinci Bölüm Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, ve deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, ve regression coverage*).
+- Birlikte oku: [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional), [Kapsam belgesi](core_05_band_continuity.md#charter), [Sistem sınırları](core_05_band_continuity.md#system-boundaries), [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity), [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar), [Sistem oluşturma](core_05_band_participation.md#system-creation-constitutional), ve [İşletme oluşturma](core_05_band_participation.md#business-creation-constitutional).
 
 </details>
 
@@ -1131,7 +1131,7 @@ Bkz. **Ortak çağrı ve karşılama**.
     - karşıt yollar.
   - **Süregelen ödev:** Kısıt, işleçler, sorumlu yöneticiler ya da inceleyenler değerlendirme ya da güvence işinden anayasal uyum, hazırlık ya da güvenli bel bağlama iddia ettiğinde uygulanır — yalnızca belgelendirme döngülerinde değil.
   - **Charter and scope process:** Where a governing [Kapsam belgesi](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [Sistem sınırları](core_05_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional).
+  - **SAC verification:** Where [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional).
   - **Kapsam dışında:**
     - [Kapsam belgesi](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
     - [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
@@ -1144,15 +1144,15 @@ Bkz. **Ortak çağrı ve karşılama**.
     - başarısızlık;
     - kötüye kullanım;
     - etkileşim; ve
-    - [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
+    - [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar) where material.
     Ayrıca sorun:
       - where a [Kapsam belgesi](core_05_band_continuity.md#charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
     - inandırıcı başarısızlık, kötüye kullanım, etkileşim ya da karşıt yollar atlanmışken tam değerlendirme diye kullanılan seçici demo senaryoları ya da pazarlama sınama takımları;
-    - incomplete or selectively scoped evaluation that defeats [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Denetlenebilirlik](core_05_band_oversight.md#auditability), or [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity); or
+    - incomplete or selectively scoped evaluation that defeats [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), or [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity); or
     - [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
   - **İkincil başarısızlık:** Kapsam belgesi metni, kurumsal yetki dili, iş-amaç bildirileri ya da aşağıdakilerden herhangi biri değerlendirilmemişken tam değerlendirme diye kullanılan dar bir belgelendirme demo takımı:
     - başarısızlık;
@@ -1177,8 +1177,8 @@ Bkz. **Ortak çağrı ve karşılama**.
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Sahip tabanı: [Madde XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
-- Birlikte oku: [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Şeffaflık](core_05_band_oversight.md#transparency), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Orantılılık](core_05_band_accountability.md#proportionality), [Uygulanabilirlik](core_05_band_accountability.md#feasibility), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+- Sahip tabanı: [Madde XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Birlikte oku: [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Şeffaflık](core_05_band_oversight.md#şeffaflık), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Orantılılık](core_05_band_accountability.md#proportionality), [Uygulanabilirlik](core_05_band_accountability.md#feasibility), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar).
 
 </details>
 
@@ -1187,15 +1187,15 @@ Bkz. **Ortak çağrı ve karşılama**.
 *Yalın dille: outsiders can detect and measure what the system does, ve someone independent can actually check those observations in practice — yalnızca işleçlerin içeride gördüğü, işlecin sözüne güvenmek ya da kâğıtta doğrulama hakkı tutmak değil.*
 
 - **Nedir**
-  - **Kapsamda:** Whether system behavior, outputs, ve effects can be externally detected, measured, ve independently validated for [Denetlenebilirlik](core_05_band_oversight.md#auditability). Constitutive conditions:
+  - **Kapsamda:** Whether system behavior, outputs, ve effects can be externally detected, measured, ve independently validated for [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik). Constitutive conditions:
     - bağımsız doğrulamadan önce dışarıdan saptanabilirlik sayılır;
-    - practical access ([Madde XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Uygulanabilirlik](core_05_band_accountability.md#feasibility));
+    - practical access ([Madde XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Uygulanabilirlik](core_05_band_accountability.md#feasibility));
     - işleç öz-iddiasından bağımsızlık;
-    - proportionate burden under [Orantılılık](core_05_band_accountability.md#proportionality) and [Maddi etki](core_05_band_oversight.md#material-impact); and
-    - reliability under ordinary stress, misuse, ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - proportionate burden under [Orantılılık](core_05_band_accountability.md#proportionality) and [Maddi etki](core_05_band_oversight.md#maddi-impact); and
+    - reliability under ordinary stress, misuse, ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar).
   - **Kapsam dışında:**
     - yalnızca iç telemetri ya da işlece dönük donanım; ya da
-    - [Denetlenebilirlik](core_05_band_oversight.md#auditability) reconstruction duties as such —
+    - [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) reconstruction duties as such —
     bunlar kendi evlerinin altında durur; kendileri bağımsız dış doğrulama değildir.
 <a id="observability-a"></a>
 <a id="verification-accessibility-a"></a>
@@ -1205,20 +1205,20 @@ Bkz. **Ortak çağrı ve karşılama**.
 <a id="verification-robustness-a"></a>
 <a id="verifiability-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
-  - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: behavior is externally detectable and measurable for [Denetlenebilirlik](core_05_band_oversight.md#auditability).
+  - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: behavior is externally detectable and measurable for [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik).
 
-    **Birincil değerlendirme:** Confirm external detectability under [Denetlenebilirlik](core_05_band_oversight.md#auditability) and [Makul öngörülebilir](core_05_band_oversight.md#reasonably-foreseeable) operating contexts:
+    **Birincil değerlendirme:** Confirm external detectability under [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) and [Makul öngörülebilir](core_05_band_oversight.md#makul-öngörülebilir) operating contexts:
     - olağan;
     - bozulmuş; ve
     - karşıt.
   - **İkincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: observed behavior can be independently validated by reproducible methods in practice.
 
     **İkincil değerlendirme:** Bağımsız doğrulamayı şu yöntemlerle doğrulayın:
-    - affected and appropriately authorized parties can actually perform ([Madde XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Uygulanabilirlik](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Madde XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Uygulanabilirlik](core_05_band_accountability.md#feasibility));
     - dışarıdan saptanabilir kanıta dayanın — iç iddialara ya da çıkarsanmış niyete değil;
-    - are sized to system impact under [Orantılılık](core_05_band_accountability.md#proportionality) and [Maddi etki](core_05_band_oversight.md#material-impact); and
-    - remain reliable under ordinary stress, misuse, ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
-  - **Üçüncül ölçü:** [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Maddi etki](core_05_band_oversight.md#material-impact), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), ve [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) — co-measures that can defeat verification even when methods are nominally documented.
+    - are sized to system impact under [Orantılılık](core_05_band_accountability.md#proportionality) and [Maddi etki](core_05_band_oversight.md#maddi-impact); and
+    - remain reliable under ordinary stress, misuse, ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar).
+  - **Üçüncül ölçü:** [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Maddi etki](core_05_band_oversight.md#maddi-impact), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), ve [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) — co-measures that can defeat verification even when methods are nominally documented.
 
     **Üçüncül değerlendirme:** Birincil ve ikincil yanıtları denetlerken, kâğıtta bir kanal varken bile yukarıdaki kurucu koşullardan herhangi birini karşılayamayan doğrulamayı saptayın.
 <a id="observability-c"></a>
@@ -1230,8 +1230,8 @@ Bkz. **Ortak çağrı ve karşılama**.
 <a id="verifiability-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
-    - insufficient external detectability that defeats [Denetlenebilirlik](core_05_band_oversight.md#auditability), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), or independent validation;
-    - unverifiable claims under [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Şeffaflık](core_05_band_oversight.md#transparency), or [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint); or
+    - insufficient external detectability that defeats [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), or independent validation;
+    - unverifiable claims under [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Şeffaflık](core_05_band_oversight.md#şeffaflık), or [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt); or
     - dışarıdan saptanabilir, bağımsız doğrulanmış davranışın kanıtı diye kullanılan işleç öz-iddiası.
   - **İkincil başarısızlık:**
     - yalnızca kuramda ya da yalnızca ideal koşullarda var olan doğrulama;
@@ -1239,7 +1239,7 @@ Bkz. **Ortak çağrı ve karşılama**.
     - iç iddiaya dayanan doğrulama;
     - düşük etki için aşırı, yüksek etki için göstermelik yükü olan doğrulama;
     - bağımsız nitelikli bir inceleyenin gereken kanıt ve erişimle yeniden üretemediği doğrulama; ya da
-    - verification that becomes unreliable under [Makul öngörülebilir](core_05_band_oversight.md#reasonably-foreseeable) operating, degraded, scaled, or adversarial conditions.
+    - verification that becomes unreliable under [Makul öngörülebilir](core_05_band_oversight.md#makul-öngörülebilir) operating, degraded, scaled, or adversarial conditions.
   - **Üçüncül başarısızlık:** a verification channel that exists on paper while [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) or another constitutive condition is missing in practice.
 
 ---
@@ -1253,11 +1253,11 @@ Bkz. **Ortak çağrı ve karşılama**.
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Anayasal çerçeve: **Oversight** leg; **Flourishing** aim (primary); scales with [maddi pay](core_00_preamble.md#material-stake) via [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination).
+- Anayasal çerçeve: **Oversight** leg; **Flourishing** aim (primary); scales with [maddi pay](core_00_preamble.md#material-stake) via [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination).
 - Aşağı: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Bacaklar arası not: integrative with **Accountability** where contest and correction are implicated.
-- Birinci Bölüm dayanağı: Birinci Bölüm §8.2, §3.3, §4, §12.1, §12.2 (see [Beşinci Bölüm pusulası](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
-- Birlikte oku: Apply [İyi niyet](core_05_band_accountability.md#good-faith), [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Bağımlılık](core_05_band_continuity.md#dependency), [Şeffaflık](core_05_band_oversight.md#transparency), [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Doğrulanabilirlik](core_05_band_oversight.md#verifiability), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), ve Chapters Two through Four mechanics where materially implicated.
+- Birinci Bölüm dayanağı: Birinci Bölüm §8.2, §3.3, §4, §12.1, §12.2 (see [Beşinci Bölüm pusulası](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası) map).
+- Birlikte oku: Apply [İyi niyet](core_05_band_accountability.md#good-faith), [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Bağımlılık](core_05_band_continuity.md#dependency), [Şeffaflık](core_05_band_oversight.md#şeffaflık), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk), ve Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -1280,16 +1280,16 @@ Where admission scope is met, this cluster is the home for honest representation
 
 **Küme üyeleri.** Bu küme şunları kapsar:
 
-- [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) — honest treatment of what is known, unknown, ve uncertain in decision-relevant claims;
-- [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity) — methods and evidence bases stay honest and checkable;
-- [Öngörülebilirlik özeni ve makul öngörülebilir](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) — **Doğruluk** ve **Epistemik bütünlük** ile birlikte okunan öngörülebilirlik mekaniği için iç içe alt-blok (ayrı bir §3 küme başı değil); ve
-- [Publication and High-Impact Communication](core_05_band_oversight.md#publication-and-high-impact-communication) — nested sub-block for publication-conduct floors read together with **Truth**, **Epistemic Integrity**, ve **Foreseeability** (not a separate §3 cluster head).
+- [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) — honest treatment of what is known, unknown, ve uncertain in decision-relevant claims;
+- [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük) — methods and evidence bases stay honest and checkable;
+- [Öngörülebilirlik özeni ve makul öngörülebilir](core_05_band_oversight.md#öngörülebilirlik-özeni-ve-makul-öngörülebilir) — **Doğruluk** ve **Epistemik bütünlük** ile birlikte okunan öngörülebilirlik mekaniği için iç içe alt-blok (ayrı bir §3 küme başı değil); ve
+- [Publication and High-Impact Communication](core_05_band_oversight.md#yayımlama-ve-yüksek-etki-iletişim) — nested sub-block for publication-conduct floors read together with **Truth**, **Epistemic Integrity**, ve **Foreseeability** (not a separate §3 cluster head).
 
 **Dolanma yasağı.** Kabul kapsamında, konuyu ayrı açıklama, yayımlama, yöntem, belirsizlik, bütünlük, doğrulama ya da öngörülebilirlik sorularına, birini karşılayıp diğerini bozacak biçimde bölmeyin. Öngörülebilir-koşul çözümlemesi, yöntemsel bütünlük ya da sınırlar ve belirsizlik hakkında dürüstlük maddi olarak yetersizken bir açıklama ya da yayımlama kuralına nominal uyum yetmez.
 
 Bkz. **Ortak çağrı ve karşılama**.
 
-*Ölçümler (aile yönlendirmesi):* Measured under the Oversight measurement family. Find the concrete measures on [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) and [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity) below.
+*Ölçümler (aile yönlendirmesi):* Measured under the Oversight measurement family. Find the concrete measures on [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) and [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük) below.
 
 <a id="publication-and-high-impact-communication"></a>
 
@@ -1299,10 +1299,10 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
 
 **Alt-blok üyeleri.** Bu alt-blok şunları kapsar:
 
-- [Yayımlama doğruluğu ve pervasızlık tabanı](core_05_band_oversight.md#publication-truthfulness-and-recklessness-floor) — no knowing falsity or reckless disregard for accuracy, uncertainty, context, or interpretive limits;
-- [Korunan veri ve iç-durum yayımlama kısıtı](core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint) — do not publish restricted data or expose protected internal states;
-- [Yüksek-etki ve sistemik zarar yayımlama kısıtı](core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint) — constrain publication that foreseeably enables targeted harm, coercion, harmful coordination, or cascading failure; and
-- [Güvenlik-duyarlı açıklama dengesi](core_05_band_oversight.md#security-sensitive-disclosure-balance) — açıklama yararlarını sömürü riskine karşı tartın; iyi niyetli araştırmacılar için kullanılabilir bir yol tutun; sömürüyü olanaklı kılan ayrıntıyı azaltma tamamlanana dek erteleyin.
+- [Yayımlama doğruluğu ve pervasızlık tabanı](core_05_band_oversight.md#yayımlama-doğruluğu-ve-pervasızlık-tabanı) — no knowing falsity or reckless disregard for accuracy, uncertainty, context, or interpretive limits;
+- [Korunan veri ve iç-durum yayımlama kısıtı](core_05_band_oversight.md#korunan-veri-ve-iç-durum-yayımlama-kısıtı) — do not publish restricted data or expose protected internal states;
+- [Yüksek-etki ve sistemik zarar yayımlama kısıtı](core_05_band_oversight.md#yüksek-etki-ve-sistemik-zarar-yayımlama-kısıtı) — constrain publication that foreseeably enables targeted harm, coercion, harmful coordination, or cascading failure; and
+- [Güvenlik-duyarlı açıklama dengesi](core_05_band_oversight.md#güvenlik-duyarlı-açıklama-dengesi) — açıklama yararlarını sömürü riskine karşı tartın; iyi niyetli araştırmacılar için kullanılabilir bir yol tutun; sömürüyü olanaklı kılan ayrıntıyı azaltma tamamlanana dek erteleyin.
 
 <a id="publication-truthfulness-and-recklessness-floor"></a>
 
@@ -1324,10 +1324,10 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
     - belirsizlik;
     - bağlam; ya da
     - maddi yorum sınırları,
-    from good-faith observation and bounded interpretation, under [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) and [İyi niyet](core_05_band_accountability.md#good-faith).
+    from good-faith observation and bounded interpretation, under [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) and [İyi niyet](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **Neyin geçerli kalması gerekir**
-  - Good-faith publication of observations, evidence, ve bounded interpretations is governed by On Birinci Bölüm **Articles IX**, **XIII**, ve **XIV** as applicable and must satisfy this cluster jointly under [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), [İyi niyet](core_05_band_accountability.md#good-faith), ve [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, ve bounded interpretations is governed by On Birinci Bölüm **Articles IX**, **XIII**, ve **XIV** as applicable and must satisfy this cluster jointly under [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [İyi niyet](core_05_band_accountability.md#good-faith), ve [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük).
   - **Birincil başarısızlık:** bilerek yanlış yayımlama, ya da şuna pervasız kayıtsızlıkla yapılan yayımlama:
     - doğruluk;
     - belirsizlik;
@@ -1365,19 +1365,19 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: publication's primary or foreseeable effects on coordination, safety, ve info-sphere integrity stay within proportional distribution constraints.
 
-    **Birincil değerlendirme:** Consider primary and [Makul öngörülebilir](core_05_band_oversight.md#reasonably-foreseeable) effects on:
+    **Birincil değerlendirme:** Consider primary and [Makul öngörülebilir](core_05_band_oversight.md#makul-öngörülebilir) effects on:
     - eşgüdüm;
     - [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint);
     - zayıflıkların sömürülmesi; ve
     - [Bilgi-küresi](core_05_band_participation.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
 - **Neyin geçerli kalması gerekir**
-  - Even factually accurate publication is constrained where its primary or [Makul öngörülebilir](core_05_band_oversight.md#reasonably-foreseeable) effect is to enable:
+  - Even factually accurate publication is constrained where its primary or [Makul öngörülebilir](core_05_band_oversight.md#makul-öngörülebilir) effect is to enable:
     - targeted [Zarar](core_05_band_accountability.md#harm);
     - [Zorlama ve manipülasyon](core_05_band_participation.md#coercion-and-manipulation-constitutional);
     - büyük-ölçekli zararlı eşgüdüm;
     - [Zincirleme arıza](core_05_band_continuity.md#cascading-failure); or
-    - patterns that materially degrade [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity).
+    - patterns that materially degrade [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük).
   - **[corpus_systems.md](../../corpus_systems.md), CS-3 — Sistem sınıflaması ve ele alma** altındaki **Class A** ve **Class B** sistemler, dağıtım mekaniği ve güvenceler üzerinde yükseltilmiş orantılı kısıtları tetikler.
   - **Birincil başarısızlık:** bu birincil ya da makul öngörülebilir etkiler için gereken orantılı dağıtım kısıtları ve güvenceler olmadan yayımlamak, **Class A** ve **Class B** sistemler için yükseltilmiş kısıtlar dahil.
 
@@ -1394,7 +1394,7 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: disclosure benefits outweigh foreseeable exploitation, circumvention, or adversarial-manipulation risks.
 
-    **Birincil değerlendirme:** Balance disclosure benefits against foreseeable risks under [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), consistent with Chapters Two through Four and Birinci Bölüm, şunları kapsayarak:
+    **Birincil değerlendirme:** Balance disclosure benefits against foreseeable risks under [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar), consistent with Chapters Two through Four and Birinci Bölüm, şunları kapsayarak:
     - sömürü;
     - dolanma; ya da
     - karşıt manipülasyon.
@@ -1405,7 +1405,7 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
 - **Neyin geçerli kalması gerekir**
   - İyi niyetli güvenlik araştırmacılarının düşük-riskli bilgiyi yayımlamak için kullanılabilir, misillemesiz bir yolu olmalıdır — varlık bildirimi ve sömürüyü olanaklı kılmayan ayrıntı dahil — araştırmacı yayımlamasının kendisini yasaklı açıklama saymadan.
   - Sömürüyü olanaklı kılan ya da başka türlü yüksek-riskli güvenlik ayrıntısı, güvenlik azaltması tamamlanana ya da CS-2 altında **Type S** (ya da eşdeğeri) kısıt gerekçesi bitene dek ertelenmelidir — sonra uygulanabilir ertelenmiş-açıklama ve **Type O** özet kuralları altında açıklanır.
-  - **Birincil başarısızlık:** consistent with **Chapters Two through Four**, **Birinci Bölüm**, [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions):
+  - **Birincil başarısızlık:** consistent with **Chapters Two through Four**, **Birinci Bölüm**, [Risk](core_05_band_continuity.md#risk), [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar):
     - o risklerin açıklamanın yararlarını aştığı yerde güvencelerin dolanmasını ya da karşıt manipülasyonu maddi olarak olanaklı kılan yayımlama;
     - düşük-riskli iyi niyetli araştırmacı yayımlamasını bastırmak; ya da
     - hâlâ gerekçeli bir **Type S** (ya da eşdeğeri) kısıt olmadan azaltmadan sonra açıklanabilir ayrıntının belirsiz alıkonması.
@@ -1431,13 +1431,13 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: materially decision-relevant claims stay honest about what is known, unknown, ve uncertain — resisting deception, distortion, ve structurally misleading presentation.
 
-    **Birincil değerlendirme:** Judge the real effect on informed decision-making and auditability — scale scrutiny with [Maddi etki](core_05_band_oversight.md#material-impact), [Bağımlılık](core_05_band_continuity.md#dependency), ve [Risk](core_05_band_continuity.md#risk); require honest methods, honest uncertainty treatment, ve revision when evidence disconfirms prior conclusions.
-  - **İkincil ölçü:** [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Şeffaflık](core_05_band_oversight.md#transparency), ve [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) — co-measures that can defeat truth even when formal disclosure exists.
+    **Birincil değerlendirme:** Judge the real effect on informed decision-making and auditability — scale scrutiny with [Maddi etki](core_05_band_oversight.md#maddi-impact), [Bağımlılık](core_05_band_continuity.md#dependency), ve [Risk](core_05_band_continuity.md#risk); require honest methods, honest uncertainty treatment, ve revision when evidence disconfirms prior conclusions.
+  - **İkincil ölçü:** [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Şeffaflık](core_05_band_oversight.md#şeffaflık), ve [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) — co-measures that can defeat truth even when formal disclosure exists.
 
-    **İkincil değerlendirme:** Birincil yanıtı denetlerken, include [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), [Denetlenebilirlik](core_05_band_oversight.md#auditability), ve [Şeffaflık](core_05_band_oversight.md#transparency) paths that would defeat honest interpretation or verification.
-  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — where metrics, market signals, or institutional assertion stand in for honest constitutional evaluation.
+    **İkincil değerlendirme:** Birincil yanıtı denetlerken, include [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), ve [Şeffaflık](core_05_band_oversight.md#şeffaflık) paths that would defeat honest interpretation or verification.
+  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — where metrics, market signals, or institutional assertion stand in for honest constitutional evaluation.
 
-    **Üçüncül değerlendirme:** Where operators lean on proxies, odds, prices, or compliance indicators, apply [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — separate durable truth from proxy throughput or institutional assertion.
+    **Üçüncül değerlendirme:** Where operators lean on proxies, odds, prices, or compliance indicators, apply [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — separate durable truth from proxy throughput or institutional assertion.
 <a id="truth-constitutional-constraint-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:** güvenilir yorumun ya da denetlenebilir bütünlüğün şu yolla maddi bozulması:
@@ -1447,8 +1447,8 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
     - seçici açıklama; ya da
     - yapısal olarak yanıltıcı sunum —
     including polite tone or procedural form used as a substitute for honest treatment of what is known, unknown, ve uncertain.
-  - **İkincil başarısızlık:** jargon, stacked complexity, or procedural opacity used to defeat [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) or [Denetlenebilirlik](core_05_band_oversight.md#auditability) where materially relevant.
-  - **Üçüncül başarısızlık:** prices, odds, or market resolution sources used as enough for rights, safety, or governance truth determinations where Birinci Bölüm forbids that substitution, or refusal of correction after [Vekil sapması](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **İkincil başarısızlık:** jargon, stacked complexity, or procedural opacity used to defeat [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) or [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik) where materially relevant.
+  - **Üçüncül başarısızlık:** prices, odds, or market resolution sources used as enough for rights, safety, or governance truth determinations where Birinci Bölüm forbids that substitution, or refusal of correction after [Vekil sapması](core_05_band_oversight.md#vekil-sapması) is reasonably observable.
 
 <a id="epistemic-integrity"></a>
 
@@ -1463,7 +1463,7 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
     - belirsizlikler;
     - kanıt çatışmaları; ve
     - tartışılabilir çıkarım adımları —
-    so [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) cannot be bypassed through procedural form, model opacity, or non-auditable inference.
+    so [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) cannot be bypassed through procedural form, model opacity, or non-auditable inference.
   - **Kapsam dışında:**
     - yalnızca yöntem belgelemesi;
     - kurumsal prestij sıralamaları; ya da
@@ -1478,12 +1478,12 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
     - prestij;
     - ölçek; ya da
     - karmaşıklık.
-  - **İkincil ölçü:** [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Doğrulanabilirlik](core_05_band_oversight.md#verifiability), [Şeffaflık](core_05_band_oversight.md#transparency), ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
+  - **İkincil ölçü:** [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik), [Şeffaflık](core_05_band_oversight.md#şeffaflık), ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
 
-    **İkincil değerlendirme:** Birincil yanıtı denetlerken, also check [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Doğrulanabilirlik](core_05_band_oversight.md#verifiability), ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [Öngörülebilirlik özeni](core_05_band_oversight.md#foreseeability-diligence).
-  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — where authority, prestige, scale, or complexity stands in for demonstrable integrity.
+    **İkincil değerlendirme:** Birincil yanıtı denetlerken, also check [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Doğrulanabilirlik](core_05_band_oversight.md#doğrulanabilirlik), ve [İtiraz edilebilirlik](core_05_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [Öngörülebilirlik özeni](core_05_band_oversight.md#öngörülebilirlik-özeni).
+  - **Üçüncül ölçü:** [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — where authority, prestige, scale, or complexity stands in for demonstrable integrity.
 
-    **Üçüncül değerlendirme:** Where operators lean on authority, model opacity, or unverifiable assertion, apply [Vekil sapması](core_05_band_oversight.md#proxy-divergence) — separate durable epistemic integrity from procedural form.
+    **Üçüncül değerlendirme:** Where operators lean on authority, model opacity, or unverifiable assertion, apply [Vekil sapması](core_05_band_oversight.md#vekil-sapması) — separate durable epistemic integrity from procedural form.
 <a id="epistemic-integrity-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:**
@@ -1491,7 +1491,7 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
     - dürüst belirsizlik işlemeyi bozan değerlendirme ya da iletişim pratikleri; ya da
     - denetimin maddi olarak gerektiği yerde denetlenemez çıkarım.
   - **İkincil başarısızlık:** doğrulamayı ya da anlamlı itirazı öngörülebilir biçimde önleyen yöntemsel seçimler; gözlemlenebilir kanıtın makul biçimde ulaşılabilir olduğu yerde doğrulanamaz iddiaya dayanan bütünlük iddiaları.
-  - **Üçüncül başarısızlık:** formal method documentation or institutional prestige treated as decisive where [Vekil sapması](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **Üçüncül başarısızlık:** formal method documentation or institutional prestige treated as decisive where [Vekil sapması](core_05_band_oversight.md#vekil-sapması) is reasonably observable.
 
 ---
 
@@ -1502,7 +1502,7 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Birlikte oku: Apply [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination), [Değerlendirme tamamlama kısıtı](core_05_band_oversight.md#evaluation-completeness-constraint), [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Orantılılık](core_05_band_accountability.md#proportionality), [Sistem sınırları](core_05_band_continuity.md#system-boundaries), ve Chapters Two through Four mechanics where materially implicated.
+- Birlikte oku: Apply [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination), [Değerlendirme tamamlama kısıtı](core_05_band_oversight.md#değerlendirme-tamamlama-kısıtı), [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar), [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik), [Orantılılık](core_05_band_accountability.md#proportionality), [Sistem sınırları](core_05_band_continuity.md#system-boundaries), ve Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -1517,16 +1517,16 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
   - kötüye kullanım yolları; ya da
   - işletme koşulları;
 - “öngöremezdik” iddialarının gerekçeli olup olmadığı;
-- whether analysis depth, scope, ve scaling match [Maddi etki](core_05_band_oversight.md#material-impact), [Maddi risk](core_05_band_oversight.md#material-risk), [Risk](core_05_band_continuity.md#risk), ve [Bağımlılık](core_05_band_continuity.md#dependency); or
-- whether evaluation was incomplete in a way that defeats [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk) assessment, or [Öngörülebilirlik özeni](core_05_band_oversight.md#foreseeability-diligence).
+- whether analysis depth, scope, ve scaling match [Maddi etki](core_05_band_oversight.md#maddi-impact), [Maddi risk](core_05_band_oversight.md#maddi-risk), [Risk](core_05_band_continuity.md#risk), ve [Bağımlılık](core_05_band_continuity.md#dependency); or
+- whether evaluation was incomplete in a way that defeats [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Risk](core_05_band_continuity.md#risk) assessment, or [Öngörülebilirlik özeni](core_05_band_oversight.md#öngörülebilirlik-özeni).
 O kapsamın dışında, tek tek girdiler tam bileşiği içe aktarmadan kendi başlarına hâlâ uygulanabilir.
 
-Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([İkinci Bölüm, §3 — Consistency Across the Definition Stack](core_02_definition_structure.md#3-consistency-across-the-definition-stack)).
+Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([İkinci Bölüm, §3 — Consistency Across the Definition Stack](core_02_definition_structure.md#3-tanım-yığını-boyunca-tutarlılık)).
 
 **Alt-blok üyeleri.** Bu alt-blok şunları kapsar:
 
-- [Öngörülebilirlik özeni](core_05_band_oversight.md#foreseeability-diligence) — reasonable analysis sized to impact: required depth, evaluation boundaries, incompleteness failure, ve justified non-foreseeability claims; and
-- [Makul öngörülebilir](core_05_band_oversight.md#reasonably-foreseeable) — outcomes a careful analyst using known methods could identify before acting.
+- [Öngörülebilirlik özeni](core_05_band_oversight.md#öngörülebilirlik-özeni) — reasonable analysis sized to impact: required depth, evaluation boundaries, incompleteness failure, ve justified non-foreseeability claims; and
+- [Makul öngörülebilir](core_05_band_oversight.md#makul-öngörülebilir) — outcomes a careful analyst using known methods could identify before acting.
 
 **§3.3 içinde dolanma yasağı.** Öngörülebilirlik çözümlemesini yalıtılmış derinlik, sınır, iddia-yükü, tamamsızlık ya da makul-öngörülebilir sorularına, birini karşılayıp diğerini bozacak biçimde bölmeyin. Denetim-uyumlu gerekçe olmadan öngörülemezlik iddia etmek, ya da karşıt, ölçeklenmiş, yinelenen ya da kötüye kullanım bağlamlarının maddi olduğu yerde yalnızca en-iyi-durum işletmeyi değerlendirmek, kabul kapsamında uyumsuzluktur.
 
@@ -1544,17 +1544,17 @@ Bkz. **Ortak çağrı ve karşılama**.
 
 - **Nedir**
   - **Kapsamda:** Etkiye boyutlandırılmış makul çözümleme standardı, şunları kapsayarak:
-    - analysis depth that scales with [Maddi etki](core_05_band_oversight.md#material-impact), [Risk](core_05_band_continuity.md#risk), ve [Bağımlılık](core_05_band_continuity.md#dependency) under [Orantılılık](core_05_band_accountability.md#proportionality);
+    - analysis depth that scales with [Maddi etki](core_05_band_oversight.md#maddi-impact), [Risk](core_05_band_continuity.md#risk), ve [Bağımlılık](core_05_band_continuity.md#dependency) under [Orantılılık](core_05_band_accountability.md#proportionality);
     - gereken değerlendirme sınırları, şunlar dahil:
       - etkileşimler;
       - bağımlılık;
       - karşıt kullanım; ve
       - relevant [Sistem sınırları](core_05_band_continuity.md#system-boundaries);
     - o değerlendirmeyi gerçekten yapma ödevi; ve
-    - responsibility for justifying non-foreseeability claims under [Makul öngörülebilir](core_05_band_oversight.md#reasonably-foreseeable).
+    - responsibility for justifying non-foreseeability claims under [Makul öngörülebilir](core_05_band_oversight.md#makul-öngörülebilir).
   - **Kapsam dışında:**
     - gereken özen sonrası öngörülemez kalan sonuçlar;
-    - unbounded speculative review of every conceivable outcome — that sits under [Makul öngörülebilir](core_05_band_oversight.md#reasonably-foreseeable) exclusions; or
+    - unbounded speculative review of every conceivable outcome — that sits under [Makul öngörülebilir](core_05_band_oversight.md#makul-öngörülebilir) exclusions; or
     - her düşük-paylı dava için talep edilen düz-azami çözümleme — derinlik etkiye ölçeklenir; sınırsız azamicilik değildir.
 <a id="foreseeability-burden-a"></a>
 <a id="foreseeability-failure-a"></a>
@@ -1564,8 +1564,8 @@ Bkz. **Ortak çağrı ve karşılama**.
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: analysis depth matches impact, risk, ve dependency; whether required boundaries were covered; whether the evaluation was actually performed; and whether non-foreseeability claims have audit-compatible justification.
 
-    **Birincil değerlendirme:** Include known methods and patterns for what is [Makul öngörülebilir](core_05_band_oversight.md#reasonably-foreseeable), scaled to:
-    - [Maddi etki](core_05_band_oversight.md#material-impact);
+    **Birincil değerlendirme:** Include known methods and patterns for what is [Makul öngörülebilir](core_05_band_oversight.md#makul-öngörülebilir), scaled to:
+    - [Maddi etki](core_05_band_oversight.md#maddi-impact);
     - [Risk](core_05_band_continuity.md#risk); ve
     - [Bağımlılık](core_05_band_continuity.md#dependency).
     Şunları kapsayan değerlendirme sınırlarını dahil edin:
@@ -1573,20 +1573,20 @@ Bkz. **Ortak çağrı ve karşılama**.
     - [Bağımlılık](core_05_band_continuity.md#dependency);
     - karşıt kullanım; ve
     - relevant [Sistem sınırları](core_05_band_continuity.md#system-boundaries).
-    Include [Denetlenebilirlik](core_05_band_oversight.md#auditability)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [Risk](core_05_band_continuity.md#risk) evaluation, or [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint).
+    Include [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [Risk](core_05_band_continuity.md#risk) evaluation, or [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint).
 <a id="foreseeability-burden-c"></a>
 <a id="foreseeability-failure-c"></a>
 <a id="foreseeability-scaling-c"></a>
 <a id="foreseeability-scope-c"></a>
 <a id="foreseeability-diligence-c"></a>
 - **Neyin geçerli kalması gerekir**
-  - Analysis depth must scale with [Maddi etki](core_05_band_oversight.md#material-impact) and [Risk](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
+  - Analysis depth must scale with [Maddi etki](core_05_band_oversight.md#maddi-impact) and [Risk](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
   - Değerlendirme sınırları şunları içermelidir:
     - etkileşimler;
     - [Bağımlılık](core_05_band_continuity.md#dependency);
     - karşıt kullanım; ve
     - relevant [Sistem sınırları](core_05_band_continuity.md#system-boundaries).
-  - Non-foreseeability claims require [Denetlenebilirlik](core_05_band_oversight.md#auditability)-compatible justification — assertion alone is not enough.
+  - Non-foreseeability claims require [Denetlenebilirlik](core_05_band_oversight.md#denetlenebilirlik)-compatible justification — assertion alone is not enough.
   - **Birincil başarısızlık:**
     - gerçek öngörülebilirlik değerlendirmesi olmayan onay kutusu çözümlemesi;
     - denetim-uyumlu gerekçe olmadan bir şeyin öngörülemez olduğuna dair salt iddia;
@@ -1595,7 +1595,7 @@ Bkz. **Ortak çağrı ve karşılama**.
     - yüksek etkiye rağmen yüzeysel çözümleme;
     - gereken sınırların altında kapsam kısıtı;
     - öngörülemezlik iddiası için yetersiz gerekçe; ya da
-    - incompleteness that defeats [Öngörülebilirlik özeni](core_05_band_oversight.md#foreseeability-diligence), [Risk](core_05_band_continuity.md#risk) evaluation, or [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint).
+    - incompleteness that defeats [Öngörülebilirlik özeni](core_05_band_oversight.md#öngörülebilirlik-özeni), [Risk](core_05_band_continuity.md#risk) evaluation, or [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint).
 
 <a id="reasonably-foreseeable"></a>
 
@@ -1604,13 +1604,13 @@ Bkz. **Ortak çağrı ve karşılama**.
 *Yalın dille: bilinen yöntemleri kullanan özenli bir çözümleyicinin eylemden önce belirleyebileceği sonuçlar — karşıt ve ölçeklenmiş koşullar altında dahil — her düşünülebilir sonuç ya da salt sonradan görme değil.*
 
 - **Nedir**
-  - **Kapsamda:** Outcomes identifiable using domain knowledge and analytical methods under [Öngörülebilirlik özeni](core_05_band_oversight.md#foreseeability-diligence).
+  - **Kapsamda:** Outcomes identifiable using domain knowledge and analytical methods under [Öngörülebilirlik özeni](core_05_band_oversight.md#öngörülebilirlik-özeni).
   - **Kapsam dışında:** Her düşünülebilir sonuç, salt sonradan görme, ya da makul özenin ötesindeki bilgi ya da yöntemlerle ancak bilinebilir sonuçlar.
 <a id="reasonably-foreseeable-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: identifiable outcomes under reasonable diligence are included — including adversarial and scaled conditions — not excluded by hindsight games or best-case-only framing.
 
-    **Birincil değerlendirme:** Include adversarial and scaled conditions, including [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    **Birincil değerlendirme:** Include adversarial and scaled conditions, including [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar).
 <a id="reasonably-foreseeable-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:** böyle sonuçların dışlanması.
@@ -1621,4 +1621,4 @@ Bkz. **Ortak çağrı ve karşılama**.
 
 **Sonraki dosya (bu dilde):** [core_05_band_participation.md](core_05_band_participation.md)
 
-**Bağlayıcı asıl:** [core_05_band_oversight.md](../../core_05_band_oversight.md)
+**Bağlayıcı asıl:** [core_05_band_oversight.md](../../core_05.050_band_oversight.md)

@@ -7,7 +7,7 @@
 > این فایل **بخشی از قانون اساسی سِنتینت** است و تنها **در کنار** سایر فایل‌های شماره‌دار `core_*` که به‌عنوان یک سند واحد خوانده می‌شوند الزام‌آور است. این فایل شامل **فصل هفتم** است: کفِ میان‌فرایندی برای استقلال کارکردی و تفکیک وظایف. این فصل پس از کف حقوق فصل ششم و پیش از فصل‌های فرایند قانون اساسی قرار می‌گیرد که با [گواهی هم‌راستایی سامانه در فصل هشتم](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) آغاز می‌شوند.
 >
 > - **متولی قانون اساسی:** کفِ جایگاه‌های متمایز برای اعمال الزام‌آور مادی؛ حداقل محتوای همگانی هر [سابقهٔ عمل الزام‌آور مادی](../../core_05_band_accountability.md#materially-binding-act-record)؛ استقلال از کنشگر و [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line) کنشگر؛ انتشار عمومی تخصیص مسیر و نقش؛ مسیریابی تعارض، جای خالی، جانشینی و جایگاه نادرست؛ میزبانی ادغام‌شدهٔ متناسب؛ تحویل‌های قابل انتساب؛ و حداقل شرایط استقلالی که هر فرایند قانون اساسی بعدی باید اعمال کند.
-> - **منبع در لایهٔ اصول:** [فصل یکم §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) از حکمرانی می‌خواهد استقلال کارکردی را حفظ کند و معماری عملیاتی جایگاه‌ها را به اینجا ارجاع می‌دهد.
+> - **منبع در لایهٔ اصول:** [فصل یکم §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) از حکمرانی می‌خواهد استقلال کارکردی را حفظ کند و معماری عملیاتی جایگاه‌ها را به اینجا ارجاع می‌دهد.
 > - **متولی اجرا:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)، [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) و [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) جایگاه‌ها را تخصیص می‌دهند و عملیاتی می‌کنند. آن‌ها می‌توانند سخت‌گیرانه‌تر باشند و انواع محدودِ جایگاه‌های اختیار ویژه را بیفزایند؛ اما نمی‌توانند این فصل را محدود کنند.
 > - **کاربرد ویژهٔ هر فرایند همچنان در مراحل بعدی انجام می‌شود:** فصل هشتم این کف را برای گواهی هم‌راستایی سامانه اعمال می‌کند؛ [فصل نهم §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) آن را برای سوابق وضعیت اعمال می‌کند؛ فصل دوازدهم و [corpus_forum.md](../../corpus_forum.md) آن را برای فرایند انجمن اعمال می‌کنند. آن فصل‌ها می‌توانند پادمان‌های لازم برای موضوع خود را بیفزایند؛ اما نمی‌توانند جایگزینی ضعیف‌تر ایجاد کنند.
 >
@@ -71,7 +71,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادستی: [§1](#1-purpose-scope-and-owner-boundary)؛ [فصل یکم §18.3](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties)؛ [فصل یکم §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+- بالادستی: [§1](#1-purpose-scope-and-owner-boundary)؛ [فصل یکم §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)؛ [فصل یکم §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 - پایین‌دستی: از [§3](#3-independence-conflict-and-control-lines) تا [§9](#9-relationship-to-later-processes)؛ [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*فهرست جایگاه‌ها — الگوهای نقش فرایند و مرزهای عملیاتی*).
 - همراه با: [§6](#6-proportional-scaling-and-merged-hosting) برای تنها مسیر مجاز میزبانی ادغام‌شده.
 

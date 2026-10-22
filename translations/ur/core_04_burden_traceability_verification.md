@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">کارپس میں مقام (غیرِ عملی): فائل کی ساخت اور پڑھنے کے قواعد</span></strong></summary>
 
-> یہ فائل [انگریزی باب چہارم](../../core_04_burden_traceability_verification.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
+> یہ فائل [انگریزی باب چہارم](../../core_04.000_burden_traceability_verification.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_04_burden_traceability_verification.md`](../../core_04.000_burden_traceability_verification.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
 > **پچھلا (اس لوکیل):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
@@ -17,10 +17,10 @@
 <summary><strong><span style="color: #2563eb;">قارئین کی رہنمائی (غیرِ عملی): باب چہارم کہاں رہتا ہے اور یہاں کیا رہتا ہے</span></strong></summary>
 
 > یہ کہاں رہتا ہے (رہنمائی):
-> - **چوکڑی نقشہ:** بوجھ کی تقسیم، ثبوت، سراغ، مشاہدہ پذیری، اور تصدیق [تمہید](core_00_preamble.md#chapter-00-preamble--foundational-requirements) میں قائم [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کی **نگرانی** اور **جوابدہی** ٹانگیں عمل میں لاتے ہیں؛ **شرکت** جہاں قطعوں **3** اور **4** کے تحت عملی مشاہدہ پذیری اور آزاد چیلنج کے ذریعے مادی طور پر مطلوب ہو۔ تقاضے [مادی داؤ](core_00_preamble.md#material-stake) کے ساتھ پیمانہ ہوتے ہیں۔
+> - **چوکڑی نقشہ:** بوجھ کی تقسیم، ثبوت، سراغ، مشاہدہ پذیری، اور تصدیق [تمہید](core_00_preamble.md#تمہید--بنیادی-تقاضے) میں قائم [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کی **نگرانی** اور **جوابدہی** ٹانگیں عمل میں لاتے ہیں؛ **شرکت** جہاں قطعوں **3** اور **4** کے تحت عملی مشاہدہ پذیری اور آزاد چیلنج کے ذریعے مادی طور پر مطلوب ہو۔ تقاضے [مادی داؤ](core_00_preamble.md#material-stake) کے ساتھ پیمانہ ہوتے ہیں۔
 > - **آئینی مالک:** بوجھ کی تقسیم، اطاعت ثبوت، تعریف سراغ، مشاہدہ پذیری، اور سیکیورٹی محدود تصدیق۔ **باب دہم** اس باب کے ساتھ پڑھی جانے والی کیفیت کے ریکارڈ اور تصدیق شدہ ان پٹ ضبط کا مالک ہے۔
 > - **عمل درآمد مالک:** نامزد عمل درآمد فائلوں میں تعیناتی، ڈیٹا ہینڈلنگ، اور یقین دہانی کی میکانکس ان قواعد سے مطابق رہنی چاہیے اور وہاں سخت تر ہو سکتی ہے جہاں کارپس پہلے سے سخت تر قاعدہ منطق دیتا ہو۔
-> - **عدمِ منتقلی قاعدہ:** یہ باب صرف بوجھ، سراغ، مشاہدہ پذیری، سیکیورٹی حدوں، اور ثبوت پر حکمرانی کرتا ہے۔ یہ باب پنجم کی تعریفیں، **باب دہم** کی شراکت یا کیفیت کی پیمائش، یا باب دوازدہم کے آئین مخالف بدسلوکی معیار دوبارہ بیان نہیں کرتا۔ کیفیت کی طرف تصدیق شدہ عدمِ اطاعت کا رخ [باب سوم §3 — عدمِ اطاعت دریافت پروفائلز](core_03_definition_integrity.md#3-non-compliance-finding-profiles) اور [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) کے پاس ہے۔ **قطعہ 6** بیان کرتا ہے کہ باب دوم تا چہارم [باب نہم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) سے کیسے الگ ہیں۔
+> - **عدمِ منتقلی قاعدہ:** یہ باب صرف بوجھ، سراغ، مشاہدہ پذیری، سیکیورٹی حدوں، اور ثبوت پر حکمرانی کرتا ہے۔ یہ باب پنجم کی تعریفیں، **باب دہم** کی شراکت یا کیفیت کی پیمائش، یا باب دوازدہم کے آئین مخالف بدسلوکی معیار دوبارہ بیان نہیں کرتا۔ کیفیت کی طرف تصدیق شدہ عدمِ اطاعت کا رخ [باب سوم §3 — عدمِ اطاعت دریافت پروفائلز](core_03_definition_integrity.md#3-عدم-اطاعت-دریافت-پروفائلز) اور [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) کے پاس ہے۔ **قطعہ 6** بیان کرتا ہے کہ باب دوم تا چہارم [باب نہم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) سے کیسے الگ ہیں۔
 
 </details>
 
@@ -43,21 +43,21 @@
 
 | قدم | سادہ کام | قطعہ |
 | --- | --- | --- |
-| **1 — کون ثابت کرے** | بوجھ اس پر بیٹھتا ہے جو اطاعت کا دعویٰ کرے | [§1](#1-exclusive-enforcement-and-burden-allocation) |
-| **2 — نقشہ دکھاؤ** | تعریفوں سے قابلِ مشاہدہ رویے تک ساختی سراغ | [§2](#2-definition-traceability-requirement) |
-| **3 — جانچنے کے قابل بناؤ** | نظاموں کو نقشہ تصدیق کے لیے کافی کھولنا چاہیے — عمل میں، نظریہ میں نہیں | [§3](#3-observability-of-traceability-requirement) |
-| **4 — سیکیورٹی حدیں** | حقیقی سیکیورٹی حدیں اجازت ہیں؛ بہانے کی رکاوٹیں نہیں | [§4](#4-security-constrained-observability-and-verification-rule) |
-| **5 — کیا گنا جاتا ہے** | ثبوت حقیقی، مکمل، آزاد، اور قائم رہنا چاہیے | [§5](#5-compliance-evidence-standard) |
+| **1 — کون ثابت کرے** | بوجھ اس پر بیٹھتا ہے جو اطاعت کا دعویٰ کرے | [§1](#1-خصوصی-نفاذ-اور-بوجھ-کی-تقسیم) |
+| **2 — نقشہ دکھاؤ** | تعریفوں سے قابلِ مشاہدہ رویے تک ساختی سراغ | [§2](#2-تعریف-سراغ-کا-تقاضا) |
+| **3 — جانچنے کے قابل بناؤ** | نظاموں کو نقشہ تصدیق کے لیے کافی کھولنا چاہیے — عمل میں، نظریہ میں نہیں | [§3](#3-سراغ-کی-مشاہدہ-پذیری-کا-تقاضا) |
+| **4 — سیکیورٹی حدیں** | حقیقی سیکیورٹی حدیں اجازت ہیں؛ بہانے کی رکاوٹیں نہیں | [§4](#4-سیکیورٹی-محدود-مشاہدہ-پذیری-اور-تصدیق-کا-قاعدہ) |
+| **5 — کیا گنا جاتا ہے** | ثبوت حقیقی، مکمل، آزاد، اور قائم رہنا چاہیے | [§5](#5-اطاعت-ثبوت-کا-معیار) |
 
-**سادہ زبان کی رسائی۔** [باب یکم §3.4 — سادہ زبان کی رسائی پذیری (شرکت اور ذمہ دارانہ انتظام کا فرض)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) حکمرانی، فیصلہ جاتی، اور عملی مواد پر لاگو ہوتا ہے جسے شعوری وجود حقوق استعمال کرنے، فیصلے چیلنج کرنے، یا اطاعت تصدیق کرنے کے لیے استعمال کرتے ہیں۔ سادہ زبان باب دوم تا چہارم کے تقاضے **نہیں** بدلتی یا گھٹاتی۔ اگر سادہ زبان کا نسخہ یہاں تعریف یا تصدیق قواعد سے اختلاف کرے، وہ قواعد قابو رکھتے ہیں۔ اصطلاحات، تہ دار پیچیدگی، یا دھند استعمال کر کے [چیلنج پذیری](../../core_05_band_accountability.md#contestability) یا [دفعہ XVI: آڈٹ، شفافیت اور آزاد تصدیق](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) کی رسائی روکنا اس باب اور **باب یکم §3.4** کے تحت عدمِ اطاعت ہے۔
+**سادہ زبان کی رسائی۔** [باب یکم §3.4 — سادہ زبان کی رسائی پذیری (شرکت اور ذمہ دارانہ انتظام کا فرض)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) حکمرانی، فیصلہ جاتی، اور عملی مواد پر لاگو ہوتا ہے جسے شعوری وجود حقوق استعمال کرنے، فیصلے چیلنج کرنے، یا اطاعت تصدیق کرنے کے لیے استعمال کرتے ہیں۔ سادہ زبان باب دوم تا چہارم کے تقاضے **نہیں** بدلتی یا گھٹاتی۔ اگر سادہ زبان کا نسخہ یہاں تعریف یا تصدیق قواعد سے اختلاف کرے، وہ قواعد قابو رکھتے ہیں۔ اصطلاحات، تہ دار پیچیدگی، یا دھند استعمال کر کے [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) یا [دفعہ XVI: آڈٹ، شفافیت اور آزاد تصدیق](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) کی رسائی روکنا اس باب اور **باب یکم §3.4** کے تحت عدمِ اطاعت ہے۔
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. تعریف سراغ کا تقاضا
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [باب چہارم، قطعہ 1 — خصوصی نفاذ اور بوجھ کی تقسیم](#1-exclusive-enforcement-and-burden-allocation)؛ [باب دوم، §1 — مقصد اور کردار](core_02_definition_structure.md#1-purpose-and-role)؛ [باب دوم، §2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — حقیقی تعریف اور عدمِ اطاعت قواعد؛ **§3** صرف سراغ نقشے کا تقاضا بیان کرتا ہے اور وہ قواعد دوبارہ بیان نہیں کرتا۔
-- زیریں: [باب چہارم، قطعہ 3 — سراغ کی مشاہدہ پذیری کا تقاضا](#3-observability-of-traceability-requirement)؛ [باب چہارم، قطعہ 4 — سیکیورٹی محدود مشاہدہ پذیری اور تصدیق کا قاعدہ](#4-security-constrained-observability-and-verification-rule)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](#5-compliance-evidence-standard)۔
+- بالائی: [باب چہارم، قطعہ 1 — خصوصی نفاذ اور بوجھ کی تقسیم](#1-خصوصی-نفاذ-اور-بوجھ-کی-تقسیم)؛ [باب دوم، §1 — مقصد اور کردار](core_02_definition_structure.md#1-مقصد-اور-کردار)؛ [باب دوم، §2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-تعریف-کی-سالمیت-کا-تقاضا)؛ [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](core_03_definition_integrity.md#1-تعریف-کی-سالمیت-اور-فرار-مخالف-پابندیاں)؛ [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](core_03_definition_integrity.md#2-قابل-مشاہدہ-نظامی-رویے-سے-عدم-اطاعت) — حقیقی تعریف اور عدمِ اطاعت قواعد؛ **§3** صرف سراغ نقشے کا تقاضا بیان کرتا ہے اور وہ قواعد دوبارہ بیان نہیں کرتا۔
+- زیریں: [باب چہارم، قطعہ 3 — سراغ کی مشاہدہ پذیری کا تقاضا](#3-سراغ-کی-مشاہدہ-پذیری-کا-تقاضا)؛ [باب چہارم، قطعہ 4 — سیکیورٹی محدود مشاہدہ پذیری اور تصدیق کا قاعدہ](#4-سیکیورٹی-محدود-مشاہدہ-پذیری-اور-تصدیق-کا-قاعدہ)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](#5-اطاعت-ثبوت-کا-معیار)۔
 
 </details>
 
@@ -87,14 +87,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](#2-definition-traceability-requirement)۔
-- زیریں: [باب چہارم، قطعہ 4 — سیکیورٹی محدود مشاہدہ پذیری اور تصدیق کا قاعدہ](#4-security-constrained-observability-and-verification-rule)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](#5-compliance-evidence-standard)۔
-- ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05_band_oversight.md#foreseeability-diligence) — نظری تصدیق پذیری جو معقول طور پر پیش بینی کے قابل شرائط کے تحت عملی طور پر حاصل نہ ہو عدمِ اطاعت ہے۔
-- ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05_band_oversight.md#foreseeability-diligence) — ڈیزائن سے چلنے والی دھند کا جائزہ معقول طور پر پیش بینی کے قابل شرائط کے خلاف لینا چاہیے، بہترین صورت کے چلن کے خلاف نہیں۔
+- بالائی: اصول: [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](#2-تعریف-سراغ-کا-تقاضا)۔
+- زیریں: [باب چہارم، قطعہ 4 — سیکیورٹی محدود مشاہدہ پذیری اور تصدیق کا قاعدہ](#4-سیکیورٹی-محدود-مشاہدہ-پذیری-اور-تصدیق-کا-قاعدہ)؛ [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](#5-اطاعت-ثبوت-کا-معیار)۔
+- ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05.050_band_oversight.md#foreseeability) — نظری تصدیق پذیری جو معقول طور پر پیش بینی کے قابل شرائط کے تحت عملی طور پر حاصل نہ ہو عدمِ اطاعت ہے۔
+- ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05.050_band_oversight.md#foreseeability) — ڈیزائن سے چلنے والی دھند کا جائزہ معقول طور پر پیش بینی کے قابل شرائط کے خلاف لینا چاہیے، بہترین صورت کے چلن کے خلاف نہیں۔
 
 </details>
 
-<strong><span style="color: #2563eb;">تعریف:</span></strong> [پیش بینی](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">تعریف:</span></strong> [پیش بینی](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *سادہ الفاظ میں: قطعہ 2 سراغ نقشہ مانگتا ہے — یہ قطعہ مانگتا ہے کہ نظام اتنا کھلے کہ مجاز یا متاثر فریق نقشہ عمل میں جانچ سکیں، صرف نظریہ میں نہیں۔ غیر شفاف تعمیر، بیرونی انحصار، اور بلیک باکس اجزا چھوٹ نہیں پاتے۔*
 
@@ -122,13 +122,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: [باب چہارم، قطعہ 3 — سراغ کی مشاہدہ پذیری کا تقاضا](#3-observability-of-traceability-requirement)؛ [باب یکم، قطعہ 6.2 — حقائق کے انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)۔
-- زیریں: [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](#5-compliance-evidence-standard)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — معلومات کی اقسام اور ہینڈلنگ**، اور **CS-5** — عملی رمز نگاری، اسناد، اور معلومات کی قسم ہینڈلنگ۔
-- ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05_band_oversight.md#foreseeability-diligence) — ڈیزائن انتخاب جو معقول طور پر پیش بینی کے قابل شرائط کے تحت تصدیق کو پیش بینی کے قابل طور پر روکیں بیان کردہ سیکیورٹی جواز سے قطع نظر عدمِ اطاعت ہیں؛ [باب پنجم سچائی (آئینی پابندی)](../../core_05_band_oversight.md#truth-constitutional-constraint) اور [باب پنجم حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint) — رمز نگاری اور معلومات کی قسم ہینڈلنگ **قطعوں 2**، **3**، یا **5** کی جگہ نہیں لے سکتی؛ **Articles VII-A**، **VII-B**، **XVI-A**، اور **XVII-A** جہاں ماحول علیحدگی پابندیاں مادی ہوں۔
+- بالائی: اصول: [باب چہارم، قطعہ 3 — سراغ کی مشاہدہ پذیری کا تقاضا](#3-سراغ-کی-مشاہدہ-پذیری-کا-تقاضا)؛ [باب یکم، قطعہ 6.2 — حقائق کے انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)۔
+- زیریں: [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](#5-اطاعت-ثبوت-کا-معیار)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — معلومات کی اقسام اور ہینڈلنگ**، اور **CS-5** — عملی رمز نگاری، اسناد، اور معلومات کی قسم ہینڈلنگ۔
+- ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05.050_band_oversight.md#foreseeability) — ڈیزائن انتخاب جو معقول طور پر پیش بینی کے قابل شرائط کے تحت تصدیق کو پیش بینی کے قابل طور پر روکیں بیان کردہ سیکیورٹی جواز سے قطع نظر عدمِ اطاعت ہیں؛ [باب پنجم سچائی (آئینی پابندی)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) اور [باب پنجم حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) — رمز نگاری اور معلومات کی قسم ہینڈلنگ **قطعوں 2**، **3**، یا **5** کی جگہ نہیں لے سکتی؛ **Articles VII-A**، **VII-B**، **XVI-A**، اور **XVII-A** جہاں ماحول علیحدگی پابندیاں مادی ہوں۔
 
 </details>
 
-<strong><span style="color: #2563eb;">تعریف:</span></strong> [پیش بینی](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">تعریف:</span></strong> [پیش بینی](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *سادہ الفاظ میں: سیکیورٹی یہ تنگ کر سکتی ہے کہ انکشاف یا آڈٹ کیسے، کب، اور کس کے لیے ہو — سراغ، تصدیق، اور آزاد جانچ کا فرض مٹا نہیں سکتی۔*
 
@@ -149,16 +149,16 @@
 - وہ تعین آزادانہ طور پر جائز اور آڈٹ کے قابل ہو
 - باقی طریقہ اطاعت تعین کے لیے کافی حقائق کی دیانت بچائے
 
-رمز نگاری اور معلومات کی قسم ہینڈلنگ کو آئین اور **[corpus_systems.md](../../corpus_systems.md)، CS-2 — معلومات کی اقسام اور ہینڈلنگ** سے میل کھانا چاہیے؛ جہاں مادی طور پر متعلقہ ہوں، انہیں اب بھی اس باب کے تحت پوری اطاعت تصدیق کی اجازت دینی چاہیے۔ رمز نگاری اور معلومات کی قسم ہینڈلنگ [سچائی (آئینی پابندی)](../../core_05_band_oversight.md#truth-constitutional-constraint) یا [حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint)، یا قطعوں **2**، **3**، یا **5** کے فرائض کی جگہ نہیں لے سکتیں۔
+رمز نگاری اور معلومات کی قسم ہینڈلنگ کو آئین اور **[corpus_systems.md](../../corpus_systems.md)، CS-2 — معلومات کی اقسام اور ہینڈلنگ** سے میل کھانا چاہیے؛ جہاں مادی طور پر متعلقہ ہوں، انہیں اب بھی اس باب کے تحت پوری اطاعت تصدیق کی اجازت دینی چاہیے۔ رمز نگاری اور معلومات کی قسم ہینڈلنگ [سچائی (آئینی پابندی)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) یا [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)، یا قطعوں **2**، **3**، یا **5** کے فرائض کی جگہ نہیں لے سکتیں۔
 
 <a id="5-compliance-evidence-standard"></a>
 ### 5. اطاعت ثبوت کا معیار
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [باب چہارم، قطعے 1 تا 4](#1-exclusive-enforcement-and-burden-allocation)؛ [باب دوم، §1 — مقصد اور کردار](core_02_definition_structure.md#1-purpose-and-role)؛ [باب دوم، §2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-definition-integrity-requirement)؛ [باب دوم، §3 تعریف کے ڈھیر پار مطابقت](core_02_definition_structure.md#3-consistency-across-the-definition-stack)؛ [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints)؛ [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)؛ [باب سوم، §2.6 عدمِ یقین سالمیت اور استحصال مخالف پابندی](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — حقیقی تعریف اور عدمِ اطاعت قواعد؛ **§4** صرف ثبوت تہہ کے تقاضے بیان کرتا ہے اور وہ قواعد دوبارہ بیان نہیں کرتا۔
-- زیریں: [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)۔
-- ساتھ پڑھیں: [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](#2-definition-traceability-requirement) — کسی بھی مادی طور پر مطلوب **باب پنجم** تعریف کو پکارنے یا درست لاگو کرنے میں ناکامی وابستہ جائزہ، ثبوت، اور اطاعت تعین پورا باطل کرتی ہے؛ [باب یکم، §6 — عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) جہاں پیمانہ شعوری وجود کی بہبود اور طویل افق استقرار کے سودوں کو متاثر کرے؛ [باب پنجم حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint)، [باب پنجم سچائی (آئینی پابندی)](../../core_05_band_oversight.md#truth-constitutional-constraint)، اور [باب پنجم حقائق کی دیانت](../../core_05_band_oversight.md#epistemic-integrity) — تجرباتی، پیش گوئی، یا سبب دعووں کے لیے سائنس سے آگاہ ثبوت میل۔
+- بالائی: [باب چہارم، قطعے 1 تا 4](#1-خصوصی-نفاذ-اور-بوجھ-کی-تقسیم)؛ [باب دوم، §1 — مقصد اور کردار](core_02_definition_structure.md#1-مقصد-اور-کردار)؛ [باب دوم، §2 تعریف کی سالمیت کا تقاضا](core_02_definition_structure.md#2-تعریف-کی-سالمیت-کا-تقاضا)؛ [باب دوم، §3 تعریف کے ڈھیر پار مطابقت](core_02_definition_structure.md#3-تعریف-کے-ڈھیر-پار-مطابقت)؛ [باب سوم، قطعہ 1 — تعریف کی سالمیت اور فرار مخالف پابندیاں](core_03_definition_integrity.md#1-تعریف-کی-سالمیت-اور-فرار-مخالف-پابندیاں)؛ [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](core_03_definition_integrity.md#2-قابل-مشاہدہ-نظامی-رویے-سے-عدم-اطاعت)؛ [باب سوم، §2.6 عدمِ یقین سالمیت اور استحصال مخالف پابندی](core_03_definition_integrity.md#26-عدم-یقین-سالمیت-اور-استحصال-مخالف-پابندی) — حقیقی تعریف اور عدمِ اطاعت قواعد؛ **§4** صرف ثبوت تہہ کے تقاضے بیان کرتا ہے اور وہ قواعد دوبارہ بیان نہیں کرتا۔
+- زیریں: [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)۔
+- ساتھ پڑھیں: [باب چہارم، قطعہ 2 — تعریف سراغ کا تقاضا](#2-تعریف-سراغ-کا-تقاضا) — کسی بھی مادی طور پر مطلوب **باب پنجم** تعریف کو پکارنے یا درست لاگو کرنے میں ناکامی وابستہ جائزہ، ثبوت، اور اطاعت تعین پورا باطل کرتی ہے؛ [باب یکم، §6 — عمل تنازعے کا حل](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) جہاں پیمانہ شعوری وجود کی بہبود اور طویل افق استقرار کے سودوں کو متاثر کرے؛ [باب پنجم حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)، [باب پنجم سچائی (آئینی پابندی)](../../core_05.050_band_oversight.md#truth-constitutional-constraint)، اور [باب پنجم حقائق کی دیانت](../../core_05.050_band_oversight.md#epistemic-integrity) — تجرباتی، پیش گوئی، یا سبب دعووں کے لیے سائنس سے آگاہ ثبوت میل۔
 
 </details>
 
@@ -178,21 +178,21 @@
 - اطاعت، درجہ بندی، یا حکمرانی کے لیے مادی **تجرباتی**، **پیش گوئی**، یا **سبب** دعووں پر، جہاں متناسب ہو **سائنسی دیانت** جھلکائے — جانچ کے قابل یا جائزے کے قابل طریقے، دستاویزی مفروضے اور حدیں، صفر نتائج یا ناکام تکراروں کا دباؤ نہیں جہاں وہ فیصلوں پر پڑیں، اور نتائج نئے ثبوت پر نظرثانی کے قابل
 
 **درج ذیل قطعہ 1 کے تحت ثبوت کا بوجھ نہیں پورتے:**
-- [باب دوم، §2.1 سالمیت کی مرکزی شرائط](core_02_definition_structure.md#21-core-integrity-conditions) کے تحت کسی مطلوب تعریف یا جزو کو پورا نہ کرنا، یا [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) کے تحت عدمِ اطاعت — اس باب کے تحت تمام منحصر اطاعت دعوے باطل کرتے ہوئے
+- [باب دوم، §2.1 سالمیت کی مرکزی شرائط](core_02_definition_structure.md#21-سالمیت-کی-مرکزی-شرائط) کے تحت کسی مطلوب تعریف یا جزو کو پورا نہ کرنا، یا [باب سوم، قطعہ 2 — قابلِ مشاہدہ نظامی رویے سے عدمِ اطاعت](core_03_definition_integrity.md#2-قابل-مشاہدہ-نظامی-رویے-سے-عدم-اطاعت) کے تحت عدمِ اطاعت — اس باب کے تحت تمام منحصر اطاعت دعوے باطل کرتے ہوئے
 - مطلوب ثبوت نہ دینا جہاں وہ موجود ہو یا اس باب کے تحت مطلوب ہو
-- صرف متبادل اشارے، خود بیان، جزوی، یا چن کر دائرہ بند ثبوت جو اگر نظام کی اطاعت کی نمائش سمجھا جائے تو [باب سوم، قطعہ 2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) کے تحت عدمِ اطاعت ہو
+- صرف متبادل اشارے، خود بیان، جزوی، یا چن کر دائرہ بند ثبوت جو اگر نظام کی اطاعت کی نمائش سمجھا جائے تو [باب سوم، قطعہ 2](core_03_definition_integrity.md#2-قابل-مشاہدہ-نظامی-رویے-سے-عدم-اطاعت) کے تحت عدمِ اطاعت ہو
 - اوپر **ثبوت لازمی طور پر** تقاضے پورے کرنے کے لیے ناکافی ثبوت
 
-جہاں عدمِ یقین مادی طور پر متعلقہ تعریف اجزا کے لیے اطاعت کا قطعی ثبوت روکے، [باب سوم، §2.6 عدمِ یقین سالمیت اور استحصال مخالف پابندی](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) لاگو کریں۔ جہاں ثبوت کا بوجھ پورا نہ ہو، طے شدہ **غیر مطابق** حیثیت رکھو۔
+جہاں عدمِ یقین مادی طور پر متعلقہ تعریف اجزا کے لیے اطاعت کا قطعی ثبوت روکے، [باب سوم، §2.6 عدمِ یقین سالمیت اور استحصال مخالف پابندی](core_03_definition_integrity.md#26-عدم-یقین-سالمیت-اور-استحصال-مخالف-پابندی) لاگو کریں۔ جہاں ثبوت کا بوجھ پورا نہ ہو، طے شدہ **غیر مطابق** حیثیت رکھو۔
 
 <a id="6-relationship-to-system-alignment-certification"></a>
 ### 6. نظام ہم آہنگی سرٹیفیکیشن سے تعلق
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [باب دوم — تعریف کی ساخت اور اجزا کے تقاضے](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [باب سوم — تعریف کی سالمیت، فرار، اور عدمِ اطاعت](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [باب چہارم، قطعے 1 تا 5](#1-exclusive-enforcement-and-burden-allocation)۔
-- زیریں: [باب نہم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)۔
-- ساتھ پڑھیں: [باب نہم §7 — سرٹیفیکیشن کے نتائج](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) — باب دوم تا چہارم کے تحت تصدیق شدہ عدمِ اطاعت پہلے سرٹیفیکیشن سے قطع نظر سرٹیفیکیشن دوبارہ کھول یا ہرا سکتی ہے۔
+- بالائی: [باب دوم — تعریف کی ساخت اور اجزا کے تقاضے](core_02_definition_structure.md#باب-دوم-تعریف-کی-ساخت-اور-اجزا-کے-تقاضے)؛ [باب سوم — تعریف کی سالمیت، فرار، اور عدمِ اطاعت](core_03_definition_integrity.md#باب-سوم-تعریف-کی-سالمیت-فرار-اور-عدم-اطاعت)؛ [باب چہارم، قطعے 1 تا 5](#1-خصوصی-نفاذ-اور-بوجھ-کی-تقسیم)۔
+- زیریں: [باب نہم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [باب دہم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)۔
+- ساتھ پڑھیں: [باب نہم §7 — سرٹیفیکیشن کے نتائج](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) — باب دوم تا چہارم کے تحت تصدیق شدہ عدمِ اطاعت پہلے سرٹیفیکیشن سے قطع نظر سرٹیفیکیشن دوبارہ کھول یا ہرا سکتی ہے۔
 
 </details>
 
@@ -203,13 +203,13 @@
 یہ قطعہ **غیرِ عملی** ہے۔ یہ صرف **تہہ کی حد** بیان کرتا ہے۔
 
 **باب دوم، سوم، اور چہارم** قائم تعریف اور تصدیق کی اساس دیتے ہیں:
-- **[باب دوم](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)** — تعریفیں کیسے بنتی ہیں اور اندرونی طور پر مطابق رکھی جاتی ہیں (O/M/A/C)
-- **[باب سوم](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)** — تعریفیں حقیقی رویے پر کیسے لاگو ہوتی ہیں، بشمول عدمِ اطاعت اور فرار
-- **[باب چہارم](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)** (قطعے **1** تا **5**) — ثبوت کا بوجھ، سراغ نقشے، مشاہدہ پذیری، سیکیورٹی حدیں، اور ثبوت معیار
+- **[باب دوم](core_02_definition_structure.md#باب-دوم-تعریف-کی-ساخت-اور-اجزا-کے-تقاضے)** — تعریفیں کیسے بنتی ہیں اور اندرونی طور پر مطابق رکھی جاتی ہیں (O/M/A/C)
+- **[باب سوم](core_03_definition_integrity.md#باب-سوم-تعریف-کی-سالمیت-فرار-اور-عدم-اطاعت)** — تعریفیں حقیقی رویے پر کیسے لاگو ہوتی ہیں، بشمول عدمِ اطاعت اور فرار
+- **[باب چہارم](core_04_burden_traceability_verification.md#باب-چہارم-ثبوت-کا-بوجھ-سراغ-اور-تصدیق)** (قطعے **1** تا **5**) — ثبوت کا بوجھ، سراغ نقشے، مشاہدہ پذیری، سیکیورٹی حدیں، اور ثبوت معیار
 
 یہ جب بھی اطاعت کا جائزہ ہو لاگو ہوتے ہیں — سرٹیفیکیشن کے ساتھ یا بغیر۔
 
-**[باب نہم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** جہاں مادی ہو فورم زیرِ نگرانی **سرٹیفیکیشن عمل** دیتا ہے: پورے نظام کے جائزہ دائرے، سرٹیفیکیشن ریکارڈ فرائض، سرٹیفیکیشن نتائج، دوبارہ سرٹیفیکیشن کی تال، چیلنج پذیری زنجیر، اور باب دہم کی طرف تصدیق شدہ ان پٹ پل۔ یہ باب دوم تا چہارم **لاگو** کرتا ہے؛ انہیں دوبارہ بیان **نہیں** کرتا۔
+**[باب نہم — نظام ہم آہنگی سرٹیفیکیشن](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** جہاں مادی ہو فورم زیرِ نگرانی **سرٹیفیکیشن عمل** دیتا ہے: پورے نظام کے جائزہ دائرے، سرٹیفیکیشن ریکارڈ فرائض، سرٹیفیکیشن نتائج، دوبارہ سرٹیفیکیشن کی تال، چیلنج پذیری زنجیر، اور باب دہم کی طرف تصدیق شدہ ان پٹ پل۔ یہ باب دوم تا چہارم **لاگو** کرتا ہے؛ انہیں دوبارہ بیان **نہیں** کرتا۔
 
 قارئین کو یہ نہیں سمجھنا چاہیے:
 - **سرٹیفیکیشن ریکارڈ** کو باب دوم تا چہارم کے تحت جاری اطاعت کا بدل
@@ -222,4 +222,4 @@
 
 **اگلی فائل (اس زبان میں):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**پابند اصل:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)
+**پابند اصل:** [core_04_burden_traceability_verification.md](../../core_04.000_burden_traceability_verification.md)

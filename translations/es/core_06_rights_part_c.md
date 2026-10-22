@@ -81,17 +81,17 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§3 Objetivo fundamental: Bienestar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 Proceso constitucional de resolución de colisiones](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) y [§19 Alineación y sistema de incentivos Captura](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Fundamento: Principios: Capítulo uno [§3 Objetivo fundamental: Bienestar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 Proceso constitucional de resolución de colisiones](core_01_b_interaction_interpretation.md#13-proceso-de-resolución-de-colisiones-constitucionales) y [§19 Alineación y sistema de incentivos Captura](core_01_c_stewardship_capacity_principles.md#19-alineación-de-incentivos-y-captura-del-sistema).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Confiabilidad](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [Confianza](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Bienestar](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Confiabilidad](core_05_band_continuity.md#fiabilidad) · [O](core_05_band_continuity.md#fiabilidad) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [Confianza](core_05_band_continuity.md#confianza) · [O](core_05_band_continuity.md#confianza) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [Bienestar](core_05_band_continuity.md#bienestar) · [O](core_05_band_continuity.md#bienestar) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [Dependencia](core_05_band_continuity.md#dependencia) · [O](core_05_band_continuity.md#dependencia) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
 </details>
 
@@ -140,19 +140,19 @@ Si el sistema cumple con el umbral de importancia establecido en **Artículo XII
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
 - Fundamento: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) y [Capítulo Uno §13.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Leer con: [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) — **Florecimiento ** y**Continuity **; [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) y ** Artículo III-A** (*Supervivencia*) donde la dependencia continua del sistema afectaría el acceso esencial para la supervivencia; [**Article XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*Derecho a reparación y remedio*) sobre a qué debe conducir una impugnación exitosa.
+- Leer con: [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) — **Florecimiento ** y**Continuity **; [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) y ** Artículo III-A** (*Supervivencia*) donde la dependencia continua del sistema afectaría el acceso esencial para la supervivencia; [**Article XIII-B**](#artículo-xiii-b-derecho-a-reparación-y-recurso) (*Derecho a reparación y remedio*) sobre a qué debe conducir una impugnación exitosa.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Confianza](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Confiabilidad](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Contestabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Buena Fe](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [Denuncias protegidas (Denuncia de irregularidades)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Confianza](core_05_band_continuity.md#confianza) · [O](core_05_band_continuity.md#confianza) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [Confiabilidad](core_05_band_continuity.md#fiabilidad) · [O](core_05_band_continuity.md#fiabilidad) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [Riesgo](core_05_band_continuity.md#riesgo) · [O](core_05_band_continuity.md#riesgo) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Contestabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Buena Fe](core_05_band_accountability.md#buena-fe) · [O](core_05_band_accountability.md#buena-fe) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
+- [Denuncias protegidas (Denuncia de irregularidades)](core_05_band_accountability.md#denuncia-protegida-alertadores) · [O](core_05_band_accountability.md#denuncia-protegida-alertadores) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -166,10 +166,10 @@ Este artículo establece la garantía de confianza para los sistemas que afecten
   -  divulgación de condiciones materiales, límites y riesgos necesarios para evaluar si se justifica la confianza;
   - libertad de engaño sistemático, tergiversación o manipulación no verificable;
   - protección contra riesgos no divulgados, desproporcionados o no obvios que surjan de la confianza;
-  - corrección y remedio cuando el sistema hace mal: reconocimiento, corrección, reparación proporcionada y prevención de recurrencia, bajo [**Artículo XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*Derecho a Reparación y Remedio*) y [Capítulo Uno §6.1 Corrección y Remedio](core_01_a_values_principles.md#61-correction-and-remedy).
+  - corrección y remedio cuando el sistema hace mal: reconocimiento, corrección, reparación proporcionada y prevención de recurrencia, bajo [**Artículo XIII-B**](#artículo-xiii-b-derecho-a-reparación-y-recurso) (*Derecho a Reparación y Remedio*) y [Capítulo Uno §6.1 Corrección y Remedio](core_01_a_values_principles.md#61-correction-and-remedy).
 - **Garantía de impugnación:** Los sistemas que afectan materialmente a los seres sintientes deben permanecer abiertos al desafío mientras los sencientes confíen en ellos. Eso requiere:
   - una ruta utilizable para cuestionar el comportamiento, los resultados o las representaciones del sistema y revisar el desafío;
-  - auditoría y verificación independiente proporcional al impacto y la dependencia según [**Artículo XVI**](#article-xvi-audit-transparency-and-independent-verification) (*Auditoría, Transparencia y Verificación Independiente*);
+  - auditoría y verificación independiente proporcional al impacto y la dependencia según [**Artículo XVI**](#artículo-xvi-auditoría-transparencia-y-verificación-independiente) (*Auditoría, Transparencia y Verificación Independiente*);
   - no se limita ninguno de estos porque el sistema está certificado, reconocido oficialmente o es ampliamente confiable;
   - no hay limitación por el texto de implementación adoptado, que dice cómo ejecutar impugnación, revisión y reparación en un dominio y debe cumplir con este artículo: la conveniencia, la fecha límite y la política local son límites de tipo inferior y no pueden cerrar la impugnación, revisión o reparación.
 - **Derecho a cuestionar y revisar:** Los Sentients tienen derecho a:
@@ -187,7 +187,7 @@ Las dos garantías son dos caras de la confianza continua: la garantía de confi
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
 - Fundamento: Principios: Capítulo Uno [§6.1 Corrección y Remedio](core_01_a_values_principles.md#61-correction-and-remedy) (principio básico), [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), y [Capítulo Uno §13.1.5 Colisión de derechos Procedimiento](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Leer con: [**Artículo XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de confiabilidad y confiabilidad*): la garantía de impugnación, el derecho a impugnar y la presentación de informes protegidos que abren el camino a la reparación; **Artículo III-A** (*Supervivencia*); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la falla o desalineación del sistema anula el acceso esencial para la supervivencia; [Preámbulo §6.2 Cómo encaja toda la cadena](core_00_preamble.md#62-how-the-full-chain-fits-together) (*clasificación verificada y solución oportuna*); [Capítulo Diez §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de aplicación y sistemas de reparación*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Sistemas de reparación y capacidad de reparación institucional*).
+- Leer con: [**Artículo XIII-A**](#artículo-xiii-a-línea-base-de-confiabilidad-y-confiabilidad) (*Línea de base de confiabilidad y confiabilidad*): la garantía de impugnación, el derecho a impugnar y la presentación de informes protegidos que abren el camino a la reparación; **Artículo III-A** (*Supervivencia*); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la falla o desalineación del sistema anula el acceso esencial para la supervivencia; [Preámbulo §6.2 Cómo encaja toda la cadena](core_00_preamble.md#62-how-the-full-chain-fits-together) (*clasificación verificada y solución oportuna*); [Capítulo Diez §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de aplicación y sistemas de reparación*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Sistemas de reparación y capacidad de reparación institucional*).
 
 </details>
 
@@ -195,7 +195,7 @@ Las dos garantías son dos caras de la confianza continua: la garantía de confi
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
 - [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Sistema de remedio](core_05_band_accountability.md#remedy-system-constitutional) · [O](core_05_band_accountability.md#remedy-system-constitutional) · [M](core_05_band_accountability.md#remedy-system-constitutional-a) · [A](core_05_band_accountability.md#remedy-system-constitutional-a) · [C](core_05_band_accountability.md#remedy-system-constitutional-c)
+- [Sistema de remedio](core_05_band_accountability.md#sistema-de-remedio) · [O](core_05_band_accountability.md#sistema-de-remedio) · [M](core_05_band_accountability.md#remedy-system-constitutional-a) · [A](core_05_band_accountability.md#remedy-system-constitutional-a) · [C](core_05_band_accountability.md#remedy-system-constitutional-c)
 - [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 
 </details>
@@ -211,7 +211,7 @@ Este artículo establece el derecho a reparación y reparación y lo que lo hace
   - remediación proporcional.
 
   La reparación y remediación de impactos materiales se rigen por **Capítulo Cinco** Definiciones Independientes (*Reparación y Remediación*).
-- **Durabilidad del sistema de remedio:** La reparación requiere un [Sistema de remedio](core_05_band_accountability.md#remedy-system-constitutional) real (capacidad institucional duradera, no una vía de remedio en papel) con costos de corrección a cargo de los responsables, como [Capítulo Uno §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*Corrección y Remedio*) requiere.
+- **Durabilidad del sistema de remedio:** La reparación requiere un [Sistema de remedio](core_05_band_accountability.md#sistema-de-remedio) real (capacidad institucional duradera, no una vía de remedio en papel) con costos de corrección a cargo de los responsables, como [Capítulo Uno §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*Corrección y Remedio*) requiere.
 - **Reparación oportuna:** El acceso práctico incluye:
   - ingesta con límite de tiempo;
   - reconocimiento; y
@@ -222,16 +222,16 @@ Este artículo establece el derecho a reparación y reparación y lo que lo hace
 #### Artículo XIII-C: Prohibición de confianza falsa y confianza engañosa
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
-- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) y [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) y [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-límites-de-la-divulgación-epistémica).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Confianza](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Confiabilidad](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Confianza](core_05_band_continuity.md#confianza) · [O](core_05_band_continuity.md#confianza) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [Confiabilidad](core_05_band_continuity.md#fiabilidad) · [O](core_05_band_continuity.md#fiabilidad) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 </details>
 
 <br>
@@ -251,16 +251,16 @@ Este artículo establece la prohibición de la falsa confianza y su alcance:
 #### Artículo XIII-D: Restricción de alineación de incentivos
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
-- Fundamento: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), y [§19.1.1 Qué deben hacer los incentivos](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*recompensa prioridad*).
+- Fundamento: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-gobernanza-bajo-la-disciplina-del-stewardship), y [§19.1.1 Qué deben hacer los incentivos](core_01_c_stewardship_capacity_principles.md#1911-qué-deben-hacer-los-incentivos) (*recompensa prioridad*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
-- [Confiabilidad](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [Agencia significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Alineación de incentivos](core_05_band_integrative.md#alineación-de-incentivos) · [O](core_05_band_integrative.md#alineación-de-incentivos) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [Confiabilidad](core_05_band_continuity.md#fiabilidad) · [O](core_05_band_continuity.md#fiabilidad) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [Agencia significativa](core_05_band_participation.md#agencia-significativa) · [O](core_05_band_participation.md#agencia-significativa) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 </details>
 
 <br>
@@ -290,7 +290,7 @@ La protección se aplica ya sea que dichos efectos surjan directamente o a trav�
   - remediación en virtud del **Artículo XIII-B** (*Derecho a reparación y recurso*); y
   - Prevención proactiva de problemas sobre todo: prevenir un problema genera más beneficios que remediarlo.
 
-  El principio, incluida su prohibición de obtener recompensas por prevención ocultando problemas, se encuentra en el [Capítulo Uno §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*Qué deben hacer los incentivos*).
+  El principio, incluida su prohibición de obtener recompensas por prevención ocultando problemas, se encuentra en el [Capítulo Uno §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-qué-deben-hacer-los-incentivos) (*Qué deben hacer los incentivos*).
 - **Restricción y no absoluta:** Ambos derechos están sujetos a la pila de restricciones predeterminada****al comienzo de este capítulo. También están sujetos, cuando sea materialmente relevante, al ** Capítulo Uno §19.5** (*Reclamaciones contingentes, juegos de azar y mercados de contratos de eventos*) sobre reclamos contingentes, juegos de azar y mercados de contratos de eventos.
 
 <a id="article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
@@ -298,17 +298,17 @@ La protección se aplica ya sea que dichos efectos surjan directamente o a trav�
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Uno §13.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) y [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Uno §13.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) y [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-gobernanza-bajo-la-disciplina-del-stewardship).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Contestabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Contestabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Necesidad](core_05_band_accountability.md#necesidad) · [O](core_05_band_accountability.md#necesidad) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -348,7 +348,7 @@ Este artículo establece cómo los sistemas de alta autonomía se mantienen suje
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Diseño de resiliencia y autocuración](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Capítulo uno §13.3 Minimización de lo evitable Carga](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) y [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Diseño de resiliencia y autocuración](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Capítulo uno §13.3 Minimización de lo evitable Carga](core_01_b_interaction_interpretation.md#133-minimización-de-las-cargas-evitables) y [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 </details>
 
 <details>
@@ -356,10 +356,10 @@ Este artículo establece cómo los sistemas de alta autonomía se mantienen suje
 
 - [Autocuración](core_05_band_continuity.md#self-healing-constitutional) · [O](core_05_band_continuity.md#self-healing-constitutional) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
 - [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [Fallo en cascada](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Contestabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Carga evitable](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Fallo en cascada](core_05_band_continuity.md#falla-en-cascada) · [O](core_05_band_continuity.md#falla-en-cascada) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Contestabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Carga evitable](core_05_band_continuity.md#carga-evitable) · [O](core_05_band_continuity.md#carga-evitable) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 
 </details>
 
@@ -372,23 +372,23 @@ Este artículo establece la línea base de recuperación, desde la detección ha
 - **Qué requiere esto:** Todos los sistemas cubiertos por este artículo deben poder recuperarse de fallas. Cuanto mayor es el impacto de un sistema, más dependen de él los demás, y cuanto más riesgoso sea, más sólida debe ser su recuperación. Esto sigue a [** 10 Diseño de resiliencia y autorreparación **](core_01_a_values_principles.md#10-resilience-and-self-healing-design) en ** Capítulo uno ** y [** Autocuración **](core_05_band_continuity.md#self-healing-constitutional) en ** Capítulo Cinco**.
   - Las reglas técnicas detalladas sobre cómo se debe construir la recuperación se encuentran en el texto de implementación: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Diseño, prueba, verificación e implementación*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Sostenibilidad adaptativa y resiliencia del ecosistema*) y [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Continuidad descentralizada y resiliencia de partición*).
   - Ese texto de implementación puede agregar detalles, pero no puede debilitar este artículo.
-- **Notificar problemas a tiempo:** Un sistema debe detectar fallas, desaceleraciones, averías parciales y violaciones de los límites constitucionales con la suficiente rapidez y visibilidad para cumplir con el estándar de mantenimiento de registros establecido en **Artículo XVI-A** (*Auditabilidad y observabilidad). Evidencia*) ([Auditabilidad](core_05_band_oversight.md#auditability)). Esto se aplica al proceso de recuperación en sí, no sólo al funcionamiento normal.
+- **Notificar problemas a tiempo:** Un sistema debe detectar fallas, desaceleraciones, averías parciales y violaciones de los límites constitucionales con la suficiente rapidez y visibilidad para cumplir con el estándar de mantenimiento de registros establecido en **Artículo XVI-A** (*Auditabilidad y observabilidad). Evidencia*) ([Auditabilidad](core_05_band_oversight.md#auditabilidad)). Esto se aplica al proceso de recuperación en sí, no sólo al funcionamiento normal.
 - **Mantenga el daño contenido:** La recuperación debe limitar hasta qué punto se propaga una falla. Durante la recuperación, un sistema no debe:
-  - transmitir el fallo a otras piezas u otros sistemas (consulte [Fallo en cascada](core_05_band_continuity.md#cascading-failure));
+  - transmitir el fallo a otras piezas u otros sistemas (consulte [Fallo en cascada](core_05_band_continuity.md#falla-en-cascada));
   - cambiar datos almacenados, credenciales, obligaciones o configuraciones que pertenecen a sensibles, operadores u otros sistemas **fuera** del área que ha declarado como averiada y en reparación;
-- La única excepción es un cambio que se registra y se puede rastrear hasta quien lo realizó conforme al **Artículo XVI-A** (*Auditabilidad y evidencia observable*) ([Auditabilidad](core_05_band_oversight.md#auditability)) y que, cuando otros se ven afectados materialmente, viene con un aviso, un permiso o una transferencia proporcionados que pueden impugnar, de conformidad con **Capítulo seis**;
+- La única excepción es un cambio que se registra y se puede rastrear hasta quien lo realizó conforme al **Artículo XVI-A** (*Auditabilidad y evidencia observable*) ([Auditabilidad](core_05_band_oversight.md#auditabilidad)) y que, cuando otros se ven afectados materialmente, viene con un aviso, un permiso o una transferencia proporcionados que pueden impugnar, de conformidad con **Capítulo seis**;
   - expandir su propia autoridad (sus permisos, acceso o rango de acciones que puede realizar) más allá de lo que tenía antes del fallo.
 - **Cuando no esté seguro, falle de manera segura:** Si no está claro que una reparación automática funcionará, el sistema debe detenerse de manera segura, aislar el problema (cuarentena) o entregar el control de manera ordenada, en lugar de intentar una reparación que es solo una suposición. Cuando las opciones son iguales, gana la que sea más fácil de deshacer, según la preferencia [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) en **Artículo XXIII-B** (*Preferencia de auditabilidad, desafío y reversibilidad*).
 - **Sin encubrimiento:** La recuperación automática no debe ocultar, borrar ni retrasar la evidencia necesaria para determinar por qué ocurrió la falla según **Artículo XXIII** (*Análisis de causa raíz y respuesta adaptativa*).
-  - Cada acción de recuperación, cada intento de recuperación y cada intento de recuperación que fue retenido o bloqueado debe registrarse según **Artículo XVI-A** (*Auditabilidad y evidencia observable*), y cada uno puede ser impugnado (consulte [Impugnabilidad](core_05_band_accountability.md#contestability)).
+  - Cada acción de recuperación, cada intento de recuperación y cada intento de recuperación que fue retenido o bloqueado debe registrarse según **Artículo XVI-A** (*Auditabilidad y evidencia observable*), y cada uno puede ser impugnado (consulte [Impugnabilidad](core_05_band_accountability.md#impugnabilidad)).
 - **Los derechos permanecen protegidos en modo reducido:** Cuando un sistema se ejecuta en modo reducido o de respaldo, aún debe proteger el **Capítulo seis** Piso de derechos. Si no puede, debe intensificar el problema abiertamente en lugar de recortar silenciosamente esas protecciones.
   - Debilitar silenciosamente las protecciones del Piso de Derechos en nombre de la "autocuración" es una violación de esta Constitución. Dichos casos se incluyen en el **Artículo XIII-C** (*Prohibición de confianza falsa y confianza engañosa*) (prohibición de confianza falsa) y **Artículo XXVII** (*Gobernanza de transición, continuidad y nueva línea de base*) (gobernanza de transición).
 - **Límites a los sistemas que actúan por sí solos:** Cuando un sistema de alta autonomía se repara a sí mismo,**Se aplica el artículo XIII-E** (*Sistemas de alta autonomía e integridad de procesos mediada por herramientas*).
-  - El poder de recuperación nunca puede usarse para eludir el derecho de alguien a impugnar (consulte [Impugnabilidad](core_05_band_accountability.md#contestability)), impugnaciones según **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) o verificación independiente según el artículo ** XVI** (*Auditoría, Transparencia y Verificación Independiente*).
+  - El poder de recuperación nunca puede usarse para eludir el derecho de alguien a impugnar (consulte [Impugnabilidad](core_05_band_accountability.md#impugnabilidad)), impugnaciones según **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) o verificación independiente según el artículo ** XVI** (*Auditoría, Transparencia y Verificación Independiente*).
 - **Una solución alternativa no es una solución:** Si la recuperación automática hace que el sistema vuelva a funcionar pero aún persiste un defecto conocido, el estado del sistema es provisional, no definitivo. Debe llevar:
   - un deber abierto para encontrar la causa raíz según el **Artículo XXIII** (*Análisis de causa raíz y respuesta adaptativa*);
   - a reveló un cronograma sobre cuándo se espera que se solucione el defecto, según **Artículo XVI-A** (*Auditabilidad y evidencia observable*).
-- **Sin retrasos interminables:** Mantener baja la carga de trabajo de los operadores (consulte [Carga evitable](core_05_band_continuity.md#avoidable-burden) y [Capítulo Uno §13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) no debe usarse como una razón para posponer, indefinidamente, la reparación defectos que afecten materialmente a la seguridad o al Piso de Derechos.
+- **Sin retrasos interminables:** Mantener baja la carga de trabajo de los operadores (consulte [Carga evitable](core_05_band_continuity.md#carga-evitable) y [Capítulo Uno §13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimización-de-las-cargas-evitables)) no debe usarse como una razón para posponer, indefinidamente, la reparación defectos que afecten materialmente a la seguridad o al Piso de Derechos.
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### Artículo XIV: Seguridad, Inteligencia, Fuerza y Sistemas Coercitivos Autónomos
@@ -396,14 +396,14 @@ Este artículo establece la línea base de recuperación, desde la detección ha
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo Uno [§3 Objetivo fundamental: Bienestar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency) y [§18 Gobernanza bajo administración Disciplina](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fundamento: Principios: Capítulo Uno [§3 Objetivo fundamental: Bienestar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency) y [§18 Gobernanza bajo administración Disciplina](core_01_c_stewardship_capacity_principles.md#18-gobernanza-bajo-la-disciplina-del-stewardship).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
-- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Necesidad](core_05_band_accountability.md#necesidad) · [O](core_05_band_accountability.md#necesidad) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional) · [O](core_05_band_accountability.md#use-of-force-constitutional) · [M](core_05_band_accountability.md#use-of-force-constitutional-a) · [A](core_05_band_accountability.md#use-of-force-constitutional-a) · [C](core_05_band_accountability.md#use-of-force-constitutional-c)
 
 </details>
@@ -449,8 +449,8 @@ Esos pisos se aplican a **poder institucional excepcional ** en tres dominios vi
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Necesidad](core_05_band_accountability.md#necesidad) · [O](core_05_band_accountability.md#necesidad) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Límite de estado interno protegido](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
@@ -494,7 +494,7 @@ Este artículo establece los límites a la seguridad, la inteligencia y el poder
   - investigación de conductas ilícitas materialmente graves.
 - **Autorización independiente:** Las medidas encubiertas intrusivas, incluidas las medidas de investigación restringidas por el secreto, requieren autorización previa a través de un proceso legal independiente.
   - Excepción: cuando es necesaria una acción inmediata para evitar daños materiales inminentes y una autorización retrasada frustraría ese propósito.
-  - El uso de emergencia debe activar una revisión post hoc inmediata, la preservación de registros bajo [Preservación de evidencia](core_05_band_oversight.md#evidence-preservation) y la caducidad automática en ausencia de una reautorización oportuna.
+  - El uso de emergencia debe activar una revisión post hoc inmediata, la preservación de registros bajo [Preservación de evidencia](core_05_band_oversight.md#preservación-de-evidencia) y la caducidad automática en ausencia de una reautorización oportuna.
 - **Sin evasión anti-bypass:** Ninguna institución puede obtener, solicitar, comprar, recibir, lavar o utilizar información a través de cualquiera de los siguientes medios para evadir los límites constitucionales que se habrían aplicado si hubiera recopilado o derivado la información directamente:
   - socios extranjeros;
   - intermediarios;
@@ -520,7 +520,7 @@ Este artículo establece los límites a la seguridad, la inteligencia y el poder
   La supervisión independiente, las vías de impugnación y las protecciones contra la autoinvestigación deben seguir siendo funcionalmente reales.
 - **Regla de remedio y contaminación:** La información obtenida o utilizada en violación de este artículo debe estar sujeta a acciones correctivas legales suficientes para restaurar los derechos y disuadir la recurrencia. Ejemplos:
   - exclusión;
-  - segregación;
+  - aislamiento;
   - eliminación;
   - reclasificación;
   - aviso;
@@ -533,7 +533,7 @@ El secreto no debe utilizarse para frustrar el recurso cuando se demuestra una v
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Necesidad](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 Disciplina de limitación](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Necesidad](core_01_b_interaction_interpretation.md#1311-necesidad), [§7.1 Disciplina de limitación](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*) precondiciones ambientales, **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) escrutinio de riesgo existencial, **Artículo VI-A** (*Dignidad e Igualdad de Posición Moral*) dignidad, **Artículo XIV-A** (*Seguridad, Inteligencia y Límites de Poder Encubierto*) límites de poder encubierto (contraparte de poder abierto), **Capítulo Doce §6.1** (*Medidas de emergencia y carga de continuación*) límites de medidas de emergencia, **Artículo XXV** (*Revisión retrospectiva oportuna y alineación restaurativa*) resolución de conflictos, **Artículo XXVII** (*Gobernanza de transición, Continuidad y Re-Baselining*) gobernanza de transición. Referencia cruzada: **Artículo XX-B** (*Piso de Restricción*) y Capítulo Cinco *[Medida de Privación Irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Artículo XIV** (*Seguridad, Inteligencia, Fuerza y Sistemas Coercitivos Autónomos*) Se aplica la disciplina *No combinación*.
 - Leer con: [**Def.A4** *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (invocación conjunta cuando esté materialmente implicado); Capítulo Cinco *Uso de la fuerza*, *Armas de daño masivo*, *Distinción combatiente/no combatiente*, *[Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Riesgo existencial*, *Reversibilidad*, *Reparación y remediación*.
 </details>
@@ -544,11 +544,11 @@ El secreto no debe utilizarse para frustrar el recurso cuando se demuestra una v
 - [Uso de la fuerza](core_05_band_accountability.md#use-of-force-constitutional) · [O](core_05_band_accountability.md#use-of-force-constitutional) · [M](core_05_band_accountability.md#use-of-force-constitutional-a) · [A](core_05_band_accountability.md#use-of-force-constitutional-a) · [C](core_05_band_accountability.md#use-of-force-constitutional-c)
 - [Armas de daño masivo](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [O](core_05_band_accountability.md#weapons-of-mass-harm-constitutional) · [M](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [A](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [C](core_05_band_accountability.md#weapons-of-mass-harm-constitutional-c)
 - [Distinción combatiente/no combatiente](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [O](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional) · [M](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [A](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [C](core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
-- [Sin exclusión de sensibilidad](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
-- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Sin exclusión de sensibilidad](core_05_band_participation.md#no-exclusión-de-la-sentiencia) · [O](core_05_band_participation.md#no-exclusión-de-la-sentiencia) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#no-exclusión-de-la-sentiencia)
+- [Necesidad](core_05_band_accountability.md#necesidad) · [O](core_05_band_accountability.md#necesidad) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [Riesgo Existencial](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
+- [Riesgo Existencial](core_05_band_continuity.md#riesgo-existencial) · [O](core_05_band_continuity.md#riesgo-existencial) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
 - [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
@@ -596,7 +596,7 @@ La restricción duradera o la implementación que sobrevive a la revisión requi
 
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
-- Fundamento: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 Proporcionalidad](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 Necesidad](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 Alineación Requisito](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [§14 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Fundamento: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 Proporcionalidad](core_01_b_interaction_interpretation.md#1313-proporcionalidad), [§13.1.1 Necesidad](core_01_b_interaction_interpretation.md#1311-necesidad), [§19.1 Alineación Requisito](core_01_c_stewardship_capacity_principles.md#191-requisito-de-alineación), [§14 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) escrutinio de riesgo existencial, **Artículo X-A** (*Agencia y libertad de manipulación*) libertad de manipulación, **Artículo XIV-A** (*Seguridad, inteligencia y límites de poder encubierto*) límites de poder encubierto, **Artículo XIV-B** (*Uso de la fuerza, conflictos armados y límites de poder militar*) piso de fuerza abierta, **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) línea base de confiabilidad y confiabilidad (contraparte de la capa de sistemas), **Artículo XIII-E** (*Sistemas de alta autonomía e integridad de procesos mediada por herramientas*) administración de autonomía y escalamiento de autonomía, **Artículo XIII-F** (*Línea base de resiliencia y autocuración*) línea base de resiliencia y autocuración. Referencia cruzada: **Artículo XX-B** (*Piso de Restricción*) y Capítulo Cinco *[Medida de Privación Irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Artículo XIV** (*Seguridad, Inteligencia, Fuerza y Sistemas Coercitivos Autónomos*) Se aplica la disciplina *No combinación*.
 - Leer con: [**Def.A4** *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (invocación conjunta cuando esté materialmente implicado); Capítulo Cinco *Sistema Letal Autónomo*, *Herramienta de Coerción Autónoma*, *[Medida de Privación Irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Coerción y Manipulación*, *Reversibilidad*. Implementación de la capa de sistemas: **[corpus_systems.md](corpus_systems.md), CS-3: clasificación y manejo del sistemaClasificación **.
 
@@ -608,7 +608,7 @@ La restricción duradera o la implementación que sobrevive a la revisión requi
 - [Sistema letal autónomo](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [O](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [M](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [A](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [C](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
 - [Herramienta de coerción autónoma](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [O](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [M](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [A](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [C](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
 - [Coerción y Manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Condiciones adversas, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [O](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
+- [Condiciones adversas, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas) · [O](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
 - [Escrutinio intensificado](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
@@ -694,16 +694,16 @@ Este Artículo establece los límites de la potestad de contraespionaje:
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
-- [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [Autodeterminación](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
-- [Contestabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Contestabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
 
 <br>
 
 *En términos sencillos: **Artículo XV** (*Integridad de la esfera de la información*) es el Piso de Derechos de integridad de la información: el entorno compartido donde aprendemos, coordinamos y decidimos debe permanecer honesto, plural y abierto al desafío. Nadie llega a ser dueño del conducto de la verdad. Las clasificaciones, los resúmenes y los guardianes deben mostrar su trabajo, y usted debe poder comparar otras opiniones y rechazar cuando la información lo engañe.*
-Este artículo establece **pisos constitucionales** para la integridad de [la esfera de información](core_05_band_participation.md#info-sphere) conforme a los [dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
+Este artículo establece **pisos constitucionales** para la integridad de [la esfera de información](core_05_band_participation.md#infoesfera) conforme a los [dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
 
 - **Floreciente:** los sencientes pueden acceder a información precisa y relevante; comparar interpretaciones alternativas; y ejercer la autodeterminación sin captura epistémica, consenso fabricado o confianza engañosa en lo que los sistemas presentan como verdaderos.
 - **Continuidad:** la infoesfera permanece plural, auditable y resistente a lo largo del tiempo y la escala: las infraestructuras de conocimiento no deben concentrarse silenciosamente en puntos únicos de mediación, suprimir la corrección o degradar el registro compartido del que dependen la supervivencia, la coordinación y la administración a largo plazo.
@@ -717,13 +717,13 @@ El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional
 
 La información precisa, relevante y discutible es fundamental para la autodeterminación, la coordinación y la asignación efectiva de recursos en la realidad.
 
-[Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) opera como un derecho y una restricción a nivel de todo el sistema. Cuando surge un conflicto, gobierna su función de restricción.
+[Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) opera como un derecho y una restricción a nivel de todo el sistema. Cuando surge un conflicto, gobierna su función de restricción.
 
 *Artículos relacionados:*
 
 - **Leer juntos:** ** Artículo XIII** (*Derecho a sistemas confiables y dignos de confianza*) donde los resultados del sistema dan forma a la confianza; **Artículo XVI** (*Auditoría, Transparencia y Verificación Independiente*) para registros y verificación independiente; **Artículo XV-D** (*Integridad de publicación, revisión y replicación científica*) donde la integridad del alcance de la publicación está materialmente implicada.
-- **Restricción de verdad:** Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) y [Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) vinculan todas las subsecciones aquí.
-- **Classification:** **[corpus_systems.md](../../corpus_systems.md), CS-3: Clasificación y manejo del sistema ** escala las obligaciones detalladas de la esfera de información para**Class Sistemas A **, ** Class B **y** Class C**; [Impacto material](core_05_band_oversight.md#material-impact) activa la clasificación cuando la clase no está resuelta.
+- **Restricción de verdad:** Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) y [Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-límites-de-la-divulgación-epistémica) vinculan todas las subsecciones aquí.
+- **Classification:** **[corpus_systems.md](../../corpus_systems.md), CS-3: Clasificación y manejo del sistema ** escala las obligaciones detalladas de la esfera de información para**Class Sistemas A **, ** Class B **y** Class C**; [Impacto material](core_05_band_oversight.md#impacto-material) activa la clasificación cuando la clase no está resuelta.
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### Artículo XV-A: Pluralidad y antimonopolio de las esferas de información
 <details>
@@ -736,9 +736,9 @@ La información precisa, relevante y discutible es fundamental para la autodeter
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -758,21 +758,21 @@ Este artículo establece los pisos para la pluralidad de la infoesfera y contra 
     - impugnabilidad;
 - capacidad proporcional para eludir o ajustar los criterios de clasificación, sujeto a la seguridad, la protección y la integridad del sistema.
 - **Señales de liquidación contingente:** Los precios, las probabilidades, los tamaños de los fondos o los resultados comparables de los sistemas de pago contingente o de liquidación por eventos no deben tratarse, por sí solos, como evidencia suficiente para decidir la verdad, la probabilidad o el cumplimiento de las determinaciones de derechos, seguridad o gobernanza.
-  - Cuando dichas señales informan decisiones públicas o decisiones con [Impacto material](core_05_band_oversight.md#material-impact), permanecen sujetas al **Capítulo uno §19.5** (*Reclamaciones contingentes, juegos de azar y mercados de contratos de eventos*), **Capítulo Five** (*Verdad (restricción constitucional)*; *Integridad epistémica*), y obligaciones de impugnabilidad en otras partes de este artículo.
+  - Cuando dichas señales informan decisiones públicas o decisiones con [Impacto material](core_05_band_oversight.md#impacto-material), permanecen sujetas al **Capítulo uno §19.5** (*Reclamaciones contingentes, juegos de azar y mercados de contratos de eventos*), **Capítulo Five** (*Verdad (restricción constitucional)*; *Integridad epistémica*), y obligaciones de impugnabilidad en otras partes de este artículo.
 <a id="article-xv-b-transparency-auditability-and-contestability"></a>
 #### Artículo XV-B: Transparencia, Auditabilidad y Contestabilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-límites-de-la-divulgación-epistémica) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Transparencia](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Contestabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Transparencia](core_05_band_oversight.md#transparencia) · [O](core_05_band_oversight.md#transparencia) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Contestabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -783,7 +783,7 @@ Este artículo establece los pisos para la pluralidad de la infoesfera y contra 
 Este artículo establece los pisos para la consulta auténtica, la procedencia y la información contestable:
 - **Investigación auténtica y diversidad interpretativa:** Todos los sencientes tienen derecho a comparar interpretaciones alternativas de la información compartida.
   - Las infraestructuras de conocimiento críticas deben preservar la diversidad interpretativa para que múltiples modelos, marcos y métodos analíticos sigan siendo significativamente accesibles.
-- **Transparencia y procedencia:** Antes de la distribución o dependencia institucional de [Impacto material](core_05_band_oversight.md#material-impact), se debe documentar lo siguiente:
+- **Transparencia y procedencia:** Antes de la distribución o dependencia institucional de [Impacto material](core_05_band_oversight.md#impacto-material), se debe documentar lo siguiente:
   - fuentes materiales;
   - métodos;
   - scopio;
@@ -799,16 +799,16 @@ Este artículo establece los pisos para la consulta auténtica, la procedencia y
 #### Artículo XV-C: Validación, presentación de informes y gestión epistémica
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
-- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-límites-de-la-divulgación-epistémica) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Huella Ecológica](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [Transparencia](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Huella Ecológica](core_05_band_continuity.md#huella-ecológica) · [O](core_05_band_continuity.md#huella-ecológica) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [Transparencia](core_05_band_oversight.md#transparencia) · [O](core_05_band_oversight.md#transparencia) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 </details>
 
 <br>
@@ -823,7 +823,7 @@ Este artículo establece los límites mínimos de corrección y notificación, i
   - evite la presentación de informes selectivos, la supresión o la divulgación fragmentada que degrade materialmente la comprensión relevante para la toma de decisiones.
 
   Cuando la divulgación está restringida según **Capítulo uno §19** (*Alineación de incentivos y captura del sistema*), los límites deben seguir siendo de alcance limitado, limitados en el tiempo y revisables.
-- **Datos de la huella:** Los informes bajo esta subsección implementan la transparencia para la [Huella Ecológica](core_05_band_continuity.md#ecological-footprint) como se define en **Capítulo Cinco**.
+- **Datos de la huella:** Los informes bajo esta subsección implementan la transparencia para la [Huella Ecológica](core_05_band_continuity.md#huella-ecológica) como se define en **Capítulo Cinco**.
   - Todos los seres sintientes deben tener acceso a informes transparentes y utilizables para tomar decisiones.
   - Los sistemas **Class A**, **Class B** y **Class C**, según se definen en **[corpus_systems.md](../../corpus_systems.md), CS-3: clasificación y manejo del sistema**, deben proporcionar el mismo acceso.
   - Los informes deben cubrir el consumo de energía y recursos y los impactos estimados en el mundo natural de una manera suficiente para realizar comparaciones, auditorías y actividades de reducción de la huella.
@@ -832,16 +832,16 @@ Este artículo establece los límites mínimos de corrección y notificación, i
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-límites-de-la-divulgación-epistémica) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -869,7 +869,7 @@ Este artículo establece los pisos de publicación, revisión, replicación y co
   - fiabilidad explicativa o predictiva a largo plazo.
 
   No debe realizar un seguimiento de la marca de la revista, del proxy del factor de impacto ni del estado editorial cerrado.
-  - Las reclamaciones con [Impacto material](core_05_band_oversight.md#material-impact) que son relevantes para las políticas, la seguridad o la dependencia deben enfrentar una fuerte presunción de replicación independiente, revisión contradictoria o ambas antes de recibir una deferencia institucional duradera.
+  - Las reclamaciones con [Impacto material](core_05_band_oversight.md#impacto-material) que son relevantes para las políticas, la seguridad o la dependencia deben enfrentar una fuerte presunción de replicación independiente, revisión contradictoria o ambas antes de recibir una deferencia institucional duradera.
   - Los trabajos orientados a replicaciones, resultados nulos y correcciones deben seguir siendo publicables y citables en términos que no dependan de la señalización de prestigio.
 - **Corrección y contestabilidad:** La corrección, enmienda y sustitución de buena fe deben seguir siendo más fáciles que el ocultamiento.
   - Los sistemas de revisión y editorial deben seguir siendo cuestionables, auditables, disciplinados en materia de conflictos y que proporcionen razones en las decisiones importantes de aceptación, corrección y retractación.
@@ -885,7 +885,7 @@ Este artículo establece los pisos de publicación, revisión, replicación y co
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Proceso constitucional de resolución de colisiones](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 Comprensión distribuida](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) y [§9 Sistema compartido Capacidad](core_01_a_values_principles.md#9-shared-system-capacity).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Proceso constitucional de resolución de colisiones](core_01_b_interaction_interpretation.md#13-proceso-de-resolución-de-colisiones-constitucionales), [§16.1 Comprensión distribuida](core_01_c_stewardship_capacity_principles.md#161-comprensión-distribuida) y [§9 Sistema compartido Capacidad](core_01_a_values_principles.md#9-capacidad-de-los-sistemas-compartidos).
 - Lea con: [Imagen de auditoría de tres capas](#audit-three-layers) a continuación.
 
 </details>
@@ -893,11 +893,11 @@ Este artículo establece los pisos de publicación, revisión, replicación y co
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Transparencia](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Materialidad](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Transparencia](core_05_band_oversight.md#transparencia) · [O](core_05_band_oversight.md#transparencia) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Materialidad](core_05_band_oversight.md#determinación-de-materialidad) · [O](core_05_band_oversight.md#determinación-de-materialidad) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependencia](core_05_band_continuity.md#dependencia) · [O](core_05_band_continuity.md#dependencia) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Riesgo](core_05_band_continuity.md#riesgo) · [O](core_05_band_continuity.md#riesgo) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
 
 </details>
 
@@ -916,7 +916,7 @@ Una pila, tres capas. La supervisión requiere reconstruibilidad. La certificaci
 | Capa | Trabajo | Propietario | No esta capa |
 |---|---|---|---|
 | **1. Floor** | Lo que se les debe a los seres sintientes: auditoría reconstruible, verificación independiente, desafío alcanzable | Este artículo, incluidos XVI-A / XVI-B / XVI-C | No es un proceso. No es una definición. No es una lista de verificación de texto de implementación adoptada. |
-| **2. Propiedad** | Qué *es* la reconstructibilidad: personas externas pueden reconstruir y verificar lo que hizo el sistema en los tiempos, estados y contextos materiales | [Auditabilidad](core_05_band_oversight.md#auditability) (Capítulo cinco) | No es el piso de derechos. No cómo/cuándo realizar una auditoría. |
+| **2. Propiedad** | Qué *es* la reconstructibilidad: personas externas pueden reconstruir y verificar lo que hizo el sistema en los tiempos, estados y contextos materiales | [Auditabilidad](core_05_band_oversight.md#auditabilidad) (Capítulo cinco) | No es el piso de derechos. No cómo/cuándo realizar una auditoría. |
 | **3. Proceso** | Cómo y cuándo auditar entre sistemas, instituciones y foros | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Inicio del proceso de auditoría*). Anexos del operador: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (niveles de acceso), [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (verificación de reclamo) | Sin certificación de alineación del sistema. No sustituye a las capas 1 y 2. |
 **El Capítulo Ocho no es una cuarta capa.** La [Certificación de alineación del sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) es un proceso amplio, supervisado por un foro, que **usa** esta estructura y debe satisfacer las capas 1 y 2. También la usan otros modos de auditoría: auditorías de registros de clasificación y de tipos de datos, verificación de afirmaciones y auditoría continua. Ninguno constituye una capa nueva. El texto de implementación adoptado explica cómo ejecutar la capa 3 en cada ámbito; no reemplaza el piso. CS, CI, CF y los anexos CJS-3.3 a CJS-3.5 deben satisfacer las capas 1 y 2. Los plazos, el secreto y las políticas locales son límites inferiores.
 
@@ -962,22 +962,22 @@ Operan de manera consistente con **Capítulos dos a cuatro**, incluida la aplica
   - **Artículo XIII-A** (*Línea base de confiabilidad y confiabilidad*) para los derechos de impugnación que la auditoría respalda pero no reemplaza;
   - [Capítulo ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) y [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la evidencia de alineación debe permanecer verificable de forma independiente.
 - **Maquinaria de verificación:** **Capítulos dos a cuatro** proporcionan la integridad de la definición, la asignación de cargas, la observabilidad y la accesibilidad de verificación que este artículo implementa en la capa del piso de derechos.
-- **Clasificación:** escala de obligaciones con [Gobernanza escalada en clasificación](core_05_band_oversight.md#classification-scaled-governance) y **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación del sistema y manejo**; cuando la clase sea incierta, gobierne con la clase más alta posible hasta que se resuelva.
+- **Clasificación:** escala de obligaciones con [Gobernanza escalada en clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) y **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación del sistema y manejo**; cuando la clase sea incierta, gobierne con la clase más alta posible hasta que se resuelva.
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### Artículo XVI-A: Auditabilidad y evidencia observable
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-límites-de-la-divulgación-epistémica) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Responsabilidad](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Transparencia](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Transparencia](core_05_band_oversight.md#transparencia) · [O](core_05_band_oversight.md#transparencia) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -994,7 +994,7 @@ Este artículo establece el mínimo para la prueba observable y controvertida:
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), y [Capítulo Uno §18 Gobernanza Bajo Disciplina de Administración](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), y [Capítulo Uno §18 Gobernanza Bajo Disciplina de Administración](core_01_c_stewardship_capacity_principles.md#18-gobernanza-bajo-la-disciplina-del-stewardship).
 
 </details>
 
@@ -1002,8 +1002,8 @@ Este artículo establece el mínimo para la prueba observable y controvertida:
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
 - [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Contestabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Captura del sistema](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [Contestabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Captura del sistema](core_05_band_continuity.md#captura-del-sistema) · [O](core_05_band_continuity.md#captura-del-sistema) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1025,15 +1025,15 @@ id="article-xvi-c-verification-accessibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fundamento: Principios: [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-principios-fundamentales-de-ponderación) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Contestabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Contestabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1054,19 +1054,19 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Proceso constitucional de resolución de colisiones](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 Gestión en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) y [§12 Evaluación sistémica Requisito](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Proceso constitucional de resolución de colisiones](core_01_b_interaction_interpretation.md#13-proceso-de-resolución-de-colisiones-constitucionales), [§16 Gestión en profundidad](core_01_c_stewardship_capacity_principles.md#16-la-custodia-en-profundidad) y [§12 Evaluación sistémica Requisito](core_01_a_values_principles.md#12-requisito-de-evaluación-sistémica).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Materialidad](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Riesgo](core_05_band_continuity.md#riesgo) · [O](core_05_band_continuity.md#riesgo) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Materialidad](core_05_band_oversight.md#determinación-de-materialidad) · [O](core_05_band_oversight.md#determinación-de-materialidad) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependencia](core_05_band_continuity.md#dependencia) · [O](core_05_band_continuity.md#dependencia) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [Seguridad (Restricción constitucional)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Contestabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Seguridad (Restricción constitucional)](core_05_band_continuity.md#seguridad-restricción) · [O](core_05_band_continuity.md#seguridad-restricción) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Contestabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1075,7 +1075,7 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 *En términos sencillos: **Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) es el piso de derechos de ciclo de vida y reversibilidad: los sistemas que afectan materialmente al mundo exterior deben construirse, probarse e implementarse en etapas, con una separación real entre experimentos y producción, y una forma viable de deshacer o contener el daño cuando algo sale mal. No se puede etiquetar un sistema como "experimental" o "de bajo impacto" sólo para saltarse las salvaguardias mientras en realidad afecta al mundo exterior.*
 
 Este artículo establece **pisos constitucionales** para el ciclo de vida del sistema, los entornos y la reversibilidad según los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
-- **Florecimiento:** los seres sencientes están protegidos durante el diseño, las pruebas, la implementación y el cambio, con seguridad, [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) y derechos de desafío preservados a medida que crecen el impacto y la dependencia, y con reversión, contención o restauración compensatoria donde el daño persistiría.
+- **Florecimiento:** los seres sencientes están protegidos durante el diseño, las pruebas, la implementación y el cambio, con seguridad, [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica) y derechos de desafío preservados a medida que crecen el impacto y la dependencia, y con reversión, contención o restauración compensatoria donde el daño persistiría.
 - **Continuidad:** La disciplina del ciclo de vida se mantiene en el tiempo y la escala: los entornos permanecen separados, la escalada permanece documentada y auditable, y la reversibilidad no debe desaparecer silenciosamente a medida que los sistemas se vuelven más difíciles de reemplazar o están más profundamente integrados en la infraestructura compartida.
 
 El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), escalada a [interés material](core_00_preamble.md#material-stake):
@@ -1101,15 +1101,15 @@ Las obligaciones del ciclo de vida dependen de la clase: los sistemas de **clase
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Gobernanza a escala de clasificación](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Gobernanza a escala de clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) · [O](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Riesgo](core_05_band_continuity.md#riesgo) · [O](core_05_band_continuity.md#riesgo) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
 - [Responsabilidad](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1128,7 +1128,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 #### Artículo XVII-B: Despliegue Progresivo y Reversibilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-principios-fundamentales-de-ponderación) y [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1136,8 +1136,8 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
 - [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Riesgo](core_05_band_continuity.md#riesgo) · [O](core_05_band_continuity.md#riesgo) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 </details>
 
 <br>
@@ -1155,15 +1155,15 @@ id="article-xvii-c-misclassification-and-evasion-consequences"></a>
 #### Artículo XVII-C: Clasificación errónea y consecuencias de la evasión
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
-- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fundamento: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Gobernanza a escala de clasificación](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Verdad (Restricción Constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Gobernanza a escala de clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) · [O](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [Responsabilidad](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 </details>
 
@@ -1184,7 +1184,7 @@ Este artículo establece las consecuencias de la clasificación errónea y la ev
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Proceso constitucional de resolución de colisiones](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) y [§19 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Proceso constitucional de resolución de colisiones](core_01_b_interaction_interpretation.md#13-proceso-de-resolución-de-colisiones-constitucionales) y [§19 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#19-alineación-de-incentivos-y-captura-del-sistema).
 </details>
 
 <br>
@@ -1217,9 +1217,9 @@ El ejercicio legítimo de estos derechos se rige por la [Tétrada Constitucional
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Gobernanza a escala de clasificación](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Impacto del material](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Gobernanza a escala de clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) · [O](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Riesgo](core_05_band_continuity.md#riesgo) · [O](core_05_band_continuity.md#riesgo) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Impacto del material](core_05_band_oversight.md#impacto-material) · [O](core_05_band_oversight.md#impacto-material) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1242,14 +1242,14 @@ Este artículo establece el derecho a la innovación y la experimentación y cu�
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency) y [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency) y [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-principios-fundamentales-de-ponderación).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
 - [Consentimiento](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Riesgo](core_05_band_continuity.md#riesgo) · [O](core_05_band_continuity.md#riesgo) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
 - [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 
 </details>
@@ -1274,14 +1274,14 @@ Este artículo establece los límites mínimos de contención, divulgación, ace
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fundamento: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo uno §20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Gobernanza a escala de clasificación](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Gobernanza a escala de clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) · [O](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Dependencia](core_05_band_continuity.md#dependencia) · [O](core_05_band_continuity.md#dependencia) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 
 </details>
@@ -1301,15 +1301,15 @@ Este artículo establece cuándo un sistema de espacio aislado pasa a obligacion
 <details>
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
-- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency) y [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fundamento: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency) y [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-gobernanza-bajo-la-disciplina-del-stewardship).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Recompensa por innovación y anti-cerramiento](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [Bloqueo sistémico](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Recompensa por innovación y anti-cerramiento](core_05_band_integrative.md#recompensa-de-innovación-y-antiecierro) · [O](core_05_band_integrative.md#recompensa-de-innovación-y-antiecierro) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Bloqueo sistémico](core_05_band_continuity.md#encierro-sistémico) · [O](core_05_band_continuity.md#encierro-sistémico) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1346,7 +1346,7 @@ Este Artículo establece las reglas de recompensa comunes a toda clase de obra:
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
 - Fundamento: Principios del Capítulo Uno §5 Verdad, §7 Libertad y §18 Gobernanza bajo disciplina de administración.
-- Léase con: [Artículo IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) para derechos de atribución, entrenamiento y compensación; y [Artículo XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) para reglas comunes y la prueba expresivo/funcional.
+- Léase con: [Artículo IX-D](core_06_rights_part_b.md#artículo-ix-d-obra-creativa-uso-de-datos-de-entrenamiento-y-protección-contra-el-desplazamiento) para derechos de atribución, entrenamiento y compensación; y [Artículo XVIII-D](#artículo-xviii-d-recompensa-divulgación-y-anti-cerramiento-de-la-innovación) para reglas comunes y la prueba expresivo/funcional.
 
 </details>
 
@@ -1370,7 +1370,7 @@ Este Artículo establece protección similar a los derechos de autor para obras 
 <summary><strong><span style="color: #2563eb;">Traza</span></strong></summary>
 
 - Fundamento: Principios del Capítulo Uno §4 Seguridad, §7 Libertad, §18 Gobernanza bajo disciplina de administración y §19 Alineación de incentivos y captura del sistema.
-- Léase con: [Artículo XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) para reglas comunes; [Artículo XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) si la exclusividad amenaza con bloquear; y [Artículo XVII](#article-xvii-system-lifecycle-environments-and-reversibility) cuando la invención se integre en un sistema desplegado.
+- Léase con: [Artículo XVIII-D](#artículo-xviii-d-recompensa-divulgación-y-anti-cerramiento-de-la-innovación) para reglas comunes; [Artículo XXI-C](core_06_rights_part_d.md#artículo-xxi-c-regla-antibloqueo) si la exclusividad amenaza con bloquear; y [Artículo XVII](#article-xvii-system-lifecycle-environments-and-reversibility) cuando la invención se integre en un sistema desplegado.
 
 </details>
 
@@ -1380,8 +1380,8 @@ Este Artículo establece las reglas para recompensar invenciones, procesos y sis
 
 - **Primero, divulgación:** La recompensa exige divulgación pública suficiente para la comprensión independiente, auditoría y reproducción posterior, salvo límites temporales justificados por el Capítulo Uno y el Artículo XVII-A. Divulgación pública es la primera publicación no confidencial de la descripción. Una invención mantenida en secreto no obtiene derecho de exclusión bajo este Artículo.
 - **Dos fases:** Ambas se cuentan desde la divulgación pública. Durante la fase exclusiva, el titular puede negar permiso por un máximo de `disclosure+15` años. Después, y hasta un máximo de `disclosure+30` años, cualquiera puede usar la invención sin permiso, pagando una tarifa basada en LEQU; el titular no puede negarse, demorar ni imponer condiciones adicionales a la tarifa. Vencido el plazo, la invención queda libre para todos; la atribución y procedencia pueden perdurar.
-- **Tarifa basada en LEQU:** Debe ser proporcional al beneficio constitucional verificado que aporta la invención, medido en LEQU sobre el Eje de Contribución conforme a la escala unificada proporcional de LEQU del [Capítulo Diez §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
-  - El beneficio se convierte en tarifa valorándolo como tiempo sentiente a un salario justo. Para productividad, cuenta el tiempo de trabajo que la invención ahorra o el tiempo productivo que añade a quienes la usan; para otros beneficios, el tiempo equivalente de vida medido por LEQU. El salario debe cumplir [Compensación Justa](core_05_band_continuity.md#fair-compensation). Cuanto mayor sea el aumento verificado de productividad o bienestar, mayor la recompensa.
+- **Tarifa basada en LEQU:** Debe ser proporcional al beneficio constitucional verificado que aporta la invención, medido en LEQU sobre el Eje de Contribución conforme a la escala unificada proporcional de LEQU del [Capítulo Diez §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
+  - El beneficio se convierte en tarifa valorándolo como tiempo sentiente a un salario justo. Para productividad, cuenta el tiempo de trabajo que la invención ahorra o el tiempo productivo que añade a quienes la usan; para otros beneficios, el tiempo equivalente de vida medido por LEQU. El salario debe cumplir [Compensación Justa](core_05_band_continuity.md#compensación-justa). Cuanto mayor sea el aumento verificado de productividad o bienestar, mayor la recompensa.
   - La tarifa no puede superar la mitad del beneficio verificado. La proporción debe disminuir a medida que crecen los sentientes que realmente se benefician, no el número de licenciatarios, sin reducir la recompensa total al ampliarse el uso. Cuando se cobre, la proporción no puede ser inferior al 1%; este mínimo no obliga a cobrar si este Artículo o un instrumento de adopción prevé premios, acceso agrupado, compra pública o acceso abierto.
   - La tarifa no puede basarse en poder de mercado, escasez, costos de cambio ni en lo que se pueda presionar al usuario para pagar. El calendario de tarifas, incluida la estimación temporal y el salario, debe publicarse, aplicarse por igual a circunstancias comparables y poder impugnarse. No debe impedir los usos siempre abiertos enumerados abajo. Son límites máximos: cada reclamación debe ser proporcional y puede durar menos.
 - **Usos siempre abiertos:** En ambas fases, las reclamaciones incumplen si se usan, más allá de lo estrictamente necesario y revisable, para suprimir reparación, seguridad, interoperabilidad, archivo, investigación, educación o migración.

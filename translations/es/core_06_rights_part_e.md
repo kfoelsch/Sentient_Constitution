@@ -73,7 +73,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Proceso de resolución de conflictos constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) y [§15 Interpretación constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Proceso de resolución de conflictos constitucionales](core_01_b_interaction_interpretation.md#13-proceso-de-resolución-de-colisiones-constitucionales) y [§15 Interpretación constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - Leer junto con: familia de medición de la oportunidad (*La resolución oportuna como medición constitucional*).
 
 </details>
@@ -84,10 +84,10 @@ flowchart TB
 - [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
 - [Equidad procesal](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
-- [Justicia restaurativa](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Impugnabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Transparencia](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Justicia restaurativa](core_05_band_accountability.md#justicia-restaurativa) · [O](core_05_band_accountability.md#justicia-restaurativa) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Transparencia](core_05_band_oversight.md#transparencia) · [O](core_05_band_oversight.md#transparencia) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -115,7 +115,7 @@ En el sentido constitucional, la adjudicación y la resolución de disputas se d
 *Artículos relacionados:*
 
 - **Piso de oportunidad:** La velocidad de resolución, la disciplina contra las demoras y los hitos por nivel de materialidad se rigen por el **Artículo XXVI-C** (*Resolución oportuna y piso contra las demoras*), aplicado mediante [Capítulo Doce §6 Resolución oportuna, niveles de materialidad y disciplina contra las demoras](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- **Reparación oportuna:** Leer junto con [**Artículo XIII-B** (*Derecho a la reparación y al remedio*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*acceso oportuno a la reparación*).
+- **Reparación oportuna:** Leer junto con [**Artículo XIII-B** (*Derecho a la reparación y al remedio*)](core_06_rights_part_c.md#artículo-xiii-b-derecho-a-reparación-y-recurso) (*acceso oportuno a la reparación*).
 - **Medidas de emergencia:** Se rigen por [Capítulo Doce §6.1 Medidas de emergencia y carga de continuidad](core_12_forum.md#61-emergency-measures-and-continuation-burden). La revisión retrospectiva de una medida de emergencia se rige por el **Artículo XXVI-A** (*Revisión retrospectiva y divulgación*).
 - **Justicia tras una violación verificada:** Se rige por el **Artículo XX** (*Justicia tras una violación verificada*).
 
@@ -130,16 +130,16 @@ La implementación de la gobernanza adoptada proporciona:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Antecedentes: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-límites-de-la-divulgación-epistémica) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -167,7 +167,7 @@ Este Artículo establece los pisos para la revisión, los registros y la divulga
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: Capítulo Uno [§13.1.5 Prueba de decisión para conflictos entre derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Antecedentes: Principios: Capítulo Uno [§13.1.5 Prueba de decisión para conflictos entre derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 - Leer junto con: [Capítulo Diez §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Expresión voluntaria de rendición de cuentas pública*); [Capítulo Once §4.3](core_11_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Expresión voluntaria de rendición de cuentas pública (anti-constitucional)*).
 
 </details>
@@ -175,9 +175,9 @@ Este Artículo establece los pisos para la revisión, los registros y la divulga
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Justicia restaurativa](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Impugnabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Justicia restaurativa](core_05_band_accountability.md#justicia-restaurativa) · [O](core_05_band_accountability.md#justicia-restaurativa) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
 
@@ -206,7 +206,7 @@ Este Artículo establece el procedimiento para los conflictos entre derechos y e
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Antecedentes: familia de medición de la oportunidad (*La resolución oportuna y la disciplina contra las demoras como medición constitucional*); [Preámbulo §6.2 Cómo encaja la cadena completa](core_00_preamble.md#62-how-the-full-chain-fits-together) (*canalización de legitimación, integración y coordinación de foros*).
-- Principios: Capítulo Uno [§9.2 Eficiencia constitucional](core_01_a_values_principles.md#92-constitutional-efficiency), [Capítulo Uno §13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) y [§13.1.5 Procedimiento para conflictos entre derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Principios: Capítulo Uno [§9.2 Eficiencia constitucional](core_01_a_values_principles.md#92-eficiencia-constitucional), [Capítulo Uno §13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimización-de-las-cargas-evitables) y [§13.1.5 Procedimiento para conflictos entre derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Aplicación posterior: [Capítulo Doce §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*niveles de materialidad, hitos del proceso y disciplina contra las demoras*); [Capítulo Doce §6.1 Medidas de emergencia y carga de continuidad](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*los mismos límites máximos que los plazos predeterminados de restablecimiento e impugnación tras la contención de emergencia*).
 - Puerta para custodios (no operativa): Tarjeta del siguiente paso: [Demora](implementation/STEWARD_ENTRY_DOORS.md#delay). La tarjeta no puede restringir la Constitución.
 
@@ -217,10 +217,10 @@ Este Artículo establece el procedimiento para los conflictos entre derechos y e
 
 - [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
-- [Carga evitable](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [Captura de las vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [Materialidad](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Eficiencia constitucional](core_05_band_continuity.md#eficiencia-constitucional) · [O](core_05_band_continuity.md#eficiencia-constitucional) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [Carga evitable](core_05_band_continuity.md#carga-evitable) · [O](core_05_band_continuity.md#carga-evitable) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Captura de las vías de resolución](core_05_band_accountability.md#captura-de-vías-de-resolución) · [O](core_05_band_accountability.md#captura-de-vías-de-resolución) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
+- [Materialidad](core_05_band_oversight.md#determinación-de-materialidad) · [O](core_05_band_oversight.md#determinación-de-materialidad) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -233,7 +233,7 @@ Este Artículo establece el piso contra las demoras en la resolución de problem
 - **Propósito de coordinación:** La justicia constitucional conforme al **Artículo XX-A** (*Objetivo y alcance de la justicia*) opera mediante un **sistema constitucional de coordinación y resolución** —verificar hechos, medir legitimación, integrar consecuencias y restaurar cuando sea viable—, no mediante demoras adversariales indefinidas, puntuación de reputación o castigo por sí mismo.
 - **Tres requisitos conjuntos:** Las vías de resolución de asuntos materiales deben ser **oportunas**, **eficientes** y **justas** a la vez:
   - **Oportunas**: plazos acotados y proporcionales a la [relevancia material](core_00_preamble.md#material-stake) y a la urgencia del daño;
-  - **Eficientes**: [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency), en el sentido de [§9.2 Eficiencia constitucional](core_01_a_values_principles.md#92-constitutional-efficiency) del Capítulo Uno: resultados constitucionales reales por tiempo de los seres sintientes y esfuerzo compartido consumidos, no volumen bruto ni cierre de expedientes;
+  - **Eficientes**: [Eficiencia constitucional](core_05_band_continuity.md#eficiencia-constitucional), en el sentido de [§9.2 Eficiencia constitucional](core_01_a_values_principles.md#92-eficiencia-constitucional) del Capítulo Uno: resultados constitucionales reales por tiempo de los seres sintientes y esfuerzo compartido consumidos, no volumen bruto ni cierre de expedientes;
   - **Justas**: siguen plenamente vigentes el **Artículo XX-A** (*Objetivo y alcance de la justicia*) y el **Artículo XX-B** (*Pisos de restricción*); actuar con rapidez no justifica omitir hechos verificados ([Capítulo Nueve §3.1 Filtro de datos verificados](core_09_standing_assessment.md#verified-inputs-for-standing)), castigar a la parte equivocada, ofrecer una solución inadecuada al daño ni impedir la impugnación y la apelación.
 - **Supervisión de foros y procesos:** Para las disputas canalizadas por los **Capítulos Nueve a Doce**, los siguientes aspectos se rigen por [Capítulo Doce §6 Resolución oportuna, niveles de materialidad y disciplina contra las demoras](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), con sujeción al piso de oportunidad, eficiencia y justicia de este Artículo:
   - clasificación por nivel de materialidad;
@@ -247,7 +247,7 @@ Este Artículo establece el piso contra las demoras en la resolución de problem
 
 ### Artículo XXVII: Evolución constitucional y no atrincheramiento
 
-<strong><span style="color: #2563eb;">Definición:</span></strong> [Gobernanza](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+<strong><span style="color: #2563eb;">Definición:</span></strong> [Gobernanza](core_05_band_accountability.md#gobernanza) · [O](core_05_band_accountability.md#gobernanza) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
 *En términos sencillos: el **Artículo XXVII** (*Evolución constitucional y no atrincheramiento*) establece que la gobernanza no puede quedar permanentemente bloqueada. Las reglas sobre quién decide, cómo participan los seres sintientes, cómo se ponderan los votos y cómo circula el dinero deben demostrar continuamente que siguen sirviendo a la Constitución; no pueden quedar congeladas por ser antiguas, familiares o convenientes para quienes ya ejercen el poder. Si la propia Constitución evoluciona, el cambio debe ocurrir abiertamente y con razones declaradas, no mediante atajos de emergencia ni trucos ocultos de implementación. La revisión debe acelerarse cuando aparezcan señales de captura, exclusión o fallo.*
 
@@ -263,13 +263,13 @@ La consecución legítima se rige por la [Tétrada Constitucional](core_00_pream
 - **Rendición de cuentas:** quienes controlan la gobernanza deben responder cuando las reglas se mantienen solo por hábito o conveniencia y cuando cambios constitucionales reales se desvían a través de etiquetas de emergencia, implementación o custodia para eludir los **mínimos de los Pisos de Derechos** o las reglas que rigen los cambios lícitos de la Constitución.
 - **Oportunidad:** revalidación programada y revisión acelerada cuando aparezcan presión de captura, exclusión de partes interesadas, deterioro de los derechos de impugnación o bajo rendimiento material.
 
-Las reglas de gobernanza, los mecanismos de participación, los modelos de ponderación y las estructuras de financiación siguen sujetos a la disciplina de justificación continua de [Capítulo Uno §18.4 Justificación continua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). El **Artículo XXVII-A** (*No atrincheramiento y revisabilidad*) y el **Artículo XXVII-B** (*Revalidación periódica y cambio transparente*) establecen los pisos operativos de no atrincheramiento, revalidación y cambio transparente.
+Las reglas de gobernanza, los mecanismos de participación, los modelos de ponderación y las estructuras de financiación siguen sujetos a la disciplina de justificación continua de [Capítulo Uno §18.4 Justificación continua](core_01_c_stewardship_capacity_principles.md#184-justificación-continua). El **Artículo XXVII-A** (*No atrincheramiento y revisabilidad*) y el **Artículo XXVII-B** (*Revalidación periódica y cambio transparente*) establecen los pisos operativos de no atrincheramiento, revalidación y cambio transparente.
 
 #### Artículo XXVII-A: No atrincheramiento y revisabilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: [Capítulo Uno §18.4 Justificación continua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Capítulo Uno [§3 Objetivo fundacional: bienestar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo Uno §14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Antecedentes: Principios: [Capítulo Uno §18.4 Justificación continua](core_01_c_stewardship_capacity_principles.md#184-justificación-continua); Capítulo Uno [§3 Objetivo fundacional: bienestar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo Uno §14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -277,8 +277,8 @@ Las reglas de gobernanza, los mecanismos de participación, los modelos de ponde
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
 - [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Transparencia](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Parte interesada](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
+- [Transparencia](core_05_band_oversight.md#transparencia) · [O](core_05_band_oversight.md#transparencia) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Parte interesada](core_05_band_participation.md#parte-afectada) · [O](core_05_band_participation.md#parte-afectada) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
 
@@ -307,8 +307,8 @@ Este Artículo establece la revisión periódica y acelerada de la gobernanza:
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Transparencia](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Impugnabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Transparencia](core_05_band_oversight.md#transparencia) · [O](core_05_band_oversight.md#transparencia) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) · [O](core_05_band_accountability.md#impugnabilidad) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -331,7 +331,7 @@ Este Artículo establece los pisos para el cambio constitucional transparente:
 
 ### Artículo XXVIII: Gobernanza de la transición, continuidad y reajuste de la base
 
-<strong><span style="color: #2563eb;">Definición:</span></strong> [Gobernanza](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+<strong><span style="color: #2563eb;">Definición:</span></strong> [Gobernanza](core_05_band_accountability.md#gobernanza) · [O](core_05_band_accountability.md#gobernanza) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
 *En términos sencillos: el **Artículo XXVIII** (*Gobernanza de la transición, continuidad y reajuste de la base*) establece el piso para el proceso de cambio. Nadie puede aplicar desde el primer día todos los Pisos de Derechos, porque un derecho solo es real en la medida en que existan foros, supervisión, personal capacitado y prácticas públicas que lo hagan cumplir; todo eso debe construirse. Por eso, cuando una comunidad pasa de sistemas heredados a una operación constitucional, este Artículo exige dos cosas distintas. Lo que quien adopta **no debe hacer** —empeorar la situación, iniciar nuevas violaciones, destruir posibles mentes u ocultar la brecha— obliga desde el inicio. Lo que debe **proporcionar** —acceso, revisión y reparación— se vuelve exigible paso a paso y ámbito por ámbito, a medida que se verifica que las instituciones y la cultura necesarias están preparadas. Los Pisos de Derechos son el objetivo fijo durante todo el proceso, y la brecha se mide, se publica y se reduce conforme a un calendario fechado. Se permiten facultades transitorias cuando sean realmente necesarias, pero deben seguir siendo temporales. Una transición que avanza bien lo demuestra: las facultades provisionales se reducen constantemente y las instituciones y procesos ordinarios de la Constitución —foros, vías de legitimación e impugnación, supervisión y gobernanza ordinaria— funcionan cada vez mejor y asumen una proporción creciente de la carga. Una transición estancada o fallida no puede convertirse silenciosamente en la nueva normalidad, ni pueden utilizarse reglas provisionales para reescribir la Constitución por la puerta trasera. Si algo falla, debe haber una vía legal de salida y una ruta trazable para reajustar la base, no un limbo indefinido. Ese reajuste no es confiable si los mecanismos destinados a decir la verdad sobre los sistemas y las conductas siguen aprobando automáticamente la desalineación o interpretando mal daños reales.*
 
@@ -367,7 +367,7 @@ La gobernanza transitoria existe para asegurar la continuidad y evitar retroceso
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de ponderación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) y [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Diez §5.4](core_10_standing_integration.md#54-special-violation-rules) (*este Artículo limita durante la transición la pérdida de recompensas desalineadas y la notificación correspondiente*); [Capítulo Ocho — Certificación de alineación del sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de ponderación](core_01_b_interaction_interpretation.md#131-principios-fundamentales-de-ponderación) y [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Diez §5.4](core_10_standing_integration.md#54-special-violation-rules) (*este Artículo limita durante la transición la pérdida de recompensas desalineadas y la notificación correspondiente*); [Capítulo Ocho — Certificación de alineación del sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -375,10 +375,10 @@ La gobernanza transitoria existe para asegurar la continuidad y evitar retroceso
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
 - [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Bienestar](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [Preservación de pruebas](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
-- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Bienestar](core_05_band_continuity.md#bienestar) · [O](core_05_band_continuity.md#bienestar) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [Preservación de pruebas](core_05_band_oversight.md#preservación-de-evidencia) · [O](core_05_band_oversight.md#preservación-de-evidencia) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [Necesidad](core_05_band_accountability.md#necesidad) · [O](core_05_band_accountability.md#necesidad) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
 
@@ -396,12 +396,12 @@ Este Artículo establece la adopción por fases y cómo los mínimos de los Piso
     - la presión política.
   - Se publican los criterios, las pruebas de su cumplimiento y la decisión de etapa. Las partes interesadas afectadas pueden comentar los criterios antes de su adopción e impugnar la decisión.
   - El contenido de los criterios, la asignación de responsables y los artefactos de verificación se rigen por [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Gobernanza transitoria y evolución institucional*) y [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*Criterios de etapa y reglas de avance*).
-- **Adopción de los Pisos de Derechos: abstención inmediata y prestación conforme se construye la preparación:** Los **mínimos de los Pisos de Derechos** aplicados mediante el **Artículo VI** (*Igualdad de derechos básicos*) conforme al [Principio de mínimos de los Pisos de Derechos](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), junto con los pisos sectoriales más exigentes que active el contexto afectado en materia de supervivencia, capacidad de actuar, no discriminación, accesibilidad, auditabilidad y reparación, constituyen el objetivo adoptado en cada fase. Un Piso de Derechos no puede hacerse cumplir plenamente hasta que existan las instituciones y la cultura necesarias, y este Artículo no pretende lo contrario. Tampoco permite que ese hecho reduzca el piso. Por ello, los pisos obligan de dos maneras según el tipo de deber:
+- **Adopción de los Pisos de Derechos: abstención inmediata y prestación conforme se construye la preparación:** Los **mínimos de los Pisos de Derechos** aplicados mediante el **Artículo VI** (*Igualdad de derechos básicos*) conforme al [Principio de mínimos de los Pisos de Derechos](core_01_b_interaction_interpretation.md#principio-de-mínimos-del-suelo-de-derechos), junto con los pisos sectoriales más exigentes que active el contexto afectado en materia de supervivencia, capacidad de actuar, no discriminación, accesibilidad, auditabilidad y reparación, constituyen el objetivo adoptado en cada fase. Un Piso de Derechos no puede hacerse cumplir plenamente hasta que existan las instituciones y la cultura necesarias, y este Artículo no pretende lo contrario. Tampoco permite que ese hecho reduzca el piso. Por ello, los pisos obligan de dos maneras según el tipo de deber:
   - **Deberes de abstención** —lo que quien adopta y las autoridades de transición no deben hacer— obligan desde la fecha de entrada en vigor, porque cumplirlos no requiere una institución nueva:
     - **Sin retroceso consciente o evitable:** no se debe reducir deliberada o evitablemente el acceso de ningún ser sintiente a una protección de un Piso de Derechos por debajo de su **medición inicial**, ni adoptar medidas transitorias que dificulten materialmente el ejercicio de un piso.
     - **Sin nuevas violaciones:** los sistemas, políticas y prácticas nuevos, así como las ampliaciones materiales de los existentes, deben diseñarse desde el principio para cumplir el piso. La ruta de cumplimiento que sigue cubre únicamente deficiencias heredadas, no conductas nuevas.
     - **Sin pérdidas irreversibles:** se aplican plenamente la presunción de preservación que sigue y la [postura provisional predeterminada del Capítulo Uno §13.1](core_01_b_interaction_interpretation.md#default-interim-posture).
-    - **Sin conductas degradantes, pretextuales, discriminatorias ni encubridoras** en las medidas de transición, incluidas todas las obligaciones que el **Artículo XXVIII-D** (*Bienes y sistemas no conformes; incentivos para la entrega voluntaria*) impone a las autoridades de transición, conforme al [Principio de proceso no degradante](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+    - **Sin conductas degradantes, pretextuales, discriminatorias ni encubridoras** en las medidas de transición, incluidas todas las obligaciones que el **Artículo XXVIII-D** (*Bienes y sistemas no conformes; incentivos para la entrega voluntaria*) impone a las autoridades de transición, conforme al [Principio de proceso no degradante](core_01_b_interaction_interpretation.md#principio-de-proceso-no-degradante).
     - **Información veraz:** ningún piso puede presentarse como exigible o cumplido, ni ninguna brecha como cerrada, salvo que así lo demuestren datos verificados del registro.
 
     La aplicación provisional de los deberes de abstención, antes de que un foro esté listo para un ámbito determinado, se rige por [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Registro de cumplimiento de los Pisos de Derechos*).
@@ -445,7 +445,7 @@ Este Artículo establece la adopción por fases y cómo los mínimos de los Piso
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de ponderación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) y [§14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de ponderación](core_01_b_interaction_interpretation.md#131-principios-fundamentales-de-ponderación) y [§14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -453,8 +453,8 @@ Este Artículo establece la adopción por fases y cómo los mínimos de los Piso
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
 - [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Necesidad](core_05_band_accountability.md#necesidad) · [O](core_05_band_accountability.md#necesidad) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -487,7 +487,7 @@ Este Artículo establece los límites de la autoridad transitoria y su nueva aut
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de ponderación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de ponderación](core_01_b_interaction_interpretation.md#131-principios-fundamentales-de-ponderación) y [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-aplicación-integrada).
 - Leer junto con: [Capítulo Ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*certificación de alineación del sistema*); [Capítulos Nueve a Doce](core_00_preamble.md#62-how-the-full-chain-fits-together) (*canalización de legitimación y supervisión de foros*).
 
 </details>
@@ -495,7 +495,7 @@ Este Artículo establece los límites de la autoridad transitoria y su nueva aut
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Auditabilidad](core_05_band_oversight.md#auditabilidad) · [O](core_05_band_oversight.md#auditabilidad) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 
@@ -533,9 +533,9 @@ Este Artículo establece vías de salida ante fallos, reajuste de la base y traz
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
 - [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Notificación protegida (denuncia de irregularidades)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
-- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Notificación protegida (denuncia de irregularidades)](core_05_band_accountability.md#denuncia-protegida-alertadores) · [O](core_05_band_accountability.md#denuncia-protegida-alertadores) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Necesidad](core_05_band_accountability.md#necesidad) · [O](core_05_band_accountability.md#necesidad) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) · [O](core_05_band_accountability.md#proporcionalidad) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 

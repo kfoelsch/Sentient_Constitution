@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Empat bahasa Inggris](../../core_04_burden_traceability_verification.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_04_burden_traceability_verification.md`](../../core_04_burden_traceability_verification.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
+> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Empat bahasa Inggris](../../core_04.000_burden_traceability_verification.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_04_burden_traceability_verification.md`](../../core_04.000_burden_traceability_verification.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > **Sebelumnya (lokal ini):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 >
@@ -17,10 +17,10 @@
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): di mana Bab Empat hidup dan apa yang tetap di sini</span></strong></summary>
 
 > Di mana ini hidup (navigasi):
-> - **Peta Tetrad:** Alokasi beban, bukti, ketelusuran, observabilitas, dan verifikasi mengimplementasikan kaki **pengawasan** dan **pertanggungjawaban** [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) yang ditetapkan dalam [Pembukaan](core_00_preamble.md#chapter-00-preamble--foundational-requirements); **partisipasi** di mana dituntut secara material lewat observabilitas praktis dan gugatan independen di bawah bagian **3** dan **4**. Persyaratan diskalakan dengan [taruhan material](core_00_preamble.md#material-stake).
+> - **Peta Tetrad:** Alokasi beban, bukti, ketelusuran, observabilitas, dan verifikasi mengimplementasikan kaki **pengawasan** dan **pertanggungjawaban** [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) yang ditetapkan dalam [Pembukaan](core_00_preamble.md#pembukaan--persyaratan-dasar); **partisipasi** di mana dituntut secara material lewat observabilitas praktis dan gugatan independen di bawah bagian **3** dan **4**. Persyaratan diskalakan dengan [taruhan material](core_00_preamble.md#material-stake).
 > - **Pemilik konstitusional:** alokasi beban, bukti kepatuhan, ketelusuran definisi, observabilitas, dan verifikasi berbatas-keamanan. **Bab Sepuluh** memiliki disiplin catatan jejak dan masukan terverifikasi yang dibaca bersama bab ini.
 > - **Pemilik implementasi:** mekanika pengerahan, penanganan data, dan jaminan dalam berkas implementasi yang ditunjuk harus tetap konsisten dengan aturan ini dan boleh lebih ketat di mana korpus sudah menyediakan logika aturan-lebih-ketat.
-> - **Aturan anti-relokasi:** bab ini hanya mengatur beban, jejak, observabilitas, batas keamanan, dan bukti. Ia tidak menyatakan ulang definisi Bab Lima, pengukuran kontribusi atau jejak **Bab Sepuluh**, atau kriteria salah laku anti-konstitusi Bab Dua Belas. Perutean ketidakpatuhan terverifikasi ke jejak diatur oleh [Bab Tiga §3 — Profil Temuan Ketidakpatuhan](core_03_definition_integrity.md#3-non-compliance-finding-profiles) dan [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). **Bagian 6** menyatakan bagaimana Bab Dua sampai Empat berbeda dari [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+> - **Aturan anti-relokasi:** bab ini hanya mengatur beban, jejak, observabilitas, batas keamanan, dan bukti. Ia tidak menyatakan ulang definisi Bab Lima, pengukuran kontribusi atau jejak **Bab Sepuluh**, atau kriteria salah laku anti-konstitusi Bab Dua Belas. Perutean ketidakpatuhan terverifikasi ke jejak diatur oleh [Bab Tiga §3 — Profil Temuan Ketidakpatuhan](core_03_definition_integrity.md#3-profil-temuan-ketidakpatuhan) dan [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). **Bagian 6** menyatakan bagaimana Bab Dua sampai Empat berbeda dari [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 
 </details>
 
@@ -43,21 +43,21 @@ Baca berurutan. Setiap langkah membangun di atas yang terakhir; jangan lewati sa
 
 | Langkah | Pekerjaan sederhana | Bagian |
 | --- | --- | --- |
-| **1 — Siapa membuktikan** | Beban terletak pada siapa pun yang mengklaim kepatuhan | [§1](#1-exclusive-enforcement-and-burden-allocation) |
-| **2 — Tunjukkan peta** | Jejak terstruktur dari definisi ke perilaku yang dapat diamati | [§2](#2-definition-traceability-requirement) |
-| **3 — Buat dapat diperiksa** | Sistem harus menyingkap cukup untuk memverifikasi peta — dalam praktik, bukan dalam teori | [§3](#3-observability-of-traceability-requirement) |
-| **4 — Batas keamanan** | Batas keamanan nyata diizinkan; blokir pretekstual tidak | [§4](#4-security-constrained-observability-and-verification-rule) |
-| **5 — Apa yang dihitung** | Bukti harus nyata, lengkap, independen, dan berkelanjutan | [§5](#5-compliance-evidence-standard) |
+| **1 — Siapa membuktikan** | Beban terletak pada siapa pun yang mengklaim kepatuhan | [§1](#1-penegakan-eksklusif-dan-alokasi-beban) |
+| **2 — Tunjukkan peta** | Jejak terstruktur dari definisi ke perilaku yang dapat diamati | [§2](#2-persyaratan-ketelusuran-definisi) |
+| **3 — Buat dapat diperiksa** | Sistem harus menyingkap cukup untuk memverifikasi peta — dalam praktik, bukan dalam teori | [§3](#3-persyaratan-observabilitas-ketelusuran) |
+| **4 — Batas keamanan** | Batas keamanan nyata diizinkan; blokir pretekstual tidak | [§4](#4-aturan-observabilitas-dan-verifikasi-berbatas-keamanan) |
+| **5 — Apa yang dihitung** | Bukti harus nyata, lengkap, independen, dan berkelanjutan | [§5](#5-standar-bukti-kepatuhan) |
 
-**Akses bahasa sederhana.** [Bab Satu §3.4 — Aksesibilitas Bahasa Sederhana (Kewajiban Partisipasi dan Pengelolaan Bertanggung Jawab)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) berlaku pada bahan tata kelola, adjudikatif, dan operasional yang dipakai makhluk sadar untuk menjalankan hak, menggugat keputusan, atau memverifikasi kepatuhan. Bahasa sederhana **tidak** mengubah atau mengurangi apa yang dituntut Bab Dua sampai Empat. Jika suatu versi bahasa sederhana berselisih dengan aturan definisi atau verifikasi di sini, aturan itu yang mengendalikan. Memakai jargon, kompleksitas bertumpuk, atau opasitas untuk memblokir [Dapat Digugat](../../core_05_band_accountability.md#contestability) atau akses [Pasal XVI: Audit, Transparansi, dan Verifikasi Independen](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) adalah tidak patuh di bawah bab ini dan **Bab Satu §3.4**.
+**Akses bahasa sederhana.** [Bab Satu §3.4 — Aksesibilitas Bahasa Sederhana (Kewajiban Partisipasi dan Pengelolaan Bertanggung Jawab)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) berlaku pada bahan tata kelola, adjudikatif, dan operasional yang dipakai makhluk sadar untuk menjalankan hak, menggugat keputusan, atau memverifikasi kepatuhan. Bahasa sederhana **tidak** mengubah atau mengurangi apa yang dituntut Bab Dua sampai Empat. Jika suatu versi bahasa sederhana berselisih dengan aturan definisi atau verifikasi di sini, aturan itu yang mengendalikan. Memakai jargon, kompleksitas bertumpuk, atau opasitas untuk memblokir [Dapat Digugat](../../core_05.035_band_accountability.md#contestability) atau akses [Pasal XVI: Audit, Transparansi, dan Verifikasi Independen](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) adalah tidak patuh di bawah bab ini dan **Bab Satu §3.4**.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. Persyaratan Ketelusuran Definisi
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Bab Empat, bagian 1 — Penegakan Eksklusif dan Alokasi Beban](#1-exclusive-enforcement-and-burden-allocation); [Bab Dua, §1 — Tujuan dan Peran](core_02_definition_structure.md#1-purpose-and-role); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-definition-integrity-requirement); [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — aturan definisi dan ketidakpatuhan substantif; **§3** menyatakan persyaratan peta jejak saja dan tidak menyatakan ulang aturan itu.
-- Hilir: [Bab Empat, bagian 3 — Persyaratan Observabilitas Ketelusuran](#3-observability-of-traceability-requirement); [Bab Empat, bagian 4 — Aturan Observabilitas dan Verifikasi Berbatas-Keamanan](#4-security-constrained-observability-and-verification-rule); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](#5-compliance-evidence-standard).
+- Hulu: [Bab Empat, bagian 1 — Penegakan Eksklusif dan Alokasi Beban](#1-penegakan-eksklusif-dan-alokasi-beban); [Bab Dua, §1 — Tujuan dan Peran](core_02_definition_structure.md#1-tujuan-dan-peran); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-persyaratan-integritas-definisi); [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](core_03_definition_integrity.md#1-integritas-definisi-dan-batasan-anti-pengelakan); [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](core_03_definition_integrity.md#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati) — aturan definisi dan ketidakpatuhan substantif; **§3** menyatakan persyaratan peta jejak saja dan tidak menyatakan ulang aturan itu.
+- Hilir: [Bab Empat, bagian 3 — Persyaratan Observabilitas Ketelusuran](#3-persyaratan-observabilitas-ketelusuran); [Bab Empat, bagian 4 — Aturan Observabilitas dan Verifikasi Berbatas-Keamanan](#4-aturan-observabilitas-dan-verifikasi-berbatas-keamanan); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](#5-standar-bukti-kepatuhan).
 
 </details>
 
@@ -87,14 +87,14 @@ Gagal mengundang atau menerapkan dengan benar setiap definisi **Bab Lima** yang 
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](#2-definition-traceability-requirement).
-- Hilir: [Bab Empat, bagian 4 — Aturan Observabilitas dan Verifikasi Berbatas-Keamanan](#4-security-constrained-observability-and-verification-rule); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](#5-compliance-evidence-standard).
-- Baca bersama: [Definisi Terklaster Bab Lima (Ketekunan Keterdugaan)](../../core_05_band_oversight.md#foreseeability-diligence) — keterverifikasian teoretis yang tidak dapat dicapai secara praktis di bawah kondisi yang dapat diduga secara wajar adalah tidak patuh.
-- Baca bersama: [Definisi Terklaster Bab Lima (Ketekunan Keterdugaan)](../../core_05_band_oversight.md#foreseeability-diligence) — opasitas yang didorong rancangan harus dievaluasi terhadap kondisi yang dapat diduga secara wajar, bukan operasi kasus-terbaik.
+- Hulu: Prinsip: [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](#2-persyaratan-ketelusuran-definisi).
+- Hilir: [Bab Empat, bagian 4 — Aturan Observabilitas dan Verifikasi Berbatas-Keamanan](#4-aturan-observabilitas-dan-verifikasi-berbatas-keamanan); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](#5-standar-bukti-kepatuhan).
+- Baca bersama: [Definisi Terklaster Bab Lima (Ketekunan Keterdugaan)](../../core_05.050_band_oversight.md#foreseeability) — keterverifikasian teoretis yang tidak dapat dicapai secara praktis di bawah kondisi yang dapat diduga secara wajar adalah tidak patuh.
+- Baca bersama: [Definisi Terklaster Bab Lima (Ketekunan Keterdugaan)](../../core_05.050_band_oversight.md#foreseeability) — opasitas yang didorong rancangan harus dievaluasi terhadap kondisi yang dapat diduga secara wajar, bukan operasi kasus-terbaik.
 
 </details>
 
-<strong><span style="color: #2563eb;">Definisi:</span></strong> [Keterdugaan](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definisi:</span></strong> [Keterdugaan](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *Dalam bahasa sederhana: bagian 2 menuntut suatu peta jejak — bagian ini menuntut sistem menyingkap cukup dari dirinya agar pihak yang berwenang atau terdampak dapat memeriksa peta itu dalam praktik, bukan hanya dalam teori. Arsitektur opas, ketergantungan luar, dan komponen kotak-hitam tidak mendapat pengecualian.*
 
@@ -122,13 +122,13 @@ Di mana verifikasi secara teknis mungkin tetapi tidak dapat dicapai secara prakt
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Empat, bagian 3 — Persyaratan Observabilitas Ketelusuran](#3-observability-of-traceability-requirement); [Bab Satu, bagian 8.2 — Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
-- Hilir: [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](#5-compliance-evidence-standard); [corpus_systems.md](../../corpus_systems.md), **CS-2 — Tipe informasi dan penanganan**, dan **CS-5** — kriptografi operasional, kredensial, dan penanganan tipe informasi.
-- Baca bersama: [Definisi Terklaster Bab Lima (Ketekunan Keterdugaan)](../../core_05_band_oversight.md#foreseeability-diligence) — pilihan rancangan yang secara terprediksi mencegah verifikasi di bawah kondisi yang dapat diduga secara wajar adalah tidak patuh terlepas dari rasional keamanan yang dinyatakan; [Kebenaran Bab Lima (Batasan Konstitusional)](../../core_05_band_oversight.md#truth-constitutional-constraint) dan [Keselamatan Bab Lima (Batasan)](../../core_05_band_continuity.md#safety-constraint) — penanganan kriptografi dan tipe informasi tidak boleh menggantikan **bagian 2**, **3**, atau **5**; **Pasal VII-A**, **VII-B**, **XVI-A**, dan **XVII-A** di mana batasan pemisahan-lingkungan bersifat material.
+- Hulu: Prinsip: [Bab Empat, bagian 3 — Persyaratan Observabilitas Ketelusuran](#3-persyaratan-observabilitas-ketelusuran); [Bab Satu, bagian 8.2 — Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+- Hilir: [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](#5-standar-bukti-kepatuhan); [corpus_systems.md](../../corpus_systems.md), **CS-2 — Tipe informasi dan penanganan**, dan **CS-5** — kriptografi operasional, kredensial, dan penanganan tipe informasi.
+- Baca bersama: [Definisi Terklaster Bab Lima (Ketekunan Keterdugaan)](../../core_05.050_band_oversight.md#foreseeability) — pilihan rancangan yang secara terprediksi mencegah verifikasi di bawah kondisi yang dapat diduga secara wajar adalah tidak patuh terlepas dari rasional keamanan yang dinyatakan; [Kebenaran Bab Lima (Batasan Konstitusional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) dan [Keselamatan Bab Lima (Batasan)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) — penanganan kriptografi dan tipe informasi tidak boleh menggantikan **bagian 2**, **3**, atau **5**; **Pasal VII-A**, **VII-B**, **XVI-A**, dan **XVII-A** di mana batasan pemisahan-lingkungan bersifat material.
 
 </details>
 
-<strong><span style="color: #2563eb;">Definisi:</span></strong> [Keterdugaan](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definisi:</span></strong> [Keterdugaan](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *Dalam bahasa sederhana: keamanan dapat mempersempit bagaimana, kapan, dan kepada siapa pengungkapan atau audit terjadi — ia tidak dapat menghapus kewajiban untuk menelusuri, memverifikasi, dan mengizinkan pemeriksaan independen.*
 
@@ -149,16 +149,16 @@ Di mana suatu batas memblokir validasi independen yang bermakna, klaim kepatuhan
 - penentuan itu dijustifikasi secara independen dan dapat diaudit
 - metode yang tersisa menjaga integritas epistemik yang cukup bagi penentuan kepatuhan
 
-Kriptografi dan penanganan tipe informasi harus selaras dengan konstitusi dan **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipe informasi dan penanganan**; di mana relevan secara material, mereka masih harus mengizinkan verifikasi kepatuhan penuh di bawah bab ini. Penanganan kriptografi dan tipe informasi tidak boleh menggantikan [Kebenaran (Batasan Konstitusional)](../../core_05_band_oversight.md#truth-constitutional-constraint) atau [Keselamatan (Batasan)](../../core_05_band_continuity.md#safety-constraint), atau kewajiban di **bagian 2**, **3**, atau **5**.
+Kriptografi dan penanganan tipe informasi harus selaras dengan konstitusi dan **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipe informasi dan penanganan**; di mana relevan secara material, mereka masih harus mengizinkan verifikasi kepatuhan penuh di bawah bab ini. Penanganan kriptografi dan tipe informasi tidak boleh menggantikan [Kebenaran (Batasan Konstitusional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) atau [Keselamatan (Batasan)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), atau kewajiban di **bagian 2**, **3**, atau **5**.
 
 <a id="5-compliance-evidence-standard"></a>
 ### 5. Standar Bukti Kepatuhan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Bab Empat, bagian 1 sampai 4](#1-exclusive-enforcement-and-burden-allocation); [Bab Dua, §1 — Tujuan dan Peran](core_02_definition_structure.md#1-purpose-and-role); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-definition-integrity-requirement); [Bab Dua, §3 Konsistensi di Seluruh Tumpukan Definisi](core_02_definition_structure.md#3-consistency-across-the-definition-stack); [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Bab Tiga, §2.6 Batasan Integritas Ketidakpastian dan Non-Eksploitasi](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint) — aturan definisi dan ketidakpatuhan substantif; **§4** menyatakan persyaratan lapisan-bukti saja dan tidak menyatakan ulang aturan itu.
-- Hilir: [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Baca bersama: [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](#2-definition-traceability-requirement) — gagal mengundang atau menerapkan dengan benar setiap definisi **Bab Lima** yang dituntut secara material membatalkan evaluasi, bukti, dan penentuan kepatuhan terkait secara penuh; [Bab Satu, §6 — Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) di mana penskalaan memengaruhi tukar-guling antara kesejahteraan makhluk sadar dan kestabilan horizon-panjang; [Keselamatan Bab Lima (Batasan)](../../core_05_band_continuity.md#safety-constraint), [Kebenaran Bab Lima (Batasan Konstitusional)](../../core_05_band_oversight.md#truth-constitutional-constraint), dan [Integritas Epistemik Bab Lima](../../core_05_band_oversight.md#epistemic-integrity) — keselarasan bukti berdasar sains bagi klaim empiris, prediktif, atau kausal.
+- Hulu: [Bab Empat, bagian 1 sampai 4](#1-penegakan-eksklusif-dan-alokasi-beban); [Bab Dua, §1 — Tujuan dan Peran](core_02_definition_structure.md#1-tujuan-dan-peran); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-persyaratan-integritas-definisi); [Bab Dua, §3 Konsistensi di Seluruh Tumpukan Definisi](core_02_definition_structure.md#3-konsistensi-di-seluruh-tumpukan-definisi); [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](core_03_definition_integrity.md#1-integritas-definisi-dan-batasan-anti-pengelakan); [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](core_03_definition_integrity.md#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati); [Bab Tiga, §2.6 Batasan Integritas Ketidakpastian dan Non-Eksploitasi](core_03_definition_integrity.md#26-batasan-integritas-ketidakpastian-dan-non-eksploitasi) — aturan definisi dan ketidakpatuhan substantif; **§4** menyatakan persyaratan lapisan-bukti saja dan tidak menyatakan ulang aturan itu.
+- Hilir: [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Baca bersama: [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](#2-persyaratan-ketelusuran-definisi) — gagal mengundang atau menerapkan dengan benar setiap definisi **Bab Lima** yang dituntut secara material membatalkan evaluasi, bukti, dan penentuan kepatuhan terkait secara penuh; [Bab Satu, §6 — Penyelesaian Konflik Proses](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) di mana penskalaan memengaruhi tukar-guling antara kesejahteraan makhluk sadar dan kestabilan horizon-panjang; [Keselamatan Bab Lima (Batasan)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Kebenaran Bab Lima (Batasan Konstitusional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), dan [Integritas Epistemik Bab Lima](../../core_05.050_band_oversight.md#epistemic-integrity) — keselarasan bukti berdasar sains bagi klaim empiris, prediktif, atau kausal.
 
 </details>
 
@@ -178,21 +178,21 @@ Bagian **2** sampai **4** menetapkan jejak, observabilitas, dan batas keamanan; 
 - bagi klaim **empiris**, **prediktif**, atau **kausal** yang material bagi kepatuhan, klasifikasi, atau tata kelola, mencerminkan **integritas ilmiah** di mana sepadan — metode yang dapat diuji atau ditinjau, asumsi dan batasan yang didokumentasikan, tanpa penekanan hasil nol atau replikasi yang gagal di mana mereka menanggung pada keputusan, dan kesimpulan yang dapat direvisi atas bukti baru
 
 **Berikut ini tidak memenuhi beban pembuktian di bawah bagian 1:**
-- gagal memenuhi definisi atau komponen yang dituntut di bawah [Bab Dua, §2.1 Kondisi Inti Integritas](core_02_definition_structure.md#21-core-integrity-conditions), atau ketidakpatuhan di bawah [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) — membatalkan semua klaim kepatuhan dependen di bawah bab ini
+- gagal memenuhi definisi atau komponen yang dituntut di bawah [Bab Dua, §2.1 Kondisi Inti Integritas](core_02_definition_structure.md#21-kondisi-inti-integritas), atau ketidakpatuhan di bawah [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](core_03_definition_integrity.md#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati) — membatalkan semua klaim kepatuhan dependen di bawah bab ini
 - gagal menyediakan bukti yang dituntut di mana ia ada atau dituntut di bawah bab ini
-- bukti hanya-pengganti, diattestasi-sendiri, parsial, atau dicakup secara selektif yang akan tidak patuh di bawah [Bab Tiga, bagian 2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) jika diperlakukan sebagai demonstrasi kepatuhan sistem
+- bukti hanya-pengganti, diattestasi-sendiri, parsial, atau dicakup secara selektif yang akan tidak patuh di bawah [Bab Tiga, bagian 2](core_03_definition_integrity.md#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati) jika diperlakukan sebagai demonstrasi kepatuhan sistem
 - bukti tidak cukup untuk memenuhi persyaratan **Bukti harus** di atas
 
-Di mana ketidakpastian mencegah demonstrasi kepatuhan yang definitif bagi komponen definisi yang relevan secara material, terapkan [Bab Tiga, §2.6 Batasan Integritas Ketidakpastian dan Non-Eksploitasi](core_03_definition_integrity.md#26-uncertainty-integrity-and-non-exploitation-constraint). Di mana beban pembuktian tidak dipenuhi, tetapkan status **tidak patuh** secara bawaan.
+Di mana ketidakpastian mencegah demonstrasi kepatuhan yang definitif bagi komponen definisi yang relevan secara material, terapkan [Bab Tiga, §2.6 Batasan Integritas Ketidakpastian dan Non-Eksploitasi](core_03_definition_integrity.md#26-batasan-integritas-ketidakpastian-dan-non-eksploitasi). Di mana beban pembuktian tidak dipenuhi, tetapkan status **tidak patuh** secara bawaan.
 
 <a id="6-relationship-to-system-alignment-certification"></a>
 ### 6. Hubungan dengan Sertifikasi Keselarasan Sistem
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Bab Dua — Struktur Definisi dan Persyaratan Komponen](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Bab Tiga — Integritas Definisi, Pengelakan, dan Ketidakpatuhan](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Bab Empat, bagian 1 sampai 5](#1-exclusive-enforcement-and-burden-allocation).
-- Hilir: [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Baca bersama: [Bab Sembilan §7 — Hasil Sertifikasi](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) — ketidakpatuhan terverifikasi di bawah Bab Dua sampai Empat dapat membuka ulang atau mengalahkan sertifikasi terlepas dari sertifikasi sebelumnya.
+- Hulu: [Bab Dua — Struktur Definisi dan Persyaratan Komponen](core_02_definition_structure.md#bab-dua-struktur-definisi-dan-persyaratan-komponen); [Bab Tiga — Integritas Definisi, Pengelakan, dan Ketidakpatuhan](core_03_definition_integrity.md#bab-tiga-integritas-definisi-pengelakan-dan-ketidakpatuhan); [Bab Empat, bagian 1 sampai 5](#1-penegakan-eksklusif-dan-alokasi-beban).
+- Hilir: [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Baca bersama: [Bab Sembilan §7 — Hasil Sertifikasi](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) — ketidakpatuhan terverifikasi di bawah Bab Dua sampai Empat dapat membuka ulang atau mengalahkan sertifikasi terlepas dari sertifikasi sebelumnya.
 
 </details>
 
@@ -203,13 +203,13 @@ Di mana ketidakpastian mencegah demonstrasi kepatuhan yang definitif bagi kompon
 Bagian ini **non-operatif**. Ia menyatakan **batas lapisan** saja.
 
 **Bab Dua, Tiga, dan Empat** memasok substrat definisi dan verifikasi yang tetap berlaku:
-- **[Bab Dua](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)** — cara definisi dibangun dan dijaga konsisten secara internal (O/M/A/C)
-- **[Bab Tiga](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)** — cara definisi berlaku pada perilaku nyata, termasuk ketidakpatuhan dan pengelakan
-- **[Bab Empat](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)** (bagian **1** sampai **5**) — beban pembuktian, peta jejak, observabilitas, batas keamanan, dan standar bukti
+- **[Bab Dua](core_02_definition_structure.md#bab-dua-struktur-definisi-dan-persyaratan-komponen)** — cara definisi dibangun dan dijaga konsisten secara internal (O/M/A/C)
+- **[Bab Tiga](core_03_definition_integrity.md#bab-tiga-integritas-definisi-pengelakan-dan-ketidakpatuhan)** — cara definisi berlaku pada perilaku nyata, termasuk ketidakpatuhan dan pengelakan
+- **[Bab Empat](core_04_burden_traceability_verification.md#bab-empat-beban-pembuktian-ketelusuran-dan-verifikasi)** (bagian **1** sampai **5**) — beban pembuktian, peta jejak, observabilitas, batas keamanan, dan standar bukti
 
 Ini berlaku kapan pun kepatuhan dievaluasi — dengan atau tanpa sertifikasi.
 
-**[Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** memasok **proses sertifikasi** yang disupervisi forum di mana material: ranah evaluasi seluruh-sistem, kewajiban catatan sertifikasi, hasil sertifikasi, jadwal sertifikasi ulang, rantai dapat-digugat, dan jembatan masukan terverifikasi ke Bab Sepuluh. Ia **menerapkan** Bab Dua sampai Empat; ia **tidak** menyatakannya ulang.
+**[Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** memasok **proses sertifikasi** yang disupervisi forum di mana material: ranah evaluasi seluruh-sistem, kewajiban catatan sertifikasi, hasil sertifikasi, jadwal sertifikasi ulang, rantai dapat-digugat, dan jembatan masukan terverifikasi ke Bab Sepuluh. Ia **menerapkan** Bab Dua sampai Empat; ia **tidak** menyatakannya ulang.
 
 Pembaca tidak boleh memperlakukan:
 - suatu **catatan sertifikasi** sebagai pengganti kepatuhan berkelanjutan di bawah Bab Dua sampai Empat
@@ -222,4 +222,4 @@ Pembaca tidak boleh memperlakukan:
 
 **Berkas berikutnya (bahasa ini):** [core_05__definitions_home.md](core_05__definitions_home.md)
 
-**Sumber mengikat:** [core_04_burden_traceability_verification.md](../../core_04_burden_traceability_verification.md)
+**Sumber mengikat:** [core_04_burden_traceability_verification.md](../../core_04.000_burden_traceability_verification.md)

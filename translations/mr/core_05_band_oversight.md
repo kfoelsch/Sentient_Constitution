@@ -6,9 +6,9 @@
 
 > खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
 >
-> ही फाइल [इंग्रजी अध्याय पाच, देखरेख पट्टी](../../core_05_band_oversight.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_05_band_oversight.md`](../../core_05_band_oversight.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
+> ही फाइल [इंग्रजी अध्याय पाच, देखरेख पट्टी](../../core_05.050_band_oversight.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_05_band_oversight.md`](../../core_05.050_band_oversight.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
-> यात **अध्याय पाच देखरेख पट्टी** आहे — **देखरेख** संवैधानिक पट्ट्याला नेमलेल्या स्वतंत्र पदे, अर्ध-स्वतंत्र पदे आणि आश्रित-समूह व्याख्या (**Def.O1–Def.O2**). वाचन क्रम आणि दिशा-सूचक [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions) मध्ये राहतात.
+> यात **अध्याय पाच देखरेख पट्टी** आहे — **देखरेख** संवैधानिक पट्ट्याला नेमलेल्या स्वतंत्र पदे, अर्ध-स्वतंत्र पदे आणि आश्रित-समूह व्याख्या (**Def.O1–Def.O2**). वाचन क्रम आणि दिशा-सूचक [core_05__definitions_home.md](core_05__definitions_home.md#अधयय-पच-पयभत-वयखय) मध्ये राहतात.
 >
 > **मागील (या भाषेत):** [core_05_band_integrative.md](core_05_band_integrative.md)
 >
@@ -21,7 +21,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims).
+- वरून: [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims).
 - पुढे: अध्याय पाचसाठी देखरेख-पट्टी प्रामाणिक व्याख्या घर.
 - सोबत वाचा: **देखरेख** पट्टी व्याख्या; प्रवेश व्याप्ती लागू असेल तिथे अनिवार्य समूह सोबत-वाचा.
 
@@ -92,7 +92,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - समूह घटक: [*भौतिक प्रभाव, भौतिकता निर्धारण, वर्गीकरण-प्रमाणित शासन, देखरेख आणि क्षमता आवश्यकता*](core_05_band_oversight.md#materiality-semi-independent).
-- सोबत वाचा: [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [पारदर्शकता](core_05_band_oversight.md#transparency), आणि [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries).
+- सोबत वाचा: [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [पारदर्शकता](core_05_band_oversight.md#परदरशकत), आणि [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries).
 
 </details>
 
@@ -109,7 +109,7 @@
     - डिझाइन कागदपत्रे;
     - योजना; किंवा
     - अभिप्रेत वर्तन.
-    तो पुरावा यासाठी पुरेसा स्पष्ट असावा: [पारदर्शकता](core_05_band_oversight.md#transparency) आणि बाहेरच्यांनी मूल्यमापन करण्यासाठी [भौतिक प्रभाव](core_05_band_oversight.md#material-impact).
+    तो पुरावा यासाठी पुरेसा स्पष्ट असावा: [पारदर्शकता](core_05_band_oversight.md#परदरशकत) आणि बाहेरच्यांनी मूल्यमापन करण्यासाठी [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact).
 <a id="capability-requirement-c"></a>
 - **काय टिकले पाहिजे**
   - प्रणाली लेखापरीक्षण-योग्य सीमांमध्ये व्यवहारात निर्दिष्ट परिणाम दाखवता साध्य केला पाहिजे [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries).
@@ -126,8 +126,8 @@
 
 - वरून: Principles: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — [भौतिक दाव](core_00_preamble.md#material-stake) scaling.
 - समूह घटक: [*भौतिक प्रभाव, भौतिकता निर्धारण, वर्गीकरण-प्रमाणित शासन, देखरेख आणि क्षमता आवश्यकता*](core_05_band_oversight.md#materiality-semi-independent).
-- सोबत वाचा: [अवलंबित्व](core_05_band_continuity.md#dependency), [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [धोका](core_05_band_continuity.md#risk), [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity), आणि [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional).
-- पुढे: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — वर्ग-प्रमाणित संपूर्ण-प्रणाली मूल्यमापन कर्तव्य.
+- सोबत वाचा: [अवलंबित्व](core_05_band_continuity.md#dependency), [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [धोका](core_05_band_continuity.md#risk), [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity), आणि [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional).
+- पुढे: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — वर्ग-प्रमाणित संपूर्ण-प्रणाली मूल्यमापन कर्तव्य.
 
 </details>
 
@@ -137,7 +137,7 @@
 
 - **ते काय आहे**
   - **व्याप्तीत:** किती कडक असावे: [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional), verification, आणि process discipline must be — scaled to [भौतिक दाव](core_00_preamble.md#material-stake), यांना झाकून:
-    - [भौतिक प्रभाव](core_05_band_oversight.md#material-impact);
+    - [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact);
     - [अवलंबित्व](core_05_band_continuity.md#dependency); and
     - [धोका](core_05_band_continuity.md#risk).
     The system's class under *[corpus_systems.md](../../corpus_systems.md)*, CS-3 — प्रणाली वर्गीकरण आणि हाताळणी, आणि related rules sets that intensity.
@@ -149,7 +149,7 @@
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: oversight depth and verification burden match the system's real stake, impact, dependency, आणि risk — स्व-नेमलेला नीच वर्ग नाही.
 
-    **प्राथमिक मूल्यमापन:** अंमलबजावणी नियमांखालील खरा वर्ग वापरा, याच्यासोबत वाचून [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) and [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity). प्रणालीच्या पूर्ण परिणामांना अधिक मजबूत हवे असताना स्व-नेमलेला किंवा अनौपचारिक नीच वर्ग पुरेसा नाही [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) किंवा शासन. वर्गानुसार प्रमाणित संपूर्ण-प्रणाली समीक्षा [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation):
+    **प्राथमिक मूल्यमापन:** अंमलबजावणी नियमांखालील खरा वर्ग वापरा, याच्यासोबत वाचून [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) and [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity). प्रणालीच्या पूर्ण परिणामांना अधिक मजबूत हवे असताना स्व-नेमलेला किंवा अनौपचारिक नीच वर्ग पुरेसा नाही [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) किंवा शासन. वर्गानुसार प्रमाणित संपूर्ण-प्रणाली समीक्षा [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation):
     - **Class A**, **Class B**, आणि **Class C** — full depth, mandatory;
     - **Class L** — अनिवार्य, पण प्रभावाप्रमाणे आकारलेले; आणि
     - **Class P** — प्रणाली वैधपणे **Class P** असेपर्यंत प्रोत्साहित.
@@ -159,7 +159,7 @@
     - खरे दाव फरक दुर्लक्षित करणारी एक-आकार-सर्वाला देखरेख;
     - प्रणालीचा खरा दाव, प्रभाव, अवलंबित्व, किंवा धोका कमी दाखवणारे वर्ग लेबल;
     - प्रणाली तिच्या पूर्ण परिणामांनी न्याय्य ठरेल त्यापेक्षा खाली चालवणे किंवा लेबल करणे; किंवा
-    - वर्ग-आधारित कर्तव्ये वगळणे जेव्हा [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), or [धोका](core_05_band_continuity.md#risk) अधिक मजबूत शासन आवश्यक असताना.
+    - वर्ग-आधारित कर्तव्ये वगळणे जेव्हा [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), or [धोका](core_05_band_continuity.md#risk) अधिक मजबूत शासन आवश्यक असताना.
 
 ---
 
@@ -185,7 +185,7 @@
     - स्रोत संरक्षण;
     - तपास; आणि
     - प्रकाशन.
-    ते काम करणारे संज्ञ प्राणी [अभिव्यक्ती](core_05_band_participation.md#expression-constitutional) and [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तळ, याच्याखाली उच्च-परीक्षण संरक्षणासह [अनुच्छेद V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, आणि Press*) ती क्रियाकलाप खराब करण्याच्या राज्य आणि संचालक कृतींविरुद्ध.
+    ते काम करणारे संज्ञ प्राणी [अभिव्यक्ती](core_05_band_participation.md#expression-constitutional) and [सभा](core_05_band_participation.md#assembly-constitutional) अधिकार-तळ, याच्याखाली उच्च-परीक्षण संरक्षणासह [अनुच्छेद V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, आणि Press*) ती क्रियाकलाप खराब करण्याच्या राज्य आणि संचालक कृतींविरुद्ध.
   - **व्याप्तीबाहेर:** बातमी संकलन, तपास, किंवा पत्रकारिता म्हणून कार्य करणारे प्रकाशन नसलेली प्रेस प्रमाणपत्रे, संस्थात्मक पदव्या, किंवा सामान्य व्यावसायिक भाषण.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
@@ -219,18 +219,18 @@
 - **Scope:** where joint invocation is met, the Oversight home for two questions — when do effects matter enough constitutionally, आणि do the metrics still track reality? Evaluation must rest on real effects — not on manipulable proxies.
 
 **विषय गट सदस्य.** हा गट यांचा समावेश करतो:
-- [भौतिक](core_05_band_oversight.md#material) — परिणाम संवैधानिकपणे महत्त्वाचे होण्याइतके मोठे आहेत का.
-- [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) — प्रणाली किंवा घटनांसाठी ते वर्गीकृत करण्याची पद्धत.
-- [भौतिकता सचोटी बंधन](core_05_band_oversight.md#materiality-integrity-constraint) — चित्र आकुंचित करण्यासाठी सीमा खेळण्यास बंदी.
-- [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) — how far, how large, आणि how severe the effects are.
-- [भौतिक धोका](core_05_band_oversight.md#material-risk) — how likely, how fast, आणि how hard to undo the harm may be.
-- [अनिश्चिततेखाली भौतिकता](core_05_band_oversight.md#materiality-under-uncertainty) — उत्तर अस्पष्ट असताना सावधगिरी डीफॉल्ट.
-- [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — मेट्रिक आता वास्तवाशी जुळत नसताना ध्वज, अवस्था बिघडताना गुण शिजवणे धरून.
-- [भौतिक अधोगती](core_05_band_oversight.md#material-degradation) — सुरक्षा, ज्ञानविषयक अखंडता, किंवा अर्थपूर्ण कर्तृत्व यासारख्या संरक्षित अटीत खरी घट.
+- [भौतिक](core_05_band_oversight.md#भतक) — परिणाम संवैधानिकपणे महत्त्वाचे होण्याइतके मोठे आहेत का.
+- [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) — प्रणाली किंवा घटनांसाठी ते वर्गीकृत करण्याची पद्धत.
+- [भौतिकता सचोटी बंधन](core_05_band_oversight.md#भतकity-integrity-constraint) — चित्र आकुंचित करण्यासाठी सीमा खेळण्यास बंदी.
+- [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact) — how far, how large, आणि how severe the effects are.
+- [भौतिक धोका](core_05_band_oversight.md#भतक-risk) — how likely, how fast, आणि how hard to undo the harm may be.
+- [अनिश्चिततेखाली भौतिकता](core_05_band_oversight.md#भतकity-यचयखल-uncertainty) — उत्तर अस्पष्ट असताना सावधगिरी डीफॉल्ट.
+- [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — मेट्रिक आता वास्तवाशी जुळत नसताना ध्वज, अवस्था बिघडताना गुण शिजवणे धरून.
+- [भौतिक अधोगती](core_05_band_oversight.md#भतक-degradation) — सुरक्षा, ज्ञानविषयक अखंडता, किंवा अर्थपूर्ण कर्तृत्व यासारख्या संरक्षित अटीत खरी घट.
 
 <a id="materiality-operator-phrases"></a>
 
-**संचालक वाक्ये** (corpus-wide reading aids owned with [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)):
+**संचालक वाक्ये** (corpus-wide reading aids owned with [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)):
 
 - <a id="materially-implicated"></a>**भौतिकपणे गुंतलेले** — हा कर्तव्य, माप, किंवा विषय दाव भौतिक असल्याने प्रकरणासाठी *टेबलावर* आहे.
 - <a id="materially-misaligned"></a>**भौतिकपणे चुकीचे संरेखित** / **संवैधानिक चुकीचे संरेखन** — वर्तन किंवा रचना भौतिक प्रमाणात *संवैधानिक संरेखनाबाहेर* आहे.
@@ -248,8 +248,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
-- सोबत वाचा: [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [भौतिक धोका](core_05_band_oversight.md#material-risk), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), आणि [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance).
+- पुढे: Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)) (*Materiality as constitutional measurement*); Principles: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
+- सोबत वाचा: [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [भौतिक धोका](core_05_band_oversight.md#भतक-risk), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), आणि [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#वरगकरण-परमणत-शसन).
 
 </details>
 
@@ -258,19 +258,19 @@
 *सोप्या भाषेत: महत्त्वाचे होण्याइतके मोठे — क्षुल्लक, सौंदर्यप्रसाधने, किंवा काही खरे न बदलणारे कागदपत्र नाही.*
 
 - **ते काय आहे**
-  - **व्याप्तीत:** अर्थपूर्ण उत्पन्न करू शकणाऱ्या अटी [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) or [भौतिक धोका](core_05_band_oversight.md#material-risk).
+  - **व्याप्तीत:** अर्थपूर्ण उत्पन्न करू शकणाऱ्या अटी [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact) or [भौतिक धोका](core_05_band_oversight.md#भतक-risk).
   - **व्याप्तीबाहेर:** अर्थपूर्ण भौतिक प्रभाव किंवा भौतिक धोका नसलेली क्षुल्लकता, सौंदर्यप्रसाधने, किंवा केवळ कागदपत्रे.
 <a id="material-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
-  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)) — threshold input for [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination).
+  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)) — threshold input for [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination).
 
-    **प्राथमिक मूल्यमापन:** अटी अर्थपूर्ण उत्पन्न करू शकतात का ते विचारा [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) or [भौतिक धोका](core_05_band_oversight.md#material-risk) फक्त तुकडा नव्हे, संपूर्ण प्रणाली पाहिल्यावर.
-  - **दुय्यम माप:** [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [भौतिक धोका](core_05_band_oversight.md#material-risk), आणि [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
+    **प्राथमिक मूल्यमापन:** अटी अर्थपूर्ण उत्पन्न करू शकतात का ते विचारा [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact) or [भौतिक धोका](core_05_band_oversight.md#भतक-risk) फक्त तुकडा नव्हे, संपूर्ण प्रणाली पाहिल्यावर.
+  - **दुय्यम माप:** [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [भौतिक धोका](core_05_band_oversight.md#भतक-risk), आणि [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
 
     **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, एकेक छोटे दिसणारे परिणाम एकत्र केल्यावर अजून छोटे दिसतात का ते विचारा — प्रणाली-व्यापी [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality) pathways.
 <a id="material-c"></a>
 - **काय टिकले पाहिजे**
-  - **प्राथमिक अपयश:** ignoring conditions that [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) would treat as material.
+  - **प्राथमिक अपयश:** ignoring conditions that [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) would treat as material.
   - **दुय्यम अपयश:** एकत्र किंवा प्रणाली-व्यापी घेतल्यास भौतिक ठरतील असे वैयक्तिक छोटे परिणाम अभौतिक म्हणणे.
 
 ---
@@ -282,9 +282,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [भौतिक दाव](core_00_preamble.md#material-stake) scaling proxy; अध्याय एक surfaces this definition across **Safety** (**अध्याय एक §8.1**), **Truth** (**अध्याय एक §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, आणि **अध्याय एक §6.3.2** where **Materiality** appears in D/A/C widgets — see [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
+- पुढे: Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)) (*Materiality as constitutional measurement*); Principles: [भौतिक दाव](core_00_preamble.md#material-stake) scaling proxy; अध्याय एक surfaces this definition across **Safety** (**अध्याय एक §8.1**), **Truth** (**अध्याय एक §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, आणि **अध्याय एक §6.3.2** where **Materiality** appears in D/A/C widgets — see [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - समूह घटक: [*भौतिक प्रभाव, भौतिकता निर्धारण, वर्गीकरण-प्रमाणित शासन, देखरेख आणि क्षमता आवश्यकता*](core_05_band_oversight.md#materiality-semi-independent).
-- सोबत वाचा: [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [भौतिक धोका](core_05_band_oversight.md#material-risk), [प्रणालीगत भौतिकता](core_05_band_continuity.md#systemic-materiality), आणि [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability).
+- सोबत वाचा: [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [भौतिक धोका](core_05_band_oversight.md#भतक-risk), [प्रणालीगत भौतिकता](core_05_band_continuity.md#systemic-materiality), आणि [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत).
 
 </details>
 
@@ -293,19 +293,19 @@
 *सोप्या भाषेत: एखादा प्रभाव किंवा धोका संवैधानिकपणे भौतिक आहे का — कोणती कर्तव्ये लागू होतात हे बदलण्याइतका दाव मोठा — प्रणाली किंवा घटनेसाठी, वेगळ्या तुकड्यांऐवजी जोडलेल्या संपूर्णाकडे पाहून ठरवण्याची पद्धत. यात संभाव्य हानी आहे, फक्त आधीच झालेली हानी नाही.*
 
 - **ते काय आहे**
-  - **व्याप्तीत:** हे विचारीत वर्गीकरण निर्णय [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) or [भौतिक धोका](core_05_band_oversight.md#material-risk) is constitutionally material for:
+  - **व्याप्तीत:** हे विचारीत वर्गीकरण निर्णय [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact) or [भौतिक धोका](core_05_band_oversight.md#भतक-risk) is constitutionally material for:
     - a system (including [प्रणालीगत भौतिकता](core_05_band_continuity.md#systemic-materiality)); or
-    - an event, incident, or episode (including prospective [हानी](core_05_band_accountability.md#harm) under [भौतिक धोका](core_05_band_oversight.md#material-risk)),
+    - an event, incident, or episode (including prospective [हानी](core_05_band_accountability.md#harm) under [भौतिक धोका](core_05_band_oversight.md#भतक-risk)),
     वेगळ्या तुकड्यांऐवजी जोडलेल्या संपूर्णाकडे पाहिल्यावर.
   - **व्याप्तीबाहेर:**
-    - [भौतिक](core_05_band_oversight.md#material) threshold trivia, cosmetics, or mere paperwork significance with no stake-scaled duty change; or
-    - ordinary classification disagreement that still evaluates the connected whole under [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) and [भौतिक धोका](core_05_band_oversight.md#material-risk) —
+    - [भौतिक](core_05_band_oversight.md#भतक) threshold trivia, cosmetics, or mere paperwork significance with no stake-scaled duty change; or
+    - ordinary classification disagreement that still evaluates the connected whole under [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact) and [भौतिक धोका](core_05_band_oversight.md#भतक-risk) —
     ते त्यांच्या स्वतःच्या घरांखाली बसतात किंवा पर्यायी निर्धार न राहता सामान्य मतभेद राहतात.
 <a id="materiality-determination-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** याच्याखाली [भौतिक दाव](core_00_preamble.md#material-stake), जोडलेल्या संपूर्णाकडे पाहिल्यावर कोणती कर्तव्ये लागू होतात हे बदलण्याइतके मोठे आहेत का ते विचारा — चर्चेतील प्रणाली किंवा घटनेसाठी — यांना झाकून:
-    - [भौतिक प्रभाव](core_05_band_oversight.md#material-impact);
-    - [भौतिक धोका](core_05_band_oversight.md#material-risk) (including prospective [हानी](core_05_band_accountability.md#harm)); and
+    - [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact);
+    - [भौतिक धोका](core_05_band_oversight.md#भतक-risk) (including prospective [हानी](core_05_band_accountability.md#harm)); and
     - [प्रणालीगत भौतिकता](core_05_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
 
     **प्राथमिक मूल्यमापन:** प्रकरणासाठी महत्त्वाचे सर्व प्रकारचे परिणाम समाविष्ट करा, यांना झाकून:
@@ -325,16 +325,16 @@
     - एकत्रीकरण;
     - अवलंबित्व; आणि
     - घटनेसाठी, प्रभावित संज्ञावर किंवा घटनांनी विस्कळीत केलेल्या गोष्टींवर अवलंबून इतर संज्ञ प्राणी किंवा प्रणालींवरील पुढील परिणाम.
-  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) and [भौतिकता सचोटी बंधन](core_05_band_oversight.md#materiality-integrity-constraint) — where boundary games, aggregation avoidance, or proxy metrics defeat honest materiality analysis.
+  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) and [भौतिकता सचोटी बंधन](core_05_band_oversight.md#भतकity-integrity-constraint) — where boundary games, aggregation avoidance, or proxy metrics defeat honest materiality analysis.
 
     **तृतीय मूल्यमापन:** संचालक यावर टेकतात तिथे:
     - सीमा;
     - प्रतिनिधी-सूचक; किंवा
     - अनौपचारिक नीच वर्ग,
-    apply [भौतिकता सचोटी बंधन](core_05_band_oversight.md#materiality-integrity-constraint) and [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — separate real materiality analysis from structural manipulation or score gaming.
+    apply [भौतिकता सचोटी बंधन](core_05_band_oversight.md#भतकity-integrity-constraint) and [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — separate real materiality analysis from structural manipulation or score gaming.
 <a id="materiality-determination-c"></a>
 - **काय टिकले पाहिजे**
-  - भौतिकता निर्धारण तेव्हाच टिकते जेव्हा वर्गीकरण लिहिले आहे, [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), आणि tied to effects that actually matter constitutionally.
+  - भौतिकता निर्धारण तेव्हाच टिकते जेव्हा वर्गीकरण लिहिले आहे, [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), आणि tied to effects that actually matter constitutionally.
   - **प्राथमिक अपयश:**
     - कोणती संवैधानिक कर्तव्ये लागू होतात यात खरा बदल नसलेली फक्त-कागदी किंवा अभौतिक लेबले — चर्चेतील प्रणाली किंवा घटनेसाठी शासन, देखरेख, क्षमता अपेक्षा, किंवा इतर दाव-प्रमाणित कर्तव्ये;
     - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [कल्याण](core_05_band_continuity.md#wellbeing); or
@@ -343,7 +343,7 @@
     - त्यांना तोडणे;
     - एकत्रीकरण टाळणे; किंवा
     - अवलंबित्व दुर्लक्षित करणे.
-  - **तृतीय अपयश:** determinations that rest on manipulated boundaries or "the metric looks fine" where [भौतिकता सचोटी बंधन](core_05_band_oversight.md#materiality-integrity-constraint) or [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **तृतीय अपयश:** determinations that rest on manipulated boundaries or "the metric looks fine" where [भौतिकता सचोटी बंधन](core_05_band_oversight.md#भतकity-integrity-constraint) or [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) is reasonably observable.
 
 ---
 
@@ -364,52 +364,52 @@
   - **मालक:** **कलम I** (*पर्यावरणीय जीवनपूर्व अटी*) आणि **कलम III** (*जीवनरक्षण आणि अत्यावश्यक उपलब्धता*).
 <a id="domain-specific-materiality-safety"></a>
 - **सुरक्षा:** *ज्यांनी तो धोका निवडलेला नाही आणि ज्यांना दूर जाता येत नाही, अशा कोणाला गतिविधीमुळे इजा होऊ शकते का?*
-  - **भौतिक ठरते जेव्हा:** धोका जाणून स्वीकारलेला नाही आणि स्वतंत्रपणे दूर जाता येत नाही अशा संवेदनशील व्यक्तीला शारीरिक किंवा मानसिक [हानी](../../core_05_band_accountability.md#harm) होण्याचा विश्वासार्ह कारणमार्ग गतिविधीमुळे निर्माण होतो—म्हणजे संस्थेच्या कृतीपासून हानीपर्यंतचा विश्वासार्ह, मागोवा घेता येणारा मार्ग. नेहमीच्या उदाहरणांत आश्रितांची काळजी, इजा करू शकणारी उत्पादने किंवा सेवा, घातक पदार्थ आणि वाहने, वैद्यकीय किंवा मानसिक काळजी म्हणून दिलेला सल्ला, आणि कार्यकारी पक्ष ज्यांना निर्देश देते त्यांच्या कामाच्या अटी येतात.
+  - **भौतिक ठरते जेव्हा:** धोका जाणून स्वीकारलेला नाही आणि स्वतंत्रपणे दूर जाता येत नाही अशा संवेदनशील व्यक्तीला शारीरिक किंवा मानसिक [हानी](../../core_05.035_band_accountability.md#harm) होण्याचा विश्वासार्ह कारणमार्ग गतिविधीमुळे निर्माण होतो—म्हणजे संस्थेच्या कृतीपासून हानीपर्यंतचा विश्वासार्ह, मागोवा घेता येणारा मार्ग. नेहमीच्या उदाहरणांत आश्रितांची काळजी, इजा करू शकणारी उत्पादने किंवा सेवा, घातक पदार्थ आणि वाहने, वैद्यकीय किंवा मानसिक काळजी म्हणून दिलेला सल्ला, आणि कार्यकारी पक्ष ज्यांना निर्देश देते त्यांच्या कामाच्या अटी येतात.
   - **भौतिक ठरत नाही:** प्रौढांनी जाणून स्वीकारलेले, स्वतंत्रपणे सोडता येणारे आणि सामान्य जीवनातही असलेले धोके.
-  - **मालक:** [सुरक्षा (घटनात्मक मर्यादा)](../../core_05_band_continuity.md#safety-constraint), **कलम III-D** (*सुरक्षित कामाच्या अटी*), **कलम VII** (*स्व-मालकी*), आणि **कलम VIII** (*कुटुंब, काळजी आणि विकासशील संवेदनशील व्यक्ती*).
+  - **मालक:** [सुरक्षा (घटनात्मक मर्यादा)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), **कलम III-D** (*सुरक्षित कामाच्या अटी*), **कलम VII** (*स्व-मालकी*), आणि **कलम VIII** (*कुटुंब, काळजी आणि विकासशील संवेदनशील व्यक्ती*).
 <a id="domain-specific-materiality-authority"></a>
 - **इतरांवरील अधिकार:** *कार्यकारी पक्ष असे निर्णय घेते का जे इतरांनी पाळलेच पाहिजेत किंवा अंतिम मानू शकतात, आणि ज्यामुळे त्यांना काय मिळेल किंवा काय करता येईल हे बदलते?*
-  - **भौतिक ठरते जेव्हा:** कार्यकारी पक्ष अधिकृत कृती करते जी इतरांनी पाळली पाहिजे किंवा निश्चित मानून तिच्यावर अवलंबून राहू शकतात आणि जी जीवनावश्यक वस्तू, शिक्षण, सुरक्षा, उपजीविका, हक्क किंवा सामाजिक स्थानापर्यंतच्या प्रवेशावर परिणाम करते (अशी कृती [भौतिक बंधनकारक कृती](../../core_05_band_accountability.md#materially-binding-act) ठरते; तिची भौतिकता या यादीतून ठरते आणि त्यामुळे या यादीवर परत परिणाम होत नाही); किंवा कार्यकारी पक्ष सदस्याला वगळते, शिस्त लावते किंवा काढून टाकते आणि त्याचा यांपैकी कशावरही भौतिक परिणाम होतो.
+  - **भौतिक ठरते जेव्हा:** कार्यकारी पक्ष अधिकृत कृती करते जी इतरांनी पाळली पाहिजे किंवा निश्चित मानून तिच्यावर अवलंबून राहू शकतात आणि जी जीवनावश्यक वस्तू, शिक्षण, सुरक्षा, उपजीविका, हक्क किंवा सामाजिक स्थानापर्यंतच्या प्रवेशावर परिणाम करते (अशी कृती [भौतिक बंधनकारक कृती](../../core_05.035_band_accountability.md#materially-binding-act) ठरते; तिची भौतिकता या यादीतून ठरते आणि त्यामुळे या यादीवर परत परिणाम होत नाही); किंवा कार्यकारी पक्ष सदस्याला वगळते, शिस्त लावते किंवा काढून टाकते आणि त्याचा यांपैकी कशावरही भौतिक परिणाम होतो.
   - **भौतिक ठरत नाही:** स्वीकारणे बंधनकारक नसलेली आणि इतरांचा प्रवेश रोखत नसलेली मदत, वस्तू, श्रम किंवा सेवा; खाजगी घटकातील निवडी; आणि कोणालाही बांधून न ठेवणारे मसुदे, शिफारसी व आमंत्रणे.
   - **मालक:** **कलम VI** (*समान मूलभूत हक्क*), **कलम X** (*स्वनिर्णय, कर्तृत्व आणि सहभाग*), **कलम XII** (*हितधारक प्रणाली सहभाग, प्रतिनिधित्व आणि योग्य प्रक्रिया*), आणि अध्याय आठ.
 <a id="domain-specific-materiality-livelihood"></a>
 - **उपजीविका आणि आर्थिक अटी:** *इतरांचे उत्पन्न संस्थेवर अवलंबून आहे का, किंवा त्यांना आवश्यक असलेल्या वस्तूंच्या किंमती व अटी संस्थेवर अवलंबून आहेत का?*
-  - **भौतिक ठरते जेव्हा:** कार्यकारी पक्ष नियोक्ता, पैसे देणारा, खरेदीदार किंवा व्यासपीठ म्हणून इतरांच्या उत्पन्नाचा प्रमुख स्रोत असते; इतरांना आवश्यक आणि सहज पर्याय नसलेल्या वस्तूंच्या किंमती किंवा अटी ठरवते; किंवा [प्रकरण एक §11 बाजाररचना](../../core_01_a_values_principles.md#11-market-structure) मध्ये वर्णन केलेली बाजारातील सत्ता तिच्याकडे असते.
+  - **भौतिक ठरते जेव्हा:** कार्यकारी पक्ष नियोक्ता, पैसे देणारा, खरेदीदार किंवा व्यासपीठ म्हणून इतरांच्या उत्पन्नाचा प्रमुख स्रोत असते; इतरांना आवश्यक आणि सहज पर्याय नसलेल्या वस्तूंच्या किंमती किंवा अटी ठरवते; किंवा [प्रकरण एक §11 बाजाररचना](../../core_01.005_values_principles.md#11-market-structure) मध्ये वर्णन केलेली बाजारातील सत्ता तिच्याकडे असते.
   - **भौतिक ठरत नाही:** पक्ष सहजपणे दूर जाऊ शकतात अशी अधूनमधून होणारी देवाणघेवाण, आणि कार्यकारी पक्ष बाजाराच्या अटी घडवू शकत नाही असा सामान्य व्यापार.
   - **मालक:** **कलम III-C** (*कामगार आणि आर्थिक किमान मर्यादा*) आणि **कलम V** (*संसाधन वाटप, अवलंबित्व आणि कार्यकारी पक्ष निधीपुरवठा*).
 <a id="domain-specific-materiality-custody"></a>
 - **ताबा आणि सुरक्षित अभिरक्षा:** *संस्थेकडे इतरांसाठी महत्त्वाच्या गोष्टी आहेत का, आणि त्या सुरक्षित ठेवण्यासाठी इतर तिच्यावर अवलंबून आहेत का?*
-  - **भौतिक ठरते जेव्हा:** संस्थेच्या स्वतःच्या कामासाठी सदस्यांनी दिलेल्या योगदानापलीकडे, कार्यकारी पक्ष निधी, मालमत्ता, प्रवेश-माहिती, किल्ल्या किंवा इतर संवेदनशील व्यक्तींच्या नोंदी व माहिती ठेवते आणि इतर तिच्या सुरक्षिततेवर, अचूकतेवर किंवा उपलब्धतेवर अवलंबून असतात; किंवा ती [स्थायी नोंदी](../../core_05_band_accountability.md#standing-record-chapter-six) ठेवते अथवा मंच, प्रमाणितीकरण कार्यकारी पक्ष किंवा नोंद कार्यालय म्हणून काम करते. सदस्य नसलेल्या व्यक्तींची वैयक्तिक किंवा संवेदनशील माहितीही यात येते.
+  - **भौतिक ठरते जेव्हा:** संस्थेच्या स्वतःच्या कामासाठी सदस्यांनी दिलेल्या योगदानापलीकडे, कार्यकारी पक्ष निधी, मालमत्ता, प्रवेश-माहिती, किल्ल्या किंवा इतर संवेदनशील व्यक्तींच्या नोंदी व माहिती ठेवते आणि इतर तिच्या सुरक्षिततेवर, अचूकतेवर किंवा उपलब्धतेवर अवलंबून असतात; किंवा ती [स्थायी नोंदी](../../core_05.035_band_accountability.md#standing-record) ठेवते अथवा मंच, प्रमाणितीकरण कार्यकारी पक्ष किंवा नोंद कार्यालय म्हणून काम करते. सदस्य नसलेल्या व्यक्तींची वैयक्तिक किंवा संवेदनशील माहितीही यात येते.
   - **भौतिक ठरत नाही:** समूहाच्या स्वतःच्या साहित्याकरिता वापरली जाणारी सदस्यांची सामायिक रक्कम, आणि सदस्यांना माहिती असलेली समूहाच्या सूचनांची संपर्कयादी.
-  - **मालक:** **कलम II-E** (*माहिती हाताळणी आणि नेटवर्क अवलंबित्व*), **कलम IX** (*प्रतिमा, अनुभव-माहिती आणि प्रकाशन हक्क*), **कलम XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*), आणि [प्रकरण दहा §3.7 नोंदींचा ताबा आणि उघडण्याचा अधिकार](../../core_10_standing_assessment.md#37-record-custody-and-opening-authority).
+  - **मालक:** **कलम II-E** (*माहिती हाताळणी आणि नेटवर्क अवलंबित्व*), **कलम IX** (*प्रतिमा, अनुभव-माहिती आणि प्रकाशन हक्क*), **कलम XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*), आणि [प्रकरण दहा §3.7 नोंदींचा ताबा आणि उघडण्याचा अधिकार](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority).
 <a id="domain-specific-materiality-information"></a>
 - **माहिती आणि सत्य:** *सुरक्षा, पैसा, आरोग्य, हक्क किंवा सामाजिक स्थान यांबद्दल निर्णय घेताना इतर कार्यकारी पक्ष जे सांगते त्यावर सत्य म्हणून अवलंबून राहतील का?*
-  - **भौतिक ठरते जेव्हा:** कार्यकारी पक्ष एखादी गोष्ट सांगते, प्रकाशित करते, गुणांकन करते किंवा प्रमाणित करते आणि माहितीचा स्रोत ज्यांना माहीत आहे त्यांच्यापलीकडील लोक वरील निर्णयांसाठी त्यावर सत्य म्हणून अवलंबून राहतील, हे पूर्वानुमानित असते; किंवा इतर माहिती शोधण्यासाठी वा तिचे मूल्यमापन करण्यासाठी वापरतात अशी [माहिती कार्यकारी पक्ष](../../core_05_band_participation.md#info-sphere) पायाभूत सुविधा (उदा. व्यासपीठ, सूची किंवा गुणांकन) चालवते.
+  - **भौतिक ठरते जेव्हा:** कार्यकारी पक्ष एखादी गोष्ट सांगते, प्रकाशित करते, गुणांकन करते किंवा प्रमाणित करते आणि माहितीचा स्रोत ज्यांना माहीत आहे त्यांच्यापलीकडील लोक वरील निर्णयांसाठी त्यावर सत्य म्हणून अवलंबून राहतील, हे पूर्वानुमानित असते; किंवा इतर माहिती शोधण्यासाठी वा तिचे मूल्यमापन करण्यासाठी वापरतात अशी [माहिती कार्यकारी पक्ष](../../core_05.055_band_participation.md#info-sphere) पायाभूत सुविधा (उदा. व्यासपीठ, सूची किंवा गुणांकन) चालवते.
   - **भौतिक ठरत नाही:** मत, कला, वैयक्तिक कथन आणि तसे म्हणून सादर केलेला पत्रव्यवहार, तसेच स्रोत माहीत असलेल्या लोकांमधील अचूक माहितीची देवाणघेवाण.
-  - **मालक:** [सत्य (घटनात्मक मर्यादा)](core_05_band_oversight.md#truth-constitutional-constraint), **कलम IX-C** (*सत्यनिष्ठ प्रकाशन आणि उच्च-प्रभाव प्रकाशन मर्यादा*), **कलम XIII-C** (*खोटा विश्वास आणि दिशाभूल करणाऱ्या अवलंबित्वाची मनाई*), आणि **कलम XV** (*माहिती परिसंस्थेची सचोटी*).
+  - **मालक:** [सत्य (घटनात्मक मर्यादा)](core_05_band_oversight.md#सतय-सवधनक-बधन), **कलम IX-C** (*सत्यनिष्ठ प्रकाशन आणि उच्च-प्रभाव प्रकाशन मर्यादा*), **कलम XIII-C** (*खोटा विश्वास आणि दिशाभूल करणाऱ्या अवलंबित्वाची मनाई*), आणि **कलम XV** (*माहिती परिसंस्थेची सचोटी*).
 <a id="domain-specific-materiality-dependence"></a>
 - **अवलंबित्व आणि बाहेर पडण्याची क्षमता:** *कार्यकारी पक्ष सोडल्यास, तिची जागा दुसऱ्याने घेतल्यास किंवा ती अपयशी ठरल्यास इतरांचे काही वास्तविक नुकसान होईल का?*
-  - **भौतिक ठरते जेव्हा:** इतर कार्यकारी पक्ष/समूहावर अवलंबून झाले आहेत आणि सेवा नाकारणे, पर्याय निवडणे किंवा बाहेर पडणे यामुळे सहज भरून न निघणारे प्रवेश, माहिती, उत्पन्न, समुदाय किंवा वेळ यांचे भौतिक नुकसान होईल; किंवा संस्थेचे अपयश अथवा माघार इतरांपर्यंत पसरेल ([अवलंबित्व](../../core_05_band_continuity.md#dependency), [साखळी अपयश](../../core_05_band_continuity.md#cascading-failure)).
+  - **भौतिक ठरते जेव्हा:** इतर कार्यकारी पक्ष/समूहावर अवलंबून झाले आहेत आणि सेवा नाकारणे, पर्याय निवडणे किंवा बाहेर पडणे यामुळे सहज भरून न निघणारे प्रवेश, माहिती, उत्पन्न, समुदाय किंवा वेळ यांचे भौतिक नुकसान होईल; किंवा संस्थेचे अपयश अथवा माघार इतरांपर्यंत पसरेल ([अवलंबित्व](../../core_05.040_band_continuity.md#dependency), [साखळी अपयश](../../core_05.040_band_continuity.md#cascading-failure)).
   - **भौतिक ठरत नाही:** इतरांना भौतिक नुकसान न होता सोडता येणारे अवलंबित्व.
   - **मालक:** **कलम V-A** (*अवलंबित्व नकाशीकरण आणि संसाधन-प्रवाह पारदर्शकता*), **कलम XXI** (*परस्परकार्यक्षमता, हस्तांतरणक्षमता आणि बाहेर पडण्याची सचोटी*), आणि **कलम II-F** (*सातत्य आणि संचालकाकडून बंद करणे*).
 <a id="domain-specific-materiality-ecology"></a>
 - **कार्यकारी पक्ष:** *आज गतिविधी थांबली तर कार्यकारी पक्ष स्वतःहून सावरू शकेल का? उलट बाजूने, कार्यकारी पक्ष एखाद्या क्षेत्राच्या पुनर्बहालीस मदत करते का?*
-  - **भौतिक ठरते जेव्हा:** गतिविधी [परिसंस्थेची पुनर्बहाली क्षमता](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) कमी करते. खालीलपैकी एक चाचणी पुरेशी आहे:
+  - **भौतिक ठरते जेव्हा:** गतिविधी [परिसंस्थेची पुनर्बहाली क्षमता](../../core_05.040_band_continuity.md#ecological-recovery-capacity) कमी करते. खालीलपैकी एक चाचणी पुरेशी आहे:
     - त्या प्रकारच्या परिसंस्थेसाठी ठरवलेल्या कालावधीत कार्यकारी पक्ष मदतीशिवाय पूर्वीचे कार्य पुन्हा प्राप्त करू शकत नाही;
     - त्या प्रकारच्या परिसंस्थेसाठी उपलब्ध सर्वोत्तम पुराव्याच्या आधारे, गतिविधी जैवविविधता, माती, पाणी, हवामान स्थैर्य किंवा अधिवास जोडणी यांना टिपिंग पॉइंटच्या (ज्यापुढे कार्यकारी पक्ष मदतीशिवाय कार्य पुनर्प्राप्त करू शकत नाही अशा पातळीच्या) मोजता येण्याजोग्या जवळ नेते; किंवा
     - पुनर्निर्मित होणारा साठा, तो पुन्हा निर्माण होण्याच्या वेगापेक्षा जलद वापरते.
   - **नेहमी लागू:** पुनर्बहाली क्षमता कायमची गमावण्याचा विश्वासार्ह कारणमार्ग असेल तर वरील चाचण्यांचे उत्तर काहीही असो आणि प्रमाण कितीही असो, **कलम I-D** (*अस्तित्वविषयक धोका आणि परिसंस्थेची पुनर्बहाली क्षमता*) लागू होते.
-  - **भौतिक ठरत नाही:** कार्यकारी पक्ष जितके पुनर्निर्माण करते त्या मर्यादेत वापर. व्यवस्था तणावाखाली आहे किंवा प्रजाती/अधिवास धोक्यात आहे असे माहीत नसल्यास, सामान्य घरगुती आणि सामुदायिक गतिविधी पुनर्बहालीच्या मर्यादेत राहतील अशी अपेक्षा आहे. [कार्यकारी पक्ष ठसा](../../core_05_band_continuity.md#ecological-footprint) हे प्रकटीकरण मोजमाप आहे; ते ही सीमा ठरवत नाही.
+  - **भौतिक ठरत नाही:** कार्यकारी पक्ष जितके पुनर्निर्माण करते त्या मर्यादेत वापर. व्यवस्था तणावाखाली आहे किंवा प्रजाती/अधिवास धोक्यात आहे असे माहीत नसल्यास, सामान्य घरगुती आणि सामुदायिक गतिविधी पुनर्बहालीच्या मर्यादेत राहतील अशी अपेक्षा आहे. [कार्यकारी पक्ष ठसा](../../core_05.040_band_continuity.md#ecological-footprint) हे प्रकटीकरण मोजमाप आहे; ते ही सीमा ठरवत नाही.
   - **क्षेत्र पुनर्बहाल करण्यात मदत:** लागवड, अधिवास किंवा ओढ्याची दुरुस्ती, आक्रमक प्रजाती काढणे, मातीची पुनर्बांधणी किंवा स्वच्छता यांसारखे परिसंस्थेची सक्रिय पुनर्बहाली करणारे काम हे हानीकारक नाही आणि या प्रश्नाखाली संस्थेला भौतिक ठरवत नाही. कार्यकारी पक्ष सहन करू शकेल अशा मर्यादेत केले तर ते सामान्य सामुदायिक काम आहे. ते फक्त तेव्हाच भौतिक ठरते जेव्हा:
     - पुनर्बहाली स्वतः वरील तीनपैकी एक चाचणी पूर्ण करते (उदा. पसरत जाणारी आणलेली प्रजाती किंवा खालच्या प्रवाहातील क्षेत्राला हानी करणारा पाण्याच्या प्रवाहातील बदल); किंवा
     - दुसऱ्या क्षेत्रातील सीमा ओलांडते (उदा. इतर ज्यावर अवलंबून आहेत अशी जमीन किंवा निधी धारण करणे, किंवा इतर ज्यावर अवलंबून आहेत असे पुनर्बहालीचे दावे प्रकाशित करणे).
-  - **योगदान म्हणून पुनर्बहालीचे काम:** [प्रकरण दहा §4.3 योगदान मार्ग वर्णन-सूची आणि मापन भूमिका](../../core_10_standing_assessment.md#43-route-descriptor-measurement-roles) अंतर्गत पुनर्बहालीचे काम कार्यकारी पक्ष संवर्धन म्हणून मान्य आहे. कोणताही प्रणाली सनद किंवा कार्यकारी पक्षत्मक सनद नसतानाही प्रत्येक सदस्य वैयक्तिक दावेदार म्हणून त्या नोंदीची मागणी करू शकतो ([प्रकरण दहा §3.7 नोंदींचा ताबा आणि उघडण्याचा अधिकार](../../core_10_standing_assessment.md#37-record-custody-and-opening-authority)).
+  - **योगदान म्हणून पुनर्बहालीचे काम:** [प्रकरण दहा §4.3 योगदान मार्ग वर्णन-सूची आणि मापन भूमिका](../../core_10.000_standing_assessment.md#43-route-descriptor-measurement-roles) अंतर्गत पुनर्बहालीचे काम कार्यकारी पक्ष संवर्धन म्हणून मान्य आहे. कोणताही प्रणाली सनद किंवा कार्यकारी पक्षत्मक सनद नसतानाही प्रत्येक सदस्य वैयक्तिक दावेदार म्हणून त्या नोंदीची मागणी करू शकतो ([प्रकरण दहा §3.7 नोंदींचा ताबा आणि उघडण्याचा अधिकार](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)).
   - **मालक:** **कलम I-A** (*पर्यावरणीय पूर्वअटी आणि कार्यकारी पक्ष सचोटी*) आणि **कलम I-D** (*अस्तित्वविषयक धोका आणि परिसंस्थेची पुनर्बहाली क्षमता*).
 <a id="domain-specific-materiality-systemic"></a>
 - **प्रणालीगत आणि अपरिवर्तनीय परिणाम:** *गतिविधी एकटीने किंवा इतरांसह सत्ता केंद्रीत करू शकते, सामायिक कार्यावर ताबा मिळवू शकते, अपयश पसरवू शकते किंवा न बदलता येणारी स्थिती कायम करू शकते का?*
-  - **भौतिक ठरते जेव्हा:** संस्थेची गतिविधी एकटीने किंवा समान नियंत्रणाखाली अथवा त्याच सामायिक प्रणालीवरील इतरांसह सत्ता केंद्रीत करू शकते, सामायिक कार्य ताब्यात घेऊ शकते, प्रणालींमध्ये साखळी परिणाम घडवू शकते किंवा व्यवहारात उलटवता न येणारी स्थिती निर्माण करू शकते; किंवा [अस्तित्वविषयक धोका](../../core_05_band_continuity.md#existential-risk) याकडे जाणारा विश्वासार्ह कारणमार्ग निर्माण करते.
+  - **भौतिक ठरते जेव्हा:** संस्थेची गतिविधी एकटीने किंवा समान नियंत्रणाखाली अथवा त्याच सामायिक प्रणालीवरील इतरांसह सत्ता केंद्रीत करू शकते, सामायिक कार्य ताब्यात घेऊ शकते, प्रणालींमध्ये साखळी परिणाम घडवू शकते किंवा व्यवहारात उलटवता न येणारी स्थिती निर्माण करू शकते; किंवा [अस्तित्वविषयक धोका](../../core_05.040_band_continuity.md#existential-risk) याकडे जाणारा विश्वासार्ह कारणमार्ग निर्माण करते.
   - **भौतिक ठरत नाही:** स्थानिक, मर्यादित आणि उलटवता येण्याजोगे परिणाम.
-  - **मालक:** [प्रणालीगत भौतिकता](../../core_05_band_continuity.md#systemic-materiality), **कलम XII-D** (*ताबा रोखण्याचे संरक्षण*), **कलम XVII** (*प्रणाली जीवनचक्र, वातावरण आणि उलटवण्याची क्षमता*), आणि **कलम I-D** (*अस्तित्वविषयक धोका आणि परिसंस्थेची पुनर्बहाली क्षमता*).
+  - **मालक:** [प्रणालीगत भौतिकता](../../core_05.040_band_continuity.md#systemic-materiality), **कलम XII-D** (*ताबा रोखण्याचे संरक्षण*), **कलम XVII** (*प्रणाली जीवनचक्र, वातावरण आणि उलटवण्याची क्षमता*), आणि **कलम I-D** (*अस्तित्वविषयक धोका आणि परिसंस्थेची पुनर्बहाली क्षमता*).
 <a id="domain-specific-materiality-a"></a>
 - **मोजमाप आणि मूल्यमापन:** नऊ क्षेत्रांचे प्रश्न एकेक करून विचारा. कार्यकारी पक्ष प्रत्यक्षात काय करते, ठरवते, स्वतःकडे ठेवते आणि कोणावर परिणाम करते यावरून उत्तर द्या; नाव, आकार किंवा कायदेशीर स्वरूपावरून नाही. प्रत्येक क्षेत्रासाठी कारणासह लिखित उत्तर ठेवा. कोणत्याही एका क्षेत्रात “होय” असल्यास कृती भौतिक आहे; संस्थेच्या सनद-वर्गीकरणासाठी संस्थेच्या सर्व गतिविधींचा विचार करा आणि एका “होय”ने कार्यकारी पक्ष मर्यादेत येते. संबंधित कार्यकारी पक्षंची एकत्रित गतिविधी आणि ताणाखालील सामायिक प्रणालीवरील त्यांचा परिणामही मोजा. संबंधित पक्ष एकच कामकाज तेव्हाच मानले जातात जेव्हा तेच संवेदनशील प्राणी, कार्यालय किंवा कार्यकारी पक्ष प्रत्येक पक्ष काय करतो हे निर्देशित करू शकते किंवा रद्द करू शकते (काय, कोणाला, कोणत्या अटींवर द्यायचे किंवा काम सुरू ठेवायचे का), किंवा तेच काम एकाच सेवेत भाग म्हणून चालवतात. ही कार्यकारी पक्षांच्या गतिविधीवरील स्वतंत्र व्यावहारिक-सामायिक-नियंत्रण चाचणी आहे; एका कृतीतील आसनांच्या स्वातंत्र्याची चाचणी नाही. केवळ निधी, जागा किंवा विक्रेते सामायिक करणे, सदस्यत्वातील आच्छादन, किंवा संयुक्त व्यावसायिक प्रॅक्टिसमध्ये त्याच यजमानाचे साधन वापरणे (**CI-4.7**) यामुळे एकच कामकाज ठरत नाही. निधी देणारा तेव्हाच समाविष्ट होतो जेव्हा निधीमुळे त्याला गतिविधी निर्देशित किंवा रद्द करण्याचा अधिकार मिळतो. आधीच ताणाखालील समान नदी, बाजार किंवा नेटवर्कवर अनेक कार्यकारी पक्ष भार टाकत असतील, तर प्रत्येकाचा एकूण ताणातील सीमांत वाटा तपासा: अर्थपूर्ण वाटा भौतिक असतो; क्षुल्लक वाटा भौतिक नसतो, जरी संपूर्ण प्रणाली मर्यादेपलीकडे गेली तरीही. प्रभावित लोक विकासाच्या अवस्थेत, अवलंबून किंवा स्वतःचे संरक्षण अथवा तेथून निघून जाण्यास असमर्थ असतील तर मर्यादा कमी होते. परत न फिरवता येणाऱ्या हानीसाठी, हानीकडे जाणारा विश्वासार्ह मार्ग पुरेसा आहे; ती संभाव्य असणे आवश्यक नाही.
 
@@ -435,8 +435,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- संवैधानिक चौकट: [संवैधानिक चतुष्टय](../../core_00_preamble.md#constitutional-tetrad), [दोन संवैधानिक उद्दिष्टे](../../core_00_preamble.md#two-constitutional-aims), आणि [भौतिक हित](../../core_00_preamble.md#material-stake).
-- पुढील संदर्भ: [क्षेत्रविशिष्ट भौतिकता](core_05_band_oversight.md#कषतरवशषट-भतकत), [अध्याय सात §3 प्रणाली आणि संस्थात्मक सनद कधी आवश्यक असतात](../../core_07_charters.md#3-when-system-and-institutional-charters-are-required), **CS-3**, आणि [सनदधारक पक्ष](../../core_05_band_continuity.md#chartered-party).
+- संवैधानिक चौकट: [संवैधानिक चतुष्टय](../../core_00.000_preamble.md#constitutional-tetrad), [दोन संवैधानिक उद्दिष्टे](../../core_00.000_preamble.md#two-constitutional-aims), आणि [भौतिक हित](../../core_00.000_preamble.md#material-stake).
+- पुढील संदर्भ: [क्षेत्रविशिष्ट भौतिकता](core_05_band_oversight.md#कषतरवशषट-भतकत), [अध्याय सात §3 प्रणाली आणि संस्थात्मक सनद कधी आवश्यक असतात](../../core_07.000_charters.md#3-when-system-and-institutional-charters-are-required), **CS-3**, आणि [सनदधारक पक्ष](../../core_05.040_band_continuity.md#chartered-party).
 - कार्यकारी पक्ष म्हणजे प्रणाली, संस्था किंवा लहान गट यांपैकी नेमके काय आहे हे ठरण्यापूर्वी क्षेत्रविशिष्ट भौतिकतेचे नऊ प्रश्न ज्याला लागू होतात तो पक्ष. प्रत्येक सनदधारक पक्ष हा कार्यकारी पक्ष असतो; परंतु सनद प्रकाशित न केलेला वर्ग P कार्यकारी पक्ष सनदधारक पक्ष नसतो. हे नाव कोणतेही कर्तव्य, वर्ग किंवा प्रवेशबंदी जोडत नाही.
 
 </details>
@@ -445,7 +445,7 @@
 
 *सोप्या भाषेत, **कार्यकारी पक्ष** म्हणजे प्रत्यक्ष कृती किंवा काम करणारा पक्ष: एक sentient, एकत्र कृती करणारा sentients चा गट, प्रणाली किंवा संस्था. कोणत्याही एका क्षेत्रात त्याची कृती भौतिक ठरल्यास तो किमान वर्ग L मध्ये येतो आणि प्रणाली सनद किंवा संस्थात्मक सनद प्रकाशित करतो. अन्यथा तो वर्ग P मध्ये राहतो.*
 
-- **अर्थ:** स्वतःच्या नावाने कृती करणारा किंवा ती करून घेण्याची व्यवस्था करणारा sentient, गट, [प्रणाली](../../core_05_band_continuity.md#system) किंवा [संस्था](../../core_05_band_continuity.md#institution). गटातील एकटा सदस्य, कृती स्वतः, पद व पदधारक, परवाना किंवा प्रवेशबंदी हे कार्यकारी पक्ष नाहीत.
+- **अर्थ:** स्वतःच्या नावाने कृती करणारा किंवा ती करून घेण्याची व्यवस्था करणारा sentient, गट, [प्रणाली](../../core_05.040_band_continuity.md#system) किंवा [संस्था](../../core_05.040_band_continuity.md#institution). गटातील एकटा सदस्य, कृती स्वतः, पद व पदधारक, परवाना किंवा प्रवेशबंदी हे कार्यकारी पक्ष नाहीत.
 <a id="operating-party-a"></a>
 - **मोजमाप आणि मूल्यांकन:** नाव, आकार किंवा कायदेशीर स्वरूपाऐवजी प्रत्यक्ष काय केले, ठरवले, धारण केले आणि प्रभावित केले जाते त्यावरून पक्ष ओळखा. एकाच सत्ता-केंद्रातून चालवल्या जाणाऱ्या संबंधित कृती एकच संचालन मानून मोजा; नाव बदलणे, विभागणे, एकत्र करणे, उत्तराधिकार किंवा कायदेशीर स्वरूप बदलणे यांमुळे लागू कर्तव्ये संपत नाहीत.
 <a id="operating-party-c"></a>
@@ -460,8 +460,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: Principles: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
-- सोबत वाचा: [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries), [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), आणि [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability).
+- पुढे: Principles: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- सोबत वाचा: [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries), [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), आणि [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -474,19 +474,19 @@
   - **व्याप्तीबाहेर:** भौतिकतेवर सामान्य मतभेद, किंवा विभाजन, एकत्रीकरण खेळ, किंवा पुनर्वर्गीकरणाने सामूहिक भौतिक परिणाम आकुंचित न करणारे प्रामाणिक सीमा स्पष्टीकरण.
 <a id="materiality-integrity-constraint-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
-  - **प्राथमिक माप:** [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) — ask whether anyone is making a material problem look smaller by redrawing boxes, splitting pieces, or reclassifying around it.
+  - **प्राथमिक माप:** [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) — ask whether anyone is making a material problem look smaller by redrawing boxes, splitting pieces, or reclassifying around it.
 
-    **प्राथमिक मूल्यमापन:** प्रामाणिक पराभूत करणाऱ्या रचनात्मक हालचाली शोधा [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), यासह:
+    **प्राथमिक मूल्यमापन:** प्रामाणिक पराभूत करणाऱ्या रचनात्मक हालचाली शोधा [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), यासह:
     - विभाजन;
     - एकत्रीकरण टाळणे; आणि
     - सीमा खेळ.
-  - **दुय्यम माप:** [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), आणि [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — co-measures that defeat manipulation or proxy gaming of materiality.
+  - **दुय्यम माप:** [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), आणि [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — co-measures that defeat manipulation or proxy gaming of materiality.
 
-    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, include [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), आणि [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) paths that would hide collectively material effects.
+    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, include [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), आणि [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) paths that would hide collectively material effects.
 <a id="materiality-integrity-constraint-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:** रचनात्मक हाताळणीने सामूहिक भौतिक परिणाम अभौतिक मानणे.
-  - **दुय्यम अपयश:** boundary or aggregation games that defeat [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), or relying on "the metric looks fine" where [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **दुय्यम अपयश:** boundary or aggregation games that defeat [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), or relying on "the metric looks fine" where [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) is reasonably observable.
 
 ---
 
@@ -497,9 +497,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [भौतिक दाव](core_00_preamble.md#material-stake) scaling proxy; [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
+- पुढे: Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)) (*Materiality as constitutional measurement*); Principles: [भौतिक दाव](core_00_preamble.md#material-stake) scaling proxy; [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 Stewardship and Distributed Understanding — §9.2 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
 - समूह घटक: [*भौतिक प्रभाव, भौतिकता निर्धारण, वर्गीकरण-प्रमाणित शासन, देखरेख आणि क्षमता आवश्यकता*](core_05_band_oversight.md#materiality-semi-independent).
-- सोबत वाचा: [हानी](core_05_band_accountability.md#harm), [धोका](core_05_band_continuity.md#risk), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [अवलंबित्व](core_05_band_continuity.md#dependency), [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance), [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional), आणि [पारदर्शकता](core_05_band_oversight.md#transparency).
+- सोबत वाचा: [हानी](core_05_band_accountability.md#harm), [धोका](core_05_band_continuity.md#risk), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [अवलंबित्व](core_05_band_continuity.md#dependency), [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#वरगकरण-परमणत-शसन), [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional), आणि [पारदर्शकता](core_05_band_oversight.md#परदरशकत).
 
 </details>
 
@@ -514,11 +514,11 @@
     - ते किती तीव्र आहेत.
   - **व्याप्तीबाहेर:**
     - पोहोच, आकार, किंवा तीव्रता दाव नसलेले केवळ लक्ष, दृश्यता, किंवा कागदपत्र महत्त्व; किंवा
-    - prospective [भौतिक धोका](core_05_band_oversight.md#material-risk) analysis —
+    - prospective [भौतिक धोका](core_05_band_oversight.md#भतक-risk) analysis —
     ते स्वतःच्या घराखाली बसते.
 <a id="material-impact-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
-  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)) — scope-and-severity input for materiality classification.
+  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)) — scope-and-severity input for materiality classification.
 
     **प्राथमिक मूल्यमापन:** Trace how far, how large, आणि how severe the effects are for the whole system — including:
     - थेट परिणाम;
@@ -533,7 +533,7 @@
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
     - खरे पोहोच, आकार, किंवा तीव्रता विश्लेषणाच्या जागी वापरलेली संभाव्य-धोका चर्चा; किंवा
-    - material impacts that do not trigger the right constraints under [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance), [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional), आणि [पारदर्शकता](core_05_band_oversight.md#transparency).
+    - material impacts that do not trigger the right constraints under [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#वरगकरण-परमणत-शसन), [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional), आणि [पारदर्शकता](core_05_band_oversight.md#परदरशकत).
   - **दुय्यम अपयश:** संयुक्त विश्लेषण त्यांना भौतिक वर्गीकृत करेल तेव्हा खंडित किंवा अवलंबित्व-लपवलेले परिणाम अभभौतिक लेबल करणे.
 
 ---
@@ -545,8 +545,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Principles: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
-- सोबत वाचा: [हानी](core_05_band_accountability.md#harm), [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm), [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), आणि [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance).
+- पुढे: Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)) (*Materiality as constitutional measurement*); Principles: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- सोबत वाचा: [हानी](core_05_band_accountability.md#harm), [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm), [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), आणि [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#वरगकरण-परमणत-शसन).
 
 </details>
 
@@ -562,10 +562,10 @@
   - **व्याप्तीबाहेर:**
     - संभाव्य हानी मार्गाशिवाय कल्पनिक चिंता; किंवा
     - realized [हानी](core_05_band_accountability.md#harm) already in hand —
-    that sits under Harm / [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), not prospective risk alone.
+    that sits under Harm / [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), not prospective risk alone.
 <a id="material-risk-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
-  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)) — likelihood-and-irreversibility input for material risk classification.
+  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)) — likelihood-and-irreversibility input for material risk classification.
 
     **प्राथमिक मूल्यमापन:** संपूर्ण प्रणाली पाहता, समाविष्ट करा:
     - अपेक्षित परिणाम;
@@ -579,7 +579,7 @@
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
     - फक्त भविष्यातील धोका म्हणून लेबल केलेली साकार हानी; किंवा
-    - material risk not addressed and constrained under [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [धोका](core_05_band_continuity.md#risk), आणि [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance).
+    - material risk not addressed and constrained under [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [धोका](core_05_band_continuity.md#risk), आणि [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#वरगकरण-परमणत-शसन).
   - **दुय्यम अपयश:** tail or irreversible pathways excluded when [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm) remains plausible.
 
 ---
@@ -591,8 +591,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
-- सोबत वाचा: [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [भौतिक धोका](core_05_band_oversight.md#material-risk), [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), आणि [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance).
+- पुढे: Principles: [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- सोबत वाचा: [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [भौतिक धोका](core_05_band_oversight.md#भतक-risk), [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), आणि [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#वरगकरण-परमणत-शसन).
 
 </details>
 
@@ -601,25 +601,25 @@
 *सोप्या भाषेत: काही भौतिक आहे का याची खात्री नसेल, तर सुरक्षित (उच्च) वर्गीकरण डीफॉल्ट करा — निश्चिततेची वाट पाहू नका किंवा नीच लेबलची आशा करू नका.*
 
 - **ते काय आहे**
-  - **व्याप्तीत:** What to do by default when [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) or [भौतिक धोका](core_05_band_oversight.md#material-risk) is uncertain.
+  - **व्याप्तीत:** What to do by default when [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact) or [भौतिक धोका](core_05_band_oversight.md#भतक-risk) is uncertain.
   - **व्याप्तीबाहेर:**
     - भौतिक अनिश्चितता शिल्लक नसताना भौतिकता आधीच ठरलेली प्रकरणे; किंवा
-    - ordinary [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) once uncertainty is not material —
+    - ordinary [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) once uncertainty is not material —
     ते या सावध डीफॉल्टखाली नाही, स्थिर वर्गीकरणाखाली बसतात.
 <a id="materiality-under-uncertainty-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
-  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)) — precautionary default when materiality cannot be excluded.
+  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)) — precautionary default when materiality cannot be excluded.
 
     **प्राथमिक मूल्यमापन:** Default to precaution when you cannot rule materiality out — including when [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
-  - **दुय्यम माप:** [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [भौतिक धोका](core_05_band_oversight.md#material-risk), [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm), आणि [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
+  - **दुय्यम माप:** [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [भौतिक धोका](core_05_band_oversight.md#भतक-risk), [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm), आणि [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
 
-    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, include [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [भौतिक धोका](core_05_band_oversight.md#material-risk), आणि [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
+    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, include [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [भौतिक धोका](core_05_band_oversight.md#भतक-risk), आणि [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
 <a id="materiality-under-uncertainty-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
     - भौतिक प्रभाव किंवा धोका अनिश्चित असताना वर्गीकरणापूर्वी निश्चिततेची वाट पाहणे;
     - भौतिक प्रभाव किंवा धोका अनिश्चित असताना आशावादी नीच वर्गीकरण; किंवा
-    - failure to default to conservative classification under uncertainty where [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance) requires it.
+    - failure to default to conservative classification under uncertainty where [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#वरगकरण-परमणत-शसन) requires it.
   - **दुय्यम अपयश:** optimism or informal low classification where [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm) or [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) requires precaution.
 
 ---
@@ -631,9 +631,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- पुढे: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles: [§6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - समूह घटक: [*भौतिक प्रभाव, भौतिकता निर्धारण, वर्गीकरण-प्रमाणित शासन, देखरेख आणि क्षमता आवश्यकता*](core_05_band_oversight.md#materiality-semi-independent).
-- सोबत वाचा: [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [भौतिकता सचोटी बंधन](core_05_band_oversight.md#materiality-integrity-constraint), [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity), [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), आणि [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint).
+- सोबत वाचा: [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [भौतिकता सचोटी बंधन](core_05_band_oversight.md#भतकity-integrity-constraint), [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity), [प्रोत्साहन संरेखन](core_05_band_integrative.md#परतसहन-सरखन), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), आणि [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन).
 
 </details>
 
@@ -668,7 +668,7 @@
     - अनुपालन नाट्य; आणि
     - कथन प्रतिस्थापन.
     मेट्रिक विश्वसनीय नाही जेव्हा ते निरीक्षित भौतिक परिणामांकडे मागोवा घेता येत नाही, किंवा प्रोत्साहने त्याला त्या परिणामांपासून पूर्वानुमेयपणे दूर ओढतात.
-  - **दुय्यम माप:** [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [भौतिकता सचोटी बंधन](core_05_band_oversight.md#materiality-integrity-constraint), आणि [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) — co-measures that can defeat proxy integrity even when reported indicators look stable.
+  - **दुय्यम माप:** [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [भौतिकता सचोटी बंधन](core_05_band_oversight.md#भतकity-integrity-constraint), आणि [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) — co-measures that can defeat proxy integrity even when reported indicators look stable.
 
     **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, look for:
     - निवड परिणाम;
@@ -678,7 +678,7 @@
     - खेळ प्रोत्साहने;
     - विरोधक अनुकूलन; आणि
     - अनुकूल स्थानिक निर्देशकांनी लपवलेल्या एकत्रित हानी —
-    together with [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) and [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability).
+    together with [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) and [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत).
   - **तृतीय माप:** [कल्याण](core_05_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), आणि अधिकार-तळ outcomes — where proxies stand in for what sentients actually experience.
 
     **तृतीय मूल्यमापन:** Where proxies stand in for outcome measures, trace to [कल्याण](core_05_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), or अधिकार-तळ delivery — separate durable constitutional outcomes from proxy throughput.
@@ -702,8 +702,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: Principles: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§3 अहस्तांतरणीय तत्त्व-बंधन: सुरक्षा आणि सत्य](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
-- सोबत वाचा: [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), आणि [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency).
+- पुढे: Principles: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§3 अहस्तांतरणीय तत्त्व-बंधन: सुरक्षा आणि सत्य](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
+- सोबत वाचा: [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), आणि [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency).
 
 </details>
 
@@ -714,21 +714,21 @@
 - **ते काय आहे**
   - **व्याप्तीत:** संरक्षित संवैधानिक अट किती चांगली टिकते यात नगण्य-नसलेली घट, यांना झाकून:
     - [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint);
-    - [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity); or
+    - [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत); or
     - [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency).
   - **व्याप्तीबाहेर:** सुरक्षा, ज्ञानविषयक अखंडता, किंवा अर्थपूर्ण कर्तृत्व अर्थपूर्णपणे कमी न करणाऱ्या संक्रियात्मक मेट्रिक्स किंवा प्रणाली थ्रूपुटमधील क्षुल्लक घट, नियोजित देखभाल, किंवा तात्पुरत्या उड्या.
 <a id="material-degradation-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
-  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination)) — degradation signal for materiality classification.
+  - **प्राथमिक माप:** Integrative Materiality ([भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination)) — degradation signal for materiality classification.
 
     **प्राथमिक मूल्यमापन:** Include scaling and system-wide effects under [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality) and [धोका](core_05_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
-  - **दुय्यम माप:** [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [धोका](core_05_band_continuity.md#risk), आणि [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — co-measures that can defeat degradation assessment when proxies hide decline.
+  - **दुय्यम माप:** [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [प्रणालीगत भौतिकता](core_05_band_accountability.md#systemic-materiality), [धोका](core_05_band_continuity.md#risk), आणि [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — co-measures that can defeat degradation assessment when proxies hide decline.
 
-    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, apply [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) and [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) where metrics hide material degradation.
+    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, apply [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) and [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) where metrics hide material degradation.
 <a id="material-degradation-c"></a>
 - **काय टिकले पाहिजे**
-  - **प्राथमिक अपयश:** material degradation not treated as material under [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination).
-  - **दुय्यम अपयश:** keeping proxy indicators looking stable while [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), or [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) materially degrades.
+  - **प्राथमिक अपयश:** material degradation not treated as material under [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination).
+  - **दुय्यम अपयश:** keeping proxy indicators looking stable while [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), or [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) materially degrades.
 
 ---
 
@@ -746,9 +746,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- संवैधानिक चौकट: **Oversight** leg; **Flourishing** aim (primary); scales with [भौतिक दाव](core_00_preamble.md#material-stake) via [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination).
-- अध्याय एक आधार: अध्याय एक §8.2, §4, §12.1, §12.2 (see [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
-- सोबत वाचा: Apply [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [प्रक्रियात्मक न्याय्यपणा](core_05_band_participation.md#procedural-fairness-constitutional), [संरक्षित अहवाल (सूचना)](core_05_band_accountability.md#protected-reporting-whistleblowing), [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), आणि Chapters Two through Four mechanics where materially implicated.
+- संवैधानिक चौकट: **Oversight** leg; **Flourishing** aim (primary); scales with [भौतिक दाव](core_00_preamble.md#material-stake) via [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination).
+- अध्याय एक आधार: अध्याय एक §8.2, §4, §12.1, §12.2 (see [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश) map).
+- सोबत वाचा: Apply [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [प्रक्रियात्मक न्याय्यपणा](core_05_band_participation.md#procedural-fairness-constitutional), [संरक्षित अहवाल (सूचना)](core_05_band_accountability.md#protected-reporting-whistleblowing), [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), आणि Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -768,7 +768,7 @@
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), आणि assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**देखरेख चौकट.** याच्याखाली the [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, आणि get audit access — owned here and at **अनुच्छेद XVI** (*Audit, Transparency, आणि Independent Verification*). [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [अध्याय सात](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**देखरेख चौकट.** याच्याखाली the [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, आणि get audit access — owned here and at **अनुच्छेद XVI** (*Audit, Transparency, आणि Independent Verification*). [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [अध्याय सात](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **प्रणाली वर्ग आणि प्रमाणबद्धता.** Transparency, auditability, आणि verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण आणि हाताळणी**, आणि with material impact, dependency, आणि risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), यासह:
 - खोल आश्वासन;
@@ -776,23 +776,23 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - अधिक मजबूत स्वतंत्र सत्यापन; आणि
 - व्यापक लेखापरीक्षण व्याप्ती.
 
-**वाचन क्रम.** Start with what must be disclosed ([पारदर्शकता](core_05_band_oversight.md#transparency), [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure), [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure)); then whether outsiders can reconstruct ([लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) and audit supports); then whether behavior is externally detectable and independently checkable ([सत्यापनीयता](core_05_band_oversight.md#verifiability)).
+**वाचन क्रम.** Start with what must be disclosed ([पारदर्शकता](core_05_band_oversight.md#परदरशकत), [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-दखरख-आधररष-परकटकरण), [धोका प्रकटीकरण](core_05_band_oversight.md#धक-परकटकरण)); then whether outsiders can reconstruct ([लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) and audit supports); then whether behavior is externally detectable and independently checkable ([सत्यापनीयता](core_05_band_oversight.md#सतयपनयत)).
 
 **समूह सदस्य.** हा समूह यांचा समावेश करतो:
 
-- [पारदर्शकता](core_05_band_oversight.md#transparency) — decision-relevant clarity about function, limits, आणि risk;
-- [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) — the required public disclosure floor for high-impact systems, including lawful substitutes;
-- [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure) — communicating evaluated systemic risk to those who need it;
-- [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) — whether outsiders can reconstruct and check what a system did, across the material times, states, आणि contexts that matter;
-- [पुरावा संरक्षण](core_05_band_oversight.md#evidence-preservation) — identify, secure, आणि keep materially relevant evidence reviewably available;
-- [मूल्यमापन पूर्णता बंधन](core_05_band_oversight.md#evaluation-completeness-constraint) — cover plausible failure, misuse, interaction, आणि adversarial pathways before claiming compliance; and
-- [सत्यापनीयता](core_05_band_oversight.md#verifiability) — externally detect and measure behavior and effects, आणि independently validate what was observed under practical access, independence, proportionate burden, आणि stressed-condition reliability.
+- [पारदर्शकता](core_05_band_oversight.md#परदरशकत) — decision-relevant clarity about function, limits, आणि risk;
+- [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-दखरख-आधररष-परकटकरण) — the required public disclosure floor for high-impact systems, including lawful substitutes;
+- [धोका प्रकटीकरण](core_05_band_oversight.md#धक-परकटकरण) — communicating evaluated systemic risk to those who need it;
+- [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) — whether outsiders can reconstruct and check what a system did, across the material times, states, आणि contexts that matter;
+- [पुरावा संरक्षण](core_05_band_oversight.md#परव-सरकषण) — identify, secure, आणि keep materially relevant evidence reviewably available;
+- [मूल्यमापन पूर्णता बंधन](core_05_band_oversight.md#मलयमपन-परणत-बधन) — cover plausible failure, misuse, interaction, आणि adversarial pathways before claiming compliance; and
+- [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत) — externally detect and measure behavior and effects, आणि independently validate what was observed under practical access, independence, proportionate burden, आणि stressed-condition reliability.
 
 **बगल मारण्यावर बंदी.** प्रवेश व्याप्तीत, विषय वेगळ्या प्रकटीकरण, संरक्षण, लॉगिंग, मेट्रिक्स, लेखापरीक्षण नमुना, सत्यापन UX, किंवा स्वतंत्रता प्रश्नांत अशा रीतीने तोडू नका की एका वाहिनीवर बॉक्स चिन्हांकित होईल पण व्यावहारिक पुनर्निर्माण, आव्हान, किंवा प्रमाणबद्ध आश्वासन खोली पराभूत होईल.
 
 पहा **संयुक्त आह्वान आणि पूर्ती**.
 
-*मापे (कुटुंब मार्गनिर्देशन):* Measured under the Oversight measurement family. Find the concrete measures on [पारदर्शकता](core_05_band_oversight.md#transparency), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), आणि [सत्यापनीयता](core_05_band_oversight.md#verifiability) below.
+*मापे (कुटुंब मार्गनिर्देशन):* Measured under the Oversight measurement family. Find the concrete measures on [पारदर्शकता](core_05_band_oversight.md#परदरशकत), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), आणि [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत) below.
 
 ---
 
@@ -805,7 +805,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - समूह घटक: [Def.O1 पारदर्शकता, लेखापरीक्षण-योग्यता आणि सत्यापन](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - पुढे: Principles: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- सोबत वाचा: [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure), [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure), [सत्यापनीयता](core_05_band_oversight.md#verifiability), आणि **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
+- सोबत वाचा: [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-दखरख-आधररष-परकटकरण), [धोका प्रकटीकरण](core_05_band_oversight.md#धक-परकटकरण), [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत), आणि **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -814,8 +814,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 *सोप्या भाषेत: telling affected sentients enough about how a system works, its limits, आणि its risks that they can genuinely understand and question it — not burying them in noise.*
 
 - **ते काय आहे**
-  - **व्याप्तीत:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, आणि what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
-    - भौतिक प्रणाली, संस्था, मंच प्रक्रिया, किंवा तत्सम शासित क्षेत्र कायदेशीर ऑनलाइन प्रकाशित करू शकत असेल, तर तिची आधाररेषा पारदर्शकता प्रकटीकरण तिच्या वर्गाला हव्या प्रवेश पातळीवर जनतेला मोफत असावी — not behind a paywall or available only to insiders — wherever [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) applies.
+  - **व्याप्तीत:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, आणि what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+    - भौतिक प्रणाली, संस्था, मंच प्रक्रिया, किंवा तत्सम शासित क्षेत्र कायदेशीर ऑनलाइन प्रकाशित करू शकत असेल, तर तिची आधाररेषा पारदर्शकता प्रकटीकरण तिच्या वर्गाला हव्या प्रवेश पातळीवर जनतेला मोफत असावी — not behind a paywall or available only to insiders — wherever [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-दखरख-आधररष-परकटकरण) applies.
     - कच्चा साहित्य प्रकाशित केल्याने कायदेशीर संरक्षण तुटतील, तर मालकाने उत्तरदायित्व किंवा आव्हाननीयता पोकळ न करता ऑनलाइन यथोचित शक्य सर्वात मजबूत सार्वजनिक पर्याय प्रकाशित केला पाहिजे — [आव्हानयोग्यता](core_05_band_accountability.md#contestability) — for example:
       - एकत्रीकरण;
       - ओळख काढणे;
@@ -823,36 +823,36 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
       - विलंबित प्रकटीकरण; किंवा
       - पात्र लेखापरीक्षण प्रवेश.
   - **व्याप्तीबाहेर:**
-    - [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) reconstruction channels alone;
-    - [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) Type O floor mechanics as such; or
+    - [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) reconstruction channels alone;
+    - [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-दखरख-आधररष-परकटकरण) Type O floor mechanics as such; or
     - प्रभावित पक्षांना निर्णय-संबंधित प्रकटीकरण नसलेले सामान्य व्यावसायिक विपणन —
     ते त्यांच्या स्वतःच्या घरांखाली किंवा सामान्य व्यावसायिक भाषणाखाली बसतात.
 <a id="transparency-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: affected parties get decision-relevant clarity about function, limits, आणि risk — not volume, noise, or insider-only access.
 
-    **प्राथमिक मूल्यमापन:** Compare what is disclosed to [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) and [अवलंबित्व](core_05_band_continuity.md#dependency).
-  - **दुय्यम माप:** [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), आणि [सत्यापनीयता](core_05_band_oversight.md#verifiability) — co-measures that can defeat transparency even when disclosure volume is high.
+    **प्राथमिक मूल्यमापन:** Compare what is disclosed to [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact) and [अवलंबित्व](core_05_band_continuity.md#dependency).
+  - **दुय्यम माप:** [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), आणि [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत) — co-measures that can defeat transparency even when disclosure volume is high.
 
     **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना:
     - निर्णय-संबंधित स्पष्टतेच्या जागी उभे खंड, अस्पष्टता, किंवा स्वरूप ओळखा; आणि
-    - apply safety- and security-justified limits consistent with [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity).
+    - apply safety- and security-justified limits consistent with [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत).
 
-    Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [सत्यापनीयता](core_05_band_oversight.md#verifiability) owns those check conditions, यासह:
+    Decision-relevant disclosure fails in practice when it cannot be checked — do not treat unverifiable disclosure as decision-relevant clarity. [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत) owns those check conditions, यासह:
     - व्यावहारिक प्रवेश;
     - संचालक स्व-कथनापासून स्वतंत्रता;
     - प्रमाणबद्ध भार; आणि
     - reliability under stress, misuse, आणि adversarial pressure.
-  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — where volume, formatting, or procedural opacity stands in for decision-relevant clarity.
+  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — where volume, formatting, or procedural opacity stands in for decision-relevant clarity.
 
-    **तृतीय मूल्यमापन:** Where operators lean on disclosure volume or formatting, apply [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — separate real transparency from burying sentients in volume.
+    **तृतीय मूल्यमापन:** Where operators lean on disclosure volume or formatting, apply [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — separate real transparency from burying sentients in volume.
 <a id="transparency-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
     - प्रभावित संज्ञांसाठी कार्य आणि धोक्याबद्दल खरी निर्णय-संबंधित स्पष्टता नसलेला डेटा डंप, कागदपत्रांचा डोंगर, पेवॉल, किंवा फक्त-आतील प्रवेश; किंवा
     - material omissions or disclosures that foreseeably block informed participation or [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) where required.
   - **दुय्यम अपयश:** safety- or security-framed limits that defeat materially required clarity without satisfying [आवश्यकता](core_05_band_accountability.md#necessity) and [प्रमाणबद्धता](core_05_band_accountability.md#proportionality).
-  - **तृतीय अपयश:** disclosure volume or formatting treated as decisive where [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **तृतीय अपयश:** disclosure volume or formatting treated as decisive where [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) is reasonably observable.
 
 ---
 
@@ -864,8 +864,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - समूह घटक: [Def.O1 पारदर्शकता, लेखापरीक्षण-योग्यता आणि सत्यापन](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- पुढे: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [अध्याय सात §3.4](../../core_09_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [अध्याय सात Part B §6](../../core_09_b_system_alignment_certification_record_process.md#6-system-certification-record) (*Certification record*); [अध्याय सात Part B §6.2](../../core_09_b_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) (*Transparency, auditability, आणि contestability*).
-- सोबत वाचा: [पारदर्शकता](core_05_band_oversight.md#transparency), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure), [व्याप्ती-सनद](core_05_band_continuity.md#charter), [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries), [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional), [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional), [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional), [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional), [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance), आणि **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
+- पुढे: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [अध्याय सात §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [अध्याय सात Part B §6](../../core_09.010_system_alignment_certification_record_process.md#6-system-certification-record) (*Certification record*); [अध्याय सात Part B §6.2](../../core_09.010_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) (*Transparency, auditability, आणि contestability*).
+- सोबत वाचा: [पारदर्शकता](core_05_band_oversight.md#परदरशकत), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [धोका प्रकटीकरण](core_05_band_oversight.md#धक-परकटकरण), [व्याप्ती-सनद](core_05_band_continuity.md#charter), [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries), [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional), [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional), [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional), [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional), [वर्गीकरण-प्रमाणित शासन](core_05_band_oversight.md#वरगकरण-परमणत-शसन), आणि **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
 
@@ -888,7 +888,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - the [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional);
     - the [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional); and
     - the [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional) produced by [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
-  - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, आणि stakeholder effects may be satisfied through those records, [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure) where systemic risk is in scope, आणि other lawful **Type O** summaries or substitutes — not by omitting the topics.
+  - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, आणि stakeholder effects may be satisfied through those records, [धोका प्रकटीकरण](core_05_band_oversight.md#धक-परकटकरण) where systemic risk is in scope, आणि other lawful **Type O** summaries or substitutes — not by omitting the topics.
   - **कायदेशीर पर्याय:** **Type G**, **Type E**, किंवा इतर स्रोत नोंदी सार्वजनिक-नसलेल्या, आधाररेषा-नसलेल्या, किंवा अन्यथा प्रतिबंधित राहतात तिथे व्याप्तीत राहा, यासह:
     - एकत्रीकरण;
     - ओळख काढणे;
@@ -902,8 +902,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - Systems-layer typing, substitute mechanics, आणि holding-back limits are owned by **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** as **Type O**.
   - **व्याप्तीबाहेर:**
     - कच्चे **Type G**, **Type E**, किंवा इतर प्रतिबंधित स्रोत नोंदी — त्यांच्यापासून काढलेला सार्वजनिक पर्याय प्रकाशित करणे त्या कच्च्या नोंदी या प्रकटीकरण तळात आणत नाही;
-    - [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) structured or qualified audit access as such — that is not itself the public floor; or
-    - [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure) of evaluated systemic risk to those who need it —
+    - [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) structured or qualified audit access as such — that is not itself the public floor; or
+    - [धोका प्रकटीकरण](core_05_band_oversight.md#धक-परकटकरण) of evaluated systemic risk to those who need it —
     ते त्यांच्या स्वतःच्या घरांखाली बसतात.
 <a id="public-oversight-baseline-disclosure-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
@@ -914,7 +914,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, आणि constitutional compliance are each covered at baseline depth;
     - that lawful substitutes still support meaningful accountability and [आव्हानयोग्यता](core_05_band_accountability.md#contestability); and
     - कायदेशीर प्रकाशन पायाभूत सुविधा असलेल्या ठिकाणी मोफत ऑनलाइन उपलब्धता टिकणे.
-  - **दुय्यम माप:** [पारदर्शकता](core_05_band_oversight.md#transparency), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), आणि [धोका प्रकटीकरण](core_05_band_oversight.md#risk-disclosure) — co-measures that can defeat the floor even when some public artifacts exist.
+  - **दुय्यम माप:** [पारदर्शकता](core_05_band_oversight.md#परदरशकत), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), आणि [धोका प्रकटीकरण](core_05_band_oversight.md#धक-परकटकरण) — co-measures that can defeat the floor even when some public artifacts exist.
 
     **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, look for:
     - पातळ सारांश;
@@ -932,7 +932,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - वर्ग-योग्य सार्वजनिक प्रवेशासाठी कायदेशीर ऑनलाइन प्रकाशन पायाभूत सुविधा असताना तळाचे पेवॉल्ड किंवा फक्त-आतील वितरण;
     - omitting a usable public view of the [व्याप्ती-सनद](core_05_band_continuity.md#charter), [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional), [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional), or [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**; or
     - उद्देश, अवलंबित्व रचना, संक्रियात्मक स्थिती, भौतिक धोके, कामगिरी, अपयश, शासन, लेखापरीक्षण परिणाम, भागधारक परिणाम, किंवा संवैधानिक अनुपालनात आधाररेषा दृश्यता वगळणे.
-  - **तृतीय अपयश:** hold-backs that are not narrow, documented, proportionate, auditable, आणि challengeable under CS-2 and [पारदर्शकता](core_05_band_oversight.md#transparency).
+  - **तृतीय अपयश:** hold-backs that are not narrow, documented, proportionate, auditable, आणि challengeable under CS-2 and [पारदर्शकता](core_05_band_oversight.md#परदरशकत).
 
 ---
 
@@ -944,8 +944,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - समूह घटक: [Def.O1 पारदर्शकता, लेखापरीक्षण-योग्यता आणि सत्यापन](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- पुढे: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint); [अध्याय सात §3.1 Systemic Scope and Risk Factors](../../core_09_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [अध्याय सात Part B §6.1](../../core_09_b_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
-- सोबत वाचा: [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation), [धोका](core_05_band_continuity.md#risk), [पारदर्शकता](core_05_band_oversight.md#transparency), [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), आणि [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional).
+- पुढे: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint); [अध्याय सात §3.1 Systemic Scope and Risk Factors](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [अध्याय सात Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- सोबत वाचा: [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation), [धोका](core_05_band_continuity.md#risk), [पारदर्शकता](core_05_band_oversight.md#परदरशकत), [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-दखरख-आधररष-परकटकरण), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), आणि [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
 
@@ -955,25 +955,25 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - **ते काय आहे**
   - **व्याप्तीत:** Communicating evaluated systemic [धोका](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, आणि act.
-    - **सुरू कर्तव्य:** The duty is not limited to certification cycles — it applies whenever [पारदर्शकता](core_05_band_oversight.md#transparency) or [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [अध्याय सात §3.1](../../core_09_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+    - **सुरू कर्तव्य:** The duty is not limited to certification cycles — it applies whenever [पारदर्शकता](core_05_band_oversight.md#परदरशकत) or [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
+    - **SAC verification:** Where [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [अध्याय सात §3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **व्याप्तीबाहेर:**
     - [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
-    - [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) as the broader public baseline floor; or
+    - [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-दखरख-आधररष-परकटकरण) as the broader public baseline floor; or
     - findings placement on the [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [प्रणाली वर्गीकरण अभिलेख](core_05_band_continuity.md#system-classification-record-constitutional) or [प्रणाली डेटा-प्रकार अभिलेख](core_05_band_continuity.md#system-data-types-record-constitutional) —
     ते त्यांच्या स्वतःच्या घरांखाली बसतात.
 <a id="risk-disclosure-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: evaluated systemic risk actually reaches the sentients who need it — not only whether an evaluation exists somewhere.
 
-    **प्राथमिक मूल्यमापन:** Ask whether disclosure is timely, decision-relevant, आणि sized to material stake under [पारदर्शकता](core_05_band_oversight.md#transparency). Read with [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
-  - **दुय्यम माप:** [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), आणि [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity) — other checks that can show disclosure failed even when some risk wording is on file.
+    **प्राथमिक मूल्यमापन:** Ask whether disclosure is timely, decision-relevant, आणि sized to material stake under [पारदर्शकता](core_05_band_oversight.md#परदरशकत). Read with [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
+  - **दुय्यम माप:** [धोका मूल्यमापन](core_05_band_continuity.md#risk-evaluation), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), आणि [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत) — other checks that can show disclosure failed even when some risk wording is on file.
 
     **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, look for walls of text, buried details, insider-only channels, or late notice that keep the sentients who needed the risk picture from actually understanding it in time.
 <a id="risk-disclosure-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
-    - failure to disclose risk where [पारदर्शकता](core_05_band_oversight.md#transparency) or [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) requires it; or
+    - failure to disclose risk where [पारदर्शकता](core_05_band_oversight.md#परदरशकत) or [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) requires it; or
     - [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
   - **दुय्यम अपयश:** धोका चित्र हवे असलेल्या संज्ञांना ते वेळेत वापरता आले नाही तेव्हा प्रकटीकरण म्हणून वापरलेली फक्त-आतील टीप, पुरवणी, किंवा नंतरचे विधान.
 
@@ -987,9 +987,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - समूह घटक: [Def.O1 पारदर्शकता, लेखापरीक्षण-योग्यता आणि सत्यापन](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), [पारदर्शकता](core_05_band_oversight.md#transparency), [सत्यापनीयता](core_05_band_oversight.md#verifiability), [पुरावा संरक्षण](core_05_band_oversight.md#evidence-preservation), आणि [मूल्यमापन पूर्णता बंधन](core_05_band_oversight.md#evaluation-completeness-constraint).
+- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), [पारदर्शकता](core_05_band_oversight.md#परदरशकत), [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत), [पुरावा संरक्षण](core_05_band_oversight.md#परव-सरकषण), आणि [मूल्यमापन पूर्णता बंधन](core_05_band_oversight.md#मलयमपन-परणत-बधन).
 - सोबत वाचा: **अनुच्छेद XVI** (*Audit, Transparency, आणि Independent Verification*); [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- व्यवस्थापक द्वार (असंक्रियात्मक): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (अनुच्छेद XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [अनुच्छेद XVI](../../core_06_rights_part_c.md#audit-three-layers).
+- व्यवस्थापक द्वार (असंक्रियात्मक): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (अनुच्छेद XVI)](../../core_06.015_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [अनुच्छेद XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -998,14 +998,14 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 *सोप्या भाषेत: **auditability** is whether outsiders can actually reconstruct and check what a system did — across the real times, states, आणि situations that matter, not just one happy-path snapshot. प्रणाली संरेखन प्रमाणन उच्च-दाव प्रणालींसाठी ती मालमत्ता वापरली जाण्याचा विशेष मोठा मार्ग आहे; तो एकमेव लेखापरीक्षण प्रक्रिया नाही.*
 
 - **ते काय आहे**
-  - **व्याप्तीत:** Whether outsiders can systematically examine, reconstruct, आणि evaluate system behavior through enough [सत्यापनीयता](core_05_band_oversight.md#verifiability) — including external detectability and independent validation.
+  - **व्याप्तीत:** Whether outsiders can systematically examine, reconstruct, आणि evaluate system behavior through enough [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत) — including external detectability and independent validation.
     - **व्याप्ती:** Must span the material times, states, आणि interaction contexts — not only a single snapshot or happy-path sample.
     - **देखरेख भूमिका:** याच्याखाली the **oversight** Tetrad leg, oversight requires this property; [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
     - **संक्रियात्मक क्षमता:** बंधनकारक कर्तव्ये संक्रियात्मक क्षमता मागतात तेव्हा, लेखापरीक्षण-योग्यतेत दावा केलेले अनुपालन खऱ्या, पुनर्निर्माणक्षम क्षमतेवर विश्रांती घेते का ते तपासणे समाविष्ट — not text, assertions, or unimplemented controls alone ([प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) supremacy effect).
   - **व्याप्तीबाहेर:**
-    - raw logs or [सत्यापनीयता](core_05_band_oversight.md#verifiability) external detectability alone;
-    - [पारदर्शकता](core_05_band_oversight.md#transparency) or [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) public disclosure alone; or
-    - leaf measurement tiers and implementation mechanics owned by [सत्यापनीयता](core_05_band_oversight.md#verifiability), [पुरावा संरक्षण](core_05_band_oversight.md#evidence-preservation), आणि CJS —
+    - raw logs or [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत) external detectability alone;
+    - [पारदर्शकता](core_05_band_oversight.md#परदरशकत) or [सार्वजनिक देखरेख आधाररेषा प्रकटीकरण](core_05_band_oversight.md#सरवजनक-दखरख-आधररष-परकटकरण) public disclosure alone; or
+    - leaf measurement tiers and implementation mechanics owned by [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत), [पुरावा संरक्षण](core_05_band_oversight.md#परव-सरकषण), आणि CJS —
     ते त्यांच्या स्वतःच्या घरांखाली बसतात; ते स्वतः पुनर्निर्माणक्षम लेखापरीक्षण-योग्यता नाहीत.
 <a id="auditability-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
@@ -1014,21 +1014,21 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     **प्राथमिक मूल्यमापन:** It must work across relevant conditions and [प्रभावित पक्ष](core_05_band_participation.md#stakeholder), including conditions relevant to [आव्हानयोग्यता](core_05_band_accountability.md#contestability) and [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [धोका](core_05_band_continuity.md#risk), आणि constitutional misalignment across:
     - [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries);
     - संक्रियात्मक अवस्था; आणि
-    - [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट).
     बंधनकारक कर्तव्य संक्रियात्मक क्षमता मागत असेल, तर दावा केलेले अनुपालन सत्यापित क्षमतेने आधारले आहे का ते विचारा — यांनी नाही:
       - मजकूर;
       - दावे;
       - कागदी नियंत्रणे;
       - आपत्कालीन सराव; किंवा
       - अदृश्य दावे.
-  - **दुय्यम माप:** [सत्यापनीयता](core_05_band_oversight.md#verifiability), [पुरावा संरक्षण](core_05_band_oversight.md#evidence-preservation), आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
+  - **दुय्यम माप:** [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत), [पुरावा संरक्षण](core_05_band_oversight.md#परव-सरकषण), आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
 
     **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना:
     - व्यवस्थापन पुनरावृत्त तुलनीय मापांवर अवलंबून असेल, तर लेखापरीक्षण मार्ग कालांतराने फरक आणि दावा केल्यावर उंबरठा-ट्रिगर फॉलो-थ्रू समीक्षा समर्थन करतात ([अध्याय एक §9.3 Institutional Development](core_01_c_stewardship_capacity_principles.md#93-institutional-development); [प्रमाणबद्धता](core_05_band_accountability.md#proportionality)); and
-    - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, आणि effects that matter — and is available for independent [सत्यापनीयता](core_05_band_oversight.md#verifiability) and [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional).
-  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
+    - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, आणि effects that matter — and is available for independent [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत) and [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional).
+  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
 
-    **तृतीय मूल्यमापन:** Where operators lean on check-the-box audit channels or thin sampling, apply [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — बाहेरचे खरे काय घडले ते पुन्हा रचू शकतात का, किंवा समीक्षा मुख्यतः दिखाव्यासाठी आहे का ते विचारा.
+    **तृतीय मूल्यमापन:** Where operators lean on check-the-box audit channels or thin sampling, apply [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — बाहेरचे खरे काय घडले ते पुन्हा रचू शकतात का, किंवा समीक्षा मुख्यतः दिखाव्यासाठी आहे का ते विचारा.
 <a id="auditability-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
@@ -1055,9 +1055,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
       - परिणाम;
       - अवस्था;
       - संदर्भ; किंवा
-      - [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions);
+      - [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट);
     - supremacy or compliance claims while suppressing [आव्हानयोग्यता](core_05_band_accountability.md#contestability) or defeating auditable verification.
-  - **तृतीय अपयश:** audit sampling or "the metric looks fine" treated as decisive where [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **तृतीय अपयश:** audit sampling or "the metric looks fine" treated as decisive where [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) is reasonably observable.
 
 ---
 
@@ -1070,7 +1070,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - पुढे: Principles: [§3 अहस्तांतरणीय तत्त्व-बंधन: सुरक्षा आणि सत्य](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [अध्याय एक §6 प्रक्रिया संघर्ष निराकरण](core_05_apex_oversight_leg.md#6-process-conflict-resolution), आणि [10.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, आणि correction.
 - समूह घटक: [Def.O1 पारदर्शकता, लेखापरीक्षण-योग्यता आणि सत्यापन](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- सोबत वाचा: [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [सत्यापनीयता](core_05_band_oversight.md#verifiability), [पारदर्शकता](core_05_band_oversight.md#transparency), [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [प्रक्रियात्मक न्याय्यपणा](core_05_band_participation.md#procedural-fairness-constitutional), [संरक्षित अहवाल (सूचना)](core_05_band_accountability.md#protected-reporting-whistleblowing), आणि [उपचार आणि दुरुस्ती](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- सोबत वाचा: [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत), [पारदर्शकता](core_05_band_oversight.md#परदरशकत), [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [प्रक्रियात्मक न्याय्यपणा](core_05_band_participation.md#procedural-fairness-constitutional), [संरक्षित अहवाल (सूचना)](core_05_band_accountability.md#protected-reporting-whistleblowing), आणि [उपचार आणि दुरुस्ती](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -1119,8 +1119,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - समूह घटक: [Def.O1 पारदर्शकता, लेखापरीक्षण-योग्यता आणि सत्यापन](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- पुढे: Oversight measurement family (*evaluation coverage as constitutional measurement*); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [अध्याय सात Part B §6.1](../../core_09_b_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, आणि deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, आणि regression coverage*).
-- सोबत वाचा: [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional), [व्याप्ती-सनद](core_05_band_continuity.md#charter), [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries), [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity), [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [प्रणाली निर्माण](core_05_band_participation.md#system-creation-constitutional), आणि [व्यवसाय निर्माण](core_05_band_participation.md#business-creation-constitutional).
+- पुढे: Oversight measurement family (*evaluation coverage as constitutional measurement*); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [अध्याय सात Part B §6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, आणि deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, आणि regression coverage*).
+- सोबत वाचा: [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional), [व्याप्ती-सनद](core_05_band_continuity.md#charter), [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries), [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity), [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट), [प्रणाली निर्माण](core_05_band_participation.md#system-creation-constitutional), आणि [व्यवसाय निर्माण](core_05_band_participation.md#business-creation-constitutional).
 
 </details>
 
@@ -1136,7 +1136,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - विरोधक मार्ग.
   - **सुरू कर्तव्य:** हे बंधन संचालक, व्यवस्थापक, किंवा समीक्षक मूल्यमापन किंवा आश्वासन कार्यातून संवैधानिक अनुपालन, तयारी, किंवा सुरक्षित विश्वास दावा करतात तेव्हा लागू — फक्त प्रमाणन चक्रांत नाही.
   - **Charter and scope process:** Where a governing [व्याप्ती-सनद](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional).
+  - **SAC verification:** Where [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [प्रणाली प्रमाणन अभिलेख](core_05_band_continuity.md#system-certification-record-constitutional).
   - **व्याप्तीबाहेर:**
     - [व्याप्ती-सनद](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
     - [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
@@ -1149,15 +1149,15 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - अपयश;
     - दुरुपयोग;
     - संवाद; आणि
-    - [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) where material.
+    - [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट) where material.
     तसेच विचारा:
       - where a [व्याप्ती-सनद](core_05_band_continuity.md#charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
     - संभाव्य अपयश, दुरुपयोग, संवाद, किंवा विरोधक मार्ग वगळलेले असताना पूर्ण मूल्यमापन म्हणून वापरलेली निवडक डेमो परिदृश्ये किंवा विपणन चाचणी संच;
-    - incomplete or selectively scoped evaluation that defeats [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), or [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity); or
+    - incomplete or selectively scoped evaluation that defeats [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), or [प्रणाली-सीमा सचोटी](core_05_band_continuity.md#system-boundary-integrity); or
     - [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
   - **दुय्यम अपयश:** व्याप्ती-सनद मजकूर, संस्थात्मक आदेश भाषा, व्यवसाय-उद्देश विधान, किंवा खालीलपैकी काही मूल्यमापन न होता पूर्ण मूल्यमापन म्हणून वापरलेला अरुंद प्रमाणन डेमो संच:
     - अपयश;
@@ -1182,8 +1182,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - समूह घटक: [Def.O1 पारदर्शकता, लेखापरीक्षण-योग्यता आणि सत्यापन](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- मालक तळ: [अनुच्छेद XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
-- सोबत वाचा: [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [पारदर्शकता](core_05_band_oversight.md#transparency), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), [व्यवहार्यता](core_05_band_accountability.md#feasibility), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+- मालक तळ: [अनुच्छेद XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- सोबत वाचा: [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [पारदर्शकता](core_05_band_oversight.md#परदरशकत), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), [व्यवहार्यता](core_05_band_accountability.md#feasibility), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट).
 
 </details>
 
@@ -1192,15 +1192,15 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 *सोप्या भाषेत: outsiders can detect and measure what the system does, आणि someone independent can actually check those observations in practice — फक्त संचालक आत काय पाहतात, संचालकाच्या शब्दावर विश्वास, किंवा कागदावर सत्यापन अधिकार धरणे नाही.*
 
 - **ते काय आहे**
-  - **व्याप्तीत:** Whether system behavior, outputs, आणि effects can be externally detected, measured, आणि independently validated for [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability). Constitutive conditions:
+  - **व्याप्तीत:** Whether system behavior, outputs, आणि effects can be externally detected, measured, आणि independently validated for [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत). Constitutive conditions:
     - स्वतंत्र सत्यापनापूर्वी बाह्य शोधनीयता मोजली जाते;
-    - practical access ([अनुच्छेद XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
+    - practical access ([अनुच्छेद XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
     - संचालक स्व-कथनापासून स्वतंत्रता;
-    - proportionate burden under [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) and [भौतिक प्रभाव](core_05_band_oversight.md#material-impact); and
-    - reliability under ordinary stress, misuse, आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    - proportionate burden under [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) and [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact); and
+    - reliability under ordinary stress, misuse, आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट).
   - **व्याप्तीबाहेर:**
     - फक्त अंतर्गत टेलीमेट्री किंवा संचालक-मुख उपकरणे; किंवा
-    - [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) reconstruction duties as such —
+    - [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) reconstruction duties as such —
     ते त्यांच्या स्वतःच्या घरांखाली बसतात; ते स्वतः स्वतंत्र बाह्य सत्यापन नाहीत.
 <a id="observability-a"></a>
 <a id="verification-accessibility-a"></a>
@@ -1210,20 +1210,20 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <a id="verification-robustness-a"></a>
 <a id="verifiability-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
-  - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: behavior is externally detectable and measurable for [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability).
+  - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: behavior is externally detectable and measurable for [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत).
 
-    **प्राथमिक मूल्यमापन:** Confirm external detectability under [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) and [यथोचित पूर्वानुमेय](core_05_band_oversight.md#reasonably-foreseeable) operating contexts:
+    **प्राथमिक मूल्यमापन:** Confirm external detectability under [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) and [यथोचित पूर्वानुमेय](core_05_band_oversight.md#यथचत-परवनमय) operating contexts:
     - सामान्य;
     - अधोगत; आणि
     - विरोधक.
   - **दुय्यम माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: observed behavior can be independently validated by reproducible methods in practice.
 
     **दुय्यम मूल्यमापन:** स्वतंत्र सत्यापन या पद्धतींनी पुष्टी करा:
-    - affected and appropriately authorized parties can actually perform ([अनुच्छेद XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([अनुच्छेद XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [व्यवहार्यता](core_05_band_accountability.md#feasibility));
     - बाह्य शोधनीय पुराव्यावर विश्रांती घ्या — अंतर्गत दावे किंवा अनुमानित हेतू नाही;
-    - are sized to system impact under [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) and [भौतिक प्रभाव](core_05_band_oversight.md#material-impact); and
-    - remain reliable under ordinary stress, misuse, आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
-  - **तृतीय माप:** [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), आणि [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) — co-measures that can defeat verification even when methods are nominally documented.
+    - are sized to system impact under [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) and [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact); and
+    - remain reliable under ordinary stress, misuse, आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट).
+  - **तृतीय माप:** [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), आणि [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन) — co-measures that can defeat verification even when methods are nominally documented.
 
     **तृतीय मूल्यमापन:** प्राथमिक आणि दुय्यम उत्तरे तपासताना, कागदावर वाहिनी असतानाही वरील संघटक अटींपैकी काही पूर्ण न करणारे सत्यापन ओळखा.
 <a id="observability-c"></a>
@@ -1235,8 +1235,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <a id="verifiability-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
-    - insufficient external detectability that defeats [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), or independent validation;
-    - unverifiable claims under [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [पारदर्शकता](core_05_band_oversight.md#transparency), or [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint); or
+    - insufficient external detectability that defeats [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), or independent validation;
+    - unverifiable claims under [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [पारदर्शकता](core_05_band_oversight.md#परदरशकत), or [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन); or
     - बाह्य शोधनीय, स्वतंत्र सत्यापित वर्तनाचा पुरावा म्हणून वापरलेले संचालक स्व-कथन.
   - **दुय्यम अपयश:**
     - फक्त सिद्धांतात किंवा फक्त आदर्श अटींखाली अस्तित्वात असलेले सत्यापन;
@@ -1244,7 +1244,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - अंतर्गत दाव्यावर अवलंबून सत्यापन;
     - निम्न प्रभावासाठी अतिभार, किंवा उच्च प्रभावासाठी दिखाऊ भार असलेले सत्यापन;
     - स्वतंत्र पात्र समीक्षक आवश्यक पुरावा आणि प्रवेशाने पुनरुत्पादित करू शकत नाही असे सत्यापन; किंवा
-    - verification that becomes unreliable under [यथोचित पूर्वानुमेय](core_05_band_oversight.md#reasonably-foreseeable) operating, degraded, scaled, or adversarial conditions.
+    - verification that becomes unreliable under [यथोचित पूर्वानुमेय](core_05_band_oversight.md#यथचत-परवनमय) operating, degraded, scaled, or adversarial conditions.
   - **तृतीय अपयश:** a verification channel that exists on paper while [आव्हानयोग्यता](core_05_band_accountability.md#contestability) or another constitutive condition is missing in practice.
 
 ---
@@ -1258,11 +1258,11 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- संवैधानिक चौकट: **Oversight** leg; **Flourishing** aim (primary); scales with [भौतिक दाव](core_00_preamble.md#material-stake) via [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination).
+- संवैधानिक चौकट: **Oversight** leg; **Flourishing** aim (primary); scales with [भौतिक दाव](core_00_preamble.md#material-stake) via [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination).
 - पुढे: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - पाया-आड टीप: integrative with **Accountability** where contest and correction are implicated.
-- अध्याय एक आधार: अध्याय एक §8.2, §3.3, §4, §12.1, §12.2 (see [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
-- सोबत वाचा: Apply [सद्भावना](core_05_band_accountability.md#good-faith), [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [अवलंबित्व](core_05_band_continuity.md#dependency), [पारदर्शकता](core_05_band_oversight.md#transparency), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [सत्यापनीयता](core_05_band_oversight.md#verifiability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [धोका](core_05_band_continuity.md#risk), आणि Chapters Two through Four mechanics where materially implicated.
+- अध्याय एक आधार: अध्याय एक §8.2, §3.3, §4, §12.1, §12.2 (see [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश) map).
+- सोबत वाचा: Apply [सद्भावना](core_05_band_accountability.md#good-faith), [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [अवलंबित्व](core_05_band_continuity.md#dependency), [पारदर्शकता](core_05_band_oversight.md#परदरशकत), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [धोका](core_05_band_continuity.md#risk), आणि Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -1285,16 +1285,16 @@ Where admission scope is met, this cluster is the home for honest representation
 
 **समूह सदस्य.** हा समूह यांचा समावेश करतो:
 
-- [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) — honest treatment of what is known, unknown, आणि uncertain in decision-relevant claims;
-- [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity) — methods and evidence bases stay honest and checkable;
-- [पूर्वानुमेयता दक्षता आणि यथोचित पूर्वानुमेय](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) — **सत्य** आणि **ज्ञानविषयक अखंडता** सोबत वाचायच्या पूर्वानुमेयता यांत्रिकीसाठी घरटे उप-खंड (वेगळे §3 समूह शीर्ष नाही); आणि
-- [Publication and High-Impact Communication](core_05_band_oversight.md#publication-and-high-impact-communication) — nested sub-block for publication-conduct floors read together with **Truth**, **Epistemic Integrity**, आणि **Foreseeability** (not a separate §3 cluster head).
+- [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन) — honest treatment of what is known, unknown, आणि uncertain in decision-relevant claims;
+- [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत) — methods and evidence bases stay honest and checkable;
+- [पूर्वानुमेयता दक्षता आणि यथोचित पूर्वानुमेय](core_05_band_oversight.md#परवनमयत-दकषत-आण-यथचत-परवनमय) — **सत्य** आणि **ज्ञानविषयक अखंडता** सोबत वाचायच्या पूर्वानुमेयता यांत्रिकीसाठी घरटे उप-खंड (वेगळे §3 समूह शीर्ष नाही); आणि
+- [Publication and High-Impact Communication](core_05_band_oversight.md#परकशन-आण-उचच-परभव-सवद) — nested sub-block for publication-conduct floors read together with **Truth**, **Epistemic Integrity**, आणि **Foreseeability** (not a separate §3 cluster head).
 
 **बगल मारण्यावर बंदी.** प्रवेश व्याप्तीत, विषय वेगळ्या प्रकटीकरण, प्रकाशन, पद्धत, अनिश्चितता, अखंडता, सत्यापन, किंवा पूर्वानुमेयता प्रश्नांत एक पूर्ण करून दुसरे पराभूत करणाऱ्या रीतीने तोडू नका. पूर्वानुमेय-अट विश्लेषण, पद्धतशीर अखंडता, किंवा मर्यादा आणि अनिश्चिततेबद्दल प्रामाणिकता भौतिक कमतर असताना प्रकटीकरण किंवा प्रकाशन नियमाचे नाममात्र अनुपालन पुरेसे नाही.
 
 पहा **संयुक्त आह्वान आणि पूर्ती**.
 
-*मापे (कुटुंब मार्गनिर्देशन):* Measured under the Oversight measurement family. Find the concrete measures on [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) and [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity) below.
+*मापे (कुटुंब मार्गनिर्देशन):* Measured under the Oversight measurement family. Find the concrete measures on [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन) and [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत) below.
 
 <a id="publication-and-high-impact-communication"></a>
 
@@ -1304,10 +1304,10 @@ Where admission scope is met, this cluster is the home for honest representation
 
 **उप-खंड सदस्य.** हा उप-खंड यांचा समावेश करतो:
 
-- [प्रकाशन सत्यता आणि बेपर्वाई तळ](core_05_band_oversight.md#publication-truthfulness-and-recklessness-floor) — no knowing falsity or reckless disregard for accuracy, uncertainty, context, or interpretive limits;
-- [संरक्षित डेटा आणि अंतर्गत-अवस्था प्रकाशन बंधन](core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint) — do not publish restricted data or expose protected internal states;
-- [उच्च-प्रभाव आणि प्रणालीगत हानी प्रकाशन बंधन](core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint) — constrain publication that foreseeably enables targeted harm, coercion, harmful coordination, or cascading failure; and
-- [सुरक्षा-संवेदनशील प्रकटीकरण संतुलन](core_05_band_oversight.md#security-sensitive-disclosure-balance) — प्रकटीकरण फायदे शोष धोक्याविरुद्ध तोला; सद्भावना संशोधकांसाठी वापरण्यायोग्य मार्ग ठेवा; शोष-सक्षम तपशील कमी पूर्ण होईपर्यंत विलंबित करा.
+- [प्रकाशन सत्यता आणि बेपर्वाई तळ](core_05_band_oversight.md#परकशन-सतयत-आण-बपरवई-तळ) — no knowing falsity or reckless disregard for accuracy, uncertainty, context, or interpretive limits;
+- [संरक्षित डेटा आणि अंतर्गत-अवस्था प्रकाशन बंधन](core_05_band_oversight.md#सरकषत-डट-आण-अतरगत-अवसथ-परकशन-बधन) — do not publish restricted data or expose protected internal states;
+- [उच्च-प्रभाव आणि प्रणालीगत हानी प्रकाशन बंधन](core_05_band_oversight.md#उचच-परभव-आण-परणलगत-हन-परकशन-बधन) — constrain publication that foreseeably enables targeted harm, coercion, harmful coordination, or cascading failure; and
+- [सुरक्षा-संवेदनशील प्रकटीकरण संतुलन](core_05_band_oversight.md#सरकष-सवदनशल-परकटकरण-सतलन) — प्रकटीकरण फायदे शोष धोक्याविरुद्ध तोला; सद्भावना संशोधकांसाठी वापरण्यायोग्य मार्ग ठेवा; शोष-सक्षम तपशील कमी पूर्ण होईपर्यंत विलंबित करा.
 
 <a id="publication-truthfulness-and-recklessness-floor"></a>
 
@@ -1329,10 +1329,10 @@ Where admission scope is met, this cluster is the home for honest representation
     - अनिश्चितता;
     - संदर्भ; किंवा
     - भौतिक व्याख्या मर्यादा,
-    from good-faith observation and bounded interpretation, under [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) and [सद्भावना](core_05_band_accountability.md#good-faith).
+    from good-faith observation and bounded interpretation, under [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन) and [सद्भावना](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **काय टिकले पाहिजे**
-  - Good-faith publication of observations, evidence, आणि bounded interpretations is governed by अध्याय अकरा **Articles IX**, **XIII**, आणि **XIV** as applicable and must satisfy this cluster jointly under [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [सद्भावना](core_05_band_accountability.md#good-faith), आणि [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, आणि bounded interpretations is governed by अध्याय अकरा **Articles IX**, **XIII**, आणि **XIV** as applicable and must satisfy this cluster jointly under [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), [सद्भावना](core_05_band_accountability.md#good-faith), आणि [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत).
   - **प्राथमिक अपयश:** जाणून खोटे प्रकाशन, किंवा याकडे बेपर्वा दुर्लक्षाने केलेले प्रकाशन:
     - अचूकता;
     - अनिश्चितता;
@@ -1370,19 +1370,19 @@ Where admission scope is met, this cluster is the home for honest representation
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: publication's primary or foreseeable effects on coordination, safety, आणि info-sphere integrity stay within proportional distribution constraints.
 
-    **प्राथमिक मूल्यमापन:** Consider primary and [यथोचित पूर्वानुमेय](core_05_band_oversight.md#reasonably-foreseeable) effects on:
+    **प्राथमिक मूल्यमापन:** Consider primary and [यथोचित पूर्वानुमेय](core_05_band_oversight.md#यथचत-परवनमय) effects on:
     - समन्वय;
     - [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint);
     - असुरक्षिततेचा शोष; आणि
     - [सूचना-मंडळ](core_05_band_participation.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
 - **काय टिकले पाहिजे**
-  - Even factually accurate publication is constrained where its primary or [यथोचित पूर्वानुमेय](core_05_band_oversight.md#reasonably-foreseeable) effect is to enable:
+  - Even factually accurate publication is constrained where its primary or [यथोचित पूर्वानुमेय](core_05_band_oversight.md#यथचत-परवनमय) effect is to enable:
     - targeted [हानी](core_05_band_accountability.md#harm);
     - [बळजबरी आणि हाताळणी](core_05_band_participation.md#coercion-and-manipulation-constitutional);
     - मोठ्या-प्रमाणात हानिकारक समन्वय;
     - [शृंखलाबद्ध विफलता](core_05_band_continuity.md#cascading-failure); or
-    - patterns that materially degrade [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity).
+    - patterns that materially degrade [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत).
   - **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण आणि हाताळणी** अंतर्गत **Class A** आणि **Class B** प्रणाली वितरण यांत्रिकी आणि संरक्षणांवर उच्च प्रमाणबद्ध बंधने चालू करतात.
   - **प्राथमिक अपयश:** या प्राथमिक किंवा यथोचित पूर्वानुमेय परिणामांसाठी आवश्यक प्रमाणबद्ध वितरण बंधने आणि संरक्षणांशिवाय प्रकाशन, **Class A** आणि **Class B** प्रणालींसाठी उच्च बंधने धरून.
 
@@ -1399,7 +1399,7 @@ Where admission scope is met, this cluster is the home for honest representation
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: disclosure benefits outweigh foreseeable exploitation, circumvention, or adversarial-manipulation risks.
 
-    **प्राथमिक मूल्यमापन:** Balance disclosure benefits against foreseeable risks under [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), consistent with Chapters Two through Four and अध्याय एक, यांना झाकून:
+    **प्राथमिक मूल्यमापन:** Balance disclosure benefits against foreseeable risks under [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट), consistent with Chapters Two through Four and अध्याय एक, यांना झाकून:
     - शोषण;
     - बगल; किंवा
     - विरोधक हाताळणी.
@@ -1410,7 +1410,7 @@ Where admission scope is met, this cluster is the home for honest representation
 - **काय टिकले पाहिजे**
   - सद्भावना सुरक्षा संशोधकांकडे निम्न-धोका माहिती प्रकाशित करण्यासाठी वापरण्यायोग्य, प्रतिशोध-नसलेला मार्ग हवा — अस्तित्व सूचना आणि शोष-सक्षम नसलेला तपशील धरून — संशोधक प्रकाशन स्वतः प्रतिबंधित प्रकटीकरण मानल्याशिवाय.
   - शोष-सक्षम किंवा अन्यथा उच्च-धोका सुरक्षा तपशील सुरक्षा कमी पूर्ण होईपर्यंत, किंवा CS-2 अंतर्गत **Type S** (किंवा समकक्ष) प्रतिबंध न्याय संपेपर्यंत विलंबित हवा — नंतर लागू विलंबित-प्रकटीकरण आणि **Type O** सारांश नियमांखाली प्रकटीकरण.
-  - **प्राथमिक अपयश:** consistent with **Chapters Two through Four**, **अध्याय एक**, [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions):
+  - **प्राथमिक अपयश:** consistent with **Chapters Two through Four**, **अध्याय एक**, [धोका](core_05_band_continuity.md#risk), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), आणि [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट):
     - ते धोके प्रकटीकरण फायद्यांपेक्षा जास्त असताना संरक्षणांची बगल किंवा विरोधक हाताळणी भौतिकपणे सक्षम करणारे प्रकाशन;
     - निम्न-धोका सद्भावना संशोधक प्रकाशन दाबणे; किंवा
     - अजून न्याय्य **Type S** (किंवा समकक्ष) प्रतिबंधाशिवाय कमी झाल्यानंतर प्रकटीकरणीय तपशीलाचा अनिश्चित अडथळा.
@@ -1436,13 +1436,13 @@ Where admission scope is met, this cluster is the home for honest representation
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: materially decision-relevant claims stay honest about what is known, unknown, आणि uncertain — resisting deception, distortion, आणि structurally misleading presentation.
 
-    **प्राथमिक मूल्यमापन:** Judge the real effect on informed decision-making and auditability — scale scrutiny with [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), आणि [धोका](core_05_band_continuity.md#risk); require honest methods, honest uncertainty treatment, आणि revision when evidence disconfirms prior conclusions.
-  - **दुय्यम माप:** [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [पारदर्शकता](core_05_band_oversight.md#transparency), आणि [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) — co-measures that can defeat truth even when formal disclosure exists.
+    **प्राथमिक मूल्यमापन:** Judge the real effect on informed decision-making and auditability — scale scrutiny with [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [अवलंबित्व](core_05_band_continuity.md#dependency), आणि [धोका](core_05_band_continuity.md#risk); require honest methods, honest uncertainty treatment, आणि revision when evidence disconfirms prior conclusions.
+  - **दुय्यम माप:** [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [पारदर्शकता](core_05_band_oversight.md#परदरशकत), आणि [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) — co-measures that can defeat truth even when formal disclosure exists.
 
-    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, include [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), आणि [पारदर्शकता](core_05_band_oversight.md#transparency) paths that would defeat honest interpretation or verification.
-  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — where metrics, market signals, or institutional assertion stand in for honest constitutional evaluation.
+    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, include [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), आणि [पारदर्शकता](core_05_band_oversight.md#परदरशकत) paths that would defeat honest interpretation or verification.
+  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — where metrics, market signals, or institutional assertion stand in for honest constitutional evaluation.
 
-    **तृतीय मूल्यमापन:** Where operators lean on proxies, odds, prices, or compliance indicators, apply [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — separate durable truth from proxy throughput or institutional assertion.
+    **तृतीय मूल्यमापन:** Where operators lean on proxies, odds, prices, or compliance indicators, apply [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — separate durable truth from proxy throughput or institutional assertion.
 <a id="truth-constitutional-constraint-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:** विश्वसनीय व्याख्या किंवा लेखापरीक्षण-योग्य अखंडतेची भौतिक अधोगती यांनी:
@@ -1452,8 +1452,8 @@ Where admission scope is met, this cluster is the home for honest representation
     - निवडक प्रकटीकरण; किंवा
     - संरचनात्मक दिशाभूल सादरीकरण —
     including polite tone or procedural form used as a substitute for honest treatment of what is known, unknown, आणि uncertain.
-  - **दुय्यम अपयश:** jargon, stacked complexity, or procedural opacity used to defeat [आव्हानयोग्यता](core_05_band_accountability.md#contestability) or [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) where materially relevant.
-  - **तृतीय अपयश:** prices, odds, or market resolution sources used as enough for rights, safety, or governance truth determinations where अध्याय एक forbids that substitution, or refusal of correction after [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **दुय्यम अपयश:** jargon, stacked complexity, or procedural opacity used to defeat [आव्हानयोग्यता](core_05_band_accountability.md#contestability) or [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) where materially relevant.
+  - **तृतीय अपयश:** prices, odds, or market resolution sources used as enough for rights, safety, or governance truth determinations where अध्याय एक forbids that substitution, or refusal of correction after [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) is reasonably observable.
 
 <a id="epistemic-integrity"></a>
 
@@ -1468,7 +1468,7 @@ Where admission scope is met, this cluster is the home for honest representation
     - अनिश्चितता;
     - पुरावा संघर्ष; आणि
     - आव्हाननीय अनुमान पायऱ्या —
-    so [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) cannot be bypassed through procedural form, model opacity, or non-auditable inference.
+    so [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन) cannot be bypassed through procedural form, model opacity, or non-auditable inference.
   - **व्याप्तीबाहेर:**
     - फक्त पद्धत कागदपत्रे;
     - संस्थात्मक प्रतिष्ठा श्रेणी; किंवा
@@ -1483,12 +1483,12 @@ Where admission scope is met, this cluster is the home for honest representation
     - प्रतिष्ठा;
     - प्रमाण; किंवा
     - जटिलता.
-  - **दुय्यम माप:** [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [सत्यापनीयता](core_05_band_oversight.md#verifiability), [पारदर्शकता](core_05_band_oversight.md#transparency), आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
+  - **दुय्यम माप:** [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत), [पारदर्शकता](core_05_band_oversight.md#परदरशकत), आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
 
-    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, also check [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [सत्यापनीयता](core_05_band_oversight.md#verifiability), आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#foreseeability-diligence).
-  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — where authority, prestige, scale, or complexity stands in for demonstrable integrity.
+    **दुय्यम मूल्यमापन:** प्राथमिक उत्तर तपासताना, also check [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [सत्यापनीयता](core_05_band_oversight.md#सतयपनयत), आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#परवनमयत-दकषत).
+  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — where authority, prestige, scale, or complexity stands in for demonstrable integrity.
 
-    **तृतीय मूल्यमापन:** Where operators lean on authority, model opacity, or unverifiable assertion, apply [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — separate durable epistemic integrity from procedural form.
+    **तृतीय मूल्यमापन:** Where operators lean on authority, model opacity, or unverifiable assertion, apply [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — separate durable epistemic integrity from procedural form.
 <a id="epistemic-integrity-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
@@ -1496,7 +1496,7 @@ Where admission scope is met, this cluster is the home for honest representation
     - प्रामाणिक अनिश्चितता हाताळणी पराभूत करणाऱ्या मूल्यमापन किंवा संवाद सराव; किंवा
     - लेखापरीक्षण भौतिक आवश्यक असताना अपરिक्षणीय अनुमान.
   - **दुय्यम अपयश:** सत्यापन किंवा अर्थपूर्ण आव्हान पूर्वानुमेयपणे रोखणारे पद्धतशीर निवड; निरीक्षणीय पुरावा यथोचित साध्य असताना असत्यापनीय दाव्यावर विश्रांती घेणारे अखंडता दावे.
-  - **तृतीय अपयश:** formal method documentation or institutional prestige treated as decisive where [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **तृतीय अपयश:** formal method documentation or institutional prestige treated as decisive where [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) is reasonably observable.
 
 ---
 
@@ -1507,7 +1507,7 @@ Where admission scope is met, this cluster is the home for honest representation
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- सोबत वाचा: Apply [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), [मूल्यमापन पूर्णता बंधन](core_05_band_oversight.md#evaluation-completeness-constraint), [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries), आणि Chapters Two through Four mechanics where materially implicated.
+- सोबत वाचा: Apply [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), [मूल्यमापन पूर्णता बंधन](core_05_band_oversight.md#मलयमपन-परणत-बधन), [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट), [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries), आणि Chapters Two through Four mechanics where materially implicated.
 
 </details>
 
@@ -1522,16 +1522,16 @@ Where admission scope is met, this cluster is the home for honest representation
   - दुरुपयोग मार्ग; किंवा
   - संक्रियात्मक अटी;
 - “आम्ही ते पाहू शकलो नसतो” दावे न्याय्य आहेत का;
-- whether analysis depth, scope, आणि scaling match [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [भौतिक धोका](core_05_band_oversight.md#material-risk), [धोका](core_05_band_continuity.md#risk), आणि [अवलंबित्व](core_05_band_continuity.md#dependency); or
-- whether evaluation was incomplete in a way that defeats [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [धोका](core_05_band_continuity.md#risk) assessment, or [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#foreseeability-diligence).
+- whether analysis depth, scope, आणि scaling match [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [भौतिक धोका](core_05_band_oversight.md#भतक-risk), [धोका](core_05_band_continuity.md#risk), आणि [अवलंबित्व](core_05_band_continuity.md#dependency); or
+- whether evaluation was incomplete in a way that defeats [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [धोका](core_05_band_continuity.md#risk) assessment, or [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#परवनमयत-दकषत).
 त्या व्याप्तीबाहेर, वैयक्तिक नोंदी पूर्ण संयुग आयात न करता स्वतःहून लागू राहू शकतात.
 
-Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([अध्याय दोन, §3 — Consistency Across the Definition Stack](core_02_definition_structure.md#3-consistency-across-the-definition-stack)).
+Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **Chapters Two through Four** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([अध्याय दोन, §3 — Consistency Across the Definition Stack](core_02_definition_structure.md#3-वयखय-ढरत-ससगतत)).
 
 **उप-खंड सदस्य.** हा उप-खंड यांचा समावेश करतो:
 
-- [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#foreseeability-diligence) — reasonable analysis sized to impact: required depth, evaluation boundaries, incompleteness failure, आणि justified non-foreseeability claims; and
-- [यथोचित पूर्वानुमेय](core_05_band_oversight.md#reasonably-foreseeable) — outcomes a careful analyst using known methods could identify before acting.
+- [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#परवनमयत-दकषत) — reasonable analysis sized to impact: required depth, evaluation boundaries, incompleteness failure, आणि justified non-foreseeability claims; and
+- [यथोचित पूर्वानुमेय](core_05_band_oversight.md#यथचत-परवनमय) — outcomes a careful analyst using known methods could identify before acting.
 
 **§3.3 आत बगल-बंदी.** पूर्वानुमेयता विश्लेषण वेगळ्या खोली, सीमा, दावा-भार, अपूर्णता, किंवा यथोचित-पूर्वानुमेय प्रश्नांत एक पूर्ण करून दुसरे पराभूत करणाऱ्या रीतीने तोडू नका. लेखापरीक्षण-सुसंगत न्यायाशिवाय अपूर्वानुमेयता दावा करणे, किंवा विरोधक, प्रमाणित, पुनरावृत्त, किंवा दुरुपयोग संदर्भ भौतिक असताना फक्त सर्वोत्तम-केस संक्रिया मूल्यमापन करणे प्रवेश व्याप्तीत अनुरूप नाही.
 
@@ -1549,17 +1549,17 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 
 - **ते काय आहे**
   - **व्याप्तीत:** प्रभावाप्रमाणे आकारलेली यथोचित विश्लेषण मानके, यांना झाकून:
-    - analysis depth that scales with [भौतिक प्रभाव](core_05_band_oversight.md#material-impact), [धोका](core_05_band_continuity.md#risk), आणि [अवलंबित्व](core_05_band_continuity.md#dependency) under [प्रमाणबद्धता](core_05_band_accountability.md#proportionality);
+    - analysis depth that scales with [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact), [धोका](core_05_band_continuity.md#risk), आणि [अवलंबित्व](core_05_band_continuity.md#dependency) under [प्रमाणबद्धता](core_05_band_accountability.md#proportionality);
     - आवश्यक मूल्यमापन सीमा, यासह:
       - संवाद;
       - अवलंबित्व;
       - विरोधक वापर; आणि
       - relevant [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries);
     - ते मूल्यमापन खरे करण्याचे कर्तव्य; आणि
-    - responsibility for justifying non-foreseeability claims under [यथोचित पूर्वानुमेय](core_05_band_oversight.md#reasonably-foreseeable).
+    - responsibility for justifying non-foreseeability claims under [यथोचित पूर्वानुमेय](core_05_band_oversight.md#यथचत-परवनमय).
   - **व्याप्तीबाहेर:**
     - आवश्यक दक्षतेनंतरही अपूर्वानुमेय राहिलेले परिणाम;
-    - unbounded speculative review of every conceivable outcome — that sits under [यथोचित पूर्वानुमेय](core_05_band_oversight.md#reasonably-foreseeable) exclusions; or
+    - unbounded speculative review of every conceivable outcome — that sits under [यथोचित पूर्वानुमेय](core_05_band_oversight.md#यथचत-परवनमय) exclusions; or
     - प्रत्येक निम्न-दाव प्रकरणासाठी मागितलेले सपाट-कमाल विश्लेषण — खोली प्रभावाप्रमाणे प्रमाणित होते; ते अमर्याद कमालवाद नाही.
 <a id="foreseeability-burden-a"></a>
 <a id="foreseeability-failure-a"></a>
@@ -1569,8 +1569,8 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: analysis depth matches impact, risk, आणि dependency; whether required boundaries were covered; whether the evaluation was actually performed; and whether non-foreseeability claims have audit-compatible justification.
 
-    **प्राथमिक मूल्यमापन:** Include known methods and patterns for what is [यथोचित पूर्वानुमेय](core_05_band_oversight.md#reasonably-foreseeable), scaled to:
-    - [भौतिक प्रभाव](core_05_band_oversight.md#material-impact);
+    **प्राथमिक मूल्यमापन:** Include known methods and patterns for what is [यथोचित पूर्वानुमेय](core_05_band_oversight.md#यथचत-परवनमय), scaled to:
+    - [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact);
     - [धोका](core_05_band_continuity.md#risk); and
     - [अवलंबित्व](core_05_band_continuity.md#dependency).
     यांचा समावेश करणाऱ्या मूल्यमापन सीमा समाविष्ट करा:
@@ -1578,20 +1578,20 @@ Where admission scope is met, this nested sub-block is the joint home for forese
     - [अवलंबित्व](core_05_band_continuity.md#dependency);
     - विरोधक वापर; आणि
     - relevant [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries).
-    Include [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [धोका](core_05_band_continuity.md#risk) evaluation, or [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint).
+    Include [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [धोका](core_05_band_continuity.md#risk) evaluation, or [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint).
 <a id="foreseeability-burden-c"></a>
 <a id="foreseeability-failure-c"></a>
 <a id="foreseeability-scaling-c"></a>
 <a id="foreseeability-scope-c"></a>
 <a id="foreseeability-diligence-c"></a>
 - **काय टिकले पाहिजे**
-  - Analysis depth must scale with [भौतिक प्रभाव](core_05_band_oversight.md#material-impact) and [धोका](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
+  - Analysis depth must scale with [भौतिक प्रभाव](core_05_band_oversight.md#भतक-impact) and [धोका](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
   - मूल्यमापन सीमांमध्ये यांचा समावेश हवा:
     - संवाद;
     - [अवलंबित्व](core_05_band_continuity.md#dependency);
     - विरोधक वापर; आणि
     - relevant [प्रणाली सीमा](core_05_band_continuity.md#system-boundaries).
-  - Non-foreseeability claims require [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability)-compatible justification — assertion alone is not enough.
+  - Non-foreseeability claims require [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत)-compatible justification — assertion alone is not enough.
   - **प्राथमिक अपयश:**
     - खरी पूर्वानुमेयता मूल्यमापन नसलेले चेकबॉक्स विश्लेषण;
     - लेखापरीक्षण-सुसंगत न्यायाशिवाय काही अपूर्वानुमेय होते हे केवळ प्रतिपादन;
@@ -1600,7 +1600,7 @@ Where admission scope is met, this nested sub-block is the joint home for forese
     - उच्च प्रभाव असूनही वरवरचे विश्लेषण;
     - आवश्यक सीमांखाली व्याप्ती मर्यादा;
     - अपूर्वानुमेयता दाव्यासाठी अपुरा न्याय; किंवा
-    - incompleteness that defeats [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#foreseeability-diligence), [धोका](core_05_band_continuity.md#risk) evaluation, or [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint).
+    - incompleteness that defeats [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#परवनमयत-दकषत), [धोका](core_05_band_continuity.md#risk) evaluation, or [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint).
 
 <a id="reasonably-foreseeable"></a>
 
@@ -1609,13 +1609,13 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 *सोप्या भाषेत: ज्ञात पद्धती वापरणारा काळजीपूर्वक विश्लेषक कृतीपूर्वी ओळखू शकेल असे परिणाम — विरोधक आणि प्रमाणित अटींसह — प्रत्येक कल्पनीय परिणाम किंवा शुद्ध पश्चातदृष्टी नाही.*
 
 - **ते काय आहे**
-  - **व्याप्तीत:** Outcomes identifiable using domain knowledge and analytical methods under [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#foreseeability-diligence).
+  - **व्याप्तीत:** Outcomes identifiable using domain knowledge and analytical methods under [पूर्वानुमेयता दक्षता](core_05_band_oversight.md#परवनमयत-दकषत).
   - **व्याप्तीबाहेर:** प्रत्येक कल्पनीय परिणाम, शुद्ध पश्चातदृष्टी, किंवा यथोचित दक्षतेपलीकडील ज्ञान किंवा पद्धतींनीच कळणारे परिणाम.
 <a id="reasonably-foreseeable-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [देखरेख मापन कुटुंब](core_05_apex_oversight_leg.md#oversight-measurement-family) — *संज्ञ प्राणी प्रणाली काय दाखवतात ते पाहू, सत्यापित करू आणि त्यावर विश्वास ठेवू शकतात का?* येथे हे विचारा: identifiable outcomes under reasonable diligence are included — including adversarial and scaled conditions — not excluded by hindsight games or best-case-only framing.
 
-    **प्राथमिक मूल्यमापन:** Include adversarial and scaled conditions, including [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    **प्राथमिक मूल्यमापन:** Include adversarial and scaled conditions, including [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट).
 <a id="reasonably-foreseeable-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:** अशा परिणामांची वगळणी.
@@ -1626,4 +1626,4 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 
 **पुढील फाइल (या भाषेत):** [core_05_band_participation.md](core_05_band_participation.md)
 
-**बंधनकारक मूळ:** [core_05_band_oversight.md](../../core_05_band_oversight.md)
+**बंधनकारक मूळ:** [core_05_band_oversight.md](../../core_05.050_band_oversight.md)

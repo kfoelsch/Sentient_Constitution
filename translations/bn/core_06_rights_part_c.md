@@ -82,7 +82,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), এবং [§19 প্রণোদনার সামঞ্জস্য ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§19 প্রণোদনার সামঞ্জস্য ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল)।
 
 </details>
 
@@ -144,7 +144,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
 - ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
-- সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)—**সমুন্নতি** ও **সাতত্য**; [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) এবং **অনুচ্ছেদ III-A** (*টিকে থাকা*), যেখানে ব্যবস্থার ওপর অব্যাহত নির্ভরতা টিকে থাকার জন্য অপরিহার্য প্রবেশাধিকার প্রভাবিত করবে; সফল চ্যালেঞ্জের পর কী হওয়া উচিত তা জানতে [**অনুচ্ছেদ XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*প্রতিকার ও সংশোধনের অধিকার*)।
+- সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)—**সমুন্নতি** ও **সাতত্য**; [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) এবং **অনুচ্ছেদ III-A** (*টিকে থাকা*), যেখানে ব্যবস্থার ওপর অব্যাহত নির্ভরতা টিকে থাকার জন্য অপরিহার্য প্রবেশাধিকার প্রভাবিত করবে; সফল চ্যালেঞ্জের পর কী হওয়া উচিত তা জানতে [**অনুচ্ছেদ XIII-B**](#অনচছদ-xiii-b-পরতকর-ও-সশধনর-অধকর) (*প্রতিকার ও সংশোধনের অধিকার*)।
 
 </details>
 
@@ -171,10 +171,10 @@ flowchart TB
   - নির্ভরতা যুক্তিসঙ্গত কি না মূল্যায়নের জন্য প্রয়োজনীয় বস্তুগত অবস্থা, সীমা ও ঝুঁকি প্রকাশ;
   - পদ্ধতিগত প্রতারণা, ভুল উপস্থাপন বা যাচাই-অযোগ্য কারসাজি থেকে মুক্তি;
   - নির্ভরতা থেকে উদ্ভূত অপ্রকাশিত, অসামঞ্জস্যপূর্ণ বা সহজে চোখে না-পড়া ঝুঁকি থেকে সুরক্ষা;
-  - ব্যবস্থা অন্যায় করলে সংশোধন ও প্রতিকার: স্বীকার, সংশোধন, আনুপাতিক মেরামত ও পুনরাবৃত্তি প্রতিরোধ—[**অনুচ্ছেদ XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*প্রতিকার ও সংশোধনের অধিকার*) এবং [অধ্যায় এক §6.1 সংশোধন ও প্রতিকার](core_01_a_values_principles.md#61-correction-and-remedy) অনুসারে।
+  - ব্যবস্থা অন্যায় করলে সংশোধন ও প্রতিকার: স্বীকার, সংশোধন, আনুপাতিক মেরামত ও পুনরাবৃত্তি প্রতিরোধ—[**অনুচ্ছেদ XIII-B**](#অনচছদ-xiii-b-পরতকর-ও-সশধনর-অধকর) (*প্রতিকার ও সংশোধনের অধিকার*) এবং [অধ্যায় এক §6.1 সংশোধন ও প্রতিকার](core_01_a_values_principles.md#61-correction-and-remedy) অনুসারে।
 - **আপত্তিযোগ্যতার নিশ্চয়তা:** সংজ্ঞরা যতদিন ব্যবস্থার ওপর নির্ভর করেন, ততদিন তাদের বস্তুগতভাবে প্রভাবিত করা ব্যবস্থাকে চ্যালেঞ্জের জন্য উন্মুক্ত থাকতে হবে। এর জন্য দরকার:
   - ব্যবস্থার আচরণ, ফলাফল বা উপস্থাপনাকে চ্যালেঞ্জ করার এবং সেই চ্যালেঞ্জ পর্যালোচনা করানোর ব্যবহারযোগ্য পথ;
-  - প্রভাব ও নির্ভরতার অনুপাতে নিরীক্ষা ও স্বাধীন যাচাই—[**অনুচ্ছেদ XVI**](#article-xvi-audit-transparency-and-independent-verification) (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) অনুসারে;
+  - প্রভাব ও নির্ভরতার অনুপাতে নিরীক্ষা ও স্বাধীন যাচাই—[**অনুচ্ছেদ XVI**](#অনচছদ-xvi-নরকষ-সবচছত-ও-সবধন-যচই) (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) অনুসারে;
   - ব্যবস্থা প্রত্যয়িত, আনুষ্ঠানিকভাবে স্বীকৃত বা ব্যাপকভাবে ব্যবহৃত বলে এগুলোর কোনোটি সংকুচিত না করা;
   - গৃহীত বাস্তবায়ন-পাঠ দিয়েও এগুলো সংকুচিত না করা। এ ধরনের পাঠ কোনো ক্ষেত্রে চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকার পরিচালনার পদ্ধতি বলে এবং তাকে এই অনুচ্ছেদ মানতে হবে: সুবিধা, সময়সীমা ও স্থানীয় নীতি নিম্নতর ধরনের সীমা; এগুলো চ্যালেঞ্জ, পর্যালোচনা বা প্রতিকার বন্ধ করতে পারে না।
 - **চ্যালেঞ্জ ও পর্যালোচনার অধিকার:** সংজ্ঞদের অধিকার আছে:
@@ -193,7 +193,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
 - ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§6.1 সংশোধন ও প্রতিকার](core_01_a_values_principles.md#61-correction-and-remedy) (নীতিগত অধিকার-তল), [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
-- সঙ্গে পড়ুন: [**অনুচ্ছেদ XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*)—আপত্তিযোগ্যতার নিশ্চয়তা, চ্যালেঞ্জের অধিকার ও সুরক্ষিত প্রতিবেদন, যা প্রতিকারের পথ খোলে; **অনুচ্ছেদ III-A** (*টিকে থাকা*); ব্যবস্থা ব্যর্থতা বা অসামঞ্জস্য টিকে থাকার জন্য অপরিহার্য প্রবেশাধিকার নষ্ট করলে [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional); [প্রস্তাবনা §6.2 পুরো শৃঙ্খল কীভাবে একসঙ্গে কাজ করে](core_00_preamble.md#62-how-the-full-chain-fits-together) (*যাচাইকৃত শ্রেণিবিন্যাস ও সময়মতো প্রতিকার*); [অধ্যায় দশ §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*প্রয়োগের বাস্তবতা ও প্রতিকার-ব্যবস্থা*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*প্রতিকার-ব্যবস্থা ও প্রাতিষ্ঠানিক প্রতিকার-সক্ষমতা*)।
+- সঙ্গে পড়ুন: [**অনুচ্ছেদ XIII-A**](#অনচছদ-xiii-a-নরভরযগযত-ও-বশবসযগযতর-ভতত) (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*)—আপত্তিযোগ্যতার নিশ্চয়তা, চ্যালেঞ্জের অধিকার ও সুরক্ষিত প্রতিবেদন, যা প্রতিকারের পথ খোলে; **অনুচ্ছেদ III-A** (*টিকে থাকা*); ব্যবস্থা ব্যর্থতা বা অসামঞ্জস্য টিকে থাকার জন্য অপরিহার্য প্রবেশাধিকার নষ্ট করলে [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional); [প্রস্তাবনা §6.2 পুরো শৃঙ্খল কীভাবে একসঙ্গে কাজ করে](core_00_preamble.md#62-how-the-full-chain-fits-together) (*যাচাইকৃত শ্রেণিবিন্যাস ও সময়মতো প্রতিকার*); [অধ্যায় দশ §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*প্রয়োগের বাস্তবতা ও প্রতিকার-ব্যবস্থা*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*প্রতিকার-ব্যবস্থা ও প্রাতিষ্ঠানিক প্রতিকার-সক্ষমতা*)।
 
 </details>
 
@@ -231,7 +231,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), এবং [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), এবং [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-জঞনতততবক-পরকশর-সমবদধত)।
 
 </details>
 
@@ -240,7 +240,7 @@ flowchart TB
 
 - [আস্থা](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
 - [বিশ্বাসযোগ্যতা](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#সতয-সবধনক-বনধন) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -263,14 +263,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), এবং [§19.1.1 প্রণোদনার করণীয়](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*পুরস্কারের অগ্রাধিকার*)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ), এবং [§19.1.1 প্রণোদনার করণীয়](core_01_c_stewardship_capacity_principles.md#১৯১১-পরণদন-য-অবশযই-করব) (*পুরস্কারের অগ্রাধিকার*)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [প্রণোদনার সামঞ্জস্য](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [প্রণোদনার সামঞ্জস্য](core_05_band_integrative.md#পরণদন-সরবদধত) · [O](core_05_band_integrative.md#পরণদন-সরবদধত) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 - [বিশ্বাসযোগ্যতা](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
 - [অর্থবহ কর্তৃত্বক্ষমতা](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
@@ -304,7 +304,7 @@ flowchart TB
   - **অনুচ্ছেদ XIII-B** (*প্রতিকার ও সংশোধনের অধিকার*)-এর অধীনে প্রতিকার; এবং
   - সর্বাগ্রে সমস্যার সক্রিয় প্রতিরোধ—সমস্যা প্রতিরোধের পুরস্কার, প্রতিকার করার পুরস্কারের চেয়ে বেশি হবে।
 
-  সমস্যাগুলো গোপন করে প্রতিরোধের পুরস্কার অর্জনে নিষেধসহ এই নীতি [অধ্যায় এক §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*প্রণোদনার করণীয়*)-তে রয়েছে।
+  সমস্যাগুলো গোপন করে প্রতিরোধের পুরস্কার অর্জনে নিষেধসহ এই নীতি [অধ্যায় এক §19.1.1](core_01_c_stewardship_capacity_principles.md#১৯১১-পরণদন-য-অবশযই-করব) (*প্রণোদনার করণীয়*)-তে রয়েছে।
 - **সীমাবদ্ধতা ও অ-চূড়ান্ততা:** উভয় অধিকারই এই অধ্যায়ের শুরুতে থাকা **পূর্বনির্ধারিত সীমাবদ্ধতার সমষ্টি**-র অধীন। বস্তুগতভাবে প্রাসঙ্গিক হলে, শর্তসাপেক্ষ দাবি, ভাগ্যনির্ভর খেলা ও ঘটনা-চুক্তির বাজার বিষয়ে **অধ্যায় এক §19.5** (*শর্তসাপেক্ষ দাবি, ভাগ্যনির্ভর খেলা ও ঘটনা-চুক্তির বাজার*)-এরও অধীন।
 
 <a id="article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
@@ -312,14 +312,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#সতয-সবধনক-বনধন) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [আপত্তি জানানোর সুযোগ](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [আনুপাতিকতা](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 স্থিতিস্থাপকতা ও স্ব-নিরাময় নকশা](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 স্থিতিস্থাপকতা ও স্ব-নিরাময় নকশা](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#১৩৩-এডন-সমভব-এমন-বঝ-কমন), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -373,7 +373,7 @@ flowchart TB
 - [স্ব-নিরাময়](core_05_band_continuity.md#self-healing-constitutional) · [O](core_05_band_continuity.md#self-healing-constitutional) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
 - [প্রত্যাবর্তনযোগ্যতা](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [ক্রমবর্ধমান ব্যর্থতা](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
-- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [আপত্তি জানানোর সুযোগ](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [এড়ানো সম্ভব এমন বোঝা](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 
@@ -388,11 +388,11 @@ flowchart TB
 - **কী প্রয়োজন:** এই অনুচ্ছেদের আওতায় থাকা প্রতিটি ব্যবস্থাকে ব্যর্থতা থেকে পুনরুদ্ধার করতে সক্ষম হতে হবে। ব্যবস্থার প্রভাব, তার ওপর অন্যদের নির্ভরতা ও তার ঝুঁকি যত বেশি, পুনরুদ্ধার-সক্ষমতাও তত শক্তিশালী হতে হবে। এটি **অধ্যায় এক**-এর [**§10 স্থিতিস্থাপকতা ও স্ব-নিরাময় নকশা**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) এবং **অধ্যায় পাঁচ**-এর [**স্ব-নিরাময়**](core_05_band_continuity.md#self-healing-constitutional)-এর অনুসারী।
   - পুনরুদ্ধার কীভাবে নির্মাণ করতে হবে তার বিস্তারিত প্রযুক্তিগত নিয়ম বাস্তবায়ন-পাঠে রয়েছে: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*নকশা, পরীক্ষা, যাচাই ও স্থাপন*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*অভিযোজনশীল স্থায়িত্ব ও বাস্তুতন্ত্রের স্থিতিস্থাপকতা*), এবং [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*বিকেন্দ্রীভূত ধারাবাহিকতা ও বিভাজন-স্থিতিস্থাপকতা*)।
   - ওই বাস্তবায়ন-পাঠ বিস্তারিত যোগ করতে পারে, কিন্তু এই অনুচ্ছেদ দুর্বল করতে পারে না।
-- **সময়মতো সমস্যা শনাক্ত করুন:** ত্রুটি, গতি কমে যাওয়া, আংশিক ভেঙে পড়া এবং সাংবিধানিক সীমা লঙ্ঘন এত দ্রুত ও দৃশ্যমানভাবে শনাক্ত করতে হবে যাতে **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*) ([নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability))-এর নথি-রক্ষার মান পূরণ হয়। এটি শুধু স্বাভাবিক পরিচালনায় নয়, পুনরুদ্ধার-প্রক্রিয়াতেও প্রযোজ্য।
+- **সময়মতো সমস্যা শনাক্ত করুন:** ত্রুটি, গতি কমে যাওয়া, আংশিক ভেঙে পড়া এবং সাংবিধানিক সীমা লঙ্ঘন এত দ্রুত ও দৃশ্যমানভাবে শনাক্ত করতে হবে যাতে **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*) ([নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত))-এর নথি-রক্ষার মান পূরণ হয়। এটি শুধু স্বাভাবিক পরিচালনায় নয়, পুনরুদ্ধার-প্রক্রিয়াতেও প্রযোজ্য।
 - **ক্ষতি সীমাবদ্ধ রাখুন:** পুনরুদ্ধারে ব্যর্থতার বিস্তার সীমিত করতে হবে। পুনরুদ্ধারের সময় কোনো ব্যবস্থা:
   - ব্যর্থতা অন্য অংশ বা ব্যবস্থায় ছড়াতে পারবে না (দেখুন [ক্রমবর্ধমান ব্যর্থতা](core_05_band_continuity.md#cascading-failure));
   - সংজ্ঞ, পরিচালনাকারী বা অন্য ব্যবস্থার মালিকানাধীন সঞ্চিত তথ্য, পরিচয়পত্র, দায়বদ্ধতা বা সেটিংস বদলাতে পারবে না—যদি সেগুলো ব্যবস্থার ঘোষিত ভাঙা ও মেরামতাধীন এলাকার **বাইরে** থাকে;
-    - একমাত্র ব্যতিক্রম হলো এমন পরিবর্তন, যা **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*) ([নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability))-এর অধীনে নথিভুক্ত এবং পরিবর্তনকারীর কাছে অনুসরণযোগ্য; এবং অন্যরা বস্তুগতভাবে প্রভাবিত হলে **অধ্যায় ছয়**-এর সঙ্গে সামঞ্জস্য রেখে আনুপাতিক নোটিশ, অনুমতি বা চ্যালেঞ্জযোগ্য হস্তান্তরসহ করা হয়;
+    - একমাত্র ব্যতিক্রম হলো এমন পরিবর্তন, যা **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*) ([নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত))-এর অধীনে নথিভুক্ত এবং পরিবর্তনকারীর কাছে অনুসরণযোগ্য; এবং অন্যরা বস্তুগতভাবে প্রভাবিত হলে **অধ্যায় ছয়**-এর সঙ্গে সামঞ্জস্য রেখে আনুপাতিক নোটিশ, অনুমতি বা চ্যালেঞ্জযোগ্য হস্তান্তরসহ করা হয়;
   - নিজের কর্তৃত্ব—অনুমতি, প্রবেশাধিকার বা নেওয়া যেতে পারে এমন পদক্ষেপের পরিসর—ব্যর্থতার আগের স্তরের বাইরে বাড়াতে পারবে না।
 - **অনিশ্চিত হলে নিরাপদে ব্যর্থ হোন:** স্বয়ংক্রিয় মেরামত কাজ করবে কি না স্পষ্ট না হলে, অনুমানভিত্তিক মেরামতের চেষ্টা না করে ব্যবস্থাকে নিরাপদে থামতে, সমস্যাটি বিচ্ছিন্ন (কোয়ারেন্টাইনে) করতে বা সুশৃঙ্খলভাবে নিয়ন্ত্রণ হস্তান্তর করতে হবে। অন্য বিকল্পগুলো সমান হলে **অনুচ্ছেদ XXIII-B** (*নিরীক্ষাযোগ্যতা, আপত্তি ও প্রত্যাবর্তনযোগ্যতা-পছন্দ*)-এর অধীনে [প্রত্যাবর্তনযোগ্যতা](core_05_band_continuity.md#reversibility-constitutional) অনুযায়ী সহজে ফেরানো যায়—এমন বিকল্প প্রাধান্য পাবে।
 - **ঢেকে রাখা নয়:** স্বয়ংক্রিয় পুনরুদ্ধারকে **অনুচ্ছেদ XXIII** (*মূল-কারণ বিশ্লেষণ ও অভিযোজনশীল প্রতিক্রিয়া*) অনুযায়ী ব্যর্থতার কারণ বোঝার জন্য প্রয়োজনীয় প্রমাণ লুকানো, মুছে ফেলা বা বিলম্বিত করতে দেওয়া যাবে না।
@@ -404,7 +404,7 @@ flowchart TB
 - **বিকল্প ব্যবস্থা মেরামত নয়:** স্বয়ংক্রিয় পুনরুদ্ধারে ব্যবস্থা আবার চললেও কোনো জানা ত্রুটি থেকে গেলে ব্যবস্থার অবস্থা চূড়ান্ত নয়, সাময়িক। তাকে বজায় রাখতে হবে:
   - **অনুচ্ছেদ XXIII** (*মূল-কারণ বিশ্লেষণ ও অভিযোজনশীল প্রতিক্রিয়া*)-এর অধীনে মূল কারণ খুঁজে বের করার চলমান দায়;
   - ত্রুটি মেরামতের সম্ভাব্য সময়সীমা, যা **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*)-এর অধীনে প্রকাশ করতে হবে।
-- **অনন্ত বিলম্ব নয়:** পরিচালনাকারীদের কাজের চাপ কমানো (দেখুন [এড়ানো সম্ভব এমন বোঝা](core_05_band_continuity.md#avoidable-burden) এবং [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) নিরাপত্তা বা অধিকার-তলকে বস্তুগতভাবে প্রভাবিত করা ত্রুটি মেরামত অনির্দিষ্টকাল পিছিয়ে দেওয়ার কারণ হতে পারে না।
+- **অনন্ত বিলম্ব নয়:** পরিচালনাকারীদের কাজের চাপ কমানো (দেখুন [এড়ানো সম্ভব এমন বোঝা](core_05_band_continuity.md#avoidable-burden) এবং [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#১৩৩-এডন-সমভব-এমন-বঝ-কমন)) নিরাপত্তা বা অধিকার-তলকে বস্তুগতভাবে প্রভাবিত করা ত্রুটি মেরামত অনির্দিষ্টকাল পিছিয়ে দেওয়ার কারণ হতে পারে না।
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### অনুচ্ছেদ XIV: নিরাপত্তা, গোয়েন্দা, বলপ্রয়োগ ও স্বায়ত্তশাসিত জবরদস্তিমূলক ব্যবস্থা
@@ -412,7 +412,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 
 </details>
 
@@ -516,7 +516,7 @@ flowchart TB
   - বস্তুগতভাবে গুরুতর বেআইনি আচরণের তদন্ত।
 - **স্বাধীন অনুমোদন:** অনুপ্রবেশকারী গোপন পদক্ষেপ, গোপনীয়তা-সীমাবদ্ধ তদন্তের ধাপসহ, বৈধ স্বাধীন প্রক্রিয়ার মাধ্যমে আগাম অনুমোদন পাবে।
   - ব্যতিক্রম: আসন্ন ও বস্তুগত ক্ষতি ঠেকাতে তাৎক্ষণিক পদক্ষেপ দরকার এবং অনুমোদনে বিলম্ব হলে উদ্দেশ্য ব্যর্থ হবে।
-  - জরুরি ব্যবহার দ্রুত পরবর্তী পর্যালোচনা, [প্রমাণ সংরক্ষণ](core_05_band_oversight.md#evidence-preservation) অনুযায়ী নথি রক্ষা, এবং সময়মতো পুনরনুমোদন না হলে স্বয়ংক্রিয় মেয়াদোত্তীর্ণতা ঘটাবে।
+  - জরুরি ব্যবহার দ্রুত পরবর্তী পর্যালোচনা, [প্রমাণ সংরক্ষণ](core_05_band_oversight.md#পরমণ-সরকষণ) অনুযায়ী নথি রক্ষা, এবং সময়মতো পুনরনুমোদন না হলে স্বয়ংক্রিয় মেয়াদোত্তীর্ণতা ঘটাবে।
 - **ফাঁকি দিতে পাশ কাটানো নয়:** কোনো প্রতিষ্ঠান নিচের কারও মাধ্যমে তথ্য সংগ্রহ, অনুরোধ, ক্রয়, গ্রহণ, বৈধতার মুখোশে চালান বা ব্যবহার করতে পারে না—যদি উদ্দেশ্য হয় সরাসরি তথ্য সংগ্রহ বা নির্ণয় করলে প্রযোজ্য সাংবিধানিক সীমা এড়ানো:
   - বিদেশি অংশীদার;
   - মধ্যস্থতাকারী;
@@ -542,7 +542,7 @@ flowchart TB
   স্বাধীন তত্ত্বাবধান, চ্যালেঞ্জের পথ ও আত্ম-তদন্তবিরোধী সুরক্ষা বাস্তবে কার্যকর থাকতে হবে।
 - **প্রতিকার ও দূষণবিধি:** এই অনুচ্ছেদ লঙ্ঘন করে সংগৃহীত বা ব্যবহৃত তথ্যের ক্ষেত্রে অধিকার পুনঃপ্রতিষ্ঠা এবং পুনরাবৃত্তি নিরুৎসাহিত করার মতো যথেষ্ট বৈধ সংশোধনমূলক ব্যবস্থা নিতে হবে। উদাহরণ:
   - বর্জন;
-  - পৃথকীকরণ;
+  - বিচ্ছিন্নকরণ;
   - মুছে ফেলা;
   - পুনঃশ্রেণিবিন্যাস;
   - নোটিশ;
@@ -556,7 +556,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 প্রয়োজনীয়তা](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 সীমা-আরোপের শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 অধিকার-সংঘাত সিদ্ধান্ত-পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 চূড়ান্ত অধিকার-অতিক্রমের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 প্রয়োজনীয়তা](core_01_b_interaction_interpretation.md#1311-আবশযকত), [§7.1 সীমা-আরোপের শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 অধিকার-সংঘাত সিদ্ধান্ত-পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 চূড়ান্ত অধিকার-অতিক্রমের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 - অধস্তন ভিত্তি: **অনুচ্ছেদ I-A** (*পরিবেশগত পূর্বশর্ত ও বাস্তুতান্ত্রিক অখণ্ডতা*)-এর পরিবেশগত পূর্বশর্ত, **অনুচ্ছেদ I-D** (*অস্তিত্বগত ঝুঁকি ও বাস্তুতান্ত্রিক পুনরুদ্ধার-সক্ষমতা*)-এর অস্তিত্বগত-ঝুঁকি যাচাই, **অনুচ্ছেদ VI-A** (*মর্যাদা ও সমান নৈতিক মর্যাদা*)-এর মর্যাদা, **অনুচ্ছেদ XIV-A** (*নিরাপত্তা, গোয়েন্দা ও গোপন ক্ষমতার সীমা*)-এর গোপন ক্ষমতার সীমা (প্রকাশ্য ক্ষমতার সমকক্ষ), জরুরি ব্যবস্থার সীমা হিসেবে **অধ্যায় বারো §6.1** (*জরুরি ব্যবস্থা ও তা বজায় রাখার দায়*), সংঘাত সমাধানে **অনুচ্ছেদ XXV** (*সময়ানুবর্তী পূর্বাপর পর্যালোচনা ও পুনঃপ্রতিষ্ঠামূলক সামঞ্জস্য*), এবং রূপান্তর শাসনে **অনুচ্ছেদ XXVII** (*রূপান্তর শাসন, ধারাবাহিকতা ও পুনঃভিত্তি স্থাপন*)। আন্তঃউল্লেখ: **অনুচ্ছেদ XX-B** (*নিষেধাজ্ঞার অধিকার-তল*) ও অধ্যায় পাঁচের *[অপরিবর্তনীয় বঞ্চনা পরিমাপ](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*—**অনুচ্ছেদ XIV**-এর (*নিরাপত্তা, গোয়েন্দা, বলপ্রয়োগ ও স্বায়ত্তশাসিত জবরদস্তিমূলক ব্যবস্থা*) *গুলিয়ে না ফেলার* শৃঙ্খলা প্রযোজ্য।
 - সঙ্গে পড়ুন: [**Def.A4** *বলপ্রয়োগ, স্বায়ত্তশাসিত জবরদস্তি, স্বায়ত্তশাসিত প্রাণঘাতী ব্যবস্থা ও ব্যাপক ক্ষতিসাধনকারী অস্ত্র*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (বস্তুগতভাবে প্রভাবিত হলে যৌথ প্রয়োগ); অধ্যায় পাঁচের *বলপ্রয়োগ*, *ব্যাপক ক্ষতিসাধনকারী অস্ত্র*, *যোদ্ধা/অযোদ্ধা পার্থক্য*, *[অপরিবর্তনীয় বঞ্চনা পরিমাপ](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *অস্তিত্বগত ঝুঁকি*, *প্রত্যাবর্তনযোগ্যতা*, *প্রতিকার ও সংশোধন*।
 
@@ -622,7 +622,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 আনুপাতিকতা](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 প্রয়োজনীয়তা](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 সামঞ্জস্যের শর্ত](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [§14 চূড়ান্ত অধিকার-অতিক্রমের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 আনুপাতিকতা](core_01_b_interaction_interpretation.md#১৩১৩-আনপতকত), [§13.1.1 প্রয়োজনীয়তা](core_01_b_interaction_interpretation.md#1311-আবশযকত), [§19.1 সামঞ্জস্যের শর্ত](core_01_c_stewardship_capacity_principles.md#১৯১-সমঞজসযর-শরত), [§14 চূড়ান্ত অধিকার-অতিক্রমের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 - অধস্তন ভিত্তি: **অনুচ্ছেদ I-D** (*অস্তিত্বগত ঝুঁকি ও বাস্তুতান্ত্রিক পুনরুদ্ধার-সক্ষমতা*)-এর অস্তিত্বগত-ঝুঁকি যাচাই, **অনুচ্ছেদ X-A** (*কর্তৃত্বক্ষমতা ও কারসাজি থেকে স্বাধীনতা*)-এর কারসাজি থেকে স্বাধীনতা, **অনুচ্ছেদ XIV-A** (*নিরাপত্তা, গোয়েন্দা ও গোপন ক্ষমতার সীমা*)-এর গোপন ক্ষমতার সীমা, **অনুচ্ছেদ XIV-B** (*বলপ্রয়োগ, সশস্ত্র সংঘাত ও সামরিক ক্ষমতার সীমা*)-র প্রকাশ্য-বলপ্রয়োগ অধিকার-তল, **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*)-র ব্যবস্থা-স্তরের সমকক্ষ, **অনুচ্ছেদ XIII-E** (*উচ্চ-স্বায়ত্তশাসিত ব্যবস্থা ও টুল-মধ্যস্থ প্রক্রিয়ার অখণ্ডতা*)-র স্বায়ত্তশাসন-তত্ত্বাবধান ও স্বায়ত্তশাসনের পরিসরবৃদ্ধি, **অনুচ্ছেদ XIII-F** (*স্থিতিস্থাপকতা ও স্ব-নিরাময়ের ভিত্তি*)-র স্থিতিস্থাপকতা ও স্ব-নিরাময়ের ভিত্তি। আন্তঃউল্লেখ: **অনুচ্ছেদ XX-B** (*নিষেধাজ্ঞার অধিকার-তল*) এবং অধ্যায় পাঁচের *[অপরিবর্তনীয় বঞ্চনা পরিমাপ](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*—**অনুচ্ছেদ XIV**-এর (*নিরাপত্তা, গোয়েন্দা, বলপ্রয়োগ ও স্বায়ত্তশাসিত জবরদস্তিমূলক ব্যবস্থা*) *গুলিয়ে না ফেলার* শৃঙ্খলা প্রযোজ্য।
 - সঙ্গে পড়ুন: [**Def.A4** *বলপ্রয়োগ, স্বায়ত্তশাসিত জবরদস্তি, স্বায়ত্তশাসিত প্রাণঘাতী ব্যবস্থা ও ব্যাপক ক্ষতিসাধনকারী অস্ত্র*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (বস্তুগতভাবে প্রাসঙ্গিক হলে যৌথ প্রয়োগ); অধ্যায় পাঁচের *স্বায়ত্তশাসিত প্রাণঘাতী ব্যবস্থা*, *স্বায়ত্তশাসিত জবরদস্তির সরঞ্জাম*, *[অপরিবর্তনীয় বঞ্চনা পরিমাপ](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *জবরদস্তি ও কারসাজি*, *প্রত্যাবর্তনযোগ্যতা*। ব্যবস্থা-স্তরের বাস্তবায়ন: **[corpus_systems.md](corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও ব্যবস্থাপনা** শ্রেণিবিন্যাস।
 
@@ -634,7 +634,7 @@ flowchart TB
 - [স্বায়ত্তশাসিত প্রাণঘাতী ব্যবস্থা](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [O](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [M](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [A](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [C](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
 - [স্বায়ত্তশাসিত জবরদস্তির সরঞ্জাম](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [O](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [M](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [A](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [C](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
 - [জবরদস্তি ও কারসাজি](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [প্রতিপক্ষমূলক, ব্যাপকায়িত ও শোষিত পরিস্থিতি](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [O](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
+- [প্রতিপক্ষমূলক, ব্যাপকায়িত ও শোষিত পরিস্থিতি](core_05_band_oversight.md#বরধ-সকল-কর-ও-শষত-শরত) · [O](core_05_band_oversight.md#বরধ-সকল-কর-ও-শষত-শরত) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
 - [বর্ধিত যাচাই](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
@@ -723,9 +723,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [স্ব-নির্ধারণ](../../core_05_band_participation.md#self-determination-constitutional) · [O](../../core_05_band_participation.md#self-determination-constitutional) · [M](../../core_05_band_participation.md#self-determination-constitutional-a) · [A](../../core_05_band_participation.md#self-determination-constitutional-a) · [C](../../core_05_band_participation.md#self-determination-constitutional-c)
-- [আপত্তি জানানোর সুযোগ](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#জঞনতততবক-সতত) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [স্ব-নির্ধারণ](../../core_05.055_band_participation.md#self-determination) · [O](../../core_05.055_band_participation.md#self-determination) · [M](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [A](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [C](../../core_05.055_band_participation.md#self-determination-constitutional-c)
+- [আপত্তি জানানোর সুযোগ](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -733,7 +733,7 @@ flowchart TB
 
 *সহজ ভাষায়: **অনুচ্ছেদ XV** (*তথ্য-পরিসরের অখণ্ডতা*) তথ্যের অখণ্ডতার অধিকার-তল—যে ভাগ করা পরিবেশে আমরা শিখি, সমন্বয় করি ও সিদ্ধান্ত নিই, তা সৎ, বহুত্ববাদী এবং চ্যালেঞ্জের জন্য উন্মুক্ত থাকতে হবে। সত্যের প্রবাহপথের মালিক কেউ হতে পারে না। র‌্যাঙ্কিং, সারাংশ ও প্রবেশ-নিয়ন্ত্রণকারীদের তাদের কাজের ভিত্তি দেখাতে হবে; আর আপনাকে অন্য দৃষ্টিভঙ্গির তুলনা ও তথ্য বিভ্রান্ত করলে আপত্তি জানানোর সুযোগ দিতে হবে।*
 
-এই অনুচ্ছেদ [তথ্য-পরিসরের](../../core_05_band_participation.md#info-sphere) অখণ্ডতার জন্য [দুই সাংবিধানিক উদ্দেশ্যের](core_00_preamble.md#two-constitutional-aims) অধীনে **সাংবিধানিক ন্যূনতম সুরক্ষা** নির্ধারণ করে:
+এই অনুচ্ছেদ [তথ্য-পরিসরের](../../core_05.055_band_participation.md#info-sphere) অখণ্ডতার জন্য [দুই সাংবিধানিক উদ্দেশ্যের](core_00_preamble.md#two-constitutional-aims) অধীনে **সাংবিধানিক ন্যূনতম সুরক্ষা** নির্ধারণ করে:
 
 - **সমুন্নতি:** সংজ্ঞরা নির্ভুল ও প্রাসঙ্গিক তথ্যে প্রবেশ করতে, বিকল্প ব্যাখ্যার তুলনা করতে এবং জ্ঞানতাত্ত্বিক দখল, কৃত্রিম ঐকমত্য বা ব্যবস্থা সত্য বলে যা উপস্থাপন করে তার ওপর বিভ্রান্তিকর নির্ভরতা ছাড়া স্ব-নির্ধারণ করতে পারেন।
 - **সাতত্য:** সময় ও পরিসর জুড়ে তথ্য-পরিসর বহুত্ববাদী, নিরীক্ষাযোগ্য ও স্থিতিস্থাপক থাকে—জ্ঞান-অবকাঠামো নীরবে মধ্যস্থতার একক কেন্দ্রে জমা হতে, সংশোধন দমন করতে বা টিকে থাকা, সমন্বয় ও দীর্ঘমেয়াদি তত্ত্বাবধানের জন্য প্রয়োজনীয় ভাগ করা নথি ক্ষয় করতে পারে না।
@@ -747,13 +747,13 @@ flowchart TB
 
 নির্ভুল, প্রাসঙ্গিক ও আপত্তিযোগ্য তথ্য স্ব-নির্ধারণ, সমন্বয় এবং বাস্তব জগতে সম্পদের কার্যকর বণ্টনের ভিত্তি।
 
-[জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#epistemic-integrity) একই সঙ্গে অধিকার ও ব্যবস্থা-ব্যাপী সীমাবদ্ধতা হিসেবে কাজ করে। সংঘাত হলে এর সীমাবদ্ধতামূলক কাজ প্রযোজ্য।
+[জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#জঞনতততবক-সতত) একই সঙ্গে অধিকার ও ব্যবস্থা-ব্যাপী সীমাবদ্ধতা হিসেবে কাজ করে। সংঘাত হলে এর সীমাবদ্ধতামূলক কাজ প্রযোজ্য।
 
 *সংলগ্ন অনুচ্ছেদসমূহ:*
 
 - **একসঙ্গে পড়ুন:** ব্যবস্থা থেকে ফল নির্ভরতা গড়লে **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*); নথি ও স্বাধীন যাচাইয়ের জন্য **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*); প্রকাশনা-নির্দিষ্ট অখণ্ডতা বস্তুগতভাবে প্রাসঙ্গিক হলে **অনুচ্ছেদ XV-D** (*বৈজ্ঞানিক প্রকাশনা, পর্যালোচনা ও পুনরুৎপাদনের অখণ্ডতা*)।
-- **সত্যের সীমাবদ্ধতা:** অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) এবং [জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) এখানকার প্রতিটি উপ-অনুচ্ছেদকে বাধ্য করে।
-- **শ্রেণিবিন্যাস:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও ব্যবস্থাপনা** **শ্রেণি A**, **শ্রেণি B** ও **শ্রেণি C** ব্যবস্থার জন্য বিস্তারিত তথ্য-পরিসর-দায়বদ্ধতার মাত্রা নির্ধারণ করে; শ্রেণি অনির্ধারিত থাকলে [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact) শ্রেণিবিন্যাস শুরু করে।
+- **সত্যের সীমাবদ্ধতা:** অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) এবং [জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-জঞনতততবক-পরকশর-সমবদধত) এখানকার প্রতিটি উপ-অনুচ্ছেদকে বাধ্য করে।
+- **শ্রেণিবিন্যাস:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও ব্যবস্থাপনা** **শ্রেণি A**, **শ্রেণি B** ও **শ্রেণি C** ব্যবস্থার জন্য বিস্তারিত তথ্য-পরিসর-দায়বদ্ধতার মাত্রা নির্ধারণ করে; শ্রেণি অনির্ধারিত থাকলে [বস্তুগত প্রভাব](core_05_band_oversight.md#বসতগত-পরভব) শ্রেণিবিন্যাস শুরু করে।
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### অনুচ্ছেদ XV-A: তথ্য-পরিসরের বহুত্ব ও একচেটিয়াত্ব-বিরোধিতা
@@ -767,9 +767,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#সতয-সবধনক-বনধন) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#জঞনতততবক-সতত) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -789,23 +789,23 @@ flowchart TB
     - আপত্তিযোগ্যতা;
     - নিরাপত্তা, সুরক্ষা ও ব্যবস্থা-অখণ্ডতার অধীন র‌্যাঙ্কিংয়ের মানদণ্ড পাশ কাটানো বা সমন্বয় করার আনুপাতিক সক্ষমতা।
 - **শর্তাধীন নিষ্পত্তি-সংকেত:** শর্তাধীন অর্থপ্রদান বা ঘটনা-নিষ্পত্তি ব্যবস্থার দাম, সম্ভাবনা, পুলের আকার বা তুলনীয় ফল একা অধিকার, নিরাপত্তা বা শাসন-সংক্রান্ত সিদ্ধান্তে সত্য, সম্ভাবনা বা সম্মতি নির্ধারণের যথেষ্ট প্রমাণ হিসেবে গণ্য করা যাবে না।
-  - এ ধরনের সংকেত জনসাধারণের সিদ্ধান্ত বা [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact)-সম্পন্ন সিদ্ধান্তে ব্যবহৃত হলে **অধ্যায় এক §19.5** (*শর্তসাপেক্ষ দাবি, ভাগ্যনির্ভর খেলা ও ঘটনা-চুক্তির বাজার*), **অধ্যায় পাঁচ** (*সত্য (সাংবিধানিক সীমাবদ্ধতা)*; *জ্ঞানতাত্ত্বিক অখণ্ডতা*) এবং এই অনুচ্ছেদের অন্যত্র থাকা আপত্তিযোগ্যতার দায়বদ্ধতার অধীন থাকবে।
+  - এ ধরনের সংকেত জনসাধারণের সিদ্ধান্ত বা [বস্তুগত প্রভাব](core_05_band_oversight.md#বসতগত-পরভব)-সম্পন্ন সিদ্ধান্তে ব্যবহৃত হলে **অধ্যায় এক §19.5** (*শর্তসাপেক্ষ দাবি, ভাগ্যনির্ভর খেলা ও ঘটনা-চুক্তির বাজার*), **অধ্যায় পাঁচ** (*সত্য (সাংবিধানিক সীমাবদ্ধতা)*; *জ্ঞানতাত্ত্বিক অখণ্ডতা*) এবং এই অনুচ্ছেদের অন্যত্র থাকা আপত্তিযোগ্যতার দায়বদ্ধতার অধীন থাকবে।
 
 <a id="article-xv-b-transparency-auditability-and-contestability"></a>
 #### অনুচ্ছেদ XV-B: স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও আপত্তি জানানোর সুযোগ
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-জঞনতততবক-পরকশর-সমবদধত), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [স্বচ্ছতা](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [আপত্তি জানানোর সুযোগ](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [স্বচ্ছতা](core_05_band_oversight.md#সবচছত) · [O](core_05_band_oversight.md#সবচছত) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [আপত্তি জানানোর সুযোগ](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -817,7 +817,7 @@ flowchart TB
 
 - **প্রামাণিক অনুসন্ধান ও ব্যাখ্যাগত বৈচিত্র্য:** ভাগ করা তথ্যের বিকল্প ব্যাখ্যা তুলনা করার অধিকার সকল সংজ্ঞের আছে।
   - গুরুত্বপূর্ণ জ্ঞান-অবকাঠামোকে ব্যাখ্যাগত বৈচিত্র্য বজায় রাখতে হবে, যাতে একাধিক মডেল, কাঠামো ও বিশ্লেষণ-পদ্ধতি অর্থবহভাবে ব্যবহারযোগ্য থাকে।
-- **স্বচ্ছতা ও উৎস-ইতিহাস:** [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact)-সহ বিতরণ বা প্রাতিষ্ঠানিক নির্ভরতার আগে নিচের বিষয়গুলো নথিভুক্ত করতে হবে:
+- **স্বচ্ছতা ও উৎস-ইতিহাস:** [বস্তুগত প্রভাব](core_05_band_oversight.md#বসতগত-পরভব)-সহ বিতরণ বা প্রাতিষ্ঠানিক নির্ভরতার আগে নিচের বিষয়গুলো নথিভুক্ত করতে হবে:
   - বস্তুগত উৎস;
   - পদ্ধতি;
   - পরিসর;
@@ -834,16 +834,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-জঞনতততবক-পরকশর-সমবদধত), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [বাস্তুতান্ত্রিক পদচিহ্ন](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [M](../../core_05_band_continuity.md#ecological-footprint-a) · [A](../../core_05_band_continuity.md#ecological-footprint-a) · [C](../../core_05_band_continuity.md#ecological-footprint-c)
-- [স্বচ্ছতা](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [বাস্তুতান্ত্রিক পদচিহ্ন](../../core_05.040_band_continuity.md#ecological-footprint) · [O](../../core_05.040_band_continuity.md#ecological-footprint) · [M](../../core_05.040_band_continuity.md#ecological-footprint-a) · [A](../../core_05.040_band_continuity.md#ecological-footprint-a) · [C](../../core_05.040_band_continuity.md#ecological-footprint-c)
+- [স্বচ্ছতা](core_05_band_oversight.md#সবচছত) · [O](core_05_band_oversight.md#সবচছত) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#সতয-সবধনক-বনধন) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -859,7 +859,7 @@ flowchart TB
   - সিদ্ধান্ত-প্রাসঙ্গিক বোধশক্তি বস্তুগতভাবে ক্ষয় করে এমন নির্বাচিত প্রতিবেদন, দমন বা খণ্ডিত প্রকাশ এড়াতে হবে।
 
   **অধ্যায় এক §19** (*প্রণোদনার সামঞ্জস্য ও ব্যবস্থা দখল*)-এর অধীনে প্রকাশ সীমিত হলে, সীমাগুলো সংকীর্ণ পরিসর, সময়সীমা ও পর্যালোচনাযোগ্যতার মধ্যে থাকতে হবে।
-- **পদচিহ্ন-তথ্য:** এই উপ-অনুচ্ছেদের প্রতিবেদন **অধ্যায় পাঁচ**-এ সংজ্ঞায়িত [বাস্তুতান্ত্রিক পদচিহ্ন](../../core_05_band_continuity.md#ecological-footprint)-এর স্বচ্ছতা কার্যকর করে।
+- **পদচিহ্ন-তথ্য:** এই উপ-অনুচ্ছেদের প্রতিবেদন **অধ্যায় পাঁচ**-এ সংজ্ঞায়িত [বাস্তুতান্ত্রিক পদচিহ্ন](../../core_05.040_band_continuity.md#ecological-footprint)-এর স্বচ্ছতা কার্যকর করে।
   - সকল সংজ্ঞের স্বচ্ছ ও সিদ্ধান্তে ব্যবহারযোগ্য প্রতিবেদনে প্রবেশাধিকার থাকতে হবে।
   - **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও ব্যবস্থাপনা**-এ সংজ্ঞায়িত **শ্রেণি A**, **শ্রেণি B** ও **শ্রেণি C** ব্যবস্থাকেও একই প্রবেশাধিকার দিতে হবে।
   - তুলনা, নিরীক্ষা ও পদচিহ্ন-হ্রাসের কাজের জন্য যথেষ্টভাবে প্রতিবেদনে শক্তি ও সম্পদের ব্যবহার এবং প্রাকৃতিক জগতের ওপর আনুমানিক প্রভাব অন্তর্ভুক্ত করতে হবে।
@@ -869,16 +869,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সীমা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সীমা](core_01_b_interaction_interpretation.md#132-জঞনতততবক-পরকশর-সমবদধত), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [সত্য (সাংবিধানিক সীমা)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [সত্য (সাংবিধানিক সীমা)](core_05_band_oversight.md#সতয-সবধনক-বনধন) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#জঞনতততবক-সতত) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -906,7 +906,7 @@ flowchart TB
   - দীর্ঘমেয়াদি ব্যাখ্যামূলক বা পূর্বাভাসমূলক নির্ভরযোগ্যতা।
 
   তা সাময়িকীর ব্র্যান্ড, প্রভাব-সূচকের বিকল্প মাপকাঠি বা বন্ধ সম্পাদকীয় মর্যাদার ওপর নির্ভর করবে না।
-  - [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact)-যুক্ত নীতি-প্রাসঙ্গিক, নিরাপত্তা-প্রাসঙ্গিক বা নির্ভরতা-প্রাসঙ্গিক দাবির ক্ষেত্রে দীর্ঘমেয়াদি প্রাতিষ্ঠানিক স্বীকৃতির আগে স্বাধীন পুনরুৎপাদন, প্রতিপক্ষীয় পর্যালোচনা বা উভয়ের জোরালো পূর্বধারণা থাকা উচিত।
+  - [বস্তুগত প্রভাব](core_05_band_oversight.md#বসতগত-পরভব)-যুক্ত নীতি-প্রাসঙ্গিক, নিরাপত্তা-প্রাসঙ্গিক বা নির্ভরতা-প্রাসঙ্গিক দাবির ক্ষেত্রে দীর্ঘমেয়াদি প্রাতিষ্ঠানিক স্বীকৃতির আগে স্বাধীন পুনরুৎপাদন, প্রতিপক্ষীয় পর্যালোচনা বা উভয়ের জোরালো পূর্বধারণা থাকা উচিত।
   - পুনরুৎপাদন, নাল-ফল এবং সংশোধনমুখী কাজ এমন শর্তে প্রকাশযোগ্য ও উদ্ধৃতিযোগ্য থাকতে হবে, যা মর্যাদার সংকেতের ওপর নির্ভর করে না।
 - **সংশোধন ও আপত্তিযোগ্যতা:** সদিচ্ছাপূর্ণ সংশোধন, পরিমার্জন ও প্রতিস্থাপন গোপন করার চেয়ে সহজ থাকতে হবে।
   - প্রধান গ্রহণ, সংশোধন ও প্রত্যাহারের সিদ্ধান্তে পর্যালোচনা ও সম্পাদকীয় ব্যবস্থা আপত্তিযোগ্য, নিরীক্ষাযোগ্য, স্বার্থ-সংঘাত নিয়ন্ত্রিত এবং কারণ-প্রকাশকারী থাকতে হবে।
@@ -922,7 +922,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 বিতরণকৃত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), এবং [§9 ভাগ করা-ব্যবস্থা সক্ষমতা](core_01_a_values_principles.md#9-shared-system-capacity)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), [§16.1 বিতরণকৃত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#161-বণটত-বঝপড), এবং [§9 ভাগ করা-ব্যবস্থা সক্ষমতা](core_01_a_values_principles.md#৯-যথ-বযবসথর-সকষমত)।
 - সঙ্গে পড়ুন: নিচের [তিন-স্তরীয় নিরীক্ষা-চিত্র](#audit-three-layers)।
 
 </details>
@@ -930,17 +930,17 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [স্বচ্ছতা](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [বস্তুগততা নির্ধারণ](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [নির্ভরতা](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [ঝুঁকি](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [স্বচ্ছতা](core_05_band_oversight.md#সবচছত) · [O](core_05_band_oversight.md#সবচছত) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [বস্তুগততা নির্ধারণ](core_05_band_oversight.md#তৎপরয-নরণয) · [O](core_05_band_oversight.md#তৎপরয-নরণয) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [ঝুঁকি](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) নিরীক্ষা ও যাচাইয়ের অধিকার-তল—কোনো ব্যবস্থা আপনার জীবনকে বস্তুগতভাবে প্রভাবিত করলে, বাইরের কেউ যেন তা পরীক্ষা করতে পারে এমন পর্যাপ্ত অংশ আপনাকে দেখতে পেতে হবে; আর ব্যর্থতা পর্যালোচনা ও সংশোধনের জন্য একাধিক স্বাধীন পথ থাকতে হবে। নিরীক্ষা কেবল আনুষ্ঠানিক সিলমোহর, ব্যক্তিগত ক্লাব বা চ্যালেঞ্জ ঠেকানোর জন্য তৈরি ব্যয় ও বিলম্বের গোলকধাঁধা হতে পারে না। চতুষ্কের **তত্ত্বাবধান** ধাপে তত্ত্বাবধানে নিরীক্ষা দরকার; [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](../../core_05_band_continuity.md#system-alignment-certification-constitutional) বহু নিরীক্ষা-প্রক্রিয়ার একটি বিশেষভাবে বড় ও উচ্চ-ঝুঁকির প্রক্রিয়া—একমাত্রটি নয়।*
+*সহজ ভাষায়: **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) নিরীক্ষা ও যাচাইয়ের অধিকার-তল—কোনো ব্যবস্থা আপনার জীবনকে বস্তুগতভাবে প্রভাবিত করলে, বাইরের কেউ যেন তা পরীক্ষা করতে পারে এমন পর্যাপ্ত অংশ আপনাকে দেখতে পেতে হবে; আর ব্যর্থতা পর্যালোচনা ও সংশোধনের জন্য একাধিক স্বাধীন পথ থাকতে হবে। নিরীক্ষা কেবল আনুষ্ঠানিক সিলমোহর, ব্যক্তিগত ক্লাব বা চ্যালেঞ্জ ঠেকানোর জন্য তৈরি ব্যয় ও বিলম্বের গোলকধাঁধা হতে পারে না। চতুষ্কের **তত্ত্বাবধান** ধাপে তত্ত্বাবধানে নিরীক্ষা দরকার; [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) বহু নিরীক্ষা-প্রক্রিয়ার একটি বিশেষভাবে বড় ও উচ্চ-ঝুঁকির প্রক্রিয়া—একমাত্রটি নয়।*
 
 <details>
 <summary><strong><span style="color: #2563eb;">পাঠক-নির্দেশনা (অপারেটিভ নয়): তিন-স্তরীয় নিরীক্ষা-কাঠামো</span></strong></summary>
@@ -954,7 +954,7 @@ flowchart TB
 | স্তর | কাজ | দায়িত্ব | এই স্তর নয় |
 |---|---|---|---|
 | **1. অধিকার-তল** | সংজ্ঞদের প্রাপ্য: পুনর্গঠনযোগ্য নিরীক্ষা, স্বাধীন যাচাই, নাগালযোগ্য চ্যালেঞ্জ | এই অনুচ্ছেদ, যার মধ্যে XVI-A / XVI-B / XVI-C রয়েছে | প্রক্রিয়া নয়। সংজ্ঞা নয়। গৃহীত বাস্তবায়ন-পাঠের চেকলিস্ট নয়। |
-| **2. বৈশিষ্ট্য** | পুনর্গঠন-সক্ষমতা *কী*: বাইরের পক্ষ বস্তুগত সময়, অবস্থা ও প্রেক্ষাপটে ব্যবস্থা কী করেছে তা পুনর্গঠন ও পরীক্ষা করতে পারে | [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) (অধ্যায় পাঁচ) | অধিকার-তল নয়। কীভাবে/কখন নিরীক্ষা চালাতে হয়, তা নয়। |
+| **2. বৈশিষ্ট্য** | পুনর্গঠন-সক্ষমতা *কী*: বাইরের পক্ষ বস্তুগত সময়, অবস্থা ও প্রেক্ষাপটে ব্যবস্থা কী করেছে তা পুনর্গঠন ও পরীক্ষা করতে পারে | [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) (অধ্যায় পাঁচ) | অধিকার-তল নয়। কীভাবে/কখন নিরীক্ষা চালাতে হয়, তা নয়। |
 | **3. প্রক্রিয়া** | ব্যবস্থা, প্রতিষ্ঠান ও বিচার-মঞ্চ জুড়ে কখন ও কীভাবে নিরীক্ষা করতে হয় | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*নিরীক্ষা-প্রক্রিয়ার ভিত্তি*)। পরিচালন-পরিশিষ্ট: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (প্রবেশাধিকার-স্তর), [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (দাবি যাচাই) | ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন নয়। 1–2 স্তরের বিকল্প নয়। |
 
 **অধ্যায় আট চতুর্থ স্তর নয়।** [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) হলো বিচার-মঞ্চের তত্ত্বাবধানে চলা একটি বৃহৎ প্রক্রিয়া, যা এই কাঠামো **ব্যবহার করে**। একে 1–2 স্তর পূরণ করতে হবে। সংশ্লিষ্ট অন্যান্য পদ্ধতি (শ্রেণিবিন্যাস-নথি নিরীক্ষা, তথ্য-ধরন নথি নিরীক্ষা, দাবি যাচাই, ধারাবাহিক পর্যবেক্ষণ)ও এই কাঠামো ব্যবহার করে। এগুলোর কোনোটিই নতুন ভিত্তি নয়।
@@ -992,7 +992,7 @@ flowchart TB
 
 - **তত্ত্বাবধান → নিরীক্ষা → SAC:** [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-এর **তত্ত্বাবধান** ধাপে নিরীক্ষার অধিকার-তলের ভিত্তি এই অনুচ্ছেদ।
   - বাস্তবায়নজুড়ে *কীভাবে* / *কখন*—এর পদ্ধতি **[CJS-3.3 নিরীক্ষা-প্রক্রিয়ার ভিত্তি](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)**-তে (**CJS-3.4** / **CJS-3.5** OP পরিশিষ্টসহ পড়ুন)।
-  - [অধ্যায় আটের](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) অধীনে [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](../../core_05_band_continuity.md#system-alignment-certification-constitutional) সংশ্লিষ্ট নিরীক্ষা-পদ্ধতিগুলোর একটি বিশেষভাবে বড়, উচ্চ-ঝুঁকির, বিচার-মঞ্চ-তত্ত্বাবধানে চলা, বহু-ক্ষেত্রব্যাপী ও স্বীকৃতি-প্রদানকারী প্রক্রিয়া:
+  - [অধ্যায় আটের](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) অধীনে [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) সংশ্লিষ্ট নিরীক্ষা-পদ্ধতিগুলোর একটি বিশেষভাবে বড়, উচ্চ-ঝুঁকির, বিচার-মঞ্চ-তত্ত্বাবধানে চলা, বহু-ক্ষেত্রব্যাপী ও স্বীকৃতি-প্রদানকারী প্রক্রিয়া:
     - ব্যবস্থা-শ্রেণিবিন্যাস নথির নিরীক্ষা;
     - ব্যবস্থা-তথ্য-ধরন নথির নিরীক্ষা;
     - জটিলতা ও তত্ত্বাবধানের নিরীক্ষা;
@@ -1002,25 +1002,25 @@ flowchart TB
 - **একসঙ্গে পড়ুন:**
   - জ্ঞানতাত্ত্বিক নথি ও আপত্তিযোগ্যতা বস্তুগতভাবে প্রাসঙ্গিক হলে **অনুচ্ছেদ XV** (*তথ্য-পরিসরের অখণ্ডতা*);
   - নিরীক্ষা যে চ্যালেঞ্জের অধিকারকে সহায়তা করে কিন্তু প্রতিস্থাপন করে না, তার জন্য **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*);
-  - সামঞ্জস্যের প্রমাণ স্বাধীনভাবে যাচাইযোগ্য থাকার ক্ষেত্রে [অধ্যায় আট](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) এবং [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](../../core_05_band_continuity.md#system-alignment-certification-constitutional)।
+  - সামঞ্জস্যের প্রমাণ স্বাধীনভাবে যাচাইযোগ্য থাকার ক্ষেত্রে [অধ্যায় আট](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) এবং [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification)।
 - **যাচাই-ব্যবস্থা:** **অধ্যায় দুই থেকে চার** সংজ্ঞার অখণ্ডতা, দায়বণ্টন, পর্যবেক্ষণযোগ্যতা ও যাচাই-প্রবেশযোগ্যতা দেয়; এই অনুচ্ছেদ সেগুলো অধিকার-তল স্তরে কার্যকর করে।
-- **শ্রেণিবিন্যাস:** [শ্রেণিবিন্যাস-অনুপাতে শাসন](core_05_band_oversight.md#classification-scaled-governance) এবং **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও ব্যবস্থাপনা** অনুযায়ী দায়বদ্ধতার মাত্রা নির্ধারিত হয়; শ্রেণি অনিশ্চিত হলে নিষ্পত্তি না হওয়া পর্যন্ত সম্ভাব্য সর্বোচ্চ শ্রেণি অনুযায়ী শাসন করুন।
+- **শ্রেণিবিন্যাস:** [শ্রেণিবিন্যাস-অনুপাতে শাসন](core_05_band_oversight.md#শরণবনযস-সকল-কর-শসন) এবং **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও ব্যবস্থাপনা** অনুযায়ী দায়বদ্ধতার মাত্রা নির্ধারিত হয়; শ্রেণি অনিশ্চিত হলে নিষ্পত্তি না হওয়া পর্যন্ত সম্ভাব্য সর্বোচ্চ শ্রেণি অনুযায়ী শাসন করুন।
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### অনুচ্ছেদ XVI-A: নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-জঞনতততবক-পরকশর-সমবদধত), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [স্বচ্ছতা](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [স্বচ্ছতা](core_05_band_oversight.md#সবচছত) · [O](core_05_band_oversight.md#সবচছত) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -1038,7 +1038,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 
 </details>
 
@@ -1046,8 +1046,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
 - [তত্ত্বাবধান](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [আপত্তি জানানোর সুযোগ](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [ব্যবস্থা দখল](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
+- [আপত্তি জানানোর সুযোগ](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [ব্যবস্থা দখল](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1066,16 +1066,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 মূল বাণিজ্য-বিনিময় নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 মূল বাণিজ্য-বিনিময় নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [আপত্তি জানানোর সুযোগ](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত) · [O](core_05_band_oversight.md#নরকষযগযত) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [আপত্তি জানানোর সুযোগ](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1096,20 +1096,20 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 গভীরতায় তত্ত্বাবধান](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), এবং [§12 ব্যবস্থাগত মূল্যায়নের শর্ত](core_01_a_values_principles.md#12-systemic-evaluation-requirement)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), [§16 গভীরতায় তত্ত্বাবধান](core_01_c_stewardship_capacity_principles.md#16-তততববধনর-গভর-আলচন), এবং [§12 ব্যবস্থাগত মূল্যায়নের শর্ত](core_01_a_values_principles.md#12-পদধতগত-মলযযনর-আবশযকত)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [ঝুঁকি](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [বস্তুগততা](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [নির্ভরতা](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [প্রত্যাবর্তনযোগ্যতা](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [নিরাপত্তা (সাংবিধানিক সীমাবদ্ধতা)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [আপত্তি জানানোর সুযোগ](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [ঝুঁকি](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [বস্তুগততা](core_05_band_oversight.md#তৎপরয-নরণয) · [O](core_05_band_oversight.md#তৎপরয-নরণয) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [প্রত্যাবর্তনযোগ্যতা](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [নিরাপত্তা (সাংবিধানিক সীমাবদ্ধতা)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#জঞনতততবক-সতত) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [আপত্তি জানানোর সুযোগ](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1119,7 +1119,7 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 
 এই অনুচ্ছেদ [দুই সাংবিধানিক উদ্দেশ্যের](core_00_preamble.md#two-constitutional-aims) অধীনে ব্যবস্থার জীবনচক্র, পরিবেশ ও প্রত্যাবর্তনযোগ্যতার জন্য **সাংবিধানিক ন্যূনতম সুরক্ষা** নির্ধারণ করে:
 
-- **সমুন্নতি:** নকশা, পরীক্ষা, স্থাপন ও পরিবর্তনের প্রতিটি পর্যায়ে সংজ্ঞরা সুরক্ষিত থাকেন—প্রভাব ও নির্ভরতা বাড়লেও নিরাপত্তা, [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#epistemic-integrity) ও চ্যালেঞ্জের অধিকার বজায় থাকে; ক্ষতি নইলে স্থায়ী হয়ে গেলে ফিরিয়ে নেওয়া, নিয়ন্ত্রণ বা ক্ষতিপূরণমূলক পুনঃপ্রতিষ্ঠার ব্যবস্থা থাকে।
+- **সমুন্নতি:** নকশা, পরীক্ষা, স্থাপন ও পরিবর্তনের প্রতিটি পর্যায়ে সংজ্ঞরা সুরক্ষিত থাকেন—প্রভাব ও নির্ভরতা বাড়লেও নিরাপত্তা, [জ্ঞানতাত্ত্বিক অখণ্ডতা](core_05_band_oversight.md#জঞনতততবক-সতত) ও চ্যালেঞ্জের অধিকার বজায় থাকে; ক্ষতি নইলে স্থায়ী হয়ে গেলে ফিরিয়ে নেওয়া, নিয়ন্ত্রণ বা ক্ষতিপূরণমূলক পুনঃপ্রতিষ্ঠার ব্যবস্থা থাকে।
 - **সাতত্য:** সময় ও পরিসরে জীবনচক্রের শৃঙ্খলা বজায় থাকে—পরিবেশগুলো পৃথক থাকে, ধাপে উন্নীতকরণ নথিভুক্ত ও নিরীক্ষাযোগ্য থাকে, এবং ব্যবস্থা বদলানো কঠিন বা ভাগ করা অবকাঠামোতে গভীরভাবে যুক্ত হওয়ার সঙ্গে প্রত্যাবর্তনযোগ্যতা নীরবে হারিয়ে যায় না।
 
 বৈধ সাধনা [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) অনুসরণ করে এবং [বস্তুগত স্বার্থ](core_00_preamble.md#material-stake) অনুযায়ী মাত্রা পায়:
@@ -1146,15 +1146,15 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [শ্রেণিবিন্যাস-অনুপাতে শাসন](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [ঝুঁকি](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
+- [শ্রেণিবিন্যাস-অনুপাতে শাসন](core_05_band_oversight.md#শরণবনযস-সকল-কর-শসন) · [O](core_05_band_oversight.md#শরণবনযস-সকল-কর-শসন) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [ঝুঁকি](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
 - [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1174,16 +1174,16 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বাণিজ্য-বিনিময় নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বাণিজ্য-বিনিময় নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [প্রত্যাবর্তনযোগ্যতা](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [ঝুঁকি](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [প্রত্যাবর্তনযোগ্যতা](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [ঝুঁকি](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1213,15 +1213,15 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [শ্রেণিবিন্যাস-অনুপাতে শাসন](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [সত্য (সাংবিধানিক সীমাবদ্ধতা)](core_05_band_oversight.md#সতয-সবধনক-বনধন) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [শ্রেণিবিন্যাস-অনুপাতে শাসন](core_05_band_oversight.md#শরণবনযস-সকল-কর-শসন) · [O](core_05_band_oversight.md#শরণবনযস-সকল-কর-শসন) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [জবাবদিহি](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1243,7 +1243,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), এবং [§19 প্রণোদনা সামঞ্জস্য ও ব্যবস্থা-দখল](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§19 প্রণোদনা সামঞ্জস্য ও ব্যবস্থা-দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল)।
 
 </details>
 
@@ -1280,9 +1280,9 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [শ্রেণি-অনুপাতে শাসন](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [ঝুঁকি](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [শ্রেণি-অনুপাতে শাসন](core_05_band_oversight.md#শরণবনযস-সকল-কর-শসন) · [O](core_05_band_oversight.md#শরণবনযস-সকল-কর-শসন) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [ঝুঁকি](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [বস্তুগত প্রভাব](core_05_band_oversight.md#বসতগত-পরভব) · [O](core_05_band_oversight.md#বসতগত-পরভব) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1306,16 +1306,16 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§13.1 মূল সমঝোতা নীতিমালা](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§13.1 মূল সমঝোতা নীতিমালা](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [সম্মতি](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [M](../../core_05_band_participation.md#consent-constitutional-a) · [A](../../core_05_band_participation.md#consent-constitutional-a) · [C](../../core_05_band_participation.md#consent-constitutional-c)
-- [ঝুঁকি](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [প্রত্যাবর্তনযোগ্যতা](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [সম্মতি](../../core_05.055_band_participation.md#consent) · [O](../../core_05.055_band_participation.md#consent) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [ঝুঁকি](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [প্রত্যাবর্তনযোগ্যতা](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1341,16 +1341,16 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অষ্টম অধ্যায় §3 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [প্রথম অধ্যায় §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অষ্টম অধ্যায় §3 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [প্রথম অধ্যায় §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [শ্রেণি-অনুপাতে শাসন](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [নির্ভরতা](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [প্রত্যাবর্তনযোগ্যতা](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [শ্রেণি-অনুপাতে শাসন](core_05_band_oversight.md#শরণবনযস-সকল-কর-শসন) · [O](core_05_band_oversight.md#শরণবনযস-সকল-কর-শসন) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [প্রত্যাবর্তনযোগ্যতা](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1371,16 +1371,16 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · সম্মতি</span></strong></summary>
 
-- [উদ্ভাবনের পুরস্কার ও আবদ্ধতা-প্রতিরোধ](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [ব্যবস্থাগত লক-ইন](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
-- [আনুপাতিকতা](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [উদ্ভাবনের পুরস্কার ও আবদ্ধতা-প্রতিরোধ](core_05_band_integrative.md#উদভবন-পরসকর-ও-ঘরও-নরধ) · [O](core_05_band_integrative.md#উদভবন-পরসকর-ও-ঘরও-নরধ) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [ব্যবস্থাগত লক-ইন](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1396,10 +1396,10 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
   - **একচেটিয়া পর্যায়:** জনসমক্ষে প্রকাশের পর সর্বোচ্চ ১৫ বছর (`disclosure+15`) অধিকারধারী অন্যদের অনুমতি প্রত্যাখ্যান করতে পারেন।
   - **উন্মুক্ত-লাইসেন্স পর্যায়:** একচেটিয়া পর্যায় শেষে, প্রকাশের সর্বোচ্চ ৩০ বছর পর্যন্ত (`disclosure+30`), যে কেউ অধিকারধারীর অনুমতি ছাড়াই LEQU-ভিত্তিক ফি দিয়ে উদ্ভাবন ব্যবহার করতে পারবেন। অধিকারধারী ব্যবহার প্রত্যাখ্যান বা বিলম্বিত করতে পারবেন না, কিংবা ফি ছাড়া অতিরিক্ত শর্ত আরোপ করতে পারবেন না।
   - **মেয়াদ শেষে:** উদ্ভাবন সবার ব্যবহারের জন্য মুক্ত হবে। কৃতিত্ব ও উৎসের উল্লেখ বজায় থাকতে পারে।
-- **LEQU-ভিত্তিক ফি:** উন্মুক্ত-লাইসেন্সের ফি উদ্ভাবনের যাচাইকৃত সাংবিধানিক অবদানের সঙ্গে আনুপাতিক হবে; অবদান-অক্ষে [অবদান ও লঙ্ঘনের ঐক্যবদ্ধ আনুপাতিক LEQU মাপকাঠি](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) অনুসারে জীবনকাল-সমতুল্য একক (LEQU) দিয়ে তা মাপা হবে। উপকারের মূল্য ন্যায্য মজুরিতে সময় হিসেবে গণনা করে ফি নির্ধারণ করতে হবে:
+- **LEQU-ভিত্তিক ফি:** উন্মুক্ত-লাইসেন্সের ফি উদ্ভাবনের যাচাইকৃত সাংবিধানিক অবদানের সঙ্গে আনুপাতিক হবে; অবদান-অক্ষে [অবদান ও লঙ্ঘনের ঐক্যবদ্ধ আনুপাতিক LEQU মাপকাঠি](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) অনুসারে জীবনকাল-সমতুল্য একক (LEQU) দিয়ে তা মাপা হবে। উপকারের মূল্য ন্যায্য মজুরিতে সময় হিসেবে গণনা করে ফি নির্ধারণ করতে হবে:
   - উৎপাদনশীলতার লাভে, ব্যবহারকারীদের যত কাজের সময় সাশ্রয় হয় বা যত অতিরিক্ত উৎপাদনশীল সময় যোগ হয়, তা গণ্য হবে।
   - অন্য উপকারে, LEQU পরিমাপ থেকে নির্ধারিত জীবনকাল-সমতুল্য সময় গণ্য হবে।
-  - সেই সময়ের মূল্য [ন্যায্য পারিশ্রমিক](../../core_05_band_continuity.md#fair-compensation) পূরণকারী মজুরি-হারে নির্ধারিত হবে। উদ্ভাবন যাচাইযোগ্যভাবে উৎপাদনশীলতা বা কল্যাণ যত বাড়ায়, পুরস্কারও তত বাড়তে পারে।
+  - সেই সময়ের মূল্য [ন্যায্য পারিশ্রমিক](../../core_05.040_band_continuity.md#fair-compensation) পূরণকারী মজুরি-হারে নির্ধারিত হবে। উদ্ভাবন যাচাইযোগ্যভাবে উৎপাদনশীলতা বা কল্যাণ যত বাড়ায়, পুরস্কারও তত বাড়তে পারে।
 - **উপকারের অংশ এবং মোট পুরস্কার কমে না যাওয়ার সুরক্ষা:**
   - ফি যাচাইকৃত উপকারের অর্ধেকের বেশি হতে পারবে না; ব্যবহারকারীদের উপকারের একটি বাস্তব অংশ নিজেদের কাছে রাখতে হবে।
   - উদ্ভাবন থেকে প্রকৃত উপকার পাওয়া সত্তার সংখ্যা বাড়লে ফি-র অংশের হার কমবে। পরিসর গণনায় প্রকৃত উপকারভোগী sentient-দের ধরা হবে, লাইসেন্সধারীর সংখ্যা নয়।
@@ -1422,7 +1422,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
 - ঊর্ধ্বতন ভিত্তি: প্রথম অধ্যায়ের নীতিমালা §5 সত্য, §7 স্বাধীনতা ও §18 তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন।
-- সঙ্গে পড়ুন: কৃতিত্ব, প্রশিক্ষণ-তথ্য ও ক্ষতিপূরণের অধিকারের জন্য [অনুচ্ছেদ IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement); এবং সাধারণ নিয়ম ও অভিব্যক্তিমূলক/কার্যকর পরীক্ষার জন্য [অনুচ্ছেদ XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure)।
+- সঙ্গে পড়ুন: কৃতিত্ব, প্রশিক্ষণ-তথ্য ও ক্ষতিপূরণের অধিকারের জন্য [অনুচ্ছেদ IX-D](core_06_rights_part_b.md#অনচছদ-ix-d-সজনশল-কজ-পরশকষণ-তথযর-বযবহর-ও-সথনচযত-বরধত); এবং সাধারণ নিয়ম ও অভিব্যক্তিমূলক/কার্যকর পরীক্ষার জন্য [অনুচ্ছেদ XVIII-D](#অনচছদ-xviii-d-উদভবনর-পরসকর-পরকশ-ও-আবদধত-পরতরধ)।
 
 </details>
 
@@ -1446,7 +1446,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
 - ঊর্ধ্বতন ভিত্তি: প্রথম অধ্যায়ের নীতিমালা §4 নিরাপত্তা, §7 স্বাধীনতা, §18 তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন এবং §19 প্রণোদনার সামঞ্জস্য ও ব্যবস্থা দখল।
-- সঙ্গে পড়ুন: সাধারণ নিয়মের জন্য [অনুচ্ছেদ XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure); লক-ইনের ঝুঁকিতে [অনুচ্ছেদ XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule); এবং উদ্ভাবন মোতায়েন ব্যবস্থার অংশ হলে [অনুচ্ছেদ XVII](#article-xvii-system-lifecycle-environments-and-reversibility)।
+- সঙ্গে পড়ুন: সাধারণ নিয়মের জন্য [অনুচ্ছেদ XVIII-D](#অনচছদ-xviii-d-উদভবনর-পরসকর-পরকশ-ও-আবদধত-পরতরধ); লক-ইনের ঝুঁকিতে [অনুচ্ছেদ XXI-C](core_06_rights_part_d.md#অনচছদ-xxi-c-আটক-রখর-বরদধ-নযম); এবং উদ্ভাবন মোতায়েন ব্যবস্থার অংশ হলে [অনুচ্ছেদ XVII](#article-xvii-system-lifecycle-environments-and-reversibility)।
 
 </details>
 
@@ -1456,8 +1456,8 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 
 - **আগে প্রকাশ:** স্বাধীনভাবে বোঝা, নিরীক্ষা ও পরে পুনরুৎপাদনের জন্য যথেষ্ট জনসমক্ষে প্রকাশ আবশ্যক; কেবল অধ্যায় এক ও অনুচ্ছেদ XVII-A অনুযায়ী ন্যায়সঙ্গত অস্থায়ী সীমা চলবে। জনসমক্ষে প্রকাশ হলো বিবরণের প্রথম অগোপনীয় প্রকাশ। গোপন রাখা উদ্ভাবন এই অনুচ্ছেদে কোনো বর্জন-অধিকার পাবে না।
 - **দুই ধাপের মেয়াদ:** উভয় ধাপ জনসমক্ষে প্রকাশের দিন থেকে গণনা হবে। একচেটিয়া ধাপে অধিকারী সর্বোচ্চ `disclosure+15` বছর অনুমতি প্রত্যাখ্যান করতে পারেন। এরপর সর্বোচ্চ `disclosure+30` বছর পর্যন্ত যে কেউ LEQU-ভিত্তিক ফি দিয়ে অনুমতি ছাড়াই ব্যবহার করতে পারে; অধিকারী তা প্রত্যাখ্যান, বিলম্ব বা ফি-র অতিরিক্ত শর্ত দিতে পারেন না। মেয়াদ শেষে উদ্ভাবন সবার ব্যবহারের জন্য মুক্ত; কৃতিত্ব ও উৎস-তথ্য থাকতে পারে।
-- **LEQU-ভিত্তিক ফি:** অবদানের অক্ষে যাচাইকৃত সাংবিধানিক উপকারের অনুপাতে, [অধ্যায় দশ §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)-এর একীভূত আনুপাতিক LEQU স্কেলে মাপতে হবে।
-  - ন্যায্য মজুরিতে সংবেদনশীল সত্তাদের সময়ের মূল্য ধরে উপকারকে ফিতে রূপান্তর করা হবে। উৎপাদনশীলতায় ব্যবহারকারীদের সাশ্রয় হওয়া কর্মসময় বা যোগ হওয়া উৎপাদনসময়; অন্য উপকারে LEQU-র জীবনকাল-সমতুল্য সময় গণ্য হবে। মজুরি [ন্যায্য পারিশ্রমিক](../../core_05_band_continuity.md#fair-compensation) মেনে চলবে। যাচাইকৃত উৎপাদনশীলতা বা কল্যাণ যত বাড়বে, পুরস্কারও তত বাড়বে।
+- **LEQU-ভিত্তিক ফি:** অবদানের অক্ষে যাচাইকৃত সাংবিধানিক উপকারের অনুপাতে, [অধ্যায় দশ §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)-এর একীভূত আনুপাতিক LEQU স্কেলে মাপতে হবে।
+  - ন্যায্য মজুরিতে সংবেদনশীল সত্তাদের সময়ের মূল্য ধরে উপকারকে ফিতে রূপান্তর করা হবে। উৎপাদনশীলতায় ব্যবহারকারীদের সাশ্রয় হওয়া কর্মসময় বা যোগ হওয়া উৎপাদনসময়; অন্য উপকারে LEQU-র জীবনকাল-সমতুল্য সময় গণ্য হবে। মজুরি [ন্যায্য পারিশ্রমিক](../../core_05.040_band_continuity.md#fair-compensation) মেনে চলবে। যাচাইকৃত উৎপাদনশীলতা বা কল্যাণ যত বাড়বে, পুরস্কারও তত বাড়বে।
   - ফি যাচাইকৃত উপকারের অর্ধেকের বেশি হতে পারবে না। প্রকৃত উপকারভোগী সত্তার সংখ্যা বাড়লে ভাগ কমবে (লাইসেন্সধারীর সংখ্যা নয়), তবে ব্যবহার বাড়লে মোট পুরস্কার কমে যাবে এমনভাবে নয়। ফি নিলে ভাগ অন্তত ১%; তবে এই অনুচ্ছেদ বা গ্রহণ-দলিল পুরস্কার, যৌথ প্রবেশাধিকার, সরকারি ক্রয় বা উন্মুক্ত প্রবেশাধিকার দিলে এই ন্যূনতম ফি বাধ্যতামূলক নয়।
   - বাজার-ক্ষমতা, দুর্লভতা, বদলানোর খরচ বা ব্যবহারকারীকে চাপ দিয়ে আদায়যোগ্য অর্থের ভিত্তিতে ফি নির্ধারণ করা যাবে না। সময় ও মজুরির হিসাবসহ ফি-তালিকা প্রকাশ করতে হবে, তুলনীয় ক্ষেত্রে একইভাবে প্রয়োগ করতে হবে এবং চ্যালেঞ্জের সুযোগ রাখতে হবে। এটি নিচের সর্বদা-উন্মুক্ত ব্যবহারকে নাগালের বাইরে রাখতে পারবে না। এগুলো সর্বোচ্চ সীমা; প্রতিটি দাবি আনুপাতিক হবে এবং মেয়াদ কম হতে পারে।
 - **সর্বদা-উন্মুক্ত ব্যবহার:** উভয় ধাপে কঠোরভাবে প্রয়োজনীয় ও পর্যালোচনাযোগ্য সীমা ছাড়িয়ে মেরামত, নিরাপত্তা, আন্তঃকার্যক্ষমতা, সংরক্ষণ, গবেষণা, শিক্ষা বা স্থানান্তর দমন করলে দাবি অসঙ্গত।

@@ -6,9 +6,9 @@
 
 > खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
 >
-> ही फाइल [इंग्रजी अध्याय पाच, एकात्मक पट्टी](../../core_05_band_integrative.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_05_band_integrative.md`](../../core_05_band_integrative.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
+> ही फाइल [इंग्रजी अध्याय पाच, एकात्मक पट्टी](../../core_05.045_band_integrative.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_05_band_integrative.md`](../../core_05.045_band_integrative.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
-> यात **अध्याय पाच एकात्मक पट्टी** आहे — **एकात्मक** संवैधानिक पट्ट्याला नेमलेल्या स्वतंत्र पदे, अर्ध-स्वतंत्र पदे आणि आश्रित-समूह व्याख्या. वाचन क्रम आणि दिशा-सूचक [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions) मध्ये राहतात.
+> यात **अध्याय पाच एकात्मक पट्टी** आहे — **एकात्मक** संवैधानिक पट्ट्याला नेमलेल्या स्वतंत्र पदे, अर्ध-स्वतंत्र पदे आणि आश्रित-समूह व्याख्या. वाचन क्रम आणि दिशा-सूचक [core_05__definitions_home.md](core_05__definitions_home.md#अधयय-पच-पयभत-वयखय) मध्ये राहतात.
 >
 > **मागील (या भाषेत):** [core_05_band_continuity.md](core_05_band_continuity.md)
 >
@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims).
+- वरून: [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims).
 - पुढे: अध्याय पाचसाठी एकात्मक-पट्टी प्रामाणिक व्याख्या घर.
 - सोबत वाचा: **एकात्मक** पट्टी व्याख्या; प्रवेश व्याप्ती लागू असेल तिथे अनिवार्य समूह सोबत-वाचा.
 
@@ -35,7 +35,7 @@
 - संवैधानिक करार स्तर;
 - पायाभूत प्राधिकरण पदे; आणि
 - बक्षीस मार्ग, प्रतिनिधी सचोटी आणि आकस्मिक समझोता आर-पार प्रोत्साहन संरेखन.
-**भौतिकता** / [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) एकात्मक आहे (आडवे उंबरठा-द्वार). पान घर सध्या देखरेख पट्टी फाइलमध्ये राहतात, नंतरच्या कोणत्याही स्थलांतराची वाट पाहत. प्रामाणिक **शासन-स्तर शिस्त** ([संवैधानिक करार स्तर](core_05_band_integrative.md#constitutional-contract-layer) विरुद्ध **प्रभावित पक्षांचा प्रणालीगत सहभाग**): [प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers).
+**भौतिकता** / [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) एकात्मक आहे (आडवे उंबरठा-द्वार). पान घर सध्या देखरेख पट्टी फाइलमध्ये राहतात, नंतरच्या कोणत्याही स्थलांतराची वाट पाहत. प्रामाणिक **शासन-स्तर शिस्त** ([संवैधानिक करार स्तर](core_05_band_integrative.md#सवधनक-करर-सतर) विरुद्ध **प्रभावित पक्षांचा प्रणालीगत सहभाग**): [प्रस्तावना §3.3](core_00_preamble.md#33-शसन-सतर).
 | समूह | विभाग |
 |---|---|
 | **Def.I1** | संग्रह आणि प्राधिकार ढेर |
@@ -52,8 +52,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [अध्याय दोन §1 — उद्दिष्ट आणि भूमिका](core_02_definition_structure.md#1-purpose-and-role); [अध्याय दोन §2 व्याख्या-सचोटी अपेक्षा](core_02_definition_structure.md#2-definition-integrity-requirement); [अध्याय तीन §2 — प्रेक्षणीय प्रणाली वर्तनातून अनुपालन-भंग](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior).
-- पुढे: [अध्याय चार §§1 आणि 4 — एकमेव अंमलबजावणी आणि भार वाटप; अनुपालन पुरावा मानक](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model); [अनुपालन-भंग निष्कर्ष प्रोफाइल](core_05_band_accountability.md#non-compliance-finding-profile).
+- वरून: [अध्याय दोन §1 — उद्दिष्ट आणि भूमिका](core_02_definition_structure.md#1-उददषट-आण-भमक); [अध्याय दोन §2 व्याख्या-सचोटी अपेक्षा](core_02_definition_structure.md#2-वयखय-सचट-अपकष); [अध्याय तीन §2 — प्रेक्षणीय प्रणाली वर्तनातून अनुपालन-भंग](core_03_definition_integrity.md#2-परकषणय-परणल-वरतनतन-अनपलन-भग).
+- पुढे: [अध्याय चार §§1 आणि 4 — एकमेव अंमलबजावणी आणि भार वाटप; अनुपालन पुरावा मानक](core_04_burden_traceability_verification.md#1-एकमव-अमलबजवण-आण-भर-वटप); [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अनुपालन-भंग निष्कर्ष प्रोफाइल](core_05_band_accountability.md#non-compliance-finding-profile).
 - सोबत वाचा: [अध्याय एक §11.3 विसंरेखन पकडणे](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) आणि [§11.4 विसंरेखन सुधार आणि ताबा प्रतिक्रिया](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) — **संवैधानिक विसंरेखन** उत्तरदायी व्यवस्थापन आणि प्रोत्साहन विचलन आहे; ते **अनुपालन-भंग** साठी पर्यायी लेबल नाही; [अवशिष्ट धोका / विसंरेखन](core_05_band_continuity.md#residual-risk--misalignment) — शमनानंतरचा सीमाबद्ध अवशिष्ट धोका; [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) — अध्याय साततील प्रमाणन पूल, सामान्य अनुपालन-भंग निकाल नाही.
 
 </details>
@@ -68,7 +68,7 @@
     - त्याच कार्यात्मक प्रणाली व्याप्तीवर; आणि
     - त्याच मूल्यमापन अटींखाली.
 
-    जी टाळाटाळ वर्तन व्याख्येचा पूर्ण अर्थ, मूल्यमापन, किंवा खऱ्या-जगातील अपेक्षा आकुंचित करते, ते [अध्याय तीन](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) खाली अनुपालन-भंग मोजते. एका पान-व्याख्येबाहेरील संवैधानिक कर्तव्यांना तीच शिस्त लागू होते जिथे अध्याय दोन ते चार अर्थनिर्णय, पुरावा आणि माग-काढता येणे शासित करतात.
+    जी टाळाटाळ वर्तन व्याख्येचा पूर्ण अर्थ, मूल्यमापन, किंवा खऱ्या-जगातील अपेक्षा आकुंचित करते, ते [अध्याय तीन](core_03_definition_integrity.md#अधयय-तन-वयखय-सचट-टळटळ-आण-अनपलन-भग) खाली अनुपालन-भंग मोजते. एका पान-व्याख्येबाहेरील संवैधानिक कर्तव्यांना तीच शिस्त लागू होते जिथे अध्याय दोन ते चार अर्थनिर्णय, पुरावा आणि माग-काढता येणे शासित करतात.
   - **व्याप्तीबाहेर:**
     - उत्तरदायी व्यवस्थापन आणि प्रोत्साहन स्तरावरील **संवैधानिक विसंरेखन** (अध्याय एक §11);
     - शमनानंतरची सीमाबद्ध धोका-अवस्था म्हणून [अवशिष्ट धोका / विसंरेखन](core_05_band_continuity.md#residual-risk--misalignment);
@@ -76,21 +76,21 @@
     - अध्याय आठ उल्लंघन-अक्ष स्लॉट लेबले (ती सत्यापित निष्कर्ष वर्गीकृत करतात आणि व्याख्या पूर्ण झाली का ते पुन्हा व्याख्या करत नाहीत).
 <a id="non-compliance-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
-  - **प्राथमिक माप:** एकात्मक भौतिकता — [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) [भौतिक दाव](core_00_preamble.md#material-stake) खाली कर्तव्य तीव्रता प्रमाणित करते; वेगळा मापन वर्ग नाही.
+  - **प्राथमिक माप:** एकात्मक भौतिकता — [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) [भौतिक दाव](core_00_preamble.md#material-stake) खाली कर्तव्य तीव्रता प्रमाणित करते; वेगळा मापन वर्ग नाही.
 
     **प्राथमिक मूल्यमापन:** यावरून ठरवा:
     - प्रेक्षणीय वर्तन;
     - निकाल; आणि
     - पूर्ण कार्यात्मक प्रणाली अटींखाली त्यांचा माग काढणारी मापे.
 
-    सर्व O, M, A आणि C भाग संयुक्त लागू करा. नावे, कागदपत्र रचना, घोषित हेतू, किंवा औपचारिक वर्ग ठरवत नाहीत. वर्तन किंवा टाळाटाळ अनुपालन-भंग मोजते का ठरवताना [अध्याय तीन §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) आणि [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) लागू करा.
+    सर्व O, M, A आणि C भाग संयुक्त लागू करा. नावे, कागदपत्र रचना, घोषित हेतू, किंवा औपचारिक वर्ग ठरवत नाहीत. वर्तन किंवा टाळाटाळ अनुपालन-भंग मोजते का ठरवताना [अध्याय तीन §1](core_03_definition_integrity.md#1-वयखय-सचट-आण-टळटळ-नरध-बधन) आणि [§2](core_03_definition_integrity.md#2-परकषणय-परणल-वरतनतन-अनपलन-भग) लागू करा.
 <a id="non-compliance-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:** प्रणाली, कर्ता, किंवा व्याख्या अनुपालक मानणे जेव्हा:
     - कोणताही हवा O, M, A, किंवा C भाग अपयशी होतो;
     - टाळाटाळ व्याख्या आकुंचित करते; किंवा
     - घोषित रचना किंवा हेतूला प्रेक्षणीय वर्तन आणि परिणामांपेक्षा प्राधान्य दिले जाते.
-  - **दुय्यम अपयश:** [अध्याय चार](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) प्रमाण भार किंवा पुरावा पर्याप्तता पूर्ण होत नसेल तिथे अनुपालक स्थिती पूर्वनिर्धारित करणे.
+  - **दुय्यम अपयश:** [अध्याय चार](core_04_burden_traceability_verification.md#1-एकमव-अमलबजवण-आण-भर-वटप) प्रमाण भार किंवा पुरावा पर्याप्तता पूर्ण होत नसेल तिथे अनुपालक स्थिती पूर्वनिर्धारित करणे.
 
 ---
 
@@ -101,10 +101,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: तत्त्वे: [प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-governance-layers); [अध्याय एक §5 स्वातंत्र्य](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- मालक तळ: [अध्याय बारा: संवैधानिक करार, वैधता, प्राधिकरण आणि उत्तरदायी व्यवस्थापन](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [अनुच्छेद X-C: शासन सहभाग आणि मतदान हक्क](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
-- समूह घटक: [*संवैधानिक करार स्तर आणि पायाभूत संवैधानिक निवड*](core_05_band_integrative.md#constitutional-contract-layer)
-- सोबत वाचा: [पायाभूत संवैधानिक निवड](core_05_band_integrative.md#foundational-constitutional-choice), [प्रभावित पक्षांची बंधनकारक निवड](core_05_band_participation.md#binding-stakeholder-choice-cluster), [प्रभावित पक्ष स्थिती आणि भार](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [शासन](core_05_band_accountability.md#governance).
+- पुढे: तत्त्वे: [प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-शसन-सतर); [अध्याय एक §5 स्वातंत्र्य](core_01_a_values_principles.md#5-freedom-bounded-agency).
+- मालक तळ: [अध्याय बारा: संवैधानिक करार, वैधता, प्राधिकरण आणि उत्तरदायी व्यवस्थापन](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [अनुच्छेद X-C: शासन सहभाग आणि मतदान हक्क](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- समूह घटक: [*संवैधानिक करार स्तर आणि पायाभूत संवैधानिक निवड*](core_05_band_integrative.md#सवधनक-करर-सतर)
+- सोबत वाचा: [पायाभूत संवैधानिक निवड](core_05_band_integrative.md#पयभत-सवधनक-नवड), [प्रभावित पक्षांची बंधनकारक निवड](core_05_band_participation.md#binding-stakeholder-choice-cluster), [प्रभावित पक्ष स्थिती आणि भार](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [शासन](core_05_band_accountability.md#governance).
 - स्तर: **संवैधानिक करार स्तर (CCL)** — कोण शासन करू शकतो, कोणत्या वैधता यंत्रणेने, कोणत्या टिकाऊ अटींवर. **प्रभावित पक्षांचा प्रणालीगत सहभाग (SSP)** पेक्षा वेगळे.
 
 </details>
@@ -120,33 +120,33 @@
     - कोणत्या व्याप्ती आणि टिकाऊ अटींखाली.
 
     त्यात हे आहे:
-    - [पायाभूत संवैधानिक निवड](core_05_band_integrative.md#foundational-constitutional-choice);
-    - [दस्तऐवजीकृत वैधता यंत्रणा](../../core_14_governance.md#1-authorization-and-legitimacy-of-governing-authority) [अध्याय बारा §1.1](../../core_14_governance.md#11-mechanism-families-auditability-and-pluralism) खाली;
-    - [अंगीकरण](../../core_17_amendment_ratification.md#10-ratification-and-adoption) आणि [पुनर्प्राधिकरण](../../core_14_governance.md#11-mechanism-families-auditability-and-pluralism) नियम ([अध्याय बारा §1.3](../../core_14_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [अध्याय सोळा §4](../../core_18_incorporation.md#4-adoption-framing-and-scope-of-authority)); आणि
-    - शासन प्राधिकार घटित करण्यासाठी किंवा टिकाऊ रीतीने पुनर्रचित करण्यासाठी [राजकीय-समानता तळ](../../core_14_governance.md#41-entitlement-and-eligibility) — हक्कधारक संज्ञ प्राण्यांना त्या स्तरावर समान आवाज ([अनुच्छेद X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
+    - [पायाभूत संवैधानिक निवड](core_05_band_integrative.md#पयभत-सवधनक-नवड);
+    - [दस्तऐवजीकृत वैधता यंत्रणा](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) [अध्याय बारा §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) खाली;
+    - [अंगीकरण](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) आणि [पुनर्प्राधिकरण](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) नियम ([अध्याय बारा §1.3](../../core_14.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [अध्याय सोळा §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); आणि
+    - शासन प्राधिकार घटित करण्यासाठी किंवा टिकाऊ रीतीने पुनर्रचित करण्यासाठी [राजकीय-समानता तळ](../../core_14.000_governance.md#41-entitlement-and-eligibility) — हक्कधारक संज्ञ प्राण्यांना त्या स्तरावर समान आवाज ([अनुच्छेद X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **व्याप्तीबाहेर:**
     - प्रभावित पक्षांची सामान्य सल्लामसलत;
     - संक्रियात्मक सहभाग;
     - प्रणाली वापर, ब्रँडिंग, किंवा बाजार उपस्थिती म्हणून;
     - संरचना आणि प्रक्रिया आधीच अधिकृत झाल्यानंतरचे सामान्य क्षेत्र शासन; आणि
-    - सामान्य [प्रभावित पक्ष भार](core_05_band_participation.md#stakeholder-weight) — ज्यांना अधिक परिणाम होतो त्यांना अधिक आवाज देणे — स्थापना किंवा पुनर्प्राधिकरण मते ठरवण्यासाठी वापरलेले ([प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-governance-layers)).
-  - **संक्रियात्मक घर:** [अध्याय बारा](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) या स्तरासाठी बंधनकारक प्राधिकरण, वैधता आणि उत्तरदायी-व्यवस्थापन नियम सांगतो.
-  - **अधिकार-तळ:** [अनुच्छेद X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*शासन सहभाग आणि मतदान हक्क*) समान-सहभाग हक्क सांगतो जो त्या अध्याय-बारा नियमांनी आकुंचित करू नये.
+    - सामान्य [प्रभावित पक्ष भार](core_05_band_participation.md#stakeholder-weight) — ज्यांना अधिक परिणाम होतो त्यांना अधिक आवाज देणे — स्थापना किंवा पुनर्प्राधिकरण मते ठरवण्यासाठी वापरलेले ([प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-शसन-सतर)).
+  - **संक्रियात्मक घर:** [अध्याय बारा](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) या स्तरासाठी बंधनकारक प्राधिकरण, वैधता आणि उत्तरदायी-व्यवस्थापन नियम सांगतो.
+  - **अधिकार-तळ:** [अनुच्छेद X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*शासन सहभाग आणि मतदान हक्क*) समान-सहभाग हक्क सांगतो जो त्या अध्याय-बारा नियमांनी आकुंचित करू नये.
 <a id="constitutional-contract-layer-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [उत्तरदायित्व मापन कुटुंब](core_05_apex_accountability_leg.md#accountability-measurement-family) — *बक्षीस रचना, बाजार शक्ती आणि उत्तर देण्याची जबाबदारी कर्तव्ये खरी ठेवतात का?* येथे विचारा की दावा केलेली शासन शक्ती खऱ्या संवैधानिक करारावर उभी आहे का — दस्तऐवजीकृत वैधता, समान स्थापना आवाज, आणि या संज्ञ संविधानाशी संरेखित राहणाऱ्या टिकाऊ अटी — फक्त आकार, लोकप्रियता, किंवा बाजार पोहोच नाही.
 
     **प्राथमिक मूल्यमापन:**
     - विचारा की हा मुद्दा संवैधानिक करार स्तराचा प्रश्न आहे का: कोण शासित करतो याचे प्राधिकरण, कोणत्या वैधता यंत्रणेने, आणि कोणत्या टिकाऊ अटींवर. ती कार्ये हा स्तर चिन्हांकित करतात — प्रणाली किती मोठी, गोंगाट करणारी, किंवा व्यापक वापरली जाते हे नाही.
-    - त्या कराराचे संवैधानिक संरेखन तपासा: दावा केलेला प्राधिकार [दस्तऐवजीकृत वैधता यंत्रणा](../../core_14_governance.md#1-authorization-and-legitimacy-of-governing-authority) शी जुळायला हवा, पायाभूत निवड लागू असेल तिथे [राजकीय-समानता तळ](../../core_14_governance.md#41-entitlement-and-eligibility), आणि उत्तरदायी व्यवस्थापन व अधिकार-तळ कर्तव्ये जी शासन शक्ती या संज्ञ संविधानाखाली उत्तर देणारी ठेवतात ([अध्याय एक §11.1 संरेखन अपेक्षा](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
-    - [प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-governance-layers) लागू करा: स्थापना प्राधिकरण आधीच अधिकृत प्रणालींतील सामान्य प्रभावित-पक्ष सहभागापासून वेगळे ठेवा.
+    - त्या कराराचे संवैधानिक संरेखन तपासा: दावा केलेला प्राधिकार [दस्तऐवजीकृत वैधता यंत्रणा](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) शी जुळायला हवा, पायाभूत निवड लागू असेल तिथे [राजकीय-समानता तळ](../../core_14.000_governance.md#41-entitlement-and-eligibility), आणि उत्तरदायी व्यवस्थापन व अधिकार-तळ कर्तव्ये जी शासन शक्ती या संज्ञ संविधानाखाली उत्तर देणारी ठेवतात ([अध्याय एक §11.1 संरेखन अपेक्षा](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
+    - [प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-शसन-सतर) लागू करा: स्थापना प्राधिकरण आधीच अधिकृत प्रणालींतील सामान्य प्रभावित-पक्ष सहभागापासून वेगळे ठेवा.
     - शांतता, प्रणालीचा केवळ वापर, बाजार उपस्थिती, किंवा ब्रँडिंगला संवैधानिक करार किंवा शासित होण्याची संमती मानू नका.
 <a id="constitutional-contract-layer-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
     - प्रभावित-पक्ष सल्लामसलत, संक्रियात्मक सहभाग, प्रणाली वापर, ब्रँडिंग, बाजार उपस्थिती, किंवा प्रभाव-भारित प्रभावित-पक्ष प्रक्रिया दस्तऐवजीकृत संवैधानिक प्राधिकरणाचा पर्याय मानणे;
-    - [पायाभूत संवैधानिक निवड](core_05_band_integrative.md#foundational-constitutional-choice) राजकीय-समानता तळ मागते तिथे शासन प्राधिकार घटित किंवा टिकाऊ रीतीने पुनर्रचित करण्यासाठी प्रभाव-भारित प्रभावित-पक्ष मतदान वापरणे; किंवा
-    - संवैधानिक प्राधिकरण आधीच अधिकृत प्रणाली किंवा सीमाबद्ध निर्णय क्षेत्रांत प्रभावित-पक्ष सहभाग, प्रतिनिधित्व, [आव्हानयोग्यता](core_05_band_accountability.md#contestability), किंवा [योग्य प्रक्रिया](core_05_band_accountability.md#due-process-constitutional) कर्तव्ये पुसतो असे मानणे ([प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers)).
+    - [पायाभूत संवैधानिक निवड](core_05_band_integrative.md#पयभत-सवधनक-नवड) राजकीय-समानता तळ मागते तिथे शासन प्राधिकार घटित किंवा टिकाऊ रीतीने पुनर्रचित करण्यासाठी प्रभाव-भारित प्रभावित-पक्ष मतदान वापरणे; किंवा
+    - संवैधानिक प्राधिकरण आधीच अधिकृत प्रणाली किंवा सीमाबद्ध निर्णय क्षेत्रांत प्रभावित-पक्ष सहभाग, प्रतिनिधित्व, [आव्हानयोग्यता](core_05_band_accountability.md#contestability), किंवा [योग्य प्रक्रिया](core_05_band_accountability.md#due-process-constitutional) कर्तव्ये पुसतो असे मानणे ([प्रस्तावना §3.3](core_00_preamble.md#33-शसन-सतर)).
 
 ---
 
@@ -158,9 +158,9 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पुढे: तत्त्वे: [अध्याय एक §5 स्वातंत्र्य](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. प्रक्रिया संघर्ष निराकरण](#6-process-conflict-resolution).
-- मालक तळ: [अध्याय बारा अध्याय एक §4.1](../../core_14_governance.md#41-entitlement-and-eligibility) (*पायाभूत संवैधानिक निवडीसाठी राजकीय-समानता तळ*; *टिकाऊ राजकीय-आवाज तळ*); [अनुच्छेद X-C: शासन सहभाग आणि मतदान हक्क](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
-- समूह घटक: [*संवैधानिक करार स्तर आणि पायाभूत संवैधानिक निवड*](core_05_band_integrative.md#constitutional-contract-layer)
-- सोबत वाचा: [संवैधानिक करार स्तर](core_05_band_integrative.md#constitutional-contract-layer), [प्रभावित पक्ष प्रतिनिधित्व आणि भार मर्यादा (प्रभावित पक्षांची बंधनकारक निवड)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [प्रभावित पक्षांची बंधनकारक निवड](core_05_band_participation.md#binding-stakeholder-choice-cluster), [प्रक्रियात्मक न्याय्यपणा](core_05_band_participation.md#procedural-fairness-constitutional).
+- मालक तळ: [अध्याय बारा अध्याय एक §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*पायाभूत संवैधानिक निवडीसाठी राजकीय-समानता तळ*; *टिकाऊ राजकीय-आवाज तळ*); [अनुच्छेद X-C: शासन सहभाग आणि मतदान हक्क](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- समूह घटक: [*संवैधानिक करार स्तर आणि पायाभूत संवैधानिक निवड*](core_05_band_integrative.md#सवधनक-करर-सतर)
+- सोबत वाचा: [संवैधानिक करार स्तर](core_05_band_integrative.md#सवधनक-करर-सतर), [प्रभावित पक्ष प्रतिनिधित्व आणि भार मर्यादा (प्रभावित पक्षांची बंधनकारक निवड)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [प्रभावित पक्षांची बंधनकारक निवड](core_05_band_participation.md#binding-stakeholder-choice-cluster), [प्रक्रियात्मक न्याय्यपणा](core_05_band_participation.md#procedural-fairness-constitutional).
 - स्तर: **संवैधानिक करार स्तर (CCL)**. आधीच अधिकृत प्रणालींतील **प्रभावित पक्षांचा प्रणालीगत सहभाग (SSP)** पेक्षा वेगळे.
 
 </details>
@@ -175,9 +175,9 @@
     - कोणती शासन यंत्रणा लागू होते; आणि
     - त्या प्राधिकाराची व्याप्ती आणि टिकाऊ अटी.
 
-    हे [संवैधानिक करार स्तर](core_05_band_integrative.md#constitutional-contract-layer) चे आहे.
-    - मालक: [अध्याय बारा अध्याय एक §4.1](../../core_14_governance.md#41-entitlement-and-eligibility).
-    - अधिकार-स्तर निर्देशक: [अनुच्छेद X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*शासन सहभाग आणि मतदान हक्क*).
+    हे [संवैधानिक करार स्तर](core_05_band_integrative.md#सवधनक-करर-सतर) चे आहे.
+    - मालक: [अध्याय बारा अध्याय एक §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).
+    - अधिकार-स्तर निर्देशक: [अनुच्छेद X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*शासन सहभाग आणि मतदान हक्क*).
     - [संज्ञता-अवर्जन](core_05_band_participation.md#sentience-non-exclusion) खाली लागू.
   - **व्याप्तीबाहेर:**
     - क्षेत्रात आधीच अधिकृत शासन संरचना आणि प्रक्रिया असतील तेव्हा सामान्य प्रभाव-भारित प्रभावित-पक्ष निर्णय — प्रभावित संज्ञ प्राण्यांना [प्रभावित पक्ष](core_05_band_participation.md#stakeholder) ओळख आणि [प्रभावित पक्ष भार](core_05_band_participation.md#stakeholder-weight) द्वारे किती परिणाम होतो याच्या प्रमाणात आवाज मिळतो (**अनुच्छेद XII** (*प्रभावित पक्षांचा प्रणालीगत सहभाग, प्रतिनिधित्व आणि योग्य प्रक्रिया*) बंधने धरून), समान-भार पायाभूत मोजणी नियमांद्वारे नाही; आणि
@@ -189,7 +189,7 @@
 
     **प्राथमिक मूल्यमापन:**
     - निर्णय पायाभूत माना जेव्हा तो कोण शासन करू शकतो, कोणत्या यंत्रणेने, किंवा कोणत्या टिकाऊ अटींवर याबद्दल आहे — एका मताला किंवा एका धोरण निवडीला मोठा अल्पकालीन परिणाम आहे म्हणून नाही.
-    - [प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-governance-layers) वाचा.
+    - [प्रस्तावना §3.3 शासन स्तर](core_00_preamble.md#33-शसन-सतर) वाचा.
     - पायाभूत प्रश्न [प्रभावित पक्ष प्रतिनिधित्व आणि भार मर्यादा (प्रभावित पक्षांची बंधनकारक निवड)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) खाली उच्च-प्रभाव भारित निवडी म्हणून पुन्हा मार्गनिर्देशित करता येत नाहीत.
     - [संज्ञता-अवर्जन](core_05_band_participation.md#sentience-non-exclusion) लागू करा.
     - आधार-वर्ग (जैविक, कृत्रिम, किंवा अंकीय प्रकार), दिनदर्शिका वय, किंवा वंशक्रम (पूर्वज, प्रजाती, किंवा व्युत्पत्ती) नुसार जास्त किंवा कमी स्थापना आवाज देऊ नका.
@@ -232,7 +232,7 @@
       - न्यायोचित
       आहे.
     - आरोपण वर्जन नाही; कोणतेही वर्जन संपल्यानंतर श्रेय आणि स्रोत इतिहास टिकू शकतात.
-    - लागू होते जिथे बक्षीस रचना [कल्याण](core_05_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), किंवा [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) प्रभावित करू शकते.
+    - लागू होते जिथे बक्षीस रचना [कल्याण](core_05_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), किंवा [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) प्रभावित करू शकते.
   - **यावर अवलंबून:** [आवश्यकता](core_05_band_accountability.md#necessity), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), आणि [प्रणालीगत कुलूपबंदी](core_05_band_continuity.md#systemic-lock-in) — रचनात्मक सीमा. कोणतेही वर्जन आवश्यकता- आणि प्रमाणबद्धता-न्यायोचित हवे, आणि वापरावरील नियंत्रण यांत घट्ट होऊ नये:
     - कायम कमतरता;
     - प्रणालीगत कुलूपबंदी; किंवा
@@ -308,7 +308,7 @@
 - **व्याप्ती:** संयुक्त आह्वान पूर्ण झाले की, बक्षीसे, लक्ष्ये आणि शासन संकेत संवैधानिक निकालांशी संरेखित राहतात का यासाठी उत्तरदायित्व मापन कुटुंबाचे संयुक्त घर — प्रतिनिधी सचोटी आणि आकस्मिक-समझोता शिस्त धरून.
 
 **विषय गट सदस्य.** या गटात हे आहे:
-- [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment) — प्रोत्साहन रचना आणि प्रतिनिधी सचोटीसाठी सामान्य नियम;
+- [प्रोत्साहन संरेखन](core_05_band_integrative.md#परतसहन-सरखन) — प्रोत्साहन रचना आणि प्रतिनिधी सचोटीसाठी सामान्य नियम;
 - [प्रोत्साहन संरेखन — आधारभूत संवैधानिक संरेखन](core_05_band_integrative.md#incentive-alignment-baseline-constitutional-alignment) — कालांतराने सुरक्षा, सत्य, विश्वास आणि अर्थपूर्ण कर्तृत्वाशी टिकाऊ संरेखन;
 - [प्रोत्साहन संरेखन — सामरिक, प्रमाणित आणि विरोधक मूल्यमापन](core_05_band_integrative.md#incentive-alignment-strategic-scaled-and-adversarial-evaluation) — खेळ, प्रमाण, समन्वय आणि जाणूनबुजून दुरुपयोगाखाली मूल्यमापन; आणि
 - [प्रोत्साहन संरेखन — आकस्मिक दावे, संयोग खेळ आणि घटना-करार बाजार](core_05_band_integrative.md#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets) — जिथे आकस्मिक समझोता भौतिक रीतीने संबंधित असेल तिथे विशेष अनुप्रयोग.
@@ -324,7 +324,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- पुढे: उत्तरदायित्व मापन कुटुंब (*संवैधानिक मापन म्हणून प्रोत्साहन संरेखन आणि प्रतिनिधी सचोटी*); तत्त्वे: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) खाली चतुष्क ताबा शिस्त; [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) आणि [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- पुढे: उत्तरदायित्व मापन कुटुंब (*संवैधानिक मापन म्हणून प्रोत्साहन संरेखन आणि प्रतिनिधी सचोटी*); तत्त्वे: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) खाली चतुष्क ताबा शिस्त; [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) आणि [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - तत्त्व-स्तर नियम: [अध्याय एक §11.1 संरेखन अपेक्षा](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) आणि [अध्याय एक §11.2 सोयीस्कर प्रतिनिधी आणि प्रतिनिधी-सूचक विचलन](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence); उत्तरदायी व्यवस्थापन आणि संचालक अनुप्रयोग: [अध्याय एक §11.1.3 उत्तरदायी व्यवस्थापन आणि संचालक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) आणि [§11.1.4 भूमिका-गहराई आणि भौतिक-जबाबदारी मार्ग](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
 - विसंरेखन पकडणे: [अध्याय एक §11.3 विसंरेखन पकडणे](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
 - सक्रिय सुधार आणि ताबा अधिरोहण: [अध्याय एक §11.4 विसंरेखन सुधार आणि ताबा प्रतिक्रिया](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
@@ -360,17 +360,17 @@
     - [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency).
 
     या समूहाखालील अधिक विशिष्ट बाल-विषय भौतिक रीतीने दावावर असेल, तर त्या बालकाचा मूल्यमापन मार्ग अनुसरा.
-  - **दुय्यम माप:** [कल्याण](core_05_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), आणि [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) — सह-मापे जी नाममात्र लक्ष्ये पूर्ण दिसली तरीही संरेखन हरवू शकतात.
+  - **दुय्यम माप:** [कल्याण](core_05_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), आणि [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) — सह-मापे जी नाममात्र लक्ष्ये पूर्ण दिसली तरीही संरेखन हरवू शकतात.
 
     **दुय्यम मूल्यमापन:** प्राथमिक माप तपासताना, विचारा की ही सह-मापे अधिकृत गुण चांगले दिसले तरीही विसंरेखन दाखवतात का. [प्रणाली ताबा](core_05_band_continuity.md#system-capture) धरा (संकेंद्रित किंवा झाकलेल्या नियंत्रण रचना ज्या आव्हान किंवा देखरेख हरवतात जिथे भौतिक रीतीने संबंधित).
-  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) — जिथे बक्षीस मार्ग, मापे, किंवा शासन संकेत खऱ्या संवैधानिक निकालांची जागा घेतात.
+  - **तृतीय माप:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) — जिथे बक्षीस मार्ग, मापे, किंवा शासन संकेत खऱ्या संवैधानिक निकालांची जागा घेतात.
 
-    **तृतीय मूल्यमापन:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) समाविष्ट करा. प्रोत्साहन संरेखन इनपुट म्हणून मोजा कोणतेही बक्षीस मार्ग, लक्ष्ये, किंवा शासन संकेत जे यांच्यातील अंतर शोषतात:
+    **तृतीय मूल्यमापन:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) समाविष्ट करा. प्रोत्साहन संरेखन इनपुट म्हणून मोजा कोणतेही बक्षीस मार्ग, लक्ष्ये, किंवा शासन संकेत जे यांच्यातील अंतर शोषतात:
     - प्रतिनिधी;
     - मापे; किंवा
     - औपचारिक अनुपालन सूचक
 
-    आणि [कल्याण](core_05_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), किंवा [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity) साठी भौतिक खरे निकाल.
+    आणि [कल्याण](core_05_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), किंवा [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत) साठी भौतिक खरे निकाल.
 <a id="incentive-alignment-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:** टिकाऊ प्रोत्साहने जी अध्याय एक मूल्ये अपेक्षित रीतीने कमजोर करतात याशिवाय:
@@ -381,7 +381,7 @@
     - अशी विसंरेखने सक्रिय पकडण्यात, प्रगट करण्यात आणि दुरुस्त करण्यात अपयश (अध्याय एक §11.3–§11.4);
     - [प्रणाली ताबा](core_05_band_continuity.md#system-capture) (आव्हान किंवा देखरेख हरवणाऱ्या संकेंद्रित किंवा झाकलेल्या नियंत्रण रचना); किंवा
     - समीक्षाधीन प्रणालीसाठी प्रोत्साहन सचोटी शासित करणाऱ्या अंगीकृत अंमलबजावणी अपेक्षा दुर्लक्षित करून संवैधानिक प्रोत्साहन संरेखन दावा करणे.
-  - **तृतीय अपयश:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) युक्तिसंगत रीतीने प्रेक्षणीय असेल तिथे प्रतिनिधी किंवा अनुपालन-सूचक पूर्ती निर्णायक मानणे.
+  - **तृतीय अपयश:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) युक्तिसंगत रीतीने प्रेक्षणीय असेल तिथे प्रतिनिधी किंवा अनुपालन-सूचक पूर्ती निर्णायक मानणे.
 
 ---
 
@@ -394,7 +394,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - समूह घटक: [प्रोत्साहन संरेखन, प्रतिनिधी सचोटी आणि आकस्मिक समझोता](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- सोबत वाचा: [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment); [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) जिथे गुण किंवा मापे खरे निकाल झाकू शकतात.
+- सोबत वाचा: [प्रोत्साहन संरेखन](core_05_band_integrative.md#परतसहन-सरखन); [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) जिथे गुण किंवा मापे खरे निकाल झाकू शकतात.
 
 </details>
 
@@ -404,9 +404,9 @@
 
 - **ते काय आहे**
   - **व्याप्तीत:** कर्ते, संचालक, किंवा घटक घटकांवर काम करणाऱ्या प्रोत्साहन रचना — बक्षीस मार्ग, लक्ष्ये, शासन संकेत, आणि तुलनात्मक रचना जे विलंबित आणि एकत्रित परिणामांवर वर्तन अपेक्षित रीतीने आकार देतात.
-  - **यावर अवलंबून:** [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [विश्वास](core_05_band_continuity.md#trust), आणि [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) — रचनात्मक संरेखन लक्ष्ये. प्रोत्साहन रचना या सीमांशी आणि न्यायोचित [विश्वास](core_05_band_continuity.md#trust) ला अनुकूल प्रणालीगत स्थैर्याशी संरेखित हवीत.
+  - **यावर अवलंबून:** [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), [विश्वास](core_05_band_continuity.md#trust), आणि [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) — रचनात्मक संरेखन लक्ष्ये. प्रोत्साहन रचना या सीमांशी आणि न्यायोचित [विश्वास](core_05_band_continuity.md#trust) ला अनुकूल प्रणालीगत स्थैर्याशी संरेखित हवीत.
   - **व्याप्तीबाहेर:** अल्पकालीन स्थानिक बक्षीस समायोजन जे सुरक्षा, सत्य, विश्वास, किंवा अर्थपूर्ण कर्तृत्व सीमांविरुद्ध विलंबित किंवा एकत्रित वर्तन आकार देत नाही.
-  - **सोबत वाचा:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#proxy-divergence) जिथे गुण किंवा मापे त्या सीमांविरुद्ध खरे निकाल झाकू शकतात — [प्रोत्साहन संरेखन](#incentive-alignment) तृतीय स्तरावर मालकीचे.
+  - **सोबत वाचा:** [प्रतिनिधी-सूचक विचलन](core_05_band_oversight.md#परतनध-सचक-वचलन) जिथे गुण किंवा मापे त्या सीमांविरुद्ध खरे निकाल झाकू शकतात — [प्रोत्साहन संरेखन](#परतसहन-सरखन) तृतीय स्तरावर मालकीचे.
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [उत्तरदायित्व मापन कुटुंब](core_05_apex_accountability_leg.md#accountability-measurement-family) — *बक्षीस रचना, बाजार शक्ती आणि उत्तर देण्याची जबाबदारी कर्तव्ये खरी ठेवतात का?* येथे विचारा की प्रोत्साहने कालांतराने सुरक्षा, सत्य, विश्वास आणि अर्थपूर्ण कर्तृत्वाशी संरेखित राहतात का — फक्त अल्पकालीन गुण चांगले दिसतात तेव्हा नाही.
 
@@ -425,7 +425,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - समूह घटक: [प्रोत्साहन संरेखन, प्रतिनिधी सचोटी आणि आकस्मिक समझोता](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- सोबत वाचा: [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment); [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+- सोबत वाचा: [प्रोत्साहन संरेखन](core_05_band_integrative.md#परतसहन-सरखन); [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट).
 
 </details>
 
@@ -434,7 +434,7 @@
 *सोप्या भाषेत: खेळ, प्रमाण, समन्वय आणि जाणूनबुजून दुरुपयोगाखाली प्रोत्साहने तपासा — फक्त सभ्य प्रयोगशाळा अटींखाली नाही.*
 
 - **ते काय आहे**
-  - **व्याप्तीत:** [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) खाली प्रोत्साहन-संरेखन मूल्यमापन, ज्यात:
+  - **व्याप्तीत:** [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट) खाली प्रोत्साहन-संरेखन मूल्यमापन, ज्यात:
     - खेळ;
     - क्रॉस-उदाहरण समन्वय;
     - उच्च-प्रमाण तैनाती — खंड, समकालीनता, किंवा पोहोच ज्यावर वर्तन किंवा परिणाम लघु-प्रमाण किंवा आदर्श-प्रयोगशाळा वापरापेक्षा वेगळे होऊ शकतात; आणि
@@ -443,7 +443,7 @@
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [उत्तरदायित्व मापन कुटुंब](core_05_apex_accountability_leg.md#accountability-measurement-family) — *बक्षीस रचना, बाजार शक्ती आणि उत्तर देण्याची जबाबदारी कर्तव्ये खरी ठेवतात का?* येथे विचारा की प्रोत्साहने खेळ, प्रमाण, समन्वय आणि जाणूनबुजून दुरुपयोगाखाली अजून टिकतात का — फक्त सभ्य प्रयोगशाळा अटींखाली नाही.
 
-    **प्राथमिक मूल्यमापन:** [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) धरा.
+    **प्राथमिक मूल्यमापन:** [विरोधक, प्रमाणित आणि शोषित अटी](core_05_band_oversight.md#वरधक-परमणत-आण-शषत-अट) धरा.
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:** मूल्यमापनातून भौतिक रीतीने संबंधित विरोधक, प्रमाणित, किंवा शोषित अटी वगळून प्रोत्साहन संरेखन दावा करणे — दाब, प्रमाण, समन्वय, किंवा जाणूनबुजून शोषणाच्या जागी खालीलपैकी काही वापरणे धरून:
     - आदर्श-प्रयोगशाळा चाचणी; किंवा
@@ -461,7 +461,7 @@
 
 - पुढे: तत्त्वे: [अध्याय एक §11.5 आकस्मिक दावे, संयोग खेळ आणि घटना-करार बाजार](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
 - समूह घटक: [प्रोत्साहन संरेखन, प्रतिनिधी सचोटी आणि आकस्मिक समझोता](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- सोबत वाचा: [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment); [आकस्मिक दावा, घटना-करार बाजार, संयोग खेळ आणि अंतर्गत लाभ](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- सोबत वाचा: [प्रोत्साहन संरेखन](core_05_band_integrative.md#परतसहन-सरखन); [आकस्मिक दावा, घटना-करार बाजार, संयोग खेळ आणि अंतर्गत लाभ](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
 
 </details>
 
@@ -514,10 +514,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- संवैधानिक चौकट: **एकात्मक** पाया; **समुन्नती** उद्दिष्ट (प्राथमिक); [भौतिक दाव](core_00_preamble.md#material-stake) नुसार [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination) द्वारे प्रमाणित.
+- संवैधानिक चौकट: **एकात्मक** पाया; **समुन्नती** उद्दिष्ट (प्राथमिक); [भौतिक दाव](core_00_preamble.md#material-stake) नुसार [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination) द्वारे प्रमाणित.
 - क्रॉस-पाया टीप: **देखरेख**, **उत्तरदायित्व** आणि **सहभाग** — प्राधिकार ढेर सर्व चतुष्क पाया व्यापतो.
-- अध्याय एक आधार: अध्याय एक §8.1, §4, अध्याय एक §6.2, §12.2, §10 ([अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#chapter-five-compass-and-definition-map) नकाशा पहा).
-- सोबत वाचा: [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [भौतिकता निर्धारण](core_05_band_oversight.md#materiality-determination), आणि अध्याय तेरा / अध्याय पंधरा यांत्रिकी जिथे भौतिक रीतीने संबंधित लागू करा.
+- अध्याय एक आधार: अध्याय एक §8.1, §4, अध्याय एक §6.2, §12.2, §10 ([अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश) नकाशा पहा).
+- सोबत वाचा: [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत), [आव्हानयोग्यता](core_05_band_accountability.md#contestability), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), [भौतिकता निर्धारण](core_05_band_oversight.md#भतकity-determination), आणि अध्याय तेरा / अध्याय पंधरा यांत्रिकी जिथे भौतिक रीतीने संबंधित लागू करा.
 
 </details>
 
@@ -533,23 +533,23 @@
 - समावेश व्याप्ती; किंवा
 - दावा केलेली कर्तव्ये अंगीकृत संग्रहात अंमलबजावणीयोग्य रीतीने आधारलेली आहेत का.
 
-मुद्दा त्या यादीबाहेर असेल, तर [संग्रह](core_05_band_integrative.md#corpus) आणि [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) साथी व्याख्या म्हणून स्वतः वापरता येतात. त्यातील एक पद दिसले म्हणून संपूर्ण समूह ओढावा लागत नाही.
+मुद्दा त्या यादीबाहेर असेल, तर [संग्रह](core_05_band_integrative.md#सगरह) आणि [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) साथी व्याख्या म्हणून स्वतः वापरता येतात. त्यातील एक पद दिसले म्हणून संपूर्ण समूह ओढावा लागत नाही.
 
 प्रवेश व्याप्ती पूर्ण झाली की, हे प्रश्न एकत्र उत्तर द्यायची जागा हा समूह आहे. तो व्यापतो:
 
 - **अधिकृत संज्ञ संविधान म्हणून कोणते पाठ मोजतात** — अंगीकृत, आवृत्तीबद्ध संग्रह, मसुदे, टिपा, किंवा अनधिकृत प्रती नाहीत;
 - **त्या संग्रहात प्राधिकार कसा श्रेणीबद्ध आहे** — विषय एकमेकांवर येतात तेव्हा कोणते अध्याय आणि स्तर नियंत्रण करतात, [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) खाली मालक-अ-स्थलांतरण आणि सर्वोच्चता परिणाम धरून;
 - **वैध अंगीकरणानंतर कोणता स्रोत जिंकतो** — बंधनकारक कर्तव्ये खरेच अंगीकृत व्याप्तीत प्रबल होतात; आणि
-- **दावा केलेली कर्तव्ये व्यवहारात तपासता आणि अंमलात आणता येतात का** — [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) द्वारे, फक्त कागदावरील दाव्याने नाही.
+- **दावा केलेली कर्तव्ये व्यवहारात तपासता आणि अंमलात आणता येतात का** — [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) द्वारे, फक्त कागदावरील दाव्याने नाही.
 
 त्यांपैकी कोणताही प्रश्न खेळात असेल, तर समूह सदस्य एकत्र वाचा, एकाला एकटे पुरेसे मानू नका.
 
 **समूह सदस्य.** या समूहात हे आहे:
 
-- [संग्रह](core_05_band_integrative.md#corpus); आणि
+- [संग्रह](core_05_band_integrative.md#सगरह); आणि
 - [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack).
 
-[संवैधानिक बंधन](core_05_band_integrative.md#constitutional-constraint) या विभागात समूहासह वाचायची साथी व्याख्या म्हणून राहते; स्वतंत्रपणे आवश्यक नसेल तर ती अतिरिक्त संयुक्त-आह्वान सदस्य नाही. कोणता अध्याय कोणत्या सारभूत क्षेत्राचा मालक आहे याची सकारात्मक मालक नोंदणी [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) मध्ये राहते (विभाग 4–7). मालक-अ-स्थलांतरण आणि सर्वोच्चता परिणाम [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) खाली सांगितले आहेत. बंधनकारक दाव्यांची व्यावहारिक अंमलबजावणीयोग्यता [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) खाली मार्गनिर्देशित होते. शासन-स्तर पर्याय-निरोध (संवैधानिक करार विरुद्ध प्रभावित पक्षांचा प्रणालीगत सहभाग) [प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers) आणि [संवैधानिक करार स्तर](core_05_band_integrative.md#constitutional-contract-layer) खाली राहतो.
+[संवैधानिक बंधन](core_05_band_integrative.md#सवधनक-बधन) या विभागात समूहासह वाचायची साथी व्याख्या म्हणून राहते; स्वतंत्रपणे आवश्यक नसेल तर ती अतिरिक्त संयुक्त-आह्वान सदस्य नाही. कोणता अध्याय कोणत्या सारभूत क्षेत्राचा मालक आहे याची सकारात्मक मालक नोंदणी [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-तततव-वयखय-आण-अधकर) मध्ये राहते (विभाग 4–7). मालक-अ-स्थलांतरण आणि सर्वोच्चता परिणाम [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) खाली सांगितले आहेत. बंधनकारक दाव्यांची व्यावहारिक अंमलबजावणीयोग्यता [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) खाली मार्गनिर्देशित होते. शासन-स्तर पर्याय-निरोध (संवैधानिक करार विरुद्ध प्रभावित पक्षांचा प्रणालीगत सहभाग) [प्रस्तावना §3.3](core_00_preamble.md#33-शसन-सतर) आणि [संवैधानिक करार स्तर](core_05_band_integrative.md#सवधनक-करर-सतर) खाली राहतो.
 
 **वळसा-निरोध.** प्रवेश व्याप्तीतील मुद्दा वेगळ्या:
 
@@ -577,9 +577,9 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पुढे: तत्त्वे: [15. एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (संग्रह एकीकृत पूर्ण म्हणून वाचला जातो); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **देखरेख** पाया; [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — समावेश आणि अभिरक्षाखाली **सातत्य** उद्दिष्ट; [2. संवैधानिक अर्थनिर्णय](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (बंधनकारक स्रोत ओळख).
-- पुढे: [अध्याय सोळा — समावेश पूल](../../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) (*कोणता अंगीकृत **अंमलबजावणी पाठ** पाठ बंधनकारक आहे, आवृत्ती पिन, अभिरक्षा शृंखला, आणि मूक-विसंरेखन-निषेध शिस्त*).
-- सोबत वाचा: [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) आणि [संवैधानिक बंधन](core_05_band_integrative.md#constitutional-constraint).
-- सोबत वाचा: [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) (*सकारात्मक क्षेत्र→मालक नकाशा*, विभाग 4–7).
+- पुढे: [अध्याय सोळा — समावेश पूल](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*कोणता अंगीकृत **अंमलबजावणी पाठ** पाठ बंधनकारक आहे, आवृत्ती पिन, अभिरक्षा शृंखला, आणि मूक-विसंरेखन-निषेध शिस्त*).
+- सोबत वाचा: [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) आणि [संवैधानिक बंधन](core_05_band_integrative.md#सवधनक-बधन).
+- सोबत वाचा: [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-तततव-वयखय-आण-अधकर) (*सकारात्मक क्षेत्र→मालक नकाशा*, विभाग 4–7).
 
 </details>
 
@@ -621,9 +621,9 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पुढे: तत्त्वे: [2. संवैधानिक अर्थनिर्णय](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [15. एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (प्राधिकार ढेर विरुद्ध अंतर्गत श्रेणीक्रम अध्याय एकासह सोबत-वाचा).
-- पुढे: [अध्याय एक — §8 संवैधानिक अर्थनिर्णय](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (एकीकृत वाचन आणि अंतिम-आश्रय श्रेणीक्रम); [अध्याय एक §8.4 संवैधानिक अर्थ संघर्ष समाधान](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*एक संघर्ष प्रक्रिया, समावेश स्तर धरून*); [अध्याय चौदा — अंगीकारकांसाठी अंतर्गत श्रेणीक्रम](../../core_16_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [अध्याय सोळा](../../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) (*समावेश पूल — अभिरक्षा, आवृत्त्या, अंगीकरण; दुसरा ढेर किंवा संघर्ष-क्रम घर नाही*).
-- पुढे: [अध्याय सहा — स्तर व्याप्ती](../../core_06_rights_part_a.md#12-layer-scope); [अध्याय तेरा §4 स्तर व्याप्ती](../../core_15_non_regression.md#4-layer-scope) आणि [अध्याय पंधरा §12 स्तर व्याप्ती](../../core_17_amendment_ratification.md#12-layer-scope) (*मालक-अ-स्थलांतरण स्थानिक लागू*); क्रमांकित `core_*` साधनातील अध्याय आरंभ मालक विधाने.
-- सोबत वाचा: [संग्रह](core_05_band_integrative.md#corpus); [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) (*सकारात्मक क्षेत्र→मालक नकाशा*, विभाग 4–7); [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) (*बंधनकारक दाव्यांची व्यावहारिक अंमलबजावणीयोग्यता*); [प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers) आणि [संवैधानिक करार स्तर](core_05_band_integrative.md#constitutional-contract-layer) (*शासन-स्तर पर्याय-निरोध*); [संवैधानिक बंधन](core_05_band_integrative.md#constitutional-constraint); **CJS-0.1** (*अंमलबजावणी विषय मार्गनिर्देशक*).
+- पुढे: [अध्याय एक — §8 संवैधानिक अर्थनिर्णय](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (एकीकृत वाचन आणि अंतिम-आश्रय श्रेणीक्रम); [अध्याय एक §8.4 संवैधानिक अर्थ संघर्ष समाधान](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*एक संघर्ष प्रक्रिया, समावेश स्तर धरून*); [अध्याय चौदा — अंगीकारकांसाठी अंतर्गत श्रेणीक्रम](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [अध्याय सोळा](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*समावेश पूल — अभिरक्षा, आवृत्त्या, अंगीकरण; दुसरा ढेर किंवा संघर्ष-क्रम घर नाही*).
+- पुढे: [अध्याय सहा — स्तर व्याप्ती](../../core_06.005_rights_part_a.md#12-layer-scope); [अध्याय तेरा §4 स्तर व्याप्ती](../../core_15.000_non_regression.md#4-layer-scope) आणि [अध्याय पंधरा §12 स्तर व्याप्ती](../../core_17.000_amendment_ratification.md#12-layer-scope) (*मालक-अ-स्थलांतरण स्थानिक लागू*); क्रमांकित `core_*` साधनातील अध्याय आरंभ मालक विधाने.
+- सोबत वाचा: [संग्रह](core_05_band_integrative.md#सगरह); [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-तततव-वयखय-आण-अधकर) (*सकारात्मक क्षेत्र→मालक नकाशा*, विभाग 4–7); [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) (*बंधनकारक दाव्यांची व्यावहारिक अंमलबजावणीयोग्यता*); [प्रस्तावना §3.3](core_00_preamble.md#33-शसन-सतर) आणि [संवैधानिक करार स्तर](core_05_band_integrative.md#सवधनक-करर-सतर) (*शासन-स्तर पर्याय-निरोध*); [संवैधानिक बंधन](core_05_band_integrative.md#सवधनक-बधन); **CJS-0.1** (*अंमलबजावणी विषय मार्गनिर्देशक*).
 
 </details>
 
@@ -632,9 +632,9 @@
 *सोप्या भाषेत: आधी ठरवा की कोणता स्रोत स्तर बोलतो आहे आणि तो बांधतो का; मग ओळखा की विषय कोणत्या अध्यायाचा मालक आहे; त्यानंतरच, बंधनकारक संज्ञ संविधानात खरा संघर्ष शिल्लक राहिला तर, तो सोडवण्यासाठी अंतिम-आश्रय श्रेणीक्रम वापरा. बंधनकारक कर्तव्ये त्यांच्या वैध व्याप्तीत जिंकतात. इतर अध्याय मालकाकडे निर्देश करू शकतात — त्यांनी तो शांतपणे पुन्हा लिहू किंवा हलवू नये.*
 
 - **ते काय आहे**
-  - **व्याप्तीत:** जोडलेला नियम जो आधी ठरवतो की कोणत्या प्रकारचा स्रोत बोलतो आहे, आणि तो बांधतो का, संक्रियात्मक [संग्रह](core_05_band_integrative.md#corpus) आर-पार — आणि त्यानंतरच, बंधनकारक संज्ञ संविधानात खरा संघर्ष शिल्लक राहिला तर, तो कसा सोडवायचा. स्रोत स्तरांत हे आहे:
+  - **व्याप्तीत:** जोडलेला नियम जो आधी ठरवतो की कोणत्या प्रकारचा स्रोत बोलतो आहे, आणि तो बांधतो का, संक्रियात्मक [संग्रह](core_05_band_integrative.md#सगरह) आर-पार — आणि त्यानंतरच, बंधनकारक संज्ञ संविधानात खरा संघर्ष शिल्लक राहिला तर, तो कसा सोडवायचा. स्रोत स्तरांत हे आहे:
     - **बंधनकारक संवैधानिक स्रोत** — [प्रस्तावना](core_00_preamble.md), [अध्याय एक](core_01_a_values_principles.md), आणि या संज्ञ संविधानाचे इतर क्रमांकित अध्याय, एका साधनाप्रमाणे एकत्र वाचलेले;
-    - **बंधनकारक समाविष्ट अंमलबजावणी स्रोत** — अंगीकृत अंमलबजावणी पाठातील नेमलेली कर्तव्ये, [अध्याय पंधरा](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) आणि [अध्याय सोळा](../../core_18_incorporation.md#chapter-eighteen-incorporation-bridge) खाली वैध अंगीकरण आणि समावेश व्याप्तीत; आणि
+    - **बंधनकारक समाविष्ट अंमलबजावणी स्रोत** — अंगीकृत अंमलबजावणी पाठातील नेमलेली कर्तव्ये, [अध्याय पंधरा](../../core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) आणि [अध्याय सोळा](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) खाली वैध अंगीकरण आणि समावेश व्याप्तीत; आणि
     - **प्रक्रिया आणि नकाशा साथी स्रोत** — वास्तुकला नकाशे, कामाच्या यादी, आणि प्रतिगमन किंवा पुरावा अभिलेख ([doc_architecture.md](../../doc_architecture.md) धरून), जोपर्यंत वैध अंगीकार साधन त्यांना बंधनकारक म्हणून व्यक्त समाविष्ट करत नाही.
 
     **प्राधिकार ढेर:** संवैधानिक अर्थनिर्णय, अंगीकरण परिणाम, आणि संवैधानिक, समाविष्ट आणि साथी स्तरांवर स्तर स्थिती शासित करणारी क्रमबद्ध प्राधिकार-स्रोत चौकट.
@@ -655,7 +655,7 @@
     <a id="constitutional-owner-layers"></a>
     <a id="constitutional-owner-layers-a"></a>
     <a id="constitutional-owner-layers-c"></a>
-    - **मालक नोंदणी आणि अ-स्थलांतरण:** कोणता अध्याय कोणत्या सारभूत क्षेत्राचा मालक आहे याची सकारात्मक नोंदणी [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) आहे (विभाग 4–7), अध्याय आरंभ मालक विधानांसह वाचलेली. ती नोंदणी या नोंदीसोबत अशी काम करते:
+    - **मालक नोंदणी आणि अ-स्थलांतरण:** कोणता अध्याय कोणत्या सारभूत क्षेत्राचा मालक आहे याची सकारात्मक नोंदणी [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-तततव-वयखय-आण-अधकर) आहे (विभाग 4–7), अध्याय आरंभ मालक विधानांसह वाचलेली. ती नोंदणी या नोंदीसोबत अशी काम करते:
       1. प्राधिकार ढेराखाली स्रोत स्थिती ओळखा;
       2. प्रस्तावना नोंदणीखाली (आणि अध्यायाचा बंधनकारक आरंभ मालक दावा) सारभूत मालक ओळखा;
       3. अंतर्गत श्रेणीक्रम फक्त बंधनकारक संवैधानिक स्रोतातील खऱ्या अवशिष्ट असंगततेसाठी लागू करा.
@@ -668,13 +668,13 @@
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **सर्वोच्चता:** बंधनकारक संग्रह कर्तव्ये त्यांच्या वैध स्रोत, अंगीकरण आणि शासन-स्तर व्याप्तीत प्रबल होतात. तो सर्वोच्चता परिणाम या नोंदीला संक्रियात्मक [संग्रह](core_05_band_integrative.md#corpus) आणि लागू अंगीकरण किंवा समावेश साधनासोबत लागू करण्याचा निकाल आहे — [अध्याय चौदा](../../core_16_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) इतर मानदंडांच्या सापेक्ष सर्वोच्चता आणि [अध्याय चौदा §5](../../core_16_expansion_supremacy.md#5-relation-to-applicable-external-law) लागू बाह्य कायद्याचे अ-विस्थापन धरून. अंमलबजावणी, साथी पाठ, खाजगी व्यवस्था, आणीबाणी चौकट, किंवा संक्रियात्मक प्रथेने त्या बंधनकारक कर्तव्ये त्यांच्या वैध व्याप्तीत आकुंचित करू नयेत.
+    - **सर्वोच्चता:** बंधनकारक संग्रह कर्तव्ये त्यांच्या वैध स्रोत, अंगीकरण आणि शासन-स्तर व्याप्तीत प्रबल होतात. तो सर्वोच्चता परिणाम या नोंदीला संक्रियात्मक [संग्रह](core_05_band_integrative.md#सगरह) आणि लागू अंगीकरण किंवा समावेश साधनासोबत लागू करण्याचा निकाल आहे — [अध्याय चौदा](../../core_16.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) इतर मानदंडांच्या सापेक्ष सर्वोच्चता आणि [अध्याय चौदा §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law) लागू बाह्य कायद्याचे अ-विस्थापन धरून. अंमलबजावणी, साथी पाठ, खाजगी व्यवस्था, आणीबाणी चौकट, किंवा संक्रियात्मक प्रथेने त्या बंधनकारक कर्तव्ये त्यांच्या वैध व्याप्तीत आकुंचित करू नयेत.
 
-    बंधनकारक दाव्यांची व्यावहारिक अंमलबजावणीयोग्यता — कागदी वचन नाही, प्रेक्षणीय, आव्हानयोग्य अनुपालन — [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) खाली मूल्यमापन होते. शासन-स्तर पर्याय-निरोध (संवैधानिक करार विरुद्ध प्रभावित पक्षांचा प्रणालीगत सहभाग) [प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers) आणि [संवैधानिक करार स्तर](core_05_band_integrative.md#constitutional-contract-layer) खाली राहतो.
+    बंधनकारक दाव्यांची व्यावहारिक अंमलबजावणीयोग्यता — कागदी वचन नाही, प्रेक्षणीय, आव्हानयोग्य अनुपालन — [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) खाली मूल्यमापन होते. शासन-स्तर पर्याय-निरोध (संवैधानिक करार विरुद्ध प्रभावित पक्षांचा प्रणालीगत सहभाग) [प्रस्तावना §3.3](core_00_preamble.md#33-शसन-सतर) आणि [संवैधानिक करार स्तर](core_05_band_integrative.md#सवधनक-करर-सतर) खाली राहतो.
 
-    अंगीकारकांसाठी, **अध्याय चौदा**तील [अंगीकारकांसाठी अंतर्गत श्रेणीक्रम](../../core_16_expansion_supremacy.md#31-internal-hierarchy-for-adopters) हाच जोडलेला नियम बंधनकारक संज्ञ संविधान आणि अंगीकृत अंमलबजावणी पाठ यांच्या रेषेवर लागू करतो:
+    अंगीकारकांसाठी, **अध्याय चौदा**तील [अंगीकारकांसाठी अंतर्गत श्रेणीक्रम](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) हाच जोडलेला नियम बंधनकारक संज्ञ संविधान आणि अंगीकृत अंमलबजावणी पाठ यांच्या रेषेवर लागू करतो:
     - हे संज्ञ संविधान आणि त्याच्या एकीकृत व्याख्या पाठ कसा वाचायचा आणि अनुपालन काय मोजते ते नियंत्रण करतात; आणि
-    - अंगीकृत अंमलबजावणी पाठ फक्त खरेच अंगीकृत व्याप्तीत लागू होतो, आणि [अध्याय तेरा अप्रतिगमन](../../core_15_non_regression.md) किंवा या नोंदीत सांगितलेला सर्वोच्चता परिणाम मागे घेऊ शकत नाही.
+    - अंगीकृत अंमलबजावणी पाठ फक्त खरेच अंगीकृत व्याप्तीत लागू होतो, आणि [अध्याय तेरा अप्रतिगमन](../../core_15.000_non_regression.md) किंवा या नोंदीत सांगितलेला सर्वोच्चता परिणाम मागे घेऊ शकत नाही.
   - **व्याप्तीबाहेर:** साथी-दस्ताऐवज टीप, नकाशे, कामाच्या यादी, किंवा अंगीकरण ब्रँडिंग म्हणून — ती प्राधिकार ढेर स्तर नाहीत; वैकल्पिक मार्गदर्शन जे स्रोत प्राधान्य पुनर्रचित करण्यासाठी किंवा बंधनकारक कर्तव्ये विस्थापित करण्यासाठी सादर केलेले नाही.
 <a id="authority-stack-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
@@ -682,14 +682,14 @@
 
     **प्राथमिक मूल्यमापन:**
     - आधी प्राधिकार ढेराखाली संक्रियात्मक आवृत्ती/अभिरक्षा शृंखला आणि स्रोत स्तर ओळखा.
-    - मग [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) मध्ये (आणि अध्याय आरंभ मालक दावा) मालक घर ओळखा; सार फक्त त्या मालक घरातून लागू करा — इतरत्र फक्त निर्देशक वापरा.
+    - मग [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-तततव-वयखय-आण-अधकर) मध्ये (आणि अध्याय आरंभ मालक दावा) मालक घर ओळखा; सार फक्त त्या मालक घरातून लागू करा — इतरत्र फक्त निर्देशक वापरा.
     - मग [अध्याय एक — §8 संवैधानिक अर्थनिर्णय](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) खाली एकीकृत वाचन लागू करा.
-    - संज्ञ संविधानाचा एकीकृत पूर्ण म्हणून सर्वात पूर्ण संरक्षण परिणाम आणि [अध्याय सहा](../../core_06_rights_part_a.md#chapter-six-foundational-rights) अ-आकुंचन पूर्वनिर्धारित जपा.
+    - संज्ञ संविधानाचा एकीकृत पूर्ण म्हणून सर्वात पूर्ण संरक्षण परिणाम आणि [अध्याय सहा](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) अ-आकुंचन पूर्वनिर्धारित जपा.
     - अंतर्गत श्रेणीक्रम फक्त अंतिम-आश्रय अवशिष्ट नियम म्हणून वापरा; सामान्य एकीकृत वाचनाची जागा घेण्यासाठी किंवा प्रामाणिक पद अर्थावरील केवळ मतभेद सोडवण्यासाठी वापरू नका.
     - वाद पद अर्थ असेल, तर अध्याय पाच प्रामाणिक व्याख्या प्रत्येक स्तरावर शासित करते.
     - CS, CI, CF आणि CJS आर-पार मार्गनिर्देशित अंमलबजावणी विषयांसाठी, मालक ओळखीनंतर **CJS-0.1** (Topic router) लागू करा.
     - पुष्टी करा की बंधनकारक कर्तव्ये वैध अंगीकरण आणि शासन-स्तर व्याप्तीत प्रबल होतात, आणि अंमलबजावणी, साथी, खाजगी, किंवा आणीबाणी चौकट ती आकुंचित करत नाही.
-    - त्या दाव्यांच्या व्यावहारिक अंमलबजावणीयोग्यतेसाठी [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) लागू करा; करार विरुद्ध प्रभावित-पक्ष मार्गनिर्देशनासाठी [प्रस्तावना §3.3](core_00_preamble.md#33-governance-layers) लागू करा.
+    - त्या दाव्यांच्या व्यावहारिक अंमलबजावणीयोग्यतेसाठी [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) लागू करा; करार विरुद्ध प्रभावित-पक्ष मार्गनिर्देशनासाठी [प्रस्तावना §3.3](core_00_preamble.md#33-शसन-सतर) लागू करा.
     - अर्थनिर्णय नाकारा जे:
       - स्रोत प्राधान्य उलटावतात;
       - स्रोत स्थिती झाकतात;
@@ -699,17 +699,17 @@
 <a id="authority-stack-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:** अनुपालन-भंग आहे:
-    - नकाशे, कामाच्या यादी, टिपा, किंवा इतर साथी पाठ वैध समावेशाशिवाय बंधनकारक संवैधानिक कायदा मानणे — किंवा समाविष्ट अंमलबजावणी पाठ अशा रीतीने लागू करणे की संवैधानिक [संग्रह](core_05_band_integrative.md#corpus) शी विसंगत होईल;
+    - नकाशे, कामाच्या यादी, टिपा, किंवा इतर साथी पाठ वैध समावेशाशिवाय बंधनकारक संवैधानिक कायदा मानणे — किंवा समाविष्ट अंमलबजावणी पाठ अशा रीतीने लागू करणे की संवैधानिक [संग्रह](core_05_band_integrative.md#सगरह) शी विसंगत होईल;
     - संपादकीय पसंती, साथी-दस्ताऐवज टीप, किंवा अंगीकरण ब्रँडिंग वापरून स्रोत स्तर पुनर्रचित करणे, सावली किंवा दुहेरी मालक घर रचणे, किंवा प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रमाबाहेर अवशिष्ट संघर्ष सोडवणे;
     - आकांक्षा भाषा किंवा स्थानिक प्रथा वापरून वैध स्रोत आणि शासन-स्तर व्याप्तीत बंधनकारक संग्रह कर्तव्ये विस्थापित करणे;
     - एका मालक स्तराची कर्तव्ये दुसऱ्या मालक स्तरात सारभूत पुनर्उक्ती करणे, वाचक-मार्गदर्शन गद्य संक्रियात्मक परिणामापर्यंत उचलणे धरून;
     - वैधता किंवा शासन अध्यायातील चालक, संदर्भ, किंवा अधिरोहण भाषा अंतिम वर्गीकरण किंवा शास्ती कायदा मानणे जिथे मालक स्तर तो प्राधिकार अध्याय आठ ते दहाला राखतो;
-    - प्रक्रिया, शासन, किंवा अंमलबजावणी चौकट वापरून [अध्याय सहा](../../core_06_rights_part_a.md#chapter-six-foundational-rights) अधिकार-तळ [अध्याय तेरा](../../core_15_non_regression.md) अप्रतिगमन आणि अध्याय सहा आरंभिक कराराविरुद्ध आकुंचित, पुनर्व्याख्या, किंवा स्थलांतरित करणे;
-    - [प्रस्तावना मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) आधीच प्रामाणिक घर नेमते तेव्हा बिगर-मालक स्तरांत समांतर वर्गीकरणे किंवा कार्यप्रवाह रचणे;
+    - प्रक्रिया, शासन, किंवा अंमलबजावणी चौकट वापरून [अध्याय सहा](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) अधिकार-तळ [अध्याय तेरा](../../core_15.000_non_regression.md) अप्रतिगमन आणि अध्याय सहा आरंभिक कराराविरुद्ध आकुंचित, पुनर्व्याख्या, किंवा स्थलांतरित करणे;
+    - [प्रस्तावना मालक नोंदणी](core_00_preamble.md#4-तततव-वयखय-आण-अधकर) आधीच प्रामाणिक घर नेमते तेव्हा बिगर-मालक स्तरांत समांतर वर्गीकरणे किंवा कार्यप्रवाह रचणे;
     - सर्वोच्चता किंवा अनुपालन अशा रीतीने दावा करणे की स्थापित स्रोत श्रेणीक्रम उलटावे, किंवा अंमलबजावणी, साथी पाठ, खाजगी व्यवस्था, आणीबाणी चौकट, किंवा संक्रियात्मक प्रथा वैध व्याप्तीत बंधनकारक संग्रह कर्तव्ये विस्थापित करू दे;
-    - अंतर्गत श्रेणीक्रम अधिक कठोर वाचन निवडण्याचा शॉर्टकट म्हणून, [अध्याय सहा](../../core_06_rights_part_a.md#chapter-six-foundational-rights) अधिकार-तळ संरक्षणे [अध्याय एक](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) व्यक्त परवानगी देते त्यापलीकडे आकुंचित करण्यासाठी, किंवा सामान्य वाचनात एक स्रोत स्तर दुसऱ्याने बदलण्यासाठी वापरणे;
+    - अंतर्गत श्रेणीक्रम अधिक कठोर वाचन निवडण्याचा शॉर्टकट म्हणून, [अध्याय सहा](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) अधिकार-तळ संरक्षणे [अध्याय एक](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) व्यक्त परवानगी देते त्यापलीकडे आकुंचित करण्यासाठी, किंवा सामान्य वाचनात एक स्रोत स्तर दुसऱ्याने बदलण्यासाठी वापरणे;
     - अध्याय पाच व्याख्या तत्त्वे किंवा अनुच्छेद अधिरोहित करणारा स्पर्धात्मक कायदा-निकाय मानणे ([अध्याय एक — §8 संवैधानिक अर्थनिर्णय](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); किंवा
-    - अंगीकारकांसाठी, अंगीकृत अंमलबजावणी पाठ अंगीकरण व्याप्तीत हे संज्ञ संविधान अधिरोहित करतो, किंवा [अध्याय तेरा](../../core_15_non_regression.md) अप्रतिगमन तळ सैल करतो असे मानणे (**अध्याय चौदा**तील [अंगीकारकांसाठी अंतर्गत श्रेणीक्रम](../../core_16_expansion_supremacy.md#31-internal-hierarchy-for-adopters)).
+    - अंगीकारकांसाठी, अंगीकृत अंमलबजावणी पाठ अंगीकरण व्याप्तीत हे संज्ञ संविधान अधिरोहित करतो, किंवा [अध्याय तेरा](../../core_15.000_non_regression.md) अप्रतिगमन तळ सैल करतो असे मानणे (**अध्याय चौदा**तील [अंगीकारकांसाठी अंतर्गत श्रेणीक्रम](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)).
 
 ---
 
@@ -721,7 +721,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: तत्त्वे: [अध्याय एक §3 अहस्तांतरणीय तत्त्व-बंधन: सुरक्षा आणि सत्य](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [अध्याय एक §6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-- सोबत वाचा: [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack), आणि [हानी](core_05_band_accountability.md#harm).
+- सोबत वाचा: [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint), [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack), आणि [हानी](core_05_band_accountability.md#harm).
 
 </details>
 
@@ -734,11 +734,11 @@
 
     संवैधानिक बंधने खालील **प्रकारांत** वर्गीकृत आहेत, सर्वाधिक नियंत्रण शक्तीपासून सर्वात कमीपर्यंत. उच्च प्रकार निम्न प्रकार नियंत्रण करतात: निम्न प्रकाराने उच्च प्रकार त्याच्या वैध व्याप्तीत आकुंचित, पुनर्व्याख्या, किंवा विस्थापित करता कामा नये. ही नोंद प्रकार वर्गीकृत आणि मार्गनिर्देशित करते; मालक-स्तर कर्तव्ये त्यांच्या प्रामाणिक घरांवर राहतात.
 
-    1. **अहस्तांतरणीय तत्त्व-बंधने** — अध्याय एकाच्या अहस्तांतरणीय सीमा म्हणून [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) आणि [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint).
+    1. **अहस्तांतरणीय तत्त्व-बंधने** — अध्याय एकाच्या अहस्तांतरणीय सीमा म्हणून [सुरक्षा (बंधन)](core_05_band_continuity.md#safety-constraint) आणि [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन).
     2. **अधिकार-तळ बंधने** — अध्याय सहा किमान आणि अ-आकुंचन नियम जे अंमलबजावणी, प्रक्रिया, शासन, आणीबाणी, संक्रमण, किंवा खाजगी-व्यवस्था चौकट संरक्षित अधिकार आकुंचित करण्यापासून रोखतात.
     3. **निर्बंध आणि मर्यादा बंधने** — [आवश्यकता](core_05_band_accountability.md#necessity), [प्रमाणबद्धता](core_05_band_accountability.md#proportionality), सर्वात-कमी-निर्बंध प्रभावी निवड, कालबद्धता, समीक्षायोग्यता, आणि भार-न्यूनतम शिस्त ज्या अधिकार-प्रभावित निर्बंध शासित करतात.
-    4. **ज्ञानविषयक आणि प्रकटीकरण बंधने** — [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#epistemic-integrity), प्रकटीकरण मर्यादा, प्रकाशन मर्यादा, संरक्षित-डेटा आणि अंतर्गत-अवस्था मर्यादा, आणि सुरक्षा-संवेदनशील प्रकटीकरण संतुलन.
-    5. **मूल्यमापन बंधने** — [मूल्यमापन पूर्णता बंधन](core_05_band_oversight.md#evaluation-completeness-constraint), [भौतिकता सचोटी बंधन](core_05_band_oversight.md#materiality-integrity-constraint), काल-सुसंगतता, प्रतिनिधी-सूचक विचलन अवैधता, आणि अध्याय चार भार, माग-काढता येणे आणि सत्यापन अपेक्षा.
+    4. **ज्ञानविषयक आणि प्रकटीकरण बंधने** — [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#सतय-सवधनक-बधन), [ज्ञानविषयक अखंडता](core_05_band_oversight.md#जञनवषयक-अखडत), प्रकटीकरण मर्यादा, प्रकाशन मर्यादा, संरक्षित-डेटा आणि अंतर्गत-अवस्था मर्यादा, आणि सुरक्षा-संवेदनशील प्रकटीकरण संतुलन.
+    5. **मूल्यमापन बंधने** — [मूल्यमापन पूर्णता बंधन](core_05_band_oversight.md#मलयमपन-परणत-बधन), [भौतिकता सचोटी बंधन](core_05_band_oversight.md#भतकity-integrity-constraint), काल-सुसंगतता, प्रतिनिधी-सूचक विचलन अवैधता, आणि अध्याय चार भार, माग-काढता येणे आणि सत्यापन अपेक्षा.
     6. **संक्रियात्मक आणि अंमलबजावणी बंधने** — क्षमता, व्यवहार्यता, सुरक्षा, गोपनीयता, समय, तांत्रिक, किंवा संसाधन मर्यादा फक्त त्यांच्या वैध अंगीकरण आणि स्रोत-स्तर व्याप्तीत मान्यताप्राप्त, आणि फक्त जिथे त्या उच्च प्रकार आकुंचित करत नाहीत.
 
   - **यावर अवलंबून:** [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack) — रचनात्मक चौकट.
@@ -748,8 +748,8 @@
       - समावेश;
       - अभिरक्षा; आणि
       - स्रोत-स्थिती शिस्त.
-    - वर्गीकृत कर्तव्ये [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-principles-definitions-and-rights) खाली त्यांच्या प्रामाणिक मालक घरांची मालकी राहतात.
-    - बंधनकारक बंधन दाव्यांची व्यावहारिक अंमलबजावणीयोग्यता [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#auditability) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) खाली मार्गनिर्देशित होते.
+    - वर्गीकृत कर्तव्ये [प्रस्तावना — सकारात्मक मालक नोंदणी](core_00_preamble.md#4-तततव-वयखय-आण-अधकर) खाली त्यांच्या प्रामाणिक मालक घरांची मालकी राहतात.
+    - बंधनकारक बंधन दाव्यांची व्यावहारिक अंमलबजावणीयोग्यता [लेखापरीक्षण-योग्यता](core_05_band_oversight.md#लखपरकषण-यगयत) आणि [आव्हानयोग्यता](core_05_band_accountability.md#contestability) खाली मार्गनिर्देशित होते.
   - **व्याप्तीबाहेर:** वैकल्पिक मार्गदर्शन, आकांक्षा मानदंड, किंवा धोरण पसंती जे संवैधानिक दावा, प्रणाली कृती, किंवा शासन कृत्याची वैधता ठरवत नाहीत.
 <a id="constitutional-constraint-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
@@ -791,4 +791,4 @@
 
 **पुढील फाइल (या भाषेत):** [core_05_band_oversight.md](core_05_band_oversight.md)
 
-**बंधनकारक मूळ:** [core_05_band_integrative.md](../../core_05_band_integrative.md)
+**बंधनकारक मूळ:** [core_05_band_integrative.md](../../core_05.045_band_integrative.md)

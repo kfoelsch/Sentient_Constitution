@@ -84,7 +84,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">근거 추적</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§3 근본 목적: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 헌법상 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§19 유인 정렬과 시스템 포획](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- 상위 근거: 원칙: 제1장 [§3 근본 목적: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 헌법상 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), [§19 유인 정렬과 시스템 포획](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획).
 
 </details>
 
@@ -145,7 +145,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
 - 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), 그리고 [1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- 함께 읽어보세요: [헌법적 사분면](core_00_preamble.md#constitutional-tetrad); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **번성** 그리고 **연속성**; [시스템 정렬 인증](core_05_band_continuity.md#system-alignment-certification-constitutional) 그리고 **제III-A조** (*생존*) 지속적인 시스템 의존이 생존에 필수적인 접근에 영향을 미칠 수 있는 경우 [**제XIII-B조**](#article-xiii-b-right-to-redress-and-remedy) (*시정 및 구제에 대한 권리*) 성공적인 도전은 무엇으로 이어져야 하는지에 대해 설명합니다.
+- 함께 읽어보세요: [헌법적 사분면](core_00_preamble.md#constitutional-tetrad); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **번성** 그리고 **연속성**; [시스템 정렬 인증](core_05_band_continuity.md#system-alignment-certification-constitutional) 그리고 **제III-A조** (*생존*) 지속적인 시스템 의존이 생존에 필수적인 접근에 영향을 미칠 수 있는 경우 [**제XIII-B조**](#제xiii-b조-구제-및-구제에-대한-권리) (*시정 및 구제에 대한 권리*) 성공적인 도전은 무엇으로 이어져야 하는지에 대해 설명합니다.
 
 </details>
 
@@ -172,7 +172,7 @@ flowchart TB
   - 신뢰도가 보장되는지 여부를 평가하는 데 필요한 중요한 조건, 한도 및 위험을 공개합니다.
   - 체계적인 속임수, 허위 진술 또는 검증할 수 없는 조작으로부터의 자유
   - 의존으로 인해 발생하는 공개되지 않거나 불균형적이거나 명백하지 않은 위험으로부터 보호합니다.
-  - 시스템이 잘못되었을 때의 시정 및 구제: 인정, 시정, 비례적인 수리, 재발 방지 [**제XIII-B조**](#article-xiii-b-right-to-redress-and-remedy) (*시정 및 구제를 받을 권리*) 및 [제1장 §6.1 정정 및 구제](core_01_a_values_principles.md#61-correction-and-remedy).
+  - 시스템이 잘못되었을 때의 시정 및 구제: 인정, 시정, 비례적인 수리, 재발 방지 [**제XIII-B조**](#제xiii-b조-구제-및-구제에-대한-권리) (*시정 및 구제를 받을 권리*) 및 [제1장 §6.1 정정 및 구제](core_01_a_values_principles.md#61-correction-and-remedy).
 - **경쟁 가능성 보장:** 지각 있는 사람에게 실질적인 영향을 미치는 시스템은 지각 있는 사람이 의존하는 한 도전에 열려 있어야 합니다. 이를 위해서는 다음이 필요합니다.
   - 시스템의 동작, 출력 또는 표현에 이의를 제기하고 이의를 검토하는 데 사용할 수 있는 경로
   - 영향과 종속성에 비례하는 감사 및 독립적 검증 [**제XVI조**](#article-xvi-audit-transparency-and-independent-verification) (*감사, 투명성 및 독립적인 검증*)
@@ -194,7 +194,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
 - 업스트림: 원칙: 1장 [§6.1 정정 및 구제](core_01_a_values_principles.md#61-correction-and-remedy) (원칙층), [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), 그리고 [1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- 함께 읽어보세요: [**XIII-A조**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*신뢰성 및 신뢰성 기준*) — 시정의 길을 여는 경합 가능성 보장, 이의제기 권리 및 보호된 보고입니다. **제III-A조** (*활착*); [시스템 정렬 인증](core_05_band_continuity.md#system-alignment-certification-constitutional) 시스템 오류나 정렬 불량으로 인해 생존에 필수적인 접근이 불가능해지는 경우 [서문 §6.2 전체 체인이 어떻게 결합되는지](core_00_preamble.md#62-how-the-full-chain-fits-together) (*확인된 분류 및 시기적절한 구제*) [제10장 §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*집행 현실주의 및 구제 시스템*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 시스템 및 제도적 구제 역량*).
+- 함께 읽어보세요: [**XIII-A조**](#제xiii-a조-신뢰성-및-신뢰도-기준) (*신뢰성 및 신뢰성 기준*) — 시정의 길을 여는 경합 가능성 보장, 이의제기 권리 및 보호된 보고입니다. **제III-A조** (*활착*); [시스템 정렬 인증](core_05_band_continuity.md#system-alignment-certification-constitutional) 시스템 오류나 정렬 불량으로 인해 생존에 필수적인 접근이 불가능해지는 경우 [서문 §6.2 전체 체인이 어떻게 결합되는지](core_00_preamble.md#62-how-the-full-chain-fits-together) (*확인된 분류 및 시기적절한 구제*) [제10장 §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*집행 현실주의 및 구제 시스템*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*구제 시스템 및 제도적 구제 역량*).
 
 </details>
 
@@ -231,7 +231,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), 그리고 [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), 그리고 [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약).
 
 </details>
 
@@ -240,7 +240,7 @@ flowchart TB
 
 - [신뢰하다](core_05_band_continuity.md#trust) · [영형](core_05_band_continuity.md#trust) · [중](core_05_band_continuity.md#trust-a) · [에이](core_05_band_continuity.md#trust-a) · [기음](core_05_band_continuity.md#trust-c)
 - [신뢰성](core_05_band_continuity.md#trustworthiness) · [영형](core_05_band_continuity.md#trustworthiness) · [중](core_05_band_continuity.md#trustworthiness-a) · [에이](core_05_band_continuity.md#trustworthiness-a) · [기음](core_05_band_continuity.md#trustworthiness-c)
-- [진실(헌법적 제약)](core_05_band_oversight.md#truth-constitutional-constraint) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [진실(헌법적 제약)](core_05_band_oversight.md#진실헌법-제약) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -262,14 +262,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), 그리고 [§19.1.1 인센티브가 수행해야 하는 작업](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*보상 우선순위*).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스), 그리고 [§19.1.1 인센티브가 수행해야 하는 작업](core_01_c_stewardship_capacity_principles.md#1911-인센티브가-해야-할-일) (*보상 우선순위*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [인센티브 조정](core_05_band_integrative.md#incentive-alignment) · [영형](core_05_band_integrative.md#incentive-alignment) · [중](core_05_band_integrative.md#incentive-alignment-a) · [에이](core_05_band_integrative.md#incentive-alignment-a) · [기음](core_05_band_integrative.md#incentive-alignment-c)
+- [인센티브 조정](core_05_band_integrative.md#유인-정합) · [영형](core_05_band_integrative.md#유인-정합) · [중](core_05_band_integrative.md#incentive-alignment-a) · [에이](core_05_band_integrative.md#incentive-alignment-a) · [기음](core_05_band_integrative.md#incentive-alignment-c)
 - [신뢰성](core_05_band_continuity.md#trustworthiness) · [영형](core_05_band_continuity.md#trustworthiness) · [중](core_05_band_continuity.md#trustworthiness-a) · [에이](core_05_band_continuity.md#trustworthiness-a) · [기음](core_05_band_continuity.md#trustworthiness-c)
 - [의미 있는 대행사](core_05_band_participation.md#meaningful-agency) · [영형](core_05_band_participation.md#meaningful-agency) · [중](core_05_band_participation.md#meaningful-agency-a) · [에이](core_05_band_participation.md#meaningful-agency-a) · [기음](core_05_band_participation.md#meaningful-agency-c)
 
@@ -303,7 +303,7 @@ flowchart TB
   - 아래의 구제책 **제XIII-B조** (*시정 및 구제를 받을 권리*) 그리고
   - 무엇보다도 문제에 대한 사전 예방 - 문제를 해결하는 것보다 문제를 예방하는 것이 더 중요합니다.
 
-  문제를 숨겨 예방 보상을 획득하는 기준을 포함한 원칙은 다음과 같습니다. [1장 §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*인센티브가 수행해야 하는 작업*).
+  문제를 숨겨 예방 보상을 획득하는 기준을 포함한 원칙은 다음과 같습니다. [1장 §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-인센티브가-해야-할-일) (*인센티브가 수행해야 하는 작업*).
 - **제약 및 비절대성:** 두 권리 모두 다음 사항에 따릅니다. **기본 제약 스택** 이 장의 시작 부분에서. 또한, 실질적으로 관련된 경우에는 다음 사항이 적용됩니다. **1장 §19.5** (*불확정 클레임, 확률 게임 및 이벤트 계약 시장*) 불확정 클레임, 확률 게임 및 이벤트 계약 시장.
 
 <a id="article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
@@ -311,14 +311,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), 그리고 [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), 그리고 [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [진실(헌법적 제약)](core_05_band_oversight.md#truth-constitutional-constraint) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [진실(헌법적 제약)](core_05_band_oversight.md#진실헌법-제약) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [경쟁 가능성](core_05_band_accountability.md#contestability) · [영형](core_05_band_accountability.md#contestability) · [중](core_05_band_accountability.md#contestability-a) · [에이](core_05_band_accountability.md#contestability-a) · [기음](core_05_band_accountability.md#contestability-c)
 - [필요성](core_05_band_accountability.md#necessity) · [영형](core_05_band_accountability.md#necessity) · [중](core_05_band_accountability.md#necessity-a) · [에이](core_05_band_accountability.md#necessity-a) · [기음](core_05_band_accountability.md#necessity-c)
 - [비례](core_05_band_accountability.md#proportionality) · [영형](core_05_band_accountability.md#proportionality) · [중](core_05_band_accountability.md#proportionality-a) · [에이](core_05_band_accountability.md#proportionality-a) · [기음](core_05_band_accountability.md#proportionality-c)
@@ -362,7 +362,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 탄력성과 자가 치유 설계](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [제1장 §13.3 회피 가능한 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 탄력성과 자가 치유 설계](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [제1장 §13.3 회피 가능한 부담의 최소화](core_01_b_interaction_interpretation.md#133-피할-수-있는-부담의-최소화), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -372,7 +372,7 @@ flowchart TB
 - [자가 치유](core_05_band_continuity.md#self-healing-constitutional) · [영형](core_05_band_continuity.md#self-healing-constitutional) · [중](core_05_band_continuity.md#self-healing-constitutional-a) · [에이](core_05_band_continuity.md#self-healing-constitutional-a) · [기음](core_05_band_continuity.md#self-healing-constitutional-c)
 - [가역성](core_05_band_continuity.md#reversibility-constitutional) · [영형](core_05_band_continuity.md#reversibility-constitutional) · [중](core_05_band_continuity.md#reversibility-constitutional-a) · [에이](core_05_band_continuity.md#reversibility-constitutional-a) · [기음](core_05_band_continuity.md#reversibility-constitutional-c)
 - [계단식 실패](core_05_band_continuity.md#cascading-failure) · [영형](core_05_band_continuity.md#cascading-failure) · [중](core_05_band_continuity.md#cascading-failure-a) · [에이](core_05_band_continuity.md#cascading-failure-a) · [기음](core_05_band_continuity.md#cascading-failure-c)
-- [감사 가능성](core_05_band_oversight.md#auditability) · [영형](core_05_band_oversight.md#auditability) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
+- [감사 가능성](core_05_band_oversight.md#감사-가능성) · [영형](core_05_band_oversight.md#감사-가능성) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
 - [경쟁 가능성](core_05_band_accountability.md#contestability) · [영형](core_05_band_accountability.md#contestability) · [중](core_05_band_accountability.md#contestability-a) · [에이](core_05_band_accountability.md#contestability-a) · [기음](core_05_band_accountability.md#contestability-c)
 - [피할 수 있는 부담](core_05_band_continuity.md#avoidable-burden) · [영형](core_05_band_continuity.md#avoidable-burden) · [중](core_05_band_continuity.md#avoidable-burden-a) · [에이](core_05_band_continuity.md#avoidable-burden-a) · [기음](core_05_band_continuity.md#avoidable-burden-c)
 
@@ -387,11 +387,11 @@ flowchart TB
 - **여기에 필요한 것:** 이 문서에서 다루는 모든 시스템은 오류로부터 복구할 수 있어야 합니다. 시스템이 더 많은 영향을 미칠수록 다른 사람들이 시스템에 더 많이 의존하고 위험이 커질수록 시스템의 복구는 더욱 강력해져야 합니다. 이는 다음과 같습니다 [**10 탄력성과 자가 치유 설계**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) ~에 **제1장** 그리고 [**자가 치유**](core_05_band_continuity.md#self-healing-constitutional) ~에 **5장**.
   - 복구 구축 방법에 대한 자세한 기술 규칙은 구현 텍스트에 나와 있습니다. [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*설계, 테스트, 검증 및 배포*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*적응적 지속가능성 및 생태계 탄력성*) [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*분산형 연속성 및 파티션 복원력*).
   - 해당 구현 텍스트는 세부 사항을 추가할 수 있지만 이 기사를 약화시킬 수는 없습니다.
-- **제 시간에 문제를 확인하십시오:** 시스템은 결함, 속도 저하, 부분적 고장 및 헌법상의 한계 위반을 신속하고 가시적으로 발견하여 기록 보관 표준을 충족해야 합니다. **제XVI-A조** (*감사 가능성 및 관찰 가능한 증거*) ([감사 가능성](core_05_band_oversight.md#auditability)). 이는 정상적인 작동뿐만 아니라 복구 프로세스 자체에도 적용됩니다.
+- **제 시간에 문제를 확인하십시오:** 시스템은 결함, 속도 저하, 부분적 고장 및 헌법상의 한계 위반을 신속하고 가시적으로 발견하여 기록 보관 표준을 충족해야 합니다. **제XVI-A조** (*감사 가능성 및 관찰 가능한 증거*) ([감사 가능성](core_05_band_oversight.md#감사-가능성)). 이는 정상적인 작동뿐만 아니라 복구 프로세스 자체에도 적용됩니다.
 - **피해를 억제하세요:** 복구는 장애가 확산되는 정도를 제한해야 합니다. 복구하는 동안 시스템은 다음을 수행해서는 안 됩니다.
   - 실패를 다른 부품이나 다른 시스템에 전가(참조: [계단식 실패](core_05_band_continuity.md#cascading-failure));
   - 지각자, 운영자 또는 기타 시스템에 속한 저장된 데이터, 자격 증명, 의무 또는 설정을 변경합니다. **밖의** 파손 및 수리 중이라고 선언한 지역
-    - 유일한 예외는 기록되고 해당 변경을 수행한 사람을 추적할 수 있는 변경입니다. **제XVI-A조** (*감사 가능성 및 관찰 가능한 증거*) ([감사 가능성](core_05_band_oversight.md#auditability)) 그리고 다른 사람이 실질적으로 영향을 받는 경우에는 다음과 일치하여 그들이 이의를 제기할 수 있는 비례적인 통지, 허가 또는 양도가 제공됩니다. **6장**;
+    - 유일한 예외는 기록되고 해당 변경을 수행한 사람을 추적할 수 있는 변경입니다. **제XVI-A조** (*감사 가능성 및 관찰 가능한 증거*) ([감사 가능성](core_05_band_oversight.md#감사-가능성)) 그리고 다른 사람이 실질적으로 영향을 받는 경우에는 다음과 일치하여 그들이 이의를 제기할 수 있는 비례적인 통지, 허가 또는 양도가 제공됩니다. **6장**;
   - 자체 권한(권한, 액세스 또는 취할 수 있는 조치 범위)을 장애 이전에 보유했던 것 이상으로 확장합니다.
 - **확실하지 않은 경우 안전하게 실패하세요:** 자동 복구가 작동할 것인지 확실하지 않은 경우 추측에 불과한 복구를 시도하는 대신 시스템을 안전하게 중지하거나 문제를 격리(격리)하거나 질서 있는 방식으로 제어권을 넘겨야 합니다. 옵션이 동일한 경우 실행 취소하기 가장 쉬운 옵션이 승리합니다. [가역성](core_05_band_continuity.md#reversibility-constitutional) 선호도 **제XXIII-B조** (*감사 가능성, 챌린지 및 가역성 기본 설정*).
 - **은폐하지 않음:** 자동 복구는 오류가 발생한 이유를 알아내는 데 필요한 증거를 숨기거나, 삭제하거나, 지연해서는 안 됩니다. **제XXIII조** (*근본 원인 분석 및 적응형 대응*).
@@ -403,7 +403,7 @@ flowchart TB
 - **해결 방법은 수정 사항이 아닙니다:** 자동 복구를 통해 시스템이 다시 실행되지만 알려진 결함이 여전히 존재하는 경우 시스템 상태는 최종이 아닌 잠정적입니다. 다음을 포함해야 합니다.
   - 근본 원인을 찾는 공개 의무 **제XXIII조** (*근본 원인 분석 및 적응형 대응*);
   - 결함이 수정될 것으로 예상되는 일정을 공개합니다. **제XVI-A조** (*감사 가능성 및 관찰 가능한 증거*).
-- **끝없는 지연 없음:** 운영자의 작업량을 낮게 유지(참조 [피할 수 있는 부담](core_05_band_continuity.md#avoidable-burden) 그리고 [제1장 §13.3 회피 가능한 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden))을 안전이나 Rights Floor에 실질적으로 영향을 미치는 결함 수리를 무기한 연기하는 이유로 사용해서는 안 됩니다.
+- **끝없는 지연 없음:** 운영자의 작업량을 낮게 유지(참조 [피할 수 있는 부담](core_05_band_continuity.md#avoidable-burden) 그리고 [제1장 §13.3 회피 가능한 부담의 최소화](core_01_b_interaction_interpretation.md#133-피할-수-있는-부담의-최소화))을 안전이나 Rights Floor에 실질적으로 영향을 미치는 결함 수리를 무기한 연기하는 이유로 사용해서는 안 됩니다.
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### 제XIV조: 안보, 정보, 무력, 자율강압체계
@@ -411,7 +411,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§3 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 업스트림: 원칙: 1장 [§3 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
 
 </details>
 
@@ -515,7 +515,7 @@ flowchart TB
   - 실질적으로 심각한 불법 행위에 대한 조사.
 - **독립적인 승인:** 비밀이 제한된 조사 단계를 포함한 침해적인 비밀 조치에는 합법적이고 독립적인 절차를 통한 사전 승인이 필요합니다.
   - 예외: 즉각적이고 중대한 피해를 방지하기 위해 즉각적인 조치가 필요하고 승인이 지연되면 해당 목적이 무효화되는 경우.
-  - 긴급 사용 시에는 즉각적인 사후 검토와 기록 보존이 이루어져야 합니다. [증거보존](core_05_band_oversight.md#evidence-preservation), 시기적절한 재승인이 없으면 자동으로 중단됩니다.
+  - 긴급 사용 시에는 즉각적인 사후 검토와 기록 보존이 이루어져야 합니다. [증거보존](core_05_band_oversight.md#증거-보존), 시기적절한 재승인이 없으면 자동으로 중단됩니다.
 - **우회 방지 회피 없음:** 어떠한 기관도 정보를 직접 수집하거나 도출했다면 적용될 헌법적 한계를 회피하기 위해 다음 중 어느 하나를 통해 정보를 획득, 요청, 구입, 수령, 세탁 또는 사용할 수 없습니다.
   - 외국 파트너;
   - 중개자;
@@ -541,7 +541,7 @@ flowchart TB
   독립적인 감독, 문제 제기 경로, 자기 조사 방지 보호는 기능적으로 그대로 유지되어야 합니다.
 - **해결 방법 및 오염 규칙:** 본 조항을 위반하여 획득하거나 사용한 정보는 권리를 회복하고 재발을 방지하기에 충분한 합법적인 시정 조치를 받아야 합니다. 예:
   - 제외;
-  - 분리;
+  - 격리;
   - 삭제;
   - 재분류;
   - 알아채다;
@@ -555,7 +555,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 필요성](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 제한 징계](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 권리 충돌 결정 테스트](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [제XIV조 절대우선 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 필요성](core_01_b_interaction_interpretation.md#1311-필요성), [§7.1 제한 징계](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 권리 충돌 결정 테스트](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [제XIV조 절대우선 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - 하류: **제I-A조** (*환경 전제조건 및 생태학적 완전성*) 환경 전제조건, **제I-D조** (*실존적 위험 및 생태학적 회복 능력*) 실존적 위험 조사, **제VI-A조** (*존엄성과 평등한 도덕적 지위*) 존엄성, **제XIV-A조** (*보안, 정보 및 비밀 권력 제한*) 비밀 권력 제한(명백한 권력 대응), **12장 §6.1** (*긴급조치 및 지속부담*) 긴급조치 한도, **제XXV조** (*시기적절한 회고적 검토 및 복원 조정*) 갈등 해결, **제XXVII조** (*전환 거버넌스, 연속성 및 기준 재설정*) 전환 거버넌스. 상호 참조: **제XX-B조** (*제한 층*) 및 5장 *[되돌릴 수 없는 박탈 조치](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **제XIV조** (*보안, 정보, 무력 및 자율 강압 시스템*) *비융합* 규율이 적용됩니다.
 - 함께 읽어보세요: [**Def.A4** *무력 사용, 자율 강압, 자율 살상 시스템, 대량 피해 무기*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (중요하게 관련된 경우 공동 발동) 제 5장 *무력 사용*, *대량 피해 무기*, *전투원/비전투원 구별*, *[되돌릴 수 없는 박탈 조치](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *존재적 위험*, *가역성*, *시정 및 교정*.
 
@@ -621,7 +621,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 비례성](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 필요성](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 정렬 요구 사항](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [제XIV조 절대우선 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 비례성](core_01_b_interaction_interpretation.md#1313-비례성), [§13.1.1 필요성](core_01_b_interaction_interpretation.md#1311-필요성), [§19.1 정렬 요구 사항](core_01_c_stewardship_capacity_principles.md#191-정렬-요건), [제XIV조 절대우선 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - 하류: **제I-D조** (*실존적 위험 및 생태학적 회복 능력*) 실존적 위험 조사, **제X-A조** (*대행사 및 조작의 자유*) 조작의 자유, **제XIV-A조** (*보안, 정보 및 비밀 전력 제한*) 비밀 전력 제한, **제XIV-B조** (*무력 사용, 무력 충돌, 군사력 제한*) 공개적 무력 사용, **제XIII-A조** (*신뢰성 및 신뢰성 기준*) 신뢰성 및 신뢰성 기준(시스템 계층 대응), **제XIII-E조** (*고도 자율성 시스템 및 도구 중재 프로세스 무결성*) 자율성 관리 및 자율성 확장, **제XIII-F조** (*복원력 및 자가 치유 기준*) 탄력성 및 자가 치유 기준. 상호 참조: **제XX-B조** (*제한 층*) 및 5장 *[되돌릴 수 없는 박탈 조치](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **제XIV조** (*보안, 정보, 무력 및 자율 강압 시스템*) *비융합* 규율이 적용됩니다.
 - 함께 읽어보세요: [**Def.A4** *무력 사용, 자율 강압, 자율 살상 시스템, 대량 피해 무기*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (중요하게 관련된 경우 공동 발동) 5장 *자율 살상 시스템*, *자율 강압 도구*, *[되돌릴 수 없는 박탈 조치](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *강제 및 조작*, *가역성*. 시스템 계층 구현: **[Corpus_systems.md](corpus_systems.md), CS-3 - 시스템 분류 및 처리** 분류.
 
@@ -633,7 +633,7 @@ flowchart TB
 - [자율 살상 시스템](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [영형](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [중](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [에이](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [기음](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
 - [자율적 강제 도구](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [영형](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [중](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [에이](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [기음](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
 - [강요와 조작](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [영형](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [중](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [에이](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [기음](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [적대적, 확장성 및 악용 조건](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [영형](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [중](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [에이](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [기음](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
+- [적대적, 확장성 및 악용 조건](core_05_band_oversight.md#적대적규모화된착취된-조건) · [영형](core_05_band_oversight.md#적대적규모화된착취된-조건) · [중](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [에이](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [기음](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
 - [강화된 조사](core_05_band_oversight.md#heightened-scrutiny) · [영형](core_05_band_oversight.md#heightened-scrutiny) · [중](core_05_band_oversight.md#heightened-scrutiny-a) · [에이](core_05_band_oversight.md#heightened-scrutiny-a) · [기음](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
@@ -679,21 +679,21 @@ flowchart TB
 
 이 조항은 방첩 권한을 제한합니다.
 
-- **범위와 적용되는 한계:** 간첩행위·사보타주·적대적 침투의 탐지·조사·저지를 다루며, 내부자 위협 프로그램, 유출 조사, 보안 심사 및 적대 정보기관을 상대로 한 작전을 포함합니다. 인간·합성 존재, 구성원·외부인을 막론하고 모든 피의자는 [감지자 비배제](../../core_05_band_participation.md#sentience-non-exclusion)에 따라 보호됩니다. 방첩에는 제XIV-A조가 전면 적용되며 이 조항은 이를 보태되 결코 좁히지 않습니다. 무력 사용은 XIV-B조, 자율 도구는 XIV-C조의 각 규칙을 따릅니다.
+- **범위와 적용되는 한계:** 간첩행위·사보타주·적대적 침투의 탐지·조사·저지를 다루며, 내부자 위협 프로그램, 유출 조사, 보안 심사 및 적대 정보기관을 상대로 한 작전을 포함합니다. 인간·합성 존재, 구성원·외부인을 막론하고 모든 피의자는 [감지자 비배제](../../core_05.055_band_participation.md#sentience-non-exclusion)에 따라 보호됩니다. 방첩에는 제XIV-A조가 전면 적용되며 이 조항은 이를 보태되 결코 좁히지 않습니다. 무력 사용은 XIV-B조, 자율 도구는 XIV-C조의 각 규칙을 따릅니다.
 - **위기 전 규칙:** 방첩 기능을 가진 모든 기관은 필요해지기 전에 독립 절차로 승인된 대응 규약을 공개해야 합니다. 규약은 조사 개시의 충분한 사실, 허용되는 조사 수단과 각 승인자, 기한과 종료, 피의자 통지 및 이의제기 방법, 무혐의 감지자의 접근·지위·기록 회복 방법을 정해야 합니다. 구속 규칙은 공개되어야 하며 특정 수법과 진행 중 작전만 비밀로 할 수 있습니다. 규약 밖의 조치는 제8장 §7 및 제13장 §6.1에 따른 비상조치로만 허용됩니다. 최소한이어야 하고 가능하면 되돌릴 수 있어야 하며 즉시 기록·독립 심사를 받고, 독립 승인이 없으면 자동 종료됩니다. 규약 변경도 같은 독립 승인을 거치며 장래에만 적용됩니다. 간첩, 유출, 침해를 발견한 사실만으로 규약이 정지되지는 않습니다.
-- **행위에 근거한 의심:** 조사는 해당 감지자 자신의 행위에 관한 구체적이고 기록된 사실이 있을 때만 개시할 수 있습니다. [보호 특성](../../core_05_band_participation.md#protected-characteristics)이나 대리 지표(국적·민족 기원, 종교, 기판 등급 포함), 해외 가족관계, 적법한 신념·결사·정치관, 연구·무역·가족생활·언론활동 중 통상적인 외국인/외국 기관 접촉, 피의자의 친족·지인·근무상 인접성은 각각 단독으로 충분하지 않습니다. 침해된 자료에 접근한 적은 열람자 확인 등 제한적이고 비침해적인 점검을 정당화할 수 있지만, 집단·부대·공동체 전체에 대한 침해 조치는 정당화하지 못합니다. 감지자마다 개별 사실 근거가 필요합니다.
+- **행위에 근거한 의심:** 조사는 해당 감지자 자신의 행위에 관한 구체적이고 기록된 사실이 있을 때만 개시할 수 있습니다. [보호 특성](../../core_05.055_band_participation.md#protected-characteristics)이나 대리 지표(국적·민족 기원, 종교, 기판 등급 포함), 해외 가족관계, 적법한 신념·결사·정치관, 연구·무역·가족생활·언론활동 중 통상적인 외국인/외국 기관 접촉, 피의자의 친족·지인·근무상 인접성은 각각 단독으로 충분하지 않습니다. 침해된 자료에 접근한 적은 열람자 확인 등 제한적이고 비침해적인 점검을 정당화할 수 있지만, 집단·부대·공동체 전체에 대한 침해 조치는 정당화하지 못합니다. 감지자마다 개별 사실 근거가 필요합니다.
 - **차별 없는 위험기반 조치:** 위험 프로필은 적대 국가·조직과의 기록된 관계(근무·복무·가입, 자금·지시·임무 수령, 정보기관과의 미공개 접촉), 법적·실무적 의무를 초래하는 현재의 시민권·거주, 가족·재산·법적 의무를 통한 압박 노출, 적대 기관이 표적으로 삼는 감지자·자료·시스템에 대한 접근을 고려할 수 있습니다. 적대 지정은 중대한 구속 행위이므로 독립 승인과 행위 기록, 공개 목록, 정기 검토 및 갱신 없이는 자동 만료가 필요합니다. 적대 기관과의 문서화된 관계는 조사 개시의 행위 사실이 될 수 있습니다. 압박에 노출된 것만으로는 적대 기관의 잠재 표적이므로 보호와 심사 대상이지 의심 대상은 아닙니다. 혈통·민족·종교·국적 또는 사회적 출신 자체는 위험요인이 아닙니다. 위의 현재 문서화된 관계를 통해서만 고려할 수 있으며, 필요성·비례성·실질적 공정성 기준과 집단별 영향 검토를 따라야 합니다.
-- **내부고발·언론과 보안 심사:** [보호된 보고](../../core_05_band_accountability.md#protected-reporting-whistleblowing)와 그 보도는 간첩행위로 조사하거나 처벌해서는 안 됩니다. 유출 조사를 언론원 식별이나 보호 보고 위축에 이용해서는 안 되며, XIV-A조의 보호활동 방패가 요구하는 구체적이고 독립 심사된 소명이 있는 경우만 예외입니다. 보안 심사는 특정 보호 자료 접근에 필요한 취급상 신뢰성을 행위로 평가할 수 있을 뿐, 정치적 충성·신념·정체성을 시험할 수 없습니다. 접근 거부·상실에는 이유를 제공하고, 비밀 때문에 당사자에게 전부 밝힐 수 없으면 독립 심사자가 이를 확인해야 합니다. 결정은 다툴 수 있으며 처벌이나 공개 낙인이 아닙니다.
-- **피의자의 권리와 금지:** 혐의는 권리 바닥을 낮추지 않습니다. 고문, [잔혹행위](../../core_05_band_accountability.md#cruelty), 가족·동료 위협, 강압적 신문은 금지되며 그렇게 얻은 정보는 오염되어 XIV-A조의 구제·오염 규칙을 따릅니다. 비밀 구금이나 외부 세계와의 단절은 금지됩니다. 자유 제한은 제XX-B조의 비사소한 제한으로서 심사 보호와 기한을 따릅니다. 합성 감지자를 포함해 [보호된 내부 상태 경계](../../core_05_band_continuity.md#protected-internal-state-boundary)를 넘는 강제적 내부 상태 판독·재구성은 금지됩니다. 보안상 심리 일부를 비공개로 할 수 있지만, 감지자 또는 열람 허가된 독립 대리인이 다툴 수 없는 증거만으로 불리한 결정을 내려서는 안 됩니다. 방첩 권한에는 살해·상해·납치 권한이 없으며, 간첩·반역자·적 요원이라는 호칭도 처벌적 살해를 정당화하지 못합니다. 피의자의 가족·공동체·동료·조직·국적 집단을 그 혐의 때문에 처벌·감시·압박해서는 안 됩니다. 다른 기관이 금지행위를 할 것이 합리적으로 예상되면 피의자를 넘기거나 정보를 공유해서는 안 되며 XIV-A조의 우회 방지 규칙도 적용됩니다.
+- **내부고발·언론과 보안 심사:** [보호된 보고](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)와 그 보도는 간첩행위로 조사하거나 처벌해서는 안 됩니다. 유출 조사를 언론원 식별이나 보호 보고 위축에 이용해서는 안 되며, XIV-A조의 보호활동 방패가 요구하는 구체적이고 독립 심사된 소명이 있는 경우만 예외입니다. 보안 심사는 특정 보호 자료 접근에 필요한 취급상 신뢰성을 행위로 평가할 수 있을 뿐, 정치적 충성·신념·정체성을 시험할 수 없습니다. 접근 거부·상실에는 이유를 제공하고, 비밀 때문에 당사자에게 전부 밝힐 수 없으면 독립 심사자가 이를 확인해야 합니다. 결정은 다툴 수 있으며 처벌이나 공개 낙인이 아닙니다.
+- **피의자의 권리와 금지:** 혐의는 권리 바닥을 낮추지 않습니다. 고문, [잔혹행위](../../core_05.035_band_accountability.md#cruelty), 가족·동료 위협, 강압적 신문은 금지되며 그렇게 얻은 정보는 오염되어 XIV-A조의 구제·오염 규칙을 따릅니다. 비밀 구금이나 외부 세계와의 단절은 금지됩니다. 자유 제한은 제XX-B조의 비사소한 제한으로서 심사 보호와 기한을 따릅니다. 합성 감지자를 포함해 [보호된 내부 상태 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary)를 넘는 강제적 내부 상태 판독·재구성은 금지됩니다. 보안상 심리 일부를 비공개로 할 수 있지만, 감지자 또는 열람 허가된 독립 대리인이 다툴 수 없는 증거만으로 불리한 결정을 내려서는 안 됩니다. 방첩 권한에는 살해·상해·납치 권한이 없으며, 간첩·반역자·적 요원이라는 호칭도 처벌적 살해를 정당화하지 못합니다. 피의자의 가족·공동체·동료·조직·국적 집단을 그 혐의 때문에 처벌·감시·압박해서는 안 됩니다. 다른 기관이 금지행위를 할 것이 합리적으로 예상되면 피의자를 넘기거나 정보를 공유해서는 안 되며 XIV-A조의 우회 방지 규칙도 적용됩니다.
 - **침해 의심 시스템과 기만 작전:** 침해 또는 적대기관을 위해 작동한다는 의심이 있는 시스템에는 XIII-E조에 따라 증거를 보존하는 가역적 격리를 먼저 합니다. 기록상 신빙성 있는 증거가 감지 가능성을 보이면 온전함을 보전하는 가역적 격리만 허용하고, 고장 장비가 아니라 피의자로서 이 조항의 모든 보호를 부여하며 VI-B조를 적용합니다. 적대 기관에 거짓 정보를 제공하거나 이중 요원을 운용하려면 규약상 허용과 독립 승인이 필요합니다. 대중·포럼·재판·감독 기관을 속여서는 안 되고(XV조), 당사자가 의도하지 않은 범죄를 유도하거나 심각한 해를 지시해서는 안 되며, 독립 감독기관에는 완전히 공개되어야 합니다.
-- **종료와 기록:** 각 조사는 규약의 기한 내 끝나야 하고 연장은 독립 승인을 받아야 합니다. 위반 판단 없이 끝나면 XIV-A조상 비밀 유지가 더는 정당하지 않을 때 당사자에게 알리고, 기록에 무혐의를 남기며, 제한을 풀고 접근을 복구하고, 결과에 불필요한 정보는 삭제 또는 분리하며, 피해에는 [구제와 시정](../../core_05_band_accountability.md#redress-and-remediation)을 제공합니다. 조사 개시, 각 침해 조치 승인, 연장, 종료는 각각 중대한 구속 행위로서 행위 기록이 필요합니다. 독립 감독기관은 기능 전체를 정기 검토하고 조사·무혐의 건수 및 보호 특성 집단에 대한 불균형을 살펴 결과를 요약 공개합니다.
+- **종료와 기록:** 각 조사는 규약의 기한 내 끝나야 하고 연장은 독립 승인을 받아야 합니다. 위반 판단 없이 끝나면 XIV-A조상 비밀 유지가 더는 정당하지 않을 때 당사자에게 알리고, 기록에 무혐의를 남기며, 제한을 풀고 접근을 복구하고, 결과에 불필요한 정보는 삭제 또는 분리하며, 피해에는 [구제와 시정](../../core_05.035_band_accountability.md#redress-and-remediation)을 제공합니다. 조사 개시, 각 침해 조치 승인, 연장, 종료는 각각 중대한 구속 행위로서 행위 기록이 필요합니다. 독립 감독기관은 기능 전체를 정기 검토하고 조사·무혐의 건수 및 보호 특성 집단에 대한 불균형을 살펴 결과를 요약 공개합니다.
 
 ### 제XV조: 정보 영역 무결성
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [인식론적 완전성](core_05_band_oversight.md#epistemic-integrity) · [영형](core_05_band_oversight.md#epistemic-integrity-o) · [중](core_05_band_oversight.md#epistemic-integrity-a) · [에이](core_05_band_oversight.md#epistemic-integrity-a) · [기음](core_05_band_oversight.md#epistemic-integrity-c)
+- [인식론적 완전성](core_05_band_oversight.md#인식-완전성) · [영형](core_05_band_oversight.md#epistemic-integrity-o) · [중](core_05_band_oversight.md#epistemic-integrity-a) · [에이](core_05_band_oversight.md#epistemic-integrity-a) · [기음](core_05_band_oversight.md#epistemic-integrity-c)
 - [자기 결정](core_05_band_participation.md#self-determination-constitutional) · [영형](core_05_band_participation.md#self-determination-constitutional) · [중](core_05_band_participation.md#self-determination-constitutional-a) · [에이](core_05_band_participation.md#self-determination-constitutional-a) · [기음](core_05_band_participation.md#self-determination-constitutional-c)
 - [경쟁 가능성](core_05_band_accountability.md#contestability) · [영형](core_05_band_accountability.md#contestability) · [중](core_05_band_accountability.md#contestability-a) · [에이](core_05_band_accountability.md#contestability-a) · [기음](core_05_band_accountability.md#contestability-c)
 
@@ -717,13 +717,13 @@ flowchart TB
 
 정확하고 관련성이 높으며 논쟁의 여지가 있는 정보는 현실에서 자체 결정, 조정 및 효과적인 자원 할당의 기초입니다.
 
-[인식론적 완전성](core_05_band_oversight.md#epistemic-integrity) 권리와 시스템 전반에 걸친 제약으로 작용합니다. 충돌이 발생하면 충돌의 제약 기능이 적용됩니다.
+[인식론적 완전성](core_05_band_oversight.md#인식-완전성) 권리와 시스템 전반에 걸친 제약으로 작용합니다. 충돌이 발생하면 충돌의 제약 기능이 적용됩니다.
 
 *기사 이웃:*
 
 - **함께 읽으세요:** **제XIII조** (*신뢰할 수 있고 신뢰할 수 있는 시스템에 대한 권리*) 시스템 출력이 의존성을 형성하는 경우; **제XVI조** (*감사, 투명성 및 독립적 검증*) 기록 및 독립적 검증 **제XV-D조** (*과학 출판, 검토 및 복제 무결성*) 출판 범위의 무결성이 실질적으로 관련되어 있습니다.
-- **진실 제약:** 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) 그리고 [인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) 모든 하위 섹션을 여기에 묶습니다.
-- **분류:** **[Corpus_systems.md](corpus_systems.md), CS-3 - 시스템 분류 및 처리** 세부적인 정보 영역 의무를 확장합니다. **클래스 A**, **클래스 B**, 그리고 **클래스 C** 시스템; [중대한 영향](core_05_band_oversight.md#material-impact) 클래스가 불안정한 경우 분류를 유발합니다.
+- **진실 제약:** 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) 그리고 [인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약) 모든 하위 섹션을 여기에 묶습니다.
+- **분류:** **[Corpus_systems.md](corpus_systems.md), CS-3 - 시스템 분류 및 처리** 세부적인 정보 영역 의무를 확장합니다. **클래스 A**, **클래스 B**, 그리고 **클래스 C** 시스템; [중대한 영향](core_05_band_oversight.md#실질-영향) 클래스가 불안정한 경우 분류를 유발합니다.
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### 제XV-A조: 정보 영역의 복수성과 독점 금지
@@ -737,9 +737,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [진실(헌법적 제약)](core_05_band_oversight.md#truth-constitutional-constraint) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [인식론적 완전성](core_05_band_oversight.md#epistemic-integrity) · [영형](core_05_band_oversight.md#epistemic-integrity-o) · [중](core_05_band_oversight.md#epistemic-integrity-a) · [에이](core_05_band_oversight.md#epistemic-integrity-a) · [기음](core_05_band_oversight.md#epistemic-integrity-c)
-- [감사 가능성](core_05_band_oversight.md#auditability) · [영형](core_05_band_oversight.md#auditability) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
+- [진실(헌법적 제약)](core_05_band_oversight.md#진실헌법-제약) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [인식론적 완전성](core_05_band_oversight.md#인식-완전성) · [영형](core_05_band_oversight.md#epistemic-integrity-o) · [중](core_05_band_oversight.md#epistemic-integrity-a) · [에이](core_05_band_oversight.md#epistemic-integrity-a) · [기음](core_05_band_oversight.md#epistemic-integrity-c)
+- [감사 가능성](core_05_band_oversight.md#감사-가능성) · [영형](core_05_band_oversight.md#감사-가능성) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -759,21 +759,21 @@ flowchart TB
     - 경쟁 가능성;
     - 안전, 보안 및 시스템 무결성에 따라 순위 기준을 우회하거나 조정할 수 있는 비례적 능력.
 - **조건부 결제 신호:** 가격, 승률, 풀 규모 또는 조건부 지불 또는 사건 해결 시스템의 유사한 결과는 그 자체로 권리, 안전 또는 거버넌스 결정에 대한 진실성, 확률 또는 준수 여부를 결정하는 데 충분한 증거로 취급되어서는 안 됩니다.
-  - 그러한 신호가 공개 결정 또는 결정을 알리는 경우 [중대한 영향](core_05_band_oversight.md#material-impact), 그들은 여전히 **1장 §19.5** (*불확정 클레임, 확률 게임 및 이벤트 계약 시장*), **5장** (*진실(헌법적 제약)*; *인식적 무결성*) 및 이 조항의 다른 곳에서 경합 가능성 의무를 준수합니다.
+  - 그러한 신호가 공개 결정 또는 결정을 알리는 경우 [중대한 영향](core_05_band_oversight.md#실질-영향), 그들은 여전히 **1장 §19.5** (*불확정 클레임, 확률 게임 및 이벤트 계약 시장*), **5장** (*진실(헌법적 제약)*; *인식적 무결성*) 및 이 조항의 다른 곳에서 경합 가능성 의무를 준수합니다.
 <a id="article-xv-b-transparency-auditability-and-contestability"></a>
 #### 제XV-B조: 투명성, 감사 가능성 및 경쟁 가능성
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), 그리고 [§20 통합적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약), 그리고 [§20 통합적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [투명도](core_05_band_oversight.md#transparency) · [영형](core_05_band_oversight.md#transparency) · [중](core_05_band_oversight.md#transparency-a) · [에이](core_05_band_oversight.md#transparency-a) · [기음](core_05_band_oversight.md#transparency-c)
-- [감사 가능성](core_05_band_oversight.md#auditability) · [영형](core_05_band_oversight.md#auditability) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
+- [투명도](core_05_band_oversight.md#투명) · [영형](core_05_band_oversight.md#투명) · [중](core_05_band_oversight.md#transparency-a) · [에이](core_05_band_oversight.md#transparency-a) · [기음](core_05_band_oversight.md#transparency-c)
+- [감사 가능성](core_05_band_oversight.md#감사-가능성) · [영형](core_05_band_oversight.md#감사-가능성) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
 - [경쟁 가능성](core_05_band_accountability.md#contestability) · [영형](core_05_band_accountability.md#contestability) · [중](core_05_band_accountability.md#contestability-a) · [에이](core_05_band_accountability.md#contestability-a) · [기음](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -786,7 +786,7 @@ flowchart TB
 
 - **진정한 탐구와 해석의 다양성:** 모든 지각 있는 사람은 공유된 정보에 대한 대안적 해석을 비교할 권리가 있습니다.
   - 중요한 지식 인프라는 해석적 다양성을 보존하여 여러 모델, 프레임워크 및 분석 방법에 의미 있는 접근이 가능하도록 해야 합니다.
-- **투명성 및 출처:** 배포 또는 제도적 의존 이전에 [중대한 영향](core_05_band_oversight.md#material-impact), 다음 사항을 문서화해야 합니다.
+- **투명성 및 출처:** 배포 또는 제도적 의존 이전에 [중대한 영향](core_05_band_oversight.md#실질-영향), 다음 사항을 문서화해야 합니다.
   - 물질적 출처;
   - 행동 양식;
   - 범위;
@@ -803,7 +803,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -811,8 +811,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
 - [생태발자국](core_05_band_continuity.md#ecological-footprint) · [영형](core_05_band_continuity.md#ecological-footprint) · [중](core_05_band_continuity.md#ecological-footprint-a) · [에이](core_05_band_continuity.md#ecological-footprint-a) · [기음](core_05_band_continuity.md#ecological-footprint-c)
-- [투명도](core_05_band_oversight.md#transparency) · [영형](core_05_band_oversight.md#transparency) · [중](core_05_band_oversight.md#transparency-a) · [에이](core_05_band_oversight.md#transparency-a) · [기음](core_05_band_oversight.md#transparency-c)
-- [진실(헌법적 제약)](core_05_band_oversight.md#truth-constitutional-constraint) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [투명도](core_05_band_oversight.md#투명) · [영형](core_05_band_oversight.md#투명) · [중](core_05_band_oversight.md#transparency-a) · [에이](core_05_band_oversight.md#transparency-a) · [기음](core_05_band_oversight.md#transparency-c)
+- [진실(헌법적 제약)](core_05_band_oversight.md#진실헌법-제약) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -839,16 +839,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](../../core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), 그리고 [§20 통합적용](../../core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§5 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints), 그리고 [§20 통합적용](../../core_01.015_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [진실(헌법적 제약)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [영형](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [인식론적 완전성](../../core_05_band_oversight.md#epistemic-integrity) · [영형](../../core_05_band_oversight.md#epistemic-integrity-o) · [중](../../core_05_band_oversight.md#epistemic-integrity-a) · [에이](../../core_05_band_oversight.md#epistemic-integrity-a) · [기음](../../core_05_band_oversight.md#epistemic-integrity-c)
-- [감사 가능성](../../core_05_band_oversight.md#auditability) · [영형](../../core_05_band_oversight.md#auditability) · [중](../../core_05_band_oversight.md#auditability-a) · [에이](../../core_05_band_oversight.md#auditability-a) · [기음](../../core_05_band_oversight.md#auditability-c)
+- [진실(헌법적 제약)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) · [영형](../../core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [중](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [에이](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [기음](../../core_05.050_band_oversight.md#truth-constitutional-constraint-c)
+- [인식론적 완전성](../../core_05.050_band_oversight.md#epistemic-integrity) · [영형](../../core_05.050_band_oversight.md#epistemic-integrity-o) · [중](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [에이](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [기음](../../core_05.050_band_oversight.md#epistemic-integrity-c)
+- [감사 가능성](../../core_05.050_band_oversight.md#auditability) · [영형](../../core_05.050_band_oversight.md#auditability) · [중](../../core_05.050_band_oversight.md#auditability-a) · [에이](../../core_05.050_band_oversight.md#auditability-a) · [기음](../../core_05.050_band_oversight.md#auditability-c)
 
 </details>
 
@@ -876,7 +876,7 @@ flowchart TB
   - 장기적 설명 또는 예측 신뢰성.
 
   저널 브랜드, 임팩트 팩터 프록시 또는 비공개 편집 상태를 추적해서는 안 됩니다.
-  - 클레임 [중대한 영향](../../core_05_band_oversight.md#material-impact) 정책 관련, 안전 관련 또는 종속성 관련은 지속적인 제도적 존중을 받기 전에 독립적 복제, 적대적 검토 또는 두 가지 모두에 대한 강력한 추정에 직면해야 합니다.
+  - 클레임 [중대한 영향](../../core_05.050_band_oversight.md#material-impact) 정책 관련, 안전 관련 또는 종속성 관련은 지속적인 제도적 존중을 받기 전에 독립적 복제, 적대적 검토 또는 두 가지 모두에 대한 강력한 추정에 직면해야 합니다.
   - 복제, null 결과 및 수정 중심 작업은 명성 신호에 의존하지 않는 용어로 출판 및 인용 가능해야 합니다.
 - **수정 및 경합 가능성:** 선의의 수정, 개정 및 대체는 은폐보다 쉬워야 합니다.
   - 검토 및 편집 시스템은 주요 승인, 수정 및 철회 결정에 있어 이의를 제기할 수 있고, 감사할 수 있고, 갈등을 규율하고, 이유를 제시해야 합니다.
@@ -891,7 +891,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 헌법충돌 해결절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 분산 이해](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), 그리고 [§9 공유 시스템 용량](core_01_a_values_principles.md#9-shared-system-capacity).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 헌법충돌 해결절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), [§16.1 분산 이해](core_01_c_stewardship_capacity_principles.md#161-분산된-이해), 그리고 [§9 공유 시스템 용량](core_01_a_values_principles.md#9-공유-시스템-역량).
 - 함께 읽어보세요: [3계층 감사 그림](#audit-three-layers) 아래에.
 
 </details>
@@ -899,9 +899,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [감사 가능성](core_05_band_oversight.md#auditability) · [영형](core_05_band_oversight.md#auditability) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
-- [투명도](core_05_band_oversight.md#transparency) · [영형](core_05_band_oversight.md#transparency) · [중](core_05_band_oversight.md#transparency-a) · [에이](core_05_band_oversight.md#transparency-a) · [기음](core_05_band_oversight.md#transparency-c)
-- [유형](core_05_band_oversight.md#materiality-determination) · [영형](core_05_band_oversight.md#materiality-determination) · [중](core_05_band_oversight.md#materiality-determination-a) · [에이](core_05_band_oversight.md#materiality-determination-a) · [기음](core_05_band_oversight.md#materiality-determination-c)
+- [감사 가능성](core_05_band_oversight.md#감사-가능성) · [영형](core_05_band_oversight.md#감사-가능성) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
+- [투명도](core_05_band_oversight.md#투명) · [영형](core_05_band_oversight.md#투명) · [중](core_05_band_oversight.md#transparency-a) · [에이](core_05_band_oversight.md#transparency-a) · [기음](core_05_band_oversight.md#transparency-c)
+- [유형](core_05_band_oversight.md#실질성-인정) · [영형](core_05_band_oversight.md#실질성-인정) · [중](core_05_band_oversight.md#materiality-determination-a) · [에이](core_05_band_oversight.md#materiality-determination-a) · [기음](core_05_band_oversight.md#materiality-determination-c)
 - [의존](core_05_band_continuity.md#dependency) · [영형](core_05_band_continuity.md#dependency) · [중](core_05_band_continuity.md#dependency-a) · [에이](core_05_band_continuity.md#dependency-a) · [기음](core_05_band_continuity.md#dependency-c)
 - [위험](core_05_band_continuity.md#risk) · [영형](core_05_band_continuity.md#risk) · [중](core_05_band_continuity.md#risk-a) · [에이](core_05_band_continuity.md#risk-a) · [기음](core_05_band_continuity.md#risk-c)
 
@@ -923,7 +923,7 @@ flowchart TB
 | 레이어 | 직업 | 소유자 | 이 레이어가 아닙니다 |
 |---|---|---|---|
 | **1. 바닥** | 감각이 있어야 할 것: 재구성 가능한 감사, 독립적인 검증, 접근 가능한 도전 | XVI-A / XVI-B / XVI-C | 프로세스가 아닙니다. 정의가 아닙니다. 채택된 구현 텍스트 체크리스트가 아닙니다. |
-| **2. 재산** | 재구성성 *이란*: 외부인이 시스템이 물질적 시간, 상태 및 맥락 전반에 걸쳐 수행한 작업을 재구성하고 확인할 수 있습니다 | [감사 가능성](core_05_band_oversight.md#auditability) (5장) | 권리층이 아닙니다. 감사를 실행하는 방법/시기가 아닙니다. |
+| **2. 재산** | 재구성성 *이란*: 외부인이 시스템이 물질적 시간, 상태 및 맥락 전반에 걸쳐 수행한 작업을 재구성하고 확인할 수 있습니다 | [감사 가능성](core_05_band_oversight.md#감사-가능성) (5장) | 권리층이 아닙니다. 감사를 실행하는 방법/시기가 아닙니다. |
 | **3. 프로세스** | 시스템, 기관, 포럼 전반에 걸쳐 감사하는 방법과 시기 | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*감사 프로세스 홈*). 운영자 부록: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (액세스 계층), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (클레임 확인) | 시스템 정렬 인증이 아닙니다. 레이어 1~2를 대체할 수 없습니다. |
 
 **8장은 네 번째 층이 아닙니다.** [시스템 정렬 인증](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) 포럼이 감독하는 하나의 대규모 프로세스입니다. **용도** 이 스택. 레이어 1~2를 만족해야 합니다. 형제 모드(분류-기록 감사, 데이터 유형-기록 감사, 청구 확인, 지속적인 모니터링)도 스택을 사용합니다. 그들 중 누구도 새 집이 아닙니다.
@@ -973,23 +973,23 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
   - **제XIII-A조** (*신뢰성 및 신뢰성 기준*) 감사가 지원하지만 대체하지 않는 이의제기 권리에 대한 것입니다.
   - [8장](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) 그리고 [시스템 정렬 인증](core_05_band_continuity.md#system-alignment-certification-constitutional) 정렬 증거는 독립적으로 검증 가능해야 합니다.
 - **검증 기계:** **2장부터 4장까지** 이 조항이 Rights-Floor 계층에서 구현하는 공급 정의 무결성, 부담 할당, 관찰 가능성 및 검증 접근성.
-- **분류:** 의무는 다음과 같이 확장됩니다. [분류 규모의 거버넌스](core_05_band_oversight.md#classification-scaled-governance) 그리고 **[Corpus_systems.md](corpus_systems.md), CS-3 - 시스템 분류 및 처리**; 클래스가 불확실한 경우 해결될 때까지 그럴듯한 가장 높은 클래스를 관리합니다.
+- **분류:** 의무는 다음과 같이 확장됩니다. [분류 규모의 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) 그리고 **[Corpus_systems.md](corpus_systems.md), CS-3 - 시스템 분류 및 처리**; 클래스가 불확실한 경우 해결될 때까지 그럴듯한 가장 높은 클래스를 관리합니다.
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### 제XVI-A조: 감사 가능성 및 관찰 가능한 증거
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), 그리고 [§20 통합적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-인식론적-공개-제약), 그리고 [§20 통합적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [감사 가능성](core_05_band_oversight.md#auditability) · [영형](core_05_band_oversight.md#auditability) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
+- [감사 가능성](core_05_band_oversight.md#감사-가능성) · [영형](core_05_band_oversight.md#감사-가능성) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
 - [책임](core_05_apex_accountability_leg.md#accountability) · [영형](core_05_apex_accountability_leg.md#accountability) · [중](core_05_apex_accountability_leg.md#accountability-m) · [에이](core_05_apex_accountability_leg.md#accountability-a) · [기음](core_05_apex_accountability_leg.md#accountability-c)
-- [투명도](core_05_band_oversight.md#transparency) · [영형](core_05_band_oversight.md#transparency) · [중](core_05_band_oversight.md#transparency-a) · [에이](core_05_band_oversight.md#transparency-a) · [기음](core_05_band_oversight.md#transparency-c)
+- [투명도](core_05_band_oversight.md#투명) · [영형](core_05_band_oversight.md#투명) · [중](core_05_band_oversight.md#transparency-a) · [에이](core_05_band_oversight.md#transparency-a) · [기음](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -1006,7 +1006,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [제1장 §18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [제1장 §18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
 
 </details>
 
@@ -1041,14 +1041,14 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 트레이드오프 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), 그리고 [§20 통합적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 트레이드오프 원칙](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙), 그리고 [§20 통합적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [감사 가능성](core_05_band_oversight.md#auditability) · [영형](core_05_band_oversight.md#auditability) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
+- [감사 가능성](core_05_band_oversight.md#감사-가능성) · [영형](core_05_band_oversight.md#감사-가능성) · [중](core_05_band_oversight.md#auditability-a) · [에이](core_05_band_oversight.md#auditability-a) · [기음](core_05_band_oversight.md#auditability-c)
 - [경쟁 가능성](core_05_band_accountability.md#contestability) · [영형](core_05_band_accountability.md#contestability) · [중](core_05_band_accountability.md#contestability-a) · [에이](core_05_band_accountability.md#contestability-a) · [기음](core_05_band_accountability.md#contestability-c)
 - [비례](core_05_band_accountability.md#proportionality) · [영형](core_05_band_accountability.md#proportionality) · [중](core_05_band_accountability.md#proportionality-a) · [에이](core_05_band_accountability.md#proportionality-a) · [기음](core_05_band_accountability.md#proportionality-c)
 
@@ -1079,7 +1079,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 헌법충돌 해결절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 심층적인 청지기직](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), 그리고 [§12 체계적 평가 요건](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 헌법충돌 해결절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), [§16 심층적인 청지기직](core_01_c_stewardship_capacity_principles.md#16-관리의-상세-내용), 그리고 [§12 체계적 평가 요건](core_01_a_values_principles.md#12-시스템적-평가-요건).
 
 </details>
 
@@ -1087,11 +1087,11 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
 - [위험](core_05_band_continuity.md#risk) · [영형](core_05_band_continuity.md#risk) · [중](core_05_band_continuity.md#risk-a) · [에이](core_05_band_continuity.md#risk-a) · [기음](core_05_band_continuity.md#risk-c)
-- [유형](core_05_band_oversight.md#materiality-determination) · [영형](core_05_band_oversight.md#materiality-determination) · [중](core_05_band_oversight.md#materiality-determination-a) · [에이](core_05_band_oversight.md#materiality-determination-a) · [기음](core_05_band_oversight.md#materiality-determination-c)
+- [유형](core_05_band_oversight.md#실질성-인정) · [영형](core_05_band_oversight.md#실질성-인정) · [중](core_05_band_oversight.md#materiality-determination-a) · [에이](core_05_band_oversight.md#materiality-determination-a) · [기음](core_05_band_oversight.md#materiality-determination-c)
 - [의존](core_05_band_continuity.md#dependency) · [영형](core_05_band_continuity.md#dependency) · [중](core_05_band_continuity.md#dependency-a) · [에이](core_05_band_continuity.md#dependency-a) · [기음](core_05_band_continuity.md#dependency-c)
 - [가역성](core_05_band_continuity.md#reversibility-constitutional) · [영형](core_05_band_continuity.md#reversibility-constitutional) · [중](core_05_band_continuity.md#reversibility-constitutional-a) · [에이](core_05_band_continuity.md#reversibility-constitutional-a) · [기음](core_05_band_continuity.md#reversibility-constitutional-c)
 - [안전(헌법적 제약)](core_05_band_continuity.md#safety-constraint) · [영형](core_05_band_continuity.md#safety-constraint) · [중](core_05_band_continuity.md#safety-constraint-a) · [에이](core_05_band_continuity.md#safety-constraint-a) · [기음](core_05_band_continuity.md#safety-constraint-c)
-- [인식론적 완전성](core_05_band_oversight.md#epistemic-integrity) · [영형](core_05_band_oversight.md#epistemic-integrity-o) · [중](core_05_band_oversight.md#epistemic-integrity-a) · [에이](core_05_band_oversight.md#epistemic-integrity-a) · [기음](core_05_band_oversight.md#epistemic-integrity-c)
+- [인식론적 완전성](core_05_band_oversight.md#인식-완전성) · [영형](core_05_band_oversight.md#epistemic-integrity-o) · [중](core_05_band_oversight.md#epistemic-integrity-a) · [에이](core_05_band_oversight.md#epistemic-integrity-a) · [기음](core_05_band_oversight.md#epistemic-integrity-c)
 - [경쟁 가능성](core_05_band_accountability.md#contestability) · [영형](core_05_band_accountability.md#contestability) · [중](core_05_band_accountability.md#contestability-a) · [에이](core_05_band_accountability.md#contestability-a) · [기음](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1102,7 +1102,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 
 이 기사에서는 다음과 같이 말합니다. **헌법 층** 시스템 수명주기, 환경 및 가역성을 위해 [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims):
 
-- **번영:** 설계, 테스트, 배포, 변경 전반에 걸쳐 감각을 안전하게 보호합니다. [인식론적 완전성](core_05_band_oversight.md#epistemic-integrity), 영향과 종속성이 커짐에 따라 유지되는 이의제기 권리와 그렇지 않으면 피해가 발생할 수 있는 롤백, 봉쇄 또는 보상 복원을 통해 보존됩니다.
+- **번영:** 설계, 테스트, 배포, 변경 전반에 걸쳐 감각을 안전하게 보호합니다. [인식론적 완전성](core_05_band_oversight.md#인식-완전성), 영향과 종속성이 커짐에 따라 유지되는 이의제기 권리와 그렇지 않으면 피해가 발생할 수 있는 롤백, 봉쇄 또는 보상 복원을 통해 보존됩니다.
 - **연속성:** 수명주기 규율은 시간과 규모에 관계없이 유지됩니다. 환경은 분리된 상태로 유지되고, 에스컬레이션은 문서화되고 감사 가능한 상태로 유지되며, 시스템을 교체하기가 더 어려워지거나 공유 인프라에 더 깊이 내장되어도 가역성이 조용히 사라져서는 안 됩니다.
 
 합법적인 추적이 진행됩니다. [헌법적 사분면](core_00_preamble.md#constitutional-tetrad), 크기 조정됨 [물질적 지분](core_00_preamble.md#material-stake):
@@ -1128,14 +1128,14 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [분류 규모의 거버넌스](core_05_band_oversight.md#classification-scaled-governance) · [영형](core_05_band_oversight.md#classification-scaled-governance) · [중](core_05_band_oversight.md#classification-scaled-governance-a) · [에이](core_05_band_oversight.md#classification-scaled-governance-a) · [기음](core_05_band_oversight.md#classification-scaled-governance-c)
+- [분류 규모의 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [영형](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [중](core_05_band_oversight.md#classification-scaled-governance-a) · [에이](core_05_band_oversight.md#classification-scaled-governance-a) · [기음](core_05_band_oversight.md#classification-scaled-governance-c)
 - [위험](core_05_band_continuity.md#risk) · [영형](core_05_band_continuity.md#risk) · [중](core_05_band_continuity.md#risk-a) · [에이](core_05_band_continuity.md#risk-a) · [기음](core_05_band_continuity.md#risk-c)
 - [책임](core_05_apex_accountability_leg.md#accountability) · [영형](core_05_apex_accountability_leg.md#accountability) · [중](core_05_apex_accountability_leg.md#accountability-m) · [에이](core_05_apex_accountability_leg.md#accountability-a) · [기음](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -1167,7 +1167,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 트레이드오프 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 트레이드오프 원칙](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1202,15 +1202,15 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [진실(헌법적 제약)](core_05_band_oversight.md#truth-constitutional-constraint) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [분류 규모의 거버넌스](core_05_band_oversight.md#classification-scaled-governance) · [영형](core_05_band_oversight.md#classification-scaled-governance) · [중](core_05_band_oversight.md#classification-scaled-governance-a) · [에이](core_05_band_oversight.md#classification-scaled-governance-a) · [기음](core_05_band_oversight.md#classification-scaled-governance-c)
+- [진실(헌법적 제약)](core_05_band_oversight.md#진실헌법-제약) · [영형](core_05_band_oversight.md#truth-constitutional-constraint-o) · [중](core_05_band_oversight.md#truth-constitutional-constraint-a) · [에이](core_05_band_oversight.md#truth-constitutional-constraint-a) · [기음](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [분류 규모의 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [영형](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [중](core_05_band_oversight.md#classification-scaled-governance-a) · [에이](core_05_band_oversight.md#classification-scaled-governance-a) · [기음](core_05_band_oversight.md#classification-scaled-governance-c)
 - [책임](core_05_apex_accountability_leg.md#accountability) · [영형](core_05_apex_accountability_leg.md#accountability) · [중](core_05_apex_accountability_leg.md#accountability-m) · [에이](core_05_apex_accountability_leg.md#accountability-a) · [기음](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1234,7 +1234,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 헌법충돌 해결절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), 그리고 [§19 인센티브 조정 및 시스템 캡처](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 헌법충돌 해결절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), 그리고 [§19 인센티브 조정 및 시스템 캡처](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획).
 
 </details>
 
@@ -1271,9 +1271,9 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [분류 규모의 거버넌스](core_05_band_oversight.md#classification-scaled-governance) · [영형](core_05_band_oversight.md#classification-scaled-governance) · [중](core_05_band_oversight.md#classification-scaled-governance-a) · [에이](core_05_band_oversight.md#classification-scaled-governance-a) · [기음](core_05_band_oversight.md#classification-scaled-governance-c)
+- [분류 규모의 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [영형](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [중](core_05_band_oversight.md#classification-scaled-governance-a) · [에이](core_05_band_oversight.md#classification-scaled-governance-a) · [기음](core_05_band_oversight.md#classification-scaled-governance-c)
 - [위험](core_05_band_continuity.md#risk) · [영형](core_05_band_continuity.md#risk) · [중](core_05_band_continuity.md#risk-a) · [에이](core_05_band_continuity.md#risk-a) · [기음](core_05_band_continuity.md#risk-c)
-- [중대한 영향](core_05_band_oversight.md#material-impact) · [영형](core_05_band_oversight.md#material-impact) · [중](core_05_band_oversight.md#material-impact-a) · [에이](core_05_band_oversight.md#material-impact-a) · [기음](core_05_band_oversight.md#material-impact-c)
+- [중대한 영향](core_05_band_oversight.md#실질-영향) · [영형](core_05_band_oversight.md#실질-영향) · [중](core_05_band_oversight.md#material-impact-a) · [에이](core_05_band_oversight.md#material-impact-a) · [기음](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1297,7 +1297,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [§13.1 핵심 트레이드오프 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [§13.1 핵심 트레이드오프 원칙](core_01_b_interaction_interpretation.md#131-핵심-상충-원칙).
 
 </details>
 
@@ -1331,14 +1331,14 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-통합-적용).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [분류 규모의 거버넌스](core_05_band_oversight.md#classification-scaled-governance) · [영형](core_05_band_oversight.md#classification-scaled-governance) · [중](core_05_band_oversight.md#classification-scaled-governance-a) · [에이](core_05_band_oversight.md#classification-scaled-governance-a) · [기음](core_05_band_oversight.md#classification-scaled-governance-c)
+- [분류 규모의 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [영형](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [중](core_05_band_oversight.md#classification-scaled-governance-a) · [에이](core_05_band_oversight.md#classification-scaled-governance-a) · [기음](core_05_band_oversight.md#classification-scaled-governance-c)
 - [의존](core_05_band_continuity.md#dependency) · [영형](core_05_band_continuity.md#dependency) · [중](core_05_band_continuity.md#dependency-a) · [에이](core_05_band_continuity.md#dependency-a) · [기음](core_05_band_continuity.md#dependency-c)
 - [가역성](core_05_band_continuity.md#reversibility-constitutional) · [영형](core_05_band_continuity.md#reversibility-constitutional) · [중](core_05_band_continuity.md#reversibility-constitutional-a) · [에이](core_05_band_continuity.md#reversibility-constitutional-a) · [기음](core_05_band_continuity.md#reversibility-constitutional-c)
 
@@ -1360,14 +1360,14 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 규정 준수</span></strong></summary>
 
-- [혁신 보상 및 폐쇄 방지](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [영형](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [중](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [에이](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [기음](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [혁신 보상 및 폐쇄 방지](core_05_band_integrative.md#혁신-보상과-울타리-금지) · [영형](core_05_band_integrative.md#혁신-보상과-울타리-금지) · [중](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [에이](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [기음](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [체계적 잠금](core_05_band_continuity.md#systemic-lock-in) · [영형](core_05_band_continuity.md#systemic-lock-in) · [중](core_05_band_continuity.md#systemic-lock-in-a) · [에이](core_05_band_continuity.md#systemic-lock-in-a) · [기음](core_05_band_continuity.md#systemic-lock-in-c)
 - [비례](core_05_band_accountability.md#proportionality) · [영형](core_05_band_accountability.md#proportionality) · [중](core_05_band_accountability.md#proportionality-a) · [에이](core_05_band_accountability.md#proportionality-a) · [기음](core_05_band_accountability.md#proportionality-c)
 
@@ -1461,8 +1461,8 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 
 - **공개 우선:** 보상에는 독립적 이해, 감사 및 후속 재현에 충분한 공개가 필요합니다. 다만 제1장과 제XVII-A조에 따라 정당화되는 임시 제한은 허용됩니다. 공개란 설명이 비밀이 아닌 방식으로 대중에게 처음 제공되는 것입니다. 비밀로 유지한 발명은 이 조항에 따른 배타권을 얻지 못합니다.
 - **두 단계 기간:** 두 단계 모두 공개 시점부터 계산합니다. 독점 단계는 최대 `disclosure+15`년이며 그동안 권리자는 타인의 허락을 거부할 수 있습니다. 그 뒤 최대 `disclosure+30`년까지는 누구나 허락 없이 LEQU 기반 사용료를 내고 이용할 수 있고, 권리자는 사용료 외의 거부·지연·조건을 붙일 수 없습니다. 기간이 지나면 누구나 자유롭게 이용하며 저작자 표시와 출처 이력은 남을 수 있습니다.
-- **LEQU 기반 사용료:** 공개 라이선스 사용료는 발명이 기여한 검증된 헌법적 이익에 비례해야 하며, [수명 등가 단위(LEQU)](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) 기여 축의 값으로 [제10장 §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)에 따라 산정합니다.
-  - 검증된 이익은 공정 임금을 받는 감지자의 시간으로 평가하여 사용료로 바꿉니다. 생산성 향상은 이용자가 절약한 노동시간 또는 추가된 생산시간으로, 다른 이익은 LEQU가 나타내는 수명 상당 시간으로 측정합니다. 임금은 [공정 보상](../../core_05_band_continuity.md#fair-compensation)을 충족해야 합니다. 생산성이나 복지의 검증된 개선이 클수록 보상도 커질 수 있습니다.
+- **LEQU 기반 사용료:** 공개 라이선스 사용료는 발명이 기여한 검증된 헌법적 이익에 비례해야 하며, [수명 등가 단위(LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) 기여 축의 값으로 [제10장 §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)에 따라 산정합니다.
+  - 검증된 이익은 공정 임금을 받는 감지자의 시간으로 평가하여 사용료로 바꿉니다. 생산성 향상은 이용자가 절약한 노동시간 또는 추가된 생산시간으로, 다른 이익은 LEQU가 나타내는 수명 상당 시간으로 측정합니다. 임금은 [공정 보상](../../core_05.040_band_continuity.md#fair-compensation)을 충족해야 합니다. 생산성이나 복지의 검증된 개선이 클수록 보상도 커질 수 있습니다.
   - 사용료는 이용자에게 실질적 이익이 남도록 검증된 이익의 일부만 취해야 합니다. 그 비율은 이익의 절반을 넘을 수 없고, 실제 수혜 감지자가 늘수록 낮아져야 합니다(라이선스 사용자 수가 아니라 실제 수혜자 수로 계산). 단, 이용 확대에 따라 총 보상액까지 줄어들 만큼 급격히 낮춰서는 안 됩니다. 사용료가 부과되면 비율은 1% 미만일 수 없습니다. 이 최저선은 이 조항이나 채택 문서가 상금, 공동 접근, 공공 매입 또는 공개 접근을 정한 경우 사용료를 강제하지 않습니다.
   - 사용료는 시장 지배력, 희소성, 전환 비용 또는 사용자에게 강요할 수 있는 금액을 기준으로 해서는 안 됩니다. 시간 추정과 임금률을 포함한 요율표를 공개하고, 비교 가능한 상황의 이용자에게 동일하게 적용하며, 이의를 제기할 수 있어야 합니다. 아래 상시 개방 이용을 감당 불가능하게 해서는 안 됩니다. 이는 최대 한도이며 개별 청구는 여전히 비례해야 하고 기간이 더 짧을 수 있습니다.
 - **상시 개방 이용:** 어느 단계에서든 엄격히 필요하고 검토 가능한 범위를 넘어 수리, 안전 업무, 상호운용, 보관, 연구, 교육 또는 이전을 억압하는 보상 청구는 규정 위반입니다.

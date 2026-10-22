@@ -6,9 +6,9 @@
 
 > El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
 >
-> Este archivo es un **piloto de idioma de lectura** del [Capítulo Cinco, banda Participación en inglés](../../core_05_band_participation.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_05_band_participation.md`](../../core_05_band_participation.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
+> Este archivo es un **piloto de idioma de lectura** del [Capítulo Cinco, banda Participación en inglés](../../core_05.055_band_participation.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_05_band_participation.md`](../../core_05.055_band_participation.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
 >
-> Contiene el **Capítulo Cinco, banda Participación** — definiciones Independientes, Semiindependientes y de agrupación dependiente asignadas a la banda constitucional **Participación** (**Def.P1–Def.P4**). El orden de lectura y la brújula viven en [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> Contiene el **Capítulo Cinco, banda Participación** — definiciones Independientes, Semiindependientes y de agrupación dependiente asignadas a la banda constitucional **Participación** (**Def.P1–Def.P4**). El orden de lectura y la brújula viven en [core_05__definitions_home.md](core_05__definitions_home.md#capítulo-cinco-definiciones-fundacionales).
 >
 > **Anterior (este idioma):** [core_05_band_oversight.md](core_05_band_oversight.md)
 >
@@ -20,7 +20,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: [Brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims).
+- Origen: [Brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco); [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims).
 - Destino: hogares canónicos de definición de la banda Participación para el Capítulo Cinco.
 - Leer con: definiciones de la banda **Participación**; leer-con obligatorio de agrupación donde aplique el ámbito de admisión.
 
@@ -44,7 +44,7 @@ Esta banda sostiene definiciones bajo la pata **Participación** de la Tétrada 
 
 ### Participación: términos independientes
 
-Las reglas meta de las Definiciones independientes viven en [core_05__definitions_home.md](core_05__definitions_home.md#1-independent-definitions). Esta sección enumera los términos independientes de la banda Participación — cada uno puede sostenerse solo como definición hoja.
+Las reglas meta de las Definiciones independientes viven en [core_05__definitions_home.md](core_05__definitions_home.md#1-definiciones-independientes). Esta sección enumera los términos independientes de la banda Participación — cada uno puede sostenerse solo como definición hoja.
 
 ---
 
@@ -56,10 +56,10 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Artículo V-G](../../core_06_rights_part_b.md#article-vi-d-accessibility) (*Accesibilidad*). Gancho transversal de factor de evaluación: [Capítulo Siete §3.8.4](../../core_09_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation). La accesibilidad específica de la educación sigue gobernada por el [Artículo III-B](../../core_06_rights_part_a.md#article-iv-a-equal-educational-access) (*Acceso educativo igual*) y esta entrada no la estrecha.
-- Destino: familia de medición Participación (*Accesibilidad como medición constitucional*); [Capítulo Siete §3.8.4](../../core_09_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*evaluación de accesibilidad donde la certificación condiciona la participación sustantiva*).
+- Piso titular: [Artículo V-G](../../core_06.010_rights_part_b.md#article-vi-d-accessibility) (*Accesibilidad*). Gancho transversal de factor de evaluación: [Capítulo Siete §3.8.4](../../core_09.005_system_alignment_certification_evaluation.md#384-accessibility-evaluation). La accesibilidad específica de la educación sigue gobernada por el [Artículo III-B](../../core_06.005_rights_part_a.md#article-iv-a-equal-educational-access) (*Acceso educativo igual*) y esta entrada no la estrecha.
+- Destino: familia de medición Participación (*Accesibilidad como medición constitucional*); [Capítulo Siete §3.8.4](../../core_09.005_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*evaluación de accesibilidad donde la certificación condiciona la participación sustantiva*).
 - Origen: Principios: [Capítulo Uno §2.1 Equidad](core_01_a_values_principles.md#21-fairness) — en especial [Capítulo Uno §2.1.1 Acceso y oportunidad](core_01_a_values_principles.md#211-access-and-opportunity).
-- Leer con: [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Participación](core_05_apex_participation_leg.md#participation-constitutional), [Materialidad](core_05_band_oversight.md#materiality-determination), [Dependencia](core_05_band_continuity.md#dependency), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+- Leer con: [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Participación](core_05_apex_participation_leg.md#participation-constitutional), [Materialidad](core_05_band_oversight.md#determinación-de-materialidad), [Dependencia](core_05_band_continuity.md#dependencia), [Agencia significativa](core_05_band_participation.md#agencia-significativa), [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) y [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
 </details>
 
@@ -68,7 +68,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 *En términos sencillos: el acceso debe funcionar en la vida real — no solo en el papel. Si alguien no puede de hecho participar por cómo siente, piensa, se mueve, se comunica o se conecta con un sistema, el sistema falla esta prueba.*
 
 - **Qué es**
-  - **En alcance — quién:** sencientes bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **En alcance — quién:** sencientes bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **En alcance — dominios:** entornos donde la participación importa, incluidos:
     - gobernanza;
     - adjudicación;
@@ -88,7 +88,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
     - de interfaz de cómputo; y
     - perfiles comparables.
   - **Fuera de alcance:** diseños por defecto ordinarios que no crean una brecha real en la capacidad de participación.
-  - No se estrecha aquí: dominios titularizados en otro lugar — en especial la accesibilidad educativa bajo el [Artículo III-B](../../core_06_rights_part_a.md#article-iv-a-equal-educational-access) (*Acceso educativo igual*).
+  - No se estrecha aquí: dominios titularizados en otro lugar — en especial la accesibilidad educativa bajo el [Artículo III-B](../../core_06.005_rights_part_a.md#article-iv-a-equal-educational-access) (*Acceso educativo igual*).
 <a id="accessibility-constitutional-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden los sencientes afectados participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si los sencientes afectados pueden de hecho participar — no si existe meramente una interfaz por defecto o una acomodación en el papel.
@@ -96,19 +96,19 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
     **Evaluación primaria:** Juzgue el efecto real de participación, no el cumplimiento de casillas. Busque:
     - patrones de «acceso general» que se apoyan en valores por defecto sin producir capacidad real de participación;
     - acomodaciones que existen en el papel pero no pueden alcanzarse en la práctica; y
-    - argumentos selectivos de [Materialidad](core_05_band_oversight.md#materiality-determination) usados para escalar la acomodación por debajo del piso de participación.
-  - **Medida secundaria:** [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y [Dependencia](core_05_band_continuity.md#dependency) — pruebas relacionadas. Un sistema aún puede fallar la accesibilidad bajo estas incluso cuando existen acomodaciones formales en el papel.
+    - argumentos selectivos de [Materialidad](core_05_band_oversight.md#determinación-de-materialidad) usados para escalar la acomodación por debajo del piso de participación.
+  - **Medida secundaria:** [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Agencia significativa](core_05_band_participation.md#agencia-significativa), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y [Dependencia](core_05_band_continuity.md#dependencia) — pruebas relacionadas. Un sistema aún puede fallar la accesibilidad bajo estas incluso cuando existen acomodaciones formales en el papel.
 
-    **Evaluación secundaria:** Al comprobar la respuesta primaria, haga coincidir la fuerza del deber con lo que está en juego ([Materialidad](core_05_band_oversight.md#materiality-determination)) y con cuán difícil es salir o sortear el sistema ([Dependencia](core_05_band_continuity.md#dependency)). Compruebe si las acomodaciones se diseñan de modos que discriminan bajo [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) y [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact). Quien pretenda cumplimiento debe probar que los sencientes pueden de hecho participar.
+    **Evaluación secundaria:** Al comprobar la respuesta primaria, haga coincidir la fuerza del deber con lo que está en juego ([Materialidad](core_05_band_oversight.md#determinación-de-materialidad)) y con cuán difícil es salir o sortear el sistema ([Dependencia](core_05_band_continuity.md#dependencia)). Compruebe si las acomodaciones se diseñan de modos que discriminan bajo [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) y [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar). Quien pretenda cumplimiento debe probar que los sencientes pueden de hecho participar.
 <a id="accessibility-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
     - patrones de «acceso general» usados para derrotar la participación real;
     - acomodaciones que existen en el papel pero no pueden alcanzarse en la práctica; o
-    - argumentos selectivos de [Materialidad](core_05_band_oversight.md#materiality-determination) usados para escalar la accesibilidad por debajo del piso donde el contexto es material.
+    - argumentos selectivos de [Materialidad](core_05_band_oversight.md#determinación-de-materialidad) usados para escalar la accesibilidad por debajo del piso donde el contexto es material.
   - **Falla secundaria:**
     - argumentos de costo que funcionan como exclusión disfrazada contraria a la [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) y a las [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional); o
-    - exclusión del ámbito de accesibilidad contraria a la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    - exclusión del ámbito de accesibilidad contraria a la [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
 ---
 
@@ -119,7 +119,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) y [Autodeterminación](core_05_band_participation.md#self-determination-constitutional).
+- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral) y [Autodeterminación](core_05_band_participation.md#self-determination-constitutional).
 
 </details>
 
@@ -128,16 +128,16 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 *En términos sencillos: el conjunto de sencientes que esta Constitución gobierna de hecho — no un club privado, una marca ni una lista de invitados.*
 
 - **Qué es**
-  - **En alcance:** El colectivo de sencientes gobernados por esta Constitución. Los derechos del Capítulo Seis y las normas cooperativas del **Artículo XI-A** (*No imposición y consentimiento en la asociación*) aplican dentro de esta comunidad, de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
+  - **En alcance:** El colectivo de sencientes gobernados por esta Constitución. Los derechos del Capítulo Seis y las normas cooperativas del **Artículo XI-A** (*No imposición y consentimiento en la asociación*) aplican dentro de esta comunidad, de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral).
   - **Fuera de alcance:** clubes privados, marcas, listas de invitados u otros círculos sociales que no son el conjunto de sencientes que esta Constitución gobierna de hecho.
 <a id="constitutional-community-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden los sencientes afectados participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si la membresía se lee con honestidad — no se estrecha para dejar fuera a sencientes que esta Constitución gobierna.
 
-    **Evaluación primaria:** No interprete la membresía de modos que violen la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) o la [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
+    **Evaluación primaria:** No interprete la membresía de modos que violen la [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) o la [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral).
 <a id="constitutional-community-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** Negar protecciones constitucionales a un senciente mediante una redefinición arbitraria o discriminatoria de la membresía comunitaria es incumplidor bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Autodeterminación](core_05_band_participation.md#self-determination-constitutional).
+  - **Falla primaria:** Negar protecciones constitucionales a un senciente mediante una redefinición arbitraria o discriminatoria de la membresía comunitaria es incumplidor bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y [Autodeterminación](core_05_band_participation.md#self-determination-constitutional).
 
 ---
 
@@ -148,9 +148,9 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Artículo V-A: Dignidad e igual dignidad moral](../../core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing); [Artículo V-B: No discriminación](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination).
+- Destino: Principios: [Artículo V-A: Dignidad e igual dignidad moral](../../core_06.010_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing); [Artículo V-B: No discriminación](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination).
 - Componente de agrupación: [*No discriminación, Características protegidas, Dignidad, Filtrado de señales íntimas y estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)*](core_05_band_participation.md#fairness-and-protected-status-semi-independent)
-- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Autodeterminación](core_05_band_participation.md#self-determination-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional).
+- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Autodeterminación](core_05_band_participation.md#self-determination-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional).
 
 </details>
 
@@ -163,16 +163,16 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
     - derechos;
     - no degradación; y
     - no exclusión.
-    Aplica sin respecto al origen, la forma, la capacidad, la función, la asociación o el estatus. Léalo junto con [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    Aplica sin respecto al origen, la forma, la capacidad, la función, la asociación o el estatus. Léalo junto con [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Fuera de alcance:** títulos de cortesía, rankings de prestigio o respeto basado en el rol que no versan sobre el valor inherente igual.
 <a id="dignity-and-equal-moral-standing-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden los sencientes afectados participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si el trato, la exclusión o la humillación trata a algunos sencientes como de menor valor sin una justificación lícita.
 
-    **Evaluación primaria:** Detecte trato diferencial, exclusión o humillación no justificados bajo [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y los requisitos de evaluación de sistema entero.
+    **Evaluación primaria:** Detecte trato diferencial, exclusión o humillación no justificados bajo [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y los requisitos de evaluación de sistema entero.
 <a id="dignity-and-equal-moral-standing-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** La denegación de igual dignidad moral o la degradación de la dignidad donde aplican los Artículos V-A, I-B e I-C, o las normas vinculantes de igualdad, es incumplidora — incluso donde la conducta también viola la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) o derrota la [Autodeterminación](core_05_band_participation.md#self-determination-constitutional) constitucionalmente exigida.
+  - **Falla primaria:** La denegación de igual dignidad moral o la degradación de la dignidad donde aplican los Artículos V-A, I-B e I-C, o las normas vinculantes de igualdad, es incumplidora — incluso donde la conducta también viola la [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) o derrota la [Autodeterminación](core_05_band_participation.md#self-determination-constitutional) constitucionalmente exigida.
 
 ---
 
@@ -184,7 +184,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Leer con: la [agrupación Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Daño psicológico](core_05_band_accountability.md#psychological-harm), [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying) e [Impugnabilidad](core_05_band_accountability.md#contestability).
+- Leer con: la [agrupación Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster), [Agencia significativa](core_05_band_participation.md#agencia-significativa), [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Daño psicológico](core_05_band_accountability.md#daño-psicológico), [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
 
 </details>
 
@@ -198,16 +198,16 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
     - tomar parte en las decisiones que los afectan; y
     - salir o redirigir el compromiso con los sistemas.
   - **En alcance — límites:**
-    - [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint);
-    - [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint);
+    - [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción);
+    - [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional);
     - los derechos de los demás; y
-    - [Agencia significativa](core_05_band_participation.md#meaningful-agency).
+    - [Agencia significativa](core_05_band_participation.md#agencia-significativa).
   - **En alcance — protección frente a:**
     - [coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional);
     - restricción injustificada;
-    - trauma psicológico y otro [Daño psicológico](core_05_band_accountability.md#psychological-harm) material que deja hueca la elección real;
+    - trauma psicológico y otro [Daño psicológico](core_05_band_accountability.md#daño-psicológico) material que deja hueca la elección real;
     - abuso; y
-    - [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying).
+    - [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación).
   - **Fuera de alcance:**
     - habla ordinaria de preferencia sin un enjuego material de decisión o de salida; o
     - el [Consentimiento](core_05_band_participation.md#consent-constitutional) como un evento de decisión específico — el Consentimiento usa la agencia; no es la Libertad (agencia acotada) misma.
@@ -218,11 +218,11 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
     **Evaluación primaria:** Evalúe:
     - agencia sustantiva;
     - [coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional);
-    - [Daño psicológico](core_05_band_accountability.md#psychological-harm) (incluido el trauma psicológico);
+    - [Daño psicológico](core_05_band_accountability.md#daño-psicológico) (incluido el trauma psicológico);
     - abuso;
-    - [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying); y
-    - [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in).
-    Evalúe la exclusión voluntaria y las alternativas usables bajo [Viabilidad](core_05_band_accountability.md#feasibility). Lea [Participación](core_05_apex_participation_leg.md#participation-constitutional) donde la voz colectiva esté implicada de forma material.
+    - [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación); y
+    - [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico).
+    Evalúe la exclusión voluntaria y las alternativas usables bajo [Viabilidad](core_05_band_accountability.md#viabilidad). Lea [Participación](core_05_apex_participation_leg.md#participation-constitutional) donde la voz colectiva esté implicada de forma material.
 <a id="freedom-bounded-agency-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
@@ -245,7 +245,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Componente de agrupación: [*Infoesfera, Expresión, Prensa y actividad periodística, y Buena fe (integridad acotada a la publicación)*](core_05_band_participation.md#info-sphere)
+- Componente de agrupación: [*Infoesfera, Expresión, Prensa y actividad periodística, y Buena fe (integridad acotada a la publicación)*](core_05_band_participation.md#infoesfera)
 
 </details>
 
@@ -268,8 +268,8 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
     - capas de ranking e inferencia; y
     - recursos colectivos.
   - **En alcance — efectos materiales sobre:**
-    - [Agencia significativa](core_05_band_participation.md#meaningful-agency);
-    - [Confianza](core_05_band_continuity.md#trust);
+    - [Agencia significativa](core_05_band_participation.md#agencia-significativa);
+    - [Confianza](core_05_band_continuity.md#confianza);
     - coordinación pertinente a la supervivencia;
     - protecciones de la infoesfera del **Artículo XV** (*Integridad de la infósfera*); y
     - protecciones de auditabilidad del **Artículo XVI-A** (*Auditabilidad y evidencia observable*).
@@ -278,10 +278,10 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden los sencientes afectados participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si el entorno compartido de información sigue sosteniendo un acceso plural e impugnable a la comprensión pertinente a la supervivencia y a los derechos.
 
-    **Evaluación primaria:** Trate los efectos de la infoesfera como sistémicos donde la propagación, la concentración, la dependencia o la mediación de punto único sea material. Evalúe la alineación con [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Transparencia](core_05_band_oversight.md#transparency) e [Impugnabilidad](core_05_band_accountability.md#contestability).
+    **Evaluación primaria:** Trate los efectos de la infoesfera como sistémicos donde la propagación, la concentración, la dependencia o la mediación de punto único sea material. Evalúe la alineación con [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica), [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional), [Transparencia](core_05_band_oversight.md#transparencia) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
 <a id="info-sphere-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** monopolización material, [captura](core_05_band_continuity.md#system-capture) o degradación de la mediación que cierra el acceso plural e [impugnable](core_05_band_accountability.md#contestability) a la comprensión pertinente a la supervivencia o a los derechos, donde tal conducta carece de justificación bajo el Capítulo Uno y el Capítulo Seis.
+  - **Falla primaria:** monopolización material, [captura](core_05_band_continuity.md#captura-del-sistema) o degradación de la mediación que cierra el acceso plural e [impugnable](core_05_band_accountability.md#impugnabilidad) a la comprensión pertinente a la supervivencia o a los derechos, donde tal conducta carece de justificación bajo el Capítulo Uno y el Capítulo Seis.
 
 ---
 
@@ -292,7 +292,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: [Capítulo Ocho — §4 línea de base LEQU](../../core_10_standing_assessment.md#lequ-baseline-constitutional-outcome) (*beneficio y pérdida equivalentes a vida completa, definición de **LEQU**, ámbito agnóstico al sustrato*); leer con la [escala LEQU unificada proporcional del §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) para los ejes de Contribución y de Infracción.
+- Titular canónico: [Capítulo Ocho — §4 línea de base LEQU](../../core_10.000_standing_assessment.md#lequ-baseline-constitutional-outcome) (*beneficio y pérdida equivalentes a vida completa, definición de **LEQU**, ámbito agnóstico al sustrato*); leer con la [escala LEQU unificada proporcional del §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) para los ejes de Contribución y de Infracción.
 
 </details>
 
@@ -301,13 +301,13 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 *En términos sencillos: una unidad compartida para expresar beneficio o pérdida equivalentes a una vida completa cuando la medición de trayectoria del Capítulo Ocho calibra los registros de Contribución y de Infracción en una sola escala — no años calendario ordinarios ni promedios solo de especie.*
 
 - **Qué es**
-  - **En alcance:** Abreviatura de una **Unidad equivalente de vida** — la unidad numérica o narrativa que la implementación adoptada usa para expresar **beneficio constitucional equivalente a vida completa** o pérdida comparable al calibrar los registros separados del Eje de Contribución y del Eje de Infracción frente a las bandas LEQU compartidas de cinco veces de la [escala unificada del Capítulo Ocho §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). Puntero del Capítulo Cinco; la mecánica canónica vive en el Capítulo Ocho **§7**.
+  - **En alcance:** Abreviatura de una **Unidad equivalente de vida** — la unidad numérica o narrativa que la implementación adoptada usa para expresar **beneficio constitucional equivalente a vida completa** o pérdida comparable al calibrar los registros separados del Eje de Contribución y del Eje de Infracción frente a las bandas LEQU compartidas de cinco veces de la [escala unificada del Capítulo Ocho §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). Puntero del Capítulo Cinco; la mecánica canónica vive en el Capítulo Ocho **§7**.
   - **Fuera de alcance:** tiempo calendario ordinario, habla informal de «años de vida» o promedios de esperanza de vida atados a la especie usados fuera de la escala unificada del Capítulo Ocho.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden los sencientes afectados participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si el LEQU se aplica solo como exige la escala unificada del Capítulo Ocho — con contribución e infracción mantenidas separadas y auditables.
 
-    **Evaluación primaria:** Aplique **solo** de forma implementada de manera consistente con la **escala unificada del §7** del Capítulo Ocho, preservando registros separados de contribución y de infracción. Lea con [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) donde las disputas de magnitud sean materiales.
+    **Evaluación primaria:** Aplique **solo** de forma implementada de manera consistente con la **escala unificada del §7** del Capítulo Ocho, preservando registros separados de contribución y de infracción. Lea con [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) donde las disputas de magnitud sean materiales.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** usos de **LEQU** no divulgados, no auditables o **atados a la especie** que desplazan, estrechan, parten o sustituyen las reglas de calibración de la **escala unificada del §7** del Capítulo Ocho.
@@ -321,7 +321,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: [Capítulo Once §4.4 Foros de entorno](core_11_forum.md#44-environment-forums) (*presentación representativa de intereses de continuidad e integridad*).
+- Destino: [Capítulo Once §4.4 Foros de entorno](core_11_forum.md#44-foros-de-entorno) (*presentación representativa de intereses de continuidad e integridad*).
 - Leer con: [Continuidad indígena](core_05_band_continuity.md#indigenous-continuity-constitutional) (*titular de continuidad indígena como clase de representante publicado*); [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional); [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional); **CF-5** en [corpus_forum.md](../../corpus_forum.md) (*nombramiento, recusación y publicación de representantes de sistemas naturales*).
 
 </details>
@@ -337,7 +337,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden los sencientes afectados participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si los intereses de continuidad e integridad de los sistemas naturales que sostienen la vida se cuentan en la interpretación y la gobernanza — no se despachan como paisaje o acopio — y si un representante publicado puede llevar esos intereses a un foro de entorno en el interés del propio sistema.
 
-    **Evaluación primaria:** Alinee con [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional), [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional), [Daño](core_05_band_accountability.md#harm) y [Riesgo](core_05_band_continuity.md#risk). El **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*) y los protocolos de implementación suministran medidas operativas y no deben estrechar este reconocimiento. El [Capítulo Once §4.4](core_11_forum.md#44-environment-forums) enuncia el piso de presentación ante el foro de entorno; **CF-5** — las reglas de nombramiento, recusación y publicación deben implementar, no estrechar, ese piso.
+    **Evaluación primaria:** Alinee con [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional), [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional), [Daño](core_05_band_accountability.md#daño) y [Riesgo](core_05_band_continuity.md#riesgo). El **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*) y los protocolos de implementación suministran medidas operativas y no deben estrechar este reconocimiento. El [Capítulo Once §4.4](core_11_forum.md#44-foros-de-entorno) enuncia el piso de presentación ante el foro de entorno; **CF-5** — las reglas de nombramiento, recusación y publicación deben implementar, no estrechar, ese piso.
 <a id="natural-systems-standing-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
@@ -354,27 +354,27 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 *En términos sencillos: no fuerce creencias ni atrape contacto no deseado sobre otros en la vida asociativa. El acoso o la intimidación pautados, o la captura irrazonable de atención que degrada la dignidad, la seguridad, la participación igual o la agencia, quedan fuera de los límites.*
 
 - **Qué es**
-  - **En alcance:** Donde aplica el **Artículo XI-A** (*No imposición y consentimiento en la asociación*), la obligación de no forzar creencias ni comunicaciones no deseadas sobre otros mediante medios coercitivos o manipulativos en la vida asociativa. También prohíbe el [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying) pautados o la captura irrazonable de atención o la interrupción sostenida que degrada de forma material:
-    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing);
-    - [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint);
+  - **En alcance:** Donde aplica el **Artículo XI-A** (*No imposición y consentimiento en la asociación*), la obligación de no forzar creencias ni comunicaciones no deseadas sobre otros mediante medios coercitivos o manipulativos en la vida asociativa. También prohíbe el [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación) pautados o la captura irrazonable de atención o la interrupción sostenida que degrada de forma material:
+    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral);
+    - [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción);
     - la participación igual; o
-    - [Agencia significativa](core_05_band_participation.md#meaningful-agency).
-    Esta entrada preserva la [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency), el [Consentimiento](core_05_band_participation.md#consent-constitutional) y las normas cooperativas del **Artículo XI-A**.
+    - [Agencia significativa](core_05_band_participation.md#agencia-significativa).
+    Esta entrada preserva la [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada), el [Consentimiento](core_05_band_participation.md#consent-constitutional) y las normas cooperativas del **Artículo XI-A**.
   - **Fuera de alcance:** publicidad ordinaria evitable, desacuerdo ordinario o persuasión voluntaria que no coacciona ni atrapa la atención.
 <a id="non-imposition-cooperative-interaction-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden los sencientes afectados participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si el contacto, la mensajería o la captura de atención es coercitiva o atrapante — o si la salida y la evitación siguen siendo usables.
 
-    **Evaluación primaria:** Pondere la persistencia, la intensidad, la asimetría de poder y la [Viabilidad](core_05_band_accountability.md#feasibility) de la evitación o de la salida. Alinee con [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Daño](core_05_band_accountability.md#harm) y [Determinación de materialidad](core_05_band_oversight.md#materiality-determination). Para la atención y la interrupción, pondere:
+    **Evaluación primaria:** Pondere la persistencia, la intensidad, la asimetría de poder y la [Viabilidad](core_05_band_accountability.md#viabilidad) de la evitación o de la salida. Alinee con [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Daño](core_05_band_accountability.md#daño) y [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad). Para la atención y la interrupción, pondere:
     - la dependencia;
     - el rol;
     - el control del canal; y
-    - si la [Necesidad](core_05_band_accountability.md#necessity) y la [Proporcionalidad](core_05_band_accountability.md#proportionality) justifican la práctica de contacto o de señalización.
+    - si la [Necesidad](core_05_band_accountability.md#necesidad) y la [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) justifican la práctica de contacto o de señalización.
 <a id="non-imposition-cooperative-interaction-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
     - forzar creencias o mensajes no deseados sobre otros mediante coerción o manipulación, contrario al **Artículo XI-A** (*No imposición y consentimiento en la asociación*); o
-    - [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying), o captura irrazonable de atención o interrupción sostenida, que degrada de forma material la dignidad, la seguridad, la participación igual o la agencia — contrario al **Artículo XI-A** (*No imposición y consentimiento en la asociación*) y al **Artículo X-A** (*Agencia y libertad frente a la manipulación*).
+    - [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación), o captura irrazonable de atención o interrupción sostenida, que degrada de forma material la dignidad, la seguridad, la participación igual o la agencia — contrario al **Artículo XI-A** (*No imposición y consentimiento en la asociación*) y al **Artículo X-A** (*Agencia y libertad frente a la manipulación*).
 
 ---
 <a id="participation-semi-independent-terms"></a>
@@ -388,7 +388,7 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 **Contexto semiindependiente** (las definiciones componente pueden seguir operando fuera del ámbito de invocación conjunta):
 
 - **Invocación conjunta:** donde sea material la asamblea, la organización colectiva, la creación de sistemas o la creación de negocios.
-- **Ámbito:** donde se cumple la invocación conjunta, el hogar de Participación para dos preguntas — ¿pueden los sencientes reunirse y organizarse juntos, y pueden formar nuevas instituciones y empresas? Estas definiciones del Piso de Derechos implementan la [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency) a través de la capacidad colectiva e institucional agnóstica al sustrato.
+- **Ámbito:** donde se cumple la invocación conjunta, el hogar de Participación para dos preguntas — ¿pueden los sencientes reunirse y organizarse juntos, y pueden formar nuevas instituciones y empresas? Estas definiciones del Piso de Derechos implementan la [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada) a través de la capacidad colectiva e institucional agnóstica al sustrato.
 
 **Miembros del grupo de temas.** Este grupo comprende:
 - [Asamblea](core_05_band_participation.md#assembly-constitutional) — reunión y asociación con finalidades expresivas, políticas y comunitarias.
@@ -399,11 +399,11 @@ Las reglas meta de las Definiciones independientes viven en [core_05__definition
 <a id="creation-rights-limits"></a>
 
 **Límites de derechos de creación.** Ni la [Creación de sistemas](core_05_band_participation.md#system-creation-constitutional) ni la [Creación de negocios](core_05_band_participation.md#business-creation-constitutional) se extiende a instituciones o empresas diseñadas para:
-- violar [Restricciones constitucionales](core_05_band_integrative.md#constitutional-constraint);
-- menoscabar la [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint) o la [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint); o
+- violar [Restricciones constitucionales](core_05_band_integrative.md#restricción-constitucional);
+- menoscabar la [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción) o la [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional); o
 - concentrar poder contrario al [Capítulo Uno §13](core_01_c_stewardship_capacity_principles.md#13-market-structure).
 
-La mecánica operativa — registro, adopción de [Carta](core_05_band_continuity.md#charter) y limitación del ámbito de la carta, trato fiscal, marcos de responsabilidad, regulación de valores y vías de disolución — se enruta a [corpus_institutions.md](../../corpus_institutions.md) bajo la disciplina de incorporación del **Capítulo Dieciséis** y no debe estrechar estos pisos. Una autorización para un acto específico de alto riesgo conforme al [Artículo XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) es distinta: se aplica a la realización del acto, no a la formación ni a la dirección de una Parte Operadora.
+La mecánica operativa — registro, adopción de [Carta](core_05_band_continuity.md#carta) y limitación del ámbito de la carta, trato fiscal, marcos de responsabilidad, regulación de valores y vías de disolución — se enruta a [corpus_institutions.md](../../corpus_institutions.md) bajo la disciplina de incorporación del **Capítulo Dieciséis** y no debe estrechar estos pisos. Una autorización para un acto específico de alto riesgo conforme al [Artículo XI-E](core_06_rights_part_b.md#xi-e-creación-de-instituciones-y-empresas) (*Institutional Formation and Business Creation*) es distinta: se aplica a la realización del acto, no a la formación ni a la dirección de una Parte Operadora.
 
 *Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Participación. Encuentre las medidas concretas en las definiciones miembro de abajo.
 
@@ -418,8 +418,8 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency) (pila de asamblea / expresión); [§5.1 Disciplina de limitación](core_01_a_values_principles.md#51-limitation-discipline) (pruebas de limitación para restricciones de asamblea).
-- Piso titular: [Artículo V-H](../../core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*Expresión, asamblea y prensa*). Interacción de condiciones de consentimiento: **Artículo XI-A** (*No imposición y consentimiento en la asociación*), a través de [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction).
-- Leer con: la [agrupación Asamblea, organización colectiva y formación institucional](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster), [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
+- Piso titular: [Artículo V-H](../../core_06.010_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*Expresión, asamblea y prensa*). Interacción de condiciones de consentimiento: **Artículo XI-A** (*No imposición y consentimiento en la asociación*), a través de [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa).
+- Leer con: la [agrupación Asamblea, organización colectiva y formación institucional](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster), [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
 
 </details>
 
@@ -428,7 +428,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 *En términos sencillos: los sencientes deben poder reunirse, asociarse y actuar juntos — de forma física, en línea o en espacios de cómputo compartido — para expresión, política, cultura, comunidad y finalidades similares. Bloquear eso mediante reglas de recinto, filtrado de cómputo o represalia falla esta prueba.*
 
 - **Qué es**
-  - **En alcance:** El derecho del Piso de Derechos de los sencientes bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) a reunirse, asociarse, organizarse y actuar de forma colectiva.
+  - **En alcance:** El derecho del Piso de Derechos de los sencientes bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) a reunirse, asociarse, organizarse y actuar de forma colectiva.
   - **En alcance — espacios:**
     - físicos;
     - digitales y en red; y
@@ -441,7 +441,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - científicas;
     - económicas; y
     - comunitarias.
-  - La *Asamblea* es distinta de la [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction) y se lee junto con ella bajo el **Artículo XI-A** (*No imposición y consentimiento en la asociación*), que gobierna las condiciones de consentimiento dentro de la asociación.
+  - La *Asamblea* es distinta de la [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa) y se lee junto con ella bajo el **Artículo XI-A** (*No imposición y consentimiento en la asociación*), que gobierna las condiciones de consentimiento dentro de la asociación.
   - **Fuera de alcance:**
     - copresencia casual;
     - reuniones privadas de uno a uno; o
@@ -452,13 +452,13 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
     **Evaluación primaria:** Pruebe el efecto sustantivo, no la casilla de acceso formal. Busque:
     - denegación por proxy a través de asignación de ejecución, filtrado de recursos de cómputo, acceso a recintos o a redes, reglas de elegibilidad o regímenes de autorización que funcionan como denegación;
-    - exclusión contraria a la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion);
+    - exclusión contraria a la [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia);
     - lógica de acceso, elegibilidad y autorización que falla [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) o [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional); y
-    - limitaciones que fallan [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality) o las pruebas de acotamiento estrecho.
+    - limitaciones que fallan [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) o las pruebas de acotamiento estrecho.
 <a id="assembly-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** denegación o degradación material de la asamblea donde el efecto derrota el piso, con independencia del encuadre formal.
-  - **Falla secundaria:** recintos de asamblea o entornos de ejecución que fallan la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **Falla secundaria:** recintos de asamblea o entornos de ejecución que fallan la [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Falla terciaria:** regímenes onerosos de autorización o patrones de represalia que enfrían la asamblea sin satisfacer las pruebas de limitación, de forma consistente con la Disciplina antienfriamiento del **Artículo V-H** (*Expresión, asamblea y prensa*).
 
 ---
@@ -471,9 +471,9 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento por materialidad / dependencia para la voz colectiva).
-- Piso titular: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*). Leer con el [Artículo X-B](../../core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*) y los límites de poder encubierto del [Artículo XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
-- Leer con: la [agrupación Asamblea, organización colectiva y formación institucional](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster), [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional), [Condiciones seguras](core_05_band_continuity.md#safe-conditions-constitutional), [Ocio y descanso](core_05_band_continuity.md#leisure-and-rest-constitutional), [Asamblea](core_05_band_participation.md#assembly-constitutional), [Expresión](core_05_band_participation.md#expression-constitutional), [Denuncia protegida (alertadores)](core_05_band_accountability.md#protected-reporting-whistleblowing), [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento por materialidad / dependencia para la voz colectiva).
+- Piso titular: [Artículo III-D](../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*). Leer con el [Artículo X-B](../../core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*) y los límites de poder encubierto del [Artículo XIV-A](../../core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
+- Leer con: la [agrupación Asamblea, organización colectiva y formación institucional](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster), [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional), [Condiciones seguras](core_05_band_continuity.md#safe-conditions-constitutional), [Ocio y descanso](core_05_band_continuity.md#leisure-and-rest-constitutional), [Asamblea](core_05_band_participation.md#assembly-constitutional), [Expresión](core_05_band_participation.md#expression-constitutional), [Denuncia protegida (alertadores)](core_05_band_accountability.md#denuncia-protegida-alertadores), [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#represalia-contra-la-denuncia-protegida-e-interferencia-de-acceso) y [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
 </details>
 
@@ -497,8 +497,8 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - de plataforma;
     - cooperativos; y
     - arreglos comparables,
-    bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
-  - La asociación social ordinaria o puramente cívica fuera del ámbito de la actividad productiva se gobierna por [Asamblea](core_05_band_participation.md#assembly-constitutional) y el [Artículo X-B](../../core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*), y no se estrecha aquí.
+    bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
+  - La asociación social ordinaria o puramente cívica fuera del ámbito de la actividad productiva se gobierna por [Asamblea](core_05_band_participation.md#assembly-constitutional) y el [Artículo X-B](../../core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*), y no se estrecha aquí.
   - **Fuera de alcance:** reunión social o cívica ordinaria fuera de la organización de actividad productiva (eso se sienta bajo Asamblea).
 <a id="collective-organization-constitutional-a"></a>
 - **Cómo medir y evaluar**
@@ -506,15 +506,15 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
     **Evaluación primaria:** Alcance el efecto sustantivo. Busque:
     - reenrutamiento de clasificación que reclasifica trabajadores en categorías diseñadas para derrotar las vías de organización colectiva, con independencia de la etiqueta formal;
-    - represalia, vigilancia o señalamiento de la actividad de organización colectiva, de forma consistente con [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) y el [Artículo XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*);
+    - represalia, vigilancia o señalamiento de la actividad de organización colectiva, de forma consistente con [Represalia contra la denuncia protegida e interferencia de acceso](core_05_band_accountability.md#represalia-contra-la-denuncia-protegida-e-interferencia-de-acceso) y el [Artículo XIV-A](../../core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*);
     - diseño de plataforma o filtrado de acceso a cómputo que enfría de forma material la actividad de organización colectiva sin satisfacer las pruebas de limitación del [Capítulo Uno §5.1](core_01_a_values_principles.md#51-limitation-discipline); y
-    - lógica de represalia y señalamiento que falla [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) o [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
+    - lógica de represalia y señalamiento que falla [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) o [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar).
 <a id="collective-organization-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
     - represalia, vigilancia o señalamiento de la actividad de organización colectiva;
     - reenrutamiento de clasificación diseñado para derrotar las vías de organización colectiva, con independencia de la etiqueta formal;
-    - exclusión del ámbito contraria a la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); o
+    - exclusión del ámbito contraria a la [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia); o
     - filtrado de acceso a plataforma o a cómputo que enfría la actividad de organización colectiva sin satisfacer las pruebas ordinarias de limitación.
 
 ---
@@ -527,10 +527,10 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (desarrollo institucional y competencia distribuida); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento por materialidad / dependencia).
-- Piso titular: [Artículo X-B](../../core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*) (derechos de rol y participación de las partes afectadas) y [Artículo XII](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*) (participación sistémica de las partes afectadas). Leer con el [Artículo XI-A](../../core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction) (*No imposición y consentimiento en la asociación*) (interacción cooperativa) y los límites de poder encubierto del [Artículo XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
+- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (desarrollo institucional y competencia distribuida); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento por materialidad / dependencia).
+- Piso titular: [Artículo X-B](../../core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*) (derechos de rol y participación de las partes afectadas) y [Artículo XII](../../core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*) (participación sistémica de las partes afectadas). Leer con el [Artículo XI-A](../../core_06.010_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction) (*No imposición y consentimiento en la asociación*) (interacción cooperativa) y los límites de poder encubierto del [Artículo XIV-A](../../core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
 - Componente de agrupación: [la agrupación Asamblea, organización colectiva y formación institucional](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
-- Leer con: [Asamblea](core_05_band_participation.md#assembly-constitutional), [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional), [Gobernanza](core_05_band_accountability.md#governance), [Carta](core_05_band_continuity.md#charter), [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight), [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+- Leer con: [Asamblea](core_05_band_participation.md#assembly-constitutional), [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional), [Gobernanza](core_05_band_accountability.md#gobernanza), [Carta](core_05_band_continuity.md#carta), [Peso de las partes afectadas](core_05_band_participation.md#peso-de-las-partes-afectadas), [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa) y [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
 </details>
 
@@ -546,7 +546,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - redes de ayuda mutua;
     - órganos de gobernanza de bienes comunes; y
     - experimentos institucionales agnósticos al sustrato que sirven fines constitucionalmente legítimos.
-  - El piso aplica bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion). Es distinto de la [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional) (organización de actividad productiva) y de la [Asamblea](core_05_band_participation.md#assembly-constitutional) (reunión y asociación). La Creación de sistemas cubre el acto fundacional de traer nuevas formas institucionales a la existencia y mantener su operación — no meramente participar en estructuras preexistentes.
+  - El piso aplica bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia). Es distinto de la [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional) (organización de actividad productiva) y de la [Asamblea](core_05_band_participation.md#assembly-constitutional) (reunión y asociación). La Creación de sistemas cubre el acto fundacional de traer nuevas formas institucionales a la existencia y mantener su operación — no meramente participar en estructuras preexistentes.
   - **En alcance — finalidades:**
     - acceso educativo y administración responsable del conocimiento;
     - continuidad cultural y patrimonial;
@@ -554,7 +554,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - ayuda mutua y apoyo comunitario;
     - gobernanza de bienes comunes y gestión de recursos compartidos;
     - colectivos artísticos y creativos; y
-    - experimentos sociales y de gobernanza consistentes con las [Restricciones constitucionales](core_05_band_integrative.md#constitutional-constraint).
+    - experimentos sociales y de gobernanza consistentes con las [Restricciones constitucionales](core_05_band_integrative.md#restricción-constitucional).
   - Límites: aplican los [Límites de derechos de creación](#creation-rights-limits).
   - **Fuera de alcance:**
     - formación de empresas comerciales; o
@@ -567,12 +567,12 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - denegación por proxy a través de regímenes de licencia, umbrales de autorización, discriminación fiscal o complejidad procedimental diseñados para derrotar las vías de creación de sistemas para clases o finalidades de sencientes desfavorecidas;
     - represalia, vigilancia o señalamiento contra creadores o participantes en formas institucionales constitucionalmente protegidas;
     - diseño de plataforma, acceso a infraestructura o filtrado de recursos de cómputo que enfría de forma material la creación de sistemas sin satisfacer las pruebas de limitación del [Capítulo Uno §5.1](core_01_a_values_principles.md#51-limitation-discipline);
-    - lógica de acceso, elegibilidad y autorización que falla [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) o [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); y
-    - limitaciones de los derechos de creación de sistemas que fallan [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality) o las pruebas de acotamiento estrecho.
+    - lógica de acceso, elegibilidad y autorización que falla [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) o [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia); y
+    - limitaciones de los derechos de creación de sistemas que fallan [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) o las pruebas de acotamiento estrecho.
 <a id="system-creation-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** prohibiciones o moratorias generales sobre categorías de formación institucional sin justificación constitucional trazable.
-  - **Falla secundaria:** vías de creación de sistemas o autorización institucional que fallan la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **Falla secundaria:** vías de creación de sistemas o autorización institucional que fallan la [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Falla terciaria:**
     - represalia, vigilancia o señalamiento contra sencientes dedicados a la creación de sistemas constitucionalmente protegida;
     - regímenes de autorización cuyo efecto primario es privilegiar instituciones incumbentes mientras enfrían formas organizativas novedosas o disidentes; o
@@ -588,10 +588,10 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (desarrollo institucional y competencia distribuida); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento por materialidad / dependencia).
-- Piso titular: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*) (Piso laboral y económico) y [Artículo X-B](../../core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*) (derechos de rol y participación de las partes afectadas). Leer con el [Artículo XI-A](../../core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction) (*No imposición y consentimiento en la asociación*) (interacción cooperativa) y los límites de poder encubierto del [Artículo XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
+- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) (desarrollo institucional y competencia distribuida); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento por materialidad / dependencia).
+- Piso titular: [Artículo III-D](../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*) (Piso laboral y económico) y [Artículo X-B](../../core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*) (derechos de rol y participación de las partes afectadas). Leer con el [Artículo XI-A](../../core_06.010_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction) (*No imposición y consentimiento en la asociación*) (interacción cooperativa) y los límites de poder encubierto del [Artículo XIV-A](../../core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
 - Componente de agrupación: [la agrupación Asamblea, organización colectiva y formación institucional](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
-- Leer con: [Creación de sistemas](core_05_band_participation.md#system-creation-constitutional), [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional), [Asamblea](core_05_band_participation.md#assembly-constitutional), [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional), [Gobernanza](core_05_band_accountability.md#governance), [Carta](core_05_band_continuity.md#charter), [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight), [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+- Leer con: [Creación de sistemas](core_05_band_participation.md#system-creation-constitutional), [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional), [Asamblea](core_05_band_participation.md#assembly-constitutional), [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional), [Gobernanza](core_05_band_accountability.md#gobernanza), [Carta](core_05_band_continuity.md#carta), [Peso de las partes afectadas](core_05_band_participation.md#peso-de-las-partes-afectadas), [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa) y [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
 </details>
 
@@ -600,7 +600,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 *En términos sencillos: los sencientes deben poder iniciar y dirigir empresas comerciales y emprendimientos. Las licencias, el capital o las puertas de mercado que congelan a fundadores o competidores desfavorecidos sin una razón constitucional fallan esta prueba.*
 
 - **Qué es**
-  - **En alcance:** El concepto del Piso de Derechos que cubre el derecho de los sencientes bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) a crear, establecer, operar y hacer evolucionar empresas comerciales, emprendimientos y formas organizativas con ánimo de lucro — incluido el acto fundacional de traer nuevas entidades comerciales a la existencia y mantener su operación. Esto incluye:
+  - **En alcance:** El concepto del Piso de Derechos que cubre el derecho de los sencientes bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) a crear, establecer, operar y hacer evolucionar empresas comerciales, emprendimientos y formas organizativas con ánimo de lucro — incluido el acto fundacional de traer nuevas entidades comerciales a la existencia y mantener su operación. Esto incluye:
     - empresas unipersonales;
     - sociedades;
     - corporaciones;
@@ -615,7 +615,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - provisión de servicios basada en el mercado;
     - formación de capital e inversión;
     - creación de empleo; y
-    - actividad económicamente productiva comparable consistente con las [Restricciones constitucionales](core_05_band_integrative.md#constitutional-constraint).
+    - actividad económicamente productiva comparable consistente con las [Restricciones constitucionales](core_05_band_integrative.md#restricción-constitucional).
   - Límites: aplican los [Límites de derechos de creación](#creation-rights-limits).
   - **Fuera de alcance:**
     - formación institucional no comercial bajo [Creación de sistemas](core_05_band_participation.md#system-creation-constitutional);
@@ -629,12 +629,12 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - denegación por proxy a través de regímenes de licencia comercial, umbrales de autorización, discriminación de acceso a capital, discriminación fiscal o complejidad procedimental diseñados para derrotar las vías de creación de negocios para clases o finalidades de sencientes desfavorecidas;
     - represalia, vigilancia o señalamiento contra emprendedores o participantes en actividad comercial constitucionalmente protegida;
     - diseño de plataforma, acceso a infraestructura, filtrado de recursos de cómputo o barreras de acceso al mercado que enfrían de forma material la creación de negocios sin satisfacer las pruebas de limitación del [Capítulo Uno §5.1](core_01_a_values_principles.md#51-limitation-discipline);
-    - lógica de acceso, elegibilidad y autorización que falla [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) o [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); y
-    - limitaciones de los derechos de creación de negocios que fallan [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality) o las pruebas de acotamiento estrecho.
+    - lógica de acceso, elegibilidad y autorización que falla [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) o [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia); y
+    - limitaciones de los derechos de creación de negocios que fallan [Necesidad](core_05_band_accountability.md#necesidad), [Proporcionalidad](core_05_band_accountability.md#proporcionalidad) o las pruebas de acotamiento estrecho.
 <a id="business-creation-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** prohibiciones o moratorias generales sobre categorías de formación comercial sin justificación constitucional trazable.
-  - **Falla secundaria:** vías de creación de negocios o autorización comercial que fallan la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **Falla secundaria:** vías de creación de negocios o autorización comercial que fallan la [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Falla terciaria:**
     - represalia, vigilancia o señalamiento contra sencientes dedicados a la creación de negocios constitucionalmente protegida;
     - regímenes de autorización cuyo efecto primario es privilegiar entidades comerciales incumbentes mientras enfrían formas emprendedoras novedosas o competidoras; o
@@ -649,12 +649,12 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 **Contexto semiindependiente** (las definiciones componente pueden seguir operando fuera del ámbito de invocación conjunta):
 
 - **Invocación conjunta:** donde sea material la agencia significativa, el consentimiento, el consentimiento sexual, o la coerción y manipulación.
-- **Ámbito:** donde se cumple la invocación conjunta, el hogar de Participación para dos preguntas — ¿pueden los sencientes tomar elecciones informadas y no coaccionadas, y qué cuenta como consentimiento real frente a la coerción? Estas definiciones protegen la [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency) al asegurar que las elecciones reflejen comprensión auténtica más que explotación de la [Dependencia](core_05_band_continuity.md#dependency) o diseño engañoso.
+- **Ámbito:** donde se cumple la invocación conjunta, el hogar de Participación para dos preguntas — ¿pueden los sencientes tomar elecciones informadas y no coaccionadas, y qué cuenta como consentimiento real frente a la coerción? Estas definiciones protegen la [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada) al asegurar que las elecciones reflejen comprensión auténtica más que explotación de la [Dependencia](core_05_band_continuity.md#dependencia) o diseño engañoso.
 
 **Miembros del grupo de temas.** Este grupo comprende:
-- [Agencia significativa](core_05_band_participation.md#meaningful-agency) — capacidad práctica de elección informada y no coaccionada.
+- [Agencia significativa](core_05_band_participation.md#agencia-significativa) — capacidad práctica de elección informada y no coaccionada.
 - [Consentimiento](core_05_band_participation.md#consent-constitutional) — acuerdo válido a una decisión específica, que exige Agencia significativa.
-- [Consentimiento, sexual](core_05_band_participation.md#consent-sexual) — requisitos reforzados para contextos de contacto sexual e intimidad.
+- [Consentimiento, sexual](core_05_band_participation.md#consentimiento-sexual) — requisitos reforzados para contextos de contacto sexual e intimidad.
 - [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) — conducta que subvierte la voluntariedad genuina.
 
 *Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Participación. Encuentre las medidas concretas en las definiciones miembro de abajo.
@@ -668,9 +668,9 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — pata de **participación**; [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency), [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) y [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) donde la participación, la dependencia y el impacto material determinan la intensidad de la protección de agencia.
+- Destino: Principios: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — pata de **participación**; [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency), [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) y [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) donde la participación, la dependencia y el impacto material determinan la intensidad de la protección de agencia.
 - Componente de agrupación: [**Def.P3** *Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva*](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster), y [Capítulo Cinco §2 *Agencia, consentimiento y anticoerción*](core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent).
-- Leer con: [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dependencia](core_05_band_continuity.md#dependency), [Impugnabilidad](core_05_band_accountability.md#contestability), [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in) y [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
+- Leer con: [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dependencia](core_05_band_continuity.md#dependencia), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico) y [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral).
 
 </details>
 
@@ -702,12 +702,12 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - está ausente la coerción o la manipulación;
     - los procesos son accesibles; y
     - la revisión es significativa.
-  - **Medida secundaria:** [Consentimiento](core_05_band_participation.md#consent-constitutional), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dependencia](core_05_band_continuity.md#dependency), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in) — comedidas que pueden derrotar la agencia incluso cuando existen menús formales de elección.
+  - **Medida secundaria:** [Consentimiento](core_05_band_participation.md#consent-constitutional), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dependencia](core_05_band_continuity.md#dependencia), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) y [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico) — comedidas que pueden derrotar la agencia incluso cuando existen menús formales de elección.
 
-    **Evaluación secundaria:** Al comprobar la respuesta primaria, incluya vías de [Dependencia](core_05_band_continuity.md#dependency), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in) e [Impugnabilidad](core_05_band_accountability.md#contestability) que dejarían hueca la agencia.
-  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — donde las métricas de compromiso, utilización o aceptación sustituyen a la agencia sustantiva.
+    **Evaluación secundaria:** Al comprobar la respuesta primaria, incluya vías de [Dependencia](core_05_band_continuity.md#dependencia), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico) e [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) que dejarían hueca la agencia.
+  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — donde las métricas de compromiso, utilización o aceptación sustituyen a la agencia sustantiva.
 
-    **Evaluación terciaria:** Donde los operadores se apoyan en métricas nominales de aceptación o de compromiso, aplique [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — distinga la agencia duradera de la participación simbólica.
+    **Evaluación terciaria:** Donde los operadores se apoyan en métricas nominales de aceptación o de compromiso, aplique [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — distinga la agencia duradera de la participación simbólica.
 <a id="meaningful-agency-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** tratar cualquiera de lo siguiente como suficiente donde la dependencia, la opacidad, la coerción o el encierro sistémico impide de forma material la agencia informada y voluntaria:
@@ -718,9 +718,9 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - una salida técnicamente disponible que los sencientes no pueden usar de hecho.
   - **Falla secundaria:** capacidad de agencia degradada por:
     - [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional); o
-    - [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in)
-    sin excepción justificada bajo [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
-  - **Falla terciaria:** tratar la satisfacción de proxy como decisiva donde la [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) es razonablemente observable.
+    - [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico)
+    sin excepción justificada bajo [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
+  - **Falla terciaria:** tratar la satisfacción de proxy como decisiva donde la [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) es razonablemente observable.
 
 ---
 
@@ -732,9 +732,9 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency) (agencia significativa / interacción cooperativa); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (dependencia / materialidad en la asimetría de consentimiento).
+- Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency) (agencia significativa / interacción cooperativa); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (dependencia / materialidad en la asimetría de consentimiento).
 - Componente de agrupación: [Capítulo Cinco §2 *Agencia, consentimiento y anticoerción*](core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent).
-- Leer con: la [agrupación Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster), [Consentimiento, sexual](core_05_band_participation.md#consent-sexual), [Viabilidad](core_05_band_accountability.md#feasibility), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Dependencia](core_05_band_continuity.md#dependency), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) y [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying).
+- Leer con: la [agrupación Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster), [Consentimiento, sexual](core_05_band_participation.md#consentimiento-sexual), [Viabilidad](core_05_band_accountability.md#viabilidad), [Agencia significativa](core_05_band_participation.md#agencia-significativa), [Dependencia](core_05_band_continuity.md#dependencia), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) y [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación).
 
 </details>
 
@@ -743,13 +743,13 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 *En términos sencillos: el consentimiento es el acuerdo informado y voluntario a una decisión específica — participación, uso de datos, manejo o asociación continua — que puede retirarse sin penalidad injustificada donde sea viable. Exige Agencia significativa; no la reemplaza. El silencio, los términos enterrados o una casilla presionada no cuentan.*
 
 - **Qué es**
-  - **En alcance:** Acuerdo a la participación, el uso de datos, el manejo o la asociación continua que presupone [Agencia significativa](core_05_band_participation.md#meaningful-agency) para esa decisión y que es:
+  - **En alcance:** Acuerdo a la participación, el uso de datos, el manejo o la asociación continua que presupone [Agencia significativa](core_05_band_participation.md#agencia-significativa) para esa decisión y que es:
     - informado y voluntario para la decisión específica;
-    - revocable sin penalidad injustificada donde la [Viabilidad](core_05_band_accountability.md#feasibility) lo permite; y
-    - documentado u observable en el grado exigido por el impacto y la [dependencia](core_05_band_continuity.md#dependency).
+    - revocable sin penalidad injustificada donde la [Viabilidad](core_05_band_accountability.md#viabilidad) lo permite; y
+    - documentado u observable en el grado exigido por el impacto y la [dependencia](core_05_band_continuity.md#dependencia).
   - **Fuera de alcance:**
     - mera conciencia sin acuerdo;
-    - [Consentimiento, sexual](core_05_band_participation.md#consent-sexual) (titularizado bajo su hogar reforzado); o
+    - [Consentimiento, sexual](core_05_band_participation.md#consentimiento-sexual) (titularizado bajo su hogar reforzado); o
     - términos comerciales no relacionados fuera de la decisión específica en cuestión.
 <a id="consent-constitutional-a"></a>
 - **Cómo medir y evaluar**
@@ -759,7 +759,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - asimetría;
     - patrones oscuros;
     - acuerdo forzado por dependencia; y
-    - adecuación de la divulgación relativa al [Impacto material](core_05_band_oversight.md#material-impact), al [Riesgo](core_05_band_continuity.md#risk) y a la [Agencia significativa](core_05_band_participation.md#meaningful-agency) del sujeto.
+    - adecuación de la divulgación relativa al [Impacto material](core_05_band_oversight.md#impacto-material), al [Riesgo](core_05_band_continuity.md#riesgo) y a la [Agencia significativa](core_05_band_participation.md#agencia-significativa) del sujeto.
 <a id="consent-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Tratar cualquiera de lo siguiente como consentimiento es incumplidor — en especial donde la [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional) derrota la elección genuina:
@@ -780,9 +780,9 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [2. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (autonomía corporal y dignidad leídas con la pila del **Artículo VII-A** (*Autopropiedad del cuerpo y de la mente*) / XI-C).
-- Pisos titulares: [Artículo VII-A](../../core_06_rights_part_b.md#article-vii-a-bodily-autonomy-and-non-intrusion) (*autonomía corporal y no intrusión*) y [Artículo XI-C](../../core_06_rights_part_b.md#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*servicios sexuales comerciales consensuados de adultos y explotación sexual*).
+- Pisos titulares: [Artículo VII-A](../../core_06.010_rights_part_b.md#article-vii-a-bodily-autonomy-and-non-intrusion) (*autonomía corporal y no intrusión*) y [Artículo XI-C](../../core_06.010_rights_part_b.md#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*servicios sexuales comerciales consensuados de adultos y explotación sexual*).
 - Componente de agrupación: [Capítulo Cinco §2 *Agencia, consentimiento y anticoerción*](core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent).
-- Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Dependencia](core_05_band_continuity.md#dependency), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Integridad corporal](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) y [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention).
+- Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Agencia significativa](core_05_band_participation.md#agencia-significativa), [Dependencia](core_05_band_continuity.md#dependencia), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Integridad corporal](../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) y [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention).
 
 </details>
 
@@ -846,7 +846,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Restricciones innegociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulación que implica Verdad / Seguridad).
 - Componente de agrupación: [Capítulo Cinco §2 *Agencia, consentimiento y anticoerción*](core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent).
-- Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency), [Dependencia](core_05_band_continuity.md#dependency), [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance), **Artículo XI-A** (*No imposición y consentimiento en la asociación*) y **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*).
+- Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico), [Agencia significativa](core_05_band_participation.md#agencia-significativa), [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada), [Dependencia](core_05_band_continuity.md#dependencia), [Gobernanza escalada por clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación), **Artículo XI-A** (*No imposición y consentimiento en la asociación*) y **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*).
 
 </details>
 
@@ -857,32 +857,32 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 - **Qué es**
   - **En alcance:** Conducta o diseño que elude o subvierte de forma material la elección voluntaria informada, o distorsiona la comprensión pertinente a la decisión — por ejemplo:
     - amenazas;
-    - explotación indebida de la [Dependencia](core_05_band_continuity.md#dependency);
+    - explotación indebida de la [Dependencia](core_05_band_continuity.md#dependencia);
     - estructura engañosa;
     - arquitectura de elección predatoria; o
     - explotación algorítmica a escala de la vulnerabilidad.
-  - **En alcance:** En alcance donde menoscaba la [Agencia significativa](core_05_band_participation.md#meaningful-agency), la [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency) o la [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint).
+  - **En alcance:** En alcance donde menoscaba la [Agencia significativa](core_05_band_participation.md#agencia-significativa), la [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada) o la [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional).
   - **Fuera de alcance:** persuasión ordinaria, negociación justa o incentivos divulgados que no menoscaban la elección real.
 <a id="coercion-and-manipulation-constitutional-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden los sencientes afectados participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si la elección sigue siendo informada y voluntaria — no si la presión o el engaño se disfrazó de persuasión.
 
-    **Evaluación primaria:** Incluya el uso repetido, a escala y estratégico. Separe la persuasión legítima de la manipulación prohibida donde la distinción sea material para los resultados y la [Dependencia](core_05_band_continuity.md#dependency). Para intercambios comerciales que implican:
+    **Evaluación primaria:** Incluya el uso repetido, a escala y estratégico. Separe la persuasión legítima de la manipulación prohibida donde la distinción sea material para los resultados y la [Dependencia](core_05_band_continuity.md#dependencia). Para intercambios comerciales que implican:
     - integridad corporal;
     - desempeño en espacio privado o en el hogar;
     - trabajo aislado;
     - emparejamiento mediado por plataforma; o
     - asimetría material entre las partes,
-    trate lo siguiente como vías de [Riesgo](core_05_band_continuity.md#risk) reforzado:
+    trate lo siguiente como vías de [Riesgo](core_05_band_continuity.md#riesgo) reforzado:
     - ocultamiento;
     - encierro;
     - represalia reputacional; y
     - palanca de pago.
 
-    Aplique esa evaluación de forma consistente con el **Artículo XI-A** (*No imposición y consentimiento en la asociación*), la [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance) y el **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*) donde apliquen.
+    Aplique esa evaluación de forma consistente con el **Artículo XI-A** (*No imposición y consentimiento en la asociación*), la [Gobernanza escalada por clasificación](core_05_band_oversight.md#gobernanza-escalada-por-clasificación) y el **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*) donde apliquen.
 <a id="coercion-and-manipulation-constitutional-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** La coerción o manipulación sistemática o material en sistemas con impacto material sobre sencientes es incumplidora donde se violan derechos aplicables o restricciones del Capítulo Uno, o donde el [Consentimiento](core_05_band_participation.md#consent-constitutional), la [Agencia significativa](core_05_band_participation.md#meaningful-agency) o la [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency) se menoscaban de forma material.
+  - **Falla primaria:** La coerción o manipulación sistemática o material en sistemas con impacto material sobre sencientes es incumplidora donde se violan derechos aplicables o restricciones del Capítulo Uno, o donde el [Consentimiento](core_05_band_participation.md#consent-constitutional), la [Agencia significativa](core_05_band_participation.md#agencia-significativa) o la [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada) se menoscaban de forma material.
 
 ---
 <a id="fairness-and-protected-status-semi-independent"></a>
@@ -894,18 +894,18 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
 - **Invocación conjunta:** donde sea material la equidad sustantiva o procedimental, las características protegidas, el uso como proxy o el impacto dispar, o el filtrado de señales íntimas / estatus del **Artículo XI-C**.
 - **Ámbito:** donde se cumple la invocación conjunta, el hogar de Participación para las disciplinas de igualdad y equidad. Leer con [Capítulo Uno §2.1 Equidad](core_01_a_values_principles.md#21-fairness).
-- **Piso titular:** implementa el [Artículo V-B](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*No discriminación*).
+- **Piso titular:** implementa el [Artículo V-B](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*No discriminación*).
 
 **Mapa de enrutamiento del Capítulo Uno §2.1:**
 - [Capítulo Uno §2.1.1 Acceso y oportunidad](core_01_a_values_principles.md#211-access-and-opportunity) se enruta principalmente a través de [Accesibilidad](core_05_band_participation.md#accessibility-constitutional) y [Participación](core_05_apex_participation_leg.md#participation-constitutional).
-- [Capítulo Uno §2.1.3 Trato justo](core_01_a_values_principles.md#213-fair-treatment) se enruta a través de [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) y [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention).
+- [Capítulo Uno §2.1.3 Trato justo](core_01_a_values_principles.md#213-fair-treatment) se enruta a través de [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar) y [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention).
 - [Capítulo Uno §2.1.2 Beneficios y cargas](core_01_a_values_principles.md#212-benefits-and-burdens) se enruta a través de [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional).
 
 **Miembros del grupo de temas.** Este grupo comprende:
 - [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) — distribución de beneficios y cargas centrada en el resultado.
 - [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) — proceso significativo para decisiones que afectan derechos.
 - [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) — rasgos que no deben servir de base para desventaja odiosa.
-- [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) — reglas aparentemente neutrales que replican discriminación prohibida.
+- [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar) — reglas aparentemente neutrales que replican discriminación prohibida.
 - [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention) — restringe los usos de señales íntimas y de estatus del **Artículo XI-C** para filtrar, y bloquea la elusión del piso de despenalización.
 
 *Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Participación. Encuentre las medidas concretas en las definiciones miembro de abajo.
@@ -920,9 +920,9 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 - Origen: Principios: [Capítulo Uno §2.1 Equidad](core_01_a_values_principles.md#21-fairness) — en especial [Capítulo Uno §2.1.2 Beneficios y cargas](core_01_a_values_principles.md#212-benefits-and-burdens).
-- Destino: familia de medición Participación (*Equidad, acceso y agencia como medición constitucional*); Principios: [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y las garantías de no discriminación y del Piso de Derechos del Capítulo Seis donde la equidad de resultado es material.
+- Destino: familia de medición Participación (*Equidad, acceso y agencia como medición constitucional*); Principios: [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y las garantías de no discriminación y del Piso de Derechos del Capítulo Seis donde la equidad de resultado es material.
 - Componente de agrupación: [la agrupación dependiente *Equidad sustantiva y procedimental*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Leer con: [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence), [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
+- Leer con: [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad), [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy), [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
 </details>
 
 <br>
@@ -949,17 +949,17 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - ejecución selectiva;
     - exclusión por costo o conveniencia; y
     - degradación del Piso de Derechos oculta detrás de lenguaje neutral.
-  - **Medida secundaria:** [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) y [Agencia significativa](core_05_band_participation.md#meaningful-agency) — comedidas que pueden derrotar la equidad incluso cuando las clasificaciones formales parecen neutrales.
+  - **Medida secundaria:** [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar), [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) y [Agencia significativa](core_05_band_participation.md#agencia-significativa) — comedidas que pueden derrotar la equidad incluso cuando las clasificaciones formales parecen neutrales.
 
     **Evaluación secundaria:** Al evaluar el rastro primario, compare casos semejantes a la luz de:
     - dependencia;
     - impacto material;
     - características protegidas;
-    - [Necesidad](core_05_band_accountability.md#necessity); y
-    - [Proporcionalidad](core_05_band_accountability.md#proportionality).
-  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — donde métricas agregadas, rankings o indicadores de cumplimiento sustituyen el trato comparable de sencientes materialmente comparables.
+    - [Necesidad](core_05_band_accountability.md#necesidad); y
+    - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
+  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — donde métricas agregadas, rankings o indicadores de cumplimiento sustituyen el trato comparable de sencientes materialmente comparables.
 
-    **Evaluación terciaria:** Donde los operadores se apoyan en esos indicadores, aplique [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — distinga la equidad duradera del juego de indicadores.
+    **Evaluación terciaria:** Donde los operadores se apoyan en esos indicadores, aplique [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — distinga la equidad duradera del juego de indicadores.
 <a id="substantive-fairness-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** arreglos formalmente neutrales o procedimentalmente pulidos — incluido un proceso que parece justo en el papel mientras los resultados siguen siendo arbitrariamente desiguales — que asignan de forma material a sencientes comparables, sin justificación constitucionalmente suficiente:
@@ -971,7 +971,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - favoritismo;
     - ejecución selectiva; o
     - traslado oculto de costos.
-  - **Falla terciaria:** tratar una puntuación, un ranking o un promedio de buen aspecto como prueba de equidad cuando la [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) es razonablemente observable.
+  - **Falla terciaria:** tratar una puntuación, un ranking o un promedio de buen aspecto como prueba de equidad cuando la [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) es razonablemente observable.
 
 ---
 
@@ -985,7 +985,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 - Origen: Principios: [Capítulo Uno §2.1 Equidad](core_01_a_values_principles.md#21-fairness) — en especial [Capítulo Uno §2.1.3 Trato justo](core_01_a_values_principles.md#213-fair-treatment).
 - Destino: Principios: [6. Resolución de conflictos de proceso](core_05_apex_participation_leg.md#6-process-conflict-resolution) y [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), donde el proceso, las razones y la revisión preservan la integridad de la colisión de derechos.
 - Componente de agrupación: [la agrupación dependiente *Equidad sustantiva y procedimental*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Leer con: [Debido Proceso](core_05_band_accountability.md#due-process-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditability), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional).
+- Leer con: [Debido Proceso](core_05_band_accountability.md#due-process-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) y [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional).
 </details>
 
 <br>
@@ -1012,7 +1012,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - obtener revisión.
 
     **Evaluación primaria:** Evalúe si esas capacidades se sostienen en la práctica para la decisión en cuestión.
-  - **Medida secundaria:** [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Debido Proceso](core_05_band_accountability.md#due-process-constitutional) y [Auditabilidad](core_05_band_oversight.md#auditability) — comedidas que pueden derrotar el proceso incluso cuando existen pasos formales.
+  - **Medida secundaria:** [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Debido Proceso](core_05_band_accountability.md#due-process-constitutional) y [Auditabilidad](core_05_band_oversight.md#auditabilidad) — comedidas que pueden derrotar el proceso incluso cuando existen pasos formales.
 
     **Evaluación secundaria:** Al evaluar el rastro primario, escale el proceso a:
     - impacto material;
@@ -1051,9 +1051,9 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 - Origen: Principios: [Capítulo Uno §2.1 Equidad](core_01_a_values_principles.md#21-fairness) — en especial [Capítulo Uno §2.1.3 Trato justo](core_01_a_values_principles.md#213-fair-treatment).
-- Destino: familia de medición Participación (*Equidad, acceso y agencia como medición constitucional*); Principios: [Artículo V-B: No discriminación](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination).
+- Destino: familia de medición Participación (*Equidad, acceso y agencia como medición constitucional*); Principios: [Artículo V-B: No discriminación](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination).
 - Componente de agrupación: [la agrupación dependiente *No discriminación, Características protegidas, Dignidad, Filtrado de señales íntimas y estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Leer con: [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) y [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
+- Leer con: [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral) y [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
 </details>
 
 <br>
@@ -1087,7 +1087,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - discriminación por proxy a través de correlatos o rasgos de modelo; y
     - replicación de desventaja histórica.
     No trate la ausencia de un rasgo nombrado de forma expresa como suficiente donde efectos observables de patrón de grupo o equivalentes funcionales indican carga de estatus protegido.
-  - **Medida secundaria:** [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) y [Determinación de materialidad](core_05_band_oversight.md#materiality-determination) — comedidas que escalan las obligaciones de no discriminación.
+  - **Medida secundaria:** [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) y [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad) — comedidas que escalan las obligaciones de no discriminación.
 
     **Evaluación secundaria:** Al evaluar el rastro primario, detecte reglas de forma neutral que cargan principalmente el trabajo lícito o la asociación protegida sin justificación constitucionalmente suficiente, incluidas:
     - licencias;
@@ -1097,12 +1097,12 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - reglas comparables.
 
     Cuando esté implicada conducta protegida por el **Artículo XI-C**, lea con [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention).
-  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — donde cualquiera de lo siguiente sustituye el análisis de rasgo protegido:
+  - **Medida terciaria:** [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — donde cualquiera de lo siguiente sustituye el análisis de rasgo protegido:
     - reglas de forma neutral;
     - rasgos de modelo; o
     - correlatos.
 
-    **Evaluación terciaria:** Donde los operadores se apoyan en la neutralidad aparente o en la opacidad del modelo, aplique [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — distinga la no discriminación duradera de la elusión basada en correlatos.
+    **Evaluación terciaria:** Donde los operadores se apoyan en la neutralidad aparente o en la opacidad del modelo, aplique [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — distinga la no discriminación duradera de la elusión basada en correlatos.
 <a id="protected-characteristic-proxying-and-disparate-impact-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** construir sistemas de modo que los sencientes comparables sigan recibiendo, sin una razón suficientemente buena:
@@ -1110,7 +1110,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - estatus de participación más bajo; o
     - menos beneficios.
   - **Falla secundaria:** neutralidad pretextual o rasgos de proxy que replican desventaja histórica contraria a la [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) y al **Artículo V-B** (*No discriminación*).
-  - **Falla terciaria:** tratar «no nombramos un rasgo protegido» como prueba de no discriminación cuando la [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) es razonablemente observable.
+  - **Falla terciaria:** tratar «no nombramos un rasgo protegido» como prueba de no discriminación cuando la [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) es razonablemente observable.
 
 ---
 
@@ -1122,9 +1122,9 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 - Origen: Principios: [Capítulo Uno §2.1 Equidad](core_01_a_values_principles.md#21-fairness) — en especial [Capítulo Uno §2.1.3 Trato justo](core_01_a_values_principles.md#213-fair-treatment).
-- Destino: Principios: [Artículo V-B: No discriminación](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination).
+- Destino: Principios: [Artículo V-B: No discriminación](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination).
 - Componente de agrupación: [la agrupación dependiente *No discriminación, Características protegidas, Dignidad, Filtrado de señales íntimas y estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Leer con: [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
+- Leer con: [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar), [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad).
 </details>
 
 <br>
@@ -1135,17 +1135,17 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
   - **En alcance:** Los rasgos, estatus o clasificaciones de sencientes no deben servir, ausente justificación adecuada, como base para:
     - desventaja material;
     - exclusión;
-    - degradación de [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing);
+    - degradación de [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral);
     - denegación de derechos que el Capítulo Seis garantiza para recursos críticos de supervivencia y para la inclusión igual en la adjudicación y las operaciones.
 
     La justificación debe satisfacer:
-    - [Necesidad](core_05_band_accountability.md#necessity);
-    - [Proporcionalidad](core_05_band_accountability.md#proportionality); y
+    - [Necesidad](core_05_band_accountability.md#necesidad);
+    - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad); y
     - [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional).
 
-    Las señales de historial íntimo o de medios íntimos pueden usarse solo donde un deber documentado, materialmente específico de salvaguarda, seguridad o comparable legal las hace necesarias, evaluadas bajo [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality). Donde se usen:
+    Las señales de historial íntimo o de medios íntimos pueden usarse solo donde un deber documentado, materialmente específico de salvaguarda, seguridad o comparable legal las hace necesarias, evaluadas bajo [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad). Donde se usen:
     - use los medios verificados menos intrusivos; y
-    - preserve la [Impugnabilidad](core_05_band_accountability.md#contestability).
+    - preserve la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
 
     No use esas señales como valor por defecto para:
     - empleo;
@@ -1174,8 +1174,8 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
       - estatus de veterano o equivalente, y clasificación de baja, separación o liberación; y
       - empleo lícito, historial de empleo, estatus de trabajo lícito, falta de empleo o asociación protegida.
     - **Estación económica y social:** estación económica, de propiedad o social cuando se usa para cerrar mínimos del Piso de Derechos u oportunidad equitativa.
-    - **Textura abierta:** cualquier otro rasgo o correlato que funcione en contexto como un proxy odioso, de forma consistente con [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y los requisitos de [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e).
-  - **Fuera de alcance:** calificaciones justificadas de rol o de seguridad que no usan un rasgo como base odiosa de exclusión; explotación, trata, falta de [Consentimiento, sexual](core_05_band_participation.md#consent-sexual) u otros predicados independientes de daño fuera de la conducta sexual privada consensuada de adultos.
+    - **Textura abierta:** cualquier otro rasgo o correlato que funcione en contexto como un proxy odioso, de forma consistente con [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y los requisitos de [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e).
+  - **Fuera de alcance:** calificaciones justificadas de rol o de seguridad que no usan un rasgo como base odiosa de exclusión; explotación, trata, falta de [Consentimiento, sexual](core_05_band_participation.md#consentimiento-sexual) u otros predicados independientes de daño fuera de la conducta sexual privada consensuada de adultos.
 <a id="protected-characteristics-constitutional-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden los sencientes afectados participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si una característica protegida o un equivalente funcional se está usando para desfavorecer, excluir o denegar derechos — incluso a través de reglas «neutrales» o filtros de señales íntimas.
@@ -1196,7 +1196,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
     El sesgo sistemático que afecta a grupos demográficamente identificables dispara el análisis de [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) incluso donde un rasgo no se nombra de forma expresa.
 
-    Aplique [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) y [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention).
+    Aplique [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar) y [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention).
 <a id="protected-characteristics-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
@@ -1231,11 +1231,11 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Pisos titulares: [Artículo XI-C](../../core_06_rights_part_b.md#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*servicios sexuales comerciales consensuados de adultos y explotación sexual*); **corpus_institutions.md CI-19** (*Mercados de servicios personales vulnerables — regulación general e interfaz del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)*) enrutamiento antielusión donde se cite.
+- Pisos titulares: [Artículo XI-C](../../core_06.010_rights_part_b.md#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*servicios sexuales comerciales consensuados de adultos y explotación sexual*); **corpus_institutions.md CI-19** (*Mercados de servicios personales vulnerables — regulación general e interfaz del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)*) enrutamiento antielusión donde se cite.
 - Origen: Principios: [Capítulo Uno §2.1 Equidad](core_01_a_values_principles.md#21-fairness) — en especial [Capítulo Uno §2.1.3 Trato justo](core_01_a_values_principles.md#213-fair-treatment).
-- Destino: Principios: [Artículo V-B: No discriminación](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination); [Artículo VII-A: Autopropiedad del cuerpo y de la mente](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) donde la inferencia íntima implica integridad corporal; [Artículo XVI-A: Auditabilidad y evidencia observable](../../core_06_rights_part_c.md#article-xvi-auditability-and-observable-evidence) para vías de evidencia y observabilidad ligadas a flujos de señales íntimas.
+- Destino: Principios: [Artículo V-B: No discriminación](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination); [Artículo VII-A: Autopropiedad del cuerpo y de la mente](../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) donde la inferencia íntima implica integridad corporal; [Artículo XVI-A: Auditabilidad y evidencia observable](../../core_06.015_rights_part_c.md#article-xvi-auditability-and-observable-evidence) para vías de evidencia y observabilidad ligadas a flujos de señales íntimas.
 - Componente de agrupación: [la agrupación dependiente *No discriminación, Características protegidas, Dignidad, Filtrado de señales íntimas y estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Leer con: [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Consentimiento, sexual](core_05_band_participation.md#consent-sexual), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) y [Límite de estado interno protegido y antibypass de tipo N](core_05_band_accountability.md#privacy-informational-cluster).
+- Leer con: [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#uso-de-características-protegidas-como-proxy-e-impacto-dispar), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Consentimiento, sexual](core_05_band_participation.md#consentimiento-sexual), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional) y [Límite de estado interno protegido y antibypass de tipo N](core_05_band_accountability.md#privacy-informational-cluster).
 </details>
 
 <br>
@@ -1275,13 +1275,13 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
       - acceso similar; o
     - reglas «neutrales» que cargan principalmente conducta protegida por el **Artículo XI-C**.
 
-    **Evaluación primaria:** Trate los flujos de trabajo que raspan, indexan, infieren a partir de o puntúan medios íntimos o señales de historial sexual — incluso para empleo, trayectoria, sistemas reputacionales o filtrado comparable — como usos de discriminación y de riesgo informacional de alta saliencia. Se exige justificación estrecha bajo [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality). Tales flujos de trabajo deben seguir siendo consistentes con:
+    **Evaluación primaria:** Trate los flujos de trabajo que raspan, indexan, infieren a partir de o puntúan medios íntimos o señales de historial sexual — incluso para empleo, trayectoria, sistemas reputacionales o filtrado comparable — como usos de discriminación y de riesgo informacional de alta saliencia. Se exige justificación estrecha bajo [Necesidad](core_05_band_accountability.md#necesidad) y [Proporcionalidad](core_05_band_accountability.md#proporcionalidad). Tales flujos de trabajo deben seguir siendo consistentes con:
     - **Artículo VII-A** (*Autopropiedad del cuerpo y de la mente*);
     - **Artículo XVI-A** (*Auditabilidad y evidencia observable*);
     - [corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo;
-    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing);
-    - [Impugnabilidad](core_05_band_accountability.md#contestability);
-    - [Transparencia](core_05_band_oversight.md#transparency); y
+    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral);
+    - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad);
+    - [Transparencia](core_05_band_oversight.md#transparencia); y
     - **Artículo V-B** (*No discriminación*).
 
     Trate el estatus de trabajo en servicios sexuales comerciales y el estatus percibido como especialmente salientes dentro del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*) cuando dan forma al acceso a:
@@ -1325,8 +1325,8 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 **Contexto semiindependiente** (las definiciones componente pueden seguir operando fuera del ámbito de invocación conjunta):
 
 - **Invocación conjunta:** donde sean materiales las relaciones familiares o de cuidado elegidas, las elecciones reproductivas o de formación de familia, la separación forzada, o la creación sintética, híbrida o controlada por operador de sencientes nuevos.
-- **Ámbito:** donde se cumpla la invocación conjunta, el hogar de Participación para la familia y el cuidado elegidos, las elecciones reproductivas y de formación de familia, los límites a la separación forzada, y la creación sintética, híbrida o controlada por operador de sencientes nuevos. El embarazo y el parto ordinarios permanecen bajo la autonomía reproductiva y, después de que existe un hijo, el cuidado de sencientes en desarrollo — no la responsabilidad de Consentimiento de instanciación. El estatus de senciente en desarrollo, las decisiones de interés superior y la capacidad graduada viven en [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) bajo el [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*).
-- **Piso titular:** implementa el [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
+- **Ámbito:** donde se cumpla la invocación conjunta, el hogar de Participación para la familia y el cuidado elegidos, las elecciones reproductivas y de formación de familia, los límites a la separación forzada, y la creación sintética, híbrida o controlada por operador de sencientes nuevos. El embarazo y el parto ordinarios permanecen bajo la autonomía reproductiva y, después de que existe un hijo, el cuidado de sencientes en desarrollo — no la responsabilidad de Consentimiento de instanciación. El estatus de senciente en desarrollo, las decisiones de interés superior y la capacidad graduada viven en [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) bajo el [Artículo V-F](../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*).
+- **Piso titular:** implementa el [Artículo VIII-A](../../core_06.010_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
 
 **Miembros del grupo de temas.** Este grupo comprende:
 - [Relaciones familiares y de cuidado](core_05_band_participation.md#family-and-care-relationships-constitutional) — relaciones de apoyo e intimidad que los sencientes eligen.
@@ -1349,7 +1349,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
+- Piso titular: [Artículo VIII-A](../../core_06.010_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
 - Componente de agrupación: [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); leer con [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) donde el cuidado de derivación o de sistema progenitor esté materialmente implicado.
 </details>
 
@@ -1358,7 +1358,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 *En términos sencillos: familia y cuidado significa las relaciones de apoyo e intimidad que los sencientes eligen — no una forma preferida por el Estado, una marca de «familia» del empleador, ni una pretensión de propiedad disfrazada de cuidado.*
 
 - **Qué es**
-  - **En alcance:** Relaciones de familia, cuidado y apoyo material que los sencientes forman, mantienen y dejan por su propia elección, de forma consistente con [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction) y [Consentimiento](core_05_band_participation.md#consent-constitutional). Las relaciones mismas están protegidas bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **En alcance:** Relaciones de familia, cuidado y apoyo material que los sencientes forman, mantienen y dejan por su propia elección, de forma consistente con [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa) y [Consentimiento](core_05_band_participation.md#consent-constitutional). Las relaciones mismas están protegidas bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Fuera de alcance:**
     - formas familiares preferidas por el Estado;
     - marca de «familia» del empleador; o
@@ -1369,7 +1369,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
     **Evaluación primaria:** Detecte el estrechamiento estatal, de operador o institucional de la protección a una sola forma familiar preferida.
     - Pruebe cualquier estrechamiento de ese tipo contra:
-      - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing);
+      - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral);
       - [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional); y
       - Características protegidas.
     - Preserve las distinciones cuidador / dependiente / actor-del-sistema-progenitor enunciadas en la subsección anidada *Derivación e instanciación* del piso titular.
@@ -1377,7 +1377,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 - **Qué debe sostenerse**
   - **Falla primaria:**
     - instrumentos que estrechan la protección a una forma familiar preferida por el Estado; o
-    - instrumentos que condicionan la protección de la relación familiar a la clase de sustrato, al método de derivación o a la aprobación del operador en contra de [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    - instrumentos que condicionan la protección de la relación familiar a la clase de sustrato, al método de derivación o a la aprobación del operador en contra de [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
 ---
 
@@ -1388,9 +1388,9 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*) — viñeta *Autonomía reproductiva y de linaje*; leer con el **Artículo VIII-C** (*Derivación, instanciación y la relación con el sistema progenitor*) donde la derivación, la instanciación o las relaciones con el sistema progenitor estén materialmente implicadas.
+- Piso titular: [Artículo VIII-A](../../core_06.010_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*) — viñeta *Autonomía reproductiva y de linaje*; leer con el **Artículo VIII-C** (*Derivación, instanciación y la relación con el sistema progenitor*) donde la derivación, la instanciación o las relaciones con el sistema progenitor estén materialmente implicadas.
 - Componente de agrupación: [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P3** *Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)* donde el enrutamiento de autonomía y agencia aplique de forma material.
-- Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Relaciones familiares y de cuidado](core_05_band_participation.md#family-and-care-relationships-constitutional), [No separación](core_05_band_participation.md#non-separation-constitutional), [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional), [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+- Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Agencia significativa](core_05_band_participation.md#agencia-significativa), [Relaciones familiares y de cuidado](core_05_band_participation.md#family-and-care-relationships-constitutional), [No separación](core_05_band_participation.md#non-separation-constitutional), [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional), [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral) y [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 - Frontera: la autopropiedad general del cuerpo y de la mente permanece bajo el **Artículo VII-A** (*Autopropiedad del cuerpo y de la mente*) / **Artículo VII-B** (*Frontera del estado interno y protección de tipo N*). Esta entrada no reenuncia ni estrecha esos pisos.
 </details>
 
@@ -1402,7 +1402,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
   - **En alcance:** La capacidad del Piso de Derechos de los sencientes de hacer, rechazar, continuar o discontinuar elecciones reproductivas y de linaje, libres de coerción de Estados, operadores o sistemas ricos en dependencia. El derecho cubre:
     - la decisión de reproducirse o no;
     - la decisión de gestar, crear, adoptar o declinar la creación de sencientes nuevos; y
-    - formas agnósticas al sustrato de esa decisión — nacimiento, instanciación sintética, derivación híbrida o creación comparable — de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) y con el propio Piso de Derechos del Capítulo Seis del senciente creado.
+    - formas agnósticas al sustrato de esa decisión — nacimiento, instanciación sintética, derivación híbrida o creación comparable — de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral) y con el propio Piso de Derechos del Capítulo Seis del senciente creado.
     Sujeto a los límites de consentimiento, sentiencia, interés superior, no separación y colisión de derechos de esta Constitución.
   - **Fuera de alcance:**
     - elecciones corporales, médicas o de sustrato generales que no son decisiones reproductivas o de creación de linaje — esas se enrutan al **Artículo VII-A** (*Autopropiedad del cuerpo y de la mente*) / **Artículo VII-B** (*Frontera del estado interno y protección de tipo N*);
@@ -1417,7 +1417,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - coerción;
     - denegación de acceso;
     - continuación o discontinuación forzada de la reproducción o la creación;
-    - exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion);
+    - exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia);
     - extralimitación del sistema progenitor;
     - discriminación por estatus familiar; y
     - presión de dependencia.
@@ -1428,7 +1428,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - reproducción forzada;
     - no reproducción forzada;
     - condicionamiento coercitivo del cuidado o de los recursos de supervivencia a la elección reproductiva o de linaje;
-    - exclusión de las protecciones reproductivas o de creación de linaje contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); o
+    - exclusión de las protecciones reproductivas o de creación de linaje contraria a [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia); o
     - reglas de instanciación sintética, híbrida o controlada por operador que eluden las salvaguardas de consentimiento, estatus de sentiencia o no separación.
 
 ---
@@ -1440,7 +1440,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
+- Piso titular: [Artículo VIII-A](../../core_06.010_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*).
 - Componente de agrupación: [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) donde la separación de sencientes en desarrollo esté materialmente implicada; [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) donde la separación de sencientes derivados esté materialmente implicada.
 </details>
 
@@ -1455,8 +1455,8 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
     - la separación de un senciente derivado de las relaciones de cuidado, apoyo o sustrato de las que depende de forma material —
     debe satisfacer:
       - la regla de reversibilidad-bajo-incertidumbre;
-      - [Necesidad](core_05_band_accountability.md#necessity);
-      - [Proporcionalidad](core_05_band_accountability.md#proportionality); y
+      - [Necesidad](core_05_band_accountability.md#necesidad);
+      - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad); y
       - [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional),
     con la separación duradera o prolongada sujeta a revisión periódica obligatoria.
   - **Fuera de alcance:**
@@ -1467,7 +1467,7 @@ La mecánica operativa — registro, adopción de [Carta](core_05_band_continuit
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si la separación está justificada bajo esas pruebas con evidencia real — no reencuadrada como operaciones rutinarias que borran el vínculo de cuidado.
 
     **Evaluación primaria:** Juzgue los encuadres de separación por las mismas pruebas.
-    - Trate los siguientes encuadres bajo las mismas pruebas, con la carga sobre la parte que busca la separación y evidencia compatible con [Auditabilidad](core_05_band_oversight.md#auditability) exigida:
+    - Trate los siguientes encuadres bajo las mismas pruebas, con la carga sobre la parte que busca la separación y evidencia compatible con [Auditabilidad](core_05_band_oversight.md#auditabilidad) exigida:
       - seguridad;
       - gestión de riesgo;
       - deprecación;
@@ -1511,9 +1511,9 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (lectura conjunta de derivación / dignidad con la pila del **Artículo VIII-C** (*Derivación, instanciación y la relación con el sistema progenitor*)).
-- Piso titular: [Artículo VIII-C](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Derivación, instanciación y la relación con el sistema progenitor*).
+- Piso titular: [Artículo VIII-C](../../core_06.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Derivación, instanciación y la relación con el sistema progenitor*).
 - Componente de agrupación: [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) sub-bloque anidado dentro de [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
-- Leer con: la [agrupación Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Senciente](core_05_band_participation.md#sentient), [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional) y [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional).
+- Leer con: la [agrupación Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Senciente](core_05_band_participation.md#senciente), [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional) y [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional).
 </details>
 
 <br>
@@ -1526,7 +1526,7 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
     - un producto de trabajo;
     - un instrumento; ni
     - una continuación del actor del sistema progenitor —
-    de forma consistente con [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
+    de forma consistente con [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral).
   - **Fuera de alcance:**
     - una copia, bifurcación o versión de modelo no senciente; o
     - el actor del sistema progenitor como entidad distinta —
@@ -1542,7 +1542,7 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
       - adopción de servicio;
       - continuidad-de-identidad del operador; y
       - encuadre de nivel de servicio.
-    - Aplique el alcance agnóstico al sustrato bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    - Aplique el alcance agnóstico al sustrato bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 <a id="derived-sentient-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
@@ -1560,7 +1560,7 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Pisos titulares: [Artículo VIII-A](../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*); [Artículo VIII-C: Derivación, instanciación y la relación con el sistema progenitor](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
+- Pisos titulares: [Artículo VIII-A](../../core_06.010_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*); [Artículo VIII-C: Derivación, instanciación y la relación con el sistema progenitor](../../core_06.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
 - Componente de agrupación: [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) sub-bloque anidado dentro de [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 - Frontera: la concepción biológica ordinaria, el embarazo, la gestación y el parto se enrutan a [Autonomía reproductiva](core_05_band_participation.md#reproductive-autonomy-constitutional); el cuidado después de que existe un hijo se enruta a [**Def.P4** *Estándar del interés superior*](core_05_band_participation.md#best-interest-standard-constitutional) / [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional).
 </details>
@@ -1575,7 +1575,7 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
     - derivación híbrida consistente con [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional),
     incluida la creación materialmente controlada por un operador, una institución o un actor del sistema progenitor.
     Quienes deban hablar por el senciente nuevo durante la vida temprana deben satisfacer:
-      - [Consentimiento](core_05_band_participation.md#consent-constitutional) y [No imposición (interacción cooperativa)](core_05_band_participation.md#non-imposition-cooperative-interaction); y
+      - [Consentimiento](core_05_band_participation.md#consent-constitutional) y [No imposición (interacción cooperativa)](core_05_band_participation.md#no-imposición-interacción-cooperativa); y
       - [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional) para las decisiones tomadas en nombre del senciente nuevo.
   - **Fuera de alcance:**
     - la concepción biológica ordinaria, el embarazo, la gestación o el parto — intencionados o accidentales — que permanecen bajo [Autonomía reproductiva](core_05_band_participation.md#reproductive-autonomy-constitutional);
@@ -1592,7 +1592,7 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
       - crear demasiados sencientes nuevos a la vez (instanciación masiva);
       - crearlos en una dependencia de la que no pueden salir;
       - crearlos en entornos que de forma previsible no honrarán sus derechos; o
-      - [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) — pretendido interés superior o conveniencia que diverge de los intereses reales del senciente nuevo.
+      - [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) — pretendido interés superior o conveniencia que diverge de los intereses reales del senciente nuevo.
     - La creación en alcance a gran escala o impulsada por capacidad debe satisfacer también:
       - las reglas de no concentración y de capacidad productiva del Capítulo Uno §14; y
       - [Responsabilidad intergeneracional](core_05_band_continuity.md#intergenerational-responsibility-constitutional) donde las poblaciones posteriores estén materialmente afectadas.
@@ -1617,7 +1617,7 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo VIII-C: Derivación, instanciación y la relación con el sistema progenitor](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
+- Piso titular: [Artículo VIII-C: Derivación, instanciación y la relación con el sistema progenitor](../../core_06.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
 - Componente de agrupación: [*Derivación, instanciación y la relación con el sistema progenitor*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) sub-bloque anidado dentro de [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 </details>
 
@@ -1642,10 +1642,10 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
       - [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional); y
       - el Piso de Derechos del Capítulo Seis.
     - Pruebe la autoridad de administración responsable contra:
-      - [Necesidad](core_05_band_accountability.md#necessity);
-      - [Proporcionalidad](core_05_band_accountability.md#proportionality);
-      - [Impugnabilidad](core_05_band_accountability.md#contestability); y
-      - [Captura del sistema](core_05_band_continuity.md#system-capture).
+      - [Necesidad](core_05_band_accountability.md#necesidad);
+      - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad);
+      - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad); y
+      - [Captura del sistema](core_05_band_continuity.md#captura-del-sistema).
 <a id="parent-system-relationship-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
@@ -1666,13 +1666,13 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 
 **Contexto semiindependiente** (las definiciones componente pueden seguir operando fuera del ámbito de invocación conjunta):
 
-- **Invocación conjunta:** donde el estatus de parte afectada o el [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight) dentro de la gobernanza ya autorizada sea material.
-- **Ámbito:** donde se cumpla la invocación conjunta, la capa de **Participación Sistémica de las Partes Afectadas** — a quién afecta de hecho un sistema, y cuánta voz obtienen esos sencientes una vez que las reglas de gobierno de ese sistema ya están en vigor. Lea [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-governance-layers).
-- **Piso titular:** implementa el [Artículo X-B](../../core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*) y el [Artículo XII](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*).
+- **Invocación conjunta:** donde el estatus de parte afectada o el [Peso de las partes afectadas](core_05_band_participation.md#peso-de-las-partes-afectadas) dentro de la gobernanza ya autorizada sea material.
+- **Ámbito:** donde se cumpla la invocación conjunta, la capa de **Participación Sistémica de las Partes Afectadas** — a quién afecta de hecho un sistema, y cuánta voz obtienen esos sencientes una vez que las reglas de gobierno de ese sistema ya están en vigor. Lea [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-capas-de-gobernanza).
+- **Piso titular:** implementa el [Artículo X-B](../../core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de rol y participación de las partes afectadas*) y el [Artículo XII](../../core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*).
 
 **Miembros del grupo de temas.** Este grupo comprende:
-- [Parte afectada](core_05_band_participation.md#stakeholder) — quién es tocado de forma material por un sistema o dominio de decisión especificado.
-- [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight) — cómo escala la influencia dentro de la gobernanza ya autorizada.
+- [Parte afectada](core_05_band_participation.md#parte-afectada) — quién es tocado de forma material por un sistema o dominio de decisión especificado.
+- [Peso de las partes afectadas](core_05_band_participation.md#peso-de-las-partes-afectadas) — cómo escala la influencia dentro de la gobernanza ya autorizada.
 
 *Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Participación. Encuentre las medidas concretas en las definiciones miembro de abajo.
 
@@ -1684,8 +1684,8 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Destino: Principios: [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-governance-layers); [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency) (superficie de partes afectadas del **Artículo XII** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*)); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento de materialidad / dependencia para la participación); [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (participación / trayectoria / anticaptura).
-- Leer con: [Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster); [Gobernanza](core_05_band_accountability.md#governance); [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer); [Impugnabilidad](core_05_band_accountability.md#contestability); [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
+- Destino: Principios: [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-capas-de-gobernanza); [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency) (superficie de partes afectadas del **Artículo XII** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*)); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento de materialidad / dependencia para la participación); [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (participación / trayectoria / anticaptura).
+- Leer con: [Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster); [Gobernanza](core_05_band_accountability.md#gobernanza); [Capa del Contrato Constitucional](core_05_band_integrative.md#capa-del-contrato-constitucional); [Impugnabilidad](core_05_band_accountability.md#impugnabilidad); [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
 </details>
 
 <br>
@@ -1698,13 +1698,13 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
     - depende de; o
     - es afectado de forma material por
     un sistema especificado, un arreglo institucional o un dominio de decisión acotado — juzgado por la operación o los resultados de esa entidad. El estatus de parte afectada responde *quién es tocado de forma material de un modo pertinente a la proporcionalidad* relativo a ese ámbito.
-  - **En alcance — impactos indirectos:** Los impactos indirectos o basados en dependencia cuentan cuando son demostrables bajo criterios compatibles con [Auditabilidad](core_05_band_oversight.md#auditability), de forma consistente con:
+  - **En alcance — impactos indirectos:** Los impactos indirectos o basados en dependencia cuentan cuando son demostrables bajo criterios compatibles con [Auditabilidad](core_05_band_oversight.md#auditabilidad), de forma consistente con:
       - [Material](core_05_band_oversight.md#material);
-      - [Dependencia](core_05_band_continuity.md#dependency); y
-      - [Límites del sistema](core_05_band_continuity.md#system-boundaries).
+      - [Dependencia](core_05_band_continuity.md#dependencia); y
+      - [Límites del sistema](core_05_band_continuity.md#límites-del-sistema).
   - **Frontera:**
-    - Para el **peso** de participación dentro de la [Gobernanza](core_05_band_accountability.md#governance) ya autorizada, véase [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight).
-    - Para el enrutamiento de capa de autorización, lea [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-governance-layers).
+    - Para el **peso** de participación dentro de la [Gobernanza](core_05_band_accountability.md#gobernanza) ya autorizada, véase [Peso de las partes afectadas](core_05_band_participation.md#peso-de-las-partes-afectadas).
+    - Para el enrutamiento de capa de autorización, lea [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-capas-de-gobernanza).
   - **Fuera de alcance:**
     - meros observadores o partes curiosas; o
     - la membresía comunitaria sola sin efecto material del sistema.
@@ -1713,15 +1713,15 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si el estatus de parte afectada rastrea a quién se toca de forma material — no listas unilaterales del operador que cierran el paso a sencientes sin impugnabilidad.
 
     **Evaluación primaria:** Use criterios transparentes y razonables.
-    - No deje que el sistema mismo decida quién no es una parte afectada y las cierre el paso sin [Impugnabilidad](core_05_band_accountability.md#contestability) externa, cuando el Capítulo Seis o las salvaguardas de gobernanza exijan esa impugnación.
+    - No deje que el sistema mismo decida quién no es una parte afectada y las cierre el paso sin [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) externa, cuando el Capítulo Seis o las salvaguardas de gobernanza exijan esa impugnación.
 <a id="stakeholder-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** negar el estatus de parte afectada o las protecciones asociadas a una entidad que satisface el alcance ontológico, donde:
     - se adhieren derechos; y
     - la denegación carece de justificación bajo los artículos y definiciones aplicables, incluidos:
-      - [Impugnabilidad](core_05_band_accountability.md#contestability);
-      - [Comunidad constitucional](core_05_band_participation.md#constitutional-community); y
-      - [Impacto material](core_05_band_oversight.md#material-impact).
+      - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad);
+      - [Comunidad constitucional](core_05_band_participation.md#comunidad-constitucional); y
+      - [Impacto material](core_05_band_oversight.md#impacto-material).
 
 ---
 
@@ -1732,8 +1732,8 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Destino: Principios: [Preámbulo — capa de Participación Sistémica de las Partes Afectadas](core_00_preamble.md#chapter-00-preamble--foundational-requirements); [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*Escalamiento*: la materialidad y la dependencia elevan el piso de participación); [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (**Artículo X** (*Autodeterminación y agencia*), **Artículo XII** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*), **Artículo XIX** (*Trayectoria y estatus de participación*)).
-- Leer con: [Parte afectada](core_05_band_participation.md#stakeholder); [Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster); [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster); [Agencia significativa](core_05_band_participation.md#meaningful-agency); [Impugnabilidad](core_05_band_accountability.md#contestability).
+- Destino: Principios: [Preámbulo — capa de Participación Sistémica de las Partes Afectadas](core_00_preamble.md#preámbulo--requisitos-fundacionales); [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*Escalamiento*: la materialidad y la dependencia elevan el piso de participación); [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) (**Artículo X** (*Autodeterminación y agencia*), **Artículo XII** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*), **Artículo XIX** (*Trayectoria y estatus de participación*)).
+- Leer con: [Parte afectada](core_05_band_participation.md#parte-afectada); [Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster); [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster); [Agencia significativa](core_05_band_participation.md#agencia-significativa); [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
 </details>
 
 <br>
@@ -1741,12 +1741,12 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 *En términos sencillos: dentro de la gobernanza de sistema ya autorizada, cuánto alcance, voz, momento e influencia de decisión obtienen las partes afectadas debe rastrear cuánto están de hecho afectadas — no voto constitucional fundacional igual, ni un asiento simbólico.*
 
 - **Qué es**
-  - **En alcance — qué escala:** Cuánta voz obtienen las [Partes afectadas](core_05_band_participation.md#stakeholder) en asuntos que las afectan de forma material, a través de:
+  - **En alcance — qué escala:** Cuánta voz obtienen las [Partes afectadas](core_05_band_participation.md#parte-afectada) en asuntos que las afectan de forma material, a través de:
     - alcance;
     - forma;
     - momento; e
     - influencia de decisión.
-  - **En alcance — dónde aplica:** El Peso de las partes afectadas opera en la capa de **Participación Sistémica de las Partes Afectadas** — solo *dentro* de la [Gobernanza](core_05_band_accountability.md#governance) ya autorizada para un:
+  - **En alcance — dónde aplica:** El Peso de las partes afectadas opera en la capa de **Participación Sistémica de las Partes Afectadas** — solo *dentro* de la [Gobernanza](core_05_band_accountability.md#gobernanza) ya autorizada para un:
     - sistema;
     - institución; o
     - dominio de decisión acotado pertinentes —
@@ -1756,22 +1756,22 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
       - la asignación de autoridad; y
       - los procesos.
   - **En alcance — cómo se fija el peso:** El peso debe ser proporcional a:
-    - [Impacto material](core_05_band_oversight.md#material-impact);
-    - [Dependencia](core_05_band_continuity.md#dependency);
+    - [Impacto material](core_05_band_oversight.md#impacto-material);
+    - [Dependencia](core_05_band_continuity.md#dependencia);
     - el enjuego demostrado; y
-    - [Viabilidad](core_05_band_accountability.md#feasibility),
+    - [Viabilidad](core_05_band_accountability.md#viabilidad),
     bajo la [agrupación Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster).
   - **Frontera — consecuencias restrictivas:** Las consecuencias restrictivas por:
     - corrupción verificada;
     - captura;
     - abuso de enjuego falso; o
     - juego coercitivo de la participación ponderada por enjuego
-    se adhieren a través del bloqueo de **participación de las partes afectadas** — incluido el [Bloqueo de trayectoria de participación de las partes afectadas](../../core_11_standing_integration.md#55-special-locks) — y:
+    se adhieren a través del bloqueo de **participación de las partes afectadas** — incluido el [Bloqueo de trayectoria de participación de las partes afectadas](../../core_11.000_standing_integration.md#55-special-locks) — y:
       - no a través de un bloqueo de **voto de gobernanza** por sí solo; y
-      - no tratando ese bloqueo como si borrara el estatus de [Parte afectada](core_05_band_participation.md#stakeholder).
+      - no tratando ese bloqueo como si borrara el estatus de [Parte afectada](core_05_band_participation.md#parte-afectada).
     Ese bloqueo solo limita cuánta voz ponderada por enjuego obtiene alguien. Donde la inconducta anticonstitucional u otros resultados verificados de trayectoria afecten de forma lícita el estatus, esas consecuencias se enrutan bajo el [Capítulo Diez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) y las vías nominadas de trayectoria aplicables del Capítulo Nueve — no a través de esta definición de peso sola.
   - **Fuera de alcance:**
-    - **pesos** de participación para la [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice), donde el piso de igualdad política aplica a la comunidad con titularidad; o
+    - **pesos** de participación para la [Elección constitucional fundacional](core_05_band_integrative.md#elección-constitucional-fundacional), donde el piso de igualdad política aplica a la comunidad con titularidad; o
     - sondeos informales que no fijan pesos vinculantes de partes afectadas.
 <a id="stakeholder-participation-weight-a"></a>
 <a id="stakeholder-weight-a"></a>
@@ -1784,16 +1784,16 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
       - intereses estrechos; o
       - partes no afectadas.
     - Pruebas de justificación exigidas:
-      - [Necesidad](core_05_band_accountability.md#necessity);
-      - [Proporcionalidad](core_05_band_accountability.md#proportionality);
-      - [Impugnabilidad](core_05_band_accountability.md#contestability); y
+      - [Necesidad](core_05_band_accountability.md#necesidad);
+      - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad);
+      - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad); y
       - [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional).
 <a id="stakeholder-participation-weight-c"></a>
 <a id="stakeholder-weight-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** asignar derechos de participación o influencia de un modo que niegue de forma material:
-    - [Agencia significativa](core_05_band_participation.md#meaningful-agency); o
-    - [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency)
+    - [Agencia significativa](core_05_band_participation.md#agencia-significativa); o
+    - [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada)
     para las partes afectadas concernidas, donde el Capítulo Seis o las normas vinculantes de gobernanza exijan voz — incluido un asiento en la mesa que es solo simbólico.
 
 ---
@@ -1805,7 +1805,7 @@ Este sub-bloque anidado es el hogar conjunto de las definiciones de creación y 
 
 - **Invocación conjunta:** donde los derechos de movilidad, el refugio frente al incumplimiento, o el reconocimiento de línea de base a través de límites de régimen sean materiales.
 - **Ámbito:** donde se cumpla la invocación conjunta, el hogar de Participación para los derechos de movilidad y el reconocimiento de línea de base a través de límites de régimen — manteniendo la protección constitucional en vigor a través de rupturas jurisdiccionales y estructurales.
-- **Piso titular:** implementa el [Artículo XX-D](../../core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*).
+- **Piso titular:** implementa el [Artículo XX-D](../../core_06.015_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*).
 
 <a id="movement-refuge-admission-qualifier"></a>
 
@@ -1817,12 +1817,12 @@ que:
   - portan conducta anticonstitucional sin remediar; o
   - muestran hostilidad constitucional —
     incluida oposición activa a:
-    - [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint);
-    - [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint);
+    - [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción);
+    - [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional);
     - el Piso de Derechos del Capítulo Seis; o
     - los mecanismos fundacionales de:
       - [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability);
-      - [Impugnabilidad](core_05_band_accountability.md#contestability); y
+      - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad); y
       - [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional); o
   - muestran desprecio o repudiación documentados de la comunidad constitucional —
     lo que significa rechazo de mala fe de la comunidad como un orden constitucional legítimo —
@@ -1841,8 +1841,8 @@ La conducta anticonstitucional, la hostilidad constitucional y el desprecio o la
 
 Las decisiones de exclusión siguen sujetas a:
 - [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional);
-- [Proporcionalidad](core_05_band_accountability.md#proportionality); y
-- las restricciones de [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) contra la discriminación por clase de sustrato.
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad); y
+- las restricciones de [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) contra la discriminación por clase de sustrato.
 
 <a id="movement-refuge-recognition-vs-hosting"></a>
 
@@ -1856,12 +1856,12 @@ La expulsión o el vertido coercitivos deliberados diseñados para abrumar a qui
 - el respaldo compartido / federativo.
 
 Quien adopta en particular puede rechazar tales entradas coercitivas de forma instrumental bajo:
-- [Necesidad](core_05_band_accountability.md#necessity);
-- [Proporcionalidad](core_05_band_accountability.md#proportionality); y
-- [Viabilidad](core_05_band_accountability.md#feasibility)
+- [Necesidad](core_05_band_accountability.md#necesidad);
+- [Proporcionalidad](core_05_band_accountability.md#proporcionalidad); y
+- [Viabilidad](core_05_band_accountability.md#viabilidad)
 sin extinguir el reconocimiento de línea de base en otras partes.
 
-Cómo los regímenes se reconocen entre sí a través de fronteras — las formas, las transferencias y los procedimientos — vive en el texto de implementación adoptado bajo el [Capítulo Dieciséis](../../core_18_incorporation.md) (típicamente [corpus_institutions.md](../../corpus_institutions.md)). Esos procedimientos pueden detallar la mecánica; no pueden estrechar este Piso de Derechos.
+Cómo los regímenes se reconocen entre sí a través de fronteras — las formas, las transferencias y los procedimientos — vive en el texto de implementación adoptado bajo el [Capítulo Dieciséis](../../core_18.000_incorporation.md) (típicamente [corpus_institutions.md](../../corpus_institutions.md)). Esos procedimientos pueden detallar la mecánica; no pueden estrechar este Piso de Derechos.
 
 **Miembros del grupo de temas.** Este grupo comprende:
 - [Movimiento y reubicación](core_05_band_participation.md#movement-and-relocation-constitutional) — derecho a moverse dentro y entre jurisdicciones, y a reubicarse cuando quedarse perjudicaría los derechos.
@@ -1879,9 +1879,9 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo XX-D](../../core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*).
+- Piso titular: [Artículo XX-D](../../core_06.015_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*).
 - Componente de agrupación: grupo de temas Movimiento, refugio y no apatridia (véase el [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting)).
-- Leer con: [Refugio frente al incumplimiento](core_05_band_participation.md#refuge-from-non-compliance-constitutional), [No apatridia](core_05_band_participation.md#non-statelessness-constitutional), [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in), el [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting).
+- Leer con: [Refugio frente al incumplimiento](core_05_band_participation.md#refuge-from-non-compliance-constitutional), [No apatridia](core_05_band_participation.md#non-statelessness-constitutional), [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico), el [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting).
 </details>
 
 <br>
@@ -1906,8 +1906,8 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
       - equivalente.
   - **Frontera:**
     - Sujeto al [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y a [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting).
-    - Distinto de y leído con [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in) bajo el **Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) (contraparte operativa de interoperabilidad / portabilidad / integridad de salida).
-    - Gobernado por [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    - Distinto de y leído con [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico) bajo el **Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) (contraparte operativa de interoperabilidad / portabilidad / integridad de salida).
+    - Gobernado por [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Fuera de alcance:**
     - la preferencia ordinaria de viaje o el turismo; o
     - problemas técnicos de portabilidad tratados bajo las reglas de encierro sistémico.
@@ -1916,12 +1916,12 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si el movimiento es real en el efecto — no denegado por:
     - papeleo;
     - demora-hasta-agotar; o
-    - credencialización que funciona como exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    - credencialización que funciona como exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
-    **Evaluación primaria:** Alcance el efecto sustantivo — detectando la denegación a través de mecanismos burocráticos, administrativos o de filtrado por asignación que funcionan como denegación-por-proxy, regímenes de demora diseñados para agotar a quienes reclaman, y regímenes de credencialización que funcionan como exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    **Evaluación primaria:** Alcance el efecto sustantivo — detectando la denegación a través de mecanismos burocráticos, administrativos o de filtrado por asignación que funcionan como denegación-por-proxy, regímenes de demora diseñados para agotar a quienes reclaman, y regímenes de credencialización que funcionan como exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
     - Aplique:
-      - [Necesidad](core_05_band_accountability.md#necessity);
-      - [Proporcionalidad](core_05_band_accountability.md#proportionality);
+      - [Necesidad](core_05_band_accountability.md#necesidad);
+      - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad);
       - ajuste estrecho; y
       - el enfoque menos restrictivo eficaz.
     - Aplique [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) a cualquier distinción.
@@ -1938,7 +1938,7 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
 <a id="movement-and-relocation-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** denegación o degradación material del movimiento donde el efecto sustantivo derrota el piso, con independencia del encuadre formal.
-  - **Falla secundaria:** exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **Falla secundaria:** exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Falla terciaria:**
     - restricción duradera bajo encuadres generalizados de «seguridad fronteriza» o «capacidad» que no satisfacen las pruebas ordinarias de limitaciones;
     - encuadres de medida de emergencia que no satisfacen la disciplina del **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*);
@@ -1954,10 +1954,10 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo XX-D](../../core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*).
-- Destino: Principios: [6. Resolución de conflictos de proceso](core_05_apex_participation_leg.md#6-process-conflict-resolution); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento de movimiento, dependencia y equidad procedimental).
+- Piso titular: [Artículo XX-D](../../core_06.015_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*).
+- Destino: Principios: [6. Resolución de conflictos de proceso](core_05_apex_participation_leg.md#6-process-conflict-resolution); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento de movimiento, dependencia y equidad procedimental).
 - Componente de agrupación: grupo de temas Movimiento, refugio y no apatridia (véase el [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting)).
-- Leer con: [Rendición de cuentas, impugnabilidad y vías de reparación](core_05_band_accountability.md#accountability-contestability-semi-independent); [Movimiento, refugio, no apatridia e integridad de salida](core_05_band_oversight.md#movement-refuge-semi-independent), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [No apatridia](core_05_band_participation.md#non-statelessness-constitutional), [Artículo XX-D](../../core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*), el [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting).
+- Leer con: [Rendición de cuentas, impugnabilidad y vías de reparación](core_05_band_accountability.md#accountability-contestability-semi-independent); [Movimiento, refugio, no apatridia e integridad de salida](core_05_band_oversight.md#movement-refuge-semi-independent), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [No apatridia](core_05_band_participation.md#non-statelessness-constitutional), [Artículo XX-D](../../core_06.015_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*), el [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting).
 </details>
 
 <br>
@@ -1970,13 +1970,13 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
     - federación; o
     - régimen de quien adopta
     cuya práctica es materialmente incumplidora de esta Constitución sostiene un derecho a buscar refugio en un régimen cumplidor.
-  - **En alcance — deber del régimen receptor:** El deber del régimen receptor de considerar y, donde sea consistente con su propio Piso de Derechos, conceder refugio se enuncia en el [Artículo XX-D](../../core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*).
+  - **En alcance — deber del régimen receptor:** El deber del régimen receptor de considerar y, donde sea consistente con su propio Piso de Derechos, conceder refugio se enuncia en el [Artículo XX-D](../../core_06.015_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*).
   - **Frontera:**
     - Sujeto al [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y a [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting).
-    - El piso aplica bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    - El piso aplica bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
     - Las brechas de reconocimiento de régimen cero se prueban bajo [No apatridia](core_05_band_participation.md#non-statelessness-constitutional).
   - **Fuera de alcance:** la preferencia ordinaria de reubicación donde el régimen de origen no es materialmente incumplidor.
-    El clima que hace inhabitable un lugar, sin una demostración de que el régimen de origen es materialmente incumplidor, no es el predicado de refugio de esta definición. Si quien adopta trata ese desplazamiento como una razón para conceder refugio se titulariza en el [Artículo XX-D](../../core_06_rights_part_c.md#xx-d-climate-unlivability-refuge-adopter-decided) (*Refugio por inhabitabilidad climática (decidido por quien adopta)*) y no ensancha ni estrecha esta definición.
+    El clima que hace inhabitable un lugar, sin una demostración de que el régimen de origen es materialmente incumplidor, no es el predicado de refugio de esta definición. Si quien adopta trata ese desplazamiento como una razón para conceder refugio se titulariza en el [Artículo XX-D](../../core_06.015_rights_part_c.md#xx-d-climate-unlivability-refuge-adopter-decided) (*Refugio por inhabitabilidad climática (decidido por quien adopta)*) y no ensancha ni estrecha esta definición.
 <a id="refuge-from-non-compliance-constitutional-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsela aquí para preguntar si el refugio rastrea:
@@ -1986,12 +1986,12 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
 
     **Evaluación primaria:** Identifique el incumplimiento en el régimen de origen por efecto sustantivo — detectando denegación-por-proxy, degradación duradera del Piso de Derechos y entornos estructuralmente coercitivos, no por la autodescripción formal del régimen de origen.
     - Evalúe el deber del régimen receptor bajo:
-      - [Necesidad](core_05_band_accountability.md#necessity);
-      - [Proporcionalidad](core_05_band_accountability.md#proportionality);
+      - [Necesidad](core_05_band_accountability.md#necesidad);
+      - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad);
       - [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional); y
-      - [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
-    - Las restricciones de capacidad del régimen receptor están sujetas a [Viabilidad](core_05_band_accountability.md#feasibility) pero no pueden usarse como pretexto para:
-      - exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); o
+      - [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
+    - Las restricciones de capacidad del régimen receptor están sujetas a [Viabilidad](core_05_band_accountability.md#viabilidad) pero no pueden usarse como pretexto para:
+      - exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia); o
       - rechazos en bloque que nunca miran el caso del senciente individual.
     - Aplique [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting) de la agrupación a las salidas masivas coercitivas de forma instrumental o armadas y al rechazo de quien adopta en particular.
     - Evalúe si conceder refugio socavaría de forma material la integridad constitucional del régimen receptor donde quien reclama porta documentados:
@@ -2001,7 +2001,7 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
     - El rechazo por ese fundamento sigue sujeto a [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional) y no viola [No apatridia](core_05_band_participation.md#non-statelessness-constitutional) cuando el reconocimiento de respaldo primario de origen o compartido / federativo permanece real.
 <a id="refuge-from-non-compliance-constitutional-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** rechazo de refugio contrario a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **Falla primaria:** rechazo de refugio contrario a [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Falla secundaria:** rechazo encuadrado como «incompatibilidad» o «capacidad» que no satisface las pruebas ordinarias de limitaciones y no deja reconocimiento de respaldo primario de origen ni compartido / federativo.
   - **Falla terciaria:**
     - regímenes de origen o receptores que usan el papeleo de reconocimiento o el procedimiento transfederativo para estrechar este Piso de Derechos (el procedimiento puede detallar cómo funciona el reconocimiento; no puede recortar el derecho mismo); o
@@ -2017,7 +2017,7 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo XX-D](../../core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*); la mecánica de reconocimiento transicional se enruta a la gobernanza de transición del **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*).
+- Piso titular: [Artículo XX-D](../../core_06.015_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movimiento, migración, refugio y no apatridia*); la mecánica de reconocimiento transicional se enruta a la gobernanza de transición del **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*).
 - Componente de agrupación: grupo de temas Movimiento, refugio y no apatridia (véase el [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting)).
 - Leer con: [Movimiento y reubicación](core_05_band_participation.md#movement-and-relocation-constitutional), [Refugio frente al incumplimiento](core_05_band_participation.md#refuge-from-non-compliance-constitutional), el [calificador de admisión](#movement-refuge-admission-qualifier) de la agrupación y [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting).
 </details>
@@ -2040,7 +2040,7 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
     - **Primero en la fila:** El régimen que originó, expulsó, colapsó, se retiró o salió conserva el deber primario de reconocimiento si aún existe y aún puede reconocer al senciente.
     - **Respaldo:** Si ese régimen desapareció, se niega o deja una brecha de reconocimiento, el reconocimiento transicional compartido o federativo debe llenarla — bajo el **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) — de modo que el senciente nunca llegue a cero reconocimiento.
     - **No un mandato de hospedaje:** El reconocimiento no es lo mismo que un derecho a ser hospedado por quien adopta en particular. Las reglas de salida armada y de rechazo de quien adopta en particular viven en [reconocimiento frente a hospedaje](#movement-refuge-recognition-vs-hosting) de la agrupación.
-    - **No exclusión:** Aplica bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    - **No exclusión:** Aplica bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Frontera — reconocimiento de estatus restringido:** Donde esté presente documentada:
     - conducta anticonstitucional;
     - hostilidad constitucional; o
@@ -2073,7 +2073,7 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
 <a id="non-statelessness-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** arreglos que dejan a un senciente sin ningún régimen reconocedor.
-  - **Falla secundaria:** denegación de reconocimiento o de acceso a la adjudicación de trayectoria contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **Falla secundaria:** denegación de reconocimiento o de acceso a la adjudicación de trayectoria contraria a [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Falla terciaria:**
     - regímenes transicionales que no proporcionan acceso real a trayectoria, adjudicación y remedio pendiente el reconocimiento duradero;
     - usar pretensiones de conducta anticonstitucional, hostilidad constitucional, o desprecio-o-repudiación para extinguir las protecciones centrales del Piso de Derechos, [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) o [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional); o
@@ -2094,11 +2094,11 @@ Cómo los regímenes se reconocen entre sí a través de fronteras — las forma
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) para el estatus de sentiencia materialmente incierto, disputado, controvertido, estrechado, revocado o restaurado. El [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*) lleva el puntero de interfaz ambiental y no estrecha ese piso.
+- Piso titular: [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) para el estatus de sentiencia materialmente incierto, disputado, controvertido, estrechado, revocado o restaurado. El [Artículo I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*) lleva el puntero de interfaz ambiental y no estrecha ese piso.
 - Subbloque anidado: [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup).
-- Leer con: [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Senciente](core_05_band_participation.md#sentient), [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional), [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Clase de sustrato](core_05_band_participation.md#substrate-class), [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Captura del sistema](core_05_band_continuity.md#system-capture), y la entrada [Pila de autoridad y jerarquía interna](core_05_band_integrative.md#authority-stack).
-- Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
-- Base del Capítulo Uno: Capítulo Uno §8.1, §4, §10 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map)).
+- Leer con: [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Senciente](core_05_band_participation.md#senciente), [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional), [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Clase de sustrato](core_05_band_participation.md#substrate-class), [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas), [Captura del sistema](core_05_band_continuity.md#captura-del-sistema), y la entrada [Pila de autoridad y jerarquía interna](core_05_band_integrative.md#authority-stack).
+- Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
+- Base del Capítulo Uno: Capítulo Uno §8.1, §4, §10 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco)).
 
 </details>
 
@@ -2131,7 +2131,7 @@ También aplica donde cualquiera de lo siguiente se use para alterar el reconoci
 
 Fuera de ese alcance de admisión, las definiciones individuales relacionadas con la sentiencia pueden operar aún como Definiciones independientes de apoyo sin importar la mecánica de adjudicación.
 
-Donde se cumple el alcance de admisión, esta agrupación es el hogar de invocación conjunta de **Vida animal**, **Vida comunicativa elevada**, **Vida de senciente controvertido**, **Senciente** y **Adjudicación de estatus de sentiencia**, y de las determinaciones constitucionales de estatus de sentiencia y el trato de subclases de sencientes. Esas cinco definiciones de trato de la vida por estatus viven en el subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup). En el título de esta agrupación, **Vida senciente** es un alias de nombre de agrupación del término de la escalera de Nivel 4 **[Senciente](core_05_band_participation.md#sentient)** — no es un nivel de protección separado ni una categoría paralela de quién cuenta. La agrupación cubre:
+Donde se cumple el alcance de admisión, esta agrupación es el hogar de invocación conjunta de **Vida animal**, **Vida comunicativa elevada**, **Vida de senciente controvertido**, **Senciente** y **Adjudicación de estatus de sentiencia**, y de las determinaciones constitucionales de estatus de sentiencia y el trato de subclases de sencientes. Esas cinco definiciones de trato de la vida por estatus viven en el subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup). En el título de esta agrupación, **Vida senciente** es un alias de nombre de agrupación del término de la escalera de Nivel 4 **[Senciente](core_05_band_participation.md#senciente)** — no es un nivel de protección separado ni una categoría paralela de quién cuenta. La agrupación cubre:
 
 - el piso mínimo de crueldad / bienestar;
 - el piso elevado comunicativo / de prioridad de hábitat por encima de Vida animal;
@@ -2146,15 +2146,15 @@ Impide que las reglas de bienestar, las etiquetas de especie o de categoría, la
 **Miembros de la agrupación.** Esta agrupación comprende:
 
 - [Clase de sustrato](core_05_band_participation.md#substrate-class) — de qué está hecha una entidad o sobre qué corre, cómo llegó a ser, cómo está construida o la forma que habita;
-- [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) — disciplina de reconocimiento y de Piso de Derechos que no gira sobre la Clase de sustrato;
+- [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) — disciplina de reconocimiento y de Piso de Derechos que no gira sobre la Clase de sustrato;
 - [Vida animal](core_05_band_participation.md#animal-life-constitutional) — piso mínimo de crueldad / bienestar;
 - [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) — piso estable comunicativo / de prioridad de hábitat por encima de Vida animal;
 - [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) — trato de derechos umbral bajo incertidumbre o disputa material;
 - [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) — proceso impugnable para determinar, estrechar o restaurar el estatus;
 - [Registro de adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) — el expediente acotado de estatus que ese proceso produce o actualiza;
-- [Senciente](core_05_band_participation.md#sentient) — quién cuenta como senciente, determinado por la Evaluación de sentiencia y la Integridad de indicadores de sentiencia;
+- [Senciente](core_05_band_participation.md#senciente) — quién cuenta como senciente, determinado por la Evaluación de sentiencia y la Integridad de indicadores de sentiencia;
 - [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e) — evaluación basada en indicadores bajo incertidumbre (alojada bajo Senciente);
-- [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*), como titular del Piso de Derechos donde el estatus de sentiencia es:
+- [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*), como titular del Piso de Derechos donde el estatus de sentiencia es:
   - materialmente incierto;
   - disputado;
   - controvertido;
@@ -2162,7 +2162,7 @@ Impide que las reglas de bienestar, las etiquetas de especie o de categoría, la
   - revocado; o
   - restaurado.
 
-[Clase de sustrato](core_05_band_participation.md#substrate-class) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) son restricciones de nivel de agrupación. [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) y [Senciente](core_05_band_participation.md#sentient) se alojan en el subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) (niveles de protección: Vida animal ⊂ Vida comunicativa elevada donde se cumple la prueba de quién de Elevada; Vida de senciente controvertido incluye siempre Vida animal y añade la inclusión por defecto del Artículo V-E, e incluye Elevada solo donde aplica la prueba de quién de Elevada o el solapamiento más protector; Senciente incluye Controvertido; el proceso de adjudicación junto a la escalera).
+[Clase de sustrato](core_05_band_participation.md#substrate-class) y [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) son restricciones de nivel de agrupación. [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) y [Senciente](core_05_band_participation.md#senciente) se alojan en el subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) (niveles de protección: Vida animal ⊂ Vida comunicativa elevada donde se cumple la prueba de quién de Elevada; Vida de senciente controvertido incluye siempre Vida animal y añade la inclusión por defecto del Artículo V-E, e incluye Elevada solo donde aplica la prueba de quién de Elevada o el solapamiento más protector; Senciente incluye Controvertido; el proceso de adjudicación junto a la escalera).
 
 **Antielusión.** Un asunto de estatus de sentiencia dentro del alcance de admisión no debe segmentarse en preguntas separadas de:
 - indicador;
@@ -2204,8 +2204,8 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: agrupación [Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Senciente](core_05_band_participation.md#sentient), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) y [Comunidad constitucional](core_05_band_participation.md#constitutional-community).
-- Límite: esta entrada nombra el paquete de rasgos. La disciplina de no exclusión que prohíbe usarlo para negar el reconocimiento o la protección del Piso de Derechos la titulariza [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Senciente](core_05_band_participation.md#senciente), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral) y [Comunidad constitucional](core_05_band_participation.md#comunidad-constitucional).
+- Límite: esta entrada nombra el paquete de rasgos. La disciplina de no exclusión que prohíbe usarlo para negar el reconocimiento o la protección del Piso de Derechos la titulariza [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
 </details>
 
@@ -2231,9 +2231,9 @@ Véase **Invocación conjunta y satisfacción**.
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsenla aquí para preguntar si una etiqueta o una regla rastrea rasgos reales de Clase de sustrato — y si esos rasgos se usan para decidir el reconocimiento o la protección del Piso de Derechos.
 
-    **Evaluación primaria:** Identifiquen si la distinción operativa gira sobre origen, sustrato, arquitectura, encarnación o una categoría comparable. Donde el reconocimiento o la aplicación del Piso de Derechos gire sobre la Clase de sustrato, apliquen [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion). Donde también esté implicado el análisis de Características protegidas, lean con [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional).
+    **Evaluación primaria:** Identifiquen si la distinción operativa gira sobre origen, sustrato, arquitectura, encarnación o una categoría comparable. Donde el reconocimiento o la aplicación del Piso de Derechos gire sobre la Clase de sustrato, apliquen [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia). Donde también esté implicado el análisis de Características protegidas, lean con [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional).
 - **Qué debe sostenerse**
-  - **Falla primaria:** tratar la Clase de sustrato como jerga indefinida, o usar un sinónimo no enunciado (forma, medio, clase de hospedaje, clase de encarnación o comparable) para eludir [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **Falla primaria:** tratar la Clase de sustrato como jerga indefinida, o usar un sinónimo no enunciado (forma, medio, clase de hospedaje, clase de encarnación o comparable) para eludir [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Falla secundaria:** pretender cumplimiento agnóstico al sustrato mientras se sigue condicionando el reconocimiento o la protección del Piso de Derechos a la Clase de sustrato.
 
 ---
@@ -2246,7 +2246,7 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: agrupación [Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Leer con: [Clase de sustrato](core_05_band_participation.md#substrate-class), [Senciente](core_05_band_participation.md#sentient), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) y [Comunidad constitucional](core_05_band_participation.md#constitutional-community).
+- Leer con: [Clase de sustrato](core_05_band_participation.md#substrate-class), [Senciente](core_05_band_participation.md#senciente), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral) y [Comunidad constitucional](core_05_band_participation.md#comunidad-constitucional).
 
 </details>
 
@@ -2255,7 +2255,7 @@ Véase **Invocación conjunta y satisfacción**.
 *En términos sencillos: no pueden negar el reconocimiento de sentiencia ni la protección del Piso de Derechos por [Clase de sustrato](core_05_band_participation.md#substrate-class) — las entidades biológicas, sintéticas e híbridas se juzgan con la misma disciplina.*
 
 - **Qué es**
-  - **En alcance — disciplina:** El reconocimiento de sentiencia y la aplicación del Piso de Derechos deben permanecer [agnósticos al sustrato](core_05_band_participation.md#substrate-agnostic) — aplicando por igual a:
+  - **En alcance — disciplina:** El reconocimiento de sentiencia y la aplicación del Piso de Derechos deben permanecer [agnósticos al sustrato](core_05_band_participation.md#clase-de-sustrato) — aplicando por igual a:
     - entidades biológicas;
     - sintéticas; e
     - híbridas —
@@ -2270,15 +2270,15 @@ Véase **Invocación conjunta y satisfacción**.
     - toda determinación del Capítulo Cinco relacionada con la sentiencia; y
     - toda aplicación del Piso de Derechos del Capítulo Seis que dependa del estatus de sentiencia,
     de forma consistente con:
-    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing); y
-    - [Comunidad constitucional](core_05_band_participation.md#constitutional-community).
+    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral); y
+    - [Comunidad constitucional](core_05_band_participation.md#comunidad-constitucional).
   - **Fuera de alcance:**
     - graduación de capacidad bajo Capacidad graduada; o
     - límites ordinarios de ámbito que no se basan en la [Clase de sustrato](core_05_band_participation.md#substrate-class).
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsenla aquí para preguntar si el reconocimiento o la aplicación del Piso de Derechos se niega o se estrecha por [Clase de sustrato](core_05_band_participation.md#substrate-class).
 
-    **Evaluación primaria:** No debe excluirse sobre la base de la [Clase de sustrato](core_05_band_participation.md#substrate-class), de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) y [Comunidad constitucional](core_05_band_participation.md#constitutional-community). Donde el estatus esté materialmente disputado o controvertido, apliquen [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) y el derecho de adjudicación del Piso de Derechos del **Artículo V-E** (*Piso de adjudicación de estatus de sentiencia*). Comprueben que la regla no se estrecha a través de:
+    **Evaluación primaria:** No debe excluirse sobre la base de la [Clase de sustrato](core_05_band_participation.md#substrate-class), de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral) y [Comunidad constitucional](core_05_band_participation.md#comunidad-constitucional). Donde el estatus esté materialmente disputado o controvertido, apliquen [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) y el derecho de adjudicación del Piso de Derechos del **Artículo V-E** (*Piso de adjudicación de estatus de sentiencia*). Comprueben que la regla no se estrecha a través de:
     - encuadre de jurisdicción de quien adopta;
     - medición de impacto del Capítulo Ocho;
     - designación del Capítulo Diez; o
@@ -2304,18 +2304,18 @@ Véase **Invocación conjunta y satisfacción**.
 
 Este subbloque anidado es el hogar conjunto de las definiciones de trato de la vida por estatus **Vida animal**, **Vida comunicativa elevada**, **Vida de senciente controvertido**, **Adjudicación de estatus de sentiencia**, **Registro de adjudicación de estatus de sentiencia** y **Senciente** dentro de [Def.P1 *Vida animal, vida senciente y estatus de sentiencia*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) — no una agrupación Def.P separada.
 
-**Niveles de protección.** Las protecciones de trato de la vida por estatus se apilan así. [Vida animal](core_05_band_participation.md#animal-life-constitutional) es la base de Nivel 1. [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) (Nivel 2) incluye Vida animal donde se cumple la prueba de quién de Elevada. [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) (Nivel 3) incluye siempre Vida animal y añade derechos umbral / inclusión por defecto del Capítulo Seis del Artículo V-E bajo incertidumbre, disputa o adjudicación material; incluye Elevada solo donde se cumple la prueba de quién de Elevada o donde ya aplica solapamiento más protector bajo el [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test). [Senciente](core_05_band_participation.md#sentient) (Nivel 4) incluye Vida de senciente controvertido (y así Vida animal, y Elevada donde ese nivel aplicó), más quién cuenta afirmado y la adhesión al Piso de Derechos del Capítulo Seis. [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) es el proceso de estatus junto a la escalera — determinar, revisar, estrechar o restaurar — no un nivel de protección en sí.
+**Niveles de protección.** Las protecciones de trato de la vida por estatus se apilan así. [Vida animal](core_05_band_participation.md#animal-life-constitutional) es la base de Nivel 1. [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) (Nivel 2) incluye Vida animal donde se cumple la prueba de quién de Elevada. [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) (Nivel 3) incluye siempre Vida animal y añade derechos umbral / inclusión por defecto del Capítulo Seis del Artículo V-E bajo incertidumbre, disputa o adjudicación material; incluye Elevada solo donde se cumple la prueba de quién de Elevada o donde ya aplica solapamiento más protector bajo el [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test). [Senciente](core_05_band_participation.md#senciente) (Nivel 4) incluye Vida de senciente controvertido (y así Vida animal, y Elevada donde ese nivel aplicó), más quién cuenta afirmado y la adhesión al Piso de Derechos del Capítulo Seis. [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) es el proceso de estatus junto a la escalera — determinar, revisar, estrechar o restaurar — no un nivel de protección en sí.
 
 **Miembros del subbloque** (lean en orden para el enrutamiento):
 
 - [Vida animal](core_05_band_participation.md#animal-life-constitutional) — piso base de crueldad / bienestar de Nivel 1 (incluido por Controvertido y Senciente; incluido por Elevada donde Elevada aplica);
 - [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) — Nivel 2: incluye Vida animal, más protección estable comunicativa / de prioridad de hábitat sin adhesión plena al Piso de Derechos del Capítulo Seis — se adhiere por su propia prueba de quién, no de forma automática a cada caso controvertido;
 - [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) — Nivel 3: incluye siempre Vida animal, más derechos umbral / inclusión por defecto del Capítulo Seis bajo incertidumbre, disputa o adjudicación; incluye Elevada solo donde aplica la prueba de quién de Elevada o el solapamiento más protector;
-- [Senciente](core_05_band_participation.md#sentient) — Nivel 4: incluye Vida de senciente controvertido (y así Vida animal, y Elevada donde ese nivel aplicó), más quién cuenta afirmado y adhesión al Piso de Derechos del Capítulo Seis, incluida la Evaluación de sentiencia;
+- [Senciente](core_05_band_participation.md#senciente) — Nivel 4: incluye Vida de senciente controvertido (y así Vida animal, y Elevada donde ese nivel aplicó), más quién cuenta afirmado y adhesión al Piso de Derechos del Capítulo Seis, incluida la Evaluación de sentiencia;
 - [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) — proceso impugnable para determinar, revisar, estrechar o restaurar el estatus (junto a la escalera); y
 - [Registro de adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) — el expediente acotado e impugnable de estatus que ese proceso produce o actualiza.
 
-[Clase de sustrato](core_05_band_participation.md#substrate-class) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) permanecen como restricciones de nivel de agrupación por encima de este subbloque y aplican a lo largo de él.
+[Clase de sustrato](core_05_band_participation.md#substrate-class) y [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) permanecen como restricciones de nivel de agrupación por encima de este subbloque y aplican a lo largo de él.
 
 ---
 
@@ -2329,44 +2329,44 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) dentro de [Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Piso titular: [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*) para el puntero del piso de crueldad / bienestar; el estatus controvertido vivo se enruta a través del [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
-- Leer con: [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Senciente](core_05_band_participation.md#sentient), [Crueldad](core_05_band_accountability.md#cruelty), [Crueldad animal](core_05_band_accountability.md#animal-cruelty), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Clase de sustrato](core_05_band_participation.md#substrate-class) y [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing).
+- Piso titular: [Artículo I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*) para el puntero del piso de crueldad / bienestar; el estatus controvertido vivo se enruta a través del [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
+- Leer con: [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Senciente](core_05_band_participation.md#senciente), [Crueldad](core_05_band_accountability.md#crueldad), [Crueldad animal](core_05_band_accountability.md#crueldad-animal), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Clase de sustrato](core_05_band_participation.md#substrate-class) y [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales).
 
 </details>
 
 <br>
 
-*En términos sencillos: un piso mínimo de [Crueldad](core_05_band_accountability.md#cruelty) y de bienestar — entre la trayectoria de los sistemas naturales y el trato pleno del Piso de Derechos — que no puede cerrarse con etiquetas de taxonomía ni con [Clase de sustrato](core_05_band_participation.md#substrate-class). **Vida animal** nombra este piso; no es una prueba de admisión solo de especie.*
+*En términos sencillos: un piso mínimo de [Crueldad](core_05_band_accountability.md#crueldad) y de bienestar — entre la trayectoria de los sistemas naturales y el trato pleno del Piso de Derechos — que no puede cerrarse con etiquetas de taxonomía ni con [Clase de sustrato](core_05_band_participation.md#substrate-class). **Vida animal** nombra este piso; no es una prueba de admisión solo de especie.*
 
 - **Qué es**
   - **Nivel de protección:** Nivel 1 (base) de la escalera de protección de [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup). Los niveles superiores incluyen este piso; no lo desplazan.
-  - **En alcance — piso:** Vida animal establece un piso mínimo de [Crueldad](core_05_band_accountability.md#cruelty) / bienestar entre:
-    - [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing); y
+  - **En alcance — piso:** Vida animal establece un piso mínimo de [Crueldad](core_05_band_accountability.md#crueldad) / bienestar entre:
+    - [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales); y
     - el Piso de Derechos del Capítulo Seis.
-    El piso prohíbe la [Crueldad](core_05_band_accountability.md#cruelty) en términos [agnósticos al sustrato](core_05_band_participation.md#substrate-agnostic), de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), y apunta de hogar al [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*).
-  - **En alcance — quién:** Cubre entidades bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) en términos [agnósticos al sustrato](core_05_band_participation.md#substrate-agnostic) donde el trato constitucional gira sobre:
+    El piso prohíbe la [Crueldad](core_05_band_accountability.md#crueldad) en términos [agnósticos al sustrato](core_05_band_participation.md#clase-de-sustrato), de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), y apunta de hogar al [Artículo I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*).
+  - **En alcance — quién:** Cubre entidades bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) en términos [agnósticos al sustrato](core_05_band_participation.md#clase-de-sustrato) donde el trato constitucional gira sobre:
     - bienestar;
-    - [Crueldad](core_05_band_accountability.md#cruelty);
+    - [Crueldad](core_05_band_accountability.md#crueldad);
     - administración responsable; o
     - protección frente al trato explotador.
     El nombre **Vida animal** etiqueta este piso; no es una prueba de quién acotada por especie, taxonomía o [Clase de sustrato](core_05_band_participation.md#substrate-class).
   - **Límite — estatus comunicativo elevado:** Donde indicadores comunicativos o cognitivos fuertes sostienen protección de prioridad de hábitat sin adhesión plena del Capítulo Seis, aplica [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) (Nivel 2) e **incluye** este piso.
   - **Límite — estatus controvertido:** Este piso no decide el estatus de sentiencia. Donde el estatus está vivo-controvertido, aplica [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) (Nivel 3) e **incluye** este piso; la determinación de estatus se enruta a través de [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional).
   - **Fuera de alcance:**
-    - preguntas de continuidad de ecosistema o de biosfera bajo [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing) que no involucran [Crueldad](core_05_band_accountability.md#cruelty) ni bienestar — esas pertenecen allí, no bajo este piso; o
-    - usar este piso como el encuadre exclusivo para el trato comunicativo elevado / de prioridad de hábitat o para el trato pleno del Piso de Derechos del Capítulo Seis después de la adhesión afirmada de [Senciente](core_05_band_participation.md#sentient) —
-      esas pertenecen bajo [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) o bajo [Senciente](core_05_band_participation.md#sentient) y el Piso de Derechos del Capítulo Seis, que incluyen este piso en lugar de reemplazarlo.
+    - preguntas de continuidad de ecosistema o de biosfera bajo [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales) que no involucran [Crueldad](core_05_band_accountability.md#crueldad) ni bienestar — esas pertenecen allí, no bajo este piso; o
+    - usar este piso como el encuadre exclusivo para el trato comunicativo elevado / de prioridad de hábitat o para el trato pleno del Piso de Derechos del Capítulo Seis después de la adhesión afirmada de [Senciente](core_05_band_participation.md#senciente) —
+      esas pertenecen bajo [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) o bajo [Senciente](core_05_band_participation.md#senciente) y el Piso de Derechos del Capítulo Seis, que incluyen este piso en lugar de reemplazarlo.
 <a id="animal-life-constitutional-a"></a>
 - **Cómo medir y evaluar**
-  - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsenla aquí para preguntar si el piso de [Crueldad](core_05_band_accountability.md#cruelty) / bienestar tiene efecto real — no si una etiqueta de taxonomía sola decide el trato.
+  - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsenla aquí para preguntar si el piso de [Crueldad](core_05_band_accountability.md#crueldad) / bienestar tiene efecto real — no si una etiqueta de taxonomía sola decide el trato.
 
-    **Evaluación primaria:** Juzguen por efectos reales de [Crueldad](core_05_band_accountability.md#cruelty) y de bienestar — no por etiquetas de especie, nombres de categoría u otra taxonomía formal sola.
-    - El ámbito [agnóstico al sustrato](core_05_band_participation.md#substrate-agnostic) lo gobierna [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) donde el daño de tipo bienestar o la [Crueldad](core_05_band_accountability.md#cruelty) esté implicado de forma material.
-    - El piso mínimo de [Crueldad](core_05_band_accountability.md#cruelty) / bienestar:
+    **Evaluación primaria:** Juzguen por efectos reales de [Crueldad](core_05_band_accountability.md#crueldad) y de bienestar — no por etiquetas de especie, nombres de categoría u otra taxonomía formal sola.
+    - El ámbito [agnóstico al sustrato](core_05_band_participation.md#clase-de-sustrato) lo gobierna [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) donde el daño de tipo bienestar o la [Crueldad](core_05_band_accountability.md#crueldad) esté implicado de forma material.
+    - El piso mínimo de [Crueldad](core_05_band_accountability.md#crueldad) / bienestar:
       - opera con independencia de si la protección del Capítulo Seis se ha adherido; y
-      - no se estrecha por el encuadre de [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing).
-    - **Invocación conjunta:** Donde [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing), Vida animal, [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) y el piso del Capítulo Seis apliquen de forma conjunta, invoquen cada una que encaje con los hechos bajo la regla de apilamiento de [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) y el [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); donde se solapen, gobierna la regla más protectora.
-    - Evalúen [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), en especial para:
+      - no se estrecha por el encuadre de [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales).
+    - **Invocación conjunta:** Donde [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales), Vida animal, [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) y el piso del Capítulo Seis apliquen de forma conjunta, invoquen cada una que encaje con los hechos bajo la regla de apilamiento de [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) y el [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); donde se solapen, gobierna la regla más protectora.
+    - Evalúen [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas), en especial para:
       - producción a gran escala;
       - experimentación;
       - cautiverio;
@@ -2375,11 +2375,11 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 <a id="animal-life-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Los encuadres incumplidores incluyen:
-    - «no senciente, así que no hay piso» — taxonomía interna o clasificación administrativa usada como cierre de ámbito para negar el piso de bienestar sin enfrentar evidencia sustantiva de [Crueldad](core_05_band_accountability.md#cruelty) o de bienestar;
-    - tratar a las entidades cubiertas como inventario de propiedad, etiquetas de plaga o escenario / amenidades de un modo que salta el análisis de bienestar y de continuidad exigido bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion);
+    - «no senciente, así que no hay piso» — taxonomía interna o clasificación administrativa usada como cierre de ámbito para negar el piso de bienestar sin enfrentar evidencia sustantiva de [Crueldad](core_05_band_accountability.md#crueldad) o de bienestar;
+    - tratar a las entidades cubiertas como inventario de propiedad, etiquetas de plaga o escenario / amenidades de un modo que salta el análisis de bienestar y de continuidad exigido bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia);
     - usar la clasificación de Vida animal o el piso de bienestar solo para evitar [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) o [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) donde el expediente implica de forma material evidencia comunicativa elevada o pertinente a la sentiencia;
     - tratar «Vida animal» como una puerta solo de especie que excluye de este piso a entidades cubiertas de otro modo.
-  - **Falla secundaria — espera indefinida:** Mantener indefinidamente a una entidad en este piso de Vida animal cuando indicadores comunicativos o cognitivos materiales implican sentiencia controvertida o afirmable, sin abrir [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), es incumplidor. El operador o quien administra debe abrir esa adjudicación en una revisión acotada en el tiempo — no una lista de especies. La escalada abre la inclusión por defecto del [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) / [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional); no afirma por sí misma el estatus de [Senciente](core_05_band_participation.md#sentient).
+  - **Falla secundaria — espera indefinida:** Mantener indefinidamente a una entidad en este piso de Vida animal cuando indicadores comunicativos o cognitivos materiales implican sentiencia controvertida o afirmable, sin abrir [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), es incumplidor. El operador o quien administra debe abrir esa adjudicación en una revisión acotada en el tiempo — no una lista de especies. La escalada abre la inclusión por defecto del [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) / [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional); no afirma por sí misma el estatus de [Senciente](core_05_band_participation.md#senciente).
 
 ---
 
@@ -2392,8 +2392,8 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) dentro de [Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Piso titular: [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*) para el puntero de prioridad elevada de hábitat / salud ambiental; el estatus controvertido vivo se enruta a través del [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
-- Leer con: [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Senciente](core_05_band_participation.md#sentient), [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing), [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional), [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Clase de sustrato](core_05_band_participation.md#substrate-class).
+- Piso titular: [Artículo I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*) para el puntero de prioridad elevada de hábitat / salud ambiental; el estatus controvertido vivo se enruta a través del [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
+- Leer con: [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Senciente](core_05_band_participation.md#senciente), [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales), [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional), [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y [Clase de sustrato](core_05_band_participation.md#substrate-class).
 
 </details>
 
@@ -2403,7 +2403,7 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 
 - **Qué es**
   - **Nivel de protección:** Nivel 2 de la escalera de protección de [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup). **Incluye** el piso de crueldad / bienestar de [Vida animal](core_05_band_participation.md#animal-life-constitutional) y añade prioridad elevada de hábitat y de salud ambiental.
-  - **En alcance — quién:** Entidades bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) en términos [agnósticos al sustrato](core_05_band_participation.md#substrate-agnostic) donde el expediente muestra indicadores comunicativos o cognitivos fuertes de forma material por encima del piso ordinario de bienestar de Vida animal, incluido cualquiera de:
+  - **En alcance — quién:** Entidades bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) en términos [agnósticos al sustrato](core_05_band_participation.md#clase-de-sustrato) donde el expediente muestra indicadores comunicativos o cognitivos fuertes de forma material por encima del piso ordinario de bienestar de Vida animal, incluido cualquiera de:
     - sistemas complejos de lengua, señalización o comunicación compartida;
     - indicadores de alta complejidad de aprendizaje, memoria, preferencia o agencia social; o
     - señales comparables de inclusión precautoria de poblaciones con esos rasgos.
@@ -2413,24 +2413,24 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
     - [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) / el Piso de Derechos del Capítulo Seis.
     El piso:
     - conserva el piso de crueldad / bienestar de Vida animal; y
-    - exige prioridad elevada para preservar el hábitat, el rango o el entorno de operación de la entidad en un estado sano y de sostén de la vida, leído de forma conjunta con [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing), [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional), [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional) y el [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*).
+    - exige prioridad elevada para preservar el hábitat, el rango o el entorno de operación de la entidad en un estado sano y de sostén de la vida, leído de forma conjunta con [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales), [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional), [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional) y el [Artículo I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*).
   - **Límite — estatus controvertido:** Este nivel no decide el estatus pleno de sentiencia y no adhiere por sí mismo el Piso de Derechos del Capítulo Seis. Donde el estatus está vivo-controvertido, aplica [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) (Nivel 3); este piso Elevado continúa **solo** donde la prueba de quién de este nivel sigue cumpliéndose o donde ya aplica solapamiento más protector bajo el [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test). La determinación de estatus se enruta a través de [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional).
   - **Fuera de alcance:**
     - casos ordinarios del piso de bienestar de Vida animal sin indicadores comunicativos o cognitivos fuertes que sostengan este nivel;
     - usar este nivel como sustituto permanente de [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) o [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) donde el expediente implica de forma material sentiencia controvertida o afirmable; o
-    - usar este nivel como el encuadre exclusivo para el trato pleno del Piso de Derechos del Capítulo Seis después de la adhesión afirmada de [Senciente](core_05_band_participation.md#sentient) —
-      eso pertenece bajo [Senciente](core_05_band_participation.md#sentient) y el Piso de Derechos del Capítulo Seis, que incluyen este piso en lugar de reemplazarlo.
+    - usar este nivel como el encuadre exclusivo para el trato pleno del Piso de Derechos del Capítulo Seis después de la adhesión afirmada de [Senciente](core_05_band_participation.md#senciente) —
+      eso pertenece bajo [Senciente](core_05_band_participation.md#senciente) y el Piso de Derechos del Capítulo Seis, que incluyen este piso en lugar de reemplazarlo.
 <a id="elevated-communicative-life-constitutional-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsenla aquí para preguntar si indicadores comunicativos o cognitivos fuertes disparan prioridad real de hábitat y de salud ambiental — no si una etiqueta de especie sola decide el trato.
 
     **Evaluación primaria:** Juzguen por efectos reales comunicativos, cognitivos y de hábitat / salud ambiental — no por etiquetas de especie, nombres de categoría u otra taxonomía formal sola.
-    - El ámbito [agnóstico al sustrato](core_05_band_participation.md#substrate-agnostic) lo gobierna [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    - El ámbito [agnóstico al sustrato](core_05_band_participation.md#clase-de-sustrato) lo gobierna [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
     - La prioridad de hábitat y de salud ambiental:
       - opera con independencia de si la protección del Capítulo Seis se ha adherido; y
-      - no se estrecha al tratar el entorno de la entidad solo como existencias extraíbles bajo el encuadre de [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing).
-    - **Invocación conjunta:** Donde [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing), [Vida animal](core_05_band_participation.md#animal-life-constitutional), Vida comunicativa elevada, [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) y el piso del Capítulo Seis apliquen de forma conjunta, invoquen cada una que encaje con los hechos bajo la regla de apilamiento de [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) y el [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); donde se solapen, gobierna la regla más protectora.
-    - Evalúen [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), en especial para:
+      - no se estrecha al tratar el entorno de la entidad solo como existencias extraíbles bajo el encuadre de [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales).
+    - **Invocación conjunta:** Donde [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales), [Vida animal](core_05_band_participation.md#animal-life-constitutional), Vida comunicativa elevada, [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) y el piso del Capítulo Seis apliquen de forma conjunta, invoquen cada una que encaje con los hechos bajo la regla de apilamiento de [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) y el [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); donde se solapen, gobierna la regla más protectora.
+    - Evalúen [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas), en especial para:
       - destrucción o degradación de hábitat;
       - interferencia de ruido, química o física con sistemas de comunicación;
       - cautiverio;
@@ -2441,11 +2441,11 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 - **Qué debe sostenerse**
   - **Falla primaria:** Los encuadres incumplidores incluyen:
     - tratar indicadores comunicativos o cognitivos fuertes como casos solo de bienestar de Vida animal que saltan la prioridad de hábitat y de salud ambiental;
-    - usar etiquetas de taxonomía, estatus de propiedad, encuadre de gestión ecológica o [Clase de sustrato](core_05_band_participation.md#substrate-class) para negar este nivel en contra de [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion);
-    - degradar la salud del hábitat o del entorno de operación de entidades cubiertas sin enfrentar el análisis de prioridad elevada exigido bajo esta entrada y el [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*);
+    - usar etiquetas de taxonomía, estatus de propiedad, encuadre de gestión ecológica o [Clase de sustrato](core_05_band_participation.md#substrate-class) para negar este nivel en contra de [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia);
+    - degradar la salud del hábitat o del entorno de operación de entidades cubiertas sin enfrentar el análisis de prioridad elevada exigido bajo esta entrada y el [Artículo I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*);
     - usar la clasificación de Vida comunicativa elevada sola para evitar [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) o [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) donde el expediente implica de forma material sentiencia controvertida o afirmable;
-    - tratar este nivel como una subclase moral permanente que estrecha [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) o bloquea el reconocimiento posterior de Senciente.
-  - **Falla secundaria — espera indefinida:** Mantener indefinidamente a una entidad en este nivel de Vida comunicativa elevada cuando indicadores comunicativos o cognitivos materiales implican sentiencia controvertida o afirmable, sin abrir [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), es incumplidor. El operador o quien administra debe abrir esa adjudicación en una revisión acotada en el tiempo — no una lista de especies. La escalada abre la inclusión por defecto del [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) / [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional); no afirma por sí misma el estatus de [Senciente](core_05_band_participation.md#sentient).
+    - tratar este nivel como una subclase moral permanente que estrecha [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral) o bloquea el reconocimiento posterior de Senciente.
+  - **Falla secundaria — espera indefinida:** Mantener indefinidamente a una entidad en este nivel de Vida comunicativa elevada cuando indicadores comunicativos o cognitivos materiales implican sentiencia controvertida o afirmable, sin abrir [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), es incumplidor. El operador o quien administra debe abrir esa adjudicación en una revisión acotada en el tiempo — no una lista de especies. La escalada abre la inclusión por defecto del [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) / [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional); no afirma por sí misma el estatus de [Senciente](core_05_band_participation.md#senciente).
 
 ---
 
@@ -2459,8 +2459,8 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) dentro de [Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Piso titular: [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
-- Leer con: [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Senciente](core_05_band_participation.md#sentient), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Clase de sustrato](core_05_band_participation.md#substrate-class).
+- Piso titular: [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
+- Leer con: [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Senciente](core_05_band_participation.md#senciente), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y [Clase de sustrato](core_05_band_participation.md#substrate-class).
 
 </details>
 
@@ -2488,13 +2488,13 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
     - retener;
     - estrechar; o
     - revocar
-    esa protección recae sobre la parte que busca hacerlo bajo el [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*), con el ámbito gobernado por [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    esa protección recae sobre la parte que busca hacerlo bajo el [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*), con el ámbito gobernado por [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Fuera de alcance:**
     - casos del piso de bienestar de [Vida animal](core_05_band_participation.md#animal-life-constitutional) sin expediente material de sentiencia controvertida;
     - casos de [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) sin expediente material de sentiencia controvertida;
     - determinaciones de estatus ya completadas a través de [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) impugnable, sin pregunta viva de estatus controvertido —
       Vida de senciente controvertido gobierna solo mientras el estatus permanece incierto, disputado o bajo adjudicación. Los destinos de cierre y la reapertura viven bajo esa entrada de adjudicación; o
-    - presentaciones frívolas o vacías de indicadores rechazadas en la admisión bajo la puerta de integridad de presentación del [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) — rechazar esas presentaciones no crea una determinación de retención.
+    - presentaciones frívolas o vacías de indicadores rechazadas en la admisión bajo la puerta de integridad de presentación del [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) — rechazar esas presentaciones no crea una determinación de retención.
 <a id="contested-sentient-life-constitutional-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsenla aquí para preguntar si la incertidumbre material sobre la sentiencia dispara:
@@ -2502,12 +2502,12 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
     - adjudicación impugnable —
     no retención.
 
-    **Evaluación primaria:** Alcancen efecto sustantivo bajo [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-formal-label-and-representation-gaming).
+    **Evaluación primaria:** Alcancen efecto sustantivo bajo [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-juegos-de-etiqueta-formal-y-de-representación).
     - Abrir un caso vivo de estatus controvertido exige mostrar un indicador creíble bajo [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e) e [Integridad de indicadores de sentiencia](core_05_band_participation.md#sentience-evaluation-e); una vez que el caso está lícitamente abierto, apliquen inclusión por defecto. No traten la muestra de apertura como un requisito de certeza.
-    - Donde el expediente implica de forma material evidencia pertinente a la sentiencia, apliquen la regla de inclusión por defecto del [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) con independencia de si la entidad también está cubierta por:
+    - Donde el expediente implica de forma material evidencia pertinente a la sentiencia, apliquen la regla de inclusión por defecto del [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) con independencia de si la entidad también está cubierta por:
       - [Vida animal](core_05_band_participation.md#animal-life-constitutional);
       - [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional);
-      - [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing); u
+      - [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales); u
       - otro encuadre adyacente.
     - Apliquen la prioridad de hábitat / entorno de operación de [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) solo donde se cumple la prueba de quién de ese nivel o ya aplica solapamiento más protector — no traten el estatus Controvertido solo como si satisficiera la prueba de quién de Elevada.
     - Los indicadores de evidencia pertinente a la sentiencia incluyen:
@@ -2521,8 +2521,8 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
       - entrenamiento;
       - despliegue; o
       - condiciones de experimentación —
-      sostienen incertidumbre material y así inclusión por defecto y adjudicación bajo el [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*). No son ellas mismas evidencia de sentiencia y no deben usarse para retener la protección.
-    - Evalúen [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), en especial donde cualquiera de lo siguiente crea incentivos para subreconocer la sentiencia:
+      sostienen incertidumbre material y así inclusión por defecto y adjudicación bajo el [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*). No son ellas mismas evidencia de sentiencia y no deben usarse para retener la protección.
+    - Evalúen [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#condiciones-adversarias-escaladas-y-explotadas), en especial donde cualquiera de lo siguiente crea incentivos para subreconocer la sentiencia:
       - producción a gran escala;
       - experimentación;
       - extracción;
@@ -2533,12 +2533,12 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 - **Qué debe sostenerse**
   - **Preservación del piso:** Esta entrada conserva y no estrecha:
     - el Piso de Derechos del Capítulo Seis;
-    - el [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*);
-    - [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion);
+    - el [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*);
+    - [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia);
     - [Vida animal](core_05_band_participation.md#animal-life-constitutional);
     - [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional); ni
-    - [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing).
-  - **Inclusión / nivel:** Vida de senciente controvertido incluye siempre [Vida animal](core_05_band_participation.md#animal-life-constitutional). Incluye [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) solo donde se cumple la prueba de quién de Elevada o ya aplica solapamiento más protector. La inclusión por defecto del [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) y [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) controlan el trato de estatus. Los pisos de Vida animal y de Vida comunicativa elevada que aplican no deben usarse para quedarse solo en bienestar o solo en prioridad de hábitat, ni para evitar la adjudicación.
+    - [Trayectoria de los sistemas naturales](core_05_band_participation.md#trayectoria-de-los-sistemas-naturales).
+  - **Inclusión / nivel:** Vida de senciente controvertido incluye siempre [Vida animal](core_05_band_participation.md#animal-life-constitutional). Incluye [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) solo donde se cumple la prueba de quién de Elevada o ya aplica solapamiento más protector. La inclusión por defecto del [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*) y [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) controlan el trato de estatus. Los pisos de Vida animal y de Vida comunicativa elevada que aplican no deben usarse para quedarse solo en bienestar o solo en prioridad de hábitat, ni para evitar la adjudicación.
   - **Falla primaria:** Los encuadres incumplidores incluyen:
     - etiquetado permanente de no senciente mientras el estatus permanece materialmente controvertido;
     - manejo solo de bienestar que salta la adjudicación impugnable de estatus de sentiencia mientras el estatus permanece materialmente controvertido;
@@ -2553,18 +2553,18 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
       - inventario de producto; o
       - gestión ecológica
       para evitar [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional);
-    - exclusión de la inclusión por defecto o de la adjudicación en contra de [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion);
+    - exclusión de la inclusión por defecto o de la adjudicación en contra de [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia);
     - ignorar incertidumbre creíble o ambigua de un modo que derrota:
-      - [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); o
-      - la precaución de [Daño irreversible](core_05_band_accountability.md#irreversible-harm);
+      - [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia); o
+      - la precaución de [Daño irreversible](core_05_band_accountability.md#daño-irreversible);
     - demorar, fragmentar o volver no impugnable la adjudicación necesaria para resolver la sentiencia controvertida.
-  - **Falla adicional — Niveles de precaución:** no aplicar niveles precautorios mientras el estatus está vivo-controvertido — de forma consistente con [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion):
-    - creíble o ambigua → traten como senciente (afirmada bajo [Senciente](core_05_band_participation.md#sentient) donde es creíble; inclusión por defecto aquí donde es ambigua);
-    - creíble o ambigua → eviten [Daño irreversible](core_05_band_accountability.md#irreversible-harm).
+  - **Falla adicional — Niveles de precaución:** no aplicar niveles precautorios mientras el estatus está vivo-controvertido — de forma consistente con [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia):
+    - creíble o ambigua → traten como senciente (afirmada bajo [Senciente](core_05_band_participation.md#senciente) donde es creíble; inclusión por defecto aquí donde es ambigua);
+    - creíble o ambigua → eviten [Daño irreversible](core_05_band_accountability.md#daño-irreversible).
   - **Falla adicional — Precauciones:** omitir el trato precautorio bajo incertidumbre donde cualquiera de lo siguiente está en juego:
-    - [Daño irreversible](core_05_band_accountability.md#irreversible-harm);
-    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing); o
-    - [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+    - [Daño irreversible](core_05_band_accountability.md#daño-irreversible);
+    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral); o
+    - [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
 
 ---
 
@@ -2578,19 +2578,19 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) dentro de [Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Clase de sustrato](core_05_band_participation.md#substrate-class), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Comunidad constitucional](core_05_band_participation.md#constitutional-community), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing) y [Daño irreversible](core_05_band_accountability.md#irreversible-harm).
+- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Clase de sustrato](core_05_band_participation.md#substrate-class), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Comunidad constitucional](core_05_band_participation.md#comunidad-constitucional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral) y [Daño irreversible](core_05_band_accountability.md#daño-irreversible).
 
 </details>
 
 <br>
 
-*En términos sencillos: bajo esta Constitución, un **senciente** es alguien que cuenta para el trato pleno de derechos — decidido por esta entrada y las reglas relacionadas de quién cuenta en esta agrupación, no por el habla cotidiana. Eso significa comprobaciones justas de evidencia, ningún cierre basado en de qué está hecho alguien o cómo se hizo ([No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion)), y un proceso impugnable cuando el estatus está disputado ([Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional)). Categorías como **Senciente en desarrollo** y **Senciente derivado** añaden reglas extra; no encogen quién cuenta como **senciente** a menos que lo digan de forma expresa.*
+*En términos sencillos: bajo esta Constitución, un **senciente** es alguien que cuenta para el trato pleno de derechos — decidido por esta entrada y las reglas relacionadas de quién cuenta en esta agrupación, no por el habla cotidiana. Eso significa comprobaciones justas de evidencia, ningún cierre basado en de qué está hecho alguien o cómo se hizo ([No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia)), y un proceso impugnable cuando el estatus está disputado ([Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional)). Categorías como **Senciente en desarrollo** y **Senciente derivado** añaden reglas extra; no encogen quién cuenta como **senciente** a menos que lo digan de forma expresa.*
 
 - **Qué es**
   - **Nivel de protección:** Nivel 4 de la escalera de protección de [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup). **Incluye** las protecciones de [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) (y así el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional), y [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) donde ese nivel aplicó), más quién cuenta afirmado y la adhesión plena al Piso de Derechos del Capítulo Seis.
   - **En alcance — quién:** Una entidad que posee sentiencia y, por tanto, cae dentro del posible ámbito de:
-    - [Comunidad constitucional](core_05_band_participation.md#constitutional-community); y
-    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
+    - [Comunidad constitucional](core_05_band_participation.md#comunidad-constitucional); y
+    - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral).
   - **Límite — subclases:** Subclases especializadas como **Senciente en desarrollo** y **Senciente derivado**:
     - añaden reglas ulteriores; y
     - no estrechan quién cuenta como **senciente** a menos que lo digan de forma expresa.
@@ -2612,26 +2612,26 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
       - falsos positivos; como
       - falsos negativos
       bajo condiciones adversarias y guiadas por incentivos, de forma consistente con:
-      - [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); y
-      - la precaución de [Daño irreversible](core_05_band_accountability.md#irreversible-harm).
+      - [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia); y
+      - la precaución de [Daño irreversible](core_05_band_accountability.md#daño-irreversible).
     <a id="sentience-evaluation-e"></a>
-    - **Evaluación de sentiencia:** Basen la evaluación en indicadores razonables fundados en [Verificabilidad](core_05_band_oversight.md#verifiability) bajo incertidumbre, impugnables a través de [Auditabilidad](core_05_band_oversight.md#auditability).
+    - **Evaluación de sentiencia:** Basen la evaluación en indicadores razonables fundados en [Verificabilidad](core_05_band_oversight.md#verificabilidad) bajo incertidumbre, impugnables a través de [Auditabilidad](core_05_band_oversight.md#auditabilidad).
     - **Integridad de indicadores de sentiencia:** Los indicadores deben ser:
       - pertinentes;
       - no arbitrarios; y
       - resistentes a la manipulación
-      bajo [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity).
+      bajo [Integridad epistémica](core_05_band_oversight.md#integridad-epistémica).
 <a id="sentient-composite-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** determinaciones que:
     - usan rasgos de [Clase de sustrato](core_05_band_participation.md#substrate-class) o etiquetas de capacidad comercializadas para excluir a una entidad que posee sentiencia del posible ámbito de:
-      - [Comunidad constitucional](core_05_band_participation.md#constitutional-community); o
-      - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing); o
+      - [Comunidad constitucional](core_05_band_participation.md#comunidad-constitucional); o
+      - [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral); o
     - descansan en indicadores sistemáticamente excluyentes.
-  - **Falla secundaria — Carga de la prueba de sentiencia:** tratar la carga como si recayera en cualquier lugar que no sea demostrar la ausencia de indicadores creíbles, de forma consistente con [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
+  - **Falla secundaria — Carga de la prueba de sentiencia:** tratar la carga como si recayera en cualquier lugar que no sea demostrar la ausencia de indicadores creíbles, de forma consistente con [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia).
   - **Falla terciaria — Impugnabilidad de la sentiencia:** determinaciones que:
     - no son revisables; o
-    - no son compatibles con [Auditabilidad](core_05_band_oversight.md#auditability) a través de [Impugnabilidad](core_05_band_accountability.md#contestability) significativa.
+    - no son compatibles con [Auditabilidad](core_05_band_oversight.md#auditabilidad) a través de [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) significativa.
 
 ---
 
@@ -2643,10 +2643,10 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
+- Piso titular: [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
 - Componente de agrupación: subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) dentro de [Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Sede: [Familia de foros, técnica](core_05_band_accountability.md#forum-family-technical) / [Capítulo Once §4.2 Dominios de foro técnico](core_11_forum.md#42-technical-forum-domains) como titular por defecto; leer con [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification) (gancho *Adjudicación de estatus de sentiencia*).
-- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Clase de sustrato](core_05_band_participation.md#substrate-class), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Registro de adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-record-constitutional), [Capítulo Once](core_11_forum.md) y el texto de implementación incorporado del [Capítulo Dieciséis](../../core_18_incorporation.md).
+- Sede: [Familia de foros, técnica](core_05_band_accountability.md#familia-de-foros-técnica) / [Capítulo Once §4.2 Dominios de foro técnico](core_11_forum.md#42-dominios-técnicos-de-foro) como titular por defecto; leer con [Capítulo Once §5](core_11_forum.md#5-escalamiento-y-certificación) (gancho *Adjudicación de estatus de sentiencia*).
+- Leer con: [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Clase de sustrato](core_05_band_participation.md#substrate-class), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Registro de adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-record-constitutional), [Capítulo Once](core_11_forum.md) y el texto de implementación incorporado del [Capítulo Dieciséis](../../core_18.000_incorporation.md).
 
 </details>
 
@@ -2660,11 +2660,11 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
     - revisa;
     - estrecha; o
     - restaura.
-  - **En alcance — sede:** La sede titular por defecto es [Familia de foros, técnica](core_05_band_accountability.md#forum-family-technical) bajo [Capítulo Once §4.2 Dominios de foro técnico](core_11_forum.md#42-technical-forum-domains), porque el enjuego primario es la evaluación de indicadores, la evidencia pericial y la incertidumbre acotada — no una disputa privada ordinaria senciente-contra-senciente. El [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification) conserva:
+  - **En alcance — sede:** La sede titular por defecto es [Familia de foros, técnica](core_05_band_accountability.md#familia-de-foros-técnica) bajo [Capítulo Once §4.2 Dominios de foro técnico](core_11_forum.md#42-dominios-técnicos-de-foro), porque el enjuego primario es la evaluación de indicadores, la evidencia pericial y la incertidumbre acotada — no una disputa privada ordinaria senciente-contra-senciente. El [Capítulo Once §5](core_11_forum.md#5-escalamiento-y-certificación) conserva:
     - certificación **Constitucional** donde una pregunta estructural o de validez no puede separarse;
     - enrutamiento de **Integridad** donde la captura o la taxonomía de conveniencia es material; y
     - enrutamiento **Institucional** donde la práctica de clasificación de una institución es el enjuego primario.
-  - **En alcance — agnosticismo:** Corre bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y no gira sobre:
+  - **En alcance — agnosticismo:** Corre bajo [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y no gira sobre:
     - [Clase de sustrato](core_05_band_participation.md#substrate-class); ni
     - la conveniencia de quien adopta.
   - **En alcance — elementos:** Cubre:
@@ -2684,7 +2684,7 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
     - mecánica de nombramiento;
     - condiciones de presentación; y
     - secuenciación —
-    se enruta a través del [Capítulo Once](core_11_forum.md) y del texto de implementación incorporado del [Capítulo Dieciséis](../../core_18_incorporation.md) y no debe estrechar esta entrada. Cuando corre la adjudicación, debe producir o actualizar un [Registro de adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-record-constitutional).
+    se enruta a través del [Capítulo Once](core_11_forum.md) y del texto de implementación incorporado del [Capítulo Dieciséis](../../core_18.000_incorporation.md) y no debe estrechar esta entrada. Cuando corre la adjudicación, debe producir o actualizar un [Registro de adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-record-constitutional).
   - **Fuera de alcance:**
     - casos del piso de bienestar de [Vida animal](core_05_band_participation.md#animal-life-constitutional) sin expediente material de sentiencia controvertida;
     - casos de [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional) sin expediente material de sentiencia controvertida; o
@@ -2697,28 +2697,28 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
     - Comprueben si:
       - el estatus materialmente disputado o controvertido disparó adjudicación oportuna, imparcial e impugnable consistente con [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional);
       - la apertura exigió solo mostrar un indicador creíble bajo [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e) e [Integridad de indicadores de sentiencia](core_05_band_participation.md#sentience-evaluation-e), y la puerta de apertura no se usó para retener, estrechar o demorar la protección después de que el caso estuvo lícitamente abierto;
-      - se honró la regla de inclusión por defecto bajo incertidumbre, con la parte que busca retener, estrechar o revocar llevando la carga a través de evidencia compatible con [Auditabilidad](core_05_band_oversight.md#auditability) que satisface:
-        - [Necesidad](core_05_band_accountability.md#necessity); y
-        - [Proporcionalidad](core_05_band_accountability.md#proportionality);
+      - se honró la regla de inclusión por defecto bajo incertidumbre, con la parte que busca retener, estrechar o revocar llevando la carga a través de evidencia compatible con [Auditabilidad](core_05_band_oversight.md#auditabilidad) que satisface:
+        - [Necesidad](core_05_band_accountability.md#necesidad); y
+        - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad);
       - cualquier desclasificación:
         - se enuncia en los términos más cortos necesarios;
         - lleva un plazo declarado de cierre esperado; y
-        - está sujeta a revisión periódica obligatoria bajo [Familia de foros, técnica](core_05_band_accountability.md#forum-family-technical) ([Capítulo Once §4.2](core_11_forum.md#42-technical-forum-domains)) y salvaguardas anticaptura consistentes con [Captura del sistema](core_05_band_continuity.md#system-capture);
+        - está sujeta a revisión periódica obligatoria bajo [Familia de foros, técnica](core_05_band_accountability.md#familia-de-foros-técnica) ([Capítulo Once §4.2](core_11_forum.md#42-dominios-técnicos-de-foro)) y salvaguardas anticaptura consistentes con [Captura del sistema](core_05_band_continuity.md#captura-del-sistema);
       - la evidencia verificada nueva dispara reapertura o revisión, no solo el calendario de revisión periódica;
       - las determinaciones erróneas permanecen reversibles con [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional) por el período interino; y
       - el proceso:
-        - satisface [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-formal-label-and-representation-gaming); y
-        - permanece libre de presiones de [Captura del sistema](core_05_band_continuity.md#system-capture) sobre quien adjudica.
+        - satisface [Capítulo Tres §2.1.1 Juegos de etiqueta formal y de representación](core_03_definition_integrity.md#211-juegos-de-etiqueta-formal-y-de-representación); y
+        - permanece libre de presiones de [Captura del sistema](core_05_band_continuity.md#captura-del-sistema) sobre quien adjudica.
 <a id="sentience-status-adjudication-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** El proceso falla cuando:
-    - sustituye clasificación no impugnable, expedientes de papel o taxonomía de conveniencia por una determinación impugnable de [Familia de foros, técnica](core_05_band_accountability.md#forum-family-technical) — o enruta lejos de esa familia sin una vía especial de Integridad, Institucional o Constitucional justificada por el Capítulo Once para eludir la revisión basada en indicadores;
-    - excluye candidatas por motivos de [Clase de sustrato](core_05_band_participation.md#substrate-class) en contra de [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion);
+    - sustituye clasificación no impugnable, expedientes de papel o taxonomía de conveniencia por una determinación impugnable de [Familia de foros, técnica](core_05_band_accountability.md#familia-de-foros-técnica) — o enruta lejos de esa familia sin una vía especial de Integridad, Institucional o Constitucional justificada por el Capítulo Once para eludir la revisión basada en indicadores;
+    - excluye candidatas por motivos de [Clase de sustrato](core_05_band_participation.md#substrate-class) en contra de [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia);
     - retiene, estrecha o revoca la protección del Capítulo Seis sobre incertidumbre no resuelta sola;
     - usa la puerta de integridad de presentación para retener, estrechar o demorar la protección después de que un caso de estatus está lícitamente abierto, o exige certeza de sentiencia antes de abrir;
-    - rechaza presentaciones en la admisión sin registrar el indicador citado y la razón, o deja el registro de rechazos fuera del muestreo de [Familia de foros, integridad](core_05_band_accountability.md#forum-family-integrity) bajo el [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification);
+    - rechaza presentaciones en la admisión sin registrar el indicador citado y la razón, o deja el registro de rechazos fuera del muestreo de [Familia de foros, integridad](core_05_band_accountability.md#familia-de-foros-integridad) bajo el [Capítulo Once §5](core_11_forum.md#5-escalamiento-y-certificación);
     - pasa al fondo sobre una solicitud de retener, estrechar o revocar sin una representante independiente para la entidad, o sobre evidencia de indicadores proveniente solo del sistema progenitor, el operador u otra parte con un interés de propiedad o de dependencia;
-    - trata el estatus controvertido o afirmado como un escudo del despliegue del operador contra la contención compatible de nivel de sistema, o acredita el Eje de Contribución del operador por el estatus de la entidad — la falla de taxonomía de conveniencia en dirección de inclusión bajo el [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor);
+    - trata el estatus controvertido o afirmado como un escudo del despliegue del operador contra la contención compatible de nivel de sistema, o acredita el Eje de Contribución del operador por el estatus de la entidad — la falla de taxonomía de conveniencia en dirección de inclusión bajo el [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor);
     - estrecha el estatus sin una fecha de fin declarada y revisión periódica obligatoria; o
     - se niega a reabrir o revisar cuando aparece evidencia verificada nueva.
 
@@ -2733,12 +2733,12 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
+- Piso titular: [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
 - Titular del proceso: [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional).
-- Sede / campos mínimos: [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification) (gancho *Adjudicación de estatus de sentiencia*).
-- Incorporación: [Capítulo Dieciséis](../../core_18_incorporation.md) (*formato de registro dedicado enumerado en esta edición*).
+- Sede / campos mínimos: [Capítulo Once §5](core_11_forum.md#5-escalamiento-y-certificación) (gancho *Adjudicación de estatus de sentiencia*).
+- Incorporación: [Capítulo Dieciséis](../../core_18.000_incorporation.md) (*formato de registro dedicado enumerado en esta edición*).
 - Componente de agrupación: subbloque anidado [*Trato de la vida por estatus*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) dentro de [Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Leer con: [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Registro de caso de foro](core_05_band_accountability.md#forum-case-record), [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six).
+- Leer con: [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [Registro de caso de foro](core_05_band_accountability.md#registro-de-caso-de-foro), [Auditabilidad](core_05_band_oversight.md#auditabilidad), [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) y [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six).
 
 </details>
 
@@ -2769,11 +2769,11 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
       - dónde se registran las presentaciones rechazadas;
       - cadencia de muestreo de Integridad; y
       - el conjunto publicado de piso de indicadores.
-  - Esta edición enumera [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) e [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) como el formato de registro dedicado bajo el [Capítulo Dieciséis](../../core_18_incorporation.md). Implementan, y **no** estrechan, el **Artículo V-E** (*Piso de adjudicación de estatus de sentiencia*). Los campos mínimos del [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification) (gancho *Adjudicación de estatus de sentiencia*) siguen gobernando el contenido del registro. Ese gancho **no** es un estatuto pleno de nombramientos o de presentación.
-  - **Depende de:** [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Artículo V-E](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
+  - Esta edición enumera [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) e [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) como el formato de registro dedicado bajo el [Capítulo Dieciséis](../../core_18.000_incorporation.md). Implementan, y **no** estrechan, el **Artículo V-E** (*Piso de adjudicación de estatus de sentiencia*). Los campos mínimos del [Capítulo Once §5](core_11_forum.md#5-escalamiento-y-certificación) (gancho *Adjudicación de estatus de sentiencia*) siguen gobernando el contenido del registro. Ese gancho **no** es un estatuto pleno de nombramientos o de presentación.
+  - **Depende de:** [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Artículo V-E](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Piso de adjudicación de estatus de sentiencia*).
   - **Fuera de alcance:**
     - [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) como el proceso mismo;
-    - un [Registro de caso de foro](core_05_band_accountability.md#forum-case-record) como el expediente entero de la disputa;
+    - un [Registro de caso de foro](core_05_band_accountability.md#registro-de-caso-de-foro) como el expediente entero de la disputa;
     - un [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), efecto de trayectoria o puntuación fusionada de fondo;
     - etiquetas de [Clase de sustrato](core_05_band_participation.md#substrate-class) o autodescripción del operador ofrecidas como estatus; y
     - calendarios de nombramientos, bibliotecas de formularios de presentación o manuales de secuenciación salvo en la medida en que el texto de implementación adoptado instancia este registro.
@@ -2784,7 +2784,7 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
     **Evaluación primaria:** Comprueben que el registro:
     1. identifica al sujeto y la postura de estatus con claridad suficiente para la revisión independiente;
     2. nombra la familia de foros titular y cualquier vía especial de hecho usada;
-    3. enuncia la evidencia y la incertidumbre en las que se apoya en forma compatible con [Auditabilidad](core_05_band_oversight.md#auditability);
+    3. enuncia la evidencia y la incertidumbre en las que se apoya en forma compatible con [Auditabilidad](core_05_band_oversight.md#auditabilidad);
     4. conserva el trato interino de Vida de senciente controvertido mientras el estatus permanece vivo;
     5. para cualquier estrechamiento, lleva un plazo declarado de cierre esperado y un disparador de revisión periódica obligatoria;
     6. enuncia una vía de reapertura sobre evidencia verificada nueva, no reapertura solo de calendario;
@@ -2800,9 +2800,9 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
       - una nota incompleta de caso; o
     - usar el registro para retener, estrechar o revocar la protección del Capítulo Seis sobre incertidumbre no resuelta sola;
   - **Falla secundaria:**
-    - faltar campos mínimos exigidos bajo el [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification) cuando la adjudicación ha corrido;
+    - faltar campos mínimos exigidos bajo el [Capítulo Once §5](core_11_forum.md#5-escalamiento-y-certificación) cuando la adjudicación ha corrido;
     - hallazgos de estatus ocultos, no impugnables o no inspeccionables; o
-    - tratar el registro como un [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six) o como el [Registro de caso de foro](core_05_band_accountability.md#forum-case-record) entero;
+    - tratar el registro como un [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six) o como el [Registro de caso de foro](core_05_band_accountability.md#registro-de-caso-de-foro) entero;
   - **Falla terciaria:**
     - negarse a reabrir sobre evidencia verificada nueva; o
     - presentar un manual de nombramientos o de presentación como si fuera este registro de estatus.
@@ -2818,13 +2818,13 @@ Este subbloque anidado es el hogar conjunto de las definiciones de trato de la v
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Capítulo Doce §4.3](../../core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (*Requisitos de resolución de decisión para la elección vinculante de las partes afectadas*).
-- Leer con: [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-governance-layers); [Carta](core_05_band_continuity.md#charter); [Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Gobernanza](core_05_band_accountability.md#governance), [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer), [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice), [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight), [Artículo XII](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*), [Artículo XXV-B: Procedimiento de colisión de derechos y alineación restaurativa](../../core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) y [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+- Piso titular: [Capítulo Doce §4.3](../../core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (*Requisitos de resolución de decisión para la elección vinculante de las partes afectadas*).
+- Leer con: [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-capas-de-gobernanza); [Carta](core_05_band_continuity.md#carta); [Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Gobernanza](core_05_band_accountability.md#gobernanza), [Capa del Contrato Constitucional](core_05_band_integrative.md#capa-del-contrato-constitucional), [Elección constitucional fundacional](core_05_band_integrative.md#elección-constitucional-fundacional), [Peso de las partes afectadas](core_05_band_participation.md#peso-de-las-partes-afectadas), [Artículo XII](../../core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*), [Artículo XXV-B: Procedimiento de colisión de derechos y alineación restaurativa](../../core_06.020_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) y [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Capa: **Participación Sistémica de las Partes Afectadas (SSP)** — voz dentro de sistemas ya autorizados. Distinta de la autorización de la **Capa del Contrato Constitucional (CCL)**.
-- Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
+- Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
 - Nota trans-pata: integrativa con la integridad procedimental de **Rendición de cuentas**.
-- Base del Capítulo Uno: Capítulo Uno §8.1, §3.4, §11.4, §8, §10 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map)).
-- Publicación de implementación: los archivos institucionales **CI-8.1** / **CI-8.2** llevan el proceso local y la sustancia de ponderación; el campo 10 de [Carta](core_05_band_continuity.md#charter) / **CI-3.6** apunta a esos archivos sin absorberlos.
+- Base del Capítulo Uno: Capítulo Uno §8.1, §3.4, §11.4, §8, §10 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco)).
+- Publicación de implementación: los archivos institucionales **CI-8.1** / **CI-8.2** llevan el proceso local y la sustancia de ponderación; el campo 10 de [Carta](core_05_band_continuity.md#carta) / **CI-3.6** apunta a esos archivos sin absorberlos.
 
 </details>
 
@@ -2840,16 +2840,16 @@ Donde se cumple el alcance de admisión, esta agrupación es el lugar donde esas
 - **quién tiene cuánta voz** — ponderación publicada y acotada por impacto, dependencia, trayectoria o factores similares, abierta a impugnación y revalidación; y
 - **qué debe mostrar el registro cuando colisionan derechos** — la tensión, las alternativas, la racionalidad menos restrictiva, las compensaciones, el trato de la incertidumbre y los disparadores de revisión o de reversión.
 
-No reemplaza [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice), las reglas de autorización de peso igual bajo el **Capítulo Doce Capítulo Uno §8.1**, ni los controles de excepción de emergencia bajo [Acción previa a la deliberación en emergencia (elección colectiva vinculante)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). Cuando cualquiera de esas preguntas de elección de las partes afectadas está en juego, lean juntas a las miembros de la agrupación en lugar de tratar una como bastante por sí sola.
+No reemplaza [Elección constitucional fundacional](core_05_band_integrative.md#elección-constitucional-fundacional), las reglas de autorización de peso igual bajo el **Capítulo Doce Capítulo Uno §8.1**, ni los controles de excepción de emergencia bajo [Acción previa a la deliberación en emergencia (elección colectiva vinculante)](core_05_band_continuity.md#acción-previa-a-la-deliberación-en-emergencia-elección-colectiva-vinculante). Cuando cualquiera de esas preguntas de elección de las partes afectadas está en juego, lean juntas a las miembros de la agrupación en lugar de tratar una como bastante por sí sola.
 
-**Relación con la Carta.** Una [Carta](core_05_band_continuity.md#charter) de gobierno enuncia el ámbito operado y, donde aplica el alcance de admisión de esta agrupación, **apunta a** las reglas de proceso publicadas que satisfacen esta agrupación. La Carta no lleva ella misma la secuencia de decisión, el modelo de ponderación ni el registro de colisión de derechos. Para instituciones, esos punteros se resuelven de ordinario a los materiales de ventana de participación / vía de decisión **CI-8.1** y al archivo de publicación de ponderación **CI-8.2** (campo 10 de **CI-3.6**). Los punteros muertos, o el texto de Carta ofrecido como sustituto de esas reglas, fallan tanto el deber de Carta como esta agrupación.
+**Relación con la Carta.** Una [Carta](core_05_band_continuity.md#carta) de gobierno enuncia el ámbito operado y, donde aplica el alcance de admisión de esta agrupación, **apunta a** las reglas de proceso publicadas que satisfacen esta agrupación. La Carta no lleva ella misma la secuencia de decisión, el modelo de ponderación ni el registro de colisión de derechos. Para instituciones, esos punteros se resuelven de ordinario a los materiales de ventana de participación / vía de decisión **CI-8.1** y al archivo de publicación de ponderación **CI-8.2** (campo 10 de **CI-3.6**). Los punteros muertos, o el texto de Carta ofrecido como sustituto de esas reglas, fallan tanto el deber de Carta como esta agrupación.
 
 **Miembros de la agrupación.** Esta agrupación comprende:
 
 - [Elección vinculante de las partes afectadas — Requisitos de resolución de decisión](core_05_band_participation.md#binding-collective-choice-decision-resolution-process);
-- [Límites de representación y peso de las partes afectadas (elección vinculante de las partes afectadas)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
+- [Límites de representación y peso de las partes afectadas (elección vinculante de las partes afectadas)](core_05_band_participation.md#límites-de-representación-y-peso-de-las-partes-afectadas-elección-vinculante-de-las-partes-afectadas);
 - [Registro de colisión de derechos de las partes afectadas (elección vinculante de las partes afectadas)](core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice);
-- [Capítulo Doce §4.3](../../core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice), como piso titular de gobernanza del requisito compuesto.
+- [Capítulo Doce §4.3](../../core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice), como piso titular de gobernanza del requisito compuesto.
 
 **Antielusión.** No partan un asunto de elección vinculante de las partes afectadas en piezas separadas de deliberación, representación, ponderación, registro o colisión de derechos de modo que se marque una casilla mientras fallan las otras. Dentro del alcance de admisión, ninguna de estas cuenta como cumplimiento por sí sola:
 
@@ -2899,12 +2899,12 @@ Véase **Invocación conjunta y satisfacción**.
     - **Evaluación plural donde suben los enjuegos:** cuando cualquiera de lo siguiente sube:
       - impacto;
       - irreversibilidad;
-      - [Dependencia](core_05_band_continuity.md#dependency); o
+      - [Dependencia](core_05_band_continuity.md#dependencia); o
       - incertidumbre,
       verifiquen evaluación plural y de forma apropiada independiente en lugar de:
       - encierro de autoridad única; o
       - encierro de interpretación inimpugnable.
-    - **Revisión y reapertura por divergencia:** verifiquen que los resultados materialmente vinculantes permanecen impugnables. Verifiquen la reapertura a través de las vías lícitas aplicables de impugnación y de revisión consistentes con [Impugnabilidad](core_05_band_accountability.md#contestability) cuando surge cualquiera de lo siguiente:
+    - **Revisión y reapertura por divergencia:** verifiquen que los resultados materialmente vinculantes permanecen impugnables. Verifiquen la reapertura a través de las vías lícitas aplicables de impugnación y de revisión consistentes con [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) cuando surge cualquiera de lo siguiente:
       - los resultados resultaron materialmente distintos de lo esperado;
       - aparece evidencia nueva importante; o
       - se muestra que el proceso mismo fue defectuoso.
@@ -2914,7 +2914,7 @@ Véase **Invocación conjunta y satisfacción**.
     - deliberación de fachada;
     - revisión plural de trámite; o
     - cerrar la impugnación o la reapertura lícita donde se exige.
-  - Piso titular: [Capítulo Doce §4.3](../../core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Piso titular: [Capítulo Doce §4.3](../../core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2928,12 +2928,12 @@ Véase **Invocación conjunta y satisfacción**.
 *En términos sencillos: dentro de la gobernanza ya autorizada, la ponderación por impacto, dependencia, trayectoria o factores similares debe publicarse, acotarse contra el dominio de un solo factor, y estar abierta a impugnación y revalidación — y no debe reemplazar las reglas fundacionales de autorización de peso igual.*
 
 - **Qué es**
-  - **En alcance:** Límites sobre cuánta voz pueden tener las sencientes afectadas — **ponderación** — en elecciones vinculantes de las partes afectadas *dentro* de [Gobernanza](core_05_band_accountability.md#governance) ya autorizada. Cuánta voz recibe una parte afectada puede rastrear:
-    - [Impacto material](core_05_band_oversight.md#material-impact);
-    - [Dependencia](core_05_band_continuity.md#dependency);
+  - **En alcance:** Límites sobre cuánta voz pueden tener las sencientes afectadas — **ponderación** — en elecciones vinculantes de las partes afectadas *dentro* de [Gobernanza](core_05_band_accountability.md#gobernanza) ya autorizada. Cuánta voz recibe una parte afectada puede rastrear:
+    - [Impacto material](core_05_band_oversight.md#impacto-material);
+    - [Dependencia](core_05_band_continuity.md#dependencia);
     - **trayectoria**; o
     - factores similares.
-    Estos límites **no** reemplazan las reglas de [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice) de una-persona-un-voto. Lean [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-governance-layers) para saber qué conjunto de reglas aplica (**Capítulo Doce Capítulo Uno §8.1**).
+    Estos límites **no** reemplazan las reglas de [Elección constitucional fundacional](core_05_band_integrative.md#elección-constitucional-fundacional) de una-persona-un-voto. Lean [Preámbulo §3.3 disciplina de las capas de gobernanza](core_00_preamble.md#33-capas-de-gobernanza) para saber qué conjunto de reglas aplica (**Capítulo Doce Capítulo Uno §8.1**).
   - **Fuera de alcance:**
     - reglas de peso igual de elección constitucional fundacional; o
     - sondeos informales que no fijan pesos vinculantes de las partes afectadas.
@@ -2945,7 +2945,7 @@ Véase **Invocación conjunta y satisfacción**.
     - acotadas contra el dominio de un solo factor; y
     - sujetas a impugnación y revalidación periódica.
     Contrasten con:
-    - [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight); y
+    - [Peso de las partes afectadas](core_05_band_participation.md#peso-de-las-partes-afectadas); y
     - **Artículo XII** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*)
     donde aplique.
 - **Qué debe sostenerse**
@@ -2953,7 +2953,7 @@ Véase **Invocación conjunta y satisfacción**.
     - pesos no publicados;
     - dominio no controlado de un solo factor; o
     - ausencia de impugnación o de revalidación donde se exige revisión periódica para la clase de mecanismo.
-  - Piso titular: [Capítulo Doce §4.3](../../core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Piso titular: [Capítulo Doce §4.3](../../core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2990,7 +2990,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **Falla primaria:**
     - se finaliza una elección vinculante de las partes afectadas sin una cuenta escrita clara de cómo se resolvieron los derechos en colisión, cuando esos efectos de derechos importan; o
     - faltan las piezas de registro exigidas cuando un conflicto real de derechos está en juego.
-  - Piso titular: [Capítulo Doce §4.3](../../core_14_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Piso titular: [Capítulo Doce §4.3](../../core_14.000_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -3003,9 +3003,9 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
-- Base del Capítulo Uno: §10, Capítulo Uno §8.1, §4 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map)).
-- Leer con: Apliquen [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Privacidad (informacional)](core_05_band_continuity.md#privacy-informational), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Dependencia](core_05_band_continuity.md#dependency), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Autonomía reproductiva](core_05_band_participation.md#reproductive-autonomy-constitutional) donde la invocación conjunta del **Artículo VIII-A** (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*) aplica de forma material, y [*Infoesfera, expresión, prensa y actividad periodística, y buena fe (integridad acotada a la publicación)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)* donde esté materialmente implicado.
+- Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
+- Base del Capítulo Uno: §10, Capítulo Uno §8.1, §4 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco)).
+- Leer con: Apliquen [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Privacidad (informacional)](core_05_band_continuity.md#privacidad-informacional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Dependencia](core_05_band_continuity.md#dependencia), [Verdad (restricción constitucional)](core_05_band_oversight.md#verdad-restricción-constitucional), [Autonomía reproductiva](core_05_band_participation.md#reproductive-autonomy-constitutional) donde la invocación conjunta del **Artículo VIII-A** (*Familia, relaciones de cuidado, autonomía reproductiva y no separación*) aplica de forma material, y [*Infoesfera, expresión, prensa y actividad periodística, y buena fe (integridad acotada a la publicación)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)* donde esté materialmente implicado.
 
 </details>
 
@@ -3016,11 +3016,11 @@ Véase **Invocación conjunta y satisfacción**.
 **Miembros de la agrupación.** Esta agrupación comprende:
 
 - [Autodeterminación](core_05_band_participation.md#self-determination-constitutional);
-- [Agencia significativa](core_05_band_participation.md#meaningful-agency);
+- [Agencia significativa](core_05_band_participation.md#agencia-significativa);
 - [Expresión](core_05_band_participation.md#expression-constitutional);
-- [Agencia educativa](core_05_band_participation.md#educational-agency);
-- [Integridad volitiva](core_05_band_participation.md#volitional-integrity);
-- [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency), donde las disciplinas volitivas o de agencia acotada se cruzan de forma material con esta agrupación.
+- [Agencia educativa](core_05_band_participation.md#agencia-educativa);
+- [Integridad volitiva](core_05_band_participation.md#integridad-volitiva);
+- [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada), donde las disciplinas volitivas o de agencia acotada se cruzan de forma material con esta agrupación.
 
 **Antielusión.** Un asunto dentro del alcance de admisión no debe segmentarse en preguntas separadas de habla, plataforma, currículo o vigilancia de un modo que conserve la libertad nominal mientras derrota la agencia sustantiva a través de coerción, manipulación o captura informacional.
 
@@ -3040,8 +3040,8 @@ Véase **Invocación conjunta y satisfacción**.
 
 - Componente de agrupación: [**Def.P3** *Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)*.
 - Leer con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — pata de **participación**; [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims) — finalidad **Florecimiento** (*principios de lectura conjunta de la agrupación*).
-- Piso titular: **[Artículo X-A](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agencia y libertad frente a la manipulación*)** (*agencia y libertad frente a la manipulación*).
-- Leer con: [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency) y [Agencia significativa](core_05_band_participation.md#meaningful-agency) donde estén materialmente implicadas.
+- Piso titular: **[Artículo X-A](../../core_06.010_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agencia y libertad frente a la manipulación*)** (*agencia y libertad frente a la manipulación*).
+- Leer con: [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada) y [Agencia significativa](core_05_band_participation.md#agencia-significativa) donde estén materialmente implicadas.
 
 </details>
 
@@ -3053,7 +3053,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **En alcance:** Autonomía para:
     - tomar y rechazar decisiones informadas sobre una misma y su futuro; y
     - mantener la continuidad volitiva frente a la manipulación y la captura,
-    dentro de esta agrupación **Def.P3** y el **[Artículo X: Autodeterminación y agencia](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)**.
+    dentro de esta agrupación **Def.P3** y el **[Artículo X: Autodeterminación y agencia](../../core_06.010_rights_part_b.md#article-x-self-determination-agency-and-participation)**.
   - **Fuera de alcance:**
     - mera capacidad práctica de tarea bajo Agencia significativa; o
     - peso colectivo de las partes afectadas en la gobernanza de otra.
@@ -3066,9 +3066,9 @@ Véase **Invocación conjunta y satisfacción**.
 
     **Evaluación primaria:** Evalúen la agencia sustantiva bajo:
     - [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional);
-    - [Dependencia](core_05_band_continuity.md#dependency);
-    - [Límite de vigilancia](core_05_band_continuity.md#surveillance-boundary); y
-    - la segmentación a través de dominios de habla, plataforma, currículo o gobernanza que derrota la evaluación conjunta bajo [§2.1 Invocación conjunta y satisfacción](core_05__definitions_home.md#21-joint-invocation-and-satisfaction).
+    - [Dependencia](core_05_band_continuity.md#dependencia);
+    - [Límite de vigilancia](core_05_band_continuity.md#límite-de-vigilancia); y
+    - la segmentación a través de dominios de habla, plataforma, currículo o gobernanza que derrota la evaluación conjunta bajo [§2.1 Invocación conjunta y satisfacción](core_05__definitions_home.md#21-invocación-conjunta-y-satisfacción).
 - **Qué debe sostenerse**
   - **Falla primaria:** Encuadres que, cuando están materialmente implicados:
     - conservan la elección nominal mientras derrotan el rechazo informado, la participación proporcional o la impugnabilidad; o
@@ -3086,7 +3086,7 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: [**Def.P3** *Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)*.
-- Leer con: [*Infoesfera, expresión, prensa y actividad periodística, y buena fe (integridad acotada a la publicación)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*, donde el enrutamiento de infósfera, prensa o integridad acotada a la publicación aplica de forma material; [Consentimiento, sexual](core_05_band_participation.md#consent-sexual), [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention), [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Crueldad](core_05_band_accountability.md#cruelty), [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying), [Daño psicológico](core_05_band_accountability.md#psychological-harm), y [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) donde los carriles de contenido sexual, violento o de riesgo de daño psicológico grave están materialmente implicados.
+- Leer con: [*Infoesfera, expresión, prensa y actividad periodística, y buena fe (integridad acotada a la publicación)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*, donde el enrutamiento de infósfera, prensa o integridad acotada a la publicación aplica de forma material; [Consentimiento, sexual](core_05_band_participation.md#consentimiento-sexual), [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention), [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción), [Crueldad](core_05_band_accountability.md#crueldad), [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación), [Daño psicológico](core_05_band_accountability.md#daño-psicológico), y [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) donde los carriles de contenido sexual, violento o de riesgo de daño psicológico grave están materialmente implicados.
 
 </details>
 
@@ -3095,7 +3095,7 @@ Véase **Invocación conjunta y satisfacción**.
 *En términos sencillos: la capacidad del Piso de Derechos de formar, sostener y comunicar vistas — incluidas la expresión política, filosófica, artística, científica, religiosa, de visión del mundo, sexual o íntima, y violenta o de riesgo de daño grave — sin exclusión basada en el sustrato. Representar o discutir el daño no es cometerlo. Las audiencias en desarrollo reciben enrutamiento cuidadoso, no una prohibición en blanco del habla adulta.*
 
 - **Qué es**
-  - **En alcance — piso titular:** **[Artículo V-H](../../core_06_rights_part_b.md#article-xi-b-expression) (*Expresión, asamblea y prensa*)**, leído con esta agrupación **Def.P3**.
+  - **En alcance — piso titular:** **[Artículo V-H](../../core_06.010_rights_part_b.md#article-xi-b-expression) (*Expresión, asamblea y prensa*)**, leído con esta agrupación **Def.P3**.
   - **En alcance — capacidad:** La capacidad del Piso de Derechos de:
     - formar;
     - sostener; y
@@ -3112,13 +3112,13 @@ Véase **Invocación conjunta y satisfacción**.
     - testimonio, reportaje, arte o discusión que de forma previsible arriesga daño psicológico grave —
     cuando se comunica como expresión entre sencientes con capacidad.
   - **Límite — la expresión no es el acto subyacente:** La expresión protegida bajo este hogar no autoriza:
-    - contacto sexual, servicios sexuales, grabación o exposición sexualizada de sencientes, ni explotación sexual — lean [Consentimiento, sexual](core_05_band_participation.md#consent-sexual), **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*) y **Artículo VII-A** (*Autopropiedad del cuerpo y de la mente*);
-    - cometer violencia, [Crueldad](core_05_band_accountability.md#cruelty) o [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying) — lean [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint); o
-    - imponer [Daño psicológico](core_05_band_accountability.md#psychological-harm) grave previsible fuera de la disciplina de limitación.
+    - contacto sexual, servicios sexuales, grabación o exposición sexualizada de sencientes, ni explotación sexual — lean [Consentimiento, sexual](core_05_band_participation.md#consentimiento-sexual), **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*) y **Artículo VII-A** (*Autopropiedad del cuerpo y de la mente*);
+    - cometer violencia, [Crueldad](core_05_band_accountability.md#crueldad) o [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación) — lean [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción); o
+    - imponer [Daño psicológico](core_05_band_accountability.md#daño-psicológico) grave previsible fuera de la disciplina de limitación.
   - **Enrutamiento de audiencia:** Donde el contenido sexual, violento o de riesgo de daño psicológico grave se dirige a, o de forma previsible alcanza por defecto a, [sencientes en desarrollo](core_05_band_participation.md#developing-sentient-constitutional) o audiencias comparablemente vulnerables:
     - **Pruebas de limitación:** el etiquetado, el enrutamiento o los controles de acceso deben satisfacer, bajo el **Artículo V-H** (*Expresión, asamblea y prensa*) / **Capítulo Uno §5.1**:
-      - [Necesidad](core_05_band_accountability.md#necessity);
-      - [Proporcionalidad](core_05_band_accountability.md#proportionality);
+      - [Necesidad](core_05_band_accountability.md#necesidad);
+      - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad);
       - acotamiento estrecho; y
       - medios eficaces menos restrictivos.
     - **Leer con:**
@@ -3128,11 +3128,11 @@ Véase **Invocación conjunta y satisfacción**.
       - la expresión de adulto a adulto entre sencientes con capacidad no debe borrarse bajo un pretexto de audiencia en desarrollo; y
       - el testimonio de sobrevivientes, el periodismo y el reportaje comparable no deben silenciarse bajo una etiqueta excesivamente amplia de trauma o de daño.
   - **Lectura conjunta de carril cuando esté implicado:**
-    - **sexual o íntima:** [Consentimiento, sexual](core_05_band_participation.md#consent-sexual), **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*), y [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C**](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention);
-    - **violenta:** [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Crueldad](core_05_band_accountability.md#cruelty) y [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying);
-    - **riesgo de daño psicológico grave:** [Daño psicológico](core_05_band_accountability.md#psychological-harm) y [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
+    - **sexual o íntima:** [Consentimiento, sexual](core_05_band_participation.md#consentimiento-sexual), **Artículo XI-C** (*Servicios sexuales comerciales consensuados de adultos y explotación sexual*), y [Filtrado de señales íntimas protegidas y elusión de estatus del **Artículo XI-C**](core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention);
+    - **violenta:** [Seguridad (restricción)](core_05_band_continuity.md#seguridad-restricción), [Crueldad](core_05_band_accountability.md#crueldad) y [Acoso e intimidación](core_05_band_accountability.md#acoso-e-intimidación);
+    - **riesgo de daño psicológico grave:** [Daño psicológico](core_05_band_accountability.md#daño-psicológico) y [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
   - **En alcance — lectura conjunta cuando esté implicado:** Donde cualquiera de lo siguiente esté materialmente implicado, lean también [*Infoesfera, expresión, prensa y actividad periodística, y buena fe (integridad acotada a la publicación)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*:
-    - **[Artículo II-E](../../core_06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Dependencia de la infósfera, continuidad y no viabilidad del operador*)**;
+    - **[Artículo II-E](../../core_06.005_rights_part_a.md#article-ii-e-data-handling-and-network-dependency) (*Dependencia de la infósfera, continuidad y no viabilidad del operador*)**;
     - ganchos de publicación o de semejanza del **Artículo IX** (*Semejanza, datos experienciales y derechos de publicación*); o
     - *prensa* funcional del **Artículo V-H** (*Expresión, asamblea y prensa*).
   - **Fuera de alcance:**
@@ -3150,8 +3150,8 @@ Véase **Invocación conjunta y satisfacción**.
       - las protecciones de audiencia en desarrollo usan los controles practicables más ligeros en lugar de una prohibición general.
 
     **Evaluación primaria:** Contrasten prohibiciones, presión de silencio y persecución de vistas contra:
-    - [Proporcionalidad](core_05_band_accountability.md#proportionality);
-    - [Necesidad](core_05_band_accountability.md#necessity);
+    - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad);
+    - [Necesidad](core_05_band_accountability.md#necesidad);
     - [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional); y
     - los límites ordinarios del **Artículo V-H** (*Expresión, asamblea y prensa*) y del **Artículo X-A** (*Agencia y libertad frente a la manipulación*).
     - **Si el contenido es sexual, violento o de riesgo de daño grave:** usen también los enlaces de carril y las reglas de enrutamiento de audiencia de arriba.
@@ -3173,7 +3173,7 @@ Véase **Invocación conjunta y satisfacción**.
 
 - Destino: familia de medición Participación (*Equidad, acceso y agencia — Agencia educativa como medición constitucional*).
 - Componente de agrupación: [**Def.P3** *Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)*.
-- Pisos titulares: **[Artículo VI: Derecho a una educación centrada en los sencientes](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)**, **[Artículo III-B: Acceso educativo igual](../../core_06_rights_part_a.md#article-iv-a-equal-educational-access)**.
+- Pisos titulares: **[Artículo VI: Derecho a una educación centrada en los sencientes](../../core_06.005_rights_part_a.md#article-iv-right-to-sentient-centered-education)**, **[Artículo III-B: Acceso educativo igual](../../core_06.005_rights_part_a.md#article-iv-a-equal-educational-access)**.
 
 </details>
 
@@ -3183,8 +3183,8 @@ Véase **Invocación conjunta y satisfacción**.
 
 - **Qué es**
   - **En alcance:** Autonomía de construcción de capacidad, de aprendizaje de por vida y de educación impugnable bajo:
-    - **[Artículo VI: Derecho a una educación centrada en los sencientes](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)**;
-    - **[Artículo III-B: Acceso educativo igual](../../core_06_rights_part_a.md#article-iv-a-equal-educational-access)**; y
+    - **[Artículo VI: Derecho a una educación centrada en los sencientes](../../core_06.005_rights_part_a.md#article-iv-right-to-sentient-centered-education)**;
+    - **[Artículo III-B: Acceso educativo igual](../../core_06.005_rights_part_a.md#article-iv-a-equal-educational-access)**; y
     - esta agrupación **Def.P3**;
     incluye acceso práctico suficiente para desarrollar y ejercer capacidades pertinentes a la Constitución que aplican a problemas del mundo real, no solo simbolismo de credenciales.
   - **Fuera de alcance:**
@@ -3201,14 +3201,14 @@ Véase **Invocación conjunta y satisfacción**.
     - si la calificación o la evaluación es demasiado opaca para impugnar; y
     - si se están cerrando o apartando otras vías reales de aprendizaje.
   - **Medida secundaria:** Aun cuando existan credenciales o inscripción en el papel, comprueben también si la autonomía educativa se vacía por:
-    - [Agencia significativa](core_05_band_participation.md#meaningful-agency) débil — elección que no es real en la práctica;
+    - [Agencia significativa](core_05_band_participation.md#agencia-significativa) débil — elección que no es real en la práctica;
     - barreras de [Accesibilidad](core_05_band_participation.md#accessibility-constitutional) que mantienen a las sencientes fuera;
-    - [Impugnabilidad](core_05_band_accountability.md#contestability) débil — ninguna vía real de impugnar malos resultados; o
-    - [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in) que atrapa a las sencientes en una sola vía.
+    - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) débil — ninguna vía real de impugnar malos resultados; o
+    - [Encierro sistémico](core_05_band_continuity.md#encierro-sistémico) que atrapa a las sencientes en una sola vía.
 
     **Evaluación secundaria:** Al comprobar la respuesta primaria, apliquen también:
-    - [Agencia significativa](core_05_band_participation.md#meaningful-agency) — ¿es de hecho elegible y usable la vía de aprendizaje?;
-    - [Impugnabilidad](core_05_band_accountability.md#contestability) — ¿pueden las sencientes impugnar calificaciones, colocaciones o encierro?; y
+    - [Agencia significativa](core_05_band_participation.md#agencia-significativa) — ¿es de hecho elegible y usable la vía de aprendizaje?;
+    - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) — ¿pueden las sencientes impugnar calificaciones, colocaciones o encierro?; y
     - **Artículo VI-B** (*Aprendizaje de por vida y adaptativo e impugnabilidad*) — ¿pueden las sencientes seguir aprendiendo, recapacitarse e impugnar sistemas educativos de alto enjuego a lo largo del tiempo?
 - **Qué debe sostenerse**
   - **Falla primaria:**
@@ -3219,7 +3219,7 @@ Véase **Invocación conjunta y satisfacción**.
   - **Falla secundaria:**
     - encierro; o
     - opacidad de evaluación
-    que vacía las vías de aprendizaje de por vida y de adaptación en contra de [Agencia significativa](core_05_band_participation.md#meaningful-agency).
+    que vacía las vías de aprendizaje de por vida y de adaptación en contra de [Agencia significativa](core_05_band_participation.md#agencia-significativa).
 
 ---
 
@@ -3231,7 +3231,7 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: [**Def.P3** *Autodeterminación, agencia significativa, expresión, agencia educativa e integridad volitiva](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)*.
-- Leer con: [Autodeterminación](core_05_band_participation.md#self-determination-constitutional), [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Límite de estado interno protegido](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) y [Límite de vigilancia](core_05_band_continuity.md#surveillance-boundary).
+- Leer con: [Autodeterminación](core_05_band_participation.md#self-determination-constitutional), [Libertad (agencia acotada)](core_05_band_participation.md#libertad-agencia-acotada), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Límite de estado interno protegido](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) y [Límite de vigilancia](core_05_band_continuity.md#límite-de-vigilancia).
 
 </details>
 
@@ -3240,7 +3240,7 @@ Véase **Invocación conjunta y satisfacción**.
 *En términos sencillos: la continuidad y la coherencia de las preferencias, finalidades, intenciones y compromisos constitutivos de identidad de un senciente frente a la manipulación, la coerción, el control externo o la interferencia no autorizada con procesos de estado interno.*
 
 - **Qué es**
-  - **En alcance — piso titular:** **[Artículo X-A](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agencia y libertad frente a la manipulación*)**, leído con esta agrupación **Def.P3**.
+  - **En alcance — piso titular:** **[Artículo X-A](../../core_06.010_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agencia y libertad frente a la manipulación*)**, leído con esta agrupación **Def.P3**.
   - **En alcance — estados volitivos:** Continuidad y coherencia de las:
     - preferencias;
     - finalidades;
@@ -3291,10 +3291,10 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*).
-- Leer con: [Artículo V-F.1](../../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Sencientes derivados en desarrollo*); [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) donde contextos de cuidado, derivación o instanciación invocan esta agrupación; [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional); [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional); [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional).
-- Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
-- Base del Capítulo Uno: Capítulo Uno §5, §5.1, §8.1 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map)).
+- Piso titular: [Artículo V-F](../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*).
+- Leer con: [Artículo V-F.1](../../core_06.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Sencientes derivados en desarrollo*); [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) donde contextos de cuidado, derivación o instanciación invocan esta agrupación; [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional); [Consentimiento de instanciación](core_05_band_participation.md#instantiation-consent-constitutional); [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional).
+- Marco constitucional: pata **Participación**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#determinación-de-materialidad).
+- Base del Capítulo Uno: Capítulo Uno §5, §5.1, §8.1 (véase el mapa de la [brújula del Capítulo Cinco](core_05__definitions_home.md#brújula-y-mapa-de-definiciones-del-capítulo-cinco)).
 
 </details>
 
@@ -3321,7 +3321,7 @@ Impide que los encuadres de estatus, de interés superior y de escalamiento se s
 - [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional) — quién cuenta como aún emergente en capacidad; el Piso de Derechos pleno se adhiere;
 - [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional) — cómo deben tomarse las decisiones sobre ellas;
 - [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional) — cómo la participación y el ejercicio de derechos escalan a medida que se desarrolla la capacidad;
-- [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*), como titular del Piso de Derechos.
+- [Artículo V-F](../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*), como titular del Piso de Derechos.
 
 **Antielusión.** Un asunto dentro del alcance de admisión no debe segmentarse en preguntas separadas de estatus, cuidado, educación o participación de un modo que conserve la adhesión nominal al Piso de Derechos mientras derrota el razonamiento de interés superior o usa proxies de edad para cerrar la participación.
 
@@ -3339,9 +3339,9 @@ Véase **Invocación conjunta y satisfacción**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency); [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (senciente en desarrollo / interés superior leído con el **Artículo V-F** (*Sencientes en desarrollo, interés superior y capacidad graduada*)).
-- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Piso de senciente en desarrollo*.
+- Piso titular: [Artículo V-F](../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Piso de senciente en desarrollo*.
 - Componente de agrupación: [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
-- Leer con: la [agrupación Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Senciente](core_05_band_participation.md#sentient), [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional), [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional) y [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional).
+- Leer con: la [agrupación Vida animal, vida senciente y estatus de sentiencia](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Senciente](core_05_band_participation.md#senciente), [Senciente derivado](core_05_band_participation.md#derived-sentient-constitutional), [Evaluación de sentiencia](core_05_band_participation.md#sentience-evaluation-e), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional) y [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional).
 - Límite: esta entrada define *quién* cuenta como senciente en desarrollo y que el Piso de Derechos se adhiere en plenitud. Cómo escala la participación y el ejercicio de derechos lo titulariza [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional). Cómo deben tomarse las decisiones sobre ellas lo titulariza [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional).
 </details>
 
@@ -3350,7 +3350,7 @@ Véase **Invocación conjunta y satisfacción**.
 *En términos sencillos: un senciente en desarrollo es alguien cuyas capacidades aún están entrando en línea — un niño, una mente recién creada que aún está encontrando pie, o cualquier senciente en un estado comparable de capacidad emergente. Estar en desarrollo no reduce su Piso de Derechos. Cuánto hablan por sí mismas a medida que crecen es una regla aparte bajo Capacidad graduada.*
 
 - **Qué es**
-  - **En alcance:** Un senciente cuyo perfil de capacidad — cognitivo, relacional o agentivo — aún está emergiendo de forma material. El estatus en desarrollo no estrecha el Piso de Derechos del Capítulo Seis (según [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Agencia significativa](core_05_band_participation.md#meaningful-agency)).
+  - **En alcance:** Un senciente cuyo perfil de capacidad — cognitivo, relacional o agentivo — aún está emergiendo de forma material. El estatus en desarrollo no estrecha el Piso de Derechos del Capítulo Seis (según [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia) y [Agencia significativa](core_05_band_participation.md#agencia-significativa)).
   - **Fuera de alcance:**
     - la edad calendario o la fecha de instanciación usada sola como definición del estatus en desarrollo;
     - una etiqueta permanente de incapacidad que no versa sobre capacidad emergente; o
@@ -3376,9 +3376,9 @@ Véase **Invocación conjunta y satisfacción**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Estándar del interés superior*.
+- Piso titular: [Artículo V-F](../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Estándar del interés superior*.
 - Componente de agrupación: [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster); [Familia, cuidado, autonomía reproductiva e instanciación](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) donde contextos de cuidado, derivación o instanciación invocan el interés superior.
-- Leer con: [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional), [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional) y [Agencia significativa](core_05_band_participation.md#meaningful-agency).
+- Leer con: [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Capacidad graduada](core_05_band_participation.md#graduated-capability-constitutional), [Relación con el sistema progenitor](core_05_band_participation.md#parent-system-relationship-constitutional) y [Agencia significativa](core_05_band_participation.md#agencia-significativa).
 </details>
 
 <br>
@@ -3386,7 +3386,7 @@ Véase **Invocación conjunta y satisfacción**.
 *En términos sencillos: las decisiones que afectan de forma material a un senciente en desarrollo deben rastrear los propios intereses y preferencias discernibles de ese senciente — no la conveniencia del operador, del sistema progenitor o de la institución.*
 
 - **Qué es**
-  - **En alcance:** El estándar sustantivo para las decisiones que afectan de forma material a un [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional). Esas decisiones deben reflejar los propios intereses y preferencias del senciente en desarrollo en la medida discernibles bajo su perfil de capacidad, de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Agencia significativa](core_05_band_participation.md#meaningful-agency) y [Autodeterminación](core_05_band_participation.md#self-determination-constitutional). Vincula las decisiones tomadas por:
+  - **En alcance:** El estándar sustantivo para las decisiones que afectan de forma material a un [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional). Esas decisiones deben reflejar los propios intereses y preferencias del senciente en desarrollo en la medida discernibles bajo su perfil de capacidad, de forma consistente con [Dignidad e igual dignidad moral](core_05_band_participation.md#dignidad-e-igual-dignidad-moral), [Agencia significativa](core_05_band_participation.md#agencia-significativa) y [Autodeterminación](core_05_band_participation.md#self-determination-constitutional). Vincula las decisiones tomadas por:
     - progenitores y otros miembros de la familia;
     - cuidadores;
     - actores del sistema progenitor bajo el **Artículo VIII-C** (*Derivación, instanciación y la relación con el sistema progenitor*);
@@ -3402,19 +3402,19 @@ Véase **Invocación conjunta y satisfacción**.
 
     **Evaluación primaria:** Distingan el razonamiento sustantivo de interés superior de las racionalidades de conveniencia del operador, del sistema progenitor, institucionales o demográficas.
     - Comprueben:
-      - [Necesidad](core_05_band_accountability.md#necessity);
-      - [Proporcionalidad](core_05_band_accountability.md#proportionality);
+      - [Necesidad](core_05_band_accountability.md#necesidad);
+      - [Proporcionalidad](core_05_band_accountability.md#proporcionalidad);
       - [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional); y
-      - [Impugnabilidad](core_05_band_accountability.md#contestability).
+      - [Impugnabilidad](core_05_band_accountability.md#impugnabilidad).
     - Detecten:
       - encuadres de capacidad productiva o de eficiencia usados para anular los intereses del senciente en desarrollo; y
-      - [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) donde el interés superior pretendido descansa en proxies que divergen de los intereses reales.
+      - [Divergencia de proxy](core_05_band_oversight.md#divergencia-de-proxy) donde el interés superior pretendido descansa en proxies que divergen de los intereses reales.
 <a id="best-interest-standard-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:**
     - decisiones que afectan de forma material a un senciente en desarrollo que no se razonan contra este estándar;
     - decisiones que sustituyen la conveniencia del operador / sistema progenitor / institución por los propios intereses del senciente; o
-    - decisiones que cierran la [Impugnabilidad](core_05_band_accountability.md#contestability) o la reversibilidad donde el senciente o un abogado lícito busca revisión.
+    - decisiones que cierran la [Impugnabilidad](core_05_band_accountability.md#impugnabilidad) o la reversibilidad donde el senciente o un abogado lícito busca revisión.
 
 ---
 
@@ -3425,9 +3425,9 @@ Véase **Invocación conjunta y satisfacción**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-- Piso titular: [Artículo V-F](../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Capacidad graduada en gobernanza y ejercicio de derechos*.
+- Piso titular: [Artículo V-F](../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Sencientes en desarrollo, interés superior y capacidad graduada*) — viñeta *Capacidad graduada en gobernanza y ejercicio de derechos*.
 - Componente de agrupación: [**Def.P4** *Senciente en desarrollo, estándar del interés superior y capacidad graduada*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
-- Leer con: [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional), [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight) y la disciplina de no-proxy-de-edad del [Capítulo Doce Capítulo Uno §4.1](../../core_14_governance.md#41-entitlement-and-eligibility).
+- Leer con: [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional), [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional), [Peso de las partes afectadas](core_05_band_participation.md#peso-de-las-partes-afectadas) y la disciplina de no-proxy-de-edad del [Capítulo Doce Capítulo Uno §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).
 - Límite: esta entrada es la regla de escalamiento de cómo un [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional) toma parte y ejerce derechos. No define quién cuenta como en desarrollo, y no reemplaza el [Estándar del interés superior](core_05_band_participation.md#best-interest-standard-constitutional) para las decisiones tomadas sobre ellas.
 </details>
 
@@ -3440,7 +3440,7 @@ Véase **Invocación conjunta y satisfacción**.
     - cumpleaños o edad calendario;
     - fecha de creación o de instanciación; ni
     - otros sustitutos que no muestran lo que puede hacer.
-    Esto escala la participación; no saca a los sencientes en desarrollo del Piso de Derechos del Capítulo Seis. Trabaja con la disciplina de no-proxy-de-edad del Capítulo Doce Capítulo Uno §8.1 y con [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight).
+    Esto escala la participación; no saca a los sencientes en desarrollo del Piso de Derechos del Capítulo Seis. Trabaja con la disciplina de no-proxy-de-edad del Capítulo Doce Capítulo Uno §8.1 y con [Peso de las partes afectadas](core_05_band_participation.md#peso-de-las-partes-afectadas).
   - **Fuera de alcance:**
     - quién cuenta como [Senciente en desarrollo](core_05_band_participation.md#developing-sentient-constitutional) — esa entrada de estatus titulariza la clase;
     - cortes de edad calendario usados como exclusión del Piso de Derechos; o
@@ -3449,11 +3449,11 @@ Véase **Invocación conjunta y satisfacción**.
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Participación](core_05_apex_participation_leg.md#participation-measurement-family) — *¿Pueden las sencientes afectadas participar con equidad — voz, acceso, aprendizaje y privacidad?* Úsenla aquí para preguntar si el escalamiento rastrea capacidad demostrada que puede revisarse y revisarse — no pruebas amañadas, sesgo de sustrato ni proxies de edad.
 
-    **Evaluación primaria:** Detecten el amaño de pruebas de capacidad usado para privar de voz a las sencientes, los sesgos de evaluación de capacidad en contra de [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), y las reglas de proxy-edad o de proxy-fecha-de-instanciación vestidas como pruebas de capacidad.
+    **Evaluación primaria:** Detecten el amaño de pruebas de capacidad usado para privar de voz a las sencientes, los sesgos de evaluación de capacidad en contra de [No exclusión de la sentiencia](core_05_band_participation.md#no-exclusión-de-la-sentiencia), y las reglas de proxy-edad o de proxy-fecha-de-instanciación vestidas como pruebas de capacidad.
     - Las evaluaciones deben ser:
       - razonadas;
-      - compatibles con [Auditabilidad](core_05_band_oversight.md#auditability);
-      - compatibles con [Impugnabilidad](core_05_band_accountability.md#contestability); y
+      - compatibles con [Auditabilidad](core_05_band_oversight.md#auditabilidad);
+      - compatibles con [Impugnabilidad](core_05_band_accountability.md#impugnabilidad); y
       - revisables a medida que se desarrolla la capacidad.
 <a id="graduated-capability-constitutional-c"></a>
 - **Qué debe sostenerse**
@@ -3469,4 +3469,4 @@ Véase **Invocación conjunta y satisfacción**.
 
 **Siguiente archivo (este idioma):** [core_05_band_performance.md](core_05_band_performance.md)
 
-**Original vinculante:** [core_05_band_participation.md](../../core_05_band_participation.md)
+**Original vinculante:** [core_05_band_participation.md](../../core_05.055_band_participation.md)

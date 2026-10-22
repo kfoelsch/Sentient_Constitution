@@ -6,7 +6,7 @@
 
 > Aşağıdaki içerik **yalnızca okur rehberidir**. Bu dosyada ya da başka bölümlerde bağlayıcı yükümlülükleri eklemez, çıkarmaz ya da daraltmaz.
 >
-> Bu dosya, [İngilizce Altıncı Bölüm, A Kısmı](../../core_06_rights_part_a.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.10.14`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
+> Bu dosya, [İngilizce Altıncı Bölüm, A Kısmı](../../core_06.005_rights_part_a.md)nın bir **okur-dili pilotudur**. Algılayanlar Anayasasının bağlayıcı bir parçası **değildir**. İkinci bir anayasa **değildir**. Bir gönderim baskısı **değildir**. `SC-Corpus-2026.10.14`a **sabitlenmiştir**. Bu çeviri ile İngilizce asıl görünür biçimde ayrışırsa, numaralı [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md) kazanır. Okuma sırası ve baskı üstverisi [README.md](../../README.md)de tutulur. Yöntem ve sözlük: [translations/tr/README.md](README.md).
 >
 > **Altıncı Bölüm, A Kısmı**nı içerir; madde numaralandırması ve çapraz başvurular bütünleşik araçla örtüşür.
 >
@@ -45,13 +45,13 @@ Altıncı Bölüm, **Hak Tabanları**nın ve hak-düzeyi yorumun anayasal sahibi
 
 - Yukarı: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); [maddi pay](core_00_preamble.md#material-stake).
 - Yukarı: [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Birinci Bölüm §13.1.5 Hak-çarpışması karar testi](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Yukarı: [Birinci Bölüm §11 Teşvik hizalaması ve sistem ele geçirmesi](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Yukarı: [Birinci Bölüm §11 Teşvik hizalaması ve sistem ele geçirmesi](core_01_c_stewardship_capacity_principles.md#19-teşvik-uyumu-ve-sistem-ele-geçirilmesi).
 - Yukarı: İkinci Bölümden Dördüncü Bölüme; Beşinci Bölüm tanımları.
-- Aşağı: bu bölümün **A ile E Kısımları**; [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional); [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
-- Aşağı: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 Katman kapsamı](#12-layer-scope).
-- Birlikte oku: [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation) ve [Önsöz — anayasal sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights); [Madde XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*İtiraz, inceleme ve onarım hakkı*).
-- Birlikte oku: [Madde XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Denetim, şeffaflık ve bağımsız doğrulama*).
-- Birlikte oku: [Madde XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*İtiraz edilebilirlik ve orantılı kısıtlama sınırları*); [Madde XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Zamanında çözüm ve gecikme karşıtı taban*).
+- Aşağı: bu bölümün **A ile E Kısımları**; [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional); [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- Aşağı: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 Katman kapsamı](#12-katman-kapsamı).
+- Birlikte oku: [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation) ve [Önsöz — anayasal sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar); [Madde XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*İtiraz, inceleme ve onarım hakkı*).
+- Birlikte oku: [Madde XVI](core_06_rights_part_c.md#xvi-madde-denetim-şeffaflık-ve-bağımsız-doğrulama) (*Denetim, şeffaflık ve bağımsız doğrulama*).
+- Birlikte oku: [Madde XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*İtiraz edilebilirlik ve orantılı kısıtlama sınırları*); [Madde XXVI-C](core_06_rights_part_e.md#xxvi-c-madde-zamanında-çözüm-ve-gecikme-karşıtı-taban) (*Zamanında çözüm ve gecikme karşıtı taban*).
 
 </details>
 
@@ -76,7 +76,7 @@ Daha geniş anayasal yığın, o tabanın nasıl yorumlandığını, sınırland
   - **değer kısıtları** — Güvenlik, Doğruluk, Gereklilik, Orantılılık ve yerel, toplam, gecikmeli ve sistemler arası etkilerin sistemik değerlendirilmesi;
   - **etkileşim disiplini** — [Birinci Bölüm §6 Süreç çatışması çözümü](core_01_b_interaction_interpretation.md#6-process-conflict-resolution);
   - **anayasal ölçekleme** — [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad), [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) ve [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi;
-  - **teşvik hizalaması ve sistem ele geçirmesi** — [Birinci Bölüm §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) ve ilgili sorumlu yönetim disiplini, ama yalnızca teşvik tasarımı, güven, sadakat, ele geçirme, piyasa yapısı ya da savunulan bir sınırlama maddi olarak ilgili olduğunda.
+  - **teşvik hizalaması ve sistem ele geçirmesi** — [Birinci Bölüm §11](core_01_c_stewardship_capacity_principles.md#19-teşvik-uyumu-ve-sistem-ele-geçirilmesi) ve ilgili sorumlu yönetim disiplini, ama yalnızca teşvik tasarımı, güven, sadakat, ele geçirme, piyasa yapısı ya da savunulan bir sınırlama maddi olarak ilgili olduğunda.
 - **İkinci Bölümden Dördüncü Bölüme** — tanım bütünlüğü, yük ve izlenebilirlik, gözlemlenebilirlik, erişilebilir doğrulama ve uygulandığı yerde güvenlik-kısıtlı gözlemlenebilirlik.
 - **Beşinci Bölüm** — değerlendirilen hak, davranış, sistem ya da sınırlamayı maddi olarak ilgilendiren tanımlar.
 - **Sınıflama ve ölçek kuralları** — **Maddilik**, **Bağımlılık** ve bir benimseme aracının sağladığı herhangi bir içerilmiş sınıf, kademe ya da tempo kuralı.
@@ -88,13 +88,13 @@ Bu okuma yığını, belirli bir madde başka türlü söylemedikçe bu bölümd
 
 Hak Tabanı pratikte işe yaramalıdır, yalnızca kâğıtta değil. **Madde III-A** (*Hayatta kalma*) altındaki hayatta kalma esasları — gıda, su, barınak, işletim çevresi ve karşılaştırılabilir alttaş-bağımsız girdiler — en açık örnektir. **Gelişim** o esaslara gerçek erişim ister. **Süreklilik**, özellikle paylaşılan sistemler teslimatı kontrol ettiğinde, zaman içinde güvenilir, geriletici olmayan arz ister.
 
-[Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), maddi etkili sistemlerin ölçekte tanınmadan ya da bel bağlanmadan önce hizalı olup olmadığını doğrular. Dokuzuncu Bölüm ayrıca belgelendirme-kaydı itiraz edilebilirliği, etkilenen taraf ve erişilebilirlik incelemesi, gözetim sırası ve sistem-hizalama kararları için itiraz yolları sağlar. **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) itiraz ve denetim hakları sağlar. **Madde XIX-B** (*İtiraz edilebilirlik ve orantılı kısıtlama sınırları*), güzergâh sınırlarının hayatta kalma-kritik erişimin çevresinde bir arka kapı olmasını önler. Birlikte, [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ve [Sekizinci–On Birinci Bölüm güzergâh ve forum gözetim zinciri](../../README.md#standing-pipeline-and-forums), itiraz edilebilirlik, doğrulanmış sınıflama, forum gözetimi ve zamanında çare için Temel Uygulamalı Süreç Zincirlerini oluşturur. O mekanizmalar Altıncı Bölümü yaptırmaya yardım eder. Burada belirtilen hakların yerine geçmez, onları daraltmaz ya da yerini değiştirmez.
+[Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), maddi etkili sistemlerin ölçekte tanınmadan ya da bel bağlanmadan önce hizalı olup olmadığını doğrular. Dokuzuncu Bölüm ayrıca belgelendirme-kaydı itiraz edilebilirliği, etkilenen taraf ve erişilebilirlik incelemesi, gözetim sırası ve sistem-hizalama kararları için itiraz yolları sağlar. **Madde XIII** (*Sağlam ve güvenilir sistemlere hak*) itiraz ve denetim hakları sağlar. **Madde XIX-B** (*İtiraz edilebilirlik ve orantılı kısıtlama sınırları*), güzergâh sınırlarının hayatta kalma-kritik erişimin çevresinde bir arka kapı olmasını önler. Birlikte, [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ve [Sekizinci–On Birinci Bölüm güzergâh ve forum gözetim zinciri](../../README.md#standing-pipeline-and-forums), itiraz edilebilirlik, doğrulanmış sınıflama, forum gözetimi ve zamanında çare için Temel Uygulamalı Süreç Zincirlerini oluşturur. O mekanizmalar Altıncı Bölümü yaptırmaya yardım eder. Burada belirtilen hakların yerine geçmez, onları daraltmaz ya da yerini değiştirmez.
 
 **Yorum düğümleri.** Daha özgül bir madde farklı bir kural sağlamadıkça, yinelenen meseleler bu çapalardan yönlendirilir:
 
 **Hak tabanları ve arz**
 - **Hayatta kalma esasları ve onları erişilebilir tutmak** — **Madde III-A** (*Hayatta kalma*); güzergâh sınırlarının erişimi tıkayamaması için **Madde XIX-B** (*İtiraz edilebilirlik ve orantılı kısıtlama sınırları*); itiraz ya da denetim uygulandığında **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*) ve **Madde XVI** (*Denetim, şeffaflık ve bağımsız doğrulama*) ile birlikte okuyun
-- **Sistem hizalama belgelendirmesi** — [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional); [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **Sistem hizalama belgelendirmesi** — [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional); [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **Doğrulama ve çare**
 - **Denetim kayıtları ve bağımsız doğrulama** — **İkinci Bölümden Dördüncü Bölüme** ile **Madde XVI** (*Denetim, şeffaflık ve bağımsız doğrulama*)
@@ -102,7 +102,7 @@ Hak Tabanı pratikte işe yaramalıdır, yalnızca kâğıtta değil. **Madde II
 
 **Uyuşmazlıklar ve zamanında süreç**
 - **Adalet, iade, kısıtlama sınırları, acil durumlar ve hak çarpışmaları** — **Madde XXVI** (*Timely Retrospective Review and Restorative Alignment*); [Birinci Bölüm §13.1.5 Hak-çarpışması karar testi](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **Temel Uygulamalı Süreç Zincirleri** — **Madde XXVI-C** (*Zamanında çözüm ve gecikme karşıtı taban*); [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **Temel Uygulamalı Süreç Zincirleri** — **Madde XXVI-C** (*Zamanında çözüm ve gecikme karşıtı taban*); [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 Bu bölümün başka yerlerindeki o temalara daha kısa çapraz başvurular bu çapaları içerir.
 
@@ -110,13 +110,13 @@ Bu bölümün başka yerlerindeki o temalara daha kısa çapraz başvurular bu �
 
 #### 1.2 Katman kapsamı
 
-*Yalın dille: Altıncı Bölüm, algılayanların Hak Tabanı düzeyinde neye hakkı olduğunu belirtir. Güzergâh, forumlar, yönetişim, değişiklik ve gündelik uygulama kendi sahip bölümlerinde yaşar — bu bölüm oraya işaret edebilir ama onları yeniden belirtmemelidir. Sahip yönlendirme: [Önsöz — anayasal sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights); yer-değiştirmeme: [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation).*
+*Yalın dille: Altıncı Bölüm, algılayanların Hak Tabanı düzeyinde neye hakkı olduğunu belirtir. Güzergâh, forumlar, yönetişim, değişiklik ve gündelik uygulama kendi sahip bölümlerinde yaşar — bu bölüm oraya işaret edebilir ama onları yeniden belirtmemelidir. Sahip yönlendirme: [Önsöz — anayasal sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar); yer-değiştirmeme: [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation).*
 
 Bu kesit **A ile E Kısımları** boyunca uygulanır (tüm alt maddeler dahil **I** ile **XXVIII** Maddeleri). [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation) altında bu bölüm, başka bir anayasal sahip katmanının sahip olduğu yükümlülükleri soğurmamalı, yeniden belirtmemeli ya da yerini değiştirmemelidir. İşaretçi çapraz başvurular — birlikte-oku yönergeleri, varsayılan-kısıt-yığını çağrısı, yorum-düğümü çapaları ve «uygulama şuraya aittir» ya da «daraltmamalıdır» gibi bütünleştirme cümleleri dahil — izinlidir ve beklenir; süreç, yönetişim ya da uygulama mekaniğinin hak-katmanı metnine **maddi yeniden belirtilmesi** **uyumsuzdur**.
 
 Başka bir sahip katmanından yükümlülükleri **Altıncı Bölüme** — doğrudan metin olarak, işlemsel etkiye yükseltilmiş okur-rehberi düzyazısı olarak ya da çapraz başvurulardan çıkarım olarak — taşıyan katmanlar arası yanlış hizalanma, bu kesit altında **uyumsuzdur**. Tersine, bir Altıncı Bölüm Hak Tabanını **daraltmayı, yeniden tanımlamayı ya da yerini değiştirmeyi** iddia eden herhangi bir sahip-katmanı bölümü ya da uygulama metni, **On Üçüncü Bölüm** gerilememe altında ve bu kesit altında uyumsuzdur.
 
-Süreç-tadında, yönetişim-tadında ya da uygulama-tadında dile dokunan **Altıncı Bölüme** gelecekteki eklemeler, [Önsöz — anayasal sahip sicili](core_00_preamble.md#4-principles-definitions-and-rights)ndeki kanonik sahip evine (ve uygulandığı yerde karşılık gelen Beşinci Bölüm tanım girdisine) açık bir yer-değiştirmeme işaretçisi içermeli, [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation) ile birlikte okunmalıdır.
+Süreç-tadında, yönetişim-tadında ya da uygulama-tadında dile dokunan **Altıncı Bölüme** gelecekteki eklemeler, [Önsöz — anayasal sahip sicili](core_00_preamble.md#4-ilkeler-tanımlar-ve-haklar)ndeki kanonik sahip evine (ve uygulandığı yerde karşılık gelen Beşinci Bölüm tanım girdisine) açık bir yer-değiştirmeme işaretçisi içermeli, [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#owner-non-relocation) ile birlikte okunmalıdır.
 
 <a id="part-a-planetary-preconditions-material-stewardship-survival-equal-educational-access-and-shared-resources"></a>
 ### A Kısmı: Gezegen önkoşulları, maddi sorumlu yönetim, hayatta kalma, eşit eğitim erişimi ve paylaşılan kaynaklar
@@ -154,7 +154,7 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -179,7 +179,7 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
 - **Önkoşullar, bütünlük ve sürdürülebilirlik:** Beşinci Bölümdeki **Çevresel önkoşullar**, **Ekolojik bütünlük** ve **Sürdürülebilirlik** bu Madde altında işlemseldir.
   - Yaşamı destekleyen doğal sistemler kendi süreklilik ve bütünlük çıkarlarını tutar. O çıkarlar algılayan çıkarlarının yanında yorumu bilgilendirir.
   - Bu Maddeyi ihlal eden maddi zarar — **Çevresel önkoşullar**, **Ekolojik bütünlük** ve **Sürdürülebilirlik** altında yargılanır — uyumsuzdur.
-  - Benimseyenin [benimseme aracı](../../core_17_amendment_ratification.md#102-instrument-of-adoption)nda ya da benimseme kapsamındaki içerilmiş uygulama metninde adlandırılmış çevresel gerekleri ihlal eden zarar da uyumsuzdur.
+  - Benimseyenin [benimseme aracı](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption)nda ya da benimseme kapsamındaki içerilmiş uygulama metninde adlandırılmış çevresel gerekleri ihlal eden zarar da uyumsuzdur.
 - **Hayvan yaşamı etkileşimi:** [Hayvan yaşamı](core_05_band_participation.md#animal-life-constitutional), **Doğal sistemler güzergâhı** ile algılayanlar için Altıncı Bölüm Hak Tabanı arasındaki refah-koruma alanını işgal eder.
   - Refah-benzeri zarar maddi olarak içerildiğinde **Algılama dışlamama** altında hayvan yaşamı için asgari zulüm ve refah tabanlarını kurar.
   - Kayıt o soruları maddi olarak içerdiğinde yükseltilmiş iletişimsel muamelenin ya da algılama-statüsü hükme bağlamanın yerine geçmez.
@@ -205,7 +205,7 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Epistemik açıklama kısıtları](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Epistemik açıklama kısıtları](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -213,9 +213,9 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
 - [Ekolojik ayak izi](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [Maddi etki](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-- [Şeffaflık](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Maddi etki](core_05_band_oversight.md#maddi-impact) · [O](core_05_band_oversight.md#maddi-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Şeffaflık](core_05_band_oversight.md#şeffaflık) · [O](core_05_band_oversight.md#şeffaflık) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Epistemik bütünlük](core_05_band_oversight.md#epistemik-bütünlük) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -244,7 +244,7 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
 
 - [Kuşaklar arası sorumluluk](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [Çevresel önkoşullar](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) · [O](core_05_band_oversight.md#maddiity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -266,7 +266,7 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [§14 Sistemik değerlendirme gereği](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- Birlikte oku: [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), [Çevresel önkoşullar](core_05_band_continuity.md#environmental-preconditions-constitutional), [Ekolojik toparlanma kapasitesi](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Kuşaklar arası sorumluluk](core_05_band_continuity.md#intergenerational-responsibility-constitutional) ve [Varoluşsal risk](core_05_band_continuity.md#existential-risk).
+- Birlikte oku: [Güvenlik (Kısıt)](core_05_band_continuity.md#safety-constraint), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt), [Çevresel önkoşullar](core_05_band_continuity.md#environmental-preconditions-constitutional), [Ekolojik toparlanma kapasitesi](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Kuşaklar arası sorumluluk](core_05_band_continuity.md#intergenerational-responsibility-constitutional) ve [Varoluşsal risk](core_05_band_continuity.md#existential-risk).
 - Aşağı: **Chapter Thirteen §6.1** (*Acil durum önlemleri ve sürdürme yükü*) — varoluşsal-risk ya da acil durum çerçevelemesi çağrıldığında bahane-karşıtı ve zaman-sınırlı inceleme disiplini.
 
 </details>
@@ -276,7 +276,7 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
 
 - [Varoluşsal risk](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
 - [Ekolojik toparlanma kapasitesi](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [Öngörülebilirlik özeni](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [Öngörülebilirlik özeni](core_05_band_oversight.md#öngörülebilirlik-özeni) · [O](core_05_band_oversight.md#öngörülebilirlik-özeni) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [Bağımlılık](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
 </details>
@@ -302,9 +302,9 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
   Karar kayıtları belirsizliği, varsayımları, kanıt sınırlarını, anlaşmazlığı ve maddi boşlukları açıkça belirtmelidir.
 - **Yük ve kayıt için ek koşullar:** Maddi olarak daha güvenli her alternatif için izin, sürdürme ya da genişleme isteyen taraf, o alternatifi incelenen faaliyete uygulamalı veya kanıtla bu alternatifin faaliyetin meşru amacına ulaşamayacağını ya da mevcut olmadığını göstermelidir; alternatiflerin yalnızca değerlendirildiğini kaydetmek yeterli değildir. Kanıt, Dördüncü Bölüm §5 Uyum Kanıt Standardını karşılamalıdır. İzleme, nedensel yolu zarar geri döndürülemez hale gelmeden önce kesmeye yetecek kadar erken saptayabilmeli; adı konmuş aktör hem kesme yetkisine hem fiilî kapasiteye sahip olmalıdır. Azaltma ve kesme önlemleri olası zararın ölçeğiyle orantılı olmalıdır. Yük sürer; yeni maddi kanıtta, genişlemede ve riskle orantılı aralıklarla yeniden karşılanır. Karşılanmaması uyumsuzluk ve Üçüncü Bölüm §3 sonuçları doğurur. Her izin, sürdürme veya genişletme kararı maddi olarak bağlayıcı bir işlemdir; İşlem Kaydı, aktörün kanıtını inceleyenin değerlendirmesine bağlamalı ve belirsizliği, varsayımları, kanıt sınırlarını, anlaşmazlığı ve maddi boşlukları açıklamalıdır.
 - **Şimdiki yarar sınırı:** Şimdiki yarar, gelecekteki algılayanların, ekolojik toparlanma için kritik sistemlerin ya da yaşamı destekleyen ekolojik koşulların uygarlık-ölçeğinde ya da hayatta kalma-kritik zarara orantısız maruziyetini haklı kılmaz.
-- **Adlandırılmış önlemler:** Bu Madde altında yetkilendirme, sürdürme ya da genişleme arayan aktörler, [benimseme aracı](../../core_17_amendment_ratification.md#102-instrument-of-adoption)nda ya da benimseme kapsamındaki içerilmiş uygulama metninde, yola orantılı azaltma, tavan ya da kesinti önlemlerini — iklim sistemine [Çevresel önkoşullar](core_05_band_continuity.md#environmental-preconditions-constitutional) etkeni olarak zarar dahil — adlandırmış olmalıdır. Bu Madde hâlâ sayısal bir hedef koymaz. **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*) ayak izi-atfetme alt bölümü olarak kalır ve hâlâ tek başına azaltma istemez. Bu Madde altında inandırıcı bir yol açıkken o adlandırılmış önlemler olmadan sürdürme uyumsuzdur.
+- **Adlandırılmış önlemler:** Bu Madde altında yetkilendirme, sürdürme ya da genişleme arayan aktörler, [benimseme aracı](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption)nda ya da benimseme kapsamındaki içerilmiş uygulama metninde, yola orantılı azaltma, tavan ya da kesinti önlemlerini — iklim sistemine [Çevresel önkoşullar](core_05_band_continuity.md#environmental-preconditions-constitutional) etkeni olarak zarar dahil — adlandırmış olmalıdır. Bu Madde hâlâ sayısal bir hedef koymaz. **Madde I-B** (*Ekolojik ayak izi ve şeffaflık*) ayak izi-atfetme alt bölümü olarak kalır ve hâlâ tek başına azaltma istemez. Bu Madde altında inandırıcı bir yol açıkken o adlandırılmış önlemler olmadan sürdürme uyumsuzdur.
 
-- **Mevcut yarar sınırı:** Mevcut yarar; gelecek sentiyentleri, ekolojik iyileşme için kritik sistemleri veya yaşamı destekleyen koşulları uygarlık ölçeğinde ya da hayatta kalma açısından kritik zarara orantısız biçimde maruz bırakmayı haklı kılamaz. Hiçbir doğal ekosistem, herhangi bir ölçekte [Ekolojik İyileşme Kapasitesini](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) geri döndürülemez biçimde kaybetme riskine maruz bırakılamaz.
+- **Mevcut yarar sınırı:** Mevcut yarar; gelecek sentiyentleri, ekolojik iyileşme için kritik sistemleri veya yaşamı destekleyen koşulları uygarlık ölçeğinde ya da hayatta kalma açısından kritik zarara orantısız biçimde maruz bırakmayı haklı kılamaz. Hiçbir doğal ekosistem, herhangi bir ölçekte [Ekolojik İyileşme Kapasitesini](../../core_05.040_band_continuity.md#ecological-recovery-capacity) geri döndürülemez biçimde kaybetme riskine maruz bırakılamaz.
 
 - **Güncel en yüksek inceleme kuralı:** Bir sistem, politika, altyapı, eşgüdümlü faaliyet veya yönetişim kararı Varoluşsal Risk ya da Ekolojik Toparlanma Kapasitesinin geri döndürülemez kaybı için inandırıcı bir nedensel yol yaratıyorsa; olasılık düşük, etki gecikmeli/birikimli/eşik bağımlı veya zamanlama tartışmalı olsa da en yüksek inceleme zorunludur. İnceleme doğrudan, dolaylı, toplu, hasmane ve sistemler arası yolları; bağımlılık yoğunlaşmasını, eşgüdüm arızasını, çevresel önkoşul bozulmasını, ekolojik toparlanma kaybını ve sistemik kilitlenmeyi kapsar. Ekosistem kapasitesi işlev, bağlantı, yenilenme ve karşılıklı bağımlılıkla bütün olarak değerlendirilir; tek tür ya da yerel nüfus yeterli değildir. İnandırıcı yollar açıkken yerel kontrol listesi, kâğıt üzerindeki maliyet-fayda hesabı veya kısa vadeli kazanç yetmez. İzin, sürdürme veya genişleme isteyenler, maddi ölçüde daha güvenli her alternatifi benimsemeli ya da meşru amacı sağlayamayacağını/mevcut olmadığını kanıtlamalı; orantılı azaltma ve durdurma önlemlerini, geri döndürülemez zarardan önce saptayıp kesebilen izlemeyi ve durdurma yetkisi ile pratik kapasitesi olan adı belirli sorumluyu göstermelidir. Yük sürer; yeni önemli kanıt, genişleme ve riske uygun aralıklarla yenilenir; belirsizlik veya düşük olasılık yükü kaldırmaz. Her kararın kaydı talep sahibinin gösterimini ve incelemeyi bağlamalı; belirsizlik, varsayım, kanıt sınırı, uyuşmazlık ve boşlukları açıkça belirtmelidir. Mevcut yarar, gelecek sentientleri/toparlanma sistemlerini orantısız biçimde ağır zarara maruz bırakmayı veya herhangi bir doğal ekosistemi her ölçekte kapasitesinin geri döndürülemez kaybına uğratmayı haklı çıkarmaz. Kabul belgesi iklime verilen zarar dâhil riske uygun somut azaltma, üst sınır veya durdurma önlemlerini adlandırmalıdır; burada sayısal hedef yoktur ve I-B yalnızca ayak izini ölçer, tek başına azaltım şartı koymaz.
 
@@ -351,7 +351,7 @@ O kavramlar için kanonik Beşinci Bölüm çapaları, bu Maddenin onları işle
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -360,7 +360,7 @@ O kavramlar için kanonik Beşinci Bölüm çapaları, bu Maddenin onları işle
 
 - [Ekolojik ayak izi](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
 - [Kuşaklar arası sorumluluk](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) · [O](core_05_band_oversight.md#maddiity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -426,8 +426,8 @@ O kavramlar için kanonik Beşinci Bölüm çapaları, bu Maddenin onları işle
 <details>
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
-- [Teşvik hizalaması](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
-- [Öngörülebilirlik özeni](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [Teşvik hizalaması](core_05_band_integrative.md#teşvik-hizalaması) · [O](core_05_band_integrative.md#teşvik-hizalaması) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [Öngörülebilirlik özeni](core_05_band_oversight.md#öngörülebilirlik-özeni) · [O](core_05_band_oversight.md#öngörülebilirlik-özeni) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [Gereklilik](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Orantılılık](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -441,7 +441,7 @@ O kavramlar için kanonik Beşinci Bölüm çapaları, bu Maddenin onları işle
   - ürün gerektiğinden daha erken yararlı olmaktan çıkar; ya da
   - algılayanlar, değiştirme makul ölçüde gerekli değilken onu değiştirmeye itilir.
 
-  Teşvikler atmayı ya da onarım araçlarını, parçalarını ve belgelemesini esirgemeyi ödüllendirdiğinde, bu ayrıca [Birinci Bölüm §11 Teşvik hizalaması ve sistem ele geçirmesi](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) ve **Madde XIII-D** (*Teşvik-hizalaması kısıtı*)nı tetikler.
+  Teşvikler atmayı ya da onarım araçlarını, parçalarını ve belgelemesini esirgemeyi ödüllendirdiğinde, bu ayrıca [Birinci Bölüm §11 Teşvik hizalaması ve sistem ele geçirmesi](core_01_c_stewardship_capacity_principles.md#19-teşvik-uyumu-ve-sistem-ele-geçirilmesi) ve **Madde XIII-D** (*Teşvik-hizalaması kısıtı*)nı tetikler.
 
   Bu taban, işletici **Gereklilik** ve **Orantılılık** belgelendirebildiğinde uygulanmaz — örneğin gerçek bir güvenlik düzeltmesi, emniyet yanıtı ya da gerçek birlikte işlerlik sınırı. O nedenler, makul ölçüde mevcut olan dayanıklı bir tasarımın yerine geçmemelidir.
 
@@ -458,7 +458,7 @@ O kavramlar için kanonik Beşinci Bölüm çapaları, bu Maddenin onları işle
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
 - [Rıza](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#doğruluk-anayasal-kısıt) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Bağımlılık](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Zorlama ve manipülasyon](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
@@ -485,8 +485,8 @@ Bu Madde kapsamındaki veriler CS-2 uyarınca sınıflandırılıp işlenir. Sen
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Birlikte oku: [Madde XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Taşınabilirlik hakları*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Bilgi türleri ve işleme**; **CJS-3.17** (*birlikte işlerlik, taşınabilirlik ve çıkış-bütünlüğü terimleri*) ve **CJS-3.18** (*veri-tutma ve yaşam-döngüsü-bütünlüğü terimleri*); [Birinci Bölüm §11.6 Halef sorumluluğu ve biçimsel-yapı kaçış-yok](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Dokuzuncu Bölüm §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) ve [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Birlikte oku: [Madde XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Taşınabilirlik hakları*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Bilgi türleri ve işleme**; **CJS-3.17** (*birlikte işlerlik, taşınabilirlik ve çıkış-bütünlüğü terimleri*) ve **CJS-3.18** (*veri-tutma ve yaşam-döngüsü-bütünlüğü terimleri*); [Birinci Bölüm §11.6 Halef sorumluluğu ve biçimsel-yapı kaçış-yok](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Dokuzuncu Bölüm §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) ve [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -495,7 +495,7 @@ Bu Madde kapsamındaki veriler CS-2 uyarınca sınıflandırılıp işlenir. Sen
 
 - [Bağımlılık](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Kuşaklar arası sorumluluk](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) · [O](core_05_band_oversight.md#maddiity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Gereklilik](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [İhmal](core_05_band_accountability.md#negligence) · [O](core_05_band_accountability.md#negligence) · [M](core_05_band_accountability.md#negligence-a) · [A](core_05_band_accountability.md#negligence-a) · [C](core_05_band_accountability.md#negligence-c)
 
@@ -527,11 +527,11 @@ Bu Madde kapsamındaki veriler CS-2 uyarınca sınıflandırılıp işlenir. Sen
   - açıklanan dışa aktarma yolları altında süreklilik-kritik verinin kullanılabilir dışa aktarımı ya da teslimi, kapanış ve göç pencereleri boyunca korunmuş — yalnızca denemeye dair ihtiyari bir vaat değil.
 
   İşleticiler, davranışları Beşinci Bölüm altında **İhmal** olarak nitelendiğinde — bakım, destek ya da süreklilik ödevleri ihmal edildiği için zaman içinde biriken zarar dahil — hâlâ anayasal standartlara tutulabilir.
-- **Halef ve biçimsel-yapı ödevleri:** Yeniden yapılandırma, satış, kayyımlık ya da iflas, bu Maddede belirtilen süreklilik ödevlerini tek başına söndürmez. [Birinci Bölüm §11.6 Halef sorumluluğu ve biçimsel-yapı kaçış-yok](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) ve [Dokuzuncu Bölüm §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority) ile birlikte okuyun.
+- **Halef ve biçimsel-yapı ödevleri:** Yeniden yapılandırma, satış, kayyımlık ya da iflas, bu Maddede belirtilen süreklilik ödevlerini tek başına söndürmez. [Birinci Bölüm §11.6 Halef sorumluluğu ve biçimsel-yapı kaçış-yok](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) ve [Dokuzuncu Bölüm §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority) ile birlikte okuyun.
 
 *Madde komşuları:* **Madde II** (*Maddi sorumlu yönetim ve dayanıklı-kullanım bütünlüğü*) için **giderme**, bu bölümün açılışında belirtilen **yorum düğümlerini** izler (itiraz ve onarım; adalet ve yükseltme).
 
-- **Veri işleme:** Dahil edilmişse, bu Madde kapsamındaki veriler [On Sekizinci Bölüm](../../core_18_incorporation.md) uyarınca [CS-2 — Bilgi türleri ve işleme](../../corpus_systems/cs_02_a_information_types_and_handling.md) kapsamında sınıflandırılıp işlenmelidir; bildirim/silme (§1.3) ile süreklilik açısından kritik dışa aktarma (§1.2) buna dahildir.
+- **Veri işleme:** Dahil edilmişse, bu Madde kapsamındaki veriler [On Sekizinci Bölüm](../../core_18.000_incorporation.md) uyarınca [CS-2 — Bilgi türleri ve işleme](../../corpus_systems/cs_02_a_information_types_and_handling.md) kapsamında sınıflandırılıp işlenmelidir; bildirim/silme (§1.3) ile süreklilik açısından kritik dışa aktarma (§1.2) buna dahildir.
 
 <a id="article-iii-survival-and-essential-access"></a>
 ### Madde III: Hayatta Kalma ve Temel Erişim
@@ -564,7 +564,7 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) ve 
 
 - Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint) ve [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency).
 - Birlikte oku: Gelişim ölçüm ailesi (*anayasal ölçüm olarak hayatta kalma-tabanı erişimi*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — tahsis ve itiraz yollarında **katılım**, **gözetim** ve denetim, **hesap verebilirlik** ve çare, **Madde XXVI-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında **zamanındalık**; [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — **Gelişim** (hayatta kalma-esas erişimi) ve **Süreklilik** (kalıcı arz ve geriletici olmayan teslimat).
-- Aşağı: sistemler teslimatı kapıladığında ya da sürdürdüğünde [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*); **Madde XIX-B** (*İtiraz edilebilirlik ve orantılı kısıtlama sınırları*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- Aşağı: sistemler teslimatı kapıladığında ya da sürdürdüğünde [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*); **Madde XIX-B** (*İtiraz edilebilirlik ve orantılı kısıtlama sınırları*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -605,12 +605,12 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) ve 
 
   O kurallar teslimatı yapılandırabilir. Hayatta kalma esaslarına asgari erişimi yenmek ya da **Madde III** ve **V**ye aykırı kindar dışlama dayatmak için kullanılmamalıdır.
   - Ayrıntılı mali yönelim — ücretlerin ve tahakkukların hayatta kalma-ilgili girdilere asgari erişimi zayıflatmaması kuralı dahil — [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Sınıflamaya bağlı kurumsal yükümlülükler*), **CI-10** (*Kamu geliri, ücretler, yinelenen tahakkuklar ve faturalama bütünlüğü*) ve **CI-11** (*Kaynak sorumlu yönetimi ve teşvik bütünlüğü*) tarafından yönetilir.
-  - Algılayanların maddi olarak bel bağladığı sistemler hayatta kalma esaslarına erişimi arz ettiğinde, dağıttığında, fiyatlandırdığında, barındırdığında ya da kestiğinde, [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) altında uygulanır — ve o sistemlerin süreçleri burada belirtilen hakları daraltmak için kullanılamaz.
+  - Algılayanların maddi olarak bel bağladığı sistemler hayatta kalma esaslarına erişimi arz ettiğinde, dağıttığında, fiyatlandırdığında, barındırdığında ya da kestiğinde, [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) altında uygulanır — ve o sistemlerin süreçleri burada belirtilen hakları daraltmak için kullanılamaz.
   - Bu Madde tek bir finansman modeli dayatmaz. İstihdam, girişimcilik, gönüllü mübadele ve herhangi bir hayatta kalma tabanının üzerindeki diğer yasal ekonomik etkinlik, Birinci Bölüm, Altıncı Bölüm ve içerilmiş araçlara — piyasa-yapılandıran ya da yüksek-etki ticari sistemler uygulandığında `corpus_systems.md` dahil — tabi olarak izinli kalır.
 
 Çapraz başvuru: **Madde XXVIII-D** (*Uyumsuz mülk ve sistemler; gönüllü teslim teşvikleri*) geçiş boyunca esas-çevre sürekliliği için geçiş-sorumlu-yönetim disiplini — işlemsel ayrıntı [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) ile **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)te; **Beşinci Bölüm** [*Barınma sürekliliği*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*Temel çevrenin metalaştırılmaması*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional) ve uygulandığı yerde [**§3.7** *Hayatta kalma tabanına erişim, Güvenli koşullar, Barınma sürekliliği, Çevresel önkoşullar, Kültürel süreklilik, Dinlenme ve Yerinden edilme karşıtı taban*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) ortak-çağrı kümesi.
 
-- **Bağımlı sistemler:** Sentiyentlerin önemli ölçüde bağımlı olduğu sistemler hayati ihtiyaçları, bedensel bakım ve sağlık hizmetlerini ya da üretken çalışma koşullarını sağlıyor, dağıtıyor, fiyatlıyor, barındırıyor veya erişimi kesiyorsa [Sistem Uyum Sertifikasyonu](../../core_05_band_continuity.md#system-alignment-certification-constitutional) uygulanır. Bu sistemlerin süreçleri bu Maddedeki Hak Tabanlarını daraltamaz.
+- **Bağımlı sistemler:** Sentiyentlerin önemli ölçüde bağımlı olduğu sistemler hayati ihtiyaçları, bedensel bakım ve sağlık hizmetlerini ya da üretken çalışma koşullarını sağlıyor, dağıtıyor, fiyatlıyor, barındırıyor veya erişimi kesiyorsa [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification) uygulanır. Bu sistemlerin süreçleri bu Maddedeki Hak Tabanlarını daraltamaz.
 
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
 #### Madde III-B: Bedensel Bakım ve Sağlık Hizmetlerine Erişim
@@ -716,7 +716,7 @@ Bu Madde, [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) ve 
   - alttaş-bağımsız uygulanmalıdır;
   - yalnızca biçimsel uyuma değil maddi etkiye ulaşmalıdır;
   - **Madde XIII-A** (*Güvenilirlik ve güvenilirlik tabanı*) güvenilirliği ve uygulandığı yerde `corpus_systems.md` CS-5 güvenlik profilleriyle bütünleşmelidir;
-  - öngörülebilir riske [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)ı uygulamalıdır.
+  - öngörülebilir riske [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#karşıt-ölçeklenmiş-ve-sömürülen-koşullar)ı uygulamalıdır.
 
   Algılayanlardan **Güvenli koşullar**ı esirgemek ya da onlara maddi olarak karşılaştırılabilir risk yerine alttaş ya da uygulama sınıflaması yüzünden daha zayıf bir standart uygulamak, **Algılama dışlamama** altında uyumsuzdur.
 - **Boş zaman ve dinlenme:** Algılayanlar, [Anlamlı eylem yetisi](core_05_band_participation.md#meaningful-agency)ni, esenliği ve katılım kapasitesini korumaya yeterli dinlenme, toparlanma ve üretken-olmayan zamana Hak Tabanı hakkına sahiptir.
@@ -792,7 +792,7 @@ Her sentient, ücretli iş, bakım, öğrenim veya sürekli çalışma baskısı
 
   Yetenek-inşa içeriği, yaşam boyu ve uyarlanabilir öğrenme ve maddi etkili eğitim sistemleri için şeffaflık gerekleri **Madde VI** (*Algılayan-merkezli eğitim hakkı*)nda görünür.
 
-- **Eğitime ilişkin kurumsal güvenceler:** Madde III’teki yasal mali ve tahsis mekanizmaları eğitimi güvenceye almak için de kullanılabilir, ancak bu Maddedeki hiçbir tabanı boşa çıkaramaz. Eğitime erişimi denetleyen bağımlı sistemlere [Sistem Uyum Sertifikasyonu](../../core_05_band_continuity.md#system-alignment-certification-constitutional) uygulanır.
+- **Eğitime ilişkin kurumsal güvenceler:** Madde III’teki yasal mali ve tahsis mekanizmaları eğitimi güvenceye almak için de kullanılabilir, ancak bu Maddedeki hiçbir tabanı boşa çıkaramaz. Eğitime erişimi denetleyen bağımlı sistemlere [Sistem Uyum Sertifikasyonu](../../core_05.040_band_continuity.md#system-alignment-certification) uygulanır.
 
 
 
@@ -810,7 +810,7 @@ Sistemlerin gelişimi gereken becerileri önemli ölçüde değiştirirse, dayat
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 Anayasal yorum](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 Teşvik hizalaması ve sistem ele geçirmesi](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) ve [§12 Paylaşılan-sistem kapasitesi](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 Anayasal yorum](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 Teşvik hizalaması ve sistem ele geçirmesi](core_01_c_stewardship_capacity_principles.md#19-teşvik-uyumu-ve-sistem-ele-geçirilmesi) ve [§12 Paylaşılan-sistem kapasitesi](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
 
 </details>
 
@@ -840,7 +840,7 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
 
 *Madde komşuları:*
 
-- **Belgelendirme ne zaman uygulanır:** Maddi etkili sistemler diğer sistemlerin ya da algılayanların bel bağladığı paylaşılan altyapıdan ya da kurucu bağımlılıklardan tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında, [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) altında uygulanır.
+- **Belgelendirme ne zaman uygulanır:** Maddi etkili sistemler diğer sistemlerin ya da algılayanların bel bağladığı paylaşılan altyapıdan ya da kurucu bağımlılıklardan tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında, [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) altında uygulanır.
 - **Yerine-geçmeme:** Tanıma ya da süregelen bel bağlama, **Madde V-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*) ya da **Madde V-B** (*Sistemler arası adillik ve sürdürülebilirlik*) uyumunun yerine geçemez ya da o tabanları daraltamaz.
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -851,9 +851,9 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Birlikte oku: Süreklilik ölçüm ailesi (*anayasal ölçüm olarak bağımlılık ve kaynak akışları*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — şeffaf bağımlılık haritaları ve denetlenebilir kaynak-akışı kayıtları üzerinden **gözetim**, **Madde XVI-A** (*Denetlenebilirlik ve gözlemlenebilir kanıt*) altında itiraz edilebilir incelemede **katılım**; [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — **Gelişim** (görünür maliyet-ve-yarar tahsisi) ve **Süreklilik** (değişen sistemler boyunca kalıcı bağımlılık görünürlüğü).
-- Aşağı: sistemler paylaşılan altyapıdan ya da kurucu bağımlılıklardan tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Kaynak tahsisi ve finansman sorumlu yönetimi*) ve **CS-8** (*Uyarlanabilir sürdürülebilirlik ve ekosistem dayanıklılığı*).
+- Aşağı: sistemler paylaşılan altyapıdan ya da kurucu bağımlılıklardan tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Kaynak tahsisi ve finansman sorumlu yönetimi*) ve **CS-8** (*Uyarlanabilir sürdürülebilirlik ve ekosistem dayanıklılığı*).
 
 </details>
 
@@ -861,7 +861,7 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
 <summary><strong><span style="color: #2563eb;">Tanımlar · Değerlendirme · Uyum</span></strong></summary>
 
 - [Bağımlılık](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Şeffaflık](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Şeffaflık](core_05_band_oversight.md#şeffaflık) · [O](core_05_band_oversight.md#şeffaflık) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Sistem sınırı bütünlüğü](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
 
 </details>
@@ -875,12 +875,12 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
   - kaynak akışları;
   - maddi olarak ilgili olduğunda şeffaf olmayan ya da asimetrik ilişkiler.
 
-  Güncellemeler değişime ve kritikliğe orantılı aralıklarla gerçekleşmelidir. Bu temsiller **Madde XVI-A** (*Denetlenebilirlik ve gözlemlenebilir kanıt*) altında denetime açık olmalıdır. Sistem paylaşılan altyapıdan ya da kurucu bağımlılıklardan maddi olarak tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında, [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) altında, **Madde V-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*)nı karşılayıp karşılamadıklarını — yalnızca işletici iddiası üzerinde değil, itiraz edilebilir bir **Sistem belgelendirme kaydı** üzerinde — değerlendirmelidir.
+  Güncellemeler değişime ve kritikliğe orantılı aralıklarla gerçekleşmelidir. Bu temsiller **Madde XVI-A** (*Denetlenebilirlik ve gözlemlenebilir kanıt*) altında denetime açık olmalıdır. Sistem paylaşılan altyapıdan ya da kurucu bağımlılıklardan maddi olarak tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında, [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) altında, **Madde V-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*)nı karşılayıp karşılamadıklarını — yalnızca işletici iddiası üzerinde değil, itiraz edilebilir bir **Sistem belgelendirme kaydı** üzerinde — değerlendirmelidir.
 
   İşlemsel mekanik — bağımlı-sistemler haritaları, akış şeffaflığı, tahsis kategorileri ve uyarlanabilir ayarlama — **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Kaynak tahsisi ve finansman sorumlu yönetimi*) ve **CS-8** (*Uyarlanabilir sürdürülebilirlik ve ekosistem dayanıklılığı*) altında yönlendirilir. Dokuzuncu Bölüm belgelendirmenin neyi doğrulaması ve kaydetmesi gerektiğini belirtir; o uygulama metinleri bu tabanı uygular ve onu daraltmamalıdır.
 
-- **Sertifikasyon ve kanıt:** Ortak altyapıyı veya temel bağımlılıkları paylaştıran, yönlendiren, finanse eden ya da kullanan önemli etkili sistemler [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) uyarınca sertifikasyondan geçmelidir. Sınıf inceleme derinliğini ve kanıt gücünü belirler; kayıt fiilî doğrulamayı göstermelidir. Akışları gizlemek veya yanlış aktarmak kusurdur; sertifikasyon koşullu yapılabilir, yeniden açılabilir ya da geri çekilebilir.
-- **İnceleme ve sonuçlar:** [Dokuzuncu Bölüm §5.3](../../core_09_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) orantılı değerlendirmeyi belirler. Eksiklikler sertifikasyon kusurudur ve [§7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) uyarınca sonuç doğurabilir.
+- **Sertifikasyon ve kanıt:** Ortak altyapıyı veya temel bağımlılıkları paylaştıran, yönlendiren, finanse eden ya da kullanan önemli etkili sistemler [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) uyarınca sertifikasyondan geçmelidir. Sınıf inceleme derinliğini ve kanıt gücünü belirler; kayıt fiilî doğrulamayı göstermelidir. Akışları gizlemek veya yanlış aktarmak kusurdur; sertifikasyon koşullu yapılabilir, yeniden açılabilir ya da geri çekilebilir.
+- **İnceleme ve sonuçlar:** [Dokuzuncu Bölüm §5.3](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) orantılı değerlendirmeyi belirler. Eksiklikler sertifikasyon kusurudur ve [§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) uyarınca sonuç doğurabilir.
 
 
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -890,10 +890,10 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Dokuzuncu Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Birlikte oku: [*Yönetişim mimarisi, gözetim, bağımlılık, merkezsizleşme, yoğunlaşma, piyasa yapısı ve çıkış-yolu bütünlüğü*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (yoğunlaşma, gözetim, bağımlılık, yöneten-yetki yapısı ya da teşvik yönlendirmesi aşağıdaki işlemsel metindeki **§5** / **§5** ve *Yoğunlaşma-eşiği etkileşimi* disipliniyle kesiştiğinde ortak çağrı).
 - Birlikte oku: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — itiraz ve itiraz yollarında **katılım**, **gözetim** ve denetim, **hesap verebilirlik** ve düzeltici inceleme, **Madde XXVI-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında **zamanındalık**; [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — **Gelişim** (sistemler arası adillik ve çıkarmama) ve **Süreklilik** (uzun vadeli sürdürülebilirlik ve ekosistem finansmanı).
-- Aşağı: sistemler arası adillik, ekosistem finansmanı ya da paylaşılan altyapıdan kalıcı çıkarma maddi olarak söz konusu olduğunda [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- Aşağı: sistemler arası adillik, ekosistem finansmanı ya da paylaşılan altyapıdan kalıcı çıkarma maddi olarak söz konusu olduğunda [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - Sorumlu yönetim kapısı (işlemsel değil): Bağlayıcı sonraki-adım bildirimi: [İşlemsel sorumlu yönetim bildirimi](#operative-steward-statement-cross-system-contribution). Destek işaretçileri onu daraltamaz.
 
 </details>
@@ -904,7 +904,7 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
 - [Bağımlılık](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Orantılı sistemler arası katkı](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
 - [Maddi adillik](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Maddilik belirlemesi](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Maddilik belirlemesi](core_05_band_oversight.md#maddiity-determination) · [O](core_05_band_oversight.md#maddiity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Ekolojik ayak izi](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
 
 </details>
@@ -931,7 +931,7 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
   - çıkaran sistemin bel bağladığı paylaşılan altyapı ve birlikte işlerlik için ekosistem yeniden yatırımı; ve
   - maddi [Ekolojik ayak izi](core_05_band_continuity.md#ecological-footprint) dayatıldığında ve başka bir anayasal hüküm, uygulama dosyası ya da benimseme aracı eylem istediğinde ekolojik yük dengelemesi ya da restorasyon.
 
-  Giriş ve çıkışları **Madde V-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*) altında bağımlı-sistemler haritalarında ve denetlenebilir kaynak-akışı kayıtlarında karşılaştırın. Maddi etkili sistemler paylaşılan altyapıdan tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında, yeterliliği [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) [Dokuzuncu Bölüm](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) altında değerlendirin. İşlemsel tahsis mekaniği **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Kaynak tahsisi ve finansman sorumlu yönetimi*) ve **CS-8** (*Uyarlanabilir sürdürülebilirlik ve ekosistem dayanıklılığı*) altında yönlendirilir; o katmanlar bu tabanı uygular ve onu daraltmamalıdır.
+  Giriş ve çıkışları **Madde V-A** (*Bağımlılık haritalaması ve kaynak-akışı şeffaflığı*) altında bağımlı-sistemler haritalarında ve denetlenebilir kaynak-akışı kayıtlarında karşılaştırın. Maddi etkili sistemler paylaşılan altyapıdan tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında, yeterliliği [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) [Dokuzuncu Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) altında değerlendirin. İşlemsel tahsis mekaniği **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Kaynak tahsisi ve finansman sorumlu yönetimi*) ve **CS-8** (*Uyarlanabilir sürdürülebilirlik ve ekosistem dayanıklılığı*) altında yönlendirilir; o katmanlar bu tabanı uygular ve onu daraltmamalıdır.
 
   Anayasal hizalamayı maddi olarak tehdit eden kalıcı dengesizlikler **Madde IX, XIII, XIV ve XVII** altında denetim, itiraz ve düzeltici incelemeye tabidir.
 - **Piyasa-yoğunlaşma-eşiği etkileşimi:** Servetin, gücün, kontrolün ya da fırsatın, diğer algılayanların esenliğini, eylem yetisini, onurunu ya da ekolojik bütünlüğünü öngörülebilir biçimde bozacak yollarla yoğunlaşmasını üreten ya da koruyan kaynak-tahsisi düzenlemeleri şunları içerir:
@@ -951,4 +951,4 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
 
 **Sonraki dosya (bu dil):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**Bağlayıcı asıl:** [core_06_rights_part_a.md](../../core_06_rights_part_a.md)
+**Bağlayıcı asıl:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)

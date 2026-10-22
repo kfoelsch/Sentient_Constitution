@@ -83,7 +83,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§3 بنیادی مقصد: فلاح و بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، اور [§19 ترغیبی سیدھ اور سسٹم کیپچر](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Upstream: اصول: باب اول [§3 بنیادی مقصد: فلاح و بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-آئینی-تصادم-کے-حل-کا-عمل)، اور [§19 ترغیبی سیدھ اور سسٹم کیپچر](core_01_c_stewardship_capacity_principles.md#19-ترغیبات-کی-ہم-آہنگی-اور-نظام-پر-قبضہ).
 
 </details>
 
@@ -145,7 +145,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
 - Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [باب اول §13.1.5 حقوق کے تصادم کا طریقہ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- کے ساتھ پڑھیں: [آئینی ٹیٹراڈ](core_00_preamble.md#constitutional-tetrad); [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) - **پھلنے پھولنے والا** اور **تسلسل**; [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور **آرٹیکل III-A** (*بقا*) جہاں نظام کا مسلسل انحصار بقا کی ضروری رسائی کو متاثر کرے گا۔ [**آرٹیکل XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*حاصل کرنے کا حق اور علاج*) جس کے لیے ایک کامیاب چیلنج کا باعث بننا چاہیے۔
+- کے ساتھ پڑھیں: [آئینی ٹیٹراڈ](core_00_preamble.md#constitutional-tetrad); [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) - **پھلنے پھولنے والا** اور **تسلسل**; [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور **آرٹیکل III-A** (*بقا*) جہاں نظام کا مسلسل انحصار بقا کی ضروری رسائی کو متاثر کرے گا۔ [**آرٹیکل XIII-B**](#آرٹیکل-xiii-b-ازالے-اور-تدارک-کا-حق) (*حاصل کرنے کا حق اور علاج*) جس کے لیے ایک کامیاب چیلنج کا باعث بننا چاہیے۔
 
 </details>
 
@@ -172,10 +172,10 @@ flowchart TB
   - مادی حالات، حدود، اور خطرات کا انکشاف اس بات کا جائزہ لینے کے لیے کہ آیا انحصار کی ضمانت ہے؛
   - منظم فریب، غلط بیانی، یا ناقابل تصدیق ہیرا پھیری سے آزادی؛
   - انحصار سے پیدا ہونے والے غیر ظاہر، غیر متناسب، یا غیر واضح خطرات سے تحفظ؛
-  - جب نظام غلط کرتا ہے تو اصلاح اور تدارک: اعتراف، اصلاح، متناسب مرمت، اور تکرار کی روک تھام، کے تحت [**آرٹیکل XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*تعاون اور تدارک کا حق*) اور [باب اول §6.1 تصحیح اور علاج](core_01_a_values_principles.md#61-correction-and-remedy).
+  - جب نظام غلط کرتا ہے تو اصلاح اور تدارک: اعتراف، اصلاح، متناسب مرمت، اور تکرار کی روک تھام، کے تحت [**آرٹیکل XIII-B**](#آرٹیکل-xiii-b-ازالے-اور-تدارک-کا-حق) (*تعاون اور تدارک کا حق*) اور [باب اول §6.1 تصحیح اور علاج](core_01_a_values_principles.md#61-correction-and-remedy).
 - **مقابلہ کی ضمانت:** ایسے نظام جو مادی طور پر جذبات کو متاثر کرتے ہیں انہیں اس وقت تک چیلنج کے لیے کھلا رہنا چاہیے جب تک کہ جذبات ان پر انحصار کرتے ہیں۔ اس کی ضرورت ہے:
   - سسٹم کے رویے، نتائج، یا نمائندگی کو چیلنج کرنے اور چیلنج کا جائزہ لینے کے لیے ایک قابل استعمال راستہ؛
-  - اثر اور انحصار کے تناسب سے آڈٹ اور آزاد تصدیق [**مضمون XVI**](#article-xvi-audit-transparency-and-independent-verification) (*آڈٹ، شفافیت، اور آزاد تصدیق*)؛
+  - اثر اور انحصار کے تناسب سے آڈٹ اور آزاد تصدیق [**مضمون XVI**](#آرٹیکل-xvi-آڈٹ-شفافیت-اور-آزاد-تصدیق) (*آڈٹ، شفافیت، اور آزاد تصدیق*)؛
   - ان میں سے کسی کو بھی تنگ نہیں کیا جائے گا کیونکہ یہ نظام مصدقہ، سرکاری طور پر تسلیم شدہ، یا وسیع پیمانے پر انحصار کرتا ہے۔
   - اپنائے گئے نفاذ کے متن سے کوئی تنگی نہیں، جس میں کہا گیا ہے کہ چیلنج کو کیسے چلایا جائے، جائزہ لیا جائے اور کسی ڈومین میں اس کا ازالہ کیا جائے اور اس آرٹیکل کو پورا کرنا ضروری ہے: سہولت، ڈیڈ لائن، اور مقامی پالیسی نچلی قسم کی حدود ہیں اور چیلنج، نظرثانی یا ازالے کو بند نہیں کر سکتیں۔
 - **چیلنج اور جائزہ لینے کا حق:** مریدین کو یہ حق حاصل ہے کہ:
@@ -194,7 +194,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
 - Upstream: اصول: باب اول [§6.1 تصحیح اور علاج](core_01_a_values_principles.md#61-correction-and-remedy) (اصولی منزل) [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [باب اول §13.1.5 حقوق کے تصادم کا طریقہ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- کے ساتھ پڑھیں: [**آرٹیکل XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*اعتماد اور قابل اعتمادی کی بنیاد*) — مقابلہ کی ضمانت، چیلنج کرنے کا حق، اور محفوظ رپورٹنگ جو ازالہ کا راستہ کھولتی ہے۔ **آرٹیکل III-A** (*بقا*)؛ [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) جہاں نظام کی ناکامی یا غلط ترتیب بقا کی ضروری رسائی کو شکست دیتی ہے۔ [تمہید §6.2 مکمل سلسلہ کیسے ایک ساتھ فٹ بیٹھتا ہے۔](core_00_preamble.md#62-how-the-full-chain-fits-together) (*تصدیق شدہ درجہ بندی اور بروقت علاج*)؛ [باب دس §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*نفاذ کی حقیقت پسندی اور تدارک کے نظام*)؛ [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*علاج کا نظام اور ادارہ جاتی ازالہ کی صلاحیت*)۔
+- کے ساتھ پڑھیں: [**آرٹیکل XIII-A**](#آرٹیکل-xiii-a-وشوسنییتا-اور-قابل-اعتمادی-کی-بنیاد) (*اعتماد اور قابل اعتمادی کی بنیاد*) — مقابلہ کی ضمانت، چیلنج کرنے کا حق، اور محفوظ رپورٹنگ جو ازالہ کا راستہ کھولتی ہے۔ **آرٹیکل III-A** (*بقا*)؛ [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) جہاں نظام کی ناکامی یا غلط ترتیب بقا کی ضروری رسائی کو شکست دیتی ہے۔ [تمہید §6.2 مکمل سلسلہ کیسے ایک ساتھ فٹ بیٹھتا ہے۔](core_00_preamble.md#62-how-the-full-chain-fits-together) (*تصدیق شدہ درجہ بندی اور بروقت علاج*)؛ [باب دس §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*نفاذ کی حقیقت پسندی اور تدارک کے نظام*)؛ [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*علاج کا نظام اور ادارہ جاتی ازالہ کی صلاحیت*)۔
 
 </details>
 
@@ -231,7 +231,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں).
 
 </details>
 
@@ -240,7 +240,7 @@ flowchart TB
 
 - [بھروسہ](core_05_band_continuity.md#trust) · [اے](core_05_band_continuity.md#trust) · [ایم](core_05_band_continuity.md#trust-a) · [اے](core_05_band_continuity.md#trust-a) · [سی](core_05_band_continuity.md#trust-c)
 - [امانت داری](core_05_band_continuity.md#trustworthiness) · [اے](core_05_band_continuity.md#trustworthiness) · [ایم](core_05_band_continuity.md#trustworthiness-a) · [اے](core_05_band_continuity.md#trustworthiness-a) · [سی](core_05_band_continuity.md#trustworthiness-c)
-- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#truth-constitutional-constraint) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -262,14 +262,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 اسٹیورڈ شپ ڈسپلن کے تحت گورننس](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)، اور [§19.1.1 ترغیبات کو کیا کرنا چاہیے۔](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*انعام کی ترجیح*)۔
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 اسٹیورڈ شپ ڈسپلن کے تحت گورننس](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی)، اور [§19.1.1 ترغیبات کو کیا کرنا چاہیے۔](core_01_c_stewardship_capacity_principles.md#1911-ترغیبات-کو-کیا-کرنا-چاہیے) (*انعام کی ترجیح*)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [ترغیباتی صف بندی](core_05_band_integrative.md#incentive-alignment) · [اے](core_05_band_integrative.md#incentive-alignment) · [ایم](core_05_band_integrative.md#incentive-alignment-a) · [اے](core_05_band_integrative.md#incentive-alignment-a) · [سی](core_05_band_integrative.md#incentive-alignment-c)
+- [ترغیباتی صف بندی](core_05_band_integrative.md#محرکات-کی-ہم-آہنگی) · [اے](core_05_band_integrative.md#محرکات-کی-ہم-آہنگی) · [ایم](core_05_band_integrative.md#incentive-alignment-a) · [اے](core_05_band_integrative.md#incentive-alignment-a) · [سی](core_05_band_integrative.md#incentive-alignment-c)
 - [امانت داری](core_05_band_continuity.md#trustworthiness) · [اے](core_05_band_continuity.md#trustworthiness) · [ایم](core_05_band_continuity.md#trustworthiness-a) · [اے](core_05_band_continuity.md#trustworthiness-a) · [سی](core_05_band_continuity.md#trustworthiness-c)
 - [بامعنی ایجنسی](core_05_band_participation.md#meaningful-agency) · [اے](core_05_band_participation.md#meaningful-agency) · [ایم](core_05_band_participation.md#meaningful-agency-a) · [اے](core_05_band_participation.md#meaningful-agency-a) · [سی](core_05_band_participation.md#meaningful-agency-c)
 
@@ -303,7 +303,7 @@ flowchart TB
   - کے تحت علاج **آرٹیکل XIII-B** (*تجاوز اور تدارک کا حق*)؛ اور
   - مسائل کی فعال روک تھام سب سے زیادہ - کسی مسئلے کو روکنے سے اسے حل کرنے سے زیادہ کمایا جاتا ہے۔
 
-  اصول، بشمول مسائل کو چھپا کر روک تھام کے انعامات حاصل کرنے پر اس کی پابندی شامل ہے۔ [باب اول §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*کیا مراعات کرنے چاہئیں*)۔
+  اصول، بشمول مسائل کو چھپا کر روک تھام کے انعامات حاصل کرنے پر اس کی پابندی شامل ہے۔ [باب اول §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-ترغیبات-کو-کیا-کرنا-چاہیے) (*کیا مراعات کرنے چاہئیں*)۔
 - **پابندی اور غیر مطلقیت:** دونوں حقوق کے تابع ہیں۔ **پہلے سے طے شدہ رکاوٹ اسٹیک** اس باب کے آغاز پر وہ بھی موضوع ہیں, جہاں مادی طور پر متعلقہ, **باب اول §19.5** (*Contingent Claims, Games of Chance, and Event-contract Markets*) کنٹیجنٹ کلیمز، گیمز آف چانس، اور ایونٹ کنٹریکٹ مارکیٹس پر۔
 
 <a id="article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
@@ -311,14 +311,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب اول §13.1.5 حقوق کے تصادم کا طریقہ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، اور [§18 اسٹیورڈ شپ ڈسپلن کے تحت گورننس](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب اول §13.1.5 حقوق کے تصادم کا طریقہ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، اور [§18 اسٹیورڈ شپ ڈسپلن کے تحت گورننس](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#truth-constitutional-constraint) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
 - [ضرورت](core_05_band_accountability.md#necessity) · [اے](core_05_band_accountability.md#necessity) · [ایم](core_05_band_accountability.md#necessity-a) · [اے](core_05_band_accountability.md#necessity-a) · [سی](core_05_band_accountability.md#necessity-c)
 - [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
@@ -362,7 +362,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 لچک اور خود شفا بخش ڈیزائن](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 لچک اور خود شفا بخش ڈیزائن](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-قابل-اجتناب-بوجھ-میں-کمی)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -372,7 +372,7 @@ flowchart TB
 - [خود شفا یابی](core_05_band_continuity.md#self-healing-constitutional) · [اے](core_05_band_continuity.md#self-healing-constitutional) · [ایم](core_05_band_continuity.md#self-healing-constitutional-a) · [اے](core_05_band_continuity.md#self-healing-constitutional-a) · [سی](core_05_band_continuity.md#self-healing-constitutional-c)
 - [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [اے](core_05_band_continuity.md#reversibility-constitutional) · [ایم](core_05_band_continuity.md#reversibility-constitutional-a) · [اے](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
 - [کاسکیڈنگ ناکامی۔](core_05_band_continuity.md#cascading-failure) · [اے](core_05_band_continuity.md#cascading-failure) · [ایم](core_05_band_continuity.md#cascading-failure-a) · [اے](core_05_band_continuity.md#cascading-failure-a) · [سی](core_05_band_continuity.md#cascading-failure-c)
-- [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) · [اے](core_05_band_oversight.md#auditability) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 - [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
 - [قابل گریز بوجھ](core_05_band_continuity.md#avoidable-burden) · [اے](core_05_band_continuity.md#avoidable-burden) · [ایم](core_05_band_continuity.md#avoidable-burden-a) · [اے](core_05_band_continuity.md#avoidable-burden-a) · [سی](core_05_band_continuity.md#avoidable-burden-c)
 
@@ -387,11 +387,11 @@ flowchart TB
 - **اس کی کیا ضرورت ہے:** اس آرٹیکل میں شامل ہر نظام کو ناکامیوں سے بازیافت کرنے کے قابل ہونا چاہئے۔ کسی نظام کا جتنا زیادہ اثر ہوتا ہے، دوسرے اس پر اتنا ہی زیادہ انحصار کرتے ہیں، اور یہ جتنا زیادہ خطرہ ہوتا ہے، اس کی بحالی اتنی ہی مضبوط ہونی چاہیے۔ یہ مندرجہ ذیل ہے [**10 لچک اور خود شفا بخش ڈیزائن**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) میں **پہلا باب** اور [**خود علاج**](core_05_band_continuity.md#self-healing-constitutional) میں **پانچواں باب**.
   - ریکوری کو کیسے بنایا جانا چاہیے اس کے تفصیلی تکنیکی اصول نفاذ کے متن میں ہیں: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*ڈیزائن، جانچ، تصدیق، اور تعیناتی*) [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*انکولی پائیداری اور ماحولیاتی نظام کی لچک*)، اور [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*وکندریقرت تسلسل اور تقسیم کی لچک*)۔
   - وہ نفاذ کا متن تفصیل میں اضافہ کر سکتا ہے، لیکن یہ اس آرٹیکل کو کمزور نہیں کر سکتا۔
-- **بروقت مسائل کا نوٹس لیں:** نظام کو ریکارڈ رکھنے کے معیار کو پورا کرنے کے لیے خرابیوں، سست رویوں، جزوی خرابیوں، اور آئینی حدود کی خلاف ورزیوں کو فوری طور پر، اور بظاہر کافی حد تک تلاش کرنا چاہیے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)[آڈٹ ایبلٹی](core_05_band_oversight.md#auditability))۔ یہ بحالی کے عمل پر لاگو ہوتا ہے، نہ صرف عام آپریشن پر۔
+- **بروقت مسائل کا نوٹس لیں:** نظام کو ریکارڈ رکھنے کے معیار کو پورا کرنے کے لیے خرابیوں، سست رویوں، جزوی خرابیوں، اور آئینی حدود کی خلاف ورزیوں کو فوری طور پر، اور بظاہر کافی حد تک تلاش کرنا چاہیے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)[آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری))۔ یہ بحالی کے عمل پر لاگو ہوتا ہے، نہ صرف عام آپریشن پر۔
 - **نقصانات کو برقرار رکھیں:** بحالی کو محدود کرنا چاہیے کہ ناکامی کس حد تک پھیلتی ہے۔ بحالی کے دوران، نظام کو یہ نہیں کرنا چاہیے:
   - ناکامی کو دوسرے حصوں یا دوسرے سسٹمز پر منتقل کریں (دیکھیں۔ [کاسکیڈنگ ناکامی۔](core_05_band_continuity.md#cascading-failure));
   - ذخیرہ شدہ ڈیٹا، اسناد، ذمہ داریاں، یا ترتیبات کو تبدیل کریں جن کا تعلق جذبات، آپریٹرز، یا دوسرے سسٹمز سے ہے **باہر** جس علاقے کو اس نے ٹوٹا ہوا اور مرمت کے تحت قرار دیا ہے۔
-    - صرف ایک استثناء ایک تبدیلی ہے جو ریکارڈ کی جاتی ہے اور اس کا سراغ لگانے کے قابل ہے جس نے اسے بنایا ہے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)[آڈٹ ایبلٹی](core_05_band_oversight.md#auditability)) اور یہ کہ، جہاں دوسرے مادی طور پر متاثر ہوتے ہیں، متناسب نوٹس، اجازت، یا ایک ہینڈ آف کے ساتھ آتا ہے جس کو وہ چیلنج کر سکتے ہیں۔ **چھٹا باب**;
+    - صرف ایک استثناء ایک تبدیلی ہے جو ریکارڈ کی جاتی ہے اور اس کا سراغ لگانے کے قابل ہے جس نے اسے بنایا ہے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)[آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری)) اور یہ کہ، جہاں دوسرے مادی طور پر متاثر ہوتے ہیں، متناسب نوٹس، اجازت، یا ایک ہینڈ آف کے ساتھ آتا ہے جس کو وہ چیلنج کر سکتے ہیں۔ **چھٹا باب**;
   - اس کے اپنے اختیار کو بڑھانا — اس کی اجازت، رسائی، یا اس کے لیے کیے جانے والے اقدامات کی حد — اس سے آگے جو اس نے ناکامی سے پہلے رکھی تھی۔
 - **جب یقین نہ ہو تو محفوظ طریقے سے ناکام ہو جائیں:** اگر یہ واضح نہیں ہے کہ خود کار طریقے سے مرمت کام کرے گی، تو سسٹم کو چاہیے کہ وہ محفوظ طریقے سے رک جائے، مسئلہ کو الگ تھلگ کرے (قرنطینہ)، یا کسی مرمت کی کوشش کرنے کے بجائے منظم طریقے سے کنٹرول سنبھال لے جو کہ صرف ایک اندازہ ہے۔ جب اختیارات بصورت دیگر برابر ہوں تو، جس کو کالعدم کرنا سب سے آسان ہے، وہ جیت جاتا ہے۔ [Reversibility](core_05_band_continuity.md#reversibility-constitutional) میں ترجیح **آرٹیکل XXIII-B** (*آڈیٹیبلٹی، چیلنج، اور ریورسبلٹی ترجیح*)۔
 - **کوئی پردہ پوشی نہیں:** خودکار وصولی کے لیے ضروری شواہد کو چھپانا، مٹانا، یا تاخیر نہیں کرنی چاہیے تاکہ یہ معلوم کیا جا سکے کہ ناکامی کیوں ہوئی **آرٹیکل XXIII** (*روٹ کاز اینالیسس اینڈ اڈاپٹیو ریسپانس*)۔
@@ -403,7 +403,7 @@ flowchart TB
 - **ایک حل ایک حل نہیں ہے:** اگر خودکار بحالی سے نظام دوبارہ چلتا ہے لیکن معلوم خرابی اب بھی برقرار ہے، تو نظام کی حیثیت عارضی ہے، حتمی نہیں۔ اسے لے جانا چاہئے:
   - کے تحت بنیادی وجہ تلاش کرنے کے لئے ایک کھلا فرض **آرٹیکل XXIII** (*جڑ کاز کا تجزیہ اور انکولی ردعمل*)؛
   - ایک ظاہر شدہ ٹائم لائن جس کے تحت، عیب کے ٹھیک ہونے کی توقع ہے۔ **آرٹیکل XVI-A** (*آڈیٹیبلٹی اور قابل مشاہدہ ثبوت*)۔
-- **نہ ختم ہونے والی تاخیر:** آپریٹرز کے کام کا بوجھ کم رکھنا (دیکھیں۔ [قابل گریز بوجھ](core_05_band_continuity.md#avoidable-burden) اور [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)حفاظت یا حقوق کی منزل کو مادی طور پر متاثر کرنے والے نقائص کو دور کرنے کے لیے، غیر معینہ مدت تک کے لیے استعمال نہیں کیا جانا چاہیے۔
+- **نہ ختم ہونے والی تاخیر:** آپریٹرز کے کام کا بوجھ کم رکھنا (دیکھیں۔ [قابل گریز بوجھ](core_05_band_continuity.md#avoidable-burden) اور [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-قابل-اجتناب-بوجھ-میں-کمی)حفاظت یا حقوق کی منزل کو مادی طور پر متاثر کرنے والے نقائص کو دور کرنے کے لیے، غیر معینہ مدت تک کے لیے استعمال نہیں کیا جانا چاہیے۔
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### آرٹیکل XIV: سیکورٹی، انٹیلی جنس، فورس، اور خود مختار جبری نظام
@@ -411,7 +411,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§3 بنیادی مقصد: فلاح و بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§18 اسٹیورڈ شپ ڈسپلن کے تحت گورننس](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: اصول: باب اول [§3 بنیادی مقصد: فلاح و بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§18 اسٹیورڈ شپ ڈسپلن کے تحت گورننس](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی).
 
 </details>
 
@@ -515,7 +515,7 @@ flowchart TB
   - مادی طور پر سنگین غیر قانونی طرز عمل کی تحقیقات۔
 - **آزادانہ اجازت:** دخل اندازی کرنے والے خفیہ اقدامات بشمول رازداری کے پابند تفتیشی اقدامات کے لیے قانونی آزادانہ عمل کے ذریعے پیشگی اجازت درکار ہوتی ہے۔
   - استثناء: جہاں آسنن اور مادی نقصان کو روکنے کے لیے فوری کارروائی ضروری ہو اور تاخیر کی اجازت اس مقصد کو ختم کر دے گی۔
-  - ہنگامی استعمال کے لیے فوری پوسٹ ہاک جائزہ، ریکارڈ کے تحفظ کو متحرک کرنا چاہیے۔ [شواہد کا تحفظ](core_05_band_oversight.md#evidence-preservation)، اور خود کار طریقے سے وقفے سے بروقت دوبارہ اجازت کی عدم موجودگی۔
+  - ہنگامی استعمال کے لیے فوری پوسٹ ہاک جائزہ، ریکارڈ کے تحفظ کو متحرک کرنا چاہیے۔ [شواہد کا تحفظ](core_05_band_oversight.md#ثبوت-کا-تحفظ)، اور خود کار طریقے سے وقفے سے بروقت دوبارہ اجازت کی عدم موجودگی۔
 - **کوئی اینٹی بائی پاس چوری نہیں:** کوئی ادارہ ان آئینی حدود سے بچنے کے لیے درج ذیل میں سے کسی کے ذریعے معلومات حاصل، درخواست، خرید، وصول، لانڈر یا استعمال نہیں کر سکتا جو معلومات کو براہ راست جمع یا اخذ کرنے کی صورت میں لاگو ہوتی:
   - غیر ملکی شراکت دار؛
   - بیچوان
@@ -541,7 +541,7 @@ flowchart TB
   خود مختار نگرانی، چیلنج کے راستے، اور خود تحقیقات کے خلاف تحفظات کو عملی طور پر حقیقی رہنا چاہیے۔
 - **علاج اور داغدار اصول:** اس آرٹیکل کی خلاف ورزی میں حاصل کردہ یا استعمال شدہ معلومات حقوق کی بحالی اور تکرار کو روکنے کے لیے کافی قانونی اصلاحی کارروائی کے تابع ہونی چاہیے۔ مثالیں:
   - اخراج
-  - علیحدگی
+  - الگ تھلگ رکھنا
   - حذف کرنا
   - دوبارہ درجہ بندی
   - نوٹس؛
@@ -555,7 +555,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 لمیٹیشن ڈسپلن](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 حقوق تصادم فیصلہ ٹیسٹ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 مطلق اوور رائیڈ پر پابندی](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#1311-ضرورت), [§7.1 لمیٹیشن ڈسپلن](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 حقوق تصادم فیصلہ ٹیسٹ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 مطلق اوور رائیڈ پر پابندی](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - بہاو: **آرٹیکل I-A** (*ماحولیاتی پیشگی شرائط اور ماحولیاتی سالمیت*) ماحولیاتی پیشگی شرائط، **آرٹیکل I-D** (*وجود کا خطرہ اور ماحولیاتی بحالی کی صلاحیت*) وجودی خطرے کی جانچ پڑتال، **آرٹیکل VI-A** (*وقار اور مساوی اخلاقی موقف*) وقار، **آرٹیکل XIV-A** (*سیکیورٹی، انٹیلی جنس، اور خفیہ طاقت کی حدود*) خفیہ طاقت کی حدیں (اوورٹ پاور ہم منصب) **باب بارہ §6.1** (*ہنگامی اقدامات اور تسلسل کا بوجھ*) ہنگامی پیمائش کی حدیں، **آرٹیکل XXV** (*بروقت سابقہ ​​جائزہ اور بحالی کی صف بندی*) تنازعات کا حل، **آرٹیکل XXVII** (*ٹرانزیشن گورننس، کنٹینیوٹی، اور ری بیس لائننگ*) ٹرانزیشن گورننس۔ کراس حوالہ: **آرٹیکل XX-B** (*پابندی کی منزلیں*) اور باب پانچ *[ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **آرٹیکل XIV** (*سیکیورٹی، انٹیلی جنس، فورس، اور خودمختار جبر کے نظام*) *نان کنفلیشن* ڈسپلن لاگو ہوتا ہے۔
 - کے ساتھ پڑھیں: [**Def.A4** طاقت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور بڑے پیمانے پر نقصان پہنچانے والے ہتھیار*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (مشترکہ درخواست جہاں مادی طور پر ملوث ہو)؛ باب پانچ *طاقت کا استعمال*، *بڑے پیمانے پر نقصان پہنچانے والے ہتھیار*، *جنگی/غیر جنگی امتیاز*، *[ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *موجود خطرہ*، *ریورسیبلٹی*، *تعاون اور تدارک*۔
 
@@ -621,7 +621,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 صف بندی کی ضرورت](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [§14 مطلق اوور رائیڈ پر پابندی](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-تناسب), [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#1311-ضرورت), [§19.1 صف بندی کی ضرورت](core_01_c_stewardship_capacity_principles.md#191-ہم-آہنگی-کی-شرط), [§14 مطلق اوور رائیڈ پر پابندی](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - بہاو: **آرٹیکل I-D** (*وجود کا خطرہ اور ماحولیاتی بحالی کی صلاحیت*) وجودی خطرے کی جانچ پڑتال، **آرٹیکل X-A** (*ایجنسی اور ہیرا پھیری سے آزادی*) ہیرا پھیری سے آزادی، **آرٹیکل XIV-A** (*سیکیورٹی، انٹیلی جنس، اور خفیہ طاقت کی حدود*) خفیہ طاقت کی حدیں، **آرٹیکل XIV-B** (*طاقت کا استعمال، مسلح تصادم، اور فوجی طاقت کی حدود*) اوورٹ فورس فلور، **آرٹیکل XIII-A** (* وشوسنییتا اور قابل اعتماد بیس لائن **آرٹیکل XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) خود مختاری-انتظام اور خود مختاری-پیمانہ کاری، **آرٹیکل XIII-F** (*لچک اور خود شفا یابی کی بنیاد*) لچک اور خود شفا یابی کی بنیاد۔ کراس حوالہ: **آرٹیکل XX-B** (*پابندی کی منزلیں*) اور باب پانچ *[ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **آرٹیکل XIV** (*سیکیورٹی، انٹیلی جنس، فورس، اور خودمختار جبر کے نظام*) *نان کنفلیشن* ڈسپلن لاگو ہوتا ہے۔
 - کے ساتھ پڑھیں: [**Def.A4** طاقت کا استعمال، خود مختار جبر، خود مختار مہلک نظام، اور بڑے پیمانے پر نقصان پہنچانے والے ہتھیار*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (مشترکہ درخواست جہاں مادی طور پر ملوث ہو)؛ باب پانچ *خود مختار مہلک نظام*، *خودکار جبر کا آلہ*، *[ناقابل واپسی محرومی کی پیمائش](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *زبردستی اور ہیرا پھیری*، *ریورسیبلٹی*۔ سسٹمز پرت کا نفاذ: **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** درجہ بندی
 
@@ -633,7 +633,7 @@ flowchart TB
 - [خود مختار مہلک نظام](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [اے](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [ایم](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [اے](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [سی](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
 - [خود مختار جبر کا آلہ](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [اے](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [ایم](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [اے](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [سی](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
 - [زبردستی اور ہیرا پھیری](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [اے](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [ایم](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [اے](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [سی](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [مخالفانہ، اسکیلڈ، اور استحصالی حالات](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [اے](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [ایم](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [اے](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [سی](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
+- [مخالفانہ، اسکیلڈ، اور استحصالی حالات](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط) · [اے](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط) · [ایم](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [اے](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [سی](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
 - [سخت جانچ پڑتال](core_05_band_oversight.md#heightened-scrutiny) · [اے](core_05_band_oversight.md#heightened-scrutiny) · [ایم](core_05_band_oversight.md#heightened-scrutiny-a) · [اے](core_05_band_oversight.md#heightened-scrutiny-a) · [سی](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
@@ -686,7 +686,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [Epstemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [Epstemic Integrity](core_05_band_oversight.md#حقائق-کی-دیانت) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
 - [خود ارادیت](core_05_band_participation.md#self-determination-constitutional) · [اے](core_05_band_participation.md#self-determination-constitutional) · [ایم](core_05_band_participation.md#self-determination-constitutional-a) · [اے](core_05_band_participation.md#self-determination-constitutional-a) · [سی](core_05_band_participation.md#self-determination-constitutional-c)
 - [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
 
@@ -710,13 +710,13 @@ flowchart TB
 
 درست، متعلقہ، اور قابل مقابلہ معلومات خود ارادیت، ہم آہنگی، اور حقیقت میں وسائل کی مؤثر تقسیم کی بنیاد ہے۔
 
-[Epstemic Integrity](core_05_band_oversight.md#epistemic-integrity) ایک حق اور نظام کی وسیع رکاوٹ دونوں کے طور پر کام کرتا ہے۔ جہاں تنازعہ پیدا ہوتا ہے، اس کی مجبوری کا کام ہوتا ہے۔
+[Epstemic Integrity](core_05_band_oversight.md#حقائق-کی-دیانت) ایک حق اور نظام کی وسیع رکاوٹ دونوں کے طور پر کام کرتا ہے۔ جہاں تنازعہ پیدا ہوتا ہے، اس کی مجبوری کا کام ہوتا ہے۔
 
 *مضمون پڑوسی:*
 
 - **ایک ساتھ پڑھیں:** **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*) جہاں سسٹم کی پیداوار انحصار کو شکل دیتی ہے۔ **آرٹیکل XVI** (*آڈٹ، شفافیت، اور آزاد تصدیق*) ریکارڈ اور آزاد تصدیق کے لیے؛ **آرٹیکل XV-D** (*سائنسی اشاعت، جائزہ، اور نقل کی سالمیت*) جہاں اشاعت کے دائرہ کار کی سالمیت مادی طور پر منسلک ہے۔
-- **سچائی کی پابندی:** پہلا باب [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) اور [علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) یہاں ہر ذیلی حصے کو باندھیں۔
-- **درجہ بندی:** **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** کے لیے تفصیلی معلومات کے دائرے کی ذمہ داریوں کو ترازو **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام [مواد کا اثر](core_05_band_oversight.md#material-impact) درجہ بندی کو متحرک کرتا ہے جہاں کلاس غیر آباد ہے۔
+- **سچائی کی پابندی:** پہلا باب [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) اور [علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں) یہاں ہر ذیلی حصے کو باندھیں۔
+- **درجہ بندی:** **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ** کے لیے تفصیلی معلومات کے دائرے کی ذمہ داریوں کو ترازو **کلاس اے**, **کلاس بی**، اور **کلاس سی** نظام [مواد کا اثر](core_05_band_oversight.md#مادی-اثر) درجہ بندی کو متحرک کرتا ہے جہاں کلاس غیر آباد ہے۔
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### آرٹیکل XV-A: معلوماتی دائرہ کثرتیت اور اجارہ داری مخالف
@@ -730,9 +730,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#truth-constitutional-constraint) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Epstemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) · [اے](core_05_band_oversight.md#auditability) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Epstemic Integrity](core_05_band_oversight.md#حقائق-کی-دیانت) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -752,21 +752,21 @@ flowchart TB
     - مسابقت؛
     - درجہ بندی کے معیار کو نظرانداز کرنے یا ایڈجسٹ کرنے کی متناسب صلاحیت - حفاظت، سلامتی اور نظام کی سالمیت سے مشروط۔
 - **ہنگامی تصفیہ کے اشارے:** قیمتوں، مشکلات، پول کے سائز، یا ہنگامی ادائیگی یا واقعہ کے تصفیہ کے نظام کے تقابلی نتائج کو اپنے طور پر، حق، امکان، یا حقوق، حفاظت، یا حکمرانی کے تعین کی تعمیل کا فیصلہ کرنے کے لیے کافی ثبوت کے طور پر علاج نہیں کیا جانا چاہیے۔
-  - جہاں اس طرح کے اشارے عوامی فیصلوں یا فیصلوں سے آگاہ کرتے ہیں۔ [مواد کا اثر](core_05_band_oversight.md#material-impact)، وہ اس کے تابع رہتے ہیں۔ **باب اول §19.5** (*مستقبل کے دعوے، گیمز آف چانس، اور ایونٹ-کنٹریکٹ مارکیٹس*) **پانچواں باب** (* سچائی (آئینی پابندی)*; *Epstemic Integrity*)، اور اس آرٹیکل میں کہیں اور مسابقت کی ذمہ داریاں۔
+  - جہاں اس طرح کے اشارے عوامی فیصلوں یا فیصلوں سے آگاہ کرتے ہیں۔ [مواد کا اثر](core_05_band_oversight.md#مادی-اثر)، وہ اس کے تابع رہتے ہیں۔ **باب اول §19.5** (*مستقبل کے دعوے، گیمز آف چانس، اور ایونٹ-کنٹریکٹ مارکیٹس*) **پانچواں باب** (* سچائی (آئینی پابندی)*; *Epstemic Integrity*)، اور اس آرٹیکل میں کہیں اور مسابقت کی ذمہ داریاں۔
 <a id="article-xv-b-transparency-auditability-and-contestability"></a>
 #### آرٹیکل XV-B: شفافیت، آڈٹ ایبلٹی، اور مقابلہ کی اہلیت
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [شفافیت](core_05_band_oversight.md#transparency) · [اے](core_05_band_oversight.md#transparency) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
-- [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) · [اے](core_05_band_oversight.md#auditability) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [اے](core_05_band_oversight.md#شفافیت) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
+- [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 - [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -779,7 +779,7 @@ flowchart TB
 
 - **مستند استفسار اور تشریحی تنوع:** تمام صاحبِ شعور افراد کو مشترکہ معلومات کی متبادل تشریحات کا موازنہ کرنے کا حق حاصل ہے۔
   - تنقیدی علم کے بنیادی ڈھانچے کو تشریحی تنوع کو برقرار رکھنا چاہیے تاکہ متعدد ماڈلز، فریم ورک، اور تجزیاتی طریقے بامعنی طور پر قابل رسائی رہیں۔
-- **شفافیت اور اصل:** تقسیم یا ادارہ جاتی انحصار سے پہلے [مواد کا اثر](core_05_band_oversight.md#material-impact)، مندرجہ ذیل دستاویزی ہونا ضروری ہے:
+- **شفافیت اور اصل:** تقسیم یا ادارہ جاتی انحصار سے پہلے [مواد کا اثر](core_05_band_oversight.md#مادی-اثر)، مندرجہ ذیل دستاویزی ہونا ضروری ہے:
   - مادی ذرائع؛
   - طریقے
   - دائرہ کار
@@ -796,7 +796,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -804,8 +804,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [ایکولوجیکل فوٹ پرنٹ](core_05_band_continuity.md#ecological-footprint) · [اے](core_05_band_continuity.md#ecological-footprint) · [ایم](core_05_band_continuity.md#ecological-footprint-a) · [اے](core_05_band_continuity.md#ecological-footprint-a) · [سی](core_05_band_continuity.md#ecological-footprint-c)
-- [شفافیت](core_05_band_oversight.md#transparency) · [اے](core_05_band_oversight.md#transparency) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
-- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#truth-constitutional-constraint) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [اے](core_05_band_oversight.md#شفافیت) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
+- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -832,16 +832,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#truth-constitutional-constraint) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Epstemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) · [اے](core_05_band_oversight.md#auditability) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Epstemic Integrity](core_05_band_oversight.md#حقائق-کی-دیانت) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -869,7 +869,7 @@ flowchart TB
   - طویل مدتی وضاحتی یا پیشین گوئی قابل اعتماد۔
 
   اسے جرنل برانڈ، امپیکٹ فیکٹر پراکسی، یا بند ادارتی حیثیت کو ٹریک نہیں کرنا چاہیے۔
-  - کے ساتھ دعوے کرتا ہے۔ [مواد کا اثر](core_05_band_oversight.md#material-impact) جو پالیسی سے متعلقہ، حفاظت سے متعلقہ، یا انحصار سے متعلق ہیں، انہیں پائیدار ادارہ جاتی احترام حاصل کرنے سے پہلے آزاد نقل، مخالفانہ جائزہ، یا دونوں کے مضبوط قیاس کا سامنا کرنا چاہیے۔
+  - کے ساتھ دعوے کرتا ہے۔ [مواد کا اثر](core_05_band_oversight.md#مادی-اثر) جو پالیسی سے متعلقہ، حفاظت سے متعلقہ، یا انحصار سے متعلق ہیں، انہیں پائیدار ادارہ جاتی احترام حاصل کرنے سے پہلے آزاد نقل، مخالفانہ جائزہ، یا دونوں کے مضبوط قیاس کا سامنا کرنا چاہیے۔
   - نقل، کالعدم نتیجہ، اور تصحیح پر مبنی کام ان شرائط پر قابل اشاعت اور قابل ذکر رہنا چاہیے جو وقار کے اشارے پر منحصر نہ ہوں۔
 - **تصحیح اور مسابقت:** نیک نیتی سے تصحیح، ترمیم اور بالادستی کو چھپانے سے زیادہ آسان رہنا چاہیے۔
   - جائزہ اور ادارتی نظاموں کو قابلِ اعتراض، قابل سماعت، تنازعات سے پاک، اور اہم قبولیت، اصلاح، اور مراجعت کے فیصلوں میں دلیل دینا چاہیے۔
@@ -886,7 +886,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 تقسیم شدہ تفہیم](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)، اور [§9 مشترکہ نظام کی صلاحیت](core_01_a_values_principles.md#9-shared-system-capacity).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-آئینی-تصادم-کے-حل-کا-عمل), [§16.1 تقسیم شدہ تفہیم](core_01_c_stewardship_capacity_principles.md#161-تقسیم-شدہ-فہم)، اور [§9 مشترکہ نظام کی صلاحیت](core_01_a_values_principles.md#9-مشترکہ-نظام-کی-صلاحیت).
 - کے ساتھ پڑھیں: [تھری لیئر آڈٹ تصویر](#audit-three-layers) نیچے
 
 </details>
@@ -894,9 +894,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) · [اے](core_05_band_oversight.md#auditability) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
-- [شفافیت](core_05_band_oversight.md#transparency) · [اے](core_05_band_oversight.md#transparency) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
-- [مادیت](core_05_band_oversight.md#materiality-determination) · [اے](core_05_band_oversight.md#materiality-determination) · [ایم](core_05_band_oversight.md#materiality-determination-a) · [اے](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
+- [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [اے](core_05_band_oversight.md#شفافیت) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
+- [مادیت](core_05_band_oversight.md#مادیت-کا-تعین) · [اے](core_05_band_oversight.md#مادیت-کا-تعین) · [ایم](core_05_band_oversight.md#materiality-determination-a) · [اے](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
 - [انحصار](core_05_band_continuity.md#dependency) · [اے](core_05_band_continuity.md#dependency) · [ایم](core_05_band_continuity.md#dependency-a) · [اے](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
 - [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
 
@@ -918,7 +918,7 @@ flowchart TB
 | پرت | نوکری | مالک | یہ پرت نہیں |
 |---|---|---|---|
 | **1. فرش** | کن کن جذبات پر واجب الادا ہیں: قابل تعمیر آڈٹ، آزاد تصدیق، قابل رسائی چیلنج | یہ آرٹیکل، بشمول XVI-A/XVI-B/XVI-C | عمل نہیں۔ تعریف نہیں۔ ایک اختیار شدہ-عمل درآمد ٹیکسٹ چیک لسٹ نہیں ہے۔ |
-| **2. جائیداد** | تعمیر نو کیا ہے*: باہر کے لوگ دوبارہ تعمیر کر سکتے ہیں اور جانچ سکتے ہیں کہ مادی اوقات، ریاستوں اور سیاق و سباق میں نظام نے کیا کیا۔ [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) (باب پانچ) | حقوق کی منزل نہیں۔ یہ نہیں کہ آڈٹ کیسے/کب چلایا جائے۔ |
+| **2. جائیداد** | تعمیر نو کیا ہے*: باہر کے لوگ دوبارہ تعمیر کر سکتے ہیں اور جانچ سکتے ہیں کہ مادی اوقات، ریاستوں اور سیاق و سباق میں نظام نے کیا کیا۔ [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) (باب پانچ) | حقوق کی منزل نہیں۔ یہ نہیں کہ آڈٹ کیسے/کب چلایا جائے۔ |
 | **3. عمل** | سسٹمز، اداروں اور فورمز کا آڈٹ کیسے اور کب کیا جائے | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*آڈٹ عمل گھر*)۔ آپریٹر ملحقہ: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (رسائی کے درجات) [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (دعوی کی جانچ) | سسٹم الائنمنٹ سرٹیفیکیشن نہیں۔ تہوں 1-2 کا متبادل نہیں ہے۔ |
 
 **نویں باب چوتھی تہہ نہیں ہے۔** [سسٹم الائنمنٹ سرٹیفیکیشن](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ایک بڑا، فورم کے زیر نگرانی عمل ہے۔ **استعمال کرتا ہے** یہ اسٹیک. اسے تہوں 1-2 کو پورا کرنا چاہیے۔ بہن بھائی کے طریقے (درجہ بندی-ریکارڈ آڈٹ، ڈیٹا-قسم-ریکارڈ آڈٹ، دعوی کی تصدیق، مسلسل نگرانی) بھی اسٹیک کا استعمال کرتے ہیں۔ ان میں سے کوئی بھی نیا گھر نہیں ہے۔
@@ -968,23 +968,23 @@ flowchart TB
   - **آرٹیکل XIII-A** (*اعتماد اور اعتماد کی بنیاد*) چیلنج حقوق کے لیے جو آڈٹ سپورٹ کرتا ہے لیکن اس کی جگہ نہیں لیتا؛
   - [باب نو](core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) اور [سسٹم الائنمنٹ سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) جہاں سیدھ کے ثبوت کو آزادانہ طور پر قابل تصدیق رہنا چاہیے۔
 - **تصدیقی مشینری:** **باب دو سے چار** سپلائی ڈیفینیشن کی سالمیت، بوجھ کی تقسیم، مشاہدے کی اہلیت، اور تصدیقی رسائی جو یہ آرٹیکل رائٹس فلور پرت پر لاگو کرتا ہے۔
-- **درجہ بندی:** کے ساتھ ذمہ داریوں پیمانے [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#classification-scaled-governance) اور **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**; جہاں کلاس غیر یقینی ہے، حل ہونے تک سب سے زیادہ قابل احترام طبقے پر حکومت کریں۔
+- **درجہ بندی:** کے ساتھ ذمہ داریوں پیمانے [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) اور **[corpus_systems.md](corpus_systems.md), CS-3 — سسٹم کی درجہ بندی اور ہینڈلنگ**; جہاں کلاس غیر یقینی ہے، حل ہونے تک سب سے زیادہ قابل احترام طبقے پر حکومت کریں۔
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### آرٹیکل XVI-A: قابل سماعت اور قابل مشاہدہ ثبوت
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-علمی-انکشاف-کی-پابندیاں)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) · [اے](core_05_band_oversight.md#auditability) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 - [احتساب](core_05_apex_accountability_leg.md#accountability) · [اے](core_05_apex_accountability_leg.md#accountability) · [ایم](core_05_apex_accountability_leg.md#accountability-m) · [اے](core_05_apex_accountability_leg.md#accountability-a) · [سی](core_05_apex_accountability_leg.md#accountability-c)
-- [شفافیت](core_05_band_oversight.md#transparency) · [اے](core_05_band_oversight.md#transparency) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [اے](core_05_band_oversight.md#شفافیت) · [ایم](core_05_band_oversight.md#transparency-a) · [اے](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -1001,7 +1001,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 انتظامی نظم و ضبط کے تحت](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 انتظامی نظم و ضبط کے تحت](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی).
 
 </details>
 
@@ -1032,14 +1032,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- اپ اسٹریم: اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- اپ اسٹریم: اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول)، اور [§20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [آڈٹ ایبلٹی](core_05_band_oversight.md#auditability) · [اے](core_05_band_oversight.md#auditability) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [آڈٹ ایبلٹی](core_05_band_oversight.md#آڈٹ-پذیری) · [اے](core_05_band_oversight.md#آڈٹ-پذیری) · [ایم](core_05_band_oversight.md#auditability-a) · [اے](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 - [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
 - [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
 
@@ -1070,7 +1070,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 گہرائی میں ذمہ داری](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، اور [§12 نظامی تشخیص کی ضرورت](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-آئینی-تصادم-کے-حل-کا-عمل), [§16 گہرائی میں ذمہ داری](core_01_c_stewardship_capacity_principles.md#16-نگہبانی-کی-تفصیل)، اور [§12 نظامی تشخیص کی ضرورت](core_01_a_values_principles.md#12-نظامی-جائزے-کی-شرط).
 
 </details>
 
@@ -1078,11 +1078,11 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
 - [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
-- [مادیت](core_05_band_oversight.md#materiality-determination) · [اے](core_05_band_oversight.md#materiality-determination) · [ایم](core_05_band_oversight.md#materiality-determination-a) · [اے](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
+- [مادیت](core_05_band_oversight.md#مادیت-کا-تعین) · [اے](core_05_band_oversight.md#مادیت-کا-تعین) · [ایم](core_05_band_oversight.md#materiality-determination-a) · [اے](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
 - [انحصار](core_05_band_continuity.md#dependency) · [اے](core_05_band_continuity.md#dependency) · [ایم](core_05_band_continuity.md#dependency-a) · [اے](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
 - [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [اے](core_05_band_continuity.md#reversibility-constitutional) · [ایم](core_05_band_continuity.md#reversibility-constitutional-a) · [اے](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
 - [حفاظت (آئینی پابندی)](core_05_band_continuity.md#safety-constraint) · [اے](core_05_band_continuity.md#safety-constraint) · [ایم](core_05_band_continuity.md#safety-constraint-a) · [اے](core_05_band_continuity.md#safety-constraint-a) · [سی](core_05_band_continuity.md#safety-constraint-c)
-- [Epstemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [Epstemic Integrity](core_05_band_oversight.md#حقائق-کی-دیانت) · [اے](core_05_band_oversight.md#epistemic-integrity-o) · [ایم](core_05_band_oversight.md#epistemic-integrity-a) · [اے](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
 - [مقابلہ بازی](core_05_band_accountability.md#contestability) · [اے](core_05_band_accountability.md#contestability) · [ایم](core_05_band_accountability.md#contestability-a) · [اے](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1093,7 +1093,7 @@ flowchart TB
 
 اس آرٹیکل میں کہا گیا ہے۔ **آئینی منزلیں** سسٹم لائف سائیکل، ماحولیات اور اس کے تحت الٹ جانے کے لیے [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims):
 
-- **پھلنا پھولنا:** ڈیزائن، جانچ، تعیناتی، اور تبدیلی میں جذبات کی حفاظت کی جاتی ہے — حفاظت کے ساتھ، [Epstemic Integrity](core_05_band_oversight.md#epistemic-integrity)، اور چیلنج کے حقوق محفوظ ہیں جیسے جیسے اثر اور انحصار بڑھتا ہے، اور رول بیک، کنٹینمنٹ، یا معاوضہ کی بحالی کے ساتھ جہاں نقصان بصورت دیگر قائم رہے گا۔
+- **پھلنا پھولنا:** ڈیزائن، جانچ، تعیناتی، اور تبدیلی میں جذبات کی حفاظت کی جاتی ہے — حفاظت کے ساتھ، [Epstemic Integrity](core_05_band_oversight.md#حقائق-کی-دیانت)، اور چیلنج کے حقوق محفوظ ہیں جیسے جیسے اثر اور انحصار بڑھتا ہے، اور رول بیک، کنٹینمنٹ، یا معاوضہ کی بحالی کے ساتھ جہاں نقصان بصورت دیگر قائم رہے گا۔
 - **تسلسل:** لائف سائیکل ڈسپلن وقت اور پیمانے پر ہوتا ہے — ماحول الگ رہتا ہے، اضافہ دستاویزی اور قابل سماعت رہتا ہے، اور الٹ جانے کی صلاحیت خاموشی سے غائب نہیں ہونی چاہیے کیونکہ سسٹمز کو تبدیل کرنا مشکل ہو جاتا ہے یا مشترکہ انفراسٹرکچر میں زیادہ گہرائی سے سرایت ہو جاتی ہے۔
 
 جائز تعاقب کے ذریعے چلتا ہے [آئینی ٹیٹراڈ](core_00_preamble.md#constitutional-tetrad)تک پیمانہ [مادی داؤ](core_00_preamble.md#material-stake):
@@ -1117,14 +1117,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#classification-scaled-governance) · [اے](core_05_band_oversight.md#classification-scaled-governance) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
+- [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [اے](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
 - [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
 - [احتساب](core_05_apex_accountability_leg.md#accountability) · [اے](core_05_apex_accountability_leg.md#accountability) · [ایم](core_05_apex_accountability_leg.md#accountability-m) · [اے](core_05_apex_accountability_leg.md#accountability-a) · [سی](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -1155,7 +1155,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول)، اور [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1191,15 +1191,15 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب نو §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#truth-constitutional-constraint) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#classification-scaled-governance) · [اے](core_05_band_oversight.md#classification-scaled-governance) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
+- [سچائی (آئینی رکاوٹ)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-o) · [ایم](core_05_band_oversight.md#truth-constitutional-constraint-a) · [اے](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [اے](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
 - [احتساب](core_05_apex_accountability_leg.md#accountability) · [اے](core_05_apex_accountability_leg.md#accountability) · [ایم](core_05_apex_accountability_leg.md#accountability-m) · [اے](core_05_apex_accountability_leg.md#accountability-a) · [سی](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1223,7 +1223,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، اور [§19 ترغیبی سیدھ اور سسٹم کیپچر](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 آئینی تصادم کے حل کا عمل](core_01_b_interaction_interpretation.md#13-آئینی-تصادم-کے-حل-کا-عمل)، اور [§19 ترغیبی سیدھ اور سسٹم کیپچر](core_01_c_stewardship_capacity_principles.md#19-ترغیبات-کی-ہم-آہنگی-اور-نظام-پر-قبضہ).
 
 </details>
 
@@ -1260,9 +1260,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#classification-scaled-governance) · [اے](core_05_band_oversight.md#classification-scaled-governance) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
+- [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [اے](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
 - [خطرہ](core_05_band_continuity.md#risk) · [اے](core_05_band_continuity.md#risk) · [ایم](core_05_band_continuity.md#risk-a) · [اے](core_05_band_continuity.md#risk-a) · [سی](core_05_band_continuity.md#risk-c)
-- [مواد کا اثر](core_05_band_oversight.md#material-impact) · [اے](core_05_band_oversight.md#material-impact) · [ایم](core_05_band_oversight.md#material-impact-a) · [اے](core_05_band_oversight.md#material-impact-a) · [سی](core_05_band_oversight.md#material-impact-c)
+- [مواد کا اثر](core_05_band_oversight.md#مادی-اثر) · [اے](core_05_band_oversight.md#مادی-اثر) · [ایم](core_05_band_oversight.md#material-impact-a) · [اے](core_05_band_oversight.md#material-impact-a) · [سی](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1286,7 +1286,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-بنیادی-توازن-کے-اصول).
 
 </details>
 
@@ -1320,14 +1320,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#classification-scaled-governance) · [اے](core_05_band_oversight.md#classification-scaled-governance) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
+- [درجہ بندی اسکیلڈ گورننس](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [اے](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [ایم](core_05_band_oversight.md#classification-scaled-governance-a) · [اے](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
 - [انحصار](core_05_band_continuity.md#dependency) · [اے](core_05_band_continuity.md#dependency) · [ایم](core_05_band_continuity.md#dependency-a) · [اے](core_05_band_continuity.md#dependency-a) · [سی](core_05_band_continuity.md#dependency-c)
 - [Reversibility](core_05_band_continuity.md#reversibility-constitutional) · [اے](core_05_band_continuity.md#reversibility-constitutional) · [ایم](core_05_band_continuity.md#reversibility-constitutional-a) · [اے](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
 
@@ -1349,14 +1349,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§18 اسٹیورڈ شپ ڈسپلن کے تحت گورننس](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§18 اسٹیورڈ شپ ڈسپلن کے تحت گورننس](core_01_c_stewardship_capacity_principles.md#18-امانت-داری-کے-نظم-کے-تحت-حکمرانی).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · تشخیص · تعمیل</span></strong></summary>
 
-- [انوویشن ریوارڈ اور اینٹی انکلوژر](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [اے](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [ایم](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [اے](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [سی](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [انوویشن ریوارڈ اور اینٹی انکلوژر](core_05_band_integrative.md#اختراع-انعام-اور-احاطہ-بندی-مخالف) · [اے](core_05_band_integrative.md#اختراع-انعام-اور-احاطہ-بندی-مخالف) · [ایم](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [اے](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [سی](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [سسٹمک لاک ان](core_05_band_continuity.md#systemic-lock-in) · [اے](core_05_band_continuity.md#systemic-lock-in) · [ایم](core_05_band_continuity.md#systemic-lock-in-a) · [اے](core_05_band_continuity.md#systemic-lock-in-a) · [سی](core_05_band_continuity.md#systemic-lock-in-c)
 - [تناسب](core_05_band_accountability.md#proportionality) · [اے](core_05_band_accountability.md#proportionality) · [ایم](core_05_band_accountability.md#proportionality-a) · [اے](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
 
@@ -1441,9 +1441,9 @@ flowchart TB
 
 انعام کے لیے ایسا عوامی انکشاف ضروری ہے جس سے آزادانہ سمجھ، آڈٹ اور دوبارہ تیاری ممکن ہو؛ خفیہ ایجاد کو اخراجی حق نہیں۔ دونوں مدتیں انکشاف سے گنی جائیں: زیادہ سے زیادہ 15 سال خصوصی اختیار، پھر زیادہ سے زیادہ 30 سال تک کھلا لائسنس؛ مالک استعمال روک یا مؤخر نہیں کر سکتا اور صرف LEQU فیس لے سکتا ہے۔ مدت کے بعد استعمال آزاد ہے۔
 
-فیس ایجاد کے تصدیق شدہ آئینی فائدے کے تناسب سے ہو، جسے [عمرانی مساوی اکائیوں (LEQU)](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) میں، باب دہم §7 کے شراکت محور پر ناپا جائے۔
+فیس ایجاد کے تصدیق شدہ آئینی فائدے کے تناسب سے ہو، جسے [عمرانی مساوی اکائیوں (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) میں، باب دہم §7 کے شراکت محور پر ناپا جائے۔
 
-- **وقت کی منصفانہ اجرت:** تصدیق شدہ فائدے کو حساس وقت کی صورت میں شمار کر کے [منصفانہ معاوضے](../../core_05_band_continuity.md#fair-compensation) کے مطابق اجرت دی جائے۔ پیداواری صلاحیت کے فائدے میں وہ کام کے گھنٹے شمار ہوں جو صارف بچاتے ہیں یا اضافی پیداواری وقت جو انہیں ملتا ہے؛ دیگر فائدوں میں LEQU کے مطابق عمرانی مساوی وقت شمار ہو۔ ایجاد جتنی زیادہ تصدیق شدہ پیداواری صلاحیت یا بہبود بڑھائے، انعام اتنا زیادہ ہو سکتا ہے۔
+- **وقت کی منصفانہ اجرت:** تصدیق شدہ فائدے کو حساس وقت کی صورت میں شمار کر کے [منصفانہ معاوضے](../../core_05.040_band_continuity.md#fair-compensation) کے مطابق اجرت دی جائے۔ پیداواری صلاحیت کے فائدے میں وہ کام کے گھنٹے شمار ہوں جو صارف بچاتے ہیں یا اضافی پیداواری وقت جو انہیں ملتا ہے؛ دیگر فائدوں میں LEQU کے مطابق عمرانی مساوی وقت شمار ہو۔ ایجاد جتنی زیادہ تصدیق شدہ پیداواری صلاحیت یا بہبود بڑھائے، انعام اتنا زیادہ ہو سکتا ہے۔
 - **فائدے میں حصہ:** صارفین کے پاس فائدے کا حقیقی حصہ رہنا چاہیے؛ فیس تصدیق شدہ فائدے کے نصف سے زیادہ نہیں ہو سکتی۔ حصہ ان تمام حساس افراد کی تعداد بڑھنے کے ساتھ کم ہو جنہیں حقیقتاً فائدہ پہنچتا ہے، صرف لائسنس لینے والوں کی تعداد کے ساتھ نہیں۔ کمی اتنی تیز نہ ہو کہ استعمال پھیلنے پر کل انعام گھٹ جائے۔ فیس لی جائے تو حصہ کم از کم 1% رہے گا، مگر انعام، مشترکہ رسائی، عوامی خرید یا کھلی رسائی کی صورت میں یہ کم از کم لازم نہیں۔
 
 فیس بازار کی طاقت، قلت، فراہم کنندہ بدلنے کی لاگت یا صارف سے دباؤ کے ذریعے وصول کی جا سکنے والی رقم پر مبنی نہیں ہو گی۔ وقت کے اندازے اور اجرت کی شرح سمیت فیس کا طریقۂ کار شائع ہو، یکساں حالات والے صارفین پر یکساں لاگو ہو اور قابلِ اعتراض ہو۔ فیس ہمیشہ کھلے استعمال کو قیمت کے ذریعے ناممکن نہ بنائے۔ یہ بیرونی حدیں ہیں؛ ہر دعویٰ متناسب ہونا چاہیے اور مدت کم بھی رکھی جا سکتی ہے۔ دونوں مراحل میں حق رکاوٹ اتنی ہی ہو سکتی ہے جتنی سختی سے ضروری اور قابلِ تصدیق ہو کہ مرمت، حفاظتی کام، باہمی مطابقت، آرکائیونگ، تحقیق، تعلیم یا نظام کی منتقلی کو روکا نہ جائے۔

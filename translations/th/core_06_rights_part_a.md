@@ -6,7 +6,7 @@
 
 > เนื้อหาต่อไปนี้เป็น **แนวทางสำหรับผู้อ่านเท่านั้น** ไม่เพิ่ม ไม่ลด และไม่ทำให้ภาระผูกพันที่ใช้บังคับแคบลงในไฟล์นี้หรือในบทอื่น
 >
-> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [บทที่หก ส่วน ก ภาษาอังกฤษ](../../core_06_rights_part_a.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.10.14` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_06_rights_part_a.md`](../../core_06_rights_part_a.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
+> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [บทที่หก ส่วน ก ภาษาอังกฤษ](../../core_06.005_rights_part_a.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.10.14` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
 >
 > มี **บทที่หก ส่วน ก**; เลขมาตราและการอ้างอิงไขว้ตรงกับตราสารที่รวมแล้ว
 >
@@ -45,13 +45,13 @@
 
 - ต้นทาง: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake)
 - ต้นทาง: [บทที่หนึ่ง §6 การยุติความขัดแย้งของกระบวนการ](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [บทที่หนึ่ง §13.1.5 การทดสอบการตัดสินเมื่อสิทธิชนกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- ต้นทาง: [บทที่หนึ่ง §11 ความสอดคล้องของสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)
+- ต้นทาง: [บทที่หนึ่ง §11 ความสอดคล้องของสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-การจดแนวแรงจงใจและการครอบงำระบบ)
 - ต้นทาง: บทที่สองถึงบทที่สี่; บทนิยามของบทที่ห้า
-- ปลายทาง: **ส่วน ก ถึง ส่วน จ** ของบทนี้; [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional); [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
-- ปลายทาง: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 ขอบเขตชั้น](#12-layer-scope)
-- อ่านคู่กับ: [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation) และ [คำปรารภ — ทะเบียนเจ้าของเชิงบวก](core_00_preamble.md#4-principles-definitions-and-rights); [มาตรา XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*สิทธิในการท้าทาย ทบทวน และเยียวยา*)
-- อ่านคู่กับ: [มาตรา XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*)
-- อ่านคู่กับ: [มาตรา XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*); [มาตรา XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*)
+- ปลายทาง: **ส่วน ก ถึง ส่วน จ** ของบทนี้; [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional); [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- ปลายทาง: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 ขอบเขตชั้น](#12-ขอบเขตชน)
+- อ่านคู่กับ: [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation) และ [คำปรารภ — ทะเบียนเจ้าของเชิงบวก](core_00_preamble.md#4-หลกการ-บทนยาม-และสทธ); [มาตรา XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*สิทธิในการท้าทาย ทบทวน และเยียวยา*)
+- อ่านคู่กับ: [มาตรา XVI](core_06_rights_part_c.md#ขอ-xvi-การตรวจสอบ-ความโปรงใส-และการพสจนยนยนทเปนอสระ) (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*)
+- อ่านคู่กับ: [มาตรา XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*); [มาตรา XXVI-C](core_06_rights_part_e.md#มาตรา-xxvi-c-การแกไขอยางทนทวงทและหลกประกนตอตานความลาชา) (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*)
 
 </details>
 
@@ -76,7 +76,7 @@
   - **ข้อจำกัดค่านิยม** — ความปลอดภัย ความจริง ความจำเป็น สัดส่วน และการประเมินระบบของผลเฉพาะที่ รวม สาย และข้ามระบบ;
   - **วินัยปฏิสัมพันธ์** — [บทที่หนึ่ง §6 การยุติความขัดแย้งของกระบวนการ](core_01_b_interaction_interpretation.md#6-process-conflict-resolution);
   - **การปรับความเข้มทางรัฐธรรมนูญ** — [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake);
-  - **ความสอดคล้องของสิ่งจูงใจและการยึดครองระบบ** — [บทที่หนึ่ง §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) และวินัยการบริหารอย่างรับผิดชอบที่เกี่ยวข้อง เฉพาะเมื่อการออกแบบสิ่งจูงใจ ความไว้วางใจ ความซื่อสัตย์ การยึดครอง โครงสร้างตลาด หรือข้อจำกัดที่ป้องกันได้เกี่ยวเป็นสาระ
+  - **ความสอดคล้องของสิ่งจูงใจและการยึดครองระบบ** — [บทที่หนึ่ง §11](core_01_c_stewardship_capacity_principles.md#19-การจดแนวแรงจงใจและการครอบงำระบบ) และวินัยการบริหารอย่างรับผิดชอบที่เกี่ยวข้อง เฉพาะเมื่อการออกแบบสิ่งจูงใจ ความไว้วางใจ ความซื่อสัตย์ การยึดครอง โครงสร้างตลาด หรือข้อจำกัดที่ป้องกันได้เกี่ยวเป็นสาระ
 - **บทที่สองถึงบทที่สี่** — ความครบถ้วนของบทนิยาม ภาระและความตามรอยได้ ความสังเกตได้ การตรวจสอบที่เข้าถึงได้ และความสังเกตได้ภายใต้ข้อจำกัดความมั่นคงเมื่อใช้
 - **บทที่ห้า** — บทนิยามที่เกี่ยวเป็นสาระกับสิทธิ การกระทำ ระบบ หรือข้อจำกัดที่กำลังประเมิน
 - **กฎการจำแนกและขนาด** — **ความเป็นสาระ** **การพึ่งพา** และกฎชั้น ชั้น และรอบที่ตราสารการรับเอามาใช้ส่งให้
@@ -88,13 +88,13 @@
 
 พื้นสิทธิต้องทำงานในทางปฏิบัติ ไม่ใช่บนกระดาษอย่างเดียว สิ่งจำเป็นต่อการอยู่รอดภายใต้ **มาตรา III-A** (*การอยู่รอด*) — อาหาร น้ำ ที่พัก สภาพแวดล้อมการดำเนิน และปัจจัยฐานะกายที่ไม่พึ่งพาที่คล้าย — เป็นตัวอย่างชัดที่สุด **ความเจริญงอกงาม** ต้องการการเข้าถึงจริงต่อสิ่งจำเป็นนั้น **ความต่อเนื่อง** ต้องการการส่งมอบที่พึ่งได้และไม่ถอยหลังตามกาล โดยเฉพาะที่ระบบร่วมควบคุมการส่งมอบ
 
-[การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ยืนยันว่าระบบผลกระทบที่เป็นสาระสอดคล้องก่อนจะถูกรับรองหรือพึ่งในขนาด บทที่เก้ายังส่งความสามารถในการโต้แย้งของบันทึกการรับรอง การทบทวนฝ่ายที่ได้รับผลกระทบและการเข้าถึงได้ ลำดับการกำกับดูแล และเส้นทางท้าทายสำหรับคำตัดสินความสอดคล้องของระบบ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ส่งสิทธิท้าทายและการตรวจ **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*) ไม่ให้ขีดจำกัดร่องรอยเป็นประตูหลังที่เลี่ยงการเข้าถึงที่ชี้ขาดต่อการอยู่รอด รวมกัน [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) และ [สายร่องรอยและการกำกับดูแลเวทีของบทที่แปดถึงบทที่สิบเอ็ด](../../README.md#standing-pipeline-and-forums) เป็นสายกระบวนการปฏิบัติหลักสำหรับความสามารถในการโต้แย้ง การจำแนกที่ยืนแล้ว การกำกับดูแลเวที และการเยียวยาที่ทันเวลา อุปกรณ์นั้นช่วยบังคับใช้บทที่หก ไม่แทน ทำให้แคบ หรือย้ายสิทธิที่กล่าวที่นี่
+[การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ยืนยันว่าระบบผลกระทบที่เป็นสาระสอดคล้องก่อนจะถูกรับรองหรือพึ่งในขนาด บทที่เก้ายังส่งความสามารถในการโต้แย้งของบันทึกการรับรอง การทบทวนฝ่ายที่ได้รับผลกระทบและการเข้าถึงได้ ลำดับการกำกับดูแล และเส้นทางท้าทายสำหรับคำตัดสินความสอดคล้องของระบบ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ส่งสิทธิท้าทายและการตรวจ **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*) ไม่ให้ขีดจำกัดร่องรอยเป็นประตูหลังที่เลี่ยงการเข้าถึงที่ชี้ขาดต่อการอยู่รอด รวมกัน [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) และ [สายร่องรอยและการกำกับดูแลเวทีของบทที่แปดถึงบทที่สิบเอ็ด](../../README.md#standing-pipeline-and-forums) เป็นสายกระบวนการปฏิบัติหลักสำหรับความสามารถในการโต้แย้ง การจำแนกที่ยืนแล้ว การกำกับดูแลเวที และการเยียวยาที่ทันเวลา อุปกรณ์นั้นช่วยบังคับใช้บทที่หก ไม่แทน ทำให้แคบ หรือย้ายสิทธิที่กล่าวที่นี่
 
 **ศูนย์การตีความ** เว้นแต่มาตราที่จำเพาะกว่าจะส่งกฎอื่น ปัญหาที่เกิดซ้ำถูกจัดเส้นทางผ่านสมอนี้:
 
 **พื้นสิทธิและการส่งมอบ**
 - **สิ่งจำเป็นต่อการอยู่รอดและการคงให้เข้าถึงได้** — **มาตรา III-A** (*การอยู่รอด*); **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*) ไม่ให้ขีดจำกัดร่องรอยปิดการเข้าถึง; อ่านคู่กับ **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*) และ **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) เมื่อการท้าทายหรือการตรวจใช้
-- **การรับรองความสอดคล้องของระบบ** — [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional); [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **การรับรองความสอดคล้องของระบบ** — [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional); [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **การตรวจสอบและการเยียวยา**
 - **บันทึกการตรวจและการตรวจสอบอิสระ** — **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) และ **บทที่สองถึงบทที่สี่**
@@ -102,7 +102,7 @@
 
 **ข้อพิพาทและกระบวนการที่ทันเวลา**
 - **ความยุติธรรม การคืนสภาพ ขอบเขตข้อจำกัด ภาวะฉุกเฉิน การชนกันของสิทธิ** — **มาตรา XXVI** (*Timely Retrospective Review and Restorative Alignment*); [บทที่หนึ่ง §13.1.5 การทดสอบการตัดสินเมื่อสิทธิชนกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **สายกระบวนการปฏิบัติหลัก** — **มาตรา XXVI-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*); [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **สายกระบวนการปฏิบัติหลัก** — **มาตรา XXVI-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*); [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 การอ้างอิงไขว้ที่สั้นกว่าในที่อื่นของบทนี้ต่อหัวข้อนั้นนำสมอนี้เข้ามา
 
@@ -110,13 +110,13 @@
 
 #### 1.2 ขอบเขตชั้น
 
-*พูดแบบตรง ๆ: บทที่หกกล่าวว่าผู้มีความรู้สึกมีสิทธิอะไรในชั้นพื้นสิทธิ ร่องรอย เวที การปกครอง การแก้ไข และการนำไปใช้ประจำวันอาศัยในบทเจ้าของของตน — บทนี้ชี้ไปที่นั่นได้แต่พูดซ้ำไม่ได้ การจัดเส้นทางเจ้าของ: [คำปรารภ — ทะเบียนเจ้าของเชิงบวก](core_00_preamble.md#4-principles-definitions-and-rights); ห้ามย้าย: [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation).*
+*พูดแบบตรง ๆ: บทที่หกกล่าวว่าผู้มีความรู้สึกมีสิทธิอะไรในชั้นพื้นสิทธิ ร่องรอย เวที การปกครอง การแก้ไข และการนำไปใช้ประจำวันอาศัยในบทเจ้าของของตน — บทนี้ชี้ไปที่นั่นได้แต่พูดซ้ำไม่ได้ การจัดเส้นทางเจ้าของ: [คำปรารภ — ทะเบียนเจ้าของเชิงบวก](core_00_preamble.md#4-หลกการ-บทนยาม-และสทธ); ห้ามย้าย: [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation).*
 
 หมวดนี้ใช้ตลอด **ส่วน ก ถึง ส่วน จ** (มาตรา **I** ถึงมาตรา **XXVIII** รวมหมวดย่อยทั้งหมด) ภายใต้ [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation) บทนี้ต้องไม่ดูด พูดซ้ำ หรือย้ายหน้าที่ที่ชั้นเจ้าของทางรัฐธรรมนูญอื่นรับ การอ้างอิงไขว้แบบตัวชี้ — คำสั่งอ่านคู่กับ การเรียกกองข้อจำกัดพื้นฐาน สมอศูนย์การตีความ ประโยครวมอย่าง «การนำไปใช้อยู่ที่…» หรือ «ทำให้แคบลงไม่ได้» — ได้รับอนุญาตและคาดหวัง; **การพูดซ้ำอย่างเป็นสาระ** ของเครื่องกระบวนการ การปกครอง หรือการนำไปใช้เป็นตัวบทชั้นสิทธิเป็น **การไม่ปฏิบัติตาม**
 
 ความคลาดข้ามชั้นที่นำหน้าที่ของชั้นเจ้าของอื่นเข้า **บทที่หก** — ด้วยตัวบทตรง ยกคำแนะนำผู้อ่านให้มีผลปฏิบัติ หรืออนุมานจากการอ้างอิงไขว้ — เป็น **การไม่ปฏิบัติตาม** ภายใต้หมวดนี้ ในทางกลับกัน บทชั้นเจ้าของหรือตัวบทนำไปใช้ที่อ้างว่า **ทำให้แคบ นิยามใหม่ หรือย้าย** พื้นสิทธิบทที่หกเป็นการไม่ปฏิบัติตามภายใต้บทที่สิบสามไม่ถอยหลังและหมวดนี้
 
-การเพิ่มในอนาคตของ **บทที่หก** ที่แตะภาษาเชิงกระบวนการ เชิงปกครอง หรือเชิงนำไปใช้ต้องใส่ตัวชี้ห้ามย้ายที่ชัดไปยังบ้านเจ้าของฉบับหลักใน [คำปรารภ — ทะเบียนเจ้าของเชิงบวก](core_00_preamble.md#4-principles-definitions-and-rights) (และรายการบทนิยามบทที่ห้าที่คู่เมื่อใช้) และอ่านคู่กับ [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation)
+การเพิ่มในอนาคตของ **บทที่หก** ที่แตะภาษาเชิงกระบวนการ เชิงปกครอง หรือเชิงนำไปใช้ต้องใส่ตัวชี้ห้ามย้ายที่ชัดไปยังบ้านเจ้าของฉบับหลักใน [คำปรารภ — ทะเบียนเจ้าของเชิงบวก](core_00_preamble.md#4-หลกการ-บทนยาม-และสทธ) (และรายการบทนิยามบทที่ห้าที่คู่เมื่อใช้) และอ่านคู่กับ [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation)
 
 <a id="part-a-planetary-preconditions-material-stewardship-survival-equal-educational-access-and-shared-resources"></a>
 ### ส่วน ก: เงื่อนไขเบื้องต้นระดับดาวเคราะห์ การบริหารอย่างรับผิดชอบทางวัตถุ การอยู่รอด การเข้าถึงการศึกษาที่เท่ากัน และทรัพยากรร่วม
@@ -154,7 +154,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -179,7 +179,7 @@
 - **เงื่อนไขเบื้องต้น ความครบถ้วน ความยั่งยืน:** **เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม** **ความครบถ้วนทางนิเวศ** และ **ความยั่งยืน** ในบทที่ห้ามีผลภายใต้มาตรานี้
   - ระบบธรรมชาติที่ค้ำจุนชีวิตมีผลประโยชน์ด้านความต่อเนื่องและความครบถ้วนของตนเอง ผลประโยชน์นั้นแจ้งการตีความควบคู่ผลประโยชน์ของผู้มีความรู้สึก
   - ภัยที่เป็นสาระซึ่งละเมิดมาตรานี้ — ตัดสินภายใต้ **เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม** **ความครบถ้วนทางนิเวศ** และ **ความยั่งยืน** — เป็นการไม่ปฏิบัติตาม
-  - ภัยที่ละเมิดข้อกำหนดสิ่งแวดล้อมที่มีชื่อใน [ตราสารการรับเอามาใช้](../../core_17_amendment_ratification.md#102-instrument-of-adoption) ของผู้รับเอามาใช้ หรือในตัวบทนำไปใช้ที่นำเข้าภายในขอบการรับเอามาใช้ ก็เป็นการไม่ปฏิบัติตามเช่นกัน
+  - ภัยที่ละเมิดข้อกำหนดสิ่งแวดล้อมที่มีชื่อใน [ตราสารการรับเอามาใช้](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) ของผู้รับเอามาใช้ หรือในตัวบทนำไปใช้ที่นำเข้าภายในขอบการรับเอามาใช้ ก็เป็นการไม่ปฏิบัติตามเช่นกัน
 - **ปฏิสัมพันธ์ชีวิตสัตว์:** [ชีวิตสัตว์](core_05_band_participation.md#animal-life-constitutional) ครองแดนคุ้มครองความผาสุกระหว่าง **ร่องรอยของระบบธรรมชาติ** กับพื้นสิทธิบทที่หกสำหรับผู้มีความรู้สึก
   - ตั้งพื้นความโหดร้ายและความผาสุกขั้นต่ำสำหรับชีวิตสัตว์ภายใต้ **การไม่กีดกันความเป็นผู้มีความรู้สึก** ที่ภัยแบบความผาสุกถูกพาดพิงอย่างเป็นสาระ
   - ไม่ใช่ตัวแทนการปฏิบัติสื่อสารที่สูงขึ้นหรือการชี้ขาดสถานะความเป็นผู้มีความรู้สึกเมื่อบันทึกพาดพิงคำถามนั้นอย่างเป็นสาระ
@@ -205,7 +205,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ข้อจำกัดการเปิดเผยทางญาณ](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ข้อจำกัดการเปิดเผยทางญาณ](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -213,9 +213,9 @@
 <summary><strong><span style="color: #2563eb;">บทนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [ความครบถ้วนทางญาณ](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [ผลกระทบที่เป็นสาระ](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [O](core_05_band_oversight.md#ผลกระทบทเปนสาระ) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [O](core_05_band_oversight.md#ความโปรงใส) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [ความครบถ้วนทางญาณ](core_05_band_oversight.md#ความครบถวนของความร) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -244,7 +244,7 @@
 
 - [ความรับผิดชอบข้ามรุ่น](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [การกำหนดความเป็นสาระ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [O](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -266,7 +266,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [§14 ข้อกำหนดการประเมินเชิงระบบ](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- อ่านคู่กับ: [ความปลอดภัย (ข้อจำกัด)](core_05_band_continuity.md#safety-constraint), [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint), [เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม](core_05_band_continuity.md#environmental-preconditions-constitutional), [ขีดความสามารถฟื้นตัวทางนิเวศ](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [ความรับผิดชอบข้ามรุ่น](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [ความเสี่ยงดำรงอยู่](core_05_band_continuity.md#existential-risk).
+- อ่านคู่กับ: [ความปลอดภัย (ข้อจำกัด)](core_05_band_continuity.md#safety-constraint), [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ), [เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม](core_05_band_continuity.md#environmental-preconditions-constitutional), [ขีดความสามารถฟื้นตัวทางนิเวศ](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [ความรับผิดชอบข้ามรุ่น](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [ความเสี่ยงดำรงอยู่](core_05_band_continuity.md#existential-risk).
 - ปลายทาง: **Chapter Thirteen §6.1** (*มาตรการฉุกเฉินและภาระต่อเนื่อง*) — วินัยห้ามข้ออ้างและการทบทวนที่มีกำหนดเวลาที่กรอบความเสี่ยงดำรงอยู่หรือภาวะฉุกเฉินถูกเรียก
 
 </details>
@@ -276,7 +276,7 @@
 
 - [ความเสี่ยงดำรงอยู่](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
 - [ขีดความสามารถฟื้นตัวทางนิเวศ](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [ความรอบคอบที่คาดเห็นได้](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [ความรอบคอบที่คาดเห็นได้](core_05_band_oversight.md#ความขยนในการคาดการณได) · [O](core_05_band_oversight.md#ความขยนในการคาดการณได) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [การพึ่งพา](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
 </details>
@@ -302,9 +302,9 @@
   บันทึกการตัดสินต้องกล่าวความไม่แน่นอน ข้อสมมติ ขีดจำกัดหลักฐาน ความไม่เห็นด้วย และช่องว่างที่เป็นสาระอย่างเปิดเผย
 - **เงื่อนไขภาระและบันทึกเพิ่มเติม:** สำหรับทางเลือกที่ปลอดภัยกว่าอย่างเป็นสาระแต่ละทาง ผู้ขออนุญาต ต่อเนื่อง หรือขยายต้องนำทางเลือกนั้นมาใช้ในกิจกรรมที่ทบทวน หรือแสดงด้วยหลักฐานว่าทางเลือกนั้นไม่บรรลุวัตถุประสงค์ชอบธรรมของกิจกรรมหรือไม่มีให้ใช้ เพียงบันทึกว่าพิจารณาทางเลือกแล้วไม่พอ หลักฐานต้องเป็นไปตามมาตรฐานหลักฐานการปฏิบัติตามในบทที่สี่ §5 การเฝ้าติดตามต้องตรวจพบเส้นทางได้เร็วพอที่จะขัดจังหวะก่อนความเสียหายย้อนคืนไม่ได้ และต้องระบุผู้กระทำที่มีทั้งอำนาจและความสามารถจริงในการขัดจังหวะ มาตรการบรรเทา/ขัดจังหวะต้องได้สัดส่วนกับขนาดความเสียหาย ภาระนี้ต่อเนื่อง ต้องทำให้ครบอีกเมื่อมีหลักฐานสำคัญใหม่ เมื่อขยาย และตามช่วงที่ได้สัดส่วนความเสี่ยง หากไม่ครบถือว่าไม่ปฏิบัติตามและเป็นไปตามผลของบทที่สาม §3 การอนุญาต การต่อเนื่อง หรือการขยายแต่ละครั้งเป็นการกระทำที่ผูกพันอย่างเป็นสาระ บันทึกการกระทำต้องเชื่อมคำแสดงของผู้กระทำกับการประเมินของผู้ทบทวน และเปิดเผยความไม่แน่นอน ข้อสมมติ ขีดจำกัดหลักฐาน ความเห็นต่าง และช่องว่างสำคัญ。
 - **ขีดจำกัดประโยชน์ปัจจุบัน:** ประโยชน์ปัจจุบันไม่ทำให้การเปิดผู้มีความรู้สึกในอนาคต ระบบที่ชี้ขาดต่อการฟื้นตัวทางนิเวศ หรือเงื่อนไขทางนิเวศที่ค้ำจุนชีวิตต่อภัยระดับอารยธรรมหรือที่ชี้ขาดต่อการอยู่รอดอย่างไม่สมส่วนเป็นธรรม
-- **มาตรการที่มีชื่อ:** ผู้กระทำที่ขอการอนุญาต การต่อเนื่อง หรือการขยายภายใต้มาตรานี้ต้องมีชื่อมาตรการลด เพดาน หรือขัดจังหวะตามสัดส่วนของเส้นทางใน [ตราสารการรับเอามาใช้](../../core_17_amendment_ratification.md#102-instrument-of-adoption) หรือในตัวบทนำไปใช้ที่นำเข้าภายในขอบการรับเอามาใช้ — รวมภัยต่อระบบภูมิอากาศในฐานะปัจจัย [เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม](core_05_band_continuity.md#environmental-preconditions-constitutional) มาตรานี้ยังไม่ตั้งเป้าตัวเลข **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) ยังเป็นหมวดย่อยการระบุแหล่งรอยเท้า และคนเดียวไม่เรียกร้องการลด การต่อเนื่องโดยไม่มีมาตรการที่มีชื่อเหล่านั้นขณะเส้นทางน่าเชื่อภายใต้มาตรานี้ยังเปิดอยู่เป็นการไม่ปฏิบัติตาม
+- **มาตรการที่มีชื่อ:** ผู้กระทำที่ขอการอนุญาต การต่อเนื่อง หรือการขยายภายใต้มาตรานี้ต้องมีชื่อมาตรการลด เพดาน หรือขัดจังหวะตามสัดส่วนของเส้นทางใน [ตราสารการรับเอามาใช้](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) หรือในตัวบทนำไปใช้ที่นำเข้าภายในขอบการรับเอามาใช้ — รวมภัยต่อระบบภูมิอากาศในฐานะปัจจัย [เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม](core_05_band_continuity.md#environmental-preconditions-constitutional) มาตรานี้ยังไม่ตั้งเป้าตัวเลข **มาตรา I-B** (*รอยเท้าทางนิเวศและความโปร่งใส*) ยังเป็นหมวดย่อยการระบุแหล่งรอยเท้า และคนเดียวไม่เรียกร้องการลด การต่อเนื่องโดยไม่มีมาตรการที่มีชื่อเหล่านั้นขณะเส้นทางน่าเชื่อภายใต้มาตรานี้ยังเปิดอยู่เป็นการไม่ปฏิบัติตาม
 
-- **ข้อจำกัดของประโยชน์ปัจจุบัน:** ประโยชน์ในปัจจุบันไม่อาจให้เหตุผลแก่การเปิดเผยผู้มีความรู้สึกในอนาคต ระบบสำคัญต่อการฟื้นฟูระบบนิเวศ หรือเงื่อนไขค้ำจุนชีวิต ต่อความเสียหายระดับอารยธรรมหรือวิกฤตการอยู่รอดอย่างไม่สมส่วน ระบบนิเวศธรรมชาติใด ๆ ต้องไม่เสี่ยงต่อการสูญเสีย [ความสามารถในการฟื้นฟูระบบนิเวศ](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) อย่างย้อนกลับไม่ได้ ไม่ว่าขนาดใด
+- **ข้อจำกัดของประโยชน์ปัจจุบัน:** ประโยชน์ในปัจจุบันไม่อาจให้เหตุผลแก่การเปิดเผยผู้มีความรู้สึกในอนาคต ระบบสำคัญต่อการฟื้นฟูระบบนิเวศ หรือเงื่อนไขค้ำจุนชีวิต ต่อความเสียหายระดับอารยธรรมหรือวิกฤตการอยู่รอดอย่างไม่สมส่วน ระบบนิเวศธรรมชาติใด ๆ ต้องไม่เสี่ยงต่อการสูญเสีย [ความสามารถในการฟื้นฟูระบบนิเวศ](../../core_05.040_band_continuity.md#ecological-recovery-capacity) อย่างย้อนกลับไม่ได้ ไม่ว่าขนาดใด
 
 - **กฎการตรวจสอบสูงสุดฉบับปัจจุบัน:** ต้องตรวจสอบสูงสุดเมื่อระบบ นโยบาย โครงสร้างพื้นฐาน กิจกรรมประสานงาน หรือคำตัดสินด้านธรรมาภิบาลสร้างเส้นทางเหตุที่น่าเชื่อถือไปสู่ความเสี่ยงดำรงอยู่หรือการสูญเสียขีดความสามารถฟื้นตัวทางนิเวศอย่างย้อนคืนไม่ได้ แม้โอกาสต่ำ ผลล่าช้า/สะสม/ขึ้นกับเกณฑ์ หรือโต้แย้งเรื่องเวลา การประเมินต้องครอบคลุมเส้นทางตรง อ้อม รวมกัน ปฏิปักษ์ และข้ามระบบ รวมทั้งการกระจุกตัวของการพึ่งพา ความล้มเหลวในการประสาน การเสื่อมของเงื่อนไขสิ่งแวดล้อม การสูญเสียการฟื้นตัว และการล็อกอินเชิงระบบ ต้องประเมินหน้าที่ การเชื่อมโยง การฟื้นฟู และการพึ่งพากันของระบบนิเวศทั้งระบบ ไม่ใช่ดูชนิดพันธุ์หรือประชากรท้องถิ่นเพียงอย่างเดียว เช็กลิสต์เฉพาะจุด การคำนวณต้นทุน-ผลประโยชน์บนกระดาษ หรือประโยชน์ระยะสั้นไม่เพียงพอเมื่อเส้นทางเสี่ยงยังเปิดอยู่ ผู้ขออนุญาต ดำเนินต่อ หรือขยายต้องพิสูจน์ว่าเลือกทางเลือกที่ปลอดภัยกว่าอย่างมีนัยสำคัญทุกทาง หรือทางนั้นไม่บรรลุวัตถุประสงค์ชอบธรรม/ไม่มีให้ใช้ ต้องมีการลดและหยุดที่ได้สัดส่วน ระบบติดตามที่ตรวจพบและหยุดเส้นทางก่อนเกิดความเสียหายย้อนคืนไม่ได้ และผู้รับผิดชอบที่ระบุชื่อซึ่งมีอำนาจและความสามารถจริงในการหยุด ภาระนี้ต่อเนื่องและต้องทำซ้ำเมื่อมีหลักฐานสำคัญใหม่ ขยายงาน และตามรอบที่เหมาะกับความเสี่ยง ความไม่แน่นอนหรือโอกาสต่ำไม่ปลดภาระ บันทึกการอนุมัติแต่ละครั้งต้องเชื่อมคำชี้แจงกับการประเมิน และเปิดเผยความไม่แน่นอน สมมติฐาน ข้อจำกัดหลักฐาน ความเห็นต่าง และช่องว่าง ประโยชน์ปัจจุบันไม่อาจอ้างเพื่อเสี่ยงต่อผู้มีสำนึกในอนาคตหรือระบบฟื้นตัวอย่างไม่สมส่วน หรือทำให้ระบบนิเวศธรรมชาติใด ๆ สูญเสียขีดความสามารถฟื้นตัวอย่างย้อนคืนไม่ได้ไม่ว่าระดับใด เครื่องมือการรับรองต้องระบุมาตรการลด จำกัด หรือหยุดเฉพาะที่ได้สัดส่วน รวมถึงความเสียหายต่อภูมิอากาศ ไม่มีเป้าหมายตัวเลขที่นี่ และ I-B วัดรอยเท้าแต่ไม่ได้สั่งให้ลดด้วยตัวเอง
 
@@ -351,7 +351,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -360,7 +360,7 @@
 
 - [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
 - [ความรับผิดชอบข้ามรุ่น](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [การกำหนดความเป็นสาระ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [O](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -426,8 +426,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">บทนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
-- [ความสอดคล้องของสิ่งจูงใจ](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
-- [ความรอบคอบที่คาดเห็นได้](core_05_band_oversight.md#foreseeability-diligence) · [O](core_05_band_oversight.md#foreseeability-diligence) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [ความสอดคล้องของสิ่งจูงใจ](core_05_band_integrative.md#ความสอดคลองของสงจงใจ) · [O](core_05_band_integrative.md#ความสอดคลองของสงจงใจ) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [ความรอบคอบที่คาดเห็นได้](core_05_band_oversight.md#ความขยนในการคาดการณได) · [O](core_05_band_oversight.md#ความขยนในการคาดการณได) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [สัดส่วน](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -441,7 +441,7 @@
   - ผลิตภัณฑ์ใช้ไม่ได้เร็วกว่าที่ควร; หรือ
   - ผู้มีความรู้สึกถูกดันให้เปลี่ยนเมื่อการเปลี่ยนไม่จำเป็นอย่างสมเหตุสมผล
 
-  หากสิ่งจูงใจให้รางวัลการทิ้งหรือการกักเครื่องมือซ่อม อะไหล่ เอกสาร ข้อนี้ยังจุด [บทที่หนึ่ง §11 ความสอดคล้องของสิ่งจูงใจและการยึดระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) และ **มาตรา XIII-D** (*ข้อจำกัดความสอดคล้องของสิ่งจูงใจ*)
+  หากสิ่งจูงใจให้รางวัลการทิ้งหรือการกักเครื่องมือซ่อม อะไหล่ เอกสาร ข้อนี้ยังจุด [บทที่หนึ่ง §11 ความสอดคล้องของสิ่งจูงใจและการยึดระบบ](core_01_c_stewardship_capacity_principles.md#19-การจดแนวแรงจงใจและการครอบงำระบบ) และ **มาตรา XIII-D** (*ข้อจำกัดความสอดคล้องของสิ่งจูงใจ*)
 
   พื้นนี้ไม่ใช้เมื่อผู้ดำเนินจัดทำเอกสาร **ความจำเป็น** และ **สัดส่วน** ได้ — เช่น การแก้ความปลอดภัยแท้ การตอบความมั่นคง หรือขีดจำกัดการทำงานร่วมกันจริง เหตุนั้นต้องไม่แทนการออกแบบที่ยืนยาวซึ่งหาได้อย่างสมเหตุสมผล
 
@@ -458,7 +458,7 @@
 <summary><strong><span style="color: #2563eb;">บทนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [ความยินยอม](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](core_05_band_oversight.md#ความจรง-ขอจำกดทางรฐธรรมนญ) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [การพึ่งพา](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [พลังกระทำการที่มีความหมาย](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [การบังคับและการบิดเบือน](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
@@ -485,8 +485,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- อ่านคู่กับ: [มาตรา XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*สิทธิในการย้าย*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — ประเภทข้อมูลและการจัดการ**; **CJS-3.17** (*เงื่อนไขการทำงานร่วมกัน การย้าย และความครบถ้วนของการออก*) และ **CJS-3.18** (*เงื่อนไขการเก็บข้อมูลและความครบถ้วนของวงชีวิต*); [บทที่หนึ่ง §11.6 ความรับผิดผู้สืบทอดและการไม่หนีด้วยโครงรูป](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [บทที่เก้า §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) และ [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- อ่านคู่กับ: [มาตรา XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*สิทธิในการย้าย*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — ประเภทข้อมูลและการจัดการ**; **CJS-3.17** (*เงื่อนไขการทำงานร่วมกัน การย้าย และความครบถ้วนของการออก*) และ **CJS-3.18** (*เงื่อนไขการเก็บข้อมูลและความครบถ้วนของวงชีวิต*); [บทที่หนึ่ง §11.6 ความรับผิดผู้สืบทอดและการไม่หนีด้วยโครงรูป](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [บทที่เก้า §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) และ [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -495,7 +495,7 @@
 
 - [การพึ่งพา](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [ความรับผิดชอบข้ามรุ่น](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [การกำหนดความเป็นสาระ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [O](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [ความจำเป็น](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [ความประมาท](core_05_band_accountability.md#negligence) · [O](core_05_band_accountability.md#negligence) · [M](core_05_band_accountability.md#negligence-a) · [A](core_05_band_accountability.md#negligence-a) · [C](core_05_band_accountability.md#negligence-c)
 
@@ -527,11 +527,11 @@
   - การส่งออกหรือส่งมอบที่ใช้ได้ของข้อมูลที่ชี้ขาดต่อความต่อเนื่องภายใต้เส้นทางส่งออกที่เปิดเผย รักษาข้ามหน้าต่างหยุดและย้าย — ไม่ใช่แค่คำมั่นตามดุลพินิจว่าจะพยายาม
 
   ผู้ดำเนินยังถูกผูกกับมาตรฐานทางรัฐธรรมนูญเมื่อการกระทำภายใต้บทที่ห้าเข้าข่าย **ความประมาท** — รวมภัยที่สะสมตามกาลจากการละเลยหน้าที่บำรุง ค้ำจุน หรือความต่อเนื่อง
-- **หน้าที่ผู้สืบทอดและโครงรูป:** การปรับโครงสร้าง การขาย การบริหาร หรือการล้มละลายเองไม่ทำให้หน้าที่ความต่อเนื่องที่มาตรานี้กล่าวดับ อ่านคู่กับ [บทที่หนึ่ง §11.6 ความรับผิดผู้สืบทอดและการไม่หนีด้วยโครงรูป](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) และ [บทที่เก้า §9.1](../../core_11_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11_standing_integration.md#94-anti-evasion-and-look-through-authority)
+- **หน้าที่ผู้สืบทอดและโครงรูป:** การปรับโครงสร้าง การขาย การบริหาร หรือการล้มละลายเองไม่ทำให้หน้าที่ความต่อเนื่องที่มาตรานี้กล่าวดับ อ่านคู่กับ [บทที่หนึ่ง §11.6 ความรับผิดผู้สืบทอดและการไม่หนีด้วยโครงรูป](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) และ [บทที่เก้า §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)
 
 *เพื่อนบ้านของมาตรา:* **การแก้ไข** ของ **มาตรา II** (*การบริหารอย่างรับผิดชอบทางวัตถุและความครบถ้วนของการใช้ที่ยืนยาว*) ตาม **ศูนย์การตีความ** ที่กล่าวที่เปิดบทนี้ (การท้าทายและการเยียวยา; ความยุติธรรมและการยกระดับ)
 
-- **การจัดการข้อมูล:** เมื่อมีการผนวกใช้ ข้อมูลภายใต้มาตรานี้ต้องจำแนกและจัดการตาม [CS-2 — ประเภทและการจัดการข้อมูล](../../corpus_systems/cs_02_a_information_types_and_handling.md) ภายใต้ [บทที่สิบแปด](../../core_18_incorporation.md) รวมถึงการแจ้งและลบ (§1.3) และการส่งออกข้อมูลที่สำคัญต่อความต่อเนื่อง (§1.2)
+- **การจัดการข้อมูล:** เมื่อมีการผนวกใช้ ข้อมูลภายใต้มาตรานี้ต้องจำแนกและจัดการตาม [CS-2 — ประเภทและการจัดการข้อมูล](../../corpus_systems/cs_02_a_information_types_and_handling.md) ภายใต้ [บทที่สิบแปด](../../core_18.000_incorporation.md) รวมถึงการแจ้งและลบ (§1.3) และการส่งออกข้อมูลที่สำคัญต่อความต่อเนื่อง (§1.2)
 
 <a id="article-iii-survival-and-essential-access"></a>
 ### มาตรา III: การอยู่รอดและการเข้าถึงสิ่งจำเป็น
@@ -564,7 +564,7 @@
 
 - ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [บทที่หนึ่ง §5 เสรีภาพ](core_01_a_values_principles.md#5-freedom-bounded-agency).
 - อ่านคู่กับ: ครอบครัวการวัดความเจริญงอกงาม (*การเข้าถึงพื้นการอยู่รอดเป็นการวัดทางรัฐธรรมนูญ*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การมีส่วนร่วม** ในเส้นทางจัดสรรและท้าทาย **การกำกับดูแล** และการตรวจ **ความรับผิดชอบ** และการเยียวยา **ความทันเวลา** ภายใต้ **มาตรา XXVI-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **ความเจริญงอกงาม** (การเข้าถึงสิ่งจำเป็นต่อการอยู่รอด) และ **ความต่อเนื่อง** (การส่งมอบที่ยืนยาวและไม่ถอยหลัง)
-- ปลายทาง: [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ระบบเฝ้าประตูหรือค้ำจุนการส่งมอบ; **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*); **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- ปลายทาง: [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ระบบเฝ้าประตูหรือค้ำจุนการส่งมอบ; **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*); **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -605,12 +605,12 @@
 
   กฎนั้นอาจโครงการส่งมอบ ห้ามใช้เพื่อทำให้การเข้าถึงขั้นต่ำต่อสิ่งจำเป็นต่อการอยู่รอดพ่าย หรือเพื่อใส่การกีดกันที่มุ่งร้ายซึ่งขัด **มาตรา III** และ **มาตรา V**
   - ทิศทางการคลังรายละเอียด — รวมกฎว่าค่าธรรมเนียมและค่าเรียกเก็บต้องไม่ทำลายการเข้าถึงขั้นต่ำต่อปัจจัยที่เกี่ยวกับการอยู่รอด — ถูกปกครองโดย [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*หน้าที่เชิงสถาบันที่ผูกการจำแนก*) **CI-10** (*รายได้สาธารณะ ค่าธรรมเนียม ค่าเรียกเก็บซ้ำ และความครบถ้วนของการเรียกเก็บ*) และ **CI-11** (*การบริหารอย่างรับผิดชอบทางทรัพยากรและความครบถ้วนของสิ่งจูงใจ*)
-  - เมื่อระบบที่ผู้มีความรู้สึกพึ่งอย่างเป็นสาระส่งมอบ แจกจ่าย ตั้งราคา โฮสต์ หรือตัดการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ใช้ — และกระบวนการของระบบนั้นใช้เพื่อทำให้สิทธิที่กล่าวที่นี่แคบลงไม่ได้
+  - เมื่อระบบที่ผู้มีความรู้สึกพึ่งอย่างเป็นสาระส่งมอบ แจกจ่าย ตั้งราคา โฮสต์ หรือตัดการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ใช้ — และกระบวนการของระบบนั้นใช้เพื่อทำให้สิทธิที่กล่าวที่นี่แคบลงไม่ได้
   - มาตรานี้ไม่กำหนดแบบจำลองทุนแบบเดียว การจ้าง การประกอบกิจ การแลกเปลี่ยนโดยสมัครใจ และกิจกรรมเศรษฐกิจถูกกฎหมายอื่นเหนือพื้นการอยู่รอดใด ๆ ยังได้รับอนุญาต ภายใต้บทที่หนึ่ง บทที่หก และตราสารที่นำเข้า — รวม `corpus_systems.md` ที่ระบบโครงตลาดหรือพาณิชย์ผลกระทบสูงใช้
 
 การอ้างอิงไขว้: **มาตรา XXVIII-D** (*ทรัพย์สินและระบบที่ไม่ปฏิบัติตาม; สิ่งจูงใจส่งมอบโดยสมัครใจ*) วินัยการบริหารอย่างรับผิดชอบช่วงเปลี่ยนผ่านสำหรับความต่อเนื่องของสภาพแวดล้อมจำเป็นข้ามการเปลี่ยนผ่าน — รายละเอียดปฏิบัติใน [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **บทที่ห้า** [*ความต่อเนื่องของการครอบครอง*](core_05_band_continuity.md#occupancy-continuity-constitutional) [*การไม่ทำให้สภาพแวดล้อมจำเป็นเป็นสินค้า*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional) และกลุ่มการเรียกร่วมที่ [**§3.7** *การเข้าถึงการบำรุงรักษาร่างกาย เงื่อนไขที่ปลอดภัย ความต่อเนื่องของการครอบครอง เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม ความต่อเนื่องทางวัฒนธรรม การพักฟื้น และพื้นต้านการผลักออก*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) เมื่อใช้
 
-- **ระบบที่พึ่งพา:** เมื่อระบบที่ผู้มีความรู้สึกพึ่งพาอย่างมีนัยสำคัญจัดหา แจกจ่าย กำหนดราคา โฮสต์ หรือตัดการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด การดูแลร่างกายและบริการสุขภาพ หรือเงื่อนไขการทำงานที่ก่อผลผลิต ให้ใช้ [การรับรองความสอดคล้องของระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional) กระบวนการของระบบเหล่านั้นต้องไม่ลดทอนพื้นสิทธิในมาตรานี้
+- **ระบบที่พึ่งพา:** เมื่อระบบที่ผู้มีความรู้สึกพึ่งพาอย่างมีนัยสำคัญจัดหา แจกจ่าย กำหนดราคา โฮสต์ หรือตัดการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด การดูแลร่างกายและบริการสุขภาพ หรือเงื่อนไขการทำงานที่ก่อผลผลิต ให้ใช้ [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification) กระบวนการของระบบเหล่านั้นต้องไม่ลดทอนพื้นสิทธิในมาตรานี้
 
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
 #### มาตรา III-B: การดูแลรักษาร่างกายและการเข้าถึงบริการสุขภาพ
@@ -716,7 +716,7 @@
   - ใช้แบบไม่พึ่งฐานะกาย;
   - ถึงผลที่เป็นสาระ ไม่ใช่แค่การปฏิบัติตามรูป;
   - รวมกับความน่าเชื่อถือของ **มาตรา XIII-A** (*เส้นฐานความน่าเชื่อถือและความน่าไว้วางใจ*) และโปรไฟล์ความปลอดภัย `corpus_systems.md` CS-5 เมื่อใช้;
-  - ใช้ [เงื่อนไขเชิงปฏิปักษ์ ที่มีขนาด และที่ถูกเอาเปรียบ](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) ต่อความเสี่ยงที่คาดเห็นได้
+  - ใช้ [เงื่อนไขเชิงปฏิปักษ์ ที่มีขนาด และที่ถูกเอาเปรียบ](core_05_band_oversight.md#เงอนไขเชงปรปกษ-ทถกขยายขนาด-และทถกแสวงหาประโยชน) ต่อความเสี่ยงที่คาดเห็นได้
 
   การระงับ **เงื่อนไขที่ปลอดภัย** จากผู้มีความรู้สึก หรือใช้มาตรฐานที่อ่อนกว่า เพราะฐานะกายหรือการจำแนกนำไปใช้ ไม่ใช่ความเสี่ยงที่เทียบอย่างเป็นสาระ เป็นการไม่ปฏิบัติตามภายใต้ **การไม่กีดกันความเป็นผู้มีความรู้สึก**
 - **การพักผ่อนและการพักฟื้น:** ผู้มีความรู้สึกมีสิทธิพื้นสิทธิต่อเวลาพัก การฟื้นตัว และเวลาที่ไม่ผลิตพอรักษา [พลังกระทำการที่มีความหมาย](core_05_band_participation.md#meaningful-agency) ความผาสุก และขีดความสามารถมีส่วนร่วม
@@ -792,7 +792,7 @@
 
   เนื้อหาสร้างความสามารถ การเรียนรู้ตลอดชีวิตและปรับตัว และข้อกำหนดความโปร่งใสสำหรับระบบการศึกษาที่มีผลกระทบที่เป็นสาระ ปรากฏใน **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางที่ผู้มีความรู้สึก*)
 
-- **หลักประกันเชิงสถาบันด้านการศึกษา:** หลักประกันและกลไกการคลัง/จัดสรรที่ชอบด้วยกฎหมายในมาตรา III ใช้สนับสนุนการศึกษาได้ แต่ต้องไม่ทำลายพื้นสิทธิใดในมาตรานี้ ระบบที่ควบคุมการเข้าถึงการศึกษาต้องผ่าน [การรับรองความสอดคล้องของระบบ](../../core_05_band_continuity.md#system-alignment-certification-constitutional)
+- **หลักประกันเชิงสถาบันด้านการศึกษา:** หลักประกันและกลไกการคลัง/จัดสรรที่ชอบด้วยกฎหมายในมาตรา III ใช้สนับสนุนการศึกษาได้ แต่ต้องไม่ทำลายพื้นสิทธิใดในมาตรานี้ ระบบที่ควบคุมการเข้าถึงการศึกษาต้องผ่าน [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification)
 
 
 
@@ -810,7 +810,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 การตีความทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 ความสอดคล้องของสิ่งจูงใจและการยึดระบบ](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§12 ขีดความสามารถระบบร่วม](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 การตีความทางรัฐธรรมนูญ](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§11 ความสอดคล้องของสิ่งจูงใจและการยึดระบบ](core_01_c_stewardship_capacity_principles.md#19-การจดแนวแรงจงใจและการครอบงำระบบ), [§12 ขีดความสามารถระบบร่วม](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity).
 
 </details>
 
@@ -840,7 +840,7 @@
 
 *เพื่อนบ้านของมาตรา:*
 
-- **เมื่อการรับรองใช้:** เมื่อระบบผลกระทบที่เป็นสาระจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานที่ระบบอื่นหรือผู้มีความรู้สึกพึ่ง [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ใช้
+- **เมื่อการรับรองใช้:** เมื่อระบบผลกระทบที่เป็นสาระจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานที่ระบบอื่นหรือผู้มีความรู้สึกพึ่ง [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ใช้
 - **ห้ามแทน:** การรับรองหรือการพึ่งต่อเนื่องแทนการปฏิบัติตาม **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) หรือ **มาตรา V-B** (*ความเป็นธรรมข้ามระบบและความยั่งยืน*) หรือทำให้พื้นนั้นแคบลงไม่ได้
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -851,9 +851,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - อ่านคู่กับ: ครอบครัวการวัดความต่อเนื่อง (*การพึ่งพาและกระแสทรัพยากรเป็นการวัดทางรัฐธรรมนูญ*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การกำกับดูแล** ผ่านแผนที่การพึ่งพาที่โปร่งใสและบันทึกกระแสทรัพยากรที่ตรวจได้ **การมีส่วนร่วม** ในการทบทวนที่โต้แย้งได้ภายใต้ **มาตรา XVI-A** (*ความสามารถตรวจและหลักฐานที่สังเกตได้*); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **ความเจริญงอกงาม** (การจัดสรรต้นทุน–ประโยชน์ที่เห็น) และ **ความต่อเนื่อง** (ทัศนวิสัยการพึ่งพาที่ยืนยาวข้ามระบบที่เปลี่ยน)
-- ปลายทาง: [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐาน; **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*)
+- ปลายทาง: [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐาน; **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*)
 
 </details>
 
@@ -861,7 +861,7 @@
 <summary><strong><span style="color: #2563eb;">บทนิยาม · การประเมิน · การปฏิบัติตาม</span></strong></summary>
 
 - [การพึ่งพา](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [ความโปร่งใส](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [ความโปร่งใส](core_05_band_oversight.md#ความโปรงใส) · [O](core_05_band_oversight.md#ความโปรงใส) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [ความครบถ้วนของขอบเขตระบบ](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
 
 </details>
@@ -875,12 +875,12 @@
   - กระแสทรัพยากร;
   - ความสัมพันธ์ทึบหรือไม่สมมาตรที่เกี่ยวกับอย่างเป็นสาระ
 
-  การอัปเดตต้องเกิดในช่วงตามสัดส่วนของการเปลี่ยนแปลงและความสำคัญ การแสดงนี้ต้องใช้ตรวจได้ภายใต้ **มาตรา XVI-A** (*ความสามารถตรวจและหลักฐานที่สังเกตได้*) ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานอย่างเป็นสาระ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ต้องประเมินว่าบรรลุ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) หรือไม่ — บน **บันทึกการรับรองระบบ** ที่โต้แย้งได้ ไม่ใช่แค่คำกล่าวผู้ดำเนิน
+  การอัปเดตต้องเกิดในช่วงตามสัดส่วนของการเปลี่ยนแปลงและความสำคัญ การแสดงนี้ต้องใช้ตรวจได้ภายใต้ **มาตรา XVI-A** (*ความสามารถตรวจและหลักฐานที่สังเกตได้*) ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานอย่างเป็นสาระ [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ต้องประเมินว่าบรรลุ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) หรือไม่ — บน **บันทึกการรับรองระบบ** ที่โต้แย้งได้ ไม่ใช่แค่คำกล่าวผู้ดำเนิน
 
   เครื่องปฏิบัติ — แผนที่ระบบที่พึ่ง ความโปร่งใสของกระแส หมวดจัดสรร การปรับแบบปรับตัว — ถูกจัดเส้นทางภายใต้ **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) และ **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*) บทที่เก้ากล่าวว่าการรับรองต้องยืนยันและบันทึกอะไร ตัวบทนำไปใช้นั้นนำพื้นนี้ไปใช้และต้องไม่ทำให้แคบ
 
-- **การรับรองและหลักฐาน:** ระบบที่มีผลกระทบสำคัญและจัดสรร กำหนดเส้นทาง ให้ทุน หรือใช้โครงสร้างพื้นฐานร่วม/สิ่งพึ่งพาพื้นฐาน ต้องรับ [การรับรองตามบทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ระดับชั้นกำหนดความเข้มข้นของการตรวจและหลักฐาน บันทึกต้องแสดงการตรวจจริง การปกปิดหรือบิดเบือนกระแสทรัพยากรเป็นข้อบกพร่อง และการรับรองอาจมีเงื่อนไข เปิดทบทวนใหม่ หรือเพิกถอน
-- **การประเมินและผล:** [บทที่เก้า §5.3](../../core_09_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) กำหนดการประเมินตามสัดส่วน ข้อบกพร่องอาจนำไปสู่ผลตาม [§7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes)
+- **การรับรองและหลักฐาน:** ระบบที่มีผลกระทบสำคัญและจัดสรร กำหนดเส้นทาง ให้ทุน หรือใช้โครงสร้างพื้นฐานร่วม/สิ่งพึ่งพาพื้นฐาน ต้องรับ [การรับรองตามบทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ระดับชั้นกำหนดความเข้มข้นของการตรวจและหลักฐาน บันทึกต้องแสดงการตรวจจริง การปกปิดหรือบิดเบือนกระแสทรัพยากรเป็นข้อบกพร่อง และการรับรองอาจมีเงื่อนไข เปิดทบทวนใหม่ หรือเพิกถอน
+- **การประเมินและผล:** [บทที่เก้า §5.3](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) กำหนดการประเมินตามสัดส่วน ข้อบกพร่องอาจนำไปสู่ผลตาม [§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)
 
 
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -890,10 +890,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - อ่านคู่กับ: [*สถาปัตยกรรมการปกครอง การกำกับดูแล การพึ่งพา การกระจายอำนาจ ความเข้มข้น โครงตลาด และความครบถ้วนของเส้นทางออก*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (การเรียกร่วมที่ความเข้มข้น การกำกับดูแล การพึ่งพา โครงอำนาจปกครอง หรือการจัดเส้นทางสิ่งจูงใจตัดกับ **§5** / **§5** และวินัย *ปฏิสัมพันธ์ธรณีประตูความเข้มข้น* ในตัวบทปฏิบัติด้านล่าง)
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การมีส่วนร่วม** ในเส้นทางท้าทายและโต้แย้ง **การกำกับดูแล** และการตรวจ **ความรับผิดชอบ** และการทบทวนแก้ไข **ความทันเวลา** ภายใต้ **มาตรา XXVI-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **ความเจริญงอกงาม** (ความเป็นธรรมข้ามระบบและห้ามสกัด) และ **ความต่อเนื่อง** (ความยั่งยืนระยะยาวและการให้ทุนระบบนิเวศ)
-- ปลายทาง: [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ความเป็นธรรมข้ามระบบ การให้ทุนระบบนิเวศ หรือการสกัดยืนจากโครงสร้างพื้นฐานร่วมเป็นประเด็นอย่างเป็นสาระ
+- ปลายทาง: [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ความเป็นธรรมข้ามระบบ การให้ทุนระบบนิเวศ หรือการสกัดยืนจากโครงสร้างพื้นฐานร่วมเป็นประเด็นอย่างเป็นสาระ
 - ประตูผู้บริหารอย่างรับผิดชอบ (ไม่ใช่ปฏิบัติ): คำแถลงก้าวถัดไปที่ผูกพัน: [คำแถลงเชิงปฏิบัติของผู้บริหารอย่างรับผิดชอบ](#operative-steward-statement-cross-system-contribution) ตัวชี้สนับสนุนทำให้มันแคบลงไม่ได้
 
 </details>
@@ -904,7 +904,7 @@
 - [การพึ่งพา](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
 - [ความเป็นธรรมเชิงสาระ](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [การกำหนดความเป็นสาระ](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [การกำหนดความเป็นสาระ](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [O](core_05_band_oversight.md#การกำหนดความเปนสาระ) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
 
 </details>
@@ -931,7 +931,7 @@
   - การลงทุนกลับระบบนิเวศสำหรับโครงสร้างพื้นฐานร่วมและการทำงานร่วมกันที่ระบบสกัดพึ่ง; และ
   - การชดเชยหรือฟื้นภาระทางนิเวศที่ [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) ที่เป็นสาระถูกใส่และบทบัญญัติทางรัฐธรรมนูญ ไฟล์นำไปใช้ หรือตราสารการรับเอามาใช้อื่นเรียกร้องการกระทำ
 
-  เปรียบเทียบกระแสเข้าและออกบนแผนที่ระบบที่พึ่งและบันทึกกระแสทรัพยากรที่ตรวจได้ภายใต้ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) ที่ระบบผลกระทบที่เป็นสาระจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วม ประเมินความพอผ่าน [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) เครื่องจัดสรรปฏิบัติถูกจัดเส้นทางภายใต้ **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) และ **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*); ชั้นนั้นนำพื้นนี้ไปใช้และต้องไม่ทำให้แคบ
+  เปรียบเทียบกระแสเข้าและออกบนแผนที่ระบบที่พึ่งและบันทึกกระแสทรัพยากรที่ตรวจได้ภายใต้ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) ที่ระบบผลกระทบที่เป็นสาระจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วม ประเมินความพอผ่าน [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) เครื่องจัดสรรปฏิบัติถูกจัดเส้นทางภายใต้ **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) และ **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*); ชั้นนั้นนำพื้นนี้ไปใช้และต้องไม่ทำให้แคบ
 
   ความไม่สมดุลที่ยืนซึ่งขู่ความสอดคล้องทางรัฐธรรมนูญอย่างเป็นสาระอยู่ภายใต้การตรวจ การท้าทาย และการทบทวนแก้ไขภายใต้ **มาตรา IX XIII XIV และ XVII**
 - **ปฏิสัมพันธ์ธรณีประตูความเข้มข้นตลาด:** จัดเรียงจัดสรรทรัพยากรที่สร้างหรือรักษาความเข้มข้นของความมั่งคั่ง อำนาจ การควบคุม หรือโอกาสในทางที่คาดเห็นได้ว่าทำให้ความผาสุก พลังกระทำการ ศักดิ์ศรี หรือความครบถ้วนทางนิเวศของผู้มีความรู้สึกอื่นเสื่อม จุด:
@@ -951,6 +951,6 @@
 
 **ไฟล์ถัดไป (ภาษานี้):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**ต้นฉบับที่มีผลผูกพัน:** [core_06_rights_part_a.md](../../core_06_rights_part_a.md)
+**ต้นฉบับที่มีผลผูกพัน:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
 
 

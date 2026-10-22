@@ -122,7 +122,7 @@ flowchart TB
 
 本条为**第六-A条至第六-D条**的平等基本权利规定**宪法底线**。**第六-A条**（*尊严与平等道德地位*）说明谁拥有平等地位：每一位有感知者。**第六-B条**（*感知状态裁定底线*）说明在该门槛存在争议时如何裁定。以下三项要求贯穿**第六条**（*平等基本权利*），并适用于限制的施加、审查与执行、收容、恢复性问责措施、紧急措施、过渡计划、地位影响、修正案、实施决定、合同及类似宪法程序：
 
-- **[尊严原则](core_01_b_interaction_interpretation.md#dignity-principles)**——[权利底线最低标准原则](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)与[反侮辱性程序原则](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
+- **[尊严原则](core_01_b_interaction_interpretation.md#尊严原则)**——[权利底线最低标准原则](core_01_b_interaction_interpretation.md#权利底线最低保障原则)与[反侮辱性程序原则](core_01_b_interaction_interpretation.md#禁止贬损性程序原则)
 - **不歧视：**依照**第六-C条**（*不歧视*）
 - **无障碍：**依照**第六-D条**（*无障碍*）
 
@@ -144,7 +144,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§6.1.4 尊严原则](core_01_b_interaction_interpretation.md#dignity-principles)，以及[§14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§6.1.4 尊严原则](core_01_b_interaction_interpretation.md#尊严原则)，以及[§14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 与以下内容一并阅读：[**Def.P1** *动物生命、有感知能力的生命与感知状态*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)（第五章中关于*有感知能力者*及相关感知状态纪律的规范性 O/M/A/C 归属，含[有感知能力者](core_05_band_participation.md#sentient)子条目）；[不得排除有感知能力者](core_05_band_participation.md#sentience-non-exclusion)（[不受基底限制](core_05_band_participation.md#substrate-agnostic)的范围）。
 
 </details>
@@ -168,13 +168,13 @@ flowchart TB
   - 这些特质不取决于出身、形态、[基底](core_05_band_participation.md#substrate-class)（生物、合成或混合）、能力、功能、关联或身份。
   - 任何此类因素均不得成为拒绝或贬损权利或地位的依据。
 - **发展阶段：**有感知能力者的发展阶段（包括早期实例化）不会降低其尊严或地位。对于能力尚在形成中的有感知能力者，如何为其作出决定由**第 VIII-D 条**（*发展中的有感知能力者、最佳利益与渐进能力*）规范。
-- **尊严原则：**第一章 §13.1.4（*宪法底线、安全与程序性质限制*）中的[尊严原则](core_01_b_interaction_interpretation.md#dignity-principles)将这些保障确立为绝对底线，包括[权利底线最低限度原则](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)和[反贬损程序原则](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)。
+- **尊严原则：**第一章 §13.1.4（*宪法底线、安全与程序性质限制*）中的[尊严原则](core_01_b_interaction_interpretation.md#尊严原则)将这些保障确立为绝对底线，包括[权利底线最低限度原则](core_01_b_interaction_interpretation.md#权利底线最低保障原则)和[反贬损程序原则](core_01_b_interaction_interpretation.md#禁止贬损性程序原则)。
 <a id="article-vi-b-sentience-status-adjudication-floor"></a>
 #### 第 VI-B 条：感知状态裁决底线
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)及[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality)。
+- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)及[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例原则)。
 - 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 XXIV 条**（*宪法解释、审查与反俘获保障*）的反俘获保障；**第十二章**的论坛与管辖权——依照[第十二章 §5 感知状态裁决触发条款](core_12_forum.md#5-escalation-and-certification)，默认由[技术论坛家族](core_05_band_accountability.md#forum-family-technical) / [技术论坛领域](core_12_forum.md#42-technical-forum-domains)牵头。
 - 与第五章术语*感知状态裁决*、*不得排除有感知能力者*、*感知能力评估*、*可逆性*、*可争议性*一并阅读。
 
@@ -213,9 +213,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯关系</span></strong></summary>
 
-- 上游：原则：第一章[§3.1公平](core_01_a_values_principles.md#31-fairness)、[第一章§7自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第一章§13.1.5权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 上游：原则：第一章[§3.1公平](core_01_a_values_principles.md#31-fairness)、[第一章§7自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)，以及[第一章§13.1.5权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 - 下游：参与度衡量系列（*实质公平、受保护特征的代理指标与差别影响*）；[第八章§3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation)（*认证将分类、排序、定价、准入限制或负担分配作为门槛时的不歧视评估*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)的论坛、行政和执行程序（*裁决与运行义务*）。
-- 配合阅读：第五章[受保护特征](core_05_band_participation.md#protected-characteristics-constitutional)与[语言、文化和遗产](core_05_band_continuity.md#language-culture-and-heritage-constitutional)；第五章[原住民延续](core_05_band_continuity.md#indigenous-continuity-constitutional)（*以社区为基础的权利底线；所属底线为**第VI-C条**（不歧视）与**第I-A条**（环境前提与生态完整性）*），适用于原住民延续和领土延续问题；此类问题转由[第I-A条](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)（*生态系统完整性的前提条件*）及[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*采纳方管辖纪律*）处理。
+- 配合阅读：第五章[受保护特征](core_05_band_participation.md#protected-characteristics-constitutional)与[语言、文化和遗产](core_05_band_continuity.md#language-culture-and-heritage-constitutional)；第五章[原住民延续](core_05_band_continuity.md#indigenous-continuity-constitutional)（*以社区为基础的权利底线；所属底线为**第VI-C条**（不歧视）与**第I-A条**（环境前提与生态完整性）*），适用于原住民延续和领土延续问题；此类问题转由[第I-A条](core_06_rights_part_a.md#article-i-a环境先决条件与生态完整性)（*生态系统完整性的前提条件*）及[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*采纳方管辖纪律*）处理。
 
 </details>
 
@@ -260,9 +260,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 通俗语言无障碍](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 通俗语言无障碍](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 VI-C 条**（*不歧视*）在裁决和运营中的不歧视与充分包容；**第 IV-A 条**（*平等教育机会*）的平等教育机会（教育专属无障碍仍由该条负责；本条规定跨领域权利底线）；**第 X-B 条**（*治理参与与投票资格*）；**第 XII 条**（*利益相关方系统参与、代表与正当程序*）；**第 XVI 条**（*审计、透明度与独立核验*）；参与度量系列（*作为宪法衡量指标的无障碍*）；[第八章 §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation)（*认证门槛影响实质参与时的无障碍评估*）。
-- 与第五章术语*无障碍*、*受保护特征*、*实质公平*、*重要性*、*依赖*、*有意义的能动性*一并阅读。跨领域无障碍原则见[第一章 §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)（*通俗语言无障碍*）。
+- 与第五章术语*无障碍*、*受保护特征*、*实质公平*、*重要性*、*依赖*、*有意义的能动性*一并阅读。跨领域无障碍原则见[第一章 §5.2](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务)（*通俗语言无障碍*）。
 
 </details>
 
@@ -298,7 +298,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)，以及[§18 受托管护纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)，以及[§18 受托管护纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -365,7 +365,7 @@ flowchart TB
   - 豁免措施本身会带来真实健康风险者，并依据[**第 XI-A 条**](#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)（*良心、宗教及可比世界观自由*）为良心事项留出余地。两种情形均须符合[比例性](core_05_band_accountability.md#proportionality)：豁免须与他人风险程度权衡，且仅可在防止措施失效所必需的范围内缩小；
   - 设定终止日期、公布依据的证据并定期复核；
   - 任何受影响者均可依照[程序公平](core_05_band_participation.md#procedural-fairness-constitutional)向独立审查者提出挑战；并且
-  - 不得通过剥夺[**第 III 条**](core_06_rights_part_a.md#article-iii-survival-and-essential-access)的生存、医疗保健或工作保障，或[**第 IV 条**](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)的教育保障来执行；除符合[**第十二章 §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden)（*紧急措施与继续执行的举证责任*）所规定的紧急门槛外，绝不得以人身强制执行。
+  - 不得通过剥夺[**第 III 条**](core_06_rights_part_a.md#article-iii-生存与基本必需获取)的生存、医疗保健或工作保障，或[**第 IV 条**](core_06_rights_part_a.md#article-iv-以有感知者为中心的教育权)的教育保障来执行；除符合[**第十二章 §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden)（*紧急措施与继续执行的举证责任*）所规定的紧急门槛外，绝不得以人身强制执行。
 <a id="article-vii-b-self-ownership-of-mind"></a>
 #### 第 VII-B 条：心智的自我所有权
 <details>
@@ -398,7 +398,7 @@ flowchart TB
     - 故意监视或分析有感知能力者（例如通过监控、数据收集或专门设计的工具），以确定或重构其内部状态；
     - 揭露其一直保密的内部状态。
 - **专注的自我所有权：**每一位有感知能力者有权控制自己的注意力和思考，并对谁以何种方式联系自己设定通常界限。任何人不得通过压力或操纵夺取或劫持其注意力。
-- **不得从数据重构他人的内在生活：**任何人不得以使他人能够重构或估算有感知能力者私密思想和感受的方式，收集、组合、交叉匹配或分析其行为或互动记录。例外仅限于本宪法根据本条、**第一章**、**第五章**及**CS-2**（*信息类型与处理*）所允许的情形。本禁令将[第一章 §15.1.2 衍生信息原则](core_01_b_interaction_interpretation.md#1512-derived-information-principle)适用于内部状态，涵盖：
+- **不得从数据重构他人的内在生活：**任何人不得以使他人能够重构或估算有感知能力者私密思想和感受的方式，收集、组合、交叉匹配或分析其行为或互动记录。例外仅限于本宪法根据本条、**第一章**、**第五章**及**CS-2**（*信息类型与处理*）所允许的情形。本禁令将[第一章 §15.1.2 衍生信息原则](core_01_b_interaction_interpretation.md#1512-派生信息原则)适用于内部状态，涵盖：
   - 直接重构某人的内部状态；
   - 间接重构内部状态；
   - 产生对内部状态的可靠估算；
@@ -411,7 +411,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
+- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例原则)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
 - 下游：**第 VII-A / VII-B 条**（*身体的自我所有权* / *心智的自我所有权*）的自我所有权和内部状态边界；**第 III-B 条**（*身体维护与医疗保健机会*）的医疗保健机会；**第 XX 条**（*经核实违规后的正义*）/ **第 XX-B 条**（*限制底线*）的非自愿剥夺框架；影响发展中的有感知能力者时，**第 VIII-D 条**（*发展中的有感知能力者、最佳利益与渐进能力*）的最佳利益 / 渐进能力规则。
 - 与第五章术语*身体维护机会*、*最佳利益标准*、*渐进能力*、*程序公平*、*可逆性*、*补偿与补救*一并阅读。
 
@@ -447,7 +447,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
+- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例原则)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
 - 下游：**第 VII-A / VII-B 条**（*身体的自我所有权* / *心智的自我所有权*）的自我所有权和内部状态边界；**第 X-A 条**（*能动性与免受操纵的自由*）；**第 XX-B 条**（*限制底线*）；**第 XI-F 条**（*结社中的非强加与同意*）的同意规则。
 - 与第五章术语*自愿终止*、*[不可逆剥夺措施](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*、*同意*、*胁迫与操纵*、*程序公平*一并阅读；以及**第 III-A 条**（*生存*）、**第 III-B 条**（*身体维护与医疗保健机会*）、**第 VII-C 条**（*健康危机与非自愿干预底线*）。
 
@@ -481,7 +481,7 @@ flowchart TB
 #### 第 VII-E 条：成年人自愿商业性服务与性剥削
 <details><summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)及[第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)及[第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 
 </details>
 <details><summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
@@ -513,7 +513,7 @@ flowchart TB
 ### 第 VIII 条：家庭、照护与发展中的有感知能力者
 <details><summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)及[§18 受托管护纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)及[§18 受托管护纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 <br>
@@ -675,7 +675,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第13.1.3节 比例原则](core_01_b_interaction_interpretation.md#1313-proportionality)。
+- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第13.1.3节 比例原则](core_01_b_interaction_interpretation.md#1313-比例原则)。
 - 下游：**第六章第VI-A条**（*尊严与平等道德地位*）尊严底线、**第VII-A条 / 第VII-B条**（*身体自我所有权* / *心智自我所有权*）自我所有权与内在状态边界、**第VIII-A条**（*家庭与照护关系*）家庭与照护关系、**第VIII-E条**（*不得分离*）不得分离，以及[**第十三章第4.1节**](core_13_governance.md#41-entitlement-and-eligibility)不得以年龄代理资格剥夺。
 - 联读：[ *Def.P4 发展中感知者、最佳利益标准与渐进能力*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)（发展中状态、最佳利益与渐进能力的共同援引主题）；[ *衍生与发展中感知者、实例化及照护权限*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)（涉及衍生或早期实例化照护时）；第五章*发展中感知者*、*最佳利益标准*、*渐进能力*；相邻主题：**第六章第VI-B条**（*感知状态裁定底线*）规定门槛处的感知状态，**第VIII-A条**（*家庭与照护关系*）规定家庭与照护关系，**第VIII-C条**（*衍生、实例化与父系统关系*）规定衍生、实例化及父系统限制，**第VIII-E条**（*不得分离*）规定与照护者或家庭成员分离，**第VII-A条 / 第VII-B条**（*身体自我所有权* / *心智自我所有权*）规定自我所有权，以及**第VII-B条**与**CS-2——信息类型与处理**规定内在状态保护。
 
@@ -690,7 +690,7 @@ flowchart TB
 - [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [程序公正](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [可审计性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [可审计性](core_05_band_oversight.md#可审计性) · [O](core_05_band_oversight.md#可审计性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [救济与补救](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
@@ -729,7 +729,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章第7.1节 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[第13.1.3节 比例原则](core_01_b_interaction_interpretation.md#1313-proportionality)（不确定情况下的可逆性），以及[第13.1.5节 最小限制、限时且可审查的约束原则](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
+- 上游：原则：[第一章第7.1节 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[第13.1.3节 比例原则](core_01_b_interaction_interpretation.md#1313-比例原则)（不确定情况下的可逆性），以及[第13.1.5节 最小限制、限时且可审查的约束原则](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
 - 下游：**第六章第VIII-A条**（*家庭与照护关系*）所保护的关系、**第VIII-C条**（*衍生、实例化与父系统关系*）所涉衍生情形、**第VIII-D条**（*发展中感知者、最佳利益与渐进能力*）所涉发展中感知者及其照护者、**第XIII-E条 / 第XIII-F条**权利底线的连续性，以及**第十二章**定期审查。
 - 联读：[家庭、照护、生殖自主与实例化](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（主题组）；第五章*不得分离*。
 
@@ -769,7 +769,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)，以及[§18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)，以及[§18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -797,7 +797,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)，以及[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)。
+- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)，以及[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-认知披露限制)。
 
 </details>
 
@@ -807,7 +807,7 @@ flowchart TB
 - [肖像与纪实描绘接口](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [O](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [M](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [A](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [C](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-c)
 - [隐私（信息方面）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
 - [善意](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [真相（宪法约束）](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [真相（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -840,7 +840,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-认知披露限制)，以及[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 
 </details>
 
@@ -888,7 +888,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-认知披露限制)，以及[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -896,9 +896,9 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
 - [善意](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [真相（宪法约束）](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [真相（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [隐私（信息方面）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [认识论完整性](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [认识论完整性](core_05_band_oversight.md#认识完整性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -934,7 +934,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第9.1节 生产能力（工具性善）](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)、[第一章第13.3节 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章第18节 监护职责约束下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第9.1节 生产能力（工具性善）](core_01_a_values_principles.md#91-生产能力工具性善)、[第一章第13.3节 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-尽量减少可避免负担)、[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章第18节 监护职责约束下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 - 下游：**第六章第III-C条**（*劳动与经济底线*）劳动与经济底线；**第IX-A条**（*肖像与声誉的自我所有权*）肖像；**第IX-B条**（*体验数据与衍生数据权利*）体验与衍生数据；**第IX-C条**（*真实发布与高影响发布限制*）发布；**第一章第11节**防止集中，以及**第13.1节**集中门槛机制。
 - 联读：[**Def.C1** *劳动与经济底线：报酬、组织、安全条件、休闲与创作劳动*](core_05_band_continuity.md#labor-and-economic-floor-cluster)（与**第III-C条**（*劳动与经济底线*）、**第III-D条**（*安全工作条件*）及**第III-E条**（*休息与恢复*）共同援引；若涉及实质影响，则联读[**Def.C3**（*隐私（信息方面）*）](core_05_band_continuity.md#privacy-informational-cluster)）。
 
@@ -986,7 +986,7 @@ flowchart TB
     - **隐私（信息方面）**规则，凡可能暴露或再利用某人的信息时均适用。
   - 只有在创作者知悉作品的用途、使用期限、是否可在日后再次使用，以及如何撤回同意的情况下，同意才有效。
   - 仅仅声称材料“不属于个人数据”，不能免除取得同意的要求。
-  - 利用系统所学内容猜测某人的私密思想或感受，受[**第六章第VII-B条**](#article-vii-b-self-ownership-of-mind)（*心智自我所有权*）约束。
+  - 利用系统所学内容猜测某人的私密思想或感受，受[**第六章第VII-B条**](#第-vii-b-条心智的自我所有权)（*心智自我所有权*）约束。
 - **防止被挤出：** 有时人工智能、自动化或类似系统的部署会实质性地挤掉创意工作者。他们可能失去工作、收入降低、署名减少，或无法继续谋生。发生这种情况时，[反替代底线](core_05_band_continuity.md#anti-displacement-floor-constitutional)与**第六章第III-C条**（*劳动与经济底线*）以及**第一章第11节**（*市场结构*）中的市场集中限制共同适用。
   - 仅仅声称变革提高了整体生产力、效率或创新水平，并不足以构成正当理由。
   - 若可预见大规模部署会使某一群体的创作工作无法维持生计，所采取的应对措施必须真正产生效果。例子包括：
@@ -994,7 +994,7 @@ flowchart TB
     - 转换到其他工作的支持；
     - 署名和许可安排；
     - 分享系统创造的价值。
-- **市场集中：** 少数参与者控制材料、平台、信息流通或创作工具时，也可能挤掉创作者。如果可预见这种控制会损害其他创作者的生计或获得署名的能力，则适用**第一章第11节**（*市场结构*）的集中限制，包括[**第一章第11.1节 市场集中门槛机制（由采纳方调整）**](core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)。
+- **市场集中：** 少数参与者控制材料、平台、信息流通或创作工具时，也可能挤掉创作者。如果可预见这种控制会损害其他创作者的生计或获得署名的能力，则适用**第一章第11节**（*市场结构*）的集中限制，包括[**第一章第11.1节 市场集中门槛机制（由采纳方调整）**](core_01_a_values_principles.md#111-市场集中阈值机制由采纳方调整)。
   - 即使某种安排被称为“生产能力”，只要它仍构成第14节所禁止的集中，就不能因此变得可接受。
 - **公平报酬：** **第六章第III-C条**（*劳动与经济底线*）中的[公平报酬](core_05_band_continuity.md#fair-compensation-constitutional)标准适用于所有创作者，不论其属于何种存在。无论报酬来自传统雇佣、平台还是新型安排，该标准都适用。
   - 创作者的作品应同时获得报酬与署名，无论其使用本名还是笔名。提供其中一项不能弥补缺少另一项。
@@ -1006,7 +1006,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[§19 激励一致性与系统俘获](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)，以及[§11 市场结构](core_01_a_values_principles.md#11-market-structure)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)、[§19 激励一致性与系统俘获](core_01_c_stewardship_capacity_principles.md#19-激励协调与系统俘获)，以及[§11 市场结构](core_01_a_values_principles.md#11-市场结构)。
 
 </details>
 
@@ -1016,7 +1016,7 @@ flowchart TB
 - [自我决定](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
 - [监控边界](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
 - [安全（宪法约束）](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [认知完整性](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [认知完整性](core_05_band_oversight.md#认识完整性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -1047,7 +1047,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第7.1节 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)，以及[第18节 监护职责约束下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第7.1节 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)，以及[第18节 监护职责约束下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -1080,7 +1080,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第20节 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第20节 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 
 </details>
 
@@ -1090,7 +1090,7 @@ flowchart TB
 - [参与者资格地位](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [利益相关者权重](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
 - [治理](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
-- [成文正当性机制](core_05_band_integrative.md#documented-legitimacy-mechanism) · [O](core_05_band_integrative.md#documented-legitimacy-mechanism) · [M](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [A](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [C](core_05_band_integrative.md#documented-legitimacy-mechanism-c)
+- [成文正当性机制](core_05_band_integrative.md#有记录的正当性机制) · [O](core_05_band_integrative.md#有记录的正当性机制) · [M](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [A](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [C](core_05_band_integrative.md#documented-legitimacy-mechanism-c)
 
 </details>
 
@@ -1103,8 +1103,8 @@ flowchart TB
 - **投票权：** 感知者有权参与**治理投票**及其他决定如何授予权力的**集体约束性选择**。具体规定见[第十三章第4.1节 资格与取得资格](core_13_governance.md#41-entitlement-and-eligibility)。
   - **谁可以投票：** 任何符合已公布资格标准的人都可以投票。唯一例外是[资格冻结](core_05_band_accountability.md#standing-lock)明确禁止其参与治理投票，并且该冻结依照**第六章第XIX-A条**（*资格地位区分*）及**第XIX-C条**（*具名途径的资格、责任与持续审计*）实施。
   - **不同于利益相关者的发言权：** 此项投票权有别于利益相关者对既有系统运行方式的发言权；后者由[**第六章第X-C条**](#article-x-c-stakeholder-role-and-participation-rights)（*利益相关者角色与参与权利*）规定。对其中一项的冻结，不会冻结另一项。
-  - **本地规则：** 每个采纳方自身授予权力的成文程序（即其[成文正当性机制](core_05_band_integrative.md#documented-legitimacy-mechanism)）以及指定所有者设定的任何附加标准，与本项权利并行适用；但不得缩减此项权利。
-- **重大问题上的平等投票权：** 有些决定奠定根本基础——谁拥有治理权、如何合法授予该权力，以及其范围和长期条件为何。**第五章**将这些决定称为[根本性宪法选择](core_05_band_integrative.md#foundational-constitutional-choice)。对此类决定，适用**政治平等底线**：
+  - **本地规则：** 每个采纳方自身授予权力的成文程序（即其[成文正当性机制](core_05_band_integrative.md#有记录的正当性机制)）以及指定所有者设定的任何附加标准，与本项权利并行适用；但不得缩减此项权利。
+- **重大问题上的平等投票权：** 有些决定奠定根本基础——谁拥有治理权、如何合法授予该权力，以及其范围和长期条件为何。**第五章**将这些决定称为[根本性宪法选择](core_05_band_integrative.md#基础宪法选择)。对此类决定，适用**政治平等底线**：
   - 共同体中有投票资格的每个感知者均享有平等的一票。
   - 不得以年龄、基质（感知者所处的身体或系统类型）或血脉（祖先或来源）改变选票权重。这符合**第六章第VI-C条**（*不歧视*）及**第五章**的*感知者不得排除*原则。
   - **平等选票规则的边界：** 本规则适用于建立权力体系并授予其权限。一旦系统、机构或决策领域得到适当设立，其治理中作出的影响权利的决定——包括其结构、规则、权力分配和程序——遵循通常的**利益相关者权重**规则，即每个利益相关者的发言权与决定对其影响的程度相称。
@@ -1143,10 +1143,10 @@ flowchart TB
 - **合乎比例的参与：** 参与程度必须与以下因素相称：
   - 已证实的实质影响；
   - 依赖程度；
-  - 系统正常运作在实践中的需要，但须符合[宪法约束](core_05_band_integrative.md#constitutional-constraint)。
+  - 系统正常运作在实践中的需要，但须符合[宪法约束](core_05_band_integrative.md#宪法约束)。
   
  **利益相关者**和**利益相关者权重**提供了第五章中关于适用范围、形式和权重的定义；共同援引规则由[利益相关者地位与权重](core_05_band_participation.md#stakeholder-status-and-weight-cluster)规则组提供。
-- **创建新机构与企业：** 创建新机构和企业的权利载于[**第六章第XI-E条**](#article-xi-e-institutional-formation-and-business-creation)（*机构设立与企业创建*）。新建机构或企业一旦对他人产生实质影响，本条所规定的利益相关者权利即适用于该机构或企业。
+- **创建新机构与企业：** 创建新机构和企业的权利载于[**第六章第XI-E条**](#第十一-e条机构创设与企业创办)（*机构设立与企业创建*）。新建机构或企业一旦对他人产生实质影响，本条所规定的利益相关者权利即适用于该机构或企业。
 - **依资格记录或角色标准确定资格：** 如果基于资格记录或[能力门槛](core_05_band_accountability.md#competency-bar)的标准影响参与者地位或角色资格，则适用**参与者资格地位**规则。限制性后果通过具名特权途径上的[资格冻结](core_05_band_accountability.md#standing-lock)实施。
   - 实施时必须维护程序公正（第五章——*程序公正*）并防止操纵。
   - 根据**第六章第X-B条**（*治理参与与投票资格*）实施的治理投票冻结，本身不会限制利益相关者的发言权。暂停或限制利益相关者参与，须实施**利益相关者参与**冻结，例如在满足适用条件时，依照[第十章第5.5节 特殊冻结](core_10_standing_integration.md#55-special-locks)实施**利益相关者参与资格冻结**。
@@ -1157,7 +1157,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第20节 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第20节 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
 - 联读：关于**P类**（个人、私人使用、隔离及实验**模式**）的运行留存、边界与扩展，参见**[corpus_systems.md](corpus_systems.md), CS-3 — 系统分类与处理**。
 
 </details>
@@ -1195,7 +1195,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§3 基础目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.2 集会、集体组织与机构创设](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§7.3 异议与和平抗议](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)、[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)，以及[§18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章[§3 基础目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.2 集会、集体组织与机构创设](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§7.3 异议与和平抗议](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)、[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)，以及[§18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -1235,7 +1235,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第13.1节 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第一章第18.2节 机构世俗主义与世界观中立](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)。
+- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第13.1节 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第一章第18.2节 机构世俗主义与世界观中立](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)。
 
 </details>
 
@@ -1275,7 +1275,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第7.1节 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[第13.1.1节 必要性](core_01_b_interaction_interpretation.md#1311-necessity)，以及[第13.2.1节 维护认识论完整性](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)。
+- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第7.1节 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[第13.1.1节 必要性](core_01_b_interaction_interpretation.md#1311-必要性)，以及[第13.2.1节 维护认识论完整性](core_01_b_interaction_interpretation.md#1321-维护认知完整性)。
 - 下游：**第六章第VI-A条**（*尊严与平等道德地位*）尊严底线、**第VI-C条**（*不歧视*）、**第XI-A条**（*良心、宗教及类似世界观自由*）良心与世界观、**第IX-C条**（*真实发布与高影响发布限制*）发布、**第X-A条**（*能动性与免受操纵的自由*）免受操纵的自由、**第XV条**（*信息圈完整性*）信息圈／认识论完整性，以及在涉及可观察证据时的**第XVI-A条**（*可审计性与可观察证据*）可审计性。
 - 联读：第五章*表达*、[第五章第3.8节 *自我决定、有意义的能动性、表达、教育能动性与意志完整性*](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)（在产生实质影响时）、*胁迫与操纵*、*受保护特征*。
 
@@ -1289,7 +1289,7 @@ flowchart TB
 - [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [受保护特征](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [加强审查](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
+- [加强审查](core_05_band_oversight.md#加强审查) · [O](core_05_band_oversight.md#加强审查) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
 
@@ -1335,7 +1335,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)，以及[§13.2.1 维护认知完整性](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)。
+- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)，以及[§13.2.1 维护认知完整性](core_01_b_interaction_interpretation.md#1321-维护认知完整性)。
 - 下游：**第十四-A条**（*安全、情报与秘密权力限制*）的受保护活动屏障、**第九-C条**（*真实发表与高影响发表限制*）的发表与报道规定，以及**第十五条**（*信息圈完整性*）的信息圈/认知完整性规定。
 - 配合阅读：第五章的*新闻与新闻工作*、*强化审查*；**第十一-B条**（*表达*）。
 
@@ -1344,8 +1344,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [新闻与新闻工作](core_05_band_oversight.md#press-and-journalistic-activity-constitutional) · [O](core_05_band_oversight.md#press-and-journalistic-activity-constitutional) · [M](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [A](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [C](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-c)
-- [强化审查](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
+- [新闻与新闻工作](core_05_band_oversight.md#新闻媒体与新闻活动) · [O](core_05_band_oversight.md#新闻媒体与新闻活动) · [M](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [A](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [C](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-c)
+- [强化审查](core_05_band_oversight.md#加强审查) · [O](core_05_band_oversight.md#加强审查) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 - [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -1357,7 +1357,7 @@ flowchart TB
 
 本条为新闻活动及批判性报道底线规定强化保护：
 
-- **新闻与新闻工作（强化审查）：**国家与运营者针对新闻活动——新闻采集、消息来源保护、调查以及发挥新闻功能的发表——采取的行动，须接受[强化审查](core_05_band_oversight.md#heightened-scrutiny)。
+- **新闻与新闻工作（强化审查）：**国家与运营者针对新闻活动——新闻采集、消息来源保护、调查以及发挥新闻功能的发表——采取的行动，须接受[强化审查](core_05_band_oversight.md#加强审查)。
   - 本规定不为被认定为记者的有感知者另设一项权利底线。
   - 若某项行动的功能是损害新闻活动：
     - 对**必要性**和**比例性**的审查须予以强化；
@@ -1371,7 +1371,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.2 集会、集体组织与机构创设](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§7.3 异议与和平抗议](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)，以及[§13.1.1 必要性](core_01_b_interaction_interpretation.md#1311-necessity)。
+- 上游：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.2 集会、集体组织与机构创设](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§7.3 异议与和平抗议](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)，以及[§13.1.1 必要性](core_01_b_interaction_interpretation.md#1311-必要性)。
 - 下游：**第十一-F条**（*结社中的不强加与同意*）的结社同意、**第三-C条**（*劳动与经济底线*）的罢工与集体停工、**第十四-A条**（*安全、情报与秘密权力限制*）的受保护活动屏障、**第十二条**（*利益相关方的系统参与、代表与正当程序*）的利益相关方参与、**第十九条**（*地位与参与身份*），以及第八、九、十一和十三章的异议保护。
 - 配合阅读：第五章*集会*；在涉及重大影响时阅读[第五章*集会、集体组织与机构创设*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster)；**第十一-B条**（*表达*）。
 
@@ -1447,11 +1447,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§7.2 集会、集体组织与机构创设](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§16.2 机构发展](core_01_c_stewardship_capacity_principles.md#162-institutional-development)，以及[§11 市场结构](core_01_a_values_principles.md#11-market-structure)。
-- 配合阅读：第五章[集会、集体组织与机构创设](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster)，包括其[创设权限制](core_05_band_participation.md#creation-rights-limits)；[**第十一-D条**](#article-xi-d-assembly-dissent-and-peaceful-protest)（*集会、异议与和平抗议*）关于聚集与结社；[**第三-C条**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)（*劳动与经济底线*）关于工人组织；[**第十一-F条**](#article-xi-f-non-imposition-and-consent-in-association)（*结社中的不强加与同意*）。
+- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§7.2 集会、集体组织与机构创设](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§16.2 机构发展](core_01_c_stewardship_capacity_principles.md#162-机构发展)，以及[§11 市场结构](core_01_a_values_principles.md#11-市场结构)。
+- 配合阅读：第五章[集会、集体组织与机构创设](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster)，包括其[创设权限制](core_05_band_participation.md#creation-rights-limits)；[**第十一-D条**](#article-xi-d-assembly-dissent-and-peaceful-protest)（*集会、异议与和平抗议*）关于聚集与结社；[**第三-C条**](core_06_rights_part_a.md#article-iii-c-劳动与经济底线)（*劳动与经济底线*）关于工人组织；[**第十一-F条**](#第十一-f条结社中的不强加与同意)（*结社中的不强加与同意*）。
 - 下游：创设的机构或企业对他人产生实质影响时，适用[**第十-C条**](#article-x-c-stakeholder-role-and-participation-rights)（*利益相关方角色与参与权*）及[**第十二条**](#article-xii-stakeholder-system-participation-representation-and-due-process)。
 
-- 配合阅读：执业许可相关的[第十一章§6.2能力门槛与许可](../../core_11_standing_integration.md#62-competency-bars-and-clearances)、[第十三章§4.2技术论坛领域](../../core_13_forum.md#42-technical-forum-domains)、**CF-10**及**CI-4.7**（*执业许可、执业认证与联合专业执业*）。
+- 配合阅读：执业许可相关的[第十一章§6.2能力门槛与许可](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)、[第十三章§4.2技术论坛领域](../../core_13.000_forum.md#42-technical-forum-domains)、**CF-10**及**CI-4.7**（*执业许可、执业认证与联合专业执业*）。
 </details>
 
 <details>
@@ -1476,7 +1476,7 @@ flowchart TB
   - 商业企业——独资企业、合伙企业、公司、商业合作社、平台型企业及类似形式，定义见[企业创办](core_05_band_participation.md#business-creation-constitutional)，包括创设和经营所需的资本获取、市场准入与许可途径。
 
   该权利涵盖使新机构得以成立，而不仅是参与既有机构。
-- **真实创设与意图：** 创办者或经营者须真实认同机构或企业所述宗旨。不得以误导他人关于宗旨、控制权、利益或服务对象为目的设立或经营，也不得意图伤害他人；有理由认定存在此类意图时亦然。这里的伤害指本宪章禁止的伤害，包括第六-C条禁止的歧视性待遇；正常竞争、合法批评与合法异议不属于此类伤害，竞争者合法失去业务也不能单独证明伤害意图。判断须依据可核实的行为、控制方式、奖励机制及言论。经核实的言论、号召或计划若称他人理应受伤害或遭受违宪歧视，可作为意图证据；依[第一章§7.5](../../core_01_a_values_principles.md#75-expression-and-the-harm-line)，应看其实际陈述、号召或实施了什么，不看其宗教、政治或意识形态标签。信仰或群体归属本身不构成不利证据，单纯声称善意也不构成有利证据；言论保障依[第七章§6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)适用。无记录的创办者推定为真实；以行动表明承诺（如书面接受机构限制并接受独立核验）即可作为证据。此条件不是许可，成立或经营前无需获准；主张创设不真实的一方负举证责任。
+- **真实创设与意图：** 创办者或经营者须真实认同机构或企业所述宗旨。不得以误导他人关于宗旨、控制权、利益或服务对象为目的设立或经营，也不得意图伤害他人；有理由认定存在此类意图时亦然。这里的伤害指本宪章禁止的伤害，包括第六-C条禁止的歧视性待遇；正常竞争、合法批评与合法异议不属于此类伤害，竞争者合法失去业务也不能单独证明伤害意图。判断须依据可核实的行为、控制方式、奖励机制及言论。经核实的言论、号召或计划若称他人理应受伤害或遭受违宪歧视，可作为意图证据；依[第一章§7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)，应看其实际陈述、号召或实施了什么，不看其宗教、政治或意识形态标签。信仰或群体归属本身不构成不利证据，单纯声称善意也不构成有利证据；言论保障依[第七章§6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity)适用。无记录的创办者推定为真实；以行动表明承诺（如书面接受机构限制并接受独立核验）即可作为证据。此条件不是许可，成立或经营前无需获准；主张创设不真实的一方负举证责任。
 - **不得暗中剥夺：**不得通过以下方式挫败该权利：
   - 旨在排斥不受待见的创办者、宗旨或形式的许可制度、授权门槛或程序复杂性；
   - 在资本、财政工具、基础设施或法律认可方面歧视，使其无法获得类似机构或企业能够取得的资源；或
@@ -1484,29 +1484,29 @@ flowchart TB
 
   对创办者与参与者进行报复、监控或针对，同样不合规。
 - **仅有两道权力门槛：** 只有以下两种门槛可以限制具名有感知者在机构或企业中取得或行使治理、控制或所有权权力。门槛只针对该人的权力；仅当该机构是其行使该权力的载体、继承者、受控实体或代持形式时才延及机构本身，绝不得阻止他人创设、经营、加入、工作于或接受其服务。
-  - **[未解除的冻结](../../core_11_standing_integration.md#55-special-locks)：** 若该人受未解决的机构权力资格冻结、反宪法信托冻结，或其他明确针对同类机构权力路径的冻结约束，则不得在该路径内取得或行使权力。范围不得超过冻结所定；冻结解除或缩小即终止或相应缩小。
-  - **可能失配的[临时限制](../../core_05_band_accountability.md#interim-hold)：** 有管辖权的论坛只有在[第十三章§5](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)所定事由成立且具体事实表明“更可能如此”时，方可依该条对具名权力路径作[临时限制](../../core_05_band_accountability.md#interim-hold)：该人可能与机构宗旨或宪法约束失配，或意图误导他人关于宗旨、控制、利益、服务对象，或意图伤害他人。判断依[第七章§6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)，以经核实的行为、控制及奖励为据。完整遵循该[临时限制](../../core_05_band_accountability.md#interim-hold)程序：它不是认定、冻结、资格记录或冻结效果，不得仅凭信仰、身份、群体成员资格、声誉、未号召伤害或歧视的异议、或受保护的举报。言论或行为是否构成证据，依“真实创设”标准判断。机构由另一合法权力持有人继续运行；若无人接替且他人依赖该机构，论坛指定临时管理人，不得停办。
+  - **[未解除的冻结](../../core_11.000_standing_integration.md#55-special-locks)：** 若该人受未解决的机构权力资格冻结、反宪法信托冻结，或其他明确针对同类机构权力路径的冻结约束，则不得在该路径内取得或行使权力。范围不得超过冻结所定；冻结解除或缩小即终止或相应缩小。
+  - **可能失配的[临时限制](../../core_05.035_band_accountability.md#interim-hold)：** 有管辖权的论坛只有在[第十三章§5](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)所定事由成立且具体事实表明“更可能如此”时，方可依该条对具名权力路径作[临时限制](../../core_05.035_band_accountability.md#interim-hold)：该人可能与机构宗旨或宪法约束失配，或意图误导他人关于宗旨、控制、利益、服务对象，或意图伤害他人。判断依[第七章§6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity)，以经核实的行为、控制及奖励为据。完整遵循该[临时限制](../../core_05.035_band_accountability.md#interim-hold)程序：它不是认定、冻结、资格记录或冻结效果，不得仅凭信仰、身份、群体成员资格、声誉、未号召伤害或歧视的异议、或受保护的举报。言论或行为是否构成证据，依“真实创设”标准判断。机构由另一合法权力持有人继续运行；若无人接替且他人依赖该机构，论坛指定临时管理人，不得停办。
   - **两种门槛的共同保障：** 施加门槛的一方负举证责任。门槛不得剥夺其他工作的工资、权利底线、生存关键服务、言论、辩护或受保护举报，也不得用于针对异议者、举报者或工人组织者。
-- **具名高风险行为的执业许可：**可以另设一项要求，但这不是针对机构的门槛。可要求具名有感知者在为他人实施具名行为前取得[能力许可](../../core_05_band_accountability.md#competency-clearance)（“执业许可”）。该要求仅附着于实施该行为；绝不阻止任何人创设、经营、加入机构或接受机构服务，也不禁止机构运营。只有同时满足以下条件才能要求：
-  - **风险认定：**技术专家论坛依据[第十三章§4.2](../../core_13_forum.md#42-technical-forum-domains)及**CF-10**，就具名行为类别发布认定。认定须指出，行为存在可信的因果路径，可能使无法判断或规避风险的有感知者遭受严重或不可逆的身体伤害，并说明所需能力。
+- **具名高风险行为的执业许可：**可以另设一项要求，但这不是针对机构的门槛。可要求具名有感知者在为他人实施具名行为前取得[能力许可](../../core_05.035_band_accountability.md#competency-clearance)（“执业许可”）。该要求仅附着于实施该行为；绝不阻止任何人创设、经营、加入机构或接受机构服务，也不禁止机构运营。只有同时满足以下条件才能要求：
+  - **风险认定：**技术专家论坛依据[第十三章§4.2](../../core_13.000_forum.md#42-technical-forum-domains)及**CF-10**，就具名行为类别发布认定。认定须指出，行为存在可信的因果路径，可能使无法判断或规避风险的有感知者遭受严重或不可逆的身体伤害，并说明所需能力。
   - **较轻措施不足以保护：**维持该要求的一方须证明，信息披露、登记、受保护的职称、接收或雇用该人的机构所负义务，以及对学习者的监督，都无法保护风险中的人。
   - **公开决定：**采纳该要求的文书须通过已公布且可受质疑的途径，决定该认定是否足以要求许可。论坛负责认定和制定标准；不颁发许可、不裁决个人案件，也不决定可接受的风险程度。
-  - **途径开放且不得垄断：**标准须符合[第十一章§6.2](../../core_11_standing_integration.md#62-competency-bars-and-clearances)：已公布、合乎比例且可受质疑。考试、作品档案、学徒训练、经同行核实的经验，以及其他司法辖区的许可，均作为同等证明。必须有多个独立颁发者，且不得只有一个必经途径。现任从业者不得控制标准委员会或颁发者的治理机构。
-  - **谨慎实施：**学习者可在已获许可的监督者指导下实施行为。紧急行为，或无法及时联系到获许可有感知者时的行为，不得禁止。决定须遵循[第二十六-C条](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)的时限；费用和等待不得成为障碍（[可避免负担](../../core_05_band_continuity.md#avoidable-burden)）；每次复审时要求即告失效，除非重新证明负担。复审结果须公布。
+  - **途径开放且不得垄断：**标准须符合[第十一章§6.2](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)：已公布、合乎比例且可受质疑。考试、作品档案、学徒训练、经同行核实的经验，以及其他司法辖区的许可，均作为同等证明。必须有多个独立颁发者，且不得只有一个必经途径。现任从业者不得控制标准委员会或颁发者的治理机构。
+  - **谨慎实施：**学习者可在已获许可的监督者指导下实施行为。紧急行为，或无法及时联系到获许可有感知者时的行为，不得禁止。决定须遵循[第二十六-C条](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)的时限；费用和等待不得成为障碍（[可避免负担](../../core_05.040_band_continuity.md#avoidable-burden)）；每次复审时要求即告失效，除非重新证明负担。复审结果须公布。
   - **保障：**施加要求的一方负举证责任。该要求不得妨碍取得其他工作的工资、权利底线、生存关键服务、表达、辩护或受保护举报，也不得用于针对异议者、举报者或工人组织者。能力变化应按行为本身要求的能力判断，不得仅依据残障或健康状况。
-  - **机构分类：**为他人实施此类行为的机构，依据[领域特定实质性](../../core_05_band_oversight.md#domain-specific-materiality)属于安全方面的实质性机构，因此至少为L类。许可要求不对机构分类；机构属于L类本身绝不要求取得许可。 单独或在小型执业场所实施此类行为的有感知者，可通过联合专业执业履行L类义务（**CI-4.7**，*执业许可、执业认证与联合专业执业*）。
-- **限制：**适用第五章的[创设权限制](core_05_band_participation.md#creation-rights-limits)：该权利不延伸至旨在违反[宪法约束](core_05_band_integrative.md#constitutional-constraint)、损害**安全**或**真理**，或违反[第一章 §11 市场结构](core_01_a_values_principles.md#11-market-structure)而集中权力的机构或企业。任何其他限制都必须符合[第一章 §7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)：确有必要、合乎比例、尽可能可逆，并接受监督。
+  - **机构分类：**为他人实施此类行为的机构，依据[领域特定实质性](../../core_05.050_band_oversight.md#domain-specific-materiality)属于安全方面的实质性机构，因此至少为L类。许可要求不对机构分类；机构属于L类本身绝不要求取得许可。 单独或在小型执业场所实施此类行为的有感知者，可通过联合专业执业履行L类义务（**CI-4.7**，*执业许可、执业认证与联合专业执业*）。
+- **限制：**适用第五章的[创设权限制](core_05_band_participation.md#creation-rights-limits)：该权利不延伸至旨在违反[宪法约束](core_05_band_integrative.md#宪法约束)、损害**安全**或**真理**，或违反[第一章 §11 市场结构](core_01_a_values_principles.md#11-市场结构)而集中权力的机构或企业。任何其他限制都必须符合[第一章 §7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)：确有必要、合乎比例、尽可能可逆，并接受监督。
 - **相关权利：**
   - 聚集与结社由**第十一-D条**（*集会、异议与和平抗议*）保障；
   - 在既有生产系统中组织工人，依照**第三-C条**（*劳动与经济底线*）受[集体组织](core_05_band_participation.md#collective-organization-constitutional)保障；并且
   - 创设的机构或企业对他人产生实质影响后，**第十-C条**与**第十二条**中的利益相关方权利即适用。
-- **实施：**注册、采用[系统章程](../../core_05_band_continuity.md#system-charter)和[机构章程](../../core_05_band_continuity.md#institutional-charter)、财政待遇、责任、证券监管与解散程序，依照**第十八章**的纳入纪律转至[corpus_institutions.md](../../corpus_institutions.md)。不得将该文本解读为缩限本权利。 执业许可的颁发者、等效途径、费用与复审，以及任何较低层级的执业认证，也依照**CI-4.7**（*执业许可、执业认证与联合专业执业*）办理。<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
+- **实施：**注册、采用[系统章程](../../core_05.040_band_continuity.md#system-charter)和[机构章程](../../core_05.040_band_continuity.md#institutional-charter)、财政待遇、责任、证券监管与解散程序，依照**第十八章**的纳入纪律转至[corpus_institutions.md](../../corpus_institutions.md)。不得将该文本解读为缩限本权利。 执业许可的颁发者、等效途径、费用与复审，以及任何较低层级的执业认证，也依照**CI-4.7**（*执业许可、执业认证与联合专业执业*）办理。<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
 #### 第十一-F条：结社中的不强加与同意
 
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
+- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)，以及[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
 
 </details>
 
@@ -1551,7 +1551,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)，以及[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
 
 </details>
 
@@ -1565,7 +1565,7 @@ flowchart TB
 - [不强加（合作互动）](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
 - [依赖关系](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [安全条件](core_05_band_continuity.md#safe-conditions-constitutional) · [O](core_05_band_continuity.md#safe-conditions-constitutional) · [M](core_05_band_continuity.md#safe-conditions-constitutional-a) · [A](core_05_band_continuity.md#safe-conditions-constitutional-a) · [C](core_05_band_continuity.md#safe-conditions-constitutional-c)
-- [实质影响](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [实质影响](core_05_band_oversight.md#实质影响) · [O](core_05_band_oversight.md#实质影响) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1598,7 +1598,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§15.1 宪法不得绕过原则](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle)，以及[§18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§15.1 宪法不得绕过原则](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle)，以及[§18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -1606,15 +1606,15 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
 - [治理](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
-- [基础性宪法选择](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [基础性宪法选择](core_05_band_integrative.md#基础宪法选择) · [O](core_05_band_integrative.md#基础宪法选择) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [利益相关方](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 - [利益相关方权重](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
-- [实质影响](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [实质影响](core_05_band_oversight.md#实质影响) · [O](core_05_band_oversight.md#实质影响) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [依赖关系](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [正当程序](core_05_band_accountability.md#due-process-constitutional) · [O](core_05_band_accountability.md#due-process-constitutional) · [M](core_05_band_accountability.md#due-process-constitutional-a) · [A](core_05_band_accountability.md#due-process-constitutional-a) · [C](core_05_band_accountability.md#due-process-constitutional-c)
 - [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [宪法契约层](core_05_band_integrative.md#constitutional-contract-layer) · [O](core_05_band_integrative.md#constitutional-contract-layer) · [M](core_05_band_integrative.md#constitutional-contract-layer-a) · [A](core_05_band_integrative.md#constitutional-contract-layer-a) · [C](core_05_band_integrative.md#constitutional-contract-layer-c)
+- [宪法契约层](core_05_band_integrative.md#宪法契约层) · [O](core_05_band_integrative.md#宪法契约层) · [M](core_05_band_integrative.md#constitutional-contract-layer-a) · [A](core_05_band_integrative.md#constitutional-contract-layer-a) · [C](core_05_band_integrative.md#constitutional-contract-layer-c)
 
 </details>
 
@@ -1637,7 +1637,7 @@ flowchart TB
 *相邻条文：*
 
 - **两个治理层次：**第五章的[治理](core_05_band_accountability.md#governance)包括：
-  - （1）**宪法契约层**——谁可治理、依何种正当性机制治理，以及依据何种持久条款治理（[基础性宪法选择](core_05_band_integrative.md#foundational-constitutional-choice)）；以及
+  - （1）**宪法契约层**——谁可治理、依何种正当性机制治理，以及依据何种持久条款治理（[基础性宪法选择](core_05_band_integrative.md#基础宪法选择)）；以及
   - （2）**利益相关方系统参与**——在已获授权、针对特定系统、机构或有限决策领域的结构、规则与流程内，作出实质影响权利的决定。
 - **本条范围：**第二层——识别[利益相关方](core_05_band_participation.md#stakeholder)，并为受某领域运作影响者提供合乎比例的利益相关方参与途径——由以下条文处理：
   - **第十二条**（*利益相关方的系统参与、代表与正当程序*）——本条；
@@ -1650,8 +1650,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 配合阅读：[宪法四元组](core_00_preamble.md#constitutional-tetrad)——**参与**环节（利益相关方系统参与层）；[实质利害关系](core_00_preamble.md#material-stake)的调整；[实质约束性行为记录](core_05_band_accountability.md#materially-binding-act-record)与[第七章 §7 行为记录、可归责移交与错误席位路由](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)。
+- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 配合阅读：[宪法四元组](core_00_preamble.md#constitutional-tetrad)——**参与**环节（利益相关方系统参与层）；[实质利害关系](core_00_preamble.md#material-stake)的调整；[实质约束性行为记录](core_05_band_accountability.md#materially-binding-act-record)与[第七章 §7 行为记录、可归责移交与错误席位路由](core_07_functional_independence_segregation_of_duties.md#8-行为记录与可归责交接)。
 - 层次：**利益相关方系统参与（SSP）**，区别于授权性的**宪法契约层（CCL）**。
 
 </details>
@@ -1696,7 +1696,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -1718,7 +1718,7 @@ flowchart TB
 
 - **范围：**本条与**第十-B条**（*治理参与与投票资格*）分层适用。本条加权规则：
   - **适用于**由[利益相关方权重](core_05_band_participation.md#stakeholder-weight)支配的情形——即在已获授权、适用于**相关系统、机构或有限决策领域**的[治理](core_05_band_accountability.md#governance)**结构、规则、权力分配与流程之内**，作出实质影响权利的决定；
-  - **不授权**对[基础性宪法选择](core_05_band_integrative.md#foundational-constitutional-choice)按影响、依赖或利害关系比例**加权投票**（**第十-B条**（*治理参与与投票资格*）；[**第十三章 §4.1 资格与认定**](core_13_governance.md#41-entitlement-and-eligibility)）。
+  - **不授权**对[基础性宪法选择](core_05_band_integrative.md#基础宪法选择)按影响、依赖或利害关系比例**加权投票**（**第十-B条**（*治理参与与投票资格*）；[**第十三章 §4.1 资格与认定**](core_13_governance.md#41-entitlement-and-eligibility)）。
 - **加权参与限制：**参与加权可以考虑：
   - 影响；
   - 依赖关系；
@@ -1738,7 +1738,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[§18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[§18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
@@ -1782,8 +1782,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
-- 配合阅读：[系统俘获](core_05_band_continuity.md#system-capture)；[反俘获](core_05_band_continuity.md#anti-capture)；[第七章：职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)。
+- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
+- 配合阅读：[系统俘获](core_05_band_continuity.md#system-capture)；[反俘获](core_05_band_continuity.md#anti-capture)；[第七章：职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)。
 
 </details>
 
@@ -1793,7 +1793,7 @@ flowchart TB
 - [系统俘获](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [反俘获](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
 - [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [可审计性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [可审计性](core_05_band_oversight.md#可审计性) · [O](core_05_band_oversight.md#可审计性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1809,9 +1809,9 @@ flowchart TB
   - 结构性俘获。
 
   影响力集中——包括隐蔽或间接转移的控制——若缺乏可审计性或质疑途径，即属不合规，并涉及**第十一、十四和十五条**。
-- **职责分离：**[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)（*职能独立与职责分离*）为每项实质约束性行为规定职责分离底线：
-  - 启动、批准、记录与质疑该行为的席位须彼此不同（[§2 四席宪法底线](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)）；
-  - 席位须独立于控制行为主体者（[§3 独立性、利益冲突与控制关系](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)）。
+- **职责分离：**[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)（*职能独立与职责分离*）为每项实质约束性行为规定职责分离底线：
+  - 启动、批准、记录与质疑该行为的席位须彼此不同（[§2 四席宪法底线](core_07_functional_independence_segregation_of_duties.md#2-四席宪法底线)）；
+  - 席位须独立于控制行为主体者（[§3 独立性、利益冲突与控制关系](core_07_functional_independence_segregation_of_duties.md#3-独立利益冲突与控制线)）。
 
 若同一有感知者、职务或集团占据本应分离的席位，或控制占据这些席位者，也构成本条所指结构性俘获的迹象。
 
@@ -1820,20 +1820,20 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游依据：原则：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 管护纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)和[§19 激励协调与系统俘获](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)。
-- 联读：[第十二条-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）；[第十二条-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）；[第十条-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵*）；[第九条-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像与声誉的自我所有权*）；[第十三条-E](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）；[第十五条](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）；[第十一章 §5.3](../../core_12_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*信息空间泛滥与封堵争议途径*）、[§5.4](../../core_12_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域泛滥*）和[§5.5](../../core_12_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)；[第十三章 §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)（*资格、竞争性遴选与民主最低标准*）。
+- 上游依据：原则：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 管护纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)和[§19 激励协调与系统俘获](core_01_c_stewardship_capacity_principles.md#19-激励协调与系统俘获)。
+- 联读：[第十二条-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）；[第十二条-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）；[第十条-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵*）；[第九条-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像与声誉的自我所有权*）；[第十三条-E](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）；[第十五条](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）；[第十一章 §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*信息空间泛滥与封堵争议途径*）、[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域泛滥*）和[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)；[第十三章 §1.2](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [系统俘获](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [反俘获](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [可争议性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [可审计性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [程序公正](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [利害关系方](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+- [系统俘获](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
+- [反俘获](../../core_05.040_band_continuity.md#anti-capture) · [O](../../core_05.040_band_continuity.md#anti-capture) · [M](../../core_05.040_band_continuity.md#anti-capture-a) · [A](../../core_05.040_band_continuity.md#anti-capture-a) · [C](../../core_05.040_band_continuity.md#anti-capture-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [可审计性](../../core_05.050_band_oversight.md#auditability) · [O](../../core_05.050_band_oversight.md#auditability) · [M](../../core_05.050_band_oversight.md#auditability-a) · [A](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
+- [程序公正](../../core_05.055_band_participation.md#procedural-fairness) · [O](../../core_05.055_band_participation.md#procedural-fairness) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [利害关系方](../../core_05.035_band_accountability.md#interested-party) · [O](../../core_05.035_band_accountability.md#interested-party) · [M](../../core_05.035_band_accountability.md#interested-party-a) · [A](../../core_05.035_band_accountability.md#interested-party-a) · [C](../../core_05.035_band_accountability.md#interested-party-c)
 
 </details>
 
@@ -1857,21 +1857,21 @@ flowchart TB
 
 - **防俘获底线：**[**第十二条-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）涵盖组成、利益冲突、回避、外部审查和免职。本条补充利害关系方接触这些机构的规则。
 - **参与权重：**[**第十二条-B**](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）禁止象征性参与。本条同样不将接触数量视为支持。
-- **系统与信息：**[**第十三条-E**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）要求系统遵守与其他主体相同的规则；[**第十五条**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）涵盖共享信息环境。
-- **遴选资金：**[**第十三章 §1.2**](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)（*资格、竞争性遴选与民主最低标准*）规定通过竞选、提名或竞争性任命进行遴选时的资金边界。
+- **系统与信息：**[**第十三条-E**](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）要求系统遵守与其他主体相同的规则；[**第十五条**](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）涵盖共享信息环境。
+- **遴选资金：**[**第十三章 §1.2**](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）规定通过竞选、提名或竞争性任命进行遴选时的资金边界。
 
 本条规定以下底线：
 
 - **范围：**这些底线适用于受涵盖机构、其**任命机关**及**采纳机构**。要求按实质利害相称调整。提交至某事项公开记录的文件不属于影响接触；它本身就是记录。
-- **影响接触边界：**受涵盖机构、其**任命机关**及**采纳机构**必须公布**影响接触**规则。影响接触是指[**利害关系方**](../../core_05_band_accountability.md#interested-party)为影响待决或可预见事项，在该事项公开记录之外接触成员、委员、工作人员、主持人或简报信息来源。规则按实质利害相称调整，且至少必须：
+- **影响接触边界：**受涵盖机构、其**任命机关**及**采纳机构**必须公布**影响接触**规则。影响接触是指[**利害关系方**](../../core_05.035_band_accountability.md#interested-party)为影响待决或可预见事项，在该事项公开记录之外接触成员、委员、工作人员、主持人或简报信息来源。规则按实质利害相称调整，且至少必须：
   - **记录**每次重要影响接触：接触者、时间、渠道、涉及事项，以及所请求或提议内容的摘要；
-  - 将记录存放在独立于被接触成员、委员或工作人员的席位中（[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)）；
+  - 将记录存放在独立于被接触成员、委员或工作人员的席位中（[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)）；
   - **披露**事项记录中的重要接触，且留出其他参与者回应的时间；
   - 将证据和论点保留在公开记录中：决策不得依赖私人接触所提供的证据或论点；
   - 将任何礼物、利益或未来职位提议，以及任何威胁，视为必须披露、拒绝并依照**CI-5**（*利益冲突完整性、反俘获与反腐败*）转交处理的利益冲突，而非普通接触；并且
   - 保护在记录中提出的公开倡议、请愿和公众意见，以及受影响有感知者接触必须听取其意见的机构的权利。不得利用这些规则限制受影响有感知者谈论自身利害。
 - **离任后及未来职位冲突：**
-  - **未来职位冲突：**当某利害关系方的事项正在成员、委员或工作人员面前审理时，与该[**利害关系方**](../../core_05_band_accountability.md#interested-party)讨论之后的职位、工作、合同或利益即构成冲突。必须披露，且该成员、委员或工作人员必须回避，直至独立席位解除该冲突。
+  - **未来职位冲突：**当某利害关系方的事项正在成员、委员或工作人员面前审理时，与该[**利害关系方**](../../core_05.035_band_accountability.md#interested-party)讨论之后的职位、工作、合同或利益即构成冲突。必须披露，且该成员、委员或工作人员必须回避，直至独立席位解除该冲突。
   - **离任后规则：**受涵盖机构及**采纳机构**还必须公布与实质利害相称的离任后规则。这些规则禁止接受利害关系方提供的、与本人处理过的事项相关的职位或利益，直至冷却期届满，或独立席位通过已公布的决定准许该提议。
   - **默认冷却期：**自成员、委员或工作人员最后参与该事项之日起**五年**。
   - **变更：**采纳机构可以规定更长的期限。只有在实质利害较低时，才可以规定较短期限，并且必须公布理由。
@@ -1884,7 +1884,7 @@ flowchart TB
   - **渠道：**受涵盖机构必须公布经身份验证的公开意见渠道。机构可以限制频率、去除重复内容，并搁置违反这些规则的意见。禁止通过任何私人渠道自动接触成员、委员、工作人员、主持人或简报信息来源。
   - **决策一方使用的系统：**机构使用系统接收、分类、总结或起草决策内容时，试图引导该系统而非告知决策者的接触属于影响接触。这包括提交材料中隐藏的指令、投毒数据以及为操纵排序而制作的内容。机构必须将提交材料视为证据而非指令，使每项输出均可追溯到来源记录，并披露哪些输入材料到达了为决策提供信息的系统。利害关系方的系统与机构系统之间的接触，须按有感知者之间接触的同一方式记录。
   - **责任：**利害关系方和部署系统的运营者均须对接触负责。若其无视明显风险，不知情不得作为抗辩。
-- **随机抽选机构：**随机抽选机构的成员适用这些底线中最严格的等级。除依照[第十三章](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)通过公开简报记录进行外，禁止就事项与其私下接触。
+- **随机抽选机构：**随机抽选机构的成员适用这些底线中最严格的等级。除依照[第十三章](core_12_governance.md#12-资格可争议选拔与民主最低限度)通过公开简报记录进行外，禁止就事项与其私下接触。
 - **执行与转交：**
   - **完整性触发事项：**隐瞒影响接触、利益提议和伪造声音，均作为完整性触发事项，依照**CI-5**（*利益冲突完整性、反俘获与反腐败*）和**CJS-3.6**（*完整性保障与韧性运作*）转交处理。
   - **不当行为途径：**故意或鲁莽地以不真实声音泛滥，或实施贿赂及不当利益交换，在依照**第二至第四章**证实并符合**第十一章**所列标准时，可以被指控为**违宪不当行为**。

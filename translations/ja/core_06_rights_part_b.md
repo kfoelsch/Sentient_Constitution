@@ -122,7 +122,7 @@ flowchart TB
 
 本条は、**第VI-A条から第VI-D条**にわたり、平等な基本的権利の**憲法上の最低基準**を定めます。**第VI-A条**（*尊厳と道徳的地位の平等*）は、誰が平等な地位を持つか、すなわちすべてのセンティエントを定めます。**第VI-B条**（*センティエント資格判定の最低基準*）は、その資格が争われる場合の判定方法を定めます。次の三要件は、**第VI条**（*平等な基本的権利*）全体に適用され、また、制限、拘束、修復的な説明責任措置、緊急措置、移行計画、当事者適格への影響、改正、実施判断、契約、その他同等の憲法上の手続について、それらを課し、審査し、実行する際にも適用されます。
 
-- [**尊厳の原則**](core_01_b_interaction_interpretation.md#dignity-principles) — [権利最低基準の原則](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)および[品位を損なう手続の禁止原則](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)
+- [**尊厳の原則**](core_01_b_interaction_interpretation.md#尊厳の諸原則) — [権利最低基準の原則](core_01_b_interaction_interpretation.md#権利の最低保障原則)および[品位を損なう手続の禁止原則](core_01_b_interaction_interpretation.md#尊厳を損なう手続の禁止原則)
 - **差別禁止**：**第VI-C条**（*差別禁止*）に基づく
 - **アクセシビリティ**：**第VI-D条**（*アクセシビリティ*）に基づく
 
@@ -144,7 +144,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上流：原則：第一章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§6.1.4 尊厳の原則](core_01_b_interaction_interpretation.md#dignity-principles)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上流：原則：第一章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§6.1.4 尊厳の原則](core_01_b_interaction_interpretation.md#尊厳の諸原則)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 併読：[**Def.P1** *動物の生命、感知者の生命および感知者の地位*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)（第五章における*感知者*および関連する感知者の地位の規律の正規O/M/A/C所在。[感知者](core_05_band_participation.md#sentient)の項目を含む）；[感知者の排除禁止](core_05_band_participation.md#sentience-non-exclusion)（[基盤に依存しない](core_05_band_participation.md#substrate-agnostic)適用範囲）。
 
 </details>
@@ -170,13 +170,13 @@ flowchart TB
   - これらの性質は、出自、形態、[基盤](core_05_band_participation.md#substrate-class)（生物学的、合成的または混合）、能力、機能、関係性または地位に左右されない。
   - これらの要因のいずれも、権利または地位の否定や引き下げの根拠としてはならない。
 - **発達段階にある地位：**感知者の発達段階（初期実装を含む）は、その尊厳または地位を低下させない。能力が形成途上にある感知者についての意思決定は、**第VIII-D条**（*発達途上の感知者、最善の利益および段階的能力*）が規律する。
-- **尊厳の原則：**これらの保護は、第一章 §13.1.4（*憲法上の最低基準、安全性およびプロセスの性質に関する制約*）の[尊厳の原則](core_01_b_interaction_interpretation.md#dignity-principles)によって絶対的な最低基準として保障される。すなわち、[権利の床の最低基準原則](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle)および[品位を損なうプロセスを禁ずる原則](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)である。
+- **尊厳の原則：**これらの保護は、第一章 §13.1.4（*憲法上の最低基準、安全性およびプロセスの性質に関する制約*）の[尊厳の原則](core_01_b_interaction_interpretation.md#尊厳の諸原則)によって絶対的な最低基準として保障される。すなわち、[権利の床の最低基準原則](core_01_b_interaction_interpretation.md#権利の最低保障原則)および[品位を損なうプロセスを禁ずる原則](core_01_b_interaction_interpretation.md#尊厳を損なう手続の禁止原則)である。
 <a id="article-vi-b-sentience-status-adjudication-floor"></a>
 #### 第VI-B条：感知者の地位に関する裁定の最低基準
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上流：原則：第一章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.1 中核的な衡量原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality)。
+- 上流：原則：第一章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.1 中核的な衡量原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例性)。
 - 下流：**第VI-A条**（*尊厳と道徳的地位の平等*）の尊厳の最低基準、**第XXIV条**（*憲法解釈、審査および乗っ取り防止の保障*）の乗っ取り防止の保障、**第十二章**のフォーラムおよび管轄権 — 原則的な担当は、[技術フォーラム群](core_05_band_accountability.md#forum-family-technical)／[技術フォーラムの領域](core_12_forum.md#42-technical-forum-domains)、[第十二章 §5 感知者の地位に関する裁定の接続規定](core_12_forum.md#5-escalation-and-certification)による。
 - 併読：第五章の*感知者の地位に関する裁定*、*感知者の排除禁止*、*感知者評価*、*可逆性*、*争訟可能性*。
 
@@ -217,9 +217,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠と連関</span></strong></summary>
 
-- 上流：原則：第一章 [§3.1 公正](core_01_a_values_principles.md#31-fairness)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、および[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 上流：原則：第一章 [§3.1 公正](core_01_a_values_principles.md#31-fairness)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、および[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 - 下流：参加測定群（*実質的公正、保護特性の代理指標化および不均衡な影響*）；[第八章 §3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation)（*認証が分類、順位付け、価格設定、利用制限または負担配分の条件となる場合の差別禁止評価*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)のフォーラム、行政および執行の手続（*裁定および運用上の義務*）。
-- あわせて読む：第五章の[保護特性](core_05_band_participation.md#protected-characteristics-constitutional)および[言語、文化、遺産](core_05_band_continuity.md#language-culture-and-heritage-constitutional)；先住民の継続性および領域の継続性に関する問いについては、第五章の[先住民の継続性](core_05_band_continuity.md#indigenous-continuity-constitutional)（*コミュニティに根ざした権利の床；所管する床は**Article VI-C**（差別の禁止）および**Article I-A**（環境上の前提条件と生態系の完全性）*）を参照する。これらの問いは[Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)（*生態系の完全性という前提条件*）および[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*採用主体の管轄規律*）に導かれる。
+- あわせて読む：第五章の[保護特性](core_05_band_participation.md#protected-characteristics-constitutional)および[言語、文化、遺産](core_05_band_continuity.md#language-culture-and-heritage-constitutional)；先住民の継続性および領域の継続性に関する問いについては、第五章の[先住民の継続性](core_05_band_continuity.md#indigenous-continuity-constitutional)（*コミュニティに根ざした権利の床；所管する床は**Article VI-C**（差別の禁止）および**Article I-A**（環境上の前提条件と生態系の完全性）*）を参照する。これらの問いは[Article I-A](core_06_rights_part_a.md#article-i-a環境的前提条件と生態的誠実性)（*生態系の完全性という前提条件*）および[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*採用主体の管轄規律*）に導かれる。
 
 </details>
 
@@ -264,9 +264,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上流：原則：第一章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 平易な言葉によるアクセシビリティ](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上流：原則：第一章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 平易な言葉によるアクセシビリティ](core_01_a_values_principles.md#52-平易な言葉によるアクセシビリティ参加および責任管理の義務)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 下流：**第VI-A条**（*尊厳と道徳的地位の平等*）の尊厳の最低基準、**第VI-C条**（*差別禁止*）の裁定および運用における差別禁止と完全な包摂、**第IV-A条**（*教育への平等なアクセス*）の教育への平等なアクセス（重複なし。教育固有のアクセシビリティは同条が扱い、本条は分野横断的な権利の床を定める）、**第X-B条**（*統治参加と投票資格*）の統治参加、**第XII条**（*利害関係者のシステム参加、代表および適正手続*）の利害関係者参加、**第XVI条**（*監査、透明性および独立検証*）の独立検証、参加測定群（*憲法上の測定としてのアクセシビリティ*）、[第八章 §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation)（*認証が実質的な参加の条件となる場合のアクセシビリティ評価*）。
-- 併読：第五章の*アクセシビリティ*、*保護特性*、*実質的公正*、*実質的利害*、*依存*、*意味ある主体性*。分野横断的なアクセシビリティ原則：[第一章 §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)（*平易な言葉によるアクセシビリティ*）。
+- 併読：第五章の*アクセシビリティ*、*保護特性*、*実質的公正*、*実質的利害*、*依存*、*意味ある主体性*。分野横断的なアクセシビリティ原則：[第一章 §5.2](core_01_a_values_principles.md#52-平易な言葉によるアクセシビリティ参加および責任管理の義務)（*平易な言葉によるアクセシビリティ*）。
 
 </details>
 
@@ -330,7 +330,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上流：原則：第一章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全性](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§18 責務ある管理の規律に基づく統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上流：原則：第一章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全性](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§18 責務ある管理の規律に基づく統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 
 </details>
 
@@ -396,10 +396,10 @@ flowchart TB
 - **公衆衛生上の要件：**ワクチン接種義務、または予防治療や検査を受ける同様の要件は、医療を拒否する権利を制限する。そのような要件は、[第一章 §7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)を満たし、さらに以下のすべての条件を満たす場合に限り認められる。
   - 感知者自身だけに及ぶ危険ではなく、他者または社会全体への重大な危害について、具体的で証拠に基づく危険に対応すること；
   - 情報提供、措置の任意実施、検査などの代替手段を認めるなど、合理的に有効なより穏当な方法を先に試すこと；
-  - その措置自体が現実の健康リスクとなる者を免除し、[**第XI-A条**](#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)（*良心、宗教および同等の世界観の自由*）に基づく良心上の事情に配慮すること。いずれも[比例性](core_05_band_accountability.md#proportionality)に従い、免除は他者への危険の大きさと衡量し、措置を無効化しないために必要な範囲でのみ狭められること；
+  - その措置自体が現実の健康リスクとなる者を免除し、[**第XI-A条**](#第xi-a条良心宗教ならびに同等の世界観の自由)（*良心、宗教および同等の世界観の自由*）に基づく良心上の事情に配慮すること。いずれも[比例性](core_05_band_accountability.md#proportionality)に従い、免除は他者への危険の大きさと衡量し、措置を無効化しないために必要な範囲でのみ狭められること；
   - 終了日を定め、根拠となる証拠を公表し、定期的に見直すこと；
   - 影響を受ける者が誰でも、[手続的公正](core_05_band_participation.md#procedural-fairness-constitutional)に基づき独立した審査者に異議を申し立てられること；および
-  - [**第III条**](core_06_rights_part_a.md#article-iii-survival-and-essential-access)の生存、医療、就労の保障、または[**第IV条**](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)の教育の保障を奪う制裁によって執行されないこと。また[**第十二章 §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden)（*緊急措置と継続の立証責任*）の緊急基準に該当する場合を除き、物理的な力によって執行されないこと。
+  - [**第III条**](core_06_rights_part_a.md#article-iii-生存と不可欠なアクセス)の生存、医療、就労の保障、または[**第IV条**](core_06_rights_part_a.md#article-iv-感知者中心の教育を受ける権利)の教育の保障を奪う制裁によって執行されないこと。また[**第十二章 §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden)（*緊急措置と継続の立証責任*）の緊急基準に該当する場合を除き、物理的な力によって執行されないこと。
 <a id="article-vii-b-self-ownership-of-mind"></a>
 #### 第VII-B条：心の自己所有
 <details>
@@ -434,7 +434,7 @@ flowchart TB
     - 内的状態を推測または再構成するため、監視、データ収集、専用ツールなどによって感知者を意図的に監視または分析すること；
     - 本人が秘匿している内的状態を明らかにすること。
 - **集中の自己所有：**すべての感知者は、自らの注意と思考を管理し、誰がどのように連絡できるかについて通常の境界を定める権利を有する。圧力や操作によって注意を奪ったり乗っ取ったりしてはならない。
-- **データから内面を再構成することの禁止：**感知者の行為や交流の記録を、本人の私的な思考や感情を再構成または推定できる形で収集、結合、照合、分析してはならない。例外は、本条、**第一章**、**第五章**および**CS-2**（*情報の種類と取扱い*）に基づき本憲法が認めるものに限る。この禁止は、内的状態にも[第一章 §15.1.2 派生情報の原則](core_01_b_interaction_interpretation.md#1512-derived-information-principle)を適用する。禁止対象には次を含む。
+- **データから内面を再構成することの禁止：**感知者の行為や交流の記録を、本人の私的な思考や感情を再構成または推定できる形で収集、結合、照合、分析してはならない。例外は、本条、**第一章**、**第五章**および**CS-2**（*情報の種類と取扱い*）に基づき本憲法が認めるものに限る。この禁止は、内的状態にも[第一章 §15.1.2 派生情報の原則](core_01_b_interaction_interpretation.md#1512-派生情報原則)を適用する。禁止対象には次を含む。
   - 内的状態を直接再構成すること；
   - 内的状態を間接的に再構成すること；
   - 信頼性の高い推定を生成すること；
@@ -448,7 +448,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上流：原則：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)。
+- 上流：原則：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例性)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)。
 - 下流：**第VII-A条／第VII-B条**（*身体の自己所有*／*心の自己所有*）の自己所有と内的状態の境界、**第III-B条**（*身体の維持と医療へのアクセス*）の医療アクセス、**第XX条**（*違反確認後の正義*）／**第XX-B条**（*制限の最低基準*）の非自発的剥奪の枠組み、発達途上の感知者が影響を受ける場合の**第VIII-D条**（*発達途上の感知者、最善の利益および段階的能力*）の最善の利益と段階的能力。
 - 併読：第五章の*身体の維持へのアクセス*、*最善の利益基準*、*段階的能力*、*手続的公正*、*可逆性*、*救済と是正*。
 
@@ -509,7 +509,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：原則： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)。
+- 上流：原則： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例性)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)。
 - 下流：**第VII-A条／第VII-B条**（*身体の自己所有*／*心の自己所有*）の自己所有および内的状態の境界、**第X-A条**（*主体性と操作からの自由*）、**第XX-B条**（*制限の下限*）、および**第XI-F条**（*関係における不強制と同意*）の同意。
 - 関連して読む：第5章 *自発的終結*、*[不可逆的剥奪の尺度](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*、*同意*、*強制と操作*、*手続的公正*；**第III-A条**（*生存*）、**第III-B条**（*身体の維持と医療へのアクセス*）、**第VII-C条**（*健康危機と非自発的介入の下限*）。
 
@@ -570,7 +570,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：原則：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的トレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、および[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 上流：原則：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的トレードオフ原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、および[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 
 </details>
 
@@ -635,7 +635,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：原則：第一章[§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、および[§18 スチュワードシップ規律に基づく統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上流：原則：第一章[§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、および[§18 スチュワードシップ規律に基づく統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 
 </details>
 
@@ -807,7 +807,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：原則：第一章[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality)。
+- 上流：原則：第一章[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例性)。
 - 下流：**第VI-A条**（*尊厳と平等な道徳的地位*）の尊厳の下限、**第VII-A条／第VII-B条**（*身体の自己所有*／*心の自己所有*）の自己所有および内的状態の境界、**第VIII-A条**（*家族関係とケア関係*）、**第VIII-E条**（*分離の禁止*）、発達中の感知者に関する下限、および[**第十三章 §4.1**](core_13_governance.md#41-entitlement-and-eligibility)（*権利付与と適格性*）の年齢を資格剥奪の代理指標に用いない原則。
 - 関連して読む：[*Def.P4 発達中の感知者、最善の利益基準、段階的能力*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)（発達段階、最善の利益、段階的能力の共同適用の中心）；派生や初期インスタンス化のケアが重大に関わる場合は[*派生・発達中の感知者、インスタンス化、ケア権限*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)；第五章 *発達中の感知者*、*最善の利益基準*、*段階的能力*；関連する条項：初期の感知性判定は**第VI-B条**（*感知性の地位認定の下限*）、家族・ケア関係は**第VIII-A条**、派生・インスタンス化・親システムの限界は**第VIII-C条**、養育者や家族からの分離は**第VIII-E条**、自己所有は**第VII-A条／第VII-B条**（*身体の自己所有*／*心の自己所有*）、内的状態の保護は**第VII-B条**および**CS-2 — 情報の種類と取扱い**を参照。
 
@@ -822,7 +822,7 @@ flowchart TB
 - [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [手続的公正](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [監査可能性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [監査可能性](core_05_band_oversight.md#監査可能性) · [O](core_05_band_oversight.md#監査可能性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [異議申立可能性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [救済と是正](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 
@@ -862,7 +862,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：原則：[第一章 §7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-proportionality)（不確実性下の可逆性）、[§13.1.5 最小限で、期間が限定され、審査可能な制約の原則](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
+- 上流：原則：[第一章 §7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例性)（不確実性下の可逆性）、[§13.1.5 最小限で、期間が限定され、審査可能な制約の原則](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
 - 下流：**第VIII-A条**（*家族関係とケア関係*）で保護される関係、**第VIII-C条**（*派生、インスタンス化、親システムとの関係*）の派生事例、**第VIII-D条**（*発達中の感知者、最善の利益および段階的能力*）の発達中の感知者と養育者、**第XIII-E条／第XIII-F条**の権利の下限の継続性、第十二章の定期審査。
 - 関連して読む：[家族、ケア、生殖の自律、インスタンス化](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（トピック群の中心）；第五章 *分離の禁止*。
 
@@ -903,7 +903,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：原則：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[§18 スチュワードシップ規律に基づく統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上流：原則：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)、[§18 スチュワードシップ規律に基づく統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 
 </details>
 
@@ -932,7 +932,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：第1章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)。
+- 上位原則：第1章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-認識上の開示に関する制約)。
 
 </details>
 
@@ -942,7 +942,7 @@ flowchart TB
 - [肖像および記録的描写インターフェース](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [O](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [M](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [A](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [C](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-c)
 - [プライバシー（情報）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
 - [誠実性](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [真実（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [異議申立可能性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -975,7 +975,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
+- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-認識上の開示に関する制約)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 
 </details>
 
@@ -1024,7 +1024,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位原則：[第1章 §5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-認識上の開示に関する制約)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1032,9 +1032,9 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [誠実性](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [真実（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [真実（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [プライバシー（情報）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [認識上の完全性](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [認識上の完全性](core_05_band_oversight.md#認識的誠実性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -1071,7 +1071,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§9.1 生産能力（手段的善）](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)、[第1章 §13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[第1章 §18 責任ある管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位原則：[第1章 §5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§9.1 生産能力（手段的善）](core_01_a_values_principles.md#91-生産能力手段的善)、[第1章 §13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-回避可能な負担の最小化)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[第1章 §18 責任ある管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 - 下流規定：**第III-C条**（*労働と経済の最低基準*）の労働・経済の最低基準、**第IX-A条**（*肖像および評判に対する自己所有権*）の肖像、**第IX-B条**（*経験データおよび派生データに関する権利*）の経験データと派生データ、**第IX-C条**（*真実に基づく公開と影響の大きい公開の制限*）の公開、第1章 **§11**の集中防止および**§13.1**の集中閾値メカニズム。
 - 次と併せて読むこと：[**Def.C1** *労働と経済の最低基準：報酬、組織、安全な条件、余暇、創作労働*](core_05_band_continuity.md#labor-and-economic-floor-cluster)（**第III-C条**（*労働と経済の最低基準*）、**第III-D条**（*安全な労働条件*）、**第III-E条**（*休息と回復*）と併せて適用）、および実質的に関係する場合の[**Def.C3**（*プライバシー（情報）*）](core_05_band_continuity.md#privacy-informational-cluster)。
 
@@ -1123,7 +1123,7 @@ flowchart TB
     - 誰かの情報が露出または再利用されうる場合の**プライバシー（情報）**の規則
   - 創作者が、作品の利用目的、利用期間、後日の再利用の可否、同意の撤回方法を知っている場合に限り、同意は有効です。
   - 素材を「個人データではない」と呼んでも、同意の必要性はなくなりません。
-  - システムが学習した内容を使って誰かの私的な考えや感情を推測することは、[**第VII-B条**](#article-vii-b-self-ownership-of-mind)（*心に対する自己所有権*）の対象です。
+  - システムが学習した内容を使って誰かの私的な考えや感情を推測することは、[**第VII-B条**](#第vii-b条心の自己所有)（*心に対する自己所有権*）の対象です。
 - **排除に対する保護：** AI、自動化、類似システムの導入によって創作労働者が実質的に排除されることがあります。仕事、報酬、クレジットが減ったり、生計を立てられなくなったりする場合です。その場合、[排除防止の最低基準](core_05_band_continuity.md#anti-displacement-floor-constitutional)が、**第III-C条**（*労働と経済の最低基準*）および**第1章 §11**（*市場構造*）の市場集中制限と併せて適用されます。
   - 変更が全体の生産性、効率性、イノベーションを高めるというだけでは不十分です。
   - 大規模導入によって創作者のグループの創作労働が持続不能になると予想される場合、対応策は実質的な効果をもたらさなければなりません。例：
@@ -1131,7 +1131,7 @@ flowchart TB
     - 別の仕事への移行支援
     - クレジットおよびライセンスの取り決め
     - システムが生み出す価値の分配
-- **市場集中：** 少数の事業者が素材、プラットフォーム、情報の流れ、創作ツールを支配すると、創作者が排除されることもあります。その支配によって他の創作者の生計やクレジットを得る能力が損なわれると予想される場合、**第1章 §11**（*市場構造*）の集中制限が適用されます。これには**[第1章 §11.1 市場集中閾値メカニズム（採択者による調整可能）](core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)**も含まれます。
+- **市場集中：** 少数の事業者が素材、プラットフォーム、情報の流れ、創作ツールを支配すると、創作者が排除されることもあります。その支配によって他の創作者の生計やクレジットを得る能力が損なわれると予想される場合、**第1章 §11**（*市場構造*）の集中制限が適用されます。これには**[第1章 §11.1 市場集中閾値メカニズム（採択者による調整可能）](core_01_a_values_principles.md#111-市場集中閾値メカニズム採択主体による調整可)**も含まれます。
   - 取り決めを「生産能力」と呼んでも、§14が禁じる種類の集中に該当するなら、容認されることにはなりません。
 - **公正な報酬：** **第III-C条**（*労働と経済の最低基準*）の[公正な報酬](core_05_band_continuity.md#fair-compensation-constitutional)基準は、どのような存在が作った創作物にも適用されます。従来型の雇用、プラットフォーム、新しい取り決めのいずれを通じて支払われるかも問いません。
   - 創作者は、本名でも筆名でも、報酬とクレジット表示の両方を受ける権利があります。一方を与えても他方の欠如は補えません。
@@ -1144,7 +1144,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13 憲法上の衝突解決プロセス](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[§19 インセンティブの整合とシステムの掌握](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)、[§11 市場構造](core_01_a_values_principles.md#11-market-structure)。
+- 上位原則：[第1章 §4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13 憲法上の衝突解決プロセス](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)、[§19 インセンティブの整合とシステムの掌握](core_01_c_stewardship_capacity_principles.md#19-インセンティブの整合とシステムの乗っ取り)、[§11 市場構造](core_01_a_values_principles.md#11-市場構造)。
 
 </details>
 
@@ -1180,13 +1180,13 @@ flowchart TB
 - **利害関係者参加と投票の最低基準：** **第XII条**（*利害関係者のシステム参加、代表、適正手続*）は、分野別統治について、本条の利害関係者参加と基本投票の最低基準を発展させますが、認可段階での平等な重みの規則に取って代わるものではありません。
 - **第5章の定義：** [自己決定](core_05_band_participation.md#self-determination-constitutional)と[監視の境界](core_05_band_continuity.md#surveillance-boundary)は第5章で定義されます。
 - [安全（憲法上の制約）](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [認識上の完全性](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [認識上の完全性](core_05_band_oversight.md#認識的誠実性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 <a id="article-x-a-agency-and-freedom-from-manipulation"></a>
 #### 第X-A条：主体性と操作からの自由
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§18 責任ある管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§18 責任ある管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 
 </details>
 
@@ -1220,7 +1220,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
 
 </details>
 
@@ -1230,7 +1230,7 @@ flowchart TB
 - [参加者としての資格](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
 - [利害関係者の重み](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
 - [統治](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
-- [文書化された正当性メカニズム](core_05_band_integrative.md#documented-legitimacy-mechanism) · [O](core_05_band_integrative.md#documented-legitimacy-mechanism) · [M](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [A](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [C](core_05_band_integrative.md#documented-legitimacy-mechanism-c)
+- [文書化された正当性メカニズム](core_05_band_integrative.md#文書化された正統性の仕組み) · [O](core_05_band_integrative.md#文書化された正統性の仕組み) · [M](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [A](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [C](core_05_band_integrative.md#documented-legitimacy-mechanism-c)
 
 </details>
 
@@ -1242,9 +1242,9 @@ flowchart TB
 
 - **投票権：** 感覚ある存在は、権限の付与方法を決める**統治投票**およびその他の**拘束力ある集団的選択**に投票する権利を有します。詳細は[第13章 §4.1 権利と適格性](core_13_governance.md#41-entitlement-and-eligibility)に定められています。
   - **投票できる人：** 公開された適格基準を満たす者は誰でも投票できます。唯一の例外は、統治投票を特に禁止する[参加資格ロック](core_05_band_accountability.md#standing-lock)であり、**第XIX-A条**（*参加資格の区別*）および**第XIX-C条**（*指定経路の適格性、責任、継続的監査*）に従って適用されます。
-  - **利害関係者の意見とは別の権利：** この投票権は、既設システムの運営について利害関係者が意見を述べる権利とは別であり、その権利は[**第X-C条**](#article-x-c-stakeholder-role-and-participation-rights)（*利害関係者の役割および参加の権利*）が定めます。一方に対するロックが他方をロックすることはありません。
-  - **地域ごとの規則：** 各採択者が権限を付与するために記録した手続（その[文書化された正当性メカニズム](core_05_band_integrative.md#documented-legitimacy-mechanism)）および指定所有者が定める追加基準は、この権利に加えて適用されます。これらによって権利を狭めることはできません。
-- **最重要事項における平等な票：** 統治権限を誰が持つのか、その権限がどのように正当に付与されるのか、その範囲や永続的条件は何かという基盤を定める決定があります。**第5章**はこれらを[基本的な憲法上の選択](core_05_band_integrative.md#foundational-constitutional-choice)と呼びます。これらには**政治的平等の最低基準**が適用されます。
+  - **利害関係者の意見とは別の権利：** この投票権は、既設システムの運営について利害関係者が意見を述べる権利とは別であり、その権利は[**第X-C条**](#第x-c条利害関係者の役割および参加の権利)（*利害関係者の役割および参加の権利*）が定めます。一方に対するロックが他方をロックすることはありません。
+  - **地域ごとの規則：** 各採択者が権限を付与するために記録した手続（その[文書化された正当性メカニズム](core_05_band_integrative.md#文書化された正統性の仕組み)）および指定所有者が定める追加基準は、この権利に加えて適用されます。これらによって権利を狭めることはできません。
+- **最重要事項における平等な票：** 統治権限を誰が持つのか、その権限がどのように正当に付与されるのか、その範囲や永続的条件は何かという基盤を定める決定があります。**第5章**はこれらを[基本的な憲法上の選択](core_05_band_integrative.md#基礎的憲法選択)と呼びます。これらには**政治的平等の最低基準**が適用されます。
   - 投票権を有する共同体内のすべての感覚ある存在は、平等な一票を持ちます。
   - 年齢、基盤（感覚ある存在が存在する身体またはシステムの種類）、系譜（祖先や出自）を、票の重みの変更に用いてはなりません。これは**第VI-C条**（*非差別*）および**第5章**の*感覚性に基づく排除の禁止*に従います。
   - **平等な票の適用範囲：** この規則は、権限システム自体の設置と承認に適用されます。システム、機関、意思決定領域が適切に設立された後、その[統治](core_05_band_accountability.md#governance) — 構造、規則、権限配分、プロセス — の内部で行われる権利に影響する決定には通常の**利害関係者の重み**が適用されます。各利害関係者の発言権は、その決定が及ぼす影響の大きさに応じます。
@@ -1284,10 +1284,10 @@ flowchart TB
 - **比例的参加：** 参加は次の要素に比例しなければなりません。
   - 実証された実質的影響
   - 依存の度合い
-  - [憲法上の制約](core_05_band_integrative.md#constitutional-constraint)の下でシステムを機能させるための実務上の要件
+  - [憲法上の制約](core_05_band_integrative.md#憲法上の制約)の下でシステムを機能させるための実務上の要件
 
   **利害関係者**および**利害関係者の重み**は、範囲、形式、重みに関する第5章の定義を提供し、共同適用の規律は[利害関係者の地位と重み](core_05_band_participation.md#stakeholder-status-and-weight-cluster)のクラスターが定めます。
-- **新しい機関・企業の設立：** 新しい機関や事業を設立する権利は[**第XI-E条**](#article-xi-e-institutional-formation-and-business-creation)（*機関の設立と事業の創出*）に定められています。設立された機関や事業が他者に実質的な影響を及ぼすようになれば、本条の利害関係者の権利が適用されます。
+- **新しい機関・企業の設立：** 新しい機関や事業を設立する権利は[**第XI-E条**](#xi-e-制度形成および事業創出)（*機関の設立と事業の創出*）に定められています。設立された機関や事業が他者に実質的な影響を及ぼすようになれば、本条の利害関係者の権利が適用されます。
 - **参加記録または役割基準による適格性：** 参加資格記録または[能力基準](core_05_band_accountability.md#competency-bar)に基づく基準が参加者の地位や役割の適格性に影響する場合、**参加者としての資格**が適用されます。制限的な結果は、指定された特権経路に対する[参加資格ロック](core_05_band_accountability.md#standing-lock)を通じて付与されます。
   - 実施では、手続の公正（第5章 — *手続の公正*）と操作への耐性を維持しなければなりません。
   - **第X-B条**（*統治への参加と投票権*）に基づく統治投票ロックは、それだけで利害関係者の発言権を制限しません。利害関係者の参加を停止または制限するには、条件を満たす場合、[第10章 §5.5 特別ロック](core_10_standing_integration.md#55-special-locks)の**利害関係者参加資格ロック**など、**利害関係者参加**のロックが必要です。
@@ -1299,7 +1299,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)。
 - 次と併せて読むこと：**[corpus_systems.md](corpus_systems.md)、CS-3 — システムの分類と取り扱い**の**クラスPモード**（個人、私的利用、隔離、実験の**モード**）：運用上の保持、境界、拡大。
 
 </details>
@@ -1338,7 +1338,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：第1章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.2 集会、集団的組織化、制度形成](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§7.3 異議と平和的抗議](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)、[§13 憲法上の衝突解決プロセス](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[§18 責任ある管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位原則：第1章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.2 集会、集団的組織化、制度形成](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§7.3 異議と平和的抗議](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)、[§13 憲法上の衝突解決プロセス](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)、[§18 責任ある管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 
 </details>
 
@@ -1379,7 +1379,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 基本的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[第1章 §18.2 制度上の世俗主義と世界観の中立性](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)。
+- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 基本的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[第1章 §18.2 制度上の世俗主義と世界観の中立性](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)。
 
 </details>
 
@@ -1419,7 +1419,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：第1章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§13.1.1 必要性](core_01_b_interaction_interpretation.md#1311-necessity)、[§13.2.1 認識上の完全性の保持](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)。
+- 上位原則：第1章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§13.1.1 必要性](core_01_b_interaction_interpretation.md#1311-必要性)、[§13.2.1 認識上の完全性の保持](core_01_b_interaction_interpretation.md#1321-認識上の完全性の維持)。
 - 下流規定：**第VI-A条**（尊厳および平等な道徳的地位）の尊厳基準、**VI-C条**（非差別）、**XI-A条**（良心・宗教・同等の世界観）、**IX-C条**の公開、**X-A条**の操作からの自由、**第XV条**の情報圏と認識上の完全性、観察可能な証拠が関係する場合の**第XVI-A条**の監査可能性。
 - 併読：第5章 *表現*、実質的に関連する場合の[第5章 §3.8 *自己決定、実質的主体性、表現、教育上の主体性、意志の完全性*](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)、*強制と操作*、*保護される特性*。
 
@@ -1481,7 +1481,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：第一章の原則 [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、および[§13.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)。
+- 上位原則：第一章の原則 [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、および[§13.2.1 Preservation of Epistemic Integrity](core_01_b_interaction_interpretation.md#1321-認識上の完全性の維持)。
 - 下位への適用：**Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) の保護対象活動の盾、**Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) の出版・報道、**Article XV** (*Info-Sphere Integrity*) の情報圏／認識的完全性。
 - 併読事項：第五章 *Press and Journalistic Activity*、*Heightened Scrutiny*、**Article XI-B** (*Expression*)。
 
@@ -1511,7 +1511,7 @@ flowchart TB
   - 報道機関およびジャーナリズム活動は、資格証や組織上の地位ではなく、その機能によって判断する。
 - **誠実な姿勢と批判的報道：** **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) の誠実性および真実性の基準は、その適用範囲内の出版を規律する。これらを、適法な批判的報道、調査報道、風刺、または異議申し立てを禁じるものと解釈してはならない。
   - **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) と本条または **Article XI-B** (*Expression*) が交わる場合、適法な批判的報道の最低保障が優先し、誠実性基準を批判への盾に変える拡張解釈を認めない。
-- **共通の規律：** [**Article XI-B**](#article-xi-b-expression) (*Expression*) の制限、萎縮効果の防止、および適用範囲に関する規則は、報道機関およびジャーナリズム活動に全面的に適用される。
+- **共通の規律：** [**Article XI-B**](#第xi-b条表現) (*Expression*) の制限、萎縮効果の防止、および適用範囲に関する規則は、報道機関およびジャーナリズム活動に全面的に適用される。
 <a id="article-xi-d-assembly-dissent-and-peaceful-protest"></a>
 
 #### XI-D. 集会、異議および平和的抗議
@@ -1519,7 +1519,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§7.3 Dissent and Peaceful Protest](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)、[§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity)。
+- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§7.3 Dissent and Peaceful Protest](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)、[§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-必要性)。
 - 下位への適用：結社における同意の **Article XI-F** (*Non-Imposition and Consent in Association*)、ストライキおよび集団的就労停止の **Article III-C** (*Labor and Economic Floor*)、保護対象活動の盾である **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*)、利害関係者の参加に関する **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)、**Article XIX** (*Standing and Participation Status*)、ならびに **Chapters Eight, Nine, Eleven, and Thirteen** における異議の保護。
 - 併読事項：第五章 *Assembly*、[第五章 *Assembly, Collective Organization, and Institutional Formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster)（実質的に関係する場合）、**Article XI-B** (*Expression*)。
 
@@ -1572,7 +1572,7 @@ flowchart TB
   - 混乱、不便、不快感、不人気、強度、厳しい批判は、異議や抗議を非平和的にするものではない。
   - 抗議に、暴力、信頼できる脅迫、他者の財産の破壊・取得、または **Article III-A** (*Survival*) に反する生存上不可欠なアクセスの遮断など、独立して憲法上の最低保障に違反する分離可能な行為が伴う場合、その行為は抗議外で同じ行為があった場合と同様に個別評価できる。抗議の見解、目的または対象を理由に評価を加重してはならない。
   - 責任は個人に帰属する。抗議への参加、組織、資金提供または代弁によって、指示も故意の促進もしていない他者の分離可能な行為について責任を負わせてはならない。
-  - 抗議の時間、場所、方法に関する制限は、[**Article XI-B**](#article-xi-b-expression) (*Expression*) の制限規律を満たし、内容および見解に中立であり、意図する聴衆または対象に届く十分な代替手段を残さなければならない。
+  - 抗議の時間、場所、方法に関する制限は、[**Article XI-B**](#第xi-b条表現) (*Expression*) の制限規律を満たし、内容および見解に中立であり、意図する聴衆または対象に届く十分な代替手段を残さなければならない。
   - **Chapter Twelve §6.1** (*Emergency measures and continuation burden*) による緊急措置は、特定の緊急事態に必要な **Necessity** と **Proportionality** の範囲内でのみ抗議を制限でき、見解を理由に制限してはならない。
 - <a id="xi-d-nonviolent-civil-disobedience"></a>**非暴力の市民的不服従：**抗議または良心の表明として意図的に規則に違反する行為は、次の条件を満たす場合、保護される市民的不服従である。
   - 隠蔽や欺瞞によらず、公然と行われる。
@@ -1588,16 +1588,16 @@ flowchart TB
   それ自体が違憲である制限への服従を拒んでも違反にはならず、いかなる不利益も生じない。これらの条件を満たさない行為には、上記の分離可能な行為に関する規則が適用される。
 - <a id="xi-d-dissent-burden-and-pretext"></a>**立証責任と口実：**保護される異議または抗議に続いて、地位、統治、認証、アクセスまたは役割に関する不利益措置がとられ、それとの関連が合理的に考えられる場合、その措置をとる側が **Chapters Two through Four** に基づき検証された独立の根拠を示す責任を負う。
   - 「混乱」「不安定」「過激主義」「不忠」「非協力」「不整合」などの呼称によって、保護される異議や平和的抗議を違反に変えることはできない。
-- **共通の規律：** [**Article XI-B**](#article-xi-b-expression) (*Expression*) の制限、萎縮効果の防止、適用範囲に関する規則は、集会、異議および抗議に全面的に適用される。
+- **共通の規律：** [**Article XI-B**](#第xi-b条表現) (*Expression*) の制限、萎縮効果の防止、適用範囲に関する規則は、集会、異議および抗議に全面的に適用される。
 <a id="article-xi-e-institutional-formation-and-business-creation"></a>
 
 #### XI-E. 制度形成および事業創出
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)、[§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§16.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#162-institutional-development)、[§11 Market Structure](core_01_a_values_principles.md#11-market-structure)。
-- 併読事項：第五章 [*Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) およびその[創設権の限界](core_05_band_participation.md#creation-rights-limits)；集会と結社については[**Article XI-D**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)；労働者の組織化については[**Article III-C**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*)；[**Article XI-F**](#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)。; [第十一章 §6.2 能力基準と確認](../../core_11_standing_integration.md#62-competency-bars-and-clearances)、[第十三章 §4.2 技術フォーラムの領域](../../core_13_forum.md#42-technical-forum-domains)および**CF-10**（*技術専門フォーラムと専門部会*）。
-- 下位への適用：創設された制度または事業が他者に実質的な影響を及ぼす場合、[**Article X-C**](#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) および[**Article XII**](#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*)。
+- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)、[§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§16.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#162-制度的発展)、[§11 Market Structure](core_01_a_values_principles.md#11-市場構造)。
+- 併読事項：第五章 [*Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) およびその[創設権の限界](core_05_band_participation.md#creation-rights-limits)；集会と結社については[**Article XI-D**](#xi-d-集会異議および平和的抗議) (*Assembly, Dissent, and Peaceful Protest*)；労働者の組織化については[**Article III-C**](core_06_rights_part_a.md#article-iii-c-労働と経済の床) (*Labor and Economic Floor*)；[**Article XI-F**](#xi-f-結社における不押し付けと同意) (*Non-Imposition and Consent in Association*)。; [第十一章 §6.2 能力基準と確認](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)、[第十三章 §4.2 技術フォーラムの領域](../../core_13.000_forum.md#42-technical-forum-domains)および**CF-10**（*技術専門フォーラムと専門部会*）。
+- 下位への適用：創設された制度または事業が他者に実質的な影響を及ぼす場合、[**Article X-C**](#第x-c条利害関係者の役割および参加の権利) (*Stakeholder Role and Participation Rights*) および[**Article XII**](#第xii条ステークホルダーのシステム参加代表および適正手続) (*Stakeholder System Participation, Representation, and Due Process*)。
 </details>
 
 <details>
@@ -1609,7 +1609,7 @@ flowchart TB
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
-- [Competency Clearance（能力確認）](../../core_05_band_accountability.md#competency-clearance) · [O](../../core_05_band_accountability.md#competency-clearance) · [M](../../core_05_band_accountability.md#competency-clearance-a) · [A](../../core_05_band_accountability.md#competency-clearance-a) · [C](../../core_05_band_accountability.md#competency-clearance-c)
+- [Competency Clearance（能力確認）](../../core_05.035_band_accountability.md#competency-clearance) · [O](../../core_05.035_band_accountability.md#competency-clearance) · [M](../../core_05.035_band_accountability.md#competency-clearance-a) · [A](../../core_05.035_band_accountability.md#competency-clearance-a) · [C](../../core_05.035_band_accountability.md#competency-clearance-c)
 </details>
 
 <br>
@@ -1623,7 +1623,7 @@ flowchart TB
   - [Business Creation](core_05_band_participation.md#business-creation-constitutional) の定義に従う営利事業 — 個人事業、パートナーシップ、法人、営利協同組合、プラットフォーム型事業および同等の形態。設立・運営に必要な資本へのアクセス、市場参入、許認可の経路も含む。
   
   この権利は、既存の制度への参加だけでなく、新しい制度を生み出すことを対象とする。
-- **真正な形成と意図：** 創設者・運営者は、表明した目的に真に沿う場合に限り制度・事業を形成・運営できる。他者を欺いて目的、支配、利益、受益者を偽る意図、または他者を害する意図がある場合、あるいはその意図を認める相当な根拠がある場合は許されない。ここでの害は憲法が禁じる害（第VI-C条の差別的取扱いを含む）であり、通常の競争、適法な批判・異議、競争相手が適法に事業を失うことは、それ自体では害を示さない。判断は検証された行為、支配、報酬設計、発言による。害や禁止された差別を他者が受けるべきだとする検証済みの発言・呼びかけ・計画は意図の証拠となり得る。[第一章§7.5](../../core_01_a_values_principles.md#75-expression-and-the-harm-line)に従い、宗教・政治・思想上のラベルでなく、発言が何を述べ、求め、行うかで判断する。信念や集団所属だけでは不利な証拠にならず、善意の自己申告も有利な証拠にならない。発言の保護には[第七章§6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)を適用する。記録のない創設者は真正と推定し、制限を書面で受け入れ独立検証を認めるなど、行動で示す約束を証拠とする。この条件は許可制ではなく、事前承認は不要であり、非真正を主張する側が立証責任を負う。
+- **真正な形成と意図：** 創設者・運営者は、表明した目的に真に沿う場合に限り制度・事業を形成・運営できる。他者を欺いて目的、支配、利益、受益者を偽る意図、または他者を害する意図がある場合、あるいはその意図を認める相当な根拠がある場合は許されない。ここでの害は憲法が禁じる害（第VI-C条の差別的取扱いを含む）であり、通常の競争、適法な批判・異議、競争相手が適法に事業を失うことは、それ自体では害を示さない。判断は検証された行為、支配、報酬設計、発言による。害や禁止された差別を他者が受けるべきだとする検証済みの発言・呼びかけ・計画は意図の証拠となり得る。[第一章§7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)に従い、宗教・政治・思想上のラベルでなく、発言が何を述べ、求め、行うかで判断する。信念や集団所属だけでは不利な証拠にならず、善意の自己申告も有利な証拠にならない。発言の保護には[第七章§6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity)を適用する。記録のない創設者は真正と推定し、制限を書面で受け入れ独立検証を認めるなど、行動で示す約束を証拠とする。この条件は許可制ではなく、事前承認は不要であり、非真正を主張する側が立証責任を負う。
 - **迂回的な拒否の禁止：**この権利は、次の方法で妨げてはならない。
   - 好まれない創設者、目的または形態を締め出すために設計された許認可制度、承認基準、または手続の複雑さ。
   - 同等の制度や事業が受けられる資本、財政手段、インフラ、法的承認へのアクセスにおける差別。
@@ -1631,32 +1631,32 @@ flowchart TB
   
   創設者や参加者への報復、監視、標的化も本条に適合しない。 この二つの限定的な門と、その後に示す実践確認を除き、制度または事業の設立・運営に門を設けてはならず、設立または運営の前に確認を求めてはならない。
 - **権限への門は二つだけ：** 名指しされたセンティエントが制度・事業で統治・支配・所有の権限を得る、または行使することを妨げ得る門は、以下の二つに限る。門はその者の権限取得・行使に付される。制度・事業に及ぶのは、それが当人の権限行使の手段、承継者、支配下の実体、または名義上の形態である場合だけである。他者による設立、運営、参加、就労、サービス利用は決して止めない。
-  - **[未解除のロック](../../core_11_standing_integration.md#55-special-locks)：** 同種の制度・事業に対する権限の経路を明示する未解決の制度権限資格ロック、反憲法的信託ロック、または他の資格ロックの対象である間、その経路で権限を得たり行使したりできない。範囲はロックを超えず、解除・縮小に応じて終了・縮小する。
-  - **不整合の相当理由による[暫定保留](../../core_05_band_accountability.md#interim-hold)：** 管轄権を持つフォーラムは、[第十三章§5](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)の根拠が満たされ、具体的事実から、当人が目的または憲法上の制約と不整合である、あるいは目的・支配・利益・受益者について他者を欺く意図または害する意図がある可能性が高い場合、名指しの権限経路に[第十三章§5](../../core_13_forum.md#interim-hold-on-a-named-sentients-pathway)に基づく[暫定保留](../../core_05_band_accountability.md#interim-hold)を命じ得る。[第七章§6](../../core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)に従い、検証された行為、支配、報酬から判断する。保留は同条の全手続に従い、認定、ロック、資格記録、資格上の効果ではない。信念、属性、集団所属、評判、害や差別を求めない異議、保護された報告だけを根拠にしてはならない。発言・行為は「真正な形成」の基準で判断する。別の適法な権限者が制度を継続運営し、後任がなく他者が依存する場合は暫定管理人を任命し、制度を停止しない。
+  - **[未解除のロック](../../core_11.000_standing_integration.md#55-special-locks)：** 同種の制度・事業に対する権限の経路を明示する未解決の制度権限資格ロック、反憲法的信託ロック、または他の資格ロックの対象である間、その経路で権限を得たり行使したりできない。範囲はロックを超えず、解除・縮小に応じて終了・縮小する。
+  - **不整合の相当理由による[暫定保留](../../core_05.035_band_accountability.md#interim-hold)：** 管轄権を持つフォーラムは、[第十三章§5](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)の根拠が満たされ、具体的事実から、当人が目的または憲法上の制約と不整合である、あるいは目的・支配・利益・受益者について他者を欺く意図または害する意図がある可能性が高い場合、名指しの権限経路に[第十三章§5](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)に基づく[暫定保留](../../core_05.035_band_accountability.md#interim-hold)を命じ得る。[第七章§6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity)に従い、検証された行為、支配、報酬から判断する。保留は同条の全手続に従い、認定、ロック、資格記録、資格上の効果ではない。信念、属性、集団所属、評判、害や差別を求めない異議、保護された報告だけを根拠にしてはならない。発言・行為は「真正な形成」の基準で判断する。別の適法な権限者が制度を継続運営し、後任がなく他者が依存する場合は暫定管理人を任命し、制度を停止しない。
   - **両方の門に共通する保護：** 門を課す側が立証責任を負う。他の仕事の賃金、権利の最低保障、生存に不可欠なアクセス、発言、弁護、保護された報告を妨げてはならず、異議申立人、報告者、労働者の組織者を標的にしてはならない。
-- **名指しされた高リスク行為の実践確認：** 追加要件を一つ設けることができるが、運営当事者に対する門ではない。名指しされたセンティエントが他者のために名指しされた行為を行う前に、[Competency Clearance（能力確認）](../../core_05_band_accountability.md#competency-clearance)を求めることができる（*実践確認*）。要件はその行為の実施に付く。 この確認は、名指しされた経路について公表された能力基準に照らし、検証済みの準備能力を記録する肯定的な資格効果である。適用される資格ロックが妨げない場合に限り、その経路を開く助けとなる。名声、内部者の後援、資格の独占、恒久的権利ではない。運営当事者の設立、運営、参加、サービス利用を妨げず、運営当事者の運営も禁止しない。次の条件をすべて満たす場合に限り求められる。
-  - **リスク認定：** 技術専門フォーラムが、[第十三章 §4.2 技術フォーラムの領域](../../core_13_forum.md#42-technical-forum-domains)および**CF-10**（*技術専門フォーラムと専門部会*）に基づき、名指しされた行為群について認定を公表していること。認定は、リスクを判断または回避できないセンティエントに重大または不可逆な身体的危害をもたらす、信頼できる因果経路（行為から危害に至る、もっともらしく追跡可能な道筋）があると述べ、必要な能力も明示する。
+- **名指しされた高リスク行為の実践確認：** 追加要件を一つ設けることができるが、運営当事者に対する門ではない。名指しされたセンティエントが他者のために名指しされた行為を行う前に、[Competency Clearance（能力確認）](../../core_05.035_band_accountability.md#competency-clearance)を求めることができる（*実践確認*）。要件はその行為の実施に付く。 この確認は、名指しされた経路について公表された能力基準に照らし、検証済みの準備能力を記録する肯定的な資格効果である。適用される資格ロックが妨げない場合に限り、その経路を開く助けとなる。名声、内部者の後援、資格の独占、恒久的権利ではない。運営当事者の設立、運営、参加、サービス利用を妨げず、運営当事者の運営も禁止しない。次の条件をすべて満たす場合に限り求められる。
+  - **リスク認定：** 技術専門フォーラムが、[第十三章 §4.2 技術フォーラムの領域](../../core_13.000_forum.md#42-technical-forum-domains)および**CF-10**（*技術専門フォーラムと専門部会*）に基づき、名指しされた行為群について認定を公表していること。認定は、リスクを判断または回避できないセンティエントに重大または不可逆な身体的危害をもたらす、信頼できる因果経路（行為から危害に至る、もっともらしく追跡可能な道筋）があると述べ、必要な能力も明示する。
   - **より軽い保護策では足りないこと：** 要件を維持する側が、開示、登録、保護された職名、受入れ先・雇用運営当事者への義務、学習者への監督では危険にさらされる者を守れないと示す。
   - **公開された手続で決定：** 採用する文書が、公表され異議申立て可能な手続で、認定を確認要件に十分とするかを決める。フォーラムは認定と基準を定めるが、確認を発行せず、個別案件や許容されるリスク水準も決めない。
-  - **開かれた経路、独占なし：** 基準は[第十一章 §6.2 能力基準と確認](../../core_11_standing_integration.md#62-competency-bars-and-clearances)に従い、公表され、比例的で、異議申立て可能であること。試験、ポートフォリオ、徒弟訓練、同業者が検証した経験、他の管轄区域の確認は同等の証拠として扱う。複数の独立した発行者が確認でき、唯一の経路があってはならない。現職実務者は基準を定めるパネルまたは発行者の統治機関を支配してはならない。
-  - **安全な実施：** 学習者は確認済みの監督者の下で行為を実施できる。緊急の行為、または適時に確認済みのセンティエントへ連絡できない場合の行為は禁止されない。決定は[Article XXVI-C](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)の期限に従い、料金や待ち時間が障壁になってはならない（[回避可能な負担](../../core_05_band_continuity.md#avoidable-burden)）。負担が改めて示されない限り、各審査で要件は終了し、審査結果は公表される。
+  - **開かれた経路、独占なし：** 基準は[第十一章 §6.2 能力基準と確認](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)に従い、公表され、比例的で、異議申立て可能であること。試験、ポートフォリオ、徒弟訓練、同業者が検証した経験、他の管轄区域の確認は同等の証拠として扱う。複数の独立した発行者が確認でき、唯一の経路があってはならない。現職実務者は基準を定めるパネルまたは発行者の統治機関を支配してはならない。
+  - **安全な実施：** 学習者は確認済みの監督者の下で行為を実施できる。緊急の行為、または適時に確認済みのセンティエントへ連絡できない場合の行為は禁止されない。決定は[Article XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)の期限に従い、料金や待ち時間が障壁になってはならない（[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)）。負担が改めて示されない限り、各審査で要件は終了し、審査結果は公表される。
   - **保護措置：** 要件を課す側が立証責任を負う。他の仕事の賃金、権利の床、生存に不可欠なアクセス、発言、弁護、保護された報告を妨げてはならず、異議申立人、報告者、労働者の組織者に対して用いてはならない。能力の変化は、その行為が求める能力に基づいて判断し、障害や健康状態そのものを基準にしない。
-  - **運営当事者のクラス：** 他者のためにこの種の行為を行う運営当事者は、[領域別重要性](../../core_05_band_oversight.md#domain-specific-materiality)の安全性の下で重要であり、少なくともクラスLとなる。この要件自体が運営当事者のクラスを決めるものではなく、クラスLであることだけで確認が必要になるわけでもない。 単独または小規模な実務でこの行為を行うセンティエントは、受入れ先を通じた共同専門職実務によってクラスLの義務を満たすことができる（**CI-4.7**、*実践確認、実務認証、共同専門職実務*）。
+  - **運営当事者のクラス：** 他者のためにこの種の行為を行う運営当事者は、[領域別重要性](../../core_05.050_band_oversight.md#domain-specific-materiality)の安全性の下で重要であり、少なくともクラスLとなる。この要件自体が運営当事者のクラスを決めるものではなく、クラスLであることだけで確認が必要になるわけでもない。 単独または小規模な実務でこの行為を行うセンティエントは、受入れ先を通じた共同専門職実務によってクラスLの義務を満たすことができる（**CI-4.7**、*実践確認、実務認証、共同専門職実務*）。
 
-- **測定と評価：**[説明責任の測定ファミリー](../../core_05_apex_accountability_leg.md#measuring-accountability)および[適時性の測定ファミリー](../../core_05_apex_timeliness_leg.md#measuring-timeliness)を用いる。確認が、公表済みで名指しの経路に固有、比例的、監査可能、異議申立て可能、十分に最新であり、検証された貢献、経験、技能、訓練、信頼性または同等の準備能力の入力に追跡できる能力基準に基づくことを確認する。非公式または非制度的な経験も、正式な経験と同じ証拠基準で認める。適用される資格ロックは、関連する効果がその経路を開けるかを引き続き支配する。
-- **限界：**第五章の[創設権の限界](core_05_band_participation.md#creation-rights-limits)が適用される。この権利は、[Constitutional Constraints](core_05_band_integrative.md#constitutional-constraint) に違反し、**Safety** または **Truth** を損ない、あるいは[第一章 §11 Market Structure](core_01_a_values_principles.md#11-market-structure)に反して権力を集中させるよう設計された制度や事業には及ばない。その他の制限は[第一章 §7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)を満たし、必要かつ比例的で、可能な限り撤回可能であり、監督に服さなければならない。
+- **測定と評価：**[説明責任の測定ファミリー](../../core_05.005_apex_accountability_leg.md#measuring-accountability)および[適時性の測定ファミリー](../../core_05.030_apex_timeliness_leg.md#measuring-timeliness)を用いる。確認が、公表済みで名指しの経路に固有、比例的、監査可能、異議申立て可能、十分に最新であり、検証された貢献、経験、技能、訓練、信頼性または同等の準備能力の入力に追跡できる能力基準に基づくことを確認する。非公式または非制度的な経験も、正式な経験と同じ証拠基準で認める。適用される資格ロックは、関連する効果がその経路を開けるかを引き続き支配する。
+- **限界：**第五章の[創設権の限界](core_05_band_participation.md#creation-rights-limits)が適用される。この権利は、[Constitutional Constraints](core_05_band_integrative.md#憲法上の制約) に違反し、**Safety** または **Truth** を損ない、あるいは[第一章 §11 Market Structure](core_01_a_values_principles.md#11-市場構造)に反して権力を集中させるよう設計された制度や事業には及ばない。その他の制限は[第一章 §7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)を満たし、必要かつ比例的で、可能な限り撤回可能であり、監督に服さなければならない。
 - **関連する権利：**
   - 集会および結社は **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) が扱う。
   - 既存の生産システム内での労働者の組織化は、**Article III-C** (*Labor and Economic Floor*) に基づく [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) が扱う。
   - 創設された制度または事業が他者に実質的な影響を与えれば、**Articles X-C** および **XII** の利害関係者の権利が適用される。
-- **実施：**登録、[システム憲章](../../core_05_band_continuity.md#system-charter) または [制度憲章](../../core_05_band_continuity.md#institutional-charter) の採択、税務上の取扱い、責任、証券規制、解散手続は、**Chapter Eighteen** の法人化規律に基づき [corpus_institutions.md](../../corpus_institutions.md) に委ねる。同文書を本権利を狭めるものと解釈してはならない。 確認の発行者、同等の経路、料金、審査、および下位段階の実務認証も同文書に委ねる（**CI-4.7**、*実践確認、実務認証、共同専門職実務*）。
+- **実施：**登録、[システム憲章](../../core_05.040_band_continuity.md#system-charter) または [制度憲章](../../core_05.040_band_continuity.md#institutional-charter) の採択、税務上の取扱い、責任、証券規制、解散手続は、**Chapter Eighteen** の法人化規律に基づき [corpus_institutions.md](../../corpus_institutions.md) に委ねる。同文書を本権利を狭めるものと解釈してはならない。 確認の発行者、同等の経路、料金、審査、および下位段階の実務認証も同文書に委ねる（**CI-4.7**、*実践確認、実務認証、共同専門職実務*）。
 
 <a id="article-xi-f-non-imposition-and-consent-in-association"></a>
 #### XI-F. 結社における不押し付けと同意
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)。
+- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)。
 
 </details>
 
@@ -1702,7 +1702,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：第一章 [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)。
+- 上位原則：第一章 [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-中核的なトレードオフ原則)、[§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)。
 
 </details>
 
@@ -1712,11 +1712,11 @@ flowchart TB
 - [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
 - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
 - [Harm](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Materiality](core_05_band_oversight.md#実質性の判定) · [O](core_05_band_oversight.md#実質性の判定) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional) · [O](core_05_band_continuity.md#safe-conditions-constitutional) · [M](core_05_band_continuity.md#safe-conditions-constitutional-a) · [A](core_05_band_continuity.md#safe-conditions-constitutional-a) · [C](core_05_band_continuity.md#safe-conditions-constitutional-c)
-- [Material Impact](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Material Impact](core_05_band_oversight.md#実質的影響) · [O](core_05_band_oversight.md#実質的影響) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1751,7 +1751,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：第一章 [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§15.1 Constitutional No-Bypass Principle](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle)、[§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位原則：第一章 [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§15.1 Constitutional No-Bypass Principle](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle)、[§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 
 </details>
 
@@ -1759,15 +1759,15 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
 - [Governance](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
-- [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [Foundational Constitutional Choice](core_05_band_integrative.md#基礎的憲法選択) · [O](core_05_band_integrative.md#基礎的憲法選択) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
 - [Stakeholder](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 - [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
-- [Material Impact](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Material Impact](core_05_band_oversight.md#実質的影響) · [O](core_05_band_oversight.md#実質的影響) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Due Process](core_05_band_accountability.md#due-process-constitutional) · [O](core_05_band_accountability.md#due-process-constitutional) · [M](core_05_band_accountability.md#due-process-constitutional-a) · [A](core_05_band_accountability.md#due-process-constitutional-a) · [C](core_05_band_accountability.md#due-process-constitutional-c)
 - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) · [O](core_05_band_integrative.md#constitutional-contract-layer) · [M](core_05_band_integrative.md#constitutional-contract-layer-a) · [A](core_05_band_integrative.md#constitutional-contract-layer-a) · [C](core_05_band_integrative.md#constitutional-contract-layer-c)
+- [Constitutional Contract Layer](core_05_band_integrative.md#憲法契約層) · [O](core_05_band_integrative.md#憲法契約層) · [M](core_05_band_integrative.md#constitutional-contract-layer-a) · [A](core_05_band_integrative.md#constitutional-contract-layer-a) · [C](core_05_band_integrative.md#constitutional-contract-layer-c)
 
 </details>
 
@@ -1790,7 +1790,7 @@ flowchart TB
 *関連条項：*
 
 - **二つの統治レイヤー：** **Chapter Five** の [Governance](core_05_band_accountability.md#governance) は次を扱う。
-  - (1) **Constitutional Contract Layer** — 誰が、どの正当性の仕組みで、どのような持続的条件の下で統治できるか（[Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)）。
+  - (1) **Constitutional Contract Layer** — 誰が、どの正当性の仕組みで、どのような持続的条件の下で統治できるか（[Foundational Constitutional Choice](core_05_band_integrative.md#基礎的憲法選択)）。
   - (2) **Stakeholder System Participation** — 特定のシステム、制度または限定された決定領域について既に承認された構造、規則、手続の中で、権利に実質的な影響を与える決定。
 - **本条の対象範囲：**第二のレイヤー、すなわち領域の運用に影響される者の**[Stakeholder](core_05_band_participation.md#stakeholder)** の特定と、比例的な参加経路は、次の条項が扱う。
   - **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) — 本条。
@@ -1804,8 +1804,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：第一章 [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application)、第八章 [§3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 併読事項：[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) の**参加**の柱（ステークホルダーのシステム参加レイヤー）；[material stake](core_00_preamble.md#material-stake) に応じた拡大；[Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) および [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)。
+- 上位原則：第一章 [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-統合的な適用)、第八章 [§3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 併読事項：[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) の**参加**の柱（ステークホルダーのシステム参加レイヤー）；[material stake](core_00_preamble.md#material-stake) に応じた拡大；[Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) および [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-行為記録と帰属可能な引継ぎ)。
 - レイヤー：**Stakeholder System Participation (SSP)**。承認を扱う **Constitutional Contract Layer (CCL)** とは別である。
 
 </details>
@@ -1851,7 +1851,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[第一章 §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[第一章 §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 
 </details>
 
@@ -1873,7 +1873,7 @@ flowchart TB
 
 - **適用範囲：** **Article X-B** (*Governance Participation and Voting Entitlement*) と組み合わせて適用する。本条の重み付け規則は、次のとおりである。
   - **適用される**のは、**[Stakeholder Weight](core_05_band_participation.md#stakeholder-weight)** が支配的な規則となる場合、すなわち、**関連するシステム、制度または限定された決定領域**について既に承認済みの **[Governance](core_05_band_accountability.md#governance) の構造、規則、権限配分、手続の内部**で、権利に実質的な影響を及ぼす決定である。
-  - **適用されない**のは、**[Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)** について、影響、依存または利害に比例した**投票の重み**を認めること（**Article X-B** (*Governance Participation and Voting Entitlement*)；[**Chapter Thirteen §4.1 Entitlement and eligibility**](core_13_governance.md#41-entitlement-and-eligibility)）。
+  - **適用されない**のは、**[Foundational Constitutional Choice](core_05_band_integrative.md#基礎的憲法選択)** について、影響、依存または利害に比例した**投票の重み**を認めること（**Article X-B** (*Governance Participation and Voting Entitlement*)；[**Chapter Thirteen §4.1 Entitlement and eligibility**](core_13_governance.md#41-entitlement-and-eligibility)）。
 - **重み付け参加の制約：**重み付けでは次を考慮できる。
   - 影響。
   - 依存。
@@ -1894,7 +1894,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：第一章 [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位原則：第一章 [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
 
 </details>
 
@@ -1938,8 +1938,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連根拠</span></strong></summary>
 
-- 上位原則：原則：第1章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、および[第1章 §18 受託責任の規律下における統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
-- 次と併せて読む：[システムの支配](core_05_band_continuity.md#system-capture)、[支配防止](core_05_band_continuity.md#anti-capture)、[第7章：機能上の独立性と職務分離](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)。
+- 上位原則：原則：第1章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、および[第1章 §18 受託責任の規律下における統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
+- 次と併せて読む：[システムの支配](core_05_band_continuity.md#system-capture)、[支配防止](core_05_band_continuity.md#anti-capture)、[第7章：機能上の独立性と職務分離](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)。
 
 </details>
 
@@ -1949,7 +1949,7 @@ flowchart TB
 - [システムの支配](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [支配防止](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
 - [異議申立て可能性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [監査可能性](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [監査可能性](core_05_band_oversight.md#監査可能性) · [O](core_05_band_oversight.md#監査可能性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1965,9 +1965,9 @@ flowchart TB
   - 構造的支配
   
   監査可能性または異議申立ての手段がないまま影響力が集中すること（隠れた支配や間接的な経路を通じた支配を含む）は不適合であり、**第XI条、第XIV条、第XV条**に関わります。
-- **職務分離：** [第7章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)（*機能上の独立性と職務分離*）は、実質的な拘束力を持つすべての行為について、職務を分ける最低基準を定めます。
-  - 行為の開始、承認、記録、異議申立てを別々の担当席に割り当てること（[§2 4担当席の憲法上の最低基準](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)）
-  - 行為者を支配する者から独立していること（[§3 独立性、利益相反、支配関係](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)）
+- **職務分離：** [第7章](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)（*機能上の独立性と職務分離*）は、実質的な拘束力を持つすべての行為について、職務を分ける最低基準を定めます。
+  - 行為の開始、承認、記録、異議申立てを別々の担当席に割り当てること（[§2 4担当席の憲法上の最低基準](core_07_functional_independence_segregation_of_duties.md#2-四席の憲法上の最低基準)）
+  - 行為者を支配する者から独立していること（[§3 独立性、利益相反、支配関係](core_07_functional_independence_segregation_of_duties.md#3-独立性利益相反および支配ライン)）
 
   ある知性体、役職、または派閥が分離すべき担当席を兼ねる場合、またはその担当者を支配する場合も、本条にいう構造的支配の兆候です。
 
@@ -1977,20 +1977,20 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 スチュワードシップの規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)、および[§19 インセンティブの整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)。
-- あわせて読む：[第XII-D条](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）、[第XII-B条](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）、[第X-A条](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*主体性と操作からの自由*）、[第IX-A条](../../core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像と評判の自己所有*）、[第XIII-E条](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）、[第XV条](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）、[第十一章 §5.3](../../core_12_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*大量の働きかけによる領域の占拠と異議申立て経路の遮断*）、[§5.4](../../core_12_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏における領域の占拠*）、[§5.5](../../core_12_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈収賄と不適切な利益交換*）、[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)、[第十三章 §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)（*適格性、異議を伴う選出、民主主義の最低基準*）。
+- 上流：原則：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 スチュワードシップの規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)、および[§19 インセンティブの整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#19-インセンティブの整合とシステムの乗っ取り)。
+- あわせて読む：[第XII-D条](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）、[第XII-B条](../../core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）、[第X-A条](../../core_06.010_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*主体性と操作からの自由*）、[第IX-A条](../../core_06.010_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像と評判の自己所有*）、[第XIII-E条](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）、[第XV条](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）、[第十一章 §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*大量の働きかけによる領域の占拠と異議申立て経路の遮断*）、[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏における領域の占拠*）、[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈収賄と不適切な利益交換*）、[第七章](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)、[第十三章 §1.2](core_12_governance.md#12-適格争われる選出民主的な最低限)（*適格性、異議を伴う選出、民主主義の最低基準*）。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定義 · 評価 · 遵守</span></strong></summary>
 
-- [システム捕捉](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [捕捉防止](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [異議申立て可能性](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [監査可能性](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [手続的公正](../../core_05_band_participation.md#procedural-fairness) · [O](../../core_05_band_participation.md#procedural-fairness) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [利害関係者](../../core_05_band_accountability.md#interested-party) · [O](../../core_05_band_accountability.md#interested-party) · [M](../../core_05_band_accountability.md#interested-party-a) · [A](../../core_05_band_accountability.md#interested-party-a) · [C](../../core_05_band_accountability.md#interested-party-c)
+- [システム捕捉](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
+- [捕捉防止](../../core_05.040_band_continuity.md#anti-capture) · [O](../../core_05.040_band_continuity.md#anti-capture) · [M](../../core_05.040_band_continuity.md#anti-capture-a) · [A](../../core_05.040_band_continuity.md#anti-capture-a) · [C](../../core_05.040_band_continuity.md#anti-capture-c)
+- [異議申立て可能性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [監査可能性](../../core_05.050_band_oversight.md#auditability) · [O](../../core_05.050_band_oversight.md#auditability) · [M](../../core_05.050_band_oversight.md#auditability-a) · [A](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
+- [手続的公正](../../core_05.055_band_participation.md#procedural-fairness) · [O](../../core_05.055_band_participation.md#procedural-fairness) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [利害関係者](../../core_05.035_band_accountability.md#interested-party) · [O](../../core_05.035_band_accountability.md#interested-party) · [M](../../core_05.035_band_accountability.md#interested-party-a) · [A](../../core_05.035_band_accountability.md#interested-party-a) · [C](../../core_05.035_band_accountability.md#interested-party-c)
 
 </details>
 
@@ -1998,7 +1998,7 @@ flowchart TB
 
 *平たい言葉で言えば：**第XII-E条**（*影響接触とロビー活動の境界*）は、利害を持つ感知者が決定を行う感知者やシステムにどのように接触できるか、その最低基準を定めます。公開の意見表明は保護されます。非公開、記録なし、買収、偽装、または機械によって増幅された影響は保護されません。接触は記録・開示され、利益の申し出と脅迫は利益相反となり、自ら決定した相手方から後に職を得る場合はクーリングオフ期間を経なければならず、システムによる接触では、それが何であり誰のために行動するのかを示さなければなりません。*
 
-本条は、**利害関係者**が、決定、審査、監査、調達、または決定の支援を行う感知者やシステムにどのように接触できるかを定めます。[**第XII-D条**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）に挙げられた対象機関、その**任命権者**、および**採択機関**に適用され、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)に従います。
+本条は、**利害関係者**が、決定、審査、監査、調達、または決定の支援を行う感知者やシステムにどのように接触できるかを定めます。[**第XII-D条**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）に挙げられた対象機関、その**任命権者**、および**採択機関**に適用され、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)に従います。
 
 - **繁栄：**影響を受ける感知者は、資金、人員、ツールを持たない者も含め、意見を聞いてもらうための実効的で開かれた経路を保ちます。決定は非公開の接触ではなく公開記録に基づきます。
 - **継続：**決定機関は、非公開接触、利益の申し出、後日の雇用、偽の支持、または大規模な自動化を通じた静かな影響に、時間を経ても耐えられる状態を保ちます。
@@ -2012,23 +2012,23 @@ flowchart TB
 
 *関連条項：*
 
-- **捕捉防止の最低基準：**[**第XII-D条**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）は、構成、利益相反、忌避、外部審査、解任を扱います。本条は、同じ機関に利害関係者が接触する際の規則を追加します。
-- **参加の重み：**[**第XII-B条**](../../core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）は、形だけの参加を禁じます。本条でも接触件数は支持を意味しません。
-- **システムと情報：**[**第XIII-E条**](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）は、システムにも他のすべての者と同じ規則を課します。[**第XV条**](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）は共有情報環境を扱います。
-- **選出資金：**[第十三章 §1.2](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)（*適格性、異議を伴う選出、民主主義の最低基準*）は、選挙運動、推薦、競争的任命による選出の資金境界を定めます。
+- **捕捉防止の最低基準：**[**第XII-D条**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）は、構成、利益相反、忌避、外部審査、解任を扱います。本条は、同じ機関に利害関係者が接触する際の規則を追加します。
+- **参加の重み：**[**第XII-B条**](../../core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）は、形だけの参加を禁じます。本条でも接触件数は支持を意味しません。
+- **システムと情報：**[**第XIII-E条**](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）は、システムにも他のすべての者と同じ規則を課します。[**第XV条**](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）は共有情報環境を扱います。
+- **選出資金：**[第十三章 §1.2](core_12_governance.md#12-適格争われる選出民主的な最低限)（*適格性、異議を伴う選出、民主主義の最低基準*）は、選挙運動、推薦、競争的任命による選出の資金境界を定めます。
 
 本条は、次の最低基準を定めます。
 
 - **適用範囲：**これらの最低基準は、対象機関、その**任命権者**、および**採択機関**に適用されます。要件は実質的利害に応じて調整されます。案件の公開記録に提出された文書は影響接触ではなく、それ自体が記録です。
-- **影響接触の境界：**対象機関、その**任命権者**、および**採択機関**は、**影響接触**に関する規則を公開しなければなりません。[**利害関係者**](../../core_05_band_accountability.md#interested-party)が、係属中または予見可能な案件をその公開記録の外から形づくるため、構成員、パネリスト、職員、進行役、または説明提供者に接触することを影響接触といいます。規則は実質的利害に応じて調整し、少なくとも次を定めます。
+- **影響接触の境界：**対象機関、その**任命権者**、および**採択機関**は、**影響接触**に関する規則を公開しなければなりません。[**利害関係者**](../../core_05.035_band_accountability.md#interested-party)が、係属中または予見可能な案件をその公開記録の外から形づくるため、構成員、パネリスト、職員、進行役、または説明提供者に接触することを影響接触といいます。規則は実質的利害に応じて調整し、少なくとも次を定めます。
   - 重要な影響接触ごとに、接触者、日時、経路、案件、求めたことや提案したことの概要を**記録**する。
-  - その記録を、接触された構成員、パネリスト、職員から独立した席で保管する（[第七章](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)）。
+  - その記録を、接触された構成員、パネリスト、職員から独立した席で保管する（[第七章](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)）。
   - 他の参加者が応答できる時点までに、案件記録で重要な接触を**開示**する。
   - 証拠と主張を公開記録に置く。非公開接触によって、決定が依拠する証拠や主張を提供してはならない。
   - 贈答、利益、将来の役職の申し出、および脅迫はすべて利益相反として扱い、通常の接触ではなく、開示、拒否のうえ**CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）に従って処理する。
   - 記録上の公開意見表明、請願、パブリックコメント、および聞く義務のある機関への影響を受ける感知者のアクセスを保護する。影響を受ける感知者が自らの利害について述べる内容を制限するために、これらの規則を使ってはなりません。
 - **退任後および将来の役割に関する利益相反：**
-  - **将来の役割に関する利益相反：**構成員、パネリスト、職員の前で[利害関係者](../../core_05_band_accountability.md#interested-party)の案件が係属している間に、その利害関係者と後の役割、雇用、契約、利益について話し合うことは利益相反です。開示し、独立した席が解除するまで当該構成員、パネリスト、職員は忌避しなければなりません。
+  - **将来の役割に関する利益相反：**構成員、パネリスト、職員の前で[利害関係者](../../core_05.035_band_accountability.md#interested-party)の案件が係属している間に、その利害関係者と後の役割、雇用、契約、利益について話し合うことは利益相反です。開示し、独立した席が解除するまで当該構成員、パネリスト、職員は忌避しなければなりません。
   - **退任後の規則：**対象機関と**採択機関**は、実質的利害に応じて調整した退任後の規則も公開しなければなりません。担当した案件に関連して利害関係者から役職や利益を受け入れることを、クーリングオフ期間の経過または独立した席による公開決定での承認まで禁じます。
   - **標準クーリングオフ期間：**構成員、パネリスト、職員がその案件に最後に関与した時点から**5年間**です。
   - **変更：**採択機関は期間を延長できます。短縮できるのは実質的利害が小さい場合だけであり、その理由を公開しなければなりません。
@@ -2041,11 +2041,11 @@ flowchart TB
   - **経路：**対象機関は、記録上の意見提出に用いる認証済み経路を公開しなければなりません。規則に違反する提出は、レート制限、重複排除、または別扱いにできます。非公開経路を通じて構成員、パネリスト、職員、進行役、説明提供者に自動化された働きかけを行うことは禁止されます。
   - **決定側のシステム：**機関が決定のために受信、選別、要約、草案作成をシステムに行わせる場合、意思決定者に情報を提供するのではなく、そのシステムを誘導する働きかけも影響接触です。提出資料に隠された指示、汚染データ、ランキング攻略を狙ったコンテンツも含みます。機関は提出資料を指示ではなく証拠として扱い、各出力を元の記録まで追跡可能にし、決定に寄与したシステムに届いた受信資料を開示しなければなりません。利害関係者側のシステムと機関側のシステムの接触も、感知者同士の接触と同じように記録します。
   - **責任：**利害関係者とシステムを導入した運営者の双方が接触に責任を負います。明白なリスクを無視した場合、「知らなかった」は抗弁になりません。
-- **くじ引きで選ばれる機関：**くじ引きで選ばれる機関の選任メンバーには、これらの最低基準の最も厳しい段階が適用されます。[第十三章](core_12_governance.md#12-eligibility-contested-selection-and-democratic-minimums)が求める公開ブリーフィング記録を通じる場合を除き、案件に関する非公開接触は禁止されます。
+- **くじ引きで選ばれる機関：**くじ引きで選ばれる機関の選任メンバーには、これらの最低基準の最も厳しい段階が適用されます。[第十三章](core_12_governance.md#12-適格争われる選出民主的な最低限)が求める公開ブリーフィング記録を通じる場合を除き、案件に関する非公開接触は禁止されます。
 - **執行と経路づけ：**
   - **完全性の発動要件：**隠された影響接触、利益の申し出、捏造された声は、**CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）と**CJS-3.6**（*完全性保証とレジリエンス運用*）の下で完全性の発動要件として処理します。
   - **不正行為の経路：**真正でない声を意図的または無謀に大量投入すること、贈収賄や不適切な利益交換は、**第二章から第四章**および**第十一章**の基準で裏付けられる場合、**反憲法的不正行為**として第十一章の下で申し立てることができます。
-  - **完全性を先行させ、自己審理をしない：**[**第XII-D条**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）の経路づけと自己審理防止の規則が適用されます。自らの構成員や職員が不適切な接触を受けたかどうかを、その機関だけが最終判断する場となってはなりません。
+  - **完全性を先行させ、自己審理をしない：**[**第XII-D条**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）の経路づけと自己審理防止の規則が適用されます。自らの構成員や職員が不適切な接触を受けたかどうかを、その機関だけが最終判断する場となってはなりません。
 - **制度上の経路づけ：**詳細な規則は次によって定められます。
   - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（*任命、能力、交代、解任*）。退任後の規則については **CI-4.2**（*役割基準、任命基準、解任経路*）を含みます。
   - **CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）。

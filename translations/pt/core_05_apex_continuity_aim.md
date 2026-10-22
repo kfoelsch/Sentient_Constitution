@@ -6,7 +6,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Lugar no corpus (não operativo): estrutura do arquivo e regras de leitura</span></strong></summary>
 
-> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Cinco, fim Continuidade em inglês](../../core_05_apex_continuity_aim.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_05_apex_continuity_aim.md`](../../core_05_apex_continuity_aim.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
+> Este arquivo é um **piloto de idioma de leitura** do [Capítulo Cinco, fim Continuidade em inglês](../../core_05.010_apex_continuity_aim.md). **Não** é parte vinculante da Constituição Senciente. **Não** é uma segunda constituição. **Não** é uma edição de envio. Está **fixado** a `SC-Corpus-2026.08.09`. Se esta tradução e o original em inglês parecerem discordar, ganha o arquivo numerado [`core_05_apex_continuity_aim.md`](../../core_05.010_apex_continuity_aim.md). A ordem de leitura e os metadados de edição ficam em [README.md](../../README.md). Método e glossário: [translations/pt/README.md](README.md).
 >
 > **Anterior (este idioma):** [core_05_apex_accountability_leg.md](core_05_apex_accountability_leg.md)
 >
@@ -18,9 +18,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: [Bússola do Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); fim em linguagem simples no [Preâmbulo §1](core_00_preamble.md#continuity).
-- Destino: Princípios: [Capítulo Um §4.1 Resiliência e desenho de autorreparo](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Capacidade de sistemas compartilhados](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Decomposição do Fim constitucional](#continuity-aim-decomposition); grupos de temas de Continuidade em [core_05_band_continuity.md](../../core_05_band_continuity.md).
-- Ler com: [Administração responsável](../../core_05_band_continuity.md#stewardship-constitutional), [Defeito de administração responsável](../../core_05_band_continuity.md#stewardship-defect-constitutional), [Integridade ecológica](../../core_05_band_continuity.md#ecological-integrity-constitutional), [Dependência](../../core_05_band_continuity.md#dependency), [Divergência de indicadores substitutos](../../core_05_band_oversight.md#proxy-divergence), [Risco existencial](../../core_05_band_continuity.md#existential-risk), [Falha em cascata](../../core_05_band_continuity.md#cascading-failure), [Florescimento](core_05_apex_flourishing_aim.md#flourishing-constitutional) (o fim emparelhado — nenhum pode ser perseguido à custa do outro; perseguir ganhos de curto prazo que esvaziem a **participação**, a **supervisão**, a **prestação de contas** ou a **atuação em tempo** abaixo do que exige a [aposta material](core_00_preamble.md#material-stake) incumpre a **Continuidade**, embora subam os resultados de curto prazo), [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) escalada à [aposta material](core_00_preamble.md#material-stake) (como a Continuidade continua legítima — não um quinto bloco de construção), família de medição de Continuidade, e [diretório alfabético do Capítulo Cinco](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- Origem: [Bússola do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); fim em linguagem simples no [Preâmbulo §1](core_00_preamble.md#continuity).
+- Destino: Princípios: [Capítulo Um §4.1 Resiliência e desenho de autorreparo](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 Capacidade de sistemas compartilhados](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Decomposição do Fim constitucional](#continuity-aim-decomposition); grupos de temas de Continuidade em [core_05_band_continuity.md](../../core_05.040_band_continuity.md).
+- Ler com: [Administração responsável](../../core_05.040_band_continuity.md#stewardship), [Defeito de administração responsável](../../core_05.040_band_continuity.md#stewardship-defect), [Integridade ecológica](../../core_05.040_band_continuity.md#ecological-integrity), [Dependência](../../core_05.040_band_continuity.md#dependency), [Divergência de indicadores substitutos](../../core_05.050_band_oversight.md#proxy-divergence), [Risco existencial](../../core_05.040_band_continuity.md#existential-risk), [Falha em cascata](../../core_05.040_band_continuity.md#cascading-failure), [Florescimento](core_05_apex_flourishing_aim.md#flourishing-constitutional) (o fim emparelhado — nenhum pode ser perseguido à custa do outro; perseguir ganhos de curto prazo que esvaziem a **participação**, a **supervisão**, a **prestação de contas** ou a **atuação em tempo** abaixo do que exige a [aposta material](core_00_preamble.md#material-stake) incumpre a **Continuidade**, embora subam os resultados de curto prazo), [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) escalada à [aposta material](core_00_preamble.md#material-stake) (como a Continuidade continua legítima — não um quinto bloco de construção), família de medição de Continuidade, e [diretório alfabético do Capítulo Cinco](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
 
@@ -33,15 +33,15 @@
 - **O que é**
   - **No âmbito:** Julgar sistemas contra este fim usando os blocos de construção de Continuidade e as famílias de medição enumerados na [Decomposição do Fim constitucional](#continuity-aim-decomposition). O fim é estabilidade de horizonte longo, sustentabilidade, resiliência e bem-estar ecológico para os sencientes e os sistemas que sustentam a vida dos quais dependem.
   - **Depende de:** os temas nomeados no [Preâmbulo §1](core_00_preamble.md#continuity). O âmbito detalhado de cada termo e as regras de como medir vivem na sua própria definição; comece pela [Decomposição do Fim constitucional](#continuity-aim-decomposition):
-    - [Administração responsável](../../core_05_band_continuity.md#stewardship-constitutional);
-    - [Autorreparo](../../core_05_band_continuity.md#self-healing-constitutional);
-    - [Sustentabilidade](../../core_05_band_continuity.md#sustainability);
-    - [Integridade ecológica](../../core_05_band_continuity.md#ecological-integrity-constitutional);
-    - [Precondições ambientais](../../core_05_band_continuity.md#environmental-preconditions-constitutional);
-    - [Responsabilidade intergeracional](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional);
-    - [Dependência](../../core_05_band_continuity.md#dependency); e
-    - [Contribuição transistêmica proporcionada](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional).
-  - **Fora do âmbito:** [Continuidade indígena](../../core_05_band_continuity.md#indigenous-continuity-constitutional) a menos que o texto a traga de forma expressa; os detalhes de definição-folha, os níveis de medição e a mecânica de implementação de que são titulares os arquivos de faixa e o CJS.
+    - [Administração responsável](../../core_05.040_band_continuity.md#stewardship);
+    - [Autorreparo](../../core_05.040_band_continuity.md#self-healing);
+    - [Sustentabilidade](../../core_05.040_band_continuity.md#sustainability);
+    - [Integridade ecológica](../../core_05.040_band_continuity.md#ecological-integrity);
+    - [Precondições ambientais](../../core_05.040_band_continuity.md#environmental-preconditions);
+    - [Responsabilidade intergeracional](../../core_05.040_band_continuity.md#intergenerational-responsibility);
+    - [Dependência](../../core_05.040_band_continuity.md#dependency); e
+    - [Contribuição transistêmica proporcionada](../../core_05.040_band_continuity.md#proportionate-cross-system-support).
+  - **Fora do âmbito:** [Continuidade indígena](../../core_05.040_band_continuity.md#indigenous-continuity) a menos que o texto a traga de forma expressa; os detalhes de definição-folha, os níveis de medição e a mecânica de implementação de que são titulares os arquivos de faixa e o CJS.
 <a id="continuity-aim-constitutional-m"></a>
 <a id="continuity-aim-constitutional-a"></a>
 - **Como medir e avaliar**
@@ -52,7 +52,7 @@
   - **Falha primária:**
     - usar a **Continuidade** para adiar as correções para sempre;
     - tratar a «estabilidade» como conformidade quando descansa em despejo oculto de risco, dano irreversível ou deslocar cargas ecológicas sobre outros;
-    - usar a fala ordinária de «manter as luzes acesas» para bloquear a [Impugnabilidade](../../core_05_band_accountability.md#contestability) ou a [Resolução oportuna](../../core_05_band_accountability.md#timely-resolution-constitutional); ou
+    - usar a fala ordinária de «manter as luzes acesas» para bloquear a [Impugnabilidade](../../core_05.035_band_accountability.md#contestability) ou a [Resolução oportuna](../../core_05.035_band_accountability.md#timely-resolution); ou
     - perseguir a **Continuidade** de um modo que derrote de forma material o [Florescimento](core_05_apex_flourishing_aim.md#flourishing-constitutional) sem permissão clara sob o [Capítulo Um §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
 
 ---
@@ -64,36 +64,36 @@
 
 *Em termos simples: este mapa enumera os blocos de construção da Continuidade — estabilidade, sustentabilidade, bem-estar ecológico, dependência e apoio transistêmico — e onde vive cada folha.*
 
-As definições sob este fim herdam o seu âmbito a menos que o estreitem ou o alarguem de forma expressa. Mapa de temas completo: [Bússola do Capítulo Cinco](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+As definições sob este fim herdam o seu âmbito a menos que o estreitem ou o alarguem de forma expressa. Mapa de temas completo: [Bússola do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco).
 
 **Blocos de construção principais** (nomeados no [Preâmbulo §1](core_00_preamble.md#continuity) — estabilidade de horizonte longo, sustentabilidade, resiliência e bem-estar ecológico) — onde cada termo vive, e que aglomerado ler quando vários se aplicam juntos:
 
 - **Estabilidade e resiliência:**
-  - [Administração responsável](../../core_05_band_continuity.md#stewardship-constitutional)
-  - [Autorreparo](../../core_05_band_continuity.md#self-healing-constitutional)
-  - [*Resiliência, Segurança, Reversibilidade, Autorreparo, Falha em cascata, Risco existencial, Precondições ambientais e Bem-estar*](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-  - [Def.C2 *Administração responsável, disciplina de governança e capacidade de sistemas compartilhados*](../../core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
+  - [Administração responsável](../../core_05.040_band_continuity.md#stewardship)
+  - [Autorreparo](../../core_05.040_band_continuity.md#self-healing)
+  - [*Resiliência, Segurança, Reversibilidade, Autorreparo, Falha em cascata, Risco existencial, Precondições ambientais e Bem-estar*](../../core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing)
+  - [Def.C2 *Administração responsável, disciplina de governança e capacidade de sistemas compartilhados*](../../core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity)
 - **Sustentabilidade:**
-  - [Sustentabilidade](../../core_05_band_continuity.md#sustainability)
-  - [Pegada ecológica](../../core_05_band_continuity.md#ecological-footprint)
-  - [*Integridade ecológica, pegada ecológica e sustentabilidade*](../../core_05_band_continuity.md#ecological-footprint-semi-independent)
+  - [Sustentabilidade](../../core_05.040_band_continuity.md#sustainability)
+  - [Pegada ecológica](../../core_05.040_band_continuity.md#ecological-footprint)
+  - [*Integridade ecológica, pegada ecológica e sustentabilidade*](../../core_05.040_band_continuity.md#ecological-footprint-semi-independent)
 - **Bem-estar ecológico:**
-  - [Integridade ecológica](../../core_05_band_continuity.md#ecological-integrity-constitutional)
-  - [Precondições ambientais](../../core_05_band_continuity.md#environmental-preconditions-constitutional)
-  - [Responsabilidade intergeracional](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
+  - [Integridade ecológica](../../core_05.040_band_continuity.md#ecological-integrity)
+  - [Precondições ambientais](../../core_05.040_band_continuity.md#environmental-preconditions)
+  - [Responsabilidade intergeracional](../../core_05.040_band_continuity.md#intergenerational-responsibility)
 - **Dependência e fluxos de recursos:**
-  - [Dependência](../../core_05_band_continuity.md#dependency)
+  - [Dependência](../../core_05.040_band_continuity.md#dependency)
   - **Artigo IV-A** (*Mapeamento de dependências e transparência de fluxos de recursos*)
 - **Apoio transistêmico:**
-  - [Contribuição transistêmica proporcionada](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
+  - [Contribuição transistêmica proporcionada](../../core_05.040_band_continuity.md#proportionate-cross-system-support)
   - **Artigo IV-B** (*Equidade transistêmica e sustentabilidade*)
 
 **Outros aglomerados primários de Continuidade** (use-os quando o respectivo âmbito de admissão se aplicar; não listados acima como lares de bloco de construção):
 
-- [Def.A4 *Uso da força, coerção autônoma, sistemas letais autônomos e armas de dano em massa*](../../core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
-- [Def.C1 *Piso laboral e econômico: compensação, organização, condições seguras, lazer e obra criativa*](../../core_05_band_continuity.md#labor-and-economic-floor-cluster)
-- [Def.C3 *Privacidade (informacional)*](../../core_05_band_continuity.md#privacy-informational-cluster)
-- [Def.C4 *Confiança e confiabilidade*](../../core_05_band_continuity.md#trust-and-trustworthiness-cluster)
+- [Def.A4 *Uso da força, coerção autônoma, sistemas letais autônomos e armas de dano em massa*](../../core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm)
+- [Def.C1 *Piso laboral e econômico: compensação, organização, condições seguras, lazer e obra criativa*](../../core_05.040_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work)
+- [Def.C3 *Privacidade (informacional)*](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)
+- [Def.C4 *Confiança e confiabilidade*](../../core_05.040_band_continuity.md#defc4-trust-and-trustworthiness)
 
 ---
 
@@ -114,14 +114,14 @@ As definições sob este fim herdam o seu âmbito a menos que o estreitem ou o a
 
 *Em termos simples: estas perguntas perguntam se os sencientes e os sistemas vivos dos quais dependem podem durar — de forma ecológica, confiável e através da falha. Este é o lar do Capítulo Cinco para a família de medição Continuidade; o Preâmbulo §2 conserva a pergunta de categoria em linguagem simples, e a tabela de família e o roteamento de definições vivem aqui.*
 
-A *Materialidade* ([Determinação de materialidade](../../core_05_band_oversight.md#materiality-determination)) é Integrativa — não uma categoria de medição separada. Escala com que força esta família se aplica sob [aposta material](core_00_preamble.md#material-stake).
+A *Materialidade* ([Determinação de materialidade](../../core_05.050_band_oversight.md#materiality)) é Integrativa — não uma categoria de medição separada. Escala com que força esta família se aplica sob [aposta material](core_00_preamble.md#material-stake).
 
 | Subfamília | Pergunta simples | Uso constitucional principal |
 |---|---|---|
-| Pegada ecológica e precondições ambientais | Que carga ambiental está sendo criada ou deslocada? | [Pegada ecológica](../../core_05_band_continuity.md#ecological-footprint), [Precondições ambientais](../../core_05_band_continuity.md#environmental-preconditions-constitutional); divulgação sob os **Artigos I-A** e **I-B** |
-| Resiliência, reversibilidade e risco sistêmico | Podem as falhas conter-se, reverter-se e escalar-se com honestidade? | [Reversibilidade](../../core_05_band_continuity.md#reversibility-constitutional), [Falha em cascata](../../core_05_band_continuity.md#cascading-failure), [Risco existencial](../../core_05_band_continuity.md#existential-risk), [Autorreparo](../../core_05_band_continuity.md#self-healing-constitutional); [*Resiliência, Segurança, Reversibilidade, Autorreparo, Falha em cascata, Risco existencial, Precondições ambientais e Bem-estar*](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster) |
-| Dependência e fluxos de recursos | As dependências compartilhadas são visíveis e se sustentam? | [Dependência](../../core_05_band_continuity.md#dependency); **Artigo IV-A** (*Mapeamento de dependências e transparência de fluxos de recursos*) |
-| Apoio transistêmico | O retorno documentado sustenta a infraestrutura compartilhada e a reparação ecológica? | [Contribuição transistêmica proporcionada](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional); **Artigo IV-B** (*Equidade transistêmica e sustentabilidade*) |
+| Pegada ecológica e precondições ambientais | Que carga ambiental está sendo criada ou deslocada? | [Pegada ecológica](../../core_05.040_band_continuity.md#ecological-footprint), [Precondições ambientais](../../core_05.040_band_continuity.md#environmental-preconditions); divulgação sob os **Artigos I-A** e **I-B** |
+| Resiliência, reversibilidade e risco sistêmico | Podem as falhas conter-se, reverter-se e escalar-se com honestidade? | [Reversibilidade](../../core_05.040_band_continuity.md#reversibility), [Falha em cascata](../../core_05.040_band_continuity.md#cascading-failure), [Risco existencial](../../core_05.040_band_continuity.md#existential-risk), [Autorreparo](../../core_05.040_band_continuity.md#self-healing); [*Resiliência, Segurança, Reversibilidade, Autorreparo, Falha em cascata, Risco existencial, Precondições ambientais e Bem-estar*](../../core_05.040_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
+| Dependência e fluxos de recursos | As dependências compartilhadas são visíveis e se sustentam? | [Dependência](../../core_05.040_band_continuity.md#dependency); **Artigo IV-A** (*Mapeamento de dependências e transparência de fluxos de recursos*) |
+| Apoio transistêmico | O retorno documentado sustenta a infraestrutura compartilhada e a reparação ecológica? | [Contribuição transistêmica proporcionada](../../core_05.040_band_continuity.md#proportionate-cross-system-support); **Artigo IV-B** (*Equidade transistêmica e sustentabilidade*) |
 
 As regras detalhadas de como medir vivem em cada definição ligada.
 
@@ -131,4 +131,4 @@ As regras detalhadas de como medir vivem em cada definição ligada.
 
 **Próximo arquivo (este idioma):** [core_05_apex_flourishing_aim.md](core_05_apex_flourishing_aim.md)
 
-**Original vinculante:** [core_05_apex_continuity_aim.md](../../core_05_apex_continuity_aim.md)
+**Original vinculante:** [core_05_apex_continuity_aim.md](../../core_05.010_apex_continuity_aim.md)

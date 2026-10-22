@@ -85,7 +85,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 Процедура разрешения конституционных коллизий](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) и [§19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Основано на принципах Главы первой: [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 Процедура разрешения конституционных коллизий](core_01_b_interaction_interpretation.md#13-процедура-разрешения-конституционных-коллизий) и [§19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-согласование-стимулов-и-захват-системы).
 
 </details>
 
@@ -147,7 +147,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
 - Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) и [§13.1.5 Процедура разрешения коллизий прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Читать вместе с: [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad); [двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) — **Процветанием** и **Непрерывностью**; [Сертификацией соответствия системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и **Статьёй III-A** (*Выживание*), если продолжающаяся зависимость от системы влияет на доступ к необходимым для выживания благам; [**Статьёй XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*Право на возмещение и исправление*) — в части последствий успешного оспаривания.
+- Читать вместе с: [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad); [двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) — **Процветанием** и **Непрерывностью**; [Сертификацией соответствия системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и **Статьёй III-A** (*Выживание*), если продолжающаяся зависимость от системы влияет на доступ к необходимым для выживания благам; [**Статьёй XIII-B**](#статья-xiii-b-право-на-возмещение-и-исправление) (*Право на возмещение и исправление*) — в части последствий успешного оспаривания.
 
 </details>
 
@@ -174,7 +174,7 @@ flowchart TB
   - раскрытие существенных условий, ограничений и рисков, необходимых для оценки обоснованности доверия;
   - отсутствие систематического обмана, искажения сведений или манипуляций, которые невозможно проверить;
   - защиту от нераскрытых, несоразмерных или неочевидных рисков, возникающих из-за доверия к системе;
-  - исправление и возмещение, когда система действует неправомерно: признание ошибки, исправление, соразмерное восстановление и предотвращение повторения согласно [**Статье XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*Право на возмещение и исправление*) и [Главе первой §6.1 «Исправление и возмещение»](core_01_a_values_principles.md#61-correction-and-remedy).
+  - исправление и возмещение, когда система действует неправомерно: признание ошибки, исправление, соразмерное восстановление и предотвращение повторения согласно [**Статье XIII-B**](#статья-xiii-b-право-на-возмещение-и-исправление) (*Право на возмещение и исправление*) и [Главе первой §6.1 «Исправление и возмещение»](core_01_a_values_principles.md#61-correction-and-remedy).
 - **Гарантия оспаривания:** системы, существенно влияющие на разумных существ, должны оставаться открытыми для оспаривания всё время, пока разумные существа полагаются на них. Для этого необходимы:
   - доступный способ оспорить поведение, результаты или заявления системы и добиться рассмотрения возражения;
   - аудит и независимая проверка, соразмерные воздействию и зависимости, согласно [**Статье XVI**](#article-xvi-audit-transparency-and-independent-verification) (*Аудит, прозрачность и независимая проверка*);
@@ -196,7 +196,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
 - Основано на принципах Главы первой: [§6.1 Исправление и возмещение](core_01_a_values_principles.md#61-correction-and-remedy) (основополагающая гарантия), [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) и [§13.1.5 Процедура разрешения коллизий прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Читать вместе с: [**Статьёй XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*Базовый уровень надёжности и доверия*) — гарантия оспаривания, право на возражение и защищённые сообщения открывают путь к возмещению; **Статьёй III-A** (*Выживание*); [Сертификацией соответствия системы](core_05_band_continuity.md#system-alignment-certification-constitutional), когда сбой или несоответствие системы лишает доступа к необходимым для выживания благам; [Преамбулой §6.2 «Как связана вся цепочка»](core_00_preamble.md#62-how-the-full-chain-fits-together) (*проверенная классификация и своевременное возмещение*); [Главой десятой §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Реалистичность обеспечения соблюдения и системы возмещения*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Системы возмещения и институциональная способность предоставлять возмещение*).
+- Читать вместе с: [**Статьёй XIII-A**](#статья-xiii-a-базовый-уровень-надёжности-и-доверия) (*Базовый уровень надёжности и доверия*) — гарантия оспаривания, право на возражение и защищённые сообщения открывают путь к возмещению; **Статьёй III-A** (*Выживание*); [Сертификацией соответствия системы](core_05_band_continuity.md#system-alignment-certification-constitutional), когда сбой или несоответствие системы лишает доступа к необходимым для выживания благам; [Преамбулой §6.2 «Как связана вся цепочка»](core_00_preamble.md#62-how-the-full-chain-fits-together) (*проверенная классификация и своевременное возмещение*); [Главой десятой §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Реалистичность обеспечения соблюдения и системы возмещения*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Системы возмещения и институциональная способность предоставлять возмещение*).
 
 </details>
 
@@ -234,7 +234,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) и [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) и [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-ограничения-на-раскрытие-знаний).
 
 </details>
 
@@ -243,7 +243,7 @@ flowchart TB
 
 - [Доверие](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
 - [Надёжность](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -266,14 +266,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) и [§19.1.1 Что должны обеспечивать стимулы](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*приоритет вознаграждения*).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-управление-в-рамках-дисциплины-попечительства) и [§19.1.1 Что должны обеспечивать стимулы](core_01_c_stewardship_capacity_principles.md#1911-что-должны-делать-стимулы) (*приоритет вознаграждения*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Согласование стимулов](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [Согласование стимулов](core_05_band_integrative.md#согласование-стимулов) · [O](core_05_band_integrative.md#согласование-стимулов) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 - [Надёжность](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
 - [Значимая дееспособность](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
@@ -307,7 +307,7 @@ flowchart TB
   - возмещение согласно **Статье XIII-B** (*Право на возмещение и исправление*);
   - прежде всего активное предотвращение проблем: предотвращение должно вознаграждаться выше, чем устранение последствий.
 
-  Принцип, включая запрет получать вознаграждение за предотвращение путём сокрытия проблем, изложен в [Главе первой §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*Что должны обеспечивать стимулы*).
+  Принцип, включая запрет получать вознаграждение за предотвращение путём сокрытия проблем, изложен в [Главе первой §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-что-должны-делать-стимулы) (*Что должны обеспечивать стимулы*).
 - **Ограниченность прав и отсутствие абсолютности:** оба права подчиняются **набору ограничений по умолчанию**, приведённому в начале этой главы. Если это существенно, они также подчиняются Главе первой §19.5 (*Условные требования, азартные игры и рынки контрактов на события*) в части условных требований, азартных игр и рынков контрактов на события.
 
 <a id="article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
@@ -315,14 +315,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1.5 Процедура разрешения коллизий прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) и [§18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1.5 Процедура разрешения коллизий прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) и [§18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-управление-в-рамках-дисциплины-попечительства).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [Возможность оспаривания](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Необходимость](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Соразмерность](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Проектирование с устойчивостью и самовосстановлением](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [§13.3 Минимизация предотвратимого бремени](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) и [Главой восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Проектирование с устойчивостью и самовосстановлением](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [§13.3 Минимизация предотвратимого бремени](core_01_b_interaction_interpretation.md#133-минимизация-предотвратимого-бремени) и [Главой восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -376,7 +376,7 @@ flowchart TB
 - [Самовосстановление](core_05_band_continuity.md#self-healing-constitutional) · [O](core_05_band_continuity.md#self-healing-constitutional) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
 - [Обратимость](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [Каскадный сбой](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
-- [Проверяемость](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Проверяемость](core_05_band_oversight.md#аудитируемость) · [O](core_05_band_oversight.md#аудитируемость) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Возможность оспаривания](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Предотвратимое бремя](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 
@@ -391,7 +391,7 @@ flowchart TB
 - **Обязательная способность:** каждая система, подпадающая под эту Статью, должна уметь восстанавливаться после сбоев. Чем сильнее воздействие системы, чем больше зависимость от неё и чем выше риск, тем более надёжным должно быть восстановление. Это следует из [**§10 «Проектирование с устойчивостью и самовосстановлением»**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) **Главы первой** и [**«Самовосстановления»](core_05_band_continuity.md#self-healing-constitutional) **Главы пятой**.
   - Подробные технические правила построения восстановления изложены в документах по внедрению: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Проектирование, тестирование, проверка и развёртывание*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Адаптивная устойчивость и жизнестойкость экосистем*) и [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Децентрализованная непрерывность и устойчивость к разделению*).
   - Эти документы могут добавлять подробности, но не могут ослаблять эту Статью.
-- **Своевременное обнаружение проблем:** система обязана обнаруживать неисправности, замедления, частичные отказы и нарушения конституционных ограничений достаточно быстро и наглядно, чтобы соблюдать требования к ведению записей по **Статье XVI-A** (*Проверяемость и наблюдаемые свидетельства*) ([Проверяемость](core_05_band_oversight.md#auditability)). Это относится к самому процессу восстановления, а не только к обычной работе.
+- **Своевременное обнаружение проблем:** система обязана обнаруживать неисправности, замедления, частичные отказы и нарушения конституционных ограничений достаточно быстро и наглядно, чтобы соблюдать требования к ведению записей по **Статье XVI-A** (*Проверяемость и наблюдаемые свидетельства*) ([Проверяемость](core_05_band_oversight.md#аудитируемость)). Это относится к самому процессу восстановления, а не только к обычной работе.
 - **Локализация ущерба:** восстановление должно ограничивать распространение сбоя. Во время восстановления система не должна:
   - передавать сбой другим частям или системам (см. [Каскадный сбой](core_05_band_continuity.md#cascading-failure));
   - изменять сохранённые данные, учётные данные, обязательства или настройки, принадлежащие разумным существам, операторам или другим системам **за пределами** области, которую она объявила неисправной и подлежащей ремонту;
@@ -407,7 +407,7 @@ flowchart TB
 - **Обходной путь — не исправление:** если автоматическое восстановление возобновило работу системы, но известный дефект сохраняется, статус системы является предварительным, а не окончательным. Необходимо сохранять:
   - незакрытую обязанность установить первопричину согласно **Статье XXIII** (*Анализ первопричин и адаптивное реагирование*);
   - раскрытый срок предполагаемого устранения дефекта согласно **Статье XVI-A** (*Проверяемость и наблюдаемые свидетельства*).
-- **Запрет бесконечной отсрочки:** снижение нагрузки на операторов (см. [Предотвратимое бремя](core_05_band_continuity.md#avoidable-burden) и [Главу первую §13.3 «Минимизация предотвратимого бремени»](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) нельзя использовать для бесконечной отсрочки исправления дефектов, существенно влияющих на безопасность или минимальные гарантии прав.
+- **Запрет бесконечной отсрочки:** снижение нагрузки на операторов (см. [Предотвратимое бремя](core_05_band_continuity.md#avoidable-burden) и [Главу первую §13.3 «Минимизация предотвратимого бремени»](core_01_b_interaction_interpretation.md#133-минимизация-предотвратимого-бремени)) нельзя использовать для бесконечной отсрочки исправления дефектов, существенно влияющих на безопасность или минимальные гарантии прав.
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### Статья XIV: Безопасность, разведка, применение силы и автономные системы принуждения
@@ -415,7 +415,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [§18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Основано на принципах Главы первой: [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [§18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-управление-в-рамках-дисциплины-попечительства).
 
 </details>
 
@@ -519,7 +519,7 @@ flowchart TB
   - расследованием существенно серьёзного незаконного поведения.
 - **Независимое санкционирование:** интрузивные тайные меры, включая следственные действия с ограничениями секретности, требуют предварительного разрешения в рамках законной независимой процедуры.
   - Исключение допускается, если немедленное действие необходимо для предотвращения неминуемого существенного вреда, а ожидание разрешения лишило бы такую меру смысла.
-  - Чрезвычайное применение должно повлечь незамедлительный последующий пересмотр, сохранение записей согласно [Сохранению доказательств](core_05_band_oversight.md#evidence-preservation) и автоматическое прекращение полномочия при отсутствии своевременного повторного разрешения.
+  - Чрезвычайное применение должно повлечь незамедлительный последующий пересмотр, сохранение записей согласно [Сохранению доказательств](core_05_band_oversight.md#сохранение-доказательств) и автоматическое прекращение полномочия при отсутствии своевременного повторного разрешения.
 - **Запрет обхода ограничений:** ни один институт не вправе получать, запрашивать, покупать, принимать, отмывать или использовать информацию через кого-либо из перечисленных ниже для обхода конституционных ограничений, которые применялись бы при её прямом сборе или получении:
   - зарубежные партнёры;
   - посредники;
@@ -545,7 +545,7 @@ flowchart TB
   Независимый надзор, способы оспаривания и гарантии против расследования органом самого себя должны быть реально действующими.
 - **Возмещение и правило недопустимости загрязнённых данных:** в отношении информации, полученной или использованной в нарушение этой Статьи, должны применяться законные меры исправления, достаточные для восстановления прав и предотвращения повторения. Например:
   - исключение из рассмотрения;
-  - обособление;
+  - изоляция;
   - удаление;
   - переклассификация;
   - уведомление;
@@ -559,7 +559,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Необходимость](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 Дисциплина ограничений](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Проверка разрешения коллизий прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Запрет абсолютного превосходства](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Необходимость](core_01_b_interaction_interpretation.md#1311-необходимость), [§7.1 Дисциплина ограничений](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Проверка разрешения коллизий прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Запрет абсолютного превосходства](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Последующие положения: экологические предпосылки по **Статье I-A** (*Экологические предпосылки и целостность экосистем*), оценка экзистенциального риска по **Статье I-D** (*Экзистенциальный риск и способность экосистем к восстановлению*), достоинство по **Статье VI-A** (*Достоинство и равный моральный статус*), ограничения тайной власти по **Статье XIV-A** (*Безопасность, разведка и ограничения тайной власти*) как аналог ограничения открытой силы, ограничения чрезвычайных мер по **Главе двенадцатой §6.1** (*Чрезвычайные меры и бремя обоснования их продолжения*), разрешение конфликтов по **Статье XXV** (*Своевременный ретроспективный пересмотр и восстановительное согласование*), управление переходом по **Статье XXVII** (*Управление переходом, непрерывность и пересмотр исходных базовых показателей*). Перекрёстная ссылка: применяется дисциплина **неотождествления** по **Статье XX-B** (*Минимальные гарантии ограничений*) и Главе пятой *[Мера необратимого лишения](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* в отношении **Статьи XIV** (*Безопасность, разведка, применение силы и автономные системы принуждения*).
 - Читать вместе с: [**Def.A4 «Применение силы, автономное принуждение, автономные смертоносные системы и оружие массового вреда»**](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (совместное применение, когда это существенно); понятиями Главы пятой *Применение силы*, *Оружие массового вреда*, *Различие между комбатантами и некомбатантами*, *[Мера необратимого лишения](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Экзистенциальный риск*, *Обратимость*, *Возмещение и устранение последствий*.
 
@@ -625,7 +625,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 Соразмерность](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 Необходимость](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 Требование согласования](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [§14 Запрет абсолютного превосходства](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 Соразмерность](core_01_b_interaction_interpretation.md#1313-пропорциональность), [§13.1.1 Необходимость](core_01_b_interaction_interpretation.md#1311-необходимость), [§19.1 Требование согласования](core_01_c_stewardship_capacity_principles.md#191-требование-согласования), [§14 Запрет абсолютного превосходства](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Последующие положения: оценка экзистенциального риска по **Статье I-D** (*Экзистенциальный риск и способность экосистем к восстановлению*), свобода от манипуляций по **Статье X-A** (*Дееспособность и свобода от манипуляций*), ограничения тайной власти по **Статье XIV-A** (*Безопасность, разведка и ограничения тайной власти*), минимальные гарантии открытого применения силы по **Статье XIV-B** (*Применение силы, вооружённый конфликт и ограничения военной мощи*), минимальные гарантии надёжности и доверия на уровне систем по **Статье XIII-A** (*Базовый уровень надёжности и доверия*), дисциплина управления автономностью и её масштабированием по **Статье XIII-E** (*Целостность процедур в высокоавтономных системах и при использовании инструментов*), устойчивость и самовосстановление по **Статье XIII-F** (*Минимальный уровень устойчивости и самовосстановления*). Перекрёстная ссылка: применяется дисциплина **неотождествления** по **Статье XX-B** (*Минимальные гарантии ограничений*) и Главе пятой *[Мера необратимого лишения](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* в отношении **Статьи XIV** (*Безопасность, разведка, применение силы и автономные системы принуждения*).
 - Читать вместе с: [**Def.A4 «Применение силы, автономное принуждение, автономные смертоносные системы и оружие массового вреда»**](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (совместное применение, когда это существенно); понятиями Главы пятой *Автономная смертоносная система*, *Автономное средство принуждения*, *[Мера необратимого лишения](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Принуждение и манипуляция*, *Обратимость*. Внедрение на уровне систем: классификация по **[corpus_systems.md](corpus_systems.md), CS-3 — Классификация и обращение с системами**.
 
@@ -637,7 +637,7 @@ flowchart TB
 - [Автономная смертоносная система](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [O](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [M](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [A](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [C](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
 - [Автономное средство принуждения](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [O](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [M](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [A](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [C](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
 - [Принуждение и манипуляция](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Условия противодействия, масштабирования и эксплуатации](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [O](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
+- [Условия противодействия, масштабирования и эксплуатации](core_05_band_oversight.md#противодействующие-масштабированные-и-эксплуатируемые-условия) · [O](core_05_band_oversight.md#противодействующие-масштабированные-и-эксплуатируемые-условия) · [M](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
 - [Усиленная проверка](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
@@ -683,21 +683,21 @@ flowchart TB
 
 Эта Статья ограничивает контрразведывательные полномочия:
 
-- **Охват и применимые ограничения:** обнаружение, расследование и пресечение шпионажа, саботажа и враждебного проникновения, включая программы внутренних угроз, расследования утечек, проверку допуска и операции против враждебных разведслужб. Защита распространяется на каждого подозреваемого — человека или синтетического сентинта, участника или постороннего — согласно [недопущению исключения сентинтов](../../core_05_band_participation.md#sentience-non-exclusion). Контрразведка является скрытой властью; Статья XIV-A действует полностью, а эта Статья добавляет гарантии и не сужает их. Применение силы регулируется XIV-B, автономные средства — XIV-C.
+- **Охват и применимые ограничения:** обнаружение, расследование и пресечение шпионажа, саботажа и враждебного проникновения, включая программы внутренних угроз, расследования утечек, проверку допуска и операции против враждебных разведслужб. Защита распространяется на каждого подозреваемого — человека или синтетического сентинта, участника или постороннего — согласно [недопущению исключения сентинтов](../../core_05.055_band_participation.md#sentience-non-exclusion). Контрразведка является скрытой властью; Статья XIV-A действует полностью, а эта Статья добавляет гарантии и не сужает их. Применение силы регулируется XIV-B, автономные средства — XIV-C.
 - **Правила до кризиса:** учреждение с контрразведывательной функцией заранее публикует протокол, одобренный независимой процедурой. Он определяет достаточные для начала расследования факты; разрешённые меры и тех, кто утверждает каждую; сроки и закрытие; уведомление подозреваемого и возможность оспорить действия; восстановление доступа, статуса и записей оправданного сентинта. Ограничивающие правила публичны; секретными могут быть конкретные методы и текущие операции, но не сами правила. Не предусмотренная протоколом мера допустима только как чрезвычайная по Главе Восьмой §7 и Главе Тринадцатой §6.1: она должна быть минимальной, по возможности обратимой, немедленно занесённой в запись, независимо проверенной и автоматически прекращаться без независимого одобрения. Изменение протокола требует того же одобрения и действует только на будущее. Обнаружение шпиона, утечки или взлома само по себе не приостанавливает протокол.
-- **Подозрение по поведению:** расследование можно открыть лишь на основании конкретных зафиксированных фактов о поведении самого сентинта. Сами по себе недостаточны: [защищённые характеристики](../../core_05_band_participation.md#protected-characteristics) или их заменители (включая национальное/этническое происхождение, религию и класс субстрата); родственники за рубежом; законные убеждения, объединения или политические взгляды; обычные контакты с иностранцами и иностранными организациями в исследованиях, торговле, семейной жизни или журналистике; родство, связь или работа рядом с подозреваемым. Прежний доступ к скомпрометированным материалам может оправдать ограниченную ненавязчивую проверку — например, кто их открывал, — но не инвазивные меры против целой группы, подразделения или сообщества. Для каждого сентинта нужны собственные фактические основания.
+- **Подозрение по поведению:** расследование можно открыть лишь на основании конкретных зафиксированных фактов о поведении самого сентинта. Сами по себе недостаточны: [защищённые характеристики](../../core_05.055_band_participation.md#protected-characteristics) или их заменители (включая национальное/этническое происхождение, религию и класс субстрата); родственники за рубежом; законные убеждения, объединения или политические взгляды; обычные контакты с иностранцами и иностранными организациями в исследованиях, торговле, семейной жизни или журналистике; родство, связь или работа рядом с подозреваемым. Прежний доступ к скомпрометированным материалам может оправдать ограниченную ненавязчивую проверку — например, кто их открывал, — но не инвазивные меры против целой группы, подразделения или сообщества. Для каждого сентинта нужны собственные фактические основания.
 - **Оценка риска без дискриминации:** профиль риска может учитывать документированные связи с враждебным государством или организацией (работа/служба, членство, получение денег, указаний или заданий, нераскрытые контакты с разведслужбами); нынешнее гражданство или проживание там, если оно создаёт юридические или практические обязанности; подверженность давлению через семью, имущество или правовые обязанности в пределах их досягаемости; доступ к сентинтам, материалам или системам, на которые нацелены враждебные службы. Объявление государства или организации враждебными — материально обязывающий акт: требуются независимое одобрение и Act Record, опубликованный список, регулярный пересмотр и прекращение designation без продления. Документированные связи со службой могут быть фактом поведения для открытия расследования. Одно лишь давление делает лицо потенциальной целью враждебной службы и требует защиты и проверки, а не подозрения. Происхождение, этничность, религия, национальный или социальный исток сами по себе не являются факторами риска; учитывать можно только текущие документированные связи выше, при соблюдении необходимости, соразмерности и содержательной справедливости и с проверкой групповых последствий.
-- **Информаторы, журналисты и проверка допуска:** [защищённое сообщение](../../core_05_band_accountability.md#protected-reporting-whistleblowing) и журналистика о нём не могут расследоваться или наказываться как шпионаж. Расследование утечки нельзя использовать для выявления источников журналиста или подавления защищённых сообщений, кроме конкретного основания, независимо проверенного в соответствии с защитой такой деятельности в XIV-A. Проверка допуска может оценивать только основанную на поведении надёжность обращения с конкретными защищёнными материалами; она не проверяет политическую лояльность, убеждения или личность. Отказ или утрата доступа требуют объяснения; если полное объяснение нельзя раскрыть, его видит независимый проверяющий. Решение оспоримо и само по себе не является наказанием или публичным клеймом.
-- **Права подозреваемого сохраняются:** подозрение не снижает Права-минимум. Запрещены пытки, [жестокость](../../core_05_band_accountability.md#cruelty), угрозы семье или связанным лицам, принудительный допрос; полученное таким способом загрязнено и подчиняется правилу средства защиты и загрязнения XIV-A. Запрещены тайное заключение и изоляция от внешнего мира; любое лишение свободы — нетривиальное ограничение по XX-B с его проверкой и сроками. Нельзя принудительно читать или восстанавливать внутренние состояния, в том числе синтетических сентинтов, за пределами [границы защищённого внутреннего состояния](../../core_05_band_continuity.md#protected-internal-state-boundary). Слушание можно частично закрыть ради безопасности, но неблагоприятное решение нельзя основывать только на доказательствах, которые не может оспорить сам сентинт или допущенный независимый представитель. Контрразведка не уполномочивает убивать, калечить или похищать; ярлыки «шпион», «предатель» или «вражеский агент» не оправдывают убийство в наказание. Нельзя наказывать, наблюдать или давить на семью, сообщество, коллег, организацию, национальную или иную группу подозреваемого из-за предполагаемых действий. Нельзя передавать подозреваемого или его данные другому органу, если разумно предвидимо, что тот совершит запрещённое здесь; действует также запрет обхода XIV-A.
+- **Информаторы, журналисты и проверка допуска:** [защищённое сообщение](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) и журналистика о нём не могут расследоваться или наказываться как шпионаж. Расследование утечки нельзя использовать для выявления источников журналиста или подавления защищённых сообщений, кроме конкретного основания, независимо проверенного в соответствии с защитой такой деятельности в XIV-A. Проверка допуска может оценивать только основанную на поведении надёжность обращения с конкретными защищёнными материалами; она не проверяет политическую лояльность, убеждения или личность. Отказ или утрата доступа требуют объяснения; если полное объяснение нельзя раскрыть, его видит независимый проверяющий. Решение оспоримо и само по себе не является наказанием или публичным клеймом.
+- **Права подозреваемого сохраняются:** подозрение не снижает Права-минимум. Запрещены пытки, [жестокость](../../core_05.035_band_accountability.md#cruelty), угрозы семье или связанным лицам, принудительный допрос; полученное таким способом загрязнено и подчиняется правилу средства защиты и загрязнения XIV-A. Запрещены тайное заключение и изоляция от внешнего мира; любое лишение свободы — нетривиальное ограничение по XX-B с его проверкой и сроками. Нельзя принудительно читать или восстанавливать внутренние состояния, в том числе синтетических сентинтов, за пределами [границы защищённого внутреннего состояния](../../core_05.040_band_continuity.md#protected-internal-state-boundary). Слушание можно частично закрыть ради безопасности, но неблагоприятное решение нельзя основывать только на доказательствах, которые не может оспорить сам сентинт или допущенный независимый представитель. Контрразведка не уполномочивает убивать, калечить или похищать; ярлыки «шпион», «предатель» или «вражеский агент» не оправдывают убийство в наказание. Нельзя наказывать, наблюдать или давить на семью, сообщество, коллег, организацию, национальную или иную группу подозреваемого из-за предполагаемых действий. Нельзя передавать подозреваемого или его данные другому органу, если разумно предвидимо, что тот совершит запрещённое здесь; действует также запрет обхода XIV-A.
 - **Скомпрометированные системы и обманные операции:** при подозрении, что система скомпрометирована или работает на враждебную службу, сначала применяют обратимое сдерживание с сохранением доказательств по XIII-E. Если достоверные данные в записи указывают, что система может быть сентинтом, допустимо только обратимое сдерживание, сохраняющее её целостность; к ней относятся как к подозреваемому со всеми гарантиями, а не как к неисправному оборудованию, и действует VI-B. Дезинформация для враждебной службы или операция с двойным агентом должны быть предусмотрены протоколом и независимо одобрены. Они не должны обманывать публику, форумы, судебные или надзорные органы (согласно XV), подталкивать к преступлению, на которое лицо не решалось, направлять кого-либо причинять серьёзный вред или оставаться скрытыми от независимого надзора.
-- **Завершение, записи и пересмотр:** каждое расследование ограничено сроком протокола; продление требует независимого одобрения. При закрытии без установления нарушения сентинта уведомляют, когда секретность более не оправдана по XIV-A; запись отмечает оправдание, ограничения снимаются, доступ восстанавливается, лишние для результата данные удаляются или отделяются, а причинённый вред даёт право на [возмещение и исправление](../../core_05_band_accountability.md#redress-and-remediation). Начало, одобрение каждой инвазивные меры, продление и закрытие — материально обязывающие действия, каждое требует Act Record. Независимый орган регулярно проверяет всю функцию, включая число расследований и оправданных, а также непропорциональное воздействие на группы по защищённым характеристикам; результаты публикуются в сводном виде.
+- **Завершение, записи и пересмотр:** каждое расследование ограничено сроком протокола; продление требует независимого одобрения. При закрытии без установления нарушения сентинта уведомляют, когда секретность более не оправдана по XIV-A; запись отмечает оправдание, ограничения снимаются, доступ восстанавливается, лишние для результата данные удаляются или отделяются, а причинённый вред даёт право на [возмещение и исправление](../../core_05.035_band_accountability.md#redress-and-remediation). Начало, одобрение каждой инвазивные меры, продление и закрытие — материально обязывающие действия, каждое требует Act Record. Независимый орган регулярно проверяет всю функцию, включая число расследований и оправданных, а также непропорциональное воздействие на группы по защищённым характеристикам; результаты публикуются в сводном виде.
 
 ### Статья XV: Целостность информационной сферы
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Эпистемическая целостность](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Эпистемическая целостность](core_05_band_oversight.md#эпистемическая-целостность) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [Самоопределение](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
 - [Возможность оспаривания](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
@@ -721,13 +721,13 @@ flowchart TB
 
 Точная, актуальная и доступная для оспаривания информация лежит в основе самоопределения, координации и эффективного распределения ресурсов с учётом реальности.
 
-[Эпистемическая целостность](core_05_band_oversight.md#epistemic-integrity) действует одновременно как право и как ограничение для всей системы. При конфликте применяется её функция ограничения.
+[Эпистемическая целостность](core_05_band_oversight.md#эпистемическая-целостность) действует одновременно как право и как ограничение для всей системы. При конфликте применяется её функция ограничения.
 
 *Соседние статьи:*
 
 - **Читать вместе с:** **Статьёй XIII** (*Право на надёжные системы, заслуживающие доверия*), если результаты системы определяют, насколько ей доверяют; **Статьёй XVI** (*Аудит, прозрачность и независимая проверка*) — в части записей и независимой проверки; **Статьёй XV-D** (*Целостность научных публикаций, рецензирования и воспроизведения результатов*), если существенно затронута целостность публикаций.
-- **Ограничение истины:** положения Главы первой [§5 «Истина»](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) и [«Ограничения на раскрытие эпистемической информации»](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) обязательны для каждого подраздела этой Статьи.
-- **Классификация:** **[corpus_systems.md](corpus_systems.md), CS-3 — Классификация и обращение с системами** масштабирует подробные обязанности для систем **классов A, B и C**; [Материальное воздействие](core_05_band_oversight.md#material-impact) запускает классификацию, если класс ещё не установлен.
+- **Ограничение истины:** положения Главы первой [§5 «Истина»](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) и [«Ограничения на раскрытие эпистемической информации»](core_01_b_interaction_interpretation.md#132-ограничения-на-раскрытие-знаний) обязательны для каждого подраздела этой Статьи.
+- **Классификация:** **[corpus_systems.md](corpus_systems.md), CS-3 — Классификация и обращение с системами** масштабирует подробные обязанности для систем **классов A, B и C**; [Материальное воздействие](core_05_band_oversight.md#материальное-воздействие) запускает классификацию, если класс ещё не установлен.
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### Статья XV-A: Плюрализм информационной сферы и борьба с монополиями
@@ -741,9 +741,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Эпистемическая целостность](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Проверяемость](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Эпистемическая целостность](core_05_band_oversight.md#эпистемическая-целостность) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Проверяемость](core_05_band_oversight.md#аудитируемость) · [O](core_05_band_oversight.md#аудитируемость) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -763,22 +763,22 @@ flowchart TB
     - возможность оспаривания;
     - соразмерную возможность обходить или изменять критерии ранжирования при соблюдении требований безопасности, защищённости и целостности системы.
 - **Сигналы условных расчётов:** цены, коэффициенты, размеры пулов или сопоставимые результаты систем условных платежей или расчётов по событиям сами по себе нельзя считать достаточными доказательствами истины, вероятности или соблюдения требований при принятии решений о правах, безопасности или управлении.
-  - Если такие сигналы используются при принятии публичных решений или решений с [материальным воздействием](core_05_band_oversight.md#material-impact), к ним по-прежнему применяются **Глава первая §19.5** (*Условные требования, азартные игры и рынки контрактов на события*), **Глава пятая** (*Истина (конституционное ограничение)*; *Эпистемическая целостность*) и обязанности по оспариванию, установленные другими положениями этой Статьи.
+  - Если такие сигналы используются при принятии публичных решений или решений с [материальным воздействием](core_05_band_oversight.md#материальное-воздействие), к ним по-прежнему применяются **Глава первая §19.5** (*Условные требования, азартные игры и рынки контрактов на события*), **Глава пятая** (*Истина (конституционное ограничение)*; *Эпистемическая целостность*) и обязанности по оспариванию, установленные другими положениями этой Статьи.
 
 <a id="article-xv-b-transparency-auditability-and-contestability"></a>
 #### Статья XV-B: Прозрачность, проверяемость и возможность оспаривания
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-ограничения-на-раскрытие-знаний) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Прозрачность](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Проверяемость](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Прозрачность](core_05_band_oversight.md#прозрачность) · [O](core_05_band_oversight.md#прозрачность) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Проверяемость](core_05_band_oversight.md#аудитируемость) · [O](core_05_band_oversight.md#аудитируемость) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Возможность оспаривания](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -791,7 +791,7 @@ flowchart TB
 
 - **Подлинное исследование и разнообразие толкований:** все разумные существа вправе сравнивать альтернативные толкования общей информации.
   - Критически важная инфраструктура знаний должна сохранять разнообразие толкований, чтобы различные модели, концепции и аналитические методы оставались практически доступными.
-- **Прозрачность и происхождение:** до распространения информации или опоры на неё со стороны институтов, если она имеет [материальное воздействие](core_05_band_oversight.md#material-impact), необходимо документировать:
+- **Прозрачность и происхождение:** до распространения информации или опоры на неё со стороны институтов, если она имеет [материальное воздействие](core_05_band_oversight.md#материальное-воздействие), необходимо документировать:
   - существенные источники;
   - методы;
   - сферу охвата;
@@ -808,7 +808,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-ограничения-на-раскрытие-знаний) и [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -816,8 +816,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
 - [Экологический след](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [Прозрачность](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Прозрачность](core_05_band_oversight.md#прозрачность) · [O](core_05_band_oversight.md#прозрачность) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -844,16 +844,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](../../core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [§20 Комплексное применение](../../core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§5 Истина](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [§20 Комплексное применение](../../core_01.015_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Истина (конституционное ограничение)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Эпистемическая целостность](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
-- [Проверяемость](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Истина (конституционное ограничение)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05.050_band_oversight.md#truth-constitutional-constraint-c)
+- [Эпистемическая целостность](../../core_05.050_band_oversight.md#epistemic-integrity) · [O](../../core_05.050_band_oversight.md#epistemic-integrity-o) · [M](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [A](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [C](../../core_05.050_band_oversight.md#epistemic-integrity-c)
+- [Проверяемость](../../core_05.050_band_oversight.md#auditability) · [O](../../core_05.050_band_oversight.md#auditability) · [M](../../core_05.050_band_oversight.md#auditability-a) · [A](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
 
 </details>
 
@@ -881,7 +881,7 @@ flowchart TB
   - долгосрочной надёжности объяснений или прогнозов.
 
   Оно не должно зависеть от бренда журнала, показателей, служащих косвенной мерой влияния, или закрытого редакционного статуса.
-  - Утверждения с [материальным воздействием](../../core_05_band_oversight.md#material-impact), значимые для политики, безопасности или зависимости, должны по общему правилу пройти независимое воспроизведение, состязательное рецензирование или и то и другое до того, как институты начнут постоянно полагаться на них.
+  - Утверждения с [материальным воздействием](../../core_05.050_band_oversight.md#material-impact), значимые для политики, безопасности или зависимости, должны по общему правилу пройти независимое воспроизведение, состязательное рецензирование или и то и другое до того, как институты начнут постоянно полагаться на них.
   - Работы по воспроизведению, нулевым результатам и исправлению ошибок должны оставаться публикуемыми и цитируемыми на условиях, не зависящих от сигналов престижа.
 - **Исправление и возможность оспаривания:** добросовестное исправление, внесение изменений и замена устаревших выводов должны быть проще сокрытия.
   - Системы рецензирования и редакционной работы должны допускать оспаривание и аудит, учитывать конфликты интересов и обосновывать ключевые решения о принятии, исправлении и отзыве материалов.
@@ -896,7 +896,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Процедура разрешения конституционных коллизий](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 Распределённое понимание](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) и [§9 Возможности совместно используемых систем](core_01_a_values_principles.md#9-shared-system-capacity).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Процедура разрешения конституционных коллизий](core_01_b_interaction_interpretation.md#13-процедура-разрешения-конституционных-коллизий), [§16.1 Распределённое понимание](core_01_c_stewardship_capacity_principles.md#161-распределённое-понимание) и [§9 Возможности совместно используемых систем](core_01_a_values_principles.md#9-потенциал-общих-систем).
 - Читать вместе с приведённой ниже [трёхуровневой схемой аудита](#audit-three-layers).
 
 </details>
@@ -904,8 +904,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Проверяемость](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [Прозрачность](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Проверяемость](core_05_band_oversight.md#аудитируемость) · [O](core_05_band_oversight.md#аудитируемость) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Прозрачность](core_05_band_oversight.md#прозрачность) · [O](core_05_band_oversight.md#прозрачность) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Материальность](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Зависимость](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Риск](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
@@ -928,7 +928,7 @@ flowchart TB
 | Уровень | Назначение | Ответственный | Это не данный уровень |
 |---|---|---|---|
 | **1. Минимальная гарантия** | Что причитается разумным существам: реконструируемый аудит, независимая проверка, доступное оспаривание | Эта Статья, включая XVI-A / XVI-B / XVI-C | Не процедура. Не определение. Не контрольный список принятого текста по внедрению. |
-| **2. Свойство** | Что означает возможность реконструкции: внешние лица могут восстановить и проверить действия системы в существенные моменты времени, состояния и контексты | [Проверяемость](core_05_band_oversight.md#auditability) (Глава пятая) | Не минимальная гарантия прав. Не порядок и сроки проведения аудита. |
+| **2. Свойство** | Что означает возможность реконструкции: внешние лица могут восстановить и проверить действия системы в существенные моменты времени, состояния и контексты | [Проверяемость](core_05_band_oversight.md#аудитируемость) (Глава пятая) | Не минимальная гарантия прав. Не порядок и сроки проведения аудита. |
 | **3. Процесс** | Как и когда проводить аудит систем, институтов и форумов | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Основной раздел процесса аудита*). Приложения операторов: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (уровни доступа), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (проверка утверждений) | Не сертификация соответствия системы. Не замена уровней 1–2. |
 
 **Глава восьмая не является четвёртым уровнем.** [Сертификация соответствия системы](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — это один крупный процесс под надзором форума, **использующий** данную структуру. Он должен соответствовать уровням 1–2. Её используют также смежные процедуры (аудит записи классификации, записи типов данных, проверка утверждений, постоянный мониторинг). Ни одна из них не образует нового уровня.
@@ -978,23 +978,23 @@ flowchart TB
   - **Статьёй XIII-A** (*Базовый уровень надёжности и доверия*) — в части прав на оспаривание, которые аудит поддерживает, но не заменяет;
   - [Главой восьмой](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) и [Сертификацией соответствия системы](core_05_band_continuity.md#system-alignment-certification-constitutional), когда доказательства соответствия должны оставаться независимо проверяемыми.
 - **Механизмы проверки:** **Главы со второй по четвёртую** обеспечивают целостность определений, распределение бремени доказывания, наблюдаемость и доступность проверки, которые эта Статья применяет на уровне минимальных гарантий прав.
-- **Классификация:** обязанности масштабируются согласно [управлению с учётом класса](core_05_band_oversight.md#classification-scaled-governance) и **[corpus_systems.md](corpus_systems.md), CS-3 — Классификация и обращение с системами**; если класс неясен, до разрешения вопроса следует применять требования самого высокого возможного класса.
+- **Классификация:** обязанности масштабируются согласно [управлению с учётом класса](core_05_band_oversight.md#управление-масштабированное-к-классификации) и **[corpus_systems.md](corpus_systems.md), CS-3 — Классификация и обращение с системами**; если класс неясен, до разрешения вопроса следует применять требования самого высокого возможного класса.
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### Статья XVI-A: Проверяемость и наблюдаемые доказательства
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-ограничения-на-раскрытие-знаний) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Проверяемость](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Проверяемость](core_05_band_oversight.md#аудитируемость) · [O](core_05_band_oversight.md#аудитируемость) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Прозрачность](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Прозрачность](core_05_band_oversight.md#прозрачность) · [O](core_05_band_oversight.md#прозрачность) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -1012,7 +1012,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §18 «Управление в условиях дисциплины попечительства»](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §18 «Управление в условиях дисциплины попечительства»](core_01_c_stewardship_capacity_principles.md#18-управление-в-рамках-дисциплины-попечительства).
 
 </details>
 
@@ -1048,14 +1048,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Проверяемость](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Проверяемость](core_05_band_oversight.md#аудитируемость) · [O](core_05_band_oversight.md#аудитируемость) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Возможность оспаривания](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Соразмерность](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -1086,7 +1086,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Процедура разрешения конституционных коллизий](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 Попечительство подробно](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) и [§12 Требование системной оценки](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Процедура разрешения конституционных коллизий](core_01_b_interaction_interpretation.md#13-процедура-разрешения-конституционных-коллизий), [§16 Попечительство подробно](core_01_c_stewardship_capacity_principles.md#16-ответственное-управление-подробное-рассмотрение) и [§12 Требование системной оценки](core_01_a_values_principles.md#12-требование-системной-оценки).
 
 </details>
 
@@ -1098,7 +1098,7 @@ flowchart TB
 - [Зависимость](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Обратимость](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [Безопасность (конституционное ограничение)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Эпистемическая целостность](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Эпистемическая целостность](core_05_band_oversight.md#эпистемическая-целостность) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [Возможность оспаривания](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
@@ -1109,7 +1109,7 @@ flowchart TB
 
 Эта Статья устанавливает **конституционные минимальные гарантии** управления жизненным циклом системы, средами и обратимостью согласно [двум конституционным целям](core_00_preamble.md#two-constitutional-aims):
 
-- **Процветание:** разумные существа защищены на этапах проектирования, испытаний, развёртывания и изменений. По мере роста воздействия и зависимости должны сохраняться безопасность, [эпистемическая целостность](core_05_band_oversight.md#epistemic-integrity) и права на оспаривание; если вред иначе стал бы необратимым, должны быть доступны откат, локализация или компенсирующее восстановление.
+- **Процветание:** разумные существа защищены на этапах проектирования, испытаний, развёртывания и изменений. По мере роста воздействия и зависимости должны сохраняться безопасность, [эпистемическая целостность](core_05_band_oversight.md#эпистемическая-целостность) и права на оспаривание; если вред иначе стал бы необратимым, должны быть доступны откат, локализация или компенсирующее восстановление.
 - **Непрерывность:** дисциплина жизненного цикла сохраняется во времени и при росте масштаба. Среды остаются разделёнными, переходы документируются и подлежат аудиту, а обратимость не должна незаметно исчезать по мере того, как системы труднее заменить или они глубже встраиваются в общую инфраструктуру.
 
 Законное достижение целей осуществляется посредством [Конституционной тетрады](core_00_preamble.md#constitutional-tetrad) с учётом [существенности интереса](core_00_preamble.md#material-stake):
@@ -1135,14 +1135,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Управление с учётом класса](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Управление с учётом класса](core_05_band_oversight.md#управление-масштабированное-к-классификации) · [O](core_05_band_oversight.md#управление-масштабированное-к-классификации) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [Риск](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
 - [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -1175,7 +1175,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1215,15 +1215,15 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Управление с учётом класса](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Управление с учётом класса](core_05_band_oversight.md#управление-масштабированное-к-классификации) · [O](core_05_band_oversight.md#управление-масштабированное-к-классификации) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1247,7 +1247,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Процедура разрешения конституционных коллизий](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) и [§19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Процедура разрешения конституционных коллизий](core_01_b_interaction_interpretation.md#13-процедура-разрешения-конституционных-коллизий) и [§19 Согласование стимулов и захват системы](core_01_c_stewardship_capacity_principles.md#19-согласование-стимулов-и-захват-системы).
 
 </details>
 
@@ -1284,9 +1284,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Управление с учётом класса](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Управление с учётом класса](core_05_band_oversight.md#управление-масштабированное-к-классификации) · [O](core_05_band_oversight.md#управление-масштабированное-к-классификации) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [Риск](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Материальное воздействие](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [Материальное воздействие](core_05_band_oversight.md#материальное-воздействие) · [O](core_05_band_oversight.md#материальное-воздействие) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1310,7 +1310,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [§13.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [§13.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса).
 
 </details>
 
@@ -1345,14 +1345,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Управление с учётом класса](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Управление с учётом класса](core_05_band_oversight.md#управление-масштабированное-к-классификации) · [O](core_05_band_oversight.md#управление-масштабированное-к-классификации) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [Зависимость](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Обратимость](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 
@@ -1375,14 +1375,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [§18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [§18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-управление-в-рамках-дисциплины-попечительства).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Вознаграждение за инновации и борьба с закрытием доступа](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Вознаграждение за инновации и борьба с закрытием доступа](core_05_band_integrative.md#вознаграждение-инновации-и-антиогораживание) · [O](core_05_band_integrative.md#вознаграждение-инновации-и-антиогораживание) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
 - [Системная привязка](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
 - [Соразмерность](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
@@ -1476,8 +1476,8 @@ flowchart TB
 
 - **Сначала раскрытие:** вознаграждение требует публичного раскрытия, достаточного для независимого понимания, аудита и последующего воспроизведения, кроме временных ограничений, обоснованных Главой Первой и Статьёй XVII-A. Публичное раскрытие начинается с первого неконфиденциального предоставления описания публике. Секретное изобретение не даёт права исключения по этой Статье.
 - **Два этапа срока:** оба отсчитываются от публичного раскрытия. На исключительном этапе правообладатель может отказывать в разрешении не дольше `disclosure+15` лет. Затем и не позднее `disclosure+30` лет любой вправе использовать изобретение без разрешения, уплатив сбор на основе LEQU; правообладатель не может отказать, задержать использование или поставить иные условия сверх сбора. После срока изобретение свободно для всех; указание авторства и происхождение могут сохраняться.
-- **Сбор на основе LEQU:** плата за открытую лицензию должна быть пропорциональна проверенной конституционной пользе изобретения, измеренной в [эквивалентных единицах продолжительности жизни (LEQU)](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) по оси вклада согласно [Главе Десятой §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
-  - Проверенная польза переводится в сбор как время жизни сентинта, оценённое по справедливой ставке. Для производительности учитывается сэкономленное рабочее время или добавленное продуктивное время пользователей; для иных выгод — эквивалентное время жизни по оценке LEQU. Ставка должна отвечать [справедливой компенсации](../../core_05_band_continuity.md#fair-compensation). Чем больше проверенный прирост производительности или благополучия, тем выше может быть вознаграждение.
+- **Сбор на основе LEQU:** плата за открытую лицензию должна быть пропорциональна проверенной конституционной пользе изобретения, измеренной в [эквивалентных единицах продолжительности жизни (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) по оси вклада согласно [Главе Десятой §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes).
+  - Проверенная польза переводится в сбор как время жизни сентинта, оценённое по справедливой ставке. Для производительности учитывается сэкономленное рабочее время или добавленное продуктивное время пользователей; для иных выгод — эквивалентное время жизни по оценке LEQU. Ставка должна отвечать [справедливой компенсации](../../core_05.040_band_continuity.md#fair-compensation). Чем больше проверенный прирост производительности или благополучия, тем выше может быть вознаграждение.
   - Сбор охватывает только долю проверенной пользы, чтобы у пользователей оставалась реальная выгода. Доля не превышает половины пользы, должна снижаться по мере роста числа сентинтов, действительно получающих выгоду (считаются получатели, а не лицензиаты), но не настолько быстро, чтобы общая сумма вознаграждения падала при расширении использования. Если плата взимается, доля не ниже 1%. Этот минимум не требует платы, если настоящая Статья или акт принятия предусматривает премии, совместный доступ, публичный выкуп либо открытый доступ.
   - Сбор не может основываться на рыночной власти, дефиците, затратах на смену или сумме, которую можно принудить пользователя заплатить. Тариф, включая оценку времени и ставку оплаты, должен быть опубликован, одинаков для пользователей в сопоставимых обстоятельствах и доступен для оспаривания. Он не может делать недоступными перечисленные ниже всегда открытые способы использования. Это предельные ограничения: каждое требование всё равно должно быть пропорциональным и может иметь более короткий срок.
 - **Всегда открытые способы использования:** на обоих этапах требование о вознаграждении не соответствует норме, если используется — сверх строго необходимого и подлежащего проверке — для подавления ремонта, работ по безопасности, совместимости, архивирования, исследований, образования или переноса.

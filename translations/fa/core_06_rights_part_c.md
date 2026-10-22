@@ -83,7 +83,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§3 هدف اساسی: رفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، و [§ 19 تراز مشوق و جذب سیستم](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- بالادست: اصول: فصل اول [§3 هدف اساسی: رفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§ 19 تراز مشوق و جذب سیستم](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه).
 
 </details>
 
@@ -145,7 +145,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- بخوانید با: [تتراد مشروطه](core_00_preamble.md#constitutional-tetrad); [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) - **شکوفا شدن** و **تداوم**; [صدور گواهینامه تراز سیستم](core_05_band_continuity.md#system-alignment-certification-constitutional) و **ماده III-A** (*Survival*) که در آن اتکای مداوم به سیستم بر دسترسی ضروری بقا تأثیر می گذارد. [**ماده XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*حق جبران و درمان*) برای اینکه یک چالش موفق باید به چه چیزی منجر شود.
+- بخوانید با: [تتراد مشروطه](core_00_preamble.md#constitutional-tetrad); [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) - **شکوفا شدن** و **تداوم**; [صدور گواهینامه تراز سیستم](core_05_band_continuity.md#system-alignment-certification-constitutional) و **ماده III-A** (*Survival*) که در آن اتکای مداوم به سیستم بر دسترسی ضروری بقا تأثیر می گذارد. [**ماده XIII-B**](#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت) (*حق جبران و درمان*) برای اینکه یک چالش موفق باید به چه چیزی منجر شود.
 
 </details>
 
@@ -172,10 +172,10 @@ flowchart TB
   - افشای شرایط مادی، محدودیت ها و خطرات مورد نیاز برای ارزیابی اینکه آیا اتکا ضمانت دارد یا خیر.
   - آزادی از فریب سیستماتیک، ارائه نادرست، یا دستکاری غیرقابل تأیید؛
   - محافظت در برابر خطرات نامعلوم، نامتناسب یا غیر آشکار ناشی از اعتماد؛
-  - تصحیح و اصلاح زمانی که سیستم اشتباه می کند: تصدیق، تصحیح، تعمیر متناسب، و پیشگیری از عود، تحت [**ماده XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*حق جبران و جبران*) و [فصل اول §6.1 تصحیح و درمان](core_01_a_values_principles.md#61-correction-and-remedy).
+  - تصحیح و اصلاح زمانی که سیستم اشتباه می کند: تصدیق، تصحیح، تعمیر متناسب، و پیشگیری از عود، تحت [**ماده XIII-B**](#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت) (*حق جبران و جبران*) و [فصل اول §6.1 تصحیح و درمان](core_01_a_values_principles.md#61-correction-and-remedy).
 - **تضمین رقابت پذیری:** سیستم‌هایی که به طور مادی بر احساسات افراد تأثیر می‌گذارند، باید تا زمانی که افراد به آنها تکیه می‌کنند، در برابر چالش‌ها باز بمانند. که مستلزم:
   - یک مسیر قابل استفاده برای به چالش کشیدن رفتار، خروجی‌ها یا نمایش‌های سیستم و بررسی چالش.
-  - ممیزی و تأیید مستقل متناسب با تأثیر و وابستگی تحت [**ماده XVI**](#article-xvi-audit-transparency-and-independent-verification) (*حسابرسی، شفافیت و تأیید مستقل*)؛
+  - ممیزی و تأیید مستقل متناسب با تأثیر و وابستگی تحت [**ماده XVI**](#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل) (*حسابرسی، شفافیت و تأیید مستقل*)؛
   - هیچ یک از این موارد محدود نمی شود زیرا سیستم دارای گواهینامه، رسمیت رسمی یا به طور گسترده ای است.
   - بدون محدود کردن متن پیاده سازی پذیرفته شده، که بیان می کند چگونه چالش، بررسی، و جبران در یک دامنه اجرا شود و باید این ماده را رعایت کند: سهولت، مهلت، و خط مشی محلی محدودیت های کمتری هستند و نمی توانند چالش، بررسی یا جبران را ببندند.
 - **حق اعتراض و بررسی:** افراد حساس حق دارند:
@@ -194,7 +194,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادست: اصول: فصل اول [§6.1 تصحیح و درمان](core_01_a_values_principles.md#61-correction-and-remedy) (طبقه اصلی)، [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- بخوانید با: [**ماده XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*پایه قابلیت اطمینان و اعتماد*) - ضمانت رقابت پذیری، حق اعتراض و گزارش محافظت شده که راه را برای جبران باز می کند. **ماده III-A** (*بقا*)؛ [صدور گواهینامه تراز سیستم](core_05_band_continuity.md#system-alignment-certification-constitutional) در جایی که شکست یا عدم همسویی سیستم، دسترسی ضروری بقا را از بین می‌برد. [مقدمه §6.2 چگونه زنجیر کامل با هم قرار می گیرد](core_00_preamble.md#62-how-the-full-chain-fits-together) (*طبقه بندی تایید شده و درمان به موقع*)؛ [فصل دهم §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*واقع گرایی اجرایی و سیستم های درمان*)؛ [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*سیستم های جبران خسارت و ظرفیت رسیدگی سازمانی*).
+- بخوانید با: [**ماده XIII-A**](#ماده-xiii-a-پایایی-و-قابلیت-اطمینان) (*پایه قابلیت اطمینان و اعتماد*) - ضمانت رقابت پذیری، حق اعتراض و گزارش محافظت شده که راه را برای جبران باز می کند. **ماده III-A** (*بقا*)؛ [صدور گواهینامه تراز سیستم](core_05_band_continuity.md#system-alignment-certification-constitutional) در جایی که شکست یا عدم همسویی سیستم، دسترسی ضروری بقا را از بین می‌برد. [مقدمه §6.2 چگونه زنجیر کامل با هم قرار می گیرد](core_00_preamble.md#62-how-the-full-chain-fits-together) (*طبقه بندی تایید شده و درمان به موقع*)؛ [فصل دهم §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*واقع گرایی اجرایی و سیستم های درمان*)؛ [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*سیستم های جبران خسارت و ظرفیت رسیدگی سازمانی*).
 
 </details>
 
@@ -231,7 +231,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی).
 
 </details>
 
@@ -240,7 +240,7 @@ flowchart TB
 
 - [اعتماد کنید](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [م](core_05_band_continuity.md#trust-a) · [الف](core_05_band_continuity.md#trust-a) · [سی](core_05_band_continuity.md#trust-c)
 - [قابل اعتماد بودن](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [م](core_05_band_continuity.md#trustworthiness-a) · [الف](core_05_band_continuity.md#trustworthiness-a) · [سی](core_05_band_continuity.md#trustworthiness-c)
-- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -262,14 +262,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)، و [§19.1.1 آنچه مشوق ها باید انجام دهند](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*اولویت پاداش*).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)، و [§19.1.1 آنچه مشوق ها باید انجام دهند](core_01_c_stewardship_capacity_principles.md#1911-مشوقها-باید-چه-کنند) (*اولویت پاداش*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [همسویی انگیزشی](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [م](core_05_band_integrative.md#incentive-alignment-a) · [الف](core_05_band_integrative.md#incentive-alignment-a) · [سی](core_05_band_integrative.md#incentive-alignment-c)
+- [همسویی انگیزشی](core_05_band_integrative.md#همراستایی-انگیزه) · [O](core_05_band_integrative.md#همراستایی-انگیزه) · [م](core_05_band_integrative.md#incentive-alignment-a) · [الف](core_05_band_integrative.md#incentive-alignment-a) · [سی](core_05_band_integrative.md#incentive-alignment-c)
 - [قابل اعتماد بودن](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [م](core_05_band_continuity.md#trustworthiness-a) · [الف](core_05_band_continuity.md#trustworthiness-a) · [سی](core_05_band_continuity.md#trustworthiness-c)
 - [آژانس معنی دار](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [م](core_05_band_participation.md#meaningful-agency-a) · [الف](core_05_band_participation.md#meaningful-agency-a) · [سی](core_05_band_participation.md#meaningful-agency-c)
 
@@ -303,7 +303,7 @@ flowchart TB
   - درمان تحت **ماده XIII-B** (*حق جبران و جبران خسارت*)؛ و
   - پیشگیری پیشگیرانه از مشکلات بیش از همه - جلوگیری از یک مشکل بیشتر از رفع آن درآمد دارد.
 
-  این اصل، از جمله نوار آن در کسب پاداش های پیشگیری از طریق پنهان کردن مشکلات، وجود دارد [فصل اول §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (* مشوق ها باید انجام دهند *).
+  این اصل، از جمله نوار آن در کسب پاداش های پیشگیری از طریق پنهان کردن مشکلات، وجود دارد [فصل اول §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-مشوقها-باید-چه-کنند) (* مشوق ها باید انجام دهند *).
 - **محدودیت و عدم مطلق بودن:** هر دو حقوق مشمول **پشته محدودیت پیش فرض** در آغاز این فصل آنها همچنین، در مواردی که از نظر مادی مرتبط هستند، مشمول **فصل اول §19.5** (*ادعاهای احتمالی، بازی های شانسی، و بازارهای قراردادی رویداد*) در مورد ادعاهای احتمالی، بازی های شانسی، و بازارهای قراردادی رویداد.
 
 <a id="article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
@@ -311,14 +311,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل اول §13.1.5 رویه برخورد حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [قابل رقابت](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [م](core_05_band_accountability.md#contestability-a) · [الف](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
 - [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [م](core_05_band_accountability.md#necessity-a) · [الف](core_05_band_accountability.md#necessity-a) · [سی](core_05_band_accountability.md#necessity-c)
 - [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [م](core_05_band_accountability.md#proportionality-a) · [الف](core_05_band_accountability.md#proportionality-a) · [سی](core_05_band_accountability.md#proportionality-c)
@@ -362,7 +362,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [10 طراحی تاب آوری و خوددرمانی](core_01_a_values_principles.md#10-resilience-and-self-healing-design)، [فصل اول §13.3 به حداقل رساندن بار قابل اجتناب](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [10 طراحی تاب آوری و خوددرمانی](core_01_a_values_principles.md#10-resilience-and-self-healing-design)، [فصل اول §13.3 به حداقل رساندن بار قابل اجتناب](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -372,7 +372,7 @@ flowchart TB
 - [خود درمانی](core_05_band_continuity.md#self-healing-constitutional) · [O](core_05_band_continuity.md#self-healing-constitutional) · [م](core_05_band_continuity.md#self-healing-constitutional-a) · [الف](core_05_band_continuity.md#self-healing-constitutional-a) · [سی](core_05_band_continuity.md#self-healing-constitutional-c)
 - [برگشت پذیری](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [م](core_05_band_continuity.md#reversibility-constitutional-a) · [الف](core_05_band_continuity.md#reversibility-constitutional-a) · [سی](core_05_band_continuity.md#reversibility-constitutional-c)
 - [شکست آبشاری](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [م](core_05_band_continuity.md#cascading-failure-a) · [الف](core_05_band_continuity.md#cascading-failure-a) · [سی](core_05_band_continuity.md#cascading-failure-c)
-- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 - [قابل رقابت](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [م](core_05_band_accountability.md#contestability-a) · [الف](core_05_band_accountability.md#contestability-a) · [سی](core_05_band_accountability.md#contestability-c)
 - [بار قابل اجتناب](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [م](core_05_band_continuity.md#avoidable-burden-a) · [الف](core_05_band_continuity.md#avoidable-burden-a) · [سی](core_05_band_continuity.md#avoidable-burden-c)
 
@@ -387,11 +387,11 @@ flowchart TB
 - **آنچه این نیاز دارد:** هر سیستم تحت پوشش این ماده باید بتواند از خرابی ها بازیابی کند. هر چه یک سیستم تأثیر بیشتری داشته باشد، سایرین بیشتر به آن وابسته هستند، و هرچه ریسک بیشتری داشته باشد، بازیابی آن باید قوی‌تر باشد. این در ادامه می آید [**10 طرح تاب آوری و خوددرمانی **](core_01_a_values_principles.md#10-resilience-and-self-healing-design) در **فصل اول** و [**خود درمانی**](core_05_band_continuity.md#self-healing-constitutional) در **فصل پنجم**.
   - قوانین فنی دقیق برای نحوه ساخت بازیابی در متن پیاده سازی آمده است: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*طراحی، آزمایش، تأیید و استقرار*)، [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*پایداری تطبیقی ​​و انعطاف پذیری اکوسیستم*)، و [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (* تداوم غیرمتمرکز و انعطاف پذیری پارتیشن*).
   - آن متن پیاده سازی می تواند جزئیات را اضافه کند، اما نمی تواند این ماده را تضعیف کند.
-- **به موقع به مشکلات توجه کنید:** یک سیستم باید خطاها، کندی‌ها، خرابی‌های جزئی، و نقض محدودیت‌های قانون اساسی را به اندازه کافی سریع و به اندازه کافی مشهود تشخیص دهد تا استانداردهای ثبت رکورد را برآورده کند. **ماده XVI-A** (*قابلیت حسابرسی و شواهد قابل مشاهده*) ([قابلیت حسابرسی](core_05_band_oversight.md#auditability)). این در مورد خود فرآیند بازیابی صدق می کند، نه تنها برای عملیات عادی.
+- **به موقع به مشکلات توجه کنید:** یک سیستم باید خطاها، کندی‌ها، خرابی‌های جزئی، و نقض محدودیت‌های قانون اساسی را به اندازه کافی سریع و به اندازه کافی مشهود تشخیص دهد تا استانداردهای ثبت رکورد را برآورده کند. **ماده XVI-A** (*قابلیت حسابرسی و شواهد قابل مشاهده*) ([قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی)). این در مورد خود فرآیند بازیابی صدق می کند، نه تنها برای عملیات عادی.
 - **آسیب را در خود نگه دارید:** بازیابی باید میزان گسترش شکست را محدود کند. در حین بازیابی، یک سیستم نباید:
   - خرابی را به قطعات دیگر یا سیستم های دیگر منتقل کنید (نگاه کنید به [شکست آبشاری](core_05_band_continuity.md#cascading-failure))
   - تغییر داده های ذخیره شده، اعتبارنامه ها، تعهدات، یا تنظیماتی که متعلق به افراد حساس، اپراتورها یا سایر سیستم ها هستند. **خارج** منطقه ای که اعلام کرده شکسته و در حال تعمیر است.
-    - تنها استثنا، تغییری است که ثبت شده و قابل ردیابی برای هر کسی است که آن را تحت آن ایجاد کرده است **ماده XVI-A** (*قابلیت حسابرسی و شواهد قابل مشاهده*) ([قابلیت حسابرسی](core_05_band_oversight.md#auditability)) و در مواردی که دیگران به طور مادی تحت تأثیر قرار می گیرند، با اخطار متناسب، مجوز، یا انتقالی ارائه می شود که می توانند به چالش بکشند، مطابق با **فصل ششم**;
+    - تنها استثنا، تغییری است که ثبت شده و قابل ردیابی برای هر کسی است که آن را تحت آن ایجاد کرده است **ماده XVI-A** (*قابلیت حسابرسی و شواهد قابل مشاهده*) ([قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی)) و در مواردی که دیگران به طور مادی تحت تأثیر قرار می گیرند، با اخطار متناسب، مجوز، یا انتقالی ارائه می شود که می توانند به چالش بکشند، مطابق با **فصل ششم**;
   - اختیارات خود را گسترش دهد - مجوزها، دسترسی یا دامنه اقداماتی که ممکن است انجام دهد - فراتر از آنچه قبل از شکست در اختیار داشت.
 - **وقتی مطمئن نیستید، با خیال راحت شکست بخورید:** اگر مشخص نیست که تعمیر خودکار جواب می‌دهد، سیستم باید با خیال راحت متوقف شود، مشکل را جدا کند (قرنطینه) یا کنترل را به روشی منظم تحویل دهد، به جای اینکه تعمیری را که فقط حدس و گمان است انجام دهد. وقتی گزینه‌ها با هم برابر باشند، گزینه‌ای که راحت‌تر خنثی می‌شود، برنده می‌شود [برگشت پذیری](core_05_band_continuity.md#reversibility-constitutional) ترجیح در **ماده XXIII-B** (* اولویت حسابرسی، چالش و برگشت پذیری*).
 - **بدون پوشش:** بازیابی خودکار نباید شواهد مورد نیاز برای یافتن علت وقوع شکست را پنهان کند، پاک کند یا به تأخیر بیاندازد **ماده XXIII** (*تحلیل علت ریشه و پاسخ تطبیقی*).
@@ -403,7 +403,7 @@ flowchart TB
 - **راه حل یک راه حل نیست:** اگر بازیابی خودکار سیستم را دوباره راه اندازی کند اما یک نقص شناخته شده هنوز وجود دارد، وضعیت سیستم موقت است، نه نهایی. باید حمل کند:
   - یک وظیفه باز برای یافتن علت اصلی در زیر **ماده XXIII** (*تحلیل علت ریشه و پاسخ تطبیقی*)؛
   - یک جدول زمانی افشا شده برای زمانی که انتظار می رود نقص برطرف شود، در زیر **ماده XVI-A** (*قابلیت حسابرسی و شواهد قابل مشاهده*).
-- **بدون تاخیر بی پایان:** پایین نگه داشتن حجم کاری اپراتورها (نگاه کنید به [بار قابل اجتناب](core_05_band_continuity.md#avoidable-burden) و [فصل اول §13.3 به حداقل رساندن بار قابل اجتناب](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) نباید به عنوان دلیلی برای به تعویق انداختن، به طور نامحدود، رفع نقص هایی که بر ایمنی یا سطح حقوق تأثیر می گذارد، استفاده شود.
+- **بدون تاخیر بی پایان:** پایین نگه داشتن حجم کاری اپراتورها (نگاه کنید به [بار قابل اجتناب](core_05_band_continuity.md#avoidable-burden) و [فصل اول §13.3 به حداقل رساندن بار قابل اجتناب](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب)) نباید به عنوان دلیلی برای به تعویق انداختن، به طور نامحدود، رفع نقص هایی که بر ایمنی یا سطح حقوق تأثیر می گذارد، استفاده شود.
 
 <a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
 ### ماده XIV: امنیت، اطلاعات، نیرو و سیستم های اجباری خودمختار
@@ -411,7 +411,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§3 هدف اساسی: رفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- بالادست: اصول: فصل اول [§3 هدف اساسی: رفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 
 </details>
 
@@ -515,7 +515,7 @@ flowchart TB
   - بررسی رفتار غیرقانونی جدی مادی
 - **مجوز مستقل:** اقدامات مخفی سرزده، از جمله مراحل تحقیقاتی محرمانه، نیاز به مجوز قبلی از طریق یک فرآیند مستقل قانونی دارد.
   - استثنا: در مواردی که اقدام فوری برای جلوگیری از آسیب مادی و قریب الوقوع ضروری است و تأخیر مجوز آن هدف را از بین می برد.
-  - استفاده اضطراری باید باعث بررسی سریع و سریع، حفظ رکورد تحت [حفظ شواهد](core_05_band_oversight.md#evidence-preservation)و عدم وجود مجوز مجدد به موقع به صورت خودکار.
+  - استفاده اضطراری باید باعث بررسی سریع و سریع، حفظ رکورد تحت [حفظ شواهد](core_05_band_oversight.md#حفظ-شاهد)و عدم وجود مجوز مجدد به موقع به صورت خودکار.
 - **بدون فرار ضد بای پس:** هیچ مؤسسه‌ای نمی‌تواند اطلاعاتی را از طریق هر یک از موارد زیر به دست آورد، درخواست، خرید، دریافت، شستشو یا استفاده کند تا از محدودیت‌های قانون اساسی که در صورت جمع‌آوری یا استخراج مستقیم اطلاعات اعمال می‌شد، استفاده کند:
   - شرکای خارجی؛
   - واسطه ها؛
@@ -541,7 +541,7 @@ flowchart TB
   نظارت مستقل، مسیرهای چالشی، و حفاظت های ضد تحقیقات خود باید از نظر عملکرد واقعی باقی بماند.
 - **قانون درمان و لک:** اطلاعاتی که بر خلاف این ماده به‌دست می‌آید یا مورد استفاده قرار می‌گیرد، باید مشمول اقدامات اصلاحی قانونی کافی برای احیای حقوق و جلوگیری از تکرار باشد. مثال ها:
   - محرومیت؛
-  - جداسازی؛
+  - ایزوله‌سازی؛
   - حذف؛
   - طبقه بندی مجدد؛
   - اطلاع
@@ -555,7 +555,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#1311-necessity)، [§7.1 نظم و انضباط محدودیت](core_01_a_values_principles.md#71-limitation-discipline)، [§13.1.5 آزمون تصمیم گیری حقوق-برخورد](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§14 ممنوعیت لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#۱۳۱۱-ضرورت)، [§7.1 نظم و انضباط محدودیت](core_01_a_values_principles.md#71-limitation-discipline)، [§13.1.5 آزمون تصمیم گیری حقوق-برخورد](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§14 ممنوعیت لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - پایین دست: **ماده I-A** (*پیش شرط های زیست محیطی و یکپارچگی زیست محیطی*) پیش شرط های زیست محیطی، **ماده I-D** (*خطر وجودی و ظرفیت بازیابی زیست محیطی*) بررسی دقیق خطر وجودی، **ماده VI-A** (*کرامت و جایگاه اخلاقی برابر*) کرامت، **ماده XIV-A** (*امنیتی، اطلاعاتی، و محدودیت های قدرت پنهان*) محدودیت های قدرت پنهان (همتای قدرت آشکار)، **فصل دوازدهم §6.1** (*اقدامات اضطراری و بار ادامه دار*) محدودیت های اقدامات اضطراری، **ماده XXV** (*بررسی گذشته نگر به موقع و تراز ترمیمی*) حل تعارض، **ماده XXVII** (*حکومت گذار، تداوم، و پایه گذاری مجدد*) حکومت گذار. ارجاع متقابل: **ماده XX-B** (*طبقات محدودیت*) و فصل پنجم *[اقدام محرومیت غیر قابل برگشت](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **ماده XIV** (*امنیت، اطلاعات، نیرو، و سیستم های اجباری خودمختار*) نظم *عدم اختلاط* اعمال می شود.
 - بخوانید با: [**Def.A4** *استفاده از زور، اجبار خودمختار، سیستم های مرگبار خودمختار، و سلاح های آسیب انبوه*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (دعای مشترک در مواردی که دخیل مادی باشد)؛ فصل پنجم *استفاده از زور*، *سلاح های آسیب جمعی*، *تمایز رزمنده/غیر رزمنده*، *[اقدام محرومیت غیر قابل برگشت](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*، *ریسک وجودی*، *بازگشت*پذیری*، *رفع و اصلاح*.
 
@@ -621,7 +621,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§13.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-proportionality)، [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#1311-necessity)، [§19.1 الزامات تراز](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)، [§14 ممنوعیت لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [§13.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-تناسب)، [§13.1.1 ضرورت](core_01_b_interaction_interpretation.md#۱۳۱۱-ضرورت)، [§19.1 الزامات تراز](core_01_c_stewardship_capacity_principles.md#191-الزام-همراستایی)، [§14 ممنوعیت لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - پایین دست: **ماده I-D** (*خطر وجودی و ظرفیت بازیابی زیست محیطی*) بررسی دقیق خطر وجودی، **ماده X-A** (*آژانس و آزادی از دستکاری*) آزادی از دستکاری، **ماده XIV-A** (*امنیتی، اطلاعاتی، و محدودیت های قدرت پنهان*) محدودیت های قدرت پنهان، **ماده XIV-B** (*استفاده از نیرو، درگیری های مسلحانه و محدودیت های قدرت نظامی*) طبقه نیروی آشکار، **ماده XIII-A** (*پایه قابلیت اطمینان و اعتماد*) خط پایه قابلیت اطمینان و اعتماد (همتای لایه سیستم)، **ماده XIII-E** (*سیستم های خودمختار بالا و یکپارچگی فرآیند با واسطه ابزار*) خودمختاری- سرپرستی و مقیاس پذیری خودمختاری، **ماده XIII-ف** (*پایه تاب آوری و خود درمانی*) پایه تاب آوری و خوددرمانی. ارجاع متقابل: **ماده XX-B** (*طبقات محدودیت*) و فصل پنجم *[اقدام محرومیت غیر قابل برگشت](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* - **ماده XIV** (*امنیت، اطلاعات، نیرو، و سیستم های اجباری خودمختار*) نظم *عدم اختلاط* اعمال می شود.
 - بخوانید با: [**Def.A4** *استفاده از زور، اجبار خودمختار، سیستم های مرگبار خودمختار، و سلاح های آسیب انبوه*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (دعای مشترک در مواردی که دخیل مادی باشد)؛ فصل پنجم *سیستم مرگبار خودکار*، *ابزار اجباری خودگردان*، *[اقدام محرومیت غیر قابل برگشت](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*، *اجبار و دستکاری*، *بازگشت*. پیاده سازی لایه سیستم: **[corpus_systems.md](corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** طبقه بندی
 
@@ -633,7 +633,7 @@ flowchart TB
 - [سیستم مرگبار خودمختار](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [O](core_05_band_accountability.md#autonomous-lethal-system-constitutional) · [م](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [الف](core_05_band_accountability.md#autonomous-lethal-system-constitutional-a) · [سی](core_05_band_accountability.md#autonomous-lethal-system-constitutional-c)
 - [ابزار اجبار خودمختار](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [O](core_05_band_accountability.md#autonomous-coercion-tool-constitutional) · [م](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [الف](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [سی](core_05_band_accountability.md#autonomous-coercion-tool-constitutional-c)
 - [اجبار و دستکاری](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [م](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [الف](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [سی](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [شرایط خصمانه، مقیاس شده و مورد بهره برداری](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [O](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [م](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [الف](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [سی](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
+- [شرایط خصمانه، مقیاس شده و مورد بهره برداری](core_05_band_oversight.md#شرایط-خصمانه-مقیاسشده-و-بهرهکشیشده) · [O](core_05_band_oversight.md#شرایط-خصمانه-مقیاسشده-و-بهرهکشیشده) · [م](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [الف](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [سی](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
 - [بررسی دقیق](core_05_band_oversight.md#heightened-scrutiny) · [O](core_05_band_oversight.md#heightened-scrutiny) · [م](core_05_band_oversight.md#heightened-scrutiny-a) · [الف](core_05_band_oversight.md#heightened-scrutiny-a) · [سی](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
@@ -694,9 +694,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [خود تعیینی](../../core_05_band_participation.md#self-determination-constitutional) · [O](../../core_05_band_participation.md#self-determination-constitutional) · [م](../../core_05_band_participation.md#self-determination-constitutional-a) · [الف](../../core_05_band_participation.md#self-determination-constitutional-a) · [سی](../../core_05_band_participation.md#self-determination-constitutional-c)
-- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
+- [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [خود تعیینی](../../core_05.055_band_participation.md#self-determination) · [O](../../core_05.055_band_participation.md#self-determination) · [م](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [الف](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [سی](../../core_05.055_band_participation.md#self-determination-constitutional-c)
+- [قابل رقابت](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [م](../../core_05.035_band_accountability.md#contestability-a) · [الف](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -704,7 +704,7 @@ flowchart TB
 
 *به زبان ساده: **ماده XV** (*یکپارچگیِ سپهر اطلاعات*) طبقه حقوق یکپارچگی اطلاعات است - محیط مشترکی که در آن یاد می گیریم، هماهنگ می کنیم و تصمیم می گیریم باید صادقانه، متکثر و در برابر چالش ها باز بماند. هیچ کس نمی تواند صاحب خط لوله حقیقت شود. رتبه بندی ها، خلاصه ها و دروازه بانان باید کار خود را نشان دهند، و شما باید بتوانید دیدگاه های دیگر را با هم مقایسه کنید و زمانی که اطلاعات شما را گمراه می کند، عقب نشینی کنید.*
 
-این ماده بیان می کند **طبقات قانون اساسی** برای [سپهر اطلاعات](../../core_05_band_participation.md#info-sphere) یکپارچگی تحت [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims):
+این ماده بیان می کند **طبقات قانون اساسی** برای [سپهر اطلاعات](../../core_05.055_band_participation.md#info-sphere) یکپارچگی تحت [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims):
 
 - **شکوفایی:** افراد حساس می توانند به اطلاعات دقیق و مرتبط دسترسی داشته باشند. تفسیرهای جایگزین را مقایسه کنید. و بدون تسخیر معرفتی، اجماع ساخته شده، یا اتکای گمراه‌کننده به آنچه که سیستم‌ها به‌عنوان واقعی معرفی می‌شوند، خودتعیین می‌کنند.
 - **تداوم:** حوزه اطلاعاتی متکثر، قابل ممیزی و انعطاف پذیر در طول زمان و مقیاس باقی می ماند - زیرساخت های دانش نباید بی سر و صدا در نقاط واحد میانجی متمرکز شوند، تصحیح را سرکوب کنند یا سابقه مشترکی را که بقا، هماهنگی و سرپرستی افق بلند به آن بستگی دارد، تنزل دهند.
@@ -718,13 +718,13 @@ flowchart TB
 
 اطلاعات دقیق، مرتبط و قابل اعتراض برای تعیین سرنوشت، هماهنگی و تخصیص مؤثر منابع در واقعیت، اساسی است.
 
-[یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity) هم به عنوان یک محدودیت راست و هم یک محدودیت در کل سیستم عمل می کند. در جایی که تضاد ایجاد می شود، تابع محدودیت آن حاکم است.
+[یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی) هم به عنوان یک محدودیت راست و هم یک محدودیت در کل سیستم عمل می کند. در جایی که تضاد ایجاد می شود، تابع محدودیت آن حاکم است.
 
 *همسایگان مقاله:*
 
 - **با هم بخوانید:** **ماده XIII** (*حق داشتن سیستم های قابل اعتماد و قابل اعتماد*) که در آن سیستم خروجی ها اتکا را شکل می دهد. **ماده XVI** (*حسابرسی، شفافیت و تأیید مستقل*) برای سوابق و تأیید مستقل؛ **ماده XV-D** (*انتشار علمی، بررسی، و یکپارچگی تکرار*) که در آن یکپارچگی با محدوده انتشار به طور مادی دخیل است.
-- **محدودیت حقیقت:** فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) و [محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) هر بخش فرعی را در اینجا مقید کنید.
-- **طبقه بندی:** **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** تعهدات حوزه اطلاعات دقیق را برای **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها؛ [تاثیر مواد](core_05_band_oversight.md#material-impact) در جایی که کلاس نامنظم است، طبقه بندی را آغاز می کند.
+- **محدودیت حقیقت:** فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) و [محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی) هر بخش فرعی را در اینجا مقید کنید.
+- **طبقه بندی:** **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم** تعهدات حوزه اطلاعات دقیق را برای **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها؛ [تاثیر مواد](core_05_band_oversight.md#مادی-impact) در جایی که کلاس نامنظم است، طبقه بندی را آغاز می کند.
 
 <a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
 #### ماده XV-A: کثرت اطلاعات و ضد انحصار
@@ -738,9 +738,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -760,22 +760,22 @@ flowchart TB
     - رقابت پذیری؛
     - توانایی متناسب برای دور زدن یا تنظیم معیارهای رتبه بندی - مشروط به ایمنی، امنیت و یکپارچگی سیستم.
 - **سیگنال های تسویه احتمالی:** قیمت‌ها، شانس‌ها، اندازه استخرها یا خروجی‌های قابل مقایسه سیستم‌های پرداخت احتمالی یا تسویه رویداد نباید به تنهایی به عنوان شواهد کافی برای تصمیم‌گیری درباره حقیقت، احتمال، یا انطباق با حقوق، ایمنی یا تصمیمات حاکمیتی تلقی شوند.
-  - در جایی که چنین سیگنال هایی تصمیمات یا تصمیمات عمومی را با [تاثیر مواد](core_05_band_oversight.md#material-impact)، آنها مشمول باقی می مانند **فصل اول §19.5** (*ادعاهای احتمالی، بازی های شانسی، و بازارهای قراردادی رویداد*)، **فصل پنجم** (*حقیقت (محدودیت قانون اساسی)*; *صداقت معرفتی*)، و تعهدات قابل اعتراض در جاهای دیگر این ماده.
+  - در جایی که چنین سیگنال هایی تصمیمات یا تصمیمات عمومی را با [تاثیر مواد](core_05_band_oversight.md#مادی-impact)، آنها مشمول باقی می مانند **فصل اول §19.5** (*ادعاهای احتمالی، بازی های شانسی، و بازارهای قراردادی رویداد*)، **فصل پنجم** (*حقیقت (محدودیت قانون اساسی)*; *صداقت معرفتی*)، و تعهدات قابل اعتراض در جاهای دیگر این ماده.
 <a id="article-xv-b-transparency-auditability-and-contestability"></a>
 #### ماده XV-B: شفافیت، قابلیت حسابرسی و رقابت پذیری
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
-- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
-- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
+- [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [قابل رقابت](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [م](../../core_05.035_band_accountability.md#contestability-a) · [الف](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -787,7 +787,7 @@ flowchart TB
 
 - **استعلام معتبر و تنوع تفسیری:** همه مخاطبین حق دارند تفسیرهای جایگزین اطلاعات مشترک را با هم مقایسه کنند.
   - زیرساخت‌های دانش حیاتی باید تنوع تفسیری را حفظ کنند تا مدل‌ها، چارچوب‌ها و روش‌های تحلیلی متعدد به طور معناداری در دسترس باقی بمانند.
-- **شفافیت و منشأ:** قبل از توزیع یا اتکای نهادی با [تاثیر مواد](core_05_band_oversight.md#material-impact)، موارد زیر باید مستند باشد:
+- **شفافیت و منشأ:** قبل از توزیع یا اتکای نهادی با [تاثیر مواد](core_05_band_oversight.md#مادی-impact)، موارد زیر باید مستند باشد:
   - منابع مادی؛
   - روش ها؛
   - محدوده
@@ -804,16 +804,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [ردپای اکولوژیکی](../../core_05_band_continuity.md#ecological-footprint) · [O](../../core_05_band_continuity.md#ecological-footprint) · [م](../../core_05_band_continuity.md#ecological-footprint-a) · [الف](../../core_05_band_continuity.md#ecological-footprint-a) · [سی](../../core_05_band_continuity.md#ecological-footprint-c)
-- [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
-- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [ردپای اکولوژیکی](../../core_05.040_band_continuity.md#ecological-footprint) · [O](../../core_05.040_band_continuity.md#ecological-footprint) · [م](../../core_05.040_band_continuity.md#ecological-footprint-a) · [الف](../../core_05.040_band_continuity.md#ecological-footprint-a) · [سی](../../core_05.040_band_continuity.md#ecological-footprint-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
+- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -829,7 +829,7 @@ flowchart TB
   - از گزارش‌دهی انتخابی، سرکوب یا افشای تکه‌تکه‌ای که درک مربوط به تصمیم را به‌طور مادی کاهش می‌دهد، اجتناب کنید.
 
   در مواردی که افشا تحت محدودیت است **فصل اول §19** (*همترازی انگیزشی و ضبط سیستم*)، محدودیت ها باید با محدوده محدود، محدود زمانی و قابل بررسی باقی بمانند.
-- **داده های رد پای:** گزارش دهی تحت این بخش، شفافیت را برای [ردپای اکولوژیکی](../../core_05_band_continuity.md#ecological-footprint) همانطور که در تعریف شده است **فصل پنجم**.
+- **داده های رد پای:** گزارش دهی تحت این بخش، شفافیت را برای [ردپای اکولوژیکی](../../core_05.040_band_continuity.md#ecological-footprint) همانطور که در تعریف شده است **فصل پنجم**.
   - همه افراد حساس باید به گزارش شفاف و قابل استفاده برای تصمیم دسترسی داشته باشند.
   - **کلاس A**، **کلاس B**، و **کلاس C** سیستم ها، همانطور که در تعریف شده است **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم**، باید همین دسترسی را فراهم کند.
   - گزارش باید مصرف انرژی و منابع و اثرات تخمینی بر جهان طبیعی را به گونه ای پوشش دهد که برای مقایسه، ممیزی و فعالیت های کاهش ردپا کافی باشد.
@@ -839,16 +839,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -876,7 +876,7 @@ flowchart TB
   - قابلیت اطمینان توضیحی یا پیش بینی بلندمدت
 
   نباید نام تجاری مجله، پروکسی ضریب تاثیر، یا وضعیت سرمقاله بسته را ردیابی کند.
-  - ادعاهای با [تاثیر مواد](core_05_band_oversight.md#material-impact) که مربوط به خط مشی، ایمنی، یا وابستگی هستند، باید با پیش فرض قوی تکرار مستقل، بررسی خصمانه، یا هر دو پیش از دریافت حمایت نهادی بادوام مواجه شوند.
+  - ادعاهای با [تاثیر مواد](core_05_band_oversight.md#مادی-impact) که مربوط به خط مشی، ایمنی، یا وابستگی هستند، باید با پیش فرض قوی تکرار مستقل، بررسی خصمانه، یا هر دو پیش از دریافت حمایت نهادی بادوام مواجه شوند.
   - کارهای تکراری، نتیجه تهی و تصحیح محور باید قابل انتشار و استناد با شرایطی باقی بمانند که به سیگنال دهی پرستیژ وابسته نیستند.
 - **تصحیح و قابل اعتراض:** تصحیح، اصلاح و جانشینی با حسن نیت باید آسانتر از پنهان ماندن باشد.
   - سیستم‌های بررسی و ویرایش باید در تصمیم‌گیری‌های عمده پذیرش، تصحیح و پس‌گیری قابل اعتراض، قابل ممیزی، منضبط در تعارض و استدلال‌آور باقی بمانند.
@@ -892,7 +892,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، [§16.1 تفاهم توزیع شده](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)، و [§9 ظرفیت سیستم مشترک](core_01_a_values_principles.md#9-shared-system-capacity).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، [§16.1 تفاهم توزیع شده](core_01_c_stewardship_capacity_principles.md#۱۶۱-فهم-توزیعشده)، و [§9 ظرفیت سیستم مشترک](core_01_a_values_principles.md#۹-ظرفیت-سامانه-مشترک).
 - بخوانید با: [تصویر ممیزی سه لایه](#audit-three-layers) زیر
 
 </details>
@@ -900,17 +900,17 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
-- [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
-- [مادی بودن](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [م](core_05_band_oversight.md#materiality-determination-a) · [الف](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
-- [وابستگی](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [م](../../core_05_band_continuity.md#dependency-a) · [الف](../../core_05_band_continuity.md#dependency-a) · [سی](../../core_05_band_continuity.md#dependency-c)
-- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
+- [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
+- [مادی بودن](core_05_band_oversight.md#مادیity-determination) · [O](core_05_band_oversight.md#مادیity-determination) · [م](core_05_band_oversight.md#materiality-determination-a) · [الف](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
+- [وابستگی](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [م](../../core_05.040_band_continuity.md#dependency-a) · [الف](../../core_05.040_band_continuity.md#dependency-a) · [سی](../../core_05.040_band_continuity.md#dependency-c)
+- [ریسک](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [م](../../core_05.040_band_continuity.md#risk-a) · [الف](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
 
 </details>
 
 <br>
 
-*به زبان ساده: **ماده XVI** (*حسابرسی، شفافیت و تأیید مستقل*) طبقه حقوق ممیزی و راستی‌آزمایی است - وقتی سیستمی زندگی شما را تحت تأثیر قرار می‌دهد، باید بتوانید به اندازه کافی کارهایی که انجام می‌دهد را ببینید تا یک فرد خارجی آن را بررسی کند، و بیش از یک مسیر مستقل باید قادر به بررسی و تصحیح شکست باشند. حسابرسی نمی تواند یک تمبر لاستیکی، یک باشگاه خصوصی، یا یک پیچ و خم از هزینه و تاخیر باشد که برای جلوگیری از چالش ها طراحی شده است. زیر **نظارت** پای تتراد، نظارت مستلزم ممیزی است. [صدور گواهینامه تراز سیستم](../../core_05_band_continuity.md#system-alignment-certification-constitutional) یکی از فرآیندهای حسابرسی بسیار بزرگ و پرمخاطره در میان سایرین است – نه تنها.*
+*به زبان ساده: **ماده XVI** (*حسابرسی، شفافیت و تأیید مستقل*) طبقه حقوق ممیزی و راستی‌آزمایی است - وقتی سیستمی زندگی شما را تحت تأثیر قرار می‌دهد، باید بتوانید به اندازه کافی کارهایی که انجام می‌دهد را ببینید تا یک فرد خارجی آن را بررسی کند، و بیش از یک مسیر مستقل باید قادر به بررسی و تصحیح شکست باشند. حسابرسی نمی تواند یک تمبر لاستیکی، یک باشگاه خصوصی، یا یک پیچ و خم از هزینه و تاخیر باشد که برای جلوگیری از چالش ها طراحی شده است. زیر **نظارت** پای تتراد، نظارت مستلزم ممیزی است. [صدور گواهینامه تراز سیستم](../../core_05.040_band_continuity.md#system-alignment-certification) یکی از فرآیندهای حسابرسی بسیار بزرگ و پرمخاطره در میان سایرین است – نه تنها.*
 
 <details>
 <summary><strong><span style="color: #2563eb;">راهنمای خواننده (غیر عملیاتی): پشته ممیزی سه لایه</span></strong></summary>
@@ -924,7 +924,7 @@ flowchart TB
 | لایه | شغل | مالک | نه این لایه |
 |---|---|---|---|
 | **1. طبقه** | چه چیزی به مخاطبان بدهکار است: ممیزی قابل بازسازی، تأیید مستقل، چالش قابل دسترس | این ماده شامل XVI-A / XVI-B / XVI-C | یک فرآیند نیست. تعریف نیست. یک چک لیست متن تصویب شده-پیاده سازی نیست. |
-| **2. اموال** | بازسازی‌پذیری* چیست*: افراد خارجی می‌توانند آنچه را که سیستم در زمان‌ها، حالات و زمینه‌های مادی انجام داده، بازسازی و بررسی کنند | [قابلیت حسابرسی](core_05_band_oversight.md#auditability) (فصل پنجم) | نه طبقه حقوق. نحوه/زمان اجرای ممیزی نیست. |
+| **2. اموال** | بازسازی‌پذیری* چیست*: افراد خارجی می‌توانند آنچه را که سیستم در زمان‌ها، حالات و زمینه‌های مادی انجام داده، بازسازی و بررسی کنند | [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) (فصل پنجم) | نه طبقه حقوق. نحوه/زمان اجرای ممیزی نیست. |
 | **3. فرآیند** | نحوه و زمان ممیزی در سیستم ها، موسسات و انجمن ها | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*فرآیند حسابرسی خانه*). پیوست های اپراتور: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (سطوح دسترسی)، [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (بررسی ادعا) | گواهی تراز سیستم نیست. جایگزینی برای لایه های 1-2 نیست. |
 
 **فصل هشتم لایه چهارم نیست.** [صدور گواهینامه تراز سیستم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) یک فرآیند بزرگ و تحت نظارت انجمن است که **استفاده می کند** این پشته باید لایه های 1-2 را برآورده کند. حالت‌های خواهر و برادر (طبقه‌بندی - ممیزی ثبت، انواع داده‌ها - ممیزی رکورد، تأیید ادعا، نظارت مستمر) نیز از پشته استفاده می‌کنند. هیچ کدام از آنها خانه جدیدی نیستند.
@@ -962,7 +962,7 @@ flowchart TB
 
 - **نظارت → حسابرسی → SAC:** زیر [تتراد مشروطه](core_00_preamble.md#constitutional-tetrad) **نظارت** پا، این ماده خانه حقوق طبقه برای حسابرسی است.
   - پیاده سازی متقابل *چگونه* / *وقتی* در **[خانه فرآیند حسابرسی CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (بخوانید با **CJS-3.4** / **CJS-3.5** پیوست های OP).
-  - [صدور گواهینامه تراز سیستم](../../core_05_band_continuity.md#system-alignment-certification-constitutional) زیر [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) یکی از فرآیندهای حسابرسی به ویژه بزرگ و پرمخاطره - تحت نظارت انجمن، چند دامنه ای و دارای شناسایی - در میان حالت های حسابرسی خواهر و برادر:
+  - [صدور گواهینامه تراز سیستم](../../core_05.040_band_continuity.md#system-alignment-certification) زیر [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) یکی از فرآیندهای حسابرسی به ویژه بزرگ و پرمخاطره - تحت نظارت انجمن، چند دامنه ای و دارای شناسایی - در میان حالت های حسابرسی خواهر و برادر:
     - ممیزی های سوابق طبقه بندی سیستم.
     - انواع داده های سیستم ضبط ممیزی.
     - پیچیدگی و حسابرسی سرپرستی؛
@@ -972,25 +972,25 @@ flowchart TB
 - **با هم بخوانید:**
   - **ماده XV** (*یکپارچگیِ سپهر اطلاعات*) که در آن سوابق معرفتی و قابل رقابت به طور مادی دخیل هستند.
   - **ماده XIII-A** (*پایه قابلیت اطمینان و اعتماد*) برای حقوق چالشی که حسابرسی پشتیبانی می کند اما جایگزین نمی شود.
-  - [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) و [صدور گواهینامه تراز سیستم](../../core_05_band_continuity.md#system-alignment-certification-constitutional) جایی که شواهد تراز باید به طور مستقل قابل تأیید باقی بماند.
+  - [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) و [صدور گواهینامه تراز سیستم](../../core_05.040_band_continuity.md#system-alignment-certification) جایی که شواهد تراز باید به طور مستقل قابل تأیید باقی بماند.
 - **ماشین آلات تایید:** **فصل دوم تا چهارم** یکپارچگی تعریف عرضه، تخصیص بار، مشاهده پذیری و قابلیت دسترسی تأیید که این ماده در لایه حقوق-کف پیاده سازی می کند.
-- **طبقه بندی:** مقیاس تعهدات با [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) و **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم**; در جایی که طبقه نامشخص است، در بالاترین طبقه قابل قبول تا زمانی که حل نشود، حکومت کنید.
+- **طبقه بندی:** مقیاس تعهدات با [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) و **[corpus_systems.md](../../corpus_systems.md), CS-3 - طبقه بندی و مدیریت سیستم**; در جایی که طبقه نامشخص است، در بالاترین طبقه قابل قبول تا زمانی که حل نشود، حکومت کنید.
 
 <a id="article-xvi-a-auditability-and-observable-evidence"></a>
 #### ماده XVI-A: قابلیت حسابرسی و شواهد قابل مشاهده
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
 - [مسئولیت پذیری](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [م](core_05_apex_accountability_leg.md#accountability-m) · [الف](core_05_apex_accountability_leg.md#accountability-a) · [سی](core_05_apex_accountability_leg.md#accountability-c)
-- [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [م](core_05_band_oversight.md#transparency-a) · [الف](core_05_band_oversight.md#transparency-a) · [سی](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -1007,7 +1007,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول § 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول § 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 
 </details>
 
@@ -1015,8 +1015,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [م](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [الف](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [سی](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
-- [ضبط سیستم](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [م](../../core_05_band_continuity.md#system-capture-a) · [الف](../../core_05_band_continuity.md#system-capture-a) · [سی](../../core_05_band_continuity.md#system-capture-c)
+- [قابل رقابت](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [م](../../core_05.035_band_accountability.md#contestability-a) · [الف](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
+- [ضبط سیستم](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [م](../../core_05.040_band_continuity.md#system-capture-a) · [الف](../../core_05.040_band_continuity.md#system-capture-a) · [سی](../../core_05.040_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1034,16 +1034,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- بالادست: اصول: [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [§20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
-- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
-- [تناسب](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [م](../../core_05_band_accountability.md#proportionality-a) · [الف](../../core_05_band_accountability.md#proportionality-a) · [سی](../../core_05_band_accountability.md#proportionality-c)
+- [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [م](core_05_band_oversight.md#auditability-a) · [الف](core_05_band_oversight.md#auditability-a) · [سی](core_05_band_oversight.md#auditability-c)
+- [قابل رقابت](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [م](../../core_05.035_band_accountability.md#contestability-a) · [الف](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [م](../../core_05.035_band_accountability.md#proportionality-a) · [الف](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1064,20 +1064,20 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، [§16 سرپرستی در عمق](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، و [§12 الزامات ارزیابی سیستمیک](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، [§16 سرپرستی در عمق](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، و [§12 الزامات ارزیابی سیستمیک](core_01_a_values_principles.md#12-الزام-ارزیابی-نظاممند).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
-- [مادی بودن](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [م](core_05_band_oversight.md#materiality-determination-a) · [الف](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
-- [وابستگی](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [م](../../core_05_band_continuity.md#dependency-a) · [الف](../../core_05_band_continuity.md#dependency-a) · [سی](../../core_05_band_continuity.md#dependency-c)
-- [برگشت پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [م](../../core_05_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [ایمنی (محدودیت قانون اساسی)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [م](../../core_05_band_continuity.md#safety-constraint-a) · [الف](../../core_05_band_continuity.md#safety-constraint-a) · [سی](../../core_05_band_continuity.md#safety-constraint-c)
-- [یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
-- [قابل رقابت](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [م](../../core_05_band_accountability.md#contestability-a) · [الف](../../core_05_band_accountability.md#contestability-a) · [سی](../../core_05_band_accountability.md#contestability-c)
+- [ریسک](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [م](../../core_05.040_band_continuity.md#risk-a) · [الف](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
+- [مادی بودن](core_05_band_oversight.md#مادیity-determination) · [O](core_05_band_oversight.md#مادیity-determination) · [م](core_05_band_oversight.md#materiality-determination-a) · [الف](core_05_band_oversight.md#materiality-determination-a) · [سی](core_05_band_oversight.md#materiality-determination-c)
+- [وابستگی](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [م](../../core_05.040_band_continuity.md#dependency-a) · [الف](../../core_05.040_band_continuity.md#dependency-a) · [سی](../../core_05.040_band_continuity.md#dependency-c)
+- [برگشت پذیری](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [م](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [ایمنی (محدودیت قانون اساسی)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [م](../../core_05.040_band_continuity.md#safety-constraint-a) · [الف](../../core_05.040_band_continuity.md#safety-constraint-a) · [سی](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [م](core_05_band_oversight.md#epistemic-integrity-a) · [الف](core_05_band_oversight.md#epistemic-integrity-a) · [سی](core_05_band_oversight.md#epistemic-integrity-c)
+- [قابل رقابت](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [م](../../core_05.035_band_accountability.md#contestability-a) · [الف](../../core_05.035_band_accountability.md#contestability-a) · [سی](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1087,7 +1087,7 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 
 این ماده بیان می کند **طبقات قانون اساسی** برای چرخه عمر سیستم، محیط ها و برگشت پذیری تحت [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims):
 
-- **شکوفایی:** افراد در طول طراحی، آزمایش، استقرار و تغییر محافظت می شوند - با ایمنی، [یکپارچگی معرفتی](core_05_band_oversight.md#epistemic-integrity)، و حقوق حفظ شده را با افزایش تأثیر و وابستگی و با عقبگرد، مهار یا بازسازی جبرانی که در غیر این صورت آسیب می دید، به چالش بکشید.
+- **شکوفایی:** افراد در طول طراحی، آزمایش، استقرار و تغییر محافظت می شوند - با ایمنی، [یکپارچگی معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی)، و حقوق حفظ شده را با افزایش تأثیر و وابستگی و با عقبگرد، مهار یا بازسازی جبرانی که در غیر این صورت آسیب می دید، به چالش بکشید.
 - **تداوم:** نظم و انضباط چرخه حیات در طول زمان و مقیاس برقرار است - محیط‌ها از هم جدا می‌مانند، تشدید مستند و قابل بازرسی باقی می‌ماند، و برگشت‌پذیری نباید بی‌صدا از بین برود زیرا جایگزینی سیستم‌ها سخت‌تر می‌شود یا عمیق‌تر در زیرساخت‌های مشترک تعبیه می‌شود.
 
 تعقیب قانونی از طریق [تتراد مشروطه](core_00_preamble.md#constitutional-tetrad)، مقیاس شده به [سهام مادی](core_00_preamble.md#material-stake):
@@ -1114,15 +1114,15 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
-- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
+- [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [O](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
+- [ریسک](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [م](../../core_05.040_band_continuity.md#risk-a) · [الف](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
 - [مسئولیت پذیری](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [م](core_05_apex_accountability_leg.md#accountability-m) · [الف](core_05_apex_accountability_leg.md#accountability-a) · [سی](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1142,16 +1142,16 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [برگشت پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [م](../../core_05_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
-- [تناسب](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [م](../../core_05_band_accountability.md#proportionality-a) · [الف](../../core_05_band_accountability.md#proportionality-a) · [سی](../../core_05_band_accountability.md#proportionality-c)
+- [برگشت پذیری](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [م](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [ریسک](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [م](../../core_05.040_band_continuity.md#risk-a) · [الف](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [م](../../core_05.035_band_accountability.md#proportionality-a) · [الف](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1180,15 +1180,15 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
+- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [م](core_05_band_oversight.md#truth-constitutional-constraint-a) · [الف](core_05_band_oversight.md#truth-constitutional-constraint-a) · [سی](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [O](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
 - [مسئولیت پذیری](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [م](core_05_apex_accountability_leg.md#accountability-m) · [الف](core_05_apex_accountability_leg.md#accountability-a) · [سی](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -1210,7 +1210,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، و [§ 19 تراز مشوق و جذب سیستم](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13 فرآیند حل و فصل برخورد قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§ 19 تراز مشوق و جذب سیستم](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه).
 
 </details>
 
@@ -1247,9 +1247,9 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
-- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
-- [تاثیر مواد](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [م](core_05_band_oversight.md#material-impact-a) · [الف](core_05_band_oversight.md#material-impact-a) · [سی](core_05_band_oversight.md#material-impact-c)
+- [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [O](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
+- [ریسک](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [م](../../core_05.040_band_continuity.md#risk-a) · [الف](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
+- [تاثیر مواد](core_05_band_oversight.md#مادی-impact) · [O](core_05_band_oversight.md#مادی-impact) · [م](core_05_band_oversight.md#material-impact-a) · [الف](core_05_band_oversight.md#material-impact-a) · [سی](core_05_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1273,16 +1273,16 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 13.1 اصول تجارت اصلی](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [رضایت](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [م](../../core_05_band_participation.md#consent-constitutional-a) · [الف](../../core_05_band_participation.md#consent-constitutional-a) · [سی](../../core_05_band_participation.md#consent-constitutional-c)
-- [ریسک](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [م](../../core_05_band_continuity.md#risk-a) · [الف](../../core_05_band_continuity.md#risk-a) · [سی](../../core_05_band_continuity.md#risk-c)
-- [برگشت پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [م](../../core_05_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [رضایت](../../core_05.055_band_participation.md#consent) · [O](../../core_05.055_band_participation.md#consent) · [م](../../core_05.055_band_participation.md#consent-constitutional-a) · [الف](../../core_05.055_band_participation.md#consent-constitutional-a) · [سی](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [ریسک](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [م](../../core_05.040_band_continuity.md#risk-a) · [الف](../../core_05.040_band_continuity.md#risk-a) · [سی](../../core_05.040_band_continuity.md#risk-c)
+- [برگشت پذیری](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [م](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1307,16 +1307,16 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- بالادست: اصول: فصل اول [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهینامه کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل اول §20 برنامه یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
-- [وابستگی](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [م](../../core_05_band_continuity.md#dependency-a) · [الف](../../core_05_band_continuity.md#dependency-a) · [سی](../../core_05_band_continuity.md#dependency-c)
-- [برگشت پذیری](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [م](../../core_05_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [طبقه بندی-مقیاس حاکمیت](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [O](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [م](core_05_band_oversight.md#classification-scaled-governance-a) · [الف](core_05_band_oversight.md#classification-scaled-governance-a) · [سی](core_05_band_oversight.md#classification-scaled-governance-c)
+- [وابستگی](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [م](../../core_05.040_band_continuity.md#dependency-a) · [الف](../../core_05.040_band_continuity.md#dependency-a) · [سی](../../core_05.040_band_continuity.md#dependency-c)
+- [برگشت پذیری](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [م](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [الف](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [سی](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1336,16 +1336,16 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- بالادست: اصول: فصل اول [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [§ 18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [پاداش نوآوری و ضد حصار](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [م](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [الف](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [سی](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [قفل سیستمیک](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [م](../../core_05_band_continuity.md#systemic-lock-in-a) · [الف](../../core_05_band_continuity.md#systemic-lock-in-a) · [سی](../../core_05_band_continuity.md#systemic-lock-in-c)
-- [تناسب](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [م](../../core_05_band_accountability.md#proportionality-a) · [الف](../../core_05_band_accountability.md#proportionality-a) · [سی](../../core_05_band_accountability.md#proportionality-c)
+- [پاداش نوآوری و ضد حصار](core_05_band_integrative.md#پاداش-نوآوری-و-ضدمحصورسازی) · [O](core_05_band_integrative.md#پاداش-نوآوری-و-ضدمحصورسازی) · [م](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [الف](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [سی](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [قفل سیستمیک](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [م](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [الف](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [سی](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [م](../../core_05.035_band_accountability.md#proportionality-a) · [الف](../../core_05.035_band_accountability.md#proportionality-a) · [سی](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1382,7 +1382,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - مبانی بالادستی: اصول فصل یک §5 حقیقت، §7 آزادی و §18 حکمرانی با انضباط سرپرستی.
-- همراه با [ماده IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) برای حقوق انتساب، آموزش و جبران؛ و [ماده XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) برای قواعد مشترک و معیار بیانی/کارکردی.
+- همراه با [ماده IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) برای حقوق انتساب، آموزش و جبران؛ و [ماده XVIII-D](#ماده-xviii-d-پاداش-نوآوری-افشاگری-و-ضد-حصار) برای قواعد مشترک و معیار بیانی/کارکردی.
 
 </details>
 
@@ -1406,7 +1406,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - مبانی بالادستی: اصول فصل یک §4 ایمنی، §7 آزادی، §18 حکمرانی با انضباط سرپرستی و §19 هم‌راستایی انگیزه‌ها و تسخیر سامانه.
-- همراه با [ماده XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) برای قواعد مشترک؛ [ماده XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) هنگام تهدید قفل‌شدگی؛ و [ماده XVII](#article-xvii-system-lifecycle-environments-and-reversibility) هنگامی که اختراع جزئی از سامانه مستقر می‌شود.
+- همراه با [ماده XVIII-D](#ماده-xviii-d-پاداش-نوآوری-افشاگری-و-ضد-حصار) برای قواعد مشترک؛ [ماده XXI-C](core_06_rights_part_d.md#ماده-xxi-c-قاعده-ضدقفلشدگی) هنگام تهدید قفل‌شدگی؛ و [ماده XVII](#article-xvii-system-lifecycle-environments-and-reversibility) هنگامی که اختراع جزئی از سامانه مستقر می‌شود.
 
 </details>
 
@@ -1416,8 +1416,8 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 
 - **نخست افشا:** پاداش مستلزم افشای عمومی کافی برای فهم مستقل، ممیزی و بازتولید بعدی است؛ جز محدودیت‌های موقت موجه بر اساس فصل یک و ماده XVII-A. افشای عمومی نخستین انتشار غیرمحرمانه شرح اختراع برای عموم است. اختراع پنهان هیچ حق منع استفاده‌ای طبق این ماده نمی‌گیرد.
 - **دو مرحله:** هر دو از زمان افشای عمومی محاسبه می‌شوند. در مرحله انحصاری، دارنده می‌تواند حداکثر تا `disclosure+15` سال اجازه را رد کند. پس از آن و تا حداکثر `disclosure+30` سال، همه می‌توانند بدون اجازه و با پرداخت حق‌بهای مبتنی بر LEQU استفاده کنند؛ دارنده نمی‌تواند استفاده را رد یا به تأخیر اندازد یا شرطی بیش از پرداخت حق‌بها بگذارد. پس از پایان مدت، اختراع آزاد است و انتساب و منشأ می‌تواند باقی بماند.
-- **حق‌بهای مبتنی بر LEQU:** باید متناسب با فایده قانون‌اساسیِ تأییدشده اختراع باشد؛ فایده در واحد LEQU روی محور مشارکت، طبق مقیاس یکپارچه تناسبی LEQU در [فصل ده §7](../../core_10_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) سنجیده می‌شود.
-  - فایده با ارزش‌گذاری زمان موجودات ذی‌شعور بر پایه دستمزد منصفانه به حق‌بها تبدیل می‌شود. برای بهره‌وری، زمان کاری ذخیره‌شده یا زمان مولدی که برای استفاده‌کنندگان افزوده شده محاسبه می‌شود؛ برای فایده‌های دیگر، زمان معادل عمر که LEQU می‌سنجد. دستمزد باید معیار [جبران منصفانه](../../core_05_band_continuity.md#fair-compensation) را برآورده کند. هرچه افزایش تأییدشده بهره‌وری یا بهزیستی بیشتر باشد، پاداش بیشتر است.
+- **حق‌بهای مبتنی بر LEQU:** باید متناسب با فایده قانون‌اساسیِ تأییدشده اختراع باشد؛ فایده در واحد LEQU روی محور مشارکت، طبق مقیاس یکپارچه تناسبی LEQU در [فصل ده §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) سنجیده می‌شود.
+  - فایده با ارزش‌گذاری زمان موجودات ذی‌شعور بر پایه دستمزد منصفانه به حق‌بها تبدیل می‌شود. برای بهره‌وری، زمان کاری ذخیره‌شده یا زمان مولدی که برای استفاده‌کنندگان افزوده شده محاسبه می‌شود؛ برای فایده‌های دیگر، زمان معادل عمر که LEQU می‌سنجد. دستمزد باید معیار [جبران منصفانه](../../core_05.040_band_continuity.md#fair-compensation) را برآورده کند. هرچه افزایش تأییدشده بهره‌وری یا بهزیستی بیشتر باشد، پاداش بیشتر است.
   - حق‌بها بیش از نصف فایده تأییدشده نیست. سهم آن باید با افزایش شمار بهره‌مندان واقعی (نه تعداد مجوزگیرندگان) کاهش یابد، اما نه چنان که با گسترش استفاده، کل پاداش کم شود. اگر حق‌بها دریافت می‌شود، سهم کمتر از ۱٪ نیست؛ این کف زمانی حق‌بها را الزامی نمی‌کند که این ماده یا سند پذیرش، جایزه، دسترسی تجمیعی، خرید عمومی یا دسترسی آزاد مقرر کند.
   - حق‌بها بر قدرت بازار، کمیابی، هزینه تغییر یا مبلغی که بتوان کاربر را به پرداختش واداشت مبتنی نمی‌شود. جدول حق‌بها و برآورد زمان و دستمزد باید منتشر، در شرایط مشابه یکسان و قابل اعتراض باشد و نباید دسترسی به موارد آزاد زیر را از توان خارج کند. اینها سقف‌اند؛ هر ادعا باید متناسب باشد و می‌تواند کوتاه‌تر شود.
 - **موارد همیشه آزاد:** در هر دو مرحله، ادعاها ناسازگارند اگر فراتر از حداقل لازم و قابل بازبینی برای جلوگیری از تعمیر، کار ایمنی، تعامل‌پذیری، بایگانی، پژوهش، آموزش یا مهاجرت استفاده شوند.

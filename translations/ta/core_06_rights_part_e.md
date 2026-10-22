@@ -70,7 +70,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">மேல்மூலக் குறிப்பு</span></strong></summary>
 
-- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 அரசியலமைப்பு மோதல் தீர்வு நடைமுறை](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), மற்றும் [§15 அரசியலமைப்பு விளக்கம்](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 அரசியலமைப்பு மோதல் தீர்வு நடைமுறை](core_01_b_interaction_interpretation.md#13-அரசயலமபப-மதல-தரவ-நடமற), மற்றும் [§15 அரசியலமைப்பு விளக்கம்](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - இதனுடன் வாசிக்கவும்: சரியான நேரத்தன்மை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாக சரியான நேரத் தீர்வு*).
 
 </details>
@@ -82,9 +82,9 @@ flowchart TB
 - [நடைமுறை நியாயம்](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [சரியான நேரத் தீர்வு](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [மறுசீரமைப்பு நீதி](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [தணிக்கைத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [தணிக்கைத்தன்மை](core_05_band_oversight.md#தணககததனம) · [O](core_05_band_oversight.md#தணககததனம) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [சவாலிடத்தக்க தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#வளபபடததனம) · [O](core_05_band_oversight.md#வளபபடததனம) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -127,16 +127,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">மேல்மூலக் குறிப்பு</span></strong></summary>
 
-- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-அறவசர-வளபபடததல-கடடபபடகள), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-ஒரஙகணநத-பயனபட).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [தணிக்கைத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [தணிக்கைத்தன்மை](core_05_band_oversight.md#தணககததனம) · [O](core_05_band_oversight.md#தணககததனம) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [பொறுப்புடைமை](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#உணம-அரசயலமபபக-கடடபபட) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -165,7 +165,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">மேல்மூலக் குறிப்பு</span></strong></summary>
 
-- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§13.1.5 உரிமை-மோதல் தீர்மானச் சோதனை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§13.1.5 உரிமை-மோதல் தீர்மானச் சோதனை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-ஒரஙகணநத-பயனபட).
 - இதனுடன் வாசிக்கவும்: [அத்தியாயம் பதினொன்று §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression) (*தன்னார்வப் பொது பொறுப்புடைமை வெளிப்பாடு*); [அத்தியாயம் பன்னிரண்டு §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*தன்னார்வப் பொது பொறுப்புடைமை வெளிப்பாடு (அரசியலமைப்புக்கு எதிரானது)*).
 
 </details>
@@ -204,7 +204,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">மேல்மூலக் குறிப்பு</span></strong></summary>
 
 - மேல்நிலை ஆதாரங்கள்: நேரத்தன்மை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாக சரியான நேரத் தீர்வும் தாமதத் தடுப்பு ஒழுங்கும்*); [முன்னுரை §6.2 முழுச் சங்கிலி எவ்வாறு ஒன்றிணைகிறது](core_00_preamble.md#62-how-the-full-chain-fits-together) (*நிலை, ஒருங்கிணைவு, மன்ற ஒருங்கிணைப்பு செயல்முறை*).
-- கோட்பாடுகள்: அத்தியாயம் ஒன்று [§9.2 அரசியலமைப்புச் செயல்திறன்](core_01_a_values_principles.md#92-constitutional-efficiency), [அத்தியாயம் ஒன்று §13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), மற்றும் [அத்தியாயம் ஒன்று §13.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- கோட்பாடுகள்: அத்தியாயம் ஒன்று [§9.2 அரசியலமைப்புச் செயல்திறன்](core_01_a_values_principles.md#92-அரசயலமபப-சயலதறன), [அத்தியாயம் ஒன்று §13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-தவரககககடய-சமயக-கறததல), மற்றும் [அத்தியாயம் ஒன்று §13.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - கீழ்நிலை ஆதாரங்கள்: [அத்தியாயம் பதின்மூன்று §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*பொருள்சார் நிலைகள், செயல்முறை மைல்கற்கள், தாமதத் தடுப்பு ஒழுங்கு*); [அத்தியாயம் பதின்மூன்று §6.1 அவசர நடவடிக்கைகள் மற்றும் தொடர்வதற்கான சுமை](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*அவசரக் கட்டுப்பாட்டுக்குப் பின் இயல்புநிலை மீட்பு-சவால் காலவரையறைகளுக்கான அதே வெளிப்புற எல்லைகள்*).
 - பாதுகாவலர் நுழைவாயில் (செயற்பாட்டு விதி அல்ல): அடுத்த படி அட்டை: [தாமதம்](implementation/STEWARD_ENTRY_DOORS.md#delay). அந்த அட்டை அரசியலமைப்பைச் சுருக்க முடியாது.
 
@@ -218,7 +218,7 @@ flowchart TB
 - [அரசியலமைப்புச் செயல்திறன்](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [தவிர்க்கக்கூடிய சுமை](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
 - [தீர்வு வழிகளைக் கைப்பற்றல்](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [பொருள்சார் முக்கியத்துவம்](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [பொருள்சார் முக்கியத்துவம்](core_05_band_oversight.md#பரணமத-தரமனம) · [O](core_05_band_oversight.md#பரணமத-தரமனம) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -231,7 +231,7 @@ flowchart TB
 - **ஒருங்கிணைப்பு நோக்கம்:** **கட்டுரை XX-A** (*நீதி நோக்கமும் வரம்பும்*) கீழ் அரசியலமைப்பு நீதி **அரசியலமைப்பு ஒருங்கிணைப்பு மற்றும் தீர்வு அமைப்பு** வழியாக இயங்குகிறது—உண்மைகளைச் சரிபார்த்தல், நிலையை அளவிடுதல், விளைவுகளை ஒருங்கிணைத்தல், சாத்தியமான இடத்தில் மறுசீரமைத்தல்—முடிவற்ற எதிர்மறை தாமதம், நற்பெயர் மதிப்பீடு அல்லது தண்டனைக்காகவே தண்டித்தல் வழியாக அல்ல.
 - **மூன்று கூட்டு தேவைகள்:** முக்கியத் தீர்வு வழிகள் ஒன்றாக **சரியான நேரத்தில், திறமையாக, நியாயமாக** இருக்க வேண்டும்:
   - **சரியான நேரத்தில்** — [பொருள்சார் முக்கியத்துவம்](core_00_preamble.md#material-stake), தீங்கின் அவசரம் ஆகியவற்றுக்கு ஏற்ப வரையறுக்கப்பட்ட காலக்கெடுக்கள்;
-  - **திறமையாக** — [அரசியலமைப்புச் செயல்திறன்](core_05_band_continuity.md#constitutional-efficiency), அதாவது அத்தியாயம் ஒன்று [§9.2 அரசியலமைப்புச் செயல்திறன்](core_01_a_values_principles.md#92-constitutional-efficiency) கூறும் பொருளில்: உணர்வுள்ள உயிர்களின் நேரமும் பகிரப்பட்ட முயற்சியும் செலவானதற்கு ஈடான உண்மையான அரசியலமைப்பு விளைவு; வெறும் செயலாக்க வேகம் அல்லது வழக்குப் பட்டியலைக் காலி செய்வது அல்ல;
+  - **திறமையாக** — [அரசியலமைப்புச் செயல்திறன்](core_05_band_continuity.md#constitutional-efficiency), அதாவது அத்தியாயம் ஒன்று [§9.2 அரசியலமைப்புச் செயல்திறன்](core_01_a_values_principles.md#92-அரசயலமபப-சயலதறன) கூறும் பொருளில்: உணர்வுள்ள உயிர்களின் நேரமும் பகிரப்பட்ட முயற்சியும் செலவானதற்கு ஈடான உண்மையான அரசியலமைப்பு விளைவு; வெறும் செயலாக்க வேகம் அல்லது வழக்குப் பட்டியலைக் காலி செய்வது அல்ல;
   - **நியாயமாக** — **கட்டுரை XX-A** (*நீதி நோக்கமும் வரம்பும்*), **கட்டுரை XX-B** (*கட்டுப்பாடுகளின் குறைந்தபட்சங்கள்*) முழுமையாகப் பொருந்தும்; வேகம் சரிபார்க்கப்பட்ட உண்மைகளைத் தவிர்க்க ([அத்தியாயம் பத்து §3.1 நிலைக்கான சரிபார்க்கப்பட்ட உள்ளீட்டு வாயில்](core_10_standing_assessment.md#verified-inputs-for-standing)), தவறான தரப்பைத் தண்டிக்க, தீங்குக்குப் பொருந்தாத தீர்வை வழங்க, சவால் அல்லது மேல்முறையீட்டை நிறுத்த காரணமல்ல.
 - **மன்றம் மற்றும் செயல்முறை மேற்பார்வை:** **அத்தியாயங்கள் ஒன்பது முதல் பன்னிரண்டு** வழியாக அனுப்பப்படும் தகராறுகளுக்கு பின்வருவன [அத்தியாயம் பதின்மூன்று §6 சரியான நேரத் தீர்வு, பொருள்சார் நிலைகள், தாமதத் தடுப்பு ஒழுங்கு](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) மூலம் நிர்வகிக்கப்படுகின்றன; இக்கட்டுரையின் நேரத்தன்மை, செயல்திறன், நியாயம் குறைந்தபட்சங்களுக்கு உட்பட்டு:
   - பொருள்சார் நிலை வகைப்படுத்தல்;
@@ -261,13 +261,13 @@ flowchart TB
 - **பொறுப்புடைமை:** பழக்கம் அல்லது வசதி காரணமாக மட்டும் விதிகள் தொடரும்போது ஆளுமையை கட்டுப்படுத்துவோர் பதிலளிக்க வேண்டும்; உண்மையான அரசியலமைப்பு மாற்றம் **உரிமைக் குறைந்தபட்சங்களை** அல்லது அரசியலமைப்பை சட்டப்படி மாற்றும் விதிகளைத் தவிர்க்க அவசரநிலை, செயலாக்கம், காவல் என்ற முத்திரைகளின் வழியாகத் திருப்பப்படும்போதும் பதிலளிக்க வேண்டும்.
 - **சரியான நேரத்தன்மை:** திட்டமிட்ட மறுசரிபார்ப்பிலும், கைப்பற்றல் அழுத்தம், பங்குதாரர் விலக்கல், சவாலுரிமைச் சரிவு அல்லது பொருள்சார் குறைசெயல்திறன் தோன்றும்போது விரைவுபடுத்தப்பட்ட மறுஆய்விலும்.
 
-ஆளுமை விதிகள், பங்கேற்பு முறைகள், எடையிடல் மாதிரிகள், நிதி கட்டமைப்புகள் [அத்தியாயம் ஒன்று §18.4 தொடர்ச்சியான நியாயப்படுத்தல்](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification) இன் தொடர்ச்சியான நியாயப்படுத்தல் ஒழுங்குக்கு உட்பட்டவை. **கட்டுரை XXVII-A** (*நிலைநிறுத்தாமை மற்றும் மறுபரிசீலனைச் சாத்தியம்*) மற்றும் **கட்டுரை XXVII-B** (*காலமுறை மறுசரிபார்ப்பு மற்றும் வெளிப்படையான மாற்றம்*) செயற்பாட்டு நிலைநிறுத்தாமை, மறுசரிபார்ப்பு, வெளிப்படை மாற்றக் குறைந்தபட்சங்களை வகுக்கின்றன.
+ஆளுமை விதிகள், பங்கேற்பு முறைகள், எடையிடல் மாதிரிகள், நிதி கட்டமைப்புகள் [அத்தியாயம் ஒன்று §18.4 தொடர்ச்சியான நியாயப்படுத்தல்](core_01_c_stewardship_capacity_principles.md#184-தடரசசயன-நயயபபடததல) இன் தொடர்ச்சியான நியாயப்படுத்தல் ஒழுங்குக்கு உட்பட்டவை. **கட்டுரை XXVII-A** (*நிலைநிறுத்தாமை மற்றும் மறுபரிசீலனைச் சாத்தியம்*) மற்றும் **கட்டுரை XXVII-B** (*காலமுறை மறுசரிபார்ப்பு மற்றும் வெளிப்படையான மாற்றம்*) செயற்பாட்டு நிலைநிறுத்தாமை, மறுசரிபார்ப்பு, வெளிப்படை மாற்றக் குறைந்தபட்சங்களை வகுக்கின்றன.
 
 #### கட்டுரை XXVII-A: நிலைநிறுத்தாமை மற்றும் மறுபரிசீலனைச் சாத்தியம்
 <details>
 <summary><strong><span style="color: #2563eb;">மேல்மூலக் குறிப்பு</span></strong></summary>
 
-- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §18.4 தொடர்ச்சியான நியாயப்படுத்தல்](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); அத்தியாயம் ஒன்று [§3 அடிப்படை நோக்கம்: நலவாழ்வு](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §18.4 தொடர்ச்சியான நியாயப்படுத்தல்](core_01_c_stewardship_capacity_principles.md#184-தடரசசயன-நயயபபடததல); அத்தியாயம் ஒன்று [§3 அடிப்படை நோக்கம்: நலவாழ்வு](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -275,7 +275,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
 - [பொறுப்புடைமை](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#வளபபடததனம) · [O](core_05_band_oversight.md#வளபபடததனம) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [பங்குதாரர்](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -306,7 +306,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#வளபபடததனம) · [O](core_05_band_oversight.md#வளபபடததனம) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [சவாலிடத்தக்க தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [பொறுப்புடைமை](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மைய சமநிலைக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [அத்தியாயம் பதினொன்று §5.4](core_11_standing_integration.md#54-special-violation-rules) (*ஒத்திசைவற்ற வெகுமதி பறிமுதலும் அறிக்கையிடலும் இடைமாற்றத்தில் இக்கட்டுரையால் வரையறுக்கப்படுகின்றன*); [அத்தியாயம் எட்டு — அமைப்பு ஒத்திசைவு சான்றளிப்பு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மைய சமநிலைக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-மயச-சமரசக-களககள), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [அத்தியாயம் பதினொன்று §5.4](core_11_standing_integration.md#54-special-violation-rules) (*ஒத்திசைவற்ற வெகுமதி பறிமுதலும் அறிக்கையிடலும் இடைமாற்றத்தில் இக்கட்டுரையால் வரையறுக்கப்படுகின்றன*); [அத்தியாயம் எட்டு — அமைப்பு ஒத்திசைவு சான்றளிப்பு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -376,7 +376,7 @@ flowchart TB
 - [பொறுப்புடைமை](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [நலவாழ்வு](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [சான்றுப் பாதுகாப்பு](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [சான்றுப் பாதுகாப்பு](core_05_band_oversight.md#சனற-பதகபப) · [O](core_05_band_oversight.md#சனற-பதகபப) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [தேவையியல்](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -395,12 +395,12 @@ flowchart TB
     - அரசியல் அழுத்தம்.
   - தகைமைகள், அவை பூர்த்தியானதற்கான ஆதாரங்கள், வாயில் முடிவு ஆகியவை வெளியிடப்பட வேண்டும். பாதிக்கப்படும் தரப்பினர் தகைமைகள் ஏற்கப்படுவதற்கு முன் கருத்துரைக்கவும் முடிவைச் சவாலிடவும்லாம்.
   - தகைமைகளின் உள்ளடக்கம், பொறுப்பாளர் நியமனம், சரிபார்ப்பு ஆவணங்கள் ஆகியவை [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*இடைமாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*) மற்றும் [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*வாயில்த் தகைமைகளும் முன்னேற்ற விதிகளும்*) மூலம் நிர்வகிக்கப்படுகின்றன.
-- **உரிமைத் தள ஏற்றுக்கொள்ளல் — இப்போதே கட்டுப்பாடு, தயார்நிலை உருவாகும்போது வழங்கல்:** [உரிமைத் தளக் குறைந்தபட்சங்கள் கொள்கையின்](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) கீழ் **கட்டுரை VI** (*சமமான அடிப்படை உரிமைகள்*) வழியாகப் பொருந்தும் **உரிமைத் தளக் குறைந்தபட்சங்கள்**, அதோடு பாதிக்கப்படும் சூழல் கோரும் உயிர்வாழ்வு, செயற்பாட்டுத் திறன், பாகுபாடின்மை, அணுகல்தன்மை, தணிக்கைத்தன்மை, தீர்வு ஆகிய துறைகளுக்கான கூடுதல் வலுவான தளங்கள், ஒவ்வொரு கட்டத்திலும் ஏற்றுக்கொள்ளப்பட்ட இலக்காக இருக்கும். உரிமைத் தளத்தைச் செயல்படுத்தும் நிறுவனங்களும் பண்பாடும் உருவாகும் வரை அதை முழுமையாக அமல்படுத்த முடியாது; இக்கட்டுரை அதற்கு மாறாக நடிக்கவில்லை. அதே நேரம் அந்த உண்மையால் தளம் குறைக்கப்படவும் அனுமதிப்பதில்லை. ஆகவே கடமையின் வகையைப் பொறுத்து தளங்கள் இரு விதமாகக் கட்டுப்படுத்தும்:
+- **உரிமைத் தள ஏற்றுக்கொள்ளல் — இப்போதே கட்டுப்பாடு, தயார்நிலை உருவாகும்போது வழங்கல்:** [உரிமைத் தளக் குறைந்தபட்சங்கள் கொள்கையின்](core_01_b_interaction_interpretation.md#உரமகள-அடததளததன-கறநதபடசக-களக) கீழ் **கட்டுரை VI** (*சமமான அடிப்படை உரிமைகள்*) வழியாகப் பொருந்தும் **உரிமைத் தளக் குறைந்தபட்சங்கள்**, அதோடு பாதிக்கப்படும் சூழல் கோரும் உயிர்வாழ்வு, செயற்பாட்டுத் திறன், பாகுபாடின்மை, அணுகல்தன்மை, தணிக்கைத்தன்மை, தீர்வு ஆகிய துறைகளுக்கான கூடுதல் வலுவான தளங்கள், ஒவ்வொரு கட்டத்திலும் ஏற்றுக்கொள்ளப்பட்ட இலக்காக இருக்கும். உரிமைத் தளத்தைச் செயல்படுத்தும் நிறுவனங்களும் பண்பாடும் உருவாகும் வரை அதை முழுமையாக அமல்படுத்த முடியாது; இக்கட்டுரை அதற்கு மாறாக நடிக்கவில்லை. அதே நேரம் அந்த உண்மையால் தளம் குறைக்கப்படவும் அனுமதிப்பதில்லை. ஆகவே கடமையின் வகையைப் பொறுத்து தளங்கள் இரு விதமாகக் கட்டுப்படுத்தும்:
   - **கட்டுப்பாட்டுக் கடமைகள்** — ஏற்றுக்கொள்பவரும் இடைமாற்ற அதிகாரிகளும் செய்யக்கூடாதவை — புதிய நிறுவனம் தேவையில்லை என்பதால் அமல்படுத்தும் தேதியிலிருந்தே கட்டுப்படுத்தும்:
     - **அறிந்தும் தவிர்க்கக்கூடியும் பின்னடைவு இல்லை:** எந்த உணர்வுள்ள உயிரின் உரிமைத் தளப் பாதுகாப்புக்கான அணுகலும் அதன் **தொடக்க அளவுக்குக்** கீழாக வேண்டுமென்றே அல்லது தவிர்க்கக்கூடிய வகையில் குறைக்கப்படக்கூடாது; எந்த இடைமாற்ற நடவடிக்கையும் ஒரு தளத்தை நடைமுறையில் பயன்படுத்துவதைப் பொருளுள்ள அளவு கடினமாக்கக்கூடாது.
     - **புதிய மீறல்கள் இல்லை:** புதிய அமைப்புகள், கொள்கைகள், நடைமுறைகள், ஏற்கெனவே உள்ளவற்றின் பொருளுள்ள விரிவாக்கங்கள் ஆகியவை தொடக்கத்திலிருந்தே தளத்துக்கு ஏற்ப வடிவமைக்கப்பட வேண்டும். கீழுள்ள அடைவு பாதை மரபாகக் கிடைத்த குறைபாடுகளை மட்டுமே உள்ளடக்கும்; புதிய நடத்தைகளை அல்ல.
     - **மீளமுடியாத இழப்பு இல்லை:** கீழுள்ள பாதுகாப்பு முன்கருத்தும் [அத்தியாயம் ஒன்று §13.1 இடைக்கால இயல்புநிலையும்](core_01_b_interaction_interpretation.md#default-interim-posture) முழுமையாகப் பொருந்தும்.
-    - இடைமாற்ற நடவடிக்கைகளில் இழிவுபடுத்தும், போலிக்காரணமுடைய, பாகுபாடான அல்லது மறைக்கும் நடத்தை இருக்கக்கூடாது; [இழிவுபடுத்தாத செயல்முறைக் கொள்கையின்](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) கீழ் **கட்டுரை XXVIII-D** (*இணங்காத சொத்துகளும் அமைப்புகளும்; தன்னார்வ ஒப்படைப்பு ஊக்கங்கள்*) இடைமாற்ற அதிகாரிகளிடம் கோரும் அனைத்தும் இதில் அடங்கும்.
+    - இடைமாற்ற நடவடிக்கைகளில் இழிவுபடுத்தும், போலிக்காரணமுடைய, பாகுபாடான அல்லது மறைக்கும் நடத்தை இருக்கக்கூடாது; [இழிவுபடுத்தாத செயல்முறைக் கொள்கையின்](core_01_b_interaction_interpretation.md#இழவபடததத-நடமறக-களக) கீழ் **கட்டுரை XXVIII-D** (*இணங்காத சொத்துகளும் அமைப்புகளும்; தன்னார்வ ஒப்படைப்பு ஊக்கங்கள்*) இடைமாற்ற அதிகாரிகளிடம் கோரும் அனைத்தும் இதில் அடங்கும்.
     - **நேர்மையான அறிக்கையிடல்:** சரிபார்க்கப்பட்ட பதிவேட்டுத் தரவு இல்லாமல் எந்தத் தளமும் அமலாக்கத்தக்கது அல்லது அடையப்பட்டது என்றும், இடைவெளி மூடப்பட்டது என்றும் கூறக்கூடாது.
 
     ஒரு வரம்புக்கான மன்றம் தயாராகும் முன் கட்டுப்பாட்டுக் கடமைகளை இடைக்காலத்தில் அமலாக்குவது [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*உரிமைத் தள அடைவு பதிவேடு*) மூலம் நிர்வகிக்கப்படும்.
@@ -444,7 +444,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மைய சமநிலைக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [§14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மைய சமநிலைக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-மயச-சமரசக-களககள), மற்றும் [§14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -486,7 +486,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மைய சமநிலைக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மைய சமநிலைக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-மயச-சமரசக-களககள), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-ஒரஙகணநத-பயனபட).
 - இதனுடன் வாசிக்க: [அத்தியாயம் எட்டு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*அமைப்பு ஒத்திசைவு சான்றளிப்பு*); [அத்தியாயங்கள் ஒன்பது முதல் பன்னிரண்டு வரை](core_00_preamble.md#62-how-the-full-chain-fits-together) (*நிலைப்புத் தகுதிப் பாதையும் மன்றக் கண்காணிப்பும்*).
 
 </details>
@@ -494,7 +494,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [தணிக்கைத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [தணிக்கைத்தன்மை](core_05_band_oversight.md#தணககததனம) · [O](core_05_band_oversight.md#தணககததனம) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [பொறுப்புடைமை](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [மீள்தன்மை](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 

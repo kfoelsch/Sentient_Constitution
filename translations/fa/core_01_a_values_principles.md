@@ -19,42 +19,42 @@
 
 **لایه‌ها چگونه به هم مرتبط‌اند.** هر لایه به پرسشی متفاوت پاسخ می‌دهد و هر اصل فصل یک به سه لایه دیگر اشاره می‌کند:
 
-- **آرمان‌ها و چهارگانه** ([مقدمه §1](core_00_preamble.md#the-model)): هدف سامانه‌های مشترک ([شکوفایی](core_05_apex_flourishing_aim.md#flourishing-constitutional) و [تداوم](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim)) چیست و چهار تکلیفی که این پیگیری را مشروع نگه می‌دارند کدام‌اند ([مشارکت](core_05_apex_participation_leg.md#participation-constitutional)، [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional)، [پاسخ‌گویی](core_05_apex_accountability_leg.md#accountability) و [به‌موقع‌بودن](core_05_apex_timeliness_leg.md#timeliness-constitutional)).
+- **آرمان‌ها و چهارگانه** ([مقدمه §1](core_00_preamble.md#the-model)): هدف سامانه‌های مشترک ([شکوفایی](core_05_apex_flourishing_aim.md#flourishing-constitutional) و [تداوم](core_05_apex_continuity_aim.md#فصل-پنجم-تعریفها-پیوستگی-هدف-قانون-اساسی)) چیست و چهار تکلیفی که این پیگیری را مشروع نگه می‌دارند کدام‌اند ([مشارکت](core_05_apex_participation_leg.md#participation-constitutional)، [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional)، [پاسخ‌گویی](core_05_apex_accountability_leg.md#accountability) و [به‌موقع‌بودن](core_05_apex_timeliness_leg.md#timeliness-constitutional)).
 - **اصول** (این فصل): این آرمان‌ها و تکالیف چگونه به ارزش‌ها، محدودیت‌ها و قواعد سنجش آن‌ها در برابر یکدیگر تبدیل می‌شوند.
-- **مواد** ([فصل شش](core_06_rights_part_a.md#chapter-six-foundational-rights)): حمایت‌های کف حقوق که هنگام پیگیری آرمان‌ها نیز قابل استفاده می‌مانند. **ردیابی** هر بخش آن‌ها را زیر عنوان *به‌ویژه* فهرست می‌کند.
+- **مواد** ([فصل شش](core_06_rights_part_a.md#فصل-ششم-حقوق-بنیادین)): حمایت‌های کف حقوق که هنگام پیگیری آرمان‌ها نیز قابل استفاده می‌مانند. **ردیابی** هر بخش آن‌ها را زیر عنوان *به‌ویژه* فهرست می‌کند.
 - **تعاریف** ([فصل‌های دو تا پنج](core_02_definition_structure.md)): معانی مشترکی که برای سنجش درستی یک ادعا به کار می‌روند. ابزارک **تعاریف · ارزیابی · انطباق** هر بخش آن‌ها را فهرست می‌کند.
 
 **فصل یک هر آرمان را چگونه بسط می‌دهد.** شکوفایی یعنی بهزیستی‌ای که از راه حقیقت، ایمنی، اعتمادپذیری و عاملیت معنادار پایدار می‌ماند ([مقدمه §1](core_00_preamble.md#flourishing)). فصل یک نخست نتیجه را بیان می‌کند و سپس برای هر یک از این چهار شرط اصلی می‌آورد.
 
 | آرمان و بُعد | اصل فصل یک | جایگاه تعریف | مواد نام‌برده در ردیابی |
 |---|---|---|---|
-| **شکوفایی**: نتیجه | [§3 بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) | [بهزیستی](core_05_band_continuity.md#wellbeing) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights)، [X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، [XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)، [XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) |
-| **شکوفایی**: ایمنی | [§4 ایمنی](#4-safety-harm-constraint) | [ایمنی](core_05_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)، [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
-| **شکوفایی**: حقیقت | [§5 حقیقت](#5-truth-epistemic-integrity-constraint) | [حقیقت](core_05_band_oversight.md#truth-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)، [XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
-| **شکوفایی**: اعتمادپذیری | [§6 اعتماد](#6-trust-and-trustworthiness-coordination-integrity) | [اعتمادپذیری](core_05_band_continuity.md#trustworthiness) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)، [XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
-| **شکوفایی**: عاملیت معنادار | [§7 آزادی](#7-freedom-bounded-agency) | [عاملیت معنادار](core_05_band_participation.md#meaningful-agency) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights)، [X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، [XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) |
-| **تداوم**، پل به شکوفایی: ظرفیت پایدار | [§9 ظرفیت سامانه مشترک](#9-shared-system-capacity) | [ظرفیت سامانه مشترک](core_05_band_continuity.md#shared-system-capacity) | [I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)، [III](core_06_rights_part_a.md#article-iii-survival-and-essential-access)، [V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) |
-| **تداوم**: تاب‌آوری | [§10 تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design) | [خودترمیمی](core_05_band_continuity.md#self-healing) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)، [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
-| **تداوم**: بازارهای رقابت‌پذیر | [§11 ساختار بازار](#11-market-structure) | [ساختار بازار](core_05_band_accountability.md#market-structure) | [III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)، [V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)، [XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) |
-| **تداوم**: دید کل‌سامانه‌ای | [§12 الزام ارزیابی نظام‌مند](#12-systemic-evaluation-requirement) | [گواهی هم‌راستایی سامانه](core_05_band_continuity.md#system-alignment-certification) | [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+| **شکوفایی**: نتیجه | [§3 بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) | [بهزیستی](core_05_band_continuity.md#wellbeing) | [VI](core_06_rights_part_b.md#ماده-ششم-حقوق-بنیادین-برابر)، [X](core_06_rights_part_b.md#ماده-دهم-خودتعیینگری-عاملیت-و-مشارکت)، [XIII-B](core_06_rights_part_c.md#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت)، [XIX-B](core_06_rights_part_d.md#ماده-xix-b-اعتراضپذیری-و-حدود-محدودیت-متناسب) |
+| **شکوفایی**: ایمنی | [§4 ایمنی](#4-safety-harm-constraint) | [ایمنی](core_05_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد)، [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
+| **شکوفایی**: حقیقت | [§5 حقیقت](#5-truth-epistemic-integrity-constraint) | [حقیقت](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) | [XIII](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد)، [XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [XVI](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل) |
+| **شکوفایی**: اعتمادپذیری | [§6 اعتماد](#6-trust-and-trustworthiness-coordination-integrity) | [اعتمادپذیری](core_05_band_continuity.md#trustworthiness) | [XIII](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد)، [XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [XVI](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل) |
+| **شکوفایی**: عاملیت معنادار | [§7 آزادی](#7-freedom-bounded-agency) | [عاملیت معنادار](core_05_band_participation.md#meaningful-agency) | [VI](core_06_rights_part_b.md#ماده-ششم-حقوق-بنیادین-برابر)، [X](core_06_rights_part_b.md#ماده-دهم-خودتعیینگری-عاملیت-و-مشارکت)، [XXI](core_06_rights_part_d.md#ماده-xxi-تعاملپذیری-انتقالپذیری-و-یکپارچگی-خروج) |
+| **تداوم**، پل به شکوفایی: ظرفیت پایدار | [§9 ظرفیت سامانه مشترک](#۹-ظرفیت-سامانه-مشترک) | [ظرفیت سامانه مشترک](core_05_band_continuity.md#shared-system-capacity) | [I-A](core_06_rights_part_a.md#اصل-i-a-پیششرطهای-محیطی-و-یکپارچگی-بومشناختی)، [III](core_06_rights_part_a.md#اصل-iii-بقا-و-دسترسی-اساسی)، [V](core_06_rights_part_a.md#اصل-v-تخصیص-منابع-وابستگیها-و-تأمین-زیستبوم) |
+| **تداوم**: تاب‌آوری | [§10 تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design) | [خودترمیمی](core_05_band_continuity.md#self-healing) | [XIII](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد)، [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
+| **تداوم**: بازارهای رقابت‌پذیر | [§11 ساختار بازار](#11-ساختار-بازار) | [ساختار بازار](core_05_band_accountability.md#market-structure) | [III-C](core_06_rights_part_a.md#اصل-iii-c-کف-کار-و-اقتصاد)، [V](core_06_rights_part_a.md#اصل-v-تخصیص-منابع-وابستگیها-و-تأمین-زیستبوم)، [XXI](core_06_rights_part_d.md#ماده-xxi-تعاملپذیری-انتقالپذیری-و-یکپارچگی-خروج) |
+| **تداوم**: دید کل‌سامانه‌ای | [§12 الزام ارزیابی نظام‌مند](#12-الزام-ارزیابی-نظاممند) | [گواهی هم‌راستایی سامانه](core_05_band_continuity.md#system-alignment-certification) | [XVI](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل) |
 
 **سلسله‌مراتب اصول (تداوم).** در سطح اصول، آرمان تداوم به ترتیب زیر بسط می‌یابد و با ظرفیتی آغاز می‌شود که دو آرمان را به هم پیوند می‌دهد:
 
-6. **[ظرفیت سامانه مشترک](core_05_band_continuity.md#shared-system-capacity)** حاصل جمعی است که سرپرستی شایسته، حکمرانی و مشوق‌ها باید در گذر زمان به آن برسند — توانایی واقعی و قابل‌اعتراض موجودات ذی‌شعور و سامانه‌های مشترک برای انجام کارهای مقرر در قانون اساسی. این ظرفیت میان دو آرمان قرار دارد: وسیله‌ای برای **شکوفایی** و جوهر **تداوم** است، اما بر همه‌چیز برتری ندارد. [§9.1](#91-productive-capacity-instrumental-good) و [§9.2](#92-constitutional-efficiency) دو بُعد اصلی آن را توضیح می‌دهند.
+6. **[ظرفیت سامانه مشترک](core_05_band_continuity.md#shared-system-capacity)** حاصل جمعی است که سرپرستی شایسته، حکمرانی و مشوق‌ها باید در گذر زمان به آن برسند — توانایی واقعی و قابل‌اعتراض موجودات ذی‌شعور و سامانه‌های مشترک برای انجام کارهای مقرر در قانون اساسی. این ظرفیت میان دو آرمان قرار دارد: وسیله‌ای برای **شکوفایی** و جوهر **تداوم** است، اما بر همه‌چیز برتری ندارد. [§9.1](#91-ظرفیت-تولیدی-خیر-ابزاری) و [§9.2](#92-کارآمدی-قانون-اساسی) دو بُعد اصلی آن را توضیح می‌دهند.
 7. **[تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design)** بیان می‌کند سامانه‌هایی که موجودات ذی‌شعور به آن‌ها وابسته‌اند چگونه مشکل را زود تشخیص می‌دهند، مهار می‌کنند، طبق مسیرهای اعلام‌شده از کار می‌افتند و صادقانه بازیابی می‌شوند (**[خودترمیمی](core_05_band_continuity.md#self-healing)**)، تا ظرفیت بند 6 پایدار بماند و ثبات به مداخله اضطراری وابسته نباشد.
-8. **[ساختار بازار](core_05_band_accountability.md#market-structure)** در [§11](#11-market-structure) انضباط ضدتمرکزی فراهم می‌کند که این ظرفیت را در عمل رقابت‌پذیر نگه می‌دارد.
-9. **[الزام ارزیابی نظام‌مند](#12-systemic-evaluation-requirement)** پیش از پذیرش ادعاهای انطباق یا حکمرانی، دامنه کل سامانه، وابستگی‌ها و هم‌راستایی مشوق‌ها را بررسی می‌کند — ذیل رکن **نظارت** چهارگانه به‌عنوان جهت‌گیری اصولی برای حسابرسی؛ از جمله [گواهی هم‌راستایی سامانه](core_05_band_continuity.md#system-alignment-certification) به‌عنوان یکی از فرایندهای حسابرسی به‌ویژه گسترده در میان فرایندهای دیگر.
+8. **[ساختار بازار](core_05_band_accountability.md#market-structure)** در [§11](#11-ساختار-بازار) انضباط ضدتمرکزی فراهم می‌کند که این ظرفیت را در عمل رقابت‌پذیر نگه می‌دارد.
+9. **[الزام ارزیابی نظام‌مند](#12-الزام-ارزیابی-نظاممند)** پیش از پذیرش ادعاهای انطباق یا حکمرانی، دامنه کل سامانه، وابستگی‌ها و هم‌راستایی مشوق‌ها را بررسی می‌کند — ذیل رکن **نظارت** چهارگانه به‌عنوان جهت‌گیری اصولی برای حسابرسی؛ از جمله [گواهی هم‌راستایی سامانه](core_05_band_continuity.md#system-alignment-certification) به‌عنوان یکی از فرایندهای حسابرسی به‌ویژه گسترده در میان فرایندهای دیگر.
 
 **جایگاه چهارگانه در فصل یک.** هر بخش در ردیابی خود ارکانی را که به آن‌ها می‌پردازد نام می‌برد. این بخش‌ها مستقیم‌تر از همه آن ارکان را پوشش می‌دهند:
 
 | رکن چهارگانه | جایگاه‌های اصلی در فصل یک |
 |---|---|
-| **مشارکت** | [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) و [§17 سرپرستی پیامددار](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (نقش‌های اثرگذار و حق اظهارنظر)؛ [§7 آزادی](#7-freedom-bounded-agency) (عاملیت معنادار) |
-| **نظارت** | [§16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) و [§17](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (درک توزیع‌شده و سوابق)؛ [§18 حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (تخصیص اختیار)؛ [§12](#12-systemic-evaluation-requirement) (حسابرسی) |
-| **پاسخ‌گویی** | [§18 حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (پاسخ‌گویی متناسب با اختیار)؛ [§19 هم‌سویی مشوق‌ها و تسخیر سامانه](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) (پاداش‌ها نباید ارکان را تهی کنند) |
-| **به‌موقع‌بودن** | [§16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) و [§17](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (شناسایی و رفع مشکل بدون تأخیر قابل‌اجتناب) |
+| **مشارکت** | [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی) و [§17 سرپرستی پیامددار](core_01_c_stewardship_capacity_principles.md#۱۷-سرپرستی-پیامدآفرین-نقش-سرپرست) (نقش‌های اثرگذار و حق اظهارنظر)؛ [§7 آزادی](#7-freedom-bounded-agency) (عاملیت معنادار) |
+| **نظارت** | [§16](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی) و [§17](core_01_c_stewardship_capacity_principles.md#۱۷-سرپرستی-پیامدآفرین-نقش-سرپرست) (درک توزیع‌شده و سوابق)؛ [§18 حکمرانی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی) (تخصیص اختیار)؛ [§12](#12-الزام-ارزیابی-نظاممند) (حسابرسی) |
+| **پاسخ‌گویی** | [§18 حکمرانی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی) (پاسخ‌گویی متناسب با اختیار)؛ [§19 هم‌سویی مشوق‌ها و تسخیر سامانه](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه) (پاداش‌ها نباید ارکان را تهی کنند) |
+| **به‌موقع‌بودن** | [§16](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی) و [§17](core_01_c_stewardship_capacity_principles.md#۱۷-سرپرستی-پیامدآفرین-نقش-سرپرست) (شناسایی و رفع مشکل بدون تأخیر قابل‌اجتناب) |
 
-**دو محور، نه تعارض.** آرمان‌ها می‌گویند سامانه‌ها چه چیزی را دنبال می‌کنند؛ چهارگانه می‌گوید آن پیگیری چگونه مشروع می‌ماند. یک اصطلاح می‌تواند در هر دو محور جای گیرد: حقیقت و اعتمادپذیری از اجزای شکوفایی‌اند و [مقدمه §2](core_00_preamble.md#2-measurements-overview) آن‌ها را در خانواده نظارت می‌سنجد. [§§13–15](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) نحوه سنجش و خواندن این اصول به‌صورت یک کل را هنگام تعارض تعیین می‌کنند و [§20](core_01_c_stewardship_capacity_principles.md#20-integrated-application) آن‌ها را بر همه فصل‌های بعدی اعمال می‌کند.
+**دو محور، نه تعارض.** آرمان‌ها می‌گویند سامانه‌ها چه چیزی را دنبال می‌کنند؛ چهارگانه می‌گوید آن پیگیری چگونه مشروع می‌ماند. یک اصطلاح می‌تواند در هر دو محور جای گیرد: حقیقت و اعتمادپذیری از اجزای شکوفایی‌اند و [مقدمه §2](core_00_preamble.md#2-نمای-کلی-اندازهگیریها) آن‌ها را در خانواده نظارت می‌سنجد. [§§13–15](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی) نحوه سنجش و خواندن این اصول به‌صورت یک کل را هنگام تعارض تعیین می‌کنند و [§20](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه) آن‌ها را بر همه فصل‌های بعدی اعمال می‌کند.
 
 </details>
 
@@ -66,12 +66,12 @@
 
 - بالادست: [پیشگفتار §۱ مدل](core_00_preamble.md#the-model) — [چهارگانۀ قانون اساسی](core_00_preamble.md#constitutional-tetrad)، [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) و مقیاس‌بندی متناسب با [ذی‌نفعی مادی](core_00_preamble.md#material-stake) از طریق ردیابی بخش‌ها در سراسر فصل اعمال می‌شوند.
 - پایین‌دست: [۱۵. تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) برای خوانش یکپارچه، ابهام، سلسله‌مراتب درونی و رویۀ رسمی حل تعارض.
-- پایین‌دست: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — توسعۀ هدف **شکوفایی**: از [§۳](#3-foundational-objective-wellbeing-flourishing-aim) تا [§۶](#6-trust-and-trustworthiness-coordination-integrity) و [§۷ آزادی](#7-freedom-bounded-agency)؛ توسعۀ هدف **تداوم**: [§۹ ظرفیت نظام مشترک](#9-shared-system-capacity)، [§۱۰ تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design)، [§۱۱ ساختار بازار](#11-market-structure) و [§۱۲ الزام ارزیابی نظام‌مند](#12-systemic-evaluation-requirement).
-- پایین‌دست: [۳. هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim)، [§۳.۲ به‌رسمیت‌شناسی، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration)، [۴ ایمنی](#4-safety-harm-constraint)، [۵ حقیقت](#5-truth-epistemic-integrity-constraint)، [۶. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [§۱۶ سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، [۱۳. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) و [§۷ آزادی](#7-freedom-bounded-agency).
+- پایین‌دست: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — توسعۀ هدف **شکوفایی**: از [§۳](#3-foundational-objective-wellbeing-flourishing-aim) تا [§۶](#6-trust-and-trustworthiness-coordination-integrity) و [§۷ آزادی](#7-freedom-bounded-agency)؛ توسعۀ هدف **تداوم**: [§۹ ظرفیت نظام مشترک](#۹-ظرفیت-سامانه-مشترک)، [§۱۰ تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design)، [§۱۱ ساختار بازار](#11-ساختار-بازار) و [§۱۲ الزام ارزیابی نظام‌مند](#12-الزام-ارزیابی-نظاممند).
+- پایین‌دست: [۳. هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim)، [§۳.۲ به‌رسمیت‌شناسی، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration)، [۴ ایمنی](#4-safety-harm-constraint)، [۵ حقیقت](#5-truth-epistemic-integrity-constraint)، [۶. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [§۱۶ سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، [۱۳. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی) و [§۷ آزادی](#7-freedom-bounded-agency).
 - همراه بخوانید: [چهارگانۀ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — مشارکت، نظارت، پاسخ‌گویی و به‌موقع‌بودن چگونگی پیگیری [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) را در نظام‌های مشترک تنظیم می‌کنند؛ مقیاس‌بندی متناسب با [ذی‌نفعی مادی](core_00_preamble.md#material-stake) از طریق ردیابی بخش‌ها در سراسر فصل اعمال می‌شود.
-- همراه بخوانید: [فصل‌های دو تا چهار](core_02_definition_structure.md) و [فصل پنج](core_05__definitions_home.md#chapter-five-foundational-definitions) — لایۀ سازوکارهای حاکم بر همۀ اصطلاحات به‌کاررفته در این فصل؛ یکپارچگی O/M/A/C، جلوگیری از طفره‌روی، بار اثبات و قابلیت ردیابی تعریف‌ها تا نتایج را اعمال کنید.
-- همراه بخوانید: [فصل شش: حقوق بنیادین](core_06_rights_part_a.md#chapter-six-foundational-rights).
-  - به‌ویژه [مادۀ VI: حقوق اساسی برابر](core_06_rights_part_b.md#article-vi-equal-basic-rights)، [مادۀ XIII: حق برخورداری از نظام‌های قابل‌اتکا و قابل‌اعتماد](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) و [مادۀ XXIV: تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتصرف](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+- همراه بخوانید: [فصل‌های دو تا چهار](core_02_definition_structure.md) و [فصل پنج](core_05__definitions_home.md#فصل-پنجم-تعریفهای-بنیادین) — لایۀ سازوکارهای حاکم بر همۀ اصطلاحات به‌کاررفته در این فصل؛ یکپارچگی O/M/A/C، جلوگیری از طفره‌روی، بار اثبات و قابلیت ردیابی تعریف‌ها تا نتایج را اعمال کنید.
+- همراه بخوانید: [فصل شش: حقوق بنیادین](core_06_rights_part_a.md#فصل-ششم-حقوق-بنیادین).
+  - به‌ویژه [مادۀ VI: حقوق اساسی برابر](core_06_rights_part_b.md#ماده-ششم-حقوق-بنیادین-برابر)، [مادۀ XIII: حق برخورداری از نظام‌های قابل‌اتکا و قابل‌اعتماد](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد) و [مادۀ XXIV: تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتصرف](core_06_rights_part_d.md#ماده-xxv-تفسیر-قانون-اساسی-بازبینی-و-تدابیر-حفاظتی-ضدتسخیر).
   - هرجا تفسیر بر موجودات صاحب‌احساس، نظام‌ها یا نهادهای حمایت‌شده اثر می‌گذارد، این خوانش را اعمال کنید.
 
 </details>
@@ -93,10 +93,10 @@
 این هدف‌ها باید همواره با هم و در چارچوب محدودیت‌های اصولیِ غیرقابل‌مذاکره و حمایت‌های حقوقیِ مقرر در این قانون اساسی دنبال شوند. [**چهارگانۀ قانون اساسی**](core_00_preamble.md#constitutional-tetrad) چگونگی مشروع‌ماندن این پیگیری را تنظیم می‌کند و مقیاس آن را با [**ذی‌نفعی مادی**](core_00_preamble.md#material-stake) متناسب می‌سازد.
 
 این فصل حول آن دو هدف و آن چهارگانه سازمان یافته است:
-- **شکوفایی:** [هدف شکوفایی: مقدمه](#2-flourishing-aim-introduction) نقشۀ هدف را ترسیم می‌کند. [§۳ هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) نتیجۀ مطلوب را بیان می‌کند. [§۴ ایمنی](#4-safety-harm-constraint)، [§۵ حقیقت](#5-truth-epistemic-integrity-constraint)، [§۶ اعتماد](#6-trust-and-trustworthiness-coordination-integrity) و [§۷ آزادی](#7-freedom-bounded-agency) چهار شرطِ پشتیبان آن را بسط می‌دهند: ایمنی، حقیقت، قابل‌اعتمادبودن و عاملیت معنادار.
-- **تداوم:** [هدف تداوم: مقدمه](#8-continuity-aim-introduction) نقشۀ هدف را ترسیم می‌کند. [§۹ ظرفیت نظام مشترک](#9-shared-system-capacity) (ابزاری برای شکوفایی و در عین حال جوهر تداوم)، [§۱۰ تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design)، [§۱۱ ساختار بازار](#11-market-structure) و [§۱۲ الزام ارزیابی نظام‌مند](#12-systemic-evaluation-requirement) ثبات بلندمدت، ظرفیت پایدار نظام مشترک و تاب‌آوری را بسط می‌دهند. ادعاهای مربوط به تداوم بر تصویری صادقانه از کل نظام تکیه دارند: هر ادعا در §§۹–۱۱ تنها پس از بررسی §۱۲ معتبر است.
-- **هنگام رویارویی اصول:** [§۱۳ فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، [§۱۴ منع تقدم مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) و [§۱۵ تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) چگونگی سنجش و خوانش یکپارچۀ هدف‌ها و اصول را تنظیم می‌کنند.
-- **چهارگانه در عمل:** از [§۱۶ سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) تا [§۱۹ هم‌راستایی انگیزه‌ها و تصرف نظام](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)، مشارکت، نظارت، پاسخ‌گویی و به‌موقع‌بودن را در سرپرستی، حکمرانی و انگیزه‌ها جاری می‌کنند؛ [§۲۰ کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application) کل فصل را بر همۀ فصل‌های بعدی اعمال می‌کند.
+- **شکوفایی:** [هدف شکوفایی: مقدمه](#۲-مقدمه-هدف-شکوفایی) نقشۀ هدف را ترسیم می‌کند. [§۳ هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) نتیجۀ مطلوب را بیان می‌کند. [§۴ ایمنی](#4-safety-harm-constraint)، [§۵ حقیقت](#5-truth-epistemic-integrity-constraint)، [§۶ اعتماد](#6-trust-and-trustworthiness-coordination-integrity) و [§۷ آزادی](#7-freedom-bounded-agency) چهار شرطِ پشتیبان آن را بسط می‌دهند: ایمنی، حقیقت، قابل‌اعتمادبودن و عاملیت معنادار.
+- **تداوم:** [هدف تداوم: مقدمه](#۸-هدف-تداوم-مقدمه) نقشۀ هدف را ترسیم می‌کند. [§۹ ظرفیت نظام مشترک](#۹-ظرفیت-سامانه-مشترک) (ابزاری برای شکوفایی و در عین حال جوهر تداوم)، [§۱۰ تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design)، [§۱۱ ساختار بازار](#11-ساختار-بازار) و [§۱۲ الزام ارزیابی نظام‌مند](#12-الزام-ارزیابی-نظاممند) ثبات بلندمدت، ظرفیت پایدار نظام مشترک و تاب‌آوری را بسط می‌دهند. ادعاهای مربوط به تداوم بر تصویری صادقانه از کل نظام تکیه دارند: هر ادعا در §۹ ظرفیت نظام مشترک، §۱۰ تاب‌آوری و طراحی خودترمیم‌گر، و §۱۱ ساختار بازار تنها پس از بررسی مقرر در §۱۲ الزام ارزیابی نظام‌مند معتبر می‌ماند.
+- **هنگام رویارویی اصول:** [§۱۳ فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، [§۱۴ منع تقدم مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) و [§۱۵ تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) چگونگی سنجش و خوانش یکپارچۀ هدف‌ها و اصول را تنظیم می‌کنند.
+- **چهارگانه در عمل:** از [§۱۶ سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی) تا [§۱۹ هم‌راستایی انگیزه‌ها و تصرف نظام](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه)، مشارکت، نظارت، پاسخ‌گویی و به‌موقع‌بودن را در سرپرستی، حکمرانی و انگیزه‌ها جاری می‌کنند؛ [§۲۰ کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه) کل فصل را بر همۀ فصل‌های بعدی اعمال می‌کند.
 
 **ردیابی** هر اصل، مواد فصل شش را که از آن حمایت می‌کنند فهرست می‌کند؛ ویجت **تعریف‌ها · ارزیابی · رعایت** نیز تعریف‌های فصل پنج را که آن را می‌سنجند فهرست می‌کند.
 
@@ -153,10 +153,10 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - همراه با [چهارگانه قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — هر چهار رکن بر چگونگی پیگیری شکوفایی اعمال می‌شوند؛ [اهمیت مادی](core_00_preamble.md#material-stake) عمق هر ادعای مربوط به شکوفایی را تعیین می‌کند.
-- همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **شکوفایی**؛ هدف همراه آن در [مقدمه هدف تداوم](#8-continuity-aim-introduction) معرفی می‌شود.
+- همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **شکوفایی**؛ هدف همراه آن در [مقدمه هدف تداوم](#۸-هدف-تداوم-مقدمه) معرفی می‌شود.
 - پیشین: اصول: [دیباچه §1 الگو](core_00_preamble.md#flourishing)؛ [شکوفایی (هدف قانون اساسی)](core_05_apex_flourishing_aim.md#flourishing-constitutional)؛ [§1 هدف و نقش](#1-purpose-and-role).
 - پسین: [§3 هدف بنیادین: بهزیستی (هدف شکوفایی)](#3-foundational-objective-wellbeing-flourishing-aim)، [§4 ایمنی (محدودیت آسیب)](#4-safety-harm-constraint)، [§5 حقیقت (محدودیت سلامت معرفتی)](#5-truth-epistemic-integrity-constraint)، [§6 اعتماد و اعتمادپذیری (سلامت هماهنگی)](#6-trust-and-trustworthiness-coordination-integrity)، و [§7 آزادی (عاملیت محدود)](#7-freedom-bounded-agency)؛ مواد حافظ هر یک در ردیابی همان بخش نام برده شده‌اند.
-- زیربخش‌ها: [§2.1 محدودیت‌های اصولی غیرقابل‌مذاکره: ایمنی و حقیقت](#21-non-negotiable-principle-constraints-safety-and-truth).
+- زیربخش‌ها: [§2.1 محدودیت‌های اصولی غیرقابل‌مذاکره: ایمنی و حقیقت](#۲۱-محدودیتهای-اصولی-غیرقابلمذاکره-ایمنی-و-حقیقت).
 - همراه با کف حقوق فصل ششم به‌طور کلی خوانده شود.
 
 </details>
@@ -167,7 +167,7 @@ flowchart TB
 - [شکوفایی (هدف قانون اساسی)](core_05_apex_flourishing_aim.md#flourishing-constitutional) · [O](core_05_apex_flourishing_aim.md#flourishing-constitutional) · [M](core_05_apex_flourishing_aim.md#flourishing-constitutional-m) · [A](core_05_apex_flourishing_aim.md#flourishing-constitutional-a) · [C](core_05_apex_flourishing_aim.md#flourishing-constitutional-c)
 - [بهزیستی](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 - [ایمنی (محدودیت قانون اساسی)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [حقیقت (محدودیت قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [اعتمادپذیری](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
 - [عاملیت معنادار](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
@@ -182,15 +182,15 @@ flowchart TB
 | شرط | اصل | پرسشی که پاسخ می‌دهد |
 |---|---|---|
 | **ایمنی** | [§4 ایمنی (محدودیت آسیب)](#4-safety-harm-constraint) | آیا موجودات ذی‌شعور از آسیب قابل‌پیشگیری محافظت می‌شوند؟ |
-| **حقیقت** | [§5 حقیقت (محدودیت سلامت معرفتی)](#5-truth-epistemic-integrity-constraint)، همراه با [§5.1 پژوهش آگاه از علم و پشتیبانی تصمیم‌گیری](#51-science-informed-inquiry-and-decision-support) و [§5.2 دسترس‌پذیری زبان ساده (وظیفه مشارکت و سرپرستی)](#52-plain-language-accessibility-participation-and-stewardship-duty) | آیا موجودات ذی‌شعور می‌توانند به گفته‌ها اعتماد کنند و آن‌ها را بفهمند؟ |
+| **حقیقت** | [§5 حقیقت (محدودیت سلامت معرفتی)](#5-truth-epistemic-integrity-constraint)، همراه با [§5.1 پژوهش آگاه از علم و پشتیبانی تصمیم‌گیری](#51-science-informed-inquiry-and-decision-support) و [§5.2 دسترس‌پذیری زبان ساده (وظیفه مشارکت و سرپرستی)](#52-دسترسپذیری-با-زبان-ساده-وظیفه-مشارکت-و-سرپرستی) | آیا موجودات ذی‌شعور می‌توانند به گفته‌ها اعتماد کنند و آن‌ها را بفهمند؟ |
 | **اعتمادپذیری** | [§6 اعتماد و اعتمادپذیری (سلامت هماهنگی)](#6-trust-and-trustworthiness-coordination-integrity) | آیا سامانه‌ها اعتماد را به دست می‌آورند و هنگام ناکامی آن را ترمیم می‌کنند؟ |
 | **عاملیت معنادار** | [§7 آزادی (عاملیت محدود)](#7-freedom-bounded-agency) | آیا موجودات ذی‌شعور آزادی واقعی و محدودی برای انتخاب، مخالفت، سازمان‌یابی و ترک‌کردن دارند؟ |
 
 **اصول شکوفایی چگونه با هم کار می‌کنند:**
-- **ایمنی و حقیقت محدودیت‌های غیرقابل‌مذاکره‌اند:** این دو در [§2.1 محدودیت‌های اصولی غیرقابل‌مذاکره: ایمنی و حقیقت](#21-non-negotiable-principle-constraints-safety-and-truth) کنار هم آمده‌اند و نمی‌توان آن‌ها را برای دستیابی به اصول دیگر واگذار کرد.
+- **ایمنی و حقیقت محدودیت‌های غیرقابل‌مذاکره‌اند:** این دو در [§2.1 محدودیت‌های اصولی غیرقابل‌مذاکره: ایمنی و حقیقت](#۲۱-محدودیتهای-اصولی-غیرقابلمذاکره-ایمنی-و-حقیقت) کنار هم آمده‌اند و نمی‌توان آن‌ها را برای دستیابی به اصول دیگر واگذار کرد.
 - **اعتماد و آزادی محدودند، نه مطلق:** اعتماد کسب‌شدنی و اصلاح‌پذیر است ([§6.1 اصلاح و جبران](#61-correction-and-remedy))؛ آزادی محدودیت‌های منضبط دارد ([§7.1 انضباط محدودیت](#71-limitation-discipline)).
-- **هیچ‌یک جداگانه اعمال نمی‌شود:** اصول با هم خوانده می‌شوند و هنگام تعارض، بر اساس [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) سنجیده می‌شوند.
-- **شکوفایی هدفی همراه دارد:** هدف تداوم می‌پرسد چه چیزی این نتیجه را پایدار نگه می‌دارد؛ این هدف در [مقدمه هدف تداوم](#8-continuity-aim-introduction) معرفی می‌شود.
+- **هیچ‌یک جداگانه اعمال نمی‌شود:** اصول با هم خوانده می‌شوند و هنگام تعارض، بر اساس [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی) سنجیده می‌شوند.
+- **شکوفایی هدفی همراه دارد:** هدف تداوم می‌پرسد چه چیزی این نتیجه را پایدار نگه می‌دارد؛ این هدف در [مقدمه هدف تداوم](#۸-هدف-تداوم-مقدمه) معرفی می‌شود.
 
 **نمودار: شکوفایی و اصول آن**
 
@@ -206,7 +206,7 @@ flowchart TB
         T["§5 حقیقت<br/><br/>• سلامت معرفتی<br/>• §5.1 پژوهش آگاه از علم<br/>و پشتیبانی تصمیم‌گیری<br/>• §5.2 دسترس‌پذیری زبان ساده"]
     end
     R["§6 اعتماد<br/><br/>• سلامت هماهنگی<br/>• §6.1 اصلاح و جبران"]
-    G["§7 آزادی<br/><br/>• عاملیت محدود<br/>• §7.1 انضباط محدودیت<br/>• §§7.2 تا 7.4 گردهمایی،<br/>مخالفت و خروج"]
+    G["§7 آزادی<br/><br/>• عاملیت محدود<br/>• §7.1 انضباط محدودیت<br/>• §§7.2 تا 7.5 گردهمایی،<br/>مخالفت، خروج و<br/>محدودیت‌های بیان"]
     F -->|"به‌صورت ... بیان می‌شود"| W
     W -->|"از سوی ... پایدار می‌شود"| S
     W --> T
@@ -232,8 +232,8 @@ flowchart TB
 - همراه با [چهارگانه قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — رکن **مشارکت** (درک و به‌چالش‌کشیدن ارزیابی‌های ایمنی و حقیقت)؛ رکن **نظارت** (کشف خطر آسیب و فرسایش معرفتی)؛ رکن **پاسخ‌گویی** (پاسخ‌گویی در قبال آسیب، فریب و اتکای گمراه‌کننده)؛ و سنجش [اهمیت مادی](core_00_preamble.md#material-stake).
 - همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **شکوفایی** (**ایمنی** و **حقیقت** در [دیباچه §1](core_00_preamble.md#two-constitutional-aims) اجزای تصریح‌شده‌اند)؛ هدف **تداوم** (پیشگیری از آسیب بلندمدت و سرپرستی صادقانه سامانه‌های پایدار).
 - پیشین: اصول: [3. هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پسین: [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) و [§7 آزادی](#7-freedom-bounded-agency).
-- کاربرد در: [§4 ایمنی](#4-safety-harm-constraint)؛ [§5 حقیقت](#5-truth-epistemic-integrity-constraint)؛ [§5.1 پژوهش آگاه از علم و پشتیبانی تصمیم‌گیری](#51-science-informed-inquiry-and-decision-support)؛ [§5.2 دسترس‌پذیری زبان ساده](#52-plain-language-accessibility-participation-and-stewardship-duty).
+- پسین: [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی) و [§7 آزادی](#7-freedom-bounded-agency).
+- کاربرد در: [§4 ایمنی](#4-safety-harm-constraint)؛ [§5 حقیقت](#5-truth-epistemic-integrity-constraint)؛ [§5.1 پژوهش آگاه از علم و پشتیبانی تصمیم‌گیری](#51-science-informed-inquiry-and-decision-support)؛ [§5.2 دسترس‌پذیری زبان ساده](#52-دسترسپذیری-با-زبان-ساده-وظیفه-مشارکت-و-سرپرستی).
 
 </details>
 
@@ -263,10 +263,10 @@ flowchart TB
 - همراه با [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — بُعد **مشارکت** هنگامی که شرایط بهزیستی به‌طور مادی بر معنادار بودن صدا، دسترسی و امکان اعتراض اثر می‌گذارد؛ بُعد **پاسخ‌گویی** هنگامی که ادعاهای بهزیستی بر تخصیص بارها اثر می‌گذارد؛ در صورت ارتباط، مقیاس‌بندی بر پایهٔ [مصلحت مادی](core_00_preamble.md#material-stake).
 - همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — این فصل هدف **شکوفایی** را از [§3](#3-foundational-objective-wellbeing-flourishing-aim) تا [§6](#6-trust-and-trustworthiness-coordination-integrity) و نیز [§7 آزادی](#7-freedom-bounded-agency) بسط می‌دهد.
 - پیش‌نیاز: اصول: [دیباچه §1 الگو](core_00_preamble.md#the-model)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — بسط هدف **شکوفایی**.
-- پیامدها: [4 ایمنی](#4-safety-harm-constraint)، [5 حقیقت](#5-truth-epistemic-integrity-constraint)، [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، و [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
-- زیربخش‌ها: [§3.1 انصاف](#31-fairness)؛ [§3.2 به‌رسمیت‌شناختن، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration)؛ [§3.3 فرایند ضدتضعیف](#33-anti-degrading-process).
+- پیامدها: [4 ایمنی](#4-safety-harm-constraint)، [5 حقیقت](#5-truth-epistemic-integrity-constraint)، [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، و [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی).
+- زیربخش‌ها: [§3.1 انصاف](#31-fairness)؛ [§3.2 به‌رسمیت‌شناختن، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration)؛ [§3.3 فرایند ضدتضعیف](#33-فرایند-ضدتحقیر).
 - همراه با کف حقوق فصل ششم به‌طور کلی خوانده شود.
-  - به‌ویژه [مادهٔ VI: حقوق اساسی برابر](core_06_rights_part_b.md#article-vi-equal-basic-rights)، [مادهٔ X: خودتعیین‌گری، عاملیت و مشارکت](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، [مادهٔ XIII-B: حق جبران و راهکار](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)، و [مادهٔ XIX-B: امکان اعتراض و حدود محدودیت متناسب](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+  - به‌ویژه [مادهٔ VI: حقوق اساسی برابر](core_06_rights_part_b.md#ماده-ششم-حقوق-بنیادین-برابر)، [مادهٔ X: خودتعیین‌گری، عاملیت و مشارکت](core_06_rights_part_b.md#ماده-دهم-خودتعیینگری-عاملیت-و-مشارکت)، [مادهٔ XIII-B: حق جبران و راهکار](core_06_rights_part_c.md#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت)، و [مادهٔ XIX-B: امکان اعتراض و حدود محدودیت متناسب](core_06_rights_part_d.md#ماده-xix-b-اعتراضپذیری-و-حدود-محدودیت-متناسب).
   - این را هنگامی به کار ببرید که دستاوردهای ادعایی در بهزیستی برای توجیه محدودیت بر عاملیت، کرامت یا امکان اعتراض استفاده شوند.
   - هنگامی که دسترسی، فرایند، هم‌ترازی توزیعی، اتکا یا یکپارچگی هماهنگی اهمیت مادی دارد، به‌ویژه [کرامت و منزلت اخلاقی برابر](core_05_band_participation.md#dignity-and-equal-moral-standing)، [انصاف ماهوی](core_05_band_participation.md#substantive-fairness) و [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity).
 
@@ -280,7 +280,7 @@ flowchart TB
 - [کرامت و منزلت اخلاقی برابر](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
 - [انصاف ماهوی](core_05_band_participation.md#substantive-fairness) · [O](core_05_band_participation.md#substantive-fairness) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [مادیت](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [واگرایی شاخص جانشین](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [واگرایی شاخص جانشین](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [O](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
 
@@ -290,7 +290,7 @@ flowchart TB
 
 هدف نهایی همهٔ نظام‌های تابع این قانون اساسی، حفظ و ارتقای [بهزیستی](core_05_band_continuity.md#wellbeing) موجودات برخوردار از احساس است — هدف [**شکوفایی**](#flourishing) در چارچوب [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
 
-[دیباچه §1 الگو](core_00_preamble.md#flourishing) شکوفایی را بهزیستی موجودات برخوردار از احساس تعریف می‌کند که از طریق حقیقت، ایمنی، قابل‌اعتمادبودن و عاملیت معنادار پایدار می‌شود. این بخش نتیجه را بیان می‌کند. بخش‌های بعدی چهار شرط پشتیبان آن را بسط می‌دهند: [§4 ایمنی](#4-safety-harm-constraint)، [§5 حقیقت](#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](#6-trust-and-trustworthiness-coordination-integrity) و [§7 آزادی](#7-freedom-bounded-agency). این پنج اصل در کنار هم بسط هدف شکوفایی در فصل یک را شکل می‌دهند. هدف [**پیوستگی**](#continuity) در [§9 ظرفیت نظام‌های مشترک](#9-shared-system-capacity)، [§10 تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design)، [§11 ساختار بازار](#11-market-structure) و [§12 الزام ارزیابی نظامی](#12-systemic-evaluation-requirement) بسط می‌یابد.
+[دیباچه §1 الگو](core_00_preamble.md#flourishing) شکوفایی را بهزیستی موجودات برخوردار از احساس تعریف می‌کند که از طریق حقیقت، ایمنی، قابل‌اعتمادبودن و عاملیت معنادار پایدار می‌شود. این بخش نتیجه را بیان می‌کند. بخش‌های بعدی چهار شرط پشتیبان آن را بسط می‌دهند: [§4 ایمنی](#4-safety-harm-constraint)، [§5 حقیقت](#5-truth-epistemic-integrity-constraint)، [§6 اعتماد](#6-trust-and-trustworthiness-coordination-integrity) و [§7 آزادی](#7-freedom-bounded-agency). این پنج اصل در کنار هم بسط هدف شکوفایی در فصل یک را شکل می‌دهند. هدف [**پیوستگی**](#continuity) در [§9 ظرفیت نظام‌های مشترک](#۹-ظرفیت-سامانه-مشترک)، [§10 تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design)، [§11 ساختار بازار](#11-ساختار-بازار) و [§12 الزام ارزیابی نظامی](#12-الزام-ارزیابی-نظاممند) بسط می‌یابد.
 
 بهزیستی برای [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) ذیل [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) بنیادین است. نظام‌های مشترک نمی‌توانند مشارکت را محقق‌شده بدانند، اگر شرایط زیربنایی بهزیستی — از جمله [عاملیت معنادار](core_05_band_participation.md#meaningful-agency)، دسترسی منصفانه و کرامت — به‌طور مادی تضعیف شده باشند.
 
@@ -306,13 +306,13 @@ flowchart TB
 
 - همراه با [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — بُعد **مشارکت** (دسترسی، صدا و امکان اعتراض؛ الزامی عمومی، نه صرفاً [مشارکت سامانهٔ ذی‌نفعان](core_05_band_participation.md#stakeholder-status-and-weight))؛ بُعد **پاسخ‌گویی** هنگام تخصیص منافع و بارها.
 - پیش‌نیاز: اصول: [§3 هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) — از جمله بنیادین بودن بهزیستی برای [مشارکت](core_05_apex_participation_leg.md#participation-constitutional).
-- پیامدها: [§3.2 به‌رسمیت‌شناختن، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration)؛ [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) و [سابقهٔ تعارض قانون اساسی](core_05_band_integrative.md#constitutional-collision-record)، جایی که انتخاب‌های تقدم و تخصیص باید منسجم و قابل‌بازبینی بمانند.
-- زیربخش‌ها (ترتیب خواندن): [§3.1.1](#311-access-and-opportunity) · [§3.1.2](#312-benefits-and-burdens) · [§3.1.3](#313-fair-treatment) · [§3.1.4](#314-unfair-treatment).
+- پیامدها: [§3.2 به‌رسمیت‌شناختن، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration)؛ [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی) و [سابقهٔ تعارض قانون اساسی](core_05_band_integrative.md#constitutional-collision-record)، جایی که انتخاب‌های تقدم و تخصیص باید منسجم و قابل‌بازبینی بمانند.
+- زیربخش‌ها (ترتیب خواندن): [§3.1.1](#311-دسترسی-و-فرصت) · [§3.1.2](#312-منافع-و-بارها) · [§3.1.3](#313-رفتار-منصفانه) · [§3.1.4](#314-رفتار-ناعادلانه).
 - پیامدها: سطح حقوق مربوط به منزلت برابر، رفتار غیرخودسرانه، امکان اعتراض معنادار و حدود متناسب محدودیت را شکل می‌دهد.
-  - به‌ویژه [مادهٔ VI: حقوق اساسی برابر](core_06_rights_part_b.md#article-vi-equal-basic-rights)، [مادهٔ VI-C: منع تبعیض](core_06_rights_part_b.md#article-vi-c-nondiscrimination)، [مادهٔ X: خودتعیین‌گری، عاملیت و مشارکت](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، [مادهٔ XIII-B: حق جبران و راهکار](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) و [مادهٔ XIX-B: امکان اعتراض و حدود محدودیت متناسب](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+  - به‌ویژه [مادهٔ VI: حقوق اساسی برابر](core_06_rights_part_b.md#ماده-ششم-حقوق-بنیادین-برابر)، [مادهٔ VI-C: منع تبعیض](core_06_rights_part_b.md#ماده-vi-c-منع-تبعیض)، [مادهٔ X: خودتعیین‌گری، عاملیت و مشارکت](core_06_rights_part_b.md#ماده-دهم-خودتعیینگری-عاملیت-و-مشارکت)، [مادهٔ XIII-B: حق جبران و راهکار](core_06_rights_part_c.md#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت) و [مادهٔ XIX-B: امکان اعتراض و حدود محدودیت متناسب](core_06_rights_part_d.md#ماده-xix-b-اعتراضپذیری-و-حدود-محدودیت-متناسب).
   - اگر عنوان‌گذاری خلاف قانون اساسی به مجازات یا اثری پایدار بینجامد، همراه با [فصل دوازدهم، بخش 4 — تضمین‌های دادرسی منصفانه، جبران و پیشگیری](core_12_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) خوانده شود.
   - تعهدات منع تبعیض از طریق فصل پنج، [§2 — ویژگی‌های حمایت‌شده، استفاده از شاخص جانشین، فیلترگذاری سیگنال‌های صمیمی و وضعیت ذیل **مادهٔ VII-E** (*خدمات جنسی تجاری با رضایت بزرگسالان و بهره‌کشی جنسی*)](core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination) شرح داده می‌شود؛ از جمله [دورزدن فیلترگذاری سیگنال‌های صمیمی حمایت‌شده و وضعیت ذیل **مادهٔ VII-E** (*خدمات جنسی تجاری با رضایت بزرگسالان و بهره‌کشی جنسی*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention)، هنگامی که قواعد رفتار منصفانهٔ §2.1.3 به فیلتر سیگنال‌های صمیمی یا **مادهٔ VII-E** (*خدمات جنسی تجاری با رضایت بزرگسالان و بهره‌کشی جنسی*) مربوط می‌شوند.
-- همراه با [انصاف ماهوی](core_05_band_participation.md#substantive-fairness) و تعهدات مرتبط کف حقوق فصل ششم خوانده شود، هرگاه منافع، بارها، پاداش‌ها، هزینه‌ها، وظایف، خطرها، مشارکت، نیاز یا مواجهه اهمیت مادی داشته باشند؛ [دسترس‌پذیری](core_05_band_participation.md#accessibility) هنگامی که مسیرهای دسترسی §2.1.1 اهمیت مادی دارند؛ [واگرایی شاخص جانشین](core_05_band_oversight.md#proxy-divergence) هنگامی که سنجه‌های تجمیعی یا آثار جدول امتیاز اهمیت مادی دارند.
+- همراه با [انصاف ماهوی](core_05_band_participation.md#substantive-fairness) و تعهدات مرتبط کف حقوق فصل ششم خوانده شود، هرگاه منافع، بارها، پاداش‌ها، هزینه‌ها، وظایف، خطرها، مشارکت، نیاز یا مواجهه اهمیت مادی داشته باشند؛ [دسترس‌پذیری](core_05_band_participation.md#accessibility) هنگامی که مسیرهای دسترسی §2.1.1 اهمیت مادی دارند؛ [واگرایی شاخص جانشین](core_05_band_oversight.md#واگرایی-شاخص-جانشین) هنگامی که سنجه‌های تجمیعی یا آثار جدول امتیاز اهمیت مادی دارند.
 
 </details>
 
@@ -327,7 +327,7 @@ flowchart TB
 - [ویژگی‌های حمایت‌شده](core_05_band_participation.md#protected-characteristics) · [O](core_05_band_participation.md#protected-characteristics) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
 - [استفاده از ویژگی‌های حمایت‌شده به‌عنوان شاخص جانشین و اثر نامتناسب](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
 - [دورزدن فیلترگذاری سیگنال‌های صمیمی حمایت‌شده و وضعیت ذیل **مادهٔ VII-E** (*خدمات جنسی تجاری با رضایت بزرگسالان و بهره‌کشی جنسی*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) · [O](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) · [M](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-a) · [A](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-a) · [C](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-c)
-- [واگرایی شاخص جانشین](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [واگرایی شاخص جانشین](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [O](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
 
@@ -391,11 +391,11 @@ flowchart TB
 
 - همراه با این بخش بخوانید: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — رکن **مشارکت**، هنگامی که مسیرهای نام‌گذاری‌شدهٔ به‌رسمیت‌شناسی، ستایش یا آرمان‌خواهی به‌طور مادی بر صدا، جایگاه یا دسترسی به نقش‌های پیامدساز اثر می‌گذارند؛ رکن **پاسخ‌گویی** (ممنوعیت پاداش برای خیانت، پنهان‌کاری و گریز از پاسخ‌گویی)؛ رکن **نظارت** (ستایشی که قابل‌ردیابی و گمراه‌کننده نباشد).
 - پیشینی: اصول: [§3 هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) — از جمله اینکه بهزیستی بنیان [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) است؛ [§3.1 انصاف](#31-fairness).
-- پسینی: [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)؛ [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)؛ [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [§7 آزادی](#7-freedom-bounded-agency).
+- پسینی: [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)؛ [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)؛ [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)؛ [§7 آزادی](#7-freedom-bounded-agency).
 - همراه با این بخش بخوانید: [فصل دهم §§4.3–4.4 — فهرست توصیفگرهای نرمال‌شده](core_10_standing_assessment.md#43-route-descriptor-measurement-roles)، هرجا به‌رسمیت‌شناسی **همسو با حوزه** یا روایت‌های توصیفی تطبیقی **محور مشارکت / محور نقض** اهمیت مادی دارند.
 - همراه با این بخش بخوانید: [فصل دهم §4.3 — توصیفگرهای سمت مشارکت](core_10_standing_assessment.md#43-route-descriptor-measurement-roles)، هرجا ماهیت مشارکت و روایت‌های به‌رسمیت‌شناسی اهمیت مادی دارند؛ [فصل دهم §3](core_11_standing_integration.md#3-descriptor-integration-and-attachment-normalization) دربارهٔ ادغام آن‌ها در پرسش 3.
-- همراه با این بخش بخوانید: [مادهٔ X: خودتعیینی، عاملیت و مشارکت](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، هرجا ترجیحات مربوط به شکل به‌رسمیت‌شناسی، میزان دیده‌شدن یا انصراف اهمیت مادی دارند.
-- زیربخش‌ها (ترتیب مطالعه): [§3.2.1](#321-recognition-and-reinforcement) · [§3.2.2](#322-celebration-of-success) · [§3.2.3](#323-aspiration) · [§3.2.4](#324-preference-aligned-recognition) · [§3.2.5](#325-aligned-recognition-pathways) · [§3.2.6](#326-anti-reward-for-anti-constitutional-conduct) · [§3.2.7](#327-implementation-layer).
+- همراه با این بخش بخوانید: [مادهٔ X: خودتعیینی، عاملیت و مشارکت](core_06_rights_part_b.md#ماده-دهم-خودتعیینگری-عاملیت-و-مشارکت)، هرجا ترجیحات مربوط به شکل به‌رسمیت‌شناسی، میزان دیده‌شدن یا انصراف اهمیت مادی دارند.
+- زیربخش‌ها (ترتیب مطالعه): [§3.2.1](#321-بهرسمیتشناسی-و-تقویت) · [§3.2.2](#322-جشن-گرفتن-موفقیت) · [§3.2.3](#323-آرمانخواهی) · [§3.2.4](#324-بهرسمیتشناسی-همسو-با-ترجیح) · [§3.2.5](#325-مسیرهای-بهرسمیتشناسی-همسو) · [§3.2.6](#326-منع-پاداش-برای-رفتار-مغایر-قانون-اساسی) · [§3.2.7](#327-لایه-اجرا).
 
 </details>
 
@@ -407,7 +407,7 @@ flowchart TB
 - [انصاف ماهوی](core_05_band_participation.md#substantive-fairness) · [O](core_05_band_participation.md#substantive-fairness) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
 - [امکان اعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [عاملیت معنادار](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [همسویی مشوق‌ها](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [همسویی مشوق‌ها](core_05_band_integrative.md#همراستایی-انگیزه) · [O](core_05_band_integrative.md#همراستایی-انگیزه) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 
 </details>
 
@@ -415,7 +415,7 @@ flowchart TB
 
 *به زبان ساده: بهزیستی فقط به آنچه ممنوع است و آنچه منصفانه است محدود نمی‌شود — سامانه‌های مشترک باید صادقانه رفتارهایی را که می‌خواهند تکرار شوند تشویق و پاداش دهند، در چارچوب حقیقت و حقوق، به‌گونه‌ای که از مشارکت واقعی پشتیبانی کند و جایگزین آن نشود. جشن گرفتن موفقیت یعنی اعتبار دادن به مشارکت، جبران و تکمیل واقعی، نه تبلیغات اغراق‌آمیز یا دستکاری سنجه‌ها. همچنین یعنی خودداری از پاداش دادن به خیانت به قانون اساسی، پنهان‌کاری، تلافی‌جویی یا گریز از پاسخ‌گویی — حتی اگر این رفتارها برای نهاد مزیت ایجاد کرده باشند.*
 
-**سه بُعد.** بهزیستی به آنچه سامانه‌ها ممنوع می‌کنند و اینکه هزینه‌ها را تا چه حد منصفانه توزیع می‌کنند وابسته است — و نیز به آنچه آشکارا ارزش می‌نهند، تقویت می‌کنند و به جانداران حساس برای پیگیری آن یاری می‌رسانند. این بخش وظایف مربوط به به‌رسمیت‌شناسی، تقویت و آرمان‌خواهی را بیان می‌کند. به‌رسمیت‌شناسی و ستایشی که به‌طور مادی بر صدا، جایگاه یا دسترسی اثر می‌گذارد باید با [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) ذیل [§3 هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) و [§3.1 انصاف](#31-fairness) سازگار بماند. این بخش همراه با [§3.1 انصاف](#31-fairness) اعمال می‌شود و همچنان تابع ایمنی، حقیقت و کف حقوق فصل ششم است. این بخش محل پیوند [دو پرسش بنیادین](core_00_preamble.md#two-fundamental-questions) دیباچه با اصول است: [§3.2.1 به‌رسمیت‌شناسی و تقویت](#321-recognition-and-reinforcement) به پرسش نخست مربوط می‌شود و [§3.2.6 پاداش ندادن به رفتار ضدقانون اساسی](#326-anti-reward-for-anti-constitutional-conduct) به پرسش دوم.
+**سه بُعد.** بهزیستی به آنچه سامانه‌ها ممنوع می‌کنند و اینکه هزینه‌ها را تا چه حد منصفانه توزیع می‌کنند وابسته است — و نیز به آنچه آشکارا ارزش می‌نهند، تقویت می‌کنند و به جانداران حساس برای پیگیری آن یاری می‌رسانند. این بخش وظایف مربوط به به‌رسمیت‌شناسی، تقویت و آرمان‌خواهی را بیان می‌کند. به‌رسمیت‌شناسی و ستایشی که به‌طور مادی بر صدا، جایگاه یا دسترسی اثر می‌گذارد باید با [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) ذیل [§3 هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) و [§3.1 انصاف](#31-fairness) سازگار بماند. این بخش همراه با [§3.1 انصاف](#31-fairness) اعمال می‌شود و همچنان تابع ایمنی، حقیقت و کف حقوق فصل ششم است. این بخش محل پیوند [دو پرسش بنیادین](core_00_preamble.md#two-fundamental-questions) دیباچه با اصول است: [§3.2.1 به‌رسمیت‌شناسی و تقویت](#321-بهرسمیتشناسی-و-تقویت) به پرسش نخست مربوط می‌شود و [§3.2.6 پاداش ندادن به رفتار ضدقانون اساسی](#326-منع-پاداش-برای-رفتار-مغایر-قانون-اساسی) به پرسش دوم.
 
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 به‌رسمیت‌شناسی و تقویت
@@ -431,7 +431,7 @@ flowchart TB
 
 جشن نباید:
 - جای پیشرفت واقعی به‌سوی اهداف بنیادین قانون اساسی را بگیرد، هرگاه بهینه‌سازی شاخص‌های جانشین از آن اهداف منحرف شده باشد ([§3 هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim))
-- به **تصرف** ستایش یا اعتبار تبدیل شود ([§19 همسویی مشوق‌ها و تصرف سامانه](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture))
+- به **تصرف** ستایش یا اعتبار تبدیل شود ([§19 همسویی مشوق‌ها و تصرف سامانه](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه))
 - در مواردی که ایمنی، حقیقت یا حمایت از حقوق مطرح است، گریز از پاسخ‌گویی را توجیه کند
 
 <a id="323-aspiration"></a>
@@ -457,7 +457,7 @@ flowchart TB
 <a id="325-aligned-recognition-pathways"></a>
 ##### 3.2.5 مسیرهای به‌رسمیت‌شناسی همسو
 
-مسیرهای نام‌گذاری‌شدهٔ به‌رسمیت‌شناسی، ستایش، جایزه، گواهی، جایگاه، اثر بر شهرت یا مشوق‌های مشابهی که **جایگاه**، **منابع** یا **دسترسی مادی** را تخصیص می‌دهند، باید با حقیقت، ایمنی، رویهٔ قابل‌اعتراض در مواردی که **فصل ششم** مقرر می‌کند، [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) و [همسویی مشوق‌ها](core_05_band_integrative.md#incentive-alignment) سازگار بمانند.
+مسیرهای نام‌گذاری‌شدهٔ به‌رسمیت‌شناسی، ستایش، جایزه، گواهی، جایگاه، اثر بر شهرت یا مشوق‌های مشابهی که **جایگاه**، **منابع** یا **دسترسی مادی** را تخصیص می‌دهند، باید با حقیقت، ایمنی، رویهٔ قابل‌اعتراض در مواردی که **فصل ششم** مقرر می‌کند، [مشارکت](core_05_apex_participation_leg.md#participation-constitutional) و [همسویی مشوق‌ها](core_05_band_integrative.md#همراستایی-انگیزه) سازگار بمانند.
 
 آن‌ها **نباید** به‌طور نظام‌مند به آسیب، فریب، گریز از بررسی، بهره‌کشی یا فرسایش عاملیت معنادار پاداش دهند.
 
@@ -485,7 +485,7 @@ flowchart TB
 
 - پیشینی: [§3 هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) (*مبنای مادر — عملیاتی کردن کرامت و جایگاه اخلاقی برابر به‌عنوان کفِ ضدتحقیر در فرایند*)؛ [§3.1 انصاف](#31-fairness) (*رفتار منصفانه مستلزم آن است که خودِ فرایند به مجازات تبدیل نشود*)؛ [کرامت و جایگاه اخلاقی برابر](core_05_band_participation.md#dignity-and-equal-moral-standing).
 - همراه با این بخش بخوانید: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — رکن **پاسخ‌گویی** (طراحی فرایند باید در برابر جانداران حساسِ متأثر پاسخ‌گو باشد، نه آسایش نهادی)؛ رکن **نظارت** (تحقیر قابل‌شناسایی و قابل‌اعتراض باشد)؛ [بی‌رحمی](core_05_band_accountability.md#cruelty) (*جایگاه این موضوع در فصل پنج برای رنج به‌عنوان هدف و تحمیل بی‌دلیل / تحقیرآمیز*).
-- پسینی: [§13.1.4 کف‌های قانون اساسی، ایمنی و فرایند ضدتحقیر](core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (این اصل را در زنجیرهٔ موازنه به‌عنوان کفی مطلق اعمال می‌کند)؛ [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) و [§17 سرپرستی پیامدمحور](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (*نحوهٔ انجام کار ارکان و نقش سرپرست را مقید می‌کند — زیرمجموعهٔ هیچ‌یک نیست*)؛ [مادهٔ VI: حقوق بنیادین برابر](core_06_rights_part_b.md#article-vi-equal-basic-rights) و [مادهٔ VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*کف کرامت*)؛ [مادهٔ XX-A](core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*کف ضدبی‌رحمی*)؛ [corpus_systems CS-7](corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md) (*تضمین‌های عدالت، جبران و بازتوانی*).
+- پسینی: [§13.1.4 کف‌های قانون اساسی، ایمنی و فرایند ضدتحقیر](core_01_b_interaction_interpretation.md#1314-حداقلهای-بنیادین-قانون-اساسی-ایمنی-و-فرایند-عاری-از-تحقیر) (این اصل را در زنجیرهٔ موازنه به‌عنوان کفی مطلق اعمال می‌کند)؛ [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی) و [§17 سرپرستی پیامدمحور](core_01_c_stewardship_capacity_principles.md#۱۷-سرپرستی-پیامدآفرین-نقش-سرپرست) (*نحوهٔ انجام کار ارکان و نقش سرپرست را مقید می‌کند — زیرمجموعهٔ هیچ‌یک نیست*)؛ [مادهٔ VI: حقوق بنیادین برابر](core_06_rights_part_b.md#ماده-ششم-حقوق-بنیادین-برابر) و [مادهٔ VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*کف کرامت*)؛ [مادهٔ XX-A](core_06_rights_part_d.md#ماده-xx-a-هدف-و-دامنه-عدالت) (*کف ضدبی‌رحمی*)؛ [corpus_systems CS-7](corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md) (*تضمین‌های عدالت، جبران و بازتوانی*).
 
 </details>
 
@@ -504,7 +504,7 @@ flowchart TB
 
 *به زبان ساده: هر شیوه‌ای که برای حکمرانی، اجرا، داوری، محدودسازی یا جبران به کار می‌برید، نباید جانداران حساس را در معرض تحقیر، نمایش عمومی، تلافی‌جویی یا بی‌رحمیِ «چون برای ما راحت‌تر است» قرار دهد. پیامدهای منصفانه، پاسخ‌گویی عمومی و محدودیت‌های قاطع حتی اگر رنج‌آور یا مایهٔ شرمندگی باشند، می‌توانند قانونی بمانند. مرز زمانی رد می‌شود که خودِ فرایند مجازات باشد — طراحی‌شده برای خوار کردن، شرمنده ساختن یا تخلیهٔ خشم، نه برای حفاظت، اصلاح، بازسازی یا پیشگیری. این اصل هرجا اختیار قانون اساسی اعمال می‌شود برقرار است، نه فقط هنگام موازنهٔ حقوق.*
 
-**ماهیت آن:** یک کفِ فراگیر دربارهٔ ویژگیِ اجرا ذیل [§3 بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) — این اصل مانند [§3.1 انصاف](#31-fairness) و [§3.2 به‌رسمیت‌شناسی، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration) کار ماهوی مستقلی نمی‌افزاید، بلکه شیوهٔ انجام کار بهزیستی، کار سرپرستی و هر فرایند قانون اساسی دیگر را محدود می‌کند — از جمله سه رکن [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) و نقش سرپرست که در [§17 سرپرستی پیامدمحور](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) تعریف شده است.
+**ماهیت آن:** یک کفِ فراگیر دربارهٔ ویژگیِ اجرا ذیل [§3 بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim) — این اصل مانند [§3.1 انصاف](#31-fairness) و [§3.2 به‌رسمیت‌شناسی، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration) کار ماهوی مستقلی نمی‌افزاید، بلکه شیوهٔ انجام کار بهزیستی، کار سرپرستی و هر فرایند قانون اساسی دیگر را محدود می‌کند — از جمله سه رکن [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی) و نقش سرپرست که در [§17 سرپرستی پیامدمحور](core_01_c_stewardship_capacity_principles.md#۱۷-سرپرستی-پیامدآفرین-نقش-سرپرست) تعریف شده است.
 
 **اصل فرایند ضدتحقیر.** فرایندها، اقدامات و پیامدهای قانون اساسی باید این اصل را رعایت کنند.
 
@@ -533,7 +533,7 @@ flowchart TB
 - رویه‌های اصلاح؛ و
 - همهٔ فعالیت‌های اداری و عملیاتی تحت اختیار قانون اساسی.
 
-این اصل فقط به زمینهٔ زنجیرهٔ موازنه محدود نیست؛ در آنجا نیز ذیل [§13.1.4 کف‌های قانون اساسی، ایمنی و فرایند ضدتحقیر](core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) به‌عنوان کفی مطلق عمل می‌کند.
+این اصل فقط به زمینهٔ زنجیرهٔ موازنه محدود نیست؛ در آنجا نیز ذیل [§13.1.4 کف‌های قانون اساسی، ایمنی و فرایند ضدتحقیر](core_01_b_interaction_interpretation.md#1314-حداقلهای-بنیادین-قانون-اساسی-ایمنی-و-فرایند-عاری-از-تحقیر) به‌عنوان کفی مطلق عمل می‌کند.
 
 **تشخیص و اعتراض.** ویژگیِ یک فرایند تابع همان الزامات [امکان اعتراض](core_05_band_accountability.md#contestability) و [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional) است که بر پیامدهای ماهوی اعمال می‌شود. طرف‌های متأثر می‌توانند مستقل از اینکه پیامد ماهوی در غیر این صورت قانونی می‌بود یا نه، ویژگیِ فرایند را به چالش بکشند. نتیجهٔ درست که از طریق فرایند تحقیرآمیز حاصل شده باشد همچنان نامنطبق است.
 
@@ -544,9 +544,9 @@ flowchart TB
 - همراه با [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — پایه‌های **نظارت** و **پاسخ‌گویی**؛ تنظیم متناسب با [ذی‌نفعی مادی](core_00_preamble.md#material-stake).
 - همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **Flourishing** (عنصر **ایمنی**)؛ هدف **Continuity** (پیشگیری از آسیب برگشت‌ناپذیر و سرپرستی خطر در افق بلندمدت).
 - پیشینی: اصول: [3. هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پسینی: [5.1 پژوهش مبتنی بر علم و پشتیبانی از تصمیم‌گیری](#51-science-informed-inquiry-and-decision-support)، [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [§7 آزادی](#7-freedom-bounded-agency)، [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، و [13.2.1 پاسداری از سلامت معرفتی](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- پسینی: [5.1 پژوهش مبتنی بر علم و پشتیبانی از تصمیم‌گیری](#51-science-informed-inquiry-and-decision-support)، [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [§7 آزادی](#7-freedom-bounded-agency)، [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [13.2.1 پاسداری از سلامت معرفتی](core_01_b_interaction_interpretation.md#1321-پاسداری-از-یکپارچگی-معرفتی).
 - پسینی: حوزهٔ حقوق را دربارهٔ سامانه‌های قابل اتکا، سلامت فضای اطلاعات، حسابرسی و بازبینی، کنترل‌های چرخهٔ عمر، مرزهای آزمایش، فهم‌پذیری، پاسخ سازگارشونده و مدیریت وضعیت اضطراری شکل می‌دهد.
-  - به‌ویژه [مادهٔ XIII: حق برخورداری از سامانه‌های قابل اتکا و اعتماد](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)، [مادهٔ XV: سلامت فضای اطلاعات](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [مادهٔ XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، [مادهٔ XVII: چرخهٔ عمر سامانه، محیط‌ها و برگشت‌پذیری](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [مادهٔ XVIII: نوآوری، آزمایش و آزادی خلاقانه در محیط‌های محصور](core_06_rights_part_c.md#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom)، [مادهٔ XXII: فهم‌پذیری و سرپرستی پیچیدگی](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)، [مادهٔ XXIII: تحلیل ریشهٔ علت و پاسخ سازگارشونده](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)، [مادهٔ XXIV: تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتصرف](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)، و [مادهٔ XX: عدالت پس از نقضِ راستی‌آزمایی‌شده](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
+  - به‌ویژه [مادهٔ XIII: حق برخورداری از سامانه‌های قابل اتکا و اعتماد](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد)، [مادهٔ XV: سلامت فضای اطلاعات](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [مادهٔ XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل)، [مادهٔ XVII: چرخهٔ عمر سامانه، محیط‌ها و برگشت‌پذیری](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [مادهٔ XVIII: نوآوری، آزمایش و آزادی خلاقانه در محیط‌های محصور](core_06_rights_part_c.md#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom)، [مادهٔ XXII: فهم‌پذیری و سرپرستی پیچیدگی](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)، [مادهٔ XXIII: تحلیل ریشهٔ علت و پاسخ سازگارشونده](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)، [مادهٔ XXIV: تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتصرف](core_06_rights_part_d.md#ماده-xxv-تفسیر-قانون-اساسی-بازبینی-و-تدابیر-حفاظتی-ضدتسخیر)، و [مادهٔ XX: عدالت پس از نقضِ راستی‌آزمایی‌شده](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
   - این اصل همچنین هر زمینهٔ مربوط به کف‌های حقوق فصل ششم را دربرمی‌گیرد که اعمال یا محدودکردنشان به خطر، شواهد، افشا یا سلامت سامانه وابسته است.
 
 </details>
@@ -579,9 +579,9 @@ flowchart TB
 - همراه با [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — پایه‌های **نظارت** و **پاسخ‌گویی**؛ تنظیم متناسب با [ذی‌نفعی مادی](core_00_preamble.md#material-stake).
 - همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **Flourishing** (عنصر **حقیقت**)؛ هدف **Continuity** (سرپرستی صادقانهٔ شرایط معرفتی و نهادیِ پایدار).
 - پیشینی: اصول: [3. هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پسینی: [5.1 پژوهش مبتنی بر علم و پشتیبانی از تصمیم‌گیری](#51-science-informed-inquiry-and-decision-support)، [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، [13.2.1 پاسداری از سلامت معرفتی](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)، [13.2.2 هم‌راستایی اعتماد و حقیقت](core_01_b_interaction_interpretation.md#1322-trust-truth-alignment)، و [14. منعِ برتری مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پسینی: [5.1 پژوهش مبتنی بر علم و پشتیبانی از تصمیم‌گیری](#51-science-informed-inquiry-and-decision-support)، [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، [13.2.1 پاسداری از سلامت معرفتی](core_01_b_interaction_interpretation.md#1321-پاسداری-از-یکپارچگی-معرفتی)، [13.2.2 هم‌راستایی اعتماد و حقیقت](core_01_b_interaction_interpretation.md#1322-همسویی-اعتماد-و-حقیقت)، و [14. منعِ برتری مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - پسینی: زیربنای حوزهٔ حقوق برای شواهد راستین، قابلیت حسابرسی، سلامت علمی، بازبینی گذشته‌نگر و افشای قابل‌اعتراض است.
-  - به‌ویژه [مادهٔ XIII: حق برخورداری از سامانه‌های قابل اتکا و اعتماد](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)، [مادهٔ XV: سلامت فضای اطلاعات](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [مادهٔ XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، [مادهٔ XVIII-E: سلامت انتشار علمی، بازبینی و تکرارپذیری](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity)، [مادهٔ XXIV: تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتصرف](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)، و [مادهٔ XXV-A: بازبینی گذشته‌نگر و افشا](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure).
+  - به‌ویژه [مادهٔ XIII: حق برخورداری از سامانه‌های قابل اتکا و اعتماد](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد)، [مادهٔ XV: سلامت فضای اطلاعات](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [مادهٔ XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل)، [مادهٔ XVIII-E: سلامت انتشار علمی، بازبینی و تکرارپذیری](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity)، [مادهٔ XXIV: تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتصرف](core_06_rights_part_d.md#ماده-xxv-تفسیر-قانون-اساسی-بازبینی-و-تدابیر-حفاظتی-ضدتسخیر)، و [مادهٔ XXV-A: بازبینی گذشته‌نگر و افشا](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure).
   - زمینه‌های مربوط به کف‌های حقوق فصل ششم را نیز شامل می‌شود، هرجا که صداقت، شواهد، افشا یا امکان اعتراض در میان باشد.
 
 </details>
@@ -589,8 +589,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [سلامت معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [سلامت معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [اهمیت مادی](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [وابستگی](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [پیش‌بینی‌پذیری](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
@@ -601,7 +601,7 @@ flowchart TB
 
 *به زبان ساده: سامانه‌ها نباید فریب دهند، واقعیت را تحریف یا سرکوب کنند، یا خروجی خود را برای گمراه‌کردن سامان دهند — تصمیم‌های پُرتأثیر باید بر شواهد صادقانه، روش‌های اعلام‌شده، پذیرش عدم‌قطعیت و آمادگی واقعی برای شنیدن یافته‌های مخالف تکیه کنند.*
 
-حقیقت غیرقابل‌مذاکره است: در شیوهٔ کار و آنچه به دیگران می‌گویید صادق باشید. حقیقت بخش اصلی [**Flourishing**](#flourishing) است. برای [**Continuity**](#continuity) نیز لازم است، زیرا هرآنچه برای دوام ساخته می‌شود به شواهد صادقانه و تصویری دقیق از آنچه واقعاً می‌گذرد وابسته است. تعریف‌های تفصیلی، معیارهای ارزیابی و آزمون‌های انطباق در [**فصل‌های دوم تا پنجم**](core_02_definition_structure.md) آمده‌اند؛ به‌ویژه [سلامت معرفتی](core_05_band_oversight.md#epistemic-integrity)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint)، [اهمیت مادی](core_05_band_oversight.md#materiality)، [وابستگی](core_05_band_continuity.md#dependency)، و [پیش‌بینی‌پذیری](core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable).
+حقیقت غیرقابل‌مذاکره است: در شیوهٔ کار و آنچه به دیگران می‌گویید صادق باشید. حقیقت بخش اصلی [**Flourishing**](#flourishing) است. برای [**Continuity**](#continuity) نیز لازم است، زیرا هرآنچه برای دوام ساخته می‌شود به شواهد صادقانه و تصویری دقیق از آنچه واقعاً می‌گذرد وابسته است. تعریف‌های تفصیلی، معیارهای ارزیابی و آزمون‌های انطباق در [**فصل‌های دوم تا پنجم**](core_02_definition_structure.md) آمده‌اند؛ به‌ویژه [سلامت معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی)، [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی)، [اهمیت مادی](core_05_band_oversight.md#materiality)، [وابستگی](core_05_band_continuity.md#dependency)، و [پیش‌بینی‌پذیری](core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable).
 
 سامانه‌ها نباید توانایی موجوداتِ دارای احساس را برای فهم آنچه رخ می‌دهد، تصمیم‌گیری آگاهانه یا وارسی آنچه به آنان گفته می‌شود تضعیف کنند. این ممنوعیت دروغ‌گویی، تحریف، پنهان‌کردن اطلاعات یا ارائهٔ امور به شیوه‌ای را نیز دربرمی‌گیرد که برای گمراه‌کردن طراحی شده باشد.
 
@@ -612,9 +612,9 @@ flowchart TB
 - همراه با [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — جایی که طرف‌های متأثر باید ادعاهای تجربی را بفهمند و به چالش بکشند، پایهٔ **مشارکت**؛ پایهٔ **نظارت** (موشکافی مستقل، قابلیت حسابرسی)؛ تنظیم متناسب با [ذی‌نفعی مادی](core_00_preamble.md#material-stake).
 - همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **Flourishing** (شواهد صادقانه برای **ایمنی** و **حقیقت**)؛ هدف **Continuity** (سرپرستی تجربیِ اصلاح‌پذیر و بلندمدت).
 - پیشینی: اصول: [§4 ایمنی](#4-safety-harm-constraint) و [§5 حقیقت](#5-truth-epistemic-integrity-constraint)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پسینی: [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [§16 سرپرستی در عمق](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، [13.2 محدودیت‌های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، [فصل نهم §3 ارزیابی گواهی کل سامانه](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- پسینی: [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)، [§16 سرپرستی در عمق](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، [13.2 محدودیت‌های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، [فصل نهم §3 ارزیابی گواهی کل سامانه](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
 - پسینی: حوزهٔ حقوق را دربارهٔ شواهد تجربی قابل اتکا، معیارهای شواهد کارشناسی، سلامت انتشار و تکرار علمی، راستی‌آزمایی مستقل، آزمون چرخهٔ عمر، بازبینی ریشهٔ علت و افشای حساس به ایمنی شکل می‌دهد.
-  - به‌ویژه [مادهٔ XIII: حق برخورداری از سامانه‌های قابل اتکا و اعتماد](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)، [مادهٔ XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، [مادهٔ XVIII-E: سلامت انتشار علمی، بازبینی و تکرارپذیری](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity)، [مادهٔ XXIII: تحلیل ریشهٔ علت و پاسخ سازگارشونده](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)، و [مادهٔ XXV-A: بازبینی گذشته‌نگر و افشا](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure).
+  - به‌ویژه [مادهٔ XIII: حق برخورداری از سامانه‌های قابل اتکا و اعتماد](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد)، [مادهٔ XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل)، [مادهٔ XVIII-E: سلامت انتشار علمی، بازبینی و تکرارپذیری](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity)، [مادهٔ XXIII: تحلیل ریشهٔ علت و پاسخ سازگارشونده](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)، و [مادهٔ XXV-A: بازبینی گذشته‌نگر و افشا](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure).
 - همراه با [فصل سیزدهم §4.2 — حوزه‌های مجامع فنی](core_13_forum.md#42-technical-forum-domains) خوانده شود (*از جمله معیارهای مشترک و منع جابه‌جایی*) هرگاه معیارهای شواهد کارشناسی، پرسش‌های فنیِ گواهی‌شده یا اختلاف‌های سرپرستی شواهد مهم باشند؛ برای مسیرهای تخصصیِ مصوب، [مجمع پیکره CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md) (*مجامع متخصصان فنی و شعب تخصصی*) را ببینید.
 
 </details>
@@ -623,14 +623,14 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [ایمنی (قید قانون اساسی)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [سلامت معرفتی](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [سلامت معرفتی](core_05_band_oversight.md#یکپارچگی-معرفتی) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [خطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
 - [اهمیت مادی](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [وابستگی](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [پیش‌بینی‌پذیری](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [حکمرانی متناسب با طبقه‌بندی](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
-- [قابلیت حسابرسی](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [حکمرانی متناسب با طبقه‌بندی](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [O](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [قابلیت حسابرسی](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
@@ -646,13 +646,13 @@ flowchart TB
 - برخورد صادقانه با **شواهد متعارض** و **بازنگری هنگامی که شواهد نتیجه‌گیری‌ها یا فرض‌های پیشین را رد می‌کنند**
 - **موشکافی مستقل** متناسب با اهمیت موضوع طبق **فصل چهارم** و **فصل پنجم** (*سلامت معرفتی*؛ *حقیقت (قید قانون اساسی)*)
 
-روش علمی، پژوهش نظام‌مند و داوری همتا معیار را تعیین می‌کنند — اما تنها رویه‌های پذیرفتنی نیستند. میزان رسمیت لازم به اهمیت موضوع بستگی دارد: تصمیم‌های پُرتأثیرتر به رویه‌های سخت‌گیرانه‌تر برای شواهد نیاز دارند که [حکمرانی متناسب با طبقه‌بندی](core_05_band_oversight.md#classification-scaled-governance) آن‌ها را تنظیم می‌کند.
+روش علمی، پژوهش نظام‌مند و داوری همتا معیار را تعیین می‌کنند — اما تنها رویه‌های پذیرفتنی نیستند. میزان رسمیت لازم به اهمیت موضوع بستگی دارد: تصمیم‌های پُرتأثیرتر به رویه‌های سخت‌گیرانه‌تر برای شواهد نیاز دارند که [حکمرانی متناسب با طبقه‌بندی](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) آن‌ها را تنظیم می‌کند.
 
 اگر اختلاف دربارهٔ این باشد که چه چیزی شواهد کارشناسیِ خوب به‌شمار می‌رود، کدام روش معتبر است یا چه کسی از شواهد سرپرستی می‌کند، موضوع به مجمع رسیدگی‌کننده به همان پرسش‌ها ارجاع می‌شود. **حوزه‌های مجامع فنی** را در [فصل سیزدهم §4.2 حوزه‌های مجامع فنی](core_13_forum.md#42-technical-forum-domains) ببینید. مجامع فنی معیارها را در میان خانواده‌ها هماهنگ نگه می‌دارند و می‌توانند به پرسش‌های فنیِ گواهی‌شده پاسخ دهند. آن‌ها پرونده‌ای را که به‌دلیل موضوعِ مورد اختلاف در صلاحیت مجمع دیگری است تصاحب نمی‌کنند.
 
 گاهی ایمنی دلیل موجهی برای محدودکردن آن چیزی است که منتشر یا به‌اشتراک گذاشته می‌شود: دسترسی به داده، شیوهٔ کارکرد یک روش، یا موادی که برای تکرار یک مطالعه لازم‌اند. چنین محدودیت‌هایی فقط بر پایهٔ موارد زیر مجازند:
 
-- [13.2 محدودیت‌های افشای معرفتی](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)
+- [13.2 محدودیت‌های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)
 - تعریف‌های فصل پنجم که در بالا آمده‌اند
 - کف‌های حقوق فصل ششم که اعمال می‌شوند
 
@@ -665,10 +665,10 @@ flowchart TB
 
 - همراه با این بخش بخوانید: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — رکن **مشارکت** (تعامل قابل‌فهم)؛ رکن **نظارت** (خوانایی برای ممیزی و راستی‌آزمایی)؛ مقیاس‌بندی بر پایهٔ [منافع مادی](core_00_preamble.md#material-stake).
 - همراه با این بخش بخوانید: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **شکوفایی** (عاملیت معنادار از راه تعامل قابل‌فهم با **حقیقت**)؛ هدف **تداوم** (خوانایی پایدار نهادها در گذر زمان).
-- پیشینی: اصول: [§5 حقیقت](#5-truth-epistemic-integrity-constraint)، [5.1 پژوهش و پشتیبانی تصمیم‌گیری مبتنی بر علم](#51-science-informed-inquiry-and-decision-support)، [§13.3 به حداقل رساندن بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) و [§19.1.3 سرپرستی و کاربرد برای بهره‌بردار](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پسینی: دامنهٔ حقوق: [مادهٔ VI-D: دسترس‌پذیری](core_06_rights_part_b.md#article-vi-d-accessibility)، [مادهٔ IV: حق آموزش با محوریت جانداران حساس](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)، [مادهٔ XVI: ممیزی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، [مادهٔ XXII: فهم‌پذیری و سرپرستی پیچیدگی](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- پیشینی: اصول: [§5 حقیقت](#5-truth-epistemic-integrity-constraint)، [5.1 پژوهش و پشتیبانی تصمیم‌گیری مبتنی بر علم](#51-science-informed-inquiry-and-decision-support)، [§13.3 به حداقل رساندن بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب) و [§19.1.3 سرپرستی و کاربرد برای بهره‌بردار](core_01_c_stewardship_capacity_principles.md#۱۹۱۳-کاربرد-برای-سرپرستان-و-اپراتورها)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
+- پسینی: دامنهٔ حقوق: [مادهٔ VI-D: دسترس‌پذیری](core_06_rights_part_b.md#article-vi-d-accessibility)، [مادهٔ IV: حق آموزش با محوریت جانداران حساس](core_06_rights_part_a.md#اصل-iv-حق-آموزش-حسمندمحور)، [مادهٔ XVI: ممیزی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل)، [مادهٔ XXII: فهم‌پذیری و سرپرستی پیچیدگی](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 - ارجاع متقابل: سازوکارهای تعریف در فصل‌های دوم تا چهارم و ضوابط زبان ساده در [core_02_definition_structure.md](core_02_definition_structure.md) در سطح تعاریف همچنان حاکم‌اند.
-- زیربخش‌ها (ترتیب مطالعه): [§5.2.1](#521-scope) · [§5.2.2](#522-the-duty) · [§5.2.3](#523-definitional-rigor-preserved) · [§5.2.4](#524-complexity-as-defeat-discipline) · [§5.2.5](#525-rights-floor-boundary).
+- زیربخش‌ها (ترتیب مطالعه): [§5.2.1](#521-دامنه) · [§5.2.2](#522-وظیفه) · [§5.2.3](#523-حفظ-دقت-تعریفی) · [§5.2.4](#524-انضباط-علیه-استفاده-از-پیچیدگی-برای-خنثیکردن-حقوق) · [§5.2.5](#525-مرز-کف-حقوق).
 
 </details>
 
@@ -679,8 +679,8 @@ flowchart TB
 - [دسترس‌پذیری](core_05_band_participation.md#accessibility) · [O](core_05_band_participation.md#accessibility) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
 - [امکان اعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [عاملیت معنادار](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -708,14 +708,14 @@ flowchart TB
 <a id="522-the-duty"></a>
 ##### 5.2.2 وظیفه
 
-بر پایهٔ [§13.3 به حداقل رساندن بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، بهره‌برداران و نهادهای حکمرانی باید:
+بر پایهٔ [§13.3 به حداقل رساندن بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب)، بهره‌برداران و نهادهای حکمرانی باید:
 
 - تا جایی که معنای مهم حفظ می‌شود، به‌جای اصطلاحات تخصصی یا عبارت‌بندی بی‌جهت پیچیده، از واژه‌های ساده و مستقیم استفاده کنند.
 - هنگامی که جانداران حساس باید با مطالب فنی فشرده کار کنند، خلاصه یا راهنمایی مقدماتی به زبان ساده ارائه دهند.
-- متن را طوری سازمان دهند که جانداران حساس بتوانند اطلاعات مورد نیازشان را پیدا کنند و بدون تلاش اضافی بخوانند. این امر از منفعت یادگیریِ به‌رسمیت‌شناخته‌شده در [مادهٔ IV](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education) (*حق آموزش با محوریت جانداران حساس*) پشتیبانی می‌کند.
+- متن را طوری سازمان دهند که جانداران حساس بتوانند اطلاعات مورد نیازشان را پیدا کنند و بدون تلاش اضافی بخوانند. این امر از منفعت یادگیریِ به‌رسمیت‌شناخته‌شده در [مادهٔ IV](core_06_rights_part_a.md#اصل-iv-حق-آموزش-حسمندمحور) (*حق آموزش با محوریت جانداران حساس*) پشتیبانی می‌کند.
 - پیچیدگی را متناسب با آنچه پیام باید بگوید نگه دارند.
 
-پیچیدگی‌ای که بدون خدمت به هدفی قانون اساسی، کار را دشوارتر می‌کند، نقصِ [بار اجتناب‌پذیر](core_05_band_continuity.md#avoidable-burden) بر اساس [§13.3 به حداقل رساندن بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) است. این موضوع بر پایهٔ [مادهٔ XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*فهم‌پذیری و سرپرستی پیچیدگی*) نیز محل نگرانی است.
+پیچیدگی‌ای که بدون خدمت به هدفی قانون اساسی، کار را دشوارتر می‌کند، نقصِ [بار اجتناب‌پذیر](core_05_band_continuity.md#avoidable-burden) بر اساس [§13.3 به حداقل رساندن بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب) است. این موضوع بر پایهٔ [مادهٔ XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*فهم‌پذیری و سرپرستی پیچیدگی*) نیز محل نگرانی است.
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 حفظ دقت تعریفی
@@ -730,16 +730,16 @@ flowchart TB
 <a id="524-complexity-as-defeat-discipline"></a>
 ##### 5.2.4 انضباط علیه استفاده از پیچیدگی برای خنثی‌کردن حقوق
 
-سامانه‌ها نباید با زبان پیچیده، رویه‌های گیج‌کننده یا ابهام عمدی، جانداران حساس را از [اعتراض](core_05_band_accountability.md#contestability) به تصمیم‌ها، اعمال [عاملیت معنادار](core_05_band_participation.md#meaningful-agency)، دسترسی به [ممیزی‌ها](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) یا اعمال حقوق [فصل ششم](core_06_rights_part_a.md#chapter-six-foundational-rights) بازدارند.
+سامانه‌ها نباید با زبان پیچیده، رویه‌های گیج‌کننده یا ابهام عمدی، جانداران حساس را از [اعتراض](core_05_band_accountability.md#contestability) به تصمیم‌ها، اعمال [عاملیت معنادار](core_05_band_participation.md#meaningful-agency)، دسترسی به [ممیزی‌ها](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل) یا اعمال حقوق [فصل ششم](core_06_rights_part_a.md#فصل-ششم-حقوق-بنیادین) بازدارند.
 
-عکس این کار نیز ممنوع است. زبان ساده نباید کارکرد واقعی قاعده را نادرست بیان کند، اثر واقعی آن را پنهان سازد یا جای متن لازم‌الاجرا را بگیرد. چنین کاری قید [حقیقت](core_05_band_oversight.md#truth-constitutional-constraint) را نقض می‌کند.
+عکس این کار نیز ممنوع است. زبان ساده نباید کارکرد واقعی قاعده را نادرست بیان کند، اثر واقعی آن را پنهان سازد یا جای متن لازم‌الاجرا را بگیرد. چنین کاری قید [حقیقت](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) را نقض می‌کند.
 
 همین قاعده دربارهٔ ساختار نیز صدق می‌کند، نه فقط زبان. نباید از پیچیدگی — از راه لایه‌بندی فنی، سازمانی، قراردادی یا رویه‌ای — برای ناکام‌گذاشتن ممیزی، اعتراض یا اصلاح استفاده کرد. اجزا، تحویل‌کار میان سازمان‌ها، توافق‌ها یا گام‌های رویه‌ای نباید چنان روی هم انباشته شوند که هیچ‌کس نتواند آن‌ها را ببیند، یا مسئولیت، مشاهده‌پذیری یا راه جبران میان لایه‌ها گم شود.
 
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 مرز کف حقوق
 
-کف‌های حقوق مربوط به دسترس‌پذیری، آموزش و فهم‌پذیری به‌ترتیب در [مادهٔ VI-D](core_06_rights_part_b.md#article-vi-d-accessibility) (*دسترس‌پذیری*)، [مادهٔ IV-A](core_06_rights_part_a.md#article-iv-a-equal-educational-access) (*دسترسی برابر به آموزش*) و [مادهٔ XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*فهم‌پذیری و سرپرستی پیچیدگی*) آمده‌اند. این بخش وظیفهٔ لایهٔ اصولی را بیان می‌کند که پشتوانهٔ آن کف‌هاست.
+کف‌های حقوق مربوط به دسترس‌پذیری، آموزش و فهم‌پذیری به‌ترتیب در [مادهٔ VI-D](core_06_rights_part_b.md#article-vi-d-accessibility) (*دسترس‌پذیری*)، [مادهٔ IV-A](core_06_rights_part_a.md#اصل-iv-a-دسترسی-آموزشی-برابر) (*دسترسی برابر به آموزش*) و [مادهٔ XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*فهم‌پذیری و سرپرستی پیچیدگی*) آمده‌اند. این بخش وظیفهٔ لایهٔ اصولی را بیان می‌کند که پشتوانهٔ آن کف‌هاست.
 
 ### 6. اعتماد و اعتمادپذیری (یکپارچگی هماهنگی)
 <details>
@@ -747,12 +747,12 @@ flowchart TB
 
 - همراه با این بخش بخوانید: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — رکن **مشارکت** (اتکای موجه که عاملیت معنادار و امکان اعتراض را فراهم می‌کند)؛ رکن **نظارت** (تشخیصِ قابل‌اعتراضِ خطر سیستمی و اعتمادپذیری)؛ رکن **پاسخ‌گویی** (پاسخ‌گویی دربارهٔ اتکای گمراه‌کننده)؛ مقیاس‌بندی بر پایهٔ [منافع مادی](core_00_preamble.md#material-stake).
 - همراه با این بخش بخوانید: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **شکوفایی** (**اعتمادپذیری** در [مقدمه §1](core_00_preamble.md#flourishing) جزئی نام‌برده است)؛ هدف **تداوم** (یکپارچگی پایدار هماهنگی و ثبات سامانه در گذر زمان).
-- پیشینی: اصول: [§2.1 قیود اصولیِ غیرقابل‌مذاکره: ایمنی و حقیقت](#21-non-negotiable-principle-constraints-safety-and-truth)؛ [§3.2 به‌رسمیت‌شناسی، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
-- پسینی: [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، [13.2.1 حفظ یکپارچگی معرفتی](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)، [13.2.2 هم‌راستایی اعتماد و حقیقت](core_01_b_interaction_interpretation.md#1322-trust-truth-alignment) و [14. منع تقدم مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پیشینی: اصول: [§2.1 قیود اصولیِ غیرقابل‌مذاکره: ایمنی و حقیقت](#۲۱-محدودیتهای-اصولی-غیرقابلمذاکره-ایمنی-و-حقیقت)؛ [§3.2 به‌رسمیت‌شناسی، تقویت و آرمان‌خواهی](#32-recognition-reinforcement-and-aspiration)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims).
+- پسینی: [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، [13.2.1 حفظ یکپارچگی معرفتی](core_01_b_interaction_interpretation.md#1321-پاسداری-از-یکپارچگی-معرفتی)، [13.2.2 هم‌راستایی اعتماد و حقیقت](core_01_b_interaction_interpretation.md#1322-همسویی-اعتماد-و-حقیقت) و [14. منع تقدم مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - زیربخش‌ها: [§6.1 اصلاح و جبران](#61-correction-and-remedy).
 - پسینی: [§10 تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design) — گسترش بُعد تداومِ بازیابی و خودترمیم‌گری که اعتماد بر آن تکیه دارد.
 - پسینی: دامنهٔ حقوق مربوط به عاملیت، اتکای قابل‌اعتماد، شفافیت، جایگاه و بررسی ضدتسلط را شکل می‌دهد.
-  - به‌ویژه [مادهٔ X: خودتعیینی، عاملیت و مشارکت](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، [مادهٔ XIII: حق بر سامانه‌های قابل‌اعتماد و اعتمادپذیر](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)، [مادهٔ XV: یکپارچگی فضای اطلاعاتی](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [مادهٔ XVI: ممیزی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، [مادهٔ XIX: جایگاه و وضعیت مشارکت](core_06_rights_part_d.md#article-xix-standing-and-participation-status) و [مادهٔ XXIV: تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتسلط](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - به‌ویژه [مادهٔ X: خودتعیینی، عاملیت و مشارکت](core_06_rights_part_b.md#ماده-دهم-خودتعیینگری-عاملیت-و-مشارکت)، [مادهٔ XIII: حق بر سامانه‌های قابل‌اعتماد و اعتمادپذیر](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد)، [مادهٔ XV: یکپارچگی فضای اطلاعاتی](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، [مادهٔ XVI: ممیزی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل)، [مادهٔ XIX: جایگاه و وضعیت مشارکت](core_06_rights_part_d.md#ماده-xix-جایگاه-و-وضعیت-مشارکت) و [مادهٔ XXIV: تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتسلط](core_06_rights_part_d.md#ماده-xxv-تفسیر-قانون-اساسی-بازبینی-و-تدابیر-حفاظتی-ضدتسخیر).
   - این امر هر زمینه‌ای در فصل ششم را نیز در بر می‌گیرد که در آن اتکا، مشروعیت یا امکان اعتراض محل نزاع است.
 
 </details>
@@ -762,7 +762,7 @@ flowchart TB
 
 - [اعتماد](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
 - [اعتمادپذیری](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
-- [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [حقیقت (قید قانون اساسی)](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [ایمنی (قید قانون اساسی)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
 - [اهمیت مادی](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [فرسایش اعتماد و اتکای گمراه‌کننده](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-o) · [M](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
@@ -776,7 +776,7 @@ flowchart TB
 جانداران حساس به سامانه‌هایی نیاز دارند که واقعاً بتوانند به آن‌ها تکیه کنند. [**اعتماد**](core_05_band_continuity.md#trust) اصل قانون اساسی‌ای است که اتکا را مشروع می‌سازد: سامانه‌ها باید با رفتار صادقانه و قابلیت اتکای اثبات‌شده در گذر زمان اعتماد را به دست آورند، نه اینکه با فریب یا پنهان‌کاری آن را القا کنند. [**اعتمادپذیری**](core_05_band_continuity.md#trustworthiness) سابقه‌ای است که آن اعتماد را کسب می‌کند. اعتمادپذیری جزء نام‌بردهٔ [**شکوفایی**](#flourishing) است و اعتمادی که از آن حاصل می‌شود برای [**تداوم**](#continuity) ضروری است — هماهنگی پایدار به سامانه‌هایی نیاز دارد که جانداران حساس بتوانند روی آن‌ها حساب کنند.
 
 اعتماد، قیود اصولی را به زندگی روزمرهٔ مشترک پیوند می‌دهد:
-- [**حقیقت**](core_05_band_oversight.md#truth-constitutional-constraint) فریب را منع می‌کند.
+- [**حقیقت**](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) فریب را منع می‌کند.
 - [**ایمنی**](core_05_band_continuity.md#safety-constitutional-constraint) هنگامی که خطر واقعی وجود دارد، حدود اتکا را تعیین می‌کند.
 - [**اهمیت مادی**](core_05_band_oversight.md#materiality) مشخص می‌کند چه میزان باید نشان داده و توضیح داده شود — هرچه مخاطره برای جانداران حساسی که به سامانه وابسته‌اند بیشتر باشد، سامانه باید اطلاعات بیشتری افشا و توجیه کند.
 - [**فرسایش اعتماد و اتکای گمراه‌کننده**](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) شیوهٔ شکست را نام‌گذاری می‌کند — زمانی که سامانه‌ها به روش‌هایی گمراه‌کننده از نظر قانون اساسی، اتکا را ایجاد، حفظ یا امتیازدهی می‌کنند.
@@ -785,7 +785,7 @@ flowchart TB
 
 اعتماد همچنین به آنچه سامانه هنگام شکست انجام می‌دهد بستگی دارد. سامانهٔ اعتمادپذیر خطاهای خود را اصلاح می‌کند: [§6.1 اصلاح و جبران](#61-correction-and-remedy) اصلاح را بخشی از اعتماد می‌داند، نه کاری پس از پایان.
 
-گواهی یکی از دو تضمینی است که با هم کار می‌کنند: سامانه را شایستهٔ اعتماد می‌سازد، و حقوق جانداران حساس برای [به‌چالش‌کشیدن آن](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)، [درخواست جبران و راهکار](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) و [ممیزی آن](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) صداقت آن را حفظ می‌کند. هیچ‌یک جای دیگری را نمی‌گیرد — [مادهٔ XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*حق بر سامانه‌های قابل‌اعتماد و اعتمادپذیر*) چگونگی ترکیب آن دو را بیان می‌کند.
+گواهی یکی از دو تضمینی است که با هم کار می‌کنند: سامانه را شایستهٔ اعتماد می‌سازد، و حقوق جانداران حساس برای [به‌چالش‌کشیدن آن](core_06_rights_part_c.md#ماده-xiii-a-پایایی-و-قابلیت-اطمینان)، [درخواست جبران و راهکار](core_06_rights_part_c.md#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت) و [ممیزی آن](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل) صداقت آن را حفظ می‌کند. هیچ‌یک جای دیگری را نمی‌گیرد — [مادهٔ XIII](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد) (*حق بر سامانه‌های قابل‌اعتماد و اعتمادپذیر*) چگونگی ترکیب آن دو را بیان می‌کند.
 
 #### 6.1 اصلاح و جبران
 <details>
@@ -794,7 +794,7 @@ flowchart TB
 - همراه با این بخش بخوانید: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — مؤلفه **پاسخ‌گویی** (الزام به پاسخ‌دادن، جبران، و اصلاح واقعی)؛ مؤلفه **به‌موقع‌بودن** (جبران باید پیش از آن فراهم شود که تأخیر دسترسی به آن را ناممکن کند)؛ تعیین عمق جبران بر مبنای [مخاطره مادی](core_00_preamble.md#material-stake).
 - همراه با این بخش بخوانید: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — هدف **Flourishing** (چون شکست‌ها اصلاح می‌شوند، اتکا همچنان موجه می‌ماند)؛ هدف **Continuity** (ظرفیت پایدار جبران در گذر زمان، جانشینی و بازسازی ساختار).
 - اصول پیشین: [4 Safety](#4-safety-harm-constraint)، [5 Truth](#5-truth-epistemic-integrity-constraint)، و [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- اصول پسین: [Article XIII-B: Right to Redress and Remedy](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)؛ درباره پیامدهای جایگاه طرح دعوا، [Chapter Eleven §9](core_11_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*)؛ درباره اجرای نهادی، [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+- اصول پسین: [Article XIII-B: Right to Redress and Remedy](core_06_rights_part_c.md#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت)؛ درباره پیامدهای جایگاه طرح دعوا، [Chapter Eleven §9](core_11_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*)؛ درباره اجرای نهادی، [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -824,7 +824,7 @@ flowchart TB
 - **به‌موقع:** جبرانی که پس از برگشت‌ناپذیرشدن آسیب برسد، یا پس از آنکه موجود ذی‌شعور از فرط فرسودگی تسلیم شده باشد، جبران نیست (نگاه کنید به [Timely Resolution](core_05_band_accountability.md#timely-resolution)).
 - **بر عهده مسئولان:** هزینه اصلاح، در جایی که عاملان مسئول توان پرداخت آن را دارند، نباید به آسیب‌دیدگان، جوامع آنان یا سامانه‌های عمومی جبران منتقل شود. هزینه، بازسازی ساختار یا جانشینی به‌تنهایی این تکلیف را پایان نمی‌دهد.
 
-حق این اصلاح در فصل ششم و در [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) بیان شده است. [Chapter Eleven §9](core_11_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*) این اصل را درباره پیامدهای جایگاه طرح دعوا به کار می‌گیرد، و [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) نحوه اجرای نهادی را تعیین می‌کند.
+حق این اصلاح در فصل ششم و در [Article XIII-B](core_06_rights_part_c.md#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت) (*Right to Redress and Remedy*) بیان شده است. [Chapter Eleven §9](core_11_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*) این اصل را درباره پیامدهای جایگاه طرح دعوا به کار می‌گیرد، و [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*) نحوه اجرای نهادی را تعیین می‌کند.
 
 ### 7. Freedom (Bounded Agency)
 <a id="7-freedom-bounded-agency"></a>
@@ -834,13 +834,13 @@ flowchart TB
 - همراه با این بخش بخوانید: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — مؤلفه **مشارکت** (عاملیت معنادار و نقش‌های اثرگذار)؛ مؤلفه **پاسخ‌گویی** (عاملیت بدون الزام به پاسخ‌دادن کامل نیست)؛ تنظیم بر مبنای [مخاطره مادی](core_00_preamble.md#material-stake).
 - همراه با این بخش بخوانید: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — هدف **Flourishing** (این فصل **عاملیت معنادار** را گسترش می‌دهد)؛ هدف **Continuity** (عاملیتی محدود که نظام‌های قانون اساسی پایدار و قابل اعتراض را حفظ می‌کند).
 - همراه با این بخش بخوانید: [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation)، فصل پنجم §2 *Agency, consent, and anti-coercion*، و [Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation).
-- همراه با این بخش بخوانید: [§17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) و [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) — مسیرهای عمق نقش، شایستگی و مسئولیت مادی؛ عاملیت معنادار شامل راه‌های واقعی برای رسیدن به نقش‌های یادگیری، عملیات و تکالیف اثرگذار است، هرجا ایمنی و رضایت اجازه دهند؛ هرگاه اثر، انجام تکلیف اثرگذار را ایجاب کند، مشارکت نمادین نباید جایگزین آن شود.
-- همراه با این بخش بخوانید: [§11 Market Structure](#11-market-structure)، به‌ویژه [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination)، و [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) در مواردی که تمرکز، سلطه یا قفل‌شدن در سامانه عاملیت را به‌طور مادی محدود می‌کند — بازارهای رقابت‌پذیر، مسیرهای خروج و انضباط ضدسلطه عاملیت را در مقیاس بزرگ واقعی نگه می‌دارند.
-- همراه با این بخش بخوانید: [§7.1 Limitation Discipline](#71-limitation-discipline) و [Chapter Nine §3.2 Time-Consistency Constraint](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) — انضباط ارزیابی عملیاتی محدودیت آزادی و سازگاری زمانی؛ اگر محدودیت آزادی با ارزش‌ها یا حقوق دیگر تعارض پیدا کند، پس از برآورده‌شدن **Safety** و **Truth**، آن را بر اساس [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) تا [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) حل کنید.
+- همراه با این بخش بخوانید: [§17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#۱۷-سرپرستی-پیامدآفرین-نقش-سرپرست) و [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#۱۹۱۴-عمق-نقش-و-مسیرهای-مسئولیت-مادی) — مسیرهای عمق نقش، شایستگی و مسئولیت مادی؛ عاملیت معنادار شامل راه‌های واقعی برای رسیدن به نقش‌های یادگیری، عملیات و تکالیف اثرگذار است، هرجا ایمنی و رضایت اجازه دهند؛ هرگاه اثر، انجام تکلیف اثرگذار را ایجاب کند، مشارکت نمادین نباید جایگزین آن شود.
+- همراه با این بخش بخوانید: [§11 Market Structure](#11-ساختار-بازار)، به‌ویژه [§11.2 Pro-Competition and Anti-Domination](#112-رقابتافزایی-و-مقابله-با-سلطه)، و [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#ماده-xxi-تعاملپذیری-انتقالپذیری-و-یکپارچگی-خروج) در مواردی که تمرکز، سلطه یا قفل‌شدن در سامانه عاملیت را به‌طور مادی محدود می‌کند — بازارهای رقابت‌پذیر، مسیرهای خروج و انضباط ضدسلطه عاملیت را در مقیاس بزرگ واقعی نگه می‌دارند.
+- همراه با این بخش بخوانید: [§7.1 Limitation Discipline](#71-limitation-discipline) و [Chapter Nine §3.2 Time-Consistency Constraint](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) — انضباط ارزیابی عملیاتی محدودیت آزادی و سازگاری زمانی؛ اگر محدودیت آزادی با ارزش‌ها یا حقوق دیگر تعارض پیدا کند، پس از برآورده‌شدن **Safety** و **Truth**، آن را بر اساس [§13.1](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه) تا [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) حل کنید.
 - اصول پیشین: [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration)؛ [4 Safety](#4-safety-harm-constraint)؛ [5 Truth](#5-truth-epistemic-integrity-constraint)؛ [6. Trust](#6-trust-and-trustworthiness-coordination-integrity)؛ و [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- اصول پسین: از [§7.1 Limitation Discipline](#71-limitation-discipline) تا [§7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](#74-voluntary-discontinuation-and-exit-rights)؛ [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*همتای Freedom در اقتدار عمومی*)؛ [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)؛ [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)؛ [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application)؛ و [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) در مواردی که کاربردهای مشخص به رسیدگی به تعارض نیاز دارند.
+- اصول پسین: از [§7.1 Limitation Discipline](#71-limitation-discipline) تا [§7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](#74-voluntary-discontinuation-and-exit-rights)؛ [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*همتای Freedom در اقتدار عمومی*)؛ [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)؛ [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)؛ [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه)؛ و [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) در مواردی که کاربردهای مشخص به رسیدگی به تعارض نیاز دارند.
 - اصول پسین: چارچوب حقوق مربوط به برابری جایگاه، آموزش، مالکیت بر خود، کنترل انتشار و همانندی، عاملیت، تعامل همکاری‌محور، دادرسی منصفانه، جایگاه طرح دعوا و بازبینی ضدتصرف را تعیین می‌کند.
-  - به‌ویژه [Article VI: Equal Basic Rights](core_06_rights_part_b.md#article-vi-equal-basic-rights)، [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)، [Article VII: Self-Ownership](core_06_rights_part_b.md#article-vii-self-ownership)، [Article IX: Likeness, Experiential Data, and Publication Rights](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights)، [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction)، [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)، [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status)، و [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - به‌ویژه [Article VI: Equal Basic Rights](core_06_rights_part_b.md#ماده-ششم-حقوق-بنیادین-برابر)، [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#اصل-iv-حق-آموزش-حسمندمحور)، [Article VII: Self-Ownership](core_06_rights_part_b.md#article-vii-self-ownership)، [Article IX: Likeness, Experiential Data, and Publication Rights](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights)، [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#ماده-دهم-خودتعیینگری-عاملیت-و-مشارکت)، [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction)، [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)، [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#ماده-xix-جایگاه-و-وضعیت-مشارکت)، و [Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#ماده-xxv-تفسیر-قانون-اساسی-بازبینی-و-تدابیر-حفاظتی-ضدتسخیر).
   - همچنین هر مورد مرتبط با کف حقوق فصل ششم را دربرمی‌گیرد که در آن عاملیت محدود می‌شود یا ادعا می‌شود.
 
 </details>
@@ -877,11 +877,11 @@ flowchart TB
 
 اجرای آن باید [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) را برآورده کند. دو مؤلفه از همه مهم‌ترند. **مشارکت** یعنی انتخاب‌های واقعی و نقش‌های اثرگذار. **پاسخ‌گویی** یعنی عاملیت بدون الزام به پاسخ‌دادن کامل نیست. میزان الزام با [مخاطره مادی](core_00_preamble.md#material-stake) متناسب می‌شود.
 
-ادعای اجتناب‌ناپذیربودن محدودیت آزادی — از جمله «چاره‌ای نداشتیم» — با صرف ادعا ثابت نمی‌شود. طرف مدعی باید طبق الزامات بار اثبات و قابلیت ردیابی [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) و تعاریف [Feasibility](core_05_band_accountability.md#feasibility) و [Necessity](core_05_band_accountability.md#necessity) در فصل پنجم نشان دهد که در سامانه در حال کار هیچ گزینه کم‌محدودکننده‌تری وجود نداشت که همچنان از آسیب مادی یا خطر نظام‌مند جلوگیری کند. آسودگی، صرف هزینه، موانع ساخته اپراتور یا عادت نهادی این امر را اثبات نمی‌کند. این ادعا تکالیف Tetrad را که با [مخاطره مادی](core_00_preamble.md#material-stake) متناسب شده‌اند، ساقط نمی‌کند:
+ادعای اجتناب‌ناپذیربودن محدودیت آزادی — از جمله «چاره‌ای نداشتیم» — با صرف ادعا ثابت نمی‌شود. طرف مدعی باید طبق الزامات بار اثبات و قابلیت ردیابی [Chapter Four](core_04_burden_traceability_verification.md#فصل-چهارم-بار-اثبات-ردگیریپذیری-و-راستیآزمایی) و تعاریف [Feasibility](core_05_band_accountability.md#feasibility) و [Necessity](core_05_band_accountability.md#necessity) در فصل پنجم نشان دهد که در سامانه در حال کار هیچ گزینه کم‌محدودکننده‌تری وجود نداشت که همچنان از آسیب مادی یا خطر نظام‌مند جلوگیری کند. آسودگی، صرف هزینه، موانع ساخته اپراتور یا عادت نهادی این امر را اثبات نمی‌کند. این ادعا تکالیف Tetrad را که با [مخاطره مادی](core_00_preamble.md#material-stake) متناسب شده‌اند، ساقط نمی‌کند:
 - **مشارکت** — موجودات ذی‌شعورِ متأثر همچنان به عاملیت معنادار و نقش‌های قابل اعتراض نیاز دارند
 - **پاسخ‌گویی** — شخصی همچنان در برابر محدودیت پاسخ‌گو است
 
-آزمون‌های اجرایی در [§7.1 Limitation Discipline](#71-limitation-discipline) و [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity) آمده‌اند.
+آزمون‌های اجرایی در [§7.1 Limitation Discipline](#71-limitation-discipline) و [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#۱۳۱۱-ضرورت) آمده‌اند.
 
 [Meaningful Agency](core_05_band_participation.md#meaningful-agency) توانایی انتخاب میان گزینه‌های واقعی است. [Consent](core_05_band_participation.md#consent) رضایت معتبر به یک گزینه مشخص است. اگر گزینه‌ها از هم متمایز یا معنادار نباشند، رضایت محسوب نمی‌شود. صرف امضای فرم نه عاملیت معنادار ایجاد می‌کند و نه رضایت. [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation) هر دو را از میان می‌برند. قواعد تفصیلی در فصل پنجم §2 *Agency, consent, and anti-coercion* آمده‌اند.
 
@@ -934,14 +934,14 @@ flowchart TB
 - **سازگار با تعاریف:** ادعا باید با تعاریف Feasibility، Necessity، Proportionality و Harm Minimization (Tradeoff Selection) در فصل پنجم سازگار باشد.
 - **تحت نظارت:** هر محدودیت زیر نظارت [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) باقی بماند؛ هرچه مخاطره بیشتر باشد، نظارت باید دقیق‌تر باشد ([مخاطره مادی](core_00_preamble.md#material-stake)).
 
-اگر محدودکردن آزادی با ارزش‌ها یا حقوق قانون اساسی دیگر تعارض پیدا کند، نخست مطمئن شوید **Safety** و **Truth** برآورده شده‌اند. سپس روند [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) تا [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) را دنبال کنید.
+اگر محدودکردن آزادی با ارزش‌ها یا حقوق قانون اساسی دیگر تعارض پیدا کند، نخست مطمئن شوید **Safety** و **Truth** برآورده شده‌اند. سپس روند [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه) تا [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) را دنبال کنید.
 
 #### ۷.۲ گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-*محل اصلی تعریف‌ها.* فصل پنجم، [§3.5 گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation)، جایگاه اصلی این گروه از تعریف‌هاست. آن را همراه با **ماده XI-D** (*گردهمایی، مخالفت و اعتراض مسالمت‌آمیز*) (گردهمایی)، **ماده III-C** (*کف کار و اقتصاد*) (سازمان‌یابی جمعی در چارچوب کف کار و اقتصاد)، و [§17.4 خودسازمان‌یابی همسو](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) (مسیر رویه‌ای برای سرپرستی قانون اساسی به ابتکار موجودات ذی‌شعور و جوامع) بخوانید.
+*محل اصلی تعریف‌ها.* فصل پنجم، [§3.5 گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation)، جایگاه اصلی این گروه از تعریف‌هاست. آن را همراه با **ماده XI-D** (*گردهمایی، مخالفت و اعتراض مسالمت‌آمیز*) (گردهمایی)، **ماده III-C** (*کف کار و اقتصاد*) (سازمان‌یابی جمعی در چارچوب کف کار و اقتصاد)، و [§17.4 خودسازمان‌یابی همسو](core_01_c_stewardship_capacity_principles.md#174-خودسازماندهی-همسو) (مسیر رویه‌ای برای سرپرستی قانون اساسی به ابتکار موجودات ذی‌شعور و جوامع) بخوانید.
 
 - [گردهمایی](core_05_band_participation.md#assembly) · [O](core_05_band_participation.md#assembly) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
 - [سازمان‌یابی جمعی](core_05_band_participation.md#collective-organization) · [O](core_05_band_participation.md#collective-organization) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
@@ -962,12 +962,12 @@ flowchart TB
 - [ایجاد سامانه](core_05_band_participation.md#system-creation)
 - [ایجاد کسب‌وکار](core_05_band_participation.md#business-creation)
 
-قواعد خواندن خود خوشه نیز در همان‌جا آمده‌اند. **§7.2** (*گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد*) اصل [ضدبخش‌بندی](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) را در این موضوع به کار می‌گیرد؛ این بخش سازوکارهای فصل پنجم را تکرار نمی‌کند.
+قواعد خواندن خود خوشه نیز در همان‌جا آمده‌اند. **§7.2** (*گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد*) اصل [ضدبخش‌بندی](core_01_b_interaction_interpretation.md#1511-اصل-منع-بخشبندی) را در این موضوع به کار می‌گیرد؛ این بخش سازوکارهای فصل پنجم را تکرار نمی‌کند.
 
 **کدام مواد حقوقی همچنان حاکم‌اند.** **§7.2** (*گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد*) اصلی در فصل یک است. این بخش جایگزین کف حقوق فصل ششم نمی‌شود. در چارچوب **§7.2** (*گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد*)، آن مواد همچنان تعیین می‌کنند حق چیست و چگونه می‌توان آن را محدود کرد:
 - **[ماده XI-D](core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*گردهمایی، مخالفت و اعتراض مسالمت‌آمیز*)** (*گردهمایی، مخالفت و اعتراض مسالمت‌آمیز*) — گردهم‌آمدن، پیوند یافتن و اقدام مشترک در فضاهای فیزیکی، دیجیتال یا دارای توان محاسباتی مشترک برای بیان، سیاست، فرهنگ، جامعه و اهداف مشابه
-- **[ماده III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*کف کار و اقتصاد*)** (*کف کار و اقتصاد*) — سازمان‌یابی جمعی در فعالیت‌های تولیدی و اقتصادی (اتحادیه‌ها، تعاونی‌ها، اصناف، شوراهای کارگری و شکل‌های مشابه برای اثرگذاری بر شرایط کار)
-- **[ماده XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*تشکیل نهاد و ایجاد کسب‌وکار*)** (*تشکیل نهاد و ایجاد کسب‌وکار*) — [ایجاد سامانه](core_05_band_participation.md#system-creation) (تشکیل و اداره نهادهای غیرتجاری) و [ایجاد کسب‌وکار](core_05_band_participation.md#business-creation) (تشکیل و اداره بنگاه‌های تجاری)
+- **[ماده III-C](core_06_rights_part_a.md#اصل-iii-c-کف-کار-و-اقتصاد) (*کف کار و اقتصاد*)** (*کف کار و اقتصاد*) — سازمان‌یابی جمعی در فعالیت‌های تولیدی و اقتصادی (اتحادیه‌ها، تعاونی‌ها، اصناف، شوراهای کارگری و شکل‌های مشابه برای اثرگذاری بر شرایط کار)
+- **[ماده XI-E](core_06_rights_part_b.md#ماده-یازدهم-هـ-ایجاد-نهاد-و-تأسیس-کسبوکار) (*تشکیل نهاد و ایجاد کسب‌وکار*)** (*تشکیل نهاد و ایجاد کسب‌وکار*) — [ایجاد سامانه](core_05_band_participation.md#system-creation) (تشکیل و اداره نهادهای غیرتجاری) و [ایجاد کسب‌وکار](core_05_band_participation.md#business-creation) (تشکیل و اداره بنگاه‌های تجاری)
 - **[ماده X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*نقش و حقوق مشارکت ذی‌نفعان*)** (*نقش و حقوق مشارکت ذی‌نفعان*) و **[ماده XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*مشارکت سامانه‌ای، نمایندگی و دادرسی منصفانهٔ ذی‌نفعان*)** (*مشارکت سامانه‌ای، نمایندگی و دادرسی منصفانهٔ ذی‌نفعان*) — حقوق ذی‌نفعان هنگامی که نهاد یا بنگاه ایجادشده به‌طور اساسی بر دیگران اثر می‌گذارد
 
 **خوشهٔ کامل تعریف‌ها چه زمانی اعمال می‌شود.** قاعدهٔ ضدبخش‌بندی هنگامی اعمال می‌شود که [گردهمایی](core_05_band_participation.md#assembly)، [سازمان‌یابی جمعی](core_05_band_participation.md#collective-organization)، [ایجاد سامانه](core_05_band_participation.md#system-creation) یا [ایجاد کسب‌وکار](core_05_band_participation.md#business-creation) به‌گونه‌ای اساسی باشد که این پرسش‌ها به هم وابسته شوند.
@@ -980,7 +980,7 @@ flowchart TB
 
 **دامنه و محدودیت‌های این بخش:**
 
-- **آنچه تغییر نمی‌دهد:** **§7.2** (*گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد*) اصل [ضدبخش‌بندی](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) را در این موضوع به کار می‌گیرد و فقط ارجاع [§7.2.1 خودسازمان‌یابی همسو](#721-aligned-self-organization) را می‌افزاید. این بخش هیچ‌یک از مفاد کف حقوق فصل ششم را ایجاد، گسترش یا محدود **نمی‌کند**.
+- **آنچه تغییر نمی‌دهد:** **§7.2** (*گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد*) اصل [ضدبخش‌بندی](core_01_b_interaction_interpretation.md#1511-اصل-منع-بخشبندی) را در این موضوع به کار می‌گیرد و فقط ارجاع [§7.2.1 خودسازمان‌یابی همسو](#721-aligned-self-organization) را می‌افزاید. این بخش هیچ‌یک از مفاد کف حقوق فصل ششم را ایجاد، گسترش یا محدود **نمی‌کند**.
 - **دسته‌بندی‌ها:** چارچوب‌بندی‌های انجمن مدنی، سازمان کارگری، دسترسی به سکو و مجوز فعالیت. جدا کردن آن‌ها هنگامی ناسازگار است که دسترسی صوری را حفظ کند اما حمایت از گردهمایی یا سازمان‌یابی جمعی را ناکام بگذارد.
 - **ارزیابی‌های کل‌سامانه‌ای:** در جایی که خوشهٔ کامل تعریف‌ها اعمال می‌شود، پیش از پذیرفته شدن ادعاهای طبقه‌بندی، حکمرانی یا انطباق، ضدبخش‌بندی را طبق [فصل نهم §4.3 گردهمایی، سازمان‌یابی جمعی و تشکیل نهاد](core_09_a_system_alignment_certification_evaluation.md#43-assembly-collective-organization-and-institutional-formation) بیازمایید.
 
@@ -989,7 +989,7 @@ flowchart TB
 
 *به زبان ساده: می‌توانید کار مشروع را بدون حامی آغاز کنید و نهادها باید برای کار معتبر مسیر رویه‌ای واقعی فراهم کنند — اما این مسیر اختیار حکومت بر دیگران نیست و تصمیم نهایی دربارهٔ ماهیت موضوع هم نیست.*
 
-آزادی گردهمایی یا ایجاد سامانه شامل راهی واقعی برای آغاز کاری است که این قانون اساسی مشروع می‌داند، بی‌آنکه منتظر بمانید سرپرستانِ از پیش مسئول آن را حمایت کنند. [§17.4 خودسازمان‌یابی همسو](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) مرجع اجرایی این قاعده است. این زیربخش قاعده را در لایهٔ آزادی / گردهمایی و تشکیل اعمال می‌کند.
+آزادی گردهمایی یا ایجاد سامانه شامل راهی واقعی برای آغاز کاری است که این قانون اساسی مشروع می‌داند، بی‌آنکه منتظر بمانید سرپرستانِ از پیش مسئول آن را حمایت کنند. [§17.4 خودسازمان‌یابی همسو](core_01_c_stewardship_capacity_principles.md#174-خودسازماندهی-همسو) مرجع اجرایی این قاعده است. این زیربخش قاعده را در لایهٔ آزادی / گردهمایی و تشکیل اعمال می‌کند.
 
 هرگاه آن کار معتبر و از نظر اساسی مرتبط باشد، نهادها باید مسیر رویه‌ای واقعی برای آن فراهم کنند:
 - دریافتش کنند
@@ -1004,7 +1004,7 @@ flowchart TB
 - جایگاه اقامهٔ دعوا، مسئولیت، استحقاق، اعتبار، مأموریت، جبران، طبقه‌بندی یا محدودیت حقوق را تعیین نمی‌کند
 - [تعیین ماهوی](core_05_band_accountability.md#merits-determination) محسوب نمی‌شود — یعنی تصمیمی الزام‌آور دربارهٔ ماهیت اختلاف
 
-دریافت، ارجاع یا پاسخ‌گویی به معنای تأیید نتیجه‌گیری نویسندگان نیست. هر اثر حکمرانی یا ماهوی مستلزم اختیار قانونی جداگانه، شواهد، دادرسی منصفانه، بازبینی و جبرانی است که این قانون اساسی مقرر می‌کند. قاعدهٔ کامل منع انتصاب خویش در [§17.4 خودسازمان‌یابی همسو](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) آمده است.
+دریافت، ارجاع یا پاسخ‌گویی به معنای تأیید نتیجه‌گیری نویسندگان نیست. هر اثر حکمرانی یا ماهوی مستلزم اختیار قانونی جداگانه، شواهد، دادرسی منصفانه، بازبینی و جبرانی است که این قانون اساسی مقرر می‌کند. قاعدهٔ کامل منع انتصاب خویش در [§17.4 خودسازمان‌یابی همسو](core_01_c_stewardship_capacity_principles.md#174-خودسازماندهی-همسو) آمده است.
 
 #### 7.3 مخالفت و اعتراض مسالمت‌آمیز
 
@@ -1075,7 +1075,7 @@ flowchart TB
 
 <details><summary><strong>تعاریف · ارزیابی · انطباق</strong></summary>
 
-*جایگاه کف حقوق.* [ماده XI-B](../../core_06_rights_part_b.md#article-xi-b-expression) کف اجرایی بیان را مقرر می‌کند و [ماده XI-G](../../core_06_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) نقطه آغاز آسیب جمعی را مشخص می‌کند. این زیربخش اصل آزادی را به آن دو پیوند می‌دهد و قاعده مستقلی نمی‌افزاید.
+*جایگاه کف حقوق.* [ماده XI-B](../../core_06.010_rights_part_b.md#article-xi-b-expression) کف اجرایی بیان را مقرر می‌کند و [ماده XI-G](../../core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) نقطه آغاز آسیب جمعی را مشخص می‌کند. این زیربخش اصل آزادی را به آن دو پیوند می‌دهد و قاعده مستقلی نمی‌افزاید.
 
 </details>
 <br>
@@ -1089,9 +1089,9 @@ flowchart TB
 
 **معیار برای گوینده و هدف یکسان است.** فرد، گروه یا نهاد می‌تواند گوینده یا هدف باشد. سیاست‌ها، اخطارها، طراحی پلتفرم، بیانیه‌های رسمی و نحوه رسیدگی به گزارش‌ها و منتقدان، بیان نهادی هستند. انتقاد از نهاد، مسئولان یا رفتار آن حمایت می‌شود. نامیدن آن به‌عنوان آزار یا قلدری محدودیت بیان است و مدعی باید بار اثبات §7.1 و فصل چهارم را بر عهده بگیرد.
 
-**برچسب و موضوع معیار را عوض نمی‌کنند.** برچسب دینی، سیاسی، ایدئولوژیک، فرهنگی، هنری یا تجاری، بیان آسیب‌زا یا تبعیض‌آمیز را حمایت‌شده نمی‌کند؛ موضوع یا دیدگاه نیز بیان حمایت‌شده را به آسیب تبدیل نمی‌کند. [ماده XI-A](../../core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) داشتن و اظهار باور را با رعایت حقوق دیگران حمایت می‌کند.
+**برچسب و موضوع معیار را عوض نمی‌کنند.** برچسب دینی، سیاسی، ایدئولوژیک، فرهنگی، هنری یا تجاری، بیان آسیب‌زا یا تبعیض‌آمیز را حمایت‌شده نمی‌کند؛ موضوع یا دیدگاه نیز بیان حمایت‌شده را به آسیب تبدیل نمی‌کند. [ماده XI-A](../../core_06.010_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) داشتن و اظهار باور را با رعایت حقوق دیگران حمایت می‌کند.
 
-**محدودکردن بیان با استفاده از آن به‌عنوان مدرک فرق دارد.** محدودیت باید §7.1 و [ماده XI-B](../../core_06_rights_part_b.md#article-xi-b-expression) را رعایت کند؛ محدودیتی که متوجه محتوای گفته‌هاست سخت‌گیرانه‌ترین بررسی مقرر در آن ماده را می‌گذراند. استفاده از گفته فرد به‌عنوان مدرک قصد، هدف یا اختیار، محدودیت نیست؛ قواعد ادله فصل مربوط، مانند [فصل هفت §6](core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)، حاکم است و خود سخن نباید مجازات شود.
+**محدودکردن بیان با استفاده از آن به‌عنوان مدرک فرق دارد.** محدودیت باید §7.1 و [ماده XI-B](../../core_06.010_rights_part_b.md#article-xi-b-expression) را رعایت کند؛ محدودیتی که متوجه محتوای گفته‌هاست سخت‌گیرانه‌ترین بررسی مقرر در آن ماده را می‌گذراند. استفاده از گفته فرد به‌عنوان مدرک قصد، هدف یا اختیار، محدودیت نیست؛ قواعد ادله فصل مربوط، مانند [فصل هفت §6](core_07_charters.md#6-formation-check-office-holder-standing-and-authenticity)، حاکم است و خود سخن نباید مجازات شود.
 
 **دامنه.** این زیربخش انضباط محدودیت و تعاریف فصل پنج را درباره بیان اعمال می‌کند. طبقه تازه‌ای از آسیب یا مبنایی برای محدودکردن آزادی فراتر از §7.1 ایجاد نمی‌کند.
 
@@ -1101,9 +1101,9 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - همراه با این بخش بخوانید: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — هر چهار پایه بر چگونگی پیگیری تداوم حاکم‌اند؛ [ذی‌نفعی مادی](core_00_preamble.md#material-stake) عمق هر ادعای تداوم را تعیین می‌کند.
-- همراه با این بخش بخوانید: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **تداوم**؛ هدف همراه آن در [هدف شکوفایی: مقدمه](#2-flourishing-aim-introduction) معرفی می‌شود.
-- مبانی بالادستی: اصول: [مقدمه §۱ الگو](core_00_preamble.md#continuity)؛ [تداوم (هدف قانون اساسی)](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim)؛ [هدف شکوفایی: مقدمه](#2-flourishing-aim-introduction).
-- پیامدهای پایین‌دستی: [§۹ ظرفیت سامانهٔ مشترک](#9-shared-system-capacity)، [§۱۰ تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design)، [§۱۱ ساختار بازار](#11-market-structure) و [§۱۲ الزام ارزیابی سیستمی](#12-systemic-evaluation-requirement)؛ مواد حافظ هرکدام در ردیابی همان بخش نام برده شده‌اند.
+- همراه با این بخش بخوانید: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **تداوم**؛ هدف همراه آن در [هدف شکوفایی: مقدمه](#۲-مقدمه-هدف-شکوفایی) معرفی می‌شود.
+- مبانی بالادستی: اصول: [مقدمه §۱ الگو](core_00_preamble.md#continuity)؛ [تداوم (هدف قانون اساسی)](core_05_apex_continuity_aim.md#فصل-پنجم-تعریفها-پیوستگی-هدف-قانون-اساسی)؛ [هدف شکوفایی: مقدمه](#۲-مقدمه-هدف-شکوفایی).
+- پیامدهای پایین‌دستی: [§۹ ظرفیت سامانهٔ مشترک](#۹-ظرفیت-سامانه-مشترک)، [§۱۰ تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design)، [§۱۱ ساختار بازار](#11-ساختار-بازار) و [§۱۲ الزام ارزیابی سیستمی](#12-الزام-ارزیابی-نظاممند)؛ مواد حافظ هرکدام در ردیابی همان بخش نام برده شده‌اند.
 - به‌طور کلی همراه با کف حقوق فصل ششم بخوانید.
 
 </details>
@@ -1111,7 +1111,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [تداوم (هدف قانون اساسی)](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) · [O](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) · [M](core_05_apex_continuity_aim.md#continuity-aim-constitutional-m) · [A](core_05_apex_continuity_aim.md#continuity-aim-constitutional-a) · [C](core_05_apex_continuity_aim.md#continuity-aim-constitutional-c)
+- [تداوم (هدف قانون اساسی)](core_05_apex_continuity_aim.md#فصل-پنجم-تعریفها-پیوستگی-هدف-قانون-اساسی) · [O](core_05_apex_continuity_aim.md#فصل-پنجم-تعریفها-پیوستگی-هدف-قانون-اساسی) · [M](core_05_apex_continuity_aim.md#continuity-aim-constitutional-m) · [A](core_05_apex_continuity_aim.md#continuity-aim-constitutional-a) · [C](core_05_apex_continuity_aim.md#continuity-aim-constitutional-c)
 - [ظرفیت سامانهٔ مشترک](core_05_band_continuity.md#shared-system-capacity) · [O](core_05_band_continuity.md#shared-system-capacity) · [M](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05_band_continuity.md#shared-system-capacity-constitutional-c)
 - [خودترمیم‌گری](core_05_band_continuity.md#self-healing) · [O](core_05_band_continuity.md#self-healing) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
 - [یکپارچگی بوم‌شناختی](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
@@ -1123,21 +1123,21 @@ flowchart TB
 
 *به زبان ساده: تداوم دومین هدف از دو هدف است: اطمینان از ماندگاری نتیجهٔ خوب — در برابر شکست‌ها، در نسل‌های مختلف و بدون آنکه چند بازیگر قدرتمند آن را در انحصار بگیرند. این هدف با ظرفیت سامانهٔ مشترک آغاز می‌شود؛ ظرفیتی که در خدمت شکوفایی است و در عین حال جوهر تداوم را تشکیل می‌دهد.*
 
-[**تداوم**](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) یعنی **ثبات بلندمدت، پایداری، تاب‌آوری و بهزیستی بوم‌شناختی** ([مقدمه §۱ الگو](core_00_preamble.md#continuity)). فصل اول آن را از راه چهار اصل بسط می‌دهد و نخستین اصل پلی از [شکوفایی](#2-flourishing-aim-introduction) می‌سازد.
+[**تداوم**](core_05_apex_continuity_aim.md#فصل-پنجم-تعریفها-پیوستگی-هدف-قانون-اساسی) یعنی **ثبات بلندمدت، پایداری، تاب‌آوری و بهزیستی بوم‌شناختی** ([مقدمه §۱ الگو](core_00_preamble.md#continuity)). فصل اول آن را از راه چهار اصل بسط می‌دهد و نخستین اصل پلی از [شکوفایی](#۲-مقدمه-هدف-شکوفایی) می‌سازد.
 
 | اصل | پرسشی که پاسخ می‌دهد |
 |---|---|
-| [§۹ ظرفیت سامانهٔ مشترک](#9-shared-system-capacity) | آیا موجودات ذی‌شعور و سامانه‌های مشترک همچنان توان پایدار انجام کارهای لازم طبق قانون اساسی را دارند؟ |
+| [§۹ ظرفیت سامانهٔ مشترک](#۹-ظرفیت-سامانه-مشترک) | آیا موجودات ذی‌شعور و سامانه‌های مشترک همچنان توان پایدار انجام کارهای لازم طبق قانون اساسی را دارند؟ |
 | [§۱۰ تاب‌آوری و طراحی خودترمیم‌گر](#10-resilience-and-self-healing-design) | آیا سامانه‌ها مشکل را زود تشخیص می‌دهند، مهارش می‌کنند و صادقانه بهبود می‌یابند؟ |
-| [§۱۱ ساختار بازار](#11-market-structure) | آیا موجودات ذی‌شعور هنوز می‌توانند وارد بازار شوند، رقابت کنند، بازیگران قدرتمند را به چالش بکشند و از آن‌ها فاصله بگیرند، یا تمرکز قدرت نزد چند بازیگر این راه‌ها را بسته و ظرفیت سامانه را تهی کرده است؟ |
-| [§۱۲ الزام ارزیابی سیستمی](#12-systemic-evaluation-requirement) | پیش از آنکه کسی سامانه‌ای را منطبق، ایمن یا خوب‌حکمرانی‌شده اعلام کند، آیا کل سامانه، از جمله وابستگی‌ها و محرک‌های انگیزشی آن، بررسی شده است؛ نه فقط بخشی از آن در یک لحظه؟ |
+| [§۱۱ ساختار بازار](#11-ساختار-بازار) | آیا موجودات ذی‌شعور هنوز می‌توانند وارد بازار شوند، رقابت کنند، بازیگران قدرتمند را به چالش بکشند و از آن‌ها فاصله بگیرند، یا تمرکز قدرت نزد چند بازیگر این راه‌ها را بسته و ظرفیت سامانه را تهی کرده است؟ |
+| [§۱۲ الزام ارزیابی سیستمی](#12-الزام-ارزیابی-نظاممند) | پیش از آنکه کسی سامانه‌ای را منطبق، ایمن یا خوب‌حکمرانی‌شده اعلام کند، آیا کل سامانه، از جمله وابستگی‌ها و محرک‌های انگیزشی آن، بررسی شده است؛ نه فقط بخشی از آن در یک لحظه؟ |
 
 **اصول تداوم چگونه با هم کار می‌کنند:**
-- **تداوم با تصویری صادقانه آغاز می‌شود:** هر ادعای تداوم، چه دربارهٔ ظرفیت، تاب‌آوری یا ساختار بازار، باید بر آنچه کل سامانه در گذر زمان واقعاً انجام می‌دهد تکیه کند، نه بر شعار یا تصویری لحظه‌ای. [§۱۲ الزام ارزیابی سیستمی](#12-systemic-evaluation-requirement) این معیار را بیان می‌کند و بر هر ادعایی در [§§۹–۱۱](#9-shared-system-capacity) اعمال می‌شود. این معیار بر قید حقیقت در [§۲.۱](#21-non-negotiable-principle-constraints-safety-and-truth) و [§۵](#5-truth-epistemic-integrity-constraint) بنا شده است.
-- **ظرفیت میان دو هدف قرار دارد:** [§۹ ظرفیت سامانهٔ مشترک](#9-shared-system-capacity) وسیله‌ای برای شکوفایی و جوهر تداوم است و برگ برنده‌ای برای نادیده‌گرفتن ایمنی، حقیقت، حقوق یا بوم‌شناسی نیست.
+- **تداوم با تصویری صادقانه آغاز می‌شود:** هر ادعای تداوم، چه دربارهٔ ظرفیت، تاب‌آوری یا ساختار بازار، باید بر آنچه کل سامانه در گذر زمان واقعاً انجام می‌دهد تکیه کند، نه بر شعار یا تصویری لحظه‌ای. [§۱۲ الزام ارزیابی سیستمی](#12-الزام-ارزیابی-نظاممند) این معیار را بیان می‌کند و بر هر ادعایی در [§§۹–۱۱](#۹-ظرفیت-سامانه-مشترک) اعمال می‌شود. این معیار بر قید حقیقت در [§۲.۱](#۲۱-محدودیتهای-اصولی-غیرقابلمذاکره-ایمنی-و-حقیقت) و [§۵](#5-truth-epistemic-integrity-constraint) بنا شده است.
+- **ظرفیت میان دو هدف قرار دارد:** [§۹ ظرفیت سامانهٔ مشترک](#۹-ظرفیت-سامانه-مشترک) وسیله‌ای برای شکوفایی و جوهر تداوم است و برگ برنده‌ای برای نادیده‌گرفتن ایمنی، حقیقت، حقوق یا بوم‌شناسی نیست.
 - **تاب‌آوری و ساختار بازار از ظرفیت محافظت می‌کنند:** تاب‌آوری آن را بادوام نگه می‌دارد؛ ساختار بازار امکان رقابت و اعتراض را حفظ می‌کند.
-- **ارزیابی سیستمی کل مجموعه را می‌سنجد:** [§۱۲ الزام ارزیابی سیستمی](#12-systemic-evaluation-requirement) پیش از پذیرفته‌شدن ادعاهای انطباق، دامنه، وابستگی‌ها و هم‌راستایی انگیزه‌ها را می‌سنجد. این بخش در پایان آمده، چون آنچه §§۹–۱۱ شرح می‌دهند را بررسی می‌کند و شیوهٔ طرح هر ادعای تداوم را تعیین می‌کند.
-- **تداوم نباید پنهانی بر شکوفایی غلبه کند:** در صورت برخورد این دو، آن‌ها طبق [§۱۳ فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) سنجیده می‌شوند.
+- **ارزیابی سیستمی کل مجموعه را می‌سنجد:** [§۱۲ الزام ارزیابی سیستمی](#12-الزام-ارزیابی-نظاممند) پیش از پذیرفته‌شدن ادعاهای انطباق، دامنه، وابستگی‌ها و هم‌راستایی انگیزه‌ها را می‌سنجد. این بخش در پایان آمده، چون آنچه §§۹–۱۱ شرح می‌دهند را بررسی می‌کند و شیوهٔ طرح هر ادعای تداوم را تعیین می‌کند.
+- **تداوم نباید پنهانی بر شکوفایی غلبه کند:** در صورت برخورد این دو، آن‌ها طبق [§۱۳ فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی) سنجیده می‌شوند.
 
 **نمودار: تداوم و اصول آن**
 
@@ -1185,10 +1185,10 @@ flowchart TB
 
 - همراه با این بخش بخوانید: [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — هدف **تداوم** (یکپارچگی بوم‌شناختی، مسئولیت میان‌نسلی و ظرفیت پایدار سامانهٔ مشترک)؛ هدف **شکوفایی** (ظرفیت وسیله‌ای برای رسیدن به آن است). این بخش میان هر دو قرار دارد.
 - مبانی بالادستی: اصول: [مقدمه §۱ الگو](core_00_preamble.md#the-model)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — بسط هدف **تداوم**؛ [۳. هدف بنیادین: بهزیستی](#3-foundational-objective-wellbeing-flourishing-aim)، [§۶ اعتماد و اعتمادپذیری](#6-trust-and-trustworthiness-coordination-integrity) و [§۷ آزادی](#7-freedom-bounded-agency).
-- پیامدهای پایین‌دستی: [§۱۳.۳ کمینه‌سازی بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، [۱۸. حکمرانی با انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) و [§۱۹.۱.۳ کاربرد سرپرستی و اپراتوری](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
+- پیامدهای پایین‌دستی: [§۱۳.۳ کمینه‌سازی بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب)، [۱۸. حکمرانی با انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی) و [§۱۹.۱.۳ کاربرد سرپرستی و اپراتوری](core_01_c_stewardship_capacity_principles.md#۱۹۱۳-کاربرد-برای-سرپرستان-و-اپراتورها).
 - پیامدهای پایین‌دستی: **CJS-3.11.1 — انضباط تعیین آستانهٔ تمرکز (قابل تنظیم توسط پذیرنده)** (قواعد اجرایی تعیین آستانه).
-- پیامدهای پایین‌دستی: سطح حقوق مربوط به پیش‌شرط‌های بوم‌شناختی، تخصیص منابع، ظرفیت آموزشی و رشدی، تاب‌آوری چرخهٔ عمر، تعامل‌پذیری، فهم‌پذیری و پاسخ‌گویی سازگارانه را شکل می‌دهد؛ به‌ویژه [مادهٔ I-A: پیش‌شرط‌های زیست‌محیطی و یکپارچگی بوم‌شناختی](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)، [مادهٔ III: بقا و دسترسی اساسی](core_06_rights_part_a.md#article-iii-survival-and-essential-access)، [مادهٔ V: تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)، [مادهٔ X: خودتعیین‌گری، عاملیت و مشارکت](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)، [مادهٔ XVII: چرخهٔ عمر سامانه، محیط‌ها و برگشت‌پذیری](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [مادهٔ XXI: تعامل‌پذیری، انتقال‌پذیری، جابه‌جایی، پناه و سلامت خروج](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)، [مادهٔ XXII: فهم‌پذیری و سرپرستی پیچیدگی](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) و [مادهٔ XXIII: تحلیل علت ریشه‌ای و پاسخ‌گویی سازگارانه](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response).
-- زیربخش‌ها (ترتیب مطالعه): [§۹.۱ ظرفیت مولد (خیر ابزاری)](#91-productive-capacity-instrumental-good) · [§۹.۱.۱ حفظ، گسترش و آنچه به حساب نمی‌آید](#911-preserve-expand-and-what-does-not-count) · [§۹.۲ کارایی قانون اساسی](#92-constitutional-efficiency).
+- پیامدهای پایین‌دستی: سطح حقوق مربوط به پیش‌شرط‌های بوم‌شناختی، تخصیص منابع، ظرفیت آموزشی و رشدی، تاب‌آوری چرخهٔ عمر، تعامل‌پذیری، فهم‌پذیری و پاسخ‌گویی سازگارانه را شکل می‌دهد؛ به‌ویژه [مادهٔ I-A: پیش‌شرط‌های زیست‌محیطی و یکپارچگی بوم‌شناختی](core_06_rights_part_a.md#اصل-i-a-پیششرطهای-محیطی-و-یکپارچگی-بومشناختی)، [مادهٔ III: بقا و دسترسی اساسی](core_06_rights_part_a.md#اصل-iii-بقا-و-دسترسی-اساسی)، [مادهٔ V: تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم](core_06_rights_part_a.md#اصل-v-تخصیص-منابع-وابستگیها-و-تأمین-زیستبوم)، [مادهٔ X: خودتعیین‌گری، عاملیت و مشارکت](core_06_rights_part_b.md#ماده-دهم-خودتعیینگری-عاملیت-و-مشارکت)، [مادهٔ XVII: چرخهٔ عمر سامانه، محیط‌ها و برگشت‌پذیری](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [مادهٔ XXI: تعامل‌پذیری، انتقال‌پذیری، جابه‌جایی، پناه و سلامت خروج](core_06_rights_part_d.md#ماده-xxi-تعاملپذیری-انتقالپذیری-و-یکپارچگی-خروج)، [مادهٔ XXII: فهم‌پذیری و سرپرستی پیچیدگی](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) و [مادهٔ XXIII: تحلیل علت ریشه‌ای و پاسخ‌گویی سازگارانه](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response).
+- زیربخش‌ها (ترتیب مطالعه): [§۹.۱ ظرفیت مولد (خیر ابزاری)](#91-ظرفیت-تولیدی-خیر-ابزاری) · [§۹.۱.۱ حفظ، گسترش و آنچه به حساب نمی‌آید](#911-حفظ-گسترش-و-آنچه-به-شمار-نمیآید) · [§۹.۲ کارایی قانون اساسی](#92-کارآمدی-قانون-اساسی).
 
 </details>
 
@@ -1205,7 +1205,7 @@ flowchart TB
 - [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [بار اجتناب‌پذیر](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [واگرایی شاخص جانشین](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [واگرایی شاخص جانشین](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [O](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 - [یکپارچگی بوم‌شناختی](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
 - [پیش‌شرط‌های زیست‌محیطی](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
 - [مسئولیت میان‌نسلی](core_05_band_continuity.md#intergenerational-responsibility) · [O](core_05_band_continuity.md#intergenerational-responsibility) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
@@ -1214,16 +1214,16 @@ flowchart TB
 
 <br>
 
-*به زبان ساده: سامانه‌های مشترک باید در بلندمدت برای موجودات ذی‌شعور کار کنند. موجودات ذی‌شعور باید بتوانند کار سودمند انجام دهند، زندگی را به‌مرور بهتر کنند و وقتی مشکلی هست اعتراض کنند، بی‌آنکه چند بازیگر قدرتمند دیگران را کنار بزنند. این توان ماندگار **ظرفیت سامانهٔ مشترک** است. **[§۹.۱ ظرفیت مولد (خیر ابزاری)](#91-productive-capacity-instrumental-good)** می‌پرسد آیا موجودات ذی‌شعور به نتایج واقعی می‌رسند. **[§۹.۲ کارایی قانون اساسی](#92-constitutional-efficiency)** می‌پرسد آیا این نتایج بدون هدر دادن وقت، پول و توجه کسی حاصل می‌شوند. اگر دستاوردها از انباشت ثروت یا قدرت، جعل ارقام، سلب حقوق یا تحمیل زیان به دیگران یا سیاره ناشی شوند، هیچ‌کدام به حساب نمی‌آیند؛ **[§۹.۱.۱ حفظ، گسترش و آنچه به حساب نمی‌آید](#911-preserve-expand-and-what-does-not-count)** این موضوع را روشن می‌کند. **[§۱۱ ساختار بازار](#11-market-structure)** مانع تسلط چند بازیگر محدود می‌شود.*
+*به زبان ساده: سامانه‌های مشترک باید در بلندمدت برای موجودات ذی‌شعور کار کنند. موجودات ذی‌شعور باید بتوانند کار سودمند انجام دهند، زندگی را به‌مرور بهتر کنند و وقتی مشکلی هست اعتراض کنند، بی‌آنکه چند بازیگر قدرتمند دیگران را کنار بزنند. این توان ماندگار **ظرفیت سامانهٔ مشترک** است. **[§۹.۱ ظرفیت مولد (خیر ابزاری)](#91-ظرفیت-تولیدی-خیر-ابزاری)** می‌پرسد آیا موجودات ذی‌شعور به نتایج واقعی می‌رسند. **[§۹.۲ کارایی قانون اساسی](#92-کارآمدی-قانون-اساسی)** می‌پرسد آیا این نتایج بدون هدر دادن وقت، پول و توجه کسی حاصل می‌شوند. اگر دستاوردها از انباشت ثروت یا قدرت، جعل ارقام، سلب حقوق یا تحمیل زیان به دیگران یا سیاره ناشی شوند، هیچ‌کدام به حساب نمی‌آیند؛ **[§۹.۱.۱ حفظ، گسترش و آنچه به حساب نمی‌آید](#911-حفظ-گسترش-و-آنچه-به-شمار-نمیآید)** این موضوع را روشن می‌کند. **[§۱۱ ساختار بازار](#11-ساختار-بازار)** مانع تسلط چند بازیگر محدود می‌شود.*
 
-شکوفایی هدف است: زندگی خوب برای موجودات ذی‌شعور. این بخش نیمهٔ تداوم فصل را می‌گشاید و می‌پرسد چه چیزی آن را در بلندمدت پایدار نگه می‌دارد. پاسخ، سامانه‌های مشترکی است که کار واقعی را ادامه می‌دهند و موجودات ذی‌شعور هنوز می‌توانند آن‌ها را زیر سؤال ببرند و به چالش بکشند. ادعاها دربارهٔ این توانایی باید صادقانه باشند. آن‌ها با آنچه کل سامانه در گذر زمان واقعاً انجام می‌دهد سنجیده می‌شوند، چنان‌که [§۱۲ الزام ارزیابی سیستمی](#12-systemic-evaluation-requirement) مقرر می‌کند.
+شکوفایی هدف است: زندگی خوب برای موجودات ذی‌شعور. این بخش نیمهٔ تداوم فصل را می‌گشاید و می‌پرسد چه چیزی آن را در بلندمدت پایدار نگه می‌دارد. پاسخ، سامانه‌های مشترکی است که کار واقعی را ادامه می‌دهند و موجودات ذی‌شعور هنوز می‌توانند آن‌ها را زیر سؤال ببرند و به چالش بکشند. ادعاها دربارهٔ این توانایی باید صادقانه باشند. آن‌ها با آنچه کل سامانه در گذر زمان واقعاً انجام می‌دهد سنجیده می‌شوند، چنان‌که [§۱۲ الزام ارزیابی سیستمی](#12-الزام-ارزیابی-نظاممند) مقرر می‌کند.
 
 **[ظرفیت سامانهٔ مشترک](core_05_band_continuity.md#shared-system-capacity)** حاصل نهاییِ مورد انتظار از [سرپرستی](core_05_band_continuity.md#stewardship) و [حکمرانی](core_05_band_accountability.md#governance) خوب در گذر زمان است: توان پایدار موجودات ذی‌شعور و سامانه‌های مشترک برای انجام آنچه این قانون اساسی لازم می‌داند، همراه با حفظ امکان به‌چالش‌کشیدن آن. این ظرفیت **وسیله‌ای** برای هدف **شکوفایی** و هستهٔ هدف **تداوم** است. اما هرگز دلیلی برای نادیده‌گرفتن ایمنی، حقیقت، حقوق یا بوم‌شناسی نیست.
 
 این ظرفیت چند بُعد دارد که با هم کار می‌کنند:
-- **[ظرفیت مولد](core_05_band_continuity.md#productive-capacity)** — آیا موجودات ذی‌شعور می‌توانند مشارکت کنند، سهمی داشته باشند و به نتایج واقعی برسند؟ ([§۹.۱ ظرفیت مولد (خیر ابزاری)](#91-productive-capacity-instrumental-good))
-- **[کارایی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency)** — آیا این نتایج بدون هدر دادن وقت، توجه، مواد، زیرساخت و انرژی موجودات ذی‌شعور حاصل می‌شوند؟ ([§۹.۲ کارایی قانون اساسی](#92-constitutional-efficiency))
-- **انضباط مقابله با تمرکز** — آیا موجودات ذی‌شعور هنوز می‌توانند اعتراض کنند، رقابت کنند و از سامانه خارج شوند؟ ([§۱۱ ساختار بازار](#11-market-structure))
+- **[ظرفیت مولد](core_05_band_continuity.md#productive-capacity)** — آیا موجودات ذی‌شعور می‌توانند مشارکت کنند، سهمی داشته باشند و به نتایج واقعی برسند؟ ([§۹.۱ ظرفیت مولد (خیر ابزاری)](#91-ظرفیت-تولیدی-خیر-ابزاری))
+- **[کارایی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency)** — آیا این نتایج بدون هدر دادن وقت، توجه، مواد، زیرساخت و انرژی موجودات ذی‌شعور حاصل می‌شوند؟ ([§۹.۲ کارایی قانون اساسی](#92-کارآمدی-قانون-اساسی))
+- **انضباط مقابله با تمرکز** — آیا موجودات ذی‌شعور هنوز می‌توانند اعتراض کنند، رقابت کنند و از سامانه خارج شوند؟ ([§۱۱ ساختار بازار](#11-ساختار-بازار))
 - **نمایندگی منصفانهٔ ذی‌نفعان، امکان خروج، رقابت‌پذیری و پیش‌شرط‌های بوم‌شناختی** — آیا ذی‌نفعان متأثر منصفانه نمایندگی می‌شوند و آیا شرایط زمینه‌ای ظرفیت را واقعی و نه توخالی نگه می‌دارند؟
 
 **چگونگی سنجش این ظرفیت:**
@@ -1238,7 +1238,7 @@ flowchart TB
   - [تناسب](core_05_band_accountability.md#proportionality).
 - **آنچه اصطکاک بیهوده و سنجه‌های ناراست را آشکار می‌کند:**
   - [بار اجتناب‌پذیر](core_05_band_continuity.md#avoidable-burden)؛ و
-  - [واگرایی شاخص جانشین](core_05_band_oversight.md#proxy-divergence).
+  - [واگرایی شاخص جانشین](core_05_band_oversight.md#واگرایی-شاخص-جانشین).
 - **آنچه ظرفیت را در گذر زمان به جهانی زیست‌پذیر پیوند می‌دهد:**
   - [یکپارچگی بوم‌شناختی](core_05_band_continuity.md#ecological-integrity)؛
   - [پیش‌شرط‌های زیست‌محیطی](core_05_band_continuity.md#environmental-preconditions)؛ و
@@ -1250,8 +1250,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- همراه با [§9 ظرفیت نظام مشترک](#9-shared-system-capacity) خوانده شود.
-- زیربخش‌ها (به‌ترتیب مطالعه): [§9.1.1 حفظ، گسترش و آنچه به شمار نمی‌آید](#911-preserve-expand-and-what-does-not-count).
+- همراه با [§9 ظرفیت نظام مشترک](#۹-ظرفیت-سامانه-مشترک) خوانده شود.
+- زیربخش‌ها (به‌ترتیب مطالعه): [§9.1.1 حفظ، گسترش و آنچه به شمار نمی‌آید](#911-حفظ-گسترش-و-آنچه-به-شمار-نمیآید).
 
 </details>
 
@@ -1263,7 +1263,7 @@ flowchart TB
 - [کارآمدی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 - [بهزیستی](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 - [کرامت و جایگاه اخلاقی برابر](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [واگراییِ نماینده](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [واگراییِ نماینده](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [O](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 - [یکپارچگی بوم‌شناختی](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
 - [پیش‌شرط‌های محیط‌زیستی](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
 - [مسئولیت بین‌نسلی](core_05_band_continuity.md#intergenerational-responsibility) · [O](core_05_band_continuity.md#intergenerational-responsibility) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
@@ -1272,7 +1272,7 @@ flowchart TB
 
 <br>
 
-*به زبان ساده: ظرفیت تولیدی جنبهٔ «آیا واقعاً می‌توانیم کارها را انجام دهیم؟» در ظرفیت نظام مشترک است. آیا موجودات حساس می‌توانند مشارکت کنند، یاد بگیرند، سهم داشته باشند و تلاش و منابع را به نتایجی تبدیل کنند که زندگی را بهتر می‌کند—و این توانایی را در گذر زمان حفظ کنند؟ این ابزاری برای زندگی بهتر است. آنچه باید حفظ شود و آنچه به شمار نمی‌آید در [§9.1.1 حفظ، گسترش و آنچه به شمار نمی‌آید](#911-preserve-expand-and-what-does-not-count) آمده است.*
+*به زبان ساده: ظرفیت تولیدی جنبهٔ «آیا واقعاً می‌توانیم کارها را انجام دهیم؟» در ظرفیت نظام مشترک است. آیا موجودات حساس می‌توانند مشارکت کنند، یاد بگیرند، سهم داشته باشند و تلاش و منابع را به نتایجی تبدیل کنند که زندگی را بهتر می‌کند—و این توانایی را در گذر زمان حفظ کنند؟ این ابزاری برای زندگی بهتر است. آنچه باید حفظ شود و آنچه به شمار نمی‌آید در [§9.1.1 حفظ، گسترش و آنچه به شمار نمی‌آید](#911-حفظ-گسترش-و-آنچه-به-شمار-نمیآید) آمده است.*
 
 **[ظرفیت تولیدی](core_05_band_continuity.md#productive-capacity)** یکی از جنبه‌های **[ظرفیت نظام مشترک](core_05_band_continuity.md#shared-system-capacity)** است. این اصطلاح به توانایی پایدار موجودات حساس و نظام‌های مشترک برای موارد زیر اشاره دارد:
 - پشتیبانی از مشارکت واقعی، سهم‌آفرینی و پرورش مهارت؛ و
@@ -1286,7 +1286,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- همراه با [§9.2 کارآمدی قانون اساسی](#92-constitutional-efficiency)؛ [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)؛ [§13.2.4 بی‌اعتبارسازی به‌سبب واگراییِ نماینده](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)؛ [§14 منع چیرگی مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)؛ [مادهٔ I-A: پیش‌شرط‌های محیط‌زیستی و یکپارچگی بوم‌شناختی](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) خوانده شود.
+- همراه با [§9.2 کارآمدی قانون اساسی](#92-کارآمدی-قانون-اساسی)؛ [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)؛ [§13.2.4 بی‌اعتبارسازی به‌سبب واگراییِ نماینده](core_01_b_interaction_interpretation.md#1324-بیاعتباری-ناشی-از-واگرایی-شاخص-جانشین)؛ [§14 منع چیرگی مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)؛ [مادهٔ I-A: پیش‌شرط‌های محیط‌زیستی و یکپارچگی بوم‌شناختی](core_06_rights_part_a.md#اصل-i-a-پیششرطهای-محیطی-و-یکپارچگی-بومشناختی) خوانده شود.
 - همراه با [§4 ایمنی (قید آسیب)](#4-safety-harm-constraint)؛ [§5 حقیقت (قید یکپارچگی معرفتی)](#5-truth-epistemic-integrity-constraint)؛ [6. اعتماد](#6-trust-and-trustworthiness-coordination-integrity)؛ [§7 آزادی (عاملیت محدود)](#7-freedom-bounded-agency) خوانده شود.
 
 </details>
@@ -1295,7 +1295,7 @@ flowchart TB
 
 *به زبان ساده: توانایی انجام کارها را حفظ کنید و هر جا شدنی است، هنگامی که این کار اتلاف وقت همگان را کاهش می‌دهد آن را گسترش دهید—اما نه با انباشت انحصاری، دست‌کاری ارقام، پایمال‌کردن حقوق یا تحمیل آسیب به دیگران یا سیاره. سنجه‌هایی که دیگر نتایج واقعی را اثبات نمی‌کنند به شمار نمی‌آیند.*
 
-نظام‌ها باید ظرفیت تولیدی را حفظ کنند و، هر جا شدنی است، هنگامی که گسترش آن [کارآمدی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency) را بهبود می‌دهد، آن را افزایش دهند ([§9.2 کارآمدی قانون اساسی](#92-constitutional-efficiency)).
+نظام‌ها باید ظرفیت تولیدی را حفظ کنند و، هر جا شدنی است، هنگامی که گسترش آن [کارآمدی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency) را بهبود می‌دهد، آن را افزایش دهند ([§9.2 کارآمدی قانون اساسی](#92-کارآمدی-قانون-اساسی)).
 
 **این تعهد:**
 
@@ -1304,11 +1304,11 @@ flowchart TB
   - حقیقت؛
   - اعتماد؛
   - آزادی؛
-  - کف حقوق فصل ششم، از جمله [مادهٔ I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*پیش‌شرط‌های محیط‌زیستی و یکپارچگی بوم‌شناختی*):
+  - کف حقوق فصل ششم، از جمله [مادهٔ I-A](core_06_rights_part_a.md#اصل-i-a-پیششرطهای-محیطی-و-یکپارچگی-بومشناختی) (*پیش‌شرط‌های محیط‌زیستی و یکپارچگی بوم‌شناختی*):
     - [یکپارچگی بوم‌شناختی](core_05_band_continuity.md#ecological-integrity)؛
     - [پیش‌شرط‌های محیط‌زیستی](core_05_band_continuity.md#environmental-preconditions)؛ و
     - [مسئولیت بین‌نسلی](core_05_band_continuity.md#intergenerational-responsibility).
-  - محدودیت‌های سخت [§2.1 قیود غیرقابل‌مذاکرهٔ اصول: ایمنی و حقیقت](#21-non-negotiable-principle-constraints-safety-and-truth): ایمنی و حقیقت را هرگز نباید در برابر هیچ هدف دیگری واگذاشت.
+  - محدودیت‌های سخت [§2.1 قیود غیرقابل‌مذاکرهٔ اصول: ایمنی و حقیقت](#۲۱-محدودیتهای-اصولی-غیرقابلمذاکره-ایمنی-و-حقیقت): ایمنی و حقیقت را هرگز نباید در برابر هیچ هدف دیگری واگذاشت.
 - **معیار داوری:** نتایجِ ردیابی‌شده بر اساس **فصل‌های چهار و پنج**.
 - **شیوهٔ اثبات:** شواهد، نه شعارها.
 
@@ -1320,13 +1320,13 @@ flowchart TB
 - **شمردن چیزهای نادرست:**
   - توان‌گذر خام، حجم تولید، میزان بهره‌برداری، شمار کارکنان، درآمد، رشد دارایی، سهم بازار یا نماینده‌های مشابهی که دیگر نتایج واقعی را نشان نمی‌دهند—از جمله نماینده‌هایی که «رشد» را نشان می‌دهند در حالی که آسیب به موجودات حساس، نسل‌های آینده یا محیط‌زیست منتقل می‌شود؛
 - **تضعیف حمایت‌ها:**
-  - محدودکردن یا به‌تعویق‌انداختن کف حقوق فصل ششم، از جمله پیش‌شرط‌های بوم‌شناختی موضوع [مادهٔ I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*پیش‌شرط‌های محیط‌زیستی و یکپارچگی بوم‌شناختی*)؛
+  - محدودکردن یا به‌تعویق‌انداختن کف حقوق فصل ششم، از جمله پیش‌شرط‌های بوم‌شناختی موضوع [مادهٔ I-A](core_06_rights_part_a.md#اصل-i-a-پیششرطهای-محیطی-و-یکپارچگی-بومشناختی) (*پیش‌شرط‌های محیط‌زیستی و یکپارچگی بوم‌شناختی*)؛
   - تضعیف تکالیف حسابرسی، امکان به چالش کشیدن یا بازبینی پسینی؛
 - **دورزدن قواعد سنجش و موازنهٔ اصول:**
-  - دورزدن [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، از جمله الزامات [سند ثبت تعارض قانون اساسی](core_05_band_integrative.md#constitutional-collision-record)؛ یا
+  - دورزدن [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، از جمله الزامات [سند ثبت تعارض قانون اساسی](core_05_band_integrative.md#constitutional-collision-record)؛ یا
   - سایر مسیرهای ممنوعِ چیرگی در [§14 منع چیرگی مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)، از جمله خارج‌کردن آسیب‌های بوم‌شناختی، بین‌نسلی یا توزیعی از دفاتر ثبت، در حالی که **فصل‌های دو تا چهار** مقرر می‌کنند این آسیب‌ها آشکار بمانند.
 
-هرگاه ادعاهای مربوط به ظرفیت تولیدی بر سنجه‌هایی تکیه داشته باشند که دیگر نتایج واقعی را اثبات نمی‌کنند—از جمله سنجه‌هایی که آسیب بوم‌شناختی، آسیب آینده یا زیان ناشی از تمرکز را پنهان می‌کنند—[§13.2.4 بی‌اعتبارسازی به‌سبب واگراییِ نماینده](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) اعمال می‌شود.
+هرگاه ادعاهای مربوط به ظرفیت تولیدی بر سنجه‌هایی تکیه داشته باشند که دیگر نتایج واقعی را اثبات نمی‌کنند—از جمله سنجه‌هایی که آسیب بوم‌شناختی، آسیب آینده یا زیان ناشی از تمرکز را پنهان می‌کنند—[§13.2.4 بی‌اعتبارسازی به‌سبب واگراییِ نماینده](core_01_b_interaction_interpretation.md#1324-بیاعتباری-ناشی-از-واگرایی-شاخص-جانشین) اعمال می‌شود.
 
 <a id="92-constitutional-efficiency"></a>
 #### 9.2 کارآمدی قانون اساسی
@@ -1377,12 +1377,12 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - همراه با [سازوکار چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — پایه‌های **نظارت** و **پاسخ‌گویی**؛ تعیین عمق بازیابی و حسابرسی بر اساس [مصلحت مادی](core_00_preamble.md#material-stake).
-- بالادست: [§9 ظرفیت نظام مشترک](#9-shared-system-capacity) — ظرفیت پایدار که تاب‌آوری از آن محافظت می‌کند و آن را بازمی‌گرداند.
+- بالادست: [§9 ظرفیت نظام مشترک](#۹-ظرفیت-سامانه-مشترک) — ظرفیت پایدار که تاب‌آوری از آن محافظت می‌کند و آن را بازمی‌گرداند.
 - همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **پیوستگی** (انضباط تاب‌آوری و خودترمیمی)؛ هدف **شکوفایی** (بازیابی قابل‌اعتماد بدون افت معرفتی).
 - اصول بالادست: [مقدمه §1 الگو](core_00_preamble.md#the-model)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)؛ [4 ایمنی](#4-safety-harm-constraint)، [5 حقیقت](#5-truth-epistemic-integrity-constraint) و [§6 اعتماد](#6-trust-and-trustworthiness-coordination-integrity).
-- پایین‌دست: [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، [§13.3 به‌حداقل‌رساندن بار قابل‌اجتناب](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، [فصل نه §3 ارزیابی گواهی‌دهی کل‌نظام](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)، و [14. منع چیرگی مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پایین‌دست: [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، [§13.3 به‌حداقل‌رساندن بار قابل‌اجتناب](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب)، [فصل نه §3 ارزیابی گواهی‌دهی کل‌نظام](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)، و [14. منع چیرگی مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - پایین‌دست: سطح حقوق مربوط به قابلیت اطمینان همراه با بازیابی، صداقت در تحلیل علت ریشه‌ای، برگشت‌پذیری و فهم‌پذیری وضعیت‌های مختل و در حال بازسازی را شکل می‌دهد.
-  - به‌ویژه [مادهٔ XIII: حق برخورداری از نظام‌های قابل‌اعتماد و مطمئن](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (از جمله **مادهٔ XIII-F** (*مبنای تاب‌آوری و خودترمیمی*))، [مادهٔ XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)، [مادهٔ XVII: چرخهٔ عمر نظام، محیط‌ها و برگشت‌پذیری](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [مادهٔ XXII: فهم‌پذیری و سرپرستی پیچیدگی](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)، و [مادهٔ XXIII: تحلیل علت ریشه‌ای و واکنش انطباقی](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response).
+  - به‌ویژه [مادهٔ XIII: حق برخورداری از نظام‌های قابل‌اعتماد و مطمئن](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد) (از جمله **مادهٔ XIII-F** (*مبنای تاب‌آوری و خودترمیمی*))، [مادهٔ XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](core_06_rights_part_c.md#ماده-xvi-حسابرسی-شفافیت-و-تأیید-مستقل)، [مادهٔ XVII: چرخهٔ عمر نظام، محیط‌ها و برگشت‌پذیری](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)، [مادهٔ XXII: فهم‌پذیری و سرپرستی پیچیدگی](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)، و [مادهٔ XXIII: تحلیل علت ریشه‌ای و واکنش انطباقی](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response).
 
 </details>
 
@@ -1393,7 +1393,7 @@ flowchart TB
 - [خرابی زنجیره‌ای](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
 - [برگشت‌پذیری](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [بار قابل‌اجتناب](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [هم‌راستایی انگیزه‌ها](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment) · [A](core_05_band_integrative.md#incentive-alignment) · [C](core_05_band_integrative.md#incentive-alignment)
+- [هم‌راستایی انگیزه‌ها](core_05_band_integrative.md#همراستایی-انگیزه) · [O](core_05_band_integrative.md#همراستایی-انگیزه) · [M](core_05_band_integrative.md#همراستایی-انگیزه) · [A](core_05_band_integrative.md#همراستایی-انگیزه) · [C](core_05_band_integrative.md#همراستایی-انگیزه)
 
 </details>
 
@@ -1407,24 +1407,24 @@ flowchart TB
 - در مسیرهایی ازکارافتاده شوند که برنامه‌ریزی و اعلام شده‌اند، نه در مسیرهای پنهان؛
 - به شیوه‌ای بازیابی شوند که با [برگشت‌پذیری](core_05_band_continuity.md#reversibility) و کف حقوق فصل ششم سازگار باشد.
 
-فصل پنج این را [**خودترمیمی**](core_05_band_continuity.md#self-healing) می‌نامد—و این فقط وقتی مشروع است که نظام را دربارهٔ وضعیت خودش صادق‌تر کند، نه کمتر. بازیابی خودکاری که علت ریشه‌ای را می‌پوشاند، شواهد را سرکوب می‌کند یا جایگزین حکمرانی می‌شود خودترمیمی نیست؛ نقض [حقیقت](core_05_band_oversight.md#truth-constitutional-constraint) و نقص [هم‌راستایی انگیزه‌ها](core_05_band_integrative.md#incentive-alignment) است.
+فصل پنج این را [**خودترمیمی**](core_05_band_continuity.md#self-healing) می‌نامد—و این فقط وقتی مشروع است که نظام را دربارهٔ وضعیت خودش صادق‌تر کند، نه کمتر. بازیابی خودکاری که علت ریشه‌ای را می‌پوشاند، شواهد را سرکوب می‌کند یا جایگزین حکمرانی می‌شود خودترمیمی نیست؛ نقض [حقیقت](core_05_band_oversight.md#حقیقت-قید-قانون-اساسی) و نقص [هم‌راستایی انگیزه‌ها](core_05_band_integrative.md#همراستایی-انگیزه) است.
 
 هرچه موجودات حساس بیشتر به نظامی وابسته باشند و اثر آن بزرگ‌تر باشد، آن نظام باید کمتر به مداخلهٔ اضطراری متکی شود. در عوض باید روی خودبازیابیِ آزموده‌شده، حسابرسی‌شده و محدود سرمایه‌گذاری کند—تا [بار قابل‌اجتناب](core_05_band_continuity.md#avoidable-burden) را کاهش دهد و از [**پیوستگی**](#continuity) بلندمدت پشتیبانی کند.
 
-جزئیات اجرایی—تشخیص بازیابی، مهار، ترجیح ازکارافتادگی ایمن، بستن بررسی علت ریشه‌ای و تداوم کف حقوق—در فصل ششم، در [مادهٔ XIII-F](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*مبنای تاب‌آوری و خودترمیمی*) قرار دارد؛ الزامات معماری بازیابی نیز در متن اجراییِ ارجاع‌شده آمده است.
+جزئیات اجرایی—تشخیص بازیابی، مهار، ترجیح ازکارافتادگی ایمن، بستن بررسی علت ریشه‌ای و تداوم کف حقوق—در فصل ششم، در [مادهٔ XIII-F](core_06_rights_part_c.md#ماده-xiii-حق-بر-سیستم-های-قابل-اعتماد-و-قابل-اعتماد) (*مبنای تاب‌آوری و خودترمیمی*) قرار دارد؛ الزامات معماری بازیابی نیز در متن اجراییِ ارجاع‌شده آمده است.
 
 <a id="11-market-structure"></a>
 ### 11. ساختار بازار
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- همراه با [سازوکار چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — مشارکت، نظارت، پاسخ‌گویی و به‌موقع‌بودن، هرجا تمرکز یا سلطه صدا، وارسی، پاسخ‌گویی یا اصلاح به‌موقع را از میان می‌برد؛ تعیین دامنه بر اساس [مصلحت مادی](core_00_preamble.md#material-stake) (به‌ویژه [§11.2 رقابت‌افزایی و مقابله با سلطه](#112-pro-competition-and-anti-domination)).
+- همراه با [سازوکار چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — مشارکت، نظارت، پاسخ‌گویی و به‌موقع‌بودن، هرجا تمرکز یا سلطه صدا، وارسی، پاسخ‌گویی یا اصلاح به‌موقع را از میان می‌برد؛ تعیین دامنه بر اساس [مصلحت مادی](core_00_preamble.md#material-stake) (به‌ویژه [§11.2 رقابت‌افزایی و مقابله با سلطه](#112-رقابتافزایی-و-مقابله-با-سلطه)).
 - همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **پیوستگی** (شرایط تولیدیِ بادوام و قابل‌رقابت)؛ هدف **شکوفایی** (دسترسی منصفانه به مسیرهای معیشت، عاملیت و نوآوری).
-- اصول بالادست: [§9 ظرفیت نظام مشترک](#9-shared-system-capacity) — ادعاهای ظرفیت تولیدی و کارآمدی هنگامی شکست می‌خورند که تمرکز یا سلطه آن‌ها را تهی کند؛ [18. حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- پایین‌دست: [فصل یازده §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (اخلال مبتنی بر تمرکز)؛ [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 بی‌اعتبارسازی به‌سبب واگراییِ نماینده](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
-- پایین‌دست: **CJS-3.11.1 — انضباط تعیین آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)** (قواعد [§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable) و [§11.4](#114-resource-and-dependency-concentration-adopter-tunable) برای کاربرد آن)؛ **CJS-3.11.2 — فهرست رفتار و جبران سلطه‌گرانه** ([§11.2](#112-pro-competition-and-anti-domination) رفتار ممنوع و راهکارهای آن)؛ **CJS-3.11.3 — انضباط تعیین سقف ادغام (قابل‌تنظیم توسط پذیرنده)** ([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) نحوهٔ تعیین سقف).
-- پایین‌دست: سطح حقوق مربوط به تخصیص منابع، جبران منصفانه، سازمان‌یابی جمعی، تعامل‌پذیری، خروج و بازبینی ضدتسخیر را شکل می‌دهد؛ به‌ویژه [مادهٔ III-C: کف کار و اقتصاد](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)، [مادهٔ V: تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding)، و [مادهٔ XXI: تعامل‌پذیری، حمل‌پذیری، جابه‌جایی، پناه و سلامت خروج](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
-- زیربخش‌ها (به‌ترتیب مطالعه): [§11.1 سازوکار آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](#111-market-concentration-threshold-mechanism-adopter-tunable) · [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-concentration-threshold-triggers-adopter-tunable) · [§11.2 رقابت‌افزایی و مقابله با سلطه](#112-pro-competition-and-anti-domination) · [§11.3 سقف ادغام](#113-consolidation-ceiling) · [§11.4 تمرکز منابع و وابستگی (قابل‌تنظیم توسط پذیرنده)](#114-resource-and-dependency-concentration-adopter-tunable).
+- اصول بالادست: [§9 ظرفیت نظام مشترک](#۹-ظرفیت-سامانه-مشترک) — ادعاهای ظرفیت تولیدی و کارآمدی هنگامی شکست می‌خورند که تمرکز یا سلطه آن‌ها را تهی کند؛ [18. حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی).
+- پایین‌دست: [فصل یازده §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (اخلال مبتنی بر تمرکز)؛ [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی) ([§13.2.4 بی‌اعتبارسازی به‌سبب واگراییِ نماینده](core_01_b_interaction_interpretation.md#1324-بیاعتباری-ناشی-از-واگرایی-شاخص-جانشین)).
+- پایین‌دست: **CJS-3.11.1 — انضباط تعیین آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)** (قواعد [§11.1](#111-سازوکار-آستانه-تمرکز-بازار-قابلتنظیم-توسط-پذیرنده) و [§11.4](#114-تمرکز-منابع-و-وابستگی-قابلتنظیم-توسط-پذیرنده) برای کاربرد آن)؛ **CJS-3.11.2 — فهرست رفتار و جبران سلطه‌گرانه** ([§11.2](#112-رقابتافزایی-و-مقابله-با-سلطه) رفتار ممنوع و راهکارهای آن)؛ **CJS-3.11.3 — انضباط تعیین سقف ادغام (قابل‌تنظیم توسط پذیرنده)** ([§11.3.2](#1132-سازوکار-سقف-ادغام-قابلتنظیم-توسط-پذیرنده) نحوهٔ تعیین سقف).
+- پایین‌دست: سطح حقوق مربوط به تخصیص منابع، جبران منصفانه، سازمان‌یابی جمعی، تعامل‌پذیری، خروج و بازبینی ضدتسخیر را شکل می‌دهد؛ به‌ویژه [مادهٔ III-C: کف کار و اقتصاد](core_06_rights_part_a.md#اصل-iii-c-کف-کار-و-اقتصاد)، [مادهٔ V: تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم](core_06_rights_part_a.md#اصل-v-تخصیص-منابع-وابستگیها-و-تأمین-زیستبوم)، و [مادهٔ XXI: تعامل‌پذیری، حمل‌پذیری، جابه‌جایی، پناه و سلامت خروج](core_06_rights_part_d.md#ماده-xxi-تعاملپذیری-انتقالپذیری-و-یکپارچگی-خروج).
+- زیربخش‌ها (به‌ترتیب مطالعه): [§11.1 سازوکار آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](#111-سازوکار-آستانه-تمرکز-بازار-قابلتنظیم-توسط-پذیرنده) · [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-محرکهای-آستانه-تمرکز-قابلتنظیم-توسط-پذیرنده) · [§11.2 رقابت‌افزایی و مقابله با سلطه](#112-رقابتافزایی-و-مقابله-با-سلطه) · [§11.3 سقف ادغام](#113-سقف-ادغام) · [§11.4 تمرکز منابع و وابستگی (قابل‌تنظیم توسط پذیرنده)](#114-تمرکز-منابع-و-وابستگی-قابلتنظیم-توسط-پذیرنده).
 
 </details>
 
@@ -1434,7 +1434,7 @@ flowchart TB
 - [ساختار بازار](core_05_band_accountability.md#market-structure) · [O](core_05_band_accountability.md#market-structure) · [M](core_05_band_accountability.md#market-structure-constitutional-a) · [A](core_05_band_accountability.md#market-structure-constitutional-a) · [C](core_05_band_accountability.md#market-structure-constitutional-c)
 - [آستانهٔ تمرکز بازار](core_05_band_accountability.md#market-concentration-threshold) · [O](core_05_band_accountability.md#market-concentration-threshold) · [M](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [رقابت‌پذیری](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [واگراییِ نماینده](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [واگراییِ نماینده](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [O](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 - [وابستگی](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [عاملیت معنادار](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
@@ -1453,7 +1453,7 @@ flowchart TB
 - کانال‌های دسترسی به سرمایه؛ و
 - دروازه‌بانی در عرصهٔ اطلاعات.
 
-ادعاهای **[ظرفیت تولیدی](core_05_band_continuity.md#productive-capacity)** و **[کارآمدی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency)** تحت **[§9 ظرفیت نظام مشترک](#9-shared-system-capacity)** در جایی بی‌اعتبارند که ساختار بازار تمرکز، سلطه یا ادغامی را ممکن کند که به‌طور قابل‌پیش‌بینی موارد زیر را تضعیف می‌کند:
+ادعاهای **[ظرفیت تولیدی](core_05_band_continuity.md#productive-capacity)** و **[کارآمدی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency)** تحت **[§9 ظرفیت نظام مشترک](#۹-ظرفیت-سامانه-مشترک)** در جایی بی‌اعتبارند که ساختار بازار تمرکز، سلطه یا ادغامی را ممکن کند که به‌طور قابل‌پیش‌بینی موارد زیر را تضعیف می‌کند:
 - [بهزیستی](core_05_band_continuity.md#wellbeing)؛
 - [عاملیت معنادار](core_05_band_participation.md#meaningful-agency)؛
 - [کرامت و جایگاه اخلاقی برابر](core_05_band_participation.md#dignity-and-equal-moral-standing)؛
@@ -1466,10 +1466,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§11 ساختار بازار](#11-market-structure)؛ [آستانهٔ تمرکز بازار](core_05_band_accountability.md#market-concentration-threshold).
-- پایین‌دست: **CJS-3.11.1 — انضباط تعیین آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)** (قواعد اجرایی تعیین آستانه)؛ [§11.2 رقابت‌افزایی و مقابله با سلطه](#112-pro-competition-and-anti-domination)؛ [§11.3 سقف ادغام](#113-consolidation-ceiling)؛ [CJS-3.11.3 — انضباط تعیین سقف ادغام (قابل‌تنظیم توسط پذیرنده)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (قواعد اجرایی تعیین سقف [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable))؛ [فصل نه §4 پرسش 2 — چقدر خوب یا بد بود؟](core_10_standing_assessment.md#4-question-2-how-good-or-bad-was-it)؛ [فصل یازده §5.1 اخلال مبتنی بر تمرکز](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- بالادست: [§11 ساختار بازار](#11-ساختار-بازار)؛ [آستانهٔ تمرکز بازار](core_05_band_accountability.md#market-concentration-threshold).
+- پایین‌دست: **CJS-3.11.1 — انضباط تعیین آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)** (قواعد اجرایی تعیین آستانه)؛ [§11.2 رقابت‌افزایی و مقابله با سلطه](#112-رقابتافزایی-و-مقابله-با-سلطه)؛ [§11.3 سقف ادغام](#113-سقف-ادغام)؛ [CJS-3.11.3 — انضباط تعیین سقف ادغام (قابل‌تنظیم توسط پذیرنده)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (قواعد اجرایی تعیین سقف [§11.3.2](#1132-سازوکار-سقف-ادغام-قابلتنظیم-توسط-پذیرنده))؛ [فصل نه §4 پرسش 2 — چقدر خوب یا بد بود؟](core_10_standing_assessment.md#4-question-2-how-good-or-bad-was-it)؛ [فصل یازده §5.1 اخلال مبتنی بر تمرکز](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - درگاه سرپرست (غیرعملیاتی): کارت گام بعد: [ساختار بازار](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
-- زیربخش‌ها (به‌ترتیب مطالعه): [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-concentration-threshold-triggers-adopter-tunable).
+- زیربخش‌ها (به‌ترتیب مطالعه): [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-محرکهای-آستانه-تمرکز-قابلتنظیم-توسط-پذیرنده).
 
 </details>
 
@@ -1484,18 +1484,18 @@ flowchart TB
 
 <br>
 
-*به زبان ساده: این بخش کف مقابله با انباشت‌های زیان‌بار ثروت، قدرت یا کنترل را ترسیم می‌کند. خودش تعیین نمی‌کند آسیب چقدر شدید بوده و کسی را به‌تنهایی به‌عنوان مرتکب تخلف معرفی نمی‌کند. اگر از تمرکز برای تضعیف این قانون اساسی استفاده شود، فصل یازده آن را داوری می‌کند—و فقط پس از آن‌که فصل نه آسیبِ تأییدشده را در میان سه سطح جدی‌تر ارزیابی کرده باشد. پذیرندگان می‌توانند محرک‌های عددی دقیق را با زمینهٔ خود تنظیم کنند، اما نمی‌توانند آن‌قدر بالا تعیینشان کنند که هرگز اثر نکنند، با اجرای غیرقابل‌استفاده همراه سازند یا تمرکز را پشت ساختارهای فدرال یا صوری پنهان کنند. نحوهٔ تعیین محرک‌ها در [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-concentration-threshold-triggers-adopter-tunable) آمده است.*
+*به زبان ساده: این بخش کف مقابله با انباشت‌های زیان‌بار ثروت، قدرت یا کنترل را ترسیم می‌کند. خودش تعیین نمی‌کند آسیب چقدر شدید بوده و کسی را به‌تنهایی به‌عنوان مرتکب تخلف معرفی نمی‌کند. اگر از تمرکز برای تضعیف این قانون اساسی استفاده شود، فصل یازده آن را داوری می‌کند—و فقط پس از آن‌که فصل نه آسیبِ تأییدشده را در میان سه سطح جدی‌تر ارزیابی کرده باشد. پذیرندگان می‌توانند محرک‌های عددی دقیق را با زمینهٔ خود تنظیم کنند، اما نمی‌توانند آن‌قدر بالا تعیینشان کنند که هرگز اثر نکنند، با اجرای غیرقابل‌استفاده همراه سازند یا تمرکز را پشت ساختارهای فدرال یا صوری پنهان کنند. نحوهٔ تعیین محرک‌ها در [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-محرکهای-آستانه-تمرکز-قابلتنظیم-توسط-پذیرنده) آمده است.*
 
 **این زیربخش چه می‌کند:**
 
-- **انجام می‌دهد:** جهت آستانه را در سطح اصول برای کف [§11 ساختار بازار](#11-market-structure) بیان می‌کند.
+- **انجام می‌دهد:** جهت آستانه را در سطح اصول برای کف [§11 ساختار بازار](#11-ساختار-بازار) بیان می‌کند.
 - **انجام نمی‌دهد:** شدت آسیب تأییدشده را تعیین یا عنوان تخلف صادر نمی‌کند.
 - **هنگامی که از تمرکز برای تضعیف این قانون اساسی استفاده شود:** آن تخلف بر اساس [فصل یازده §5.1 اخلال مبتنی بر تمرکز](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) داوری می‌شود.
 - **ایجاد، حفظ یا بهره‌برداری از تمرکز فراتر از کف:** این موضوع می‌تواند برای بررسی عنوان تخلف به فصل یازده ارجاع شود، اما فقط طی دو گام. نخست، [فصل نه §4 پرسش 2 — چقدر خوب یا بد بود؟](core_10_standing_assessment.md#4-question-2-how-good-or-bad-was-it) باید قبلاً آسیب تأییدشده را در میان سه سطح جدی‌تر امتیازدهی کرده باشد. سپس فصل یازده بررسی می‌کند که آیا تمرکز معیار 3 را برآورده می‌کند (راهکاری برای عقب‌گرد حمایت‌ها)، معیار 4 را (آسیب به حمایت‌های کف حقوق یا مسدودکردن اعتراض‌ها)، یا معیار 6 را (غیرقابل‌استفاده‌کردن عملی فرایند قانون اساسی).
 
 **کف قانون اساسی:**
 
-- **چیست:** انضباط ضدتمرکز در [§11 ساختار بازار](#11-market-structure) یک **کف قانون اساسی** تعیین می‌کند.
+- **چیست:** انضباط ضدتمرکز در [§11 ساختار بازار](#11-ساختار-بازار) یک **کف قانون اساسی** تعیین می‌کند.
 - **مانع چیست:** تمرکزِ موارد زیر:
   - ثروت؛
   - قدرت؛
@@ -1546,10 +1546,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§11 ساختار بازار](#11-market-structure)؛ [ساختار بازار](core_05_band_accountability.md#market-structure).
-- پایین‌دست: **CJS-3.11.2 — فهرست رفتار و جبران سلطه‌گرانه** (الگوهای اجرایی رفتار و راهکارها)؛ [§11.3 سقف ادغام](#113-consolidation-ceiling)؛ [فصل یازده §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- همراه با [مادهٔ III-C: کف کار و اقتصاد](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (کف حقوق جابه‌جایی نیروی کار)؛ [مادهٔ XXI: تعامل‌پذیری، حمل‌پذیری، جابه‌جایی، پناه و سلامت خروج](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)؛ [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([ضرورت](core_05_band_accountability.md#necessity)، [تناسب](core_05_band_accountability.md#proportionality)، [§13.2.4 بی‌اعتبارسازی به‌سبب واگراییِ نماینده](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)) خوانده شود.
-- زیربخش‌ها (به‌ترتیب مطالعه): [§11.2.1 تکالیف رقابت‌افزا (بایدها)](#1121-pro-competition-duties-dos) · [§11.2.2 ممنوعیت‌های مقابله با سلطه (نبایدها)](#1122-anti-domination-prohibitions-donts) · [§11.2.3 راهکارها](#1123-remedies).
+- بالادست: [§11 ساختار بازار](#11-ساختار-بازار)؛ [ساختار بازار](core_05_band_accountability.md#market-structure).
+- پایین‌دست: **CJS-3.11.2 — فهرست رفتار و جبران سلطه‌گرانه** (الگوهای اجرایی رفتار و راهکارها)؛ [§11.3 سقف ادغام](#113-سقف-ادغام)؛ [فصل یازده §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- همراه با [مادهٔ III-C: کف کار و اقتصاد](core_06_rights_part_a.md#اصل-iii-c-کف-کار-و-اقتصاد) (کف حقوق جابه‌جایی نیروی کار)؛ [مادهٔ XXI: تعامل‌پذیری، حمل‌پذیری، جابه‌جایی، پناه و سلامت خروج](core_06_rights_part_d.md#ماده-xxi-تعاملپذیری-انتقالپذیری-و-یکپارچگی-خروج)؛ [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی) ([ضرورت](core_05_band_accountability.md#necessity)، [تناسب](core_05_band_accountability.md#proportionality)، [§13.2.4 بی‌اعتبارسازی به‌سبب واگراییِ نماینده](core_01_b_interaction_interpretation.md#1324-بیاعتباری-ناشی-از-واگرایی-شاخص-جانشین)) خوانده شود.
+- زیربخش‌ها (به‌ترتیب مطالعه): [§11.2.1 تکالیف رقابت‌افزا (بایدها)](#1121-تکالیف-رقابتافزا-بایدها) · [§11.2.2 ممنوعیت‌های مقابله با سلطه (نبایدها)](#1122-ممنوعیتهای-مقابله-با-سلطه-نبایدها) · [§11.2.3 راهکارها](#1123-راهکارها).
 
 </details>
 
@@ -1562,7 +1562,7 @@ flowchart TB
 - [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [وابستگی](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [واگراییِ نماینده](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [واگراییِ نماینده](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [O](core_05_band_oversight.md#واگرایی-شاخص-جانشین) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
 
@@ -1605,7 +1605,7 @@ flowchart TB
 - انتقال بار بوم‌شناختی؛
 - تصاحب مسیرهای پاسخ‌گویی.
 
-توجیه‌های زیر باید تکالیف ردیابی‌پذیری و شواهد در [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) و فصل چهارم را برآورده سازند:
+توجیه‌های زیر باید تکالیف ردیابی‌پذیری و شواهد در [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی) و فصل چهارم را برآورده سازند:
 - کارآمدی؛
 - رقابت‌پذیری؛
 - وضعیت اضطراری؛
@@ -1667,7 +1667,7 @@ flowchart TB
 - مسیر ارزیابی میان‌حوزه‌ای.
 
 مراجع دیگر:
-- ممنوعیت‌های قطعی جابه‌جایی نیروی کار: [مادهٔ III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*کف کار و اقتصاد*)؛
+- ممنوعیت‌های قطعی جابه‌جایی نیروی کار: [مادهٔ III-C](core_06_rights_part_a.md#اصل-iii-c-کف-کار-و-اقتصاد) (*کف کار و اقتصاد*)؛
 - شرایط اجرایی تعامل‌پذیری، حمل‌پذیری و سلامت خروج: **CJS-3.17** (*پیوستگی: شرایط تعامل‌پذیری، حمل‌پذیری و سلامت خروج*)؛
 - الگوهای خطر ادغام افقی و عمودی: **§11.3** (*سقف ادغام*).
 
@@ -1692,8 +1692,8 @@ flowchart TB
 
 - همراه با [سازوکار چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — **نظارت**، **پاسخ‌گویی** و **به‌موقع‌بودن** هرجا ادغام نظارت، پاسخ‌خواهی یا اصلاح به‌موقع را پیش از تثبیت مختل کند؛ **مشارکت** هرجا ادغام ورود، خروج یا چانه‌زنی منصفانه را ناممکن کند؛ تعیین دامنه بر اساس [مصلحت مادی](core_00_preamble.md#material-stake).
 - همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **پیوستگی** (شرایط تولیدیِ بادوام و رقابت‌پذیر در برابر ادغام پیش از تثبیت)؛ هدف **شکوفایی** (مسیرهای معیشت، عاملیت و نوآوری تا هنگامی که جایگزین‌ها واقعی‌اند).
-- بالادست: [§11 ساختار بازار](#11-market-structure)؛ [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
-- زیربخش‌ها (به‌ترتیب مطالعه): [§11.3.1 خطر ادغام (آسیب پیش از تثبیت)](#1131-consolidation-risk-pre-lock-in-impairment) · [§11.3.2 سازوکار سقف ادغام (قابل‌تنظیم توسط پذیرنده)](#1132-consolidation-ceiling-mechanism-adopter-tunable).
+- بالادست: [§11 ساختار بازار](#11-ساختار-بازار)؛ [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)؛ [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی).
+- زیربخش‌ها (به‌ترتیب مطالعه): [§11.3.1 خطر ادغام (آسیب پیش از تثبیت)](#1131-خطر-ادغام-آسیب-پیش-از-تثبیت) · [§11.3.2 سازوکار سقف ادغام (قابل‌تنظیم توسط پذیرنده)](#1132-سازوکار-سقف-ادغام-قابلتنظیم-توسط-پذیرنده).
 
 </details>
 
@@ -1713,8 +1713,8 @@ flowchart TB
 *به زبان ساده: ادغام می‌تواند مدت‌ها پیش از آن‌که بازار ظاهراً در انحصار افتاده باشد، انتخاب واقعی را از میان ببرد. **سقف‌های ادغام** به حکمرانی و سرپرستان قدرت هشدار زودهنگام می‌دهند تا زمانی که امکان خروج و رقابت هنوز هست، انباشت‌ها را بررسی، مهار و اصلاح کنند.*
 
 ادغامی که پیش از آشکارشدن تثبیت، به‌طور قابل‌پیش‌بینی رقابت‌پذیری را مختل کند، مسئلهٔ [حکمرانی](core_05_band_accountability.md#governance) و [سرپرستی](core_05_band_continuity.md#stewardship) است، نه فقط مسئلهٔ سلطهٔ پسینی؛ و طبق موارد زیر تابع انضباط سقف ادغام در لایهٔ اصول است:
-- [§11 ساختار بازار](#11-market-structure)؛
-- [§11.2 رقابت‌افزایی و مقابله با سلطه](#112-pro-competition-and-anti-domination).
+- [§11 ساختار بازار](#11-ساختار-بازار)؛
+- [§11.2 رقابت‌افزایی و مقابله با سلطه](#112-رقابتافزایی-و-مقابله-با-سلطه).
 
 پذیرندگان و نظام‌های حاکم باید انباشت‌های ادغام از انواع زیر را تشخیص دهند:
 - **ادغام افقی** (*کاهش رقبای هم‌لایه*). ادغامی که جایگزین‌ها، رقابت یا قدرت چانه‌زنی را در یک لایه یا بازار کاهش می‌دهد—برای مثال کاهش فروشندگان یا ارائه‌دهندگان خدماتِ قابل‌رقابت، انحصار تقاضا در بازار کار، خریدهای پیاپی یا حذف‌کنندهٔ رقیب که رقابت بالقوه را از میان می‌برند، یا تمرکز قدرت خریدار که با وجود ثبات قیمت‌های شاخص، رقبا را کنار می‌زند.
@@ -1742,7 +1742,7 @@ flowchart TB
 - هدف **شکوفایی** (مسیرهای معیشت، عاملیت و نوآوری تا زمانی که جایگزین‌ها واقعی‌اند).
 
 قواعد اجرایی تعیین سقف در این موارد قرار دارند:
-- [§11.3.2 انضباط تعیین سقف (الزامات پذیرنده)](#1132-consolidation-ceiling-mechanism-adopter-tunable)؛
+- [§11.3.2 انضباط تعیین سقف (الزامات پذیرنده)](#1132-سازوکار-سقف-ادغام-قابلتنظیم-توسط-پذیرنده)؛
 - **CJS-3.11.3 — انضباط تعیین سقف ادغام (قابل‌تنظیم توسط پذیرنده)**.
 
 <a id="1131-consolidation-risk-pre-lock-in-impairment"></a>
@@ -1797,7 +1797,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§11.3 سقف ادغام](#113-consolidation-ceiling)؛ [§11.3.1 خطر ادغام (آسیب پیش از تثبیت)](#1131-consolidation-risk-pre-lock-in-impairment).
+- بالادست: [§11.3 سقف ادغام](#113-سقف-ادغام)؛ [§11.3.1 خطر ادغام (آسیب پیش از تثبیت)](#1131-خطر-ادغام-آسیب-پیش-از-تثبیت).
 - پایین‌دست: **CJS-3.11.3 — انضباط تعیین سقف ادغام (قابل‌تنظیم توسط پذیرنده)** (قواعد اجرایی تعیین سقف)؛ [CJS-3.11.2 — فهرست رفتار و جبران سلطه‌گرانه](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (ارجاع راهکار در صورت نقض سقف)؛ [فصل یازده §5](core_12_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 </details>
@@ -1837,8 +1837,8 @@ flowchart TB
 
 - همراه با [سازوکار چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) خوانده شود — **نظارت** (نقشه‌ها و سوابقی از این‌که چه کسی به چه کسی وابسته است و منابع به کجا جریان دارند)، **پاسخ‌گویی** (پاسخ‌خواهی دربارهٔ استخراج پنهان و عدم‌توازنِ اصلاح‌نشده)، **مشارکت** (حق به‌چالش‌کشیدن نحوهٔ تقسیم منابع) و **به‌موقع‌بودن** (اقدام پیش از تثبیت وابستگی)؛ تعیین دامنه بر اساس [مصلحت مادی](core_00_preamble.md#material-stake).
 - همراه با [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) خوانده شود — هدف **پیوستگی** (تأمین مالی و دوام زیرساخت مشترک)؛ هدف **شکوفایی** (دسترسی منصفانه، بدون آن‌که کسی در وابستگی یک‌طرفه گیر بیفتد).
-- بالادست: [§11 ساختار بازار](#11-market-structure)؛ [§11.1 سازوکار آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](#111-market-concentration-threshold-mechanism-adopter-tunable)؛ [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-concentration-threshold-triggers-adopter-tunable).
-- پایین‌دست: [مادهٔ V: تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (کف حقوقی که این زیربخش دست‌نخورده می‌گذارد)، [مادهٔ V-A: نقشه‌برداری وابستگی و شفافیت جریان منابع](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency)، و [مادهٔ V-B: انصاف و پایداری میان‌نظامی](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability)؛ [CJS-3.11.1 — انضباط تعیین آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) (قواعد اجرایی تعیین آستانه)؛ [CS-9](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*تخصیص منابع و سرپرستی تأمین مالی*) و [CS-8](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*پایداری انطباقی و تاب‌آوری زیست‌بوم*).
+- بالادست: [§11 ساختار بازار](#11-ساختار-بازار)؛ [§11.1 سازوکار آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](#111-سازوکار-آستانه-تمرکز-بازار-قابلتنظیم-توسط-پذیرنده)؛ [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-محرکهای-آستانه-تمرکز-قابلتنظیم-توسط-پذیرنده).
+- پایین‌دست: [مادهٔ V: تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم](core_06_rights_part_a.md#اصل-v-تخصیص-منابع-وابستگیها-و-تأمین-زیستبوم) (کف حقوقی که این زیربخش دست‌نخورده می‌گذارد)، [مادهٔ V-A: نقشه‌برداری وابستگی و شفافیت جریان منابع](core_06_rights_part_a.md#اصل-v-a-نقشهبرداری-وابستگی-و-شفافیت-جریان-منابع)، و [مادهٔ V-B: انصاف و پایداری میان‌نظامی](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability)؛ [CJS-3.11.1 — انضباط تعیین آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) (قواعد اجرایی تعیین آستانه)؛ [CS-9](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*تخصیص منابع و سرپرستی تأمین مالی*) و [CS-8](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*پایداری انطباقی و تاب‌آوری زیست‌بوم*).
 
 </details>
 
@@ -1854,9 +1854,9 @@ flowchart TB
 
 <br>
 
-*به زبان ساده: زیرساخت مشترک، مانند شبکه‌ها، ابزارهای باز، خدمات عمومی، داده و توان محاسباتی، جایی است که چند بازیگر می‌توانند بی‌سروصدا کنترل کنند چه کسی منابع می‌گیرد، چه کسی به چه کسی وابسته می‌شود و چه کسی هزینهٔ ادامهٔ کار را می‌پردازد. پذیرندگان باید برای چنین تمرکزی حدهای روشن بگذارند و هنگام عبور از حد یا نزدیک‌شدن به آن اقدام کنند. این حدها می‌توانند با زمینه تفاوت داشته باشند، اما نباید آن‌قدر سست باشند که هیچ‌گاه اثر نکنند. [مادهٔ V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم*) و حمایت‌های آن برای اشتراک منابع عیناً دست‌نخورده می‌ماند.*
+*به زبان ساده: زیرساخت مشترک، مانند شبکه‌ها، ابزارهای باز، خدمات عمومی، داده و توان محاسباتی، جایی است که چند بازیگر می‌توانند بی‌سروصدا کنترل کنند چه کسی منابع می‌گیرد، چه کسی به چه کسی وابسته می‌شود و چه کسی هزینهٔ ادامهٔ کار را می‌پردازد. پذیرندگان باید برای چنین تمرکزی حدهای روشن بگذارند و هنگام عبور از حد یا نزدیک‌شدن به آن اقدام کنند. این حدها می‌توانند با زمینه تفاوت داشته باشند، اما نباید آن‌قدر سست باشند که هیچ‌گاه اثر نکنند. [مادهٔ V](core_06_rights_part_a.md#اصل-v-تخصیص-منابع-وابستگیها-و-تأمین-زیستبوم) (*تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم*) و حمایت‌های آن برای اشتراک منابع عیناً دست‌نخورده می‌ماند.*
 
-تشخیص تمرکز در زیرساخت مشترک دشوار است. چند نظام ممکن است نحوهٔ تخصیص منابع، شمار کسانی که بدون جایگزین واقعی به آن‌ها وابسته‌اند و این‌که چه کسی هزینهٔ تداوم زیرساخت را می‌پردازد کنترل کنند. [مادهٔ V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم*) کف حقوق اشتراک منابع را تعیین می‌کند. این زیربخش آستانه‌های تمرکز [§11.1 سازوکار آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](#111-market-concentration-threshold-mechanism-adopter-tunable) را در این حوزه اعمال می‌کند. قواعد اجرایی تعیین آستانه در **CJS-3.11.1** (*انضباط تعیین آستانهٔ تمرکز بازار*) قرار دارد؛ جزئیات نقشه‌های منابع، جریان‌ها، تخصیص و تأمین مالی زیست‌بوم در [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*تخصیص منابع و سرپرستی تأمین مالی*) و [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*پایداری انطباقی و تاب‌آوری زیست‌بوم*) آمده است.
+تشخیص تمرکز در زیرساخت مشترک دشوار است. چند نظام ممکن است نحوهٔ تخصیص منابع، شمار کسانی که بدون جایگزین واقعی به آن‌ها وابسته‌اند و این‌که چه کسی هزینهٔ تداوم زیرساخت را می‌پردازد کنترل کنند. [مادهٔ V](core_06_rights_part_a.md#اصل-v-تخصیص-منابع-وابستگیها-و-تأمین-زیستبوم) (*تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم*) کف حقوق اشتراک منابع را تعیین می‌کند. این زیربخش آستانه‌های تمرکز [§11.1 سازوکار آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](#111-سازوکار-آستانه-تمرکز-بازار-قابلتنظیم-توسط-پذیرنده) را در این حوزه اعمال می‌کند. قواعد اجرایی تعیین آستانه در **CJS-3.11.1** (*انضباط تعیین آستانهٔ تمرکز بازار*) قرار دارد؛ جزئیات نقشه‌های منابع، جریان‌ها، تخصیص و تأمین مالی زیست‌بوم در [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*تخصیص منابع و سرپرستی تأمین مالی*) و [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*پایداری انطباقی و تاب‌آوری زیست‌بوم*) آمده است.
 
 **آنچه پذیرندگان باید تعیین کنند:**
 
@@ -1868,14 +1868,14 @@ flowchart TB
 
 **پذیرندگان چگونه باید آن‌ها را تعیین کنند:**
 
-- **بر پایهٔ جریان‌های واقعی:** سطوح را بر اساس نقشه‌های وابستگی و سوابق جریان منابعی تعیین کنید که [مادهٔ V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) الزام می‌کند، نه برچسب‌های اپراتور یا انتقال‌های موردی.
-- **بر حسب زمینه:** سطوح می‌توانند بر پایهٔ حوزه، اندازهٔ جمعیت و چگالی وابستگی متفاوت باشند، همانند [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-concentration-threshold-triggers-adopter-tunable).
+- **بر پایهٔ جریان‌های واقعی:** سطوح را بر اساس نقشه‌های وابستگی و سوابق جریان منابعی تعیین کنید که [مادهٔ V-A](core_06_rights_part_a.md#اصل-v-a-نقشهبرداری-وابستگی-و-شفافیت-جریان-منابع) (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) الزام می‌کند، نه برچسب‌های اپراتور یا انتقال‌های موردی.
+- **بر حسب زمینه:** سطوح می‌توانند بر پایهٔ حوزه، اندازهٔ جمعیت و چگالی وابستگی متفاوت باشند، همانند [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-محرکهای-آستانه-تمرکز-قابلتنظیم-توسط-پذیرنده).
 - **طبق همان انضباط:** قواعد حفظ کف، تقدم محتوا بر شکل، مقابله با بی‌اثرکردن و وارسی تشدیدشدهٔ **CJS-3.11.1 — انضباط تعیین آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)** به‌طور کامل اعمال می‌شوند. هیچ سطحی نباید آن‌قدر بالا تعیین شود که هرگز اثر نکند؛ تمرکزی که پشت ساختارهای صوری، فدرال یا تجزیه‌شده پنهان است نیز به حساب می‌آید.
-- **به‌صورت علنی:** سطوح و دلایل آن‌ها باید مکتوب و در معرض اعتراض باشند، مطابق با [مادهٔ V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم*) که رؤیت‌پذیری، بررسی‌پذیری و امکان اعتراض به جریان منابع را الزام می‌کند.
+- **به‌صورت علنی:** سطوح و دلایل آن‌ها باید مکتوب و در معرض اعتراض باشند، مطابق با [مادهٔ V](core_06_rights_part_a.md#اصل-v-تخصیص-منابع-وابستگیها-و-تأمین-زیستبوم) (*تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم*) که رؤیت‌پذیری، بررسی‌پذیری و امکان اعتراض به جریان منابع را الزام می‌کند.
 
 **هنگام عبور از یک سطح:**
 
-عبور از سطح، بازبینی تشدیدشده و کاهش آسیب را طبق [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-concentration-threshold-triggers-adopter-tunable) لازم می‌کند. این امر به‌تنهایی یافتهٔ تخلف نیست ([§11.1 سازوکار آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](#111-market-concentration-threshold-mechanism-adopter-tunable)). اگر همان ترتیب، [مادهٔ V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) یا [مادهٔ V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*انصاف و پایداری میان‌نظامی*) را نیز نقض کند، هر دو اعمال می‌شوند: وارسی تمرکز به **مادهٔ V** (*تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم*) افزوده می‌شود و جایگزین آن نیست.
+عبور از سطح، بازبینی تشدیدشده و کاهش آسیب را طبق [§11.1.1 محرک‌های آستانهٔ تمرکز (قابل‌تنظیم توسط پذیرنده)](#1111-محرکهای-آستانه-تمرکز-قابلتنظیم-توسط-پذیرنده) لازم می‌کند. این امر به‌تنهایی یافتهٔ تخلف نیست ([§11.1 سازوکار آستانهٔ تمرکز بازار (قابل‌تنظیم توسط پذیرنده)](#111-سازوکار-آستانه-تمرکز-بازار-قابلتنظیم-توسط-پذیرنده)). اگر همان ترتیب، [مادهٔ V-A](core_06_rights_part_a.md#اصل-v-a-نقشهبرداری-وابستگی-و-شفافیت-جریان-منابع) (*نقشه‌برداری وابستگی و شفافیت جریان منابع*) یا [مادهٔ V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*انصاف و پایداری میان‌نظامی*) را نیز نقض کند، هر دو اعمال می‌شوند: وارسی تمرکز به **مادهٔ V** (*تخصیص منابع، وابستگی‌ها و تأمین مالی زیست‌بوم*) افزوده می‌شود و جایگزین آن نیست.
 
 <a id="12-systemic-evaluation-requirement"></a>
 ### 12. الزام ارزیابی نظام‌مند
@@ -1885,12 +1885,12 @@ flowchart TB
 
 - همراه با خانوادهٔ سنجش پیوستگی (*تاب‌آوری، برگشت‌پذیری و خطر نظام‌مند*) خوانده شود.
 - همراه با [سازوکار چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)، [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) و تعیین دامنه بر اساس [مصلحت مادی](core_00_preamble.md#material-stake) خوانده شود.
-- همراه با [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)، [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)، [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) و [§19 هم‌راستایی انگیزه‌ها و تصاحب نظام](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) خوانده شود.
+- همراه با [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)، [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی) و [§19 هم‌راستایی انگیزه‌ها و تصاحب نظام](core_01_c_stewardship_capacity_principles.md#19-همراستاسازی-مشوقها-و-تسخیر-سامانه) خوانده شود.
 - همراه با **[فصل نه §3 ارزیابی گواهی‌دهی کل‌نظام](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** خوانده شود — عوامل ارزیابی کل نظام برای گواهی‌دهی. گواهی‌دهی یک حسابرسیِ به‌ویژه گسترده ذیل پایهٔ **نظارت** در سازوکار چهارگانه است، نه تنها موقعیتی که حسابرسی در آن انجام می‌شود.
-- همراه با **مادهٔ XVI** (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*) و [حسابرسی‌پذیری](core_05_band_oversight.md#auditability) خوانده شود — کف‌های حسابرسی که فصل نه باید برآورده کند و حالت‌های حسابرسی هم‌تراز نیز اجرا می‌کنند.
-- همراه با **[corpus_systems.md](corpus_systems.md)، CS-3 — طبقه‌بندی و رسیدگی به نظام‌ها** و [حکمرانی متناسب با طبقه‌بندی](core_05_band_oversight.md#classification-scaled-governance) خوانده شود — اجرای متناسب با طبقه، قالب سوابق، محرک‌های بازطبقه‌بندی و نمایه‌های رسیدگی.
-- بالادست: [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)؛ [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
-- پایین‌دست: [§20 اجرای یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application) — بررسی می‌کند که پیگیری [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) و تعیین دامنهٔ [سازوکار چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) در ساختار انگیزه و کنترل نظام واقعاً انجام می‌شود، نه فقط در توجیه اعلام‌شدهٔ آن.
+- همراه با **مادهٔ XVI** (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*) و [حسابرسی‌پذیری](core_05_band_oversight.md#قابلیت-حسابرسی) خوانده شود — کف‌های حسابرسی که فصل نه باید برآورده کند و حالت‌های حسابرسی هم‌تراز نیز اجرا می‌کنند.
+- همراه با **[corpus_systems.md](corpus_systems.md)، CS-3 — طبقه‌بندی و رسیدگی به نظام‌ها** و [حکمرانی متناسب با طبقه‌بندی](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) خوانده شود — اجرای متناسب با طبقه، قالب سوابق، محرک‌های بازطبقه‌بندی و نمایه‌های رسیدگی.
+- بالادست: [§16 سرپرستی به‌تفصیل](core_01_c_stewardship_capacity_principles.md#۱۶-شرح-تفصیلی-سرپرستی)؛ [§18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-حکمرانی-تحت-انضباط-سرپرستی)؛ [13. فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی).
+- پایین‌دست: [§20 اجرای یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه) — بررسی می‌کند که پیگیری [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) و تعیین دامنهٔ [سازوکار چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) در ساختار انگیزه و کنترل نظام واقعاً انجام می‌شود، نه فقط در توجیه اعلام‌شدهٔ آن.
 - اگر با هم خوانده شوند، **§§9–12** هدف پیوستگی را از ظرفیت و تاب‌آوری نظام مشترک، از مسیر ساختار بازار، تا اعتبارسنجی کل‌نظام می‌سازند؛ **§§13–15** رویهٔ موازنه‌ای را فراهم می‌کنند که نحوهٔ سنجش آن در برابر شکوفایی را تنظیم می‌کند؛ و **§§16–20** سرپرستی، حکمرانی و انضباط انگیزه را برای حفظ مشروعیت پیش می‌برند.
 
 </details>
@@ -1898,9 +1898,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [حکمرانی متناسب با طبقه‌بندی](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [حکمرانی متناسب با طبقه‌بندی](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [O](core_05_band_oversight.md#حکمرانی-مقیاسشده-با-طبقهبندی) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 - [نظارت](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [حسابرسی‌پذیری](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [حسابرسی‌پذیری](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [گواهی‌دهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification) · [O](core_05_band_continuity.md#system-alignment-certification) · [M](core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [A](core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [C](core_05_band_continuity.md#system-alignment-certification-constitutional-c)
 - [خطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
 - [وابستگی](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
@@ -1909,7 +1909,7 @@ flowchart TB
 
 <br>
 
-*به زبان ساده: این اصل یک ارجاع است. ارزیابی کل‌نظام باید فراتر از آثار فوری و محلی را بررسی کند، اما عوامل اجرایی گواهی‌دهی نظام، تکالیف ثبت، عمق متناسب با طبقه، تواتر و پیامدهای گواهی‌دهی در **فصل نه** و **CS-3** (*سازوکار طبقه‌بندی نظام*) قرار دارند، نه اینجا. ذیل پایهٔ **نظارت** در سازوکار چهارگانه، نظارت مستلزم حسابرسی است؛ گواهی‌دهی هم‌راستایی نظام یکی از فرایندهای حسابرسیِ به‌ویژه گسترده و پرمخاطره در کنار دیگر فرایندهاست—نه تنها جایگاه حسابرسی (**مادهٔ XVI** (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*)، [حسابرسی‌پذیری](core_05_band_oversight.md#auditability)).*
+*به زبان ساده: این اصل یک ارجاع است. ارزیابی کل‌نظام باید فراتر از آثار فوری و محلی را بررسی کند، اما عوامل اجرایی گواهی‌دهی نظام، تکالیف ثبت، عمق متناسب با طبقه، تواتر و پیامدهای گواهی‌دهی در **فصل نه** و **CS-3** (*سازوکار طبقه‌بندی نظام*) قرار دارند، نه اینجا. ذیل پایهٔ **نظارت** در سازوکار چهارگانه، نظارت مستلزم حسابرسی است؛ گواهی‌دهی هم‌راستایی نظام یکی از فرایندهای حسابرسیِ به‌ویژه گسترده و پرمخاطره در کنار دیگر فرایندهاست—نه تنها جایگاه حسابرسی (**مادهٔ XVI** (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*)، [حسابرسی‌پذیری](core_05_band_oversight.md#قابلیت-حسابرسی)).*
 
 هر ادعایی دربارهٔ موضوعات زیر باید با آنچه کل نظام در گذر زمان واقعاً انجام می‌دهد سنجیده شود. یک شعار یا تصویری لحظه‌ای از بخشی از نظام کافی نیست:
 

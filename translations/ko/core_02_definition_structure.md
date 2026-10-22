@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">코퍼스에서의 위치(비운영): 파일 구조와 읽기 규칙</span></strong></summary>
 
-> 이 파일은 [영어 제2장](../../core_02_definition_structure.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_02_definition_structure.md`](../../core_02_definition_structure.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
+> 이 파일은 [영어 제2장](../../core_02.000_definition_structure.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_02_definition_structure.md`](../../core_02.000_definition_structure.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **이전(이 언어):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
 >
@@ -17,11 +17,11 @@
 <summary><strong><span style="color: #2563eb;">독자 안내(비운영): 정의 스택과 제2장이 사는 곳</span></strong></summary>
 
 > **제2장부터 제5장**은 헌법 정의 스택을 이룬다. **[CJS](../../corpus_joint_structure.md)** 는 그것을 적용하는 운영 정의를 운반한다:
-> - **제2장 (이 파일)** — O/M/A/C 정의 구조와 구성 정합: 모든 정의는 **존재론 (O)** (그것이 무엇인가), **평가 (A)** 의무와 엮인 **측정 (M)** 등록 (어떻게 측정되고 평가되어야 하는가), 그리고 **준수 (C)** (무엇이 버티어야 하는가)를 잇는다 ([§1 목적과 역할](core_02_definition_structure.md#1-purpose-and-role); [§2 정의 완전성 요건](core_02_definition_structure.md#2-definition-integrity-requirement)).
-> - **제3장** — 정의 완전성, 회피, 비준수 ([제3장](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)).
-> - **제4장** — 증명 부담, 정의 추적 가능성, 관찰 가능성, 보안 한도 아래의 확인, 확인의 접근성 ([제4장 — 증명 부담, 추적 가능성, 확인](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
-> - **제5장** — 측정, 평가, 준수를 위한 공유 어휘 (사원(四元)의 다섯 띠 파일과 헌법 목적 파일에 걸친 1–3절의 독립, 무리, 묶음 정의: [번영 목적](core_05_apex_flourishing_aim.md), [감독](../../core_05_band_oversight.md), [참여](../../core_05_band_participation.md), [책무](../../core_05_band_accountability.md), [연속](../../core_05_band_continuity.md), [통합](../../core_05_band_integrative.md)); 읽기 순서와 지도는 [A부분](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
-> - **CJS** — 교차 시행 용어의 운영 정의 ([CJS-3](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 운영 무리 도서관); 제5장 정전 거처를 적용하라 — 재정의하지 말라. **CS**, **CI**, **CF**의 영역 분류와 규약도 같은 규칙을 따른다.
+> - **제2장 (이 파일)** — O/M/A/C 정의 구조와 구성 정합: 모든 정의는 **존재론 (O)** (그것이 무엇인가), **평가 (A)** 의무와 엮인 **측정 (M)** 등록 (어떻게 측정되고 평가되어야 하는가), 그리고 **준수 (C)** (무엇이 버티어야 하는가)를 잇는다 ([§1 목적과 역할](core_02_definition_structure.md#1-목적과-역할); [§2 정의 완전성 요건](core_02_definition_structure.md#2-정의-완전성-요건)).
+> - **제3장** — 정의 완전성, 회피, 비준수 ([제3장](core_03_definition_integrity.md#제3장-정의-완전성-회피-비준수)).
+> - **제4장** — 증명 부담, 정의 추적 가능성, 관찰 가능성, 보안 한도 아래의 확인, 확인의 접근성 ([제4장 — 증명 부담, 추적 가능성, 확인](../../core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)).
+> - **제5장** — 측정, 평가, 준수를 위한 공유 어휘 (사원(四元)의 다섯 띠 파일과 헌법 목적 파일에 걸친 1–3절의 독립, 무리, 묶음 정의: [번영 목적](core_05_apex_flourishing_aim.md), [감독](../../core_05.050_band_oversight.md), [참여](../../core_05.055_band_participation.md), [책무](../../core_05.035_band_accountability.md), [연속](../../core_05.040_band_continuity.md), [통합](../../core_05.045_band_integrative.md)); 읽기 순서와 지도는 [A부분](core_05__definitions_home.md#제5장-나침반과-정의-지도).
+> - **CJS** — 교차 시행 용어의 운영 정의 ([CJS-5.105](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) 운영 무리 도서관); 제5장 정전 거처를 적용하라 — 재정의하지 말라. **CS**, **CI**, **CF**의 영역 분류와 규약도 같은 규칙을 따른다.
 >
 > 추가 안내:
 > - **자리 옮김 금지 규칙:** 절차 작업 흐름, 집행 기계, 정의 범위를 넘는 분류 도식은 이 장에 흡수되면 안 된다.
@@ -32,7 +32,7 @@
 
 제2장은 **정의 구조와 구성 정합**의 헌법 주관자다.
 
-*쉬운 말로: 제2장부터 제5장은 헌법 정의 스택입니다 — 짓고 (둘), 정직하게 지키고 (셋), 점검하고 (넷), 이름 붙입니다 (다섯). 제2장은 각 정의를 연결된 부분으로 짓습니다 — 용어가 무엇인가 (O), 어떻게 측정되고 평가되어야 하는가 (평가와 엮인 측정 등록, M/A), 실무에서 무엇이 버티어야 하는가 (C). 교차 시행 운영 정의는 [CJS](../../corpus_joint_structure.md)에 삽니다 ([CJS-3 — 교차 시행 운영 용어](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)); 그것들은 제5장 용어를 적용하며 재정의하지 않습니다.*
+*쉬운 말로: 제2장부터 제5장은 헌법 정의 스택입니다 — 짓고 (둘), 정직하게 지키고 (셋), 점검하고 (넷), 이름 붙입니다 (다섯). 제2장은 각 정의를 연결된 부분으로 짓습니다 — 용어가 무엇인가 (O), 어떻게 측정되고 평가되어야 하는가 (평가와 엮인 측정 등록, M/A), 실무에서 무엇이 버티어야 하는가 (C). 교차 시행 운영 정의는 [CJS](../../corpus_joint_structure.md)에 삽니다 ([CJS-5.105 — 교차 시행 운영 용어](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)); 그것들은 제5장 용어를 적용하며 재정의하지 않습니다.*
 
 <br>
 
@@ -43,16 +43,16 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [전문 §1 모형](core_00_preamble.md#the-model) — [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad), [두 헌법 목적](core_00_preamble.md#two-constitutional-aims), [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절은 절 추적을 통해 장 전체에 적용된다; [제1장 §1 목적과 역할](core_01_a_values_principles.md#1-purpose-and-role) (*이 정의 스택이 섬기는 가치와 제약*).
-- 상류: [제2장 열림](#chapter-two-definition-structure-and-component-requirements) — O/M/A/C 분해와 내부 정합 요건.
+- 상류: [제2장 열림](#제2장-정의-구조와-구성-요건) — O/M/A/C 분해와 내부 정합 요건.
 - 사원(四元) 다리: **감독**, **책무** (정의는 관찰 가능한 행위에 대해 평가 가능하고 집행 가능해야 한다). 일차 목적: **번영**과 **연속**. [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절은 장 전체에 적용된다.
-- 하류: [§1.2 측정 구성](#12-measurement-components)과 [§1.3 평가 구성](#13-assessment-components) (*평가 의무와 엮인 측정 (M) 등록; 이 장에서의 O/M/A/C 입구 형태*); [§2 정의 완전성 요건](#2-definition-integrity-requirement); [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [제4장, 1절 — 전속 집행과 부담 배분](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [제5장 나침반과 정의 지도](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
-- 함께 읽기: [전문 — 양의 주관자 등록](core_00_preamble.md#4-principles-definitions-and-rights)과 [권위 스택과 내부 위계](../../core_05_band_integrative.md#authority-stack); [헌법 제약](../../core_05_band_integrative.md#constitutional-constraint) — 이후의 집행, 거버넌스, 시행, 측정, 감사, 분류 기계는 준수해야 한다; [CJS-3.1 헌법 나침반과 무리 지도](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — 운영 정의는 제5장 정전 거처를 적용하며, 재정의해서는 안 된다.
+- 하류: [§1.2 측정 구성](#12-measurement-components)과 [§1.3 평가 구성](#13-assessment-components) (*평가 의무와 엮인 측정 (M) 등록; 이 장에서의 O/M/A/C 입구 형태*); [§2 정의 완전성 요건](#2-정의-완전성-요건); [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-정의-완전성과-회피-금지-제약); [제4장, 1절 — 전속 집행과 부담 배분](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [제5장 나침반과 정의 지도](core_05__definitions_home.md#제5장-나침반과-정의-지도).
+- 함께 읽기: [전문 — 양의 주관자 등록](core_00_preamble.md#4-원칙-정의-권리)과 [권위 스택과 내부 위계](../../core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy); [헌법 제약](../../core_05.045_band_integrative.md#constitutional-constraint) — 이후의 집행, 거버넌스, 시행, 측정, 감사, 분류 기계는 준수해야 한다; [CJS-5.105 §1 헌법 나침반과 무리 지도](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — 운영 정의는 제5장 정전 거처를 적용하며, 재정의해서는 안 된다.
 
 </details>
 
 <br>
 
-*쉬운 말로: 이 절은 제2장의 직무 설명입니다. 정의 스택의 첫 층을 주관합니다: 모든 헌법 정의는 연결된 부분으로 지어집니다 — 용어가 무엇인가 (O), 어떻게 측정되고 평가되어야 하는가 (평가와 엮인 측정 등록, M/E), 실무에서 무엇이 버티어야 하는가 (C) — 그리고 그 부분들은 정합을 유지해야 합니다. 하나를 충족하면서 다른 하나를 피하면 세지 않습니다. 집행, 거버넌스, 측정 운영은 이후 장에 살며, 이 장이 세운 것을 준수해야 합니다.*
+*쉬운 말로: 이 절은 제2장의 직무 설명입니다. 정의 스택의 첫 층을 주관합니다: 모든 헌법 정의는 연결된 부분으로 지어집니다 — 용어가 무엇인가 (O), 어떻게 측정되고 평가되어야 하는가 (평가와 엮인 측정 등록, M/A), 실무에서 무엇이 버티어야 하는가 (C) — 그리고 그 부분들은 정합을 유지해야 합니다. 하나를 충족하면서 다른 하나를 피하면 세지 않습니다. 집행, 거버넌스, 측정 운영은 이후 장에 살며, 이 장이 세운 것을 준수해야 합니다.*
 
 모든 헌법 정의는 연결된 부분으로 지어져야 하며, 각 부분에는 정확히 하나의 일이 있다:
 - **존재론 (O)** — 그 용어가 무엇에 관한 것인가.
@@ -60,7 +60,7 @@
 - **평가 (A)** — 그 용어가 어떻게 평가되어야 하는가. 제5장 잎 정의에서는 **측정 (M)** 등록이 **평가 (A)** 구성에 엮인다. [§1.3 평가 구성](#13-assessment-components)을 보라.
 - **준수 (C)** — 실무에서 무엇이 참이어야 하는가.
 
-그 부분들은 각 정의 안에서 일관되어야 한다. 집행, 거버넌스, 시행, 측정 운영, 감사, 정의 범위를 넘는 분류 기계는 이후 장에 속한다; 그것들은 여기서 세운 [헌법 제약](../../core_05_band_integrative.md#constitutional-constraint)을 준수해야 한다.
+그 부분들은 각 정의 안에서 일관되어야 한다. 집행, 거버넌스, 시행, 측정 운영, 감사, 정의 범위를 넘는 분류 기계는 이후 장에 속한다; 그것들은 여기서 세운 [헌법 제약](../../core_05.045_band_integrative.md#constitutional-constraint)을 준수해야 한다.
 
 모든 정의는, 체계가 실제로 돌아가는 전체 — 감지자, 기계, 장소에 걸쳐 퍼진 체계를 포함 — 에 대해 충족되어야 한다. O, M, A, C 부분은 같은 범위에서, 같은 시험 조건 아래에서, 함께 통과해야 한다. 체계의 조각을 잘라 내고, 세는 것을 좁히거나, 다른 부분을 약화시켜 한 부분만 통과하는 것은 세지 않는다.
 
@@ -118,8 +118,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: [제2장 열림](#chapter-two-definition-structure-and-component-requirements); [§1 목적과 역할](#1-purpose-and-role) — O/M/A/C 분해 안의 A 구성 역할.
-- 하류: [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [제4장, 1절 — 전속 집행과 부담 배분](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 제2장과 제3장에서 정의된 평가 요건에 대한 전속 집행의 명명된 경로; [제4장, 5절 — 준수 증거 표준](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 그 집행을 위한 증거의 충분성.
+- 상류: 원칙: [제2장 열림](#제2장-정의-구조와-구성-요건); [§1 목적과 역할](#1-목적과-역할) — O/M/A/C 분해 안의 A 구성 역할.
+- 하류: [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-정의-완전성과-회피-금지-제약); [제4장, 1절 — 전속 집행과 부담 배분](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) — 제2장과 제3장에서 정의된 평가 요건에 대한 전속 집행의 명명된 경로; [제4장, 5절 — 준수 증거 표준](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard) — 그 집행을 위한 증거의 충분성.
 - 함께 읽기: [제5장 독립 정의](core_05__definitions_home.md#1-interdependent-definitions) — 평가의 범위와 조건을 다스리는 적용되는 정의; 평가 요건은 입장 범위 안에서 적용되는 모든 제5장 정의와 일관되게 적용된다.
 
 </details>
@@ -188,9 +188,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: [§1 목적과 역할](#1-purpose-and-role) — O/M/A/C 구성 구조와 전체 체계 공동 충족 규칙.
-- 하류: [§2.4 모호성 아래의 해석 규칙](#24-interpretation-rule-under-ambiguity); [§3 정의 스택에 걸친 일관성](#3-consistency-across-the-definition-stack); [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [제4장, 1절 — 전속 집행과 부담 배분](../../core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [제4장, 5절 — 준수 증거 표준](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
-- 함께 읽기: [제5장 무리 정의 (예견 가능성 주의)](../../core_05_band_oversight.md#foreseeability-diligence) — 제2장부터 제4장의 모든 「합리적으로 예견 가능한」에 대한 운영 의미.
+- 상류: [§1 목적과 역할](#1-목적과-역할) — O/M/A/C 구성 구조와 전체 체계 공동 충족 규칙.
+- 하류: [§2.4 모호성 아래의 해석 규칙](#24-모호성-아래의-해석-규칙); [§3 정의 스택에 걸친 일관성](#3-정의-스택에-걸친-일관성); [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-정의-완전성과-회피-금지-제약); [제4장, 1절 — 전속 집행과 부담 배분](../../core_04.000_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [제4장, 5절 — 준수 증거 표준](../../core_04.000_burden_traceability_verification.md#5-compliance-evidence-standard).
+- 함께 읽기: [제5장 무리 정의 (예견 가능성 주의)](../../core_05.050_band_oversight.md#foreseeability) — 제2장부터 제4장의 모든 「합리적으로 예견 가능한」에 대한 운영 의미.
 
 </details>
 
@@ -200,7 +200,7 @@
 
 <a id="21-core-integrity-conditions"></a>
 #### 2.1 핵심 완전성 조건
-모든 정의는 적용될 때 함께 버티어야 한다. [§1 목적과 역할](#1-purpose-and-role)이 요구하는 연결된 부분은 다음이어야 한다:
+모든 정의는 적용될 때 함께 버티어야 한다. [§1 목적과 역할](#1-목적과-역할)이 요구하는 연결된 부분은 다음이어야 한다:
 - 서로 여전히 일치할 것
 - 모두 함께 충족될 것; 하나나 둘을 충족하는 것만으로는 부족하다
 - 같은 체계에서, 같은 조건 아래에서 충족될 것 — 좁은 조각에서 한 부분을 통과하고 다른 조각에서 다른 부분을 통과할 수 없다
@@ -217,9 +217,9 @@
 <a id="23-construction-constraints"></a>
 #### 2.3 작성 제약
 정의는 다음이 되도록 쓰여야 한다:
-- 모든 부분 (O, M, E, C)은 체계가 실제로 행동하고 실제로 산출하는 것을 반영하는 조건 아래에서만, 함께만 충족될 수 있을 것
+- 모든 부분 (O, M, A, C)은 체계가 실제로 행동하고 실제로 산출하는 것을 반영하는 조건 아래에서만, 함께만 충족될 수 있을 것
 - 어떤 부분도 일반화하고, 일을 쪼개고, 범위를 좁히거나, 실제로 중요한 체계 요소, 상호작용, 효과를 빼는 기술로 충족되어서는 안 될 것
-- 어떤 측정도 그것이 포착해야 할 결과를 대신해서는 안 된다; 그것이 나타내는 실세계 결과에서 이탈하는 측정([대리지표 이탈](../../core_05_band_oversight.md#proxy-divergence)을 보라)은 정의를 충족할 수 없으며, 측정의 선택은 평가되어야 할 것이나 실무에서 버티어야 할 것을 줄여서는 안 된다
+- 어떤 측정도 그것이 포착해야 할 결과를 대신해서는 안 된다; 그것이 나타내는 실세계 결과에서 이탈하는 측정([대리지표 이탈](../../core_05.050_band_oversight.md#proxy-divergence)을 보라)은 정의를 충족할 수 없으며, 측정의 선택은 평가되어야 할 것이나 실무에서 버티어야 할 것을 줄여서는 안 된다
 - 말해지지 않은 가정, 숨은 의존, 또는 빠진 조건이 평가되어야 할 것이나 실무에서 버티어야 할 것을 바꾸거나 약화시켜서는 안 된다
 
 <a id="24-interpretation-rule-under-ambiguity"></a>
@@ -237,13 +237,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: [§2 정의 완전성 요건](#2-definition-integrity-requirement); [§1 목적과 역할](#1-purpose-and-role).
-- 하류: [제3장, 2절 — 관찰 가능한 체계 행위에서 오는 비준수](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [제4장, 2절 — 정의 추적 가능성 요건](../../core_04_burden_traceability_verification.md#2-definition-traceability-requirement); 「합리적으로 예견 가능한」이 제5장으로의 줄 안 포인터 없이 나타나는 제4장 절 **4.1**, **3**, **5**, **6**.
-- 함께 읽기: [제5장 무리 정의 (예견 가능성 주의)](../../core_05_band_oversight.md#foreseeability-diligence) — 제2장부터 제4장의 모든 「합리적으로 예견 가능한」을 다스리는 규칙; 운영 의미는 [합리적으로 예견 가능한](../../core_05_band_oversight.md#reasonably-foreseeable) (제5장, 3절 — 의존 무리 (진실과 인식 완전성 무리; 예견 가능성 주의)).
+- 상류: 원칙: [§2 정의 완전성 요건](#2-정의-완전성-요건); [§1 목적과 역할](#1-목적과-역할).
+- 하류: [제3장, 2절 — 관찰 가능한 체계 행위에서 오는 비준수](core_03_definition_integrity.md#2-관찰-가능한-체계-행위에서-오는-비준수); [제4장, 2절 — 정의 추적 가능성 요건](../../core_04.000_burden_traceability_verification.md#2-definition-traceability-requirement); 「합리적으로 예견 가능한」이 제5장으로의 줄 안 포인터 없이 나타나는 제4장 절 **4.1**, **3**, **5**, **6**.
+- 함께 읽기: [제5장 무리 정의 (예견 가능성 주의)](../../core_05.050_band_oversight.md#foreseeability) — 제2장부터 제4장의 모든 「합리적으로 예견 가능한」을 다스리는 규칙; 운영 의미는 [합리적으로 예견 가능한](../../core_05.050_band_oversight.md#reasonably-foreseeable) (제5장, 3절 — 의존 무리 (진실과 인식 완전성 무리; 예견 가능성 주의)).
 
 </details>
 
-<strong><span style="color: #2563eb;">정의:</span></strong> [예견 가능성](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">정의:</span></strong> [예견 가능성](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
 
 *쉬운 말로: 정의는 종이 위에서만 함께 버티면 안 됩니다 — 실세계의 정의 스택에 걸쳐 함께 버텨야 합니다. 그 부분들은 보통, 저하, 적대 운영에 걸쳐, 시간에 걸쳐, 연결된 체계에 걸쳐, 합리적으로 내다볼 수 있는 모든 상황에서, 그 말의 모든 공정한 읽기 아래에서, 같은 방식으로 맞춰져야 합니다.*
 
@@ -260,4 +260,4 @@
 
 **다음 파일(이 언어):** [core_03_definition_integrity.md](core_03_definition_integrity.md)
 
-**구속력 있는 원문:** [core_02_definition_structure.md](../../core_02_definition_structure.md)
+**구속력 있는 원문:** [core_02_definition_structure.md](../../core_02.000_definition_structure.md)

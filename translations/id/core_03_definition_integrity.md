@@ -4,7 +4,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Letak dalam korpus (non-operatif): struktur berkas dan aturan baca</span></strong></summary>
 
-> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Tiga bahasa Inggris](../../core_03_definition_integrity.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_03_definition_integrity.md`](../../core_03_definition_integrity.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
+> Berkas ini adalah **uji coba bahasa pembaca** atas [Bab Tiga bahasa Inggris](../../core_03.000_definition_integrity.md). **Bukan** bagian mengikat Konstitusi Makhluk Sadar. **Bukan** konstitusi kedua. **Bukan** edisi kirim. **Disematkan** pada `SC-Corpus-2026.08.09`. Jika terjemahan ini dan sumber bahasa Inggris tampak berselisih, berkas bernomor [`core_03_definition_integrity.md`](../../core_03.000_definition_integrity.md) yang menang. Urutan baca dan metadata edisi tetap di [README.md](../../README.md). Metode dan glosarium: [translations/id/README.md](README.md).
 >
 > **Sebelumnya (lokal ini):** [core_02_definition_structure.md](core_02_definition_structure.md)
 >
@@ -36,8 +36,8 @@ Bab Tiga adalah pemilik konstitusional atas **integritas definisi, pengelakan, d
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Dua, §1 — Tujuan dan Peran](core_02_definition_structure.md#1-purpose-and-role); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-definition-integrity-requirement).
-- Hilir: [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](#2-non-compliance-from-observable-system-behavior); [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Hulu: Prinsip: [Bab Dua, §1 — Tujuan dan Peran](core_02_definition_structure.md#1-tujuan-dan-peran); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-persyaratan-integritas-definisi).
+- Hilir: [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati); [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](core_04_burden_traceability_verification.md#2-persyaratan-ketelusuran-definisi); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#5-standar-bukti-kepatuhan); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 - Baca bersama: [Bab Satu, bagian 4.2 — Kebenaran (Batasan Integritas Epistemik)](core_01_a_values_principles.md#5-kebenaran-batasan-integritas-epistemik) — tafsir berdasarkan perilaku yang dapat diamati daripada struktur atau maksud yang dinyatakan mengoperasionalkan batasan kebenaran konstitusional pada lapisan integritas-definisi.
 
 </details>
@@ -45,31 +45,31 @@ Bab Tiga adalah pemilik konstitusional atas **integritas definisi, pengelakan, d
 <details>
 <summary><strong><span style="color: #2563eb;">Indeks Bab Tiga (non-operatif): tautan alfabetis ke tajuk dalam bab</span></strong></summary>
 
-[Batasan Integritas Cakupan Lintas-Komponen](#23-cross-component-scope-integrity-constraint)
+[Batasan Integritas Cakupan Lintas-Komponen](#23-batasan-integritas-cakupan-lintas-komponen)
 
-[Batasan Integritas Interaksi Lintas-Sistem](#24-cross-system-interaction-integrity-constraint)
+[Batasan Integritas Interaksi Lintas-Sistem](#24-batasan-integritas-interaksi-lintas-sistem)
 
-[Integritas Definisi dan Batasan Anti-Pengelakan](#1-definition-integrity-and-anti-evasion-constraints)
+[Integritas Definisi dan Batasan Anti-Pengelakan](#1-integritas-definisi-dan-batasan-anti-pengelakan)
 
-[Profil Temuan Ketidakpatuhan](#3-non-compliance-finding-profiles)
+[Profil Temuan Ketidakpatuhan](#3-profil-temuan-ketidakpatuhan)
 
-[Batasan Operasional](#34-operational-constraints)
+[Batasan Operasional](#34-batasan-operasional)
 
-[Akibat Jejak bagi Sistem yang Sudah Disertifikasi](#31-standing-effects-for-already-certified-systems)
+[Akibat Jejak bagi Sistem yang Sudah Disertifikasi](#31-akibat-jejak-bagi-sistem-yang-sudah-disertifikasi)
 
-[Akibat Jejak pada Sertifikasi Pertama](#32-standing-effects-at-first-certification)
+[Akibat Jejak pada Sertifikasi Pertama](#32-akibat-jejak-pada-sertifikasi-pertama)
 
-[Akibat Jejak bagi Makhluk Sadar dan Lembaga](#33-standing-effects-for-sentients-and-institutions)
+[Akibat Jejak bagi Makhluk Sadar dan Lembaga](#33-akibat-jejak-bagi-makhluk-sadar-dan-lembaga)
 
-[Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](#2-non-compliance-from-observable-system-behavior)
+[Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati)
 
-[Pola Pengelakan Umum](#21-common-evasion-patterns)
+[Pola Pengelakan Umum](#21-pola-pengelakan-umum)
 
-[Pengelakan Reduktif](#22-reductive-evasion)
+[Pengelakan Reduktif](#22-pengelakan-reduktif)
 
-[Batasan Integritas Temporal dan Kontinuitas](#25-temporal-integrity-and-continuity-constraint)
+[Batasan Integritas Temporal dan Kontinuitas](#25-batasan-integritas-temporal-dan-kontinuitas)
 
-[Batasan Integritas Ketidakpastian dan Non-Eksploitasi](#26-uncertainty-integrity-and-non-exploitation-constraint)
+[Batasan Integritas Ketidakpastian dan Non-Eksploitasi](#26-batasan-integritas-ketidakpastian-dan-non-eksploitasi)
 
 </details>
 
@@ -78,7 +78,7 @@ Bab Tiga adalah pemilik konstitusional atas **integritas definisi, pengelakan, d
 Bagian ini mengatur bagaimana definisi harus ditafsirkan dan diterapkan dalam praktik.
 
 - Definisi harus ditafsirkan dan diterapkan berdasarkan perilaku sistem dan hasil yang dapat diamati di bawah kondisi sistem fungsional penuh.
-- Tafsir, penyusunan, dan perilaku sistem yang meruntuhkan cakupan semantik, penilaian, dan kepatuhan penuh definisi — yang sesuai dengan komponen Ontologis (O), Penilaian (A), dan Kepatuhan (C) mereka — dilarang; [**Bagian 2**](#2-non-compliance-from-observable-system-behavior) bab ini merinci ketidakpatuhan dari perilaku yang dapat diamati dan pengelakan.
+- Tafsir, penyusunan, dan perilaku sistem yang meruntuhkan cakupan semantik, penilaian, dan kepatuhan penuh definisi — yang sesuai dengan komponen Ontologis (O), Penilaian (A), dan Kepatuhan (C) mereka — dilarang; [**Bagian 2**](#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati) bab ini merinci ketidakpatuhan dari perilaku yang dapat diamati dan pengelakan.
 - Kesetaraan fungsional mengalahkan penamaan, struktur, dekomposisi, representasi, atau maksud yang dinyatakan; hasil yang dihasilkan suatu sistem mengatur bagaimana ia diklasifikasi dan dievaluasi.
 
 Bagian ini tidak mendefinisikan standar evaluasi, kecukupan bukti, atau beban pembuktian, yang diatur secara eksklusif oleh **Bab Dua, bagian 1** dan **Bab Empat, bagian 1 dan 4**.
@@ -88,9 +88,9 @@ Bagian ini tidak mendefinisikan standar evaluasi, kecukupan bukti, atau beban pe
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](#1-definition-integrity-and-anti-evasion-constraints); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-definition-integrity-requirement); [Bab Dua, §2.2 Ketidakpatuhan karena Pelemahan Struktural atau Terapan](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening).
-- Hilir: katalog jenis di bagian [2.1](#21-common-evasion-patterns) sampai [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint); [3. Profil Temuan Ketidakpatuhan](#3-non-compliance-finding-profiles); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [Bab Empat, bagian 3 — Persyaratan Observabilitas Ketelusuran](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [Bab Sembilan §7](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes) (*penunjuk pembukaan ulang sertifikasi keselarasan sistem dan anti-pengelakan*); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Baca bersama: [Bab Dua, §1 — Tujuan dan Peran](core_02_definition_structure.md#1-purpose-and-role) bagi aturan pemenuhan-bersama di bawah kondisi sistem fungsional penuh; [Bab Dua, §2.4 Aturan Tafsir di bawah Ambiguitas](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — tafsir yang melemahkan pagar pengaman, menyusutkan apa yang harus dinilai, atau memperburuk hasil dunia nyata tidak sah; [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — bukti harus menunjukkan kepatuhan di bawah aturan di bagian ini; bukti yang akan tidak patuh di sini gagal beban pembuktian; [Ketidakpatuhan](../../core_05_band_integrative.md#non-compliance).
+- Hulu: Prinsip: [Bab Tiga, bagian 1 — Integritas Definisi dan Batasan Anti-Pengelakan](#1-integritas-definisi-dan-batasan-anti-pengelakan); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-persyaratan-integritas-definisi); [Bab Dua, §2.2 Ketidakpatuhan karena Pelemahan Struktural atau Terapan](core_02_definition_structure.md#22-ketidakpatuhan-karena-pelemahan-struktural-atau-terapan).
+- Hilir: katalog jenis di bagian [2.1](#21-pola-pengelakan-umum) sampai [2.6](#26-batasan-integritas-ketidakpastian-dan-non-eksploitasi); [3. Profil Temuan Ketidakpatuhan](#3-profil-temuan-ketidakpatuhan); [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#5-standar-bukti-kepatuhan); [Bab Empat, bagian 3 — Persyaratan Observabilitas Ketelusuran](core_04_burden_traceability_verification.md#3-persyaratan-observabilitas-ketelusuran); [Bab Sembilan §7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) (*penunjuk pembukaan ulang sertifikasi keselarasan sistem dan anti-pengelakan*); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- Baca bersama: [Bab Dua, §1 — Tujuan dan Peran](core_02_definition_structure.md#1-tujuan-dan-peran) bagi aturan pemenuhan-bersama di bawah kondisi sistem fungsional penuh; [Bab Dua, §2.4 Aturan Tafsir di bawah Ambiguitas](core_02_definition_structure.md#24-aturan-tafsir-di-bawah-ambiguitas) — tafsir yang melemahkan pagar pengaman, menyusutkan apa yang harus dinilai, atau memperburuk hasil dunia nyata tidak sah; [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#5-standar-bukti-kepatuhan) — bukti harus menunjukkan kepatuhan di bawah aturan di bagian ini; bukti yang akan tidak patuh di sini gagal beban pembuktian; [Ketidakpatuhan](../../core_05.045_band_integrative.md#non-compliance).
 
 </details>
 
@@ -124,7 +124,7 @@ Subbagian jenis di bawah mendaftar pola umum. Mereka tidak menggantikan aturan p
 <a id="21-common-evasion-patterns"></a>
 #### 2.1 Pola Pengelakan Umum
 
-*Dalam bahasa sederhana: ini cara-cara umum suatu sistem dapat tampak patuh tanpa benar-benar memenuhi definisi — ukuran yang ditukar, dokumen administrasi palsu, cakupan yang dipotong, atau insentif yang mendorong semua orang menjauh dari kepatuhan. Daftar ini tidak tertutup. Jenis dapat terjadi bersama. Menyusutkan apa yang dimaksud definisi dicakup di [§2.2](#22-reductive-evasion).*
+*Dalam bahasa sederhana: ini cara-cara umum suatu sistem dapat tampak patuh tanpa benar-benar memenuhi definisi — ukuran yang ditukar, dokumen administrasi palsu, cakupan yang dipotong, atau insentif yang mendorong semua orang menjauh dari kepatuhan. Daftar ini tidak tertutup. Jenis dapat terjadi bersama. Menyusutkan apa yang dimaksud definisi dicakup di [§2.2](#22-pengelakan-reduktif).*
 
 Bentuk pengelakan berikut dilarang:
 
@@ -132,7 +132,7 @@ Bentuk pengelakan berikut dilarang:
   - mengganti dengan ukuran, indikator, atau deskripsi yang menyimpang dari perihal definisi, sambil tetap mengklaim lulus
   - mengoptimalkan suatu skor atau ukuran dengan cara yang membuat hasil dunia nyata yang dituntut definisi menjadi lebih buruk
   - menyajikan catatan, artefak, atau bukti yang secara material salah menyatakan apa yang benar-benar dilakukan sistem atau apakah ia patuh
-  - memenuhi persyaratan dalam nama, struktur, atau proses tanpa menghasilkan efek dunia nyata yang dituntut definisi (lihat juga [§2.1.1](#211-formal-label-and-representation-gaming))
+  - memenuhi persyaratan dalam nama, struktur, atau proses tanpa menghasilkan efek dunia nyata yang dituntut definisi (lihat juga [§2.1.1](#211-permainan-label-formal-dan-representasi))
 - **Trik cakupan dan batas** — mengatur apa yang dihitung, dan kapan, sehingga bagian sulit tidak pernah diuji:
   - mempersempit evaluasi atau penerapan untuk meninggalkan unsur sistem, efek, atau kondisi yang penting
   - memecah tanggung jawab lintas komponen, pelaku, atau waktu sehingga tidak seorang pun harus memenuhi definisi bagi seluruh sistem
@@ -153,7 +153,7 @@ Ini adalah bentuk terfokus dari **Ukuran palsu dan dokumen administrasi**. Siste
 - penggantian nama formal, restrukturisasi, atau reklasifikasi entitas yang melepas kewajiban tanpa memindahkan tanggung jawab dalam praktik
 - pilihan taksonomi yang nyaman yang menghapus pembedaan yang dituntut definisi
 
-Di mana perubahan struktur-formal bersifat material, terapkan [Bab Satu §11.6 Tanggung Jawab Penerus dan Non-Pelarian Struktur-Formal](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes).
+Di mana perubahan struktur-formal bersifat material, terapkan [Bab Satu §11.6 Tanggung Jawab Penerus dan Non-Pelarian Struktur-Formal](core_01_c_stewardship_capacity_principles.md#196-mempertahankan-tanggung-jawab-ketika-kepemilikan-atau-struktur-berubah).
 
 <a id="22-reductive-evasion"></a>
 #### 2.2 Pengelakan Reduktif
@@ -208,41 +208,41 @@ Suatu sistem tidak patuh di mana ia:
 - memperkuat ambiguitas untuk melemahkan ketegasan atau hasil yang dituntut
 - menuntut kepastian yang tidak dapat dicapai untuk mengakui ketidakpatuhan
 
-Di mana ketidakpastian mencegah demonstrasi kepatuhan yang definitif bagi komponen definisi yang relevan secara material, sistem harus memenuhi beban kehati-hatian yang sepadan dengan potensi bahaya. Gagal melakukan itu adalah ketidakpatuhan di bawah bagian ini dan gagal beban pembuktian di bawah [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
+Di mana ketidakpastian mencegah demonstrasi kepatuhan yang definitif bagi komponen definisi yang relevan secara material, sistem harus memenuhi beban kehati-hatian yang sepadan dengan potensi bahaya. Gagal melakukan itu adalah ketidakpatuhan di bawah bagian ini dan gagal beban pembuktian di bawah [Bab Empat, bagian 5 — Standar Bukti Kepatuhan](core_04_burden_traceability_verification.md#5-standar-bukti-kepatuhan).
 
 <a id="3-non-compliance-finding-profiles"></a>
 ### 3. Profil Temuan Ketidakpatuhan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](#2-non-compliance-from-observable-system-behavior); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-definition-integrity-requirement).
-- Hilir: [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Bab Sebelas — Akibat Jejak dan Integrasi](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Kompas konstitusional dan peta klaster](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
-- Baca bersama: [Profil Temuan Ketidakpatuhan](../../core_05_band_accountability.md#non-compliance-finding-profile) — rumah O/M/A/C kanonik bagi ruas profil; [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims).
+- Hulu: [Bab Tiga, bagian 2 — Ketidakpatuhan dari Perilaku Sistem yang Dapat Diamati](#2-ketidakpatuhan-dari-perilaku-sistem-yang-dapat-diamati); [Bab Dua, §2 Persyaratan Integritas Definisi](core_02_definition_structure.md#2-persyaratan-integritas-definisi).
+- Hilir: [Bab Empat, bagian 2 — Persyaratan Ketelusuran Definisi](core_04_burden_traceability_verification.md#2-persyaratan-ketelusuran-definisi); [Bab Sembilan — Sertifikasi Keselarasan Sistem](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Bab Sepuluh — Model Kontribusi, Pelanggaran, dan Jejak](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Bab Sebelas — Akibat Jejak dan Integrasi](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Kompas konstitusional dan peta klaster](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- Baca bersama: [Profil Temuan Ketidakpatuhan](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — rumah O/M/A/C kanonik bagi ruas profil; [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims).
 
 </details>
 
 <br>
 
-*Dalam bahasa sederhana: ketika sesuatu gagal pada suatu definisi, profil temuan adalah label opsional yang mengatakan jenis masalah konstitusional apa itu — untuk perutean dan audit. Ia tidak mengubah hasil lulus/gagal. Bagi sistem yang sudah berjalan di bawah sertifikasi keselarasan, ketidakpatuhan terverifikasi harus memberi makan jejak; makhluk sadar dan lembaga ditandai hanya ketika tautan terverifikasi. Sertifikasi pertama kali adalah kasus khusus ([§3.2](#32-standing-effects-at-first-certification)).*
+*Dalam bahasa sederhana: ketika sesuatu gagal pada suatu definisi, profil temuan adalah label opsional yang mengatakan jenis masalah konstitusional apa itu — untuk perutean dan audit. Ia tidak mengubah hasil lulus/gagal. Bagi sistem yang sudah berjalan di bawah sertifikasi keselarasan, ketidakpatuhan terverifikasi harus memberi makan jejak; makhluk sadar dan lembaga ditandai hanya ketika tautan terverifikasi. Sertifikasi pertama kali adalah kasus khusus ([§3.2](#32-akibat-jejak-pada-sertifikasi-pertama)).*
 
-Temuan **ketidakpatuhan** material di bawah bab ini atau di bawah definisi **Bab Lima** yang diundang boleh membawa suatu [Profil Temuan Ketidakpatuhan](../../core_05_band_accountability.md#non-compliance-finding-profile). Profil itu hanya metadata orientasi dan perutean. Ia:
+Temuan **ketidakpatuhan** material di bawah bab ini atau di bawah definisi **Bab Lima** yang diundang boleh membawa suatu [Profil Temuan Ketidakpatuhan](../../core_05.035_band_accountability.md#non-compliance-finding-profile). Profil itu hanya metadata orientasi dan perutean. Ia:
 
 - boleh menamai kaki [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) dan orientasi [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims) mana yang paling menggambarkan kegagalan — misalnya Pengawasan, Partisipasi, atau Pertanggungjawaban disilangkan dengan Berkembang atau Kesinambungan
 - tidak mengubah apakah definisi yang mendasari dipenuhi
 - tidak menciptakan label putusan kedua
-- tidak menggantikan pengukuran kontribusi atau pelanggaran [Bab Sepuluh](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)
+- tidak menggantikan pengukuran kontribusi atau pelanggaran [Bab Sepuluh](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)
 
 Akibat jejak bergantung pada siapa yang dinilai dan apakah sistem sudah disertifikasi. Subbagian di bawah menetapkan kasus itu.
 
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 Akibat Jejak bagi Sistem yang Sudah Disertifikasi
 
-Jika sistem sudah berjalan berdasarkan suatu [sertifikasi keselarasan sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — termasuk sertifikasi, sertifikasi bersyarat, atau sertifikasi ulang yang belum kedaluwarsa — ketidakpatuhan terverifikasi yang material dalam cakupan fungsional sistem itu **harus** masuk ke pengukuran jejak [Bab Sepuluh](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) untuk **sistem itu**. Hanya fakta yang lolos [gerbang masukan terverifikasi](../../core_10_standing_assessment.md#verified-inputs-for-standing) yang boleh masuk.Ukur jejak menurut [Bab Sepuluh](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); terapkan integrasi dan dampaknya menurut [Bab Sebelas](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration). Pembukaan kembali, pencabutan, atau konsekuensi sertifikasi lainnya tetap ditangani dalam [Bab Sembilan](../../core_09_b_system_alignment_certification_record_process.md#7-certification-outcomes). Semua itu tidak menggantikan catatan jejak sistem tersebut.
+Jika sistem sudah berjalan berdasarkan suatu [sertifikasi keselarasan sistem](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — termasuk sertifikasi, sertifikasi bersyarat, atau sertifikasi ulang yang belum kedaluwarsa — ketidakpatuhan terverifikasi yang material dalam cakupan fungsional sistem itu **harus** masuk ke pengukuran jejak [Bab Sepuluh](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) untuk **sistem itu**. Hanya fakta yang lolos [gerbang masukan terverifikasi](../../core_10.000_standing_assessment.md#verified-inputs-for-standing) yang boleh masuk.Ukur jejak menurut [Bab Sepuluh](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); terapkan integrasi dan dampaknya menurut [Bab Sebelas](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). Pembukaan kembali, pencabutan, atau konsekuensi sertifikasi lainnya tetap ditangani dalam [Bab Sembilan](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes). Semua itu tidak menggantikan catatan jejak sistem tersebut.
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 Akibat Jejak pada Sertifikasi Pertama
 
-Jika sistem masih dalam [sertifikasi keselarasan sistem](../../core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) **pertamanya** dan belum disertifikasi — termasuk jika sertifikasi ditunda atau ditolak — ketidakpatuhan terverifikasi terutama menentukan **hasil sertifikasi** menurut Bab Sembilan. Hasilnya dapat berupa sertifikasi bersyarat, sertifikasi tertunda, tidak disertifikasi, atau hasil sebanding. Sebelum sertifikasi diberikan, catatan sertifikasi itu tidak memasok masukan jejak, sesuai [Bab Sembilan §10 Hubungan dengan Jejak](../../core_09_b_system_alignment_certification_record_process.md#10-relationship-to-standing), yang hanya menautkan masukan jejak dari sistem bersertifikat. Setelah sertifikasi diberikan, termasuk sertifikasi bersyarat, berlaku [§3.1 Akibat Jejak bagi Sistem yang Sudah Disertifikasi](#31-standing-effects-for-already-certified-systems). Bab ini tidak menuntut catatan jejak yang sama dengan yang diwajibkan bagi sistem berjalan yang sudah disertifikasi.
+Jika sistem masih dalam [sertifikasi keselarasan sistem](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) **pertamanya** dan belum disertifikasi — termasuk jika sertifikasi ditunda atau ditolak — ketidakpatuhan terverifikasi terutama menentukan **hasil sertifikasi** menurut Bab Sembilan. Hasilnya dapat berupa sertifikasi bersyarat, sertifikasi tertunda, tidak disertifikasi, atau hasil sebanding. Sebelum sertifikasi diberikan, catatan sertifikasi itu tidak memasok masukan jejak, sesuai [Bab Sembilan §10 Hubungan dengan Jejak](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing), yang hanya menautkan masukan jejak dari sistem bersertifikat. Setelah sertifikasi diberikan, termasuk sertifikasi bersyarat, berlaku [§3.1 Akibat Jejak bagi Sistem yang Sudah Disertifikasi](#31-akibat-jejak-bagi-sistem-yang-sudah-disertifikasi). Bab ini tidak menuntut catatan jejak yang sama dengan yang diwajibkan bagi sistem berjalan yang sudah disertifikasi.
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 Akibat Jejak bagi Makhluk Sadar dan Lembaga
@@ -258,7 +258,7 @@ Jejak suatu makhluk sadar terdampak hanya ketika tautan terverifikasi ke makhluk
 - penyembunyian
 - kapasitas pencegahan yang layak
 
-Jejak suatu lembaga terdampak ketika lembaga itu adalah subjek yang dinilai, atau ketika ia terverifikasi sebagai wahana pola ketidakpatuhan. Catatan lembaga tetap dapat ditelusuri secara terpisah dari catatan makhluk sadar individual. Terapkan kasus itu di bawah [Bab Sepuluh](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) dan [Bab Sebelas](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration). Profil temuan membantu merute dan mengaudit. Ia sendiri tidak menetapkan hasil jejak, slot, kunci jejak, gerbang, atau pemulihan.
+Jejak suatu lembaga terdampak ketika lembaga itu adalah subjek yang dinilai, atau ketika ia terverifikasi sebagai wahana pola ketidakpatuhan. Catatan lembaga tetap dapat ditelusuri secara terpisah dari catatan makhluk sadar individual. Terapkan kasus itu di bawah [Bab Sepuluh](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) dan [Bab Sebelas](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). Profil temuan membantu merute dan mengaudit. Ia sendiri tidak menetapkan hasil jejak, slot, kunci jejak, gerbang, atau pemulihan.
 
 <a id="34-operational-constraints"></a>
 #### 3.4 Batasan Operasional
@@ -271,4 +271,4 @@ Ketidakpatuhan juga boleh ditemukan terhadap batasan operasional di korpus imple
 
 **Berkas berikutnya (bahasa ini):** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 
-**Sumber mengikat:** [core_03_definition_integrity.md](../../core_03_definition_integrity.md)
+**Sumber mengikat:** [core_03_definition_integrity.md](../../core_03.000_definition_integrity.md)

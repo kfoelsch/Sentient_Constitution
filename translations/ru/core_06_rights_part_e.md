@@ -73,7 +73,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Процесс разрешения конституционных конфликтов](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) и [§15 Конституционное толкование](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Процесс разрешения конституционных конфликтов](core_01_b_interaction_interpretation.md#13-процедура-разрешения-конституционных-коллизий) и [§15 Конституционное толкование](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - Читать вместе с: семейством показателей своевременности (*Своевременное разрешение как конституционный показатель*).
 
 </details>
@@ -85,9 +85,9 @@ flowchart TB
 - [Процессуальная справедливость](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [Своевременное разрешение](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 - [Восстановительное правосудие](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [Аудируемость](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Аудируемость](core_05_band_oversight.md#аудитируемость) · [O](core_05_band_oversight.md#аудитируемость) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Оспоримость](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Прозрачность](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Прозрачность](core_05_band_oversight.md#прозрачность) · [O](core_05_band_oversight.md#прозрачность) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
 
@@ -115,7 +115,7 @@ flowchart TB
 *Смежные статьи:*
 
 - **Минимум своевременности:** Скорость разрешения, дисциплина против задержек и этапы по уровням материальности регулируются **Статьёй XXVI-C** (*Своевременное разрешение и минимум защиты от задержек*) и реализуются посредством [Главы тринадцатой §6 Своевременное разрешение, уровни материальности и дисциплина против задержек](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
-- **Своевременное восстановление нарушенных прав:** Читать вместе со [**Статьёй XIII-B** (*Право на восстановление права и средство защиты*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*своевременный доступ к восстановлению прав*).
+- **Своевременное восстановление нарушенных прав:** Читать вместе со [**Статьёй XIII-B** (*Право на восстановление права и средство защиты*)](core_06_rights_part_c.md#статья-xiii-b-право-на-возмещение-и-исправление) (*своевременный доступ к восстановлению прав*).
 - **Чрезвычайные меры:** Регулируются [Главой двенадцатой §6.1 Чрезвычайные меры и бремя продолжения](core_13_forum.md#61-emergency-measures-and-continuation-burden). Ретроспективный пересмотр чрезвычайной меры регулируется **Статьёй XXVI-A** (*Ретроспективный пересмотр и раскрытие информации*).
 - **Правосудие после подтверждённого нарушения:** Регулируется **Статьёй XX** (*Правосудие после подтверждённого нарушения*).
 
@@ -130,16 +130,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: Глава первая [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Предшествующие положения: Принципы: Глава первая [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-ограничения-на-раскрытие-знаний) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Аудируемость](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Аудируемость](core_05_band_oversight.md#аудитируемость) · [O](core_05_band_oversight.md#аудитируемость) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -167,7 +167,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: Глава первая [§13.1.5 Критерий принятия решения при конфликте прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Предшествующие положения: Принципы: Глава первая [§13.1.5 Критерий принятия решения при конфликте прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
 - Читать вместе с: [Главой десятой §4.3](core_11_standing_integration.md#43-voluntary-public-accountability-expression) (*Добровольное публичное выражение подотчётности*); [Главой одиннадцатой §4.3](core_12_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Добровольное публичное выражение подотчётности (антиконституционное)*).
 
 </details>
@@ -206,7 +206,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
 - Предшествующие положения: семейство показателей своевременности (*Своевременное разрешение и дисциплина против задержек как конституционный показатель*); [Преамбула §6.2 Как связаны все звенья](core_00_preamble.md#62-how-the-full-chain-fits-together) (*процессуальная цепочка статуса участия, интеграции и координации форумов*).
-- Принципы: Глава первая [§9.2 Конституционная эффективность](core_01_a_values_principles.md#92-constitutional-efficiency), [§13.3 Минимизация предотвратимого бремени](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) и [§13.1.5 Процедура разрешения конфликтов прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Принципы: Глава первая [§9.2 Конституционная эффективность](core_01_a_values_principles.md#92-конституционная-эффективность), [§13.3 Минимизация предотвратимого бремени](core_01_b_interaction_interpretation.md#133-минимизация-предотвратимого-бремени) и [§13.1.5 Процедура разрешения конфликтов прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Последующие положения: [Глава тринадцатая §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*уровни материальности, этапы процесса и дисциплина против задержек*); [Глава тринадцатая §6.1 Чрезвычайные меры и бремя продолжения](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*те же внешние пределы, что и для сроков возобновления и оспаривания после чрезвычайного сдерживания*).
 - Вход для распорядителей (неоперативный материал): карточка следующего шага: [Задержка](implementation/STEWARD_ENTRY_DOORS.md#delay). Карточка не может сужать Конституцию.
 
@@ -233,7 +233,7 @@ flowchart TB
 - **Координационная цель:** Конституционное правосудие по **Статье XX-A** (*Цель и сфера правосудия*) осуществляется посредством **конституционной системы координации и разрешения** — проверки фактов, оценки статуса участия, интеграции последствий и восстановления, где это возможно, — а не посредством бессрочных состязательных задержек, оценки репутации или наказания ради наказания.
 - **Три совместных требования:** Процедуры разрешения материальных вопросов должны быть одновременно **своевременными**, **эффективными** и **справедливыми**:
   - **Своевременными** — с ограниченными сроками, соразмерными [материальности ставки](core_00_preamble.md#material-stake) и срочности вреда;
-  - **Эффективными** — [Конституционная эффективность](core_05_band_continuity.md#constitutional-efficiency) в смысле Главы первой [§9.2 Конституционная эффективность](core_01_a_values_principles.md#92-constitutional-efficiency): реальный конституционный результат на единицу затраченного времени разумных существ и совместных усилий, а не валовая пропускная способность или закрытие дел;
+  - **Эффективными** — [Конституционная эффективность](core_05_band_continuity.md#constitutional-efficiency) в смысле Главы первой [§9.2 Конституционная эффективность](core_01_a_values_principles.md#92-конституционная-эффективность): реальный конституционный результат на единицу затраченного времени разумных существ и совместных усилий, а не валовая пропускная способность или закрытие дел;
   - **Справедливыми** — **Статья XX-A** (*Цель и сфера правосудия*) и **Статья XX-B** (*Минимальные требования к ограничениям*) сохраняют полную силу; быстрота не оправдывает отказ от проверки фактов ([Глава десятая §3.1 Фильтр проверенных данных](core_10_standing_assessment.md#verified-inputs-for-standing)), наказание не той стороны, неподходящее вреду исправление или лишение возможности оспорить решение и обжаловать его.
 - **Надзор за форумами и процессом:** Для споров, направленных через **Главы девятую–двенадцатую**, перечисленное ниже регулируется [Главой двенадцатой §6 Своевременное разрешение, уровни материальности и дисциплина против задержек](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) при соблюдении установленного настоящей Статьёй минимума своевременности, эффективности и справедливости:
   - классификация по уровню материальности;
@@ -263,13 +263,13 @@ flowchart TB
 - **Подотчётность:** лица, контролирующие управление, обязаны отвечать за сохранение правил лишь по привычке или удобству, а также за перенаправление реальных конституционных изменений через обозначения чрезвычайных мер, реализации или хранения ради обхода **минимумов Минимумов прав** или правил законного изменения Конституции.
 - **Своевременность:** плановая повторная проверка и ускоренный пересмотр при появлении давления захвата, исключения заинтересованных сторон, ухудшения прав на оспаривание или существенной недостаточной эффективности.
 
-Правила управления, механизмы участия, модели взвешивания и структуры финансирования по-прежнему подчиняются дисциплине постоянного обоснования, предусмотренной [Главой первой §18.4 Постоянное обоснование](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). **Статья XXVII-A** (*Недопущение закрепления и возможность пересмотра*) и **Статья XXVII-B** (*Периодическая повторная проверка и прозрачные изменения*) устанавливают оперативные минимумы недопущения закрепления, повторной проверки и прозрачных изменений.
+Правила управления, механизмы участия, модели взвешивания и структуры финансирования по-прежнему подчиняются дисциплине постоянного обоснования, предусмотренной [Главой первой §18.4 Постоянное обоснование](core_01_c_stewardship_capacity_principles.md#184-непрерывное-обоснование). **Статья XXVII-A** (*Недопущение закрепления и возможность пересмотра*) и **Статья XXVII-B** (*Периодическая повторная проверка и прозрачные изменения*) устанавливают оперативные минимумы недопущения закрепления, повторной проверки и прозрачных изменений.
 
 #### Статья XXVII-A: недопущение закрепления и возможность пересмотра
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: [Глава первая §18.4 Постоянное обоснование](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Глава первая [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Глава первая §14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Предшествующие положения: Принципы: [Глава первая §18.4 Постоянное обоснование](core_01_c_stewardship_capacity_principles.md#184-непрерывное-обоснование); Глава первая [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Глава первая §14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -277,7 +277,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
 - [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [Прозрачность](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Прозрачность](core_05_band_oversight.md#прозрачность) · [O](core_05_band_oversight.md#прозрачность) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Заинтересованная сторона](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
 
 </details>
@@ -307,7 +307,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Прозрачность](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Прозрачность](core_05_band_oversight.md#прозрачность) · [O](core_05_band_oversight.md#прозрачность) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [Оспоримость](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы разрешения компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Глава одиннадцатая §5.4](core_11_standing_integration.md#54-special-violation-rules) (*эта Статья ограничивает на время перехода лишение несоответствующих вознаграждений и связанное с этим сообщение*); [Глава восьмая — Сертификация согласованности системы](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы разрешения компромиссов](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Глава одиннадцатая §5.4](core_11_standing_integration.md#54-special-violation-rules) (*эта Статья ограничивает на время перехода лишение несоответствующих вознаграждений и связанное с этим сообщение*); [Глава восьмая — Сертификация согласованности системы](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -376,7 +376,7 @@ flowchart TB
 - [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Соразмерность](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Благополучие](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [Сохранение доказательств](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [Сохранение доказательств](core_05_band_oversight.md#сохранение-доказательств) · [O](core_05_band_oversight.md#сохранение-доказательств) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
 - [Необходимость](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
@@ -395,12 +395,12 @@ flowchart TB
     - политическом давлении.
   - Критерии, доказательства их выполнения и решение о переходе публикуются. Затронутые заинтересованные стороны могут комментировать критерии до их принятия и оспаривать решение.
   - Содержание критериев, назначение ответственных и материалы проверки регулируются [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Временное управление и эволюция институтов*) и [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*Критерии этапа и правила продвижения*).
-- **Принятие Минимумов прав — воздержание сразу, обеспечение по мере создания готовности:** **Минимумы Минимумов прав**, применяемые посредством **Статьи VI** (*Равенство основных прав*) согласно [Принципу минимумов Минимумов прав](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), вместе с более строгими отраслевыми минимумами в отношении выживания, субъектности, недискриминации, доступности, аудируемости и средств защиты, обусловленными затронутым контекстом, являются принятой целью на каждом этапе. Минимум прав нельзя полностью обеспечить до создания соответствующих институтов и культуры; настоящая Статья не утверждает обратного и не позволяет снижать минимум по этой причине. Поэтому минимумы обязательны в двух формах в зависимости от типа обязанности:
+- **Принятие Минимумов прав — воздержание сразу, обеспечение по мере создания готовности:** **Минимумы Минимумов прав**, применяемые посредством **Статьи VI** (*Равенство основных прав*) согласно [Принципу минимумов Минимумов прав](core_01_b_interaction_interpretation.md#принцип-минимальных-гарантий-пола-прав), вместе с более строгими отраслевыми минимумами в отношении выживания, субъектности, недискриминации, доступности, аудируемости и средств защиты, обусловленными затронутым контекстом, являются принятой целью на каждом этапе. Минимум прав нельзя полностью обеспечить до создания соответствующих институтов и культуры; настоящая Статья не утверждает обратного и не позволяет снижать минимум по этой причине. Поэтому минимумы обязательны в двух формах в зависимости от типа обязанности:
   - **Обязанности воздерживаться от действий** — то, что принимающая сторона и временные органы не должны делать, — обязательны с даты вступления в силу, поскольку для их соблюдения не требуется создавать новые учреждения:
     - **Недопущение сознательной или предотвратимой регрессии:** нельзя сознательно или предотвратимо снижать доступ любого разумного существа к защите Минимума прав ниже его **исходного показателя**, а также нельзя принимать меры переходного периода, существенно затрудняющие осуществление прав.
     - **Недопущение новых нарушений:** новые системы, политики и практики, а также существенное расширение существующих должны с самого начала проектироваться с соблюдением минимума. Следующий путь достижения охватывает только унаследованные недостатки, но не новое поведение.
     - **Недопущение необратимых потерь:** в полном объёме действуют приведённая ниже презумпция сохранения и [стандартное промежуточное положение Главы первой §13.1](core_01_b_interaction_interpretation.md#default-interim-posture).
-    - **Недопущение унижающего достоинство, предлогового, дискриминационного или сокрывающего поведения** при переходных мерах, включая все требования **Статьи XXVIII-D** (*Несоответствующее имущество и системы; стимулы для добровольной передачи*) к временным органам, согласно [Принципу процесса, не унижающего достоинство](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+    - **Недопущение унижающего достоинство, предлогового, дискриминационного или сокрывающего поведения** при переходных мерах, включая все требования **Статьи XXVIII-D** (*Несоответствующее имущество и системы; стимулы для добровольной передачи*) к временным органам, согласно [Принципу процесса, не унижающего достоинство](core_01_b_interaction_interpretation.md#принцип-запрета-унижающих-достоинство-процедур).
     - **Добросовестное сообщение:** нельзя представлять минимум как исполнимый или достигнутый, а разрыв как устранённый иначе чем на основе проверенных данных реестра.
 
     Временное исполнение обязанностей воздерживаться от действий до готовности форума к определённому масштабу регулируется [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Реестр достижения Минимумов прав*).
@@ -444,7 +444,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы разрешения компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [§14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы разрешения компромиссов](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [§14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -486,7 +486,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы разрешения компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы разрешения компромиссов](core_01_b_interaction_interpretation.md#131-основные-принципы-компромисса) и [§20 Комплексное применение](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
 - Читать вместе с: [Главой восьмой](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*сертификация согласованности систем*); [Главами девятой–двенадцатой](core_00_preamble.md#62-how-the-full-chain-fits-together) (*процессуальная цепочка статуса участия и надзор за форумами*).
 
 </details>
@@ -494,7 +494,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Определения · Оценка · Соблюдение</span></strong></summary>
 
-- [Аудируемость](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Аудируемость](core_05_band_oversight.md#аудитируемость) · [O](core_05_band_oversight.md#аудитируемость) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Подотчётность](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Обратимость](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 
