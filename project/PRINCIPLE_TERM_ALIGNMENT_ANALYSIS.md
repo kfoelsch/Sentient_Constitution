@@ -1,6 +1,6 @@
 # Principle term alignment with Chapter Five definitions
 
-**Date:** 2026-10-01 · **Status:** analysis only; no corpus text changed · **Scope:** the 65 Chapter One Definitions · Assessment · Compliance widgets (14 at section level, 43 at subsection level, 8 at third level), their section text, and the 255 Chapter Five definition entries.
+**Date:** 2026-10-23 · **Status:** decisions applied to Chapter One widgets and Chapter Five structure; see the update below · **Scope:** the 65 Chapter One Definitions · Assessment · Compliance widgets (14 at section level, 43 at subsection level, 8 at third level), their section text, and the 255 Chapter Five definition entries.
 
 Scripts that produce the figures are in `project/analysis/` (`ch1_widget_parse.py`, then `ch1_widget_vs_body.py`; they read the Chapter One files directly and write to `/tmp/an/`).
 
@@ -38,11 +38,9 @@ The vocabulary is mostly aligned. Only 2 of the 100 distinct widget labels diffe
 6. **Nest the §12.5 vocabulary (Finding 8).** Place the five entries inside the existing contingent-settlement cluster, and fold Capture of Resolution Pathways into System Capture as a named form. This is a Chapter Five structure change, so it needs the gravity and single-definition audits and a definition-count update.
 7. **Bundle co-cited pairs (Finding 9).** Optional; only worthwhile if recommendation 2 is adopted, since bundles would be named once at the parent.
 
-## Decisions needed
+## Decisions applied (2026-10-23)
 
-- Rule for widgets: full list at every level, or inherit from the parent (recommendation 2).
-- Constraint label pattern (recommendation 4) and the Materiality/Foreseeability naming (recommendation 5).
-- Whether recommendation 6 is wanted before the pre-release announcement, since it changes definition counts.
+The steward affirmed the text-linked row rule, full parent-row inheritance for child widgets, and narrow Necessity/Proportionality placement. §9 Shared-System Capacity is affirmed as serving both aims: a means toward Flourishing and substance of Continuity. The §4/§5 heading-parenthetical item was checked off at the steward’s direction. The §12.5 cleanup is applied by folding Capture of Resolution Pathways into System Capture as a named form; its legacy anchor remains a pointer. The optional principle-to-definitions map is generated from the current traceability matrix. The canonical row templates and expected high-value widget orders were refreshed to preserve the resulting full-row inheritance.
 
 ## Method and limits
 
@@ -52,8 +50,4 @@ The vocabulary is mostly aligned. Only 2 of the 100 distinct widget labels diffe
 
 ## Update 2026-10-01 (later)
 
-Recommendations 4 and 5 were carried out. "Safety (Constraint)" is now "Safety (Constitutional Constraint)", "Materiality Determination" is now "Materiality", and "Foreseeability Diligence" is now "Foreseeability" in all source files, with anchors unchanged. The §3.1 and §3.2 heading parentheticals, the inheritance rule, the Necessity/Proportionality rule and the §12.5 nesting remain undecided. Figures above describe the state before the renames.
-
-## Update 2026-10-01 (later)
-
-Recommendations 4 and 5 were carried out. "Safety (Constraint)" is now "Safety (Constitutional Constraint)", "Materiality Determination" is now "Materiality", and "Foreseeability Diligence" is now "Foreseeability" in all source files, with anchors unchanged. The §3.1 and §3.2 heading parentheticals, the inheritance rule, the Necessity/Proportionality rule and the §12.5 nesting remain undecided. Figures above describe the state before the renames.
+Recommendations 4 and 5 were carried out. "Safety (Constraint)" is now "Safety (Constitutional Constraint)", "Materiality Determination" is now "Materiality", and "Foreseeability Diligence" is now "Foreseeability" in all source files, with anchors unchanged. The heading parentheticals, inheritance rule, Necessity/Proportionality placement, and §12.5 structure were resolved on 2026-10-23. Figures above describe the 2026-10-01 state before the renames and widget changes.

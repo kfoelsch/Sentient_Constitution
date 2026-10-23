@@ -393,11 +393,6 @@
       "tier_depth": "full",
       "status": "approved"
     },
-    "Capture of Resolution Pathways": {
-      "ch00_category": "3.7 Timeliness",
-      "tier_depth": "full",
-      "status": "approved"
-    },
     "Constitutional Efficiency": {
       "ch00_category": "3.8 Constitutional performance",
       "tier_depth": "full",
@@ -468,7 +463,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Binding Stakeholder Choice \u2014 Decision-Resolution Requirements": {
+    "Binding Stakeholder Choice — Decision-Resolution Requirements": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -793,12 +788,12 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment \u2014 baseline constitutional alignment": {
+    "Incentive Alignment — baseline constitutional alignment": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Incentive Alignment \u2014 contingent claims, games of chance, and event-contract markets": {
+    "Incentive Alignment — contingent claims, games of chance, and event-contract markets": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -1180,7 +1175,7 @@
     },
     "System Capture": {
       "ch00_category": "3.3 Continuity",
-      "tier_depth": "primary_only",
+      "tier_depth": "primary_secondary",
       "status": "approved"
     },
     "Anti-Capture": {
@@ -1353,7 +1348,7 @@
       "tier_depth": "primary_secondary",
       "status": "approved"
     },
-    "Incentive Alignment \u2014 strategic, scaled, and adversarial evaluation": {
+    "Incentive Alignment — strategic, scaled, and adversarial evaluation": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
       "status": "approved"

@@ -1419,7 +1419,7 @@ a severe outside event that reasonable diligence could not control may justify t
 
 parties with money, control, privileged information, or a stake in the result must not be able to bias who or what decides a settlement or another rights-relevant outcome.
 
-[Source](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
+[Source](../../core_05.040_band_continuity.md#capture-of-resolution-pathways)
 
 ##### Protected reporting and anti-retaliation
 

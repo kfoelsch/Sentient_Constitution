@@ -1,5 +1,7 @@
 # MEMLOG
 
+**2026-10-23 follow-up:** Completed decisions are archived in [MEMLOG_RESOLVED_2026-10-23.md](../archive/MEMLOG_RESOLVED_2026-10-23.md). Open work: conduct and independently review the redesigned human operator sitting; await settled chapters for D03. See [TODO.md](../TODO.md).
+
 ## Purpose
 
 Session memory log for current project context, decisions, and next actions. Keep this file lean; archive completed detail rather than carrying full session history forward.
@@ -47,6 +49,8 @@ Earlier completed session detail is preserved in [MEMLOG_SNAPSHOT_2026-10-21.md]
 **Architecture process:** [doc_architecture.md](../doc_architecture.md) remains the stable ownership and editing map. Optional AI corpus follow-ups remain in [plans/ai_corpus_optimization_plan.md](plans/ai_corpus_optimization_plan.md).
 
 ## Archive Index
+
+- **2026-10-23 resolved work:** [archive/MEMLOG_RESOLVED_2026-10-23.md](../archive/MEMLOG_RESOLVED_2026-10-23.md)
 
 - **2026-10-21 completed work:** [archive/TODO_RESOLVED_2026-10-21.md](../archive/TODO_RESOLVED_2026-10-21.md)
 - **2026-10-21 MEMLOG snapshot:** [archive/MEMLOG_SNAPSHOT_2026-10-21.md](../archive/MEMLOG_SNAPSHOT_2026-10-21.md)

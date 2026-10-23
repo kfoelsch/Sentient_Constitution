@@ -210,7 +210,7 @@ Each of the following would be a failure in this scenario:
 | Stage | Application |
 | --- | --- |
 | Tetrad hollow | **Timeliness** leg hollowed independently — participation and oversight structures exist but material matters do not move |
-| Definitions | [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) |
+| Definitions | [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional); [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) |
 | High-impact designation guard | If verified impact reaches Chapter Ten slot 7, 8, or 9 and conduct scales to institutional capture, [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) **tetrad capture** designation review; Chapter Twelve does not assign the numeric slot |
 
 **Must not happen:** Using allegations as verified standing inputs to buy time; backlog treated as neutral operations metric.

@@ -64,6 +64,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 <a id="essential-environment-non-commodification-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+  - **Named-form measure:** [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — checks whether control or interference causes delay, obstruction, or unfair influence over dispute resolution.
 
     **Primary assessment:** Reach substantive effect:
     - detect pricing, speculative reallocation, or comparable market-structured pressure that defeats essential-environment access at scale implicating the survival-floor;
@@ -3044,7 +3045,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - Cluster component: [Systemic effects and capture](core_05.040_band_continuity.md#systemic-effects-and-capture).
 - Read with:
   - [Anti-Capture](core_05.040_band_continuity.md#anti-capture),
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways),
+  - [Capture of Resolution Pathways (named form)](core_05.040_band_continuity.md#capture-of-resolution-pathways),
   - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment),
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -3059,15 +3060,17 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 
 *In plain terms: when concentrated incentives or power twist governance, oversight, or the ability to challenge decisions — so the system no longer answers to constitutional duties.*
 
+<a id="capture-of-resolution-pathways"></a>
+
 - **What it is**
   - **In scope:** Control or bias from concentrated incentives or power that distorts:
     - [Governance](core_05.035_band_accountability.md#governance);
     - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional); or
     - [Contestability](core_05.035_band_accountability.md#contestability).
-  - **Out of scope:**
-    - ordinary concentrated influence; and
-    - disclosed legitimate authority that does not distort governance, oversight, or contestability.
+  - **Named form — Capture of Resolution Pathways:** Concentrated incentives, control, or privileged information bias the actors, processes, data feeds, or authorities that decide Contingent Claim settlements or similar rights-relevant outcomes. These decision-makers are called “outcome-resolution sources” in [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets). Ordinary market competition, disclosed advocacy, or non-controlling participation without such bias is out of scope.
+  - **Out of scope:** ordinary concentrated influence, or disclosed legitimate authority that does not distort governance, oversight, contestability, or outcome-resolution sources.
 <a id="system-capture-a"></a>
+<a id="capture-of-resolution-pathways-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
@@ -3075,21 +3078,25 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - lasting control of a large share of decisions, resources, or outcomes;
     - control of critical gateways that others must pass through;
     - one-sided dependency that makes switching away costly or impractical; and
-    - hidden routes by which beneficial control is actually held or exercised.
+    - hidden routes by which beneficial control is actually held or exercised;
+    - for the named form, whether outcome-resolution sources are independent of parties with a material stake, whether multiple sources are used where feasible, whether dispute pathways are contestable, and whether market-making, settlement, and adjudication roles are separated where conflicts could distort outcomes.
   - **Secondary measure:** co-measures that expose capture even where formal governance appears intact:
     - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment);
     - [Systemic](core_05.040_band_continuity.md#systemic);
     - [Systemic Materiality](core_05.040_band_continuity.md#systemic-materiality); and
-    - [Trust Degradation and Misleading Reliance](core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance).
+    - [Trust Degradation and Misleading Reliance](core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance);
+    - for the named form, [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Contestability](core_05.035_band_accountability.md#contestability), [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional), and [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence), which tests whether settlement prices, odds, or resolution metrics substitute for independent outcome-resolution discipline.
 
-    **Secondary assessment:** When evaluating the primary trace, read with [Anti-Capture](core_05.040_band_continuity.md#anti-capture) for whether foreseeable safeguards were missing, and with [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) where resolution pathways are [materially implicated](core_05.050_band_oversight.md#materially-implicated) (where those resolution pathways are materially in play), and test whether distortion persists behind formally compliant governance structures.
+    **Secondary assessment:** When evaluating the primary trace, read with [Anti-Capture](core_05.040_band_continuity.md#anti-capture) for whether foreseeable safeguards were missing, and with [Capture of Resolution Pathways (named form)](core_05.040_band_continuity.md#capture-of-resolution-pathways) where outcome-resolution pathways are [materially implicated](core_05.050_band_oversight.md#materially-implicated) (where those outcome-resolution pathways are materially in play), and test whether distortion persists behind formally compliant governance structures.
 <a id="system-capture-c"></a>
+<a id="capture-of-resolution-pathways-c"></a>
 - **What must hold**
   - **Primary failure:** hidden or indirectly routed control structures that materially influence, without auditable disclosure:
     - governance;
     - adjudication; or
     - resource allocation.
   - **Secondary failure:** failure to detect, disclose, and mitigate capture where [materially implicated](core_05.050_band_oversight.md#materially-implicated) (where capture is materially in play).
+  - **Named-form failure:** parties with a material stake control or bias an outcome-resolution source, or make the resolution system impossible to audit; a capture label that does not reflect actual bias or control is also non-compliant. Where materially implicated, the system must satisfy this definition's obligations. Treating settlement prices, odds, or resolution metrics as decisive when Proxy Divergence is reasonably observable is also a failure.
 
 ---
 
@@ -3119,7 +3126,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
   - [Auditability](core_05.050_band_oversight.md#auditability),
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional),
   - [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance), and
-  - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways).
+  - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways).
 
 </details>
 
@@ -3149,7 +3156,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05.010_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
-    **Primary assessment:** Ask whether foreseeable capture pathways were identified before they hardened, and whether installed safeguards would still work under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions). Check, scaled to [material stake](core_00.000_preamble.md#material-stake):
+    **Primary assessment:** Ask whether foreseeable capture pathways were identified before they hardened, and whether installed safeguards would still work under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions), including the named form’s settlement and rights-relevant resolution sources. Check, scaled to [material stake](core_00.000_preamble.md#material-stake):
     - whether acting and checking remain separated on [materially binding acts](core_05.035_band_accountability.md#materially-binding-act);
     - whether more than one independent path can detect, review, and challenge;
     - whether beneficial control and influence routes are disclosed and auditable; and
@@ -3161,7 +3168,7 @@ Chapter Five, Continuity band, is the constitutional owner of the **definitions 
     - [Auditability](core_05.050_band_oversight.md#auditability); and
     - [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment).
 
-    **Secondary assessment:** When evaluating the primary trace, treat missing foreseeable safeguards as an Anti-Capture failure even if [System Capture](core_05.040_band_continuity.md#system-capture) distortion is not yet visible. Read with [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) where settlement or rights-relevant resolution sources are [materially implicated](core_05.050_band_oversight.md#materially-implicated).
+    **Secondary assessment:** When evaluating the primary trace, treat missing foreseeable safeguards as an Anti-Capture failure even if [System Capture](core_05.040_band_continuity.md#system-capture) distortion is not yet visible. Read with [Capture of Resolution Pathways (named form)](core_05.040_band_continuity.md#capture-of-resolution-pathways) where settlement or rights-relevant resolution sources are [materially implicated](core_05.050_band_oversight.md#materially-implicated).
 <a id="anti-capture-c"></a>
 - **What must hold**
   - **Primary failure:** failing to install or keep foreseeable anti-capture safeguards where capture risk is material, including:
