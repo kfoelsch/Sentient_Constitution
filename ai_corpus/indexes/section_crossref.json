@@ -1,12 +1,12 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-23T00:35:05+00:00",
+  "generated_at": "2026-10-23T01:37:32+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
   "format": "interned-v1",
   "layout": {"sources": "[file_index, anchor, header]", "targets": "[file_index, anchor]", "edges": "[source_index, target_index, count]"},
-  "edge_count": 18182,
+  "edge_count": 18183,
   "files": [
     "core_00.000_preamble.md",
     "core_01.005_values_principles.md",
@@ -15769,6 +15769,7 @@
     [901,85,1],
     [902,683,1],
     [902,705,1],
+    [902,51,1],
     [902,886,1],
     [902,1372,1],
     [903,267,1],

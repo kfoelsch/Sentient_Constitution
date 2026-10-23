@@ -310,6 +310,11 @@ This subsection sets out the records a forum keeps and how they may be contested
   - using a provisional routing label.
 - When one lead forum handles a mixed-stakes case, it must keep the **forum case record** clear enough that separate Chapter Ten contribution and violation measurements, any Chapter Twelve designation, and Chapter Eleven standing effects can still be audited separately and recorded in axis-pure standing records.
 
+**Seats in a forum case.** A forum case applies the [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement):
+- Filing, investigation, merits review, custody of the forum case record, and appeal each sit in a seat that the forum's published placement names.
+- No forum, panel member, or office may hold seats on the same act that Chapter Eight prohibits.
+- Review of a forum family's own alleged bias or process abuse follows the cross-forum anti-self-judging rule in [§3 Transfer, consolidation, and coordination — continuity and anti-capture](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture).
+
 **Contests of standing records:**
 - A challenge raised on a record before any filing — to the custodian, the record-opening authority, or any office of the institution — is logged on the record, set *under challenge*, and routed by the custodian under [Chapter Ten §3.7](core_10.000_standing_assessment.md#37-challenge-received-on-the-record) (*Challenge received on the record*); the tier windows under **§6** (*Timely resolution, materiality tiers, and anti-delay discipline*) run from that receipt, and the **forum case record** opens when the contest reaches a forum.
 - Where the record-opening authority was a Backup Record Authority under **CF-13.415 §7** (*Backup Record Authority*), a contest of that record goes to a forum with jurisdiction and never back to that authority. The Backup Record Authority sits outside the intake triage body and is not a merits panel.
