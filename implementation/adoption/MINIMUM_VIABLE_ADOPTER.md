@@ -55,12 +55,12 @@ This page does **not**:
 - Add adopter types, duties, measurement families, or forum families
 - Replace [CI-9.210 §1](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-1-formation-proportionality) formation proportionality or [CJS-5.125 §11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#formation-and-authorization-proportionality-minimum) with a cheaper path
 - Let an estimate, a shared note, or “we are Profile 2” claim constitutional protection while dodging matching obligations
-- Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §17.4](../../core_01.015_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Create a Chapter Ten standing record, a Chapter Nine system alignment certification, or a Merits Determination
-- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.020_rights_part_d.md#article-xix-a-standing-distinction))
+- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction))
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
-**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans. Headcount *N* counts human and AI stewards who actually hold the work; it does not mint a second standard.
+**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans. Headcount *N* counts human and AI stewards who actually hold the work; it does not mint a second standard.
 
 ---
 
@@ -180,7 +180,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 **Why this goal first.**
 
 - Repeated processes are where certification work repeats most: appeal and complaint intake, change records, outage and hazard notices, hardship and reconnection intake, access requests, incident reporting.
-- [Chapter One §18.6 Standardization](../../core_01.015_stewardship_capacity_principles.md#186-standardization) already makes the common, published form the default. This goal makes that default cheaper to review.
+- [Chapter One §18.6 Standardization](../../core_01.010_stewardship_capacity_principles.md#186-standardization) already makes the common, published form the default. This goal makes that default cheaper to review.
 - CS-9.305 and CS-9.310 §7.10 settles first how a part of a system is bounded, shown to be decoupled, and disclosed. The standard-process work reuses those habits.
 
 **Start only when all four hold.**
@@ -197,7 +197,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 - **How adopters use it.**
   - The adopting system carries a conformity statement and a **local-delta note** (local data, staffing, clocks, tools, and every difference from the standard).
   - Its own certification treats the recognition as evidence about the **design** of the process.
-  - It must still collect evidence about how the process **runs**. A conformity statement or vendor attestation never substitutes for that ([Chapter Three §2.1.1](../../core_03.000_definition_integrity.md#211-formal-label-and-representation-gaming); [Chapter Nine Part B §8.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability)).
+  - It must still collect evidence about how the process **runs**. A conformity statement or vendor attestation never substitutes for that ([Chapter Three §2.1.1](../../core_03.000_definition_integrity.md#211-formal-label-and-representation-gaming); [Chapter Nine Part B §8.2](../../core_09.005_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability)).
 - **Challenge.** Open at two levels, the standard and each adopter, through the existing contest chain.
 - **Reopening.** A new version of the standard, an incident in any adopter, or a credible challenge reopens the recognition and flags every adopter's reliance on it.
 
@@ -268,7 +268,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Constitution and process** | **CF-0.410**, **CF-13.405**, **CF-13.410**, **CF-13.415**, **CF-13.420**, **CF-13.425** | Forum Track B (live map) | Forum Track A names a reviewer; it does not run these modules |
 | **Continuity and records** | **CF-13.445**, **CF-13.450**, **CF-13.455**, **CF-13.460**, **CF-13.465**, **CF-13.470** | Forum Track B | Same |
 | **Specialist support** | **CF-13.430**, **CF-13.435**, **CF-13.440** | When that family’s ordinary workload needs forensic, investigative, or specialist-chamber support | Low caseload may contract these rather than staff them; Class A/B should not assume “never” |
-| **Sentience-status record** | [`cf_13.475_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md) (not a CF family) | When the adopter hears or files sentience-status adjudication | Skip if that caseload is not in scope — do not use this skip to dodge [Article VI-B](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) when the facts are in scope |
+| **Sentience-status record** | [`cf_13.475_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md) (not a CF family) | When the adopter hears or files sentience-status adjudication | Skip if that caseload is not in scope — do not use this skip to dodge [Article VI-B](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) when the facts are in scope |
 
 **CF-2** is a reserved family id, not a module.
 

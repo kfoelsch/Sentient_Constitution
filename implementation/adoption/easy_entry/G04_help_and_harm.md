@@ -50,7 +50,7 @@ See: [Chapter Eleven](../../../core_11.000_standing_integration.md#chapter-eleve
 
 ## What this will not pretend to give you
 
-- A score of how trusted you are that you can spend like money, or that decides whether you count ([Article XIX-A](../../../core_06.020_rights_part_d.md#article-xix-a-standing-distinction)).
+- A score of how trusted you are that you can spend like money, or that decides whether you count ([Article XIX-A](../../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction)).
 - A finding, in this handbook, that anyone was helped or harmed in the world. This page is not that record.
 - A way for the subject of a record to verify or enter it on their own ([Chapter Ten §3.7](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)).
 

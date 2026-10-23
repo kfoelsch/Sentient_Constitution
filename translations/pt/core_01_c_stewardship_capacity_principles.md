@@ -1146,7 +1146,7 @@ Os incentivos não devem recompensar, proteger, normalizar ou tornar materialmen
   - conduta decorrente de ordens ilegais ou inconstitucionais;
   - ocultação;
   - retaliação;
-  - [obstrução da prestação de contas](core_08_standing_assessment.md#232-violation-event-types) (tipo de evento do modelo de status e encaminhamento designado em [Capítulo Onze §5.11 Obstrução da prestação de contas: interação entre critérios](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — não é uma exceção autônoma para recompensas); ou
+  - [obstrução da prestação de contas](core_08_standing_assessment.md#232-violation-event-types) (tipo de evento do modelo de status e encaminhamento designado em [Capítulo Onze §5.11 Obstrução da prestação de contas: interação entre critérios](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) — não é uma exceção autônoma para recompensas); ou
   - recusa em reparar dano constitucional verificado; ou
 - vias de recompensa que dependam materialmente de má conduta ou de seu encobrimento, incluindo:
   - remuneração, bônus, participação acionária, nomeação, promoção ou permanência no cargo;
@@ -1316,7 +1316,7 @@ Essas condições são **gatilhos de escalonamento**, não estados operacionais 
 - **Revisão e correção periódicas:** [Dever de revisão e correção](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **Revisão reforçada:** [§11.1 Mecanismo de limite de concentração de mercado](core_01_a_values_principles.md#111-mecanismo-de-limiar-de-concentração-de-mercado-ajustável-pelo-adotante) e [§11.2 Promoção da concorrência e combate à dominação](core_01_a_values_principles.md#112-promoção-da-concorrência-e-combate-à-dominação), quando a concentração ou dominação for material.
 - **Mecanismos de situação jurídica e violação:** [Capítulo Nove — Modelo de contribuição, violação e situação jurídica](core_08_standing_assessment.md), quando houver constatações verificadas em questão.
-- **Má conduta anticonstitucional:** [Capítulo Onze §5.1 Subversão baseada em concentração: interação de critérios](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), quando a concentração ou a captura de processos constituir má conduta anticonstitucional.
+- **Má conduta anticonstitucional:** [Capítulo Onze §5.1 Subversão baseada em concentração: interação de critérios](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), quando a concentração ou a captura de processos constituir má conduta anticonstitucional.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 Correção de desalinhamento e resposta à captura

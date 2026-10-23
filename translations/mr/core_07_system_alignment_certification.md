@@ -5,7 +5,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">संग्रहस्थान (असंक्रियात्मक): फाइल रचना आणि वाचन नियम</span></strong></summary>
 
-> ही फाइल [इंग्रजी अध्याय सात वाचन अनुक्रमणिका](../../core_09_system_alignment_certification.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_07_system_alignment_certification.md`](../../core_09_system_alignment_certification.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
+> ही फाइल [इंग्रजी अध्याय सात वाचन अनुक्रमणिका](../../core_09.000_system_alignment_certification_evaluation.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_07_system_alignment_certification.md`](../../core_09.000_system_alignment_certification_evaluation.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
 >
 > **अध्याय सात** दोन बंधनकारक फाइलांत विभागला आहे ज्या एकाच साधनासारख्या वाचल्या जातात:
 >
@@ -39,4 +39,4 @@
 
 **पुढील फाइल (या भाषेत):** [core_07_a_system_alignment_certification_evaluation.md](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 
-**बंधनकारक मूळ:** [core_07_system_alignment_certification.md](../../core_09_system_alignment_certification.md)
+**बंधनकारक मूळ:** [core_07_system_alignment_certification.md](../../core_09.000_system_alignment_certification_evaluation.md)

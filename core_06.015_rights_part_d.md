@@ -9,7 +9,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part D position in Chapter Six</span></strong></summary>
 
-> **Part A** in [core_06.005_rights_part_a.md](core_06.005_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part D** presents **Articles XIX–XXV** in that order.
+> **Part A** in [core_06.000_rights_part_a.md](core_06.000_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part D** presents **Articles XIX–XXV** in that order.
 
 </details>
 
@@ -85,11 +85,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency), [§15.1 Constitutional No-Bypass Principle](core_01.010_interaction_interpretation.md#151-constitutional-no-bypass-principle), and [§15 Constitutional Interpretation](core_01.010_interaction_interpretation.md#15-constitutional-interpretation).
+- Upstream: Principles: Chapter One [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency), [§15.1 Constitutional No-Bypass Principle](core_01.005_interaction_interpretation.md#151-constitutional-no-bypass-principle), and [§15 Constitutional Interpretation](core_01.005_interaction_interpretation.md#15-constitutional-interpretation).
 - Read with:
-  - [Article VI-A](core_06.010_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and
-  - [Article XII](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*);
-  - [Article III-A](core_06.005_rights_part_a.md#article-iii-a-survival) (*Survival*);
+  - [Article VI-A](core_06.005_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and
+  - [Article XII](core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*);
+  - [Article III-A](core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*);
   - [Article XXI](#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*), where portability and exit floors live;
   - [Article XXII](#article-xxii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), where movement, refuge, and non-statelessness floors live.
 
@@ -169,7 +169,7 @@ Participant standing alone must not foreclose survival-critical access under **A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§6 Trust](core_01.005_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7), and [§20 Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§6 Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), and [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 - Read with: **Article VI-A** (*Dignity and Equal Moral Standing*); **Article VI-B** (*Sentience-Status Adjudication Floor*); **Article XII** (*Stakeholder System Participation, Representation, and Due Process*); [Chapter Ten §2.1](core_10.000_standing_assessment.md#21-silence-is-the-default) (10.000 §2.1) (*Silence is the default*); [Chapter Eleven §7.1](core_11.000_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (11.000 §7.1) (*Anti-aggregation of named-pathway effects*).
 
 </details>
@@ -197,7 +197,7 @@ This Article sets out how standing differs from competency bars, competency clea
   - blur together who qualifies for a role and who has inherent dignity or equal moral standing under **Article VI-A** (*Dignity and Equal Moral Standing*);
   - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a [Stakeholder](core_05.055_band_participation.md#stakeholder) because a system actually affects them;
   - treat the absence of a standing record as an adverse fact, or require a record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no record is the ordinary state under [Chapter Ten §2.1](core_10.000_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*);
-  - treat dissent or peaceful protest under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any named pathway; or
+  - treat dissent or peaceful protest under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any named pathway; or
   - assemble named-pathway effects into a profile, ranking, or public display — [Chapter Eleven §7.1](core_11.000_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*).
 - <a id="anti-substitution-sentience-status-xviii"></a>**Scores don't decide who counts:** None of the following may be used to decide whether someone is a sentient being:
   - standing scores, standing records, competency bars, competency clearances, or standing locks;
@@ -211,7 +211,7 @@ This Article sets out how standing differs from competency bars, competency clea
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7), [§13.1 Core Tradeoff Principles](core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5).
+- Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5).
 - Downstream: [Chapter Ten §2](core_10.000_standing_assessment.md#2-question-1--what-happened) (10.000 §2) (*standing records, verified-input gate, and minimum record contents*); [Chapter Ten §3.6](core_10.000_standing_assessment.md#36-forum-boundary) (10.000 §3.6) (*forum boundary*); [Chapter Eleven §8](core_11.000_standing_integration.md#8-restoration-and-reassessment) (11.000 §8) (*reinstatement and review*).
 - Read with: **Article III-A** (*Survival*); **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*); [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together); [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*), **Article XX-B** (*Restriction Floors*), and **Article XX-B** (*Restriction Floors*).
 
@@ -257,7 +257,7 @@ This Article sets out the contestability and proportionality limits on standing 
   - a competency clearance limited or withdrawn after failed retesting or a verified change in role-relevant capacity, where no wrongdoing is involved ([Article XIX-C](#article-xix-c-contribution-competency-bars-and-named-pathway-eligibility) (*Contribution, Competency Bars, and Named-Pathway Eligibility*); [Chapter Eleven §6.2](core_11.000_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*));
   - temporary protective limits while a case is still open, before anything is verified ([Chapter Thirteen §5](core_13.000_forum.md#interim-protection) (*Interim protection*)), which for a named sentient's use of a named pathway means an [Interim Hold](core_05.035_band_accountability.md#interim-hold) under [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway).
 
-  In each case, the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
+  In each case, the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - explain **why** in clear terms;
   - set a **time limit** on the restriction where that is feasible under **Article XX-B** (*Restriction Floors*);
   - provide a **working path** to challenge the decision, get it reviewed, fix what is wrong, and ask for another look.
@@ -265,7 +265,7 @@ This Article sets out the contestability and proportionality limits on standing 
   While a challenge is pending, any temporary limits must stay only as broad — and only as hard to undo — as safety, integrity, or fair process actually require.
 - **Proportionality:** Restrictions on standing must remain necessary and proportionate under **Necessity**, **Proportionality**, **Article XX-B** (*Restriction Floors*), and **Article XX-B** (*Restriction Floors*). How standing locks are fitted to the harm is stated in [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*).
 - **Rights-Floor minimums and non-foreclosure:** Participant standing, competency bars, competency clearances, and standing locks govern role eligibility and named privilege pathways only. They must not:
-  - suspend, waive, extinguish, or reduce the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_01.010_interaction_interpretation.md#rights-floor-minimums-principle);
+  - suspend, waive, extinguish, or reduce the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_01.005_interaction_interpretation.md#rights-floor-minimums-principle);
   - foreclose survival-critical access or **Article III-A** (*Survival*) resource-allocation and dependency floors where materially implicated; or
   - foreclose constitutionally required audit, challenge, or remedy pathways — including under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), **Article XV-B** (*Transparency, Auditability, and Contestability*), and **Article XVI** (*Audit, Transparency, and Independent Verification*) — absent adequate justification under **Chapter One**, **Chapter Five**, and applicable incorporated procedure.
 
@@ -276,10 +276,10 @@ This Article sets out the contestability and proportionality limits on standing 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§6 Trust](core_01.005_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
-  - [§18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+  - [§6 Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
+  - [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Ten §2](core_10.000_standing_assessment.md#2-question-1--what-happened) (10.000 §2) (*contribution standing records*); [Chapter Eleven §6.2](core_11.000_standing_integration.md#62-competency-bars-and-clearances) (11.000 §6.2) (*competency bars and clearances*); [Chapter Fourteen §4.1](core_14.000_governance.md#41-entitlement-and-eligibility) (14.000 §4.1) (*governance-voting eligibility*).
 - Read with: [Chapter Ten §2.2](core_10.000_standing_assessment.md#22-linked-records-and-no-offset-bridge) (10.000 §2.2) (*linked records and no-offset bridge*); [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*).
 
@@ -332,7 +332,7 @@ This Article sets out how contribution, competency bars, and named-pathway eligi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7), [§13.1 Core Tradeoff Principles](core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §4.2](core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2) (*standing locks*); [Chapter Eleven §8](core_11.000_standing_integration.md#8-restoration-and-reassessment) (11.000 §8) (*reinstatement and review*).
 - Read with: [Article XIX-E](#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (10.000 §7) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
@@ -378,7 +378,7 @@ This Article sets out how violations are recorded and how standing locks attach:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7) and [§18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7) and [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §5.5](core_11.000_standing_integration.md#55-special-locks) (11.000 §5.5) (*Special locks*); [Chapter Fourteen §4.1](core_14.000_governance.md#41-entitlement-and-eligibility) (14.000 §4.1) (*Entitlement and eligibility*).
 - Read with: [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*); **Article X-B** (*Governance Participation and Voting Entitlement*); **Chapter Twelve** (*Anti-Constitutional Misconduct*).
 
@@ -415,7 +415,7 @@ This Article sets out the limits on voting locks and special locks:
   - broad-misconduct categories swept into disqualification scope;
   - lock patterns that track **Protected Characteristics** or their material proxies.
 
-  **The one exception:** a final [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) (*Anti-Constitutional Misconduct*) designation, which is reserved for the gravest verified attacks on this Constitution, withholds the foundational governance vote until **full restitution** is made. That withholding is not a standing lock, so the four requirements above do not govern it; its rules and safeguards are stated in [**Chapter Fourteen §4.1**](core_14.000_governance.md#41-entitlement-and-eligibility) (*Entitlement and eligibility*).
+  **The one exception:** a final [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) (*Anti-Constitutional Misconduct*) designation, which is reserved for the gravest verified attacks on this Constitution, withholds the foundational governance vote until **full restitution** is made. That withholding is not a standing lock, so the four requirements above do not govern it; its rules and safeguards are stated in [**Chapter Fourteen §4.1**](core_14.000_governance.md#41-entitlement-and-eligibility) (*Entitlement and eligibility*).
 - **Special locks:** These locks are stated in [Chapter Eleven §5.5](core_11.000_standing_integration.md#55-special-locks) (*Special locks*):
   - **Forum-service standing lock:** A verified failure to recuse from a forum role where recusal was required and impartiality was materially compromised creates this lock. Reinstatement to forum service requires strict independent restoration; ordinary apology, prior contribution, reputation, expertise scarcity, or staffing need cannot satisfy that path by itself.
   - **Stakeholder-Participation Standing Lock:** Verified corruption, capture, false-stake abuse, coercion, or comparable material abuse of a stakeholder-participation pathway creates this lock. It limits stake-weighted influence and binding stakeholder choice in the affected domain; it does not by itself strip **governance-voting**, foundational constitutional choice, or stakeholder status. Ordinary apology, prior contribution, stake size, or operator indispensability cannot lift that lock by itself.
@@ -430,11 +430,11 @@ This Article sets out the limits on voting locks and special locks:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§3 Foundational Objective: Wellbeing](core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
-  - [§4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint),
-  - [§7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency), and
-  - [§18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Eleven §4](core_11.000_standing_integration.md#4-violation-correction-and-prevention) (11.000 §4) (*Violation, correction, and prevention*); [Chapter Twelve §4](core_12.005_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (12.005 §4) (*Due-process safeguards, remedy, and prevention*).
+  - [§3 Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency), and
+  - [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Downstream: [Chapter Eleven §4](core_11.000_standing_integration.md#4-violation-correction-and-prevention) (11.000 §4) (*Violation, correction, and prevention*); [Chapter Twelve §4](core_12.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (12.000 §4) (*Due-process safeguards, remedy, and prevention*).
 
 </details>
 
@@ -454,10 +454,10 @@ This Article states the justice floors that apply once a violation has been veri
 
 *Article neighbors:*
 
-- **Conflict resolution, review, and timeliness:** Disputes over constitutional Rights Floors, retrospective review, rights collisions, and anti-delay discipline are governed by [**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*)](core_06.025_rights_part_e.md#article-xxvi-timely-retrospective-review-and-restorative-alignment).
+- **Conflict resolution, review, and timeliness:** Disputes over constitutional Rights Floors, retrospective review, rights collisions, and anti-delay discipline are governed by [**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*)](core_06.020_rights_part_e.md#article-xxvi-timely-retrospective-review-and-restorative-alignment).
 - **Emergency measures:** Governed by [Chapter Thirteen §6.1 Emergency measures and continuation burden](core_13.000_forum.md#61-emergency-measures-and-continuation-burden), read with **Article XX-B** (*Restriction Floors*) for any restriction an emergency measure imposes.
-- **Standing:** [**Article XIX** (*Standing and Participation Status*)](core_06.020_rights_part_d.md#article-xix-standing-and-participation-status) governs standing. Justice measures under this Article are separate and are not a standing-label workaround.
-- **Timely redress:** Read with [**Article XIII-B** (*Right to Redress and Remedy*)](core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*timely redress access*).
+- **Standing:** [**Article XIX** (*Standing and Participation Status*)](core_06.015_rights_part_d.md#article-xix-standing-and-participation-status) governs standing. Justice measures under this Article are separate and are not a standing-label workaround.
+- **Timely redress:** Read with [**Article XIII-B** (*Right to Redress and Remedy*)](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*timely redress access*).
 
 Adopted governance implementation may add detail. It must not narrow the justice objective or the restriction floors under this Article.
 <a id="article-xx-a-justice-objective-and-scope"></a>
@@ -466,10 +466,10 @@ Adopted governance implementation may add detail. It must not narrow the justice
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint),
-  - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5),
-  - [Chapter One §3.3 Anti-Degrading Process](core_01.005_values_principles.md#33-anti-degrading-process) (1.005 §3.3), and
-  - [§20 Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5),
+  - [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process) (1.000 §3.3), and
+  - [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 - Downstream: [Chapter Eleven §4](core_11.000_standing_integration.md#4-violation-correction-and-prevention) (11.000 §4) (*Violation, correction, and prevention*); [Article XX-B](#article-xx-b-restriction-floors) (*Restriction Floors*).
 - Read with: [Cruelty](core_05.035_band_accountability.md#cruelty) (*Chapter Five home for the anti-cruelty floor's suffering-as-end standard*).
 
@@ -503,12 +503,12 @@ This Article sets out the objective and scope of justice and the anti-cruelty fl
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint),
-  - [§13.1 Core Tradeoff Principles](core_01.010_interaction_interpretation.md#131-core-tradeoff-principles),
-  - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5), and
-  - [§14 Prohibition on Absolute Override](core_01.010_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: [Chapter Eleven §5 Lock design and enforcement](core_11.000_standing_integration.md#5-lock-design-and-enforcement) (11.000 §5) and [§5.4 Special violation rules](core_11.000_standing_integration.md#54-special-violation-rules) (*required imprisonment for verified violence and the other coercive or liberty-restricting safeguards*); [Chapter Twelve §4.2](core_12.005_misconduct_designation.md#42-prevention--anti-constitutional-locks) (12.005 §4.2) (*Prevention — anti-constitutional locks*; imprisonment specialization).
-- Read with: [Article XXVI-C](core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification) (13.000 §5).
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles),
+  - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5), and
+  - [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Downstream: [Chapter Eleven §5 Lock design and enforcement](core_11.000_standing_integration.md#5-lock-design-and-enforcement) (11.000 §5) and [§5.4 Special violation rules](core_11.000_standing_integration.md#54-special-violation-rules) (*required imprisonment for verified violence and the other coercive or liberty-restricting safeguards*); [Chapter Twelve §4.2](core_12.000_misconduct_designation.md#42-prevention--anti-constitutional-locks) (12.000 §4.2) (*Prevention — anti-constitutional locks*; imprisonment specialization).
+- Read with: [Article XXVI-C](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification) (13.000 §5).
 
 </details>
 
@@ -545,7 +545,7 @@ This Article sets the floors for restrictions. The operating rules live in the c
   - rehabilitation or recurrence reduction where feasible;
   - keeping credit and consequences on the right actors — supported by evidence anyone can audit — under **Chapters Two through Four**.
 - **Individualized burden:** Any such measure must be aimed at the specific sentient or role involved — not a group label or proxy — and must stay open to challenge and independent review. A harsh label, public condemnation, or administrative shortcut does not substitute for proving every joint requirement above. Lock design and enforcement are governed by [Chapter Eleven §5 Lock design and enforcement](core_11.000_standing_integration.md#5-lock-design-and-enforcement).
-- **Least-restrictive and time-bounded floor:** Justice, containment, and restorative-accountability measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). Where intervention is required, each measure must include:
+- **Least-restrictive and time-bounded floor:** Justice, containment, and restorative-accountability measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). Where intervention is required, each measure must include:
   - explicit duration limits;
   - review cadence;
   - restoration conditions.
@@ -554,7 +554,7 @@ This Article sets the floors for restrictions. The operating rules live in the c
   - indefinite severe restrictions;
   - irreversible restrictive measures where reversible restitution, remediation, or protection is feasible;
   - restrictions lacking auditable re-evaluation triggers.
-- **Equal basic rights and dignity:** Restrictions, exclusions, and comparable justice measures must comply with **Article VI** (*Equal Basic Rights*) and the [**Dignity Principles**](core_01.010_interaction_interpretation.md#dignity-principles) (the [Rights-Floor Minimums Principle](core_01.010_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01.010_interaction_interpretation.md#anti-degrading-process-principle)) throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure.
+- **Equal basic rights and dignity:** Restrictions, exclusions, and comparable justice measures must comply with **Article VI** (*Equal Basic Rights*) and the [**Dignity Principles**](core_01.005_interaction_interpretation.md#dignity-principles) (the [Rights-Floor Minimums Principle](core_01.005_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01.005_interaction_interpretation.md#anti-degrading-process-principle)) throughout imposition, review, and carrying out of any restriction, containment, or restorative-accountability measure.
 - **Escalation and review:** Affected parties must have access to escalation paths proportionate to impact.
   - Access includes appeal or multi-layer review where material interests are at stake.
   - Affected parties must receive:
@@ -563,7 +563,7 @@ This Article sets the floors for restrictions. The operating rules live in the c
     - practical access to the record sufficient to use those escalation and review pathways.
 
   Narrow, justified restrictions under **Chapter One** are the only permissible limit on the above. Forum routing and certification are governed by [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification).
-- **Imprisonment for violence:** Imprisonment is a liberty-restricting measure, separate from standing locks, and is recorded with the same attachment fields as a lock ([Chapter Eleven §5.1 Definition and attachment](core_11.000_standing_integration.md#51-definition-and-attachment)). It must satisfy every floor in this Article, including explicit duration limits, review cadence, and restoration conditions. Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. Substituting deprivation of life, or failing to impose imprisonment when this floor requires it, is non-compliant. Conditions are governed by [Chapter Eleven §5.4 Special violation rules](core_11.000_standing_integration.md#54-special-violation-rules) (*Required imprisonment for verified violence*). Imprisonment for verified anti-constitutional misconduct is governed on the same terms by [Chapter Twelve §4.2 Prevention — anti-constitutional locks](core_12.005_misconduct_designation.md#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*; imprisonment specialization).
+- **Imprisonment for violence:** Imprisonment is a liberty-restricting measure, separate from standing locks, and is recorded with the same attachment fields as a lock ([Chapter Eleven §5.1 Definition and attachment](core_11.000_standing_integration.md#51-definition-and-attachment)). It must satisfy every floor in this Article, including explicit duration limits, review cadence, and restoration conditions. Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. Substituting deprivation of life, or failing to impose imprisonment when this floor requires it, is non-compliant. Conditions are governed by [Chapter Eleven §5.4 Special violation rules](core_11.000_standing_integration.md#54-special-violation-rules) (*Required imprisonment for verified violence*). Imprisonment for verified anti-constitutional misconduct is governed on the same terms by [Chapter Twelve §4.2 Prevention — anti-constitutional locks](core_12.000_misconduct_designation.md#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*; imprisonment specialization).
 - **Conditions of custody and restriction:** <a id="xx-b-conditions-of-custody"></a> While imprisonment, detention, supervised operation, quarantine, containment, or a comparable restriction is in force, the restricted sentient keeps:
   - healthcare and mental-health care, or for synthetic and hybrid sentients the operational equivalent — maintenance, integrity checks, and the resources needed to keep operating without degradation;
   - access to counsel, an advocate, or an independent representative for any rights-affecting process;
@@ -590,11 +590,11 @@ This Article sets the floors for restrictions. The operating rules live in the c
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency),
-  - [§7.1 Limitation Discipline](core_01.005_values_principles.md#71-limitation-discipline),
-  - [§16.3 Openness Aspiration](core_01.015_stewardship_capacity_principles.md#163-openness-aspiration), and
-  - [§11 Market Structure](core_01.005_values_principles.md#11-market-structure).
-- Read with: [Article XIX](#article-xix-standing-and-participation-status) (*Standing and Participation Status*); [Article XXII](#article-xxii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) where exit, substrate portability, or relocation crosses jurisdictions, federations, or adopter regimes; [Article XVII](core_06.015_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) where deployment or dependency outgrows sandbox or lifecycle assumptions.
+  - [§7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency),
+  - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline),
+  - [§16.3 Openness Aspiration](core_01.010_stewardship_capacity_principles.md#163-openness-aspiration), and
+  - [§11 Market Structure](core_01.000_values_principles.md#11-market-structure).
+- Read with: [Article XIX](#article-xix-standing-and-participation-status) (*Standing and Participation Status*); [Article XXII](#article-xxii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) where exit, substrate portability, or relocation crosses jurisdictions, federations, or adopter regimes; [Article XVII](core_06.010_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) where deployment or dependency outgrows sandbox or lifecycle assumptions.
 
 </details>
 
@@ -651,10 +651,10 @@ Standing: standing status, competency bars, competency clearances, and standing 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles:
-  - [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7),
-  - [§13.1 Core Tradeoff Principles](core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
+  - [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -686,10 +686,10 @@ This Article sets out the portability floor:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles:
-  - [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7),
-  - [§13.1 Core Tradeoff Principles](core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
+  - [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -717,10 +717,10 @@ This Article sets out the floors for reciprocal interoperability and notice of n
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles:
-  - [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7),
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18).
+  - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
+  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18).
 
 </details>
 
@@ -752,7 +752,7 @@ This Article sets out the anti-lock-in rule:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §16.3 Openness Aspiration](core_01.015_stewardship_capacity_principles.md#163-openness-aspiration) (1.015 §16.3), [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7), and [§11 Market Structure](core_01.005_values_principles.md#11-market-structure).
+- Upstream: Principles: [Chapter One §16.3 Openness Aspiration](core_01.010_stewardship_capacity_principles.md#163-openness-aspiration) (1.010 §16.3), [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), and [§11 Market Structure](core_01.000_values_principles.md#11-market-structure).
 - Read with:
   - [Article XXI-A](#article-xxi-a-portability-rights) (*Portability Rights*);
   - [Article XXI-B](#article-xxi-b-reciprocal-interoperability-boundaries) (*Reciprocal Interoperability Boundaries*);
@@ -814,17 +814,17 @@ This Article sets out the open-formats floor for systems:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint),
-  - [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7),
-  - [§7.1 Limitation Discipline](core_01.005_values_principles.md#71-limitation-discipline), and
-  - [§13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality).
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
+  - [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and
+  - [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*) standing and participation-status routing, **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
 - Read with:
   - [Article XXI](#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) where movement runs through substrate portability or system exit;
   - [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05.050_band_oversight.md#oversight-dependent-clusters) (5.050);
   - [Article XX-B](#article-xx-b-restriction-floors) (*Restriction Floors*) and
   - [Chapter Eleven §5.4](core_11.000_standing_integration.md#54-special-violation-rules) (11.000 §5.4) (*coercive or liberty-restricting safeguard character*);
-  - [Article XXVIII](core_06.025_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) for transitional recognition when regimes or federations change; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
+  - [Article XXVIII](core_06.020_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) for transitional recognition when regimes or federations change; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
 
 </details>
 
@@ -874,7 +874,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7) and [§4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint).
+- Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7) and [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint).
 
 </details>
 
@@ -908,7 +908,7 @@ This Article sets out the floors for movement, refuge, and non-statelessness, an
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7), [§7.1 Limitation Discipline](core_01.005_values_principles.md#71-limitation-discipline), and [§13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality).
+- Upstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), and [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
 
 </details>
 
@@ -952,7 +952,7 @@ This Article sets out the grounds for refuge and the duties of receiving regimes
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint) (1.005 §4) and [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7).
+- Upstream: Principles: [Chapter One §4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint) (1.000 §4) and [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7).
 - Downstream: **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transitional recognition.
 
 </details>
@@ -999,7 +999,7 @@ This Article sets out the non-statelessness floor:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [§7.1 Limitation Discipline](core_01.005_values_principles.md#71-limitation-discipline) and [§13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality).
+- Upstream: Principles: [§7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline) and [§13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality).
 - Read with: [Article XIX-D](#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*); **Article XX-B** (*Restriction Floors*), and **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*).
 
 </details>
@@ -1049,7 +1049,7 @@ This Article sets out the limits on restricting movement, the conditions of cust
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.005_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (1.005 §5.2), [§13.3 Minimization of Avoidable Burden](core_01.010_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter One Part C §16.1 Distributed Understanding](core_01.015_stewardship_capacity_principles.md#161-distributed-understanding) (1.015 §16.1).
+- Upstream: Principles: [Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (1.000 §5.2), [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter One Part C §16.1 Distributed Understanding](core_01.010_stewardship_capacity_principles.md#161-distributed-understanding) (1.010 §16.1).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
@@ -1115,9 +1115,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 *Article neighbors:*
 
 - **Principle layer:**
-  - [Chapter One §5.2](core_01.005_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*plain-language and complexity-as-defeat discipline*);
-  - [§13.3](core_01.010_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*avoidable-burden minimization and simplification carve-outs*);
-  - [Chapter One Part C §16.1](core_01.015_stewardship_capacity_principles.md#161-distributed-understanding) (*distributed understanding keyed to materiality and dependency*).
+  - [Chapter One §5.2](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*plain-language and complexity-as-defeat discipline*);
+  - [§13.3](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*avoidable-burden minimization and simplification carve-outs*);
+  - [Chapter One Part C §16.1](core_01.010_stewardship_capacity_principles.md#161-distributed-understanding) (*distributed understanding keyed to materiality and dependency*).
 - **Rights detail:**
   - **Article XXIII-A** (*Proportional Comprehensibility Right*);
   - **Article XXIII-B** (*Complexity Audit and Modularity Requirements*);
@@ -1128,11 +1128,11 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§5 Truth](core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
-- Read with: [Chapter One §5.2 Plain-Language Accessibility (Stewardship Duty)](core_01.005_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (1.005 §5.2), [§13.3 Minimization of Avoidable Burden](core_01.010_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter One Part C §16.1 Distributed Understanding](core_01.015_stewardship_capacity_principles.md#161-distributed-understanding) (1.015 §16.1).
+  - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
+  - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), and
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+- Read with: [Chapter One §5.2 Plain-Language Accessibility (Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (1.000 §5.2), [§13.3 Minimization of Avoidable Burden](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter One Part C §16.1 Distributed Understanding](core_01.010_stewardship_capacity_principles.md#161-distributed-understanding) (1.010 §16.1).
 
 </details>
 
@@ -1163,11 +1163,11 @@ This Article sets out the floor for proportional understandability:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint),
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
-  - [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.015_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (1.015 §18.5), and
-  - [Chapter One §20 Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application) (1.015 §20).
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), and
+  - [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (1.010 §18.5), and
+  - [Chapter One §20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application) (1.010 §20).
 
 </details>
 
@@ -1191,8 +1191,8 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
   - dependency coupling;
   - failure modes;
   - the boundaries across which responsibility or observability is handed off.
-- **Modular architecture:** Critical systems **must** be structured so that their components, the responsibilities of each, and the dependencies between components can be identified and examined independently. Dependencies must be declared at interfaces, kept no broader than function requires, and mapped to the same boundaries that are audited. Responsibility and observability must be preserved across every internal boundary. Modular structure that conceals responsibility or defeats whole-system audit is anti-layering under the next bullet, and does not satisfy this requirement. Read with [§18.5 Modular Architecture and Dependency Discipline](core_01.015_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
-- **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction. This is the Rights Floor for the principle-layer discipline in [Chapter One §5.2.4 (*Complexity-as-Defeat Discipline*)](core_01.005_values_principles.md#524-complexity-as-defeat-discipline).
+- **Modular architecture:** Critical systems **must** be structured so that their components, the responsibilities of each, and the dependencies between components can be identified and examined independently. Dependencies must be declared at interfaces, kept no broader than function requires, and mapped to the same boundaries that are audited. Responsibility and observability must be preserved across every internal boundary. Modular structure that conceals responsibility or defeats whole-system audit is anti-layering under the next bullet, and does not satisfy this requirement. Read with [§18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
+- **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction. This is the Rights Floor for the principle-layer discipline in [Chapter One §5.2.4 (*Complexity-as-Defeat Discipline*)](core_01.000_values_principles.md#524-complexity-as-defeat-discipline).
 - **Protocol alignment:** Evaluation must be consistent with:
   - **[corpus_systems.md](corpus_systems.md), CS-6.315 (*Comprehensibility and complexity stewardship*) — *Comprehensibility and complexity stewardship***;
   - adopted presentation and architecture implementation requirements.
@@ -1207,11 +1207,11 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint),
-  - [§5 Truth](core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [§13.1 Core Tradeoff Principles](core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
+  - [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
@@ -1273,10 +1273,10 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint),
-  - [§5 Truth](core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), and
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -1309,10 +1309,10 @@ This Article sets out the documentation and challenge floors for root-cause find
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§4 Safety](core_01.005_values_principles.md#4-safety-harm-constraint),
-  - [§13.1 Core Tradeoff Principles](core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
+  - [§4 Safety](core_01.000_values_principles.md#4-safety-harm-constraint),
+  - [§13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -1347,10 +1347,10 @@ This Article sets out the reversibility preference and its guard against delay a
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One
-  - [§13.1.5 Rights-Collision Procedure](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test),
-  - [§5 Truth](core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [§18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and
-  - [§20 Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+  - [§13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test),
+  - [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint),
+  - [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and
+  - [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
@@ -1395,17 +1395,17 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 *Article neighbors:*
 
 - **Forum supervision:** [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) — Constitutional forum-family routing and supervision implement this Article without substituting forum process for the interpretive floors stated here.
-- **General anti-capture floor:** [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) — the independence and anti-capture safeguards for all governance bodies; **Articles XXV-C** and **XXIV-D** apply them at their strictest to **Constitutional forums**.
+- **General anti-capture floor:** [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) — the independence and anti-capture safeguards for all governance bodies; **Articles XXV-C** and **XXIV-D** apply them at their strictest to **Constitutional forums**.
 - **Challenge and justice:** **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and [**Article XX** (*Justice After Verified Violation*)](#article-xx-justice-after-verified-violation) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
-- **Non-entrenchment:** [**Article XXVII-A** (*Non-Entrenchment and Revisability*)](core_06.025_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) — periodic revalidation under **Article XXV-D** (*Removal for Cause and Non-Entrenchment*) read with non-entrenchment discipline.
+- **Non-entrenchment:** [**Article XXVII-A** (*Non-Entrenchment and Revisability*)](core_06.020_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) — periodic revalidation under **Article XXV-D** (*Removal for Cause and Non-Entrenchment*) read with non-entrenchment discipline.
 - **Institutional routing:** **[corpus_institutions.md](corpus_institutions.md), CI-14.205** (*Appointment, competency, rotation, and removal*) and **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
 #### Article XXV-A: Bounded Interpretive Mandate and Public Reasons
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibition on Absolute Override](core_01.010_interaction_interpretation.md#14-prohibition-on-absolute-override), and [§20 Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application).
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness; tetrad capture discipline under [Chapter One §18](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18).
+- Upstream: Principles: Chapter One [§13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override), and [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
+- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness; tetrad capture discipline under [Chapter One §18](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18).
 
 </details>
 
@@ -1454,7 +1454,7 @@ This Article sets out the bounded mandate of Constitutional forums and its limit
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §13.1.5 Rights-Collision Procedure](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5), and [§20 Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§5 Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5), and [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1482,11 +1482,11 @@ This Article sets out the floors for independent challenge and secondary review 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§20 Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 - Read with:
-  - [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*the general independence and anti-capture floor for all governance bodies*);
+  - [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*the general independence and anti-capture floor for all governance bodies*);
   - [Chapter Eleven §5.5](core_11.000_standing_integration.md#55-special-locks) (11.000 §5.5) (*forum disclosure omission and recusal-process impact*);
-  - [Chapter Twelve §5.10](core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (12.010 §5.10) (*named misconduct pattern*);
+  - [Chapter Twelve §5.10](core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (12.005 §5.10) (*named misconduct pattern*);
   - [Chapter Thirteen §2 (*Default venue and primary stakes*)](core_13.000_forum.md#2-default-venue-and-primary-stakes) (13.000 §2) and
   - [§3](core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Integrity-first routing and anti-self-judging*).
 
@@ -1504,11 +1504,11 @@ This Article sets out the floors for independent challenge and secondary review 
 
 <br>
 
-*In plain terms: the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.*
+*In plain terms: the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.*
 
 This Article sets out the independence and external-review floors for Constitutional forums:
 
-- **Strictest application of the non-capture safeguards:** **Constitutional forums** — and the bodies that design, seat, rotate, and remove their panels under adopting documents — must meet every safeguard in [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (composition and conflict controls, ongoing disclosure and recusal, enforcement and routing, and no procedural gaming). No adopting document or forum procedure may relax those safeguards for them.
+- **Strictest application of the non-capture safeguards:** **Constitutional forums** — and the bodies that design, seat, rotate, and remove their panels under adopting documents — must meet every safeguard in [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (composition and conflict controls, ongoing disclosure and recusal, enforcement and routing, and no procedural gaming). No adopting document or forum procedure may relax those safeguards for them.
 - **Recusal failure on a Constitutional forum:** A verified failure to recuse by a **Constitutional forum** panelist follows the **Article XII-D** (*Non-Capture Safeguards*) misconduct path and integrity-first routing. A **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have stepped aside.
 - **Mandatory external review:** At defined intervals, independent external review of **Constitutional forums** is mandatory and is not reduced by material-stake scaling. By default, **Integrity** forums conduct this review under **[Chapter Thirteen §2](core_13.000_forum.md#2-default-venue-and-primary-stakes) (*Default venue and primary stakes*)** and the **cross-forum anti-self-judging rule** in **[Chapter Thirteen §3](core_13.000_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*Transfer, consolidation, and coordination — continuity and anti-capture*)**. The reviewing **Integrity** forum must be structurally separate from the **Constitutional** forum under review and must not include overlapping decision-makers from the reviewed body's recent interpretive panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Thirteen §3 (*Transfer, consolidation, and coordination — continuity and anti-capture*)** applies without narrowing this obligation. The review must assess:
   - capture indicators;
@@ -1520,8 +1520,8 @@ This Article sets out the independence and external-review floors for Constituti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§20 Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application).
-- Read with: [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*general removal-for-cause and anti-pretext floors*).
+- Upstream: Principles: Chapter One [§13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§20 Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
+- Read with: [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*general removal-for-cause and anti-pretext floors*).
 
 </details>
 
@@ -1536,15 +1536,15 @@ This Article sets out the independence and external-review floors for Constituti
 
 <br>
 
-*In plain terms: **Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards). For the bodies that interpret the Constitution, the ban on using "removal," "restructuring," or "redesign" as a weapon against independence or dissent is applied with special force.*
+*In plain terms: **Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards). For the bodies that interpret the Constitution, the ban on using "removal," "restructuring," or "redesign" as a weapon against independence or dissent is applied with special force.*
 
 This Article sets out the grounds for removing panelists, their periodic revalidation, and the guard against pretext:
 
-- **Removal for cause and anti-pretext:** **Constitutional forum** members and panelists are removable only under the **Removal for cause** floor of [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards), and the **Anti-pretext** floor of that Article applies to them in full. In particular, removal, restructuring, or redesign of **Constitutional forum** panels or institutions must not be used to defeat independence, terminate pending review, retaliate for good-faith interpretive dissent, or narrow challenge rights.
-- **Periodic revalidation:** **Constitutional forum** institutional design — and **adopting institutions** that govern their composition, operation, and challenge pathways — must be periodically revalidated under [**Article XXVII-A** (*Non-Entrenchment and Revisability*)](core_06.025_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability). **Adopting institutions** must revise that design where capture risk or challenge-rights failure is materially evidenced.
+- **Removal for cause and anti-pretext:** **Constitutional forum** members and panelists are removable only under the **Removal for cause** floor of [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards), and the **Anti-pretext** floor of that Article applies to them in full. In particular, removal, restructuring, or redesign of **Constitutional forum** panels or institutions must not be used to defeat independence, terminate pending review, retaliate for good-faith interpretive dissent, or narrow challenge rights.
+- **Periodic revalidation:** **Constitutional forum** institutional design — and **adopting institutions** that govern their composition, operation, and challenge pathways — must be periodically revalidated under [**Article XXVII-A** (*Non-Entrenchment and Revisability*)](core_06.020_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability). **Adopting institutions** must revise that design where capture risk or challenge-rights failure is materially evidenced.
 
 ---
 
-**Previous file:** [core_06.015_rights_part_c.md](core_06.015_rights_part_c.md)
+**Previous file:** [core_06.010_rights_part_c.md](core_06.010_rights_part_c.md)
 
-**Next file:** [core_06.025_rights_part_e.md](core_06.025_rights_part_e.md)
+**Next file:** [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md)

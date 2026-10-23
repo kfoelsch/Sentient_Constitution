@@ -799,7 +799,7 @@ flowchart TB
 - [**重大性**](../../core_05.050_band_oversight.md#materiality)は、どれだけ示し説明しなければならないかを決める。システムに依存する感覚ある存在にとって利害が大きいほど、システムはより多くを開示し、正当化しなければならない。
 - [**信頼の毀損と誤解を招く依拠**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance)は、システムが憲法に反する誤解を招く形で依拠を生み出し、維持し、または評価する失敗の形を示す。
 
-抑圧、欺瞞、隠れたリスク転嫁などの手段によって依拠が築かれたり維持されたりすると、信頼は損なわれる。これには、感覚ある存在が体系的リスクを発見し異議を申し立てる能力を実質的に損なうあらゆるものが含まれる。[**システム整合性認証**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)の過程は[第八章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)に基づき、システムは信頼に関する主張が妥当であることを実証する。認証では、運用者の主張だけに頼るのではなく、異議申立て可能な記録に基づいて、システムの実際の振る舞いが表示内容と一致することを検証しなければならない。
+抑圧、欺瞞、隠れたリスク転嫁などの手段によって依拠が築かれたり維持されたりすると、信頼は損なわれる。これには、感覚ある存在が体系的リスクを発見し異議を申し立てる能力を実質的に損なうあらゆるものが含まれる。[**システム整合性認証**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)の過程は[第八章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)に基づき、システムは信頼に関する主張が妥当であることを実証する。認証では、運用者の主張だけに頼るのではなく、異議申立て可能な記録に基づいて、システムの実際の振る舞いが表示内容と一致することを検証しなければならない。
 
 信頼は、システムが失敗したときに何をするかにも左右される。信頼できるシステムは誤りを修正する。[§6.1 是正と救済](#61-correction-and-remedy)は、是正が後回しの対応ではなく、信頼の一部であることを定める。
 
@@ -1476,7 +1476,7 @@ flowchart TB
 - [憲法上の四本柱](core_00_preamble.md#constitutional-tetrad)と併読する — 集中や支配によって発言、監視、説明責任、適時の是正が損なわれる場合の参加、監督、説明責任、適時性の各柱；[実質的重要性](core_00_preamble.md#material-stake)に応じた段階設定（特に[§11.2 競争促進と支配の防止](#112-競争促進と支配の防止)）。
 - [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)と併読する — **継続性**の目的（異議申立てが可能で持続的な生産条件）、**繁栄**の目的（生計、主体性、イノベーションの経路への公正なアクセス）。
 - 上流の原則：[§9 共有システム能力](#9-共有システム能力) — 集中や支配がこれらを損なう場合、生産能力や効率性の主張は成り立たない；[§18 スチュワードシップ規律の下でのガバナンス](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)。
-- 下流への影響：[第十一章 §5](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（集中に基づく転覆の基準）；[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)（[§13.2.4 代理指標の乖離による無効化](core_01_b_interaction_interpretation.md#1324-代理指標の乖離による無効化)）。
+- 下流への影響：[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（集中に基づく転覆の基準）；[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)（[§13.2.4 代理指標の乖離による無効化](core_01_b_interaction_interpretation.md#1324-代理指標の乖離による無効化)）。
 - 下流への影響：**CJS-3.11.1 — 市場集中の閾値設定規律（採択主体による調整可）**（適用規則は[§11.1](#111-市場集中閾値メカニズム採択主体による調整可)および[§11.4](#114-資源と依存関係の集中採択主体による調整可)）；**CJS-3.11.2 — 支配的行為と是正措置の一覧**（[§11.2](#112-競争促進と支配の防止)に禁止行為と救済策）；**CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）**（上限の設定方法は[§11.3.2](#1132-統合上限メカニズム採択主体による調整可)）。
 - 下流への影響：資源配分、公正な報酬、集団組織、相互運用性、退出、収奪的支配の審査に関する権利の範囲を形成する。特に[第III-C条：労働・経済の最低基準](core_06_rights_part_a.md#article-iii-c-労働と経済の床)、[第V条：資源配分、依存関係、生態系への資金提供](core_06_rights_part_a.md#article-v-資源配分依存生態系の資金)、[第XXI条：相互運用性、可搬性、移動、避難先、退出の完全性](core_06_rights_part_d.md#第xxi条-相互運用性可搬性退出の完全性)。
 - 小節（読書順）：[§11.1 市場集中閾値メカニズム（採択主体による調整可）](#111-市場集中閾値メカニズム採択主体による調整可) · [§11.1.1 集中閾値トリガー（採択主体による調整可）](#1111-集中閾値トリガー採択主体による調整可) · [§11.2 競争促進と支配の防止](#112-競争促進と支配の防止) · [§11.3 統合上限](#113-統合上限) · [§11.4 資源と依存関係の集中（採択主体による調整可）](#114-資源と依存関係の集中採択主体による調整可)。
@@ -1522,7 +1522,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連事項</span></strong></summary>
 
 - 前提：[§11 市場構造](#11-市場構造)、[市場集中の閾値](../../core_05.035_band_accountability.md#market-concentration-threshold)。
-- 下流への影響：**CJS-3.11.1 — 市場集中の閾値設定規律（採択主体による調整可）**（閾値設定の運用規則）、[§11.2 競争促進と支配の防止](#112-競争促進と支配の防止)、[§11.3 統合上限](#113-統合上限)、[CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-統合上限メカニズム採択主体による調整可)の上限設定運用規則）、[第九章 §4 質問2 — どの程度よかったか、悪かったか](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)、[第十一章 §5.1 集中による転覆](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下流への影響：**CJS-3.11.1 — 市場集中の閾値設定規律（採択主体による調整可）**（閾値設定の運用規則）、[§11.2 競争促進と支配の防止](#112-競争促進と支配の防止)、[§11.3 統合上限](#113-統合上限)、[CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-統合上限メカニズム採択主体による調整可)の上限設定運用規則）、[第九章 §4 質問2 — どの程度よかったか、悪かったか](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)、[第十一章 §5.1 集中による転覆](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - スチュワードの案内口（運用規則ではない）：次の手順カード：[市場構造](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure)。
 - 小節（読書順）：[§11.1.1 集中閾値トリガー（採択主体による調整可）](#1111-集中閾値トリガー採択主体による調整可)。
 
@@ -1545,7 +1545,7 @@ flowchart TB
 
 - **定めること：** [§11 市場構造](#11-市場構造)の最低基準に関する、原則レベルの閾値の方向性。
 - **定めないこと：** 検証済みの害の深刻さの判断、または不正行為の認定。
-- **集中がこの憲法を損なうために使われた場合：** その不正行為は[第十一章 §5.1 集中による転覆](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)に基づき判断する。
+- **集中がこの憲法を損なうために使われた場合：** その不正行為は[第十一章 §5.1 集中による転覆](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)に基づき判断する。
 - **最低基準を超える集中の形成、維持、利用：** 不正行為認定の審査のため第十一章に付託できるが、二段階を踏む場合に限る。まず、[第九章 §4 質問2 — どの程度よかったか、悪かったか](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)で、検証済みの害が最も深刻な三段階のいずれかにすでに評価されていなければならない。その後、第十一章は、集中が基準3（保護を後退させる抜け道）、基準4（権利最低基準の保護への損害または異議申立ての妨害）、基準6（憲法上の手続が実際上使えなくなること）のいずれかに該当するかを確認する。
 
 **憲法上の最低基準：**
@@ -1602,7 +1602,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連事項</span></strong></summary>
 
 - 前提：[§11 市場構造](#11-市場構造)、[市場構造](../../core_05.035_band_accountability.md#market-structure)。
-- 下流への影響：**CJS-3.11.2 — 支配的行為と是正措置の一覧**（運用上の行為パターンと救済策）、[§11.3 統合上限](#113-統合上限)、[第十一章 §5](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下流への影響：**CJS-3.11.2 — 支配的行為と是正措置の一覧**（運用上の行為パターンと救済策）、[§11.3 統合上限](#113-統合上限)、[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - [第III-C条：労働・経済の最低基準](core_06_rights_part_a.md#article-iii-c-労働と経済の床)（労働移動に関する権利最低基準）、[第XXI条：相互運用性、可搬性、移動、避難先、退出の完全性](core_06_rights_part_d.md#第xxi条-相互運用性可搬性退出の完全性)、[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-憲法上の衝突解決プロセス)（[必要性](../../core_05.035_band_accountability.md#necessity)、[比例性](../../core_05.035_band_accountability.md#proportionality)、[§13.2.4 代理指標の乖離による無効化](core_01_b_interaction_interpretation.md#1324-代理指標の乖離による無効化)）と併読する。
 - 小節（読書順）：[§11.2.1 競争促進の義務（すべきこと）](#1121-競争促進の義務すべきこと) · [§11.2.2 支配防止の禁止事項（してはならないこと）](#1122-支配防止の禁止事項してはならないこと) · [§11.2.3 救済措置](#1123-救済措置)。
 
@@ -1853,7 +1853,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連事項</span></strong></summary>
 
 - 前提：[§11.3 統合上限](#113-統合上限)、[§11.3.1 統合リスク（囲い込み前の阻害）](#1131-統合リスク囲い込み前の阻害)。
-- 下流への影響：**CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）**（上限設定の運用規則）、[CJS-3.11.2 — 支配的行為と是正措置の一覧](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)（上限違反時の救済措置への付託）、[第十一章 §5](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下流への影響：**CJS-3.11.3 — 統合上限設定規律（採択主体による調整可）**（上限設定の運用規則）、[CJS-3.11.2 — 支配的行為と是正措置の一覧](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)（上限違反時の救済措置への付託）、[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 </details>
 
@@ -1980,7 +1980,7 @@ flowchart TB
 
 詳細な評価要素と認証記録は、次が所管する。
 - **[第八章 §3 システム全体の認証評価](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**。
-- **[第八章 §6 システム認証記録](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record)**。
+- **[第八章 §6 システム認証記録](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)**。
 - **[corpus_systems.md](../../corpus_systems.md)、CS-3 — システムの分類と取扱い**。
 
 第八章の手続は、次のとおりである。

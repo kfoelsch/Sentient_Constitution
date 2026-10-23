@@ -107,7 +107,7 @@ Definisi daun di bawah kaki ini mewarisi cakupannya kecuali mereka secara tegas 
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hilir: keluarga pengukuran Partisipasi — rollup hanya-tautan; tingkatan per istilah hidup pada definisi daun — lihat [Keadilan substantif](../../core_05.055_band_participation.md#substantive-fairness), [Proksi ciri dilindungi dan dampak tidak setara](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Aksesibilitas](../../core_05.055_band_participation.md#accessibility), [Keagenan pendidikan](../../core_05.055_band_participation.md#educational-agency), [Keagenan bermakna](../../core_05.055_band_participation.md#meaningful-agency), dan klaster [Privasi (informasional)](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) di pita Kesinambungan.
-- Baca bersama: Bab Enam, [Bab Tujuh](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), atau instrumen yang diinkorporasikan — persyaratan mengikat tentang nondiskriminasi, akomodasi, pendidikan, atau privasi timbul ketika instrumen itu secara tegas menuntutnya.
+- Baca bersama: Bab Enam, [Bab Tujuh](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), atau instrumen yang diinkorporasikan — persyaratan mengikat tentang nondiskriminasi, akomodasi, pendidikan, atau privasi timbul ketika instrumen itu secara tegas menuntutnya.
 
 </details>
 

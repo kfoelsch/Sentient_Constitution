@@ -16,9 +16,9 @@
 - Replace system classification doctrine ([Systems and data](corpus_systems.md))
 
 **Implements from the core files:**
-- [Chapter One](core_01.005_values_principles.md) principles ([Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
+- [Chapter One](core_01.000_values_principles.md) principles ([Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
 - [Chapter Five](core_05.000_definitions_home.md) definitions by reference — this layer does not redefine them
-- [Chapter Six](core_06.005_rights_part_a.md) Rights Floor themes where institutions must deliver accessible challenge and service pathways, remedy, care, health, and related floors
+- [Chapter Six](core_06.000_rights_part_a.md) Rights Floor themes where institutions must deliver accessible challenge and service pathways, remedy, care, health, and related floors
 - [Chapter Eleven](core_11.000_standing_integration.md) remedy and enforcement realism where **CI-11.205** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
 - [Chapter Fourteen](core_14.000_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
 

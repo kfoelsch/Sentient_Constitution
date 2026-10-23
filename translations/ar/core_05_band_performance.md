@@ -12,7 +12,7 @@
 >
 > **السابق (هذه اللغة):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 >
-> **التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
+> **التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 > **قوس القراءة:** موطن أسرة القياس → توجيه الأطراف في نطاق الاستمرارية.
 
 </details>
@@ -58,12 +58,12 @@
 - تعيش مستويات القياس التشغيلية في مواطن تعريف الفصل الخامس — انظر [الكفاءة الدستورية](../../core_05.040_band_continuity.md#constitutional-efficiency)، [العبء القابل للتجنّب](../../core_05.040_band_continuity.md#avoidable-burden)، [القدرة الإنتاجية](../../core_05.040_band_continuity.md#productive-capacity-constitutional) و[واجب تقليل العبء](../../core_05.040_band_continuity.md#burden-reduction-duty-constitutional).
 - أهداف الأداء والمكافآت ومقاييس الموارد لا تصح إلا بقدر ما تبقى قابلة للتتبّع إلى نواتج دستورية.
 - لا يجوز أن تحل محل الكفاءة الدستورية أو [القدرة الإنتاجية](../../core_05.040_band_continuity.md#productive-capacity-constitutional) أو الامتثال لأرضية الحقوق.
-- يُقرأ مع [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث يكون أداء النظام كاملًا داخل النطاق على نحو مادي الصلة.
+- يُقرأ مع [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث يكون أداء النظام كاملًا داخل النطاق على نحو مادي الصلة.
 
 ---
 
 **الملف السابق (هذه اللغة):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 
-**الملف التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
+**الملف التالي (ما زال بالإنجليزية):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 
 **الأصل الملزم:** [core_05_band_performance.md](../../core_05.060_band_performance.md)

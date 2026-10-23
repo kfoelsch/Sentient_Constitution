@@ -1,7 +1,7 @@
 # Chapter One integration relocation — cut list and migration spec
 
 **Status:** Applied (2026-06-24) — §2 and §§10–14 moved to Part A; §§6–9 remain Part B; full renumber to Part A §§1–10 / Part B §§11–14.  
-**Scope:** Relocate integration layer from `core_01_b_stewardship_capacity_principles.md` to `core_01.005_values_principles.md`; renumber operational block §§11–9 → §§11–14.
+**Scope:** Relocate integration layer from `core_01_b_stewardship_capacity_principles.md` to `core_01.000_values_principles.md`; renumber operational block §§11–9 → §§11–14.
 
 ---
 

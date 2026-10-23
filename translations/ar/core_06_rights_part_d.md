@@ -764,7 +764,7 @@ flowchart TB
   - وتُحال قرارات اللجوء بسبب عدم صلاحية المكان للسكن المناخية إلى فقرة القرار التقديري للجهات المعتمدة في هذه المادة، ولا يجوز قراءتها على أنها منح أو رفض ضمني لأرضية الحقوق.
 
 - **حدود الفصل بين الصفة والحدود، والفصل الوقائي:** يجوز لقفل الفصل أن يمنع أماكن أو اتصالات محددة، لكنه لا يعمل كإبعاد عام أو رفض للجوء أو جعل بلا جنسية أو حبس أو احتجاز منهجي داخل نظام. ولا يجيز قفل الصفة **بذاته** السجن أو الاحتجاز أو أي تقييد آخر للحرية؛ يلزم لذلك مسار العدل وضماناته المذكورة أعلاه. يجوز تزامن قفل الصفة والتدبير القضائي فقط إذا استوفى كل منهما شروطه الدستورية المستقلة. ويجب حماية أرضية الحقوق والانتصاف والإنصاف الإجرائي أثناء الحبس.
-- **أرضية الحبس:** يجب استيفاء **المادة XX-B** (*الحدود الدنيا للقيود*)، بما فيها شروط الحبس في [أرضية شروط الحبس](../../core_06.020_rights_part_d.md#xx-b-conditions-of-custody)، إضافة إلى ضمانات الإجراءات الجنائية أو ما يعادلها التي تفعّلها قواعد الانتهاك الخاصة في الفصل الحادي عشر §5.4.
+- **أرضية الحبس:** يجب استيفاء **المادة XX-B** (*الحدود الدنيا للقيود*)، بما فيها شروط الحبس في [أرضية شروط الحبس](../../core_06.015_rights_part_d.md#xx-b-conditions-of-custody)، إضافة إلى ضمانات الإجراءات الجنائية أو ما يعادلها التي تفعّلها قواعد الانتهاك الخاصة في الفصل الحادي عشر §5.4.
 
 <a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
 ### المادة XXIII: سهولة الفهم ورعاية التعقيد
@@ -1093,7 +1093,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - الأساس الأعلى: مبادئ الفصل الأول [§13.1.5 اختبار قرار تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[§18 الحوكمة في ظل انضباط الرعاية](core_01_c_stewardship_capacity_principles.md#18-الحوكمة-في-ظل-انضباط-الإشراف)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-التطبيق-المتكامل).
-- تُقرأ مع: [الفصل العاشر §5.5](core_09_standing_integration.md#55-special-locks) (*الإغفال عن الإفصاح في المنتدى وأثر إجراءات التنحي*)؛ [الفصل الحادي عشر §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*نمط سلوك محدد*)؛ [الفصل الثاني عشر §2](core_11_forum.md#2-default-venue-and-primary-stakes) و[§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*التوجيه الذي يقدّم النزاهة ومنع الفصل الذاتي*).
+- تُقرأ مع: [الفصل العاشر §5.5](core_09_standing_integration.md#55-special-locks) (*الإغفال عن الإفصاح في المنتدى وأثر إجراءات التنحي*)؛ [الفصل الحادي عشر §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*نمط سلوك محدد*)؛ [الفصل الثاني عشر §2](core_11_forum.md#2-default-venue-and-primary-stakes) و[§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*التوجيه الذي يقدّم النزاهة ومنع الفصل الذاتي*).
 
 </details>
 

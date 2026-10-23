@@ -17,7 +17,7 @@
     {
       "locale": "ar",
       "translation_file": "translations/ar/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "744a87152f0c1c308d4c53e6f28dcd904808b44564f85c45e60db464f25e534b",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -28,7 +28,7 @@
     {
       "locale": "ar",
       "translation_file": "translations/ar/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "9bca7f411587571fb0b532401445ec52bcab984db8e6db9ede5e209cd9ad055b",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -39,7 +39,7 @@
     {
       "locale": "ar",
       "translation_file": "translations/ar/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "df2b776be8cb28b8ae15b75ef2aadc58136a4163c7b304842fbf68fdc5a92fd1",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -193,7 +193,7 @@
     {
       "locale": "ar",
       "translation_file": "translations/ar/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "b4582cc0eaae1538b59eca0dd99ba961ba47906b8de9b47d9e55df539d235ed1",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -204,7 +204,7 @@
     {
       "locale": "ar",
       "translation_file": "translations/ar/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "70adb8ac48430a1f6d7f73c5229e218c97c92d9db7cd1b64e464395fc37dd53a",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -215,7 +215,7 @@
     {
       "locale": "ar",
       "translation_file": "translations/ar/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "b19b14bfe3c5facf4e8c1a8c10f04a21cbeda3fe5ffa1695a48dd84ed25aeefe",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -226,7 +226,7 @@
     {
       "locale": "ar",
       "translation_file": "translations/ar/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "474d0af558d4d7d067c266c77bcbe6c4f18e31c5650b31d3409900e6fa655426",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -237,7 +237,7 @@
     {
       "locale": "ar",
       "translation_file": "translations/ar/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "88464107580ea27eecb4c4479b1644a764873741c086f26a090c73fb93d38015",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -380,7 +380,7 @@
     {
       "locale": "bn",
       "translation_file": "translations/bn/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "ddcf42cf66b4e45182c655a9e373eeb24fcb81dc004e9e3bc2286777833f4711",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -391,7 +391,7 @@
     {
       "locale": "bn",
       "translation_file": "translations/bn/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "1dc31f1a8da17fcd3f74aa153a2349077841eb301a5496ea73b1602046e13eb2",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -402,7 +402,7 @@
     {
       "locale": "bn",
       "translation_file": "translations/bn/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "ad38c85be93357acea17ce22fd699fdc1870d1541a2557b9904401bdc6390acc",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -556,7 +556,7 @@
     {
       "locale": "bn",
       "translation_file": "translations/bn/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "0cb83471f9ceb1851951e6a9ea3d7ff935722d4909cf94c58a26af9b2a5e0ebe",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -567,7 +567,7 @@
     {
       "locale": "bn",
       "translation_file": "translations/bn/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "582bb55d5547ebe8d34e189527c651ca07112a89ef4d62e8b860825d6be09d1c",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -578,7 +578,7 @@
     {
       "locale": "bn",
       "translation_file": "translations/bn/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "2f0cef4affabb54db1a71ff74dbc031437954863ae70b69dcb90cf6b1a9428df",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -589,7 +589,7 @@
     {
       "locale": "bn",
       "translation_file": "translations/bn/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "09a437384d860fd5705a68913f23581d96add5b02f8ebf46eaa0993d42134794",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -600,7 +600,7 @@
     {
       "locale": "bn",
       "translation_file": "translations/bn/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "1f919800e536d0763632d5d9f60874c42a51ca3c24e616c129a9c0b0b7896f9c",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -743,7 +743,7 @@
     {
       "locale": "es",
       "translation_file": "translations/es/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "83e22b6f6a98828b737a8a237c6ff58497189ede8b5e240d0f01afaf4b924783",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -754,7 +754,7 @@
     {
       "locale": "es",
       "translation_file": "translations/es/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "49273e129a0dd1c12d452138c95ecc2774ed8508a9b4aa444a9c9740e44e4af9",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -765,7 +765,7 @@
     {
       "locale": "es",
       "translation_file": "translations/es/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "d9a99aa40a5eff41e36c29aa7a8ebb44eaa2870db8563bfaf5bd87eef2f814f5",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -952,7 +952,7 @@
     {
       "locale": "es",
       "translation_file": "translations/es/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "f7191bdc80d58d584d1e85dcddc1574a89051f78aa5be7b6d7766335b4e3e177",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -963,7 +963,7 @@
     {
       "locale": "es",
       "translation_file": "translations/es/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "d8576f54277c49afdac3017793b2997221875f0bfad7f8f1611779373339c846",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -974,7 +974,7 @@
     {
       "locale": "es",
       "translation_file": "translations/es/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "133b21c41615d8c357a14455e4fc4fdd9f0eeb18c867766836b87ec5c4415789",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -985,7 +985,7 @@
     {
       "locale": "es",
       "translation_file": "translations/es/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "e2238266298ca139a23aabec99203d42c8f63f5c67fb71b90dd72225a618216b",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -996,7 +996,7 @@
     {
       "locale": "es",
       "translation_file": "translations/es/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "766d28c87ab5c13b69415878d7bfe1dcbf4de018caf351f0e1635a54d38276d3",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1150,7 +1150,7 @@
     {
       "locale": "fa",
       "translation_file": "translations/fa/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "ca2778c907fb288ac5856a2876b4cb2454c22f1eaddac2912b0d865de722da51",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1161,7 +1161,7 @@
     {
       "locale": "fa",
       "translation_file": "translations/fa/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "c06ca3d319199ba67dae88337b45c430b2330eebb30b09f57400c1e4fe606ce9",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1172,7 +1172,7 @@
     {
       "locale": "fa",
       "translation_file": "translations/fa/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "e7e7f4fb506b27fe90f6825264df92ea72c631ed74d73ed1f13b4ef92a90861e",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1326,7 +1326,7 @@
     {
       "locale": "fa",
       "translation_file": "translations/fa/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "b4fe567210f2a1323b93539c9f903db735b1b6788e925406b5331ed9eddc63c8",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1337,7 +1337,7 @@
     {
       "locale": "fa",
       "translation_file": "translations/fa/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "4647210d745ec3e2c68dac2e1266a95724b0a86668e3be5672739ff459475fb5",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1348,7 +1348,7 @@
     {
       "locale": "fa",
       "translation_file": "translations/fa/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "d7fcccd4e54e6151adb1539031fe8f56cec3fdb2ab28a39e688f536d83475b51",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1359,7 +1359,7 @@
     {
       "locale": "fa",
       "translation_file": "translations/fa/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "fb2afe427da2ee24e5153a2fc20a99c53fa06e8642bb9021971aad7b730a1736",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1370,7 +1370,7 @@
     {
       "locale": "fa",
       "translation_file": "translations/fa/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "af9c8a490a03206a1601081e35640dde2342e9d0b55dfb10490159c8f9a2077c",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1513,7 +1513,7 @@
     {
       "locale": "fr",
       "translation_file": "translations/fr/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "2eea3d533ad5c227fa3f5cfa59a69ad7ee8e8ad42de707f3f64acf5645ad8fa8",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1524,7 +1524,7 @@
     {
       "locale": "fr",
       "translation_file": "translations/fr/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "42b1290b8596123813e639a15dcfccc8e9164cdd02c6a44f0396aa34ce9fe36a",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1535,7 +1535,7 @@
     {
       "locale": "fr",
       "translation_file": "translations/fr/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "9d610f53318fad2bf63a1dbdddb4b4760b600d3d6d861243244952d5b560d5a3",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1689,7 +1689,7 @@
     {
       "locale": "fr",
       "translation_file": "translations/fr/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "1409f2bcc62777e745f4889d305162823a70dc7acb88c81b2a4c32a08cd95d10",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1700,7 +1700,7 @@
     {
       "locale": "fr",
       "translation_file": "translations/fr/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "f380a4619e76659359576d63b5dd210d0d3632325d52f3bfd30885aeb63caab0",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1711,7 +1711,7 @@
     {
       "locale": "fr",
       "translation_file": "translations/fr/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "2dc4bc70ea8ece73e8f601219980e57f98c63e23f6cf331b5ef5d5866dbf1b32",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1722,7 +1722,7 @@
     {
       "locale": "fr",
       "translation_file": "translations/fr/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "78180b9430999a49f70dc9256e94b029317020450235dde429a944f309753fd3",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1733,7 +1733,7 @@
     {
       "locale": "fr",
       "translation_file": "translations/fr/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "cf16820046c04c80e9f280e559fefa81b60f1955bdb254201221c6b89831629d",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1876,7 +1876,7 @@
     {
       "locale": "hi",
       "translation_file": "translations/hi/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "5b14c1b594ba0b090a0b6f5abf044e40b88b931bdfe1ffc68acaa6f9b57cdfd2",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1887,7 +1887,7 @@
     {
       "locale": "hi",
       "translation_file": "translations/hi/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "a6e140d7d138cab29656187d8353c2311370c35d14b847b8c4d40688286176b9",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -1898,7 +1898,7 @@
     {
       "locale": "hi",
       "translation_file": "translations/hi/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "b457f0bbaae65602117cac70d0c3aa921335ba8ca3e64ba82b8649eaee73b0cd",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2052,7 +2052,7 @@
     {
       "locale": "hi",
       "translation_file": "translations/hi/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "4026b86a17b2eaf253e0ff5e13d79f409d7df7e9fb4ee53a340b5dccdfb31d61",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2063,7 +2063,7 @@
     {
       "locale": "hi",
       "translation_file": "translations/hi/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "dfc5526b05d14ff073bf5eba8166a8daa66b9328545d9e53adb9428e68cbfb35",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2074,7 +2074,7 @@
     {
       "locale": "hi",
       "translation_file": "translations/hi/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "4a10317670e5f28bd07684f097422ed8f179a43af73fe794ebb55ed7b120b25d",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2085,7 +2085,7 @@
     {
       "locale": "hi",
       "translation_file": "translations/hi/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "ec0e9a9fc6695be9b00ae890216fc001b63b7683ce1320612f53da2ba55edd75",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2096,7 +2096,7 @@
     {
       "locale": "hi",
       "translation_file": "translations/hi/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "3908354a588398c9c6fd559f7acb9bbd9bd13c549f8ae8814437f9b7a14396c6",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2239,7 +2239,7 @@
     {
       "locale": "id",
       "translation_file": "translations/id/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "f2093f7fd241d9bc3cccb251987a2ef897e5bbfad69fb5ec2cf74018d8001031",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2250,7 +2250,7 @@
     {
       "locale": "id",
       "translation_file": "translations/id/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "cc3e07c5fed9a8a9e2bedc4bff9c4db99d867fc35aefc8f661ee85455787605d",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2261,7 +2261,7 @@
     {
       "locale": "id",
       "translation_file": "translations/id/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "83c1e94ef8cd8be241ef3f65885e04231f20aac7b5c2e99bc23ca88207fd17b9",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2415,7 +2415,7 @@
     {
       "locale": "id",
       "translation_file": "translations/id/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "696c8a105c7a0b304817de5711513da0e064e66b44056c965362c6832f448608",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2426,7 +2426,7 @@
     {
       "locale": "id",
       "translation_file": "translations/id/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "bcc0f7ce0c80786a1f44e207d0156aef896224d3cef71a16d7e61bf3e259715a",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2437,7 +2437,7 @@
     {
       "locale": "id",
       "translation_file": "translations/id/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "602b4ac30d6caa583f760adc1fc7daa82f4fbf670159942de0bd6b3f5eca3392",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2448,7 +2448,7 @@
     {
       "locale": "id",
       "translation_file": "translations/id/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "a503b164b59a1758d90538ee57fd3712c0448331d2ca9acf1b083bddffc4596b",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2459,7 +2459,7 @@
     {
       "locale": "id",
       "translation_file": "translations/id/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "7658c9f1a763726fc2b1b26a53b8bdf8c259045950d4e6fd578c31825abb08e4",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2602,7 +2602,7 @@
     {
       "locale": "ja",
       "translation_file": "translations/ja/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "c9b7959d8e6850840596a39f2b615eb3b6ca4e0af0d5916ea84b3b88aecaaf95",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2613,7 +2613,7 @@
     {
       "locale": "ja",
       "translation_file": "translations/ja/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "4dcbf2be89da377a5a0c0e1380d837e9bf809dadaaf5c98135f789909954a9ca",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2624,7 +2624,7 @@
     {
       "locale": "ja",
       "translation_file": "translations/ja/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "22c200fa5c8e8565c1aecb4051ac33ff1b47bcc8958a2c5ca484a4d42906d8b0",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2778,7 +2778,7 @@
     {
       "locale": "ja",
       "translation_file": "translations/ja/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "96efe887ab918c33fe573630de540420a0224860787ba0737f060ef2e9c40e80",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2789,7 +2789,7 @@
     {
       "locale": "ja",
       "translation_file": "translations/ja/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "9d5bd1709634b92226f1c9fe345c9a2e4292179c24b0c9c608a1b05c07bbae71",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2800,7 +2800,7 @@
     {
       "locale": "ja",
       "translation_file": "translations/ja/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "d06a6dd77a646f941770c077f8e0e2eec0e1336a2e6209ca77cb4bb819a25e47",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2811,7 +2811,7 @@
     {
       "locale": "ja",
       "translation_file": "translations/ja/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "a87567daf0efe631dbdc9219e83ae05eb5c4e1e9f63a8dbe9b2340754b73685b",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2822,7 +2822,7 @@
     {
       "locale": "ja",
       "translation_file": "translations/ja/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "edc9cb71c34386568eecc621239383619fa9f08c734e72d6abe64b98665b2d87",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2965,7 +2965,7 @@
     {
       "locale": "ko",
       "translation_file": "translations/ko/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "f3dd3c87f58f20d9b885f94c889f48c678651d8542da71cbd03aa64a29a38a9c",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2976,7 +2976,7 @@
     {
       "locale": "ko",
       "translation_file": "translations/ko/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "d083e182591be8f9fba2d6bb47d65f00eddc0ae255092d5a7f6b0acee6bf9f24",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -2987,7 +2987,7 @@
     {
       "locale": "ko",
       "translation_file": "translations/ko/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "74e545e897a75ac0edaf6cdcb90dbf9613c5f8b30c9f302791bfbab0c664d9ee",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3141,7 +3141,7 @@
     {
       "locale": "ko",
       "translation_file": "translations/ko/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "afb886063ee1c2f487033aef8d3433a31bbe8f9af208d0a7d3d28a2879a957ac",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3152,7 +3152,7 @@
     {
       "locale": "ko",
       "translation_file": "translations/ko/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "386d99a45dd8c342c214ea65fc8648c78839c262e6e2060929d29f2c5f4b792a",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3163,7 +3163,7 @@
     {
       "locale": "ko",
       "translation_file": "translations/ko/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "c906c53352627cffa5e39a47d28c089a7bf3b1a10cf9c6bcf56fb9b74322a7fb",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3174,7 +3174,7 @@
     {
       "locale": "ko",
       "translation_file": "translations/ko/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "32125e5130addc9598ec3fb06ea76ccbd362e920861f59e988fba7d7fba1e961",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3185,7 +3185,7 @@
     {
       "locale": "ko",
       "translation_file": "translations/ko/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "25f27f4cf8364e6ae5e6483c3eb1b371bfea3147339639a8a3040dcf661144d3",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3328,7 +3328,7 @@
     {
       "locale": "mr",
       "translation_file": "translations/mr/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "b38aeecb8093b4c0cf2797833a1c7eac890460d63fca198667cce30697341a9a",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3339,7 +3339,7 @@
     {
       "locale": "mr",
       "translation_file": "translations/mr/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "4c8f5b83f8774868c4731816248ca599652a546beb10399c15842649cfa72236",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3350,7 +3350,7 @@
     {
       "locale": "mr",
       "translation_file": "translations/mr/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "bc46d0ec56252dbd398278977655e789949b11f2d071f236ec7acdb8c2804b3d",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3504,7 +3504,7 @@
     {
       "locale": "mr",
       "translation_file": "translations/mr/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "4c4c2e7ee0bccbbf774c999e824b163ef9e2d8bb4a2b0bc96c3c402fb96ae4fe",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3515,7 +3515,7 @@
     {
       "locale": "mr",
       "translation_file": "translations/mr/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "97aeb0544cb1f61e30429e5f8d440fe2f380be77defef82975b9e0b3dede31bc",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3526,7 +3526,7 @@
     {
       "locale": "mr",
       "translation_file": "translations/mr/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "f22a6c32d083fa0288cf9c8c570859f0397b3d1f21e7472f1d47c72311fa0cc3",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3537,7 +3537,7 @@
     {
       "locale": "mr",
       "translation_file": "translations/mr/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "695c1418d2c04936d8e498927cd3f5a91c10fd9ff8ba7b9ff43e64e602cf6a56",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3548,7 +3548,7 @@
     {
       "locale": "mr",
       "translation_file": "translations/mr/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "f60abf16c0fe755699aa8f6fd25c7a8c767cca20702fd883c0c67b76a48cbcc0",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3691,7 +3691,7 @@
     {
       "locale": "pt",
       "translation_file": "translations/pt/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "92ca34a44a76237b84ae2be64ff75a7542ec589ad416ab260ece10a972c51705",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3702,7 +3702,7 @@
     {
       "locale": "pt",
       "translation_file": "translations/pt/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "ad08ca2cb49350cfc182a06ca23b56d43be8323a50313f3faf417c4f52413ab1",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3713,7 +3713,7 @@
     {
       "locale": "pt",
       "translation_file": "translations/pt/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "76d58b5124b6b53030710482301ee7a91a4908fb7d8138f52130179e23bc61e7",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3867,7 +3867,7 @@
     {
       "locale": "pt",
       "translation_file": "translations/pt/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "293a244f060ceecb41931755e354c7cc8bb800c93320c18d2aecff6c380d3d4d",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3878,7 +3878,7 @@
     {
       "locale": "pt",
       "translation_file": "translations/pt/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "28eae06d663f1461f688ad9ced8ed562bdd292a3d216680198c563d406e0b5f2",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3889,7 +3889,7 @@
     {
       "locale": "pt",
       "translation_file": "translations/pt/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "7d2da3ef83a95d974a1a8bef6ca218466404fdd2cf3638b10267a75498a824fd",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3900,7 +3900,7 @@
     {
       "locale": "pt",
       "translation_file": "translations/pt/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "66a2695ee662ce88e96b9d234418d0404d9f2c0e3bc70ab9e30ba63d9f606f7e",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -3911,7 +3911,7 @@
     {
       "locale": "pt",
       "translation_file": "translations/pt/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "0f734fd23edd8feb0bdc6d422a33f09ca558a7411131c00abbf181c26004ddf6",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4054,7 +4054,7 @@
     {
       "locale": "ru",
       "translation_file": "translations/ru/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "66289292319d83cb6e9e40224a8f438a973600da318dd58e0ce0d3772c00a120",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4065,7 +4065,7 @@
     {
       "locale": "ru",
       "translation_file": "translations/ru/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "d98abedbfcf0fa667de0f962938658d5010f84814f5c2f8b730fabc4b3b9814a",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4076,7 +4076,7 @@
     {
       "locale": "ru",
       "translation_file": "translations/ru/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "3dd4e170758edd67c27fd55ea841cc1207648413412e1ac40b2e0be7bb37a929",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4230,7 +4230,7 @@
     {
       "locale": "ru",
       "translation_file": "translations/ru/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "d6ff07b20b765bf36b76e6976f14852fcb3af077e6106974ca8dda6882bea873",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4241,7 +4241,7 @@
     {
       "locale": "ru",
       "translation_file": "translations/ru/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "3bc832c93d0304b829ea8fa186831112661d82e449f2f81422a50d45c0117c4f",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4252,7 +4252,7 @@
     {
       "locale": "ru",
       "translation_file": "translations/ru/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "60ec0e58b9aacbe8c0e4b2e3aed61ddf46a689e8a5082e2b3c2ee9ef475b3543",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4263,7 +4263,7 @@
     {
       "locale": "ru",
       "translation_file": "translations/ru/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "1ce3d7b02c007e17ff0d54ff28006cecdeca86580cf24bb29afd63acc0af0999",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4274,7 +4274,7 @@
     {
       "locale": "ru",
       "translation_file": "translations/ru/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "dce2e5b3b12886d730b1f3a764a95ccfa5f8b8ab90e78d579a5f35c39e5c0ac7",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4417,7 +4417,7 @@
     {
       "locale": "ta",
       "translation_file": "translations/ta/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "05e5fbdb07a955948e0d662f3aea93de2be20b41a9825cc2c9086fdd7f356461",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4428,7 +4428,7 @@
     {
       "locale": "ta",
       "translation_file": "translations/ta/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "d57f5add4a7b58fd657242ec26747b926470d6bb8bcecc8a4b29447dd2be61f7",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4439,7 +4439,7 @@
     {
       "locale": "ta",
       "translation_file": "translations/ta/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "f5e23e5db70d98ff49f3f2c52acb6a08d9651dc1012d2cbc0fc5e72271bb06d9",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4593,7 +4593,7 @@
     {
       "locale": "ta",
       "translation_file": "translations/ta/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "8c6ad65326f737041ea886e9c4406b63b972e94a1e103d91c92bf5a50e67f72b",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4604,7 +4604,7 @@
     {
       "locale": "ta",
       "translation_file": "translations/ta/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "160ed9050155c7da807a8286bcedb669080a4d5fce7496cf217ee8a7e7437875",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4615,7 +4615,7 @@
     {
       "locale": "ta",
       "translation_file": "translations/ta/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "1ec42e148b0da2f364fa8c3544be091fda80add3e3bbfd0044e9ba4db3c507c0",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4626,7 +4626,7 @@
     {
       "locale": "ta",
       "translation_file": "translations/ta/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "b07936b44db524296dee43a6555afee0ea8642773cb6b6e8eb19a75246c67ede",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4637,7 +4637,7 @@
     {
       "locale": "ta",
       "translation_file": "translations/ta/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "09fb9802c752bd9fa6d48d52a010d96257fede3bdf39db17285661894c225439",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4780,7 +4780,7 @@
     {
       "locale": "te",
       "translation_file": "translations/te/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "f4bfc038f9cbcea561cdd9de12627a4b1a257330bc09f04dbd0a3ecb7f50115b",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4791,7 +4791,7 @@
     {
       "locale": "te",
       "translation_file": "translations/te/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "3ed8a55a51a3e2479245851d2820ddc830110dea900d7d76f508d42a80c618b2",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4802,7 +4802,7 @@
     {
       "locale": "te",
       "translation_file": "translations/te/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "e174aec9f58b0167169b3577891d73bc387babe221c65074ff49d11a542283cb",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4956,7 +4956,7 @@
     {
       "locale": "te",
       "translation_file": "translations/te/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "f7c3c2e56d0537333f5e8b415f830a0d6311b8cb89c098c2978f66abdad4d7e2",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4967,7 +4967,7 @@
     {
       "locale": "te",
       "translation_file": "translations/te/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "1f8089d1c1675ced18a25b6c96d72e060b81545669c4c3d398ae4d2393cbeadc",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4978,7 +4978,7 @@
     {
       "locale": "te",
       "translation_file": "translations/te/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "40d27a7f98e549c403a7557a12fe6b9fd06071336c3d9dbcb18f3b78801e8a55",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -4989,7 +4989,7 @@
     {
       "locale": "te",
       "translation_file": "translations/te/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "d24d21a12b528d2889540719f20e2d02589bd9cd048de67dbd8cc159e319f584",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5000,7 +5000,7 @@
     {
       "locale": "te",
       "translation_file": "translations/te/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "69384887d12a523c35583e7d871c9f745178a795e4a45ae2af1010477852c1f5",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5121,7 +5121,7 @@
     {
       "locale": "th",
       "translation_file": "translations/th/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "ff9efe35c386d1e1fe93e4f3acf5641b3ad13030ced17080815a25e344355388",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5132,7 +5132,7 @@
     {
       "locale": "th",
       "translation_file": "translations/th/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "080057f1f4c05dc1596012b179856d0f7595fa47481eda2ed52b93a7267384e1",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5143,7 +5143,7 @@
     {
       "locale": "th",
       "translation_file": "translations/th/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "90fc03f26854b3ff33872042c4d7ef417e6922b8ffc2c2a4c82f007cf71f660e",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5297,7 +5297,7 @@
     {
       "locale": "th",
       "translation_file": "translations/th/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "02b1e07698e18cd868638223b5d7336bc4c79911427ec5d59f66c58b70275240",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5308,7 +5308,7 @@
     {
       "locale": "th",
       "translation_file": "translations/th/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "ddee5c03bfea79077068e8d3526692126a060d4835462482fa07c30409396d05",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5319,7 +5319,7 @@
     {
       "locale": "th",
       "translation_file": "translations/th/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "ea75fb23fb23ad517fbffc4f45b663a191cf37aa6d1f9d79b791ed8fd9f794ad",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5330,7 +5330,7 @@
     {
       "locale": "th",
       "translation_file": "translations/th/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "c9d3ecb06a31186aa636c2b8cf4e373e7f391f992fda5a9b365ced1dba3d34d4",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5341,7 +5341,7 @@
     {
       "locale": "th",
       "translation_file": "translations/th/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "37b2bef8135687b1ff0679cf13729ffa1776fdab640441e7c4189eb3266e6223",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5462,7 +5462,7 @@
     {
       "locale": "tr",
       "translation_file": "translations/tr/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "fd769482f82403e070fc45feb61676725ea591fb048b7420cf6b2c967f02ae4c",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5473,7 +5473,7 @@
     {
       "locale": "tr",
       "translation_file": "translations/tr/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "3c08e0d4b11dd049ef549c2a2f8bfa97abe52f4343e3f6730b0538b1c2fc45fc",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5484,7 +5484,7 @@
     {
       "locale": "tr",
       "translation_file": "translations/tr/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "7a99304c13f3d50ccffe38da6f42bcf07e04568a7b617674ce6b7996a781420a",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5638,7 +5638,7 @@
     {
       "locale": "tr",
       "translation_file": "translations/tr/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "fee5f9d84b3f0fcf943acb2ad46878f69782cdcfec3b857ae5ae367b3134a9f9",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5649,7 +5649,7 @@
     {
       "locale": "tr",
       "translation_file": "translations/tr/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "e759f9b90ad377d1de7637c780798c477198f037b5bb7ef2b9d7b0999f083c19",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5660,7 +5660,7 @@
     {
       "locale": "tr",
       "translation_file": "translations/tr/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "0675f4c109b0c493eb113f9c92cbe367d57684cddb92fa17e77085b1ebde88ad",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5671,7 +5671,7 @@
     {
       "locale": "tr",
       "translation_file": "translations/tr/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "6523b9f3dae214eca36d08da226e08c25f888af3657c7c395c5352356eba4bf7",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5682,7 +5682,7 @@
     {
       "locale": "tr",
       "translation_file": "translations/tr/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "1c260e2d4dfc47af9214b7864fcbf4544dda7ec27ecee65f96eaec0ebadbb314",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5825,7 +5825,7 @@
     {
       "locale": "ur",
       "translation_file": "translations/ur/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "5e229bbe39938f93309893fb287696a0624dc8e90f309673297c91f1aa0a6015",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5836,7 +5836,7 @@
     {
       "locale": "ur",
       "translation_file": "translations/ur/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "13d260a2305bf95daf31b146af6a39f91fbfb2f0a584d058d7a33beb1b0b762c",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -5847,7 +5847,7 @@
     {
       "locale": "ur",
       "translation_file": "translations/ur/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "0a6cbebb065008f89d029a7ea510322ebcf4bbc22a9ff7bb89b02f8003f30a92",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6001,7 +6001,7 @@
     {
       "locale": "ur",
       "translation_file": "translations/ur/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "b2985e89c8c592a739479007272c9db065dc774a351b2eba3fd4331dbb0eb5f8",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6012,7 +6012,7 @@
     {
       "locale": "ur",
       "translation_file": "translations/ur/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "98376de509fd93076f0edc0d359e0ff8f9530952baae8c14e8b2c5738d7216a8",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6023,7 +6023,7 @@
     {
       "locale": "ur",
       "translation_file": "translations/ur/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "a29e9d9ba50f6780ce13595438d46a5e4d4e3723aec2f6648d6c08dc1afa5daa",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6034,7 +6034,7 @@
     {
       "locale": "ur",
       "translation_file": "translations/ur/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "dcdc1cce716c971c65e2b8605865dcb60f540149a7b0f862b09da34beeac76e2",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6045,7 +6045,7 @@
     {
       "locale": "ur",
       "translation_file": "translations/ur/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "329d6ae987cdacff37d2e752c4a932dfac57ffeef5c37a89f21eefaa276954d3",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6188,7 +6188,7 @@
     {
       "locale": "vi",
       "translation_file": "translations/vi/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "4a7c9def8eb70a6877d247b7f651846bd39c75bdd8cf091d2fb4dcb094d2bcc4",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6199,7 +6199,7 @@
     {
       "locale": "vi",
       "translation_file": "translations/vi/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "21fd95619af885cc4fb64592b1caf1cf8d00165ee19522896f5f5ba68791faca",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6210,7 +6210,7 @@
     {
       "locale": "vi",
       "translation_file": "translations/vi/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "cfe92a4ae2c58a7327698c27d26434d895607f03812aa60935ef3dc05fdd7a3d",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6364,7 +6364,7 @@
     {
       "locale": "vi",
       "translation_file": "translations/vi/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "b6088e05937dd8a4798d5747afea2b875db034abdf2ff5679fbf9a6eb1386e4b",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6375,7 +6375,7 @@
     {
       "locale": "vi",
       "translation_file": "translations/vi/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "81103281858358c6158a628c28eadb5ca21cbd48949dd513ffef7b6dd95d77a9",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6386,7 +6386,7 @@
     {
       "locale": "vi",
       "translation_file": "translations/vi/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "b97519fa900d4ba7b7e636e6ae26ee9c0b99bc20e83d1f0aaf43b6182f7aedf5",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6397,7 +6397,7 @@
     {
       "locale": "vi",
       "translation_file": "translations/vi/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "146b799b024f545ec378e7194b1eca818df753016c8c7af1491dc963028dfb4d",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6408,7 +6408,7 @@
     {
       "locale": "vi",
       "translation_file": "translations/vi/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "4aa8eb64372420e6f19d56513d807ddc3ea545230de960b6b7ff1a59ec064a61",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6551,7 +6551,7 @@
     {
       "locale": "zh",
       "translation_file": "translations/zh/core_01_a_values_principles.md",
-      "source_file": "core_01.005_values_principles.md",
+      "source_file": "core_01.000_values_principles.md",
       "translation_sha256": "c8e21b4fbd47c9cb54e2952d0a05d2d4a620e36a95cb87af291f2e25f107dfeb",
       "source_sha256": "ad8d4f6ee2ad8f5b25a7083099adb10bb2687e8305fce422c8cda52f53bf56cb",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6562,7 +6562,7 @@
     {
       "locale": "zh",
       "translation_file": "translations/zh/core_01_b_interaction_interpretation.md",
-      "source_file": "core_01.010_interaction_interpretation.md",
+      "source_file": "core_01.005_interaction_interpretation.md",
       "translation_sha256": "c2a7fb68b04a7d94c1fc9581657c2f9467d7af965cb3c8cdf3c3ceff7f44f430",
       "source_sha256": "29bc664b41c6bae21950622b488487f14a57b4a1ea7dfb015598d522803bd72f",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6573,7 +6573,7 @@
     {
       "locale": "zh",
       "translation_file": "translations/zh/core_01_c_stewardship_capacity_principles.md",
-      "source_file": "core_01.015_stewardship_capacity_principles.md",
+      "source_file": "core_01.010_stewardship_capacity_principles.md",
       "translation_sha256": "8d18e9d32199938f3c2500805f4ab54eb4c95127dce3d4dc59bd0554b88aabd2",
       "source_sha256": "db5ce5b413849222ffa57fa5e0df29ab1fe11f598364222c3c8cc095a7fa47ae",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6727,7 +6727,7 @@
     {
       "locale": "zh",
       "translation_file": "translations/zh/core_06_rights_part_a.md",
-      "source_file": "core_06.005_rights_part_a.md",
+      "source_file": "core_06.000_rights_part_a.md",
       "translation_sha256": "5fef993c965d24a996678dbedf4c12e745529dd48b5ff6a09cf257c7b7c30694",
       "source_sha256": "058d458601f44dbf625d12ee62486b3d142636f51bb7eda7e70a8968f5155b52",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6738,7 +6738,7 @@
     {
       "locale": "zh",
       "translation_file": "translations/zh/core_06_rights_part_b.md",
-      "source_file": "core_06.010_rights_part_b.md",
+      "source_file": "core_06.005_rights_part_b.md",
       "translation_sha256": "215b8108646c4b428208f2b4a19cfeb5220aa83e9e420a73bfbca2cc31ee28d8",
       "source_sha256": "4e68a96b35d2122173319c2417dce5bebd20faeb1875849d264b339cfd43ae67",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6749,7 +6749,7 @@
     {
       "locale": "zh",
       "translation_file": "translations/zh/core_06_rights_part_c.md",
-      "source_file": "core_06.015_rights_part_c.md",
+      "source_file": "core_06.010_rights_part_c.md",
       "translation_sha256": "266f9a08569a7792a6949c2a4d59dafefb37202226284ec799e4d4e146c5db0e",
       "source_sha256": "f4d63b133bdb43747d84b15a12208502782f6236104b44b4e06405fb9706e20d",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6760,7 +6760,7 @@
     {
       "locale": "zh",
       "translation_file": "translations/zh/core_06_rights_part_d.md",
-      "source_file": "core_06.020_rights_part_d.md",
+      "source_file": "core_06.015_rights_part_d.md",
       "translation_sha256": "531d1585536a986691764aa625eb13ee4ece0b054aeb329a9526adfd6fecf121",
       "source_sha256": "0905c8720eda490e5e3b2a25b4ae4e40b6cbfbcdf315a0be0e1e678abf354423",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",
@@ -6771,7 +6771,7 @@
     {
       "locale": "zh",
       "translation_file": "translations/zh/core_06_rights_part_e.md",
-      "source_file": "core_06.025_rights_part_e.md",
+      "source_file": "core_06.020_rights_part_e.md",
       "translation_sha256": "5e35246fdabf984a2bec9bc54adab552878c747331be7b6dda21943659828fe2",
       "source_sha256": "fa2fd41d2827cc7bb58aabf5d0e6f63d706d3839c859c0613b5ceec8ff4e30d2",
       "translation_revision": "5148086b9fb43a343616db52cf3ef2018e2c46cb",

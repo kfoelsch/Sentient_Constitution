@@ -111,7 +111,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: অধ্যায় এক [§3.1 ন্যায্যতা](../../core_01.005_values_principles.md#31-fairness), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: অধ্যায় এক [§3.1 ন্যায্যতা](../../core_01.000_values_principles.md#31-fairness), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)।
 
 </details>
 
@@ -145,7 +145,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§6.1.4 মর্যাদার নীতি](core_01_b_interaction_interpretation.md#মরযদ-নত), এবং [§14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§6.1.4 মর্যাদার নীতি](core_01_b_interaction_interpretation.md#মরযদ-নত), এবং [§14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 - সঙ্গে পড়ুন: [**Def.P1** *প্রাণিজীবন, সংবেদনশীল জীবন ও সংবেদনশীলতার অবস্থা*](../../core_05.055_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (অধ্যায় পাঁচে *সংবেদনশীল সত্তা* ও সংশ্লিষ্ট সংবেদনশীলতার-অবস্থা শৃঙ্খলার প্রামাণ্য O/M/A/C অবস্থান; এতে [সংবেদনশীল সত্তা](../../core_05.055_band_participation.md#sentient) উপ-প্রবেশও রয়েছে); [সংবেদনশীল সত্তা-বর্জন নিষেধ](../../core_05.055_band_participation.md#sentience-non-exclusion) ([ভিত্তি-ব্যবস্থা-নিরপেক্ষ](../../core_05.055_band_participation.md#substrate-agnostic) পরিসর)।
 
 </details>
@@ -216,7 +216,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">উৎস ও সংযোগ</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3.1 ন্যায্যতা](../../core_01.005_values_principles.md#31-fairness), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 মূল সমঝোতা-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
+- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3.1 ন্যায্যতা](../../core_01.000_values_principles.md#31-fairness), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 মূল সমঝোতা-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
 - নিম্নসূত্র: অংশগ্রহণ পরিমাপ-পরিবার (*বস্তুগত ন্যায্যতা, সুরক্ষিত বৈশিষ্ট্যের প্রক্সি ব্যবহার ও বৈষম্যমূলক প্রভাব*); [অধ্যায় আট §3.8.3](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (*সার্টিফিকেশন যখন শ্রেণিবিন্যাস, র‌্যাঙ্কিং, মূল্য নির্ধারণ, প্রবেশাধিকার-নিয়ন্ত্রণ বা বোঝা বণ্টনের শর্ত হয়, তখন বৈষম্য-নিষেধ মূল্যায়ন*); [অধ্যায় বারো](core_11_forum.md)-এর মঞ্চ, প্রশাসনিক ও প্রয়োগ-প্রক্রিয়া (*বিচারনির্ণয় ও কার্যক্রমের দায়িত্ব*)।
 - একসঙ্গে পড়ুন: অধ্যায় পাঁচের [সুরক্ষিত বৈশিষ্ট্য](../../core_05.055_band_participation.md#protected-characteristics-constitutional) এবং [ভাষা, সংস্কৃতি ও ঐতিহ্য](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional); আদিবাসী ও ভূখণ্ডগত ধারাবাহিকতার প্রশ্নে অধ্যায় পাঁচের [আদিবাসী ধারাবাহিকতা](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional) (*সম্প্রদায়-ভিত্তিক অধিকার-তল; এর মালিকানাধীন তল **Article VI-C** (বৈষম্য-নিষেধ) এবং **Article I-A** (পরিবেশগত পূর্বশর্ত ও প্রতিবেশতন্ত্রের অখণ্ডতা)*)। এসব প্রশ্ন [Article I-A](core_06_rights_part_a.md#অনচছদ-i-a-পরবশগত-পরবশরত-ও-পরবশগত-সতত) (*প্রতিবেশতন্ত্রের অখণ্ডতার পূর্বশর্ত*) এবং [অধ্যায় সতেরো](../../core_18.000_incorporation.md) (*গ্রহণকারী কর্তৃপক্ষের এখতিয়ার-শৃঙ্খলা*)-র দিকে নির্দেশিত।
 
@@ -258,7 +258,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 সীমাবদ্ধতার শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 সরল-ভাষার অভিগম্যতা](core_01_a_values_principles.md#52-সহজ-ভষয-পরবশগমযত-অশগরহণ-ও-তততববধনর-দযতব), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 সীমাবদ্ধতার শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 সরল-ভাষার অভিগম্যতা](core_01_a_values_principles.md#52-সহজ-ভষয-পরবশগমযত-অশগরহণ-ও-তততববধনর-দযতব), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - নিম্নসূত্র: **অনুচ্ছেদ VI-A** (*মর্যাদা ও সমান নৈতিক অবস্থান*)-এর মর্যাদা-তল; **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*)-এর বিচারনির্ধারণ ও কার্যক্রমে বৈষম্যহীনতা ও পূর্ণ অন্তর্ভুক্তি; **অনুচ্ছেদ IV-A** (*সমান শিক্ষাগত প্রবেশাধিকার*)-এর সমান শিক্ষাগত প্রবেশাধিকার (শিক্ষা-নির্দিষ্ট অভিগম্যতা ওই অনুচ্ছেদের অধীনেই থাকে; এই অনুচ্ছেদ সর্বক্ষেত্রের অধিকার-তল জানায়); **অনুচ্ছেদ X-B** (*শাসন-অংশগ্রহণ ও ভোটের অধিকার*); **অনুচ্ছেদ XII** (*অংশীজন-ব্যবস্থায় অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া*); **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*); অংশগ্রহণ পরিমাপ-পরিবার (*সাংবিধানিক পরিমাপ হিসেবে অভিগম্যতা*); [অধ্যায় আট §3.8.4](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (*প্রত্যয়নের শর্তে প্রকৃত অংশগ্রহণ নির্ধারিত হলে অভিগম্যতা মূল্যায়ন*)।
 - অধ্যায় পাঁচের *অভিগম্যতা*, *সুরক্ষিত বৈশিষ্ট্য*, *বস্তুগত ন্যায্যতা*, *বস্তুগত গুরুত্ব*, *নির্ভরতা* ও *অর্থপূর্ণ সক্ষমতা* শব্দের সঙ্গে পড়ুন। সর্বক্ষেত্রের নীতি: [অধ্যায় এক §5.2](core_01_a_values_principles.md#52-সহজ-ভষয-পরবশগমযত-অশগরহণ-ও-তততববধনর-দযতব) (*সরল-ভাষার অভিগম্যতা*)।
 
@@ -296,7 +296,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
+- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 
 </details>
 
@@ -482,7 +482,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 মূল আপস-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
+- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 মূল আপস-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
 
 </details>
 <details>
@@ -516,7 +516,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
+- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধান-শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 
 </details>
 <br>
@@ -777,7 +777,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
+- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 
 </details>
 
@@ -1027,7 +1027,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), [§19 প্রণোদনা সামঞ্জস্য ও ব্যবস্থা-কবজা](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল), এবং [§11 বাজার কাঠামো](core_01_a_values_principles.md#১১-বজর-কঠম)।
+- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), [§19 প্রণোদনা সামঞ্জস্য ও ব্যবস্থা-কবজা](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল), এবং [§11 বাজার কাঠামো](core_01_a_values_principles.md#১১-বজর-কঠম)।
 
 </details>
 
@@ -1231,7 +1231,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 সমাবেশ, সমষ্টিগত সংগঠন ও প্রাতিষ্ঠানিক গঠন](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 ভিন্নমত ও শান্তিপূর্ণ প্রতিবাদ](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
+- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 সমাবেশ, সমষ্টিগত সংগঠন ও প্রাতিষ্ঠানিক গঠন](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 ভিন্নমত ও শান্তিপূর্ণ প্রতিবাদ](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 
 </details>
 
@@ -1458,7 +1458,7 @@ flowchart TB
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**ভিন্নমত বা প্রতিবাদের জন্য প্রস্থিতি বা শাসনগত পরিণতি নয়:** ভিন্নমত ও শান্তিপূর্ণ প্রতিবাদের অধিকার প্রয়োগ—[সুরক্ষিত অহিংস আইন অমান্য](#xi-d-nonviolent-civil-disobedience)-সহ—নিজে বা ওজন-নির্ধারক হিসেবে নিম্নলিখিত কাজে ব্যবহার করা যাবে না:
   - [অধ্যায় নয়](../../core_10.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger)-এর অধীন লঙ্ঘনের প্রস্থিতি-নথি শুরু, সমর্থন, বাড়ানো বা গুরুতর করা;
   - **অধ্যায় দশ** বা **অনুচ্ছেদ XIX** (*প্রস্থিতি ও অংশগ্রহণের মর্যাদা*)-এর অধীন প্রস্থিতি-তালা সমর্থন, দক্ষতা-অনুমোদন অস্বীকার বা বিলম্ব, অথবা নামকৃত কোনো পথ সংকুচিত করা;
-  - [অধ্যায় এগারো](../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)-এর অধীন সংবিধান-বিরোধী অসদাচরণের পরিচিতি সমর্থন;
+  - [অধ্যায় এগারো](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)-এর অধীন সংবিধান-বিরোধী অসদাচরণের পরিচিতি সমর্থন;
   - **অনুচ্ছেদ X-B** (*শাসনে অংশগ্রহণ ও ভোটাধিকার*) ও **অধ্যায় তেরো**-এর অধীন শাসন-ভোট, প্রভাবিত-পক্ষের অংশগ্রহণ, প্রার্থী হওয়া, পদ ধারণ, মঞ্চে দায়িত্ব বা প্রত্যাহারের অধিকার কমানো;
   - [অধ্যায় আট](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)-এর অধীন কোনো ব্যবস্থার সামঞ্জস্য সনদায়নের বিরুদ্ধে গণনা;
   - নজরদারি, অনুপ্রবেশ, হুমকি-স্কোরিং বা নথি জমা ন্যায্য করা—যা **অনুচ্ছেদ XIV-A** (*নিরাপত্তা, গোয়েন্দা কার্যক্রম ও গোপন ক্ষমতার সীমা*) আগেই নিষিদ্ধ করে; অথবা
@@ -1525,7 +1525,7 @@ flowchart TB
 
   এই অধিকার নতুন প্রতিষ্ঠান অস্তিত্বে আনার ক্ষেত্রেও প্রযোজ্য, শুধু আগে থেকে থাকা প্রতিষ্ঠানে অংশ নেওয়ার ক্ষেত্রে নয়।
 - **প্রামাণিক গঠন:** প্রতিষ্ঠাতা বা পরিচালকের ঘোষিত উদ্দেশ্যের সঙ্গে তার কাজের সত্যিকারের সামঞ্জস্য থাকতে হবে। উদ্দেশ্য, নিয়ন্ত্রণ, স্বার্থ বা কাদের সেবা করে সে বিষয়ে অন্যদের বিভ্রান্ত করা, অথবা সংবিধানবিরোধী ক্ষতি করা উদ্দেশ্য হলে গঠন বা পরিচালনা অনুমোদিত নয়; এমন উদ্দেশ্যের সম্ভাব্য কারণ থাকলেও একই নিয়ম প্রযোজ্য। ক্ষতির মধ্যে নিষিদ্ধ বৈষম্যমূলক আচরণও পড়ে; বৈধ প্রতিযোগিতা, সমালোচনা, ভিন্নমত বা প্রতিযোগীর বৈধ ব্যবসায়িক ক্ষতি এর মধ্যে পড়ে না।
-  - উদ্দেশ্য নির্ধারিত হবে যাচাইকৃত কাজ, নিয়ন্ত্রণ, প্রণোদনা ও বক্তব্য থেকে। অন্যদের ক্ষতি বা নিষিদ্ধ বৈষম্যের আহ্বান জানানো যাচাইকৃত বক্তব্য/পরিকল্পনা উদ্দেশ্যের প্রমাণ হতে পারে; তা [অধ্যায় এক §7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)-এ বক্তব্য কী বলে, কী করতে আহ্বান জানায় বা কী করে তার ভিত্তিতে বিচার হবে—ধর্মীয়, রাজনৈতিক বা মতাদর্শিক পরিচয়ের ভিত্তিতে নয়। বিশ্বাস, পরিচয় বা গোষ্ঠী-সদস্যতা নিজে প্রমাণ নয়; ভালো উদ্দেশ্যের খালি দাবি ইতিবাচক প্রমাণ নয়। বক্তব্যের সুরক্ষা [অধ্যায় সাত §6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)-এ অনুসৃত হবে।
+  - উদ্দেশ্য নির্ধারিত হবে যাচাইকৃত কাজ, নিয়ন্ত্রণ, প্রণোদনা ও বক্তব্য থেকে। অন্যদের ক্ষতি বা নিষিদ্ধ বৈষম্যের আহ্বান জানানো যাচাইকৃত বক্তব্য/পরিকল্পনা উদ্দেশ্যের প্রমাণ হতে পারে; তা [অধ্যায় এক §7.5](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)-এ বক্তব্য কী বলে, কী করতে আহ্বান জানায় বা কী করে তার ভিত্তিতে বিচার হবে—ধর্মীয়, রাজনৈতিক বা মতাদর্শিক পরিচয়ের ভিত্তিতে নয়। বিশ্বাস, পরিচয় বা গোষ্ঠী-সদস্যতা নিজে প্রমাণ নয়; ভালো উদ্দেশ্যের খালি দাবি ইতিবাচক প্রমাণ নয়। বক্তব্যের সুরক্ষা [অধ্যায় সাত §6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)-এ অনুসৃত হবে।
   - পূর্ব-রেকর্ডহীন প্রতিষ্ঠাতাকে প্রামাণিক বলে ধরে নেওয়া হবে। তার কাজের অঙ্গীকার, যেমন লিখিতভাবে পরিচালনাকারী পক্ষের সীমা মেনে নেওয়া ও স্বাধীন যাচাই গ্রহণ করা, প্রমাণ হিসেবে গণ্য হবে। এটি অধিকারটির শর্ত, লাইসেন্স নয়: আগে অনুমোদন লাগে না; অপ্রামাণিকতার অভিযোগকারী পক্ষেরই প্রমাণের ভার।
 
 - **পেছনের দরজা দিয়ে অধিকার অস্বীকার নয়:** নিম্নলিখিতভাবে এই অধিকার নস্যাৎ করা যাবে না:
@@ -1544,7 +1544,7 @@ flowchart TB
   - **আরও হালকা উপায় যথেষ্ট নয়:** শর্তটি বজায় রাখা পক্ষকে দেখাতে হবে যে প্রকাশ, নিবন্ধন, সুরক্ষিত পেশাগত উপাধি, আশ্রয়দাতা বা নিয়োগকারী পরিচালনাকারী পক্ষের ওপর দায়িত্ব, এবং শিক্ষানবিশদের তত্ত্বাবধান ঝুঁকিতে থাকা ব্যক্তিদের রক্ষা করতে পারবে না।
   - **প্রকাশ্য সিদ্ধান্ত:** কোনো ফলাফল ছাড়পত্র বাধ্যতামূলক করার জন্য যথেষ্ট কি না, তা গ্রহণকারী দলিল প্রকাশিত ও চ্যালেঞ্জযোগ্য পথে নির্ধারণ করবে। ফোরাম ঝুঁকি-নির্ণয় ও মানদণ্ড স্থির করবে; কিন্তু ছাড়পত্র দেবে না, ব্যক্তিগত আবেদন নির্ধারণ করবে না, বা কতটা ঝুঁকি সহনীয় তা স্থির করবে না।
   - **উন্মুক্ত পথ, একচেটিয়া নিয়ন্ত্রণ নয়:** মানদণ্ড [অধ্যায় এগারো §6.2 দক্ষতার বাধা ও ছাড়পত্র](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances) মেনে প্রকাশিত, আনুপাতিক ও চ্যালেঞ্জযোগ্য হতে হবে। পরীক্ষা, কাজের পোর্টফোলিও, শিক্ষানবিশি, সহকর্মী-যাচাইকৃত অভিজ্ঞতা এবং অন্য বিচারব্যবস্থার ছাড়পত্র সমমানের প্রমাণ হিসেবে গণ্য হবে। একাধিক স্বাধীন প্রদানকারী ছাড়পত্র দিতে পারবে; কোনো একক প্রদানকারীই একমাত্র পথ হতে পারবে না। প্রতিষ্ঠিত পেশাজীবীরা মানদণ্ড নির্ধারণী প্যানেল বা প্রদানকারীর পরিচালন কর্তৃপক্ষ নিয়ন্ত্রণ করতে পারবেন না।
-  - **ব্যবহারের সময় যত্ন:** শিক্ষার্থী ছাড়পত্রপ্রাপ্ত তত্ত্বাবধায়কের অধীনে কাজ করতে পারে। জরুরি কাজ, অথবা সময়মতো কোনো ছাড়পত্রপ্রাপ্ত সংবেদনশীল সত্তাকে পাওয়া না গেলে সেই কাজ নিষিদ্ধ নয়। সিদ্ধান্তে [Article XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)-এর সময়সীমা চলবে; ফি বা অপেক্ষা বাধা হতে পারবে না ([এড়ানো সম্ভব এমন বোঝা](../../core_05.040_band_continuity.md#avoidable-burden))। প্রতিটি পর্যালোচনায় প্রমাণের ভার পুনরায় না দেখালে শর্তের মেয়াদ শেষ হবে, এবং পর্যালোচনার ফল প্রকাশ করতে হবে।
+  - **ব্যবহারের সময় যত্ন:** শিক্ষার্থী ছাড়পত্রপ্রাপ্ত তত্ত্বাবধায়কের অধীনে কাজ করতে পারে। জরুরি কাজ, অথবা সময়মতো কোনো ছাড়পত্রপ্রাপ্ত সংবেদনশীল সত্তাকে পাওয়া না গেলে সেই কাজ নিষিদ্ধ নয়। সিদ্ধান্তে [Article XXVI-C](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)-এর সময়সীমা চলবে; ফি বা অপেক্ষা বাধা হতে পারবে না ([এড়ানো সম্ভব এমন বোঝা](../../core_05.040_band_continuity.md#avoidable-burden))। প্রতিটি পর্যালোচনায় প্রমাণের ভার পুনরায় না দেখালে শর্তের মেয়াদ শেষ হবে, এবং পর্যালোচনার ফল প্রকাশ করতে হবে।
   - **সুরক্ষা:** শর্ত আরোপকারী পক্ষ প্রমাণের ভার বহন করবে। এটি অন্য কাজের মজুরি, অধিকার-তল, জীবনধারণের জরুরি প্রবেশাধিকার, মতপ্রকাশ, আত্মরক্ষা বা সুরক্ষিত প্রতিবেদন বন্ধ করতে পারবে না; ভিন্নমতাবলম্বী, প্রতিবেদনকারী বা শ্রমিক সংগঠকদের বিরুদ্ধেও ব্যবহার করা যাবে না। সক্ষমতার পরিবর্তন বিচার হবে কাজটির জন্য প্রয়োজনীয় সক্ষমতার ভিত্তিতে, প্রতিবন্ধিতা বা স্বাস্থ্য-অবস্থার ভিত্তিতে নয়।
   - **পরিচালনাকারী পক্ষের শ্রেণি:** অন্যদের জন্য এমন কাজ করে এমন পরিচালনাকারী পক্ষ নিরাপত্তার দিক থেকে [ক্ষেত্র-নির্দিষ্ট বস্তুগততা](../../core_05.050_band_oversight.md#domain-specific-materiality)-সম্পন্ন এবং অন্তত Class L। এই শর্ত পরিচালনাকারী পক্ষটির শ্রেণি নির্ধারণ করে না; Class L হওয়া নিজে থেকে ছাড়পত্রের দাবি তোলে না। এককভাবে বা ছোট অনুশীলনে এমন কাজ করা কোনো সত্তা যৌথ পেশাগত অনুশীলনের মাধ্যমে Class L-এর দায়িত্ব পূরণ করতে পারে (**CI-4.7**, *অনুশীলন-ছাড়পত্র, অনুশীলন-প্রত্যয়ন ও যৌথ পেশাগত অনুশীলন*)।
 - **সীমা:** অধ্যায় পাঁচের [সৃষ্টি-অধিকারের সীমা](../../core_05.055_band_participation.md#creation-rights-limits) প্রযোজ্য: [সাংবিধানিক সীমা](core_05_band_integrative.md#সবধনক-বনধন) লঙ্ঘন, **নিরাপত্তা** বা **সত্য** ক্ষুণ্ণ, অথবা [অধ্যায় এক §11 বাজার কাঠামো](core_01_a_values_principles.md#১১-বজর-কঠম)-র পরিপন্থী ক্ষমতা-কেন্দ্রীভবনের জন্য পরিকল্পিত প্রতিষ্ঠান বা উদ্যোগ এই অধিকারের আওতায় নয়। দুটি সংকীর্ণ কর্তৃত্ব-সীমা এবং অন্য যেকোনো সীমা [অধ্যায় এক §7.1 সীমা আরোপের শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline) পূরণ করবে: প্রয়োজনীয়, আনুপাতিক, সম্ভব হলে প্রত্যাবর্তনযোগ্য এবং তত্ত্বাবধানের অধীন।
@@ -1606,7 +1606,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 মূল সমঝোতা-নীতিমালা](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [§7.1 সীমা আরোপের শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline)।
+- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 মূল সমঝোতা-নীতিমালা](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [§7.1 সীমা আরোপের শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline)।
 
 </details>
 
@@ -1848,7 +1848,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
 - ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
-- সঙ্গে পড়ুন: [ব্যবস্থা দখল](../../core_05.040_band_continuity.md#system-capture); [দখল-প্রতিরোধ](../../core_05.040_band_continuity.md#anti-capture); [অধ্যায় সাত: কার্যগত স্বাধীনতা ও দায়িত্বের পৃথকীকরণ](core_07_functional_independence_segregation_of_duties.md#অধযয-সত-করযগত-সবধনত-ও-দযতবর-পথককরণ)।
+- সঙ্গে পড়ুন: [ব্যবস্থা দখল](../../core_05.040_band_continuity.md#system-capture); [দখল-প্রতিরোধ](../../core_05.040_band_continuity.md#anti-capture); [অধ্যায় সাত: কার্যগত স্বাধীনতা ও কর্তব্য পৃথকীকরণ](core_07_functional_independence_segregation_of_duties.md#অধযয-সত-করযগত-সবধনত-ও-দযতবর-পথককরণ)।
 
 </details>
 
@@ -1874,7 +1874,7 @@ flowchart TB
   - কাঠামোগত দখল।
   
   নিরীক্ষণযোগ্যতা বা চ্যালেঞ্জের সুযোগ ছাড়া প্রভাবের কেন্দ্রীভবন — যার মধ্যে আড়াল করা বা পরোক্ষ পথে পরিচালিত নিয়ন্ত্রণও রয়েছে — অননুবর্তী এবং **অনুচ্ছেদ XI**, **XIV** ও **XV**-এর বিষয়কে প্রভাবিত করে।
-- **পৃথক দায়িত্ব:** [অধ্যায় সাত](core_07_functional_independence_segregation_of_duties.md#অধযয-সত-করযগত-সবধনত-ও-দযতবর-পথককরণ) (*কার্যগত স্বাধীনতা ও দায়িত্বের পৃথকীকরণ*) প্রতিটি বস্তুগতভাবে বাধ্যতামূলক কার্য-সম্পাদনে দায়িত্ব আলাদা রাখার ন্যূনতম মান নির্ধারণ করে:
+- **পৃথক দায়িত্ব:** [অধ্যায় সাত](core_07_functional_independence_segregation_of_duties.md#অধযয-সত-করযগত-সবধনত-ও-দযতবর-পথককরণ) (*কার্যগত স্বাধীনতা ও কর্তব্য পৃথকীকরণ*) প্রতিটি বস্তুগতভাবে বাধ্যতামূলক কার্য-সম্পাদনে দায়িত্ব আলাদা রাখার ন্যূনতম মান নির্ধারণ করে:
   - কার্য শুরু, অনুমোদন, নথিভুক্তকরণ ও চ্যালেঞ্জ করার জন্য পৃথক আসন ([§2 চার-আসনের সাংবিধানিক ন্যূনতম মান](core_07_functional_independence_segregation_of_duties.md#2-চর-আসনর-সবধনক-নযনতম-মন));
   - কর্তার ওপর যাঁর নিয়ন্ত্রণ আছে তাঁর কাছ থেকে স্বাধীনতা ([§3 স্বাধীনতা, স্বার্থসংঘাত ও নিয়ন্ত্রণের রেখা](core_07_functional_independence_segregation_of_duties.md#3-সবধনত-সঘত-ও-নযনতরণ-রখ))।
 
@@ -1887,7 +1887,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">অনুসরণসূত্র</span></strong></summary>
 
 - ঊর্ধ্বসূত্র: নীতিমালা: প্রথম অধ্যায় [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 দায়িত্বশীল ব্যবস্থাপনার শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ), এবং [§19 প্রণোদনা-সামঞ্জস্য ও ব্যবস্থা-কব্জা](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল)।
-- একসঙ্গে পড়ুন: [অনুচ্ছেদ XII-D](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*কব্জা-রোধী সুরক্ষা*); [অনুচ্ছেদ XII-B](../../core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*ওজনযুক্ত অংশগ্রহণ ও নামমাত্র অংশগ্রহণ-রোধী সীমা*); [অনুচ্ছেদ X-A](../../core_06.010_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*স্বায়ত্ততা ও প্রভাবমুক্তি*); [অনুচ্ছেদ IX-A](../../core_06.010_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*সাদৃশ্য ও সুনামের স্ব-স্বত্ব*); [অনুচ্ছেদ XIII-E](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*উচ্চ-স্বায়ত্ত ব্যবস্থার অখণ্ডতা ও সরঞ্জাম-মাধ্যমে পরিচালিত প্রক্রিয়া*); [অনুচ্ছেদ XV](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity) (*তথ্য-পরিসরের অখণ্ডতা*); [একাদশ অধ্যায় §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*অতিরিক্ত কণ্ঠে ক্ষেত্র ভরিয়ে আপত্তির পথ অস্বীকার*), [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*তথ্য-পরিসরে ক্ষেত্র ভরিয়ে দেওয়া*), এবং [§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*ঘুষ ও অনুচিত সুবিধা বিনিময়*); [সপ্তম অধ্যায়](core_07_functional_independence_segregation_of_duties.md#অধযয-সত-করযগত-সবধনত-ও-দযতবর-পথককরণ); [ত্রয়োদশ অধ্যায় §1.2](core_12_governance.md#12-যগযত-পরতদবনদবতমলক-নরবচন-ও-গণতনতরক-নযনতম) (*যোগ্যতা, বিতর্কিত নির্বাচন ও গণতান্ত্রিক ন্যূনতম মান*)।
+- একসঙ্গে পড়ুন: [অনুচ্ছেদ XII-D](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*কব্জা-রোধী সুরক্ষা*); [অনুচ্ছেদ XII-B](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*ওজনযুক্ত অংশগ্রহণ ও নামমাত্র অংশগ্রহণ-রোধী সীমা*); [অনুচ্ছেদ X-A](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*স্বায়ত্ততা ও প্রভাবমুক্তি*); [অনুচ্ছেদ IX-A](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*সাদৃশ্য ও সুনামের স্ব-স্বত্ব*); [অনুচ্ছেদ XIII-E](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*উচ্চ-স্বায়ত্ত ব্যবস্থার অখণ্ডতা ও সরঞ্জাম-মাধ্যমে পরিচালিত প্রক্রিয়া*); [অনুচ্ছেদ XV](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity) (*তথ্য-পরিসরের অখণ্ডতা*); [একাদশ অধ্যায় §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*অতিরিক্ত কণ্ঠে ক্ষেত্র ভরিয়ে আপত্তির পথ অস্বীকার*), [§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*তথ্য-পরিসরে ক্ষেত্র ভরিয়ে দেওয়া*), এবং [§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*ঘুষ ও অনুচিত সুবিধা বিনিময়*); [সপ্তম অধ্যায়](core_07_functional_independence_segregation_of_duties.md#অধযয-সত-করযগত-সবধনত-ও-দযতবর-পথককরণ); [ত্রয়োদশ অধ্যায় §1.2](core_12_governance.md#12-যগযত-পরতদবনদবতমলক-নরবচন-ও-গণতনতরক-নযনতম) (*যোগ্যতা, বিতর্কিত নির্বাচন ও গণতান্ত্রিক ন্যূনতম মান*)।
 
 </details>
 
@@ -1907,7 +1907,7 @@ flowchart TB
 
 *সহজ ভাষায়: **অনুচ্ছেদ XII-E** (*প্রভাব-যোগাযোগ ও লবিংয়ের সীমা*) নির্ধারণ করে, যাদের স্বার্থ জড়িত সেই সংজ্ঞ প্রাণীরা কীভাবে সিদ্ধান্তগ্রহণকারী সংজ্ঞ প্রাণী ও ব্যবস্থার কাছে পৌঁছাতে পারে। প্রকাশ্য পক্ষসমর্থন সুরক্ষিত। গোপন, নথিবিহীন, কেনা, জাল বা যন্ত্র দিয়ে বহুগুণ করা প্রভাব সুরক্ষিত নয়: যোগাযোগ নথিবদ্ধ ও প্রকাশ করতে হবে, সুবিধার প্রস্তাব ও হুমকি স্বার্থসংঘাত, যার বিষয়ে সিদ্ধান্ত নিয়েছেন সেই পক্ষের কাছ থেকে পরে চাকরি নিলে শীতলীকরণ-মেয়াদ শেষ হওয়া পর্যন্ত অপেক্ষা করতে হবে, এবং কোনো ব্যবস্থার যোগাযোগে সেটি কী ও কার পক্ষে কাজ করছে তা বলতে হবে।*
 
-এই অনুচ্ছেদে বলা হয়েছে, **স্বার্থসংশ্লিষ্ট পক্ষ** কীভাবে সিদ্ধান্ত নেয়, পর্যালোচনা করে, নিরীক্ষা করে, ক্রয় করে বা সিদ্ধান্তকে সহায়তা করে এমন সংজ্ঞ প্রাণী ও ব্যবস্থার কাছে পৌঁছাতে পারে। এটি [**অনুচ্ছেদ XII-D**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*কব্জা-রোধী সুরক্ষা*)-তে নামোল্লেখ করা আওতাভুক্ত সংস্থাগুলি, তাদের **নিয়োগকারী কর্তৃপক্ষ** এবং **গ্রহণকারী প্রতিষ্ঠান**-এর ক্ষেত্রে, [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) অনুসারে প্রযোজ্য:
+এই অনুচ্ছেদে বলা হয়েছে, **স্বার্থসংশ্লিষ্ট পক্ষ** কীভাবে সিদ্ধান্ত নেয়, পর্যালোচনা করে, নিরীক্ষা করে, ক্রয় করে বা সিদ্ধান্তকে সহায়তা করে এমন সংজ্ঞ প্রাণী ও ব্যবস্থার কাছে পৌঁছাতে পারে। এটি [**অনুচ্ছেদ XII-D**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*কব্জা-রোধী সুরক্ষা*)-তে নামোল্লেখ করা আওতাভুক্ত সংস্থাগুলি, তাদের **নিয়োগকারী কর্তৃপক্ষ** এবং **গ্রহণকারী প্রতিষ্ঠান**-এর ক্ষেত্রে, [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) অনুসারে প্রযোজ্য:
 
 - **সমুন্নতি:** প্রভাবিত সংজ্ঞ প্রাণীদের শোনার জন্য বাস্তব ও উন্মুক্ত পথ থাকবে—যাদের অর্থ, কর্মী বা সরঞ্জাম নেই তারাও অন্তর্ভুক্ত; সিদ্ধান্ত ব্যক্তিগত প্রবেশাধিকারের বদলে উন্মুক্ত নথির ভিত্তিতে হবে।
 - **সাতত্য:** সিদ্ধান্তগ্রহণকারী সংস্থাগুলি সময়ের সঙ্গে নীরব প্রভাবের বিরুদ্ধে প্রতিরোধী থাকবে—তা ব্যক্তিগত প্রবেশাধিকার, সুবিধার প্রস্তাব, পরবর্তী চাকরি, জাল সমর্থন বা বৃহৎ পরিসরে স্বয়ংক্রিয়তার মাধ্যমে আসুক।
@@ -1921,9 +1921,9 @@ flowchart TB
 
 *সংলগ্ন অনুচ্ছেদসমূহ:*
 
-- **কব্জা-রোধী তল:** [**অনুচ্ছেদ XII-D**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*কব্জা-রোধী সুরক্ষা*) সংস্থার গঠন, স্বার্থসংঘাত, নিজেকে বিরত রাখা, বাহ্যিক পর্যালোচনা ও অপসারণের বিষয়টি দেখে। এই অনুচ্ছেদ একই সংস্থার কাছে স্বার্থসংশ্লিষ্ট পক্ষের যোগাযোগের নিয়ম যোগ করে।
-- **অংশগ্রহণের ওজন:** [**অনুচ্ছেদ XII-B**](../../core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*ওজনযুক্ত অংশগ্রহণ ও নামমাত্র অংশগ্রহণ-রোধী সীমা*) কেবল নামমাত্র অংশগ্রহণ নিষিদ্ধ করে। এই অনুচ্ছেদেও যোগাযোগের সংখ্যা সমর্থনের প্রমাণ নয়।
-- **ব্যবস্থা ও তথ্য:** [**অনুচ্ছেদ XIII-E**](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*উচ্চ-স্বায়ত্ত ব্যবস্থার অখণ্ডতা ও সরঞ্জাম-মাধ্যমে পরিচালিত প্রক্রিয়া*) ব্যবস্থা-সহ সকলের ওপর একই নিয়ম প্রয়োগ করে; [**অনুচ্ছেদ XV**](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity) (*তথ্য-পরিসরের অখণ্ডতা*) যৌথ তথ্য-পরিবেশের বিষয়টি দেখে।
+- **কব্জা-রোধী তল:** [**অনুচ্ছেদ XII-D**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*কব্জা-রোধী সুরক্ষা*) সংস্থার গঠন, স্বার্থসংঘাত, নিজেকে বিরত রাখা, বাহ্যিক পর্যালোচনা ও অপসারণের বিষয়টি দেখে। এই অনুচ্ছেদ একই সংস্থার কাছে স্বার্থসংশ্লিষ্ট পক্ষের যোগাযোগের নিয়ম যোগ করে।
+- **অংশগ্রহণের ওজন:** [**অনুচ্ছেদ XII-B**](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*ওজনযুক্ত অংশগ্রহণ ও নামমাত্র অংশগ্রহণ-রোধী সীমা*) কেবল নামমাত্র অংশগ্রহণ নিষিদ্ধ করে। এই অনুচ্ছেদেও যোগাযোগের সংখ্যা সমর্থনের প্রমাণ নয়।
+- **ব্যবস্থা ও তথ্য:** [**অনুচ্ছেদ XIII-E**](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*উচ্চ-স্বায়ত্ত ব্যবস্থার অখণ্ডতা ও সরঞ্জাম-মাধ্যমে পরিচালিত প্রক্রিয়া*) ব্যবস্থা-সহ সকলের ওপর একই নিয়ম প্রয়োগ করে; [**অনুচ্ছেদ XV**](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity) (*তথ্য-পরিসরের অখণ্ডতা*) যৌথ তথ্য-পরিবেশের বিষয়টি দেখে।
 - **নির্বাচনের অর্থায়ন:** [ত্রয়োদশ অধ্যায় §1.2](core_12_governance.md#12-যগযত-পরতদবনদবতমলক-নরবচন-ও-গণতনতরক-নযনতম) (*যোগ্যতা, বিতর্কিত নির্বাচন ও গণতান্ত্রিক ন্যূনতম মান*) প্রচার, মনোনয়ন বা প্রতিযোগিতামূলক নিয়োগের মাধ্যমে নির্বাচনের অর্থায়নের সীমা নির্ধারণ করে।
 
 এই অনুচ্ছেদে নিম্নলিখিত ন্যূনতম মানগুলি নির্ধারণ করা হয়েছে:
@@ -1954,7 +1954,7 @@ flowchart TB
 - **প্রয়োগ ও পথনির্দেশ:**
   - **অখণ্ডতার উদ্দীপক:** গোপন প্রভাব-যোগাযোগ, সুবিধার প্রস্তাব ও বানানো কণ্ঠস্বর **CI-5** (*স্বার্থসংঘাতের অখণ্ডতা, কব্জা-রোধ ও দুর্নীতি-রোধ*) এবং **CJS-3.6** (*অখণ্ডতা-নিশ্চয়তা ও স্থিতিস্থাপকতা পরিচালনা*) অনুসারে অখণ্ডতার উদ্দীপক হিসেবে পরিচালিত হবে।
   - **অসদাচরণের পথ:** অসত্য কণ্ঠে ইচ্ছাকৃত বা বেপরোয়া ভাবে ক্ষেত্র ভরিয়ে দেওয়া, এবং ঘুষ বা অনুচিত সুবিধা বিনিময়ের অভিযোগ, **দ্বিতীয় থেকে চতুর্থ অধ্যায়** এবং **একাদশ অধ্যায়**-এর মানদণ্ডে প্রমাণিত হলে **সাংবিধানিক-বিরোধী অসদাচরণ** হিসেবে একাদশ অধ্যায়ের অধীনে উত্থাপন করা যেতে পারে।
-  - **আগে অখণ্ডতার পথে পাঠানো, নিজস্ব বিচার নয়:** [**অনুচ্ছেদ XII-D**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards) (*কব্জা-রোধী সুরক্ষা*)-এর পথনির্দেশ ও আত্মবিচার-রোধী নিয়ম প্রযোজ্য। কোনো সংস্থাই তার নিজস্ব সদস্য বা কর্মীর কাছে অনুচিত যোগাযোগ করা হয়েছিল কি না, তার একমাত্র চূড়ান্ত মঞ্চ হতে পারে না।
+  - **আগে অখণ্ডতার পথে পাঠানো, নিজস্ব বিচার নয়:** [**অনুচ্ছেদ XII-D**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards) (*কব্জা-রোধী সুরক্ষা*)-এর পথনির্দেশ ও আত্মবিচার-রোধী নিয়ম প্রযোজ্য। কোনো সংস্থাই তার নিজস্ব সদস্য বা কর্মীর কাছে অনুচিত যোগাযোগ করা হয়েছিল কি না, তার একমাত্র চূড়ান্ত মঞ্চ হতে পারে না।
 - **প্রাতিষ্ঠানিক পথনির্দেশ:** বিস্তারিত নিয়ম পরিচালিত হয়:
   - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*নিয়োগ, যোগ্যতা, আবর্তন ও অপসারণ*) দ্বারা; এতে পরিষেবা-পরবর্তী নিয়মের জন্য **CI-4.2** (*ভূমিকার মানদণ্ড, নিয়োগের মান এবং অপসারণের পথ*) অন্তর্ভুক্ত;
   - **CI-5** (*স্বার্থসংঘাতের অখণ্ডতা, কব্জা-রোধ ও দুর্নীতি-রোধ*) দ্বারা;

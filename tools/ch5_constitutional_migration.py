@@ -278,13 +278,13 @@ BAND_PREAMBLES: dict[str, str] = {
         "This band holds **Oversight**-leg definitions from the [Constitutional Triad]"
         "(../core_00.000_preamble.md#constitutional-triad): transparency, auditability, truth, "
         "materiality classification, and strategic stewardship oversight. Primary constitutional "
-        "aim: [Flourishing](../core_01.005_values_principles.md#flourishing), with Continuity-scaled "
+        "aim: [Flourishing](../core_01.000_values_principles.md#flourishing), with Continuity-scaled "
         "clusters where noted in the compass."
     ),
     "p": (
         "This band holds **Participation**-leg definitions: accessibility, agency, consent, "
         "assembly, stakeholder voice, self-determination, and comparable participation floors. "
-        "Primary constitutional aim: [Flourishing](../core_01.005_values_principles.md#flourishing)."
+        "Primary constitutional aim: [Flourishing](../core_01.000_values_principles.md#flourishing)."
     ),
     "a": (
         "This band holds **Accountability**-leg definitions: contestability, redress, governance "
@@ -293,7 +293,7 @@ BAND_PREAMBLES: dict[str, str] = {
     ),
     "c": (
         "This band holds definitions under the constitutional [Continuity aim]"
-        "(../core_01.005_values_principles.md#continuity): dependency, risk, survival-floor continuity, "
+        "(../core_01.000_values_principles.md#continuity): dependency, risk, survival-floor continuity, "
         "labor floors, stewardship discipline, privacy lifecycle, and trust. "
         "**Continuity disambiguation:** constitutional **Continuity aim** (Chapter One ?1) is distinct "
         "from operational or protocol continuity elsewhere in the corpus."
@@ -713,7 +713,7 @@ def build_band_file(
         "",
         f"- Upstream: [Chapter Five compass]({PART_A}#chapter-five-compass-and-definition-map); "
         "[Constitutional Triad](../core_00.000_preamble.md#constitutional-triad); "
-        "[Two Constitutional Aims](../core_01.005_values_principles.md#two-constitutional-aims).",
+        "[Two Constitutional Aims](../core_01.000_values_principles.md#two-constitutional-aims).",
         f"- Downstream: {leg}-band canonical definition homes for Chapter Five.",
         f"- Read with: **{leg}** band definitions; mandatory cluster read-with where admission scope applies.",
         "",
@@ -790,7 +790,7 @@ def build_compass_section() -> str:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Triad](../core_00.000_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01.005_values_principles.md#two-constitutional-aims); [material stake](../core_00.000_preamble.md#material-stake).
+- Upstream: [Constitutional Triad](../core_00.000_preamble.md#constitutional-triad); [Two Constitutional Aims](../core_01.000_values_principles.md#two-constitutional-aims); [material stake](../core_00.000_preamble.md#material-stake).
 - Downstream: constitutional orientation for all Chapter Five band definitions and ?3 dependent clusters.
 - Read with: [?3.0.1 Joint invocation](#21-joint-invocation-and-satisfaction) and [?3.0.2 Standalone interaction](#22-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
@@ -798,7 +798,7 @@ def build_compass_section() -> str:
 
 <br>
 
-Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes; it does not replace the [Constitutional Triad](../core_00.000_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01.005_values_principles.md#two-constitutional-aims), or [material stake](../core_00.000_preamble.md#material-stake) scaling required by [Chapter Two](../core_02-04_definition_mechanics.md).
+Use this compass before invoking any Chapter Five definition. Chapter Five supplies canonical O/E/C homes; it does not replace the [Constitutional Triad](../core_00.000_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01.000_values_principles.md#two-constitutional-aims), or [material stake](../core_00.000_preamble.md#material-stake) scaling required by [Chapter Two](../core_02-04_definition_mechanics.md).
 
 **Reading order**
 

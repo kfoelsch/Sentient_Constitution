@@ -6,7 +6,7 @@
 
 > เนื้อหาต่อไปนี้เป็น **แนวทางสำหรับผู้อ่านเท่านั้น** ไม่เพิ่ม ไม่ลด และไม่ทำให้ภาระผูกพันที่ใช้บังคับแคบลงในไฟล์นี้หรือในบทอื่น
 >
-> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [บทที่หก ส่วน ก ภาษาอังกฤษ](../../core_06.005_rights_part_a.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.10.14` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
+> ไฟล์นี้เป็น **โครงการนำร่องด้านภาษาสำหรับผู้อ่าน** ของ [บทที่หก ส่วน ก ภาษาอังกฤษ](../../core_06.000_rights_part_a.md) **ไม่ใช่** ส่วนที่มีผลผูกพันของรัฐธรรมนูญของผู้มีความรู้สึก **ไม่ใช่** รัฐธรรมนูญฉบับที่สอง **ไม่ใช่** ฉบับจัดส่ง **ตรึงไว้** กับ `SC-Corpus-2026.10.14` หากคำแปลนี้กับต้นฉบับภาษาอังกฤษดูเหมือนไม่ตรงกัน ให้ไฟล์ที่มีหมายเลข [`core_06_rights_part_a.md`](../../core_06.000_rights_part_a.md) เป็นฝ่ายชนะ ลำดับการอ่านและข้อมูลฉบับคงไว้ใน [README.md](../../README.md) วิธีทำและอภิธานศัพท์: [translations/th/README.md](README.md)
 >
 > มี **บทที่หก ส่วน ก**; เลขมาตราและการอ้างอิงไขว้ตรงกับตราสารที่รวมแล้ว
 >
@@ -47,7 +47,7 @@
 - ต้นทาง: [บทที่หนึ่ง §6 การยุติความขัดแย้งของกระบวนการ](core_01_b_interaction_interpretation.md); [บทที่หนึ่ง §13.1.5 การทดสอบการตัดสินเมื่อสิทธิชนกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
 - ต้นทาง: [บทที่หนึ่ง §11 ความสอดคล้องของสิ่งจูงใจและการยึดครองระบบ](core_01_c_stewardship_capacity_principles.md#19-การจดแนวแรงจงใจและการครอบงำระบบ)
 - ต้นทาง: บทที่สองถึงบทที่สี่; บทนิยามของบทที่ห้า
-- ปลายทาง: **ส่วน ก ถึง ส่วน จ** ของบทนี้; [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- ปลายทาง: **ส่วน ก ถึง ส่วน จ** ของบทนี้; [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 - ปลายทาง: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 ขอบเขตชั้น](#12-ขอบเขตชน)
 - อ่านคู่กับ: [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation) และ [คำปรารภ — ทะเบียนเจ้าของเชิงบวก](core_00_preamble.md#4-หลกการ-บทนยาม-และสทธ); [มาตรา XIII-B](core_06_rights_part_c.md) (*สิทธิในการท้าทาย ทบทวน และเยียวยา*)
 - อ่านคู่กับ: [มาตรา XVI](core_06_rights_part_c.md#ขอ-xvi-การตรวจสอบ-ความโปรงใส-และการพสจนยนยนทเปนอสระ) (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*)
@@ -88,13 +88,13 @@
 
 พื้นสิทธิต้องทำงานในทางปฏิบัติ ไม่ใช่บนกระดาษอย่างเดียว สิ่งจำเป็นต่อการอยู่รอดภายใต้ **มาตรา III-A** (*การอยู่รอด*) — อาหาร น้ำ ที่พัก สภาพแวดล้อมการดำเนิน และปัจจัยฐานะกายที่ไม่พึ่งพาที่คล้าย — เป็นตัวอย่างชัดที่สุด **ความเจริญงอกงาม** ต้องการการเข้าถึงจริงต่อสิ่งจำเป็นนั้น **ความต่อเนื่อง** ต้องการการส่งมอบที่พึ่งได้และไม่ถอยหลังตามกาล โดยเฉพาะที่ระบบร่วมควบคุมการส่งมอบ
 
-[การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ยืนยันว่าระบบผลกระทบที่เป็นสาระสอดคล้องก่อนจะถูกรับรองหรือพึ่งในขนาด บทที่เก้ายังส่งความสามารถในการโต้แย้งของบันทึกการรับรอง การทบทวนฝ่ายที่ได้รับผลกระทบและการเข้าถึงได้ ลำดับการกำกับดูแล และเส้นทางท้าทายสำหรับคำตัดสินความสอดคล้องของระบบ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ส่งสิทธิท้าทายและการตรวจ **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*) ไม่ให้ขีดจำกัดร่องรอยเป็นประตูหลังที่เลี่ยงการเข้าถึงที่ชี้ขาดต่อการอยู่รอด รวมกัน [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) และ [สายร่องรอยและการกำกับดูแลเวทีของบทที่แปดถึงบทที่สิบเอ็ด](../../README.md#standing-pipeline-and-forums) เป็นสายกระบวนการปฏิบัติหลักสำหรับความสามารถในการโต้แย้ง การจำแนกที่ยืนแล้ว การกำกับดูแลเวที และการเยียวยาที่ทันเวลา อุปกรณ์นั้นช่วยบังคับใช้บทที่หก ไม่แทน ทำให้แคบ หรือย้ายสิทธิที่กล่าวที่นี่
+[การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ยืนยันว่าระบบผลกระทบที่เป็นสาระสอดคล้องก่อนจะถูกรับรองหรือพึ่งในขนาด บทที่เก้ายังส่งความสามารถในการโต้แย้งของบันทึกการรับรอง การทบทวนฝ่ายที่ได้รับผลกระทบและการเข้าถึงได้ ลำดับการกำกับดูแล และเส้นทางท้าทายสำหรับคำตัดสินความสอดคล้องของระบบ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ส่งสิทธิท้าทายและการตรวจ **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*) ไม่ให้ขีดจำกัดร่องรอยเป็นประตูหลังที่เลี่ยงการเข้าถึงที่ชี้ขาดต่อการอยู่รอด รวมกัน [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) และ [สายร่องรอยและการกำกับดูแลเวทีของบทที่แปดถึงบทที่สิบเอ็ด](../../README.md#standing-pipeline-and-forums) เป็นสายกระบวนการปฏิบัติหลักสำหรับความสามารถในการโต้แย้ง การจำแนกที่ยืนแล้ว การกำกับดูแลเวที และการเยียวยาที่ทันเวลา อุปกรณ์นั้นช่วยบังคับใช้บทที่หก ไม่แทน ทำให้แคบ หรือย้ายสิทธิที่กล่าวที่นี่
 
 **ศูนย์การตีความ** เว้นแต่มาตราที่จำเพาะกว่าจะส่งกฎอื่น ปัญหาที่เกิดซ้ำถูกจัดเส้นทางผ่านสมอนี้:
 
 **พื้นสิทธิและการส่งมอบ**
 - **สิ่งจำเป็นต่อการอยู่รอดและการคงให้เข้าถึงได้** — **มาตรา III-A** (*การอยู่รอด*); **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*) ไม่ให้ขีดจำกัดร่องรอยปิดการเข้าถึง; อ่านคู่กับ **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*) และ **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) เมื่อการท้าทายหรือการตรวจใช้
-- **การรับรองความสอดคล้องของระบบ** — [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **การรับรองความสอดคล้องของระบบ** — [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **การตรวจสอบและการเยียวยา**
 - **บันทึกการตรวจและการตรวจสอบอิสระ** — **มาตรา XVI** (*การตรวจ ความโปร่งใส และการตรวจสอบอิสระ*) และ **บทที่สองถึงบทที่สี่**
@@ -102,7 +102,7 @@
 
 **ข้อพิพาทและกระบวนการที่ทันเวลา**
 - **ความยุติธรรม การคืนสภาพ ขอบเขตข้อจำกัด ภาวะฉุกเฉิน การชนกันของสิทธิ** — **มาตรา XXVI** (*Timely Retrospective Review and Restorative Alignment*); [บทที่หนึ่ง §13.1.5 การทดสอบการตัดสินเมื่อสิทธิชนกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **สายกระบวนการปฏิบัติหลัก** — **มาตรา XXVI-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*); [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **สายกระบวนการปฏิบัติหลัก** — **มาตรา XXVI-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*); [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 การอ้างอิงไขว้ที่สั้นกว่าในที่อื่นของบทนี้ต่อหัวข้อนั้นนำสมอนี้เข้ามา
 
@@ -154,7 +154,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -205,7 +205,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 ข้อจำกัดการเปิดเผยทางญาณ](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 ข้อจำกัดการเปิดเผยทางญาณ](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -351,7 +351,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -485,7 +485,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - อ่านคู่กับ: [มาตรา XIX-A](core_06_rights_part_c.md) (*สิทธิในการย้าย*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — ประเภทข้อมูลและการจัดการ**; **CJS-3.17** (*เงื่อนไขการทำงานร่วมกัน การย้าย และความครบถ้วนของการออก*) และ **CJS-3.18** (*เงื่อนไขการเก็บข้อมูลและความครบถ้วนของวงชีวิต*); [บทที่หนึ่ง §11.6 ความรับผิดผู้สืบทอดและการไม่หนีด้วยโครงรูป](core_01_c_stewardship_capacity_principles.md); [บทที่เก้า §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) และ [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -564,7 +564,7 @@
 
 - ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §5 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency).
 - อ่านคู่กับ: ครอบครัวการวัดความเจริญงอกงาม (*การเข้าถึงพื้นการอยู่รอดเป็นการวัดทางรัฐธรรมนูญ*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การมีส่วนร่วม** ในเส้นทางจัดสรรและท้าทาย **การกำกับดูแล** และการตรวจ **ความรับผิดชอบ** และการเยียวยา **ความทันเวลา** ภายใต้ **มาตรา XXVI-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **ความเจริญงอกงาม** (การเข้าถึงสิ่งจำเป็นต่อการอยู่รอด) และ **ความต่อเนื่อง** (การส่งมอบที่ยืนยาวและไม่ถอยหลัง)
-- ปลายทาง: [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ระบบเฝ้าประตูหรือค้ำจุนการส่งมอบ; **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*); **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- ปลายทาง: [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ระบบเฝ้าประตูหรือค้ำจุนการส่งมอบ; **มาตรา XIII-B** (*สิทธิในการท้าทาย ทบทวน และเยียวยา*); **มาตรา XIX-B** (*ความสามารถในการโต้แย้งและขีดจำกัดการจำกัดตามสัดส่วน*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -605,7 +605,7 @@
 
   กฎนั้นอาจโครงการส่งมอบ ห้ามใช้เพื่อทำให้การเข้าถึงขั้นต่ำต่อสิ่งจำเป็นต่อการอยู่รอดพ่าย หรือเพื่อใส่การกีดกันที่มุ่งร้ายซึ่งขัด **มาตรา III** และ **มาตรา V**
   - ทิศทางการคลังรายละเอียด — รวมกฎว่าค่าธรรมเนียมและค่าเรียกเก็บต้องไม่ทำลายการเข้าถึงขั้นต่ำต่อปัจจัยที่เกี่ยวกับการอยู่รอด — ถูกปกครองโดย [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*หน้าที่เชิงสถาบันที่ผูกการจำแนก*) **CI-10** (*รายได้สาธารณะ ค่าธรรมเนียม ค่าเรียกเก็บซ้ำ และความครบถ้วนของการเรียกเก็บ*) และ **CI-11** (*การบริหารอย่างรับผิดชอบทางทรัพยากรและความครบถ้วนของสิ่งจูงใจ*)
-  - เมื่อระบบที่ผู้มีความรู้สึกพึ่งอย่างเป็นสาระส่งมอบ แจกจ่าย ตั้งราคา โฮสต์ หรือตัดการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ใช้ — และกระบวนการของระบบนั้นใช้เพื่อทำให้สิทธิที่กล่าวที่นี่แคบลงไม่ได้
+  - เมื่อระบบที่ผู้มีความรู้สึกพึ่งอย่างเป็นสาระส่งมอบ แจกจ่าย ตั้งราคา โฮสต์ หรือตัดการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ใช้ — และกระบวนการของระบบนั้นใช้เพื่อทำให้สิทธิที่กล่าวที่นี่แคบลงไม่ได้
   - มาตรานี้ไม่กำหนดแบบจำลองทุนแบบเดียว การจ้าง การประกอบกิจ การแลกเปลี่ยนโดยสมัครใจ และกิจกรรมเศรษฐกิจถูกกฎหมายอื่นเหนือพื้นการอยู่รอดใด ๆ ยังได้รับอนุญาต ภายใต้บทที่หนึ่ง บทที่หก และตราสารที่นำเข้า — รวม `corpus_systems.md` ที่ระบบโครงตลาดหรือพาณิชย์ผลกระทบสูงใช้
 
 การอ้างอิงไขว้: **มาตรา XXVIII-D** (*ทรัพย์สินและระบบที่ไม่ปฏิบัติตาม; สิ่งจูงใจส่งมอบโดยสมัครใจ*) วินัยการบริหารอย่างรับผิดชอบช่วงเปลี่ยนผ่านสำหรับความต่อเนื่องของสภาพแวดล้อมจำเป็นข้ามการเปลี่ยนผ่าน — รายละเอียดปฏิบัติใน [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **บทที่ห้า** [*ความต่อเนื่องของการครอบครอง*](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional) [*การไม่ทำให้สภาพแวดล้อมจำเป็นเป็นสินค้า*](../../core_05.040_band_continuity.md#essential-environment-non-commodification-constitutional) และกลุ่มการเรียกร่วมที่ [**§3.7** *การเข้าถึงการบำรุงรักษาร่างกาย เงื่อนไขที่ปลอดภัย ความต่อเนื่องของการครอบครอง เงื่อนไขเบื้องต้นทางสิ่งแวดล้อม ความต่อเนื่องทางวัฒนธรรม การพักฟื้น และพื้นต้านการผลักออก*](../../core_05.040_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) เมื่อใช้
@@ -840,7 +840,7 @@
 
 *เพื่อนบ้านของมาตรา:*
 
-- **เมื่อการรับรองใช้:** เมื่อระบบผลกระทบที่เป็นสาระจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานที่ระบบอื่นหรือผู้มีความรู้สึกพึ่ง [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ใช้
+- **เมื่อการรับรองใช้:** เมื่อระบบผลกระทบที่เป็นสาระจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานที่ระบบอื่นหรือผู้มีความรู้สึกพึ่ง [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ใช้
 - **ห้ามแทน:** การรับรองหรือการพึ่งต่อเนื่องแทนการปฏิบัติตาม **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) หรือ **มาตรา V-B** (*ความเป็นธรรมข้ามระบบและความยั่งยืน*) หรือทำให้พื้นนั้นแคบลงไม่ได้
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -851,9 +851,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - อ่านคู่กับ: ครอบครัวการวัดความต่อเนื่อง (*การพึ่งพาและกระแสทรัพยากรเป็นการวัดทางรัฐธรรมนูญ*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การกำกับดูแล** ผ่านแผนที่การพึ่งพาที่โปร่งใสและบันทึกกระแสทรัพยากรที่ตรวจได้ **การมีส่วนร่วม** ในการทบทวนที่โต้แย้งได้ภายใต้ **มาตรา XVI-A** (*ความสามารถตรวจและหลักฐานที่สังเกตได้*); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **ความเจริญงอกงาม** (การจัดสรรต้นทุน–ประโยชน์ที่เห็น) และ **ความต่อเนื่อง** (ทัศนวิสัยการพึ่งพาที่ยืนยาวข้ามระบบที่เปลี่ยน)
-- ปลายทาง: [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐาน; **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*)
+- ปลายทาง: [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐาน; **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*)
 
 </details>
 
@@ -875,12 +875,12 @@
   - กระแสทรัพยากร;
   - ความสัมพันธ์ทึบหรือไม่สมมาตรที่เกี่ยวกับอย่างเป็นสาระ
 
-  การอัปเดตต้องเกิดในช่วงตามสัดส่วนของการเปลี่ยนแปลงและความสำคัญ การแสดงนี้ต้องใช้ตรวจได้ภายใต้ **มาตรา XVI-A** (*ความสามารถตรวจและหลักฐานที่สังเกตได้*) ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานอย่างเป็นสาระ [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ต้องประเมินว่าบรรลุ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) หรือไม่ — บน **บันทึกการรับรองระบบ** ที่โต้แย้งได้ ไม่ใช่แค่คำกล่าวผู้ดำเนิน
+  การอัปเดตต้องเกิดในช่วงตามสัดส่วนของการเปลี่ยนแปลงและความสำคัญ การแสดงนี้ต้องใช้ตรวจได้ภายใต้ **มาตรา XVI-A** (*ความสามารถตรวจและหลักฐานที่สังเกตได้*) ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐานอย่างเป็นสาระ [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ต้องประเมินว่าบรรลุ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) หรือไม่ — บน **บันทึกการรับรองระบบ** ที่โต้แย้งได้ ไม่ใช่แค่คำกล่าวผู้ดำเนิน
 
   เครื่องปฏิบัติ — แผนที่ระบบที่พึ่ง ความโปร่งใสของกระแส หมวดจัดสรร การปรับแบบปรับตัว — ถูกจัดเส้นทางภายใต้ **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) และ **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*) บทที่เก้ากล่าวว่าการรับรองต้องยืนยันและบันทึกอะไร ตัวบทนำไปใช้นั้นนำพื้นนี้ไปใช้และต้องไม่ทำให้แคบ
 
-- **การรับรองและหลักฐาน:** ระบบที่มีผลกระทบสำคัญและจัดสรร กำหนดเส้นทาง ให้ทุน หรือใช้โครงสร้างพื้นฐานร่วม/สิ่งพึ่งพาพื้นฐาน ต้องรับ [การรับรองตามบทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ระดับชั้นกำหนดความเข้มข้นของการตรวจและหลักฐาน บันทึกต้องแสดงการตรวจจริง การปกปิดหรือบิดเบือนกระแสทรัพยากรเป็นข้อบกพร่อง และการรับรองอาจมีเงื่อนไข เปิดทบทวนใหม่ หรือเพิกถอน
-- **การประเมินและผล:** [บทที่เก้า §5.3](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) กำหนดการประเมินตามสัดส่วน ข้อบกพร่องอาจนำไปสู่ผลตาม [§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)
+- **การรับรองและหลักฐาน:** ระบบที่มีผลกระทบสำคัญและจัดสรร กำหนดเส้นทาง ให้ทุน หรือใช้โครงสร้างพื้นฐานร่วม/สิ่งพึ่งพาพื้นฐาน ต้องรับ [การรับรองตามบทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ระดับชั้นกำหนดความเข้มข้นของการตรวจและหลักฐาน บันทึกต้องแสดงการตรวจจริง การปกปิดหรือบิดเบือนกระแสทรัพยากรเป็นข้อบกพร่อง และการรับรองอาจมีเงื่อนไข เปิดทบทวนใหม่ หรือเพิกถอน
+- **การประเมินและผล:** [บทที่เก้า §5.3](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) กำหนดการประเมินตามสัดส่วน ข้อบกพร่องอาจนำไปสู่ผลตาม [§7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)
 
 
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -890,10 +890,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - อ่านคู่กับ: [*สถาปัตยกรรมการปกครอง การกำกับดูแล การพึ่งพา การกระจายอำนาจ ความเข้มข้น โครงตลาด และความครบถ้วนของเส้นทางออก*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (การเรียกร่วมที่ความเข้มข้น การกำกับดูแล การพึ่งพา โครงอำนาจปกครอง หรือการจัดเส้นทางสิ่งจูงใจตัดกับ **§5** / **§5** และวินัย *ปฏิสัมพันธ์ธรณีประตูความเข้มข้น* ในตัวบทปฏิบัติด้านล่าง)
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การมีส่วนร่วม** ในเส้นทางท้าทายและโต้แย้ง **การกำกับดูแล** และการตรวจ **ความรับผิดชอบ** และการทบทวนแก้ไข **ความทันเวลา** ภายใต้ **มาตรา XXVI-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **ความเจริญงอกงาม** (ความเป็นธรรมข้ามระบบและห้ามสกัด) และ **ความต่อเนื่อง** (ความยั่งยืนระยะยาวและการให้ทุนระบบนิเวศ)
-- ปลายทาง: [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ความเป็นธรรมข้ามระบบ การให้ทุนระบบนิเวศ หรือการสกัดยืนจากโครงสร้างพื้นฐานร่วมเป็นประเด็นอย่างเป็นสาระ
+- ปลายทาง: [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ที่ความเป็นธรรมข้ามระบบ การให้ทุนระบบนิเวศ หรือการสกัดยืนจากโครงสร้างพื้นฐานร่วมเป็นประเด็นอย่างเป็นสาระ
 - ประตูผู้บริหารอย่างรับผิดชอบ (ไม่ใช่ปฏิบัติ): คำแถลงก้าวถัดไปที่ผูกพัน: [คำแถลงเชิงปฏิบัติของผู้บริหารอย่างรับผิดชอบ](#operative-steward-statement-cross-system-contribution) ตัวชี้สนับสนุนทำให้มันแคบลงไม่ได้
 
 </details>
@@ -931,7 +931,7 @@
   - การลงทุนกลับระบบนิเวศสำหรับโครงสร้างพื้นฐานร่วมและการทำงานร่วมกันที่ระบบสกัดพึ่ง; และ
   - การชดเชยหรือฟื้นภาระทางนิเวศที่ [รอยเท้าทางนิเวศ](../../core_05.040_band_continuity.md#ecological-footprint) ที่เป็นสาระถูกใส่และบทบัญญัติทางรัฐธรรมนูญ ไฟล์นำไปใช้ หรือตราสารการรับเอามาใช้อื่นเรียกร้องการกระทำ
 
-  เปรียบเทียบกระแสเข้าและออกบนแผนที่ระบบที่พึ่งและบันทึกกระแสทรัพยากรที่ตรวจได้ภายใต้ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) ที่ระบบผลกระทบที่เป็นสาระจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วม ประเมินความพอผ่าน [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) เครื่องจัดสรรปฏิบัติถูกจัดเส้นทางภายใต้ **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) และ **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*); ชั้นนั้นนำพื้นนี้ไปใช้และต้องไม่ทำให้แคบ
+  เปรียบเทียบกระแสเข้าและออกบนแผนที่ระบบที่พึ่งและบันทึกกระแสทรัพยากรที่ตรวจได้ภายใต้ **มาตรา V-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) ที่ระบบผลกระทบที่เป็นสาระจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วม ประเมินความพอผ่าน [การรับรองความสอดคล้องของระบบ](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) ภายใต้ [บทที่เก้า](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) เครื่องจัดสรรปฏิบัติถูกจัดเส้นทางภายใต้ **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) และ **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*); ชั้นนั้นนำพื้นนี้ไปใช้และต้องไม่ทำให้แคบ
 
   ความไม่สมดุลที่ยืนซึ่งขู่ความสอดคล้องทางรัฐธรรมนูญอย่างเป็นสาระอยู่ภายใต้การตรวจ การท้าทาย และการทบทวนแก้ไขภายใต้ **มาตรา IX XIII XIV และ XVII**
 - **ปฏิสัมพันธ์ธรณีประตูความเข้มข้นตลาด:** จัดเรียงจัดสรรทรัพยากรที่สร้างหรือรักษาความเข้มข้นของความมั่งคั่ง อำนาจ การควบคุม หรือโอกาสในทางที่คาดเห็นได้ว่าทำให้ความผาสุก พลังกระทำการ ศักดิ์ศรี หรือความครบถ้วนทางนิเวศของผู้มีความรู้สึกอื่นเสื่อม จุด:
@@ -951,6 +951,6 @@
 
 **ไฟล์ถัดไป (ภาษานี้):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**ต้นฉบับที่มีผลผูกพัน:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
+**ต้นฉบับที่มีผลผูกพัน:** [core_06_rights_part_a.md](../../core_06.000_rights_part_a.md)
 
 

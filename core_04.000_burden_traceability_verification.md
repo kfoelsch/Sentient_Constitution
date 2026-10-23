@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Four**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
 >
 > **Upstream:** [Chapters Two and Three — Definition mechanics](core_02.000_definition_structure.md); Chapter Five definitions.
-> **Downstream:** [Chapter Nine — System Alignment Certification](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+> **Downstream:** [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
 
 </details>
 
@@ -17,7 +17,7 @@
 > - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Preamble](core_00.000_preamble.md#preamble--foundational-requirements); **participation** where materially required through practical observability and independent challenge under sections **3** and **4**. Requirements scale with [material stake](core_00.000_preamble.md#material-stake).
 > - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. **Chapter Ten** owns standing-record and verified-input discipline read with this chapter.
 > - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides a [Fullest Protective Effect](core_05.045_band_integrative.md#fullest-protective-effect) rule.
-> - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Five definitions, **Chapter Ten** contribution or standing measurement, or Chapter Twelve anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Chapter Three §3 — Non-Compliance Finding Profiles](core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) and [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). **Section 6** states how Chapters Two through Four differ from [Chapter Nine — System Alignment Certification](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+> - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Five definitions, **Chapter Ten** contribution or standing measurement, or Chapter Twelve anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Chapter Three §3 — Non-Compliance Finding Profiles](core_03.000_definition_integrity.md#3-non-compliance-finding-profiles) and [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement). **Section 6** states how Chapters Two through Four differ from [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 
 </details>
 
@@ -47,7 +47,7 @@ Read in order. Each step builds on the last; skip none.
 | **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§5](#5-compliance-evidence-standard) |
 
-**Plain-language access.** [Chapter One §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.005_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05.035_band_accountability.md#contestability) or [Article XVI: Audit, Transparency, and Independent Verification](core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
+**Plain-language access.** [Chapter One §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05.035_band_accountability.md#contestability) or [Article XVI: Audit, Transparency, and Independent Verification](core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
 
 ### 2. Definition Traceability Requirement
 <details>
@@ -122,7 +122,7 @@ Where verification is technically possible but not practically achievable, treat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.010).
+- Upstream: Principles: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) (1.005).
 - Downstream: [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard); [corpus_systems.md](corpus_systems.md), **CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling**, and **CS-6.340** (*System requirements*) — user-facing capability surfaces, credentials, and information-type handling.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability)](core_05.050_band_oversight.md#foreseeability) (5.050) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Five Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) (5.050) and [Chapter Five Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) (5.040) — cryptographic and information-type handling must not replace **sections 2**, **3**, or **5**; **Articles VII-A**, **VII-B**, **XVI-A**, and **XVII-A** where environment-separation constraints are material.
 
@@ -167,7 +167,7 @@ Cryptography and information-type handling must align with the Constitution and 
 - Read with:
   - [Chapter Four, section 2 — Definition Traceability Requirement](#2-definition-traceability-requirement) — failure to invoke or correctly apply any materially required
   - **Chapter Five** definition invalidates the associated evaluation, evidence, and compliance determination in full;
-  - [Chapter One, §13 — Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process) (1.010 §13);
+  - [Chapter One, §13 — Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (1.005 §13);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) where scaling affects tradeoffs between sentient wellbeing and long-horizon stability;
   - [Chapter Five Safety (Constitutional Constraint)](core_05.040_band_continuity.md#safety-constitutional-constraint) (5.040),
   - [Chapter Five Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) (5.050), and
@@ -187,7 +187,7 @@ Sections **2** through **4** set trace, observability, and security limits; this
 - be **observable**, **verifiable**, **complete** relative to required scope, **sustained** across time, and **sufficient** in rigor proportionate to system impact, dependency, and risk to withstand independent audit and adversarial testing
 - use **independent validation** where reasonably achievable; absence must be justified under proportionality constraints
 - comply with **section 4** constraints on evidence generation, disclosure, and verification, including cryptographic and information-type handling where applicable
-- where constitutional values or constraints conflict in the same evaluation, remain consistent with [Chapter One, §13 — Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process)
+- where constitutional values or constraints conflict in the same evaluation, remain consistent with [Chapter One, §13 — Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process)
 - for **empirical**, **predictive**, or **causal** claims material to compliance, classification, or governance, reflect **scientific integrity** where proportionate — testable or reviewable methods, documented assumptions and limitations, no suppression of null results or failed replications where they bear on decisions, and conclusions revisable on new evidence
 
 **The following do not meet the burden of proof under section 1:**
@@ -203,8 +203,8 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Two — Definition Structure and Component Requirements](core_02.000_definition_structure.md#chapter-two-definition-structure-and-component-requirements) (2.000); [Chapter Three — Definition Integrity, Evasion, and Non-Compliance](core_03.000_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance) (3.000); [Chapter Four, sections 1 through 5](#1-exclusive-enforcement-and-burden-allocation).
-- Downstream: [Chapter Nine — System Alignment Certification](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.005); [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
-- Read with: [Chapter Nine §7 — Certification Outcomes](core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) (9.010 §7) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior certification.
+- Downstream: [Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000); [Chapter Ten — Contribution, Violation, and Standing Model](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000).
+- Read with: [Chapter Nine §7 — Certification Outcomes](core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) (9.005 §7) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior certification.
 
 </details>
 
@@ -221,7 +221,7 @@ This section is **non-operative**. It states a **layer boundary** only.
 
 These apply whenever compliance is evaluated — with or without certification.
 
-**[Chapter Nine — System Alignment Certification](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** supplies the forum-supervised **certification process** where material: whole-system evaluation domains, certification-record duties, certification outcomes, certification interval, contestability chain, and verified-input bridge to Chapter Ten. It **applies** Chapters Two through Four; it does **not** restate them.
+**[Chapter Nine — System Alignment Certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** supplies the forum-supervised **certification process** where material: whole-system evaluation domains, certification-record duties, certification outcomes, certification interval, contestability chain, and verified-input bridge to Chapter Ten. It **applies** Chapters Two through Four; it does **not** restate them.
 
 Readers must not treat:
 - a **certification record** as a substitute for ongoing compliance under Chapters Two through Four

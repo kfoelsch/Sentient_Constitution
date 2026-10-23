@@ -491,7 +491,7 @@ Donde el desacuerdo material exija una **elección vinculante de las partes afec
 
 La administración responsable y la operación materiales exigen **sencientes** que puedan **ejercer** autoridad con **competencia**, no solo **estructuras** que la distribuyan en el papel.
 
-- **Piso de rol autorizado y de competencia:** Quienes adoptan deben mantener definiciones de rol documentadas, auditables e impugnables y capacidad de competencia o de sucesión proporcionada al impacto y a la clasificación. Una definición de rol enuncia, acto por acto, qué asientos detenta el rol bajo el [Capítulo Uno §10.2 Segregación de deberes](core_01_c_stewardship_capacity_principles.md), y enuncia su frontera operativa. Esos asientos son quién puede:
+- **Piso de rol autorizado y de competencia:** Quienes adoptan deben mantener definiciones de rol documentadas, auditables e impugnables y capacidad de competencia o de sucesión proporcionada al impacto y a la clasificación. Una definición de rol enuncia, acto por acto, qué asientos detenta el rol bajo el [Capítulo Uno §10.2 Separación de deberes](core_01_c_stewardship_capacity_principles.md), y enuncia su frontera operativa. Esos asientos son quién puede:
   - solicitar;
   - verificar;
   - registrar;

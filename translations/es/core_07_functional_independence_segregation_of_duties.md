@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# CAPÍTULO SIETE: INDEPENDENCIA FUNCIONAL Y SEGREGACIÓN DE FUNCIONES
+# CAPÍTULO SIETE: INDEPENDENCIA FUNCIONAL Y SEPARACIÓN DE FUNCIONES
 
 <details>
 <summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativa): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> Este archivo **forma parte de la Constitución Senciente** y solo es vinculante **junto con** los demás archivos numerados `core_*`, leídos como un instrumento único. Contiene el **Capítulo Siete**: el piso transversal a los procesos para la independencia funcional y la segregación de funciones. Sigue al Piso de Derechos del Capítulo Seis y precede a los capítulos de procesos constitucionales que comienzan con la [certificación de alineación del sistema del Capítulo Ocho](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index).
+> Este archivo **forma parte de la Constitución Senciente** y solo es vinculante **junto con** los demás archivos numerados `core_*`, leídos como un instrumento único. Contiene el **Capítulo Siete**: el piso transversal a los procesos para la independencia funcional y la segregación de funciones. Sigue al Piso de Derechos del Capítulo Seis y precede a los capítulos de procesos constitucionales que comienzan con la [certificación de alineación del sistema del Capítulo Ocho](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 >
 > - **Titular constitucional:** el piso de puestos diferenciados para actos materialmente vinculantes; el contenido mínimo universal de cada [Registro de Acto Materialmente Vinculante](../../core_05_band_accountability.md#materially-binding-act-record); la independencia respecto del actor y de su [Línea de Control Material](../../core_05_band_accountability.md#material-control-line); la publicación de la asignación de carriles y funciones; el enrutamiento de conflictos, vacantes, sustituciones y puestos incorrectos; el alojamiento conjunto proporcional; los traspasos atribuibles; y las condiciones mínimas de independencia que debe aplicar todo proceso constitucional posterior.
 > - **Fuente en la capa de principios:** el [Capítulo Uno §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) exige que la gobernanza preserve la independencia funcional y remite aquí a la arquitectura operativa de puestos.
@@ -20,7 +20,7 @@
 
 - Antecedentes: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — en especial **supervisión** y **rendición de cuentas**; [interés material](../../core_00_preamble.md#material-stake); [Estándar de Custodia Compartida del Capítulo Uno §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [Gobernanza bajo Disciplina de Custodia del Capítulo Uno §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Artículo XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Auditoría, transparencia y verificación independiente*).
 - Subsecciones: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- Consecuencias: [Capítulo Ocho](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Capítulo Nueve](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Doce](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Capítulo Trece](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); texto de implementación designado arriba.
+- Consecuencias: [Capítulo Ocho](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Nueve](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Doce](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Capítulo Trece](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); texto de implementación designado arriba.
 - Leer con: [Detección de Desalineación del Capítulo Uno §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*detección plural y revisión*); [Acción Atribuible](../../core_05_band_accountability.md#attributable-action); [Integridad de Atribución](../../core_05_band_accountability.md#attribution-integrity); [Auditabilidad](../../core_05_band_oversight.md#auditability); [Impugnabilidad](../../core_05_band_accountability.md#contestability); [Proporcionalidad](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -66,7 +66,7 @@ Este capítulo establece el piso transversal de segregación de funciones. No tr
 - los catálogos operativos de puestos, métodos de dotación de personal y mecánicas de mapas de carriles del texto de implementación designado.
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. Piso constitucional de cuatro puestos
+### 2. Requisito constitucional de cuatro escaños
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -351,7 +351,7 @@ Los registros de actividad muestran quién hizo qué, pero por sí solos no demu
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Antecedentes: desde [§1](#1-purpose-scope-and-owner-boundary) hasta [§8](#8-act-records-and-attributable-handoffs).
-- Consecuencias: [Capítulo Ocho](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Capítulo Nueve](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Doce](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Capítulo Trece](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- Consecuencias: [Capítulo Ocho](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Nueve](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Doce](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Capítulo Trece](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - Leer con: [Pila de Autoridad y Jerarquía Interna](../../core_05_band_integrative.md#owner-non-relocation) y el [registro de titulares del Preámbulo](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>

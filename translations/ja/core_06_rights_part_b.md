@@ -1569,7 +1569,7 @@ flowchart TB
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**異議または抗議による地位・統治上の不利益の禁止：**異議および平和的抗議の最低保障（[保護される非暴力の市民的不服従](#xi-d-nonviolent-civil-disobedience)を含む）を行使したことは、それ自体または評価要素として、次の根拠にしてはならない。
   - [Chapter Nine](../../core_10.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger) に基づく違反の地位記録を開始、支持、延長または加重すること。
   - **Chapter Ten** または **Article XIX** (*Standing and Participation Status*) に基づき、地位ロックを支持し、能力認証を拒否・遅延し、指定経路を狭めること。
-  - [Chapter Eleven](../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out) に基づく反憲法的非行指定を支持すること。
+  - [Chapter Eleven](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out) に基づく反憲法的非行指定を支持すること。
   - **Article X-B** (*Governance Participation and Voting Entitlement*) および **Chapter Thirteen** に基づく統治投票、利害関係者参加、立候補、役職就任、フォーラムでの職務、解任請求の権利を減らすこと。
   - [Chapter Eight](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest) に基づくシステムの整合性認証に不利に算入すること。
   - **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) がすでに禁じる監視、潜入、脅威スコアリングまたは記録蓄積を正当化すること。
@@ -1631,7 +1631,7 @@ flowchart TB
   - [Business Creation](../../core_05.055_band_participation.md#business-creation-constitutional) の定義に従う営利事業 — 個人事業、パートナーシップ、法人、営利協同組合、プラットフォーム型事業および同等の形態。設立・運営に必要な資本へのアクセス、市場参入、許認可の経路も含む。
   
   この権利は、既存の制度への参加だけでなく、新しい制度を生み出すことを対象とする。
-- **真正な形成と意図：** 創設者・運営者は、表明した目的に真に沿う場合に限り制度・事業を形成・運営できる。他者を欺いて目的、支配、利益、受益者を偽る意図、または他者を害する意図がある場合、あるいはその意図を認める相当な根拠がある場合は許されない。ここでの害は憲法が禁じる害（第VI-C条の差別的取扱いを含む）であり、通常の競争、適法な批判・異議、競争相手が適法に事業を失うことは、それ自体では害を示さない。判断は検証された行為、支配、報酬設計、発言による。害や禁止された差別を他者が受けるべきだとする検証済みの発言・呼びかけ・計画は意図の証拠となり得る。[第一章§7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)に従い、宗教・政治・思想上のラベルでなく、発言が何を述べ、求め、行うかで判断する。信念や集団所属だけでは不利な証拠にならず、善意の自己申告も有利な証拠にならない。発言の保護には[第七章§6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)を適用する。記録のない創設者は真正と推定し、制限を書面で受け入れ独立検証を認めるなど、行動で示す約束を証拠とする。この条件は許可制ではなく、事前承認は不要であり、非真正を主張する側が立証責任を負う。
+- **真正な形成と意図：** 創設者・運営者は、表明した目的に真に沿う場合に限り制度・事業を形成・運営できる。他者を欺いて目的、支配、利益、受益者を偽る意図、または他者を害する意図がある場合、あるいはその意図を認める相当な根拠がある場合は許されない。ここでの害は憲法が禁じる害（第VI-C条の差別的取扱いを含む）であり、通常の競争、適法な批判・異議、競争相手が適法に事業を失うことは、それ自体では害を示さない。判断は検証された行為、支配、報酬設計、発言による。害や禁止された差別を他者が受けるべきだとする検証済みの発言・呼びかけ・計画は意図の証拠となり得る。[第一章§7.5](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)に従い、宗教・政治・思想上のラベルでなく、発言が何を述べ、求め、行うかで判断する。信念や集団所属だけでは不利な証拠にならず、善意の自己申告も有利な証拠にならない。発言の保護には[第七章§6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)を適用する。記録のない創設者は真正と推定し、制限を書面で受け入れ独立検証を認めるなど、行動で示す約束を証拠とする。この条件は許可制ではなく、事前承認は不要であり、非真正を主張する側が立証責任を負う。
 - **迂回的な拒否の禁止：**この権利は、次の方法で妨げてはならない。
   - 好まれない創設者、目的または形態を締め出すために設計された許認可制度、承認基準、または手続の複雑さ。
   - 同等の制度や事業が受けられる資本、財政手段、インフラ、法的承認へのアクセスにおける差別。
@@ -1647,7 +1647,7 @@ flowchart TB
   - **より軽い保護策では足りないこと：** 要件を維持する側が、開示、登録、保護された職名、受入れ先・雇用運営当事者への義務、学習者への監督では危険にさらされる者を守れないと示す。
   - **公開された手続で決定：** 採用する文書が、公表され異議申立て可能な手続で、認定を確認要件に十分とするかを決める。フォーラムは認定と基準を定めるが、確認を発行せず、個別案件や許容されるリスク水準も決めない。
   - **開かれた経路、独占なし：** 基準は[第十一章 §6.2 能力基準と確認](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)に従い、公表され、比例的で、異議申立て可能であること。試験、ポートフォリオ、徒弟訓練、同業者が検証した経験、他の管轄区域の確認は同等の証拠として扱う。複数の独立した発行者が確認でき、唯一の経路があってはならない。現職実務者は基準を定めるパネルまたは発行者の統治機関を支配してはならない。
-  - **安全な実施：** 学習者は確認済みの監督者の下で行為を実施できる。緊急の行為、または適時に確認済みのセンティエントへ連絡できない場合の行為は禁止されない。決定は[Article XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)の期限に従い、料金や待ち時間が障壁になってはならない（[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)）。負担が改めて示されない限り、各審査で要件は終了し、審査結果は公表される。
+  - **安全な実施：** 学習者は確認済みの監督者の下で行為を実施できる。緊急の行為、または適時に確認済みのセンティエントへ連絡できない場合の行為は禁止されない。決定は[Article XXVI-C](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)の期限に従い、料金や待ち時間が障壁になってはならない（[回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden)）。負担が改めて示されない限り、各審査で要件は終了し、審査結果は公表される。
   - **保護措置：** 要件を課す側が立証責任を負う。他の仕事の賃金、権利の床、生存に不可欠なアクセス、発言、弁護、保護された報告を妨げてはならず、異議申立人、報告者、労働者の組織者に対して用いてはならない。能力の変化は、その行為が求める能力に基づいて判断し、障害や健康状態そのものを基準にしない。
   - **運営当事者のクラス：** 他者のためにこの種の行為を行う運営当事者は、[領域別重要性](../../core_05.050_band_oversight.md#domain-specific-materiality)の安全性の下で重要であり、少なくともクラスLとなる。この要件自体が運営当事者のクラスを決めるものではなく、クラスLであることだけで確認が必要になるわけでもない。 単独または小規模な実務でこの行為を行うセンティエントは、受入れ先を通じた共同専門職実務によってクラスLの義務を満たすことができる（**CI-4.7**、*実践確認、実務認証、共同専門職実務*）。
 
@@ -1986,7 +1986,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 スチュワードシップの規律下の統治](core_01_c_stewardship_capacity_principles.md#18-スチュワードシップ規律の下でのガバナンス)、および[§19 インセンティブの整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#19-インセンティブの整合とシステムの乗っ取り)。
-- あわせて読む：[第XII-D条](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）、[第XII-B条](../../core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）、[第X-A条](../../core_06.010_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*主体性と操作からの自由*）、[第IX-A条](../../core_06.010_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像と評判の自己所有*）、[第XIII-E条](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）、[第XV条](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）、[第十一章 §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*大量の働きかけによる領域の占拠と異議申立て経路の遮断*）、[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏における領域の占拠*）、[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈収賄と不適切な利益交換*）、[第七章](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)、[第十三章 §1.2](core_12_governance.md#12-適格争われる選出民主的な最低限)（*適格性、異議を伴う選出、民主主義の最低基準*）。
+- あわせて読む：[第XII-D条](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）、[第XII-B条](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）、[第X-A条](../../core_06.005_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*主体性と操作からの自由*）、[第IX-A条](../../core_06.005_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像と評判の自己所有*）、[第XIII-E条](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）、[第XV条](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）、[第十一章 §5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*大量の働きかけによる領域の占拠と異議申立て経路の遮断*）、[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*情報圏における領域の占拠*）、[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贈収賄と不適切な利益交換*）、[第七章](core_07_functional_independence_segregation_of_duties.md#第七章機能的独立性と職務の分離)、[第十三章 §1.2](core_12_governance.md#12-適格争われる選出民主的な最低限)（*適格性、異議を伴う選出、民主主義の最低基準*）。
 
 </details>
 
@@ -2006,7 +2006,7 @@ flowchart TB
 
 *平たい言葉で言えば：**第XII-E条**（*影響接触とロビー活動の境界*）は、利害を持つ感知者が決定を行う感知者やシステムにどのように接触できるか、その最低基準を定めます。公開の意見表明は保護されます。非公開、記録なし、買収、偽装、または機械によって増幅された影響は保護されません。接触は記録・開示され、利益の申し出と脅迫は利益相反となり、自ら決定した相手方から後に職を得る場合はクーリングオフ期間を経なければならず、システムによる接触では、それが何であり誰のために行動するのかを示さなければなりません。*
 
-本条は、**利害関係者**が、決定、審査、監査、調達、または決定の支援を行う感知者やシステムにどのように接触できるかを定めます。[**第XII-D条**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）に挙げられた対象機関、その**任命権者**、および**採択機関**に適用され、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)に従います。
+本条は、**利害関係者**が、決定、審査、監査、調達、または決定の支援を行う感知者やシステムにどのように接触できるかを定めます。[**第XII-D条**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）に挙げられた対象機関、その**任命権者**、および**採択機関**に適用され、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)に従います。
 
 - **繁栄：**影響を受ける感知者は、資金、人員、ツールを持たない者も含め、意見を聞いてもらうための実効的で開かれた経路を保ちます。決定は非公開の接触ではなく公開記録に基づきます。
 - **継続：**決定機関は、非公開接触、利益の申し出、後日の雇用、偽の支持、または大規模な自動化を通じた静かな影響に、時間を経ても耐えられる状態を保ちます。
@@ -2020,9 +2020,9 @@ flowchart TB
 
 *関連条項：*
 
-- **捕捉防止の最低基準：**[**第XII-D条**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）は、構成、利益相反、忌避、外部審査、解任を扱います。本条は、同じ機関に利害関係者が接触する際の規則を追加します。
-- **参加の重み：**[**第XII-B条**](../../core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）は、形だけの参加を禁じます。本条でも接触件数は支持を意味しません。
-- **システムと情報：**[**第XIII-E条**](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）は、システムにも他のすべての者と同じ規則を課します。[**第XV条**](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）は共有情報環境を扱います。
+- **捕捉防止の最低基準：**[**第XII-D条**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）は、構成、利益相反、忌避、外部審査、解任を扱います。本条は、同じ機関に利害関係者が接触する際の規則を追加します。
+- **参加の重み：**[**第XII-B条**](../../core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加重参加と形だけの参加を防ぐ制約*）は、形だけの参加を禁じます。本条でも接触件数は支持を意味しません。
+- **システムと情報：**[**第XIII-E条**](../../core_06.010_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自律システムとツール媒介プロセスの完全性*）は、システムにも他のすべての者と同じ規則を課します。[**第XV条**](../../core_06.010_rights_part_c.md#article-xv-info-sphere-integrity)（*情報圏の完全性*）は共有情報環境を扱います。
 - **選出資金：**[第十三章 §1.2](core_12_governance.md#12-適格争われる選出民主的な最低限)（*適格性、異議を伴う選出、民主主義の最低基準*）は、選挙運動、推薦、競争的任命による選出の資金境界を定めます。
 
 本条は、次の最低基準を定めます。
@@ -2053,7 +2053,7 @@ flowchart TB
 - **執行と経路づけ：**
   - **完全性の発動要件：**隠された影響接触、利益の申し出、捏造された声は、**CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）と**CJS-3.6**（*完全性保証とレジリエンス運用*）の下で完全性の発動要件として処理します。
   - **不正行為の経路：**真正でない声を意図的または無謀に大量投入すること、贈収賄や不適切な利益交換は、**第二章から第四章**および**第十一章**の基準で裏付けられる場合、**反憲法的不正行為**として第十一章の下で申し立てることができます。
-  - **完全性を先行させ、自己審理をしない：**[**第XII-D条**](../../core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）の経路づけと自己審理防止の規則が適用されます。自らの構成員や職員が不適切な接触を受けたかどうかを、その機関だけが最終判断する場となってはなりません。
+  - **完全性を先行させ、自己審理をしない：**[**第XII-D条**](../../core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards)（*捕捉防止の保護策*）の経路づけと自己審理防止の規則が適用されます。自らの構成員や職員が不適切な接触を受けたかどうかを、その機関だけが最終判断する場となってはなりません。
 - **制度上の経路づけ：**詳細な規則は次によって定められます。
   - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)（*任命、能力、交代、解任*）。退任後の規則については **CI-4.2**（*役割基準、任命基準、解任経路*）を含みます。
   - **CI-5**（*利益相反の完全性、捕捉防止、腐敗防止*）。

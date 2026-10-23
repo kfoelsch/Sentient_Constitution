@@ -82,7 +82,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§19 প্রণোদনার সামঞ্জস্য ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§19 প্রণোদনার সামঞ্জস্য ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল)।
 
 </details>
 
@@ -143,7 +143,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)—**সমুন্নতি** ও **সাতত্য**; [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) এবং **অনুচ্ছেদ III-A** (*টিকে থাকা*), যেখানে ব্যবস্থার ওপর অব্যাহত নির্ভরতা টিকে থাকার জন্য অপরিহার্য প্রবেশাধিকার প্রভাবিত করবে; সফল চ্যালেঞ্জের পর কী হওয়া উচিত তা জানতে [**অনুচ্ছেদ XIII-B**](#অনচছদ-xiii-b-পরতকর-ও-সশধনর-অধকর) (*প্রতিকার ও সংশোধনের অধিকার*)।
 
 </details>
@@ -192,7 +192,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§6.1 সংশোধন ও প্রতিকার](core_01_a_values_principles.md#61-correction-and-remedy) (নীতিগত অধিকার-তল), [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§6.1 সংশোধন ও প্রতিকার](core_01_a_values_principles.md#61-correction-and-remedy) (নীতিগত অধিকার-তল), [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
 - সঙ্গে পড়ুন: [**অনুচ্ছেদ XIII-A**](#অনচছদ-xiii-a-নরভরযগযত-ও-বশবসযগযতর-ভতত) (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*)—আপত্তিযোগ্যতার নিশ্চয়তা, চ্যালেঞ্জের অধিকার ও সুরক্ষিত প্রতিবেদন, যা প্রতিকারের পথ খোলে; **অনুচ্ছেদ III-A** (*টিকে থাকা*); ব্যবস্থা ব্যর্থতা বা অসামঞ্জস্য টিকে থাকার জন্য অপরিহার্য প্রবেশাধিকার নষ্ট করলে [ব্যবস্থা-সামঞ্জস্য প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional); [প্রস্তাবনা §6.2 পুরো শৃঙ্খল কীভাবে একসঙ্গে কাজ করে](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*যাচাইকৃত শ্রেণিবিন্যাস ও সময়মতো প্রতিকার*); [অধ্যায় দশ §9](core_09_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*প্রয়োগের বাস্তবতা ও প্রতিকার-ব্যবস্থা*); [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*প্রতিকার-ব্যবস্থা ও প্রাতিষ্ঠানিক প্রতিকার-সক্ষমতা*)।
 
 </details>
@@ -263,7 +263,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ), এবং [§19.1.1 প্রণোদনার করণীয়](core_01_c_stewardship_capacity_principles.md#১৯১১-পরণদন-য-অবশযই-করব) (*পুরস্কারের অগ্রাধিকার*)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ), এবং [§19.1.1 প্রণোদনার করণীয়](core_01_c_stewardship_capacity_principles.md#১৯১১-পরণদন-য-অবশযই-করব) (*পুরস্কারের অগ্রাধিকার*)।
 
 </details>
 
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 স্থিতিস্থাপকতা ও স্ব-নিরাময় নকশা](../../core_01.005_values_principles.md#10-resilience-and-self-healing-design), [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#১৩৩-এডন-সমভব-এমন-বঝ-কমন), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 স্থিতিস্থাপকতা ও স্ব-নিরাময় নকশা](../../core_01.000_values_principles.md#10-resilience-and-self-healing-design), [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#১৩৩-এডন-সমভব-এমন-বঝ-কমন), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -385,7 +385,7 @@ flowchart TB
 
 এই অনুচ্ছেদ শনাক্তকরণ থেকে মূল-কারণ নিষ্পত্তি পর্যন্ত পুনরুদ্ধারের ভিত্তি নির্ধারণ করে:
 
-- **কী প্রয়োজন:** এই অনুচ্ছেদের আওতায় থাকা প্রতিটি ব্যবস্থাকে ব্যর্থতা থেকে পুনরুদ্ধার করতে সক্ষম হতে হবে। ব্যবস্থার প্রভাব, তার ওপর অন্যদের নির্ভরতা ও তার ঝুঁকি যত বেশি, পুনরুদ্ধার-সক্ষমতাও তত শক্তিশালী হতে হবে। এটি **অধ্যায় এক**-এর [**§10 স্থিতিস্থাপকতা ও স্ব-নিরাময় নকশা**](../../core_01.005_values_principles.md#10-resilience-and-self-healing-design) এবং **অধ্যায় পাঁচ**-এর [**স্ব-নিরাময়**](../../core_05.040_band_continuity.md#self-healing-constitutional)-এর অনুসারী।
+- **কী প্রয়োজন:** এই অনুচ্ছেদের আওতায় থাকা প্রতিটি ব্যবস্থাকে ব্যর্থতা থেকে পুনরুদ্ধার করতে সক্ষম হতে হবে। ব্যবস্থার প্রভাব, তার ওপর অন্যদের নির্ভরতা ও তার ঝুঁকি যত বেশি, পুনরুদ্ধার-সক্ষমতাও তত শক্তিশালী হতে হবে। এটি **অধ্যায় এক**-এর [**§10 স্থিতিস্থাপকতা ও স্ব-নিরাময় নকশা**](../../core_01.000_values_principles.md#10-resilience-and-self-healing-design) এবং **অধ্যায় পাঁচ**-এর [**স্ব-নিরাময়**](../../core_05.040_band_continuity.md#self-healing-constitutional)-এর অনুসারী।
   - পুনরুদ্ধার কীভাবে নির্মাণ করতে হবে তার বিস্তারিত প্রযুক্তিগত নিয়ম বাস্তবায়ন-পাঠে রয়েছে: [**CS-5**](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*নকশা, পরীক্ষা, যাচাই ও স্থাপন*), [**CS-8**](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md) (*অভিযোজনশীল স্থায়িত্ব ও বাস্তুতন্ত্রের স্থিতিস্থাপকতা*), এবং [**CS-12**](../../corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md) (*বিকেন্দ্রীভূত ধারাবাহিকতা ও বিভাজন-স্থিতিস্থাপকতা*)।
   - ওই বাস্তবায়ন-পাঠ বিস্তারিত যোগ করতে পারে, কিন্তু এই অনুচ্ছেদ দুর্বল করতে পারে না।
 - **সময়মতো সমস্যা শনাক্ত করুন:** ত্রুটি, গতি কমে যাওয়া, আংশিক ভেঙে পড়া এবং সাংবিধানিক সীমা লঙ্ঘন এত দ্রুত ও দৃশ্যমানভাবে শনাক্ত করতে হবে যাতে **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*) ([নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#নরকষযগযত))-এর নথি-রক্ষার মান পূরণ হয়। এটি শুধু স্বাভাবিক পরিচালনায় নয়, পুনরুদ্ধার-প্রক্রিয়াতেও প্রযোজ্য।
@@ -412,7 +412,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 
 </details>
 
@@ -463,7 +463,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7.1 সীমা-আরোপের শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7.1 সীমা-আরোপের শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত প্রক্রিয়া](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
 
 </details>
 
@@ -556,7 +556,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1.1 প্রয়োজনীয়তা](core_01_b_interaction_interpretation.md#1311-আবশযকত), [§7.1 সীমা-আরোপের শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 অধিকার-সংঘাত সিদ্ধান্ত-পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 চূড়ান্ত অধিকার-অতিক্রমের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1.1 প্রয়োজনীয়তা](core_01_b_interaction_interpretation.md#1311-আবশযকত), [§7.1 সীমা-আরোপের শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 অধিকার-সংঘাত সিদ্ধান্ত-পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 চূড়ান্ত অধিকার-অতিক্রমের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 - অধস্তন ভিত্তি: **অনুচ্ছেদ I-A** (*পরিবেশগত পূর্বশর্ত ও বাস্তুতান্ত্রিক অখণ্ডতা*)-এর পরিবেশগত পূর্বশর্ত, **অনুচ্ছেদ I-D** (*অস্তিত্বগত ঝুঁকি ও বাস্তুতান্ত্রিক পুনরুদ্ধার-সক্ষমতা*)-এর অস্তিত্বগত-ঝুঁকি যাচাই, **অনুচ্ছেদ VI-A** (*মর্যাদা ও সমান নৈতিক মর্যাদা*)-এর মর্যাদা, **অনুচ্ছেদ XIV-A** (*নিরাপত্তা, গোয়েন্দা ও গোপন ক্ষমতার সীমা*)-এর গোপন ক্ষমতার সীমা (প্রকাশ্য ক্ষমতার সমকক্ষ), জরুরি ব্যবস্থার সীমা হিসেবে **অধ্যায় বারো §6.1** (*জরুরি ব্যবস্থা ও তা বজায় রাখার দায়*), সংঘাত সমাধানে **অনুচ্ছেদ XXV** (*সময়ানুবর্তী পূর্বাপর পর্যালোচনা ও পুনঃপ্রতিষ্ঠামূলক সামঞ্জস্য*), এবং রূপান্তর শাসনে **অনুচ্ছেদ XXVII** (*রূপান্তর শাসন, ধারাবাহিকতা ও পুনঃভিত্তি স্থাপন*)। আন্তঃউল্লেখ: **অনুচ্ছেদ XX-B** (*নিষেধাজ্ঞার অধিকার-তল*) ও অধ্যায় পাঁচের *[অপরিবর্তনীয় বঞ্চনা পরিমাপ](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*—**অনুচ্ছেদ XIV**-এর (*নিরাপত্তা, গোয়েন্দা, বলপ্রয়োগ ও স্বায়ত্তশাসিত জবরদস্তিমূলক ব্যবস্থা*) *গুলিয়ে না ফেলার* শৃঙ্খলা প্রযোজ্য।
 - সঙ্গে পড়ুন: [**Def.A4** *বলপ্রয়োগ, স্বায়ত্তশাসিত জবরদস্তি, স্বায়ত্তশাসিত প্রাণঘাতী ব্যবস্থা ও ব্যাপক ক্ষতিসাধনকারী অস্ত্র*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (বস্তুগতভাবে প্রভাবিত হলে যৌথ প্রয়োগ); অধ্যায় পাঁচের *বলপ্রয়োগ*, *ব্যাপক ক্ষতিসাধনকারী অস্ত্র*, *যোদ্ধা/অযোদ্ধা পার্থক্য*, *[অপরিবর্তনীয় বঞ্চনা পরিমাপ](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *অস্তিত্বগত ঝুঁকি*, *প্রত্যাবর্তনযোগ্যতা*, *প্রতিকার ও সংশোধন*।
 
@@ -622,7 +622,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 আনুপাতিকতা](core_01_b_interaction_interpretation.md#১৩১৩-আনপতকত), [§13.1.1 প্রয়োজনীয়তা](core_01_b_interaction_interpretation.md#1311-আবশযকত), [§19.1 সামঞ্জস্যের শর্ত](core_01_c_stewardship_capacity_principles.md#১৯১-সমঞজসযর-শরত), [§14 চূড়ান্ত অধিকার-অতিক্রমের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 আনুপাতিকতা](core_01_b_interaction_interpretation.md#১৩১৩-আনপতকত), [§13.1.1 প্রয়োজনীয়তা](core_01_b_interaction_interpretation.md#1311-আবশযকত), [§19.1 সামঞ্জস্যের শর্ত](core_01_c_stewardship_capacity_principles.md#১৯১-সমঞজসযর-শরত), [§14 চূড়ান্ত অধিকার-অতিক্রমের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 - অধস্তন ভিত্তি: **অনুচ্ছেদ I-D** (*অস্তিত্বগত ঝুঁকি ও বাস্তুতান্ত্রিক পুনরুদ্ধার-সক্ষমতা*)-এর অস্তিত্বগত-ঝুঁকি যাচাই, **অনুচ্ছেদ X-A** (*কর্তৃত্বক্ষমতা ও কারসাজি থেকে স্বাধীনতা*)-এর কারসাজি থেকে স্বাধীনতা, **অনুচ্ছেদ XIV-A** (*নিরাপত্তা, গোয়েন্দা ও গোপন ক্ষমতার সীমা*)-এর গোপন ক্ষমতার সীমা, **অনুচ্ছেদ XIV-B** (*বলপ্রয়োগ, সশস্ত্র সংঘাত ও সামরিক ক্ষমতার সীমা*)-র প্রকাশ্য-বলপ্রয়োগ অধিকার-তল, **অনুচ্ছেদ XIII-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতার ভিত্তি*)-র ব্যবস্থা-স্তরের সমকক্ষ, **অনুচ্ছেদ XIII-E** (*উচ্চ-স্বায়ত্তশাসিত ব্যবস্থা ও টুল-মধ্যস্থ প্রক্রিয়ার অখণ্ডতা*)-র স্বায়ত্তশাসন-তত্ত্বাবধান ও স্বায়ত্তশাসনের পরিসরবৃদ্ধি, **অনুচ্ছেদ XIII-F** (*স্থিতিস্থাপকতা ও স্ব-নিরাময়ের ভিত্তি*)-র স্থিতিস্থাপকতা ও স্ব-নিরাময়ের ভিত্তি। আন্তঃউল্লেখ: **অনুচ্ছেদ XX-B** (*নিষেধাজ্ঞার অধিকার-তল*) এবং অধ্যায় পাঁচের *[অপরিবর্তনীয় বঞ্চনা পরিমাপ](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*—**অনুচ্ছেদ XIV**-এর (*নিরাপত্তা, গোয়েন্দা, বলপ্রয়োগ ও স্বায়ত্তশাসিত জবরদস্তিমূলক ব্যবস্থা*) *গুলিয়ে না ফেলার* শৃঙ্খলা প্রযোজ্য।
 - সঙ্গে পড়ুন: [**Def.A4** *বলপ্রয়োগ, স্বায়ত্তশাসিত জবরদস্তি, স্বায়ত্তশাসিত প্রাণঘাতী ব্যবস্থা ও ব্যাপক ক্ষতিসাধনকারী অস্ত্র*](../../core_05.035_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (বস্তুগতভাবে প্রাসঙ্গিক হলে যৌথ প্রয়োগ); অধ্যায় পাঁচের *স্বায়ত্তশাসিত প্রাণঘাতী ব্যবস্থা*, *স্বায়ত্তশাসিত জবরদস্তির সরঞ্জাম*, *[অপরিবর্তনীয় বঞ্চনা পরিমাপ](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *জবরদস্তি ও কারসাজি*, *প্রত্যাবর্তনযোগ্যতা*। ব্যবস্থা-স্তরের বাস্তবায়ন: **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও ব্যবস্থাপনা** শ্রেণিবিন্যাস।
 
@@ -922,7 +922,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), [§16.1 বিতরণকৃত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#161-বণটত-বঝপড), এবং [§9 ভাগ করা-ব্যবস্থা সক্ষমতা](core_01_a_values_principles.md#৯-যথ-বযবসথর-সকষমত)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), [§16.1 বিতরণকৃত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#161-বণটত-বঝপড), এবং [§9 ভাগ করা-ব্যবস্থা সক্ষমতা](core_01_a_values_principles.md#৯-যথ-বযবসথর-সকষমত)।
 - সঙ্গে পড়ুন: নিচের [তিন-স্তরীয় নিরীক্ষা-চিত্র](#audit-three-layers)।
 
 </details>
@@ -1098,7 +1098,7 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), [§16 গভীরতায় তত্ত্বাবধান](core_01_c_stewardship_capacity_principles.md#16-তততববধনর-গভর-আলচন), এবং [§12 ব্যবস্থাগত মূল্যায়নের শর্ত](core_01_a_values_principles.md#12-পদধতগত-মলযযনর-আবশযকত)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত-সমাধান প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), [§16 গভীরতায় তত্ত্বাবধান](core_01_c_stewardship_capacity_principles.md#16-তততববধনর-গভর-আলচন), এবং [§12 ব্যবস্থাগত মূল্যায়নের শর্ত](core_01_a_values_principles.md#12-পদধতগত-মলযযনর-আবশযকত)।
 
 </details>
 
@@ -1148,7 +1148,7 @@ id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
@@ -1176,7 +1176,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বাণিজ্য-বিনিময় নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বাণিজ্য-বিনিময় নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -1245,7 +1245,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§19 প্রণোদনা সামঞ্জস্য ও ব্যবস্থা-দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 সাংবিধানিক সংঘাত নিষ্পত্তি প্রক্রিয়া](core_01_b_interaction_interpretation.md#13-সবধনক-সঘত-নষপতত-পরকরয), এবং [§19 প্রণোদনা সামঞ্জস্য ও ব্যবস্থা-দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল)।
 
 </details>
 
@@ -1275,7 +1275,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [অষ্টম অধ্যায় §3 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [অষ্টম অধ্যায় §3 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -1308,7 +1308,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§13.1 মূল সমঝোতা নীতিমালা](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§13.1 মূল সমঝোতা নীতিমালা](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত)।
 
 </details>
 
@@ -1343,7 +1343,7 @@ id="article-xvii-b-progressive-deployment-and-reversibility"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [অষ্টম অধ্যায় §3 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [প্রথম অধ্যায় §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [অষ্টম অধ্যায় §3 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [প্রথম অধ্যায় §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 

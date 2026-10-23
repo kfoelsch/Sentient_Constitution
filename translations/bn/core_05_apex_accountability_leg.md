@@ -81,7 +81,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- সঙ্গে পড়ুন: [অধ্যায় এক §11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§13 বাজার কাঠামো](core_01_c_stewardship_capacity_principles.md), এবং [অধ্যায় সাত §3.3 শাসন, প্রণোদনা ও চ্যালেঞ্জ-যোগ্যতা শৃঙ্খলা](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)।
+- সঙ্গে পড়ুন: [অধ্যায় এক §11 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), [§13 বাজার কাঠামো](core_01_c_stewardship_capacity_principles.md), এবং [অধ্যায় সাত §3.3 শাসন, প্রণোদনা ও চ্যালেঞ্জ-যোগ্যতা শৃঙ্খলা](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)।
 
 </details>
 

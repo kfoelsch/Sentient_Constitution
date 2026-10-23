@@ -81,7 +81,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- خوانده شود با: [فصل یکم §11 هم‌راستایی انگیزه و تسخیر نظام](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)، [§13 ساختار بازار](core_01_c_stewardship_capacity_principles.md)، و [فصل هفتم §3.3 انضباط حکمرانی، انگیزه و قابلیت اعتراض](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
+- خوانده شود با: [فصل یکم §11 هم‌راستایی انگیزه و تسخیر نظام](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)، [§13 ساختار بازار](core_01_c_stewardship_capacity_principles.md)، و [فصل هفتم §3.3 انضباط حکمرانی، انگیزه و قابلیت اعتراض](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
 
 </details>
 

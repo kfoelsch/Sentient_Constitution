@@ -70,7 +70,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§15 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§15 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - همراه با: خانواده سنجش به‌موقع بودن (*حل‌وفصل به‌موقع به‌عنوان سنجه قانون اساسی*).
 
 </details>
@@ -128,7 +128,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت‌های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت‌های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
@@ -271,7 +271,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: [فصل یک §18.4 توجیه مستمر](core_01_c_stewardship_capacity_principles.md#184-توجیه-مستمر)؛ فصل یک [§3 هدف بنیادین: بهزیستی](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پیوندهای بالادستی: اصول: [فصل یک §18.4 توجیه مستمر](core_01_c_stewardship_capacity_principles.md#184-توجیه-مستمر)؛ فصل یک [§3 هدف بنیادین: بهزیستی](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -303,7 +303,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -370,7 +370,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [فصل دهم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*محدودشدن ضبط پاداش و گزارش‌دهیِ پاداش‌های ناسازگار در دوره گذار به‌موجب این ماده*)؛ [فصل هشتم—گواهی هم‌راستایی سامانه](core_07_a_system_alignment_certification_evaluation.md).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [فصل دهم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*محدودشدن ضبط پاداش و گزارش‌دهیِ پاداش‌های ناسازگار در دوره گذار به‌موجب این ماده*)؛ [فصل هشتم—گواهی هم‌راستایی سامانه](core_07_a_system_alignment_certification_evaluation.md).
 
 </details>
 
@@ -449,7 +449,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [§14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [§14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -492,7 +492,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 - همراه با: [فصل هشتم](core_07_a_system_alignment_certification_evaluation.md) (*گواهی هم‌راستایی سامانه*)؛ [فصل‌های نهم تا دوازدهم](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*خط لوله جایگاه و نظارت مراجع رسیدگی*).
 
 </details>
@@ -529,7 +529,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [فصل یک §13.1.5 رویه تعارض حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.000_values_principles.md#4-safety-harm-constraint)، [فصل یک §13.1.5 رویه تعارض حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - همراه با: **ماده III-A** (*بقا*)؛ **ماده XIII** (*حق سامانه‌های قابل‌اعتماد و مطمئن*)؛ **ماده XI-G** (*مرز زیان جمعی و رابط اجرا*)؛ **فصل نهم**؛ **فصل یک**، از جمله §6 رویه تعارض حقوق؛ چارچوب محدودیت پیش‌فرض در آغاز فصل ششم (*رابط تملک و جبران*)؛ [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*حکمرانی گذار و تحول نهادی*).
 
 </details>
@@ -553,7 +553,7 @@ flowchart TB
 - **حد تملک:** اگر چیزی را قانونی مالک هستید یا به‌کار می‌برید، گذار نمی‌تواند آن را خودسرانه از شما بگیرد. اما وقتی ادامه کار آن دارایی آشکارا موجب تداوم نقض شناخته‌شده و گسترده قانون اساسی می‌شود—پس از آنکه [فصل نهم](core_08_standing_assessment.md) نقض را در سوابق مستند کرده است—مالکیت سپر نیست. در این صورت، گذار همچنان می‌تواند برای توقف زیان اقدام کند، اما فقط با تضمین‌های این ماده و **CI-14.1** (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا **CI-14.3** (*الزامات اجرایی جبرانِ محدود به دوره گذار*).
 - **قید استفاده ضدقانون‌اساسی:** حد تملک از دارنده حفاظت می‌کند، نه از سوءاستفاده. این حد از اموال، وجوه، سامانه‌ها یا منابع دیگری که برای انجام، تأمین مالی، تجهیز، پنهان‌کردن یا تداوم **رفتار ضدقانون‌اساسی** به کار می‌روند حفاظت نمی‌کند. این مورد با عدم انطباق فرق دارد: دارایی لازم نیست معیوب باشد؛ پرسش این است که برای چه کاری استفاده می‌شود. این قید یک سپر را برمی‌دارد، اما اختیار توقیف تازه‌ای ایجاد نمی‌کند؛ هر اقدامی همچنان باید مستند به اختیار خود بر اساس [فصل یازدهم](core_10_a_misconduct_designation.md) (*تخلف ضدقانون‌اساسی*)، فصل دهم و **ماده XX-B** (*حداقل‌های محدودیت*) باشد.
   - **ابتدا ثبت نهایی:** استفاده باید به رفتاری مرتبط باشد که در تعیین نهایی [فصل یازدهم](core_10_a_misconduct_designation.md) (*تخلف ضدقانون‌اساسی*) یا یافته نهایی محور نقض s = 7، 8 یا 9 در [فصل نهم](core_08_standing_assessment.md) (*مدل انطباق، نقض و جایگاه*) ثبت شده است. پیش از ثبت نهایی، فقط حفاظت موقت قانونی—حفظ، امانت‌سپاری، نگهداشت، بازگرداندن دسترسی یا تضمین مشابه طبق [فصل یازدهم §4.1 جبران و اصلاح (ضدقانون‌اساسی)](core_10_a_misconduct_designation.md#4-1-remedy-and-correction-anti-constitutional)—در دسترس است. این اقدام باید ثبت‌شده، زمان‌مند، قابل‌بازبینی و فقط در جایی اعمال شود که انتظار، جبران را ناممکن کند یا بگذارد زیان ادامه یابد.
-  - **استفاده واقعی، نه صرفاً وضعیت:** سوابق باید استفاده واقعی، هدایت یا تأمین مالی رفتار را نشان دهند. مالکیت، وابستگی، دیدگاه، یا مخالفت حمایت‌شده و اعتراض مسالمت‌آمیز ([استثنای مخالفت و اعتراض مسالمت‌آمیز](../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)) این آزمون را برآورده نمی‌کند.
+  - **استفاده واقعی، نه صرفاً وضعیت:** سوابق باید استفاده واقعی، هدایت یا تأمین مالی رفتار را نشان دهند. مالکیت، وابستگی، دیدگاه، یا مخالفت حمایت‌شده و اعتراض مسالمت‌آمیز ([استثنای مخالفت و اعتراض مسالمت‌آمیز](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)) این آزمون را برآورده نمی‌کند.
   - **نخست استفاده را متوقف کنید:** اقدامات باید سوءاستفاده را پایان دهند—تعلیق عملیات، مسدودکردن جریان‌ها، لغو دسترسی یا حضانت مهروموم‌شده—و از مؤثرترین اقدامِ کم‌محدودیت‌تر استفاده کنند. زیان دائمی، نابودی یا ضبطِ فراتر از آن باید حد **تصرف مخرب**، **ماده XX-B** (*حداقل‌های محدودیت*) و **ضمانت دسترسی ضروری** را نیز برآورده کند.
   - **دیگران حفاظت می‌شوند:** هم‌مالکان بی‌تقصیر، بستانکاران، افراد تحت تکفل و اشخاص ثالث با حسن‌نیت از تضمین‌های جبران و جایگزینیِ زیر برخوردار می‌مانند. قاعده حفظ در **ماده VI-B** (*حداقل رسیدگی به وضعیت ذی‌شعوری*) بدون تغییر درباره هر سامانه دارای نشانگر معتبر ذی‌شعوری اعمال می‌شود.
   - **دورزدن ممنوع:** انتقال مالکیت، دارنده پوششی، مالکیت صوری، قائم‌مقام‌ها و تغییر برچسب، این قید را بی‌اثر نمی‌کنند ([فصل دهم §9.4 اختیار منع فرار و نگاه از ورای ساختار](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)).

@@ -154,6 +154,6 @@ Confidence: 42 high, 22 medium, 3 low.
 
 ## Legend
 
-- **1A / 1B / 1C:** `core_01.005_values_principles.md`, `core_01.010_interaction_interpretation.md`, `core_01.015_stewardship_capacity_principles.md`.
+- **1A / 1B / 1C:** `core_01.000_values_principles.md`, `core_01.005_interaction_interpretation.md`, `core_01.010_stewardship_capacity_principles.md`.
 - **7:** `core_08.000_functional_independence_separation_of_duties.md`.
 - **Also:** the second object the item clearly touches, if any.

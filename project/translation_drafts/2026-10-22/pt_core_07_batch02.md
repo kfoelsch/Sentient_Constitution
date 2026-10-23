@@ -24,8 +24,8 @@
 - Fontes anteriores:
   - [Tétrade Constitucional](../../../core_00.000_preamble.md#constitutional-tetrad), especialmente **supervisão** e **responsabilização**;
   - [interesse material](../../../core_00.000_preamble.md#material-stake);
-  - [Capítulo Um §18.1 Governança como estrutura autorizada](../../../core_01.015_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.015 §18.1);
-  - [Artigo XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*).
+  - [Capítulo Um §18.1 Governança como estrutura autorizada](../../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.015 §18.1);
+  - [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*).
 - Subseções:
   - [§1](#1-quando-as-cartas-do-sistema-e-institucional-são-exigidas);
   - [§2](#2-o-direito-de-formar-e-quatro-limites-estritos);
@@ -36,7 +36,7 @@
   - [§7](#7-alteração-revisão-e-desalinhamento-de-escopo).
 - Aplicação posterior:
   - [Capítulo Oito](../../../core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) (8.000);
-  - [Capítulo Nove](../../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) (9.000);
+  - [Capítulo Nove](../../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
   - [Capítulo Dez](../../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
   - [Capítulo Treze](../../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
   - [Capítulo Quatorze](../../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); o texto de implementação designado acima.
@@ -57,7 +57,7 @@ Três capítulos formam uma só cadeia:
 
 - **Capítulo Sete (este capítulo):** diz o que uma [Parte Constituída](../../../core_05.040_band_continuity.md#chartered-party) declara fazer e quem pode ocupar cada assento quando ela atua.
 - **[Capítulo Oito](../../../core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties):** diz como esses assentos devem permanecer separados.
-- **[Capítulo Nove](../../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index):** certifica um sistema e, separadamente, uma instituição, cada qual como um ato vinculante que usa os assentos. O capítulo devolve suas conclusões à Carta do Sistema ou à Carta Institucional.
+- **[Capítulo Nove](../../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification):** certifica um sistema e, separadamente, uma instituição, cada qual como um ato vinculante que usa os assentos. O capítulo devolve suas conclusões à Carta do Sistema ou à Carta Institucional.
 
 Outros capítulos definem os termos, as regras dos assentos, os bloqueios de posição e as regras decisórias a que este capítulo remete. **CI-8.205 §6** (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*) contém o modelo dos campos, o procedimento de formação e a lista de revisão.
 
@@ -72,17 +72,17 @@ Outros capítulos definem os termos, as regras dos assentos, os bloqueios de pos
   - [§2](#2-o-direito-de-formar-e-quatro-limites-estritos);
   - [interesse material](../../../core_00.000_preamble.md#material-stake);
   - [Proporcionalidade](../../../core_05.035_band_accountability.md#proportionality); afirmação de responsabilidade na abertura do capítulo;
-  - [Capítulo Um §18 Governança sob disciplina de tutela](../../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18);
+  - [Capítulo Um §18 Governança sob disciplina de tutela](../../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18);
   - [Supervisão](../../../core_05.020_apex_oversight_leg.md#oversight-constitutional);
   - [Responsabilização](../../../core_05.005_apex_accountability_leg.md#accountability).
-- Aplicação posterior: [§3](#3-o-que-as-cartas-do-sistema-e-institucional-devem-declarar); [Capítulo Nove Parte A §2 Avaliação da classe do sistema](../../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.005 §2) (*classe e profundidade da certificação*); [Capítulo Nove Parte D §12.1 Classe da Instituição](../../../core_09.020_institutional_alignment_certification.md#121-institution-class) (*classe de uma Instituição*); **CS-9.305 (*Mecanismo de classificação de sistemas*) e CS-9.310** (*Mecanismo de classificação de sistemas*) para o catálogo de classes.
+- Aplicação posterior: [§3](#3-o-que-as-cartas-do-sistema-e-institucional-devem-declarar); [Capítulo Nove Parte A §2 Avaliação da classe do sistema](../../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.000 §2) (*classe e profundidade da certificação*); [Capítulo Nove Parte D §12.1 Classe da Instituição](../../../core_09.015_institutional_alignment_certification.md#121-institution-class) (*classe de uma Instituição*); **CS-9.305 (*Mecanismo de classificação de sistemas*) e CS-9.310** (*Mecanismo de classificação de sistemas*) para o catálogo de classes.
 - Ler em conjunto com:
   - **CI-8.205 §6** (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*);
   - **CF-13.415 §5** (*Registradores institucionais e locais*);
   - **CI-9.210** (*Obrigações institucionais vinculadas à classificação*);
   - [Carta do Sistema no Capítulo Cinco](../../../core_05.040_band_continuity.md#system-charter) (5.040);
   - [Carta Institucional no Capítulo Cinco](../../../core_05.040_band_continuity.md#institutional-charter) (5.040);
-  - [Artigo XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*).
+  - [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*).
 
 </details>
 
@@ -135,7 +135,7 @@ A classe da Parte Constituída decide se a publicação é obrigatória ou facul
 
 - **Classes A, B, C e L:** obrigatória. O diagrama em [§1.7 O processo em visão geral](#17-o-processo-em-visão-geral) mostra o processo que seguem.
 - **Classe P:** facultativa até que um de dois eventos a torne obrigatória. [§1.3 O que é a Classe P](#13-o-que-é-a-classe-p) explica quando uma Parte Operadora é Classe P; [§1.4 Classe P: cartas facultativas e quando se tornam obrigatórias](#14-classe-p-cartas-facultativas-e-quando-se-tornam-obrigatórias) define a escolha e quando ela termina.
-- **Classe de uma Instituição:** a Instituição assume a classe mais alta de qualquer Sistema que opera, administra ou controla materialmente. Se não opera nenhum Sistema desse tipo, sua classificação depende de seu próprio impacto material e dependência, avaliados pelo que realmente decide e controla, não pelo nome ou forma jurídica, conforme [Capítulo Nove Parte D §12.1 Classe da Instituição](../../../core_09.020_institutional_alignment_certification.md#121-institution-class).
+- **Classe de uma Instituição:** a Instituição assume a classe mais alta de qualquer Sistema que opera, administra ou controla materialmente. Se não opera nenhum Sistema desse tipo, sua classificação depende de seu próprio impacto material e dependência, avaliados pelo que realmente decide e controla, não pelo nome ou forma jurídica, conforme [Capítulo Nove Parte D §12.1 Classe da Instituição](../../../core_09.015_institutional_alignment_certification.md#121-institution-class).
 
 <a id="13-what-class-p-is"></a>
 #### 1.3 O que é a Classe P
@@ -174,7 +174,7 @@ Um Sistema ou Instituição abrangido publica sua [Carta do Sistema](../../../co
 
 - **Sistema ou Instituição novos:** antes de entrar em operação ou começar a exercer autoridade sobre terceiros.
 - **Quem já está em operação:** na próxima revisão de classificação ou certificação, ou dentro do prazo de resolução após solicitação feita nos termos de [§1.6 Quando falta uma Carta do Sistema ou Carta Institucional](#16-quando-falta-uma-carta-do-sistema-ou-carta-institucional), o que ocorrer primeiro. Até publicar, está em descumprimento.
-  - **Qual certificação:** para um Sistema, sua Certificação de Alinhamento do Sistema. Para uma Instituição, a certificação de alinhamento institucional segundo [Capítulo Nove Parte D §11.3 Sem permissão e sem barreira](../../../core_09.020_institutional_alignment_certification.md#113-no-permission-and-no-gate); o prazo da primeira certificação nunca condiciona a publicação da Carta Institucional nem a operação.
+  - **Qual certificação:** para um Sistema, sua Certificação de Alinhamento do Sistema. Para uma Instituição, a certificação de alinhamento institucional segundo [Capítulo Nove Parte D §11.3 Sem permissão e sem barreira](../../../core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate); o prazo da primeira certificação nunca condiciona a publicação da Carta Institucional nem a operação.
 - **Verificação de formação:** ela também conclui a verificação de formação de [§5 Verificação de formação: posição e autenticidade de titulares de cargos](#5-verificação-de-formação-posição-e-autenticidade-de-titulares-de-cargos) nesse mesmo momento.
 - **Onde protocolar:** a Carta do Sistema ou Carta Institucional, junto com seu Mapa de Funções da Carta e a declaração de verificação de formação, é protocolada no registro institucional ou, se a atividade e os sencientes afetados forem locais, no registro local (**CF-13.415 §5** (*Registradores institucionais e locais*)):
   - **O que faz o registrador:** verifica se falta algum item obrigatório e emite um recibo datado.
@@ -207,7 +207,7 @@ Os prazos funcionam assim:
   - **O que merece revisão:** a contestação merece revisão quando identifica um cruzamento específico em domínio nomeado e a demonstração escrita da Parte Operadora deixa uma dúvida real sobre esse cruzamento. A própria Parte Operadora não decide isso; uma resposta sem demonstração escrita não prorroga o prazo.
   - **Quando uma classe é determinada:** nesta contestação ou em qualquer outra, a data da determinação conta como data da solicitação: o prazo para responder e o prazo de resolução começam a correr a partir dela, no Nível da classe determinada (Classe A, B, C ou L).
 - **Descumprimento do prazo:** não responder, ou não publicar a Carta do Sistema ou Carta Institucional até a data-limite, é um defeito a registrar e corrigir. Quem solicitou pode levá-lo ao fórum competente pelo mesmo procedimento. Nunca é condição para formar ou operar.
-- **Solicitação repetida:** uma segunda solicitação sobre a mesma Parte Constituída, feita enquanto ainda vigorar a resposta anterior ou uma determinação sobre ela, não inicia novos prazos para responder ou resolver. A Parte Constituída responde apontando para aquela resposta ou determinação. Sua própria demonstração de que está abaixo de todos os limites, ainda sem revisão do fórum, não conta como resposta vigente. A resposta ou determinação continua vigente até que ocorra um dos fatos que, segundo os critérios para reabertura descritos em [Capítulo Nove Parte D §14.2 Critérios para reabertura](../../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers), encerra essa vigência:
+- **Solicitação repetida:** uma segunda solicitação sobre a mesma Parte Constituída, feita enquanto ainda vigorar a resposta anterior ou uma determinação sobre ela, não inicia novos prazos para responder ou resolver. A Parte Constituída responde apontando para aquela resposta ou determinação. Sua própria demonstração de que está abaixo de todos os limites, ainda sem revisão do fórum, não conta como resposta vigente. A resposta ou determinação continua vigente até que ocorra um dos fatos que, segundo os critérios para reabertura descritos em [Capítulo Nove Parte D §14.2 Critérios para reabertura](../../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers), encerra essa vigência:
   - **Mudança material:** a atividade da Parte Constituída muda materialmente.
   - **Novas provas:** são apresentadas novas provas sobre um cruzamento.
 
@@ -285,7 +285,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreio</span></strong></summary>
 
-- Fontes anteriores: [§1](#1-quando-as-cartas-do-sistema-e-institucional-são-exigidas); [Artigo XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*).
+- Fontes anteriores: [§1](#1-quando-as-cartas-do-sistema-e-institucional-são-exigidas); [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*).
 - Aplicação posterior: [§1 Quando as Cartas do Sistema e Institucional são exigidas](#1-quando-as-cartas-do-sistema-e-institucional-são-exigidas); [§5 Verificação de formação: posição e autenticidade de titulares de cargos](#5-verificação-de-formação-posição-e-autenticidade-de-titulares-de-cargos).
 - Ler em conjunto com:
   - [Suspensão Provisória](../../../core_05.035_band_accountability.md#interim-hold);
@@ -310,11 +310,11 @@ O **Artigo XI-E** (*Formação institucional e criação de empresas*) permite q
 <a id="21-the-right-to-form"></a>
 #### 2.1 O direito de formar
 
-Qualquer senciente pode formar um novo sistema, instituição ou empresa. Esse direito está previsto no [Artigo XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*). Este capítulo acrescenta o dever que vem em seguida. Quando a atividade de uma Parte Operadora se torna material para terceiros em qualquer uma das nove áreas da [Materialidade específica por domínio](../../../core_05.050_band_oversight.md#domain-specific-materiality), ela deve declarar publicamente, com antecedência, a autoridade que reivindica ([§1 Quando as Cartas do Sistema e Institucional são exigidas](#1-quando-as-cartas-do-sistema-e-institucional-são-exigidas)). A adoção de uma Carta do Sistema ou Carta Institucional não deve ser interpretada como redução desse direito ou de qualquer proteção do Piso de Direitos.
+Qualquer senciente pode formar um novo sistema, instituição ou empresa. Esse direito está previsto no [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*). Este capítulo acrescenta o dever que vem em seguida. Quando a atividade de uma Parte Operadora se torna material para terceiros em qualquer uma das nove áreas da [Materialidade específica por domínio](../../../core_05.050_band_oversight.md#domain-specific-materiality), ela deve declarar publicamente, com antecedência, a autoridade que reivindica ([§1 Quando as Cartas do Sistema e Institucional são exigidas](#1-quando-as-cartas-do-sistema-e-institucional-são-exigidas)). A adoção de uma Carta do Sistema ou Carta Institucional não deve ser interpretada como redução desse direito ou de qualquer proteção do Piso de Direitos.
 
 **Quem não está abrangido pelo direito de formar.** Além das três barreiras previstas em [§2.2 Primeiro limite: uma trava vigente sobre um senciente](#22-primeiro-limite-uma-trava-vigente-sobre-um-senciente), [§2.3 Segundo limite: suspensão breve baseada em fatos específicos verificados](#23-segundo-limite-suspensão-breve-baseada-em-fatos-específicos-verificados) e [§2.4 Terceiro limite: trava sobre a própria Parte Operadora](#24-terceiro-limite-trava-sobre-a-própria-parte-operadora), o **Artigo XI-E** (*Formação institucional e criação de empresas*) não protege:
 
-- uma Parte Operadora planejada para violar uma Restrição Constitucional, enfraquecer a Segurança ou a Verdade, ou concentrar poder de modo vedado pelo [Capítulo Um §11 Estrutura de mercado](../../../core_01.005_values_principles.md#11-market-structure); ou
+- uma Parte Operadora planejada para violar uma Restrição Constitucional, enfraquecer a Segurança ou a Verdade, ou concentrar poder de modo vedado pelo [Capítulo Um §11 Estrutura de mercado](../../../core_01.000_values_principles.md#11-market-structure); ou
 - uma Parte Operadora formada ou administrada por um fundador que não esteja autenticamente alinhado com a finalidade declarada, conforme demonstrado por conduta, controle e recompensas verificados, que pretenda enganar outros sobre sua finalidade, controle ou interesses, ou causar dano a terceiros.
 
 Os fóruns decidem esses casos nos termos daquele Artigo, e as únicas consequências são as três barreiras nele previstas: a barreira por trava vigente, a Suspensão Provisória e a trava sobre a própria Parte Operadora. A reprovação na verificação de formação é uma das provas que o fórum pondera; a verificação de formação, por si só, não decide o caso.
@@ -376,7 +376,7 @@ O quarto limite se aplica a um ato nomeado, não à formação de uma Parte Oper
 - Aplicação posterior:
   - [§4](#4-o-mapa-de-funções-da-carta-e-a-custódia-de-registros-de-posição);
   - [§7](#7-alteração-revisão-e-desalinhamento-de-escopo);
-  - [Capítulo Nove Parte B §8.1 Conteúdo mínimo do registro](../../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.010 §8.1) (*os campos da Carta do Sistema de que depende um registro de certificação*);
+  - [Capítulo Nove Parte B §8.1 Conteúdo mínimo do registro](../../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.005 §8.1) (*os campos da Carta do Sistema de que depende um registro de certificação*);
   - **CI-8.205 §6** (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*) para a lista completa de campos.
 - Ler em conjunto com:
   - [Capítulo Dezoito §4 Enquadramento da adoção e escopo da autoridade](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*um documento de escopo mantido sob outro nome*);
@@ -475,7 +475,7 @@ Algumas partes de uma Carta do Sistema ou Carta Institucional variam conforme a 
 - Fontes anteriores: [§3](#3-o-que-as-cartas-do-sistema-e-institucional-devem-declarar); [Capítulo Oito §2 Piso Constitucional de Quatro Assentos](../../../core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
 - Aplicação posterior:
   - [Capítulo Oito §5 Posicionamento, vacância e substituição publicados](../../../core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
-  - [Capítulo Nove Parte B §6.1.1 Quatro assentos em uma certificação](../../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
+  - [Capítulo Nove Parte B §6.1.1 Quatro assentos em uma certificação](../../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.005 §6.1.1);
   - [Capítulo Dez §3.7 Custódia de registros e autoridade de abertura](../../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
   - **CI-8.205 §2** (*Faixas de separação funcional*);
   - **CI-14.205 §5** (*Papéis autorizados e cadeias de responsabilização*);
@@ -660,24 +660,24 @@ Os mesmos prazos se aplicam aos assentos de certificação. Se o mapa não nomea
   - [§1.5](#15-quando-vence-o-prazo-para-a-carta-do-sistema-ou-carta-institucional);
   - [§3](#3-o-que-as-cartas-do-sistema-e-institucional-devem-declarar);
   - [§4](#4-o-mapa-de-funções-da-carta-e-a-custódia-de-registros-de-posição);
-  - [Artigo XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*);
+  - [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*);
   - [O que os sistemas recompensam](../../../core_00.000_preamble.md#what-systems-reward);
   - as [Duas Perguntas Fundamentais](../../../core_00.000_preamble.md#two-fundamental-questions);
-  - [Capítulo Um §19.1.4 Vias de profundidade de papel e responsabilidade material](../../../core_01.015_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4);
-  - [Capítulo Um §19.4 Correção de desalinhamento e resposta à captura](../../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4);
+  - [Capítulo Um §19.1.4 Vias de profundidade de papel e responsabilidade material](../../../core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4);
+  - [Capítulo Um §19.4 Correção de desalinhamento e resposta à captura](../../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4);
   - [Capítulo Onze §4.2 Prevenção — travas gerais de posição](../../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2),
   - [§5.5 Travas especiais](../../../core_11.000_standing_integration.md#55-special-locks) e
   - [§6.2 Impedimentos e autorizações de competência](../../../core_11.000_standing_integration.md#62-competency-bars-and-clearances).
 - Aplicação posterior:
   - [§6 Quando um titular não passa na verificação de formação](#6-quando-um-titular-não-passa-na-verificação-de-formação);
-  - [Capítulo Nove Parte D §12.2 Avaliação institucional, sempre](../../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.020 §12.2) (item 7, *os fóruns testam a declaração*);
-  - [Capítulo Nove Parte A §3.3 Disciplina de governança, incentivos e impugnabilidade](../../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline) (9.005 §3.3);
+  - [Capítulo Nove Parte D §12.2 Avaliação institucional, sempre](../../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.015 §12.2) (item 7, *os fóruns testam a declaração*);
+  - [Capítulo Nove Parte A §3.3 Disciplina de governança, incentivos e impugnabilidade](../../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline) (9.000 §3.3);
   - **CI-8.205 §6** (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*) para o modelo da declaração.
 - Ler em conjunto com:
   - [Linha de Controle Material](../../../core_05.035_band_accountability.md#material-control-line);
   - [Registro de Posição](../../../core_05.035_band_accountability.md#standing-record);
   - [Relato Protegido (denúncia)](../../../core_05.035_band_accountability.md#protected-reporting-whistleblowing);
-  - [Capítulo Um §17.5 Dever de resistir](../../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5);
+  - [Capítulo Um §17.5 Dever de resistir](../../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5);
   - **CI-14.205 §2** (*Critérios de função, padrões de nomeação e vias de destituição*);
   - **CI-8.210** (*Integridade de conflitos, proteção contra captura e anticorrupção*).
 
@@ -687,7 +687,7 @@ Os mesmos prazos se aplicam aos assentos de certificação. Se o mapa não nomea
 
 *Em termos simples: antes de uma Parte Constituída exercer autoridade sobre terceiros, verifica-se duas vezes quem ocupa seus cargos principais. Essas pessoas atendem ao padrão publicado para a função, sem uma trava de posição que as impeça? Exercem o cargo em direito próprio e para a finalidade declarada pela Parte Constituída, e não como fachada ou interpostas pessoas? A resposta depende de quem lhes dá instruções, pelo que são pagas e pelo que disseram e fizeram de forma verificável; nunca do que acreditam. Esta é uma verificação de formação, não uma licença.*
 
-Esta seção trata da **verificação de formação**. Ela aplica as três barreiras previstas em [§2 O direito de formar e quatro limites estritos](#2-o-direito-de-formar-e-quatro-limites-estritos): as duas que incidem sobre um senciente nomeado se aplicam a cargos abrangidos, e a terceira se aplica a uma Parte Constituída que esteja sob trava. Ela não reduz o alcance do [Artigo XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*). Aplica-se a uma Parte Constituída de Classe L ou superior ([§1 Quando as Cartas do Sistema e Institucional são exigidas](#1-quando-as-cartas-do-sistema-e-institucional-são-exigidas)).
+Esta seção trata da **verificação de formação**. Ela aplica as três barreiras previstas em [§2 O direito de formar e quatro limites estritos](#2-o-direito-de-formar-e-quatro-limites-estritos): as duas que incidem sobre um senciente nomeado se aplicam a cargos abrangidos, e a terceira se aplica a uma Parte Constituída que esteja sob trava. Ela não reduz o alcance do [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*). Aplica-se a uma Parte Constituída de Classe L ou superior ([§1 Quando as Cartas do Sistema e Institucional são exigidas](#1-quando-as-cartas-do-sistema-e-institucional-são-exigidas)).
 
 <a id="51-what-is-covered"></a>
 #### 5.1 O que está abrangido
@@ -716,16 +716,16 @@ Só contam registros de posição verificados, e somente pela barreira de [Insum
 <a id="53-authenticity-check"></a>
 #### 5.3 Verificação de autenticidade
 
-Um cargo abrangido é **autêntico** quando o titular o exerce em direito próprio e para a finalidade declarada na Carta do Sistema ou Carta Institucional, não como fachada, interposta pessoa ou procurador de uma finalidade não declarada. A Parte Constituída determina isso com provas sobre quatro elementos. Um fórum posteriormente testa os mesmos quatro ([Capítulo Nove Parte D §12.2 Avaliação institucional, sempre](../../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7).
+Um cargo abrangido é **autêntico** quando o titular o exerce em direito próprio e para a finalidade declarada na Carta do Sistema ou Carta Institucional, não como fachada, interposta pessoa ou procurador de uma finalidade não declarada. A Parte Constituída determina isso com provas sobre quatro elementos. Um fórum posteriormente testa os mesmos quatro ([Capítulo Nove Parte D §12.2 Avaliação institucional, sempre](../../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always), item 7).
 
-- **Controle:** quem pode dar instruções, financiar, substituir ou recompensar o titular, dentro ou fora da autoridade publicada. Um titular que siga instruções de parte não declarada, ou cujo assento seja mantido para outra pessoa, não é autêntico. Vias opacas de controle beneficiário constituem captura do sistema ([Capítulo Um §19.4 Correção de desalinhamento e resposta à captura](../../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
+- **Controle:** quem pode dar instruções, financiar, substituir ou recompensar o titular, dentro ou fora da autoridade publicada. Um titular que siga instruções de parte não declarada, ou cujo assento seja mantido para outra pessoa, não é autêntico. Vias opacas de controle beneficiário constituem captura do sistema ([Capítulo Um §19.4 Correção de desalinhamento e resposta à captura](../../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
 - **Interesses e recompensas:** o que o titular ganha com o cargo e como é remunerado.
   - Remuneração, participação acionária, metas e outras recompensas do titular são declaradas conforme sua materialidade e submetidas às [Duas Perguntas Fundamentais](../../../core_00.000_preamble.md#two-fundamental-questions): a estrutura recompensa a finalidade declarada ou recompensa ultrapassar os limites declarados, ocultar problemas ou transferir custos a terceiros?
   - Um titular recompensado por aquilo que os limites publicados da Parte Constituída proíbem não exerce o cargo para a finalidade declarada enquanto a recompensa não for alterada.
 - **Conduta:** o que o titular comprovadamente fez na mesma função, inclusive um registro verificado de ocultação, retaliação contra denunciantes ou sabotagem do mesmo tipo de verificação, e o que comprovadamente disse nos termos de [§5.5 O que um titular disse](#55-o-que-um-titular-disse).
   - Um titular sem histórico não tem um histórico ruim, e um fundador estreante não reprova na verificação de autenticidade por falta de experiência.
   - Como não há histórico a examinar, a verificação considera o que o titular assume e faz agora. Ele concorda por escrito com os limites que a Parte Constituída fixou sobre aquilo que não fará, aceita ser verificado por uma parte independente e usa a via de contestação se discordar de uma conclusão a seu respeito.
-- **Voz protegida:** o titular dispõe de uma via efetiva para recusar uma instrução ilegal ou inconstitucional ([Capítulo Um §17.5 Dever de resistir](../../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) e relatar de forma protegida suspeita razoável de não conformidade constitucional, dano material, falha de segurança ou verdade, corrupção, captura, abuso, retaliação ou obstrução de revisão obrigatória ([Relato Protegido (denúncia)](../../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)). A Parte Constituída não pode penalizar o titular por usar qualquer uma das vias de boa-fé.
+- **Voz protegida:** o titular dispõe de uma via efetiva para recusar uma instrução ilegal ou inconstitucional ([Capítulo Um §17.5 Dever de resistir](../../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) e relatar de forma protegida suspeita razoável de não conformidade constitucional, dano material, falha de segurança ou verdade, corrupção, captura, abuso, retaliação ou obstrução de revisão obrigatória ([Relato Protegido (denúncia)](../../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)). A Parte Constituída não pode penalizar o titular por usar qualquer uma das vias de boa-fé.
 
 <a id="54-what-the-formation-check-may-use-as-evidence"></a>
 #### 5.4 Que provas a verificação de formação pode usar
@@ -733,30 +733,30 @@ Um cargo abrangido é **autêntico** quando o titular o exerce em direito própr
 A verificação de formação nunca pergunta no que um senciente acredita, o que valoriza ou sente sobre a Parte Constituída; nunca decide se uma crença é verdadeira ou sincera; e não coleta novas declarações para descobrir isso. O alinhamento da finalidade é demonstrado por quem dirige o titular, pelo que ele recebe, pelo que faz e pelo que disse ou planejou sobre terceiros. Três regras mantêm essa distinção:
 
 - **A crença, por si só, não basta:** ter ou professar uma crença, ou pertencer a uma fé, partido ou grupo, não conta por si a favor ou contra o titular. O mesmo vale para sua identidade, característica protegida ou deficiência. Demonstrar entusiasmo ou prestar juramento de lealdade nunca conta a favor do titular.
-- **Rótulos não servem de escudo:** uma declaração, apelo, plano ou ato verificado de que outros merecem dano, ou tratamento discriminatório proibido pelo [Artigo VI-C](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Não discriminação*), conta contra o titular, qualquer que seja o rótulo usado. O que constitui dano ou discriminação proibida, e a regra de que um rótulo religioso, político ou ideológico não agrava nem desculpa isso, estão definidos em [Capítulo Um §7.5 Expressão e limite do dano](../../../core_01.005_values_principles.md#75-expression-and-the-harm-line). A avaliação considera o que a declaração diz, pede ou faz, não a doutrina oferecida para justificá-la.
+- **Rótulos não servem de escudo:** uma declaração, apelo, plano ou ato verificado de que outros merecem dano, ou tratamento discriminatório proibido pelo [Artigo VI-C](../../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Não discriminação*), conta contra o titular, qualquer que seja o rótulo usado. O que constitui dano ou discriminação proibida, e a regra de que um rótulo religioso, político ou ideológico não agrava nem desculpa isso, estão definidos em [Capítulo Um §7.5 Expressão e limite do dano](../../../core_01.000_values_principles.md#75-expression-and-the-harm-line). A avaliação considera o que a declaração diz, pede ou faz, não a doutrina oferecida para justificá-la.
 - **Controle não é filiação:** pertencer a um grupo não é prova. É prova saber quem pode instruir, financiar, substituir ou recompensar o titular nos termos do item *Controle* acima, qualquer que seja o tipo de grupo.
 
 O que esta seção decide e o que não decide:
 
-- Esta seção determina apenas quais provas a verificação de formação pode usar, segundo o princípio de [Capítulo Um §7.5 Expressão e limite do dano](../../../core_01.005_values_principles.md#75-expression-and-the-harm-line).
-- O que é proibido está definido no [Artigo VI-C](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Não discriminação*) e no **Artigo XI-F** (*Não imposição e consentimento na associação*):
+- Esta seção determina apenas quais provas a verificação de formação pode usar, segundo o princípio de [Capítulo Um §7.5 Expressão e limite do dano](../../../core_01.000_values_principles.md#75-expression-and-the-harm-line).
+- O que é proibido está definido no [Artigo VI-C](../../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Não discriminação*) e no **Artigo XI-F** (*Não imposição e consentimento na associação*):
   - Nada aqui amplia ou reduz nenhum dos dois.
   - As regras que uma comunidade voluntária estabelece para seus membros e práticas, em termos aceitos por eles, são regidas por esses artigos.
 
 <a id="55-what-a-holder-has-said"></a>
 #### 5.5 O que um titular disse
 
-Um tipo de declaração constitui conduta e conta contra o titular: uma declaração, apelo ou plano verificado de que outros merecem dano ou tratamento discriminatório proibido pelo [Artigo VI-C](../../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Não discriminação*), ou de que o titular causará qualquer um deles.
+Um tipo de declaração constitui conduta e conta contra o titular: uma declaração, apelo ou plano verificado de que outros merecem dano ou tratamento discriminatório proibido pelo [Artigo VI-C](../../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Não discriminação*), ou de que o titular causará qualquer um deles.
 
 - **Peso:**
   - É prova de intenção de causar dano e de desalinhamento com o tratamento justo de quem é afetado pela Parte Constituída ou pelo cargo.
   - Pesa mais quando o cargo ou a Parte Constituída confere poder sobre essas pessoas.
   - Uma declaração, sozinha, nunca satisfaz o fundamento de uma [Suspensão Provisória](../../../core_05.035_band_accountability.md#interim-hold): a suspensão também exige fatos verificados independentes sobre conduta, controle ou recompensa.
-  - Quando a declaração fizer parte do fundamento, ela deve ser demonstrada por provas claras e verificadas, dúvidas abertas contam contra a suspensão e registra-se que se aplica o mais alto nível de escrutínio do [**Artigo XI-B** (*Expressão*)](../../../core_06.010_rights_part_b.md#article-xi-b-expression) a limites baseados no que foi dito.
-- **O que não conta:** opinião de que um grupo, ideia ou instituição está errado, crítica severa, dissidência lícita, sátira, citação, reportagem e pesquisa acadêmica não contam, pois nenhuma delas declara nem pede dano ou tratamento discriminatório de terceiros. Ofensa ou divergência, por si só, não constitui dano ([**Artigo XI-G** (*Limite de dano coletivo e interface de aplicação*)](../../../core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
+  - Quando a declaração fizer parte do fundamento, ela deve ser demonstrada por provas claras e verificadas, dúvidas abertas contam contra a suspensão e registra-se que se aplica o mais alto nível de escrutínio do [**Artigo XI-B** (*Expressão*)](../../../core_06.005_rights_part_b.md#article-xi-b-expression) a limites baseados no que foi dito.
+- **O que não conta:** opinião de que um grupo, ideia ou instituição está errado, crítica severa, dissidência lícita, sátira, citação, reportagem e pesquisa acadêmica não contam, pois nenhuma delas declara nem pede dano ou tratamento discriminatório de terceiros. Ofensa ou divergência, por si só, não constitui dano ([**Artigo XI-G** (*Limite de dano coletivo e interface de aplicação*)](../../../core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
 - **Como se verifica:** a declaração deve ser verificada e lida no contexto. Deve vir de material já público, de algo dito dentro ou a respeito da Parte Constituída ou do cargo, ou de um relato protegido. Nenhuma Parte Constituída pode vigiar as declarações ou associações privadas de um fundador ou titular para encontrar uma delas.
 - **Resposta e resolução:** o titular pode responder, demonstrar o contexto e demonstrar por meio de ações que a declaração deixou de valer. Uma retratação sem mais nada não a apaga.
-- **Não é punição por expressão:** usar uma declaração como prova não limita a expressão ([Capítulo Um §7.5 Expressão e limite do dano](../../../core_01.005_values_principles.md#75-expression-and-the-harm-line)), e ela continua protegida como expressão pelo [**Artigo XI-B** (*Expressão*)](../../../core_06.010_rights_part_b.md#article-xi-b-expression). Seu único efeito recai sobre quem exerce autoridade em relação às pessoas afetadas.
+- **Não é punição por expressão:** usar uma declaração como prova não limita a expressão ([Capítulo Um §7.5 Expressão e limite do dano](../../../core_01.000_values_principles.md#75-expression-and-the-harm-line)), e ela continua protegida como expressão pelo [**Artigo XI-B** (*Expressão*)](../../../core_06.005_rights_part_b.md#article-xi-b-expression). Seu único efeito recai sobre quem exerce autoridade em relação às pessoas afetadas.
 
 <a id="56-staff-safeguards-check"></a>
 #### 5.6 Verificação das salvaguardas para funcionários
@@ -765,7 +765,7 @@ Para funcionários que não ocupam cargo abrangido, a Parte Constituída declara
 
 - suas regras de nomeação, remuneração, promoção e destituição não recompensam trabalho contrário à finalidade declarada da Parte Constituída;
 - existe uma via de relato protegido, e nenhum funcionário que a tenha usado ou recusado uma instrução ilegal ou inconstitucional foi penalizado; e
-- os direitos previstos no [Artigo III-C](../../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral e econômico*) continuam íntegros.
+- os direitos previstos no [Artigo III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral e econômico*) continuam íntegros.
 
 Esta verificação examina a estrutura da Parte Constituída. Funcionários individuais não passam por triagem.
 
@@ -788,7 +788,7 @@ O titular pode ser identificado pelo cargo e pela versão datada do Mapa de Fun�
   - Quando uma Parte Constituída for pequena e ainda não houver assento independente, a declaração é apresentada como declaração acompanhada de provas e verificada na primeira certificação da Parte Constituída.
   - Não ser verificada durante esse intervalo nunca impede a formação ou a operação.
 - **Declaração falsa:**
-  - Uma declaração falsa ou que oculte quem controla um cargo abrangido constitui ocultação e prova fraudulenta para o registro de certificação e para a ponte de posição ([Capítulo Nove Parte D §15 Ponte de Posição e Não Evasão](../../../core_09.020_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Capítulo Nove Parte B §10 Relação com a Posição](../../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)).
+  - Uma declaração falsa ou que oculte quem controla um cargo abrangido constitui ocultação e prova fraudulenta para o registro de certificação e para a ponte de posição ([Capítulo Nove Parte D §15 Ponte de Posição e Não Evasão](../../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Capítulo Nove Parte B §10 Relação com a Posição](../../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)).
   - Quando um senciente fizer, assinar ou causar conscientemente a declaração, e sua falsidade for material e verificada, isso também constitui fundamento para impor a Trava de Posição da Autoridade Institucional a esse senciente ([Capítulo Onze §5.5 Travas especiais](../../../core_11.000_standing_integration.md#55-special-locks)), quer a declaração oculte controle ou não. A trava incide sobre o senciente que fez ou causou a declaração, não sobre a Parte Constituída nem sobre um titular que não tenha participado.
   - Uma declaração errada sem conhecimento do senciente não constitui esse fundamento. É um defeito a corrigir nos termos de [§6 Quando um titular não passa na verificação de formação](#6-quando-um-titular-não-passa-na-verificação-de-formação).
 
@@ -816,7 +816,7 @@ As consequências de uma verificação de formação reprovada ou atrasada const
 
 A verificação de formação é proporcional ao que protege:
 
-- A Parte Constituída coleta apenas o necessário para cada uma das três verificações. Retaliação, vigilância ou perseguição a fundadores descumpre o [Artigo XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*).
+- A Parte Constituída coleta apenas o necessário para cada uma das três verificações. Retaliação, vigilância ou perseguição a fundadores descumpre o [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*).
 - A verificação de formação varia conforme a classe e o [interesse material](../../../core_00.000_preamble.md#material-stake). Na Classe L, é uma declaração curta para os poucos cargos abrangidos; para um fundador único, limita-se à declaração de interesses e de qualquer controle externo. Exigir mais é um [Ônus Evitável](../../../core_05.040_band_continuity.md#avoidable-burden).
 
 <a id="6-when-a-holder-fails-the-formation-check"></a>
@@ -843,10 +843,10 @@ A verificação de formação é proporcional ao que protege:
   - [§5](#5-verificação-de-formação-posição-e-autenticidade-de-titulares-de-cargos);
   - [§2](#2-o-direito-de-formar-e-quatro-limites-estritos);
   - [§1.6](#16-quando-falta-uma-carta-do-sistema-ou-carta-institucional);
-  - [Artigo XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*);
+  - [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*);
   - [Capítulo Treze §5 Suspensão provisória na via de um senciente nomeado](../../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
 - Aplicação posterior:
-  - [Capítulo Nove Parte D §13.5 Prontidão para reparação, negativa e revogação para uma Instituição](../../../core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.020 §13.5);
+  - [Capítulo Nove Parte D §13.5 Prontidão para reparação, negativa e revogação para uma Instituição](../../../core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.015 §13.5);
   - [Capítulo Oito §3 Independência, conflito e linhas de controle](../../../core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - **CI-11.210** (*Falha institucional e dissolução*);
   - **CI-11.215** (*Responsabilização e sanções institucionais*);
@@ -879,7 +879,7 @@ Quando um senciente não passa na verificação de posição:
 
 - **Não pode ocupar o cargo:** o senciente não pode ocupar aquele cargo. Os critérios de função de **CI-14.205 §2** (*Critérios de função, padrões de nomeação e vias de destituição*) já determinam isso e, quando a causa for uma trava vigente ou uma Suspensão Provisória, o **Artigo XI-E** (*Formação institucional e criação de empresas*) também.
 - **Preenchimento do assento:** outra pessoa ou um substituto assume o cargo; a mudança é registrada numa nova versão datada do Mapa de Funções.
-- **Ausência de titular legítimo:** se isso deixar a Parte Constituída sem titular legítimo para um cargo dirigente de que terceiros dependem, o fórum competente pode nomear um responsável interino, sem interromper a Parte Constituída, conforme prevê o [Artigo XI-E](../../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*) para a Suspensão Provisória.
+- **Ausência de titular legítimo:** se isso deixar a Parte Constituída sem titular legítimo para um cargo dirigente de que terceiros dependem, o fórum competente pode nomear um responsável interino, sem interromper a Parte Constituída, conforme prevê o [Artigo XI-E](../../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formação institucional e criação de empresas*) para a Suspensão Provisória.
 
 <a id="63-when-the-facts-may-support-an-interim-hold"></a>
 #### 6.3 Quando os fatos podem fundamentar uma Suspensão Provisória
@@ -919,7 +919,7 @@ O retorno de uma Parte Constituída dissolvida é tratado assim:
 - **Quem decide:** o fórum competente decide, com base em fatos verificados, se a trava alcança o veículo; a parte que afirma que ela se aplica tem o ônus da prova.
 - **Declaração da própria parte:** a declaração da Parte Constituída de que é nova não decide a questão.
 - **Outras Partes Operadoras:** a trava não alcança uma Parte Operadora diferente, a menos que ela constitua, de fato, uma só operação com a dissolvida.
-- **Evasão deliberada:** reconstituir, reativar ou operar uma Parte Constituída dissolvida sob outro nome, por sucessora, entidade controlada ou veículo mantido por interposta pessoa ou empresa de fachada, para contornar a trava, constitui má conduta anticonstitucional. Um fórum pode designá-la nos termos do [Capítulo Doze Parte A](../../../core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) com base em fatos verificados.
+- **Evasão deliberada:** reconstituir, reativar ou operar uma Parte Constituída dissolvida sob outro nome, por sucessora, entidade controlada ou veículo mantido por interposta pessoa ou empresa de fachada, para contornar a trava, constitui má conduta anticonstitucional. Um fórum pode designá-la nos termos do [Capítulo Doze Parte A](../../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) com base em fatos verificados.
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 Prazos para responder e resolver
@@ -975,8 +975,8 @@ O titular que receba uma conclusão desfavorável tem estas proteções:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreio</span></strong></summary>
 
-- Fontes anteriores: [§3](#3-o-que-as-cartas-do-sistema-e-institucional-devem-declarar); [Capítulo Um §18.4 Justificativa contínua](../../../core_01.015_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
-- Aplicação posterior: [Capítulo Nove Parte B §9 Recertificação e reabertura](../../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.010 §9) (*emenda da Carta do Sistema e divergência como fatos que reabrem a revisão*); [Capítulo Treze §4.3 Fóruns institucionais](../../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
+- Fontes anteriores: [§3](#3-o-que-as-cartas-do-sistema-e-institucional-devem-declarar); [Capítulo Um §18.4 Justificativa contínua](../../../core_01.010_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
+- Aplicação posterior: [Capítulo Nove Parte B §9 Recertificação e reabertura](../../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.005 §9) (*emenda da Carta do Sistema e divergência como fatos que reabrem a revisão*); [Capítulo Treze §4.3 Fóruns institucionais](../../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
 - Ler em conjunto com: [Integridade dos limites do sistema](../../../core_05.040_band_continuity.md#system-boundary-integrity); **CI-8.205 §1** (*Deveres dirigentes indelegáveis*); **CI-8.205 §6** (*Conteúdo das Cartas do Sistema e Institucional, revisão e modelo de formação*).
 
 </details>
@@ -1039,7 +1039,7 @@ A Parte Constituída revê sua Carta do Sistema ou Carta Institucional conforme 
   - cada cargo abrangido continua ocupado pelo senciente nomeado na declaração;
   - continuam sendo os mesmos os sencientes que podem dar instruções, financiar, substituir ou recompensar cada titular e que a declaração descreve;
   - a remuneração e as demais recompensas de cada titular continuam correspondendo ao que a declaração descreve; e
-  - cada titular ainda dispõe de uma via efetiva para recusar uma instrução ilegal ou inconstitucional ([Capítulo Um §17.5 Dever de resistir](../../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) e fazer um relato protegido de suspeita razoável de não conformidade constitucional, dano material, falha de segurança ou verdade, corrupção, captura, abuso, retaliação ou obstrução de revisão obrigatória ([Relato Protegido (denúncia)](../../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)).
+  - cada titular ainda dispõe de uma via efetiva para recusar uma instrução ilegal ou inconstitucional ([Capítulo Um §17.5 Dever de resistir](../../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) e fazer um relato protegido de suspeita razoável de não conformidade constitucional, dano material, falha de segurança ou verdade, corrupção, captura, abuso, retaliação ou obstrução de revisão obrigatória ([Relato Protegido (denúncia)](../../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)).
 
 <a id="74-adding-retiring-or-merging-systems"></a>
 #### 7.4 Adicionar, aposentar ou fundir Sistemas
@@ -1057,7 +1057,7 @@ Quando uma Carta do Sistema ou Carta Institucional divergir materialmente do que
 
 - **Formas de resolver:** emendar o documento, corrigir a prática, fazer nova certificação ou reduzir o escopo para que corresponda ao documento.
 - **O que não resolve:** ampliar o escopo em silêncio ou manter o documento inalterado.
-- **Revisão da certificação:** uma divergência material também aciona nova revisão, pelo fórum, da certificação daquele Sistema ou Instituição. Não é preciso esperar a próxima revisão programada. Para um Sistema, veja [Capítulo Nove Parte B §9 Recertificação e reabertura](../../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening). Para uma Instituição, veja [Capítulo Nove Parte D §14.2 Critérios para reabertura](../../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers). A certificação lê o escopo declarado e o compara com os limites reais. Não reescreve o documento; a certificação institucional cita cada Registro de Certificação do Sistema incluído sem refazê-lo ([Capítulo Nove Parte D](../../../core_09.020_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
+- **Revisão da certificação:** uma divergência material também aciona nova revisão, pelo fórum, da certificação daquele Sistema ou Instituição. Não é preciso esperar a próxima revisão programada. Para um Sistema, veja [Capítulo Nove Parte B §9 Recertificação e reabertura](../../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening). Para uma Instituição, veja [Capítulo Nove Parte D §14.2 Critérios para reabertura](../../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers). A certificação lê o escopo declarado e o compara com os limites reais. Não reescreve o documento; a certificação institucional cita cada Registro de Certificação do Sistema incluído sem refazê-lo ([Capítulo Nove Parte D](../../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
 - **Onde resolver uma controvérsia:** fóruns institucionais ouvem controvérsias sobre o escopo da Carta Institucional, a autoridade para emendá-la, divergência entre ela e a conduta ou operação fora do escopo declarado ([Capítulo Treze §4.3 Fóruns institucionais](../../../core_13.000_forum.md#43-institutional-forums)).
 
 <a id="76-keeping-old-versions"></a>

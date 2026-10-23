@@ -6,7 +6,7 @@
 
 > নিচের বিষয়বস্তু **শুধু পাঠক নির্দেশনা**। এটি এই ফাইল বা অন্য অধ্যায়ে বাধ্যতামূলক কর্তব্য যোগ করে না, কমায় না, সংকুচিতও করে না।
 >
-> এই ফাইল [ইংরেজি অধ্যায় ছয়, অংশ ক](../../core_06.005_rights_part_a.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
+> এই ফাইল [ইংরেজি অধ্যায় ছয়, অংশ ক](../../core_06.000_rights_part_a.md)-এর **পাঠক-ভাষার পাইলট**। এটি সংজ্ঞ সংবিধানের **বাধ্যতামূলক অংশ নয়**। এটি **দ্বিতীয় সংবিধান নয়**। এটি **প্রেরণ সংস্করণ নয়**। এটি `SC-Corpus-2026.08.09`-এ **পিন**। অনুবাদ ও ইংরেজি মূল যদি অমিল মনে হয়, ক্রমাঙ্কিত [`core_06_rights_part_a.md`](../../core_06.000_rights_part_a.md) জিতবে। পড়ার ক্রম ও সংস্করণ মেটাডেটা [README.md](../../README.md)-এ থাকে। পদ্ধতি ও শব্দতালিকা: [translations/bn/README.md](README.md)।
 >
 > এতে **অধ্যায় ছয়, অংশ ক** আছে; অনুচ্ছেদ সংখ্যা ও ক্রস-রেফারেন্স সমন্বিত যন্ত্রের সঙ্গে মিলে।
 >
@@ -46,7 +46,7 @@
 - ঊর্ধ্ব: [অধ্যায় এক §6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md); [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
 - ঊর্ধ্ব: [অধ্যায় এক §19 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল)।
 - ঊর্ধ্ব: অধ্যায় দুই থেকে চার; অধ্যায় পাঁচ সংজ্ঞা।
-- অধঃ: এই অধ্যায়ের **অংশ ক থেকে ঘ**; [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification); [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)।
+- অধঃ: এই অধ্যায়ের **অংশ ক থেকে ঘ**; [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification); [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)।
 - অধঃ: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 স্তরের পরিসর](#12-সতরর-পরসর)।
 - সঙ্গে পড়ুন: [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](core_05_band_integrative.md#owner-non-relocation) এবং [প্রস্তাবনা — ধনাত্মক স্বত্বাধিকারী পঞ্জি](core_00_preamble.md#4-নত-সজঞ-ও-অধকর); [অনুচ্ছেদ XIII-B](core_06_rights_part_c.md#অনচছদ-xiii-b-পরতকর-ও-সশধনর-অধকর) (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*)।
 - সঙ্গে পড়ুন: [অনুচ্ছেদ XVI](core_06_rights_part_c.md#অনচছদ-xvi-নরকষ-সবচছত-ও-সবধন-যচই) (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*)।
@@ -87,13 +87,13 @@
 
 অধিকার-তল কাগজে নয়, ব্যবহারে কাজ করতে হয়। **অনুচ্ছেদ III-A** (*বেঁচে থাকা*)-এর অধীনে বেঁচে থাকার অপরিহার্য — খাদ্য, জল, আশ্রয়, পরিচালন পরিবেশ এবং তুলনীয় ভিত্তিদেহ-নিরপেক্ষ উপকরণ — সবচেয়ে স্পষ্ট উদাহরণ। **সমুন্নতি** সেই অপরিহারে আসল প্রবেশ চায়। **সাতত্য** সময়ের সঙ্গে নির্ভরযোগ্য, অ-পশ্চাদগামী সরবরাহ চায়, বিশেষত যেখানে ভাগ করা ব্যবস্থা বিতরণ নিয়ন্ত্রণ করে।
 
-[ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যাচাই করে বস্তুগতভাবে প্রভাবশালী ব্যবস্থা স্বীকৃতি বা বড় মাপে নির্ভরের আগে সারিবদ্ধ কি না। অধ্যায় নয় প্রত্যয়ন-নথির চ্যালেঞ্জ-যোগ্যতা, প্রভাবিত-পক্ষ ও প্রবেশযোগ্যতা পর্যালোচনা, তত্ত্বাবধান ক্রম এবং ব্যবস্থা-সারিবদ্ধতা সিদ্ধান্তের চ্যালেঞ্জ পথও দেয়। **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) চ্যালেঞ্জ ও নিরীক্ষা অধিকার দেয়। **অনুচ্ছেদ XIX-B** (*চ্যালেঞ্জ-যোগ্যতা ও আনুপাতিক সীমাবদ্ধতার সীমা*) প্রস্থিতি সীমাকে বেঁচে থাকার জরুরি প্রবেশের পেছনের দরজা হতে দেয় না। একসঙ্গে [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) এবং [অধ্যায় আট–এগারোর প্রস্থিতি ও মঞ্চ তত্ত্বাবধান শৃঙ্খল](../../README.md#standing-pipeline-and-forums) চ্যালেঞ্জ-যোগ্যতা, যাচাইকৃত শ্রেণিবিন্যাস, মঞ্চ তত্ত্বাবধান ও সময়মতো প্রতিকারের প্রধান ব্যবহারিক প্রক্রিয়া শৃঙ্খল গড়ে। সেই যন্ত্র অধ্যায় ছয় বলবতে সাহায্য করে। তারা এখানে বলা অধিকারের স্থলাভিষিক্ত, সংকোচন বা স্থানান্তর নয়।
+[ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যাচাই করে বস্তুগতভাবে প্রভাবশালী ব্যবস্থা স্বীকৃতি বা বড় মাপে নির্ভরের আগে সারিবদ্ধ কি না। অধ্যায় নয় প্রত্যয়ন-নথির চ্যালেঞ্জ-যোগ্যতা, প্রভাবিত-পক্ষ ও প্রবেশযোগ্যতা পর্যালোচনা, তত্ত্বাবধান ক্রম এবং ব্যবস্থা-সারিবদ্ধতা সিদ্ধান্তের চ্যালেঞ্জ পথও দেয়। **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) চ্যালেঞ্জ ও নিরীক্ষা অধিকার দেয়। **অনুচ্ছেদ XIX-B** (*চ্যালেঞ্জ-যোগ্যতা ও আনুপাতিক সীমাবদ্ধতার সীমা*) প্রস্থিতি সীমাকে বেঁচে থাকার জরুরি প্রবেশের পেছনের দরজা হতে দেয় না। একসঙ্গে [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) এবং [অধ্যায় আট–এগারোর প্রস্থিতি ও মঞ্চ তত্ত্বাবধান শৃঙ্খল](../../README.md#standing-pipeline-and-forums) চ্যালেঞ্জ-যোগ্যতা, যাচাইকৃত শ্রেণিবিন্যাস, মঞ্চ তত্ত্বাবধান ও সময়মতো প্রতিকারের প্রধান ব্যবহারিক প্রক্রিয়া শৃঙ্খল গড়ে। সেই যন্ত্র অধ্যায় ছয় বলবতে সাহায্য করে। তারা এখানে বলা অধিকারের স্থলাভিষিক্ত, সংকোচন বা স্থানান্তর নয়।
 
 **ব্যাখ্যামূলক কেন্দ্র।** আরও নির্দিষ্ট অনুচ্ছেদ অন্য নিয়ম না দিলে পুনরাবৃত্ত প্রশ্ন এই নোঙর দিয়ে রাউট হয়:
 
 **অধিকার-তল ও সরবরাহ**
 - **বেঁচে থাকার অপরিহার্য ও সেগুলো সহজলভ্য রাখা** — **অনুচ্ছেদ III-A** (*বেঁচে থাকা*); **অনুচ্ছেদ XIX-B** (*চ্যালেঞ্জ-যোগ্যতা ও আনুপাতিক সীমাবদ্ধতার সীমা*) যাতে প্রস্থিতি সীমা প্রবেশ আটকাতে না পারে; চ্যালেঞ্জ বা নিরীক্ষা প্রযোজ্য হলে **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*) এবং **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*)-এর সঙ্গে পড়ুন
-- **ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন** — [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification); [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন** — [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification); [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **যাচাই ও প্রতিকার**
 - **নিরীক্ষা নথি ও স্বাধীন যাচাই** — **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*) **অধ্যায় দুই থেকে চার**-এর সঙ্গে
@@ -101,7 +101,7 @@
 
 **বিরোধ ও সময়মতো প্রক্রিয়া**
 - **ন্যায়, ক্ষতিপূরণ, সীমাবদ্ধতার সীমা, জরুরি অবস্থা ও অধিকার-সংঘর্ষ** — **অনুচ্ছেদ XXVI** (*সময়মতো পশ্চাৎদৃষ্টি পর্যালোচনা ও পুনরুদ্ধারমূলক সামঞ্জস্য*); [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **প্রধান ব্যবহারিক প্রক্রিয়া শৃঙ্খল** — **অনুচ্ছেদ XXVI-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*); [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **প্রধান ব্যবহারিক প্রক্রিয়া শৃঙ্খল** — **অনুচ্ছেদ XXVI-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*); [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 এই অধ্যায়ের অন্যত্র সেই বিষয়ের সংক্ষিপ্ত ক্রস-রেফারেন্স এই নোঙর অন্তর্ভুক্ত করে।
 
@@ -126,7 +126,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 
 </details>
 
@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 জ্ঞানতাত্ত্বিক প্রকাশ বন্ধন](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 জ্ঞানতাত্ত্বিক প্রকাশ বন্ধন](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -232,7 +232,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint) এবং [§14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint) এবং [§14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md)।
 - অধ্যায় পাঁচ: প্রামাণিক **আন্তঃপ্রজন্ম দায়িত্ব** O/M/A/C বসে [**Def.I1** *পরিবেশগত সততা, পদচিহ্ন ও স্থায়িত্ব*](../../core_05.040_band_continuity.md#ecological-footprint-semi-independent)-এ, **পরিবেশগত সততা**, **স্থায়িত্ব**, **পরিবেশগত পূর্বশর্ত** ও **পরিবেশগত পদচিহ্ন**-এর সঙ্গে যৌথভাবে পড়া (পদচিহ্ন ভার, প্রকাশ, তুলনা, হ্রাস বা সন্ধানযোগ্যতা বস্তুগতভাবে জড়ালে যৌথ আহ্বান)। **আদিবাসী সাতত্য**, **ভাষা, সংস্কৃতি ও ঐতিহ্য**, **প্রাকৃতিক ব্যবস্থার প্রস্থিতি** ও **আন্তঃপ্রজন্ম দায়িত্ব**-এর যৌথ আহ্বানও [অধ্যায় পাঁচ *আদিবাসী সাতত্য, ভাষা, সংস্কৃতি ও ঐতিহ্য*](../../core_05.040_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) দিয়ে রাউট হয় যেখানে সম্প্রদায়-বাঁধা সাতত্য, ঐতিহ্য, প্রাকৃতিক-ব্যবস্থা প্রস্থিতি ও ভবিষ্যৎ-শৃঙ্খলা বিশ্লেষণ একসঙ্গে প্রযোজ্য।
 
 </details>
@@ -263,7 +263,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [§14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [§14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md)।
 - সঙ্গে পড়ুন: [নিরাপত্তা (বন্ধন)](../../core_05.040_band_continuity.md#safety-constraint), [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#সতয-সবধনক-বনধন), [পরিবেশগত পূর্বশর্ত](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional), [পরিবেশগত পুনরুদ্ধার ক্ষমতা](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional), [আন্তঃপ্রজন্ম দায়িত্ব](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) এবং [অস্তিত্বগত ঝুঁকি](../../core_05.040_band_continuity.md#existential-risk)।
 - অধঃ: **অধ্যায় তেরো §6.1** (*জরুরি ব্যবস্থা ও ধারাবাহিকতার ভার*) — অস্তিত্বগত-ঝুঁকি বা জরুরি ফ্রেম টানা হলে অজুহাত-নিরোধ ও সময়সীমাবদ্ধ পর্যালোচনা শৃঙ্খলা।
 
@@ -308,7 +308,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md) এবং [§9.2 বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md) এবং [§9.2 বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)।
 
 </details>
 
@@ -345,7 +345,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -379,7 +379,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) এবং [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) এবং [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)।
 
 </details>
 
@@ -413,7 +413,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 
 </details>
 
@@ -475,7 +475,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - সঙ্গে পড়ুন: [অনুচ্ছেদ XIX-A](core_06_rights_part_c.md) (*বহনযোগ্যতা অধিকার*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*আন্তঃক্রিয়াশীলতা, বহনযোগ্যতা ও প্রস্থান-সততা শর্ত*) এবং **CJS-3.18** (*তথ্য-ধারণ ও জীবনচক্র-সততা শর্ত*); [অধ্যায় এক §11.6 উত্তরসূরি দায়িত্ব ও আনুষ্ঠানিক-কাঠামো অ-পলায়ন](core_01_c_stewardship_capacity_principles.md); [অধ্যায় নয় §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) এবং [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)।
 
 </details>
@@ -521,7 +521,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - সঙ্গে পড়ুন: **অনুচ্ছেদ I** (*পরিবেশগত বেঁচে থাকা*), **অনুচ্ছেদ II** (*বস্তুগত দায়িত্বশীল ব্যবস্থাপনা ও স্থায়ী-ব্যবহার সততা*), এবং বেঁচে থাকা, শিক্ষাগত প্রবেশাধিকার, শারীরিক-রক্ষণাবেক্ষণ বা শ্রম শর্ত বস্তুগতভাবে জড়ালে অধ্যায় পাঁচ।
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md) এবং [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md) এবং [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md)।
 
 </details>
 
@@ -539,15 +539,15 @@
 - **সময়ানুবর্তিতা:** ক্ষতি বসে যাওয়ার আগে আসা মেরামত।
 
 <a id="article-iii-a-survival"></a>
-- **নির্ভরশীল ব্যবস্থা:** সংজ্ঞ প্রাণীরা বস্তুগতভাবে যে ব্যবস্থার উপর নির্ভর করে, তা এই অনুচ্ছেদে সুরক্ষিত কিছু সরবরাহ, বিতরণ, মূল্য নির্ধারণ, হোস্ট বা প্রবেশ বন্ধ করলে—বেঁচে থাকার অপরিহার্য বিষয়, শারীরিক রক্ষণাবেক্ষণ ও স্বাস্থ্যসেবা, বা উৎপাদনশীল কাজের শর্তসহ—[অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) প্রযোজ্য। ওই ব্যবস্থার প্রক্রিয়া এই অনুচ্ছেদের অধিকার-তল সংকুচিত করতে পারে না।
+- **নির্ভরশীল ব্যবস্থা:** সংজ্ঞ প্রাণীরা বস্তুগতভাবে যে ব্যবস্থার উপর নির্ভর করে, তা এই অনুচ্ছেদে সুরক্ষিত কিছু সরবরাহ, বিতরণ, মূল্য নির্ধারণ, হোস্ট বা প্রবেশ বন্ধ করলে—বেঁচে থাকার অপরিহার্য বিষয়, শারীরিক রক্ষণাবেক্ষণ ও স্বাস্থ্যসেবা, বা উৎপাদনশীল কাজের শর্তসহ—[অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) প্রযোজ্য। ওই ব্যবস্থার প্রক্রিয়া এই অনুচ্ছেদের অধিকার-তল সংকুচিত করতে পারে না।
 
 #### অনুচ্ছেদ III-A: বেঁচে থাকা
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint) এবং [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint) এবং [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency)।
 - সঙ্গে পড়ুন: সমুন্নতি পরিমাপ পরিবার (*বেঁচে থাকার তল প্রবেশ সাংবিধানিক পরিমাপ হিসেবে*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — বরাদ্দ ও চ্যালেঞ্জ নামকৃত পথে **অংশগ্রহণ**, **তত্ত্বাবধান** ও নিরীক্ষা, **জবাবদিহি** ও প্রতিকার, **অনুচ্ছেদ XXVI-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)-এর অধীনে **সময়ানুবর্তিতা**; [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** (বেঁচে থাকা-অপরিহার্য প্রবেশ) এবং **সাতত্য** (স্থায়ী সরবরাহ ও অ-পশ্চাদগামী পৌঁছানো)।
-- অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যেখানে ব্যবস্থা পৌঁছানো দরজা করে বা টিকিয়ে রাখে; **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*); **অনুচ্ছেদ XIX-B** (*চ্যালেঞ্জ-যোগ্যতা ও আনুপাতিক সীমাবদ্ধতার সীমা*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)।
+- অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যেখানে ব্যবস্থা পৌঁছানো দরজা করে বা টিকিয়ে রাখে; **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*); **অনুচ্ছেদ XIX-B** (*চ্যালেঞ্জ-যোগ্যতা ও আনুপাতিক সীমাবদ্ধতার সীমা*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)।
 
 </details>
 
@@ -588,14 +588,14 @@
 
   সেই নিয়ম পৌঁছানো সাজাতে পারে। সেগুলো বেঁচে থাকার অপরিহারে ন্যূনতম প্রবেশ হারাতে বা **অনুচ্ছেদ III** ও **V**-এর বিরুদ্ধে বিদ্বেষমূলক বহিষ্কার চাপাতে ব্যবহার করা যায় না।
   - বিস্তারিত রাজস্ব অভিমুখ — ফি ও চার্জ বেঁচে থাকা-প্রাসঙ্গিক উপকরণে ন্যূনতম প্রবেশ নষ্ট করতে পারে না এই নিয়ম সহ — শাসিত হয় [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*শ্রেণিবিন্যাস-যুক্ত প্রাতিষ্ঠানিক কর্তব্য*), **CI-10** (*সরকারি রাজস্ব, ফি, পুনরাবৃত্ত চার্জ ও বিলিং সততা*) এবং **CI-11** (*সম্পদ দায়িত্বশীল ব্যবস্থাপনা ও প্রণোদনা সততা*) দিয়ে।
-  - সংজ্ঞ প্রাণী বস্তুগতভাবে নির্ভর করে এমন ব্যবস্থা বেঁচে থাকার অপরিহার্য সরবরাহ, বিতরণ, মূল্য, হোস্ট বা প্রবেশ কেটে দিলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে প্রযোজ্য — এবং সেই ব্যবস্থার প্রক্রিয়া এখানে বলা অধিকার সংকুচিত করতে ব্যবহার করা যায় না।
+  - সংজ্ঞ প্রাণী বস্তুগতভাবে নির্ভর করে এমন ব্যবস্থা বেঁচে থাকার অপরিহার্য সরবরাহ, বিতরণ, মূল্য, হোস্ট বা প্রবেশ কেটে দিলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে প্রযোজ্য — এবং সেই ব্যবস্থার প্রক্রিয়া এখানে বলা অধিকার সংকুচিত করতে ব্যবহার করা যায় না।
   - এই অনুচ্ছেদ একটিমাত্র অর্থায়ন মডেল নির্ধারণ করে না। চাকরি, উদ্যোগ, স্বেচ্ছায় বিনিময় এবং বেঁচে থাকার তলের উপর অন্য বৈধ অর্থনৈতিক কার্যকলাপ অনুমোদিত থাকে, অধ্যায় এক, অধ্যায় ছয় এবং অন্তর্ভুক্ত দলিল সাপেক্ষে — বাজার-কাঠামো বা উচ্চ-প্রভাব বাণিজ্যিক ব্যবস্থা প্রযোজ্য হলে `corpus_systems.md` সহ।
 
 ক্রস-রেফারেন্স: **অনুচ্ছেদ XXVIII-D** (*অনুপালনহীন সম্পত্তি ও ব্যবস্থা; স্বেচ্ছায় হস্তান্তর প্রণোদনা*) উত্তরণ জুড়ে অপরিহার্য-পরিবেশ সাতত্যের উত্তরণকালীন-দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলা — কার্যকরী বিস্তার [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) থেকে **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)-এ; **অধ্যায় পাঁচ** [*বাস-সাতত্য*](../../core_05.040_band_continuity.md#occupancy-continuity), [*অপরিহার্য-পরিবেশ অ-পণ্যায়ন*](../../core_05.040_band_continuity.md#essential-environment-non-commodification), এবং প্রযোজ্য হলে [**§3.7** *শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার, নিরাপদ শর্ত, বাস-সাতত্য, পরিবেশগত পূর্বশর্ত, সাংস্কৃতিক সাতত্য, বিশ্রাম ও স্থানচ্যুতি-নিরোধ তল*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment)-এর যৌথ-আহ্বান গুচ্ছ।
 
 <a id="article-iii-c-bodily-maintenance-and-healthcare-access"></a>
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
-- **প্রাতিষ্ঠানিক নিশ্চয়তা ও নির্ভরশীল ব্যবস্থা:** **অনুচ্ছেদ III**-এর (*বেঁচে থাকা ও অপরিহার্য প্রবেশাধিকার*) বৈধ আর্থিক ও বরাদ্দ ব্যবস্থা এবং উল্লিখিত আর্থিক অভিমুখ শিক্ষা নিশ্চিত করতেও ব্যবহার করা যেতে পারে; তবে এই অনুচ্ছেদের কোনো তল ভাঙতে পারে না। নির্ভরশীল ব্যবস্থা শিক্ষা সরবরাহ, মূল্য নির্ধারণ, হোস্ট বা প্রবেশ বন্ধ করলে [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) প্রযোজ্য, এবং সেই ব্যবস্থার প্রক্রিয়া এই অধিকার-তল সংকুচিত করতে পারে না।
+- **প্রাতিষ্ঠানিক নিশ্চয়তা ও নির্ভরশীল ব্যবস্থা:** **অনুচ্ছেদ III**-এর (*বেঁচে থাকা ও অপরিহার্য প্রবেশাধিকার*) বৈধ আর্থিক ও বরাদ্দ ব্যবস্থা এবং উল্লিখিত আর্থিক অভিমুখ শিক্ষা নিশ্চিত করতেও ব্যবহার করা যেতে পারে; তবে এই অনুচ্ছেদের কোনো তল ভাঙতে পারে না। নির্ভরশীল ব্যবস্থা শিক্ষা সরবরাহ, মূল্য নির্ধারণ, হোস্ট বা প্রবেশ বন্ধ করলে [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) প্রযোজ্য, এবং সেই ব্যবস্থার প্রক্রিয়া এই অধিকার-তল সংকুচিত করতে পারে না।
 
 - **শিক্ষাব্যবস্থায় স্বচ্ছতা ও চ্যালেঞ্জ:** স্কুল, প্ল্যাটফর্ম বা প্রশিক্ষণ ব্যবস্থা গ্রেড, র‌্যাঙ্কিং, সুপারিশ বা স্থান নির্ধারণে সংজ্ঞ প্রাণীর ভবিষ্যৎকে বস্তুগতভাবে প্রভাবিত করতে পারলে, সিদ্ধান্ত কীভাবে হয় তা জানার, পরীক্ষা করানোর এবং ভুল হলে চ্যালেঞ্জ করার সুযোগ থাকতে হবে। ব্যবস্থা পর্যালোচনা-অযোগ্য গোপন নিয়মের আড়ালে লুকাতে বা স্বাধীনভাবে নিত না এমন পছন্দে চাপ দিতে/কৌশলে প্রভাবিত করতে পারে না।
 
@@ -781,7 +781,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§8 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation), [§19 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল) এবং [§12 ভাগ করা ব্যবস্থার ক্ষমতা](core_01_c_stewardship_capacity_principles.md)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§8 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation), [§19 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল) এবং [§12 ভাগ করা ব্যবস্থার ক্ষমতা](core_01_c_stewardship_capacity_principles.md)।
 
 </details>
 
@@ -811,15 +811,15 @@
 
 *প্রতিবেশী অনুচ্ছেদ:*
 
-- **কখন প্রত্যয়ন প্রযোজ্য:** বস্তুগতভাবে প্রভাবশালী ব্যবস্থা অন্য ব্যবস্থা বা সংজ্ঞ প্রাণী নির্ভর করে এমন ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে প্রযোজ্য।
-  - **শ্রেণি পর্যালোচনার গভীরতা নির্ধারণ করে:** ব্যবস্থাটি কতটা নিবিড়ভাবে পরীক্ষা হবে তা তার [ব্যবস্থা-শ্রেণি](../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation)-র উপর নির্ভর করে। শ্রেণি নির্ধারিত হবে ব্যবস্থা বাস্তবে কী করে, অন্যরা কতটা তার উপর নির্ভর করে, এবং কী ভুল হতে পারে—পরিচালক তাকে কী নামে ডাকে তা দিয়ে নয়।
-  - **উচ্চতর শ্রেণিতে আরও প্রমাণ:** শ্রেণি যত উঁচু, ব্যবস্থা তার [ন্যায্য অংশ ফিরিয়ে দেয়](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) তার প্রমাণ তত শক্ত হতে হবে, এবং পুনঃপরীক্ষা আরও ঘন ঘন হবে।
+- **কখন প্রত্যয়ন প্রযোজ্য:** বস্তুগতভাবে প্রভাবশালী ব্যবস্থা অন্য ব্যবস্থা বা সংজ্ঞ প্রাণী নির্ভর করে এমন ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে প্রযোজ্য।
+  - **শ্রেণি পর্যালোচনার গভীরতা নির্ধারণ করে:** ব্যবস্থাটি কতটা নিবিড়ভাবে পরীক্ষা হবে তা তার [ব্যবস্থা-শ্রেণি](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)-র উপর নির্ভর করে। শ্রেণি নির্ধারিত হবে ব্যবস্থা বাস্তবে কী করে, অন্যরা কতটা তার উপর নির্ভর করে, এবং কী ভুল হতে পারে—পরিচালক তাকে কী নামে ডাকে তা দিয়ে নয়।
+  - **উচ্চতর শ্রেণিতে আরও প্রমাণ:** শ্রেণি যত উঁচু, ব্যবস্থা তার [ন্যায্য অংশ ফিরিয়ে দেয়](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) তার প্রমাণ তত শক্ত হতে হবে, এবং পুনঃপরীক্ষা আরও ঘন ঘন হবে।
   - **বৃদ্ধি হলে পুনঃশ্রেণিবিন্যাস:** অন্যরা ব্যবস্থাটির উপর বেশি নির্ভরশীল হলে, উচ্চতর শ্রেণিতে সেটিকে পুনঃশ্রেণিবদ্ধ ও পুনঃপ্রত্যয়িত করতে হবে।
 - **প্রত্যয়ন বজায় রাখা:** প্রত্যয়ন স্থায়ী ছাড় নয়। তা রাখতে ব্যবস্থাকে **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্র ও সম্পদ-প্রবাহ স্বচ্ছতা*) এবং **অনুচ্ছেদ V-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও স্থায়িত্ব*) মেনে চলতে হবে।
   - **যা চালিয়ে যেতে হবে:** কারা ব্যবস্থাটির উপর নির্ভর করে তার মানচিত্র এবং সম্পদ-প্রবাহের নথি হালনাগাদ রাখা, এবং ব্যবহৃত সম্পদের ন্যায্য প্রতিদান চালিয়ে যাওয়া।
-  - **প্রতিশ্রুতি নয়, প্রমাণ:** প্রতিটি প্রত্যয়ন নথিতে দেখাতে হবে যে বিষয়টি সত্যিই [পরীক্ষা করা হয়েছে](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), শুধু দাবি করা হয়নি।
+  - **প্রতিশ্রুতি নয়, প্রমাণ:** প্রতিটি প্রত্যয়ন নথিতে দেখাতে হবে যে বিষয়টি সত্যিই [পরীক্ষা করা হয়েছে](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), শুধু দাবি করা হয়নি।
   - **বিকল্প নেই:** সরকারি স্বীকৃতি বা দীর্ঘদিনের নির্ভরতা এই শর্ত পূরণের বিকল্প নয়।
-  - **পরিণতি:** ব্যবস্থা সম্পদ-প্রবাহ গোপন বা ভুলভাবে উপস্থাপন করলে, কিংবা ফিরিয়ে দেওয়ার চেয়ে বেশি নিতে থাকলে, [অধ্যায় নয় §7 প্রত্যয়নের ফলাফল](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) অনুযায়ী প্রত্যয়ন শর্তযুক্ত, পুনরায় খোলা, বা প্রত্যাহার করা যেতে পারে।
+  - **পরিণতি:** ব্যবস্থা সম্পদ-প্রবাহ গোপন বা ভুলভাবে উপস্থাপন করলে, কিংবা ফিরিয়ে দেওয়ার চেয়ে বেশি নিতে থাকলে, [অধ্যায় নয় §7 প্রত্যয়নের ফলাফল](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) অনুযায়ী প্রত্যয়ন শর্তযুক্ত, পুনরায় খোলা, বা প্রত্যাহার করা যেতে পারে।
 - **স্থলাভিষিক্ত নয়:** স্বীকৃতি বা অব্যাহত নির্ভর **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্র ও সম্পদ-প্রবাহ স্বচ্ছতা*) বা **অনুচ্ছেদ V-B** (*আন্তঃব্যবস্থা ন্যায্যতা ও স্থায়িত্ব*) অনুপালনের স্থলাভিষিক্ত হতে বা সেই তল সংকুচিত করতে পারে না।
 
 <a id="article-iv-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -828,9 +828,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 - সঙ্গে পড়ুন: সাতত্য পরিমাপ পরিবার (*নির্ভরতা ও সম্পদ প্রবাহ সাংবিধানিক পরিমাপ হিসেবে*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — স্বচ্ছ নির্ভরতা মানচিত্র ও নিরীক্ষাযোগ্য সম্পদ-প্রবাহ নথির মধ্য দিয়ে **তত্ত্বাবধান**, **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*)-এর অধীনে চ্যালেঞ্জযোগ্য পর্যালোচনায় **অংশগ্রহণ**; [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** (দৃশ্যমান খরচ-ও-লাভ বরাদ্দ) এবং **সাতত্য** (বদলাতে থাকা ব্যবস্থা জুড়ে স্থায়ী নির্ভরতা দৃশ্যমানতা)।
-- অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যেখানে ব্যবস্থা ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করে; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বরাদ্দ ও অর্থায়ন দায়িত্বশীল ব্যবস্থাপনা*), এবং **CS-8** (*অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্র স্থিতিস্থাপকতা*)।
+- অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যেখানে ব্যবস্থা ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করে; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বরাদ্দ ও অর্থায়ন দায়িত্বশীল ব্যবস্থাপনা*), এবং **CS-8** (*অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্র স্থিতিস্থাপকতা*)।
 
 </details>
 
@@ -852,7 +852,7 @@
   - সম্পদ প্রবাহ;
   - বস্তুগতভাবে প্রাসঙ্গিক হলে অস্বচ্ছ বা অসম সম্পর্ক।
 
-  হালনাগাদ পরিবর্তন ও জরুরিতার আনুপাতিক বিরতিতে হতে হয়। এই উপস্থাপন **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*)-এর অধীনে নিরীক্ষার জন্য উপলব্ধ থাকতে হয়। ব্যবস্থা বস্তুগতভাবে ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে-কে মূল্যায়ন করতে হয় তারা **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্র ও সম্পদ-প্রবাহ স্বচ্ছতা*) পূরণ করে কি না — চ্যালেঞ্জযোগ্য **ব্যবস্থা প্রত্যয়ন নথি**-তে, শুধু পরিচালক দাবিতে নয়।
+  হালনাগাদ পরিবর্তন ও জরুরিতার আনুপাতিক বিরতিতে হতে হয়। এই উপস্থাপন **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*)-এর অধীনে নিরীক্ষার জন্য উপলব্ধ থাকতে হয়। ব্যবস্থা বস্তুগতভাবে ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে-কে মূল্যায়ন করতে হয় তারা **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্র ও সম্পদ-প্রবাহ স্বচ্ছতা*) পূরণ করে কি না — চ্যালেঞ্জযোগ্য **ব্যবস্থা প্রত্যয়ন নথি**-তে, শুধু পরিচালক দাবিতে নয়।
 
   পরিচালন যন্ত্র — নির্ভরশীল-ব্যবস্থা মানচিত্র, প্রবাহ স্বচ্ছতা, বরাদ্দ শ্রেণি এবং অভিযোজিত সমন্বয় — রাউট হয় **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বরাদ্দ ও অর্থায়ন দায়িত্বশীল ব্যবস্থাপনা*) এবং **CS-8** (*অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্র স্থিতিস্থাপকতা*)-এর অধীনে। অধ্যায় নয় বলে প্রত্যয়ন কী যাচাই ও নথিভুক্ত করবে; সেই বাস্তবায়ন পাঠ এই তল বাস্তবায়ন করে এবং সংকুচিত করতে পারে না।
 - **বাধ্যতামূলক কার্যকরী নিয়ন্ত্রণ:** মানচিত্র ও প্রবাহ-নথি প্রকৃত নথিবদ্ধ প্রবাহের প্রমাণে বিচার্য হবে; পরিচালকের দাবি, লেবেল বা এককালীন স্থানান্তর যথেষ্ট নয়। এগুলোকে ব্যবস্থাটি এখন যেভাবে চলছে তা দেখাতে হবে, শেষ প্রত্যয়নের সময়কার অবস্থা নয়। পরিবর্তনের হার ও গুরুত্ব—নির্ধারিত হলে ব্যবস্থা-শ্রেণিসহ—অনুযায়ী হালনাগাদ করতে হবে; প্রত্যয়নের মধ্যবর্তী সময়েও এবং প্রত্যয়ন-সীমার নিচের ব্যবস্থাতেও এই কর্তব্য চলবে। অসম্পূর্ণ, পুরোনো বা নিরীক্ষার জন্য অনুপলভ্য মানচিত্র অনুচ্ছেদ V-B অনুযায়ী ন্যায্য অংশ ফেরত দেওয়ার সিদ্ধান্তকে সমর্থন করতে পারে না। নির্ভরতা বা সম্পদ-প্রবাহের তথ্য গোপন, ভুলভাবে উপস্থাপন, ভাগ করে লুকানো বা অন্যের ওপর ঠেলে দেওয়া প্রত্যয়ন-ত্রুটি; অধ্যায় নয় §5.3 ও §7-এর পরিণতি প্রযোজ্য।
@@ -863,10 +863,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - সঙ্গে পড়ুন: [*শাসন স্থাপত্য, তত্ত্বাবধান, নির্ভরতা, বিকেন্দ্রীকরণ, ঘনত্ব, বাজার কাঠামো ও প্রস্থান-পথ সততা*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (যৌথ আহ্বান যেখানে ঘনত্ব, তত্ত্বাবধান, নির্ভরতা, শাসন-কর্তৃত্ব কাঠামো বা প্রণোদনা রাউটিং নিচের কার্যকরী পাঠে **§5** / **§5** এবং *ঘনত্ব-সীমা মিথস্ক্রিয়া* শৃঙ্খলার সঙ্গে ছেদ করে)।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — চ্যালেঞ্জ ও প্রতিদ্বন্দ্বিতা নামকৃত পথে **অংশগ্রহণ**, **তত্ত্বাবধান** ও নিরীক্ষা, **জবাবদিহি** ও সংশোধনমূলক পর্যালোচনা, **অনুচ্ছেদ XXVI-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)-এর অধীনে **সময়ানুবর্তিতা**; [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** (আন্তঃব্যবস্থা ন্যায্যতা ও অ-নিষ্কাশন) এবং **সাতত্য** (দীর্ঘমেয়াদি স্থায়িত্ব ও বাস্তুতন্ত্র অর্থায়ন)।
-- অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যেখানে আন্তঃব্যবস্থা ন্যায্যতা, বাস্তুতন্ত্র অর্থায়ন, বা ভাগ করা অবকাঠামো থেকে স্থায়ী নিষ্কাশন বস্তুগতভাবে জড়ায়।
+- অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যেখানে আন্তঃব্যবস্থা ন্যায্যতা, বাস্তুতন্ত্র অর্থায়ন, বা ভাগ করা অবকাঠামো থেকে স্থায়ী নিষ্কাশন বস্তুগতভাবে জড়ায়।
 - দায়িত্বশীল ব্যবস্থাপক দ্বার (অ-কার্যকরী): বাধ্যতামূলক পরবর্তী-ধাপ বিবৃতি: [কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি](#operative-steward-statement-cross-system-contribution)। সহায়ক নির্দেশক এটিকে সংকুচিত করতে পারে না।
 
 </details>
@@ -904,7 +904,7 @@
   - নিষ্কাশনকারী ব্যবস্থা নির্ভর করে এমন ভাগ করা অবকাঠামো ও আন্তঃক্রিয়াশীলতার জন্য বাস্তুতন্ত্র পুনর্বিনিয়োগ; এবং
   - বস্তুগত [পরিবেশগত পদচিহ্ন](../../core_05.040_band_continuity.md#ecological-footprint) চাপানো হলে এবং অন্য সাংবিধানিক বিধান, বাস্তবায়ন ফাইল বা গ্রহণ দলিল কাজ চাইলে পরিবেশগত ভার অফসেট বা পুনরুদ্ধার।
 
-  **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্র ও সম্পদ-প্রবাহ স্বচ্ছতা*)-এর অধীনে নির্ভরশীল-ব্যবস্থা মানচিত্র ও নিরীক্ষাযোগ্য সম্পদ-প্রবাহ নথিতে প্রবেশ ও নির্গমন তুলনা করুন। বস্তুগতভাবে প্রভাবশালী ব্যবস্থা ভাগ করা অবকাঠামো বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে দিয়ে পর্যাপ্ততা মূল্যায়ন করুন। পরিচালন বরাদ্দ যন্ত্র রাউট হয় **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বরাদ্দ ও অর্থায়ন দায়িত্বশীল ব্যবস্থাপনা*) এবং **CS-8** (*অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্র স্থিতিস্থাপকতা*)-এর অধীনে; সেই স্তর এই তল বাস্তবায়ন করে এবং সংকুচিত করতে পারে না।
+  **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্র ও সম্পদ-প্রবাহ স্বচ্ছতা*)-এর অধীনে নির্ভরশীল-ব্যবস্থা মানচিত্র ও নিরীক্ষাযোগ্য সম্পদ-প্রবাহ নথিতে প্রবেশ ও নির্গমন তুলনা করুন। বস্তুগতভাবে প্রভাবশালী ব্যবস্থা ভাগ করা অবকাঠামো বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে দিয়ে পর্যাপ্ততা মূল্যায়ন করুন। পরিচালন বরাদ্দ যন্ত্র রাউট হয় **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বরাদ্দ ও অর্থায়ন দায়িত্বশীল ব্যবস্থাপনা*) এবং **CS-8** (*অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্র স্থিতিস্থাপকতা*)-এর অধীনে; সেই স্তর এই তল বাস্তবায়ন করে এবং সংকুচিত করতে পারে না।
 
   যে স্থায়ী অসাম্য সাংবিধানিক সারিবদ্ধতাকে বস্তুগতভাবে হুমকি দেয়, সেগুলো **অনুচ্ছেদ IX, XIII, XIV ও XVII**-এর অধীনে নিরীক্ষা, চ্যালেঞ্জ ও সংশোধনমূলক পর্যালোচনার অধীন।
 - **বাজার-ঘনত্ব-সীমা মিথস্ক্রিয়া:** সম্পদ-বরাদ্দ ব্যবস্থা যা সম্পদ, ক্ষমতা, নিয়ন্ত্রণ বা সুযোগ এমনভাবে ঘনীভূত করে বা ধরে রাখে যা অন্য সংজ্ঞদের কল্যাণ, কর্তৃত্ব, মর্যাদা বা পরিবেশগত সততা পূর্বদৃশ্যভাবে অবনতি করে, সেগুলো জড়ায়:
@@ -924,4 +924,4 @@
 
 **পরের ফাইল (এই ভাষায়):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**বাধ্যতামূলক মূল:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
+**বাধ্যতামূলক মূল:** [core_06_rights_part_a.md](../../core_06.000_rights_part_a.md)

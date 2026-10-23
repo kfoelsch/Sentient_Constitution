@@ -7,7 +7,7 @@
 >
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains the **Preamble** (foundational requirements). Reading order and edition metadata are maintained in [README.md](README.md).
 >
-> **Next:** [core_01.005_values_principles.md](core_01.005_values_principles.md) (Chapter One, Part A — Values Principles).
+> **Next:** [core_01.000_values_principles.md](core_01.000_values_principles.md) (Chapter One, Part A — Values Principles).
 
 </details>
 
@@ -44,7 +44,7 @@ A system passes only if the answer to the first is yes and the answer to the sec
 
 - reporting a problem in good faith ([Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing))
 - contesting a decision
-- refusing to take part in wrongdoing ([Chapter One §17.5 Duty to Resist](core_01.015_stewardship_capacity_principles.md#175-duty-to-resist))
+- refusing to take part in wrongdoing ([Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist))
 
 The penalty can be sidelining, retaliation ([Protected Reporting Retaliation and Access Interference](core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference)), or being worn down.
 
@@ -57,13 +57,13 @@ The penalty can be sidelining, retaliation ([Protected Reporting Retaliation and
 - waste
 - unfair cost-shifting
 
-The reward can be recognition, advancement, protection, metric credit, or looking the other way ([Chapter One §3.2.6 Anti-Reward for Anti-Constitutional Conduct](core_01.005_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+The reward can be recognition, advancement, protection, metric credit, or looking the other way ([Chapter One §3.2.6 Anti-Reward for Anti-Constitutional Conduct](core_01.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
 
 Neither question is a demand to be agreeable. Honest dissent, good-faith reporting, and refusing to take part in wrongdoing are not anti-social. A system that treats them so has it backwards. Nor is either a popularity test. What counts as helping, harming, fair, or justified is judged by this Constitution's own standards. Those are [**Flourishing**](#flourishing) and [**Continuity**](#continuity), within Safety, Truth, Trust, and the Rights Floor. They are not whatever a majority, an operator, or a moment approves.
 
-The questions bind everyone who decides what a system rewards or penalizes. That includes operators, institutions, and stewards who set pay, promotion, access, targets, and ratings. It also includes the designers of systems that train or optimize AI, whose objectives and feedback signals are rewards in exactly this sense. Human and AI stewards stand under one standard ([Chapter One §17.1 Shared Stewardship Standard](core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+The questions bind everyone who decides what a system rewards or penalizes. That includes operators, institutions, and stewards who set pay, promotion, access, targets, and ratings. It also includes the designers of systems that train or optimize AI, whose objectives and feedback signals are rewards in exactly this sense. Human and AI stewards stand under one standard ([Chapter One §17.1 Shared Stewardship Standard](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-Chapter One turns the questions into rules for incentives: [Chapter One §19.1.1 What Incentives Must Do](core_01.015_stewardship_capacity_principles.md#1911-what-incentives-must-do) sits behind the first, and [Chapter One §19.1.2 What Incentives Must Not Do](core_01.015_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) behind the second. Answer them by checking what actually happens, not by taking anyone's word for it. [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment) and [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) say how, and [**material stake**](#material-stake) sets how hard to look. The four duties in section 1 are how the answers are kept honest.
+Chapter One turns the questions into rules for incentives: [Chapter One §19.1.1 What Incentives Must Do](core_01.010_stewardship_capacity_principles.md#1911-what-incentives-must-do) sits behind the first, and [Chapter One §19.1.2 What Incentives Must Not Do](core_01.010_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) behind the second. Answer them by checking what actually happens, not by taking anyone's word for it. [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment) and [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) say how, and [**material stake**](#material-stake) sets how hard to look. The four duties in section 1 are how the answers are kept honest.
 
 ### 1. The Model
 
@@ -143,9 +143,9 @@ These measurement categories show what matters. Standing alone, they do not set 
 
 *In plain terms: legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And sentients like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.*
 
-Durable legitimacy depends on [Safety](core_01.005_values_principles.md#4-safety-harm-constraint), [Truth](core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), and [Trust](core_01.005_values_principles.md#6-trust-and-trustworthiness-coordination-integrity). It also depends on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](core_01.005_values_principles.md#32-recognition-reinforcement-and-aspiration).
+Durable legitimacy depends on [Safety](core_01.000_values_principles.md#4-safety-harm-constraint), [Truth](core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), and [Trust](core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity). It also depends on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
-Distributed understanding and stewardship require regular, proportionate opportunities for sentients to learn how systems that materially affect them operate, and to take consequential roles in maintaining and improving those systems. Together, these opportunities spread competence, repair capacity, and legitimacy broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. All such opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) and proportionality discipline stated in [Chapter One](core_01.010_interaction_interpretation.md#133-minimization-of-avoidable-burden).
+Distributed understanding and stewardship require regular, proportionate opportunities for sentients to learn how systems that materially affect them operate, and to take consequential roles in maintaining and improving those systems. Together, these opportunities spread competence, repair capacity, and legitimacy broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. All such opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden) and proportionality discipline stated in [Chapter One](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden).
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 Using Measurements in Governance
@@ -161,10 +161,10 @@ Constitutional stewardship starts by naming the problem and the [**material stak
 
 *In plain terms: when the text requires it, first separate the sentients or systems that act, check, record, and hear challenges. Material issues then go through certification, written records of help and harm, correction and remedy, and forum review with clocks. Ordinary disputes use the published challenge path first. These processes test authorized governance; they do not create governing authority by themselves.*
 
-When Chapter Six, [Chapter Nine](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), an incorporated document, or another constitutional provision expressly requires it, take the material constitutional issue into one or more of the paths below. The [Key Practical Process Pipelines](#6-key-practical-process-pipelines) turn measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy. Through these pipelines, authorized governance is tested, contested, and repaired in practice — but the pipelines do not authorize governance by themselves; they make it reviewable, contestable, correctable, and timely. [Section 6.2](#62-how-the-full-chain-fits-together) states the full pipeline.
+When Chapter Six, [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), an incorporated document, or another constitutional provision expressly requires it, take the material constitutional issue into one or more of the paths below. The [Key Practical Process Pipelines](#6-key-practical-process-pipelines) turn measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy. Through these pipelines, authorized governance is tested, contested, and repaired in practice — but the pipelines do not authorize governance by themselves; they make it reviewable, contestable, correctable, and timely. [Section 6.2](#62-how-the-full-chain-fits-together) states the full pipeline.
 
 - **Functional independence and separation of duties** ([Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties)) — before a materially binding act moves, identify and separate the initiating, verify-or-authorize, record, and contest seats under the applicable scaling and independence rules.
-- **System alignment certification** ([Chapter Nine](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence to determine whether it is constitutionally safe to rely on right now. Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to challenge and audit it ([Article XIII](core_06.015_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*)) keep it honest. Neither replaces the other.
+- **System alignment certification** ([Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — before a high-impact system is trusted at scale, gather and review evidence to determine whether it is constitutionally safe to rely on right now. Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to challenge and audit it ([Article XIII](core_06.010_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*)) keep it honest. Neither replaces the other.
 - **Standing records** ([Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)) — when conduct or harm matters constitutionally, place verified facts in formal contribution or violation case files; rumors and reputation are not enough.
 - **Correction and remedy** ([Chapter Eleven §4.1 (*Remedy and correction*)](core_11.000_standing_integration.md#41-remedy-and-correction)) — correct the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed.
 - **Forum review** ([Chapter Thirteen](core_13.000_forum.md#1-purpose-and-role--participation-architecture))
@@ -229,7 +229,7 @@ Each summary below states what the chapter owns and what it produces.
 - **What it owns:**
   - puts the proof burden on whoever claims compliance; and
   - requires traceable evidence, observability, and verification that scale to [**material stake**](#material-stake) and remain practically challengeable.
-- **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) and system-alignment evidence in [Chapter Nine](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). It does not replace standing measurement itself.
+- **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) and system-alignment evidence in [Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). It does not replace standing measurement itself.
 
 **Chapter Five — Foundational definitions**
 
@@ -403,12 +403,12 @@ Together, these rules turn constitutional duties into records and decisions that
 The full chain runs in the following order:
 
 1. **Separate the seats for every materially binding act** ([Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)) — identify who initiates, who verifies or authorizes, who holds the official record, and who hears a challenge. Apply the prohibited combinations, independence rules, and published substitute route before treating the act as validly checked. Where a System Charter or Institutional Charter is required ([Chapter Seven](core_07.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), its Charter Role Map publishes who holds each seat.
-2. **Certify the system when impact is serious enough** ([Chapter Nine](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — before a high-impact system is trusted at scale, obtain a contestable alignment record that answers whether it is constitutionally safe to rely on *right now*.
+2. **Certify the system when impact is serious enough** ([Chapter Nine](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — before a high-impact system is trusted at scale, obtain a contestable alignment record that answers whether it is constitutionally safe to rely on *right now*.
 3. **Measure standing on separate tracks** ([Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)) — when help or harm is serious enough to matter constitutionally, Chapter Ten must open formal case files, admit only **verified inputs** (including system-alignment certification evidence from Chapter Nine when that evidence is material), and classify what was verified. Rumors, reputations, and dispute stories are not enough.
    - **Contribution nature:** Open a **contribution standing record** — a bounded, challengeable case file for verified help toward flourishing — and classify **contribution nature** on the Contribution Axis.
    - **Violation nature:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Help and harm never fold into one net score; linked records cross-reference but stay separate.
 4. **Apply standing effects on each track** ([Chapter Eleven](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration)) — verified contribution may grant competency clearance and must support proportionate recognition and material rewards; verified violation may trigger standing locks, correction, and [remedy for those harmed](core_11.000_standing_integration.md#41-remedy-and-correction).
-5. **Conduct anti-constitutional designation review** ([Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)) — if a highest-impact violation finding may also satisfy anti-constitutional criteria, Chapter Twelve must decide whether the corresponding designation attaches. Designation does not change how serious Chapter Ten already found the harm to be. Ordinary Chapter Eleven effects continue in parallel until a final designation triggers the Anti-Constitutional Trust Lock.
+5. **Conduct anti-constitutional designation review** ([Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)) — if a highest-impact violation finding may also satisfy anti-constitutional criteria, Chapter Twelve must decide whether the corresponding designation attaches. Designation does not change how serious Chapter Ten already found the harm to be. Ordinary Chapter Eleven effects continue in parallel until a final designation triggers the Anti-Constitutional Trust Lock.
 6. **Route disputes and keep remedy timely** ([Chapter Thirteen](core_13.000_forum.md#1-purpose-and-role--participation-architecture)) — forums must supervise how cases move, which track handles them, and whether windows under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_13.000_forum.md#dispute-sequencing). Forums must also classify disputes into five [materiality tiers](core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters. Integrity-family default routing applies when final Chapter Twelve designation is the primary stake.
 
 Each stage above links to its owner chapter, so the chain can be walked from here — including Chapter Nine’s potential verified inputs into standing measurement.
@@ -420,7 +420,7 @@ Each stage above links to its owner chapter, so the chain can be walked from her
 
 Each step below states what the chapter owns and what it produces, filling in the owners named in [§6.2 How the full chain fits together](#62-how-the-full-chain-fits-together).
 
-**Chapter Nine — [System alignment certification](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)**
+**Chapter Nine — [System alignment certification](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)**
 
 - **What it owns:** Ensures systems with material impact stay constitutionally aligned.
   - Before a system that materially affects sentients is certified or relied on at scale, evidence must be gathered and reviewed under forum supervision.
@@ -444,7 +444,7 @@ Each step below states what the chapter owns and what it produces, filling in th
 - **What it owns:** Integrates verified classifications into real-world **standing effects** on separate tracks, scaled to [**material stake**](#material-stake). It never folds contribution and violation into one net score, and never hollows out participation, oversight, accountability, or timeliness.
   - **Contribution track:** A verified positive classification must produce practical upside, including:
     - [**Competency clearances**](core_11.000_standing_integration.md#62-competency-bars-and-clearances) that may open trust-sensitive roles, delegated authority, oversight eligibility, and progressively consequential stewardship when competence is demonstrated against the published competency bar and no applicable [standing lock](core_11.000_standing_integration.md#42-prevention--general-standing-locks) blocks the named pathway
-    - proportionate recognition and **material rewards** for lawful stewardship and cooperation as [Chapter One](core_01.005_values_principles.md#32-recognition-reinforcement-and-aspiration) requires; and
+    - proportionate recognition and **material rewards** for lawful stewardship and cooperation as [Chapter One](core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration) requires; and
     - benefits that are real, evidence-backed, and open to challenge — not empty praise.
   - **Violation track:** A verified violation finding must produce practical consequences, including:
     - **Standing locks**, role limits, remediation orders, [remedy for those harmed](core_11.000_standing_integration.md#41-remedy-and-correction), supplemental descriptors, and enforcement hooks
@@ -454,7 +454,7 @@ Each step below states what the chapter owns and what it produces, filling in th
     - no waiver of a violation-side standing lock by a contribution-side competency clearance.
 - **What it produces:** Separate, scaled standing effects on the Contribution and Violation tracks — competency clearances and material rewards on one side; standing locks, correction, and remedy on the other — neither folded into a single score.
 
-**Chapter Twelve — [Anti-constitutional misconduct guardrail](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)**
+**Chapter Twelve — [Anti-constitutional misconduct guardrail](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)**
 
 - **What it owns:** Handles only the most serious verified violations — conduct that may have captured or hollowed out constitutional duties at scale. When Chapter Ten has already recorded a highest-impact violation finding, and anti-constitutional misconduct is materially alleged, this chapter runs designation review as a Chapter Eleven gateway track in parallel with ordinary Chapter Eleven standing effects.
 - **What it produces:** A final anti-constitutional-misconduct designation — or rejection — for that existing highest-impact finding, but only after the required criteria and due-process safeguards are met. Chapter Ten still measures how serious the harm was. Only a final designation triggers the Chapter Eleven **Anti-Constitutional Trust Lock**.
@@ -523,4 +523,4 @@ Principles, definitions, rights, process pipelines, governance, amendment rules,
 
 **Previous file:** [README.md](README.md)
 
-**Next file:** [core_01.005_values_principles.md](core_01.005_values_principles.md)
+**Next file:** [core_01.000_values_principles.md](core_01.000_values_principles.md)

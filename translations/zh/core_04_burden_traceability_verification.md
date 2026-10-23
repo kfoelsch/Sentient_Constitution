@@ -20,7 +20,7 @@
 > - **四元地图：** 负担分配、证据、可追溯性、可观察性与核验，实施[序言](core_00_preamble.md#序言--基础要求)所确立的[宪法四元](core_00_preamble.md#constitutional-tetrad)**监督**与**问责**腿；凡具实质性要求之处，通过第 **3** 节与第 **4** 节下的实践可观察性与独立质疑实施**参与**。要求按[实质利害](core_00_preamble.md#material-stake)缩放。
 > - **宪法主责者：** 负担分配、合规证据、定义可追溯性、可观察性，以及受安全约束的核验。**第十章**主责与本章一并阅读的轨迹记录与经核实输入纪律。
 > - **实施主责者：** 指定实施文件中的部署、数据处理与保证机制必须与这些规则保持一致，并且凡文本库已提供更严规则逻辑之处可以更严。
-> - **反挪位规则：** 本章仅统管负担、追溯、可观察性、安全限度与证据。它不重述第五章定义、**第十章**贡献或轨迹测量，或第十二章反宪法不当行为标准。经核实不合规向轨迹的路由，由[第三章 §3 — 不合规认定画像](core_03_definition_integrity.md#3-不合规认定画像)与[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)统管。**第 6 节**陈述第二至四章如何有别于[第九章 — 系统对齐认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。
+> - **反挪位规则：** 本章仅统管负担、追溯、可观察性、安全限度与证据。它不重述第五章定义、**第十章**贡献或轨迹测量，或第十二章反宪法不当行为标准。经核实不合规向轨迹的路由，由[第三章 §3 — 不合规认定画像](core_03_definition_integrity.md#3-不合规认定画像)与[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)统管。**第 6 节**陈述第二至四章如何有别于[第九章 — 系统对齐认证](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。
 
 </details>
 
@@ -49,7 +49,7 @@
 | **4 — 安全限度** | 真实安全限度被允许；借口性阻断不被允许 | [§4](#4-受安全约束的可观察性与核验规则) |
 | **5 — 什么算数** | 证据必须真实、完整、独立，并随时间维持 | [§5](#5-合规证据标准) |
 
-**直白语言可及性。** [第一章 §3.4 — 直白语言可及性尽责管理义务](core_01_a_values_principles.md)适用于感知者为行使权利、质疑决定或核验合规所使用的治理、裁决性与运行材料。直白语言**不**改变或减低第二至四章所要求者。若直白语言版本与此处的定义或核验规则不一致，以那些规则为准。使用行话、堆叠的复杂性或不透明来阻断[可质疑性](../../core_05.035_band_accountability.md#contestability)或 [Article XVI：审计、透明与独立核验](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)通路，构成本章与**第一章 §3.4**下的不合规。
+**直白语言可及性。** [第一章 §3.4 — 直白语言可及性尽责管理义务](core_01_a_values_principles.md)适用于感知者为行使权利、质疑决定或核验合规所使用的治理、裁决性与运行材料。直白语言**不**改变或减低第二至四章所要求者。若直白语言版本与此处的定义或核验规则不一致，以那些规则为准。使用行话、堆叠的复杂性或不透明来阻断[可质疑性](../../core_05.035_band_accountability.md#contestability)或 [Article XVI：审计、透明与独立核验](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)通路，构成本章与**第一章 §3.4**下的不合规。
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 定义可追溯性要求
@@ -191,8 +191,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第二章 — 定义结构与组件要求](core_02_definition_structure.md#第二章定义结构与组件要求)；[第三章 — 定义完整性、规避与不合规](core_03_definition_integrity.md#第三章定义完整性规避与不合规)；[第四章，第 1 节至第 5 节](#1-排他执行与负担分配)。
-- 下游：[第九章 — 系统对齐认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
-- 一并阅读：[第九章 §7 — 认证结果](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) — 第二至四章下的经核实不合规可以重开或击败认证，不论先前认证如何。
+- 下游：[第九章 — 系统对齐认证](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
+- 一并阅读：[第九章 §7 — 认证结果](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) — 第二至四章下的经核实不合规可以重开或击败认证，不论先前认证如何。
 
 </details>
 
@@ -209,7 +209,7 @@
 
 这些凡评价合规时即适用 — 不论有无认证。
 
-**[第九章 — 系统对齐认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** 在具实质性之处提供评议所监督的**认证过程**：整系统评价域、认证记录义务、认证结果、再认证节奏、可质疑性链，以及通向第十章的经核实输入桥接。它**适用**第二至四章；它**不**重述它们。
+**[第九章 — 系统对齐认证](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** 在具实质性之处提供评议所监督的**认证过程**：整系统评价域、认证记录义务、认证结果、再认证节奏、可质疑性链，以及通向第十章的经核实输入桥接。它**适用**第二至四章；它**不**重述它们。
 
 读者不得把以下各项当作：
 - 一份**认证记录**顶替第二至四章下的持续合规

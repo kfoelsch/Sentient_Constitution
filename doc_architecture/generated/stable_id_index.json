@@ -6,17 +6,17 @@
       "status": "present"
     },
     {
-      "file": "core_01.005_values_principles.md",
+      "file": "core_01.000_values_principles.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_01.010_interaction_interpretation.md",
+      "file": "core_01.005_interaction_interpretation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_01.015_stewardship_capacity_principles.md",
+      "file": "core_01.010_stewardship_capacity_principles.md",
       "label": "core",
       "status": "present"
     },
@@ -111,27 +111,22 @@
       "status": "present"
     },
     {
-      "file": "core_09.005_system_alignment_certification_evaluation.md",
+      "file": "core_09.000_system_alignment_certification_evaluation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_09.010_system_alignment_certification_record_process.md",
+      "file": "core_09.005_system_alignment_certification_record_process.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_09.015_system_alignment_certification_illustrations.md",
+      "file": "core_09.010_system_alignment_certification_illustrations.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_09.020_institutional_alignment_certification.md",
-      "label": "core",
-      "status": "present"
-    },
-    {
-      "file": "core_09.000_system_alignment_certification.md",
+      "file": "core_09.015_institutional_alignment_certification.md",
       "label": "core",
       "status": "present"
     },
@@ -146,12 +141,12 @@
       "status": "present"
     },
     {
-      "file": "core_12.005_misconduct_designation.md",
+      "file": "core_12.000_misconduct_designation.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_12.010_misconduct_pattern_applications.md",
+      "file": "core_12.005_misconduct_pattern_applications.md",
       "label": "core",
       "status": "present"
     },
@@ -166,27 +161,27 @@
       "status": "present"
     },
     {
-      "file": "core_06.005_rights_part_a.md",
+      "file": "core_06.000_rights_part_a.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06.010_rights_part_b.md",
+      "file": "core_06.005_rights_part_b.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06.015_rights_part_c.md",
+      "file": "core_06.010_rights_part_c.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06.020_rights_part_d.md",
+      "file": "core_06.015_rights_part_d.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_06.025_rights_part_e.md",
+      "file": "core_06.020_rights_part_e.md",
       "label": "core",
       "status": "present"
     },

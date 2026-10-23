@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# باب سات: فعلی خودمختاری اور فرائض کی علیحدگی
+# باب سات: فنکشنل آزادی اور فرائض کی علیحدگی
 
 <details>
 <summary><strong><span style="color: #2563eb;">کارپس میں مقام (غیر عملی): فائل کی ساخت اور مطالعے کے قواعد</span></strong></summary>
 
-> یہ فائل **Sentient Constitution کا حصہ** ہے اور ایک ہی دستاویز کے طور پر پڑھی جانے والی دیگر نمبر شدہ `core_*` فائلوں کے **ساتھ مل کر ہی پابند** ہے۔ اس میں **باب سات** شامل ہے: فعلی خودمختاری اور فرائض کی علیحدگی کے لیے تمام کارروائیوں پر لاگو کم از کم معیار۔ یہ باب چھ کے حقوقی معیار کے بعد اور [باب آٹھ کی نظامی ہم آہنگی کی توثیق](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) سے شروع ہونے والے آئینی کارروائی کے ابواب سے پہلے آتا ہے۔
+> یہ فائل **Sentient Constitution کا حصہ** ہے اور ایک ہی دستاویز کے طور پر پڑھی جانے والی دیگر نمبر شدہ `core_*` فائلوں کے **ساتھ مل کر ہی پابند** ہے۔ اس میں **باب سات** شامل ہے: فعلی خودمختاری اور فرائض کی علیحدگی کے لیے تمام کارروائیوں پر لاگو کم از کم معیار۔ یہ باب چھ کے حقوقی معیار کے بعد اور [باب آٹھ کی نظامی ہم آہنگی کی توثیق](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) سے شروع ہونے والے آئینی کارروائی کے ابواب سے پہلے آتا ہے۔
 >
 > - **آئینی مالک:** مادی طور پر پابند اعمال کے لیے الگ نشستوں کا کم از کم معیار؛ ہر [مادی طور پر پابند عمل کے ریکارڈ](../../core_05_band_accountability.md#materially-binding-act-record) کا عالمگیر کم از کم مواد؛ عامل اور اس کی [مادی کنٹرول لائن](../../core_05_band_accountability.md#material-control-line) سے خودمختاری؛ شائع شدہ راستوں اور کرداروں کی جگہ بندی؛ مفادات کے تصادم، خالی آسامی، متبادل اور غلط نشست کو معاملہ بھیجنا؛ متناسب مشترکہ میزبانی؛ قابل انتساب حوالگیاں؛ اور وہ کم از کم خودمختاری کی شرائط جن کا اطلاق ہر بعد کی آئینی کارروائی کو کرنا ہوگا۔
 > - **اصولی سطح کا ماخذ:** [باب اول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) حکمرانی سے فعلی خودمختاری محفوظ رکھنے کا تقاضا کرتا ہے اور عملی نشستوں کے ڈھانچے کو یہاں بھیجتا ہے۔
@@ -20,7 +20,7 @@
 
 - ماقبل: [آئینی چہارگانہ](../../core_00_preamble.md#constitutional-tetrad) — خصوصاً **نگرانی** اور **جوابدہی**؛ [مادی مفاد](../../core_00_preamble.md#material-stake)؛ [باب اول §17.1 مشترکہ نگہبانی معیار](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)؛ [نگہبانی کے نظم کے تحت حکمرانی، باب اول §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [آرٹیکل XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*آڈٹ، شفافیت، اور آزادانہ تصدیق*)۔
 - ذیلی حصے: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes)۔
-- مابعد: [باب آٹھ](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)؛ [باب نہم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [باب دوازدہم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [باب سیزدہم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ اوپر نامزد نفاذی متن۔
+- مابعد: [باب آٹھ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [باب نہم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [باب دوازدہم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [باب سیزدہم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ اوپر نامزد نفاذی متن۔
 - ساتھ پڑھیں: [عدم ہم آہنگی کی نشان دہی، باب اول §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*کثیر فریقی نشان دہی اور جائزہ*); [قابل انتساب عمل](../../core_05_band_accountability.md#attributable-action)؛ [انتساب کی سالمیت](../../core_05_band_accountability.md#attribution-integrity)؛ [قابل آڈٹ ہونا](../../core_05_band_oversight.md#auditability)؛ [قابل اعتراض ہونا](../../core_05_band_accountability.md#contestability)؛ [تناسب](../../core_05_band_accountability.md#proportionality)۔
 
 </details>
@@ -66,7 +66,7 @@
 - نامزد نفاذی متن سے عملی نشستوں کی فہرست، عملے کے طریقے اور راستوں کے نقشے کی کارروائی۔
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. چار نشستوں کا آئینی معیار
+### 2. چار نشستوں کی آئینی ضرورت
 
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
@@ -350,7 +350,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
 - ماقبل: [§1](#1-purpose-scope-and-owner-boundary) سے [§8](#8-act-records-and-attributable-handoffs) تک۔
-- مابعد: [باب آٹھ](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)؛ [باب نہم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [باب دوازدہم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [باب سیزدہم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)۔
+- مابعد: [باب آٹھ](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [باب نہم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [باب دوازدہم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [باب سیزدہم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)۔
 - ساتھ پڑھیں: [اختیار کا سلسلہ اور داخلی درجہ بندی](../../core_05_band_integrative.md#owner-non-relocation) اور [تمہید کا مالک رجسٹر](../../core_00_preamble.md#4-principles-definitions-and-rights)۔
 
 </details>

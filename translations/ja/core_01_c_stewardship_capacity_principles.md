@@ -1146,7 +1146,7 @@ flowchart TB
   - 違法または違憲な命令への対応;
   - 隠蔽;
   - 報復;
-  - [説明責任の妨害](core_08_standing_assessment.md#232-violation-event-types)（法的地位モデルにおける事象類型、および[第十一章 §5.11 説明責任の妨害：基準の相互作用](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)で指定された経路設定 — 独立した報酬適用除外ではない）；または
+  - [説明責任の妨害](core_08_standing_assessment.md#232-violation-event-types)（法的地位モデルにおける事象類型、および[第十一章 §5.11 説明責任の妨害：基準の相互作用](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)で指定された経路設定 — 独立した報酬適用除外ではない）；または
   - 検証された憲法上の損害の是正を拒むこと；または
 - 不正行為またはその隠蔽に実質的に依存する報酬経路。これには次が含まれる。
   - 報酬、ボーナス、株式、任命、昇進、在職期間;
@@ -1316,7 +1316,7 @@ flowchart TB
 - **定期的な審査と是正：** [審査・是正義務](../../core_05.040_band_continuity.md#review-and-correction-duty)。
 - **強化審査：** 集中または支配が重大な場合は、[§11.1 市場集中の閾値メカニズム](core_01_a_values_principles.md#111-市場集中閾値メカニズム採択主体による調整可)および[§11.2 競争促進と支配の防止](core_01_a_values_principles.md#112-競争促進と支配の防止)。
 - **地位および違反の仕組み：** 検証済みの認定が問題となる場合は、[第9章 — 貢献・違反・地位モデル](core_08_standing_assessment.md)。
-- **反憲法的な不正行為：** 集中またはプロセスの乗っ取りが反憲法的な不正行為に当たる場合は、[第11章 §5.1 集中に基づく転覆：基準間の相互作用](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- **反憲法的な不正行為：** 集中またはプロセスの乗っ取りが反憲法的な不正行為に当たる場合は、[第11章 §5.1 集中に基づく転覆：基準間の相互作用](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 不整合の是正と乗っ取りへの対応

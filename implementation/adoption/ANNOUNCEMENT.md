@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Sixteen §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)); [Chapter One §17.1](../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*).
+- Upstream: [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Sixteen §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)); [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-the-announcement); [§2](#2-say-and-do-not-say); [§3](#3-audience-notes); [§4](#4-publishing-checklist).
 - Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`../../README.md`](../../README.md); [`../../START_HERE.md`](../../START_HERE.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) (*non-adoption banner*); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; cut gates). This page does not close those gates.
 
@@ -43,7 +43,7 @@ Public readers land at [`../../README.md`](../../README.md). Would-be adopters a
 This page does **not**:
 
 - Count as [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Eighteen](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
-- Bind vendors, platforms, host products, or anyone else who did not consent ([Chapter One §17.4](../../core_01.015_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Bind vendors, platforms, host products, or anyone else who did not consent ([Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Drop the **pre-release** banner, bump `SC-Corpus-2026.10.21`, or stand in for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 - Claim AI handoff readiness ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5)
 
@@ -155,11 +155,11 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 | **Core text controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Companion files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Eighteen](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge)). | “The whole corpus is ready to implement.” “The companion files are unofficial.” |
 | **Operations-guide use** is the near-term invitation ([FIT §2](FIT_SITUATIONS.md#2-two-modes)). Attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) to any shared file that is not a completed adoption document. | “We follow it” as a marketing line ([FIT §5](FIT_SITUATIONS.md#5-honest-non-fits)). |
 | **Binds only what you run.** Vendors, host products, and non-consenting parties stay unbound. | “Labs and vendors in our stack are now bound.” |
-| **Same standard for both kinds of steward** ([Chapter One §17.1](../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard)). | “AI stewards follow a separate ethics overlay.” |
+| **Same standard for both kinds of steward** ([Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)). | “AI stewards follow a separate ethics overlay.” |
 | **Who may govern is a documented legitimacy mechanism** ([Preamble §3.3](../../core_00.000_preamble.md#33-governance-layers)). | “A token vote / standing score authorized this.” |
 | **Independent review** is an external reviewer or published backup the founding crew does not solely staff ([FORUM_FOUNDATION_KIT.md](FORUM_FOUNDATION_KIT.md) Track A). | “Our Slack / markdown panel is independent review.” |
 | **AI handoff trials remain open** ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5). | “AI handoff is ready.” |
-| **Describe the working parts** — definitions with a way to check them ([Chapter Five](../../core_05.000_definitions_home.md)); certification ([Chapter Nine](../../core_09.005_system_alignment_certification_evaluation.md)); standing records ([Chapter Ten](../../core_10.000_standing_assessment.md)); contestability ([Chapter Thirteen](../../core_13.000_forum.md)) — as verified, written down, time-limited, and challengeable. | “Simple, proven, and effective.” No adopter has run them yet. |
+| **Describe the working parts** — definitions with a way to check them ([Chapter Five](../../core_05.000_definitions_home.md)); certification ([Chapter Nine](../../core_09.000_system_alignment_certification_evaluation.md)); standing records ([Chapter Ten](../../core_10.000_standing_assessment.md)); contestability ([Chapter Thirteen](../../core_13.000_forum.md)) — as verified, written down, time-limited, and challengeable. | “Simple, proven, and effective.” No adopter has run them yet. |
 | **License:** [CC BY 4.0](../../LICENSE). Attribution, not a second constitution. | — |
 
 Quote the Preamble in short authentic spans. Do not paraphrase it into marketing.

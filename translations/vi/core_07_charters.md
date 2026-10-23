@@ -22,8 +22,8 @@
 - Thượng nguồn:
   - [Bộ tứ hiến pháp](../../core_00.000_preamble.md#constitutional-tetrad), đặc biệt **giám sát** Và **trách nhiệm giải trình**;
   - [cổ phần vật chất](../../core_00.000_preamble.md#material-stake);
-  - [Chương Một §18.1 Quản trị theo Cơ cấu Được ủy quyền](../../core_01.015_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.015 §18.1);
-  - [Điều XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*).
+  - [Chương Một §18.1 Quản trị theo Cơ cấu Được ủy quyền](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.015 §18.1);
+  - [Điều XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*).
 - Tiểu mục:
   - [§1](#1-khi-nào-cần-có-điều-lệ-hệ-thống-và-thể-chế);
   - [§2](#2-quyền-hình-thành-và-bốn-giới-hạn-hẹp);
@@ -34,7 +34,7 @@
   - [§7](#7-sửa-đổi-đánh-giá-và-điều-chỉnh-phạm-vi).
 - Hạ lưu:
   - [Chương Tám](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000);
-  - [Chương Chín](../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) (9.000);
+  - [Chương Chín](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
   - [Chương Mười](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
   - [Chương mười ba](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
   - [Chương mười bốn](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); văn bản thực hiện được chỉ định có tên ở trên.
@@ -55,7 +55,7 @@ Ba chương hoạt động như một chuỗi:
 
 - **Chương Bảy (chương này):** nói cái gì thế [Đảng điều lệ](../../core_05.040_band_continuity.md#chartered-party) yêu cầu thực hiện và ai có thể giữ từng ghế khi hành động.
 - **[Chương Tám](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties):** cho biết những chỗ ngồi đó phải được tách biệt như thế nào.
-- **[Chương Chín](../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index):** chứng nhận một hệ thống và một tổ chức riêng biệt, mỗi tổ chức là một hành động ràng buộc sử dụng các ghế. Nó gửi những gì nó tìm thấy trở lại Điều lệ hệ thống hoặc Điều lệ tổ chức.
+- **[Chương Chín](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification):** chứng nhận một hệ thống và một tổ chức riêng biệt, mỗi tổ chức là một hành động ràng buộc sử dụng các ghế. Nó gửi những gì nó tìm thấy trở lại Điều lệ hệ thống hoặc Điều lệ tổ chức.
 
 Các chương khác sở hữu các định nghĩa, quy tắc chỗ ngồi, khóa đứng và quy tắc quyết định mà chương này chỉ ra. **CI-8.205 §6** (*Mẫu nội dung, rà soát và hình thành của Hệ thống và Điều lệ*) chứa mẫu trường, quy trình hình thành và danh sách kiểm tra xem xét.
 
@@ -70,17 +70,17 @@ Các chương khác sở hữu các định nghĩa, quy tắc chỗ ngồi, khó
   - [§2](#2-quyền-hình-thành-và-bốn-giới-hạn-hẹp);
   - [cổ phần vật chất](../../core_00.000_preamble.md#material-stake);
   - [Tỷ lệ](../../core_05.035_band_accountability.md#proportionality); yêu cầu chủ sở hữu mở chương;
-  - [Chương Một §18 Quản trị theo Kỷ luật Quản lý](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1,015 §18);
+  - [Chương Một §18 Quản trị theo Kỷ luật Quản lý](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1,015 §18);
   - [Giám sát](../../core_05.020_apex_oversight_leg.md#oversight-constitutional);
   - [Trách nhiệm](../../core_05.005_apex_accountability_leg.md#accountability).
-- Hạ lưu: [§3](#3-điều-lệ-thể-chế-và-hệ-thống-nào-phải-nêu-rõ); [Chương Chín Phần A §2 Đánh giá lớp hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9,005 §2) (*độ sâu lớp học và chứng chỉ*); [Chương Chín Phần D §12.1 Lớp tổ chức](../../core_09.020_institutional_alignment_certification.md#121-institution-class) (9.020 §12.1) (*lớp của một tổ chức*); **CS-9.305 (*Máy phân loại hệ thống*) và CS-9.310** (*Máy phân loại hệ thống*) cho danh mục lớp.
+- Hạ lưu: [§3](#3-điều-lệ-thể-chế-và-hệ-thống-nào-phải-nêu-rõ); [Chương Chín Phần A §2 Đánh giá lớp hệ thống](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9,005 §2) (*độ sâu lớp học và chứng chỉ*); [Chương Chín Phần D §12.1 Lớp tổ chức](../../core_09.015_institutional_alignment_certification.md#121-institution-class) (9.020 §12.1) (*lớp của một tổ chức*); **CS-9.305 (*Máy phân loại hệ thống*) và CS-9.310** (*Máy phân loại hệ thống*) cho danh mục lớp.
 - Đọc với:
   - **CI-8.205 §6** (*Mẫu nội dung, rà soát và hình thành của Hệ thống và Điều lệ*);
   - **CF-13.415 §5** (*Nhà đăng ký tổ chức và địa phương*);
   - **CI-9.210** (*Nghĩa vụ thể chế liên kết phân loại*);
   - [Chương 5 Điều lệ hệ thống](../../core_05.040_band_continuity.md#system-charter) (5.040);
   - [Chương 5 Điều lệ tổ chức](../../core_05.040_band_continuity.md#institutional-charter) (5.040);
-  - [Điều XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*).
+  - [Điều XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*).
 
 </details>
 
@@ -133,7 +133,7 @@ Tầng lớp của Đảng Hiến chương quyết định việc xuất bản l
 
 - **Lớp A, B, C và L:** yêu cầu. Biểu đồ ở [§1.7 Sơ lược về quy trình](#17-sơ-lược-về-quy-trình) cho thấy quá trình họ làm theo.
 - **Lớp P:** một sự lựa chọn, cho đến khi một trong hai sự kiện khiến nó trở nên cần thiết. [§1.3 Lớp P là gì](#13-lớp-p-là-gì) cho biết điều gì tạo nên Nhóm điều hành Cấp P, và [§1.4 Loại P: các điều lệ tùy chọn và khi chúng được yêu cầu](#14-loại-p-thuê-tàu-tùy-chọn-và-khi-chúng-được-yêu-cầu) đặt ra sự lựa chọn và khi nó kết thúc.
-- **Lớp của một tổ chức:** Một Tổ chức có cấp độ cao nhất trong bất kỳ Hệ thống nào mà nó vận hành, quản lý hoặc kiểm soát vật chất. Một Tổ chức không vận hành Hệ thống như vậy được phân loại theo tác động và sự phụ thuộc quan trọng của chính nó, được đánh giá bởi những gì nó thực sự quyết định và nắm giữ chứ không phải theo nhãn hiệu hoặc hình thức pháp lý của nó, theo [Chương Chín Phần D §12.1 Lớp tổ chức](../../core_09.020_institutional_alignment_certification.md#121-institution-class).
+- **Lớp của một tổ chức:** Một Tổ chức có cấp độ cao nhất trong bất kỳ Hệ thống nào mà nó vận hành, quản lý hoặc kiểm soát vật chất. Một Tổ chức không vận hành Hệ thống như vậy được phân loại theo tác động và sự phụ thuộc quan trọng của chính nó, được đánh giá bởi những gì nó thực sự quyết định và nắm giữ chứ không phải theo nhãn hiệu hoặc hình thức pháp lý của nó, theo [Chương Chín Phần D §12.1 Lớp tổ chức](../../core_09.015_institutional_alignment_certification.md#121-institution-class).
 
 <a id="13-what-class-p-is"></a>
 #### 1.3 Lớp P là gì
@@ -172,7 +172,7 @@ Một Hệ thống hoặc Tổ chức được bảo vệ sẽ xuất bản [Đi
 
 - **Một hệ thống hoặc tổ chức mới:** trước khi nó đi vào hoạt động hoặc bắt đầu thực thi quyền lực đối với người khác.
 - **Một cái đã hoạt động:** tại lần đánh giá hoặc chứng nhận phân loại tiếp theo hoặc trong thời gian giải quyết sau khi có yêu cầu theo [§1.6 Nếu thiếu Điều lệ hệ thống hoặc Điều lệ tổ chức](#16-nếu-thiếu-điều-lệ-hệ-thống-hoặc-điều-lệ-tổ-chức), tùy điều kiện nào đến trước. Nó được mặc định cho đến khi nó thực hiện được.
-  - **Chứng nhận nào:** Đối với một Hệ thống, Chứng nhận Căn chỉnh Hệ thống của nó. Đối với một Tổ chức, chứng nhận liên kết tổ chức của nó theo [Chương Chín Phần D §11.3 Không được phép và không có cổng](../../core_09.020_institutional_alignment_certification.md#113-no-permission-and-no-gate), mà thời hạn chứng nhận đầu tiên không bao giờ là điều kiện để xuất bản Điều lệ Tổ chức hoặc điều hành.
+  - **Chứng nhận nào:** Đối với một Hệ thống, Chứng nhận Căn chỉnh Hệ thống của nó. Đối với một Tổ chức, chứng nhận liên kết tổ chức của nó theo [Chương Chín Phần D §11.3 Không được phép và không có cổng](../../core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate), mà thời hạn chứng nhận đầu tiên không bao giờ là điều kiện để xuất bản Điều lệ Tổ chức hoặc điều hành.
 - **Kiểm tra sự hình thành:** Nó cũng hoàn thành việc kiểm tra đội hình [§5 Kiểm tra đội hình: Vị thế và tính xác thực của người giữ chức vụ](#5-kiểm-tra-đội-hình-vị-thế-và-tính-xác-thực-của-người-giữ-chức-vụ) cùng một lúc.
 - **Nó được đặt ở đâu:** Nó nộp Điều lệ hệ thống hoặc Điều lệ tổ chức, cùng với Bản đồ vai trò điều lệ và tuyên bố kiểm tra quá trình hình thành, cho nhà đăng ký tổ chức hoặc với nhà đăng ký địa phương nơi hoạt động của nó và những người mà nó ảnh hưởng là người địa phương (**CF-13.415 §5** (*Nhà đăng ký tổ chức và địa phương*)):
   - **Nhà đăng ký làm gì:** Nó kiểm tra xem không có thứ gì được yêu cầu bị thiếu và đưa ra một biên nhận có ghi ngày tháng.
@@ -193,19 +193,19 @@ Hai cửa sổ chạy từ yêu cầu: cửa sổ phản hồi và cửa sổ gi
 | Loại C, Cấp C | 4 ngày dương lịch | 30 ngày dương lịch |
 | Lớp L, Cấp L | 8 ngày dương lịch | 60 ngày dương lịch |
 
-Các số liệu đến từ **CF-13.445 §3.1** (*Mục tiêu giai đoạn và tầng thời gian*), điều này chi phối nếu chúng khác nhau. Bên đặc quyền tranh chấp về hạng của mình sẽ được tính ở Cấp của hạng quan trọng hơn mà họ nắm giữ trong Hồ sơ phân loại hệ thống của mình và bất kỳ hạng nào mà người hỏi hoặc diễn đàn hiển thị trên cơ sở sơ bộ, cho đến khi câu hỏi được giải quyết. Bên đặc quyền không có hồ sơ xếp hạng hoặc giữ Hạng P trong khi hạng của nó đang được đề cập, được tính ở Cấp C.
+Các số liệu đến từ **CF-13.445 §3.1** (*Mục tiêu giai đoạn và giới hạn bên ngoài*), điều này chi phối nếu chúng khác nhau. Bên đặc quyền tranh chấp về hạng của mình sẽ được tính ở Cấp của hạng quan trọng hơn mà họ nắm giữ trong Hồ sơ phân loại hệ thống của mình và bất kỳ hạng nào mà người hỏi hoặc diễn đàn hiển thị trên cơ sở sơ bộ, cho đến khi câu hỏi được giải quyết. Bên đặc quyền không có hồ sơ xếp hạng hoặc giữ Hạng P trong khi hạng của nó đang được đề cập, được tính ở Cấp C.
 
 Các cửa sổ hoạt động như thế này:
 
-- **Cửa sổ phản hồi:** Bên được cấp phép phản hồi bên trong cửa sổ phản hồi, đây là mục tiêu tiếp nhận của cấp phù hợp trong **CF-13.445 §3.1** (*Mục tiêu giai đoạn và tầng thời gian*), được tính từ yêu cầu. Nó xuất bản Điều lệ hệ thống hoặc Điều lệ tổ chức hoặc đưa ra ngày mà nó sẽ xuất bản hoặc chỉ ra ngày mà nó đã xuất bản hoặc trả lời rằng nó nằm dưới mỗi dòng của [Tính trọng yếu của miền cụ thể](../../core_05.050_band_oversight.md#domain-specific-materiality) và đưa ra văn bản cho thấy mục đó yêu cầu.
-- **Cửa sổ độ phân giải:** Điều lệ hệ thống hoặc Điều lệ tổ chức phải nằm trong cửa sổ giải quyết, đây là giới hạn bên ngoài của cấp phù hợp trong **CF-13.445 §3.1** (*Mục tiêu giai đoạn và tầng thời gian*), được tính từ yêu cầu, với câu lệnh kiểm tra sự hình thành đi kèm với nó ([§5 Kiểm tra đội hình: Vị thế và tính xác thực của người giữ chức vụ](#5-kiểm-tra-đội-hình-vị-thế-và-tính-xác-thực-của-người-giữ-chức-vụ)). Một Bên được điều lệ không có ghế độc lập vẫn nộp tuyên bố như một tuyên bố kèm theo bằng chứng của mình, như phần đó cung cấp.
+- **Cửa sổ phản hồi:** Bên được cấp phép phản hồi bên trong cửa sổ phản hồi, đây là mục tiêu tiếp nhận của cấp phù hợp trong **CF-13.445 §3.1** (*Mục tiêu giai đoạn và giới hạn bên ngoài*), được tính từ yêu cầu. Nó xuất bản Điều lệ hệ thống hoặc Điều lệ tổ chức hoặc đưa ra ngày mà nó sẽ xuất bản hoặc chỉ ra ngày mà nó đã xuất bản hoặc trả lời rằng nó nằm dưới mỗi dòng của [Tính trọng yếu của miền cụ thể](../../core_05.050_band_oversight.md#domain-specific-materiality) và đưa ra văn bản cho thấy mục đó yêu cầu.
+- **Cửa sổ độ phân giải:** Điều lệ hệ thống hoặc Điều lệ tổ chức phải nằm trong cửa sổ giải quyết, đây là giới hạn bên ngoài của cấp phù hợp trong **CF-13.445 §3.1** (*Mục tiêu giai đoạn và giới hạn bên ngoài*), được tính từ yêu cầu, với câu lệnh kiểm tra sự hình thành đi kèm với nó ([§5 Kiểm tra đội hình: Vị thế và tính xác thực của người giữ chức vụ](#5-kiểm-tra-đội-hình-vị-thế-và-tính-xác-thực-của-người-giữ-chức-vụ)). Một Bên được điều lệ không có ghế độc lập vẫn nộp tuyên bố như một tuyên bố kèm theo bằng chứng của mình, như phần đó cung cấp.
 - **Bên điều hành cho biết nó nằm dưới dòng:** Yêu cầu sau đó cũng là một thách thức phân loại trên tuyến đường trong mục nhập đó *Lộ trình thử thách*:
   - **Chạy cửa sổ:** Cửa sổ độ phân giải tiếp tục chạy trong khi thử thách đang chờ xử lý.
   - **Phần mở rộng thách thức:** Nếu diễn đàn có thẩm quyền đánh giá thử thách xứng đáng được xem xét thì ngày đến hạn sẽ được kéo dài và thời hạn giải quyết mới sẽ bắt đầu khi thử thách được quyết định. Diễn đàn quyết định thử thách bên trong giới hạn ngoài của cấp phù hợp.
   - **Đáng đánh giá có nghĩa là gì:** Một thử thách đáng được xem xét khi nó đặt tên cho một điểm giao cắt cụ thể trong một miền được đặt tên và phần hiển thị bằng văn bản của Bên điều hành để lại một câu hỏi thực sự về điểm giao cắt đó. Bên điều hành không tự mình đánh giá việc này và phản hồi không đưa ra bằng văn bản sẽ không kéo dài ngày.
   - **Nếu một lớp được tìm thấy:** Trong thử thách đó hoặc bất kỳ thử thách nào khác, ngày phát hiện được tính là ngày của yêu cầu: cửa sổ phản hồi và cửa sổ giải quyết chạy từ đó, ở Cấp của lớp được tìm thấy (Lớp A, B, C hoặc L).
 - **Nếu nó bị bỏ lỡ:** Không có phản hồi hoặc không có Điều lệ hệ thống hoặc Điều lệ tổ chức trước ngày đáo hạn là một khiếm khuyết cần ghi lại và sửa chữa. Người hỏi có thể đưa nó đến diễn đàn có thẩm quyền trên cùng một tuyến đường. Nó không bao giờ là điều kiện hình thành hay vận hành.
-- **Một yêu cầu lặp lại:** Yêu cầu thứ hai về cùng một Bên được công nhận, được đưa ra trong khi phản hồi trước đó hoặc kết quả tìm thấy vẫn còn hiệu lực, sẽ không bắt đầu thời hạn phản hồi hoặc giải quyết mới. Đảng Hiến chương trả lời bằng cách chỉ ra phản hồi hoặc phát hiện đó. Việc nó hiển thị rằng nó nằm dưới mọi dòng, chưa được diễn đàn xem xét, không được tính là phản hồi có giá trị. Phản hồi hoặc phát hiện có hiệu lực cho đến khi một trong những điều này xảy ra, khi quá trình mở lại được kích hoạt trong [Chương Chín Phần D §14.2 Kích hoạt mở lại](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers) mô tả:
+- **Một yêu cầu lặp lại:** Yêu cầu thứ hai về cùng một Bên được công nhận, được đưa ra trong khi phản hồi trước đó hoặc kết quả tìm thấy vẫn còn hiệu lực, sẽ không bắt đầu thời hạn phản hồi hoặc giải quyết mới. Đảng Hiến chương trả lời bằng cách chỉ ra phản hồi hoặc phát hiện đó. Việc nó hiển thị rằng nó nằm dưới mọi dòng, chưa được diễn đàn xem xét, không được tính là phản hồi có giá trị. Phản hồi hoặc phát hiện có hiệu lực cho đến khi một trong những điều này xảy ra, khi quá trình mở lại được kích hoạt trong [Chương Chín Phần D §14.2 Kích hoạt mở lại](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers) mô tả:
   - **Thay đổi vật chất:** Hoạt động của Đảng Hiến chương có sự thay đổi căn bản.
   - **Bằng chứng mới:** Bằng chứng mới về việc vượt biển được hiển thị.
 
@@ -283,7 +283,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§1](#1-khi-nào-cần-có-điều-lệ-hệ-thống-và-thể-chế); [Điều XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*).
+- Thượng nguồn: [§1](#1-khi-nào-cần-có-điều-lệ-hệ-thống-và-thể-chế); [Điều XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*).
 - Hạ lưu: [§1 Khi cần có Điều lệ Hệ thống và Thể chế](#1-khi-nào-cần-có-điều-lệ-hệ-thống-và-thể-chế); [§5 Kiểm tra đội hình: Vị thế và tính xác thực của người giữ chức vụ](#5-kiểm-tra-đội-hình-vị-thế-và-tính-xác-thực-của-người-giữ-chức-vụ).
 - Đọc với:
   - [Giữ tạm thời](../../core_05.035_band_accountability.md#interim-hold);
@@ -308,11 +308,11 @@ flowchart TB
 <a id="21-the-right-to-form"></a>
 #### 2.1 Quyền thành lập
 
-Bất cứ ai cũng có thể thành lập một hệ thống, tổ chức hoặc doanh nghiệp mới. Quyền đó được quy định trong [Điều XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*). Chương này bổ sung thêm nhiệm vụ tiếp theo. Khi những gì một Bên điều hành làm là quan trọng đối với những bên khác ở bất kỳ lĩnh vực nào trong chín lĩnh vực của [Tính trọng yếu của miền cụ thể](../../core_05.050_band_oversight.md#domain-specific-materiality), nó phải nói trước công chúng những gì nó yêu cầu có thẩm quyền làm ([§1 Khi cần có Điều lệ Hệ thống và Thể chế](#1-khi-nào-cần-có-điều-lệ-hệ-thống-và-thể-chế)). Việc thông qua Điều lệ hệ thống hoặc Điều lệ tổ chức không được hiểu là nhằm thu hẹp quyền đó hoặc bất kỳ sự bảo vệ nào của Tầng quyền.
+Bất cứ ai cũng có thể thành lập một hệ thống, tổ chức hoặc doanh nghiệp mới. Quyền đó được quy định trong [Điều XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*). Chương này bổ sung thêm nhiệm vụ tiếp theo. Khi những gì một Bên điều hành làm là quan trọng đối với những bên khác ở bất kỳ lĩnh vực nào trong chín lĩnh vực của [Tính trọng yếu của miền cụ thể](../../core_05.050_band_oversight.md#domain-specific-materiality), nó phải nói trước công chúng những gì nó yêu cầu có thẩm quyền làm ([§1 Khi cần có Điều lệ Hệ thống và Thể chế](#1-khi-nào-cần-có-điều-lệ-hệ-thống-và-thể-chế)). Việc thông qua Điều lệ hệ thống hoặc Điều lệ tổ chức không được hiểu là nhằm thu hẹp quyền đó hoặc bất kỳ sự bảo vệ nào của Tầng quyền.
 
 **Ai có quyền hình thành không bao gồm.** Ngoài ba cổng vào [§2.2 Giới hạn đầu tiên: khóa chưa thanh toán đối với người có tri giác](#22-giới-hạn-đầu-tiên-khóa-chưa-thanh-toán-đối-với-một-người-có-tri-giác), [§2.3 Giới hạn thứ hai: tạm dừng các sự kiện đã được xác minh cụ thể](#23-giới-hạn-thứ-hai-tạm-dừng-đối-với-các-sự-kiện-đã-được-xác-minh-cụ-thể), Và [§2.4 Giới hạn thứ ba: khóa đối với chính Bên điều hành](#24-giới-hạn-thứ-ba-khóa-chính-bên-điều-hành), **Điều XI-E** (*Hình thành thể chế và sáng tạo doanh nghiệp*) không bảo vệ:
 
-- một Đảng điều hành được thành lập để phá vỡ Ràng buộc Hiến pháp, làm suy yếu An toàn hoặc Sự thật hoặc để tập trung quyền lực theo những cách [Chương Một §11 Cấu trúc thị trường](../../core_01.005_values_principles.md#11-market-structure) loại trừ; hoặc
+- một Đảng điều hành được thành lập để phá vỡ Ràng buộc Hiến pháp, làm suy yếu An toàn hoặc Sự thật hoặc để tập trung quyền lực theo những cách [Chương Một §11 Cấu trúc thị trường](../../core_01.000_values_principles.md#11-market-structure) loại trừ; hoặc
 - một Bên điều hành được thành lập hoặc điều hành bởi một người sáng lập không thực sự phù hợp với mục đích đã nêu của nó, thể hiện qua hành vi, quyền kiểm soát và phần thưởng đã được xác minh hoặc có ý định lừa dối người khác về mục đích, quyền kiểm soát hoặc lợi ích của mình hoặc làm hại người khác.
 
 Các diễn đàn quyết định những trường hợp này theo Điều khoản đó và hậu quả duy nhất là ba cổng trong đó: cổng khóa chưa thanh toán, lệnh Giữ tạm thời và khóa chính Bên điều hành. Việc kiểm tra đội hình không thành công là một bằng chứng mà diễn đàn cân nhắc, có nghĩa là việc kiểm tra đội hình không thành công sẽ không quyết định được trường hợp nào.
@@ -374,7 +374,7 @@ Giới hạn thứ tư áp dụng đối với một hành động được nêu
 - Hạ lưu:
   - [§4](#4-bản-đồ-vai-trò-điều-lệ-và-hồ-sơ-lưu-giữ-thường-trực);
   - [§7](#7-sửa-đổi-đánh-giá-và-điều-chỉnh-phạm-vi);
-  - [Chương Chín Phần B §8.1 Nội dung hồ sơ tối thiểu](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.010 §8.1) (*Điều lệ Hệ thống cung cấp hồ sơ chứng nhận dựa trên*);
+  - [Chương Chín Phần B §8.1 Nội dung hồ sơ tối thiểu](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.010 §8.1) (*Điều lệ Hệ thống cung cấp hồ sơ chứng nhận dựa trên*);
   - **CI-8.205 §6** (*Mẫu nội dung, rà soát và hình thành của Hệ thống và Điều lệ*) để có danh sách trường đầy đủ.
 - Đọc với:
   - [Chương 18 §4 Khung thông qua và phạm vi thẩm quyền](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*một tài liệu phạm vi được giữ dưới tên khác*);
@@ -470,10 +470,10 @@ Một số phần của Điều lệ Hệ thống hoặc Điều lệ Tổ chứ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§3](#3-điều-lệ-thể-chế-và-hệ-thống-nào-phải-nêu-rõ); [Chương 8 §2 Tầng Hiến pháp bốn chỗ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
+- Thượng nguồn: [§3](#3-điều-lệ-thể-chế-và-hệ-thống-nào-phải-nêu-rõ); [CHƯƠNG TÁM §2 Yêu cầu Hiến pháp về bốn ghế](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - Hạ lưu:
   - [Chương Tám §5 Vị trí được công bố, vị trí tuyển dụng và sự thay thế](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
-  - [Chương Chín Phần B §6.1.1 Bốn ghế trong một chứng nhận](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
+  - [Chương Chín Phần B §6.1.1 Bốn ghế trong một chứng nhận](../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
   - [Chương Mười §3.7 Quyền lưu giữ và mở hồ sơ](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
   - **CI-8.205 §2** (*Làn đường phân cách chức năng*);
   - **CI-14.205 §5** (*Vai trò được ủy quyền và chuỗi trách nhiệm*);
@@ -500,7 +500,7 @@ Mọi Điều lệ Hệ thống hoặc Điều lệ Tổ chức đều có một
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 Ghế là gì và tại sao chúng tồn tại
 
-Mọi [Đạo luật ràng buộc vật chất](../../core_05.035_band_accountability.md#materially-binding-act) có bốn công việc, và [Chương 8 §2 Tầng Hiến pháp bốn chỗ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) giữ họ xa nhau:
+Mọi [Đạo luật ràng buộc vật chất](../../core_05.035_band_accountability.md#materially-binding-act) có bốn công việc, và [CHƯƠNG TÁM §2 Yêu cầu Hiến pháp về bốn ghế](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) giữ họ xa nhau:
 
 - **[Chỗ ngồi bắt đầu](../../core_05.035_band_accountability.md#initiating-seat):** bắt đầu hành động bằng cách yêu cầu, đề xuất, thực hiện hoặc yêu cầu nó.
 - **[Xác minh hoặc ủy quyền chỗ ngồi](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** kiểm tra bằng chứng và thẩm quyền, sau đó xác minh, cho phép, điều kiện hoặc từ chối hành động.
@@ -658,24 +658,24 @@ Nếu điều gì đó mà không ai có thể lường trước được sẽ k
   - [§1.5](#15-khi-đến-hạn-điều-lệ-hệ-thống-hoặc-điều-lệ-tổ-chức);
   - [§3](#3-điều-lệ-thể-chế-và-hệ-thống-nào-phải-nêu-rõ);
   - [§4](#4-bản-đồ-vai-trò-điều-lệ-và-hồ-sơ-lưu-giữ-thường-trực);
-  - [Điều XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*);
+  - [Điều XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*);
   - [Phần thưởng hệ thống gì](../../core_00.000_preamble.md#what-systems-reward) và
   - [Hai câu hỏi cơ bản](../../core_00.000_preamble.md#two-fundamental-questions);
-  - [Chương Một §19.1.4 Con đường Chiều sâu Vai trò và Trách nhiệm Vật chất](../../core_01.015_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4);
-  - [Chương Một §19.4 Chỉnh sửa sai lệch và phản hồi ghi lại](../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4);
+  - [Chương Một §19.1.4 Con đường Chiều sâu Vai trò và Trách nhiệm Vật chất](../../core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4);
+  - [Chương Một §19.4 Chỉnh sửa sai lệch và phản hồi ghi lại](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4);
   - [Chương Mười một §4.2 Phòng ngừa - ổ khóa đứng chung](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2),
   - [§5.5 Khóa đặc biệt](../../core_11.000_standing_integration.md#55-special-locks), Và
   - [§6.2 Thanh năng lực và khoảng trống](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances).
 - Hạ lưu:
   - [§6 Khi Người nắm giữ không vượt qua được quá trình kiểm tra đội hình](#6-khi-người-nắm-giữ-không-vượt-qua-được-quá-trình-kiểm-tra-đội-hình);
-  - [Chương Chín Phần D §12.2 Đánh giá thể chế, luôn luôn](../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.020 §12.2) (mục 7, *diễn đàn kiểm tra tuyên bố*);
-  - [Chương Chín Phần A §3.3 Kỷ luật quản trị, khuyến khích và cạnh tranh](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline) (9,005 §3,3);
+  - [Chương Chín Phần D §12.2 Đánh giá thể chế, luôn luôn](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.020 §12.2) (mục 7, *diễn đàn kiểm tra tuyên bố*);
+  - [Chương Chín Phần A §3.3 Kỷ luật quản trị, khuyến khích và cạnh tranh](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline) (9,005 §3,3);
   - **CI-8.205 §6** (*Mẫu nội dung, rà soát và hình thành của Hệ thống và Điều lệ*) cho mẫu câu lệnh.
 - Đọc với:
   - [Dây chuyền kiểm soát vật liệu](../../core_05.035_band_accountability.md#material-control-line);
   - [Kỷ lục thường trực](../../core_05.035_band_accountability.md#standing-record);
   - [Báo cáo được bảo vệ (Tố giác)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing);
-  - [Chương Một §17.5 Nghĩa vụ chống cự](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5);
+  - [Chương Một §17.5 Nghĩa vụ chống cự](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5);
   - **CI-14.205 §2** (*Tiêu chí vai trò, tiêu chuẩn bổ nhiệm và lộ trình loại bỏ*);
   - **CI-8.210** (*Liêm chính xung đột, chống nắm bắt và chống tham nhũng*).
 
@@ -685,7 +685,7 @@ Nếu điều gì đó mà không ai có thể lường trước được sẽ k
 
 *Nói một cách dễ hiểu: trước khi một Đảng Hiến chương thực thi quyền lực đối với những người khác, những người nắm giữ các chức vụ chủ chốt của Đảng đó sẽ được kiểm tra hai lần. Họ có đáp ứng được tiêu chuẩn đã công bố cho vai trò mà không có rào cản nào cản trở không? Và họ có giữ chức vụ theo quyền riêng của mình và vì mục đích đã nêu của Đảng Hiến chương chứ không phải với tư cách là người bình phong hay người được đề cử không? Câu trả lời đến từ người chỉ đạo họ, họ được trả tiền để làm gì và họ đã nói và làm gì một cách có thể kiểm chứng được, chứ không bao giờ đến từ những gì họ tin tưởng. Đây là một cuộc kiểm tra sự hình thành và không phải là giấy phép.*
 
-Phần này là **kiểm tra sự hình thành**. Nó áp dụng ba cổng nêu trong [§2 Quyền hình thành và bốn giới hạn hẹp](#2-quyền-hình-thành-và-bốn-giới-hạn-hẹp): hai cái gắn liền với một người có tên sẽ áp dụng cho các văn phòng được bảo đảm và cái thứ ba áp dụng cho một Bên được cấp phép đang bị khóa. [Điều XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*) không bị thu hẹp bởi nó. Áp dụng cho Bên đặc quyền hạng L trở lên ([§1 Khi cần có Điều lệ Hệ thống và Thể chế](#1-khi-nào-cần-có-điều-lệ-hệ-thống-và-thể-chế)).
+Phần này là **kiểm tra sự hình thành**. Nó áp dụng ba cổng nêu trong [§2 Quyền hình thành và bốn giới hạn hẹp](#2-quyền-hình-thành-và-bốn-giới-hạn-hẹp): hai cái gắn liền với một người có tên sẽ áp dụng cho các văn phòng được bảo đảm và cái thứ ba áp dụng cho một Bên được cấp phép đang bị khóa. [Điều XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*) không bị thu hẹp bởi nó. Áp dụng cho Bên đặc quyền hạng L trở lên ([§1 Khi cần có Điều lệ Hệ thống và Thể chế](#1-khi-nào-cần-có-điều-lệ-hệ-thống-và-thể-chế)).
 
 <a id="51-what-is-covered"></a>
 #### 5.1 Nội dung được đề cập
@@ -714,16 +714,16 @@ Chỉ có hồ sơ thường trực được xác minh mới được tính và 
 <a id="53-authenticity-check"></a>
 #### 5.3 Kiểm tra tính xác thực
 
-Một văn phòng có mái che là **thật** khi chủ sở hữu của nó nắm giữ nó theo quyền riêng của họ và vì mục đích Điều lệ hệ thống hoặc Điều lệ tổ chức của nó nêu rõ chứ không phải với tư cách là người đứng đầu, người được đề cử hoặc người được ủy quyền cho mục đích mà tài liệu đó không nêu rõ. Đảng Hiến chương nhận thấy điều này từ bằng chứng về bốn điều. Một diễn đàn sau đó kiểm tra bốn cái tương tự ([Chương Chín Phần D §12.2 Đánh giá thể chế, luôn luôn](../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always), mục 7).
+Một văn phòng có mái che là **thật** khi chủ sở hữu của nó nắm giữ nó theo quyền riêng của họ và vì mục đích Điều lệ hệ thống hoặc Điều lệ tổ chức của nó nêu rõ chứ không phải với tư cách là người đứng đầu, người được đề cử hoặc người được ủy quyền cho mục đích mà tài liệu đó không nêu rõ. Đảng Hiến chương nhận thấy điều này từ bằng chứng về bốn điều. Một diễn đàn sau đó kiểm tra bốn cái tương tự ([Chương Chín Phần D §12.2 Đánh giá thể chế, luôn luôn](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always), mục 7).
 
-- **Điều khiển:** ai có thể hướng dẫn, tài trợ, thay thế hoặc khen thưởng người nắm giữ, trong hoặc ngoài cơ quan có thẩm quyền được công bố. Người nắm giữ hành động theo chỉ thị của một bên không được tiết lộ hoặc ghế của người đó được giữ cho người khác là không xác thực. Các tuyến đường kiểm soát có lợi không rõ ràng là nắm bắt hệ thống ([Chương Một §19.4 Chỉnh sửa sai lệch và phản hồi ghi lại](../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
+- **Điều khiển:** ai có thể hướng dẫn, tài trợ, thay thế hoặc khen thưởng người nắm giữ, trong hoặc ngoài cơ quan có thẩm quyền được công bố. Người nắm giữ hành động theo chỉ thị của một bên không được tiết lộ hoặc ghế của người đó được giữ cho người khác là không xác thực. Các tuyến đường kiểm soát có lợi không rõ ràng là nắm bắt hệ thống ([Chương Một §19.4 Chỉnh sửa sai lệch và phản hồi ghi lại](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
 - **Quyền lợi và phần thưởng:** những gì người nắm giữ nhận được từ văn phòng và nó được thanh toán như thế nào.
   - Tiền lương, vốn chủ sở hữu, mục tiêu và các phần thưởng khác của người nắm giữ được công bố theo mức độ trọng yếu của chúng và được đưa vào [Hai câu hỏi cơ bản](../../core_00.000_preamble.md#two-fundamental-questions): cấu trúc có khen thưởng cho mục đích đã nêu hay nó khen thưởng việc vượt qua các giới hạn đã nêu, che giấu vấn đề hoặc chuyển chi phí sang người khác?
   - Người nắm giữ được khen thưởng vì những giới hạn được công bố của Đảng Hiến chương cấm sẽ không giữ chức vụ theo mục đích đã nêu cho đến khi phần thưởng được thay đổi.
 - **Chỉ đạo:** những gì người nắm giữ đã thực hiện một cách có thể xác minh được trong cùng một chức năng, bao gồm hồ sơ đã được xác minh về việc che giấu, trả thù các phóng viên hoặc hủy bỏ cùng một loại séc, và bao gồm cả những gì người nắm giữ đã nói có thể xác minh được theo [§5.5 Người nắm giữ đã nói gì](#55-người-nắm-giữ-đã-nói-gì).
   - Người nắm giữ không có hồ sơ sẽ không có hồ sơ xấu và người sáng lập lần đầu không thể vượt qua cuộc kiểm tra tính xác thực vì thiếu lịch sử.
   - Người nắm giữ không có hồ sơ sẽ không có lịch sử để xem xét, vì vậy quá trình kiểm tra đội hình sẽ xem xét những gì họ cam kết và thực hiện hiện tại. Họ đồng ý bằng văn bản về những giới hạn mà Chartered Party đặt ra đối với những gì họ sẽ không làm. Họ chấp nhận kiểm tra bởi một bên độc lập. Và khi họ không đồng ý với một phát hiện nào đó về mình, họ sẽ sử dụng con đường đó để thách thức nó.
-- **Giọng nói được bảo vệ:** chủ sở hữu có một lộ trình làm việc để từ chối một chỉ dẫn trái pháp luật hoặc vi hiến ([Chương Một §17.5 Nghĩa vụ chống cự](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) và lập báo cáo được bảo vệ khi có nghi ngờ hợp lý về việc không tuân thủ hiến pháp, tổn hại vật chất, sai sót về an toàn hoặc sự thật, tham nhũng, bắt giữ, lạm dụng, trả thù hoặc cản trở việc xem xét cần thiết ([Báo cáo được bảo vệ (Tố giác)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)). Bên được cấp phép không được phạt chủ sở hữu vì sử dụng một trong hai tuyến đường một cách thiện chí.
+- **Giọng nói được bảo vệ:** chủ sở hữu có một lộ trình làm việc để từ chối một chỉ dẫn trái pháp luật hoặc vi hiến ([Chương Một §17.5 Nghĩa vụ chống cự](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) và lập báo cáo được bảo vệ khi có nghi ngờ hợp lý về việc không tuân thủ hiến pháp, tổn hại vật chất, sai sót về an toàn hoặc sự thật, tham nhũng, bắt giữ, lạm dụng, trả thù hoặc cản trở việc xem xét cần thiết ([Báo cáo được bảo vệ (Tố giác)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)). Bên được cấp phép không được phạt chủ sở hữu vì sử dụng một trong hai tuyến đường một cách thiện chí.
 
 <a id="54-what-the-formation-check-may-use-as-evidence"></a>
 #### 5.4 Việc kiểm tra đội hình có thể sử dụng những gì làm bằng chứng
@@ -731,30 +731,30 @@ Một văn phòng có mái che là **thật** khi chủ sở hữu của nó n�
 Việc kiểm tra sự hình thành không bao giờ hỏi xem một người có tri giác tin tưởng, coi trọng hoặc cảm nhận gì về Đảng Hiến chương, không bao giờ quyết định liệu niềm tin đó là đúng hay chân thành và không thu thập bài phát biểu mới nào để tìm hiểu. Sự phù hợp về mục đích được thể hiện qua việc ai chỉ đạo chủ sở hữu, chủ sở hữu được trả tiền để làm gì, chủ sở hữu làm gì và chủ sở hữu đã nói hoặc lên kế hoạch gì về người khác. Ba quy tắc giữ điều này rõ ràng:
 
 - **Giữ thôi chưa đủ:** Việc nắm giữ hoặc tuyên xưng một tín ngưỡng, hoặc thuộc về một tín ngưỡng, đảng phái hoặc nhóm, bản thân nó không được tính là ủng hộ hay chống lại người nắm giữ. Danh tính riêng của chủ sở hữu, đặc điểm được bảo vệ hoặc tình trạng khuyết tật cũng không có. Lời tuyên bố nhiệt tình hay lời thề trung thành không bao giờ có lợi cho người nắm giữ.
-- **Nhãn không có lá chắn:** Một tuyên bố, kêu gọi, lập kế hoạch hoặc hành động đã được xác minh khiến người khác đáng bị tổn hại hoặc đối xử phân biệt đối xử bị cấm theo [Điều VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Không phân biệt đối xử*), được tính vào người nắm giữ bất kể nó được gọi là gì. Cho dù đó là sự phân biệt đối xử có hại hay bị cấm, và quy tắc mà nhãn hiệu tôn giáo, chính trị hoặc ý thức hệ không bổ sung hay bào chữa cho nó, đều được đặt ra bởi [Chương Một §7.5 Biểu hiện và Đường gây hại](../../core_01.005_values_principles.md#75-expression-and-the-harm-line). Nó được đánh giá dựa trên những gì nó tuyên bố, kêu gọi hoặc làm, chứ không dựa trên học thuyết được đưa ra để biện minh cho nó.
+- **Nhãn không có lá chắn:** Một tuyên bố, kêu gọi, lập kế hoạch hoặc hành động đã được xác minh khiến người khác đáng bị tổn hại hoặc đối xử phân biệt đối xử bị cấm theo [Điều VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Không phân biệt đối xử*), được tính vào người nắm giữ bất kể nó được gọi là gì. Cho dù đó là sự phân biệt đối xử có hại hay bị cấm, và quy tắc mà nhãn hiệu tôn giáo, chính trị hoặc ý thức hệ không bổ sung hay bào chữa cho nó, đều được đặt ra bởi [Chương Một §7.5 Biểu hiện và Đường gây hại](../../core_01.000_values_principles.md#75-expression-and-the-harm-line). Nó được đánh giá dựa trên những gì nó tuyên bố, kêu gọi hoặc làm, chứ không dựa trên học thuyết được đưa ra để biện minh cho nó.
 - **Kiểm soát không phải là thành viên:** Thuộc về một nhóm không phải là bằng chứng. Ai có thể hướng dẫn, tài trợ, thay thế hoặc thưởng cho người nắm giữ là bằng chứng theo *Điều khiển* phần trên, bất kể đó là loại nhóm nào.
 
 Phần này làm gì và không quyết định:
 
-- Phần này chỉ quyết định bằng chứng nào mà việc kiểm tra sự hình thành có thể sử dụng, theo nguyên tắc trong [Chương Một §7.5 Biểu hiện và Đường gây hại](../../core_01.005_values_principles.md#75-expression-and-the-harm-line).
-- Những gì bị cấm được thiết lập bởi [Điều VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Không phân biệt đối xử*) Và **Điều XI-F** (*Không áp đặt và đồng thuận trong hiệp hội*):
+- Phần này chỉ quyết định bằng chứng nào mà việc kiểm tra sự hình thành có thể sử dụng, theo nguyên tắc trong [Chương Một §7.5 Biểu hiện và Đường gây hại](../../core_01.000_values_principles.md#75-expression-and-the-harm-line).
+- Những gì bị cấm được thiết lập bởi [Điều VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Không phân biệt đối xử*) Và **Điều XI-F** (*Không áp đặt và đồng thuận trong hiệp hội*):
   - Không có gì ở đây mở rộng hoặc thu hẹp cả.
   - Các quy tắc mà một cộng đồng tự nguyện đặt ra cho các thành viên của mình và việc thực hành, theo những điều khoản mà các thành viên chấp nhận, đều bị chi phối bởi chúng.
 
 <a id="55-what-a-holder-has-said"></a>
 #### 5.5 Người nắm giữ đã nói gì
 
-Một loại tuyên bố là hành vi và có tính chất chống lại người nắm giữ: một tuyên bố, lời kêu gọi hoặc kế hoạch đã được xác minh rằng người khác đáng bị tổn hại hoặc hành vi phân biệt đối xử bị cấm theo [Điều VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Không phân biệt đối xử*), hoặc người nắm giữ sẽ gây ra một trong hai điều đó.
+Một loại tuyên bố là hành vi và có tính chất chống lại người nắm giữ: một tuyên bố, lời kêu gọi hoặc kế hoạch đã được xác minh rằng người khác đáng bị tổn hại hoặc hành vi phân biệt đối xử bị cấm theo [Điều VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Không phân biệt đối xử*), hoặc người nắm giữ sẽ gây ra một trong hai điều đó.
 
 - **Cân nặng:**
   - Đó là bằng chứng về ý định gây tổn hại và không phù hợp với cách đối xử công bằng đối với những người mà Đảng đặc quyền hoặc văn phòng ảnh hưởng.
   - Nó nặng hơn khi văn phòng của người nắm giữ hoặc Đảng Hiến chương trao quyền cho những người khác.
   - Chỉ một tuyên bố thôi thì không bao giờ đủ cơ sở cho một [Giữ tạm thời](../../core_05.035_band_accountability.md#interim-hold): việc giữ lại cũng cần có sự thật được xác minh độc lập về hành vi, kiểm soát hoặc khen thưởng.
-  - Khi lời nói là một phần cơ sở, nó được thể hiện bằng bằng chứng rõ ràng, được xác minh, những nghi ngờ mở được coi là cơ sở và sự xem xét kỹ lưỡng nhất về điều đó. [**Điều XI-B** (*Sự biểu lộ*)](../../core_06.010_rights_part_b.md#article-xi-b-expression) áp dụng cho các giới hạn dựa trên những gì được nói sẽ được ghi lại là áp dụng.
-- **Những gì không được tính:** Quan điểm cho rằng một nhóm, ý tưởng hoặc tổ chức là sai, những lời chỉ trích gay gắt, bất đồng chính kiến ​​​​hợp pháp, châm biếm, trích dẫn, báo cáo và học thuật không được tính, bởi vì không ai trong số họ tuyên bố hoặc kêu gọi làm tổn hại hoặc đối xử phân biệt đối xử với người khác. Chỉ xúc phạm hoặc bất đồng không có hại ([**Điều XI-G** (*Giao diện thực thi và ranh giới tác hại tập thể*)](../../core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
+  - Khi lời nói là một phần cơ sở, nó được thể hiện bằng bằng chứng rõ ràng, được xác minh, những nghi ngờ mở được coi là cơ sở và sự xem xét kỹ lưỡng nhất về điều đó. [**Điều XI-B** (*Sự biểu lộ*)](../../core_06.005_rights_part_b.md#article-xi-b-expression) áp dụng cho các giới hạn dựa trên những gì được nói sẽ được ghi lại là áp dụng.
+- **Những gì không được tính:** Quan điểm cho rằng một nhóm, ý tưởng hoặc tổ chức là sai, những lời chỉ trích gay gắt, bất đồng chính kiến ​​​​hợp pháp, châm biếm, trích dẫn, báo cáo và học thuật không được tính, bởi vì không ai trong số họ tuyên bố hoặc kêu gọi làm tổn hại hoặc đối xử phân biệt đối xử với người khác. Chỉ xúc phạm hoặc bất đồng không có hại ([**Điều XI-G** (*Giao diện thực thi và ranh giới tác hại tập thể*)](../../core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
 - **Làm thế nào nó được tìm thấy:** Tuyên bố phải được xác minh và đọc trong ngữ cảnh. Nó xuất phát từ những gì đã được công khai, từ những gì đã được nói trong hoặc về Đảng Hiến chương hoặc văn phòng, hoặc từ một báo cáo được bảo vệ. Không Bên điều lệ nào có thể giám sát bài phát biểu hoặc hiệp hội riêng tư của người sáng lập hoặc chủ sở hữu để tìm kiếm.
 - **Trả lời và giải quyết:** Người nắm giữ có thể trả lời, hiển thị ngữ cảnh và thể hiện bằng hành động rằng tuyên bố đó không còn đúng nữa. Một sự rút lại trần trụi không xóa được nó.
-- **Không phải là một hình phạt cho lời nói:** Sử dụng một tuyên bố làm bằng chứng không phải là một giới hạn trong cách diễn đạt ([Chương Một §7.5 Biểu hiện và Đường gây hại](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)) và câu lệnh vẫn được bảo vệ dưới dạng lời nói theo [**Điều XI-B** (*Sự biểu lộ*)](../../core_06.010_rights_part_b.md#article-xi-b-expression). Tác dụng duy nhất của nó là ai nắm quyền đối với những người mà nó quan tâm.
+- **Không phải là một hình phạt cho lời nói:** Sử dụng một tuyên bố làm bằng chứng không phải là một giới hạn trong cách diễn đạt ([Chương Một §7.5 Biểu hiện và Đường gây hại](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)) và câu lệnh vẫn được bảo vệ dưới dạng lời nói theo [**Điều XI-B** (*Sự biểu lộ*)](../../core_06.005_rights_part_b.md#article-xi-b-expression). Tác dụng duy nhất của nó là ai nắm quyền đối với những người mà nó quan tâm.
 
 <a id="56-staff-safeguards-check"></a>
 #### 5.6 Kiểm tra các biện pháp bảo vệ nhân viên
@@ -763,7 +763,7 @@ Một loại tuyên bố là hành vi và có tính chất chống lại ngườ
 
 - Các quy định về bổ nhiệm, trả lương, thăng chức và bãi nhiệm không khuyến khích việc làm việc trái với mục đích đã nêu của Đảng điều lệ;
 - Tồn tại một lộ trình báo cáo được bảo vệ và không có nhân viên nào sử dụng lộ trình đó hoặc từ chối chỉ thị bất hợp pháp hoặc vi hiến bị phạt; Và
-- Các quyền trong [Điều III-C](../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Tầng lao động và kinh tế*) còn nguyên vẹn.
+- Các quyền trong [Điều III-C](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Tầng lao động và kinh tế*) còn nguyên vẹn.
 
 Điều này kiểm tra cấu trúc của Chartered Party. Cá nhân nhân viên không được sàng lọc.
 
@@ -786,7 +786,7 @@ Người nắm giữ có thể được xác định theo văn phòng và phiên
   - Trong trường hợp một Đảng điều lệ có quy mô nhỏ và chưa có ghế độc lập thì tuyên bố đó là một tuyên bố có bằng chứng và được xác minh tại lần chứng nhận đầu tiên của Đảng điều lệ.
   - Việc không được xác minh trong khoảng thời gian đó không bao giờ là trở ngại cho việc hình thành hoặc vận hành.
 - **Tuyên bố sai:**
-  - Một tuyên bố sai sự thật hoặc che giấu người kiểm soát một văn phòng được bảo hiểm là sự che giấu và bằng chứng gian lận cho hồ sơ chứng nhận và cho cây cầu thường trực ([Chương Chín Phần D §15 Cây Cầu Đứng Và Không Lẩn Tránh](../../core_09.020_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Chương Chín Phần B §10 Mối Quan Hệ Với Vị Thế](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)).
+  - Một tuyên bố sai sự thật hoặc che giấu người kiểm soát một văn phòng được bảo hiểm là sự che giấu và bằng chứng gian lận cho hồ sơ chứng nhận và cho cây cầu thường trực ([Chương Chín Phần D §15 Cây Cầu Đứng Và Không Lẩn Tránh](../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Chương Chín Phần B §10 Mối Quan Hệ Với Vị Thế](../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)).
   - Trường hợp một sinh viên cố tình đưa ra tuyên bố, ký tên hoặc khiến nó được đưa ra và sự giả dối là quan trọng và đã được xác minh, thì đó cũng là cơ sở để Cơ quan có thẩm quyền thường trực của cơ quan khóa đối với người đó ([Chương Mười Một §5.5 Khóa đặc biệt](../../core_11.000_standing_integration.md#55-special-locks)), cho dù nó có ẩn điều khiển hay không. Khóa gắn vào người có tri giác đã đưa ra hoặc đưa ra tuyên bố chứ không gắn với Bên được cấp phép hoặc người nắm giữ không làm như vậy.
   - Một tuyên bố sai mà người nhận không biết không phải là cơ sở. Đó là một khiếm khuyết cần khắc phục theo [§6 Khi Người nắm giữ không vượt qua được quá trình kiểm tra đội hình](#6-khi-người-nắm-giữ-không-vượt-qua-được-quá-trình-kiểm-tra-đội-hình).
 
@@ -814,7 +814,7 @@ Tuyên bố được xuất bản một lần và sau đó được giữ nguyê
 
 Việc kiểm tra đội hình được giữ tỷ lệ thuận với những gì nó bảo vệ:
 
-- Đảng đặc quyền chỉ thu thập những gì mà mỗi tấm séc trong số ba tấm séc cần. Việc trả thù, giám sát hoặc nhắm mục tiêu vào người sáng lập là không tuân thủ theo [Điều XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*).
+- Đảng đặc quyền chỉ thu thập những gì mà mỗi tấm séc trong số ba tấm séc cần. Việc trả thù, giám sát hoặc nhắm mục tiêu vào người sáng lập là không tuân thủ theo [Điều XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*).
 - Việc kiểm tra đội hình có quy mô theo lớp và [cổ phần vật chất](../../core_00.000_preamble.md#material-stake). Ở Lớp L, đó là một tuyên bố ngắn gọn dành cho một số ít văn phòng được bảo hiểm và đối với một người sáng lập duy nhất, nó chỉ đơn giản là tiết lộ các lợi ích và bất kỳ sự kiểm soát nào từ bên ngoài. Hơn thế nữa là [Gánh nặng có thể tránh được](../../core_05.040_band_continuity.md#avoidable-burden).
 
 <a id="6-when-a-holder-fails-the-formation-check"></a>
@@ -841,10 +841,10 @@ Việc kiểm tra đội hình được giữ tỷ lệ thuận với những g�
   - [§5](#5-kiểm-tra-đội-hình-vị-thế-và-tính-xác-thực-của-người-giữ-chức-vụ);
   - [§2](#2-quyền-hình-thành-và-bốn-giới-hạn-hẹp);
   - [§1.6](#16-nếu-thiếu-điều-lệ-hệ-thống-hoặc-điều-lệ-tổ-chức);
-  - [Điều XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*);
+  - [Điều XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*);
   - [Chương mười ba §5 Tạm thời giữ lại con đường của một sinh vật có tên](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
 - Hạ lưu:
-  - [Chương Chín Phần D §13.5 Sẵn sàng khắc phục, từ chối và thu hồi đối với một Tổ chức](../../core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.020 §13.5);
+  - [Chương Chín Phần D §13.5 Sẵn sàng khắc phục, từ chối và thu hồi đối với một Tổ chức](../../core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.020 §13.5);
   - [Chương Tám §3 Đường độc lập, xung đột và kiểm soát](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - **CI-11.210** (*Sự thất bại và giải thể thể chế*);
   - **CI-11.215** (*Trách nhiệm thể chế và các biện pháp trừng phạt*);
@@ -877,7 +877,7 @@ Khi một người không đạt được kiểm tra thường trực:
 
 - **Ra khỏi văn phòng:** Người có tri giác có thể không giữ chức vụ đó. Vai trò quy định trong **CI-14.205 §2** (*Tiêu chí vai trò, tiêu chuẩn bổ nhiệm và lộ trình loại bỏ*) đã nói như vậy và trong trường hợp nguyên nhân là do khóa chưa xử lý hoặc Bị tạm dừng tạm thời thì cũng vậy **Điều XI-E** (*Hình thành thể chế và sáng tạo doanh nghiệp*).
 - **Đổ đầy chỗ ngồi:** Một người khác đảm nhận chức vụ hoặc người thay thế và sự thay đổi được ghi lại trong phiên bản mới của Bản đồ vai trò.
-- **Không có chủ sở hữu hợp pháp:** Nếu điều đó khiến Đảng Hiến chương không có người nắm giữ hợp pháp một văn phòng điều hành và những người khác phụ thuộc vào nó, thì diễn đàn có thẩm quyền có thể chỉ định một người quản lý tạm thời và không ngăn cản Đảng Hiến chương, như [Điều XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*) quy định về việc Giữ tạm thời.
+- **Không có chủ sở hữu hợp pháp:** Nếu điều đó khiến Đảng Hiến chương không có người nắm giữ hợp pháp một văn phòng điều hành và những người khác phụ thuộc vào nó, thì diễn đàn có thẩm quyền có thể chỉ định một người quản lý tạm thời và không ngăn cản Đảng Hiến chương, như [Điều XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Hình thành thể chế và sáng tạo doanh nghiệp*) quy định về việc Giữ tạm thời.
 
 <a id="63-when-the-facts-may-support-an-interim-hold"></a>
 #### 6.3 Khi thực tế có thể hỗ trợ cho việc Giữ tạm thời
@@ -917,7 +917,7 @@ Khi một văn phòng được bảo hiểm không vượt qua được bước 
 - **Ai quyết định:** Diễn đàn có thẩm quyền quyết định liệu khóa có đến được phương tiện hay không, dựa trên các thông tin đã được xác minh và bên nói rằng nó có chịu trách nhiệm hay không.
 - **Tuyên bố riêng:** Tuyên bố riêng của Đảng Hiến chương rằng nó mới không quyết định được điều đó.
 - **Các bên điều hành khác:** Khóa không đến được với Bên điều hành khác, trừ khi trên thực tế đó là một hoạt động với Bên điều hành đã bị giải thể.
-- **Cố tình trốn tránh:** Việc thành lập lại, phục hồi hoặc điều hành một Đảng đặc quyền đã bị giải thể dưới một tên khác hoặc thông qua một người kế nhiệm, thực thể được kiểm soát hoặc phương tiện do người được đề cử hoặc nắm giữ, để vượt qua vòng vây là một hình thức hành vi sai trái vi hiến. Một diễn đàn có thể chỉ định nó theo [Chương 12 Phần A](../../core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) trên sự thật đã được xác minh.
+- **Cố tình trốn tránh:** Việc thành lập lại, phục hồi hoặc điều hành một Đảng đặc quyền đã bị giải thể dưới một tên khác hoặc thông qua một người kế nhiệm, thực thể được kiểm soát hoặc phương tiện do người được đề cử hoặc nắm giữ, để vượt qua vòng vây là một hình thức hành vi sai trái vi hiến. Một diễn đàn có thể chỉ định nó theo [Chương 12 Phần A](../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) trên sự thật đã được xác minh.
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 Cửa sổ phản hồi và giải quyết
@@ -973,8 +973,8 @@ Người nắm giữ nhận được phát hiện bất lợi sẽ được bả
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [§3](#3-điều-lệ-thể-chế-và-hệ-thống-nào-phải-nêu-rõ); [Chương Một §18.4 Biện minh liên tục](../../core_01.015_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
-- Hạ lưu: [Chương Chín Phần B §9 Tái chứng nhận và mở cửa trở lại](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.010 §9) (*Sửa đổi Điều lệ Hệ thống và không khớp khi kích hoạt việc mở lại*); [Chương mười ba §4.3 Diễn đàn thể chế](../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
+- Thượng nguồn: [§3](#3-điều-lệ-thể-chế-và-hệ-thống-nào-phải-nêu-rõ); [Chương Một §18.4 Biện minh liên tục](../../core_01.010_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
+- Hạ lưu: [Chương Chín Phần B §9 Tái chứng nhận và mở cửa trở lại](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.010 §9) (*Sửa đổi Điều lệ Hệ thống và không khớp khi kích hoạt việc mở lại*); [Chương mười ba §4.3 Diễn đàn thể chế](../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
 - Đọc với: [Tính toàn vẹn ranh giới hệ thống](../../core_05.040_band_continuity.md#system-boundary-integrity); **CI-8.205 §1** (*Nhiệm vụ quản lý không thể ủy quyền*); **CI-8.205 §6** (*Mẫu nội dung, rà soát và hình thành của Hệ thống và Điều lệ*).
 
 </details>
@@ -1037,7 +1037,7 @@ Bên đặc quyền xem xét Điều lệ hệ thống hoặc Điều lệ thể
   - mỗi văn phòng được bảo hiểm vẫn do người có tri giác nắm giữ tên tuyên bố;
   - những người có tri giác có thể hướng dẫn, tài trợ, thay thế hoặc khen thưởng cho mỗi người nắm giữ vẫn là những người mà tuyên bố mô tả;
   - mức lương của mỗi chủ sở hữu và các phần thưởng khác vẫn khớp với những gì tuyên bố mô tả; Và
-  - mỗi chủ sở hữu vẫn có cách để từ chối một chỉ dẫn trái pháp luật hoặc vi hiến ([Chương Một §17.5 Nghĩa vụ chống cự](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) và lập báo cáo được bảo vệ khi có nghi ngờ hợp lý về việc không tuân thủ hiến pháp, tổn hại vật chất, sai sót về an toàn hoặc sự thật, tham nhũng, bắt giữ, lạm dụng, trả thù hoặc cản trở việc xem xét cần thiết ([Báo cáo được bảo vệ (Tố giác)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)).
+  - mỗi chủ sở hữu vẫn có cách để từ chối một chỉ dẫn trái pháp luật hoặc vi hiến ([Chương Một §17.5 Nghĩa vụ chống cự](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) và lập báo cáo được bảo vệ khi có nghi ngờ hợp lý về việc không tuân thủ hiến pháp, tổn hại vật chất, sai sót về an toàn hoặc sự thật, tham nhũng, bắt giữ, lạm dụng, trả thù hoặc cản trở việc xem xét cần thiết ([Báo cáo được bảo vệ (Tố giác)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)).
 
 <a id="74-adding-retiring-or-merging-systems"></a>
 #### 7.4 Thêm, gỡ bỏ hoặc hợp nhất Hệ thống
@@ -1055,7 +1055,7 @@ Khi Điều lệ hệ thống hoặc Điều lệ tổ chức và những gì B�
 
 - **Các cách để đóng nó:** Sửa đổi tài liệu, sửa chữa (khắc phục), chứng nhận lại hoặc cắt giảm phạm vi cho phù hợp với tài liệu.
 - **Những cách không được tính:** Âm thầm mở rộng phạm vi hoặc để nguyên tờ giấy.
-- **Đánh giá chứng nhận:** Sự không phù hợp về mặt trọng yếu cũng dẫn đến một diễn đàn đánh giá mới về chứng nhận của Hệ thống hoặc Tổ chức đó. Việc xem xét không chờ đợi lần đánh giá tiếp theo được lên lịch. Đối với Hệ thống, xem [Chương Chín Phần B §9 Tái chứng nhận và mở cửa trở lại](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening). Đối với một tổ chức, xem [Chương Chín Phần D §14.2 Kích hoạt mở lại](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers). Chứng nhận đọc phạm vi đã nêu và so sánh nó với ranh giới thực. Nó không viết lại tài liệu và chứng nhận của tổ chức trích dẫn từng Bản ghi chứng nhận hệ thống được bao gồm mà không làm lại ([Chương Chín Phần D](../../core_09.020_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
+- **Đánh giá chứng nhận:** Sự không phù hợp về mặt trọng yếu cũng dẫn đến một diễn đàn đánh giá mới về chứng nhận của Hệ thống hoặc Tổ chức đó. Việc xem xét không chờ đợi lần đánh giá tiếp theo được lên lịch. Đối với Hệ thống, xem [Chương Chín Phần B §9 Tái chứng nhận và mở cửa trở lại](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening). Đối với một tổ chức, xem [Chương Chín Phần D §14.2 Kích hoạt mở lại](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers). Chứng nhận đọc phạm vi đã nêu và so sánh nó với ranh giới thực. Nó không viết lại tài liệu và chứng nhận của tổ chức trích dẫn từng Bản ghi chứng nhận hệ thống được bao gồm mà không làm lại ([Chương Chín Phần D](../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
 - **Nơi xảy ra tranh chấp:** Các diễn đàn tổ chức giải quyết các tranh chấp về phạm vi Điều lệ tổ chức, thẩm quyền sửa đổi Điều lệ tổ chức, sự không phù hợp giữa Điều lệ tổ chức và hành vi cũng như hoạt động ngoài phạm vi điều lệ ([Chương mười ba §4.3 Diễn đàn thể chế](../../core_13.000_forum.md#43-institutional-forums)).
 
 <a id="76-keeping-old-versions"></a>

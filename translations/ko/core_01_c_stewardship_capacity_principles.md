@@ -1146,7 +1146,7 @@ flowchart TB
   - 불법적이거나 위헌적인 명령 행위;
   - 은폐;
   - 보복;
-  - [책임성 방해](core_08_standing_assessment.md#232-violation-event-types)(당사자 적격 모델의 사건 유형 및 [제11장 §5.11 책임성 방해: 기준 간 상호작용](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) 지정 경로이며, 독립적인 보상 예외가 아님); 또는
+  - [책임성 방해](core_08_standing_assessment.md#232-violation-event-types)(당사자 적격 모델의 사건 유형 및 [제11장 §5.11 책임성 방해: 기준 간 상호작용](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) 지정 경로이며, 독립적인 보상 예외가 아님); 또는
   - 확인된 헌법적 피해의 시정을 거부하는 행위; 또는
 - 위법 행위 또는 그 은폐에 실질적으로 의존하는 보상 경로. 여기에는 다음이 포함된다.
   - 보수, 보너스, 지분, 임명, 승진 또는 재임;
@@ -1316,7 +1316,7 @@ flowchart TB
 - **정기 검토 및 시정:** [검토 및 시정 의무](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **강화된 검토:** 집중 또는 지배가 실질적으로 중요한 경우 [§11.1 시장 집중 임계값 메커니즘](core_01_a_values_principles.md#111-시장-집중-임계치-장치도입자가-조정-가능) 및 [§11.2 경쟁 촉진과 지배 방지](core_01_a_values_principles.md#112-경쟁-촉진과-지배-방지).
 - **지위 및 위반 절차:** 검증된 조사 결과가 쟁점인 경우 [제9장 — 기여, 위반 및 지위 모델](core_08_standing_assessment.md).
-- **반헌법적 위법행위:** 집중 또는 절차 포획이 반헌법적 위법행위에 해당하는 경우 [제11장 §5.1 집중 기반 전복: 기준 상호작용](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **반헌법적 위법행위:** 집중 또는 절차 포획이 반헌법적 위법행위에 해당하는 경우 [제11장 §5.1 집중 기반 전복: 기준 상호작용](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 불일치 시정 및 포획 대응

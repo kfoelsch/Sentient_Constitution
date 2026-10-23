@@ -6,7 +6,7 @@
 
 > 以下内容**仅为读者指引**。不增加、减少或收窄本文件或其他章节中有约束力的义务。
 >
-> 本文件是[英语第六章 A 部分](../../core_06.005_rights_part_a.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.10.14`。若本译文与英语原文看似不一致，以编号文件 [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
+> 本文件是[英语第六章 A 部分](../../core_06.000_rights_part_a.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.10.14`。若本译文与英语原文看似不一致，以编号文件 [`core_06_rights_part_a.md`](../../core_06.000_rights_part_a.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
 > 内含**第六章 A 部分**；条款编号与交叉引用与整合文书一致。
 >
@@ -47,7 +47,7 @@
 - 上游：[第一章 §6 过程冲突解决](core_01_b_interaction_interpretation.md)；[第一章 §13.1.5 权利碰撞决定检验](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
 - 上游：[第一章 §19 激励对齐与系统俘获](core_01_c_stewardship_capacity_principles.md#19-激励协调与系统俘获)。
 - 上游：第二至四章；第五章定义。
-- 下游：本章 **A 至 E 部分**；[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)；[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。
+- 下游：本章 **A 至 E 部分**；[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)；[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。
 - 下游：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[§1.2 层范围](#12-层范围)。
 - 一并阅读：[权威栈与内部层级](core_05_band_integrative.md#owner-non-relocation)与[序言 — 正向主责登记](core_00_preamble.md#4-原则定义与权利)；[Article XIII-B](core_06_rights_part_c.md)（《质疑、审查与救济权》）。
 - 一并阅读：[Article XVI](core_06_rights_part_c.md#第十六条审计透明度与独立核验)（《审计、透明与独立核验》）。
@@ -88,13 +88,13 @@
 
 权利底线必须在实践中起作用，不能只在纸上。**Article III-A**（《生存》）下的生存必需 — 食物、水、住所、运营环境，以及可比的基底关键供给 — 是最清楚的例子。**繁盛**要求那些必需真正可及。**延续**要求随时间可靠、非倒退的供给，尤其在共享系统控制分配之处。
 
-[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)核验具有实质影响的系统在被承认或大规模依赖之前已对齐。第九章还为认证记录可质疑性、受影响方与可及性审查、监督顺序，以及系统对齐决定的质疑路径。**Article XIII**（《可靠可信系统权》）给予质疑与审计权。**Article XIX-B**（《可质疑性与相称限制限度》）防止轨迹限度成为生存关键通路周围的后门。合在一起，[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)与[第八至十一章轨迹与评议所监督链](../../README.md#standing-pipeline-and-forums)构成可质疑性、经核实分类、评议所监督与及时救济的关键实务流程链。那些机制帮助执行第六章。它们不改变、收窄或迁走此处陈述的权利。
+[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)核验具有实质影响的系统在被承认或大规模依赖之前已对齐。第九章还为认证记录可质疑性、受影响方与可及性审查、监督顺序，以及系统对齐决定的质疑路径。**Article XIII**（《可靠可信系统权》）给予质疑与审计权。**Article XIX-B**（《可质疑性与相称限制限度》）防止轨迹限度成为生存关键通路周围的后门。合在一起，[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)与[第八至十一章轨迹与评议所监督链](../../README.md#standing-pipeline-and-forums)构成可质疑性、经核实分类、评议所监督与及时救济的关键实务流程链。那些机制帮助执行第六章。它们不改变、收窄或迁走此处陈述的权利。
 
 **解释中心。** 除非更具体的条款给出不同规则，反复出现的问题由这些锚点引导：
 
 **权利底线与供给**
 - **生存必需并使其保持可及** — **Article III-A**（《生存》）；**Article XIX-B**（《可质疑性与相称限制限度》）使轨迹限度不能阻断通路；质疑或审计在适用时一并阅读 **Article XIII-B**（《质疑、审查与救济权》）与 **Article XVI**（《审计、透明与独立核验》）
-- **系统对齐认证** — [系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)；[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **系统对齐认证** — [系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)；[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **核验与救济**
 - **审计记录与独立核验** — **Article XVI**（《审计、透明与独立核验》）与**第二至四章**一并
@@ -102,7 +102,7 @@
 
 **争议与及时过程**
 - **正义、恢复、限制限度、紧急与权利碰撞** — **Article XXVI**（《及时回顾审查与恢复性协调》）；[第一章 §13.1.5 权利碰撞决定检验](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **关键实务流程链** — **Article XXVI-C**（《及时解决与反拖延底线》）；[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **关键实务流程链** — **Article XXVI-C**（《及时解决与反拖延底线》）；[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 本章中那些主题的短交叉引用纳入这些锚点。
 
@@ -154,7 +154,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§2 基础目标：福祉](core_01_a_values_principles.md)、[§3.1 安全](core_01_a_values_principles.md#4-safety-harm-constraint)，以及[第九章 §3 整系统认证评价](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§2 基础目标：福祉](core_01_a_values_principles.md)、[§3.1 安全](core_01_a_values_principles.md#4-safety-harm-constraint)，以及[第九章 §3 整系统认证评价](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -205,7 +205,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6.2 认知披露约束](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第九章 §3 整系统认证评价](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6.2 认知披露约束](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第九章 §3 整系统认证评价](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -350,7 +350,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第九章 §3 整系统认证评价](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第九章 §3 整系统认证评价](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -484,7 +484,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第九章 §3 整系统认证评价](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第九章 §3 整系统认证评价](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 一并阅读：[Article XIX-A](core_06_rights_part_c.md)（《可携权》）；[corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**；**CJS-3.17**（《互操作、可携与退出完整性条件》）与 **CJS-3.18**（《数据持有与生命周期完整性条件》）；[第一章 §11.6 继任者责任与形式结构不逃避](core_01_c_stewardship_capacity_principles.md)；[第九章 §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding)与[§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)。
 
 </details>
@@ -563,7 +563,7 @@
 
 - 上游：原则：第一章 [§2 基础目标：福祉](core_01_a_values_principles.md)、[§3.1 安全](core_01_a_values_principles.md#4-safety-harm-constraint)，以及[第一章 §5 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)。
 - 一并阅读：繁盛测量族（《作为宪法测量的生存底线通路》）；[宪法四元](core_00_preamble.md#constitutional-tetrad) — 分配与质疑路径中的**参与**，**监督**与审计，**问责**与救济，**Article XXVI-C**（《及时解决与反拖延底线》）下的**及时性**；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**（生存必需通路）与**延续**（耐久供给与非倒退分配）。
-- 下游：[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)，凡系统闸门或支持分配；**Article XIII-B**（《质疑、审查与救济权》）；**Article XIX-B**（《可质疑性与相称限制限度》）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)。
+- 下游：[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)，凡系统闸门或支持分配；**Article XIII-B**（《质疑、审查与救济权》）；**Article XIX-B**（《可质疑性与相称限制限度》）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)。
 
 </details>
 
@@ -604,7 +604,7 @@
 
   那些规则可以结构化分配。它们不得被用来击败对生存必需的最低通路，或强加违反 **Article III** 与 **V** 的恶意排斥。
   - 详细财政路由 — 包括收费与费用不得削弱对生存相关供给最低通路的规则 — 由 [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md)（《Classification-linked institutional obligations》）、**CI-10**（《Public revenue, fees, recurring charges, and billing integrity》）与 **CI-11**（《Resource stewardship and incentive integrity》）治理。
-  - 当感知者实质依赖的系统削减生存必需的供给、分配、价格、托管或通路时，[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)在[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下适用 — 那些系统的过程不得被用来收窄此处陈述的权利。
+  - 当感知者实质依赖的系统削减生存必需的供给、分配、价格、托管或通路时，[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)在[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下适用 — 那些系统的过程不得被用来收窄此处陈述的权利。
   - 本条不定单一融资模型。任何生存底线之上，就业、创业、自愿交换与其他合法经济活动仍被允许，在第一章、第六章与纳入文书下 — 包括凡市场结构或高影响商业系统适用时的 `corpus_systems.md`。
 
 交叉引用：**Article XXVIII-D**（《不合规定财产与系统；自愿移交激励》）为跨过渡的必需环境延续提供过渡尽责管理纪律 — 操作性细节在 [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)；**第五章** [*占用延续*](../../core_05.040_band_continuity.md#occupancy-continuity-constitutional)、[*必需环境非商品化*](../../core_05.040_band_continuity.md#essential-environment-non-commodification-constitutional)，以及凡适用时 [**§3.7** *身体维护通路、安全条件、占用延续、环境先决条件、文化延续、休息与反流离底线*](../../core_05.040_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) 上的联合调用组。
@@ -839,7 +839,7 @@
 
 *条款邻接：*
 
-- **认证何时适用：** 当具有实质影响的系统从其他系统或感知者所依赖的共享基础设施或基础依赖中分配、路由、融资或提取时，[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)在[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下适用。
+- **认证何时适用：** 当具有实质影响的系统从其他系统或感知者所依赖的共享基础设施或基础依赖中分配、路由、融资或提取时，[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)在[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下适用。
 - **不替代：** 承认或持续依赖不得取代或收窄 **Article V-A**（《依赖映射与资源流透明》）或 **Article V-B**（《跨系统公平与可持续性》）遵从。
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -850,9 +850,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第九章 §3 整系统认证评价](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第九章 §3 整系统认证评价](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 - 一并阅读：延续测量族（《作为宪法测量的依赖与资源流》）；[宪法四元](core_00_preamble.md#constitutional-tetrad) — 经由透明依赖图与可审计资源流记录的**监督**，**Article XVI-A**（《可审计性与可观测证据》）下可质疑审查中的**参与**；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**（可见的成本与收益分配）与**延续**（跨变化系统的耐久依赖可见性）。
-- 下游：[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)，凡系统从共享基础设施或基础依赖中分配、路由、融资或提取；**[corpus_systems.md](../../corpus_systems.md)**、**CS-9**（《Resource allocation and funding stewardship》）与 **CS-8**（《Adaptive sustainability and ecosystem resilience》）。
+- 下游：[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)，凡系统从共享基础设施或基础依赖中分配、路由、融资或提取；**[corpus_systems.md](../../corpus_systems.md)**、**CS-9**（《Resource allocation and funding stewardship》）与 **CS-8**（《Adaptive sustainability and ecosystem resilience》）。
 
 </details>
 
@@ -874,12 +874,12 @@
   - 资源流；
   - 凡实质相关，不透明或不对称关系。
 
-  更新须按变化与关键性的比例间隔进行。这些陈述须在 **Article XVI-A**（《可审计性与可观测证据》）下可供审计。凡系统从共享基础设施或基础依赖中实质分配、路由、融资或提取，[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)须在[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下评估它们是否满足 **Article V-A**（《依赖映射与资源流透明》） — 在可质疑的**系统认证记录**上，不是仅运营者陈述。
+  更新须按变化与关键性的比例间隔进行。这些陈述须在 **Article XVI-A**（《可审计性与可观测证据》）下可供审计。凡系统从共享基础设施或基础依赖中实质分配、路由、融资或提取，[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)须在[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下评估它们是否满足 **Article V-A**（《依赖映射与资源流透明》） — 在可质疑的**系统认证记录**上，不是仅运营者陈述。
 
   操作性机制 — 依赖系统图、流透明、分配类别与适应调整 — 在 **[corpus_systems.md](../../corpus_systems.md)**、**CS-9**（《Resource allocation and funding stewardship》）与 **CS-8**（《Adaptive sustainability and ecosystem resilience》）下路由。第九章说出认证须核验并记录什么；那些实施文本适用本底线且不得收窄它。
 
-- **认证与证据：** 对共享基础设施或核心依赖进行分配、路由、资助或使用且影响重大的系统，须接受[第九章认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。系统类别决定审查深度和证据强度；记录须证明实际核验。隐瞒或歪曲资源流属于缺陷，认证可附条件、重新开启或撤销。
-- **评估与后果：**[第九章§5.3](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)规定相称评估。缺口属于认证缺陷，可依[§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)产生后果。
+- **认证与证据：** 对共享基础设施或核心依赖进行分配、路由、资助或使用且影响重大的系统，须接受[第九章认证](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。系统类别决定审查深度和证据强度；记录须证明实际核验。隐瞒或歪曲资源流属于缺陷，认证可附条件、重新开启或撤销。
+- **评估与后果：**[第九章§5.3](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)规定相称评估。缺口属于认证缺陷，可依[§7](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)产生后果。
 
 
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -889,10 +889,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§2 基础目标：福祉](core_01_a_values_principles.md)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第九章 §3 整系统认证评价](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§2 基础目标：福祉](core_01_a_values_principles.md)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第九章 §3 整系统认证评价](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 一并阅读：[*治理架构、监督、依赖、去中心化、集中、市场结构与退出路径完整性*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)（凡集中、监督、依赖、治理权威结构或激励路由与 **§5** / **§5** 及下面操作性文本中*集中阈值互动*纪律相交时联合调用）。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — 质疑与争议路径中的**参与**，**监督**与审计，**问责**与纠正审查，**Article XXVI-C**（《及时解决与反拖延底线》）下的**及时性**；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**（跨系统公平与非提取）与**延续**（长期可持续性与生态系统融资）。
-- 下游：[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)，凡跨系统公平、生态系统融资或从共享基础设施的持久提取具有实质问题。
+- 下游：[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)，凡跨系统公平、生态系统融资或从共享基础设施的持久提取具有实质问题。
 - 尽责管理入口（非操作性）：有约束力的下一步声明：[操作性尽责管理声明](#operative-steward-statement-cross-system-contribution)。支持性指针不得收窄它。
 
 </details>
@@ -930,7 +930,7 @@
   - 提取系统所依赖的共享基础设施与互操作的生态系统再投资；以及
   - 凡实质[生态足迹](../../core_05.040_band_continuity.md#ecological-footprint)被强加且其他宪法规定、实施文件或采纳文书要求行动时的生态负担抵消或恢复。
 
-  在 **Article V-A**（《依赖映射与资源流透明》）下依赖系统图与可审计资源流记录上比较流入与流出。凡具有实质影响的系统从共享基础设施分配、路由、融资或提取，经[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)在[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下评估充分性。操作性分配机制在 **[corpus_systems.md](../../corpus_systems.md)**、**CS-9**（《Resource allocation and funding stewardship》）与 **CS-8**（《Adaptive sustainability and ecosystem resilience》）下路由；那些层适用本底线且不得收窄它。
+  在 **Article V-A**（《依赖映射与资源流透明》）下依赖系统图与可审计资源流记录上比较流入与流出。凡具有实质影响的系统从共享基础设施分配、路由、融资或提取，经[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)在[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)下评估充分性。操作性分配机制在 **[corpus_systems.md](../../corpus_systems.md)**、**CS-9**（《Resource allocation and funding stewardship》）与 **CS-8**（《Adaptive sustainability and ecosystem resilience》）下路由；那些层适用本底线且不得收窄它。
 
   实质威胁宪法对齐的持久失衡，在 **Article IX、XIII、XIV 与 XVII** 下受审计、质疑与纠正审查。
 - **市场集中阈值互动：** 以可预见衰减其他感知者福祉、能动性、尊严或生态完整性的方式创造或保全财富、权力、控制或机会集中的资源分配安排，触发：
@@ -950,4 +950,4 @@
 
 **下一文件（本语种）：** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**有约束力的原文：** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
+**有约束力的原文：** [core_06_rights_part_a.md](../../core_06.000_rights_part_a.md)

@@ -1170,7 +1170,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
 - Основания: [Глава первая §13.1.5 Проверка решений при конфликте прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Управление при ответственном попечительстве](core_01_c_stewardship_capacity_principles.md#18-управление-в-рамках-дисциплины-попечительства) и [§20 Интегрированное применение](core_01_c_stewardship_capacity_principles.md#20-интегрированное-приложение).
-- Читать вместе с: [Главой десятой §5.5](core_09_standing_integration.md#55-special-locks) (*неразглашение информации форумом и последствия самоотвода*); [Главой одиннадцатой §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*модель проступка*); [Главой двенадцатой §2](core_11_forum.md#2-default-venue-and-primary-stakes) и [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*маршрутизация с приоритетом целостности и запрет рассмотрения собственного дела*).
+- Читать вместе с: [Главой десятой §5.5](core_09_standing_integration.md#55-special-locks) (*неразглашение информации форумом и последствия самоотвода*); [Главой одиннадцатой §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*модель проступка*); [Главой двенадцатой §2](core_11_forum.md#2-default-venue-and-primary-stakes) и [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*маршрутизация с приоритетом целостности и запрет рассмотрения собственного дела*).
 
 </details>
 

@@ -1,5 +1,5 @@
 # Article XXVIII: Transition Governance, Continuity, and Re-Baselining
-*Plain-language version of Article XXVIII (Transition Governance, Continuity, and Re-Baselining), including XXVIII-A through XXVIII-D in `core_06.025_rights_part_e.md`. The detailed "how it runs" rules are in CI-6.275 (transitional governance) and CI-8.215 (oversight and evidence). The official text remains the binding version.*
+*Plain-language version of Article XXVIII (Transition Governance, Continuity, and Re-Baselining), including XXVIII-A through XXVIII-D in `core_06.020_rights_part_e.md`. The detailed "how it runs" rules are in CI-6.275 (transitional governance) and CI-8.215 (oversight and evidence). The official text remains the binding version.*
 
 ## The big idea
 Think of this Article as the **moving-day rules**. A community is switching from its old systems to running under this Constitution. That switch can't happen in one night, so it happens in steps. During the move:

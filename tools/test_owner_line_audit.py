@@ -44,19 +44,19 @@ class CoreTests(unittest.TestCase):
 
     def test_part_letter_required(self):
         body = "Chapter Nine is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
-        name = "core_09.005_system_alignment_certification_evaluation.md"
+        name = "core_09.000_system_alignment_certification_evaluation.md"
         self.assertTrue(any("name 'Part A'" in f for f in self.check(name, core(body))))
         ok = "Chapter Nine, **Part A**, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
         self.assertEqual(self.check(name, core(ok)), [])
 
     def test_chapter_six_part_a_may_omit_part(self):
         body = "Chapter Six is the constitutional owner of **Rights Floors**.\n\n### 1. A\n"
-        self.assertEqual(self.check("core_06.005_rights_part_a.md", core(body)), [])
-        self.assertTrue(self.check("core_06.010_rights_part_b.md", core(body)))
+        self.assertEqual(self.check("core_06.000_rights_part_a.md", core(body)), [])
+        self.assertTrue(self.check("core_06.005_rights_part_b.md", core(body)))
 
     def test_part_heading_before_claim_is_allowed(self):
         body = "### Part B: Personhood\n\nChapter Six, Part B, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
-        self.assertEqual(self.check("core_06.010_rights_part_b.md", core(body)), [])
+        self.assertEqual(self.check("core_06.005_rights_part_b.md", core(body)), [])
 
     def test_where_material_and_unbolded_domain_fail(self):
         a = "Chapter Seven is the constitutional owner of **X** where material.\n\n*In plain terms: x*\n"
@@ -66,7 +66,7 @@ class CoreTests(unittest.TestCase):
 
     def test_bold_in_list_under_the_line_counts(self):
         body = "Chapter Nine, Part B, is the constitutional owner of these parts:\n\n- **Phase III:** review\n\n*In plain terms: x*\n"
-        name = "core_09.010_system_alignment_certification_record_process.md"
+        name = "core_09.005_system_alignment_certification_record_process.md"
         self.assertEqual(self.check(name, core(body)), [])
 
     def test_preamble_form(self):

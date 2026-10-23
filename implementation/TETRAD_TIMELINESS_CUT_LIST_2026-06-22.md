@@ -30,7 +30,7 @@
 - `core_01_b_stewardship_capacity_principles.md` — §6 stewardship timeliness
 - `core_10.000_standing_assessment.md` — compass, dual-use delay dimension
 - `core_11.000_standing_integration.md` — Chapter One §15.10 remedy-commencement row
-- `core_12.005_misconduct_designation.md` — tetrad capture
+- `core_12.000_misconduct_designation.md` — tetrad capture
 - `core_13.000_forum.md` — timeliness leg in forum trace
 - Corpus-wide Tetrad propagation (core Ch1–15, CJS/CI/CF/CS registries)
 - `corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md` — **T** finding-profile code

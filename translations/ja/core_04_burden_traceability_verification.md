@@ -20,7 +20,7 @@
 > - **四元の地図：** 負担の割当、証拠、追跡可能性、観測可能性、および検証は、[前文](core_00_preamble.md#前文--基礎要件)で確立された[憲法四元](core_00_preamble.md#constitutional-tetrad)の**監督**脚と**説明責任**脚を実施する；**参加**は、第 **3** 節および第 **4** 節のもとでの実務上の観測可能性と独立した異議申し立てを通じて、実質的に求められるところで。要件は[実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせる。
 > - **憲法上の所管者：** 負担の割当、遵守証拠、定義の追跡可能性、観測可能性、および安全保障に制約された検証。**第十章**は、本章とあわせて読む軌跡記録と検証済み入力の規律を所管する。
 > - **実施の所管者：** 指名された実施ファイルにおける配備、データ取扱い、および保証の仕組みは、これらの規則と一貫したままでなければならず、コーパスがすでに、より厳しい規則の論理を提供するところでは、より厳しくてよい。
-> - **再配置禁止規則：** 本章は負担、追跡、観測可能性、安全限度、および証拠のみを統治する。第五章の定義、**第十章**の貢献または軌跡測定、または第十二章の反憲法的不正行為の基準を再述しない。軌跡への検証済み不遵守の経路づけは、[第三章 §3 — 不遵守所見プロファイル](core_03_definition_integrity.md#3-不遵守所見プロファイル)および[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)が統治する。**第 6 節**は、第二から第四章が[第九章 — システム整合認証](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)とどう異なるかを述べる。
+> - **再配置禁止規則：** 本章は負担、追跡、観測可能性、安全限度、および証拠のみを統治する。第五章の定義、**第十章**の貢献または軌跡測定、または第十二章の反憲法的不正行為の基準を再述しない。軌跡への検証済み不遵守の経路づけは、[第三章 §3 — 不遵守所見プロファイル](core_03_definition_integrity.md#3-不遵守所見プロファイル)および[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)が統治する。**第 6 節**は、第二から第四章が[第九章 — システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)とどう異なるかを述べる。
 
 </details>
 
@@ -49,7 +49,7 @@
 | **4 — 安全限度** | 本物の安全保障の限度は許される；口実の遮断は許されない | [§4](#4-安全保障に制約された観測可能性と検証の規則) |
 | **5 — 何が数えるか** | 証拠は本物で、完全で、独立し、持続していなければならない | [§5](#5-遵守証拠の標準) |
 
-**平たい言葉のアクセス。** [第一章 §3.4 — 平たい言葉のアクセス可能性（参加と責務ある管理の義務）](core_01_a_values_principles.md)は、感知者が権利を行使し、決定に異議を申し立て、または遵守を検証するために用いる統治、裁定、運用の材料に適用される。平たい言葉は、第二から第四章が求めるものを**変えず**、減らさない。平たい言葉の版が、ここでの定義または検証の規則と食い違うなら、それらの規則が統治する。専門用語、積み重ねた複雑さ、または不透明さを用いて[争訟可能性](../../core_05.035_band_accountability.md#contestability)または[Article XVI：監査、透明性、独立検証](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)へのアクセスを遮断することは、本章および**第一章 §3.4**のもとで不遵守である。
+**平たい言葉のアクセス。** [第一章 §3.4 — 平たい言葉のアクセス可能性（参加と責務ある管理の義務）](core_01_a_values_principles.md)は、感知者が権利を行使し、決定に異議を申し立て、または遵守を検証するために用いる統治、裁定、運用の材料に適用される。平たい言葉は、第二から第四章が求めるものを**変えず**、減らさない。平たい言葉の版が、ここでの定義または検証の規則と食い違うなら、それらの規則が統治する。専門用語、積み重ねた複雑さ、または不透明さを用いて[争訟可能性](../../core_05.035_band_accountability.md#contestability)または[Article XVI：監査、透明性、独立検証](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)へのアクセスを遮断することは、本章および**第一章 §3.4**のもとで不遵守である。
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 定義の追跡可能性要件
@@ -191,8 +191,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第二章 — 定義の構造と構成要素の要件](core_02_definition_structure.md#第二章定義の構造と構成要素の要件)；[第三章 — 定義の誠実性、回避、不遵守](core_03_definition_integrity.md#第三章定義の誠実性回避不遵守)；[第四章、第 1 節から第 5 節](#1-排他的執行と負担の割当)。
-- 下流：[第九章 — システム整合認証](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
-- あわせて読む：[第九章 §7 — 認証結果](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) — 第二から第四章のもとでの検証済み不遵守は、以前の認証にかかわらず、認証を再開し、または打ち負かすことができる。
+- 下流：[第九章 — システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第十章 — 貢献、違反、軌跡モデル](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
+- あわせて読む：[第九章 §7 — 認証結果](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) — 第二から第四章のもとでの検証済み不遵守は、以前の認証にかかわらず、認証を再開し、または打ち負かすことができる。
 
 </details>
 
@@ -209,7 +209,7 @@
 
 これらは、遵守が評価されるときにはいつでも適用される — 認証の有無を問わず。
 
-**[第九章 — システム整合認証](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** は、実質的なところでフォーラム監督の**認証過程**を供給する：システム全体の評価領域、認証記録の義務、認証結果、再認証の周期、争訟可能性の鎖、および第十章への検証済み入力の橋。それは第二から第四章を**適用する**；それらを**再述しない**。
+**[第九章 — システム整合認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** は、実質的なところでフォーラム監督の**認証過程**を供給する：システム全体の評価領域、認証記録の義務、認証結果、再認証の周期、争訟可能性の鎖、および第十章への検証済み入力の橋。それは第二から第四章を**適用する**；それらを**再述しない**。
 
 読者は次のように扱ってはならない：
 - **認証記録**を、第二から第四章のもとでの継続する遵守の代替として

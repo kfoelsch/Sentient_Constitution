@@ -33,7 +33,7 @@ class ParallelNormCheckTests(unittest.TestCase):
 
     def test_clean_pointer_is_ok(self) -> None:
         text = (
-            "Open [Article XIII-B](core_06.015_rights_part_c.md"
+            "Open [Article XIII-B](core_06.010_rights_part_c.md"
             "#article-xiii-b-right-to-redress-and-remedy). "
             "The source binds."
         )

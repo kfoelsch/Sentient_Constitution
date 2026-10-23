@@ -765,7 +765,7 @@ sentients और उन पर निर्भर प्रणालियों
 
 <a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
 - **पृथक्करण और पात्रता-लॉक की सीमाएँ:** पृथक्करण खास परिवेश या संपर्क रोक सकता है; सामान्य निर्वासन, शरण-अस्वीकृति, राज्यविहीनता, कारावास या व्यवस्थागत लॉक-इन का काम नहीं कर सकता। पात्रता-लॉक **अपने-आप** कारावास, हिरासत या स्वतंत्रता पर अन्य रोक अधिकृत नहीं करता; ऊपर की न्याय-प्रक्रिया आवश्यक है। दोनों साथ चलें तो प्रत्येक अपनी स्वतंत्र संवैधानिक शर्त पूरी करे। हिरासत में भी अधिकार-तल, निवारण और प्रक्रियात्मक निष्पक्षता बनी रहे।
-- **हिरासत का न्यूनतम मानक:** उपाय **अनुच्छेद XX-B** (*प्रतिबंध के न्यूनतम मानक*), [हिरासत-शर्तों के न्यूनतम](../../core_06.020_rights_part_d.md#xx-b-conditions-of-custody) सहित, और अध्याय ग्यारह §5.4 की लागू आपराधिक-प्रक्रिया या समकक्ष सुरक्षा पूरी करें।
+- **हिरासत का न्यूनतम मानक:** उपाय **अनुच्छेद XX-B** (*प्रतिबंध के न्यूनतम मानक*), [हिरासत-शर्तों के न्यूनतम](../../core_06.015_rights_part_d.md#xx-b-conditions-of-custody) सहित, और अध्याय ग्यारह §5.4 की लागू आपराधिक-प्रक्रिया या समकक्ष सुरक्षा पूरी करें।
 - **पात्रता सीमा नहीं है:** भागीदारी-दर्जा, क्षमता-बाधाएँ/मंज़ूरियाँ और लॉक नामित रास्तों की पात्रता नियंत्रित करते हैं। सत्यापित जोखिम माँगे तो लॉक अध्याय ग्यारह §5.1 की [पृथक्करण-सीमाओं](../../core_11.000_standing_integration.md#51-separation-limits) के भीतर खास परिवेश, नेटवर्क या sentient से अलग कर सकता है। पर पात्रता-लेबल या पृथक्करण-लॉक **अपने-आप** आवाजाही, प्रवासन, शरण, सुवाह्यता, निर्गमन या राज्यविहीनता-निवारण के अधिकार सीमित नहीं करता।
 <a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
 ### अनुच्छेद XXIII: सुबोधता और जटिलता का उत्तरदायी प्रबंधन
@@ -1103,7 +1103,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
 - ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§13.1.5 अधिकार-संघर्ष निर्णय-परीक्षण](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-सरकषकत-अनशसन-क-अधन-शसन), और [§20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-एककत-अनपरयग)।
-- साथ पढ़ें: [अध्याय दस §5.5](core_09_standing_integration.md#55-special-locks) (*मंच पर खुलासे की चूक और अलग होने की प्रक्रिया का प्रभाव*); [अध्याय ग्यारह §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*नामित कदाचार पैटर्न*); [अध्याय बारह §2](core_11_forum.md#2-default-venue-and-primary-stakes) तथा [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*अखंडता-प्रथम मार्ग-निर्धारण और स्वयं-निर्णय-विरोध*)।
+- साथ पढ़ें: [अध्याय दस §5.5](core_09_standing_integration.md#55-special-locks) (*मंच पर खुलासे की चूक और अलग होने की प्रक्रिया का प्रभाव*); [अध्याय ग्यारह §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*नामित कदाचार पैटर्न*); [अध्याय बारह §2](core_11_forum.md#2-default-venue-and-primary-stakes) तथा [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*अखंडता-प्रथम मार्ग-निर्धारण और स्वयं-निर्णय-विरोध*)।
 
 </details>
 

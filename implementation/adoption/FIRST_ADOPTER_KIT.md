@@ -45,9 +45,9 @@ This kit does **not**:
 
 - Count as [Chapter Seventeen §10](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption or [Chapter Eighteen](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation
 - Let two markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
-- Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §17.4](../../core_01.015_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Bind host products, operators, vendors, or other non-consenting parties ([Chapter One §17.4](../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization))
 - Create a Chapter Ten standing record, a Chapter Nine system alignment certification, or a Merits Determination
-- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.020_rights_part_d.md#article-xix-a-standing-distinction))
+- Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XIX-A](../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction))
 - Authorize [Chapter Seventeen §10.3](../../core_17.000_amendment_ratification.md#103-joining-by-additional-parties) joining (there are no published existing-adopter joining rules yet)
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
@@ -74,7 +74,7 @@ A **qualifying adopter** records deliberate, documented, auditable adoption unde
 
 Qualifying adopters are named in [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority): bodies that can **bind themselves and the systems under their authority** (federations, polities, cooperative entities, organizations, system operators, system-developer consortia, or equivalent). A steward is bound **when** such a body adopts. Listing a steward as bound does not make that steward themselves a qualifying adopter ([Chapter Seventeen §10.1](../../core_17.000_amendment_ratification.md#101-deliberate-adoption)).
 
-**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ```text
 each party sits the fitness screen (separate files, same edition pin)
@@ -192,9 +192,9 @@ Two parties must not be each other’s **sole** final merits path. [Chapter Thir
 
 | If this is true | Then |
 |---|---|
-| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the adoption document. Keep [Article XIII-A](../../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. |
+| An independent review path exists that is not the other signatory (published backup, external reviewer, or a forum family the parties do not solely staff) | Name it on the adoption document. Keep [Article XIII-A](../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) reachable. |
 | No such path exists yet | Do **not** claim Chapter Seventeen adoption. Cooperate as operations-guide users. Keep declarations. Use steward doors. Do not invent a two-party “forum” as ceremony. Naming independent review without founding families: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md#5-independent-review-naming-not-a-forum-family). |
-| A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XIX-A](../../core_06.020_rights_part_d.md#article-xix-a-standing-distinction)). |
+| A party wants standing effects, certification badges, or LEQU scores to decide who counts | Refuse. Those are not sentience-status determinations ([Article XIX-A](../../core_06.015_rights_part_d.md#article-xix-a-standing-distinction)). |
 
 Remedy capacity remains [Chapter Eleven §9](../../core_11.000_standing_integration.md#9-enforcement-realism-and-remedy-systems). Paper remedy pathways without capacity are not a substitute.
 

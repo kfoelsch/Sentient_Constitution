@@ -126,7 +126,7 @@
 - Исход: Принципы: [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad) — [материальной ставкой](core_00_preamble.md#material-stake) scaling.
 - Компонент кластера: [Материальность, воздействие, риск и целостность заместительных показателей](core_05_band_oversight.md#materiality-semi-independent).
 - Читать вместе с: [Зависимость](../../core_05.040_band_continuity.md#dependency), [Материальное воздействие](core_05_band_oversight.md#материальное-воздействие), [Риск](../../core_05.040_band_continuity.md#risk), [Целостность границы системы](../../core_05.040_band_continuity.md#system-boundary-integrity), and [Надзор](core_05_apex_oversight_leg.md#oversight-constitutional).
-- Назначение: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — class-scaled whole-system evaluation duty.
+- Назначение: [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — class-scaled whole-system evaluation duty.
 
 </details>
 
@@ -148,7 +148,7 @@
 - **Как измерять и оценивать**
   - **Первичная мера:** [Семья измерений Надзора](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Могут ли сентенты видеть, проверять и опираться на то, что системы представляют?* Используйте её здесь, чтобы спросить,  oversight depth and verification burden match the system's real stake, impact, dependency, and risk — not a self-assigned low class.
 
-    **Первичная оценка:** Use the real class under the implementation rules, read with [Определение материальности](core_05_band_oversight.md#materiality-determination) and [Целостность границы системы](../../core_05.040_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [Надзор](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
+    **Первичная оценка:** Use the real class under the implementation rules, read with [Определение материальности](core_05_band_oversight.md#materiality-determination) and [Целостность границы системы](../../core_05.040_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [Надзор](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
     - **Class A**, **Class B**, and **Class C** — full depth, mandatory;
     - **Class L** — mandatory, but sized to the impact; and
     - **Class P** — encouraged while the system is validly **Class P**.
@@ -184,7 +184,7 @@
     - защита источников;
     - расследование; и
     - публикация.
-    Sentients doing that work exercise the [Выражение](../../core_05.055_band_participation.md#expression-constitutional) and [Собрание](../../core_05.055_band_participation.md#assembly-constitutional) Пол прав, with heightened-scrutiny protection under [Статья V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Выражение](../../core_05.055_band_participation.md#expression-constitutional) and [Собрание](../../core_05.055_band_participation.md#assembly-constitutional) Пол прав, with heightened-scrutiny protection under [Статья V-H](../../core_06.005_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Вне охвата:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Как измерять и оценивать**
@@ -247,7 +247,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Назначение: Интегративная материальность ([Определение материальности](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Принципы: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
+- Назначение: Интегративная материальность ([Определение материальности](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Принципы: [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
 - Читать вместе с: [Материальное воздействие](core_05_band_oversight.md#материальное-воздействие), [Материальный риск](core_05_band_oversight.md#материальный-риск), [Системная материальность](../../core_05.035_band_accountability.md), and [Управление, масштабированное к классификации](core_05_band_oversight.md#управление-масштабированное-к-классификации).
 
 </details>
@@ -304,7 +304,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - **Ответственные нормы:** **Статья VI** (*Равные основные права*), **Статья X** (*Самоопределение, агентность и участие*), **Статья XII** (*Участие заинтересованных сторон в системе, представительство и надлежащая процедура*) и Глава Восьмая.
 <a id="domain-specific-materiality-livelihood"></a>
 - **Средства к существованию и экономические условия:** *Зависят ли другие от операционной стороны как источника дохода или от её цен и условий в отношении необходимого им?*
-  - **Материально, если:** операционная сторона является важным источником дохода других людей как работодатель, плательщик, покупатель или платформа; устанавливает цены или условия на то, что нужно другим и не может быть легко заменено; либо обладает рыночной властью, описанной в [Главе Первой §11 Структура рынка](../../core_01.005_values_principles.md#11-market-structure).
+  - **Материально, если:** операционная сторона является важным источником дохода других людей как работодатель, плательщик, покупатель или платформа; устанавливает цены или условия на то, что нужно другим и не может быть легко заменено; либо обладает рыночной властью, описанной в [Главе Первой §11 Структура рынка](../../core_01.000_values_principles.md#11-market-structure).
   - **Не материально:** разовые сделки, от которых стороны могут отказаться, и обычная торговля, где операционная сторона не может влиять на условия рынка.
   - **Ответственные нормы:** **Статья III-C** (*Труд и экономический минимум*) и **Статья V** (*Распределение ресурсов, зависимости и финансирование экосистем*).
 <a id="domain-specific-materiality-custody"></a>
@@ -383,7 +383,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Назначение: Интегративная материальность ([Определение материальности](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Принципы: [материальной ставкой](core_00_preamble.md#material-stake) scaling proxy; Глава первая surfaces this definition across **Safety** (**Глава первая §8.1**), **Truth** (**Глава первая §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Глава первая §6.3.2** where **Materiality** appears in D/A/C widgets — see [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
+- Назначение: Интегративная материальность ([Определение материальности](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Принципы: [материальной ставкой](core_00_preamble.md#material-stake) scaling proxy; Глава первая surfaces this definition across **Safety** (**Глава первая §8.1**), **Truth** (**Глава первая §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Глава первая §6.3.2** where **Materiality** appears in D/A/C widgets — see [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - Компонент кластера: [Материальность, воздействие, риск и целостность заместительных показателей](core_05_band_oversight.md#materiality-semi-independent).
 - Читать вместе с: [Материальное воздействие](core_05_band_oversight.md#материальное-воздействие), [Материальный риск](core_05_band_oversight.md#материальный-риск), [Системная материальность](../../core_05.040_band_continuity.md#systemic-materiality), and [Аудитируемость](core_05_band_oversight.md#аудитируемость).
 
@@ -455,7 +455,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Назначение: Принципы: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Инвалидация расхождением заместителей](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- Назначение: Принципы: [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 Инвалидация расхождением заместителей](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
 - Читать вместе с: [Определение материальности](core_05_band_oversight.md#materiality-determination), [Границы системы](../../core_05.040_band_continuity.md#system-boundaries), [Целостность границы системы](../../core_05.040_band_continuity.md#system-boundary-integrity), [Системная материальность](../../core_05.035_band_accountability.md), [Аудитируемость](core_05_band_oversight.md#аудитируемость), and [Подотчётность](core_05_apex_accountability_leg.md#accountability).
 
 </details>
@@ -492,7 +492,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Назначение: Интегративная материальность ([Определение материальности](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Принципы: [материальной ставкой](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 Распределённое понимание](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 Пропорциональность](core_01_b_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
+- Назначение: Интегративная материальность ([Определение материальности](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Принципы: [материальной ставкой](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 Распределённое понимание](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 Пропорциональность](core_01_b_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
 - Компонент кластера: [Материальность, воздействие, риск и целостность заместительных показателей](core_05_band_oversight.md#materiality-semi-independent).
 - Читать вместе с: [Вред](../../core_05.035_band_accountability.md#harm), [Риск](../../core_05.040_band_continuity.md#risk), [Системная материальность](../../core_05.035_band_accountability.md), [Зависимость](../../core_05.040_band_continuity.md#dependency), [Управление, масштабированное к классификации](core_05_band_oversight.md#управление-масштабированное-к-классификации), [Надзор](core_05_apex_oversight_leg.md#oversight-constitutional), and [Прозрачность](core_05_band_oversight.md#прозрачность).
 
@@ -540,7 +540,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Назначение: Интегративная материальность ([Определение материальности](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Принципы: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 Пропорциональность](core_01_b_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- Назначение: Интегративная материальность ([Определение материальности](core_05_band_oversight.md#materiality-determination)) (*Materiality as constitutional measurement*); Принципы: [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 Пропорциональность](core_01_b_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
 - Читать вместе с: [Вред](../../core_05.035_band_accountability.md#harm), [Необратимый вред](../../core_05.035_band_accountability.md#irreversible-harm), [Риск](../../core_05.040_band_continuity.md#risk), [Безопасность (ограничение)](../../core_05.040_band_continuity.md#safety-constraint), and [Управление, масштабированное к классификации](core_05_band_oversight.md#управление-масштабированное-к-классификации).
 
 </details>
@@ -586,7 +586,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Назначение: Принципы: [6.1.3 Пропорциональность](core_01_b_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- Назначение: Принципы: [6.1.3 Пропорциональность](core_01_b_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
 - Читать вместе с: [Материальное воздействие](core_05_band_oversight.md#материальное-воздействие), [Материальный риск](core_05_band_oversight.md#материальный-риск), [Необратимый вред](../../core_05.035_band_accountability.md#irreversible-harm), [Безопасность (ограничение)](../../core_05.040_band_continuity.md#safety-constraint), and [Управление, масштабированное к классификации](core_05_band_oversight.md#управление-масштабированное-к-классификации).
 
 </details>
@@ -626,7 +626,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Назначение: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Принципы: [§6.2.4 Инвалидация расхождением заместителей](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Назначение: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Принципы: [§6.2.4 Инвалидация расхождением заместителей](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Компонент кластера: [Материальность, воздействие, риск и целостность заместительных показателей](core_05_band_oversight.md#materiality-semi-independent).
 - Читать вместе с: [Определение материальности](core_05_band_oversight.md#materiality-determination), [Ограничение целостности материальности](core_05_band_oversight.md#ограничение-целостности-материальности), [Целостность границы системы](../../core_05.040_band_continuity.md#system-boundary-integrity), [Согласование стимулов](core_05_band_integrative.md#согласование-стимулов), [Аудитируемость](core_05_band_oversight.md#аудитируемость), and [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение).
 
@@ -697,7 +697,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Назначение: Принципы: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Глава первая §3 Непереговорные ограничения принципа: Безопасность и Истина](core_01_a_values_principles.md) (**Safety** / **Truth** degradation paths).
+- Назначение: Принципы: [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Глава первая §3 Непереговорные ограничения принципа: Безопасность и Истина](core_01_a_values_principles.md) (**Safety** / **Truth** degradation paths).
 - Читать вместе с: [Определение материальности](core_05_band_oversight.md#materiality-determination), [Системная материальность](../../core_05.035_band_accountability.md), [Риск](../../core_05.040_band_continuity.md#risk), [Безопасность (ограничение)](../../core_05.040_band_continuity.md#safety-constraint), [Эпистемическая целостность](core_05_band_oversight.md#эпистемическая-целостность), and [Значимая агентность](../../core_05.055_band_participation.md#meaningful-agency).
 
 </details>
@@ -763,7 +763,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Глав со второй по четвёртую require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**Рамка надзора.** Under the [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Главой седьмой](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**Рамка надзора.** Under the [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Главой седьмой](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **Класс системы и пропорциональность.** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Классификация и обращение с системами**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - более глубокое обеспечение;
@@ -859,7 +859,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Компонент кластера: [Def.O1 Прозрачность, аудитируемость и верификация](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Назначение: **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§6](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (*Certification record*); [§6.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*Transparency, auditability, and contestability*).
+- Назначение: **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§3.4](../../core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§6](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (*Certification record*); [§6.2](../../core_09.005_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*Transparency, auditability, and contestability*).
 - Читать вместе с: [Прозрачность](core_05_band_oversight.md#прозрачность), [Оспоримость](../../core_05.035_band_accountability.md#contestability), [Аудитируемость](core_05_band_oversight.md#аудитируемость), [Раскрытие риска](core_05_band_oversight.md#раскрытие-риска), [Хартия](../../core_05.040_band_continuity.md), [Границы системы](../../core_05.040_band_continuity.md#system-boundaries), [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [Запись сертификации системы](../../core_05.040_band_continuity.md#system-certification-record-constitutional), [Запись классификации системы](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [Запись типов данных системы](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), [Управление, масштабированное к классификации](core_05_band_oversight.md#управление-масштабированное-к-классификации), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — Типы информации и обращение** (**Type O**).
 
 </details>
@@ -939,7 +939,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Компонент кластера: [Def.O1 Прозрачность, аудитируемость и верификация](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Назначение: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Принципы: [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§3.1 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint); [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- Назначение: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Принципы: [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§3.1 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint); [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
 - Читать вместе с: [Оценка риска](../../core_05.040_band_continuity.md#risk-evaluation), [Риск](../../core_05.040_band_continuity.md#risk), [Прозрачность](core_05_band_oversight.md#прозрачность), [Базовое раскрытие публичного надзора](core_05_band_oversight.md#базовое-раскрытие-публичного-надзора), [Безопасность (ограничение)](../../core_05.040_band_continuity.md#safety-constraint), [Оспоримость](../../core_05.035_band_accountability.md#contestability), [Эпистемическая целостность](core_05_band_oversight.md#эпистемическая-целостность), and [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
@@ -951,7 +951,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **Что это**
   - **В охвате:** Communicating evaluated systemic [Риск](../../core_05.040_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
     - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [Прозрачность](core_05_band_oversight.md#прозрачность) or [Безопасность (ограничение)](../../core_05.040_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [Запись сертификации системы](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+    - **SAC verification:** Where [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [Запись сертификации системы](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **Вне охвата:**
     - [Оценка риска](../../core_05.040_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [Базовое раскрытие публичного надзора](core_05_band_oversight.md#базовое-раскрытие-публичного-надзора) as the broader public baseline floor; or
@@ -984,7 +984,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - Компонент кластера: [Def.O1 Прозрачность, аудитируемость и верификация](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Читать вместе с: [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Подотчётность](core_05_apex_accountability_leg.md#accountability), [Оспоримость](../../core_05.035_band_accountability.md#contestability), [Эпистемическая целостность](core_05_band_oversight.md#эпистемическая-целостность), [Прозрачность](core_05_band_oversight.md#прозрачность), [Проверяемость](core_05_band_oversight.md#проверяемость), [Сохранение доказательств](core_05_band_oversight.md#сохранение-доказательств), and [Ограничение полноты оценки](core_05_band_oversight.md#ограничение-полноты-оценки).
 - Читать вместе с: **Article XVI** (*Audit, Transparency, and Independent Verification*); [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Глав со второй по четвёртую.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](core_06_rights_part_c.md). Three-layer picture: [Article XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](core_06_rights_part_c.md). Three-layer picture: [Article XVI](../../core_06.010_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1114,7 +1114,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Компонент кластера: [Def.O1 Прозрачность, аудитируемость и верификация](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Назначение: Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
+- Назначение: Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
 - Читать вместе с: [Аудитируемость](core_05_band_oversight.md#аудитируемость), [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [Хартия](../../core_05.040_band_continuity.md), [Границы системы](../../core_05.040_band_continuity.md#system-boundaries), [Целостность границы системы](../../core_05.040_band_continuity.md#system-boundary-integrity), [Определение материальности](core_05_band_oversight.md#materiality-determination), [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#противодействующие-масштабированные-и-эксплуатируемые-условия), [Создание системы](../../core_05.055_band_participation.md#system-creation-constitutional), and [Создание предприятия](../../core_05.055_band_participation.md#business-creation-constitutional).
 
 </details>
@@ -1131,7 +1131,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
   - **Charter and scope process:** Where a governing [Хартия](../../core_05.040_band_continuity.md) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [Границы системы](../../core_05.040_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [Запись сертификации системы](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
+  - **SAC verification:** Where [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [Запись сертификации системы](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
   - **Вне охвата:**
     - [Хартия](../../core_05.040_band_continuity.md) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
     - [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
@@ -1147,7 +1147,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#противодействующие-масштабированные-и-эксплуатируемые-условия) where material.
     Also ask:
       - where a [Хартия](../../core_05.040_band_continuity.md) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where [Сертификация согласования системы](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **Что должно держаться**
   - **Первичный сбой:**
@@ -1177,7 +1177,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Компонент кластера: [Def.O1 Прозрачность, аудитируемость и верификация](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Owner floor: [Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Owner floor: [Article XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - Читать вместе с: [Аудитируемость](core_05_band_oversight.md#аудитируемость), [Прозрачность](core_05_band_oversight.md#прозрачность), [Оспоримость](../../core_05.035_band_accountability.md#contestability), [Соразмерность](../../core_05.035_band_accountability.md#proportionality), [Осуществимость](../../core_05.035_band_accountability.md#feasibility), [Истина (конституционное ограничение)](core_05_band_oversight.md#истина-конституционное-ограничение), and [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#противодействующие-масштабированные-и-эксплуатируемые-условия).
 
 </details>
@@ -1189,7 +1189,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **Что это**
   - **В охвате:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [Аудитируемость](core_05_band_oversight.md#аудитируемость). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Осуществимость](../../core_05.035_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility); [Осуществимость](../../core_05.035_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [Соразмерность](../../core_05.035_band_accountability.md#proportionality) and [Материальное воздействие](core_05_band_oversight.md#материальное-воздействие); and
     - reliability under ordinary stress, misuse, and [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#противодействующие-масштабированные-и-эксплуатируемые-условия).
@@ -1214,7 +1214,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **Вторичная мера:** [Семья измерений Надзора](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Могут ли сентенты видеть, проверять и опираться на то, что системы представляют?* Используйте её здесь, чтобы спросить,  observed behavior can be independently validated by reproducible methods in practice.
 
     **Вторичная оценка:** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [Осуществимость](../../core_05.035_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility); [Осуществимость](../../core_05.035_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [Соразмерность](../../core_05.035_band_accountability.md#proportionality) and [Материальное воздействие](core_05_band_oversight.md#материальное-воздействие); and
     - remain reliable under ordinary stress, misuse, and [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#противодействующие-масштабированные-и-эксплуатируемые-условия).

@@ -88,11 +88,11 @@ def render_pack(root: Path) -> str:
         [
             "",
             "Full Chapter Six source (not inlined here; too long for a first-hour pack): "
-            "[part A](../../core_06.005_rights_part_a.md), "
-            "[part B](../../core_06.010_rights_part_b.md), "
-            "[part C](../../core_06.015_rights_part_c.md), "
-            "[part D](../../core_06.020_rights_part_d.md), "
-            "[part E](../../core_06.025_rights_part_e.md).",
+            "[part A](../../core_06.000_rights_part_a.md), "
+            "[part B](../../core_06.005_rights_part_b.md), "
+            "[part C](../../core_06.010_rights_part_c.md), "
+            "[part D](../../core_06.015_rights_part_d.md), "
+            "[part E](../../core_06.020_rights_part_e.md).",
             "",
         ]
     )

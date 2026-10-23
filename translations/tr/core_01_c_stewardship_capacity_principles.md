@@ -1138,7 +1138,7 @@ Teşvikler aşağıdakileri ödüllendirmemeli, korumamalı, normalleştirmemeli
   - hukuka aykırı veya anayasaya aykırı emir davranışı;
   - gizleme;
   - misilleme;
-  - [hesap verebilirliği engelleme](core_08_standing_assessment.md#232-violation-event-types) (statü modeli olay türü ve [On Birinci Bölüm §5.11 Hesap verebilirliğin engellenmesi: ölçütlerin etkileşimi](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) sınıflandırma yönlendirmesi — bağımsız bir ödül istisnası değildir); veya
+  - [hesap verebilirliği engelleme](core_08_standing_assessment.md#232-violation-event-types) (statü modeli olay türü ve [On Birinci Bölüm §5.11 Hesap verebilirliğin engellenmesi: ölçütlerin etkileşimi](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) sınıflandırma yönlendirmesi — bağımsız bir ödül istisnası değildir); veya
   - doğrulanmış anayasal zararı gidermeyi reddetme; veya
 - suistimale veya bunun gizlenmesine maddi ölçüde dayanan ödül yolları; bunlara şunlar dahildir:
   - ücret, ikramiye, hisse, atama, terfi veya görev süresi;
@@ -1308,7 +1308,7 @@ Bu tür koşullar olağan işletim durumları değil, **eskalasyon tetikleyicile
 - **Düzenli inceleme ve düzeltme:** [İnceleme ve Düzeltme Yükümlülüğü](../../core_05.040_band_continuity.md#review-and-correction-duty).
 - **Güçlendirilmiş inceleme:** yoğunlaşma veya hâkimiyetin maddi önem taşıdığı durumlarda [§11.1 Piyasa Yoğunlaşması Eşik Mekanizması](core_01_a_values_principles.md#111-piyasa-yoğunlaşma-eşik-mekanizması-uygulayıcı-ayarlı) ve [§11.2 Rekabet Yanlısı ve Hâkimiyet Karşıtı İlkeler](core_01_a_values_principles.md#112-rekabeti-teşvik-ve-tahakküme-karşı-koyma).
 - **Ehliyet ve ihlal mekanizmaları:** doğrulanmış bulgular söz konusu olduğunda [Dokuzuncu Bölüm — Katkı, İhlal ve Ehliyet Modeli](core_08_standing_assessment.md).
-- **Anayasa karşıtı suistimal:** yoğunlaşma veya süreç ele geçirmesi anayasa karşıtı suistimal oluşturduğunda [On Birinci Bölüm §5.1 Yoğunlaşmaya Dayalı Yıkım: Ölçütlerin Etkileşimi](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **Anayasa karşıtı suistimal:** yoğunlaşma veya süreç ele geçirmesi anayasa karşıtı suistimal oluşturduğunda [On Birinci Bölüm §5.1 Yoğunlaşmaya Dayalı Yıkım: Ölçütlerin Etkileşimi](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 Uyumsuzluğun Düzeltilmesi ve Ele Geçirmeye Yanıt

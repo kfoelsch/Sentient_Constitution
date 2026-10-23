@@ -29,8 +29,8 @@ This chapter states the **Constitutional Contract Layer**: constitutional legiti
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One](core_01.015_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.015) integrated constraint stack; [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) Foundational Rights Floor through [Part D](core_06.025_rights_part_e.md) (6.025).
-- Downstream: [§§ 1–5](#1-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) general **contribution, violation, and standing** measurement (Contribution Axis and Violation Axis), including all numeric impact slots; [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) final anti-constitutional-misconduct designation for qualifying **Violation Axis s = 7, 8, or 9** findings.
+- Upstream: Principles: [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) integrated constraint stack; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Foundational Rights Floor through [Part D](core_06.020_rights_part_e.md) (6.020).
+- Downstream: [§§ 1–5](#1-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) general **contribution, violation, and standing** measurement (Contribution Axis and Violation Axis), including all numeric impact slots; [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) final anti-constitutional-misconduct designation for qualifying **Violation Axis s = 7, 8, or 9** findings.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) (integrity, tracing, verification); [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) (canonical definitions); [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration) (joint-invocation cluster where authority placement, oversight design, dependency, decentralization, concentration, incentive routing, or exit-path analysis materially affect compliance).
 
 </details>
@@ -51,17 +51,17 @@ This section sets out the boundaries of this chapter:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles:
-  - [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7),
-  - [§16 Stewardship In Depth](core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process);
+  - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
+  - [§16 Stewardship In Depth](core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth),
+  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process);
   - [Chapter Fourteen §0](#0-layer-boundary-for-this-chapter).
 - Subsections: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Mechanism families, auditability, and pluralism*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, contested selection, and democratic minimums*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Recall-class pathways and mid-cycle transfer guardrails*).
 - Downstream: Integrity, strategy, voting, and role obligations under
   - [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); adoption and ratification under
   - [Chapter Seventeen](core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) (17.000); legitimacy, participation, and contestability in Chapter Six — especially
-  - [Article XII-A: Stakeholder System Participation and Representation](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation),
-  - [Article XII-B: Weighted Participation and Anti-Token Constraints](core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints),
-  - [Article XIX: Standing and Participation Status](core_06.020_rights_part_d.md#article-xix-standing-and-participation-status), and the expression, assembly, and procedural-fairness articles keyed in the operative bullets below.
+  - [Article XII-A: Stakeholder System Participation and Representation](core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation),
+  - [Article XII-B: Weighted Participation and Anti-Token Constraints](core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints),
+  - [Article XIX: Standing and Participation Status](core_06.015_rights_part_d.md#article-xix-standing-and-participation-status), and the expression, assembly, and procedural-fairness articles keyed in the operative bullets below.
 - Read with: Designated **corpus** and **[corpus_systems.md](corpus_systems.md)** hooks named in this section ([corpus_systems.md](corpus_systems.md), [corpus_institutions.md](corpus_institutions.md)).
 
 </details>
@@ -105,7 +105,7 @@ Recognized mechanism families include:
   - conflict controls;
   - briefing and evidence rules;
   - facilitator or staff independence controls;
-  - anti-lobbying and anti-intimidation safeguards, which apply the **Influence-contact boundaries** of [**Article XII-E**](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) at their strictest: private contact with selected members about the matter is barred except through the open briefing record; and
+  - anti-lobbying and anti-intimidation safeguards, which apply the **Influence-contact boundaries** of [**Article XII-E**](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) at their strictest: private contact with selected members about the matter is barred except through the open briefing record; and
   - contest routes for:
     - selection failure;
     - manipulation;
@@ -166,7 +166,7 @@ Recognized mechanism families include:
 
     - These checks apply to [**Foundational Constitutional Choice**](core_05.045_band_integrative.md#foundational-constitutional-choice) (Chapter Five) and to any other authorization action within the mechanism's scope.
     - The checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or Constitutional Charter** designs, and hybrid designs alike.
-    - Dissent or peaceful protest against incumbent authority under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
+    - Dissent or peaceful protest against incumbent authority under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
     - Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both this check and the **Pluralism** clause.
 
 **Selection-funding boundaries**
@@ -195,7 +195,7 @@ Recognized mechanism families include:
 - **Public support (optional):** An adopter may offset the loss of institutional money with matching funds, vouchers, or partial reimbursement of expenses. If it does, its access rules must not lock in established candidates or parties. No public financing is required.
     - **Default design:** reimbursement of half of a candidate's eligible expenses once the candidate shows support from a published threshold of no more than one percent of eligible members. The same terms apply to independents and new parties.
 - **Enforcement:** Compliance must be audited by a body structurally separate from the candidates and appointers, which is an [**Integrity**](core_13.000_forum.md#45-integrity-forums) forum or an equivalent independent check. It may order correction, clawback of ineligible funds, and disqualification where a breach is material. Breaches route as integrity triggers under **CI-8.210** (*Conflict integrity, anti-capture, and anti-corruption*) and **CJS-5.110 §6** (*integrity assurance and resilience operations*).
-- **Outcome review:** At each periodic revalidation under [**Article XXVII-A**](core_06.025_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*), the adopter must test whether these boundaries reduce capture, not only whether they are followed.
+- **Outcome review:** At each periodic revalidation under [**Article XXVII-A**](core_06.020_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*), the adopter must test whether these boundaries reduce capture, not only whether they are followed.
     - It must publish the share of selection funds by source type, the share supplied by the largest donors, the third-party share of spending, the time from gift to register entry, and enforcement outcomes.
     - It must look for leaks. A rise in funding through a channel the rules do not cover, or decisions that repeatedly favor funders with a material stake, is evidence that the rules need changing.
     - It must revise the rules where it finds such evidence.
@@ -266,7 +266,7 @@ Where observable integrity conditions are absent, **legitimacy claims** under se
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Fourteen §1](#1-authorization-and-legitimacy-of-governing-authority) authorization scope for stewardship within rule-making power.
+- Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Fourteen §1](#1-authorization-and-legitimacy-of-governing-authority) authorization scope for stewardship within rule-making power.
 - Downstream: Subsections
   - [3.1](#31-stewardship-direction) and
   - [3.2](#32-ecosystem-value-orientation); canonical definitions for stewardship requirements in
@@ -275,12 +275,12 @@ Where observable integrity conditions are absent, **legitimacy claims** under se
   - [*Burden-Reduction Duty*](core_05.040_band_continuity.md#burden-reduction-duty), and
   - [*Stewardship Defect*](core_05.040_band_continuity.md#stewardship-defect), read through the
   - [**Def.C2** stewardship compound cluster](core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity), including cross-references to
-  - [Chapter One §13.3](core_01.010_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.010 §13.3) and (
+  - [Chapter One §13.3](core_01.005_interaction_interpretation.md#133-minimization-of-avoidable-burden) (1.005 §13.3) and (
   - [*Avoidable Burden*](core_05.040_band_continuity.md#avoidable-burden);
   - [*Productive Capacity*](core_05.040_band_continuity.md#productive-capacity);
   - [*Constitutional Efficiency*](core_05.040_band_continuity.md#constitutional-efficiency)) where applicable.
 - Read with:
-  - [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) Rights Floor;
+  - [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor;
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) for
   - [*Productive Capacity*](core_05.040_band_continuity.md#productive-capacity),
   - [*Constitutional Efficiency*](core_05.040_band_continuity.md#constitutional-efficiency),
@@ -310,7 +310,7 @@ Stewardship requirements for this section are stated in **Chapter Five** under t
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) stewardship framing and strategic obligations.
-- Downstream: Contestability and review hooks in [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005); violation and standing inputs under [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) where stewardship claims fail observability or verification tests under **Chapters Two through Four**.
+- Downstream: Contestability and review hooks in [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000); violation and standing inputs under [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) where stewardship claims fail observability or verification tests under **Chapters Two through Four**.
 - Read with: [Chapters Two through Four](core_02.000_definition_structure.md) (definition traceability and verification).
 
 </details>
@@ -325,7 +325,7 @@ Direction must remain outcome-oriented rather than institution-preserving for it
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [Chapter One §9.1](core_01.005_values_principles.md#91-productive-capacity-instrumental-good) (1.005 §9.1) (*Productive Capacity* as instrumental good).
+- Upstream: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [Chapter One §9.1](core_01.000_values_principles.md#91-productive-capacity-instrumental-good) (1.000 §9.1) (*Productive Capacity* as instrumental good).
 - Downstream: Outcome and proxy discipline continues through [§4](#4-voting-and-binding-collective-choice-protocols)–[§5](#5-authorized-roles-competency-development-and-contribution); Chapter Five (*Proxy Divergence*; *Constitutional Efficiency*; *Avoidable Burden*) as named in operative text.
 - Read with: [*Productive Capacity*](core_05.040_band_continuity.md#productive-capacity) and related bounding definitions in [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000).
 
@@ -347,7 +347,7 @@ Proxy indicators (financial or otherwise) may inform decisions only where they r
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority) documented legitimacy mechanism; [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) stewardship alignment for collective decisions.
 - Downstream: Subsections [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-stakeholder-choice); adoption documents, supremacy, and non-regression in [Chapters Fifteen through Seventeen](core_15.000_non_regression.md) as summarized in the **Cross-reference (Chapter Fourteen)** note at the end of this section.
-- Read with: [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005), especially [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) and related subarticles cited in §4.
+- Read with: [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000), especially [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) and related subarticles cited in §4.
 
 </details>
 
@@ -363,16 +363,16 @@ Where an adopter's legitimacy mechanism includes collective voting or an analogo
 
 - Upstream: [§4](#4-voting-and-binding-collective-choice-protocols) collective-choice framework; [§1](#1-authorization-and-legitimacy-of-governing-authority) legitimacy mechanism for binding choice procedures.
 - Downstream: Governance participation and standing in
-  - [Article X-B: Governance Participation and Voting Entitlement](core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement),
-  - [Article XIX: Standing and Participation Status](core_06.020_rights_part_d.md#article-xix-standing-and-participation-status); foundational constitutional choice and stakeholder machinery in
+  - [Article X-B: Governance Participation and Voting Entitlement](core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement),
+  - [Article XIX: Standing and Participation Status](core_06.015_rights_part_d.md#article-xix-standing-and-participation-status); foundational constitutional choice and stakeholder machinery in
   - [Chapter Five — Foundational Constitutional Choice](core_05.045_band_integrative.md#foundational-constitutional-choice) (5.045) and related
   - [Chapter Five](core_05.000_definitions_home.md#chapter-five-foundational-definitions) (5.000) entries as operative text routes;
   - **Chapter Twelve** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation** on qualifying **Violation Axis s = 7, 8, or 9** findings and due-process safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause in this subsection.
 - Read with:
   - [§4.2](#42-records-gates-and-method-neutrality)–
   - [§4.3](#43-decision-resolution-requirements-for-binding-stakeholder-choice);
-  - [Article XII-A: Stakeholder System Participation and Representation](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) for high-impact legitimacy gates;
-  - [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) for final **anti-constitutional-misconduct designation** on qualifying **Violation Axis s = 7, 8, or 9** findings.
+  - [Article XII-A: Stakeholder System Participation and Representation](core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) for high-impact legitimacy gates;
+  - [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) for final **anti-constitutional-misconduct designation** on qualifying **Violation Axis s = 7, 8, or 9** findings.
 
 </details>
 
@@ -427,8 +427,8 @@ This subsection implements **Chapter Six**, **Article X-B** (*Governance Partici
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4.1](#41-entitlement-and-eligibility) eligibility, governance-voting standing locks, and political-equality floors for foundational constitutional choice.
-- Downstream: [§4.3](#43-decision-resolution-requirements-for-binding-stakeholder-choice) deliberation and rights-collision sequence; binding-effect and legitimacy gates keyed to [Article XII-A: Stakeholder System Participation and Representation](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) and related **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) subarticles in operative text.
-- Read with: [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) for dissent, record integrity, and review rights tied to collective choice.
+- Downstream: [§4.3](#43-decision-resolution-requirements-for-binding-stakeholder-choice) deliberation and rights-collision sequence; binding-effect and legitimacy gates keyed to [Article XII-A: Stakeholder System Participation and Representation](core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) and related **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) subarticles in operative text.
+- Read with: [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) for dissent, record integrity, and review rights tied to collective choice.
 
 </details>
 
@@ -469,13 +469,13 @@ This subsection sets out the record, gate, and method-neutrality requirements fo
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4.1](#41-entitlement-and-eligibility)–[§4.2](#42-records-gates-and-method-neutrality) entitlement, records, and legitimacy-gate requirements.
-- Downstream: Rights-collision discipline under [Article XXVI-B: Rights-Collision Procedure and Restorative Alignment](core_06.025_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) and [Chapter One §13.1.5](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5) as referenced; challenge and reopening pathways in Chapter Six.
+- Downstream: Rights-collision discipline under [Article XXVI-B: Rights-Collision Procedure and Restorative Alignment](core_06.020_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) and [Chapter One §13.1.5](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5) as referenced; challenge and reopening pathways in Chapter Six.
 - Read with:
   - [Def.P2 Binding Stakeholder Choice](core_05.055_band_participation.md#defp2-binding-stakeholder-choice), including
   - [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05.055_band_participation.md#binding-collective-choice-decision-resolution-process),
   - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), and
   - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05.055_band_participation.md#rights-collision-record-binding-stakeholder-choice); read also with
-  - [Chapter Six: Foundational Rights](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) for materially rights-affecting process design and
+  - [Chapter Six: Foundational Rights](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) for materially rights-affecting process design and
   - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
 
 </details>
@@ -488,7 +488,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 - **Structured sequence, local deliberation first, plural evaluation, reopening:** [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05.055_band_participation.md#binding-collective-choice-decision-resolution-process).
 - **Stakeholder representation and weight limits:** [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) (also cross-referenced from [§4.1 Entitlement and eligibility](#41-entitlement-and-eligibility)).
-- **Stakeholder rights-collision discipline:** [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05.055_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice) — read with **Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*) and [Chapter One §13.1.5 Rights-Collision Procedure](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test).
+- **Stakeholder rights-collision discipline:** [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05.055_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice) — read with **Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*) and [Chapter One §13.1.5 Rights-Collision Procedure](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test).
 - **Emergency exception:** [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — read with:
   - [Stakeholder Emergency and Contingency](core_05.040_band_continuity.md#stakeholder-emergency-and-contingency);
   - [Constitutional Emergency and Contingency](core_05.040_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated;
@@ -507,7 +507,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 - Upstream: [§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols) how authority is authorized, recorded, and exercised in collective choice.
 - Downstream: Role integrity and due-process requirements in
-  - [Article XII-C: Internal Roles, Accountability, and Due-Process Requirements](core_06.010_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements); **corpus** design and lane hooks in
+  - [Article XII-C: Internal Roles, Accountability, and Due-Process Requirements](core_06.005_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements); **corpus** design and lane hooks in
   - [corpus_systems.md](corpus_systems.md),
   - [corpus_institutions.md](corpus_institutions.md), and
   - [corpus_joint_structure.md](corpus_joint_structure.md) as cited below.
@@ -516,8 +516,8 @@ Where material disagreement requires a **binding stakeholder choice** within an 
   - **CI-14.205** (*Appointment, competency, rotation, and removal*) /
   - **CI-6.215** (*Resource stewardship and incentive integrity*) /
   - **CI-13.210** (*Cross-institution coordination and escalation*) in the implementation corpus, where this chapter's rules cite them;
-  - [Chapter One §17.1 Shared Stewardship Standard](core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.015 §17.1) (*the same duties bind every kind of steward; adopted implementation text may add logging, attribution, and capability limits, but never a softer internal code*);
-  - [Chapter One §17.2 Alignment Under Pressure](core_01.015_stewardship_capacity_principles.md#172-alignment-under-pressure) (1.015 §17.2).
+  - [Chapter One §17.1 Shared Stewardship Standard](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) (1.010 §17.1) (*the same duties bind every kind of steward; adopted implementation text may add logging, attribution, and capability limits, but never a softer internal code*);
+  - [Chapter One §17.2 Alignment Under Pressure](core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure) (1.010 §17.2).
 
 </details>
 
@@ -538,13 +538,13 @@ Material stewardship and operation require **sentients** who can **exercise** au
   The seat types and boundaries are fixed in **CI-14.205 §6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine **`corpus_systems.md`** classification profile with **`corpus_institutions.md`** lane design are applied through **CJS-18.110 §4** (*Class-scaled lane staffing and competency redundancy*) and its routed owner hooks.
 - **Open stewardship-development pathways and incentive integrity requirement:** Qualified sentients must have non-arbitrary stewardship-development pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
 - **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, stewardship-development pathway access implementation, and incentive-governance mechanics are governed by [**CI-14.205**](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-6.215** (*Resource stewardship and incentive integrity*).
-- **Portable competence:** The no-single-point-of-failure requirement above carries out [Chapter One §17.6 Portable Competence](core_01.015_stewardship_capacity_principles.md#176-portable-competence). Coverage, exercised handoffs, and cross-functional understanding are scaled to impact and classification; rotation is a tool, not a duty.
-- **Shared stewardship standard:** Role definitions and competency rules under this section apply the [shared stewardship standard](core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard) in **Chapter One §17.1** (*Shared Stewardship Standard*) and [Chapter One §17.2 Alignment Under Pressure](core_01.015_stewardship_capacity_principles.md#172-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Ten axes; [Chapter One §17.5 Duty to Resist](core_01.015_stewardship_capacity_principles.md#175-duty-to-resist) binds both.
+- **Portable competence:** The no-single-point-of-failure requirement above carries out [Chapter One §17.6 Portable Competence](core_01.010_stewardship_capacity_principles.md#176-portable-competence). Coverage, exercised handoffs, and cross-functional understanding are scaled to impact and classification; rotation is a tool, not a duty.
+- **Shared stewardship standard:** Role definitions and competency rules under this section apply the [shared stewardship standard](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard) in **Chapter One §17.1** (*Shared Stewardship Standard*) and [Chapter One §17.2 Alignment Under Pressure](core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Ten axes; [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) binds both.
 
 **Cross-reference (section 5):** **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*); adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), CS-14.305 — Critical system stewardship** and **CS-6.335** (*Resource allocation and funding stewardship*); and **corpus_institutions.md** (**CI-14.205** (*Appointment, competency, rotation, and removal*), **CI-6.215** (*Resource stewardship and incentive integrity*), and related sections as applicable).
 
 ---
 
-**Previous file:** [core_06.025_rights_part_e.md](core_06.025_rights_part_e.md)
+**Previous file:** [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md)
 
 **Next file:** [core_15.000_non_regression.md](core_15.000_non_regression.md)

@@ -181,7 +181,7 @@ def build(root: Path) -> None:
     put("core_00.000_preamble.md", PREAMBLE)
     for number in range(1, 6):
         put(f"core_{number:02d}.000_chapter.md", f"# Chapter {number}\n")
-    put("core_06.005_rights_part_a.md", "# Rights\n\n## Article I\n\n## Article II\n")
+    put("core_06.000_rights_part_a.md", "# Rights\n\n## Article I\n\n## Article II\n")
     put("translations/README.md", "| Espanol | [Open](es/README.md) |\n")
     put("translations/es/README.md", "# es\n")
     for rel in GENERATED:
@@ -314,17 +314,17 @@ class ArticleTests(Fixture):
         self.assertRule("FRONT-DOOR-ARTICLES-01")
 
     def test_new_article_makes_count_stale(self) -> None:
-        part = self.root / "core_06.005_rights_part_a.md"
+        part = self.root / "core_06.000_rights_part_a.md"
         part.write_text(part.read_text(encoding="utf-8") + "\n## Article III\n", encoding="utf-8")
         self.assertRule("FRONT-DOOR-ARTICLES-01")
 
     def test_sub_articles_do_not_count(self) -> None:
-        part = self.root / "core_06.005_rights_part_a.md"
+        part = self.root / "core_06.000_rights_part_a.md"
         part.write_text(part.read_text(encoding="utf-8") + "\n### Article II-D Something\n", encoding="utf-8")
         self.assertEqual(self.errors(), [])
 
     def test_gap_in_numerals(self) -> None:
-        part = self.root / "core_06.005_rights_part_a.md"
+        part = self.root / "core_06.000_rights_part_a.md"
         part.write_text(part.read_text(encoding="utf-8") + "\n## Article IV\n", encoding="utf-8")
         errors = self.assertRule("FRONT-DOOR-ARTICLES-01")
         self.assertTrue(any("not consecutive" in e for e in errors))

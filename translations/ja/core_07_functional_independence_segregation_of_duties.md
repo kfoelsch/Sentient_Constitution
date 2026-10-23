@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# 第七章：機能的独立性と職務の分離
+# 第七章： 機能の独立性と職務の分離
 
 <details>
 <summary><strong><span style="color: #2563eb;">コーパス内の位置づけ（非作動的）：ファイル構成と読解規則</span></strong></summary>
 
-> このファイルは**感知者憲法の一部**であり、単一の文書として読む他の番号付き`core_*`ファイルと**併せて初めて拘束力を持つ**。本ファイルは、機能的独立性と職務の分離に関するプロセス横断的な最低基準を定める**第七章**である。第六章の権利の最低基準に続き、憲法上のプロセス章の冒頭となる[第八章・システム整合性認証](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)に先立つ。
+> このファイルは**感知者憲法の一部**であり、単一の文書として読む他の番号付き`core_*`ファイルと**併せて初めて拘束力を持つ**。本ファイルは、機能的独立性と職務の分離に関するプロセス横断的な最低基準を定める**第七章**である。第六章の権利の最低基準に続き、憲法上のプロセス章の冒頭となる[第八章・システム整合性認証](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)に先立つ。
 >
 > - **憲法上の所管事項：**重大な拘束力を持つ行為について別個の席を設ける最低基準；各[重大な拘束力を持つ行為の記録](../../core_05_band_accountability.md#materially-binding-act-record)に共通する普遍的な最低内容；行為者およびその[物的支配ライン](../../core_05_band_accountability.md#material-control-line)からの独立性；公表されたレーンと役割の配置；利益相反、欠員、代行および誤った席への回付；比例的な統合運営；帰属を追跡できる引継ぎ；ならびに後続のすべての憲法上のプロセスが適用すべき最低限の独立性条件。
 > - **原則層の根拠：**[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)は、統治に機能的独立性の維持を求め、運用上の席の構造を本章に委ねる。
@@ -20,7 +20,7 @@
 
 - 上流：[憲法上の四原則](../../core_00_preamble.md#constitutional-tetrad)、特に**監督**と**説明責任**；[重要な利害](../../core_00_preamble.md#material-stake)；[第一章 §17.1 共有スチュワードシップ基準](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)；[第一章 §18 スチュワードシップ規律下の統治](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[第XVI条](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)（*監査、透明性、独立検証*）。
 - 小節：[§1](#1-purpose-scope-and-owner-boundary)；[§2](#2-four-seat-constitutional-requirement)；[§3](#3-independence-conflict-and-control-lines)；[§4](#4-wrong-seat-routing)；[§5](#5-published-placement-vacancy-and-substitution)；[§6](#6-proportional-scaling-and-merged-hosting)；[§7](#7-emergency-and-urgent-action)；[§8](#8-act-records-and-attributable-handoffs)；[§9](#9-relationship-to-later-processes)。
-- 下流：[第八章](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)；[第九章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十二章](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第十三章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)；上記の指定実施文書。
+- 下流：[第八章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第九章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十二章](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第十三章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)；上記の指定実施文書。
 - 併読：[第一章 §19.3 不整合の検出](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)（*複数主体による検出と審査*）；[帰属可能な行為](../../core_05_band_accountability.md#attributable-action)；[帰属の完全性](../../core_05_band_accountability.md#attribution-integrity)；[監査可能性](../../core_05_band_oversight.md#auditability)；[異議申立て可能性](../../core_05_band_accountability.md#contestability)；[比例性](../../core_05_band_accountability.md#proportionality)。
 
 </details>
@@ -66,7 +66,7 @@
 - 指定実施文書の運用上の席カタログ、人員配置方法およびレーンマップの仕組み。
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. 四席の憲法上の最低基準
+### 2. 憲法上の四議席の要件
 
 <details>
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
@@ -351,7 +351,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
 - 上流：[§1](#1-purpose-scope-and-owner-boundary)から[§8](#8-act-records-and-attributable-handoffs)まで。
-- 下流：[第八章](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)；[第九章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十二章](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第十三章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)。
+- 下流：[第八章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第九章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十二章](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第十三章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)。
 - 併読：[権限の階層と内部序列](../../core_05_band_integrative.md#owner-non-relocation)および[前文の所管者登録簿](../../core_00_preamble.md#4-principles-definitions-and-rights)。
 
 </details>

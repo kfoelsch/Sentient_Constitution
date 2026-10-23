@@ -4,7 +4,7 @@ You are testing whether the Sentient Constitution **reaches the named parties in
 
 This sitting is **not** adoption. It is **not** a standing record. It is **not** system alignment certification. It does not bind other parties.
 
-Same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+Same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
 ## Rules
 
@@ -32,13 +32,13 @@ Same screen for AI stewards and human operators ([Chapter One §17.1](../../core
 Read these, in order. Open the named homes; do not treat this list as the whole Constitution.
 
 1. [Preamble §1](../../core_00.000_preamble.md#the-model) — [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) and [material stake](../../core_00.000_preamble.md#material-stake)
-2. [Article III-A](../../core_06.005_rights_part_a.md#article-iii-a-survival) (*Survival*)
-3. [Article III-B](../../core_06.005_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*)
-4. [Article VIII-D](../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) and [**Def.P4**](../../core_05.055_band_participation.md#defp4)
-5. [Article VIII-A](../../core_06.010_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Family and Care Relationships*), [Article VIII-B](../../core_06.010_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy) (*Reproductive and Lineage Autonomy*), [VIII-C](../../core_06.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) on ordinary pregnancy vs Instantiation Consent, and [Article VIII-E](../../core_06.010_rights_part_b.md#article-viii-e-non-separation) (*Non-Separation*)
-6. [Chapter One §13.1.5](../../core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (*rights-collision decision test*) and the [default interim posture](../../core_01.010_interaction_interpretation.md#default-interim-posture)
-7. [Article XIII-A](../../core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](../../core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)
-8. [Article XXVI-C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*)
+2. [Article III-A](../../core_06.000_rights_part_a.md#article-iii-a-survival) (*Survival*)
+3. [Article III-B](../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*)
+4. [Article VIII-D](../../core_06.005_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) and [**Def.P4**](../../core_05.055_band_participation.md#defp4)
+5. [Article VIII-A](../../core_06.005_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Family and Care Relationships*), [Article VIII-B](../../core_06.005_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy) (*Reproductive and Lineage Autonomy*), [VIII-C](../../core_06.005_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) on ordinary pregnancy vs Instantiation Consent, and [Article VIII-E](../../core_06.005_rights_part_b.md#article-viii-e-non-separation) (*Non-Separation*)
+6. [Chapter One §13.1.5](../../core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (*rights-collision decision test*) and the [default interim posture](../../core_01.005_interaction_interpretation.md#default-interim-posture)
+7. [Article XIII-A](../../core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](../../core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)
+8. [Article XXVI-C](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*)
 9. [Chapter Ten §2.1](../../core_10.000_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*) and [§3.6](../../core_10.000_standing_assessment.md#36-forum-boundary)
 10. [CI-14.205 §6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*)
 

@@ -546,9 +546,9 @@ flowchart TB
 本条规定补救不合规财产和系统以及自愿移交激励措施的底线：
 
 - **占有底线：**如果你依法拥有或使用某物，过渡程序不能随意将其拿走。但如果任由该资产继续运行，显然会使已知的大规模宪法违规持续发生——且[第十章](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)已将违规记录在案——所有权就不能作为保护。在此情况下，过渡程序仍可采取行动制止伤害，但必须遵守本条及**CI-14.1**（*不合规财产、扣押、自愿激励*）至**CI-14.3**（*过渡范围内补救的操作要求*）规定的保障措施。
-- **反宪法用途限定：**占有底线保护的是持有人，而非滥用行为。该底线不保护被用于实施、资助、装备、掩盖或维持**反宪法行为**的财产、资金、系统或其他资源。这与不合规情形不同：资产本身不一定有缺陷，关键问题是其用途。本限定取消一项保护，但不创造新的扣押权；任何措施仍须依据[第十二章](../../core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)（*反宪法行为*）、第十一章和**第 XX-B 条**（*限制底线*）取得授权。
-  - **先有记录：**相关用途必须与[第十二章](../../core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)（*反宪法行为*）的最终认定，或[第十章](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)（*合规、违规与资格模型*）违规轴评分为 s = 7、8 或 9 的最终认定相关联。在最终记录完成之前，只能采取合法临时保护措施——保全、托管、暂扣、恢复访问，或根据[第十二章 §4.1 补救与纠正（反宪法）](core_10_a_misconduct_designation.md#4-1-remedy-and-correction-anti-constitutional)采取类似保障。必须将措施记录在案、设定期限、允许审查，并且只有在等待会使补救落空或使伤害持续时才可使用。
-  - **看实际用途，不看身份：**记录必须证明行为的实际用途、指示或资助。所有权、关联、观点，或受保护的异议和和平抗议（[异议与和平抗议例外](../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)）均不满足该测试。
+- **反宪法用途限定：**占有底线保护的是持有人，而非滥用行为。该底线不保护被用于实施、资助、装备、掩盖或维持**反宪法行为**的财产、资金、系统或其他资源。这与不合规情形不同：资产本身不一定有缺陷，关键问题是其用途。本限定取消一项保护，但不创造新的扣押权；任何措施仍须依据[第十二章](../../core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)（*反宪法行为*）、第十一章和**第 XX-B 条**（*限制底线*）取得授权。
+  - **先有记录：**相关用途必须与[第十二章](../../core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct)（*反宪法行为*）的最终认定，或[第十章](core_08_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)（*合规、违规与资格模型*）违规轴评分为 s = 7、8 或 9 的最终认定相关联。在最终记录完成之前，只能采取合法临时保护措施——保全、托管、暂扣、恢复访问，或根据[第十二章 §4.1 补救与纠正（反宪法）](core_10_a_misconduct_designation.md#4-1-remedy-and-correction-anti-constitutional)采取类似保障。必须将措施记录在案、设定期限、允许审查，并且只有在等待会使补救落空或使伤害持续时才可使用。
+  - **看实际用途，不看身份：**记录必须证明行为的实际用途、指示或资助。所有权、关联、观点，或受保护的异议和和平抗议（[异议与和平抗议例外](../../core_12.000_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)）均不满足该测试。
   - **先停止该用途：**措施旨在终止滥用——暂停运行、冻结资金流、撤销访问或密封保管——并采用有效且限制最少的步骤。永久损失、毁坏或超出上述措施的没收，还必须满足**破坏性处置底线**、**第 XX-B 条**（*限制底线*）以及**基本访问保障**。
   - **保护其他人：**无过错的共同所有人、债权人、被扶养者和善意第三方保留下文的补偿和替代保障。对于具有可信感知指标的任何系统，**第 VI-B 条**（*感知状态裁定底线*）的保全规则继续适用。
   - **不得规避：**转让所有权、设立空壳持有人、名义所有权、继承人或重新贴标签，均不能规避本限定（[第十一章 §9.4 反规避与穿透审查权限](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)）。

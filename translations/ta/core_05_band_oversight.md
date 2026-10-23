@@ -126,7 +126,7 @@
 - மேல்வழி: கோட்பாடுகள்: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிடல்.
 - தொகுதி உறுப்பு: [*பொருள் தாக்கம், பொருண்மைத் தீர்மானம், வகைப்பாடு-அளவிடப்பட்ட ஆட்சி, மேற்பார்வை, திறன் தேவை*](core_05_band_oversight.md#materiality-semi-independent).
 - இதனுடன் படிக்க: [சார்பு](../../core_05.040_band_continuity.md#dependency), [பொருள் தாக்கம்](core_05_band_oversight.md#பரள-தககம), [இடர்](../../core_05.040_band_continuity.md#risk), [அமைப்பு எல்லை முழுமை](../../core_05.040_band_continuity.md#system-boundary-integrity), மற்றும் [மேற்பார்வை](core_05_apex_oversight_leg.md#oversight-constitutional).
-- கீழ்வழி: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — வகைப்பாடு-அளவிடப்பட்ட முழு-அமைப்பு மதிப்பீட்டுக் கடமை.
+- கீழ்வழி: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — வகைப்பாடு-அளவிடப்பட்ட முழு-அமைப்பு மதிப்பீட்டுக் கடமை.
 
 </details>
 
@@ -148,7 +148,7 @@
 - **எப்படி அளவிடவும் மதிப்பிடவும்**
   - **முதன்மை அளவு:** [மேற்பார்வை அளவீட்டுக் குடும்பம்](core_05_apex_oversight_leg.md#oversight-measurement-family) — *உணர்வுள்ளோர் அமைப்புகள் பிரதிநிதித்துவப்படுத்துவதைப் பார்க்கவும், சரிபார்க்கவும், நம்பவும் முடியுமா?* இங்கே மேற்பார்வை ஆழமும் சரிபார்ப்புச் சுமையும் அமைப்பின் உண்மையான பங்கு, தாக்கம், சார்பு, இடருடன் பொருந்துகிறதா என்று கேளுங்கள் — சுயமாக ஒதுக்கப்பட்ட தாழ்ந்த வகுப்பல்ல.
 
-    **முதன்மை மதிப்பீடு:** செயல்படுத்தல் விதிகளின் கீழ் உண்மையான வகுப்பைப் பயன்படுத்துங்கள். [பொருண்மைத் தீர்மானத்துடன்](core_05_band_oversight.md#பரணமத-தரமனம) [அமைப்பு எல்லை முழுமையுடன்](../../core_05.040_band_continuity.md#system-boundary-integrity) படியுங்கள். அமைப்பின் முழு விளைவுகள் வலிமையான [மேற்பார்வையை](core_05_apex_oversight_leg.md#oversight-constitutional) அல்லது ஆட்சியைக் கேட்கும்போது சுயமாக ஒதுக்கப்பட்ட அல்லது முறைசாரா தாழ்ந்த வகுப்பு போதாது. [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீட்டின்](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) கீழ் முழு-அமைப்பு மதிப்பாய்வு வகுப்பால் அளவிடப்படுகிறது:
+    **முதன்மை மதிப்பீடு:** செயல்படுத்தல் விதிகளின் கீழ் உண்மையான வகுப்பைப் பயன்படுத்துங்கள். [பொருண்மைத் தீர்மானத்துடன்](core_05_band_oversight.md#பரணமத-தரமனம) [அமைப்பு எல்லை முழுமையுடன்](../../core_05.040_band_continuity.md#system-boundary-integrity) படியுங்கள். அமைப்பின் முழு விளைவுகள் வலிமையான [மேற்பார்வையை](core_05_apex_oversight_leg.md#oversight-constitutional) அல்லது ஆட்சியைக் கேட்கும்போது சுயமாக ஒதுக்கப்பட்ட அல்லது முறைசாரா தாழ்ந்த வகுப்பு போதாது. [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீட்டின்](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) கீழ் முழு-அமைப்பு மதிப்பாய்வு வகுப்பால் அளவிடப்படுகிறது:
     - **Class A**, **Class B**, மற்றும் **Class C** — முழு ஆழம், கட்டாயம்;
     - **Class L** — கட்டாயம், ஆனால் தாக்கத்திற்கு அளவிடப்பட்டது; மற்றும்
     - **Class P** — அமைப்பு செல்லுபடியாக **Class P** ஆக இருக்கும் வரை ஊக்குவிக்கப்படுகிறது.
@@ -184,7 +184,7 @@
     - மூலப் பாதுகாப்பு;
     - விசாரணை; மற்றும்
     - வெளியீடு.
-    அந்தப் பணியைச் செய்யும் உணர்வுள்ளோர் [வெளிப்பாடு](../../core_05.055_band_participation.md#expression-constitutional) மற்றும் [கூட்டம்](../../core_05.055_band_participation.md#assembly-constitutional) உரிமைத் தளத்தைப் பயில்கின்றனர், அந்தச் செயல்பாட்டைப் பாதிக்கும் நோக்கமுள்ள அரசு மற்றும் இயக்குநர் செயல்களுக்கு எதிராக [சரத்து V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*வெளிப்பாடு, கூட்டம், அச்சகம்*) கீழ் உயர்த்தப்பட்ட-ஆய்வுப் பாதுகாப்புடன்.
+    அந்தப் பணியைச் செய்யும் உணர்வுள்ளோர் [வெளிப்பாடு](../../core_05.055_band_participation.md#expression-constitutional) மற்றும் [கூட்டம்](../../core_05.055_band_participation.md#assembly-constitutional) உரிமைத் தளத்தைப் பயில்கின்றனர், அந்தச் செயல்பாட்டைப் பாதிக்கும் நோக்கமுள்ள அரசு மற்றும் இயக்குநர் செயல்களுக்கு எதிராக [சரத்து V-H](../../core_06.005_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*வெளிப்பாடு, கூட்டம், அச்சகம்*) கீழ் உயர்த்தப்பட்ட-ஆய்வுப் பாதுகாப்புடன்.
   - **எல்லைக்கு வெளியே:** இதழியலாகச் செயல்படும் செய்தி சேகரித்தல், விசாரணை, அல்லது வெளியீடு அல்லாத அச்சகச் சான்றுகள், நிறுவனப் பட்டங்கள், அல்லது சாதாரண வணிகப் பேச்சு.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **எப்படி அளவிடவும் மதிப்பிடவும்**
@@ -247,7 +247,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- கீழ்வழி: ஒருங்கிணைந்த பொருண்மை ([பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம)) (*அரசியலமைப்பு அளவாகப் பொருண்மை*); கோட்பாடுகள்: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**பொருண்மை** DEC அடுக்கு; மதிப்பீட்டு முழுமை); [10.1 முக்கிய பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (பொருள் விளைவுகளுடன் படிக்கும் விகிதாசார அடுக்கு).
+- கீழ்வழி: ஒருங்கிணைந்த பொருண்மை ([பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம)) (*அரசியலமைப்பு அளவாகப் பொருண்மை*); கோட்பாடுகள்: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**பொருண்மை** DEC அடுக்கு; மதிப்பீட்டு முழுமை); [10.1 முக்கிய பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (பொருள் விளைவுகளுடன் படிக்கும் விகிதாசார அடுக்கு).
 - இதனுடன் படிக்க: [பொருள் தாக்கம்](core_05_band_oversight.md#பரள-தககம), [பொருள் இடர்](core_05_band_oversight.md#பரள-இடர), [அமைப்புப் பொருண்மை](../../core_05.035_band_accountability.md), மற்றும் [வகைப்பாடு-அளவிடப்பட்ட ஆட்சி](core_05_band_oversight.md#வகபபட-அளவடபபடட-ஆடச).
 
 </details>
@@ -281,7 +281,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- கீழ்வழி: ஒருங்கிணைந்த பொருண்மை ([பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம)) (*அரசியலமைப்பு அளவாகப் பொருண்மை*); கோட்பாடுகள்: [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவிடல் பதிலீடு; அத்தியாயம் ஒன்று இந்த வரையறையை **பாதுகாப்பு** (**அத்தியாயம் ஒன்று §8.1**), **உண்மை** (**அத்தியாயம் ஒன்று §8.2**), **நம்பிக்கை** (**§12**), **§12** பொறுப்பான நிர்வாகமும் திறந்த சொற்றொடர்களும், **§13.1**, **§13.2**, மற்றும் **பொருண்மை** D/A/C சாளரங்களில் தோன்றும் **அத்தியாயம் ஒன்று §6.3.2** வழியே வெளிப்படுத்துகிறது — முதன்மை அமைப்பு மதிப்பீட்டு இல்லமாக [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீட்டை](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) காணுங்கள்.
+- கீழ்வழி: ஒருங்கிணைந்த பொருண்மை ([பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம)) (*அரசியலமைப்பு அளவாகப் பொருண்மை*); கோட்பாடுகள்: [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவிடல் பதிலீடு; அத்தியாயம் ஒன்று இந்த வரையறையை **பாதுகாப்பு** (**அத்தியாயம் ஒன்று §8.1**), **உண்மை** (**அத்தியாயம் ஒன்று §8.2**), **நம்பிக்கை** (**§12**), **§12** பொறுப்பான நிர்வாகமும் திறந்த சொற்றொடர்களும், **§13.1**, **§13.2**, மற்றும் **பொருண்மை** D/A/C சாளரங்களில் தோன்றும் **அத்தியாயம் ஒன்று §6.3.2** வழியே வெளிப்படுத்துகிறது — முதன்மை அமைப்பு மதிப்பீட்டு இல்லமாக [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீட்டை](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) காணுங்கள்.
 - தொகுதி உறுப்பு: [சார்ந்த தொகுதி *பொருள் தாக்கம், பொருண்மைத் தீர்மானம், வகைப்பாடு-அளவிடப்பட்ட ஆட்சி, மேற்பார்வை, திறன் தேவை*](core_05_band_oversight.md#materiality-semi-independent).
 - இதனுடன் படிக்க: [பொருள் தாக்கம்](core_05_band_oversight.md#பரள-தககம), [பொருள் இடர்](core_05_band_oversight.md#பரள-இடர), [அமைப்புப் பொருண்மை](../../core_05.040_band_continuity.md#systemic-materiality), மற்றும் [தணிக்கைத்தன்மை](core_05_band_oversight.md#தணககததனம).
 
@@ -459,7 +459,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- கீழ்வழி: கோட்பாடுகள்: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (மதிப்பீட்டில் தொகுப்பும் எல்லை முழுமையும்); [§6.2.4 பதிலீட்டு விலகல் செல்லாதாக்குதல்](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (பொருண்மையைக் கையாளக்கூடிய குறிகாட்டி/யதார்த்த இடைவெளி).
+- கீழ்வழி: கோட்பாடுகள்: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (மதிப்பீட்டில் தொகுப்பும் எல்லை முழுமையும்); [§6.2.4 பதிலீட்டு விலகல் செல்லாதாக்குதல்](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (பொருண்மையைக் கையாளக்கூடிய குறிகாட்டி/யதார்த்த இடைவெளி).
 - இதனுடன் படிக்க: [பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம), [அமைப்பு எல்லைகள்](../../core_05.040_band_continuity.md#system-boundaries), [அமைப்பு எல்லை முழுமை](../../core_05.040_band_continuity.md#system-boundary-integrity), [அமைப்புப் பொருண்மை](../../core_05.035_band_accountability.md), [தணிக்கைத்தன்மை](core_05_band_oversight.md#தணககததனம), மற்றும் [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability).
 
 </details>
@@ -496,7 +496,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- கீழ்வழி: ஒருங்கிணைந்த பொருண்மை ([பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம)) (*அரசியலமைப்பு அளவாகப் பொருண்மை*); கோட்பாடுகள்: [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவிடல் பதிலீடு; [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 பொறுப்பான நிர்வாகமும் பரவலான புரிதலும் — §9.2 பரவலான புரிதல்](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (புரிதல் **பொருண்மைக்கு** அளவிடப்படுகிறது); [8.1.1 விகிதாசாரம்](core_01_b_interaction_interpretation.md#1313-proportionality) (பரிமாற்றக் குறியீட்டில் பொருள் தாக்கம்).
+- கீழ்வழி: ஒருங்கிணைந்த பொருண்மை ([பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம)) (*அரசியலமைப்பு அளவாகப் பொருண்மை*); கோட்பாடுகள்: [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவிடல் பதிலீடு; [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9 பொறுப்பான நிர்வாகமும் பரவலான புரிதலும் — §9.2 பரவலான புரிதல்](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (புரிதல் **பொருண்மைக்கு** அளவிடப்படுகிறது); [8.1.1 விகிதாசாரம்](core_01_b_interaction_interpretation.md#1313-proportionality) (பரிமாற்றக் குறியீட்டில் பொருள் தாக்கம்).
 - தொகுதி உறுப்பு: [சார்ந்த தொகுதி *பொருள் தாக்கம், பொருண்மைத் தீர்மானம், வகைப்பாடு-அளவிடப்பட்ட ஆட்சி, மேற்பார்வை, திறன் தேவை*](core_05_band_oversight.md#materiality-semi-independent).
 - இதனுடன் படிக்க: [தீங்கு](../../core_05.035_band_accountability.md#harm), [இடர்](../../core_05.040_band_continuity.md#risk), [அமைப்புப் பொருண்மை](../../core_05.035_band_accountability.md), [சார்பு](../../core_05.040_band_continuity.md#dependency), [வகைப்பாடு-அளவிடப்பட்ட ஆட்சி](core_05_band_oversight.md#வகபபட-அளவடபபடட-ஆடச), [மேற்பார்வை](core_05_apex_oversight_leg.md#oversight-constitutional), மற்றும் [வெளிப்படைத்தன்மை](core_05_band_oversight.md#வளபபடததனம).
 
@@ -544,7 +544,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- கீழ்வழி: ஒருங்கிணைந்த பொருண்மை ([பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம)) (*அரசியலமைப்பு அளவாகப் பொருண்மை*); கோட்பாடுகள்: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (வால் இடர், இருத்தல் இடர் நிலை); [8.1.1 விகிதாசாரம்](core_01_b_interaction_interpretation.md#1313-proportionality) (**இடர்**, **மீளமுடியாத தீங்கு**, **இருத்தல் இடர்** குறியீடுகள்).
+- கீழ்வழி: ஒருங்கிணைந்த பொருண்மை ([பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம)) (*அரசியலமைப்பு அளவாகப் பொருண்மை*); கோட்பாடுகள்: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (வால் இடர், இருத்தல் இடர் நிலை); [8.1.1 விகிதாசாரம்](core_01_b_interaction_interpretation.md#1313-proportionality) (**இடர்**, **மீளமுடியாத தீங்கு**, **இருத்தல் இடர்** குறியீடுகள்).
 - இதனுடன் படிக்க: [தீங்கு](../../core_05.035_band_accountability.md#harm), [மீளமுடியாத தீங்கு](../../core_05.035_band_accountability.md#irreversible-harm), [இடர்](../../core_05.040_band_continuity.md#risk), [பாதுகாப்பு (கட்டுப்பாடு)](../../core_05.040_band_continuity.md#safety-constraint), மற்றும் [வகைப்பாடு-அளவிடப்பட்ட ஆட்சி](core_05_band_oversight.md#வகபபட-அளவடபபடட-ஆடச).
 
 </details>
@@ -590,7 +590,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- கீழ்வழி: கோட்பாடுகள்: [8.1.1 விகிதாசாரம்](core_01_b_interaction_interpretation.md#1313-proportionality) (நிச்சயமின்மையின் கீழ் மீள்தன்மை); [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (தவறிய தீங்குக்குத் தடுப்பு).
+- கீழ்வழி: கோட்பாடுகள்: [8.1.1 விகிதாசாரம்](core_01_b_interaction_interpretation.md#1313-proportionality) (நிச்சயமின்மையின் கீழ் மீள்தன்மை); [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (தவறிய தீங்குக்குத் தடுப்பு).
 - இதனுடன் படிக்க: [பொருள் தாக்கம்](core_05_band_oversight.md#பரள-தககம), [பொருள் இடர்](core_05_band_oversight.md#பரள-இடர), [மீளமுடியாத தீங்கு](../../core_05.035_band_accountability.md#irreversible-harm), [பாதுகாப்பு (கட்டுப்பாடு)](../../core_05.040_band_continuity.md#safety-constraint), மற்றும் [வகைப்பாடு-அளவிடப்பட்ட ஆட்சி](core_05_band_oversight.md#வகபபட-அளவடபபடட-ஆடச).
 
 </details>
@@ -630,7 +630,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- கீழ்வழி: மேற்பார்வை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவாக உண்மையும் அறிவார்ந்த முழுமையும்*); பொறுப்புக்கூறல் அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவாக ஊக்குவிப்பு இணக்கமும் பதிலீட்டு முழுமையும்*); கோட்பாடுகள்: [§6.2.4 பதிலீட்டு விலகல் செல்லாதாக்குதல்](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [§10 பொறுப்பான நிர்வாக ஒழுக்கத்தின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- கீழ்வழி: மேற்பார்வை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவாக உண்மையும் அறிவார்ந்த முழுமையும்*); பொறுப்புக்கூறல் அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவாக ஊக்குவிப்பு இணக்கமும் பதிலீட்டு முழுமையும்*); கோட்பாடுகள்: [§6.2.4 பதிலீட்டு விலகல் செல்லாதாக்குதல்](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [§10 பொறுப்பான நிர்வாக ஒழுக்கத்தின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - தொகுதி உறுப்பு: [சார்ந்த தொகுதி *பொருள் தாக்கம், பொருண்மைத் தீர்மானம், வகைப்பாடு-அளவிடப்பட்ட ஆட்சி, மேற்பார்வை, திறன் தேவை*](core_05_band_oversight.md#materiality-semi-independent).
 - இதனுடன் படிக்க: [பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம), [பொருண்மை முழுமைக் கட்டுப்பாடு](core_05_band_oversight.md#பரணம-மழமக-கடடபபட), [அமைப்பு எல்லை முழுமை](../../core_05.040_band_continuity.md#system-boundary-integrity), [ஊக்குவிப்பு இணக்கம்](core_05_band_integrative.md#ஊககவபப-இணககம), [தணிக்கைத்தன்மை](core_05_band_oversight.md#தணககததனம), மற்றும் [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#உணம-அரசயலமபபக-கடடபபட).
 
@@ -701,7 +701,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- கீழ்வழி: கோட்பாடுகள்: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [4. பேச்சுவார்த்தை செய்ய முடியாத கட்டுப்பாடுகள்: பாதுகாப்பும் உண்மையும்](core_01_a_values_principles.md) (**பாதுகாப்பு** / **உண்மை** சீரழிவுப் பாதைகள்).
+- கீழ்வழி: கோட்பாடுகள்: [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [4. பேச்சுவார்த்தை செய்ய முடியாத கட்டுப்பாடுகள்: பாதுகாப்பும் உண்மையும்](core_01_a_values_principles.md) (**பாதுகாப்பு** / **உண்மை** சீரழிவுப் பாதைகள்).
 - இதனுடன் படிக்க: [பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம), [அமைப்புப் பொருண்மை](../../core_05.035_band_accountability.md), [இடர்](../../core_05.040_band_continuity.md#risk), [பாதுகாப்பு (கட்டுப்பாடு)](../../core_05.040_band_continuity.md#safety-constraint), [அறிவார்ந்த முழுமை](core_05_band_oversight.md#அறவரநத-மழம), மற்றும் [பொருளுள்ள செயல்திறன்](../../core_05.055_band_participation.md#meaningful-agency).
 
 </details>
@@ -767,7 +767,7 @@
 
 அனுமதி எல்லை நிறைவேறும் இடத்தில், இந்தத் தொகுதி அத்தியாயங்கள் இரண்டு முதல் நான்கு அமைப்பு செய்வதையும் இணக்கக் கூற்றுகள் நிற்கின்றனவா என்பதையும் பற்றிய தடமறியக்கூடிய, சவால் செய்யக்கூடிய சான்றைக் கேட்கும்போது, வெளிப்படுத்தல், தணிக்கை, உறுதிப்படுத்தல் (வெளி உணர்தன்மையை உள்ளடக்குகிறது), உத்தரவாத ஆழத்தின் கூட்டு இல்லம்.
 
-**மேற்பார்வைச் சட்டகம்.** [அரசியலமைப்பு நான்மத்தின்](core_00_preamble.md#constitutional-tetrad) **மேற்பார்வை** கால் கீழ், மேற்பார்வை தணிக்கையைக் கேட்கிறது — நடந்ததை மீளமைத்தல், சுயாதீனமாக உறுதிப்படுத்துதல், தணிக்கை அணுகலைப் பெறுதல் — இங்கேயும் **சரத்து XVI**-இல் (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன உறுதிப்படுத்தல்*) அமைக்கப்படுகிறது. [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) மற்றவற்றுக்கு இடையே குறிப்பாகப் பெரிய, உயர்-பங்கு தணிக்கைச் செயல்முறை ([அத்தியாயம் ஏழு](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ் அனுமதி விளைவுகளை உருவாக்கும் மன்ற மேற்பார்வை இணக்க மதிப்பாய்வு); இந்தத் தொகுதியை விழுங்கவோ சகோதர தணிக்கை முறைகளைப் பதிலீடு செய்யவோ செய்யாது.
+**மேற்பார்வைச் சட்டகம்.** [அரசியலமைப்பு நான்மத்தின்](core_00_preamble.md#constitutional-tetrad) **மேற்பார்வை** கால் கீழ், மேற்பார்வை தணிக்கையைக் கேட்கிறது — நடந்ததை மீளமைத்தல், சுயாதீனமாக உறுதிப்படுத்துதல், தணிக்கை அணுகலைப் பெறுதல் — இங்கேயும் **சரத்து XVI**-இல் (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன உறுதிப்படுத்தல்*) அமைக்கப்படுகிறது. [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) மற்றவற்றுக்கு இடையே குறிப்பாகப் பெரிய, உயர்-பங்கு தணிக்கைச் செயல்முறை ([அத்தியாயம் ஏழு](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) கீழ் அனுமதி விளைவுகளை உருவாக்கும் மன்ற மேற்பார்வை இணக்க மதிப்பாய்வு); இந்தத் தொகுதியை விழுங்கவோ சகோதர தணிக்கை முறைகளைப் பதிலீடு செய்யவோ செய்யாது.
 
 **அமைப்புத் தரமும் விகிதாசாரமும்.** வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, உறுதிப்படுத்தல் கடமைகள் **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழ் அமைப்புத் தரத்துக்கும், பொருள் தாக்கம், சார்பு, இடருக்கும் அளவிடப்படுகின்றன. உயர்ந்த தர அமைப்புகள் (**Class A**, **B**, **C**) தாழ்ந்த தர அமைப்புகளைவிட (**Class L**, **P**) அதிகம் தேவை. இவற்றை உள்ளடக்குகிறது:
 - ஆழமான உத்தரவாதம்;
@@ -863,7 +863,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - தொகுதி உறுப்பு: [Def.O1 *வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சரிபார்ப்பு*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- கீழ்வழி: **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Class A/B/C அமைப்புகளுக்கான Type O அடிப்படை*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*வகைப்படுத்தலும் O/E/G உறவும்*); [அத்தியாயம் ஏழு §3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*தரவு வகைகளும் கையாளுதல் மதிப்பீடும்*); [அத்தியாயம் ஏழு B பகுதி §6](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (*சான்றளிப்புப் பதிவு*); [அத்தியாயம் ஏழு B பகுதி §6.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சவால் செய்யக்கூடிய தன்மை*).
+- கீழ்வழி: **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Class A/B/C அமைப்புகளுக்கான Type O அடிப்படை*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*வகைப்படுத்தலும் O/E/G உறவும்*); [அத்தியாயம் ஏழு §3.4](../../core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*தரவு வகைகளும் கையாளுதல் மதிப்பீடும்*); [அத்தியாயம் ஏழு B பகுதி §6](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (*சான்றளிப்புப் பதிவு*); [அத்தியாயம் ஏழு B பகுதி §6.2](../../core_09.005_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சவால் செய்யக்கூடிய தன்மை*).
 - இதனுடன் படிக்க: [வெளிப்படைத்தன்மை](core_05_band_oversight.md#வளபபடததனம), [சவால் செய்யக்கூடிய தன்மை](../../core_05.035_band_accountability.md#contestability), [தணிக்கைத்தன்மை](core_05_band_oversight.md#தணககததனம), [இடர் வெளிப்படுத்தல்](core_05_band_oversight.md#இடர-வளபபடததல), [எல்லைக் கருவி](../../core_05.040_band_continuity.md), [அமைப்பு எல்லைகள்](../../core_05.040_band_continuity.md#system-boundaries), [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [அமைப்பு சான்றளிப்புப் பதிவு](../../core_05.040_band_continuity.md#system-certification-record-constitutional), [அமைப்பு வகைப்பாட்டுப் பதிவு](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [அமைப்புத் தரவு வகைகள் பதிவு](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), [வகைப்பாடு-அளவிடப்பட்ட ஆட்சி](core_05_band_oversight.md#வகபபட-அளவடபபடட-ஆடச), மற்றும் **[corpus_systems.md](../../corpus_systems.md), CS-2 — தகவல் வகைகளும் கையாளுதலும்** (**Type O**).
 
 </details>
@@ -943,7 +943,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - தொகுதி உறுப்பு: [Def.O1 *வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சரிபார்ப்பு*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- கீழ்வழி: மேற்பார்வை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவாக வெளிப்படுத்தலும் உத்தரவாதமும்*); கோட்பாடுகள்: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — **மேற்பார்வை** கால்; [4.1 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint); [அத்தியாயம் ஏழு §3.1 அமைப்பு எல்லையும் இடர் காரணிகளும்](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC மதிப்பீடு·வெளிப்படுத்தல் கால்*); [அத்தியாயம் ஏழு B பகுதி §6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*அமைப்பு சான்றளிப்புப் பதிவு மீதான கண்டுபிடிப்புகள் — தனியாகப் பெயரிடப்பட்ட இடர் வெளிப்படுத்தல் பதிவு அல்ல*).
+- கீழ்வழி: மேற்பார்வை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவாக வெளிப்படுத்தலும் உத்தரவாதமும்*); கோட்பாடுகள்: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — **மேற்பார்வை** கால்; [4.1 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint); [அத்தியாயம் ஏழு §3.1 அமைப்பு எல்லையும் இடர் காரணிகளும்](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC மதிப்பீடு·வெளிப்படுத்தல் கால்*); [அத்தியாயம் ஏழு B பகுதி §6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*அமைப்பு சான்றளிப்புப் பதிவு மீதான கண்டுபிடிப்புகள் — தனியாகப் பெயரிடப்பட்ட இடர் வெளிப்படுத்தல் பதிவு அல்ல*).
 - இதனுடன் படிக்க: [இடர் மதிப்பீடு](../../core_05.040_band_continuity.md#risk-evaluation), [இடர்](../../core_05.040_band_continuity.md#risk), [வெளிப்படைத்தன்மை](core_05_band_oversight.md#வளபபடததனம), [பொது-மேற்பார்வை அடிப்படை வெளிப்படுத்தல்](core_05_band_oversight.md#பத-மறபரவ-அடபபட-வளபபடததல), [பாதுகாப்பு (கட்டுப்பாடு)](../../core_05.040_band_continuity.md#safety-constraint), [சவால் செய்யக்கூடிய தன்மை](../../core_05.035_band_accountability.md#contestability), [அறிவார்ந்த முழுமை](core_05_band_oversight.md#அறவரநத-மழம), மற்றும் [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
@@ -955,7 +955,7 @@
 - **அது என்ன**
   - **எல்லைக்குள்:** மதிப்பிடப்பட்ட அமைப்பு [இடரை](../../core_05.040_band_continuity.md#risk) அதற்குத் தேவைப்படுவோருக்கு அறிவித்து, புரிந்து, சவால் செய்து, செயல்பட முடியும்படி.
     - **தொடரும் கடமை:** கடமை சான்றளிப்பு சுற்றுக்கு மட்டும் அல்ல — [வெளிப்படைத்தன்மை](core_05_band_oversight.md#வளபபடததனம) அல்லது [பாதுகாப்பு (கட்டுப்பாடு)](../../core_05.040_band_continuity.md#safety-constraint) மதிப்பிடப்பட்ட இடர் அதற்குத் தேவைப்படும் உணர்வுள்ளோரை அடையக் கேட்கும் ஒவ்வொரு இடத்திலும் பொருந்தும்.
-    - **SAC உறுதிப்படுத்தல்:** [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) இயங்கி அமைப்பு இடர் எல்லையில் இருக்கும் இடத்தில், இந்த வெளிப்படுத்தல் [அத்தியாயம் ஏழு §3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) கீழ் சான்றளிப்பு உறுதிப்படுத்த வேண்டியதின் பகுதி; கண்டுபிடிப்புகள் தனியாகப் பெயரிடப்பட்ட இடர் வெளிப்படுத்தல் பதிவு அல்ல, [அமைப்பு சான்றளிப்புப் பதிவு](../../core_05.040_band_continuity.md#system-certification-record-constitutional) மீது வாழ்கின்றன.
+    - **SAC உறுதிப்படுத்தல்:** [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) இயங்கி அமைப்பு இடர் எல்லையில் இருக்கும் இடத்தில், இந்த வெளிப்படுத்தல் [அத்தியாயம் ஏழு §3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) கீழ் சான்றளிப்பு உறுதிப்படுத்த வேண்டியதின் பகுதி; கண்டுபிடிப்புகள் தனியாகப் பெயரிடப்பட்ட இடர் வெளிப்படுத்தல் பதிவு அல்ல, [அமைப்பு சான்றளிப்புப் பதிவு](../../core_05.040_band_continuity.md#system-certification-record-constitutional) மீது வாழ்கின்றன.
   - **எல்லைக்கு வெளியே:**
     - [இடர் மதிப்பீடு](../../core_05.040_band_continuity.md#risk-evaluation) தானே — அமைப்பு இடரை மதிப்பிடும் கடமை;
     - விரிவான பொது அடிப்படைத் தளமாக [பொது-மேற்பார்வை அடிப்படை வெளிப்படுத்தல்](core_05_band_oversight.md#பத-மறபரவ-அடபபட-வளபபடததல); அல்லது
@@ -988,7 +988,7 @@
 - தொகுதி உறுப்பு: [Def.O1 *வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சரிபார்ப்பு*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — **மேற்பார்வை** கால்; [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability), [சவால் செய்யக்கூடிய தன்மை](../../core_05.035_band_accountability.md#contestability), [அறிவார்ந்த முழுமை](core_05_band_oversight.md#அறவரநத-மழம), [வெளிப்படைத்தன்மை](core_05_band_oversight.md#வளபபடததனம), [சரிபார்க்கக்கூடிய தன்மை](core_05_band_oversight.md#சரபரககககடய-தனம), [சான்று பாதுகாப்பு](core_05_band_oversight.md#சனற-பதகபப), மற்றும் [மதிப்பீட்டு முழுமைக் கட்டுப்பாடு](core_05_band_oversight.md#மதபபடட-மழமக-கடடபபட).
 - இதனுடன் படிக்க: **சரத்து XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன உறுதிப்படுத்தல்*); [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) (*மேற்பார்வை கீழ் குறிப்பாகப் பெரிய தணிக்கைச் செயல்முறை ஒன்று — ஒரே தணிக்கை இல்லம் அல்ல*); [core_02_definition_structure.md](core_02_definition_structure.md) அத்தியாயங்கள் இரண்டு முதல் நான்கு அமைக்கும் அடுக்கு இயக்கவியல்.
-- பொறுப்பான நிர்வாகக் கதவு (செயல்படாதது): இந்த வரையறை தணிக்கை அடுக்கின் பண்பு அடுக்கு. பிணைக்கும் அடுத்த-படி அறிக்கை: [இயக்க பொறுப்பான நிர்வாக அறிக்கை (சரத்து XVI)](core_06_rights_part_c.md). மூன்று அடுக்கு படம்: [சரத்து XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
+- பொறுப்பான நிர்வாகக் கதவு (செயல்படாதது): இந்த வரையறை தணிக்கை அடுக்கின் பண்பு அடுக்கு. பிணைக்கும் அடுத்த-படி அறிக்கை: [இயக்க பொறுப்பான நிர்வாக அறிக்கை (சரத்து XVI)](core_06_rights_part_c.md). மூன்று அடுக்கு படம்: [சரத்து XVI](../../core_06.010_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1118,7 +1118,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - தொகுதி உறுப்பு: [Def.O1 *வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சரிபார்ப்பு*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- கீழ்வழி: மேற்பார்வை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவாக மதிப்பீட்டு மூடல்*); [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC முழு-அமைப்பு மதிப்பீடு*); [அத்தியாயம் ஏழு B பகுதி §6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*அமைப்பு சான்றளிப்புப் பதிவு மீதான கண்டுபிடிப்புகள்*); [CS-5 — வடிவமைப்பு, சோதனை, உறுதிப்படுத்தல், பயன்பாடு](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*சோதனை, அழுத்தம், பின்னடைவு மூடல்*).
+- கீழ்வழி: மேற்பார்வை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவாக மதிப்பீட்டு மூடல்*); [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC முழு-அமைப்பு மதிப்பீடு*); [அத்தியாயம் ஏழு B பகுதி §6.1](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (*அமைப்பு சான்றளிப்புப் பதிவு மீதான கண்டுபிடிப்புகள்*); [CS-5 — வடிவமைப்பு, சோதனை, உறுதிப்படுத்தல், பயன்பாடு](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*சோதனை, அழுத்தம், பின்னடைவு மூடல்*).
 - இதனுடன் படிக்க: [தணிக்கைத்தன்மை](core_05_band_oversight.md#தணககததனம), [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [எல்லைக் கருவி](../../core_05.040_band_continuity.md), [அமைப்பு எல்லைகள்](../../core_05.040_band_continuity.md#system-boundaries), [அமைப்பு எல்லை முழுமை](../../core_05.040_band_continuity.md#system-boundary-integrity), [பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#பரணமத-தரமனம), [எதிர்மறை, அளவிடப்பட்ட, சுரண்டப்பட்ட நிபந்தனைகள்](core_05_band_oversight.md#எதரமற-அளவடபபடட-சரணடபபடட-நபநதனகள), [அமைப்பு உருவாக்கம்](../../core_05.055_band_participation.md#system-creation-constitutional), மற்றும் [வணிக உருவாக்கம்](../../core_05.055_band_participation.md#business-creation-constitutional).
 
 </details>
@@ -1135,7 +1135,7 @@
     - எதிர்மறை பாதைகள்.
   - **தொடரும் கடமை:** கட்டுப்பாடு இயக்குநர், பொறுப்பான நிர்வாகி, அல்லது மதிப்பாய்வாளர் மதிப்பீடு அல்லது உத்தரவாத வேலையால் அரசியலமைப்பு இணக்கம், தயார்நிலை, அல்லது பாதுகாப்பான சார்பைக் கூறும் ஒவ்வொரு இடத்திலும் பொருந்தும் — சான்றளிப்பு சுற்றுக்கு மட்டும் அல்ல.
   - **எல்லைக் கருவியும் எல்லைச் செயல்முறையும்:** அமைப்பு, நிறுவனம், வணிகம், அல்லது ஒப்பிடக்கூடிய பொறுப்பான நிர்வாக வடிவத்துக்கு அமைக்கும் [எல்லைக் கருவி](../../core_05.040_band_continuity.md) (அல்லது சமமான பொது எல்லைக் கருவி) இருக்கும் இடத்தில், மதிப்பீடு கருவியிடப்பட்ட நோக்கத்தையும் எல்லைக்குள்/வெளியே வரம்புகளையும், கவனிக்கப்பட்ட [அமைப்பு எல்லைகளுக்கும்](../../core_05.040_band_continuity.md#system-boundaries) அந்த எல்லைக்குள்ளும் விளிம்பிலுமுள்ள நம்பத்தகுந்த பாதைகளுக்கும் சோதிக்க வேண்டும். எல்லைக் கருவி உரை மதிப்பிட வேண்டிய பாதைகளைக் குறைக்காது.
-  - **SAC உறுதிப்படுத்தல்:** [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) இயங்கும் இடத்தில், இந்தக் கட்டுப்பாடு [அத்தியாயம் ஏழு §3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) கீழ் சான்றளிப்பு உறுதிப்படுத்த வேண்டியதின் பகுதி — [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) கீழ் கருவியிடப்பட்ட எல்லை vs செயல்பாட்டு எல்லை சோதனையும், [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) கீழ் தரத்துக்கு அளவிடப்பட்ட சோதனை / பின்னடைவு மூடலும் உட்பட. கண்டுபிடிப்புகள் [அமைப்பு சான்றளிப்புப் பதிவு](../../core_05.040_band_continuity.md#system-certification-record-constitutional) மீது வாழ்கின்றன.
+  - **SAC உறுதிப்படுத்தல்:** [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) இயங்கும் இடத்தில், இந்தக் கட்டுப்பாடு [அத்தியாயம் ஏழு §3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) கீழ் சான்றளிப்பு உறுதிப்படுத்த வேண்டியதின் பகுதி — [§3.1](../../core_09.000_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) கீழ் கருவியிடப்பட்ட எல்லை vs செயல்பாட்டு எல்லை சோதனையும், [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) கீழ் தரத்துக்கு அளவிடப்பட்ட சோதனை / பின்னடைவு மூடலும் உட்பட. கண்டுபிடிப்புகள் [அமைப்பு சான்றளிப்புப் பதிவு](../../core_05.040_band_continuity.md#system-certification-record-constitutional) மீது வாழ்கின்றன.
   - **எல்லைக்கு வெளியே:**
     - எல்லைக் கருவியாக [எல்லைக் கருவி](../../core_05.040_band_continuity.md) உரை மட்டும் — எல்லைக் கருவி உத்தேசிக்கப்பட்ட எல்லையைச் சொல்கிறது; தானே மதிப்பீட்டு மூடல் அல்ல;
     - தானே [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) செயல்முறை இயந்திரம் — சான்றளிப்பு இந்தக் கட்டுப்பாட்டை உறுதிப்படுத்தலாம்; கட்டுப்பாடு பொருந்தும் ஒரே சூழல் அல்ல; அல்லது
@@ -1151,7 +1151,7 @@
     - பொருளாக இருக்கும் இடத்தின் [எதிர்மறை, அளவிடப்பட்ட, சுரண்டப்பட்ட நிபந்தனைகள்](core_05_band_oversight.md#எதரமற-அளவடபபடட-சரணடபபடட-நபநதனகள).
     மேலும் கேளுங்கள்:
       - [எல்லைக் கருவி](../../core_05.040_band_continuity.md) இருக்கும் இடத்தில், மதிப்பீடு எல்லைக் கருவியை முழு சூழல் பட்டியலாகக் கையாளாமல், கருவியிடப்பட்ட எல்லையைக் கவனிக்கப்பட்ட எல்லைகளுக்குச் சோதித்ததா; மற்றும்
-      - [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) இயங்கும் இடத்தில், [அத்தியாயம் ஏழு §3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) கீழ் முழு-அமைப்பு மதிப்பீடும் பதிவுக் கண்டுபிடிப்புகளும் அந்த மூடலைப் பிரதிபலிக்கின்றனவா.
+      - [அமைப்பு இணக்கச் சான்றளிப்பு](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) இயங்கும் இடத்தில், [அத்தியாயம் ஏழு §3](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) கீழ் முழு-அமைப்பு மதிப்பீடும் பதிவுக் கண்டுபிடிப்புகளும் அந்த மூடலைப் பிரதிபலிக்கின்றனவா.
 <a id="evaluation-completeness-constraint-c"></a>
 - **எது நிற்க வேண்டும்**
   - **முதன்மை தோல்வி:**
@@ -1181,7 +1181,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - தொகுதி உறுப்பு: [Def.O1 *வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சரிபார்ப்பு*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- அமைக்கும் தளம்: நடைமுறை உறுதிப்படுத்தல் அணுகலுக்கு [சரத்து XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*உறுதிப்படுத்தல் அணுகல்*).
+- அமைக்கும் தளம்: நடைமுறை உறுதிப்படுத்தல் அணுகலுக்கு [சரத்து XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility) (*உறுதிப்படுத்தல் அணுகல்*).
 - இதனுடன் படிக்க: [தணிக்கைத்தன்மை](core_05_band_oversight.md#தணககததனம), [வெளிப்படைத்தன்மை](core_05_band_oversight.md#வளபபடததனம), [சவால் செய்யக்கூடிய தன்மை](../../core_05.035_band_accountability.md#contestability), [விகிதாசாரம்](../../core_05.035_band_accountability.md#proportionality), [சாத்தியம்](../../core_05.035_band_accountability.md#feasibility), [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#உணம-அரசயலமபபக-கடடபபட), மற்றும் [எதிர்மறை, அளவிடப்பட்ட, சுரண்டப்பட்ட நிபந்தனைகள்](core_05_band_oversight.md#எதரமற-அளவடபபடட-சரணடபபடட-நபநதனகள).
 
 </details>
@@ -1193,7 +1193,7 @@
 - **அது என்ன**
   - **எல்லைக்குள்:** அமைப்பு செயல், வெளியீடு, விளைவுகள் [தணிக்கைத்தன்மைக்கு](core_05_band_oversight.md#தணககததனம) வெளியிலிருந்து உணரப்பட்டு, அளவிடப்பட்டு, சுயாதீனமாக உறுதிப்படுத்தப்பட முடியுமா. உறுப்பு நிபந்தனைகள்:
     - சுயாதீன உறுதிப்படுத்தல் அளவிடுவதற்கு முன் வெளி உணர்தன்மை;
-    - நடைமுறை அணுகல் ([சரத்து XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [சாத்தியம்](../../core_05.035_band_accountability.md#feasibility));
+    - நடைமுறை அணுகல் ([சரத்து XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility); [சாத்தியம்](../../core_05.035_band_accountability.md#feasibility));
     - இயக்குநர் சுயகூற்றிலிருந்து சுயாதீனம்;
     - [விகிதாசாரம்](../../core_05.035_band_accountability.md#proportionality) மற்றும் [பொருள் தாக்கத்தின்](core_05_band_oversight.md#பரள-தககம) கீழ் விகிதாசார சுமை; மற்றும்
     - சாதாரண அழுத்தம், தவறான பயன்பாடு, [எதிர்மறை, அளவிடப்பட்ட, சுரண்டப்பட்ட நிபந்தனைகளின்](core_05_band_oversight.md#எதரமற-அளவடபபடட-சரணடபபடட-நபநதனகள) கீழ் நம்பகத்தன்மை.
@@ -1218,7 +1218,7 @@
   - **இரண்டாம் அளவு:** [மேற்பார்வை அளவீட்டுக் குடும்பம்](core_05_apex_oversight_leg.md#oversight-measurement-family) — *உணர்வுள்ளோர் அமைப்புகள் பிரதிநிதித்துவப்படுத்துவதைப் பார்க்கவும், சரிபார்க்கவும், நம்பவும் முடியுமா?* இங்கே கவனிக்கப்பட்ட செயல் நடைமுறையில் மீண்டும் செய்யக்கூடிய முறையால் சுயாதீனமாக உறுதிப்படுத்தப்பட முடியுமா என்று கேட்கிறது.
 
     **இரண்டாம் மதிப்பீடு:** இவற்றைச் செய்யும் முறையால் சுயாதீன உறுதிப்படுத்தலை உறுதிப்படுத்துங்கள்:
-    - பாதிக்கப்பட்டு சரியாக அதிகாரமளிக்கப்பட்ட தரப்பு உண்மையில் செய்ய முடியும் ([சரத்து XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [சாத்தியம்](../../core_05.035_band_accountability.md#feasibility));
+    - பாதிக்கப்பட்டு சரியாக அதிகாரமளிக்கப்பட்ட தரப்பு உண்மையில் செய்ய முடியும் ([சரத்து XVI-C](../../core_06.010_rights_part_c.md#article-xvi-c-verification-accessibility); [சாத்தியம்](../../core_05.035_band_accountability.md#feasibility));
     - உள்ளகக் கூற்றுகள் அல்லது ஊகிக்கப்பட்ட நோக்கம் அல்ல, வெளியிலிருந்து உணரப்படும் சான்றில் அமர்கிறது;
     - [விகிதாசாரம்](../../core_05.035_band_accountability.md#proportionality) மற்றும் [பொருள் தாக்கத்தின்](core_05_band_oversight.md#பரள-தககம) கீழ் அமைப்பு தாக்கத்துக்கு அளவிடப்படுகிறது; மற்றும்
     - சாதாரண அழுத்தம், தவறான பயன்பாடு, [எதிர்மறை, அளவிடப்பட்ட, சுரண்டப்பட்ட நிபந்தனைகளின்](core_05_band_oversight.md#எதரமற-அளவடபபடட-சரணடபபடட-நபநதனகள) கீழ் நம்பகமாக இருக்கிறது.

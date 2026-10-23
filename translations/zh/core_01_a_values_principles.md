@@ -800,7 +800,7 @@ flowchart TB
 - [**实质性**](core_05_band_oversight.md#实质性)决定必须展示和解释多少 — 依赖系统的有感知生命所面临的利害越大，系统就越应披露并说明理由。
 - [**信任退化与误导性依赖**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance)指明失效模式 — 系统以违宪误导的方式制造、维持或评价依赖时即属此类。
 
-若依赖通过压制、欺骗、暗中转移风险或类似手段建立或维持，信任就会失效 — 包括任何实质损害有感知生命发现并质疑系统性风险之能力的做法。[第八章](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)下的[**系统一致性认证**](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)流程，是系统证明其信任主张经得起检验的途径：认证必须基于可质疑的记录，核实系统的实际行为与其表述一致，而不能仅依赖运营者的断言。
+若依赖通过压制、欺骗、暗中转移风险或类似手段建立或维持，信任就会失效 — 包括任何实质损害有感知生命发现并质疑系统性风险之能力的做法。[第八章](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation)下的[**系统一致性认证**](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)流程，是系统证明其信任主张经得起检验的途径：认证必须基于可质疑的记录，核实系统的实际行为与其表述一致，而不能仅依赖运营者的断言。
 
 信任也取决于系统发生故障时如何处理。可信赖的系统会纠正自身错误：[§6.1 更正与补救](#61-correction-and-remedy)使更正成为信任的一部分，而非事后补救。
 
@@ -1113,7 +1113,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-*权利底线归属处。* **[第XI-B条](../../core_06.010_rights_part_b.md#article-xi-b-expression)（*表达*）**规定可操作的表达权利底线；**[第XI-G条](../../core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)（*集体伤害界线与执行接口*）**规定集体伤害从何处开始。本小节陈述与二者相连的自由原则，不另增规则。
+*权利底线归属处。* **[第XI-B条](../../core_06.005_rights_part_b.md#article-xi-b-expression)（*表达*）**规定可操作的表达权利底线；**[第XI-G条](../../core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)（*集体伤害界线与执行接口*）**规定集体伤害从何处开始。本小节陈述与二者相连的自由原则，不另增规则。
 
 - [表达](../../core_05.055_band_participation.md#expression) · [O](../../core_05.055_band_participation.md#expression) · [M](../../core_05.055_band_participation.md#expression-constitutional-a) · [A](../../core_05.055_band_participation.md#expression-constitutional-a) · [C](../../core_05.055_band_participation.md#expression-constitutional-c)
 - [伤害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
@@ -1139,9 +1139,9 @@ flowchart TB
 - 机构通过其政策、通知、平台设计、官方声明以及对待报告和批评的方式进行发言。通过这种方式实施的行为与其他行为一样进行评判。
 - 对机构、其官员或其行为的批评受到保护。将批评称为欺凌或骚扰是对表达的限制。提出这种主张的一方需承担[§7.1 Limitation Discipline](#71-limitation-discipline)和第四章规定的责任。
 
-**标签和话题不会改变测试。** 宗教、政治、意识形态、文化、艺术或商业标签不会将伤害他人的表达，或以禁止的方式对待他人的表达（[Article VI-C](core_06_rights_part_b.md#第vi-c条不歧视)（*非歧视*））转变为受保护的表达。话题或观点不会将受保护的表达转变为伤害。[Article XI-A](../../core_06.010_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)（*信仰自由、宗教自由及类似世界观*）保护持有和表达与他人权利一致的信念。
+**标签和话题不会改变测试。** 宗教、政治、意识形态、文化、艺术或商业标签不会将伤害他人的表达，或以禁止的方式对待他人的表达（[Article VI-C](core_06_rights_part_b.md#第vi-c条不歧视)（*非歧视*））转变为受保护的表达。话题或观点不会将受保护的表达转变为伤害。[Article XI-A](../../core_06.005_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)（*信仰自由、宗教自由及类似世界观*）保护持有和表达与他人权利一致的信念。
 
-**限制表达与将其作为证据使用是不同的。** 对表达的限制必须符合[§7.1 Limitation Discipline](#71-limitation-discipline)和**[Article XI-B](../../core_06.010_rights_part_b.md#article-xi-b-expression)（*表达*）**，并且针对言论的限制面临最严格的审查。将个人所说的内容作为意图、目的或权威的证据使用不是限制。它遵循提出问题的章节中的证据规则，如[Chapter Seven §6 Formation Check: Office-Holder Standing and Authenticity](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)，并且不能成为对言论本身的惩罚。
+**限制表达与将其作为证据使用是不同的。** 对表达的限制必须符合[§7.1 Limitation Discipline](#71-limitation-discipline)和**[Article XI-B](../../core_06.005_rights_part_b.md#article-xi-b-expression)（*表达*）**，并且针对言论的限制面临最严格的审查。将个人所说的内容作为意图、目的或权威的证据使用不是限制。它遵循提出问题的章节中的证据规则，如[Chapter Seven §6 Formation Check: Office-Holder Standing and Authenticity](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)，并且不能成为对言论本身的惩罚。
 
 **范围。** 本子部分将限制纪律和第五章定义应用于表达。它不创建[§7.1 Limitation Discipline](#71-limitation-discipline)尚未允许的伤害类别或限制自由的理由。
 
@@ -1473,7 +1473,7 @@ flowchart TB
 - 与以下内容一并阅读：[宪法四元结构](core_00_preamble.md#constitutional-tetrad)——当集中或支配挫败发声、审查、答责或及时纠正时，涉及参与、监督、问责和及时性；按[实质利益](core_00_preamble.md#material-stake)调整审查尺度（尤其是[§11.2 促进竞争与防止支配](#112-促进竞争与防止支配)）。
 - 与以下内容一并阅读：[两项宪法目标](core_00_preamble.md#two-constitutional-aims)——**连续性**目标（可争辩、持久的生产条件）；**繁荣**目标（公平获取生计、能动性和创新途径）。
 - 上游：原则：[§9 共享系统能力](#9-共享系统能力)——若集中或支配掏空生产能力与效率，相关主张即不成立；[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
-- 下游：[第十一章 §5](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（基于集中的颠覆）；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)（[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-代理指标偏离导致无效)）。
+- 下游：[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)（基于集中的颠覆）；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)（[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-代理指标偏离导致无效)）。
 - 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（[§11.1](#111-市场集中阈值机制由采纳方调整)和[§11.4](#114-资源与依赖关系集中由采纳方调整)规定其适用规则）；**CJS-3.11.2 — 反支配行为与补救措施目录**（[§11.2](#112-促进竞争与防止支配)规定的禁止行为及其补救）；**CJS-3.11.3 — 整合上限设定规约（由采纳方调整）**（[§11.3.2](#1132-整合上限机制由采纳方调整)规定的上限设定方法）。
 - 下游：塑造资源分配、公平报酬、集体组织、互操作性、退出和防止俘获审查等权利范围；尤其包括[第III-C条：劳动与经济底线](core_06_rights_part_a.md#article-iii-c-劳动与经济底线)、[第V条：资源分配、依赖关系与生态系统资金](core_06_rights_part_a.md#article-v-资源分配依赖关系与生态系统资助)，以及[第XXI条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)。
 - 子节（阅读顺序）：[§11.1 市场集中阈值机制（由采纳方调整）](#111-市场集中阈值机制由采纳方调整) · [§11.1.1 集中阈值触发条件（由采纳方调整）](#1111-集中阈值触发条件由采纳方调整) · [§11.2 促进竞争与防止支配](#112-促进竞争与防止支配) · [§11.3 整合上限](#113-整合上限) · [§11.4 资源与依赖关系集中（由采纳方调整）](#114-资源与依赖关系集中由采纳方调整)。
@@ -1519,7 +1519,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§11 市场结构](#11-市场结构)；[市场集中阈值](../../core_05.035_band_accountability.md#market-concentration-threshold)。
-- 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（有效的阈值设定规则）；[§11.2 促进竞争与防止支配](#112-促进竞争与防止支配)；[§11.3 整合上限](#113-整合上限)；[CJS-3.11.3 — 整合上限设定规约（由采纳方调整）](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-整合上限机制由采纳方调整)规定的有效上限设定规则）；[第九章 §4 问题2——结果有多好或多坏？](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)；[第十一章 §5.1 基于集中的颠覆](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.1 — 市场集中阈值设定规约（由采纳方调整）**（有效的阈值设定规则）；[§11.2 促进竞争与防止支配](#112-促进竞争与防止支配)；[§11.3 整合上限](#113-整合上限)；[CJS-3.11.3 — 整合上限设定规约（由采纳方调整）](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)（[§11.3.2](#1132-整合上限机制由采纳方调整)规定的有效上限设定规则）；[第九章 §4 问题2——结果有多好或多坏？](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)；[第十一章 §5.1 基于集中的颠覆](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - 管理者入口（不具规范效力）：下一步卡片：[市场结构](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure)。
 - 子节（阅读顺序）：[§11.1.1 集中阈值触发条件（由采纳方调整）](#1111-集中阈值触发条件由采纳方调整)。
 
@@ -1542,7 +1542,7 @@ flowchart TB
 
 - **规定：**为[§11 市场结构](#11-市场结构)底线确立原则层面的阈值方向。
 - **不规定：**经核实的伤害有多严重，也不作出不当行为认定。
-- **利用集中来破坏本宪法时：**依据[第十一章 §5.1 基于集中的颠覆](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)判断该不当行为。
+- **利用集中来破坏本宪法时：**依据[第十一章 §5.1 基于集中的颠覆](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)判断该不当行为。
 - **制造、维持或利用超过底线的集中时：**可将案件提交第十一章审查是否应认定为不当行为，但必须经过两个步骤。首先，[第九章 §4 问题2——结果有多好或多坏？](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)必须已将经核实的伤害评为最严重的三个等级之一。随后，第十一章检查该集中是否符合标准3（撤销保护的规避手段）、标准4（损害权利底线保护或阻止异议），或标准6（使宪法程序在实际中无法使用）。
 
 **宪法底线：**
@@ -1599,7 +1599,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§11 市场结构](#11-市场结构)；[市场结构](../../core_05.035_band_accountability.md#market-structure)。
-- 下游：**CJS-3.11.2 — 反支配行为与补救措施目录**（有效的行为模式与补救措施）；[§11.3 整合上限](#113-整合上限)；[第十一章 §5](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.2 — 反支配行为与补救措施目录**（有效的行为模式与补救措施）；[§11.3 整合上限](#113-整合上限)；[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 - 与以下内容一并阅读：[第III-C条：劳动与经济底线](core_06_rights_part_a.md#article-iii-c-劳动与经济底线)（劳动流动权利底线）；[第XXI条：互操作性、可携性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-宪法冲突解决程序)（[必要性](../../core_05.035_band_accountability.md#necessity)、[比例性](../../core_05.035_band_accountability.md#proportionality)、[§13.2.4 代理指标偏离导致无效](core_01_b_interaction_interpretation.md#1324-代理指标偏离导致无效)）。
 - 子节（阅读顺序）：[§11.2.1 促进竞争的义务（应做事项）](#1121-促进竞争的义务应做事项) · [§11.2.2 防止支配的禁令（不得做事项）](#1122-防止支配的禁令不得做事项) · [§11.2.3 补救措施](#1123-补救措施)。
 
@@ -1849,7 +1849,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
 - 上游：[§11.3 整合上限](#113-整合上限)；[§11.3.1 整合风险（锁定前的损害）](#1131-整合风险锁定前的损害)。
-- 下游：**CJS-3.11.3 — 整合上限设定规约（由采纳方调整）**（有效的上限设定规则）；[CJS-3.11.2 — 反支配行为与补救措施目录](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)（违反上限时的补救转介路径）；[第十一章 §5](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
+- 下游：**CJS-3.11.3 — 整合上限设定规约（由采纳方调整）**（有效的上限设定规则）；[CJS-3.11.2 — 反支配行为与补救措施目录](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)（违反上限时的补救转介路径）；[第十一章 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)。
 
 </details>
 
@@ -1976,7 +1976,7 @@ flowchart TB
 
 详细评估因素与认证记录由以下文件负责：
 - **[第八章 §3 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
-- **[第八章 §6 系统认证记录](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record)**；
+- **[第八章 §6 系统认证记录](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)**；
 - **[corpus_systems.md](../../corpus_systems.md)，CS-3 — 系统分类与处理**。
 
 第八章的程序：

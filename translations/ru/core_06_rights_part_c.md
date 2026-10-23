@@ -844,7 +844,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [§20 Комплексное применение](../../core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§5 Истина](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [§20 Комплексное применение](../../core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

@@ -1,10 +1,10 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# 第七章：职能独立与职责分离
+# 第七章： 职能独立和职责分离
 
 <details>
 <summary><strong><span style="color: #2563eb;">语料库定位（非操作性）：文件结构与阅读规则</span></strong></summary>
 
-> 本文件是 **Sentient Constitution 的一部分**，并且只有与其他编号的 `core_*` 文件作为一部文书共同阅读时，才具有约束力。本文件包含**第七章**：适用于跨流程职能独立与职责分离的底线。本章位于第六章权利底线之后，并在以[第八章系统协调认证](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)开篇的宪法程序章节之前。
+> 本文件是 **Sentient Constitution 的一部分**，并且只有与其他编号的 `core_*` 文件作为一部文书共同阅读时，才具有约束力。本文件包含**第七章**：适用于跨流程职能独立与职责分离的底线。本章位于第六章权利底线之后，并在以[第八章系统协调认证](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)开篇的宪法程序章节之前。
 >
 > - **宪法所有者：**针对实质性约束行为的不同席位底线；每份[实质性约束行为记录](../../core_05_band_accountability.md#materially-binding-act-record)的普遍最低内容；独立于行为者及其[实质控制线](../../core_05_band_accountability.md#material-control-line)；公开发布的流程与角色配置；冲突、空缺、替代及错误席位转交；合乎比例的合并承载；可归责的交接；以及每项后续宪法程序都必须适用的最低独立条件。
 > - **原则层来源：**[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)要求治理维护职能独立，并将操作性席位架构指向本章。
@@ -20,7 +20,7 @@
 
 - 上游：[宪法四元结构](../../core_00_preamble.md#constitutional-tetrad)——尤其是**监督**与**问责**；[实质利益](../../core_00_preamble.md#material-stake)；[第一章 §17.1 共同守护标准](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)；[第一章 §18 守护纪律下的治理](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[第十六条](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)（*审计、透明与独立核验*）。
 - 子节：[§1](#1-purpose-scope-and-owner-boundary)；[§2](#2-four-seat-constitutional-requirement)；[§3](#3-independence-conflict-and-control-lines)；[§4](#4-wrong-seat-routing)；[§5](#5-published-placement-vacancy-and-substitution)；[§6](#6-proportional-scaling-and-merged-hosting)；[§7](#7-emergency-and-urgent-action)；[§8](#8-act-records-and-attributable-handoffs)；[§9](#9-relationship-to-later-processes)。
-- 下游：[第八章](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)；[第九章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十二章](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第十三章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)；上文指定的实施文本。
+- 下游：[第八章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第九章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十二章](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第十三章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)；上文指定的实施文本。
 - 一并阅读：[第一章 §19.3 错位检测](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)（*多方检测与审查*）；[可归责行为](../../core_05_band_accountability.md#attributable-action)；[归责完整性](../../core_05_band_accountability.md#attribution-integrity)；[可审计性](../../core_05_band_oversight.md#auditability)；[可争议性](../../core_05_band_accountability.md#contestability)；[比例原则](../../core_05_band_accountability.md#proportionality)。
 
 </details>
@@ -66,7 +66,7 @@
 - 指定实施文本中的操作席位目录、人员配置方式与流程图机制。
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. 四席宪法底线
+### 2. 四席宪法要求
 
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
@@ -350,7 +350,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：从[§1](#1-purpose-scope-and-owner-boundary)至[§8](#8-act-records-and-attributable-handoffs)。
-- 下游：[第八章](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)；[第九章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十二章](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第十三章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)。
+- 下游：[第八章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)；[第九章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十二章](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第十三章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)。
 - 一并阅读：[权限层级与内部层级](../../core_05_band_integrative.md#owner-non-relocation)以及[序言所有者登记表](../../core_00_preamble.md#4-principles-definitions-and-rights)。
 
 </details>

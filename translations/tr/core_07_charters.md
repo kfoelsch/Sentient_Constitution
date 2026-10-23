@@ -22,8 +22,8 @@
 - Yukarı akış:
   - [Anayasal Dörtlü](../../core_00.000_preamble.md#constitutional-tetrad), özellikle **gözetim** Ve **sorumluluk**;
   - [malzeme payı](../../core_00.000_preamble.md#material-stake);
-  - [Birinci Bölüm §18.1 Yetkili Yapı Olarak Yönetişim](../../core_01.015_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.015 §18.1);
-  - [Madde XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*).
+  - [Birinci Bölüm §18.1 Yetkili Yapı Olarak Yönetişim](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.015 §18.1);
+  - [Madde XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*).
 - Alt bölümler:
   - [§1](#1-sistem-ve-kurumsal-sözleşmeler-gerekli-olduğunda);
   - [§2](#2-şekillenme-hakkı-ve-dört-dar-sınır);
@@ -34,7 +34,7 @@
   - [§7](#7-değişiklik-inceleme-ve-kapsam-uyumsuzluğu).
 - Aşağı akış:
   - [Sekizinci Bölüm](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000);
-  - [Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) (9.000);
+  - [Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000);
   - [Onuncu Bölüm](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000);
   - [On Üçüncü Bölüm](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000);
   - [On Dördüncü Bölüm](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000); yukarıda adı geçen belirlenmiş uygulama metni.
@@ -55,7 +55,7 @@ Yedinci Bölüm anayasal sahibidir **Sistem Sözleşmeleri, Kurumsal Sözleşmel
 
 - **Yedinci Bölüm (bu bölüm):** ne diyor [Yeminli Parti](../../core_05.040_band_continuity.md#chartered-party) yapmayı iddia ettiği ve harekete geçtiğinde her koltuğu kimin elinde tutabileceği.
 - **[Sekizinci Bölüm](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties):** bu koltukların nasıl ayrı tutulması gerektiğini söylüyor.
-- **[Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index):** her biri koltukları kullanan bağlayıcı bir işlem olan bir sistemi ve ayrı bir kurumu belgelendirmektedir. Bulduğunu Sistem Şartı'na veya Kurumsal Şart'a geri gönderir.
+- **[Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification):** her biri koltukları kullanan bağlayıcı bir işlem olan bir sistemi ve ayrı bir kurumu belgelendirmektedir. Bulduğunu Sistem Şartı'na veya Kurumsal Şart'a geri gönderir.
 
 Diğer bölümlerde bu bölümün işaret ettiği tanımlar, koltuk kuralları, sabit kilitler ve karar kuralları bulunmaktadır. **CI-8.205 §6** (*Sistem ve Kurumsal Tüzük içerikleri, inceleme ve oluşturma şablonu*) saha şablonunu, oluşturma prosedürünü ve inceleme kontrol listesini içerir.
 
@@ -70,17 +70,17 @@ Diğer bölümlerde bu bölümün işaret ettiği tanımlar, koltuk kuralları, 
   - [§2](#2-şekillenme-hakkı-ve-dört-dar-sınır);
   - [malzeme payı](../../core_00.000_preamble.md#material-stake);
   - [Orantılılık](../../core_05.035_band_accountability.md#proportionality); bölüm açılış sahibinin iddiası;
-  - [Birinci Bölüm §18 Yöneticilik Disiplini Altında Yönetişim](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18);
+  - [Birinci Bölüm §18 Yöneticilik Disiplini Altında Yönetişim](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18);
   - [Gözetim](../../core_05.020_apex_oversight_leg.md#oversight-constitutional);
   - [Sorumluluk](../../core_05.005_apex_accountability_leg.md#accountability).
-- Aşağı akış: [§3](#3-hangi-sistem-ve-kurumsal-şartlarda-belirtilmesi-gerekiyor); [Dokuzuncu Bölüm Kısım A §2 Sistem Sınıfı Değerlendirmesi](../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.005 §2) (*sınıf ve sertifika derinliği*); [Dokuzuncu Bölüm Kısım D §12.1 Kurum sınıfı](../../core_09.020_institutional_alignment_certification.md#121-institution-class) (9.020 §12.1) (*bir kurumun sınıfı*); **CS-9.305 (*Sistem sınıflandırma makineleri*) ve CS-9.310** (*Sistem sınıflandırma makineleri*) sınıf kataloğu için.
+- Aşağı akış: [§3](#3-hangi-sistem-ve-kurumsal-şartlarda-belirtilmesi-gerekiyor); [Dokuzuncu Bölüm Kısım A §2 Sistem Sınıfı Değerlendirmesi](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.005 §2) (*sınıf ve sertifika derinliği*); [Dokuzuncu Bölüm Kısım D §12.1 Kurum sınıfı](../../core_09.015_institutional_alignment_certification.md#121-institution-class) (9.020 §12.1) (*bir kurumun sınıfı*); **CS-9.305 (*Sistem sınıflandırma makineleri*) ve CS-9.310** (*Sistem sınıflandırma makineleri*) sınıf kataloğu için.
 - Şununla okuyun:
   - **CI-8.205 §6** (*Sistem ve Kurumsal Tüzük içerikleri, inceleme ve oluşturma şablonu*);
   - **CF-13.415 §5** (*Kurumsal ve yerel kayıt memurları*);
   - **CI-9.210** (*Sınıflandırmaya bağlı kurumsal yükümlülükler*);
   - [Beşinci Bölüm Sistem Şartı](../../core_05.040_band_continuity.md#system-charter) (5.040);
   - [Beşinci Bölüm Kurumsal Şart](../../core_05.040_band_continuity.md#institutional-charter) (5.040);
-  - [Madde XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*).
+  - [Madde XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*).
 
 </details>
 
@@ -133,7 +133,7 @@ Chartered Party sınıfı, yayınlamanın gerekli mi yoksa bir seçim mi olduğu
 
 - **A, B, C ve L Sınıfları:** gerekli. Grafik [§1.7 Bir bakışta süreç](#17-bir-bakışta-süreç) izledikleri süreci gösterir.
 - **Sınıf P:** iki olaydan biri bunu zorunlu kılana kadar bir seçim. [§1.3 P Sınıfı Nedir?](#13-p-sınıfı-nedir) Bir Operasyon Grubunu Sınıf P yapan şeyin ne olduğunu söylüyor ve [§1.4 Sınıf P: isteğe bağlı kiralamalar ve gerekli olduklarında](#14-sınıf-p-isteğe-bağlı-kiralamalar-ve-gerekli-olduklarında) seçimi ve ne zaman biteceğini belirler.
-- **Bir Kurumun Sınıfı:** Bir Kurum, işlettiği, yönettiği veya maddi olarak kontrol ettiği tüm Sistemler arasında en yüksek sınıfı alır. Böyle bir Sistemi yürütmeyen bir Kurum, kendi maddi etkisine ve bağımlılığına göre sınıflandırılır; etiketi veya yasal şekliyle değil, gerçekte karar verdiği ve elinde bulundurduğu şeyle değerlendirilir. [Dokuzuncu Bölüm Kısım D §12.1 Kurum sınıfı](../../core_09.020_institutional_alignment_certification.md#121-institution-class).
+- **Bir Kurumun Sınıfı:** Bir Kurum, işlettiği, yönettiği veya maddi olarak kontrol ettiği tüm Sistemler arasında en yüksek sınıfı alır. Böyle bir Sistemi yürütmeyen bir Kurum, kendi maddi etkisine ve bağımlılığına göre sınıflandırılır; etiketi veya yasal şekliyle değil, gerçekte karar verdiği ve elinde bulundurduğu şeyle değerlendirilir. [Dokuzuncu Bölüm Kısım D §12.1 Kurum sınıfı](../../core_09.015_institutional_alignment_certification.md#121-institution-class).
 
 <a id="13-what-class-p-is"></a>
 #### 1.3 P Sınıfı Nedir?
@@ -172,7 +172,7 @@ Kapsam dahilindeki bir Sistem veya Kurum, kendi [Sistem Şartı](../../core_05.0
 
 - **Yeni Bir Sistem veya Kurum:** yayınlanmadan veya başkaları üzerinde otorite uygulamaya başlamadan önce.
 - **Zaten çalışan bir tanesi:** bir sonraki sınıflandırma incelemesinde veya sertifikasyonunda veya aşağıdakiler kapsamındaki bir talebin ardından çözüm penceresi içinde [§1.6 Sistem Şartı veya Kurumsal Şart eksikse](#16-sistem-şartı-veya-kurumsal-şart-eksikse), hangisi önce gelirse. Bunu yapana kadar varsayılandır.
-  - **Hangi sertifika:** Bir Sistem için Sistem Hizalama Sertifikası. Bir Kurum için, kurumsal uyum sertifikası, [Dokuzuncu Bölüm Kısım D §11.3 İzin yok ve kapı yok](../../core_09.020_institutional_alignment_certification.md#113-no-permission-and-no-gate)İlk sertifikalandırma penceresi hiçbir zaman Kurumsal Tüzüğün yayınlanmasının veya faaliyet göstermenin bir koşulu değildir.
+  - **Hangi sertifika:** Bir Sistem için Sistem Hizalama Sertifikası. Bir Kurum için, kurumsal uyum sertifikası, [Dokuzuncu Bölüm Kısım D §11.3 İzin yok ve kapı yok](../../core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate)İlk sertifikalandırma penceresi hiçbir zaman Kurumsal Tüzüğün yayınlanmasının veya faaliyet göstermenin bir koşulu değildir.
 - **Formasyon kontrolü:** Aynı zamanda formasyon kontrolünü de tamamlar [§5 Formasyon Kontrolü: Ofis Sahibinin Duruşu ve Özgünlük](#5-formasyon-kontrolü-ofis-sahibinin-duruşu-ve-özgünlüğü) aynı anda.
 - **Bulunduğu yer:** Sistem Şartını veya Kurumsal Şartını, Şart Rol Haritası ve formasyon kontrol beyanıyla birlikte Kurumsal kayıt memuruna veya faaliyetinin ve etkilediği duyarlı kişilerin yerel olduğu yerel kayıt memuruna sunar (**CF-13.415 §5** (*Kurumsal ve yerel kayıt memurları*))):
   - **Kayıt memurunun yaptığı şey:** Gerekli hiçbir şeyin eksik olup olmadığını kontrol eder ve tarihli bir makbuz verir.
@@ -193,19 +193,19 @@ Sistem Şartını veya Kurumsal Şartını yayınlamamış, yeni veya yeni, L S�
 | C Sınıfı, C Seviyesi | 4 takvim günü | 30 takvim günü |
 | L Sınıfı, L Seviyesi | 8 takvim günü | 60 takvim günü |
 
-Rakamlar geliyor **CF-13.445 §3.1** (*Aşama hedefleri ve zamanlama katları*), farklı olup olmadıklarını yönetir. Kendi sınıfına itiraz eden bir Yeminli Taraf, sorun çözülene kadar, Sistem Sınıflandırma Kaydında tuttuğu sınıfın ve soruyu soran kişinin veya forumun ilk bakışta gösterdiği herhangi bir sınıfın daha kritik olanının Seviyesinde sayılır. Kayıtlı hiçbir sınıfı bulunmayan veya sınıfı söz konusuyken P Sınıfına sahip olan bir Yeminli Taraf, Seviye C olarak sayılır.
+Rakamlar geliyor **CF-13.445 §3.1** (*Aşama hedefleri ve dış sınırlar*), farklı olup olmadıklarını yönetir. Kendi sınıfına itiraz eden bir Yeminli Taraf, sorun çözülene kadar, Sistem Sınıflandırma Kaydında tuttuğu sınıfın ve soruyu soran kişinin veya forumun ilk bakışta gösterdiği herhangi bir sınıfın daha kritik olanının Seviyesinde sayılır. Kayıtlı hiçbir sınıfı bulunmayan veya sınıfı söz konusuyken P Sınıfına sahip olan bir Yeminli Taraf, Seviye C olarak sayılır.
 
 Pencereler şu şekilde çalışır:
 
-- **Yanıt penceresi:** Chartered Party, eşleşen kademenin alım hedefi olan yanıt penceresi içinde yanıt verir. **CF-13.445 §3.1** (*Aşama hedefleri ve zamanlama katları*), istekten sayılır. Sistem Şartını veya Kurumsal Şartını yayınlar veya yayınlayacağı tarihi verir veya daha önce yayınlamış olduğunu işaret eder veya her satırının altında olduğunu yanıtlar. [Alana Özel Önemlilik](../../core_05.050_band_oversight.md#domain-specific-materiality) ve girişin gerektirdiği yazılıyı verir.
-- **Çözünürlük penceresi:** Sistem Sözleşmesi veya Kurumsal Sözleşme, eşleşen katmanın dış sınırı olan çözüm penceresi içinde teslim edilecektir. **CF-13.445 §3.1** (*Aşama hedefleri ve zamanlama katları*), istekten sayılır ve onunla birlikte gelen formasyon kontrol ifadesi ([§5 Formasyon Kontrolü: Ofis Sahibinin Duruşu ve Özgünlük](#5-formasyon-kontrolü-ofis-sahibinin-duruşu-ve-özgünlüğü)). Bağımsız sandalyesi olmayan bir Sözleşmeli Taraf, bu bölümün öngördüğü gibi, beyanı kanıtlarıyla birlikte bir deklarasyon olarak sunar.
+- **Yanıt penceresi:** Chartered Party, eşleşen kademenin alım hedefi olan yanıt penceresi içinde yanıt verir. **CF-13.445 §3.1** (*Aşama hedefleri ve dış sınırlar*), istekten sayılır. Sistem Şartını veya Kurumsal Şartını yayınlar veya yayınlayacağı tarihi verir veya daha önce yayınlamış olduğunu işaret eder veya her satırının altında olduğunu yanıtlar. [Alana Özel Önemlilik](../../core_05.050_band_oversight.md#domain-specific-materiality) ve girişin gerektirdiği yazılıyı verir.
+- **Çözünürlük penceresi:** Sistem Sözleşmesi veya Kurumsal Sözleşme, eşleşen katmanın dış sınırı olan çözüm penceresi içinde teslim edilecektir. **CF-13.445 §3.1** (*Aşama hedefleri ve dış sınırlar*), istekten sayılır ve onunla birlikte gelen formasyon kontrol ifadesi ([§5 Formasyon Kontrolü: Ofis Sahibinin Duruşu ve Özgünlük](#5-formasyon-kontrolü-ofis-sahibinin-duruşu-ve-özgünlüğü)). Bağımsız sandalyesi olmayan bir Sözleşmeli Taraf, bu bölümün öngördüğü gibi, beyanı kanıtlarıyla birlikte bir deklarasyon olarak sunar.
 - **Çizginin altında olduğunu söyleyen bir Operasyon Partisi:** Bu durumda istek aynı zamanda o girişin rotasındaki bir sınıflandırma sorgulamasıdır. *Mücadele rotası*:
   - **Pencereyi çalıştırma:** Sorun beklemedeyken çözüm penceresi çalışmaya devam eder.
   - **Mücadele uzantısı:** Yargı yetkisine sahip forum, itirazın incelemeye değer olduğuna karar verirse, son tarih uzatılır ve itiraza karar verildiğinde yeni bir çözüm penceresi başlar. Forum, eşleşen kademenin dış sınırı içindeki mücadeleye karar verir.
   - **İncelemeye değer ne anlama gelir:** Bir meydan okuma, adlandırılmış bir alandaki belirli bir geçişin adını verdiğinde ve Operasyon Tarafının yazılı gösterimi bu geçişle ilgili gerçek bir soru bıraktığında incelemeye değerdir. Operasyon Partisi bunu kendisi değerlendirmez ve yazılı olarak gösterilmeyen bir yanıt, tarihi uzatmaz.
   - **Bir sınıf bulunursa:** Bu meydan okumada veya başka herhangi bir durumda, bulgunun tarihi, talebin tarihi olarak sayılır: yanıt penceresi ve çözüm penceresi, bulunan sınıfın Seviyesinde (Sınıf A, B, C veya L) buradan çalıştırılır.
 - **Eğer kaçırılırsa:** Yanıt verilmemesi veya son tarihe kadar Sistem Sözleşmesinin veya Kurumsal Sözleşmenin yapılmaması, günlüğe kaydedilmesi ve düzeltilmesi gereken bir kusurdur. Soruyu soran kişi bunu aynı yol üzerindeki yargı yetkisine sahip foruma götürebilir. Bu asla bir oluşum veya faaliyet koşulu değildir.
-- **Tekrarlanan bir istek:** Aynı Sözleşmeli Taraf hakkında daha önceki yanıtı veya buna ilişkin bir bulgu hala geçerliyken yapılan ikinci bir talep, yeni bir yanıt veya çözüm penceresi başlatmaz. Chartered Party bu cevaba veya bulguya işaret ederek cevap verir. Henüz forum tarafından incelenmemiş, her satırın altında olduğunu göstermesi geçerli bir yanıt olarak sayılmaz. Yeniden açılma tetiklendiğinden, yanıt veya bulgu bunlardan biri gerçekleşene kadar geçerli kalır. [Dokuzuncu Bölüm Kısım D §14.2 Tetikleyicilerin yeniden açılması](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers) betimlemek:
+- **Tekrarlanan bir istek:** Aynı Sözleşmeli Taraf hakkında daha önceki yanıtı veya buna ilişkin bir bulgu hala geçerliyken yapılan ikinci bir talep, yeni bir yanıt veya çözüm penceresi başlatmaz. Chartered Party bu cevaba veya bulguya işaret ederek cevap verir. Henüz forum tarafından incelenmemiş, her satırın altında olduğunu göstermesi geçerli bir yanıt olarak sayılmaz. Yeniden açılma tetiklendiğinden, yanıt veya bulgu bunlardan biri gerçekleşene kadar geçerli kalır. [Dokuzuncu Bölüm Kısım D §14.2 Tetikleyicilerin yeniden açılması](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers) betimlemek:
   - **Maddi bir değişiklik:** Chartered Party'nin faaliyetleri önemli ölçüde değişiyor.
   - **Yeni kanıtlar:** Bir geçişle ilgili yeni kanıtlar gösteriliyor.
 
@@ -283,7 +283,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı akış: [§1](#1-sistem-ve-kurumsal-sözleşmeler-gerekli-olduğunda); [Madde XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*).
+- Yukarı akış: [§1](#1-sistem-ve-kurumsal-sözleşmeler-gerekli-olduğunda); [Madde XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*).
 - Aşağı akış: [§1 Sistem ve Kurumsal Sözleşmeler Gerekli Olduğunda](#1-sistem-ve-kurumsal-sözleşmeler-gerekli-olduğunda); [§5 Formasyon Kontrolü: Ofis Sahibinin Duruşu ve Özgünlük](#5-formasyon-kontrolü-ofis-sahibinin-duruşu-ve-özgünlüğü).
 - Şununla okuyun:
   - [Geçici Bekletme](../../core_05.035_band_accountability.md#interim-hold);
@@ -308,11 +308,11 @@ flowchart TB
 <a id="21-the-right-to-form"></a>
 #### 2.1 Oluşturma hakkı
 
-Herkes yeni bir sistem, kurum veya iş kurabilir. Bu hak, [Madde XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*). Bu bölüm bir sonraki görevi ekler. Bir Operasyon Grubunun yaptığı, dokuz alanın herhangi birinde başkaları için önemli olduğunda [Alana Özel Önemlilik](../../core_05.050_band_oversight.md#domain-specific-materiality), yapma yetkisine sahip olduğunu iddia ettiği şeyi önceden kamuoyuna açıklamalıdır ([§1 Sistem ve Kurumsal Sözleşmeler Gerekli Olduğunda](#1-sistem-ve-kurumsal-sözleşmeler-gerekli-olduğunda)). Bir Sistem Şartının veya Kurumsal Şartın benimsenmesi, bu hakkı veya herhangi bir Hak Tabanı korumasını daraltacak şekilde okunmamalıdır.
+Herkes yeni bir sistem, kurum veya iş kurabilir. Bu hak, [Madde XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*). Bu bölüm bir sonraki görevi ekler. Bir Operasyon Grubunun yaptığı, dokuz alanın herhangi birinde başkaları için önemli olduğunda [Alana Özel Önemlilik](../../core_05.050_band_oversight.md#domain-specific-materiality), yapma yetkisine sahip olduğunu iddia ettiği şeyi önceden kamuoyuna açıklamalıdır ([§1 Sistem ve Kurumsal Sözleşmeler Gerekli Olduğunda](#1-sistem-ve-kurumsal-sözleşmeler-gerekli-olduğunda)). Bir Sistem Şartının veya Kurumsal Şartın benimsenmesi, bu hakkı veya herhangi bir Hak Tabanı korumasını daraltacak şekilde okunmamalıdır.
 
 **Formasyon hakkı kimleri kapsamaz.** Üç kapıdan başka [§2.2 İlk sınır: duyarlı bir kişi üzerinde olağanüstü bir kilitlenme](#22-ilk-limit-duyarlı-bir-kişi-üzerinde-olağanüstü-bir-kilitlenme), [§2.3 İkinci sınır: belirli doğrulanmış gerçekler üzerinde kısa bir süre bekleme](#23-ikinci-sınır-belirli-doğrulanmış-gerçeklere-kısa-bir-süre-ara-vermek), Ve [§2.4 Üçüncü sınır: Operasyon Tarafının kendisine yönelik bir kilit](#24-üçüncü-sınır-operasyon-tarafının-kendisine-yönelik-bir-kilitlenme), **Madde XI-E** (*Kurumsal Oluşum ve İş Yaratımı*) korumaz:
 
-- Anayasal Kısıtlamayı kırmak, Güvenliği veya Gerçeği baltalamak veya gücü belirli şekillerde yoğunlaştırmak için tasarlanmış bir Operasyon Partisi [Birinci Bölüm §11 Piyasa Yapısı](../../core_01.005_values_principles.md#11-market-structure) dışlıyor; veya
+- Anayasal Kısıtlamayı kırmak, Güvenliği veya Gerçeği baltalamak veya gücü belirli şekillerde yoğunlaştırmak için tasarlanmış bir Operasyon Partisi [Birinci Bölüm §11 Piyasa Yapısı](../../core_01.000_values_principles.md#11-market-structure) dışlıyor; veya
 - Doğrulanmış davranış, kontrol ve ödüllerle gösterilen, belirtilen amacına gerçek anlamda uymayan veya amacı, kontrolü veya çıkarları konusunda başkalarını yanıltmak veya başkalarına zarar vermek isteyen bir kurucu tarafından oluşturulan veya yönetilen bir Operasyon Grubu.
 
 Forumlar bu davaları bu Madde uyarınca karara bağlar ve bunun tek sonucu, içindeki üç kapıdır: olağanüstü kilit kapısı, Geçici Durdurma ve Operasyon Grubunun kendisine kilitlenmesi. Başarısız bir diziliş kontrolü, forumun önemsediği kanıtlardan biridir; bu, diziliş kontrolünün tek başına davaya karar vermeyeceği anlamına gelir.
@@ -374,7 +374,7 @@ Dördüncü sınır, bir Faaliyet Grubu oluşturmaya değil, adlandırılmış b
 - Aşağı akış:
   - [§4](#4-şartın-rol-haritası-ve-daimi-kayıtlı-saklama);
   - [§7](#7-değişiklik-inceleme-ve-kapsam-uyumsuzluğu);
-  - [Dokuzuncu Bölüm Kısım B §8.1 Minimum kayıt içerikleri](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.010 §8.1) (*Sistem Şartı, bir sertifikasyon kaydının dayandığı alanları içerir*);
+  - [Dokuzuncu Bölüm Kısım B §8.1 Minimum kayıt içerikleri](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.010 §8.1) (*Sistem Şartı, bir sertifikasyon kaydının dayandığı alanları içerir*);
   - **CI-8.205 §6** (*Sistem ve Kurumsal Tüzük içerikleri, inceleme ve oluşturma şablonu*) tam alan listesi için.
 - Şununla okuyun:
   - [Onsekizinci Bölüm §4 Evlat edinme çerçevesi ve yetki kapsamı](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*başka bir isim altında tutulan kapsam belgesi*);
@@ -470,10 +470,10 @@ Sistem Şartının veya Kurumsal Şartın bazı bölümleri sınıfla birlikte, 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı akış: [§3](#3-hangi-sistem-ve-kurumsal-şartlarda-belirtilmesi-gerekiyor); [Sekizinci Bölüm §2 Dört Koltuklu Anayasa Katı](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
+- Yukarı akış: [§3](#3-hangi-sistem-ve-kurumsal-şartlarda-belirtilmesi-gerekiyor); [SEKİZİNCİ BÖLÜM §2 Dört Koltuklu Anayasal Gereksinim](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - Aşağı akış:
   - [Sekizinci Bölüm §5 Yayınlanmış Yerleştirme, Boş Pozisyon ve Oyuncu Değiştirme](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
-  - [Dokuzuncu Bölüm Kısım B §6.1.1 Sertifikasyonda dört koltuk](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
+  - [Dokuzuncu Bölüm Kısım B §6.1.1 Sertifikasyonda dört koltuk](../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
   - [Onuncu Bölüm §3.7 Kayıt saklama ve açma yetkisi](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
   - **CI-8.205 §2** (*Fonksiyonel ayırma şeritleri*);
   - **CI-14.205 §5** (*Yetkili roller ve sorumluluk zincirleri*);
@@ -500,7 +500,7 @@ Her Sistem Şartı veya Kurumsal Şart, bir [Charter Rol Haritası](../../core_0
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 Koltuklar nedir ve neden varlar
 
-Her [Maddi Bağlayıcı Kanun](../../core_05.035_band_accountability.md#materially-binding-act) dört işi var ve [Sekizinci Bölüm §2 Dört Koltuklu Anayasa Katı](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) onları ayrı tutar:
+Her [Maddi Bağlayıcı Kanun](../../core_05.035_band_accountability.md#materially-binding-act) dört işi var ve [SEKİZİNCİ BÖLÜM §2 Dört Koltuklu Anayasal Gereksinim](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) onları ayrı tutar:
 
 - **[Koltuk Başlatılıyor](../../core_05.035_band_accountability.md#initiating-seat):** eylemi talep ederek, teklif ederek, yürüterek veya talep ederek başlatır.
 - **[Koltuğu Doğrula veya Yetkilendir](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** kanıtları ve otoriteyi kontrol eder, ardından eylemi doğrular, yetkilendirir, koşullandırır veya reddeder.
@@ -658,24 +658,24 @@ Aynı saat sertifikasyon koltukları için de geçerlidir. Harita, sistem uyum s
   - [§1.5](#15-sistem-şartının-veya-kurumsal-şartın-vadesi-geldiğinde);
   - [§3](#3-hangi-sistem-ve-kurumsal-şartlarda-belirtilmesi-gerekiyor);
   - [§4](#4-şartın-rol-haritası-ve-daimi-kayıtlı-saklama);
-  - [Madde XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*);
+  - [Madde XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*);
   - [Hangi Sistemler Ödüllendiriliyor](../../core_00.000_preamble.md#what-systems-reward) ve
   - [İki Temel Soru](../../core_00.000_preamble.md#two-fundamental-questions);
-  - [Birinci Bölüm §19.1.4 Rol Derinliği ve Maddi Sorumluluk Yolları](../../core_01.015_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4);
-  - [Birinci Bölüm §19.4 Yanlış Hizalamanın Düzeltilmesi ve Yakalama Yanıtı](../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4);
+  - [Birinci Bölüm §19.1.4 Rol Derinliği ve Maddi Sorumluluk Yolları](../../core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4);
+  - [Birinci Bölüm §19.4 Yanlış Hizalamanın Düzeltilmesi ve Yakalama Yanıtı](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4);
   - [On Birinci Bölüm §4.2 Önleme - genel ayakta kilitler](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2),
   - [§5.5 Özel kilitler](../../core_11.000_standing_integration.md#55-special-locks), Ve
   - [§6.2 Yeterlilik çubukları ve izinler](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances).
 - Aşağı akış:
   - [§6 Bir Sahibi Formasyon Kontrolünde Başarısız Olduğunda](#6-bir-tutucu-formasyon-kontrolünde-başarısız-olduğunda);
-  - [Dokuzuncu Bölüm Kısım D §12.2 Kurumsal değerlendirme, her zaman](../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.020 §12.2) (madde 7, *forumlar beyanı test ediyor*);
-  - [Dokuzuncu Bölüm Kısım A §3.3 Yönetişim, Teşvik ve İtiraz Edilebilirlik Disiplini](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline) (9.005 §3.3);
+  - [Dokuzuncu Bölüm Kısım D §12.2 Kurumsal değerlendirme, her zaman](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.020 §12.2) (madde 7, *forumlar beyanı test ediyor*);
+  - [Dokuzuncu Bölüm Kısım A §3.3 Yönetişim, Teşvik ve İtiraz Edilebilirlik Disiplini](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline) (9.005 §3.3);
   - **CI-8.205 §6** (*Sistem ve Kurumsal Tüzük içerikleri, inceleme ve oluşturma şablonu*) bildirim şablonu için.
 - Şununla okuyun:
   - [Malzeme Kontrol Hattı](../../core_05.035_band_accountability.md#material-control-line);
   - [Daimi Kayıt](../../core_05.035_band_accountability.md#standing-record);
   - [Korumalı Raporlama (İhbar)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing);
-  - [Birinci Bölüm §17.5 Direnme Görevi](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5);
+  - [Birinci Bölüm §17.5 Direnme Görevi](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5);
   - **CI-14.205 §2** (*Rol kriterleri, atama standartları ve görevden alınma yolları*);
   - **CI-8.210** (*Çatışma bütünlüğü, yakalama ve yolsuzlukla mücadele*).
 
@@ -685,7 +685,7 @@ Aynı saat sertifikasyon koltukları için de geçerlidir. Harita, sistem uyum s
 
 *Basit bir ifadeyle: Bir Chartered Party başkaları üzerinde otorite uygulamadan önce, onun kilit ofislerini elinde bulunduran duyarlı kişiler iki kez kontrol edilir. Rol için yayınlanmış standartları karşılıyorlar mı ve hiçbir engel yok mu? Ve bu görevi bir paravan veya aday olarak değil, kendi başlarına ve Chartered Party'nin belirtilen amacı doğrultusunda mı tutuyorlar? Cevap, onları kimin yönettiğinden, onlara ne için ödeme yapıldığından ve doğrulanabilir şekilde söylediklerinden ve yaptıklarından gelir; asla neye inandıklarından değil. Bu bir formasyon kontrolüdür, lisans değil.*
 
-Bu bölüm **formasyon kontrolü**. Belirtilen üç kapıyı uygular. [§2 Oluşturma Hakkı ve Dört Dar Sınır](#2-şekillenme-hakkı-ve-dört-dar-sınır): Adlandırılmış bir duyarlıya bağlanan ikisi kapalı ofisler için geçerlidir ve üçüncüsü, kendisi de kilit altında olan bir Yeminli Taraf için geçerlidir. [Madde XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*) onun tarafından daraltılmaz. L Sınıfı veya daha yüksek bir Yeminli Taraf için geçerlidir ([§1 Sistem ve Kurumsal Sözleşmeler Gerekli Olduğunda](#1-sistem-ve-kurumsal-sözleşmeler-gerekli-olduğunda)).
+Bu bölüm **formasyon kontrolü**. Belirtilen üç kapıyı uygular. [§2 Oluşturma Hakkı ve Dört Dar Sınır](#2-şekillenme-hakkı-ve-dört-dar-sınır): Adlandırılmış bir duyarlıya bağlanan ikisi kapalı ofisler için geçerlidir ve üçüncüsü, kendisi de kilit altında olan bir Yeminli Taraf için geçerlidir. [Madde XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*) onun tarafından daraltılmaz. L Sınıfı veya daha yüksek bir Yeminli Taraf için geçerlidir ([§1 Sistem ve Kurumsal Sözleşmeler Gerekli Olduğunda](#1-sistem-ve-kurumsal-sözleşmeler-gerekli-olduğunda)).
 
 <a id="51-what-is-covered"></a>
 #### 5.1 Neleri kapsıyor
@@ -714,16 +714,16 @@ Yalnızca doğrulanmış kalıcı kayıtlar sayılır ve yalnızca [Ayakta Doğr
 <a id="53-authenticity-check"></a>
 #### 5.3 Orijinallik kontrolü
 
-Kapalı bir ofis var **otantik** sahibi bunu kendi başına elinde tuttuğunda ve Sistem Şartında veya Kurumsal Şartta belirtilen amaç doğrultusunda ve bu belgede belirtilmeyen bir amaç için paravan, aday veya vekil olarak bulunmadığında. Chartered Party bunu dört şeye ilişkin kanıtlardan buluyor. Bir forum daha sonra aynı dördü test eder ([Dokuzuncu Bölüm Kısım D §12.2 Kurumsal değerlendirme, her zaman](../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always), madde 7).
+Kapalı bir ofis var **otantik** sahibi bunu kendi başına elinde tuttuğunda ve Sistem Şartında veya Kurumsal Şartta belirtilen amaç doğrultusunda ve bu belgede belirtilmeyen bir amaç için paravan, aday veya vekil olarak bulunmadığında. Chartered Party bunu dört şeye ilişkin kanıtlardan buluyor. Bir forum daha sonra aynı dördü test eder ([Dokuzuncu Bölüm Kısım D §12.2 Kurumsal değerlendirme, her zaman](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always), madde 7).
 
-- **Kontrol:** Yayınlanan otoritenin içinde veya dışında, sahibine talimat verebilecek, fon sağlayabilecek, değiştirebilecek veya ödüllendirebilecek kişi. Adı açıklanmayan bir tarafın talimatıyla hareket eden veya koltuğu bir başkası adına tutulan bir hak sahibi gerçek değildir. Yararlı kontrolün şeffaf olmayan yolları sistem yakalamadır ([Birinci Bölüm §19.4 Yanlış Hizalamanın Düzeltilmesi ve Yakalama Yanıtı](../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
+- **Kontrol:** Yayınlanan otoritenin içinde veya dışında, sahibine talimat verebilecek, fon sağlayabilecek, değiştirebilecek veya ödüllendirebilecek kişi. Adı açıklanmayan bir tarafın talimatıyla hareket eden veya koltuğu bir başkası adına tutulan bir hak sahibi gerçek değildir. Yararlı kontrolün şeffaf olmayan yolları sistem yakalamadır ([Birinci Bölüm §19.4 Yanlış Hizalamanın Düzeltilmesi ve Yakalama Yanıtı](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
 - **İlgi alanları ve ödüller:** sahibinin makamdan ne kazandığı ve bunun nasıl ödendiği.
   - Hamilin maaşı, öz sermayesi, hedefleri ve diğer ödülleri önemlilik düzeyine göre açıklanır ve [İki Temel Soru](../../core_00.000_preamble.md#two-fundamental-questions): Yapı belirtilen amacı mı ödüllendiriyor yoksa belirtilen sınırları aşmayı, sorunları gizlemeyi veya maliyetleri başkalarına yüklemeyi mi ödüllendiriyor?
   - Chartered Party'nin yayınlanmış limitlerinin yasakladığı şekilde ödüllendirilen bir hak sahibi, ödül değiştirilene kadar belirtilen amaç doğrultusunda görevi yerine getiremez.
 - **Yönetmek:** Doğrulanmış bir gizleme kaydı, muhabirlere karşı misilleme veya aynı türden çeki boşa çıkarma dahil olmak üzere, hamilin aynı işlevde doğrulanabilir bir şekilde yaptığı şeyler ve hamilin aşağıda doğrulanabilir bir şekilde söylediği şeyler de dahil olmak üzere, [§5.5 Hak sahibinin söyledikleri](#55-sahibinin-söyledikleri).
   - Sicili olmayan bir sahibinin sicili kötü değildir ve ilk kez kurucu olan bir kişi, geçmişinin olmaması nedeniyle orijinallik kontrolünden geçemez.
   - Sicili olmayan bir sahibinin bakılacak bir geçmişi yoktur, bu nedenle formasyon kontrolü onun şu anda ne taahhüt ettiğine ve ne yaptığına bakar. Chartered Party'nin ne yapmayacağı konusunda belirlediği sınırlamaları yazılı olarak kabul ederler. Bağımsız bir tarafın denetimini kabul ederler. Kendileriyle ilgili bir bulguya karşı çıktıklarında ise ona karşı çıkma yolunu kullanırlar.
-- **Korumalı ses:** sahibinin yasa dışı veya anayasaya aykırı bir talimatı reddetmek için bir çalışma yolu vardır ([Birinci Bölüm §17.5 Direnme Görevi](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) ve anayasal uyumsuzluk, maddi zarar, güvenlik veya hakikat başarısızlığı, yolsuzluk, yakalama, suiistimal, misilleme veya gerekli incelemenin engellenmesine ilişkin makul şüpheleri korumalı bir şekilde bildirmek ([Korumalı Raporlama (İhbar)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)). Chartered Party, sahibini her iki rotayı da iyi niyetle kullandığı için cezalandıramaz.
+- **Korumalı ses:** sahibinin yasa dışı veya anayasaya aykırı bir talimatı reddetmek için bir çalışma yolu vardır ([Birinci Bölüm §17.5 Direnme Görevi](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) ve anayasal uyumsuzluk, maddi zarar, güvenlik veya hakikat başarısızlığı, yolsuzluk, yakalama, suiistimal, misilleme veya gerekli incelemenin engellenmesine ilişkin makul şüpheleri korumalı bir şekilde bildirmek ([Korumalı Raporlama (İhbar)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)). Chartered Party, sahibini her iki rotayı da iyi niyetle kullandığı için cezalandıramaz.
 
 <a id="54-what-the-formation-check-may-use-as-evidence"></a>
 #### 5.4 Formasyon kontrolünün kanıt olarak kullanabileceği şeyler
@@ -731,30 +731,30 @@ Kapalı bir ofis var **otantik** sahibi bunu kendi başına elinde tuttuğunda v
 Formasyon kontrolü hiçbir zaman duyarlı bir kişinin Sözleşmeli Parti hakkında neye inandığını, değer verdiğini veya hissettiğini sormaz, bir inancın doğru mu yoksa samimi mi olduğuna asla karar vermez ve öğrenecek yeni bir konuşma toplamaz. Amaç uyumu, sahibini kimin yönlendirdiğine, ona ne için ödeme yapıldığına, sahibinin ne yaptığına ve sahibinin başkaları hakkında ne söylediğine veya planladığına göre gösterilir. Üç kural bunu doğru tutar:
 
 - **Tutmak yeterli değil:** Bir inanca sahip olmak ya da bunu açıkça ifade etmek ya da bir inanca, partiye ya da gruba ait olmak tek başına o inanca sahip olanın lehine ya da aleyhine sayılmaz. Sahibinin kendi kimliği, korunan bir özelliği veya engelliliği de geçerli değildir. Bir coşku beyanı veya sadakat yemini asla sahibinin lehine gösterilmez.
-- **Etiketler kalkan değildir:** Başkalarının zarar görmeyi veya ayrımcı muameleyi hak ettiğini belirten doğrulanmış bir beyan, çağrı, plan veya eylem [Madde VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Ayrımcılık yasağı*), adı ne olursa olsun, sahibine karşı sayılır. İster zarar verme, ister yasak ayrımcılık olsun, dini, siyasi veya ideolojik bir etiketin buna katkıda bulunmaması veya onu mazur görmemesi kuralı, Anayasa tarafından belirlenir. [Birinci Bölüm §7.5 İfade ve Zarar Hattı](../../core_01.005_values_principles.md#75-expression-and-the-harm-line). Onu haklı çıkarmak için sunulan doktrine göre değil, belirttiği, talep ettiği veya yaptığı şeye göre değerlendirilir.
+- **Etiketler kalkan değildir:** Başkalarının zarar görmeyi veya ayrımcı muameleyi hak ettiğini belirten doğrulanmış bir beyan, çağrı, plan veya eylem [Madde VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Ayrımcılık yasağı*), adı ne olursa olsun, sahibine karşı sayılır. İster zarar verme, ister yasak ayrımcılık olsun, dini, siyasi veya ideolojik bir etiketin buna katkıda bulunmaması veya onu mazur görmemesi kuralı, Anayasa tarafından belirlenir. [Birinci Bölüm §7.5 İfade ve Zarar Hattı](../../core_01.000_values_principles.md#75-expression-and-the-harm-line). Onu haklı çıkarmak için sunulan doktrine göre değil, belirttiği, talep ettiği veya yaptığı şeye göre değerlendirilir.
 - **Kontrol üyelik değildir:** Bir gruba ait olmak delil değildir. Sahibini kimin eğitebileceği, finanse edebileceği, değiştirebileceği veya ödüllendirebileceği, bu yasa uyarınca kanıt niteliğindedir. *Kontrol* Yukarıdaki kısım, ne tür bir grup olursa olsun.
 
 Bu bölümün ne yapacağına ve karar vermeyeceğine:
 
-- Bu bölüm, aşağıdaki prensip uyarınca formasyon kontrolünün yalnızca hangi kanıtları kullanabileceğine karar verir: [Birinci Bölüm §7.5 İfade ve Zarar Hattı](../../core_01.005_values_principles.md#75-expression-and-the-harm-line).
-- Yasak olan şey şu şekilde belirlenir: [Madde VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Ayrımcılık yasağı*) Ve **Madde XI-F** (*Dernekte Yasama ve Rıza*):
+- Bu bölüm, aşağıdaki prensip uyarınca formasyon kontrolünün yalnızca hangi kanıtları kullanabileceğine karar verir: [Birinci Bölüm §7.5 İfade ve Zarar Hattı](../../core_01.000_values_principles.md#75-expression-and-the-harm-line).
+- Yasak olan şey şu şekilde belirlenir: [Madde VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Ayrımcılık yasağı*) Ve **Madde XI-F** (*Dernekte Yasama ve Rıza*):
   - Burada da hiçbir şey genişlemez veya daralmaz.
   - Gönüllü bir topluluğun kendi üyeleri için belirlediği kurallar ve üyelerinin kabul ettiği şartlara göre uygulamalar bu kurallara tabidir.
 
 <a id="55-what-a-holder-has-said"></a>
 #### 5.5 Sahibinin söyledikleri
 
-Beyanın bir türü davranıştır ve sahibine karşı sayılır: başkalarının zarar vermeyi hak ettiğine dair doğrulanmış bir beyan, çağrı veya plan ya da Sözleşme kapsamında yasaklanan ayrımcı muamele. [Madde VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Ayrımcılık yasağı*) veya sahibinin her ikisine de sebep olacağı.
+Beyanın bir türü davranıştır ve sahibine karşı sayılır: başkalarının zarar vermeyi hak ettiğine dair doğrulanmış bir beyan, çağrı veya plan ya da Sözleşme kapsamında yasaklanan ayrımcı muamele. [Madde VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Ayrımcılık yasağı*) veya sahibinin her ikisine de sebep olacağı.
 
 - **Ağırlık:**
   - Bu, Sözleşmeli Tarafın veya ofisin etkilediği kişilere zarar verme niyetinin ve adil muamelede uyumsuzluğun kanıtıdır.
   - Sahibinin ofisinin veya Chartered Party'nin diğerleri üzerinde güç vermesi durumunda daha ağır olur.
   - Tek başına bir beyan hiçbir zaman bir gerekçeyi karşılamaz. [Geçici Bekletme](../../core_05.035_band_accountability.md#interim-hold): Elde tutmanın ayrıca davranış, kontrol veya ödülle ilgili bağımsız olarak doğrulanmış gerçeklere ihtiyacı vardır.
-  - Konuşmanın zeminin bir parçası olduğu durumlarda, bu açık, doğrulanmış kanıtlarla gösterilir, açık şüphe, ambargoya karşı sayılır ve en yüksek incelemeyle sağlanır. [**Madde XI-B** (*İfade*)](../../core_06.010_rights_part_b.md#article-xi-b-expression) söylenenlere göre limitler uygulanır ve uygulanıyor olarak kaydedilir.
-- **Neler sayılmaz:** Bir grubun, fikrin veya kurumun yanlış olduğu görüşü, sert eleştiri, yasal muhalefet, hiciv, alıntı, habercilik ve bilimsel çalışmalar sayılmaz, çünkü bunların hiçbiri başkalarına zarar verme veya ayrımcı muamelede bulunmayı belirtmez veya çağırmaz. Suç veya anlaşmazlık tek başına zarar değildir ([**Madde XI-G** (*Toplu Zarar Sınırı ve Yaptırım Arayüzü*)](../../core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
+  - Konuşmanın zeminin bir parçası olduğu durumlarda, bu açık, doğrulanmış kanıtlarla gösterilir, açık şüphe, ambargoya karşı sayılır ve en yüksek incelemeyle sağlanır. [**Madde XI-B** (*İfade*)](../../core_06.005_rights_part_b.md#article-xi-b-expression) söylenenlere göre limitler uygulanır ve uygulanıyor olarak kaydedilir.
+- **Neler sayılmaz:** Bir grubun, fikrin veya kurumun yanlış olduğu görüşü, sert eleştiri, yasal muhalefet, hiciv, alıntı, habercilik ve bilimsel çalışmalar sayılmaz, çünkü bunların hiçbiri başkalarına zarar verme veya ayrımcı muamelede bulunmayı belirtmez veya çağırmaz. Suç veya anlaşmazlık tek başına zarar değildir ([**Madde XI-G** (*Toplu Zarar Sınırı ve Yaptırım Arayüzü*)](../../core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
 - **Nasıl bulunur:** İfadenin doğrulanması ve bağlam içinde okunması gerekir. Halihazırda kamuya açık olanlardan, Chartered Party'de veya ofisinde veya ofisi hakkında söylenenlerden veya korumalı bir rapordan geliyor. Hiçbir Yeminli Taraf, bir kurucunun veya sahibinin özel konuşmasını veya derneklerini arayarak bunları gözetleyemez.
 - **Cevap ve çözüm:** Sahibi cevap verebilir, bağlamı gösterebilir ve ifadenin artık geçerli olmadığını eylemle gösterebilir. Çıplak bir geri çekilme onu silmez.
-- **Konuşma cezası değildir:** Bir ifadenin delil olarak kullanılması ifadeye sınır değildir ([Birinci Bölüm §7.5 İfade ve Zarar Hattı](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)) ve ifade, aşağıdaki koşullar altında konuşma olarak korunmaya devam eder: [**Madde XI-B** (*İfade*)](../../core_06.010_rights_part_b.md#article-xi-b-expression). Bunun tek etkisi, ilgilendikleri kişiler üzerinde kimin otoriteye sahip olduğudur.
+- **Konuşma cezası değildir:** Bir ifadenin delil olarak kullanılması ifadeye sınır değildir ([Birinci Bölüm §7.5 İfade ve Zarar Hattı](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)) ve ifade, aşağıdaki koşullar altında konuşma olarak korunmaya devam eder: [**Madde XI-B** (*İfade*)](../../core_06.005_rights_part_b.md#article-xi-b-expression). Bunun tek etkisi, ilgilendikleri kişiler üzerinde kimin otoriteye sahip olduğudur.
 
 <a id="56-staff-safeguards-check"></a>
 #### 5.6 Personel koruma kontrolü
@@ -763,7 +763,7 @@ Sözleşmeli Taraf, kapalı bir ofisi olmayan personel için aşağıdaki beyand
 
 - Atama, ödeme, terfi ve görevden alma kuralları, Chartered Party'nin belirtilen amacına aykırı çalışmayı ödüllendirmez;
 - Korunan bir raporlama yolu mevcuttur ve bunu kullanan veya yasa dışı ya da anayasaya aykırı bir talimatı reddeden hiçbir personel cezalandırılmamıştır; Ve
-- Haklar [Madde III-C](../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Emek ve Ekonomik Kat*) sağlamdır.
+- Haklar [Madde III-C](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Emek ve Ekonomik Kat*) sağlamdır.
 
 Bu Chartered Party'nin yapısını kontrol eder. Bireysel personel taranmamaktadır.
 
@@ -786,7 +786,7 @@ Bir isimlendirmenin kendisini tehlikeye atacağı durumlarda, sahibi ofise ve ta
   - Chartered Party'nin küçük olduğu ve henüz bağımsız bir sandalyenin mevcut olmadığı durumlarda, beyan, kanıtlarıyla birlikte bir beyandır ve Chartered Party'nin ilk sertifikasyonu ile doğrulanır.
   - Bu aralık için doğrulanmamış olmak, hiçbir zaman oluşumun veya faaliyetin önünde bir engel değildir.
 - **Yanlış beyan:**
-  - Yanlış olan veya kapalı bir ofisi kimin kontrol ettiğini gizleyen bir beyan, belgelendirme kaydı ve daimi köprü için gizleme ve hileli delildir ([Dokuzuncu Bölüm Kısım D §15 Daimi Köprü ve Kaçınma Önleme](../../core_09.020_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Dokuzuncu Bölüm B Kısmı §10 Mevkiyle İlişki](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)).
+  - Yanlış olan veya kapalı bir ofisi kimin kontrol ettiğini gizleyen bir beyan, belgelendirme kaydı ve daimi köprü için gizleme ve hileli delildir ([Dokuzuncu Bölüm Kısım D §15 Daimi Köprü ve Kaçınma Önleme](../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion); [Dokuzuncu Bölüm B Kısmı §10 Mevkiyle İlişki](../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)).
   - Bilinçli bir kişinin beyanı bilerek yapması, imzalaması veya yapılmasına sebep olması ve sahteliğin maddi ve doğrulanması, aynı zamanda Kurumsal Otoritenin o duyarlıya kilitlenmesine de zemin teşkil eder ([On Birinci Bölüm §5.5 Özel kilitler](../../core_11.000_standing_integration.md#55-special-locks)), kontrolü gizleyip gizlemediğine bakılmaksızın. Kilit, Sözleşmeli Tarafa veya bunu yapmayan bir sahibine değil, beyanda bulunan veya beyanda bulunmasına neden olan duyarlı kişiye bağlanır.
   - Duyarlı kişinin bilgisi dışında yanlış olan bir ifade bu temel değildir. Altında düzeltilmesi gereken bir kusurdur [§6 Bir Sahibi Formasyon Kontrolünde Başarısız Olduğunda](#6-bir-tutucu-formasyon-kontrolünde-başarısız-olduğunda).
 
@@ -814,7 +814,7 @@ Başarısız veya geç formasyon kontrolünün ardından neler gelecek? [§6 Bir
 
 Formasyon kontrolü koruduğu oranda tutulur:
 
-- Chartered Party yalnızca üç çekten her birinin ihtiyaç duyduğu kadarını toplar. Kurucuların misilleme yapılması, gözetlenmesi veya hedef alınması bu kurallara aykırıdır. [Madde XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*).
+- Chartered Party yalnızca üç çekten her birinin ihtiyaç duyduğu kadarını toplar. Kurucuların misilleme yapılması, gözetlenmesi veya hedef alınması bu kurallara aykırıdır. [Madde XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*).
 - Formasyon kontrolü sınıfa göre ölçeklenir ve [malzeme payı](../../core_00.000_preamble.md#material-stake). L Sınıfında bu, kapsam dahilindeki birkaç ofis için kısa bir açıklamadır ve tek kurucu için çıkarların ve her türlü dış kontrolün açıklanmasına indirgenir. Bundan daha fazlası [Önlenebilir Yük](../../core_05.040_band_continuity.md#avoidable-burden).
 
 <a id="6-when-a-holder-fails-the-formation-check"></a>
@@ -841,10 +841,10 @@ Formasyon kontrolü koruduğu oranda tutulur:
   - [§5](#5-formasyon-kontrolü-ofis-sahibinin-duruşu-ve-özgünlüğü);
   - [§2](#2-şekillenme-hakkı-ve-dört-dar-sınır);
   - [§1.6](#16-sistem-şartı-veya-kurumsal-şart-eksikse);
-  - [Madde XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*);
+  - [Madde XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*);
   - [On Üçüncü Bölüm §5 Adlandırılmış bir duyarlı kişinin yolunun geçici olarak durdurulması](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
 - Aşağı akış:
-  - [Dokuzuncu Bölüm Kısım D §13.5 Bir Kurum için iyileştirme hazırlığı, reddi ve iptali](../../core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.020 §13.5);
+  - [Dokuzuncu Bölüm Kısım D §13.5 Bir Kurum için iyileştirme hazırlığı, reddi ve iptali](../../core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.020 §13.5);
   - [Sekizinci Bölüm §3 Bağımsızlık, Çatışma ve Kontrol Hatları](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
   - **CI-11.210** (*Kurumsal başarısızlık ve çözülme*);
   - **CI-11.215** (*Kurumsal sorumluluk ve yaptırımlar*);
@@ -877,7 +877,7 @@ Bir duyarlı kişi ayakta kontrolde başarısız olduğunda:
 
 - **Ofis dışında:** Duygulu kişi bu makama sahip olmayabilir. Rol kuralları **CI-14.205 §2** (*Rol kriterleri, atama standartları ve görevden alınma yolları*) zaten bunu söylüyor ve nedeninin olağanüstü bir kilitlenme veya Geçici Durdurma olması durumunda da öyle **Madde XI-E** (*Kurumsal Oluşum ve İş Yaratımı*).
 - **Koltuğun doldurulması:** Başka biri ofisi devralır veya yerine başka biri geçer ve değişiklik, Rol Haritasının yeni tarihli bir versiyonuna kaydedilir.
-- **Yasal sahibi yok:** Bu, Chartered Party'yi yasal bir yönetim makamı sahibinden mahrum bırakırsa ve diğerleri buna bağlıysa, yargı yetkisine sahip forum geçici bir kahya atayabilir ve Chartered Party'yi şu şekilde durduramaz: [Madde XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*) Geçici Bekletmeyi sağlar.
+- **Yasal sahibi yok:** Bu, Chartered Party'yi yasal bir yönetim makamı sahibinden mahrum bırakırsa ve diğerleri buna bağlıysa, yargı yetkisine sahip forum geçici bir kahya atayabilir ve Chartered Party'yi şu şekilde durduramaz: [Madde XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Kurumsal Oluşum ve İş Yaratımı*) Geçici Bekletmeyi sağlar.
 
 <a id="63-when-the-facts-may-support-an-interim-hold"></a>
 #### 6.3 Gerçekler Geçici Durdurmayı destekleyebildiğinde
@@ -917,7 +917,7 @@ Feshetilmiş bir Sözleşmeli Partinin geri gelmesi şu şekilde ele alınır:
 - **Kim karar veriyor:** Yargı yetkisine sahip olan forum, doğrulanmış gerçeklere dayanarak kilidin araca ulaşıp ulaşmayacağına karar verir ve bunu söyleyen tarafın sorumluluğu üstlenir.
 - **Kendi beyanı:** Chartered Party'nin yeni olduğuna dair kendi beyanı bunu belirlemez.
 - **Diğer Faaliyet Tarafları:** Kilit, aslında çözülmüş olanla aynı işlem olmadığı sürece, farklı bir Çalıştırma Tarafına ulaşmaz.
-- **Kasıtlı kaçınma:** Kapatılan bir Chartered Party'yi başka bir isim altında veya halef, kontrol edilen bir kuruluş veya aday veya paravana sahip bir araç aracılığıyla yeniden oluşturmak, canlandırmak veya işletmek, kilidi aşmak için bir tür anayasaya aykırı suiistimaldir. Bir forum bunu aşağıda belirtebilir [On İkinci Bölüm A Kısmı](../../core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) doğrulanmış gerçekler hakkında
+- **Kasıtlı kaçınma:** Kapatılan bir Chartered Party'yi başka bir isim altında veya halef, kontrol edilen bir kuruluş veya aday veya paravana sahip bir araç aracılığıyla yeniden oluşturmak, canlandırmak veya işletmek, kilidi aşmak için bir tür anayasaya aykırı suiistimaldir. Bir forum bunu aşağıda belirtebilir [On İkinci Bölüm A Kısmı](../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) doğrulanmış gerçekler hakkında
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 Yanıt ve çözüm pencereleri
@@ -973,8 +973,8 @@ Olumsuz bulgu alan hak sahibi aşağıdaki şekilde korunur:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı akış: [§3](#3-hangi-sistem-ve-kurumsal-şartlarda-belirtilmesi-gerekiyor); [Birinci Bölüm §18.4 Devam Eden Gerekçe](../../core_01.015_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
-- Aşağı akış: [Dokuzuncu Bölüm Kısım B §9 Yeniden Sertifikalandırma ve Yeniden Açma](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.010 §9) (*Yeniden açılma tetikleyicileri olarak Sistem Şartı değişikliği ve uyumsuzluk*); [On Üçüncü Bölüm §4.3 Kurumsal forumlar](../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
+- Yukarı akış: [§3](#3-hangi-sistem-ve-kurumsal-şartlarda-belirtilmesi-gerekiyor); [Birinci Bölüm §18.4 Devam Eden Gerekçe](../../core_01.010_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
+- Aşağı akış: [Dokuzuncu Bölüm Kısım B §9 Yeniden Sertifikalandırma ve Yeniden Açma](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.010 §9) (*Yeniden açılma tetikleyicileri olarak Sistem Şartı değişikliği ve uyumsuzluk*); [On Üçüncü Bölüm §4.3 Kurumsal forumlar](../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
 - Şununla okuyun: [Sistem Sınır Bütünlüğü](../../core_05.040_band_continuity.md#system-boundary-integrity); **CI-8.205 §1** (*Devredilemez yönetim görevleri*); **CI-8.205 §6** (*Sistem ve Kurumsal Tüzük içerikleri, inceleme ve oluşturma şablonu*).
 
 </details>
@@ -1037,7 +1037,7 @@ Sözleşmeli Taraf, Sistem Şartını veya Kurumsal Şartını bir programa gör
   - her kapalı ofis hala duyarlı olanların ifade adlarını elinde tutuyor;
   - her bir sahibi eğitebilen, finanse edebilen, değiştirebilen veya ödüllendirebilen duyarlı kişiler hala ifadede açıklanan kişilerdir;
   - her bir sahibinin maaşı ve diğer ödülleri hala açıklamada açıklananlarla eşleşiyor; Ve
-  - her bir hak sahibi, yasa dışı veya anayasaya aykırı bir talimatı reddetmek için hala bir çalışma yöntemine sahiptir ([Birinci Bölüm §17.5 Direnme Görevi](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) ve anayasal uyumsuzluk, maddi zarar, güvenlik veya hakikat başarısızlığı, yolsuzluk, yakalama, suiistimal, misilleme veya gerekli incelemenin engellenmesine ilişkin makul şüpheleri korumalı bir şekilde bildirmek ([Korumalı Raporlama (İhbar)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)).
+  - her bir hak sahibi, yasa dışı veya anayasaya aykırı bir talimatı reddetmek için hala bir çalışma yöntemine sahiptir ([Birinci Bölüm §17.5 Direnme Görevi](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) ve anayasal uyumsuzluk, maddi zarar, güvenlik veya hakikat başarısızlığı, yolsuzluk, yakalama, suiistimal, misilleme veya gerekli incelemenin engellenmesine ilişkin makul şüpheleri korumalı bir şekilde bildirmek ([Korumalı Raporlama (İhbar)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)).
 
 <a id="74-adding-retiring-or-merging-systems"></a>
 #### 7.4 Sistem ekleme, kullanımdan kaldırma veya birleştirme
@@ -1055,7 +1055,7 @@ Bir Sistem Şartı veya Kurumsal Şart ile Sözleşmeli Tarafın aslında maddi 
 
 - **Kapatmanın yolları:** Belgeyi değiştirin, uygulamayı düzeltin (iyileştirme), yeniden onaylayın veya kapsamı belgeye uyacak şekilde kısaltın.
 - **Sayılmayan yollar:** Kapsamı sessizce genişletmek veya kağıdı olduğu gibi bırakmak.
-- **Sertifika incelemesi:** Maddi bir uyumsuzluk aynı zamanda söz konusu Sistemin veya Kurumun sertifikasyonunun yeni bir forum incelemesine de yol açar. İnceleme bir sonraki planlanmış incelemeyi beklemez. Bir Sistem için bkz. [Dokuzuncu Bölüm Kısım B §9 Yeniden Sertifikalandırma ve Yeniden Açma](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening). Bir kurum için bkz. [Dokuzuncu Bölüm Kısım D §14.2 Tetikleyicilerin yeniden açılması](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers). Sertifikasyon belirtilen kapsamı okur ve bunu gerçek sınırlarla karşılaştırır. Belgeyi yeniden yazmaz ve kurumsal bir sertifikasyon, içerdiği her Sistem Sertifikasyon Kaydını yeniden yapmadan alıntı yapar ([Dokuzuncu Bölüm Kısım D](../../core_09.020_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
+- **Sertifika incelemesi:** Maddi bir uyumsuzluk aynı zamanda söz konusu Sistemin veya Kurumun sertifikasyonunun yeni bir forum incelemesine de yol açar. İnceleme bir sonraki planlanmış incelemeyi beklemez. Bir Sistem için bkz. [Dokuzuncu Bölüm Kısım B §9 Yeniden Sertifikalandırma ve Yeniden Açma](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening). Bir kurum için bkz. [Dokuzuncu Bölüm Kısım D §14.2 Tetikleyicilerin yeniden açılması](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers). Sertifikasyon belirtilen kapsamı okur ve bunu gerçek sınırlarla karşılaştırır. Belgeyi yeniden yazmaz ve kurumsal bir sertifikasyon, içerdiği her Sistem Sertifikasyon Kaydını yeniden yapmadan alıntı yapar ([Dokuzuncu Bölüm Kısım D](../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
 - **Anlaşmazlığın gittiği yer:** Kurumsal forumlar, Kurumsal Tüzüğün kapsamı, Kurumsal Tüzüğü değiştirme yetkisi, Kurumsal Tüzük ile davranış arasındaki uyumsuzluk ve imtiyazlı kapsam dışındaki operasyonlarla ilgili anlaşmazlıkları dinler ([On Üçüncü Bölüm §4.3 Kurumsal forumlar](../../core_13.000_forum.md#43-institutional-forums)).
 
 <a id="76-keeping-old-versions"></a>

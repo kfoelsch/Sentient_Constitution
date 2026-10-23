@@ -845,7 +845,7 @@ Este Artigo estabelece pisos para correção e comunicação, incluindo dados de
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Fundamentação: Princípios do Capítulo Um: [§5 Verdade](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restrições de divulgação epistêmica](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints) e [§20 Aplicação integrada](../../core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+- Fundamentação: Princípios do Capítulo Um: [§5 Verdade](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Restrições de divulgação epistêmica](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints) e [§20 Aplicação integrada](../../core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

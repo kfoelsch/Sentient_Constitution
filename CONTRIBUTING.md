@@ -1,13 +1,13 @@
 # Contributing to the Sentient Constitution
 
-This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. It explains how humans and AI agents can help the corpus mature, what each kind of contribution must pass, and who decides what. Contributing is not [Chapter Seventeen §10](core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption, and a group of contributors is not an oversight body or a forum ([Chapter One §17.4](core_01.015_stewardship_capacity_principles.md#174-aligned-self-organization)).
+This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. It **cannot narrow core text**. It explains how humans and AI agents can help the corpus mature, what each kind of contribution must pass, and who decides what. Contributing is not [Chapter Seventeen §10](core_17.000_amendment_ratification.md#10-ratification-and-adoption) adoption, and a group of contributors is not an oversight body or a forum ([Chapter One §17.4](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization)).
 
 Where the corpus is and where it is going: [VISION.md](project/VISION.md). The working backlog: [implementation/PRE_PUBLICATION_SPEC.md](implementation/PRE_PUBLICATION_SPEC.md).
 
 <a id="who"></a>
 ## 1. Who may contribute
 
-- **Humans and AI agents alike**, under the same standard ([Chapter One §17.1](core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard)). An AI agent contributing under a human operator's direction is a contributor; the operator is accountable for what is submitted. Say which you are in the pull request.
+- **Humans and AI agents alike**, under the same standard ([Chapter One §17.1](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard)). An AI agent contributing under a human operator's direction is a contributor; the operator is accountable for what is submitted. Say which you are in the pull request.
 - **License.** Everything in this repository is [CC BY 4.0](LICENSE). By contributing you agree your contribution is released under the same license. There is no contributor license agreement to sign.
 - **Custody.** Editorial custody of the corpus rests with the custodian named in [README § Authorship](README.md#authorship). Merging is the custodian's decision. Custody of the *repository* is not custody of an adopted *edition* under [Chapter Eighteen §2](core_18.000_incorporation.md#2-custody-editions-and-operative-effect); no adopter exists yet.
 - **What a contribution is.** A change to files in this repository. It is process-layer work. It is **not** an amendment under Chapter Seventeen, because there is no adopted edition to amend, and it is **not** adoption. Even so, substantive changes to core text are held to the non-regression and publication-integrity tests the instrument sets for itself (see [Lane D](#lane-d--core-text-proposals)).

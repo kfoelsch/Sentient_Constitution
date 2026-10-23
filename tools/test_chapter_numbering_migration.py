@@ -18,7 +18,7 @@ def main() -> int:
     crosswalk = json.loads((root / "tools/architecture/chapter_crosswalk.json").read_text())
     rows = registry["chapters"]
     by_source = {row["original_file"]: row for row in rows}
-    assert len(rows) == 117
+    assert len(rows) == 116
     assert len({row["machine_id"] for row in rows}) == len(rows)
     assert len({row["destination_file"] for row in rows}) == len(rows)
     assert len({row["original_file"] for row in rows}) == len(rows)

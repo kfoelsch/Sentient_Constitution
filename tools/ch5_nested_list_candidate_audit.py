@@ -75,9 +75,9 @@ from ch5_paths import CH5_APEX, CH5_DEFS  # noqa: E402
 CH0_PARTS: tuple[str, ...] = ("core_00.000_preamble.md",)
 
 CH1_PARTS: tuple[str, ...] = (
-    "core_01.005_values_principles.md",
-    "core_01.010_interaction_interpretation.md",
-    "core_01.015_stewardship_capacity_principles.md",
+    "core_01.000_values_principles.md",
+    "core_01.005_interaction_interpretation.md",
+    "core_01.010_stewardship_capacity_principles.md",
 )
 
 CH2_PARTS: tuple[str, ...] = ("core_02.000_definition_structure.md",)
@@ -87,11 +87,11 @@ CH3_PARTS: tuple[str, ...] = ("core_03.000_definition_integrity.md",)
 CH4_PARTS: tuple[str, ...] = ("core_04.000_burden_traceability_verification.md",)
 
 CH6_RIGHTS: tuple[str, ...] = (
-    "core_06.005_rights_part_a.md",
-    "core_06.010_rights_part_b.md",
-    "core_06.015_rights_part_c.md",
-    "core_06.020_rights_part_d.md",
-    "core_06.025_rights_part_e.md",
+    "core_06.000_rights_part_a.md",
+    "core_06.005_rights_part_b.md",
+    "core_06.010_rights_part_c.md",
+    "core_06.015_rights_part_d.md",
+    "core_06.020_rights_part_e.md",
 )
 
 CH7_PARTS: tuple[str, ...] = ("core_07.000_charters.md",)
@@ -101,10 +101,10 @@ CH8_PARTS: tuple[str, ...] = (
 )
 
 CH9_PARTS: tuple[str, ...] = (
-    "core_09.005_system_alignment_certification_evaluation.md",
-    "core_09.010_system_alignment_certification_record_process.md",
-    "core_09.015_system_alignment_certification_illustrations.md",
-    "core_09.020_institutional_alignment_certification.md",
+    "core_09.000_system_alignment_certification_evaluation.md",
+    "core_09.005_system_alignment_certification_record_process.md",
+    "core_09.010_system_alignment_certification_illustrations.md",
+    "core_09.015_institutional_alignment_certification.md",
 )
 
 CH10_PARTS: tuple[str, ...] = ("core_10.000_standing_assessment.md",)
@@ -112,8 +112,8 @@ CH10_PARTS: tuple[str, ...] = ("core_10.000_standing_assessment.md",)
 CH11_PARTS: tuple[str, ...] = ("core_11.000_standing_integration.md",)
 
 CH12_PARTS: tuple[str, ...] = (
-    "core_12.005_misconduct_designation.md",
-    "core_12.010_misconduct_pattern_applications.md",
+    "core_12.000_misconduct_designation.md",
+    "core_12.005_misconduct_pattern_applications.md",
 )
 
 CH13_PARTS: tuple[str, ...] = ("core_13.000_forum.md",)

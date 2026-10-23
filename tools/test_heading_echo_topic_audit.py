@@ -68,7 +68,7 @@ class HeadingEchoTopicTests(unittest.TestCase):
             "general rule.\n"
         )
         self.assertEqual(
-            self._cites(text, "core_12.005_misconduct_designation.md"),
+            self._cites(text, "core_12.000_misconduct_designation.md"),
             [],
         )
 

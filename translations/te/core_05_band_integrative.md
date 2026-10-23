@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - గమ్యం: సూత్రాలు: [ప్రస్తావన §3.3 పాలన-పొర క్రమశిక్షణ](core_00_preamble.md#33-పలన-పరల); [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency).
-- యజమాని నేల: [అధ్యాయం పన్నెండు: రాజ్యాంగ ఒప్పందం, ధర్మబద్ధత, అధికారీకరణ, మరియు బాధ్యతాయుత నిర్వహణ](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [అనుచ్ఛేదం X-C: పాలనలో పాల్గొనడం మరియు ఓటు అర్హత](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- యజమాని నేల: [అధ్యాయం పన్నెండు: రాజ్యాంగ ఒప్పందం, ధర్మబద్ధత, అధికారీకరణ, మరియు బాధ్యతాయుత నిర్వహణ](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [అనుచ్ఛేదం X-C: పాలనలో పాల్గొనడం మరియు ఓటు అర్హత](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - క్లస్టర్ భాగం: [*రాజ్యాంగ ఒప్పంద పొర మరియు పునాది రాజ్యాంగ ఎంపిక*](core_05_band_integrative.md#రజయగ-ఒపపద-పర)
 - దీనితో చదవండి: [పునాది రాజ్యాంగ ఎంపిక](core_05_band_integrative.md#పనద-రజయగ-ఎపక), [బంధనీయ ప్రభావిత-పక్ష ఎంపిక](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [ప్రభావిత పక్ష స్థితి మరియు బరువు](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster), [పాలన](../../core_05.035_band_accountability.md#governance).
 - పొర: **రాజ్యాంగ ఒప్పంద పొర (CCL)** — ఎవరు పాలించవచ్చు, ఏ ధర్మబద్ధత యంత్రాంగం ద్వారా, ఏ నిలకడ నిబంధనలపై. **ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం (SSP)** నుండి వేరు.
@@ -123,7 +123,7 @@
     - [పునాది రాజ్యాంగ ఎంపిక](core_05_band_integrative.md#పనద-రజయగ-ఎపక);
     - [డాక్యుమెంట్ చేసిన ధర్మబద్ధత యంత్రాంగాలు](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority) [అధ్యాయం పన్నెండు §1.1](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) కింద;
     - [అంగీకారం](../../core_17.000_amendment_ratification.md#10-ratification-and-adoption) మరియు [పునఃఅధికారీకరణ](../../core_14.000_governance.md#11-mechanism-families-auditability-and-pluralism) నియమాలు ([అధ్యాయం పన్నెండు §1.3](../../core_14.000_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [అధ్యాయం పదహారు §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)); మరియు
-    - పాలన అధికారాన్ని ఏర్పాటు చేయడానికి లేదా నిలకడగా పునర్నిర్మించడానికి [రాజకీయ-సమానత్వం నేల](../../core_14.000_governance.md#41-entitlement-and-eligibility) — అర్హత ఉన్న సంజ్ఞ ప్రాణులకు ఆ పొరలో సమాన స్వరం ([అనుచ్ఛేదం X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
+    - పాలన అధికారాన్ని ఏర్పాటు చేయడానికి లేదా నిలకడగా పునర్నిర్మించడానికి [రాజకీయ-సమానత్వం నేల](../../core_14.000_governance.md#41-entitlement-and-eligibility) — అర్హత ఉన్న సంజ్ఞ ప్రాణులకు ఆ పొరలో సమాన స్వరం ([అనుచ్ఛేదం X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **పరిధి బయట:**
     - సాధారణ ప్రభావిత-పక్ష సంప్రదింపు;
     - ఆపరేషనల్ పాల్గొనడం;
@@ -131,7 +131,7 @@
     - నిర్మాణాలు, ప్రక్రియలు ఇప్పటికే అధికారం పొందిన తర్వాత సాధారణ డొమైన్ పాలన; మరియు
     - సాధారణ [ప్రభావిత పక్ష బరువు](../../core_05.055_band_participation.md#stakeholder-weight) — ఎక్కువ ప్రభావితులకు ఎక్కువ స్వరం ఇవ్వడం — స్థాపన లేదా పునఃఅధికారీకరణ ఓట్లు పెట్టడానికి వాడడం ([ప్రస్తావన §3.3 పాలన-పొర క్రమశిక్షణ](core_00_preamble.md#33-పలన-పరల)).
   - **సంచాలక ఇల్లు:** [అధ్యాయం పన్నెండు](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) ఈ పొరకు బంధనీయ అధికారీకరణ, ధర్మబద్ధత, బాధ్యతాయుత నిర్వహణ నియమాలు చెబుతుంది.
-  - **హక్కుల నేల:** [అనుచ్ఛేదం X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*పాలనలో పాల్గొనడం మరియు ఓటు అర్హత*) ఆ అధ్యాయం పన్నెండు నియమాలు సంకుచితం చేయకూడని సమాన-పాల్గొనడం అర్హత చెబుతుంది.
+  - **హక్కుల నేల:** [అనుచ్ఛేదం X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*పాలనలో పాల్గొనడం మరియు ఓటు అర్హత*) ఆ అధ్యాయం పన్నెండు నియమాలు సంకుచితం చేయకూడని సమాన-పాల్గొనడం అర్హత చెబుతుంది.
 <a id="constitutional-contract-layer-a"></a>
 - **కొలవడం మరియు అంచనా వేయడం ఎలా**
   - **ప్రాథమిక కొలత:** [జవాబుదారీతనం కొలత కుటుంబం](core_05_apex_accountability_leg.md#accountability-measurement-family) — *బహుమతి నిర్మాణాలు, మార్కెట్ శక్తి, సమాధానం చెప్పే తనం కర్తవ్యాలను నిజంగా ఉంచుతున్నాయా?* ఇక్కడ అడగండి వాదించిన పాలన శక్తి నిజమైన రాజ్యాంగ ఒప్పందంపై నిలుస్తుందా — డాక్యుమెంట్ చేసిన ధర్మబద్ధత, సమాన స్థాపన స్వరం, మరియు ఈ రాజ్యాంగంతో అనుగుణంగా ఉండే నిలిచే నిబంధనలు — పరిమాణం, జనాదరణ, లేదా మార్కెట్ చేరువ మాత్రమే కాదు.
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - గమ్యం: సూత్రాలు: [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency); [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](core_05_band_integrative.md).
-- యజమాని నేల: [అధ్యాయం పన్నెండు అధ్యాయం ఒకటి §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*పునాది రాజ్యాంగ ఎంపికకు రాజకీయ-సమానత్వం నేల*; *నిలకడ రాజకీయ-స్వరం నేల*); [అనుచ్ఛేదం X-C: పాలనలో పాల్గొనడం మరియు ఓటు అర్హత](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
+- యజమాని నేల: [అధ్యాయం పన్నెండు అధ్యాయం ఒకటి §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*పునాది రాజ్యాంగ ఎంపికకు రాజకీయ-సమానత్వం నేల*; *నిలకడ రాజకీయ-స్వరం నేల*); [అనుచ్ఛేదం X-C: పాలనలో పాల్గొనడం మరియు ఓటు అర్హత](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - క్లస్టర్ భాగం: [*రాజ్యాంగ ఒప్పంద పొర మరియు పునాది రాజ్యాంగ ఎంపిక*](core_05_band_integrative.md#రజయగ-ఒపపద-పర)
 - దీనితో చదవండి: [రాజ్యాంగ ఒప్పంద పొర](core_05_band_integrative.md#రజయగ-ఒపపద-పర), [ప్రభావిత పక్షాల ప్రాతినిధ్యం మరియు బరువు పరిమితులు (బంధనీయ ప్రభావిత-పక్ష ఎంపిక)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [బంధనీయ ప్రభావిత-పక్ష ఎంపిక](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [ప్రక్రియా న్యాయం](../../core_05.055_band_participation.md#procedural-fairness-constitutional).
 - పొర: **రాజ్యాంగ ఒప్పంద పొర (CCL)**. ఇప్పటికే అధికారం పొందిన వ్యవస్థల్లో **ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం (SSP)** నుండి వేరు.
@@ -177,7 +177,7 @@
 
     ఇది [రాజ్యాంగ ఒప్పంద పొర](core_05_band_integrative.md#రజయగ-ఒపపద-పర)కు చెందుతుంది.
     - యజమాని: [అధ్యాయం పన్నెండు అధ్యాయం ఒకటి §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).
-    - హక్కుల-పొర పాయింటర్: [అనుచ్ఛేదం X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*పాలనలో పాల్గొనడం మరియు ఓటు అర్హత*).
+    - హక్కుల-పొర పాయింటర్: [అనుచ్ఛేదం X-C](../../core_06.005_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*పాలనలో పాల్గొనడం మరియు ఓటు అర్హత*).
     - [సంజ్ఞత మినహాయింపు-నిషేధం](../../core_05.055_band_participation.md#sentience-non-exclusion) కింద వర్తిస్తుంది.
   - **పరిధి బయట:**
     - ఒక డొమైన్‌కు ఇప్పటికే అధికారం పొందిన పాలన నిర్మాణాలు, ప్రక్రియలు ఉన్న తర్వాత సాధారణ ప్రభావ-బరువు ప్రభావిత-పక్ష నిర్ణయాలు — ప్రభావిత సంజ్ఞ ప్రాణులకు [ప్రభావిత పక్షం](../../core_05.055_band_participation.md#stakeholder) గుర్తింపు మరియు [ప్రభావిత పక్ష బరువు](../../core_05.055_band_participation.md#stakeholder-weight) ద్వారా వారు ఎంత ప్రభావితమవుతున్నారో దానికి స్కేల్ అయిన స్వరం వస్తుంది (**అనుచ్ఛేదం XII** (*ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం, ప్రాతినిధ్యం, మరియు సముచిత ప్రక్రియ*) పరిమితులు సహా), సమాన-బరువు పునాది లెక్క నియమాల ద్వారా కాదు; మరియు
@@ -323,7 +323,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- గమ్యం: జవాబుదారీతనం కొలత కుటుంబం (*రాజ్యాంగ కొలతగా ప్రోత్సాహక అనుగుణత మరియు ప్రతినిధి సమగ్రత*); సూత్రాలు: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) కింద చతుష్టయం స్వాధీన క్రమశిక్షణ; [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్); [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- గమ్యం: జవాబుదారీతనం కొలత కుటుంబం (*రాజ్యాంగ కొలతగా ప్రోత్సాహక అనుగుణత మరియు ప్రతినిధి సమగ్రత*); సూత్రాలు: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) ([§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) కింద చతుష్టయం స్వాధీన క్రమశిక్షణ; [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్); [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - సూత్ర-పొర నియమం: [అధ్యాయం ఒకటి §11.1 అనుగుణత అవసరం](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) మరియు [అధ్యాయం ఒకటి §11.2 సౌకర్యవంతమైన ప్రతినిధులు మరియు ప్రతినిధి విచలనం](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence); బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు: [అధ్యాయం ఒకటి §11.1.3 బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) మరియు [§11.1.4 పాత్ర-లోతు మరియు భౌతిక-బాధ్యత మార్గాలు](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways).
 - అసమతుల్యత గుర్తింపు: [అధ్యాయం ఒకటి §11.3 అసమతుల్యత గుర్తింపు](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection).
 - క్రియాశీల సరిదిద్దు మరియు స్వాధీన పెంపు: [అధ్యాయం ఒకటి §11.4 అసమతుల్యత సరిదిద్దు మరియు స్వాధీన స్పందన](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response).
@@ -621,7 +621,7 @@
 
 - గమ్యం: సూత్రాలు: [2. రాజ్యాంగ వ్యాఖ్యానం](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); [15. సమగ్ర వర్తింపు](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (అధికార స్టాక్ vs అంతర్గత క్రమానుగతం అధ్యాయం ఒకటితో చదవడం).
 - గమ్యం: [అధ్యాయం ఒకటి — §8 రాజ్యాంగ వ్యాఖ్యానం](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (సమగ్ర పఠనం మరియు చివరి-ఆశ్రయ క్రమానుగతం); [అధ్యాయం ఒకటి §8.4 రాజ్యాంగ అర్థ సంఘర్షణ పరిష్కారం](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*ఒకే సంఘర్షణ ప్రక్రియ, సమావేశీకరణ పొర సహా*); [అధ్యాయం పద్నాలుగు — అంగీకరించేవారికి అంతర్గత క్రమానుగతం](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [అధ్యాయం పదహారు](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*సమావేశీకరణ వంతెన — అభిరక్ష, సంచికలు, అంగీకారం; రెండో స్టాక్ లేదా సంఘర్షణ-క్రమం ఇల్లు కాదు*).
-- గమ్యం: [అధ్యాయం ఆరు — పొర పరిధి](../../core_06.005_rights_part_a.md#12-layer-scope); [అధ్యాయం పదమూడు §4 పొర పరిధి](../../core_15.000_non_regression.md#4-layer-scope) మరియు [అధ్యాయం పదిహేను §12 పొర పరిధి](../../core_17.000_amendment_ratification.md#12-layer-scope) (*స్థానికంగా వర్తింపజేసిన యజమాని తరలింపు-నిషేధం*); సంఖ్యాత్మక `core_*` పత్రం అంతటా అధ్యాయం ప్రారంభ యజమాని వాదనలు.
+- గమ్యం: [అధ్యాయం ఆరు — పొర పరిధి](../../core_06.000_rights_part_a.md#12-layer-scope); [అధ్యాయం పదమూడు §4 పొర పరిధి](../../core_15.000_non_regression.md#4-layer-scope) మరియు [అధ్యాయం పదిహేను §12 పొర పరిధి](../../core_17.000_amendment_ratification.md#12-layer-scope) (*స్థానికంగా వర్తింపజేసిన యజమాని తరలింపు-నిషేధం*); సంఖ్యాత్మక `core_*` పత్రం అంతటా అధ్యాయం ప్రారంభ యజమాని వాదనలు.
 - దీనితో చదవండి: [సంకలనం](core_05_band_integrative.md#సకలన); [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-సతరల-నరవచనల-హకకల) (*సానుకూల డొమైన్→యజమాని మ్యాప్*, విభాగాలు 4–7); [ఆడిట్-యోగ్యత](core_05_band_oversight.md#ఆడట-యగయత) మరియు [సవాలు-యోగ్యత](../../core_05.035_band_accountability.md#contestability) (*బంధనీయ వాదనల ఆచరణాత్మక అమలు-యోగ్యత*); [ప్రస్తావన §3.3](core_00_preamble.md#33-పలన-పరల) మరియు [రాజ్యాంగ ఒప్పంద పొర](core_05_band_integrative.md#రజయగ-ఒపపద-పర) (*పాలన-పొర ప్రత్యామ్నాయం-నిరోధం*); [రాజ్యాంగ పరిమితి](core_05_band_integrative.md#రజయగ-పరమత); **CJS-0.1** (*అమలు అంశ రూటర్*).
 
 </details>
@@ -683,7 +683,7 @@
     - ముందు అధికార స్టాక్ కింద సంచాలక సంచిక/అభిరక్ష గొలుసు, మూల పొర గుర్తించండి.
     - తర్వాత [ప్రస్తావన — సానుకూల యజమాని నమోదు](core_00_preamble.md#4-సతరల-నరవచనల-హకకల)లో యజమాని ఇల్లు గుర్తించండి (మరియు అధ్యాయం ప్రారంభ యజమాని వాదన); వాస్తవికతను ఆ యజమాని ఇల్లు నుండి మాత్రమే వర్తింపజేయండి — ఇతర చోట్ల పాయింటర్లు మాత్రమే.
     - తర్వాత [అధ్యాయం ఒకటి — §8 రాజ్యాంగ వ్యాఖ్యానం](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) కింద సమగ్ర పఠనం వర్తింపజేయండి.
-    - రాజ్యాంగం సమగ్ర మొత్తంగా పూర్తి రక్షణ ప్రభావం, [అధ్యాయం ఆరు](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) సంకోచం-నిషేధ డిఫాల్ట్ కాపాడండి.
+    - రాజ్యాంగం సమగ్ర మొత్తంగా పూర్తి రక్షణ ప్రభావం, [అధ్యాయం ఆరు](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) సంకోచం-నిషేధ డిఫాల్ట్ కాపాడండి.
     - అంతర్గత క్రమానుగతాన్ని చివరి-ఆశ్రయ అవశిష్ట నియమంగా మాత్రమే వాడండి; సాధారణ సమగ్ర పఠనాన్ని భర్తీ చేయడానికి లేదా ప్రామాణిక పద అర్థంపై కేవలం అసమ్మతిని పరిష్కరించడానికి వాడకండి.
     - వివాదం పద అర్థమైన చోట, అధ్యాయం ఐదు ప్రామాణిక నిర్వచనం ప్రతి పొరలో పాలిస్తుంది.
     - CS, CI, CF, మరియు CJS అంతటా మార్గం పెట్టబడిన అమలు అంశాలకు, యజమాని గుర్తింపు తర్వాత **CJS-0.1** (అంశ రూటర్) వర్తింపజేయండి.
@@ -703,10 +703,10 @@
     - చెల్లుబాటు మూలం, పాలన-పొర పరిధిలో బంధనీయ సంకలనం కర్తవ్యాలను తొలగించడానికి ఆకాంక్షా భాష లేదా స్థానిక ఆచరణ వాడడం;
     - ఒక యజమాని పొర కర్తవ్యాలను మరో యజమాని పొర లోపల వాస్తవికంగా పునఃచెప్పడం, పాఠక-మార్గదర్శక గద్యాన్ని సంచాలక ప్రభావానికి ఎత్తడం సహా;
     - యజమాని పొర ఆ అధికారాన్ని అధ్యాయాలు ఎనిమిది నుండి పదికి కేటాయించిన చోట చెల్లుబాటు లేదా పాలన అధ్యాయాల్లో ట్రిగ్గర్, రిఫరల్, లేదా ఎస్కలేషన్ భాషను తుది వర్గీకరణ లేదా శిక్షా చట్టంగా పరిగణించడం;
-    - [అధ్యాయం ఆరు](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) హక్కుల నేలలను [అధ్యాయం పదమూడు](../../core_15.000_non_regression.md) తిరోగమన నిషేధం, అధ్యాయం ఆరు ప్రారంభ ఒప్పందానికి వ్యతిరేకంగా సంకుచితం, తిరిగి నిర్వచించడం, లేదా తరలించడానికి ప్రక్రియ, పాలన, లేదా అమలు ఫ్రేమింగ్ వాడడం;
+    - [అధ్యాయం ఆరు](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) హక్కుల నేలలను [అధ్యాయం పదమూడు](../../core_15.000_non_regression.md) తిరోగమన నిషేధం, అధ్యాయం ఆరు ప్రారంభ ఒప్పందానికి వ్యతిరేకంగా సంకుచితం, తిరిగి నిర్వచించడం, లేదా తరలించడానికి ప్రక్రియ, పాలన, లేదా అమలు ఫ్రేమింగ్ వాడడం;
     - [ప్రస్తావన యజమాని నమోదు](core_00_preamble.md#4-సతరల-నరవచనల-హకకల) ఇప్పటికే ప్రామాణిక ఇల్లు కేటాయించిన చోట యజమాని-కాని పొరల్లో సమాంతర వర్గీకరణలు లేదా వర్క్‌ఫ్లోలు కనిపెట్టడం;
     - స్థాపిత మూల క్రమానుగతం తిప్పే విధంగా, లేదా అమలు, మద్దతు పాఠం, ప్రైవేటు క్రమం, అత్యవసర ఫ్రేమింగ్, లేదా ఆపరేషనల్ ఆచరణ చెల్లుబాటు పరిధిలో బంధనీయ సంకలనం కర్తవ్యాలను తొలగించేలా ఆధిపత్యం లేదా అనుసరణ వాదించడం;
-    - కఠినమైన పఠనం ఎంచుకోవడానికి, [అధ్యాయం ఆరు](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) హక్కుల-నేల రక్షణలను [అధ్యాయం ఒకటి](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) స్పష్టంగా అనుమతించేదానికి బయట కుదించడానికి, లేదా సాధారణ పఠనంలో ఒక మూల పొరను మరొకదానికి మార్చడానికి అంతర్గత క్రమానుగతాన్ని సత్వరమార్గంగా వాడడం;
+    - కఠినమైన పఠనం ఎంచుకోవడానికి, [అధ్యాయం ఆరు](../../core_06.000_rights_part_a.md#chapter-six-foundational-rights) హక్కుల-నేల రక్షణలను [అధ్యాయం ఒకటి](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) స్పష్టంగా అనుమతించేదానికి బయట కుదించడానికి, లేదా సాధారణ పఠనంలో ఒక మూల పొరను మరొకదానికి మార్చడానికి అంతర్గత క్రమానుగతాన్ని సత్వరమార్గంగా వాడడం;
     - అధ్యాయం ఐదు నిర్వచనాలను సూత్రాలు లేదా అనుచ్ఛేదాలను ఓడించే ప్రత్యర్థి నియమసముదాయంగా పరిగణించడం ([అధ్యాయం ఒకటి — §8 రాజ్యాంగ వ్యాఖ్యానం](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)); లేదా
     - అంగీకరించేవారికి, అంగీకరించిన అమలు పాఠాన్ని అంగీకార పరిధిలో ఈ రాజ్యాంగాన్ని ఓడించేదిగా, లేదా [అధ్యాయం పదమూడు](../../core_15.000_non_regression.md) తిరోగమన-నిషేధ నేలలను సడలించేదిగా పరిగణించడం (**అధ్యాయం పద్నాలుగు**లో [అంగీకరించేవారికి అంతర్గత క్రమానుగతం](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters)).
 

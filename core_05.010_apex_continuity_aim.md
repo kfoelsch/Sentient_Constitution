@@ -13,12 +13,12 @@
 
 - Upstream: [Chapter Five compass](core_05.000_definitions_home.md#chapter-five-compass-and-definition-map) (5.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); plain-language aim at [Preamble §1](core_00.000_preamble.md#continuity).
 - Downstream: Principles:
-  - [Chapter One §8 Continuity Aim: Introduction](core_01.005_values_principles.md#8-continuity-aim-introduction) (1.005 §8);
-  - [Chapter One §9 Shared-System Capacity](core_01.005_values_principles.md#9-shared-system-capacity) (1.005 §9);
-  - [Chapter One §10 Resilience and Self-Healing Design](core_01.005_values_principles.md#10-resilience-and-self-healing-design) (1.005 §10);
-  - [Chapter One §11 Market Structure](core_01.005_values_principles.md#11-market-structure) (1.005 §11);
-  - [Chapter One §12 Systemic Evaluation Requirement](core_01.005_values_principles.md#12-systemic-evaluation-requirement) (1.005 §12);
-  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.015_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.015 §19.1.5);
+  - [Chapter One §8 Continuity Aim: Introduction](core_01.000_values_principles.md#8-continuity-aim-introduction) (1.000 §8);
+  - [Chapter One §9 Shared-System Capacity](core_01.000_values_principles.md#9-shared-system-capacity) (1.000 §9);
+  - [Chapter One §10 Resilience and Self-Healing Design](core_01.000_values_principles.md#10-resilience-and-self-healing-design) (1.000 §10);
+  - [Chapter One §11 Market Structure](core_01.000_values_principles.md#11-market-structure) (1.000 §11);
+  - [Chapter One §12 Systemic Evaluation Requirement](core_01.000_values_principles.md#12-systemic-evaluation-requirement) (1.000 §12);
+  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5);
   - [Constitutional Aim decomposition](#constitutional-aim-decomposition); Continuity topic groups in
   - [core_05.040_band_continuity.md](core_05.040_band_continuity.md).
 - Read with:
@@ -61,14 +61,14 @@ Chapter Five, Continuity aim, is the constitutional owner of the **Continuity** 
 <a id="continuity-aim-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* See also [Constitutional Aim decomposition](#constitutional-aim-decomposition). This line only points to the measures; the how-to-measure rules sit on each linked definition.
-  - **Primary assessment:** Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake). Ask whether systems keep lasting capacity to repair, adapt, face risk honestly, and stay within ecological limits — not whether today's numbers look calm. Tie claimed continuity results to the [constituent](#constitutional-aim-decomposition) conditions, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.015_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
+  - **Primary assessment:** Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake). Ask whether systems keep lasting capacity to repair, adapt, face risk honestly, and stay within ecological limits — not whether today's numbers look calm. Tie claimed continuity results to the [constituent](#constitutional-aim-decomposition) conditions, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="continuity-aim-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - using **Continuity** to forever put off fixes;
     - treating "stability" as compliant when it rests on hidden risk dumping, irreversible harm, or shifting ecological burdens onto others;
     - using ordinary "keep the lights on" talk to block [Contestability](core_05.035_band_accountability.md#contestability) or [Timely Resolution](core_05.035_band_accountability.md#timely-resolution); or
-    - pursuing **Continuity** in a way that materially defeats [Flourishing](core_05.015_apex_flourishing_aim.md#flourishing-constitutional) without clear permission under [Chapter One §13 Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+    - pursuing **Continuity** in a way that materially defeats [Flourishing](core_05.015_apex_flourishing_aim.md#flourishing-constitutional) without clear permission under [Chapter One §13 Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 ---
 

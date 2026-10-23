@@ -40,9 +40,9 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter One §17.5 Duty to Resist](core_01.015_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5),
-  - [§17.1 Shared Stewardship Standard](core_01.015_stewardship_capacity_principles.md#171-shared-stewardship-standard), and
-  - [§17.2 Alignment Under Pressure](core_01.015_stewardship_capacity_principles.md#172-alignment-under-pressure);
+  - [Chapter One §17.5 Duty to Resist](core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.010 §17.5),
+  - [§17.1 Shared Stewardship Standard](core_01.010_stewardship_capacity_principles.md#171-shared-stewardship-standard), and
+  - [§17.2 Alignment Under Pressure](core_01.010_stewardship_capacity_principles.md#172-alignment-under-pressure);
   - [Chapter Eleven §5.4](core_11.000_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (11.000 §5.4) (*Duty to resist — violation rule and standing effects*);
   - [CS-14.305 §10 inspectable attributable action](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
 - Read with:
@@ -79,7 +79,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7), [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5).
+- Downstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5).
 - Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05.035_band_accountability.md#proportionality)
 - Read with:
   - [Necessity](core_05.035_band_accountability.md#necessity),
@@ -143,7 +143,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7), [§13.1.2 Harm Minimization](core_01.010_interaction_interpretation.md#1312-harm-minimization), and [14. Prohibition on Absolute Override](core_01.010_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Downstream: Principles: [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7), [§13.1.2 Harm Minimization](core_01.005_interaction_interpretation.md#1312-harm-minimization), and [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05.035_band_accountability.md#proportionality)
 - Read with: Harm, Risk, Necessity, and Proportionality.
 
@@ -175,12 +175,12 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7),
-  - [§13.1.1 Necessity](core_01.010_interaction_interpretation.md#1311-necessity),
-  - [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [13.2.1 Preservation of Epistemic Integrity](core_01.010_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
-  - [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5), and
-  - [14. Prohibition on Absolute Override](core_01.010_interaction_interpretation.md#14-prohibition-on-absolute-override).
+  - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
+  - [§13.1.1 Necessity](core_01.005_interaction_interpretation.md#1311-necessity),
+  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process),
+  - [13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
+  - [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5), and
+  - [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05.035_band_accountability.md#proportionality)
 - Read with: Proportionality, Feasibility, Harm, Risk, and Freedom (Bounded Agency).
 
@@ -219,12 +219,12 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter One §7 Freedom](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7),
-  - [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [13.2.1 Preservation of Epistemic Integrity](core_01.010_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
-  - [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5), and
-  - [14. Prohibition on Absolute Override](core_01.010_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: [Chapter One §13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality) (1.010 §13.1.3) (*authority-scaled answerability*); [Chapter One §18.1 Governance as Authorized Structure](core_01.015_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.015 §18.1) (*authority-scaled answerability principle home*).
+  - [Chapter One §7 Freedom](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7),
+  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process),
+  - [13.2.1 Preservation of Epistemic Integrity](core_01.005_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
+  - [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5), and
+  - [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Downstream: [Chapter One §13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality) (1.005 §13.1.3) (*authority-scaled answerability*); [Chapter One §18.1 Governance as Authorized Structure](core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.010 §18.1) (*authority-scaled answerability principle home*).
 - Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](core_05.035_band_accountability.md#proportionality)
 - Read with: Necessity, Harm, Risk, Irreversible Harm, Classification-Scaled Governance, [Accountability](core_05.005_apex_accountability_leg.md#accountability), and [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional).
 
@@ -235,7 +235,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 *In plain terms: restrictions and governance must match the seriousness and likelihood of the harm. Too much control and too little control can both fail this test, and greater power requires stronger accountability and oversight.*
 
 - **What it is**
-  - **In scope:** A limitation on constitutional values must match the size and likelihood of the [Harm](core_05.035_band_accountability.md#harm) or system-wide impact it legitimately addresses. Governance must meet at least the level required by the system's highest materially applicable classification. Greater authorized power, a more consequential role, or greater institutional influence increases — and must never reduce — the required strength of [Accountability](core_05.005_apex_accountability_leg.md#accountability) and [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) under [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) and Chapter One [§18.1 Governance as Authorized Structure](core_01.015_stewardship_capacity_principles.md#181-governance-as-authorized-structure).
+  - **In scope:** A limitation on constitutional values must match the size and likelihood of the [Harm](core_05.035_band_accountability.md#harm) or system-wide impact it legitimately addresses. Governance must meet at least the level required by the system's highest materially applicable classification. Greater authorized power, a more consequential role, or greater institutional influence increases — and must never reduce — the required strength of [Accountability](core_05.005_apex_accountability_leg.md#accountability) and [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional) under [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance) and Chapter One [§18.1 Governance as Authorized Structure](core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure).
   - **Out of scope:** ordinary sizing judgments outside rights-affecting limitations or classification-scaled governance.
 <a id="proportionality-a"></a>
 - **How to measure and assess**
@@ -257,7 +257,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** where contingent claims, games of chance, or event-contract markets are material, consistent with [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.015_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets).
+- **Joint invocation:** where contingent claims, games of chance, or event-contract markets are material, consistent with [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets).
 - **Scope:** where joint invocation is met, the Accountability home for contingent settlement forms and the integrity overlay that governs unfair edges in those structures.
 
 **Topic group members.** This group comprises:
@@ -278,7 +278,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.015_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.015 §19.5).
+- Downstream: Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.010 §19.5).
 - Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05.035_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage)
 - Read with:
   - [Game of Chance](core_05.035_band_accountability.md#game-of-chance),
@@ -303,7 +303,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05.005_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05.030_apex_timeliness_leg.md#measuring-timeliness) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
-    **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.015_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_05.040_band_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment), [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation), [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05.035_band_accountability.md#insider-advantage), and [System Capture](core_05.040_band_continuity.md#system-capture).
+    **Primary assessment:** Identify the event that settles the payout, who or what decides that outcome (the outcome-resolution source under [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets)), and how much [Dependency](core_05.040_band_continuity.md#dependency) and concentration the structure creates. Where many such claims together could sway fiduciary, public, or rights-relevant decisions, also apply [Incentive Alignment](core_05.045_band_integrative.md#incentive-alignment), [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation), [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways), [Insider Advantage](core_05.035_band_accountability.md#insider-advantage), and [System Capture](core_05.040_band_continuity.md#system-capture).
 <a id="contingent-claim-c"></a>
 - **What must hold**
   - **Primary failure:** Structures that reliably pay for unlawful [Harm](core_05.035_band_accountability.md#harm), for twisting rights-relevant decisions, or for [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) — without proportionate safeguards — are non-compliant. A contingent-claim label or paperwork when the structure does not actually work that way for the matter this Constitution governs is also non-compliant.
@@ -317,7 +317,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.015_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.015 §19.5).
+- Downstream: Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.010 §19.5).
 - Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05.035_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage)
 - Read with:
   - [Contingent Claim](core_05.035_band_accountability.md#contingent-claim),
@@ -351,7 +351,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - privileged-information pathways, [Insider Advantage](core_05.035_band_accountability.md#insider-advantage), and coordination risk; and
     - [Capture of Resolution Pathways](core_05.035_band_accountability.md#capture-of-resolution-pathways) under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
-    Do not treat settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) — under [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.015_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets), prices or odds alone are not enough evidence for rights, safety, or governance decisions.
+    Do not treat settlement prices or odds as authoritative [Truth (Constitutional Constraint)](core_05.050_band_oversight.md#truth-constitutional-constraint) — under [Chapter One §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets), prices or odds alone are not enough evidence for rights, safety, or governance decisions.
 <a id="event-contract-market-c"></a>
 - **What must hold**
   - **Primary failure:** Markets built to twist fiduciary, public, or rights-relevant decisions — or that allow [Insider Advantage](core_05.035_band_accountability.md#insider-advantage) without proportionate safeguards — are non-compliant. An event-contract-market label or paperwork when the venue does not actually work that way for the matter this Constitution governs is also non-compliant.
@@ -365,7 +365,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.015_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.015 §19.5).
+- Downstream: Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.010 §19.5).
 - Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05.035_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage)
 - Read with:
   - [Contingent Claim](core_05.035_band_accountability.md#contingent-claim),
@@ -402,7 +402,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.015_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.015 §19.5).
+- Downstream: Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.010 §19.5).
 - Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05.035_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage)
 - Read with:
   - [Contingent Claim](core_05.035_band_accountability.md#contingent-claim),
@@ -449,7 +449,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §19.5.2 Who Decides Outcomes](core_01.015_stewardship_capacity_principles.md#1952-who-decides-outcomes) (1.015 §19.5.2).
+- Downstream: Principles: [Chapter One §19.5.2 Who Decides Outcomes](core_01.010_stewardship_capacity_principles.md#1952-who-decides-outcomes) (1.010 §19.5.2).
 - Cluster component: [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_05.035_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage)
 - Read with:
   - [Contingent Claim](core_05.035_band_accountability.md#contingent-claim),
@@ -529,10 +529,10 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18);
-  - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.015_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.015 §19.6);
-  - [Chapter Nine §3.4](core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.005 §3.4) and
-  - [Chapter Nine Part B §8](core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (9.010 §8) where attribution capability is materially required.
+  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
+  - [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01.010_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (1.010 §19.6);
+  - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4) and
+  - [Chapter Nine Part B §8](core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (9.005 §8) where attribution capability is materially required.
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
   - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity),
@@ -540,7 +540,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Contestability](core_05.035_band_accountability.md#contestability),
   - [Due Process](core_05.035_band_accountability.md#due-process), and
   - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation).
-- Read with: [Chapter One §16.4 Document at Action](core_01.015_stewardship_capacity_principles.md#164-document-at-action) (1.015 §16.4) (*the principle that the act makes its own record*).
+- Read with: [Chapter One §16.4 Document at Action](core_01.010_stewardship_capacity_principles.md#164-document-at-action) (1.010 §16.4) (*the principle that the act makes its own record*).
 - Read with: [CS-14.305 §10 inspectable attributable action](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) (*default logging contract for mixed crews; not a standing-record substitute*).
 
 </details>
@@ -575,9 +575,9 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18);
-  - [Chapter Nine §3.4](core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.005 §3.4);
-  - [Chapter Nine Part B §8](core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (9.010 §8); and **
+  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18);
+  - [Chapter Nine §3.4](core_09.000_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (9.000 §3.4);
+  - [Chapter Nine Part B §8](core_09.005_system_alignment_certification_record_process.md#8-system-certification-record) (9.005 §8); and **
   - [corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310 — Information types and handling** where attributable action or audit-level responsibility is materially implicated.
 - Read with:
   - [Attributable Action](core_05.035_band_accountability.md#attributable-action),
@@ -619,7 +619,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (participation leg); [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process) (review, escalation, and emergency proportionality read-with); [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (where contestability operationalizes Truth / Safety).
+- Downstream: Principles: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (participation leg); [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (review, escalation, and emergency proportionality read-with); [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (where contestability operationalizes Truth / Safety).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05.005_apex_accountability_leg.md#accountability),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -662,7 +662,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5) (collision procedure and review pathways).
+- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5) (collision procedure and review pathways).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05.005_apex_accountability_leg.md#accountability) where attribution, challenge routing, adjudication mechanics, diffusion, collective failure, or force-majeure relief are materially implicated.
 - Read with:
   - [Accountability, contestability, and redress pathways](core_05.035_band_accountability.md#accountability-contestability-and-redress-pathways) where remediation, restorative posture, remedy-system capacity, or negligence-linked correction are materially implicated; the
@@ -719,8 +719,8 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5), where process, reasons, and review preserve rights-collision integrity.
-- Owner floor: [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), especially **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)-D (*Internal Roles, Accountability, and Due-Process Requirements*).
+- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5), where process, reasons, and review preserve rights-collision integrity.
+- Owner floor: [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), especially **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)-D (*Internal Roles, Accountability, and Due-Process Requirements*).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05.005_apex_accountability_leg.md#accountability).
 - Read with:
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness),
@@ -773,7 +773,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 - Upstream: [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
 - Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) (
-  - [core_06.025_rights_part_e.md](core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor));
+  - [core_06.020_rights_part_e.md](core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor));
   - [Chapter Thirteen §6](core_13.000_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (13.000 §6) (*materiality tiers and pipeline milestones*); **Article XIII-B** (*Right to Redress and Remedy*);
   - [Chapter Eleven §9.2](core_11.000_standing_integration.md#92-remedy-system-durability) (11.000 §9.2) (*remedy-organ durability*);
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) (*forum intake and routing*).
@@ -834,7 +834,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Contestability](core_05.035_band_accountability.md#contestability),
   - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness), the
   - [Chapter Ten §7 unified scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (10.000 §7) (*numeric Violation Axis slot assignment from verified impact*),
-  - [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in
+  - [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in
   - [corpus_forum.md](corpus_forum.md) and
   - [corpus_institutions.md](corpus_institutions.md).
 
@@ -864,7 +864,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - coordination;
     - sequencing; or
     - other procedural housekeeping — including [Stays](core_05.035_band_accountability.md#stay).
-  - The final numeric Violation Axis slot is a Chapter Ten §7 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale measurement based on verified impact. [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) governs only the matching anti-constitutional-misconduct designation when a Chapter Ten slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
+  - The final numeric Violation Axis slot is a Chapter Ten §7 (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale measurement based on verified impact. [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) governs only the matching anti-constitutional-misconduct designation when a Chapter Ten slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
   - **Out of scope:** procedural housekeeping, routing, scheduling, monitoring, evidence preservation, or a [Stay](core_05.035_band_accountability.md#stay) — none of which settle liability, entitlement, validity, mandate, remedy, or a comparable rights-affecting disposition.
 <a id="merits-determination-a"></a>
 - **How to measure and assess**
@@ -892,7 +892,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Nine §6](core_09.010_system_alignment_certification_record_process.md#6-forum-process) (9.010 §6) (*supervisory sequence, component referral, and reliance limits during contest*);
+  - [Chapter Nine §6](core_09.005_system_alignment_certification_record_process.md#6-forum-process) (9.005 §6) (*supervisory sequence, component referral, and reliance limits during contest*);
   - [Chapter Thirteen](core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) (*transfer, certification, and interim relief*);
   - [**CF-13.420**](corpus_forum/cf_13.420_appeal_secondary_review_exhaustion_pathways.md) (*Appeal, secondary review, and exhaustion pathways*) and
   - **CF-13.465** (*Standard records, forms, and evidence artifacts*).
@@ -961,11 +961,11 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 - Canonical owner: [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
 - Downstream:
-  - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation);
+  - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation);
   - [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) (7.000 §5);
   - [Chapter Eleven §5.6 Interim holds and locks](core_11.000_standing_integration.md#56-interim-holds-and-locks) (11.000 §5.6);
-  - [**Article XIX-B** (*Contestability and Proportional Restriction Limits*)](core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits);
-  - [**Article XII-D** (*Non-Capture Safeguards*)](core_06.010_rights_part_b.md#article-xii-d-non-capture-safeguards);
+  - [**Article XIX-B** (*Contestability and Proportional Restriction Limits*)](core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits);
+  - [**Article XII-D** (*Non-Capture Safeguards*)](core_06.005_rights_part_b.md#article-xii-d-non-capture-safeguards);
   - **CF-13.410 §15** (*Interim hold on a panel member or seat holder*);
   - **CI-14.205 §2** (*Role criteria, appointment standards, and removal pathways*).
 - Read with:
@@ -1016,7 +1016,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <a id="interim-hold-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - issue a hold without the grounds in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway), or on mere belief, identity, membership of a group, dissent that does not call for harm or discriminatory treatment of others, or protected reporting (see [Chapter One §7.5 Expression and the Harm Line](core_01.005_values_principles.md#75-expression-and-the-harm-line));
+    - issue a hold without the grounds in [Chapter Thirteen §5 Interim hold on a named sentient's pathway](core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway), or on mere belief, identity, membership of a group, dissent that does not call for harm or discriminatory treatment of others, or protected reporting (see [Chapter One §7.5 Expression and the Harm Line](core_01.000_values_principles.md#75-expression-and-the-harm-line));
     - have the subject's own body, appointing authority, or control line issue it;
     - reach beyond the one named authority or into an excluded pathway;
     - continue it past its lapse date or past the single permitted extension;
@@ -1092,7 +1092,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18) (diffuse responsibility and capture); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (systemic and cumulative evaluation).
+- Downstream: Principles: [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18) (diffuse responsibility and capture); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (systemic and cumulative evaluation).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05.005_apex_accountability_leg.md#accountability),
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -1201,7 +1201,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter One §6.1](core_01.005_values_principles.md#61-correction-and-remedy) (1.005 §6.1) (*Correction and Remedy*); applied to standing effects in [Chapter Eleven §9](core_11.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (11.000 §9) (*Enforcement realism and remedy systems*).
+- Canonical owner: [Chapter One §6.1](core_01.000_values_principles.md#61-correction-and-remedy) (1.000 §6.1) (*Correction and Remedy*); applied to standing effects in [Chapter Eleven §9](core_11.000_standing_integration.md#9-enforcement-realism-and-remedy-systems) (11.000 §9) (*Enforcement realism and remedy systems*).
 - Implementation owner: [CI-11.205](corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 - Cluster component: [Accountability, contestability, and redress pathways](core_05.035_band_accountability.md#accountability-contestability-and-redress-pathways)
 - Read with:
@@ -1329,10 +1329,10 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / rights-collision read-with, including
-  - [**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*)](core_06.025_rights_part_e.md#article-xxvi-timely-retrospective-review-and-restorative-alignment) and
+  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / rights-collision read-with, including
+  - [**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*)](core_06.020_rights_part_e.md#article-xxvi-timely-retrospective-review-and-restorative-alignment) and
   - [**Chapter Thirteen §6.1**](core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1) (*Emergency measures and continuation burden*));
-  - [13.1 Core Tradeoff Principles](core_01.010_interaction_interpretation.md#131-core-tradeoff-principles) (**Proportionality**, **Necessity**, bounded emergency carve-outs read with **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*)).
+  - [13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles) (**Proportionality**, **Necessity**, bounded emergency carve-outs read with **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*)).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05.005_apex_accountability_leg.md#accountability),
   - [Emergency and Contingency](core_05.040_band_continuity.md#emergency-and-contingency-constitutional),
@@ -1383,7 +1383,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Timeliness measurement family (*Anti-delay and resolution-pathway discipline as constitutional measurement*); Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.015_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.015 §19.5).
+- Downstream: Timeliness measurement family (*Anti-delay and resolution-pathway discipline as constitutional measurement*); Principles: [Chapter One §19.5 Contingent claims, games of chance, and event-contract markets](core_01.010_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (1.010 §19.5).
 - Read with:
   - [System Capture](core_05.040_band_continuity.md#system-capture),
   - [Anti-Capture](core_05.040_band_continuity.md#anti-capture),
@@ -1446,7 +1446,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) and [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), where reporting supplies safety, truth, accountability, or material-risk evidence.
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) and [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations), where reporting supplies safety, truth, accountability, or material-risk evidence.
 - Cluster component: [the dependent cluster *Protected Reporting and Anti-Retaliation*](core_05.035_band_accountability.md#protected-reporting-and-anti-retaliation).
 - Read with:
   - [Accountability](core_05.005_apex_accountability_leg.md#accountability),
@@ -1488,7 +1488,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Chapter One §18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18), where retaliation or access interference distorts challenge and accountability pathways.
+- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18), where retaliation or access interference distorts challenge and accountability pathways.
 - Cluster component: [the dependent cluster *Protected Reporting and Anti-Retaliation*](core_05.035_band_accountability.md#protected-reporting-and-anti-retaliation).
 - Read with:
   - [Protected Reporting (Whistleblowing)](core_05.035_band_accountability.md#protected-reporting-whistleblowing),
@@ -1537,9 +1537,9 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §7 Freedom (Bounded Agency)](core_01.005_values_principles.md#7-freedom-bounded-agency) (1.005 §7); [Chapter One §7.3 Dissent and Peaceful Protest](core_01.005_values_principles.md#73-dissent-and-peaceful-protest) (1.005 §7.3) (dissent is not subversion).
-- Canonical owner: this definition states what subversion is. [Chapter Twelve §2](core_12.005_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.005 §2) (criteria 5 and 6) and [Chapter Twelve §5.1](core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.010 §5.1) apply it to misconduct designation. They do not redefine it.
-- Rights-Floor read-with: **[Article XI-D](core_06.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
+- Downstream: Principles: [Chapter One §7 Freedom (Bounded Agency)](core_01.000_values_principles.md#7-freedom-bounded-agency) (1.000 §7); [Chapter One §7.3 Dissent and Peaceful Protest](core_01.000_values_principles.md#73-dissent-and-peaceful-protest) (1.000 §7.3) (dissent is not subversion).
+- Canonical owner: this definition states what subversion is. [Chapter Twelve §2](core_12.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.000 §2) (criteria 5 and 6) and [Chapter Twelve §5.1](core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (12.005 §5.1) apply it to misconduct designation. They do not redefine it.
+- Rights-Floor read-with: **[Article XI-D](core_06.005_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
 - Read with:
   - [Coercion and Manipulation](core_05.055_band_participation.md#coercion-and-manipulation),
   - [Contestability](core_05.035_band_accountability.md#contestability),
@@ -1580,7 +1580,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 <a id="subversion-c"></a>
 - **What must hold**
   - **Primary failure:** Subversion of constitutional systems is non-compliant. It is not protected agency under [Freedom (Bounded Agency)](core_05.055_band_participation.md#freedom-bounded-agency).
-  - **Secondary failure:** Treating dissent or peaceful protest as subversion, or using the label to limit them outside [Chapter One §7.1 Limitation Discipline](core_01.005_values_principles.md#71-limitation-discipline), is also non-compliant.
+  - **Secondary failure:** Treating dissent or peaceful protest as subversion, or using the label to limit them outside [Chapter One §7.1 Limitation Discipline](core_01.000_values_principles.md#71-limitation-discipline), is also non-compliant.
 
 ---
 
@@ -1593,8 +1593,8 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 - **Joint invocation:** where governance architecture, functional independence, material control relationships, interested-party relationships, decentralization scale, market structure, or material concentration of authority is material.
 - **Scope:** where joint invocation is met, the Accountability home for how authority is organized, constrained, and separated through distributed, accountable authority structures.
-- **Owner floor:** implements [Chapter One §11 Market Structure](core_01.005_values_principles.md#11-market-structure) and constrains [System Capture](core_05.040_band_continuity.md#system-capture).
-- **Principle-layer interface:** read with [Chapter One §17.4 Aligned Self-Organization](core_01.015_stewardship_capacity_principles.md#174-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or merits authority and is not an additional definition in this group.
+- **Owner floor:** implements [Chapter One §11 Market Structure](core_01.000_values_principles.md#11-market-structure) and constrains [System Capture](core_05.040_band_continuity.md#system-capture).
+- **Principle-layer interface:** read with [Chapter One §17.4 Aligned Self-Organization](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or merits authority and is not an additional definition in this group.
 
 **Topic group members.** This group comprises:
 - [Governance](core_05.035_band_accountability.md#governance) — structures, rules, and processes by which systems are directed and held accountable.
@@ -1626,11 +1626,11 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (
   - [material stake](core_00.000_preamble.md#material-stake) scaling);
   - [Preamble §3.3 governance-layer discipline](core_00.000_preamble.md#33-governance-layers);
-  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18) (governance capture discipline).
+  - [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18) (governance capture discipline).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration); [Stewardship, Governance Discipline, and Shared-System Capacity](core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
   - [Stewardship](core_05.040_band_continuity.md#stewardship),
-  - [Chapter One §17.4 Aligned Self-Organization](core_01.015_stewardship_capacity_principles.md#174-aligned-self-organization) (1.015 §17.4),
+  - [Chapter One §17.4 Aligned Self-Organization](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization) (1.010 §17.4),
   - [Short-Horizon Governance Defect](core_05.040_band_continuity.md#short-horizon-governance-defect),
   - [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance),
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional),
@@ -1743,7 +1743,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 - Downstream:
   - [Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3);
-  - [Article XII-E](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries and post-service and prospective-role conflicts;
+  - [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries and post-service and prospective-role conflicts;
   - [Chapter Fourteen §1.2](core_14.000_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (14.000 §1.2) (*Eligibility, contested selection, and democratic minimums*) for selection-funding boundaries;
   - [Chapter Ten §3.7 Record custody and opening authority](core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7);
   - **CI-14.205 §2** (*Role criteria, appointment standards, and removal pathways*);
@@ -1775,7 +1775,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - an affected sentient whose rights or position the outcome materially changes.
 
     Interested-party status is decided matter by matter. A sentient can be interested in one matter and not in another.
-  - **Out of scope:** A general interest in the outcome shared with the public, expertise, advice, advocacy for a cause with no stake of the advocate's own, professional association, or ordinary participation does not by itself make a sentient an interested party. The stake must be material to the particular matter. Interested-party status never removes a right to participate, be heard, or contest. It governs how the party may contact the sentients deciding the matter and which seats it may hold. Those rules are stated in [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties), [Article XII-E](core_06.010_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*), and the implementation text listed above; this entry is the Chapter Five meaning only.
+  - **Out of scope:** A general interest in the outcome shared with the public, expertise, advice, advocacy for a cause with no stake of the advocate's own, professional association, or ordinary participation does not by itself make a sentient an interested party. The stake must be material to the particular matter. Interested-party status never removes a right to participate, be heard, or contest. It governs how the party may contact the sentients deciding the matter and which seats it may hold. Those rules are stated in [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties), [Article XII-E](core_06.005_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*), and the implementation text listed above; this entry is the Chapter Five meaning only.
   - **Depends on:** [Materiality](core_05.050_band_oversight.md#materiality); [Dependency](core_05.040_band_continuity.md#dependency); [Material Control Line](core_05.035_band_accountability.md#material-control-line).
 <a id="interested-party-a"></a>
 - **How to measure and assess**
@@ -2146,7 +2146,7 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 - Downstream:
   - [Preamble §5 System and Institutional Charters, Functional Independence, and Separation of Duties](core_00.000_preamble.md#5-system-and-institutional-charters-functional-independence-and-separation-of-duties);
-  - [Chapter One §18.3 Separation of Duties](core_01.015_stewardship_capacity_principles.md#183-separation-of-duties) (1.015 §18.3);
+  - [Chapter One §18.3 Separation of Duties](core_01.010_stewardship_capacity_principles.md#183-separation-of-duties) (1.010 §18.3);
   - [Chapter Eight §1 Purpose, Scope, and Owner Boundary](core_08.000_functional_independence_separation_of_duties.md#1-purpose-scope-and-owner-boundary) (8.000 §1) (*application list*) through
   - [§9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes); Chapters Nine through Fourteen process-specific acts; and
   - **CI-14.205 §6** (*seat catalog*).
@@ -2252,11 +2252,11 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §18.6 Standardization](core_01.015_stewardship_capacity_principles.md#186-standardization) (1.015 §18.6) (*the common-form counterweight*); [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.005_values_principles.md#91-productive-capacity-instrumental-good) (1.005 §9.1) (non-concentration / subsidiarity read-with); [13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality) (centralization justification).
+- Downstream: Principles: [Chapter One §18.6 Standardization](core_01.010_stewardship_capacity_principles.md#186-standardization) (1.010 §18.6) (*the common-form counterweight*); [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.000_values_principles.md#91-productive-capacity-instrumental-good) (1.000 §9.1) (non-concentration / subsidiarity read-with); [13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality) (centralization justification).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Governance](core_05.035_band_accountability.md#governance),
-  - [Chapter One §17.4 Aligned Self-Organization](core_01.015_stewardship_capacity_principles.md#174-aligned-self-organization) (1.015 §17.4),
+  - [Chapter One §17.4 Aligned Self-Organization](core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization) (1.010 §17.4),
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional),
   - [Classification-Scaled Governance](core_05.050_band_oversight.md#classification-scaled-governance),
   - [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold),
@@ -2302,7 +2302,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.015_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (1.015 §18.5) (stable, inspectable interfaces); [Chapter One §18.6 Standardization](core_01.015_stewardship_capacity_principles.md#186-standardization) (1.015 §18.6); [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.020_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
+- Downstream: Principles: [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01.010_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (1.010 §18.5) (stable, inspectable interfaces); [Chapter One §18.6 Standardization](core_01.010_stewardship_capacity_principles.md#186-standardization) (1.010 §18.6); [Article XXI: Interoperability, Portability, and Exit Integrity](core_06.015_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
 - Read with:
   - [Decentralization](core_05.035_band_accountability.md#decentralization),
   - [Necessity](core_05.035_band_accountability.md#necessity),
@@ -2355,10 +2355,10 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Accountability measurement family (*measuring market structure and contestability*); Principles:
-  - [Chapter One §11 Market Structure](core_01.005_values_principles.md#11-market-structure) (1.005 §11);
-  - [Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01.005_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) (1.005 §11.1);
-  - [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.005_values_principles.md#112-pro-competition-and-anti-domination) (1.005 §11.2);
-  - [Chapter One §11.3 Consolidation Ceiling](core_01.005_values_principles.md#113-consolidation-ceiling) (1.005 §11.3); **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (banned conduct and remedies); **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (how to set the ceiling).
+  - [Chapter One §11 Market Structure](core_01.000_values_principles.md#11-market-structure) (1.000 §11);
+  - [Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) (1.000 §11.1);
+  - [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination) (1.000 §11.2);
+  - [Chapter One §11.3 Consolidation Ceiling](core_01.000_values_principles.md#113-consolidation-ceiling) (1.000 §11.3); **CJS-5.125 §11.2 — Anti-domination conduct and remediation catalog** (banned conduct and remedies); **CJS-5.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (how to set the ceiling).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration); [Stewardship, Governance Discipline, and Shared-System Capacity](core_05.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
   - [Contestability](core_05.035_band_accountability.md#contestability),
@@ -2369,7 +2369,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
   - [Dependency](core_05.040_band_continuity.md#dependency),
   - [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency),
   - [System Capture](core_05.040_band_continuity.md#system-capture), and
-  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.015_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.015 §19.1.5).
+  - [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01.010_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) (1.010 §19.1.5).
 
 </details>
 
@@ -2405,14 +2405,14 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
     **Primary assessment:** Assess real concentration, domination, and consolidation risk, not just the formal number of entities or whether a market appears open on paper.
   - **Secondary measure:** [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold), [Contestability](core_05.035_band_accountability.md#contestability), [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency), and [Dependency](core_05.040_band_continuity.md#dependency) — co-measures that can defeat contestability even when formal market openness exists.
 
-    **Secondary assessment:** When evaluating the primary trace, apply [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold), the anti-domination rules in [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.005_values_principles.md#112-pro-competition-and-anti-domination), [Contestability](core_05.035_band_accountability.md#contestability), and [Dependency](core_05.040_band_continuity.md#dependency). Do so whenever livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depends on the arrangement.
+    **Secondary assessment:** When evaluating the primary trace, apply [Market Concentration Threshold](core_05.035_band_accountability.md#market-concentration-threshold), the anti-domination rules in [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination), [Contestability](core_05.035_band_accountability.md#contestability), and [Dependency](core_05.040_band_continuity.md#dependency). Do so whenever livelihood, agency, wellbeing, ecological integrity, interoperability, exit, or constitutional review depends on the arrangement.
   - **Tertiary measure:** [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) — where entity count, competitiveness indices, or efficiency claims substitute for substantive contestability.
 
     **Tertiary assessment:** When operators rely on measures of competitiveness or efficiency, apply [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence). Separate lasting Contestability from market openness that exists only on paper.
 <a id="market-structure-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** A market-structuring arrangement foreseeably degrades wellbeing, meaningful agency, dignity, ecological integrity, Contestability, or constitutional review. A market-structure label or formal arrangement that has no real effect in the situation being evaluated is also non-compliant.
-  - **Secondary failure:** Concentration or domination is defended only by claims about efficiency, competitiveness, emergency, security, or productive capacity without traceable constitutional outcomes; or a threshold or ceiling regime nullifies the [Chapter One §11 Market Structure](core_01.005_values_principles.md#11-market-structure) requirements.
+  - **Secondary failure:** Concentration or domination is defended only by claims about efficiency, competitiveness, emergency, security, or productive capacity without traceable constitutional outcomes; or a threshold or ceiling regime nullifies the [Chapter One §11 Market Structure](core_01.000_values_principles.md#11-market-structure) requirements.
   - **Tertiary failure:** An arrangement passes non-concentration tests on paper but fails applicable Rights-Floor protections, or proxy satisfaction is treated as decisive when [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) is reasonably observable.
 
 ---
@@ -2425,10 +2425,10 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.005_values_principles.md#91-productive-capacity-instrumental-good) (1.005 §9.1);
-  - [Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01.005_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) (1.005 §11.1) (principle-layer direction); **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting discipline);
-  - [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.005_values_principles.md#112-pro-competition-and-anti-domination) (1.005 §11.2);
-  - [Chapter One §11.3 Consolidation Ceiling](core_01.005_values_principles.md#113-consolidation-ceiling) (1.005 §11.3).
+  - [Chapter One §9.1 Productive Capacity (Instrumental Good)](core_01.000_values_principles.md#91-productive-capacity-instrumental-good) (1.000 §9.1);
+  - [Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) (1.000 §11.1) (principle-layer direction); **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting discipline);
+  - [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination) (1.000 §11.2);
+  - [Chapter One §11.3 Consolidation Ceiling](core_01.000_values_principles.md#113-consolidation-ceiling) (1.000 §11.3).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Productive Capacity](core_05.040_band_continuity.md#productive-capacity),
@@ -2449,10 +2449,10 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
   - **In scope:** The operational trigger for when material concentration in a covered domain requires heightened review, intervention, or structural remedy.
     - **Covered domains:** jurisdictional authority, capability, markets, platforms, infrastructure, labor, suppliers, data, compute, credentialing, access to capital, control of resources, and the information sphere.
     - **Adopter tuning:** Adopters may tune the threshold to context.
-    - **Principle-layer owner:** [Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01.005_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable).
-    - **Controlling principles:** The threshold remains subject to the [Chapter One §11 Market Structure](core_01.005_values_principles.md#11-market-structure) non-concentration rule, the [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.005_values_principles.md#112-pro-competition-and-anti-domination) pro-competition and anti-domination discipline, and the [Chapter One §11.3 Consolidation Ceiling](core_01.005_values_principles.md#113-consolidation-ceiling) consolidation-ceiling trigger.
+    - **Principle-layer owner:** [Chapter One §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable).
+    - **Controlling principles:** The threshold remains subject to the [Chapter One §11 Market Structure](core_01.000_values_principles.md#11-market-structure) non-concentration rule, the [Chapter One §11.2 Pro-Competition and Anti-Domination](core_01.000_values_principles.md#112-pro-competition-and-anti-domination) pro-competition and anti-domination discipline, and the [Chapter One §11.3 Consolidation Ceiling](core_01.000_values_principles.md#113-consolidation-ceiling) consolidation-ceiling trigger.
     - **Operational discipline:** **CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)**.
-    - **Rights-layer pointer:** [Article V](core_06.005_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*).
+    - **Rights-layer pointer:** [Article V](core_06.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*).
     - **Anti-nullification:** Adopter-tunable thresholds and ceilings cannot nullify the Chapter One §11 (*Market Structure*) requirements against concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity.
     - **Application:** This definition applies across substrates and jurisdictions.
   - **Out of scope:** ordinary firm size, temporary innovation lead, or lawful scale below the operational trigger for heightened review.
@@ -2478,9 +2478,9 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
     - **Understated concentration:** Apply [Proxy Divergence](core_05.050_band_oversight.md#proxy-divergence) when a regime uses measures that foreseeably understate concentration.
     - **Stress conditions:** Consider [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
     - **Heightened standards:** Apply the relevant article's higher standards regardless of the ordinary threshold when concentration materially implicates:
-      - [Article I-D](core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
-      - [Article XIII-A](core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*); or
-      - [Article XIV-A](core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
+      - [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
+      - [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*); or
+      - [Article XIV-A](core_06.010_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 <a id="market-concentration-threshold-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Under the anti-nullification rule in [CJS-5.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-111-market-concentration-threshold-setting-discipline-adopter-tunable), it is non-compliant to:
@@ -2508,7 +2508,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4 Safety (Harm Constraint)](core_01.005_values_principles.md#4-safety-harm-constraint), [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5).
+- Downstream: Principles: [4 Safety (Harm Constraint)](core_01.000_values_principles.md#4-safety-harm-constraint), [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5).
 - Read with:
   - [Materiality](core_05.050_band_oversight.md#materiality),
   - [Material Impact](core_05.050_band_oversight.md#material-impact),
@@ -2581,7 +2581,7 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety (Harm Constraint)](core_01.005_values_principles.md#4-safety-harm-constraint).
+- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety (Harm Constraint)](core_01.000_values_principles.md#4-safety-harm-constraint).
 - Read with: Wellbeing, Risk, Materiality, and Irreversible Harm.
 
 </details>
@@ -2658,7 +2658,7 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4 Safety (Harm Constraint)](core_01.005_values_principles.md#4-safety-harm-constraint), [13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality), and [20. Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+- Downstream: Principles: [4 Safety (Harm Constraint)](core_01.000_values_principles.md#4-safety-harm-constraint), [13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality), and [20. Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 - Read with: Harm, Risk, Proportionality, and Existential Risk.
 
 </details>
@@ -2697,8 +2697,8 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [4 Safety (Harm Constraint)](core_01.005_values_principles.md#4-safety-harm-constraint); [3.3 Anti-Degrading Process](core_01.005_values_principles.md#33-anti-degrading-process) (*humiliation, spectacle, and process-as-punishment floor*).
-- Owner floor: [Article XX-A](core_06.020_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*anti-cruelty floor*).
+- Upstream: Principles: [4 Safety (Harm Constraint)](core_01.000_values_principles.md#4-safety-harm-constraint); [3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process) (*humiliation, spectacle, and process-as-punishment floor*).
+- Owner floor: [Article XX-A](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*anti-cruelty floor*).
 - Cluster component: [Collective Harm Boundary, Harm, and Harassment and Bullying](core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying) cluster.
 - Read with:
   - [Harm](core_05.035_band_accountability.md#harm),
@@ -2723,14 +2723,14 @@ The following limits also apply:
   - **In scope:** Treatment that:
     - inflicts, designs, or continues suffering as an end in itself; or
     - adds gratuitous or degrading suffering beyond what [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality) allow —
-    under the [Anti-Degrading-Process Principle (§3.3)](core_01.005_values_principles.md#33-anti-degrading-process) and [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing).
+    under the [Anti-Degrading-Process Principle (§3.3)](core_01.000_values_principles.md#33-anti-degrading-process) and [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing).
     Scope is [substrate-agnostic](core_05.055_band_participation.md#substrate-class).
-  - **In scope — humiliation subtype:** Humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.005_values_principles.md#33-anti-degrading-process) is [Cruelty](core_05.035_band_accountability.md#cruelty) when verified as suffering-as-end or as gratuitous / degrading infliction. Ordinary public accountability that is unpleasant or reputationally adverse is not humiliation for its own sake, and is not Cruelty on that ground alone.
-  - **Boundary — sibling §3.3 (*Anti-Degrading Process*) characters:** Spectacle used mainly to deter, retaliatory grievance, and comparable [Chapter One §3.3 Anti-Degrading Process](core_01.005_values_principles.md#33-anti-degrading-process) degrading-process defects remain separately named under that principle. They may stack with [Cruelty](core_05.035_band_accountability.md#cruelty) when the same verified facts also meet the suffering-as-end or gratuitous / degrading test; they are not automatic Cruelty subtypes.
+  - **In scope — humiliation subtype:** Humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process) is [Cruelty](core_05.035_band_accountability.md#cruelty) when verified as suffering-as-end or as gratuitous / degrading infliction. Ordinary public accountability that is unpleasant or reputationally adverse is not humiliation for its own sake, and is not Cruelty on that ground alone.
+  - **Boundary — sibling §3.3 (*Anti-Degrading Process*) characters:** Spectacle used mainly to deter, retaliatory grievance, and comparable [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process) degrading-process defects remain separately named under that principle. They may stack with [Cruelty](core_05.035_band_accountability.md#cruelty) when the same verified facts also meet the suffering-as-end or gratuitous / degrading test; they are not automatic Cruelty subtypes.
   - **Out of scope:**
     - bare [Harm](core_05.035_band_accountability.md#harm) magnitude without suffering-as-end or gratuitous / degrading character;
     - ordinary discomfort, offense, or disagreement alone; or
-    - lawful proportionate restrictions, fair consequences, or remediation that hurt without being designed as suffering for its own sake — including ordinary public accountability that is unpleasant or reputationally adverse without humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.005_values_principles.md#33-anti-degrading-process).
+    - lawful proportionate restrictions, fair consequences, or remediation that hurt without being designed as suffering for its own sake — including ordinary public accountability that is unpleasant or reputationally adverse without humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process).
   - **Standing boundary:** When verified as conduct character on a [violation standing record](core_05.035_band_accountability.md#standing-record), [Cruelty](core_05.035_band_accountability.md#cruelty) may orient prevention, safeguards, and non-degrading remedy under [Chapter Eleven](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration). It does not assign or move the Violation Axis slot under [Violation Nature](core_05.035_band_accountability.md#violation-nature) and [Chapter Ten §4.2 Violation severity-input dimensions](core_10.000_standing_assessment.md#42-violation-severity-input-dimensions).
 <a id="cruelty-a"></a>
 - **How to measure and assess**
@@ -2738,7 +2738,7 @@ The following limits also apply:
 
     **Primary assessment:**
     - Separate [Harm](core_05.035_band_accountability.md#harm) magnitude from cruelty character.
-    - Test for suffering as an end in itself, gratuitous infliction, or degrading / humiliating design under the [Anti-Degrading-Process Principle (§3.3)](core_01.005_values_principles.md#33-anti-degrading-process) and [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing).
+    - Test for suffering as an end in itself, gratuitous infliction, or degrading / humiliating design under the [Anti-Degrading-Process Principle (§3.3)](core_01.000_values_principles.md#33-anti-degrading-process) and [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing).
     - Treat verified humiliation for its own sake as the humiliation subtype of [Cruelty](core_05.035_band_accountability.md#cruelty); do not treat ordinary reputational adversity from fair accountability as that subtype.
     - Apply [Necessity](core_05.035_band_accountability.md#necessity) and [Proportionality](core_05.035_band_accountability.md#proportionality) to any claimed justification.
     - Where animal welfare is implicated, read with [Animal Life](core_05.055_band_participation.md#animal-life) and apply [Animal Cruelty](core_05.035_band_accountability.md#animal-cruelty).
@@ -2748,8 +2748,8 @@ The following limits also apply:
   - **Primary failure:** Non-compliant practices include:
     - inflicting, designing, or continuing suffering as an end in itself;
     - adding gratuitous or degrading suffering beyond necessity and proportionality;
-    - humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.005_values_principles.md#33-anti-degrading-process);
-    - using justice, remedy, restriction, or process forms to degrade, humiliate, shame, or retaliate rather than protect, correct, restore, or prevent — contrary to the [Anti-Degrading-Process Principle (§3.3)](core_01.005_values_principles.md#33-anti-degrading-process); or
+    - humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process);
+    - using justice, remedy, restriction, or process forms to degrade, humiliate, shame, or retaliate rather than protect, correct, restore, or prevent — contrary to the [Anti-Degrading-Process Principle (§3.3)](core_01.000_values_principles.md#33-anti-degrading-process); or
     - treating a cruelty finding as if it moved the Violation Axis slot, or using an unverified cruelty label as standing input.
 
 ---
@@ -2761,8 +2761,8 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [4 Safety (Harm Constraint)](core_01.005_values_principles.md#4-safety-harm-constraint); [3.3 Anti-Degrading Process](core_01.005_values_principles.md#33-anti-degrading-process).
-- Owner floor: [Article I-A](core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for the cruelty / welfare floor pointer; [Article XX-A](core_06.020_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*anti-cruelty floor*).
+- Upstream: Principles: [4 Safety (Harm Constraint)](core_01.000_values_principles.md#4-safety-harm-constraint); [3.3 Anti-Degrading Process](core_01.000_values_principles.md#33-anti-degrading-process).
+- Owner floor: [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for the cruelty / welfare floor pointer; [Article XX-A](core_06.015_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*anti-cruelty floor*).
 - Cluster component: [Collective Harm Boundary, Harm, and Harassment and Bullying](core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying) cluster (subtype of [Cruelty](core_05.035_band_accountability.md#cruelty)).
 - Read with:
   - [Cruelty](core_05.035_band_accountability.md#cruelty),
@@ -2829,7 +2829,7 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floors: [Article XI-F](core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*non-imposition and consent in association*) and [Article XI-G](core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*collective harm boundary and hostile-environment threshold*).
+- Owner floors: [Article XI-F](core_06.005_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*non-imposition and consent in association*) and [Article XI-G](core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface) (*collective harm boundary and hostile-environment threshold*).
 - Read with: the
   - [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying);
   - [Non-Imposition (Cooperative Interaction)](core_05.055_band_participation.md#non-imposition-cooperative-interaction);
@@ -2901,7 +2901,7 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality) (harm boundary in the tradeoff stack).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality) (harm boundary in the tradeoff stack).
 - Read with: the
   - [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](core_05.035_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying),
   - [Harm](core_05.035_band_accountability.md#harm),
@@ -3120,7 +3120,7 @@ See **Anti-Segmentation Principle**.
     - knowledge governance;
     - standards stewardship;
     - reducing bounded uncertainty that matters to adjudication or regulation; or
-    - [Article VI-B](core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators, expert evidence, or bounded uncertainty under [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication).
+    - [Article VI-B](core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators, expert evidence, or bounded uncertainty under [Sentience Status Adjudication](core_05.055_band_participation.md#sentience-status-adjudication).
   - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Thirteen §2 (*Default venue and primary stakes*), except where this family's sentience-status lead role under [Chapter Thirteen §5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification) applies.
 <a id="forum-family-technical-a"></a>
 - **How to measure and assess**
@@ -3242,7 +3242,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Thirteen §4.6](core_13.000_forum.md#46-constitutional-forums) (13.000 §4.6); read with [Article XIII-B](core_06.015_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) certification hooks.
+- Owner: [Chapter Thirteen §4.6](core_13.000_forum.md#46-constitutional-forums) (13.000 §4.6); read with [Article XIII-B](core_06.010_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) certification hooks.
 
 </details>
 
@@ -3404,7 +3404,7 @@ See **Anti-Segmentation Principle**.
   - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution),
   - [Chapter Ten §5.1](core_10.000_standing_assessment.md#5-slot-grammar-and-display-labels) (10.000 §5.1),
   - [Chapter Eleven §4.2](core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2), and
-  - [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) where materially implicated.
+  - [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) where materially implicated.
 - Downstream: [Preamble §6.2 How the full chain fits together](core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*binding chain map for the Chapters Ten through Thirteen pipeline*).
 
 </details>
@@ -3448,7 +3448,7 @@ Where admission scope is met, this cluster is the shared home for the Chapter Fi
 - [Single Catastrophic Incident](core_05.035_band_accountability.md#single-catastrophic-incident);
 - [Sustained High-Gravity Pattern](core_05.035_band_accountability.md#sustained-high-gravity-pattern).
 
-**Anti-bypass.** Compartments: narrative, procedural, evidentiary, standing-effect, and incident-gravity. Separating them is non-compliant where it defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Twelve designation review, or non-substitution discipline required by Chapters Ten through Twelve. See [§15.1.1 Anti-Segmentation Principle](core_01.010_interaction_interpretation.md#1511-anti-segmentation-principle).
+**Anti-bypass.** Compartments: narrative, procedural, evidentiary, standing-effect, and incident-gravity. Separating them is non-compliant where it defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Twelve designation review, or non-substitution discipline required by Chapters Ten through Twelve. See [§15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle).
 
 See **Anti-Segmentation Principle**.
 
@@ -3463,7 +3463,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); [Chapter One §18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18) (standing signals and capture).
+- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); [Chapter One §18 Governance Under Stewardship Discipline](core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.010 §18) (standing signals and capture).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Contribution Nature](core_05.035_band_accountability.md#contribution-nature),
@@ -3510,7 +3510,7 @@ See **Anti-Segmentation Principle**.
     - reputation, popularity, prestige, brand, or social esteem;
     - [Dignity and Equal Moral Standing](core_05.055_band_participation.md#dignity-and-equal-moral-standing);
     - proof that someone is a [Stakeholder](core_05.055_band_participation.md#stakeholder);
-    - final anti-constitutional-misconduct designation for a Chapter Ten Violation Axis `s = 7`, `s = 8`, or `s = 9` record — governed by [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct); or
+    - final anti-constitutional-misconduct designation for a Chapter Ten Violation Axis `s = 7`, `s = 8`, or `s = 9` record — governed by [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct); or
     - the matching [Anti-Constitutional Trust Lock](core_11.000_standing_integration.md#55-special-locks), which attaches under Chapter Eleven.
 <a id="participant-standing-constitutional-a"></a>
 - **How to measure and assess**
@@ -3599,7 +3599,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.010 §13.2.4) (standing metrics vs demonstrable facts).
+- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4) (standing metrics vs demonstrable facts).
 - Canonical owner: [Chapter Ten — §7 unified scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (10.000 §7) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Chapter Ten — section 1](core_10.000_standing_assessment.md#1-the-three-questions) (10.000) (*three-question frame*) and [Chapter Ten §3.1 — Verified-input gate](core_10.000_standing_assessment.md#31-minimum-record-contents) (10.000 §3.1).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
@@ -3663,11 +3663,11 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
-  - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations);
-  - [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.010 §13.2.4) (Axis II classification integrity);
-  - [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
-  - [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process) (verified facts for adverse standing).
+  - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through
+  - [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations);
+  - [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4) (Axis II classification integrity);
+  - [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
+  - [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (verified facts for adverse standing).
 - Canonical owner: the
   - [Chapter Ten §7 unified proportional LEQU scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (10.000 §7) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*);
   - [Chapter Ten §3.1 Verified-input gate](core_10.000_standing_assessment.md#verified-inputs-for-standing) (10.000 §3.1);
@@ -3681,7 +3681,7 @@ See **Anti-Segmentation Principle**.
   - [Auditability](core_05.050_band_oversight.md#auditability),
   - [Contestability](core_05.035_band_accountability.md#contestability), and
   - [Adjudication and Dispute Resolution](core_05.035_band_accountability.md#adjudication-and-dispute-resolution). For a Chapter Ten Violation Axis slot 7, 8, or 9,
-  - [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) may add the corresponding anti-constitutional-misconduct designation but does not assign the numeric slot.
+  - [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) may add the corresponding anti-constitutional-misconduct designation but does not assign the numeric slot.
 
 </details>
 
@@ -3732,7 +3732,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5); [20. Integrated Application](core_01.015_stewardship_capacity_principles.md#20-integrated-application) (standing effects read through integrated interpretive framework).
+- Downstream: Principles: [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5); [20. Integrated Application](core_01.010_stewardship_capacity_principles.md#20-integrated-application) (standing effects read through integrated interpretive framework).
 - Canonical owner:
   - [Chapter Eleven §§1–8](core_11.000_standing_integration.md#1-chapter-ten-records-do-not-change) (11.000 §1) (*immutable inputs, integration, descriptors, consequences, final standing effect, restoration, enforcement, and non-substitution*); read with
   - [Chapter Ten — §2 Standing Records](core_10.000_standing_assessment.md#2-question-1--what-happened) (10.000 §2),
@@ -3757,7 +3757,7 @@ See **Anti-Segmentation Principle**.
     - It is a decision consequence, not a dignity rank, Rights-Floor measure, merged merit score, universal reputation label, or part of the standing record itself.
     - Chapter Five pointer; canonical mechanics: Chapter Ten **section 2** and Chapter Eleven **sections 1**, **4**, **5**, **6**, and **7**.
     - The Contribution Axis and Violation Axis must stay separately traceable and may not be netted, averaged, offset, or substituted for each other.
-    - Read with [Article XX-B: Restriction Floors](core_06.020_rights_part_d.md#article-xx-b-restriction-floors) when coercive or restrictive standing-linked measures are involved.
+    - Read with [Article XX-B: Restriction Floors](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) when coercive or restrictive standing-linked measures are involved.
   - **Out of scope:**
     - a [Standing Record](core_05.035_band_accountability.md#standing-record), bare accusation, [Forum Case Record](core_05.035_band_accountability.md#forum-case-record) (the case file), filing tag, temporary order, or unfinished case story; and
     - a dignity rank, Rights-Floor measure, merged merit score, or universal reputation label.
@@ -3803,7 +3803,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.010_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.010 §13.2.4) (bounded standing records vs merged labels).
+- Downstream: Principles: [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations); [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01.005_interaction_interpretation.md#1324-proxy-divergence-invalidation) (1.005 §13.2.4) (bounded standing records vs merged labels).
 - Canonical owner:
   - [Chapter Ten — §2.1 Standing records as the unit of application](core_10.000_standing_assessment.md#21-what-question-1-must-establish) (10.000 §2.1) and
   - [Chapter Ten §3 Standing record operational requirements](core_10.000_standing_assessment.md#3-standing-record-operational-requirements) (10.000 §3); read with
@@ -4094,11 +4094,11 @@ See **Anti-Segmentation Principle**.
 
 - Canonical owner: numeric slot assignment remains with the
   - [Chapter Ten §7 unified scale](core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (10.000 §7), controlled only by verified impact.
-  - [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005), especially its
-  - [Chapter Twelve §1](core_12.005_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (12.005 §1),
-  - [criteria set](core_12.005_misconduct_designation.md#2-criteria-set-for-slot-assignment),
-  - [designation analysis](core_12.005_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and
-  - [due-process safeguards](core_12.005_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment), governs only whether a Chapter Ten slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation. Legacy anchors remain unchanged.
+  - [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000), especially its
+  - [Chapter Twelve §1](core_12.000_misconduct_designation.md#1-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (12.000 §1),
+  - [criteria set](core_12.000_misconduct_designation.md#2-criteria-set-for-slot-assignment),
+  - [designation analysis](core_12.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and
+  - [due-process safeguards](core_12.000_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment), governs only whether a Chapter Ten slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation. Legacy anchors remain unchanged.
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Violation Nature](core_05.035_band_accountability.md#violation-nature),
@@ -4150,7 +4150,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twelve §2](core_12.005_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.005 §2).
+- Canonical owner: [Chapter Twelve §2](core_12.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.000 §2).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4197,7 +4197,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twelve §2](core_12.005_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.005 §2), [§3](core_12.005_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and [§5.4](core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding).
+- Canonical owner: [Chapter Twelve §2](core_12.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.000 §2), [§3](core_12.000_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity), and [§5.4](core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Unified Incident](core_05.035_band_accountability.md#unified-incident),
@@ -4255,7 +4255,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twelve §2](core_12.005_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.005 §2) (*incident shapes for designation*).
+- Canonical owner: [Chapter Twelve §2](core_12.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.000 §2) (*incident shapes for designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4300,7 +4300,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twelve §2](core_12.005_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.005 §2) (*incident shapes for designation*).
+- Canonical owner: [Chapter Twelve §2](core_12.000_misconduct_designation.md#2-criteria-set-for-slot-assignment) (12.000 §2) (*incident shapes for designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](core_05.035_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](core_05.035_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4392,7 +4392,7 @@ Where admission scope is met, this cluster is the joint-invocation home for over
 - [Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure), for non-conflation discipline with **Article XX-B** (*Restriction Floors*);
 - [Autonomous Coercion Tool](core_05.035_band_accountability.md#autonomous-coercion-tool).
 
-**Anti-bypass.** Compartments: authorization, targeting, weapons-class, autonomy, coercion, and review. Separating them is non-compliant where it satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties. See [§15.1.1 Anti-Segmentation Principle](core_01.010_interaction_interpretation.md#1511-anti-segmentation-principle).
+**Anti-bypass.** Compartments: authorization, targeting, weapons-class, autonomy, coercion, and review. Separating them is non-compliant where it satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties. See [§15.1.1 Anti-Segmentation Principle](core_01.005_interaction_interpretation.md#1511-anti-segmentation-principle).
 
 See **Anti-Segmentation Principle**.
 
@@ -4407,8 +4407,8 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13.1 Core Tradeoff Principles](core_01.010_interaction_interpretation.md#131-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [13. Constitutional Collision Resolution Process](core_01.010_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / escalation read-with **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)).
-- Owner floor: [Article XIV-B](core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*). Overt-power counterpart to the covert-power limits of [Article XIV-A](core_06.015_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*). Non-conflation: this entry does not authorize, extend, or predicate involuntary deprivation of life under **Article XX-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised); read with [Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure).
+- Downstream: Principles: [13.1 Core Tradeoff Principles](core_01.005_interaction_interpretation.md#131-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [13. Constitutional Collision Resolution Process](core_01.005_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / escalation read-with **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)).
+- Owner floor: [Article XIV-B](core_06.010_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*). Overt-power counterpart to the covert-power limits of [Article XIV-A](core_06.010_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*). Non-conflation: this entry does not authorize, extend, or predicate involuntary deprivation of life under **Article XX-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised); read with [Irreversible Deprivation Measure](core_05.035_band_accountability.md#irreversible-deprivation-measure).
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
   - [Weapons of Mass Harm](core_05.035_band_accountability.md#weapons-of-mass-harm),
@@ -4429,7 +4429,7 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:** Overt application of physical, coercive, or kinetic force by institutions, stewards, operators, or comparable actors, including:
-    - security, policing, conflict, and military-power deployment under the registers that [Article XIV-B](core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) covers; and
+    - security, policing, conflict, and military-power deployment under the registers that [Article XIV-B](core_06.010_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) covers; and
     - application to both force-users and force-affected sentients.
 
     Use of Force is constitutionally exceptional.
@@ -4459,7 +4459,7 @@ See **Anti-Segmentation Principle**.
     An emergency label fails this test if indefinite extension or routine reauthorization makes force normal in practice.
 <a id="use-of-force-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** Using force without any of the following under [Article XIV-B](core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*):
+  - **Primary failure:** Using force without any of the following under [Article XIV-B](core_06.010_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*):
     - lawful published authority;
     - a legitimate and materially serious objective;
     - proof that less-harmful means are insufficient; or
@@ -4482,8 +4482,8 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality) (irreversible harm and existential-risk index).
-- Owner floor: [Article XIV-C](core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Existential-risk interaction: [Article I-D](core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*). Systems-layer implementation: [Article XIII-A](core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*).
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality) (irreversible harm and existential-risk index).
+- Owner floor: [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Existential-risk interaction: [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*). Systems-layer implementation: [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*).
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
   - [Autonomous Coercion Tool](core_05.035_band_accountability.md#autonomous-coercion-tool),
@@ -4509,7 +4509,7 @@ See **Anti-Segmentation Principle**.
     - swarms;
     - software-mediated targeting pipelines; and
     - hybrid arrangements.
-  - **Depends on:** [Use of Force](core_05.035_band_accountability.md#use-of-force) and [Combatant / Non-Combatant Distinction](core_05.035_band_accountability.md#combatant--non-combatant-distinction) — constitutive bounds under [Article XIV-C](core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Deployment and each targeting decision must satisfy:
+  - **Depends on:** [Use of Force](core_05.035_band_accountability.md#use-of-force) and [Combatant / Non-Combatant Distinction](core_05.035_band_accountability.md#combatant--non-combatant-distinction) — constitutive bounds under [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Deployment and each targeting decision must satisfy:
     - Use of Force validity; and
     - Combatant / Non-Combatant Distinction discipline.
   - **Out of scope:**
@@ -4523,18 +4523,18 @@ See **Anti-Segmentation Principle**.
 
     - that a human's substantive judgment materially shapes each targeting or engagement decision at operational speed, rather than merely approving it afterward;
     - classification accuracy, robustness under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions), and failure-mode behavior independently satisfying [Combatant / Non-Combatant Distinction](core_05.035_band_accountability.md#combatant--non-combatant-distinction);
-    - whether capability, scale, or deployment conditions materially implicate [Existential Risk](core_05.040_band_continuity.md#existential-risk), triggering [Article I-D](core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny;
-    - whether recovery, override, and intervention pathways under [Self-Healing](core_05.040_band_continuity.md#self-healing) and [Article XIII-F](core_06.015_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*) are substantive, not nominal; and
+    - whether capability, scale, or deployment conditions materially implicate [Existential Risk](core_05.040_band_continuity.md#existential-risk), triggering [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny;
+    - whether recovery, override, and intervention pathways under [Self-Healing](core_05.040_band_continuity.md#self-healing) and [Article XIII-F](core_06.010_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*) are substantive, not nominal; and
     - outcome discipline under [Reversibility](core_05.040_band_continuity.md#reversibility) and [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) for each application.
 <a id="autonomous-lethal-system-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** Deploying or using an Autonomous Lethal System under [Article XIV-C](core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) when:
+  - **Primary failure:** Deploying or using an Autonomous Lethal System under [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) when:
     - a human's substantive judgment does not materially shape each targeting or engagement decision; or
     - operator-intent framing is used to mask the absence of that judgment.
   - **Secondary failure:** Deploying or using a system without independently proving that it satisfies [Combatant / Non-Combatant Distinction](core_05.035_band_accountability.md#combatant--non-combatant-distinction) under:
     - adversarial conditions; and
     - scaled conditions.
-  - **Tertiary failure:** Treating such a system as ordinary capability-expansion rather than an [Article I-D](core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) object when existential-risk thresholds are materially implicated.
+  - **Tertiary failure:** Treating such a system as ordinary capability-expansion rather than an [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) object when existential-risk thresholds are materially implicated.
 
 ---
 
@@ -4545,8 +4545,8 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
-- Owner floor: [Article XIV-B](core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*). Existential-risk interaction: [Article I-D](core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*). Environmental-preconditions interaction: [Article I-A](core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
+- Owner floor: [Article XIV-B](core_06.010_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*). Existential-risk interaction: [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*). Environmental-preconditions interaction: [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
   - [Use of Force](core_05.035_band_accountability.md#use-of-force),
@@ -4603,9 +4603,9 @@ See **Anti-Segmentation Principle**.
 <a id="weapons-of-mass-harm-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Possessing, transferring, deploying, or using Weapons of Mass Harm without meeting each of the following where materially implicated:
-    - [Article XIV-B](core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) force rules;
-    - [Article I-A](core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) environmental-preconditions rules; and
-    - [Article I-D](core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny.
+    - [Article XIV-B](core_06.010_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) force rules;
+    - [Article I-A](core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) environmental-preconditions rules; and
+    - [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny.
   - **Secondary failure:** Claiming that **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) does not apply based only on weapon taxonomy when the foreseeable harm scale reaches its thresholds.
 
 ---
@@ -4617,8 +4617,8 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13.1.3 Proportionality](core_01.010_interaction_interpretation.md#1313-proportionality); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5) (combatant-status doubt and non-combatant protection).
-- Owner floor: [Article XIV-B](core_06.015_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*); interacts with [Article XIV-C](core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) on autonomous-targeting compliance.
+- Downstream: Principles: [13.1.3 Proportionality](core_01.005_interaction_interpretation.md#1313-proportionality); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01.005_interaction_interpretation.md#1315-rights-collision-decision-test) (1.005 §13.1.5) (combatant-status doubt and non-combatant protection).
+- Owner floor: [Article XIV-B](core_06.010_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*); interacts with [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) on autonomous-targeting compliance.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
   - [Use of Force](core_05.035_band_accountability.md#use-of-force),
@@ -4668,7 +4668,7 @@ See **Anti-Segmentation Principle**.
     - whether the classification uses [Protected Characteristics](core_05.055_band_participation.md#protected-characteristics) or material proxies under [Protected Characteristic Proxying and Disparate Impact](core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact); and
     - whether doubt resolves toward non-combatant status, consistent with [Proportionality](core_05.035_band_accountability.md#proportionality) and [Substantive Fairness](core_05.055_band_participation.md#substantive-fairness).
 
-    For autonomous systems, evaluate under [Article XIV-C](core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*):
+    For autonomous systems, evaluate under [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*):
     - classification accuracy; and
     - failure modes under [Adversarial, Scaled, and Exploited Conditions](core_05.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 <a id="combatant-non-combatant-distinction-constitutional-c"></a>
@@ -4679,7 +4679,7 @@ See **Anti-Segmentation Principle**.
     - targeting based on protected characteristics or material proxies;
     - convenient reclassifications that sweep protected populations into combatant status; or
     - demographic-group, protected-characteristic, or formal class assignment used as combatant status without individual conduct at the time of the force decision.
-  - **Secondary failure:** Autonomous-system classification whose accuracy or failure behavior does not independently satisfy this distinction under [Article XIV-C](core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) when tested under:
+  - **Secondary failure:** Autonomous-system classification whose accuracy or failure behavior does not independently satisfy this distinction under [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) when tested under:
     - adversarial conditions; and
     - scaled conditions.
 
@@ -4692,8 +4692,8 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [14. Prohibition on Absolute Override](core_01.010_interaction_interpretation.md#14-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with **Article XX-B** (*Restriction Floors*)).
-- Owner floor: [Article XX-B](core_06.020_rights_part_d.md#article-xx-b-restriction-floors) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: the least-restrictive and time-bounded floor in the same Article (durable-containment discipline); [Article XXVII](core_06.025_rights_part_e.md#article-xxvii-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*) non-entrenchment; [Article XXVIII](core_06.025_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) transition governance and "no durable exception authority" rule.
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [14. Prohibition on Absolute Override](core_01.005_interaction_interpretation.md#14-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with **Article XX-B** (*Restriction Floors*)).
+- Owner floor: [Article XX-B](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: the least-restrictive and time-bounded floor in the same Article (durable-containment discipline); [Article XXVII](core_06.020_rights_part_e.md#article-xxvii-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*) non-entrenchment; [Article XXVIII](core_06.020_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) transition governance and "no durable exception authority" rule.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
   - [Reversibility](core_05.040_band_continuity.md#reversibility),
@@ -4724,8 +4724,8 @@ See **Anti-Segmentation Principle**.
     - [Reversibility](core_05.040_band_continuity.md#reversibility); and
     - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation).
   - **Out of scope:**
-    - durable but reversible containment under [Article XX-B](core_06.020_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*), subject to its duration-limit, review-cadence, and restoration discipline;
-    - [Voluntary Discontinuation](core_05.040_band_continuity.md#voluntary-discontinuation) (the sentient's own freely-formed decision under [Article VII-D](core_06.010_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Voluntary Discontinuation of One's Own Existence*)); and
+    - durable but reversible containment under [Article XX-B](core_06.015_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*), subject to its duration-limit, review-cadence, and restoration discipline;
+    - [Voluntary Discontinuation](core_05.040_band_continuity.md#voluntary-discontinuation) (the sentient's own freely-formed decision under [Article VII-D](core_06.005_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Voluntary Discontinuation of One's Own Existence*)); and
     - overt [Use of Force](core_05.035_band_accountability.md#use-of-force), [Weapons of Mass Harm](core_05.035_band_accountability.md#weapons-of-mass-harm), and [Autonomous Lethal System](core_05.035_band_accountability.md#autonomous-lethal-system) / [Autonomous Coercion Tool](core_05.035_band_accountability.md#autonomous-coercion-tool) operation governed by Articles XIV-B / XIV-C under their own owner-floor discipline even where effects are irreversible, without read-across authorizing a deprivation measure.
 <a id="irreversible-deprivation-measure-measurements"></a>
 <a id="irreversible-deprivation-measure-constitutional-a"></a>
@@ -4776,8 +4776,8 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (scaled / adversarial deployment scrutiny).
-- Owner floor: [Article XIV-C](core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XIII-A](core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and *[corpus_systems.md](corpus_systems.md)*, CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling classification.
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Nine §3 Whole-System Certification Evaluation](core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.000 §3) through [§5 Rights-Floor and Domain Evaluations](core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (scaled / adversarial deployment scrutiny).
+- Owner floor: [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and *[corpus_systems.md](corpus_systems.md)*, CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling classification.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
   - [Autonomous Lethal System](core_05.035_band_accountability.md#autonomous-lethal-system),
@@ -4807,7 +4807,7 @@ See **Anti-Segmentation Principle**.
     - infliction of psychological trauma, acute stress, or chronic psychological destabilization.
 
     Substrate-agnostic, covering both non-lethal and lethal coercive effects.
-  - **Depends on:** [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion), [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency), and [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) — constitutive bounds under [Article XIV-C](core_06.015_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Coercive scope must not defeat:
+  - **Depends on:** [Sentience Non-Exclusion](core_05.055_band_participation.md#sentience-non-exclusion), [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency), and [Trustworthiness](core_05.040_band_continuity.md#trustworthiness) — constitutive bounds under [Article XIV-C](core_06.010_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Coercive scope must not defeat:
     - substrate-agnostic protection;
     - agency floors; or
     - justified-reliance and non-arbitrary conduct under [Trustworthiness](core_05.040_band_continuity.md#trustworthiness).

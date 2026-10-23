@@ -839,7 +839,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints), 그리고 [§20 통합적용](../../core_01.015_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§5 진실](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints), 그리고 [§20 통합적용](../../core_01.010_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

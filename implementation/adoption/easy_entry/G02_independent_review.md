@@ -37,7 +37,7 @@ See: [Chapter Ten §2.1](../../../core_10.000_standing_assessment.md#21-silence-
 - **Today:** “Read the corpus first” is the next step.
 - **With this Constitution:** Complexity and specialist-only surfaces must not be the way the path is closed.
 
-See: [Article XXIII](../../../core_06.020_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility).
+See: [Article XXIII](../../../core_06.015_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility).
 
 ## What to open next
 
@@ -50,7 +50,7 @@ See: [Article XXIII](../../../core_06.020_rights_part_d.md#article-xxiii-compreh
 ## What this will not pretend to give you
 
 - A promise that every complaint wins, or that the other side is always wrong.
-- A markdown working group that calls itself independent review ([Chapter One §17.4](../../../core_01.015_stewardship_capacity_principles.md#174-aligned-self-organization)).
+- A markdown working group that calls itself independent review ([Chapter One §17.4](../../../core_01.010_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Eighteen §4](../../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further

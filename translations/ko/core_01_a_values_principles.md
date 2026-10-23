@@ -798,7 +798,7 @@ flowchart TB
 - [**중대성**](../../core_05.050_band_oversight.md#materiality)은 얼마나 보여주고 설명해야 하는지 정한다. 시스템에 의존하는 지각 있는 존재의 이해관계가 클수록 시스템은 더 많이 공개하고 정당화해야 한다.
 - [**신뢰 훼손과 오도하는 의존**](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance)은 시스템이 헌법에 어긋나게 오도하는 방식으로 의존을 만들고 유지하거나 점수화할 때 나타나는 실패 유형을 가리킨다.
 
-억압, 기만, 숨겨진 위험 전가 또는 유사한 수단으로 의존을 만들거나 유지하면 신뢰는 무너진다. 여기에는 지각 있는 존재가 시스템 위험을 탐지하고 다툴 능력을 실질적으로 약화하는 행위가 모두 포함된다. [**시스템 정렬 인증**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) 절차는 [제8장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)에 따라 시스템은 신뢰에 관한 주장이 타당함을 입증한다. 인증은 운영자의 주장에만 의존해서는 안 되며, 이의제기 가능한 기록을 바탕으로 시스템의 실제 행동이 표현 내용과 일치하는지 검증해야 한다.
+억압, 기만, 숨겨진 위험 전가 또는 유사한 수단으로 의존을 만들거나 유지하면 신뢰는 무너진다. 여기에는 지각 있는 존재가 시스템 위험을 탐지하고 다툴 능력을 실질적으로 약화하는 행위가 모두 포함된다. [**시스템 정렬 인증**](core_07_a_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation) 절차는 [제8장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)에 따라 시스템은 신뢰에 관한 주장이 타당함을 입증한다. 인증은 운영자의 주장에만 의존해서는 안 되며, 이의제기 가능한 기록을 바탕으로 시스템의 실제 행동이 표현 내용과 일치하는지 검증해야 한다.
 
 신뢰는 시스템이 실패했을 때 무엇을 하는지에도 달려 있다. 신뢰할 수 있는 시스템은 자신의 잘못을 바로잡는다. [§6.1 수정과 구제](#61-correction-and-remedy)는 수정을 사후 처리로 두지 않고 신뢰의 일부로 삼는다.
 
@@ -1475,7 +1475,7 @@ flowchart TB
 - 함께 읽기: [헌법적 사중 구조](core_00_preamble.md#constitutional-tetrad) — 집중이나 지배가 발언권, 감시, 답변 책임 또는 시의적절한 시정을 무력화하는 경우의 참여, 감독, 책무성, 적시성; [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 범위 조정(특히 [§11.2 경쟁 촉진과 지배 방지](#112-경쟁-촉진과-지배-방지)).
 - 함께 읽기: [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **연속성** 목표(이의를 제기할 수 있고 지속 가능한 생산 조건), **번영** 목표(생계, 행위 주체성, 혁신 경로에 대한 공정한 접근).
 - 상위 근거: 원칙: [§9 공유 시스템 역량](#9-공유-시스템-역량) — 집중이나 지배가 생산 역량 또는 효율성을 공허하게 만들면 그에 관한 주장은 성립하지 않습니다; [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-수탁-책무-규율-아래의-거버넌스).
-- 하위 연결: [제11장 §5](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)(집중 기반 전복); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차)([§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-대리-지표-편차에-따른-무효화)).
+- 하위 연결: [제11장 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)(집중 기반 전복); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차)([§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-대리-지표-편차에-따른-무효화)).
 - 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**([§11.1](#111-시장-집중-임계치-장치도입자가-조정-가능)과 [§11.4](#114-자원-및-의존성-집중도입자가-조정-가능)의 적용 규칙); **CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록**([§11.2](#112-경쟁-촉진과-지배-방지)의 금지 행위와 구제책); **CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)**([§11.3.2](#1132-통합-상한-장치도입자가-조정-가능)의 상한 설정 방법).
 - 하위 연결: 자원 배분, 공정한 보상, 집단 조직, 상호운용성, 퇴출, 포획 방지 검토에 관한 권리의 범위를 형성합니다. 특히 [제III-C조: 노동 및 경제적 최저선](core_06_rights_part_a.md#제-iii-c조-노동과-경제-바닥), [제V조: 자원 배분, 의존성, 생태계 자금 조달](core_06_rights_part_a.md#제-v조-자원-배분-의존-생태계-자금), [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#제xxi조-상호운용성-이동성-탈퇴의-완전성)를 참조하십시오.
 - 하위 절(읽기 순서): [§11.1 시장 집중 임계치 장치(도입자 조정 가능)](#111-시장-집중-임계치-장치도입자가-조정-가능) · [§11.1.1 집중 임계치 발동 기준(도입자 조정 가능)](#1111-집중-임계치-발동-기준도입자가-조정-가능) · [§11.2 경쟁 촉진과 지배 방지](#112-경쟁-촉진과-지배-방지) · [§11.3 통합 상한](#113-통합-상한) · [§11.4 자원 및 의존성 집중(도입자 조정 가능)](#114-자원-및-의존성-집중도입자가-조정-가능).
@@ -1521,7 +1521,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§11 시장 구조](#11-시장-구조); [시장 집중 임계치](../../core_05.035_band_accountability.md#market-concentration-threshold).
-- 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**(효력 있는 임계치 설정 규칙); [§11.2 경쟁 촉진과 지배 방지](#112-경쟁-촉진과-지배-방지); [§11.3 통합 상한](#113-통합-상한); [CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)([§11.3.2](#1132-통합-상한-장치도입자가-조정-가능)의 효력 있는 상한 설정 규칙); [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [제11장 §5.1 집중 기반 전복](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하위 연결: **CJS-3.11.1 — 시장 집중 임계치 설정 규율(도입자가 조정 가능)**(효력 있는 임계치 설정 규칙); [§11.2 경쟁 촉진과 지배 방지](#112-경쟁-촉진과-지배-방지); [§11.3 통합 상한](#113-통합-상한); [CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-113-consolidation-ceiling-setting-discipline-adopter-tunable)([§11.3.2](#1132-통합-상한-장치도입자가-조정-가능)의 효력 있는 상한 설정 규칙); [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [제11장 §5.1 집중 기반 전복](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - 관리 안내문(효력 없음): 다음 단계 카드: [시장 구조](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - 하위 절(읽기 순서): [§11.1.1 집중 임계치 발동 기준(도입자가 조정 가능)](#1111-집중-임계치-발동-기준도입자가-조정-가능).
 
@@ -1544,7 +1544,7 @@ flowchart TB
 
 - **하는 일:** [§11 시장 구조](#11-시장-구조)의 최저선에 대한 원칙 차원의 임계치 방향을 제시합니다.
 - **하지 않는 일:** 검증된 피해의 심각성을 판단하거나 위법 행위 지정을 내리지 않습니다.
-- **집중이 이 헌법을 훼손하는 데 이용되는 경우:** 그 위법 행위는 [제11장 §5.1 집중 기반 전복](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)에 따라 판단합니다.
+- **집중이 이 헌법을 훼손하는 데 이용되는 경우:** 그 위법 행위는 [제11장 §5.1 집중 기반 전복](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)에 따라 판단합니다.
 - **최저선을 넘는 집중을 만들거나 유지하거나 이용하는 경우:** 위법 행위 지정 검토를 위해 제11장으로 넘길 수 있지만, 두 단계 절차를 거쳐야 합니다. 먼저 [제9장 §4 질문 2 — 얼마나 좋거나 나빴는가?](core_08_standing_assessment.md#4-question-2--how-good-or-bad-was-it)에서 검증된 피해를 이미 가장 심각한 세 단계 중 하나로 평가했어야 합니다. 그다음 제11장에서 그 집중이 기준 3(보호를 되돌리는 우회), 기준 4(권리 최저선 보호의 훼손 또는 이의 제기의 차단), 기준 6(헌법 절차가 실제로 이용 불가능해짐)에 해당하는지 확인합니다.
 
 **헌법상 최저선:**
@@ -1601,7 +1601,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§11 시장 구조](#11-시장-구조); [시장 구조](../../core_05.035_band_accountability.md#market-structure).
-- 하위 연결: **CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록**(효력 있는 행위 유형과 구제책); [§11.3 통합 상한](#113-통합-상한); [제11장 §5](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하위 연결: **CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록**(효력 있는 행위 유형과 구제책); [§11.3 통합 상한](#113-통합-상한); [제11장 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 - 함께 읽기: [제III-C조: 노동 및 경제적 최저선](core_06_rights_part_a.md#제-iii-c조-노동과-경제-바닥)(노동 이동성 권리 최저선); [제XXI조: 상호운용성, 이동성, 이동, 피난, 퇴출의 온전성](core_06_rights_part_d.md#제xxi조-상호운용성-이동성-탈퇴의-완전성); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차)([필요성](../../core_05.035_band_accountability.md#necessity), [비례성](../../core_05.035_band_accountability.md#proportionality), [§13.2.4 대리 지표 괴리 무효화](core_01_b_interaction_interpretation.md#1324-대리-지표-편차에-따른-무효화)).
 - 하위 절(읽기 순서): [§11.2.1 경쟁 촉진 의무(해야 할 일)](#1121-경쟁-촉진-의무해야-할-일) · [§11.2.2 지배 방지 금지(해서는 안 될 일)](#1122-지배-방지-금지해서는-안-될-일) · [§11.2.3 구제책](#1123-구제책).
 
@@ -1852,7 +1852,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§11.3 통합 상한](#113-통합-상한); [§11.3.1 통합 위험(고착 전 저해)](#1131-통합-위험고착-전-저해).
-- 하위 연결: **CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)**(효력 있는 상한 설정 규칙); [CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)(상한 위반에 대한 구제 경로); [제11장 §5](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- 하위 연결: **CJS-3.11.3 — 통합 상한 설정 규율(도입자가 조정 가능)**(효력 있는 상한 설정 규칙); [CJS-3.11.2 — 지배 방지 행위 및 시정 조치 목록](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)(상한 위반에 대한 구제 경로); [제11장 §5](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
 
 </details>
 
@@ -1979,7 +1979,7 @@ flowchart TB
 
 상세한 평가 요소와 인증 기록은 다음 문서가 담당합니다.
 - **[제8장 §3 전체 시스템 인증 평가](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[제8장 §6 시스템 인증 기록](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record)**;
+- **[제8장 §6 시스템 인증 기록](../../core_09.005_system_alignment_certification_record_process.md#8-system-certification-record)**;
 - **[corpus_systems.md](../../corpus_systems.md), CS-3 — 시스템 분류 및 처리**.
 
 제8장의 절차는 다음과 같습니다.

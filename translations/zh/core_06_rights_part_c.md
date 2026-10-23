@@ -117,7 +117,7 @@ flowchart TB
 
 两项保障共同维护此项权利：认证使系统值得信任，有感知者的权利则使系统保持诚实。
 
-**认证从系统一侧建立信任：**当重要系统实际影响有感知者对其依赖的方式时，适用[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第八章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。该认证核验有感知者能否依赖：
+**认证从系统一侧建立信任：**当重要系统实际影响有感知者对其依赖的方式时，适用[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)与[第八章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)。该认证核验有感知者能否依赖：
 
 - 系统所称的功能；
 - 系统的局限与风险；
@@ -137,7 +137,7 @@ flowchart TB
 *相邻条文：*
 
 - **适用情形：**系统行为实质性地控制或维系**第六章**权利底线时——包括**第三条 A 款**（*生存*）规定的生存必需事项。
-- **配合阅读：**[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)和[第八章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)——不得以认证取代此处规定的底线。
+- **配合阅读：**[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)和[第八章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)——不得以认证取代此处规定的底线。
 
 <a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
 
@@ -969,7 +969,7 @@ flowchart TB
 | **2. 属性** | *可重建性*的含义：外部人员能够重建并核查系统在重要时间、状态与情境中所做之事 | [可审计性](core_05_band_oversight.md#可审计性)（第五章） | 不是权利底线。不是审计的执行方法或时间安排。 |
 | **3. 流程** | 如何以及何时跨系统、机构和论坛进行审计 | [CJS-3.3](../../corpus_joint_structure/cjs_05.115_audit_process.md)（*审计流程归属处*）。运营者附件：[CJS-3.4](../../corpus_joint_structure/cjs_05.110_oversight_operations.md#cjs-34-audit-process-output-disclosure)（访问层级）、[CJS-3.5](../../corpus_joint_structure/cjs_05.110_oversight_operations.md)（主张核查） | 不是系统一致性认证。不是第 1–2 层的替代品。 |
 
-**第九章不是第四层。**[系统一致性认证](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)是一项由论坛监督并**使用**此堆栈的大型流程。它必须满足第 1–2 层。分类记录审计、数据类型记录审计、主张核验和持续监测等同类模式也使用这一堆栈；它们都不构成新的归属处。
+**第九章不是第四层。**[系统一致性认证](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)是一项由论坛监督并**使用**此堆栈的大型流程。它必须满足第 1–2 层。分类记录审计、数据类型记录审计、主张核验和持续监测等同类模式也使用这一堆栈；它们都不构成新的归属处。
 
 **已通过的实施文本适用，但不取代底线。**CS、CI、CF 以及 CJS-3.3（*监督：可审计性与可重建性条款*）至 CJS-3.5（*监督：独立核验与主张完整性条款*）附件，规定如何在特定领域执行第 3 层。它们必须满足第 1–2 层。期限、保密和地方政策均属于较低层级的限制。
 
@@ -1014,7 +1014,7 @@ flowchart TB
 - **配合阅读：**
   - 当认识论记录和可争议性具有实质影响时，参见**第十五条**（*信息圈完整性*）；
   - 关于审计所支持但不能取代的质疑权，参见**第十三条 A 款**（*可靠性与可信赖性基线*）；
-  - 当一致性证据必须保持独立可核验时，参见[第九章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)与[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)。
+  - 当一致性证据必须保持独立可核验时，参见[第九章](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)与[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)。
 - **核验机制：****第二至第四章**提供定义完整性、负担分配、可观察性和核验可及性，由本条在权利底线层面落实。
 - **分类：**义务随[分类分级治理](core_05_band_oversight.md#按分类分级的治理)和**[corpus_systems.md](../../corpus_systems.md) 中 CS-3——系统分类与处理**分级；类别尚不确定时，应按最高可能类别治理，直至问题解决。
 

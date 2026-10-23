@@ -11,7 +11,7 @@
 
 > 本文件是[英语第十章，A 部分](../../core_12_a_misconduct_designation.md)的**读者语言试点**。**不是**感知者宪法的约束性部分。**不是**第二部宪法。**不是**发送版。**钉住** `SC-Corpus-2026.08.09`。若本译文与英语原文看似不一致，以编号文件 [`core_10_a_misconduct_designation.md`](../../core_12_a_misconduct_designation.md) 为准。阅读顺序与版本元数据保存在 [README.md](../../README.md)。方法与用语表：[translations/zh/README.md](README.md)。
 >
-> 本文件包含**第十章，A 部分** — 指定决定框架、标准集、违规轴 `s = 7–9` 指定附着、正当程序保障、救济、预防锁定，以及自愿公开问责表达。**B 部分** — 具名模式应用与标准路由 — 在 [`core_10_b_misconduct_pattern_applications.md`](../../core_12.010_misconduct_pattern_applications.md)。
+> 本文件包含**第十章，A 部分** — 指定决定框架、标准集、违规轴 `s = 7–9` 指定附着、正当程序保障、救济、预防锁定，以及自愿公开问责表达。**B 部分** — 具名模式应用与标准路由 — 在 [`core_10_b_misconduct_pattern_applications.md`](../../core_12.005_misconduct_pattern_applications.md)。
 >
 > - **宪法主责者（与 B 部分共同）：** 对违规轴 `s = 7`、`s = 8` 或 `s = 9` 认定的最终反宪法不当行为指定。A 部分主责指定决定模型；B 部分把具名模式路由进该模型，而不添加标准。
 > - **测量边界：** 只有第八章在其统一比例 LEQU 标尺下指派数字影响槽位。本章**不**取代或改变该项测量。
@@ -20,13 +20,13 @@
 > **s = 7、8 或 9** 的反宪法不当行为是规模上的**四元俘获** — 与[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)下的[延续宗旨](core_00_preamble.md#continuity)一并阅读。变更路径有效性交互续见于[第十三至十五章](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)；正义约束仍在[第六章 D 部分](core_06_rights_part_d.md)。
 >
 > **上游：** 第八章轨迹测量；第九章指定指针。
-> **下游：** [B 部分](../../core_12.010_misconduct_pattern_applications.md)（*模式应用*）；最终指定后的第九章信任锁定与轨迹效果整合；第十一章评议所路由；第十二章治理正当性后果。
+> **下游：** [B 部分](../../core_12.005_misconduct_pattern_applications.md)（*模式应用*）；最终指定后的第九章信任锁定与轨迹效果整合；第十一章评议所路由；第十二章治理正当性后果。
 
 
 >
 > **上一篇（本语种）：** [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
 >
-> **下一篇（本语种）：** [core_10_b_misconduct_pattern_applications.md](../../core_12.010_misconduct_pattern_applications.md)
+> **下一篇（本语种）：** [core_10_b_misconduct_pattern_applications.md](../../core_12.005_misconduct_pattern_applications.md)
 > **阅读弧线：** §1 决定框架 → §2 标准集 → §3 指定附着 → §4 正当程序 → §4.1 救济/纠正 → §4.2 预防锁定 → §4.3 自愿表达
 </details>
 
@@ -70,7 +70,7 @@
 
 - 上游：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*问题 1 与问题 2；经核实记录与轨迹测量*）。
 - 上游指针：[第九章 §2](core_09_standing_integration.md#2-integration-record-and-decision-order) 把合格的违规轴槽位 7–9 认定路由到此处，仅供指定。
-- 本文件：对违规轴 `s` = 7–9 的最终反宪法不当行为指定；指定标准；正当程序保障；第十三至十五章边界。具名模式路由续见于 [B 部分](../../core_12.010_misconduct_pattern_applications.md)。
+- 本文件：对违规轴 `s` = 7–9 的最终反宪法不当行为指定；指定标准；正当程序保障；第十三至十五章边界。具名模式路由续见于 [B 部分](../../core_12.005_misconduct_pattern_applications.md)。
 - 下游：[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)（*最终指定后的信任锁定与轨迹效果整合*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所路由与认证*）；[第十二章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)（*治理正当性后果*）。
 - 一并阅读：[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[第十三至十五章](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)（*变更路径行为可能牵涉标准 1–4*）。
 
@@ -78,7 +78,7 @@
 
 <br>
 
-第十章，**A 部分**，是**对违规轴 s = 7、8 与 9 认定的最终反宪法不当行为指定、指定标准、正当程序保障，以及第十三至十五章指定边界**的宪法主责者。具名模式应用在 **[B 部分](../../core_12.010_misconduct_pattern_applications.md)**。
+第十章，**A 部分**，是**对违规轴 s = 7、8 与 9 认定的最终反宪法不当行为指定、指定标准、正当程序保障，以及第十三至十五章指定边界**的宪法主责者。具名模式应用在 **[B 部分](../../core_12.005_misconduct_pattern_applications.md)**。
 
 本章仅在经核实违规已经占据违规轴 `s` = 7、8 或 9、且反宪法不当行为被实质指控时使用。它只决定匹配指定是否附着；它不创造单独的影响标尺、不把认定在槽位之间移动，也不取代第八章测量或第九章轨迹整合。
 *用直白的话说：在[延续宗旨](core_00_preamble.md#continuity)下，本章决定一项已经测入最高影响槽位的违规，是否也构成规模上的**四元俘获**。它不选择槽位。*
@@ -96,7 +96,7 @@
 - 上游指针：[第九章 §2](core_09_standing_integration.md#2-integration-record-and-decision-order) 把合格的违规轴槽位 7–9 认定路由到此处，仅供指定。
 - 下游：[§2](#2-criteria-set-for-slot-assignment)（*指定标准集*）；[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9 指定*）。
 - 保障与纪律：[§4](#4-due-process-safeguards-for-slot-assignment)（*正当程序保障、救济与预防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救济与纠正（反宪法）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
-- 模式应用：[§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*具名模式路由进同一指定标准*）。
+- 模式应用：[§5](../../core_12.005_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*具名模式路由进同一指定标准*）。
 - 变更路径边界：[§1](#1-cross-chapter-discipline)（*第十三至十五章边界*）。
 - 一并阅读：[第十三至十五章](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)，凡**退步性欺骗**与变更路径行为可能牵涉**标准 1–4**之处。
 - 四元腿：**参与**、**监督**、**问责**、**及时性**（规模上的四元俘获）。首要宗旨：**延续**（首要）、**繁盛**。[实质利害](core_00_preamble.md#material-stake)缩放适用于保障与严重性。
@@ -149,7 +149,7 @@
 - 下游指定决定：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)。
 - 下游保障与纪律：[§4](#4-due-process-safeguards-for-slot-assignment)。
 - 本节：指定标准集；统一事件规则；对已治愈的标准 1–4 变更或记录错误的**善意起草例外**。
-- 下游模式应用与标准路由：[§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)，包括 [§5.1](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)、[§5.2](../../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)、[§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)、[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)、[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)、[§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)、[§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)、[§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)、[§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)、[§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) 与 [§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)。
+- 下游模式应用与标准路由：[§5](../../core_12.005_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)，包括 [§5.1](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)、[§5.2](../../core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)、[§5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)、[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)、[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)、[§5.6](../../core_12.005_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)、[§5.7](../../core_12.005_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)、[§5.8](../../core_12.005_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)、[§5.9](../../core_12.005_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)、[§5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) 与 [§5.11](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)。
 - 一并阅读：[第二至四章](core_02_definition_structure.md)，用于与**标准 1–4**挂钩的记录、保管与核验期望；[§1](#1-cross-chapter-discipline)（*第十三至十五章边界*）。
 
 </details>
@@ -215,7 +215,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§2](#2-criteria-set-for-slot-assignment)（*标准集*）。
-- 标准交互：[§5.1](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)；[§5.2](../../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)；[§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)；[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)；[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)；[§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)；[§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)；[§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)；[§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)；[§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)；[§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)。
+- 标准交互：[§5.1](../../core_12.005_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction)；[§5.2](../../core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms)；[§5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)；[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)；[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)；[§5.6](../../core_12.005_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)；[§5.7](../../core_12.005_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)；[§5.8](../../core_12.005_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)；[§5.9](../../core_12.005_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)；[§5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)；[§5.11](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)。
 - 下游：[§4](#4-due-process-safeguards-for-slot-assignment)（*正当程序保障、救济与预防*）、[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救济与纠正（反宪法）*）、[§4.2](#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*），以及 [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
 - 下游评议所：[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) [§2](core_11_forum.md#2-default-venue-and-primary-stakes) 在最终第十章指定为首要利害之处给出廉正默认牵头。[第十一章 §5](core_11_forum.md#5-escalation-and-certification) 覆盖最终指定的评议所认证与独立审查。
 - 一并阅读：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) — 第八章的统一比例 LEQU 标尺供给固定影响槽位，而本节只供给指定；[§1](#1-cross-chapter-discipline)（*第十三至十五章边界*）。
@@ -271,7 +271,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9 指定*）；[§2](#2-criteria-set-for-slot-assignment)（*标准集*），包括**善意起草例外**。
-- 模式应用：[§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*对该区灌水*）；[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域灌水*）；[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)（*不法或违宪命令行为*）；[§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)（*奖赏、保护或正常化反宪法行为*）；[§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)（*执行拒绝、压制或不追诉行为*）；[§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)（*基础设施拒绝、毁坏或依赖切断行为*）；[§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*评议所回避失败与偏私合议参与*）；[§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)（*阻碍问责*）。
+- 模式应用：[§5.3](../../core_12.005_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*对该区灌水*）；[§5.4](../../core_12.005_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域灌水*）；[§5.5](../../core_12.005_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[§5.6](../../core_12.005_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)（*不法或违宪命令行为*）；[§5.7](../../core_12.005_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)（*奖赏、保护或正常化反宪法行为*）；[§5.8](../../core_12.005_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)（*执行拒绝、压制或不追诉行为*）；[§5.9](../../core_12.005_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)（*基础设施拒绝、毁坏或依赖切断行为*）；[§5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*评议所回避失败与偏私合议参与*）；[§5.11](../../core_12.005_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)（*阻碍问责*）。
 - 下游：[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救济与纠正（反宪法）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
 - 评议所纪律：[第十一章 §2](core_11_forum.md#2-default-venue-and-primary-stakes) 至 [§5](core_11_forum.md#5-escalation-and-certification) 覆盖默认廉正牵头、正当程序的评议所族系适用、移送与认证。把**第 4 节**与**第六章**中的 **Article XXIV**（《冲突解决、升级与紧急相称性》）一并阅读。
 - 一并阅读：[Article XXIV-A：正义目的与范围](core_06_rights_part_d.md)，用于审查与公布保障；[第二至四章](core_02_definition_structure.md)公布追溯标准；[第九章 §4](core_09_standing_integration.md#4-violation-correction-and-prevention)（*违规、纠正与预防*），用于本节所专门化的一般救济 → 锁定 → 表达语法。
@@ -407,7 +407,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9 指定*）；[§4](#4-due-process-safeguards-for-slot-assignment)（*正当程序保障、救济与预防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救济与纠正（反宪法）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*）。
-- 下游：[§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*模式应用与标准路由*）。
+- 下游：[§5](../../core_12.005_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*模式应用与标准路由*）。
 - 一并阅读：[第九章 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）；[Article XXIV-B](core_06_rights_part_d.md)（*联合要求*）；[Article XXV-B](core_06_rights_part_d.md)（*权利碰撞程序与修复性对齐*）。
 
 </details>
@@ -428,6 +428,6 @@
 
 **上一文件（本语种）：** [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
 
-**下一文件（本语种）：** [core_10_b_misconduct_pattern_applications.md](../../core_12.010_misconduct_pattern_applications.md)
+**下一文件（本语种）：** [core_10_b_misconduct_pattern_applications.md](../../core_12.005_misconduct_pattern_applications.md)
 
 **有约束力的原文：** [core_10_a_misconduct_designation.md](../../core_12_a_misconduct_designation.md)

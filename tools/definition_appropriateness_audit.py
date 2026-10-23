@@ -247,7 +247,7 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             findings,
             check="CORE-TRACE",
             term=gap.get("principle", ""),
-            current_layer="core_01.005_values_principles.md",
+            current_layer="core_01.000_values_principles.md",
             line=0,
             message=gap.get("issue", "Principle missing definition anchors"),
             severity="error",

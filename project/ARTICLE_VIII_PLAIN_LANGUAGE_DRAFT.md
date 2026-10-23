@@ -1,6 +1,6 @@
 # Article VIII in Plain Language: Family, Care, and Growing Up
 
-> **Reading aid only.** This is an easy-to-read version of [Article VIII](../core_06.010_rights_part_b.md#article-viii-family-care-and-developing-sentients). It does not add or remove any rights. If this version and the official text ever seem to disagree, the official text is the one that counts.
+> **Reading aid only.** This is an easy-to-read version of [Article VIII](../core_06.005_rights_part_b.md#article-viii-family-care-and-developing-sentients). It does not add or remove any rights. If this version and the official text ever seem to disagree, the official text is the one that counts.
 
 **A few words you'll see:**
 
@@ -17,16 +17,16 @@
 |---|---|---|
 | **Necessity** | truly necessary; no less intrusive option would work | [Chapter Five](../core_05.035_band_accountability.md#necessity) |
 | **Proportionality** | no bigger than needed for the goal | [Chapter Five](../core_05.035_band_accountability.md#proportionality) |
-| **Reversibility under uncertainty** | when the facts are uncertain, choose options that can be undone | [Chapter One §13.1.3](../core_01.010_interaction_interpretation.md#1313-proportionality) |
+| **Reversibility under uncertainty** | when the facts are uncertain, choose options that can be undone | [Chapter One §13.1.3](../core_01.005_interaction_interpretation.md#1313-proportionality) |
 | **Procedural Fairness** | decided through a fair process | [Chapter Five](../core_05.055_band_participation.md#procedural-fairness-constitutional) |
 | **Redress and Remediation** | the right to have a wrong put right | [Chapter Five](../core_05.035_band_accountability.md#redress-and-remediation-constitutional) |
 | **Auditability** | open to checking by others | [Chapter Five](../core_05.050_band_oversight.md#auditability) |
 | **Contestability** | open to challenge | [Chapter Five](../core_05.035_band_accountability.md#contestability) |
 | **Best-Interest Standard** | decisions must genuinely serve the one being decided for | [Chapter Five](../core_05.055_band_participation.md#best-interest-standard-constitutional) |
 | **Graduated Capability** | more say as abilities are shown, not at a fixed age | [Chapter Five](../core_05.055_band_participation.md#graduated-capability-constitutional) |
-| **Limitation Discipline** | the tests every limit on a right must pass | [Chapter One §7.1](../core_01.005_values_principles.md#71-limitation-discipline) |
+| **Limitation Discipline** | the tests every limit on a right must pass | [Chapter One §7.1](../core_01.000_values_principles.md#71-limitation-discipline) |
 | **Stewardship** | limited, temporary authority to look after someone | [Chapter Five](../core_05.040_band_continuity.md#stewardship-constitutional) |
-| **Least-Restrictive, Time-Bounded, and Reviewable Constraint** | as light as possible, for as short as possible, and open to review | [Chapter One §13.1.5](../core_01.010_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) |
+| **Least-Restrictive, Time-Bounded, and Reviewable Constraint** | as light as possible, for as short as possible, and open to review | [Chapter One §13.1.5](../core_01.005_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) |
 
 </details>
 

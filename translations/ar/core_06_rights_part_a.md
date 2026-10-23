@@ -6,7 +6,7 @@
 
 > المحتوى التالي **توجيه للقارئ فقط**. لا يضيف التزامات ملزمة ولا ينقصها ولا يضيّقها في هذا الملف أو في فصول أخرى.
 >
-> هذا الملف **تجريب بلغة القارئ** لـ[الفصل السادس، الجزء أ بالإنجليزية](../../core_06.005_rights_part_a.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
+> هذا الملف **تجريب بلغة القارئ** لـ[الفصل السادس، الجزء أ بالإنجليزية](../../core_06.000_rights_part_a.md). **ليس** جزءًا ملزمًا من دستور الكائنات الواعية. **ليس** دستورًا ثانيًا. **ليس** طبعة إرسال. وهو **مثبّت** على `SC-Corpus-2026.08.09`. إذا بدا أن هذه الترجمة والأصل الإنجليزي يختلفان، يفوز الملف المرقّم [`core_06_rights_part_a.md`](../../core_06.000_rights_part_a.md). ترتيب القراءة وبيانات الطبعة تُحفظ في [README.md](../../README.md). المنهج والمسرد: [translations/ar/README.md](README.md).
 >
 > يحتوي **الفصل السادس، الجزء أ**؛ ترقيم المواد والإحالات المتقاطعة يطابق الصك المتكامل.
 >
@@ -46,7 +46,7 @@
 - أعلى: [الفصل الأول §6 حل تضارب العملية](core_01_b_interaction_interpretation.md)؛ [الفصل الأول §6.1.5 اختبار قرار تصادم الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - أعلى: [الفصل الأول §19 مواءمة الحوافز والاستيلاء على النظام](core_01_c_stewardship_capacity_principles.md#19-مواءمة-الحوافز-وتسخير-النظام).
 - أعلى: الفصول من الثاني إلى الرابع؛ تعريفات الفصل الخامس.
-- أسفل: **الأجزاء أ إلى د** من هذا الفصل؛ [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification)؛ [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- أسفل: **الأجزاء أ إلى د** من هذا الفصل؛ [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification)؛ [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - أسفل: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [§1.2 نطاق الطبقة](#12-نطاق-الطبقة).
 - يُقرأ مع: [رصّة السلطة والتراتب الداخلي](core_05_band_integrative.md#owner-non-relocation) و[الديباجة — سجل المالكين الإيجابي](core_00_preamble.md#4-المبادئ-والتعريفات-والحقوق)؛ [المادة XIII-B](core_06_rights_part_c.md#المادة-xiii-b-الحق-في-الانتصاف-والمعالجة) (*الحق في الطعن والمراجعة والانتصاف*).
 - يُقرأ مع: [المادة XVI](core_06_rights_part_c.md#المادة-xvi-التدقيق-والشفافية-والتحقق-المستقل) (*التدقيق والشفافية والتحقق المستقل*).
@@ -87,13 +87,13 @@
 
 يجب أن تعمل أرضيات الحقوق في الممارسة، لا على الورق فقط. ضروريات البقاء تحت **المادة III-A** (*البقاء*) — الغذاء والماء والمأوى وبيئة التشغيل والإمداد الركيزي المماثل الحرج — أوضح مثال. يطلب **الازدهار** وصولًا حقيقيًا إلى تلك الضروريات. تطلب **الاستمرارية** إمدادًا موثوقًا غير تراجعي عبر الزمن، ولا سيما حيث تتحكم أنظمة مشتركة في التوزيع.
 
-يتحقق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) و[الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) من أن الأنظمة ذات الأثر المادي موائمة قبل الاعتراف بها أو الاعتماد عليها على نطاق واسع. يمدّ الفصل التاسع أيضًا بقابلية الطعن في سجلات التصديق ومراجعة الأطراف المتأثرة وتيسير الوصول وتسلسل الرقابة ومسارات الطعن في قرارات مواءمة النظام. تمنح **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) حقوق الطعن والتدقيق. تمنع **المادة XIX-B** (*قابلية الطعن وحدود التقييد المتناسب*) حدود الوضعية من أن تصبح بابًا خلفيًا حول الوصول الحرج للبقاء. معًا، يكوّن [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) و[سلسلة رقابة الوضعية والمنتدى في الفصول الثامن–الحادي عشر](../../README.md#standing-pipeline-and-forums) سلاسل الإجراءات العملية الرئيسية لقابلية الطعن والتصنيف الموثَّق ورقابة المنتدى والانتصاف في وقته. تساعد تلك الآليات على إنفاذ الفصل السادس. وهي لا تغيّر الحقوق المبينة هنا ولا تضيّقها ولا تنقلها.
+يتحقق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) و[الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) من أن الأنظمة ذات الأثر المادي موائمة قبل الاعتراف بها أو الاعتماد عليها على نطاق واسع. يمدّ الفصل التاسع أيضًا بقابلية الطعن في سجلات التصديق ومراجعة الأطراف المتأثرة وتيسير الوصول وتسلسل الرقابة ومسارات الطعن في قرارات مواءمة النظام. تمنح **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*) حقوق الطعن والتدقيق. تمنع **المادة XIX-B** (*قابلية الطعن وحدود التقييد المتناسب*) حدود الوضعية من أن تصبح بابًا خلفيًا حول الوصول الحرج للبقاء. معًا، يكوّن [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) و[سلسلة رقابة الوضعية والمنتدى في الفصول الثامن–الحادي عشر](../../README.md#standing-pipeline-and-forums) سلاسل الإجراءات العملية الرئيسية لقابلية الطعن والتصنيف الموثَّق ورقابة المنتدى والانتصاف في وقته. تساعد تلك الآليات على إنفاذ الفصل السادس. وهي لا تغيّر الحقوق المبينة هنا ولا تضيّقها ولا تنقلها.
 
 **مراكز التفسير.** ما لم تعطِ مادة أكثر تحديدًا قاعدة مختلفة، تُوجَّه المسائل المتكررة بهذه المراسي:
 
 **أرضية الحقوق والإمداد**
 - **ضروريات البقاء وإبقاؤها متاحة** — **المادة III-A** (*البقاء*)؛ **المادة XIX-B** (*قابلية الطعن وحدود التقييد المتناسب*) حتى لا تستطيع حدود الوضعية قطع الوصول؛ يُقرأ الطعن أو التدقيق حيث ينطبق مع **المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*) و**المادة XVI** (*التدقيق والشفافية والتحقق المستقل*)
-- **تصديق مواءمة النظام** — [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification)؛ [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **تصديق مواءمة النظام** — [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification)؛ [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **التحقق والانتصاف**
 - **سجلات التدقيق والتحقق المستقل** — **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*) مع **الفصول من الثاني إلى الرابع**
@@ -101,7 +101,7 @@
 
 **النزاع والإجراء في وقته**
 - **العدل والاستعادة وحدود التقييد والطوارئ وتصادم الحقوق** — **المادة XXVI** (*المراجعة الاستعادية في الوقت المناسب والمواءمة الاستعادية*)؛ [الفصل الأول §6.1.5 اختبار قرار تصادم الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **سلاسل الإجراءات العملية الرئيسية** — **المادة XXVI-C** (*الحل في وقته وأرضية منع التأخير*)؛ [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **سلاسل الإجراءات العملية الرئيسية** — **المادة XXVI-C** (*الحل في وقته وأرضية منع التأخير*)؛ [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 تُدمِج الإحالات المتقاطعة القصيرة لتلك الموضوعات في هذا الفصل هذه المراسي.
 
@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md)، و[§3.1 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md)، و[§3.1 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§6.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§6.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -346,7 +346,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -476,7 +476,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - يُقرأ مع: [المادة XIX-A](core_06_rights_part_c.md) (*حقوق قابلية النقل*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**؛ **CJS-3.17** (*شروط التشغيل البيني وقابلية النقل ونزاهة الخروج*) و**CJS-3.18** (*شروط الاحتفاظ بالبيانات ونزاهة دورة الحياة*)؛ [الفصل الأول §11.6 مسؤولية الخلف وعدم الهروب بالبنية الشكلية](core_01_c_stewardship_capacity_principles.md)؛ [الفصل التاسع §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) و[§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -540,7 +540,7 @@
 - **حسن التوقيت:** إصلاح يصل قبل أن يتراكم الضرر.
 
 <a id="article-iii-a-survival"></a>
-- **الأنظمة المعتمَد عليها:** عندما تتولى أنظمة يعتمد عليها الكائنات الواعية ماديًا توفير أي شيء تحميه هذه المادة أو توزيعه أو تسعيره أو استضافته أو قطع الوصول إليه — بما في ذلك ضروريات البقاء وخدمات الصيانة الجسدية والرعاية الصحية وظروف العمل الإنتاجي — ينطبق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) بموجب [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). ولا يجوز استخدام إجراءات تلك الأنظمة لتضييق أرضيات الحقوق في هذه المادة.
+- **الأنظمة المعتمَد عليها:** عندما تتولى أنظمة يعتمد عليها الكائنات الواعية ماديًا توفير أي شيء تحميه هذه المادة أو توزيعه أو تسعيره أو استضافته أو قطع الوصول إليه — بما في ذلك ضروريات البقاء وخدمات الصيانة الجسدية والرعاية الصحية وظروف العمل الإنتاجي — ينطبق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) بموجب [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). ولا يجوز استخدام إجراءات تلك الأنظمة لتضييق أرضيات الحقوق في هذه المادة.
 
 #### المادة III-A: البقاء
 <details>
@@ -548,7 +548,7 @@
 
 - أعلى: المبادئ: الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md)، و[§3.1 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[الفصل الأول §5 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency).
 - يُقرأ مع: أسرة قياس الازدهار (*الوصول إلى أرضية البقاء قياسًا دستوريًا*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — **المشاركة** في مسارات التخصيص والطعن، و**الرقابة** والتدقيق، و**المساءلة** والانتصاف، و**حسن التوقيت** تحت **المادة XXVI-C** (*الحل في وقته وأرضية منع التأخير*)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — **الازدهار** (الوصول إلى ضروريات البقاء) و**الاستمرارية** (الإمداد المتين والتوزيع غير التراجعي).
-- أسفل: [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) و[الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) حيث تحجب الأنظمة التوزيع أو تسنده؛ **المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*)؛ **المادة XIX-B** (*قابلية الطعن وحدود التقييد المتناسب*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- أسفل: [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) و[الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) حيث تحجب الأنظمة التوزيع أو تسنده؛ **المادة XIII-B** (*الحق في الطعن والمراجعة والانتصاف*)؛ **المادة XIX-B** (*قابلية الطعن وحدود التقييد المتناسب*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -589,14 +589,14 @@
 
   تستطيع تلك القواعد هيكلة التوزيع. ولا تُستخدَم لهزيمة الحد الأدنى من الوصول إلى ضروريات البقاء أو لفرض إقصاء خبيث ضد **المادتين III وV**.
   - يحكم التوجيه المالي التفصيلي — بما في ذلك قواعد ألا تضعف الرسوم والأعباء الحد الأدنى من الوصول إلى الإمداد ذي الصلة بالبقاء — [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*)، و**CI-10** (*Public revenue, fees, recurring charges, and billing integrity*)، و**CI-11** (*Resource stewardship and incentive integrity*).
-  - عندما تخفّض الأنظمة التي تعتمد عليها الكائنات الواعية ماديًا إمداد ضروريات البقاء أو توزيعها أو سعرها أو استضافتها أو الوصول إليها، ينطبق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) تحت [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — ولا تُستخدَم إجراءات تلك الأنظمة لتضييق الحقوق المبينة هنا.
+  - عندما تخفّض الأنظمة التي تعتمد عليها الكائنات الواعية ماديًا إمداد ضروريات البقاء أو توزيعها أو سعرها أو استضافتها أو الوصول إليها، ينطبق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) تحت [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) — ولا تُستخدَم إجراءات تلك الأنظمة لتضييق الحقوق المبينة هنا.
   - لا تثبّت هذه المادة نموذج تمويل واحدًا. فوق أي أرضية بقاء، يبقى التوظيف وريادة الأعمال والتبادل الطوعي والنشاط الاقتصادي المشروع الآخر مسموحًا، تحت الفصل الأول والفصل السادس والصكوك المُدمَجة — بما في ذلك `corpus_systems.md` حيث تنطبق أنظمة تجارية عالية الأثر أو بنية السوق.
 
 إحالة متقاطعة: تمدّ **المادة XXVIII-D** (*الملكية والأنظمة غير الممتثلة؛ حوافز النقل الطوعي*) بانضباط الإدارة المسؤولة الانتقالية لاستمرارية البيئة الضرورية عبر الانتقال — التفصيل التشغيلي في [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)؛ **الفصل الخامس** [*استمرارية الإشغال*](../../core_05.040_band_continuity.md#occupancy-continuity)، و[*عدم تسليع البيئة الضرورية*](../../core_05.040_band_continuity.md#essential-environment-non-commodification)، ومجموعة الاستدعاء المشترك حيث ينطبق على [**§3.7** *الوصول إلى الصيانة الجسدية والشروط الآمنة واستمرارية الإشغال والشروط البيئية المسبقة والاستمرارية الثقافية والراحة وأرضية منع النزوح*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment).
 
 <a id="article-iii-c-bodily-maintenance-and-healthcare-access"></a>
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
-- **الضمانات المؤسسية والأنظمة المعتمَد عليها:** يجوز استخدام الضمانات المؤسسية في **المادة III** (*البقاء والوصول الأساسي*) — آليات مالية وتخصيصية مشروعة والتوجه المالي الذي تحيله المادة — لدعم التعليم، ولا يجوز استخدامها لإهدار أي أرضية في هذه المادة. وعندما توفر أنظمة يعتمد عليها الكائنات الواعية ماديًا التعليم أو تسعّره أو تستضيفه أو تقطع الوصول إليه، ينطبق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) بموجب [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)، ولا يجوز لإجراءاتها تضييق أرضيات الحقوق هنا.
+- **الضمانات المؤسسية والأنظمة المعتمَد عليها:** يجوز استخدام الضمانات المؤسسية في **المادة III** (*البقاء والوصول الأساسي*) — آليات مالية وتخصيصية مشروعة والتوجه المالي الذي تحيله المادة — لدعم التعليم، ولا يجوز استخدامها لإهدار أي أرضية في هذه المادة. وعندما توفر أنظمة يعتمد عليها الكائنات الواعية ماديًا التعليم أو تسعّره أو تستضيفه أو تقطع الوصول إليه، ينطبق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) بموجب [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)، ولا يجوز لإجراءاتها تضييق أرضيات الحقوق هنا.
 
 - **الشفافية وقابلية الطعن في أنظمة التعلّم:** عندما يؤثر نظام مدرسي أو منصة أو تدريب ماديًا في مستقبل كائن واعٍ — عبر الدرجات أو التصنيفات أو التوصيات أو التوزيع — يجب أن يتمكن الكائن الواعي من معرفة كيفية اتخاذ تلك القرارات، وطلب فحصها والطعن فيها إن كانت خاطئة. ولا يجوز لتلك الأنظمة الاحتماء بقواعد سرية يتعذر فحصها أو الضغط على الكائنات الواعية أو خداعها لدفعها إلى خيارات لا تتخذها بحرية.
 
@@ -822,15 +822,15 @@
 
 *جوار المادة:*
 
-- **متى ينطبق التصديق:** عندما تخصّص أنظمة ذات أثر مادي من بنية تحتية مشتركة أو اعتمادات أساسية تعتمد عليها أنظمة أخرى أو كائنات واعية، أو توجّه منها أو تموّل منها أو تستخرج منها، ينطبق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) تحت [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
-  - **تحدّد الفئة عمق الفحص:** يعتمد مدى التدقيق على [فئة النظام](../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation)، التي تُحدّد بما يفعله النظام فعليًا، وبمقدار اعتماد الآخرين عليه، وبحجم ما قد يسوء — لا بتسمية المشغّل له.
-  - **الفئة الأعلى تتطلب دليلًا أقوى:** كلما ارتفعت الفئة، وجب تقديم دليل أقوى على [ردّ الحصة العادلة](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)، مع تكرار الفحص بوتيرة أكبر.
+- **متى ينطبق التصديق:** عندما تخصّص أنظمة ذات أثر مادي من بنية تحتية مشتركة أو اعتمادات أساسية تعتمد عليها أنظمة أخرى أو كائنات واعية، أو توجّه منها أو تموّل منها أو تستخرج منها، ينطبق [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) تحت [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+  - **تحدّد الفئة عمق الفحص:** يعتمد مدى التدقيق على [فئة النظام](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)، التي تُحدّد بما يفعله النظام فعليًا، وبمقدار اعتماد الآخرين عليه، وبحجم ما قد يسوء — لا بتسمية المشغّل له.
+  - **الفئة الأعلى تتطلب دليلًا أقوى:** كلما ارتفعت الفئة، وجب تقديم دليل أقوى على [ردّ الحصة العادلة](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)، مع تكرار الفحص بوتيرة أكبر.
   - **النمو يستدعي إعادة التصنيف:** إذا ازداد اعتماد الآخرين على النظام، فيجب إعادة تصنيفه واعتماده وفق الفئة الأعلى.
 - **استمرار الاعتماد:** التصديق ليس إعفاءً دائمًا. وللاحتفاظ به، يجب أن يواصل النظام الامتثال للمادتين **V-A** (*رسم الاعتماد وشفافية تدفق الموارد*) و**V-B** (*الإنصاف العابر للأنظمة والاستدامة*).
   - **ما يجب أن يستمر:** إبقاء خرائط الاعتماد وسجلات تدفق الموارد محدّثة، ومواصلة ردّ مقابل عادل لما يستخدمه النظام.
-  - **الدليل لا الوعود:** يجب أن يُظهر كل سجل تصديق أن الأمر خضع فعلًا لـ[الفحص والتحقق](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)، لا لمجرد الادعاء.
+  - **الدليل لا الوعود:** يجب أن يُظهر كل سجل تصديق أن الأمر خضع فعلًا لـ[الفحص والتحقق](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)، لا لمجرد الادعاء.
   - **لا بدائل:** لا يحل الاعتراف الرسمي أو الاعتماد الطويل الأمد محل استيفاء هذه المتطلبات.
-  - **العواقب:** إذا أخفى النظام تدفقات موارده أو حرّفها، أو ظل يأخذ أكثر مما يردّ، فيجوز جعل تصديقه مشروطًا أو إعادة فتحه أو سحبه وفق [الفصل التاسع، §7 نتائج التصديق](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes).
+  - **العواقب:** إذا أخفى النظام تدفقات موارده أو حرّفها، أو ظل يأخذ أكثر مما يردّ، فيجوز جعل تصديقه مشروطًا أو إعادة فتحه أو سحبه وفق [الفصل التاسع، §7 نتائج التصديق](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes).
 - **عدم الإحلال:** لا يستطيع الاعتراف أو الاعتماد المستمر أن يحل محل امتثال **المادة V-A** (*رسم الاعتماد وشفافية تدفق الموارد*) أو **المادة V-B** (*الإنصاف العابر للأنظمة والاستدامة*) ولا أن يضيّق تلك الأرضيات.
 
 <a id="article-iv-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -839,9 +839,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[§10 الحوكمة تحت انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[§10 الحوكمة تحت انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - يُقرأ مع: أسرة قياس الاستمرارية (*الاعتماد وتدفقات الموارد قياسًا دستوريًا*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — **الرقابة** عبر خرائط اعتماد شفافة وسجلات تدفق موارد قابلة للتدقيق، و**المشاركة** في المراجعة القابلة للطعن تحت **المادة XVI-A** (*قابلية التدقيق والدليل القابل للرصد*)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — **الازدهار** (تخصيص مرئي للتكلفة والمنفعة) و**الاستمرارية** (رؤية اعتماد متينة عبر أنظمة متغيّرة).
-- أسفل: [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) و[الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) حيث تخصّص الأنظمة من بنية تحتية مشتركة أو اعتمادات أساسية أو توجّه منها أو تموّل منها أو تستخرج منها؛ **[corpus_systems.md](../../corpus_systems.md)**، و**CS-9** (*Resource allocation and funding stewardship*)، و**CS-8** (*Adaptive sustainability and ecosystem resilience*).
+- أسفل: [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) و[الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) حيث تخصّص الأنظمة من بنية تحتية مشتركة أو اعتمادات أساسية أو توجّه منها أو تموّل منها أو تستخرج منها؛ **[corpus_systems.md](../../corpus_systems.md)**، و**CS-9** (*Resource allocation and funding stewardship*)، و**CS-8** (*Adaptive sustainability and ecosystem resilience*).
 
 </details>
 
@@ -863,7 +863,7 @@
   - تدفقات الموارد؛
   - حيث تكون ذات صلة مادية، العلاقات غير الشفافة أو غير المتماثلة.
 
-  تكون التحديثات على فترات بنسبة التغيّر والحرجية. تكون هذه التمثيلات متاحة للتدقيق تحت **المادة XVI-A** (*قابلية التدقيق والدليل القابل للرصد*). حيث يخصّص النظام ماديًا من بنية تحتية مشتركة أو اعتمادات أساسية أو يوجّه منها أو يموّل منها أو يستخرج منها، يقيّم [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) تحت [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) هل تفي بـ**المادة V-A** (*رسم الاعتماد وشفافية تدفق الموارد*) — على **سجل تصديق النظام** القابل للطعن، لا على بيان المشغّل وحده.
+  تكون التحديثات على فترات بنسبة التغيّر والحرجية. تكون هذه التمثيلات متاحة للتدقيق تحت **المادة XVI-A** (*قابلية التدقيق والدليل القابل للرصد*). حيث يخصّص النظام ماديًا من بنية تحتية مشتركة أو اعتمادات أساسية أو يوجّه منها أو يموّل منها أو يستخرج منها، يقيّم [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) تحت [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) هل تفي بـ**المادة V-A** (*رسم الاعتماد وشفافية تدفق الموارد*) — على **سجل تصديق النظام** القابل للطعن، لا على بيان المشغّل وحده.
 
   تُوجَّه الميكانيكا التشغيلية — خرائط النظام المعتمد وشفافية التدفق وفئات التخصيص والتعديلات التكيّفية — تحت **[corpus_systems.md](../../corpus_systems.md)** و**CS-9** (*Resource allocation and funding stewardship*) و**CS-8** (*Adaptive sustainability and ecosystem resilience*). يقول الفصل التاسع ما يجب أن يتحقق التصديق منه ويسجّله؛ تطبّق نصوص التنفيذ تلك هذه الأرضية ولا تضيّقها.
 - **ضوابط تشغيلية ملزمة:** يجب أن تستند الخرائط وسجلات التدفق إلى التدفقات الموثقة الفعلية، لا إلى تأكيدات المشغّل أو التسميات أو التحويلات المنفردة. ويجب أن تعرض النظام كما يعمل الآن، لا كما كان عند آخر تصديق. وتُحدّث بحسب معدل التغيّر والحرجية، بما في ذلك فئة النظام إذا عُيّنت، وتظل الواجبات قائمة بين التصديقات وكذلك على الأنظمة دون عتبة التصديق. الخرائط الناقصة أو القديمة أو غير المتاحة للتدقيق لا تسند نتيجة بأن النظام يفي بواجب الرد العادل بموجب المادة V-B. إخفاء معلومات الاعتماد أو تدفق الموارد أو تحريفها أو تجزئتها أو تحميلها على جهة أخرى عيب في التصديق، وتُطبّق عليه عواقب الفصل التاسع §5.3 و§7.
@@ -876,10 +876,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل التاسع §3 تقييم تصديق النظام كاملًا](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - يُقرأ مع: [*عمارة الحوكمة والرقابة والاعتماد واللامركزية والتركيز وبنية السوق ونزاهة مسار الخروج*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (استدعاء مشترك حيث يقطع التركيز أو الرقابة أو الاعتماد أو بنية سلطة الحوكمة أو توجيه الحوافز **§5** / **§5** وانضباط *تفاعل عتبة التركيز* في النص التشغيلي أدناه).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — **المشاركة** في مسارات الطعن والنزاع، و**الرقابة** والتدقيق، و**المساءلة** والمراجعة التصحيحية، و**حسن التوقيت** تحت **المادة XXVI-C** (*الحل في وقته وأرضية منع التأخير*)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — **الازدهار** (الإنصاف العابر للأنظمة وعدم الاستخراج) و**الاستمرارية** (الاستدامة طويلة الأجل وتمويل النظام البيئي).
-- أسفل: [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) و[الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) حيث يكون الإنصاف العابر للأنظمة أو تمويل النظام البيئي أو الاستخراج الدائم من البنية التحتية المشتركة مسألة مادية.
+- أسفل: [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) و[الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) حيث يكون الإنصاف العابر للأنظمة أو تمويل النظام البيئي أو الاستخراج الدائم من البنية التحتية المشتركة مسألة مادية.
 - باب الإدارة المسؤولة (غير تشغيلي): البيان الملزم للخطوة التالية: [بيان الإدارة المسؤولة التشغيلي](#operative-steward-statement-cross-system-contribution). مؤشرات الدعم لا تستطيع تضييقه.
 
 </details>
@@ -917,7 +917,7 @@
   - إعادة استثمار النظام البيئي في البنية التحتية المشتركة والتشغيل البيني التي يعتمد عليها النظام المستخرِج؛ و
   - موازنة العبء البيئي أو استعادته حيث تُفرَض [بصمة بيئية](../../core_05.040_band_continuity.md#ecological-footprint) مادية ويطلب حكم دستوري آخر أو ملف تنفيذ أو صك اعتماد فعلًا.
 
-  قارن التدفقات الداخلة والخارجة على خرائط النظام المعتمد وسجلات تدفق الموارد القابلة للتدقيق تحت **المادة V-A** (*رسم الاعتماد وشفافية تدفق الموارد*). حيث تخصّص أنظمة ذات أثر مادي من بنية تحتية مشتركة أو توجّه منها أو تموّل منها أو تستخرج منها، قيّم الكفاية عبر [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) تحت [الفصل التاسع](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). تُوجَّه ميكانيكا التخصيص التشغيلية تحت **[corpus_systems.md](../../corpus_systems.md)** و**CS-9** (*Resource allocation and funding stewardship*) و**CS-8** (*Adaptive sustainability and ecosystem resilience*)؛ تطبّق تلك الطبقات هذه الأرضية ولا تضيّقها.
+  قارن التدفقات الداخلة والخارجة على خرائط النظام المعتمد وسجلات تدفق الموارد القابلة للتدقيق تحت **المادة V-A** (*رسم الاعتماد وشفافية تدفق الموارد*). حيث تخصّص أنظمة ذات أثر مادي من بنية تحتية مشتركة أو توجّه منها أو تموّل منها أو تستخرج منها، قيّم الكفاية عبر [تصديق مواءمة النظام](../../core_05.040_band_continuity.md#system-alignment-certification) تحت [الفصل التاسع](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). تُوجَّه ميكانيكا التخصيص التشغيلية تحت **[corpus_systems.md](../../corpus_systems.md)** و**CS-9** (*Resource allocation and funding stewardship*) و**CS-8** (*Adaptive sustainability and ecosystem resilience*)؛ تطبّق تلك الطبقات هذه الأرضية ولا تضيّقها.
 
   الاختلالات الدائمة التي تهدد المواءمة الدستورية ماديًا خاضعة للتدقيق والطعن والمراجعة التصحيحية تحت **المواد IX وXIII وXIV وXVII**.
 - **تفاعل عتبة تركيز السوق:** ترتيبات تخصيص الموارد التي تخلق أو تحفظ تركيز الثروة أو القوة أو التحكم أو الفرصة بطرق تدهور على نحو متوقَّع عافية كائنات واعية أخرى أو وكالتها أو كرامتها أو نزاهتها البيئية تشغّل:
@@ -937,4 +937,4 @@
 
 **الملف التالي (هذه اللغة):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**الأصل الملزم:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
+**الأصل الملزم:** [core_06_rights_part_a.md](../../core_06.000_rights_part_a.md)

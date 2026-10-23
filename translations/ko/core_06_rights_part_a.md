@@ -6,7 +6,7 @@
 
 > 다음 내용은 **독자 안내일 뿐입니다**. 이 파일이나 다른 장에서 구속력 있는 의무를 더하거나, 빼거나, 좁히지 않습니다.
 >
-> 이 파일은 [영어 제6장 A부분](../../core_06.005_rights_part_a.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_06_rights_part_a.md`](../../core_06.005_rights_part_a.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
+> 이 파일은 [영어 제6장 A부분](../../core_06.000_rights_part_a.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_06_rights_part_a.md`](../../core_06.000_rights_part_a.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
 > **제6장 A부분**을 담는다; 조 번호와 교차 참조는 통합 문서와 맞춘다.
 >
@@ -47,11 +47,11 @@
 - 상류: [제1장 §13 과정 충돌 해결](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차); [제1장 §6.1.5 권리 충돌 결정 시험](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - 상류: [제1장 §11 유인 정합과 체계 포획](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획).
 - 상류: 제2장부터 제4장; 제5장 정의.
-- 하류: 이 장의 **A부분부터 D부분**; [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification); [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- 하류: 이 장의 **A부분부터 D부분**; [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification); [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - 하류: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 층 범위](#12-층-범위).
 - 함께 읽기: [권위 스택과 내부 위계](core_05_band_integrative.md#owner-non-relocation)와 [전문 — 양의 주관자 등록](core_00_preamble.md#4-원칙-정의-권리); [제 XIII-B조](core_06_rights_part_c.md#제xiii-b조-구제-및-구제에-대한-권리) (*다툼, 검토, 구제에 대한 권리*).
 - 함께 읽기: [제 XVI조](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*감사, 투명, 독립 확인*).
-- 함께 읽기: [제 XIX-B조](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*다툴 수 있음과 비례 제한 한도*); [제 XXVI-C조](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*).
+- 함께 읽기: [제 XIX-B조](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) (*다툴 수 있음과 비례 제한 한도*); [제 XXVI-C조](../../core_06.020_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 지연 금지 바닥*).
 
 </details>
 
@@ -88,13 +88,13 @@
 
 권리 바닥은 종이 위에서만이 아니라 실무에서 작동해야 한다. **제 III-A조** (*생존*) 아래의 생존 필수 — 먹거리, 물, 거처, 운영 환경, 비슷한 기질 비의존 투입 — 가 가장 분명한 예다. **번영**은 그 필수에 대한 실제 접근을 요구한다. **연속**은 시간에 걸쳐 믿을 수 있고 비회귀인 공급을 요구한다. 특히 공유 체계가 전달을 통제하는 곳에서.
 
-[체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)과 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)은 실질 영향 체계가 규모에서 인정되거나 의지되기 전에 정합하는지를 확인한다. 제9장은 또한 인증 기록의 다툴 수 있음, 영향받는 쪽과 접근성 검토, 감독 순서, 체계 정합 결정을 위한 다툼 경로를 공급한다. **제 XIII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*)는 다툼과 감사 권리를 공급한다. **제 XIX-B조** (*다툴 수 있음과 비례 제한 한도*)는 궤적 한도가 생존에 결정적인 접근을 우회하는 뒷문이 되지 않게 한다. 함께, [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)과 [제8장부터 제11장의 궤적과 포럼 감독 사슬](../../README.md#standing-pipeline-and-forums)은 다툴 수 있음, 확인된 분류, 포럼 감독, 제때 구제를 위한 핵심 실무 과정 사슬을 이룬다. 그 장치는 제6장을 집행하는 일을 돕는다. 여기에 말한 권리를 대체하거나, 좁히거나, 자리를 옮기지 않는다.
+[체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)과 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)은 실질 영향 체계가 규모에서 인정되거나 의지되기 전에 정합하는지를 확인한다. 제9장은 또한 인증 기록의 다툴 수 있음, 영향받는 쪽과 접근성 검토, 감독 순서, 체계 정합 결정을 위한 다툼 경로를 공급한다. **제 XIII조** (*믿을 수 있고 신뢰할 체계에 대한 권리*)는 다툼과 감사 권리를 공급한다. **제 XIX-B조** (*다툴 수 있음과 비례 제한 한도*)는 궤적 한도가 생존에 결정적인 접근을 우회하는 뒷문이 되지 않게 한다. 함께, [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)과 [제8장부터 제11장의 궤적과 포럼 감독 사슬](../../README.md#standing-pipeline-and-forums)은 다툴 수 있음, 확인된 분류, 포럼 감독, 제때 구제를 위한 핵심 실무 과정 사슬을 이룬다. 그 장치는 제6장을 집행하는 일을 돕는다. 여기에 말한 권리를 대체하거나, 좁히거나, 자리를 옮기지 않는다.
 
 **해석 허브.** 더 구체적인 조가 다른 규칙을 공급하지 않는 한, 되풀이되는 문제는 이 앵커를 통해 라우팅된다:
 
 **권리 바닥과 공급**
 - **생존 필수와 그것을 접근 가능하게 유지하기** — **제 III-A조** (*생존*); **제 XIX-B조** (*다툴 수 있음과 비례 제한 한도*)로 궤적 한도가 접근을 막지 못하게 한다; 다툼이나 감사가 적용되는 곳에서 **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*)와 **제 XVI조** (*감사, 투명, 독립 확인*)와 함께 읽으라
-- **체계 정합 인증** — [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification); [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
+- **체계 정합 인증** — [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification); [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)
 
 **확인과 구제**
 - **감사 기록과 독립 확인** — **제 XVI조** (*감사, 투명, 독립 확인*)와 **제2장부터 제4장**
@@ -102,7 +102,7 @@
 
 **분쟁과 제때 과정**
 - **정의, 원상회복, 제한 경계, 비상, 권리 충돌** — **제 XXVI조** (*충돌 해결, 격상, 비상 비례*); [제1장 §6.1.5 권리 충돌 결정 시험](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
-- **핵심 실무 과정 사슬** — **제 XXVI-C조** (*제때 해결과 지연 금지 바닥*); [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
+- **핵심 실무 과정 사슬** — **제 XXVI-C조** (*제때 해결과 지연 금지 바닥*); [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 이 장의 다른 곳에서 그 주제에 대한 더 짧은 교차 참조는 이 앵커를 편입한다.
 
@@ -127,7 +127,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 과정 충돌 해결](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), [§18 책임 있는 관리 규율 아래 거버넌스](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 진실](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 과정 충돌 해결](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), [§18 책임 있는 관리 규율 아래 거버넌스](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -154,7 +154,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [제9장 §3 전체 체계 인증 평가](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [제9장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -205,7 +205,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.2 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 인식 공개 제약](../../core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints), [제9장 §3 전체 체계 인증 평가](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§3.2 진실](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 인식 공개 제약](../../core_01.005_interaction_interpretation.md#132-epistemic-disclosure-constraints), [제9장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -233,7 +233,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§12 체계 평가 요건](../../core_01.005_values_principles.md#12-systemic-evaluation-requirement).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§12 체계 평가 요건](../../core_01.000_values_principles.md#12-systemic-evaluation-requirement).
 - 제5장: 정전 **세대 간 책임** O/M/A/C는 [**Def.I1** *생태 완전성, 발자국, 지속가능성*](../../core_05.040_band_continuity.md#ecological-footprint-semi-independent)에 살며, **생태 완전성**, **지속가능성**, **환경 전제**, **생태 발자국**과 함께 읽힌다 (발자국 부담, 공개, 비교, 감축, 또는 추적 가능성이 실질로 쟁점인 곳의 공동 호출). **원주민 연속**, **언어, 문화, 유산**, **자연 체계의 궤적**, **세대 간 책임**의 공동 호출은, 공동체에 닻 내린 연속, 유산, 자연 체계 궤적, 미래 규율 분석이 함께 적용되는 곳에서 [제5장 *원주민 연속, 언어, 문화, 유산*](../../core_05.040_band_continuity.md#community-anchored-continuity-indigenous-language-culture-and-heritage)을 통해서도 라우팅된다.
 
 </details>
@@ -264,7 +264,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 교환 원칙](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), [§12 체계 평가 요건](../../core_01.005_values_principles.md#12-systemic-evaluation-requirement).
+- 상류: 원칙: 제1장 [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 교환 원칙](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), [§12 체계 평가 요건](../../core_01.000_values_principles.md#12-systemic-evaluation-requirement).
 - 함께 읽기: [안전(제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [진실(헌법 제약)](core_05_band_oversight.md#진실헌법-제약), [환경 전제](../../core_05.040_band_continuity.md#environmental-preconditions), [생태 회복 능력](../../core_05.040_band_continuity.md#ecological-recovery-capacity), [세대 간 책임](../../core_05.040_band_continuity.md#intergenerational-responsibility), [존재 위험](../../core_05.040_band_continuity.md#existential-risk).
 - 하류: **제13장 §6.1** (*비상 조치와 계속 부담*) — 존재 위험이나 비상 틀이 호출되는 곳의 구실 금지와 시한 있는 검토 규율.
 
@@ -309,7 +309,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§16 책임 있는 관리와 분산된 이해](../../core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth), [§9.2 분산된 이해](../../core_01.015_stewardship_capacity_principles.md#161-distributed-understanding).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 진실](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§16 책임 있는 관리와 분산된 이해](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth), [§9.2 분산된 이해](../../core_01.010_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
 
@@ -346,7 +346,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.2 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 핵심 교환 원칙](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), [제9장 §3 전체 체계 인증 평가](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§3.2 진실](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 핵심 교환 원칙](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), [제9장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -380,7 +380,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 핵심 교환 원칙](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles).
+- 상류: 원칙: 제1장 [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§3.2 진실](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 핵심 교환 원칙](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles).
 
 </details>
 
@@ -414,7 +414,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 교환 원칙](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), [§18 책임 있는 관리 규율 아래 거버넌스](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 상류: 원칙: 제1장 [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 교환 원칙](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), [§18 책임 있는 관리 규율 아래 거버넌스](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -445,7 +445,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.2 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §5 자유](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§18 책임 있는 관리 규율 아래 거버넌스](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 상류: 원칙: 제1장 [§3.2 진실](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §5 자유](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§18 책임 있는 관리 규율 아래 거버넌스](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -476,8 +476,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 교환 원칙](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), [제9장 §3 전체 체계 인증 평가](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- 함께 읽기: [제 XXI-A조](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights) (*이식권*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — 정보 유형과 취급**; **CJS-3.17** (*상호운용, 이식, 출구 완전성 조건*)과 **CJS-3.18** (*데이터 보존과 수명주기 완전성 조건*); [제1장 §19.6 승계 책임과 형식 구조 비탈출](core_01_c_stewardship_capacity_principles.md#196-소유권-또는-구조가-바뀌어도-책임-유지); [제9장 §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding)과 [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- 상류: 원칙: 제1장 [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 교환 원칙](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), [제9장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 함께 읽기: [제 XXI-A조](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) (*이식권*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — 정보 유형과 취급**; **CJS-3.17** (*상호운용, 이식, 출구 완전성 조건*)과 **CJS-3.18** (*데이터 보존과 수명주기 완전성 조건*); [제1장 §19.6 승계 책임과 형식 구조 비탈출](core_01_c_stewardship_capacity_principles.md#196-소유권-또는-구조가-바뀌어도-책임-유지); [제9장 §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding)과 [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -533,7 +533,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 함께 읽기: **제 I조** (*환경 생존*), **제 II조** (*물질의 책임 있는 관리와 오래 쓰는 사용 완전성*), 그리고 생존, 교육 접근, 신체 유지, 또는 노동 조건이 실질로 쟁점인 곳의 제5장.
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13 과정 충돌 해결](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), [§16 책임 있는 관리와 분산된 이해](../../core_01.015_stewardship_capacity_principles.md#16-stewardship-in-depth).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13 과정 충돌 해결](core_01_b_interaction_interpretation.md#13-헌법상-충돌-해결-절차), [§16 책임 있는 관리와 분산된 이해](../../core_01.010_stewardship_capacity_principles.md#16-stewardship-in-depth).
 
 </details>
 
@@ -562,20 +562,20 @@
 
   그 규칙은 전달을 구조화할 수 있다. 생존 필수에 대한 최소 접근을 꺾거나 **제 III조**와 **제 VI조**에 반하는 악의적 배제를 부과하는 데 쓰여서는 안 된다.
   - 상세 재정 지향 — 수수료와 요금이 생존 관련 투입에 대한 최소 접근을 해쳐서는 안 된다는 규칙을 포함 — 은 [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*분류에 묶인 제도 의무*), **CI-10** (*공공 수입, 수수료, 반복 청구, 청구 완전성*), **CI-11** (*자원의 책임 있는 관리와 유인 완전성*)이 다스린다.
-  - 감지자가 실질로 의존하는 체계가 생존 필수에 대한 접근을 공급, 분배, 가격 책정, 호스팅, 또는 끊을 때, [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 아래에서 적용된다 — 그리고 그 체계의 과정은 여기에 말한 권리를 줄이는 데 쓰일 수 없다.
+  - 감지자가 실질로 의존하는 체계가 생존 필수에 대한 접근을 공급, 분배, 가격 책정, 호스팅, 또는 끊을 때, [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 아래에서 적용된다 — 그리고 그 체계의 과정은 여기에 말한 권리를 줄이는 데 쓰일 수 없다.
   - 이 조는 단일 자금 모형을 처방하지 않는다. 어떤 생존 바닥 위의 고용, 창업, 자발 교환, 다른 합법 경제 활동은 제1장, 제6장, 편입된 문서 — 시장 구조나 고영향 상업 체계가 적용되는 곳에서 `corpus_systems.md`를 포함 — 에 따라 허용된 채로 남는다.
 
 
 <a id="article-iii-a-survival"></a>
-- **의존 체계:** 감지자가 실질적으로 의존하는 체계가 이 조에서 보호하는 사항—생존 필수품, 신체 유지·건강 관리 서비스, 생산 활동 조건—을 공급, 분배, 가격 책정, 호스팅하거나 접근을 끊으면 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)에 따른 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 적용된다. 해당 체계의 절차로 이 조의 권리 바닥을 좁힐 수 없다.
+- **의존 체계:** 감지자가 실질적으로 의존하는 체계가 이 조에서 보호하는 사항—생존 필수품, 신체 유지·건강 관리 서비스, 생산 활동 조건—을 공급, 분배, 가격 책정, 호스팅하거나 접근을 끊으면 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)에 따른 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 적용된다. 해당 체계의 절차로 이 조의 권리 바닥을 좁힐 수 없다.
 
 #### 제 III-A조: 생존
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [제1장 §5 자유](../../core_01.005_values_principles.md#7-freedom-bounded-agency).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [제1장 §5 자유](../../core_01.000_values_principles.md#7-freedom-bounded-agency).
 - 함께 읽기: 번영 측정 가족 (*헌법 측정으로서의 생존 바닥 접근*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — 배분과 다툼 경로에서의 **참여**, **감독**과 감사, **책무**와 구제, **제 XXVI-C조** (*제때 해결과 지연 금지 바닥*) 아래 **적시성**; [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** (생존 필수 접근)과 **연속** (오래가는 공급과 비회귀 전달).
-- 하류: 체계가 전달을 문지기하거나 유지하는 곳의 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)과 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*); **제 XIX-B조** (*다툴 수 있음과 비례 제한 한도*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
+- 하류: 체계가 전달을 문지기하거나 유지하는 곳의 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)과 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*); **제 XIX-B조** (*다툴 수 있음과 비례 제한 한도*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums).
 
 </details>
 
@@ -618,7 +618,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제1장 §5 자유](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§5.1 한정 규율](../../core_01.005_values_principles.md#71-limitation-discipline).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제1장 §5 자유](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§5.1 한정 규율](../../core_01.000_values_principles.md#71-limitation-discipline).
 - 하류: **제 V-A조** (*존엄과 평등한 도덕 지위*) 존엄 바닥, **제 VII-A조** (*몸과 마음의 자기소유*) 자기소유 침입 금지 바닥, **제 V-B조** (*차별 금지*) 차별 금지.
 - 함께 읽기: 제5장 *신체 유지 접근*, *실체 공정*, *보호 특성*; [§3.7 *신체 유지 접근, 안전 조건, 점유 연속, 환경 전제, 문화 연속, 휴식, 축출 금지 바닥*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (돌봄 접근, 생존 바닥 연속, 안전 참여 조건, 휴식이나 회복, 점유 연속, 필수 운영 환경, 환경 전제, 또는 장소에 묶인 연속이 함께 실질로 걸리는 곳).
 
@@ -666,7 +666,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제1장 §5 자유](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§5.1 한정 규율](../../core_01.005_values_principles.md#71-limitation-discipline), [§11.1.3 책임 있는 관리와 운영자 적용](../../core_01.015_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제1장 §5 자유](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§5.1 한정 규율](../../core_01.000_values_principles.md#71-limitation-discipline), [§11.1.3 책임 있는 관리와 운영자 적용](../../core_01.010_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
 - 하류: **제 III-A조** (*생존*) 생존 바닥 (위에 읽고, 대체하지 않음), **제 III-B조** (*평등한 교육 접근*) 교육 접근, **제 IV-A조** (*존엄과 평등한 도덕 지위*) 존엄, **제 V-B조** (*차별 금지*) 차별 금지, **제 X-C조** (*영향받는 쪽 역할과 참여권*) 자유 결사, **제 XIII-A조** (*신뢰성과 신뢰할 수 있음 기준선*) 신뢰성 (안전 조건에 걸리는 한에서), **제 XIX조** (*궤적과 참여 지위*) 궤적과 참여, **제1장 §13** 집중 금지 (명시: §6 홀로 이 바닥을 충족하지 않는다).
 - 함께 읽기: 제5장 *공정 보상*, *집단 조직*, *안전 조건*, *축출 금지 바닥*, *여가와 휴식*, *원주민 연속*, *언어, 문화, 유산*; [§3.7 *신체 유지 접근, 안전 조건, 점유 연속, 환경 전제, 문화 연속, 휴식, 축출 금지 바닥*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (생존, 신체 유지 접근, 점유 연속, 휴식, 안전 노동 조건, 축출 금지, 환경 전제, 또는 장소에 묶인 연속이 함께 실질로 걸리는 곳); [제5장 *집회, 집단 조직, 제도 형성*](../../core_05.055_band_participation.md#assembly-collective-organization-and-institutional-formation) (집회와 집단 조직 경로가 공동으로 걸리는 곳). 시행 라우팅: `corpus_institutions.md` CI-9 / CI-10 / CI-11 재정 자료; *안전 조건*을 위한 `corpus_systems.md` CS-5 안전 프로필.
 
@@ -768,7 +768,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §5 자유](../../core_01.005_values_principles.md#7-freedom-bounded-agency).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 진실](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §5 자유](../../core_01.000_values_principles.md#7-freedom-bounded-agency).
 
 </details>
 
@@ -797,7 +797,7 @@
 - **공익 지향:** 교육은 감지자가 지식을 다음 방식으로 적용하도록 준비해야 한다:
   - 집단 복지와 생태 완전성을 진전;
   - 정보권에서 진실한 조율을 진전;
-  - 이 헌법에 따른 거버넌스와 이해관계자 역할을 가진 체계의 거버넌스에 참여한다([이해관계자 역할 및 참여 권리](../../core_06.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) 참조);
+  - 이 헌법에 따른 거버넌스와 이해관계자 역할을 가진 체계의 거버넌스에 참여한다([이해관계자 역할 및 참여 권리](../../core_06.005_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) 참조);
   - 피할 수 있는 해를 줄임.
 
   능력 구축 내용, 평생·적응 학습, 실질 영향 교육 체계를 위한 투명 요건은 **제 VI조** (*감지자 중심 교육에 대한 권리*)에 나타난다.
@@ -817,7 +817,7 @@
 학교, 플랫폼, 훈련 체계가 성적, 순위, 추천, 배치로 감지자의 미래에 실질적 영향을 줄 수 있으면, 감지자는 결정 방식을 보고, 확인받고, 잘못을 다툴 수 있어야 한다. 체계는 검토할 수 없는 비밀 규칙 뒤에 숨거나, 압박과 기만으로 자유롭게 택하지 않을 선택을 강요해서는 안 된다.
 
 
-- **제도 보장과 의존 체계:** **제 III조** (*생존 및 필수 접근*)의 적법한 재정·배분 장치와 재정 방향은 교육 보장에도 사용할 수 있지만 이 조의 어떤 바닥도 무너뜨려서는 안 된다. 의존 체계가 교육을 공급, 가격 책정, 호스팅하거나 접근을 끊는 경우 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)에 따른 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 적용되며, 해당 절차로 권리 바닥을 좁힐 수 없다.
+- **제도 보장과 의존 체계:** **제 III조** (*생존 및 필수 접근*)의 적법한 재정·배분 장치와 재정 방향은 교육 보장에도 사용할 수 있지만 이 조의 어떤 바닥도 무너뜨려서는 안 된다. 의존 체계가 교육을 공급, 가격 책정, 호스팅하거나 접근을 끊는 경우 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)에 따른 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 적용되며, 해당 절차로 권리 바닥을 좁힐 수 없다.
 
 - **학습 체계의 투명성과 이의 제기:** 학교, 플랫폼, 훈련 체계가 성적, 순위, 추천, 배치로 감지자의 미래에 실질적 영향을 주면, 감지자는 결정 방식을 알고 확인을 요청하며 잘못을 다툴 수 있어야 한다. 체계는 검토 불가한 비밀 규칙 뒤에 숨거나 자유롭게 고르지 않을 선택을 하도록 압박·기만할 수 없다.
 
@@ -827,7 +827,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§8 헌법 해석](../../core_01.010_interaction_interpretation.md#15-constitutional-interpretation), [§11 유인 정합과 체계 포획](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획), [§9 공유 체계 능력](../../core_01.005_values_principles.md#9-shared-system-capacity).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 안전](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§8 헌법 해석](../../core_01.005_interaction_interpretation.md#15-constitutional-interpretation), [§11 유인 정합과 체계 포획](core_01_c_stewardship_capacity_principles.md#19-인센티브-정렬-및-시스템-포획), [§9 공유 체계 능력](../../core_01.000_values_principles.md#9-shared-system-capacity).
 
 </details>
 
@@ -857,15 +857,15 @@
 
 *조의 이웃:*
 
-- **인증이 적용될 때:** 실질 영향 체계가 다른 체계나 감지자가 의지하는 공유 기반시설이나 기초 의존에서 배분, 라우팅, 자금, 또는 추출할 때, [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 아래에서 적용된다.
-  - **등급이 검토 깊이를 정한다:** 검토의 면밀함은 [체계 등급](../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation)에 달려 있다. 등급은 운영자의 명칭이 아니라 체계의 실제 기능, 타 체계의 의존 정도, 실패 시 예상되는 위험으로 정한다.
-  - **등급이 높을수록 더 강한 증거:** 등급이 높을수록 체계가 [정당한 몫을 되돌려 준다](../../core_09.005_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)는 더 강한 증거가 필요하며 재검토도 더 자주 해야 한다.
+- **인증이 적용될 때:** 실질 영향 체계가 다른 체계나 감지자가 의지하는 공유 기반시설이나 기초 의존에서 배분, 라우팅, 자금, 또는 추출할 때, [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 아래에서 적용된다.
+  - **등급이 검토 깊이를 정한다:** 검토의 면밀함은 [체계 등급](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation)에 달려 있다. 등급은 운영자의 명칭이 아니라 체계의 실제 기능, 타 체계의 의존 정도, 실패 시 예상되는 위험으로 정한다.
+  - **등급이 높을수록 더 강한 증거:** 등급이 높을수록 체계가 [정당한 몫을 되돌려 준다](../../core_09.000_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)는 더 강한 증거가 필요하며 재검토도 더 자주 해야 한다.
   - **성장하면 재분류:** 다른 체계가 더 많이 의존하게 되면 상위 등급으로 재분류하고 다시 인증해야 한다.
 - **인증 유지:** 인증은 영구 통과가 아니다. 유지하려면 체계가 **제 V-A조** (*의존 지도와 자원 흐름 투명*) 및 **제 V-B조** (*체계 간 공정과 지속가능성*)를 계속 지켜야 한다.
   - **계속해야 할 일:** 의존 지도와 자원 흐름 기록을 최신 상태로 유지하고, 사용한 자원에 대해 공정하게 되돌려 주어야 한다.
-  - **약속이 아닌 증거:** 각 인증 기록은 실제로 [점검되었음](../../core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)을 보여야 하며, 주장만으로는 안 된다.
+  - **약속이 아닌 증거:** 각 인증 기록은 실제로 [점검되었음](../../core_09.000_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations)을 보여야 하며, 주장만으로는 안 된다.
   - **대체 불가:** 공식 인정이나 오랜 의존은 이 요건을 충족하는 대신이 될 수 없다.
-  - **결과:** 체계가 자원 흐름을 숨기거나 잘못 진술하거나 돌려주는 것보다 계속 더 많이 취하면 [제9장 §7 인증 결과](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)에 따라 인증을 조건부로 만들거나 재개하거나 철회할 수 있다.
+  - **결과:** 체계가 자원 흐름을 숨기거나 잘못 진술하거나 돌려주는 것보다 계속 더 많이 취하면 [제9장 §7 인증 결과](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes)에 따라 인증을 조건부로 만들거나 재개하거나 철회할 수 있다.
 - **대체 금지:** 인정이나 계속 의지는 **제 V-A조** (*의존 지도와 자원 흐름 투명*) 또는 **제 V-B조** (*체계 간 공정과 지속가능성*) 준수를 대체하거나 그 바닥을 줄일 수 없다.
 
 <a id="article-v-a-dependency-mapping-and-resource-flow-transparency"></a>
@@ -873,9 +873,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.2 진실](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [제9장 §3 전체 체계 인증 평가](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 책임 있는 관리 규율 아래 거버넌스](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 상류: 원칙: 제1장 [§3.2 진실](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [제9장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 책임 있는 관리 규율 아래 거버넌스](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - 함께 읽기: 연속 측정 가족 (*헌법 측정으로서의 의존과 자원 흐름*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — 투명한 의존 지도와 감사 가능한 자원 흐름 기록을 통한 **감독**, **제 XVI-A조** (*감사 가능성과 관찰 가능한 증거*) 아래 다툴 수 있는 검토에서의 **참여**; [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** (보이는 비용–편익 배분)과 **연속** (바뀌는 체계를 가로지른 오래가는 의존 가시성).
-- 하류: 체계가 공유 기반시설이나 기초 의존에서 배분, 라우팅, 자금, 또는 추출하는 곳의 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)과 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*자원 배분과 자금의 책임 있는 관리*), **CS-8** (*적응 지속가능성과 생태계 회복력*).
+- 하류: 체계가 공유 기반시설이나 기초 의존에서 배분, 라우팅, 자금, 또는 추출하는 곳의 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)과 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*자원 배분과 자금의 책임 있는 관리*), **CS-8** (*적응 지속가능성과 생태계 회복력*).
 
 </details>
 
@@ -897,7 +897,7 @@
   - 자원 흐름;
   - 실질로 관련되는 곳의 불투명하거나 비대칭 관계.
 
-  갱신은 변화와 중요성에 비례하는 간격으로 일어나야 한다. 이 표시는 **제 XVI-A조** (*감사 가능성과 관찰 가능한 증거*) 아래 감사에 쓸 수 있어야 한다. 체계가 공유 기반시설이나 기초 의존에서 실질로 배분, 라우팅, 자금, 또는 추출하는 곳에서, [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)은 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 아래에서 그것들이 **제 V-A조** (*의존 지도와 자원 흐름 투명*)를 충족하는지를 평가해야 한다 — 다툴 수 있는 **체계 인증 기록** 위에서, 운영자 주장만으로가 아니다.
+  갱신은 변화와 중요성에 비례하는 간격으로 일어나야 한다. 이 표시는 **제 XVI-A조** (*감사 가능성과 관찰 가능한 증거*) 아래 감사에 쓸 수 있어야 한다. 체계가 공유 기반시설이나 기초 의존에서 실질로 배분, 라우팅, 자금, 또는 추출하는 곳에서, [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)은 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 아래에서 그것들이 **제 V-A조** (*의존 지도와 자원 흐름 투명*)를 충족하는지를 평가해야 한다 — 다툴 수 있는 **체계 인증 기록** 위에서, 운영자 주장만으로가 아니다.
 
   운영 기계 — 의존 체계 지도, 흐름 투명, 배분 범주, 적응 조정 — 는 **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*자원 배분과 자금의 책임 있는 관리*), **CS-8** (*적응 지속가능성과 생태계 회복력*) 아래로 라우팅된다. 제9장은 인증이 무엇을 확인하고 기록해야 하는지를 말한다; 그 시행 텍스트는 이 바닥을 시행하며 그것을 좁혀서는 안 된다.
 <a id="article-v-b-cross-system-fairness-and-sustainability"></a>
@@ -907,10 +907,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§13.1 핵심 교환 원칙](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), [제9장 §3 전체 체계 인증 평가](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§3 기초 목표: 복지](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§13.1 핵심 교환 원칙](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), [제9장 §3 전체 체계 인증 평가](../../core_09.000_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 함께 읽기: [*거버넌스 구조, 감독, 의존, 분권, 집중, 시장 구조, 출구 경로 완전성*](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration) (집중, 감독, 의존, 통치 권위 구조, 또는 유인 라우팅이 아래 운영 텍스트의 **§5** / **§5**와 *집중 문턱 상호작용* 규율과 교차하는 곳의 공동 호출).
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — 다툼과 쟁의 경로에서의 **참여**, **감독**과 감사, **책무**와 교정 검토, **제 XXVI-C조** (*제때 해결과 지연 금지 바닥*) 아래 **적시성**; [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** (체계 간 공정과 추출 금지)과 **연속** (장기 지속가능성과 생태계 자금).
-- 하류: 체계 간 공정, 생태계 자금, 또는 공유 기반시설에서의 지속 추출이 실질로 쟁점인 곳의 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)과 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
+- 하류: 체계 간 공정, 생태계 자금, 또는 공유 기반시설에서의 지속 추출이 실질로 쟁점인 곳의 [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)과 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 - 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술](#operative-steward-statement-cross-system-contribution). 지원 포인터는 그것을 좁힐 수 없다.
 
 </details>
@@ -948,12 +948,12 @@
   - 추출 체계가 의지하는 공유 기반시설과 상호운용을 위한 생태계 재투자; 그리고
   - 실질 [생태 발자국](../../core_05.040_band_continuity.md#ecological-footprint)이 부과되고 다른 헌법 규정, 시행 파일, 또는 채택 문서가 행동을 요구하는 곳의 생태 부담 상쇄 또는 회복.
 
-  **제 V-A조** (*의존 지도와 자원 흐름 투명*) 아래 의존 체계 지도와 감사 가능한 자원 흐름 기록에서 유입과 유출을 비교하라. 실질 영향 체계가 공유 기반시설에서 배분, 라우팅, 자금, 또는 추출하는 곳에서, [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)을 통해 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 아래에서 충분성을 평가하라. 운영 배분 기계는 **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*자원 배분과 자금의 책임 있는 관리*), **CS-8** (*적응 지속가능성과 생태계 회복력*) 아래로 라우팅된다; 그 층은 이 바닥을 시행하며 그것을 좁혀서는 안 된다.
+  **제 V-A조** (*의존 지도와 자원 흐름 투명*) 아래 의존 체계 지도와 감사 가능한 자원 흐름 기록에서 유입과 유출을 비교하라. 실질 영향 체계가 공유 기반시설에서 배분, 라우팅, 자금, 또는 추출하는 곳에서, [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)을 통해 [제9장](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 아래에서 충분성을 평가하라. 운영 배분 기계는 **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*자원 배분과 자금의 책임 있는 관리*), **CS-8** (*적응 지속가능성과 생태계 회복력*) 아래로 라우팅된다; 그 층은 이 바닥을 시행하며 그것을 좁혀서는 안 된다.
 
 헌법 정합성을 실질로 위협하는 지속적 불균형은 인증이 계류 중인지와 관계없이 **제 XVI-A조** (*감사 가능성과 관찰 가능한 증거*)에 따른 감사와 **제 XIII-A조** (*신뢰성과 신뢰할 수 있음 기준선*)에 따른 이의 제기 대상이다.
 - **시장 집중 문턱 상호작용:** 다른 감지자의 복지, 행위주체성, 존엄, 또는 생태 완전성을 예견 가능하게 저하하는 방식으로 부, 권력, 통제, 또는 기회의 집중을 만들거나 보존하는 자원 배분 마련은 다음을 발동한다:
   - **제1장 §13 집중 금지 바닥**;
-  - **[§13.1 시장 집중 문턱 메커니즘](../../core_01.005_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)** 규율.
+  - **[§13.1 시장 집중 문턱 메커니즘](../../core_01.000_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)** 규율.
 
   채택 주체가 조절 가능한 운영 문턱은 바닥 안에서 허용된다. 바닥을 무력화하도록 설정된 문턱 체제는 비준수다. 무력화하는 체제의 예:
   - 예견 가능하게 결코 묶이지 않는 문턱;
@@ -970,6 +970,6 @@
 
 **다음 파일(이 언어):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 
-**구속력 있는 원문:** [core_06_rights_part_a.md](../../core_06.005_rights_part_a.md)
+**구속력 있는 원문:** [core_06_rights_part_a.md](../../core_06.000_rights_part_a.md)
 
 

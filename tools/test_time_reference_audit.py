@@ -57,12 +57,12 @@ class VagueReferences(unittest.TestCase):
 
     def test_qualitative_on_purpose_passes_only_in_its_file(self) -> None:
         text = "Problems are spotted and fixed promptly, before the damage sets in.\n"
-        self.assertEqual(scan_text("core_06.005_rights_part_a.md", text, REG), [])
+        self.assertEqual(scan_text("core_06.000_rights_part_a.md", text, REG), [])
         self.assertEqual(len(scan_text("core_demo.md", text, REG)), 1)
 
     def test_qualitative_list_never_excuses_a_number(self) -> None:
         text = "Problems are spotted and fixed promptly, within 3 days.\n"
-        self.assertTrue(scan_text("core_06.005_rights_part_a.md", text, REG))
+        self.assertTrue(scan_text("core_06.000_rights_part_a.md", text, REG))
 
     def test_quoted_mention_is_not_a_use(self) -> None:
         self.assertEqual(findings('"As soon as feasible" is not the clock.\n'), [])

@@ -315,9 +315,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.010_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: [Chapter One §7 Freedom](../../core_01.000_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](../../core_01.005_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §4.2](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (*standing locks*); [Chapter Eleven §8](../../core_11.000_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: [Article XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.020_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Read with: [Article XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Ten §7](../../core_10.000_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified scale*); **Article XX-B** (*Restriction Floors*); [Article XXII-D](../../core_06.015_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
@@ -343,9 +343,9 @@ flowchart TB
   - การพิจารณาคุณสมบัติและการล็อกต้องคำนึงถึงการเข้าร่วมโดยยอมตาม และการไม่ต่อต้านคำสั่งที่ผิดกฎหมายหรือขัดรัฐธรรมนูญ เมื่อมีหน้าที่และความสามารถที่เกี่ยวข้อง ตาม **บทที่ห้า** (*ความล้มเหลวด้านความรับผิดชอบร่วมกัน*).
 - **การล็อกสถานะ:** [การล็อกสถานะ](../../core_05.035_band_accountability.md#standing-lock) เป็นด้านจำกัดของการรับรองความสามารถ ขณะที่คำวินิจฉัยการละเมิดที่ยืนยันแล้วยังไม่คลี่คลายหรือยังไม่ได้เยียวยาอย่างมีสาระ การล็อกอาจห้ามหรือจำกัดเส้นทางด้านความไว้วางใจ บทบาท อำนาจ เครดิต การกำกับดูแล การยอมรับ **การลงคะแนนกำกับดูแล** หรือ **การมีส่วนร่วมของผู้มีส่วนได้เสีย** ผลจำกัดใช้ได้เฉพาะกับเส้นทางสิทธิพิเศษที่ระบุไว้ รวมถึงการแยกจากสถานที่ เครือข่าย หรือผู้มีสำนึกรู้บางรายภายใน[ขอบเขตการแยก](../../core_11.000_standing_integration.md#51-separation-limits) เมื่อความเสี่ยงที่ยืนยันแล้วจำเป็นต้องทำเช่นนั้น
   - การล็อกไม่ใช่ลำดับศักดิ์ศรี การลดระดับขั้นต่ำของสิทธิ การตอบโต้โดยอัตโนมัติ หรือคะแนนคุณความดีแบบรวม
-  - ต้องระบุการเข้าถึงที่ถูกปิดกั้น ผู้หรือสิ่งที่ได้รับการคุ้มครอง เงื่อนไขแก้ไขเพื่อปลดล็อก ช่องทางทบทวน และเวลาประเมินใหม่อย่างชัดเจน และต้องจำเป็น ได้สัดส่วน ตรวจสอบได้ และโต้แย้งได้ตาม[มาตรา XIX-B](../../core_06.020_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)
+  - ต้องระบุการเข้าถึงที่ถูกปิดกั้น ผู้หรือสิ่งที่ได้รับการคุ้มครอง เงื่อนไขแก้ไขเพื่อปลดล็อก ช่องทางทบทวน และเวลาประเมินใหม่อย่างชัดเจน และต้องจำเป็น ได้สัดส่วน ตรวจสอบได้ และโต้แย้งได้ตาม[มาตรา XIX-B](../../core_06.015_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)
   - การรับรองความสามารถไม่ลบล้างการล็อกที่ใช้บังคับ ผลงานที่ดีไม่ลบคำวินิจฉัยการละเมิดที่ยืนยันแล้วและยังไม่คลี่คลาย
-  - กฎเพิ่มเติมสำหรับการล็อกเส้นทางลงคะแนนและการล็อกพิเศษสามชนิดอยู่ใน[มาตรา XIX-E](../../core_06.020_rights_part_d.md#article-xix-e-voting-and-special-locks)
+  - กฎเพิ่มเติมสำหรับการล็อกเส้นทางลงคะแนนและการล็อกพิเศษสามชนิดอยู่ใน[มาตรา XIX-E](../../core_06.015_rights_part_d.md#article-xix-e-voting-and-special-locks)
   - การล็อกสถานะไม่แทนกระบวนการยุติธรรมรายบุคคล และ **โดยลำพัง** ไม่จำกัดการเคลื่อนย้าย การลี้ภัย การเคลื่อนย้ายระบบ หรือการออกจากระบบ ([มาตรา XXI](#มาตรา-xxi-การทำงานรวมกน-การเคลอนยายขอมล-และความสมบรณของการออกจากระบบ) และ[มาตรา XXII](#มาตรา-xxii-การเคลอนยาย-การยายถน-ทลภย-และการไมทำใหไรรฐ)).
 - **ปรับการล็อกให้เหมาะกับความเสียหาย:** ต้องคำนึงถึงความร้ายแรงของความเสียหายที่ยืนยันแล้ว บทบาทหรือสิทธิพิเศษเฉพาะที่ปกป้อง และความคืบหน้าในการเยียวยา
   - **ความช่วยเหลือในอดีต:** พิจารณาได้เฉพาะเมื่อแสดงความสามารถในการเยียวยา รักษามาตรการป้องกัน หรือไม่ให้เกิดซ้ำ หรือสนับสนุนข้อจำกัดที่เบากว่าเมื่อทบทวน ทั้งนี้ไม่อาจหักล้าง ยกเว้น เฉลี่ยลด หรือแทนที่คำวินิจฉัยความเสียหายที่ยังไม่คลี่คลาย
@@ -362,7 +362,7 @@ flowchart TB
 
 <details><summary>การอ้างอิง</summary>
 
-- ต้นทาง: [Chapter One §7 Freedom](../../core_01.005_values_principles.md#7-freedom-bounded-agency) และ [§18 Governance Under Stewardship Discipline](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: [Chapter One §7 Freedom](../../core_01.000_values_principles.md#7-freedom-bounded-agency) และ [§18 Governance Under Stewardship Discipline](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
 - ปลายทาง: [Chapter Eleven §5.5 Special Locks](../../core_11.000_standing_integration.md#55-special-locks); [Chapter Fourteen §4.1 Entitlement and eligibility](../../core_14.000_governance.md#41-entitlement-and-eligibility)
 - อ่านร่วมกับ: [Article XIX-D Violations and Standing Locks](#มาตรา-xix-d-การละเมดและการลอกสถานะ), Article X-B และ Chapter Twelve Anti-Constitutional Misconduct
 
@@ -383,7 +383,7 @@ flowchart TB
 
   standing lock ต้องไม่เป็นเครื่องตัดสิทธิ์เสียงทางการเมืองระยะยาวใน **Foundational Constitutional Choice** การเหมารวมประเภทความประพฤติผิดกว้าง ๆ ให้ถูกตัดสิทธิ์ และรูปแบบข้อจำกัดที่ติดตาม **Protected Characteristics** หรือสิ่งแทนที่มีนัยสำคัญ เป็นการไม่ปฏิบัติตาม
 
-  **ข้อยกเว้นเดียว:** การกำหนดสถานะขั้นสุดท้ายตาม [Chapter Twelve](../../core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) สำหรับการโจมตีรัฐธรรมนูญที่ร้ายแรงที่สุดและตรวจสอบแล้ว จะระงับคะแนนเสียงกำกับดูแลพื้นฐานจนกว่า **การชดใช้คืนครบถ้วน** การระงับนี้ไม่ใช่ standing lock จึงไม่อยู่ใต้ข้อกำหนดสี่ข้อข้างต้น กฎและหลักประกันอยู่ใน [Chapter Fourteen §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)
+  **ข้อยกเว้นเดียว:** การกำหนดสถานะขั้นสุดท้ายตาม [Chapter Twelve](../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation) สำหรับการโจมตีรัฐธรรมนูญที่ร้ายแรงที่สุดและตรวจสอบแล้ว จะระงับคะแนนเสียงกำกับดูแลพื้นฐานจนกว่า **การชดใช้คืนครบถ้วน** การระงับนี้ไม่ใช่ standing lock จึงไม่อยู่ใต้ข้อกำหนดสี่ข้อข้างต้น กฎและหลักประกันอยู่ใน [Chapter Fourteen §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility)
 - **ข้อจำกัดพิเศษ:** [Chapter Eleven §5.5](../../core_11.000_standing_integration.md#55-special-locks) กำหนดไว้ดังนี้:
   - **Forum-service standing lock:** เกิดเมื่อมีการตรวจสอบแล้วว่าผู้ดำรงบทบาทใน forum ไม่ถอนตัวทั้งที่ต้องถอน และความเป็นกลางได้รับผลกระทบอย่างมีนัยสำคัญ การกลับมาปฏิบัติหน้าที่ต้องมีการฟื้นฟูโดยอิสระอย่างเข้มงวด คำขอโทษทั่วไป ผลงานเดิม ชื่อเสียง การขาดผู้เชี่ยวชาญ หรือความจำเป็นด้านกำลังคนเพียงอย่างเดียวไม่พอ
   - **Stakeholder-Participation Standing Lock:** การทุจริต การยึดครอง การใช้ส่วนได้เสียเท็จ การบังคับ หรือการใช้ช่องทาง stakeholder-participation ในทางผิดอย่างมีนัยสำคัญที่ตรวจสอบแล้ว ทำให้เกิดข้อจำกัดนี้ จำกัดอิทธิพลถ่วงน้ำหนักและการเลือกที่มีผลผูกพันในขอบเขตที่ได้รับผลกระทบ แต่ไม่ตัด governance-voting, Foundational Constitutional Choice หรือสถานะ stakeholder โดยตัวมันเอง คำขอโทษเดิม ผลงานเดิม ขนาดส่วนได้เสีย หรือความจำเป็นของผู้ดำเนินการเพียงอย่างเดียวไม่ยกเลิกข้อจำกัด
@@ -396,7 +396,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [§18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship)
 - ปลายทาง: [บทที่สิบ §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*การละเมิด การแก้ไข และการป้องกัน*); [บทที่สิบเอ็ด §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*หลักประกันกระบวนการอันชอบธรรม การเยียวยา และการป้องกัน*)
 
 </details>
@@ -428,7 +428,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1.5 กระบวนการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§3.3 กระบวนการที่ไม่ลดทอนศักดิ์ศรี](core_01_a_values_principles.md#33-กระบวนการตอตานการลดทอนศกดศร) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1.5 กระบวนการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§3.3 กระบวนการที่ไม่ลดทอนศักดิ์ศรี](core_01_a_values_principles.md#33-กระบวนการตอตานการลดทอนศกดศร) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 - ปลายทาง: [บทที่สิบ §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*การละเมิด การแก้ไข และการป้องกัน*); [มาตรา XX-B](#มาตรา-xx-b-เกณฑขนตำในการจำกดสทธ)
 - อ่านร่วมกับ: [ความโหดร้าย](../../core_05.035_band_accountability.md#cruelty) (*จุดอ้างอิงในบทที่ห้าสำหรับเกณฑ์ต่อต้านความโหดร้ายที่ห้ามทำให้ความทุกข์เป็นเป้าหมาย*)
 
@@ -673,8 +673,8 @@ flowchart TB
 - **ให้ความสำคัญกับแบบเปิด:** ระบบควรเลือกรูปแบบ อินเทอร์เฟซ และโปรโตคอลแบบเปิด หน้าที่นี้เข้มขึ้นตามผลกระทบที่เป็นสาระสำคัญและระดับการพึ่งพา
 - **สิ่งที่ถือว่าเปิด:** มีข้อกำหนดฉบับสมบูรณ์เปิดเผยต่อสาธารณะ ใครก็ใช้งานได้โดยไม่ต้องขออนุญาต เสียค่าธรรมเนียมหรือค่าสิทธิ และไม่มีฝ่ายเดียวเปลี่ยนแปลงได้ตามลำพัง หรือผู้อื่นสามารถแยกไปพัฒนาและดูแลต่อได้โดยเสรีเมื่อฝ่ายนั้นเลิกสนับสนุน รูปแบบที่มีเอกสารแต่ไม่ผ่านข้อใดข้อหนึ่งถือว่าปิดสำหรับอนุมาตรานี้ แต่ยังดีกว่ารูปแบบที่ไม่มีเอกสาร
 - **หน้าที่ตามชั้นงาน:**
-  - **การออกจากระบบ:** เส้นทางส่งออกและย้ายข้อมูลตาม [Article XXI-A](../../core_06.020_rights_part_d.md#article-xxi-a-portability-rights) ต้องมีรูปแบบเปิดอย่างน้อยหนึ่งรูปแบบเมื่อสามารถย้ายข้อมูลได้โดยไม่สูญเสียโครงสร้าง เมทาดาทา ความสัมพันธ์ หรือความเที่ยงตรงอย่างมีนัยสำคัญ
-  - **การทำงานร่วมกัน:** ขอบเขตการเชื่อมต่อภายใต้ [Article XXI-B](../../core_06.020_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) ต้องใช้มาตรฐานและโปรโตคอลแบบเปิดเป็นค่าเริ่มต้น ใช้แบบปิดได้เมื่อมีเหตุผลตามอนุมาตรานี้เท่านั้น
+  - **การออกจากระบบ:** เส้นทางส่งออกและย้ายข้อมูลตาม [Article XXI-A](../../core_06.015_rights_part_d.md#article-xxi-a-portability-rights) ต้องมีรูปแบบเปิดอย่างน้อยหนึ่งรูปแบบเมื่อสามารถย้ายข้อมูลได้โดยไม่สูญเสียโครงสร้าง เมทาดาทา ความสัมพันธ์ หรือความเที่ยงตรงอย่างมีนัยสำคัญ
+  - **การทำงานร่วมกัน:** ขอบเขตการเชื่อมต่อภายใต้ [Article XXI-B](../../core_06.015_rights_part_d.md#article-xxi-b-reciprocal-interoperability-boundaries) ต้องใช้มาตรฐานและโปรโตคอลแบบเปิดเป็นค่าเริ่มต้น ใช้แบบปิดได้เมื่อมีเหตุผลตามอนุมาตรานี้เท่านั้น
   - **รูปแบบภายในและรูปแบบเฉพาะระบบ:** ควรเลือกรูปแบบเปิดสำหรับการจัดเก็บและการทำงานภายใน รูปแบบปิดต้องมีเหตุผลที่หนักแน่นขึ้นตามผลกระทบและการพึ่งพา
   - **ข้อมูลสาธารณะ:** ข้อมูลที่เผยแพร่ให้สาธารณะเข้าถึง รวมถึงประเภท O, E และ W ตาม corpus_systems.md CS-2 ต้องเผยแพร่ในรูปแบบเปิดเป็นค่าเริ่มต้น
 - **เหตุผลที่ใช้รูปแบบปิดได้:** ใช้รูปแบบ อินเทอร์เฟซ หรือโปรโตคอลแบบปิดได้เฉพาะเมื่อไม่มีทางเลือกแบบเปิดที่ตอบสนองความต้องการสำคัญ เช่น ความเที่ยงตรง ประสิทธิภาพ ความปลอดภัย ความมั่นคงปลอดภัย การเข้าถึง หรือหน้าที่เฉพาะ
@@ -682,7 +682,7 @@ flowchart TB
   - ต้องเสนอการส่งออกแบบเปิดที่ดีที่สุดเท่าที่มี และเปิดเผยสิ่งที่สูญเสียไปกับการส่งออกนั้น
   - ต้องจัดทำเอกสารรูปแบบปิดให้เพียงพอสำหรับการย้าย หรือฝากเอกสารไว้กับผู้รับฝากอิสระ
   - ต้องทบทวนทางเลือกเป็นระยะเมื่อทางเลือกแบบเปิดพัฒนาขึ้น และทุกครั้งที่มีการรับรองหรือยืนยันใหม่ซึ่งมีผลกระทบสำคัญ
-  - ความสะดวก การประหยัดค่าใช้จ่ายของผู้ดำเนินการ หรือการเป็นเจ้าตลาดเพียงอย่างเดียวไม่ใช่เหตุผล รูปแบบปิดที่มีผลหลักเป็นการขัดขวางการออกหรือเปลี่ยนระบบขัดต่อ [Article XXI-C](../../core_06.020_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
+  - ความสะดวก การประหยัดค่าใช้จ่ายของผู้ดำเนินการ หรือการเป็นเจ้าตลาดเพียงอย่างเดียวไม่ใช่เหตุผล รูปแบบปิดที่มีผลหลักเป็นการขัดขวางการออกหรือเปลี่ยนระบบขัดต่อ [Article XXI-C](../../core_06.015_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
 - **ช่วงเปลี่ยนผ่าน:** ระบบที่ทำงานอยู่แล้วเมื่ออนุมาตรานี้เริ่มใช้ต้องเปิดเผยแผนย้ายระบบ และโดยปกติต้องทำตามหน้าที่ด้านการทำงานร่วมกัน รูปแบบภายใน และข้อมูลสาธารณะภายในหนึ่งปี
   - ผู้รับอาจกำหนดช่วงเวลาอื่นสำหรับระบบแต่ละประเภทผ่านการนำไปใช้ใน Chapter Eighteen พร้อมเผยแพร่เหตุผล
   - ให้ขยายเวลาได้เฉพาะเมื่อมีสถานการณ์พิเศษ และมีเหตุผลตามภาระการให้เหตุผลที่ใช้บังคับซึ่งบันทึกไว้ ตรวจสอบได้ และจำกัดเวลา
@@ -905,7 +905,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 - อ่านร่วมกับ: [บทที่หนึ่ง §5.2 การเข้าถึงภาษาสามัญ (หน้าที่ในการดูแลรับผิดชอบ)](core_01_a_values_principles.md#52-การเขาถงดวยภาษาทเขาใจงาย-หนาทดานการมสวนรวมและการดแลรบผดชอบ), [§13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-การลดภาระทหลกเลยงไดใหนอยทสด) และ [บทที่หนึ่ง ส่วน C §16.1 ความเข้าใจที่กระจายอยู่ทั่วระบบ](core_01_c_stewardship_capacity_principles.md#161-ความเขาใจทกระจายทวถง)
 
 </details>
@@ -936,7 +936,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [บทที่หนึ่ง §18.5 สถาปัตยกรรมแบบโมดูลและวินัยการพึ่งพา](core_01_c_stewardship_capacity_principles.md#185-สถาปตยกรรมแบบโมดลารและวนยดานการพงพา) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [บทที่เก้า §3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [บทที่หนึ่ง §18.5 สถาปัตยกรรมแบบโมดูลและวินัยการพึ่งพา](core_01_c_stewardship_capacity_principles.md#185-สถาปตยกรรมแบบโมดลารและวนยดานการพงพา) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
 
 </details>
 
@@ -975,7 +975,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 - อ่านร่วมกับ: [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) — **ความรุ่งเรือง** และ **ความต่อเนื่อง**; [การย้อนกลับได้](../../core_05.040_band_continuity.md#reversibility), [ความเสี่ยง](../../core_05.040_band_continuity.md#risk) และ [การผูกขาดระบบ](../../core_05.040_band_continuity.md#system-capture) ใน **บทที่ห้า**
 
 </details>
@@ -1021,7 +1021,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -1054,7 +1054,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-หลกการหลกวาดวยการแลกเปลยน) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -1176,7 +1176,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
 - ต้นทาง: หลักการในบทที่หนึ่ง [§13.1.5 เกณฑ์ตัดสินความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 การกำกับดูแลภายใต้วินัยความรับผิดชอบในการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-ธรรมาภบาลภายใตวนย-stewardship) และ [§20 การประยุกต์แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-การประยกตใชแบบบรณาการ)
-- อ่านร่วมกับ: [บทที่สิบ §5.5](core_09_standing_integration.md#55-special-locks) (*การไม่เปิดเผยข้อมูลในเวทีและผลกระทบต่อกระบวนการถอนตัว*); [บทที่สิบเอ็ด §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*รูปแบบการประพฤติมิชอบที่ระบุไว้*); [บทที่สิบสอง §2](core_11_forum.md#2-default-venue-and-primary-stakes) และ [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*การส่งเรื่องให้ความสมบูรณ์มาก่อนและการห้ามตัดสินตนเอง*)
+- อ่านร่วมกับ: [บทที่สิบ §5.5](core_09_standing_integration.md#55-special-locks) (*การไม่เปิดเผยข้อมูลในเวทีและผลกระทบต่อกระบวนการถอนตัว*); [บทที่สิบเอ็ด §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*รูปแบบการประพฤติมิชอบที่ระบุไว้*); [บทที่สิบสอง §2](core_11_forum.md#2-default-venue-and-primary-stakes) และ [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*การส่งเรื่องให้ความสมบูรณ์มาก่อนและการห้ามตัดสินตนเอง*)
 
 </details>
 

@@ -41,9 +41,9 @@ This Constitution may be amended to improve protection, clarity, binding effect,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Seventeen](#chapter-seventeen-amendment-ratification-and-procedural-validity) validity stack; [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) Rights Floor.
+- Upstream: [Chapter Seventeen](#chapter-seventeen-amendment-ratification-and-procedural-validity) validity stack; [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) Rights Floor.
 - Downstream: [§2](#2-burden-of-justification-and-public-traceability) public justification; [§7](#7-review-triggers) automatic triggers list.
-- Read with: [Article XII](core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) family for materially rights-affecting process design.
+- Read with: [Article XII](core_06.005_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) family for materially rights-affecting process design.
 
 </details>
 
@@ -126,7 +126,7 @@ A proposed amendment is invalid where the adoption document, edition identifier,
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes) independent review expectation; [§5](#5-test-3--authority-chain-and-custody-validity) custody baseline.
 - Downstream: [§7](#7-review-triggers) automatic heightened review; [§8](#8-provisional-effect-rule) irreversible effect timing.
-- Read with: [Article XIII-A](core_06.015_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) contest pathways; [Article XXV](core_06.020_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) independent constitutional review.
+- Read with: [Article XIII-A](core_06.010_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) contest pathways; [Article XXV](core_06.015_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) independent constitutional review.
 
 </details>
 
@@ -166,7 +166,7 @@ Heightened review is automatically triggered for amendments that materially affe
 
 - Upstream: [§7](#7-review-triggers) heightened review triggers.
 - Downstream: [§9](#9-invalid-change-handling-and-remediation-continuity) invalidity handling; [Chapter Sixteen §2](core_16.000_expansion_supremacy.md#2-continuity-of-supremacy-and-challenge-rights-during-amendment) (16.000 §2) continuity of challenge rights.
-- Read with: [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) rights materiality for what counts as "rights-affecting."
+- Read with: [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) rights materiality for what counts as "rights-affecting."
 
 </details>
 
@@ -251,7 +251,7 @@ Adopters must maintain an identifiable adoption document. Examples include **joi
 - identify the custodian of the authoritative edition of this Constitution and its integrated implementation files.
 - be consistent with document-control expectations in [README.md](README.md) and [Chapter Five *Corpus*](core_05.045_band_integrative.md#corpus) (authoritative corpus, edition identifier, custody chain).
 - be consistent with **Corpus** in Chapter Five ([core_05.000_definitions_home.md](core_05.045_band_integrative.md#corpus)).
-- where [Article I-D](core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the adoption document or in incorporated implementation it pins — not a core-chosen numeric target.
+- where [Article I-D](core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the adoption document or in incorporated implementation it pins — not a core-chosen numeric target.
 
 #### 10.3 Joining by additional parties
 <details>
@@ -259,7 +259,7 @@ Adopters must maintain an identifiable adoption document. Examples include **joi
 
 - Upstream: [§10.2](#102-adoption-document) document pattern including joining.
 - Downstream: [§11.2](#112-recorded-effectiveness) undisclosed or bypassed procedure as invalidating.
-- Read with: [Article XII-B: Weighted Participation and Anti-Token Constraints](core_06.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) where participation weight applies per operative cross-reference.
+- Read with: [Article XII-B: Weighted Participation and Anti-Token Constraints](core_06.005_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) where participation weight applies per operative cross-reference.
 
 </details>
 
@@ -276,7 +276,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 - Upstream: [§4](#4-test-2--procedural-validity-and-publication-integrity) Test 2; [§10](#10-ratification-and-adoption) adoption documents.
 - Subsections: [§11.1](#111-notice-and-contest); [§11.2](#112-recorded-effectiveness).
 - Downstream: [§12](#12-layer-scope) procedural-layer discipline restatement.
-- Read with: [Article XII-A: Stakeholder System Participation and Representation](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) where cited for materially high-impact change record (operative cross-reference governs scope).
+- Read with: [Article XII-A: Stakeholder System Participation and Representation](core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) where cited for materially high-impact change record (operative cross-reference governs scope).
 
 </details>
 
@@ -290,7 +290,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 - Upstream: [§11](#11-amendment-procedure-requirements) procedure requirements header.
 - Downstream: [§4](#4-test-2--procedural-validity-and-publication-integrity) overlaps with publication integrity; [§1](#1-heightened-review-for-rights-affecting-changes) heightened review for rights-affecting packages.
-- Read with: [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000) burden and traceability; [Article XII-A](core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) for materially high-impact changes.
+- Read with: [Chapter Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (4.000) burden and traceability; [Article XII-A](core_06.005_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) for materially high-impact changes.
 
 </details>
 
@@ -324,8 +324,8 @@ Amendments take effect only on a stated effective date or event recorded in the 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Fifteen §4](core_15.000_non_regression.md#4-layer-scope) (15.000 §4) substantive-chapter mirror; [§7](#7-review-triggers) and [§9](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
-- Downstream: [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) and [Chapter Twelve](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.005) remain sole canonical homes for listed taxonomies.
-- Read with: [Chapter Six — Layer scope](core_06.005_rights_part_a.md#12-layer-scope) (6.005) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
+- Downstream: [Chapter Ten](core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) and [Chapter Twelve](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (12.000) remain sole canonical homes for listed taxonomies.
+- Read with: [Chapter Six — Layer scope](core_06.000_rights_part_a.md#12-layer-scope) (6.000) and [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
 
 </details>
 
@@ -344,7 +344,7 @@ Future additions that touch offense-flavored or sanction-flavored language must 
 
 > Canonical owner routing lives in the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights). For editorial orientation, obligations outside the procedural change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Ten** in [core_10.000_standing_assessment.md](core_10.000_standing_assessment.md); **standing effects and integration** — **Chapter Eleven** in [core_11.000_standing_integration.md](core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration);
-> - **numeric Contribution and Violation Axis slots** — the **Chapter Ten §7 unified scale**, with separate records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for qualifying Violation Axis slots 7–9 — **Chapter Twelve** in [core_12.005_misconduct_designation.md](core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct); and
+> - **numeric Contribution and Violation Axis slots** — the **Chapter Ten §7 unified scale**, with separate records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for qualifying Violation Axis slots 7–9 — **Chapter Twelve** in [core_12.000_misconduct_designation.md](core_12.000_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct); and
 > - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Fifteen §4 Layer scope](core_15.000_non_regression.md#4-layer-scope) and the [Preamble — constitutional owner register](core_00.000_preamble.md#4-principles-definitions-and-rights).
 
 </details>

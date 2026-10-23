@@ -350,7 +350,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ ও উৎস</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
+- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§3 মৌলিক উদ্দেশ্য: কল্যাণ](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [§18 তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ)।
 - অধস্তন প্রয়োগ: [অধ্যায় দশ §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*লঙ্ঘন, সংশোধন ও প্রতিরোধ*); [অধ্যায় এগারো §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*যথাযথ প্রক্রিয়ার সুরক্ষা, প্রতিকার ও প্রতিরোধ*)।
 
 </details>
@@ -382,7 +382,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ ও উৎস</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§3.3 অবমাননাকর প্রক্রিয়া-বিরোধী নীতি](core_01_a_values_principles.md#33-অবমননকর-পরকরয-নবরণ), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
+- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§3.3 অবমাননাকর প্রক্রিয়া-বিরোধী নীতি](core_01_a_values_principles.md#33-অবমননকর-পরকরয-নবরণ), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 - অধস্তন প্রয়োগ: [অধ্যায় দশ §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*লঙ্ঘন, সংশোধন ও প্রতিরোধ*); [অনুচ্ছেদ XX-B](#অনচছদ-xx-b-বধনষধর-নযনতম-মন)।
 - একত্রে পড়ুন: [নিষ্ঠুরতা](../../core_05.035_band_accountability.md#cruelty) (*নিষ্ঠুরতা-বিরোধী ন্যূনতম মানে কষ্টকে নিজেই লক্ষ্য করার নিষেধের অধ্যায়-পাঁচের অবস্থান*)।
 
@@ -415,7 +415,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ ও উৎস</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 মূল ভারসাম্য-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), [§13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [§14 চূড়ান্ত অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 মূল ভারসাম্য-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), [§13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [§14 চূড়ান্ত অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 - অধস্তন প্রয়োগ: [অধ্যায় দশ §5 লক-নকশা ও প্রয়োগ](core_09_standing_integration.md#5-lock-design-and-enforcement) এবং [§5.4 বিশেষ লঙ্ঘনবিধি](core_09_standing_integration.md#54-special-violation-rules) (*যাচাইকৃত সহিংসতার জন্য বাধ্যতামূলক কারাবাস এবং জবরদস্তি বা স্বাধীনতা-সীমিত অন্যান্য সুরক্ষা*); [অধ্যায় এগারো §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*প্রতিরোধ — সাংবিধানিক-বিরোধী লক*; কারাবাসের বিশেষ নিয়ম)।
 - একত্রে পড়ুন: [অনুচ্ছেদ XXVI-C](core_06_rights_part_e.md#অনচছদ-xxvi-c-সমযচত-নষপতত-ও-বলমব-বরধ-নযনতম-মন) (*সময়মতো নিষ্পত্তি ও বিলম্ব-বিরোধী ন্যূনতম মান*); [অধ্যায় বারো §5 উন্নীতকরণ ও প্রত্যয়ন](core_11_forum.md#5-escalation-and-certification)।
 
@@ -641,7 +641,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ ও উৎস</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 আনুপাতিকতা](core_01_b_interaction_interpretation.md#১৩১৩-আনপতকত), [§7.1 সীমাবিধির শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline)।
+- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1.3 আনুপাতিকতা](core_01_b_interaction_interpretation.md#১৩১৩-আনপতকত), [§7.1 সীমাবিধির শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline)।
 - অধস্তন প্রয়োগ: মর্যাদার ন্যূনতম মান **অনুচ্ছেদ VI-A** (*মর্যাদা ও সমান নৈতিক অবস্থান*), বৈষম্যহীনতা **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*), অংশীজনের অংশগ্রহণ **অনুচ্ছেদ XII** (*অংশীজন ব্যবস্থায় অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া*), অবস্থান ও অংশগ্রহণের মর্যাদার রুটিং **অনুচ্ছেদ XIX**, জরুরি ব্যবস্থা-সীমা **অধ্যায় বারো §6.1** (*জরুরি ব্যবস্থা ও তা অব্যাহত রাখার দায়*), রূপান্তর শাসন **অনুচ্ছেদ XXVIII** (*রূপান্তর শাসন, ধারাবাহিকতা ও পুনঃভিত্তিরেখা*)।
 - একত্রে পড়ুন: [অধ্যায় পাঁচ *চলাচল, আশ্রয়, রাষ্ট্রহীনতা রোধ ও প্রস্থানের অখণ্ডতা*](core_05_band_oversight.md#movement-refuge-semi-independent); *চলাচল ও স্থানান্তর*, *অসম্মতি থেকে আশ্রয়*, *রাষ্ট্রহীনতা রোধ*, *সংবেদনশীলতা-ভিত্তিক বর্জন নিষেধ*; প্রস্থান, আবাসন শেষ, উচ্ছেদ বা গুরুত্বপূর্ণ স্থানান্তর প্রাসঙ্গিক হলে *ব্যবস্থাগত আটকে পড়া* ও *দখল-ধারাবাহিকতা*; কোনো ব্যবস্থা বা প্রকল্প স্থান বসবাসের অনুপযোগী করলে **অনুচ্ছেদ I-A** (*পরিবেশগত পূর্বশর্ত ও পরিবেশগত অখণ্ডতা*); ভিত্তি-স্থানান্তর ও প্রস্থানের অখণ্ডতার জন্য **অনুচ্ছেদ XXI-A** (*বহনযোগ্যতার অধিকার*) থেকে **অনুচ্ছেদ XXI-C** (*আটকে রাখার বিরুদ্ধে নিয়ম*); রূপান্তরকালীন স্বীকৃতির জন্য **অনুচ্ছেদ XXVIII** (*রূপান্তর শাসন, ধারাবাহিকতা ও পুনঃভিত্তিরেখা*)।
 
@@ -759,7 +759,7 @@ flowchart TB
   - জলবায়ুতে বসবাস-অনুপযোগিতাজনিত আশ্রয় বিষয়ে এই অনুচ্ছেদের গ্রহণকারী-নির্ধারিত বুলেটে পাঠাতে হবে; একে ন্যূনতম মানে মঞ্জুরি বা অস্বীকৃতি হিসেবে পড়া যাবে না।
 <a id="article-xxii-comprehensibility-and-complexity-stewardship"></a>
 - **পৃথকীকরণ ও অবস্থান-লকের সীমা:** পৃথকীকরণ নির্দিষ্ট পরিবেশ বা যোগাযোগে বাধা দিতে পারে; কিন্তু সাধারণ নির্বাসন, আশ্রয় অস্বীকার, রাষ্ট্রহীনতা, বন্দিত্ব বা ব্যবস্থাগত আটকে রাখার রূপ নিতে পারবে না। অবস্থান-লক নিজে থেকে কারাদণ্ড, আটক বা অন্য স্বাধীনতা-সীমা অনুমোদন করে না; তার জন্য ওপরের স্বতন্ত্র ন্যায়বিচার-প্রক্রিয়া চাই। প্রতিটি ব্যবস্থা নিজস্ব সাংবিধানিক শর্ত পূরণ করলে দুটো পাশাপাশি চলতে পারে। হেফাজতেও অধিকার-তল, প্রতিকার ও প্রক্রিয়াগত ন্যায্যতা অক্ষুণ্ণ থাকবে।
-- **হেফাজতের ন্যূনতম:** **অনুচ্ছেদ XX-B** (*বিধিনিষেধের ন্যূনতম মান*)—[হেফাজতের শর্তের ন্যূনতম](../../core_06.020_rights_part_d.md#xx-b-conditions-of-custody) সহ—এবং অধ্যায় এগারো §5.4-এর প্রযোজ্য ফৌজদারি-প্রক্রিয়া বা সমমানের সুরক্ষা পূরণ করতে হবে।
+- **হেফাজতের ন্যূনতম:** **অনুচ্ছেদ XX-B** (*বিধিনিষেধের ন্যূনতম মান*)—[হেফাজতের শর্তের ন্যূনতম](../../core_06.015_rights_part_d.md#xx-b-conditions-of-custody) সহ—এবং অধ্যায় এগারো §5.4-এর প্রযোজ্য ফৌজদারি-প্রক্রিয়া বা সমমানের সুরক্ষা পূরণ করতে হবে।
 
 <a id="article-xxiii-comprehensibility-and-complexity-stewardship"></a>
 ### অনুচ্ছেদ XXIII: বোধগম্যতা ও জটিলতার দায়িত্বশীল ব্যবস্থাপনা
@@ -852,7 +852,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ ও উৎস</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [অধ্যায় এক §18.5 মডুলার স্থাপত্য ও নির্ভরতা-শৃঙ্খলা](core_01_c_stewardship_capacity_principles.md#185-মডলর-সথপতয-ও-নরভরত-শঙখল), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
+- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [অধ্যায় এক §18.5 মডুলার স্থাপত্য ও নির্ভরতা-শৃঙ্খলা](core_01_c_stewardship_capacity_principles.md#185-মডলর-সথপতয-ও-নরভরত-শঙখল), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
 
 </details>
 
@@ -891,7 +891,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ ও উৎস</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 মূল ভারসাম্য-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং অধ্যায় আট [§3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 মূল ভারসাম্য-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং অধ্যায় আট [§3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - একত্রে পড়ুন: [সাংবিধানিক চতুর্মাত্রা](core_00_preamble.md#constitutional-tetrad); [দুটি সাংবিধানিক লক্ষ্য](core_00_preamble.md#two-constitutional-aims)—**সমৃদ্ধি** ও **ধারাবাহিকতা**; **অধ্যায় পাঁচ**-এর [প্রত্যাবর্তনযোগ্যতা](../../core_05.040_band_continuity.md#reversibility-constitutional), [ঝুঁকি](../../core_05.040_band_continuity.md#risk), এবং [ব্যবস্থা-দখল](../../core_05.040_band_continuity.md#system-capture)।
 
 </details>
@@ -938,7 +938,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ ও উৎস</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), এবং অধ্যায় আট [§3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), এবং অধ্যায় আট [§3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -972,7 +972,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ ও উৎস</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§13.1 মূল ভারসাম্য-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং অধ্যায় আট [§3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§4 নিরাপত্তা](../../core_01.000_values_principles.md#4-safety-harm-constraint), [§13.1 মূল ভারসাম্য-নীতি](core_01_b_interaction_interpretation.md#131-মল-সমঝত-নত), এবং অধ্যায় আট [§3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -1091,7 +1091,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">অনুসরণ ও উৎস</span></strong></summary>
 
 - ঊর্ধ্বতন ভিত্তি: অধ্যায় একের নীতি [§13.1.5 অধিকার-সংঘাত সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-stewardship-শঙখলর-অধন-শসনবযবসথ), এবং [§20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#২০-সমনবত-পরযগ)।
-- একত্রে পড়ুন: [অধ্যায় দশ §5.5](core_09_standing_integration.md#55-special-locks) (*ফোরামে স্বার্থ-সংঘাত প্রকাশ বাদ পড়া এবং প্রত্যাহার-প্রক্রিয়ার প্রভাব*); [অধ্যায় এগারো §5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*নির্দিষ্ট অসদাচরণের ধরণ*); [অধ্যায় বারো §2](core_11_forum.md#2-default-venue-and-primary-stakes) ও [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*অখণ্ডতা-প্রথম রুটিং ও নিজেকে বিচার না করার নিয়ম*)।
+- একত্রে পড়ুন: [অধ্যায় দশ §5.5](core_09_standing_integration.md#55-special-locks) (*ফোরামে স্বার্থ-সংঘাত প্রকাশ বাদ পড়া এবং প্রত্যাহার-প্রক্রিয়ার প্রভাব*); [অধ্যায় এগারো §5.10](../../core_12.005_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*নির্দিষ্ট অসদাচরণের ধরণ*); [অধ্যায় বারো §2](core_11_forum.md#2-default-venue-and-primary-stakes) ও [§3](core_11_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*অখণ্ডতা-প্রথম রুটিং ও নিজেকে বিচার না করার নিয়ম*)।
 
 </details>
 

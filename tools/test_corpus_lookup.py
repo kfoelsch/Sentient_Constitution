@@ -291,7 +291,7 @@ class CorpusLookupTests(unittest.TestCase):
         self.assertTrue(
             any(
                 name.endswith("core_05.040_band_continuity.md")
-                or name.endswith("core_06.005_rights_part_a.md")
+                or name.endswith("core_06.000_rights_part_a.md")
                 for name in files
             ),
             files,

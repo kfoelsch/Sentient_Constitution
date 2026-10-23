@@ -1,12 +1,12 @@
 <a id="chapter-seven-functional-independence-and-segregation-of-duties"></a>
-# CHAPITRE SEPT : INDÉPENDANCE FONCTIONNELLE ET SÉGRÉGATION DES TÂCHES
+# CHAPITRE SEPT : INDÉPENDANCE FONCTIONNELLE ET SÉPARATION DES TÂCHES
 
 <details>
 <summary><strong><span style="color: #2563eb;">Placement de corpus (non opératoire) : structure des fichiers et règles de lecture</span></strong></summary>
 
 > Le contenu suivant est **conseils au lecteur uniquement**. Il n’ajoute, ne supprime ni ne restreint les obligations contraignantes ailleurs dans ce fichier ou dans d’autres chapitres.
 >
-> Ce fichier fait **partie de la Constitution sentiente** et ne lie qu’en combinaison avec les autres fichiers numérotés `core_*`, qui doivent être lus comme un instrument unique. Il contient le **Chapitre sept** : le seuil interprocessus en matière d’indépendance fonctionnelle et de séparation des tâches. Il suit le plancher des droits du chapitre six et précède les chapitres de procédure constitutionnelle, à commencer par [la certification de l’alignement du système du chapitre huit](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index).
+> Ce fichier fait **partie de la Constitution sentiente** et ne lie qu’en combinaison avec les autres fichiers numérotés `core_*`, qui doivent être lus comme un instrument unique. Il contient le **Chapitre sept** : le seuil interprocessus en matière d’indépendance fonctionnelle et de séparation des tâches. Il suit le plancher des droits du chapitre six et précède les chapitres de procédure constitutionnelle, à commencer par [la certification de l’alignement du système du chapitre huit](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification).
 >
 > - **Titulaire constitutionnel :** l’exigence minimale de sièges distincts pour les actes matériellement contraignants ; le contenu minimal universel de chaque [dossier d’acte matériellement contraignant](../../core_05_band_accountability.md#materially-binding-act-record) ; l’indépendance vis-à-vis de l’acteur et de sa [ligne de contrôle matériel](../../core_05_band_accountability.md#material-control-line) ; la publication du parcours et l’attribution des rôles ; le traitement des conflits, des vacances de siège, des remplacements et des erreurs d’attribution ; le regroupement proportionné des sièges ; les transferts attribuables ; et les conditions minimales d’indépendance que tout processus constitutionnel ultérieur doit appliquer.
 > - **Source de la couche principe :** [Chapitre un §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) nécessite une gouvernance pour préserver l’indépendance fonctionnelle et achemine ici l’architecture des sièges opérationnels.
@@ -22,7 +22,7 @@
 
 - En amont: [Tétrade constitutionnelle](../../core_00_preamble.md#constitutional-tetrad) - en particulier **surveillance** et **responsabilité**; [enjeu matériel](../../core_00_preamble.md#material-stake); [Chapitre un §17.1 Norme de gestion partagée](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [Chapitre un §18 Gouvernance dans le cadre de la discipline d'intendance](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Article XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, transparence et vérification indépendante*).
 - Sous-sections : [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
-- En aval: [Chapitre huit](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Chapitre neuf](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chapitre douze](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Chapitre treize](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); texte de mise en œuvre désigné mentionné ci-dessus.
+- En aval: [Chapitre huit](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chapitre neuf](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chapitre douze](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Chapitre treize](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); texte de mise en œuvre désigné mentionné ci-dessus.
 - Lire avec : [Chapitre un §19.3 Détection de désalignement](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*détection et examen pluriels*); [Action attribuable](../../core_05_band_accountability.md#attributable-action); [Intégrité de l'attribution](../../core_05_band_accountability.md#attribution-integrity); [Auditabilité](../../core_05_band_oversight.md#auditability); [Contestabilité](../../core_05_band_accountability.md#contestability); [Proportionnalité](../../core_05_band_accountability.md#proportionality).
 
 </details>
@@ -68,7 +68,7 @@ Ce chapitre indique le plancher de séparation des tâches entre les processus. 
 - catalogues de sièges opérationnels, méthodes de dotation en personnel et mécanismes de plan de voie à partir du texte de mise en œuvre désigné.
 
 <a id="2-four-seat-constitutional-requirement"></a>
-### 2. Plancher constitutionnel à quatre sièges
+### 2. Exigence constitutionnelle de quatre sièges
 
 <details>
 <summary><strong><span style="color: #2563eb;">Tracer</span></strong></summary>
@@ -355,7 +355,7 @@ Les journaux montrent qui a fait quoi, mais ils ne prouvent pas à eux seuls que
 <summary><strong><span style="color: #2563eb;">Tracer</span></strong></summary>
 
 - En amont: [§1](#1-purpose-scope-and-owner-boundary) à travers [§8](#8-act-records-and-attributable-handoffs).
-- En aval: [Chapitre huit](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [Chapitre neuf](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chapitre douze](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Chapitre treize](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
+- En aval: [Chapitre huit](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chapitre neuf](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chapitre douze](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [Chapitre treize](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship).
 - Lire avec : [Pile d'autorité et hiérarchie interne](../../core_05_band_integrative.md#owner-non-relocation) et le [Registre des titulaires définis dans le préambule](../../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>

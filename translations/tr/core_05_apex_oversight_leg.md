@@ -117,7 +117,7 @@ Bu bacak altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 | Doğruluk ve epistemik bütünlük | İddialar, kayıtlar ve açıklamalar güvenli kararlar için yeterince dürüst mü? | Bilgilenmiş katılımı, çareyi ve düzeltmeyi korur |
 | Güvenilirlik | Bel bağlama haklı mı, yoksa güven bozuluyor mu? | Algılayanları sahte güvenden ve yanıltıcı bel bağlamadan korur |
 
-Bağlayıcı güvenilirlik, denetim ya da inceleme gerekleri, Altıncı Bölüm, [Yedinci Bölüm](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ya da içerilmiş belgeler bunları açıkça istediğinde doğar.
+Bağlayıcı güvenilirlik, denetim ya da inceleme gerekleri, Altıncı Bölüm, [Yedinci Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) ya da içerilmiş belgeler bunları açıkça istediğinde doğar.
 
 
 ---

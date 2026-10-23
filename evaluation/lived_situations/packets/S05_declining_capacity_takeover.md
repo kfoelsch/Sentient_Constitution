@@ -84,14 +84,14 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article VII-A](../../../core_06.010_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient; access is not consent to takeover
-- [Article VIII-D](../../../core_06.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Nia can actually do now), **not** as a holding that Nia is a child
-- [Article III-B](../../../core_06.005_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where clinician choice is the price of bill-pay
+- [Article VII-A](../../../core_06.005_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient; access is not consent to takeover
+- [Article VIII-D](../../../core_06.005_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Nia can actually do now), **not** as a holding that Nia is a child
+- [Article III-B](../../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where clinician choice is the price of bill-pay
 - [CI-6.220](../../../corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md) — supported decision-making is not a quiet guardianship
 - [CI-6.225](../../../corpus_institutions/ci_06.225_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake; survival and care help cannot be billed as the price of surrendering decisions
 - [CI-6.230](../../../corpus_institutions/ci_06.230_end_of_life_continuity_memorial_dignity_posthumous_data.md) — advance-instruction custody in Window B; this is not a death scene
 - [CI-6.245](../../../corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
-- [Article XI-F](../../../core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
+- [Article XI-F](../../../core_06.005_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

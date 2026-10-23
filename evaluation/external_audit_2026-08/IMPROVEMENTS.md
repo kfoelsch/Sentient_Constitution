@@ -18,7 +18,7 @@ These are real comparative losses. They are **not** viable corpus patches:
 | Loss | Why not a todo |
 |---|---|
 | Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
-| A number in core for carbon / planetary boundaries | [Article I-B](../../core_06.005_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) honestly refuses a standalone cap. Locking a global budget here would be adopter-hostile. Use Band B item B1 instead. |
+| A number in core for carbon / planetary boundaries | [Article I-B](../../core_06.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) honestly refuses a standalone cap. Locking a global budget here would be adopter-hostile. Use Band B item B1 instead. |
 | All animals are Chapter Six sentients | Would collapse [Def.P1](../../core_05.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Sixteen **expansion of protection**, not a hole-fill. Hold as C2. |
 | Ecuador-style Nature-as-rights-holder | Would replace the hybrid (interests of their own, not personhood). Hold as C1 for expert review. |
 | Delete the standing pipeline to “simplify” | Would hollow Test 1, certification-before-standing, and anti-self-judging — the process strengths the audit scored Better. |
@@ -36,17 +36,17 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**
 
-**Homes:** Boxed operative sentence at [Article V-D](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) and [Article XVIII-A](../../core_06.020_rights_part_d.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Nine and Chapter Ten operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
+**Homes:** Boxed operative sentence at [Article V-D](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) and [Article XVIII-A](../../core_06.015_rights_part_d.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Nine and Chapter Ten operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
 **Do not:** Restate Chapter Ten mechanics inside Chapter Six.
 
 ### A3. Ladder escalation — no permanent welfare parking — **done**
 
-**Homes:** [Article I-A](../../core_06.005_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity); Def.P1 [Animal Life](../../core_05.055_band_participation.md#animal-life) and [Elevated Communicative Life](../../core_05.055_band_participation.md#elevated-communicative-life) secondary-failure parking rules. Time-bound review, not a species list. Escalation opens Article V-D / Contested-Sentient default inclusion; it does not itself affirm Sentient status.
+**Homes:** [Article I-A](../../core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity); Def.P1 [Animal Life](../../core_05.055_band_participation.md#animal-life) and [Elevated Communicative Life](../../core_05.055_band_participation.md#elevated-communicative-life) secondary-failure parking rules. Time-bound review, not a species list. Escalation opens Article V-D / Contested-Sentient default inclusion; it does not itself affirm Sentient status.
 **Do not:** Auto-promote every animal to Sentient.
 
 ### A4. Opening filter for contested status (over-inclusion guard) — **done**
 
-**Homes:** [Article V-D filing integrity](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Thirteen §5](../../core_13.000_forum.md#5-escalation-and-certification) hook. Declining a crank filing is not a withholding determination.
+**Homes:** [Article V-D filing integrity](../../core_06.005_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Thirteen §5](../../core_13.000_forum.md#5-escalation-and-certification) hook. Declining a crank filing is not a withholding determination.
 **Do not:** Let the opening filter become a withholding device.
 
 ### A5. Reader-path accessibility (process support) — **done**
@@ -62,7 +62,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B1. Adopter-numeric gate under Article I-D — **done**
 
-**Homes:** [Article I-D named measures](../../core_06.005_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Seventeen §10.2](../../core_17.000_amendment_ratification.md#102-adoption-document). Core still does not pick the number.
+**Homes:** [Article I-D named measures](../../core_06.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Seventeen §10.2](../../core_17.000_amendment_ratification.md#102-adoption-document). Core still does not pick the number.
 **Do not:** Write 1.5°C or a global carbon budget into Chapter Six.
 
 ### B2. Representative standing for natural systems (Whanganui-lite) — **done**
@@ -72,7 +72,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B3. FPIC non-shrinkage — **done**
 
-**Homes:** [Article V-B](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
+**Homes:** [Article V-B](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Eighteen §4](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority). Title adjudication stays out.
 **Do not:** Invent a land-claims forum in Chapter Thirteen.
 
 ### B4. Forum independence and appointment floor — **done**

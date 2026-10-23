@@ -23,8 +23,8 @@
 - En amont :
   - la [Tétrade constitutionnelle](../../core_00.000_preamble.md#constitutional-tetrad), surtout la **supervision** et la **reddition de comptes** ;
   - l’[enjeu matériel](../../core_00.000_preamble.md#material-stake) ;
-  - le [chapitre un §18.1, Gouvernance comme structure autorisée](../../core_01.015_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.015 §18.1) ;
-  - l’[article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*).
+  - le [chapitre un §18.1, Gouvernance comme structure autorisée](../../core_01.010_stewardship_capacity_principles.md#181-governance-as-authorized-structure) (1.015 §18.1) ;
+  - l’[article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*).
 - Sous-sections :
   - [§1](#1-quand-les-chartes-de-système-et-institutionnelle-sont-exigées) ;
   - [§2](#2-le-droit-de-se-constituer-et-quatre-limites-précises) ;
@@ -35,7 +35,7 @@
   - [§7](#7-modification-révision-et-inadéquation-de-portée).
 - En aval :
   - le [chapitre huit](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000) ;
-  - le [chapitre neuf](../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) (9.000) ;
+  - le [chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) (9.000) ;
   - le [chapitre dix](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement) (10.000) ;
   - le [chapitre treize](../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction) (13.000) ;
   - le [chapitre quatorze](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (14.000), ainsi que le texte de mise en œuvre désigné plus haut.
@@ -56,7 +56,7 @@ Trois chapitres forment une seule chaîne :
 
 - **Chapitre sept (le présent chapitre) :** indique ce qu’une [Partie titulaire d’une charte](../../core_05.040_band_continuity.md#chartered-party) déclare faire et qui peut occuper chaque siège lorsqu’elle agit.
 - **[Chapitre huit](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) :** indique comment ces sièges doivent rester distincts.
-- **[Chapitre neuf](../../core_09.000_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index) :** certifie un système et, séparément, une institution ; chacun constitue un acte contraignant qui fait appel aux sièges. Le chapitre neuf renvoie ses constats à la Charte de système ou à la Charte institutionnelle.
+- **[Chapitre neuf](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) :** certifie un système et, séparément, une institution ; chacun constitue un acte contraignant qui fait appel aux sièges. Le chapitre neuf renvoie ses constats à la Charte de système ou à la Charte institutionnelle.
 
 D’autres chapitres définissent les termes, les règles relatives aux sièges, les verrous de statut et les règles de décision auxquels le présent chapitre renvoie. **CI-8.205 §6** (*Contenu des chartes de système et institutionnelles, révision et modèle de formation*) contient le modèle de champs, la procédure de formation et la liste de contrôle de révision.
 
@@ -70,17 +70,17 @@ D’autres chapitres définissent les termes, les règles relatives aux sièges,
   - [§2](#2-le-droit-de-se-constituer-et-quatre-limites-précises) ;
   - l’[enjeu matériel](../../core_00.000_preamble.md#material-stake) ;
   - la [proportionnalité](../../core_05.035_band_accountability.md#proportionality) et l’affirmation de propriété au début du chapitre ;
-  - le [chapitre un §18, Gouvernance sous discipline d’administration responsable](../../core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18) ;
+  - le [chapitre un §18, Gouvernance sous discipline d’administration responsable](../../core_01.010_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (1.015 §18) ;
   - la [supervision](../../core_05.020_apex_oversight_leg.md#oversight-constitutional) ;
   - la [reddition de comptes](../../core_05.005_apex_accountability_leg.md#accountability).
-- En aval : [§3](#3-contenu-requis-des-chartes-de-système-et-institutionnelles) ; [chapitre neuf, partie A §2, Évaluation de la classe du système](../../core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.005 §2), sur la classe et la profondeur de certification ; [chapitre neuf, partie D §12.1, Classe d’une institution](../../core_09.020_institutional_alignment_certification.md#121-institution-class) (9.020 §12.1) ; **CS-9.305 (*Mécanisme de classification des systèmes*) et CS-9.310** (*Classifications de l’impact des systèmes*) pour le catalogue des classes.
+- En aval : [§3](#3-contenu-requis-des-chartes-de-système-et-institutionnelles) ; [chapitre neuf, partie A §2, Évaluation de la classe du système](../../core_09.000_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.005 §2), sur la classe et la profondeur de certification ; [chapitre neuf, partie D §12.1, Classe d’une institution](../../core_09.015_institutional_alignment_certification.md#121-institution-class) (9.020 §12.1) ; **CS-9.305 (*Mécanisme de classification des systèmes*) et CS-9.310** (*Classifications de l’impact des systèmes*) pour le catalogue des classes.
 - À lire avec :
   - **CI-8.205 §6** (*Contenu des chartes de système et institutionnelles, révision et modèle de formation*) ;
   - **CF-13.415 §5** (*Registres institutionnels et locaux*) ;
   - **CI-9.210** (*Obligations institutionnelles liées à la classification*) ;
   - la [Charte de système du chapitre cinq](../../core_05.040_band_continuity.md#system-charter) (5.040) ;
   - la [Charte institutionnelle du chapitre cinq](../../core_05.040_band_continuity.md#institutional-charter) (5.040) ;
-  - l’[article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*).
+  - l’[article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*).
 
 </details>
 
@@ -133,7 +133,7 @@ La classe de la Partie titulaire d’une charte détermine si la publication est
 
 - **Classes A, B, C et L :** obligatoire. Le schéma de [§1.7, Le processus en un coup d’œil](#17-vue-densemble-du-processus) montre le parcours à suivre.
 - **Classe P :** facultative, jusqu’à ce que l’un de deux événements la rende obligatoire. [§1.3, Définition de la classe P](#13-ce-quest-la-classe-p) indique quand une Partie exploitante relève de la classe P ; [§1.4, Classe P : chartes facultatives et cas où elles deviennent obligatoires](#14-classe-p--chartes-facultatives-et-cas-où-elles-deviennent-obligatoires) décrit cette faculté et sa fin.
-- **Classe d’une institution :** elle reçoit la classe la plus élevée de tout système qu’elle exploite, administre ou contrôle matériellement. Si elle n’exploite aucun système de ce type, sa classe est déterminée par son propre impact matériel et ses dépendances, en fonction de ce qu’elle décide et détient réellement, et non de son appellation ou de sa forme juridique, conformément au [chapitre neuf, partie D §12.1, Classe d’une institution](../../core_09.020_institutional_alignment_certification.md#121-institution-class).
+- **Classe d’une institution :** elle reçoit la classe la plus élevée de tout système qu’elle exploite, administre ou contrôle matériellement. Si elle n’exploite aucun système de ce type, sa classe est déterminée par son propre impact matériel et ses dépendances, en fonction de ce qu’elle décide et détient réellement, et non de son appellation ou de sa forme juridique, conformément au [chapitre neuf, partie D §12.1, Classe d’une institution](../../core_09.015_institutional_alignment_certification.md#121-institution-class).
 
 <a id="13-what-class-p-is"></a>
 #### 1.3 Ce qu’est la classe P
@@ -172,7 +172,7 @@ Un système ou une institution assujetti publie sa [Charte de système](../../co
 
 - **Nouveau système ou nouvelle institution :** avant sa mise en service ou avant qu’il ou elle exerce une autorité sur autrui.
 - **Entité déjà en activité :** au prochain examen de classification ou à la prochaine certification, ou dans le délai de résolution suivant une demande au titre de [§1.6, Absence de Charte de système ou de Charte institutionnelle](#16-absence-de-charte-de-système-ou-de-charte-institutionnelle), selon la première échéance. L’entité est en défaut jusqu’à la publication.
-  - **Certification applicable :** pour un système, sa certification d’alignement du système ; pour une institution, sa certification d’alignement institutionnel conformément au [chapitre neuf, partie D §11.3, Aucune permission et aucun contrôle préalable](../../core_09.020_institutional_alignment_certification.md#113-no-permission-and-no-gate). La période prévue pour la première certification ne conditionne jamais la publication de la Charte institutionnelle ni l’exploitation.
+  - **Certification applicable :** pour un système, sa certification d’alignement du système ; pour une institution, sa certification d’alignement institutionnel conformément au [chapitre neuf, partie D §11.3, Aucune permission et aucun contrôle préalable](../../core_09.015_institutional_alignment_certification.md#113-no-permission-and-no-gate). La période prévue pour la première certification ne conditionne jamais la publication de la Charte institutionnelle ni l’exploitation.
 - **Contrôle de formation :** elle réalise également, au même moment, le contrôle de formation prévu à [§5, Contrôle de formation : statut des titulaires de charge et authenticité](#5-contrôle-de-formation--statut-et-authenticité-des-titulaires-de-charge).
 - **Dépôt :** elle dépose la Charte de système ou la Charte institutionnelle, avec sa Carte des rôles de la Charte et la déclaration de contrôle de formation, auprès du registre institutionnel ou du registre local lorsque ses activités et les sentients concernés sont locaux (**CF-13.415 §5** (*Registres institutionnels et locaux*)) :
   - **Rôle du registre :** vérifier qu’aucun élément obligatoire ne manque et remettre un accusé de réception daté.
@@ -205,7 +205,7 @@ Les délais s’appliquent comme suit :
   - **Contestation méritant un examen :** elle nomme un franchissement précis dans un domaine déterminé et les éléments écrits de la Partie exploitante laissent subsister une véritable question à ce sujet. La Partie exploitante ne peut pas en décider elle-même ; une réponse sans éléments écrits ne prolonge pas l’échéance.
   - **Classe établie :** dans cette contestation ou dans toute autre, la date de la décision vaut date de demande : les délais de réponse et de résolution courent à partir de cette date, au palier correspondant à la classe établie (A, B, C ou L).
 - **Échéance non respectée :** l’absence de réponse ou de Charte de système ou de Charte institutionnelle à la date prévue constitue un défaut à consigner et à corriger. La personne requérante peut saisir le forum compétent par la même voie. Cela ne conditionne jamais la création ni l’exploitation de l’entité.
-- **Demande répétée :** une deuxième demande visant la même Partie titulaire d’une charte, alors qu’une réponse antérieure ou une décision la concernant est toujours en vigueur, n’ouvre aucun nouveau délai de réponse ou de résolution. La Partie renvoie à cette réponse ou décision. Ses propres éléments affirmant qu’elle reste sous tous les seuils, qui n’ont pas encore été examinés par le forum, ne constituent pas une réponse en vigueur. La réponse ou la décision demeure en vigueur jusqu’à la survenance de l’un des événements décrits parmi les motifs de réouverture au [chapitre neuf, partie D §14.2, Motifs de réouverture](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers) :
+- **Demande répétée :** une deuxième demande visant la même Partie titulaire d’une charte, alors qu’une réponse antérieure ou une décision la concernant est toujours en vigueur, n’ouvre aucun nouveau délai de réponse ou de résolution. La Partie renvoie à cette réponse ou décision. Ses propres éléments affirmant qu’elle reste sous tous les seuils, qui n’ont pas encore été examinés par le forum, ne constituent pas une réponse en vigueur. La réponse ou la décision demeure en vigueur jusqu’à la survenance de l’un des événements décrits parmi les motifs de réouverture au [chapitre neuf, partie D §14.2, Motifs de réouverture](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers) :
   - **Changement matériel :** l’activité de la Partie titulaire d’une charte change de manière importante.
   - **Nouveaux éléments :** de nouveaux éléments concernant un franchissement sont présentés.
 
@@ -283,7 +283,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [§1](#1-quand-les-chartes-de-système-et-institutionnelle-sont-exigées) ; [Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*).
+- En amont : [§1](#1-quand-les-chartes-de-système-et-institutionnelle-sont-exigées) ; [Article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*).
 - En aval : [§1, Quand les chartes de système et institutionnelles sont requises](#1-quand-les-chartes-de-système-et-institutionnelle-sont-exigées) ; [§5, Contrôle de formation : statut des titulaires de charge et authenticité](#5-contrôle-de-formation--statut-et-authenticité-des-titulaires-de-charge).
 - À lire avec :
   - [Suspension provisoire](../../core_05.035_band_accountability.md#interim-hold) ;
@@ -308,11 +308,11 @@ flowchart TB
 <a id="21-the-right-to-form"></a>
 #### 2.1 Le droit de se constituer
 
-Toute personne peut créer un nouveau système, une institution ou une entreprise. Ce droit est énoncé à [l’Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*). Le présent chapitre ajoute l’obligation qui suit : dès que l’activité d’une Partie exploitante a un effet matériel sur autrui dans l’un des neuf domaines de la [Matérialité propre à chaque domaine](../../core_05.050_band_oversight.md#domain-specific-materiality), elle doit publier à l’avance ce qu’elle affirme être autorisée à faire ([§1, Quand les chartes de système et institutionnelles sont requises](#1-quand-les-chartes-de-système-et-institutionnelle-sont-exigées)). L’adoption d’une Charte de système ou d’une Charte institutionnelle ne doit pas être interprétée comme une restriction de ce droit ni des protections du socle des droits.
+Toute personne peut créer un nouveau système, une institution ou une entreprise. Ce droit est énoncé à [l’Article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*). Le présent chapitre ajoute l’obligation qui suit : dès que l’activité d’une Partie exploitante a un effet matériel sur autrui dans l’un des neuf domaines de la [Matérialité propre à chaque domaine](../../core_05.050_band_oversight.md#domain-specific-materiality), elle doit publier à l’avance ce qu’elle affirme être autorisée à faire ([§1, Quand les chartes de système et institutionnelles sont requises](#1-quand-les-chartes-de-système-et-institutionnelle-sont-exigées)). L’adoption d’une Charte de système ou d’une Charte institutionnelle ne doit pas être interprétée comme une restriction de ce droit ni des protections du socle des droits.
 
 **Ce que le droit de se constituer ne couvre pas.** Sous réserve des trois obstacles prévus aux [§2.2, première limite : verrou toujours en vigueur visant un sentient](#22-première-limite--verrou-toujours-en-vigueur-visant-un-sentient), [§2.3, deuxième limite : suspension brève fondée sur des faits vérifiés précis](#23-deuxième-limite--suspension-brève-fondée-sur-des-faits-vérifiés-précis) et [§2.4, troisième limite : verrou visant la Partie exploitante elle-même](#24-troisième-limite--verrou-visant-la-partie-exploitante-elle-même), **l’Article XI-E** (*Création d’institutions et d’entreprises*) ne protège pas :
 
-- une Partie exploitante conçue pour enfreindre une contrainte constitutionnelle, compromettre la sécurité ou la vérité, ou concentrer le pouvoir d’une manière exclue par le [chapitre un §11, Structure du marché](../../core_01.005_values_principles.md#11-market-structure) ;
+- une Partie exploitante conçue pour enfreindre une contrainte constitutionnelle, compromettre la sécurité ou la vérité, ou concentrer le pouvoir d’une manière exclue par le [chapitre un §11, Structure du marché](../../core_01.000_values_principles.md#11-market-structure) ;
 - une Partie exploitante créée ou dirigée par un fondateur dont l’alignement réel ne correspond pas à l’objet déclaré, comme le montrent ses actes vérifiés, son contrôle et ses rémunérations, ou qui entend tromper autrui sur son objet, son contrôle ou ses intérêts, ou lui nuire.
 
 Les forums tranchent ces cas au titre de cet Article ; les seules conséquences possibles sont les trois barrières qu’il prévoit : le verrou toujours en vigueur, la suspension provisoire et le verrou visant la Partie exploitante elle-même. L’échec au contrôle de formation constitue un élément de preuve pris en compte par le forum ; le contrôle de formation ne suffit donc pas, à lui seul, à trancher l’affaire.
@@ -374,7 +374,7 @@ La quatrième limite vise un acte déterminé, et non la création d’une Parti
 - En aval :
   - [§4](#4-carte-des-rôles-de-la-charte-et-garde-des-dossiers-de-statut) ;
   - [§7](#7-modification-révision-et-inadéquation-de-portée) ;
-  - [chapitre neuf, partie B §8.1, Contenu minimal du dossier](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.010 §8.1) (*champs de la Charte de système utilisés dans le dossier de certification*) ;
+  - [chapitre neuf, partie B §8.1, Contenu minimal du dossier](../../core_09.005_system_alignment_certification_record_process.md#81-minimum-record-contents) (9.010 §8.1) (*champs de la Charte de système utilisés dans le dossier de certification*) ;
   - **CI-8.205 §6** (*Contenu des chartes de système et institutionnelles, révision et modèle de formation*) pour la liste complète des champs.
 - À lire avec :
   - [chapitre dix-huit §4, Cadre d’adoption et portée de l’autorité](../../core_18.000_incorporation.md#4-adoption-framing-and-scope-of-authority) (18.000 §4) (*document de portée conservé sous un autre nom*) ;
@@ -470,10 +470,10 @@ Certains éléments d’une Charte de système ou d’une Charte institutionnell
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [§3](#3-contenu-requis-des-chartes-de-système-et-institutionnelles) ; [chapitre huit §2, Socle constitutionnel de quatre sièges](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
+- En amont : [§3](#3-contenu-requis-des-chartes-de-système-et-institutionnelles) ; [CHAPITRE HUIT §2 Exigence constitutionnelle de quatre sièges](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - En aval :
   - [chapitre huit §5, Affectation publiée, vacance et remplacement](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5) ;
-  - [chapitre neuf, partie B §6.1.1, Quatre sièges dans une certification](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1) ;
+  - [chapitre neuf, partie B §6.1.1, Quatre sièges dans une certification](../../core_09.005_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1) ;
   - [chapitre dix §3.7, Garde des dossiers et autorité d’ouverture](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority) (10.000 §3.7) ;
   - **CI-8.205 §2** (*Voies de séparation fonctionnelle*) ;
   - **CI-14.205 §5** (*Rôles autorisés et chaînes de responsabilité*) ;
@@ -500,7 +500,7 @@ Chaque Charte de système ou Charte institutionnelle comprend une [Carte des rô
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 Les sièges et leur raison d’être
 
-Tout [Acte matériellement contraignant](../../core_05.035_band_accountability.md#materially-binding-act) comporte quatre fonctions, que le [chapitre huit §2, Socle constitutionnel de quatre sièges](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) sépare :
+Tout [Acte matériellement contraignant](../../core_05.035_band_accountability.md#materially-binding-act) comporte quatre fonctions, que le [CHAPITRE HUIT §2 Exigence constitutionnelle de quatre sièges](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) sépare :
 
 - **[Siège initiateur](../../core_05.035_band_accountability.md#initiating-seat) :** déclenche l’acte en le demandant, en le proposant, en l’exécutant ou en le revendiquant.
 - **[Siège de vérification ou d’autorisation](../../core_05.035_band_accountability.md#verify-or-authorize-seat) :** examine les éléments de preuve et l’autorité, puis vérifie, autorise, assortit de conditions ou refuse l’acte.
@@ -658,21 +658,21 @@ Le même calendrier s’applique aux sièges de certification. Si la carte ne d�
   - [§1.5](#15-échéance-de-publication-dune-charte-de-système-ou-dune-charte-institutionnelle) ;
   - [§3](#3-contenu-requis-des-chartes-de-système-et-institutionnelles) ;
   - [§4](#4-carte-des-rôles-de-la-charte-et-garde-des-dossiers-de-statut) ;
-  - [Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*) ;
+  - [Article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*) ;
   - [Ce que les systèmes rémunèrent](../../core_00.000_preamble.md#what-systems-reward) et les [Deux questions fondamentales](../../core_00.000_preamble.md#two-fundamental-questions) ;
-  - [chapitre un §19.1.4, Parcours selon la profondeur du rôle et la responsabilité matérielle](../../core_01.015_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4) ;
-  - [chapitre un §19.4, Correction du désalignement et réponse à la captation](../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4) ;
+  - [chapitre un §19.1.4, Parcours selon la profondeur du rôle et la responsabilité matérielle](../../core_01.010_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) (1.015 §19.1.4) ;
+  - [chapitre un §19.4, Correction du désalignement et réponse à la captation](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) (1.015 §19.4) ;
   - [chapitre onze §4.2, Prévention — verrous généraux de statut](../../core_11.000_standing_integration.md#42-prevention--general-standing-locks) (11.000 §4.2), [§5.5, Verrous spéciaux](../../core_11.000_standing_integration.md#55-special-locks) et [§6.2, Seuils et autorisations de compétence](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances).
 - En aval :
   - [§6, Lorsqu’un titulaire échoue au contrôle de formation](#6-lorsquun-titulaire-échoue-au-contrôle-de-formation) ;
-  - [chapitre neuf, partie D §12.2, Évaluation institutionnelle systématique](../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.020 §12.2) (élément 7, *les forums vérifient la déclaration*) ;
-  - [chapitre neuf, partie A §3.3, Gouvernance, incitations et discipline de contestabilité](../../core_09.005_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline) (9.005 §3.3) ;
+  - [chapitre neuf, partie D §12.2, Évaluation institutionnelle systématique](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (9.020 §12.2) (élément 7, *les forums vérifient la déclaration*) ;
+  - [chapitre neuf, partie A §3.3, Gouvernance, incitations et discipline de contestabilité](../../core_09.000_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline) (9.005 §3.3) ;
   - **CI-8.205 §6** (*Contenu des chartes de système et institutionnelles, révision et modèle de formation*) pour le modèle de déclaration.
 - À lire avec :
   - [Ligne de contrôle matériel](../../core_05.035_band_accountability.md#material-control-line) ;
   - [Dossier de statut](../../core_05.035_band_accountability.md#standing-record) ;
   - [Signalement protégé](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) ;
-  - [chapitre un §17.5, Obligation de résister](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5) ;
+  - [chapitre un §17.5, Obligation de résister](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist) (1.015 §17.5) ;
   - **CI-14.205 §2** (*Critères de rôle, normes de nomination et voies de révocation*) ;
   - **CI-8.210** (*Intégrité des conflits, prévention de la captation et lutte contre la corruption*).
 
@@ -682,7 +682,7 @@ Le même calendrier s’applique aux sièges de certification. Si la carte ne d�
 
 *En termes simples : avant qu’une Partie titulaire d’une charte exerce une autorité sur autrui, les sentients qui occupent ses postes clés font l’objet de deux vérifications. Satisfont-ils aux critères publiés pour leur rôle, sans verrou de statut qui s’y oppose ? Occupent-ils cette charge en leur nom propre et au service de l’objet déclaré de la Partie titulaire d’une charte, plutôt que comme façade ou prête-nom ? La réponse dépend de qui les dirige, de ce pour quoi ils sont rémunérés et de ce qu’ils ont déclaré ou fait de manière vérifiable, jamais de leurs croyances. Il s’agit d’un contrôle de formation, pas d’une licence.*
 
-La présente section établit le **contrôle de formation**. Elle applique les trois barrières énoncées à [§2, Le droit de se constituer et quatre limites précises](#2-le-droit-de-se-constituer-et-quatre-limites-précises) : les deux qui visent un sentient nommé s’appliquent aux postes couverts ; la troisième s’applique à une Partie titulaire d’une charte qui est elle-même sous verrou. Elle ne restreint pas [l’Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*). Elle s’applique à toute Partie titulaire d’une charte de classe L ou supérieure ([§1, Quand les chartes de système et institutionnelles sont requises](#1-quand-les-chartes-de-système-et-institutionnelle-sont-exigées)).
+La présente section établit le **contrôle de formation**. Elle applique les trois barrières énoncées à [§2, Le droit de se constituer et quatre limites précises](#2-le-droit-de-se-constituer-et-quatre-limites-précises) : les deux qui visent un sentient nommé s’appliquent aux postes couverts ; la troisième s’applique à une Partie titulaire d’une charte qui est elle-même sous verrou. Elle ne restreint pas [l’Article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*). Elle s’applique à toute Partie titulaire d’une charte de classe L ou supérieure ([§1, Quand les chartes de système et institutionnelles sont requises](#1-quand-les-chartes-de-système-et-institutionnelle-sont-exigées)).
 
 <a id="51-what-is-covered"></a>
 #### 5.1 Champ d’application
@@ -711,16 +711,16 @@ Seuls les dossiers de statut vérifiés comptent, et uniquement par la voie des 
 <a id="53-authenticity-check"></a>
 #### 5.3 Vérification de l’authenticité
 
-Un poste couvert est **authentique** lorsque son titulaire l’occupe en son nom propre et au service de l’objet déclaré dans la Charte de système ou la Charte institutionnelle, et non comme façade, prête-nom ou mandataire d’un objet que le document ne déclare pas. La Partie titulaire d’une charte établit ce point au moyen d’éléments de preuve portant sur quatre aspects. Un forum vérifiera ensuite les mêmes aspects ([chapitre neuf, partie D §12.2, Évaluation institutionnelle systématique](../../core_09.020_institutional_alignment_certification.md#122-institutional-evaluation-always), élément 7).
+Un poste couvert est **authentique** lorsque son titulaire l’occupe en son nom propre et au service de l’objet déclaré dans la Charte de système ou la Charte institutionnelle, et non comme façade, prête-nom ou mandataire d’un objet que le document ne déclare pas. La Partie titulaire d’une charte établit ce point au moyen d’éléments de preuve portant sur quatre aspects. Un forum vérifiera ensuite les mêmes aspects ([chapitre neuf, partie D §12.2, Évaluation institutionnelle systématique](../../core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always), élément 7).
 
-- **Contrôle :** qui peut donner des instructions au titulaire, le financer, le remplacer ou le récompenser, que ce soit ou non dans le cadre de l’autorité publiée. Un titulaire qui agit selon les instructions d’une partie non déclarée, ou dont le siège est occupé au bénéfice d’une autre partie, n’est pas authentique. Des voies opaques de contrôle bénéficiaire constituent une captation du système ([chapitre un §19.4, Correction du désalignement et réponse à la captation](../../core_01.015_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
+- **Contrôle :** qui peut donner des instructions au titulaire, le financer, le remplacer ou le récompenser, que ce soit ou non dans le cadre de l’autorité publiée. Un titulaire qui agit selon les instructions d’une partie non déclarée, ou dont le siège est occupé au bénéfice d’une autre partie, n’est pas authentique. Des voies opaques de contrôle bénéficiaire constituent une captation du système ([chapitre un §19.4, Correction du désalignement et réponse à la captation](../../core_01.010_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response)).
 - **Intérêts et rémunération :** ce que le titulaire retire de cette charge et la manière dont il est rémunéré.
   - La rémunération, les parts, les objectifs et autres avantages du titulaire sont déclarés avec un niveau de détail proportionné à leur matérialité, puis examinés au regard des [Deux questions fondamentales](../../core_00.000_preamble.md#two-fundamental-questions) : la structure récompense-t-elle l’objet déclaré, ou récompense-t-elle le franchissement des limites déclarées, la dissimulation de problèmes ou le transfert des coûts à autrui ?
   - Un titulaire récompensé pour des actes interdits par les limites publiées de la Partie titulaire d’une charte n’occupe pas la charge au service de l’objet déclaré tant que cette rémunération n’a pas changé.
 - **Conduite :** ce que le titulaire a fait de manière vérifiable dans la même fonction, y compris tout dossier vérifié de dissimulation, de représailles contre des personnes ayant fait un signalement ou de neutralisation du même type de contrôle, ainsi que les déclarations vérifiées visées à [§5.5, Déclarations du titulaire](#55-déclarations-du-titulaire).
   - L’absence de dossier ne constitue pas un mauvais dossier ; un fondateur qui débute ne peut pas échouer au contrôle d’authenticité faute d’antécédents.
   - En l’absence d’antécédents, le contrôle de formation examine les engagements et les actes présents du titulaire. Celui-ci accepte par écrit les limites fixées par la Partie titulaire d’une charte concernant ce qu’elle s’interdit de faire, accepte le contrôle par une partie indépendante et, s’il conteste une conclusion à son sujet, utilise la voie prévue pour la contester.
-- **Voix protégée :** le titulaire dispose d’une voie effective pour refuser une instruction illégale ou anticonstitutionnelle ([chapitre un §17.5, Obligation de résister](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) et pour signaler de manière protégée un soupçon raisonnable de non-conformité constitutionnelle, de préjudice matériel, de manquement à la sécurité ou à la vérité, de corruption, de captation, d’abus, de représailles ou d’obstruction à une révision obligatoire ([Signalement protégé](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)). La Partie titulaire d’une charte ne peut pas sanctionner le titulaire qui utilise de bonne foi l’une ou l’autre de ces voies.
+- **Voix protégée :** le titulaire dispose d’une voie effective pour refuser une instruction illégale ou anticonstitutionnelle ([chapitre un §17.5, Obligation de résister](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) et pour signaler de manière protégée un soupçon raisonnable de non-conformité constitutionnelle, de préjudice matériel, de manquement à la sécurité ou à la vérité, de corruption, de captation, d’abus, de représailles ou d’obstruction à une révision obligatoire ([Signalement protégé](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)). La Partie titulaire d’une charte ne peut pas sanctionner le titulaire qui utilise de bonne foi l’une ou l’autre de ces voies.
 
 <a id="54-what-the-formation-check-may-use-as-evidence"></a>
 #### 5.4 Éléments de preuve utilisables pour le contrôle de formation
@@ -728,30 +728,30 @@ Un poste couvert est **authentique** lorsque son titulaire l’occupe en son nom
 Le contrôle de formation ne demande jamais ce qu’un sentient croit, valorise ou ressent à l’égard de la Partie titulaire d’une charte, ne décide jamais si une croyance est vraie ou sincère et ne recueille aucune nouvelle déclaration à cette fin. L’alignement de l’objet se vérifie à partir des personnes qui dirigent le titulaire, de sa rémunération, de ses actes et de ce qu’il a déclaré ou prévu au sujet d’autrui. Trois règles encadrent cette vérification :
 
 - **La détention d’une charge ne suffit pas :** le fait de professer ou de détenir une croyance, ou d’appartenir à une religion, un parti ou un groupe, ne constitue en soi ni un élément à charge ni un élément à décharge. Il en va de même de l’identité, d’une caractéristique protégée ou d’un handicap du titulaire. Une déclaration d’enthousiasme ou un serment de loyauté ne joue jamais en sa faveur.
-- **Les appellations ne protègent pas :** une déclaration, un appel, un projet ou un acte vérifié affirmant qu’autrui mérite un préjudice, ou préconisant un traitement discriminatoire interdit par [l’Article VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Non-discrimination*), est retenu contre le titulaire, quelle que soit l’appellation donnée. La détermination du préjudice ou de la discrimination interdite, ainsi que la règle selon laquelle une étiquette religieuse, politique ou idéologique ne l’aggrave ni ne l’excuse, relève du [chapitre un §7.5, Expression et seuil de préjudice](../../core_01.005_values_principles.md#75-expression-and-the-harm-line). L’évaluation porte sur ce que la déclaration affirme, préconise ou accomplit, et non sur la doctrine invoquée pour la justifier.
+- **Les appellations ne protègent pas :** une déclaration, un appel, un projet ou un acte vérifié affirmant qu’autrui mérite un préjudice, ou préconisant un traitement discriminatoire interdit par [l’Article VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Non-discrimination*), est retenu contre le titulaire, quelle que soit l’appellation donnée. La détermination du préjudice ou de la discrimination interdite, ainsi que la règle selon laquelle une étiquette religieuse, politique ou idéologique ne l’aggrave ni ne l’excuse, relève du [chapitre un §7.5, Expression et seuil de préjudice](../../core_01.000_values_principles.md#75-expression-and-the-harm-line). L’évaluation porte sur ce que la déclaration affirme, préconise ou accomplit, et non sur la doctrine invoquée pour la justifier.
 - **Le contrôle n’équivaut pas à l’appartenance :** appartenir à un groupe ne constitue pas un élément de preuve. En revanche, les personnes qui peuvent donner des instructions au titulaire, le financer, le remplacer ou le récompenser constituent des éléments de preuve au titre du volet *Contrôle* ci-dessus, quel que soit le type de groupe.
 
 **Portée de la décision :**
 
-- La présente section détermine uniquement les éléments de preuve utilisables dans le contrôle de formation, conformément au principe du [chapitre un §7.5, Expression et seuil de préjudice](../../core_01.005_values_principles.md#75-expression-and-the-harm-line).
-- Les comportements interdits sont définis par [l’Article VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Non-discrimination*) et **l’Article XI-F** (*Non-imposition et consentement dans les associations*) :
+- La présente section détermine uniquement les éléments de preuve utilisables dans le contrôle de formation, conformément au principe du [chapitre un §7.5, Expression et seuil de préjudice](../../core_01.000_values_principles.md#75-expression-and-the-harm-line).
+- Les comportements interdits sont définis par [l’Article VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Non-discrimination*) et **l’Article XI-F** (*Non-imposition et consentement dans les associations*) :
   - rien dans la présente section n’élargit ni ne restreint leur portée ;
   - les règles qu’une communauté volontaire fixe pour ses propres membres et activités, selon des modalités acceptées par ceux-ci, sont régies par ces Articles.
 
 <a id="55-what-a-holder-has-said"></a>
 #### 5.5 Déclarations du titulaire
 
-Un type de déclaration constitue une conduite et est retenu contre le titulaire : une déclaration, un appel ou un projet vérifié affirmant qu’autrui mérite un préjudice, préconisant un traitement discriminatoire interdit par [l’Article VI-C](../../core_06.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Non-discrimination*), ou annonçant que le titulaire causera l’un ou l’autre.
+Un type de déclaration constitue une conduite et est retenu contre le titulaire : une déclaration, un appel ou un projet vérifié affirmant qu’autrui mérite un préjudice, préconisant un traitement discriminatoire interdit par [l’Article VI-C](../../core_06.005_rights_part_b.md#article-vi-c-nondiscrimination) (*Non-discrimination*), ou annonçant que le titulaire causera l’un ou l’autre.
 
 - **Poids de la déclaration :**
   - elle constitue un élément de preuve d’une intention de nuire et d’un désalignement avec le traitement équitable des personnes concernées par la Partie titulaire d’une charte ou le poste ;
   - elle pèse davantage lorsque le poste ou la Partie titulaire d’une charte confère un pouvoir sur ces personnes ;
   - une déclaration seule ne satisfait jamais au fondement requis pour une [Suspension provisoire](../../core_05.035_band_accountability.md#interim-hold) : celle-ci nécessite aussi des faits vérifiés indépendants concernant la conduite, le contrôle ou la rémunération ;
-  - lorsque des propos sont invoqués, ils doivent être établis par des éléments clairs et vérifiés ; tout doute sérieux joue contre la suspension, et il est consigné que s’applique le degré d’examen le plus rigoureux qu’exige l’[**Article XI-B** (*Expression*)](../../core_06.010_rights_part_b.md#article-xi-b-expression) pour les restrictions fondées sur les propos.
-- **Ce qui n’est pas retenu :** critiquer l’idée qu’un groupe ou une institution est dans l’erreur, formuler une critique sévère, exprimer un désaccord licite, faire de la satire, citer, rendre compte ou mener un travail universitaire ne constitue pas un élément à charge, car rien de cela n’affirme ni ne préconise un préjudice ou un traitement discriminatoire envers autrui. Le fait d’offenser ou d’être en désaccord ne constitue pas à lui seul un préjudice ([**Article XI-G** (*Limite du préjudice collectif et interface d’application*)](../../core_06.010_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
+  - lorsque des propos sont invoqués, ils doivent être établis par des éléments clairs et vérifiés ; tout doute sérieux joue contre la suspension, et il est consigné que s’applique le degré d’examen le plus rigoureux qu’exige l’[**Article XI-B** (*Expression*)](../../core_06.005_rights_part_b.md#article-xi-b-expression) pour les restrictions fondées sur les propos.
+- **Ce qui n’est pas retenu :** critiquer l’idée qu’un groupe ou une institution est dans l’erreur, formuler une critique sévère, exprimer un désaccord licite, faire de la satire, citer, rendre compte ou mener un travail universitaire ne constitue pas un élément à charge, car rien de cela n’affirme ni ne préconise un préjudice ou un traitement discriminatoire envers autrui. Le fait d’offenser ou d’être en désaccord ne constitue pas à lui seul un préjudice ([**Article XI-G** (*Limite du préjudice collectif et interface d’application*)](../../core_06.005_rights_part_b.md#article-xi-g-collective-harm-boundary-and-enforcement-interface)).
 - **Établissement des faits :** la déclaration doit être vérifiée et lue dans son contexte. Elle provient d’éléments déjà publics, de propos tenus au sein de la Partie titulaire d’une charte ou à son sujet, ou d’un signalement protégé. Aucune Partie titulaire d’une charte ne peut surveiller les propos ou les associations privés d’un fondateur ou d’un titulaire pour en rechercher.
 - **Réponse et évolution :** le titulaire peut répondre, expliquer le contexte et démontrer par ses actes que la déclaration ne correspond plus à sa position. Un simple retrait de la déclaration ne l’efface pas.
-- **Aucune sanction visant l’expression :** l’utilisation d’une déclaration comme élément de preuve ne constitue pas une restriction à la liberté d’expression ([chapitre un §7.5, Expression et seuil de préjudice](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)) ; la déclaration demeure protégée en tant que propos par l’[**Article XI-B** (*Expression*)](../../core_06.010_rights_part_b.md#article-xi-b-expression). Elle influe uniquement sur la désignation des personnes autorisées à exercer un pouvoir sur les personnes concernées.
+- **Aucune sanction visant l’expression :** l’utilisation d’une déclaration comme élément de preuve ne constitue pas une restriction à la liberté d’expression ([chapitre un §7.5, Expression et seuil de préjudice](../../core_01.000_values_principles.md#75-expression-and-the-harm-line)) ; la déclaration demeure protégée en tant que propos par l’[**Article XI-B** (*Expression*)](../../core_06.005_rights_part_b.md#article-xi-b-expression). Elle influe uniquement sur la désignation des personnes autorisées à exercer un pouvoir sur les personnes concernées.
 
 <a id="56-staff-safeguards-check"></a>
 #### 5.6 Vérification des garanties applicables au personnel
@@ -760,7 +760,7 @@ Dans la déclaration ci-dessous, la Partie titulaire d’une charte démontre un
 
 - ses règles de nomination, de rémunération, de promotion et de révocation ne récompensent pas les actes contraires à son objet déclaré ;
 - une voie de signalement protégé existe et aucun membre du personnel qui l’a utilisée, ou qui a refusé une instruction illégale ou anticonstitutionnelle, n’a été sanctionné ;
-- les droits prévus par [l’Article III-C](../../core_06.005_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Socle du travail et économique*) sont respectés.
+- les droits prévus par [l’Article III-C](../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Socle du travail et économique*) sont respectés.
 
 Cette vérification porte sur la structure de la Partie titulaire d’une charte. Les membres du personnel ne font pas l’objet d’un examen individuel.
 
@@ -783,7 +783,7 @@ Si la révélation du nom risque de mettre un titulaire en danger, celui-ci peut
   - si la Partie titulaire d’une charte est de petite taille et qu’aucun siège indépendant n’est encore établi, la déclaration prend la forme d’une déclaration sur l’honneur accompagnée de ses éléments de preuve ; elle est vérifiée lors de la première certification de la Partie titulaire d’une charte ;
   - l’absence de vérification pendant cet intervalle n’empêche jamais la constitution ni l’exploitation.
 - **Fausse déclaration :**
-  - une déclaration fausse, ou qui dissimule la personne contrôlant un poste visé, constitue une dissimulation et un élément de preuve frauduleux pour le dossier de certification et pour le pont de statut ([chapitre neuf, partie D §15, Pont de statut et prévention du contournement](../../core_09.020_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion) ; [chapitre neuf, partie B §10, Relation avec le statut](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)) ;
+  - une déclaration fausse, ou qui dissimule la personne contrôlant un poste visé, constitue une dissimulation et un élément de preuve frauduleux pour le dossier de certification et pour le pont de statut ([chapitre neuf, partie D §15, Pont de statut et prévention du contournement](../../core_09.015_institutional_alignment_certification.md#15-standing-bridge-and-non-evasion) ; [chapitre neuf, partie B §10, Relation avec le statut](../../core_09.005_system_alignment_certification_record_process.md#10-relationship-to-standing)) ;
   - lorsqu’un sentient a sciemment rédigé ou signé la déclaration, ou en a provoqué la rédaction, et que son caractère matériellement faux est vérifié, cela constitue également un motif d’imposer à ce sentient le verrou de statut de l’autorité institutionnelle ([chapitre onze §5.5, Verrous spéciaux](../../core_11.000_standing_integration.md#55-special-locks)), que la déclaration dissimule ou non des liens de contrôle. Le verrou vise le sentient qui a rédigé ou provoqué la déclaration, pas la Partie titulaire d’une charte ni un titulaire qui n’y a pas participé ;
   - une déclaration erronée à l’insu du sentient ne constitue pas ce motif. Il s’agit d’un défaut à corriger selon [§6, Lorsqu’un titulaire échoue au contrôle de formation](#6-lorsquun-titulaire-échoue-au-contrôle-de-formation).
 
@@ -811,7 +811,7 @@ Les conséquences d’un contrôle de formation échoué ou tardif sont décrite
 
 Le contrôle de formation reste proportionné à ce qu’il protège :
 
-- la Partie titulaire d’une charte ne recueille que les renseignements nécessaires aux trois vérifications. Toute représaille, surveillance ou mesure visant les fondateurs contrevient à [l’Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*) ;
+- la Partie titulaire d’une charte ne recueille que les renseignements nécessaires aux trois vérifications. Toute représaille, surveillance ou mesure visant les fondateurs contrevient à [l’Article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*) ;
 - le contrôle de formation varie selon la classe et l’[enjeu matériel](../../core_00.000_preamble.md#material-stake). En classe L, une brève déclaration suffit pour les quelques postes visés ; dans le cas d’un fondateur unique, elle se limite à déclarer ses intérêts et tout contrôle exercé par des tiers. Toute exigence supplémentaire constitue une [charge évitable](../../core_05.040_band_continuity.md#avoidable-burden).
 
 <a id="6-when-a-holder-fails-the-formation-check"></a>
@@ -834,8 +834,8 @@ Le contrôle de formation reste proportionné à ce qu’il protège :
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [§5](#5-contrôle-de-formation--statut-et-authenticité-des-titulaires-de-charge) ; [§2](#2-le-droit-de-se-constituer-et-quatre-limites-précises) ; [§1.6](#16-absence-de-charte-de-système-ou-de-charte-institutionnelle) ; [Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*) ; [chapitre treize §5, Suspension provisoire sur le parcours d’un sentient nommé](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
-- En aval : [chapitre neuf, partie D §13.5, Préparation aux mesures correctives, refus et révocation d’une institution](../../core_09.020_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.020 §13.5) ; [chapitre huit §3, Indépendance, conflits et lignes de contrôle](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3) ; **CI-11.210** (*Défaillance et dissolution institutionnelles*) ; **CI-11.215** (*Responsabilité et sanctions institutionnelles*) ; **CJS-5.125 §15** (*Responsabilité : examen structurel, urgence des corrections et modalités de divulgation*).
+- En amont : [§5](#5-contrôle-de-formation--statut-et-authenticité-des-titulaires-de-charge) ; [§2](#2-le-droit-de-se-constituer-et-quatre-limites-précises) ; [§1.6](#16-absence-de-charte-de-système-ou-de-charte-institutionnelle) ; [Article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*) ; [chapitre treize §5, Suspension provisoire sur le parcours d’un sentient nommé](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway) (13.000 §5).
+- En aval : [chapitre neuf, partie D §13.5, Préparation aux mesures correctives, refus et révocation d’une institution](../../core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (9.020 §13.5) ; [chapitre huit §3, Indépendance, conflits et lignes de contrôle](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) (8.000 §3) ; **CI-11.210** (*Défaillance et dissolution institutionnelles*) ; **CI-11.215** (*Responsabilité et sanctions institutionnelles*) ; **CJS-5.125 §15** (*Responsabilité : examen structurel, urgence des corrections et modalités de divulgation*).
 - À lire avec : [Suspension provisoire](../../core_05.035_band_accountability.md#interim-hold) ; [Sursis](../../core_05.035_band_accountability.md#stay) ; **CI-14.205 §2** (*Critères de rôle, normes de nomination et voies de révocation*).
 
 </details>
@@ -864,7 +864,7 @@ Lorsqu’un sentient échoue à la vérification du statut :
 
 - **Il ne peut pas occuper le poste :** le sentient ne peut pas occuper ce poste. Les règles de rôle de **CI-14.205 §2** (*Critères de rôle, normes de nomination et voies de révocation*) le prévoient déjà ; il en va de même de **l’Article XI-E** (*Création d’institutions et d’entreprises*) lorsque la cause est un verrou toujours en vigueur ou une Suspension provisoire.
 - **Pourvoir le siège :** une autre personne ou un remplaçant occupe le poste, et le changement est consigné dans une nouvelle version datée de la Carte des rôles.
-- **Aucun titulaire légitime :** si l’autorité de gouvernance se retrouve sans titulaire légitime et que d’autres personnes dépendent de la Partie titulaire d’une charte, le forum compétent peut désigner un responsable provisoire ; il n’interrompt pas les activités de la Partie titulaire d’une charte, conformément aux dispositions sur la Suspension provisoire de [l’Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*).
+- **Aucun titulaire légitime :** si l’autorité de gouvernance se retrouve sans titulaire légitime et que d’autres personnes dépendent de la Partie titulaire d’une charte, le forum compétent peut désigner un responsable provisoire ; il n’interrompt pas les activités de la Partie titulaire d’une charte, conformément aux dispositions sur la Suspension provisoire de [l’Article XI-E](../../core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Création d’institutions et d’entreprises*).
 
 <a id="63-when-the-facts-may-support-an-interim-hold"></a>
 #### 6.3 Faits susceptibles de justifier une Suspension provisoire
@@ -904,7 +904,7 @@ Le retour d’une Partie titulaire d’une charte dissoute est traité comme sui
 - **Autorité décisionnaire :** au vu de faits vérifiés, le forum compétent décide si le verrou vise la structure ; la partie qui affirme qu’il s’applique en supporte la charge de la preuve.
 - **Déclaration de la Partie :** la déclaration de la Partie titulaire d’une charte affirmant qu’elle est nouvelle ne tranche pas la question.
 - **Autres Parties exploitantes :** le verrou ne vise pas une autre Partie exploitante, sauf si elle constitue en réalité une seule opération avec la Partie dissoute.
-- **Contournement délibéré :** reconstituer, réactiver ou exploiter une Partie titulaire d’une charte dissoute sous un autre nom, ou par l’intermédiaire d’un successeur, d’une entité contrôlée ou d’une structure détenue par prête-nom ou société écran, dans le but de contourner le verrou, constitue une forme de conduite anticonstitutionnelle. Sur la base de faits vérifiés, un forum peut la désigner au titre de la [partie A du chapitre douze](../../core_12.005_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation).
+- **Contournement délibéré :** reconstituer, réactiver ou exploiter une Partie titulaire d’une charte dissoute sous un autre nom, ou par l’intermédiaire d’un successeur, d’une entité contrôlée ou d’une structure détenue par prête-nom ou société écran, dans le but de contourner le verrou, constitue une forme de conduite anticonstitutionnelle. Sur la base de faits vérifiés, un forum peut la désigner au titre de la [partie A du chapitre douze](../../core_12.000_misconduct_designation.md#chapter-twelve-part-a-anti-constitutional-misconduct--designation).
 
 <a id="66-response-and-resolution-windows"></a>
 #### 6.6 Délais de réponse et de résolution
@@ -960,8 +960,8 @@ Le titulaire qui fait l’objet d’une conclusion défavorable bénéficie des 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [§3](#3-contenu-requis-des-chartes-de-système-et-institutionnelles) ; [chapitre un §18.4, Justification continue](../../core_01.015_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
-- En aval : [chapitre neuf, partie B §9, Recertification et réouverture](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.010 §9) (*modification ou divergence de la Charte de système comme motif de réouverture*) ; [chapitre treize §4.3, Forums institutionnels](../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
+- En amont : [§3](#3-contenu-requis-des-chartes-de-système-et-institutionnelles) ; [chapitre un §18.4, Justification continue](../../core_01.010_stewardship_capacity_principles.md#184-ongoing-justification) (1.015 §18.4).
+- En aval : [chapitre neuf, partie B §9, Recertification et réouverture](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening) (9.010 §9) (*modification ou divergence de la Charte de système comme motif de réouverture*) ; [chapitre treize §4.3, Forums institutionnels](../../core_13.000_forum.md#43-institutional-forums) (13.000 §4.3).
 - À lire avec : [Intégrité des limites du système](../../core_05.040_band_continuity.md#system-boundary-integrity) ; **CI-8.205 §1** (*Obligations de gouvernance non délégables*) ; **CI-8.205 §6** (*Contenu des chartes de système et institutionnelles, révision et modèle de formation*).
 
 </details>
@@ -1024,7 +1024,7 @@ La Partie titulaire d’une charte révise sa Charte de système ou sa Charte in
   - chaque poste visé est toujours occupé par le sentient nommé dans la déclaration ;
   - les sentients qui peuvent donner des instructions au titulaire, le financer, le remplacer ou le récompenser sont toujours ceux qui y sont décrits ;
   - la rémunération et les autres avantages de chaque titulaire correspondent toujours à ce qui y est décrit ;
-  - chaque titulaire dispose toujours d’une voie effective pour refuser une instruction illégale ou anticonstitutionnelle ([chapitre un §17.5, Obligation de résister](../../core_01.015_stewardship_capacity_principles.md#175-duty-to-resist)) et pour signaler de manière protégée un soupçon raisonnable de non-conformité constitutionnelle, de préjudice matériel, de manquement à la sécurité ou à la vérité, de corruption, de captation, d’abus, de représailles ou d’obstruction à une révision obligatoire ([Signalement protégé](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)).
+  - chaque titulaire dispose toujours d’une voie effective pour refuser une instruction illégale ou anticonstitutionnelle ([chapitre un §17.5, Obligation de résister](../../core_01.010_stewardship_capacity_principles.md#175-duty-to-resist)) et pour signaler de manière protégée un soupçon raisonnable de non-conformité constitutionnelle, de préjudice matériel, de manquement à la sécurité ou à la vérité, de corruption, de captation, d’abus, de représailles ou d’obstruction à une révision obligatoire ([Signalement protégé](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)).
 
 <a id="74-adding-retiring-or-merging-systems"></a>
 #### 7.4 Ajouter, retirer ou fusionner des systèmes
@@ -1042,7 +1042,7 @@ En cas de divergence matérielle entre une Charte de système ou une Charte inst
 
 - **Modalités de correction :** modifier le document, corriger la pratique (mesure corrective), renouveler la certification ou réduire la portée pour la rendre conforme au document.
 - **Modalités irrecevables :** élargir discrètement la portée ou laisser le document inchangé.
-- **Réexamen de la certification :** toute divergence matérielle déclenche également un nouvel examen par un forum de la certification du système ou de l’institution, sans attendre la prochaine échéance prévue. Pour un système, voir le [chapitre neuf, partie B §9, Recertification et réouverture](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening). Pour une institution, voir le [chapitre neuf, partie D §14.2, Motifs de réouverture](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers). La certification lit la portée déclarée et la compare aux limites réelles. Elle ne réécrit pas le document ; une certification institutionnelle cite chaque Registre de certification du système incorporé sans reprendre son évaluation ([chapitre neuf, partie D](../../core_09.020_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
+- **Réexamen de la certification :** toute divergence matérielle déclenche également un nouvel examen par un forum de la certification du système ou de l’institution, sans attendre la prochaine échéance prévue. Pour un système, voir le [chapitre neuf, partie B §9, Recertification et réouverture](../../core_09.005_system_alignment_certification_record_process.md#9-recertification-and-reopening). Pour une institution, voir le [chapitre neuf, partie D §14.2, Motifs de réouverture](../../core_09.015_institutional_alignment_certification.md#142-reopening-triggers). La certification lit la portée déclarée et la compare aux limites réelles. Elle ne réécrit pas le document ; une certification institutionnelle cite chaque Registre de certification du système incorporé sans reprendre son évaluation ([chapitre neuf, partie D](../../core_09.015_institutional_alignment_certification.md#chapter-nine-part-d-institutional-alignment-certification)).
 - **Instance de règlement des différends :** les forums institutionnels entendent les différends concernant la portée d’une Charte institutionnelle, l’autorité habilitée à la modifier, une divergence entre cette charte et le comportement de l’institution, ou l’exploitation hors du champ de la charte ([chapitre treize §4.3, Forums institutionnels](../../core_13.000_forum.md#43-institutional-forums)).
 
 <a id="76-keeping-old-versions"></a>

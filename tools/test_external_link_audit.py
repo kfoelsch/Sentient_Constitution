@@ -29,7 +29,7 @@ class ExternalLinkAuditTests(unittest.TestCase):
             root = Path(temp_dir)
             write(
                 root,
-                "core_06.005_rights_part_a.md",
+                "core_06.000_rights_part_a.md",
                 "- Downstream: [README](README.md#standing-pipeline-and-forums).\n"
                 "- Read with: [§1.2 Layer scope](#12-layer-scope).\n"
                 "- Source: [spec](https://example.org/spec).\n"

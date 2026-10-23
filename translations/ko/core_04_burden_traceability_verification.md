@@ -20,7 +20,7 @@
 > - **사원(四元) 지도:** 부담 배분, 증거, 추적 가능성, 관찰 가능성, 확인은 [전문](core_00_preamble.md#전문--기초-요건)에서 세운 [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)의 **감독** 다리와 **책무** 다리를 시행한다; **참여**는 **3**절과 **4**절 아래의 실무 관찰 가능성과 독립 이의를 통해, 실질로 요구되는 곳에서. 요건은 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절된다.
 > - **헌법 주관자:** 부담 배분, 준수 증거, 정의 추적 가능성, 관찰 가능성, 보안 제약 확인. **제10장**은 이 장과 함께 읽는 궤적 기록과 확인된 입력 규율을 주관한다.
 > - **시행 주관자:** 지정된 시행 파일에서의 배치, 데이터 취급, 보증 기계는 이 규칙과 일관되게 남아야 하며, 코퍼스가 이미 더 엄격한 규칙 논리를 제공하는 곳에서는 더 엄격해도 된다.
-> - **자리 옮김 금지 규칙:** 이 장은 부담, 추적, 관찰 가능성, 보안 한도, 증거만 다스린다. 제5장 정의, **제10장** 기여 또는 궤적 측정, 또는 제12장 반헌법 부당행위 기준을 다시 말하지 않는다. 확인된 비준수의 궤적으로의 라우팅은 [제3장 §3 — 비준수 소견 프로필](core_03_definition_integrity.md#3-비준수-소견-프로필)과 [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)이 다스린다. **6절**은 제2장부터 제4장이 [제9장 — 체계 정합 인증](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)과 어떻게 다른지를 말한다.
+> - **자리 옮김 금지 규칙:** 이 장은 부담, 추적, 관찰 가능성, 보안 한도, 증거만 다스린다. 제5장 정의, **제10장** 기여 또는 궤적 측정, 또는 제12장 반헌법 부당행위 기준을 다시 말하지 않는다. 확인된 비준수의 궤적으로의 라우팅은 [제3장 §3 — 비준수 소견 프로필](core_03_definition_integrity.md#3-비준수-소견-프로필)과 [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)이 다스린다. **6절**은 제2장부터 제4장이 [제9장 — 체계 정합 인증](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)과 어떻게 다른지를 말한다.
 
 </details>
 
@@ -49,7 +49,7 @@
 | **4 — 보안 한도** | 실제 보안 한도는 허용된다; 구실인 차단은 허용되지 않는다 | [§4](#4-보안-제약-관찰-가능성과-확인-규칙) |
 | **5 — 무엇이 세는가** | 증거는 실제이고, 완전하고, 독립하고, 지속되어야 한다 | [§5](#5-준수-증거-표준) |
 
-**쉬운 말 접근.** [제1장 §3.4 — 쉬운 말 접근성(참여와 책임 있는 관리 의무)](core_01_a_values_principles.md)는 감지자가 권리를 행사하고, 결정을 다투거나, 준수를 확인하는 데 쓰는 거버넌스, 재결, 운영 자료에 적용된다. 쉬운 말은 제2장부터 제4장이 요구하는 것을 **바꾸지** 않고 줄이지도 않는다. 쉬운 말 판이 여기의 정의나 확인 규칙과 어긋나 보이면, 그 규칙이 다스린다. 은어, 쌓인 복잡성, 또는 불투명을 써서 [다툴 수 있음](../../core_05.035_band_accountability.md#contestability)이나 [제 XV조: 감사, 투명, 독립 확인](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) 접근을 막는 것은 이 장과 **제1장 §3.4** 아래의 비준수다.
+**쉬운 말 접근.** [제1장 §3.4 — 쉬운 말 접근성(참여와 책임 있는 관리 의무)](core_01_a_values_principles.md)는 감지자가 권리를 행사하고, 결정을 다투거나, 준수를 확인하는 데 쓰는 거버넌스, 재결, 운영 자료에 적용된다. 쉬운 말은 제2장부터 제4장이 요구하는 것을 **바꾸지** 않고 줄이지도 않는다. 쉬운 말 판이 여기의 정의나 확인 규칙과 어긋나 보이면, 그 규칙이 다스린다. 은어, 쌓인 복잡성, 또는 불투명을 써서 [다툴 수 있음](../../core_05.035_band_accountability.md#contestability)이나 [제 XV조: 감사, 투명, 독립 확인](../../core_06.010_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) 접근을 막는 것은 이 장과 **제1장 §3.4** 아래의 비준수다.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 정의 추적 가능성 요건
@@ -191,8 +191,8 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제2장 — 정의 구조와 구성 요건](core_02_definition_structure.md#제2장-정의-구조와-구성-요건); [제3장 — 정의 완전성, 회피, 비준수](core_03_definition_integrity.md#제3장-정의-완전성-회피-비준수); [제4장, 1절부터 5절](#1-전속-집행과-부담-배분).
-- 하류: [제9장 — 체계 정합 인증](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- 함께 읽기: [제9장 §7 — 인증 결과](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) — 제2장부터 제4장 아래의 확인된 비준수는 이전 인증과 관계없이 인증을 재개방하거나 무너뜨릴 수 있다.
+- 하류: [제9장 — 체계 정합 인증](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
+- 함께 읽기: [제9장 §7 — 인증 결과](../../core_09.005_system_alignment_certification_record_process.md#7-certification-outcomes) — 제2장부터 제4장 아래의 확인된 비준수는 이전 인증과 관계없이 인증을 재개방하거나 무너뜨릴 수 있다.
 
 </details>
 
@@ -209,7 +209,7 @@
 
 이것들은 준수가 평가될 때마다 적용된다 — 인증이 있든 없든.
 
-**[제9장 — 체계 정합 인증](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** 은 실질인 곳에서 포럼 감독 **인증 과정**을 공급한다: 전체 체계 평가 영역, 인증 기록 의무, 인증 결과, 재인증 주기, 다툴 수 있음 사슬, 제10장으로의 확인된 입력 다리. 그것은 제2장부터 제4장을 **적용한다**; 그것들을 **다시 말하지 않는다**.
+**[제9장 — 체계 정합 인증](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)** 은 실질인 곳에서 포럼 감독 **인증 과정**을 공급한다: 전체 체계 평가 영역, 인증 기록 의무, 인증 결과, 재인증 주기, 다툴 수 있음 사슬, 제10장으로의 확인된 입력 다리. 그것은 제2장부터 제4장을 **적용한다**; 그것들을 **다시 말하지 않는다**.
 
 독자는 다음처럼 다루어서는 안 된다:
 - **인증 기록**을 제2장부터 제4장 아래의 계속되는 준수의 대체로

@@ -32,7 +32,7 @@
   - [§3](#3-supremacy-relative-to-other-binding-norms)–
   - [§4](#4-disputes-involving-external-legal-orders);
   - [§5](#5-relation-to-applicable-external-law).
-- Downstream: [Chapter Seventeen](core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) (17.000) adoption and supremacy continuity during amendment; [Article XX-A](core_06.025_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Twelve, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) (12.010) where external-order interfaces implicate waiver or pseudo-contract devices.
+- Downstream: [Chapter Seventeen](core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) (17.000) adoption and supremacy continuity during amendment; [Article XX-A](core_06.020_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Twelve, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) (12.005) where external-order interfaces implicate waiver or pseudo-contract devices.
 - Read with: **
   - [corpus_systems.md](corpus_systems.md)** and
   - **CS-6.320** (*Justice safeguards, restitution, and rehabilitation*) where this chapter's rules cite them for carrying out decisions across jurisdictions;
@@ -55,7 +55,7 @@ Chapter Sixteen is the constitutional owner of **additive expansion of protectio
 
 - Upstream: [Chapter Sixteen](#chapter-sixteen-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Fifteen](core_15.000_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) (15.000) non-regression (expansion must not violate Test 1).
 - Downstream: [§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*including Chapters One through Five consistency checks in operative text*).
-- Read with: [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) when additions implicate new rights or classes.
+- Read with: [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) when additions implicate new rights or classes.
 
 </details>
 
@@ -79,7 +79,7 @@ Constitutional change may add new rights, safeguards, accountability mechanisms,
 
 *In plain terms: while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short transitional steps have to be bounded, reversible where possible, and honest.*
 
-No amendment process may suspend constitutional supremacy, auditability, challenge rights, or the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_01.010_interaction_interpretation.md#rights-floor-minimums-principle). Temporary transitional measures must be time-limited, reversible where feasible, and non-evasive under **Chapters Two through Four** anti-evasion requirements.
+No amendment process may suspend constitutional supremacy, auditability, challenge rights, or the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_01.005_interaction_interpretation.md#rights-floor-minimums-principle). Temporary transitional measures must be time-limited, reversible where feasible, and non-evasive under **Chapters Two through Four** anti-evasion requirements.
 
 ### 3. Supremacy Relative to Other Binding Norms
 <details>
@@ -103,7 +103,7 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 - Upstream: [§3](#3-supremacy-relative-to-other-binding-norms) supremacy framing.
 - Downstream: [§3.2](#32-stricter-external-protections) stricter-external overlay; [§3.3](#33-conflict-disclosure-and-mitigation) irreconcilable-conflict duties.
-- Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) for the boundary between source-layer authority and [Chapter One](core_01.015_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.015) last-resort hierarchy.
+- Read with: [Authority Stack and Internal Hierarchy](core_05.045_band_integrative.md#authority-stack-and-internal-hierarchy) for the boundary between source-layer authority and [Chapter One](core_01.010_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (1.010) last-resort hierarchy.
 
 </details>
 
@@ -120,7 +120,7 @@ For adopting entities, this Constitution and its integrated definitions govern i
 
 - Upstream: [§3.1](#31-internal-hierarchy-for-adopters) internal hierarchy baseline.
 - Downstream: [§3.3](#33-conflict-disclosure-and-mitigation) when stricter external and constitutional requirements appear to collide.
-- Read with: [Chapter One §2.1](core_01.005_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (1.005 §2.1) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
+- Read with: [Chapter One §2.1](core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (1.000 §2.1) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
 
 </details>
 
@@ -158,7 +158,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 - Upstream: [§3.3](#33-conflict-disclosure-and-mitigation) documented conflict handling.
 - Subsections: [§4.1](#41-good-faith-cooperation); [§4.2](#42-preserved-internal-review-pathways).
-- Downstream: [§5](#5-relation-to-applicable-external-law) non-displacement and alignment; [Article XX-A](core_06.025_rights_part_e.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
+- Downstream: [§5](#5-relation-to-applicable-external-law) non-displacement and alignment; [Article XX-A](core_06.020_rights_part_e.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
 - Read with: [Chapter Sixteen §2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
 
 </details>
@@ -173,7 +173,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 - Upstream: [§4](#4-disputes-involving-external-legal-orders) external-dispute frame.
 - Downstream: [§4.2](#42-preserved-internal-review-pathways) when external process is slow or inadequate.
-- Read with: Truth and auditability obligations in [Chapters Two through Four](core_02.000_definition_structure.md), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [Chapter Six](core_06.005_rights_part_a.md#chapter-six-foundational-rights) (6.005) as applicable to record preservation.
+- Read with: Truth and auditability obligations in [Chapters Two through Four](core_02.000_definition_structure.md), [Evidence Preservation](core_05.050_band_oversight.md#evidence-preservation), and [Chapter Six](core_06.000_rights_part_a.md#chapter-six-foundational-rights) (6.000) as applicable to record preservation.
 
 </details>
 
@@ -191,7 +191,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 - Upstream: [§4.1](#41-good-faith-cooperation) cooperation duty.
 - Downstream: [Chapter Seventeen](core_17.000_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) (17.000) procedural validity for waivers tied to adoption documents.
-- Read with: [Article XX-A](core_06.025_rights_part_e.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Twelve, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) (12.010).
+- Read with: [Article XX-A](core_06.020_rights_part_e.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Twelve, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) (12.005).
 
 </details>
 
@@ -199,7 +199,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 *In plain terms: if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.*
 
-Constitutional interpretation, appeal, and review pathways under **Article XX-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Twelve, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
+Constitutional interpretation, appeal, and review pathways under **Article XX-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Twelve, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_12.005_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
 
 ### 5. Relation to Applicable External Law
 <details>
