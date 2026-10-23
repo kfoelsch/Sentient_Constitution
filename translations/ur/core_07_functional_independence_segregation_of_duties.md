@@ -8,8 +8,8 @@
 >
 > - **آئینی مالک:** مادی طور پر پابند اعمال کے لیے الگ نشستوں کا کم از کم معیار؛ ہر [مادی طور پر پابند عمل کے ریکارڈ](../../core_05_band_accountability.md#materially-binding-act-record) کا عالمگیر کم از کم مواد؛ عامل اور اس کی [مادی کنٹرول لائن](../../core_05_band_accountability.md#material-control-line) سے خودمختاری؛ شائع شدہ راستوں اور کرداروں کی جگہ بندی؛ مفادات کے تصادم، خالی آسامی، متبادل اور غلط نشست کو معاملہ بھیجنا؛ متناسب مشترکہ میزبانی؛ قابل انتساب حوالگیاں؛ اور وہ کم از کم خودمختاری کی شرائط جن کا اطلاق ہر بعد کی آئینی کارروائی کو کرنا ہوگا۔
 > - **اصولی سطح کا ماخذ:** [باب اول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) حکمرانی سے فعلی خودمختاری محفوظ رکھنے کا تقاضا کرتا ہے اور عملی نشستوں کے ڈھانچے کو یہاں بھیجتا ہے۔
-> - **نفاذ کا مالک:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)، [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)، اور [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) نشستوں کی جگہ مقرر اور انہیں عملی بناتے ہیں۔ وہ مزید سخت ہو سکتے ہیں اور محدود خصوصی اختیار کی نشستوں کی اقسام شامل کر سکتے ہیں؛ وہ اس باب کو تنگ نہیں کر سکتے۔
-> - **کارروائی سے مخصوص اطلاق بعد کے ابواب میں رہے گا:** باب آٹھ اس معیار کو نظامی ہم آہنگی کی توثیق پر لاگو کرتا ہے؛ [باب نہم §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) اسے حیثیت کے ریکارڈز پر لاگو کرتا ہے؛ باب بارہ اور [corpus_forum.md](../../corpus_forum.md) اسے فورم کی کارروائی پر لاگو کرتے ہیں۔ یہ ابواب اپنے موضوع کے مطابق تحفظات بڑھا سکتے ہیں؛ کمزور متبادل نہیں بنا سکتے۔
+> - **نفاذ کا مالک:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation)، [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)، اور [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) نشستوں کی جگہ مقرر اور انہیں عملی بناتے ہیں۔ وہ مزید سخت ہو سکتے ہیں اور محدود خصوصی اختیار کی نشستوں کی اقسام شامل کر سکتے ہیں؛ وہ اس باب کو تنگ نہیں کر سکتے۔
+> - **کارروائی سے مخصوص اطلاق بعد کے ابواب میں رہے گا:** باب آٹھ اس معیار کو نظامی ہم آہنگی کی توثیق پر لاگو کرتا ہے؛ [باب نہم §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) اسے حیثیت کے ریکارڈز پر لاگو کرتا ہے؛ باب بارہ اور [corpus_forum.md](../../corpus_forum.md) اسے فورم کی کارروائی پر لاگو کرتے ہیں۔ یہ ابواب اپنے موضوع کے مطابق تحفظات بڑھا سکتے ہیں؛ کمزور متبادل نہیں بنا سکتے۔
 >
 > مطالعے کی ترتیب: §1 مقصد، دائرہ اور ملکیت کی حد → §2 چار نشستوں کا آئینی معیار → §3 خودمختاری اور تصادم → §4 غلط نشست کو معاملہ بھیجنا → §5 شائع شدہ جگہ بندی اور متبادل → §6 متناسب توسیع → §7 ہنگامی حالات → §8 عمل کے ریکارڈز اور قابل انتساب حوالگیاں → §9 بعد کی کارروائیوں سے تعلق۔
 
@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
 - ماقبل: [آئینی چہارگانہ](../../core_00_preamble.md#constitutional-tetrad) — خصوصاً **نگرانی** اور **جوابدہی**؛ [مادی مفاد](../../core_00_preamble.md#material-stake)؛ [باب اول §17.1 مشترکہ نگہبانی معیار](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)؛ [نگہبانی کے نظم کے تحت حکمرانی، باب اول §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [آرٹیکل XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*آڈٹ، شفافیت، اور آزادانہ تصدیق*)۔
-- ذیلی حصے: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-floor)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes)۔
+- ذیلی حصے: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes)۔
 - مابعد: [باب آٹھ](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)؛ [باب نہم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [باب دوازدہم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [باب سیزدہم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ اوپر نامزد نفاذی متن۔
 - ساتھ پڑھیں: [عدم ہم آہنگی کی نشان دہی، باب اول §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*کثیر فریقی نشان دہی اور جائزہ*); [قابل انتساب عمل](../../core_05_band_accountability.md#attributable-action)؛ [انتساب کی سالمیت](../../core_05_band_accountability.md#attribution-integrity)؛ [قابل آڈٹ ہونا](../../core_05_band_oversight.md#auditability)؛ [قابل اعتراض ہونا](../../core_05_band_accountability.md#contestability)؛ [تناسب](../../core_05_band_accountability.md#proportionality)۔
 
@@ -36,7 +36,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
 - ماقبل: باب کے آغاز میں ملکیت کا دعویٰ؛ [باب اول §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [نگرانی](../../core_05_apex_oversight_leg.md#oversight-constitutional)؛ [جوابدہی](../../core_05_apex_accountability_leg.md#accountability)۔
-- مابعد: [§2](#2-four-seat-constitutional-floor) سے [§9](#9-relationship-to-later-processes) تک؛ ہر بعد کی کارروائی جو مادی طور پر پابند عمل پیدا کرے یا تبدیل کرے۔
+- مابعد: [§2](#2-four-seat-constitutional-requirement) سے [§9](#9-relationship-to-later-processes) تک؛ ہر بعد کی کارروائی جو مادی طور پر پابند عمل پیدا کرے یا تبدیل کرے۔
 - ساتھ پڑھیں: تصدیق کی بنیاد کے لیے [باب چہارم](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)؛ چیلنج اور تدارک کے لیے [آرٹیکل XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*قابل اعتماد ہونے کا بنیادی معیار*) اور [آرٹیکل XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*ازالے اور تدارک کا حق*)؛ آزادانہ تصدیق کے حقوقی معیار کے لیے [آرٹیکل XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*آڈٹ، شفافیت، اور آزادانہ تصدیق*)۔
 
 </details>
@@ -65,14 +65,14 @@
 - ابواب ہشت تا دوازدہم سے کارروائی کے مخصوص ریکارڈ کا مواد؛ یا
 - نامزد نفاذی متن سے عملی نشستوں کی فہرست، عملے کے طریقے اور راستوں کے نقشے کی کارروائی۔
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. چار نشستوں کا آئینی معیار
 
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
 - ماقبل: [§1](#1-purpose-scope-and-owner-boundary)؛ [باب اول §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)؛ [باب اول §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)۔
-- مابعد: [§3](#3-independence-conflict-and-control-lines) سے [§9](#9-relationship-to-later-processes) تک؛ [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*نشستوں کی فہرست — کارروائی کے کرداروں کی اقسام اور عملی حدود*)۔
+- مابعد: [§3](#3-independence-conflict-and-control-lines) سے [§9](#9-relationship-to-later-processes) تک؛ [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*نشستوں کی فہرست — کارروائی کے کرداروں کی اقسام اور عملی حدود*)۔
 - واحد مجاز مشترکہ میزبانی کے راستے کے لیے [§6](#6-proportional-scaling-and-merged-hosting) پڑھیں۔
 
 </details>
@@ -163,9 +163,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
-- ماقبل: [§2](#2-four-seat-constitutional-floor)؛ [اختیار کے مطابق جوابدہی](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)؛ [آرٹیکل XXIV](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*آئینی تشریح، جائزہ اور قبضے سے بچاؤ کی ضمانتیں*)۔
+- ماقبل: [§2](#2-four-seat-constitutional-requirement)؛ [اختیار کے مطابق جوابدہی](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)؛ [آرٹیکل XXIV](core_06_rights_part_d.md) (*آئینی تشریح، جائزہ اور قبضے سے بچاؤ کی ضمانتیں*)۔
 - مابعد: [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ باب ہشتم کے توثیقی اجزا کے کردار؛ باب نہم میں ریکارڈ کی تحویل؛ باب دوازدہم کے فورم میں خود فیصلہ کرنے سے تحفظ۔
-- ساتھ پڑھیں: [مادی کنٹرول لائن](../../core_05_band_accountability.md#material-control-line)؛ عملی تصادم اور خود فیصلہ کرنے سے تحفظ کے لیے [CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*تصادم کی دیانت، قبضے سے بچاؤ اور بدعنوانی کی روک تھام*) اور [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*دیانت کی ضمانتیں، قبضے سے بچاؤ کے طریقے اور خود فیصلہ کرنے سے تحفظ*)۔
+- ساتھ پڑھیں: [مادی کنٹرول لائن](../../core_05_band_accountability.md#material-control-line)؛ عملی تصادم اور خود فیصلہ کرنے سے تحفظ کے لیے [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*تصادم کی دیانت، قبضے سے بچاؤ اور بدعنوانی کی روک تھام*) اور [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*دیانت کی ضمانتیں، قبضے سے بچاؤ کے طریقے اور خود فیصلہ کرنے سے تحفظ*)۔
 
 </details>
 
@@ -190,8 +190,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
-- ماقبل: [§2](#2-four-seat-constitutional-floor)؛ [§3](#3-independence-conflict-and-control-lines)۔
-- مابعد: [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [CI-4.6 کے مشترکہ نشستوں کے قواعد](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)۔
+- ماقبل: [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)۔
+- مابعد: [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [CI-4.6 کے مشترکہ نشستوں کے قواعد](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)۔
 - ساتھ پڑھیں: [مزاحمت کا فرض، باب اول §17.5](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)۔
 
 </details>
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
-- ماقبل: [§2](#2-four-seat-constitutional-floor)؛ [§3](#3-independence-conflict-and-control-lines)؛ [شفافیت](../../core_05_band_oversight.md#transparency)؛ [قابل آڈٹ ہونا](../../core_05_band_oversight.md#auditability)۔
-- مابعد: [§8](#8-act-records-and-attributable-handoffs)؛ [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*فعلی علیحدگی کی راہیں*)؛ [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*مجاز کردار اور جوابدہی کی زنجیریں*)؛ ابواب ہشت اور نہم کے ریکارڈز۔
-- ساتھ پڑھیں: [منشور](../../core_05_band_continuity.md#charter) اور [باب سیزدہم §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution)۔
+- ماقبل: [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [شفافیت](../../core_05_band_oversight.md#transparency)؛ [قابل آڈٹ ہونا](../../core_05_band_oversight.md#auditability)۔
+- مابعد: [§8](#8-act-records-and-attributable-handoffs)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*فعلی علیحدگی کی راہیں*)؛ [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*مجاز کردار اور جوابدہی کی زنجیریں*)؛ ابواب ہشت اور نہم کے ریکارڈز۔
+- ساتھ پڑھیں: [منشور](../../core_05.040_band_continuity.md) اور [باب سیزدہم §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution)۔
 
 </details>
 
@@ -243,8 +243,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
-- ماقبل: [§2](#2-four-seat-constitutional-floor)؛ [مادی مفاد](../../core_00_preamble.md#material-stake)؛ [ضرورت](../../core_05_band_accountability.md#necessity)؛ [تناسب](../../core_05_band_accountability.md#proportionality)۔
-- مابعد: [باب نہم §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records)؛ [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*طبقے کے مطابق راستوں کے عملے اور مہارت کی تکرار*)؛ [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*فعلی علیحدگی کی راہیں*)۔
+- ماقبل: [§2](#2-four-seat-constitutional-requirement)؛ [مادی مفاد](../../core_00_preamble.md#material-stake)؛ [ضرورت](../../core_05_band_accountability.md#necessity)؛ [تناسب](../../core_05_band_accountability.md#proportionality)۔
+- مابعد: [باب نہم §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records)؛ [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*طبقے کے مطابق راستوں کے عملے اور مہارت کی تکرار*)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*فعلی علیحدگی کی راہیں*)۔
 - ساتھ پڑھیں: [قابل اجتناب بوجھ](../../core_05_band_continuity.md#avoidable-burden) اور باب اول [§3.3 تحقیر آمیز کارروائی کی روک تھام](../../core_01_a_values_principles.md#33-anti-degrading-process)۔
 
 </details>
@@ -266,7 +266,7 @@ flowchart TB
 
 غیر رسمی، بلا معاوضہ، باہمی امداد، نگہداشت، مرمت، تدریس، تعاونی اور برادری کی نگہبانی کے کام متعلقہ جانچ کے لیے شائع شدہ اختیار رکھنے والے غیر جانب دار اعتماد کے ادارے سے رجوع کر سکتے ہیں۔ جہاں واقعی غیر جانب دار اور جوابدہ راستہ موجود ہو، وہاں آئین ایسی ادارہ جاتی رسمیت لازم نہیں کرتا جس تک دائرہ معقول طور پر نہیں پہنچ سکتا۔
 
-عملے کی کمی، رفتار، سہولت یا مہارت کا ارتکاز بذات خود یکجائی کو جائز نہیں بناتا۔ [§2 چار نشستوں کا آئینی معیار](#2-four-seat-constitutional-floor) میں طبقے کے مطابق مقررہ حیثیت لاگو ہے: طبقہ A میں کوئی انحراف دستیاب نہیں، اور طبقہ B یا C میں ہر انحراف کو اوپر کی شرائط پوری کرنا ہوں گی۔ مادی مفاد جتنا بڑا ہو، الگ دفاتر، مہارت کی تکرار اور آزاد متبادل کی قیاس اتنی مضبوط ہوتی ہے۔
+عملے کی کمی، رفتار، سہولت یا مہارت کا ارتکاز بذات خود یکجائی کو جائز نہیں بناتا۔ [§2 چار نشستوں کا آئینی معیار](#2-four-seat-constitutional-requirement) میں طبقے کے مطابق مقررہ حیثیت لاگو ہے: طبقہ A میں کوئی انحراف دستیاب نہیں، اور طبقہ B یا C میں ہر انحراف کو اوپر کی شرائط پوری کرنا ہوں گی۔ مادی مفاد جتنا بڑا ہو، الگ دفاتر، مہارت کی تکرار اور آزاد متبادل کی قیاس اتنی مضبوط ہوتی ہے۔
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. ہنگامی اور فوری کارروائی
@@ -274,9 +274,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
-- ماقبل: [§2](#2-four-seat-constitutional-floor)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [باب دوازدہم §6.1 ہنگامی اقدامات اور جاری رکھنے کا بوجھ](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)؛ [طے شدہ عبوری طرز عمل](../../core_01_b_interaction_interpretation.md#default-interim-posture)۔
+- ماقبل: [§2](#2-four-seat-constitutional-requirement)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [باب دوازدہم §6.1 ہنگامی اقدامات اور جاری رکھنے کا بوجھ](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)؛ [طے شدہ عبوری طرز عمل](../../core_01_b_interaction_interpretation.md#default-interim-posture)۔
 - مابعد: نامزد نفاذی متن میں واقعے، روک تھام، اجرا، تسلسل اور بعد از واقعہ جائزے کے طریقے۔
-- ساتھ پڑھیں: [بروقت ہونا](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)، [ثبوت کا تحفظ](../../core_05_band_oversight.md#evidence-preservation)، اور [CI-4.6 نشستوں کی فہرست — کارروائی کے کرداروں کی اقسام اور عملی حدود](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment)۔
+- ساتھ پڑھیں: [بروقت ہونا](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)، [ثبوت کا تحفظ](../../core_05_band_oversight.md#evidence-preservation)، اور [CI-4.6 نشستوں کی فہرست — کارروائی کے کرداروں کی اقسام اور عملی حدود](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment)۔
 
 </details>
 
@@ -313,8 +313,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
-- ماقبل: [§2](#2-four-seat-constitutional-floor) سے [§7](#7-emergency-and-urgent-action) تک؛ [مادی طور پر پابند عمل کا ریکارڈ](../../core_05_band_accountability.md#materially-binding-act-record)؛ [قابل انتساب عمل](../../core_05_band_accountability.md#attributable-action)؛ [انتساب کی سالمیت](../../core_05_band_accountability.md#attribution-integrity)۔
-- مابعد: [CS-4 §10 قابل معائنہ قابل انتساب عمل](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)؛ [CI-4.6 کے مشترکہ نشستوں کے قواعد](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)؛ §8 کے زیر انتظام ہر کارروائی کا ریکارڈ؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*بنیادی مشینی طور پر جانچی جا سکنے والی شکل؛ کارروائی کی معاونت، دوسری تعریف نہیں*)۔
+- ماقبل: [§2](#2-four-seat-constitutional-requirement) سے [§7](#7-emergency-and-urgent-action) تک؛ [مادی طور پر پابند عمل کا ریکارڈ](../../core_05_band_accountability.md#materially-binding-act-record)؛ [قابل انتساب عمل](../../core_05_band_accountability.md#attributable-action)؛ [انتساب کی سالمیت](../../core_05_band_accountability.md#attribution-integrity)۔
+- مابعد: [CS-4 §10 قابل معائنہ قابل انتساب عمل](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)؛ [CI-4.6 کے مشترکہ نشستوں کے قواعد](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)؛ §8 کے زیر انتظام ہر کارروائی کا ریکارڈ؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*بنیادی مشینی طور پر جانچی جا سکنے والی شکل؛ کارروائی کی معاونت، دوسری تعریف نہیں*)۔
 - ساتھ پڑھیں: [§4 غلط نشست کو معاملہ بھیجنا](#4-wrong-seat-routing) اور [باب چہارم §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)۔
 
 </details>

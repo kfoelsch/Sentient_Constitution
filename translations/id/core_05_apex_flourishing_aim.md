@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [Kompas Bab Lima](core_05__definitions_home.md#kompas-dan-peta-definisi-bab-lima); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); glosa lapisan-prinsip pada [Pembukaan §1](core_00_preamble.md#flourishing).
-- Hilir: Prinsip: [§2 Tujuan Fondasional: Kesejahteraan](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 Batasan Prinsip yang Tidak Bisa Ditawar: Keselamatan dan Kebenaran](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 Kepercayaan](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 Disiplin Klaim Hasil Konstitusional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Dekomposisi Tujuan Konstitusional](#flourishing-aim-decomposition); berkas pita Tetrad di mana **Berkembang** adalah tujuan primer menurut [Kompas Bab Lima](core_05__definitions_home.md#kompas-dan-peta-definisi-bab-lima).
+- Hilir: Prinsip: [§2 Tujuan Fondasional: Kesejahteraan](core_01_a_values_principles.md); [§3 Batasan Prinsip yang Tidak Bisa Ditawar: Keselamatan dan Kebenaran](core_01_a_values_principles.md); [§4 Kepercayaan](core_01_a_values_principles.md); [§11.1.5 Disiplin Klaim Hasil Konstitusional](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Dekomposisi Tujuan Konstitusional](#flourishing-aim-decomposition); berkas pita Tetrad di mana **Berkembang** adalah tujuan primer menurut [Kompas Bab Lima](core_05__definitions_home.md#kompas-dan-peta-definisi-bab-lima).
 - Baca bersama: [Kesejahteraan](../../core_05.040_band_continuity.md#wellbeing), [Keselamatan (batasan)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Kebenaran (batasan konstitusional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Keterpercayaan](../../core_05.040_band_continuity.md#trustworthiness), [Keagenan bermakna](../../core_05.055_band_participation.md#meaningful-agency), [Divergensi indikator pengganti](../../core_05.050_band_oversight.md#proxy-divergence), [Penguasaan sistem](../../core_05.040_band_continuity.md#system-capture), [Kesinambungan (Tujuan Konstitusional)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (tujuan berpasangan — tidak satu pun boleh dikejar dengan mengorbankan yang lain), [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) diskalakan ke [taruhan material](core_00_preamble.md#material-stake) (bingkai keabsahan tujuan ini — bukan penyusun kelima), dan keluarga pengukuran Berkembang.
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - Nilai menurut [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad), diskalakan ke [taruhan material](core_00_preamble.md#material-stake).
-  - Ikatkan hasil berkembang yang diklaim ke syarat [penyusun](#flourishing-aim-decomposition) dan ke hasil yang benar-benar dialami makhluk sadar, di bawah Bab Empat dan [Bab Satu §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - Ikatkan hasil berkembang yang diklaim ke syarat [penyusun](#flourishing-aim-decomposition) dan ke hasil yang benar-benar dialami makhluk sadar, di bawah Bab Empat dan [Bab Satu §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
   - Selalu baca bersama [Kesinambungan (Tujuan Konstitusional)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): keuntungan jangka pendek yang secara terabakan melemahkan stabilitas, ketahanan, atau integritas ekologis jangka panjang gagal **Berkembang** ketika kedua tujuan dinilai bersama.
 <a id="flourishing-constitutional-c"></a>
 - C: Tidak patuh ketika:
   - satu blok bangunan dimaksimalkan sementara kebenaran, keselamatan, keterpercayaan, atau keagenan dikosongkan;
   - klaim berkembang tidak dapat ditelusuri ke hasil konstitusional di bawah Bab Empat; atau
-  - **Berkembang** dikejar dengan cara yang secara material mengalahkan [Kesinambungan (Tujuan Konstitusional)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) tanpa izin jelas di bawah [Bab Satu §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+  - **Berkembang** dikejar dengan cara yang secara material mengalahkan [Kesinambungan (Tujuan Konstitusional)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) tanpa izin jelas di bawah [Bab Satu §6](core_01_b_interaction_interpretation.md).
 
 ---
 

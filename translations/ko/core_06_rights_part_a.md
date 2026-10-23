@@ -179,7 +179,7 @@
 - **전제, 완전성, 지속가능성:** 제5장의 **환경 전제**, **생태 완전성**, **지속가능성**은 이 조 아래에서 운영된다.
   - 생명을 받치는 자연 체계는 자신의 연속과 완전성 이익을 가진다. 그 이익은 감지자 이익과 함께 해석을 알린다.
   - 이 조를 어기는 실질 해 — **환경 전제**, **생태 완전성**, **지속가능성** 아래에서 판단 — 는 비준수다.
-  - 채택 주체의 [채택 문서](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) 또는 채택 범위 안의 편입된 시행 텍스트가 이름 붙인 환경 요건을 어기는 해도 비준수다.
+  - 채택 주체의 [채택 문서](../../core_17.000_amendment_ratification.md) 또는 채택 범위 안의 편입된 시행 텍스트가 이름 붙인 환경 요건을 어기는 해도 비준수다.
 - **동물 생명 상호작용:** [동물 생명](../../core_05.055_band_participation.md#animal-life)은 **자연 체계의 궤적**과 감지자를 위한 제6장 권리 바닥 사이의 복지 보호 영역을 차지한다.
   - 복지와 같은 해가 실질로 걸리는 곳에서 **감지 비배제** 아래 동물 생명에 대한 최소 잔혹·복지 바닥을 세운다.
   - 기록이 그 질문을 실질로 걸면, 높아진 소통 대우나 감지 지위 재결의 대체가 아니다.
@@ -301,7 +301,7 @@
   결정 기록은 불확실성, 가정, 증거 한도, 불일치, 실질 공백을 공개로 말해야 한다.
 - **부담과 기록의 구체 기준:** 검토 발동 조건이 충족되면 인가, 계속 또는 확대를 구하는 행위자가 제4장 §1에 따른 부담을 지고 최고 수준의 검토를 충족해야 한다. 불확실성, 증거 다툼 또는 낮은 추정 확률로 부담이 면제되지 않는다. 제4장 §5의 준수 증거 기준에 따라 실질적으로 더 안전한 각 대안은 검토 대상 활동에 채택하거나, 정당한 목적을 달성하지 못하거나 이용할 수 없음을 보여야 한다. 대안을 검토했다는 기록만으로는 충분하지 않다. 완화와 중단 조치는 가능한 피해 규모에 비례해야 한다. 감시는 피해가 되돌릴 수 없게 되기 전에 원인 경로를 중단할 수 있도록 충분히 일찍 탐지해야 하며, 지명된 행위자는 중단 권한과 실제 역량을 모두 가져야 한다. 중요한 새 증거, 확대, 위험에 비례한 주기마다 부담을 다시 충족해야 한다. 이를 충족하지 못하면 비준수이며 제3장 §3의 결과가 따른다. 인가, 계속 또는 확대 결정은 각각 실질적 구속력이 있는 행위다. 그 기록은 행위자의 입증과 검토자의 평가를 연결하고 불확실성, 가정, 증거 한계, 이견, 중요한 공백을 공개해야 한다.
 - **현재 이익 한도:** 현재 이익은 미래 감지자, 생태 회복에 결정적인 체계, 또는 생명을 받치는 생태 조건을 문명 규모 또는 생존 결정적 해에 불균형하게 노출하는 것을 정당화하지 않는다. 또한 어떤 자연 생태계든 규모와 관계없이 그 [생태 회복 능력](../../core_05.040_band_continuity.md#ecological-recovery-capacity)의 비가역 상실에 노출하는 것을 정당화하지 않는다.
-- **명명된 조치:** 이 조 아래 인가, 계속, 또는 확대를 구하는 행위자는 [채택 문서](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) 또는 채택 범위 안의 편입된 시행 텍스트에서, 경로에 비례하는 감축, 상한, 또는 중단 조치를 이름 붙여야 한다 — [환경 전제](../../core_05.040_band_continuity.md#environmental-preconditions) 요인으로서 기후 체계에 대한 해를 포함. 이 조는 여전히 숫자 목표를 정하지 않는다. **제 I-B조** (*생태 발자국과 투명*)는 발자국 귀속 하위절로 남으며, 홀로 감축을 요구하지 않는다. 이 조 아래 믿을 수 있는 경로가 열린 채로 그 명명된 조치 없이 계속하는 것은 비준수다.
+- **명명된 조치:** 이 조 아래 인가, 계속, 또는 확대를 구하는 행위자는 [채택 문서](../../core_17.000_amendment_ratification.md) 또는 채택 범위 안의 편입된 시행 텍스트에서, 경로에 비례하는 감축, 상한, 또는 중단 조치를 이름 붙여야 한다 — [환경 전제](../../core_05.040_band_continuity.md#environmental-preconditions) 요인으로서 기후 체계에 대한 해를 포함. 이 조는 여전히 숫자 목표를 정하지 않는다. **제 I-B조** (*생태 발자국과 투명*)는 발자국 귀속 하위절로 남으며, 홀로 감축을 요구하지 않는다. 이 조 아래 믿을 수 있는 경로가 열린 채로 그 명명된 조치 없이 계속하는 것은 비준수다.
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### 제 II조: 물질의 책임 있는 관리와 오래 쓰는 사용 완전성
@@ -496,7 +496,7 @@
 
 *쉬운 말로: 제품이 작동하려면 운영자의 서버가 필요할 때, 운영자는 앞에서 말하고, 비밀이 참으로 요구하는 곳을 빼고는 연속 결정적 데이터를 내보낼 수 없는 형태로 가두지 말고, 서비스가 끊기면 무슨 일이 일어나는지를 계획하고, 파산이나 매각이 그 연속 의무를 지우게 해서는 안 됩니다.*
 
-- **데이터 처리:** 운영자는 이 조의 데이터를 [CS-2 — 정보 유형과 처리](../../corpus_systems/cs_02_a_information_types_and_handling.md)에 따라 분류·처리해야 한다([제18장](../../core_18.000_incorporation.md)에 따라 편입된 경우). 여기에는 [§1.3](../../corpus_systems/cs_02_a_information_types_and_handling.md#13-collection-notice-and-deletion)의 고지·삭제 규칙과 [§1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)의 연속성 핵심 데이터 내보내기 규칙이 포함된다.
+- **데이터 처리:** 운영자는 이 조의 데이터를 [CS-2 — 정보 유형과 처리](../../corpus_systems/cs_06.305_information_types_and_handling.md)에 따라 분류·처리해야 한다([제18장](../../core_18.000_incorporation.md)에 따라 편입된 경우). 여기에는 [§1.3](../../corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion)의 고지·삭제 규칙과 [§1.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)의 연속성 핵심 데이터 내보내기 규칙이 포함된다.
 - **바닥:** 합법 핵심 사용이 운영자가 통제하는 망 서비스에 의존하는 제품에 대해, 운영자는 실질로 구속하는 약속 전에, **실질성**과 의존에 비례하여, 다음 전부를 공개해야 한다:
   - 무엇이 계속 운영자 접근을 요구하는지;
   - 서비스가 끝나면 무엇이 저하되거나 실패하는지;
@@ -504,7 +504,7 @@
   - 어떤 이식이 있는지;
   - 어떤 연속 조치가 있는지.
 
-  운영자는 공개된 연속과 내보내기 경로 아래 내보내거나, 이전하거나, 옮길 수 없는 형태로 연속 결정적 감지자 데이터를 수집하거나 보유해서는 안 된다. 다만 **필요성**이 비밀, 보안, 또는 합법 비공개를 요구하는 곳은 예외이며, 그 경우 한도, 범위, 합법 대체 내보내기 경로가 약속 전에 공개되어야 한다. [corpus_systems.md](../../corpus_systems.md) **CS-2 — 정보 유형과 취급**, **[1.2절](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*연속 결정적 수집과 내보내기 가능성*), **제 XXI-A조** (*이식권*)와 함께 읽으라.
+  운영자는 공개된 연속과 내보내기 경로 아래 내보내거나, 이전하거나, 옮길 수 없는 형태로 연속 결정적 감지자 데이터를 수집하거나 보유해서는 안 된다. 다만 **필요성**이 비밀, 보안, 또는 합법 비공개를 요구하는 곳은 예외이며, 그 경우 한도, 범위, 합법 대체 내보내기 경로가 약속 전에 공개되어야 한다. [corpus_systems.md](../../corpus_systems.md) **CS-2 — 정보 유형과 취급**, **[1.2절](../../corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*연속 결정적 수집과 내보내기 가능성*), **제 XXI-A조** (*이식권*)와 함께 읽으라.
 <a id="article-ii-f-continuity-and-operator-shutdown"></a>
 #### 제 II-F조: 연속성과 운영자 서비스 종료
 
@@ -561,7 +561,7 @@
   - 누가 자격을 갖는지, 지원을 받으려면 어디에 살아야 하는지, 비용이 시간에 따라 바뀔 때 급여 수준이 어떻게 갱신되는지에 대한 규칙.
 
   그 규칙은 전달을 구조화할 수 있다. 생존 필수에 대한 최소 접근을 꺾거나 **제 III조**와 **제 VI조**에 반하는 악의적 배제를 부과하는 데 쓰여서는 안 된다.
-  - 상세 재정 지향 — 수수료와 요금이 생존 관련 투입에 대한 최소 접근을 해쳐서는 안 된다는 규칙을 포함 — 은 [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*분류에 묶인 제도 의무*), **CI-10** (*공공 수입, 수수료, 반복 청구, 청구 완전성*), **CI-11** (*자원의 책임 있는 관리와 유인 완전성*)이 다스린다.
+  - 상세 재정 지향 — 수수료와 요금이 생존 관련 투입에 대한 최소 접근을 해쳐서는 안 된다는 규칙을 포함 — 은 [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*분류에 묶인 제도 의무*), **CI-10** (*공공 수입, 수수료, 반복 청구, 청구 완전성*), **CI-11** (*자원의 책임 있는 관리와 유인 완전성*)이 다스린다.
   - 감지자가 실질로 의존하는 체계가 생존 필수에 대한 접근을 공급, 분배, 가격 책정, 호스팅, 또는 끊을 때, [체계 정합 인증](../../core_05.040_band_continuity.md#system-alignment-certification)이 [제9장](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) 아래에서 적용된다 — 그리고 그 체계의 과정은 여기에 말한 권리를 줄이는 데 쓰일 수 없다.
   - 이 조는 단일 자금 모형을 처방하지 않는다. 어떤 생존 바닥 위의 고용, 창업, 자발 교환, 다른 합법 경제 활동은 제1장, 제6장, 편입된 문서 — 시장 구조나 고영향 상업 체계가 적용되는 곳에서 `corpus_systems.md`를 포함 — 에 따라 허용된 채로 남는다.
 
@@ -610,7 +610,7 @@
 - **연결:** 정보권과 핵심 정보·통신 체계에 대한 접근은 현대 감지자 사회 참여의 기초 요건이다.
   - 감지자는 행위주체성, 인식, 의미 있는 참여를 유지하기에 충분한 접근을 가져야 한다.
   - 그 접근에 대한 어떤 한도든, 보안, 안전, 또는 합법 운영 한도가 실질로 더 좁은 접근을 요구하는 곳에서 [필요성](../../core_05.035_band_accountability.md#necessity), [비례](../../core_05.035_band_accountability.md#proportionality), [안전(제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)을 충족해야 한다.
-교차 참조: **제 XXVIII-D조** (*비준수 재산과 체계; 자발적 인도 유인*) 이행을 가로지른 필수 환경 연속을 위한 이행 책임 있는 관리 규율 — 운영 세부는 [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **제5장** [*점유 연속*](../../core_05.040_band_continuity.md#occupancy-continuity), [*필수 환경 상품화 금지*](../../core_05.040_band_continuity.md#essential-environment-non-commodification), 해당하는 곳에서 [**§3.7** *신체 유지 접근, 안전 조건, 점유 연속, 환경 전제, 문화 연속, 휴식, 축출 금지 바닥*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment)의 공동 호출 무리.
+교차 참조: **제 XXVIII-D조** (*비준수 재산과 체계; 자발적 인도 유인*) 이행을 가로지른 필수 환경 연속을 위한 이행 책임 있는 관리 규율 — 운영 세부는 [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) through **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives); **제5장** [*점유 연속*](../../core_05.040_band_continuity.md#occupancy-continuity), [*필수 환경 상품화 금지*](../../core_05.040_band_continuity.md#essential-environment-non-commodification), 해당하는 곳에서 [**§3.7** *신체 유지 접근, 안전 조건, 점유 연속, 환경 전제, 문화 연속, 휴식, 축출 금지 바닥*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment)의 공동 호출 무리.
 
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
 #### 제 III-B조: 신체 유지와 건강 돌봄 접근
@@ -733,7 +733,7 @@
 - **집중 금지, 경쟁 촉진, 통합 천장 상호작용:** **제1장 §13** 집중 금지 규율, **§13.2** 경쟁 촉진 / 지배 금지 규율, **§13.3** 통합 천장 규율은 생산 활동 권력 구조에 적용되나, 이 바닥과 구별된다.
   - 집중 금지를 충족하면서 공정 보상, 집단 조직, 안전 조건, 또는 여가와 휴식을 실패하는 시장 구조는 이 조 아래 비준수다.
   - 이 조를 충족하면서 §13에 반해 권력을 집중하는 생산 활동 구조는 §13 아래 비준수다.
-  - 너무 적은 고용주가 채용을 통제하고, 노동하는 이가 떠나거나 채용되는 것이 막히고 (경쟁 금지, 스카우트 금지, 임금 담합, 또는 무거운 권유 금지 규칙), 플랫폼이 감지자를 잠그고, 공급자가 노동하는 이를 짜도록 통제되고, 통합이 노동 또는 공급자 의존 천장을 넘고, 또는 문지기가 공정 교섭과 일자리 이동을 막을 때 — 그 사실이 실질로 적용되면 **§13.2**, **[CJS-3.11.2 지배 금지 행위와 구제 목록](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§13.3**, 이 조 아래에서 평가하라.
+  - 너무 적은 고용주가 채용을 통제하고, 노동하는 이가 떠나거나 채용되는 것이 막히고 (경쟁 금지, 스카우트 금지, 임금 담합, 또는 무거운 권유 금지 규칙), 플랫폼이 감지자를 잠그고, 공급자가 노동하는 이를 짜도록 통제되고, 통합이 노동 또는 공급자 의존 천장을 넘고, 또는 문지기가 공정 교섭과 일자리 이동을 막을 때 — 그 사실이 실질로 적용되면 **§13.2**, **[CJS-3.11.2 지배 금지 행위와 구제 목록](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)**, **§13.3**, 이 조 아래에서 평가하라.
 - **한도와 시행 라우팅:** **공정 보상**, **집단 조직**, **안전 조건**, 또는 **여가와 휴식**에 대한 어떤 한도든 **필요성**, **비례**, **보호 특성**, **실체 공정**을 충족해야 한다.
   - 운영 기계 — 재정 지향, 이전과 보험 설계, 안전 조건 표준 설정, 집단 조직 제도 설계 — 는 `corpus_institutions.md` CI-9 (*분류에 묶인 제도 의무*) / CI-10 (*공공 수입, 수수료, 반복 청구, 청구 완전성*) / CI-11 (*자원의 책임 있는 관리와 유인 완전성*)과 **제16장** 편입 규율 아래 `corpus_systems.md` CS-5로 라우팅된다.
   - 그 시행 텍스트는 이 바닥을 좁히는 것으로 읽혀서는 안 된다.

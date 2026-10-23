@@ -12,7 +12,7 @@
 >
 > **پچھلا (ابھی انگریزی میں):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **اگلا (ابھی انگریزی میں):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **اگلا (ابھی انگریزی میں):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 > **پڑھنے کا قوس:** §1 مقصد → تنازعے کی ترتیب → §2 طے شدہ مقام اور انٹیک → §2.1–§2.3 لیڈ حدیں، مخلوط داؤ، چیلنج → §3 منتقلی اور خود فیصلہ مخالف → §4 خاندان → §5 بلندی اور سرٹیفیکیشن → §6 درجات اور تاخیر مخالف → §7 فورم سہارا
 </details>
 
@@ -59,7 +59,7 @@
 - بالائی: [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)؛ [باب ہشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)؛ [باب نہم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)؛ [باب دہم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)؛ [باب یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*اصول اور تفسیری پابندیاں*)؛ [باب دوم تا چہارم](core_02_definition_structure.md) (*سراغ اور تصدیق توقعات*)؛ [باب پنجم](core_05__definitions_home.md#chapter-five-foundational-definitions) (*تعریفیں باب دوم تا چہارم کے ساتھ کارپس مقام ویجٹ میں پڑھی جائیں*)؛ [باب ششم](core_06_rights_part_a.md#chapter-six-foundational-rights) (*بنیادی حقوق کی تہہ جسے یہ باب ساتھ لاگو کرتا ہے*)۔
 - زیریں: [§2](#2-default-venue-and-primary-stakes) (*بنیادی داؤ طے شدہ مقام، انٹیک ٹرائیج، مخلوط داؤ، غیر متوازنی، کیفیت ریکارڈ چیلنج؛ فوری چیلنج کے قابل حد رسائی؛ نیک نیتی کی وضع اور کھیل مخالف*)؛ [§3](#3-transfer-consolidation-and-coordination) (*منتقلی اور خود فیصلہ مخالف*)؛ [§4](#4-forum-family-definitions) (*فورم خاندان تعریفیں، کمرے، مشترکہ معیارات، اور عارضی عملی قانون*)؛ [§4.3](#43-institutional-forums) (*داخلی عمل حد بطور ادارہ جاتی خاندان پر تنازعے کی ترتیب کی اطلاق*)؛ [§5](#5-escalation-and-certification) (*بلندی، سرٹیفیکیشن، اور عبوری حفاظت*)؛ [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*مادیت درجات، زنجیر سنگ میل، اور تاخیر مخالف ضبط*)؛ [§7](#7-forum-support-before-during-and-after-review) (*جائزے سے پہلے، دوران، اور بعد فورم سہارا*)۔
 - چوکڑی ٹانگ(یں): **شرکت**، **نگرانی**، **جوابدہی**، **بروقت کارروائی** (تصدیق شدہ دریافتیں کیفیت ریکارڈ کھول، اپ ڈیٹ، یا درست کر سکتی ہیں؛ **CF-11** درجہ گھڑیاں نافذ کرتا ہے)۔ بنیادی مقصد: **شگفتگی** اور **استمرار**۔ [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ رخ بندی اور رسائی بوجھ پر لاگو ہوتا ہے۔
-- ساتھ پڑھیں: [تمہید §3.2](core_00_preamble.md#32-key-governance-processes) اور [§3.3](core_00_preamble.md#33-governance-layers) (*عمل راستے اور حکمرانی-تہہ ضبط*)؛ [دفعہ XII: متاثر فریقوں کی نظامی شرکت، نمائندگی، اور واجب العمل کارروائی](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*ہنگامی، تکمیل، اور وقتی قواعد*) — نافذ کریں، تنگ نہ کریں)؛ [corpus_institutions.md](../../corpus_institutions.md) (*چیلنج، ثانوی جائزہ، اور سالمیت نگرانی — تفویض شدہ فورم دائرہ اختیار کی جگہ نہیں لیتا*)؛ [دفعہ XIII-B: چیلنج، جائزہ اور تدارک کا حق](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)؛ [دفعہ XXIV خاندان](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*کارپس مقام ویجٹ میں اشارہ کردہ انصاف پابندیاں*)۔
+- ساتھ پڑھیں: [تمہید §3.2](core_00_preamble.md#32-key-governance-processes) اور [§3.3](core_00_preamble.md#33-governance-layers) (*عمل راستے اور حکمرانی-تہہ ضبط*)؛ [دفعہ XII: متاثر فریقوں کی نظامی شرکت، نمائندگی، اور واجب العمل کارروائی](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*ہنگامی، تکمیل، اور وقتی قواعد*) — نافذ کریں، تنگ نہ کریں)؛ [corpus_institutions.md](../../corpus_institutions.md) (*چیلنج، ثانوی جائزہ، اور سالمیت نگرانی — تفویض شدہ فورم دائرہ اختیار کی جگہ نہیں لیتا*)؛ [دفعہ XIII-B: چیلنج، جائزہ اور تدارک کا حق](core_06_rights_part_c.md)؛ [دفعہ XXIV خاندان](core_06_rights_part_d.md) (*کارپس مقام ویجٹ میں اشارہ کردہ انصاف پابندیاں*)۔
 
 </details>
 
@@ -91,7 +91,7 @@
 **فورم خاندان** وہ بنیادی ادارے ہیں جن کے ذریعے یہ دستاویز ان پٹریوں کی **نگرانی** کرتی ہے۔ وہ نافذ قواعد کی معمول کی عملی انتظامیہ سے الگ ہیں۔
 
 <a id="dispute-sequencing"></a>
-**تنازعے کی ترتیب۔** پہلے سے مجاز نظام، ادارہ، یا محدود فیصلہ دائرے کے اندر، عام تنازعہ پہلے شائع شدہ [متاثر فریقوں کی نظامی شرکت](core_05_band_participation.md#stakeholder-status-and-weight-cluster) چیلنج اور واجب العمل کارروائی راستہ استعمال کرتا ہے۔ اگر وہ راستہ اب بھی متنازع نتیجہ دے، غائب ہو، قبضے میں ہو، یا مطلوبہ راحت جائز طور پر نہ دے سکے، یہ باب معاملہ **قطعہ 2** کے تحت بنیادی داؤ سے رخ دیتا ہے۔ **سالمیت**، **تکنیکی فورم دائرے**، **ماحول**، اور **آئینی** اس بنیادی داؤ پر طے شدہ لیڈ خاندان ہیں — ترتیب چھوڑنے والے استثنیٰ نہیں۔ ناتمام داخلی عمل، تکمیل لیبل، یا یہ دعویٰ کہ داخلی جائزہ ناتمام ہے ان لیڈ کو نہیں روک سکتا، ان کی اساس نہیں ہٹا سکتا، یا **دفعہ XXV-C** (*بروقت حل اور تاخیر مخالف تہہ*) گھڑیاں نہیں کھا سکتا۔ براہ راست رسائی دستیاب رہتی ہے جب تاخیر حقوق، ثبوت، آزادی، یا عملی بحالی کو مادی طور پر خطرے میں ڈالے۔
+**تنازعے کی ترتیب۔** پہلے سے مجاز نظام، ادارہ، یا محدود فیصلہ دائرے کے اندر، عام تنازعہ پہلے شائع شدہ [متاثر فریقوں کی نظامی شرکت](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) چیلنج اور واجب العمل کارروائی راستہ استعمال کرتا ہے۔ اگر وہ راستہ اب بھی متنازع نتیجہ دے، غائب ہو، قبضے میں ہو، یا مطلوبہ راحت جائز طور پر نہ دے سکے، یہ باب معاملہ **قطعہ 2** کے تحت بنیادی داؤ سے رخ دیتا ہے۔ **سالمیت**، **تکنیکی فورم دائرے**، **ماحول**، اور **آئینی** اس بنیادی داؤ پر طے شدہ لیڈ خاندان ہیں — ترتیب چھوڑنے والے استثنیٰ نہیں۔ ناتمام داخلی عمل، تکمیل لیبل، یا یہ دعویٰ کہ داخلی جائزہ ناتمام ہے ان لیڈ کو نہیں روک سکتا، ان کی اساس نہیں ہٹا سکتا، یا **دفعہ XXV-C** (*بروقت حل اور تاخیر مخالف تہہ*) گھڑیاں نہیں کھا سکتا۔ براہ راست رسائی دستیاب رہتی ہے جب تاخیر حقوق، ثبوت، آزادی، یا عملی بحالی کو مادی طور پر خطرے میں ڈالے۔
 
 ```mermaid
 flowchart TD
@@ -145,7 +145,7 @@ flowchart TD
 - بالائی: [§1](#1-purpose-and-role) (*مقصد، بنیادی اطلاق کردار، جوابدہی تقاضے، شائع شدہ حد رخ بندی، تفصیل کی عدمِ منتقلی، آزادی اور جائزہ توقعات*)۔
 - زیریں: [§3](#3-transfer-consolidation-and-coordination) (*منتقلی، یکجا کاری، خود فیصلہ مخالف*)؛ [§4](#4-forum-family-definitions) (*فورم خاندان تعریفیں طے شدہ جدول کے ساتھ پڑھی جائیں*)؛ [§5](#5-escalation-and-certification) (*طے شدہ مقام سے بلندی؛ عبوری حفاظت*)؛ [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*مادیت درجات اور تاخیر مخالف ضبط*)؛ [§7](#7-forum-support-before-during-and-after-review) (*جائزے سے پہلے، دوران، اور بعد فورم سہارا*)۔
 - §2 کے اندر: [§2.1](#21-lead-default-limits) (*بنیادی داؤ تصادم، آئینی سرٹیفیکیشن، اور خود فیصلہ مخالف بیک اپ*)؛ [§2.2](#22-mixed-stakes-and-routing-asymmetry) (*مخلوط داؤ اور غیر متوازنی*)؛ [§2.3](#23-forum-records-standing-records-and-contests) (*فورم کیس ریکارڈ، کیفیت ریکارڈ، اور چیلنج*)۔
-- ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **شرکت**، **نگرانی**، اور **بروقت کارروائی** ٹانگیں؛ بنیادی داؤ رخ بندی کے لیے [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ؛ [باب ہشتم §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*کیفیت-خانہ گرامر*)؛ [باب ہشتم §7 متحد پیمانہ](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*مشترکہ پانچ گنا LEQU بینڈ اور الگ محور ریکارڈ*)؛ [باب ہشتم §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*کراس محور یکساں واصف جو بنیادی داؤ بتاتے ہیں بغیر اثر خانہ ہلائے*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-5** اور **CF-7.2**)؛ [corpus_systems.md](../../corpus_systems.md) (*نظام درجہ بندی، تعیناتی، اور دوبارہ توثیق فرائض*)؛ [باب دہم §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*اہل باب ہشتم خانہ 7–9 کے لیے آئین مخالف-بدسلوکی نامزدگی؛ پرانا لنگر محفوظ*)؛ [باب دہم §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*اس نامزدگی کے لیے واجب العمل کارروائی اس باب اور **دفعہ XXIV** (*تنازعے کا حل، اضافہ، اور ہنگامی تناسب*) کے ساتھ پڑھی جائے*)؛ [دفعہ XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*انصاف کا مقصد اور دائرہ*)۔
+- ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **شرکت**، **نگرانی**، اور **بروقت کارروائی** ٹانگیں؛ بنیادی داؤ رخ بندی کے لیے [مادی داؤ](core_00_preamble.md#material-stake) پیمانہ؛ [باب ہشتم §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*کیفیت-خانہ گرامر*)؛ [باب ہشتم §7 متحد پیمانہ](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*مشترکہ پانچ گنا LEQU بینڈ اور الگ محور ریکارڈ*)؛ [باب ہشتم §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*کراس محور یکساں واصف جو بنیادی داؤ بتاتے ہیں بغیر اثر خانہ ہلائے*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-5** اور **CF-7.2**)؛ [corpus_systems.md](../../corpus_systems.md) (*نظام درجہ بندی، تعیناتی، اور دوبارہ توثیق فرائض*)؛ [باب دہم §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*اہل باب ہشتم خانہ 7–9 کے لیے آئین مخالف-بدسلوکی نامزدگی؛ پرانا لنگر محفوظ*)؛ [باب دہم §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*اس نامزدگی کے لیے واجب العمل کارروائی اس باب اور **دفعہ XXIV** (*تنازعے کا حل، اضافہ، اور ہنگامی تناسب*) کے ساتھ پڑھی جائے*)؛ [دفعہ XXIV-A](core_06_rights_part_d.md) (*انصاف کا مقصد اور دائرہ*)۔
 
 </details>
 
@@ -190,7 +190,7 @@ flowchart TD
      - جہاں ضرورت ہو **آئینی** سرٹیفیکیشن؛
      - ادارہ جاتی-فریق قواعد؛ اور
      - **قطعوں 2، 3، اور 5** کے تحت خود فیصلہ مخالف بیک اپ۔
-   - **فورم-جانب داری تنازعات:** اگر لڑائی بنیادی طور پر اس پینلسٹ کے بارے میں ہے جسے ہٹنا چاہیے تھا، جانب دار پینل شرکت، یا ملتی جلتی فورم-سالمیت خلاف ورزی — بشمول **[دفعہ XXIII-B](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls) (*ترکیب، گردش، اور تصادم کنٹرول*)** کے تحت **آئینی** فورم پینل پر — پہلے **سالمیت** فورم کی طرف رخ دو۔ **قطعہ 3** کے تحت کوئی فورم اپنی جانب داری کا واحد آخری جج نہیں ہو سکتا: **آئینی** فورم یہ فیصلہ کرنے والا واحد آخری فورم نہیں ہو سکتا کہ اس کا اپنا پینلسٹ دستبردار ہونا چاہیے تھا۔ کیفیت-تالا ضبط: **[باب نہم §5.5](core_09_standing_integration.md#55-special-locks)**۔ نامزد بدسلوکی نمونہ: **[باب دہم §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**۔
+   - **فورم-جانب داری تنازعات:** اگر لڑائی بنیادی طور پر اس پینلسٹ کے بارے میں ہے جسے ہٹنا چاہیے تھا، جانب دار پینل شرکت، یا ملتی جلتی فورم-سالمیت خلاف ورزی — بشمول **[دفعہ XXIII-B](core_06_rights_part_c.md) (*ترکیب، گردش، اور تصادم کنٹرول*)** کے تحت **آئینی** فورم پینل پر — پہلے **سالمیت** فورم کی طرف رخ دو۔ **قطعہ 3** کے تحت کوئی فورم اپنی جانب داری کا واحد آخری جج نہیں ہو سکتا: **آئینی** فورم یہ فیصلہ کرنے والا واحد آخری فورم نہیں ہو سکتا کہ اس کا اپنا پینلسٹ دستبردار ہونا چاہیے تھا۔ کیفیت-تالا ضبط: **[باب نہم §5.5](core_09_standing_integration.md#55-special-locks)**۔ نامزد بدسلوکی نمونہ: **[باب دہم §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**۔
    - **تکنیکی کیسے-کریں سوال:** وضاحتیں، طریقے، پیمائش، جانچ، اور ماہر-ثبوت سوال **تکنیکی فورم دائرے** کی طرف جاتے ہیں جب وہ بنیادی داؤ یا سرٹیفائیڈ جزو سوال ہوں۔
    - **نظام-ہم آہنگی منظوری:**
      - نئے مادی اثر والے نظاموں کے لیے رسمی **آئینی ہم آہنگی تسلیم**، اور موجودہ کے لیے **جاری ہم آہنگی توثیق**، طے شدہ طور پر **سالمیت** کو لیڈ دیتے ہیں۔
@@ -237,14 +237,14 @@ flowchart TD
 #### 2.3 فورم کیس ریکارڈ، کیفیت ریکارڈ، اور چیلنج
 
 **فورم کیس ریکارڈ اور کیفیت ریکارڈ:**
-- فورم اپنے سامنے تنازعے کے لیے [**فورم کیس ریکارڈ**](core_05_band_accountability.md#forum-case-record) رکھتا ہے۔ وہ ریکارڈ ٹریک کرتا ہے:
+- فورم اپنے سامنے تنازعے کے لیے [**فورم کیس ریکارڈ**](../../core_05.035_band_accountability.md#forum-case-record) رکھتا ہے۔ وہ ریکارڈ ٹریک کرتا ہے:
   - دعوے؛
   - ثبوت؛
   - رخ بندی انتخاب؛
   - عارضی احکامات؛
   - سرٹیفائیڈ سوال؛ اور
   - اس کیس میں حتمی دریافتیں۔
-- یہ [باب ہشتم](core_08_standing_assessment.md#2-standing-records) کے مطلوب **کیفیت ریکارڈ** جیسی چیز **نہیں** ([کیفیت ریکارڈ](core_05_band_accountability.md#standing-record-chapter-six) دیکھو)۔
+- یہ [باب ہشتم](core_08_standing_assessment.md#2-standing-records) کے مطلوب **کیفیت ریکارڈ** جیسی چیز **نہیں** ([کیفیت ریکارڈ](../../core_05.035_band_accountability.md#standing-record-chapter-six) دیکھو)۔
 - فورم فیصلہ باب ہشتم **شراکت کیفیت ریکارڈ** یا **خلاف ورزی کیفیت ریکارڈ** کا حصہ تب بن سکتا ہے جب وہ تصدیق شدہ شراکت ریکارڈ، تصدیق شدہ خلاف ورزی دریافت، **نظام ہم آہنگی سرٹیفیکیشن ریکارڈ**، یا دیگر دریافت پیدا کرے جو باب دوم تا چہارم اور مطلوب جائزہ ضمانتوں کے تحت محدود، سراغ کے قابل، چیلنج کے قابل، اور تصدیق شدہ ہو۔
 - نیچے میں سے کوئی بذاتِ خود کسی کی کیفیت، کردار اہلیت، اعتماد حیثیت، پہچان، یا حتمی کیفیت اثر نہیں بدلتا:
   - کیس دائر کرنا؛
@@ -291,7 +291,7 @@ flowchart TD
 
 - بالائی: [§2](#2-default-venue-and-primary-stakes) (*طے شدہ مقام جدول، انٹیک ٹرائیج، مخلوط داؤ، اور غیر متوازنی*)؛ [باب نہم §2 — انضمام ریکارڈ اور فیصلے کی ترتیب](core_09_standing_integration.md#2-integration-record-and-decision-order) (*سب سے اونچی قابلِ اطلاق عدمِ اطاعت قسم — مخلوط-داؤ ہم آہنگی*)۔
 - زیریں: [§5](#5-escalation-and-certification) (*سرٹیفائیڈ آئینی سوال، بیک اپ رخ بندی فعال، اور ہم آہنگی کے دوران عبوری حفاظت*)۔
-- ساتھ پڑھیں: [دفعہ XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*چیلنج، جائزہ اور تدارک کا حق*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*داخلی سالمیت عمل جو سالمیت فورم سے پہلے آ سکتا ہے جہاں ضمانتیں توقعات پوری کریں*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-7**، سالمیت-لیڈ ہم آہنگی ہم آہنگی)۔
+- ساتھ پڑھیں: [دفعہ XIII-B](core_06_rights_part_c.md) (*چیلنج، جائزہ اور تدارک کا حق*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*داخلی سالمیت عمل جو سالمیت فورم سے پہلے آ سکتا ہے جہاں ضمانتیں توقعات پوری کریں*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-7**، سالمیت-لیڈ ہم آہنگی ہم آہنگی)۔
 
 </details>
 
@@ -346,7 +346,7 @@ flowchart TD
 <a id="capacity-failure-routing"></a>
 **صلاحیت ناکامی بھوکے جسم سے باہر سنی جاتی ہے۔** یہ دعویٰ کہ فورم خاندان، تدارک نظام، یا کیفیت-انضمام فعل صلاحیت سے نیچے ہے — ڈیزائن کردہ بیک لاگ، ناقابلِ رسائی انٹیک، دائمی کم فنڈنگ، دائمی سنگ میل ناکامی، یا ٹرپ شدہ [باب نہم §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) تدارک-برابری ٹرپ وائر — خود فیصلہ مخالف معاملہ ہے۔ جس جسم کی صلاحیت سوال میں ہو وہ اپنی صلاحیت پر واحد حقائق تلاش کنندہ نہیں ہو سکتا۔
 - **سالمیت** خاندان صلاحیت-ناکامی دعووں کا طے شدہ لیڈ ہے، **قطعہ 3** بیک اپ جوڑے لاگو ہوتے ہیں جہاں سالمیت خود سوال میں جسم ہو۔
-- کوئی متاثر فریق، محفوظ رپورٹر، یا [باب یکم §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) کے تحت خود منظم گروہ صلاحیت-ناکامی دعویٰ دائر کر سکتا ہے۔ یہ **قطعہ 6** کے تحت درجہ B گھڑی پر سنا جاتا ہے جب تک ریکارڈ درجہ A داؤ نہ دکھائے۔
+- کوئی متاثر فریق، محفوظ رپورٹر، یا [باب یکم §9.5](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) کے تحت خود منظم گروہ صلاحیت-ناکامی دعویٰ دائر کر سکتا ہے۔ یہ **قطعہ 6** کے تحت درجہ B گھڑی پر سنا جاتا ہے جب تک ریکارڈ درجہ A داؤ نہ دکھائے۔
 - سوال میں جسم کو اپنے شائع شدہ [باب نہم §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) اور **قطعہ 6** بیک لاگ اعداد دینے چاہییں، اور ثبوت دے سکتا ہے، مگر دریافت یا اصلاحی حکم کنٹرول نہیں کر سکتا۔
 - صلاحیت-ناکامی دریافت [باب نہم §9.2](core_09_standing_integration.md#92-remedy-system-durability) پائیداری ناکامی ہے۔ یہ اصلاحی احکامات عملہ اور فنڈنگ کے ذمہ دار [بنیادی داؤ](#2-default-venue-and-primary-stakes) خاندان کو رخ دیتی ہے، اور جہاں نمونہ دائمی یا چھپا ہو، عام باب ہشتم راستہ کھولتی ہے۔
 
@@ -454,7 +454,7 @@ flowchart TD
 **مثالی معاملات۔** اس خاندان میں چیلنج شامل ہیں:
 - ادارہ جاتی مینڈیٹ، اجازت شدہ عمل، یا سونپا ہوا فعل؛
 - اختیار شدہ آلات کے تحت زیرِ نگرانی-دائرہ حدیں اور درجہ بندی؛
-- [منشور](core_05_band_continuity.md#charter) دائرہ، منشور ترمیم اختیار، منشور–رویہ عدمِ میل، یا منشور دائرے سے باہر چلن؛
+- [منشور](../../core_05.040_band_continuity.md) دائرہ، منشور ترمیم اختیار، منشور–رویہ عدمِ میل، یا منشور دائرے سے باہر چلن؛
 - **`corpus_institutions.md`** اور ہم معنی تہوں کے تحت ادارہ جاتی-فرض اطاعت اور کارکردگی؛
 - مشترکہ دائرہ پار یا ادارہ پار معیارات کا مقامی نفاذ؛
 - نظام-ہم آہنگی کارروائیوں میں ادارہ جاتی-مینڈیٹ اور حقوق کی تہہ جزو سوال جہاں ادارہ ضروری فریق ہو یا ادارہ جاتی مینڈیٹ بنیادی ہو۔
@@ -484,7 +484,7 @@ flowchart TD
 - ملتی جلتی **ماحولیاتی** **اساس**۔
 - اس میں **نمونہ** یا **نظامی** ماحولیاتی ناکامی شامل ہے جہاں **باب ہشتم** پیمائش، **باب ششم** حقوق کی تہہ نفاذ، یا **باب پنجم** (*ماحولیاتی سالمیت*، *ماحولیاتی پیش شرائط*) اس تعین پر منحصر ہو۔
 
-**نمائندہ دائرہ۔** وہ کیس جس کا بنیادی داؤ [قدرتی نظاموں کی کیفیت](core_05_band_participation.md#natural-systems-standing) یا ماحولیاتی سالمیت ہو شائع شدہ نمائندے — متاثر برادری، دیسی-استمرار حامل، یا نامزد محافظ — زندگی سہارا نظام کے اپنے مفاد میں کھول سکتا ہے۔ یہ نظام کو شعوری وجود نہیں بناتا۔ نمائندوں کی تقرری، دستبرداری، اور اشاعت [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*رخ بندی آپریشن، منتقلی، سرٹیفیکیشن، اور نمائندہ سلوک*)) میں رہتی ہے اور اس تہہ کو **نافذ کرے، تنگ نہ کرے**۔
+**نمائندہ دائرہ۔** وہ کیس جس کا بنیادی داؤ [قدرتی نظاموں کی کیفیت](../../core_05.055_band_participation.md#natural-systems-standing) یا ماحولیاتی سالمیت ہو شائع شدہ نمائندے — متاثر برادری، دیسی-استمرار حامل، یا نامزد محافظ — زندگی سہارا نظام کے اپنے مفاد میں کھول سکتا ہے۔ یہ نظام کو شعوری وجود نہیں بناتا۔ نمائندوں کی تقرری، دستبرداری، اور اشاعت [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*رخ بندی آپریشن، منتقلی، سرٹیفیکیشن، اور نمائندہ سلوک*)) میں رہتی ہے اور اس تہہ کو **نافذ کرے، تنگ نہ کرے**۔
 
 **مثالی معاملات۔** اس خاندان میں چیلنج شامل ہیں:
 - ماحولیاتی سالمیت یا ماحولیاتی-پیش شرط بنیادیں اور خلاف ورزیاں؛
@@ -615,7 +615,7 @@ flowchart TD
 - بالائی: [§2](#2-default-venue-and-primary-stakes) اور [§3](#3-transfer-consolidation-and-coordination) (*طے شدہ مقام، انٹیک، منتقلی، مخلوط داؤ، اور خود فیصلہ مخالف بیک اپ*)؛ [§4.6](#46-constitutional-forums) اور [§4.7](#47-provisional-implementation-operational-law) (*عارضی-قانون تصرف اور اجرا*)؛ [باب ہشتم §7 متحد پیمانہ](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*عددی اثر-خانہ تفویض*)؛ [باب دہم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*اہل خانہ 7–9 کے لیے مماثل آئین مخالف-بدسلوکی نامزدگی*)؛ [باب یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*سرٹیفائیڈ آئینی سوالوں میں حفاظت اور سچائی ہکس*)۔
 - زیریں: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*مادیت درجات اور تاخیر مخالف ضبط*)؛ [§7](#7-forum-support-before-during-and-after-review) (*بلندی اور سرٹیفیکیشن کے لیے چیلنج کے قابل فورم سہارا*)؛ [باب شانزدہم](../../core_18_incorporation.md) (* **دفعہ V-E** (*شعوریت کی حیثیت کے فیصلے کی تہہ*) نفاذ ڈیزائن کے لیے نفاذ رخ بندی*)۔
 - §5 کے اندر: [عبوری حفاظت](#interim-protection) (*اساس زیرِ التوا موجودہ حال اور کثیر-فورم عبوری-حکم تصادم ہم آہنگی*)۔
-- ساتھ پڑھیں: [دفعہ V-E: شعوریت کی حیثیت کے فیصلے کی تہہ](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)؛ [باب پنجم — شعوریت کی حیثیت کا فیصلہ](core_05_band_participation.md#sentience-status-adjudication-constitutional)؛ [دفعہ XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*انصاف کا مقصد اور دائرہ*) تا [دفعہ XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*باب دہم نامزدگیوں کے ساتھ اشارہ کردہ جائزہ ضمانتیں*)؛ [دفعہ XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*سرٹیفیکیشن — ہم آہنگی فیصلے اور عمومی عقیدہ*)۔
+- ساتھ پڑھیں: [دفعہ V-E: شعوریت کی حیثیت کے فیصلے کی تہہ](core_06_rights_part_b.md)؛ [باب پنجم — شعوریت کی حیثیت کا فیصلہ](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional)؛ [دفعہ XXIV-A](core_06_rights_part_d.md) (*انصاف کا مقصد اور دائرہ*) تا [دفعہ XXIV-C](core_06_rights_part_d.md) (*باب دہم نامزدگیوں کے ساتھ اشارہ کردہ جائزہ ضمانتیں*)؛ [دفعہ XIII-B](core_06_rights_part_c.md) (*سرٹیفیکیشن — ہم آہنگی فیصلے اور عمومی عقیدہ*)۔
 
 </details>
 
@@ -731,7 +731,7 @@ flowchart TD
   - انٹیک پر رد ہر دائرہ حوالہ کردہ اشارے اور رد کی وجہ کے ساتھ لاگ ہونا چاہیے۔
   - **سالمیت** خاندان اس لاگ کا شائع شدہ تال پر نمونہ لیتا ہے۔
   - درج ذیل میں سے کسی پر مرتکز رد کا نمونہ بذاتِ خود معتبر اشارہ ہے کہ دروازہ روکنے کا آلہ بن رہا ہے، اور بغیر مزید دائرے کے سالمیت جائزہ کھولتا ہے:
-    - ایک [جسم طبقہ](core_05_band_participation.md#substrate-class)؛
+    - ایک [جسم طبقہ](../../core_05.055_band_participation.md#substrate-class)؛
     - ایک والدین نظام؛ یا
     - ایک آپریٹر۔
   - اختیار کنندگان کو اشاروں کا تہہ مجموعہ شائع کرنا چاہیے جسے کوئی انٹیک ڈیسک اکیلے ناکافی نہ مانے۔
@@ -757,12 +757,12 @@ flowchart TD
   - **لیڈ خاندان** — طے شدہ تکنیکی فورم دائرے، اوپر خاص راستوں کے ساتھ؛
   - **ماہر-کمرہ اجازت** — ماہر پینل یا کمرے اشارہ جائزے میں مدد کر سکتے ہیں مگر اساس-تہہ قواعد یا طے شدہ شمولیت نہیں ہٹا سکتے؛
   - **دائرہ محرک** — حیثیت-منحصر حفاظت دینے، واپس لینے، یا تنگ کرنے سے پہلے مادی طور پر متنازع، چیلنج شدہ، غیر طے، تنگ، منسوخ، یا بحال حیثیت؛
-  - **عبوری متنازع سلوک** — حیثیت زندہ رہتے ہوئے [متنازع-شعوری زندگی](core_05_band_participation.md#contested-sentient-life-constitutional) جمع دفعہ V-E طے شدہ شمولیت؛
+  - **عبوری متنازع سلوک** — حیثیت زندہ رہتے ہوئے [متنازع-شعوری زندگی](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) جمع دفعہ V-E طے شدہ شمولیت؛
   - **جائزہ محرک** — اس وضع کے لیے اعلان شدہ اختتامی تاریخ یا لازمی جائزہ (وقتی حد والا جائزہ، انواع فہرست نہیں)؛
   - **دوبارہ کھولنے کا ثبوت معیار** — نیا تصدیق شدہ ثبوت، صرف کیلنڈر دوبارہ کھولنا نہیں؛
   - **آزاد نمائندہ** — اس ہک کے تحت ہستی کے نمائندے کے لیے تقرری راستہ، تصادم اسکرین، اور رسائی شرائط؛ اور
   - **انٹیک-رد لاگ** — رد دائرے کہاں ریکارڈ ہوتے ہیں، **سالمیت** کس تال پر نمونہ لیتی ہے، اور شائع شدہ اشارہ تہہ مجموعہ۔
-- باریک ادارہ جاتی ڈیزائن، تقرری میکانکس، دائرہ فارم، اور ترتیب اختیار شدہ نفاذ متن کی طرف **باب شانزدہم** شمولیت ضبط کے تحت رخ پاتے ہیں اور **دفعہ V-E** (*شعوریت کی حیثیت کے فیصلے کی تہہ*) تہہ **تنگ نہیں** کر سکتے۔ اس ایڈیشن تک، وقف [شعوریت کی حیثیت فیصلہ ریکارڈ](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) وضع **باب شانزدہم** کے تحت [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) اور [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) میں گنی گئی ہے؛ وہ فائلیں **دفعہ V-E** (*شعوریت کی حیثیت کے فیصلے کی تہہ*) یا اس ہک کو نافذ کرتی ہیں، **تنگ نہیں** کرتیں۔ اوپر کم از کم خانے اب بھی لاگو ہیں۔ یہ ہک **پوری** تقرری یا دائرہ قانون **نہیں** ہے۔
+- باریک ادارہ جاتی ڈیزائن، تقرری میکانکس، دائرہ فارم، اور ترتیب اختیار شدہ نفاذ متن کی طرف **باب شانزدہم** شمولیت ضبط کے تحت رخ پاتے ہیں اور **دفعہ V-E** (*شعوریت کی حیثیت کے فیصلے کی تہہ*) تہہ **تنگ نہیں** کر سکتے۔ اس ایڈیشن تک، وقف [شعوریت کی حیثیت فیصلہ ریکارڈ](../../core_05.055_band_participation.md#sentience-status-adjudication-record-constitutional) وضع **باب شانزدہم** کے تحت [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md) اور [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) میں گنی گئی ہے؛ وہ فائلیں **دفعہ V-E** (*شعوریت کی حیثیت کے فیصلے کی تہہ*) یا اس ہک کو نافذ کرتی ہیں، **تنگ نہیں** کرتیں۔ اوپر کم از کم خانے اب بھی لاگو ہیں۔ یہ ہک **پوری** تقرری یا دائرہ قانون **نہیں** ہے۔
 
 <a id="referral-distinguished-from-expansion"></a>
 #### حوالگی توسیع سے الگ
@@ -787,21 +787,21 @@ flowchart TD
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [دفعہ XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*بروقت، کارآمد، اور منصفانہ تہہ*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [دفعہ XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*چیلنج اور تدارک رسائی*)؛ [دفعہ XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*استمرار ضبط*)؛ [§5](#5-escalation-and-certification) (*بلندی اور سرٹیفیکیشن گھڑیاں تعامل کرتی ہیں*)۔
-- زیریں: [§7](#7-forum-support-before-during-and-after-review) (*معائنہ، فورینزک، اور پیروی سہارا*)؛ [§5](#interim-protection) (*عبوری حفاظت*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*ہدف کھڑکیاں اور وقتی تہیں*))؛ [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*قابلِ رسائی راستے*))؛ [ابواب ہشتم–یازدهم اطلاق منظرنامے](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)؛ [دفعہ XXIV-D](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) (*طے شدہ بحالی-چیلنج کھڑکیوں جیسی بیرونی حدیں*)۔
+- بالائی: [دفعہ XXV-C](core_06_rights_part_d.md) (*بروقت، کارآمد، اور منصفانہ تہہ*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [دفعہ XIII-B](core_06_rights_part_c.md) (*چیلنج اور تدارک رسائی*)؛ [دفعہ XXIV-D](core_06_rights_part_d.md) (*استمرار ضبط*)؛ [§5](#5-escalation-and-certification) (*بلندی اور سرٹیفیکیشن گھڑیاں تعامل کرتی ہیں*)۔
+- زیریں: [§7](#7-forum-support-before-during-and-after-review) (*معائنہ، فورینزک، اور پیروی سہارا*)؛ [§5](#interim-protection) (*عبوری حفاظت*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*ہدف کھڑکیاں اور وقتی تہیں*))؛ [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*قابلِ رسائی راستے*))؛ [ابواب ہشتم–یازدهم اطلاق منظرنامے](../../core_10.005_application_vignettes.md)؛ [دفعہ XXIV-D](core_06_rights_part_d.md) (*طے شدہ بحالی-چیلنج کھڑکیوں جیسی بیرونی حدیں*)۔
 - چوکڑی ٹانگ(یں): **بروقت کارروائی** (کراس کٹنگ نفاذ)؛ **شرکت** اور **نگرانی** (قابلِ رسائی انٹیک اور شائع شدہ سنگ میل)۔ بنیادی مقصد: **شگفتگی** اور **استمرار**۔
-- ساتھ پڑھیں: بروقت کارروائی پیمائش خاندان (*بروقت حل اور تاخیر مخالف اور حل-راستہ ضبط*)؛ [مادیت تعین](core_05_band_oversight.md#materiality-determination)؛ [بروقت حل](core_05_band_accountability.md#timely-resolution-constitutional)؛ [حل راستوں کا قبضہ](core_05_band_accountability.md#capture-of-resolution-pathways)؛ [آئینی کارآمدگی](core_05_band_continuity.md#constitutional-efficiency)۔
-- ذمہ دارانہ انتظام کا دروازہ (غیرِ عملی): پابند اگلے قدم کا بیان: [عملی ذمہ دارانہ انتظام کا بیان (دفعہ XXV-C)](core_06_rights_part_d.md#operative-steward-statement-delay)۔ معاون اشارے اسے تنگ نہیں کر سکتے۔
+- ساتھ پڑھیں: بروقت کارروائی پیمائش خاندان (*بروقت حل اور تاخیر مخالف اور حل-راستہ ضبط*)؛ [مادیت تعین](core_05_band_oversight.md#materiality-determination)؛ [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution-constitutional)؛ [حل راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)؛ [آئینی کارآمدگی](../../core_05.040_band_continuity.md#constitutional-efficiency)۔
+- ذمہ دارانہ انتظام کا دروازہ (غیرِ عملی): پابند اگلے قدم کا بیان: [عملی ذمہ دارانہ انتظام کا بیان (دفعہ XXV-C)](core_06_rights_part_d.md)۔ معاون اشارے اسے تنگ نہیں کر سکتے۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · اطاعت</span></strong></summary>
 
-- [بروقت حل](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [بروقت حل](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [مادیت تعین](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [حل راستوں کا قبضہ](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [آئینی کارآمدگی](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [حل راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [آئینی کارآمدگی](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -823,7 +823,7 @@ flowchart TD
       - انحصار-غیر متوازن سیاق میں شرکت-رکاوٹ چوٹ؛
       - حتمی باب ہشتم **خلاف ورزی محور s = 7، 8، یا 9** اثر-خانہ جائزہ؛ یا
       - جہاں لاگو ہو مماثل **باب دہم** نامزدگی۔
-    - توقع: جائز **عبوری حفاظت** پوری اساس کا انتظار کیے بغیر دستیاب ہونی چاہیے؛ انٹیک، اعتراف، اور ثبوت حفاظت **دنوں** میں شروع ہونے چاہییں، ہفتوں میں نہیں، جب تک [قہر خداوندی](core_05_band_accountability.md#force-majeure-constitutional) یا دستاویز شدہ حفاظت پابندی نہ روکے۔
+    - توقع: جائز **عبوری حفاظت** پوری اساس کا انتظار کیے بغیر دستیاب ہونی چاہیے؛ انٹیک، اعتراف، اور ثبوت حفاظت **دنوں** میں شروع ہونے چاہییں، ہفتوں میں نہیں، جب تک [قہر خداوندی](../../core_05.035_band_accountability.md#force-majeure-constitutional) یا دستاویز شدہ حفاظت پابندی نہ روکے۔
   - **درجہ B — مادی حقوق اثر، غیر-قریب**
     - نقصان کا دائرہ: مادی حقوق، کیفیت، یا ادارہ جاتی چوٹ جو اب معنی رکھے، مگر ابھی درجہ A فوری ضرورت کا شدید جاری نقصان نہ ہو۔
     - مثالیں:
@@ -856,7 +856,7 @@ flowchart TD
     - توقع: سادہ ترین طریقہ کار راستہ؛ رسمی فورم عمل کم از کم یا معاف ہو سکتا ہے جہاں بیرونی حقوق داؤ پر نہ ہوں؛ کھیل مخالف اور تاخیر مخالف قواعد صرف وہاں لاگو ہوتے ہیں جہاں بیرونی آئینی مفادات شامل ہوں۔
 <a id="urgency-classification-and-time-scale"></a>
 - **فوری ضرورت درجہ بندی اور وقتی پیمانہ:** A/B/C/L/P لیبل تنازعے کی فوری ضرورت اور مادیت دریافت ہے۔ [§5](#5-escalation-and-certification) فورم-خاندان بلندی، جوڑے گئے فریق، سرحد پار ہم آہنگی، یا باب دہم ڈاکٹ بذاتِ خود معاملہ مختلف فوری ضرورت درجے میں **نہیں** لے جاتا۔ وہ حقائق بعد کے مرحلے کی کھڑکیاں (**سوال 1** تا مربوط حل) لمبے شائع شدہ وقتی پیمانے پر بڑھا سکتے ہیں، بشرطیکہ انٹیک، ثبوت حفاظت، اور کوئی مطلوب **عبوری حفاظت** درجہ بند درجے کی تہہ پر رہے۔ اس دریافت کے بدل کے طور پر سستے درجے کی گھڑیاں استعمال کرنا عدمِ اطاعت ہے۔ فوری ضرورت لیبل خود بدلنے سے پہلے نیا [مادیت تعین](core_05_band_oversight.md#materiality-determination) مطلوب ہے — عام طور پر **درجہ A** کی طرف **اوپر** جب نقصان قریب ہو یا جب حتمی باب ہشتم **خلاف ورزی محور s = 7، 8، یا 9** جائزہ یا مماثل **باب دہم** نامزدگی داؤ ہو۔
-- **زنجیر-مرحلہ سنگ میل:** **ابواب ہشتم تا یازدهم** سے رخ دیے تنازعات کے لیے، اختیار کنندگان کو ہر مرحلے کے لیے شعوری-قابلِ رسائی طے شدہ کھڑکیاں شائع کرنی چاہییں، درجے پر پیمانہ۔ عددی تہہ جداول [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) میں رہتی ہیں اور اس قطعے کی بیرونی حدوں کے اندر فٹ ہونی چاہییں:
+- **زنجیر-مرحلہ سنگ میل:** **ابواب ہشتم تا یازدهم** سے رخ دیے تنازعات کے لیے، اختیار کنندگان کو ہر مرحلے کے لیے شعوری-قابلِ رسائی طے شدہ کھڑکیاں شائع کرنی چاہییں، درجے پر پیمانہ۔ عددی تہہ جداول [CF-11.3.1](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md) میں رہتی ہیں اور اس قطعے کی بیرونی حدوں کے اندر فٹ ہونی چاہییں:
   1. فورم رسائی اور انٹیک؛
   2. ثبوت حفاظت؛
   3. **سوال 1** تصدیق شدہ دریافت اور **کیفیت ریکارڈ** کھولنا **باب ہشتم قطعوں 2–3** کے تحت؛
@@ -871,14 +871,14 @@ flowchart TD
   - **درجہ L:** زیادہ سے زیادہ **چار مہینے**؛
   - **درجہ P:** زیادہ سے زیادہ **چھ مہینے**۔
   اس دستاویز شدہ توسیع کے بغیر درجے کی بیرونی حد سے گزرنا عدمِ اطاعت ہے۔ غیر معینہ التوا عدمِ اطاعت ہے جہاں آئینی مفادات غیر حل رہیں۔
-- **ہنگامی قابو کے بعد بحالی-چیلنج:** وہی بیرونی حدیں [**دفعہ XXIV-D**](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) ہنگامی تدبیر کے بعد نوٹس اور چیلنج بحال کرنے کی طے شدہ کھڑکیاں ہیں جس نے انہیں ملتوی کیا۔ کھڑکی تدبیر کے آغاز سے چلتی ہے، یا جب نوٹس یا چیلنج ملتوی ہوا، جو پہلے ہو۔ نوٹس یا چیلنج کی ہنگامی التوا **درجہ A** ہے جب تک دستاویز شدہ کم-فوری دکھانا ریکارڈ نہ ہو۔ حد سے آگے استمرار **دفعہ XXIV-D** استمرار دکھانا ہے، نئی گھڑی نہیں۔
+- **ہنگامی قابو کے بعد بحالی-چیلنج:** وہی بیرونی حدیں [**دفعہ XXIV-D**](core_06_rights_part_d.md) ہنگامی تدبیر کے بعد نوٹس اور چیلنج بحال کرنے کی طے شدہ کھڑکیاں ہیں جس نے انہیں ملتوی کیا۔ کھڑکی تدبیر کے آغاز سے چلتی ہے، یا جب نوٹس یا چیلنج ملتوی ہوا، جو پہلے ہو۔ نوٹس یا چیلنج کی ہنگامی التوا **درجہ A** ہے جب تک دستاویز شدہ کم-فوری دکھانا ریکارڈ نہ ہو۔ حد سے آگے استمرار **دفعہ XXIV-D** استمرار دکھانا ہے، نئی گھڑی نہیں۔
 - **تاخیر مخالف تہہ:** درج ذیل عدمِ اطاعت ہیں جہاں وہ پیش گوئی کے مطابق حقوق، تدارک، یا بروقت حفاظت کالعدم کریں:
   - ڈیزائن کردہ بیک لاگ، دائمی کم فنڈنگ، یا ناقابلِ رسائی انٹیک جو **دفعہ XIII-B** (*چیلنج، جائزہ اور تدارک کا حق*) عملی رسائی ہرائے؛
   - تاخیر نظام دعوے دار تھکانے کے لیے ڈیزائن؛
   - خود بنائی تاخیر، طریقہ کار تہہ کاری، فورم خریداری، یا ریکارڈ ٹکڑے جو بغیر سنگ میل جواز حل لمبا کریں؛
   - الزامات کو وقت خریدنے کے لیے تصدیق شدہ کیفیت ان پٹ سمجھنا ([باب ہشتم §3.1](core_08_standing_assessment.md#verified-inputs-for-standing))؛
-  - تاخیر، مبہمیت، یا حل کنندہ جانب داری سے [حل راستوں کا قبضہ](core_05_band_accountability.md#capture-of-resolution-pathways)؛
-  - باب یکم [§12.2 آئینی کارآمدگی](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) کے خلاف کارآمدگی دعوے جو:
+  - تاخیر، مبہمیت، یا حل کنندہ جانب داری سے [حل راستوں کا قبضہ](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)؛
+  - باب یکم [§12.2 آئینی کارآمدگی](core_01_c_stewardship_capacity_principles.md) کے خلاف کارآمدگی دعوے جو:
     - حقائق جانچ چھوڑیں؛
     - غلط فریق سزا دیں؛
     - نقصان سے نہ ملنے والی مرمت پیش کریں؛ یا
@@ -894,7 +894,7 @@ flowchart TD
 
 - بالائی: [§1](#1-purpose-and-role) (*آزادی، چیلنج پذیری، اور سراغ توقعات*)؛ [§2](#2-default-venue-and-primary-stakes) (*بنیادی داؤ رخ بندی اور انٹیک*)؛ [§4](#4-forum-family-definitions) (*فورم خاندان جو یہ صلاحیت رکھتے ہیں*)؛ [§5](#5-escalation-and-certification) (*بلندی اور سرٹیفیکیشن جو چیلنج کے قابل سہارا پر انحصار کرتے ہیں*)؛ [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*درجہ گھڑیاں اور تاخیر مخالف ضبط*)۔
 - زیریں: [§5](#interim-protection) (*سہارا کام کے دوران عبوری حفاظت*)۔
-- ساتھ پڑھیں: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*فورم فورینزک اور تجزیاتی سہارا*)؛ **CF-9** (*آزاد تفتیشی خدمت اور استغاثہ انٹرفیس*))؛ [دفعہ XIII-B: چیلنج، جائزہ اور تدارک کا حق](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)؛ [دفعہ XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*آڈٹ، شفافیت اور آزاد تصدیق*)۔
+- ساتھ پڑھیں: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*فورم فورینزک اور تجزیاتی سہارا*)؛ **CF-9** (*آزاد تفتیشی خدمت اور استغاثہ انٹرفیس*))؛ [دفعہ XIII-B: چیلنج، جائزہ اور تدارک کا حق](core_06_rights_part_c.md)؛ [دفعہ XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*آڈٹ، شفافیت اور آزاد تصدیق*)۔
 
 </details>
 
@@ -921,7 +921,7 @@ flowchart TD
 
 **پچھلی فائل (ابھی انگریزی میں):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**اگلی فائل (ابھی انگریزی میں):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**اگلی فائل (ابھی انگریزی میں):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 
 **پابند اصل:** [core_11_forum.md](../../core_13_forum.md)
 

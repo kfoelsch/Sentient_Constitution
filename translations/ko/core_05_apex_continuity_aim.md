@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제5장 나침반](core_05__definitions_home.md#제5장-나침반과-정의-지도); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); 쉬운 말 목적은 [전문 §1](core_00_preamble.md#continuity).
-- 하류: 원칙: [제1장 §4.1 회복력과 자기치유 설계](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 공유 체계 능력](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 헌법 결과 주장 규율](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [헌법 목적 분해](#continuity-aim-decomposition); [core_05_band_continuity.md](../../core_05.040_band_continuity.md)의 연속 주제 무리.
+- 하류: 원칙: [제1장 §4.1 회복력과 자기치유 설계](core_01_a_values_principles.md#10-resilience-and-self-healing-design); [§12 공유 체계 능력](core_01_c_stewardship_capacity_principles.md); [§11.1.5 헌법 결과 주장 규율](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [헌법 목적 분해](#continuity-aim-decomposition); [core_05_band_continuity.md](../../core_05.040_band_continuity.md)의 연속 주제 무리.
 - 함께 읽기: [책임 있는 관리](../../core_05.040_band_continuity.md#stewardship), [책임 있는 관리 결함](../../core_05.040_band_continuity.md#stewardship-defect), [생태 완전성](../../core_05.040_band_continuity.md#ecological-integrity), [의존](../../core_05.040_band_continuity.md#dependency), [대리지표 이탈](../../core_05.050_band_oversight.md#proxy-divergence), [존재 위험](../../core_05.040_band_continuity.md#existential-risk), [연쇄 실패](../../core_05.040_band_continuity.md#cascading-failure), [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional) (짝 목적 — 어느 쪽도 다른 쪽을 희생해 쫓으면 안 된다; 단기 이득을 쫓아 **참여**, **감독**, **책무**, 또는 **적시성**을 [실질 이해관계](core_00_preamble.md#material-stake)가 요구하는 아래로 비우면 **연속**을 어긴다, 가까운 기간 산출이 올라가더라도), [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)을 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절 (연속이 어떻게 정당성을 유지하는가 — 다섯 번째 구성 블록이 아님), 연속 측정 가족, 그리고 [제5장 알파벳 색인](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
@@ -46,14 +46,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **어떻게 측정하고 평가하는가**
   - **일차 측정:** [연속 측정 가족](#continuity-measurement-family) — *감지자와 체계는 견딜 수 있는가 — 생태적으로, 믿을 수 있게, 실패를 가로질러?* 또한 [헌법 목적 분해](#continuity-aim-decomposition)를 보라. 이 줄은 측정만 가리킨다; 어떻게 측정하는가 규칙은 각 연결된 정의에 산다.
-  - **일차 평가:** [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 아래, [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기를 조절해 판단하라. 체계가 수리하고, 적응하고, 위험을 정직하게 마주하고, 생태 한도 안에 남는 오래가는 능력을 지키는지를 물으라 — 오늘의 숫자가 고요해 보이는지가 아니다. 주장된 연속 결과를 [구성](#continuity-aim-decomposition) 조건에 묶으라, 제4장과 [제1장 §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) 아래.
+  - **일차 평가:** [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 아래, [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기를 조절해 판단하라. 체계가 수리하고, 적응하고, 위험을 정직하게 마주하고, 생태 한도 안에 남는 오래가는 능력을 지키는지를 물으라 — 오늘의 숫자가 고요해 보이는지가 아니다. 주장된 연속 결과를 [구성](#continuity-aim-decomposition) 조건에 묶으라, 제4장과 [제1장 §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) 아래.
 <a id="continuity-aim-constitutional-c"></a>
 - **무엇이 버티어야 하는가**
   - **일차 실패:**
     - **연속**을 써서 교정을 영원히 미루는 것;
     - 「안정」을 준수로 다루는 것, 그것이 숨은 위험 떠넘기기, 되돌릴 수 없는 해, 또는 생태 부담을 남에게 옮기는 것에 기대 있을 때;
     - 보통의 「불을 켜 두기」 말로 [다툴 수 있음](../../core_05.035_band_accountability.md#contestability) 또는 [제때 해결](../../core_05.035_band_accountability.md#timely-resolution)을 막는 것; 또는
-    - **연속**을 [제1장 §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) 아래 분명한 허가 없이 [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional)을 실질로 꺾는 방식으로 추구하는 것.
+    - **연속**을 [제1장 §6](core_01_b_interaction_interpretation.md) 아래 분명한 허가 없이 [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional)을 실질로 꺾는 방식으로 추구하는 것.
 
 ---
 
@@ -106,7 +106,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 하류: 연속 측정 가족 — 링크만인 롤업; 용어별 단계는 아래 표에 연결된 잎 정의에 산다.
-- 함께 읽기: [CS-9 — 자원 배분과 자금의 책임 있는 관리](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (자금과 체계 간 반환 기계).
+- 함께 읽기: [CS-9 — 자원 배분과 자금의 책임 있는 관리](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (자금과 체계 간 반환 기계).
 
 </details>
 

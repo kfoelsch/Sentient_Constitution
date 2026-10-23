@@ -474,7 +474,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالات</span></strong></summary>
 
-- سابقاً: [§3](#3-ما-يجب-أن-تنص-عليه-مواثيق-الأنظمة-والمؤسسات)؛ [الفصل الثامن §2 الأرضية الدستورية للمقاعد الأربعة](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- سابقاً: [§3](#3-ما-يجب-أن-تنص-عليه-مواثيق-الأنظمة-والمؤسسات)؛ [الفصل الثامن §2 الأرضية الدستورية للمقاعد الأربعة](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - لاحقاً:
   - [الفصل الثامن §5 التعيين المنشور والشغور والاستبدال](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5)؛
   - [الفصل التاسع، الجزء ب، §6.1.1 المقاعد الأربعة في التصديق](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1)؛
@@ -504,7 +504,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 ماهية المقاعد وسبب وجودها
 
-لكل [فعل ملزم مادياً](../../core_05.035_band_accountability.md#materially-binding-act) أربع وظائف، ويفصل بينها [الفصل الثامن §2 الأرضية الدستورية للمقاعد الأربعة](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor):
+لكل [فعل ملزم مادياً](../../core_05.035_band_accountability.md#materially-binding-act) أربع وظائف، ويفصل بينها [الفصل الثامن §2 الأرضية الدستورية للمقاعد الأربعة](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement):
 
 - **[مقعد المبادرة](../../core_05.035_band_accountability.md#initiating-seat):** يبدأ الفعل بطلبه أو اقتراحه أو تشغيله أو الادعاء به.
 - **[مقعد التحقق أو الإجازة](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** يفحص الأدلة والسلطة، ثم يتحقق من الفعل أو يجيزه أو يضع له شروطاً أو يرفضه.

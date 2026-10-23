@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [La bàn Chương Năm](core_05__definitions_home.md#la-bàn-và-bản-đồ-định-nghĩa-chương-năm); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims); chú tầng nguyên tắc ở [Lời nói đầu §1](core_00_preamble.md#flourishing).
-- Hạ nguồn: Nguyên tắc: [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 Ràng buộc nguyên tắc không thương lượng: An toàn và Sự thật](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 Tin cậy](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 Kỷ luật tuyên bố kết quả hiến pháp](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Phân rã Mục tiêu Hiến pháp](#flourishing-aim-decomposition); các tệp dải Tứ diện nơi **Hưng thịnh** là mục tiêu sơ cấp theo [La bàn Chương Năm](core_05__definitions_home.md#la-bàn-và-bản-đồ-định-nghĩa-chương-năm).
+- Hạ nguồn: Nguyên tắc: [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md); [§3 Ràng buộc nguyên tắc không thương lượng: An toàn và Sự thật](core_01_a_values_principles.md); [§4 Tin cậy](core_01_a_values_principles.md); [§11.1.5 Kỷ luật tuyên bố kết quả hiến pháp](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Phân rã Mục tiêu Hiến pháp](#flourishing-aim-decomposition); các tệp dải Tứ diện nơi **Hưng thịnh** là mục tiêu sơ cấp theo [La bàn Chương Năm](core_05__definitions_home.md#la-bàn-và-bản-đồ-định-nghĩa-chương-năm).
 - Đọc cùng: [Phúc lợi](../../core_05.040_band_continuity.md#wellbeing), [An toàn (Ràng buộc)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Sự thật (Ràng buộc hiến pháp)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Đáng tin cậy](../../core_05.040_band_continuity.md#trustworthiness), [Quyền năng có ý nghĩa](../../core_05.055_band_participation.md#meaningful-agency), [Lệch chỉ số thay thế](../../core_05.050_band_oversight.md#proxy-divergence), [Chiếm hệ thống](../../core_05.040_band_continuity.md#system-capture), [Liên tục (Mục tiêu Hiến pháp)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (mục tiêu em cặp — không mục tiêu nào được đuổi với cái giá của cái kia), [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake) (khung chính danh cho mục tiêu này — không phải cấu thành thứ năm), và gia đình đo lường Hưng thịnh.
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - Đánh giá dưới [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad), chia tỷ lệ theo [lợi hại vật chất](core_00_preamble.md#material-stake).
-  - Gắn kết quả hưng thịnh được tuyên với các điều kiện [cấu thành](#flourishing-aim-decomposition) và với kết quả các hữu tri thực sự trải, dưới Chương Bốn và [Chương Một §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - Gắn kết quả hưng thịnh được tuyên với các điều kiện [cấu thành](#flourishing-aim-decomposition) và với kết quả các hữu tri thực sự trải, dưới Chương Bốn và [Chương Một §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
   - Luôn đọc cùng [Liên tục (Mục tiêu Hiến pháp)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): lợi ngắn hạn làm yếu một cách thấy trước được ổn định, khả năng phục hồi, hoặc tính toàn vẹn sinh thái tầm dài thì thất **Hưng thịnh** khi hai mục tiêu được đánh giá cùng nhau.
 <a id="flourishing-constitutional-c"></a>
 - C: Không tuân thủ khi:
   - một khối xây được tối đa hóa trong khi sự thật, an toàn, đáng tin cậy, hoặc quyền năng bị làm rỗng;
   - tuyên bố hưng thịnh không thể truy về kết quả hiến pháp dưới Chương Bốn; hoặc
-  - **Hưng thịnh** được đuổi theo cách đánh bại một cách vật chất [Liên tục (Mục tiêu Hiến pháp)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) mà không có phép rõ dưới [Chương Một §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+  - **Hưng thịnh** được đuổi theo cách đánh bại một cách vật chất [Liên tục (Mục tiêu Hiến pháp)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) mà không có phép rõ dưới [Chương Một §6](core_01_b_interaction_interpretation.md).
 
 ---
 

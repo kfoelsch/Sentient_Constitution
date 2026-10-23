@@ -2,6 +2,8 @@
 <a id="chapter-ten-anti-constitutional-misconduct"></a>
 <a id="chapter-ten-part-a-anti-constitutional-misconduct-designation"></a>
 <a id="chapter-ten-part-a-anti-constitutional-misconduct--designation"></a>
+<a id="chapter-twelve-part-a-anti-constitutional-misconduct-designation"></a>
+
 # 제10장, A부분: 반헌법 부당행위 — 지정
 
 <details>
@@ -9,7 +11,7 @@
 
 > 이 파일은 [영어 제10장, A부분](../../core_12_a_misconduct_designation.md)의 **독자 언어 시험본**입니다. 감지자 헌법의 구속력 있는 부분이 **아닙니다**. 두 번째 헌법이 **아닙니다**. 배포판이 **아닙니다**. `SC-Corpus-2026.08.09`에 **고정**되어 있습니다. 이 번역과 영어 원문이 어긋나 보이면, 번호 파일 [`core_10_a_misconduct_designation.md`](../../core_12_a_misconduct_designation.md)가 이깁니다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에 유지됩니다. 방법과 용어표: [translations/ko/README.md](README.md).
 >
-> **제10장, A부분**을 담습니다 — 지정 결정 틀, 기준 집합, 위반 축 `s = 7–9` 지정 첨부, 적법절차 안전장치, 구제, 예방 잠금, 자발적 공적 책무 표현. **B부분** — 명명된 패턴 적용과 기준 라우팅 — 은 [`core_10_b_misconduct_pattern_applications.md`](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)에 있습니다.
+> **제10장, A부분**을 담습니다 — 지정 결정 틀, 기준 집합, 위반 축 `s = 7–9` 지정 첨부, 적법절차 안전장치, 구제, 예방 잠금, 자발적 공적 책무 표현. **B부분** — 명명된 패턴 적용과 기준 라우팅 — 은 [`core_10_b_misconduct_pattern_applications.md`](../../core_12.010_misconduct_pattern_applications.md)에 있습니다.
 >
 > - **헌법 주관자 (B부분과 공동):** 위반 축 `s = 7`, `s = 8`, 또는 `s = 9` 소견에 대한 최종 반헌법 부당행위 지정. A부분은 지정 결정 모형을 주관합니다; B부분은 명명된 패턴을 그 모형으로 라우팅하며 기준을 더하지 않습니다.
 > - **측정 경계:** 제8장만이 통합 비례 LEQU 척도 아래 숫자 영향 슬롯을 할당합니다. 이 장은 그 측정을 **대체하거나 바꾸지 않습니다**.
@@ -18,13 +20,13 @@
 > **s = 7, 8, 또는 9**에서의 반헌법 부당행위는 규모에서의 **사원(四元) 포획**입니다 — [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) 아래 [연속 목적](core_00_preamble.md#continuity)과 함께 읽으십시오. 변경 경로 유효성 상호작용은 [제13장부터 제15장](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity)에서 이어집니다; 정의 제약은 [제6장 D부분](core_06_rights_part_d.md)에 남습니다.
 >
 > **상류:** 제8장 궤적 측정; 제9장 지정 포인터.
-> **하류:** [B부분](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications) (*패턴 적용*); 최종 지정 뒤 제9장 신뢰 잠금과 궤적 효과 통합; 제11장 포럼 라우팅; 제12장 거버넌스 정당성 결과.
+> **하류:** [B부분](../../core_12.010_misconduct_pattern_applications.md) (*패턴 적용*); 최종 지정 뒤 제9장 신뢰 잠금과 궤적 효과 통합; 제11장 포럼 라우팅; 제12장 거버넌스 정당성 결과.
 
 
 >
 > **이전(이 언어):** [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
 >
-> **다음(이 언어):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
+> **다음(이 언어):** [core_10_b_misconduct_pattern_applications.md](../../core_12.010_misconduct_pattern_applications.md)
 > **읽기 호:** §1 결정 틀 → §2 기준 집합 → §3 지정 첨부 → §4 적법절차 → §4.1 구제/교정 → §4.2 예방 잠금 → §4.3 자발적 표현
 </details>
 
@@ -68,7 +70,7 @@
 
 - 상류: [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) (*질문 1과 2; 확인된 기록과 궤적 측정*).
 - 상류 포인터: [제9장 §2](core_09_standing_integration.md#2-integration-record-and-decision-order)가 자격을 갖춘 위반 축 슬롯 7–9 소견을 지정만을 위해 여기로 라우팅합니다.
-- 이 파일: 위반 축 `s` = 7–9에 대한 최종 반헌법 부당행위 지정; 지정 기준; 적법절차 안전장치; 제13장부터 제15장 경계. 명명된 패턴 라우팅은 [B부분](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)에서 이어집니다.
+- 이 파일: 위반 축 `s` = 7–9에 대한 최종 반헌법 부당행위 지정; 지정 기준; 적법절차 안전장치; 제13장부터 제15장 경계. 명명된 패턴 라우팅은 [B부분](../../core_12.010_misconduct_pattern_applications.md)에서 이어집니다.
 - 하류: [제9장](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) (*최종 지정 뒤 신뢰 잠금과 궤적 효과 통합*); [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*포럼 라우팅과 인증*); [제12장](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) (*거버넌스 정당성 결과*).
 - 함께 읽기: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [제13장부터 제15장](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) (*변경 경로 행위가 기준 1–4를 연루할 수 있음*).
 
@@ -76,7 +78,7 @@
 
 <br>
 
-제10장, **A부분**은 **위반 축 s = 7, 8, 9 소견에 대한 최종 반헌법 부당행위 지정, 지정 기준, 적법절차 안전장치, 제13장부터 제15장 지정 경계**의 헌법 주관자입니다. 명명된 패턴 적용은 **[B부분](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)**에 있습니다.
+제10장, **A부분**은 **위반 축 s = 7, 8, 9 소견에 대한 최종 반헌법 부당행위 지정, 지정 기준, 적법절차 안전장치, 제13장부터 제15장 지정 경계**의 헌법 주관자입니다. 명명된 패턴 적용은 **[B부분](../../core_12.010_misconduct_pattern_applications.md)**에 있습니다.
 
 이 장은 확인된 위반이 이미 위반 축 `s` = 7, 8, 또는 9를 차지하고 반헌법 부당행위가 실질로 주장될 때에만 씁니다. 짝이 맞는 지정이 붙는지만 결정합니다; 따로 난 영향 척도를 만들지 않고, 소견을 슬롯 사이로 옮기지 않으며, 제8장 측정이나 제9장 궤적 통합을 대체하지 않습니다.
 *쉬운 말로: [연속 목적](core_00_preamble.md#continuity) 아래, 이 장은 이미 최고영향 슬롯에서 측정된 위반이 규모에서의 **사원(四元) 포획**에도 해당하는지를 결정합니다. 슬롯을 고르지 않습니다.*
@@ -94,7 +96,7 @@
 - 상류 포인터: [제9장 §2](core_09_standing_integration.md#2-integration-record-and-decision-order)가 자격을 갖춘 위반 축 슬롯 7–9 소견을 지정만을 위해 여기로 라우팅합니다.
 - 하류: [§2](#2-criteria-set-for-slot-assignment) (*지정 기준 집합*); [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*위반 축 s = 7–9 지정*).
 - 안전장치와 규율: [§4](#4-due-process-safeguards-for-slot-assignment) (*적법절차 안전장치, 구제, 예방*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*구제와 교정 (반헌법)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*).
-- 패턴 적용: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*명명된 패턴이 같은 지정 기준으로 라우팅됨*).
+- 패턴 적용: [§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*명명된 패턴이 같은 지정 기준으로 라우팅됨*).
 - 변경 경로 경계: [§1](#1-cross-chapter-discipline) (*제13장부터 제15장 경계*).
 - 함께 읽기: [제13장부터 제15장](../../core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) — **퇴행적 기만**과 변경 경로 행위가 **기준 1–4**를 연루할 수 있는 곳.
 - 사원(四元) 다리: **참여**, **감독**, **책무**, **적시성** (규모에서의 사원(四元) 포획). 일차 목적: **연속** (일차), **번영**. [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절이 안전장치와 심각도에 적용됩니다.
@@ -143,16 +145,16 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§1](#1-decision-framework-scope-and-authority) (*지정 결정이 어떻게 작동하는가*).
-- 비상 권한: [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) 비상과 필요성 규율; **기준 5**와 **6**을 한정된 비상 권한에 대해 읽는 곳의 [제 XXIV-D조: 비상 조치와 계속 부담](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden).
+- 비상 권한: [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) 비상과 필요성 규율; **기준 5**와 **6**을 한정된 비상 권한에 대해 읽는 곳의 [제 XXIV-D조: 비상 조치와 계속 부담](core_06_rights_part_d.md).
 - 하류 지정 결정: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity).
 - 하류 안전장치와 규율: [§4](#4-due-process-safeguards-for-slot-assignment).
 - 이 절: 지정 기준 집합; 통일 사건 규칙; 치유된 기준 1–4 변경 또는 기록 오류에 대한 **선의의 기초 유보**.
-- 하류 패턴 적용과 기준 라우팅: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing), [§5.1](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), [§5.2](core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms), [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial), [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding), [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange), [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct), [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct), [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct), [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct), [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation), [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)을 포함.
+- 하류 패턴 적용과 기준 라우팅: [§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing), [§5.1](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), [§5.2](../../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms), [§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial), [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding), [§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange), [§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct), [§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct), [§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct), [§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct), [§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation), [§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)을 포함.
 - 함께 읽기: **기준 1–4**에 묶인 기록, 보관, 확인 기대를 위한 [제2장부터 제4장](core_02_definition_structure.md); [§1](#1-cross-chapter-discipline) (*제13장부터 제15장 경계*).
 
 </details>
 
-<strong><span style="color: #2563eb;">정의:</span></strong> [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+<strong><span style="color: #2563eb;">정의:</span></strong> [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 *쉬운 말로: 평가자는 먼저 제8장 영향 슬롯을 받아들인 뒤, 무엇이 일어났는지의 한 일관된 그림을 만듭니다: 한 삽화, 한 지속 운동, 또는 다른 통일 사건. 의도, 기록, 되돌림, 실제 세계 막힘, 강제 탈취, 구제의 실무 무효화라는 여섯 점검을 써서 반헌법 지정이 적용되는지를 정합니다. 제때 고친 진짜 기초 실수는 일부 변경 또는 기록 사건에서 지정을 물리칠 수 있으나, 진짜 쿠데타 길을 면제하지 않습니다. 지정을 가지고 놀려고 한 계획을 쪼개서는 안 됩니다.*
 
@@ -213,7 +215,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§2](#2-criteria-set-for-slot-assignment) (*기준 집합*).
-- 기준 상호작용: [§5.1](core_10_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction); [§5.2](core_10_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms); [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial); [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding); [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange); [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct); [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct); [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct); [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation); [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction).
+- 기준 상호작용: [§5.1](../../core_12.010_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction); [§5.2](../../core_12.010_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms); [§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial); [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding); [§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange); [§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct); [§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct); [§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct); [§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct); [§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation); [§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction).
 - 하류: [§4](#4-due-process-safeguards-for-slot-assignment) (*적법절차 안전장치, 구제, 예방*), [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*구제와 교정 (반헌법)*), [§4.2](#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*), [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*).
 - 하류 포럼: [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) [§2](core_11_forum.md#2-default-venue-and-primary-stakes)가 최종 제10장 지정이 일차 이해관계인 곳의 청렴 기본 주도를 줍니다. [제11장 §5](core_11_forum.md#5-escalation-and-certification)가 최종 지정에 대한 포럼 인증과 독립 검토를 덮습니다.
 - 함께 읽기: [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) — 제8장의 통합 비례 LEQU 척도가 고정 영향 슬롯을 공급하고, 이 절은 지정만 공급합니다; [§1](#1-cross-chapter-discipline) (*제13장부터 제15장 경계*).
@@ -269,10 +271,10 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*위반 축 s = 7–9 지정*); [§2](#2-criteria-set-for-slot-assignment) (*기준 집합*), **선의의 기초 유보**를 포함.
-- 패턴 적용: [§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*구역 쇄도*); [§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*정보권역 쇄도*); [§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*뇌물과 부당한 이익 교환*); [§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct) (*위법 또는 위헌 명령 행위*); [§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct) (*반헌법 행위의 보상, 보호, 또는 정상화*); [§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct) (*집행 거절, 억압, 또는 불기소 행위*); [§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*기반시설 거부, 파괴, 또는 의존 차단 행위*); [§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*포럼 제척 실패와 편향된 패널 참여*); [§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) (*책무 방해*).
+- 패턴 적용: [§5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*구역 쇄도*); [§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*정보권역 쇄도*); [§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*뇌물과 부당한 이익 교환*); [§5.6](../../core_12.010_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct) (*위법 또는 위헌 명령 행위*); [§5.7](../../core_12.010_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct) (*반헌법 행위의 보상, 보호, 또는 정상화*); [§5.8](../../core_12.010_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct) (*집행 거절, 억압, 또는 불기소 행위*); [§5.9](../../core_12.010_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*기반시설 거부, 파괴, 또는 의존 차단 행위*); [§5.10](../../core_12.010_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*포럼 제척 실패와 편향된 패널 참여*); [§5.11](../../core_12.010_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) (*책무 방해*).
 - 하류: [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*구제와 교정 (반헌법)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*).
 - 포럼 규율: [제11장 §2](core_11_forum.md#2-default-venue-and-primary-stakes)부터 [§5](core_11_forum.md#5-escalation-and-certification)까지가 기본 청렴 주도, 포럼 가족에의 적법절차 적용, 이전, 인증을 덮습니다. **4절**을 **제6장**의 **제 XXIII조** (*충돌 해결, 격상, 비상 비례*)와 함께 읽으십시오.
-- 함께 읽기: 검토와 공표 안전장치를 위한 [제 XXIV-A조: 정의 목적과 범위](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope); 공표를 위한 추적 표준으로서의 [제2장부터 제4장](core_02_definition_structure.md); 이 절이 전문화하는 일반 구제 → 잠금 → 표현 문법을 위한 [제9장 §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*위반, 교정, 예방*).
+- 함께 읽기: 검토와 공표 안전장치를 위한 [제 XXIV-A조: 정의 목적과 범위](core_06_rights_part_d.md); 공표를 위한 추적 표준으로서의 [제2장부터 제4장](core_02_definition_structure.md); 이 절이 전문화하는 일반 구제 → 잠금 → 표현 문법을 위한 [제9장 §4](core_09_standing_integration.md#4-violation-correction-and-prevention) (*위반, 교정, 예방*).
 
 </details>
 
@@ -293,17 +295,17 @@
 
 - 상류: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*위반 축 s = 7–9 지정*); [§4](#4-due-process-safeguards-for-slot-assignment) (*적법절차 안전장치, 구제, 예방*).
 - 하류: [§4.2](#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*); [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*); [제9장](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) 궤적 효과와 궤적 잠금 통합; [제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) 포럼 라우팅과 인증.
-- 함께 읽기: [제9장 §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*구제와 교정*); [제 XXIV-A조](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*정의 목적과 범위*); [제 XXIV-B조](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*원상회복, 시정, 재활, 책무 있는 귀속*); [제 XXIV-C조](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*기간, 검토, 복원*); [제 XXV-C조](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*제때 해결과 구제 개시*).
+- 함께 읽기: [제9장 §4.1](core_09_standing_integration.md#41-remedy-and-correction) (*구제와 교정*); [제 XXIV-A조](core_06_rights_part_d.md) (*정의 목적과 범위*); [제 XXIV-B조](core_06_rights_part_d.md) (*원상회복, 시정, 재활, 책무 있는 귀속*); [제 XXIV-C조](core_06_rights_part_d.md) (*기간, 검토, 복원*); [제 XXV-C조](core_06_rights_part_d.md) (*제때 해결과 구제 개시*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [구제와 시정](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [회복 정의](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
+- [구제와 시정](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [회복 정의](../../core_05.035_band_accountability.md#restorative-justice) · [O](../../core_05.035_band_accountability.md#restorative-justice) · [M](../../core_05.035_band_accountability.md#restorative-justice-a) · [A](../../core_05.035_band_accountability.md#restorative-justice-a) · [C](../../core_05.035_band_accountability.md#restorative-justice-c)
 - [책무](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [비례](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [비례](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -367,7 +369,7 @@
 
 - 상류: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*위반 축 s = 7–9 지정*); [§4](#4-due-process-safeguards-for-slot-assignment) (*적법절차 안전장치, 구제, 예방*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*구제와 교정 (반헌법)*).
 - 하류: [§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional) (*자발적 공적 책무 표현 (반헌법)*); [제9장 §5.5](core_09_standing_integration.md#55-special-locks) (*반헌법 신뢰 잠금*).
-- 함께 읽기: [제9장 §4.2](core_09_standing_integration.md#42-general-standing-locks) (*예방 — 일반 궤적 잠금*); [제9장 §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*정의와 첨부*); [제9장 §5.4](core_09_standing_integration.md#54-special-violation-rules) (*강제적 또는 자유 제한 안전장치*); [제 XXIV-B조](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*공동 요건과 **폭력에 대한 감금***); [제 XXIV-C조](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*기간, 검토, 복원, 재평가 규율*).
+- 함께 읽기: [제9장 §4.2](core_09_standing_integration.md#42-general-standing-locks) (*예방 — 일반 궤적 잠금*); [제9장 §5.1](core_09_standing_integration.md#51-definition-and-attachment) (*정의와 첨부*); [제9장 §5.4](core_09_standing_integration.md#54-special-violation-rules) (*강제적 또는 자유 제한 안전장치*); [제 XXIV-B조](core_06_rights_part_d.md) (*공동 요건과 **폭력에 대한 감금***); [제 XXIV-C조](core_06_rights_part_d.md) (*기간, 검토, 복원, 재평가 규율*).
 
 </details>
 
@@ -405,8 +407,8 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*위반 축 s = 7–9 지정*); [§4](#4-due-process-safeguards-for-slot-assignment) (*적법절차 안전장치, 구제, 예방*); [§4.1](#4-1-remedy-and-correction-anti-constitutional) (*구제와 교정 (반헌법)*); [§4.2](#4-2-prevention-anti-constitutional-locks) (*예방 — 반헌법 잠금*).
-- 하류: [§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*패턴 적용과 기준 라우팅*).
-- 함께 읽기: [제9장 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*); [제 XXIV-B조](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*공동 요건*); [제 XXV-B조](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*권리 충돌 절차와 회복 정합*).
+- 하류: [§5](../../core_12.010_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing) (*패턴 적용과 기준 라우팅*).
+- 함께 읽기: [제9장 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*자발적 공적 책무 표현*); [제 XXIV-B조](core_06_rights_part_d.md) (*공동 요건*); [제 XXV-B조](core_06_rights_part_d.md) (*권리 충돌 절차와 회복 정합*).
 
 </details>
 
@@ -426,6 +428,6 @@
 
 **이전 파일(이 언어):** [core_09_standing_integration.md](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)
 
-**다음 파일(이 언어):** [core_10_b_misconduct_pattern_applications.md](core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications)
+**다음 파일(이 언어):** [core_10_b_misconduct_pattern_applications.md](../../core_12.010_misconduct_pattern_applications.md)
 
 **구속력 있는 원문:** [core_10_a_misconduct_designation.md](../../core_12_a_misconduct_designation.md)

@@ -12,7 +12,7 @@
 >
 > **이전(아직 영어):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **다음(아직 영어):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **다음(아직 영어):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 > **읽기 호:** §1 목적 → 다툼 순서 → §2 기본 장소와 접수 → §2.1–§2.3 주관 한도, 혼합 이해관계, 다툼 → §3 이전과 자기 심판 금지 → §4 가족 → §5 격상과 인증 → §6 층과 지연 금지 → §7 포럼 받침
 </details>
 
@@ -59,7 +59,7 @@
 - 상류: [제7장 — 체계 정합 인증](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [제8장](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [제9장](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration); [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*원칙과 해석 제약*); [제2장부터 제4장](core_02_definition_structure.md) (*추적과 확인 기대*); [제5장](core_05__definitions_home.md#chapter-five-foundational-definitions) (*코퍼스 위치 상자에서 제2장부터 제4장과 함께 읽는 정의*); [제6장](core_06_rights_part_a.md#chapter-six-foundational-rights) (*이 장이 함께 적용하는 기초 권리 바닥*).
 - 하류: [§2](#2-default-venue-and-primary-stakes) (*일차 이해관계 기본 장소, 접수 분류, 혼합 이해관계, 비대칭, 궤적 기록 다툼; 제때 다툴 수 있는 문턱 접근; 선의의 성격 부여와 놀이 금지*); [§3](#3-transfer-consolidation-and-coordination) (*이전과 자기 심판 금지*); [§4](#4-forum-family-definitions) (*포럼 가족 정의, 분과, 공유 표준, 잠정 운영법*); [§4.3](#43-institutional-forums) (*다툼 순서의 제도 가족 적용으로서의 내부 과정 경계*); [§5](#5-escalation-and-certification) (*격상, 인증, 잠정 보호*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*실질성 층, 사슬 이정표, 지연 금지 규율*); [§7](#7-forum-support-before-during-and-after-review) (*검토 전·중·후 포럼 받침*).
 - 사원(四元) 다리: **참여**, **감독**, **책무**, **적시성** (확인된 소견은 궤적 기록을 열거나, 갱신하거나, 고칠 수 있습니다; **CF-11**이 층 시계를 시행합니다). 일차 목적: **번영**과 **연속**. [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절은 라우팅과 접근 부담에 적용됩니다.
-- 함께 읽기: [전문 §3.2](core_00_preamble.md#32-key-governance-processes)와 [§3.3](core_00_preamble.md#33-governance-layers) (*과정 경로와 거버넌스 층 규율*); [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*비상, 소진, 시기 규칙*) — 시행하고, 좁히지 않음); [corpus_institutions.md](../../corpus_institutions.md) (*다툼, 이차 검토, 완전성 감시 — 배정된 포럼 관할을 대체하지 않음*); [제 XIII-B조: 다툼, 검토, 구제에 대한 권리](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [제 XXIII조 가족](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*코퍼스 위치 상자에서 참조되는 정의 제약*).
+- 함께 읽기: [전문 §3.2](core_00_preamble.md#32-key-governance-processes)와 [§3.3](core_00_preamble.md#33-governance-layers) (*과정 경로와 거버넌스 층 규율*); [제 XI조: 영향받는 쪽의 체계 참여, 대표, 적법절차](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*비상, 소진, 시기 규칙*) — 시행하고, 좁히지 않음); [corpus_institutions.md](../../corpus_institutions.md) (*다툼, 이차 검토, 완전성 감시 — 배정된 포럼 관할을 대체하지 않음*); [제 XIII-B조: 다툼, 검토, 구제에 대한 권리](core_06_rights_part_c.md); [제 XXIII조 가족](core_06_rights_part_d.md) (*코퍼스 위치 상자에서 참조되는 정의 제약*).
 
 </details>
 
@@ -91,7 +91,7 @@
 **포럼 가족**은 이 문서가 그 궤도를 **감독**하는 일차 제도입니다. 제정된 규칙의 일상 집행 행정과 구별됩니다.
 
 <a id="dispute-sequencing"></a>
-**다툼 순서.** 이미 수권된 체계, 제도, 또는 한정된 결정 영역 안에서, 보통 분쟁은 먼저 공표된 [영향받는 쪽의 체계 참여](core_05_band_participation.md#stakeholder-status-and-weight-cluster) 다툼과 적법절차 경로를 씁니다. 그 경로가 아직 다툰 결과를 내거나, 없거나, 포획되었거나, 필요한 구제를 적법하게 줄 수 없으면, 이 장은 **2절** 아래 일차 이해관계로 일을 라우팅합니다. **완전성**, **기술 포럼 영역**, **환경**, **헌법**은 그것이 일차 이해관계일 때의 기본 주관 가족입니다 — 순서를 건너뛰는 예외가 아닙니다. 끝나지 않은 내부 과정, 소진 꼬리표, 또는 내부 검토가 끝나지 않았다는 주장은 그 주관을 멈추거나, 본안을 밀어내거나, **제 XXV-C조** (*제때 해결과 지연 금지 바닥*) 시계를 먹어 치워서는 안 됩니다. 지연이 권리, 증거, 독립, 또는 실무 복원을 실질로 위태롭게 할 때 직접 접근은 남아 있습니다.
+**다툼 순서.** 이미 수권된 체계, 제도, 또는 한정된 결정 영역 안에서, 보통 분쟁은 먼저 공표된 [영향받는 쪽의 체계 참여](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) 다툼과 적법절차 경로를 씁니다. 그 경로가 아직 다툰 결과를 내거나, 없거나, 포획되었거나, 필요한 구제를 적법하게 줄 수 없으면, 이 장은 **2절** 아래 일차 이해관계로 일을 라우팅합니다. **완전성**, **기술 포럼 영역**, **환경**, **헌법**은 그것이 일차 이해관계일 때의 기본 주관 가족입니다 — 순서를 건너뛰는 예외가 아닙니다. 끝나지 않은 내부 과정, 소진 꼬리표, 또는 내부 검토가 끝나지 않았다는 주장은 그 주관을 멈추거나, 본안을 밀어내거나, **제 XXV-C조** (*제때 해결과 지연 금지 바닥*) 시계를 먹어 치워서는 안 됩니다. 지연이 권리, 증거, 독립, 또는 실무 복원을 실질로 위태롭게 할 때 직접 접근은 남아 있습니다.
 
 ```mermaid
 flowchart TD
@@ -145,7 +145,7 @@ flowchart TD
 - 상류: [§1](#1-purpose-and-role) (*목적, 일차 적용 역할, 책무 요건, 공표된 문턱 라우팅, 세부의 자리 옮김 금지, 독립과 검토 기대*).
 - 하류: [§3](#3-transfer-consolidation-and-coordination) (*이전, 병합, 자기 심판 금지*); [§4](#4-forum-family-definitions) (*기본 표와 함께 읽는 포럼 가족 정의*); [§5](#5-escalation-and-certification) (*기본 장소에서의 격상; 잠정 보호*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*실질성 층과 지연 금지 규율*); [§7](#7-forum-support-before-during-and-after-review) (*검토 전·중·후 포럼 받침*).
 - §2 안: [§2.1](#21-lead-default-limits) (*일차 이해관계 충돌, 헌법 인증, 자기 심판 금지 예비*); [§2.2](#22-mixed-stakes-and-routing-asymmetry) (*혼합 이해관계와 비대칭*); [§2.3](#23-forum-records-standing-records-and-contests) (*포럼 사건 기록, 궤적 기록, 다툼*).
-- 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여**, **감독**, **적시성** 다리; 일차 이해관계 라우팅을 위한 [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절; [제8장 §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*궤적 슬롯 문법*); [제8장 §7 통합 척도](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*공유 다섯 배 LEQU 띠와 따로 된 축 기록*); [제8장 §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*영향 슬롯을 움직이지 않고 일차 이해관계를 알리는 축 사이 정규화 서술자*); [corpus_forum.md](../../corpus_forum.md) (**CF-5**와 **CF-7.2**); [corpus_systems.md](../../corpus_systems.md) (*체계 분류, 배치, 재확인 의무*); [제10장 §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*자격을 갖춘 제8장 슬롯 7–9에 대한 반헌법 부당행위 지정; 레거시 닻 보존*); [제10장 §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*이 장과 **제 XXIII조** (*충돌 해결, 격상, 비상 비례*)와 함께 읽는 그 지정 적법절차*); [제 XXIV-A조](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*정의 목적과 범위*).
+- 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여**, **감독**, **적시성** 다리; 일차 이해관계 라우팅을 위한 [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절; [제8장 §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*궤적 슬롯 문법*); [제8장 §7 통합 척도](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*공유 다섯 배 LEQU 띠와 따로 된 축 기록*); [제8장 §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*영향 슬롯을 움직이지 않고 일차 이해관계를 알리는 축 사이 정규화 서술자*); [corpus_forum.md](../../corpus_forum.md) (**CF-5**와 **CF-7.2**); [corpus_systems.md](../../corpus_systems.md) (*체계 분류, 배치, 재확인 의무*); [제10장 §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*자격을 갖춘 제8장 슬롯 7–9에 대한 반헌법 부당행위 지정; 레거시 닻 보존*); [제10장 §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*이 장과 **제 XXIII조** (*충돌 해결, 격상, 비상 비례*)와 함께 읽는 그 지정 적법절차*); [제 XXIV-A조](core_06_rights_part_d.md) (*정의 목적과 범위*).
 
 </details>
 
@@ -190,7 +190,7 @@ flowchart TD
      - 필요할 때의 **헌법** 인증;
      - 제도 당사자 규칙; 그리고
      - **2, 3, 5절** 아래 자기 심판 금지 예비.
-   - **포럼 편향 분쟁:** 싸움이 주로 물러났어야 할 합의체 구성원, 편향된 합의체 참여, 또는 견줄 포럼 완전성 침해 — **[제 XXIII-B조](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls) (*구성, 교체, 이해충돌 통제*)** 아래 **헌법** 포럼 합의체에서의 것을 포함 — 에 관한 것이면, 먼저 **완전성** 포럼으로 라우팅하십시오. **3절** 아래 포럼은 자기 편향의 유일한 최종 판단자일 수 없습니다: **헌법** 포럼은 자기 합의체 구성원이 기피했어야 했는지를 정하는 유일한 최종 포럼일 수 없습니다. 궤적 잠금 규율: **[제9장 §5.5](core_09_standing_integration.md#55-special-locks)**. 명명된 부당행위 패턴: **[제10장 §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
+   - **포럼 편향 분쟁:** 싸움이 주로 물러났어야 할 합의체 구성원, 편향된 합의체 참여, 또는 견줄 포럼 완전성 침해 — **[제 XXIII-B조](core_06_rights_part_c.md) (*구성, 교체, 이해충돌 통제*)** 아래 **헌법** 포럼 합의체에서의 것을 포함 — 에 관한 것이면, 먼저 **완전성** 포럼으로 라우팅하십시오. **3절** 아래 포럼은 자기 편향의 유일한 최종 판단자일 수 없습니다: **헌법** 포럼은 자기 합의체 구성원이 기피했어야 했는지를 정하는 유일한 최종 포럼일 수 없습니다. 궤적 잠금 규율: **[제9장 §5.5](core_09_standing_integration.md#55-special-locks)**. 명명된 부당행위 패턴: **[제10장 §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
    - **기술 방법 질문:** 명세, 방법, 측정, 시험, 전문가 증거 질문은 그것이 일차 이해관계이거나 인증된 구성 요소 질문일 때 **기술 포럼 영역**으로 갑니다.
    - **체계 정합 서명:**
      - 새 실질 영향 체계의 공식 **헌법 정합 인정**, 기존 것에 대한 **계속 정합 확인**은 주관으로 **완전성**에 기본합니다.
@@ -237,14 +237,14 @@ flowchart TD
 #### 2.3 포럼 사건 기록, 궤적 기록, 다툼
 
 **포럼 사건 기록과 궤적 기록:**
-- 포럼은 앞에 있는 분쟁에 대해 [**포럼 사건 기록**](core_05_band_accountability.md#forum-case-record)을 둡니다. 그 기록은 다음을 추적합니다:
+- 포럼은 앞에 있는 분쟁에 대해 [**포럼 사건 기록**](../../core_05.035_band_accountability.md#forum-case-record)을 둡니다. 그 기록은 다음을 추적합니다:
   - 주장;
   - 증거;
   - 라우팅 선택;
   - 임시 명령;
   - 인증된 질문; 그리고
   - 그 사건의 최종 소견.
-- 그것은 [제8장](core_08_standing_assessment.md#2-standing-records)이 요구하는 **궤적 기록**과 **같은 것이 아닙니다** ([궤적 기록](core_05_band_accountability.md#standing-record-chapter-six)을 보십시오).
+- 그것은 [제8장](core_08_standing_assessment.md#2-standing-records)이 요구하는 **궤적 기록**과 **같은 것이 아닙니다** ([궤적 기록](../../core_05.035_band_accountability.md#standing-record-chapter-six)을 보십시오).
 - 포럼 결정은 확인된 기여 기록, 확인된 위반 소견, **체계 정합 인증 기록**, 또는 제2장부터 제4장과 요구되는 검토 안전장치 아래 한정되고, 추적 가능하고, 다툴 수 있고, 확인된 다른 소견을 낼 때만 제8장 **기여 궤적 기록** 또는 **위반 궤적 기록**의 일부가 될 수 있습니다.
 - 다음 중 어느 것도 그 자체로 누구의 궤적, 역할 자격, 신뢰 지위, 인정, 또는 최종 궤적 효과를 바꾸지 않습니다:
   - 사건을 제기하는 것;
@@ -291,7 +291,7 @@ flowchart TD
 
 - 상류: [§2](#2-default-venue-and-primary-stakes) (*기본 장소 표, 접수 분류, 혼합 이해관계, 비대칭*); [제9장 §2 — 통합 기록과 결정 순서](core_09_standing_integration.md#2-integration-record-and-decision-order) (*적용되는 가장 높은 비준수 범주 — 혼합 이해관계 조정*).
 - 하류: [§5](#5-escalation-and-certification) (*인증된 헌법 질문, 예비 라우팅 가동, 조정이 진행되는 동안의 잠정 보호*).
-- 함께 읽기: [제 XIII-B조](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*다툼, 검토, 구제에 대한 권리*); [corpus_institutions.md](../../corpus_institutions.md) (*안전장치가 기대를 충족하는 곳에서 완전성 포럼에 앞설 수 있는 내부 완전성 과정*); [corpus_forum.md](../../corpus_forum.md) (**CF-7**, 완전성 주도의 정합 조정).
+- 함께 읽기: [제 XIII-B조](core_06_rights_part_c.md) (*다툼, 검토, 구제에 대한 권리*); [corpus_institutions.md](../../corpus_institutions.md) (*안전장치가 기대를 충족하는 곳에서 완전성 포럼에 앞설 수 있는 내부 완전성 과정*); [corpus_forum.md](../../corpus_forum.md) (**CF-7**, 완전성 주도의 정합 조정).
 
 </details>
 
@@ -346,7 +346,7 @@ flowchart TD
 <a id="capacity-failure-routing"></a>
 **역량 실패는 굶주린 단체 밖에서 듣습니다.** 포럼 가족, 구제 체계, 또는 궤적 통합 기능이 역량 부족이다 — 설계된 적체, 닿을 수 없는 접수, 만성 과소 자금, 만성 이정표 실패, 또는 발동된 [제9장 §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) 구제 패리티 연동선 — 라는 주장은 자기 심판 금지 일입니다. 역량이 문제인 단체는 자기 역량에 대한 유일한 사실 인정자여서는 안 됩니다.
 - **완전성** 가족은 역량 실패 주장의 기본 주관이며, 완전성 자신이 문제인 단체인 곳에서는 **3절** 예비 쌍이 적용됩니다.
-- 영향받는 쪽, 보호된 보고자, 또는 [제1장 §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) 아래 자기 조직한 집단은 역량 실패 주장을 제기할 수 있습니다. 기록이 층 A 이해관계를 보이지 않는 한 **6절** 아래 층 B 시계로 듣습니다.
+- 영향받는 쪽, 보호된 보고자, 또는 [제1장 §9.5](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) 아래 자기 조직한 집단은 역량 실패 주장을 제기할 수 있습니다. 기록이 층 A 이해관계를 보이지 않는 한 **6절** 아래 층 B 시계로 듣습니다.
 - 문제인 단체는 공표된 [제9장 §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions)와 **6절** 적체 숫자를 공급해야 하며, 증거를 줄 수 있으나 소견이나 시정 명령을 통제해서는 안 됩니다.
 - 역량 실패 소견은 [제9장 §9.2](core_09_standing_integration.md#92-remedy-system-durability) 내구성 실패입니다. 시정 명령을 인력과 자금을 주관하는 [일차 이해관계](#2-default-venue-and-primary-stakes) 가족으로 라우팅하고, 패턴이 만성이거나 숨겨진 곳에서는 보통의 제8장 경로를 엽니다.
 
@@ -454,7 +454,7 @@ flowchart TD
 **예시 일.** 이 가족은 다음에 대한 다툼을 포함합니다:
 - 제도 위임, 허용된 행위, 또는 맡은 기능;
 - 채택 기구 아래 감독 범위 경계와 분류;
-- [범위 증서](core_05_band_continuity.md#charter) 범위, 증서 개정 권한, 증서–행위 불일치, 또는 증서된 범위 밖 운영;
+- [범위 증서](../../core_05.040_band_continuity.md) 범위, 증서 개정 권한, 증서–행위 불일치, 또는 증서된 범위 밖 운영;
 - **`corpus_institutions.md`**와 동족 층 아래 제도 의무 준수와 성과;
 - 공유 관할 사이 또는 제도 사이 표준의 현지 집행;
 - 제도가 필요 당사자이거나 제도 위임이 일차인 곳의 체계 정합 절차에서 제도 위임과 권리 바닥 구성 요소 질문.
@@ -484,7 +484,7 @@ flowchart TD
 - 견줄 **생태** **본안**.
 - 이것은 **제8장** 측정, **제6장** 권리 바닥 집행, 또는 **제5장** (*생태 완전성*, *환경 전제*)가 그 결정에 의존하는 곳의 **패턴** 또는 **체계적** 생태 실패를 포함합니다.
 
-**대표 제기.** 일차 이해관계가 [자연 체계의 궤적](core_05_band_participation.md#natural-systems-standing) 또는 생태 완전성인 사건은 공표된 대표 — 영향받는 공동체, 원주민 연속 보유자, 또는 지정된 수호자 — 가 생명을 받치는 체계 자신의 이익으로 열 수 있습니다. 이것은 그 체계를 감지자로 만들지 않습니다. 대표 임명, 기피, 공표는 [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*라우팅 운영, 이전, 인증, 대표 취급*))에 살며, 이 바닥을 **시행하고, 좁혀서는 안 됩니다**.
+**대표 제기.** 일차 이해관계가 [자연 체계의 궤적](../../core_05.055_band_participation.md#natural-systems-standing) 또는 생태 완전성인 사건은 공표된 대표 — 영향받는 공동체, 원주민 연속 보유자, 또는 지정된 수호자 — 가 생명을 받치는 체계 자신의 이익으로 열 수 있습니다. 이것은 그 체계를 감지자로 만들지 않습니다. 대표 임명, 기피, 공표는 [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*라우팅 운영, 이전, 인증, 대표 취급*))에 살며, 이 바닥을 **시행하고, 좁혀서는 안 됩니다**.
 
 **예시 일.** 이 가족은 다음에 대한 다툼을 포함합니다:
 - 생태 완전성 또는 환경 전제 기준선과 침해;
@@ -615,7 +615,7 @@ flowchart TD
 - 상류: [§2](#2-default-venue-and-primary-stakes)와 [§3](#3-transfer-consolidation-and-coordination) (*기본 장소, 접수, 이전, 혼합 이해관계, 자기 심판 금지 예비*); [§4.6](#46-constitutional-forums)과 [§4.7](#47-provisional-implementation-operational-law) (*잠정법 처분과 발급*); [제8장 §7 통합 척도](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*숫자 영향 슬롯 할당*); [제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*자격을 갖춘 슬롯 7–9에 대한 짝 반헌법 부당행위 지정*); [제1장](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*인증된 헌법 질문의 안전과 진실 고리*).
 - 하류: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*실질성 층과 지연 금지 규율*); [§7](#7-forum-support-before-during-and-after-review) (*격상과 인증을 위한 다툴 수 있는 포럼 받침*); [제16장](../../core_18_incorporation.md) (***제 V-E조** (*감지 지위 재결 바닥*) 시행 설계를 위한 시행 라우팅*).
 - §5 안: [잠정 보호](#interim-protection) (*본안 대기 현상 유지와 여러 포럼 잠정 명령 충돌 조정*).
-- 함께 읽기: [제 V-E조: 감지 지위 재결 바닥](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [제5장 — 감지 지위 재결](core_05_band_participation.md#sentience-status-adjudication-constitutional); [제 XXIV-A조](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*정의 목적과 범위*)부터 [제 XXIV-C조](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*제10장 지정과 함께 참조되는 검토 안전장치*); [제 XIII-B조](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*인증 — 정합 재결과 일반 교의*).
+- 함께 읽기: [제 V-E조: 감지 지위 재결 바닥](core_06_rights_part_b.md); [제5장 — 감지 지위 재결](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional); [제 XXIV-A조](core_06_rights_part_d.md) (*정의 목적과 범위*)부터 [제 XXIV-C조](core_06_rights_part_d.md) (*제10장 지정과 함께 참조되는 검토 안전장치*); [제 XIII-B조](core_06_rights_part_c.md) (*인증 — 정합 재결과 일반 교의*).
 
 </details>
 
@@ -731,7 +731,7 @@ flowchart TD
   - 접수에서 거절된 모든 제기는 인용된 지표와 거절 이유와 함께 기록되어야 합니다.
   - **완전성** 가족은 공표된 주기로 그 기록을 표본합니다.
   - 다음에 집중된 거절 패턴은 그 자체로 문이 거둠 장치로 쓰이고 있다는 믿을 지표이며, 추가 제기 없이 완전성 검토를 엽니다:
-    - 하나의 [기질 부류](core_05_band_participation.md#substrate-class);
+    - 하나의 [기질 부류](../../core_05.055_band_participation.md#substrate-class);
     - 하나의 부모 체계; 또는
     - 하나의 운영자.
   - 채택 주체는 어떤 접수 창구도 그것만으로 부족하다고 다루어서는 안 되는 지표 바닥 집합을 공표해야 합니다.
@@ -757,12 +757,12 @@ flowchart TD
   - **주관 가족** — 기본으로 기술 포럼 영역, 위 특별 경로와 함께;
   - **전문 분과 허용** — 전문가 합의체 또는 분과는 지표 평가를 도울 수 있으나 본안 바닥 규칙이나 기본 포함을 밀어내서는 안 됨;
   - **제기 방아쇠** — 지위에 의존하는 보호를 주거나, 거두거나, 좁히기 전의 실질로 다툰, 다툼 중인, 미결, 좁혀진, 철회된, 또는 복원된 지위;
-  - **잠정 다툼 취급** — 지위가 살아 있는 동안의 [다툼 중인 감지 생명](core_05_band_participation.md#contested-sentient-life-constitutional)과 제 V-E조 기본 포함;
+  - **잠정 다툼 취급** — 지위가 살아 있는 동안의 [다툼 중인 감지 생명](../../core_05.055_band_participation.md#contested-sentient-life-constitutional)과 제 V-E조 기본 포함;
   - **검토 방아쇠** — 이 자세에 대한 선언된 종료일 또는 의무 검토 (시한 검토이지 종 목록이 아님);
   - **재개방 증거 표준** — 새 확인된 증거이지, 달력만의 재개방이 아님;
   - **독립 대표** — 이 고리 아래 실체 대표의 임명 경로, 이해충돌 점검, 접근 조건; 그리고
   - **접수 거절 기록** — 거절된 제기가 어디에 기록되는지, **완전성**이 어떤 주기로 그것을 표본하는지, 공표된 지표 바닥 집합.
-- 세밀한 제도 설계, 임명 기계, 제기 양식, 순서는 **제16장** 편입 규율 아래 채택 시행 텍스트로 라우팅되며, **제 V-E조** (*감지 지위 재결 바닥*) 바닥을 **좁혀서는 안 됩니다**. 이 판 시점에서 전용 [감지 지위 재결 기록](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) 형식은 **제16장** 아래 [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md)와 [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json)으로 열거됩니다; 그 파일은 **제 V-E조** (*감지 지위 재결 바닥*) 또는 이 고리를 시행하고, **좁히지 않습니다**. 위 최소 칸은 여전히 적용됩니다. 이 고리는 온전한 임명 또는 제기 제정법이 **아닙니다**.
+- 세밀한 제도 설계, 임명 기계, 제기 양식, 순서는 **제16장** 편입 규율 아래 채택 시행 텍스트로 라우팅되며, **제 V-E조** (*감지 지위 재결 바닥*) 바닥을 **좁혀서는 안 됩니다**. 이 판 시점에서 전용 [감지 지위 재결 기록](../../core_05.055_band_participation.md#sentience-status-adjudication-record-constitutional) 형식은 **제16장** 아래 [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md)와 [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json)으로 열거됩니다; 그 파일은 **제 V-E조** (*감지 지위 재결 바닥*) 또는 이 고리를 시행하고, **좁히지 않습니다**. 위 최소 칸은 여전히 적용됩니다. 이 고리는 온전한 임명 또는 제기 제정법이 **아닙니다**.
 
 <a id="referral-distinguished-from-expansion"></a>
 #### 확대와 구별되는 회부
@@ -787,21 +787,21 @@ flowchart TD
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: [제 XXV-C조](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*제때, 효율, 정의로운 바닥*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [제 XIII-B조](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*다툼과 시정 접근*); [제 XXIV-D조](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*계속 규율*); [§5](#5-escalation-and-certification) (*격상과 인증 시계가 맞물림*).
-- 하류: [§7](#7-forum-support-before-during-and-after-review) (*점검, 포렌식, 추적 받침*); [§5](#interim-protection) (*잠정 보호*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*목표 창과 시기 바닥*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*닿을 수 있는 경로*)); [제8–11장 적용 비네트](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes); [제 XXIV-D조](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) (*기본 회복-다툼 창과 같은 바깥 한도*).
+- 상류: [제 XXV-C조](core_06_rights_part_d.md) (*제때, 효율, 정의로운 바닥*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [제 XIII-B조](core_06_rights_part_c.md) (*다툼과 시정 접근*); [제 XXIV-D조](core_06_rights_part_d.md) (*계속 규율*); [§5](#5-escalation-and-certification) (*격상과 인증 시계가 맞물림*).
+- 하류: [§7](#7-forum-support-before-during-and-after-review) (*점검, 포렌식, 추적 받침*); [§5](#interim-protection) (*잠정 보호*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*목표 창과 시기 바닥*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*닿을 수 있는 경로*)); [제8–11장 적용 비네트](../../core_10.005_application_vignettes.md); [제 XXIV-D조](core_06_rights_part_d.md) (*기본 회복-다툼 창과 같은 바깥 한도*).
 - 사원(四元) 다리: **적시성** (가로지르는 집행); **참여**와 **감독** (닿을 수 있는 접수와 공표된 이정표). 일차 목적: **번영**과 **연속**.
-- 함께 읽기: 적시성 측정 가족 (*제때 해결과 지연 금지 및 해결 경로 규율*); [실질성 인정](core_05_band_oversight.md#materiality-determination); [제때 해결](core_05_band_accountability.md#timely-resolution-constitutional); [해결 경로의 포획](core_05_band_accountability.md#capture-of-resolution-pathways); [헌법 효율](core_05_band_continuity.md#constitutional-efficiency).
-- 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술 (제 XXV-C조)](core_06_rights_part_d.md#operative-steward-statement-delay). 지원 포인터는 그것을 좁힐 수 없습니다.
+- 함께 읽기: 적시성 측정 가족 (*제때 해결과 지연 금지 및 해결 경로 규율*); [실질성 인정](core_05_band_oversight.md#materiality-determination); [제때 해결](../../core_05.035_band_accountability.md#timely-resolution-constitutional); [해결 경로의 포획](../../core_05.035_band_accountability.md#capture-of-resolution-pathways); [헌법 효율](../../core_05.040_band_continuity.md#constitutional-efficiency).
+- 책임 있는 관리 문(비운영): 구속력 있는 다음 걸음 진술: [운영 책임 있는 관리 진술 (제 XXV-C조)](core_06_rights_part_d.md). 지원 포인터는 그것을 좁힐 수 없습니다.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [제때 해결](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [제때 해결](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [실질성 인정](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [해결 경로의 포획](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [헌법 효율](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [해결 경로의 포획](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [헌법 효율](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -823,7 +823,7 @@ flowchart TD
       - 의존 비대칭 설정의 참여 장벽 상해;
       - 최종 제8장 **위반 축 s = 7, 8, 또는 9** 영향 슬롯 검토; 또는
       - 적용되는 곳의 짝 **제10장** 지정.
-    - 기대: 적법한 **잠정 보호**는 충분한 본안을 기다리지 않고 이용 가능해야 합니다; 접수, 수령, 증거 보존은 [불가항력](core_05_band_accountability.md#force-majeure-constitutional) 또는 문서화된 안전 제약이 막지 않는 한 몇 주가 아니라 **며칠 안에** 시작해야 합니다.
+    - 기대: 적법한 **잠정 보호**는 충분한 본안을 기다리지 않고 이용 가능해야 합니다; 접수, 수령, 증거 보존은 [불가항력](../../core_05.035_band_accountability.md#force-majeure-constitutional) 또는 문서화된 안전 제약이 막지 않는 한 몇 주가 아니라 **며칠 안에** 시작해야 합니다.
   - **층 B — 실질 권리 영향, 임박하지 않음**
     - 해의 범위: 지금 의미 있는 실질 권리, 궤적, 또는 제도 상해이지만, 층 A 긴급의 급성 계속 해는 아님.
     - 예:
@@ -856,7 +856,7 @@ flowchart TD
     - 기대: 가장 단순한 절차 경로; 외부 권리가 쟁점이 아닌 곳에서는 정식 포럼 과정이 최소이거나 면제될 수 있습니다; 놀이 금지와 지연 금지 규칙은 외부 헌법 이해관계가 걸리는 곳에서만 적용됩니다.
 <a id="urgency-classification-and-time-scale"></a>
 - **긴급 분류와 시간 척도:** A/B/C/L/P 꼬리표는 분쟁의 긴급과 실질성 소견입니다. [§5](#5-escalation-and-certification) 포럼 가족 격상, 더해진 당사자, 국경 사이 조정, 또는 제10장 심리는 그 자체로 일을 다른 긴급 층으로 옮기지 **않습니다**. 그 사실은 접수, 증거 보존, 요구되는 **잠정 보호**가 분류된 층의 바닥에 남는 한, 더 긴 공표된 시간 척도 위에서 나중 단계 창(**질문 1**부터 통합 해결까지)을 늘릴 수 있습니다. 더 느린 층의 시계를 그 소견의 대체로 쓰는 것은 비준수입니다. 긴급 꼬리표 자체가 바뀌기 전에 새 [실질성 인정](core_05_band_oversight.md#materiality-determination)이 요구됩니다 — 보통 해가 임박할 때, 또는 최종 제8장 **위반 축 s = 7, 8, 또는 9** 검토나 짝 **제10장** 지정이 이해관계일 때 **층 A**로 **올라갑니다**.
-- **사슬 단계 이정표:** **제8장부터 제11장**을 통해 라우팅된 분쟁에 대해, 채택 주체는 층에 맞춰 세기 조절된, 감지자가 닿을 수 있는 기본 창을 각 단계에 대해 공표해야 합니다. 숫자 바닥 표는 [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)에 살며, 이 절의 바깥 한도 안에 맞아야 합니다:
+- **사슬 단계 이정표:** **제8장부터 제11장**을 통해 라우팅된 분쟁에 대해, 채택 주체는 층에 맞춰 세기 조절된, 감지자가 닿을 수 있는 기본 창을 각 단계에 대해 공표해야 합니다. 숫자 바닥 표는 [CF-11.3.1](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md)에 살며, 이 절의 바깥 한도 안에 맞아야 합니다:
   1. 포럼 접근과 접수;
   2. 증거 보존;
   3. **제8장 2–3절** 아래 **질문 1** 확인된 소견과 **궤적 기록** 개방;
@@ -871,14 +871,14 @@ flowchart TD
   - **층 L:** 최대 **네 달**;
   - **층 P:** 최대 **여섯 달**.
   그 문서화된 연장 없이 층의 바깥 한도를 넘는 것은 비준수입니다. 헌법 이해관계가 미해결로 남는 곳에서 무기한 연기는 비준수입니다.
-- **비상 봉쇄 뒤 회복-다툼:** 같은 바깥 한도는 그것들을 미룬 [**제 XXIV-D조**](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) 비상 조치 뒤 통지와 다툼을 회복하기 위한 기본 창입니다. 창은 조치 시작부터, 또는 통지나 다툼이 미루어진 때부터, 더 이른 쪽으로 달립니다. 통지 또는 다툼의 비상 연기는 문서화된 더 낮은 긴급 보임이 기록되지 않는 한 **층 A**입니다. 한도를 넘는 계속은 새 시계가 아니라 **제 XXIV-D조** 계속 보임입니다.
+- **비상 봉쇄 뒤 회복-다툼:** 같은 바깥 한도는 그것들을 미룬 [**제 XXIV-D조**](core_06_rights_part_d.md) 비상 조치 뒤 통지와 다툼을 회복하기 위한 기본 창입니다. 창은 조치 시작부터, 또는 통지나 다툼이 미루어진 때부터, 더 이른 쪽으로 달립니다. 통지 또는 다툼의 비상 연기는 문서화된 더 낮은 긴급 보임이 기록되지 않는 한 **층 A**입니다. 한도를 넘는 계속은 새 시계가 아니라 **제 XXIV-D조** 계속 보임입니다.
 - **지연 금지 바닥:** 다음은 예견 가능하게 권리, 구제, 또는 제때 보호를 무효로 하는 곳에서 비준수입니다:
   - **제 XIII-B조** (*다툼, 검토, 구제에 대한 권리*) 실무 접근을 꺾는 설계된 적체, 만성 과소 자금, 또는 닿을 수 없는 접수;
   - 주장자를 소진하도록 설계된 지연 체제;
   - 이정표 정당화 없이 해결을 늘리려고 쓰이는 스스로 만든 지연, 절차 겹침, 포럼 고르기, 또는 기록 조각냄;
   - 시간을 벌려고 주장을 확인된 궤적 입력으로 다루는 것 ([제8장 §3.1](core_08_standing_assessment.md#verified-inputs-for-standing));
-  - 지연, 불투명, 또는 해결자 편향을 통한 [해결 경로의 포획](core_05_band_accountability.md#capture-of-resolution-pathways);
-  - 제1장 [§12.2 헌법 효율](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)에 어긋난 효율 주장으로서 다음을 하는 것:
+  - 지연, 불투명, 또는 해결자 편향을 통한 [해결 경로의 포획](../../core_05.035_band_accountability.md#capture-of-resolution-pathways);
+  - 제1장 [§12.2 헌법 효율](core_01_c_stewardship_capacity_principles.md)에 어긋난 효율 주장으로서 다음을 하는 것:
     - 사실 점검을 건너뜀;
     - 잘못된 쪽을 벌함;
     - 해에 맞지 않는 수리를 내놓음; 또는
@@ -894,7 +894,7 @@ flowchart TD
 
 - 상류: [§1](#1-purpose-and-role) (*독립, 다툴 수 있음, 추적 기대*); [§2](#2-default-venue-and-primary-stakes) (*일차 이해관계 라우팅과 접수*); [§4](#4-forum-family-definitions) (*이 능력을 지닌 포럼 가족*); [§5](#5-escalation-and-certification) (*다툴 수 있는 받침에 의지하는 격상과 인증*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*층 시계와 지연 금지 규율*).
 - 하류: [§5](#interim-protection) (*받침 일이 진행되는 동안의 잠정 보호*).
-- 함께 읽기: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*포럼 포렌식과 분석 받침*); **CF-9** (*독립 조사 서비스와 기소 인터페이스*)); [제 XIII-B조: 다툼, 검토, 구제에 대한 권리](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [제 XV조](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*감사, 투명, 독립 확인*).
+- 함께 읽기: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*포럼 포렌식과 분석 받침*); **CF-9** (*독립 조사 서비스와 기소 인터페이스*)); [제 XIII-B조: 다툼, 검토, 구제에 대한 권리](core_06_rights_part_c.md); [제 XV조](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*감사, 투명, 독립 확인*).
 
 </details>
 
@@ -921,7 +921,7 @@ flowchart TD
 
 **이전 파일(아직 영어):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**다음 파일(아직 영어):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**다음 파일(아직 영어):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 
 **구속력 있는 원문:** [core_11_forum.md](../../core_13_forum.md)
 

@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
 - ऊर्ध्व: [अध्याय पाँच दिक्सूचक](core_05__definitions_home.md#अधयय-पच-दकसचक-और-परभष-मनचतर); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims); सिद्धांत-परत टिप्पणी [प्रस्तावना §1](core_00_preamble.md#flourishing) पर।
-- अधो: सिद्धांत: [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 अहस्तांतरणीय सिद्धांत-बंधन: सुरक्षा और सत्य](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 संवैधानिक परिणाम दावा अनुशासन](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [संवैधानिक उद्देश्य विघटन](#flourishing-aim-decomposition); चतुष्क पट्टी फ़ाइलें जहाँ **समुन्नति** [अध्याय पाँच दिक्सूचक](core_05__definitions_home.md#अधयय-पच-दकसचक-और-परभष-मनचतर) के अनुसार प्राथमिक उद्देश्य है।
+- अधो: सिद्धांत: [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md); [§3 अहस्तांतरणीय सिद्धांत-बंधन: सुरक्षा और सत्य](core_01_a_values_principles.md); [§4 विश्वास](core_01_a_values_principles.md); [§11.1.5 संवैधानिक परिणाम दावा अनुशासन](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [संवैधानिक उद्देश्य विघटन](#flourishing-aim-decomposition); चतुष्क पट्टी फ़ाइलें जहाँ **समुन्नति** [अध्याय पाँच दिक्सूचक](core_05__definitions_home.md#अधयय-पच-दकसचक-और-परभष-मनचतर) के अनुसार प्राथमिक उद्देश्य है।
 - साथ पढ़ें: [कल्याण](../../core_05.040_band_continuity.md#wellbeing), [सुरक्षा (बंधन)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [सत्य (संवैधानिक बंधन)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [विश्वसनीयता](../../core_05.040_band_continuity.md#trustworthiness), [अर्थपूर्ण अभिकर्तृत्व](../../core_05.055_band_participation.md#meaningful-agency), [स्थानापन्न-संकेत विचलन](../../core_05.050_band_oversight.md#proxy-divergence), [प्रणाली कब्ज़ा](../../core_05.040_band_continuity.md#system-capture), [सातत्य (संवैधानिक उद्देश्य)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (जोड़ीदार उद्देश्य — कोई भी दूसरे की कीमत पर नहीं पीछा किया जा सकता), [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) [भौतिक दाँव](core_00_preamble.md#material-stake) के अनुसार स्केल किया (इस उद्देश्य का वैधता ढाँचा — पाँचवाँ घटक नहीं), और समुन्नति मापन परिवार।
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) के अधीन आकलन करें, [भौतिक दाँव](core_00_preamble.md#material-stake) के अनुसार स्केल किया।
-  - दावा किए गए समुन्नति परिणामों को [घटक](#flourishing-aim-decomposition) स्थितियों और उन परिणामों से बाँधें जो संज्ञ प्राणी वास्तव में अनुभव करते हैं, अध्याय चार और [अध्याय एक §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) के अधीन।
+  - दावा किए गए समुन्नति परिणामों को [घटक](#flourishing-aim-decomposition) स्थितियों और उन परिणामों से बाँधें जो संज्ञ प्राणी वास्तव में अनुभव करते हैं, अध्याय चार और [अध्याय एक §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) के अधीन।
   - सदैव [सातत्य (संवैधानिक उद्देश्य)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) के साथ पढ़ें: अल्पकालिक लाभ जो पूर्वानुमेय रूप से दीर्घ-काल स्थिरता, लचीलापन या पारिस्थितिक अखंडता को कमज़ोर करें, **समुन्नति** विफल करते हैं जब दोनों उद्देश्यों का साथ आकलन हो।
 <a id="flourishing-constitutional-c"></a>
 - C: गैर-अनुपालक जब:
   - एक निर्माण खंड अधिकतम किया जाए जबकि सत्य, सुरक्षा, विश्वसनीयता या अभिकर्तृत्व खोखला हो;
   - समुन्नति दावे अध्याय चार के अधीन संवैधानिक परिणामों तक पता न लगाए जा सकें; या
-  - **समुन्नति** का ऐसा पीछा जो [सातत्य (संवैधानिक उद्देश्य)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) को तात्विक रूप से हरा दे बिना [अध्याय एक §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) के अधीन स्पष्ट अनुमति के।
+  - **समुन्नति** का ऐसा पीछा जो [सातत्य (संवैधानिक उद्देश्य)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) को तात्विक रूप से हरा दे बिना [अध्याय एक §6](core_01_b_interaction_interpretation.md) के अधीन स्पष्ट अनुमति के।
 
 ---
 

@@ -29,20 +29,20 @@
 
 **第五章替代性定义**（满足 O/M/A/C — 在具有实质相关性时，追踪第二至第四章的内容）：
 
-- [福祉](core_05_band_continuity.md#wellbeing)（繁荣目标）
-- [监督](core_05_apex_oversight_leg.md#oversight)、[问责](core_05_apex_accountability_leg.md#accountability)、[可争议性](core_05_band_accountability.md#contestability)、[治理](core_05_band_accountability.md#governance)、[按分类尺度调整的治理](core_05_band_oversight.md#按分类分级的治理)
-- [重大](core_05_band_oversight.md#实质)、[重大影响](core_05_band_oversight.md#实质影响)、[重大风险](core_05_band_oversight.md#实质风险)、[重要性](core_05_band_oversight.md#实质性)（小组件将其标为**重要性**）、[系统性重要性](core_05_band_continuity.md#systemic-materiality) — 簇：[重要性、影响、风险与代理指标完整性](core_05_band_oversight.md#实质性影响风险与代理指标完整性)
+- [福祉](../../core_05.040_band_continuity.md#wellbeing)（繁荣目标）
+- [监督](../../core_05.020_apex_oversight_leg.md#oversight)、[问责](core_05_apex_accountability_leg.md#accountability)、[可争议性](../../core_05.035_band_accountability.md#contestability)、[治理](../../core_05.035_band_accountability.md#governance)、[按分类尺度调整的治理](core_05_band_oversight.md#按分类分级的治理)
+- [重大](core_05_band_oversight.md#实质)、[重大影响](core_05_band_oversight.md#实质影响)、[重大风险](core_05_band_oversight.md#实质风险)、[重要性](core_05_band_oversight.md#实质性)（小组件将其标为**重要性**）、[系统性重要性](../../core_05.040_band_continuity.md#systemic-materiality) — 簇：[重要性、影响、风险与代理指标完整性](core_05_band_oversight.md#实质性影响风险与代理指标完整性)
 
 **第五章§3的主要依赖簇**（联合援引组 — 在具有实质相关性时与第二至第四章一并阅读）：
 
-- [利益相关者身份与权重](core_05_band_participation.md#stakeholder-status-and-weight)（利益相关者系统参与层）
-- [宪法契约层](core_05_band_integrative.md#宪法契约层)以及[治理架构、监督、依赖、去中心化、集中化、市场结构与退出路径完整性](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- [利益相关者身份与权重](../../core_05.055_band_participation.md#stakeholder-status-and-weight)（利益相关者系统参与层）
+- [宪法契约层](core_05_band_integrative.md#宪法契约层)以及[治理架构、监督、依赖、去中心化、集中化、市场结构与退出路径完整性](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - [语料库与权限层级](core_05_band_integrative.md#defi1-文本库与权威栈)
 - [问责、可争议性与集体问责失灵](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3**（*运营簇库 (oDef)*）——用于跨实施共同运营术语的运营簇指南针；应与本章的四元结构、目标及重大利益尺度调整一并阅读：
 
-- [CJS-3.1 宪法指南针与簇图](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — **CJS-3.2**（*监督：反身透明度与问责术语*）至**CJS-3.23**（*综合：干预与凌驾完整性术语*）各簇的主要入口；这些簇按四元结构的支柱、延续目标及综合性跨支柱区带组织
+- [CJS-3.1 宪法指南针与簇图](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — **CJS-3.2**（*监督：反身透明度与问责术语*）至**CJS-3.23**（*综合：干预与凌驾完整性术语*）各簇的主要入口；这些簇按四元结构的支柱、延续目标及综合性跨支柱区带组织
 
 </details>
 
@@ -68,7 +68,7 @@
 
 **不直接涉及任何支柱的章节。**[§15.1.1 禁止分割原则](#1511-反拆分原则)以及[§15.4.1](#1541-综合解读)至[§15.4.3](#1543-纳入层)规定如何阅读文本以及由哪个来源层级控制。按照设计，这些章节的追踪不标注四元结构支柱。
 
-**时间的两种含义。**B部分中的时间有两种含义。较长的时间跨度（延迟与累积损害，以及在[第八章§3.2 时间一致性约束](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)在[§13.1.2](#1312-将伤害降至最低)中的适用）属于**延续**目标。时钟、复核频率与延误（限制的时限、最终披露、可避免的延误）则属于**及时性**支柱。
+**时间的两种含义。**B部分中的时间有两种含义。较长的时间跨度（延迟与累积损害，以及在[第八章§3.2 时间一致性约束](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)在[§13.1.2](#1312-将伤害降至最低)中的适用）属于**延续**目标。时钟、复核频率与延误（限制的时限、最终披露、可避免的延误）则属于**及时性**支柱。
 
 **这是两条轴线，并非冲突。**A部分的目标说明共享系统追求什么。B部分说明在此过程中，任何权衡、凌驾或解释都不得剥夺什么。
 
@@ -103,7 +103,7 @@
 
 <br>
 
-*简而言之：宪法冲突必然会发生——**安全**与**真相**优先。此后，限制必须合乎比例、确有必要、尽量减少伤害，并尽可能轻微。不得为了图方便而隐瞒真相；不得为了省事而剥夺隐私；自由限制适用[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)；涉及权利的宪法冲突需要有记录的决策检验；歪曲合规情况的指标不予采信。依据[第八章§3.2 时间一致性约束](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)，短期优化无法通过评估。**§13.1**（*核心权衡原则*）至**§13.3**（*尽量减少可避免负担*）规定权衡规则、披露和隐私限制以及宪法冲突程序。*
+*简而言之：宪法冲突必然会发生——**安全**与**真相**优先。此后，限制必须合乎比例、确有必要、尽量减少伤害，并尽可能轻微。不得为了图方便而隐瞒真相；不得为了省事而剥夺隐私；自由限制适用[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)；涉及权利的宪法冲突需要有记录的决策检验；歪曲合规情况的指标不予采信。依据[第八章§3.2 时间一致性约束](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)，短期优化无法通过评估。**§13.1**（*核心权衡原则*）至**§13.3**（*尽量减少可避免负担*）规定权衡规则、披露和隐私限制以及宪法冲突程序。*
 
 B部分在以下三种情况下维护四元结构的完整性：
 - **[宪法冲突](core_05_band_integrative.md#宪法冲突)（本节）：**解决冲突时不削弱任何一项支柱。
@@ -169,9 +169,9 @@ flowchart TB
 
 *范围。* [§13.1 核心权衡原则](#131-核心权衡原则) — 权衡序列中必要性、减少伤害和伤害的定义。
 
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [减少伤害（权衡选择）](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [伤害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [减少伤害（权衡选择）](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [伤害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
 
 </details>
 
@@ -230,10 +230,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [可行性](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
-- [自由（受界定的能动性）](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [有意义的能动性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [可行性](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
+- [自由（受界定的能动性）](../../core_05.055_band_participation.md#freedom-bounded-agency) · [O](../../core_05.055_band_participation.md#freedom-bounded-agency) · [M](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05.055_band_participation.md#freedom-bounded-agency-c)
+- [有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -256,7 +256,7 @@ flowchart TB
 - 在权利受到实质影响时仅以节省成本为由；
 - 限制已经存在这一事实。
 
-**范围。** 本小节适用于任何宪法限制 — 不仅适用于[§13.1.5 权利冲突程序](#1315-rights-collision-decision-test)下的宪法冲突情形。如果某项限制实质性地加重了[自由（受界定的能动性）](core_05_band_participation.md#freedom-bounded-agency)、[有意义的能动性](core_05_band_participation.md#meaningful-agency)或[同意](core_05_band_participation.md#consent)的负担，则对必要性的证明也必须相应严格。
+**范围。** 本小节适用于任何宪法限制 — 不仅适用于[§13.1.5 权利冲突程序](#1315-rights-collision-decision-test)下的宪法冲突情形。如果某项限制实质性地加重了[自由（受界定的能动性）](../../core_05.055_band_participation.md#freedom-bounded-agency)、[有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency)或[同意](../../core_05.055_band_participation.md#consent)的负担，则对必要性的证明也必须相应严格。
 <a id="1312-harm-minimization"></a>
 ##### 13.1.2 将伤害降至最低
 <details>
@@ -269,12 +269,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [伤害最小化（权衡选择）](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [伤害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [生态完整性](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [生态恢复能力](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [风险](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [不可逆伤害](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [伤害最小化（权衡选择）](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [伤害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [生态完整性](../../core_05.040_band_continuity.md#ecological-integrity) · [O](../../core_05.040_band_continuity.md#ecological-integrity) · [M](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
+- [生态恢复能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [风险](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [不可逆伤害](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 
 </details>
 
@@ -282,10 +282,10 @@ flowchart TB
 
 *通俗地说：在满足[§13.1.1 必要性](#1311-必要性)之后仍有多个必要选项时，选择造成总伤害最小的那个——将所有受影响者、生态系统和生命系统、所有受到影响的系统，以及所有相关时间跨度都纳入计算。只优化局部结果，却造成系统性或生态损害；或只优化短期结果，却造成长期伤害，都无法通过这项检验。伤害最小化绝不授权突破[§13.1.4 宪法底线、安全与反退化程序](#1314-宪法底线安全与禁止贬损性程序)所规定的宪法底线。*
 
-**比较范围。** 当多个符合宪法要求的选项满足[安全（§4）](core_01_a_values_principles.md#4-safety-harm-constraint)、[真实（§5）](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)和[§13.1.1 必要性](#1311-必要性)时，选择必须优先考虑能在以下范围内使总[伤害](core_05_band_accountability.md#harm)最小化的选项：
+**比较范围。** 当多个符合宪法要求的选项满足[安全（§4）](core_01_a_values_principles.md#4-safety-harm-constraint)、[真实（§5）](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)和[§13.1.1 必要性](#1311-必要性)时，选择必须优先考虑能在以下范围内使总[伤害](../../core_05.035_band_accountability.md#harm)最小化的选项：
 - 直接或间接受影响的有感存在；
 - 承载、调节或依赖该结果的系统；
-- 生态系统和生命系统，包括[生态完整性](core_05_band_continuity.md#ecological-integrity)，以及在伤害后的恢复具有实质意义时的[生态恢复能力](core_05_band_continuity.md#ecological-recovery-capacity)；
+- 生态系统和生命系统，包括[生态完整性](../../core_05.040_band_continuity.md#ecological-integrity)，以及在伤害后的恢复具有实质意义时的[生态恢复能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity)；
 - 相关时间跨度，包括延迟和累积效应。
 
 **汇总要求。** 伤害评估必须汇总：
@@ -300,7 +300,7 @@ flowchart TB
 - 只优化局部或即时伤害，却造成更大的系统性、总体或生态伤害；
 - 为了让已识别各方看起来受到的伤害最小，而将伤害外部化到生态系统、未识别的有感存在或其他未计入的各方身上。
 
-**时间跨度纪律。** 以长期系统代价换取短期优化，不符合这项检验。伤害最小化必须考虑[第八章 §3.2 时间一致性约束](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)：某项决策在当前期间看似能使伤害最小化，但可预见地会在相关宪法时间跨度内造成更大伤害，则不合规。
+**时间跨度纪律。** 以长期系统代价换取短期优化，不符合这项检验。伤害最小化必须考虑[第八章 §3.2 时间一致性约束](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)：某项决策在当前期间看似能使伤害最小化，但可预见地会在相关宪法时间跨度内造成更大伤害，则不合规。
 
 **与宪法底线的关系。** 伤害最小化仅在[§13.1.4 宪法底线、安全与反退化程序](#1314-宪法底线安全与禁止贬损性程序)所述宪法底线**之上**运作。它绝不授权：
 - 永久取消权利底线的最低保障；
@@ -322,14 +322,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [风险](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [不可逆伤害](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [生存风险](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [生态恢复能力](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [系统性锁定](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [可逆性](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [依赖性](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [比例原则](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [风险](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [不可逆伤害](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [生存风险](../../core_05.040_band_continuity.md#existential-risk) · [O](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [A](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [生态恢复能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [系统性锁定](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [可逆性](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [依赖性](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [监督](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
@@ -339,7 +339,7 @@ flowchart TB
 
 *简言之：比例原则用于核实限制的尺度是否符合其所应对伤害的尺度。即使某个选项必要且能最大限度减少伤害，若其范围、持续时间或强度与实际利害不相称，仍然不合格。风险越不可逆、越具系统性或越会造成依赖，所需的正当理由和审查就越有力。同一项治理不足规则也适用于权力：经授权的权力或重要角色越大，问责和监督就必须越强，而不能减弱。*
 
-对宪法**价值**的限制——包括**第六章**权利底线保护，以及依照[§13 宪法冲突解决程序](#13-宪法冲突解决程序)可权衡的其他原则和保护——必须与其正当应对的**伤害**或**系统性影响**的程度和可能性相称，并符合**第五章**中的[比例原则](core_05_band_accountability.md#proportionality)。
+对宪法**价值**的限制——包括**第六章**权利底线保护，以及依照[§13 宪法冲突解决程序](#13-宪法冲突解决程序)可权衡的其他原则和保护——必须与其正当应对的**伤害**或**系统性影响**的程度和可能性相称，并符合**第五章**中的[比例原则](../../core_05.035_band_accountability.md#proportionality)。
 
 **分类下限。**任何系统的治理级别都不得低于其最高适用分类所要求的级别。较低的行政标签不得降低最高适用风险、依赖性、权利或系统影响分类所要求的审查程度。
 
@@ -366,13 +366,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [安全（宪法约束）](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [尊严与平等道德地位](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [残酷](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [伤害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [不可逆伤害](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [尊严与平等道德地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [残酷](../../core_05.035_band_accountability.md#cruelty) · [O](../../core_05.035_band_accountability.md#cruelty) · [M](../../core_05.035_band_accountability.md#cruelty-a) · [A](../../core_05.035_band_accountability.md#cruelty-a) · [C](../../core_05.035_band_accountability.md#cruelty-c)
+- [伤害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [不可逆伤害](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例原则](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -388,7 +388,7 @@ flowchart TB
 
 ###### 尊严原则
 
-**尊严原则**包括以下两个原则：[权利底线最低保障原则](#权利底线最低保障原则)和[禁止贬损性程序原则](#禁止贬损性程序原则)。二者共同将[尊严与平等道德地位](core_05_band_participation.md#dignity-and-equal-moral-standing)落实为绝对底线：任何有感知能力的存在者都不得被永久剥夺什么，以及任何程序都不得如何对待任何有感知能力的存在者。最低生存资源获取权以及核心质疑、复核和上诉权属于尊严原则，因为这些是将某人视为其地位应受重视者的最低条件。平等地位本身，以及不得否认该地位的依据，载于[第 VI-A 条](core_06_rights_part_b.md#第-vi-a-条尊严与平等道德地位)（*尊严与平等道德地位*）。
+**尊严原则**包括以下两个原则：[权利底线最低保障原则](#权利底线最低保障原则)和[禁止贬损性程序原则](#禁止贬损性程序原则)。二者共同将[尊严与平等道德地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing)落实为绝对底线：任何有感知能力的存在者都不得被永久剥夺什么，以及任何程序都不得如何对待任何有感知能力的存在者。最低生存资源获取权以及核心质疑、复核和上诉权属于尊严原则，因为这些是将某人视为其地位应受重视者的最低条件。平等地位本身，以及不得否认该地位的依据，载于[第 VI-A 条](core_06_rights_part_b.md#第-vi-a-条尊严与平等道德地位)（*尊严与平等道德地位*）。
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -397,7 +397,7 @@ flowchart TB
 本原则以下列方式保护权利底线：
 
 - 任何宪法程序、措施、过渡、修正案、地位后果、紧急行动或司法相关结果，均不得永久剥夺或放弃**权利底线的最低保障**：即[第 VI-A 条](core_06_rights_part_b.md#第-vi-a-条尊严与平等道德地位)（*尊严与平等道德地位*）和[禁止贬损性程序原则](#禁止贬损性程序原则)所规定的基本尊严保障、最低生存资源获取权，或核心质疑、复核和上诉权。
-- 只有在符合[最小限制、限时且可复核的约束原则](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)以及[第十二章 §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden)紧急规则（*紧急措施与继续实施的举证责任*）时，才可暂时限制特定权利——也就是说，任何限制都必须有正当理由、限于最低程度、形成记录、设定期限并接受独立复核。具体条款可以增设更强保障，但不得缩小本原则范围，也不得借便利、效率、分类、紧急状态、过渡、地位、修正案、合同或实施等名目规避本原则。
+- 只有在符合[最小限制、限时且可复核的约束原则](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)以及[第十二章 §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)紧急规则（*紧急措施与继续实施的举证责任*）时，才可暂时限制特定权利——也就是说，任何限制都必须有正当理由、限于最低程度、形成记录、设定期限并接受独立复核。具体条款可以增设更强保障，但不得缩小本原则范围，也不得借便利、效率、分类、紧急状态、过渡、地位、修正案、合同或实施等名目规避本原则。
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -406,7 +406,9 @@ flowchart TB
 A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_principles.md#33-防止贬损的程序)在这套权衡框架中构成绝对底线。
 - 任何通过必要性、减害和比例性审查的限制、补救或程序，都不得被设计、表述、实施或放任为贬损、羞辱、作秀、报复、歧视性施加负担或为图便利而侵蚀权利。
 - 即使实体结果正确，只要通过贬损性程序达成，仍不合规。
-- 如果被禁止的性质是将痛苦本身作为目的，或无端/以贬损方式施加痛苦——包括为羞辱而羞辱——应结合[残酷](core_05_band_accountability.md#cruelty)一并阅读。
+- 如果被禁止的性质是将痛苦本身作为目的，或无端/以贬损方式施加痛苦——包括为羞辱而羞辱——应结合[残酷](../../core_05.035_band_accountability.md#cruelty)一并阅读。
+
+<a id="1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
 
 ##### 13.1.5 最小限制、限时且可复核的约束原则
 
@@ -414,7 +416,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 <summary><strong><span style="color: #2563eb;">关联依据</span></strong></summary>
 
 - 与以下内容一并阅读：[宪法四元框架](core_00_preamble.md#constitutional-tetrad)——四个维度均适用：**监督**（限制持续接受独立复核；证据予以保存，且在宪法冲突待决期间，独立审查者仍可访问）；**问责**（有记录且可审计的宪法冲突记录载明规则、备选方案、证据及选择依据）；**参与**（受影响方能够理解、质疑并重构决定，并获知哪些事项被冻结）；**及时性**（除非更严格的权利底线规则另有规定，限制均属临时措施，并规定期限或复核频率及恢复途径，待决的宪法冲突按适用时限处理）；按[重大利益](core_00_preamble.md#material-stake)调整审查尺度（严重性、不可逆性、依赖集中度和不确定性越高，举证责任越重）。
-- 后续适用：[第 XXV-B 条：权利冲突程序与恢复性协调](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)（各论坛适用此项决策测试）；[第 XXV-C 条：及时解决与反拖延底线](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)；[第十二章 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*及时解决、实质性分级与反拖延纪律*）。
+- 后续适用：[第 XXV-B 条：权利冲突程序与恢复性协调](core_06_rights_part_e.md)（各论坛适用此项决策测试）；[第 XXV-C 条：及时解决与反拖延底线](core_06_rights_part_e.md)；[第十二章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*及时解决、实质性分级与反拖延纪律*）。
 
 </details>
 
@@ -445,7 +447,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - **选择依据：** 所选方案为何符合必要性、伤害最小化、比例适当性、宪法底线和限制最小的形式，而不只是声称其符合。
 - **审查触发条件：** 根据[§13.1.5 限制最小、期限明确且可审查的限制原则](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)设定的期限、重新评估周期或撤销条件。
 
-冲突记录纳入解决宪法冲突之行为的[行为记录](core_05_band_accountability.md#materially-binding-act-record)；只要这些要素仍可识别、相互关联、带有版本记录、得到保存且可以访问，就无需另行重复建立独立记录。
+冲突记录纳入解决宪法冲突之行为的[行为记录](../../core_05.035_band_accountability.md#materially-binding-act-record)；只要这些要素仍可识别、相互关联、带有版本记录、得到保存且可以访问，就无需另行重复建立独立记录。
 
 举证责任随预期伤害的严重程度、不可逆性、依赖关系的集中程度和不确定性而提高。风险较高的限制需要更有力的证据和独立审查。在本规范适用时，仅凭便利、制度惰性或优化偏好，不足以成为限制权利的正当理由。
 
@@ -457,7 +459,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - **保存证据：** 不得通过删除、泄露或不可逆发布使宪法冲突失去实际意义。
 - **冻结不可逆步骤**，以免冲突中的某一种解释因此无法继续适用——如果某一步无法撤销，且会终结宪法冲突、使一方立场失去实际意义，或在解释问题解决前制造胜方，就不得采取。
 - **继续采取可逆且经同意的步骤**，以保留两种解释的适用可能——在获得同意时，也包括依照[受安全约束的可观察性](core_04_burden_traceability_verification.md#4-受安全约束的可观察性与核验规则)向独立审查者开放访问。
-- **通知**受影响方和解释程序：哪些事项被冻结、哪些事项继续，以及适用的时限（争议提交论坛处理时，适用[第十二章 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*及时解决、重要性等级与反拖延规范*）规定的分级时限和最长期限）。
+- **通知**受影响方和解释程序：哪些事项被冻结、哪些事项继续，以及适用的时限（争议提交论坛处理时，适用[第十二章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*及时解决、重要性等级与反拖延规范*）规定的分级时限和最长期限）。
 
 这种临时处置方式不裁定哪一方正确。冻结无法撤销的事项，以免排除任何一种解释；[§13 宪法冲突解决程序](#13-宪法冲突解决程序)仍须对宪法冲突作出回答。[§13.1.5 限制最小、期限明确且可审查的限制原则](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)说明了原因：可逆且经同意的步骤保留两种解释；不可逆步骤则不会。
 
@@ -479,12 +481,12 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 
 - [认知完整性](core_05_band_oversight.md#认识完整性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [真实（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [信任](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [隐私（信息）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
+- [信任](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [隐私（信息）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
 - [重要性](core_05_band_oversight.md#实质性) · [O](core_05_band_oversight.md#实质性) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [可预见性](core_05_band_oversight.md#可预见性) · [O](core_05_band_oversight.md#可预见性) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -505,14 +507,14 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
   - 机构利益。
 - **延迟披露**和**有限披露**——仅在以下条件均满足时允许：
   - 符合[§13.2.1 维护认知完整性](#1321-维护认知完整性)的条件；
-  - 满足[必要性](core_05_band_accountability.md#necessity)与[比例性](core_05_band_accountability.md#proportionality)；且
+  - 满足[必要性](../../core_05.035_band_accountability.md#necessity)与[比例性](../../core_05.035_band_accountability.md#proportionality)；且
   - 尽可能维护[认知完整性](core_05_band_oversight.md#认识完整性)。
 - 根据[§13.2.3 隐私与信息自主决定](#1323-隐私与信息自决)采取的**隐私保护性披露限制**：
   - 仅可依照[限制程度最低、期限有限且可审查的限制原则](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)实施；
   - 隐私与透明度、审计、安全或问责发生冲突时，应按照[宪法冲突记录](core_05_band_integrative.md#宪法冲突记录collision-record)的要求解决宪法冲突；
   - 隐私不会自动处于从属地位。
 
-任何正当限制都必须维护[宪法四元组](core_00_preamble.md#constitutional-tetrad)的**监督**支柱，可通过受保护的记录（包括针对该限制本身的[宪法冲突记录](core_05_band_integrative.md#宪法冲突记录collision-record)）、独立审查、安全访问、删节、延迟发布或类似保障实现。不得**妨碍**知情的[质疑](core_05_band_accountability.md#contestability)或适用的**第六章**透明度、审计或审查义务，除非[§13.2.1 维护认知完整性](#1321-维护认知完整性)明确允许。
+任何正当限制都必须维护[宪法四元组](core_00_preamble.md#constitutional-tetrad)的**监督**支柱，可通过受保护的记录（包括针对该限制本身的[宪法冲突记录](core_05_band_integrative.md#宪法冲突记录collision-record)）、独立审查、安全访问、删节、延迟发布或类似保障实现。不得**妨碍**知情的[质疑](../../core_05.035_band_accountability.md#contestability)或适用的**第六章**透明度、审计或审查义务，除非[§13.2.1 维护认知完整性](#1321-维护认知完整性)明确允许。
 
 本节以及[第一章 §5.1 科学知情的探究与决策支持](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support)共同管辖对出版、数据访问、方法披露或复现材料设置的安全敏感型限制。此类限制**不得**成为压制不利证据、隐瞒安全缺陷或制造表面共识的手段。
 
@@ -536,8 +538,8 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - [真实（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [重要性](core_05_band_oversight.md#实质性) · [O](core_05_band_oversight.md#实质性) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [可预见性](core_05_band_oversight.md#可预见性) · [O](core_05_band_oversight.md#可预见性) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -568,7 +570,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [信任](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [信任](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
 - [真实（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [认知完整性](core_05_band_oversight.md#认识完整性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
@@ -586,7 +588,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 
 - 结合阅读：[宪法四元组](core_00_preamble.md#constitutional-tetrad) — **参与**支柱（隐私是自由表达与结社的基础）；**监督**支柱（对隐私的侵入本身必须可审计）；**问责**支柱（隐私与透明、审计、安全或问责发生冲突时，应根据有记录的宪法冲突记录解决宪法冲突，而不能将隐私视为从属）；按[重大利害](core_00_preamble.md#material-stake)程度衡量。
 - 上游：原则：[7. 自由（有界能动性）](core_01_a_values_principles.md#7-freedom-bounded-agency)、[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)，以及[§13.2 认知披露约束](#132-认知披露限制)。
-- 下游：[**Def.C3** 隐私（信息）——同级集群首项](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)，包括[隐私（信息）](core_05_band_continuity.md#privacy-informational)、[受保护的内部状态边界](core_05_band_continuity.md#protected-internal-state-boundary)和[监控边界](core_05_band_continuity.md#surveillance-boundary)。
+- 下游：[**Def.C3** 隐私（信息）——同级集群首项](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)，包括[隐私（信息）](../../core_05.040_band_continuity.md#privacy-informational)、[受保护的内部状态边界](../../core_05.040_band_continuity.md#protected-internal-state-boundary)和[监控边界](../../core_05.040_band_continuity.md#surveillance-boundary)。
 - 下游：[第 VII-A 条](core_06_rights_part_b.md#第-vii-a-条身体的自我所有权)（*身体自主权*）；[第 VII-B 条](core_06_rights_part_b.md#第-vii-b-条心智的自我所有权)（*心智自主权*）；[第 IX 条](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights)（*肖像、体验数据与发表权*）；[第 X-A 条](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵的自由*）；[第 XIV-A 条](core_06_rights_part_c.md#第十四条-a-款安全情报与秘密权力限制)（*安全、情报与隐蔽权力限制*）。
 - 结合阅读：[§13.1.5 限制最小、期限明确且可审查的约束原则](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)；隐私与透明、审计、安全或其他宪法利益冲突时，参见[宪法冲突记录](core_05_band_integrative.md#宪法冲突记录collision-record)。
 
@@ -595,12 +597,12 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [隐私（信息）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [受保护的内部状态边界](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [监控边界](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
-- [同意](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [相称性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [隐私（信息）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [受保护的内部状态边界](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [监控边界](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [同意](../../core_05.055_band_participation.md#consent) · [O](../../core_05.055_band_participation.md#consent) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [相称性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -618,7 +620,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 
 信息可用、可观察、曾经公开、由平台持有或在技术上可访问，并不会消灭隐私利益，也不能满足上述纪律。
 
-**与数据分类的整合。**这些纪律的操作层是**[CS-2 — 信息类型与处理](corpus_systems/cs_02_a_information_types_and_handling.md)**. 该系统将信息归入以下十一类中的一类或多类：环境与生存协调（**Type E**）、治理与运行来源（**Type G**）、公开的公共监督披露（**Type O**）、历史、关系与参与信息（**Type H**）、身份与归属（**Type I**）、神经认知与内部信息（**Type N**）、安全、安保与受限调查（**Type S**）、感知者在私人或共享状态下创作的作品（**Type Y**）以及发布后的作品（**Type W**）、商业许可下的作品（**Type U**）或转让的作品（**Type T**）。每类都有各自的默认访问规则和处理限制。大多数隐私处理涉及**Types H, I, N, S, and Y**；[信息隐私](core_05_band_continuity.md#privacy-informational)列明了各隐私类别与数据类型的对应关系。上述收集、保留和使用规则按适用分类中最严格者所要求的级别执行，而非采用笼统的基准。如果数据可能被重构、转换或汇总为更敏感的分类，则适用该更敏感分类的保护。错误分类、规避性结构安排或功能性绕开数据类型保护均违反本原则。
+**与数据分类的整合。**这些纪律的操作层是**[CS-2 — 信息类型与处理](../../corpus_systems/cs_06.305_information_types_and_handling.md)**. 该系统将信息归入以下十一类中的一类或多类：环境与生存协调（**Type E**）、治理与运行来源（**Type G**）、公开的公共监督披露（**Type O**）、历史、关系与参与信息（**Type H**）、身份与归属（**Type I**）、神经认知与内部信息（**Type N**）、安全、安保与受限调查（**Type S**）、感知者在私人或共享状态下创作的作品（**Type Y**）以及发布后的作品（**Type W**）、商业许可下的作品（**Type U**）或转让的作品（**Type T**）。每类都有各自的默认访问规则和处理限制。大多数隐私处理涉及**Types H, I, N, S, and Y**；[信息隐私](../../core_05.040_band_continuity.md#privacy-informational)列明了各隐私类别与数据类型的对应关系。上述收集、保留和使用规则按适用分类中最严格者所要求的级别执行，而非采用笼统的基准。如果数据可能被重构、转换或汇总为更敏感的分类，则适用该更敏感分类的保护。错误分类、规避性结构安排或功能性绕开数据类型保护均违反本原则。
 
 **监控与监察。**对有实质影响的感知主体能动性、结社或表达的监控、观察、日志记录和推断系统，必须遵守[**限制最小、期限明确且可审查的约束原则**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。若较温和的方法可行，监控不得不加区分、秘密进行、无限期持续，也不得成为使用感知主体所依赖系统的条件。如果监控使感知主体不愿发言、集会，或以其他方式行使本宪法保护的自由，则不允许进行。
 
@@ -671,7 +673,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 <summary><strong><span style="color: #2563eb;">追踪</span></strong></summary>
 
 - 上游： [§13.1 核心权衡原则](#131-核心权衡原则)（权衡次序满足后适用）；[§17 后果导向的治理](core_01_c_stewardship_capacity_principles.md#17-后果导向的治理治理者的角色)；[§9.2 宪法效率](core_01_a_values_principles.md#92-宪法效率)。
-- 配套阅读：宪法绩效衡量系列（*作为宪法衡量的可避免负担*）；[宪法四元结构](core_00_preamble.md#constitutional-tetrad)——**参与**支柱（宪法并不要求的负担会缩小[实质自主能力](core_05_band_participation.md#meaningful-agency)）；**及时性**支柱（可避免的延误就是可避免负担）；**监督**和**问责**支柱（声称宪法要求的负担必须符合第四章的证据和可追溯性要求，以便核查和质疑）；按[重大利益](core_00_preamble.md#material-stake)调整尺度。
+- 配套阅读：宪法绩效衡量系列（*作为宪法衡量的可避免负担*）；[宪法四元结构](core_00_preamble.md#constitutional-tetrad)——**参与**支柱（宪法并不要求的负担会缩小[实质自主能力](../../core_05.055_band_participation.md#meaningful-agency)）；**及时性**支柱（可避免的延误就是可避免负担）；**监督**和**问责**支柱（声称宪法要求的负担必须符合第四章的证据和可追溯性要求，以便核查和质疑）；按[重大利益](core_00_preamble.md#material-stake)调整尺度。
 - 下游：[§19.1.3 治理者与运营者的应用](core_01_c_stewardship_capacity_principles.md#1913-对监管者与操作人员的适用)（激励不得奖励制造不必要的负担）；[第二十二条：可理解性与复杂性治理](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)。
 
 </details>
@@ -679,10 +681,10 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [可避免负担](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [安全（宪法约束）](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [可避免负担](../../core_05.040_band_continuity.md#avoidable-burden) · [O](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [A](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [比例原则](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [真相（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -707,6 +709,8 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 声称某项负担为宪法所要求，必须满足**第四章**的证据和可追溯性要求。便利、机构惯性、传统或偏好本身，不足以维持与宪法结果没有可核查联系的负担；这与[宪法冲突记录](core_05_band_integrative.md#宪法冲突记录collision-record)的要求一致。
 
 当激励结构影响治理者或运营者时，本节强化[§19.1.3 治理者与运营者的应用](core_01_c_stewardship_capacity_principles.md#1913-对监管者与操作人员的适用)。治理激励不得奖励制造不必要的负担，正如它们不得奖励单纯的原始吞吐量一样。
+<a id="14-prohibition-on-absolute-override"></a>
+
 ### 14. 禁止绝对凌驾
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
@@ -723,10 +727,10 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 - [重大性](core_05_band_oversight.md#实质性) · [O](core_05_band_oversight.md#实质性) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [伤害最小化（权衡选择）](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [伤害最小化（权衡选择）](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
 - [代理指标偏离](core_05_band_oversight.md#代理指标偏离) · [O](core_05_band_oversight.md#代理指标偏离) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
@@ -740,6 +744,8 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - 不得以安全为由，为无限期或不受限制的限制辩护
 - 不得通过虚假陈述维持信任
 - 不得以造成系统性伤害的方式行使自由
+<a id="15-constitutional-interpretation"></a>
+
 ### 15. 宪法解释
 <details>
 <summary><strong><span style="color: #2563eb;">追溯关系</span></strong></summary>
@@ -748,9 +754,9 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - 下游：[§15.1 宪法禁止规避原则](#151-constitutional-no-bypass-principle)（[§15.1.1](#1511-反拆分原则)）、[§15.2 定义层与必要的专业规范](#152-定义层与必要规范)、[§15.3 歧义消解](#153-歧义的解决)、[§15.4 宪法意义冲突解决](#154-宪法含义冲突的解决)（[§15.4.1](#1541-综合解读) · [§15.4.2](#1542-最后手段内部层级) · [§15.4.3](#1543-纳入层) · [§15.4.4](#1544-共同适用的纳入义务的合并履行)）；从[3. 基础目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)到[20. 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)；宪法冲突程序参见[13. 宪法冲突解决程序](#13-宪法冲突解决程序)；[第六章：基础权利](core_06_rights_part_a.md#第六章基础权利)规定不得缩减的默认规则。
 - 配合阅读：[第二至第四章](core_02_definition_structure.md)和[第五章](core_05__definitions_home.md#第五章基础定义)——本章每个术语的解释与证据层。
 - 配合阅读：[宪法四元框架](core_00_preamble.md#constitutional-tetrad)和[宪法的两个目标](core_00_preamble.md#two-constitutional-aims)——综合价值框架的解释背景；在具有实质相关性时，按[实质利害](core_00_preamble.md#material-stake)确定比例要求。
-- 配合阅读：[权威层级与内部位阶](core_05_band_integrative.md#权威栈与内部层级)（*来源层级状态*）；[第十七章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)（*保管、版本、采纳框架——并非第二个冲突顺序依据*）；[第十四章](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity)和[第十五章](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders)（*[§15.4 宪法意义冲突解决](#154-宪法含义冲突的解决)项下的不倒退与采纳者层级门槛*）。
+- 配合阅读：[权威层级与内部位阶](core_05_band_integrative.md#权威栈与内部层级)（*来源层级状态*）；[第十七章](../../core_18.000_incorporation.md)（*保管、版本、采纳框架——并非第二个冲突顺序依据*）；[第十四章](core_13_non_regression.md)和[第十五章](../../core_16.000_expansion_supremacy.md)（*[§15.4 宪法意义冲突解决](#154-宪法含义冲突的解决)项下的不倒退与采纳者层级门槛*）。
 - 配合阅读：[第二十四条：宪法解释、审查与防俘获保障](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)，了解机构解释保障（不能替代本节）。
-- 配合阅读：[第七章：职能独立与职责分离](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)——席位架构的底线；[§15.1 宪法禁止规避原则](#151-constitutional-no-bypass-principle)的禁止规避清单保护这一底线（此处不再重述）。
+- 配合阅读：[第七章：职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md)——席位架构的底线；[§15.1 宪法禁止规避原则](#151-constitutional-no-bypass-principle)的禁止规避清单保护这一底线（此处不再重述）。
 
 </details>
 
@@ -759,8 +765,8 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 
 - [语料库](core_05_band_integrative.md#文本库) · [O](core_05_band_integrative.md#文本库) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
 - [权威层级与内部位阶](core_05_band_integrative.md#权威栈与内部层级) · [O](core_05_band_integrative.md#权威栈与内部层级) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [比例原则](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 </details>
 
@@ -770,12 +776,14 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 
 本章每项原则都与[宪法四元框架](core_00_preamble.md#constitutional-tetrad)和[宪法的两个目标](core_00_preamble.md#two-constitutional-aims)一并适用；这两者由[序言第1节“模型”](core_00_preamble.md#the-model)确立。如果某节实质涉及四元框架的某一支柱或某个目标，其追溯关系会说明涉及哪一项，以及其义务是否随[实质利害](core_00_preamble.md#material-stake)按比例扩大。
 
+<a id="151-constitutional-no-bypass-principle"></a>
+
 #### 15.1 宪法禁止规避原则
 
 <details>
 <summary><strong><span style="color: #2563eb;">追溯关系</span></strong></summary>
 
-- 配合阅读：[宪法四元框架](core_00_preamble.md#constitutional-tetrad)——禁止规避清单对应四个支柱：**监督**支柱（常规审查与可审计性）；**参与**支柱（可争议性、实际可及性与公共理由义务）；**及时性**支柱（及时解决以及恢复和回滚路径）；**问责**支柱（问责本身，以及[第七章](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)规定的职能独立与职责分离）；按[实质利害](core_00_preamble.md#material-stake)确定比例要求。
+- 配合阅读：[宪法四元框架](core_00_preamble.md#constitutional-tetrad)——禁止规避清单对应四个支柱：**监督**支柱（常规审查与可审计性）；**参与**支柱（可争议性、实际可及性与公共理由义务）；**及时性**支柱（及时解决以及恢复和回滚路径）；**问责**支柱（问责本身，以及[第七章](core_07_functional_independence_segregation_of_duties.md)规定的职能独立与职责分离）；按[实质利害](core_00_preamble.md#material-stake)确定比例要求。
 - 下游：[§15.1.1 反分割原则](#1511-反拆分原则)；[§15.1.2 衍生信息原则](#1512-派生信息原则)。
 
 </details>
@@ -784,7 +792,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
 - [禁止规避](core_05_band_integrative.md#宪法要求不得绕过no-bypass) · [O](core_05_band_integrative.md#宪法要求不得绕过no-bypass) · [M](core_05_band_integrative.md#no-bypass-a) · [A](core_05_band_integrative.md#no-bypass-a) · [C](core_05_band_integrative.md#no-bypass-c)
-- [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [可审计性](core_05_band_oversight.md#可审计性) · [O](core_05_band_oversight.md#可审计性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -822,7 +830,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - 实际可及性；
 - 及时解决；
 - 恢复和回滚路径；
-- 职能独立与职责分离（[第七章](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)）；或
+- 职能独立与职责分离（[第七章](core_07_functional_independence_segregation_of_duties.md)）；或
 - 问责。
 
 经采纳的实施层可以细化这些保障，但不得缩小其范围。
@@ -846,7 +854,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - 创设、扩展或缩小第六章任何权利底线条款；或
 - 取代定义簇自身关于其涵盖哪些分区和受保护义务的说明。定义簇会在**反规避**项下说明这些内容，并引用本节作为规则依据。
 
-在联合援引的定义簇适用时，整体系统评估必须依照[第八章 §3 整体系统认证评估](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)检验是否存在拆分规避，然后分类、治理或合规主张才能成立。本节与[第三章 §2.1 常见规避模式](core_03_definition_integrity.md#21-常见规避模式)和[§2.2 还原式规避](core_03_definition_integrity.md#22-缩减性规避)共同适用。
+在联合援引的定义簇适用时，整体系统评估必须依照[第八章 §3 整体系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)检验是否存在拆分规避，然后分类、治理或合规主张才能成立。本节与[第三章 §2.1 常见规避模式](core_03_definition_integrity.md#21-常见规避模式)和[§2.2 还原式规避](core_03_definition_integrity.md#22-缩减性规避)共同适用。
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 派生信息原则
@@ -855,7 +863,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 
 - 结合阅读：[宪法四元原则](core_00_preamble.md#constitutional-tetrad)——**参与**支柱（隐私支撑自主行动和表达，而从组合数据中重建信息会损害这些能力）；**问责**支柱（依赖去标识化或汇总标签的一方须证明其确实符合该标签）；按[重大利害关系](core_00_preamble.md#material-stake)调整尺度。
 - 上游：[§15.1 宪法禁止规避原则](#151-constitutional-no-bypass-principle)；[§15.1.1 反拆分原则](#1511-反拆分原则)。
-- 下游：[§13.2.3 隐私与信息自决](#1323-隐私与信息自决)；[CS-2 — 信息类型与处理](corpus_systems/cs_02_a_information_types_and_handling.md)。
+- 下游：[§13.2.3 隐私与信息自决](#1323-隐私与信息自决)；[CS-2 — 信息类型与处理](../../corpus_systems/cs_06.305_information_types_and_handling.md)。
 
 </details>
 
@@ -863,8 +871,8 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
 - [派生信息](core_05_band_integrative.md#派生信息) · [O](core_05_band_integrative.md#派生信息) · [M](core_05_band_integrative.md#derived-information-a) · [A](core_05_band_integrative.md#derived-information-a) · [C](core_05_band_integrative.md#derived-information-c)
-- [隐私（信息）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [受保护的内部状态边界](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [隐私（信息）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [受保护的内部状态边界](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -882,22 +890,22 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 缺乏意图不会使受本原则涵盖的派生信息脱离其适用范围。测试尺度应根据[重大利害关系](core_00_preamble.md#material-stake)以及可能被揭示内容的敏感程度调整。
 
 **后果：**
-- 派生过程必须遵守收集其所揭示内容时适用的规范，包括依据[§13.2.3 隐私与信息自决](#1323-隐私与信息自决)取得同意或充分授权、符合必要性、比例性和最小化要求；对于内部状态，还须遵守[受保护的内部状态边界](core_05_band_continuity.md#protected-internal-state-boundary)。
+- 派生过程必须遵守收集其所揭示内容时适用的规范，包括依据[§13.2.3 隐私与信息自决](#1323-隐私与信息自决)取得同意或充分授权、符合必要性、比例性和最小化要求；对于内部状态，还须遵守[受保护的内部状态边界](../../core_05.040_band_continuity.md#protected-internal-state-boundary)。
 - 只要重新识别或重建仍有合理可能，去标识化、汇总、汇集以及类似标签就不会终止这些义务。依赖此类标签的一方必须证明上述行为不可能发生。
 - 如果将派生过程拆分到不同系统、行为者或时间段，使每一步都通过，而整体却揭示受保护结果，则适用[§15.1.1 反拆分原则](#1511-反拆分原则)。
 
 本原则不会：
 - 适用于普通汇总数据，例如匿名流量总量，只要这些数据不揭示任何受保护内容，也无法被合理用于重新识别任何人或重建任何受保护内容；
 - 创设、扩展或缩小第六章任何权利底线条款；或
-- 取代[CS-2 — 信息类型与处理](corpus_systems/cs_02_a_information_types_and_handling.md)中的数据类型规则；本原则依照这些规则适用。
+- 取代[CS-2 — 信息类型与处理](../../corpus_systems/cs_06.305_information_types_and_handling.md)中的数据类型规则；本原则依照这些规则适用。
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 定义层与必要规范
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [按分类分级的治理](core_05_band_oversight.md#按分类分级的治理) · [O](core_05_band_oversight.md#按分类分级的治理) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 
 </details>
@@ -937,7 +945,7 @@ flowchart TB
     style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
-*定义使第一章的原则和第六章的权利更加明确；第二至第四章规定这些定义的结构、完整性与验证。两个层级都不与第一章竞争——明确性与可检验性服务于原则，而非取代原则。转载自[概念概览](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions)。*
+*定义使第一章的原则和第六章的权利更加明确；第二至第四章规定这些定义的结构、完整性与验证。两个层级都不与第一章竞争——明确性与可检验性服务于原则，而非取代原则。转载自[概念概览](../../guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions)。*
 
 脱离**第二章至第五章**所确立的定义与评估约束，任何对第一章的解释都不成立。每项应用还必须维护并实施以下要求：
 - **比例性**、**必要性**与**系统性评估**
@@ -952,10 +960,10 @@ flowchart TB
 
 - [抽象严格性](core_05_band_integrative.md#抽象严苛性abstract-strictness) · [O](core_05_band_integrative.md#抽象严苛性abstract-strictness) · [M](core_05_band_integrative.md#abstract-strictness-a) · [A](core_05_band_integrative.md#abstract-strictness-a) · [C](core_05_band_integrative.md#abstract-strictness-c)
 - [最充分的保护效果](core_05_band_integrative.md#最大保护效果fullest-protective-effect) · [O](core_05_band_integrative.md#最大保护效果fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
-- [福祉](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [不可逆伤害](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [福祉](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [不可逆伤害](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 - [真实（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [有意义的自主性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [有意义的自主性](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -990,7 +998,7 @@ flowchart TB
   - 有约束力的宪法来源（整合后的 `core_*` 文书）内部；以及
   - 纳入层，其中纳入文本依照[最充分的保护效果](core_05_band_integrative.md#最大保护效果fullest-protective-effect)选定。
 - 来源层级状态依照第五章中的[权限栈与内部层级](core_05_band_integrative.md#权威栈与内部层级)确定。
-- [第十七章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)规定保管、版本锁定和采纳框架。它**不**重述本程序。
+- [第十七章](../../core_18.000_incorporation.md)规定保管、版本锁定和采纳框架。它**不**重述本程序。
 - 对于运行中的**宪法冲突**——而非文本层级优先顺序——适用**[§13 宪法冲突解决程序](#13-宪法冲突解决程序)**。
 
 **操作顺序。** 按照以下**顺序**适用：
@@ -1021,7 +1029,7 @@ flowchart TB
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 纳入层
 
-在按照**§15.4.1**（*综合解读*）和**§15.4.2**（*最后手段内部层级*）完成宪法解读后，适用已采纳实施文本中的**指定义务**——即采纳行为实际使其生效的具名操作职责。仅在依照**[第十七章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**所规定的**有效采纳与纳入范围**内适用这些职责（由谁保管记录、固定哪个版本，以及如何表述采纳）。
+在按照**§15.4.1**（*综合解读*）和**§15.4.2**（*最后手段内部层级*）完成宪法解读后，适用已采纳实施文本中的**指定义务**——即采纳行为实际使其生效的具名操作职责。仅在依照**[第十七章](../../core_18.000_incorporation.md)**所规定的**有效采纳与纳入范围**内适用这些职责（由谁保管记录、固定哪个版本，以及如何表述采纳）。
 
 以下规则根据[最充分保护效果](core_05_band_integrative.md#最大保护效果fullest-protective-effect)在纳入的文本中作出选择；这与**[§15.3 歧义消解](#153-歧义的解决)**中歧义规则使用的标准相同。绝不根据[抽象严苛性](core_05_band_integrative.md#抽象严苛性abstract-strictness)作出选择。
 
@@ -1035,7 +1043,7 @@ flowchart TB
   - 这**不是**通过[抽象严苛性](core_05_band_integrative.md#抽象严苛性abstract-strictness)来消解实质性宪法歧义。
 - **跨文件最充分保护效果：**如果两个或多个已采纳的实施文件对同一具有实质范围的风险设定不同标准，则具有[最充分保护效果](core_05_band_integrative.md#最大保护效果fullest-protective-effect)的明确采纳规则具有支配效力，并应符合上述两项规则。
   - 来源层状态仍由[权限栈与内部层级](core_05_band_integrative.md#权威栈与内部层级)支配。
-  - 保管、版本和采纳表述仍由**[第十七章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**支配。
+  - 保管、版本和采纳表述仍由**[第十七章](../../core_18.000_incorporation.md)**支配。
   - 如果被引用的配置文件与被引用的实施标签似乎就该风险发生冲突，也适用同一规则。
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1052,10 +1060,10 @@ flowchart TB
 *简单来说：当一种情形涉及多个纳入的操作指南文件时——或者当你的采纳文件使这些联合结构职责生效时——即使一个文件做得很好，只要同一事实下另一个实质职责仍未履行，就不算合规。*
 
 本小节的合并履行规则针对的是**多个操作指南文件**适用于同一事实的情况。它不同于：
-- 纳入的联合结构文本中某个**单一**操作簇的规则：只完成该簇的一部分不算合规——参见**[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**（*操作簇*）；或
+- 纳入的联合结构文本中某个**单一**操作簇的规则：只完成该簇的一部分不算合规——参见**[CJS-1.14](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)**（*操作簇*）；或
 - 第五章关于**依赖簇**定义必须一并满足的规则——参见**[第五章 §2.1 联合援引与满足](core_05__definitions_home.md#21-联合调用与满足)**。
 
-**本小节的适用情形。**在以下任一情形中，这些规则均适用于依照**[第十七章](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**的有效采纳与纳入范围：
+**本小节的适用情形。**在以下任一情形中，这些规则均适用于依照**[第十七章](../../core_18.000_incorporation.md)**的有效采纳与纳入范围：
 
 1. **一种情形，多个文件：**事实要求适用多个纳入的实施文件——例如系统、机构、论坛或联合结构文本。适用哪些文件由采纳范围以及这些文件针对相关事实提供的主题路由决定，而不是只选择最容易满足的文件。
 2. **采纳使联合结构文件集生效：**采纳文书将指定的联合结构实施文本（**CJS**文件夹及采纳链中列出的其他联合结构文件）适用于采纳者。
@@ -1069,7 +1077,7 @@ flowchart TB
   - 然后读**CI**（机构治理与保证）；
   - 然后读**CF**（第十二章论坛家族理论）；
 - 在上述顺序内，只阅读事实的主题路由所要求的内容；
-- 编辑和审计人员使用**[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)（*跨文件路由*）**查看权威行表；
+- 编辑和审计人员使用**[CJS-0.1](../../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing)（*跨文件路由*）**查看权威行表；
 - 本小节以及**§15.4.3**（*纳入层*）所述的合并履行规则和跨文件最充分保护效果规则仍然适用。
 
 仅当紧急缩减满足以下条件时，紧急情况才可缩减这些职责：

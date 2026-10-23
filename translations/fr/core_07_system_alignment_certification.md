@@ -14,10 +14,10 @@
 > | Partie | Fichier | Titulaire |
 > |------|------|------|
 > | **Partie A — Évaluation** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10 : objet, classe du système, évaluation du système entier (y compris la portée de Charte face aux limites fonctionnelles), accroches d’évaluation de domaine, parcours illustratifs par classe |
-> | **Partie B — Registre et processus** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16 : registre de certification (y compris les champs de la [Charte](core_05_band_continuity.md#charter) qui gouverne), transparence/contestabilité, rôles de forum, séquence de supervision, pont de trajectoire, réouverture — numérotation continue du chapitre depuis la Partie A §10 |
+> | **Partie B — Registre et processus** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16 : registre de certification (y compris les champs de la [Charte](../../core_05.040_band_continuity.md) qui gouverne), transparence/contestabilité, rôles de forum, séquence de supervision, pont de trajectoire, réouverture — numérotation continue du chapitre depuis la Partie A §10 |
 >
 > Les ancres héritées de l’ancien Chapitre sept en un seul fichier sont conservées sur les fichiers de la Partie A et de la Partie B. Les liens génériques au **Chapitre sept** dans d’autres fichiers sont acheminés à la partie appropriée par numéro de section.
-> La formation institutionnelle de la Charte, les champs minimaux et les devoirs d’examen périodique vivent dans [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** — le Chapitre sept consomme ces champs ; il ne les redéfinit pas.
+> La formation institutionnelle de la Charte, les champs minimaux et les devoirs d’examen périodique vivent dans [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** — le Chapitre sept consomme ces champs ; il ne les redéfinit pas.
 
 >
 > **Précédent (cette langue) :** [core_06_rights_part_d.md](core_06_rights_part_d.md)

@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제5장 나침반](core_05__definitions_home.md#제5장-나침반과-정의-지도); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); 원칙 층 풀이는 [전문 §1](core_00_preamble.md#flourishing).
-- 하류: 원칙: [§2 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 타협 불가 원칙 제약: 안전과 진실](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 신뢰](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 헌법 결과 주장 규율](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [헌법 목적 분해](#flourishing-aim-decomposition); [제5장 나침반](core_05__definitions_home.md#제5장-나침반과-정의-지도)에 따라 **번영**이 일차 목적인 사원(四元) 띠 파일.
+- 하류: 원칙: [§2 기초 목표: 복지](core_01_a_values_principles.md); [§3 타협 불가 원칙 제약: 안전과 진실](core_01_a_values_principles.md); [§4 신뢰](core_01_a_values_principles.md); [§11.1.5 헌법 결과 주장 규율](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [헌법 목적 분해](#flourishing-aim-decomposition); [제5장 나침반](core_05__definitions_home.md#제5장-나침반과-정의-지도)에 따라 **번영**이 일차 목적인 사원(四元) 띠 파일.
 - 함께 읽기: [복지](../../core_05.040_band_continuity.md#wellbeing), [안전(제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [진실(헌법 제약)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [신뢰성](../../core_05.040_band_continuity.md#trustworthiness), [의미 있는 행위주체성](../../core_05.055_band_participation.md#meaningful-agency), [대리지표 이탈](../../core_05.050_band_oversight.md#proxy-divergence), [체계 포획](../../core_05.040_band_continuity.md#system-capture), [연속 (헌법 목적)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (짝 목적 — 어느 쪽도 다른 쪽을 희생해 쫓으면 안 된다), [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad)을 [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기 조절 (이 목적의 정당성 틀 — 다섯 번째 구성 블록이 아님), 그리고 번영 측정 가족.
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) 아래, [실질 이해관계](core_00_preamble.md#material-stake)에 맞춰 세기를 조절해 판단하라.
-  - 주장된 번영 결과를 [구성](#flourishing-aim-decomposition) 조건과 감지자가 실제로 겪는 결과에 묶으라, 제4장과 [제1장 §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) 아래.
+  - 주장된 번영 결과를 [구성](#flourishing-aim-decomposition) 조건과 감지자가 실제로 겪는 결과에 묶으라, 제4장과 [제1장 §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) 아래.
   - 언제나 [연속 (헌법 목적)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)과 함께 읽으라: 긴 시계의 안정, 회복력, 또는 생태 완전성을 예견 가능하게 약화하는 단기 이득은, 두 목적을 함께 판단할 때 **번영**을 어긴다.
 <a id="flourishing-constitutional-c"></a>
 - C: 비준수일 때:
   - 한 구성 블록이 최대화되는 동안 진실, 안전, 신뢰성, 또는 행위주체성이 비워질 때;
   - 번영 주장을 제4장 아래 헌법 결과에 추적할 수 없을 때; 또는
-  - **번영**을 [제1장 §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) 아래 분명한 허가 없이 [연속 (헌법 목적)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)을 실질로 꺾는 방식으로 추구할 때.
+  - **번영**을 [제1장 §6](core_01_b_interaction_interpretation.md) 아래 분명한 허가 없이 [연속 (헌법 목적)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)을 실질로 꺾는 방식으로 추구할 때.
 
 ---
 

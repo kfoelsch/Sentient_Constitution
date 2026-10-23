@@ -12,10 +12,10 @@
 > | Kısım | Dosya | Sahiplenir |
 > |------|------|------|
 > | **A Kısmı — Değerlendirme** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: amaç, sistem sınıfı, bütün-sistem değerlendirmesi (Kapsam belgesi kapsamının işlevsel sınırlara karşı duruşu dahil), alan değerlendirme kancaları, örnek sınıf yürüyüşleri |
-> | **B Kısmı — Kayıt ve süreç** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: belgelendirme kaydı (yöneten [Kapsam belgesi](core_05_band_continuity.md#charter) alanları dahil), şeffaflık/itiraz edilebilirlik, forum rolleri, gözetim dizisi, güzergâh köprüsü, yeniden açma — A Kısmı §10'dan sürekli bölüm numaralandırması |
+> | **B Kısmı — Kayıt ve süreç** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: belgelendirme kaydı (yöneten [Kapsam belgesi](../../core_05.040_band_continuity.md) alanları dahil), şeffaflık/itiraz edilebilirlik, forum rolleri, gözetim dizisi, güzergâh köprüsü, yeniden açma — A Kısmı §10'dan sürekli bölüm numaralandırması |
 >
 > Eski tek-dosyalı Yedinci Bölümden gelen miras çıpaylar A Kısmı ve B Kısmı dosyalarında korunur. Başka dosyalardaki genel **Yedinci Bölüm** bağlantıları kesit numarasına göre uygun kısma yönlendirilir.
-> Kurumsal Kapsam belgesi oluşumu, asgari alanlar ve dönemsel-inceleme ödevleri [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6**da yaşar — Yedinci Bölüm o alanları tüketir; yeniden tanımlamaz.
+> Kurumsal Kapsam belgesi oluşumu, asgari alanlar ve dönemsel-inceleme ödevleri [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6**da yaşar — Yedinci Bölüm o alanları tüketir; yeniden tanımlamaz.
 
 >
 > **Önceki (bu dil):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

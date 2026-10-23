@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [অধ্যায় পাঁচ কম্পাস](core_05__definitions_home.md#অধযয-পচ-কমপস-ও-সজঞ-মনচতর); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) (অংশগ্রহণ পা; [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); প্রাথমিক উদ্দেশ্য [সমুন্নতি](core_00_preamble.md#flourishing)।
-- অধঃ: নীতি: [প্রস্তাবনা §1 মডেল](core_00_preamble.md#the-model); [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 সাংবিধানিক ফল দাবি শৃঙ্খলা](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ](../../core_05.055_band_participation.md#stakeholder-status-and-weight) যেখানে প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ স্তর প্রযোজ্য; [চতুষ্কের পার বিভাজন](#participation-tetrad-leg-decomposition); অংশগ্রহণ পটির পাতা সংজ্ঞা [core_05_band_participation.md](../../core_05.055_band_participation.md)-এ।
+- অধঃ: নীতি: [প্রস্তাবনা §1 মডেল](core_00_preamble.md#the-model); [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md); [§11.1.5 সাংবিধানিক ফল দাবি শৃঙ্খলা](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ](../../core_05.055_band_participation.md#stakeholder-status-and-weight) যেখানে প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ স্তর প্রযোজ্য; [চতুষ্কের পার বিভাজন](#participation-tetrad-leg-decomposition); অংশগ্রহণ পটির পাতা সংজ্ঞা [core_05_band_participation.md](../../core_05.055_band_participation.md)-এ।
 - সঙ্গে পড়ুন: [অর্থপূর্ণ কর্তৃত্ব](../../core_05.055_band_participation.md#meaningful-agency), [চ্যালেঞ্জ-যোগ্যতা](../../core_05.035_band_accountability.md#contestability) (অংশগ্রহণ/জবাবদিহি সীমানা), [প্রবেশযোগ্যতা](../../core_05.055_band_participation.md#accessibility), [সারবস্তুগত ন্যায্যতা](../../core_05.055_band_participation.md#substantive-fairness), [বাধ্যতামূলক প্রভাবিত-পক্ষ পছন্দ](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [সময়ানুবর্তিতা](core_05_apex_timeliness_leg.md#timeliness-constitutional) (সময়ানুবর্তী অংশগ্রহণ), [শ্রেণিবিন্যাস-স্কেল করা শাসন](../../core_05.050_band_oversight.md#classification-scaled-governance), এবং অংশগ্রহণ পরিমাপ পরিবার।
 
 </details>
@@ -61,7 +61,7 @@
     - [সারবস্তুগত ন্যায্যতা](../../core_05.055_band_participation.md#substantive-fairness);
     - [প্রভাবিত পক্ষের ওজন](../../core_05.055_band_participation.md#stakeholder-weight);
     - [ব্যবস্থা দখল](../../core_05.040_band_continuity.md#system-capture); এবং
-    - [অধ্যায় এক §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)।
+    - [অধ্যায় এক §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)।
 <a id="participation-constitutional-c"></a>
 - C: অ-অনুপালনকারী যখন:
   - কাঠামোগত বর্জন আছে;

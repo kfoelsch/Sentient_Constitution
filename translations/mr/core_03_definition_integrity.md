@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [अध्याय तीन, विभाग 2 — प्रेक्षणीय प्रणाली वर्तनातून अनुपालन-भंग](#2-परकषणय-परणल-वरतनतन-अनपलन-भग); [अध्याय दोन, §2 व्याख्या-सचोटी अपेक्षा](core_02_definition_structure.md#2-वयखय-सचट-अपकष).
-- पुढे: [अध्याय चार, विभाग 2 — व्याख्या माग-काढता येणे अपेक्षा](core_04_burden_traceability_verification.md#2-वयखय-मग-कढत-यण-अपकष); [अध्याय नऊ — प्रणाली-संरेखन प्रमाणन](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [अध्याय दहा — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय अकरा — प्रस्थिति परिणाम आणि एकीकरण](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 संवैधानिक दिशा-सूचक आणि समूह नकाशा](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- पुढे: [अध्याय चार, विभाग 2 — व्याख्या माग-काढता येणे अपेक्षा](core_04_burden_traceability_verification.md#2-वयखय-मग-कढत-यण-अपकष); [अध्याय नऊ — प्रणाली-संरेखन प्रमाणन](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [अध्याय दहा — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [अध्याय अकरा — प्रस्थिति परिणाम आणि एकीकरण](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 संवैधानिक दिशा-सूचक आणि समूह नकाशा](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - सोबत वाचा: [अनुपालन-भंग निष्कर्ष प्रोफाइल](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — प्रोफाइल क्षेत्रांसाठी प्रामाणिक O/M/A/C घर; [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 संक्रियात्मक बंधने
 
-संयुक्त अंमलबजावणी संग्रहातील संक्रियात्मक बंधनांविरुद्धही अनुपालन-भंग आढळू शकतो. पूर्वनिर्धारित निष्कर्ष प्रोफाइल आणि ते त्या निष्कर्षांशी कसे जोडले जातात तेथे हाताळले जाते — या अध्यायात नाही. पहा [CJS-3.1 संवैधानिक दिशा-सूचक आणि समूह नकाशा](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+संयुक्त अंमलबजावणी संग्रहातील संक्रियात्मक बंधनांविरुद्धही अनुपालन-भंग आढळू शकतो. पूर्वनिर्धारित निष्कर्ष प्रोफाइल आणि ते त्या निष्कर्षांशी कसे जोडले जातात तेथे हाताळले जाते — या अध्यायात नाही. पहा [CJS-3.1 संवैधानिक दिशा-सूचक आणि समूह नकाशा](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

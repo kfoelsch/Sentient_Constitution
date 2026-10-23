@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
 - ต้นทาง: [เข็มทิศของบทที่ห้า](core_05__definitions_home.md#เขมทศและแผนทบทนยามของบททหา); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); คำอธิบายชั้นหลักการที่ [คำปรารภ §1](core_00_preamble.md#flourishing)
-- ปลายทาง: หลักการ: [§2 วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 ข้อจำกัดหลักการที่ต่อรองไม่ได้: ความปลอดภัยและความจริง](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 ความไว้วางใจ](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 วินัยข้อกล่าวอ้างผลลัพธ์ทางรัฐธรรมนูญ](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [การแยกเป้าประสงค์ทางรัฐธรรมนูญ](#flourishing-aim-decomposition); ไฟล์แถบของจตุรภาคที่ **ความเจริญงอกงาม** เป็นเป้าประสงค์หลักตาม [เข็มทิศของบทที่ห้า](core_05__definitions_home.md#เขมทศและแผนทบทนยามของบททหา)
+- ปลายทาง: หลักการ: [§2 วัตถุประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md); [§3 ข้อจำกัดหลักการที่ต่อรองไม่ได้: ความปลอดภัยและความจริง](core_01_a_values_principles.md); [§4 ความไว้วางใจ](core_01_a_values_principles.md); [§11.1.5 วินัยข้อกล่าวอ้างผลลัพธ์ทางรัฐธรรมนูญ](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [การแยกเป้าประสงค์ทางรัฐธรรมนูญ](#flourishing-aim-decomposition); ไฟล์แถบของจตุรภาคที่ **ความเจริญงอกงาม** เป็นเป้าประสงค์หลักตาม [เข็มทิศของบทที่ห้า](core_05__definitions_home.md#เขมทศและแผนทบทนยามของบททหา)
 - อ่านคู่กับ: [ความผาสุก](../../core_05.040_band_continuity.md#wellbeing) [ความปลอดภัย (ข้อจำกัด)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) [ความจริง (ข้อจำกัดทางรัฐธรรมนูญ)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) [ความน่าไว้วางใจ](../../core_05.040_band_continuity.md#trustworthiness) [พลังกระทำการที่มีความหมาย](../../core_05.055_band_participation.md#meaningful-agency) [ความคลาดของตัวแทนวัด](../../core_05.050_band_oversight.md#proxy-divergence) [การยึดครองระบบ](../../core_05.040_band_continuity.md#system-capture) [ความต่อเนื่อง (เป้าประสงค์ทางรัฐธรรมนูญ)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (เป้าประสงค์คู่ — จะไล่ฝ่ายใดด้วยค่าของอีกฝ่ายไม่ได้) [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) ที่ปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake) (กรอบความชอบธรรมของเป้าประสงค์นี้ — ไม่ใช่บล็อกประกอบที่ห้า) และตระกูลการวัดความเจริญงอกงาม
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - ตัดสินภายใต้ [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) โดยปรับตาม [ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake)
-  - ผูกผลความเจริญงอกงามที่กล่าวอ้างกับเงื่อนไข [องค์ประกอบ](#flourishing-aim-decomposition) และกับผลลัพธ์ที่ผู้มีความรู้สึกประสบจริง ภายใต้บทที่สี่และ [บทที่หนึ่ง §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)
+  - ผูกผลความเจริญงอกงามที่กล่าวอ้างกับเงื่อนไข [องค์ประกอบ](#flourishing-aim-decomposition) และกับผลลัพธ์ที่ผู้มีความรู้สึกประสบจริง ภายใต้บทที่สี่และ [บทที่หนึ่ง §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)
   - อ่านเสมอคู่กับ [ความต่อเนื่อง (เป้าประสงค์ทางรัฐธรรมนูญ)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): กำไรระยะสั้นที่ทำให้เสถียรภาพ ความยืดหยุ่นคืนตัว หรือความครบถ้วนทางนิเวศระยะยาวอ่อนลงอย่างที่คาดได้ ทำให้ **ความเจริญงอกงาม** ล้ม เมื่อสองเป้าประสงค์ถูกตัดสินด้วยกัน
 <a id="flourishing-constitutional-c"></a>
 - C: ไม่ปฏิบัติตามเมื่อ:
   - บล็อกประกอบหนึ่งถูกทำให้สูงสุดขณะที่ความจริง ความปลอดภัย ความน่าไว้วางใจ หรือพลังกระทำการถูกทำให้กลวง;
   - ข้อกล่าวอ้างความเจริญงอกงามตามรอยไปถึงผลลัพธ์ทางรัฐธรรมนูญภายใต้บทที่สี่ไม่ได้; หรือ
-  - **ความเจริญงอกงาม** ถูกไล่ในทางที่ทำให้ [ความต่อเนื่อง (เป้าประสงค์ทางรัฐธรรมนูญ)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) พ่ายอย่างเป็นสาระ โดยไม่มีอนุญาตที่ชัดภายใต้ [บทที่หนึ่ง §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)
+  - **ความเจริญงอกงาม** ถูกไล่ในทางที่ทำให้ [ความต่อเนื่อง (เป้าประสงค์ทางรัฐธรรมนูญ)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) พ่ายอย่างเป็นสาระ โดยไม่มีอนุญาตที่ชัดภายใต้ [บทที่หนึ่ง §6](core_01_b_interaction_interpretation.md)
 
 ---
 

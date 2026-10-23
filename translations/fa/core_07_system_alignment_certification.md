@@ -12,10 +12,10 @@
 > | بخش | پرونده | مالک |
 > |------|------|------|
 > | **بخش الف — ارزیابی** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: مقصود، طبقهٔ نظام، ارزیابی کل‌نظام (از جمله گسترهٔ منشور در برابر مرزهای کارکردی)، قلاب‌های ارزیابی حوزه، پیمایش‌های توضیحی بر پایهٔ طبقه |
-> | **بخش ب — سابقه و فرایند** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: سابقهٔ گواهی (از جمله میدان‌های [منشور](core_05_band_continuity.md#charter) حاکم)، شفافیت/قابلیت اعتراض، نقش‌های مجمع، توالی نظارتی، پل ردپا، بازگشایی — شماره‌گذاری پیوستهٔ فصل از بخش الف §10 |
+> | **بخش ب — سابقه و فرایند** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: سابقهٔ گواهی (از جمله میدان‌های [منشور](../../core_05.040_band_continuity.md) حاکم)، شفافیت/قابلیت اعتراض، نقش‌های مجمع، توالی نظارتی، پل ردپا، بازگشایی — شماره‌گذاری پیوستهٔ فصل از بخش الف §10 |
 >
 > لنگرهای میراثی از فصل هفتم تک‌پروندهٔ پیشین روی پرونده‌های بخش الف و بخش ب حفظ شده‌اند. پیوندهای عام **فصل هفتم** در پرونده‌های دیگر بر پایهٔ شمارهٔ بخش به بخش مناسب مسیر می‌شوند.
-> شکل‌گیری نهادی منشور، میدان‌های کمینه، و تکالیف بازبینی دوره‌ای در [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** زندگی می‌کنند — فصل هفتم آن میدان‌ها را مصرف می‌کند؛ بازتعریف‌شان نمی‌کند.
+> شکل‌گیری نهادی منشور، میدان‌های کمینه، و تکالیف بازبینی دوره‌ای در [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** زندگی می‌کنند — فصل هفتم آن میدان‌ها را مصرف می‌کند؛ بازتعریف‌شان نمی‌کند.
 
 >
 > **قبلی (این زبان):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

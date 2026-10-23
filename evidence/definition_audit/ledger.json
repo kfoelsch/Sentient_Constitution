@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_run": "2026-10-19",
+  "last_run": "2026-10-22",
   "findings": [
     {
       "finding_id": "CJS-TRACE:0a82601d11fa",
@@ -505,6 +505,21 @@
       "line": 76
     },
     {
+      "finding_id": "IMPL-NON-REDEFINITION:36f80e229c9b",
+      "check": "IMPL-NON-REDEFINITION",
+      "term": "Dependency",
+      "current_layer": "corpus_systems/cs_14.305_critical_system_stewardship.md",
+      "expected_layer": "core_05.040_band_continuity.md",
+      "severity": "review",
+      "status": "open",
+      "action": "replace with pointer",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Possible competing definition prose for canonical term: - **It stewards a Class C system or dependency and meets at least one relationship indicator below:** this is the \"gated Class C\" case. It usually means the org",
+      "line": 102
+    },
+    {
       "finding_id": "IMPL-NON-REDEFINITION:4cb86867841a",
       "check": "IMPL-NON-REDEFINITION",
       "term": "Transparency",
@@ -521,6 +536,36 @@
       "resolved_in": "2026-07-05"
     },
     {
+      "finding_id": "IMPL-NON-REDEFINITION:4f67c513e36c",
+      "check": "IMPL-NON-REDEFINITION",
+      "term": "System",
+      "current_layer": "corpus_systems/cs_14.305_critical_system_stewardship.md",
+      "expected_layer": "core_05.040_band_continuity.md",
+      "severity": "review",
+      "status": "open",
+      "action": "replace with pointer",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Possible competing definition prose for canonical term: - **It stewards a Class A or Class B system:** to steward a system means to operate, govern, recover, or hold material authority over it.",
+      "line": 100
+    },
+    {
+      "finding_id": "IMPL-NON-REDEFINITION:5cc8647cc0be",
+      "check": "IMPL-NON-REDEFINITION",
+      "term": "Sentient",
+      "current_layer": "corpus_institutions/ci_00.205_registry_and_reading_rules.md",
+      "expected_layer": "core_05.055_band_participation.md",
+      "severity": "review",
+      "status": "open",
+      "action": "replace with pointer",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Possible competing definition prose for canonical term: Apply **CJS-0.110 §1** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings",
+      "line": 68
+    },
+    {
       "finding_id": "IMPL-NON-REDEFINITION:80fade76411c",
       "check": "IMPL-NON-REDEFINITION",
       "term": "Sentient",
@@ -534,6 +579,36 @@
       "notes": "False positive (reviewed 2026-10-19): the sentence sets out how the layer's section labels are read and defines the abbreviation, not the term Sentient.",
       "message": "Possible competing definition prose for canonical term: Apply **CJS-1.1** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, headings use ",
       "line": 59
+    },
+    {
+      "finding_id": "IMPL-NON-REDEFINITION:8da526635067",
+      "check": "IMPL-NON-REDEFINITION",
+      "term": "Sentient",
+      "current_layer": "corpus_forum/cf_00.405_registry_and_reading_rules.md",
+      "expected_layer": "core_05.055_band_participation.md",
+      "severity": "review",
+      "status": "open",
+      "action": "replace with pointer",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Possible competing definition prose for canonical term: Apply **CJS-0.110 §1** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings u",
+      "line": 74
+    },
+    {
+      "finding_id": "IMPL-NON-REDEFINITION:9176e2a5d77e",
+      "check": "IMPL-NON-REDEFINITION",
+      "term": "Independence",
+      "current_layer": "corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md",
+      "expected_layer": "core_05.035_band_accountability.md",
+      "severity": "review",
+      "status": "open",
+      "action": "replace with pointer",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Possible competing definition prose for canonical term: *In plain terms: each institution must write down who does what when honesty or independence is at stake — not leave it implied. That means a published map of a",
+      "line": 100
     },
     {
       "finding_id": "IMPL-NON-REDEFINITION:cf8a673b234a",
@@ -806,6 +881,21 @@
       "resolved_in": "2026-07-05"
     },
     {
+      "finding_id": "IMPL-RELOCATION:24daeea80cb8",
+      "check": "IMPL-RELOCATION",
+      "term": "CI-11.215",
+      "current_layer": "corpus_institutions/ci_11.215_institutional_accountability_sanctions.md",
+      "expected_layer": "core_05 band file",
+      "severity": "review",
+      "status": "open",
+      "action": "escalate-to-Ch5",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Cross-layer relocation candidate (score=19; signals=joint-interface, routing-read-with, shared-procedure, dependency-failure, forum-system-touch): §2: Contraction order",
+      "line": 87
+    },
+    {
       "finding_id": "IMPL-RELOCATION:26103985ee0d",
       "check": "IMPL-RELOCATION",
       "term": "CI-9.4",
@@ -900,6 +990,21 @@
       "message": "Cross-layer relocation candidate (score=45; signals=joint-interface, multi-owner-routing, routing-read-with, shared-procedure, dependency-failure): Systems topic router (domain and CJS-R index)",
       "line": 15,
       "resolved_in": "2026-07-05"
+    },
+    {
+      "finding_id": "IMPL-RELOCATION:31b4ee81ac37",
+      "check": "IMPL-RELOCATION",
+      "term": "CI-11.205",
+      "current_layer": "corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md",
+      "expected_layer": "corpus_joint_structure/cjs_03*.md",
+      "severity": "review",
+      "status": "open",
+      "action": "split-or-pointer-to-CJS",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Cross-layer relocation candidate (score=16; signals=routing-read-with, dependency-failure, forum-system-touch): §5: Remedy parity and capacity-failure interface",
+      "line": 127
     },
     {
       "finding_id": "IMPL-RELOCATION:35057899058a",
@@ -1349,6 +1454,21 @@
       "resolved_in": "2026-07-05"
     },
     {
+      "finding_id": "IMPL-RELOCATION:834cdf95ee79",
+      "check": "IMPL-RELOCATION",
+      "term": "CI-14.205",
+      "current_layer": "corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md",
+      "expected_layer": "corpus_joint_structure/cjs_03*.md",
+      "severity": "review",
+      "status": "open",
+      "action": "split-or-pointer-to-CJS",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Cross-layer relocation candidate (score=21; signals=joint-interface, routing-read-with, shared-procedure, forum-system-touch): §5: Authorized roles and accountability chains",
+      "line": 181
+    },
+    {
       "finding_id": "IMPL-RELOCATION:83ba889a7146",
       "check": "IMPL-RELOCATION",
       "term": "CS-4",
@@ -1665,6 +1785,21 @@
       "message": "Cross-layer relocation candidate (score=13; signals=joint-interface, cjs-cluster, dependency-failure): External assurance triggers",
       "line": 81,
       "resolved_in": "2026-07-05"
+    },
+    {
+      "finding_id": "IMPL-RELOCATION:a47f46b1bcb1",
+      "check": "IMPL-RELOCATION",
+      "term": "CI-14.205",
+      "current_layer": "corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md",
+      "expected_layer": "corpus_joint_structure/cjs_03*.md",
+      "severity": "review",
+      "status": "open",
+      "action": "split-or-pointer-to-CJS",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Cross-layer relocation candidate (score=24; signals=joint-interface, routing-read-with, shared-procedure, dependency-failure, forum-system-touch): §7: Practice licence, practice clearance, and joint professional practice",
+      "line": 361
     },
     {
       "finding_id": "IMPL-RELOCATION:a8082fb33938",
@@ -2112,6 +2247,21 @@
       "message": "Cross-layer relocation candidate (score=17; signals=joint-interface, routing-read-with): Integrity safeguards, anti-capture operations, and anti-self-judging support",
       "line": 1,
       "resolved_in": "2026-07-05"
+    },
+    {
+      "finding_id": "IMPL-RELOCATION:e6ec399103db",
+      "check": "IMPL-RELOCATION",
+      "term": "CI-14.205",
+      "current_layer": "corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md",
+      "expected_layer": "core_05 band file",
+      "severity": "review",
+      "status": "open",
+      "action": "escalate-to-Ch5",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "notes": "",
+      "message": "Cross-layer relocation candidate (score=25; signals=joint-interface, routing-read-with, shared-procedure, forum-system-touch): §6: Seat catalog — process-role archetypes and operational boundaries",
+      "line": 226
     },
     {
       "finding_id": "IMPL-RELOCATION:e84b579ff787",

@@ -470,7 +470,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: [§3](#3-ఏ-వయవసథ-మరయ-ససథగత-చరటరల-తపపనసరగ-పరకనల); [చాప్టర్ ఎనిమిది §2 నాలుగు సీట్ల రాజ్యాంగ అంతస్తు](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- అప్‌స్ట్రీమ్: [§3](#3-ఏ-వయవసథ-మరయ-ససథగత-చరటరల-తపపనసరగ-పరకనల); [చాప్టర్ ఎనిమిది §2 నాలుగు సీట్ల రాజ్యాంగ అంతస్తు](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - దిగువ:
   - [చాప్టర్ ఎనిమిది §5 ప్రచురించబడిన ప్లేస్‌మెంట్, ఖాళీ మరియు ప్రత్యామ్నాయం](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [అధ్యాయం తొమ్మిది భాగం B §6.1.1 ధృవీకరణలో నాలుగు సీట్లు](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -500,7 +500,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 సీట్లు ఏమిటి మరియు అవి ఎందుకు ఉన్నాయి
 
-ప్రతి [మెటీరియల్ బైండింగ్ చట్టం](../../core_05.035_band_accountability.md#materially-binding-act) నాలుగు ఉద్యోగాలు ఉన్నాయి, మరియు [చాప్టర్ ఎనిమిది §2 నాలుగు సీట్ల రాజ్యాంగ అంతస్తు](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) వాటిని వేరుగా ఉంచుతుంది:
+ప్రతి [మెటీరియల్ బైండింగ్ చట్టం](../../core_05.035_band_accountability.md#materially-binding-act) నాలుగు ఉద్యోగాలు ఉన్నాయి, మరియు [చాప్టర్ ఎనిమిది §2 నాలుగు సీట్ల రాజ్యాంగ అంతస్తు](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) వాటిని వేరుగా ఉంచుతుంది:
 
 - **[సీటు ప్రారంభించడం](../../core_05.035_band_accountability.md#initiating-seat):** అభ్యర్థించడం, ప్రతిపాదించడం, నిర్వహించడం లేదా క్లెయిమ్ చేయడం ద్వారా చర్యను ప్రారంభిస్తుంది.
 - **[సీటును ధృవీకరించండి-లేదా ఆథరైజ్ చేయండి](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** సాక్ష్యం మరియు అధికారాన్ని తనిఖీ చేస్తుంది, ఆపై చట్టాన్ని ధృవీకరిస్తుంది, అధికారం ఇస్తుంది, షరతులు లేదా తిరస్కరిస్తుంది.

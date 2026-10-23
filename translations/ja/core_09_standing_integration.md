@@ -29,7 +29,7 @@
 
 - 上流：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*問い 1 と問い 2；検証済み記録と軌跡測定*）。
 - 本ファイル：問い 3 の統合、救済、是正、ロック、自発的な公開説明責任の表明、能力の閾と許可、最終軌跡効果、復元、再評価、執行の現実性、救済システム、およびパターン適用／問い 3 の経路づけ。
-- 下流：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*指定のみ*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム監督*）；[CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救済システムの実施*）。
+- 下流：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*指定のみ*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*フォーラム監督*）；[CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（*救済システムの実施*）。
 
 </details>
 
@@ -204,7 +204,7 @@
 **指名された経路の区別 — governance-voting 対 stakeholder-participation：**
 
 - **governance-voting** は、[第十二章 §4.1](../../core_14_governance.md#41-entitlement-and-eligibility) のもとでの統治投票への参加、および比較可能な正当性の仕組みによる拘束力ある集合的選択を覆う。**Foundational Constitutional Choice** を含む。すでに授権されたシステム、制度、または有界な決定領域の内部での利害加重の声は**含まない**。
-- **stakeholder-participation** は、[影響を受ける側の重み](core_05_band_participation.md#stakeholder-weight) および [拘束力ある影響を受ける側の選択](core_05_band_participation.md#binding-stakeholder-choice-cluster) のもとでの、利害加重の影響、拘束力ある影響を受ける側の選択、および比較可能な影響を受ける側のシステム参加の指名された経路を覆う。[影響を受ける側](core_05_band_participation.md#stakeholder) の地位そのものを**消さず**、**governance-voting** ロックの**代わりにもならない**。
+- **stakeholder-participation** は、[影響を受ける側の重み](../../core_05.055_band_participation.md#stakeholder-weight) および [拘束力ある影響を受ける側の選択](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster) のもとでの、利害加重の影響、拘束力ある影響を受ける側の選択、および比較可能な影響を受ける側のシステム参加の指名された経路を覆う。[影響を受ける側](../../core_05.055_band_participation.md#stakeholder) の地位そのものを**消さず**、**governance-voting** ロックの**代わりにもならない**。
 
 検証済みの影響を受ける側の経路の腐敗、捕捉、偽の利害の濫用、または強制的な参加重みの弄りが引き金であるところでは、[§5.5](#55-special-locks) のもとで [影響を受ける側の参加軌跡ロック](#55-special-locks) を適用せよ。
 
@@ -257,7 +257,7 @@
 
 **免除。** 連動線は、[§5.5](#55-special-locks) の特別ロック、違反軸の箱 **7**、**8**、または **9** の認定に添付されたロック、または [§5.4](#54-special-violation-rules) のもとでの強制的もしくは自由を制限する保障を緩めない。[§10.10](#1010-contest-pathway-or-info-sphere-flooding) のもとで争訟の経路の氾濫として検証された申立ては、本規則を発火させる滞留に数えない。
 
-**測定。** 発行されたロックと、開始された救済および決められた復元との比は、[憲法上の実績の測定ファミリー](core_05_band_performance.md#performance-measurement-family) のもとでの憲法上の実績指標である。連続する期間にわたって広がる比は、違反側の [回避可能な負担](core_05_band_continuity.md#avoidable-burden) の証拠であり、救済側の [§9](#9-enforcement-realism) の紙の経路の失敗の証拠である；中立な運用指標ではない。
+**測定。** 発行されたロックと、開始された救済および決められた復元との比は、[憲法上の実績の測定ファミリー](core_05_band_performance.md#performance-measurement-family) のもとでの憲法上の実績指標である。連続する期間にわたって広がる比は、違反側の [回避可能な負担](../../core_05.040_band_continuity.md#avoidable-burden) の証拠であり、救済側の [§9](#9-enforcement-realism) の紙の経路の失敗の証拠である；中立な運用指標ではない。
 
 <a id="5-lock-design-and-enforcement"></a>
 ### 5. ロックの設計と執行
@@ -383,7 +383,7 @@
 <a id="operative-steward-statement-unlawful-instruction"></a>
 > **操作性の責務ある管理の声明。** **所管：** 第九章 §5.4 抵抗する義務。共有標準：第一章 §9.1.1。争訟の床：Article XIII-B。**禁じられた動き：** 従うな。覆いを義務の移転として扱うな。役に立つために争訟の経路を閉じるな。**時計：** 指示の受領 → 拒否 → 文書化 → 段階引き上げを、共有の画面でいま走れ。争訟の経路を保全せよ。
 
-**指名された順序。** 指示の受領 → 拒否 → 文書化 → 段階引き上げ。[CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) の最小の点検可能な行為の集合を記録せよ。両方の種類の責務ある管理者について同一の順序。責務ある管理の指針（過程の支援；本節を狭められない）：[`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging)。
+**指名された順序。** 指示の受領 → 拒否 → 文書化 → 段階引き上げ。[CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) の最小の点検可能な行為の集合を記録せよ。両方の種類の責務ある管理者について同一の順序。責務ある管理の指針（過程の支援；本節を狭められない）：[`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging)。
 
 - **指名された経路／認定：**
   - 違法または違憲の行為を求めるいかなる指示、命令、方針、または契約も、有効な遵守の抗弁を作らない。
@@ -391,7 +391,7 @@
   - 本人が責任を取ると述べることは、義務を移さず、有効な遵守の抗弁を作らない。
 - **リスク：** 服従、指揮系統、または契約上の覆いを通じた、違法または違憲の危害の継続。
 - **保護される主体または利害：** 遵守によって危害を受けるであろう者、および適法な指名された経路の誠実性。
-- **是正条件：** 実質的な責務ある管理または運用権限を行使し、拒否、争い、文書化、または段階引き上げする実質的能力を持つ者 — [第一章 §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) のもとでの人間の運用者と AI の責務ある管理者を含む — は、比例し誠実にそうしなければならず、適用されるところでは保護された報告とフォーラムの経路を用いなければならない。この義務は AI のみの試験ではない。
+- **是正条件：** 実質的な責務ある管理または運用権限を行使し、拒否、争い、文書化、または段階引き上げする実質的能力を持つ者 — [第一章 §9.1.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) のもとでの人間の運用者と AI の責務ある管理者を含む — は、比例し誠実にそうしなければならず、適用されるところでは保護された報告とフォーラムの経路を用いなければならない。この義務は AI のみの試験ではない。
 - **審査経路と再評価：** 抵抗、報告、および段階引き上げの記録は、[§5.1](#51-definition-and-attachment) のもとでのロックと救済の設計に供給する；貢献は下にある指示行為を免責できない。検証済みの失敗は、両方の種類の責務ある管理者について、同一の第八章の貢献軸と違反軸に記録される。
 
 <a id="54-collective-accountability-and-acquiescent-participation"></a>
@@ -467,9 +467,9 @@
   - 利害加重の影響；
   - 拘束力ある影響を受ける側の選択への参加；
   - 影響を受ける側の代表権限；および
-  - [影響を受ける側の重み](core_05_band_participation.md#stakeholder-weight) および [拘束力ある影響を受ける側の選択](core_05_band_participation.md#binding-stakeholder-choice-cluster) のもとでの、影響を受けるシステム、制度、または有界な決定領域の内部での比較可能な影響を受ける側のシステム参加の指名された経路。
+  - [影響を受ける側の重み](../../core_05.055_band_participation.md#stakeholder-weight) および [拘束力ある影響を受ける側の選択](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster) のもとでの、影響を受けるシステム、制度、または有界な決定領域の内部での比較可能な影響を受ける側のシステム参加の指名された経路。
 - **それ自体では制限しないもの：**
-  - [影響を受ける側](core_05_band_participation.md#stakeholder) の地位、または感知者が実質的に影響を受けることの承認；
+  - [影響を受ける側](../../core_05.055_band_participation.md#stakeholder) の地位、または感知者が実質的に影響を受けることの承認；
   - **governance-voting** の経路、**Foundational Constitutional Choice**、または [第十二章 §4.1](../../core_14_governance.md#41-entitlement-and-eligibility) のもとでの比較可能な正当性の仕組みによる拘束力ある集合的選択；
   - 権利の床の最小、生存に不可欠な通路、または憲法上求められる監査、異議、および救済の指名された経路。
 - **リスク：** 影響を受ける側の声の継続する捕捉または歪み、偽の利害の支配、強制された参加重み、および同一または関連する領域における影響を受ける側の経路の濫用の再発。
@@ -539,7 +539,7 @@
 
 貢献の帰結をこの順で決めよ：
 
-- 承認の適格を確認せよ：承認は、証拠に支えられ、争訟可能で、審査可能で、非独占的でなければならず、非公式、無給、仲間組織、相互援助、維持、修復、教育、および共同体の責務ある管理の仕事に、平等な標準で利用可能でなければならない。平等な標準は職務の分離を含む：[第一章 §10.2 職務の分離](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) および [第八章 §3.7 非公式および小さな範囲の記録](core_08_standing_assessment.md#37-informal-and-small-scope-records) のもとで、非公式の仕事についての検証座席は、検証者の形式ではなく、記録に依拠する公表された権限を持つ利害のない団体によって満たされる；非公式の集団が届かない公式制度の検証を求める閾は、[§6.2 能力の閾と許可](#62-competency-bars-and-clearances) の門戸パターンである。
+- 承認の適格を確認せよ：承認は、証拠に支えられ、争訟可能で、審査可能で、非独占的でなければならず、非公式、無給、仲間組織、相互援助、維持、修復、教育、および共同体の責務ある管理の仕事に、平等な標準で利用可能でなければならない。平等な標準は職務の分離を含む：[第一章 §10.2 職務の分離](core_01_c_stewardship_capacity_principles.md) および [第八章 §3.7 非公式および小さな範囲の記録](core_08_standing_assessment.md#37-informal-and-small-scope-records) のもとで、非公式の仕事についての検証座席は、検証者の形式ではなく、記録に依拠する公表された権限を持つ利害のない団体によって満たされる；非公式の集団が届かない公式制度の検証を求める閾は、[§6.2 能力の閾と許可](#62-competency-bars-and-clearances) の門戸パターンである。
 - 近時性と現在性を適用せよ（[§6.1](#61-recency-and-currentness)）。
 - ロックによって遮断されていない指名された経路についての能力の閾と許可を適用せよ（[§6.2](#62-competency-bars-and-clearances)）。
 - 各指名された経路の結果を [§7](#7-final-standing-effect) へ渡せ；復元と再評価は [§8](#8-restoration-and-reassessment) のもとにある。
@@ -700,14 +700,14 @@
 
 *平たい言葉で言えば：誰も、軌跡効果が自分に何をするかを、その帰結から学んではならない。記録は対象に、平たい言葉で、どの指名された経路が影響を受けるか、何をしなければならないか、どれほど続くか、どこで異議を唱えるかを正確に告げなければならず、採択者は、感知者が軌跡を得点として経験しているかを測らなければならない — それがそう着地するなら、得点ではないという規則は無価値だからである。*
 
-- **対象への平たい言葉の声明：** **効果なし**以外の最終効果が添付するとき、対象は平たい言葉の声明を受け取らなければならない。声明は [第一章 §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) および **Article XXI-A**（《比例的理解可能性の権利》）を満たさなければならず、次を名指さなければならない：
+- **対象への平たい言葉の声明：** **効果なし**以外の最終効果が添付するとき、対象は平たい言葉の声明を受け取らなければならない。声明は [第一章 §3.4](core_01_a_values_principles.md) および **Article XXI-A**（《比例的理解可能性の権利》）を満たさなければならず、次を名指さなければならない：
   - 影響を受ける各指名された経路；
   - 効果が続くあいだ対象がしてよく、してはならないこと；
   - 是正条件と再評価の点；
   - 期待される期間または審査の周期；および
   - **Article XIII-B**（《異議、審査、是正への権利》）のもとでの異議の経路。
-- **正直な費用：** 軌跡ロックは本物の扉を閉じ、点検可能な行為の義務はそれを担う責務ある管理者への本物の負担である。採択者は、影響を受ける感知者に軌跡を述べる材料において、軌跡が何でないかと並んで、それらの費用を平たく述べなければならない。軌跡の限度だけを述べてその重みを省くことは、[真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) の欠陥である。
-- **感じられる負担の測定：** 採択者は、[参加の測定ファミリー](core_05_apex_participation_leg.md#participation-measurement-family) のもとで、影響を受ける感知者が軌跡効果を、有界な指名された経路の条件としてではなく、一般的な値打ちの順位、評判得点、または永続する地位として経験しているかを測らなければならない。法的カテゴリーと生きられたものとの実質的乖離は、[第一章 §6.2.4](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) のもとでの [代替指標の乖離](core_05_band_oversight.md#proxy-divergence) である：文書化し、段階引き上げし、設計、開示、または [§7.1](#71-anti-aggregation-of-named-pathway-effects) の執行を通じて直さなければならず — 説明して片付けてはならない。
+- **正直な費用：** 軌跡ロックは本物の扉を閉じ、点検可能な行為の義務はそれを担う責務ある管理者への本物の負担である。採択者は、影響を受ける感知者に軌跡を述べる材料において、軌跡が何でないかと並んで、それらの費用を平たく述べなければならない。軌跡の限度だけを述べてその重みを省くことは、[真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) の欠陥である。
+- **感じられる負担の測定：** 採択者は、[参加の測定ファミリー](core_05_apex_participation_leg.md#participation-measurement-family) のもとで、影響を受ける感知者が軌跡効果を、有界な指名された経路の条件としてではなく、一般的な値打ちの順位、評判得点、または永続する地位として経験しているかを測らなければならない。法的カテゴリーと生きられたものとの実質的乖離は、[第一章 §6.2.4](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) のもとでの [代替指標の乖離](core_05_band_oversight.md#proxy-divergence) である：文書化し、段階引き上げし、設計、開示、または [§7.1](#71-anti-aggregation-of-named-pathway-effects) の執行を通じて直さなければならず — 説明して片付けてはならない。
 
 <a id="8-restoration-and-reassessment"></a>
 ### 8. 復元と再評価
@@ -734,7 +734,7 @@
 - 箱 **4**、**5**、または **6** の認定は、[§6.1](#61-recency-and-currentness) の貢献の半減期を超えてはならない公表された期間のあとアーカイブされる；
 - 箱 **7**、**8**、または **9** の認定は、[§5.5](#55-special-locks) の復元規則と第十章に服しつつ、無期限に活動中のままである。
 
-アーカイブは削除ではない。[証拠保全](core_05_band_oversight.md#evidence-preservation) は続く；アーカイブされた記録は、生きた事案における再発リスクに関わるという文書化された示しがあればフォーラムに到達可能であり；アーカイブは [第八章 §3.4](core_08_standing_assessment.md#34-versioning) のもとでの版履歴に記録される。アーカイブされた記録は指名された経路の効果を産出せず、指名された経路の門番に開示されず、能力の閾への入力ではない。ただし、特定の高敏感性の指名された経路についての公表された閾がより長い回顧を述べ、その声明自体が [必要性](core_05_band_accountability.md#necessity) および [比例性](core_05_band_accountability.md#proportionality) を満たすところを除く。
+アーカイブは削除ではない。[証拠保全](core_05_band_oversight.md#evidence-preservation) は続く；アーカイブされた記録は、生きた事案における再発リスクに関わるという文書化された示しがあればフォーラムに到達可能であり；アーカイブは [第八章 §3.4](core_08_standing_assessment.md#34-versioning) のもとでの版履歴に記録される。アーカイブされた記録は指名された経路の効果を産出せず、指名された経路の門番に開示されず、能力の閾への入力ではない。ただし、特定の高敏感性の指名された経路についての公表された閾がより長い回顧を述べ、その声明自体が [必要性](../../core_05.035_band_accountability.md#necessity) および [比例性](../../core_05.035_band_accountability.md#proportionality) を満たすところを除く。
 
 <a id="9-enforcement-realism"></a>
 <a id="9-enforcement-realism-and-remedy-systems"></a>
@@ -742,7 +742,7 @@
 
 *平たい言葉で言えば：軌跡の帰結と是正は、本物の制度がそれらを届けられるときにのみ数える。本節はその仕組みについての憲法の床である。日常の人員、資金、滞留、および承継の規則は制度層に住む。*
 
-第九章は、問い 3 の帰結および関連する是正が制度として本物でなければならないという憲法の床を所管する。[救済システム](core_05_band_accountability.md#remedy-system-constitutional) は、異議、受付、保全、審査、修復、監視、保障の執行、およびロックの審査を届ける耐久する能力である — 紙の経路ではない。実施の詳細は [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（《救済システムと制度的是正能力》）が所管する。フォーラム監督については **Article XIII-B**（《異議、審査、是正への権利》）および [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) とあわせて読め。
+第九章は、問い 3 の帰結および関連する是正が制度として本物でなければならないという憲法の床を所管する。[救済システム](../../core_05.035_band_accountability.md#remedy-system-constitutional) は、異議、受付、保全、審査、修復、監視、保障の執行、およびロックの審査を届ける耐久する能力である — 紙の経路ではない。実施の詳細は [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（《救済システムと制度的是正能力》）が所管する。フォーラム監督については **Article XIII-B**（《異議、審査、是正への権利》）および [第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) とあわせて読め。
 
 軌跡の統合は、帰結が紙の上にしか存在しないなら失敗する。採択者は、是正を実施し、救済に資金を付け、制限を審査し、記録を保全し、保障を執行し、費用、遅れ、国境、再編、または形式的同一性の変更を通じた逃避を防ぐ、実務的で適時な能力を維持しなければならない。
 
@@ -792,7 +792,7 @@
 - 審査；および
 - 執行。
 
-それらのシステムは [第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) の層の里程標とパイプライン段階の窓を満たさなければならない。また [技術フォーラム領域](core_11_forum.md#42-technical-forum-domains) のもとでの公表された能力、測定、および里程標の標準を満たさなければならない。技術フォーラムはそれらの標準を定め維持する；救済システムまたは制度の指揮階層ではない。人員、資金、滞留、承継、および実績についての説明責任は、[第一次利害](core_11_forum.md#2-default-venue-and-primary-stakes) のフォーラム群に残る — 通常は [制度](core_11_forum.md#43-institutional-forums)、または捕捉、過程の失敗、もしくはシステム整合の崩壊が第一次であるところでは [誠実性](core_11_forum.md#45-integrity-forums)。救済システム能力についての制度的実施の詳細は [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（《救済システムと制度的是正能力》）が所管する。
+それらのシステムは [第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) の層の里程標とパイプライン段階の窓を満たさなければならない。また [技術フォーラム領域](core_11_forum.md#42-technical-forum-domains) のもとでの公表された能力、測定、および里程標の標準を満たさなければならない。技術フォーラムはそれらの標準を定め維持する；救済システムまたは制度の指揮階層ではない。人員、資金、滞留、承継、および実績についての説明責任は、[第一次利害](core_11_forum.md#2-default-venue-and-primary-stakes) のフォーラム群に残る — 通常は [制度](core_11_forum.md#43-institutional-forums)、または捕捉、過程の失敗、もしくはシステム整合の崩壊が第一次であるところでは [誠実性](core_11_forum.md#45-integrity-forums)。救済システム能力についての制度的実施の詳細は [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（《救済システムと制度的是正能力》）が所管する。
 
 次は、予見可能に異議または救済を無効にするところで、本規則に違反する：
 
@@ -804,7 +804,7 @@
 
 **誠実性**、**憲法**、または**環境**フォーラム合議体、あるいは感知性地位の裁定を聴く **技術フォーラム領域** 合議体の任命不足は、本下位節のもとでの耐久の失敗であり、[第十二章 §1.2](../../core_14_governance.md#12-eligibility-contested-selection-and-democratic-minimums) とあわせて読む。
 
-<a id="92-remedy-parity-funding-floor"></a>
+<a id="92-remedy-parity-funding-minimum"></a>
 **救済パリティの資金の床。** 採択者が運用する各システムクラスについて、救済、復元、および再評価に資金を付けられた能力は、同一クラスについてのロックの運用、執行、および保障の課しに資金を付けられた能力を下回ってはならない。比は [§4.4](#44-remedy-parity-and-lock-preconditions) の連動線の数字とともに公表されなければならない。パリティから離れる採択者は、[第十二章 §3.1](../../core_14_governance.md#31-stewardship-direction) のもとで理由を記録し、記録上で、救済の開始と復元の審査がなおその層の時計を満たしていることを示さなければならない；予算パリティは発火した [§4.4](#44-remedy-parity-and-lock-preconditions) の連動線を免責せず、満たされた連動線はパリティからの静かな離脱を免責しない。あるクラスのシステムについて救済に資金を付けられない採択者は、そのクラスについてのロックの仕組みを立ててはならない。
 
 <a id="93-cross-jurisdiction-continuity"></a>
@@ -833,7 +833,7 @@
 
 - 上流：[§1](#1-immutable-chapter-eight-inputs) から [§9](#9-enforcement-realism)（*変わらない第八章の入力から執行の現実性と救済システムまで*）。
 - 下位節：[§10.1](#101-informal-ecological-stewardship-competency-clearance)；[§10.2](#102-ecological-negligence-with-concealment)；[§10.3](#103-forum-integrity-deception-or-recusal-failure)；[§10.4](#104-recurrence-after-completed-restitution)；[§10.5](#105-champion-repair-while-a-lock-remains-active)；[§10.6](#106-institutional-vehicle-and-successor-evasion)；[§10.7](#107-misaligned-reward-retention)；[§10.8](#108-anti-constitutional-misconduct-allegation)；[§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices)；[§10.10](#1010-contest-pathway-or-info-sphere-flooding)；[§10.11](#1011-infrastructure-denial-or-dependency-cutoff)；[§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse)；[§10.13](#1013-obstruction-of-accountability)。
-- あわせて読む：[第八章 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations)（*問い 2 の測定の例示*）；[第八章から第十一章の適用小話](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)（*鎖全体の領域通し*）；[第十章 §5](../../core_12_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing)（*指定側のパターン経路づけ — 二層の対；ロック型のカタログではない*）。
+- あわせて読む：[第八章 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations)（*問い 2 の測定の例示*）；[第八章から第十一章の適用小話](../../core_10.005_application_vignettes.md)（*鎖全体の領域通し*）；[第十章 §5](../../core_12_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing)（*指定側のパターン経路づけ — 二層の対；ロック型のカタログではない*）。
 
 </details>
 
@@ -968,7 +968,7 @@
   - [§4](#4-violation-correction-and-prevention)（*救済、是正、および予防*）；
   - [§4.2](#42-general-standing-locks)（*指名された経路の区別 — governance-voting 対 stakeholder-participation*）；および
   - [§5.5](#55-special-locks)（*影響を受ける側の参加軌跡ロック*）。
-- **交渉不能：** 影響を受ける側の参加軌跡ロックは、その検証済み引き金が満たされたときに添付する。影響を受ける領域における利害加重の影響と拘束力ある影響を受ける側の選択を限る。それ自体では **governance-voting**、**Foundational Constitutional Choice**、または [影響を受ける側](core_05_band_participation.md#stakeholder) の地位を剥ぎ取らない。**governance-voting** ロックは本ロックの代わりではない。
+- **交渉不能：** 影響を受ける側の参加軌跡ロックは、その検証済み引き金が満たされたときに添付する。影響を受ける領域における利害加重の影響と拘束力ある影響を受ける側の選択を限る。それ自体では **governance-voting**、**Foundational Constitutional Choice**、または [影響を受ける側](../../core_05.055_band_participation.md#stakeholder) の地位を剥ぎ取らない。**governance-voting** ロックは本ロックの代わりではない。
 
 <a id="1013-obstruction-of-accountability"></a>
 #### 10.13 説明責任の妨害
@@ -980,12 +980,12 @@
   - [§5.4](#54-special-violation-rules)（*隠蔽、回避、欺瞞、および義務に関連する形づくり*）；
   - [§5.5](#55-special-locks)（*フォーラム奉仕軌跡ロックは、[§10.3](#103-forum-integrity-deception-or-recusal-failure) のもとでフォーラム誠実性／求められた忌避の引き金が満たされたときにのみ*）；および
   - [§10.8](#108-anti-constitutional-misconduct-allegation)（*`s` = 7–9 であり反憲法的不正行為が実質的に申し立てられるときの第十章の入口*）。
-- **交渉不能：** この手がかりは妨害ロックまたは他の [§5.5](#55-special-locks) 型を作らない。妨害の性格は違反軸の箱を決して動かさない。通常の指名された経路のロックは、どの箱でも固定された記録から進む。指定側の基準経路づけは [第十章 §5.11](../../core_12_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) に残る；最終指定だけが [§10.8](#108-anti-constitutional-misconduct-allegation) のもとでの反憲法的信頼ロックを引き起こす。検証済み妨害*行為*を、構造条件としての [解決経路の捕捉](core_05_band_accountability.md#capture-of-resolution-pathways) から区別せよ。
+- **交渉不能：** この手がかりは妨害ロックまたは他の [§5.5](#55-special-locks) 型を作らない。妨害の性格は違反軸の箱を決して動かさない。通常の指名された経路のロックは、どの箱でも固定された記録から進む。指定側の基準経路づけは [第十章 §5.11](../../core_12_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) に残る；最終指定だけが [§10.8](#108-anti-constitutional-misconduct-allegation) のもとでの反憲法的信頼ロックを引き起こす。検証済み妨害*行為*を、構造条件としての [解決経路の捕捉](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) から区別せよ。
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 検証済み残虐の性格
 
-- **手がかり：** 固定された違反軸の記録が、検証済み [残虐](core_05_band_accountability.md#cruelty) の行為性格を運ぶ — それ自体を目的とする苦しみ、または必要性と比例性を超えた不当な、もしくは品位を落とす加虐 — 暴力または強制の記述子も重なるかどうかを問わず。
+- **手がかり：** 固定された違反軸の記録が、検証済み [残虐](../../core_05.035_band_accountability.md#cruelty) の行為性格を運ぶ — それ自体を目的とする苦しみ、または必要性と比例性を超えた不当な、もしくは品位を落とす加虐 — 暴力または強制の記述子も重なるかどうかを問わず。
 - **経由：**
   - [§4.1](#41-remedy-and-correction)（*救済と是正は品位を落とすものであってはならない*）；
   - [§4.2](#42-general-standing-locks)（*同一の残虐が続き、または再発することを許す指名された経路についての保護的または保障ロック*）；

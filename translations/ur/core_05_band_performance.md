@@ -8,9 +8,9 @@
 >
 > یہ فائل [انگریزی باب پنجم، آئینی کارکردگی پٹی](../../core_05.060_band_performance.md) کا **قارئین کی زبان کا پائلٹ** ہے۔ یہ شعوری آئین کا **پابند حصہ نہیں**۔ یہ **دوسرا آئین نہیں**۔ یہ **ارسال ایڈیشن نہیں**۔ یہ `SC-Corpus-2026.08.09` پر **پن** ہے۔ اگر یہ ترجمہ اور انگریزی اصل میں اختلاف نظر آئے تو نمبر والی [`core_05_band_performance.md`](../../core_05.060_band_performance.md) جیتتی ہے۔ پڑھنے کا ترتیب اور ایڈیشن میٹاڈیٹا [README.md](../../README.md) میں رہتے ہیں۔ طریقہ اور لغت: [translations/ur/README.md](README.md)۔
 >
-> اس میں **باب پنجم کی آئینی کارکردگی پٹی** ہے — عرضی زمرہ آئینی کارکردگی کا باب پنجم **پیمائش خاندان گھر**۔ آئینی کارکردگی [**شگفتگی**](core_00_preamble.md#flourishing) اور [**استمرار**](core_00_preamble.md#continuity) دونوں مقاصد کا ذریعہ ہے اور چوکڑی کی **ٹانگ نہیں**۔ اس کی برگ تعریفیں (آئینی کارآمدگی، قابلِ اجتناب بوجھ، پیداواری صلاحیت، بوجھ کم کرنے کا فرض) قصداً اپنے **مستند گھر [استمرار پٹی](core_05_band_continuity.md) میں** رکھتی ہیں: وہ ذمہ دارانہ انتظام / مشترکہ نظام کی صلاحیت اور [تناسب–بوجھ–کارآمدگی منحصر جھرمٹ](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster) کے تحت استمرار پٹی کے جھرمٹ ارکان ہیں، جہاں پائیدار صلاحیت، ضیاع، اور وسیلہ فی نتیجہ سپردگی استمرار کے موضوعات کے ساتھ بیٹھتی ہے۔ یہ فائل تمہید کے پیمائش زمرے کی راہ بندی کرتی ہے؛ وہ برگ اجسام نہیں سنبھالتی۔ برگ یہاں صرف ایک صریح، مؤرخہ جگہ فیصلے پر منتقل ہوتے ہیں۔ پڑھنے کا ترتیب اور قطب نما [core_05__definitions_home.md](core_05__definitions_home.md#باب-پنجم-بنیادی-تعریفیں) میں رہتے ہیں۔
+> اس میں **باب پنجم کی آئینی کارکردگی پٹی** ہے — عرضی زمرہ آئینی کارکردگی کا باب پنجم **پیمائش خاندان گھر**۔ آئینی کارکردگی [**شگفتگی**](core_00_preamble.md#flourishing) اور [**استمرار**](core_00_preamble.md#continuity) دونوں مقاصد کا ذریعہ ہے اور چوکڑی کی **ٹانگ نہیں**۔ اس کی برگ تعریفیں (آئینی کارآمدگی، قابلِ اجتناب بوجھ، پیداواری صلاحیت، بوجھ کم کرنے کا فرض) قصداً اپنے **مستند گھر [استمرار پٹی](../../core_05.040_band_continuity.md) میں** رکھتی ہیں: وہ ذمہ دارانہ انتظام / مشترکہ نظام کی صلاحیت اور [تناسب–بوجھ–کارآمدگی منحصر جھرمٹ](../../core_05.040_band_continuity.md) کے تحت استمرار پٹی کے جھرمٹ ارکان ہیں، جہاں پائیدار صلاحیت، ضیاع، اور وسیلہ فی نتیجہ سپردگی استمرار کے موضوعات کے ساتھ بیٹھتی ہے۔ یہ فائل تمہید کے پیمائش زمرے کی راہ بندی کرتی ہے؛ وہ برگ اجسام نہیں سنبھالتی۔ برگ یہاں صرف ایک صریح، مؤرخہ جگہ فیصلے پر منتقل ہوتے ہیں۔ پڑھنے کا ترتیب اور قطب نما [core_05__definitions_home.md](core_05__definitions_home.md#باب-پنجم-بنیادی-تعریفیں) میں رہتے ہیں۔
 >
-> **پچھلا (اس زبان میں):** [core_05_band_participation.md](core_05_band_participation.md)
+> **پچھلا (اس زبان میں):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 >
 > **اگلا (ابھی انگریزی میں):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 > **پڑھنے کا قوس:** پیمائش خاندان گھر → استمرار پٹی کی برگ راہ بندی۔
@@ -21,8 +21,8 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)۔
-- زیریں: آئینی کارکردگی کا باب پنجم پیمائش خاندان گھر؛ **تمام برگ اجسام** [استمرار پٹی](core_05_band_continuity.md) میں رہتے ہیں (ذمہ دارانہ انتظام / مشترکہ نظام کی صلاحیت / تناسب–بوجھ–کارآمدگی جھرمٹ)۔
-- ساتھ پڑھیں: [آئینی کارآمدگی](core_05_band_continuity.md#constitutional-efficiency)، [قابلِ اجتناب بوجھ](core_05_band_continuity.md#avoidable-burden)، [پیداواری صلاحیت](core_05_band_continuity.md#productive-capacity-constitutional)، اور [بوجھ کم کرنے کا فرض](core_05_band_continuity.md#burden-reduction-duty-constitutional)۔
+- زیریں: آئینی کارکردگی کا باب پنجم پیمائش خاندان گھر؛ **تمام برگ اجسام** [استمرار پٹی](../../core_05.040_band_continuity.md) میں رہتے ہیں (ذمہ دارانہ انتظام / مشترکہ نظام کی صلاحیت / تناسب–بوجھ–کارآمدگی جھرمٹ)۔
+- ساتھ پڑھیں: [آئینی کارآمدگی](../../core_05.040_band_continuity.md#constitutional-efficiency)، [قابلِ اجتناب بوجھ](../../core_05.040_band_continuity.md#avoidable-burden)، [پیداواری صلاحیت](../../core_05.040_band_continuity.md#productive-capacity-constitutional)، اور [بوجھ کم کرنے کا فرض](../../core_05.040_band_continuity.md#burden-reduction-duty-constitutional)۔
 
 </details>
 
@@ -32,8 +32,8 @@
 
 *سادہ الفاظ میں: یہ فائل اس سوال کا گھر ہے کہ نظام حقیقتاً آئینی نتائج بے معنی ضیاع کے بغیر دیتے ہیں یا نہیں۔ تفصیلی تعریفیں استمرار پٹی میں رہتی ہیں۔*
 
-یہ فائل **آئینی کارکردگی** پیمائش خاندان کا گھر ہے — سوال کہ نظام حقیقتاً آئینی نتائج بے معنی ضیاع کے بغیر دیتے ہیں یا نہیں۔ تفصیلی تعریفیں خود **یہاں نہیں**۔ سب [استمرار پٹی](core_05_band_continuity.md) میں رہتی ہیں۔
-- کیوں: وہ تعریفیں استمرار کے ذمہ دارانہ انتظام موضوعات کے ساتھ تعلق رکھتی ہیں — پائیدار صلاحیت، ضیاع، اور خرچ کیے وسائل کے بدلے حقیقی نتائج۔ دیکھیں [کارآمدگی / صلاحیت / بوجھ موضوع گروہ](core_05_band_continuity.md#constitutional-efficiency) اور [تناسب–بوجھ–کارآمدگی جھرمٹ](core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster)۔
+یہ فائل **آئینی کارکردگی** پیمائش خاندان کا گھر ہے — سوال کہ نظام حقیقتاً آئینی نتائج بے معنی ضیاع کے بغیر دیتے ہیں یا نہیں۔ تفصیلی تعریفیں خود **یہاں نہیں**۔ سب [استمرار پٹی](../../core_05.040_band_continuity.md) میں رہتی ہیں۔
+- کیوں: وہ تعریفیں استمرار کے ذمہ دارانہ انتظام موضوعات کے ساتھ تعلق رکھتی ہیں — پائیدار صلاحیت، ضیاع، اور خرچ کیے وسائل کے بدلے حقیقی نتائج۔ دیکھیں [کارآمدگی / صلاحیت / بوجھ موضوع گروہ](../../core_05.040_band_continuity.md#constitutional-efficiency) اور [تناسب–بوجھ–کارآمدگی جھرمٹ](../../core_05.040_band_continuity.md)۔
 - سوال پھر بھی دونوں آئینی مقاصد کی خدمت کرتے ہیں ([**شگفتگی**](core_00_preamble.md#flourishing) اور [**استمرار**](core_00_preamble.md#continuity))۔
 
 <a id="performance-measurement-family"></a>
@@ -49,20 +49,20 @@
 
 | پیمائش خاندان | سادہ سوال | بنیادی آئینی استعمال |
 |---|---|---|
-| [آئینی کارآمدگی](core_05_band_continuity.md#constitutional-efficiency) | کیا آئینی نتائج حقیقتاً دیے جا رہے ہیں؟ | متبادل اشاروں کو حقیقی حفاظت کی جگہ لینے سے روکتی ہے |
-| [قابلِ اجتناب بوجھ](core_05_band_continuity.md#avoidable-burden) | کیا نظام شعوری وجود کا وقت، محنت، مواد، بنیادی ڈھانچہ، یا توانائی ضائع کر رہا ہے؟ | غیر ضروری رگڑ کم کرتی ہے |
-| [پیداواری صلاحیت](core_05_band_continuity.md#productive-capacity-constitutional) | کیا شعوری وجود اور نظام ہم آہنگ نتائج پیدا کرتے رہ سکتے ہیں؟ | ماحولیاتی بوجھ کی منتقلی کے بغیر پائیدار صلاحیت کی حفاظت کرتی ہے |
+| [آئینی کارآمدگی](../../core_05.040_band_continuity.md#constitutional-efficiency) | کیا آئینی نتائج حقیقتاً دیے جا رہے ہیں؟ | متبادل اشاروں کو حقیقی حفاظت کی جگہ لینے سے روکتی ہے |
+| [قابلِ اجتناب بوجھ](../../core_05.040_band_continuity.md#avoidable-burden) | کیا نظام شعوری وجود کا وقت، محنت، مواد، بنیادی ڈھانچہ، یا توانائی ضائع کر رہا ہے؟ | غیر ضروری رگڑ کم کرتی ہے |
+| [پیداواری صلاحیت](../../core_05.040_band_continuity.md#productive-capacity-constitutional) | کیا شعوری وجود اور نظام ہم آہنگ نتائج پیدا کرتے رہ سکتے ہیں؟ | ماحولیاتی بوجھ کی منتقلی کے بغیر پائیدار صلاحیت کی حفاظت کرتی ہے |
 
 یہ عرضی پیمانے پوچھتے ہیں کہ نظام آئینی نتائج کارآمدگی سے دیتے ہیں، بے معنی ضیاع سے بچتے ہیں، اور ہم آہنگ نتائج پیدا کرتے رہنے کی صلاحیت بچاتے ہیں یا نہیں — [**شگفتگی**](core_00_preamble.md#flourishing) اور [**استمرار**](core_00_preamble.md#continuity) دونوں کے ذریعے۔
 
-- عملی پیمائش تہیں باب پنجم تعریف گھروں پر رہتی ہیں — دیکھیں [آئینی کارآمدگی](core_05_band_continuity.md#constitutional-efficiency)، [قابلِ اجتناب بوجھ](core_05_band_continuity.md#avoidable-burden)، [پیداواری صلاحیت](core_05_band_continuity.md#productive-capacity-constitutional)، اور [بوجھ کم کرنے کا فرض](core_05_band_continuity.md#burden-reduction-duty-constitutional)۔
+- عملی پیمائش تہیں باب پنجم تعریف گھروں پر رہتی ہیں — دیکھیں [آئینی کارآمدگی](../../core_05.040_band_continuity.md#constitutional-efficiency)، [قابلِ اجتناب بوجھ](../../core_05.040_band_continuity.md#avoidable-burden)، [پیداواری صلاحیت](../../core_05.040_band_continuity.md#productive-capacity-constitutional)، اور [بوجھ کم کرنے کا فرض](../../core_05.040_band_continuity.md#burden-reduction-duty-constitutional)۔
 - کارکردگی کے اہداف، انعامات، اور وسائل کے پیمانے صرف اس حد تک درست ہیں جس حد تک وہ آئینی نتائج تک سراغ لگانے کے قابل رہیں۔
-- وہ آئینی کارآمدگی، [پیداواری صلاحیت](core_05_band_continuity.md#productive-capacity-constitutional)، یا حقوق کی تہہ کی اطاعت کی جگہ نہیں لے سکتے۔
+- وہ آئینی کارآمدگی، [پیداواری صلاحیت](../../core_05.040_band_continuity.md#productive-capacity-constitutional)، یا حقوق کی تہہ کی اطاعت کی جگہ نہیں لے سکتے۔
 - ساتھ پڑھیں [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) جہاں پورے نظام کی کارکردگی مادی طور پر دائرے میں ہو۔
 
 ---
 
-**پچھلی فائل (اس زبان میں):** [core_05_band_participation.md](core_05_band_participation.md)
+**پچھلی فائل (اس زبان میں):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 
 **اگلی فائل (ابھی انگریزی میں):** [core_07_a_system_alignment_certification_evaluation.md](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation)
 

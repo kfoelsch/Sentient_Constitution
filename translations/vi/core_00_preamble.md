@@ -114,9 +114,9 @@ Các nhóm đo lường này cho thấy điều gì quan trọng — nhưng chú
 
 *Nói thẳng: tính chính danh cần An toàn, Sự thật, và Tin cậy, cộng các cơ hội thực để học các hệ thống tác động tới mình và đảm nhận các vai trò có hệ quả trong việc giữ chúng vận hành.*
 
-Tính chính danh bền phụ thuộc vào [An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), và [Tin cậy](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), và cũng vào sự ghi nhận tương xứng đối với quản trị có trách nhiệm hợp pháp, hợp tác trung thực, và khát vọng có giới hạn — không chỉ trừng phạt và kiềm chế. Chương Một nêu chiều ghi nhận này ở [Ghi nhận, củng cố, và khát vọng](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration).
+Tính chính danh bền phụ thuộc vào [An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), và [Tin cậy](core_01_a_values_principles.md), và cũng vào sự ghi nhận tương xứng đối với quản trị có trách nhiệm hợp pháp, hợp tác trung thực, và khát vọng có giới hạn — không chỉ trừng phạt và kiềm chế. Chương Một nêu chiều ghi nhận này ở [Ghi nhận, củng cố, và khát vọng](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
-Hiểu biết phân tán và quản trị có trách nhiệm đòi các hữu tri có các cơ hội đều đặn, tương xứng để học cách vận hành của các hệ thống tác động vật chất tới ta. Thêm nữa, nó trao quyền cho ta đảm nhận các vai trò có hệ quả trong việc duy trì và cải thiện chúng — để năng lực, khả năng sửa chữa, và tính chính danh được trải rộng trong Cộng đồng Hiến pháp của ta nhằm bảo đảm khả năng phục hồi, bền vững, và đổi mới vì xã hội. Những cơ hội đó phải thỏa An toàn, Sự thật, quyền năng có giới hạn, và kỷ luật [Gánh nặng có thể tránh](../../core_05_band_continuity.md#avoidable-burden) cùng tính tương xứng nêu ở [Chương Một](../../core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden).
+Hiểu biết phân tán và quản trị có trách nhiệm đòi các hữu tri có các cơ hội đều đặn, tương xứng để học cách vận hành của các hệ thống tác động vật chất tới ta. Thêm nữa, nó trao quyền cho ta đảm nhận các vai trò có hệ quả trong việc duy trì và cải thiện chúng — để năng lực, khả năng sửa chữa, và tính chính danh được trải rộng trong Cộng đồng Hiến pháp của ta nhằm bảo đảm khả năng phục hồi, bền vững, và đổi mới vì xã hội. Những cơ hội đó phải thỏa An toàn, Sự thật, quyền năng có giới hạn, và kỷ luật [Gánh nặng có thể tránh](../../core_05_band_continuity.md#avoidable-burden) cùng tính tương xứng nêu ở [Chương Một](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden).
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 Dùng đo lường trong quản trị
@@ -169,7 +169,7 @@ Chương **Một đến Sáu** cung cấp các giá trị, từ vựng, máy xá
 
 Mỗi tóm tắt nêu chương nắm gì và tạo ra gì.
 
-**Chương Một — Giá trị, nguyên tắc, và quản trị có trách nhiệm** ([Phần A](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [Phần B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Phần C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Chương Một — Giá trị, nguyên tắc, và quản trị có trách nhiệm** ([Phần A](core_01_a_values_principles.md) · [Phần B](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Phần C](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **Nội dung nắm giữ:** Nêu các giá trị và ràng buộc dẫn đường của Hiến pháp — phúc lợi, công bằng, An toàn, Sự thật, Tin cậy, tự do có giới hạn, ghi nhận và thưởng tương xứng cho đóng góp hợp pháp, giải quyết xung đột giữa các nguyên tắc, và nghĩa vụ quản trị có trách nhiệm gồm hiểu biết phân tán, đánh giá hệ thống, và kỷ luật quản trị.
 - **Nội dung tạo ra:** Nền diễn giải cho mọi chương sau — các quy tắc biến mục tiêu tầng cao thành yêu cầu vận hành khi hệ thống, quyền, định nghĩa, hoặc chuỗi quy trình phải được đọc và áp dụng.
@@ -227,7 +227,7 @@ Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi �
 - **Nội dung nắm giữ:** Tích hợp các phân loại đã xác minh thành **hiệu ứng quỹ đạo** đời thực trên các đường riêng — chia tỷ lệ theo [**lợi hại vật chất**](#material-stake), không gộp đóng góp và vi phạm thành một điểm ròng, và không làm rỗng tham gia, giám sát, trách nhiệm giải trình, hay kịp thời.
   - **Đường đóng góp:** Phân loại dương đã xác minh tạo lợi thực tế:
     - [**Giấy thông hành năng lực**](../../core_11_standing_integration.md#62-competency-bars-and-clearances) có thể mở các vai trò nhạy tin cậy, thẩm quyền được ủy, tư cách giám sát, và quản trị có trách nhiệm có hệ quả tăng dần khi năng lực được chứng minh so với thanh năng lực đã công bố và không có [khóa quỹ đạo](../../core_11_standing_integration.md#42-prevention--general-standing-locks) áp dụng chặn đường dẫn được đặt tên
-    - Ghi nhận tương xứng và **thưởng vật chất** cho quản trị có trách nhiệm hợp pháp và hợp tác như [Chương Một](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) đòi
+    - Ghi nhận tương xứng và **thưởng vật chất** cho quản trị có trách nhiệm hợp pháp và hợp tác như [Chương Một](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration) đòi
     - Không phải lời khen rỗng. Lợi ích phải thực, có bằng chứng chống lưng, và mở cho tranh biện
   - **Đường vi phạm:** Phát hiện vi phạm đã xác minh tạo hại thực tế:
     - **Khóa quỹ đạo**, giới hạn vai trò, lệnh khắc phục, [khắc phục cho những ai bị hại](../../core_11_standing_integration.md#41-remedy-and-correction), mô tả bổ sung, và móc thi hành

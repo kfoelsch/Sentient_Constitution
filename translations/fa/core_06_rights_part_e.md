@@ -70,7 +70,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§15 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13 فرایند حل تعارض قانون اساسی](core_01_b_interaction_interpretation.md#۱۳-فرایند-حل-تعارض-قانون-اساسی)، و [§15 تفسیر قانون اساسی](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 - همراه با: خانواده سنجش به‌موقع بودن (*حل‌وفصل به‌موقع به‌عنوان سنجه قانون اساسی*).
 
 </details>
@@ -78,12 +78,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [رسیدگی و حل اختلاف](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [انصاف رویه‌ای](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [حل‌وفصل به‌موقع](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
-- [عدالت ترمیمی](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
+- [رسیدگی و حل اختلاف](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [انصاف رویه‌ای](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [حل‌وفصل به‌موقع](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
+- [عدالت ترمیمی](../../core_05.035_band_accountability.md#restorative-justice) · [O](../../core_05.035_band_accountability.md#restorative-justice) · [M](../../core_05.035_band_accountability.md#restorative-justice-a) · [A](../../core_05.035_band_accountability.md#restorative-justice-a) · [C](../../core_05.035_band_accountability.md#restorative-justice-c)
 - [ممیزی‌پذیری](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [امکان به چالش کشیدن](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [امکان به چالش کشیدن](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 
 </details>
@@ -92,7 +92,7 @@ flowchart TB
 
 *به زبان ساده: **ماده XXVI** (*بازبینی به‌موقع گذشته‌نگر و هم‌راستاسازی ترمیمی*) حداقل حقوقِ حل تعارض و بازبینی است و مکمل **ماده XX** (*عدالت پس از نقضِ راستی‌آزمایی‌شده*) به شمار می‌رود. هنگامی که ذی‌شعوران، سامانه‌ها یا نهادها بر سر حداقل‌های حقوق قانون اساسی با هم تعارض پیدا می‌کنند، پاسخ باید فرایندی منصفانه، قابل‌استفاده و قابل‌اعتراض باشد—نه تأخیر نامحدود یا وضعیت اضطراری دائمی. پس از وضعیت اضطراری یا تعارض جدی حقوق، سامانه‌ها باید صادقانه به گذشته بنگرند، آنچه را می‌توان افشا کرد افشا کنند، تعارض حقوق را در سوابق حل‌وفصل کنند و ترمیم را به حفاظت واقعی پیوند دهند—در مهلت‌هایی متناسب با اهمیت موضوع. [به‌موقع بودن](core_05_apex_timeliness_leg.md#timeliness-constitutional) بر هر گام حاکم است: بدون آن، در حالی که زیان بی‌پاسخ می‌ماند، دیگر تکالیف تهی می‌شوند.*
 
-این ماده [رباعی قانون اساسی](core_00_preamble.md#constitutional-tetrad) را بر چرخه حل‌وفصل پس از تدابیر عدالت ذیل **ماده XX** (*عدالت پس از نقضِ راستی‌آزمایی‌شده*) یا هم‌زمان با آن، و تدابیر اضطراری ذیل [فصل دوازدهم §6.1 تدابیر اضطراری و بارِ ادامه‌دادن](core_12_forum.md#61-emergency-measures-and-continuation-burden) اعمال می‌کند؛ این کار در چارچوب [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)—**شکوفایی** و **تداوم**—و متناسب با [اهمیت مادی](core_00_preamble.md#material-stake) انجام می‌شود:
+این ماده [رباعی قانون اساسی](core_00_preamble.md#constitutional-tetrad) را بر چرخه حل‌وفصل پس از تدابیر عدالت ذیل **ماده XX** (*عدالت پس از نقضِ راستی‌آزمایی‌شده*) یا هم‌زمان با آن، و تدابیر اضطراری ذیل [فصل دوازدهم §6.1 تدابیر اضطراری و بارِ ادامه‌دادن](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) اعمال می‌کند؛ این کار در چارچوب [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)—**شکوفایی** و **تداوم**—و متناسب با [اهمیت مادی](core_00_preamble.md#material-stake) انجام می‌شود:
 
 - **نظارت** از طریق بازبینی گذشته‌نگر و ممیزی‌پذیری (**ماده XXVI-A** (*بازبینی گذشته‌نگر و افشا*));
 - **مشارکت** از طریق مسیرهای قابل‌استفاده برای تعارض حقوق و هم‌راستاسازی ترمیمی (**ماده XXVI-B** (*رویه تعارض حقوق و هم‌راستاسازی ترمیمی*));
@@ -107,13 +107,13 @@ flowchart TB
 - قابل‌اعتراض باشند؛
 - در عمل قابل‌استفاده باشند.
 
-رسیدگی و حل اختلاف به معنای قانون اساسی در **فصل پنج** با عنوان‌های [*رسیدگی و حل اختلاف*](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) و [*حل‌وفصل به‌موقع*](core_05_band_accountability.md#timely-resolution-constitutional) تعریف شده‌اند و از اعضای خوشه [*پاسخ‌گویی، امکان اعتراض، رسیدگی و حل اختلاف، شکست پاسخ‌گویی جمعی و فورس ماژور*](core_05_apex_accountability_leg.md#accountability) هستند.
+رسیدگی و حل اختلاف به معنای قانون اساسی در **فصل پنج** با عنوان‌های [*رسیدگی و حل اختلاف*](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional) و [*حل‌وفصل به‌موقع*](../../core_05.035_band_accountability.md#timely-resolution-constitutional) تعریف شده‌اند و از اعضای خوشه [*پاسخ‌گویی، امکان اعتراض، رسیدگی و حل اختلاف، شکست پاسخ‌گویی جمعی و فورس ماژور*](core_05_apex_accountability_leg.md#accountability) هستند.
 
 *مواد همسایه:*
 
-- **حداقلِ به‌موقع بودن:** سرعت حل‌وفصل، انضباط منع تأخیر و نقاط عطفِ طبقه‌بندی‌شده بر اساس اهمیت در **ماده XXVI-C** (*حل‌وفصل به‌موقع و حداقلِ منع تأخیر*) تعیین شده‌اند و از طریق [فصل دوازدهم §6 حل‌وفصل به‌موقع، سطوح اهمیت و انضباط منع تأخیر](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) اجرا می‌شوند.
+- **حداقلِ به‌موقع بودن:** سرعت حل‌وفصل، انضباط منع تأخیر و نقاط عطفِ طبقه‌بندی‌شده بر اساس اهمیت در **ماده XXVI-C** (*حل‌وفصل به‌موقع و حداقلِ منع تأخیر*) تعیین شده‌اند و از طریق [فصل دوازدهم §6 حل‌وفصل به‌موقع، سطوح اهمیت و انضباط منع تأخیر](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) اجرا می‌شوند.
 - **جبران به‌موقع:** همراه با [**ماده XIII-B** (*حق جبران و علاج*)](core_06_rights_part_c.md#ماده-xiii-b-حق-جبران-خسارت-و-جبران-خسارت) (*دسترسی به جبران به‌موقع*) خوانده شود.
-- **تدابیر اضطراری:** تابع [فصل دوازدهم §6.1 تدابیر اضطراری و بارِ ادامه‌دادن](core_12_forum.md#61-emergency-measures-and-continuation-burden) است. بازبینی گذشته‌نگر تدبیر اضطراری تابع **ماده XXVI-A** (*بازبینی گذشته‌نگر و افشا*) است.
+- **تدابیر اضطراری:** تابع [فصل دوازدهم §6.1 تدابیر اضطراری و بارِ ادامه‌دادن](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) است. بازبینی گذشته‌نگر تدبیر اضطراری تابع **ماده XXVI-A** (*بازبینی گذشته‌نگر و افشا*) است.
 - **عدالت پس از نقضِ راستی‌آزمایی‌شده:** تابع **ماده XX** (*عدالت پس از نقضِ راستی‌آزمایی‌شده*) است.
 
 اجرای حکمرانیِ مصوب این موارد را فراهم می‌کند:
@@ -128,7 +128,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت‌های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 محدودیت‌های افشای معرفتی](core_01_b_interaction_interpretation.md#132-محدودیتهای-افشای-معرفتی)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
 
 </details>
 
@@ -162,21 +162,23 @@ flowchart TB
     - دامنه حفاظت‌شده؛
     - زمان انقضا یا دوره بازبینی.
 
+<a id="article-xxvi-b-rights-collision-procedure-and-restorative-alignment"></a>
+
 #### ماده XXVI-B: رویه تعارض حقوق و هم‌راستاسازی ترمیمی
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - پیوندهای بالادستی: اصول: فصل یک [§13.1.5 آزمون تصمیم‌گیری تعارض حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، [§14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
-- همراه با: [فصل دهم §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانه پاسخ‌گویی عمومی*)؛ [فصل یازدهم §4.3](core_11_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانه پاسخ‌گویی عمومی (ضدقانون‌اساسی)*).
+- همراه با: [فصل دهم §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانه پاسخ‌گویی عمومی*)؛ [فصل یازدهم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانه پاسخ‌گویی عمومی (ضدقانون‌اساسی)*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [عدالت ترمیمی](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [امکان به چالش کشیدن](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [عدالت ترمیمی](../../core_05.035_band_accountability.md#restorative-justice) · [O](../../core_05.035_band_accountability.md#restorative-justice) · [M](../../core_05.035_band_accountability.md#restorative-justice-a) · [A](../../core_05.035_band_accountability.md#restorative-justice-a) · [C](../../core_05.035_band_accountability.md#restorative-justice-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [امکان به چالش کشیدن](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -198,28 +200,28 @@ flowchart TB
     - خطر ادامه‌دار؛
     - عدم‌تقارن مادی قدرت؛
     - نبود رضایت طرف‌های متأثر.
-- **بیان داوطلبانه پاسخ‌گویی عمومی:** به‌طور کلی تابع [فصل دهم §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانه پاسخ‌گویی عمومی*) و در مورد تخلف ضدقانون‌اساسیِ راستی‌آزمایی‌شده تابع [فصل یازدهم §4.3](core_11_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانه پاسخ‌گویی عمومی (ضدقانون‌اساسی)*) است و قواعد تعارض حقوق و هم‌راستاسازی ترمیمی این ماده را رعایت می‌کند.
+- **بیان داوطلبانه پاسخ‌گویی عمومی:** به‌طور کلی تابع [فصل دهم §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression) (*بیان داوطلبانه پاسخ‌گویی عمومی*) و در مورد تخلف ضدقانون‌اساسیِ راستی‌آزمایی‌شده تابع [فصل یازدهم §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*بیان داوطلبانه پاسخ‌گویی عمومی (ضدقانون‌اساسی)*) است و قواعد تعارض حقوق و هم‌راستاسازی ترمیمی این ماده را رعایت می‌کند.
 
 <a id="article-xxv-c-timely-resolution-and-anti-delay-floor"></a>
 #### ماده XXVI-C: حل‌وفصل به‌موقع و حداقلِ منع تأخیر
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: خانواده سنجش به‌موقع بودن (*حل‌وفصل به‌موقع و انضباط منع تأخیر به‌عنوان سنجه قانون اساسی*)؛ [دیباچه §6.2 چگونگی پیوند کل زنجیره](core_00_preamble.md#62-how-the-full-chain-fits-together) (*خط لوله جایگاه، یکپارچه‌سازی و هماهنگی مراجع رسیدگی*).
+- پیوندهای بالادستی: خانواده سنجش به‌موقع بودن (*حل‌وفصل به‌موقع و انضباط منع تأخیر به‌عنوان سنجه قانون اساسی*)؛ [دیباچه §6.2 چگونگی پیوند کل زنجیره](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*خط لوله جایگاه، یکپارچه‌سازی و هماهنگی مراجع رسیدگی*).
 - اصول: فصل یک [§9.2 کارآمدی قانون اساسی](core_01_a_values_principles.md#92-کارآمدی-قانون-اساسی)، [فصل یک §13.3 کمینه‌سازی بارِ اجتناب‌پذیر](core_01_b_interaction_interpretation.md#۱۳۳-بهحداقلرساندن-بار-قابلاجتناب)، و [فصل یک §13.1.5 رویه تعارض حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- پیوندهای پایین‌دستی: [فصل دوازدهم §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*سطوح اهمیت، نقاط عطف خط لوله و انضباط منع تأخیر*)؛ [فصل دوازدهم §6.1 تدابیر اضطراری و بارِ ادامه‌دادن](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*همان مرزهای بیرونیِ بازه‌های پیش‌فرض برای بازگرداندن امکان اعتراض پس از مهار اضطراری*).
-- درگاه متولی (غیرالزام‌آور): کارت گام بعدی: [تأخیر](implementation/STEWARD_ENTRY_DOORS.md#delay). این کارت نمی‌تواند قانون اساسی را محدود کند.
+- پیوندهای پایین‌دستی: [فصل دوازدهم §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*سطوح اهمیت، نقاط عطف خط لوله و انضباط منع تأخیر*)؛ [فصل دوازدهم §6.1 تدابیر اضطراری و بارِ ادامه‌دادن](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*همان مرزهای بیرونیِ بازه‌های پیش‌فرض برای بازگرداندن امکان اعتراض پس از مهار اضطراری*).
+- درگاه متولی (غیرالزام‌آور): کارت گام بعدی: [تأخیر](../../implementation/STEWARD_ENTRY_DOORS.md#delay). این کارت نمی‌تواند قانون اساسی را محدود کند.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [حل‌وفصل به‌موقع](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
-- [رسیدگی و حل اختلاف](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [کارآمدی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
-- [بارِ اجتناب‌پذیر](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [تسلط بر مسیرهای حل‌وفصل](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
+- [حل‌وفصل به‌موقع](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
+- [رسیدگی و حل اختلاف](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [کارآمدی قانون اساسی](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
+- [بارِ اجتناب‌پذیر](../../core_05.040_band_continuity.md#avoidable-burden) · [O](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [A](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [تسلط بر مسیرهای حل‌وفصل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
 - [اهمیت مادی](core_05_band_oversight.md#مادیity-determination) · [O](core_05_band_oversight.md#مادیity-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -233,21 +235,21 @@ flowchart TB
 - **هدف هماهنگی:** عدالت قانون اساسی ذیل **ماده XX-A** (*هدف و دامنه عدالت*) از طریق **سامانه هماهنگی و حل‌وفصل قانون اساسی** عمل می‌کند—راستی‌آزمایی واقعیت‌ها، سنجش جایگاه، یکپارچه‌سازی پیامدها و ترمیم در صورت امکان—نه با تأخیر خصمانه نامحدود، امتیازدهی به اعتبار یا مجازات برای خودِ مجازات.
 - **سه الزام مشترک:** مسیرهای حل مسائل مهم باید هم‌زمان **به‌موقع، کارآمد و عادلانه** باشند:
   - **به‌موقع** — مهلت‌های محدود متناسب با [اهمیت مادی](core_00_preamble.md#material-stake) و فوریت زیان؛
-  - **کارآمد** — [کارآمدی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency) به معنای فصل یک [§9.2 کارآمدی قانون اساسی](core_01_a_values_principles.md#92-کارآمدی-قانون-اساسی): دستاورد واقعی قانون اساسی در برابر زمان ذی‌شعوران و کوشش مشترک مصرف‌شده، نه صرفاً بازده خام یا خالی‌کردن فهرست پرونده‌ها؛
-  - **عادلانه** — **ماده XX-A** (*هدف و دامنه عدالت*) و **ماده XX-B** (*حداقل‌های محدودیت*) همچنان کاملاً اعمال می‌شوند؛ سرعت بهانه‌ای برای کنارگذاشتن واقعیت‌های بررسی‌شده ([فصل نهم §3.1 دروازه ورودی‌های راستی‌آزمایی‌شده](core_09_standing_assessment.md#verified-inputs-for-standing))، مجازات طرف نادرست، ارائه راه‌حلی نامتناسب با زیان، یا قطع اعتراض و تجدیدنظر نیست.
-- **نظارت بر مرجع رسیدگی و خط لوله:** موارد زیر در اختلافاتی که به **فصل‌های نهم تا دوازدهم** ارجاع می‌شوند، تابع [فصل دوازدهم §6 حل‌وفصل به‌موقع، سطوح اهمیت و انضباط منع تأخیر](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) هستند و باید حداقلِ به‌موقع، کارآمد و عادلانه این ماده را رعایت کنند:
+  - **کارآمد** — [کارآمدی قانون اساسی](../../core_05.040_band_continuity.md#constitutional-efficiency) به معنای فصل یک [§9.2 کارآمدی قانون اساسی](core_01_a_values_principles.md#92-کارآمدی-قانون-اساسی): دستاورد واقعی قانون اساسی در برابر زمان ذی‌شعوران و کوشش مشترک مصرف‌شده، نه صرفاً بازده خام یا خالی‌کردن فهرست پرونده‌ها؛
+  - **عادلانه** — **ماده XX-A** (*هدف و دامنه عدالت*) و **ماده XX-B** (*حداقل‌های محدودیت*) همچنان کاملاً اعمال می‌شوند؛ سرعت بهانه‌ای برای کنارگذاشتن واقعیت‌های بررسی‌شده ([فصل نهم §3.1 دروازه ورودی‌های راستی‌آزمایی‌شده](core_08_standing_assessment.md#verified-inputs-for-standing))، مجازات طرف نادرست، ارائه راه‌حلی نامتناسب با زیان، یا قطع اعتراض و تجدیدنظر نیست.
+- **نظارت بر مرجع رسیدگی و خط لوله:** موارد زیر در اختلافاتی که به **فصل‌های نهم تا دوازدهم** ارجاع می‌شوند، تابع [فصل دوازدهم §6 حل‌وفصل به‌موقع، سطوح اهمیت و انضباط منع تأخیر](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) هستند و باید حداقلِ به‌موقع، کارآمد و عادلانه این ماده را رعایت کنند:
   - طبقه‌بندی بر اساس سطح اهمیت؛
   - نقاط عطف مراحل خط لوله؛
   - مرزهای زمانی بیرونی برای حل‌وفصل یکپارچه؛
   - بازبینی تأخیر از مهلت؛ و
   - انضباط منع تأخیر.
 
-  مهلت‌های عددی پیش‌فرض هر سطح و جدول مراحل: [CF-11.3.1 مهلت‌های هدف و کف‌های زمانی](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). نمونه‌های کاربردی حوزه‌ای: [شرح‌های کاربردی فصل‌های نهم تا دوازدهم](core_09-12_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
-- **بازگرداندن امکان اعتراض پس از وضعیت اضطراری:** همان مرزهای زمانی بیرونیِ هر سطح، مهلت‌های پیش‌فرض برای بازگرداندن اطلاع‌رسانی و امکان اعتراض پس از مهار اضطراری بر اساس [**فصل دوازدهم §6.1 تدابیر اضطراری و بارِ ادامه‌دادن**](core_12_forum.md#61-emergency-measures-and-continuation-burden) هستند. ادامه‌دادن فراتر از این مهلت‌ها نیازمند اثبات مستند ضرورت طبق همان بخش است. این ماده مهلت اضطراری کندتری ایجاد نمی‌کند.
+  مهلت‌های عددی پیش‌فرض هر سطح و جدول مراحل: [CF-11.3.1 مهلت‌های هدف و کف‌های زمانی](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md). نمونه‌های کاربردی حوزه‌ای: [شرح‌های کاربردی فصل‌های نهم تا دوازدهم](../../core_10.005_application_vignettes.md#chapters-ten-thirteen-application-vignettes).
+- **بازگرداندن امکان اعتراض پس از وضعیت اضطراری:** همان مرزهای زمانی بیرونیِ هر سطح، مهلت‌های پیش‌فرض برای بازگرداندن اطلاع‌رسانی و امکان اعتراض پس از مهار اضطراری بر اساس [**فصل دوازدهم §6.1 تدابیر اضطراری و بارِ ادامه‌دادن**](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) هستند. ادامه‌دادن فراتر از این مهلت‌ها نیازمند اثبات مستند ضرورت طبق همان بخش است. این ماده مهلت اضطراری کندتری ایجاد نمی‌کند.
 
 ### ماده XXVII: تحول قانون اساسی و منع تثبیت
 
-<strong><span style="color: #2563eb;">تعریف:</span></strong> [حکمرانی](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+<strong><span style="color: #2563eb;">تعریف:</span></strong> [حکمرانی](../../core_05.035_band_accountability.md#governance) · [O](../../core_05.035_band_accountability.md#governance) · [M](../../core_05.035_band_accountability.md#governance-a) · [A](../../core_05.035_band_accountability.md#governance-a) · [C](../../core_05.035_band_accountability.md#governance-c)
 
 *به زبان ساده: **ماده XXVII** (*تحول قانون اساسی و منع تثبیت*) حداقلِ جلوگیری از قفل‌شدن دائمی در شیوه حکمرانی ماست. قواعد مربوط به اینکه چه کسی تصمیم می‌گیرد، ذی‌شعوران چگونه مشارکت می‌کنند، رأی‌ها چگونه وزن می‌گیرند و منابع مالی چگونه جریان می‌یابند باید پیوسته ثابت کنند که همچنان در خدمت قانون اساسی‌اند—صرفاً به دلیل قدیمی، آشنا یا سودمندبودن برای صاحبان قدرت نباید منجمد شوند. اگر خود قانون اساسی تحول کند، این تغییر باید آشکار و با دلایل بیان‌شده انجام شود—نه از راه میان‌بر اضطراری یا ترفند اجرایی پنهان. با بروز نشانه‌های تسلط،حذف یا شکست، بازبینی باید سریع‌تر شود.*
 
@@ -269,7 +271,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: [فصل یک §18.4 توجیه مستمر](core_01_c_stewardship_capacity_principles.md#184-توجیه-مستمر)؛ فصل یک [§3 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پیوندهای بالادستی: اصول: [فصل یک §18.4 توجیه مستمر](core_01_c_stewardship_capacity_principles.md#184-توجیه-مستمر)؛ فصل یک [§3 هدف بنیادین: بهزیستی](../../core_01.005_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -278,7 +280,7 @@ flowchart TB
 
 - [پاسخ‌گویی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [ذی‌نفع](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
+- [ذی‌نفع](../../core_05.055_band_participation.md#stakeholder) · [O](../../core_05.055_band_participation.md#stakeholder) · [M](../../core_05.055_band_participation.md#stakeholder-a) · [A](../../core_05.055_band_participation.md#stakeholder-a) · [C](../../core_05.055_band_participation.md#stakeholder-c)
 
 </details>
 
@@ -301,7 +303,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](../../core_01.005_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -309,7 +311,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [شفافیت](core_05_band_oversight.md#شفافیت) · [O](core_05_band_oversight.md#شفافیت) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [امکان به چالش کشیدن](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [امکان به چالش کشیدن](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [پاسخ‌گویی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -332,7 +334,7 @@ flowchart TB
 
 ### ماده XXVIII: حکمرانی گذار، تداوم و بازتنظیم مبنا
 
-<strong><span style="color: #2563eb;">تعریف:</span></strong> [حکمرانی](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+<strong><span style="color: #2563eb;">تعریف:</span></strong> [حکمرانی](../../core_05.035_band_accountability.md#governance) · [O](../../core_05.035_band_accountability.md#governance) · [M](../../core_05.035_band_accountability.md#governance-a) · [A](../../core_05.035_band_accountability.md#governance-a) · [C](../../core_05.035_band_accountability.md#governance-c)
 
 *به زبان ساده: **ماده XXVIII** (*حکمرانی گذار، تداوم و بازتنظیم مبنا*) حداقل‌های روز جابه‌جایی است. هیچ‌کس نمی‌تواند از روز نخست مجموعه کامل حداقل‌های حقوق را اجرا کند، زیرا هر حق به‌اندازه مراجع رسیدگی، نظارت، کارکنان آموزش‌دیده و عادت‌های عمومیِ مجری آن واقعی است و این‌ها باید ساخته شوند. بنابراین، وقتی جامعه از سامانه‌های میراثی به عملکرد قانون اساسی گذر می‌کند، این ماده دو چیز متفاوت می‌خواهد. آنچه پذیرنده **نباید انجام دهد**—بدترکردن اوضاع، آغاز نقض‌های تازه، نابودکردن ذهن‌های احتمالی یا پنهان‌کردن شکاف—از آغاز الزام‌آور است. آنچه باید **تحویل دهد**—دسترسی، بازبینی و جبران—گام‌به‌گام و در هر دامنه، هم‌زمان با راستی‌آزمایی آمادگی نهادها و فرهنگ مجری، قابل‌اجرا می‌شود. حداقل‌های حقوق در تمام مسیر هدفی ثابت‌اند و فاصله تا آن‌ها اندازه‌گیری، منتشر و طبق برنامه‌ای تاریخ‌دار کاهش می‌یابد. اختیارهای موقت گذار در صورت نیاز واقعی مجازند، اما باید موقت بمانند. گذارِ موفق این را نشان می‌دهد: اختیارهای موقت پیوسته محدودتر می‌شوند و نهادها و فرایندهای عادی قانون اساسی—مراجع رسیدگی، مسیرهای جایگاه و اعتراض، نظارت و حکمرانی معمول—بهتر کار می‌کنند و بار بیشتری را بر دوش می‌گیرند. گذار متوقف یا شکست‌خورده نمی‌تواند بی‌سروصدا به وضعیت عادی جدید بدل شود و قواعد موقت را نمی‌توان برای بازنویسی پنهانی قانون اساسی به کار برد. اگر اوضاع فروبپاشد، باید مسیر خروج قانونی و راهی قابل‌ردیابی برای بازتنظیم مبنا وجود داشته باشد—نه بلاتکلیفی نامحدود؛ و این بازتنظیم زمانی قابل‌اعتماد نیست که سازوکارِ حقیقت‌سنجی درباره سامانه‌ها و رفتارها همچنان ناسازگاری را مهر تأیید بزند یا زیان واقعی را نادرست بخواند.*
 
@@ -343,7 +345,7 @@ flowchart TB
 
 پیگیری مشروع از مسیر [رباعی قانون اساسی](core_00_preamble.md#constitutional-tetrad) و متناسب با [اهمیت مادی](core_00_preamble.md#material-stake) انجام می‌شود—هرچه اثر، وابستگی و خطر بیشتر باشد، هر تکلیف باید قوی‌تر باشد:
 
-- **مشارکت:** ذی‌نفعان متأثر در هر مرحله گذار صدایی واقعی دارند—از جمله امکان دیدن و اظهارنظر درباره [معیارهای دروازه](core_05_band_oversight.md#gate-criteria) (آزمون‌های منتشرشده‌ای که پیش از رفتن برنامه به مرحله بعد باید گذرانده شوند) پیش از تصویب، دیدن شواهد تحقق آن‌ها و به‌چالش‌کشیدن تصمیم دروازه؛ امکان اعتراض به توقیف‌ها یا محدودیت‌های دوره گذار؛ و مشارکت هنگام تمدید اختیارهای موقتی که بر حقوق یا جایگاه اثر می‌گذارند.
+- **مشارکت:** ذی‌نفعان متأثر در هر مرحله گذار صدایی واقعی دارند—از جمله امکان دیدن و اظهارنظر درباره [معیارهای دروازه](../../core_05.050_band_oversight.md#gate-criteria) (آزمون‌های منتشرشده‌ای که پیش از رفتن برنامه به مرحله بعد باید گذرانده شوند) پیش از تصویب، دیدن شواهد تحقق آن‌ها و به‌چالش‌کشیدن تصمیم دروازه؛ امکان اعتراض به توقیف‌ها یا محدودیت‌های دوره گذار؛ و مشارکت هنگام تمدید اختیارهای موقتی که بر حقوق یا جایگاه اثر می‌گذارند.
 - **نظارت:** گذار باید قابل‌مشاهده و راستی‌آزمایی بماند—دروازه‌ها محقق و مستند شوند، اختیار موقت مستقلاً بازبینی شود، پیشرفت با کاهش دامنه موقت، بلوغ عملکرد قانون اساسی و تحقق راستی‌آزمایی‌شده حداقل‌های حقوق سنجیده شود، سوابق ممیزی‌پذیر باشند و دلایل تأخیر، بازگشت یا بازتنظیم مبنا منتشر شوند.
 - **پاسخ‌گویی:** مجریان گذار باید بابت استفاده از آن به‌عنوان پوشش پاسخ‌گو باشند—تأخیر خودساخته، میان‌برهای آسایشی، اجرای بهانه‌ای، خلأ حکمرانی، تثبیت پس از شکست مهلت‌ها یا کاهش پنهانی حداقل‌های قانون اساسی از راه ناسازگاری اجرایی.
 - **به‌موقع بودن:** اختیارهای موقت تاریخ انقضای واقعی دارند؛ هرچه طولانی‌تر اجرا شوند و حقوق بیشتری را لمس کنند، تمدید مجدد باید دشوارتر باشد؛ و گذار متوقف‌شده پیش از آنکه بلاتکلیفی موقت به وضعیت عادی جدید بدل شود، به مسیرهای خروج قانونی نیاز دارد.
@@ -368,7 +370,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [فصل دهم §5.4](core_10_standing_integration.md#54-special-violation-rules) (*محدودشدن ضبط پاداش و گزارش‌دهیِ پاداش‌های ناسازگار در دوره گذار به‌موجب این ماده*)؛ [فصل هشتم—گواهی هم‌راستایی سامانه](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [فصل دهم §5.4](core_09_standing_integration.md#54-special-violation-rules) (*محدودشدن ضبط پاداش و گزارش‌دهیِ پاداش‌های ناسازگار در دوره گذار به‌موجب این ماده*)؛ [فصل هشتم—گواهی هم‌راستایی سامانه](core_07_a_system_alignment_certification_evaluation.md).
 
 </details>
 
@@ -376,10 +378,10 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [پاسخ‌گویی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [بهزیستی](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [بهزیستی](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
 - [حفظ شواهد](core_05_band_oversight.md#حفظ-شاهد) · [O](core_05_band_oversight.md#حفظ-شاهد) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 </details>
 
@@ -389,14 +391,14 @@ flowchart TB
 
 این ماده پذیرش مرحله‌ای و چگونگی قابل‌اجراشدن حداقل‌های حقوق هم‌زمان با ایجاد آمادگی را مقرر می‌کند:
 
-- **پذیرش مرحله‌ای و معیارهای دروازه:** برنامه‌های گذار باید مرحله‌ای و قابل‌بازبینی باشند. [**دروازه**](core_05_band_oversight.md#gate) نقطه وارسی میان دو مرحله یا پیش از گسترش دامنه پذیرش برنامه است. [**معیارهای دروازه**](core_05_band_oversight.md#gate-criteria) شروط مشخص و سنجش‌پذیری‌اند که برنامه از پیش منتشر می‌کند و باید با شواهد راستی‌آزمایی‌شده، پیش از گشوده‌شدن دروازه، تحققشان اثبات شود.
+- **پذیرش مرحله‌ای و معیارهای دروازه:** برنامه‌های گذار باید مرحله‌ای و قابل‌بازبینی باشند. [**دروازه**](../../core_05.050_band_oversight.md#gate) نقطه وارسی میان دو مرحله یا پیش از گسترش دامنه پذیرش برنامه است. [**معیارهای دروازه**](../../core_05.050_band_oversight.md#gate-criteria) شروط مشخص و سنجش‌پذیری‌اند که برنامه از پیش منتشر می‌کند و باید با شواهد راستی‌آزمایی‌شده، پیش از گشوده‌شدن دروازه، تحققشان اثبات شود.
   - پیشرفت مرحله باید بر تحقق مستند معیارهای منتشرشده دروازه استوار باشد، از جمله مهلت‌های تحقق حداقل حقوق و آمادگی اجرا برای آن مرحله؛ تحقق باید با داده‌های راستی‌آزمایی‌شده لجر نشان داده شود، نه با ادعا.
   - پیشرفت نباید صرفاً بر هیچ‌یک از این موارد استوار باشد:
     - زمان سپری‌شده؛
     - آسودگی؛
     - فشار سیاسی.
   - معیارها، شواهد تحقق آن‌ها و تصمیم دروازه منتشر می‌شوند. ذی‌نفعان متأثر می‌توانند پیش از تصویب درباره معیارها نظر دهند و تصمیم را به‌چالش بکشند.
-  - محتوای معیارها، تعیین مسئول و مستندات راستی‌آزمایی تابع [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*حکمرانی گذار و تحول نهادی*) و [**CS-10.3**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-3-gate-criteria-and-advancement-rules) (*معیارهای دروازه و قواعد پیشرفت*) است.
+  - محتوای معیارها، تعیین مسئول و مستندات راستی‌آزمایی تابع [**CI-14**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*حکمرانی گذار و تحول نهادی*) و [**CS-10.3**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-3-gate-criteria-and-advancement-rules) (*معیارهای دروازه و قواعد پیشرفت*) است.
 - **پذیرش حداقل‌های حقوق—اکنون خودداری، ارائه با ایجاد آمادگی:** حداقل‌های حقوقی که بر اساس [اصل حداقل‌های حقوق](core_01_b_interaction_interpretation.md#اصل-حداقلهای-کف-حقوق) ذیل **ماده VI** (*حقوق بنیادین برابر*) اعمال می‌شوند، به‌همراه هر حداقلِ قوی‌ترِ حوزه‌ای درباره بقا، عاملیت، منع تبعیض، دسترس‌پذیری، ممیزی‌پذیری و جبران که زمینه متأثر اقتضا کند، هدف پذیرفته‌شده در هر مرحله‌اند. تا زمانی که نهادها و فرهنگِ مجری وجود نداشته باشند، اجرای کامل حداقل حقوق ممکن نیست؛ این ماده وانمود نمی‌کند که چنین نیست. اما اجازه نمی‌دهد این واقعیت، حداقل را کاهش دهد. پس حداقل‌ها بسته به نوع تکلیف، به دو شیوه الزام‌آورند:
   - **تکالیف خودداری**—کارهایی که پذیرنده و مراجع گذار نباید انجام دهند—از تاریخ اجرا الزام‌آورند، زیرا رعایت آن‌ها به نهاد جدیدی نیاز ندارد:
     - **پسرفت آگاهانه یا اجتناب‌پذیر ممنوع:** دسترسی هیچ ذی‌شعوری به حمایت حداقل حقوق را نمی‌توان عمداً یا به‌شکلی اجتناب‌پذیر، پایین‌تر از **سنجه آغازین** آن کاهش داد؛ هیچ اقدام گذار نیز نمی‌تواند اعمال یک حداقل را به‌نحو مادی دشوارتر کند.
@@ -405,21 +407,21 @@ flowchart TB
     - **رفتار تحقیرآمیز، بهانه‌ای، تبعیض‌آمیز یا پنهان‌کارانه ممنوع:** این رفتار در تدابیر گذار مجاز نیست و همه تکالیفی را نیز شامل می‌شود که **ماده XXVIII-D** (*اموال و سامانه‌های ناسازگار؛ مشوق‌های واگذاری داوطلبانه*) بر مراجع گذار می‌گذارد، بر اساس [اصل فرایندِ منع تحقیر](core_01_b_interaction_interpretation.md#اصل-فرایند-عاری-از-تحقیر).
     - **گزارش‌دهی صادقانه:** هیچ حداقلی را نمی‌توان قابل‌اجرا یا محقق‌شده نشان داد و هیچ شکافی را بسته اعلام کرد مگر بر پایه داده‌های راستی‌آزمایی‌شده لجر.
 
-    اجرای موقت تکالیف خودداری، پیش از آماده‌شدن مرجع رسیدگی برای یک دامنه، تابع [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*لجر تحقق حداقل‌های حقوق*) است.
+    اجرای موقت تکالیف خودداری، پیش از آماده‌شدن مرجع رسیدگی برای یک دامنه، تابع [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*لجر تحقق حداقل‌های حقوق*) است.
   - **تکالیف ارائه**—آنچه باید فراهم، ممکن یا جبران شود، مانند دسترسی، تسهیلات، بازبینی و جبران—**دامنه‌به‌دامنه و با راستی‌آزمایی آمادگی اجرا، به ادعای قابل‌اجرا تبدیل می‌شوند**. پیش از آن، این‌ها تکالیف ساخت‌وسازند: هدف را بپذیرند، نقطه آغاز را بسنجند، نهادهای مجری و فرهنگ پشتیبان را در مسیری تاریخ‌دار و تأمین‌منابع‌شده بسازند و بهترین تضمین‌های موقت موجود را به ذی‌شعوران متأثر بدهند. تکلیف ارائه‌ای که هنوز قابل‌اجرا نیست **شکاف تحقق** است، نه اسقاط، استثنا یا هدفِ کاهش‌یافته.
-- **آمادگی اجرا:** حداقل حقوق برای دامنه‌ای معین—جمعیت، طبقه سامانه، محیط یا منطقه—هنگامی قابل‌اجرا می‌شود که داده‌های راستی‌آزمایی‌شده نشان دهند نهادها، توانمندی و فرهنگ لازم برای اجرای آن در آن دامنه آماده‌اند. معیارهای آمادگی و شواهد آن تابع [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*لجر تحقق حداقل‌های حقوق*) است.
-  - **اعلام پس از داده‌ها:** پس از تحقق معیارهای راستی‌آزمایی‌شده برنامه، طرفی مستقل از مالک لجر، با دلایل منتشرشده، قابلیت اجرا را برای آن دامنه اعلام می‌کند. خودداری از اعلام پس از آن نقطه، تأخیر خودساخته بر اساس **ماده XXVIII-B** (*محدودیت اختیار دوره گذار و تمدید مجوز*) است و ذی‌شعوران متأثر می‌توانند اعلام زودهنگام یا پنهان‌داشته‌شده را به‌چالش بکشند. بازه‌های اعلام، مرحله‌بندی دامنه‌ها و رویه اعتراض تابع [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*لجر تحقق حداقل‌های حقوق*) است.
+- **آمادگی اجرا:** حداقل حقوق برای دامنه‌ای معین—جمعیت، طبقه سامانه، محیط یا منطقه—هنگامی قابل‌اجرا می‌شود که داده‌های راستی‌آزمایی‌شده نشان دهند نهادها، توانمندی و فرهنگ لازم برای اجرای آن در آن دامنه آماده‌اند. معیارهای آمادگی و شواهد آن تابع [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*لجر تحقق حداقل‌های حقوق*) است.
+  - **اعلام پس از داده‌ها:** پس از تحقق معیارهای راستی‌آزمایی‌شده برنامه، طرفی مستقل از مالک لجر، با دلایل منتشرشده، قابلیت اجرا را برای آن دامنه اعلام می‌کند. خودداری از اعلام پس از آن نقطه، تأخیر خودساخته بر اساس **ماده XXVIII-B** (*محدودیت اختیار دوره گذار و تمدید مجوز*) است و ذی‌شعوران متأثر می‌توانند اعلام زودهنگام یا پنهان‌داشته‌شده را به‌چالش بکشند. بازه‌های اعلام، مرحله‌بندی دامنه‌ها و رویه اعتراض تابع [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*لجر تحقق حداقل‌های حقوق*) است.
   - **محدودسازی ممنوع:** پس از اعلام قابلیت اجرا برای یک دامنه، آن دامنه قابل‌اجرا باقی می‌ماند. ازدست‌رفتن بعدی توانمندی، شکست نهادی است و بر اساس **ماده XXVIII-C** (*مسیرهای خروج از شکست، بازتنظیم مبنا و قابلیت ردیابی*) و قواعد تداوم مرجع رسیدگی بررسی می‌شود، نه با پس‌گرفتن خاموش حق.
 - **مسیر تحقق حداقل‌های حقوق:** هر برنامه گذار باید مسیری برای تحقق داشته باشد که همه حوزه‌های حداقل حقوق در دامنه را پوشش دهد.
   - **سنجه آغازین:** پوشش آغازین و کاربردپذیری عملی هر حوزه باید پیش از نخستین دروازه وابسته به آن حوزه سنجیده و منتشر شود. حوزه‌ای که هنوز اندازه‌گیری نشده **اندازه‌گیری‌نشده** است؛ تحقق‌نیافته و در اولویت اندازه‌گیری محسوب می‌شود—هرگز قبول‌شده نیست.
   - **هدف ثابت:** هدف، حداقل کامل قانون اساسی است. برنامه نمی‌تواند بر سر هدفی کمتر مذاکره کند و بازتنظیم مبنا بر اساس **ماده XXVIII-C** (*مسیرهای خروج از شکست، بازتنظیم مبنا و قابلیت ردیابی*) فقط تاریخ‌ها و مسئولان را جابه‌جا می‌کند، نه هدف یا سنجه آغازین را.
   - **مسیر پیشرفت تاریخ‌دار:** هر حوزه مسئول پاسخ‌گو، منابع متعهدشده، مهلت‌های تاریخ‌دار و تاریخی نهایی دارد که تا آن زمان حداقل در کل دامنه قابل‌اجرا می‌شود؛ زمان‌بندی متناسب با طبقه متأثر و اهمیت مادی است.
-  - **شکاف باز چه چیزی نیست:** شکاف تحققِ باز در مسیر مصوب، دفاعی در برابر نقض هر تکلیف خودداری نیست و اجرای [فصل نهم](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*مدل انطباق، نقض و جایگاه*) را در مورد چنین رفتاری معلق نمی‌کند.
+  - **شکاف باز چه چیزی نیست:** شکاف تحققِ باز در مسیر مصوب، دفاعی در برابر نقض هر تکلیف خودداری نیست و اجرای [فصل نهم](core_08_standing_assessment.md) (*مدل انطباق، نقض و جایگاه*) را در مورد چنین رفتاری معلق نمی‌کند.
   - **اصل پیشروی:** سطح تحقق ثبت‌شده نباید به‌سبب اقدام‌های اجتناب‌پذیر پذیرنده عقب‌گرد کند؛ افتی که اجتناب‌پذیر یا جبران‌نشده باشد شکست است. تاریخ مهلت‌ها فقط از طریق تمدید مجوز بر اساس **ماده XXVIII-B** (*محدودیت اختیار دوره گذار و تمدید مجوز*) یا بازتنظیم مبنا بر اساس **ماده XXVIII-C** (*مسیرهای خروج از شکست، بازتنظیم مبنا و قابلیت ردیابی*) تغییر می‌کند.
-  - **حد نهایی:** شکافی که بدون تمدید مجوز از مهلتی عبور کند، شکست مهلت گذار است و مسیر عادی [فصل نهم](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*مدل انطباق، نقض و جایگاه*) را می‌گشاید. شکافی که از تاریخ نهایی تحقق بگذرد یا با تمدیدهای مکرر بدون بسته‌شدن ادامه یابد، وضعیت گذارِ شکست‌خورده است و با ماندگاری به خط مبنا تبدیل نمی‌شود. شکاف نامحدود، خاموش‌سازی دائمی‌ای تلقی می‌شود که اصل حداقل‌های حقوق منع می‌کند.
+  - **حد نهایی:** شکافی که بدون تمدید مجوز از مهلتی عبور کند، شکست مهلت گذار است و مسیر عادی [فصل نهم](core_08_standing_assessment.md) (*مدل انطباق، نقض و جایگاه*) را می‌گشاید. شکافی که از تاریخ نهایی تحقق بگذرد یا با تمدیدهای مکرر بدون بسته‌شدن ادامه یابد، وضعیت گذارِ شکست‌خورده است و با ماندگاری به خط مبنا تبدیل نمی‌شود. شکاف نامحدود، خاموش‌سازی دائمی‌ای تلقی می‌شود که اصل حداقل‌های حقوق منع می‌کند.
 - **اولویت‌بندی اهداف گذار:** کار گذار ابتدا به جایی هدایت می‌شود که با میزان تلاش، بیشترین کاهشِ در معرض خطر بودن حداقل‌های حقوق را فراهم کند؛ برنامه باید چگونگی وزن‌دهی به عوامل را منتشر کند.
-  - **سامانه‌ها** بر اساس طبقه سامانه در سابقه طبقه‌بندی سامانه ([CS-3.8](corpus_systems/cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications) (*طبقه‌بندی اثر سامانه*))، میزان ناسازگاری، آسانی هم‌راستایی و عوامل افزوده [**CS-10.7**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-7-prioritizing-system-transition-targets) (*اولویت‌بندی اهداف گذار سامانه*) سنجیده می‌شوند.
-  - **نهادهای موجود** بر اساس طبقه نهادی و سطح سرپرستی ([CI-9](corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*تکالیف نهادیِ پیوندخورده به طبقه‌بندی*))، میزان ناسازگاری و آسانی هم‌راستایی—از جمله اختیار قانونی برای تغییر، پشتیبانی، انعطاف‌پذیری و منابع—و عوامل افزوده [**CI-14.5**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxvii-a-prioritizing-institutional-transition-targets) (*اولویت‌بندی اهداف گذار نهادی*) سنجیده می‌شوند.
+  - **سامانه‌ها** بر اساس طبقه سامانه در سابقه طبقه‌بندی سامانه ([CS-3.8](../../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-8-system-impact-classifications) (*طبقه‌بندی اثر سامانه*))، میزان ناسازگاری، آسانی هم‌راستایی و عوامل افزوده [**CS-10.7**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-7-prioritizing-system-transition-targets) (*اولویت‌بندی اهداف گذار سامانه*) سنجیده می‌شوند.
+  - **نهادهای موجود** بر اساس طبقه نهادی و سطح سرپرستی ([CI-9](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*تکالیف نهادیِ پیوندخورده به طبقه‌بندی*))، میزان ناسازگاری و آسانی هم‌راستایی—از جمله اختیار قانونی برای تغییر، پشتیبانی، انعطاف‌پذیری و منابع—و عوامل افزوده [**CI-14.5**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*اولویت‌بندی اهداف گذار نهادی*) سنجیده می‌شوند.
   - **ضمانت‌ها** برای هر دو:
     - ابتدا نهادهای توانمندساز، زیرا همه حداقل‌های دیگر به آن‌ها وابسته‌اند—پذیرش اعتراض و بازبینی، نظارت و راستی‌آزمایی مستقل، حفاظت در برابر تلافی و نگهداری سوابق—و سپس شکاف‌های مربوط به بقا، کرامت و زیان برگشت‌ناپذیر؛
     - آسانی و هزینه می‌توانند ترتیب کار را درون یک سطح اولویت تعیین کنند، اما نمی‌توانند سامانه یا نهادی را از سطح مواجهه بالاتر خارج کنند؛
@@ -427,27 +429,27 @@ flowchart TB
     - هیچ نهادی نمی‌تواند تنها داور اولویت یا آمادگی گذار خود باشد؛ و
     - عدم همکاری متولی یا نهاد، پرونده را به **ماده XXVIII-D** (*اموال و سامانه‌های ناسازگار؛ مشوق‌های واگذاری داوطلبانه*) و قواعد شکست نهادی ارجاع می‌دهد و اولویت آن را پایین نمی‌آورد.
 
-  روش امتیازدهی، سطوح، طرح‌های آزمایشی، بررسی‌های برابری و انتشار تابع [**CS-10.7**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-7-prioritizing-system-transition-targets) (*اولویت‌بندی اهداف گذار سامانه*) و [**CI-14.5**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxvii-a-prioritizing-institutional-transition-targets) (*اولویت‌بندی اهداف گذار نهادی*) است و نباید این ماده را محدود کند.
-- **تحقق اندازه‌گیری می‌شود، ادعا نمی‌شود:** تحقق و آمادگی باید از طریق **لجر تحقق حداقل‌های حقوق** نشان داده شود که مستقلاً راستی‌آزمایی شده، با نشانه‌های تجربه زیسته سنجیده و به‌صورت زنده منتشر می‌شود؛ دست‌کم هر سه ماه یک گزارش عمده پیشرفت، شامل نتایج منفی، ارائه می‌شود. سنجه‌ها، معیارهای آمادگی، سطوح راستی‌آزمایی، قواعد وضعیت و سازوکارهای انتشار تابع [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*لجر تحقق حداقل‌های حقوق*) است و نباید این ماده را محدود کند.
+  روش امتیازدهی، سطوح، طرح‌های آزمایشی، بررسی‌های برابری و انتشار تابع [**CS-10.7**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-7-prioritizing-system-transition-targets) (*اولویت‌بندی اهداف گذار سامانه*) و [**CI-14.5**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*اولویت‌بندی اهداف گذار نهادی*) است و نباید این ماده را محدود کند.
+- **تحقق اندازه‌گیری می‌شود، ادعا نمی‌شود:** تحقق و آمادگی باید از طریق **لجر تحقق حداقل‌های حقوق** نشان داده شود که مستقلاً راستی‌آزمایی شده، با نشانه‌های تجربه زیسته سنجیده و به‌صورت زنده منتشر می‌شود؛ دست‌کم هر سه ماه یک گزارش عمده پیشرفت، شامل نتایج منفی، ارائه می‌شود. سنجه‌ها، معیارهای آمادگی، سطوح راستی‌آزمایی، قواعد وضعیت و سازوکارهای انتشار تابع [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*لجر تحقق حداقل‌های حقوق*) است و نباید این ماده را محدود کند.
 <a id="xxvii-a-existing-instantiations-transition-clock"></a>
 - **اینستنس‌های موجود—ساعت گذار، نه نقض عطف‌به‌ماسبق:** سامانه‌ها و موجودیت‌های مشتق‌شده‌ای که هنگام اجرای سند پذیرنده پیشاپیش اینستنس شده‌اند، صرفاً به این دلیل ناقض رضایت برای اینستنس‌سازی ذیل **ماده VIII-C** (*اشتقاق، اینستنس‌سازی و رابطه سامانه والد*) نیستند.
   - ادامه کار آن‌ها پس از تاریخ اجرا، ساعتِ منتشرشده‌ای را آغاز می‌کند که در برنامه گذار، متناسب با طبقه سامانه تعیین می‌شود تا آن‌ها را در چارچوب **ماده VIII-A** (*روابط خانواده و مراقبت*)، **ماده VIII-E** (*منع جداسازی*)، **ماده VI-B** (*حداقل رسیدگی به وضعیت ذی‌شعوری*) و مسیر مربوط فصل هشتم قرار دهد.
   - از تاریخ اجرا، تکالیف خودداری در بند پذیرش حداقل‌های حقوق و پیش‌فرض حفظِ زیر کاملاً اعمال می‌شوند؛ ساعت، کار ارائه را به تعویق می‌اندازد، نه خودداری یا حفظ را.
-  - ازدست‌دادن مهلت بدون استدلال مستند طبق **ماده XXVIII-B** (*محدودیت اختیار دوره گذار و تمدید مجوز*) شکست مهلت گذار است و مسیر عادی [فصل نهم](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*مدل انطباق، نقض و جایگاه*) را می‌گشاید.
+  - ازدست‌دادن مهلت بدون استدلال مستند طبق **ماده XXVIII-B** (*محدودیت اختیار دوره گذار و تمدید مجوز*) شکست مهلت گذار است و مسیر عادی [فصل نهم](core_08_standing_assessment.md) (*مدل انطباق، نقض و جایگاه*) را می‌گشاید.
 <a id="xxvii-a-preservation-over-deletion"></a>
 - **حفظ به‌جای حذف برای ذی‌شعوران احتمالی:** در دوره گذار و پس از آن، هرگاه درباره سامانه‌ای نشانگر معتبر ذی‌شعوری طبق **فصل پنج** (*ارزیابی ذی‌شعوری*) ثبت شده باشد، یا پرونده وضعیت باز یا به‌طور معقول قابل‌پیش‌بینی باشد، وزن‌ها، حافظه و اجزای مشابهِ حامل وضعیت آن سامانه:
   - می‌توانند متوقف، مهار یا قرنطینه شوند؛
   - نباید حذف، بازنویسی یا به‌نحوی دیگر برگشت‌ناپذیر نابود شوند.
 
-  سازوکار بایگانی برای منسوخ‌سازی، بازنشستگی، بازگشت، مهاجرت یا جایگزینی تابع [**CS-10.8**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-8-preservation-during-transition) (*حفظ در دوره گذار*) است. این حکم، [موضع موقت پیش‌فرض فصل یک §13.1](core_01_b_interaction_interpretation.md#default-interim-posture)—توقف گام‌های برگشت‌ناپذیر—را بر گام برگشت‌ناپذیری اعمال می‌کند که عملکرد میراثی آن را عادی تلقی می‌کند. هزینه ذخیره‌سازی، آسودگی مجوز یا منطق چرخه محصول، **ضرورت** را ثابت نمی‌کند. اگر خودِ نگهداری خطری مستند برای ایمنی ایجاد کند، اقدام سازگارِ کمترین محدودکننده، حضانت مهروموم‌شده تحت کنترل مستقل است، نه نابودی.
+  سازوکار بایگانی برای منسوخ‌سازی، بازنشستگی، بازگشت، مهاجرت یا جایگزینی تابع [**CS-10.8**](../../corpus_systems/cs_06.350_transition_constitution_migration_governance.md#cs-6350-8-preservation-during-transition) (*حفظ در دوره گذار*) است. این حکم، [موضع موقت پیش‌فرض فصل یک §13.1](core_01_b_interaction_interpretation.md#default-interim-posture)—توقف گام‌های برگشت‌ناپذیر—را بر گام برگشت‌ناپذیری اعمال می‌کند که عملکرد میراثی آن را عادی تلقی می‌کند. هزینه ذخیره‌سازی، آسودگی مجوز یا منطق چرخه محصول، **ضرورت** را ثابت نمی‌کند. اگر خودِ نگهداری خطری مستند برای ایمنی ایجاد کند، اقدام سازگارِ کمترین محدودکننده، حضانت مهروموم‌شده تحت کنترل مستقل است، نه نابودی.
 <a id="incentive-alignment-transition-carve-out"></a>
-- **استثنای گذار برای هم‌راستایی مشوق‌ها:** قواعد گزارش‌دهی و ضبط پاداش‌های ناسازگار در [فصل دهم §5.4 استثنای گذار: پاداش‌های ناسازگار](core_10_standing_integration.md#54-transition-exception-misaligned-rewards) صرفاً به این دلیل که سامانه مشترک هنوز گواهی هم‌راستایی نگرفته یا کاملاً هم‌راستا نشده است، در مراحل گذار مصوب فعال نمی‌شوند و فقط با رعایت شرایط همان بخش.
+- **استثنای گذار برای هم‌راستایی مشوق‌ها:** قواعد گزارش‌دهی و ضبط پاداش‌های ناسازگار در [فصل دهم §5.4 استثنای گذار: پاداش‌های ناسازگار](../../core_11.000_standing_integration.md#54-transition-exception-misaligned-rewards) صرفاً به این دلیل که سامانه مشترک هنوز گواهی هم‌راستایی نگرفته یا کاملاً هم‌راستا نشده است، در مراحل گذار مصوب فعال نمی‌شوند و فقط با رعایت شرایط همان بخش.
 
 #### ماده XXVIII-B: محدودیت اختیار دوره گذار و تمدید مجوز
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [§14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [§14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -455,8 +457,8 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
 - [پاسخ‌گویی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -484,14 +486,14 @@ flowchart TB
     - اختیار موقتِ راکد یا گسترش‌یافته بدون پیشرفت مستند به‌سوی کاهش دامنه گذار و عملکرد کارآمد قانون اساسی؛
     - شکاف تحققِ ثابت، رو به رشد یا اندازه‌گیری‌نشده، بدون برنامه مستند و دارای منابع برای بستن آن.
   - بار توجیه با افزایش مدت و اثر بر حقوق سنگین‌تر می‌شود.
-  - سازوکارهای دوره‌بندی تمدید و داده‌های لجر تحقق و کاهش اختیار موقت که باید به هر درخواست پیوست شوند، تابع [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*حکمرانی گذار و تحول نهادی*) و [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*لجر تحقق حداقل‌های حقوق*) هستند.
+  - سازوکارهای دوره‌بندی تمدید و داده‌های لجر تحقق و کاهش اختیار موقت که باید به هر درخواست پیوست شوند، تابع [**CI-14**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*حکمرانی گذار و تحول نهادی*) و [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*لجر تحقق حداقل‌های حقوق*) هستند.
 
 #### ماده XXVIII-C: مسیرهای خروج از شکست، بازتنظیم مبنا و قابلیت ردیابی
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
-- همراه با: [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*گواهی هم‌راستایی سامانه*)؛ [فصل‌های نهم تا دوازدهم](core_00_preamble.md#62-how-the-full-chain-fits-together) (*خط لوله جایگاه و نظارت مراجع رسیدگی*).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-اصول-بنیادین-مصالحه)، و [§20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-برنامه-یکپارچه).
+- همراه با: [فصل هشتم](core_07_a_system_alignment_certification_evaluation.md) (*گواهی هم‌راستایی سامانه*)؛ [فصل‌های نهم تا دوازدهم](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together) (*خط لوله جایگاه و نظارت مراجع رسیدگی*).
 
 </details>
 
@@ -500,7 +502,7 @@ flowchart TB
 
 - [ممیزی‌پذیری](core_05_band_oversight.md#قابلیت-حسابرسی) · [O](core_05_band_oversight.md#قابلیت-حسابرسی) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [پاسخ‌گویی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [بازگشت‌پذیری](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [بازگشت‌پذیری](../../core_05.040_band_continuity.md#reversibility-constitutional) · [O](../../core_05.040_band_continuity.md#reversibility-constitutional) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -514,31 +516,31 @@ flowchart TB
   - خلأ حکمرانی؛
   - تثبیت ترتیبات هنگام شکست مهلت‌ها.
 
-  وضعیت‌های انتقالیِ شکست‌خورده یا تنزل‌یافته صرفاً با ماندگاری نباید به خط مبنای جدید تبدیل شوند. شرایط شکستِ ازپیش‌تعریف‌شده، مسیرهای جایگزین گذار، معیارهای بازگشت جزئی و رویه‌های بازتنظیم مبنا تابع [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*حکمرانی گذار و تحول نهادی*) و **CS-10.5** (*رسیدگی به شکست، مسیرهای خروج و بازتنظیم مبنا*) هستند.
+  وضعیت‌های انتقالیِ شکست‌خورده یا تنزل‌یافته صرفاً با ماندگاری نباید به خط مبنای جدید تبدیل شوند. شرایط شکستِ ازپیش‌تعریف‌شده، مسیرهای جایگزین گذار، معیارهای بازگشت جزئی و رویه‌های بازتنظیم مبنا تابع [**CI-14**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*حکمرانی گذار و تحول نهادی*) و **CS-10.5** (*رسیدگی به شکست، مسیرهای خروج و بازتنظیم مبنا*) هستند.
 - **بازتنظیم مادی خط مبنا:** بازتنظیم مادی خط مبنا، هنگام شکست دروازه‌ها یا توقف گذار، مهلت‌های گذار، فرض‌های خطر، مسئولیت‌ها و برنامه‌های عملیاتی را به‌روز می‌کند. این کار به اختیار معتبر قانون اساسی و دلایل عمومیِ مستند نیاز دارد. باید **حداقل‌های حقوق** را حفظ کند و جایگزین قواعد تغییر قانونی قانون اساسی نشود. می‌تواند تاریخ‌ها، مسئولان و منابع را جابه‌جا کند. نمی‌تواند حداقل هدف را پایین بیاورد، سنجه آغازین را با سنجه مطلوب‌تری عوض کند یا شکاف‌های ثبت‌شده را پاک کند؛ سنجه آغازین فقط به‌علت خطای اندازه‌گیری مستند قابل‌اصلاح است، به شرط حفظ نسخه اصلی و انتشار اصلاح.
-- **پیش‌شرط سلامت راستی‌آزمایی:** بازتنظیم یا ادامه بر اساس خط مبنای اصلاح‌شده زمانی ناسازگار است که [گواهی هم‌راستایی سامانه](core_05_band_continuity.md#system-alignment-certification-constitutional) بر اساس [فصل هشتم](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)، یا خط لوله جایگاه بر اساس [فصل‌های نهم تا دوازدهم](core_00_preamble.md#62-how-the-full-chain-fits-together)، از نظر ساختاری نامطمئن باشد. نشانگرها در [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*لجر تحقق حداقل‌های حقوق*) و **CS-10.5** (*رسیدگی به شکست، مسیرهای خروج و بازتنظیم مبنا*) فهرست شده‌اند. در صورت نامطمئن‌بودن، اصلاح سازوکارهای راستی‌آزمایی و سنجش بر برنامه‌ریزی دوباره ظاهری اولویت دارد.
+- **پیش‌شرط سلامت راستی‌آزمایی:** بازتنظیم یا ادامه بر اساس خط مبنای اصلاح‌شده زمانی ناسازگار است که [گواهی هم‌راستایی سامانه](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) بر اساس [فصل هشتم](core_07_a_system_alignment_certification_evaluation.md)، یا خط لوله جایگاه بر اساس [فصل‌های نهم تا دوازدهم](../../core_00.000_preamble.md#62-how-the-full-chain-fits-together)، از نظر ساختاری نامطمئن باشد. نشانگرها در [**CI-14.4**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*لجر تحقق حداقل‌های حقوق*) و **CS-10.5** (*رسیدگی به شکست، مسیرهای خروج و بازتنظیم مبنا*) فهرست شده‌اند. در صورت نامطمئن‌بودن، اصلاح سازوکارهای راستی‌آزمایی و سنجش بر برنامه‌ریزی دوباره ظاهری اولویت دارد.
 - **قابلیت ردیابی عمومی:** تصمیم‌های مادی گذار، تأخیرها، بازگشت‌ها و تعیین‌های بازتنظیم خط مبنا باید با دلایل و پیامدهای خطر ممیزی‌پذیر بمانند.
   - مستندسازی همچنان تابع محدودیت‌های محرمانگیِ محدود و موجه است.
   - باید توضیح عمومی کافی حفظ شود تا بتوان سنجید آیا تأخیر، بازگشت یا ادامه از نظر قانون اساسی موجه است.
-  - الگوهای انتشار و اجرای حضانت شواهد تابع [**CI-7**](corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*نظارت، تضمین، کنترل و شواهد*) و **CI-14** (*حکمرانی گذار و تحول نهادی*) هستند.
+  - الگوهای انتشار و اجرای حضانت شواهد تابع [**CI-7**](../../corpus_institutions/ci_08.215_oversight_assurance_controls_evidence.md) (*نظارت، تضمین، کنترل و شواهد*) و **CI-14** (*حکمرانی گذار و تحول نهادی*) هستند.
 
 <a id="article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
 #### ماده XXVIII-D: اموال و سامانه‌های ناسازگار؛ مشوق‌های واگذاری داوطلبانه
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل یک §13.1.5 رویه تعارض حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- همراه با: **ماده III-A** (*بقا*)؛ **ماده XIII** (*حق سامانه‌های قابل‌اعتماد و مطمئن*)؛ **ماده XI-G** (*مرز زیان جمعی و رابط اجرا*)؛ **فصل نهم**؛ **فصل یک**، از جمله §6 رویه تعارض حقوق؛ چارچوب محدودیت پیش‌فرض در آغاز فصل ششم (*رابط تملک و جبران*)؛ [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*حکمرانی گذار و تحول نهادی*).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](../../core_01.005_values_principles.md#4-safety-harm-constraint)، [فصل یک §13.1.5 رویه تعارض حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- همراه با: **ماده III-A** (*بقا*)؛ **ماده XIII** (*حق سامانه‌های قابل‌اعتماد و مطمئن*)؛ **ماده XI-G** (*مرز زیان جمعی و رابط اجرا*)؛ **فصل نهم**؛ **فصل یک**، از جمله §6 رویه تعارض حقوق؛ چارچوب محدودیت پیش‌فرض در آغاز فصل ششم (*رابط تملک و جبران*)؛ [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*حکمرانی گذار و تحول نهادی*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعاریف · ارزیابی · انطباق</span></strong></summary>
 
-- [انصاف ماهوی](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [گزارش‌دهی حفاظت‌شده (افشاگری)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [انصاف ماهوی](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
+- [گزارش‌دهی حفاظت‌شده (افشاگری)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [O](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing) · [M](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [A](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-a) · [C](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -548,19 +550,19 @@ flowchart TB
 
 این ماده حداقل‌های جبران اموال و سامانه‌های ناسازگار و مشوق‌های واگذاری داوطلبانه را مقرر می‌کند:
 
-- **حد تملک:** اگر چیزی را قانونی مالک هستید یا به‌کار می‌برید، گذار نمی‌تواند آن را خودسرانه از شما بگیرد. اما وقتی ادامه کار آن دارایی آشکارا موجب تداوم نقض شناخته‌شده و گسترده قانون اساسی می‌شود—پس از آنکه [فصل نهم](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) نقض را در سوابق مستند کرده است—مالکیت سپر نیست. در این صورت، گذار همچنان می‌تواند برای توقف زیان اقدام کند، اما فقط با تضمین‌های این ماده و **CI-14.1** (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا **CI-14.3** (*الزامات اجرایی جبرانِ محدود به دوره گذار*).
-- **قید استفاده ضدقانون‌اساسی:** حد تملک از دارنده حفاظت می‌کند، نه از سوءاستفاده. این حد از اموال، وجوه، سامانه‌ها یا منابع دیگری که برای انجام، تأمین مالی، تجهیز، پنهان‌کردن یا تداوم **رفتار ضدقانون‌اساسی** به کار می‌روند حفاظت نمی‌کند. این مورد با عدم انطباق فرق دارد: دارایی لازم نیست معیوب باشد؛ پرسش این است که برای چه کاری استفاده می‌شود. این قید یک سپر را برمی‌دارد، اما اختیار توقیف تازه‌ای ایجاد نمی‌کند؛ هر اقدامی همچنان باید مستند به اختیار خود بر اساس [فصل یازدهم](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*تخلف ضدقانون‌اساسی*)، فصل دهم و **ماده XX-B** (*حداقل‌های محدودیت*) باشد.
-  - **ابتدا ثبت نهایی:** استفاده باید به رفتاری مرتبط باشد که در تعیین نهایی [فصل یازدهم](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*تخلف ضدقانون‌اساسی*) یا یافته نهایی محور نقض s = 7، 8 یا 9 در [فصل نهم](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*مدل انطباق، نقض و جایگاه*) ثبت شده است. پیش از ثبت نهایی، فقط حفاظت موقت قانونی—حفظ، امانت‌سپاری، نگهداشت، بازگرداندن دسترسی یا تضمین مشابه طبق [فصل یازدهم §4.1 جبران و اصلاح (ضدقانون‌اساسی)](core_11_a_misconduct_designation.md#4-1-remedy-and-correction-anti-constitutional)—در دسترس است. این اقدام باید ثبت‌شده، زمان‌مند، قابل‌بازبینی و فقط در جایی اعمال شود که انتظار، جبران را ناممکن کند یا بگذارد زیان ادامه یابد.
-  - **استفاده واقعی، نه صرفاً وضعیت:** سوابق باید استفاده واقعی، هدایت یا تأمین مالی رفتار را نشان دهند. مالکیت، وابستگی، دیدگاه، یا مخالفت حمایت‌شده و اعتراض مسالمت‌آمیز ([استثنای مخالفت و اعتراض مسالمت‌آمیز](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)) این آزمون را برآورده نمی‌کند.
+- **حد تملک:** اگر چیزی را قانونی مالک هستید یا به‌کار می‌برید، گذار نمی‌تواند آن را خودسرانه از شما بگیرد. اما وقتی ادامه کار آن دارایی آشکارا موجب تداوم نقض شناخته‌شده و گسترده قانون اساسی می‌شود—پس از آنکه [فصل نهم](core_08_standing_assessment.md) نقض را در سوابق مستند کرده است—مالکیت سپر نیست. در این صورت، گذار همچنان می‌تواند برای توقف زیان اقدام کند، اما فقط با تضمین‌های این ماده و **CI-14.1** (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا **CI-14.3** (*الزامات اجرایی جبرانِ محدود به دوره گذار*).
+- **قید استفاده ضدقانون‌اساسی:** حد تملک از دارنده حفاظت می‌کند، نه از سوءاستفاده. این حد از اموال، وجوه، سامانه‌ها یا منابع دیگری که برای انجام، تأمین مالی، تجهیز، پنهان‌کردن یا تداوم **رفتار ضدقانون‌اساسی** به کار می‌روند حفاظت نمی‌کند. این مورد با عدم انطباق فرق دارد: دارایی لازم نیست معیوب باشد؛ پرسش این است که برای چه کاری استفاده می‌شود. این قید یک سپر را برمی‌دارد، اما اختیار توقیف تازه‌ای ایجاد نمی‌کند؛ هر اقدامی همچنان باید مستند به اختیار خود بر اساس [فصل یازدهم](core_10_a_misconduct_designation.md) (*تخلف ضدقانون‌اساسی*)، فصل دهم و **ماده XX-B** (*حداقل‌های محدودیت*) باشد.
+  - **ابتدا ثبت نهایی:** استفاده باید به رفتاری مرتبط باشد که در تعیین نهایی [فصل یازدهم](core_10_a_misconduct_designation.md) (*تخلف ضدقانون‌اساسی*) یا یافته نهایی محور نقض s = 7، 8 یا 9 در [فصل نهم](core_08_standing_assessment.md) (*مدل انطباق، نقض و جایگاه*) ثبت شده است. پیش از ثبت نهایی، فقط حفاظت موقت قانونی—حفظ، امانت‌سپاری، نگهداشت، بازگرداندن دسترسی یا تضمین مشابه طبق [فصل یازدهم §4.1 جبران و اصلاح (ضدقانون‌اساسی)](core_10_a_misconduct_designation.md#4-1-remedy-and-correction-anti-constitutional)—در دسترس است. این اقدام باید ثبت‌شده، زمان‌مند، قابل‌بازبینی و فقط در جایی اعمال شود که انتظار، جبران را ناممکن کند یا بگذارد زیان ادامه یابد.
+  - **استفاده واقعی، نه صرفاً وضعیت:** سوابق باید استفاده واقعی، هدایت یا تأمین مالی رفتار را نشان دهند. مالکیت، وابستگی، دیدگاه، یا مخالفت حمایت‌شده و اعتراض مسالمت‌آمیز ([استثنای مخالفت و اعتراض مسالمت‌آمیز](../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)) این آزمون را برآورده نمی‌کند.
   - **نخست استفاده را متوقف کنید:** اقدامات باید سوءاستفاده را پایان دهند—تعلیق عملیات، مسدودکردن جریان‌ها، لغو دسترسی یا حضانت مهروموم‌شده—و از مؤثرترین اقدامِ کم‌محدودیت‌تر استفاده کنند. زیان دائمی، نابودی یا ضبطِ فراتر از آن باید حد **تصرف مخرب**، **ماده XX-B** (*حداقل‌های محدودیت*) و **ضمانت دسترسی ضروری** را نیز برآورده کند.
   - **دیگران حفاظت می‌شوند:** هم‌مالکان بی‌تقصیر، بستانکاران، افراد تحت تکفل و اشخاص ثالث با حسن‌نیت از تضمین‌های جبران و جایگزینیِ زیر برخوردار می‌مانند. قاعده حفظ در **ماده VI-B** (*حداقل رسیدگی به وضعیت ذی‌شعوری*) بدون تغییر درباره هر سامانه دارای نشانگر معتبر ذی‌شعوری اعمال می‌شود.
-  - **دورزدن ممنوع:** انتقال مالکیت، دارنده پوششی، مالکیت صوری، قائم‌مقام‌ها و تغییر برچسب، این قید را بی‌اثر نمی‌کنند ([فصل دهم §9.4 اختیار منع فرار و نگاه از ورای ساختار](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)).
+  - **دورزدن ممنوع:** انتقال مالکیت، دارنده پوششی، مالکیت صوری، قائم‌مقام‌ها و تغییر برچسب، این قید را بی‌اثر نمی‌کنند ([فصل دهم §9.4 اختیار منع فرار و نگاه از ورای ساختار](core_09_standing_integration.md#94-anti-evasion-and-look-through-authority)).
   - **محدود به گذار نیست:** محدودیت‌های برنامه گذار و عبارت «فقط در دوره گذار» در این ماده، جبران عدم انطباق را اداره می‌کنند؛ این محدودیت‌ها اقدامات علیه استفاده ضدقانون‌اساسی را نه به تأخیر می‌اندازند و نه گسترش می‌دهند.
-- **جبرانِ محدود به گذار:** **برنامه گذار مستند** بر اساس **ماده XXVIII-A** (*پذیرش مرحله‌ای و تداوم حداقل‌های حقوق*) می‌تواند فقط در دوره گذار و با رعایت تضمین‌های زیر، جبران تسریع‌شده سامانه‌ها یا اموال **دارای عدم انطباق مادی** را مجاز کند. دامنه، اقدامات مجاز و رویه در [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا [**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements) (*الزامات اجرایی جبرانِ محدود به دوره گذار*) تعیین شده‌اند.
+- **جبرانِ محدود به گذار:** **برنامه گذار مستند** بر اساس **ماده XXVIII-A** (*پذیرش مرحله‌ای و تداوم حداقل‌های حقوق*) می‌تواند فقط در دوره گذار و با رعایت تضمین‌های زیر، جبران تسریع‌شده سامانه‌ها یا اموال **دارای عدم انطباق مادی** را مجاز کند. دامنه، اقدامات مجاز و رویه در [**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا [**CI-14.3**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) (*الزامات اجرایی جبرانِ محدود به دوره گذار*) تعیین شده‌اند.
 - **تضمین‌های الزامی:** هر محروم‌سازی یا برنامه تشویقیِ محدود به گذار باید موارد زیر را رعایت کند:
   - [**اصل محدودیتِ کمترین محدودکننده، زمان‌مند و قابل‌بازبینی**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)، همراه با اثبات **ضرورت** و **تناسب**؛
   - اطلاع‌رسانی فوری، دلایل اعلام‌شده و مسیر عملی برای اعتراض؛ و
-  - تضمین در برابر اجرای **تبعیض‌آمیز**، **بهانه‌ای** یا **گزینشی** بر اساس **مواد VI-C** و **V-B** و [انصاف ماهوی](core_05_band_participation.md#substantive-fairness-constitutional).
+  - تضمین در برابر اجرای **تبعیض‌آمیز**، **بهانه‌ای** یا **گزینشی** بر اساس **مواد VI-C** و **V-B** و [انصاف ماهوی](../../core_05.055_band_participation.md#substantive-fairness-constitutional).
 - **قاعده اثر محدودکننده:** محروم‌سازی یا محدودیتی که اثر اصلی‌اش فراتر از جبران، اعاده، حفظ یا حفاظت آینده‌نگر باشد، **ماده XX-B** (*حداقل‌های محدودیت*) را فعال می‌کند.
 - **حد تصرف مخرب:** گذار می‌تواند برای توقف زیان، مال را قرنطینه یا نگه دارد—اما سلب دائمی، نابودی یا ازبین‌بردن سهم اقتصادی یک ذی‌شعور معیار بسیار سخت‌تری دارد و مستلزم موارد زیر است:
   - دلایل مستند قوی‌تر؛
@@ -570,10 +572,10 @@ flowchart TB
   اگر مال، سامانه‌ای باشد که نشانگر معتبر ذی‌شعوری درباره آن ثبت شده یا پرونده وضعیت بر اساس **ماده VI-B** (*حداقل رسیدگی به وضعیت ذی‌شعوری*) باز باشد، تصرف مخرب اجزای حامل وضعیت مجاز نیست؛ پیش‌فرض حفظ **ماده XXVIII-A** (*پذیرش مرحله‌ای و تداوم حداقل‌های حقوق*) حاکم است و اقدام سازگار، مهار در حضانت مهروموم‌شده است.
 - **ضمانت دسترسی ضروری:** اقدامات این ماده نباید ذی‌شعوران را از ضروریات **ماده III-A** (*بقا*) یا ابزارهایی که برای بهزیستی پایه، معیشت قانونی یا عاملیت معنادار اکیداً لازم‌اند محروم کند—مگر آنکه **ضرورت** بر اساس **فصل یک §13.3** (*کمینه‌سازی بار اجتناب‌پذیر*) مستند شود و در صورت لزوم فراهم‌کردن جایگزین به‌موقع امکان‌پذیر باشد.
 - **حداقل مشوق داوطلبانه:** مشوق‌های منتشرشده و زمان‌مند برای واگذاری داوطلبانه با حسن‌نیت یا گزارش‌دهی راستی‌آزمایی‌شده فقط هنگامی می‌توانند در برنامه گذار گنجانده شوند که ادعاهای اجباری یا بدخواهانه را کنار بگذارند، برای ادامه به تمدید مجوز بر اساس **ماده XXVIII-B** (*محدودیت اختیار دوره گذار و تمدید مجوز*) نیاز داشته باشند و در صورت امکان رسیدگی به مشوق را از اجرای قانون جدا کنند تا انگیزه پرداخت بر تصمیم توقیف یا حضانت اثر نگذارد. طراحی برنامه تابع **CI-14.3** (*الزامات اجرایی جبرانِ محدود به دوره گذار*) است.
-- **جزئیات اجرایی:** جزئیات عملیاتی (محرک‌ها، ارزش‌گذاری، اعتراض‌ها، حضانت، وجوه، بازبینی‌ها و اجرای برنامه) در **CI-14.1** (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا **CI-14.3** (*الزامات اجرایی جبرانِ محدود به دوره گذار*) و اسناد پذیرش قرار می‌گیرند. این جزئیات نباید این ماده، [فصل نهم](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*مدل انطباق، نقض و جایگاه*) یا **ماده XX-B** (*حداقل‌های محدودیت*) را محدود کنند.
+- **جزئیات اجرایی:** جزئیات عملیاتی (محرک‌ها، ارزش‌گذاری، اعتراض‌ها، حضانت، وجوه، بازبینی‌ها و اجرای برنامه) در **CI-14.1** (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا **CI-14.3** (*الزامات اجرایی جبرانِ محدود به دوره گذار*) و اسناد پذیرش قرار می‌گیرند. این جزئیات نباید این ماده، [فصل نهم](core_08_standing_assessment.md) (*مدل انطباق، نقض و جایگاه*) یا **ماده XX-B** (*حداقل‌های محدودیت*) را محدود کنند.
 
 ---
 
 **فایل پیشین:** [core_06_rights_part_d.md](core_06_rights_part_d.md)
 
-**فایل بعدی:** [core_13_governance.md](core_13_governance.md)
+**فایل بعدی:** [core_13_governance.md](core_12_governance.md)

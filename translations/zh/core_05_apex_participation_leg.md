@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第五章指南针](core_05__definitions_home.md#第五章指南针与定义地图)；[宪法四元](core_00_preamble.md#constitutional-tetrad)（参与腿；按[实质利害](core_00_preamble.md#material-stake)缩放）；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；首要宗旨[繁盛](core_00_preamble.md#flourishing)。
-- 下游：原则：[序言 §1 模型](core_00_preamble.md#the-model)；[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)；[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)；[§11.1.5 宪法结果主张纪律](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)；[受影响方的系统参与](../../core_05.055_band_participation.md#stakeholder-status-and-weight)适用之处；[四元腿分解](#participation-tetrad-leg-decomposition)；参与带叶定义在 [core_05_band_participation.md](../../core_05.055_band_participation.md)。
+- 下游：原则：[序言 §1 模型](core_00_preamble.md#the-model)；[第一章 §5 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)；[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md)；[§11.1.5 宪法结果主张纪律](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)；[受影响方的系统参与](../../core_05.055_band_participation.md#stakeholder-status-and-weight)适用之处；[四元腿分解](#participation-tetrad-leg-decomposition)；参与带叶定义在 [core_05_band_participation.md](../../core_05.055_band_participation.md)。
 - 一并阅读：[有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency)、[可质疑性](../../core_05.035_band_accountability.md#contestability)（参与/问责边界）、[可及性](../../core_05.055_band_participation.md#accessibility)、[实质公平](../../core_05.055_band_participation.md#substantive-fairness)、[约束性受影响方选择](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice)、[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)（及时的参与）、[按分类缩放的治理](../../core_05.050_band_oversight.md#classification-scaled-governance)，以及参与测量族。
 
 </details>
@@ -61,7 +61,7 @@
     - [实质公平](../../core_05.055_band_participation.md#substantive-fairness)；
     - [受影响方权重](../../core_05.055_band_participation.md#stakeholder-weight)；
     - [系统俘获](../../core_05.040_band_continuity.md#system-capture)；与
-    - [第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)。
+    - [第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)。
 <a id="participation-constitutional-c"></a>
 - C: 不合规当：
   - 存在结构性排除；

@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
 - Hulu: [Kompas Bab Lima](core_05__definitions_home.md#kompas-dan-peta-definisi-bab-lima); [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) (kaki partisipasi; penskalaan [taruhan material](core_00_preamble.md#material-stake)); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); tujuan primer [Berkembang](core_00_preamble.md#flourishing).
-- Hilir: Prinsip: [Pembukaan §1 Model](core_00_preamble.md#the-model); [Bab Satu §5 Kebebasan](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 Disiplin Klaim Hasil Konstitusional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Partisipasi Sistemik Pihak Terdampak](../../core_05.055_band_participation.md#stakeholder-status-and-weight) di mana lapisan Partisipasi Sistemik Pihak Terdampak berlaku; [Dekomposisi kaki Tetrad](#participation-tetrad-leg-decomposition); definisi daun pita Partisipasi di [core_05_band_participation.md](../../core_05.055_band_participation.md).
+- Hilir: Prinsip: [Pembukaan §1 Model](core_00_preamble.md#the-model); [Bab Satu §5 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 Pengelolaan Bertanggung Jawab dan Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md); [§11.1.5 Disiplin Klaim Hasil Konstitusional](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Partisipasi Sistemik Pihak Terdampak](../../core_05.055_band_participation.md#stakeholder-status-and-weight) di mana lapisan Partisipasi Sistemik Pihak Terdampak berlaku; [Dekomposisi kaki Tetrad](#participation-tetrad-leg-decomposition); definisi daun pita Partisipasi di [core_05_band_participation.md](../../core_05.055_band_participation.md).
 - Baca bersama: [Keagenan bermakna](../../core_05.055_band_participation.md#meaningful-agency), [Dapat digugat](../../core_05.035_band_accountability.md#contestability) (batas partisipasi/pertanggungjawaban), [Aksesibilitas](../../core_05.055_band_participation.md#accessibility), [Keadilan substantif](../../core_05.055_band_participation.md#substantive-fairness), [Pilihan mengikat pihak terdampak](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional) (partisipasi tepat waktu), [Tata kelola berskala klasifikasi](../../core_05.050_band_oversight.md#classification-scaled-governance), dan keluarga pengukuran Partisipasi.
 
 </details>
@@ -61,7 +61,7 @@
     - [Keadilan substantif](../../core_05.055_band_participation.md#substantive-fairness);
     - [Bobot pihak terdampak](../../core_05.055_band_participation.md#stakeholder-weight);
     - [Penguasaan sistem](../../core_05.040_band_continuity.md#system-capture); dan
-    - [Bab Satu §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [Bab Satu §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: Tidak patuh ketika:
   - ada pengucilan struktural;

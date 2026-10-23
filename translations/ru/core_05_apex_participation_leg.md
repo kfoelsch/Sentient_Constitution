@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [Компас Главы пятой](core_05__definitions_home.md#компас-и-карта-определений-главы-пятой); [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad) (нога участия; масштабирование по [материальной ставке](core_00_preamble.md#material-stake)); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims); первичная цель [Расцвет](core_00_preamble.md#flourishing).
-- Назначение: Принципы: [Преамбула §1 Модель](core_00_preamble.md#the-model); [Глава первая §5 Свобода](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 Дисциплина заявлений о конституционных исходах](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Системное участие затрагиваемых сторон](../../core_05.055_band_participation.md#stakeholder-status-and-weight) где применяется слой Системного участия затрагиваемых сторон; [Декомпозиция ноги Тетрады](#participation-tetrad-leg-decomposition); листовые определения полосы Участия в [core_05_band_participation.md](../../core_05.055_band_participation.md).
+- Назначение: Принципы: [Преамбула §1 Модель](core_00_preamble.md#the-model); [Глава первая §5 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 Ответственное управление и распределённое понимание](core_01_c_stewardship_capacity_principles.md); [§11.1.5 Дисциплина заявлений о конституционных исходах](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Системное участие затрагиваемых сторон](../../core_05.055_band_participation.md#stakeholder-status-and-weight) где применяется слой Системного участия затрагиваемых сторон; [Декомпозиция ноги Тетрады](#participation-tetrad-leg-decomposition); листовые определения полосы Участия в [core_05_band_participation.md](../../core_05.055_band_participation.md).
 - Читать вместе с: [Значимая агентность](../../core_05.055_band_participation.md#meaningful-agency), [Оспоримость](../../core_05.035_band_accountability.md#contestability) (граница участия/подотчётности), [Доступность](../../core_05.055_band_participation.md#accessibility), [Содержательная справедливость](../../core_05.055_band_participation.md#substantive-fairness), [Связывающий выбор затрагиваемых сторон](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [Своевременность](core_05_apex_timeliness_leg.md#timeliness-constitutional) (своевременное участие), [Управление, масштабированное к классификации](../../core_05.050_band_oversight.md#classification-scaled-governance), и семья измерений Участия.
 
 </details>
@@ -61,7 +61,7 @@
     - [Содержательная справедливость](../../core_05.055_band_participation.md#substantive-fairness);
     - [Вес затрагиваемой стороны](../../core_05.055_band_participation.md#stakeholder-weight);
     - [Захват системы](../../core_05.040_band_continuity.md#system-capture); и
-    - [Глава первая §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [Глава первая §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: Несоответствует когда:
   - есть структурное исключение;

@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Bússola do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); glosa da camada de princípio no [Preâmbulo §1](core_00_preamble.md#flourishing).
-- Destino: Princípios: [§2 Objetivo fundacional: Bem-estar](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 Restrições de princípio inegociáveis: Segurança e Verdade](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 Habilitador de estabilidade do sistema: Confiança (integridade da coordenação)](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Decomposição do Fim constitucional](#flourishing-aim-decomposition); arquivos de faixa da Tétrade onde o **Florescimento** é fim primário segundo a [Bússola do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco).
+- Destino: Princípios: [§2 Objetivo fundacional: Bem-estar](core_01_a_values_principles.md); [§3 Restrições de princípio inegociáveis: Segurança e Verdade](core_01_a_values_principles.md); [§4 Habilitador de estabilidade do sistema: Confiança (integridade da coordenação)](core_01_a_values_principles.md); [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Decomposição do Fim constitucional](#flourishing-aim-decomposition); arquivos de faixa da Tétrade onde o **Florescimento** é fim primário segundo a [Bússola do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco).
 - Ler com: [Bem-estar](../../core_05.040_band_continuity.md#wellbeing), [Segurança (restrição)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Verdade (restrição constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Confiabilidade](../../core_05.040_band_continuity.md#trustworthiness), [Agência significativa](../../core_05.055_band_participation.md#meaningful-agency), [Divergência de indicadores substitutos](../../core_05.050_band_oversight.md#proxy-divergence), [Captura do sistema](../../core_05.040_band_continuity.md#system-capture), [Continuidade (Fim constitucional)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (o fim emparelhado — nenhum pode ser perseguido à custa do outro), [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) escalada à [aposta material](core_00_preamble.md#material-stake) (marco de legitimidade deste fim — não um quinto constituinte), e família de medição de Florescimento.
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - Julgue sob a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad), escalada à [aposta material](core_00_preamble.md#material-stake).
-  - Ate os resultados de florescimento pretendidos às condições [constituintes](#flourishing-aim-decomposition) e aos resultados que os sencientes de fato experimentam, sob o Capítulo Quatro e o [Capítulo Um §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - Ate os resultados de florescimento pretendidos às condições [constituintes](#flourishing-aim-decomposition) e aos resultados que os sencientes de fato experimentam, sob o Capítulo Quatro e o [Capítulo Um §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
   - Leia sempre com [Continuidade (Fim constitucional)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): ganhos de curto prazo que debilitam de forma previsível a estabilidade, a resiliência ou a integridade ecológica de longo prazo incumprem o **Florescimento** quando os dois fins se julgam juntos.
 <a id="flourishing-constitutional-c"></a>
 - C: Não conforme quando:
   - um bloco de construção se maximiza enquanto se esvaziam a verdade, a segurança, a confiabilidade ou a agência;
   - as pretensões de florescimento não podem rastrear-se a resultados constitucionais sob o Capítulo Quatro; ou
-  - o **Florescimento** se persegue de um modo que derrota de forma material a [Continuidade (Fim constitucional)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) sem permissão clara sob o [Capítulo Um §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+  - o **Florescimento** se persegue de um modo que derrota de forma material a [Continuidade (Fim constitucional)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) sem permissão clara sob o [Capítulo Um §6](core_01_b_interaction_interpretation.md).
 
 ---
 

@@ -216,7 +216,7 @@ Onde a incerteza impede a demonstração definitiva de conformidade para compone
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Capítulo Três, seção 2 — Não conformidade a partir de conduta observável do sistema](#2-não-conformidade-a-partir-de-conduta-observável-do-sistema); [Capítulo Dois, §2 Exigência de integridade da definição](core_02_definition_structure.md#2-exigência-de-integridade-da-definição).
-- Destino: [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](core_04_burden_traceability_verification.md#2-exigência-de-rastreabilidade-da-definição); [Capítulo Nove — Certificação de alinhamento do sistema](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Onze — Efeitos de trajetória e integração](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Bússola constitucional e mapa de aglomerados](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- Destino: [Capítulo Quatro, seção 2 — Exigência de rastreabilidade da definição](core_04_burden_traceability_verification.md#2-exigência-de-rastreabilidade-da-definição); [Capítulo Nove — Certificação de alinhamento do sistema](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Dez — Contribuição, infração e modelo de trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Onze — Efeitos de trajetória e integração](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Bússola constitucional e mapa de aglomerados](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Ler com: [Perfil de achado de não conformidade](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — lar canônico O/M/A/C dos campos do perfil; [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@ A trajetória de uma instituição é afetada quando a instituição é o sujeit
 <a id="34-operational-constraints"></a>
 #### 3.4 Restrições operacionais
 
-A não conformidade também pode ser encontrada contra restrições operacionais no corpus conjunto de implementação. Os perfis de achado padrão e como se anexam a esses achados são tratados lá — não neste capítulo. Veja [CJS-3.1 Bússola constitucional e mapa de aglomerados](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+A não conformidade também pode ser encontrada contra restrições operacionais no corpus conjunto de implementação. Os perfis de achado padrão e como se anexam a esses achados são tratados lá — não neste capítulo. Veja [CJS-3.1 Bússola constitucional e mapa de aglomerados](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

@@ -1,0 +1,489 @@
+# Translation link repair lines: ta (2026-10-22)
+
+Part of `evidence/2026-10-22/translation_link_repair_report.md`.
+
+- DROPPED translations/ta/core_00_preamble.md:117 core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_00_preamble.md:172 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- ENGLISH translations/ta/core_01_a_values_principles.md:280 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:280 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:307 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_a_values_principles.md:561 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:561 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:563 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_a_values_principles.md:563 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_a_values_principles.md:571 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:571 core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable -> ../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable
+- ENGLISH translations/ta/core_01_a_values_principles.md:594 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:594 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:596 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_a_values_principles.md:596 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_a_values_principles.md:604 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:604 core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable -> ../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable
+- ENGLISH translations/ta/core_01_a_values_principles.md:629 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:629 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:631 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_a_values_principles.md:631 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_a_values_principles.md:770 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:770 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:784 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_a_values_principles.md:787 core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification -> ../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification
+- ENGLISH translations/ta/core_01_a_values_principles.md:844 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_a_values_principles.md:1366 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_a_values_principles.md:1968 core_09_b_system_alignment_certification_record_process.md#6-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:26 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:31 core_05_apex_oversight_leg.md#oversight -> ../../core_05.020_apex_oversight_leg.md#oversight
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:32 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:55 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:83 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:93 core_05_band_integrative.md#constitutional-collision -> ../../core_05.045_band_integrative.md#constitutional-collision
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:93 core_05_band_integrative.md#constitutional-collision -> ../../core_05.045_band_integrative.md#constitutional-collision
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:93 core_05_band_integrative.md#constitutional-collision-a -> ../../core_05.045_band_integrative.md#constitutional-collision-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:93 core_05_band_integrative.md#constitutional-collision-a -> ../../core_05.045_band_integrative.md#constitutional-collision-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:93 core_05_band_integrative.md#constitutional-collision-c -> ../../core_05.045_band_integrative.md#constitutional-collision-c
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:106 core_05_band_integrative.md#constitutional-collision -> ../../core_05.045_band_integrative.md#constitutional-collision
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:108 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:345 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:397 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:414 core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment (no matching heading in core_06.025_rights_part_e.md)
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:414 core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.025_rights_part_e.md)
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:421 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:421 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:421 core_05_band_integrative.md#constitutional-collision-record-a -> ../../core_05.045_band_integrative.md#constitutional-collision-record-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:421 core_05_band_integrative.md#constitutional-collision-record-a -> ../../core_05.045_band_integrative.md#constitutional-collision-record-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:421 core_05_band_integrative.md#constitutional-collision-record-c -> ../../core_05.045_band_integrative.md#constitutional-collision-record-c
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:438 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:452 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:481 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:481 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:482 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:482 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:509 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:512 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:534 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:534 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:535 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:535 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:588 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:606 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:623 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:650 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:650 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:701 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:704 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:725 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:725 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:748 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:748 core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity (no matching heading in core_15.000_non_regression.md)
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:748 core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders (no matching heading in core_16.000_expansion_supremacy.md)
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:750 core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties (no matching heading in core_08.000_functional_independence_separation_of_duties.md)
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:766 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:775 core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties (no matching heading in core_08.000_functional_independence_separation_of_duties.md)
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:783 core_05_band_integrative.md#no-bypass -> ../../core_05.045_band_integrative.md#no-bypass
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:783 core_05_band_integrative.md#no-bypass -> ../../core_05.045_band_integrative.md#no-bypass
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:783 core_05_band_integrative.md#no-bypass-a -> ../../core_05.045_band_integrative.md#no-bypass-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:783 core_05_band_integrative.md#no-bypass-a -> ../../core_05.045_band_integrative.md#no-bypass-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:783 core_05_band_integrative.md#no-bypass-c -> ../../core_05.045_band_integrative.md#no-bypass-c
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:822 core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties (no matching heading in core_08.000_functional_independence_separation_of_duties.md)
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:862 core_05_band_integrative.md#derived-information -> ../../core_05.045_band_integrative.md#derived-information
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:862 core_05_band_integrative.md#derived-information -> ../../core_05.045_band_integrative.md#derived-information
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:862 core_05_band_integrative.md#derived-information-a -> ../../core_05.045_band_integrative.md#derived-information-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:862 core_05_band_integrative.md#derived-information-a -> ../../core_05.045_band_integrative.md#derived-information-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:862 core_05_band_integrative.md#derived-information-c -> ../../core_05.045_band_integrative.md#derived-information-c
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:872 core_05_band_integrative.md#derived-information -> ../../core_05.045_band_integrative.md#derived-information
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:943 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:950 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:950 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:950 core_05_band_integrative.md#abstract-strictness-a -> ../../core_05.045_band_integrative.md#abstract-strictness-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:950 core_05_band_integrative.md#abstract-strictness-a -> ../../core_05.045_band_integrative.md#abstract-strictness-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:950 core_05_band_integrative.md#abstract-strictness-c -> ../../core_05.045_band_integrative.md#abstract-strictness-c
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#fullest-protective-effect-a -> ../../core_05.045_band_integrative.md#fullest-protective-effect-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#fullest-protective-effect-a -> ../../core_05.045_band_integrative.md#fullest-protective-effect-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#fullest-protective-effect-c -> ../../core_05.045_band_integrative.md#fullest-protective-effect-c
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:961 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:961 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:976 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:976 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:976 core_05_band_integrative.md#fullest-protective-effect-a -> ../../core_05.045_band_integrative.md#fullest-protective-effect-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:976 core_05_band_integrative.md#fullest-protective-effect-a -> ../../core_05.045_band_integrative.md#fullest-protective-effect-a
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:976 core_05_band_integrative.md#fullest-protective-effect-c -> ../../core_05.045_band_integrative.md#fullest-protective-effect-c
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:988 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:990 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:1003 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:1016 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:1021 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:1023 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:1023 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:1028 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:1030 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:1032 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/ta/core_01_b_interaction_interpretation.md:1033 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:1035 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- DROPPED translations/ta/core_01_b_interaction_interpretation.md:1055 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:46 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:46 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:49 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:68 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:68 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:175 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:175 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:197 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:218 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:218 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:241 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:255 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:265 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:265 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:285 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:294 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:294 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:399 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:410 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:439 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:477 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:480 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:504 core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable -> ../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:504 core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable -> ../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:646 corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness (no matching heading in cs_14.305_critical_system_stewardship.md)
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:657 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:657 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:722 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:743 core_00_preamble.md#preamble--foundational-requirements -> ../../core_00.000_preamble.md#preamble--foundational-requirements
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:758 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:773 core_05_band_integrative.md#documented-legitimacy-mechanism -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:861 core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability (no matching heading in core_06.025_rights_part_e.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:861 core_06_rights_part_e.md#article-xxvi-b-periodic-revalidation-and-transparent-change (no matching heading in core_06.025_rights_part_e.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:905 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:905 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:940 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:942 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:955 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:958 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:971 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:971 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:996 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:1246 core_05_band_integrative.md#misalignment-detection -> ../../core_05.045_band_integrative.md#misalignment-detection
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:1247 core_05_band_integrative.md#open-systems-data-and-auditing -> ../../core_05.045_band_integrative.md#open-systems-data-and-auditing
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:1268 core_05_band_integrative.md#misalignment-detection -> ../../core_05.045_band_integrative.md#misalignment-detection
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:1275 core_05_band_integrative.md#open-systems-data-and-auditing -> ../../core_05.045_band_integrative.md#open-systems-data-and-auditing
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:1310 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:1319 core_05_band_integrative.md#misaligned-reward-correction -> ../../core_05.045_band_integrative.md#misaligned-reward-correction
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:1356 core_05_band_integrative.md#misaligned-reward-correction -> ../../core_05.045_band_integrative.md#misaligned-reward-correction
+- ENGLISH translations/ta/core_01_c_stewardship_capacity_principles.md:1567 core_00_preamble.md#preamble--foundational-requirements -> ../../core_00.000_preamble.md#preamble--foundational-requirements
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:1570 core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:1570 core_06_rights_part_d.md#article-xxiv-c-public-reasons-challenge-rights-and-external-review (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_01_c_stewardship_capacity_principles.md:1570 core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment (no matching heading in core_06.025_rights_part_e.md)
+- DROPPED translations/ta/core_04_burden_traceability_verification.md:52 core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_04_burden_traceability_verification.md:161 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/ta/core_04_burden_traceability_verification.md:177 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/ta/core_05__definitions_home.md:139 ../../core_05.040_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_apex_accountability_leg.md:24 core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_05_apex_accountability_leg.md:26 ../../core_05.045_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster (no matching heading in core_05.045_band_integrative.md)
+- DROPPED translations/ta/core_05_apex_accountability_leg.md:26 core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_05_apex_accountability_leg.md:86 core_01_c_stewardship_capacity_principles.md#13-market-structure (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_05_apex_continuity_aim.md:24 core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_05_apex_continuity_aim.md:58 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/ta/core_05_apex_flourishing_aim.md:24 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_05_apex_flourishing_aim.md:24 core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_05_apex_flourishing_aim.md:24 core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_05_apex_flourishing_aim.md:57 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/ta/core_05_apex_participation_leg.md:24 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_05_band_integrative.md:160 #6-process-conflict-resolution (no matching heading in core_05.045_band_integrative.md)
+- DROPPED translations/ta/core_05_band_integrative.md:722 core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_05_band_integrative.md:722 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/ta/core_05_band_oversight.md:101 core_05_band_accountability.md#system (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:251 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:267 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:269 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:463 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:482 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:484 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:501 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:528 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:530 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:704 core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_05_band_oversight.md:705 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:723 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:724 core_05_band_accountability.md#systemic-materiality (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_05_band_oversight.md:806 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_05_band_oversight.md:866 ../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems (no matching heading in cs_06.305_information_types_and_handling.md)
+- ENGLISH translations/ta/core_05_band_oversight.md:866 ../../core_09.010_system_alignment_certification_record_process.md#6-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/ta/core_05_band_oversight.md:866 ../../core_09.010_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability -> ../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability
+- DROPPED translations/ta/core_05_band_oversight.md:867 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:876 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:886 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:911 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:911 ../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems (no matching heading in cs_06.305_information_types_and_handling.md)
+- DROPPED translations/ta/core_05_band_oversight.md:912 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:932 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:932 ../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems (no matching heading in cs_06.305_information_types_and_handling.md)
+- ENGLISH translations/ta/core_05_band_oversight.md:946 ../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents -> ../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents
+- DROPPED translations/ta/core_05_band_oversight.md:991 ../../core_06.015_rights_part_c.md#operative-steward-statement-audit (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_05_band_oversight.md:1070 core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_05_band_oversight.md:1070 core_05_apex_oversight_leg.md#6-process-conflict-resolution (no matching heading in core_05.020_apex_oversight_leg.md)
+- ENGLISH translations/ta/core_05_band_oversight.md:1121 ../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents -> ../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents
+- DROPPED translations/ta/core_05_band_oversight.md:1122 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:1137 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:1140 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:1153 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_oversight.md:1428 core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_05_band_performance.md:11 core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_05_band_performance.md:36 core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:129 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:133 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:133 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:133 core_05_band_continuity.md#environmental-preconditions-c (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:156 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:164 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:164 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:164 core_05_band_continuity.md#environmental-preconditions-c (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:165 core_05_band_continuity.md#ecological-integrity-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:165 core_05_band_continuity.md#ecological-integrity-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:165 core_05_band_continuity.md#ecological-integrity-c (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:168 core_05_band_participation.md#animal-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:168 core_05_band_participation.md#animal-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:168 core_05_band_participation.md#animal-life-c (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:169 core_05_band_participation.md#elevated-communicative-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:169 core_05_band_participation.md#elevated-communicative-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:169 core_05_band_participation.md#elevated-communicative-life-c (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:170 core_05_band_participation.md#contested-sentient-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:170 core_05_band_participation.md#contested-sentient-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:170 core_05_band_participation.md#contested-sentient-life-c (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:182 ../../core_17.000_amendment_ratification.md#102-instrument-of-adoption (no matching heading in core_17.000_amendment_ratification.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:236 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:236 core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:245 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:245 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:245 core_05_band_continuity.md#environmental-preconditions-c (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:267 core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:303 ../../core_17.000_amendment_ratification.md#102-instrument-of-adoption (no matching heading in core_17.000_amendment_ratification.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:315 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:463 core_05_band_accountability.md#meaningful-agency-o (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:465 core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional (no matching heading in core_05.045_band_integrative.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:465 core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional (no matching heading in core_05.045_band_integrative.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:489 core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:530 core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:542 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:564 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:575 core_05_band_accountability.md#meaningful-agency-o (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:620 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:668 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:753 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:763 core_05_band_accountability.md#educational-agency-o (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:806 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:806 core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:884 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_06_rights_part_a.md:930 core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/ta/core_06_rights_part_b.md:1165 core_05_band_integrative.md#documented-legitimacy-mechanism -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism
+- ENGLISH translations/ta/core_06_rights_part_b.md:1165 core_05_band_integrative.md#documented-legitimacy-mechanism -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism
+- ENGLISH translations/ta/core_06_rights_part_b.md:1165 core_05_band_integrative.md#documented-legitimacy-mechanism-a -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism-a
+- ENGLISH translations/ta/core_06_rights_part_b.md:1165 core_05_band_integrative.md#documented-legitimacy-mechanism-a -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism-a
+- ENGLISH translations/ta/core_06_rights_part_b.md:1165 core_05_band_integrative.md#documented-legitimacy-mechanism-c -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism-c
+- ENGLISH translations/ta/core_06_rights_part_b.md:1178 core_05_band_integrative.md#documented-legitimacy-mechanism -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism
+- ENGLISH translations/ta/core_06_rights_part_b.md:1363 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/ta/core_06_rights_part_b.md:1363 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/ta/core_06_rights_part_b.md:1363 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/ta/core_06_rights_part_b.md:1363 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/ta/core_06_rights_part_b.md:1363 core_05_band_oversight.md#heightened-scrutiny-c -> ../../core_05.050_band_oversight.md#heightened-scrutiny-c
+- ENGLISH translations/ta/core_06_rights_part_b.md:1384 core_05_band_oversight.md#highest-scrutiny -> ../../core_05.050_band_oversight.md#highest-scrutiny
+- ENGLISH translations/ta/core_06_rights_part_b.md:1419 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/ta/core_06_rights_part_b.md:1419 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/ta/core_06_rights_part_b.md:1419 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/ta/core_06_rights_part_b.md:1419 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/ta/core_06_rights_part_b.md:1419 core_05_band_oversight.md#heightened-scrutiny-c -> ../../core_05.050_band_oversight.md#heightened-scrutiny-c
+- ENGLISH translations/ta/core_06_rights_part_b.md:1431 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/ta/core_06_rights_part_c.md:196 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- ENGLISH translations/ta/core_06_rights_part_c.md:636 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/ta/core_06_rights_part_c.md:636 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/ta/core_06_rights_part_c.md:636 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/ta/core_06_rights_part_c.md:636 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/ta/core_06_rights_part_c.md:636 core_05_band_oversight.md#heightened-scrutiny-c -> ../../core_05.050_band_oversight.md#heightened-scrutiny-c
+- ENGLISH translations/ta/core_06_rights_part_c.md:646 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/ta/core_06_rights_part_c.md:668 core_05_band_oversight.md#highest-scrutiny -> ../../core_05.050_band_oversight.md#highest-scrutiny
+- DROPPED translations/ta/core_06_rights_part_c.md:1003 ../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home (no matching heading in cjs_05.115_audit_process.md)
+- DROPPED translations/ta/core_06_rights_part_c.md:1037 ../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home (no matching heading in cjs_05.115_audit_process.md)
+- ENGLISH translations/ta/core_06_rights_part_d.md:132 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- DROPPED translations/ta/core_06_rights_part_d.md:142 core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/ta/core_06_rights_part_d.md:142 core_11_standing_integration.md#chapter-ten-standing-effects-and-integration (no matching heading in core_11.000_standing_integration.md)
+- ENGLISH translations/ta/core_06_rights_part_d.md:208 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- DROPPED translations/ta/core_06_rights_part_d.md:241 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- ENGLISH translations/ta/core_06_rights_part_d.md:421 core_12_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- DROPPED translations/ta/core_06_rights_part_d.md:427 core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment (no matching heading in core_06.025_rights_part_e.md)
+- DROPPED translations/ta/core_06_rights_part_d.md:477 core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.025_rights_part_e.md)
+- DROPPED translations/ta/core_06_rights_part_d.md:1149 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- DROPPED translations/ta/core_06_rights_part_d.md:1153 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- DROPPED translations/ta/core_06_rights_part_d.md:1155 core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability (no matching heading in core_06.025_rights_part_e.md)
+- DROPPED translations/ta/core_06_rights_part_d.md:1309 core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability (no matching heading in core_06.025_rights_part_e.md)
+- ENGLISH translations/ta/core_06_rights_part_e.md:95 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- ENGLISH translations/ta/core_06_rights_part_e.md:116 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- ENGLISH translations/ta/core_06_rights_part_e.md:206 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- ENGLISH translations/ta/core_06_rights_part_e.md:208 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- DROPPED translations/ta/core_06_rights_part_e.md:243 corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors (no matching heading in cf_13.445_performance_backlog_publication_accessibility.md)
+- ENGLISH translations/ta/core_06_rights_part_e.md:244 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- ENGLISH translations/ta/core_06_rights_part_e.md:344 core_05_band_oversight.md#gate-criteria -> ../../core_05.050_band_oversight.md#gate-criteria
+- DROPPED translations/ta/core_06_rights_part_e.md:369 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- ENGLISH translations/ta/core_06_rights_part_e.md:390 core_05_band_oversight.md#gate -> ../../core_05.050_band_oversight.md#gate
+- ENGLISH translations/ta/core_06_rights_part_e.md:390 core_05_band_oversight.md#gate-criteria -> ../../core_05.050_band_oversight.md#gate-criteria
+- DROPPED translations/ta/core_06_rights_part_e.md:406 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/ta/core_06_rights_part_e.md:408 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/ta/core_06_rights_part_e.md:409 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/ta/core_06_rights_part_e.md:420 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/ta/core_06_rights_part_e.md:428 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/ta/core_06_rights_part_e.md:429 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- ENGLISH translations/ta/core_06_rights_part_e.md:442 core_11_standing_integration.md#54-transition-exception-misaligned-rewards -> ../../core_11.000_standing_integration.md#54-transition-exception-misaligned-rewards
+- DROPPED translations/ta/core_06_rights_part_e.md:484 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/ta/core_06_rights_part_e.md:490 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- ENGLISH translations/ta/core_06_rights_part_e.md:490 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- DROPPED translations/ta/core_06_rights_part_e.md:515 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- ENGLISH translations/ta/core_06_rights_part_e.md:515 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- DROPPED translations/ta/core_06_rights_part_e.md:515 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- ENGLISH translations/ta/core_06_rights_part_e.md:548 core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct -> ../../core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct
+- ENGLISH translations/ta/core_06_rights_part_e.md:549 core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct -> ../../core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct
+- ENGLISH translations/ta/core_06_rights_part_e.md:550 core_12_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out -> ../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out
+- DROPPED translations/ta/core_06_rights_part_e.md:555 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxviii-d-operative-transition-scoped-remediation-requirements (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:50 core_07_b_system_alignment_certification_record_process.md#91-challenging-a-certification -> ../../core_09.010_system_alignment_certification_record_process.md#91-challenging-a-certification
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:50 core_07_b_system_alignment_certification_record_process.md#6-forum-process -> ../../core_09.010_system_alignment_certification_record_process.md#6-forum-process
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:50 core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles -> ../../core_09.010_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:50 core_07_b_system_alignment_certification_record_process.md#8-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:50 core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability -> ../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:50 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:50 core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:101 core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening -> ../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:101 core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- DROPPED translations/ta/core_07_a_system_alignment_certification_evaluation.md:101 core_07_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process (no matching heading in core_09.010_system_alignment_certification_record_process.md)
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:103 core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening -> ../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:195 core_07_b_system_alignment_certification_record_process.md#6-forum-process -> ../../core_09.010_system_alignment_certification_record_process.md#6-forum-process
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:196 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:197 core_07_b_system_alignment_certification_record_process.md#8-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:198 core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening -> ../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:198 core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:214 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- DROPPED translations/ta/core_07_a_system_alignment_certification_evaluation.md:214 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:215 core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability -> ../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:215 core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:215 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- DROPPED translations/ta/core_07_a_system_alignment_certification_evaluation.md:247 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:259 core_07_b_system_alignment_certification_record_process.md#81-minimum-record-contents -> ../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:262 core_07_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification -> ../../core_09.010_system_alignment_certification_record_process.md#92-provisional-and-full-certification
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:272 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- DROPPED translations/ta/core_07_a_system_alignment_certification_evaluation.md:281 core_08_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:283 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:293 core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening -> ../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:301 core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles -> ../../core_09.010_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:317 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:334 core_08_b_system_alignment_certification_record_process.md#8-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:334 core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability -> ../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:334 core_08_b_system_alignment_certification_record_process.md#6-forum-process -> ../../core_09.010_system_alignment_certification_record_process.md#6-forum-process
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:334 core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- DROPPED translations/ta/core_07_a_system_alignment_certification_evaluation.md:335 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_07_a_system_alignment_certification_evaluation.md:374 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:394 core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:424 core_08_b_system_alignment_certification_record_process.md#8-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:425 core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability -> ../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:425 core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:425 core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- DROPPED translations/ta/core_07_a_system_alignment_certification_evaluation.md:454 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:539 core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:725 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:759 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:965 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:1009 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:1056 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:1097 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/ta/core_07_a_system_alignment_certification_evaluation.md:1133 core_07_b_system_alignment_certification_record_process.md#6-forum-process -> ../../core_09.010_system_alignment_certification_record_process.md#6-forum-process
+- DROPPED translations/ta/core_07_b_system_alignment_certification_record_process.md:61 core_07_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- DROPPED translations/ta/core_07_b_system_alignment_certification_record_process.md:71 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_07_b_system_alignment_certification_record_process.md:165 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_07_b_system_alignment_certification_record_process.md:266 core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/ta/core_07_b_system_alignment_certification_record_process.md:302 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_07_b_system_alignment_certification_record_process.md:375 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_07_b_system_alignment_certification_record_process.md:468 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_07_b_system_alignment_certification_record_process.md:492 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/ta/core_07_functional_independence_segregation_of_duties.md:14 ../../core_10_standing_assessment.md#37-segregation-of-duties -> ../../core_10.000_standing_assessment.md#37-separation-of-duties
+- DROPPED translations/ta/core_07_functional_independence_segregation_of_duties.md:170 ../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_07_functional_independence_segregation_of_duties.md:225 ../../core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_07_system_alignment_certification.md:17 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:42 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:46 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:46 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:96 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:399 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:406 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:406 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:415 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:417 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:417 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:428 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:445 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:456 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:482 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:482 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:486 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:518 core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:564 core_06_rights_part_d.md#incentive-alignment-transition-carve-out (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:599 core_06_rights_part_d.md#incentive-alignment-transition-carve-out (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:883 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:885 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:886 core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:895 core_06_rights_part_c.md#article-xix-standing-and-participation-status (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:896 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:897 core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:898 core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_08_standing_assessment.md:898 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_09_standing_integration.md:546 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_09_standing_integration.md:707 core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_09_standing_integration.md:840 ../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes (no matching heading in core_10.005_application_vignettes.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:14 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:23 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:29 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:75 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:83 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:150 core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:279 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:300 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:300 core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:300 core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:300 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:374 core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:374 core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:413 core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:413 core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_10_a_misconduct_designation.md:433 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/ta/core_11_forum.md:17 ../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes (no matching heading in core_10.005_application_vignettes.md)
+- DROPPED translations/ta/core_11_forum.md:66 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_11_forum.md:66 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_11_forum.md:153 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_11_forum.md:198 core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_11_forum.md:299 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_11_forum.md:462 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_11_forum.md:623 core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/ta/core_11_forum.md:623 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_11_forum.md:623 core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_11_forum.md:623 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_11_forum.md:795 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_11_forum.md:795 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_11_forum.md:795 core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_11_forum.md:796 ../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes (no matching heading in core_10.005_application_vignettes.md)
+- DROPPED translations/ta/core_11_forum.md:796 core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_11_forum.md:799 core_06_rights_part_d.md#operative-steward-statement-delay (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_11_forum.md:864 ../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors (no matching heading in cf_13.445_performance_backlog_publication_accessibility.md)
+- DROPPED translations/ta/core_11_forum.md:879 core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_11_forum.md:886 core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_11_forum.md:902 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_11_forum.md:929 ../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes (no matching heading in core_10.005_application_vignettes.md)
+- DROPPED translations/ta/core_12_governance.md:66 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_12_governance.md:66 #6-process-conflict-resolution (no matching heading in core_14.000_governance.md)
+- DROPPED translations/ta/core_12_governance.md:68 ../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/ta/core_12_governance.md:68 ../../core_06_rights_part_c.md#article-xix-standing-and-participation-status (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_12_governance.md:239 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_12_governance.md:239 core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/ta/core_12_governance.md:284 core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_12_governance.md:323 ../../core_06_rights_part_c.md#article-xix-standing-and-participation-status (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/ta/core_12_governance.md:324 ../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/ta/core_12_governance.md:421 core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/ta/core_12_governance.md:441 ../../core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/ta/core_12_governance.md:453 ../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/ta/core_12_governance.md:454 core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_12_governance.md:464 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/ta/core_12_governance.md:475 core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints (no matching heading in core_01.015_stewardship_capacity_principles.md)

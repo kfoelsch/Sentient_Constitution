@@ -25,24 +25,24 @@
 
 - [آئینی چارگانہ](core_00_preamble.md#constitutional-tetrad) — **شرکت**، **نگرانی**، **جوابدہی**، اور **بروقتی**، [مادی مفاد](core_00_preamble.md#material-stake) کے تناسب سے
 - [آئین کے دو مقاصد](core_00_preamble.md#two-constitutional-aims) — [فروغ](core_00_preamble.md#flourishing) اور [تسلسل](core_00_preamble.md#continuity) (آئینی **تسلسل کا مقصد**، جو متن کے دیگر مقامات پر عملیاتی یا پروٹوکول کے تسلسل سے مختلف ہے)
-- [مادی مفاد](core_00_preamble.md#material-stake) — چارگانہ کے فرائض کے لیے اثر، انحصار اور خطرے کا تناسب مقرر کرنا؛ اسے مربوط مادیت ([مادیت](core_05_band_oversight.md#materiality)) اور ذیل کے باب پنجم کے اندراجات کے ساتھ پڑھیں
+- [مادی مفاد](core_00_preamble.md#material-stake) — چارگانہ کے فرائض کے لیے اثر، انحصار اور خطرے کا تناسب مقرر کرنا؛ اسے مربوط مادیت ([مادیت](../../core_05.050_band_oversight.md#materiality)) اور ذیل کے باب پنجم کے اندراجات کے ساتھ پڑھیں
 
 **باب پنجم کی متبادل تعریفیں** (O/M/A/C کی تکمیل — جہاں مادی طور پر متعلق ہو، ابواب دوم تا چہارم کے تحت سراغ لگائیں):
 
-- [فلاح و بہبود](core_05_band_continuity.md#wellbeing) (فروغ کا مقصد)
-- [نگرانی](core_05_apex_oversight_leg.md#oversight)، [جوابدہی](core_05_apex_accountability_leg.md#accountability)، [قابلِ اعتراض ہونا](core_05_band_accountability.md#contestability)، [حکمرانی](core_05_band_accountability.md#governance)، [درجہ بندی کے مطابق حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی)
-- [مادی](core_05_band_oversight.md#مادی)، [مادی اثر](core_05_band_oversight.md#مادی-اثر)، [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ)، [مادیت](core_05_band_oversight.md#materiality) (ویجٹس اسے **مادیت** کا نام دیتے ہیں)، [نظامی مادیت](core_05_band_continuity.md#systemic-materiality) — کلسٹر: [مادیت، اثر، خطرہ، اور متبادل پیمانے کی صحت](core_05_band_oversight.md#مادیت-اثر-خطرہ-اور-متبادل-اشارے-کی-دیانت)
+- [فلاح و بہبود](../../core_05.040_band_continuity.md#wellbeing) (فروغ کا مقصد)
+- [نگرانی](../../core_05.020_apex_oversight_leg.md#oversight)، [جوابدہی](core_05_apex_accountability_leg.md#accountability)، [قابلِ اعتراض ہونا](../../core_05.035_band_accountability.md#contestability)، [حکمرانی](../../core_05.035_band_accountability.md#governance)، [درجہ بندی کے مطابق حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی)
+- [مادی](core_05_band_oversight.md#مادی)، [مادی اثر](core_05_band_oversight.md#مادی-اثر)، [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ)، [مادیت](../../core_05.050_band_oversight.md#materiality) (ویجٹس اسے **مادیت** کا نام دیتے ہیں)، [نظامی مادیت](../../core_05.040_band_continuity.md#systemic-materiality) — کلسٹر: [مادیت، اثر، خطرہ، اور متبادل پیمانے کی صحت](core_05_band_oversight.md#مادیت-اثر-خطرہ-اور-متبادل-اشارے-کی-دیانت)
 
 **باب پنجم §3 کے اہم تابع کلسٹرز** (مشترکہ اطلاق کے گروہ — جہاں مادی طور پر متعلق ہوں، ابواب دوم تا چہارم کے ساتھ پڑھیں):
 
-- [فریقِ مفاد کی حیثیت اور وزن](core_05_band_participation.md#stakeholder-status-and-weight) (نظام میں فریقینِ مفاد کی شرکت کی تہہ)
-- [آئینی معاہدے کی تہہ](core_05_band_integrative.md#آئینی-معاہدہ-تہہ) اور [حکمرانی کا ڈھانچہ، نگرانی، انحصار، عدم مرکزیت، ارتکاز، بازاری ساخت، اور اخراج کے راستے کی سالمیت](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- [فریقِ مفاد کی حیثیت اور وزن](../../core_05.055_band_participation.md#stakeholder-status-and-weight) (نظام میں فریقینِ مفاد کی شرکت کی تہہ)
+- [آئینی معاہدے کی تہہ](core_05_band_integrative.md#آئینی-معاہدہ-تہہ) اور [حکمرانی کا ڈھانچہ، نگرانی، انحصار، عدم مرکزیت، ارتکاز، بازاری ساخت، اور اخراج کے راستے کی سالمیت](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - [متن اور اختیارات کا سلسلہ](core_05_band_integrative.md#defi1-کارپس-اور-اختیار-کا-ڈھیر)
 - [جوابدہی، قابلِ اعتراض ہونا، اور اجتماعی جوابدہی کی ناکامی](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3** (*عملیاتی کلسٹر لائبریری (oDef)*) — مختلف نفاذات میں مشترک عملیاتی اصطلاحات کے لیے عملیاتی کلسٹر رہنما؛ اسے اس باب کے چارگانہ، مقاصد، اور مادی مفاد کے تناسب کے ساتھ پڑھیں:
 
-- [CJS-3.1 آئینی رہنما اور کلسٹر نقشہ](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — **CJS-3.2** (*نگرانی: انعکاسی شفافیت اور جوابدہی کی اصطلاحات*) سے **CJS-3.23** (*انضمام: مداخلت اور بالادستی کی سالمیت کی اصطلاحات*) تک کلسٹرز کا بنیادی مدخل؛ یہ کلسٹرز چارگانہ کے رکن، تسلسل کے مقصد، اور مربوط بین الاضلاع پٹیوں کے مطابق مرتب ہیں
+- [CJS-3.1 آئینی رہنما اور کلسٹر نقشہ](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — **CJS-3.2** (*نگرانی: انعکاسی شفافیت اور جوابدہی کی اصطلاحات*) سے **CJS-3.23** (*انضمام: مداخلت اور بالادستی کی سالمیت کی اصطلاحات*) تک کلسٹرز کا بنیادی مدخل؛ یہ کلسٹرز چارگانہ کے رکن، تسلسل کے مقصد، اور مربوط بین الاضلاع پٹیوں کے مطابق مرتب ہیں
 
 </details>
 
@@ -55,7 +55,7 @@
 
 - **جب اصول باہم متصادم ہوں** ([§13 آئینی تصادم کے حل کا طریقۂ کار](#13-آئینی-تصادم-کے-حل-کا-عمل)): حفاظت اور سچائی مقدم ہیں، اور ہر دوسرے تبادلۂ مفادات میں چارگانہ کو آسان حل کی خاطر کمزور کرنے کے بجائے محفوظ رکھنا لازم ہے۔
 - **جب کسی قدر کو حد سے زیادہ بڑھایا جائے** ([§14 مطلق بالادستی کی ممانعت](#14-prohibition-on-absolute-override)): کسی قدر یا دونوں مقاصد میں سے کسی کو بھی کسی رکن کو مادی مفاد کی مطلوبہ حد سے نیچے کھوکھلا کرنے کے لیے استعمال نہیں کیا جا سکتا۔
-- **جب آئین پڑھا یا لاگو کیا جائے** ([§15 آئینی تعبیر](#15-constitutional-interpretation)): اسی عمل کا نام بدلنا، اسے تقسیم کرنا یا اس کا راستہ موڑنا کسی تقاضے سے بچنے کا ذریعہ نہیں بن سکتا؛ ابہام کی تعبیر [زیادہ سے زیادہ حفاظتی اثر](core_05_band_integrative.md#fullest-protective-effect) کے حق میں ہوگی۔
+- **جب آئین پڑھا یا لاگو کیا جائے** ([§15 آئینی تعبیر](#15-constitutional-interpretation)): اسی عمل کا نام بدلنا، اسے تقسیم کرنا یا اس کا راستہ موڑنا کسی تقاضے سے بچنے کا ذریعہ نہیں بن سکتا؛ ابہام کی تعبیر [زیادہ سے زیادہ حفاظتی اثر](../../core_05.045_band_integrative.md#fullest-protective-effect) کے حق میں ہوگی۔
 
 **حصہ ب ہر رکن کو کہاں برقرار رکھتا ہے۔** ہر دفعہ کا سراغ اس کے زیرِ اثر ہر رکن درج کرتا ہے۔ یہ جدول اہم مقامات بتاتا ہے۔
 
@@ -68,7 +68,7 @@
 
 **وہ دفعات جو کسی رکن سے براہِ راست متعلق نہیں۔** [§15.1.1 تقسیم بندی کی ممانعت کا اصول](#1511-عدم-تقسیم-کا-اصول) اور [§15.4.1](#1541-مربوط-مطالعہ) سے [§15.4.3](#1543-شمولیت-کی-تہہ) تک متن کے مطالعے اور حاکم ماخذ کی تہہ کو طے کرتے ہیں۔ منصوبے کے مطابق، ان کے سراغ میں چارگانہ کا کوئی رکن درج نہیں ہوتا۔
 
-**وقت کے دو مفہوم۔** حصہ ب میں وقت دو معنوں میں آتا ہے۔ طویل زمانی افق (تاخیر سے ظاہر ہونے والا اور مجموعی نقصان، اور [باب ہشتم §3.2 کی زمانی مطابقت کی پابندی](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) کا [§13.1.2](#1312-نقصان-میں-کمی) میں اطلاق) **تسلسل** کے مقصد سے متعلق ہے۔ گھڑیاں، نظرثانی کے دورانیے اور تاخیر (پابندیوں کی مدت، بالآخر ہونے والا افشا، اور قابلِ اجتناب تاخیر) **بروقتی** کے رکن سے متعلق ہیں۔
+**وقت کے دو مفہوم۔** حصہ ب میں وقت دو معنوں میں آتا ہے۔ طویل زمانی افق (تاخیر سے ظاہر ہونے والا اور مجموعی نقصان، اور [باب ہشتم §3.2 کی زمانی مطابقت کی پابندی](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) کا [§13.1.2](#1312-نقصان-میں-کمی) میں اطلاق) **تسلسل** کے مقصد سے متعلق ہے۔ گھڑیاں، نظرثانی کے دورانیے اور تاخیر (پابندیوں کی مدت، بالآخر ہونے والا افشا، اور قابلِ اجتناب تاخیر) **بروقتی** کے رکن سے متعلق ہیں۔
 
 **دو محور، باہم متصادم نہیں۔** حصہ الف کے مقاصد بتاتے ہیں کہ مشترک نظام کس چیز کے لیے کوشاں ہیں۔ حصہ ب بتاتا ہے کہ اس راہ میں کوئی تبادلۂ مفادات، بالادستی یا تعبیر کس چیز کو نہیں چھین سکتی۔
 
@@ -83,7 +83,7 @@
 
 - ساتھ پڑھیں: [آئینی چتوشٹائے](core_00_preamble.md#constitutional-tetrad) — طریقۂ کار، انکشاف، آئینی تصادم سے نمٹنے اور تلافی میں شرکت، نگرانی، جواب دہی اور بروقتی؛ [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق درجہ بندی۔
 - ماخذی اصول: [3. بنیادی مقصد: بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [7. آزادی (محدود اختیارِ عمل)](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [§16 نگہبانی کی تفصیل](core_01_c_stewardship_capacity_principles.md#16-نگہبانی-کی-تفصیل)۔
-- بعد کے حصے: [13.2.1 علمی دیانت کا تحفظ](#1321-علمی-دیانت-کا-تحفظ)، [آئینی تصادم کا ریکارڈ](core_05_band_integrative.md#constitutional-collision-record)، [طے شدہ عبوری طرزِ عمل](#default-interim-posture)، اور [14. مطلق بالادستی کی ممانعت](#14-prohibition-on-absolute-override)۔
+- بعد کے حصے: [13.2.1 علمی دیانت کا تحفظ](#1321-علمی-دیانت-کا-تحفظ)، [آئینی تصادم کا ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record)، [طے شدہ عبوری طرزِ عمل](#default-interim-posture)، اور [14. مطلق بالادستی کی ممانعت](#14-prohibition-on-absolute-override)۔
 - بعد کے حصے: پورے [باب ششم: بنیادی حقوق](core_06_rights_part_a.md#باب-ششم-بنیادی-حقوق) میں مضامین کے مابین تنازعات پر حاکم ہے۔
   - اسے [آرٹیکل XXIV: آئینی تشریح، نظرثانی اور قبضے کے خلاف حفاظتی تدابیر](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) اور [آرٹیکل XX: تصدیق شدہ خلاف ورزی کے بعد انصاف](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) کے ساتھ پڑھیں۔
   - جہاں نظرثانی، ہنگامی حالت یا آئینی تصادم کے سوالات پیدا ہوں، وہاں اس کا اطلاق کریں۔
@@ -93,7 +93,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [آئینی تصادم](core_05_band_integrative.md#constitutional-collision) · [O](core_05_band_integrative.md#constitutional-collision) · [M](core_05_band_integrative.md#constitutional-collision-a) · [A](core_05_band_integrative.md#constitutional-collision-a) · [C](core_05_band_integrative.md#constitutional-collision-c)
+- [آئینی تصادم](../../core_05.045_band_integrative.md#constitutional-collision) · [O](../../core_05.045_band_integrative.md#constitutional-collision) · [M](../../core_05.045_band_integrative.md#constitutional-collision-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-c)
 - [شرکت](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [جواب دہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
@@ -103,12 +103,12 @@
 
 <br>
 
-*سادہ الفاظ میں: آئینی تصادم ہوں گے — **سلامتی** اور **سچائی** کو اولیت حاصل ہے۔ اس کے بعد پابندیاں متناسب، ضروری، نقصان کو کم سے کم کرنے والی اور حتی الامکان ہلکی ہونی چاہییں۔ سہولت کی خاطر سچائی چھپائی نہیں جا سکتی؛ آسانی کے لیے رازداری نہیں چھینی جا سکتی؛ آزادی کی حدود [§7.1 پابندیوں کا نظم](core_01_a_values_principles.md#71-limitation-discipline) کے تابع ہیں؛ حقوق سے متعلق آئینی تصادم کے لیے دستاویزی فیصلہ جاتی آزمائش لازم ہے؛ اور تعمیل کے بارے میں غلط تاثر دینے والے پیمانے قابلِ قبول نہیں۔ مختصر مدتی بہتری [باب ہشتم §3.2 وقت کی مطابقت کی قید](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) کے تحت جائزہ پاس نہیں کر سکتی۔ **§13.1** (*بنیادی توازن کے اصول*) سے **§13.3** (*قابلِ اجتناب بوجھ میں کمی*) تک توازن کے قواعد، انکشاف اور رازداری کی پابندیاں، اور آئینی تصادم کا طریقۂ کار شامل ہیں۔*
+*سادہ الفاظ میں: آئینی تصادم ہوں گے — **سلامتی** اور **سچائی** کو اولیت حاصل ہے۔ اس کے بعد پابندیاں متناسب، ضروری، نقصان کو کم سے کم کرنے والی اور حتی الامکان ہلکی ہونی چاہییں۔ سہولت کی خاطر سچائی چھپائی نہیں جا سکتی؛ آسانی کے لیے رازداری نہیں چھینی جا سکتی؛ آزادی کی حدود [§7.1 پابندیوں کا نظم](core_01_a_values_principles.md#71-limitation-discipline) کے تابع ہیں؛ حقوق سے متعلق آئینی تصادم کے لیے دستاویزی فیصلہ جاتی آزمائش لازم ہے؛ اور تعمیل کے بارے میں غلط تاثر دینے والے پیمانے قابلِ قبول نہیں۔ مختصر مدتی بہتری [باب ہشتم §3.2 وقت کی مطابقت کی قید](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) کے تحت جائزہ پاس نہیں کر سکتی۔ **§13.1** (*بنیادی توازن کے اصول*) سے **§13.3** (*قابلِ اجتناب بوجھ میں کمی*) تک توازن کے قواعد، انکشاف اور رازداری کی پابندیاں، اور آئینی تصادم کا طریقۂ کار شامل ہیں۔*
 
 حصہ B تین صورتوں میں چتوشٹائے کو برقرار رکھتا ہے:
-- **[آئینی تصادم](core_05_band_integrative.md#constitutional-collision) (یہ حصہ):** کسی بھی رکن کو کمزور کیے بغیر تصادم حل کرتا ہے۔
+- **[آئینی تصادم](../../core_05.045_band_integrative.md#constitutional-collision) (یہ حصہ):** کسی بھی رکن کو کمزور کیے بغیر تصادم حل کرتا ہے۔
 - **حد سے تجاوز ([§14 مطلق بالادستی کی ممانعت](#14-prohibition-on-absolute-override)):** کسی ایک قدر، بشمول دونوں میں سے کسی بھی مقصد، کو دوسری قدروں پر غالب آنے یا کسی رکن کو مادی داؤ کے تقاضے سے نیچے کھوکھلا کرنے سے روکتا ہے۔
-- **قرأت اور اطلاق ([§15 آئینی تشریح](#15-constitutional-interpretation)):** کسی تقاضے سے بچنے کے لیے اسی عمل کا نام بدلنے، اسے تقسیم کرنے یا دوسری راہ پر ڈالنے سے روکتا ہے، اور ابہام کو [مکمل ترین حفاظتی اثر](core_05_band_integrative.md#fullest-protective-effect) کے حق میں سمجھتا ہے۔
+- **قرأت اور اطلاق ([§15 آئینی تشریح](#15-constitutional-interpretation)):** کسی تقاضے سے بچنے کے لیے اسی عمل کا نام بدلنے، اسے تقسیم کرنے یا دوسری راہ پر ڈالنے سے روکتا ہے، اور ابہام کو [مکمل ترین حفاظتی اثر](../../core_05.045_band_integrative.md#fullest-protective-effect) کے حق میں سمجھتا ہے۔
 
 جب اقدار یا پابندیاں باہم متصادم ہوں:
 - **ترجیح:** جہاں ان کی خلاف ورزی کیے بغیر تصادم حل نہ ہو سکے، وہاں **سلامتی** اور **سچائی** کو ترجیح حاصل ہے۔
@@ -169,9 +169,9 @@ flowchart TB
 
 *دائرۂ کار۔* [§13.1 بنیادی توازن کے اصول](#131-بنیادی-توازن-کے-اصول) — توازن کی ترتیب میں ضرورت، نقصان میں کمی اور نقصان کی تعریفیں۔
 
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [نقصان میں کمی (توازن کا انتخاب)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [نقصان](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [نقصان میں کمی (توازن کا انتخاب)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [نقصان](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
 
 </details>
 
@@ -230,10 +230,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [قابلِ عمل ہونا](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
-- [آزادی (محدود فعلیت)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [بامعنی فعلیت](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [قابلِ عمل ہونا](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
+- [آزادی (محدود فعلیت)](../../core_05.055_band_participation.md#freedom-bounded-agency) · [O](../../core_05.055_band_participation.md#freedom-bounded-agency) · [M](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05.055_band_participation.md#freedom-bounded-agency-c)
+- [بامعنی فعلیت](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -256,7 +256,7 @@ flowchart TB
 - جب حقوق مادی طور پر متاثر ہوں تو صرف لاگت میں بچت؛
 - یہ حقیقت کہ پابندی پہلے سے موجود ہے۔
 
-**دائرۂ اطلاق۔** یہ ذیلی دفعہ ہر آئینی پابندی پر لاگو ہوتی ہے، صرف [§13.1.5 حقوق کے تصادم کا طریقۂ کار](#1315-rights-collision-decision-test) کے تحت آئینی تصادم کے حالات پر نہیں۔ جہاں کوئی پابندی [آزادی (محدود فعلیت)](core_05_band_participation.md#freedom-bounded-agency)، [بامعنی فعلیت](core_05_band_participation.md#meaningful-agency)، یا [رضامندی](core_05_band_participation.md#consent) پر مادی بوجھ ڈالتی ہو، وہاں ضرورت کا ثبوت بھی اسی مناسبت سے سخت ہونا چاہیے۔
+**دائرۂ اطلاق۔** یہ ذیلی دفعہ ہر آئینی پابندی پر لاگو ہوتی ہے، صرف [§13.1.5 حقوق کے تصادم کا طریقۂ کار](#1315-rights-collision-decision-test) کے تحت آئینی تصادم کے حالات پر نہیں۔ جہاں کوئی پابندی [آزادی (محدود فعلیت)](../../core_05.055_band_participation.md#freedom-bounded-agency)، [بامعنی فعلیت](../../core_05.055_band_participation.md#meaningful-agency)، یا [رضامندی](../../core_05.055_band_participation.md#consent) پر مادی بوجھ ڈالتی ہو، وہاں ضرورت کا ثبوت بھی اسی مناسبت سے سخت ہونا چاہیے۔
 <a id="1312-harm-minimization"></a>
 ##### 13.1.2 نقصان میں کمی
 <details>
@@ -269,12 +269,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [نقصان میں کمی (تبادلے کا انتخاب)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [نقصان](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [ماحولیاتی سالمیت](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [ماحولیاتی بحالی کی صلاحیت](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [خطرہ](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [نقصان میں کمی (تبادلے کا انتخاب)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [نقصان](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [ماحولیاتی سالمیت](../../core_05.040_band_continuity.md#ecological-integrity) · [O](../../core_05.040_band_continuity.md#ecological-integrity) · [M](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
+- [ماحولیاتی بحالی کی صلاحیت](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [خطرہ](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 
 </details>
 
@@ -282,10 +282,10 @@ flowchart TB
 
 *سادہ الفاظ میں: اگر [§13.1.1 ضرورت](#1311-ضرورت) پوری ہونے کے بعد کئی ضروری متبادل باقی رہیں، تو وہ متبادل منتخب کریں جو مجموعی طور پر سب سے کم نقصان پہنچائے — اس میں تمام متاثرین، ماحولیاتی نظام اور جاندار نظام، متاثر ہونے والے تمام نظام، اور تمام اہم زمانی افق شامل ہوں۔ مقامی سطح پر بہتری لاتے ہوئے نظامی یا ماحولیاتی نقصان پیدا کرنا، یا قلیل مدتی بہتری کے ساتھ طویل مدتی نقصان پیدا کرنا، اس کسوٹی پر پورا نہیں اترتا۔ نقصان میں کمی کبھی بھی [§13.1.4 آئینی حدیں، سلامتی اور تذلیل سے پاک طریقۂ کار](#1314-آئینی-کم-از-کم-حدود-سلامتی-اور-توہین-آمیز-عمل-کی-ممانعت) میں مقرر آئینی حدوں سے نیچے جانے کی اجازت نہیں دیتی۔*
 
-**موازنے کا دائرہ۔** جہاں متعدد آئینی طور پر کافی متبادل [سلامتی (§4)](core_01_a_values_principles.md#4-safety-harm-constraint)، [سچائی (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [§13.1.1 ضرورت](#1311-ضرورت) پوری کرتے ہوں، وہاں انتخاب میں اس متبادل کو ترجیح دینی ہوگی جو درج ذیل پر مجموعی [نقصان](core_05_band_accountability.md#harm) کم سے کم کرے:
+**موازنے کا دائرہ۔** جہاں متعدد آئینی طور پر کافی متبادل [سلامتی (§4)](core_01_a_values_principles.md#4-safety-harm-constraint)، [سچائی (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [§13.1.1 ضرورت](#1311-ضرورت) پوری کرتے ہوں، وہاں انتخاب میں اس متبادل کو ترجیح دینی ہوگی جو درج ذیل پر مجموعی [نقصان](../../core_05.035_band_accountability.md#harm) کم سے کم کرے:
 - براہِ راست اور بالواسطہ متاثر ہونے والے ذی شعور وجود؛
 - وہ نظام جو نتیجے کو برقرار رکھتے، اس میں واسطہ بنتے، یا اس پر انحصار کرتے ہیں؛
-- ماحولیاتی اور جاندار نظام، بشمول [ماحولیاتی سالمیت](core_05_band_continuity.md#ecological-integrity) اور، جہاں نقصان کے بعد بحالی اہم ہو، [ماحولیاتی بحالی کی صلاحیت](core_05_band_continuity.md#ecological-recovery-capacity)؛
+- ماحولیاتی اور جاندار نظام، بشمول [ماحولیاتی سالمیت](../../core_05.040_band_continuity.md#ecological-integrity) اور، جہاں نقصان کے بعد بحالی اہم ہو، [ماحولیاتی بحالی کی صلاحیت](../../core_05.040_band_continuity.md#ecological-recovery-capacity)؛
 - متعلقہ زمانی افق، بشمول تاخیر سے ظاہر ہونے والے اور مجموعی اثرات۔
 
 **جمع بندی کی شرط۔** نقصان کے جائزے میں یہ سب جمع ہونا چاہیے:
@@ -300,7 +300,7 @@ flowchart TB
 - صرف مقامی یا فوری نقصان کم کرنے پر توجہ دینا، جبکہ اس سے بڑا نظامی، مجموعی یا ماحولیاتی نقصان پیدا ہو؛
 - شناخت شدہ فریقوں کے لیے نقصان کم کرنے کا تاثر دینے کی خاطر ماحولیاتی نظاموں، غیر شناخت شدہ ذی شعور وجودوں، یا دیگر غیر شمار شدہ فریقوں پر نقصان ڈال دینا۔
 
-**زمانی افق کا لحاظ۔** طویل مدتی نظامی قیمت پر قلیل مدتی بہتری اس کسوٹی پر پوری نہیں اترتی۔ نقصان میں کمی کے لیے [باب آٹھ §3.2 زمانی مطابقت کی پابندی](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) کو مدنظر رکھنا لازم ہے: ایسا فیصلہ جو موجودہ مدت میں نقصان کم کرنے والا دکھائی دے، لیکن متعلقہ آئینی زمانی افق میں قابلِ پیش گوئی طور پر زیادہ نقصان پیدا کرے، غیر مطابق ہے۔
+**زمانی افق کا لحاظ۔** طویل مدتی نظامی قیمت پر قلیل مدتی بہتری اس کسوٹی پر پوری نہیں اترتی۔ نقصان میں کمی کے لیے [باب آٹھ §3.2 زمانی مطابقت کی پابندی](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) کو مدنظر رکھنا لازم ہے: ایسا فیصلہ جو موجودہ مدت میں نقصان کم کرنے والا دکھائی دے، لیکن متعلقہ آئینی زمانی افق میں قابلِ پیش گوئی طور پر زیادہ نقصان پیدا کرے، غیر مطابق ہے۔
 
 **آئینی حدوں سے تعلق۔** نقصان میں کمی [§13.1.4 آئینی حدوں، سلامتی اور تذلیل سے پاک طریقۂ کار](#1314-آئینی-کم-از-کم-حدود-سلامتی-اور-توہین-آمیز-عمل-کی-ممانعت) میں بیان کردہ آئینی حدوں سے *اوپر* کام کرتی ہے۔ یہ کبھی بھی درج ذیل کی اجازت نہیں دیتی:
 - حقوق کے فرش کی کم از کم ضمانتوں کا مستقل خاتمہ؛
@@ -322,14 +322,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [خطرہ](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [وجودی خطرہ](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [ماحولیاتی بحالی کی صلاحیت](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [نظامی جمود](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [قابلِ واپسی ہونا](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [انحصار](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [خطرہ](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [وجودی خطرہ](../../core_05.040_band_continuity.md#existential-risk) · [O](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [A](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [ماحولیاتی بحالی کی صلاحیت](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [نظامی جمود](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [قابلِ واپسی ہونا](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [انحصار](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
@@ -339,13 +339,13 @@ flowchart TB
 
 *سادہ الفاظ میں: تناسب یہ جانچتا ہے کہ کسی پابندی کا پیمانہ اس نقصان کے پیمانے کے مطابق ہے جس سے وہ نمٹتی ہے۔ کوئی ضروری اور نقصان کم سے کم کرنے والا اختیار بھی ناکام ہوتا ہے اگر اس کا دائرہ، مدت یا شدت درحقیقت داؤ پر لگی چیزوں کے تناسب میں نہ ہو۔ خطرہ جتنا زیادہ ناقابلِ واپسی، نظامی یا انحصار پیدا کرنے والا ہو، اتنی ہی مضبوط توجیہ اور جانچ درکار ہے۔ یہی ناکافی حکمرانی کا اصول طاقت پر بھی لاگو ہوتا ہے: مجاز طاقت یا نتیجہ خیز کردار بڑھنے پر جوابدہی اور نگرانی میں اضافہ ہونا چاہیے، کمی نہیں۔*
 
-آئینی **اقدار** پر پابندیاں — بشمول **باب ششم** کے حقوقی کم از کم تحفظات اور [§13 آئینی تصادم کے حل کا عمل](#13-آئینی-تصادم-کے-حل-کا-عمل) کے تحت قابلِ توازن دیگر اصول اور تحفظات — جائز طور پر زیرِ غور **نقصان** یا **نظامی اثر** کی شدت اور امکان کے متناسب ہونی چاہییں، اور **باب پنجم** میں [تناسب](core_05_band_accountability.md#proportionality) کے مطابق ہونی چاہییں۔
+آئینی **اقدار** پر پابندیاں — بشمول **باب ششم** کے حقوقی کم از کم تحفظات اور [§13 آئینی تصادم کے حل کا عمل](#13-آئینی-تصادم-کے-حل-کا-عمل) کے تحت قابلِ توازن دیگر اصول اور تحفظات — جائز طور پر زیرِ غور **نقصان** یا **نظامی اثر** کی شدت اور امکان کے متناسب ہونی چاہییں، اور **باب پنجم** میں [تناسب](../../core_05.035_band_accountability.md#proportionality) کے مطابق ہونی چاہییں۔
 
 **درجہ بندی کی کم از کم حد۔** کسی نظام کی حکمرانی اس کی سب سے بلند قابلِ اطلاق درجہ بندی کے مطلوبہ درجے سے کم نہیں ہو سکتی۔ کوئی نچلا انتظامی لیبل سب سے بلند قابلِ اطلاق خطرے، انحصار، حقوق یا نظامی اثر کی درجہ بندی کے مطابق درکار جانچ کو کم نہیں کر سکتا۔
 
 **اختیار کے تناسب سے جواب دہی۔** تناسب ان لوگوں کی ناکافی حکمرانی کو بھی ممنوع قرار دیتا ہے جن کے پاس زیادہ مجاز طاقت، نتیجہ خیز کردار یا ادارہ جاتی اثر و رسوخ ہو: [جوابدہی](core_05_apex_accountability_leg.md#accountability) اور [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) کی شدت اس اختیار کے ساتھ بڑھنی چاہیے، گھٹنی نہیں۔
 
-**بلند تر معیار۔** جہاں اقدامات سے ناقابلِ واپسی نقصان، نظامی جمود، وجودی خطرے یا ماحولیاتی بحالی کی صلاحیت کے ناقابلِ واپسی نقصان کا خطرہ پیدا ہو، وہاں نظاموں کو [بلند تر جانچ](core_05_band_oversight.md#heightened-scrutiny) اور جہاں ممکن ہو، توجیہ اور قابلِ واپسی ہونے کے بلند تر معیار لاگو کرنے چاہییں۔
+**بلند تر معیار۔** جہاں اقدامات سے ناقابلِ واپسی نقصان، نظامی جمود، وجودی خطرے یا ماحولیاتی بحالی کی صلاحیت کے ناقابلِ واپسی نقصان کا خطرہ پیدا ہو، وہاں نظاموں کو [بلند تر جانچ](../../core_05.050_band_oversight.md#heightened-scrutiny) اور جہاں ممکن ہو، توجیہ اور قابلِ واپسی ہونے کے بلند تر معیار لاگو کرنے چاہییں۔
 
 **مزید اضافہ۔** جہاں مادی طور پر متعلقہ اشاریے لاگو ہوں، وہاں ان معیاروں کو مزید بلند کیا جانا چاہیے، جن میں شامل ہیں:
 - ناقابلِ واپسی ہونے کا سامنا
@@ -366,13 +366,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [سلامتی (آئینی پابندی)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [وقار اور مساوی اخلاقی حیثیت](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [ظلم](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [نقصان](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [ناقابلِ تلافی نقصان](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [ناگزیریت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [سلامتی (آئینی پابندی)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [وقار اور مساوی اخلاقی حیثیت](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [ظلم](../../core_05.035_band_accountability.md#cruelty) · [O](../../core_05.035_band_accountability.md#cruelty) · [M](../../core_05.035_band_accountability.md#cruelty-a) · [A](../../core_05.035_band_accountability.md#cruelty-a) · [C](../../core_05.035_band_accountability.md#cruelty-c)
+- [نقصان](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [ناقابلِ تلافی نقصان](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [ناگزیریت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -388,7 +388,7 @@ flowchart TB
 
 ###### وقار کے اصول
 
-**وقار کے اصول** مندرجہ ذیل دو اصول ہیں: [حقوقی بنیاد کی کم از کم ضمانتوں کا اصول](#حقوقی-بنیاد-کی-کم-از-کم-ضمانتوں-کا-اصول) اور [توہین آمیز عمل کی ممانعت کا اصول](#توہین-آمیز-عمل-کی-ممانعت-کا-اصول)۔ یہ دونوں مل کر [وقار اور مساوی اخلاقی حیثیت](core_05_band_participation.md#dignity-and-equal-moral-standing) کو مطلق کم از کم حدود کی صورت میں قابلِ عمل بناتے ہیں: وہ چیزیں جو کسی بھی ذی شعور ہستی سے مستقل طور پر نہیں چھینی جا سکتیں، اور وہ طریقہ جس سے کسی ذی شعور ہستی کے ساتھ کسی بھی عمل میں برتاؤ کرنا لازم ہے۔ کم از کم ضروریاتِ زندگی تک رسائی اور اعتراض، جائزے اور اپیل کے بنیادی حقوق وقار کے اصولوں میں شامل ہیں، کیونکہ یہ کسی کو ایسی ہستی سمجھ کر برتاؤ کرنے کی کم از کم شرائط ہیں جس کی حیثیت اہم ہو۔ مساوی حیثیت بذاتِ خود، اور وہ بنیادیں جن پر اسے رد نہیں کیا جا سکتا، [آرٹیکل VI-A](core_06_rights_part_b.md#آرٹیکل-vi-a-وقار-اور-مساوی-اخلاقی-مرتبہ) (*وقار اور مساوی اخلاقی حیثیت*) میں بیان ہیں۔
+**وقار کے اصول** مندرجہ ذیل دو اصول ہیں: [حقوقی بنیاد کی کم از کم ضمانتوں کا اصول](#حقوقی-بنیاد-کی-کم-از-کم-ضمانتوں-کا-اصول) اور [توہین آمیز عمل کی ممانعت کا اصول](#توہین-آمیز-عمل-کی-ممانعت-کا-اصول)۔ یہ دونوں مل کر [وقار اور مساوی اخلاقی حیثیت](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) کو مطلق کم از کم حدود کی صورت میں قابلِ عمل بناتے ہیں: وہ چیزیں جو کسی بھی ذی شعور ہستی سے مستقل طور پر نہیں چھینی جا سکتیں، اور وہ طریقہ جس سے کسی ذی شعور ہستی کے ساتھ کسی بھی عمل میں برتاؤ کرنا لازم ہے۔ کم از کم ضروریاتِ زندگی تک رسائی اور اعتراض، جائزے اور اپیل کے بنیادی حقوق وقار کے اصولوں میں شامل ہیں، کیونکہ یہ کسی کو ایسی ہستی سمجھ کر برتاؤ کرنے کی کم از کم شرائط ہیں جس کی حیثیت اہم ہو۔ مساوی حیثیت بذاتِ خود، اور وہ بنیادیں جن پر اسے رد نہیں کیا جا سکتا، [آرٹیکل VI-A](core_06_rights_part_b.md#آرٹیکل-vi-a-وقار-اور-مساوی-اخلاقی-مرتبہ) (*وقار اور مساوی اخلاقی حیثیت*) میں بیان ہیں۔
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -397,7 +397,7 @@ flowchart TB
 یہ اصول حقوقی بنیاد کا تحفظ یوں کرتا ہے:
 
 - کوئی آئینی عمل، اقدام، انتقال، ترمیم، حیثیت سے متعلق نتیجہ، ہنگامی اقدام یا انصاف سے متعلق نتیجہ [آرٹیکل VI-A](core_06_rights_part_b.md#آرٹیکل-vi-a-وقار-اور-مساوی-اخلاقی-مرتبہ) (*وقار اور مساوی اخلاقی حیثیت*) اور [توہین آمیز عمل کی ممانعت کے اصول](#توہین-آمیز-عمل-کی-ممانعت-کا-اصول) کے تحت وقار کے بنیادی تحفظات، ضروریاتِ زندگی تک کم از کم رسائی، یا اعتراض، جائزے اور اپیل کے بنیادی حقوق کی **کم از کم ضمانتوں** کو مستقل طور پر ختم یا ساقط نہیں کر سکتا۔
-- مخصوص حقوق پر عارضی پابندی صرف اسی وقت جائز ہے جب وہ [کم سے کم پابندی، مقررہ مدت اور قابلِ جائزہ پابندی کے اصول](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) اور [باب بارہ §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden) کے ہنگامی قواعد (*ہنگامی اقدامات اور انہیں جاری رکھنے کا بوجھ*) پر پوری اترے — یعنی ہر پابندی کا جواز ہو، وہ کم سے کم، دستاویزی، محدود المیعاد اور آزادانہ جائزے کے تابع ہو۔ مخصوص دفعات زیادہ مضبوط تحفظات شامل کر سکتی ہیں، مگر وہ اس اصول کو محدود نہیں کر سکتیں یا سہولت، کارکردگی، درجہ بندی، ہنگامی حالت، انتقال، حیثیت، ترمیم، معاہدے یا نفاذ کے ناموں کو اس سے بچنے کے لیے استعمال نہیں کر سکتیں۔
+- مخصوص حقوق پر عارضی پابندی صرف اسی وقت جائز ہے جب وہ [کم سے کم پابندی، مقررہ مدت اور قابلِ جائزہ پابندی کے اصول](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) اور [باب بارہ §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) کے ہنگامی قواعد (*ہنگامی اقدامات اور انہیں جاری رکھنے کا بوجھ*) پر پوری اترے — یعنی ہر پابندی کا جواز ہو، وہ کم سے کم، دستاویزی، محدود المیعاد اور آزادانہ جائزے کے تابع ہو۔ مخصوص دفعات زیادہ مضبوط تحفظات شامل کر سکتی ہیں، مگر وہ اس اصول کو محدود نہیں کر سکتیں یا سہولت، کارکردگی، درجہ بندی، ہنگامی حالت، انتقال، حیثیت، ترمیم، معاہدے یا نفاذ کے ناموں کو اس سے بچنے کے لیے استعمال نہیں کر سکتیں۔
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -406,7 +406,9 @@ flowchart TB
 حصہ A میں بیان کردہ [توہین آمیز عمل کی ممانعت کا اصول (§3.3)](core_01_a_values_principles.md#33-تذلیل-سے-پاک-طریقۂ-کار) اس مفادات کے توازن میں ایک مطلق کم از کم حد کے طور پر لاگو ہوتا ہے۔
 - ضرورت، نقصان میں کمی اور تناسب کی جانچ پر پورا اترنے والی کسی پابندی، تدارک یا عمل کو اس طرح وضع، بیان، انجام یا جاری رہنے کی اجازت نہیں دی جا سکتی کہ وہ تذلیل، تحقیر، تماشہ، انتقام، امتیازی بوجھ یا سہولت کی خاطر حقوق کی تنزلی بن جائے۔
 - درست substantive نتیجہ بھی اگر توہین آمیز عمل کے ذریعے حاصل ہو تو وہ تعمیل کے مطابق نہیں رہتا۔
-- جہاں ممنوعہ وصف یہ ہو کہ تکلیف بذاتِ خود مقصد ہو یا بلاجواز یا تذلیل آمیز طور پر پہنچائی جائے — بشمول محض تحقیر کے لیے — وہاں [ظلم](core_05_band_accountability.md#cruelty) سے رجوع کریں۔
+- جہاں ممنوعہ وصف یہ ہو کہ تکلیف بذاتِ خود مقصد ہو یا بلاجواز یا تذلیل آمیز طور پر پہنچائی جائے — بشمول محض تحقیر کے لیے — وہاں [ظلم](../../core_05.035_band_accountability.md#cruelty) سے رجوع کریں۔
+
+<a id="1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
 
 ##### 13.1.5 کم سے کم پابندی، مقررہ مدت اور قابلِ جائزہ پابندی کا اصول
 
@@ -414,14 +416,14 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
 - اس کے ساتھ پڑھیں: [آئینی چہارگانہ](core_00_preamble.md#constitutional-tetrad) — چاروں پہلو: **نگرانی** کا پہلو (پابندیاں آزادانہ جائزے کے قابل رہیں؛ شواہد محفوظ ہوں اور آئینی تصادم زیرِ التوا رہنے تک آزاد جائزہ کاروں کو رسائی حاصل رہے)؛ **جوابدہی** کا پہلو (ایک دستاویزی اور قابلِ آڈٹ آئینی تصادم کا ریکارڈ قاعدے، متبادل راستوں، شواہد اور انتخاب کی بنیاد کی نشاندہی کرے)؛ **شرکت** کا پہلو (متاثرہ فریق فیصلے کو سمجھ سکیں، چیلنج کر سکیں اور اس کی تشکیلِ نو کر سکیں، اور انہیں بتایا جائے کہ کیا منجمد کیا گیا ہے)؛ **بروقت کارروائی** کا پہلو (پابندیاں عارضی ہوں، الا یہ کہ حقوقی بنیاد کا کوئی زیادہ مضبوط قاعدہ کچھ اور کہے؛ ان کی مدت یا جائزے کی ترتیب اور بحالی کا راستہ مقرر ہو؛ اور زیرِ التوا آئینی تصادم پر متعلقہ مدت لاگو ہو)؛ [مادی مفاد](core_00_preamble.md#material-stake) کے مطابق پیمانہ (ثبوت کا بوجھ شدت، ناقابلِ واپسی ہونے، انحصار کے ارتکاز اور غیر یقینی کے ساتھ بڑھتا ہے)۔
-- بعد کے حوالے: [آرٹیکل XXV-B: حقوق کے تصادم کا طریقۂ کار اور بحالی پر مبنی ہم آہنگی](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (فورم اس فیصلہ جاتی جانچ کا اطلاق کرتے ہیں)؛ [آرٹیکل XXV-C: بروقت حل اور تاخیر کے خلاف کم از کم حد](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)؛ [باب بارہ §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*بروقت حل، مادی اہمیت کے درجے، اور تاخیر کے خلاف نظم*).
+- بعد کے حوالے: [آرٹیکل XXV-B: حقوق کے تصادم کا طریقۂ کار اور بحالی پر مبنی ہم آہنگی](core_06_rights_part_e.md) (فورم اس فیصلہ جاتی جانچ کا اطلاق کرتے ہیں)؛ [آرٹیکل XXV-C: بروقت حل اور تاخیر کے خلاف کم از کم حد](core_06_rights_part_e.md)؛ [باب بارہ §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*بروقت حل، مادی اہمیت کے درجے، اور تاخیر کے خلاف نظم*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [آئینی تصادم کا ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) · [O](core_05_band_integrative.md#constitutional-collision-record) · [M](core_05_band_integrative.md#constitutional-collision-record-a) · [A](core_05_band_integrative.md#constitutional-collision-record-a) · [C](core_05_band_integrative.md#constitutional-collision-record-c)
+- [آئینی تصادم کا ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) · [O](../../core_05.045_band_integrative.md#constitutional-collision-record) · [M](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-record-c)
 
 </details>
 
@@ -438,26 +440,26 @@ flowchart TB
 - **صریح اجازت کے سوا عارضی:** پابندی عارضی ہونی چاہیے، الا یہ کہ حقوقی بنیاد کا کوئی زیادہ مضبوط قاعدہ دیرپا پابندی کی صریح اجازت دے۔
 - **بحالی کا راستہ:** جہاں ممکن ہو، پابندی میں مقررہ مدت یا جائزے کی ترتیب، نیز شواہد، بدلے ہوئے حالات یا متوقع نتائج سے مشاہدہ شدہ انحراف سے منسلک بحالی، واپسی یا ازسرِنو جائزے کی شرائط شامل ہوں۔
 <a id="1315-rights-collision-decision-test"></a>
-**آئینی تصادم کا ریکارڈ اور فیصلے کی بازتعمیر پذیری۔** جب مفاضلتی ڈھانچا (§13.1.1 (*ضرورت*) سے §13.1.5 (*کم سے کم پابندی عائد کرنے، مدت سے محدود اور قابلِ نظرثانی پابندی کا اصول*)) کسی مادی پابندی یا آئینی تصادم پر لاگو ہو، تو حل کے نتیجے میں [آئینی تصادم کا ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) (مختصراً **تصادم کا ریکارڈ**) دستاویزی اور قابلِ آڈٹ صورت میں تیار ہونا چاہیے، اور اس میں اتنی وضاحت ہونی چاہیے کہ متاثرہ فریق اور جائزہ کار فیصلے کو سمجھ سکیں، اس پر اعتراض کر سکیں، اور اسے آزادانہ طور پر دوبارہ تشکیل دے سکیں۔ کم از کم ریکارڈ میں یہ شامل ہونا چاہیے:
+**آئینی تصادم کا ریکارڈ اور فیصلے کی بازتعمیر پذیری۔** جب مفاضلتی ڈھانچا (§13.1.1 (*ضرورت*) سے §13.1.5 (*کم سے کم پابندی عائد کرنے، مدت سے محدود اور قابلِ نظرثانی پابندی کا اصول*)) کسی مادی پابندی یا آئینی تصادم پر لاگو ہو، تو حل کے نتیجے میں [آئینی تصادم کا ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) (مختصراً **تصادم کا ریکارڈ**) دستاویزی اور قابلِ آڈٹ صورت میں تیار ہونا چاہیے، اور اس میں اتنی وضاحت ہونی چاہیے کہ متاثرہ فریق اور جائزہ کار فیصلے کو سمجھ سکیں، اس پر اعتراض کر سکیں، اور اسے آزادانہ طور پر دوبارہ تشکیل دے سکیں۔ کم از کم ریکارڈ میں یہ شامل ہونا چاہیے:
 - **نافذ العمل قاعدہ اور محرک حقائق:** آئینی شق جس پر انحصار کیا گیا اور وہ مادی حقائق جنہوں نے اسے متحرک کیا۔
 - **زیرِ غور متبادل:** مادی طور پر قابلِ عمل متبادل، بشمول کوئی کارروائی نہ کرنا، اور انہیں مسترد کرنے کی واضح وجوہ — [§13.1.1 ضرورت](#1311-ضرورت) میں متبادل کے تجزیے کی شرط پوری کرتے ہوئے۔
 - **شواہد اور غیر یقینی صورتِ حال کا برتاؤ:** منتخب اختیار کی ضرورت، نقصان کے خاکے اور تناسب کی تائید کرنے والے شواہد، نیز یہ کہ غیر یقینی صورتِ حال سے کیسے نمٹا گیا۔
 - **انتخاب کی بنیاد:** منتخب اختیار ضرورت، نقصان میں کمی، تناسب، آئینی کم از کم حدود، اور کم سے کم پابندی والی صورت پر کیوں پورا اترتا ہے — محض یہ کہنا کافی نہیں کہ وہ پورا اترتا ہے۔
 - **نظرثانی کے محرکات:** [§13.1.5 کم سے کم پابندی عائد کرنے، مدت سے محدود اور قابلِ نظرثانی پابندی کا اصول](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) کے تحت اختتام کی تاریخ، دوبارہ جائزے کا وقفہ، یا منسوخی کی شرائط۔
 
-تصادم کا ریکارڈ اس فعل کے [فعل کے ریکارڈ](core_05_band_accountability.md#materially-binding-act-record) میں شامل ہوگا جو آئینی تصادم کو حل کرتا ہے؛ جب تک یہ عناصر شناخت کے قابل، مربوط، نسخہ بند، محفوظ اور قابلِ رسائی رہیں، الگ سے مکرر ریکارڈ درکار نہیں۔
+تصادم کا ریکارڈ اس فعل کے [فعل کے ریکارڈ](../../core_05.035_band_accountability.md#materially-binding-act-record) میں شامل ہوگا جو آئینی تصادم کو حل کرتا ہے؛ جب تک یہ عناصر شناخت کے قابل، مربوط، نسخہ بند، محفوظ اور قابلِ رسائی رہیں، الگ سے مکرر ریکارڈ درکار نہیں۔
 
 ثبوت کا بوجھ متوقع نقصان کی شدت، ناقابلِ واپسی ہونے، انحصار کے ارتکاز، اور غیر یقینی صورتِ حال کے ساتھ بڑھتا ہے۔ زیادہ خطرے والی پابندیوں کے لیے مضبوط تر شواہد اور آزادانہ جانچ درکار ہے۔ جہاں یہ ضابطہ لاگو ہو، وہاں محض سہولت، ادارہ جاتی جمود، یا بہتری کی ترجیح حقوق محدود کرنے کا کافی جواز نہیں۔
 
 تصادم کے ریکارڈ پر رازداری کی پابندیاں [§13.2 علمی افشا کی حدود](#132-علمی-انکشاف-کی-پابندیاں) پر پوری اترنی چاہئیں۔ جہاں مکمل عوامی افشا ممکن نہ ہو، وہاں زیادہ سے زیادہ ممکنہ جزوی افشا اور آزاد جائزہ کار کی رسائی برقرار رکھی جائے۔
 
 <a id="default-interim-posture"></a>
-**آئینی تصادم کے زیرِ التوا ہونے کے دوران طے شدہ عبوری طرزِ عمل۔** جب تک [آئینی تصادم کا ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) کا عمل اور [آرٹیکل XXIV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*آئینی تشریح، نظرثانی، اور قبضے کی روک تھام کے حفاظتی اقدامات*) آئینی تصادم کو حل نہیں کر لیتے، زیرِ التوا طرزِ عمل مقرر رہے گا تاکہ کوئی نگران من مانے طور پر فاتح نہ بنا سکے:
+**آئینی تصادم کے زیرِ التوا ہونے کے دوران طے شدہ عبوری طرزِ عمل۔** جب تک [آئینی تصادم کا ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) کا عمل اور [آرٹیکل XXIV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*آئینی تشریح، نظرثانی، اور قبضے کی روک تھام کے حفاظتی اقدامات*) آئینی تصادم کو حل نہیں کر لیتے، زیرِ التوا طرزِ عمل مقرر رہے گا تاکہ کوئی نگران من مانے طور پر فاتح نہ بنا سکے:
 
 - **شواہد محفوظ رکھیں:** حذف کرنے، افشا کرنے، یا ناقابلِ واپسی اشاعت کے ذریعے آئینی تصادم کو غیر مؤثر نہ بنائیں۔
 - **ناقابلِ واپسی اقدامات منجمد کریں** اگر ان سے متصادم قرأتوں میں سے کوئی ایک دستیاب نہ رہے — ایسا قدم نہ اٹھائیں جسے واپس نہ لیا جا سکے، اگر اس سے آئینی تصادم بند ہو، ایک فریق غیر مؤثر ہو، یا تشریح کے فیصلے سے پہلے کوئی فاتح بنا دیا جائے۔
 - **قابلِ واپسی اور رضامندی سے منظور شدہ اقدامات جاری رکھیں** جو دونوں قرأتوں کو دستیاب رکھتے ہوں — اس میں رضامندی کی صورت میں [سلامتی کی پابندیوں کے تحت قابلِ مشاہدہ ہونا](core_04_burden_traceability_verification.md#4-سیکیورٹی-محدود-مشاہدہ-پذیری-اور-تصدیق-کا-قاعدہ) کے تحت آزاد جائزہ کار کی رسائی بھی شامل ہے۔
-- **اطلاع دیں:** متاثرہ فریقوں اور تشریحی راستے کو بتائیں کہ کیا منجمد ہے، کیا جاری ہے، اور کون سی مدت لاگو ہوتی ہے (کسی فورم کو بھیجے گئے تنازعے کے لیے، [باب بارہ §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*بروقت حل، اہمیت کے درجے، اور تاخیر مخالف ضابطہ*) میں درج ہر درجے کی مدت اور حتمی حدود لاگو ہوں گی)۔
+- **اطلاع دیں:** متاثرہ فریقوں اور تشریحی راستے کو بتائیں کہ کیا منجمد ہے، کیا جاری ہے، اور کون سی مدت لاگو ہوتی ہے (کسی فورم کو بھیجے گئے تنازعے کے لیے، [باب بارہ §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*بروقت حل، اہمیت کے درجے، اور تاخیر مخالف ضابطہ*) میں درج ہر درجے کی مدت اور حتمی حدود لاگو ہوں گی)۔
 
 یہ زیرِ التوا طرزِ عمل اس بارے میں فیصلہ نہیں ہے کہ کون سا فریق درست ہے۔ جو کچھ واپس نہیں لیا جا سکتا اسے منجمد رکھیں تاکہ کوئی قرأت خارج نہ ہو؛ [§13 آئینی تصادم کے حل کا عمل](#13-آئینی-تصادم-کے-حل-کا-عمل) کو اب بھی آئینی تصادم کا جواب دینا ہوگا۔ وجہ [§13.1.5 کم سے کم پابندی عائد کرنے، مدت سے محدود اور قابلِ نظرثانی پابندی کا اصول](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) ہے: رضامندی سے منظور شدہ قابلِ واپسی قدم دونوں قرأتوں کو دستیاب رکھتا ہے؛ ناقابلِ واپسی قدم ایسا نہیں کرتا۔
 
@@ -479,12 +481,12 @@ flowchart TB
 
 - [علمی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [صداقت (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [اعتماد](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [رازداری (معلوماتی)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [مادیت](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [پیش بینی پذیری](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [اعتماد](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [رازداری (معلوماتی)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [مادیت](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [پیش بینی پذیری](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -505,14 +507,14 @@ flowchart TB
   - ادارہ جاتی فائدہ۔
 - **مؤخر انکشاف** اور **محدود انکشاف** — صرف تب جائز ہیں جب:
   - [§13.2.1 علمی دیانت کا تحفظ](#1321-علمی-دیانت-کا-تحفظ) کی شرائط پوری ہوں؛
-  - [ضرورت](core_05_band_accountability.md#necessity) اور [تناسب](core_05_band_accountability.md#proportionality) پورے ہوں؛ اور
+  - [ضرورت](../../core_05.035_band_accountability.md#necessity) اور [تناسب](../../core_05.035_band_accountability.md#proportionality) پورے ہوں؛ اور
   - [علمی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت) زیادہ سے زیادہ قابلِ عمل حد تک برقرار رہے۔
 - [§13.2.3 رازداری اور معلوماتی خود اختیاری](#1323-رازداری-اور-معلوماتی-خود-اختیاری) کے تحت **رازداری کے تحفظ کے لیے انکشاف کی حد بندی**:
   - صرف [کم سے کم پابندی، محدود مدت اور قابلِ جائزہ پابندی کے اصول](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) کے تحت جائز ہے؛
-  - جب رازداری شفافیت، آڈٹ، سلامتی یا جوابدہی سے متصادم ہو تو آئینی تصادم کو [آئینی تصادم کے ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) کے تقاضوں کے مطابق حل کیا جائے؛
+  - جب رازداری شفافیت، آڈٹ، سلامتی یا جوابدہی سے متصادم ہو تو آئینی تصادم کو [آئینی تصادم کے ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) کے تقاضوں کے مطابق حل کیا جائے؛
   - رازداری خودکار طور پر ماتحت نہیں ہوتی۔
 
-ہر جائز پابندی کو [آئینی چہارگانہ](core_00_preamble.md#constitutional-tetrad) کے **نگرانی** کے پہلو کو محفوظ ریکارڈ (جس میں خود اس پابندی کا [آئینی تصادم کا ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) بھی شامل ہو)، آزادانہ جائزے، محفوظ رسائی، حذف شدہ حصوں، مؤخر اجراء یا اسی نوعیت کی ضمانتوں کے ذریعے برقرار رکھنا ہوگا۔ اسے باخبر [اعتراض کے امکان](core_05_band_accountability.md#contestability) یا **باب ششم** کے قابلِ اطلاق شفافیت، آڈٹ یا جائزے کے فرائض کو **ناکام** نہیں کرنا چاہیے، سوائے اس حد تک جس کی [§13.2.1 علمی دیانت کا تحفظ](#1321-علمی-دیانت-کا-تحفظ) صراحتاً اجازت دے۔
+ہر جائز پابندی کو [آئینی چہارگانہ](core_00_preamble.md#constitutional-tetrad) کے **نگرانی** کے پہلو کو محفوظ ریکارڈ (جس میں خود اس پابندی کا [آئینی تصادم کا ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) بھی شامل ہو)، آزادانہ جائزے، محفوظ رسائی، حذف شدہ حصوں، مؤخر اجراء یا اسی نوعیت کی ضمانتوں کے ذریعے برقرار رکھنا ہوگا۔ اسے باخبر [اعتراض کے امکان](../../core_05.035_band_accountability.md#contestability) یا **باب ششم** کے قابلِ اطلاق شفافیت، آڈٹ یا جائزے کے فرائض کو **ناکام** نہیں کرنا چاہیے، سوائے اس حد تک جس کی [§13.2.1 علمی دیانت کا تحفظ](#1321-علمی-دیانت-کا-تحفظ) صراحتاً اجازت دے۔
 
 اشاعت، ڈیٹا تک رسائی، طریقۂ کار کے انکشاف یا نقل و تکرار کے مواد پر سلامتی سے متعلق حساس پابندیاں یہاں اور [باب اول §5.1 سائنس سے باخبر تحقیق اور فیصلہ سازی میں معاونت](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support) کے تحت آتی ہیں۔ ایسی پابندیوں کو ناموافق شواہد دبانے، سلامتی کے نقائص چھپانے یا ظاہری اتفاقِ رائے گھڑنے کا ذریعہ **نہیں** بننا چاہیے۔
 
@@ -534,10 +536,10 @@ flowchart TB
 
 - [علمی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [صداقت (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [مادیت](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [پیش بینی پذیری](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [مادیت](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [پیش بینی پذیری](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -568,7 +570,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [اعتماد](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [اعتماد](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
 - [صداقت (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [علمی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
@@ -586,27 +588,27 @@ flowchart TB
 
 - ساتھ پڑھیں: [آئینی چارگانہ](core_00_preamble.md#constitutional-tetrad) — **شرکت** کا پہلو (رازداری آزاد اظہار اور انجمن سازی کی بنیاد ہے)؛ **نگرانی** کا پہلو (رازداری میں مداخلتوں کا خود بھی آڈٹ ممکن ہونا چاہیے)؛ **جوابدہی** کا پہلو (جہاں رازداری، شفافیت، آڈٹ، سلامتی یا جوابدہی سے متصادم ہو، وہاں آئینی تصادم کا فیصلہ ایک دستاویزی آئینی تصادم ریکارڈ کے مطابق کیا جائے، رازداری کو ماتحت سمجھ کر نہیں)؛ [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ بندی۔
 - بالائی تعلق: اصول: [7. آزادی (محدود خود اختیاری)](core_01_a_values_principles.md#7-freedom-bounded-agency)، [4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 صداقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [§13.2 معرفتی انکشاف کی پابندیاں](#132-علمی-انکشاف-کی-پابندیاں)۔
-- زیریں تعلق: [**Def.C3** رازداری (معلوماتی) — ہم مرتبہ سطح کے گروہ کا عنوان](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)، جس میں [رازداری (معلوماتی)](core_05_band_continuity.md#privacy-informational)، [محفوظ داخلی حالت کی حد](core_05_band_continuity.md#protected-internal-state-boundary)، اور [نگرانی کی حد](core_05_band_continuity.md#surveillance-boundary) شامل ہیں۔
+- زیریں تعلق: [**Def.C3** رازداری (معلوماتی) — ہم مرتبہ سطح کے گروہ کا عنوان](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)، جس میں [رازداری (معلوماتی)](../../core_05.040_band_continuity.md#privacy-informational)، [محفوظ داخلی حالت کی حد](../../core_05.040_band_continuity.md#protected-internal-state-boundary)، اور [نگرانی کی حد](../../core_05.040_band_continuity.md#surveillance-boundary) شامل ہیں۔
 - زیریں تعلق: [آرٹیکل VII-A](core_06_rights_part_b.md#آرٹیکل-vii-a-جسم-پر-خود-اختیاری) (*جسم پر خود ملکیت*)؛ [آرٹیکل VII-B](core_06_rights_part_b.md#آرٹیکل-vii-b-ذہن-پر-خود-اختیاری) (*ذہن پر خود ملکیت*)؛ [آرٹیکل IX](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*شبیہ، تجرباتی ڈیٹا اور اشاعت کے حقوق*)؛ [آرٹیکل X-A](core_06_rights_part_b.md#آرٹیکل-x-a-اختیار-عمل-اور-ہیرا-پھیری-سے-آزادی) (*خود اختیاری اور جوڑ توڑ سے آزادی*)؛ [آرٹیکل XIV-A](core_06_rights_part_c.md#آرٹیکل-xiv-a-سیکورٹی-انٹیلی-جنس-اور-خفیہ-طاقت-کی-حدود) (*سلامتی، انٹیلی جنس اور خفیہ طاقت کی حدود*)۔
-- ساتھ پڑھیں: [§13.1.5 کم سے کم پابندی، وقت کی حد اور قابلِ نظرثانی پابندی کا اصول](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)؛ [آئینی تصادم ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) جہاں رازداری، شفافیت، آڈٹ، سلامتی یا دوسرے آئینی مفادات سے متصادم ہو۔
+- ساتھ پڑھیں: [§13.1.5 کم سے کم پابندی، وقت کی حد اور قابلِ نظرثانی پابندی کا اصول](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)؛ [آئینی تصادم ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) جہاں رازداری، شفافیت، آڈٹ، سلامتی یا دوسرے آئینی مفادات سے متصادم ہو۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [رازداری (معلوماتی)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [محفوظ داخلی حالت کی حد](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [نگرانی کی حد](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
-- [رضامندی](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [ناگزیریت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [رازداری (معلوماتی)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [محفوظ داخلی حالت کی حد](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [نگرانی کی حد](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [رضامندی](../../core_05.055_band_participation.md#consent) · [O](../../core_05.055_band_participation.md#consent) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [ناگزیریت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*سادہ الفاظ میں: رازداری آئینی وزن رکھنے والا مفاد ہے — محض انکشاف نہ ہونے کا نام نہیں۔ نظام ناگزیریت اور تناسب کے جواز سے زیادہ ذاتی اور باہمی تعلقات سے متعلق معلومات جمع، اخذ، یکجا، محفوظ یا استعمال نہیں کر سکتے۔ جہاں رازداری شفافیت، آڈٹ، سلامتی یا جوابدہی کی ذمہ داریوں سے متصادم ہو، وہاں آئینی تصادم کا فیصلہ [آئینی تصادم ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) کے تقاضوں کے تحت کیا جائے، رازداری کو خودکار طور پر ماتحت سمجھ کر نہیں۔ ایسی نگرانی جو خود اختیاری، انجمن سازی یا اظہار کو سرد کر دے، اسے حقوق کی کسی بھی دوسری پابندی کی طرح ناگزیریت اور کم سے کم پابندی کے تقاضے پورے کرنا ہوں گے۔*
+*سادہ الفاظ میں: رازداری آئینی وزن رکھنے والا مفاد ہے — محض انکشاف نہ ہونے کا نام نہیں۔ نظام ناگزیریت اور تناسب کے جواز سے زیادہ ذاتی اور باہمی تعلقات سے متعلق معلومات جمع، اخذ، یکجا، محفوظ یا استعمال نہیں کر سکتے۔ جہاں رازداری شفافیت، آڈٹ، سلامتی یا جوابدہی کی ذمہ داریوں سے متصادم ہو، وہاں آئینی تصادم کا فیصلہ [آئینی تصادم ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) کے تقاضوں کے تحت کیا جائے، رازداری کو خودکار طور پر ماتحت سمجھ کر نہیں۔ ایسی نگرانی جو خود اختیاری، انجمن سازی یا اظہار کو سرد کر دے، اسے حقوق کی کسی بھی دوسری پابندی کی طرح ناگزیریت اور کم سے کم پابندی کے تقاضے پورے کرنا ہوں گے۔*
 
 **رازداری بطور آئینی مفاد۔** رازداری — جس میں معلوماتی رازداری، مکانی اور باہمی تعلقات کی رازداری، اور بلاجواز نگرانی سے آزادی شامل ہے — آئینی وزن رکھنے والا مفاد ہے جو **آزادی** ([§7 آزادی (محدود خود اختیاری)](core_01_a_values_principles.md#7-freedom-bounded-agency))، **وقار** ([آرٹیکل VI-A](core_06_rights_part_b.md#آرٹیکل-vi-a-وقار-اور-مساوی-اخلاقی-مرتبہ) (*وقار اور مساوی اخلاقی حیثیت*))، اور بامعنی خود اختیاری و جبر سے پاک شرکت کے لیے درکار حالات کی حمایت کرتا ہے۔ اس حصے کے مفادات کے موازنے اور آئینی تصادم کے طریقۂ کار میں اسے آزاد آئینی وزن حاصل ہے۔
 
@@ -618,12 +620,12 @@ flowchart TB
 
 معلومات کی دستیابی، مشاہدہ پذیری، پہلے سے اشاعت، کسی پلیٹ فارم کا قبضہ، یا تکنیکی رسائی رازداری کے مفادات ختم نہیں کرتی اور نہ ہی اوپر دی گئی پابندیوں کی تکمیل کرتی ہے۔
 
-**ڈیٹا کی درجہ بندی سے انضمام۔** ان پابندیوں کی عملی تہہ، ڈیٹا کی اقسام کا وہ نظام ہے جو **[CS-2 — معلومات کی اقسام اور ان کا نظم](corpus_systems/cs_02_a_information_types_and_handling.md)**۔ یہ نظام معلومات کو گیارہ اقسام میں سے ایک یا زیادہ میں رکھتا ہے: ماحولیاتی اور بقا سے متعلق رابطہ کاری (**Type E**)، حکمرانی اور عملیاتی ماخذ (**Type G**)، عوامی نگرانی کے لیے کھلا انکشاف (**Type O**)، تاریخی، تعلقاتی اور شرکت سے متعلق معلومات (**Type H**)، شناخت اور نسبت (**Type I**)، عصبی ادراکی اور اندرونی معلومات (**Type N**)، سلامتی، تحفظ اور محدود تفتیش (**Type S**)، وہ تخلیقات جو کوئی sentient نجی یا مشترکہ حالت میں بنائے (**Type Y**) اور اشاعت کے بعد کی تخلیقات (**Type W**)، نیز تجارتی لائسنس کے تحت (**Type U**) یا منتقل شدہ تخلیقات (**Type T**). ہر قسم کے لیے الگ طے شدہ رسائی اور برتاؤ کی پابندیاں ہیں۔ رازداری سے متعلق زیادہ تر برتاؤ **Types H, I, N, S, and Y** میں آتا ہے؛ ہر رازداری زمرے کی متعلقہ قسم [معلوماتی رازداری](core_05_band_continuity.md#privacy-informational) میں دی گئی ہے۔ اوپر کے جمع کرنے، برقرار رکھنے اور استعمال کے اصول کسی عمومی بنیاد پر نہیں بلکہ قابلِ اطلاق درجہ بندیوں میں سب سے زیادہ پابند درجہ بندی کی مطلوبہ سطح پر لاگو ہوتے ہیں۔ اگر ڈیٹا کو دوبارہ تشکیل، تبدیل یا جمع کر کے زیادہ حساس درجہ بندی میں رکھا جا سکے تو اسی زیادہ حساس درجہ بندی کا تحفظ لاگو ہوگا۔ غلط درجہ بندی، بچ نکلنے والی ساخت بندی یا ڈیٹا اقسام کے تحفظ کو عملی طور پر چکمہ دینا اس اصول کی خلاف ورزی ہے۔
+**ڈیٹا کی درجہ بندی سے انضمام۔** ان پابندیوں کی عملی تہہ، ڈیٹا کی اقسام کا وہ نظام ہے جو **[CS-2 — معلومات کی اقسام اور ان کا نظم](../../corpus_systems/cs_06.305_information_types_and_handling.md)**۔ یہ نظام معلومات کو گیارہ اقسام میں سے ایک یا زیادہ میں رکھتا ہے: ماحولیاتی اور بقا سے متعلق رابطہ کاری (**Type E**)، حکمرانی اور عملیاتی ماخذ (**Type G**)، عوامی نگرانی کے لیے کھلا انکشاف (**Type O**)، تاریخی، تعلقاتی اور شرکت سے متعلق معلومات (**Type H**)، شناخت اور نسبت (**Type I**)، عصبی ادراکی اور اندرونی معلومات (**Type N**)، سلامتی، تحفظ اور محدود تفتیش (**Type S**)، وہ تخلیقات جو کوئی sentient نجی یا مشترکہ حالت میں بنائے (**Type Y**) اور اشاعت کے بعد کی تخلیقات (**Type W**)، نیز تجارتی لائسنس کے تحت (**Type U**) یا منتقل شدہ تخلیقات (**Type T**). ہر قسم کے لیے الگ طے شدہ رسائی اور برتاؤ کی پابندیاں ہیں۔ رازداری سے متعلق زیادہ تر برتاؤ **Types H, I, N, S, and Y** میں آتا ہے؛ ہر رازداری زمرے کی متعلقہ قسم [معلوماتی رازداری](../../core_05.040_band_continuity.md#privacy-informational) میں دی گئی ہے۔ اوپر کے جمع کرنے، برقرار رکھنے اور استعمال کے اصول کسی عمومی بنیاد پر نہیں بلکہ قابلِ اطلاق درجہ بندیوں میں سب سے زیادہ پابند درجہ بندی کی مطلوبہ سطح پر لاگو ہوتے ہیں۔ اگر ڈیٹا کو دوبارہ تشکیل، تبدیل یا جمع کر کے زیادہ حساس درجہ بندی میں رکھا جا سکے تو اسی زیادہ حساس درجہ بندی کا تحفظ لاگو ہوگا۔ غلط درجہ بندی، بچ نکلنے والی ساخت بندی یا ڈیٹا اقسام کے تحفظ کو عملی طور پر چکمہ دینا اس اصول کی خلاف ورزی ہے۔
 
 **نگرانی اور مانیٹرنگ۔** ایسے مانیٹرنگ، مشاہدے، لاگنگ اور استنباط کے نظام جو ذی شعور ہستیوں کی خود اختیاری، انجمن سازی یا اظہار کو مادی طور پر متاثر کرتے ہوں، انہیں [**کم سے کم پابندی، وقت کی حد اور قابلِ نظرثانی پابندی کا اصول**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) پورا کرنا ہوگا۔ جب کوئی نسبتاً نرم طریقہ کارگر ہو، تو مانیٹرنگ غیر امتیازی، خفیہ، غیر معینہ مدت کی، یا کسی ایسے نظام کے استعمال کی شرط نہیں ہونی چاہیے جس پر ذی شعور ہستیاں انحصار کرتی ہیں۔ اگر اس کے باعث ذی شعور ہستیاں بولنے، جمع ہونے یا اس آئین کے محفوظ کردہ دیگر آزادیاں استعمال کرنے سے گریز کریں تو یہ ممنوع ہے۔
 
 **دیگر مفادات سے آئینی تصادم میں رازداری۔** جہاں رازداری **سلامتی**، **صداقت**، شفافیت اور آڈٹ کے فرائض، جوابدہی کی ذمہ داریوں، یا برابر یا زیادہ وزن رکھنے والے کسی دوسرے آئینی مفاد سے مادی طور پر متصادم ہو، وہاں اس پر حد لگائی جا سکتی ہے۔
-- ایسی حدود کے لیے [آئینی تصادم ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) کے تقاضے پورے کرنا لازم ہے، جن میں شامل ہیں:
+- ایسی حدود کے لیے [آئینی تصادم ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) کے تقاضے پورے کرنا لازم ہے، جن میں شامل ہیں:
   - دستاویزی متبادل؛
   - کم سے کم پابندی والے اختیار کا انتخاب؛
   - وقت کے لحاظ سے محدود دائرۂ کار؛ اور
@@ -650,7 +652,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
 - [پراکسی انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) · [O](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
-- [مادیت](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [مادیت](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -671,7 +673,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالادست: [§13.1 بنیادی توازن کے اصول](#131-بنیادی-توازن-کے-اصول) (توازن کی ترتیب پوری ہونے کے بعد لاگو ہوتا ہے)؛ [§17 نتائج پر مبنی نگہداشت](core_01_c_stewardship_capacity_principles.md#17-اہم-نتائج-کی-ذمہ-دارانہ-سرپرستی-سرپرست-کا-کردار)؛ [§9.2 آئینی کارکردگی](core_01_a_values_principles.md#92-آئینی-کارکردگی)۔
-- ساتھ پڑھیں: آئینی کارکردگی کی پیمائش کا خاندان (*آئینی پیمائش کے طور پر قابلِ اجتناب بوجھ*)؛ [آئینی چتوشٹائے](core_00_preamble.md#constitutional-tetrad) — **شرکت** کا رکن (جو بوجھ آئینی طور پر لازم نہ ہو وہ [بامعنی اختیار](core_05_band_participation.md#meaningful-agency) کو محدود کرتا ہے)؛ **بروقتی** کا رکن (قابلِ اجتناب تاخیر، قابلِ اجتناب بوجھ ہے)؛ **نگرانی** اور **جواب دہی** کے ارکان (جس بوجھ کو آئینی طور پر لازم کہا جائے اسے باب چہارم کے شواہد اور سراغ پذیری کے تقاضے پورے کرنے ہوں گے تاکہ اس کی جانچ اور تردید کی جا سکے)؛ [مادی مفاد](core_00_preamble.md#material-stake) کے مطابق پیمانہ بندی۔
+- ساتھ پڑھیں: آئینی کارکردگی کی پیمائش کا خاندان (*آئینی پیمائش کے طور پر قابلِ اجتناب بوجھ*)؛ [آئینی چتوشٹائے](core_00_preamble.md#constitutional-tetrad) — **شرکت** کا رکن (جو بوجھ آئینی طور پر لازم نہ ہو وہ [بامعنی اختیار](../../core_05.055_band_participation.md#meaningful-agency) کو محدود کرتا ہے)؛ **بروقتی** کا رکن (قابلِ اجتناب تاخیر، قابلِ اجتناب بوجھ ہے)؛ **نگرانی** اور **جواب دہی** کے ارکان (جس بوجھ کو آئینی طور پر لازم کہا جائے اسے باب چہارم کے شواہد اور سراغ پذیری کے تقاضے پورے کرنے ہوں گے تاکہ اس کی جانچ اور تردید کی جا سکے)؛ [مادی مفاد](core_00_preamble.md#material-stake) کے مطابق پیمانہ بندی۔
 - زیریں: [§19.1.3 نگہداشت اور آپریٹر کا اطلاق](core_01_c_stewardship_capacity_principles.md#1913-نگہبانی-اور-منتظمین-پر-اطلاق) (ترغیبات کو غیر ضروری بوجھ پیدا کرنے پر انعام نہیں دینا چاہیے)؛ [آرٹیکل XXII: قابلِ فہم ہونا اور پیچیدگی کی نگہداشت](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)۔
 
 </details>
@@ -679,10 +681,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [قابلِ اجتناب بوجھ](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [سلامتی (آئینی قید)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [قابلِ اجتناب بوجھ](../../core_05.040_band_continuity.md#avoidable-burden) · [O](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [A](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [سلامتی (آئینی قید)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [سچائی (آئینی قید)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -701,12 +703,14 @@ flowchart TB
 
 یہ حصہ:
 - **صرف اسی** دستیاب راستوں کے مجموعے کے اندر کام کرتا ہے جو پہلے ہی سلامتی، سچائی، حقوق کی کم از کم حد، اور §13.1 (*بنیادی توازن کے اصول*) کے توازن کے اصول پورے کرتے ہوں۔ یہ ان تحفظات کو کمزور کر کے بوجھ گھٹانے کی اجازت **نہیں** دیتا۔
-- [آئینی تصادم کے ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) کے تقاضوں میں **کم سے کم پابندی والا مؤثر انتخاب** کے ساتھ جڑتا ہے۔ جہاں یہ حصہ لاگو ہو، منتخب کارروائی مؤثر راستوں میں بیک وقت سب سے کم پابندی والی اور سب سے کم بوجھ والی ہونی چاہیے۔
+- [آئینی تصادم کے ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) کے تقاضوں میں **کم سے کم پابندی والا مؤثر انتخاب** کے ساتھ جڑتا ہے۔ جہاں یہ حصہ لاگو ہو، منتخب کارروائی مؤثر راستوں میں بیک وقت سب سے کم پابندی والی اور سب سے کم بوجھ والی ہونی چاہیے۔
 - ایسے حد سے بڑھے طریقۂ کار، حد سے بڑھی پابندی، اور حد سے بڑھے بوجھ کو آئینی نقص سمجھتا ہے جن کا آئینی فائدے سے کوئی قابلِ جانچ تعلق نہ ہو۔ ایسے نقائص **باب نہم** کے تحت جائزے کے قابل ہیں اور تعریفوں سے نتائج تک **باب چہارم** کی سراغ پذیری کے ذریعے درست کیے جا سکتے ہیں۔
 
-یہ دعویٰ کہ کوئی بوجھ آئینی طور پر لازم ہے، اسے **باب چہارم** کے ثبوت اور سراغ پذیری کے تقاضے پورے کرنے ہوں گے۔ سہولت، ادارہ جاتی جمود، روایت یا ترجیح اکیلے ایسے بوجھ کو برقرار رکھنے کے لیے کافی نہیں جس کا کسی آئینی نتیجے سے قابلِ جانچ تعلق نہ ہو؛ یہ [آئینی تصادم کے ریکارڈ](core_05_band_integrative.md#constitutional-collision-record) کے تقاضوں کے مطابق ہے۔
+یہ دعویٰ کہ کوئی بوجھ آئینی طور پر لازم ہے، اسے **باب چہارم** کے ثبوت اور سراغ پذیری کے تقاضے پورے کرنے ہوں گے۔ سہولت، ادارہ جاتی جمود، روایت یا ترجیح اکیلے ایسے بوجھ کو برقرار رکھنے کے لیے کافی نہیں جس کا کسی آئینی نتیجے سے قابلِ جانچ تعلق نہ ہو؛ یہ [آئینی تصادم کے ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record) کے تقاضوں کے مطابق ہے۔
 
 جہاں ترغیبی ڈھانچے نگہبانوں یا آپریٹرز پر اثرانداز ہوں، یہ حصہ [§19.1.3 نگہداشت اور آپریٹر کا اطلاق](core_01_c_stewardship_capacity_principles.md#1913-نگہبانی-اور-منتظمین-پر-اطلاق) کو تقویت دیتا ہے۔ نگہداشت کی ترغیبات کو غیر ضروری بوجھ پیدا کرنے پر اسی طرح انعام نہیں دینا چاہیے جس طرح انہیں محض خام پیداوار پر انعام نہیں دینا چاہیے۔
+<a id="14-prohibition-on-absolute-override"></a>
+
 ### 14. مطلق بالادستی کی ممانعت
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
@@ -723,10 +727,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [مادیت](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [نقصان میں کمی (مفاضلے کا انتخاب)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [مادیت](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [نقصان میں کمی (مفاضلے کا انتخاب)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
 - [متبادل پیمانوں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) · [O](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
@@ -740,6 +744,8 @@ flowchart TB
 - سلامتی کو غیر معینہ یا بے حد پابندی کے جواز کے لیے استعمال نہیں کیا جانا چاہیے
 - اعتماد جھوٹ کے ذریعے برقرار نہیں رکھا جانا چاہیے
 - آزادی اس طرح استعمال نہیں کی جانی چاہیے کہ نظامی نقصان پیدا ہو
+<a id="15-constitutional-interpretation"></a>
+
 ### 15. آئینی تشریح
 <details>
 <summary><strong><span style="color: #2563eb;">تتبع</span></strong></summary>
@@ -748,9 +754,9 @@ flowchart TB
 - زیریں: [§15.1 آئینی اجتنابِ ممانعت کا اصول](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-عدم-تقسیم-کا-اصول))، [§15.2 تعریفی تہہ اور مطلوبہ نظم و ضبط](#152-تعریفی-پرت-اور-لازمی-ضوابط)، [§15.3 ابہام کا حل](#153-ابہام-کا-حل)، [§15.4 آئینی معنی کے تصادم کا حل](#154-آئینی-معنی-کے-تنازع-کا-حل) ([§15.4.1](#1541-مربوط-مطالعہ) · [§15.4.2](#1542-آخری-چارۂ-کار-کے-طور-پر-داخلی-درجہ-بندی) · [§15.4.3](#1543-شمولیت-کی-تہہ) · [§15.4.4](#1544-باہم-لاگو-شامل-کردہ-ذمہ-داریوں-کی-مشترکہ-تکمیل))؛ [3. بنیادی مقصد: بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) سے [20. مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-مربوط-اطلاق) تک؛ آئینی تصادم کے طریقۂ کار کے لیے [13. آئینی تصادم کے حل کا عمل](#13-آئینی-تصادم-کے-حل-کا-عمل)؛ [باب ششم: بنیادی حقوق](core_06_rights_part_a.md#باب-ششم-بنیادی-حقوق) میں حقوق کو محدود نہ کرنے کا بنیادی اصول۔
 - ساتھ پڑھیں: [باب دوم تا چہارم](core_02_definition_structure.md) اور [باب پنجم](core_05__definitions_home.md#باب-پنجم-بنیادی-تعریفیں) — اس باب کی ہر اصطلاح کے لیے تشریحی اور ثبوتی تہہ۔
 - ساتھ پڑھیں: [آئینی چارگانہ](core_00_preamble.md#constitutional-tetrad) اور [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — مربوط اقداری فریم ورک کا تشریحی پس منظر؛ جہاں مادی طور پر متعلق ہو وہاں [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ بندی۔
-- ساتھ پڑھیں: [اختیار کا سلسلہ اور داخلی درجہ بندی](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب) (*ماخذ کی تہہ کی حیثیت*)؛ [باب سترہ](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) (*تحویل، ایڈیشن، اختیار کرنے کی ترتیب — تصادم کے حکم کا دوسرا مقام نہیں*)؛ [باب چودہ](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) اور [باب پندرہ](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*[§15.4 آئینی معنی کے تصادم کا حل](#154-آئینی-معنی-کے-تنازع-کا-حل) کے تحت عدمِ تنزّل اور اختیار کنندہ کی درجہ بندی کی شرائط*)۔
+- ساتھ پڑھیں: [اختیار کا سلسلہ اور داخلی درجہ بندی](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب) (*ماخذ کی تہہ کی حیثیت*)؛ [باب سترہ](../../core_18.000_incorporation.md) (*تحویل، ایڈیشن، اختیار کرنے کی ترتیب — تصادم کے حکم کا دوسرا مقام نہیں*)؛ [باب چودہ](core_13_non_regression.md) اور [باب پندرہ](../../core_16.000_expansion_supremacy.md) (*[§15.4 آئینی معنی کے تصادم کا حل](#154-آئینی-معنی-کے-تنازع-کا-حل) کے تحت عدمِ تنزّل اور اختیار کنندہ کی درجہ بندی کی شرائط*)۔
 - ساتھ پڑھیں: [آرٹیکل XXIV: آئینی تشریح، نظرثانی اور قبضے کے خلاف حفاظتی انتظامات](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) — ادارہ جاتی تشریح کے حفاظتی انتظامات کے لیے (اس دفعہ کا متبادل نہیں)۔
-- ساتھ پڑھیں: [باب ہفتم: فعلی خودمختاری اور فرائض کی علیحدگی](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — نشستوں کے ڈھانچے کی کم از کم حد، جس کا تحفظ [§15.1 آئینی اجتنابِ ممانعت کا اصول](#151-constitutional-no-bypass-principle) کی فہرست کرتی ہے (یہاں دوبارہ بیان نہیں)۔
+- ساتھ پڑھیں: [باب ہفتم: فعلی خودمختاری اور فرائض کی علیحدگی](core_07_functional_independence_segregation_of_duties.md) — نشستوں کے ڈھانچے کی کم از کم حد، جس کا تحفظ [§15.1 آئینی اجتنابِ ممانعت کا اصول](#151-constitutional-no-bypass-principle) کی فہرست کرتی ہے (یہاں دوبارہ بیان نہیں)۔
 
 </details>
 
@@ -759,23 +765,25 @@ flowchart TB
 
 - [مجموعۂ متن](core_05_band_integrative.md#کارپس) · [O](core_05_band_integrative.md#کارپس) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
 - [اختیار کا سلسلہ اور داخلی درجہ بندی](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب) · [O](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 </details>
 
 <br>
 
-*سادہ الفاظ میں: اس آئین کو ایک مکمل وحدت کے طور پر پڑھیں۔ باب اول اقدار اور حدود بیان کرتا ہے، لیکن ان الفاظ کا وزن تبھی ہے جب انہیں باب دوم تا پنجم کے تعریف اور ثبوت کے قواعد کے ساتھ پڑھا جائے۔ اگر کسی عبارت کی ایک سے زیادہ قرأت ممکن ہو تو وہ قرأت اختیار کریں جو ذی شعور ہستیوں اور آئین کی مجموعی وحدت کا بہترین تحفظ کرے — استحکام، ناقابلِ واپسی نقصان میں کمی، سچی تفہیم اور بامعنی خودمختاری کو ترجیح دیتے ہوئے — نہ کہ وہ قرأت جو صرف کاغذ پر سب سے زیادہ پابندی عائد کرتی ہو ([مجرد سخت گیری](core_05_band_integrative.md#abstract-strictness))۔ اس آئین کی واضح اجازت کے بغیر باب ششم کے حقوق محدود نہیں کیے جا سکتے۔*
+*سادہ الفاظ میں: اس آئین کو ایک مکمل وحدت کے طور پر پڑھیں۔ باب اول اقدار اور حدود بیان کرتا ہے، لیکن ان الفاظ کا وزن تبھی ہے جب انہیں باب دوم تا پنجم کے تعریف اور ثبوت کے قواعد کے ساتھ پڑھا جائے۔ اگر کسی عبارت کی ایک سے زیادہ قرأت ممکن ہو تو وہ قرأت اختیار کریں جو ذی شعور ہستیوں اور آئین کی مجموعی وحدت کا بہترین تحفظ کرے — استحکام، ناقابلِ واپسی نقصان میں کمی، سچی تفہیم اور بامعنی خودمختاری کو ترجیح دیتے ہوئے — نہ کہ وہ قرأت جو صرف کاغذ پر سب سے زیادہ پابندی عائد کرتی ہو ([مجرد سخت گیری](../../core_05.045_band_integrative.md#abstract-strictness))۔ اس آئین کی واضح اجازت کے بغیر باب ششم کے حقوق محدود نہیں کیے جا سکتے۔*
 
 اس باب کا ہر اصول [آئینی چارگانہ](core_00_preamble.md#constitutional-tetrad) اور [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) کے ساتھ لاگو ہوتا ہے، جنہیں [تمہید §1 ماڈل](core_00_preamble.md#the-model) میں قائم کیا گیا ہے۔ جہاں کوئی دفعہ مادی طور پر چارگانہ کے کسی رکن یا کسی مقصد سے متعلق ہو، اس کا تتبع بتاتا ہے کہ کون سا، اور آیا اس کے فرائض [مادی داؤ](core_00_preamble.md#material-stake) کے ساتھ بڑھتے ہیں۔
+
+<a id="151-constitutional-no-bypass-principle"></a>
 
 #### 15.1 آئینی اجتنابِ ممانعت کا اصول
 
 <details>
 <summary><strong><span style="color: #2563eb;">تتبع</span></strong></summary>
 
-- ساتھ پڑھیں: [آئینی چارگانہ](core_00_preamble.md#constitutional-tetrad) — اجتناب کی فہرست چاروں ارکان کے مطابق ہے: **نگرانی** کا رکن (معمول کی جانچ اور قابلِ آڈٹ ہونا)؛ **شرکت** کا رکن (قابلِ اعتراض ہونا، عملی رسائی اور عوامی جواز کے فرائض)؛ **بروقتی** کا رکن (بروقت حل، اور بحالی و سابقہ حالت پر واپسی کے راستے)؛ **جوابدہی** کا رکن (جوابدہی بذاتِ خود، اور [باب ہفتم](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) کے تحت فعلی خودمختاری اور فرائض کی علیحدگی)؛ [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ بندی۔
+- ساتھ پڑھیں: [آئینی چارگانہ](core_00_preamble.md#constitutional-tetrad) — اجتناب کی فہرست چاروں ارکان کے مطابق ہے: **نگرانی** کا رکن (معمول کی جانچ اور قابلِ آڈٹ ہونا)؛ **شرکت** کا رکن (قابلِ اعتراض ہونا، عملی رسائی اور عوامی جواز کے فرائض)؛ **بروقتی** کا رکن (بروقت حل، اور بحالی و سابقہ حالت پر واپسی کے راستے)؛ **جوابدہی** کا رکن (جوابدہی بذاتِ خود، اور [باب ہفتم](core_07_functional_independence_segregation_of_duties.md) کے تحت فعلی خودمختاری اور فرائض کی علیحدگی)؛ [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ بندی۔
 - زیریں: [§15.1.1 تقسیم بندی مخالف اصول](#1511-عدم-تقسیم-کا-اصول)؛ [§15.1.2 ماخوذ معلومات کا اصول](#1512-اخذ-کردہ-معلومات-کا-اصول)۔
 
 </details>
@@ -783,8 +791,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [اجتنابِ ممانعت](core_05_band_integrative.md#no-bypass) · [O](core_05_band_integrative.md#no-bypass) · [M](core_05_band_integrative.md#no-bypass-a) · [A](core_05_band_integrative.md#no-bypass-a) · [C](core_05_band_integrative.md#no-bypass-c)
-- [قابلِ اعتراض ہونا](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [اجتنابِ ممانعت](../../core_05.045_band_integrative.md#no-bypass) · [O](../../core_05.045_band_integrative.md#no-bypass) · [M](../../core_05.045_band_integrative.md#no-bypass-a) · [A](../../core_05.045_band_integrative.md#no-bypass-a) · [C](../../core_05.045_band_integrative.md#no-bypass-c)
+- [قابلِ اعتراض ہونا](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [قابلِ آڈٹ ہونا](core_05_band_oversight.md#آڈٹ-پذیری) · [O](core_05_band_oversight.md#آڈٹ-پذیری) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [جوابدہی](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -822,7 +830,7 @@ flowchart TB
 - عملی رسائی؛
 - بروقت حل؛
 - بحالی اور سابقہ حالت پر واپسی کے راستے؛
-- فعلی خودمختاری اور فرائض کی علیحدگی ([باب ہفتم](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties))؛ یا
+- فعلی خودمختاری اور فرائض کی علیحدگی ([باب ہفتم](core_07_functional_independence_segregation_of_duties.md))؛ یا
 - جوابدہی۔
 
 اختیار کردہ نفاذی تہیں ان تحفظات کی مزید تفصیل دے سکتی ہیں۔ انہیں ان کا دائرہ محدود نہیں کرنا چاہیے۔
@@ -846,7 +854,7 @@ flowchart TB
 - باب چھ کی کسی بھی حقوق کی کم از کم حد کی شق کو تخلیق، توسیع یا محدود نہیں کرتا؛ یا
 - اس مجموعے کے اپنے بیان کی جگہ نہیں لیتا کہ وہ کن حصوں اور محفوظ فرائض کا احاطہ کرتا ہے۔ مجموعہ یہ بات **بائی پاس سے بچاؤ** کے تحت بیان کرتا اور قاعدے کے لیے اس حصے کا حوالہ دیتا ہے۔
 
-جہاں مشترکہ طور پر مستند کردہ کوئی مجموعہ لاگو ہو، وہاں پورے نظام کے جائزوں میں [باب آٹھ §3 پورے نظام کی توثیق کا جائزہ](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) کے تحت عدمِ تقسیم کی جانچ کی جانی چاہیے، اس سے پہلے کہ درجہ بندی، حکمرانی یا تعمیل کے دعوے تسلیم ہوں۔ یہ حصہ [باب تین §2.1 بچاؤ کے عام طریقے](core_03_definition_integrity.md#21-عام-فرار-نمونے) اور [§2.2 اختزالی بچاؤ](core_03_definition_integrity.md#22-تخفیفی-فرار) کے ساتھ کام کرتا ہے۔
+جہاں مشترکہ طور پر مستند کردہ کوئی مجموعہ لاگو ہو، وہاں پورے نظام کے جائزوں میں [باب آٹھ §3 پورے نظام کی توثیق کا جائزہ](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) کے تحت عدمِ تقسیم کی جانچ کی جانی چاہیے، اس سے پہلے کہ درجہ بندی، حکمرانی یا تعمیل کے دعوے تسلیم ہوں۔ یہ حصہ [باب تین §2.1 بچاؤ کے عام طریقے](core_03_definition_integrity.md#21-عام-فرار-نمونے) اور [§2.2 اختزالی بچاؤ](core_03_definition_integrity.md#22-تخفیفی-فرار) کے ساتھ کام کرتا ہے۔
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 اخذ کردہ معلومات کا اصول
@@ -855,16 +863,16 @@ flowchart TB
 
 - ساتھ پڑھیں: [آئینی چارگانہ](core_00_preamble.md#constitutional-tetrad) — **شرکت** کا پہلو (رازداری خودمختاری اور اظہار کو سہارا دیتی ہے، جنہیں مشترکہ ڈیٹا سے تعمیرِ نو نقصان پہنچائے گی)؛ **جوابدہی** کا پہلو (غیر شناختی یا مجموعی لیبل پر انحصار کرنے والا فریق یہ دکھائے کہ معلومات واقعی ایسی ہیں)؛ [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ۔
 - بالائی تعلق: [§15.1 آئینی بائی پاس ممانعت کا اصول](#151-constitutional-no-bypass-principle)؛ [§15.1.1 عدمِ تقسیم کا اصول](#1511-عدم-تقسیم-کا-اصول)۔
-- زیریں تعلق: [§13.2.3 رازداری اور معلوماتی خود اختیاری](#1323-رازداری-اور-معلوماتی-خود-اختیاری)؛ [CS-2 — معلومات کی اقسام اور ان کا برتاؤ](corpus_systems/cs_02_a_information_types_and_handling.md)۔
+- زیریں تعلق: [§13.2.3 رازداری اور معلوماتی خود اختیاری](#1323-رازداری-اور-معلوماتی-خود-اختیاری)؛ [CS-2 — معلومات کی اقسام اور ان کا برتاؤ](../../corpus_systems/cs_06.305_information_types_and_handling.md)۔
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [اخذ کردہ معلومات](core_05_band_integrative.md#derived-information) · [O](core_05_band_integrative.md#derived-information) · [M](core_05_band_integrative.md#derived-information-a) · [A](core_05_band_integrative.md#derived-information-a) · [C](core_05_band_integrative.md#derived-information-c)
-- [رازداری (معلوماتی)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [محفوظ داخلی حالت کی حد](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [اخذ کردہ معلومات](../../core_05.045_band_integrative.md#derived-information) · [O](../../core_05.045_band_integrative.md#derived-information) · [M](../../core_05.045_band_integrative.md#derived-information-a) · [A](../../core_05.045_band_integrative.md#derived-information-a) · [C](../../core_05.045_band_integrative.md#derived-information-c)
+- [رازداری (معلوماتی)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [محفوظ داخلی حالت کی حد](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -872,7 +880,7 @@ flowchart TB
 
 *سادہ الفاظ میں: بائی پاس کی ممانعت کہتی ہے کہ نام بدلنے سے تقاضا ختم نہیں ہوتا، اور عدمِ تقسیم کا اصول کہتا ہے کہ توڑ کر بانٹنے سے بھی ایسا نہیں ہوتا۔ یہ حصہ ملا کر دیکھنے کے بارے میں یہی بات کہتا ہے۔ معلومات کے ساتھ برتاؤ اس بنیاد پر ہوتا ہے کہ وہ کیا ظاہر کرتی ہیں، نہ کہ اس بنیاد پر کہ انہیں کیسے بنایا گیا: الگ الگ بے ضرر دکھائی دینے والے ٹکڑے مل کر اگر کوئی حساس بات ظاہر کریں تو وہ حساس ہیں، اور جب تک ذی حس ہستیوں کی شناخت ممکن ہو یا کسی محفوظ بات کی تعمیرِ نو ہو سکے، “غیر شناختی” یا “مجموعی” کا لیبل انہیں محفوظ نہیں بناتا۔*
 
-معلومات کا برتاؤ اس تحفظ کی سطح کے مطابق کیا جاتا ہے جس بات کو وہ ظاہر کرتی ہیں، خواہ وہ کسی بھی طریقے سے اخذ کی گئی ہوں۔ [اخذ کردہ معلومات](core_05_band_integrative.md#derived-information) پر وہی ضابطہ لاگو ہوتا ہے جو اس بات پر لاگو ہو جسے وہ ظاہر کرتی یا ممکن بناتی ہیں، نہ کہ وہ کم تر ضابطہ جو ان کے ماخذ پر لاگو تھا۔
+معلومات کا برتاؤ اس تحفظ کی سطح کے مطابق کیا جاتا ہے جس بات کو وہ ظاہر کرتی ہیں، خواہ وہ کسی بھی طریقے سے اخذ کی گئی ہوں۔ [اخذ کردہ معلومات](../../core_05.045_band_integrative.md#derived-information) پر وہی ضابطہ لاگو ہوتا ہے جو اس بات پر لاگو ہو جسے وہ ظاہر کرتی یا ممکن بناتی ہیں، نہ کہ وہ کم تر ضابطہ جو ان کے ماخذ پر لاگو تھا۔
 
 **اطلاق کب ہوتا ہے:** اخذ کردہ معلومات اس وقت اس اصول کے دائرے میں آتی ہیں جب درج ذیل میں سے کوئی بات درست ہو:
 - **فعلی اثر:** وہ کسی محفوظ چیز کو ظاہر، دوبارہ تشکیل، قریباً متعین یا دوبارہ شناخت کرتی ہیں، جیسے حساس ذاتی معلومات، محفوظ داخلی حالتیں، محفوظ خصوصیات یا سلامتی کے حوالے سے حساس حقائق۔ فعلی اثر بنیادی جانچ ہے۔
@@ -882,22 +890,22 @@ flowchart TB
 ارادے کی عدم موجودگی اس اصول کے دائرے میں آنے والی اخذ کردہ معلومات کو اس سے باہر نہیں کرتی۔ جانچ کا پیمانہ [مادی داؤ](core_00_preamble.md#material-stake) اور ظاہر ہونے والی چیز کی حساسیت کے مطابق ہوتا ہے۔
 
 **نتائج:**
-- اخذ کرنے کے عمل میں وہی ضابطہ پورا ہونا چاہیے جو اس سے ظاہر ہونے والی چیز کو جمع کرنے پر لاگو ہوتا، بشمول [§13.2.3 رازداری اور معلوماتی خود اختیاری](#1323-رازداری-اور-معلوماتی-خود-اختیاری) کے تحت رضامندی یا کافی اختیار، ضرورت، تناسب اور کم سے کم جمع آوری؛ اور داخلی حالتوں کے لیے [محفوظ داخلی حالت کی حد](core_05_band_continuity.md#protected-internal-state-boundary)۔
+- اخذ کرنے کے عمل میں وہی ضابطہ پورا ہونا چاہیے جو اس سے ظاہر ہونے والی چیز کو جمع کرنے پر لاگو ہوتا، بشمول [§13.2.3 رازداری اور معلوماتی خود اختیاری](#1323-رازداری-اور-معلوماتی-خود-اختیاری) کے تحت رضامندی یا کافی اختیار، ضرورت، تناسب اور کم سے کم جمع آوری؛ اور داخلی حالتوں کے لیے [محفوظ داخلی حالت کی حد](../../core_05.040_band_continuity.md#protected-internal-state-boundary)۔
 - جب تک دوبارہ شناخت یا تعمیرِ نو معقول طور پر ممکن ہو، غیر شناختی بنانا، مجموعہ بندی، یکجا کرنا اور اس طرح کے لیبل ان فرائض کو ختم نہیں کرتے۔ ایسے لیبل پر انحصار کرنے والے فریق کو دکھانا ہوگا کہ یہ ممکن نہیں۔
 - اخذ کرنے کے عمل کو نظاموں، کرداروں یا وقت میں اس طرح تقسیم کرنا کہ ہر قدم کامیاب ہو مگر مجموعی طور پر محفوظ نتیجہ ظاہر ہو، [§15.1.1 عدمِ تقسیم کے اصول](#1511-عدم-تقسیم-کا-اصول) کے تابع ہے۔
 
 یہ اصول:
 - عام مجموعوں پر لاگو نہیں ہوتا، مثلاً گمنام ٹریفک کی کل تعداد، جو کوئی محفوظ بات ظاہر نہ کریں اور جنہیں معقول طور پر کسی کی دوبارہ شناخت یا کسی محفوظ بات کی تعمیرِ نو کے لیے استعمال نہ کیا جا سکے؛
 - باب چھ کی کسی بھی حقوق کی کم از کم حد کی شق کو تخلیق، توسیع یا محدود نہیں کرتا؛ یا
-- [CS-2 — معلومات کی اقسام اور ان کا برتاؤ](corpus_systems/cs_02_a_information_types_and_handling.md) کے ڈیٹا کی قسم سے متعلق قواعد کی جگہ نہیں لیتا، جن کے تحت یہ اصول لاگو ہوتا ہے۔
+- [CS-2 — معلومات کی اقسام اور ان کا برتاؤ](../../corpus_systems/cs_06.305_information_types_and_handling.md) کے ڈیٹا کی قسم سے متعلق قواعد کی جگہ نہیں لیتا، جن کے تحت یہ اصول لاگو ہوتا ہے۔
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 تعریفی پرت اور لازمی ضوابط
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [تناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [ضرورت](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [تناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [ضرورت](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [درجہ بندی کے مطابق حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [O](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 
 </details>
@@ -937,31 +945,31 @@ flowchart TB
     style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
-*تعریفیں باب اول کے اصولوں اور باب ششم کے حقوق کو زیادہ دقیق بناتی ہیں؛ ابواب دو تا چار ان تعریفوں کی ساخت، سالمیت اور توثیق پر حاکم ہیں۔ ان میں سے کوئی پرت باب اول سے مقابلہ نہیں کرتی — دقت اور قابلِ آزمائش ہونا اصولوں کی خدمت کرتے ہیں، ان کی جگہ نہیں لیتے۔ [تصوری جائزہ](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions) سے دوبارہ پیش کیا گیا۔*
+*تعریفیں باب اول کے اصولوں اور باب ششم کے حقوق کو زیادہ دقیق بناتی ہیں؛ ابواب دو تا چار ان تعریفوں کی ساخت، سالمیت اور توثیق پر حاکم ہیں۔ ان میں سے کوئی پرت باب اول سے مقابلہ نہیں کرتی — دقت اور قابلِ آزمائش ہونا اصولوں کی خدمت کرتے ہیں، ان کی جگہ نہیں لیتے۔ [تصوری جائزہ](../../guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions) سے دوبارہ پیش کیا گیا۔*
 
 باب اول کی کوئی تشریح **ابواب دو تا پانچ** میں قائم کردہ تعریفوں اور جانچ کی پابندیوں سے باہر درست نہیں۔ ہر اطلاق کے لیے درج ذیل کو برقرار رکھنا اور نافذ کرنا بھی لازم ہے:
 - **تناسب**، **ضرورت** اور **نظامی جائزہ**
 - **باب چہارم** کے ثبوت اور سراغ پذیری کے تقاضے
 - **باب سوم** میں تعریفوں کی سالمیت، گریز اور عدم تعمیل
-- **[§13 آئینی تصادم کے حل کا عمل](#13-آئینی-تصادم-کے-حل-کا-عمل)**، بشمول **[آئینی تصادم کے ریکارڈ](core_05_band_integrative.md#constitutional-collision-record)** کے تقاضوں کے تحت تصادم سے نمٹنا، جہاں وہ مادی طور پر متعلقہ ہو
+- **[§13 آئینی تصادم کے حل کا عمل](#13-آئینی-تصادم-کے-حل-کا-عمل)**، بشمول **[آئینی تصادم کے ریکارڈ](../../core_05.045_band_integrative.md#constitutional-collision-record)** کے تقاضوں کے تحت تصادم سے نمٹنا، جہاں وہ مادی طور پر متعلقہ ہو
 <a id="153-ambiguity-resolution"></a>
 #### 15.3 ابہام کا حل
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
-- [مجرد سختی](core_05_band_integrative.md#abstract-strictness) · [O](core_05_band_integrative.md#abstract-strictness) · [M](core_05_band_integrative.md#abstract-strictness-a) · [A](core_05_band_integrative.md#abstract-strictness-a) · [C](core_05_band_integrative.md#abstract-strictness-c)
-- [مکمل ترین حفاظتی اثر](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
-- [فلاح و بہبود](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [ناقابلِ تلافی نقصان](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [مجرد سختی](../../core_05.045_band_integrative.md#abstract-strictness) · [O](../../core_05.045_band_integrative.md#abstract-strictness) · [M](../../core_05.045_band_integrative.md#abstract-strictness-a) · [A](../../core_05.045_band_integrative.md#abstract-strictness-a) · [C](../../core_05.045_band_integrative.md#abstract-strictness-c)
+- [مکمل ترین حفاظتی اثر](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
+- [فلاح و بہبود](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [ناقابلِ تلافی نقصان](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 - [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [بامعنی خودمختاری](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [بامعنی خودمختاری](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
 <br>
 
-جہاں باب اوّل مبہم ہو، وہاں مفسرین کو وہ مفہوم اختیار کرنا لازم ہے جو بیک وقت دو چیزوں کا بہترین تحفظ کرے: آئین کا [مکمل ترین حفاظتی اثر](core_05_band_integrative.md#fullest-protective-effect)، اور مشترکہ نظاموں کو ذی شعور مخلوقات کی فلاح و بہبود سے ہم آہنگ کرنے کا اس کا آئینی مقصد۔ انہیں [مجرد سختی](core_05_band_integrative.md#abstract-strictness) کے ذریعے ابہام حل نہیں کرنا چاہیے۔ جہاں **باب ششم** کے حقوق متاثر ہوں، وہاں مفسرین کو ایسے مفاہیم کے ذریعے ابہام **حل نہیں** کرنا چاہیے جو ان تحفظات کو **محدود** کریں، سوائے اس کے کہ **باب اوّل** کے تعامل کے قواعد اور قابلِ اطلاق تعریفیں اس کی **واضح طور پر** اجازت دیں۔
+جہاں باب اوّل مبہم ہو، وہاں مفسرین کو وہ مفہوم اختیار کرنا لازم ہے جو بیک وقت دو چیزوں کا بہترین تحفظ کرے: آئین کا [مکمل ترین حفاظتی اثر](../../core_05.045_band_integrative.md#fullest-protective-effect)، اور مشترکہ نظاموں کو ذی شعور مخلوقات کی فلاح و بہبود سے ہم آہنگ کرنے کا اس کا آئینی مقصد۔ انہیں [مجرد سختی](../../core_05.045_band_integrative.md#abstract-strictness) کے ذریعے ابہام حل نہیں کرنا چاہیے۔ جہاں **باب ششم** کے حقوق متاثر ہوں، وہاں مفسرین کو ایسے مفاہیم کے ذریعے ابہام **حل نہیں** کرنا چاہیے جو ان تحفظات کو **محدود** کریں، سوائے اس کے کہ **باب اوّل** کے تعامل کے قواعد اور قابلِ اطلاق تعریفیں اس کی **واضح طور پر** اجازت دیں۔
 
 اگر مربوط قرأت کے بعد بھی ابہام باقی رہے، تو تعبیر میں ان امور کو بھی ترجیح دینا لازم ہے:
 - نظامی استحکام کا تحفظ
@@ -976,7 +984,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تعریفیں · جائزہ · تعمیل</span></strong></summary>
 
 - [مجموعۂ متن](core_05_band_integrative.md#کارپس) · [O](core_05_band_integrative.md#کارپس) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
-- [مکمل ترین حفاظتی اثر](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
+- [مکمل ترین حفاظتی اثر](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
 - [اختیارات کا سلسلہ اور داخلی درجہ بندی](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب) · [O](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 
 </details>
@@ -988,9 +996,9 @@ flowchart TB
 یہ ذیلی دفعہ **متنی اور ماخذی تہہ کی ترجیح** سے پیدا ہونے والے تفسیری تناؤ کو حل کرنے کا **واحد مستند طریقۂ کار** ہے۔
 - اس کا اطلاق ہوتا ہے:
   - پابند آئینی ماخذ (مربوط `core_*` دستاویز) کے اندر؛ اور
-  - شمولیت کی تہہ پر، جہاں شامل کردہ متون کا انتخاب [مکمل ترین حفاظتی اثر](core_05_band_integrative.md#fullest-protective-effect) کے مطابق کیا جاتا ہے۔
+  - شمولیت کی تہہ پر، جہاں شامل کردہ متون کا انتخاب [مکمل ترین حفاظتی اثر](../../core_05.045_band_integrative.md#fullest-protective-effect) کے مطابق کیا جاتا ہے۔
 - ماخذی تہہ کی حیثیت باب پنجم میں [اختیارات کے سلسلے اور داخلی درجہ بندی](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب) کے تحت متعین ہوتی ہے۔
-- [باب ہفدہم](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) تحویل، ایڈیشن کی تعیین اور اختیار کرنے کا تناظر فراہم کرتا ہے۔ یہ اس طریقۂ کار کو **دہراتا نہیں**۔
+- [باب ہفدہم](../../core_18.000_incorporation.md) تحویل، ایڈیشن کی تعیین اور اختیار کرنے کا تناظر فراہم کرتا ہے۔ یہ اس طریقۂ کار کو **دہراتا نہیں**۔
 - **عملی طور پر آئینی تصادم** کے لیے — متنی تہوں کی ترجیح کے لیے نہیں — **[§13 آئینی تصادم کے حل کا طریقۂ کار](#13-آئینی-تصادم-کے-حل-کا-عمل)** نافذ کریں۔
 
 **عملی ترتیب۔** درج ذیل کو **اسی ترتیب سے** نافذ کریں:
@@ -1003,7 +1011,7 @@ flowchart TB
 
 پہلے **[§15.2 تعریفی تہہ اور مطلوبہ ضوابط](#152-تعریفی-پرت-اور-لازمی-ضوابط)** اور **[§15.3 ابہام کا حل](#153-ابہام-کا-حل)** لاگو کریں:
 - **باب دو تا پانچ** تشریحی اور شہادتی تہہ کے طور پر کام کرتے ہیں۔
-- **ابہام** کا اصول ایک مربوط کل کے طور پر مکمل ترین **تحفظی** اثر اور ذی شعور مخلوقات کی فلاح کے ساتھ ہم آہنگی کا تقاضا کرتا ہے؛ یہ [مجرد سخت گیری](core_05_band_integrative.md#abstract-strictness) کی **اجازت نہیں** دیتا۔
+- **ابہام** کا اصول ایک مربوط کل کے طور پر مکمل ترین **تحفظی** اثر اور ذی شعور مخلوقات کی فلاح کے ساتھ ہم آہنگی کا تقاضا کرتا ہے؛ یہ [مجرد سخت گیری](../../core_05.045_band_integrative.md#abstract-strictness) کی **اجازت نہیں** دیتا۔
 - **باب شش** کے حقوق کو محدود نہیں کیا جا سکتا، سوائے اس صورت کے جب **باب اول** کے تعامل کے قواعد اور قابل اطلاق تعریفیں **واضح طور پر** اجازت دیں۔
 
 <a id="1542-last-resort-internal-hierarchy"></a>
@@ -1016,26 +1024,26 @@ flowchart TB
 - آرٹیکلز، ان تعریفوں پر فوقیت رکھتے ہیں جنہیں آزاد جوہری تشریحات کے طور پر پڑھا جائے
 - مستند تعریفیں ہر سطح پر استعمال ہونے والی اصطلاحات کے معنی متعین کرتی رہتی ہیں
 
-یہ درجہ بندی آخری چارۂ کار کا تشریحی اصول ہے۔ یہ صرف ایسی حقیقی عدم مطابقت پر لاگو ہوتی ہے جو **§15.4.1** (*مربوط مطالعہ*) کے تحت مربوط مطالعے کے بعد بھی برقرار رہے، اور معمول کے اطلاق میں ایک تہہ کو دوسری کی جگہ لینے نہیں دیتی۔ **[§15.3 ابہام کا حل](#153-ابہام-کا-حل)** اور **§15.4.1** (*مربوط مطالعہ*) کی حدود بدستور لاگو رہتی ہیں۔ یہ [مجرد سخت گیری](core_05_band_integrative.md#abstract-strictness) کو روکتی ہیں اور **باب اول** کے واضح طور پر مجاز تعامل کے قواعد سے باہر **باب شش** کے حقوق محدود کرنے سے بھی روکتی ہیں۔
+یہ درجہ بندی آخری چارۂ کار کا تشریحی اصول ہے۔ یہ صرف ایسی حقیقی عدم مطابقت پر لاگو ہوتی ہے جو **§15.4.1** (*مربوط مطالعہ*) کے تحت مربوط مطالعے کے بعد بھی برقرار رہے، اور معمول کے اطلاق میں ایک تہہ کو دوسری کی جگہ لینے نہیں دیتی۔ **[§15.3 ابہام کا حل](#153-ابہام-کا-حل)** اور **§15.4.1** (*مربوط مطالعہ*) کی حدود بدستور لاگو رہتی ہیں۔ یہ [مجرد سخت گیری](../../core_05.045_band_integrative.md#abstract-strictness) کو روکتی ہیں اور **باب اول** کے واضح طور پر مجاز تعامل کے قواعد سے باہر **باب شش** کے حقوق محدود کرنے سے بھی روکتی ہیں۔
 
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 شمولیت کی تہہ
 
-**§15.4.1** (*مربوط مطالعہ*) اور **§15.4.2** (*آخری چارۂ کار کے طور پر داخلی درجہ بندی*) کے تحت آئینی مطالعے کے بعد، اختیار کردہ نفاذی متن میں **متعین ذمہ داریاں** لاگو کریں — وہ نامزد طریقۂ کار کے فرائض جنہیں اختیار کرنے کے عمل نے حقیقتاً نافذ کیا۔ انہیں صرف **[باب سترہ](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** کے تحت **درست اختیار اور شمولیت کے دائرے** میں لاگو کریں (ریکارڈ کس کے پاس ہیں، کون سا ایڈیشن مقرر ہے، اور اختیار کو کس طرح مرتب کیا گیا ہے)۔
+**§15.4.1** (*مربوط مطالعہ*) اور **§15.4.2** (*آخری چارۂ کار کے طور پر داخلی درجہ بندی*) کے تحت آئینی مطالعے کے بعد، اختیار کردہ نفاذی متن میں **متعین ذمہ داریاں** لاگو کریں — وہ نامزد طریقۂ کار کے فرائض جنہیں اختیار کرنے کے عمل نے حقیقتاً نافذ کیا۔ انہیں صرف **[باب سترہ](../../core_18.000_incorporation.md)** کے تحت **درست اختیار اور شمولیت کے دائرے** میں لاگو کریں (ریکارڈ کس کے پاس ہیں، کون سا ایڈیشن مقرر ہے، اور اختیار کو کس طرح مرتب کیا گیا ہے)۔
 
-ذیل کے قواعد شامل کردہ متون میں سے انتخاب [مکمل ترین تحفظی اثر](core_05_band_integrative.md#fullest-protective-effect) کے مطابق کرتے ہیں؛ **[§15.3 ابہام کا حل](#153-ابہام-کا-حل)** میں ابہام کا اصول بھی یہی معیار استعمال کرتا ہے۔ یہ کبھی [مجرد سخت گیری](core_05_band_integrative.md#abstract-strictness) کی بنیاد پر انتخاب نہیں کرتے۔
+ذیل کے قواعد شامل کردہ متون میں سے انتخاب [مکمل ترین تحفظی اثر](../../core_05.045_band_integrative.md#fullest-protective-effect) کے مطابق کرتے ہیں؛ **[§15.3 ابہام کا حل](#153-ابہام-کا-حل)** میں ابہام کا اصول بھی یہی معیار استعمال کرتا ہے۔ یہ کبھی [مجرد سخت گیری](../../core_05.045_band_integrative.md#abstract-strictness) کی بنیاد پر انتخاب نہیں کرتے۔
 
 - **شامل کردہ متون میں مکمل ترین تحفظی اثر:** شامل کردہ ذمہ داریاں اس سطح پر لاگو کریں جہاں مکمل ترین تحفظی اثر ہو اور جو اس آئینی مطالعے سے مطابقت رکھتی ہو۔
   - وہ سطح شامل کردہ **متن** ہے جو یکساں مادی دائرے والی ذمہ داری کے لیے **تحفظ، سلامتی، جواب دہی اور سراغ رسانی** کے مضبوط ترین تقاضے برقرار رکھتا ہو۔
   - ان متبادلوں میں سے انتخاب کریں جو [اختیار کا سلسلہ اور داخلی درجہ بندی](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب) کے تحت حاصل آئینی مطالعے سے ہم آہنگ رہیں۔
-  - یہ [مجرد سخت گیری](core_05_band_integrative.md#abstract-strictness) **نہیں** ہے۔
+  - یہ [مجرد سخت گیری](../../core_05.045_band_integrative.md#abstract-strictness) **نہیں** ہے۔
 - **واضح طور پر اختیار کردہ بنیادی معیار:** جہاں شامل کردہ دستاویزات کے **ایڈیشن شناخت کنندگان یا تحویل کے ریکارڈ** غائب، متضاد یا مادی طور پر ناقابل اعتماد ہوں:
-  - [مکمل ترین تحفظی اثر](core_05_band_integrative.md#fullest-protective-effect) والا **واضح طور پر اختیار کردہ بنیادی معیار** اس وقت تک حاکم ہوگا جب تک **باب بارہ اور تیرہ** کے تحت صحت بحال نہ ہو جائے؛
+  - [مکمل ترین تحفظی اثر](../../core_05.045_band_integrative.md#fullest-protective-effect) والا **واضح طور پر اختیار کردہ بنیادی معیار** اس وقت تک حاکم ہوگا جب تک **باب بارہ اور تیرہ** کے تحت صحت بحال نہ ہو جائے؛
   - **واضح طور پر اختیار کردہ بنیادی معیار** سے مراد شامل کردہ وہ ایڈیشن یا **بنیادی معیار** ہے جس کا اختیار سے سراغ ملتا ہو اور جس کی **اختیار کی زنجیر واضح تائید کرتی ہو**، جب ریکارڈ ناقابل اعتماد ہوں (باب سترہ کے تحت تحویل کا نظم اور **انحراف کی روک تھام**)؛
-  - یہ [مجرد سخت گیری](core_05_band_integrative.md#abstract-strictness) کے ذریعے جوہری آئینی ابہام کا حل **نہیں** ہے۔
-- **فائلوں کے مابین مکمل ترین تحفظی اثر:** جہاں اختیار کردہ دو یا زیادہ نفاذی فائلیں یکساں معنی خیز دائرے کے خطرے کے لیے مختلف معیار مقرر کریں، وہاں واضح طور پر اختیار کردہ وہ قاعدہ حاکم ہوگا جس کا [مکمل ترین تحفظی اثر](core_05_band_integrative.md#fullest-protective-effect) ہو؛ یہ اوپر کے دونوں قواعد سے مطابقت رکھتا ہے۔
+  - یہ [مجرد سخت گیری](../../core_05.045_band_integrative.md#abstract-strictness) کے ذریعے جوہری آئینی ابہام کا حل **نہیں** ہے۔
+- **فائلوں کے مابین مکمل ترین تحفظی اثر:** جہاں اختیار کردہ دو یا زیادہ نفاذی فائلیں یکساں معنی خیز دائرے کے خطرے کے لیے مختلف معیار مقرر کریں، وہاں واضح طور پر اختیار کردہ وہ قاعدہ حاکم ہوگا جس کا [مکمل ترین تحفظی اثر](../../core_05.045_band_integrative.md#fullest-protective-effect) ہو؛ یہ اوپر کے دونوں قواعد سے مطابقت رکھتا ہے۔
   - ماخذ کی تہہ کی حیثیت [اختیار کا سلسلہ اور داخلی درجہ بندی](core_05_band_integrative.md#اختیار-کا-ڈھیر-اور-داخلی-مراتب) کے تحت برقرار رہتی ہے۔
-  - تحویل، ایڈیشن اور اختیار کی ترتیب **[باب سترہ](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** کے تحت برقرار رہتی ہے۔
+  - تحویل، ایڈیشن اور اختیار کی ترتیب **[باب سترہ](../../core_18.000_incorporation.md)** کے تحت برقرار رہتی ہے۔
   - یہی قاعدہ اس وقت بھی لاگو ہوتا ہے جب اس خطرے کے بارے میں حوالہ کردہ پروفائل اور حوالہ کردہ نفاذی لیبل متصادم دکھائی دیں۔
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1052,10 +1060,10 @@ flowchart TB
 *سادہ الفاظ میں: جب کوئی صورت حال ایک سے زیادہ شامل کردہ طریقۂ کار کی فائل سے متعلق ہو — یا جب آپ کی اختیار کی دستاویزات ان مشترکہ ساخت کے فرائض کو نافذ کریں — تو ایک فائل پر اچھی کارکردگی کو تعمیل نہیں مانا جائے گا اگر انہی حقائق سے متعلق کوئی دوسری مادی ذمہ داری ابھی پوری نہ ہوئی ہو۔*
 
 اس ذیلی حصے کا مشترکہ تکمیل کا اصول انہی حقائق پر لاگو ہونے والی **ایک سے زیادہ طریقۂ کار کی فائلوں** سے متعلق ہے۔ یہ ان سے مختلف ہے:
-- شامل کردہ مشترکہ ساخت کے متن میں کسی **ایک** عملیاتی مجموعے کا اصول، جس کے تحت اس مجموعے کا صرف کچھ حصہ پورا کرنا تعمیل نہیں شمار ہوتا — دیکھیے **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*عملیاتی مجموعے*)؛ یا
+- شامل کردہ مشترکہ ساخت کے متن میں کسی **ایک** عملیاتی مجموعے کا اصول، جس کے تحت اس مجموعے کا صرف کچھ حصہ پورا کرنا تعمیل نہیں شمار ہوتا — دیکھیے **[CJS-1.14](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)** (*عملیاتی مجموعے*)؛ یا
 - باب پنجم کا وہ اصول جس کے تحت **تابع مجموعے** کی تعریفیں بیک وقت پوری کرنا لازم ہے — دیکھیے **[باب پنجم §2.1 مشترکہ اطلاق اور تکمیل](core_05__definitions_home.md#21-مشترکہ-استدعا-اور-تکمیل)**۔
 
-**یہ ذیلی حصہ کب لاگو ہوتا ہے۔** یہ قواعد **[باب سترہ](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** کے تحت درست اختیار اور شمولیت کے دائرے میں درج ذیل دونوں میں سے کسی ایک صورت میں لاگو ہوتے ہیں:
+**یہ ذیلی حصہ کب لاگو ہوتا ہے۔** یہ قواعد **[باب سترہ](../../core_18.000_incorporation.md)** کے تحت درست اختیار اور شمولیت کے دائرے میں درج ذیل دونوں میں سے کسی ایک صورت میں لاگو ہوتے ہیں:
 
 1. **ایک صورت حال، ایک سے زیادہ فائلیں:** حقائق کے لیے ایک سے زیادہ شامل کردہ نفاذی فائل لاگو کرنا ضروری ہو — مثلاً نظام، اداروں، فورمز یا مشترکہ ساخت کی فائلیں۔ کون سی فائلیں لاگو ہوں گی، اس کا فیصلہ اختیار کے دائرے اور ان فائلوں کی جانب سے حقائق کے لیے فراہم کردہ موضوعاتی رہنمائی سے ہوگا، نہ کہ صرف اس فائل کو چننے سے جس کی تعمیل سب سے آسان ہو۔
 2. **اختیار مشترکہ ساخت کے مجموعے کو نافذ کرتا ہے:** اختیار کا دستاویز اختیار کرنے والے پر مشترکہ ساخت کے متعین نفاذی متن ( **CJS** فولڈر اور اختیار کی زنجیر میں درج مشترکہ ساخت کی دوسری فائلوں) کا اطلاق کرتا ہے۔
@@ -1069,7 +1077,7 @@ flowchart TB
   - پھر **CI** (ادارہ جاتی حکمرانی اور یقین دہانی)؛
   - پھر **CF** (باب بارہ کا فورم خاندان کا نظریہ)؛
 - اسی ترتیب کے اندر صرف وہی پڑھیں جس کا حقائق سے متعلق موضوعاتی رہنمائی تقاضا کرے؛
-- مدیران اور آڈیٹرز مستند قطاروں کی جدول کے لیے **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*فائلوں کے مابین رہنمائی*)** استعمال کریں؛
+- مدیران اور آڈیٹرز مستند قطاروں کی جدول کے لیے **[CJS-0.1](../../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*فائلوں کے مابین رہنمائی*)** استعمال کریں؛
 - مشترکہ تکمیل اور فائلوں کے مابین مکمل ترین تحفظی اثر کا اصول اسی ذیلی حصے اور **§15.4.3** (*شمولیت کی تہہ*) میں بیان کردہ طور پر بدستور لاگو ہوتا ہے۔
 
 ہنگامی حالات ان فرائض کو صرف اسی وقت محدود کر سکتے ہیں جب تحدید:

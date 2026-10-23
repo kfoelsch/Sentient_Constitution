@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第五章指南针](core_05__definitions_home.md#第五章指南针与定义地图)；[宪法四元](core_00_preamble.md#constitutional-tetrad)（监督腿；按[实质利害](core_00_preamble.md#material-stake)缩放）；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；首要宗旨[繁盛](core_00_preamble.md#flourishing)。
-- 下游：原则：[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)；[四元腿分解](#oversight-tetrad-leg-decomposition)；监督带叶定义在 [core_05_band_oversight.md](../../core_05.050_band_oversight.md)。
+- 下游：原则：[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[四元腿分解](#oversight-tetrad-leg-decomposition)；监督带叶定义在 [core_05_band_oversight.md](../../core_05.050_band_oversight.md)。
 - 簇组件：[治理架构、监督、依赖、去中心化、集中、市场结构与退出路径完整性](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)。
 - 一并阅读：[*实质影响、实质性认定、按分类缩放的治理、监督与能力要求*](../../core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity)、[问责](core_05_apex_accountability_leg.md#accountability)、[可质疑性](../../core_05.035_band_accountability.md#contestability)、[透明](../../core_05.050_band_oversight.md#transparency)、[可审计性](../../core_05.050_band_oversight.md#auditability)、[系统俘获](../../core_05.040_band_continuity.md#system-capture)，以及监督测量族。
 

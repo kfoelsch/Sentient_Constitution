@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [அத்தியாயம் ஐந்து திசைகாட்டி](core_05__definitions_home.md#அததயயம-ஐநத-தசகடடயம-வரயற-வரபடமம); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims); கோட்பாட்டு-அடுக்கு விளக்கம் [முகவுரை §1](core_00_preamble.md#flourishing)-இல்.
-- கீழ்வழி: கோட்பாடுகள்: [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 பேச்சுவார்த்தைக்கு உட்படாத கோட்பாட்டுக் கட்டுப்பாடுகள்: பாதுகாப்பும் உண்மையும்](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 நம்பிக்கை](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 அரசியலமைப்பு விளைவுக் கூற்றுக் கட்டுப்பாடு](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [அரசியலமைப்பு நோக்கச் சிதைவு](#flourishing-aim-decomposition); [அத்தியாயம் ஐந்து திசைகாட்டியின்படி](core_05__definitions_home.md#அததயயம-ஐநத-தசகடடயம-வரயற-வரபடமம) **செழிப்பு** முதன்மை நோக்கமாக இருக்கும் நான்மப் பட்டைக் கோப்புகள்.
+- கீழ்வழி: கோட்பாடுகள்: [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md); [§3 பேச்சுவார்த்தைக்கு உட்படாத கோட்பாட்டுக் கட்டுப்பாடுகள்: பாதுகாப்பும் உண்மையும்](core_01_a_values_principles.md); [§4 நம்பிக்கை](core_01_a_values_principles.md); [§11.1.5 அரசியலமைப்பு விளைவுக் கூற்றுக் கட்டுப்பாடு](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [அரசியலமைப்பு நோக்கச் சிதைவு](#flourishing-aim-decomposition); [அத்தியாயம் ஐந்து திசைகாட்டியின்படி](core_05__definitions_home.md#அததயயம-ஐநத-தசகடடயம-வரயற-வரபடமம) **செழிப்பு** முதன்மை நோக்கமாக இருக்கும் நான்மப் பட்டைக் கோப்புகள்.
 - இதனுடன் படிக்க: [நல்வாழ்வு](../../core_05.040_band_continuity.md#wellbeing), [பாதுகாப்பு (கட்டுப்பாடு)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [நம்பகத்தன்மை](../../core_05.040_band_continuity.md#trustworthiness), [பொருளுள்ள செயல்திறன்](../../core_05.055_band_participation.md#meaningful-agency), [பதிலீட்டு விலகல்](../../core_05.050_band_oversight.md#proxy-divergence), [அமைப்புக் கைப்பற்றுதல்](../../core_05.040_band_continuity.md#system-capture), [தொடர்ச்சி (அரசியலமைப்பு நோக்கம்)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (இணை நோக்கம் — எதையும் மற்றதன் செலவில் பின்தொடரக் கூடாது), [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிடப்பட்டது (இந்த நோக்கத்தின் சட்டபூர்வக் கட்டமைப்பு — ஐந்தாவது கட்டுமானத் துண்டு அல்ல), மற்றும் செழிப்பு அளவீட்டுக் குடும்பம்.
 
 </details>
@@ -48,13 +48,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - [அரசியலமைப்பு நான்மத்தின்](core_00_preamble.md#constitutional-tetrad) கீழ், [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிட்டுத் தீர்ப்பிடுங்கள்.
-  - கூறப்பட்ட செழிப்பு முடிவுகளை [உறுப்பு](#flourishing-aim-decomposition) நிபந்தனைகளுக்கும் உணர்வுள்ளோர் உண்மையில் அனுபவிக்கும் விளைவுகளுக்கும் கட்டுங்கள், அத்தியாயம் நான்கு மற்றும் [அத்தியாயம் ஒன்று §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) கீழ்.
+  - கூறப்பட்ட செழிப்பு முடிவுகளை [உறுப்பு](#flourishing-aim-decomposition) நிபந்தனைகளுக்கும் உணர்வுள்ளோர் உண்மையில் அனுபவிக்கும் விளைவுகளுக்கும் கட்டுங்கள், அத்தியாயம் நான்கு மற்றும் [அத்தியாயம் ஒன்று §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) கீழ்.
   - எப்போதும் [தொடர்ச்சி (அரசியலமைப்பு நோக்கம்)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) உடன் படியுங்கள்: நீண்டகால நிலைத்தன்மை, மீள்திறன், அல்லது சூழலியல் முழுமையை முன்னறியத்தக்க வகையில் பலவீனப்படுத்தும் குறுகிய கால ஆதாயங்கள், இரு நோக்கங்களும் ஒன்றாகத் தீர்ப்பிடப்படும்போது **செழிப்பை** தோல்வியுறச் செய்கின்றன.
 <a id="flourishing-constitutional-c"></a>
 - C: இணக்கமற்றது எப்போது:
   - ஒரு கட்டுமானத் துண்டு உச்சப்படுத்தப்படும்போது உண்மை, பாதுகாப்பு, நம்பகத்தன்மை, அல்லது செயல்திறன் காலி செய்யப்படும்;
   - செழிப்புக் கூற்றுகளை அத்தியாயம் நான்கின் கீழ் அரசியலமைப்பு விளைவுகளுக்குத் தடமறிய முடியாது; அல்லது
-  - **செழிப்பு** [அத்தியாயம் ஒன்று §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) கீழ் தெளிவான அனுமதி இல்லாமல் [தொடர்ச்சி (அரசியலமைப்பு நோக்கம்)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)ஐப் பொருள்ரீதியாகத் தோற்கடிக்கும் விதத்தில் பின்தொடரப்படும்.
+  - **செழிப்பு** [அத்தியாயம் ஒன்று §6](core_01_b_interaction_interpretation.md) கீழ் தெளிவான அனுமதி இல்லாமல் [தொடர்ச்சி (அரசியலமைப்பு நோக்கம்)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)ஐப் பொருள்ரீதியாகத் தோற்கடிக்கும் விதத்தில் பின்தொடரப்படும்.
 
 ---
 

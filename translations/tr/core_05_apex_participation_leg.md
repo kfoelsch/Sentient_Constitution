@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [Beşinci Bölüm pusulası](core_05__definitions_home.md#beşinci-bölüm-pusulası-ve-tanım-haritası); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) (katılım bacağı; [maddi pay](core_00_preamble.md#material-stake) ölçeklemesi); [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims); birincil amaç [Gelişim](core_00_preamble.md#flourishing).
-- Aşağı: İlkeler: [Önsöz §1 Model](core_00_preamble.md#the-model); [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 Anayasal sonuç iddiaları disiplini](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Etkilenen Tarafların Sistem Katılımı](../../core_05.055_band_participation.md#stakeholder-status-and-weight) Etkilenen Tarafların Sistem Katılımı katmanının uygulandığı yerde; [Dörtlü bacağı ayrıştırması](#participation-tetrad-leg-decomposition); Katılım bantındaki yaprak tanımlar [core_05_band_participation.md](../../core_05.055_band_participation.md)de.
+- Aşağı: İlkeler: [Önsöz §1 Model](core_00_preamble.md#the-model); [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md); [§11.1.5 Anayasal sonuç iddiaları disiplini](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Etkilenen Tarafların Sistem Katılımı](../../core_05.055_band_participation.md#stakeholder-status-and-weight) Etkilenen Tarafların Sistem Katılımı katmanının uygulandığı yerde; [Dörtlü bacağı ayrıştırması](#participation-tetrad-leg-decomposition); Katılım bantındaki yaprak tanımlar [core_05_band_participation.md](../../core_05.055_band_participation.md)de.
 - Birlikte oku: [Anlamlı eylem yetisi](../../core_05.055_band_participation.md#meaningful-agency), [İtiraz edilebilirlik](../../core_05.035_band_accountability.md#contestability) (katılım/hesap verebilirlik sınırı), [Erişilebilirlik](../../core_05.055_band_participation.md#accessibility), [Maddi adillik](../../core_05.055_band_participation.md#substantive-fairness), [Bağlayıcı etkilenen taraf seçimi](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [Zamanındalık](core_05_apex_timeliness_leg.md#timeliness-constitutional) (zamanında katılım), [Sınıflamaya ölçeklenmiş yönetişim](../../core_05.050_band_oversight.md#classification-scaled-governance), ve Katılım ölçüm ailesi.
 
 </details>
@@ -61,7 +61,7 @@
     - [Maddi adillik](../../core_05.055_band_participation.md#substantive-fairness);
     - [Etkilenen taraf ağırlığı](../../core_05.055_band_participation.md#stakeholder-weight);
     - [Sistem ele geçirmesi](../../core_05.040_band_continuity.md#system-capture); ve
-    - [Birinci Bölüm §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [Birinci Bölüm §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: Uyumsuz olduğunda:
   - yapısal dışlama vardır;

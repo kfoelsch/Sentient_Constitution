@@ -38,11 +38,11 @@ class HeadingRuninEchoTests(unittest.TestCase):
 
     def test_flags_label_that_adds_only_a_generic_word(self) -> None:
         text = (
-            "#### 11.2 Segregation of Duties\n\n"
-            "**Segregation-of-duties principle.** Oversight requires "
+            "#### 11.2 Separation of Duties\n\n"
+            "**Separation-of-duties principle.** Oversight requires "
             "functional independence between action and its checking.\n"
         )
-        self.assertEqual(self._labels(text), ["Segregation-of-duties principle"])
+        self.assertEqual(self._labels(text), ["Separation-of-duties principle"])
 
     def test_flags_label_covering_part_of_a_compound_heading(self) -> None:
         text = (

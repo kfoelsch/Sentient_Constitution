@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제5장 나침반](core_05__definitions_home.md#제5장-나침반과-정의-지도); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) (감독 다리; [실질 이해관계](core_00_preamble.md#material-stake) 세기 조절); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); 일차 목적 [번영](core_00_preamble.md#flourishing).
-- 하류: 원칙: [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [사원(四元) 다리 분해](#oversight-tetrad-leg-decomposition); [core_05_band_oversight.md](../../core_05.050_band_oversight.md)의 감독 띠 잎 정의.
+- 하류: 원칙: [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [사원(四元) 다리 분해](#oversight-tetrad-leg-decomposition); [core_05_band_oversight.md](../../core_05.050_band_oversight.md)의 감독 띠 잎 정의.
 - 무리 구성 요소: [거버넌스 구조, 감독, 의존, 분권, 집중, 시장 구조, 출구 경로 완전성](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - 함께 읽기: [*실질 영향, 실질성 인정, 분류에 맞춰 세기 조절된 거버넌스, 감독, 능력 요건*](../../core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity), [책무](core_05_apex_accountability_leg.md#accountability), [다툴 수 있음](../../core_05.035_band_accountability.md#contestability), [투명](../../core_05.050_band_oversight.md#transparency), [감사 가능성](../../core_05.050_band_oversight.md#auditability), [체계 포획](../../core_05.040_band_continuity.md#system-capture), 그리고 감독 측정 가족.
 

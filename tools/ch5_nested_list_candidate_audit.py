@@ -97,7 +97,7 @@ CH6_RIGHTS: tuple[str, ...] = (
 CH7_PARTS: tuple[str, ...] = ("core_07.000_charters.md",)
 
 CH8_PARTS: tuple[str, ...] = (
-    "core_08.000_functional_independence_segregation_of_duties.md",
+    "core_08.000_functional_independence_separation_of_duties.md",
 )
 
 CH9_PARTS: tuple[str, ...] = (

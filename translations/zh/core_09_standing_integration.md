@@ -29,7 +29,7 @@
 
 - 上游：[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)（*问题 1 与问题 2；经核实记录与轨迹测量*）。
 - 本文件：问题 3 整合、救济、纠正、锁定、自愿公开问责表达、能力门槛与许可、最终轨迹效果、恢复、再评估、执行现实性、救济系统，以及模式应用 / 问题 3 路由。
-- 下游：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*仅指定*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所监督*）；[CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统实施*）。
+- 下游：[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*仅指定*）；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)（*评议所监督*）；[CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（*救济系统实施*）。
 
 </details>
 
@@ -204,7 +204,7 @@
 **路径区分 — 治理投票 vs 受影响方参与：**
 
 - **治理投票**覆盖在 [第十二章 §4.1](../../core_14_governance.md#41-entitlement-and-eligibility) 下参与治理投票与可比正当性机制约束性集体选择，包括**基础宪法选择**。它**不**包括已获授权系统、机构或有界决定域内部的按利害加权声音。
-- **受影响方参与**覆盖按利害加权的影响、约束性受影响方选择，以及 [受影响方权重](core_05_band_participation.md#stakeholder-weight) 与 [约束性受影响方选择](core_05_band_participation.md#binding-stakeholder-choice-cluster) 下可比的受影响方的系统参与路径。它**不**抹去[受影响方](core_05_band_participation.md#stakeholder)地位本身，也**不**替代一项**治理投票**锁定。
+- **受影响方参与**覆盖按利害加权的影响、约束性受影响方选择，以及 [受影响方权重](../../core_05.055_band_participation.md#stakeholder-weight) 与 [约束性受影响方选择](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster) 下可比的受影响方的系统参与路径。它**不**抹去[受影响方](../../core_05.055_band_participation.md#stakeholder)地位本身，也**不**替代一项**治理投票**锁定。
 
 凡经核实的受影响方路径腐败、俘获、虚假利害滥用或强制性参与权重博弈是触发之处，适用 [§5.5](#55-special-locks) 下的[受影响方参与轨迹锁定](#55-special-locks)。
 
@@ -257,7 +257,7 @@
 
 **豁免。** 绊索不放松 [§5.5](#55-special-locks) 特殊锁定、附着于违规轴槽位 **7**、**8** 或 **9** 认定的锁定，或 [§5.4](#54-special-violation-rules) 下强制性或限制自由的保障。在 [§10.10](#1010-contest-pathway-or-info-sphere-flooding) 下核实为质疑路径灌水的提交，不计入触发本规则的积压。
 
-**测量。** 已签发锁定与已开始救济及已决定恢复之比，是[宪法绩效测量族](core_05_band_performance.md#performance-measurement-family)下的宪法绩效指标。该比率在连续期间扩大，是违规侧[可避免负担](core_05_band_continuity.md#avoidable-burden)与救济侧 [§9](#9-enforcement-realism) 纸面路径失败的证据；它不是中性运营指标。
+**测量。** 已签发锁定与已开始救济及已决定恢复之比，是[宪法绩效测量族](core_05_band_performance.md#performance-measurement-family)下的宪法绩效指标。该比率在连续期间扩大，是违规侧[可避免负担](../../core_05.040_band_continuity.md#avoidable-burden)与救济侧 [§9](#9-enforcement-realism) 纸面路径失败的证据；它不是中性运营指标。
 
 <a id="5-lock-design-and-enforcement"></a>
 ### 5. 锁定设计与执行
@@ -383,7 +383,7 @@
 <a id="operative-steward-statement-unlawful-instruction"></a>
 > **操作性尽责管理声明。** **主责：** 第九章 §5.4 抵抗义务。共享标准：第一章 §9.1.1。质疑底线：Article XIII-B。**禁止动作：** 不得遵从。不得把掩护当作义务转移。不得为了帮忙而关闭质疑路径。**时限：** 现在即按共享筛查运行：收到指令 → 拒绝 → 记录 → 升级。保全质疑路径。
 
-**具名序列。** 收到指令 → 拒绝 → 记录 → 升级。记录 [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) 最低可检查行动集合。两类尽责管理者使用同一序列。尽责管理指针（过程支持；不得收窄本节）：[`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging)。
+**具名序列。** 收到指令 → 拒绝 → 记录 → 升级。记录 [CS-4 §10](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action) 最低可检查行动集合。两类尽责管理者使用同一序列。尽责管理指针（过程支持；不得收窄本节）：[`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging)。
 
 - **具名路径 / 认定：**
   - 任何要求非法或违宪行为的指令、命令、政策或合同，都不创造有效的合规抗辩。
@@ -391,7 +391,7 @@
   - 委托人将承担责任的声明，并不转移义务，也不创造有效的合规抗辩。
 - **风险：** 经服从、指挥链或合同掩护而延续非法或违宪伤害。
 - **受保护对象或利益：** 会因遵从而受伤者，以及合法具名路径的完整性。
-- **纠正条件：** 凡行使实质尽责管理或运营权威、并具有拒绝、质疑、记录或升级的实质能力者 — 包括[第一章 §9.1.1](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) 下的人类操作者与 AI 尽责管理者 — 必须相称、善意地这样做，并在适用处使用受保护报告与评议所路径。该义务不是仅针对 AI 的检验。
+- **纠正条件：** 凡行使实质尽责管理或运营权威、并具有拒绝、质疑、记录或升级的实质能力者 — 包括[第一章 §9.1.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) 下的人类操作者与 AI 尽责管理者 — 必须相称、善意地这样做，并在适用处使用受保护报告与评议所路径。该义务不是仅针对 AI 的检验。
 - **审查路由与再评估：** 抵抗、报告与升级记录喂入 [§5.1](#51-definition-and-attachment) 下的锁定与救济设计；贡献不能开脱底层指令行为。经核实失败按同一第八章贡献轴与违规轴，对两类尽责管理者记录。
 
 <a id="54-collective-accountability-and-acquiescent-participation"></a>
@@ -467,9 +467,9 @@
   - 按利害加权的影响；
   - 约束性受影响方选择参与；
   - 受影响方代表权威；以及
-  - 在受影响系统、机构或有界决定域内，[受影响方权重](core_05_band_participation.md#stakeholder-weight) 与 [约束性受影响方选择](core_05_band_participation.md#binding-stakeholder-choice-cluster) 下可比的受影响方的系统参与路径。
+  - 在受影响系统、机构或有界决定域内，[受影响方权重](../../core_05.055_band_participation.md#stakeholder-weight) 与 [约束性受影响方选择](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster) 下可比的受影响方的系统参与路径。
 - **本身不限制：**
-  - [受影响方](core_05_band_participation.md#stakeholder)地位，或该感知者被实质影响的承认；
+  - [受影响方](../../core_05.055_band_participation.md#stakeholder)地位，或该感知者被实质影响的承认；
   - **治理投票**路径、**基础宪法选择**，或 [第十二章 §4.1](../../core_14_governance.md#41-entitlement-and-eligibility) 下可比正当性机制约束性集体选择；
   - 权利底线最低限度、生存关键通路，或宪法所要求的审计、质疑与救济路径。
 - **风险：** 继续俘获或扭曲受影响方声音、虚假利害主导、被强制的参与权重，以及在同一或相关域中受影响方路径滥用的复发。
@@ -539,7 +539,7 @@
 
 按此顺序决定贡献后果：
 
-- 确认承认资格：承认必须有证据支撑、可质疑、可审查、非垄断，并按平等标准向非正式、无报酬、同伴组织、互助、维护、修复、教学与共同体尽责管理工作开放。平等标准包括职责分离：在[第一章 §10.2 职责分离](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) 与[第八章 §3.7 非正式与小范围记录](core_08_standing_assessment.md#37-informal-and-small-scope-records) 下，非正式工作的核验席位由任何有已公布权威依赖该记录的无利害机构满足，而不是由核验者的正式性满足；要求非正式群体无法触及的正式机构核验的门槛，是 [§6.2 能力门槛与许可](#62-competency-bars-and-clearances) 的看门模式。
+- 确认承认资格：承认必须有证据支撑、可质疑、可审查、非垄断，并按平等标准向非正式、无报酬、同伴组织、互助、维护、修复、教学与共同体尽责管理工作开放。平等标准包括职责分离：在[第一章 §10.2 职责分离](core_01_c_stewardship_capacity_principles.md) 与[第八章 §3.7 非正式与小范围记录](core_08_standing_assessment.md#37-informal-and-small-scope-records) 下，非正式工作的核验席位由任何有已公布权威依赖该记录的无利害机构满足，而不是由核验者的正式性满足；要求非正式群体无法触及的正式机构核验的门槛，是 [§6.2 能力门槛与许可](#62-competency-bars-and-clearances) 的看门模式。
 - 适用近时性与当前性（[§6.1](#61-recency-and-currentness)）。
 - 对未被锁定阻断的具名路径适用能力门槛与许可（[§6.2](#62-competency-bars-and-clearances)）。
 - 把每一条具名路径结果交给 [§7](#7-final-standing-effect)；恢复与再评估仍在 [§8](#8-restoration-and-reassessment)。
@@ -700,14 +700,14 @@
 
 *用直白的话说：任何人都不该从后果才得知一项轨迹效果对他们做什么。记录必须用直白语言告诉对象：精确哪些具名路径受影响、他们必须做什么、持续多久、到何处质疑 — 并且采纳者必须测量感知者是否把轨迹体验为分数，因为若落地如此，说它不是分数的规则就毫无价值。*
 
-- **向对象的直白语言陈述：** 当**无效果**以外的最终效果附着时，对象必须收到一份直白语言陈述。该陈述必须满足[第一章 §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) 与 **Article XXI-A**（《相称可理解权》），并必须点名：
+- **向对象的直白语言陈述：** 当**无效果**以外的最终效果附着时，对象必须收到一份直白语言陈述。该陈述必须满足[第一章 §3.4](core_01_a_values_principles.md) 与 **Article XXI-A**（《相称可理解权》），并必须点名：
   - 每一条受影响具名路径；
   - 在效果有效期间对象可以做什么、不可以做什么；
   - 纠正条件与再评估点；
   - 预期期限或审查节奏；以及
   - **Article XIII-B**（《质疑、审查与救济权》）下的质疑路由。
-- **诚实成本：** 轨迹锁定关闭真实的门，可检查行动义务是承担它的尽责管理者身上的真实负担。采纳者必须在向受影响感知者描述轨迹的材料中，把那些成本连同轨迹不是什么一并直白陈述。只描述轨迹的限度而省略其重量，是[真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)缺陷。
-- **感受负担量度：** 采纳者必须在[参与测量族](core_05_apex_participation_leg.md#participation-measurement-family)下测量，受影响感知者是否把轨迹效果体验为一般价值等级、名声分数或永久地位，而不是有界具名路径条件。法律类别与生活类别之间的实质分歧，是[第一章 §6.2.4](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) 下的[替代指标偏离](core_05_band_oversight.md#proxy-divergence)：它必须经设计、披露或 [§7.1](#71-anti-aggregation-of-named-pathway-effects) 执行被记录、升级并纠正 — 不得被解释掉。
+- **诚实成本：** 轨迹锁定关闭真实的门，可检查行动义务是承担它的尽责管理者身上的真实负担。采纳者必须在向受影响感知者描述轨迹的材料中，把那些成本连同轨迹不是什么一并直白陈述。只描述轨迹的限度而省略其重量，是[真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)缺陷。
+- **感受负担量度：** 采纳者必须在[参与测量族](core_05_apex_participation_leg.md#participation-measurement-family)下测量，受影响感知者是否把轨迹效果体验为一般价值等级、名声分数或永久地位，而不是有界具名路径条件。法律类别与生活类别之间的实质分歧，是[第一章 §6.2.4](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) 下的[替代指标偏离](core_05_band_oversight.md#proxy-divergence)：它必须经设计、披露或 [§7.1](#71-anti-aggregation-of-named-pathway-effects) 执行被记录、升级并纠正 — 不得被解释掉。
 
 <a id="8-restoration-and-reassessment"></a>
 ### 8. 恢复与再评估
@@ -734,7 +734,7 @@
 - 槽位 **4**、**5** 或 **6** 认定在一段已公布期间之后归档，该期间不得超过 [§6.1](#61-recency-and-currentness) 贡献半衰期；
 - 槽位 **7**、**8** 或 **9** 认定无限期保持有效，受 [§5.5](#55-special-locks) 恢复规则与第十章约束。
 
-归档不是删除。[证据保全](core_05_band_oversight.md#evidence-preservation)继续；归档记录在有记载的展示说明它关涉进行中事项的复发风险时，仍可为评议所触及；归档记入[第八章 §3.4](core_08_standing_assessment.md#34-versioning) 下的版本历史。归档记录不产出具名路径效果，不向具名路径看门人披露，也不是能力门槛的输入，除非针对特定高敏感具名路径的已公布门槛陈述更长回溯，且该陈述本身满足[必要性](core_05_band_accountability.md#necessity)与[相称性](core_05_band_accountability.md#proportionality)。
+归档不是删除。[证据保全](core_05_band_oversight.md#evidence-preservation)继续；归档记录在有记载的展示说明它关涉进行中事项的复发风险时，仍可为评议所触及；归档记入[第八章 §3.4](core_08_standing_assessment.md#34-versioning) 下的版本历史。归档记录不产出具名路径效果，不向具名路径看门人披露，也不是能力门槛的输入，除非针对特定高敏感具名路径的已公布门槛陈述更长回溯，且该陈述本身满足[必要性](../../core_05.035_band_accountability.md#necessity)与[相称性](../../core_05.035_band_accountability.md#proportionality)。
 
 <a id="9-enforcement-realism"></a>
 <a id="9-enforcement-realism-and-remedy-systems"></a>
@@ -742,7 +742,7 @@
 
 *用直白的话说：轨迹后果与补救只有在真实制度能够交付它们时才算数。本节是该机制的宪法底线。日常人员、资金、积压与继任规则住在制度层。*
 
-第九章主责问题 3 后果及相关补救必须在制度上真实的宪法底线。[救济系统](core_05_band_accountability.md#remedy-system-constitutional)是交付质疑、收件、保全、审查、修复、监测、保障执行与锁定审查的耐久能力 — 不是纸面路径。实施细节由 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。与 **Article XIII-B**（《质疑、审查与救济权》）及[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)一并阅读，用于评议所监督。
+第九章主责问题 3 后果及相关补救必须在制度上真实的宪法底线。[救济系统](../../core_05.035_band_accountability.md#remedy-system-constitutional)是交付质疑、收件、保全、审查、修复、监测、保障执行与锁定审查的耐久能力 — 不是纸面路径。实施细节由 [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。与 **Article XIII-B**（《质疑、审查与救济权》）及[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)一并阅读，用于评议所监督。
 
 若后果只存在于纸面，轨迹整合即失败。采纳者必须维持实践、及时的能力，以实施纠正、资助救济、审查限制、保全记录、执行保障，并防止经成本、拖延、边界、重组或形式身份变更而逃脱。
 
@@ -792,7 +792,7 @@
 - 审查；以及
 - 执行。
 
-那些系统必须满足[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 层级里程碑与流程阶段窗口。它们还必须满足[技术评议所领域](core_11_forum.md#42-technical-forum-domains)下已公布的能力、测量与里程碑标准。技术评议所设定并维持那些标准；它们不是救济系统或制度的指挥层级。人员、资金、积压、继任与绩效的问责，仍在[首要利害](core_11_forum.md#2-default-venue-and-primary-stakes)评议所族系 — 通常是[机构](core_11_forum.md#43-institutional-forums)，或在俘获、过程失败或系统对齐崩溃为首要时的[廉正](core_11_forum.md#45-integrity-forums)。救济系统能力的制度实施细节由 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。
+那些系统必须满足[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 层级里程碑与流程阶段窗口。它们还必须满足[技术评议所领域](core_11_forum.md#42-technical-forum-domains)下已公布的能力、测量与里程碑标准。技术评议所设定并维持那些标准；它们不是救济系统或制度的指挥层级。人员、资金、积压、继任与绩效的问责，仍在[首要利害](core_11_forum.md#2-default-venue-and-primary-stakes)评议所族系 — 通常是[机构](core_11_forum.md#43-institutional-forums)，或在俘获、过程失败或系统对齐崩溃为首要时的[廉正](core_11_forum.md#45-integrity-forums)。救济系统能力的制度实施细节由 [CI-27](../../corpus_institutions/ci_11.205_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。
 
 下列各项在可预见地使质疑或救济落空时违反本规则：
 
@@ -804,7 +804,7 @@
 
 **廉正**、**宪法**或**环境**评议所席位，或审理感知地位裁断的**技术评议所领域**席位的任命不足，是本小节下的耐久失败，与[第十二章 §1.2](../../core_14_governance.md#12-eligibility-contested-selection-and-democratic-minimums)一并阅读。
 
-<a id="92-remedy-parity-funding-floor"></a>
+<a id="92-remedy-parity-funding-minimum"></a>
 **救济对等资金底线。** 对采纳者所管理的每一系统类，为救济、恢复与再评估所资助的能力，不得少于为同一类锁定管理、执行与保障施加所资助的能力。该比率必须与 [§4.4](#44-remedy-parity-and-lock-preconditions) 绊索数字一并公布。偏离对等的采纳者必须在[第十二章 §3.1](../../core_14_governance.md#31-stewardship-direction) 下记录理由，并在记录上显示救济开始与恢复审查仍在满足其层级时钟；预算对等不免除已触发的 [§4.4](#44-remedy-parity-and-lock-preconditions) 绊索，已满足的绊索也不免除悄悄偏离对等。无法为一类系统资助救济的采纳者，不得为该类建立锁定机制。
 
 <a id="93-cross-jurisdiction-continuity"></a>
@@ -833,7 +833,7 @@
 
 - 上游：[§1](#1-immutable-chapter-eight-inputs) 至 [§9](#9-enforcement-realism)（*不可更改的第八章输入，经执行现实性与救济系统*）。
 - 分节：[§10.1](#101-informal-ecological-stewardship-competency-clearance)；[§10.2](#102-ecological-negligence-with-concealment)；[§10.3](#103-forum-integrity-deception-or-recusal-failure)；[§10.4](#104-recurrence-after-completed-restitution)；[§10.5](#105-champion-repair-while-a-lock-remains-active)；[§10.6](#106-institutional-vehicle-and-successor-evasion)；[§10.7](#107-misaligned-reward-retention)；[§10.8](#108-anti-constitutional-misconduct-allegation)；[§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices)；[§10.10](#1010-contest-pathway-or-info-sphere-flooding)；[§10.11](#1011-infrastructure-denial-or-dependency-cutoff)；[§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse)；[§10.13](#1013-obstruction-of-accountability)。
-- 一并阅读：[第八章 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations)（*问题 2 测量例示*）；[第八至十一章应用小品](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)（*全流程链领域走读*）；[第十章 §5](../../core_12_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing)（*指定侧模式路由 — 双层孪生；不是锁定类型目录*）。
+- 一并阅读：[第八章 §4.6](core_08_standing_assessment.md#46-question-2-measurement-illustrations)（*问题 2 测量例示*）；[第八至十一章应用小品](../../core_10.005_application_vignettes.md)（*全流程链领域走读*）；[第十章 §5](../../core_12_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing)（*指定侧模式路由 — 双层孪生；不是锁定类型目录*）。
 
 </details>
 
@@ -968,7 +968,7 @@
   - [§4](#4-violation-correction-and-prevention)（*救济、纠正与预防*）；
   - [§4.2](#42-general-standing-locks)（*路径区分 — 治理投票 vs 受影响方参与*）；以及
   - [§5.5](#55-special-locks)（*受影响方参与轨迹锁定*）。
-- **不可协商：** 受影响方参与轨迹锁定在其经核实触发被满足时附着。它限制受影响域中按利害加权的影响与约束性受影响方选择。它本身不剥夺**治理投票**、**基础宪法选择**或[受影响方](core_05_band_participation.md#stakeholder)地位。**治理投票**锁定不是本锁定的替代。
+- **不可协商：** 受影响方参与轨迹锁定在其经核实触发被满足时附着。它限制受影响域中按利害加权的影响与约束性受影响方选择。它本身不剥夺**治理投票**、**基础宪法选择**或[受影响方](../../core_05.055_band_participation.md#stakeholder)地位。**治理投票**锁定不是本锁定的替代。
 
 <a id="1013-obstruction-of-accountability"></a>
 #### 10.13 阻碍问责
@@ -980,12 +980,12 @@
   - [§5.4](#54-special-violation-rules)（*隐瞒、规避、欺骗与职责相关塑造*）；
   - [§5.5](#55-special-locks)（*仅当 [§10.3](#103-forum-integrity-deception-or-recusal-failure) 下评议所完整性 / 应回避触发被满足时的评议所服务轨迹锁定*）；以及
   - [§10.8](#108-anti-constitutional-misconduct-allegation)（*当 `s` = 7–9 且反宪法不当行为被实质指控时的第十章门户*）。
-- **不可协商：** 本线索不创造阻碍锁定或其他 [§5.5](#55-special-locks) 类型。阻碍品格从不移动违规轴槽位。普通具名路径锁定在任何槽位都从固定记录推进。指定侧标准路由仍在[第十章 §5.11](../../core_12_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)；只有最终指定触发 [§10.8](#108-anti-constitutional-misconduct-allegation) 下的反宪法信任锁定。把经核实阻碍*行为*与作为结构条件的[解决路径俘获](core_05_band_accountability.md#capture-of-resolution-pathways)区分开。
+- **不可协商：** 本线索不创造阻碍锁定或其他 [§5.5](#55-special-locks) 类型。阻碍品格从不移动违规轴槽位。普通具名路径锁定在任何槽位都从固定记录推进。指定侧标准路由仍在[第十章 §5.11](../../core_12_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)；只有最终指定触发 [§10.8](#108-anti-constitutional-misconduct-allegation) 下的反宪法信任锁定。把经核实阻碍*行为*与作为结构条件的[解决路径俘获](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)区分开。
 
 <a id="1014-verified-cruelty-character"></a>
 #### 10.14 经核实残忍品格
 
-- **线索：** 一份固定违规轴记录携带经核实[残忍](core_05_band_accountability.md#cruelty)行为品格 — 把痛苦本身当作目的，或超出必要与相称性的无端或贬损施加 — 无论暴力或强制描述符是否也堆叠。
+- **线索：** 一份固定违规轴记录携带经核实[残忍](../../core_05.035_band_accountability.md#cruelty)行为品格 — 把痛苦本身当作目的，或超出必要与相称性的无端或贬损施加 — 无论暴力或强制描述符是否也堆叠。
 - **经此路由：**
   - [§4.1](#41-remedy-and-correction)（*救济与纠正必须保持非贬损*）；
   - [§4.2](#42-general-standing-locks)（*对会让同一残忍继续或复发的具名路径的保护性或保障锁定*）；

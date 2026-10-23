@@ -38,7 +38,7 @@
 
 - ঊর্ধ্ব: নীতি: [অধ্যায় দুই, §1 — উদ্দেশ্য ও ভূমিকা](core_02_definition_structure.md#1-উদদশয-ও-ভমক); [অধ্যায় দুই, §2 সংজ্ঞা সততা প্রয়োজনীয়তা](core_02_definition_structure.md#2-সজঞ-সতত-পরযজনযত)।
 - অধঃ: [অধ্যায় তিন, ধারা 2 — পর্যবেক্ষণযোগ্য ব্যবস্থা আচরণ থেকে অ-অনুপালন](#2-পরযবকষণযগয-বযবসথ-আচরণ-থক-অ-অনপলন); [অধ্যায় চার, ধারা 2 — সংজ্ঞা খুঁজে-পাওয়া প্রয়োজনীয়তা](core_04_burden_traceability_verification.md#2-সজঞ-খজ-পওয-পরযজনযত); [অধ্যায় চার, ধারা 5 — অনুপালন প্রমাণ মান](core_04_burden_traceability_verification.md#5-অনপলন-পরমণ-মন); [অধ্যায় দশ — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)।
-- সঙ্গে পড়ুন: [অধ্যায় এক, ধারা 4.2 — সত্য (জ্ঞানতাত্ত্বিক সততা বন্ধন)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — ঘোষিত গঠন বা অভিপ্রায়ের বদলে পর্যবেক্ষণযোগ্য আচরণের উপর ভিত্তি করে ব্যাখ্যা সংজ্ঞা-সততা স্তরে সাংবিধানিক সত্য বন্ধনকে কার্যকরী করে।
+- সঙ্গে পড়ুন: [অধ্যায় এক, ধারা 4.2 — সত্য (জ্ঞানতাত্ত্বিক সততা বন্ধন)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) — ঘোষিত গঠন বা অভিপ্রায়ের বদলে পর্যবেক্ষণযোগ্য আচরণের উপর ভিত্তি করে ব্যাখ্যা সংজ্ঞা-সততা স্তরে সাংবিধানিক সত্য বন্ধনকে কার্যকরী করে।
 
 </details>
 
@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [অধ্যায় তিন, ধারা 2 — পর্যবেক্ষণযোগ্য ব্যবস্থা আচরণ থেকে অ-অনুপালন](#2-পরযবকষণযগয-বযবসথ-আচরণ-থক-অ-অনপলন); [অধ্যায় দুই, §2 সংজ্ঞা সততা প্রয়োজনীয়তা](core_02_definition_structure.md#2-সজঞ-সতত-পরযজনযত)।
-- অধঃ: [অধ্যায় চার, ধারা 2 — সংজ্ঞা খুঁজে-পাওয়া প্রয়োজনীয়তা](core_04_burden_traceability_verification.md#2-সজঞ-খজ-পওয-পরযজনযত); [অধ্যায় নয় — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [অধ্যায় দশ — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অধ্যায় এগারো — প্রস্থিতি প্রভাব ও একীকরণ](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 সাংবিধানিক কম্পাস ও গুচ্ছ মানচিত্র](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
+- অধঃ: [অধ্যায় চার, ধারা 2 — সংজ্ঞা খুঁজে-পাওয়া প্রয়োজনীয়তা](core_04_burden_traceability_verification.md#2-সজঞ-খজ-পওয-পরযজনযত); [অধ্যায় নয় — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [অধ্যায় দশ — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [অধ্যায় এগারো — প্রস্থিতি প্রভাব ও একীকরণ](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 সাংবিধানিক কম্পাস ও গুচ্ছ মানচিত্র](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
 - সঙ্গে পড়ুন: [অ-অনুপালন নির্ণয় রূপরেখা](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — রূপরেখা ক্ষেত্রের প্রামাণিক O/M/A/C ঘর; [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims)।
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 পরিচালনা বন্ধন
 
-অ-অনুপালন যৌথ বাস্তবায়ন করপাসের পরিচালনা বন্ধনের বিরুদ্ধেও পাওয়া যেতে পারে। ডিফল্ট নির্ণয় রূপরেখা এবং তারা সেই নির্ণয়ে কীভাবে জোড়ে তা সেখানে সামলানো হয় — এই অধ্যায়ে নয়। দেখুন [CJS-3.1 সাংবিধানিক কম্পাস ও গুচ্ছ মানচিত্র](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
+অ-অনুপালন যৌথ বাস্তবায়ন করপাসের পরিচালনা বন্ধনের বিরুদ্ধেও পাওয়া যেতে পারে। ডিফল্ট নির্ণয় রূপরেখা এবং তারা সেই নির্ণয়ে কীভাবে জোড়ে তা সেখানে সামলানো হয় — এই অধ্যায়ে নয়। দেখুন [CJS-3.1 সাংবিধানিক কম্পাস ও গুচ্ছ মানচিত্র](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)।
 
 ---
 

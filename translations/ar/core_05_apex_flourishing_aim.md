@@ -20,7 +20,7 @@
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
 - أعلى: [بوصلة الفصل الخامس](core_05__definitions_home.md#بوصلة-الفصل-الخامس-وخريطة-التعريفات)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims)؛ شرح طبقة المبادئ في [الديباجة §1](core_00_preamble.md#flourishing).
-- أسفل: المبادئ: [§2 المقصد التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)؛ [§3 قيود المبادئ غير القابلة للمساومة: السلامة والحقيقة](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth)؛ [§4 الثقة](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)؛ [§11.1.5 انضباط ادعاءات النتائج الدستورية](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [تفكيك المقصد الدستوري](#flourishing-aim-decomposition)؛ ملفات نطاق الرباعية حيث **الازدهار** مقصد أولي بحسب [بوصلة الفصل الخامس](core_05__definitions_home.md#بوصلة-الفصل-الخامس-وخريطة-التعريفات).
+- أسفل: المبادئ: [§2 المقصد التأسيسي: العافية](core_01_a_values_principles.md)؛ [§3 قيود المبادئ غير القابلة للمساومة: السلامة والحقيقة](core_01_a_values_principles.md)؛ [§4 الثقة](core_01_a_values_principles.md)؛ [§11.1.5 انضباط ادعاءات النتائج الدستورية](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)؛ [تفكيك المقصد الدستوري](#flourishing-aim-decomposition)؛ ملفات نطاق الرباعية حيث **الازدهار** مقصد أولي بحسب [بوصلة الفصل الخامس](core_05__definitions_home.md#بوصلة-الفصل-الخامس-وخريطة-التعريفات).
 - يُقرأ مع: [العافية](../../core_05.040_band_continuity.md#wellbeing)، [السلامة (قيد)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)، [الحقيقة (قيد دستوري)](../../core_05.050_band_oversight.md#truth-constitutional-constraint)، [الجدارة بالثقة](../../core_05.040_band_continuity.md#trustworthiness)، [الوكالة ذات المعنى](../../core_05.055_band_participation.md#meaningful-agency)، [تباعد المؤشرات البديلة](../../core_05.050_band_oversight.md#proxy-divergence)، [استيلاء النظام](../../core_05.040_band_continuity.md#system-capture)، [الاستمرارية (مقصد دستوري)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (المقصد المزدوج — لا يجوز السعي إلى أي منهما على حساب الآخر)، [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) مقيسة بـ[الرهان المادي](core_00_preamble.md#material-stake) (إطار شرعية هذا المقصد — لا مكوِّن خامس)، وأسرة قياس الازدهار.
 
 </details>
@@ -47,13 +47,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - قيّم تحت [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)، مقيسًا بـ[الرهان المادي](core_00_preamble.md#material-stake).
-  - اربط نتائج الازدهار المدَّعاة بالشروط [المكوِّنة](#flourishing-aim-decomposition) وبالنواتج التي تختبرها الكائنات الواعية فعلًا، تحت الفصل الرابع و[الفصل الأول §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - اربط نتائج الازدهار المدَّعاة بالشروط [المكوِّنة](#flourishing-aim-decomposition) وبالنواتج التي تختبرها الكائنات الواعية فعلًا، تحت الفصل الرابع و[الفصل الأول §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
   - يُقرأ دائمًا مع [الاستمرارية (مقصد دستوري)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): المكاسب قصيرة الأجل التي تُضعِف على نحو متوقع الاستقرار أو المرونة أو النزاهة البيئية طويلة الأجل تُخفق **الازدهار** حين يُحكَم على المقصدين معًا.
 <a id="flourishing-constitutional-c"></a>
 - C: غير ممتثل عندما:
   - تُعظَّم لبنة بناء بينما تُفرَّغ الحقيقة أو السلامة أو الجدارة بالثقة أو الوكالة؛
   - لا يمكن تتبع ادعاءات الازدهار إلى نواتج دستورية تحت الفصل الرابع؛ أو
-  - يُسعَى إلى **الازدهار** على نحو يهزم [الاستمرارية (مقصد دستوري)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) ماديًا من دون إذن واضح تحت [الفصل الأول §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+  - يُسعَى إلى **الازدهار** على نحو يهزم [الاستمرارية (مقصد دستوري)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) ماديًا من دون إذن واضح تحت [الفصل الأول §6](core_01_b_interaction_interpretation.md).
 
 ---
 

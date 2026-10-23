@@ -12,7 +12,7 @@
 >
 > **پچھلا (اس زبان میں):** [core_05_band_integrative.md](core_05_band_integrative.md)
 >
-> **اگلا (اس زبان میں):** [core_05_band_participation.md](core_05_band_participation.md)
+> **اگلا (اس زبان میں):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 > **پڑھنے کا قوس:** آزاد اصطلاحیں → نیم آزاد → منحصر جھرمٹ Def.O1–Def.O2
 
 </details>
@@ -49,7 +49,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- ساتھ پڑھیں: [خطرہ](core_05_band_continuity.md#risk), [انحصار](core_05_band_continuity.md#dependency), and [نظام پر قبضہ](core_05_band_continuity.md#system-capture).
+- ساتھ پڑھیں: [خطرہ](../../core_05.040_band_continuity.md#risk), [انحصار](../../core_05.040_band_continuity.md#dependency), and [نظام پر قبضہ](../../core_05.040_band_continuity.md#system-capture).
 
 </details>
 
@@ -58,7 +58,7 @@
 *سادہ الفاظ میں: how a system behaves under pressure — when sentients game it, coordinate across accounts, run it at massive scale, or deliberately misuse it.*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** Operating conditions in which systems or actors behave to maximize advantage in ways that can alter [خطرہ](core_05_band_continuity.md#risk), [انحصار](core_05_band_continuity.md#dependency), or [نظام پر قبضہ](core_05_band_continuity.md#system-capture), including:
+  - **دائرے میں:** Operating conditions in which systems or actors behave to maximize advantage in ways that can alter [خطرہ](../../core_05.040_band_continuity.md#risk), [انحصار](../../core_05.040_band_continuity.md#dependency), or [نظام پر قبضہ](../../core_05.040_band_continuity.md#system-capture), including:
     - نظامی ڈھانچے کا غلط استعمال؛
     - مثالوں کے پار ہم آہنگی؛
     - high-scale deployment — volume, concurrency, or reach at which behavior or effects can differ from small-scale or ideal-lab use;
@@ -69,14 +69,14 @@
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا oversight still works under gaming, scale, coordination, and deliberate misuse — not only under ordinary or ideal-lab conditions.
 
-    **بنیادی جائزہ:** Include plausible strategies that could reasonably emerge given system incentives, access, and capabilities, read together with [خطرہ](core_05_band_continuity.md#risk) and [انحصار](core_05_band_continuity.md#dependency), covering:
+    **بنیادی جائزہ:** Include plausible strategies that could reasonably emerge given system incentives, access, and capabilities, read together with [خطرہ](../../core_05.040_band_continuity.md#risk) and [انحصار](../../core_05.040_band_continuity.md#dependency), covering:
     - غلط استعمال؛
     - ہم آহنگی؛
     - پیمانہ؛ اور
     - موافقت پذیر جواب۔
 <a id="adversarial-scaled-and-exploited-conditions-c"></a>
 - **کیا قائم رہنا چاہیے**
-  - **بنیادی ناکامی:** Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [خطرہ](core_05_band_continuity.md#risk) or masks [نظام پر قبضہ](core_05_band_continuity.md#system-capture) — including using any of the following as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation:
+  - **بنیادی ناکامی:** Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [خطرہ](../../core_05.040_band_continuity.md#risk) or masks [نظام پر قبضہ](../../core_05.040_band_continuity.md#system-capture) — including using any of the following as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation:
     - عام بے ضرر استعمال؛
     - مثالی لیبارٹری جانچ؛ یا
     - ایک بار کے غلط استعمال کے قصے۔
@@ -91,14 +91,14 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - جھرمٹ جزو: [مادیت، اثر، خطرہ، اور متبادل اشارے کی دیانت](core_05_band_oversight.md#materiality-semi-independent).
-- ساتھ پڑھیں: [مادی اثر](core_05_band_oversight.md#مادی-اثر), [شفافیت](core_05_band_oversight.md#شفافیت), and [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries).
+- ساتھ پڑھیں: [مادی اثر](core_05_band_oversight.md#مادی-اثر), [شفافیت](core_05_band_oversight.md#شفافیت), and [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries).
 
 </details>
 
 <br>
 
 - **یہ کیا ہے**
-  - **دائرے میں:** A mandatory functionality that a [نظام](core_05_band_accountability.md#system) possesses sufficient to achieve a specified outcome, independent of implementation mechanism.
+  - **دائرے میں:** A mandatory functionality that a [نظام](../../core_05.035_band_accountability.md) possesses sufficient to achieve a specified outcome, independent of implementation mechanism.
   - **دائرے سے باہر:** optional features, aspirational roadmap items, or design preferences that are not claimed as a mandatory capability for a specified outcome.
 <a id="capability-requirement-a"></a>
 - **کیسے ناپیں اور جانچیں**
@@ -111,7 +111,7 @@
     That proof must be clear enough for [شفافیت](core_05_band_oversight.md#شفافیت) and for outsiders to evaluate [مادی اثر](core_05_band_oversight.md#مادی-اثر).
 <a id="capability-requirement-c"></a>
 - **کیا قائم رہنا چاہیے**
-  - The system must demonstrably achieve the specified outcome in practice within auditable [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries).
+  - The system must demonstrably achieve the specified outcome in practice within auditable [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries).
   - **بنیادی ناکامی:** a claimed, documented, or planned capability with no demonstrated achievement of the specified outcome under the conditions in which the system is represented, authorized, or used.
 
 ---
@@ -125,7 +125,7 @@
 
 - بالائی: اصول: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — [مادی داؤ](core_00_preamble.md#material-stake) scaling.
 - جھرمٹ جزو: [مادیت، اثر، خطرہ، اور متبادل اشارے کی دیانت](core_05_band_oversight.md#materiality-semi-independent).
-- ساتھ پڑھیں: [انحصار](core_05_band_continuity.md#dependency), [مادی اثر](core_05_band_oversight.md#مادی-اثر), [خطرہ](core_05_band_continuity.md#risk), [نظام کی سرحد کی دیانت](core_05_band_continuity.md#system-boundary-integrity), and [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional).
+- ساتھ پڑھیں: [انحصار](../../core_05.040_band_continuity.md#dependency), [مادی اثر](core_05_band_oversight.md#مادی-اثر), [خطرہ](../../core_05.040_band_continuity.md#risk), [نظام کی سرحد کی دیانت](../../core_05.040_band_continuity.md#system-boundary-integrity), and [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional).
 - زیریں: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — class-scaled whole-system evaluation duty.
 
 </details>
@@ -137,8 +137,8 @@
 - **یہ کیا ہے**
   - **دائرے میں:** How hard [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional), verification, and process discipline must be — scaled to [مادی داؤ](core_00_preamble.md#material-stake), covering:
     - [مادی اثر](core_05_band_oversight.md#مادی-اثر);
-    - [انحصار](core_05_band_continuity.md#dependency); and
-    - [خطرہ](core_05_band_continuity.md#risk).
+    - [انحصار](../../core_05.040_band_continuity.md#dependency); and
+    - [خطرہ](../../core_05.040_band_continuity.md#risk).
     The system's class under *[corpus_systems.md](../../corpus_systems.md)*, CS-3 — نظام کی درجہ بندی اور ہینڈلنگ, and related rules sets that intensity.
   - **دائرے سے باہر:**
     - ordinary uniform process detail among systems that share the same real class under CS-3; or
@@ -148,7 +148,7 @@
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا oversight depth and verification burden match the system's real stake, impact, dependency, and risk — not a self-assigned low class.
 
-    **بنیادی جائزہ:** Use the real class under the implementation rules, read with [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) and [نظام کی سرحد کی دیانت](core_05_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
+    **بنیادی جائزہ:** Use the real class under the implementation rules, read with [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) and [نظام کی سرحد کی دیانت](../../core_05.040_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
     - **Class A**, **Class B**, and **Class C** — full depth, mandatory;
     - **Class L** — mandatory, but sized to the impact; and
     - **Class P** — encouraged while the system is validly **Class P**.
@@ -158,7 +158,7 @@
     - one-size-fits-all oversight that ignores real stake differences;
     - a class label that understates the system's real stake, impact, dependency, or risk;
     - running or labeling a system below what its full effects warrant; or
-    - skipping class-based duties when [مادی اثر](core_05_band_oversight.md#مادی-اثر), [انحصار](core_05_band_continuity.md#dependency), or [خطرہ](core_05_band_continuity.md#risk) require stronger governance.
+    - skipping class-based duties when [مادی اثر](core_05_band_oversight.md#مادی-اثر), [انحصار](../../core_05.040_band_continuity.md#dependency), or [خطرہ](../../core_05.040_band_continuity.md#risk) require stronger governance.
 
 ---
 
@@ -170,7 +170,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- جھرمٹ جزو: [معلوماتی کرہ](core_05_band_participation.md#info-sphere)
+- جھرمٹ جزو: [معلوماتی کرہ](../../core_05.055_band_participation.md#info-sphere)
 
 </details>
 
@@ -184,7 +184,7 @@
     - ذرائع کا تحفظ؛
     - تحقیق؛ اور
     - اشاعت۔
-    Sentients doing that work exercise the [اظہار](core_05_band_participation.md#expression-constitutional) and [اجتماع](core_05_band_participation.md#assembly-constitutional) حقوق کی تہہ, with heightened-scrutiny protection under [دفعہ V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [اظہار](../../core_05.055_band_participation.md#expression-constitutional) and [اجتماع](../../core_05.055_band_participation.md#assembly-constitutional) حقوق کی تہہ, with heightened-scrutiny protection under [دفعہ V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **دائرے سے باہر:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **کیسے ناپیں اور جانچیں**
@@ -195,11 +195,11 @@
     - ذرائع کا تحفظ؛
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [ضرورت](core_05_band_accountability.md#necessity) and [تناسب](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [ضرورت](../../core_05.035_band_accountability.md#necessity) and [تناسب](../../core_05.035_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
-  - **ثانوی ناکامی:** stretching [حسن نیت](core_05_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
+  - **ثانوی ناکامی:** stretching [حسن نیت](../../core_05.035_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **ثالثی ناکامی:** credentials, institutional status, or ordinary commercial speech used as the journalism test while newsgathering, investigation, or publication that functions as journalism is absent.
 
 ---
@@ -247,8 +247,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) (*Materiality as constitutional measurement*); اصول: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
-- ساتھ پڑھیں: [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [نظامی مادیت](core_05_band_accountability.md#systemic-materiality), and [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی).
+- زیریں: انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) (*Materiality as constitutional measurement*); اصول: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
+- ساتھ پڑھیں: [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [نظامی مادیت](../../core_05.035_band_accountability.md), and [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی).
 
 </details>
 
@@ -264,9 +264,9 @@ Implication can exist without misalignment. Misalignment always implies material
   - **بنیادی پیمائش:** انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) — threshold input for [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین).
 
     **بنیادی جائزہ:** Ask whether the conditions can produce meaningful [مادی اثر](core_05_band_oversight.md#مادی-اثر) or [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ) when you look at the whole system, not just a slice.
-  - **ثانوی پیمائش:** [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), and [نظامی مادیت](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
+  - **ثانوی پیمائش:** [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), and [نظامی مادیت](../../core_05.035_band_accountability.md) — co-measures that can defeat material classification when effects are fragmented or understated.
 
-    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے ask whether effects that look small one by one would still look small if you put them together — including system-wide [نظامی مادیت](core_05_band_accountability.md#systemic-materiality) pathways.
+    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے ask whether effects that look small one by one would still look small if you put them together — including system-wide [نظامی مادیت](../../core_05.035_band_accountability.md) pathways.
 <a id="material-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:** ignoring conditions that [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) would treat as material.
@@ -352,7 +352,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - زیریں: انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) (*Materiality as constitutional measurement*); اصول: [مادی داؤ](core_00_preamble.md#material-stake) scaling proxy; باب یکم surfaces this definition across **Safety** (**باب یکم §8.1**), **Truth** (**باب یکم §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **باب یکم §6.3.2** where **Materiality** appears in D/A/C widgets — see [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - جھرمٹ جزو: [مادیت، اثر، خطرہ، اور متبادل اشارے کی دیانت](core_05_band_oversight.md#materiality-semi-independent).
-- ساتھ پڑھیں: [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [نظامی مادیت](core_05_band_continuity.md#systemic-materiality), and [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری).
+- ساتھ پڑھیں: [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [نظامی مادیت](../../core_05.040_band_continuity.md#systemic-materiality), and [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری).
 
 </details>
 
@@ -362,8 +362,8 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - **یہ کیا ہے**
   - **دائرے میں:** Classification decisions that ask whether [مادی اثر](core_05_band_oversight.md#مادی-اثر) or [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ) is constitutionally material for:
-    - a system (including [نظامی مادیت](core_05_band_continuity.md#systemic-materiality)); or
-    - an event, incident, or episode (including prospective [نقصان](core_05_band_accountability.md#harm) under [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ)),
+    - a system (including [نظامی مادیت](../../core_05.040_band_continuity.md#systemic-materiality)); or
+    - an event, incident, or episode (including prospective [نقصان](../../core_05.035_band_accountability.md#harm) under [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ)),
     when you look at the connected whole rather than isolated pieces.
   - **دائرے سے باہر:**
     - [مادی](core_05_band_oversight.md#مادی) threshold trivia, cosmetics, or mere paperwork significance with no stake-scaled duty change; or
@@ -373,20 +373,20 @@ Implication can exist without misalignment. Misalignment always implies material
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** Under [مادی داؤ](core_00_preamble.md#material-stake), ask whether effects are big enough to change which duties apply when you look at the connected whole — for the system or event at issue — covering:
     - [مادی اثر](core_05_band_oversight.md#مادی-اثر);
-    - [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ) (including prospective [نقصان](core_05_band_accountability.md#harm)); and
-    - [نظامی مادیت](core_05_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
+    - [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ) (including prospective [نقصان](../../core_05.035_band_accountability.md#harm)); and
+    - [نظامی مادیت](../../core_05.040_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
 
     **بنیادی جائزہ:** Include all kinds of effects that matter for the case, covering:
     - realized impact;
     - prospective harm; and
-    - [نظامی مادیت](core_05_band_continuity.md#systemic-materiality) where relevant,
+    - [نظامی مادیت](../../core_05.040_band_continuity.md#systemic-materiality) where relevant,
     and explain the conclusion for the connected whole, not just a convenient slice.
 
-    For an event, ask whether it is relevant to a sentient's [بہبود](core_05_band_continuity.md#wellbeing) — including plausible prospective harm to that wellbeing — not only to:
+    For an event, ask whether it is relevant to a sentient's [بہبود](../../core_05.040_band_continuity.md#wellbeing) — including plausible prospective harm to that wellbeing — not only to:
     - system میٹرکس؛
     - process labels; or
     - institutional convenience.
-  - **ثانوی پیمائش:** [انحصار](core_05_band_continuity.md#dependency) — check whether calling something "not material" only works because the pieces were judged separately, while the connected whole would count as material. For an event affecting a sentient, include downstream effects that travel through dependency — not only the immediate hit on that sentient.
+  - **ثانوی پیمائش:** [انحصار](../../core_05.040_band_continuity.md#dependency) — check whether calling something "not material" only works because the pieces were judged separately, while the connected whole would count as material. For an event affecting a sentient, include downstream effects that travel through dependency — not only the immediate hit on that sentient.
 
     **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے ask whether the classification would change if you looked at the pieces together instead of one by one, including:
     - isolation;
@@ -405,7 +405,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - A Materiality Determination holds only if the classification is written down, [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and tied to effects that actually matter constitutionally.
   - **بنیادی ناکامی:**
     - paper-only or immaterial labels with no real change to which constitutional duties apply — governance, oversight, capability requirements, or other stake-scaled duties for the system or event at issue;
-    - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [بہبود](core_05_band_continuity.md#wellbeing); or
+    - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [بہبود](../../core_05.040_band_continuity.md#wellbeing); or
     - determinations that lack a justified conclusion.
   - **ثانوی ناکامی:** calling collectively material effects immaterial by:
     - splitting them up;
@@ -454,8 +454,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: اصول: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 متبادل انحراف سے باطل کرنا](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
-- ساتھ پڑھیں: [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries), [نظام کی سرحد کی دیانت](core_05_band_continuity.md#system-boundary-integrity), [نظامی مادیت](core_05_band_accountability.md#systemic-materiality), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [جوابدہی](core_05_apex_accountability_leg.md#accountability).
+- زیریں: اصول: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 متبادل انحراف سے باطل کرنا](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- ساتھ پڑھیں: [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries), [نظام کی سرحد کی دیانت](../../core_05.040_band_continuity.md#system-boundary-integrity), [نظامی مادیت](../../core_05.035_band_accountability.md), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [جوابدہی](core_05_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -464,7 +464,7 @@ Implication can exist without misalignment. Misalignment always implies material
 *سادہ الفاظ میں: you may not make a big problem look small by redrawing boxes, splitting pieces, or reclassifying your way out of it.*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** A ban on shrinking materiality by manipulating [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries), aggregation, or classification contrary to [نظام کی سرحد کی دیانت](core_05_band_continuity.md#system-boundary-integrity).
+  - **دائرے میں:** A ban on shrinking materiality by manipulating [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries), aggregation, or classification contrary to [نظام کی سرحد کی دیانت](../../core_05.040_band_continuity.md#system-boundary-integrity).
   - **دائرے سے باہر:** Ordinary disagreement about materiality, or honest boundary clarification that does not shrink collectively material effects through splitting, aggregation games, or reclassification.
 <a id="materiality-integrity-constraint-a"></a>
 - **کیسے ناپیں اور جانچیں**
@@ -474,9 +474,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - splitting;
     - aggregation avoidance; and
     - boundary games.
-  - **ثانوی پیمائش:** [نظامی مادیت](core_05_band_accountability.md#systemic-materiality), [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) — co-measures that defeat manipulation or proxy gaming of materiality.
+  - **ثانوی پیمائش:** [نظامی مادیت](../../core_05.035_band_accountability.md), [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) — co-measures that defeat manipulation or proxy gaming of materiality.
 
-    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے include [نظامی مادیت](core_05_band_accountability.md#systemic-materiality), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) paths that would hide collectively material effects.
+    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے include [نظامی مادیت](../../core_05.035_band_accountability.md), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) paths that would hide collectively material effects.
 <a id="materiality-integrity-constraint-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:** treating collectively material effects as immaterial through structural manipulation.
@@ -491,9 +491,9 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) (*Materiality as constitutional measurement*); اصول: [مادی داؤ](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 تناسب](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
+- زیریں: انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) (*Materiality as constitutional measurement*); اصول: [مادی داؤ](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
 - جھرمٹ جزو: [مادیت، اثر، خطرہ، اور متبادل اشارے کی دیانت](core_05_band_oversight.md#materiality-semi-independent).
-- ساتھ پڑھیں: [نقصان](core_05_band_accountability.md#harm), [خطرہ](core_05_band_continuity.md#risk), [نظامی مادیت](core_05_band_accountability.md#systemic-materiality), [انحصار](core_05_band_continuity.md#dependency), [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی), [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional), and [شفافیت](core_05_band_oversight.md#شفافیت).
+- ساتھ پڑھیں: [نقصان](../../core_05.035_band_accountability.md#harm), [خطرہ](../../core_05.040_band_continuity.md#risk), [نظامی مادیت](../../core_05.035_band_accountability.md), [انحصار](../../core_05.040_band_continuity.md#dependency), [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی), [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional), and [شفافیت](core_05_band_oversight.md#شفافیت).
 
 </details>
 
@@ -502,7 +502,7 @@ Implication can exist without misalignment. Misalignment always implies material
 *سادہ الفاظ میں: how far the effects reach, how big they are, and how severe — looking at the whole system, not just the headline or the paperwork.*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** Effects for [نقصان](core_05_band_accountability.md#harm), [خطرہ](core_05_band_continuity.md#risk), and constitutional evaluation, covering:
+  - **دائرے میں:** Effects for [نقصان](../../core_05.035_band_accountability.md#harm), [خطرہ](../../core_05.040_band_continuity.md#risk), and constitutional evaluation, covering:
     - how far they reach;
     - how large they are; and
     - how severe they are.
@@ -520,9 +520,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - delayed اثرات؛
     - cumulative اثرات؛ and
     - cross-system consequences.
-  - **ثانوی پیمائش:** [نقصان](core_05_band_accountability.md#harm), [خطرہ](core_05_band_continuity.md#risk), [نظامی مادیت](core_05_band_accountability.md#systemic-materiality), and [انحصار](core_05_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
+  - **ثانوی پیمائش:** [نقصان](../../core_05.035_band_accountability.md#harm), [خطرہ](../../core_05.040_band_continuity.md#risk), [نظامی مادیت](../../core_05.035_band_accountability.md), and [انحصار](../../core_05.040_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
 
-    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے include [نظامی مادیت](core_05_band_accountability.md#systemic-materiality), [انحصار](core_05_band_continuity.md#dependency), and cross-system spread that would change the material classification.
+    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے include [نظامی مادیت](../../core_05.035_band_accountability.md), [انحصار](../../core_05.040_band_continuity.md#dependency), and cross-system spread that would change the material classification.
 <a id="material-impact-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:**
@@ -539,8 +539,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) (*Materiality as constitutional measurement*); اصول: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 تناسب](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
-- ساتھ پڑھیں: [نقصان](core_05_band_accountability.md#harm), [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm), [خطرہ](core_05_band_continuity.md#risk), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), and [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی).
+- زیریں: انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) (*Materiality as constitutional measurement*); اصول: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- ساتھ پڑھیں: [نقصان](../../core_05.035_band_accountability.md#harm), [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm), [خطرہ](../../core_05.040_band_continuity.md#risk), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), and [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی).
 
 </details>
 
@@ -549,13 +549,13 @@ Implication can exist without misalignment. Misalignment always implies material
 *سادہ الفاظ میں: how likely harm is, how fast it can arrive, and how hard it is to undo — including rare but severe outcomes.*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** Prospective [نقصان](core_05_band_accountability.md#harm), covering:
+  - **دائرے میں:** Prospective [نقصان](../../core_05.035_band_accountability.md#harm), covering:
     - how likely it is;
     - how fast it can arrive; and
     - how hard it is to undo.
   - **دائرے سے باہر:**
     - speculative worry without a plausible harm pathway; or
-    - realized [نقصان](core_05_band_accountability.md#harm) already in hand —
+    - realized [نقصان](../../core_05.035_band_accountability.md#harm) already in hand —
     that sits under Harm / [مادی اثر](core_05_band_oversight.md#مادی-اثر), not prospective risk alone.
 <a id="material-risk-a"></a>
 - **کیسے ناپیں اور جانچیں**
@@ -564,17 +564,17 @@ Implication can exist without misalignment. Misalignment always implies material
     **بنیادی جائزہ:** Looking at the whole system, include:
     - expected outcomes;
     - rare-but-severe (tail) outcomes;
-    - how fast [نقصان](core_05_band_accountability.md#harm) can arrive; and
+    - how fast [نقصان](../../core_05.035_band_accountability.md#harm) can arrive; and
     - how irreversible that harm can be.
-  - **ثانوی پیمائش:** [نقصان](core_05_band_accountability.md#harm), [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm), [خطرہ](core_05_band_continuity.md#risk), and [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
+  - **ثانوی پیمائش:** [نقصان](../../core_05.035_band_accountability.md#harm), [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm), [خطرہ](../../core_05.040_band_continuity.md#risk), and [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
 
-    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے include [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm), [خطرہ](core_05_band_continuity.md#risk), and [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
+    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے include [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm), [خطرہ](../../core_05.040_band_continuity.md#risk), and [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
 <a id="material-risk-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:**
     - realized harm labeled as only future risk; or
-    - material risk not addressed and constrained under [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), [خطرہ](core_05_band_continuity.md#risk), and [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی).
-  - **ثانوی ناکامی:** tail or irreversible pathways excluded when [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm) remains plausible.
+    - material risk not addressed and constrained under [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), [خطرہ](../../core_05.040_band_continuity.md#risk), and [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی).
+  - **ثانوی ناکامی:** tail or irreversible pathways excluded when [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm) remains plausible.
 
 ---
 
@@ -585,8 +585,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: اصول: [6.1.3 تناسب](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
-- ساتھ پڑھیں: [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), and [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی).
+- زیریں: اصول: [6.1.3 تناسب](core_01_b_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- ساتھ پڑھیں: [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), and [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی).
 
 </details>
 
@@ -604,17 +604,17 @@ Implication can exist without misalignment. Misalignment always implies material
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) — precautionary default when materiality cannot be excluded.
 
-    **بنیادی جائزہ:** Default to precaution when you cannot rule materiality out — including when [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
-  - **ثانوی پیمائش:** [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm), and [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
+    **بنیادی جائزہ:** Default to precaution when you cannot rule materiality out — including when [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
+  - **ثانوی پیمائش:** [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm), and [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
 
-    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے include [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), and [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
+    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے include [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), and [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
 <a id="materiality-under-uncertainty-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:**
     - waiting for certainty before classifying while material impact or risk remains uncertain;
     - optimistic low classification while material impact or risk remains uncertain; or
     - failure to default to conservative classification under uncertainty where [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی) requires it.
-  - **ثانوی ناکامی:** optimism or informal low classification where [ناقابلِ واپسی نقصان](core_05_band_accountability.md#irreversible-harm) or [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint) requires precaution.
+  - **ثانوی ناکامی:** optimism or informal low classification where [ناقابلِ واپسی نقصان](../../core_05.035_band_accountability.md#irreversible-harm) or [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint) requires precaution.
 
 ---
 
@@ -625,9 +625,9 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); اصول: [§6.2.4 متبادل انحراف سے باطل کرنا](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- زیریں: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); اصول: [§6.2.4 متبادل انحراف سے باطل کرنا](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - جھرمٹ جزو: [مادیت، اثر، خطرہ، اور متبادل اشارے کی دیانت](core_05_band_oversight.md#materiality-semi-independent).
-- ساتھ پڑھیں: [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [مادیت کی دیانت کی پابندی](core_05_band_oversight.md#مادیت-کی-دیانت-کی-پابندی), [نظام کی سرحد کی دیانت](core_05_band_continuity.md#system-boundary-integrity), [محرکات کی ہم آہنگی](core_05_band_integrative.md#محرکات-کی-ہم-آہنگی), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی).
+- ساتھ پڑھیں: [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [مادیت کی دیانت کی پابندی](core_05_band_oversight.md#مادیت-کی-دیانت-کی-پابندی), [نظام کی سرحد کی دیانت](../../core_05.040_band_continuity.md#system-boundary-integrity), [محرکات کی ہم آہنگی](core_05_band_integrative.md#محرکات-کی-ہم-آہنگی), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی).
 
 </details>
 
@@ -673,9 +673,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - adversarial adaptation; and
     - aggregate harms hidden by favorable local indicators —
     together with [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) and [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری).
-  - **ثالثی پیمائش:** [بہبود](core_05_band_continuity.md#wellbeing), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), and حقوق کی تہہ outcomes — where proxies stand in for what sentients actually experience.
+  - **ثالثی پیمائش:** [بہبود](../../core_05.040_band_continuity.md#wellbeing), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), and حقوق کی تہہ outcomes — where proxies stand in for what sentients actually experience.
 
-    **ثالثی جائزہ:** Where proxies stand in for outcome measures, trace to [بہبود](core_05_band_continuity.md#wellbeing), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), or حقوق کی تہہ delivery — separate durable constitutional outcomes from proxy throughput.
+    **ثالثی جائزہ:** Where proxies stand in for outcome measures, trace to [بہبود](../../core_05.040_band_continuity.md#wellbeing), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), or حقوق کی تہہ delivery — separate durable constitutional outcomes from proxy throughput.
 <a id="proxy-divergence-c"></a>
 - **کیا قائم رہنا چاہیے**
   - A system satisfies **Proxy Divergence** discipline only if proxies stay aligned with constitutionally material reality under full-system conditions — including when incentives or design would otherwise cook the score.
@@ -696,8 +696,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: اصول: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [باب یکم §3 غیر مذاکرہ پذیر اصول پابندیاں: حفاظت اور سچائی](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
-- ساتھ پڑھیں: [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [نظامی مادیت](core_05_band_accountability.md#systemic-materiality), [خطرہ](core_05_band_continuity.md#risk), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), and [بامعنی فاعلیت](core_05_band_participation.md#meaningful-agency).
+- زیریں: اصول: [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [باب یکم §3 غیر مذاکرہ پذیر اصول پابندیاں: حفاظت اور سچائی](core_01_a_values_principles.md) (**Safety** / **Truth** degradation paths).
+- ساتھ پڑھیں: [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [نظامی مادیت](../../core_05.035_band_accountability.md), [خطرہ](../../core_05.040_band_continuity.md#risk), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), and [بامعنی فاعلیت](../../core_05.055_band_participation.md#meaningful-agency).
 
 </details>
 
@@ -707,22 +707,22 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - **یہ کیا ہے**
   - **دائرے میں:** A non-trivial drop in how well a protected constitutional condition holds, covering:
-    - [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint);
+    - [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint);
     - [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت); or
-    - [بامعنی فاعلیت](core_05_band_participation.md#meaningful-agency).
+    - [بامعنی فاعلیت](../../core_05.055_band_participation.md#meaningful-agency).
   - **دائرے سے باہر:** Trivial dips in operational metrics or system throughput, planned maintenance, or temporary blips that do not meaningfully reduce safety, epistemic integrity, or meaningful agency.
 <a id="material-degradation-a"></a>
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** انضمامی مادیت ([مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین)) — degradation signal for materiality classification.
 
-    **بنیادی جائزہ:** Include scaling and system-wide effects under [نظامی مادیت](core_05_band_accountability.md#systemic-materiality) and [خطرہ](core_05_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
-  - **ثانوی پیمائش:** [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [نظامی مادیت](core_05_band_accountability.md#systemic-materiality), [خطرہ](core_05_band_continuity.md#risk), and [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) — co-measures that can defeat degradation assessment when proxies hide decline.
+    **بنیادی جائزہ:** Include scaling and system-wide effects under [نظامی مادیت](../../core_05.035_band_accountability.md) and [خطرہ](../../core_05.040_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
+  - **ثانوی پیمائش:** [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [نظامی مادیت](../../core_05.035_band_accountability.md), [خطرہ](../../core_05.040_band_continuity.md#risk), and [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) — co-measures that can defeat degradation assessment when proxies hide decline.
 
     **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے apply [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) and [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) where metrics hide material degradation.
 <a id="material-degradation-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:** material degradation not treated as material under [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین).
-  - **ثانوی ناکامی:** keeping proxy indicators looking stable while [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), or [بامعنی فاعلیت](core_05_band_participation.md#meaningful-agency) materially degrades.
+  - **ثانوی ناکامی:** keeping proxy indicators looking stable while [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), or [بامعنی فاعلیت](../../core_05.055_band_participation.md#meaningful-agency) materially degrades.
 
 ---
 
@@ -742,7 +742,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [مادی داؤ](core_00_preamble.md#material-stake) via [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین).
 - باب یکم basis: باب یکم §8.2, §4, §12.1, §12.2 (see [قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ) map).
-- ساتھ پڑھیں: Apply [جوابدہی](core_05_apex_accountability_leg.md#accountability), [چیلنج پذیری](core_05_band_accountability.md#contestability), [طریقہ کار انصاف](core_05_band_participation.md#procedural-fairness-constitutional), [محفوظ رپورٹنگ (افشا گری)](core_05_band_accountability.md#protected-reporting-whistleblowing), [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [خطرہ](core_05_band_continuity.md#risk), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), and باب دوم تا چہارم mechanics where مادی طور پر شامل.
+- ساتھ پڑھیں: Apply [جوابدہی](core_05_apex_accountability_leg.md#accountability), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), [طریقہ کار انصاف](../../core_05.055_band_participation.md#procedural-fairness-constitutional), [محفوظ رپورٹنگ (افشا گری)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing), [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [خطرہ](../../core_05.040_band_continuity.md#risk), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), and باب دوم تا چہارم mechanics where مادی طور پر شامل.
 
 </details>
 
@@ -762,7 +762,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when باب دوم تا چہارم require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**نگرانی کا ڈھانچہ۔** Under the [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**نگرانی کا ڈھانچہ۔** Under the [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [باب ہفتم](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **نظام کی قسم اور تناسب۔** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — نظام کی درجہ بندی اور ہینڈلنگ**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - گہری یقین دہانی؛
@@ -798,8 +798,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - جھرمٹ جزو: [Def.O1 شفافیت، آڈٹ پذیری، اور تصدیق](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- زیریں: اصول: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.2.1 حقائق کی دیانت کا تحفظ](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- ساتھ پڑھیں: [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی), [چیلنج پذیری](core_05_band_accountability.md#contestability), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [عوامی نگرانی کی بنیادی انکشاف](core_05_band_oversight.md#عوامی-نگرانی-کی-بنیادی-انکشاف), [خطرے کا انکشاف](core_05_band_oversight.md#خطرے-کا-انکشاف), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — معلومات کی اقسام اور ہینڈلنگ** (**Type O** — open public oversight baseline disclosure data).
+- زیریں: اصول: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 ذمہ دارانہ انتظام اور تقسیم شدہ سمجھ](core_01_c_stewardship_capacity_principles.md), [6.2.1 حقائق کی دیانت کا تحفظ](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- ساتھ پڑھیں: [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [عوامی نگرانی کی بنیادی انکشاف](core_05_band_oversight.md#عوامی-نگرانی-کی-بنیادی-انکشاف), [خطرے کا انکشاف](core_05_band_oversight.md#خطرے-کا-انکشاف), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — معلومات کی اقسام اور ہینڈلنگ** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -808,9 +808,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 *سادہ الفاظ میں: telling affected sentients enough about how a system works, its limits, and its risks that they can genuinely understand and question it — not burying them in noise.*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت) and [6.2 حقائق کی انکشاف پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+  - **دائرے میں:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت) and [6.2 حقائق کی انکشاف پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
     - If a material system, institution, forum process, or similar governed domain can lawfully publish online, its baseline transparency disclosure must be free to the public at the access level its class requires — not behind a paywall or available only to insiders — wherever [عوامی نگرانی کی بنیادی انکشاف](core_05_band_oversight.md#عوامی-نگرانی-کی-بنیادی-انکشاف) applies.
-    - If publishing the raw material would break lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [چیلنج پذیری](core_05_band_accountability.md#contestability) — for example:
+    - If publishing the raw material would break lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) — for example:
       - aggregation;
       - de-identification;
       - summary disclosure;
@@ -825,8 +825,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا affected parties get decision-relevant clarity about function, limits, and risk — not volume, noise, or insider-only access.
 
-    **بنیادی جائزہ:** Compare what is disclosed to [مادی اثر](core_05_band_oversight.md#مادی-اثر) and [انحصار](core_05_band_continuity.md#dependency).
-  - **ثانوی پیمائش:** [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [مادی اثر](core_05_band_oversight.md#مادی-اثر), [انحصار](core_05_band_continuity.md#dependency), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری) — co-measures that can defeat transparency even when disclosure volume is high.
+    **بنیادی جائزہ:** Compare what is disclosed to [مادی اثر](core_05_band_oversight.md#مادی-اثر) and [انحصار](../../core_05.040_band_continuity.md#dependency).
+  - **ثانوی پیمائش:** [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [مادی اثر](core_05_band_oversight.md#مادی-اثر), [انحصار](../../core_05.040_band_continuity.md#dependency), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری) — co-measures that can defeat transparency even when disclosure volume is high.
 
     **ثانوی جائزہ:** When checking the primary answer:
     - spot volume, obscurity, or formatting standing in for decision-relevant clarity; and
@@ -845,7 +845,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **بنیادی ناکامی:**
     - a data dump, mountain of documents, paywall, or insider-only access with no real decision-relevant clarity about function and risk for affected sentients; or
     - material omissions or disclosures that foreseeably block informed participation or [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional) where required.
-  - **ثانوی ناکامی:** safety- or security-framed limits that defeat materially required clarity without satisfying [ضرورت](core_05_band_accountability.md#necessity) and [تناسب](core_05_band_accountability.md#proportionality).
+  - **ثانوی ناکامی:** safety- or security-framed limits that defeat materially required clarity without satisfying [ضرورت](../../core_05.035_band_accountability.md#necessity) and [تناسب](../../core_05.035_band_accountability.md#proportionality).
   - **ثالثی ناکامی:** disclosure volume or formatting treated as decisive where [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) is reasonably observable.
 
 ---
@@ -858,8 +858,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - جھرمٹ جزو: [Def.O1 شفافیت، آڈٹ پذیری، اور تصدیق](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- زیریں: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§6](../../core_09.010_system_alignment_certification_record_process.md#6-system-certification-record) (*Certification record*); [§6.2](../../core_09.010_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) (*Transparency, auditability, and contestability*).
-- ساتھ پڑھیں: [شفافیت](core_05_band_oversight.md#شفافیت), [چیلنج پذیری](core_05_band_accountability.md#contestability), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [خطرے کا انکشاف](core_05_band_oversight.md#خطرے-کا-انکشاف), [منشور](core_05_band_continuity.md#charter), [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries), [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional), [نظام سرٹیفیکیشن ریکارڈ](core_05_band_continuity.md#system-certification-record-constitutional), [نظام درجہ بندی ریکارڈ](core_05_band_continuity.md#system-classification-record-constitutional), [نظام ڈیٹا اقسام ریکارڈ](core_05_band_continuity.md#system-data-types-record-constitutional), [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — معلومات کی اقسام اور ہینڈلنگ** (**Type O**).
+- زیریں: **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§6](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (*Certification record*); [§6.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*Transparency, auditability, and contestability*).
+- ساتھ پڑھیں: [شفافیت](core_05_band_oversight.md#شفافیت), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [خطرے کا انکشاف](core_05_band_oversight.md#خطرے-کا-انکشاف), [منشور](../../core_05.040_band_continuity.md), [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries), [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [نظام سرٹیفیکیشن ریکارڈ](../../core_05.040_band_continuity.md#system-certification-record-constitutional), [نظام درجہ بندی ریکارڈ](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [نظام ڈیٹا اقسام ریکارڈ](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), [درجہ بندی کے مطابق پیمانہ شدہ حکمرانی](core_05_band_oversight.md#درجہ-بندی-کے-مطابق-پیمانہ-شدہ-حکمرانی), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — معلومات کی اقسام اور ہینڈلنگ** (**Type O**).
 
 </details>
 
@@ -868,7 +868,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 *سادہ الفاظ میں: وہ کم از کم عوامی انکشاف جو اونچے اثر کے نظاموں کو شائع کرنا چاہیے تاکہ شعوری وجود سمجھ، نگرانی اور چیلنج کر سکیں — بشمول مقصد، قسم، انحصار، حیثیت، خطرہ، کارکردگی، ناکامیاں، حکمرانی، متاثر فریق اثرات، آئینی ہم آہنگی، اور منشور، درجہ بندی، ڈیٹا ٹائپنگ، اور سرٹیفیکیشن ریکارڈ کا عوامی چہرہ — جب خام نجی یا غیرِ بنیادی ریکارڈ جاری نہ ہو سکیں تو مضبوط عوامی متبادل کے ساتھ۔*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](../../corpus_systems.md), CS-3 — نظام کی درجہ بندی اور ہینڈلنگ**. Coverage follows the governing [منشور](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries). It includes what sentients need to understand:
+  - **دائرے میں:** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](../../corpus_systems.md), CS-3 — نظام کی درجہ بندی اور ہینڈلنگ**. Coverage follows the governing [منشور](../../core_05.040_band_continuity.md) (or equivalent published scope instrument), assigned class, and observed [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries). It includes what sentients need to understand:
     - purpose and what the system does;
     - how it is classified;
     - dependency structure and what depends on it;
@@ -878,10 +878,10 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - stakeholder اثرات؛ and
     - how aligned it is with this Constitution.
   - **Class A/B/C Type O instruments:** Where the **Type O** baseline applies for **Class A**, **Class B**, or **Class C**, that floor includes — at public-baseline fidelity, including lawful substitutes — publication or a usable public view of:
-    - the governing [منشور](core_05_band_continuity.md#charter) (or equivalent published scope instrument);
-    - the [نظام درجہ بندی ریکارڈ](core_05_band_continuity.md#system-classification-record-constitutional);
-    - the [نظام ڈیٹا اقسام ریکارڈ](core_05_band_continuity.md#system-data-types-record-constitutional); and
-    - the [نظام سرٹیفیکیشن ریکارڈ](core_05_band_continuity.md#system-certification-record-constitutional) produced by [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
+    - the governing [منشور](../../core_05.040_band_continuity.md) (or equivalent published scope instrument);
+    - the [نظام درجہ بندی ریکارڈ](../../core_05.040_band_continuity.md#system-classification-record-constitutional);
+    - the [نظام ڈیٹا اقسام ریکارڈ](../../core_05.040_band_continuity.md#system-data-types-record-constitutional); and
+    - the [نظام سرٹیفیکیشن ریکارڈ](../../core_05.040_band_continuity.md#system-certification-record-constitutional) produced by [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
   - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, and stakeholder effects may be satisfied through those records, [خطرے کا انکشاف](core_05_band_oversight.md#خطرے-کا-انکشاف) where systemic risk is in scope, and other lawful **Type O** summaries or substitutes — not by omitting the topics.
   - **Lawful substitutes:** Stay in scope where **Type G**, **Type E**, or other source records stay non-public, non-baseline, or otherwise restricted, including:
     - aggregation;
@@ -903,12 +903,12 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **بنیادی جائزہ:** Compare published disclosure to certified scope from [منشور](core_05_band_continuity.md#charter), assigned class, and [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**, confirm:
-    - a usable public view of the [منشور](core_05_band_continuity.md#charter), [نظام درجہ بندی ریکارڈ](core_05_band_continuity.md#system-classification-record-constitutional), [نظام ڈیٹا اقسام ریکارڈ](core_05_band_continuity.md#system-data-types-record-constitutional), and [نظام سرٹیفیکیشن ریکارڈ](core_05_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
+    **بنیادی جائزہ:** Compare published disclosure to certified scope from [منشور](../../core_05.040_band_continuity.md), assigned class, and [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)**, confirm:
+    - a usable public view of the [منشور](../../core_05.040_band_continuity.md), [نظام درجہ بندی ریکارڈ](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [نظام ڈیٹا اقسام ریکارڈ](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), and [نظام سرٹیفیکیشن ریکارڈ](../../core_05.040_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance are each covered at baseline depth;
-    - that lawful substitutes still support meaningful accountability and [چیلنج پذیری](core_05_band_accountability.md#contestability); and
+    - that lawful substitutes still support meaningful accountability and [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability); and
     - that free online availability holds where lawful publication infrastructure exists.
-  - **ثانوی پیمائش:** [شفافیت](core_05_band_oversight.md#شفافیت), [چیلنج پذیری](core_05_band_accountability.md#contestability), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [خطرے کا انکشاف](core_05_band_oversight.md#خطرے-کا-انکشاف) — co-measures that can defeat the floor even when some public artifacts exist.
+  - **ثانوی پیمائش:** [شفافیت](core_05_band_oversight.md#شفافیت), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [خطرے کا انکشاف](core_05_band_oversight.md#خطرے-کا-انکشاف) — co-measures that can defeat the floor even when some public artifacts exist.
 
     **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے look for:
     - thin summaries;
@@ -924,7 +924,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - non-public **Type G** audit access, paywalls, or performative summaries used as the public floor;
     - performative summaries that withhold decision-relevant baseline material;
     - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access;
-    - omitting a usable public view of the [منشور](core_05_band_continuity.md#charter), [نظام درجہ بندی ریکارڈ](core_05_band_continuity.md#system-classification-record-constitutional), [نظام ڈیٹا اقسام ریکارڈ](core_05_band_continuity.md#system-data-types-record-constitutional), or [نظام سرٹیفیکیشن ریکارڈ](core_05_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**; or
+    - omitting a usable public view of the [منشور](../../core_05.040_band_continuity.md), [نظام درجہ بندی ریکارڈ](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [نظام ڈیٹا اقسام ریکارڈ](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), or [نظام سرٹیفیکیشن ریکارڈ](../../core_05.040_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)**; or
     - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
   - **ثالثی ناکامی:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 and [شفافیت](core_05_band_oversight.md#شفافیت).
 
@@ -938,8 +938,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - جھرمٹ جزو: [Def.O1 شفافیت، آڈٹ پذیری، اور تصدیق](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- زیریں: Oversight measurement family (*disclosure and assurance as constitutional measurement*); اصول: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint); [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
-- ساتھ پڑھیں: [خطرے کا جائزہ](core_05_band_continuity.md#risk-evaluation), [خطرہ](core_05_band_continuity.md#risk), [شفافیت](core_05_band_oversight.md#شفافیت), [عوامی نگرانی کی بنیادی انکشاف](core_05_band_oversight.md#عوامی-نگرانی-کی-بنیادی-انکشاف), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), [چیلنج پذیری](core_05_band_accountability.md#contestability), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), and [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional).
+- زیریں: Oversight measurement family (*disclosure and assurance as constitutional measurement*); اصول: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§3.1 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint); [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- ساتھ پڑھیں: [خطرے کا جائزہ](../../core_05.040_band_continuity.md#risk-evaluation), [خطرہ](../../core_05.040_band_continuity.md#risk), [شفافیت](core_05_band_oversight.md#شفافیت), [عوامی نگرانی کی بنیادی انکشاف](core_05_band_oversight.md#عوامی-نگرانی-کی-بنیادی-انکشاف), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), and [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
 
@@ -948,27 +948,27 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 *سادہ الفاظ میں: tell the sentients who need to know about systemic risk — keeping the evaluation in a drawer does not count.*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** Communicating evaluated systemic [خطرہ](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
-    - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [شفافیت](core_05_band_oversight.md#شفافیت) or [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [نظام سرٹیفیکیشن ریکارڈ](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+  - **دائرے میں:** Communicating evaluated systemic [خطرہ](../../core_05.040_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
+    - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [شفافیت](core_05_band_oversight.md#شفافیت) or [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
+    - **SAC verification:** Where [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [نظام سرٹیفیکیشن ریکارڈ](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **دائرے سے باہر:**
-    - [خطرے کا جائزہ](core_05_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
+    - [خطرے کا جائزہ](../../core_05.040_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [عوامی نگرانی کی بنیادی انکشاف](core_05_band_oversight.md#عوامی-نگرانی-کی-بنیادی-انکشاف) as the broader public baseline floor; or
-    - findings placement on the [نظام سرٹیفیکیشن ریکارڈ](core_05_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [نظام درجہ بندی ریکارڈ](core_05_band_continuity.md#system-classification-record-constitutional) or [نظام ڈیٹا اقسام ریکارڈ](core_05_band_continuity.md#system-data-types-record-constitutional) —
+    - findings placement on the [نظام سرٹیفیکیشن ریکارڈ](../../core_05.040_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [نظام درجہ بندی ریکارڈ](../../core_05.040_band_continuity.md#system-classification-record-constitutional) or [نظام ڈیٹا اقسام ریکارڈ](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) —
     وہ اپنے گھروں میں رہتے ہیں.
 <a id="risk-disclosure-a"></a>
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا evaluated systemic risk actually reaches the sentients who need it — not only whether an evaluation exists somewhere.
 
-    **بنیادی جائزہ:** Ask whether disclosure is timely, decision-relevant, and sized to مادی داؤ under [شفافیت](core_05_band_oversight.md#شفافیت). Read with [خطرے کا جائزہ](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
-  - **ثانوی پیمائش:** [خطرے کا جائزہ](core_05_band_continuity.md#risk-evaluation), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), [چیلنج پذیری](core_05_band_accountability.md#contestability), and [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت) — other checks that can show disclosure failed even when some risk wording is on file.
+    **بنیادی جائزہ:** Ask whether disclosure is timely, decision-relevant, and sized to مادی داؤ under [شفافیت](core_05_band_oversight.md#شفافیت). Read with [خطرے کا جائزہ](../../core_05.040_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
+  - **ثانوی پیمائش:** [خطرے کا جائزہ](../../core_05.040_band_continuity.md#risk-evaluation), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), and [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت) — other checks that can show disclosure failed even when some risk wording is on file.
 
     **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے look for walls of text, buried details, insider-only channels, or late notice that keep the sentients who needed the risk picture from actually understanding it in time.
 <a id="risk-disclosure-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:**
-    - failure to disclose risk where [شفافیت](core_05_band_oversight.md#شفافیت) or [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint) requires it; or
-    - [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
+    - failure to disclose risk where [شفافیت](core_05_band_oversight.md#شفافیت) or [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint) requires it; or
+    - [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
   - **ثانوی ناکامی:** an internal-only note, buried appendix, or after-the-fact statement used as disclosure when the sentients who needed the risk picture could not use it in time.
 
 ---
@@ -981,9 +981,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - جھرمٹ جزو: [Def.O1 شفافیت، آڈٹ پذیری، اور تصدیق](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [جوابدہی](core_05_apex_accountability_leg.md#accountability), [چیلنج پذیری](core_05_band_accountability.md#contestability), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [شفافیت](core_05_band_oversight.md#شفافیت), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [ثبوت کا تحفظ](core_05_band_oversight.md#ثبوت-کا-تحفظ), and [جائزے کی تکمیل کی پابندی](core_05_band_oversight.md#جائزے-کی-تکمیل-کی-پابندی).
-- ساتھ پڑھیں: **Article XVI** (*Audit, Transparency, and Independent Verification*); [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) باب دوم تا چہارم.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](../../core_06.015_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
+- ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [جوابدہی](core_05_apex_accountability_leg.md#accountability), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [شفافیت](core_05_band_oversight.md#شفافیت), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [ثبوت کا تحفظ](core_05_band_oversight.md#ثبوت-کا-تحفظ), and [جائزے کی تکمیل کی پابندی](core_05_band_oversight.md#جائزے-کی-تکمیل-کی-پابندی).
+- ساتھ پڑھیں: **Article XVI** (*Audit, Transparency, and Independent Verification*); [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) باب دوم تا چہارم.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](core_06_rights_part_c.md). Three-layer picture: [Article XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -994,7 +994,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **یہ کیا ہے**
   - **دائرے میں:** Whether outsiders can systematically examine, reconstruct, and evaluate system behavior through enough [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری) — including external detectability and independent validation.
     - **Coverage:** Must span the material times, states, and interaction contexts — not only a single snapshot or happy-path sample.
-    - **Oversight role:** Under the **oversight** Tetrad leg, oversight requires this property; [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
+    - **Oversight role:** Under the **oversight** Tetrad leg, oversight requires this property; [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
     - **Operational capability:** Where binding duties require operational capability, auditability includes checking that claimed compliance rests on real, reconstructable capability — not text, assertions, or unimplemented controls alone ([اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#authority-stack) supremacy effect).
   - **دائرے سے باہر:**
     - raw logs or [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری) external detectability alone;
@@ -1005,8 +1005,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا outsiders can reconstruct and check what the system did across the material times, states, and contexts — including whether claimed compliance rests on real capability, not paper alone.
 
-    **بنیادی جائزہ:** It must work across relevant conditions and [متاثر فریق](core_05_band_participation.md#stakeholder), including conditions relevant to [چیلنج پذیری](core_05_band_accountability.md#contestability) and [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [خطرہ](core_05_band_continuity.md#risk), and آئینی عدمِ ہم آہنگی across:
-    - [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries);
+    **بنیادی جائزہ:** It must work across relevant conditions and [متاثر فریق](../../core_05.055_band_participation.md#stakeholder), including conditions relevant to [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) and [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [خطرہ](../../core_05.040_band_continuity.md#risk), and آئینی عدمِ ہم آہنگی across:
+    - [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries);
     - operating حالتیں؛ and
     - [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط).
     Where a binding duty requires operational capability, ask whether claimed compliance is backed by verified capability — not:
@@ -1015,10 +1015,10 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
       - paper controls;
       - emergency practice; or
       - unobservable claims.
-  - **ثانوی پیمائش:** [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [ثبوت کا تحفظ](core_05_band_oversight.md#ثبوت-کا-تحفظ), and [چیلنج پذیری](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
+  - **ثانوی پیمائش:** [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [ثبوت کا تحفظ](core_05_band_oversight.md#ثبوت-کا-تحفظ), and [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
 
     **ثانوی جائزہ:** When checking the primary answer:
-    - where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([§9.3 ادارہ جاتی ترقی](core_01_c_stewardship_capacity_principles.md#93-institutional-development); [تناسب](core_05_band_accountability.md#proportionality)); and
+    - where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([§9.3 ادارہ جاتی ترقی](core_01_c_stewardship_capacity_principles.md#162-institutional-development); [تناسب](../../core_05.035_band_accountability.md#proportionality)); and
     - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, and effects that matter — and is available for independent [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری) and [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional).
   - **ثالثی پیمائش:** [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
 
@@ -1029,7 +1029,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - audit mechanisms that do not work;
     - failure to enable practical reconstruction and evaluation;
     - a single snapshot, happy-path sample, or narrow window that leaves out material times, states, or interaction contexts;
-    - [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only auditing process or as a substitute for this property;
+    - [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only auditing process or as a substitute for this property;
     - paper claims of constitutional compliance that cannot be reconstructed or challenged; or
     - any of the following used as enough compliance where binding duties require verified operational capability:
       - text;
@@ -1050,7 +1050,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
       - حالتیں؛
       - contexts; or
       - [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط);
-    - supremacy or compliance claims while suppressing [چیلنج پذیری](core_05_band_accountability.md#contestability) or defeating auditable verification.
+    - supremacy or compliance claims while suppressing [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) or defeating auditable verification.
   - **ثالثی ناکامی:** audit sampling or "the metric looks fine" treated as decisive where [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) is reasonably observable.
 
 ---
@@ -1062,9 +1062,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- زیریں: اصول: [باب یکم §3 غیر مذاکرہ پذیر اصول پابندیاں: حفاظت اور سچائی](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [§6 عمل تنازعے کا حل](core_05_apex_oversight_leg.md#6-process-conflict-resolution), and [6.2.1 حقائق کی دیانت کا تحفظ](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
+- زیریں: اصول: [باب یکم §3 غیر مذاکرہ پذیر اصول پابندیاں: حفاظت اور سچائی](core_01_a_values_principles.md), [§6 عمل تنازعے کا حل](core_05_apex_oversight_leg.md), and [6.2.1 حقائق کی دیانت کا تحفظ](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
 - جھرمٹ جزو: [Def.O1 شفافیت، آڈٹ پذیری، اور تصدیق](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- ساتھ پڑھیں: [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [شفافیت](core_05_band_oversight.md#شفافیت), [جوابدہی](core_05_apex_accountability_leg.md#accountability), [چیلنج پذیری](core_05_band_accountability.md#contestability), [طریقہ کار انصاف](core_05_band_participation.md#procedural-fairness-constitutional), [محفوظ رپورٹنگ (افشا گری)](core_05_band_accountability.md#protected-reporting-whistleblowing), and [تدارک اور اصلاح](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- ساتھ پڑھیں: [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [شفافیت](core_05_band_oversight.md#شفافیت), [جوابدہی](core_05_apex_accountability_leg.md#accountability), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), [طریقہ کار انصاف](../../core_05.055_band_participation.md#procedural-fairness-constitutional), [محفوظ رپورٹنگ (افشا گری)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing), and [تدارک اور اصلاح](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -1113,8 +1113,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - جھرمٹ جزو: [Def.O1 شفافیت، آڈٹ پذیری، اور تصدیق](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- زیریں: Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
-- ساتھ پڑھیں: [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional), [منشور](core_05_band_continuity.md#charter), [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries), [نظام کی سرحد کی دیانت](core_05_band_continuity.md#system-boundary-integrity), [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط), [نظام کی تخلیق](core_05_band_participation.md#system-creation-constitutional), and [کاروبار کی تخلیق](core_05_band_participation.md#business-creation-constitutional).
+- زیریں: Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
+- ساتھ پڑھیں: [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [منشور](../../core_05.040_band_continuity.md), [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries), [نظام کی سرحد کی دیانت](../../core_05.040_band_continuity.md#system-boundary-integrity), [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط), [نظام کی تخلیق](../../core_05.055_band_participation.md#system-creation-constitutional), and [کاروبار کی تخلیق](../../core_05.055_band_participation.md#business-creation-constitutional).
 
 </details>
 
@@ -1129,30 +1129,30 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - interaction; and
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
-  - **Charter and scope process:** Where a governing [منشور](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [نظام سرٹیفیکیشن ریکارڈ](core_05_band_continuity.md#system-certification-record-constitutional).
+  - **Charter and scope process:** Where a governing [منشور](../../core_05.040_band_continuity.md) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
+  - **SAC verification:** Where [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [نظام سرٹیفیکیشن ریکارڈ](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
   - **دائرے سے باہر:**
-    - [منشور](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
-    - [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
+    - [منشور](../../core_05.040_band_continuity.md) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
+    - [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
     - ordinary unit or feature tests that are not offered as complete constitutional evaluation.
 <a id="evaluation-completeness-constraint-a"></a>
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا evaluation covers plausible failure, misuse, interaction, and adversarial pathways — not only selective demo scenarios.
 
-    **بنیادی جائزہ:** Show enough coverage of plausible pathways, sized to system impact, [انحصار](core_05_band_continuity.md#dependency), and [خطرہ](core_05_band_continuity.md#risk), including:
+    **بنیادی جائزہ:** Show enough coverage of plausible pathways, sized to system impact, [انحصار](../../core_05.040_band_continuity.md#dependency), and [خطرہ](../../core_05.040_band_continuity.md#risk), including:
     - ناکامی؛
     - غلط استعمال؛
     - interaction; and
     - [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط) where material.
     Also ask:
-      - where a [منشور](core_05_band_continuity.md#charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where a [منشور](../../core_05.040_band_continuity.md) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
+      - where [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:**
     - selective demo scenarios or marketing test suites used as complete evaluation while plausible failure, misuse, interaction, or adversarial pathways remain skipped;
-    - incomplete or selectively scoped evaluation that defeats [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), or [نظام کی سرحد کی دیانت](core_05_band_continuity.md#system-boundary-integrity); or
-    - [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
+    - incomplete or selectively scoped evaluation that defeats [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), or [نظام کی سرحد کی دیانت](../../core_05.040_band_continuity.md#system-boundary-integrity); or
+    - [نظام ہم آہنگی سرٹیفیکیشن](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
   - **ثانوی ناکامی:** Charter text, institutional mandate language, business-purpose statements, or a narrow certification demo suite used as complete evaluation while any of the following remain unevaluated:
     - ناکامی؛
     - غلط استعمال؛
@@ -1177,7 +1177,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - جھرمٹ جزو: [Def.O1 شفافیت، آڈٹ پذیری، اور تصدیق](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Owner floor: [Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
-- ساتھ پڑھیں: [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [شفافیت](core_05_band_oversight.md#شفافیت), [چیلنج پذیری](core_05_band_accountability.md#contestability), [تناسب](core_05_band_accountability.md#proportionality), [عمل پذیری](core_05_band_accountability.md#feasibility), [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی), and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط).
+- ساتھ پڑھیں: [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [شفافیت](core_05_band_oversight.md#شفافیت), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), [تناسب](../../core_05.035_band_accountability.md#proportionality), [عمل پذیری](../../core_05.035_band_accountability.md#feasibility), [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی), and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط).
 
 </details>
 
@@ -1188,9 +1188,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **یہ کیا ہے**
   - **دائرے میں:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [عمل پذیری](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [عمل پذیری](../../core_05.035_band_accountability.md#feasibility));
     - independence from operator self-assertion;
-    - proportionate burden under [تناسب](core_05_band_accountability.md#proportionality) and [مادی اثر](core_05_band_oversight.md#مادی-اثر); and
+    - proportionate burden under [تناسب](../../core_05.035_band_accountability.md#proportionality) and [مادی اثر](core_05_band_oversight.md#مادی-اثر); and
     - reliability under ordinary stress, misuse, and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط).
   - **دائرے سے باہر:**
     - internal telemetry or operator-facing instrumentation alone; or
@@ -1213,11 +1213,11 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **ثانوی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا observed behavior can be independently validated by reproducible methods in practice.
 
     **ثانوی جائزہ:** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [عمل پذیری](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [عمل پذیری](../../core_05.035_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
-    - are sized to system impact under [تناسب](core_05_band_accountability.md#proportionality) and [مادی اثر](core_05_band_oversight.md#مادی-اثر); and
+    - are sized to system impact under [تناسب](../../core_05.035_band_accountability.md#proportionality) and [مادی اثر](core_05_band_oversight.md#مادی-اثر); and
     - remain reliable under ordinary stress, misuse, and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط).
-  - **ثالثی پیمائش:** [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [مادی اثر](core_05_band_oversight.md#مادی-اثر), [چیلنج پذیری](core_05_band_accountability.md#contestability), and [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) — co-measures that can defeat verification even when methods are nominally documented.
+  - **ثالثی پیمائش:** [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [مادی اثر](core_05_band_oversight.md#مادی-اثر), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), and [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) — co-measures that can defeat verification even when methods are nominally documented.
 
     **ثالثی جائزہ:** When checking the primary and secondary answers, spot verification that fails any constitutive condition above even when a channel exists on paper.
 <a id="observability-c"></a>
@@ -1229,7 +1229,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <a id="verifiability-c"></a>
 - **کیا قائم رہنا چاہیے**
   - **بنیادی ناکامی:**
-    - insufficient external detectability that defeats [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [چیلنج پذیری](core_05_band_accountability.md#contestability), or independent validation;
+    - insufficient external detectability that defeats [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), or independent validation;
     - unverifiable claims under [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [شفافیت](core_05_band_oversight.md#شفافیت), or [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی); or
     - operator self-assertion used as proof of externally detectable, independently validated behavior.
   - **ثانوی ناکامی:**
@@ -1239,7 +1239,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - verification whose burden is excessive for low impact, or token for high impact;
     - verification that an independent qualified reviewer cannot reproduce with the required evidence and access; or
     - verification that becomes unreliable under [معقول طور پر پیش بینی کے قابل](core_05_band_oversight.md#معقول-طور-پر-پیش-بینی-کے-قابل) operating, degraded, scaled, or adversarial conditions.
-  - **ثالثی ناکامی:** a verification channel that exists on paper while [چیلنج پذیری](core_05_band_accountability.md#contestability) or another constitutive condition is missing in practice.
+  - **ثالثی ناکامی:** a verification channel that exists on paper while [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) or another constitutive condition is missing in practice.
 
 ---
 
@@ -1256,7 +1256,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - زیریں: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
 - باب یکم basis: باب یکم §8.2, §3.3, §4, §12.1, §12.2 (see [قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ) map).
-- ساتھ پڑھیں: Apply [حسن نیت](core_05_band_accountability.md#good-faith), [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [انحصار](core_05_band_continuity.md#dependency), [شفافیت](core_05_band_oversight.md#شفافیت), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [چیلنج پذیری](core_05_band_accountability.md#contestability), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), [خطرہ](core_05_band_continuity.md#risk), and باب دوم تا چہارم mechanics where مادی طور پر شامل.
+- ساتھ پڑھیں: Apply [حسن نیت](../../core_05.035_band_accountability.md#good-faith), [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [انحصار](../../core_05.040_band_continuity.md#dependency), [شفافیت](core_05_band_oversight.md#شفافیت), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), [خطرہ](../../core_05.040_band_continuity.md#risk), and باب دوم تا چہارم mechanics where مادی طور پر شامل.
 
 </details>
 
@@ -1310,7 +1310,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *سادہ الفاظ میں: if you publish something as fact, do not knowingly lie — and do not recklessly ignore accuracy, uncertainty, context, or material interpretive limits.*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** Bounds on communicative conduct when publishing or communicating as a factual assertion within the [معلوماتی کرہ](core_05_band_participation.md#info-sphere).
+  - **دائرے میں:** Bounds on communicative conduct when publishing or communicating as a factual assertion within the [معلوماتی کرہ](../../core_05.055_band_participation.md#info-sphere).
   - **دائرے سے باہر:**
     - opinion, commentary, or satire that is not presented as a factual assertion; and
     - good-faith error that is neither knowing falsity nor reckless disregard for accuracy, uncertainty, context, or material interpretive limits.
@@ -1323,10 +1323,10 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - uncertainty;
     - context; or
     - material interpretive limits,
-    from good-faith observation and bounded interpretation, under [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) and [حسن نیت](core_05_band_accountability.md#good-faith).
+    from good-faith observation and bounded interpretation, under [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی) and [حسن نیت](../../core_05.035_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **کیا قائم رہنا چاہیے**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by باب یازدهم **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی), [حسن نیت](core_05_band_accountability.md#good-faith), and [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by باب یازدهم **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [سچائی (آئینی پابندی)](core_05_band_oversight.md#سچائی-آئینی-پابندی), [حسن نیت](../../core_05.035_band_accountability.md#good-faith), and [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت).
   - **بنیادی ناکامی:** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;
@@ -1340,16 +1340,16 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *سادہ الفاظ میں: do not publish restricted data or expose another sentient's protected inner cognitive or emotional states.*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** Limits on publishing content that violates restricted-data rules or exposes protected internal states within the [معلوماتی کرہ](core_05_band_participation.md#info-sphere).
+  - **دائرے میں:** Limits on publishing content that violates restricted-data rules or exposes protected internal states within the [معلوماتی کرہ](../../core_05.055_band_participation.md#info-sphere).
   - **دائرے سے باہر:** Ordinary public facts, lawfully released information, or publication limited for systemic-harm reasons rather than for protected data or internal-state exposure.
 <a id="protected-data-and-internal-state-publication-constraint-a"></a>
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا publication respects restricted-data rules and protected internal-state boundaries — not reconstructing or exposing protected cognitive or emotional states.
 
-    **بنیادی جائزہ:** Publication must not bypass **[corpus_systems.md](../../corpus_systems.md), CS-2 — معلومات کی اقسام اور ہینڈلنگ**, [رازداری (معلوماتی)](core_05_band_continuity.md#privacy-informational), [محفوظ داخلی حالت کی سرحد](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
+    **بنیادی جائزہ:** Publication must not bypass **[corpus_systems.md](../../corpus_systems.md), CS-2 — معلومات کی اقسام اور ہینڈلنگ**, [رازداری (معلوماتی)](../../core_05.040_band_continuity.md#privacy-informational), [محفوظ داخلی حالت کی سرحد](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **کیا قائم رہنا چاہیے**
-  - **بنیادی ناکامی:** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [رازداری (معلوماتی)](core_05_band_continuity.md#privacy-informational) and [محفوظ داخلی حالت کی سرحد](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
+  - **بنیادی ناکامی:** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [رازداری (معلوماتی)](../../core_05.040_band_continuity.md#privacy-informational) and [محفوظ داخلی حالت کی سرحد](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional).
 
 <a id="high-impact-and-systemic-harm-publication-constraint"></a>
 
@@ -1358,7 +1358,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *سادہ الفاظ میں: even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure.*
 
 - **یہ کیا ہے**
-  - **دائرے میں:** Publication that goes out through channels that can broadly affect the shared information environment ([معلوماتی کرہ](core_05_band_participation.md#info-sphere)), cause [نقصان](core_05_band_accountability.md#harm), or shape how sentients coordinate.
+  - **دائرے میں:** Publication that goes out through channels that can broadly affect the shared information environment ([معلوماتی کرہ](../../core_05.055_band_participation.md#info-sphere)), cause [نقصان](../../core_05.035_band_accountability.md#harm), or shape how sentients coordinate.
   - **دائرے سے باہر:** Ordinary true reporting without a foreseeable systemic-harm or harmful-coordination pathway, or ordinary truthfulness disputes under the recklessness floor.
 <a id="high-impact-and-systemic-harm-publication-constraint-a"></a>
 - **کیسے ناپیں اور جانچیں**
@@ -1366,16 +1366,16 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 
     **بنیادی جائزہ:** Consider primary and [معقول طور پر پیش بینی کے قابل](core_05_band_oversight.md#معقول-طور-پر-پیش-بینی-کے-قابل) effects on:
     - ہم آহنگی؛
-    - [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint);
+    - [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint);
     - exploitation of vulnerabilities; and
-    - [معلوماتی کرہ](core_05_band_participation.md#info-sphere) integrity.
+    - [معلوماتی کرہ](../../core_05.055_band_participation.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
 - **کیا قائم رہنا چاہیے**
   - Even factually accurate publication is constrained where its primary or [معقول طور پر پیش بینی کے قابل](core_05_band_oversight.md#معقول-طور-پر-پیش-بینی-کے-قابل) effect is to enable:
-    - targeted [نقصان](core_05_band_accountability.md#harm);
-    - [جبر اور ہیرا پھیری](core_05_band_participation.md#coercion-and-manipulation-constitutional);
+    - targeted [نقصان](../../core_05.035_band_accountability.md#harm);
+    - [جبر اور ہیرا پھیری](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional);
     - large-scale harmful ہم آহنگی؛
-    - [زنجیری ناکامی](core_05_band_continuity.md#cascading-failure); or
+    - [زنجیری ناکامی](../../core_05.040_band_continuity.md#cascading-failure); or
     - patterns that materially degrade [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت).
   - **Class A** and **Class B** systems under **[corpus_systems.md](../../corpus_systems.md), CS-3 — نظام کی درجہ بندی اور ہینڈلنگ**, trigger heightened proportional constraints on distribution mechanics and safeguards.
   - **بنیادی ناکامی:** publishing without the proportional distribution constraints and safeguards required for these primary or reasonably foreseeable effects, including the heightened constraints for **Class A** and **Class B** systems.
@@ -1393,7 +1393,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا disclosure benefits outweigh foreseeable exploitation, circumvention, or adversarial-manipulation risks.
 
-    **بنیادی جائزہ:** Balance disclosure benefits against foreseeable risks under [خطرہ](core_05_band_continuity.md#risk), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط), consistent with باب دوم تا چہارم and باب یکم, covering:
+    **بنیادی جائزہ:** Balance disclosure benefits against foreseeable risks under [خطرہ](../../core_05.040_band_continuity.md#risk), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط), consistent with باب دوم تا چہارم and باب یکم, covering:
     - exploitation;
     - circumvention; or
     - adversarial manipulation.
@@ -1404,7 +1404,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **کیا قائم رہنا چاہیے**
   - Good-faith security researchers must have a usable, non-retaliatory route to publish low-risk information — including existence notice and non-exploit-enabling detail — without treating researcher publication itself as prohibited disclosure.
   - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under CS-2 — then disclosed under applicable deferred-disclosure and **Type O** summary rules.
-  - **بنیادی ناکامی:** consistent with **باب دوم تا چہارم**, **باب یکم**, [خطرہ](core_05_band_continuity.md#risk), [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط):
+  - **بنیادی ناکامی:** consistent with **باب دوم تا چہارم**, **باب یکم**, [خطرہ](../../core_05.040_band_continuity.md#risk), [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), and [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط):
     - publication that materially enables circumvention of safeguards or adversarial manipulation where those risks outweigh the benefits of disclosure;
     - suppressing low-risk good-faith researcher publication; or
     - indefinite hold-back of discloseable detail after mitigation without a still-justified **Type S** (or equivalent) restriction.
@@ -1421,7 +1421,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - honest treatment of what is known, unknown, and uncertain;
     - resistance to deception, distortion, and structurally misleading presentation; and
     - assessment methods sized to the stakes under باب دوم تا چہارم.
-  - **Depends on:** [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [باب یکم §3 غیر مذاکرہ پذیر اصول پابندیاں: حفاظت اور سچائی](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); truth duties include honest risk and uncertainty communication where safety is materially at stake.
+  - **Depends on:** [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [باب یکم §3 غیر مذاکرہ پذیر اصول پابندیاں: حفاظت اور سچائی](core_01_a_values_principles.md); truth duties include honest risk and uncertainty communication where safety is materially at stake.
   - **دائرے سے باہر:**
     - polite tone or procedural courtesy alone; or
     - market prices or odds as ordinary economic signals outside rights, safety, or governance truth determinations —
@@ -1430,7 +1430,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **کیسے ناپیں اور جانچیں**
   - **بنیادی پیمائش:** [نگرانی پیمائش خاندان](core_05_apex_oversight_leg.md#oversight-measurement-family) — *کیا شعوری وجود دیکھ، تصدیق اور بھروسہ کر سکتے ہیں کہ نظام کیا پیش کرتے ہیں؟* یہاں پوچھنے کے لیے اسے استعمال کریں کہ آیا materially decision-relevant claims stay honest about what is known, unknown, and uncertain — resisting deception, distortion, and structurally misleading presentation.
 
-    **بنیادی جائزہ:** Judge the real effect on informed decision-making and auditability — scale scrutiny with [مادی اثر](core_05_band_oversight.md#مادی-اثر), [انحصار](core_05_band_continuity.md#dependency), and [خطرہ](core_05_band_continuity.md#risk); require honest methods, honest uncertainty treatment, and revision when evidence disconfirms prior conclusions.
+    **بنیادی جائزہ:** Judge the real effect on informed decision-making and auditability — scale scrutiny with [مادی اثر](core_05_band_oversight.md#مادی-اثر), [انحصار](../../core_05.040_band_continuity.md#dependency), and [خطرہ](../../core_05.040_band_continuity.md#risk); require honest methods, honest uncertainty treatment, and revision when evidence disconfirms prior conclusions.
   - **ثانوی پیمائش:** [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [شفافیت](core_05_band_oversight.md#شفافیت), and [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین) — co-measures that can defeat truth even when formal disclosure exists.
 
     **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے include [حقائق کی دیانت](core_05_band_oversight.md#حقائق-کی-دیانت), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), and [شفافیت](core_05_band_oversight.md#شفافیت) paths that would defeat honest interpretation or verification.
@@ -1446,7 +1446,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - selective disclosure; or
     - structurally misleading presentation —
     including polite tone or procedural form used as a substitute for honest treatment of what is known, unknown, and uncertain.
-  - **ثانوی ناکامی:** jargon, stacked complexity, or procedural opacity used to defeat [چیلنج پذیری](core_05_band_accountability.md#contestability) or [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری) where materially relevant.
+  - **ثانوی ناکامی:** jargon, stacked complexity, or procedural opacity used to defeat [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) or [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری) where materially relevant.
   - **ثالثی ناکامی:** prices, odds, or market resolution sources used as enough for rights, safety, or governance truth determinations where باب یکم forbids that substitution, or refusal of correction after [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) is reasonably observable.
 
 <a id="epistemic-integrity"></a>
@@ -1477,9 +1477,9 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - prestige;
     - scale; or
     - complexity.
-  - **ثانوی پیمائش:** [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [شفافیت](core_05_band_oversight.md#شفافیت), and [چیلنج پذیری](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
+  - **ثانوی پیمائش:** [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), [شفافیت](core_05_band_oversight.md#شفافیت), and [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
 
-    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے also check [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), and [چیلنج پذیری](core_05_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [پیش بینی کی مستعدی](core_05_band_oversight.md#پیش-بینی-کی-مستعدی).
+    **ثانوی جائزہ:** بنیادی پیمائش جانچتے ہوئے also check [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تصدیق پذیری](core_05_band_oversight.md#تصدیق-پذیری), and [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [پیش بینی کی مستعدی](core_05_band_oversight.md#پیش-بینی-کی-مستعدی).
   - **ثالثی پیمائش:** [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) — where authority, prestige, scale, or complexity stands in for demonstrable integrity.
 
     **ثالثی جائزہ:** Where operators lean on authority, model opacity, or unverifiable assertion, apply [متبادل اشاروں کا انحراف](core_05_band_oversight.md#متبادل-اشاروں-کا-انحراف) — separate durable epistemic integrity from procedural form.
@@ -1501,7 +1501,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- ساتھ پڑھیں: Apply [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [جائزے کی تکمیل کی پابندی](core_05_band_oversight.md#جائزے-کی-تکمیل-کی-پابندی), [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تناسب](core_05_band_accountability.md#proportionality), [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries), and باب دوم تا چہارم mechanics where مادی طور پر شامل.
+- ساتھ پڑھیں: Apply [مادیت کا تعین](core_05_band_oversight.md#مادیت-کا-تعین), [جائزے کی تکمیل کی پابندی](core_05_band_oversight.md#جائزے-کی-تکمیل-کی-پابندی), [مخالفانہ، پیمانہ شدہ، اور استحصالی شرائط](core_05_band_oversight.md#مخالفانہ-پیمانہ-شدہ-اور-استحصالی-شرائط), [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری), [تناسب](../../core_05.035_band_accountability.md#proportionality), [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries), and باب دوم تا چہارم mechanics where مادی طور پر شامل.
 
 </details>
 
@@ -1516,8 +1516,8 @@ This nested sub-block is the joint home for publication-conduct floors and inter
   - misuse pathways; or
   - operating conditions;
 - whether “we could not have foreseen it” claims are justified;
-- whether analysis depth, scope, and scaling match [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [خطرہ](core_05_band_continuity.md#risk), and [انحصار](core_05_band_continuity.md#dependency); or
-- whether evaluation was incomplete in a way that defeats [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint), [خطرہ](core_05_band_continuity.md#risk) assessment, or [پیش بینی کی مستعدی](core_05_band_oversight.md#پیش-بینی-کی-مستعدی).
+- whether analysis depth, scope, and scaling match [مادی اثر](core_05_band_oversight.md#مادی-اثر), [مادی خطرہ](core_05_band_oversight.md#مادی-خطرہ), [خطرہ](../../core_05.040_band_continuity.md#risk), and [انحصار](../../core_05.040_band_continuity.md#dependency); or
+- whether evaluation was incomplete in a way that defeats [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint), [خطرہ](../../core_05.040_band_continuity.md#risk) assessment, or [پیش بینی کی مستعدی](core_05_band_oversight.md#پیش-بینی-کی-مستعدی).
 Outside that scope, individual entries may still apply on their own without importing the full compound.
 
 Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **باب دوم تا چہارم** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([باب دوم، §3 — تعریف کے ڈھیر پار مطابقت](core_02_definition_structure.md#3-تعریف-کے-ڈھیر-پار-مطابقت)).
@@ -1543,12 +1543,12 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 
 - **یہ کیا ہے**
   - **دائرے میں:** A standard of reasonable analysis sized to impact, covering:
-    - analysis depth that scales with [مادی اثر](core_05_band_oversight.md#مادی-اثر), [خطرہ](core_05_band_continuity.md#risk), and [انحصار](core_05_band_continuity.md#dependency) under [تناسب](core_05_band_accountability.md#proportionality);
+    - analysis depth that scales with [مادی اثر](core_05_band_oversight.md#مادی-اثر), [خطرہ](../../core_05.040_band_continuity.md#risk), and [انحصار](../../core_05.040_band_continuity.md#dependency) under [تناسب](../../core_05.035_band_accountability.md#proportionality);
     - required evaluation boundaries, including:
       - interactions;
       - dependency;
       - adversarial use; and
-      - relevant [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries);
+      - relevant [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries);
     - the duty to actually perform that evaluation; and
     - responsibility for justifying non-foreseeability claims under [معقول طور پر پیش بینی کے قابل](core_05_band_oversight.md#معقول-طور-پر-پیش-بینی-کے-قابل).
   - **دائرے سے باہر:**
@@ -1565,26 +1565,26 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 
     **بنیادی جائزہ:** Include known methods and patterns for what is [معقول طور پر پیش بینی کے قابل](core_05_band_oversight.md#معقول-طور-پر-پیش-بینی-کے-قابل), scaled to:
     - [مادی اثر](core_05_band_oversight.md#مادی-اثر);
-    - [خطرہ](core_05_band_continuity.md#risk); and
-    - [انحصار](core_05_band_continuity.md#dependency).
+    - [خطرہ](../../core_05.040_band_continuity.md#risk); and
+    - [انحصار](../../core_05.040_band_continuity.md#dependency).
     Include evaluation boundaries covering:
     - interactions;
-    - [انحصار](core_05_band_continuity.md#dependency);
+    - [انحصار](../../core_05.040_band_continuity.md#dependency);
     - adversarial use; and
-    - relevant [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries).
-    Include [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [خطرہ](core_05_band_continuity.md#risk) evaluation, or [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint).
+    - relevant [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries).
+    Include [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [خطرہ](../../core_05.040_band_continuity.md#risk) evaluation, or [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint).
 <a id="foreseeability-burden-c"></a>
 <a id="foreseeability-failure-c"></a>
 <a id="foreseeability-scaling-c"></a>
 <a id="foreseeability-scope-c"></a>
 <a id="foreseeability-diligence-c"></a>
 - **کیا قائم رہنا چاہیے**
-  - Analysis depth must scale with [مادی اثر](core_05_band_oversight.md#مادی-اثر) and [خطرہ](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
+  - Analysis depth must scale with [مادی اثر](core_05_band_oversight.md#مادی-اثر) and [خطرہ](../../core_05.040_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
   - Evaluation boundaries must include:
     - interactions;
-    - [انحصار](core_05_band_continuity.md#dependency);
+    - [انحصار](../../core_05.040_band_continuity.md#dependency);
     - adversarial use; and
-    - relevant [نظام کی سرحدیں](core_05_band_continuity.md#system-boundaries).
+    - relevant [نظام کی سرحدیں](../../core_05.040_band_continuity.md#system-boundaries).
   - Non-foreseeability claims require [آڈٹ پذیری](core_05_band_oversight.md#آڈٹ-پذیری)-compatible justification — assertion alone is not enough.
   - **بنیادی ناکامی:**
     - checkbox analysis with no real foreseeability evaluation;
@@ -1594,7 +1594,7 @@ Where admission scope is met, this nested sub-block is the joint home for forese
     - superficial analysis despite high impact;
     - scope limitation below required boundaries;
     - insufficient justification for a non-foreseeability claim; or
-    - incompleteness that defeats [پیش بینی کی مستعدی](core_05_band_oversight.md#پیش-بینی-کی-مستعدی), [خطرہ](core_05_band_continuity.md#risk) evaluation, or [حفاظت (پابندی)](core_05_band_continuity.md#safety-constraint).
+    - incompleteness that defeats [پیش بینی کی مستعدی](core_05_band_oversight.md#پیش-بینی-کی-مستعدی), [خطرہ](../../core_05.040_band_continuity.md#risk) evaluation, or [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constraint).
 
 <a id="reasonably-foreseeable"></a>
 
@@ -1618,6 +1618,6 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 
 **پچھلی فائل:** [core_05_band_integrative.md](core_05_band_integrative.md)
 
-**اگلی فائل (اس زبان میں):** [core_05_band_participation.md](core_05_band_participation.md)
+**اگلی فائل (اس زبان میں):** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 
 **پابند اصل:** [core_05_band_oversight.md](../../core_05.050_band_oversight.md)

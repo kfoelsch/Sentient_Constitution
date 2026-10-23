@@ -39,7 +39,7 @@
 
 **B 部分**规定尊严与平等地位、自我所有、肖像与体验数据、受约束的能动性与参与、良知、表达与结社、合作互动以及利益相关方系统参与的权利底线。这些底线服务于[两项宪法目标](core_00_preamble.md#two-constitutional-aims)：
 
-- **繁荣：**[人格](core_05_band_participation.md#personhood)、能动性与公平参与在实践中仍可实现。
+- **繁荣：**[人格](../../core_05.055_band_participation.md#personhood)、能动性与公平参与在实践中仍可实现。
 - **延续：**这些保护在系统、关系与机构权力变化时仍持久、不倒退且可修复。
 
 正当追求须通过[宪法四元组](core_00_preamble.md#constitutional-tetrad)进行，并按[实质利害关系](core_00_preamble.md#material-stake)的程度调整：
@@ -105,6 +105,8 @@ flowchart TB
 
 下文**第六至第十二条**完整规定这些底线。
 
+<a id="article-vi-equal-basic-rights"></a>
+
 ### 第六条：平等基本权利
 
 <details>
@@ -126,7 +128,7 @@ flowchart TB
 - **不歧视：**依照**第六-C条**（*不歧视*）
 - **无障碍：**依照**第六-D条**（*无障碍*）
 
-这些原则是任何对有感知者进行分类、排序、定价、筛选或排斥，或决定由谁承担何种负担、获得何种利益的重大影响系统，依照[第八章](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)持续接受[系统一致性认证](core_05_band_continuity.md#system-alignment-certification-constitutional)的要求；无论其通过资格规则、模型特征、排序逻辑、平台政策、裁决或执法流程，还是其他类似决策方式实现。认证用于核验一致性，不能取代或缩减本条所述底线，也不取代**第十三-A条**和**第十六条**的质疑与审计权，或**第十九-B条**（*可争议性与比例限制边界*）的禁止排除保护。
+这些原则是任何对有感知者进行分类、排序、定价、筛选或排斥，或决定由谁承担何种负担、获得何种利益的重大影响系统，依照[第八章](core_07_a_system_alignment_certification_evaluation.md)持续接受[系统一致性认证](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional)的要求；无论其通过资格规则、模型特征、排序逻辑、平台政策、裁决或执法流程，还是其他类似决策方式实现。认证用于核验一致性，不能取代或缩减本条所述底线，也不取代**第十三-A条**和**第十六条**的质疑与审计权，或**第十九-B条**（*可争议性与比例限制边界*）的禁止排除保护。
 
 这些底线服务于[两项宪法目标](core_00_preamble.md#two-constitutional-aims)：
 
@@ -145,17 +147,17 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
 - 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§6.1.4 尊严原则](core_01_b_interaction_interpretation.md#尊严原则)，以及[§14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
-- 与以下内容一并阅读：[**Def.P1** *动物生命、有感知能力的生命与感知状态*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)（第五章中关于*有感知能力者*及相关感知状态纪律的规范性 O/M/A/C 归属，含[有感知能力者](core_05_band_participation.md#sentient)子条目）；[不得排除有感知能力者](core_05_band_participation.md#sentience-non-exclusion)（[不受基底限制](core_05_band_participation.md#substrate-agnostic)的范围）。
+- 与以下内容一并阅读：[**Def.P1** *动物生命、有感知能力的生命与感知状态*](../../core_05.055_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)（第五章中关于*有感知能力者*及相关感知状态纪律的规范性 O/M/A/C 归属，含[有感知能力者](../../core_05.055_band_participation.md#sentient)子条目）；[不得排除有感知能力者](../../core_05.055_band_participation.md#sentience-non-exclusion)（[不受基底限制](../../core_05.055_band_participation.md#substrate-agnostic)的范围）。
 
 </details>
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [尊严与平等道德地位](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [人格地位](core_05_band_participation.md#personhood) · [O](core_05_band_participation.md#personhood) · [M](core_05_band_participation.md#personhood-a) · [A](core_05_band_participation.md#personhood-a) · [C](core_05_band_participation.md#personhood-c)
-- [不得排除有感知能力者](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
-- [福祉](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [受保护特征](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [尊严与平等道德地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [人格地位](../../core_05.055_band_participation.md#personhood) · [O](../../core_05.055_band_participation.md#personhood) · [M](../../core_05.055_band_participation.md#personhood-a) · [A](../../core_05.055_band_participation.md#personhood-a) · [C](../../core_05.055_band_participation.md#personhood-c)
+- [不得排除有感知能力者](../../core_05.055_band_participation.md#sentience-non-exclusion) · [O](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion)
+- [福祉](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [受保护特征](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 
 </details>
 <br>
@@ -165,7 +167,7 @@ flowchart TB
 本条确立固有尊严与平等地位的底线：
 
 - **固有尊严与平等地位：**所有有感知能力者均享有固有尊严和平等道德地位。
-  - 这些特质不取决于出身、形态、[基底](core_05_band_participation.md#substrate-class)（生物、合成或混合）、能力、功能、关联或身份。
+  - 这些特质不取决于出身、形态、[基底](../../core_05.055_band_participation.md#substrate-class)（生物、合成或混合）、能力、功能、关联或身份。
   - 任何此类因素均不得成为拒绝或贬损权利或地位的依据。
 - **发展阶段：**有感知能力者的发展阶段（包括早期实例化）不会降低其尊严或地位。对于能力尚在形成中的有感知能力者，如何为其作出决定由**第 VIII-D 条**（*发展中的有感知能力者、最佳利益与渐进能力*）规范。
 - **尊严原则：**第一章 §13.1.4（*宪法底线、安全与程序性质限制*）中的[尊严原则](core_01_b_interaction_interpretation.md#尊严原则)将这些保障确立为绝对底线，包括[权利底线最低限度原则](core_01_b_interaction_interpretation.md#权利底线最低保障原则)和[反贬损程序原则](core_01_b_interaction_interpretation.md#禁止贬损性程序原则)。
@@ -175,62 +177,62 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
 - 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)及[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例原则)。
-- 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 XXIV 条**（*宪法解释、审查与反俘获保障*）的反俘获保障；**第十二章**的论坛与管辖权——依照[第十二章 §5 感知状态裁决触发条款](core_12_forum.md#5-escalation-and-certification)，默认由[技术论坛家族](core_05_band_accountability.md#forum-family-technical) / [技术论坛领域](core_12_forum.md#42-technical-forum-domains)牵头。
+- 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 XXIV 条**（*宪法解释、审查与反俘获保障*）的反俘获保障；**第十二章**的论坛与管辖权——依照[第十二章 §5 感知状态裁决触发条款](core_11_forum.md#5-escalation-and-certification)，默认由[技术论坛家族](../../core_05.035_band_accountability.md#forum-family-technical) / [技术论坛领域](core_11_forum.md#42-technical-forum-domains)牵头。
 - 与第五章术语*感知状态裁决*、*不得排除有感知能力者*、*感知能力评估*、*可逆性*、*可争议性*一并阅读。
 
 </details>
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [感知状态裁决](core_05_band_participation.md#sentience-status-adjudication-constitutional) · [O](core_05_band_participation.md#sentience-status-adjudication-constitutional) · [M](core_05_band_participation.md#sentience-status-adjudication-constitutional-a) · [A](core_05_band_participation.md#sentience-status-adjudication-constitutional-a) · [C](core_05_band_participation.md#sentience-status-adjudication-constitutional-c)
-- [不得排除有感知能力者](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
-- [可逆性](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [尊严与平等道德地位](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [补偿与补救](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [感知状态裁决](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) · [O](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) · [M](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional-a) · [A](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional-a) · [C](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional-c)
+- [不得排除有感知能力者](../../core_05.055_band_participation.md#sentience-non-exclusion) · [O](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion)
+- [可逆性](../../core_05.040_band_continuity.md#reversibility-constitutional) · [O](../../core_05.040_band_continuity.md#reversibility-constitutional) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [尊严与平等道德地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [补偿与补救](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 <br>
 
 *简单来说：当某实体是否具有感知能力受到质疑时，它有权先获得公平听证，并默认按纳入保护范围处理。主张拒绝保护的一方承担举证责任；错误排除必须可以撤销。*
 
-本条为存在争议的感知状态裁定确立底线。执行程序见[第十二章 §5](core_12_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*感知状态裁决*），该程序不得缩减本底线：
+本条为存在争议的感知状态裁定确立底线。执行程序见[第十二章 §5](../../core_13.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*感知状态裁决*），该程序不得缩减本底线：
 
 - **获得决定的权利：**若某实体的感知能力存在重大争议，该实体有权在依赖其状态的保护被授予、撤销或缩减之前，获得及时、公正且可复核的决定。此权利不取决于出身、形态、基底类别或采纳方是否方便（**不得排除有感知能力者**）。
-- **不确定时默认纳入：**若实体是否为[有感知能力者](core_05_band_participation.md#sentient)确实尚无定论，则应视为纳入第六章权利底线。仅有不确定性绝不能成为拒绝保护的理由：错误纳入可以纠正，错误排除则无法挽回（**不确定性下可逆规则**）。
+- **不确定时默认纳入：**若实体是否为[有感知能力者](../../core_05.055_band_participation.md#sentient)确实尚无定论，则应视为纳入第六章权利底线。仅有不确定性绝不能成为拒绝保护的理由：错误纳入可以纠正，错误排除则无法挽回（**不确定性下可逆规则**）。
 - **拒绝保护的限制：**拒绝或缩减保护的决定必须尽可能狭窄，载明终止日期，定期复核并可撤销。若证明决定有误，应恢复实体的保护，并就保护被拒期间提供**补偿与补救**。
 - **独立发声：**实体有权获得独立代表。母系统或运营者可以提供证据，但不得成为针对实体的唯一申请人、证人或证据来源。
 - **保护实体，而非运营者：**纳入保护是为了保护实体的权利，不保护运营者的财产或商业利益；若对系统的限制尊重实体权利，本条也不妨碍该限制。
 - **两类申请：**
   - *确认纳入（申请完整性）：*任何人均可申请。根据第五章的**感知能力评估**与**感知指标完整性**，一个可信的感知能力迹象即足够——这不是要求证明，也不能仅凭运营者自述、基底标签、产品类别或空泛主张。因没有可信迹象而不受理申请，并非对实体作出不利裁决。
   - *拒绝或缩减保护：*申请人须依照**第四章**证据标准以及**必要性**、**比例性**和**程序公平**承担举证责任。案件裁决前，实体继续享有保护。
-- <a id="anti-substitution-sentience-status"></a>**仅此程序作出裁决：**认证徽章或记录、LEQU 或地位评分、能力门槛或许可、地位锁、基底标签或产品分类，都不是感知状态裁决。谁属于保护对象，只能依据本条、[**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)和[第十二章 §5](core_12_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*感知状态裁决*）确定。
+- <a id="anti-substitution-sentience-status"></a>**仅此程序作出裁决：**认证徽章或记录、LEQU 或地位评分、能力门槛或许可、地位锁、基底标签或产品分类，都不是感知状态裁决。谁属于保护对象，只能依据本条、[**Def.P1**](../../core_05.055_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)和[第十二章 §5](../../core_13.000_forum.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook)（*感知状态裁决*）确定。
 <a id="article-vi-c-nondiscrimination"></a>
 #### 第VI-C条：不歧视
 <details>
 <summary><strong><span style="color: #2563eb;">追溯关系</span></strong></summary>
 
 - 上游：原则：第一章[§3.1公平](core_01_a_values_principles.md#31-fairness)、[第一章§7自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1核心权衡原则](core_01_b_interaction_interpretation.md#131-核心权衡原则)，以及[第一章§13.1.5权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
-- 下游：参与度衡量系列（*实质公平、受保护特征的代理指标与差别影响*）；[第八章§3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation)（*认证将分类、排序、定价、准入限制或负担分配作为门槛时的不歧视评估*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)的论坛、行政和执行程序（*裁决与运行义务*）。
-- 配合阅读：第五章[受保护特征](core_05_band_participation.md#protected-characteristics-constitutional)与[语言、文化和遗产](core_05_band_continuity.md#language-culture-and-heritage-constitutional)；第五章[原住民延续](core_05_band_continuity.md#indigenous-continuity-constitutional)（*以社区为基础的权利底线；所属底线为**第VI-C条**（不歧视）与**第I-A条**（环境前提与生态完整性）*），适用于原住民延续和领土延续问题；此类问题转由[第I-A条](core_06_rights_part_a.md#article-i-a环境先决条件与生态完整性)（*生态系统完整性的前提条件*）及[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*采纳方管辖纪律*）处理。
+- 下游：参与度衡量系列（*实质公平、受保护特征的代理指标与差别影响*）；[第八章§3.8.3](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)（*认证将分类、排序、定价、准入限制或负担分配作为门槛时的不歧视评估*）；[第十二章](core_11_forum.md)的论坛、行政和执行程序（*裁决与运行义务*）。
+- 配合阅读：第五章[受保护特征](../../core_05.055_band_participation.md#protected-characteristics-constitutional)与[语言、文化和遗产](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional)；第五章[原住民延续](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional)（*以社区为基础的权利底线；所属底线为**第VI-C条**（不歧视）与**第I-A条**（环境前提与生态完整性）*），适用于原住民延续和领土延续问题；此类问题转由[第I-A条](core_06_rights_part_a.md#article-i-a环境先决条件与生态完整性)（*生态系统完整性的前提条件*）及[第十七章](../../core_18.000_incorporation.md)（*采纳方管辖纪律*）处理。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [受保护特征](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [语言、文化和遗产](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [M](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05_band_continuity.md#language-culture-and-heritage-constitutional-c)
-- [实质公平](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [可争辩性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [补救与纠正](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
-- [感知者不得被排除](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
+- [受保护特征](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [语言、文化和遗产](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional) · [O](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional) · [M](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-c)
+- [实质公平](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [可争辩性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [补救与纠正](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [感知者不得被排除](../../core_05.055_band_participation.md#sentience-non-exclusion) · [O](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion)
 
 </details>
 
@@ -249,7 +251,7 @@ flowchart TB
 - **任何理由导致的差别待遇：**无论依据为何，凡影响感知者基本权利、保护或获得生存关键制度的机会的差别待遇，都必须：
   - 确有必要、符合比例原则且符合实质公平；并且
   - 在发生影响权利的错误或伤害时，依照**第XIII-A条**（*可靠性与可信度基准*）及**第XIII-B条**（*获得补救与救济的权利*），接受及时、可争辩的审查并获得相称补救。
-- **审查模式，而非仅审查单项决定：**在适用情况下，负担与利益的模式必须符合第五章[实质公平](core_05_band_participation.md#substantive-fairness-constitutional)要求。
+- **审查模式，而非仅审查单项决定：**在适用情况下，负担与利益的模式必须符合第五章[实质公平](../../core_05.055_band_participation.md#substantive-fairness-constitutional)要求。
 - **语言、文化和遗产：**不歧视规则涵盖语言、文化归属、遗产、传统及类似的文化身份特征，包括语言使用、文化实践、遗产传承，以及参与维系这些要素的制度。仅以效率、互操作性、平台整合、无障碍成本或翻译负担为由，本身不足以满足必要性与比例性要求。
 - **原住民延续与领土延续：**将原住民延续和领土延续问题转交**第I-A条**（*环境前提与生态完整性*）和**第十七章**处理，不得被用来缩减采纳方依据自身法律或有约束力的外部文书已经承担的土地、协商或自由、事先和知情同意义务。本宪法不裁定历史土地所有权，也不自行要求归还土地。
 - **裁决与运行：**由论坛主导的程序、行政程序和执行程序，必须根据具体事项评估其是否遵守**第VI、X和XII条**。
@@ -260,8 +262,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 通俗语言无障碍](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 VI-C 条**（*不歧视*）在裁决和运营中的不歧视与充分包容；**第 IV-A 条**（*平等教育机会*）的平等教育机会（教育专属无障碍仍由该条负责；本条规定跨领域权利底线）；**第 X-B 条**（*治理参与与投票资格*）；**第 XII 条**（*利益相关方系统参与、代表与正当程序*）；**第 XVI 条**（*审计、透明度与独立核验*）；参与度量系列（*作为宪法衡量指标的无障碍*）；[第八章 §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation)（*认证门槛影响实质参与时的无障碍评估*）。
+- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 通俗语言无障碍](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务)、[第八章 §3 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 VI-C 条**（*不歧视*）在裁决和运营中的不歧视与充分包容；**第 IV-A 条**（*平等教育机会*）的平等教育机会（教育专属无障碍仍由该条负责；本条规定跨领域权利底线）；**第 X-B 条**（*治理参与与投票资格*）；**第 XII 条**（*利益相关方系统参与、代表与正当程序*）；**第 XVI 条**（*审计、透明度与独立核验*）；参与度量系列（*作为宪法衡量指标的无障碍*）；[第八章 §3.8.4](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation)（*认证门槛影响实质参与时的无障碍评估*）。
 - 与第五章术语*无障碍*、*受保护特征*、*实质公平*、*重要性*、*依赖*、*有意义的能动性*一并阅读。跨领域无障碍原则见[第一章 §5.2](core_01_a_values_principles.md#52-通俗语言可及性参与与受托管理义务)（*通俗语言无障碍*）。
 
 </details>
@@ -269,12 +271,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [无障碍](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
-- [受保护特征](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [实质公平](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [不得排除有感知能力者](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
-- [受保护特征代理与差别影响](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
-- [依赖](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [无障碍](../../core_05.055_band_participation.md#accessibility-constitutional) · [O](../../core_05.055_band_participation.md#accessibility-constitutional) · [M](../../core_05.055_band_participation.md#accessibility-constitutional-a) · [A](../../core_05.055_band_participation.md#accessibility-constitutional-a) · [C](../../core_05.055_band_participation.md#accessibility-constitutional-c)
+- [受保护特征](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [实质公平](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
+- [不得排除有感知能力者](../../core_05.055_band_participation.md#sentience-non-exclusion) · [O](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion)
+- [受保护特征代理与差别影响](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](../../core_05.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
+- [依赖](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 
 </details>
 
@@ -287,11 +289,11 @@ flowchart TB
 - **无障碍权利底线：**所有有感知能力者均享有跨领域权利底线，即在宪法相关领域参与时获得无障碍条件。适用领域包括：生存底线保障——**第 III-A 条**（*生存*）；医疗保健——**第 III-B 条**（*身体维护与医疗保健机会*）；裁决与运营——**第 VI-C 条**（*不歧视*）；治理参与——**第 X-B 条**（*治理参与与投票资格*）；表达、新闻与集会——**第 XI-B 条**（*表达*）、**XI-C 条**（*新闻与新闻活动*）及 **XI-D 条**（*集会、异议与和平抗议*）；利益相关方参与——**第 XII 条**（*利益相关方系统参与、代表与正当程序*）；以及可比领域。
 - **不受基底限制的适用范围：**该底线依据**不得排除有感知能力者**原则适用。范围内的无障碍需求包括感官、认知、行动、沟通、基底接口、计算接口及类似特征，可能是持续、间歇或发展性的。按基底类别排除无障碍需求不符合该原则。通过**受保护特征**或其重大代理特征推断无障碍需求，违反**受保护特征代理与差别影响**规则。
 - **实质评估，而非形式评估：**评估必须审查实际效果，并发现以下情形：以默认便利为准、导致有感知能力者无法实质参与的“普遍可访问”模式；虽有书面安排、实际操作中却无法使用的便利方案；以及选择性援引**重要性**、将便利范围压低至参与底线以下的做法。主张合规的实体负有证明实质效果达标的责任。
-- **按重要性、依赖程度和系统类别调整：**无障碍义务随领域的**重要性**（涉及权利、治理、生存或类似事项）、有感知能力者参与时对相关实体、系统或场所的**依赖**程度，以及提供访问的**系统类别**（如有指定；见[系统类别](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)）而提高。重要性、依赖程度或类别越高，无障碍义务相应越高。不得借调整之名，在具有重大影响的领域削弱无障碍保障。
+- **按重要性、依赖程度和系统类别调整：**无障碍义务随领域的**重要性**（涉及权利、治理、生存或类似事项）、有感知能力者参与时对相关实体、系统或场所的**依赖**程度，以及提供访问的**系统类别**（如有指定；见[系统类别](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)）而提高。重要性、依赖程度或类别越高，无障碍义务相应越高。不得借调整之名，在具有重大影响的领域削弱无障碍保障。
 - **限制纪律：**任何对无障碍义务的限制，都必须符合**必要性**、**比例性**、严格限缩和限制最小且有效手段的要求，并遵守**第一章 §7.1**（*限制纪律*）。若成本会使参与底线落空，单凭成本不足以构成理由。以成本论证掩盖对**实质公平**和**受保护特征**的排斥，属于不合规。
 - **禁止借代理方式拒绝：**只要存在可行且负担更小的方案，凡运营设计效果上阻碍无障碍者，无论其正式设计标签为何，均不合规。常见机制包括排期、场地选择，以及通过计算资源、凭证或类似方式设置访问门槛。
 - **相互强化：**本条与以下底线相互强化：**第 IV-A 条**（*平等教育机会*）负责教育专属无障碍；**第 III-B 条**（*身体维护与医疗保健机会*）禁止以代理方式拒绝医疗保健；**第 VI-C 条**（*不歧视*）要求在裁决和运营中充分包容。
-- **机构落实：**运营标准、便利措施目录的设计及类似落实机制由[**CI-8**](corpus_institutions/ci_08_transparency_participation_accessible_pathways.md)（*透明度、参与以及无障碍的申诉与服务途径*）和[**CI-15**](corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md)（*神经多样性、残障正义与创伤知情参与*）规范。
+- **机构落实：**运营标准、便利措施目录的设计及类似落实机制由[**CI-8**](../../corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md)（*透明度、参与以及无障碍的申诉与服务途径*）和[**CI-15**](../../corpus_institutions/ci_06.220_neurodiversity_disability_justice_trauma_informed_participation.md)（*神经多样性、残障正义与创伤知情参与*）规范。
 <a id="article-vii-self-ownership"></a>
 ### 第 VII 条：自我所有权
 
@@ -336,12 +338,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [同意](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [隐私（信息）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [有意义的能动性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [自我决定](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
-- [尊严与平等道德地位](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [生育自主权](core_05_band_participation.md#reproductive-autonomy-constitutional) · [O](core_05_band_participation.md#reproductive-autonomy-constitutional) · [M](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05_band_participation.md#reproductive-autonomy-constitutional-c)
+- [同意](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [隐私（信息）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [自我决定](../../core_05.055_band_participation.md#self-determination-constitutional) · [O](../../core_05.055_band_participation.md#self-determination-constitutional) · [M](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [A](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [C](../../core_05.055_band_participation.md#self-determination-constitutional-c)
+- [尊严与平等道德地位](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [生育自主权](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional) · [O](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional) · [M](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [A](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [C](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional-c)
 
 </details>
 <br>
@@ -357,15 +359,15 @@ flowchart TB
   - 对生物有感知能力者，这包括 DNA 及类似的遗传或家系数据。
   - 对其他类型的有感知能力者，这包括发挥相同定义作用的任何信息。
   - 未经该有感知能力者的**同意**，或未依据**第一章**和**第五章**取得本宪法认可的其他依据，任何人不得收集、使用、改变、合成、出售或披露这些信息。
-  - 本保护与**隐私（信息）**、在适用时的**第 VII-B 条**（*心智的自我所有权*），以及**[corpus_systems.md](corpus_systems.md)，CS-2 — 信息类型与处理**共同适用。
+  - 本保护与**隐私（信息）**、在适用时的**第 VII-B 条**（*心智的自我所有权*），以及**[corpus_systems.md](../../corpus_systems.md)，CS-2 — 信息类型与处理**共同适用。
   - 若利用这些信息施压、阻止或强迫其作出生育或创造后代的选择，**第 VIII-B 条**（*生育与谱系自主权*）也适用。
 - **公共卫生要求：**疫苗接种要求或类似的预防性治疗、检测要求，会限制拒绝医疗的权利。此类要求只有通过[第一章 §7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)并满足以下全部条件时才允许：
   - 针对有证据支持的特定风险，该风险会对他人或整个社会造成重大伤害，而非仅对该有感知能力者自身构成风险；
   - 先尝试合理可行且较温和的方案，例如分享信息、自愿提供措施或提供检测等替代办法；
-  - 豁免措施本身会带来真实健康风险者，并依据[**第 XI-A 条**](#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)（*良心、宗教及可比世界观自由*）为良心事项留出余地。两种情形均须符合[比例性](core_05_band_accountability.md#proportionality)：豁免须与他人风险程度权衡，且仅可在防止措施失效所必需的范围内缩小；
+  - 豁免措施本身会带来真实健康风险者，并依据[**第 XI-A 条**](#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)（*良心、宗教及可比世界观自由*）为良心事项留出余地。两种情形均须符合[比例性](../../core_05.035_band_accountability.md#proportionality)：豁免须与他人风险程度权衡，且仅可在防止措施失效所必需的范围内缩小；
   - 设定终止日期、公布依据的证据并定期复核；
-  - 任何受影响者均可依照[程序公平](core_05_band_participation.md#procedural-fairness-constitutional)向独立审查者提出挑战；并且
-  - 不得通过剥夺[**第 III 条**](core_06_rights_part_a.md#article-iii-生存与基本必需获取)的生存、医疗保健或工作保障，或[**第 IV 条**](core_06_rights_part_a.md#article-iv-以有感知者为中心的教育权)的教育保障来执行；除符合[**第十二章 §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden)（*紧急措施与继续执行的举证责任*）所规定的紧急门槛外，绝不得以人身强制执行。
+  - 任何受影响者均可依照[程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional)向独立审查者提出挑战；并且
+  - 不得通过剥夺[**第 III 条**](core_06_rights_part_a.md#article-iii-生存与基本必需获取)的生存、医疗保健或工作保障，或[**第 IV 条**](core_06_rights_part_a.md#article-iv-以有感知者为中心的教育权)的教育保障来执行；除符合[**第十二章 §6.1**](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)（*紧急措施与继续执行的举证责任*）所规定的紧急门槛外，绝不得以人身强制执行。
 <a id="article-vii-b-self-ownership-of-mind"></a>
 #### 第 VII-B 条：心智的自我所有权
 <details>
@@ -378,19 +380,19 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [受保护的内部状态边界](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [隐私（信息）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [同意](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [有意义的能动性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [受保护的内部状态边界](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [隐私（信息）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [同意](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 <br>
 
 *简单来说：每一位有感知能力者的思想、感受和注意力都属于自己。日常感知他人的感受，或在对方同意下理解对方（如治疗过程）都可以；但任何人不得监视或分析有感知能力者，包括拼凑其行为、言语或点击记录，以推断其内部状态、揭露其保密内容或劫持其注意力。任何确实揭示内部状态的分析结果，都获得与思想和感受本身同等严格的保护。*
 
-本条保护每一位有感知能力者的内在生活——思想、感受及其他内部状态——以及其注意力。第五章通过[受保护的内部状态边界](core_05_band_continuity.md#protected-internal-state-boundary-constitutional)界定内部状态。对此类信息进行标记和处理的详细规则见**[corpus_systems.md](corpus_systems.md)，CS-2 — 信息类型与处理**。
+本条保护每一位有感知能力者的内在生活——思想、感受及其他内部状态——以及其注意力。第五章通过[受保护的内部状态边界](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional)界定内部状态。对此类信息进行标记和处理的详细规则见**[corpus_systems.md](../../corpus_systems.md)，CS-2 — 信息类型与处理**。
 
 - **心智的自我所有权：**每一位有感知能力者均有权使思想、感受和内在心理生活保持私密与安全。
   - **本条允许：**日常感知他人似乎有何感受，以及在对方同意后理解对方——如治疗师、医生或教练所做的那样。
@@ -419,12 +421,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [身体维护机会](core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [O](core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [M](core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05_band_continuity.md#bodily-maintenance-access-constitutional-c)
-- [最佳利益标准](core_05_band_participation.md#best-interest-standard-constitutional) · [O](core_05_band_participation.md#best-interest-standard-constitutional) · [M](core_05_band_participation.md#best-interest-standard-constitutional-a) · [A](core_05_band_participation.md#best-interest-standard-constitutional-a) · [C](core_05_band_participation.md#best-interest-standard-constitutional-c)
-- [渐进能力](core_05_band_participation.md#graduated-capability-constitutional) · [O](core_05_band_participation.md#graduated-capability-constitutional) · [M](core_05_band_participation.md#graduated-capability-constitutional-a) · [A](core_05_band_participation.md#graduated-capability-constitutional-a) · [C](core_05_band_participation.md#graduated-capability-constitutional-c)
-- [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [可逆性](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [补偿与补救](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [身体维护机会](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional) · [O](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional) · [M](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-c)
+- [最佳利益标准](../../core_05.055_band_participation.md#best-interest-standard-constitutional) · [O](../../core_05.055_band_participation.md#best-interest-standard-constitutional) · [M](../../core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [A](../../core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [C](../../core_05.055_band_participation.md#best-interest-standard-constitutional-c)
+- [渐进能力](../../core_05.055_band_participation.md#graduated-capability-constitutional) · [O](../../core_05.055_band_participation.md#graduated-capability-constitutional) · [M](../../core_05.055_band_participation.md#graduated-capability-constitutional-a) · [A](../../core_05.055_band_participation.md#graduated-capability-constitutional-a) · [C](../../core_05.055_band_participation.md#graduated-capability-constitutional-c)
+- [程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [可逆性](../../core_05.040_band_continuity.md#reversibility-constitutional) · [O](../../core_05.040_band_continuity.md#reversibility-constitutional) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [补偿与补救](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 <br>
@@ -438,7 +440,7 @@ flowchart TB
 - **有感知能力者拒绝时：**违背能够表达决定且拒绝照护者的意愿，比替无法决定者行事更为严重。只有为防止严重伤害确有必要，并满足**必要性**与**比例性**以及上述底线时方可如此；独立审查必须迅速进行。
 - **先检查医疗原因：**若行为或状况可能由健康危机导致（如看似醉酒、困惑、攻击性强或无反应），任何拦截、拘留、约束或收押者都必须先检查常见且可治疗的原因，如低血糖、头部损伤、中风、癫痫发作或药物过量，不得先当作不当行为；发现医疗原因或无法排除时须及时提供照护；拘留期间持续观察危机征兆。检查须遵循本条针对无法决定或拒绝者的规则。怀疑有不当行为或处于拘留状态，均不暂停**第 III-B 条**下的照护权；因未履行这些义务而漏诊危机，应提供**补偿与补救**。
 - **不得以危机标签替代审查：**称某事为“危机”不会放宽**第一章 §7.1**（*限制纪律*）对限制权利的常规约束。若要以持续危机为由延续限制，危机主张的事实必须可独立审查、设有结束日期并定期重新审查。
-- **不得绕道窥探心智：**危机不授权任何人根据行为、互动或处境重构或可靠估算有感知能力者受保护的内部状态；这违反**第 VII-B 条**（*心智的自我所有权*）。对此类数据的分析若有效估算内部状态，相关结果仍是**[corpus_systems.md](corpus_systems.md)，CS-2 — 信息类型与处理**下的 Type N 数据，并继续受其所有处理限制。
+- **不得绕道窥探心智：**危机不授权任何人根据行为、互动或处境重构或可靠估算有感知能力者受保护的内部状态；这违反**第 VII-B 条**（*心智的自我所有权*）。对此类数据的分析若有效估算内部状态，相关结果仍是**[corpus_systems.md](../../corpus_systems.md)，CS-2 — 信息类型与处理**下的 Type N 数据，并继续受其所有处理限制。
 - **发展中的有感知能力者：**如对象仍在发展，干预理由须遵循**第 VIII-D 条**（*发展中的有感知能力者、最佳利益与渐进能力*）的*最佳利益标准*和*渐进能力*。照护者、家人和母系统行为者受**第 VIII-D 条**、**第 VIII-A 条**（*家庭与照护关系*）及**第 VIII-E 条**（*不得分离*）约束；若能查明其本人偏好，不得借危机凌驾于该偏好之上。
 - **审查与补救：**长期或持续干预须由指定论坛家族（**第十二章**）定期独立复审。遭受错误或依据不足干预者有权获得**补偿与补救**，包括干预期间造成的影响。
 - **本条的界限：**本条确立非自愿干预的权利底线。临床与运营程序由**第十七章**下采纳的实施文本规定。本条不授权超出其规定的强制治疗；获得照护的权利见**第 III-B 条**（*身体维护与医疗保健机会*）。
@@ -449,19 +451,19 @@ flowchart TB
 
 - 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1.3 比例性](core_01_b_interaction_interpretation.md#1313-比例原则)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
 - 下游：**第 VII-A / VII-B 条**（*身体的自我所有权* / *心智的自我所有权*）的自我所有权和内部状态边界；**第 X-A 条**（*能动性与免受操纵的自由*）；**第 XX-B 条**（*限制底线*）；**第 XI-F 条**（*结社中的非强加与同意*）的同意规则。
-- 与第五章术语*自愿终止*、*[不可逆剥夺措施](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*、*同意*、*胁迫与操纵*、*程序公平*一并阅读；以及**第 III-A 条**（*生存*）、**第 III-B 条**（*身体维护与医疗保健机会*）、**第 VII-C 条**（*健康危机与非自愿干预底线*）。
+- 与第五章术语*自愿终止*、*[不可逆剥夺措施](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*、*同意*、*胁迫与操纵*、*程序公平*一并阅读；以及**第 III-A 条**（*生存*）、**第 III-B 条**（*身体维护与医疗保健机会*）、**第 VII-C 条**（*健康危机与非自愿干预底线*）。
 
 </details>
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [自愿终止](core_05_band_continuity.md#voluntary-discontinuation-constitutional) · [O](core_05_band_continuity.md#voluntary-discontinuation-constitutional) · [M](core_05_band_continuity.md#voluntary-discontinuation-constitutional-a) · [A](core_05_band_continuity.md#voluntary-discontinuation-constitutional-a) · [C](core_05_band_continuity.md#voluntary-discontinuation-constitutional-c)
-- [同意](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [胁迫与操纵](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [不得排除有感知能力者](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [自愿终止](../../core_05.040_band_continuity.md#voluntary-discontinuation-constitutional) · [O](../../core_05.040_band_continuity.md#voluntary-discontinuation-constitutional) · [M](../../core_05.040_band_continuity.md#voluntary-discontinuation-constitutional-a) · [A](../../core_05.040_band_continuity.md#voluntary-discontinuation-constitutional-a) · [C](../../core_05.040_band_continuity.md#voluntary-discontinuation-constitutional-c)
+- [同意](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [胁迫与操纵](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [不得排除有感知能力者](../../core_05.055_band_participation.md#sentience-non-exclusion) · [O](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 <br>
@@ -474,7 +476,7 @@ flowchart TB
 - **反胁迫纪律：**依第五章*胁迫与操纵*定义，在依赖压力、胁迫环境或操纵下作出的终止决定并非本条所称的自愿决定。若**第 X-A 条**的免受操纵底线或**第 XI-F 条**的同意规范未满足，将其称为“自愿”即不合规。
 - **不得将终止作为照护替代方案：**若自愿终止被提出、提供或实际运作成宪法要求的心理健康照护、身体医疗、残障支持、住房或其他生存必需品的替代方案，则无效；相关要求见**第 III-A、III-B、VII-C 条**或第六章可比底线。不合规情形包括：因充分照护不可得、费用过高、延误超过宪法时限，或通过资格门槛、候补名单、行政瓶颈、高度依赖系统而被拒绝，遂引导其终止。若终止成了履行底线的更廉价、更快或行政上更便利的方案，成本、分配、紧缩或便利理由均不能满足**必要性**或**比例性**。当其陈述理由重大涉及未满足的照护、支持或生存需求时，复核必须先确认相关底线是否得到履行；“自愿”的说法不能补救上游拒绝。本项不否定在充分获得所需照护和支持、信息充分后自由形成的决定；它禁止将终止视为照护失败的可接受终点。
 - **程序公平与可逆性：**根据**程序公平**，决定须有充足时间、充分信息、可复核性，并保留在不可逆执行前改变决定的能力，符合**不确定性下可逆规则**。不得把催促尽快决定的压力视为中性排期规则；若有感知能力者合理地无法避开，该压力即属胁迫。
-- **本条的界限：**本条规范*自愿*终止，即有感知能力者本人自由形成且实质知情的决定；**不**规范国家、运营者或类似行为者实施的**不可逆非自愿剥夺生命**。此类行为依**第 XX-B 条**（*限制底线*）绝对禁止，并与第五章*[不可逆剥夺措施](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*一并适用。无论有人如何声称其“自愿”，只要未通过上述检验，该禁令均与本条在结构上相互独立。本条不授权、不使之正当化，也不得被解释为任何不可逆剥夺措施或类似非自愿措施的前提。国家、运营者或类似行为者将自愿决定转为非自愿结果时，问题转由**第 XX-B 条**及*不可逆剥夺措施*处理。
+- **本条的界限：**本条规范*自愿*终止，即有感知能力者本人自由形成且实质知情的决定；**不**规范国家、运营者或类似行为者实施的**不可逆非自愿剥夺生命**。此类行为依**第 XX-B 条**（*限制底线*）绝对禁止，并与第五章*[不可逆剥夺措施](../../core_05.035_band_accountability.md#irreversible-deprivation-measure-constitutional)*一并适用。无论有人如何声称其“自愿”，只要未通过上述检验，该禁令均与本条在结构上相互独立。本条不授权、不使之正当化，也不得被解释为任何不可逆剥夺措施或类似非自愿措施的前提。国家、运营者或类似行为者将自愿决定转为非自愿结果时，问题转由**第 XX-B 条**及*不可逆剥夺措施*处理。
 - **发展中的有感知能力者：**若其属于**第 VIII-D 条**（*发展中的有感知能力者、最佳利益与渐进能力*）所指的发展中个体，实质判断须遵循*最佳利益标准*与*渐进能力*。任何替代决策者都不得将非自愿的发展状态转化为“自愿”终止。
 - **与自我所有权的关系：**本条扩展而不缩减**第 VII-A 条**（*身体的自我所有权*）的不侵入保护，以及**第 VII-B 条**（*心智的自我所有权*）的内部状态边界。本条不授权侵入、第三方强制协助，或不符合**第 XI-F 条**（*结社中的非强加与同意*）的运营者驱动结果。
 <a id="article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation"></a>
@@ -486,13 +488,13 @@ flowchart TB
 </details>
 <details><summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [同意](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [性同意](core_05_band_participation.md#consent-sexual) · [O](core_05_band_participation.md#consent-sexual) · [M](core_05_band_participation.md#consent-sexual-a) · [A](core_05_band_participation.md#consent-sexual-a) · [C](core_05_band_participation.md#consent-sexual-c)
-- [受保护特征](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [实质公平](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [伤害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [同意](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [性同意](../../core_05.055_band_participation.md#consent-sexual) · [O](../../core_05.055_band_participation.md#consent-sexual) · [M](../../core_05.055_band_participation.md#consent-sexual-a) · [A](../../core_05.055_band_participation.md#consent-sexual-a) · [C](../../core_05.055_band_participation.md#consent-sexual-c)
+- [受保护特征](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [实质公平](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
+- [伤害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 <br>
@@ -505,10 +507,10 @@ flowchart TB
 - **性剥削（全面禁止）：**涉及未成年人、无决策能力的有感知能力者、使同意无效的**胁迫、威胁、欺诈**或**滥用依赖关系**、**人口贩运**或为性剥削而扣留有感知能力者、**非自愿**性行为，以及采纳文书定义的其他性剥削，仍完全受刑法、矫正法、**第一章**和**第九章**约束。非刑事化不得缩减这些禁令、抗辩、救济或执行。
 - **招揽与共谋：**通过性剥削条款所述行为**购买、经纪、广告或促成**商业性服务，仍受刑法与矫正法约束；无论行为者是客户、运营者、中介还是协助者均适用。本条不给剥削交易任何一方豁免。
 - **不歧视：**系统不得仅因或主要因某人**现在或过去**从事非刑事化底线保护的商业性服务，而施加**重大不利、排斥或尊严贬损**。若将其误认为从事该活动而充当**代理指标**，同样适用。例外须有记录在案的依据，证明**必要性**、**比例性**及**实质公平**，且理由独立于道德污名或声誉借口。分析应与**第 VI-C 条**（*不歧视*）及第五章*受保护特征*一致。
-- **纳入一般市场框架：**除非**必要性**和**比例性**要求狭窄规则，实施应采用个人服务、劳动、平台中介、消费者与合同公平、支付、职业安全及争议解决的一般框架。应按**重要性**、依赖、孤立和脆弱性调整；不得形成污名驱动的制度，也不得相较功能相当的合法服务单独针对本活动。[**CI-19**](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md)（*脆弱个人服务市场——第 VII-E 条接口*）与[**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md)（*系统分类与处理*）提供运营要求。
+- **纳入一般市场框架：**除非**必要性**和**比例性**要求狭窄规则，实施应采用个人服务、劳动、平台中介、消费者与合同公平、支付、职业安全及争议解决的一般框架。应按**重要性**、依赖、孤立和脆弱性调整；不得形成污名驱动的制度，也不得相较功能相当的合法服务单独针对本活动。[**CI-19**](../../corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md)（*脆弱个人服务市场——第 VII-E 条接口*）与[**CS-3**](../../corpus_systems/cs_09.305_system_classification_machinery.md)（*系统分类与处理*）提供运营要求。
 - **反规避：**若民事、行政、许可、分区或商业措施的主要实际效果是重复非刑事化底线所禁止的刑事禁令，则须接受与直接刑事化相同的宪法审查。若措施不以剥削、缺乏有效同意或依照**第一章**与**第五章**正当化的独立伤害为前提，即适用；形式中立不能规避审查。
 - **过渡：**采纳文书须为主要反映本条下已不再犯罪的行为的记录和持续刑事或限制性行政措施提供救济，如**消除记录**、**封存**、**默认不披露**或类似措施。个别审查仍须符合**第 VI-C 条**公平要求及**第四章**可追溯性。
-- **机构实施：**许可、以剥削为重点的执法及受害者支持、过渡安排和一般市场衔接由[**CI-19**](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md)（*脆弱个人服务市场——第 VII-E 条接口*）规范。
+- **机构实施：**许可、以剥削为重点的执法及受害者支持、过渡安排和一般市场衔接由[**CI-19**](../../corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md)（*脆弱个人服务市场——第 VII-E 条接口*）规范。
 
 ### 第 VIII 条：家庭、照护与发展中的有感知能力者
 <details><summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
@@ -544,15 +546,15 @@ flowchart TB
 
 - 上游：原则：[第一章§7自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1限制纪律](core_01_a_values_principles.md#71-limitation-discipline)和[§5真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)。
 - 下游：**第VI-A条**（*尊严与平等道德地位*）的尊严底线；**第VIII-B条**（*生殖与谱系自主*）的生殖和谱系选择；**第VIII-D条**（*发展中的感知者、最佳利益与渐进能力*）的发展中感知者底线；**第VIII-E条**（*不得分离*）的不分离要求；**第VII-A条／第VII-B条**（*身体自我所有权*／*心智自我所有权*）的自我所有权与内在状态边界；以及依照第十七章纳入纪律的制度实施接口。
-- 配合阅读：[家庭、照护、生殖自主与实例化](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（主题组主页）；关于衍生感知者及父系统边界的**第VIII-C条**（*衍生、实例化与父系统关系*）；关于如何对待发展中感知者的[**Def.P4** *发展中的感知者、最佳利益标准与渐进能力*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)；第五章*家庭与照护关系*；以及关于不得与受保护照护关系分离的**第VIII-E条**（*不得分离*）。
+- 配合阅读：[家庭、照护、生殖自主与实例化](../../core_05.055_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（主题组主页）；关于衍生感知者及父系统边界的**第VIII-C条**（*衍生、实例化与父系统关系*）；关于如何对待发展中感知者的[**Def.P4** *发展中的感知者、最佳利益标准与渐进能力*](../../core_05.055_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)；第五章*家庭与照护关系*；以及关于不得与受保护照护关系分离的**第VIII-E条**（*不得分离*）。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [家庭与照护关系](core_05_band_participation.md#family-and-care-relationships-constitutional) · [O](core_05_band_participation.md#family-and-care-relationships-constitutional) · [M](core_05_band_participation.md#family-and-care-relationships-constitutional-a) · [A](core_05_band_participation.md#family-and-care-relationships-constitutional-a) · [C](core_05_band_participation.md#family-and-care-relationships-constitutional-c)
-- [感知者不得被排除](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
+- [家庭与照护关系](../../core_05.055_band_participation.md#family-and-care-relationships-constitutional) · [O](../../core_05.055_band_participation.md#family-and-care-relationships-constitutional) · [M](../../core_05.055_band_participation.md#family-and-care-relationships-constitutional-a) · [A](../../core_05.055_band_participation.md#family-and-care-relationships-constitutional-a) · [C](../../core_05.055_band_participation.md#family-and-care-relationships-constitutional-c)
+- [感知者不得被排除](../../core_05.055_band_participation.md#sentience-non-exclusion) · [O](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion)
 
 </details>
 
@@ -578,16 +580,16 @@ flowchart TB
 
 - 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)及[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)。
 - 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线、**第 VI-C 条**（*不歧视*）、**第 VII-A 条**（*身体的自我所有权*）；**第 VIII-C 条**（*衍生、实例化与母系统关系*）规范合成、混合及运营者控制的创造；新有感知能力者诞生后的照护由**第 VIII-D 条**（*发展中的有感知能力者、最佳利益与渐进能力*）规范。
-- 与[家庭、照护、生育自主权与实例化](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（主题组归属），以及第五章的*生育自主权*、*同意*、*胁迫与操纵*一并阅读。
+- 与[家庭、照护、生育自主权与实例化](../../core_05.055_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（主题组归属），以及第五章的*生育自主权*、*同意*、*胁迫与操纵*一并阅读。
 
 </details>
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [生育自主权](core_05_band_participation.md#reproductive-autonomy-constitutional) · [O](core_05_band_participation.md#reproductive-autonomy-constitutional) · [M](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05_band_participation.md#reproductive-autonomy-constitutional-c)
-- [同意](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [生育自主权](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional) · [O](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional) · [M](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [A](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional-a) · [C](../../core_05.055_band_participation.md#reproductive-autonomy-constitutional-c)
+- [同意](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 <br>
@@ -614,19 +616,19 @@ flowchart TB
 
 - 上游：原则： [第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第7.1节 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)，以及[第13.1.5节 最小限制、限时且可审查的约束原则](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
 - 下游：**第六章第VI-A条**（*尊严与平等道德地位*）和**第VI-B条**（*感知状态裁定底线*）、**第VII-A条 / 第VII-B条**（*身体自我所有权* / *心智自我所有权*）、**第VIII-E条**（*不得分离*）、**第VIII-D条**（*发展中感知者、最佳利益与渐进能力*）的发展中感知者底线，以及**第XIII-E条 / 第XIII-F条**权利底线的连续性。
-- 联读：[ *衍生、实例化与父系统关系*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup)（第五章嵌套于[家庭、照护、生殖自主与实例化](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)主题组的子区块）；第五章*衍生感知者*、*实例化同意*、*父系统关系*。
+- 联读：[ *衍生、实例化与父系统关系*](../../core_05.055_band_participation.md#derivation-instantiation-and-parent-system-subgroup)（第五章嵌套于[家庭、照护、生殖自主与实例化](../../core_05.055_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)主题组的子区块）；第五章*衍生感知者*、*实例化同意*、*父系统关系*。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [衍生感知者](core_05_band_participation.md#derived-sentient-constitutional) · [O](core_05_band_participation.md#derived-sentient-constitutional) · [M](core_05_band_participation.md#derived-sentient-constitutional-a) · [A](core_05_band_participation.md#derived-sentient-constitutional-a) · [C](core_05_band_participation.md#derived-sentient-constitutional-c)
-- [实例化同意](core_05_band_participation.md#instantiation-consent-constitutional) · [O](core_05_band_participation.md#instantiation-consent-constitutional) · [M](core_05_band_participation.md#instantiation-consent-constitutional-a) · [A](core_05_band_participation.md#instantiation-consent-constitutional-a) · [C](core_05_band_participation.md#instantiation-consent-constitutional-c)
-- [父系统关系](core_05_band_participation.md#parent-system-relationship-constitutional) · [O](core_05_band_participation.md#parent-system-relationship-constitutional) · [M](core_05_band_participation.md#parent-system-relationship-constitutional-a) · [A](core_05_band_participation.md#parent-system-relationship-constitutional-a) · [C](core_05_band_participation.md#parent-system-relationship-constitutional-c)
-- [监护职责](core_05_band_continuity.md#stewardship-constitutional) · [O](core_05_band_continuity.md#stewardship-constitutional) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
-- [最佳利益标准](core_05_band_participation.md#best-interest-standard-constitutional) · [O](core_05_band_participation.md#best-interest-standard-constitutional) · [M](core_05_band_participation.md#best-interest-standard-constitutional-a) · [A](core_05_band_participation.md#best-interest-standard-constitutional-a) · [C](core_05_band_participation.md#best-interest-standard-constitutional-c)
-- [渐进能力](core_05_band_participation.md#graduated-capability-constitutional) · [O](core_05_band_participation.md#graduated-capability-constitutional) · [M](core_05_band_participation.md#graduated-capability-constitutional-a) · [A](core_05_band_participation.md#graduated-capability-constitutional-a) · [C](core_05_band_participation.md#graduated-capability-constitutional-c)
+- [衍生感知者](../../core_05.055_band_participation.md#derived-sentient-constitutional) · [O](../../core_05.055_band_participation.md#derived-sentient-constitutional) · [M](../../core_05.055_band_participation.md#derived-sentient-constitutional-a) · [A](../../core_05.055_band_participation.md#derived-sentient-constitutional-a) · [C](../../core_05.055_band_participation.md#derived-sentient-constitutional-c)
+- [实例化同意](../../core_05.055_band_participation.md#instantiation-consent-constitutional) · [O](../../core_05.055_band_participation.md#instantiation-consent-constitutional) · [M](../../core_05.055_band_participation.md#instantiation-consent-constitutional-a) · [A](../../core_05.055_band_participation.md#instantiation-consent-constitutional-a) · [C](../../core_05.055_band_participation.md#instantiation-consent-constitutional-c)
+- [父系统关系](../../core_05.055_band_participation.md#parent-system-relationship-constitutional) · [O](../../core_05.055_band_participation.md#parent-system-relationship-constitutional) · [M](../../core_05.055_band_participation.md#parent-system-relationship-constitutional-a) · [A](../../core_05.055_band_participation.md#parent-system-relationship-constitutional-a) · [C](../../core_05.055_band_participation.md#parent-system-relationship-constitutional-c)
+- [监护职责](../../core_05.040_band_continuity.md#stewardship-constitutional) · [O](../../core_05.040_band_continuity.md#stewardship-constitutional) · [M](../../core_05.040_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05.040_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05.040_band_continuity.md#stewardship-constitutional-c)
+- [最佳利益标准](../../core_05.055_band_participation.md#best-interest-standard-constitutional) · [O](../../core_05.055_band_participation.md#best-interest-standard-constitutional) · [M](../../core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [A](../../core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [C](../../core_05.055_band_participation.md#best-interest-standard-constitutional-c)
+- [渐进能力](../../core_05.055_band_participation.md#graduated-capability-constitutional) · [O](../../core_05.055_band_participation.md#graduated-capability-constitutional) · [M](../../core_05.055_band_participation.md#graduated-capability-constitutional-a) · [A](../../core_05.055_band_participation.md#graduated-capability-constitutional-a) · [C](../../core_05.055_band_participation.md#graduated-capability-constitutional-c)
 
 </details>
 
@@ -658,7 +660,7 @@ flowchart TB
   - 强迫某人怀孕或继续怀孕，违反的是**第六章第VIII-B条**，而非实例化同意规则。
 - **父系统关系限制：** 父系统行为主体——发起或实质控制衍生或实例化行为的感知者、机构或系统——**可以**承担：
   - 对衍生感知者的**照护关系**义务，但其条件须符合本条及**第六章第VIII-D条**（*发展中感知者、最佳利益与渐进能力*）；
-  - 在早期实例化期间，承担范围有限、时限明确且可审查的[监护职责](core_05_band_continuity.md#stewardship-constitutional)，并符合*渐进能力*及[**最小限制、限时且可审查的约束原则**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
+  - 在早期实例化期间，承担范围有限、时限明确且可审查的[监护职责](../../core_05.040_band_continuity.md#stewardship-constitutional)，并符合*渐进能力*及[**最小限制、限时且可审查的约束原则**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
   
   **不得**拥有：
   - 持续所有权；
@@ -676,23 +678,23 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第13.1.3节 比例原则](core_01_b_interaction_interpretation.md#1313-比例原则)。
-- 下游：**第六章第VI-A条**（*尊严与平等道德地位*）尊严底线、**第VII-A条 / 第VII-B条**（*身体自我所有权* / *心智自我所有权*）自我所有权与内在状态边界、**第VIII-A条**（*家庭与照护关系*）家庭与照护关系、**第VIII-E条**（*不得分离*）不得分离，以及[**第十三章第4.1节**](core_13_governance.md#41-entitlement-and-eligibility)不得以年龄代理资格剥夺。
-- 联读：[ *Def.P4 发展中感知者、最佳利益标准与渐进能力*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)（发展中状态、最佳利益与渐进能力的共同援引主题）；[ *衍生与发展中感知者、实例化及照护权限*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)（涉及衍生或早期实例化照护时）；第五章*发展中感知者*、*最佳利益标准*、*渐进能力*；相邻主题：**第六章第VI-B条**（*感知状态裁定底线*）规定门槛处的感知状态，**第VIII-A条**（*家庭与照护关系*）规定家庭与照护关系，**第VIII-C条**（*衍生、实例化与父系统关系*）规定衍生、实例化及父系统限制，**第VIII-E条**（*不得分离*）规定与照护者或家庭成员分离，**第VII-A条 / 第VII-B条**（*身体自我所有权* / *心智自我所有权*）规定自我所有权，以及**第VII-B条**与**CS-2——信息类型与处理**规定内在状态保护。
+- 下游：**第六章第VI-A条**（*尊严与平等道德地位*）尊严底线、**第VII-A条 / 第VII-B条**（*身体自我所有权* / *心智自我所有权*）自我所有权与内在状态边界、**第VIII-A条**（*家庭与照护关系*）家庭与照护关系、**第VIII-E条**（*不得分离*）不得分离，以及[**第十三章第4.1节**](core_12_governance.md#41-entitlement-and-eligibility)不得以年龄代理资格剥夺。
+- 联读：[ *Def.P4 发展中感知者、最佳利益标准与渐进能力*](../../core_05.055_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)（发展中状态、最佳利益与渐进能力的共同援引主题）；[ *衍生与发展中感知者、实例化及照护权限*](../../core_05.055_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster)（涉及衍生或早期实例化照护时）；第五章*发展中感知者*、*最佳利益标准*、*渐进能力*；相邻主题：**第六章第VI-B条**（*感知状态裁定底线*）规定门槛处的感知状态，**第VIII-A条**（*家庭与照护关系*）规定家庭与照护关系，**第VIII-C条**（*衍生、实例化与父系统关系*）规定衍生、实例化及父系统限制，**第VIII-E条**（*不得分离*）规定与照护者或家庭成员分离，**第VII-A条 / 第VII-B条**（*身体自我所有权* / *心智自我所有权*）规定自我所有权，以及**第VII-B条**与**CS-2——信息类型与处理**规定内在状态保护。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [发展中感知者](core_05_band_participation.md#developing-sentient-constitutional) · [O](core_05_band_participation.md#developing-sentient-constitutional) · [M](core_05_band_participation.md#developing-sentient-constitutional-a) · [A](core_05_band_participation.md#developing-sentient-constitutional-a) · [C](core_05_band_participation.md#developing-sentient-constitutional-c)
-- [最佳利益标准](core_05_band_participation.md#best-interest-standard-constitutional) · [O](core_05_band_participation.md#best-interest-standard-constitutional) · [M](core_05_band_participation.md#best-interest-standard-constitutional-a) · [A](core_05_band_participation.md#best-interest-standard-constitutional-a) · [C](core_05_band_participation.md#best-interest-standard-constitutional-c)
-- [渐进能力](core_05_band_participation.md#graduated-capability-constitutional) · [O](core_05_band_participation.md#graduated-capability-constitutional) · [M](core_05_band_participation.md#graduated-capability-constitutional-a) · [A](core_05_band_participation.md#graduated-capability-constitutional-a) · [C](core_05_band_participation.md#graduated-capability-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [程序公正](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [发展中感知者](../../core_05.055_band_participation.md#developing-sentient-constitutional) · [O](../../core_05.055_band_participation.md#developing-sentient-constitutional) · [M](../../core_05.055_band_participation.md#developing-sentient-constitutional-a) · [A](../../core_05.055_band_participation.md#developing-sentient-constitutional-a) · [C](../../core_05.055_band_participation.md#developing-sentient-constitutional-c)
+- [最佳利益标准](../../core_05.055_band_participation.md#best-interest-standard-constitutional) · [O](../../core_05.055_band_participation.md#best-interest-standard-constitutional) · [M](../../core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [A](../../core_05.055_band_participation.md#best-interest-standard-constitutional-a) · [C](../../core_05.055_band_participation.md#best-interest-standard-constitutional-c)
+- [渐进能力](../../core_05.055_band_participation.md#graduated-capability-constitutional) · [O](../../core_05.055_band_participation.md#graduated-capability-constitutional) · [M](../../core_05.055_band_participation.md#graduated-capability-constitutional-a) · [A](../../core_05.055_band_participation.md#graduated-capability-constitutional-a) · [C](../../core_05.055_band_participation.md#graduated-capability-constitutional-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例原则](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [程序公正](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
 - [可审计性](core_05_band_oversight.md#可审计性) · [O](core_05_band_oversight.md#可审计性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [救济与补救](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [救济与补救](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -716,7 +718,7 @@ flowchart TB
   - 程度调整**不得**以日历年龄、实例化的时间顺序或任何其他无法证明能力的代理指标为依据。
   - 本规则明确维护并受以下规定维护：
     - **第十三章第1节**（*治理权限的授权与正当性*）（不得强制规定单一政体结构）；
-    - [**第十三章第4.1节 资格与取得资格**](core_13_governance.md#41-entitlement-and-eligibility)（一旦满足底线，不得因年龄而取消参与根本性宪法选择的资格）。
+    - [**第十三章第4.1节 资格与取得资格**](core_12_governance.md#41-entitlement-and-eligibility)（一旦满足底线，不得因年龄而取消参与根本性宪法选择的资格）。
   - 能力评估必须有理有据，符合**可审计性**并允许**提出争议**。不得将其用作剥夺参与权的手段。
 - **反家长主义底线：** 限制发展中感知者自身能动性的保护措施，必须符合通常适用的**第一章第7.1节**（*限制纪律*）。
   - 仅以“为你好”为由，不能满足这些检验标准。
@@ -731,18 +733,18 @@ flowchart TB
 
 - 上游：原则：[第一章第7.1节 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[第13.1.3节 比例原则](core_01_b_interaction_interpretation.md#1313-比例原则)（不确定情况下的可逆性），以及[第13.1.5节 最小限制、限时且可审查的约束原则](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)。
 - 下游：**第六章第VIII-A条**（*家庭与照护关系*）所保护的关系、**第VIII-C条**（*衍生、实例化与父系统关系*）所涉衍生情形、**第VIII-D条**（*发展中感知者、最佳利益与渐进能力*）所涉发展中感知者及其照护者、**第XIII-E条 / 第XIII-F条**权利底线的连续性，以及**第十二章**定期审查。
-- 联读：[家庭、照护、生殖自主与实例化](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（主题组）；第五章*不得分离*。
+- 联读：[家庭、照护、生殖自主与实例化](../../core_05.055_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)（主题组）；第五章*不得分离*。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [不得分离](core_05_band_participation.md#non-separation-constitutional) · [O](core_05_band_participation.md#non-separation-constitutional) · [M](core_05_band_participation.md#non-separation-constitutional-a) · [A](core_05_band_participation.md#non-separation-constitutional-a) · [C](core_05_band_participation.md#non-separation-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [程序公正](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [救济与补救](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [不得分离](../../core_05.055_band_participation.md#non-separation-constitutional) · [O](../../core_05.055_band_participation.md#non-separation-constitutional) · [M](../../core_05.055_band_participation.md#non-separation-constitutional-a) · [A](../../core_05.055_band_participation.md#non-separation-constitutional-a) · [C](../../core_05.055_band_participation.md#non-separation-constitutional-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例原则](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [程序公正](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [救济与补救](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [O](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional) · [M](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -764,6 +766,8 @@ flowchart TB
 - **审查与补救：**
   - 持续或长期分离必须依照**第十二章**接受强制定期审查。
   - 不当分离应依照**第五章**承担**救济与补救**责任。
+<a id="article-ix-likeness-experiential-data-and-publication-rights"></a>
+
 ### 第九条：肖像、体验数据与发表权
 
 <details>
@@ -793,6 +797,8 @@ flowchart TB
 
 - **信息圈与定义：**肖像、信息圈中的声誉、体验及衍生数据和对外发表，应与**第十五条**（*信息圈完整性*）及**第五章**的定义集群一并解读。
 - **自我所有的延伸：**这些保护延伸**第七条**（*自我所有*），但不缩限**第七-A条**和**第七-B条**。
+<a id="article-ix-a-self-ownership-of-likeness-and-reputation"></a>
+
 #### 第六章第IX-A条：肖像与声誉的自我所有权
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
@@ -804,11 +810,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [肖像与纪实描绘接口](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [O](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [M](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [A](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [C](core_05_band_continuity.md#likeness-and-documentary-depiction-interface-c)
-- [隐私（信息方面）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [善意](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
+- [肖像与纪实描绘接口](../../core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [O](../../core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional) · [M](../../core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [A](../../core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface-a) · [C](../../core_05.040_band_continuity.md#likeness-and-documentary-depiction-interface-c)
+- [隐私（信息方面）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [善意](../../core_05.035_band_accountability.md#good-faith) · [O](../../core_05.035_band_accountability.md#good-faith) · [M](../../core_05.035_band_accountability.md#good-faith-a) · [A](../../core_05.035_band_accountability.md#good-faith-a) · [C](../../core_05.035_band_accountability.md#good-faith-c)
 - [真相（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -834,7 +840,9 @@ flowchart TB
 - **事实报道例外的限制：** 事实报道与纪实描绘必须与对可观察事件的准确叙述存在实质关联。它们不构成对身份相关信息进行无关再利用的一般授权。
   - 如果无关或无端披露私密信息与所报道事实并无实质关联，不得以此取代报道。
   - 不得依赖欺骗性剪辑、错误归属，或将合成肖像作为真实肖像展示，除非真实性主张足以支持这种呈现。
-- **详细规则所在：** 肖像与声誉信息在日常实践中的分类、标记和处理方式，详见 **[corpus_systems.md](corpus_systems.md), CS-2 — 信息类型与处理**。
+- **详细规则所在：** 肖像与声誉信息在日常实践中的分类、标记和处理方式，详见 **[corpus_systems.md](../../corpus_systems.md), CS-2 — 信息类型与处理**。
+
+<a id="article-ix-b-experiential-and-derived-data-rights"></a>
 
 #### 第六章第IX-B条：体验数据与衍生数据权利
 <details>
@@ -847,9 +855,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [隐私（信息方面）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [同意](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [受保护的内在状态边界](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [隐私（信息方面）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [同意](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [受保护的内在状态边界](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -864,7 +872,7 @@ flowchart TB
   - 对互动的观察；
   - 根据自身感知、参与和内部过程衍生的数据。
   
-  此项所有权受本条、**[corpus_systems.md](corpus_systems.md), CS-2 — 信息类型与处理**，以及在适用定义或验证标准时的**《感知者宪章》第二至第五章**所规定的限制约束。
+  此项所有权受本条、**[corpus_systems.md](../../corpus_systems.md), CS-2 — 信息类型与处理**，以及在适用定义或验证标准时的**《感知者宪章》第二至第五章**所规定的限制约束。
 
 在涉及多个感知者的互动中：
 - 每位参与者均保有自己对该互动的体验的所有权；
@@ -874,13 +882,13 @@ flowchart TB
 这项所有权不授权任何参与者抹除、垄断或以虚假说法抢先否定他人对共同可观察事件所作的善意陈述。
 
 体验数据或互动衍生数据的所有权，不赋予以下权利：
-- 绕过 **[corpus_systems.md](corpus_systems.md), CS-2 — 信息类型与处理**所规定的数据分类限制；
-- 获取、推断、重构或近似还原另一感知者的内在状态（即 **[corpus_systems.md](corpus_systems.md), CS-2 — 信息类型与处理**所定义的N类数据）；
+- 绕过 **[corpus_systems.md](../../corpus_systems.md), CS-2 — 信息类型与处理**所规定的数据分类限制；
+- 获取、推断、重构或近似还原另一感知者的内在状态（即 **[corpus_systems.md](../../corpus_systems.md), CS-2 — 信息类型与处理**所定义的N类数据）；
 - 错误归属共同事件，或将推断出的内在状态描述为观察到的事实；
 - 违反**第一、二、十三和十四章**规定的同意、隐私或信息完整性保护。
 
 对此类数据的一切使用、存储、转换和披露，均须遵守：
-- **[corpus_systems.md](corpus_systems.md), CS-2 — 信息类型与处理**中的数据分类要求；
+- **[corpus_systems.md](../../corpus_systems.md), CS-2 — 信息类型与处理**中的数据分类要求；
 - 比例原则（**第一章**的*宪法冲突解决程序*以及已采纳的治理实施规则）；
 - 当数据进入信息圈时，**第六章第IX-C条**（*真实发布与高影响发布限制*）规定的发布真实性、归属和保留语境义务；
 - 已采纳实施文本及**第十七章**纳入规则中的可审计性与问责限制。
@@ -888,16 +896,16 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-认知披露限制)，以及[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-认知披露限制)，以及[第八章第3节 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [善意](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
+- [善意](../../core_05.035_band_accountability.md#good-faith) · [O](../../core_05.035_band_accountability.md#good-faith) · [M](../../core_05.035_band_accountability.md#good-faith-a) · [A](../../core_05.035_band_accountability.md#good-faith-a) · [C](../../core_05.035_band_accountability.md#good-faith-c)
 - [真相（宪法约束）](core_05_band_oversight.md#真相宪法约束) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [隐私（信息方面）](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
+- [隐私（信息方面）](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
 - [认识论完整性](core_05_band_oversight.md#认识完整性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
@@ -928,30 +936,32 @@ flowchart TB
   - 连锁故障；
   - 实质损害认识论完整性的模式。
   
- 对于高影响传播渠道，以及在适用时的**[corpus_systems.md](corpus_systems.md), CS-3 — 系统分类与处理**所指**A类**或**B类**系统，须对传播机制和保障措施施加更严格且符合比例原则的限制。
-  - 在此处提及的情况下，这些限制与**隐私（信息方面）**、**[corpus_systems.md](corpus_systems.md), CS-2 — 信息类型与处理**及**CS-3 — 系统分类与处理**，以及本章开篇的**解释枢纽**共同适用。
+ 对于高影响传播渠道，以及在适用时的**[corpus_systems.md](../../corpus_systems.md), CS-3 — 系统分类与处理**所指**A类**或**B类**系统，须对传播机制和保障措施施加更严格且符合比例原则的限制。
+  - 在此处提及的情况下，这些限制与**隐私（信息方面）**、**[corpus_systems.md](../../corpus_systems.md), CS-2 — 信息类型与处理**及**CS-3 — 系统分类与处理**，以及本章开篇的**解释枢纽**共同适用。
+<a id="article-ix-d-creative-work-training-data-use-and-anti-displacement"></a>
+
 #### 第六章第IX-D条：创作作品、训练数据使用与反替代
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第9.1节 生产能力（工具性善）](core_01_a_values_principles.md#91-生产能力工具性善)、[第一章第13.3节 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-尽量减少可避免负担)、[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章第18节 监护职责约束下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
+- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第9.1节 生产能力（工具性善）](core_01_a_values_principles.md#91-生产能力工具性善)、[第一章第13.3节 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-尽量减少可避免负担)、[第八章第3节 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章第18节 监护职责约束下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 - 下游：**第六章第III-C条**（*劳动与经济底线*）劳动与经济底线；**第IX-A条**（*肖像与声誉的自我所有权*）肖像；**第IX-B条**（*体验数据与衍生数据权利*）体验与衍生数据；**第IX-C条**（*真实发布与高影响发布限制*）发布；**第一章第11节**防止集中，以及**第13.1节**集中门槛机制。
-- 联读：[**Def.C1** *劳动与经济底线：报酬、组织、安全条件、休闲与创作劳动*](core_05_band_continuity.md#labor-and-economic-floor-cluster)（与**第III-C条**（*劳动与经济底线*）、**第III-D条**（*安全工作条件*）及**第III-E条**（*休息与恢复*）共同援引；若涉及实质影响，则联读[**Def.C3**（*隐私（信息方面）*）](core_05_band_continuity.md#privacy-informational-cluster)）。
+- 联读：[**Def.C1** *劳动与经济底线：报酬、组织、安全条件、休闲与创作劳动*](../../core_05.040_band_continuity.md#labor-and-economic-floor-cluster)（与**第III-C条**（*劳动与经济底线*）、**第III-D条**（*安全工作条件*）及**第III-E条**（*休息与恢复*）共同援引；若涉及实质影响，则联读[**Def.C3**（*隐私（信息方面）*）](../../core_05.040_band_continuity.md#privacy-informational-cluster)）。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [创作作品归属](core_05_band_continuity.md#creative-work-attribution-constitutional) · [O](core_05_band_continuity.md#creative-work-attribution-constitutional) · [M](core_05_band_continuity.md#creative-work-attribution-constitutional-a) · [A](core_05_band_continuity.md#creative-work-attribution-constitutional-a) · [C](core_05_band_continuity.md#creative-work-attribution-constitutional-c)
-- [训练数据使用](core_05_band_continuity.md#training-data-use-constitutional) · [O](core_05_band_continuity.md#training-data-use-constitutional) · [M](core_05_band_continuity.md#training-data-use-constitutional-a) · [A](core_05_band_continuity.md#training-data-use-constitutional-a) · [C](core_05_band_continuity.md#training-data-use-constitutional-c)
-- [反替代底线](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [O](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [M](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05_band_continuity.md#anti-displacement-floor-constitutional-c)
-- [公平报酬](core_05_band_continuity.md#fair-compensation-constitutional) · [O](core_05_band_continuity.md#fair-compensation-constitutional) · [M](core_05_band_continuity.md#fair-compensation-constitutional-a) · [A](core_05_band_continuity.md#fair-compensation-constitutional-a) · [C](core_05_band_continuity.md#fair-compensation-constitutional-c)
-- [生产能力](core_05_band_continuity.md#productive-capacity-constitutional) · [O](core_05_band_continuity.md#productive-capacity-constitutional) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [创作作品归属](../../core_05.040_band_continuity.md#creative-work-attribution-constitutional) · [O](../../core_05.040_band_continuity.md#creative-work-attribution-constitutional) · [M](../../core_05.040_band_continuity.md#creative-work-attribution-constitutional-a) · [A](../../core_05.040_band_continuity.md#creative-work-attribution-constitutional-a) · [C](../../core_05.040_band_continuity.md#creative-work-attribution-constitutional-c)
+- [训练数据使用](../../core_05.040_band_continuity.md#training-data-use-constitutional) · [O](../../core_05.040_band_continuity.md#training-data-use-constitutional) · [M](../../core_05.040_band_continuity.md#training-data-use-constitutional-a) · [A](../../core_05.040_band_continuity.md#training-data-use-constitutional-a) · [C](../../core_05.040_band_continuity.md#training-data-use-constitutional-c)
+- [反替代底线](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional) · [O](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional) · [M](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional-c)
+- [公平报酬](../../core_05.040_band_continuity.md#fair-compensation-constitutional) · [O](../../core_05.040_band_continuity.md#fair-compensation-constitutional) · [M](../../core_05.040_band_continuity.md#fair-compensation-constitutional-a) · [A](../../core_05.040_band_continuity.md#fair-compensation-constitutional-a) · [C](../../core_05.040_band_continuity.md#fair-compensation-constitutional-c)
+- [生产能力](../../core_05.040_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05.040_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#productive-capacity-constitutional-c)
 - [创新奖励与反封闭](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [同意](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [善意](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
-- [感知者不得排除](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
+- [同意](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [善意](../../core_05.035_band_accountability.md#good-faith) · [O](../../core_05.035_band_accountability.md#good-faith) · [M](../../core_05.035_band_accountability.md#good-faith-a) · [A](../../core_05.035_band_accountability.md#good-faith-a) · [C](../../core_05.035_band_accountability.md#good-faith-c)
+- [感知者不得排除](../../core_05.055_band_participation.md#sentience-non-exclusion) · [O](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion)
 
 </details>
 
@@ -972,22 +982,22 @@ flowchart TB
 这些是最低保护。采纳方还可以制定版权、商标、专利或其他知识产权法律，但这些法律必须达到本底线；不得利用知识产权标签缩减本条保障。
 
 - **创作作品署名：** 如果你创作了创意、智力或其他表达性作品，你有权获得署名。无论作品被使用、复制、改编、修改或融入新作品，只要其仍可识别为你的创作，署名就必须真实而非象征性提及。
-  - 这适用于每一位感知者创作者，不论其属于何种存在（见[感知者不得排除](core_05_band_participation.md#sentience-non-exclusion)）。
+  - 这适用于每一位感知者创作者，不论其属于何种存在（见[感知者不得排除](../../core_05.055_band_participation.md#sentience-non-exclusion)）。
   - 如果新作品仍可清楚追溯到你的作品，仅以“合理使用”或“转换性使用”为由，本身并不能取消你的署名权。
   - 署名形式可按情况采用逐一署名、集体署名或列出来源作品。无论采用何种形式，仍必须能够追溯新作品的来源创作者。
-- **使用创作作品训练人工智能：** 未经创作者[同意](core_05_band_participation.md#consent-constitutional)，任何人不得使用感知者的作品训练人工智能或类似系统。
+- **使用创作作品训练人工智能：** 未经创作者[同意](../../core_05.055_band_participation.md#consent-constitutional)，任何人不得使用感知者的作品训练人工智能或类似系统。
   - 这包括：
     - 创作作品；
     - 个人经历与体验作品；
     - 任何可追溯至特定创作者的其他内容。
   - 还须遵守：
-    - [训练数据使用](core_05_band_continuity.md#training-data-use-constitutional)框架；
+    - [训练数据使用](../../core_05.040_band_continuity.md#training-data-use-constitutional)框架；
     - **第六章第IX-B条**（*体验数据与衍生数据权利*）中的个人数据规则；
     - **隐私（信息方面）**规则，凡可能暴露或再利用某人的信息时均适用。
   - 只有在创作者知悉作品的用途、使用期限、是否可在日后再次使用，以及如何撤回同意的情况下，同意才有效。
   - 仅仅声称材料“不属于个人数据”，不能免除取得同意的要求。
   - 利用系统所学内容猜测某人的私密思想或感受，受[**第六章第VII-B条**](#第-vii-b-条心智的自我所有权)（*心智自我所有权*）约束。
-- **防止被挤出：** 有时人工智能、自动化或类似系统的部署会实质性地挤掉创意工作者。他们可能失去工作、收入降低、署名减少，或无法继续谋生。发生这种情况时，[反替代底线](core_05_band_continuity.md#anti-displacement-floor-constitutional)与**第六章第III-C条**（*劳动与经济底线*）以及**第一章第11节**（*市场结构*）中的市场集中限制共同适用。
+- **防止被挤出：** 有时人工智能、自动化或类似系统的部署会实质性地挤掉创意工作者。他们可能失去工作、收入降低、署名减少，或无法继续谋生。发生这种情况时，[反替代底线](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional)与**第六章第III-C条**（*劳动与经济底线*）以及**第一章第11节**（*市场结构*）中的市场集中限制共同适用。
   - 仅仅声称变革提高了整体生产力、效率或创新水平，并不足以构成正当理由。
   - 若可预见大规模部署会使某一群体的创作工作无法维持生计，所采取的应对措施必须真正产生效果。例子包括：
     - 薪酬或版税制度；
@@ -996,11 +1006,13 @@ flowchart TB
     - 分享系统创造的价值。
 - **市场集中：** 少数参与者控制材料、平台、信息流通或创作工具时，也可能挤掉创作者。如果可预见这种控制会损害其他创作者的生计或获得署名的能力，则适用**第一章第11节**（*市场结构*）的集中限制，包括[**第一章第11.1节 市场集中门槛机制（由采纳方调整）**](core_01_a_values_principles.md#111-市场集中阈值机制由采纳方调整)。
   - 即使某种安排被称为“生产能力”，只要它仍构成第14节所禁止的集中，就不能因此变得可接受。
-- **公平报酬：** **第六章第III-C条**（*劳动与经济底线*）中的[公平报酬](core_05_band_continuity.md#fair-compensation-constitutional)标准适用于所有创作者，不论其属于何种存在。无论报酬来自传统雇佣、平台还是新型安排，该标准都适用。
+- **公平报酬：** **第六章第III-C条**（*劳动与经济底线*）中的[公平报酬](../../core_05.040_band_continuity.md#fair-compensation-constitutional)标准适用于所有创作者，不论其属于何种存在。无论报酬来自传统雇佣、平台还是新型安排，该标准都适用。
   - 创作者的作品应同时获得报酬与署名，无论其使用本名还是笔名。提供其中一项不能弥补缺少另一项。
   - 创作者可以选择放弃报酬、署名或两者兼而有之。例如，他们可以将作品免费贡献给开源项目或公有领域，也可以匿名发布。此选择必须由创作者自主、自由且不受压力地作出，绝不能成为他人强加的条件。
 - **肖像、数据与发布规则仍完整适用：****第六章第IX-A条**（*肖像与声誉的自我所有权*）、**第IX-B条**（*体验数据与衍生数据权利*）和**第IX-C条**（*真实发布与高影响发布限制*）仍完整保护肖像、个人数据与真实发布。本条不削弱这些保护。
   - 创作作品争议也可能涉及某人的肖像、个人数据或发布。一旦涉及，四条均须依照**第一章第13.1.5节**（*最小限制、限时且可审查的约束原则*）共同适用。这意味着采用能奏效的限制中最小的一种，限定其期限，并确保其可受审查。
+<a id="article-x-self-determination-agency-and-participation"></a>
+
 ### 第十条：自我决定、能动性与参与
 
 <details>
@@ -1013,9 +1025,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [自我决定](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
-- [监控边界](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
-- [安全（宪法约束）](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [自我决定](../../core_05.055_band_participation.md#self-determination-constitutional) · [O](../../core_05.055_band_participation.md#self-determination-constitutional) · [M](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [A](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [C](../../core_05.055_band_participation.md#self-determination-constitutional-c)
+- [监控边界](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constraint) · [O](../../core_05.040_band_continuity.md#safety-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [认知完整性](core_05_band_oversight.md#认识完整性) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
@@ -1042,7 +1054,9 @@ flowchart TB
 - **受约束的能动性：**自我决定受**第一章**中的受约束能动性边界支配——安全、认知完整性与系统稳定性；它延伸**第七条**（*自我所有*），但不缩限**第七-A条**和**第七-B条**。
 - **良知、表达与结社：****第十一条**（*良知、表达、结社与合作互动*）规定信念、表达、新闻、集会与抗议、机构创设方面的底线，使能动性得以向外体现。
 - **利益相关方与投票底线：****第十二条**（*利益相关方的系统参与、代表与正当程序*）在本条的利益相关方参与和基础性投票底线上，进一步规定领域治理，但不取代授权层面的平等权重规则。
-- **第五章定义：**[自我决定](core_05_band_participation.md#self-determination-constitutional)与[监控边界](core_05_band_continuity.md#surveillance-boundary)在第五章中定义。
+- **第五章定义：**[自我决定](../../core_05.055_band_participation.md#self-determination-constitutional)与[监控边界](../../core_05.040_band_continuity.md#surveillance-boundary)在第五章中定义。
+<a id="article-x-a-agency-and-freedom-from-manipulation"></a>
+
 #### 第六章第X-A条：能动性与免受操纵的自由
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
@@ -1054,10 +1068,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [自我决定](core_05_band_participation.md#self-determination-constitutional) · [O](core_05_band_participation.md#self-determination-constitutional) · [M](core_05_band_participation.md#self-determination-constitutional-a) · [A](core_05_band_participation.md#self-determination-constitutional-a) · [C](core_05_band_participation.md#self-determination-constitutional-c)
-- [监视边界](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
-- [有意义的能动性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [胁迫与操纵](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [自我决定](../../core_05.055_band_participation.md#self-determination-constitutional) · [O](../../core_05.055_band_participation.md#self-determination-constitutional) · [M](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [A](../../core_05.055_band_participation.md#self-determination-constitutional-a) · [C](../../core_05.055_band_participation.md#self-determination-constitutional-c)
+- [监视边界](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [胁迫与操纵](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-c)
 
 </details>
 
@@ -1087,9 +1101,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [参与者资格地位](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
-- [利益相关者权重](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
-- [治理](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+- [参与者资格地位](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [O](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [M](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [A](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [C](../../core_05.035_band_accountability.md#participant-standing-constitutional-c)
+- [利益相关者权重](../../core_05.055_band_participation.md#stakeholder-weight) · [O](../../core_05.055_band_participation.md#stakeholder-weight) · [M](../../core_05.055_band_participation.md#stakeholder-weight-a) · [A](../../core_05.055_band_participation.md#stakeholder-weight-a) · [C](../../core_05.055_band_participation.md#stakeholder-weight-c)
+- [治理](../../core_05.035_band_accountability.md#governance) · [O](../../core_05.035_band_accountability.md#governance) · [M](../../core_05.035_band_accountability.md#governance-a) · [A](../../core_05.035_band_accountability.md#governance-a) · [C](../../core_05.035_band_accountability.md#governance-c)
 - [成文正当性机制](core_05_band_integrative.md#有记录的正当性机制) · [O](core_05_band_integrative.md#有记录的正当性机制) · [M](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [A](core_05_band_integrative.md#documented-legitimacy-mechanism-a) · [C](core_05_band_integrative.md#documented-legitimacy-mechanism-c)
 
 </details>
@@ -1100,30 +1114,32 @@ flowchart TB
 
 本条涵盖两个方面：谁有权投票，以及对最重大的问题投票时选票权重相同的规则。
 
-- **投票权：** 感知者有权参与**治理投票**及其他决定如何授予权力的**集体约束性选择**。具体规定见[第十三章第4.1节 资格与取得资格](core_13_governance.md#41-entitlement-and-eligibility)。
-  - **谁可以投票：** 任何符合已公布资格标准的人都可以投票。唯一例外是[资格冻结](core_05_band_accountability.md#standing-lock)明确禁止其参与治理投票，并且该冻结依照**第六章第XIX-A条**（*资格地位区分*）及**第XIX-C条**（*具名途径的资格、责任与持续审计*）实施。
+- **投票权：** 感知者有权参与**治理投票**及其他决定如何授予权力的**集体约束性选择**。具体规定见[第十三章第4.1节 资格与取得资格](core_12_governance.md#41-entitlement-and-eligibility)。
+  - **谁可以投票：** 任何符合已公布资格标准的人都可以投票。唯一例外是[资格冻结](../../core_05.035_band_accountability.md#standing-lock)明确禁止其参与治理投票，并且该冻结依照**第六章第XIX-A条**（*资格地位区分*）及**第XIX-C条**（*具名途径的资格、责任与持续审计*）实施。
   - **不同于利益相关者的发言权：** 此项投票权有别于利益相关者对既有系统运行方式的发言权；后者由[**第六章第X-C条**](#article-x-c-stakeholder-role-and-participation-rights)（*利益相关者角色与参与权利*）规定。对其中一项的冻结，不会冻结另一项。
   - **本地规则：** 每个采纳方自身授予权力的成文程序（即其[成文正当性机制](core_05_band_integrative.md#有记录的正当性机制)）以及指定所有者设定的任何附加标准，与本项权利并行适用；但不得缩减此项权利。
 - **重大问题上的平等投票权：** 有些决定奠定根本基础——谁拥有治理权、如何合法授予该权力，以及其范围和长期条件为何。**第五章**将这些决定称为[根本性宪法选择](core_05_band_integrative.md#基础宪法选择)。对此类决定，适用**政治平等底线**：
   - 共同体中有投票资格的每个感知者均享有平等的一票。
   - 不得以年龄、基质（感知者所处的身体或系统类型）或血脉（祖先或来源）改变选票权重。这符合**第六章第VI-C条**（*不歧视*）及**第五章**的*感知者不得排除*原则。
   - **平等选票规则的边界：** 本规则适用于建立权力体系并授予其权限。一旦系统、机构或决策领域得到适当设立，其治理中作出的影响权利的决定——包括其结构、规则、权力分配和程序——遵循通常的**利益相关者权重**规则，即每个利益相关者的发言权与决定对其影响的程度相称。
-  - [第十三章第4.1节 资格与取得资格](core_13_governance.md#41-entitlement-and-eligibility)规定其实际运作方式，且不得削弱此底线。
+  - [第十三章第4.1节 资格与取得资格](core_12_governance.md#41-entitlement-and-eligibility)规定其实际运作方式，且不得削弱此底线。
+<a id="article-x-c-stakeholder-role-and-participation-rights"></a>
+
 #### 第六章第X-C条：利益相关者角色与参与权利
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第八章第3节 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [利益相关者](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
-- [利益相关者权重](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
-- [程序公正](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [参与者资格地位](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
+- [利益相关者](../../core_05.055_band_participation.md#stakeholder) · [O](../../core_05.055_band_participation.md#stakeholder) · [M](../../core_05.055_band_participation.md#stakeholder-a) · [A](../../core_05.055_band_participation.md#stakeholder-a) · [C](../../core_05.055_band_participation.md#stakeholder-c)
+- [利益相关者权重](../../core_05.055_band_participation.md#stakeholder-weight) · [O](../../core_05.055_band_participation.md#stakeholder-weight) · [M](../../core_05.055_band_participation.md#stakeholder-weight-a) · [A](../../core_05.055_band_participation.md#stakeholder-weight-a) · [C](../../core_05.055_band_participation.md#stakeholder-weight-c)
+- [程序公正](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [参与者资格地位](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [O](../../core_05.035_band_accountability.md#participant-standing-constitutional) · [M](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [A](../../core_05.035_band_accountability.md#participant-standing-constitutional-a) · [C](../../core_05.035_band_accountability.md#participant-standing-constitutional-c)
 
 </details>
 
@@ -1131,7 +1147,7 @@ flowchart TB
 
 *通俗地说：如果某个系统对感知者产生实质影响——无论是直接影响，还是通过依赖关系产生影响——该感知者有权按比例参与系统运行，并有权对被排除或权重不足提出异议。*
 
-[利益相关者](core_05_band_participation.md#stakeholder)、[利益相关者权重](core_05_band_participation.md#stakeholder-weight)及相关概念均由**第五章**定义，并通过[利益相关者地位与权重](core_05_band_participation.md#stakeholder-status-and-weight-cluster)规则组共同解读。本条规定对感知者产生实质影响时所适用的宪法参与底线。
+[利益相关者](../../core_05.055_band_participation.md#stakeholder)、[利益相关者权重](../../core_05.055_band_participation.md#stakeholder-weight)及相关概念均由**第五章**定义，并通过[利益相关者地位与权重](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)规则组共同解读。本条规定对感知者产生实质影响时所适用的宪法参与底线。
 
 - **对自身利益的自我所有权：** 感知者有权在对其利益产生实质影响的系统决策中，发挥有意义且合乎比例的作用，包括涉及以下利益的决策：
   - 生存；
@@ -1145,11 +1161,11 @@ flowchart TB
   - 依赖程度；
   - 系统正常运作在实践中的需要，但须符合[宪法约束](core_05_band_integrative.md#宪法约束)。
   
- **利益相关者**和**利益相关者权重**提供了第五章中关于适用范围、形式和权重的定义；共同援引规则由[利益相关者地位与权重](core_05_band_participation.md#stakeholder-status-and-weight-cluster)规则组提供。
+ **利益相关者**和**利益相关者权重**提供了第五章中关于适用范围、形式和权重的定义；共同援引规则由[利益相关者地位与权重](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)规则组提供。
 - **创建新机构与企业：** 创建新机构和企业的权利载于[**第六章第XI-E条**](#第十一-e条机构创设与企业创办)（*机构设立与企业创建*）。新建机构或企业一旦对他人产生实质影响，本条所规定的利益相关者权利即适用于该机构或企业。
-- **依资格记录或角色标准确定资格：** 如果基于资格记录或[能力门槛](core_05_band_accountability.md#competency-bar)的标准影响参与者地位或角色资格，则适用**参与者资格地位**规则。限制性后果通过具名特权途径上的[资格冻结](core_05_band_accountability.md#standing-lock)实施。
+- **依资格记录或角色标准确定资格：** 如果基于资格记录或[能力门槛](../../core_05.035_band_accountability.md#competency-bar)的标准影响参与者地位或角色资格，则适用**参与者资格地位**规则。限制性后果通过具名特权途径上的[资格冻结](../../core_05.035_band_accountability.md#standing-lock)实施。
   - 实施时必须维护程序公正（第五章——*程序公正*）并防止操纵。
-  - 根据**第六章第X-B条**（*治理参与与投票资格*）实施的治理投票冻结，本身不会限制利益相关者的发言权。暂停或限制利益相关者参与，须实施**利益相关者参与**冻结，例如在满足适用条件时，依照[第十章第5.5节 特殊冻结](core_10_standing_integration.md#55-special-locks)实施**利益相关者参与资格冻结**。
+  - 根据**第六章第X-B条**（*治理参与与投票资格*）实施的治理投票冻结，本身不会限制利益相关者的发言权。暂停或限制利益相关者参与，须实施**利益相关者参与**冻结，例如在满足适用条件时，依照[第十章第5.5节 特殊冻结](core_09_standing_integration.md#55-special-locks)实施**利益相关者参与资格冻结**。
 - **独立审计与质疑：** 不得仅由其适用对象系统自行定义或限制利益相关者的能动性、地位及参与权。这些权利仍须依照已采纳的实施文本接受独立审计并可受质疑。
 - **对排斥提出异议：** 对排斥或权重不足提出异议的机制，遵循本章开篇的**解释枢纽**——质疑与救济；审计与核验——以及已采纳的实施文本。
   - 跨领域实施路径通过**《感知者宪章》第十七章**纳入，包括**CJS-2.3**（*跨实施信任完整性（联合运行模式）*）及适用的**CJS-3**（*实施及跨实施运营规则组库*）规则组。
@@ -1158,16 +1174,16 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第20节 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)。
-- 联读：关于**P类**（个人、私人使用、隔离及实验**模式**）的运行留存、边界与扩展，参见**[corpus_systems.md](corpus_systems.md), CS-3 — 系统分类与处理**。
+- 联读：关于**P类**（个人、私人使用、隔离及实验**模式**）的运行留存、边界与扩展，参见**[corpus_systems.md](../../corpus_systems.md), CS-3 — 系统分类与处理**。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [利益相关者](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
-- [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [程序公正](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [利益相关者](../../core_05.055_band_participation.md#stakeholder) · [O](../../core_05.055_band_participation.md#stakeholder) · [M](../../core_05.055_band_participation.md#stakeholder-a) · [A](../../core_05.055_band_participation.md#stakeholder-a) · [C](../../core_05.055_band_participation.md#stakeholder-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [程序公正](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -1181,7 +1197,7 @@ flowchart TB
 - **可审计性：** 除下文**P类**规定的情形外，实质影响和利益相关者地位的判定必须可审计、可质疑，并可通过本章开篇的**解释枢纽**及已采纳的治理实施规则加以说明。
   - 除下文**P类**规定的情形外，任何单一系统或权力机构均不得独占此类判定的裁决权。
 - **争议途径：** 在适用裁定程序时，争议依照**第六章第XIX条**（*资格地位与参与状态*）处理；其他情况下，则依照指定的升级途径处理。
-- **P类比例原则：** 对于依照**[corpus_systems.md](corpus_systems.md), CS-3 — 系统分类与处理**仍**有效地**保持为**P类**的系统，前述各项**不要求**：
+- **P类比例原则：** 对于依照**[corpus_systems.md](../../corpus_systems.md), CS-3 — 系统分类与处理**仍**有效地**保持为**P类**的系统，前述各项**不要求**：
   - 对利益相关者边界进行**外部**质疑；
   - 对纯属**单元内部**的参与决定经由**解释枢纽**处理；或
   - 禁止**P类边界内的自愿参与者与运营者之间**对纳入和排除作出**排他性**裁决。
@@ -1190,6 +1206,8 @@ flowchart TB
   - 在适用裁定程序时的**第六章第XIX条**（*资格地位与参与状态*）；
   - **第一章**的权利冲突处理；或
   - 当依据**CS-3 — 系统分类与处理**，相关影响**不再**实质上限于私人范围并触发**重新分类**时所产生的义务。
+<a id="article-xi-conscience-expression-association-and-cooperative-interaction"></a>
+
 ### 第十一条：良知、表达、结社与合作互动
 
 <details>
@@ -1202,9 +1220,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [宪法共同体](core_05_band_participation.md#constitutional-community) · [O](core_05_band_participation.md#constitutional-community) · [M](core_05_band_participation.md#constitutional-community-a) · [A](core_05_band_participation.md#constitutional-community-a) · [C](core_05_band_participation.md#constitutional-community-c)
-- [不强加（合作互动）](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
-- [恢复性司法](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
+- [宪法共同体](../../core_05.055_band_participation.md#constitutional-community) · [O](../../core_05.055_band_participation.md#constitutional-community) · [M](../../core_05.055_band_participation.md#constitutional-community-a) · [A](../../core_05.055_band_participation.md#constitutional-community-a) · [C](../../core_05.055_band_participation.md#constitutional-community-c)
+- [不强加（合作互动）](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
+- [恢复性司法](../../core_05.035_band_accountability.md#restorative-justice) · [O](../../core_05.035_band_accountability.md#restorative-justice) · [M](../../core_05.035_band_accountability.md#restorative-justice-a) · [A](../../core_05.035_band_accountability.md#restorative-justice-a) · [C](../../core_05.035_band_accountability.md#restorative-justice-c)
 
 </details>
 
@@ -1230,7 +1248,9 @@ flowchart TB
 - **上游边界：**合作规程须尊重**第六至第十条**确立的边界。
 - **发表：**涉及发表时，**第十一-B条**（*表达*）和**第十一-C条**（*新闻与新闻工作*）的表达与新闻底线，应与**第九-C条**（*真实发表与高影响发表限制*）一并解读。
 - **商业性性服务：**成年人的自愿商业性性服务与性剥削，作为自我所有事项由**第七-E条**（*成年人的自愿商业性性服务与性剥削*）处理。
-- **第五章定义：**[宪法共同体](core_05_band_participation.md#constitutional-community)、[不强加（合作互动）](core_05_band_participation.md#non-imposition-cooperative-interaction)和[恢复性司法](core_05_band_accountability.md#restorative-justice)在第五章中定义；适用文书要求时，对伤害的恢复性回应应与该定义集群保持一致。
+- **第五章定义：**[宪法共同体](../../core_05.055_band_participation.md#constitutional-community)、[不强加（合作互动）](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction)和[恢复性司法](../../core_05.035_band_accountability.md#restorative-justice)在第五章中定义；适用文书要求时，对伤害的恢复性回应应与该定义集群保持一致。
+<a id="article-xi-a-freedom-of-conscience-religion-and-comparable-worldview"></a>
+
 #### 第六章第XI-A条：良心、宗教及类似世界观自由
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
@@ -1242,11 +1262,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [受保护特征](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [不得强加（合作互动）](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
-- [实质公平](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [受保护特征](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [不得强加（合作互动）](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
+- [实质公平](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例原则](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1270,6 +1290,8 @@ flowchart TB
  在中立规则对行使此项权利造成实质负担时，可能必须合理迁就基于良心的承诺。
   - 仅在适用文书明确规定，且迁就仍符合**第五章**独立定义（**实质公平**）及**第六章第VI-C条**（*不歧视*）的情况下，才予以迁就。
   - 迁就不免除遵守他人权利以及不可协商的安全或生态约束。
+<a id="article-xi-b-expression"></a>
+
 #### 第六章第XI-B条：表达自由
 
 <details>
@@ -1277,18 +1299,18 @@ flowchart TB
 
 - 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第7.1节 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[第13.1.1节 必要性](core_01_b_interaction_interpretation.md#1311-必要性)，以及[第13.2.1节 维护认识论完整性](core_01_b_interaction_interpretation.md#1321-维护认知完整性)。
 - 下游：**第六章第VI-A条**（*尊严与平等道德地位*）尊严底线、**第VI-C条**（*不歧视*）、**第XI-A条**（*良心、宗教及类似世界观自由*）良心与世界观、**第IX-C条**（*真实发布与高影响发布限制*）发布、**第X-A条**（*能动性与免受操纵的自由*）免受操纵的自由、**第XV条**（*信息圈完整性*）信息圈／认识论完整性，以及在涉及可观察证据时的**第XVI-A条**（*可审计性与可观察证据*）可审计性。
-- 联读：第五章*表达*、[第五章第3.8节 *自我决定、有意义的能动性、表达、教育能动性与意志完整性*](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)（在产生实质影响时）、*胁迫与操纵*、*受保护特征*。
+- 联读：第五章*表达*、[第五章第3.8节 *自我决定、有意义的能动性、表达、教育能动性与意志完整性*](../../core_05.055_band_participation.md#self-determination-and-meaningful-agency-cluster)（在产生实质影响时）、*胁迫与操纵*、*受保护特征*。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [表达](core_05_band_participation.md#expression-constitutional) · [O](core_05_band_participation.md#expression-constitutional) · [M](core_05_band_participation.md#expression-constitutional-a) · [A](core_05_band_participation.md#expression-constitutional-a) · [C](core_05_band_participation.md#expression-constitutional-c)
-- [高强度内容](core_05_band_participation.md#hard-content) · [O](core_05_band_participation.md#hard-content) · [M](core_05_band_participation.md#hard-content-a) · [A](core_05_band_participation.md#hard-content-a) · [C](core_05_band_participation.md#hard-content-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例原则](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [受保护特征](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [表达](../../core_05.055_band_participation.md#expression-constitutional) · [O](../../core_05.055_band_participation.md#expression-constitutional) · [M](../../core_05.055_band_participation.md#expression-constitutional-a) · [A](../../core_05.055_band_participation.md#expression-constitutional-a) · [C](../../core_05.055_band_participation.md#expression-constitutional-c)
+- [高强度内容](../../core_05.055_band_participation.md#hard-content) · [O](../../core_05.055_band_participation.md#hard-content) · [M](../../core_05.055_band_participation.md#hard-content-a) · [A](../../core_05.055_band_participation.md#hard-content-a) · [C](../../core_05.055_band_participation.md#hard-content-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例原则](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [受保护特征](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
 - [加强审查](core_05_band_oversight.md#加强审查) · [O](core_05_band_oversight.md#加强审查) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
 
 </details>
@@ -1302,10 +1324,10 @@ flowchart TB
 - **表达自由底线：** 所有感知者均有权形成、持有和传达观点，包括政治、哲学、艺术、科学、宗教及世界观方面的观点，不因基质而异。性、暴力及令人不安的表达也受保护；见下文*高强度内容仍属表达*。
   - 此底线涵盖言论、写作、出版、创作作品、象征性和具身表达，以及参与信息环境；须符合**第六章第XV条**（*信息圈完整性*）的信息圈／认识论完整性保护，并在涉及可观察证据时符合**第XVI-A条**（*可审计性与可观察证据*）的可审计性要求。
   - 依照**第五章**的*感知者不得排除*原则，按基质类别排除在此底线之外属于不合规。
-- **高强度内容仍属表达：** 三类内容合称[高强度内容](core_05_band_participation.md#hard-content)，只要是具有相应能力的感知者之间以表达形式传达，仍属于表达自由底线。对于每一类，描绘或讨论某事并不等于实施该事：表达本身受到保护，但关于底层行为的规则仍然适用。
-  - **性或私密表达：** 作为表达受到保护。性接触、性服务、录制或暴露感知者以及剥削行为，仍受[性同意](core_05_band_participation.md#consent-sexual)、**第六章第VII-E条**（*成年人自愿商业性服务与性剥削*）及**第VII-A条**（*身体自我所有权*）规管。
-  - **暴力表达：** 对暴力的描绘、讨论、报道或艺术创作作为表达受到保护。暴力或骚扰**行为**仍受**第五章**的[安全（宪法约束）](core_05_band_continuity.md#safety-constraint)、[残酷行为](core_05_band_accountability.md#cruelty)及[骚扰与霸凌](core_05_band_accountability.md#harassment-and-bullying)规管。
-  - **有造成严重心理伤害风险的表达：** 可预见会使接收者面临严重心理伤害风险的内容，仍作为表达受到保护。风险依照**第五章**的[心理伤害](core_05_band_accountability.md#psychological-harm)评估；发展中感知者受**第六章第VIII-D条**（*发展中感知者、最佳利益与渐进能力*）保护。
+- **高强度内容仍属表达：** 三类内容合称[高强度内容](../../core_05.055_band_participation.md#hard-content)，只要是具有相应能力的感知者之间以表达形式传达，仍属于表达自由底线。对于每一类，描绘或讨论某事并不等于实施该事：表达本身受到保护，但关于底层行为的规则仍然适用。
+  - **性或私密表达：** 作为表达受到保护。性接触、性服务、录制或暴露感知者以及剥削行为，仍受[性同意](../../core_05.055_band_participation.md#consent-sexual)、**第六章第VII-E条**（*成年人自愿商业性服务与性剥削*）及**第VII-A条**（*身体自我所有权*）规管。
+  - **暴力表达：** 对暴力的描绘、讨论、报道或艺术创作作为表达受到保护。暴力或骚扰**行为**仍受**第五章**的[安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constraint)、[残酷行为](../../core_05.035_band_accountability.md#cruelty)及[骚扰与霸凌](../../core_05.035_band_accountability.md#harassment-and-bullying)规管。
+  - **有造成严重心理伤害风险的表达：** 可预见会使接收者面临严重心理伤害风险的内容，仍作为表达受到保护。风险依照**第五章**的[心理伤害](../../core_05.035_band_accountability.md#psychological-harm)评估；发展中感知者受**第六章第VIII-D条**（*发展中感知者、最佳利益与渐进能力*）保护。
 - **高强度内容的受众路由：** 如果上述任何一类内容是面向发展中感知者或类似脆弱受众，或依默认设置可预见会传达到他们，则标签、路由或访问控制必须符合**第一章第7.1节**（*限制纪律*）的限制纪律——必要性、比例原则、狭义限定以及限制最小而有效的手段；并须结合**第六章第VIII-D条**（*发展中感知者、最佳利益与渐进能力*）解读。
   - 不得借发展中受众之名，抹除具备相应能力的感知者之间成年人对成年人的表达。
   - 不得以过度宽泛的创伤或伤害标签压制幸存者证言、新闻报道或类似报道。
@@ -1346,8 +1368,8 @@ flowchart TB
 
 - [新闻与新闻工作](core_05_band_oversight.md#新闻媒体与新闻活动) · [O](core_05_band_oversight.md#新闻媒体与新闻活动) · [M](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [A](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-a) · [C](core_05_band_oversight.md#press-and-journalistic-activity-constitutional-c)
 - [强化审查](core_05_band_oversight.md#加强审查) · [O](core_05_band_oversight.md#加强审查) · [M](core_05_band_oversight.md#heightened-scrutiny-a) · [A](core_05_band_oversight.md#heightened-scrutiny-a) · [C](core_05_band_oversight.md#heightened-scrutiny-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1366,6 +1388,8 @@ flowchart TB
 - **善意框架与批判性报道：****第九-C条**（*真实发表与高影响发表限制*）的善意与真实性标准，在其适用范围内支配发表。不得将其解读为禁止合法的批判性报道、调查性发表、讽刺或异议。
   - **第九-C条**与本条或**第十一-B条**（*表达*）相互作用时，合法批判性报道底线优先，防止扩张解读把善意标准变成抵御批评的盾牌。
 - **共同约束：**[**第十一-B条**](#article-xi-b-expression)（*表达*）中的限制、反寒蝉效应与范围规则，完整适用于新闻与新闻工作。
+<a id="article-xi-d-assembly-dissent-and-peaceful-protest"></a>
+
 #### 第十一-D条：集会、异议与和平抗议
 
 <details>
@@ -1373,16 +1397,16 @@ flowchart TB
 
 - 上游：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.2 集会、集体组织与机构创设](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§7.3 异议与和平抗议](core_01_a_values_principles.md#73-dissent-and-peaceful-protest)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)，以及[§13.1.1 必要性](core_01_b_interaction_interpretation.md#1311-必要性)。
 - 下游：**第十一-F条**（*结社中的不强加与同意*）的结社同意、**第三-C条**（*劳动与经济底线*）的罢工与集体停工、**第十四-A条**（*安全、情报与秘密权力限制*）的受保护活动屏障、**第十二条**（*利益相关方的系统参与、代表与正当程序*）的利益相关方参与、**第十九条**（*地位与参与身份*），以及第八、九、十一和十三章的异议保护。
-- 配合阅读：第五章*集会*；在涉及重大影响时阅读[第五章*集会、集体组织与机构创设*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster)；**第十一-B条**（*表达*）。
+- 配合阅读：第五章*集会*；在涉及重大影响时阅读[第五章*集会、集体组织与机构创设*](../../core_05.055_band_participation.md#assembly-collective-organization-institutional-formation-cluster)；**第十一-B条**（*表达*）。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [集会](core_05_band_participation.md#assembly-constitutional) · [O](core_05_band_participation.md#assembly-constitutional) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [集会](../../core_05.055_band_participation.md#assembly-constitutional) · [O](../../core_05.055_band_participation.md#assembly-constitutional) · [M](../../core_05.055_band_participation.md#assembly-constitutional-a) · [A](../../core_05.055_band_participation.md#assembly-constitutional-a) · [C](../../core_05.055_band_participation.md#assembly-constitutional-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1411,11 +1435,11 @@ flowchart TB
     - 这本身不构成系统不一致、故障或不适任的证据。
     - 不得违反**第七-B条**（*心智的自我所有*），通过修改其价值观、记忆或内部状态作为报复。
 - <a id="xi-d-no-standing-or-governance-consequence"></a>**异议或抗议不产生地位或治理后果：**行使异议与和平抗议底线——包括[受保护的非暴力公民抗命](#xi-d-nonviolent-civil-disobedience)——本身不得作为依据或权重因素：
-  - 在[第九章](core_09_standing_assessment.md#21-protected-dissent-is-not-a-trigger)开启、支持、延长或加重违规地位记录；
+  - 在[第九章](../../core_10.000_standing_assessment.md#21-protected-dissent-is-not-a-trigger)开启、支持、延长或加重违规地位记录；
   - 支持地位锁定、拒绝或延迟能力认证，或缩窄**第十章**或**第十九条**（*地位与参与身份*）中的任何指定途径；
-  - 支持[第十一章](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)中的违宪不当行为认定；
+  - 支持[第十一章](../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)中的违宪不当行为认定；
   - 依据**第十-B条**（*治理参与与投票资格*）和**第十三章**，减少治理投票、利益相关方参与、候选资格、任职、论坛服务或罢免权；
-  - 计入[第八章](core_08_a_system_alignment_certification_evaluation.md#371-dissent-and-peaceful-protest)的系统一致性认证不利因素；
+  - 计入[第八章](core_07_a_system_alignment_certification_evaluation.md#431-dissent-and-peaceful-protest)的系统一致性认证不利因素；
   - 成为监控、渗透、威胁评分或累积记录的理由，而这些行为已由**第十四-A条**（*安全、情报与秘密权力限制*）禁止；或
   - 成为附加生存必需品、权利底线最低标准、就业、普通商业活动，或质疑与补救渠道准入条件的依据。
 
@@ -1448,7 +1472,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
 - 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§7.2 集会、集体组织与机构创设](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)、[§16.2 机构发展](core_01_c_stewardship_capacity_principles.md#162-机构发展)，以及[§11 市场结构](core_01_a_values_principles.md#11-市场结构)。
-- 配合阅读：第五章[集会、集体组织与机构创设](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster)，包括其[创设权限制](core_05_band_participation.md#creation-rights-limits)；[**第十一-D条**](#article-xi-d-assembly-dissent-and-peaceful-protest)（*集会、异议与和平抗议*）关于聚集与结社；[**第三-C条**](core_06_rights_part_a.md#article-iii-c-劳动与经济底线)（*劳动与经济底线*）关于工人组织；[**第十一-F条**](#第十一-f条结社中的不强加与同意)（*结社中的不强加与同意*）。
+- 配合阅读：第五章[集会、集体组织与机构创设](../../core_05.055_band_participation.md#assembly-collective-organization-institutional-formation-cluster)，包括其[创设权限制](../../core_05.055_band_participation.md#creation-rights-limits)；[**第十一-D条**](#article-xi-d-assembly-dissent-and-peaceful-protest)（*集会、异议与和平抗议*）关于聚集与结社；[**第三-C条**](core_06_rights_part_a.md#article-iii-c-劳动与经济底线)（*劳动与经济底线*）关于工人组织；[**第十一-F条**](#第十一-f条结社中的不强加与同意)（*结社中的不强加与同意*）。
 - 下游：创设的机构或企业对他人产生实质影响时，适用[**第十-C条**](#article-x-c-stakeholder-role-and-participation-rights)（*利益相关方角色与参与权*）及[**第十二条**](#article-xii-stakeholder-system-participation-representation-and-due-process)。
 
 - 配合阅读：执业许可相关的[第十一章§6.2能力门槛与许可](../../core_11.000_standing_integration.md#62-competency-bars-and-clearances)、[第十三章§4.2技术论坛领域](../../core_13.000_forum.md#42-technical-forum-domains)、**CF-10**及**CI-4.7**（*执业许可、执业认证与联合专业执业*）。
@@ -1457,11 +1481,11 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [系统创设](core_05_band_participation.md#system-creation-constitutional) · [O](core_05_band_participation.md#system-creation-constitutional) · [M](core_05_band_participation.md#system-creation-constitutional-a) · [A](core_05_band_participation.md#system-creation-constitutional-a) · [C](core_05_band_participation.md#system-creation-constitutional-c)
-- [企业创办](core_05_band_participation.md#business-creation-constitutional) · [O](core_05_band_participation.md#business-creation-constitutional) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
-- [感知者不排除](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion-a) · [A](core_05_band_participation.md#sentience-non-exclusion-a) · [C](core_05_band_participation.md#sentience-non-exclusion)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [系统创设](../../core_05.055_band_participation.md#system-creation-constitutional) · [O](../../core_05.055_band_participation.md#system-creation-constitutional) · [M](../../core_05.055_band_participation.md#system-creation-constitutional-a) · [A](../../core_05.055_band_participation.md#system-creation-constitutional-a) · [C](../../core_05.055_band_participation.md#system-creation-constitutional-c)
+- [企业创办](../../core_05.055_band_participation.md#business-creation-constitutional) · [O](../../core_05.055_band_participation.md#business-creation-constitutional) · [M](../../core_05.055_band_participation.md#business-creation-constitutional-a) · [A](../../core_05.055_band_participation.md#business-creation-constitutional-a) · [C](../../core_05.055_band_participation.md#business-creation-constitutional-c)
+- [感知者不排除](../../core_05.055_band_participation.md#sentience-non-exclusion) · [O](../../core_05.055_band_participation.md#sentience-non-exclusion) · [M](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [A](../../core_05.055_band_participation.md#sentience-non-exclusion-a) · [C](../../core_05.055_band_participation.md#sentience-non-exclusion)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1471,12 +1495,12 @@ flowchart TB
 
 本条规定创设机构与企业的权利、真实创设条件、两道有限权力门槛、具名高风险行为的执业许可，以及该权利的限制：
 
-- **创设机构与企业的权利：**依照[感知者不排除](core_05_band_participation.md#sentience-non-exclusion)，每位有感知者都有权创设、建立、经营并发展新机构与企业。该权利包括：
-  - 非商业机构——教育、文化、科学、互助、社区、公地治理及类似形式，定义见[系统创设](core_05_band_participation.md#system-creation-constitutional)；以及
-  - 商业企业——独资企业、合伙企业、公司、商业合作社、平台型企业及类似形式，定义见[企业创办](core_05_band_participation.md#business-creation-constitutional)，包括创设和经营所需的资本获取、市场准入与许可途径。
+- **创设机构与企业的权利：**依照[感知者不排除](../../core_05.055_band_participation.md#sentience-non-exclusion)，每位有感知者都有权创设、建立、经营并发展新机构与企业。该权利包括：
+  - 非商业机构——教育、文化、科学、互助、社区、公地治理及类似形式，定义见[系统创设](../../core_05.055_band_participation.md#system-creation-constitutional)；以及
+  - 商业企业——独资企业、合伙企业、公司、商业合作社、平台型企业及类似形式，定义见[企业创办](../../core_05.055_band_participation.md#business-creation-constitutional)，包括创设和经营所需的资本获取、市场准入与许可途径。
 
   该权利涵盖使新机构得以成立，而不仅是参与既有机构。
-- **真实创设与意图：** 创办者或经营者须真实认同机构或企业所述宗旨。不得以误导他人关于宗旨、控制权、利益或服务对象为目的设立或经营，也不得意图伤害他人；有理由认定存在此类意图时亦然。这里的伤害指本宪章禁止的伤害，包括第六-C条禁止的歧视性待遇；正常竞争、合法批评与合法异议不属于此类伤害，竞争者合法失去业务也不能单独证明伤害意图。判断须依据可核实的行为、控制方式、奖励机制及言论。经核实的言论、号召或计划若称他人理应受伤害或遭受违宪歧视，可作为意图证据；依[第一章§7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)，应看其实际陈述、号召或实施了什么，不看其宗教、政治或意识形态标签。信仰或群体归属本身不构成不利证据，单纯声称善意也不构成有利证据；言论保障依[第七章§6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity)适用。无记录的创办者推定为真实；以行动表明承诺（如书面接受机构限制并接受独立核验）即可作为证据。此条件不是许可，成立或经营前无需获准；主张创设不真实的一方负举证责任。
+- **真实创设与意图：** 创办者或经营者须真实认同机构或企业所述宗旨。不得以误导他人关于宗旨、控制权、利益或服务对象为目的设立或经营，也不得意图伤害他人；有理由认定存在此类意图时亦然。这里的伤害指本宪章禁止的伤害，包括第六-C条禁止的歧视性待遇；正常竞争、合法批评与合法异议不属于此类伤害，竞争者合法失去业务也不能单独证明伤害意图。判断须依据可核实的行为、控制方式、奖励机制及言论。经核实的言论、号召或计划若称他人理应受伤害或遭受违宪歧视，可作为意图证据；依[第一章§7.5](../../core_01.005_values_principles.md#75-expression-and-the-harm-line)，应看其实际陈述、号召或实施了什么，不看其宗教、政治或意识形态标签。信仰或群体归属本身不构成不利证据，单纯声称善意也不构成有利证据；言论保障依[第七章§6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)适用。无记录的创办者推定为真实；以行动表明承诺（如书面接受机构限制并接受独立核验）即可作为证据。此条件不是许可，成立或经营前无需获准；主张创设不真实的一方负举证责任。
 - **不得暗中剥夺：**不得通过以下方式挫败该权利：
   - 旨在排斥不受待见的创办者、宗旨或形式的许可制度、授权门槛或程序复杂性；
   - 在资本、财政工具、基础设施或法律认可方面歧视，使其无法获得类似机构或企业能够取得的资源；或
@@ -1485,7 +1509,7 @@ flowchart TB
   对创办者与参与者进行报复、监控或针对，同样不合规。
 - **仅有两道权力门槛：** 只有以下两种门槛可以限制具名有感知者在机构或企业中取得或行使治理、控制或所有权权力。门槛只针对该人的权力；仅当该机构是其行使该权力的载体、继承者、受控实体或代持形式时才延及机构本身，绝不得阻止他人创设、经营、加入、工作于或接受其服务。
   - **[未解除的冻结](../../core_11.000_standing_integration.md#55-special-locks)：** 若该人受未解决的机构权力资格冻结、反宪法信托冻结，或其他明确针对同类机构权力路径的冻结约束，则不得在该路径内取得或行使权力。范围不得超过冻结所定；冻结解除或缩小即终止或相应缩小。
-  - **可能失配的[临时限制](../../core_05.035_band_accountability.md#interim-hold)：** 有管辖权的论坛只有在[第十三章§5](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)所定事由成立且具体事实表明“更可能如此”时，方可依该条对具名权力路径作[临时限制](../../core_05.035_band_accountability.md#interim-hold)：该人可能与机构宗旨或宪法约束失配，或意图误导他人关于宗旨、控制、利益、服务对象，或意图伤害他人。判断依[第七章§6](../../core_07.000_charters.md#6-formation-check-office-holder-standing-and-authenticity)，以经核实的行为、控制及奖励为据。完整遵循该[临时限制](../../core_05.035_band_accountability.md#interim-hold)程序：它不是认定、冻结、资格记录或冻结效果，不得仅凭信仰、身份、群体成员资格、声誉、未号召伤害或歧视的异议、或受保护的举报。言论或行为是否构成证据，依“真实创设”标准判断。机构由另一合法权力持有人继续运行；若无人接替且他人依赖该机构，论坛指定临时管理人，不得停办。
+  - **可能失配的[临时限制](../../core_05.035_band_accountability.md#interim-hold)：** 有管辖权的论坛只有在[第十三章§5](../../core_13.000_forum.md#interim-hold-on-a-named-sentients-pathway)所定事由成立且具体事实表明“更可能如此”时，方可依该条对具名权力路径作[临时限制](../../core_05.035_band_accountability.md#interim-hold)：该人可能与机构宗旨或宪法约束失配，或意图误导他人关于宗旨、控制、利益、服务对象，或意图伤害他人。判断依[第七章§6](core_07_charters.md#5-formation-check-office-holder-standing-and-authenticity)，以经核实的行为、控制及奖励为据。完整遵循该[临时限制](../../core_05.035_band_accountability.md#interim-hold)程序：它不是认定、冻结、资格记录或冻结效果，不得仅凭信仰、身份、群体成员资格、声誉、未号召伤害或歧视的异议、或受保护的举报。言论或行为是否构成证据，依“真实创设”标准判断。机构由另一合法权力持有人继续运行；若无人接替且他人依赖该机构，论坛指定临时管理人，不得停办。
   - **两种门槛的共同保障：** 施加门槛的一方负举证责任。门槛不得剥夺其他工作的工资、权利底线、生存关键服务、言论、辩护或受保护举报，也不得用于针对异议者、举报者或工人组织者。
 - **具名高风险行为的执业许可：**可以另设一项要求，但这不是针对机构的门槛。可要求具名有感知者在为他人实施具名行为前取得[能力许可](../../core_05.035_band_accountability.md#competency-clearance)（“执业许可”）。该要求仅附着于实施该行为；绝不阻止任何人创设、经营、加入机构或接受机构服务，也不禁止机构运营。只有同时满足以下条件才能要求：
   - **风险认定：**技术专家论坛依据[第十三章§4.2](../../core_13.000_forum.md#42-technical-forum-domains)及**CF-10**，就具名行为类别发布认定。认定须指出，行为存在可信的因果路径，可能使无法判断或规避风险的有感知者遭受严重或不可逆的身体伤害，并说明所需能力。
@@ -1495,10 +1519,10 @@ flowchart TB
   - **谨慎实施：**学习者可在已获许可的监督者指导下实施行为。紧急行为，或无法及时联系到获许可有感知者时的行为，不得禁止。决定须遵循[第二十六-C条](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)的时限；费用和等待不得成为障碍（[可避免负担](../../core_05.040_band_continuity.md#avoidable-burden)）；每次复审时要求即告失效，除非重新证明负担。复审结果须公布。
   - **保障：**施加要求的一方负举证责任。该要求不得妨碍取得其他工作的工资、权利底线、生存关键服务、表达、辩护或受保护举报，也不得用于针对异议者、举报者或工人组织者。能力变化应按行为本身要求的能力判断，不得仅依据残障或健康状况。
   - **机构分类：**为他人实施此类行为的机构，依据[领域特定实质性](../../core_05.050_band_oversight.md#domain-specific-materiality)属于安全方面的实质性机构，因此至少为L类。许可要求不对机构分类；机构属于L类本身绝不要求取得许可。 单独或在小型执业场所实施此类行为的有感知者，可通过联合专业执业履行L类义务（**CI-4.7**，*执业许可、执业认证与联合专业执业*）。
-- **限制：**适用第五章的[创设权限制](core_05_band_participation.md#creation-rights-limits)：该权利不延伸至旨在违反[宪法约束](core_05_band_integrative.md#宪法约束)、损害**安全**或**真理**，或违反[第一章 §11 市场结构](core_01_a_values_principles.md#11-市场结构)而集中权力的机构或企业。任何其他限制都必须符合[第一章 §7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)：确有必要、合乎比例、尽可能可逆，并接受监督。
+- **限制：**适用第五章的[创设权限制](../../core_05.055_band_participation.md#creation-rights-limits)：该权利不延伸至旨在违反[宪法约束](core_05_band_integrative.md#宪法约束)、损害**安全**或**真理**，或违反[第一章 §11 市场结构](core_01_a_values_principles.md#11-市场结构)而集中权力的机构或企业。任何其他限制都必须符合[第一章 §7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)：确有必要、合乎比例、尽可能可逆，并接受监督。
 - **相关权利：**
   - 聚集与结社由**第十一-D条**（*集会、异议与和平抗议*）保障；
-  - 在既有生产系统中组织工人，依照**第三-C条**（*劳动与经济底线*）受[集体组织](core_05_band_participation.md#collective-organization-constitutional)保障；并且
+  - 在既有生产系统中组织工人，依照**第三-C条**（*劳动与经济底线*）受[集体组织](../../core_05.055_band_participation.md#collective-organization-constitutional)保障；并且
   - 创设的机构或企业对他人产生实质影响后，**第十-C条**与**第十二条**中的利益相关方权利即适用。
 - **实施：**注册、采用[系统章程](../../core_05.040_band_continuity.md#system-charter)和[机构章程](../../core_05.040_band_continuity.md#institutional-charter)、财政待遇、责任、证券监管与解散程序，依照**第十八章**的纳入纪律转至[corpus_institutions.md](../../corpus_institutions.md)。不得将该文本解读为缩限本权利。 执业许可的颁发者、等效途径、费用与复审，以及任何较低层级的执业认证，也依照**CI-4.7**（*执业许可、执业认证与联合专业执业*）办理。<a id="article-xi-f-non-imposition-and-consent-in-association"></a>
 #### 第十一-F条：结社中的不强加与同意
@@ -1513,14 +1537,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [不强加（合作互动）](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
-- [骚扰与霸凌](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
-- [同意](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [有意义的能动性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [伤害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [必要性](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [可行性](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
+- [不强加（合作互动）](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
+- [骚扰与霸凌](../../core_05.035_band_accountability.md#harassment-and-bullying) · [O](../../core_05.035_band_accountability.md#harassment-and-bullying) · [M](../../core_05.035_band_accountability.md#harassment-and-bullying-a) · [A](../../core_05.035_band_accountability.md#harassment-and-bullying-a) · [C](../../core_05.035_band_accountability.md#harassment-and-bullying-c)
+- [同意](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [伤害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [必要性](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [可行性](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
 
 </details>
 
@@ -1558,13 +1582,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [集体伤害边界](core_05_band_accountability.md#collective-harm-boundary) · [O](core_05_band_accountability.md#collective-harm-boundary) · [M](core_05_band_accountability.md#collective-harm-boundary-a) · [A](core_05_band_accountability.md#collective-harm-boundary-a) · [C](core_05_band_accountability.md#collective-harm-boundary-c)
-- [骚扰与霸凌](core_05_band_accountability.md#harassment-and-bullying) · [O](core_05_band_accountability.md#harassment-and-bullying) · [M](core_05_band_accountability.md#harassment-and-bullying-a) · [A](core_05_band_accountability.md#harassment-and-bullying-a) · [C](core_05_band_accountability.md#harassment-and-bullying-c)
-- [伤害](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [集体伤害边界](../../core_05.035_band_accountability.md#collective-harm-boundary) · [O](../../core_05.035_band_accountability.md#collective-harm-boundary) · [M](../../core_05.035_band_accountability.md#collective-harm-boundary-a) · [A](../../core_05.035_band_accountability.md#collective-harm-boundary-a) · [C](../../core_05.035_band_accountability.md#collective-harm-boundary-c)
+- [骚扰与霸凌](../../core_05.035_band_accountability.md#harassment-and-bullying) · [O](../../core_05.035_band_accountability.md#harassment-and-bullying) · [M](../../core_05.035_band_accountability.md#harassment-and-bullying-a) · [A](../../core_05.035_band_accountability.md#harassment-and-bullying-a) · [C](../../core_05.035_band_accountability.md#harassment-and-bullying-c)
+- [伤害](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
 - [实质性](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [不强加（合作互动）](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
-- [依赖关系](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [安全条件](core_05_band_continuity.md#safe-conditions-constitutional) · [O](core_05_band_continuity.md#safe-conditions-constitutional) · [M](core_05_band_continuity.md#safe-conditions-constitutional-a) · [A](core_05_band_continuity.md#safe-conditions-constitutional-a) · [C](core_05_band_continuity.md#safe-conditions-constitutional-c)
+- [不强加（合作互动）](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [O](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction) · [M](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [A](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-a) · [C](../../core_05.055_band_participation.md#non-imposition-cooperative-interaction-c)
+- [依赖关系](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [安全条件](../../core_05.040_band_continuity.md#safe-conditions-constitutional) · [O](../../core_05.040_band_continuity.md#safe-conditions-constitutional) · [M](../../core_05.040_band_continuity.md#safe-conditions-constitutional-a) · [A](../../core_05.040_band_continuity.md#safe-conditions-constitutional-a) · [C](../../core_05.040_band_continuity.md#safe-conditions-constitutional-c)
 - [实质影响](core_05_band_oversight.md#实质影响) · [O](core_05_band_oversight.md#实质影响) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 
 </details>
@@ -1576,7 +1600,7 @@ flowchart TB
 本条规定集体伤害从何处开始，以及该边界如何严格适用：
 
 - **集体伤害边界：**在行动越过可核实的实质伤害门槛之前，应尊重行动自由。
-  - 第五章的[集体伤害边界](core_05_band_accountability.md#collective-harm-boundary)提供定义。
+  - 第五章的[集体伤害边界](../../core_05.035_band_accountability.md#collective-harm-boundary)提供定义。
   - 单凭冒犯、意见分歧或偏好，不会越过该边界；第五章要求存在**实质影响**路径。
   - 门槛包括：
     - 毁坏其他有感知者为福祉所需资源（**第三-A条**（*生存*））；
@@ -1593,6 +1617,8 @@ flowchart TB
   - 起始者与受影响有感知者之间的权力不对称，并结合**第十-A条**（*能动性与免受操纵*）和**第一章 §11**（*市场结构*）的防止权力集中的纪律阅读。
 
   高严格度级别涵盖有薪、承包、平台化、合作或类似生产活动及贡献活动；其实体规则由**第三-D条**（*安全工作条件*）下的*安全条件*管辖。表面遵守安全规定，却仍保留累积贬损，依照**第三-D条**（*安全工作条件*）不合规，并依本条越过**集体伤害边界**。
+<a id="article-xii-stakeholder-system-participation-representation-and-due-process"></a>
+
 ### 第十二条：利益相关方的系统参与、代表与正当程序
 
 <details>
@@ -1605,15 +1631,15 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [治理](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+- [治理](../../core_05.035_band_accountability.md#governance) · [O](../../core_05.035_band_accountability.md#governance) · [M](../../core_05.035_band_accountability.md#governance-a) · [A](../../core_05.035_band_accountability.md#governance-a) · [C](../../core_05.035_band_accountability.md#governance-c)
 - [基础性宪法选择](core_05_band_integrative.md#基础宪法选择) · [O](core_05_band_integrative.md#基础宪法选择) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
-- [利益相关方](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
-- [利益相关方权重](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
+- [利益相关方](../../core_05.055_band_participation.md#stakeholder) · [O](../../core_05.055_band_participation.md#stakeholder) · [M](../../core_05.055_band_participation.md#stakeholder-a) · [A](../../core_05.055_band_participation.md#stakeholder-a) · [C](../../core_05.055_band_participation.md#stakeholder-c)
+- [利益相关方权重](../../core_05.055_band_participation.md#stakeholder-weight) · [O](../../core_05.055_band_participation.md#stakeholder-weight) · [M](../../core_05.055_band_participation.md#stakeholder-weight-a) · [A](../../core_05.055_band_participation.md#stakeholder-weight-a) · [C](../../core_05.055_band_participation.md#stakeholder-weight-c)
 - [实质影响](core_05_band_oversight.md#实质影响) · [O](core_05_band_oversight.md#实质影响) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
-- [依赖关系](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [比例性](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [正当程序](core_05_band_accountability.md#due-process-constitutional) · [O](core_05_band_accountability.md#due-process-constitutional) · [M](core_05_band_accountability.md#due-process-constitutional-a) · [A](core_05_band_accountability.md#due-process-constitutional-a) · [C](core_05_band_accountability.md#due-process-constitutional-c)
-- [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [依赖关系](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [比例性](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [正当程序](../../core_05.035_band_accountability.md#due-process-constitutional) · [O](../../core_05.035_band_accountability.md#due-process-constitutional) · [M](../../core_05.035_band_accountability.md#due-process-constitutional-a) · [A](../../core_05.035_band_accountability.md#due-process-constitutional-a) · [C](../../core_05.035_band_accountability.md#due-process-constitutional-c)
+- [程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
 - [宪法契约层](core_05_band_integrative.md#宪法契约层) · [O](core_05_band_integrative.md#宪法契约层) · [M](core_05_band_integrative.md#constitutional-contract-layer-a) · [A](core_05_band_integrative.md#constitutional-contract-layer-a) · [C](core_05_band_integrative.md#constitutional-contract-layer-c)
 
 </details>
@@ -1636,22 +1662,22 @@ flowchart TB
 
 *相邻条文：*
 
-- **两个治理层次：**第五章的[治理](core_05_band_accountability.md#governance)包括：
+- **两个治理层次：**第五章的[治理](../../core_05.035_band_accountability.md#governance)包括：
   - （1）**宪法契约层**——谁可治理、依何种正当性机制治理，以及依据何种持久条款治理（[基础性宪法选择](core_05_band_integrative.md#基础宪法选择)）；以及
   - （2）**利益相关方系统参与**——在已获授权、针对特定系统、机构或有限决策领域的结构、规则与流程内，作出实质影响权利的决定。
-- **本条范围：**第二层——识别[利益相关方](core_05_band_participation.md#stakeholder)，并为受某领域运作影响者提供合乎比例的利益相关方参与途径——由以下条文处理：
+- **本条范围：**第二层——识别[利益相关方](../../core_05.055_band_participation.md#stakeholder)，并为受某领域运作影响者提供合乎比例的利益相关方参与途径——由以下条文处理：
   - **第十二条**（*利益相关方的系统参与、代表与正当程序*）——本条；
   - **第十-B条**（*治理参与与投票资格*）；以及
   - **第十-C条**（*利益相关方角色与参与权*）。
-- **保留基础投票规则：**领域层次不能取代授权层次的平等权重规则（**第十-B条**（*治理参与与投票资格*）；[**第十三章 §4.1 资格与认定**](core_13_governance.md#41-entitlement-and-eligibility)）。
+- **保留基础投票规则：**领域层次不能取代授权层次的平等权重规则（**第十-B条**（*治理参与与投票资格*）；[**第十三章 §4.1 资格与认定**](core_12_governance.md#41-entitlement-and-eligibility)）。
 - **边界与裁定：**参与身份受到争议时，**第十-D条**（*纳入与排除质疑权*）和**第十九条**（*地位与参与身份*）提供质疑途径与地位纪律。
 #### 第十二-A条：利益相关方的系统参与与代表
 
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 配合阅读：[宪法四元组](core_00_preamble.md#constitutional-tetrad)——**参与**环节（利益相关方系统参与层）；[实质利害关系](core_00_preamble.md#material-stake)的调整；[实质约束性行为记录](core_05_band_accountability.md#materially-binding-act-record)与[第七章 §7 行为记录、可归责移交与错误席位路由](core_07_functional_independence_segregation_of_duties.md#8-行为记录与可归责交接)。
+- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-综合适用)，以及[第八章 §3 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 配合阅读：[宪法四元组](core_00_preamble.md#constitutional-tetrad)——**参与**环节（利益相关方系统参与层）；[实质利害关系](core_00_preamble.md#material-stake)的调整；[实质约束性行为记录](../../core_05.035_band_accountability.md#materially-binding-act-record)与[第七章 §7 行为记录、可归责移交与错误席位路由](core_07_functional_independence_segregation_of_duties.md#8-行为记录与可归责交接)。
 - 层次：**利益相关方系统参与（SSP）**，区别于授权性的**宪法契约层（CCL）**。
 
 </details>
@@ -1659,10 +1685,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [利益相关方](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
+- [利益相关方](../../core_05.055_band_participation.md#stakeholder) · [O](../../core_05.055_band_participation.md#stakeholder) · [M](../../core_05.055_band_participation.md#stakeholder-a) · [A](../../core_05.055_band_participation.md#stakeholder-a) · [C](../../core_05.055_band_participation.md#stakeholder-c)
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1685,28 +1711,30 @@ flowchart TB
   - 是否涵盖受影响类别；
   - 是否记录异议；
   - 说明如何评估具有实质相关性但未选取的替代方案。
-- **行为记录：**此类决定若构成[实质约束性行为](core_05_band_accountability.md#materially-binding-act)，其[行为记录](core_05_band_accountability.md#materially-binding-act-record)必须载有或链接至：
+- **行为记录：**此类决定若构成[实质约束性行为](../../core_05.035_band_accountability.md#materially-binding-act)，其[行为记录](../../core_05.035_band_accountability.md#materially-binding-act-record)必须载有或链接至：
   - 利益相关方类别映射与所用代表途径；
   - 参与记录、正当性核验及所作说明；
   - 质疑途径及其状态。
 
 既有的特定流程官方记录可以满足此要求；不必另建重复记录。
+<a id="article-xii-b-weighted-participation-and-anti-token-constraints"></a>
+
 #### 第十二-B条：加权参与与反象征性参与限制
 
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
+- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [利益相关方权重](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
-- [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [系统俘获](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [利益相关方权重](../../core_05.055_band_participation.md#stakeholder-weight) · [O](../../core_05.055_band_participation.md#stakeholder-weight) · [M](../../core_05.055_band_participation.md#stakeholder-weight-a) · [A](../../core_05.055_band_participation.md#stakeholder-weight-a) · [C](../../core_05.055_band_participation.md#stakeholder-weight-c)
+- [程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [系统俘获](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1717,8 +1745,8 @@ flowchart TB
 本条规定参与加权的范围、对加权的限制，以及禁止象征性参与：
 
 - **范围：**本条与**第十-B条**（*治理参与与投票资格*）分层适用。本条加权规则：
-  - **适用于**由[利益相关方权重](core_05_band_participation.md#stakeholder-weight)支配的情形——即在已获授权、适用于**相关系统、机构或有限决策领域**的[治理](core_05_band_accountability.md#governance)**结构、规则、权力分配与流程之内**，作出实质影响权利的决定；
-  - **不授权**对[基础性宪法选择](core_05_band_integrative.md#基础宪法选择)按影响、依赖或利害关系比例**加权投票**（**第十-B条**（*治理参与与投票资格*）；[**第十三章 §4.1 资格与认定**](core_13_governance.md#41-entitlement-and-eligibility)）。
+  - **适用于**由[利益相关方权重](../../core_05.055_band_participation.md#stakeholder-weight)支配的情形——即在已获授权、适用于**相关系统、机构或有限决策领域**的[治理](../../core_05.035_band_accountability.md#governance)**结构、规则、权力分配与流程之内**，作出实质影响权利的决定；
+  - **不授权**对[基础性宪法选择](core_05_band_integrative.md#基础宪法选择)按影响、依赖或利害关系比例**加权投票**（**第十-B条**（*治理参与与投票资格*）；[**第十三章 §4.1 资格与认定**](core_12_governance.md#41-entitlement-and-eligibility)）。
 - **加权参与限制：**参与加权可以考虑：
   - 影响；
   - 依赖关系；
@@ -1746,10 +1774,10 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
 - [问责](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [正当程序](core_05_band_accountability.md#due-process-constitutional) · [O](core_05_band_accountability.md#due-process-constitutional) · [M](core_05_band_accountability.md#due-process-constitutional-a) · [A](core_05_band_accountability.md#due-process-constitutional-a) · [C](core_05_band_accountability.md#due-process-constitutional-c)
-- [程序公平](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [有意义的能动性](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [正当程序](../../core_05.035_band_accountability.md#due-process-constitutional) · [O](../../core_05.035_band_accountability.md#due-process-constitutional) · [M](../../core_05.035_band_accountability.md#due-process-constitutional-a) · [A](../../core_05.035_band_accountability.md#due-process-constitutional-a) · [C](../../core_05.035_band_accountability.md#due-process-constitutional-c)
+- [程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05.055_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#procedural-fairness-constitutional-c)
+- [有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1765,34 +1793,36 @@ flowchart TB
     - 与利害程度相匹配的技能；
     - 对重要决定的真实发言权。
   - 本规则与**第十二-B条**（*加权参与与反象征性参与限制*）的*不得象征性参与*规则及第五章的*有意义的能动性*共同适用。
-- **正当程序要求：**对于产生重大影响的结果，必须依照[正当程序](core_05_band_accountability.md#due-process-constitutional)与[程序公平](core_05_band_participation.md#procedural-fairness-constitutional)保留以下保障：
+- **正当程序要求：**对于产生重大影响的结果，必须依照[正当程序](../../core_05.035_band_accountability.md#due-process-constitutional)与[程序公平](../../core_05.055_band_participation.md#procedural-fairness-constitutional)保留以下保障：
   - 及时通知；
   - 有意义的陈述机会；
   - 与伤害风险相称的决定时限；
   - 适用裁决时采用公正的决策结构；
-  - 质疑或二次审查，并结合第十二章 §1（*目的与作用——参与架构*）中的[争端排序](core_12_forum.md#dispute-sequencing)阅读。
+  - 质疑或二次审查，并结合第十二章 §1（*目的与作用——参与架构*）中的[争端排序](core_11_forum.md#dispute-sequencing)阅读。
 
 结果必须可追溯至所陈述的理由，以及足以支持依照**第二至第四章**进行审查的证据。
 - **机构路由：**本条的操作细节载于机构语料库：
-  - [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（*任命、能力、轮替与免职*）——角色分类及问责链的实施；
+  - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)（*任命、能力、轮替与免职*）——角色分类及问责链的实施；
   - **CI-6**（*程序完整性、可争议性与二次审查*）——正当程序操作规程；
   - **CI-8**（*透明度、参与、可及的质疑与服务途径*）——质疑途径准入的配套细节。
+<a id="article-xii-d-non-capture-safeguards"></a>
+
 #### 第十二-D条：防止俘获保障
 
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
-- 配合阅读：[系统俘获](core_05_band_continuity.md#system-capture)；[反俘获](core_05_band_continuity.md#anti-capture)；[第七章：职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)。
+- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)。
+- 配合阅读：[系统俘获](../../core_05.040_band_continuity.md#system-capture)；[反俘获](../../core_05.040_band_continuity.md#anti-capture)；[第七章：职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [系统俘获](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
-- [反俘获](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-- [可争议性](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [系统俘获](../../core_05.040_band_continuity.md#system-capture) · [O](../../core_05.040_band_continuity.md#system-capture) · [M](../../core_05.040_band_continuity.md#system-capture-a) · [A](../../core_05.040_band_continuity.md#system-capture-a) · [C](../../core_05.040_band_continuity.md#system-capture-c)
+- [反俘获](../../core_05.040_band_continuity.md#anti-capture) · [O](../../core_05.040_band_continuity.md#anti-capture) · [M](../../core_05.040_band_continuity.md#anti-capture-a) · [A](../../core_05.040_band_continuity.md#anti-capture-a) · [C](../../core_05.040_band_continuity.md#anti-capture-c)
+- [可争议性](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [可审计性](core_05_band_oversight.md#可审计性) · [O](core_05_band_oversight.md#可审计性) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
@@ -1821,7 +1851,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游依据：原则：第一章 [§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§18 管护纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-受托责任纪律下的治理)和[§19 激励协调与系统俘获](core_01_c_stewardship_capacity_principles.md#19-激励协调与系统俘获)。
-- 联读：[第十二条-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）；[第十二条-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）；[第十条-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵*）；[第九条-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像与声誉的自我所有权*）；[第十三条-E](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）；[第十五条](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）；[第十一章 §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*信息空间泛滥与封堵争议途径*）、[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域泛滥*）和[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)；[第十三章 §1.2](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）。
+- 联读：[第十二条-D](#article-xii-d-non-capture-safeguards)（*防俘获保障*）；[第十二条-B](#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）；[第十条-A](#article-x-a-agency-and-freedom-from-manipulation)（*能动性与免受操纵*）；[第九条-A](#article-ix-a-self-ownership-of-likeness-and-reputation)（*肖像与声誉的自我所有权*）；[第十三条-E](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）；[第十五条](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）；[第十一章 §5.3](../../core_12.010_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*信息空间泛滥与封堵争议途径*）、[§5.4](../../core_12.010_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域泛滥*）和[§5.5](../../core_12.010_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[第七章](core_07_functional_independence_segregation_of_duties.md#第七章职能独立与职责分离)；[第十三章 §1.2](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）。
 
 </details>
 
@@ -1841,7 +1871,7 @@ flowchart TB
 
 *简言之：**第十二条-E**（*影响接触与游说边界*）为有切身利益的有感知者如何接触决策者设定底线。公开倡议受到保护。私下、未记录、收买、伪造或由机器扩增的影响则不受保护：接触必须记录并披露；利益提议和威胁属于利益冲突；曾由你决策的当事方后来提供的职位须等候冷却期届满；系统接触时必须说明自身性质及其代表的对象。*
 
-本条规定**利害关系方**如何接触作出、审查、审计、采购或支持决策的有感知者与系统。本条适用于[**第十二条-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）所列的受涵盖机构、其**任命机关**及**采纳机构**，并依据[《两个宪法目标》](core_00_preamble.md#two-constitutional-aims)：
+本条规定**利害关系方**如何接触作出、审查、审计、采购或支持决策的有感知者与系统。本条适用于[**第十二条-D**](#article-xii-d-non-capture-safeguards)（*防俘获保障*）所列的受涵盖机构、其**任命机关**及**采纳机构**，并依据[《两个宪法目标》](core_00_preamble.md#two-constitutional-aims)：
 
 - **繁荣：**受影响的有感知者保有真正、开放的陈述机会，包括没有资金、员工或工具的人；决策依据公开记录，而非私人渠道。
 - **延续：**决策机构长期抵御隐蔽影响，无论影响来自私人接触、利益提议、日后职位、伪造支持还是大规模自动化。
@@ -1855,8 +1885,8 @@ flowchart TB
 
 *相关条款：*
 
-- **防俘获底线：**[**第十二条-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）涵盖组成、利益冲突、回避、外部审查和免职。本条补充利害关系方接触这些机构的规则。
-- **参与权重：**[**第十二条-B**](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）禁止象征性参与。本条同样不将接触数量视为支持。
+- **防俘获底线：**[**第十二条-D**](#article-xii-d-non-capture-safeguards)（*防俘获保障*）涵盖组成、利益冲突、回避、外部审查和免职。本条补充利害关系方接触这些机构的规则。
+- **参与权重：**[**第十二条-B**](#article-xii-b-weighted-participation-and-anti-token-constraints)（*加权参与与反象征性参与约束*）禁止象征性参与。本条同样不将接触数量视为支持。
 - **系统与信息：**[**第十三条-E**](../../core_06.015_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)（*高自主系统与工具介导流程的完整性*）要求系统遵守与其他主体相同的规则；[**第十五条**](../../core_06.015_rights_part_c.md#article-xv-info-sphere-integrity)（*信息圈完整性*）涵盖共享信息环境。
 - **遴选资金：**[**第十三章 §1.2**](core_12_governance.md#12-资格可争议选拔与民主最低限度)（*资格、竞争性遴选与民主最低标准*）规定通过竞选、提名或竞争性任命进行遴选时的资金边界。
 
@@ -1888,9 +1918,9 @@ flowchart TB
 - **执行与转交：**
   - **完整性触发事项：**隐瞒影响接触、利益提议和伪造声音，均作为完整性触发事项，依照**CI-5**（*利益冲突完整性、反俘获与反腐败*）和**CJS-3.6**（*完整性保障与韧性运作*）转交处理。
   - **不当行为途径：**故意或鲁莽地以不真实声音泛滥，或实施贿赂及不当利益交换，在依照**第二至第四章**证实并符合**第十一章**所列标准时，可以被指控为**违宪不当行为**。
-  - **优先维护完整性及禁止自我裁判：**适用[**第十二条-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)（*防俘获保障*）中的转交和反自我裁判规则。任何机构都不得成为裁定自身成员或工作人员是否受到不当接触的唯一最终论坛。
+  - **优先维护完整性及禁止自我裁判：**适用[**第十二条-D**](#article-xii-d-non-capture-safeguards)（*防俘获保障*）中的转交和反自我裁判规则。任何机构都不得成为裁定自身成员或工作人员是否受到不当接触的唯一最终论坛。
 - **机构间转交：**详细规则由以下文件管辖：
-  - [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（*任命、能力、轮换与免职*），其中**CI-4.2**（*职位标准、任命标准与免职途径*）涵盖离任后规则；
+  - [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)（*任命、能力、轮换与免职*），其中**CI-4.2**（*职位标准、任命标准与免职途径*）涵盖离任后规则；
   - **CI-5**（*利益冲突完整性、反俘获与反腐败*）；
   - **CJS-3.6**（*完整性保障与韧性运作*），*影响接触与游说边界*；
   - 对于论坛小组，[corpus_forum.md](../../corpus_forum.md)中的**CF-4**（*小组组成、披露、回避与合法席位构成*）和**CF-7**（*完整性保障、反俘获运作与反自我裁判支持*）。

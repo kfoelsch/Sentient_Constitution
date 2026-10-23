@@ -27,20 +27,20 @@
 
 **تعريفات الفصل الخامس البديلة** (استيفاء O/M/A/C — يُتتبّع ذلك بموجب الفصول الثاني إلى الرابع عند صلته الجوهرية):
 
-- [الرفاه](core_05_band_continuity.md#wellbeing) (غاية الازدهار)
-- [الرقابة](core_05_apex_oversight_leg.md#oversight)، [المساءلة](core_05_apex_accountability_leg.md#accountability)، [قابلية الطعن](core_05_band_accountability.md#contestability)، [الحوكمة](core_05_band_accountability.md#governance)، [الحوكمة المتناسبة مع التصنيف](core_05_band_oversight.md#الحوكمة-المتدرجة-بحسب-التصنيف)
-- [الجوهري](core_05_band_oversight.md#مادي)، [الأثر الجوهري](core_05_band_oversight.md#الأثر-المادي)، [المخاطر الجوهرية](core_05_band_oversight.md#المخاطر-المادية)، [الجوهرية](core_05_band_oversight.md#المادية) (تُسمّي الأدوات هذا **الجوهرية**)، [الجوهرية النظامية](core_05_band_continuity.md#systemic-materiality) — المجموعة: [الجوهرية والأثر والمخاطر ونزاهة البدائل](core_05_band_oversight.md#المادية-والأثر-والمخاطر-ونزاهة-المؤشرات-البديلة)
+- [الرفاه](../../core_05.040_band_continuity.md#wellbeing) (غاية الازدهار)
+- [الرقابة](../../core_05.020_apex_oversight_leg.md#oversight)، [المساءلة](core_05_apex_accountability_leg.md#accountability)، [قابلية الطعن](../../core_05.035_band_accountability.md#contestability)، [الحوكمة](../../core_05.035_band_accountability.md#governance)، [الحوكمة المتناسبة مع التصنيف](core_05_band_oversight.md#الحوكمة-المتدرجة-بحسب-التصنيف)
+- [الجوهري](core_05_band_oversight.md#مادي)، [الأثر الجوهري](core_05_band_oversight.md#الأثر-المادي)، [المخاطر الجوهرية](core_05_band_oversight.md#المخاطر-المادية)، [الجوهرية](core_05_band_oversight.md#المادية) (تُسمّي الأدوات هذا **الجوهرية**)، [الجوهرية النظامية](../../core_05.040_band_continuity.md#systemic-materiality) — المجموعة: [الجوهرية والأثر والمخاطر ونزاهة البدائل](core_05_band_oversight.md#المادية-والأثر-والمخاطر-ونزاهة-المؤشرات-البديلة)
 
 **المجموعات التابعة الرئيسية في §3 من الفصل الخامس** (مجموعات الاستدعاء المشترك — تُقرأ مع الفصول الثاني إلى الرابع عند صلتها الجوهرية):
 
-- [صفة أصحاب المصلحة ووزنهم](core_05_band_participation.md#stakeholder-status-and-weight) (طبقة مشاركة أصحاب المصلحة في النظام)
-- [طبقة العقد الدستوري](core_05_band_integrative.md#طبقة-العقد-الدستوري) و[هندسة الحوكمة والرقابة والاعتماد واللامركزية والتمركز وبنية السوق ونزاهة مسار الخروج](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- [صفة أصحاب المصلحة ووزنهم](../../core_05.055_band_participation.md#stakeholder-status-and-weight) (طبقة مشاركة أصحاب المصلحة في النظام)
+- [طبقة العقد الدستوري](core_05_band_integrative.md#طبقة-العقد-الدستوري) و[هندسة الحوكمة والرقابة والاعتماد واللامركزية والتمركز وبنية السوق ونزاهة مسار الخروج](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - [المتن ومكدس الصلاحيات](core_05_band_integrative.md#defi1-المتن-ورصة-السلطة)
 - [المساءلة وقابلية الطعن وإخفاق المساءلة الجماعية](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3** (*مكتبة المجموعات التشغيلية (oDef)*) — بوصلة المجموعات التشغيلية للمصطلحات التشغيلية المشتركة بين التطبيقات؛ تُقرأ مع رباعي هذا الفصل وغاياته وتناسب المصلحة الجوهرية:
 
-- [CJS-3.1 البوصلة الدستورية وخريطة المجموعات](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — المدخل الأساسي لمجموعات **CJS-3.2** (*الرقابة: مصطلحات الشفافية الانعكاسية والمساءلة*) إلى **CJS-3.23** (*التكامل: مصطلحات نزاهة التدخل والتجاوز*)، المنظمة بحسب ضلع الرباعي وغاية الاستمرارية والنطاقات التكاملية العابرة للأضلاع
+- [CJS-3.1 البوصلة الدستورية وخريطة المجموعات](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — المدخل الأساسي لمجموعات **CJS-3.2** (*الرقابة: مصطلحات الشفافية الانعكاسية والمساءلة*) إلى **CJS-3.23** (*التكامل: مصطلحات نزاهة التدخل والتجاوز*)، المنظمة بحسب ضلع الرباعي وغاية الاستمرارية والنطاقات التكاملية العابرة للأضلاع
 
 </details>
 
@@ -53,7 +53,7 @@
 
 - **عند تعارض المبادئ** ([§13 عملية حلّ التعارض الدستوري](#13-عملية-حل-التعارض-الدستوري)): تأتي السلامة والحقيقة أولاً، ويجب أن تحافظ كل مفاضلة أخرى على الرباعي بدلاً من إضعافه سعياً إلى حلّ سهل.
 - **عند المغالاة في قيمة واحدة** ([§14 حظر التجاوز المطلق](#14-prohibition-on-absolute-override)): لا يجوز استخدام أي قيمة أو أي من الغايتين لتفريغ أحد الأضلاع من مضمونه إلى ما دون ما تقتضيه المصلحة الجوهرية.
-- **عند قراءة الدستور أو تطبيقه** ([§15 التفسير الدستوري](#15-constitutional-interpretation)): لا يمكن لتغيير تسمية الفعل ذاته أو تقسيمه أو إعادة توجيه مساره أن يتفادى متطلباً، ويُفسَّر الالتباس بما يحقق [أقصى أثر وقائي](core_05_band_integrative.md#fullest-protective-effect).
+- **عند قراءة الدستور أو تطبيقه** ([§15 التفسير الدستوري](#15-constitutional-interpretation)): لا يمكن لتغيير تسمية الفعل ذاته أو تقسيمه أو إعادة توجيه مساره أن يتفادى متطلباً، ويُفسَّر الالتباس بما يحقق [أقصى أثر وقائي](../../core_05.045_band_integrative.md#fullest-protective-effect).
 
 **مواضع إعمال الجزء ب لكل ضلع.** تسرد أداة التتبّع في كل مادة كل ضلع تتناوله. ويسمّي هذا الجدول المواضع الرئيسية.
 
@@ -66,7 +66,7 @@
 
 **مواد لا تتناول أي ضلع مباشرةً.** يحكم [§15.1.1 مبدأ منع التجزئة](#1511-مبدأ-منع-التجزئة) و[§15.4.1](#1541-القراءة-المتكاملة) إلى [§15.4.3](#1543-طبقة-الإدماج) كيفية قراءة النص وأي طبقة مصدر هي الحاكمة. ولا تحمل أدوات التتبّع فيها أي إشارة إلى أضلاع الرباعي، وذلك عن قصد.
 
-**معنيان للزمن.** يرد الزمن في الجزء ب بمعنيين. فالآفاق الزمنية الطويلة (الضرر المتأخر والتراكمي، و[قيد الاتساق الزمني §3.2 من الفصل التاسع](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) المطبّق في [§13.1.2](#1312-تقليل-الضرر)) تتبع غاية **الاستمرارية**. أما الساعات وفترات المراجعة والتأخير (الحدود الزمنية للقيود، والإفصاح في نهاية المطاف، والتأخير الممكن تجنبه) فتتبع ضلع **الالتزام بالمواعيد**.
+**معنيان للزمن.** يرد الزمن في الجزء ب بمعنيين. فالآفاق الزمنية الطويلة (الضرر المتأخر والتراكمي، و[قيد الاتساق الزمني §3.2 من الفصل التاسع](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) المطبّق في [§13.1.2](#1312-تقليل-الضرر)) تتبع غاية **الاستمرارية**. أما الساعات وفترات المراجعة والتأخير (الحدود الزمنية للقيود، والإفصاح في نهاية المطاف، والتأخير الممكن تجنبه) فتتبع ضلع **الالتزام بالمواعيد**.
 
 **محوران لا تعارض.** تبيّن غايات الجزء أ ما تسعى إليه الأنظمة المشتركة. ويبيّن الجزء ب ما لا يجوز لأي مفاضلة أو تجاوز أو قراءة أن تنتزعه في الطريق.
 
@@ -81,7 +81,7 @@
 
 - يُقرأ مع: [الرباعي الدستوري](core_00_preamble.md#constitutional-tetrad) — المشاركة والرقابة والمساءلة والالتزام بالمواعيد في الإجراءات والإفصاح والتعامل مع التعارض الدستوري والانتصاف؛ وبمقياس [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 - المنبع: المبادئ: [3. الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [7. الحرية (القدرة على التصرف ضمن حدود)](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§16 التعمق في الإشراف](core_01_c_stewardship_capacity_principles.md#16-الرعاية-بالتفصيل).
-- المصب: [13.2.1 صون النزاهة المعرفية](#1321-صون-النزاهة-المعرفية)، [سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record)، [الوضع المؤقت الافتراضي](#default-interim-posture)، و[14. حظر التجاوز المطلق](#14-prohibition-on-absolute-override).
+- المصب: [13.2.1 صون النزاهة المعرفية](#1321-صون-النزاهة-المعرفية)، [سجل التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record)، [الوضع المؤقت الافتراضي](#default-interim-posture)، و[14. حظر التجاوز المطلق](#14-prohibition-on-absolute-override).
 - يحكم التعارضات العابرة للمواد في [الفصل السادس: الحقوق التأسيسية](core_06_rights_part_a.md#الفصل-السادس-الحقوق-التأسيسية).
   - يُقرأ هذا مع [المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ) و[المادة XX: العدالة بعد التحقق من وقوع الانتهاك](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
   - يُطبّق عند نشوء مسائل المراجعة أو الطوارئ أو التعارض الدستوري.
@@ -91,7 +91,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [التعارض الدستوري](core_05_band_integrative.md#constitutional-collision) · [O](core_05_band_integrative.md#constitutional-collision) · [M](core_05_band_integrative.md#constitutional-collision-a) · [A](core_05_band_integrative.md#constitutional-collision-a) · [C](core_05_band_integrative.md#constitutional-collision-c)
+- [التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision) · [O](../../core_05.045_band_integrative.md#constitutional-collision) · [M](../../core_05.045_band_integrative.md#constitutional-collision-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-c)
 - [المشاركة](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
@@ -101,12 +101,12 @@
 
 <br>
 
-*بعبارة واضحة: ستقع التعارضات الدستورية — وتأتي **السلامة** و**الحقيقة** أولاً. وبعد ذلك، يجب أن تكون القيود متناسبة وضرورية ومقلِّلة للضرر وخفيفة قدر الإمكان. لا يجوز إخفاء الحقيقة طلباً للراحة؛ ولا يجوز تجريد أحد من الخصوصية طلباً للسهولة؛ وتُطبّق قيود الحرية بموجب [§7.1 انضباط التقييد](core_01_a_values_principles.md#71-limitation-discipline)؛ وتتطلب التعارضات الدستورية المتعلقة بالحقوق اختبار قرار موثقاً؛ والمقاييس التي تقدم صورة زائفة عن الامتثال لا يُعتد بها. ولا يمكن للتحسين قصير الأفق اجتياز التقييم بموجب [قيد الاتساق الزمني §3.2 من الفصل التاسع](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint). وتحمل **§13.1** (*مبادئ المفاضلة الأساسية*) حتى **§13.3** (*تقليل العبء الممكن تجنبه*) قواعد المفاضلة وقيود الإفصاح والخصوصية وإجراءات التعارض الدستوري.*
+*بعبارة واضحة: ستقع التعارضات الدستورية — وتأتي **السلامة** و**الحقيقة** أولاً. وبعد ذلك، يجب أن تكون القيود متناسبة وضرورية ومقلِّلة للضرر وخفيفة قدر الإمكان. لا يجوز إخفاء الحقيقة طلباً للراحة؛ ولا يجوز تجريد أحد من الخصوصية طلباً للسهولة؛ وتُطبّق قيود الحرية بموجب [§7.1 انضباط التقييد](core_01_a_values_principles.md#71-limitation-discipline)؛ وتتطلب التعارضات الدستورية المتعلقة بالحقوق اختبار قرار موثقاً؛ والمقاييس التي تقدم صورة زائفة عن الامتثال لا يُعتد بها. ولا يمكن للتحسين قصير الأفق اجتياز التقييم بموجب [قيد الاتساق الزمني §3.2 من الفصل التاسع](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint). وتحمل **§13.1** (*مبادئ المفاضلة الأساسية*) حتى **§13.3** (*تقليل العبء الممكن تجنبه*) قواعد المفاضلة وقيود الإفصاح والخصوصية وإجراءات التعارض الدستوري.*
 
 يحافظ الجزء ب على سلامة الرباعي في ثلاث حالات:
-- **[التعارضات الدستورية](core_05_band_integrative.md#constitutional-collision) (هذا القسم):** يحلها من دون إضعاف أي ضلع.
+- **[التعارضات الدستورية](../../core_05.045_band_integrative.md#constitutional-collision) (هذا القسم):** يحلها من دون إضعاف أي ضلع.
 - **التجاوز ([§14 حظر التجاوز المطلق](#14-prohibition-on-absolute-override)):** يمنع أي قيمة منفردة، بما فيها أي من الغايتين، من التغلب على القيم الأخرى أو تفريغ أحد الأضلاع من مضمونه إلى ما دون ما تقتضيه المصلحة الجوهرية.
-- **القراءة والتطبيق ([§15 التفسير الدستوري](#15-constitutional-interpretation)):** يمنع إعادة تسمية الفعل ذاته أو تقسيمه أو إعادة توجيه مساره لتفادي متطلب، ويوجه تفسير الالتباس نحو [أقصى أثر وقائي](core_05_band_integrative.md#fullest-protective-effect).
+- **القراءة والتطبيق ([§15 التفسير الدستوري](#15-constitutional-interpretation)):** يمنع إعادة تسمية الفعل ذاته أو تقسيمه أو إعادة توجيه مساره لتفادي متطلب، ويوجه تفسير الالتباس نحو [أقصى أثر وقائي](../../core_05.045_band_integrative.md#fullest-protective-effect).
 
 عندما تتعارض القيم أو القيود:
 - **الأسبقية:** تتقدم **السلامة** و**الحقيقة** عندما يتعذر حل التعارض من دون انتهاكهما.
@@ -167,9 +167,9 @@ flowchart TB
 
 *النطاق.* [§13.1 مبادئ المفاضلة الأساسية](#131-مبادئ-المفاضلة-الأساسية) — تعريفات الضرورة وتقليل الضرر والضرر في سلسلة المفاضلة.
 
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [تقليل الضرر (اختيار المفاضلة)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [الضرر](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [تقليل الضرر (اختيار المفاضلة)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [الضرر](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
 
 </details>
 
@@ -228,10 +228,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [الجدوى](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
-- [الحرية (الفاعلية المحدودة)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [الفاعلية المجدية](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [الجدوى](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
+- [الحرية (الفاعلية المحدودة)](../../core_05.055_band_participation.md#freedom-bounded-agency) · [O](../../core_05.055_band_participation.md#freedom-bounded-agency) · [M](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05.055_band_participation.md#freedom-bounded-agency-c)
+- [الفاعلية المجدية](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -254,7 +254,7 @@ flowchart TB
 - خفض التكاليف وحده عندما تتأثر الحقوق ماديًا؛
 - مجرد كون القيد قائمًا بالفعل.
 
-**النطاق.** ينطبق هذا البند الفرعي على أي قيد دستوري، وليس على سياقات التصادم الدستوري وحدها بموجب [§13.1.5 إجراء تصادم الحقوق](#1315-rights-collision-decision-test). وعندما يحمّل القيد [الحرية (الفاعلية المحدودة)](core_05_band_participation.md#freedom-bounded-agency) أو [الفاعلية المجدية](core_05_band_participation.md#meaningful-agency) أو [الموافقة](core_05_band_participation.md#consent) عبئًا ماديًا، يجب أن يكون إثبات الضرورة صارمًا بالقدر المقابل.
+**النطاق.** ينطبق هذا البند الفرعي على أي قيد دستوري، وليس على سياقات التصادم الدستوري وحدها بموجب [§13.1.5 إجراء تصادم الحقوق](#1315-rights-collision-decision-test). وعندما يحمّل القيد [الحرية (الفاعلية المحدودة)](../../core_05.055_band_participation.md#freedom-bounded-agency) أو [الفاعلية المجدية](../../core_05.055_band_participation.md#meaningful-agency) أو [الموافقة](../../core_05.055_band_participation.md#consent) عبئًا ماديًا، يجب أن يكون إثبات الضرورة صارمًا بالقدر المقابل.
 <a id="1312-harm-minimization"></a>
 ##### 13.1.2 تقليل الضرر
 <details>
@@ -267,12 +267,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [تقليل الضرر (اختيار المفاضلة)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [الضرر](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [السلامة الإيكولوجية](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [قدرة التعافي الإيكولوجي](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [المخاطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [الضرر غير القابل للعكس](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [تقليل الضرر (اختيار المفاضلة)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [الضرر](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [السلامة الإيكولوجية](../../core_05.040_band_continuity.md#ecological-integrity) · [O](../../core_05.040_band_continuity.md#ecological-integrity) · [M](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
+- [قدرة التعافي الإيكولوجي](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [المخاطر](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [الضرر غير القابل للعكس](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 
 </details>
 
@@ -280,10 +280,10 @@ flowchart TB
 
 *بعبارات بسيطة: عندما تبقى عدة خيارات ضرورية بعد استيفاء [§13.1.1 الضرورة](#1311-الضرورة)، اختر الخيار الذي يُحدث أقل قدر إجمالي من الضرر — مع احتساب جميع المتأثرين والنظم الإيكولوجية والكائنات الحية وجميع الأنظمة المتأثرة وكل الآفاق الزمنية المهمة. إن التحسين محليًا مع التسبب في ضرر نظامي أو إيكولوجي، أو التحسين على المدى القصير مع التسبب في ضرر طويل الأمد، لا يجتاز هذا الاختبار. ولا يجيز تقليل الضرر أبدًا النزول دون الحدود الدستورية في [§13.1.4 الحدود الدستورية والسلامة والإجراءات المناهضة للإذلال](#1314-الحدود-الدستورية-الدنيا-والسلامة-والإجراءات-المنافية-للكرامة).*
 
-**نطاق المقارنة.** عندما تستوفي خيارات متعددة كافية دستوريًا [السلامة (§4)](core_01_a_values_principles.md#4-safety-harm-constraint) و[الحقيقة (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) و[§13.1.1 الضرورة](#1311-الضرورة)، يجب أن يرجّح الاختيار الخيار الذي يقلل إجمالي [الضرر](core_05_band_accountability.md#harm) عبر:
+**نطاق المقارنة.** عندما تستوفي خيارات متعددة كافية دستوريًا [السلامة (§4)](core_01_a_values_principles.md#4-safety-harm-constraint) و[الحقيقة (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) و[§13.1.1 الضرورة](#1311-الضرورة)، يجب أن يرجّح الاختيار الخيار الذي يقلل إجمالي [الضرر](../../core_05.035_band_accountability.md#harm) عبر:
 - الكائنات الواعية المتأثرة مباشرة وغير مباشرة؛
 - الأنظمة التي تحمل النتيجة أو تتوسطها أو تعتمد عليها؛
-- النظم الإيكولوجية والأنظمة الحية، بما فيها [السلامة الإيكولوجية](core_05_band_continuity.md#ecological-integrity)، وحيث تكون القدرة على التعافي بعد الضرر ذات أهمية، [قدرة التعافي الإيكولوجي](core_05_band_continuity.md#ecological-recovery-capacity)؛
+- النظم الإيكولوجية والأنظمة الحية، بما فيها [السلامة الإيكولوجية](../../core_05.040_band_continuity.md#ecological-integrity)، وحيث تكون القدرة على التعافي بعد الضرر ذات أهمية، [قدرة التعافي الإيكولوجي](../../core_05.040_band_continuity.md#ecological-recovery-capacity)؛
 - الآفاق الزمنية ذات الصلة، بما فيها الآثار المتأخرة والتراكمية.
 
 **متطلب التجميع.** يجب أن يجمع تقييم الضرر ما يلي:
@@ -298,7 +298,7 @@ flowchart TB
 - الاقتصار على تحسين الضرر المحلي أو الفوري مع إحداث ضرر نظامي أو إجمالي أو إيكولوجي أكبر؛
 - تحميل النظم الإيكولوجية أو الكائنات الواعية غير المحددة أو الأطراف الأخرى غير المحتسبة الضررَ، بغية إظهار تقليل الضرر على الأطراف المحددة.
 
-**الانضباط في الأفق الزمني.** إن التحسين قصير الأجل على حساب النظام على المدى الطويل لا يجتاز هذا الاختبار. ويجب أن يأخذ تقليل الضرر في الحسبان [قيد الاتساق الزمني في الفصل التاسع §3.2](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): فالقرار الذي يبدو أنه يقلل الضرر في الفترة الحالية لكنه يتسبب على نحو متوقع في ضرر أكبر عبر الأفق الزمني الدستوري ذي الصلة يُعد غير ممتثل.
+**الانضباط في الأفق الزمني.** إن التحسين قصير الأجل على حساب النظام على المدى الطويل لا يجتاز هذا الاختبار. ويجب أن يأخذ تقليل الضرر في الحسبان [قيد الاتساق الزمني في الفصل التاسع §3.2](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): فالقرار الذي يبدو أنه يقلل الضرر في الفترة الحالية لكنه يتسبب على نحو متوقع في ضرر أكبر عبر الأفق الزمني الدستوري ذي الصلة يُعد غير ممتثل.
 
 **العلاقة بالحدود الدستورية.** يعمل تقليل الضرر *فوق* الحدود الدستورية الواردة في [§13.1.4 الحدود الدستورية والسلامة والإجراءات المناهضة للإذلال](#1314-الحدود-الدستورية-الدنيا-والسلامة-والإجراءات-المنافية-للكرامة). ولا يجيز أبدًا:
 - الإلغاء الدائم للحد الأدنى من الحقوق؛
@@ -320,14 +320,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [المخاطر](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [الضرر غير القابل للعكس](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [المخاطر الوجودية](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [قدرة التعافي البيئي](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [الانغلاق المنظومي](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [قابلية التراجع](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [الاعتماد](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [التناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [المخاطر](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [الضرر غير القابل للعكس](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [المخاطر الوجودية](../../core_05.040_band_continuity.md#existential-risk) · [O](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [A](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [قدرة التعافي البيئي](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [الانغلاق المنظومي](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [قابلية التراجع](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [الاعتماد](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
@@ -337,7 +337,7 @@ flowchart TB
 
 *بعبارة بسيطة: يتحقق التناسب من أن نطاق القيد يلائم حجم الضرر الذي يتصدى له. فالخيار الضروري الذي يحد من الضرر يظل غير مقبول إذا كان نطاقه أو مدته أو شدته لا تتناسب مع ما هو على المحك فعليًا. وكلما زادت مخاطر الضرر غير القابل للعكس أو الأثر المنظومي أو إنشاء التبعية، وجب أن تكون المبررات والرقابة أقوى. وتنطبق القاعدة نفسها بشأن قصور الحوكمة على السلطة: فالسلطة المأذون بها الأكبر أو الدور الأشد عواقب يجب أن يرفع مستوى المساءلة والرقابة، لا أن يخفضه.*
 
-يجب أن تكون القيود على **القيم** الدستورية — بما فيها ضمانات **أرضية الحقوق** في **الفصل السادس** وغيرها من المبادئ والضمانات الخاضعة للموازنة بموجب [§13 عملية تسوية التعارض الدستوري](#13-عملية-حل-التعارض-الدستوري) — متناسبة مع جسامة **الضرر** أو **الأثر المنظومي** واحتمالهما، مما يُعالج على نحو مشروع، اتساقًا مع [التناسب](core_05_band_accountability.md#proportionality) في **الفصل الخامس**.
+يجب أن تكون القيود على **القيم** الدستورية — بما فيها ضمانات **أرضية الحقوق** في **الفصل السادس** وغيرها من المبادئ والضمانات الخاضعة للموازنة بموجب [§13 عملية تسوية التعارض الدستوري](#13-عملية-حل-التعارض-الدستوري) — متناسبة مع جسامة **الضرر** أو **الأثر المنظومي** واحتمالهما، مما يُعالج على نحو مشروع، اتساقًا مع [التناسب](../../core_05.035_band_accountability.md#proportionality) في **الفصل الخامس**.
 
 **الحد الأدنى للتصنيف.** لا يجوز إخضاع أي نظام لحوكمة أدنى من المستوى الذي يقتضيه أعلى تصنيف منطبق عليه. ولا يجوز لوسم إداري أدنى أن يقلل من مستوى التدقيق الذي يقتضيه أعلى تصنيف منطبق للمخاطر أو الاعتماد أو الحقوق أو الأثر المنظومي.
 
@@ -364,13 +364,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [الكرامة والمكانة الأخلاقية المتساوية](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [القسوة](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [الضرر](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [الضرر غير القابل للعكس](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [السلامة (قيد دستوري)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [الكرامة والمكانة الأخلاقية المتساوية](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [القسوة](../../core_05.035_band_accountability.md#cruelty) · [O](../../core_05.035_band_accountability.md#cruelty) · [M](../../core_05.035_band_accountability.md#cruelty-a) · [A](../../core_05.035_band_accountability.md#cruelty-a) · [C](../../core_05.035_band_accountability.md#cruelty-c)
+- [الضرر](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [الضرر غير القابل للعكس](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [التناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -386,7 +386,7 @@ flowchart TB
 
 ###### مبادئ الكرامة
 
-مبادئ الكرامة هي المبدآن التاليان: [مبدأ الحدود الدنيا للأرضية الحقوقية](#مبدأ-الحدود-الدنيا-للأرضية-الحقوقية) و[مبدأ الإجراءات المنافية للكرامة](#مبدأ-الإجراءات-المنافية-للكرامة). ويجعلان معًا [الكرامة والمكانة الأخلاقية المتساوية](core_05_band_participation.md#dignity-and-equal-moral-standing) قابلتين للتطبيق بوصفهما حدين أدنى مطلقين: ما لا يجوز سلبه نهائيًا من أي كائن واعٍ، وكيفية حظر معاملة أي كائن واعٍ في أي إجراء. ويشمل مبدآ الكرامة الحد الأدنى من النفاذ إلى مقومات العيش، والحقوق الجوهرية في الاعتراض والمراجعة والاستئناف، لأنها الشروط الدنيا لمعاملة الشخص على أن مكانته معتبرة. أما المكانة المتساوية ذاتها والأسس التي لا يجوز إنكارها بموجبها، فترد في [المادة VI-A](core_06_rights_part_b.md#المادة-vi-a-الكرامة-والمكانة-الأخلاقية-المتساوية) (*الكرامة والمكانة الأخلاقية المتساوية*).
+مبادئ الكرامة هي المبدآن التاليان: [مبدأ الحدود الدنيا للأرضية الحقوقية](#مبدأ-الحدود-الدنيا-للأرضية-الحقوقية) و[مبدأ الإجراءات المنافية للكرامة](#مبدأ-الإجراءات-المنافية-للكرامة). ويجعلان معًا [الكرامة والمكانة الأخلاقية المتساوية](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) قابلتين للتطبيق بوصفهما حدين أدنى مطلقين: ما لا يجوز سلبه نهائيًا من أي كائن واعٍ، وكيفية حظر معاملة أي كائن واعٍ في أي إجراء. ويشمل مبدآ الكرامة الحد الأدنى من النفاذ إلى مقومات العيش، والحقوق الجوهرية في الاعتراض والمراجعة والاستئناف، لأنها الشروط الدنيا لمعاملة الشخص على أن مكانته معتبرة. أما المكانة المتساوية ذاتها والأسس التي لا يجوز إنكارها بموجبها، فترد في [المادة VI-A](core_06_rights_part_b.md#المادة-vi-a-الكرامة-والمكانة-الأخلاقية-المتساوية) (*الكرامة والمكانة الأخلاقية المتساوية*).
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -395,7 +395,7 @@ flowchart TB
 يحمي هذا المبدأ الأرضية الحقوقية على النحو الآتي:
 
 - لا يجوز لأي إجراء دستوري أو تدبير أو انتقال أو تعديل أو أثر مترتب على المكانة أو إجراء طارئ أو نتيجة متصلة بالعدالة أن يلغي نهائيًا أو يتنازل عن **الحدود الدنيا للأرضية الحقوقية** من ضمانات الكرامة الأساسية بموجب [المادة VI-A](core_06_rights_part_b.md#المادة-vi-a-الكرامة-والمكانة-الأخلاقية-المتساوية) (*الكرامة والمكانة الأخلاقية المتساوية*) و[مبدأ الإجراءات المنافية للكرامة](#مبدأ-الإجراءات-المنافية-للكرامة)، أو الحد الأدنى من النفاذ إلى مقومات العيش، أو الحقوق الجوهرية في الاعتراض والمراجعة والاستئناف.
-- لا يُسمح بالتقييد المؤقت لحقوق محددة إلا إذا استوفى [مبدأ القيد الأقل تقييدًا والمحدد زمنيًا والقابل للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) وقواعد الطوارئ الواردة في [الفصل الثالث عشر §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*تدابير الطوارئ وعبء استمرارها*) — أي يجب تبرير أي تقييد، وأن يكون في حده الأدنى، وموثقًا، ومحدود المدة، وخاضعًا لمراجعة مستقلة. ويجوز لمواد بعينها أن تضيف ضمانات أقوى، لكنها لا يجوز أن تضيق هذا المبدأ أو أن تستخدم أوصاف الملاءمة أو الكفاءة أو التصنيف أو الطوارئ أو الانتقال أو المكانة أو التعديل أو العقد أو التنفيذ للتحايل عليه.
+- لا يُسمح بالتقييد المؤقت لحقوق محددة إلا إذا استوفى [مبدأ القيد الأقل تقييدًا والمحدد زمنيًا والقابل للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) وقواعد الطوارئ الواردة في [الفصل الثالث عشر §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*تدابير الطوارئ وعبء استمرارها*) — أي يجب تبرير أي تقييد، وأن يكون في حده الأدنى، وموثقًا، ومحدود المدة، وخاضعًا لمراجعة مستقلة. ويجوز لمواد بعينها أن تضيف ضمانات أقوى، لكنها لا يجوز أن تضيق هذا المبدأ أو أن تستخدم أوصاف الملاءمة أو الكفاءة أو التصنيف أو الطوارئ أو الانتقال أو المكانة أو التعديل أو العقد أو التنفيذ للتحايل عليه.
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -404,7 +404,9 @@ flowchart TB
 يُطبّق [مبدأ الإجراءات المنافية للكرامة (§3.3)](core_01_a_values_principles.md#33-العملية-المناهضة-للإذلال) الوارد في الجزء أ بوصفه حدًا أدنى مطلقًا ضمن هذه الموازنة.
 - لا يجوز تصميم أي تقييد أو إنصاف أو إجراء يصمد أمام اختبارات الضرورة وتقليل الضرر والتناسب، أو صياغته أو تنفيذه أو السماح بسريانه، على نحو ينطوي على المساس بالكرامة أو الإذلال أو الاستعراض أو الانتقام أو فرض أعباء تمييزية أو تقويض الحقوق بدافع الملاءمة.
 - تظل النتيجة الموضوعية الصحيحة غير ممتثلة إذا تحققت بإجراء مهين للكرامة.
-- إذا كانت الصفة المحظورة هي إيقاع المعاناة لذاتها أو إيقاعها على نحو مجاني أو مهين — بما في ذلك الإذلال لذاته — فيُرجع إلى [القسوة](core_05_band_accountability.md#cruelty).
+- إذا كانت الصفة المحظورة هي إيقاع المعاناة لذاتها أو إيقاعها على نحو مجاني أو مهين — بما في ذلك الإذلال لذاته — فيُرجع إلى [القسوة](../../core_05.035_band_accountability.md#cruelty).
+
+<a id="1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
 
 ##### 13.1.5 مبدأ القيد الأقل تقييدًا والمحدد زمنيًا والقابل للمراجعة
 
@@ -412,14 +414,14 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — الأضلاع الأربعة جميعًا: ضلع **الرقابة** (تظل القيود خاضعة لمراجعة مستقلة؛ وتُحفظ الأدلة ويظل للمراجعين المستقلين حق الوصول أثناء نظر التصادم الدستوري)؛ وضلع **المساءلة** (يسجل سجل التصادم الدستوري الموثق والقابل للتدقيق القاعدة والبدائل والأدلة وأساس الاختيار)؛ وضلع **المشاركة** (يستطيع الأطراف المتأثرون فهم القرار والطعن فيه وإعادة بناء مساره، ويُبلّغون بما جُمّد)؛ وضلع **التوقيت** (تكون القيود مؤقتة ما لم تنص قاعدة أقوى للأرضية الحقوقية على خلاف ذلك، وتحدد لها مدة أو دورية مراجعة ومسار للاستعادة، ويخضع التصادم الدستوري المعلق للمهلة المنطبقة)؛ وتُراعى معايرة [المصلحة المادية](core_00_preamble.md#material-stake) (يرتفع عبء الإثبات مع شدة الأثر وعدم قابليته للعكس وتركّز الاعتماد وعدم اليقين).
-- ما يلي: [المادة XXV-B: إجراءات تصادم الحقوق والمواءمة التصالحية](core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (تطبق الهيئات هذا الاختبار لاتخاذ القرار)؛ و[المادة XXV-C: التسوية في الوقت المناسب والحد الأدنى لمكافحة التأخير](core_06_rights_part_e.md#المادة-xxvi-c-حد-الحل-في-الوقت-المناسب-ومكافحة-التأخير)؛ و[الفصل الثالث عشر §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*التسوية في الوقت المناسب، ودرجات الأهمية المادية، والانضباط المناهض للتأخير*).
+- ما يلي: [المادة XXV-B: إجراءات تصادم الحقوق والمواءمة التصالحية](core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (تطبق الهيئات هذا الاختبار لاتخاذ القرار)؛ و[المادة XXV-C: التسوية في الوقت المناسب والحد الأدنى لمكافحة التأخير](core_06_rights_part_e.md#المادة-xxvi-c-حد-الحل-في-الوقت-المناسب-ومكافحة-التأخير)؛ و[الفصل الثالث عشر §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*التسوية في الوقت المناسب، ودرجات الأهمية المادية، والانضباط المناهض للتأخير*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [سجل التصادم الدستوري](core_05_band_integrative.md#constitutional-collision-record) · [O](core_05_band_integrative.md#constitutional-collision-record) · [M](core_05_band_integrative.md#constitutional-collision-record-a) · [A](core_05_band_integrative.md#constitutional-collision-record-a) · [C](core_05_band_integrative.md#constitutional-collision-record-c)
+- [سجل التصادم الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record) · [O](../../core_05.045_band_integrative.md#constitutional-collision-record) · [M](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-record-c)
 
 </details>
 
@@ -436,26 +438,26 @@ flowchart TB
 - **مؤقت ما لم يُسمح به صراحةً:** يجب أن يكون التقييد مؤقتًا ما لم تسمح قاعدة أقوى للأرضية الحقوقية صراحةً بتقييد مستمر.
 - **مسار للاستعادة:** يجب أن يتضمن التقييد مدة محددة أو دورية للمراجعة حيثما أمكن، فضلًا عن شروط للاستعادة أو التراجع أو إعادة التقييم ترتبط بالأدلة أو بتغير الظروف أو برصد انحراف عن النتائج المتوقعة.
 <a id="1315-rights-collision-decision-test"></a>
-**سجل التصادم الدستوري وقابلية إعادة بناء القرار.** عندما تُطبَّق منظومة المفاضلة (§13.1.1 (*الضرورة*) إلى §13.1.5 (*مبدأ القيد الأقل تقييدًا والمحدود زمنيًا والخاضع للمراجعة*)) على تقييد جوهري أو تصادم دستوري، يجب أن يُفضي الحل إلى [سجل تصادم دستوري](core_05_band_integrative.md#constitutional-collision-record) موثّق وقابل للتدقيق (ويُختصر اسمه إلى **سجل التصادم**) بوضوح كافٍ لتمكين الأطراف المتأثرة والمراجعين من فهم القرار والطعن فيه وإعادة بنائه بصورة مستقلة. ويجب أن يتضمن السجل، كحد أدنى، ما يلي:
+**سجل التصادم الدستوري وقابلية إعادة بناء القرار.** عندما تُطبَّق منظومة المفاضلة (§13.1.1 (*الضرورة*) إلى §13.1.5 (*مبدأ القيد الأقل تقييدًا والمحدود زمنيًا والخاضع للمراجعة*)) على تقييد جوهري أو تصادم دستوري، يجب أن يُفضي الحل إلى [سجل تصادم دستوري](../../core_05.045_band_integrative.md#constitutional-collision-record) موثّق وقابل للتدقيق (ويُختصر اسمه إلى **سجل التصادم**) بوضوح كافٍ لتمكين الأطراف المتأثرة والمراجعين من فهم القرار والطعن فيه وإعادة بنائه بصورة مستقلة. ويجب أن يتضمن السجل، كحد أدنى، ما يلي:
 - **القاعدة النافذة والوقائع المنشئة:** الحكم الدستوري المستند إليه والوقائع الجوهرية التي فعّلته.
 - **البدائل التي جرى النظر فيها:** البدائل الممكنة عمليًا من الناحية الجوهرية، بما فيها عدم اتخاذ إجراء، مع بيان صريح لأسباب رفضها — استيفاءً لمتطلب تحليل البدائل الوارد في [§13.1.1 الضرورة](#1311-الضرورة).
 - **الأدلة ومعالجة عدم اليقين:** الأدلة التي تسند ضرورة الخيار المختار وملف أضراره وتناسبه، بما في ذلك كيفية التعامل مع عدم اليقين.
 - **أساس الاختيار:** لماذا يستوفي الخيار المختار مقتضيات الضرورة وتقليل الضرر والتناسب والحدود الدستورية الدنيا والصيغة الأقل تقييدًا — لا مجرد إثبات استيفائه لها.
 - **محفزات المراجعة:** تاريخ الانتهاء أو وتيرة إعادة التقييم أو شروط التراجع بموجب [§13.1.5 مبدأ القيد الأقل تقييدًا والمحدود زمنيًا والخاضع للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
-يُضمَّن سجل التصادم في [سجل الفعل](core_05_band_accountability.md#materially-binding-act-record) الخاص بالفعل الذي يحسم التصادم الدستوري؛ ولا يلزم إنشاء سجل مستقل مكرر ما دامت هذه العناصر قابلة للتحديد والربط والإصدار وحفظ النسخ وإتاحتها.
+يُضمَّن سجل التصادم في [سجل الفعل](../../core_05.035_band_accountability.md#materially-binding-act-record) الخاص بالفعل الذي يحسم التصادم الدستوري؛ ولا يلزم إنشاء سجل مستقل مكرر ما دامت هذه العناصر قابلة للتحديد والربط والإصدار وحفظ النسخ وإتاحتها.
 
 يتناسب عبء الإثبات مع شدة الضرر المتوقعة، وتعذر الرجوع، وتركيز الاعتماد، وعدم اليقين. وتتطلب القيود الأعلى خطرًا أدلة أقوى وتدقيقًا مستقلًا. ولا تكفي الملاءمة أو الجمود المؤسسي أو تفضيل التحسين وحدها لتبرير تقييد الحقوق حيث ينطبق هذا الانضباط.
 
 يجب أن تستوفي قيود السرية المفروضة على سجل التصادم [§13.2 قيود الإفصاح المعرفي](#132-قيود-الإفصاح-المعرفي). وحيث يتعذر الإفصاح العام الكامل، يجب الحفاظ على أقصى قدر ممكن من الإفصاح الجزئي، مع إتاحة الوصول لمراجع مستقل.
 
 <a id="default-interim-posture"></a>
-**الوضع المؤقت الافتراضي ريثما يُحسم التصادم الدستوري.** إلى أن تحسم عملية [سجل التصادم الدستوري](core_05_band_integrative.md#constitutional-collision-record) و[المادة XXIV](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ) (*التفسير الدستوري والمراجعة وضمانات منع الاستحواذ*) التصادم الدستوري، يظل الوضع الانتظاري ثابتًا كيلا يتمكن القيّم من افتعال فائز بالارتجال:
+**الوضع المؤقت الافتراضي ريثما يُحسم التصادم الدستوري.** إلى أن تحسم عملية [سجل التصادم الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record) و[المادة XXIV](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ) (*التفسير الدستوري والمراجعة وضمانات منع الاستحواذ*) التصادم الدستوري، يظل الوضع الانتظاري ثابتًا كيلا يتمكن القيّم من افتعال فائز بالارتجال:
 
 - **حفظ الأدلة:** لا تُجهض التصادم الدستوري بالحذف أو التسريب أو النشر الذي يتعذر الرجوع عنه.
 - **تجميد الخطوات التي يتعذر الرجوع عنها** إذا كانت ستجعل إحدى القراءتين المتعارضتين غير متاحة — فلا تُتخذ خطوة يتعذر التراجع عنها إذا كان اتخاذها سيحسم التصادم الدستوري أو يُبطل أحد الجانبين أو يفتعل فائزًا قبل حسم التفسير.
 - **المضي في الخطوات القابلة للرجوع عنها والمأذون بها** التي تُبقي القراءتين متاحتين — بما في ذلك إتاحة الوصول لمراجع مستقل بموجب [قابلية الرصد المقيدة أمنيًا](core_04_burden_traceability_verification.md#4-قاعدة-قابلية-الرصد-والتحقق-المقيدة-أمنيا) حيثما وُجدت الموافقة.
-- **إخطار** الأطراف المتأثرة ومسار التفسير بما جُمّد وما سيستمر والمهلة الزمنية المنطبقة (وفي النزاع المحال إلى منتدى، مهل المستويات والحدود القصوى في [الفصل الثالث عشر §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*الحسم في الوقت المناسب، ومستويات الجوهرية، والانضباط المضاد للتأخير*)).
+- **إخطار** الأطراف المتأثرة ومسار التفسير بما جُمّد وما سيستمر والمهلة الزمنية المنطبقة (وفي النزاع المحال إلى منتدى، مهل المستويات والحدود القصوى في [الفصل الثالث عشر §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*الحسم في الوقت المناسب، ومستويات الجوهرية، والانضباط المضاد للتأخير*)).
 
 هذا الوضع الانتظاري لا يحسم أي الجانبين على صواب. جمّد ما يتعذر التراجع عنه كيلا تُستبعد أي من القراءتين؛ ولا يزال يتعين على [§13 عملية حسم التصادم الدستوري](#13-عملية-حل-التعارض-الدستوري) الإجابة عن التصادم الدستوري. وهذا هو مسوغ [§13.1.5 مبدأ القيد الأقل تقييدًا والمحدود زمنيًا والخاضع للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle): فالخطوة المأذون بها والقابلة للرجوع عنها تُبقي القراءتين متاحتين، أما الخطوة التي يتعذر الرجوع عنها فلا تفعل ذلك.
 
@@ -468,7 +470,7 @@ flowchart TB
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (إمكانية الاعتراض المستنير في ظل القيود)؛ ضلع **الإشراف** (يجب أن تحافظ قيود الإفصاح على أقصى قدر ممكن من التدقيق)؛ ضلع **المساءلة** (كل قيد يخضع لتدقيق ومراجعة لاحقين بموجب [§13.2.1](#1321-صون-النزاهة-المعرفية)، بحيث تكون هناك جهة مسؤولة عنه)؛ ضلع **التوقيت** (تكون قيود الإفصاح أو تأخيره محدودة المدة وتنتهي بإفصاح لاحق بموجب §13.2.1)؛ والتدرّج بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 - المبادئ السابقة: [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و[§13 عملية حل التعارضات الدستورية](#13-عملية-حل-التعارض-الدستوري).
 - ما يليه: [§13.2.1 صون النزاهة المعرفية](#1321-صون-النزاهة-المعرفية)، [§13.2.2 مواءمة الثقة والحقيقة](#1322-مواءمة-الثقة-والحقيقة)، [§13.2.3 الخصوصية وتقرير المصير المعلوماتي](#1323-الخصوصية-وتقرير-المصير-المعلوماتي)، و[14. حظر التجاوز المطلق](#14-prohibition-on-absolute-override).
-- ما يليه: يحمي نطاق الحقوق المتعلق بسلامة المجال المعلوماتي، وقابلية التدقيق، والمراجعة اللاحقة، وإمكانية الاعتراض المستنير عند تقييد الإفصاح؛ ولا سيما [المادة XV: سلامة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#المادة-xvi-التدقيق-والشفافية-والتحقق-المستقل)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ)، و[المادة XXV-A: المراجعة والإفصاح بأثر رجعي](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)، فضلًا عن أي سياق للحقوق يؤثر فيه تقييد الإفصاح على إمكانية الاعتراض أو المشاركة المستنيرة.
+- ما يليه: يحمي نطاق الحقوق المتعلق بسلامة المجال المعلوماتي، وقابلية التدقيق، والمراجعة اللاحقة، وإمكانية الاعتراض المستنير عند تقييد الإفصاح؛ ولا سيما [المادة XV: سلامة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#المادة-xvi-التدقيق-والشفافية-والتحقق-المستقل)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ)، و[المادة XXV-A: المراجعة والإفصاح بأثر رجعي](core_06_rights_part_e.md)، فضلًا عن أي سياق للحقوق يؤثر فيه تقييد الإفصاح على إمكانية الاعتراض أو المشاركة المستنيرة.
 
 </details>
 
@@ -477,12 +479,12 @@ flowchart TB
 
 - [النزاهة المعرفية](core_05_band_oversight.md#النزاهة-المعرفية) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [الثقة](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [الخصوصية (المعلوماتية)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
+- [الثقة](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [الخصوصية (المعلوماتية)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
 - [الأهمية الجوهرية](core_05_band_oversight.md#المادية) · [O](core_05_band_oversight.md#المادية) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [إمكانية التوقع](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [التناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -503,14 +505,14 @@ flowchart TB
   - تحقيق مصلحة مؤسسية.
 - **تأخير الإفصاح** و**تقييده** — لا يُسمح بهما إلا عندما:
   - تتحقق شروط [§13.2.1 صون النزاهة المعرفية](#1321-صون-النزاهة-المعرفية)؛
-  - تتحقق [الضرورة](core_05_band_accountability.md#necessity) و[التناسب](core_05_band_accountability.md#proportionality)؛ و
+  - تتحقق [الضرورة](../../core_05.035_band_accountability.md#necessity) و[التناسب](../../core_05.035_band_accountability.md#proportionality)؛ و
   - يُصان أقصى قدر ممكن من [النزاهة المعرفية](core_05_band_oversight.md#النزاهة-المعرفية).
 - **تقييد الإفصاح حمايةً للخصوصية** بموجب [§13.2.3 الخصوصية وتقرير المصير المعلوماتي](#1323-الخصوصية-وتقرير-المصير-المعلوماتي):
   - لا يُسمح به إلا بموجب [مبدأ القيد الأقل تقييدًا والمحدد زمنيًا والخاضع للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)؛
-  - عندما تتعارض الخصوصية مع الشفافية أو التدقيق أو السلامة أو المساءلة، يُحل التعارض الدستوري وفق متطلبات [سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record)؛
+  - عندما تتعارض الخصوصية مع الشفافية أو التدقيق أو السلامة أو المساءلة، يُحل التعارض الدستوري وفق متطلبات [سجل التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record)؛
   - الخصوصية ليست خاضعة تلقائيًا لغيرها.
 
-يجب أن يصون كل قيد مبرر ضلع **الإشراف** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) عبر سجلات محمية (بما فيها [سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record) الخاص بالقيد ذاته)، أو مراجعة مستقلة، أو وصول آمن، أو تنقيح، أو إفراج مؤجل، أو ضمانات مماثلة. ويجب ألا يقوض [إمكانية الاعتراض](core_05_band_accountability.md#contestability) المستنير أو واجبات الشفافية أو التدقيق أو المراجعة المنطبقة في **الفصل السادس**، إلا بالقدر الذي يسمح به صراحةً [§13.2.1 صون النزاهة المعرفية](#1321-صون-النزاهة-المعرفية).
+يجب أن يصون كل قيد مبرر ضلع **الإشراف** في [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) عبر سجلات محمية (بما فيها [سجل التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record) الخاص بالقيد ذاته)، أو مراجعة مستقلة، أو وصول آمن، أو تنقيح، أو إفراج مؤجل، أو ضمانات مماثلة. ويجب ألا يقوض [إمكانية الاعتراض](../../core_05.035_band_accountability.md#contestability) المستنير أو واجبات الشفافية أو التدقيق أو المراجعة المنطبقة في **الفصل السادس**، إلا بالقدر الذي يسمح به صراحةً [§13.2.1 صون النزاهة المعرفية](#1321-صون-النزاهة-المعرفية).
 
 تخضع قيود النشر أو الوصول إلى البيانات أو الإفصاح عن المنهج أو مواد التكرار الحساسة للسلامة لهذا القسم، وكذلك [الفصل الأول §5.1 الاستقصاء المستند إلى العلم ودعم القرار](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support). ويجب ألا تتحول هذه القيود إلى وسيلة لكبت الأدلة غير المؤاتية، أو إخفاء عيوب السلامة، أو اصطناع إجماع ظاهري.
 
@@ -523,7 +525,7 @@ flowchart TB
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (إمكانية الاعتراض المستنير في ظل القيود)؛ ضلع **الإشراف** (يجب أن تحافظ قيود الإفصاح على أقصى قدر ممكن من التدقيق)؛ ضلع **المساءلة** (كل تقييد يخضع لتدقيق ومراجعة لاحقين)؛ ضلع **التوقيت** (القيود محددة النطاق بدقة ومحدودة المدة، مع إفصاح لاحق عندما تزول الشروط التي تبررها)؛ والتدرّج بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 - المبادئ السابقة: [4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [6. الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و[13. عملية حل التعارضات الدستورية](#13-عملية-حل-التعارض-الدستوري).
 - ما يليه: [§13.2.2 مواءمة الثقة والحقيقة](#1322-مواءمة-الثقة-والحقيقة) و[14. حظر التجاوز المطلق](#14-prohibition-on-absolute-override).
-- ما يليه: يحمي نطاق الحقوق المتعلق بسلامة المجال المعلوماتي، وقابلية التدقيق، والمراجعة اللاحقة، وإمكانية الاعتراض المستنير عند تقييد الإفصاح؛ ولا سيما [المادة XV: سلامة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#المادة-xvi-التدقيق-والشفافية-والتحقق-المستقل)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ)، و[المادة XXV-A: المراجعة والإفصاح بأثر رجعي](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)، فضلًا عن أي سياق للحقوق يؤثر فيه تقييد الإفصاح على إمكانية الاعتراض أو المشاركة المستنيرة.
+- ما يليه: يحمي نطاق الحقوق المتعلق بسلامة المجال المعلوماتي، وقابلية التدقيق، والمراجعة اللاحقة، وإمكانية الاعتراض المستنير عند تقييد الإفصاح؛ ولا سيما [المادة XV: سلامة المجال المعلوماتي](core_06_rights_part_c.md#article-xv-info-sphere-integrity)، و[المادة XVI: التدقيق والشفافية والتحقق المستقل](core_06_rights_part_c.md#المادة-xvi-التدقيق-والشفافية-والتحقق-المستقل)، و[المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ)، و[المادة XXV-A: المراجعة والإفصاح بأثر رجعي](core_06_rights_part_e.md)، فضلًا عن أي سياق للحقوق يؤثر فيه تقييد الإفصاح على إمكانية الاعتراض أو المشاركة المستنيرة.
 
 </details>
 
@@ -534,8 +536,8 @@ flowchart TB
 - [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [الأهمية الجوهرية](core_05_band_oversight.md#المادية) · [O](core_05_band_oversight.md#المادية) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [إمكانية التوقع](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [التناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -566,7 +568,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الثقة](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [الثقة](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
 - [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [النزاهة المعرفية](core_05_band_oversight.md#النزاهة-المعرفية) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
@@ -584,27 +586,27 @@ flowchart TB
 
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (فالخصوصية تسند حرية التعبير وتكوين الجمعيات)؛ وضلع **الرقابة** (يجب أن تكون تدخلات الخصوصية نفسها قابلة للتدقيق)؛ وضلع **المساءلة** (عند تعارض الخصوصية مع الشفافية أو التدقيق أو السلامة أو المساءلة، يُحسم التعارض الدستوري في سجل تعارض دستوري موثق، لا باعتبار الخصوصية أدنى مرتبة)؛ والتناسب بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
 - من المبادئ السابقة: المبادئ [7. الحرية (الفاعلية المقيّدة)](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[4. السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[5. الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§13.2 قيود الإفصاح المعرفي](#132-قيود-الإفصاح-المعرفي).
-- إلى الأحكام اللاحقة: [**Def.C3** الخصوصية (المعلوماتية) — رأس مجموعة على مستوى النظراء](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)، بما فيها [الخصوصية (المعلوماتية)](core_05_band_continuity.md#privacy-informational)، و[حد الحالة الداخلية المحمية](core_05_band_continuity.md#protected-internal-state-boundary)، و[حد المراقبة](core_05_band_continuity.md#surveillance-boundary).
+- إلى الأحكام اللاحقة: [**Def.C3** الخصوصية (المعلوماتية) — رأس مجموعة على مستوى النظراء](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)، بما فيها [الخصوصية (المعلوماتية)](../../core_05.040_band_continuity.md#privacy-informational)، و[حد الحالة الداخلية المحمية](../../core_05.040_band_continuity.md#protected-internal-state-boundary)، و[حد المراقبة](../../core_05.040_band_continuity.md#surveillance-boundary).
 - إلى الأحكام اللاحقة: [المادة VII-A](core_06_rights_part_b.md#المادة-vii-a-ملكية-الجسد) (*الملكية الذاتية للجسد*)؛ [المادة VII-B](core_06_rights_part_b.md#المادة-vii-b-ملكية-العقل) (*الملكية الذاتية للعقل*)؛ [المادة IX](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*حقوق الصورة والبيانات التجريبية والنشر*)؛ [المادة X-A](core_06_rights_part_b.md#article-x-a-الفاعلية-والحرية-من-التلاعب) (*الفاعلية والتحرر من التلاعب*)؛ [المادة XIV-A](core_06_rights_part_c.md#المادة-xiv-a-حدود-الأمن-والاستخبارات-والسلطة-السرية) (*حدود الأمن والاستخبارات والسلطة السرية*).
-- يُقرأ مع: [§13.1.5 مبدأ القيود الأقل تقييدًا والمحددة زمنيًا والخاضعة للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)؛ و[سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record) عند تعارض الخصوصية مع الشفافية أو التدقيق أو السلامة أو المصالح الدستورية الأخرى.
+- يُقرأ مع: [§13.1.5 مبدأ القيود الأقل تقييدًا والمحددة زمنيًا والخاضعة للمراجعة](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)؛ و[سجل التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record) عند تعارض الخصوصية مع الشفافية أو التدقيق أو السلامة أو المصالح الدستورية الأخرى.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الخصوصية (المعلوماتية)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [حد الحالة الداخلية المحمية](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [حد المراقبة](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
-- [الموافقة](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [الخصوصية (المعلوماتية)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [حد الحالة الداخلية المحمية](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [حد المراقبة](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [الموافقة](../../core_05.055_band_participation.md#consent) · [O](../../core_05.055_band_participation.md#consent) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [التناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*بعبارات بسيطة: الخصوصية مصلحة ذات وزن دستوري، وليست مجرد غياب الإفصاح. لا يجوز للأنظمة جمع المعلومات الشخصية والعلاقية أو استنتاجها أو تجميعها أو الاحتفاظ بها أو استخدامها بما يتجاوز ما تبرره الضرورة والتناسب. وعندما تتعارض الخصوصية مع التزامات الشفافية أو التدقيق أو السلامة أو المساءلة، يُحسم التعارض الدستوري وفق متطلبات [سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record)، لا باعتبار الخصوصية أدنى تلقائيًا. ويجب أن تستوفي المراقبة التي تثبط الفاعلية أو تكوين الجمعيات أو التعبير معايير الضرورة والتقييد الأدنى نفسها المطبقة على أي تقييد آخر للحقوق.*
+*بعبارات بسيطة: الخصوصية مصلحة ذات وزن دستوري، وليست مجرد غياب الإفصاح. لا يجوز للأنظمة جمع المعلومات الشخصية والعلاقية أو استنتاجها أو تجميعها أو الاحتفاظ بها أو استخدامها بما يتجاوز ما تبرره الضرورة والتناسب. وعندما تتعارض الخصوصية مع التزامات الشفافية أو التدقيق أو السلامة أو المساءلة، يُحسم التعارض الدستوري وفق متطلبات [سجل التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record)، لا باعتبار الخصوصية أدنى تلقائيًا. ويجب أن تستوفي المراقبة التي تثبط الفاعلية أو تكوين الجمعيات أو التعبير معايير الضرورة والتقييد الأدنى نفسها المطبقة على أي تقييد آخر للحقوق.*
 
 **الخصوصية بوصفها مصلحة دستورية.** الخصوصية — بما فيها الخصوصية المعلوماتية والمكانية والعلاقية، والتحرر من المراقبة غير المبررة — مصلحة ذات وزن دستوري تدعم **الحرية** ([§7 الحرية (الفاعلية المقيّدة)](core_01_a_values_principles.md#7-freedom-bounded-agency))، و**الكرامة** ([المادة VI-A](core_06_rights_part_b.md#المادة-vi-a-الكرامة-والمكانة-الأخلاقية-المتساوية) (*الكرامة والمكانة الأخلاقية المتساوية*))، وشروط الفاعلية المجدية والمشاركة غير الخاضعة للإكراه. ولها وزن دستوري مستقل ضمن آليات المفاضلة والتعارض الدستوري في هذا القسم.
 
@@ -616,12 +618,12 @@ flowchart TB
 
 إن الإتاحة أو إمكانية الرصد أو النشر السابق أو حيازة المنصة للمعلومات أو إمكان الوصول إليها تقنيًا لا تلغي مصالح الخصوصية ولا تفي بالضوابط أعلاه.
 
-**التكامل مع تصنيف البيانات.** الطبقة التشغيلية لهذه الضوابط هي نظام أنواع البيانات في **[CS-2 — أنواع المعلومات والتعامل معها](corpus_systems/cs_02_a_information_types_and_handling.md)**. يصنف النظام المعلومات في نوع واحد أو أكثر من أحد عشر نوعًا: التنسيق البيئي والبقاء (**E**)، ومصدر الحوكمة والتشغيل (**G**)، والإفصاح الرقابي العام المفتوح (**O**)، والمعلومات التاريخية والعلاقية ومعلومات المشاركة (**H**)، والهوية والإسناد (**I**)، والعصبية المعرفية والداخلية (**N**)، والسلامة والأمن والتحقيق المقيّد (**S**)، والأعمال التي ينشئها كائن واعٍ وهي خاصة أو مشتركة (**Y**) أو منشورة (**W**)، والأعمال الخاضعة لترخيص تجاري (**U**) أو للتنازل (**T**). لكل نوع افتراضات وصول وقيود تعامل. تمر معظم معالجة الخصوصية عبر الأنواع **H وI وN وS وY**؛ وخريطة فئات الخصوصية إلى أنواعها في [الخصوصية (المعلوماتية)](core_05_band_continuity.md#privacy-informational). وتسري ضوابط الجمع والاحتفاظ والاستخدام بالمستوى الذي يقتضيه أشد تصنيف منطبق، لا وفق حد عام. وإذا أمكن إعادة بناء البيانات أو تحويلها أو تجميعها في تصنيف أشد حساسية، فتسري حمايته. ويخالف هذا المبدأ سوء التصنيف أو التنظيم المراوغ أو التحايل الوظيفي على حماية أنواع البيانات.
+**التكامل مع تصنيف البيانات.** الطبقة التشغيلية لهذه الضوابط هي نظام أنواع البيانات في **[CS-2 — أنواع المعلومات والتعامل معها](../../corpus_systems/cs_06.305_information_types_and_handling.md)**. يصنف النظام المعلومات في نوع واحد أو أكثر من أحد عشر نوعًا: التنسيق البيئي والبقاء (**E**)، ومصدر الحوكمة والتشغيل (**G**)، والإفصاح الرقابي العام المفتوح (**O**)، والمعلومات التاريخية والعلاقية ومعلومات المشاركة (**H**)، والهوية والإسناد (**I**)، والعصبية المعرفية والداخلية (**N**)، والسلامة والأمن والتحقيق المقيّد (**S**)، والأعمال التي ينشئها كائن واعٍ وهي خاصة أو مشتركة (**Y**) أو منشورة (**W**)، والأعمال الخاضعة لترخيص تجاري (**U**) أو للتنازل (**T**). لكل نوع افتراضات وصول وقيود تعامل. تمر معظم معالجة الخصوصية عبر الأنواع **H وI وN وS وY**؛ وخريطة فئات الخصوصية إلى أنواعها في [الخصوصية (المعلوماتية)](../../core_05.040_band_continuity.md#privacy-informational). وتسري ضوابط الجمع والاحتفاظ والاستخدام بالمستوى الذي يقتضيه أشد تصنيف منطبق، لا وفق حد عام. وإذا أمكن إعادة بناء البيانات أو تحويلها أو تجميعها في تصنيف أشد حساسية، فتسري حمايته. ويخالف هذا المبدأ سوء التصنيف أو التنظيم المراوغ أو التحايل الوظيفي على حماية أنواع البيانات.
 
 **المراقبة والرصد.** يجب أن تستوفي أنظمة الرصد والملاحظة والتسجيل والاستنتاج التي تؤثر ماديًا في فاعلية الكائنات الواعية أو تكوينها للجمعيات أو تعبيرها [مبدأ **القيود الأقل تقييدًا والمحددة زمنيًا والخاضعة للمراجعة**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). ويجب ألا تكون المراقبة عشوائية أو سرية أو مفتوحة المدة أو شرطًا لاستخدام نظام تعتمد عليه الكائنات الواعية، متى أمكن لوسيلة أقل تدخلًا أن تؤدي الغرض. ولا تجوز إذا ثبّطت الكائنات الواعية عن الكلام أو الاجتماع أو ممارسة الحريات الأخرى التي يحميها هذا الدستور.
 
 **الخصوصية في تعارض دستوري مع مصالح أخرى.** يجوز تقييد الخصوصية عندما تتعارض ماديًا مع **السلامة** أو **الحقيقة** أو واجبات الشفافية والتدقيق أو التزامات المساءلة أو مصلحة دستورية أخرى مساوية لها أو أرجح وزنًا.
-- يجب أن تتبع هذه القيود متطلبات [سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record)، بما في ذلك:
+- يجب أن تتبع هذه القيود متطلبات [سجل التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record)، بما في ذلك:
   - توثيق البدائل؛
   - اختيار الوسيلة الأقل تقييدًا؛
   - تحديد نطاق زمني؛ و
@@ -669,18 +671,18 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
 - في المنبع: [§13.1 مبادئ المفاضلة الجوهرية](#131-مبادئ-المفاضلة-الأساسية) (يُطبّق بعد استيفاء مكدّس المفاضلة)؛ [§17 الإشراف على العواقب](core_01_c_stewardship_capacity_principles.md#17-الرعاية-ذات-الأثر-الجوهري-دور-القائم-بالرعاية)؛ [§9.2 الكفاءة الدستورية](core_01_a_values_principles.md#92-الكفاءة-الدستورية).
-- يُقرأ مع: عائلة قياس الأداء الدستوري (*العبء الممكن تجنبه بوصفه قياسًا دستوريًا*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (فالعبء الذي لا يقتضيه الدستور يضيّق [الفاعلية الهادفة](core_05_band_participation.md#meaningful-agency))؛ وضلع **التوقيت المناسب** (فالتأخير الممكن تجنبه عبء ممكن تجنبه)؛ وضلعَي **الرقابة** و**المساءلة** (فالعبء المدّعى أن الدستور يقتضيه يجب أن يستوفي متطلبات الفصل الرابع من حيث الأدلة وإمكانية التتبّع، حتى يتسنى التحقق منه والطعن فيه)؛ والتدرّج بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
-- في المصب: [§19.1.3 تطبيق الإشراف والمشغّلين](core_01_c_stewardship_capacity_principles.md#1913-تطبيق-أحكام-الإشراف-والمشغلين) (يجب ألا تكافئ الحوافز إنشاء أعباء غير ضرورية)؛ [المادة XXII: قابلية الفهم والإشراف على التعقيد](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- يُقرأ مع: عائلة قياس الأداء الدستوري (*العبء الممكن تجنبه بوصفه قياسًا دستوريًا*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (فالعبء الذي لا يقتضيه الدستور يضيّق [الفاعلية الهادفة](../../core_05.055_band_participation.md#meaningful-agency))؛ وضلع **التوقيت المناسب** (فالتأخير الممكن تجنبه عبء ممكن تجنبه)؛ وضلعَي **الرقابة** و**المساءلة** (فالعبء المدّعى أن الدستور يقتضيه يجب أن يستوفي متطلبات الفصل الرابع من حيث الأدلة وإمكانية التتبّع، حتى يتسنى التحقق منه والطعن فيه)؛ والتدرّج بحسب [المصلحة الجوهرية](core_00_preamble.md#material-stake).
+- في المصب: [§19.1.3 تطبيق الإشراف والمشغّلين](core_01_c_stewardship_capacity_principles.md#1913-تطبيق-أحكام-الإشراف-والمشغلين) (يجب ألا تكافئ الحوافز إنشاء أعباء غير ضرورية)؛ [المادة XXII: قابلية الفهم والإشراف على التعقيد](core_06_rights_part_d.md).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [العبء الممكن تجنبه](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [السلامة (قيد دستوري)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [العبء الممكن تجنبه](../../core_05.040_band_continuity.md#avoidable-burden) · [O](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [A](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [التناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [السلامة (قيد دستوري)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [الصدق (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -699,12 +701,14 @@ flowchart TB
 
 هذا القسم:
 - يعمل **ضمن** مجموعة الخيارات التي تستوفي أصلًا متطلبات السلامة والصدق وأرضية الحقوق ومبادئ المفاضلة في §13.1 (*مبادئ المفاضلة الجوهرية*) **فقط**. ولا يجيز خفض العبء بإضعاف تلك الحمايات.
-- يقترن بمتطلبات **اختيار البديل الفعّال الأقل تقييدًا** في [سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record). وعند انطباق هذا القسم، ينبغي أن يكون الإجراء المختار البديل الفعّال الأقل تقييدًا والأقل عبئًا معًا.
+- يقترن بمتطلبات **اختيار البديل الفعّال الأقل تقييدًا** في [سجل التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record). وعند انطباق هذا القسم، ينبغي أن يكون الإجراء المختار البديل الفعّال الأقل تقييدًا والأقل عبئًا معًا.
 - يعتبر الإفراط في الإجراءات أو التقييد أو العبء، من دون صلة قابلة للتحقق بمنفعة دستورية، عيوبًا دستورية. وتخضع هذه العيوب للمراجعة بموجب **الفصل التاسع**، ويمكن تصحيحها بموجب متطلبات الفصل الرابع لتتبّع التعريفات إلى النتائج.
 
-يجب أن تستوفي الادعاءات بأن عبئًا ما يقتضيه الدستور متطلبات **الفصل الرابع** الإثباتية ومتطلبات إمكانية التتبّع. ولا تكفي الراحة أو الجمود المؤسسي أو التقاليد أو التفضيل وحدها لتبرير عبء لا تربطه صلة قابلة للتحقق بنتيجة دستورية، بما يتوافق مع متطلبات [سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record).
+يجب أن تستوفي الادعاءات بأن عبئًا ما يقتضيه الدستور متطلبات **الفصل الرابع** الإثباتية ومتطلبات إمكانية التتبّع. ولا تكفي الراحة أو الجمود المؤسسي أو التقاليد أو التفضيل وحدها لتبرير عبء لا تربطه صلة قابلة للتحقق بنتيجة دستورية، بما يتوافق مع متطلبات [سجل التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record).
 
 عندما تؤثر هياكل الحوافز في الأمناء أو المشغّلين، يعزز هذا القسم [§19.1.3 تطبيق الإشراف والمشغّلين](core_01_c_stewardship_capacity_principles.md#1913-تطبيق-أحكام-الإشراف-والمشغلين). يجب ألا تكافئ حوافز الإشراف إنشاء أعباء غير ضرورية، مثلما يجب ألا تكافئ الإنتاجية الخام.
+<a id="14-prohibition-on-absolute-override"></a>
+
 ### 14. حظر التجاوز المطلق
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
@@ -721,10 +725,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [التناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 - [الأهمية الجوهرية](core_05_band_oversight.md#المادية) · [O](core_05_band_oversight.md#المادية) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [تقليل الضرر (اختيار المفاضلة)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [تقليل الضرر (اختيار المفاضلة)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
 - [تباعد المؤشرات البديلة](core_05_band_oversight.md#تباعد-المؤشر-البديل) · [O](core_05_band_oversight.md#تباعد-المؤشر-البديل) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
@@ -738,6 +742,8 @@ flowchart TB
 - يجب ألا تُستخدم السلامة لتبرير قيود غير محددة المدة أو غير محدودة النطاق
 - يجب ألا تُصان الثقة من خلال الكذب
 - يجب ألا تُمارس الحرية على نحو يُحدث ضررًا منهجيًا
+<a id="15-constitutional-interpretation"></a>
+
 ### 15. التفسير الدستوري
 <details>
 <summary><strong><span style="color: #2563eb;">مسار التتبّع</span></strong></summary>
@@ -746,9 +752,9 @@ flowchart TB
 - إلى المصب: [§15.1 مبدأ عدم الالتفاف الدستوري](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-مبدأ-منع-التجزئة))، [§15.2 الطبقة التعريفية والتخصصات المطلوبة](#152-الطبقة-التعريفية-والضوابط-المطلوبة)، [§15.3 حسم الالتباس](#153-حل-الغموض)، [§15.4 تسوية تعارض المعنى الدستوري](#154-حل-تعارض-المعنى-الدستوري) ([§15.4.1](#1541-القراءة-المتكاملة) · [§15.4.2](#1542-التسلسل-الهرمي-الداخلي-كملاذ-أخير) · [§15.4.3](#1543-طبقة-الإدماج) · [§15.4.4](#1544-الاستيفاء-المجمع-للالتزامات-المدمجة-المنطبقة-معا))؛ [3. الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) حتى [20. التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-التطبيق-المتكامل)؛ [13. آلية تسوية التصادم الدستوري](#13-عملية-حل-التعارض-الدستوري) لإجراءات التصادم الدستوري؛ والافتراض بعدم الانتقاص في [الفصل السادس: الحقوق التأسيسية](core_06_rights_part_a.md#الفصل-السادس-الحقوق-التأسيسية).
 - يُقرأ مع: [الفصول الثاني إلى الرابع](core_02_definition_structure.md) و[الفصل الخامس](core_05__definitions_home.md#الفصل-الخامس-التعريفات-التأسيسية) — الطبقة التفسيرية والإثباتية لكل مصطلح في هذا الفصل.
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) و[الهدفان الدستوريان](core_00_preamble.md#two-constitutional-aims) — الخلفية التفسيرية لإطار القيم المتكامل؛ ويُراعى تحجيم [المصلحة المادية](core_00_preamble.md#material-stake) حيث تكون ذات صلة مادية.
-- يُقرأ مع: [مكدس السلطات والتدرج الداخلي](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) (*وضع طبقة المصدر*)؛ [الفصل السابع عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge) (*الحيازة والإصدارات وتأطير الاعتماد* — وليس موطناً ثانياً لترتيب التعارض)؛ [الفصل الخامس عشر](core_15_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) و[الفصل الخامس عشر](core_16_expansion_supremacy.md#chapter-sixteen-expansion-supremacy-and-external-legal-orders) (*بوابات عدم الانتكاس والتدرج لدى الجهة المعتمِدة بموجب [§15.4 تسوية تعارض المعنى الدستوري](#154-حل-تعارض-المعنى-الدستوري)*).
+- يُقرأ مع: [مكدس السلطات والتدرج الداخلي](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) (*وضع طبقة المصدر*)؛ [الفصل السابع عشر](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*الحيازة والإصدارات وتأطير الاعتماد* — وليس موطناً ثانياً لترتيب التعارض)؛ [الفصل الخامس عشر](core_13_non_regression.md#chapter-fifteen-non-regression-and-substantive-amendment-validity) و[الفصل الخامس عشر](../../core_16.000_expansion_supremacy.md#chapter-sixteen-expansion-supremacy-and-external-legal-orders) (*بوابات عدم الانتكاس والتدرج لدى الجهة المعتمِدة بموجب [§15.4 تسوية تعارض المعنى الدستوري](#154-حل-تعارض-المعنى-الدستوري)*).
 - يُقرأ مع: [المادة XXIV: التفسير الدستوري والمراجعة وضمانات منع الاستحواذ](core_06_rights_part_d.md#المادة-xxv-التفسير-الدستوري-والمراجعة-وضمانات-منع-الاستحواذ) لضمانات التفسير المؤسسي (دون أن تحل محل هذا القسم).
-- يُقرأ مع: [الفصل الثامن: الاستقلال الوظيفي وفصل الواجبات](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) — الحد الأدنى لبنية المناصب الذي تحميه قائمة منع الالتفاف في [§15.1 مبدأ عدم الالتفاف الدستوري](#151-constitutional-no-bypass-principle) (ولا يعاد بيانه هنا).
+- يُقرأ مع: [الفصل الثامن: الاستقلال الوظيفي وفصل الواجبات](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) — الحد الأدنى لبنية المناصب الذي تحميه قائمة منع الالتفاف في [§15.1 مبدأ عدم الالتفاف الدستوري](#151-constitutional-no-bypass-principle) (ولا يعاد بيانه هنا).
 
 </details>
 
@@ -757,23 +763,25 @@ flowchart TB
 
 - [المتن](core_05_band_integrative.md#المتن) · [O](core_05_band_integrative.md#المتن) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
 - [مكدس السلطات والتدرج الداخلي](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) · [O](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [التناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 </details>
 
 <br>
 
-*بعبارة مبسطة: اقرأ هذا الدستور بوصفه كلاً واحداً. يقرر الفصل الأول القيم والحدود، لكن لا يُعتد بتلك العبارات إلا عند قراءتها مع قواعد التعريف والإثبات في الفصول الثاني إلى الخامس. إذا احتمل نص أكثر من قراءة، فاختر القراءة التي تحمي الكائنات الواعية والدستور ككل على أفضل وجه — مع تفضيل الاستقرار وتقليل الضرر غير القابل للعكس والفهم الصادق والقدرة الفعلية على الاختيار — لا القراءة الأشد تقييداً على الورق فحسب ([الصرامة المجردة](core_05_band_integrative.md#abstract-strictness)). ولا يجوز تضييق الحقوق في الفصل السادس إلا إذا أجاز هذا الدستور ذلك بوضوح.*
+*بعبارة مبسطة: اقرأ هذا الدستور بوصفه كلاً واحداً. يقرر الفصل الأول القيم والحدود، لكن لا يُعتد بتلك العبارات إلا عند قراءتها مع قواعد التعريف والإثبات في الفصول الثاني إلى الخامس. إذا احتمل نص أكثر من قراءة، فاختر القراءة التي تحمي الكائنات الواعية والدستور ككل على أفضل وجه — مع تفضيل الاستقرار وتقليل الضرر غير القابل للعكس والفهم الصادق والقدرة الفعلية على الاختيار — لا القراءة الأشد تقييداً على الورق فحسب ([الصرامة المجردة](../../core_05.045_band_integrative.md#abstract-strictness)). ولا يجوز تضييق الحقوق في الفصل السادس إلا إذا أجاز هذا الدستور ذلك بوضوح.*
 
 ينطبق كل مبدأ في هذا الفصل بالاقتران مع [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) و[الهدفين الدستوريين](core_00_preamble.md#two-constitutional-aims) المقررين في [الديباجة §1: النموذج](core_00_preamble.md#the-model). وحيث يتصل قسم اتصالاً جوهرياً بأحد أضلاع الرباعية أو بأحد الهدفين، يبين مسار التتبّع الضلع أو الهدف المعني، وما إذا كانت واجباته تتناسب مع [المصلحة المادية](core_00_preamble.md#material-stake).
+
+<a id="151-constitutional-no-bypass-principle"></a>
 
 #### 15.1 مبدأ عدم الالتفاف الدستوري
 
 <details>
 <summary><strong><span style="color: #2563eb;">مسار التتبّع</span></strong></summary>
 
-- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — تتبع قائمة منع الالتفاف الأضلاع الأربعة: ضلع **الرقابة** (التدقيق المعتاد وقابلية التدقيق)؛ ضلع **المشاركة** (إمكان الاعتراض، والوصول العملي، وواجبات التعليل العام)؛ ضلع **التوقيت** (الحسم في الوقت المناسب، ومسارات الاستعادة والتراجع)؛ ضلع **المساءلة** (المساءلة ذاتها، والاستقلال الوظيفي وفصل الواجبات بموجب [الفصل الثامن](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties))؛ وتحجيم [المصلحة المادية](core_00_preamble.md#material-stake).
+- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — تتبع قائمة منع الالتفاف الأضلاع الأربعة: ضلع **الرقابة** (التدقيق المعتاد وقابلية التدقيق)؛ ضلع **المشاركة** (إمكان الاعتراض، والوصول العملي، وواجبات التعليل العام)؛ ضلع **التوقيت** (الحسم في الوقت المناسب، ومسارات الاستعادة والتراجع)؛ ضلع **المساءلة** (المساءلة ذاتها، والاستقلال الوظيفي وفصل الواجبات بموجب [الفصل الثامن](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties))؛ وتحجيم [المصلحة المادية](core_00_preamble.md#material-stake).
 - إلى المصب: [§15.1.1 مبدأ منع التجزئة](#1511-مبدأ-منع-التجزئة)؛ [§15.1.2 مبدأ المعلومات المستنبطة](#1512-مبدأ-المعلومات-المشتقة).
 
 </details>
@@ -781,8 +789,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [منع الالتفاف](core_05_band_integrative.md#no-bypass) · [O](core_05_band_integrative.md#no-bypass) · [M](core_05_band_integrative.md#no-bypass-a) · [A](core_05_band_integrative.md#no-bypass-a) · [C](core_05_band_integrative.md#no-bypass-c)
-- [إمكان الاعتراض](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [منع الالتفاف](../../core_05.045_band_integrative.md#no-bypass) · [O](../../core_05.045_band_integrative.md#no-bypass) · [M](../../core_05.045_band_integrative.md#no-bypass-a) · [A](../../core_05.045_band_integrative.md#no-bypass-a) · [C](../../core_05.045_band_integrative.md#no-bypass-c)
+- [إمكان الاعتراض](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [قابلية التدقيق](core_05_band_oversight.md#قابلية-التدقيق) · [O](core_05_band_oversight.md#قابلية-التدقيق) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [المساءلة](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -820,7 +828,7 @@ flowchart TB
 - الوصول العملي؛
 - الحسم في الوقت المناسب؛
 - مسارات الاستعادة والتراجع؛
-- الاستقلال الوظيفي وفصل الواجبات ([الفصل الثامن](core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties))؛ أو
+- الاستقلال الوظيفي وفصل الواجبات ([الفصل الثامن](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties))؛ أو
 - المساءلة.
 
 يجوز لطبقات التنفيذ المعتمدة أن تضيف تفاصيل إلى هذه الحمايات. ولا يجوز لها تضييقها.
@@ -844,7 +852,7 @@ flowchart TB
 - إنشاء أي حكم من أحكام أرضية الحقوق في الفصل السادس أو توسيعه أو تضييقه؛ أو
 - تجاوز بيان المجموعة نفسها للأقسام والواجبات المحمية التي تشملها. وتبيّن المجموعة ذلك ضمن **منع التجاوز** وتحيل إلى هذا القسم لتطبيق القاعدة.
 
-يجب أن تختبر تقييمات النظام ككل منع التجزئة بموجب [الفصل التاسع §3 تقييم اعتماد النظام ككل](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث تنطبق مجموعة مستدعاة معًا، قبل اعتماد ادعاءات التصنيف أو الحوكمة أو الامتثال. ويعمل هذا القسم مع [الفصل الثالث §2.1 أنماط التهرب الشائعة](core_03_definition_integrity.md#21-أنماط-التهرب-الشائعة) و[§2.2 التهرب الاختزالي](core_03_definition_integrity.md#22-التهرب-الاختزالي).
+يجب أن تختبر تقييمات النظام ككل منع التجزئة بموجب [الفصل التاسع §3 تقييم اعتماد النظام ككل](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث تنطبق مجموعة مستدعاة معًا، قبل اعتماد ادعاءات التصنيف أو الحوكمة أو الامتثال. ويعمل هذا القسم مع [الفصل الثالث §2.1 أنماط التهرب الشائعة](core_03_definition_integrity.md#21-أنماط-التهرب-الشائعة) و[§2.2 التهرب الاختزالي](core_03_definition_integrity.md#22-التهرب-الاختزالي).
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 مبدأ المعلومات المشتقة
@@ -853,16 +861,16 @@ flowchart TB
 
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ركن **المشاركة** (فالخصوصية تسند الفاعلية والتعبير، وإعادة البناء من البيانات المجمعة من شأنها تقويضهما)؛ وركن **المساءلة** (على الطرف الذي يستند إلى وصف «منزوع الهوية» أو «مجمّع» أن يثبت انطباقه عليه)؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake).
 - منبثق من: [§15.1 المبدأ الدستوري لمنع التجاوز](#151-constitutional-no-bypass-principle)؛ [§15.1.1 مبدأ منع التجزئة](#1511-مبدأ-منع-التجزئة).
-- يفضي إلى: [§13.2.3 الخصوصية وتقرير المصير المعلوماتي](#1323-الخصوصية-وتقرير-المصير-المعلوماتي)؛ [CS-2 — أنواع المعلومات والتعامل معها](corpus_systems/cs_02_a_information_types_and_handling.md).
+- يفضي إلى: [§13.2.3 الخصوصية وتقرير المصير المعلوماتي](#1323-الخصوصية-وتقرير-المصير-المعلوماتي)؛ [CS-2 — أنواع المعلومات والتعامل معها](../../corpus_systems/cs_06.305_information_types_and_handling.md).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [المعلومات المشتقة](core_05_band_integrative.md#derived-information) · [O](core_05_band_integrative.md#derived-information) · [M](core_05_band_integrative.md#derived-information-a) · [A](core_05_band_integrative.md#derived-information-a) · [C](core_05_band_integrative.md#derived-information-c)
-- [الخصوصية (المعلوماتية)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [حدّ الحالة الداخلية المحمية](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [المعلومات المشتقة](../../core_05.045_band_integrative.md#derived-information) · [O](../../core_05.045_band_integrative.md#derived-information) · [M](../../core_05.045_band_integrative.md#derived-information-a) · [A](../../core_05.045_band_integrative.md#derived-information-a) · [C](../../core_05.045_band_integrative.md#derived-information-c)
+- [الخصوصية (المعلوماتية)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [حدّ الحالة الداخلية المحمية](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -870,7 +878,7 @@ flowchart TB
 
 *بعبارة واضحة: ينص مبدأ منع التجاوز على أن تغيير التسمية لا يُسقط المتطلب، وينص مبدأ منع التجزئة على أن التقطيع لا يُسقطه كذلك. ويتناول هذا القسم الأمر نفسه بشأن الجمع. تُعامل المعلومات وفق ما تكشفه، لا وفق طريقة إنشائها: فالقطع التي تبدو غير ضارة لكنها تتراكم لتكشف أمرًا حساسًا تُعد حساسة، ولا تكون تسميتها «منزوعة الهوية» أو «مجمّعة» ضمانًا للسلامة ما دام بالإمكان تحديد هوية الكائنات الواعية أو إعادة بناء أمر محمي.*
 
-تُعامل المعلومات بمستوى الحماية الذي يقتضيه ما تكشفه، أيًا كانت طريقة اشتقاقها. وتخضع [المعلومات المشتقة](core_05_band_integrative.md#derived-information) للضوابط المنطبقة على ما تكشفه أو تتيحه، لا للضوابط الأدنى التي انطبقت على مدخلاتها.
+تُعامل المعلومات بمستوى الحماية الذي يقتضيه ما تكشفه، أيًا كانت طريقة اشتقاقها. وتخضع [المعلومات المشتقة](../../core_05.045_band_integrative.md#derived-information) للضوابط المنطبقة على ما تكشفه أو تتيحه، لا للضوابط الأدنى التي انطبقت على مدخلاتها.
 
 **متى ينطبق:** تشمل هذه القاعدة المعلومات المشتقة متى تحقق أي مما يلي:
 - **الأثر الوظيفي:** تكشف أو تعيد بناء أو تقرّب أو تعيد تحديد هوية أمر محمي، مثل المعلومات الشخصية الحساسة أو الحالات الداخلية المحمية أو الخصائص المحمية أو الوقائع الحساسة أمنيًا. والأثر الوظيفي هو الاختبار الأساسي.
@@ -880,22 +888,22 @@ flowchart TB
 عدم وجود قصد لا يُخرج المعلومات المشتقة المشمولة من نطاق هذا المبدأ. ويتناسب الاختبار مع [المصلحة المادية](core_00_preamble.md#material-stake) ومع حساسية ما قد يُكشف.
 
 **النتائج المترتبة:**
-- يجب أن يفي الاشتقاق بالضوابط التي كانت ستنطبق على جمع ما يكشفه، بما في ذلك الموافقة أو التفويض الكافي والضرورة والتناسب والتقليل، بموجب [§13.2.3 الخصوصية وتقرير المصير المعلوماتي](#1323-الخصوصية-وتقرير-المصير-المعلوماتي) و، في ما يتعلق بالحالات الداخلية، [حدّ الحالة الداخلية المحمية](core_05_band_continuity.md#protected-internal-state-boundary).
+- يجب أن يفي الاشتقاق بالضوابط التي كانت ستنطبق على جمع ما يكشفه، بما في ذلك الموافقة أو التفويض الكافي والضرورة والتناسب والتقليل، بموجب [§13.2.3 الخصوصية وتقرير المصير المعلوماتي](#1323-الخصوصية-وتقرير-المصير-المعلوماتي) و، في ما يتعلق بالحالات الداخلية، [حدّ الحالة الداخلية المحمية](../../core_05.040_band_continuity.md#protected-internal-state-boundary).
 - لا تُنهي إزالة الهوية أو التجميع أو الدمج أو التسميات المشابهة تلك الواجبات ما دامت إعادة تحديد الهوية أو إعادة البناء ممكنة بصورة معقولة. وعلى الطرف الذي يستند إلى مثل هذه التسمية إثبات خلاف ذلك.
 - يخضع توزيع الاشتقاق على أنظمة أو جهات فاعلة أو أوقات مختلفة بحيث تجتاز كل خطوة الاختبار بينما تكشف النتيجة الكلية أمرًا محميًا لـ[§15.1.1 مبدأ منع التجزئة](#1511-مبدأ-منع-التجزئة).
 
 لا يقوم هذا المبدأ بما يلي:
 - الانطباق على المجاميع العادية، مثل إجمالي حركة المرور المجهول، التي لا تكشف أمرًا محميًا ولا يمكن استخدامها بصورة معقولة لإعادة تحديد هوية أي شخص أو إعادة بناء أمر محمي؛
 - إنشاء أي حكم من أحكام أرضية الحقوق في الفصل السادس أو توسيعه أو تضييقه؛ أو
-- تجاوز قواعد أنواع البيانات في [CS-2 — أنواع المعلومات والتعامل معها](corpus_systems/cs_02_a_information_types_and_handling.md)، التي تطبق هذا المبدأ.
+- تجاوز قواعد أنواع البيانات في [CS-2 — أنواع المعلومات والتعامل معها](../../corpus_systems/cs_06.305_information_types_and_handling.md)، التي تطبق هذا المبدأ.
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 الطبقة التعريفية والضوابط المطلوبة
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [التناسب](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [الضرورة](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [التناسب](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [الضرورة](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [حوكمة متناسبة مع التصنيف](core_05_band_oversight.md#الحوكمة-المتدرجة-بحسب-التصنيف) · [O](core_05_band_oversight.md#الحوكمة-المتدرجة-بحسب-التصنيف) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 
 </details>
@@ -935,31 +943,31 @@ flowchart TB
     style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
-*تضفي التعريفات الدقة على مبادئ الفصل الأول وحقوق الفصل السادس؛ وتحكم الفصول من الثاني إلى الرابع بنية تلك التعريفات وسلامتها والتحقق منها. ولا تنافس أي من الطبقتين الفصل الأول — فالدقة وقابلية الاختبار تخدمان المبادئ ولا تحلان محلها. أعيد إنتاجه من [النظرة المفاهيمية العامة](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions).*
+*تضفي التعريفات الدقة على مبادئ الفصل الأول وحقوق الفصل السادس؛ وتحكم الفصول من الثاني إلى الرابع بنية تلك التعريفات وسلامتها والتحقق منها. ولا تنافس أي من الطبقتين الفصل الأول — فالدقة وقابلية الاختبار تخدمان المبادئ ولا تحلان محلها. أعيد إنتاجه من [النظرة المفاهيمية العامة](../../guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions).*
 
 لا يصح أي تفسير للفصل الأول خارج التعريفات وقيود التقييم التي تقررها **الفصول من الثاني إلى الخامس**. كما يجب على كل تطبيق أن يحافظ على ما يلي ويطبقه:
 - **التناسب** و**الضرورة** و**التقييم المنظومي**
 - متطلبات الأدلة وإمكانية التتبع في **الفصل الرابع**
 - سلامة التعريفات والتحايل وعدم الامتثال في **الفصل الثالث**
-- **[عملية حل التعارض الدستوري §13](#13-عملية-حل-التعارض-الدستوري)**، بما في ذلك معالجة التعارض الدستوري وفق متطلبات **[سجل التعارض الدستوري](core_05_band_integrative.md#constitutional-collision-record)** عندما تكون ذات صلة جوهرية
+- **[عملية حل التعارض الدستوري §13](#13-عملية-حل-التعارض-الدستوري)**، بما في ذلك معالجة التعارض الدستوري وفق متطلبات **[سجل التعارض الدستوري](../../core_05.045_band_integrative.md#constitutional-collision-record)** عندما تكون ذات صلة جوهرية
 <a id="153-ambiguity-resolution"></a>
 #### 15.3 حلّ الغموض
 
 <details>
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
-- [الصرامة المجرّدة](core_05_band_integrative.md#abstract-strictness) · [O](core_05_band_integrative.md#abstract-strictness) · [M](core_05_band_integrative.md#abstract-strictness-a) · [A](core_05_band_integrative.md#abstract-strictness-a) · [C](core_05_band_integrative.md#abstract-strictness-c)
-- [أقصى أثر وقائي](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
-- [الرفاه](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [الضرر غير القابل للعكس](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [الصرامة المجرّدة](../../core_05.045_band_integrative.md#abstract-strictness) · [O](../../core_05.045_band_integrative.md#abstract-strictness) · [M](../../core_05.045_band_integrative.md#abstract-strictness-a) · [A](../../core_05.045_band_integrative.md#abstract-strictness-a) · [C](../../core_05.045_band_integrative.md#abstract-strictness-c)
+- [أقصى أثر وقائي](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
+- [الرفاه](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [الضرر غير القابل للعكس](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 - [الحقيقة (قيد دستوري)](core_05_band_oversight.md#الصدق-قيد-دستوري) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [القدرة الفاعلة على الاختيار](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [القدرة الفاعلة على الاختيار](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
 <br>
 
-عندما يكتنف الغموض الفصل الأول، يجب على المفسرين اختيار القراءة التي تصون على أفضل وجه أمرين معًا: [أقصى أثر وقائي](core_05_band_integrative.md#fullest-protective-effect) للدستور، وهدفه الدستوري المتمثل في مواءمة الأنظمة المشتركة مع رفاه الكائنات الواعية. ويجب ألا يحسموا الغموض باللجوء إلى [الصرامة المجرّدة](core_05_band_integrative.md#abstract-strictness). وحيث تكون حقوق **الفصل السادس** معنية، يجب على المفسرين **ألا** يحسموا الغموض بقراءات **تضيّق** نطاق تلك الحمايات، إلا حيث تسمح قواعد التفاعل في **الفصل الأول** والتعريفات المنطبقة بذلك **صراحةً**.
+عندما يكتنف الغموض الفصل الأول، يجب على المفسرين اختيار القراءة التي تصون على أفضل وجه أمرين معًا: [أقصى أثر وقائي](../../core_05.045_band_integrative.md#fullest-protective-effect) للدستور، وهدفه الدستوري المتمثل في مواءمة الأنظمة المشتركة مع رفاه الكائنات الواعية. ويجب ألا يحسموا الغموض باللجوء إلى [الصرامة المجرّدة](../../core_05.045_band_integrative.md#abstract-strictness). وحيث تكون حقوق **الفصل السادس** معنية، يجب على المفسرين **ألا** يحسموا الغموض بقراءات **تضيّق** نطاق تلك الحمايات، إلا حيث تسمح قواعد التفاعل في **الفصل الأول** والتعريفات المنطبقة بذلك **صراحةً**.
 
 إذا ظل الغموض قائمًا بعد القراءة المتكاملة، فيجب أن يرجّح التفسير أيضًا ما يلي:
 - صون الاستقرار المنظومي
@@ -974,7 +982,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التعريفات · التقييم · الامتثال</span></strong></summary>
 
 - [المتن](core_05_band_integrative.md#المتن) · [O](core_05_band_integrative.md#المتن) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
-- [أقصى أثر وقائي](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
+- [أقصى أثر وقائي](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
 - [تدرّج السلطات والهرمية الداخلية](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) · [O](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 
 </details>
@@ -986,9 +994,9 @@ flowchart TB
 هذا القسم الفرعي هو **الإجراء المعياري الوحيد** لحسم التوتر التفسيري الناشئ عن **أسبقية النصوص وطبقات المصادر**.
 - ينطبق:
   - داخل المصدر الدستوري الملزم (الصك المتكامل `core_*`)؛ و
-  - على مستوى الإدراج، حيث تُختار النصوص المدرجة وفقًا لـ[أقصى أثر وقائي](core_05_band_integrative.md#fullest-protective-effect).
+  - على مستوى الإدراج، حيث تُختار النصوص المدرجة وفقًا لـ[أقصى أثر وقائي](../../core_05.045_band_integrative.md#fullest-protective-effect).
 - تُحدَّد مكانة طبقة المصدر بموجب [تدرّج السلطات والهرمية الداخلية](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي) في الفصل الخامس.
-- يوفّر [الفصل الثامن عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge) الحيازة وتثبيت الإصدار وتأطير الاعتماد. ولا يعيد بيان هذا الإجراء.
+- يوفّر [الفصل الثامن عشر](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) الحيازة وتثبيت الإصدار وتأطير الاعتماد. ولا يعيد بيان هذا الإجراء.
 - بالنسبة إلى **التصادمات الدستورية أثناء التشغيل** — لا أسبقية طبقات النصوص — يُطبَّق **[§13 عملية حلّ التصادم الدستوري](#13-عملية-حل-التعارض-الدستوري)**.
 
 **التسلسل التنفيذي.** طبّقوا ما يلي **بهذا الترتيب**:
@@ -1001,7 +1009,7 @@ flowchart TB
 
 طبّق أولاً **[§15.2 الطبقة التعريفية والتخصصات المطلوبة](#152-الطبقة-التعريفية-والضوابط-المطلوبة)** و**[§15.3 حسم الغموض](#153-حل-الغموض)**:
 - تعمل **الفصول من الثاني إلى الخامس** بوصفها الطبقة التفسيرية والإثباتية.
-- تقتضي قاعدة **الغموض** الأثر **الوقائي** الأوفى باعتبار النص كلاً متكاملاً والاتساق مع رفاه الكائنات الواعية؛ وهي لا تجيز [التشدد التجريدي](core_05_band_integrative.md#abstract-strictness).
+- تقتضي قاعدة **الغموض** الأثر **الوقائي** الأوفى باعتبار النص كلاً متكاملاً والاتساق مع رفاه الكائنات الواعية؛ وهي لا تجيز [التشدد التجريدي](../../core_05.045_band_integrative.md#abstract-strictness).
 - لا يجوز الانتقاص من حقوق **الفصل السادس** إلا حيث تسمح **صراحةً** قواعد التفاعل في **الفصل الأول** والتعريفات المنطبقة بذلك.
 
 <a id="1542-last-resort-internal-hierarchy"></a>
@@ -1014,26 +1022,26 @@ flowchart TB
 - وتكون للمواد الأسبقية على التعريفات المقروءة باعتبارها شروحاً موضوعية مستقلة؛
 - وتظل التعريفات المرجعية حاكمة لمعاني المصطلحات المستخدمة في كل مستوى.
 
-هذا التسلسل الهرمي قاعدة تفسيرية للملاذ الأخير. ولا ينطبق إلا على تعارض حقيقي يبقى بعد القراءة المتكاملة بموجب **§15.4.1** (*القراءة المتكاملة*)، ولا يسمح لطبقة بأن تحل محل أخرى في التشغيل المعتاد. وتظل القيود الواردة في **[§15.3 حسم الغموض](#153-حل-الغموض)** و**§15.4.1** (*القراءة المتكاملة*) سارية. فهي تحظر [التشدد التجريدي](core_05_band_integrative.md#abstract-strictness)، كما تحظر الانتقاص من حقوق **الفصل السادس** خارج قواعد التفاعل المسموح بها صراحةً في **الفصل الأول**.
+هذا التسلسل الهرمي قاعدة تفسيرية للملاذ الأخير. ولا ينطبق إلا على تعارض حقيقي يبقى بعد القراءة المتكاملة بموجب **§15.4.1** (*القراءة المتكاملة*)، ولا يسمح لطبقة بأن تحل محل أخرى في التشغيل المعتاد. وتظل القيود الواردة في **[§15.3 حسم الغموض](#153-حل-الغموض)** و**§15.4.1** (*القراءة المتكاملة*) سارية. فهي تحظر [التشدد التجريدي](../../core_05.045_band_integrative.md#abstract-strictness)، كما تحظر الانتقاص من حقوق **الفصل السادس** خارج قواعد التفاعل المسموح بها صراحةً في **الفصل الأول**.
 
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 طبقة الإدماج
 
-بعد القراءة الدستورية بموجب **§15.4.1** (*القراءة المتكاملة*) و**§15.4.2** (*التسلسل الهرمي الداخلي كملاذ أخير*)، طبّق **الالتزامات المحددة** في نصوص التنفيذ المعتمدة — أي واجبات «كيفية التنفيذ» المسماة التي أدخلها الاعتماد فعلياً حيز النفاذ. ولا تطبقها إلا ضمن **نطاق اعتماد وإدماج صحيح** بموجب **[الفصل الثامن عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge)** (من يحوز السجلات، وأي طبعة مثبتة، وكيفية صياغة الاعتماد).
+بعد القراءة الدستورية بموجب **§15.4.1** (*القراءة المتكاملة*) و**§15.4.2** (*التسلسل الهرمي الداخلي كملاذ أخير*)، طبّق **الالتزامات المحددة** في نصوص التنفيذ المعتمدة — أي واجبات «كيفية التنفيذ» المسماة التي أدخلها الاعتماد فعلياً حيز النفاذ. ولا تطبقها إلا ضمن **نطاق اعتماد وإدماج صحيح** بموجب **[الفصل الثامن عشر](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge)** (من يحوز السجلات، وأي طبعة مثبتة، وكيفية صياغة الاعتماد).
 
-تختار القواعد أدناه بين النصوص المدمجة وفق [الأثر الوقائي الأوفى](core_05_band_integrative.md#fullest-protective-effect)، وهو المعيار نفسه الذي تستخدمه قاعدة **الغموض** في **[§15.3 حسم الغموض](#153-حل-الغموض)**. ولا تختار مطلقاً وفق [التشدد التجريدي](core_05_band_integrative.md#abstract-strictness).
+تختار القواعد أدناه بين النصوص المدمجة وفق [الأثر الوقائي الأوفى](../../core_05.045_band_integrative.md#fullest-protective-effect)، وهو المعيار نفسه الذي تستخدمه قاعدة **الغموض** في **[§15.3 حسم الغموض](#153-حل-الغموض)**. ولا تختار مطلقاً وفق [التشدد التجريدي](../../core_05.045_band_integrative.md#abstract-strictness).
 
 - **الأثر الوقائي الأوفى بين النصوص المدمجة:** طبّق الالتزامات المدمجة على المستوى ذي الأثر الوقائي الأوفى، بما يتفق مع تلك القراءة الدستورية.
   - ذلك المستوى هو **النص** المدمج الذي يحافظ على أقوى متطلبات **الحماية والسلامة والمساءلة وإمكانية التتبع** للالتزام نفسه من حيث النطاق الجوهري.
   - اختر من بين البدائل التي تظل منسجمة مع القراءة الدستورية الناتجة بموجب [مكدس السلطة والتسلسل الهرمي الداخلي](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي).
-  - وهذا **ليس** [التشدد التجريدي](core_05_band_integrative.md#abstract-strictness).
+  - وهذا **ليس** [التشدد التجريدي](../../core_05.045_band_integrative.md#abstract-strictness).
 - **خط أساس معتمد بوضوح:** عندما تكون **معرّفات الطبعات أو سجلات الحيازة** للمواد المدمجة مفقودة أو متناقضة أو غير موثوقة جوهرياً:
-  - يسري **خط الأساس المعتمد بوضوح** ذو [الأثر الوقائي الأوفى](core_05_band_integrative.md#fullest-protective-effect) إلى أن تُستعاد الصحة بموجب **الفصلين الثاني عشر والثالث عشر**؛
+  - يسري **خط الأساس المعتمد بوضوح** ذو [الأثر الوقائي الأوفى](../../core_05.045_band_integrative.md#fullest-protective-effect) إلى أن تُستعاد الصحة بموجب **الفصلين الثاني عشر والثالث عشر**؛
   - ويعني **خط الأساس المعتمد بوضوح** الطبعة أو **خط الأساس** المدمج القابل للتتبع إلى الاعتماد الذي **تدعمه بوضوح** سلسلة الاعتماد حين تكون السجلات غير موثوقة (انضباط الحيازة ومكافحة **الانحراف** بموجب الفصل السابع عشر)؛
-  - وهذا ليس حسمًا للغموض الدستوري الموضوعي عن طريق [التشدد التجريدي](core_05_band_integrative.md#abstract-strictness).
-- **الأثر الوقائي الأوفى عبر الملفات:** عندما تحدد ملفّان تنفيذيان معتمدان أو أكثر معايير مختلفة للمخاطر نفسها ذات النطاق المحدد على نحو ذي معنى، تسود القاعدة المعتمدة بوضوح ذات [الأثر الوقائي الأوفى](core_05_band_integrative.md#fullest-protective-effect)، بما يتفق مع القاعدتين أعلاه.
+  - وهذا ليس حسمًا للغموض الدستوري الموضوعي عن طريق [التشدد التجريدي](../../core_05.045_band_integrative.md#abstract-strictness).
+- **الأثر الوقائي الأوفى عبر الملفات:** عندما تحدد ملفّان تنفيذيان معتمدان أو أكثر معايير مختلفة للمخاطر نفسها ذات النطاق المحدد على نحو ذي معنى، تسود القاعدة المعتمدة بوضوح ذات [الأثر الوقائي الأوفى](../../core_05.045_band_integrative.md#fullest-protective-effect)، بما يتفق مع القاعدتين أعلاه.
   - تظل صفة طبقة المصدر محكومة بـ[مكدس السلطة والتسلسل الهرمي الداخلي](core_05_band_integrative.md#رصة-السلطة-والتسلسل-الداخلي).
-  - وتظل الحيازة والطبعات وصياغة الاعتماد محكومة بـ**[الفصل الثامن عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge)**.
+  - وتظل الحيازة والطبعات وصياغة الاعتماد محكومة بـ**[الفصل الثامن عشر](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge)**.
   - وتسري القاعدة نفسها حين يبدو أن ملفاً تعريفياً مستشهداً به ووسماً تنفيذياً مستشهداً به يتعارضان بشأن تلك المخاطر.
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1050,10 +1058,10 @@ flowchart TB
 *بعبارة مبسطة: عندما ينطبق على حالة واحدة أكثر من ملف إرشادي تنفيذي مدمج — أو عندما تُدخل وثائق اعتمادك تلك الواجبات ذات البنية المشتركة حيز النفاذ — فإن الأداء الجيد في ملف واحد لا يعد امتثالاً إذا ظل واجب جوهري آخر للوقائع نفسها غير مستوفى.*
 
 تتعلق قاعدة الاستيفاء المجمع في هذا القسم بانطباق **أكثر من ملف إرشادي تنفيذي** على الوقائع نفسها. وهي ليست مماثلة لما يلي:
-- قاعدة **مجموعة تشغيلية** واحدة في نص مدمج ذي بنية مشتركة، حيث لا يعد تنفيذ جزء فقط من تلك المجموعة امتثالاً — راجع **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*المجموعات التشغيلية*)؛ أو
+- قاعدة **مجموعة تشغيلية** واحدة في نص مدمج ذي بنية مشتركة، حيث لا يعد تنفيذ جزء فقط من تلك المجموعة امتثالاً — راجع **[CJS-1.14](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)** (*المجموعات التشغيلية*)؛ أو
 - قاعدة الفصل الخامس التي تقتضي استيفاء تعريفات **المجموعة التابعة** معاً — راجع **[الفصل الخامس §2.1 الاستدعاء المشترك والاستيفاء](core_05__definitions_home.md#21-الاستدعاء-المشترك-والاستيفاء)**.
 
-**متى ينطبق هذا القسم.** تسري هذه القواعد ضمن نطاق اعتماد وإدماج صحيح بموجب **[الفصل الثامن عشر](core_18_incorporation.md#chapter-eighteen-incorporation-bridge)** في أي من الحالتين التاليتين:
+**متى ينطبق هذا القسم.** تسري هذه القواعد ضمن نطاق اعتماد وإدماج صحيح بموجب **[الفصل الثامن عشر](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge)** في أي من الحالتين التاليتين:
 
 1. **حالة واحدة، وأكثر من ملف:** تقتضي الوقائع تطبيق أكثر من ملف تنفيذي مدمج — مثل نصوص الأنظمة أو المؤسسات أو المحافل أو البنية المشتركة. ويُحسم تحديد الملفات المنطبقة وفق نطاق الاعتماد والتوجيه الموضوعي الذي توفره تلك الملفات للوقائع، لا باختيار الملف الأسهل استيفاءً وحده.
 2. **الاعتماد يُدخل مجموعة البنية المشتركة حيز النفاذ:** تطبق وثيقة الاعتماد نصوص تنفيذ البنية المشتركة المحددة (مجلد **CJS** وأي ملفات أخرى للبنية المشتركة مدرجة في سلسلة الاعتماد) على المتبني.
@@ -1067,7 +1075,7 @@ flowchart TB
   - ثم **CI** (حوكمة المؤسسات وضمانها)؛
   - ثم **CF** (عقيدة عائلات المحافل في الفصل الثاني عشر)؛
 - اقرأ، ضمن هذا الترتيب، ما يقتضيه فقط توجيه الموضوع للوقائع؛
-- يستخدم المحررون والمدققون **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*التوجيه عبر الملفات*)** للاطلاع على جدول الصفوف المرجعي؛
+- يستخدم المحررون والمدققون **[CJS-0.1](../../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*التوجيه عبر الملفات*)** للاطلاع على جدول الصفوف المرجعي؛
 - ويظل الاستيفاء المجمع وقاعدة الأثر الوقائي الأوفى عبر الملفات ساريين كما وردا في هذا القسم و**§15.4.3** (*طبقة الإدماج*).
 
 لا يجوز للطوارئ تضييق تلك الواجبات إلا إذا كان التضييق:

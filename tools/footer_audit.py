@@ -32,7 +32,7 @@ CORE_CHAIN = (
     "core_05.055_band_participation.md",
     "core_05.060_band_performance.md",
     "core_07.000_charters.md",
-    "core_08.000_functional_independence_segregation_of_duties.md",
+    "core_08.000_functional_independence_separation_of_duties.md",
     "core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-certification-evaluation",
     "core_09.010_system_alignment_certification_record_process.md#chapter-nine-part-b-certification-record-and-process",
     "core_09.015_system_alignment_certification_illustrations.md#chapter-nine-part-c-certification-illustrations",

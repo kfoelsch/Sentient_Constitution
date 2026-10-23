@@ -473,7 +473,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: [§3](#3-அமபப-மறறம-நறவன-சசனஙகள-கற-வணடயவ); [அத்தியாயம் எட்டு §2 நான்கு இருக்கை அரசியலமைப்பு அடித்தளம்](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- மேல்நிலை: [§3](#3-அமபப-மறறம-நறவன-சசனஙகள-கற-வணடயவ); [அத்தியாயம் எட்டு §2 நான்கு இருக்கை அரசியலமைப்பு அடித்தளம்](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - கீழ்நிலை:
   - [அத்தியாயம் எட்டு §5 வெளியிடப்பட்ட இடமமைப்பு, காலியிடம், பதிலீடு](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [அத்தியாயம் ஒன்பது பகுதி B §6.1.1 சான்றளிப்பில் நான்கு இருக்கைகள்](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -503,7 +503,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 இருக்கைகள் என்ன, அவை ஏன் உள்ளன
 
-ஒவ்வொரு [பொருண்மையாகக் கட்டுப்படுத்தும் செயலுக்கும்](../../core_05.035_band_accountability.md#materially-binding-act) நான்கு பணிகள் உள்ளன; [அத்தியாயம் எட்டு §2 நான்கு இருக்கை அரசியலமைப்பு அடித்தளம்](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) அவற்றைப் பிரிக்கிறது:
+ஒவ்வொரு [பொருண்மையாகக் கட்டுப்படுத்தும் செயலுக்கும்](../../core_05.035_band_accountability.md#materially-binding-act) நான்கு பணிகள் உள்ளன; [அத்தியாயம் எட்டு §2 நான்கு இருக்கை அரசியலமைப்பு அடித்தளம்](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) அவற்றைப் பிரிக்கிறது:
 
 - **[தொடக்க இருக்கை](../../core_05.035_band_accountability.md#initiating-seat):** கோருதல், முன்மொழிதல், இயக்குதல் அல்லது உரிமை கோருதல் மூலம் செயலைத் தொடங்குகிறது.
 - **[சரிபார் அல்லது அங்கீகரி இருக்கை](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** ஆதாரத்தையும் அதிகாரத்தையும் சரிபார்த்து, செயலை உறுதிப்படுத்துகிறது, அங்கீகரிக்கிறது, நிபந்தனை விதிக்கிறது அல்லது மறுக்கிறது.

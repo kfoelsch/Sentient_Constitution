@@ -47,6 +47,29 @@ def git_text(revision: str, relpath: str) -> str | None:
         return None
 
 
+def historical_source_names() -> dict[str, str]:
+    """Map current numbered core paths to their pre-migration Git paths."""
+    registry = ROOT / "tools" / "architecture" / "chapter_numbers.json"
+    if not registry.is_file():
+        return {}
+    rows = json.loads(registry.read_text(encoding="utf-8")).get("chapters", [])
+    return {
+        Path(row["destination_file"]).as_posix(): Path(row["original_file"]).as_posix()
+        for row in rows
+        if row.get("layer") == "CORE" and row.get("destination_file") and row.get("original_file")
+    }
+
+
+def baseline_source_text(revision: str | None, source: str, historical_names: dict[str, str]) -> str | None:
+    if not revision:
+        return None
+    text = git_text(revision, source)
+    if text is not None:
+        return text
+    historical = historical_names.get(source)
+    return git_text(revision, historical) if historical else None
+
+
 def valid_revision(revision: str | None) -> bool:
     if not revision:
         return False
@@ -227,18 +250,21 @@ def file_mechanics(source_path: Path, target_path: Path) -> dict[str, object]:
     }
 
 
-def build_report(requested_base: str | None) -> str:
+def build_report(requested_base: str | None, locale_filter: str | None = None, source_filter: str | None = None) -> str:
     if not MANIFEST.is_file():
         raise ValueError(f"Missing drift manifest: {MANIFEST}")
     manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
     records = manifest.get("files", [])
     records_by_source: dict[str, list[dict]] = defaultdict(list)
     records_by_target: dict[tuple[str, str], dict] = {}
+    old_to_current = audit.legacy_core_filename_map()
     for row in records:
-        records_by_source[row.get("source_file", "")].append(row)
+        recorded_source = row.get("source_file", "")
+        canonical_source = old_to_current.get(Path(recorded_source).name, Path(recorded_source).name)
+        records_by_source[canonical_source].append(row)
         records_by_target[(row.get("locale", ""), row.get("translation_file", ""))] = row
 
-    locales = audit.locale_dirs()
+    locales = audit.locale_dirs(locale_filter)
     maps = {directory.name: audit.readme_source_map(directory) for directory in locales}
     source_targets: dict[str, dict[str, str]] = defaultdict(dict)
     all_sources: set[str] = set()
@@ -248,7 +274,10 @@ def build_report(requested_base: str | None) -> str:
             all_sources.add(source)
 
     source_work = []
+    historical_names = historical_source_names()
     for source in sorted(all_sources):
+        if source_filter and source_filter not in (source, Path(source).name):
+            continue
         source_path = ROOT / source
         if not source_path.is_file():
             continue
@@ -258,7 +287,7 @@ def build_report(requested_base: str | None) -> str:
             row.get("source_sha256") != current_hash for row in source_rows
         )
         baseline, baseline_kind = baseline_for(source, source_rows, requested_base)
-        before = git_text(baseline, source) if baseline else None
+        before = baseline_source_text(baseline, source, historical_names)
         current = source_path.read_text(encoding="utf-8")
         changed = before is not None and before != current
         if not stale and not changed:
@@ -366,9 +395,11 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--base", help="Git commit/ref to compare. Default uses recorded source revisions.")
     parser.add_argument("--output", type=Path, help="Write the packet to this path; default prints to stdout.")
+    parser.add_argument("--locale", help="Limit the packet to one locale (for example, `es`).")
+    parser.add_argument("--source", help="Limit the packet to one current English source path or filename.")
     args = parser.parse_args()
     try:
-        report = build_report(args.base)
+        report = build_report(args.base, args.locale, args.source)
         if args.output:
             path = args.output if args.output.is_absolute() else ROOT / args.output
             path.parent.mkdir(parents=True, exist_ok=True)

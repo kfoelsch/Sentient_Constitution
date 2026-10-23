@@ -474,7 +474,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- पूर्वाधार: [§3](#3-कस-परणल-और-ससथगत-चरटर-म-अवशय-बतय-जन-चहए); [अध्याय आठ §2 चार-आसन संवैधानिक न्यूनतम मानक](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2)।
+- पूर्वाधार: [§3](#3-कस-परणल-और-ससथगत-चरटर-म-अवशय-बतय-जन-चहए); [अध्याय आठ §2 चार-आसन संवैधानिक न्यूनतम मानक](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2)।
 - आगे:
   - [अध्याय आठ §5 प्रकाशित नियुक्ति, रिक्ति और प्रतिस्थापन](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [अध्याय नौ भाग ख §6.1.1 प्रमाणन के चार आसन](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -504,7 +504,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 आसन क्या हैं और क्यों हैं
 
-हर [भौतिक रूप से बाध्यकारी कार्य](../../core_05.035_band_accountability.md#materially-binding-act) में चार काम होते हैं, और [अध्याय आठ §2 चार-आसन संवैधानिक न्यूनतम मानक](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) उन्हें अलग रखता है:
+हर [भौतिक रूप से बाध्यकारी कार्य](../../core_05.035_band_accountability.md#materially-binding-act) में चार काम होते हैं, और [अध्याय आठ §2 चार-आसन संवैधानिक न्यूनतम मानक](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) उन्हें अलग रखता है:
 
 - **[आरंभकारी आसन](../../core_05.035_band_accountability.md#initiating-seat):** अनुरोध, प्रस्ताव, संचालन या दावा करके कार्य शुरू करता है।
 - **[सत्यापन-या-प्राधिकरण आसन](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** साक्ष्य और प्राधिकार जाँचता है, फिर कार्य का सत्यापन या प्राधिकरण करता है, शर्त लगाता है या उसे अस्वीकार करता है।

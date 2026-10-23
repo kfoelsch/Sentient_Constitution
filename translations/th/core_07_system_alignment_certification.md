@@ -12,10 +12,10 @@
 > | ส่วน | ไฟล์ | เป็นเจ้าของ |
 > |------|------|------|
 > | **ส่วน ก — การประเมิน** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: จุดประสงค์ ชั้นระบบ การประเมินทั้งระบบ (รวมขอบเขตตราสารกำหนดขอบเขตเทียบขอบเขตหน้าที่) ตะขอประเมินโดเมน การเดินดูตัวอย่างตามชั้น |
-> | **ส่วน ข — บันทึกและกระบวนการ** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: บันทึกการรับรอง (รวมช่อง [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) ที่กำกับ) ความโปร่งใส/ความสามารถในการโต้แย้ง บทบาทเวที ลำดับการกำกับดูแล สะพานร่องรอย การเปิดใหม่ — เลขบทต่อเนื่องจากส่วน ก §10 |
+> | **ส่วน ข — บันทึกและกระบวนการ** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: บันทึกการรับรอง (รวมช่อง [ตราสารกำหนดขอบเขต](../../core_05.040_band_continuity.md) ที่กำกับ) ความโปร่งใส/ความสามารถในการโต้แย้ง บทบาทเวที ลำดับการกำกับดูแล สะพานร่องรอย การเปิดใหม่ — เลขบทต่อเนื่องจากส่วน ก §10 |
 >
 > สมอสืบทอดจากบทที่เจ็ดไฟล์เดียวเดิมถูกเก็บไว้บนไฟล์ส่วน ก และส่วน ข ลิงก์ **บทที่เจ็ด** ทั่วไปในไฟล์อื่นถูกจัดเส้นทางไปยังส่วนที่เหมาะตามเลขหมวด
-> การก่อตัวของตราสารกำหนดขอบเขตสถาบัน ช่องขั้นต่ำ และหน้าที่ทบทวนตามระยะ อยู่ใน [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** — บทที่เจ็ดใช้ช่องเหล่านั้น ไม่นิยามใหม่
+> การก่อตัวของตราสารกำหนดขอบเขตสถาบัน ช่องขั้นต่ำ และหน้าที่ทบทวนตามระยะ อยู่ใน [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** — บทที่เจ็ดใช้ช่องเหล่านั้น ไม่นิยามใหม่
 
 >
 > **ก่อนหน้า (ภาษานี้):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

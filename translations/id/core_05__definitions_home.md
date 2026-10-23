@@ -135,7 +135,7 @@ Direktori ini mendaftar **Definisi A-Z** dan **Klaster A-Z** secara terpisah. Se
 - [Persyaratan kapabilitas](../../core_05.050_band_oversight.md#capability-requirement)
 - [Penguasaan jalur resolusi](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [Kegagalan berantai](../../core_05.040_band_continuity.md#cascading-failure)
-- [Piagam](../../core_05.040_band_continuity.md#charter)
+- [Piagam](../../core_05.040_band_continuity.md)
 - [Tata kelola berskala klasifikasi](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [Paksaan dan manipulasi](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [Kegagalan pertanggungjawaban kolektif](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -407,7 +407,7 @@ Direktori ini mendaftar **Definisi A-Z** dan **Klaster A-Z** secara terpisah. Se
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); [taruhan material](core_00_preamble.md#material-stake); [Pembukaan §2 Tinjauan pengukuran](core_00_preamble.md#measurements-overview).
+- Hulu: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusional](core_00_preamble.md#two-constitutional-aims); [taruhan material](core_00_preamble.md#material-stake); [Pembukaan §2 Tinjauan pengukuran](core_00_preamble.md#2-measurements-overview).
 - Hilir: orientasi konstitusional bagi semua definisi pita Bab Lima dan klaster dependen **Def.**
 - Baca bersama: aturan meta [Definisi mandiri](core_05__definitions_home.md#1-definisi-mandiri), [§1.1 Pemanggilan, pemenuhan, dan kepatuhan](core_05__definitions_home.md#11-pemanggilan-pemenuhan-dan-kepatuhan), [§2.1 Pemanggilan dan pemenuhan bersama](core_05__definitions_home.md#21-pemanggilan-dan-pemenuhan-bersama), dan [§2.2 Interaksi definisi otonom dan konteks penuh](core_05__definitions_home.md#22-interaksi-definisi-otonom-dan-konteks-penuh) sebelum menerapkan klaster dependen mana pun.
 
@@ -443,7 +443,7 @@ Definisi Bab Lima diurutkan menurut [Dua Tujuan Konstitusional](core_00_preamble
 <details>
 <summary><strong><span style="color: #2563eb;">Panduan pembaca (non-operatif): silang pengukuran Pembukaan</span></strong></summary>
 
-> [Pembukaan §2](core_00_preamble.md#measurements-overview) mendaftar tujuh **kategori pengukuran** konstitusional — pertanyaan yang diajukan operator ketika menilai sistem. Bab Lima mengorganisasi **definisi kanonik** menurut kaki Tetrad, tujuan **Kesinambungan**, dan kepemilikan silang-kaki **Integratif**. Tabel di bawah memetakan setiap kategori pengukuran ke rumah Bab Lima-nya. Suatu kategori boleh mencakup lebih dari satu berkas pita; rumah kanonik tidak berpindah ketika kategori pengukuran tumpang tindih.
+> [Pembukaan §2](core_00_preamble.md#2-measurements-overview) mendaftar tujuh **kategori pengukuran** konstitusional — pertanyaan yang diajukan operator ketika menilai sistem. Bab Lima mengorganisasi **definisi kanonik** menurut kaki Tetrad, tujuan **Kesinambungan**, dan kepemilikan silang-kaki **Integratif**. Tabel di bawah memetakan setiap kategori pengukuran ke rumah Bab Lima-nya. Suatu kategori boleh mencakup lebih dari satu berkas pita; rumah kanonik tidak berpindah ketika kategori pengukuran tumpang tindih.
 >
 > **Materialitas** ([Penentuan materialitas](../../core_05.050_band_oversight.md#materiality)) bersifat Integratif — gerbang ambang lintas-potong yang menskala semua keluarga pengukuran di bawah [taruhan material](core_00_preamble.md#material-stake); ia bukan kategori terpisah dalam tabel di bawah.
 

@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
 - بالادست: [قطب‌نمای فصل پنجم](core_05__definitions_home.md#قطبنما-و-نقشه-تعریف-فصل-پنجم)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims)؛ شرح لایهٔ اصل در [دیباچه §1](core_00_preamble.md#flourishing).
-- پایین‌دست: اصول: [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)؛ [§3 قیدهای اصول غیرقابل‌مذاکره: ایمنی و حقیقت](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth)؛ [§4 اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)؛ [§11.1.5 انضباط ادعاهای پیامد قانون اساسی](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [تجزیهٔ هدف قانون اساسی](#flourishing-aim-decomposition)؛ پرونده‌های نوار چهارگانه جایی که **شکوفایی** هدف اولیه است طبق [قطب‌نمای فصل پنجم](core_05__definitions_home.md#قطبنما-و-نقشه-تعریف-فصل-پنجم).
+- پایین‌دست: اصول: [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md)؛ [§3 قیدهای اصول غیرقابل‌مذاکره: ایمنی و حقیقت](core_01_a_values_principles.md)؛ [§4 اعتماد](core_01_a_values_principles.md)؛ [§11.1.5 انضباط ادعاهای پیامد قانون اساسی](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)؛ [تجزیهٔ هدف قانون اساسی](#flourishing-aim-decomposition)؛ پرونده‌های نوار چهارگانه جایی که **شکوفایی** هدف اولیه است طبق [قطب‌نمای فصل پنجم](core_05__definitions_home.md#قطبنما-و-نقشه-تعریف-فصل-پنجم).
 - خوانده شود با: [بهزیستی](../../core_05.040_band_continuity.md#wellbeing)، [ایمنی (قید)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)، [حقیقت (قید قانون اساسی)](../../core_05.050_band_oversight.md#truth-constitutional-constraint)، [اعتمادپذیری](../../core_05.040_band_continuity.md#trustworthiness)، [عاملیت معنادار](../../core_05.055_band_participation.md#meaningful-agency)، [واگرایی شاخص جانشین](../../core_05.050_band_oversight.md#proxy-divergence)، [تسخیر نظام](../../core_05.040_band_continuity.md#system-capture)، [پیوستگی (هدف قانون اساسی)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (هدف جفت — هیچ‌یک نباید به هزینهٔ دیگری دنبال شود)، [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake) (چارچوب مشروعیت این هدف — نه یک سازهٔ پنجم)، و خانوادهٔ اندازه‌گیری شکوفایی.
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - زیر [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)، مقیاس‌شده با [منافع مادی](core_00_preamble.md#material-stake)، ارزیابی کنید.
-  - نتایج شکوفایی ادعا‌شده را به شرایط [سازنده](#flourishing-aim-decomposition) و به پیامدهایی که حس‌مندان واقعاً تجربه می‌کنند ببندید، زیر فصل چهارم و [فصل یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - نتایج شکوفایی ادعا‌شده را به شرایط [سازنده](#flourishing-aim-decomposition) و به پیامدهایی که حس‌مندان واقعاً تجربه می‌کنند ببندید، زیر فصل چهارم و [فصل یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
   - همیشه خوانده شود با [پیوستگی (هدف قانون اساسی)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): سودهای کوتاه‌مدت که به‌طور پیش‌بینی‌پذیر پایداری، تاب‌آوری یا یکپارچگی بوم‌شناختی درازمدت را تضعیف کنند **شکوفایی** را می‌شکنند وقتی دو هدف با هم داوری می‌شوند.
 <a id="flourishing-constitutional-c"></a>
 - C: غیرمنطبق وقتی:
   - یک بلوک ساخت بیشینه می‌شود در حالی که حقیقت، ایمنی، اعتمادپذیری یا عاملیت خالی می‌شود;
   - ادعاهای شکوفایی به پیامدهای قانون اساسی زیر فصل چهارم ردگیری نمی‌شوند؛ یا
-  - **شکوفایی** به شیوه‌ای دنبال می‌شود که از نظر مادی [پیوستگی (هدف قانون اساسی)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) را شکست دهد بدون مجوز روشن زیر [فصل یکم §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+  - **شکوفایی** به شیوه‌ای دنبال می‌شود که از نظر مادی [پیوستگی (هدف قانون اساسی)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) را شکست دهد بدون مجوز روشن زیر [فصل یکم §6](core_01_b_interaction_interpretation.md).
 
 ---
 

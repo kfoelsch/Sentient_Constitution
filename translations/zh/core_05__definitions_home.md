@@ -134,7 +134,7 @@
 - [能力要求](../../core_05.050_band_oversight.md#capability-requirement)
 - [解决路径俘获](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [级联失败](../../core_05.040_band_continuity.md#cascading-failure)
-- [章程](../../core_05.040_band_continuity.md#charter)
+- [章程](../../core_05.040_band_continuity.md)
 - [按分类缩放的治理](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [胁迫与操纵](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [集体问责失败](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -406,7 +406,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；[实质利害](core_00_preamble.md#material-stake)；[序言 §2 测量概览](core_00_preamble.md#measurements-overview)。
+- 上游：[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；[实质利害](core_00_preamble.md#material-stake)；[序言 §2 测量概览](core_00_preamble.md#2-measurements-overview)。
 - 下游：对第五章全部带定义与 **Def.** 依赖簇的宪法定向
 - 一并阅读：在适用任何依赖簇之前，先读[独立定义](core_05__definitions_home.md#1-独立定义)、[§1.1 调用、满足与合规](core_05__definitions_home.md#11-调用满足与合规)、[§2.1 联合调用与满足](core_05__definitions_home.md#21-联合调用与满足)与 [§2.2 自立定义的互动与完整语境](core_05__definitions_home.md#22-自立定义的互动与完整语境)的元规则。
 
@@ -442,7 +442,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">读者指引（非操作性）：序言测量对照</span></strong></summary>
 
-> [序言 §2](core_00_preamble.md#measurements-overview)列出七个宪法**测量类别** — 运营者在评价系统时提出的问题。第五章按四元腿、**延续**宗旨与**整合**跨腿主责组织**典范定义**。下表把每个测量类别映射到其第五章家园。一个类别可以跨越不止一个带文件；当测量类别重叠时，典范家园并不移动。
+> [序言 §2](core_00_preamble.md#2-measurements-overview)列出七个宪法**测量类别** — 运营者在评价系统时提出的问题。第五章按四元腿、**延续**宗旨与**整合**跨腿主责组织**典范定义**。下表把每个测量类别映射到其第五章家园。一个类别可以跨越不止一个带文件；当测量类别重叠时，典范家园并不移动。
 >
 > **实质性**（[实质性认定](../../core_05.050_band_oversight.md#materiality)）是整合性的 — 一道横断的阈值门，在[实质利害](core_00_preamble.md#material-stake)下缩放全部测量族；它不是下表中的单独类别。
 

@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [அத்தியாயம் மூன்று, பிரிவு 2 — கவனிக்கக்கூடிய அமைப்பு நடத்தையிலிருந்து இணக்கமின்மை](#2-கவனககககடய-அமபப-நடததயலரநத-இணககமனம); [அத்தியாயம் இரண்டு, §2 வரையறை முழுமைத் தேவை](core_02_definition_structure.md#2-வரயற-மழமத-தவ).
-- கீழ்வழி: [அத்தியாயம் நான்கு, பிரிவு 2 — வரையறைத் தடமறிதல் தேவை](core_04_burden_traceability_verification.md#2-வரயறத-தடமறதல-தவ); [அத்தியாயம் ஒன்பது — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [அத்தியாயம் பத்து — பங்களிப்பு, மீறல், நிலைத்தட மாதிரி](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [அத்தியாயம் பதினொன்று — நிலைத்தட விளைவுகளும் ஒருங்கிணைப்பும்](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 அரசியலமைப்புத் திசைகாட்டியும் தொகுதி வரைபடமும்](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- கீழ்வழி: [அத்தியாயம் நான்கு, பிரிவு 2 — வரையறைத் தடமறிதல் தேவை](core_04_burden_traceability_verification.md#2-வரயறத-தடமறதல-தவ); [அத்தியாயம் ஒன்பது — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [அத்தியாயம் பத்து — பங்களிப்பு, மீறல், நிலைத்தட மாதிரி](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [அத்தியாயம் பதினொன்று — நிலைத்தட விளைவுகளும் ஒருங்கிணைப்பும்](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 அரசியலமைப்புத் திசைகாட்டியும் தொகுதி வரைபடமும்](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - இதனுடன் படிக்க: [இணக்கமின்மைக் கண்டறிதல் சுயவிவரம்](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — சுயவிவரப் புலங்களுக்கான நியம O/M/A/C இல்லம்; [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 செயல் கட்டுப்பாடுகள்
 
-இணக்கமின்மை இணைந்த செயல்படுத்தல் தொகுப்பில் செயல் கட்டுப்பாடுகளுக்கு எதிராகவும் கண்டறியப்படலாம். இயல்புநிலைக் கண்டறிதல் சுயவிவரங்களும் அவை அந்தக் கண்டறிதல்களுடன் எப்படி இணைகின்றன என்பதும் அங்கே கையாளப்படுகின்றன — இந்த அத்தியாயத்தில் அல்ல. காண்க [CJS-3.1 அரசியலமைப்புத் திசைகாட்டியும் தொகுதி வரைபடமும்](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+இணக்கமின்மை இணைந்த செயல்படுத்தல் தொகுப்பில் செயல் கட்டுப்பாடுகளுக்கு எதிராகவும் கண்டறியப்படலாம். இயல்புநிலைக் கண்டறிதல் சுயவிவரங்களும் அவை அந்தக் கண்டறிதல்களுடன் எப்படி இணைகின்றன என்பதும் அங்கே கையாளப்படுகின்றன — இந்த அத்தியாயத்தில் அல்ல. காண்க [CJS-3.1 அரசியலமைப்புத் திசைகாட்டியும் தொகுதி வரைபடமும்](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

@@ -12,7 +12,7 @@
 >
 > **前（本言語）：** [core_05_band_integrative.md](core_05_band_integrative.md)
 >
-> **次（この言語）：** [core_05_band_participation.md](core_05_band_participation.md)
+> **次（この言語）：** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 > **読みの弧：** 独立用語 → 半独立 → 依存クラスター Def.O1–Def.O2
 
 </details>
@@ -49,7 +49,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- あわせて読む： [リスク](core_05_band_continuity.md#risk), [依存](core_05_band_continuity.md#dependency), and [システム捕捉](core_05_band_continuity.md#system-capture).
+- あわせて読む： [リスク](../../core_05.040_band_continuity.md#risk), [依存](../../core_05.040_band_continuity.md#dependency), and [システム捕捉](../../core_05.040_band_continuity.md#system-capture).
 
 </details>
 
@@ -58,7 +58,7 @@
 *平たい言葉で言えば： how a system behaves under pressure — when sentients game it, coordinate across accounts, run it at massive scale, or deliberately misuse it.*
 
 - **それが何か**
-  - **範囲内：** Operating conditions in which systems or actors behave to maximize advantage in ways that can alter [リスク](core_05_band_continuity.md#risk), [依存](core_05_band_continuity.md#dependency), or [システム捕捉](core_05_band_continuity.md#system-capture), including:
+  - **範囲内：** Operating conditions in which systems or actors behave to maximize advantage in ways that can alter [リスク](../../core_05.040_band_continuity.md#risk), [依存](../../core_05.040_band_continuity.md#dependency), or [システム捕捉](../../core_05.040_band_continuity.md#system-capture), including:
     - システム構造の濫用；
     - インスタンスを横断する調整；
     - high-scale deployment — volume, concurrency, or reach at which behavior or effects can differ from small-scale or ideal-lab use;
@@ -69,14 +69,14 @@
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： oversight still works under gaming, scale, coordination, and deliberate misuse — not only under ordinary or ideal-lab conditions.
 
-    **第一次の評価：** Include plausible strategies that could reasonably emerge given system incentives, access, and capabilities, read together with [リスク](core_05_band_continuity.md#risk) and [依存](core_05_band_continuity.md#dependency), covering:
+    **第一次の評価：** Include plausible strategies that could reasonably emerge given system incentives, access, and capabilities, read together with [リスク](../../core_05.040_band_continuity.md#risk) and [依存](../../core_05.040_band_continuity.md#dependency), covering:
     - 誤用；
     - 調整；
     - 拡大；および
     - 適応的応答。
 <a id="adversarial-scaled-and-exploited-conditions-c"></a>
 - **成り立たねばならないこと**
-  - **第一次の失敗：** Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [リスク](core_05_band_continuity.md#risk) or masks [システム捕捉](core_05_band_continuity.md#system-capture) — including using any of the following as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation:
+  - **第一次の失敗：** Failure to evaluate these conditions where relevant is non-compliant, especially where it understates [リスク](../../core_05.040_band_continuity.md#risk) or masks [システム捕捉](../../core_05.040_band_continuity.md#system-capture) — including using any of the following as a stand-in for pressure, scale, cross-instance coordination, or deliberate exploitation:
     - 通常の無害な使用；
     - 理想実験室の試験；または
     - 一度きりの誤用の逸話。
@@ -91,14 +91,14 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [実質性、影響、リスク、および代替指標の誠実性](core_05_band_oversight.md#materiality-semi-independent).
-- あわせて読む： [実質的影響](core_05_band_oversight.md#実質的影響), [透明性](core_05_band_oversight.md#透明性), and [システムの境界](core_05_band_continuity.md#system-boundaries).
+- あわせて読む： [実質的影響](core_05_band_oversight.md#実質的影響), [透明性](core_05_band_oversight.md#透明性), and [システムの境界](../../core_05.040_band_continuity.md#system-boundaries).
 
 </details>
 
 <br>
 
 - **それが何か**
-  - **範囲内：** A mandatory functionality that a [システム](core_05_band_accountability.md#system) possesses sufficient to achieve a specified outcome, independent of implementation mechanism.
+  - **範囲内：** A mandatory functionality that a [システム](../../core_05.035_band_accountability.md) possesses sufficient to achieve a specified outcome, independent of implementation mechanism.
   - **範囲外：** optional features, aspirational roadmap items, or design preferences that are not claimed as a mandatory capability for a specified outcome.
 <a id="capability-requirement-a"></a>
 - **測定と評価の仕方**
@@ -111,7 +111,7 @@
     That proof must be clear enough for [透明性](core_05_band_oversight.md#透明性) and for outsiders to evaluate [実質的影響](core_05_band_oversight.md#実質的影響).
 <a id="capability-requirement-c"></a>
 - **成り立たねばならないこと**
-  - The system must demonstrably achieve the specified outcome in practice within auditable [システムの境界](core_05_band_continuity.md#system-boundaries).
+  - The system must demonstrably achieve the specified outcome in practice within auditable [システムの境界](../../core_05.040_band_continuity.md#system-boundaries).
   - **第一次の失敗：** a claimed, documented, or planned capability with no demonstrated achievement of the specified outcome under the conditions in which the system is represented, authorized, or used.
 
 ---
@@ -125,7 +125,7 @@
 
 - 上流： 原則： [憲法四元](core_00_preamble.md#constitutional-tetrad) — [実質的利害](core_00_preamble.md#material-stake) scaling.
 - クラスター構成要素： [実質性、影響、リスク、および代替指標の誠実性](core_05_band_oversight.md#materiality-semi-independent).
-- あわせて読む： [依存](core_05_band_continuity.md#dependency), [実質的影響](core_05_band_oversight.md#実質的影響), [リスク](core_05_band_continuity.md#risk), [システム境界の誠実性](core_05_band_continuity.md#system-boundary-integrity), and [監督](core_05_apex_oversight_leg.md#oversight-constitutional).
+- あわせて読む： [依存](../../core_05.040_band_continuity.md#dependency), [実質的影響](core_05_band_oversight.md#実質的影響), [リスク](../../core_05.040_band_continuity.md#risk), [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity), and [監督](core_05_apex_oversight_leg.md#oversight-constitutional).
 - 下流： [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — class-scaled whole-system evaluation duty.
 
 </details>
@@ -137,8 +137,8 @@
 - **それが何か**
   - **範囲内：** How hard [監督](core_05_apex_oversight_leg.md#oversight-constitutional), verification, and process discipline must be — scaled to [実質的利害](core_00_preamble.md#material-stake), covering:
     - [実質的影響](core_05_band_oversight.md#実質的影響);
-    - [依存](core_05_band_continuity.md#dependency); and
-    - [リスク](core_05_band_continuity.md#risk).
+    - [依存](../../core_05.040_band_continuity.md#dependency); and
+    - [リスク](../../core_05.040_band_continuity.md#risk).
     The system's class under *[corpus_systems.md](../../corpus_systems.md)*, CS-3 — システムの分類と取扱い, and related rules sets that intensity.
   - **範囲外：**
     - ordinary uniform process detail among systems that share the same real class under CS-3; or
@@ -148,7 +148,7 @@
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： oversight depth and verification burden match the system's real stake, impact, dependency, and risk — not a self-assigned low class.
 
-    **第一次の評価：** Use the real class under the implementation rules, read with [実質性の判定](core_05_band_oversight.md#実質性の判定) and [システム境界の誠実性](core_05_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [監督](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
+    **第一次の評価：** Use the real class under the implementation rules, read with [実質性の判定](core_05_band_oversight.md#実質性の判定) and [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity). A self-assigned or informal low class is not enough when the system's full effects call for stronger [監督](core_05_apex_oversight_leg.md#oversight-constitutional) or governance. Whole-system review under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) scales by class:
     - **Class A**, **Class B**, and **Class C** — full depth, mandatory;
     - **Class L** — mandatory, but sized to the impact; and
     - **Class P** — encouraged while the system is validly **Class P**.
@@ -158,7 +158,7 @@
     - one-size-fits-all oversight that ignores real stake differences;
     - a class label that understates the system's real stake, impact, dependency, or risk;
     - running or labeling a system below what its full effects warrant; or
-    - skipping class-based duties when [実質的影響](core_05_band_oversight.md#実質的影響), [依存](core_05_band_continuity.md#dependency), or [リスク](core_05_band_continuity.md#risk) require stronger governance.
+    - skipping class-based duties when [実質的影響](core_05_band_oversight.md#実質的影響), [依存](../../core_05.040_band_continuity.md#dependency), or [リスク](../../core_05.040_band_continuity.md#risk) require stronger governance.
 
 ---
 
@@ -170,7 +170,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- クラスター構成要素： [情報圏](core_05_band_participation.md#info-sphere)
+- クラスター構成要素： [情報圏](../../core_05.055_band_participation.md#info-sphere)
 
 </details>
 
@@ -184,7 +184,7 @@
     - 情報源の保護；
     - 調査；および
     - 公表。
-    Sentients doing that work exercise the [表現](core_05_band_participation.md#expression-constitutional) and [結社](core_05_band_participation.md#assembly-constitutional) 権利の床, with heightened-scrutiny protection under [Article V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [表現](../../core_05.055_band_participation.md#expression-constitutional) and [結社](../../core_05.055_band_participation.md#assembly-constitutional) 権利の床, with heightened-scrutiny protection under [Article V-H](../../core_06.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **範囲外：** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **測定と評価の仕方**
@@ -195,11 +195,11 @@
     - 情報源の保護；
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [必要性](core_05_band_accountability.md#necessity) and [比例性](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [必要性](../../core_05.035_band_accountability.md#necessity) and [比例性](../../core_05.035_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
-  - **第二次の失敗：** stretching [善意](core_05_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
+  - **第二次の失敗：** stretching [善意](../../core_05.035_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **第三次の失敗：** credentials, institutional status, or ordinary commercial speech used as the journalism test while newsgathering, investigation, or publication that functions as journalism is absent.
 
 ---
@@ -247,8 +247,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) (*Materiality as constitutional measurement*); 原則： [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (proportionality stack read with material effects).
-- あわせて読む： [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [システム的実質性](core_05_band_accountability.md#systemic-materiality), and [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治).
+- 下流： 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) (*Materiality as constitutional measurement*); 原則： [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (**Materiality** DEC stack; evaluation completeness); [6.1 中核の取引原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
+- あわせて読む： [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [システム的実質性](../../core_05.035_band_accountability.md), and [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治).
 
 </details>
 
@@ -264,9 +264,9 @@ Implication can exist without misalignment. Misalignment always implies material
   - **第一次の測定：** 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) — threshold input for [実質性の判定](core_05_band_oversight.md#実質性の判定).
 
     **第一次の評価：** Ask whether the conditions can produce meaningful [実質的影響](core_05_band_oversight.md#実質的影響) or [実質的リスク](core_05_band_oversight.md#実質的リスク) when you look at the whole system, not just a slice.
-  - **第二次の測定：** [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), and [システム的実質性](core_05_band_accountability.md#systemic-materiality) — co-measures that can defeat material classification when effects are fragmented or understated.
+  - **第二次の測定：** [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), and [システム的実質性](../../core_05.035_band_accountability.md) — co-measures that can defeat material classification when effects are fragmented or understated.
 
-    **第二次の評価：** 第一次の測定を点検するとき、 ask whether effects that look small one by one would still look small if you put them together — including system-wide [システム的実質性](core_05_band_accountability.md#systemic-materiality) pathways.
+    **第二次の評価：** 第一次の測定を点検するとき、 ask whether effects that look small one by one would still look small if you put them together — including system-wide [システム的実質性](../../core_05.035_band_accountability.md) pathways.
 <a id="material-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：** ignoring conditions that [実質性の判定](core_05_band_oversight.md#実質性の判定) would treat as material.
@@ -283,7 +283,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - 下流： 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) (*Materiality as constitutional measurement*); 原則： [実質的利害](core_00_preamble.md#material-stake) scaling proxy; 第一章 surfaces this definition across **Safety** (**第一章 §8.1**), **Truth** (**第一章 §8.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **第一章 §6.3.2** where **Materiality** appears in D/A/C widgets — see [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) as the principal systems-evaluation home.
 - クラスター構成要素： [実質性、影響、リスク、および代替指標の誠実性](core_05_band_oversight.md#materiality-semi-independent).
-- あわせて読む： [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [システム的実質性](core_05_band_continuity.md#systemic-materiality), and [監査可能性](core_05_band_oversight.md#監査可能性).
+- あわせて読む： [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [システム的実質性](../../core_05.040_band_continuity.md#systemic-materiality), and [監査可能性](core_05_band_oversight.md#監査可能性).
 
 </details>
 
@@ -293,8 +293,8 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - **それが何か**
   - **範囲内：** Classification decisions that ask whether [実質的影響](core_05_band_oversight.md#実質的影響) or [実質的リスク](core_05_band_oversight.md#実質的リスク) is constitutionally material for:
-    - a system (including [システム的実質性](core_05_band_continuity.md#systemic-materiality)); or
-    - an event, incident, or episode (including prospective [危害](core_05_band_accountability.md#harm) under [実質的リスク](core_05_band_oversight.md#実質的リスク)),
+    - a system (including [システム的実質性](../../core_05.040_band_continuity.md#systemic-materiality)); or
+    - an event, incident, or episode (including prospective [危害](../../core_05.035_band_accountability.md#harm) under [実質的リスク](core_05_band_oversight.md#実質的リスク)),
     when you look at the connected whole rather than isolated pieces.
   - **範囲外：**
     - [実質](core_05_band_oversight.md#実質) threshold trivia, cosmetics, or mere paperwork significance with no stake-scaled duty change; or
@@ -304,20 +304,20 @@ Implication can exist without misalignment. Misalignment always implies material
 - **測定と評価の仕方**
   - **第一次の測定：** Under [実質的利害](core_00_preamble.md#material-stake), ask whether effects are big enough to change which duties apply when you look at the connected whole — for the system or event at issue — covering:
     - [実質的影響](core_05_band_oversight.md#実質的影響);
-    - [実質的リスク](core_05_band_oversight.md#実質的リスク) (including prospective [危害](core_05_band_accountability.md#harm)); and
-    - [システム的実質性](core_05_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
+    - [実質的リスク](core_05_band_oversight.md#実質的リスク) (including prospective [危害](../../core_05.035_band_accountability.md#harm)); and
+    - [システム的実質性](../../core_05.040_band_continuity.md#systemic-materiality) (when system-wide effects are in play).
 
     **第一次の評価：** Include all kinds of effects that matter for the case, covering:
     - realized impact;
     - prospective harm; and
-    - [システム的実質性](core_05_band_continuity.md#systemic-materiality) where relevant,
+    - [システム的実質性](../../core_05.040_band_continuity.md#systemic-materiality) where relevant,
     and explain the conclusion for the connected whole, not just a convenient slice.
 
-    For an event, ask whether it is relevant to a sentient's [福祉](core_05_band_continuity.md#wellbeing) — including plausible prospective harm to that wellbeing — not only to:
+    For an event, ask whether it is relevant to a sentient's [福祉](../../core_05.040_band_continuity.md#wellbeing) — including plausible prospective harm to that wellbeing — not only to:
     - system 指標；
     - process labels; or
     - institutional convenience.
-  - **第二次の測定：** [依存](core_05_band_continuity.md#dependency) — check whether calling something "not material" only works because the pieces were judged separately, while the connected whole would count as material. For an event affecting a sentient, include downstream effects that travel through dependency — not only the immediate hit on that sentient.
+  - **第二次の測定：** [依存](../../core_05.040_band_continuity.md#dependency) — check whether calling something "not material" only works because the pieces were judged separately, while the connected whole would count as material. For an event affecting a sentient, include downstream effects that travel through dependency — not only the immediate hit on that sentient.
 
     **第二次の評価：** 第一次の測定を点検するとき、 ask whether the classification would change if you looked at the pieces together instead of one by one, including:
     - isolation;
@@ -336,7 +336,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - A Materiality Determination holds only if the classification is written down, [監査可能性](core_05_band_oversight.md#監査可能性), and tied to effects that actually matter constitutionally.
   - **第一次の失敗：**
     - paper-only or immaterial labels with no real change to which constitutional duties apply — governance, oversight, capability requirements, or other stake-scaled duties for the system or event at issue;
-    - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [福祉](core_05_band_continuity.md#wellbeing); or
+    - determinations that skip material effect types — including prospective harm for an event, or whether the event is relevant to a sentient's [福祉](../../core_05.040_band_continuity.md#wellbeing); or
     - determinations that lack a justified conclusion.
   - **第二次の失敗：** calling collectively material effects immaterial by:
     - splitting them up;
@@ -410,7 +410,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - **関連する運営当事者を合算する：** 実質的に一つの運営である運営当事者の活動は合算する。同じ感知者、事務所、または運営当事者が各当事者の活動（何を提供し、誰に、どの条件で提供するか、または継続するか）を指示または覆す権限を持つ場合、あるいは同じ活動を一つのサービスの一部として行う場合、それらは一つの運営である。これは共通の実務上の支配に関する独立した判定であり、運営当事者の活動に適用し、一つの行為における席の独立性とは区別する。資金提供だけ、施設・業者の共有、構成員の重複、または共同専門職実務で同じ受入側の手段を使うこと（**CI-4.7**）だけでは合算しない。資金提供者を含めるのは、その資金が活動を指示または覆す権限を与える場合に限る。
   - **負荷がかかった共有システム：** 複数の運営当事者が、すでに逼迫している同じ河川、市場、またはネットワークに負荷を加える場合、各当事者を単独ではなく全体の負荷への限界寄与で評価する。意味のある寄与は実質的であり、些細な寄与は、システム全体が閾値を超えていても実質的ではない。
 <a id="domain-specific-materiality-c"></a>
-- **異議申立ての経路：** 既存の手続を用い、この項目は新たな機関、フォーラム、料金を設けない。システムは[§7.4 システム分類記録への異議申立て](../../corpus_systems/cs_03_a_system_classification_machinery.md#74-challenge-and-contestability)、制度は[第九章D部§14.2](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers)と[§14.4](../../core_09.020_institutional_alignment_certification.md#144-challenge-path)。申立てでは、特定領域の具体的な閾値超過を示し、運営当事者は書面の根拠で応答する。
+- **異議申立ての経路：** 既存の手続を用い、この項目は新たな機関、フォーラム、料金を設けない。システムは[§7.4 システム分類記録への異議申立て](../../corpus_systems/cs_09.305_system_classification_machinery.md#74-challenge-and-contestability)、制度は[第九章D部§14.2](../../core_09.020_institutional_alignment_certification.md#142-reopening-triggers)と[§14.4](../../core_09.020_institutional_alignment_certification.md#144-challenge-path)。申立てでは、特定領域の具体的な閾値超過を示し、運営当事者は書面の根拠で応答する。
   - まず運営当事者の公表済み手続が[第二十六条C](../../core_06.025_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)の期限内に応答する。解決しない、または応答がない場合にフォーラムへ進み、遅延が権利・証拠・独立性を危うくする場合は直接申し立てられる。
   - 具体的な閾値超過を示さない申立ては補完のため返される。これは本案判断ではなく、申立人の期限を消費せず、再提出できる。フォーラムでは通常の受付区分に回し、受付時に却下しない。
   - 同じ運営当事者、または一つの運営とみなされる運営当事者に対する同じ閾値の申立ては併合して審理する。
@@ -428,7 +428,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
 - 憲法上の枠組み：[憲法上の四分法](../../core_00.000_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](../../core_00.000_preamble.md#two-constitutional-aims)、[実質的利害](../../core_00.000_preamble.md#material-stake)。
-- 下流：[領域別の重要性](core_05_band_oversight.md#領域別の重要性)、[第七章 §3 システム憲章および制度憲章が必要となる場合](../../core_07.000_charters.md#3-when-system-and-institutional-charters-are-required)、**CS-3**、[憲章当事者](../../core_05.040_band_continuity.md#chartered-party)。
+- 下流：[領域別の重要性](core_05_band_oversight.md#領域別の重要性)、[第七章 §3 システム憲章および制度憲章が必要となる場合](core_07_charters.md#1-when-system-and-institutional-charters-are-required)、**CS-3**、[憲章当事者](../../core_05.040_band_continuity.md#chartered-party)。
 - 運営当事者とは、システム、制度、またはより小さな集団のいずれかが判明する前に、領域別の重要性に関する九つの問いを適用する相手をいう。すべての憲章当事者は運営当事者だが、憲章を公表していないクラスPの運営当事者は憲章当事者ではない。この名称は義務、分類、門戸を追加しない。
 
 </details>
@@ -452,8 +452,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 原則： [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
-- あわせて読む： [実質性の判定](core_05_band_oversight.md#実質性の判定), [システムの境界](core_05_band_continuity.md#system-boundaries), [システム境界の誠実性](core_05_band_continuity.md#system-boundary-integrity), [システム的実質性](core_05_band_accountability.md#systemic-materiality), [監査可能性](core_05_band_oversight.md#監査可能性), and [説明責任](core_05_apex_accountability_leg.md#accountability).
+- 下流： 原則： [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (aggregation and boundary integrity in evaluation); [§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) (metric/reality gaps that can manipulate materiality).
+- あわせて読む： [実質性の判定](core_05_band_oversight.md#実質性の判定), [システムの境界](../../core_05.040_band_continuity.md#system-boundaries), [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity), [システム的実質性](../../core_05.035_band_accountability.md), [監査可能性](core_05_band_oversight.md#監査可能性), and [説明責任](core_05_apex_accountability_leg.md#accountability).
 
 </details>
 
@@ -462,7 +462,7 @@ Implication can exist without misalignment. Misalignment always implies material
 *平たい言葉で言えば： you may not make a big problem look small by redrawing boxes, splitting pieces, or reclassifying your way out of it.*
 
 - **それが何か**
-  - **範囲内：** A ban on shrinking materiality by manipulating [システムの境界](core_05_band_continuity.md#system-boundaries), aggregation, or classification contrary to [システム境界の誠実性](core_05_band_continuity.md#system-boundary-integrity).
+  - **範囲内：** A ban on shrinking materiality by manipulating [システムの境界](../../core_05.040_band_continuity.md#system-boundaries), aggregation, or classification contrary to [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity).
   - **範囲外：** Ordinary disagreement about materiality, or honest boundary clarification that does not shrink collectively material effects through splitting, aggregation games, or reclassification.
 <a id="materiality-integrity-constraint-a"></a>
 - **測定と評価の仕方**
@@ -472,9 +472,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - splitting;
     - aggregation avoidance; and
     - boundary games.
-  - **第二次の測定：** [システム的実質性](core_05_band_accountability.md#systemic-materiality), [実質性の判定](core_05_band_oversight.md#実質性の判定), [監査可能性](core_05_band_oversight.md#監査可能性), and [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) — co-measures that defeat manipulation or proxy gaming of materiality.
+  - **第二次の測定：** [システム的実質性](../../core_05.035_band_accountability.md), [実質性の判定](core_05_band_oversight.md#実質性の判定), [監査可能性](core_05_band_oversight.md#監査可能性), and [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) — co-measures that defeat manipulation or proxy gaming of materiality.
 
-    **第二次の評価：** 第一次の測定を点検するとき、 include [システム的実質性](core_05_band_accountability.md#systemic-materiality), [監査可能性](core_05_band_oversight.md#監査可能性), and [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) paths that would hide collectively material effects.
+    **第二次の評価：** 第一次の測定を点検するとき、 include [システム的実質性](../../core_05.035_band_accountability.md), [監査可能性](core_05_band_oversight.md#監査可能性), and [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) paths that would hide collectively material effects.
 <a id="materiality-integrity-constraint-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：** treating collectively material effects as immaterial through structural manipulation.
@@ -489,9 +489,9 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) (*Materiality as constitutional measurement*); 原則： [実質的利害](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 分散した理解](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 比例](core_01_b_interaction_interpretation.md#613-proportionality) (material impact in the tradeoff index).
+- 下流： 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) (*Materiality as constitutional measurement*); 原則： [実質的利害](core_00_preamble.md#material-stake) scaling proxy; [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§9.2 分散した理解](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) (understanding scales with **Materiality**); [6.1.3 比例](core_01_b_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
 - クラスター構成要素： [実質性、影響、リスク、および代替指標の誠実性](core_05_band_oversight.md#materiality-semi-independent).
-- あわせて読む： [危害](core_05_band_accountability.md#harm), [リスク](core_05_band_continuity.md#risk), [システム的実質性](core_05_band_accountability.md#systemic-materiality), [依存](core_05_band_continuity.md#dependency), [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治), [監督](core_05_apex_oversight_leg.md#oversight-constitutional), and [透明性](core_05_band_oversight.md#透明性).
+- あわせて読む： [危害](../../core_05.035_band_accountability.md#harm), [リスク](../../core_05.040_band_continuity.md#risk), [システム的実質性](../../core_05.035_band_accountability.md), [依存](../../core_05.040_band_continuity.md#dependency), [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治), [監督](core_05_apex_oversight_leg.md#oversight-constitutional), and [透明性](core_05_band_oversight.md#透明性).
 
 </details>
 
@@ -500,7 +500,7 @@ Implication can exist without misalignment. Misalignment always implies material
 *平たい言葉で言えば： how far the effects reach, how big they are, and how severe — looking at the whole system, not just the headline or the paperwork.*
 
 - **それが何か**
-  - **範囲内：** Effects for [危害](core_05_band_accountability.md#harm), [リスク](core_05_band_continuity.md#risk), and constitutional evaluation, covering:
+  - **範囲内：** Effects for [危害](../../core_05.035_band_accountability.md#harm), [リスク](../../core_05.040_band_continuity.md#risk), and constitutional evaluation, covering:
     - how far they reach;
     - how large they are; and
     - how severe they are.
@@ -518,9 +518,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - delayed 効果；
     - cumulative 効果； and
     - cross-system consequences.
-  - **第二次の測定：** [危害](core_05_band_accountability.md#harm), [リスク](core_05_band_continuity.md#risk), [システム的実質性](core_05_band_accountability.md#systemic-materiality), and [依存](core_05_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
+  - **第二次の測定：** [危害](../../core_05.035_band_accountability.md#harm), [リスク](../../core_05.040_band_continuity.md#risk), [システム的実質性](../../core_05.035_band_accountability.md), and [依存](../../core_05.040_band_continuity.md#dependency) — co-measures that can defeat impact assessment when looking only at pieces understates effects.
 
-    **第二次の評価：** 第一次の測定を点検するとき、 include [システム的実質性](core_05_band_accountability.md#systemic-materiality), [依存](core_05_band_continuity.md#dependency), and cross-system spread that would change the material classification.
+    **第二次の評価：** 第一次の測定を点検するとき、 include [システム的実質性](../../core_05.035_band_accountability.md), [依存](../../core_05.040_band_continuity.md#dependency), and cross-system spread that would change the material classification.
 <a id="material-impact-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：**
@@ -537,8 +537,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) (*Materiality as constitutional measurement*); 原則： [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 比例](core_01_b_interaction_interpretation.md#613-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
-- あわせて読む： [危害](core_05_band_accountability.md#harm), [不可逆的危害](core_05_band_accountability.md#irreversible-harm), [リスク](core_05_band_continuity.md#risk), [安全（制約）](core_05_band_continuity.md#safety-constraint), and [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治).
+- 下流： 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) (*Materiality as constitutional measurement*); 原則： [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (tail risks, existential risk posture); [6.1.3 比例](core_01_b_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+- あわせて読む： [危害](../../core_05.035_band_accountability.md#harm), [不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm), [リスク](../../core_05.040_band_continuity.md#risk), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), and [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治).
 
 </details>
 
@@ -547,13 +547,13 @@ Implication can exist without misalignment. Misalignment always implies material
 *平たい言葉で言えば： how likely harm is, how fast it can arrive, and how hard it is to undo — including rare but severe outcomes.*
 
 - **それが何か**
-  - **範囲内：** Prospective [危害](core_05_band_accountability.md#harm), covering:
+  - **範囲内：** Prospective [危害](../../core_05.035_band_accountability.md#harm), covering:
     - how likely it is;
     - how fast it can arrive; and
     - how hard it is to undo.
   - **範囲外：**
     - speculative worry without a plausible harm pathway; or
-    - realized [危害](core_05_band_accountability.md#harm) already in hand —
+    - realized [危害](../../core_05.035_band_accountability.md#harm) already in hand —
     that sits under Harm / [実質的影響](core_05_band_oversight.md#実質的影響), not prospective risk alone.
 <a id="material-risk-a"></a>
 - **測定と評価の仕方**
@@ -562,17 +562,17 @@ Implication can exist without misalignment. Misalignment always implies material
     **第一次の評価：** Looking at the whole system, include:
     - expected outcomes;
     - rare-but-severe (tail) outcomes;
-    - how fast [危害](core_05_band_accountability.md#harm) can arrive; and
+    - how fast [危害](../../core_05.035_band_accountability.md#harm) can arrive; and
     - how irreversible that harm can be.
-  - **第二次の測定：** [危害](core_05_band_accountability.md#harm), [不可逆的危害](core_05_band_accountability.md#irreversible-harm), [リスク](core_05_band_continuity.md#risk), and [安全（制約）](core_05_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
+  - **第二次の測定：** [危害](../../core_05.035_band_accountability.md#harm), [不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm), [リスク](../../core_05.040_band_continuity.md#risk), and [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint) — co-measures that can defeat risk classification when tail or systemic pathways are ignored.
 
-    **第二次の評価：** 第一次の測定を点検するとき、 include [不可逆的危害](core_05_band_accountability.md#irreversible-harm), [リスク](core_05_band_continuity.md#risk), and [安全（制約）](core_05_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
+    **第二次の評価：** 第一次の測定を点検するとき、 include [不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm), [リスク](../../core_05.040_band_continuity.md#risk), and [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint) paths that would change the material-risk classification.
 <a id="material-risk-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：**
     - realized harm labeled as only future risk; or
-    - material risk not addressed and constrained under [安全（制約）](core_05_band_continuity.md#safety-constraint), [リスク](core_05_band_continuity.md#risk), and [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治).
-  - **第二次の失敗：** tail or irreversible pathways excluded when [不可逆的危害](core_05_band_accountability.md#irreversible-harm) remains plausible.
+    - material risk not addressed and constrained under [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [リスク](../../core_05.040_band_continuity.md#risk), and [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治).
+  - **第二次の失敗：** tail or irreversible pathways excluded when [不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm) remains plausible.
 
 ---
 
@@ -583,8 +583,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 原則： [6.1.3 比例](core_01_b_interaction_interpretation.md#613-proportionality) (reversibility under uncertainty); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
-- あわせて読む： [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [不可逆的危害](core_05_band_accountability.md#irreversible-harm), [安全（制約）](core_05_band_continuity.md#safety-constraint), and [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治).
+- 下流： 原則： [6.1.3 比例](core_01_b_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (precaution against omitted harms).
+- あわせて読む： [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), and [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治).
 
 </details>
 
@@ -602,17 +602,17 @@ Implication can exist without misalignment. Misalignment always implies material
 - **測定と評価の仕方**
   - **第一次の測定：** 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) — precautionary default when materiality cannot be excluded.
 
-    **第一次の評価：** Default to precaution when you cannot rule materiality out — including when [不可逆的危害](core_05_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
-  - **第二次の測定：** [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [不可逆的危害](core_05_band_accountability.md#irreversible-harm), and [安全（制約）](core_05_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
+    **第一次の評価：** Default to precaution when you cannot rule materiality out — including when [不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm) remains plausible under uncertainty.
+  - **第二次の測定：** [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm), and [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint) — co-measures that require conservative classification under uncertainty.
 
-    **第二次の評価：** 第一次の測定を点検するとき、 include [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), and [安全（制約）](core_05_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
+    **第二次の評価：** 第一次の測定を点検するとき、 include [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), and [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint) paths that would require a conservative default classification.
 <a id="materiality-under-uncertainty-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：**
     - waiting for certainty before classifying while material impact or risk remains uncertain;
     - optimistic low classification while material impact or risk remains uncertain; or
     - failure to default to conservative classification under uncertainty where [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治) requires it.
-  - **第二次の失敗：** optimism or informal low classification where [不可逆的危害](core_05_band_accountability.md#irreversible-harm) or [安全（制約）](core_05_band_continuity.md#safety-constraint) requires precaution.
+  - **第二次の失敗：** optimism or informal low classification where [不可逆的危害](../../core_05.035_band_accountability.md#irreversible-harm) or [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint) requires precaution.
 
 ---
 
@@ -623,9 +623,9 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); 原則： [§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation), [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- 下流： Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); 原則： [§6.2.4 代替指標乖離による無効化](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation), [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - クラスター構成要素： [実質性、影響、リスク、および代替指標の誠実性](core_05_band_oversight.md#materiality-semi-independent).
-- あわせて読む： [実質性の判定](core_05_band_oversight.md#実質性の判定), [実質性の誠実性制約](core_05_band_oversight.md#実質性の誠実性制約), [システム境界の誠実性](core_05_band_continuity.md#system-boundary-integrity), [誘因整合](core_05_band_integrative.md#誘因整合), [監査可能性](core_05_band_oversight.md#監査可能性), and [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約).
+- あわせて読む： [実質性の判定](core_05_band_oversight.md#実質性の判定), [実質性の誠実性制約](core_05_band_oversight.md#実質性の誠実性制約), [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity), [誘因整合](core_05_band_integrative.md#誘因整合), [監査可能性](core_05_band_oversight.md#監査可能性), and [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約).
 
 </details>
 
@@ -671,9 +671,9 @@ Implication can exist without misalignment. Misalignment always implies material
     - adversarial adaptation; and
     - aggregate harms hidden by favorable local indicators —
     together with [実質性の判定](core_05_band_oversight.md#実質性の判定) and [監査可能性](core_05_band_oversight.md#監査可能性).
-  - **第三次の測定：** [福祉](core_05_band_continuity.md#wellbeing), [安全（制約）](core_05_band_continuity.md#safety-constraint), and 権利の床 outcomes — where proxies stand in for what sentients actually experience.
+  - **第三次の測定：** [福祉](../../core_05.040_band_continuity.md#wellbeing), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), and 権利の床 outcomes — where proxies stand in for what sentients actually experience.
 
-    **第三次の評価：** Where proxies stand in for outcome measures, trace to [福祉](core_05_band_continuity.md#wellbeing), [安全（制約）](core_05_band_continuity.md#safety-constraint), or 権利の床 delivery — separate durable constitutional outcomes from proxy throughput.
+    **第三次の評価：** Where proxies stand in for outcome measures, trace to [福祉](../../core_05.040_band_continuity.md#wellbeing), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), or 権利の床 delivery — separate durable constitutional outcomes from proxy throughput.
 <a id="proxy-divergence-c"></a>
 - **成り立たねばならないこと**
   - A system satisfies **Proxy Divergence** discipline only if proxies stay aligned with constitutionally material reality under full-system conditions — including when incentives or design would otherwise cook the score.
@@ -694,8 +694,8 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 原則： [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [第一章 §3 交渉不能の原則制約：安全と真理](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
-- あわせて読む： [実質性の判定](core_05_band_oversight.md#実質性の判定), [システム的実質性](core_05_band_accountability.md#systemic-materiality), [リスク](core_05_band_continuity.md#risk), [安全（制約）](core_05_band_continuity.md#safety-constraint), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), and [意味ある行為主体性](core_05_band_participation.md#meaningful-agency).
+- 下流： 原則： [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [第一章 §3 交渉不能の原則制約：安全と真理](core_01_a_values_principles.md) (**Safety** / **Truth** degradation paths).
+- あわせて読む： [実質性の判定](core_05_band_oversight.md#実質性の判定), [システム的実質性](../../core_05.035_band_accountability.md), [リスク](../../core_05.040_band_continuity.md#risk), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), and [意味ある行為主体性](../../core_05.055_band_participation.md#meaningful-agency).
 
 </details>
 
@@ -705,22 +705,22 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - **それが何か**
   - **範囲内：** A non-trivial drop in how well a protected constitutional condition holds, covering:
-    - [安全（制約）](core_05_band_continuity.md#safety-constraint);
+    - [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint);
     - [認識的誠実性](core_05_band_oversight.md#認識的誠実性); or
-    - [意味ある行為主体性](core_05_band_participation.md#meaningful-agency).
+    - [意味ある行為主体性](../../core_05.055_band_participation.md#meaningful-agency).
   - **範囲外：** Trivial dips in operational metrics or system throughput, planned maintenance, or temporary blips that do not meaningfully reduce safety, epistemic integrity, or meaningful agency.
 <a id="material-degradation-a"></a>
 - **測定と評価の仕方**
   - **第一次の測定：** 統合的実質性 ([実質性の判定](core_05_band_oversight.md#実質性の判定)) — degradation signal for materiality classification.
 
-    **第一次の評価：** Include scaling and system-wide effects under [システム的実質性](core_05_band_accountability.md#systemic-materiality) and [リスク](core_05_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
-  - **第二次の測定：** [実質性の判定](core_05_band_oversight.md#実質性の判定), [システム的実質性](core_05_band_accountability.md#systemic-materiality), [リスク](core_05_band_continuity.md#risk), and [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) — co-measures that can defeat degradation assessment when proxies hide decline.
+    **第一次の評価：** Include scaling and system-wide effects under [システム的実質性](../../core_05.035_band_accountability.md) and [リスク](../../core_05.040_band_continuity.md#risk) when judging a non-trivial drop in protected conditions.
+  - **第二次の測定：** [実質性の判定](core_05_band_oversight.md#実質性の判定), [システム的実質性](../../core_05.035_band_accountability.md), [リスク](../../core_05.040_band_continuity.md#risk), and [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) — co-measures that can defeat degradation assessment when proxies hide decline.
 
     **第二次の評価：** 第一次の測定を点検するとき、 apply [実質性の判定](core_05_band_oversight.md#実質性の判定) and [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) where metrics hide material degradation.
 <a id="material-degradation-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：** material degradation not treated as material under [実質性の判定](core_05_band_oversight.md#実質性の判定).
-  - **第二次の失敗：** keeping proxy indicators looking stable while [安全（制約）](core_05_band_continuity.md#safety-constraint), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), or [意味ある行為主体性](core_05_band_participation.md#meaningful-agency) materially degrades.
+  - **第二次の失敗：** keeping proxy indicators looking stable while [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), or [意味ある行為主体性](../../core_05.055_band_participation.md#meaningful-agency) materially degrades.
 
 ---
 
@@ -740,7 +740,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [実質的利害](core_00_preamble.md#material-stake) via [実質性の判定](core_05_band_oversight.md#実質性の判定).
 - 第一章 basis: 第一章 §8.2, §4, §12.1, §12.2 (see [羅針](core_05__definitions_home.md#第五章の羅針と定義地図) map).
-- あわせて読む： Apply [説明責任](core_05_apex_accountability_leg.md#accountability), [争訟可能性](core_05_band_accountability.md#contestability), [手続的公正](core_05_band_participation.md#procedural-fairness-constitutional), [保護された通報（内部告発）](core_05_band_accountability.md#protected-reporting-whistleblowing), [実質性の判定](core_05_band_oversight.md#実質性の判定), [リスク](core_05_band_continuity.md#risk), [安全（制約）](core_05_band_continuity.md#safety-constraint), [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), and 第二から第四章 mechanics where 実質的に関わる.
+- あわせて読む： Apply [説明責任](core_05_apex_accountability_leg.md#accountability), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [手続的公正](../../core_05.055_band_participation.md#procedural-fairness-constitutional), [保護された通報（内部告発）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing), [実質性の判定](core_05_band_oversight.md#実質性の判定), [リスク](../../core_05.040_band_continuity.md#risk), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), and 第二から第四章 mechanics where 実質的に関わる.
 
 </details>
 
@@ -760,7 +760,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when 第二から第四章 require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**監督の枠。** Under the [憲法四元](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [第七章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**監督の枠。** Under the [憲法四元](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [第七章](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **システム階級と比例。** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — システムの分類と取扱い**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - より深い保証；
@@ -796,8 +796,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 下流： 原則： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 責務ある管理と分散理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.2.1 認識的誠実性の保全](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- あわせて読む： [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), [争訟可能性](core_05_band_accountability.md#contestability), [監査可能性](core_05_band_oversight.md#監査可能性), [公的監督の基線開示](core_05_band_oversight.md#公的監督の基線開示), [リスク開示](core_05_band_oversight.md#リスク開示), [検証可能性](core_05_band_oversight.md#検証可能性), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — 情報の型と取扱い** (**Type O** — open public oversight baseline disclosure data).
+- 下流： 原則： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [§9 責務ある管理と分散理解](core_01_c_stewardship_capacity_principles.md), [6.2.1 認識的誠実性の保全](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- あわせて読む： [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [監査可能性](core_05_band_oversight.md#監査可能性), [公的監督の基線開示](core_05_band_oversight.md#公的監督の基線開示), [リスク開示](core_05_band_oversight.md#リスク開示), [検証可能性](core_05_band_oversight.md#検証可能性), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — 情報の型と取扱い** (**Type O** — open public oversight baseline disclosure data).
 
 </details>
 
@@ -806,9 +806,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 *平たい言葉で言えば： telling affected sentients enough about how a system works, its limits, and its risks that they can genuinely understand and question it — not burying them in noise.*
 
 - **それが何か**
-  - **範囲内：** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [認識的誠実性](core_05_band_oversight.md#認識的誠実性) and [6.2 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+  - **範囲内：** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [認識的誠実性](core_05_band_oversight.md#認識的誠実性) and [6.2 認識的開示の制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
     - If a material system, institution, forum process, or similar governed domain can lawfully publish online, its baseline transparency disclosure must be free to the public at the access level its class requires — not behind a paywall or available only to insiders — wherever [公的監督の基線開示](core_05_band_oversight.md#公的監督の基線開示) applies.
-    - If publishing the raw material would break lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [争訟可能性](core_05_band_accountability.md#contestability) — for example:
+    - If publishing the raw material would break lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [争訟可能性](../../core_05.035_band_accountability.md#contestability) — for example:
       - aggregation;
       - de-identification;
       - summary disclosure;
@@ -823,8 +823,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： affected parties get decision-relevant clarity about function, limits, and risk — not volume, noise, or insider-only access.
 
-    **第一次の評価：** Compare what is disclosed to [実質的影響](core_05_band_oversight.md#実質的影響) and [依存](core_05_band_continuity.md#dependency).
-  - **第二次の測定：** [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [実質的影響](core_05_band_oversight.md#実質的影響), [依存](core_05_band_continuity.md#dependency), [監査可能性](core_05_band_oversight.md#監査可能性), and [検証可能性](core_05_band_oversight.md#検証可能性) — co-measures that can defeat transparency even when disclosure volume is high.
+    **第一次の評価：** Compare what is disclosed to [実質的影響](core_05_band_oversight.md#実質的影響) and [依存](../../core_05.040_band_continuity.md#dependency).
+  - **第二次の測定：** [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [実質的影響](core_05_band_oversight.md#実質的影響), [依存](../../core_05.040_band_continuity.md#dependency), [監査可能性](core_05_band_oversight.md#監査可能性), and [検証可能性](core_05_band_oversight.md#検証可能性) — co-measures that can defeat transparency even when disclosure volume is high.
 
     **第二次の評価：** When checking the primary answer:
     - spot volume, obscurity, or formatting standing in for decision-relevant clarity; and
@@ -843,7 +843,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **第一次の失敗：**
     - a data dump, mountain of documents, paywall, or insider-only access with no real decision-relevant clarity about function and risk for affected sentients; or
     - material omissions or disclosures that foreseeably block informed participation or [監督](core_05_apex_oversight_leg.md#oversight-constitutional) where required.
-  - **第二次の失敗：** safety- or security-framed limits that defeat materially required clarity without satisfying [必要性](core_05_band_accountability.md#necessity) and [比例性](core_05_band_accountability.md#proportionality).
+  - **第二次の失敗：** safety- or security-framed limits that defeat materially required clarity without satisfying [必要性](../../core_05.035_band_accountability.md#necessity) and [比例性](../../core_05.035_band_accountability.md#proportionality).
   - **第三次の失敗：** disclosure volume or formatting treated as decisive where [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) is reasonably observable.
 
 ---
@@ -856,8 +856,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 下流： **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§6](../../core_09.010_system_alignment_certification_record_process.md#6-system-certification-record) (*Certification record*); [§6.2](../../core_09.010_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) (*Transparency, auditability, and contestability*).
-- あわせて読む： [透明性](core_05_band_oversight.md#透明性), [争訟可能性](core_05_band_accountability.md#contestability), [監査可能性](core_05_band_oversight.md#監査可能性), [リスク開示](core_05_band_oversight.md#リスク開示), [チャーター](core_05_band_continuity.md#charter), [システムの境界](core_05_band_continuity.md#system-boundaries), [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional), [システム認証記録](core_05_band_continuity.md#system-certification-record-constitutional), [システム分類記録](core_05_band_continuity.md#system-classification-record-constitutional), [システムデータ種類記録](core_05_band_continuity.md#system-data-types-record-constitutional), [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — 情報の型と取扱い** (**Type O**).
+- 下流： **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_06.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§3.4](../../core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§6](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) (*Certification record*); [§6.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability) (*Transparency, auditability, and contestability*).
+- あわせて読む： [透明性](core_05_band_oversight.md#透明性), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [監査可能性](core_05_band_oversight.md#監査可能性), [リスク開示](core_05_band_oversight.md#リスク開示), [チャーター](../../core_05.040_band_continuity.md), [システムの境界](../../core_05.040_band_continuity.md#system-boundaries), [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional), [システム分類記録](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [システムデータ種類記録](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), [分類に応じた統治](core_05_band_oversight.md#分類に応じた統治), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — 情報の型と取扱い** (**Type O**).
 
 </details>
 
@@ -866,7 +866,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 *平たい言葉で言えば： 高影響システムが感知者に理解・監督・異議を可能にするために公表しなければならない最小の公的開示 — 目的、階級、依存、状態、リスク、性能、失敗、統治、影響を受ける側への効果、憲法整合、およびチャーター・分類・データ型付け・認証記録の公的な顔を含む — 生の私的または基線外記録を出せないときは強い公的代替とともに。*
 
 - **それが何か**
-  - **範囲内：** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](../../corpus_systems.md), CS-3 — システムの分類と取扱い**. Coverage follows the governing [チャーター](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [システムの境界](core_05_band_continuity.md#system-boundaries). It includes what sentients need to understand:
+  - **範囲内：** The required public disclosure floor so sentients can oversee and challenge materially impactful systems — especially **Class A**, **Class B**, and **Class C** under **[corpus_systems.md](../../corpus_systems.md), CS-3 — システムの分類と取扱い**. Coverage follows the governing [チャーター](../../core_05.040_band_continuity.md) (or equivalent published scope instrument), assigned class, and observed [システムの境界](../../core_05.040_band_continuity.md#system-boundaries). It includes what sentients need to understand:
     - purpose and what the system does;
     - how it is classified;
     - dependency structure and what depends on it;
@@ -876,10 +876,10 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - stakeholder 効果； and
     - how aligned it is with this Constitution.
   - **Class A/B/C Type O instruments:** Where the **Type O** baseline applies for **Class A**, **Class B**, or **Class C**, that floor includes — at public-baseline fidelity, including lawful substitutes — publication or a usable public view of:
-    - the governing [チャーター](core_05_band_continuity.md#charter) (or equivalent published scope instrument);
-    - the [システム分類記録](core_05_band_continuity.md#system-classification-record-constitutional);
-    - the [システムデータ種類記録](core_05_band_continuity.md#system-data-types-record-constitutional); and
-    - the [システム認証記録](core_05_band_continuity.md#system-certification-record-constitutional) produced by [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
+    - the governing [チャーター](../../core_05.040_band_continuity.md) (or equivalent published scope instrument);
+    - the [システム分類記録](../../core_05.040_band_continuity.md#system-classification-record-constitutional);
+    - the [システムデータ種類記録](../../core_05.040_band_continuity.md#system-data-types-record-constitutional); and
+    - the [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional) produced by [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), including material governance and audit outcomes required for baseline visibility.
   - **Topic satisfaction:** Baseline visibility into purpose, operational status, material risk, performance, failures, and stakeholder effects may be satisfied through those records, [リスク開示](core_05_band_oversight.md#リスク開示) where systemic risk is in scope, and other lawful **Type O** summaries or substitutes — not by omitting the topics.
   - **Lawful substitutes:** Stay in scope where **Type G**, **Type E**, or other source records stay non-public, non-baseline, or otherwise restricted, including:
     - aggregation;
@@ -901,12 +901,12 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **第一次の評価：** Compare published disclosure to certified scope from [チャーター](core_05_band_continuity.md#charter), assigned class, and [システムの境界](core_05_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**, confirm:
-    - a usable public view of the [チャーター](core_05_band_continuity.md#charter), [システム分類記録](core_05_band_continuity.md#system-classification-record-constitutional), [システムデータ種類記録](core_05_band_continuity.md#system-data-types-record-constitutional), and [システム認証記録](core_05_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
+    **第一次の評価：** Compare published disclosure to certified scope from [チャーター](../../core_05.040_band_continuity.md), assigned class, and [システムの境界](../../core_05.040_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)**, confirm:
+    - a usable public view of the [チャーター](../../core_05.040_band_continuity.md), [システム分類記録](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [システムデータ種類記録](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), and [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance are each covered at baseline depth;
-    - that lawful substitutes still support meaningful accountability and [争訟可能性](core_05_band_accountability.md#contestability); and
+    - that lawful substitutes still support meaningful accountability and [争訟可能性](../../core_05.035_band_accountability.md#contestability); and
     - that free online availability holds where lawful publication infrastructure exists.
-  - **第二次の測定：** [透明性](core_05_band_oversight.md#透明性), [争訟可能性](core_05_band_accountability.md#contestability), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [監査可能性](core_05_band_oversight.md#監査可能性), and [リスク開示](core_05_band_oversight.md#リスク開示) — co-measures that can defeat the floor even when some public artifacts exist.
+  - **第二次の測定：** [透明性](core_05_band_oversight.md#透明性), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [監査可能性](core_05_band_oversight.md#監査可能性), and [リスク開示](core_05_band_oversight.md#リスク開示) — co-measures that can defeat the floor even when some public artifacts exist.
 
     **第二次の評価：** 第一次の測定を点検するとき、 look for:
     - thin summaries;
@@ -922,7 +922,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - non-public **Type G** audit access, paywalls, or performative summaries used as the public floor;
     - performative summaries that withhold decision-relevant baseline material;
     - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access;
-    - omitting a usable public view of the [チャーター](core_05_band_continuity.md#charter), [システム分類記録](core_05_band_continuity.md#system-classification-record-constitutional), [システムデータ種類記録](core_05_band_continuity.md#system-data-types-record-constitutional), or [システム認証記録](core_05_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**; or
+    - omitting a usable public view of the [チャーター](../../core_05.040_band_continuity.md), [システム分類記録](../../core_05.040_band_continuity.md#system-classification-record-constitutional), [システムデータ種類記録](../../core_05.040_band_continuity.md#system-data-types-record-constitutional), or [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](../../corpus_systems/cs_06.305_information_types_and_handling.md)**; or
     - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
   - **第三次の失敗：** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 and [透明性](core_05_band_oversight.md#透明性).
 
@@ -936,8 +936,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 下流： Oversight measurement family (*disclosure and assurance as constitutional measurement*); 原則： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Safety](core_01_a_values_principles.md#31-safety-harm-constraint); [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
-- あわせて読む： [リスク評価](core_05_band_continuity.md#risk-evaluation), [リスク](core_05_band_continuity.md#risk), [透明性](core_05_band_oversight.md#透明性), [公的監督の基線開示](core_05_band_oversight.md#公的監督の基線開示), [安全（制約）](core_05_band_continuity.md#safety-constraint), [争訟可能性](core_05_band_accountability.md#contestability), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), and [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional).
+- 下流： Oversight measurement family (*disclosure and assurance as constitutional measurement*); 原則： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Safety](core_01_a_values_principles.md#4-safety-harm-constraint); [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*SAC evaluation-and-disclosure bridge*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+- あわせて読む： [リスク評価](../../core_05.040_band_continuity.md#risk-evaluation), [リスク](../../core_05.040_band_continuity.md#risk), [透明性](core_05_band_oversight.md#透明性), [公的監督の基線開示](core_05_band_oversight.md#公的監督の基線開示), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), and [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional).
 
 </details>
 
@@ -946,27 +946,27 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 *平たい言葉で言えば： tell the sentients who need to know about systemic risk — keeping the evaluation in a drawer does not count.*
 
 - **それが何か**
-  - **範囲内：** Communicating evaluated systemic [リスク](core_05_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
-    - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [透明性](core_05_band_oversight.md#透明性) or [安全（制約）](core_05_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
-    - **SAC verification:** Where [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [システム認証記録](core_05_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
+  - **範囲内：** Communicating evaluated systemic [リスク](../../core_05.040_band_continuity.md#risk) to those who need it so they can understand, challenge, and act.
+    - **Ongoing duty:** The duty is not limited to certification cycles — it applies whenever [透明性](core_05_band_oversight.md#透明性) or [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint) requires that evaluated risk reach the sentients who need it.
+    - **SAC verification:** Where [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs and systemic risk is in scope, this disclosure is part of what certification must verify under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors); findings live on the [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional), not as a separate named risk-disclosure record.
   - **範囲外：**
-    - [リスク評価](core_05_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
+    - [リスク評価](../../core_05.040_band_continuity.md#risk-evaluation) itself — the duty to evaluate systemic risk;
     - [公的監督の基線開示](core_05_band_oversight.md#公的監督の基線開示) as the broader public baseline floor; or
-    - findings placement on the [システム認証記録](core_05_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [システム分類記録](core_05_band_continuity.md#system-classification-record-constitutional) or [システムデータ種類記録](core_05_band_continuity.md#system-data-types-record-constitutional) —
+    - findings placement on the [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional) rather than a peer record species beside the [システム分類記録](../../core_05.040_band_continuity.md#system-classification-record-constitutional) or [システムデータ種類記録](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) —
     それらは各自の本拠に属する.
 <a id="risk-disclosure-a"></a>
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： evaluated systemic risk actually reaches the sentients who need it — not only whether an evaluation exists somewhere.
 
-    **第一次の評価：** Ask whether disclosure is timely, decision-relevant, and sized to 実質的利害 under [透明性](core_05_band_oversight.md#透明性). Read with [リスク評価](core_05_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
-  - **第二次の測定：** [リスク評価](core_05_band_continuity.md#risk-evaluation), [安全（制約）](core_05_band_continuity.md#safety-constraint), [争訟可能性](core_05_band_accountability.md#contestability), and [認識的誠実性](core_05_band_oversight.md#認識的誠実性) — other checks that can show disclosure failed even when some risk wording is on file.
+    **第一次の評価：** Ask whether disclosure is timely, decision-relevant, and sized to 実質的利害 under [透明性](core_05_band_oversight.md#透明性). Read with [リスク評価](../../core_05.040_band_continuity.md#risk-evaluation) — disclosure without evaluation, or evaluation without disclosure, both fail.
+  - **第二次の測定：** [リスク評価](../../core_05.040_band_continuity.md#risk-evaluation), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [争訟可能性](../../core_05.035_band_accountability.md#contestability), and [認識的誠実性](core_05_band_oversight.md#認識的誠実性) — other checks that can show disclosure failed even when some risk wording is on file.
 
     **第二次の評価：** 第一次の測定を点検するとき、 look for walls of text, buried details, insider-only channels, or late notice that keep the sentients who needed the risk picture from actually understanding it in time.
 <a id="risk-disclosure-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：**
-    - failure to disclose risk where [透明性](core_05_band_oversight.md#透明性) or [安全（制約）](core_05_band_continuity.md#safety-constraint) requires it; or
-    - [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
+    - failure to disclose risk where [透明性](core_05_band_oversight.md#透明性) or [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint) requires it; or
+    - [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which risk must be disclosed.
   - **第二次の失敗：** an internal-only note, buried appendix, or after-the-fact statement used as disclosure when the sentients who needed the risk picture could not use it in time.
 
 ---
@@ -979,9 +979,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- あわせて読む： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [説明責任](core_05_apex_accountability_leg.md#accountability), [争訟可能性](core_05_band_accountability.md#contestability), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [透明性](core_05_band_oversight.md#透明性), [検証可能性](core_05_band_oversight.md#検証可能性), [証拠保全](core_05_band_oversight.md#証拠保全), and [評価完全性の制約](core_05_band_oversight.md#評価完全性の制約).
-- あわせて読む： **Article XVI** (*Audit, Transparency, and Independent Verification*); [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) 第二から第四章.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](../../core_06.015_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
+- あわせて読む： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [説明責任](core_05_apex_accountability_leg.md#accountability), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [透明性](core_05_band_oversight.md#透明性), [検証可能性](core_05_band_oversight.md#検証可能性), [証拠保全](core_05_band_oversight.md#証拠保全), and [評価完全性の制約](core_05_band_oversight.md#評価完全性の制約).
+- あわせて読む： **Article XVI** (*Audit, Transparency, and Independent Verification*); [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) 第二から第四章.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](core_06_rights_part_c.md). Three-layer picture: [Article XVI](../../core_06.015_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -992,7 +992,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **それが何か**
   - **範囲内：** Whether outsiders can systematically examine, reconstruct, and evaluate system behavior through enough [検証可能性](core_05_band_oversight.md#検証可能性) — including external detectability and independent validation.
     - **Coverage:** Must span the material times, states, and interaction contexts — not only a single snapshot or happy-path sample.
-    - **Oversight role:** Under the **oversight** Tetrad leg, oversight requires this property; [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
+    - **Oversight role:** Under the **oversight** Tetrad leg, oversight requires this property; [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process that depends on it, among sibling audit modes.
     - **Operational capability:** Where binding duties require operational capability, auditability includes checking that claimed compliance rests on real, reconstructable capability — not text, assertions, or unimplemented controls alone ([権限スタックと内部階層](core_05_band_integrative.md#authority-stack) supremacy effect).
   - **範囲外：**
     - raw logs or [検証可能性](core_05_band_oversight.md#検証可能性) external detectability alone;
@@ -1003,8 +1003,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： outsiders can reconstruct and check what the system did across the material times, states, and contexts — including whether claimed compliance rests on real capability, not paper alone.
 
-    **第一次の評価：** It must work across relevant conditions and [影響を受ける側](core_05_band_participation.md#stakeholder), including conditions relevant to [争訟可能性](core_05_band_accountability.md#contestability) and [監督](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [リスク](core_05_band_continuity.md#risk), and 憲法上の不整合 across:
-    - [システムの境界](core_05_band_continuity.md#system-boundaries);
+    **第一次の評価：** It must work across relevant conditions and [影響を受ける側](../../core_05.055_band_participation.md#stakeholder), including conditions relevant to [争訟可能性](../../core_05.035_band_accountability.md#contestability) and [監督](core_05_apex_oversight_leg.md#oversight-constitutional). Look for material failures, [リスク](../../core_05.040_band_continuity.md#risk), and 憲法上の不整合 across:
+    - [システムの境界](../../core_05.040_band_continuity.md#system-boundaries);
     - operating 状態； and
     - [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件).
     Where a binding duty requires operational capability, ask whether claimed compliance is backed by verified capability — not:
@@ -1013,10 +1013,10 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
       - paper controls;
       - emergency practice; or
       - unobservable claims.
-  - **第二次の測定：** [検証可能性](core_05_band_oversight.md#検証可能性), [証拠保全](core_05_band_oversight.md#証拠保全), and [争訟可能性](core_05_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
+  - **第二次の測定：** [検証可能性](core_05_band_oversight.md#検証可能性), [証拠保全](core_05_band_oversight.md#証拠保全), and [争訟可能性](../../core_05.035_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
 
     **第二次の評価：** When checking the primary answer:
-    - where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([§9.3 制度的発展](core_01_c_stewardship_capacity_principles.md#93-institutional-development); [比例性](core_05_band_accountability.md#proportionality)); and
+    - where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([§9.3 制度的発展](core_01_c_stewardship_capacity_principles.md#162-institutional-development); [比例性](../../core_05.035_band_accountability.md#proportionality)); and
     - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, and effects that matter — and is available for independent [検証可能性](core_05_band_oversight.md#検証可能性) and [監督](core_05_apex_oversight_leg.md#oversight-constitutional).
   - **第三次の測定：** [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
 
@@ -1027,7 +1027,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - audit mechanisms that do not work;
     - failure to enable practical reconstruction and evaluation;
     - a single snapshot, happy-path sample, or narrow window that leaves out material times, states, or interaction contexts;
-    - [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only auditing process or as a substitute for this property;
+    - [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only auditing process or as a substitute for this property;
     - paper claims of constitutional compliance that cannot be reconstructed or challenged; or
     - any of the following used as enough compliance where binding duties require verified operational capability:
       - text;
@@ -1048,7 +1048,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
       - 状態；
       - contexts; or
       - [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件);
-    - supremacy or compliance claims while suppressing [争訟可能性](core_05_band_accountability.md#contestability) or defeating auditable verification.
+    - supremacy or compliance claims while suppressing [争訟可能性](../../core_05.035_band_accountability.md#contestability) or defeating auditable verification.
   - **第三次の失敗：** audit sampling or "the metric looks fine" treated as decisive where [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) is reasonably observable.
 
 ---
@@ -1060,9 +1060,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 下流： 原則： [第一章 §3 交渉不能の原則制約：安全と真理](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [§6 過程衝突の解決](core_05_apex_oversight_leg.md#6-process-conflict-resolution), and [6.2.1 認識的誠実性の保全](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
+- 下流： 原則： [第一章 §3 交渉不能の原則制約：安全と真理](core_01_a_values_principles.md), [§6 過程衝突の解決](core_05_apex_oversight_leg.md), and [6.2.1 認識的誠実性の保全](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- あわせて読む： [監査可能性](core_05_band_oversight.md#監査可能性), [検証可能性](core_05_band_oversight.md#検証可能性), [透明性](core_05_band_oversight.md#透明性), [説明責任](core_05_apex_accountability_leg.md#accountability), [争訟可能性](core_05_band_accountability.md#contestability), [手続的公正](core_05_band_participation.md#procedural-fairness-constitutional), [保護された通報（内部告発）](core_05_band_accountability.md#protected-reporting-whistleblowing), and [救済と是正](core_05_band_accountability.md#redress-and-remediation-constitutional).
+- あわせて読む： [監査可能性](core_05_band_oversight.md#監査可能性), [検証可能性](core_05_band_oversight.md#検証可能性), [透明性](core_05_band_oversight.md#透明性), [説明責任](core_05_apex_accountability_leg.md#accountability), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [手続的公正](../../core_05.055_band_participation.md#procedural-fairness-constitutional), [保護された通報（内部告発）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing), and [救済と是正](../../core_05.035_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
 
@@ -1111,8 +1111,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 下流： Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#61-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_05_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
-- あわせて読む： [監査可能性](core_05_band_oversight.md#監査可能性), [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional), [チャーター](core_05_band_continuity.md#charter), [システムの境界](core_05_band_continuity.md#system-boundaries), [システム境界の誠実性](core_05_band_continuity.md#system-boundary-integrity), [実質性の判定](core_05_band_oversight.md#実質性の判定), [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件), [システムの創出](core_05_band_participation.md#system-creation-constitutional), and [事業の創出](core_05_band_participation.md#business-creation-constitutional).
+- 下流： Oversight measurement family (*evaluation coverage as constitutional measurement*); [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*SAC whole-system evaluation*); [§6.1](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents) (*findings on the System Certification Record*); [CS-5 — Design, testing, verification, and deployment](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md) (*testing, stress, and regression coverage*).
+- あわせて読む： [監査可能性](core_05_band_oversight.md#監査可能性), [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional), [チャーター](../../core_05.040_band_continuity.md), [システムの境界](../../core_05.040_band_continuity.md#system-boundaries), [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity), [実質性の判定](core_05_band_oversight.md#実質性の判定), [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件), [システムの創出](../../core_05.055_band_participation.md#system-creation-constitutional), and [事業の創出](../../core_05.055_band_participation.md#business-creation-constitutional).
 
 </details>
 
@@ -1127,30 +1127,30 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - interaction; and
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
-  - **Charter and scope process:** Where a governing [チャーター](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [システムの境界](core_05_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
-  - **SAC verification:** Where [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [システム認証記録](core_05_band_continuity.md#system-certification-record-constitutional).
+  - **Charter and scope process:** Where a governing [チャーター](../../core_05.040_band_continuity.md) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [システムの境界](../../core_05.040_band_continuity.md#system-boundaries) and plausible pathways inside and at the edge of that scope. Charter text does not shrink the pathways that must be evaluated.
+  - **SAC verification:** Where [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [§3.1](../../core_09.005_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md). Findings live on the [システム認証記録](../../core_05.040_band_continuity.md#system-certification-record-constitutional).
   - **範囲外：**
-    - [チャーター](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
-    - [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
+    - [チャーター](../../core_05.040_band_continuity.md) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
+    - [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
     - ordinary unit or feature tests that are not offered as complete constitutional evaluation.
 <a id="evaluation-completeness-constraint-a"></a>
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： evaluation covers plausible failure, misuse, interaction, and adversarial pathways — not only selective demo scenarios.
 
-    **第一次の評価：** Show enough coverage of plausible pathways, sized to system impact, [依存](core_05_band_continuity.md#dependency), and [リスク](core_05_band_continuity.md#risk), including:
+    **第一次の評価：** Show enough coverage of plausible pathways, sized to system impact, [依存](../../core_05.040_band_continuity.md#dependency), and [リスク](../../core_05.040_band_continuity.md#risk), including:
     - 失敗；
     - 誤用；
     - interaction; and
     - [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件) where material.
     Also ask:
-      - where a [チャーター](core_05_band_continuity.md#charter) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
-      - where [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
+      - where a [チャーター](../../core_05.040_band_continuity.md) exists, whether evaluation tested chartered scope against observed boundaries rather than treating the Charter as a complete scenario list; and
+      - where [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) runs, whether whole-system evaluation and record findings under [§3](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) reflect that coverage.
 <a id="evaluation-completeness-constraint-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：**
     - selective demo scenarios or marketing test suites used as complete evaluation while plausible failure, misuse, interaction, or adversarial pathways remain skipped;
-    - incomplete or selectively scoped evaluation that defeats [実質性の判定](core_05_band_oversight.md#実質性の判定), [監査可能性](core_05_band_oversight.md#監査可能性), or [システム境界の誠実性](core_05_band_continuity.md#system-boundary-integrity); or
-    - [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
+    - incomplete or selectively scoped evaluation that defeats [実質性の判定](core_05_band_oversight.md#実質性の判定), [監査可能性](core_05_band_oversight.md#監査可能性), or [システム境界の誠実性](../../core_05.040_band_continuity.md#system-boundary-integrity); or
+    - [システム整合認証](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) treated as the only context in which evaluation completeness applies.
   - **第二次の失敗：** Charter text, institutional mandate language, business-purpose statements, or a narrow certification demo suite used as complete evaluation while any of the following remain unevaluated:
     - 失敗；
     - 誤用；
@@ -1175,7 +1175,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Owner floor: [Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
-- あわせて読む： [監査可能性](core_05_band_oversight.md#監査可能性), [透明性](core_05_band_oversight.md#透明性), [争訟可能性](core_05_band_accountability.md#contestability), [比例性](core_05_band_accountability.md#proportionality), [実行可能性](core_05_band_accountability.md#feasibility), [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件).
+- あわせて読む： [監査可能性](core_05_band_oversight.md#監査可能性), [透明性](core_05_band_oversight.md#透明性), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [比例性](../../core_05.035_band_accountability.md#proportionality), [実行可能性](../../core_05.035_band_accountability.md#feasibility), [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件).
 
 </details>
 
@@ -1186,9 +1186,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **それが何か**
   - **範囲内：** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [監査可能性](core_05_band_oversight.md#監査可能性). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [実行可能性](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [実行可能性](../../core_05.035_band_accountability.md#feasibility));
     - independence from operator self-assertion;
-    - proportionate burden under [比例性](core_05_band_accountability.md#proportionality) and [実質的影響](core_05_band_oversight.md#実質的影響); and
+    - proportionate burden under [比例性](../../core_05.035_band_accountability.md#proportionality) and [実質的影響](core_05_band_oversight.md#実質的影響); and
     - reliability under ordinary stress, misuse, and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件).
   - **範囲外：**
     - internal telemetry or operator-facing instrumentation alone; or
@@ -1211,11 +1211,11 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **第二次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： observed behavior can be independently validated by reproducible methods in practice.
 
     **第二次の評価：** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [実行可能性](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06.015_rights_part_c.md#article-xvi-c-verification-accessibility); [実行可能性](../../core_05.035_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
-    - are sized to system impact under [比例性](core_05_band_accountability.md#proportionality) and [実質的影響](core_05_band_oversight.md#実質的影響); and
+    - are sized to system impact under [比例性](../../core_05.035_band_accountability.md#proportionality) and [実質的影響](core_05_band_oversight.md#実質的影響); and
     - remain reliable under ordinary stress, misuse, and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件).
-  - **第三次の測定：** [監査可能性](core_05_band_oversight.md#監査可能性), [実質的影響](core_05_band_oversight.md#実質的影響), [争訟可能性](core_05_band_accountability.md#contestability), and [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) — co-measures that can defeat verification even when methods are nominally documented.
+  - **第三次の測定：** [監査可能性](core_05_band_oversight.md#監査可能性), [実質的影響](core_05_band_oversight.md#実質的影響), [争訟可能性](../../core_05.035_band_accountability.md#contestability), and [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) — co-measures that can defeat verification even when methods are nominally documented.
 
     **第三次の評価：** When checking the primary and secondary answers, spot verification that fails any constitutive condition above even when a channel exists on paper.
 <a id="observability-c"></a>
@@ -1227,7 +1227,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <a id="verifiability-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：**
-    - insufficient external detectability that defeats [監査可能性](core_05_band_oversight.md#監査可能性), [争訟可能性](core_05_band_accountability.md#contestability), or independent validation;
+    - insufficient external detectability that defeats [監査可能性](core_05_band_oversight.md#監査可能性), [争訟可能性](../../core_05.035_band_accountability.md#contestability), or independent validation;
     - unverifiable claims under [監査可能性](core_05_band_oversight.md#監査可能性), [透明性](core_05_band_oversight.md#透明性), or [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約); or
     - operator self-assertion used as proof of externally detectable, independently validated behavior.
   - **第二次の失敗：**
@@ -1237,7 +1237,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
     - verification whose burden is excessive for low impact, or token for high impact;
     - verification that an independent qualified reviewer cannot reproduce with the required evidence and access; or
     - verification that becomes unreliable under [合理的に予見可能な](core_05_band_oversight.md#合理的に予見可能な) operating, degraded, scaled, or adversarial conditions.
-  - **第三次の失敗：** a verification channel that exists on paper while [争訟可能性](core_05_band_accountability.md#contestability) or another constitutive condition is missing in practice.
+  - **第三次の失敗：** a verification channel that exists on paper while [争訟可能性](../../core_05.035_band_accountability.md#contestability) or another constitutive condition is missing in practice.
 
 ---
 
@@ -1254,7 +1254,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - 下流： Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
 - 第一章 basis: 第一章 §8.2, §3.3, §4, §12.1, §12.2 (see [羅針](core_05__definitions_home.md#第五章の羅針と定義地図) map).
-- あわせて読む： Apply [善意](core_05_band_accountability.md#good-faith), [実質性の判定](core_05_band_oversight.md#実質性の判定), [依存](core_05_band_continuity.md#dependency), [透明性](core_05_band_oversight.md#透明性), [監査可能性](core_05_band_oversight.md#監査可能性), [検証可能性](core_05_band_oversight.md#検証可能性), [争訟可能性](core_05_band_accountability.md#contestability), [安全（制約）](core_05_band_continuity.md#safety-constraint), [リスク](core_05_band_continuity.md#risk), and 第二から第四章 mechanics where 実質的に関わる.
+- あわせて読む： Apply [善意](../../core_05.035_band_accountability.md#good-faith), [実質性の判定](core_05_band_oversight.md#実質性の判定), [依存](../../core_05.040_band_continuity.md#dependency), [透明性](core_05_band_oversight.md#透明性), [監査可能性](core_05_band_oversight.md#監査可能性), [検証可能性](core_05_band_oversight.md#検証可能性), [争訟可能性](../../core_05.035_band_accountability.md#contestability), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [リスク](../../core_05.040_band_continuity.md#risk), and 第二から第四章 mechanics where 実質的に関わる.
 
 </details>
 
@@ -1308,7 +1308,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *平たい言葉で言えば： if you publish something as fact, do not knowingly lie — and do not recklessly ignore accuracy, uncertainty, context, or material interpretive limits.*
 
 - **それが何か**
-  - **範囲内：** Bounds on communicative conduct when publishing or communicating as a factual assertion within the [情報圏](core_05_band_participation.md#info-sphere).
+  - **範囲内：** Bounds on communicative conduct when publishing or communicating as a factual assertion within the [情報圏](../../core_05.055_band_participation.md#info-sphere).
   - **範囲外：**
     - opinion, commentary, or satire that is not presented as a factual assertion; and
     - good-faith error that is neither knowing falsity nor reckless disregard for accuracy, uncertainty, context, or material interpretive limits.
@@ -1321,10 +1321,10 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - uncertainty;
     - context; or
     - material interpretive limits,
-    from good-faith observation and bounded interpretation, under [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) and [善意](core_05_band_accountability.md#good-faith).
+    from good-faith observation and bounded interpretation, under [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約) and [善意](../../core_05.035_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **成り立たねばならないこと**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by 第十一章 **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), [善意](core_05_band_accountability.md#good-faith), and [認識的誠実性](core_05_band_oversight.md#認識的誠実性).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by 第十一章 **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [真理（憲法上の制約）](core_05_band_oversight.md#真理憲法上の制約), [善意](../../core_05.035_band_accountability.md#good-faith), and [認識的誠実性](core_05_band_oversight.md#認識的誠実性).
   - **第一次の失敗：** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;
@@ -1338,16 +1338,16 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *平たい言葉で言えば： do not publish restricted data or expose another sentient's protected inner cognitive or emotional states.*
 
 - **それが何か**
-  - **範囲内：** Limits on publishing content that violates restricted-data rules or exposes protected internal states within the [情報圏](core_05_band_participation.md#info-sphere).
+  - **範囲内：** Limits on publishing content that violates restricted-data rules or exposes protected internal states within the [情報圏](../../core_05.055_band_participation.md#info-sphere).
   - **範囲外：** Ordinary public facts, lawfully released information, or publication limited for systemic-harm reasons rather than for protected data or internal-state exposure.
 <a id="protected-data-and-internal-state-publication-constraint-a"></a>
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： publication respects restricted-data rules and protected internal-state boundaries — not reconstructing or exposing protected cognitive or emotional states.
 
-    **第一次の評価：** Publication must not bypass **[corpus_systems.md](../../corpus_systems.md), CS-2 — 情報の型と取扱い**, [プライバシー（情報的）](core_05_band_continuity.md#privacy-informational), [保護された内部状態の境界](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
+    **第一次の評価：** Publication must not bypass **[corpus_systems.md](../../corpus_systems.md), CS-2 — 情報の型と取扱い**, [プライバシー（情報的）](../../core_05.040_band_continuity.md#privacy-informational), [保護された内部状態の境界](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **成り立たねばならないこと**
-  - **第一次の失敗：** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [プライバシー（情報的）](core_05_band_continuity.md#privacy-informational) and [保護された内部状態の境界](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
+  - **第一次の失敗：** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [プライバシー（情報的）](../../core_05.040_band_continuity.md#privacy-informational) and [保護された内部状態の境界](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional).
 
 <a id="high-impact-and-systemic-harm-publication-constraint"></a>
 
@@ -1356,7 +1356,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 *平たい言葉で言えば： even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure.*
 
 - **それが何か**
-  - **範囲内：** Publication that goes out through channels that can broadly affect the shared information environment ([情報圏](core_05_band_participation.md#info-sphere)), cause [危害](core_05_band_accountability.md#harm), or shape how sentients coordinate.
+  - **範囲内：** Publication that goes out through channels that can broadly affect the shared information environment ([情報圏](../../core_05.055_band_participation.md#info-sphere)), cause [危害](../../core_05.035_band_accountability.md#harm), or shape how sentients coordinate.
   - **範囲外：** Ordinary true reporting without a foreseeable systemic-harm or harmful-coordination pathway, or ordinary truthfulness disputes under the recklessness floor.
 <a id="high-impact-and-systemic-harm-publication-constraint-a"></a>
 - **測定と評価の仕方**
@@ -1364,16 +1364,16 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 
     **第一次の評価：** Consider primary and [合理的に予見可能な](core_05_band_oversight.md#合理的に予見可能な) effects on:
     - 調整；
-    - [安全（制約）](core_05_band_continuity.md#safety-constraint);
+    - [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint);
     - exploitation of vulnerabilities; and
-    - [情報圏](core_05_band_participation.md#info-sphere) integrity.
+    - [情報圏](../../core_05.055_band_participation.md#info-sphere) integrity.
 <a id="high-impact-and-systemic-harm-publication-constraint-c"></a>
 - **成り立たねばならないこと**
   - Even factually accurate publication is constrained where its primary or [合理的に予見可能な](core_05_band_oversight.md#合理的に予見可能な) effect is to enable:
-    - targeted [危害](core_05_band_accountability.md#harm);
-    - [強制と操作](core_05_band_participation.md#coercion-and-manipulation-constitutional);
+    - targeted [危害](../../core_05.035_band_accountability.md#harm);
+    - [強制と操作](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional);
     - large-scale harmful 調整；
-    - [連鎖的失敗](core_05_band_continuity.md#cascading-failure); or
+    - [連鎖的失敗](../../core_05.040_band_continuity.md#cascading-failure); or
     - patterns that materially degrade [認識的誠実性](core_05_band_oversight.md#認識的誠実性).
   - **Class A** and **Class B** systems under **[corpus_systems.md](../../corpus_systems.md), CS-3 — システムの分類と取扱い**, trigger heightened proportional constraints on distribution mechanics and safeguards.
   - **第一次の失敗：** publishing without the proportional distribution constraints and safeguards required for these primary or reasonably foreseeable effects, including the heightened constraints for **Class A** and **Class B** systems.
@@ -1391,7 +1391,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： disclosure benefits outweigh foreseeable exploitation, circumvention, or adversarial-manipulation risks.
 
-    **第一次の評価：** Balance disclosure benefits against foreseeable risks under [リスク](core_05_band_continuity.md#risk), [安全（制約）](core_05_band_continuity.md#safety-constraint), and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件), consistent with 第二から第四章 and 第一章, covering:
+    **第一次の評価：** Balance disclosure benefits against foreseeable risks under [リスク](../../core_05.040_band_continuity.md#risk), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件), consistent with 第二から第四章 and 第一章, covering:
     - exploitation;
     - circumvention; or
     - adversarial manipulation.
@@ -1402,7 +1402,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **成り立たねばならないこと**
   - Good-faith security researchers must have a usable, non-retaliatory route to publish low-risk information — including existence notice and non-exploit-enabling detail — without treating researcher publication itself as prohibited disclosure.
   - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under CS-2 — then disclosed under applicable deferred-disclosure and **Type O** summary rules.
-  - **第一次の失敗：** consistent with **第二から第四章**, **第一章**, [リスク](core_05_band_continuity.md#risk), [安全（制約）](core_05_band_continuity.md#safety-constraint), and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件):
+  - **第一次の失敗：** consistent with **第二から第四章**, **第一章**, [リスク](../../core_05.040_band_continuity.md#risk), [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件):
     - publication that materially enables circumvention of safeguards or adversarial manipulation where those risks outweigh the benefits of disclosure;
     - suppressing low-risk good-faith researcher publication; or
     - indefinite hold-back of discloseable detail after mitigation without a still-justified **Type S** (or equivalent) restriction.
@@ -1419,7 +1419,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - honest treatment of what is known, unknown, and uncertain;
     - resistance to deception, distortion, and structurally misleading presentation; and
     - assessment methods sized to the stakes under 第二から第四章.
-  - **Depends on:** [安全（制約）](core_05_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [第一章 §3 交渉不能の原則制約：安全と真理](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); truth duties include honest risk and uncertainty communication where safety is materially at stake.
+  - **Depends on:** [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint) — paired non-negotiable constraint under [第一章 §3 交渉不能の原則制約：安全と真理](core_01_a_values_principles.md); truth duties include honest risk and uncertainty communication where safety is materially at stake.
   - **範囲外：**
     - polite tone or procedural courtesy alone; or
     - market prices or odds as ordinary economic signals outside rights, safety, or governance truth determinations —
@@ -1428,7 +1428,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 - **測定と評価の仕方**
   - **第一次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： materially decision-relevant claims stay honest about what is known, unknown, and uncertain — resisting deception, distortion, and structurally misleading presentation.
 
-    **第一次の評価：** Judge the real effect on informed decision-making and auditability — scale scrutiny with [実質的影響](core_05_band_oversight.md#実質的影響), [依存](core_05_band_continuity.md#dependency), and [リスク](core_05_band_continuity.md#risk); require honest methods, honest uncertainty treatment, and revision when evidence disconfirms prior conclusions.
+    **第一次の評価：** Judge the real effect on informed decision-making and auditability — scale scrutiny with [実質的影響](core_05_band_oversight.md#実質的影響), [依存](../../core_05.040_band_continuity.md#dependency), and [リスク](../../core_05.040_band_continuity.md#risk); require honest methods, honest uncertainty treatment, and revision when evidence disconfirms prior conclusions.
   - **第二次の測定：** [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [監査可能性](core_05_band_oversight.md#監査可能性), [透明性](core_05_band_oversight.md#透明性), and [実質性の判定](core_05_band_oversight.md#実質性の判定) — co-measures that can defeat truth even when formal disclosure exists.
 
     **第二次の評価：** 第一次の測定を点検するとき、 include [認識的誠実性](core_05_band_oversight.md#認識的誠実性), [監査可能性](core_05_band_oversight.md#監査可能性), and [透明性](core_05_band_oversight.md#透明性) paths that would defeat honest interpretation or verification.
@@ -1444,7 +1444,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - selective disclosure; or
     - structurally misleading presentation —
     including polite tone or procedural form used as a substitute for honest treatment of what is known, unknown, and uncertain.
-  - **第二次の失敗：** jargon, stacked complexity, or procedural opacity used to defeat [争訟可能性](core_05_band_accountability.md#contestability) or [監査可能性](core_05_band_oversight.md#監査可能性) where materially relevant.
+  - **第二次の失敗：** jargon, stacked complexity, or procedural opacity used to defeat [争訟可能性](../../core_05.035_band_accountability.md#contestability) or [監査可能性](core_05_band_oversight.md#監査可能性) where materially relevant.
   - **第三次の失敗：** prices, odds, or market resolution sources used as enough for rights, safety, or governance truth determinations where 第一章 forbids that substitution, or refusal of correction after [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) is reasonably observable.
 
 <a id="epistemic-integrity"></a>
@@ -1475,9 +1475,9 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     - prestige;
     - scale; or
     - complexity.
-  - **第二次の測定：** [監査可能性](core_05_band_oversight.md#監査可能性), [検証可能性](core_05_band_oversight.md#検証可能性), [透明性](core_05_band_oversight.md#透明性), and [争訟可能性](core_05_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
+  - **第二次の測定：** [監査可能性](core_05_band_oversight.md#監査可能性), [検証可能性](core_05_band_oversight.md#検証可能性), [透明性](core_05_band_oversight.md#透明性), and [争訟可能性](../../core_05.035_band_accountability.md#contestability) — co-measures that can defeat integrity even when methods are formally documented.
 
-    **第二次の評価：** 第一次の測定を点検するとき、 also check [監査可能性](core_05_band_oversight.md#監査可能性), [検証可能性](core_05_band_oversight.md#検証可能性), and [争訟可能性](core_05_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [予見可能性の勤勉](core_05_band_oversight.md#予見可能性の勤勉).
+    **第二次の評価：** 第一次の測定を点検するとき、 also check [監査可能性](core_05_band_oversight.md#監査可能性), [検証可能性](core_05_band_oversight.md#検証可能性), and [争訟可能性](../../core_05.035_band_accountability.md#contestability) wherever they matter — and include foreseeable misuse and adversarial testing under [予見可能性の勤勉](core_05_band_oversight.md#予見可能性の勤勉).
   - **第三次の測定：** [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) — where authority, prestige, scale, or complexity stands in for demonstrable integrity.
 
     **第三次の評価：** Where operators lean on authority, model opacity, or unverifiable assertion, apply [代替指標の乖離](core_05_band_oversight.md#代替指標の乖離) — separate durable epistemic integrity from procedural form.
@@ -1499,7 +1499,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- あわせて読む： Apply [実質性の判定](core_05_band_oversight.md#実質性の判定), [評価完全性の制約](core_05_band_oversight.md#評価完全性の制約), [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件), [監査可能性](core_05_band_oversight.md#監査可能性), [比例性](core_05_band_accountability.md#proportionality), [システムの境界](core_05_band_continuity.md#system-boundaries), and 第二から第四章 mechanics where 実質的に関わる.
+- あわせて読む： Apply [実質性の判定](core_05_band_oversight.md#実質性の判定), [評価完全性の制約](core_05_band_oversight.md#評価完全性の制約), [敵対的、拡大、搾取された条件](core_05_band_oversight.md#敵対的拡大搾取された条件), [監査可能性](core_05_band_oversight.md#監査可能性), [比例性](../../core_05.035_band_accountability.md#proportionality), [システムの境界](../../core_05.040_band_continuity.md#system-boundaries), and 第二から第四章 mechanics where 実質的に関わる.
 
 </details>
 
@@ -1514,8 +1514,8 @@ This nested sub-block is the joint home for publication-conduct floors and inter
   - misuse pathways; or
   - operating conditions;
 - whether “we could not have foreseen it” claims are justified;
-- whether analysis depth, scope, and scaling match [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [リスク](core_05_band_continuity.md#risk), and [依存](core_05_band_continuity.md#dependency); or
-- whether evaluation was incomplete in a way that defeats [安全（制約）](core_05_band_continuity.md#safety-constraint), [リスク](core_05_band_continuity.md#risk) assessment, or [予見可能性の勤勉](core_05_band_oversight.md#予見可能性の勤勉).
+- whether analysis depth, scope, and scaling match [実質的影響](core_05_band_oversight.md#実質的影響), [実質的リスク](core_05_band_oversight.md#実質的リスク), [リスク](../../core_05.040_band_continuity.md#risk), and [依存](../../core_05.040_band_continuity.md#dependency); or
+- whether evaluation was incomplete in a way that defeats [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint), [リスク](../../core_05.040_band_continuity.md#risk) assessment, or [予見可能性の勤勉](core_05_band_oversight.md#予見可能性の勤勉).
 Outside that scope, individual entries may still apply on their own without importing the full compound.
 
 Where admission scope is met, this nested sub-block is the joint home for foreseeability mechanics within Def.O2 *Truth and Epistemic Integrity*. All uses of “reasonably foreseeable” in **第二から第四章** are governed exclusively by these definitions and must stay explicitly traceable where invoked ([第二章、§3 — 定義スタックを通じた一貫性](core_02_definition_structure.md#3-定義スタックを通じた一貫性)).
@@ -1541,12 +1541,12 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 
 - **それが何か**
   - **範囲内：** A standard of reasonable analysis sized to impact, covering:
-    - analysis depth that scales with [実質的影響](core_05_band_oversight.md#実質的影響), [リスク](core_05_band_continuity.md#risk), and [依存](core_05_band_continuity.md#dependency) under [比例性](core_05_band_accountability.md#proportionality);
+    - analysis depth that scales with [実質的影響](core_05_band_oversight.md#実質的影響), [リスク](../../core_05.040_band_continuity.md#risk), and [依存](../../core_05.040_band_continuity.md#dependency) under [比例性](../../core_05.035_band_accountability.md#proportionality);
     - required evaluation boundaries, including:
       - interactions;
       - dependency;
       - adversarial use; and
-      - relevant [システムの境界](core_05_band_continuity.md#system-boundaries);
+      - relevant [システムの境界](../../core_05.040_band_continuity.md#system-boundaries);
     - the duty to actually perform that evaluation; and
     - responsibility for justifying non-foreseeability claims under [合理的に予見可能な](core_05_band_oversight.md#合理的に予見可能な).
   - **範囲外：**
@@ -1563,26 +1563,26 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 
     **第一次の評価：** Include known methods and patterns for what is [合理的に予見可能な](core_05_band_oversight.md#合理的に予見可能な), scaled to:
     - [実質的影響](core_05_band_oversight.md#実質的影響);
-    - [リスク](core_05_band_continuity.md#risk); and
-    - [依存](core_05_band_continuity.md#dependency).
+    - [リスク](../../core_05.040_band_continuity.md#risk); and
+    - [依存](../../core_05.040_band_continuity.md#dependency).
     Include evaluation boundaries covering:
     - interactions;
-    - [依存](core_05_band_continuity.md#dependency);
+    - [依存](../../core_05.040_band_continuity.md#dependency);
     - adversarial use; and
-    - relevant [システムの境界](core_05_band_continuity.md#system-boundaries).
-    Include [監査可能性](core_05_band_oversight.md#監査可能性)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [リスク](core_05_band_continuity.md#risk) evaluation, or [安全（制約）](core_05_band_continuity.md#safety-constraint).
+    - relevant [システムの境界](../../core_05.040_band_continuity.md#system-boundaries).
+    Include [監査可能性](core_05_band_oversight.md#監査可能性)-compatible justification for non-foreseeability claims. Spot incompleteness that defeats diligence, [リスク](../../core_05.040_band_continuity.md#risk) evaluation, or [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint).
 <a id="foreseeability-burden-c"></a>
 <a id="foreseeability-failure-c"></a>
 <a id="foreseeability-scaling-c"></a>
 <a id="foreseeability-scope-c"></a>
 <a id="foreseeability-diligence-c"></a>
 - **成り立たねばならないこと**
-  - Analysis depth must scale with [実質的影響](core_05_band_oversight.md#実質的影響) and [リスク](core_05_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
+  - Analysis depth must scale with [実質的影響](core_05_band_oversight.md#実質的影響) and [リスク](../../core_05.040_band_continuity.md#risk) — neither flat-maximal for every low-stakes case nor superficial despite high impact.
   - Evaluation boundaries must include:
     - interactions;
-    - [依存](core_05_band_continuity.md#dependency);
+    - [依存](../../core_05.040_band_continuity.md#dependency);
     - adversarial use; and
-    - relevant [システムの境界](core_05_band_continuity.md#system-boundaries).
+    - relevant [システムの境界](../../core_05.040_band_continuity.md#system-boundaries).
   - Non-foreseeability claims require [監査可能性](core_05_band_oversight.md#監査可能性)-compatible justification — assertion alone is not enough.
   - **第一次の失敗：**
     - checkbox analysis with no real foreseeability evaluation;
@@ -1592,7 +1592,7 @@ Where admission scope is met, this nested sub-block is the joint home for forese
     - superficial analysis despite high impact;
     - scope limitation below required boundaries;
     - insufficient justification for a non-foreseeability claim; or
-    - incompleteness that defeats [予見可能性の勤勉](core_05_band_oversight.md#予見可能性の勤勉), [リスク](core_05_band_continuity.md#risk) evaluation, or [安全（制約）](core_05_band_continuity.md#safety-constraint).
+    - incompleteness that defeats [予見可能性の勤勉](core_05_band_oversight.md#予見可能性の勤勉), [リスク](../../core_05.040_band_continuity.md#risk) evaluation, or [安全（制約）](../../core_05.040_band_continuity.md#safety-constraint).
 
 <a id="reasonably-foreseeable"></a>
 
@@ -1616,6 +1616,6 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 
 **前のファイル：** [core_05_band_integrative.md](core_05_band_integrative.md)
 
-**次のファイル（この言語）：** [core_05_band_participation.md](core_05_band_participation.md)
+**次のファイル（この言語）：** [core_05_band_participation.md](../../core_05.055_band_participation.md)
 
 **拘束力ある原文：** [core_05_band_oversight.md](../../core_05.050_band_oversight.md)

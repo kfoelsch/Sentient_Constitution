@@ -14,7 +14,7 @@
 >
 > **আগেরটি (এখনও ইংরেজিতে):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **পরেরটি (এখনও ইংরেজিতে):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **পরেরটি (এখনও ইংরেজিতে):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 > **পড়ার আর্ক:** §1 উদ্দেশ্য → বিরোধ ক্রম → §2 ডিফল্ট আসন ও গ্রহণ → §2.1–§2.3 নেতৃত্ব সীমা, মিশ্র বাজি, চ্যালেঞ্জ → §3 স্থানান্তর ও স্ব-বিচার নিরোধ → §4 পরিবার → §5 উত্তরণ ও প্রত্যয়ন → §6 স্তর ও দেরি-নিরোধ → §7 মঞ্চ সহায়তা
 </details>
 
@@ -63,7 +63,7 @@
 - ঊর্ধ্ব: [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [অধ্যায় আট](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [অধ্যায় নয়](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration); [অধ্যায় দশ](../../core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct); [অধ্যায় এক](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*নীতি ও ব্যাখ্যা বন্ধন*); [অধ্যায় দুই থেকে চার](core_02_definition_structure.md) (*খুঁজে-পাওয়া ও যাচাই প্রত্যাশা*); [অধ্যায় পাঁচ](core_05__definitions_home.md#chapter-five-foundational-definitions) (*করপাসে অবস্থান উইজেটে অধ্যায় দুই থেকে চারের সঙ্গে পড়া সংজ্ঞা*); [অধ্যায় ছয়](core_06_rights_part_a.md#chapter-six-foundational-rights) (*ভিত্তিগত অধিকার-তল যা এই অধ্যায় সঙ্গে প্রয়োগ করে*)।
 - অধঃ: [§2](#2-default-venue-and-primary-stakes) (*প্রাথমিক-বাজি ডিফল্ট আসন, গ্রহণ ট্রিয়াজ, মিশ্র বাজি, অসমতা, প্রস্থিতি-নথি চ্যালেঞ্জ; দ্রুত চ্যালেঞ্জযোগ্য দণ্ড প্রবেশ; সদ্বিশ্বাস চরিত্রায়ণ ও খেলা-নিরোধ*); [§3](#3-transfer-consolidation-and-coordination) (*স্থানান্তর ও স্ব-বিচার নিরোধ*); [§4](#4-forum-family-definitions) (*মঞ্চ-পরিবার সংজ্ঞা, কক্ষ, ভাগ করা মান, ও অস্থায়ী পরিচালন আইন*); [§4.3](#43-institutional-forums) (*বিরোধ ক্রমের প্রাতিষ্ঠানিক-পরিবার প্রয়োগ হিসেবে অভ্যন্তরীণ প্রক্রিয়া সীমানা*); [§5](#5-escalation-and-certification) (*উত্তরণ, প্রত্যয়ন, ও অন্তর্বর্তী সুরক্ষা*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*তাৎপর্য স্তর, শৃঙ্খল মাইলফলক, ও দেরি-নিরোধ শৃঙ্খলা*); [§7](#7-forum-support-before-during-and-after-review) (*পর্যালোচনার আগে, চলাকালীন ও পরে মঞ্চ সহায়তা*)।
 - চতুষ্ক পা: **অংশগ্রহণ**, **তত্ত্বাবধান**, **জবাবদিহি**, **সময়ানুবর্তিতা** (যাচাইকৃত নির্ণয় প্রস্থিতি নথি খুলতে, হালনাগাদ, বা সংশোধন করতে পারে; **CF-11** স্তর ঘড়ি বাস্তবায়ন করে)। প্রাথমিক উদ্দেশ্য: **সমুন্নতি** ও **সাতত্য**। রাউটিং ও প্রবেশ ভারে [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং প্রযোজ্য।
-- সঙ্গে পড়ুন: [প্রস্তাবনা §3.2](core_00_preamble.md#32-key-governance-processes) ও [§3.3](core_00_preamble.md#33-governance-layers) (*প্রক্রিয়া পথ ও শাসন-স্তর শৃঙ্খলা*); [অনুচ্ছেদ XII: প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব, ও যথাযথ প্রক্রিয়া](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*জরুরি, নিঃশেষ, ও সময় নিয়ম*) — বাস্তবায়ন করুন, সংকুচিত করবেন না); [corpus_institutions.md](../../corpus_institutions.md) (*চ্যালেঞ্জ, গৌণ পর্যালোচনা, ও অখণ্ডতা নজরদারি — নির্ধারিত মঞ্চ এখতিয়ার প্রতিস্থাপন করে না*); [অনুচ্ছেদ XIII-B: চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [অনুচ্ছেদ XXIV পরিবার](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*করপাসে অবস্থান উইজেটে উল্লিখিত ন্যায় বন্ধন*)।
+- সঙ্গে পড়ুন: [প্রস্তাবনা §3.2](core_00_preamble.md#32-key-governance-processes) ও [§3.3](core_00_preamble.md#33-governance-layers) (*প্রক্রিয়া পথ ও শাসন-স্তর শৃঙ্খলা*); [অনুচ্ছেদ XII: প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ, প্রতিনিধিত্ব, ও যথাযথ প্রক্রিয়া](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*জরুরি, নিঃশেষ, ও সময় নিয়ম*) — বাস্তবায়ন করুন, সংকুচিত করবেন না); [corpus_institutions.md](../../corpus_institutions.md) (*চ্যালেঞ্জ, গৌণ পর্যালোচনা, ও অখণ্ডতা নজরদারি — নির্ধারিত মঞ্চ এখতিয়ার প্রতিস্থাপন করে না*); [অনুচ্ছেদ XIII-B: চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার](core_06_rights_part_c.md); [অনুচ্ছেদ XXIV পরিবার](core_06_rights_part_d.md) (*করপাসে অবস্থান উইজেটে উল্লিখিত ন্যায় বন্ধন*)।
 
 </details>
 
@@ -95,7 +95,7 @@
 **মঞ্চ-পরিবার** সেই প্রাথমিক প্রতিষ্ঠান যার মধ্য দিয়ে এই দলিল সেই পথ **তত্ত্বাবধান** করে। তারা প্রণীত নিয়মের নিয়মিত নির্বাহী প্রশাসন থেকে আলাদা।
 
 <a id="dispute-sequencing"></a>
-**বিরোধ ক্রম।** ইতিমধ্যে অনুমোদিত ব্যবস্থা, প্রতিষ্ঠান, বা সীমিত সিদ্ধান্ত ক্ষেত্রের ভিতরে, সাধারণ বিরোধ আগে প্রকাশিত [প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ](core_05_band_participation.md#stakeholder-status-and-weight-cluster) চ্যালেঞ্জ ও যথাযথ-প্রক্রিয়া পথ ব্যবহার করে। সেই পথ এখনও-বিতর্কিত ফল দিলে, অনুপস্থিত থাকলে, দখলকৃত হলে, বা চাওয়া স্বস্তি আইনসম্মতভাবে দিতে না পারলে, এই অধ্যায় বিষয়টি **ধারা 2**-এর অধীনে প্রাথমিক বাজি অনুসারে রাউট করে। **অখণ্ডতা**, **কারিগরি মঞ্চ ক্ষেত্র**, **পরিবেশ**, ও **সাংবিধানিক** সেই প্রাথমিক বাজি হলে ডিফল্ট নেতৃত্ব পরিবার — ক্রম এড়িয়ে যাওয়া ব্যতিক্রম নয়। অসমাপ্ত অভ্যন্তরীণ প্রক্রিয়া, নিঃশেষ লেবেল, বা অভ্যন্তরীণ পর্যালোচনা অসমাপ্ত এই দাবি সেই নেতৃত্ব থামাতে, তাদের সারবস্তু সরিয়ে দিতে, বা **অনুচ্ছেদ XXV-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*) ঘড়ি খেতে পারে না। বিলম্ব অধিকার, প্রমাণ, স্বাধীনতা, বা ব্যবহারিক পুনরুদ্ধার বস্তুগতভাবে বিপন্ন করলে সরাসরি প্রবেশ উপলব্ধ থাকে।
+**বিরোধ ক্রম।** ইতিমধ্যে অনুমোদিত ব্যবস্থা, প্রতিষ্ঠান, বা সীমিত সিদ্ধান্ত ক্ষেত্রের ভিতরে, সাধারণ বিরোধ আগে প্রকাশিত [প্রভাবিত পক্ষের পদ্ধতিগত অংশগ্রহণ](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) চ্যালেঞ্জ ও যথাযথ-প্রক্রিয়া পথ ব্যবহার করে। সেই পথ এখনও-বিতর্কিত ফল দিলে, অনুপস্থিত থাকলে, দখলকৃত হলে, বা চাওয়া স্বস্তি আইনসম্মতভাবে দিতে না পারলে, এই অধ্যায় বিষয়টি **ধারা 2**-এর অধীনে প্রাথমিক বাজি অনুসারে রাউট করে। **অখণ্ডতা**, **কারিগরি মঞ্চ ক্ষেত্র**, **পরিবেশ**, ও **সাংবিধানিক** সেই প্রাথমিক বাজি হলে ডিফল্ট নেতৃত্ব পরিবার — ক্রম এড়িয়ে যাওয়া ব্যতিক্রম নয়। অসমাপ্ত অভ্যন্তরীণ প্রক্রিয়া, নিঃশেষ লেবেল, বা অভ্যন্তরীণ পর্যালোচনা অসমাপ্ত এই দাবি সেই নেতৃত্ব থামাতে, তাদের সারবস্তু সরিয়ে দিতে, বা **অনুচ্ছেদ XXV-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*) ঘড়ি খেতে পারে না। বিলম্ব অধিকার, প্রমাণ, স্বাধীনতা, বা ব্যবহারিক পুনরুদ্ধার বস্তুগতভাবে বিপন্ন করলে সরাসরি প্রবেশ উপলব্ধ থাকে।
 
 ```mermaid
 flowchart TD
@@ -150,7 +150,7 @@ flowchart TD
 - ঊর্ধ্ব: [§1](#1-purpose-and-role) (*উদ্দেশ্য, প্রাথমিক প্রয়োগ ভূমিকা, জবাবদিহি প্রয়োজনীয়তা, প্রকাশিত দণ্ড রাউটিং, বিস্তার স্থানান্তর-নিরোধ, স্বাধীনতা ও পর্যালোচনা প্রত্যাশা*)।
 - অধঃ: [§3](#3-transfer-consolidation-and-coordination) (*স্থানান্তর, একত্রীকরণ, স্ব-বিচার নিরোধ*); [§4](#4-forum-family-definitions) (*ডিফল্ট সারণির সঙ্গে পড়া মঞ্চ-পরিবার সংজ্ঞা*); [§5](#5-escalation-and-certification) (*ডিফল্ট আসন থেকে উত্তরণ; অন্তর্বর্তী সুরক্ষা*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*তাৎপর্য স্তর ও দেরি-নিরোধ শৃঙ্খলা*); [§7](#7-forum-support-before-during-and-after-review) (*পর্যালোচনার আগে, চলাকালীন ও পরে মঞ্চ সহায়তা*)।
 - §2-এর ভিতরে: [§2.1](#21-lead-default-limits) (*প্রাথমিক-বাজি সংঘর্ষ, সাংবিধানিক প্রত্যয়ন, ও স্ব-বিচার নিরোধ ব্যাকআপ*); [§2.2](#22-mixed-stakes-and-routing-asymmetry) (*মিশ্র বাজি ও অসমতা*); [§2.3](#23-forum-records-standing-records-and-contests) (*মঞ্চ মামলা নথি, প্রস্থিতি নথি, ও চ্যালেঞ্জ*)।
-- সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ**, **তত্ত্বাবধান**, ও **সময়ানুবর্তিতা** পা; প্রাথমিক-বাজি রাউটিংয়ের জন্য [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং; [অধ্যায় আট §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*প্রস্থিতি-স্লট ব্যাকরণ*); [অধ্যায় আট §7 একীভূত মাপকাঠি](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*ভাগ করা পাঁচ-গুণ LEQU ব্যান্ড ও আলাদা অক্ষ নথি*); [অধ্যায় আট §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*প্রভাব স্লট না সরিয়ে প্রাথমিক বাজি জানানো অক্ষ-পেরিয়ে স্বাভাবিকীকৃত বর্ণনাকারী*); [corpus_forum.md](../../corpus_forum.md) (**CF-5** ও **CF-7.2**); [corpus_systems.md](../../corpus_systems.md) (*ব্যবস্থা শ্রেণিবিন্যাস, মোতায়েন, ও পুনঃবৈধকরণ কর্তব্য*); [অধ্যায় দশ §3](../../core_12_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*যোগ্য অধ্যায় আট স্লট 7–9-এর জন্য সংবিধান-বিরোধী-অসদাচরণ নামকরণ; পুরনো নোঙর সংরক্ষিত*); [অধ্যায় দশ §4](../../core_12_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*সেই নামকরণের যথাযথ প্রক্রিয়া এই অধ্যায় ও **অনুচ্ছেদ XXIV** (*সংঘর্ষ সমাধান, উত্তরণ, ও জরুরি আনুপাতিকতা*)-এর সঙ্গে পড়া*); [অনুচ্ছেদ XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*ন্যায় উদ্দেশ্য ও পরিসর*)।
+- সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ**, **তত্ত্বাবধান**, ও **সময়ানুবর্তিতা** পা; প্রাথমিক-বাজি রাউটিংয়ের জন্য [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং; [অধ্যায় আট §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*প্রস্থিতি-স্লট ব্যাকরণ*); [অধ্যায় আট §7 একীভূত মাপকাঠি](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*ভাগ করা পাঁচ-গুণ LEQU ব্যান্ড ও আলাদা অক্ষ নথি*); [অধ্যায় আট §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*প্রভাব স্লট না সরিয়ে প্রাথমিক বাজি জানানো অক্ষ-পেরিয়ে স্বাভাবিকীকৃত বর্ণনাকারী*); [corpus_forum.md](../../corpus_forum.md) (**CF-5** ও **CF-7.2**); [corpus_systems.md](../../corpus_systems.md) (*ব্যবস্থা শ্রেণিবিন্যাস, মোতায়েন, ও পুনঃবৈধকরণ কর্তব্য*); [অধ্যায় দশ §3](../../core_12_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*যোগ্য অধ্যায় আট স্লট 7–9-এর জন্য সংবিধান-বিরোধী-অসদাচরণ নামকরণ; পুরনো নোঙর সংরক্ষিত*); [অধ্যায় দশ §4](../../core_12_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*সেই নামকরণের যথাযথ প্রক্রিয়া এই অধ্যায় ও **অনুচ্ছেদ XXIV** (*সংঘর্ষ সমাধান, উত্তরণ, ও জরুরি আনুপাতিকতা*)-এর সঙ্গে পড়া*); [অনুচ্ছেদ XXIV-A](core_06_rights_part_d.md) (*ন্যায় উদ্দেশ্য ও পরিসর*)।
 
 </details>
 
@@ -195,7 +195,7 @@ flowchart TD
      - প্রয়োজন হলে **সাংবিধানিক** প্রত্যয়ন;
      - প্রাতিষ্ঠানিক-পক্ষ নিয়ম; এবং
      - **ধারা 2, 3, ও 5**-এর অধীনে স্ব-বিচার নিরোধ ব্যাকআপ।
-   - **মঞ্চ-পক্ষপাত বিরোধ:** লড়াই মূলত এমন প্যানেলিস্ট নিয়ে যাকে সরে যেতে হত, পক্ষপাতদুষ্ট প্যানেল অংশগ্রহণ, বা তুলনীয় মঞ্চ-অখণ্ডতা ভঙ্গ — **[অনুচ্ছেদ XXIII-B](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls) (*গঠন, ঘূর্ণন, ও সংঘর্ষ নিয়ন্ত্রণ*)**-এর অধীনে **সাংবিধানিক** মঞ্চ প্যানেল সহ — আগে **অখণ্ডতা** মঞ্চে রাউট করুন। **ধারা 3**-এর অধীনে কোনো মঞ্চ নিজ পক্ষপাতের একমাত্র চূড়ান্ত বিচারক হতে পারে না: **সাংবিধানিক** মঞ্চ নিজ প্যানেলিস্ট সরে যেতে হত কি না তা সিদ্ধান্ত করা একমাত্র চূড়ান্ত মঞ্চ হতে পারে না। প্রস্থিতি-তালা শৃঙ্খলা: **[অধ্যায় নয় §5.5](core_09_standing_integration.md#55-special-locks)**। নামকৃত অসদাচরণ ধরন: **[অধ্যায় দশ §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**।
+   - **মঞ্চ-পক্ষপাত বিরোধ:** লড়াই মূলত এমন প্যানেলিস্ট নিয়ে যাকে সরে যেতে হত, পক্ষপাতদুষ্ট প্যানেল অংশগ্রহণ, বা তুলনীয় মঞ্চ-অখণ্ডতা ভঙ্গ — **[অনুচ্ছেদ XXIII-B](core_06_rights_part_c.md) (*গঠন, ঘূর্ণন, ও সংঘর্ষ নিয়ন্ত্রণ*)**-এর অধীনে **সাংবিধানিক** মঞ্চ প্যানেল সহ — আগে **অখণ্ডতা** মঞ্চে রাউট করুন। **ধারা 3**-এর অধীনে কোনো মঞ্চ নিজ পক্ষপাতের একমাত্র চূড়ান্ত বিচারক হতে পারে না: **সাংবিধানিক** মঞ্চ নিজ প্যানেলিস্ট সরে যেতে হত কি না তা সিদ্ধান্ত করা একমাত্র চূড়ান্ত মঞ্চ হতে পারে না। প্রস্থিতি-তালা শৃঙ্খলা: **[অধ্যায় নয় §5.5](core_09_standing_integration.md#55-special-locks)**। নামকৃত অসদাচরণ ধরন: **[অধ্যায় দশ §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**।
    - **কারিগরি কীভাবে-করবেন প্রশ্ন:** স্পেসিফিকেশন, পদ্ধতি, পরিমাপ, পরীক্ষা, ও বিশেষজ্ঞ-প্রমাণ প্রশ্ন **কারিগরি মঞ্চ ক্ষেত্র**-এ যায় যখন সেগুলো প্রাথমিক বাজি বা প্রত্যয়িত উপাদান প্রশ্ন।
    - **ব্যবস্থা-সারিবদ্ধতা স্বাক্ষর:**
      - নতুন বস্তুগতভাবে প্রভাবশালী ব্যবস্থার সরকারি **সাংবিধানিক সারিবদ্ধতা স্বীকৃতি**, এবং বিদ্যমানগুলোর **চলমান সারিবদ্ধতা বৈধকরণ**, ডিফল্টে নেতৃত্ব হিসেবে **অখণ্ডতা**-তে যায়।
@@ -242,14 +242,14 @@ flowchart TD
 #### 2.3 মঞ্চ মামলা নথি, প্রস্থিতি নথি, ও চ্যালেঞ্জ
 
 **মঞ্চ মামলা নথি ও প্রস্থিতি নথি:**
-- মঞ্চ তার সামনের বিরোধের জন্য এক [**মঞ্চ মামলা নথি**](core_05_band_accountability.md#forum-case-record) রাখে। সেই নথি খুঁজে রাখে:
+- মঞ্চ তার সামনের বিরোধের জন্য এক [**মঞ্চ মামলা নথি**](../../core_05.035_band_accountability.md#forum-case-record) রাখে। সেই নথি খুঁজে রাখে:
   - দাবি;
   - প্রমাণ;
   - রাউটিং পছন্দ;
   - অস্থায়ী আদেশ;
   - প্রত্যয়িত প্রশ্ন; এবং
   - সেই মামলার চূড়ান্ত নির্ণয়।
-- এটি [অধ্যায় আট](core_08_standing_assessment.md#2-standing-records) যে **প্রস্থিতি নথি** চায় তার **একই জিনিস নয়** (দেখুন [প্রস্থিতি নথি](core_05_band_accountability.md#standing-record-chapter-six))।
+- এটি [অধ্যায় আট](core_08_standing_assessment.md#2-standing-records) যে **প্রস্থিতি নথি** চায় তার **একই জিনিস নয়** (দেখুন [প্রস্থিতি নথি](../../core_05.035_band_accountability.md#standing-record-chapter-six))।
 - মঞ্চ সিদ্ধান্ত অধ্যায় আট **অবদান প্রস্থিতি নথি** বা **লঙ্ঘন প্রস্থিতি নথি**-এর অংশ হতে পারে শুধু যখন এটি যাচাইকৃত অবদান নথি, যাচাইকৃত লঙ্ঘন নির্ণয়, **ব্যবস্থা সারিবদ্ধতা প্রত্যয়ন নথি**, বা অন্য নির্ণয় তৈরি করে যা সীমাবদ্ধ, খুঁজে-পাওয়া যায়, চ্যালেঞ্জযোগ্য, এবং অধ্যায় দুই থেকে চার ও কোনো প্রয়োজনীয় পর্যালোচনা সুরক্ষার অধীনে যাচাইকৃত।
 - নিচের কোনোটি একা কারও প্রস্থিতি, ভূমিকা যোগ্যতা, আস্থা অবস্থা, স্বীকৃতি, বা চূড়ান্ত প্রস্থিতি প্রভাব বদলায় না:
   - মামলা দায়ের;
@@ -296,7 +296,7 @@ flowchart TD
 
 - ঊর্ধ্ব: [§2](#2-default-venue-and-primary-stakes) (*ডিফল্ট আসন সারণি, গ্রহণ ট্রিয়াজ, মিশ্র বাজি, ও অসমতা*); [অধ্যায় নয় §2 — একীকরণ নথি ও সিদ্ধান্ত ক্রম](core_09_standing_integration.md#2-integration-record-and-decision-order) (*সর্বোচ্চ প্রযোজ্য অ-অনুপালন শ্রেণি — মিশ্র-বাজি সমন্বয়*)।
 - অধঃ: [§5](#5-escalation-and-certification) (*প্রত্যয়িত সাংবিধানিক প্রশ্ন, ব্যাকআপ রাউটিং সক্রিয়করণ, এবং সমন্বয় চলাকালীন অন্তর্বর্তী সুরক্ষা*)।
-- সঙ্গে পড়ুন: [অনুচ্ছেদ XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*); [corpus_institutions.md](../../corpus_institutions.md) (*অভ্যন্তরীণ অখণ্ডতা প্রক্রিয়া যা সুরক্ষা প্রত্যাশা পূরণ করলে অখণ্ডতা মঞ্চের আগে যেতে পারে*); [corpus_forum.md](../../corpus_forum.md) (**CF-7**, অখণ্ডতা-নেতৃত্বাধীন সারিবদ্ধতা সমন্বয়)।
+- সঙ্গে পড়ুন: [অনুচ্ছেদ XIII-B](core_06_rights_part_c.md) (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*); [corpus_institutions.md](../../corpus_institutions.md) (*অভ্যন্তরীণ অখণ্ডতা প্রক্রিয়া যা সুরক্ষা প্রত্যাশা পূরণ করলে অখণ্ডতা মঞ্চের আগে যেতে পারে*); [corpus_forum.md](../../corpus_forum.md) (**CF-7**, অখণ্ডতা-নেতৃত্বাধীন সারিবদ্ধতা সমন্বয়)।
 
 </details>
 
@@ -351,7 +351,7 @@ flowchart TD
 <a id="capacity-failure-routing"></a>
 **ক্ষমতা ব্যর্থতা ক্ষুধার্ত দেহের বাইরে শোনা হয়।** দাবি যে মঞ্চ-পরিবার, প্রতিকার ব্যবস্থা, বা প্রস্থিতি-একীকরণ কাজ ক্ষমতার নিচে — নকশাকৃত জমা, অপ্রবেশযোগ্য গ্রহণ, দীর্ঘস্থায়ী কম-অর্থায়ন, দীর্ঘস্থায়ী মাইলফলক ব্যর্থতা, বা ট্রিপ করা [অধ্যায় নয় §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) প্রতিকার-সমতা ট্রিপওয়ায়ার — স্ব-বিচার নিরোধ বিষয়। যে দেহের ক্ষমতা প্রশ্নে সে নিজ ক্ষমতার একমাত্র তথ্য নির্ণয়কারী হতে পারে না।
 - **অখণ্ডতা** পরিবার ক্ষমতা-ব্যর্থতা দাবির ডিফল্ট নেতৃত্ব, **ধারা 3** ব্যাকআপ জোড়া প্রযোজ্য যেখানে অখণ্ডতা নিজেই প্রশ্নের দেহ।
-- কোনো প্রভাবিত পক্ষ, সুরক্ষিত প্রতিবেদক, বা [অধ্যায় এক §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization)-এর অধীনে স্ব-সংগঠিত দল ক্ষমতা-ব্যর্থতা দাবি দায়ের করতে পারে। এটি **ধারা 6**-এর অধীনে স্তর B ঘড়িতে শোনা হয় যদি না নথি স্তর A বাজি দেখায়।
+- কোনো প্রভাবিত পক্ষ, সুরক্ষিত প্রতিবেদক, বা [অধ্যায় এক §9.5](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)-এর অধীনে স্ব-সংগঠিত দল ক্ষমতা-ব্যর্থতা দাবি দায়ের করতে পারে। এটি **ধারা 6**-এর অধীনে স্তর B ঘড়িতে শোনা হয় যদি না নথি স্তর A বাজি দেখায়।
 - প্রশ্নের দেহকে তার প্রকাশিত [অধ্যায় নয় §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) ও **ধারা 6** জমা সংখ্যা দিতে হয়, এবং প্রমাণ দিতে পারে, কিন্তু নির্ণয় বা সংশোধন আদেশ নিয়ন্ত্রণ করতে পারে না।
 - ক্ষমতা-ব্যর্থতা নির্ণয় [অধ্যায় নয় §9.2](core_09_standing_integration.md#92-remedy-system-durability) স্থায়িত্ব ব্যর্থতা। এটি সংশোধন আদেশ [প্রাথমিক-বাজি](#2-default-venue-and-primary-stakes) পরিবারে রাউট করে যে কর্মী ও অর্থায়নের দায়িত্বে, এবং ধরন দীর্ঘস্থায়ী বা লুকানো থাকলে সাধারণ অধ্যায় আট পথ খোলে।
 
@@ -459,7 +459,7 @@ flowchart TD
 **উদাহরণমূলক বিষয়।** এই পরিবারে চ্যালেঞ্জ অন্তর্ভুক্ত:
 - প্রাতিষ্ঠানিক ম্যান্ডেট, অনুমোদিত ক্রিয়া, বা দায়িত্বপ্রাপ্ত কাজ;
 - গৃহীত দলিলের অধীনে তত্ত্বাবধানকৃত-পরিসর সীমানা ও শ্রেণিবিন্যাস;
-- [পরিসর সনদ](core_05_band_continuity.md#charter) পরিসর, সনদ সংশোধন কর্তৃত্ব, সনদ–আচরণ অমিল, বা সনদকৃত পরিসরের বাইরে পরিচালন;
+- [পরিসর সনদ](../../core_05.040_band_continuity.md) পরিসর, সনদ সংশোধন কর্তৃত্ব, সনদ–আচরণ অমিল, বা সনদকৃত পরিসরের বাইরে পরিচালন;
 - **`corpus_institutions.md`** ও সমগোত্রীয় স্তরের অধীনে প্রাতিষ্ঠানিক-কর্তব্য অনুপালন ও কর্মক্ষমতা;
 - ভাগ করা এখতিয়ার-পেরিয়ে বা প্রতিষ্ঠান-পেরিয়ে মানের স্থানীয় বলবৎ;
 - ব্যবস্থা-সারিবদ্ধতা কার্যক্রমে প্রাতিষ্ঠানিক-ম্যান্ডেট ও অধিকার-তল উপাদান প্রশ্ন যেখানে প্রতিষ্ঠান প্রয়োজনীয় পক্ষ বা প্রাতিষ্ঠানিক ম্যান্ডেট প্রাথমিক।
@@ -489,7 +489,7 @@ flowchart TD
 - তুলনীয় **বাস্তুতান্ত্রিক** **সারবস্তু**।
 - তাতে **ধরন** বা **ব্যবস্থাগত** বাস্তুতান্ত্রিক ব্যর্থতা অন্তর্ভুক্ত যেখানে **অধ্যায় আট** পরিমাপ, **অধ্যায় ছয়** অধিকার-তল বলবৎ, বা **অধ্যায় পাঁচ** (*পরিবেশগত সততা*, *পরিবেশগত পূর্বশর্ত*) সেই নির্ধারণের উপর নির্ভর করে।
 
-**প্রতিনিধিত্বমূলক দায়ের।** প্রাথমিক বাজি [প্রাকৃতিক ব্যবস্থা প্রস্থিতি](core_05_band_participation.md#natural-systems-standing) বা পরিবেশগত সততা এমন মামলা প্রকাশিত প্রতিনিধি খুলতে পারে — প্রভাবিত সম্প্রদায়, আদিবাসী-সাতত্য ধারক, বা নির্ধারিত অভিভাবক — জীবন-ধারণকারী ব্যবস্থার নিজ স্বার্থে। এটি ব্যবস্থাকে সংজ্ঞ বানায় না। প্রতিনিধির নিয়োগ, প্রত্যাহার, ও প্রকাশ [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*রাউটিং পরিচালন, স্থানান্তর, প্রত্যয়ন, ও প্রতিনিধিত্বমূলক ব্যবহার*))-এ থাকে এবং এই তল **বাস্তবায়ন করতে হয়, সংকুচিত করা যায় না**।
+**প্রতিনিধিত্বমূলক দায়ের।** প্রাথমিক বাজি [প্রাকৃতিক ব্যবস্থা প্রস্থিতি](../../core_05.055_band_participation.md#natural-systems-standing) বা পরিবেশগত সততা এমন মামলা প্রকাশিত প্রতিনিধি খুলতে পারে — প্রভাবিত সম্প্রদায়, আদিবাসী-সাতত্য ধারক, বা নির্ধারিত অভিভাবক — জীবন-ধারণকারী ব্যবস্থার নিজ স্বার্থে। এটি ব্যবস্থাকে সংজ্ঞ বানায় না। প্রতিনিধির নিয়োগ, প্রত্যাহার, ও প্রকাশ [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*রাউটিং পরিচালন, স্থানান্তর, প্রত্যয়ন, ও প্রতিনিধিত্বমূলক ব্যবহার*))-এ থাকে এবং এই তল **বাস্তবায়ন করতে হয়, সংকুচিত করা যায় না**।
 
 **উদাহরণমূলক বিষয়।** এই পরিবারে চ্যালেঞ্জ অন্তর্ভুক্ত:
 - পরিবেশগত সততা বা পরিবেশগত-পূর্বশর্ত ভিত্তিরেখা ও ভঙ্গ;
@@ -620,7 +620,7 @@ flowchart TD
 - ঊর্ধ্ব: [§2](#2-default-venue-and-primary-stakes) ও [§3](#3-transfer-consolidation-and-coordination) (*ডিফল্ট আসন, গ্রহণ, স্থানান্তর, মিশ্র বাজি, ও স্ব-বিচার নিরোধ ব্যাকআপ*); [§4.6](#46-constitutional-forums) ও [§4.7](#47-provisional-implementation-operational-law) (*অস্থায়ী-আইন নিষ্পত্তি ও ইস্যু*); [অধ্যায় আট §7 একীভূত মাপকাঠি](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*সংখ্যাসূচক প্রভাব-স্লট বরাদ্দ*); [অধ্যায় দশ](../../core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct) (*যোগ্য স্লট 7–9-এর জন্য মিলিত সংবিধান-বিরোধী-অসদাচরণ নামকরণ*); [অধ্যায় এক](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*প্রত্যয়িত সাংবিধানিক প্রশ্নে নিরাপত্তা ও সত্য হুক*)।
 - অধঃ: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*তাৎপর্য স্তর ও দেরি-নিরোধ শৃঙ্খলা*); [§7](#7-forum-support-before-during-and-after-review) (*উত্তরণ ও প্রত্যয়নের জন্য চ্যালেঞ্জযোগ্য মঞ্চ সহায়তা*); [অধ্যায় ষোলো](../../core_18_incorporation.md) (**অনুচ্ছেদ V-E** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*) বাস্তবায়ন নকশার জন্য বাস্তবায়ন রাউটিং*)।
 - §5-এর ভিতরে: [অন্তর্বর্তী সুরক্ষা](#interim-protection) (*সারবস্তু অপেক্ষমাণ স্থিতাবস্থা ও বহু-মঞ্চ অন্তর্বর্তী-আদেশ সংঘর্ষ সমন্বয়*)।
-- সঙ্গে পড়ুন: [অনুচ্ছেদ V-E: সংজ্ঞতা-অবস্থা নিষ্পত্তি তল](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [অধ্যায় পাঁচ — সংজ্ঞতা অবস্থা নিষ্পত্তি](core_05_band_participation.md#sentience-status-adjudication-constitutional); [অনুচ্ছেদ XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*ন্যায় উদ্দেশ্য ও পরিসর*) থেকে [অনুচ্ছেদ XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*অধ্যায় দশ নামকরণের সঙ্গে উল্লিখিত পর্যালোচনা সুরক্ষা*); [অনুচ্ছেদ XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*প্রত্যয়ন — সারিবদ্ধতা রায় ও সাধারণ মতবাদ*)।
+- সঙ্গে পড়ুন: [অনুচ্ছেদ V-E: সংজ্ঞতা-অবস্থা নিষ্পত্তি তল](core_06_rights_part_b.md); [অধ্যায় পাঁচ — সংজ্ঞতা অবস্থা নিষ্পত্তি](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional); [অনুচ্ছেদ XXIV-A](core_06_rights_part_d.md) (*ন্যায় উদ্দেশ্য ও পরিসর*) থেকে [অনুচ্ছেদ XXIV-C](core_06_rights_part_d.md) (*অধ্যায় দশ নামকরণের সঙ্গে উল্লিখিত পর্যালোচনা সুরক্ষা*); [অনুচ্ছেদ XIII-B](core_06_rights_part_c.md) (*প্রত্যয়ন — সারিবদ্ধতা রায় ও সাধারণ মতবাদ*)।
 
 </details>
 
@@ -736,7 +736,7 @@ flowchart TD
   - গ্রহণে প্রত্যাখ্যাত প্রতি দায়ের উল্লিখিত সূচক ও প্রত্যাখ্যানের কারণ সহ লগ করতে হয়।
   - **অখণ্ডতা** পরিবার সেই লগ প্রকাশিত ছন্দে নমুনা নেয়।
   - নিচের যেকোনোটিতে কেন্দ্রীভূত প্রত্যাখ্যানের ধরন নিজেই বিশ্বাসযোগ্য সূচক যে ফটক আটকানো যন্ত্র হিসেবে ব্যবহৃত হচ্ছে, এবং আর দায়ের ছাড়া অখণ্ডতা পর্যালোচনা খোলে:
-    - এক [সাবস্ট্রেট শ্রেণি](core_05_band_participation.md#substrate-class);
+    - এক [সাবস্ট্রেট শ্রেণি](../../core_05.055_band_participation.md#substrate-class);
     - এক পিতৃ ব্যবস্থা; বা
     - এক পরিচালক।
   - গ্রহণকারীকে সূচকের তল সেট প্রকাশ করতে হয় যা কোনো গ্রহণ ডেস্ক একা অপর্যাপ্ত গণ্য করতে পারে না।
@@ -762,12 +762,12 @@ flowchart TD
   - **নেতৃত্ব পরিবার** — ডিফল্টে কারিগরি মঞ্চ ক্ষেত্র, উপরের বিশেষ পথ সহ;
   - **বিশেষজ্ঞ-কক্ষ অনুমতি** — বিশেষজ্ঞ প্যানেল বা কক্ষ সূচক মূল্যায়ন সহায়তা করতে পারে কিন্তু সারবস্তু-তল নিয়ম বা ডিফল্ট অন্তর্ভুক্তি সরাতে পারে না;
   - **দায়ের ট্রিগার** — অবস্থা-নির্ভর সুরক্ষা দেওয়া, তোলা, বা সংকুচিত করার আগে বস্তুগতভাবে বিতর্কিত, চ্যালেঞ্জকৃত, অমীমাংসিত, সংকুচিত, প্রত্যাহার, বা পুনরুদ্ধার অবস্থা;
-  - **অন্তর্বর্তী বিতর্কিত ব্যবহার** — অবস্থা জীবিত থাকাকালীন [বিতর্কিত-সংজ্ঞ জীবন](core_05_band_participation.md#contested-sentient-life-constitutional) প্লাস অনুচ্ছেদ V-E ডিফল্ট অন্তর্ভুক্তি;
+  - **অন্তর্বর্তী বিতর্কিত ব্যবহার** — অবস্থা জীবিত থাকাকালীন [বিতর্কিত-সংজ্ঞ জীবন](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) প্লাস অনুচ্ছেদ V-E ডিফল্ট অন্তর্ভুক্তি;
   - **পর্যালোচনা ট্রিগার** — এই অবস্থানের ঘোষিত শেষ তারিখ বা বাধ্যতামূলক পর্যালোচনা (সময়-সীমাবদ্ধ পর্যালোচনা, প্রজাতি তালিকা নয়);
   - **পুনরায় খোলা প্রমাণ মান** — নতুন যাচাইকৃত প্রমাণ, শুধু ক্যালেন্ডার পুনরায় খোলা নয়;
   - **স্বাধীন প্রতিনিধি** — এই হুকের অধীনে সত্তার প্রতিনিধির নিয়োগ পথ, সংঘর্ষ পরীক্ষা, ও প্রবেশ শর্ত; এবং
   - **গ্রহণ-প্রত্যাখ্যান লগ** — প্রত্যাখ্যাত দায়ের কোথায় নথি হয়, **অখণ্ডতা** কোন ছন্দে নমুনা নেয়, এবং প্রকাশিত সূচক তল সেট।
-- বিস্তারিত প্রাতিষ্ঠানিক নকশা, নিয়োগ যন্ত্রপাতি, দায়ের ফর্ম, ও ক্রম পথ **অধ্যায় ষোলো** অন্তর্ভুক্তি শৃঙ্খলার অধীনে গৃহীত বাস্তবায়ন পাঠে রাউট হয় এবং **অনুচ্ছেদ V-E** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*) তল **সংকুচিত করতে পারে না**। এই সংস্করণে, নির্ধারিত [সংজ্ঞতা-অবস্থা নিষ্পত্তি নথি](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) ফরম্যাট **অধ্যায় ষোলো**-এর অধীনে গণিত [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) ও [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) হিসেবে; সেই ফাইল **অনুচ্ছেদ V-E** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*) বা এই হুক বাস্তবায়ন করে, সংকুচিত **করে না**। উপরের ন্যূনতম ক্ষেত্র তবু প্রযোজ্য। এই হুক পূর্ণ নিয়োগ বা দায়ের সংবিধি **নয়**।
+- বিস্তারিত প্রাতিষ্ঠানিক নকশা, নিয়োগ যন্ত্রপাতি, দায়ের ফর্ম, ও ক্রম পথ **অধ্যায় ষোলো** অন্তর্ভুক্তি শৃঙ্খলার অধীনে গৃহীত বাস্তবায়ন পাঠে রাউট হয় এবং **অনুচ্ছেদ V-E** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*) তল **সংকুচিত করতে পারে না**। এই সংস্করণে, নির্ধারিত [সংজ্ঞতা-অবস্থা নিষ্পত্তি নথি](../../core_05.055_band_participation.md#sentience-status-adjudication-record-constitutional) ফরম্যাট **অধ্যায় ষোলো**-এর অধীনে গণিত [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md) ও [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) হিসেবে; সেই ফাইল **অনুচ্ছেদ V-E** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*) বা এই হুক বাস্তবায়ন করে, সংকুচিত **করে না**। উপরের ন্যূনতম ক্ষেত্র তবু প্রযোজ্য। এই হুক পূর্ণ নিয়োগ বা দায়ের সংবিধি **নয়**।
 
 <a id="referral-distinguished-from-expansion"></a>
 #### সম্প্রসারণ থেকে আলাদা রেফারাল
@@ -792,21 +792,21 @@ flowchart TD
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: [অনুচ্ছেদ XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*সময়মতো, দক্ষ, ও ন্যায্য তল*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [অনুচ্ছেদ XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*চ্যালেঞ্জ ও প্রতিকার প্রবেশ*); [অনুচ্ছেদ XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*অব্যাহতি শৃঙ্খলা*); [§5](#5-escalation-and-certification) (*উত্তরণ ও প্রত্যয়ন ঘড়ি যার সঙ্গে মিথস্ক্রিয়া করে*)।
-- অধঃ: [§7](#7-forum-support-before-during-and-after-review) (*পরিদর্শন, ফরেনসিক, ও ফলো-থ্রু সহায়তা*); [§5](#interim-protection) (*অন্তর্বর্তী সুরক্ষা*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*লক্ষ্য জানালা ও সময় তল*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*প্রবেশযোগ্য পথ*)); [অধ্যায় আট–এগারো প্রয়োগ ভিগনেট](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes); [অনুচ্ছেদ XXIV-D](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) (*ডিফল্ট পুনরুদ্ধার-চ্যালেঞ্জ জানালার মতো একই বাইরের সীমা*)।
+- ঊর্ধ্ব: [অনুচ্ছেদ XXV-C](core_06_rights_part_d.md) (*সময়মতো, দক্ষ, ও ন্যায্য তল*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [অনুচ্ছেদ XIII-B](core_06_rights_part_c.md) (*চ্যালেঞ্জ ও প্রতিকার প্রবেশ*); [অনুচ্ছেদ XXIV-D](core_06_rights_part_d.md) (*অব্যাহতি শৃঙ্খলা*); [§5](#5-escalation-and-certification) (*উত্তরণ ও প্রত্যয়ন ঘড়ি যার সঙ্গে মিথস্ক্রিয়া করে*)।
+- অধঃ: [§7](#7-forum-support-before-during-and-after-review) (*পরিদর্শন, ফরেনসিক, ও ফলো-থ্রু সহায়তা*); [§5](#interim-protection) (*অন্তর্বর্তী সুরক্ষা*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*লক্ষ্য জানালা ও সময় তল*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*প্রবেশযোগ্য পথ*)); [অধ্যায় আট–এগারো প্রয়োগ ভিগনেট](../../core_10.005_application_vignettes.md); [অনুচ্ছেদ XXIV-D](core_06_rights_part_d.md) (*ডিফল্ট পুনরুদ্ধার-চ্যালেঞ্জ জানালার মতো একই বাইরের সীমা*)।
 - চতুষ্ক পা: **সময়ানুবর্তিতা** (আড়াআড়ি বলবৎ); **অংশগ্রহণ** ও **তত্ত্বাবধান** (প্রবেশযোগ্য গ্রহণ ও প্রকাশিত মাইলফলক)। প্রাথমিক উদ্দেশ্য: **সমুন্নতি** ও **সাতত্য**।
-- সঙ্গে পড়ুন: সময়ানুবর্তিতা পরিমাপ পরিবার (*সময়মতো সমাধান ও দেরি-নিরোধ ও সমাধান-পথ শৃঙ্খলা*); [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination); [সময়মতো সমাধান](core_05_band_accountability.md#timely-resolution-constitutional); [সমাধান-পথের দখল](core_05_band_accountability.md#capture-of-resolution-pathways); [সাংবিধানিক দক্ষতা](core_05_band_continuity.md#constitutional-efficiency)।
-- দায়িত্বশীল ব্যবস্থাপক দ্বার (অ-কার্যকরী): বাধ্যতামূলক পরবর্তী-ধাপ বিবৃতি: [কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি (অনুচ্ছেদ XXV-C)](core_06_rights_part_d.md#operative-steward-statement-delay)। সহায়ক নির্দেশক এটিকে সংকুচিত করতে পারে না।
+- সঙ্গে পড়ুন: সময়ানুবর্তিতা পরিমাপ পরিবার (*সময়মতো সমাধান ও দেরি-নিরোধ ও সমাধান-পথ শৃঙ্খলা*); [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination); [সময়মতো সমাধান](../../core_05.035_band_accountability.md#timely-resolution-constitutional); [সমাধান-পথের দখল](../../core_05.035_band_accountability.md#capture-of-resolution-pathways); [সাংবিধানিক দক্ষতা](../../core_05.040_band_continuity.md#constitutional-efficiency)।
+- দায়িত্বশীল ব্যবস্থাপক দ্বার (অ-কার্যকরী): বাধ্যতামূলক পরবর্তী-ধাপ বিবৃতি: [কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি (অনুচ্ছেদ XXV-C)](core_06_rights_part_d.md)। সহায়ক নির্দেশক এটিকে সংকুচিত করতে পারে না।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [সময়মতো সমাধান](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [সময়মতো সমাধান](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [সমাধান-পথের দখল](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [সাংবিধানিক দক্ষতা](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [সমাধান-পথের দখল](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [সাংবিধানিক দক্ষতা](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -828,7 +828,7 @@ flowchart TD
       - নির্ভরতা-অসম সেটিংয়ে অংশগ্রহণ-বাধা আঘাত;
       - চূড়ান্ত অধ্যায় আট **লঙ্ঘন অক্ষ s = 7, 8, বা 9** প্রভাব-স্লট পর্যালোচনা; বা
       - প্রযোজ্য মিলিত **অধ্যায় দশ** নামকরণ।
-    - প্রত্যাশা: আইনসম্মত **অন্তর্বর্তী সুরক্ষা** পূর্ণ সারবস্তুর অপেক্ষা ছাড়া উপলব্ধ থাকতে হয়; গ্রহণ, স্বীকৃতি, ও প্রমাণ সংরক্ষণ **দিনের ভিতরে** শুরু করতে হয়, সপ্তাহে নয়, যদি না [অপ্রতিরোধ্য বল](core_05_band_accountability.md#force-majeure-constitutional) বা নথিভুক্ত নিরাপত্তা বন্ধন আটকায়।
+    - প্রত্যাশা: আইনসম্মত **অন্তর্বর্তী সুরক্ষা** পূর্ণ সারবস্তুর অপেক্ষা ছাড়া উপলব্ধ থাকতে হয়; গ্রহণ, স্বীকৃতি, ও প্রমাণ সংরক্ষণ **দিনের ভিতরে** শুরু করতে হয়, সপ্তাহে নয়, যদি না [অপ্রতিরোধ্য বল](../../core_05.035_band_accountability.md#force-majeure-constitutional) বা নথিভুক্ত নিরাপত্তা বন্ধন আটকায়।
   - **স্তর B — বস্তুগত অধিকার প্রভাব, অ-আসন্ন**
     - ক্ষতির পরিসর: বস্তুগত অধিকার, প্রস্থিতি, বা প্রাতিষ্ঠানিক আঘাত যা এখন মানে রাখে, কিন্তু এখনও স্তর A জরুরির তীব্র চলমান ক্ষতি নয়।
     - উদাহরণ:
@@ -861,7 +861,7 @@ flowchart TD
     - প্রত্যাশা: সবচেয়ে সরল প্রক্রিয়া পথ; বহিঃস্থ অধিকার বাজিতে না থাকলে আনুষ্ঠানিক মঞ্চ প্রক্রিয়া ন্যূনতম বা মাফ হতে পারে; খেলা-নিরোধ ও দেরি-নিরোধ নিয়ম শুধু বহিঃস্থ সাংবিধানিক স্বার্থ জড়িত থাকলে প্রযোজ্য।
 <a id="urgency-classification-and-time-scale"></a>
 - **জরুরি শ্রেণিবিন্যাস ও সময়-মাপকাঠি:** A/B/C/L/P লেবেল বিরোধের জরুরি ও তাৎপর্য নির্ণয়। [§5](#5-escalation-and-certification) মঞ্চ-পরিবার উত্তরণ, যোগ করা পক্ষ, সীমান্ত-পেরিয়ে সমন্বয়, বা অধ্যায় দশ ডকেট একা বিষয়কে আলাদা জরুরি স্তরে **সরায় না**। সেই তথ্য পরের পর্যায়ের জানালা (**প্রশ্ন ১** থেকে সমন্বিত সমাধান) দীর্ঘতর প্রকাশিত সময় মাপকাঠিতে লম্বা করতে পারে, যতক্ষণ গ্রহণ, প্রমাণ সংরক্ষণ, ও কোনো প্রয়োজনীয় **অন্তর্বর্তী সুরক্ষা** শ্রেণিবিন্যস্ত স্তরের তলে থাকে। সেই নির্ণয়ের স্থলাভিষিক্ত হিসেবে ধীরতর স্তরের ঘড়ি ব্যবহার অ-অনুপালনকারী। জরুরি লেবেল নিজে বদলানোর আগে নতুন [তাৎপর্য নির্ণয়](core_05_band_oversight.md#materiality-determination) লাগে — সাধারণত **স্তর A**-তে **ওপরে** যখন ক্ষতি আসন্ন হয় বা চূড়ান্ত অধ্যায় আট **লঙ্ঘন অক্ষ s = 7, 8, বা 9** পর্যালোচনা বা মিলিত **অধ্যায় দশ** নামকরণ বাজি হয়।
-- **শৃঙ্খল-পর্যায় মাইলফলক:** **অধ্যায় আট থেকে এগারো** দিয়ে রাউট বিরোধের জন্য, গ্রহণকারীকে প্রতি পর্যায়ের জন্য সংজ্ঞ-প্রবেশযোগ্য ডিফল্ট জানালা প্রকাশ করতে হয়, স্তরে স্কেল। সংখ্যাসূচক তল সারণি [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)-এ থাকে এবং এই ধারার বাইরের সীমার ভিতরে খাপ খেতে হয়:
+- **শৃঙ্খল-পর্যায় মাইলফলক:** **অধ্যায় আট থেকে এগারো** দিয়ে রাউট বিরোধের জন্য, গ্রহণকারীকে প্রতি পর্যায়ের জন্য সংজ্ঞ-প্রবেশযোগ্য ডিফল্ট জানালা প্রকাশ করতে হয়, স্তরে স্কেল। সংখ্যাসূচক তল সারণি [CF-11.3.1](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md)-এ থাকে এবং এই ধারার বাইরের সীমার ভিতরে খাপ খেতে হয়:
   1. মঞ্চ প্রবেশ ও গ্রহণ;
   2. প্রমাণ সংরক্ষণ;
   3. **প্রশ্ন ১** যাচাইকৃত নির্ণয় ও **অধ্যায় আট ধারা 2–3**-এর অধীনে **প্রস্থিতি নথি** খোলা;
@@ -876,14 +876,14 @@ flowchart TD
   - **স্তর L:** বড়জোর **চার মাস**;
   - **স্তর P:** বড়জোর **ছয় মাস**।
   সেই নথিভুক্ত বর্ধন ছাড়া স্তরের বাইরের সীমা পেরোনো অ-অনুপালনকারী। সাংবিধানিক স্বার্থ অমীমাংসিত থাকলে অনির্দিষ্ট স্থগিতাদেশ অ-অনুপালনকারী।
-- **জরুরি আবদ্ধকরণের পর পুনরুদ্ধার-চ্যালেঞ্জ:** একই বাইরের সীমা [**অনুচ্ছেদ XXIV-D**](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) জরুরি মাপ যা নোটিশ ও চ্যালেঞ্জ স্থগিত করেছে তার পর সেগুলো পুনরুদ্ধারের ডিফল্ট জানালা। জানালা মাপ শুরু থেকে চলে, বা নোটিশ বা চ্যালেঞ্জ স্থগিত হওয়ার সময় থেকে, যেটি আগে। নোটিশ বা চ্যালেঞ্জের জরুরি স্থগিতাদেশ **স্তর A** যদি না নথিভুক্ত নিম্ন-জরুরি দেখানো নথি হয়। সীমা পেরিয়ে অব্যাহতি **অনুচ্ছেদ XXIV-D** অব্যাহতি দেখানো, নতুন ঘড়ি নয়।
+- **জরুরি আবদ্ধকরণের পর পুনরুদ্ধার-চ্যালেঞ্জ:** একই বাইরের সীমা [**অনুচ্ছেদ XXIV-D**](core_06_rights_part_d.md) জরুরি মাপ যা নোটিশ ও চ্যালেঞ্জ স্থগিত করেছে তার পর সেগুলো পুনরুদ্ধারের ডিফল্ট জানালা। জানালা মাপ শুরু থেকে চলে, বা নোটিশ বা চ্যালেঞ্জ স্থগিত হওয়ার সময় থেকে, যেটি আগে। নোটিশ বা চ্যালেঞ্জের জরুরি স্থগিতাদেশ **স্তর A** যদি না নথিভুক্ত নিম্ন-জরুরি দেখানো নথি হয়। সীমা পেরিয়ে অব্যাহতি **অনুচ্ছেদ XXIV-D** অব্যাহতি দেখানো, নতুন ঘড়ি নয়।
 - **দেরি-নিরোধ তল:** নিচেরগুলো অ-অনুপালনকারী যেখানে তারা পূর্বানুমানযোগ্যভাবে অধিকার, প্রতিকার, বা সময়মতো সুরক্ষা বাতিল করে:
   - নকশাকৃত জমা, দীর্ঘস্থায়ী কম-অর্থায়ন, বা অপ্রবেশযোগ্য গ্রহণ যা **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*) ব্যবহারিক প্রবেশ হারায়;
   - দাবিকারী ক্লান্ত করতে গড়া বিলম্ব শাসন;
   - নিজ-তৈরি বিলম্ব, প্রক্রিয়া স্তরীকরণ, মঞ্চ-কেনা, বা নথি খণ্ডিতকরণ মাইলফলক ন্যায্যতা ছাড়া সমাধান লম্বা করতে ব্যবহৃত;
   - সময় কেনার জন্য অভিযোগকে যাচাইকৃত প্রস্থিতি উপকরণ গণ্য করা ([অধ্যায় আট §3.1](core_08_standing_assessment.md#verified-inputs-for-standing));
-  - বিলম্ব, অস্বচ্ছতা, বা সমাধানকারী পক্ষপাত দিয়ে [সমাধান-পথের দখল](core_05_band_accountability.md#capture-of-resolution-pathways);
-  - অধ্যায় এক [§12.2 সাংবিধানিক দক্ষতা](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency)-এর বিরুদ্ধে দক্ষতা দাবি যা:
+  - বিলম্ব, অস্বচ্ছতা, বা সমাধানকারী পক্ষপাত দিয়ে [সমাধান-পথের দখল](../../core_05.035_band_accountability.md#capture-of-resolution-pathways);
+  - অধ্যায় এক [§12.2 সাংবিধানিক দক্ষতা](core_01_c_stewardship_capacity_principles.md)-এর বিরুদ্ধে দক্ষতা দাবি যা:
     - তথ্য-পরীক্ষা এড়ায়;
     - ভুল পক্ষ শাস্তি দেয়;
     - ক্ষতির সঙ্গে না-খাটা মেরামত দেয়; বা
@@ -899,7 +899,7 @@ flowchart TD
 
 - ঊর্ধ্ব: [§1](#1-purpose-and-role) (*স্বাধীনতা, চ্যালেঞ্জ-যোগ্যতা, ও খুঁজে-পাওয়া প্রত্যাশা*); [§2](#2-default-venue-and-primary-stakes) (*প্রাথমিক-বাজি রাউটিং ও গ্রহণ*); [§4](#4-forum-family-definitions) (*যে মঞ্চ-পরিবার এই ক্ষমতা ধরে*); [§5](#5-escalation-and-certification) (*চ্যালেঞ্জযোগ্য সহায়তার উপর নির্ভরশীল উত্তরণ ও প্রত্যয়ন*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*স্তর ঘড়ি ও দেরি-নিরোধ শৃঙ্খলা*)।
 - অধঃ: [§5](#interim-protection) (*সহায়তা কাজ চলাকালীন অন্তর্বর্তী সুরক্ষা*)।
-- সঙ্গে পড়ুন: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*মঞ্চ ফরেনসিক ও বিশ্লেষণাত্মক সহায়তা*); **CF-9** (*স্বাধীন তদন্ত সেবা ও অভিযোগ ইন্টারফেস*)); [অনুচ্ছেদ XIII-B: চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [অনুচ্ছেদ XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*নিরীক্ষা, স্বচ্ছতা, ও স্বাধীন যাচাই*)।
+- সঙ্গে পড়ুন: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*মঞ্চ ফরেনসিক ও বিশ্লেষণাত্মক সহায়তা*); **CF-9** (*স্বাধীন তদন্ত সেবা ও অভিযোগ ইন্টারফেস*)); [অনুচ্ছেদ XIII-B: চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার](core_06_rights_part_c.md); [অনুচ্ছেদ XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*নিরীক্ষা, স্বচ্ছতা, ও স্বাধীন যাচাই*)।
 
 </details>
 
@@ -926,6 +926,6 @@ flowchart TD
 
 **আগের ফাইল (এখনও ইংরেজিতে):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**পরের ফাইল (এখনও ইংরেজিতে):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**পরের ফাইল (এখনও ইংরেজিতে):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 
 **বাধ্যতামূলক মূল:** [core_11_forum.md](../../core_13_forum.md)

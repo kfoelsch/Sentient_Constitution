@@ -107,8 +107,8 @@ class SectionCiteNameTests(unittest.TestCase):
     def test_accepts_italic_title_inside_link(self) -> None:
         self.assertEqual(
             self._cites(
-                "[Chapter Seven §2 *Four-seat constitutional floor*]"
-                "(core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)"
+                "[Chapter Seven §2 *Four-Seat Constitutional Requirement*]"
+                "(core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)"
             ),
             [],
         )

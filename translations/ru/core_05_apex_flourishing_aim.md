@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [Компас Главы пятой](core_05__definitions_home.md#компас-и-карта-определений-главы-пятой); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims); глосса слоя принципов в [Преамбуле §1](core_00_preamble.md#flourishing).
-- Назначение: Принципы: [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 Не подлежащие переговору ограничения принципа: Безопасность и Истина](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 Доверие](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 Дисциплина заявлений о конституционных исходах](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [Декомпозиция конституционной цели](#flourishing-aim-decomposition); файлы полос Тетрады, где **Расцвет** — первичная цель по [Компасу Главы пятой](core_05__definitions_home.md#компас-и-карта-определений-главы-пятой).
+- Назначение: Принципы: [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md); [§3 Не подлежащие переговору ограничения принципа: Безопасность и Истина](core_01_a_values_principles.md); [§4 Доверие](core_01_a_values_principles.md); [§11.1.5 Дисциплина заявлений о конституционных исходах](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Декомпозиция конституционной цели](#flourishing-aim-decomposition); файлы полос Тетрады, где **Расцвет** — первичная цель по [Компасу Главы пятой](core_05__definitions_home.md#компас-и-карта-определений-главы-пятой).
 - Читать вместе с: [Благополучие](../../core_05.040_band_continuity.md#wellbeing), [Безопасность (ограничение)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [Истина (конституционное ограничение)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Надёжность](../../core_05.040_band_continuity.md#trustworthiness), [Значимая агентность](../../core_05.055_band_participation.md#meaningful-agency), [Расхождение заместительных показателей](../../core_05.050_band_oversight.md#proxy-divergence), [Захват системы](../../core_05.040_band_continuity.md#system-capture), [Преемственность (Конституционная цель)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (парная цель — ни одну нельзя преследовать за счёт другой), [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad), масштабированная к [материальной ставке](core_00_preamble.md#material-stake) (рамка легитимности этой цели — не пятая составляющая), и семья измерений Расцвета.
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - Оценивайте под [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad), масштабированной к [материальной ставке](core_00_preamble.md#material-stake).
-  - Свяжите заявленные исходы расцвета с [составляющими](#flourishing-aim-decomposition) условиями и с исходами, которые сентенты на деле переживают, под Главой четвёртой и [Главой первой §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+  - Свяжите заявленные исходы расцвета с [составляющими](#flourishing-aim-decomposition) условиями и с исходами, которые сентенты на деле переживают, под Главой четвёртой и [Главой первой §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
   - Всегда читайте вместе с [Преемственностью (Конституционная цель)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): краткосрочные выгоды, которые предвидимо ослабляют долгосрочную стабильность, устойчивость к сбоям или экологическую целостность, проваливают **Расцвет**, когда две цели оцениваются вместе.
 <a id="flourishing-constitutional-c"></a>
 - C: Несоответствует когда:
   - один строительный блок максимизируется, пока истина, безопасность, надёжность или агентность выхолащиваются;
   - заявления о расцвете не могут быть прослежены к конституционным исходам под Главой четвёртой; или
-  - **Расцвет** преследуется так, что это материально побеждает [Преемственность (Конституционная цель)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) без ясного разрешения под [Главой первой §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
+  - **Расцвет** преследуется так, что это материально побеждает [Преемственность (Конституционная цель)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) без ясного разрешения под [Главой первой §6](core_01_b_interaction_interpretation.md).
 
 ---
 

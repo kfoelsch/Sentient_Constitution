@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-22T02:29:55+00:00
+Generated: 2026-10-22T21:44:43+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **274/274** terms pass tier audit.
+Approved progress: **275/275** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -255,6 +255,7 @@ Approved progress: **274/274** terms pass tier audit.
 | Incentive Alignment — contingent claims, games of chance, and event-contract markets | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Incentive Alignment — strategic, scaled, and adversarial evaluation | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Incentive Alignment, Proxy Integrity, and Contingent Settlement | approved | primary_secondary | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
+| Independence | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Initiating Seat | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Innovation Reward and Anti-Enclosure | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Insider Advantage | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |

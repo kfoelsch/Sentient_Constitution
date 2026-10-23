@@ -216,7 +216,7 @@ Nơi bất định ngăn chứng minh tuân thủ dứt điểm cho các thành 
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [Chương Ba, mục 2 — Không tuân thủ từ hành vi hệ thống quan sát được](#2-không-tuân-thủ-từ-hành-vi-hệ-thống-quan-sát-được); [Chương Hai, §2 Yêu cầu tính toàn vẹn định nghĩa](core_02_definition_structure.md#2-yêu-cầu-tính-toàn-vẹn-định-nghĩa).
-- Hạ nguồn: [Chương Bốn, mục 2 — Yêu cầu truy vết định nghĩa](core_04_burden_traceability_verification.md#2-yêu-cầu-truy-vết-định-nghĩa); [Chương Chín — Chứng nhận thẳng hàng hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chương Mười — Mô hình đóng góp, vi phạm, và quỹ đạo](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chương Mười Một — Hiệu ứng quỹ đạo và tích hợp](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 La bàn hiến pháp và bản đồ cụm](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- Hạ nguồn: [Chương Bốn, mục 2 — Yêu cầu truy vết định nghĩa](core_04_burden_traceability_verification.md#2-yêu-cầu-truy-vết-định-nghĩa); [Chương Chín — Chứng nhận thẳng hàng hệ thống](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Chương Mười — Mô hình đóng góp, vi phạm, và quỹ đạo](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Chương Mười Một — Hiệu ứng quỹ đạo và tích hợp](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 La bàn hiến pháp và bản đồ cụm](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Đọc cùng: [Hồ sơ phát hiện không tuân thủ](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — nhà chuẩn O/M/A/C cho các trường hồ sơ; [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@ Quỹ đạo của một thể chế bị ảnh hưởng khi thể chế là đ�
 <a id="34-operational-constraints"></a>
 #### 3.4 Ràng buộc vận hành
 
-Không tuân thủ cũng có thể được tìm đối với ràng buộc vận hành trong kho văn bản triển khai chung. Hồ sơ phát hiện mặc định và cách chúng gắn vào những phát hiện đó được xử ở đó — không ở chương này. Xem [CJS-3.1 La bàn hiến pháp và bản đồ cụm](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+Không tuân thủ cũng có thể được tìm đối với ràng buộc vận hành trong kho văn bản triển khai chung. Hồ sơ phát hiện mặc định và cách chúng gắn vào những phát hiện đó được xử ở đó — không ở chương này. Xem [CJS-3.1 La bàn hiến pháp và bản đồ cụm](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

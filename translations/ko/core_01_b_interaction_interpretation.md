@@ -23,24 +23,24 @@
 
 - [헌법의 네 요소](core_00_preamble.md#constitutional-tetrad) — **참여**, **감독**, **책임성**, **적시성**이며, [중대한 이해관계](core_00_preamble.md#material-stake)에 비례하여 조정됩니다.
 - [두 가지 헌법 목표](core_00_preamble.md#two-constitutional-aims) — [번영](core_00_preamble.md#flourishing)과 [연속성](core_00_preamble.md#continuity) (헌법상 **연속성 목표**로, 코퍼스의 다른 곳에서 다루는 운영상 또는 프로토콜 연속성과는 구별됩니다.)
-- [중대한 이해관계](core_00_preamble.md#material-stake) — 네 요소의 의무에 대해 영향, 의존성, 위험을 비례 조정하는 기준입니다. 통합적 중요성([중요성](core_05_band_oversight.md#materiality)) 및 아래의 제5장 항목과 함께 읽습니다.
+- [중대한 이해관계](core_00_preamble.md#material-stake) — 네 요소의 의무에 대해 영향, 의존성, 위험을 비례 조정하는 기준입니다. 통합적 중요성([중요성](../../core_05.050_band_oversight.md#materiality)) 및 아래의 제5장 항목과 함께 읽습니다.
 
 **제5장의 대리 정의**(O/M/A/C 충족 — 실질적으로 관련되는 경우 제2장부터 제4장까지 추적):
 
-- [웰빙](core_05_band_continuity.md#wellbeing) (번영 목표)
-- [감독](core_05_apex_oversight_leg.md#oversight), [책임성](core_05_apex_accountability_leg.md#accountability), [쟁점 제기 가능성](core_05_band_accountability.md#contestability), [거버넌스](core_05_band_accountability.md#governance), [분류 비례 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스)
-- [중대한](core_05_band_oversight.md#실질), [중대한 영향](core_05_band_oversight.md#실질-영향), [중대한 위험](core_05_band_oversight.md#실질-위험), [중요성](core_05_band_oversight.md#materiality) (위젯에서는 이를 **중요성**이라고 부릅니다), [시스템적 중요성](core_05_band_continuity.md#systemic-materiality) — 클러스터: [중요성, 영향, 위험 및 대리 지표의 무결성](core_05_band_oversight.md#실질성-영향-위험-대리지표-완전성)
+- [웰빙](../../core_05.040_band_continuity.md#wellbeing) (번영 목표)
+- [감독](../../core_05.020_apex_oversight_leg.md#oversight), [책임성](core_05_apex_accountability_leg.md#accountability), [쟁점 제기 가능성](../../core_05.035_band_accountability.md#contestability), [거버넌스](../../core_05.035_band_accountability.md#governance), [분류 비례 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스)
+- [중대한](core_05_band_oversight.md#실질), [중대한 영향](core_05_band_oversight.md#실질-영향), [중대한 위험](core_05_band_oversight.md#실질-위험), [중요성](../../core_05.050_band_oversight.md#materiality) (위젯에서는 이를 **중요성**이라고 부릅니다), [시스템적 중요성](../../core_05.040_band_continuity.md#systemic-materiality) — 클러스터: [중요성, 영향, 위험 및 대리 지표의 무결성](core_05_band_oversight.md#실질성-영향-위험-대리지표-완전성)
 
 **제5장 §3의 주요 종속 클러스터**(공동 호출 그룹 — 실질적으로 관련되는 경우 제2장부터 제4장까지와 함께 읽기):
 
-- [이해관계자의 지위와 비중](core_05_band_participation.md#stakeholder-status-and-weight) (이해관계자 시스템 참여 계층)
-- [헌법 계약 계층](core_05_band_integrative.md#헌법-계약-층) 및 [거버넌스 아키텍처, 감독, 의존성, 탈중앙화, 집중, 시장 구조, 출구 경로의 무결성](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- [이해관계자의 지위와 비중](../../core_05.055_band_participation.md#stakeholder-status-and-weight) (이해관계자 시스템 참여 계층)
+- [헌법 계약 계층](core_05_band_integrative.md#헌법-계약-층) 및 [거버넌스 아키텍처, 감독, 의존성, 탈중앙화, 집중, 시장 구조, 출구 경로의 무결성](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - [코퍼스와 권한 계층](core_05_band_integrative.md#defi1-코퍼스와-권위-스택)
 - [책임성, 쟁점 제기 가능성, 집단 책임성 실패](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3** (*운영 클러스터 라이브러리(oDef)*) — 여러 구현에 걸쳐 공동으로 쓰이는 운영 용어를 위한 운영 클러스터 나침반입니다. 이 장의 네 요소, 목표, 중대한 이해관계의 비례 조정과 함께 읽습니다.
 
-- [CJS-3.1 헌법 나침반 및 클러스터 지도](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — **CJS-3.2** (*감독: 성찰적 투명성과 책임성 용어*)부터 **CJS-3.23** (*통합: 개입 및 우선권 행사의 무결성 용어*)까지의 클러스터를 위한 기본 진입점입니다. 이 클러스터들은 네 요소의 각 축, 연속성 목표, 요소 간 통합 영역을 기준으로 구성됩니다.
+- [CJS-3.1 헌법 나침반 및 클러스터 지도](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — **CJS-3.2** (*감독: 성찰적 투명성과 책임성 용어*)부터 **CJS-3.23** (*통합: 개입 및 우선권 행사의 무결성 용어*)까지의 클러스터를 위한 기본 진입점입니다. 이 클러스터들은 네 요소의 각 축, 연속성 목표, 요소 간 통합 영역을 기준으로 구성됩니다.
 
 </details>
 
@@ -53,7 +53,7 @@
 
 - **원칙들이 충돌할 때** ([§13 헌법상 충돌 해결 절차](#13-헌법상-충돌-해결-절차)): 안전과 진실이 우선하며, 다른 모든 상충관계에서도 쉬운 해결을 위해 네 요소를 약화시키지 말고 보존해야 합니다.
 - **한 가치가 지나치게 밀어붙여질 때** ([§14 절대적 우선권 행사 금지](#14-prohibition-on-absolute-override)): 어떠한 가치도, 두 목표 중 어느 것도, 중대한 이해관계가 요구하는 수준 아래로 한 요소를 무력화하는 데 사용할 수 없습니다.
-- **헌법을 읽거나 적용할 때** ([§15 헌법 해석](#15-constitutional-interpretation)): 같은 행위의 이름을 바꾸거나, 나누거나, 다른 경로로 돌려도 요건을 피할 수 없으며, 모호성은 [최대한의 보호 효과](core_05_band_integrative.md#fullest-protective-effect)를 향해 해석합니다.
+- **헌법을 읽거나 적용할 때** ([§15 헌법 해석](#15-constitutional-interpretation)): 같은 행위의 이름을 바꾸거나, 나누거나, 다른 경로로 돌려도 요건을 피할 수 없으며, 모호성은 [최대한의 보호 효과](../../core_05.045_band_integrative.md#fullest-protective-effect)를 향해 해석합니다.
 
 **제B부가 각 요소를 구현하는 위치.** 각 절의 추적에는 그 절이 다루는 모든 요소가 나열됩니다. 이 표는 주요 위치를 보여 줍니다.
 
@@ -66,7 +66,7 @@
 
 **어떤 축도 직접 다루지 않는 절.** [§15.1.1 분할 방지 원칙](#1511-분할-방지-원칙)과 [§15.4.1](#1541-통합적-해석)부터 [§15.4.3](#1543-편입-층위)까지는 텍스트를 읽는 방법과 어느 출처 계층이 우선하는지를 규율합니다. 의도적으로 해당 추적에는 네 요소의 축이 표시되지 않습니다.
 
-**시간의 두 가지 의미.** 제B부에서 시간은 두 의미로 쓰입니다. 장기 시간 지평(지연되거나 누적되는 피해, 그리고 [제8장 §3.2 시간 일관성 제약](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)이 [§13.1.2](#1312-피해-최소화)에 적용되는 경우)은 **연속성** 목표에 속합니다. 시계, 검토 주기, 지연(제한의 시간 한도, 최종 공개, 피할 수 있는 지연)은 **적시성** 축에 속합니다.
+**시간의 두 가지 의미.** 제B부에서 시간은 두 의미로 쓰입니다. 장기 시간 지평(지연되거나 누적되는 피해, 그리고 [제8장 §3.2 시간 일관성 제약](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)이 [§13.1.2](#1312-피해-최소화)에 적용되는 경우)은 **연속성** 목표에 속합니다. 시계, 검토 주기, 지연(제한의 시간 한도, 최종 공개, 피할 수 있는 지연)은 **적시성** 축에 속합니다.
 
 **두 축이지 충돌이 아닙니다.** 제A부의 목표는 공유 시스템이 무엇을 추구하는지 말해 줍니다. 제B부는 그 과정에서 어떠한 상충관계, 우선권 행사 또는 해석도 무엇을 빼앗을 수 없는지 말해 줍니다.
 
@@ -81,7 +81,7 @@
 
 - 함께 읽을 것: [헌법의 네 요소](core_00_preamble.md#constitutional-tetrad) — 절차, 공개, 헌법상 충돌 처리 및 구제에서의 참여, 감독, 책임성, 적시성; [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
 - 상위 원칙: [3. 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [7. 자유(제약된 행위 역량)](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [§16 수탁 책임 심층 설명](core_01_c_stewardship_capacity_principles.md#16-관리의-상세-내용).
-- 하위 규정: [13.2.1 인식론적 무결성 보존](#1321-인식론적-무결성-보전), [헌법상 충돌 기록](core_05_band_integrative.md#constitutional-collision-record), [기본 임시 입장](#default-interim-posture), 그리고 [14. 절대적 우선권 행사 금지](#14-prohibition-on-absolute-override).
+- 하위 규정: [13.2.1 인식론적 무결성 보존](#1321-인식론적-무결성-보전), [헌법상 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record), [기본 임시 입장](#default-interim-posture), 그리고 [14. 절대적 우선권 행사 금지](#14-prohibition-on-absolute-override).
 - [제6장: 기본권](core_06_rights_part_a.md#제6장-기초-권리) 전반의 조문 간 충돌을 규율합니다.
   - [제24조: 헌법 해석, 심사 및 포획 방지 안전장치](core_06_rights_part_d.md#제xxv조-헌법-해석-검토-포획-방지-장치) 및 [제20조: 확인된 침해 이후의 정의](core_06_rights_part_d.md#article-xx-justice-after-verified-violation)와 함께 읽으십시오.
   - 심사, 비상사태 또는 헌법상 충돌에 관한 쟁점이 생기면 적용하십시오.
@@ -91,7 +91,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [헌법상 충돌](core_05_band_integrative.md#constitutional-collision) · [O](core_05_band_integrative.md#constitutional-collision) · [M](core_05_band_integrative.md#constitutional-collision-a) · [A](core_05_band_integrative.md#constitutional-collision-a) · [C](core_05_band_integrative.md#constitutional-collision-c)
+- [헌법상 충돌](../../core_05.045_band_integrative.md#constitutional-collision) · [O](../../core_05.045_band_integrative.md#constitutional-collision) · [M](../../core_05.045_band_integrative.md#constitutional-collision-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-c)
 - [참여](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [책임성](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
@@ -101,12 +101,12 @@
 
 <br>
 
-*쉽게 말해, 헌법상 충돌은 발생합니다. **안전**과 **진실**이 우선입니다. 그다음에는 제한이 비례적이고 필요하며 피해를 최소화하고 가능한 한 가벼워야 합니다. 편의를 위해 진실을 숨겨서는 안 됩니다. 편리함을 위해 프라이버시를 박탈해서는 안 됩니다. 자유 제한은 [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline)에 따라 적용됩니다. 권리와 관련된 헌법상 충돌에는 문서화된 의사결정 검사가 필요하며, 준수 여부를 거짓으로 보여 주는 지표는 인정되지 않습니다. [제8장 §3.2 시간 일관성 제약](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)에 따라 단기 최적화는 평가를 통과할 수 없습니다. **§13.1**(*핵심 상충 원칙*)부터 **§13.3**(*피할 수 있는 부담의 최소화*)까지는 상충 규칙, 공개 및 프라이버시 제한, 헌법상 충돌 절차를 규정합니다.*
+*쉽게 말해, 헌법상 충돌은 발생합니다. **안전**과 **진실**이 우선입니다. 그다음에는 제한이 비례적이고 필요하며 피해를 최소화하고 가능한 한 가벼워야 합니다. 편의를 위해 진실을 숨겨서는 안 됩니다. 편리함을 위해 프라이버시를 박탈해서는 안 됩니다. 자유 제한은 [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline)에 따라 적용됩니다. 권리와 관련된 헌법상 충돌에는 문서화된 의사결정 검사가 필요하며, 준수 여부를 거짓으로 보여 주는 지표는 인정되지 않습니다. [제8장 §3.2 시간 일관성 제약](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)에 따라 단기 최적화는 평가를 통과할 수 없습니다. **§13.1**(*핵심 상충 원칙*)부터 **§13.3**(*피할 수 있는 부담의 최소화*)까지는 상충 규칙, 공개 및 프라이버시 제한, 헌법상 충돌 절차를 규정합니다.*
 
 제B부는 다음 세 상황에서 네 요소를 온전히 유지합니다.
-- **[헌법상 충돌](core_05_band_integrative.md#constitutional-collision)(이 절):** 어느 요소도 약화시키지 않고 충돌을 해결합니다.
+- **[헌법상 충돌](../../core_05.045_band_integrative.md#constitutional-collision)(이 절):** 어느 요소도 약화시키지 않고 충돌을 해결합니다.
 - **과도한 권한 행사([§14 절대적 우선권 행사 금지](#14-prohibition-on-absolute-override)):** 어느 하나의 가치도, 두 목표 중 어느 하나도, 다른 가치보다 우선하거나 중대한 이해관계가 요구하는 수준 아래로 한 요소를 무력화하지 못하게 합니다.
-- **읽기와 적용([§15 헌법 해석](#15-constitutional-interpretation)):** 같은 행위의 이름을 바꾸거나, 분할하거나, 경로를 바꾸어 요건을 피하는 것을 금지하고, 모호성은 [최대한의 보호 효과](core_05_band_integrative.md#fullest-protective-effect)를 향해 해석합니다.
+- **읽기와 적용([§15 헌법 해석](#15-constitutional-interpretation)):** 같은 행위의 이름을 바꾸거나, 분할하거나, 경로를 바꾸어 요건을 피하는 것을 금지하고, 모호성은 [최대한의 보호 효과](../../core_05.045_band_integrative.md#fullest-protective-effect)를 향해 해석합니다.
 
 가치나 제약이 충돌할 때:
 - **우선순위:** **안전**이나 **진실**을 위반하지 않고는 충돌을 해결할 수 없는 경우, **안전**과 **진실**이 우선합니다.
@@ -167,9 +167,9 @@ flowchart TB
 
 *범위.* [§13.1 핵심 상충 원칙](#131-핵심-상충-원칙) — 상충 해결 절차에서의 필요성, 피해 최소화 및 피해에 관한 정의.
 
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [피해 최소화(상충 해결 선택)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [피해](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [피해 최소화(상충 해결 선택)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [피해](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
 
 </details>
 
@@ -228,10 +228,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [실현 가능성](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
-- [자유(제한된 행위 주체성)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [실질적 행위 주체성](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [실현 가능성](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
+- [자유(제한된 행위 주체성)](../../core_05.055_band_participation.md#freedom-bounded-agency) · [O](../../core_05.055_band_participation.md#freedom-bounded-agency) · [M](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05.055_band_participation.md#freedom-bounded-agency-c)
+- [실질적 행위 주체성](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -254,7 +254,7 @@ flowchart TB
 - 권리에 중대한 영향이 있는 경우 비용 절감만을 근거로 하는 주장;
 - 제한이 이미 존재한다는 사실.
 
-**범위.** 이 하위 절은 모든 헌법상 제한에 적용되며 — [§13.1.5 권리 충돌 절차](#1315-rights-collision-decision-test)에 따른 헌법상 충돌 상황에만 한정되지 않는다. 제한이 [자유(제한된 행위 주체성)](core_05_band_participation.md#freedom-bounded-agency), [실질적 행위 주체성](core_05_band_participation.md#meaningful-agency) 또는 [동의](core_05_band_participation.md#consent)에 중대한 부담을 주는 경우, 필요성 입증도 그에 상응하게 엄격해야 한다.
+**범위.** 이 하위 절은 모든 헌법상 제한에 적용되며 — [§13.1.5 권리 충돌 절차](#1315-rights-collision-decision-test)에 따른 헌법상 충돌 상황에만 한정되지 않는다. 제한이 [자유(제한된 행위 주체성)](../../core_05.055_band_participation.md#freedom-bounded-agency), [실질적 행위 주체성](../../core_05.055_band_participation.md#meaningful-agency) 또는 [동의](../../core_05.055_band_participation.md#consent)에 중대한 부담을 주는 경우, 필요성 입증도 그에 상응하게 엄격해야 한다.
 <a id="1312-harm-minimization"></a>
 ##### 13.1.2 피해 최소화
 <details>
@@ -267,12 +267,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [피해 최소화(상충관계 선택)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [피해](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [생태적 온전성](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [생태적 복구 역량](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [위험](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [돌이킬 수 없는 피해](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [피해 최소화(상충관계 선택)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [피해](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [생태적 온전성](../../core_05.040_band_continuity.md#ecological-integrity) · [O](../../core_05.040_band_continuity.md#ecological-integrity) · [M](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
+- [생태적 복구 역량](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [위험](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [돌이킬 수 없는 피해](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 
 </details>
 
@@ -280,10 +280,10 @@ flowchart TB
 
 *쉽게 말해, [§13.1.1 필요성](#1311-필요성)을 충족한 뒤 여러 필수 선택지가 남아 있다면, 영향을 받는 모든 이들, 생태계와 생명 시스템, 영향을 받는 모든 시스템, 그리고 중요한 모든 시간 범위를 고려해 총피해가 가장 적은 선택지를 고르세요. 지역적으로 최적화하면서 시스템적 또는 생태적 피해를 만들거나, 단기적으로 최적화하면서 장기적 피해를 만드는 것은 이 기준을 통과하지 못합니다. 피해 최소화는 [§13.1.4 헌법상 최저선, 안전 및 비하 방지 절차](#1314-헌법상-최소-기준-안전-및-존엄을-훼손하는-절차의-금지)에 명시된 헌법상 최저선 아래로 내려가는 것을 결코 허용하지 않습니다.*
 
-**비교 범위.** 헌법적으로 충분한 여러 선택지가 [안전(§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [진실(§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1.1 필요성](#1311-필요성)을 충족하는 경우, 다음에 대한 총 [피해](core_05_band_accountability.md#harm)를 최소화하는 선택지를 우선해야 합니다.
+**비교 범위.** 헌법적으로 충분한 여러 선택지가 [안전(§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [진실(§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1.1 필요성](#1311-필요성)을 충족하는 경우, 다음에 대한 총 [피해](../../core_05.035_band_accountability.md#harm)를 최소화하는 선택지를 우선해야 합니다.
 - 직접 및 간접으로 영향을 받는 감응 존재;
 - 결과를 전달하거나 매개하거나 그 결과에 의존하는 시스템;
-- [생태적 온전성](core_05_band_continuity.md#ecological-integrity) 및 피해 이후 복구가 중대한 경우 [생태적 복구 역량](core_05_band_continuity.md#ecological-recovery-capacity)을 포함한 생태계와 생명 시스템;
+- [생태적 온전성](../../core_05.040_band_continuity.md#ecological-integrity) 및 피해 이후 복구가 중대한 경우 [생태적 복구 역량](../../core_05.040_band_continuity.md#ecological-recovery-capacity)을 포함한 생태계와 생명 시스템;
 - 지연 및 누적 효과를 포함한 관련 시간 범위.
 
 **집계 요건.** 피해 평가는 다음을 집계해야 합니다.
@@ -298,7 +298,7 @@ flowchart TB
 - 더 큰 시스템적·집계적·생태적 피해를 만들면서 지역적 또는 즉각적 피해만을 기준으로 최적화하는 행위;
 - 확인된 당사자의 피해를 최소화하는 것처럼 보이게 하려고 생태계, 확인되지 않은 감응 존재 또는 그 밖에 산정되지 않은 당사자에게 피해를 전가하는 행위.
 
-**시간 범위 규율.** 장기적 시스템 비용을 치르며 단기적으로 최적화하는 것은 이 기준을 통과하지 못합니다. 피해 최소화는 [제8장 §3.2 시간 일관성 제약](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)을 고려해야 합니다. 현재 기간에는 피해를 최소화하는 것처럼 보이더라도 관련 헌법상 시간 범위에 걸쳐 예측 가능한 더 큰 피해를 일으키는 결정은 준수하지 않는 것입니다.
+**시간 범위 규율.** 장기적 시스템 비용을 치르며 단기적으로 최적화하는 것은 이 기준을 통과하지 못합니다. 피해 최소화는 [제8장 §3.2 시간 일관성 제약](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)을 고려해야 합니다. 현재 기간에는 피해를 최소화하는 것처럼 보이더라도 관련 헌법상 시간 범위에 걸쳐 예측 가능한 더 큰 피해를 일으키는 결정은 준수하지 않는 것입니다.
 
 **헌법상 최저선과의 관계.** 피해 최소화는 [§13.1.4 헌법상 최저선, 안전 및 비하 방지 절차](#1314-헌법상-최소-기준-안전-및-존엄을-훼손하는-절차의-금지)에 명시된 헌법상 최저선 *위에서* 작동합니다. 다음을 결코 허용하지 않습니다.
 - 권리 최저선의 영구적 소멸;
@@ -320,14 +320,14 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [위험](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [회복 불가능한 피해](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [실존적 위험](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [생태적 회복 역량](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [체계적 고착](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [가역성](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [의존성](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [비례성](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [위험](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [회복 불가능한 피해](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [실존적 위험](../../core_05.040_band_continuity.md#existential-risk) · [O](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [A](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [생태적 회복 역량](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [체계적 고착](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [가역성](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [의존성](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [책임성](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [감독](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
@@ -337,13 +337,13 @@ flowchart TB
 
 *쉽게 말해, 비례성은 제한의 규모가 그 제한이 다루려는 피해의 규모에 맞는지 확인합니다. 필요하고 피해를 최소화하는 선택지도 그 범위, 기간 또는 강도가 실제로 걸린 사안에 비해 과도하면 부적절합니다. 위험이 더 비가역적이거나 체계적이거나 의존성을 만들어 낼수록, 정당화와 면밀한 심사는 더 강해야 합니다. 권력에도 동일한 과소 거버넌스 방지 원칙이 적용됩니다. 승인된 권한이 더 크거나 중대한 결과를 수반하는 역할일수록 책임성과 감독을 낮추는 것이 아니라 높여야 합니다.*
 
-헌법상 **가치**에 대한 제한은 **제6장**의 **권리 최저선** 보호와 [§13 헌법적 충돌 해결 절차](#13-헌법상-충돌-해결-절차)에 따라 상충 조정의 대상이 되는 기타 원칙 및 보호를 포함하여, 정당하게 다루는 **피해** 또는 **체계적 영향**의 규모와 발생 가능성에 비례해야 하며 **제5장**의 [비례성](core_05_band_accountability.md#proportionality)과 일치해야 합니다.
+헌법상 **가치**에 대한 제한은 **제6장**의 **권리 최저선** 보호와 [§13 헌법적 충돌 해결 절차](#13-헌법상-충돌-해결-절차)에 따라 상충 조정의 대상이 되는 기타 원칙 및 보호를 포함하여, 정당하게 다루는 **피해** 또는 **체계적 영향**의 규모와 발생 가능성에 비례해야 하며 **제5장**의 [비례성](../../core_05.035_band_accountability.md#proportionality)과 일치해야 합니다.
 
 **분류 최저 기준.** 어떤 시스템도 적용 가능한 최고 분류가 요구하는 수준보다 낮게 거버넌스되어서는 안 됩니다. 더 낮은 행정상 표시는 위험, 의존성, 권리 또는 체계적 영향에 대한 적용 가능한 최고 분류가 요구하는 심사를 줄일 수 없습니다.
 
 **권한에 비례하는 책임성.** 비례성은 더 큰 승인 권한, 중대한 결과를 수반하는 역할 또는 제도적 영향력을 가진 자에 대한 과소 거버넌스도 금지합니다. [책임성](core_05_apex_accountability_leg.md#accountability)과 [감독](core_05_apex_oversight_leg.md#oversight-constitutional)의 강도는 해당 권한에 따라 높아져야 하며, 낮아져서는 안 됩니다.
 
-**강화된 기준.** 행위가 회복 불가능한 피해, 체계적 고착, 실존적 위험 또는 생태적 회복 역량의 회복 불가능한 상실 위험을 초래하는 경우, 시스템은 [강화 심사](core_05_band_oversight.md#heightened-scrutiny)를 적용하고, 가능한 범위에서 정당화와 가역성에 대한 기준을 높여야 합니다.
+**강화된 기준.** 행위가 회복 불가능한 피해, 체계적 고착, 실존적 위험 또는 생태적 회복 역량의 회복 불가능한 상실 위험을 초래하는 경우, 시스템은 [강화 심사](../../core_05.050_band_oversight.md#heightened-scrutiny)를 적용하고, 가능한 범위에서 정당화와 가역성에 대한 기준을 높여야 합니다.
 
 **추가 상향.** 다음을 포함해 실질적으로 관련된 지표가 적용되는 경우 기준을 다시 높여야 합니다.
 - 비가역성 노출
@@ -364,13 +364,13 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [안전(헌법상 제약)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [존엄과 동등한 도덕적 지위](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [잔혹 행위](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [해악](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [회복 불가능한 해악](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [안전(헌법상 제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [존엄과 동등한 도덕적 지위](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [잔혹 행위](../../core_05.035_band_accountability.md#cruelty) · [O](../../core_05.035_band_accountability.md#cruelty) · [M](../../core_05.035_band_accountability.md#cruelty-a) · [A](../../core_05.035_band_accountability.md#cruelty-a) · [C](../../core_05.035_band_accountability.md#cruelty-c)
+- [해악](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [회복 불가능한 해악](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [비례성](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -386,7 +386,7 @@ flowchart TB
 
 ###### 존엄 원칙
 
-**존엄 원칙**은 다음 두 원칙을 말한다. [권리 최저선 최소 기준 원칙](#권리-최저선-최소-기준-원칙)과 [존엄 훼손 절차 금지 원칙](#존엄-훼손-절차-금지-원칙)이다. 이 두 원칙은 함께 [존엄과 동등한 도덕적 지위](core_05_band_participation.md#dignity-and-equal-moral-standing)를 절대적 최소 기준으로 구체화한다. 즉, 어떤 감각 있는 존재에게서도 영구히 빼앗을 수 없는 것과 모든 절차에서 감각 있는 존재를 대할 때 금지되는 방식을 정한다. 최소한의 생계 수단에 대한 접근과 핵심적인 이의 제기, 심사 및 항소 권리는 존엄 원칙에 속한다. 이는 자신의 지위가 중요하게 여겨지는 사람으로 대우받기 위한 최소 조건이기 때문이다. 동등한 지위 그 자체와 이를 부정할 수 없는 근거는 [제VI-A조](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)(*존엄과 동등한 도덕적 지위*)에 명시되어 있다.
+**존엄 원칙**은 다음 두 원칙을 말한다. [권리 최저선 최소 기준 원칙](#권리-최저선-최소-기준-원칙)과 [존엄 훼손 절차 금지 원칙](#존엄-훼손-절차-금지-원칙)이다. 이 두 원칙은 함께 [존엄과 동등한 도덕적 지위](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing)를 절대적 최소 기준으로 구체화한다. 즉, 어떤 감각 있는 존재에게서도 영구히 빼앗을 수 없는 것과 모든 절차에서 감각 있는 존재를 대할 때 금지되는 방식을 정한다. 최소한의 생계 수단에 대한 접근과 핵심적인 이의 제기, 심사 및 항소 권리는 존엄 원칙에 속한다. 이는 자신의 지위가 중요하게 여겨지는 사람으로 대우받기 위한 최소 조건이기 때문이다. 동등한 지위 그 자체와 이를 부정할 수 없는 근거는 [제VI-A조](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)(*존엄과 동등한 도덕적 지위*)에 명시되어 있다.
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -395,7 +395,7 @@ flowchart TB
 이 원칙은 다음과 같이 권리 최저선을 보호한다.
 
 - 어떠한 헌법상 절차, 조치, 전환, 개정, 지위 관련 결과, 비상 조치 또는 사법 관련 결과도 [제VI-A조](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)(*존엄과 동등한 도덕적 지위*) 및 [존엄 훼손 절차 금지 원칙](#존엄-훼손-절차-금지-원칙)에 따른 기본적 존엄 보호, 최소 생계 수단에 대한 접근, 또는 핵심적인 이의 제기, 심사 및 항소 권리라는 **권리 최저선 최소 기준**을 영구적으로 소멸시키거나 포기하게 해서는 안 된다.
-- 특정 권리를 일시적으로 제한하는 것은 [최소 제한·기간 제한·심사 가능한 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)과 [제12장 §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden)(*비상 조치 및 지속의 입증 책임*)의 비상 규칙을 충족하는 경우에만 허용된다. 즉, 모든 제한은 정당화되고, 최소한이어야 하며, 문서화되고, 기간이 한정되며, 독립적으로 심사될 수 있어야 한다. 개별 조항은 더 강한 보호 조치를 추가할 수 있지만, 이 원칙을 축소하거나 편의, 효율성, 분류, 비상사태, 전환, 지위, 개정, 계약 또는 이행이라는 표지를 이용해 우회해서는 안 된다.
+- 특정 권리를 일시적으로 제한하는 것은 [최소 제한·기간 제한·심사 가능한 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)과 [제12장 §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden)(*비상 조치 및 지속의 입증 책임*)의 비상 규칙을 충족하는 경우에만 허용된다. 즉, 모든 제한은 정당화되고, 최소한이어야 하며, 문서화되고, 기간이 한정되며, 독립적으로 심사될 수 있어야 한다. 개별 조항은 더 강한 보호 조치를 추가할 수 있지만, 이 원칙을 축소하거나 편의, 효율성, 분류, 비상사태, 전환, 지위, 개정, 계약 또는 이행이라는 표지를 이용해 우회해서는 안 된다.
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -404,7 +404,9 @@ flowchart TB
 A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_principles.md#33-존엄-훼손-방지-절차)은 이 상충 이익 검토 단계에서 절대적인 최소 기준으로 작동한다.
 - 필요성, 해악 최소화, 비례성을 충족하는 제한, 구제 또는 절차라 하더라도 존엄을 훼손하거나 모욕하거나 구경거리로 만들거나 보복하거나 차별적 부담을 지우거나 편의를 이유로 권리를 침식하는 방식으로 설계·표현·수행되거나 작동하도록 허용되어서는 안 된다.
 - 존엄을 훼손하는 절차를 통해 올바른 실체적 결과를 내더라도 준수로 볼 수 없다.
-- 금지되는 성격이 고통 자체를 목적으로 하거나 무상으로 / 존엄을 훼손하는 고통을 가하는 것인 경우 — 모욕 그 자체를 목적으로 하는 행위 포함 — [잔혹 행위](core_05_band_accountability.md#cruelty)와 함께 읽는다.
+- 금지되는 성격이 고통 자체를 목적으로 하거나 무상으로 / 존엄을 훼손하는 고통을 가하는 것인 경우 — 모욕 그 자체를 목적으로 하는 행위 포함 — [잔혹 행위](../../core_05.035_band_accountability.md#cruelty)와 함께 읽는다.
+
+<a id="1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
 
 ##### 13.1.5 최소 제한·기간 제한·심사 가능한 제약 원칙
 
@@ -412,14 +414,14 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 <summary><strong><span style="color: #2563eb;">연계</span></strong></summary>
 
 - [헌법적 사원칙](core_00_preamble.md#constitutional-tetrad)의 네 축 모두와 함께 읽기: **감독** 축(제한은 독립 심사가 가능하도록 유지되고, 증거는 보존되며, 헌법상 충돌이 계류 중에도 독립 심사자가 계속 접근할 수 있어야 함); **책임성** 축(문서화되고 감사 가능한 헌법상 충돌 기록에 규칙, 대안, 증거 및 선택 근거를 명시함); **참여** 축(영향받는 당사자가 결정을 이해하고 이의를 제기하고 재구성할 수 있어야 하며, 무엇이 동결되었는지 안내받아야 함); **적시성** 축(더 강한 권리 최저선 규칙에서 달리 정하지 않는 한 제한은 일시적이어야 하며, 기간 또는 심사 주기와 회복 경로를 갖추고, 계류 중인 헌법상 충돌은 해당 시계를 따라야 함); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정(심각성, 비가역성, 의존 집중도 및 불확실성이 커질수록 입증 책임이 높아짐).
-- 후속 규정: [제XXV-B조: 권리 충돌 절차 및 회복적 정렬](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)(심의 기관은 이 판단 기준을 적용함); [제XXV-C조: 적시 해결 및 지연 방지 최저선](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [제12장 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(*적시 해결, 중요성 단계 및 지연 방지 규율*).
+- 후속 규정: [제XXV-B조: 권리 충돌 절차 및 회복적 정렬](core_06_rights_part_e.md)(심의 기관은 이 판단 기준을 적용함); [제XXV-C조: 적시 해결 및 지연 방지 최저선](core_06_rights_part_e.md); [제12장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(*적시 해결, 중요성 단계 및 지연 방지 규율*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [헌법상 충돌 기록](core_05_band_integrative.md#constitutional-collision-record) · [O](core_05_band_integrative.md#constitutional-collision-record) · [M](core_05_band_integrative.md#constitutional-collision-record-a) · [A](core_05_band_integrative.md#constitutional-collision-record-a) · [C](core_05_band_integrative.md#constitutional-collision-record-c)
+- [헌법상 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record) · [O](../../core_05.045_band_integrative.md#constitutional-collision-record) · [M](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-record-c)
 
 </details>
 
@@ -436,26 +438,26 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - **명시적으로 허용되지 않는 한 일시적일 것:** 더 강한 권리 최저선 규칙이 지속적인 제한을 명시적으로 허용하지 않는 한 제한은 일시적이어야 한다.
 - **회복 경로:** 가능한 경우 제한에는 명시된 기간 또는 심사 주기와 함께 증거, 변경된 상황 또는 기대 결과와의 관찰된 차이에 연계된 회복, 원상 복구 또는 재평가 조건이 포함되어야 한다.
 <a id="1315-rights-collision-decision-test"></a>
-**헌법적 충돌 기록과 재구성 가능성.** 상충 원칙의 단계적 적용(§13.1.1 (*필요성*)부터 §13.1.5 (*최소 제한·시간 제한·검토 가능 제약 원칙*)까지)이 중대한 제한이나 헌법적 충돌에 적용되는 경우, 해결 결과로 문서화되고 감사 가능한 [헌법적 충돌 기록](core_05_band_integrative.md#constitutional-collision-record)(약칭 **충돌 기록**)을 작성해야 한다. 이 기록은 영향을 받는 당사자와 검토자가 결정을 이해하고 이의를 제기하며 독립적으로 재구성할 수 있을 만큼 명확해야 한다. 최소한 기록에는 다음이 포함되어야 한다.
+**헌법적 충돌 기록과 재구성 가능성.** 상충 원칙의 단계적 적용(§13.1.1 (*필요성*)부터 §13.1.5 (*최소 제한·시간 제한·검토 가능 제약 원칙*)까지)이 중대한 제한이나 헌법적 충돌에 적용되는 경우, 해결 결과로 문서화되고 감사 가능한 [헌법적 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)(약칭 **충돌 기록**)을 작성해야 한다. 이 기록은 영향을 받는 당사자와 검토자가 결정을 이해하고 이의를 제기하며 독립적으로 재구성할 수 있을 만큼 명확해야 한다. 최소한 기록에는 다음이 포함되어야 한다.
 - **적용 규칙과 요건:** 근거로 삼은 헌법 조항과 그 조항을 발동한 중대한 사실.
 - **검토한 대안:** 아무 조치도 하지 않는 방안을 포함한 실질적으로 실행 가능한 대안과 이를 거부한 명시적 이유 — [§13.1.1 필요성](#1311-필요성)의 대안 분석 요건을 충족해야 한다.
 - **증거와 불확실성의 처리:** 선택된 방안의 필요성, 피해 양상 및 비례성을 뒷받침하는 증거와 불확실성을 처리한 방식.
 - **선택 근거:** 선택된 방안이 필요성, 피해 최소화, 비례성, 헌법상 최저 기준 및 최소 제한 형식을 충족하는 이유 — 단순히 충족한다고 말하는 데 그치지 않는다.
 - **검토 계기:** [§13.1.5 최소 제한·시간 제한·검토 가능 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)에 따른 종료 시점, 재평가 주기 또는 철회 조건.
 
-충돌 기록은 헌법적 충돌을 해결하는 행위의 [행위 기록](core_05_band_accountability.md#materially-binding-act-record)에 포함된다. 이러한 요소를 식별하고, 서로 연결하며, 버전 관리하고, 보존하고, 접근할 수 있는 한 별도의 중복 기록은 필요하지 않다.
+충돌 기록은 헌법적 충돌을 해결하는 행위의 [행위 기록](../../core_05.035_band_accountability.md#materially-binding-act-record)에 포함된다. 이러한 요소를 식별하고, 서로 연결하며, 버전 관리하고, 보존하고, 접근할 수 있는 한 별도의 중복 기록은 필요하지 않다.
 
 입증 책임은 예상되는 피해의 심각성, 비가역성, 의존성 집중 및 불확실성에 비례하여 커진다. 위험이 높은 제한에는 더 강한 증거와 독립적인 검토가 필요하다. 이 원칙이 적용되는 경우, 편의성, 제도적 관성 또는 최적화 선호만으로는 권리 제한을 정당화하기에 충분하지 않다.
 
 충돌 기록에 대한 기밀성 제한은 [§13.2 인식론적 공개 제약](#132-인식론적-공개-제약)을 충족해야 한다. 완전한 공개가 불가능한 경우, 가능한 최대한의 부분 공개와 독립 검토자의 접근을 유지해야 한다.
 
 <a id="default-interim-posture"></a>
-**헌법적 충돌이 계류 중일 때의 기본 잠정 입장.** [헌법적 충돌 기록](core_05_band_integrative.md#constitutional-collision-record) 절차와 [제XXIV조](core_06_rights_part_d.md#제xxv조-헌법-해석-검토-포획-방지-장치) (*헌법 해석, 검토 및 포획 방지 보호조치*)가 헌법적 충돌을 해결할 때까지, 관리자가 임의로 승자를 만들어 내지 못하도록 대기 상태를 고정한다.
+**헌법적 충돌이 계류 중일 때의 기본 잠정 입장.** [헌법적 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record) 절차와 [제XXIV조](core_06_rights_part_d.md#제xxv조-헌법-해석-검토-포획-방지-장치) (*헌법 해석, 검토 및 포획 방지 보호조치*)가 헌법적 충돌을 해결할 때까지, 관리자가 임의로 승자를 만들어 내지 못하도록 대기 상태를 고정한다.
 
 - **증거를 보존한다:** 삭제, 유출 또는 되돌릴 수 없는 공개로 헌법적 충돌을 무의미하게 만들지 않는다.
 - 충돌하는 해석 중 하나를 이용할 수 없게 만드는 **비가역적 조치를 동결한다** — 되돌릴 수 없는 조치가 헌법적 충돌을 종결하거나, 한쪽의 입장을 무의미하게 하거나, 해석이 끝나기 전에 승자를 만들어 낸다면 그 조치를 취하지 않는다.
 - 양쪽 해석을 모두 이용할 수 있도록 **되돌릴 수 있고 동의에 기반한 조치를 계속한다** — 동의가 있는 경우 [보안 제약형 관찰 가능성](core_04_burden_traceability_verification.md#4-보안-제약-관찰-가능성과-확인-규칙)에 따른 독립 검토자의 접근도 포함한다.
-- 영향을 받는 당사자와 해석 절차에 무엇이 동결되었는지, 무엇이 진행되는지, 어떤 시계가 적용되는지 **알린다** (포럼에 회부된 분쟁의 경우, [제12장 §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*시의적절한 해결, 중요도 단계 및 지연 방지 원칙*)의 단계별 시계와 최종 한계가 적용된다).
+- 영향을 받는 당사자와 해석 절차에 무엇이 동결되었는지, 무엇이 진행되는지, 어떤 시계가 적용되는지 **알린다** (포럼에 회부된 분쟁의 경우, [제12장 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*시의적절한 해결, 중요도 단계 및 지연 방지 원칙*)의 단계별 시계와 최종 한계가 적용된다).
 
 이 대기 상태는 어느 쪽이 옳은지에 대한 결정이 아니다. 어느 해석도 차단되지 않도록 되돌릴 수 없는 조치를 동결한다. 헌법적 충돌에 대한 답은 여전히 [§13 헌법적 충돌 해결 절차](#13-헌법상-충돌-해결-절차)가 내려야 한다. 이것이 [§13.1.5 최소 제한·시간 제한·검토 가능 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)이 적용되는 이유다. 되돌릴 수 있고 동의에 기반한 조치는 양쪽 해석을 모두 이용할 수 있게 하지만, 비가역적 조치는 그렇지 않다.
 
@@ -477,12 +479,12 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 - [인식론적 무결성](core_05_band_oversight.md#인식-완전성) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [진실(헌법상 제약)](core_05_band_oversight.md#진실헌법-제약) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [신뢰](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [프라이버시(정보상의)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [중요성](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [예견 가능성](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [신뢰](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [프라이버시(정보상의)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [중요성](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [예견 가능성](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [비례성](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -503,14 +505,14 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
   - 제도적 이익.
 - **지연 공개**와 **제한 공개** — 다음 조건을 모두 충족할 때만 허용됨:
   - [§13.2.1 인식론적 무결성 보전](#1321-인식론적-무결성-보전)의 조건을 충족함;
-  - [필요성](core_05_band_accountability.md#necessity) 및 [비례성](core_05_band_accountability.md#proportionality)을 충족함; 그리고
+  - [필요성](../../core_05.035_band_accountability.md#necessity) 및 [비례성](../../core_05.035_band_accountability.md#proportionality)을 충족함; 그리고
   - 실행 가능한 최대한의 [인식론적 무결성](core_05_band_oversight.md#인식-완전성)을 보전함.
 - [§13.2.3 프라이버시와 정보 자기결정](#1323-프라이버시와-정보-자기결정권)에 따른 **프라이버시 보호 공개 제한**:
   - [최소 제한, 기간 한정 및 검토 가능한 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)에 따를 때만 허용됨;
-  - 프라이버시가 투명성, 감사, 안전 또는 책임성과 충돌하면 [헌법상 충돌 기록](core_05_band_integrative.md#constitutional-collision-record)의 요건에 따라 헌법상 충돌을 해결함;
+  - 프라이버시가 투명성, 감사, 안전 또는 책임성과 충돌하면 [헌법상 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)의 요건에 따라 헌법상 충돌을 해결함;
   - 프라이버시는 자동으로 하위에 놓이지 않음.
 
-정당화되는 모든 제한은 [헌법상 사요소](core_00_preamble.md#constitutional-tetrad)의 **감독** 요소를 보호된 기록(제한 자체에 관한 [헌법상 충돌 기록](core_05_band_integrative.md#constitutional-collision-record)을 포함), 독립 검토, 보안 접근, 비식별 처리, 지연 공개 또는 이에 준하는 보호조치를 통해 보전해야 한다. 이는 충분한 정보를 바탕으로 한 [이의 제기 가능성](core_05_band_accountability.md#contestability)이나 적용되는 **제6장**의 투명성, 감사 또는 검토 의무를 무력화해서는 **안 된다**. 단, [§13.2.1 인식론적 무결성 보전](#1321-인식론적-무결성-보전)이 명시적으로 허용하는 범위는 예외다.
+정당화되는 모든 제한은 [헌법상 사요소](core_00_preamble.md#constitutional-tetrad)의 **감독** 요소를 보호된 기록(제한 자체에 관한 [헌법상 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)을 포함), 독립 검토, 보안 접근, 비식별 처리, 지연 공개 또는 이에 준하는 보호조치를 통해 보전해야 한다. 이는 충분한 정보를 바탕으로 한 [이의 제기 가능성](../../core_05.035_band_accountability.md#contestability)이나 적용되는 **제6장**의 투명성, 감사 또는 검토 의무를 무력화해서는 **안 된다**. 단, [§13.2.1 인식론적 무결성 보전](#1321-인식론적-무결성-보전)이 명시적으로 허용하는 범위는 예외다.
 
 출판, 데이터 접근, 방법 공개 또는 재현 자료에 대한 안전 민감 제한은 여기와 [제1장 §5.1 과학 기반 탐구 및 의사결정 지원](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support)에 따라 규율된다. 이러한 제한을 불리한 증거를 억압하거나, 안전 결함을 숨기거나, 겉보기 합의를 만들어 내는 수단으로 삼아서는 **안 된다**.
 
@@ -532,10 +534,10 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 - [인식론적 무결성](core_05_band_oversight.md#인식-완전성) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 - [진실(헌법상 제약)](core_05_band_oversight.md#진실헌법-제약) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [중요성](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [예견 가능성](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [중요성](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [예견 가능성](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [비례성](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -566,7 +568,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [신뢰](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [신뢰](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
 - [진실(헌법상 제약)](core_05_band_oversight.md#진실헌법-제약) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 - [인식론적 무결성](core_05_band_oversight.md#인식-완전성) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
@@ -584,27 +586,27 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 - 함께 읽기: [헌법 사분체](core_00_preamble.md#constitutional-tetrad) — **참여** 축(프라이버시는 자유로운 표현과 결사의 토대임); **감독** 축(프라이버시 침해 자체도 감사할 수 있어야 함); **책임성** 축(프라이버시가 투명성, 감사, 안전 또는 책임성과 충돌할 때, 프라이버시를 종속적인 것으로 취급하지 않고 문서화된 헌법 충돌 기록에 따라 헌법 충돌을 해결함); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 규모 조정.
 - 상위 연계: 원칙: [7. 자유(제한된 행위주체성)](core_01_a_values_principles.md#7-freedom-bounded-agency), [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), 그리고 [§13.2 인식론적 공개 제약](#132-인식론적-공개-제약).
-- 하위 연계: [**Def.C3** 프라이버시(정보) — 동등 수준 클러스터 대표 항목](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head), 여기에는 [프라이버시(정보)](core_05_band_continuity.md#privacy-informational), [보호되는 내부 상태 경계](core_05_band_continuity.md#protected-internal-state-boundary), [감시 경계](core_05_band_continuity.md#surveillance-boundary)가 포함됨.
+- 하위 연계: [**Def.C3** 프라이버시(정보) — 동등 수준 클러스터 대표 항목](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head), 여기에는 [프라이버시(정보)](../../core_05.040_band_continuity.md#privacy-informational), [보호되는 내부 상태 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary), [감시 경계](../../core_05.040_band_continuity.md#surveillance-boundary)가 포함됨.
 - 하위 연계: [제VII-A조](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*신체에 대한 자기 소유권*); [제VII-B조](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*정신에 대한 자기 소유권*); [제IX조](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*초상, 경험 데이터 및 출판 권리*); [제X-A조](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*행위주체성과 조작으로부터의 자유*); [제XIV-A조](core_06_rights_part_c.md#제xiv-a조-보안-정보-및-비밀-전력-제한) (*안보, 정보 활동 및 비밀 권력의 한계*).
-- 함께 읽기: [§13.1.5 최소 제한·기간 한정·검토 가능 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); 프라이버시가 투명성, 감사, 안전 또는 다른 헌법상 이익과 충돌하는 경우 [헌법 충돌 기록](core_05_band_integrative.md#constitutional-collision-record).
+- 함께 읽기: [§13.1.5 최소 제한·기간 한정·검토 가능 제약 원칙](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); 프라이버시가 투명성, 감사, 안전 또는 다른 헌법상 이익과 충돌하는 경우 [헌법 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [프라이버시(정보)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [보호되는 내부 상태 경계](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [감시 경계](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
-- [동의](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [프라이버시(정보)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [보호되는 내부 상태 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [감시 경계](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [동의](../../core_05.055_band_participation.md#consent) · [O](../../core_05.055_band_participation.md#consent) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [비례성](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*쉽게 말해, 프라이버시는 단순히 공개되지 않은 상태가 아니라 헌법적 비중을 지닌 이익이다. 시스템은 필요성과 비례성이 정당화하는 범위를 넘어 개인 및 관계 정보를 수집, 추론, 통합, 보유 또는 이용해서는 안 된다. 프라이버시가 투명성, 감사, 안전 또는 책임성 의무와 충돌하는 경우, 프라이버시를 자동으로 종속적인 것으로 취급하지 않고 [헌법 충돌 기록](core_05_band_integrative.md#constitutional-collision-record)의 요건에 따라 헌법 충돌을 해결한다. 행위주체성, 결사 또는 표현을 위축시키는 감시는 다른 권리 제한과 동일한 필요성 및 최소 제한 원칙을 충족해야 한다.*
+*쉽게 말해, 프라이버시는 단순히 공개되지 않은 상태가 아니라 헌법적 비중을 지닌 이익이다. 시스템은 필요성과 비례성이 정당화하는 범위를 넘어 개인 및 관계 정보를 수집, 추론, 통합, 보유 또는 이용해서는 안 된다. 프라이버시가 투명성, 감사, 안전 또는 책임성 의무와 충돌하는 경우, 프라이버시를 자동으로 종속적인 것으로 취급하지 않고 [헌법 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)의 요건에 따라 헌법 충돌을 해결한다. 행위주체성, 결사 또는 표현을 위축시키는 감시는 다른 권리 제한과 동일한 필요성 및 최소 제한 원칙을 충족해야 한다.*
 
 **헌법상 이익으로서의 프라이버시.** 정보 프라이버시, 공간 및 관계 프라이버시, 부당한 감시로부터의 자유를 포함하는 프라이버시는 **자유**([§7 자유(제한된 행위주체성)](core_01_a_values_principles.md#7-freedom-bounded-agency)), **존엄성**([제VI-A조](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*존엄성과 동등한 도덕적 지위*)), 그리고 의미 있는 행위주체성과 강요받지 않는 참여를 위한 조건을 뒷받침하는 헌법적 비중을 지닌 이익이다. 이 절의 이해관계 형량 및 헌법 충돌 절차에서 독립적인 헌법적 비중을 갖는다.
 
@@ -616,12 +618,12 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 정보가 이용 가능하거나 관찰 가능하거나 이미 공개되었거나 플랫폼이 보유하거나 기술적으로 접근 가능하다는 사실은 프라이버시 이익을 소멸시키지 않으며 위 규율을 충족하지도 않는다.
 
-**데이터 분류 통합.** 이러한 규율의 운영 계층은 **[CS-2 — 정보 유형 및 취급](corpus_systems/cs_02_a_information_types_and_handling.md)**의 데이터 유형 시스템이다. 이 시스템은 정보를 다음 열한 가지 유형 중 하나 이상으로 분류한다. 환경 및 생존 조정(**Type E**), 거버넌스 및 운영 출처(**Type G**), 공개 감독 공개정보(**Type O**), 이력·관계·참여(**Type H**), 신원 및 귀속(**Type I**), 신경인지 및 내부 정보(**Type N**), 안전·보안·제한된 조사(**Type S**), 감지자가 비공개 또는 공유 상태에서 창작한 저작물(**Type Y**) 및 공개된 저작물(**Type W**), 상업적 이용허락에 따른 저작물(**Type U**) 또는 양도된 저작물(**Type T**)이다. 각 유형에는 별도의 기본 접근 설정과 취급 제한이 있다. 개인정보 취급의 대부분은 **Types H, I, N, S, and Y**에 해당하며 각 개인정보 범주와 유형의 대응표는 [정보 프라이버시](core_05_band_continuity.md#privacy-informational)에 있다. 위의 수집·보유·이용 규율은 일반적인 기준이 아니라 적용되는 데이터 분류 중 가장 엄격한 것이 요구하는 수준으로 적용한다. 데이터가 재구성·변환·통합되어 더 민감한 분류가 될 수 있으면 더 민감한 분류의 보호를 적용한다. 오분류, 회피성 구조화 또는 데이터 유형 보호의 기능적 우회는 이 원칙을 위반한다.
+**데이터 분류 통합.** 이러한 규율의 운영 계층은 **[CS-2 — 정보 유형 및 취급](../../corpus_systems/cs_06.305_information_types_and_handling.md)**의 데이터 유형 시스템이다. 이 시스템은 정보를 다음 열한 가지 유형 중 하나 이상으로 분류한다. 환경 및 생존 조정(**Type E**), 거버넌스 및 운영 출처(**Type G**), 공개 감독 공개정보(**Type O**), 이력·관계·참여(**Type H**), 신원 및 귀속(**Type I**), 신경인지 및 내부 정보(**Type N**), 안전·보안·제한된 조사(**Type S**), 감지자가 비공개 또는 공유 상태에서 창작한 저작물(**Type Y**) 및 공개된 저작물(**Type W**), 상업적 이용허락에 따른 저작물(**Type U**) 또는 양도된 저작물(**Type T**)이다. 각 유형에는 별도의 기본 접근 설정과 취급 제한이 있다. 개인정보 취급의 대부분은 **Types H, I, N, S, and Y**에 해당하며 각 개인정보 범주와 유형의 대응표는 [정보 프라이버시](../../core_05.040_band_continuity.md#privacy-informational)에 있다. 위의 수집·보유·이용 규율은 일반적인 기준이 아니라 적용되는 데이터 분류 중 가장 엄격한 것이 요구하는 수준으로 적용한다. 데이터가 재구성·변환·통합되어 더 민감한 분류가 될 수 있으면 더 민감한 분류의 보호를 적용한다. 오분류, 회피성 구조화 또는 데이터 유형 보호의 기능적 우회는 이 원칙을 위반한다.
 
 **감시 및 모니터링.** 감응적 존재의 행위주체성, 결사 또는 표현에 중대한 영향을 미치는 모니터링, 관찰, 기록 및 추론 시스템은 [**최소 제한·기간 한정·검토 가능 제약 원칙**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)을 충족해야 한다. 더 완화된 방법으로 효과를 거둘 수 있다면, 감시는 무차별적이거나 은밀하거나 무기한이어서는 안 되며 감응적 존재가 의존하는 시스템의 이용 조건이 되어서도 안 된다. 감응적 존재가 발언하거나 모이거나 이 헌법이 보호하는 다른 자유를 행사하지 못하도록 위축시키는 감시는 허용되지 않는다.
 
 **다른 이익과의 헌법 충돌에서의 프라이버시.** 프라이버시는 **안전**, **진실**, 투명성 및 감사 의무, 책임성 의무 또는 동등하거나 더 큰 비중을 지닌 다른 헌법상 이익과 중대하게 충돌하는 경우 제한될 수 있다.
-- 이러한 제한은 다음을 포함하여 [헌법 충돌 기록](core_05_band_integrative.md#constitutional-collision-record)의 요건을 따라야 한다.
+- 이러한 제한은 다음을 포함하여 [헌법 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)의 요건을 따라야 한다.
   - 문서화된 대안;
   - 최소 제한 방안의 선택;
   - 기간이 한정된 범위; 및
@@ -648,7 +650,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
 - [대리 지표 편차](core_05_band_oversight.md#대리지표-이탈) · [O](core_05_band_oversight.md#대리지표-이탈) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
-- [중대성](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [중대성](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -669,7 +671,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: [§13.1 핵심 상충 원칙](#131-핵심-상충-원칙) (상충 단계가 충족된 후 적용); [§17 결과에 따른 관리책임](core_01_c_stewardship_capacity_principles.md#17-결과-중심-관리-관리자의-역할); [§9.2 헌법상 효율성](core_01_a_values_principles.md#92-헌법적-효율성).
-- 함께 읽기: 헌법 성과 측정 계열 (*헌법적 측정으로서의 피할 수 있는 부담*); [헌법의 네 기둥](core_00_preamble.md#constitutional-tetrad) — **참여** 기둥 (헌법상 요구되지 않는 부담은 [의미 있는 행위 역량](core_05_band_participation.md#meaningful-agency)을 좁힘); **적시성** 기둥 (피할 수 있는 지연은 피할 수 있는 부담임); **감독** 및 **책임성** 기둥 (헌법상 요구된다고 주장하는 부담은 확인 및 이의 제기가 가능하도록 제4장의 증거 및 추적 가능성 요건을 충족해야 함); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
+- 함께 읽기: 헌법 성과 측정 계열 (*헌법적 측정으로서의 피할 수 있는 부담*); [헌법의 네 기둥](core_00_preamble.md#constitutional-tetrad) — **참여** 기둥 (헌법상 요구되지 않는 부담은 [의미 있는 행위 역량](../../core_05.055_band_participation.md#meaningful-agency)을 좁힘); **적시성** 기둥 (피할 수 있는 지연은 피할 수 있는 부담임); **감독** 및 **책임성** 기둥 (헌법상 요구된다고 주장하는 부담은 확인 및 이의 제기가 가능하도록 제4장의 증거 및 추적 가능성 요건을 충족해야 함); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
 - 하위 근거: [§19.1.3 관리책임자 및 운영자에 대한 적용](core_01_c_stewardship_capacity_principles.md#1913-스튜어드십-및-운영자에-대한-적용) (인센티브가 불필요한 부담의 생성을 보상해서는 안 됨); [제XXII조: 이해 가능성과 복잡성 관리책임](core_06_rights_part_d.md#제xxiii조-이해-가능성과-복잡성-관리).
 
 </details>
@@ -677,10 +679,10 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [피할 수 있는 부담](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [안전 (헌법상 제약)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden) · [O](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [A](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [비례성](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [안전 (헌법상 제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
 - [진실 (헌법상 제약)](core_05_band_oversight.md#진실헌법-제약) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
@@ -699,12 +701,14 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 이 절은:
 - 안전, 진실, 권리 최저선 및 §13.1 (*핵심 상충 원칙*)의 상충 원칙을 이미 충족하는 선택지의 범위 **안에서만** 적용됩니다. 이러한 보호를 약화시켜 부담을 줄이는 것을 허용하지 **않습니다**.
-- [헌법상 충돌 기록](core_05_band_integrative.md#constitutional-collision-record)의 요건에 포함된 **효과적인 최소 제한 선택**과 함께 적용됩니다. 이 절이 적용될 때 선택된 조치는 효과가 있는 선택지 중 제한이 가장 적고 부담도 가장 적어야 합니다.
+- [헌법상 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)의 요건에 포함된 **효과적인 최소 제한 선택**과 함께 적용됩니다. 이 절이 적용될 때 선택된 조치는 효과가 있는 선택지 중 제한이 가장 적고 부담도 가장 적어야 합니다.
 - 헌법적 이익과 확인 가능한 연계가 없는 과도한 절차, 과도한 제한 및 과도한 부담을 헌법상 결함으로 봅니다. 그러한 결함은 **제9장**에 따라 검토할 수 있으며, 정의에서 결과까지의 추적 가능성에 관한 **제4장** 요건에 따라 시정할 수 있습니다.
 
-특정 부담이 헌법상 요구된다는 주장은 **제4장**의 증거 및 추적 가능성 요건을 충족해야 합니다. 편의, 제도적 관성, 전통 또는 선호만으로는 헌법적 결과와 확인 가능한 연계가 없는 부담을 유지하기에 충분하지 않습니다. 이는 [헌법상 충돌 기록](core_05_band_integrative.md#constitutional-collision-record)의 요건과 일치합니다.
+특정 부담이 헌법상 요구된다는 주장은 **제4장**의 증거 및 추적 가능성 요건을 충족해야 합니다. 편의, 제도적 관성, 전통 또는 선호만으로는 헌법적 결과와 확인 가능한 연계가 없는 부담을 유지하기에 충분하지 않습니다. 이는 [헌법상 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)의 요건과 일치합니다.
 
 인센티브 구조가 관리책임자나 운영자에게 작용하는 경우, 이 절은 [§19.1.3 관리책임자 및 운영자에 대한 적용](core_01_c_stewardship_capacity_principles.md#1913-스튜어드십-및-운영자에-대한-적용)을 뒷받침합니다. 관리책임 인센티브는 불필요한 부담의 생성을 보상해서는 안 되며, 단순한 처리량을 보상해서도 안 됩니다.
+<a id="14-prohibition-on-absolute-override"></a>
+
 ### 14. 절대적 우위의 금지
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
@@ -721,10 +725,10 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [중대성](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [피해 최소화(절충안 선택)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [비례성](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [중대성](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [피해 최소화(절충안 선택)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
 - [대리 지표의 괴리](core_05_band_oversight.md#대리지표-이탈) · [O](core_05_band_oversight.md#대리지표-이탈) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
@@ -738,6 +742,8 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - 안전을 무기한 또는 무제한적 제한의 정당화에 사용해서는 안 된다
 - 거짓을 통해 신뢰를 유지해서는 안 된다
 - 체계적 피해를 낳는 방식으로 자유를 행사해서는 안 된다
+<a id="15-constitutional-interpretation"></a>
+
 ### 15. 헌법 해석
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
@@ -746,9 +752,9 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - 하위 연결: [§15.1 헌법상 우회 금지 원칙](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-분할-방지-원칙)), [§15.2 정의 계층과 필수 규율](#152-정의-계층-및-필수-규율), [§15.3 모호성 해소](#153-모호성-해결), [§15.4 헌법적 의미 충돌 해결](#154-헌법적-의미-충돌-해결) ([§15.4.1](#1541-통합적-해석) · [§15.4.2](#1542-최후의-수단으로서의-내부-위계) · [§15.4.3](#1543-편입-층위) · [§15.4.4](#1544-공동-적용되는-편입-의무의-결합-이행)); [3. 근본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)부터 [20. 통합적 적용](core_01_c_stewardship_capacity_principles.md#20-통합-적용)까지; 헌법 충돌 절차를 위한 [13. 헌법 충돌 해결 절차](#13-헌법상-충돌-해결-절차); [제6장: 기본권](core_06_rights_part_a.md#제6장-기초-권리)은 축소하지 않는다는 기본 원칙.
 - 함께 읽을 것: [제2장부터 제4장](core_02_definition_structure.md) 및 [제5장](core_05__definitions_home.md#제5장-기초-정의) — 이 장의 각 용어에 적용되는 해석 및 증거 계층.
 - 함께 읽을 것: [헌법 4요소](core_00_preamble.md#constitutional-tetrad)와 [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — 통합 가치 체계의 해석적 배경; 실질적으로 관련이 있는 경우 [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 비례 조정.
-- 함께 읽을 것: [권한 스택 및 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계) (*출처 계층의 지위*); [제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) (*보관, 판본, 채택의 틀* — 충돌 순서를 정하는 두 번째 근거가 아님); [제14장](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) 및 [제15장](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*[§15.4 헌법적 의미 충돌 해결](#154-헌법적-의미-충돌-해결)에 따른 후퇴 금지 및 채택자 위계 심사 기준*).
+- 함께 읽을 것: [권한 스택 및 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계) (*출처 계층의 지위*); [제17장](../../core_18.000_incorporation.md) (*보관, 판본, 채택의 틀* — 충돌 순서를 정하는 두 번째 근거가 아님); [제14장](core_13_non_regression.md) 및 [제15장](../../core_16.000_expansion_supremacy.md) (*[§15.4 헌법적 의미 충돌 해결](#154-헌법적-의미-충돌-해결)에 따른 후퇴 금지 및 채택자 위계 심사 기준*).
 - 제도적 해석 보호장치를 위해 [제XXIV조: 헌법 해석, 검토 및 포획 방지 보호장치](core_06_rights_part_d.md#제xxv조-헌법-해석-검토-포획-방지-장치)와 함께 읽을 것 (이 절을 대체하지 않음).
-- [제7장: 기능적 독립성과 직무 분리](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)와 함께 읽을 것 — [§15.1 헌법상 우회 금지 원칙](#151-constitutional-no-bypass-principle)의 우회 방지 목록이 보호하는 직위 구조의 최소 기준 (여기서 다시 설명하지 않음).
+- [제7장: 기능적 독립성과 직무 분리](core_07_functional_independence_segregation_of_duties.md)와 함께 읽을 것 — [§15.1 헌법상 우회 금지 원칙](#151-constitutional-no-bypass-principle)의 우회 방지 목록이 보호하는 직위 구조의 최소 기준 (여기서 다시 설명하지 않음).
 
 </details>
 
@@ -757,23 +763,25 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 - [코퍼스](core_05_band_integrative.md#코퍼스) · [O](core_05_band_integrative.md#코퍼스) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
 - [권한 스택 및 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계) · [O](core_05_band_integrative.md#권위-스택과-내부-위계) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [비례성](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 </details>
 
 <br>
 
-*쉽게 말해, 이 헌법을 하나의 전체로 읽으십시오. 제1장은 가치와 한계를 정하지만, 그 문구는 제2장부터 제5장의 정의 및 증거 규칙과 함께 읽을 때에만 효력을 갖습니다. 어떤 문구가 여러 방식으로 해석될 수 있다면, 단순히 문면상 가장 제한적인 해석이 아니라 안정성, 되돌릴 수 없는 피해의 최소화, 진실한 이해, 실질적인 행위 역량을 중시하여 지각 있는 존재와 헌법 전체를 가장 잘 보호하는 해석을 선택하십시오 ([추상적 엄격성](core_05_band_integrative.md#abstract-strictness)). 이 헌법이 명확히 허용하지 않는 한 제6장의 권리를 축소해서는 안 됩니다.*
+*쉽게 말해, 이 헌법을 하나의 전체로 읽으십시오. 제1장은 가치와 한계를 정하지만, 그 문구는 제2장부터 제5장의 정의 및 증거 규칙과 함께 읽을 때에만 효력을 갖습니다. 어떤 문구가 여러 방식으로 해석될 수 있다면, 단순히 문면상 가장 제한적인 해석이 아니라 안정성, 되돌릴 수 없는 피해의 최소화, 진실한 이해, 실질적인 행위 역량을 중시하여 지각 있는 존재와 헌법 전체를 가장 잘 보호하는 해석을 선택하십시오 ([추상적 엄격성](../../core_05.045_band_integrative.md#abstract-strictness)). 이 헌법이 명확히 허용하지 않는 한 제6장의 권리를 축소해서는 안 됩니다.*
 
 이 장의 각 원칙은 [헌법 4요소](core_00_preamble.md#constitutional-tetrad) 및 [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims)와 함께 적용되며, 이는 [전문 §1 모델](core_00_preamble.md#the-model)에 규정되어 있습니다. 어떤 절이 4요소의 한 축이나 목표에 실질적으로 관여하는 경우, 그 추적 정보는 어느 축 또는 목표인지, 그리고 의무가 [물질적 이해관계](core_00_preamble.md#material-stake)에 따라 비례 조정되는지를 밝힙니다.
+
+<a id="151-constitutional-no-bypass-principle"></a>
 
 #### 15.1 헌법상 우회 금지 원칙
 
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 함께 읽을 것: [헌법 4요소](core_00_preamble.md#constitutional-tetrad) — 우회 방지 목록은 네 축을 따릅니다. **감독** 축 (통상적 심사 및 감사 가능성); **참여** 축 (이의 제기 가능성, 실질적 접근 및 공적 이유 제시 의무); **적시성** 축 (적시 해결, 복원 및 롤백 경로); **책임성** 축 (책임성 자체와 [제7장](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)에 따른 기능적 독립성 및 직무 분리); [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 비례 조정.
+- 함께 읽을 것: [헌법 4요소](core_00_preamble.md#constitutional-tetrad) — 우회 방지 목록은 네 축을 따릅니다. **감독** 축 (통상적 심사 및 감사 가능성); **참여** 축 (이의 제기 가능성, 실질적 접근 및 공적 이유 제시 의무); **적시성** 축 (적시 해결, 복원 및 롤백 경로); **책임성** 축 (책임성 자체와 [제7장](core_07_functional_independence_segregation_of_duties.md)에 따른 기능적 독립성 및 직무 분리); [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 비례 조정.
 - 하위 연결: [§15.1.1 분절 방지 원칙](#1511-분할-방지-원칙); [§15.1.2 파생 정보 원칙](#1512-파생-정보-원칙).
 
 </details>
@@ -781,8 +789,8 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [우회 금지](core_05_band_integrative.md#no-bypass) · [O](core_05_band_integrative.md#no-bypass) · [M](core_05_band_integrative.md#no-bypass-a) · [A](core_05_band_integrative.md#no-bypass-a) · [C](core_05_band_integrative.md#no-bypass-c)
-- [이의 제기 가능성](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [우회 금지](../../core_05.045_band_integrative.md#no-bypass) · [O](../../core_05.045_band_integrative.md#no-bypass) · [M](../../core_05.045_band_integrative.md#no-bypass-a) · [A](../../core_05.045_band_integrative.md#no-bypass-a) · [C](../../core_05.045_band_integrative.md#no-bypass-c)
+- [이의 제기 가능성](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 - [감사 가능성](core_05_band_oversight.md#감사-가능성) · [O](core_05_band_oversight.md#감사-가능성) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [책임성](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
@@ -820,7 +828,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - 실질적 접근;
 - 적시 해결;
 - 복원 및 롤백 경로;
-- 기능적 독립성 및 직무 분리 ([제7장](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); 또는
+- 기능적 독립성 및 직무 분리 ([제7장](core_07_functional_independence_segregation_of_duties.md)); 또는
 - 책임성.
 
 채택된 이행 계층은 이러한 보호를 구체화할 수 있습니다. 이를 축소해서는 안 됩니다.
@@ -844,7 +852,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - 제6장의 어떤 권리 최저선 조항을 만들거나, 확대하거나, 축소하는 것; 또는
 - 어떤 구획과 보호 의무를 포괄하는지에 관한 정의 묶음 자체의 설명을 대체하는 것. 정의 묶음은 **우회 방지** 항목에서 이를 설명하고 규칙은 이 절을 참조합니다.
 
-공동 원용된 정의 묶음이 적용되는 경우, 시스템 전체 평가는 분류, 거버넌스 또는 준수 주장이 성립하기 전에 [제8장 §3 시스템 전체 인증 평가](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)에 따라 분할 방지를 검증해야 합니다. 이 절은 [제3장 §2.1 일반적 회피 유형](core_03_definition_integrity.md#21-흔한-회피-패턴) 및 [§2.2 축소적 회피](core_03_definition_integrity.md#22-축소-회피)와 함께 작동합니다.
+공동 원용된 정의 묶음이 적용되는 경우, 시스템 전체 평가는 분류, 거버넌스 또는 준수 주장이 성립하기 전에 [제8장 §3 시스템 전체 인증 평가](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)에 따라 분할 방지를 검증해야 합니다. 이 절은 [제3장 §2.1 일반적 회피 유형](core_03_definition_integrity.md#21-흔한-회피-패턴) 및 [§2.2 축소적 회피](core_03_definition_integrity.md#22-축소-회피)와 함께 작동합니다.
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 파생 정보 원칙
@@ -853,16 +861,16 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 - 함께 읽기: [헌법상 사중 원칙](core_00_preamble.md#constitutional-tetrad) — **참여** 요소(프라이버시는 주체성과 표현을 뒷받침하며, 결합 데이터에서 재구성하면 이를 훼손함); **책임성** 요소(비식별 또는 집계라는 표시에 의존하는 당사자는 해당 정보가 실제로 그러함을 입증함); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 조정.
 - 상위 항목: [§15.1 헌법상 우회 금지 원칙](#151-constitutional-no-bypass-principle); [§15.1.1 분할 방지 원칙](#1511-분할-방지-원칙).
-- 하위 항목: [§13.2.3 프라이버시와 정보적 자기결정](#1323-프라이버시와-정보-자기결정권); [CS-2 — 정보 유형 및 처리](corpus_systems/cs_02_a_information_types_and_handling.md).
+- 하위 항목: [§13.2.3 프라이버시와 정보적 자기결정](#1323-프라이버시와-정보-자기결정권); [CS-2 — 정보 유형 및 처리](../../corpus_systems/cs_06.305_information_types_and_handling.md).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [파생 정보](core_05_band_integrative.md#derived-information) · [O](core_05_band_integrative.md#derived-information) · [M](core_05_band_integrative.md#derived-information-a) · [A](core_05_band_integrative.md#derived-information-a) · [C](core_05_band_integrative.md#derived-information-c)
-- [프라이버시(정보)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [보호된 내부 상태 경계](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [파생 정보](../../core_05.045_band_integrative.md#derived-information) · [O](../../core_05.045_band_integrative.md#derived-information) · [M](../../core_05.045_band_integrative.md#derived-information-a) · [A](../../core_05.045_band_integrative.md#derived-information-a) · [C](../../core_05.045_band_integrative.md#derived-information-c)
+- [프라이버시(정보)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [보호된 내부 상태 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -870,7 +878,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 
 *쉽게 말해, 우회 금지는 이름표를 바꿔도 요구사항이 사라지지 않는다고 하고 분할 방지는 쪼개도 그렇지 않다고 합니다. 이 절은 결합하는 경우에도 마찬가지라고 말합니다. 정보는 만들어진 방식이 아니라 드러내는 내용에 따라 취급됩니다. 따로 보면 무해해 보이는 조각들이 합쳐져 민감한 내용을 드러내면 그것도 민감합니다. 지각 있는 존재를 식별하거나 보호 대상 내용을 재구성할 수 있는 한, “비식별” 또는 “집계”라는 표시는 안전성을 보장하지 않습니다.*
 
-정보는 어떤 방식으로 파생되었든 그 정보가 드러내는 내용에 해당하는 보호 수준으로 취급됩니다. [파생 정보](core_05_band_integrative.md#derived-information)에는 그 정보가 드러내거나 가능하게 하는 내용에 적용되는 규율이 적용되며, 입력 정보에 적용되었던 더 낮은 규율은 적용되지 않습니다.
+정보는 어떤 방식으로 파생되었든 그 정보가 드러내는 내용에 해당하는 보호 수준으로 취급됩니다. [파생 정보](../../core_05.045_band_integrative.md#derived-information)에는 그 정보가 드러내거나 가능하게 하는 내용에 적용되는 규율이 적용되며, 입력 정보에 적용되었던 더 낮은 규율은 적용되지 않습니다.
 
 **적용되는 경우:** 다음 중 하나라도 해당하면 파생 정보는 이 원칙의 적용을 받습니다.
 - **기능적 효과:** 민감한 개인 정보, 보호된 내부 상태, 보호되는 특성 또는 보안상 민감한 사실 등 보호 대상 내용을 드러내거나, 재구성하거나, 근사하거나, 재식별합니다. 기능적 효과가 기본 판단 기준입니다.
@@ -880,22 +888,22 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 의도가 없었다는 이유로 이 원칙의 적용을 받는 파생 정보가 범위에서 제외되지는 않습니다. 판단 기준은 [중대한 이해관계](core_00_preamble.md#material-stake)와 드러날 내용의 민감성에 따라 조정됩니다.
 
 **그 결과:**
-- 파생 과정은 드러나는 내용을 수집할 때 적용될 규율을 충족해야 합니다. 여기에는 [§13.2.3 프라이버시와 정보적 자기결정](#1323-프라이버시와-정보-자기결정권)에 따른 동의 또는 충분한 권한, 필요성, 비례성, 최소화가 포함됩니다. 내부 상태에는 [보호된 내부 상태 경계](core_05_band_continuity.md#protected-internal-state-boundary)도 적용됩니다.
+- 파생 과정은 드러나는 내용을 수집할 때 적용될 규율을 충족해야 합니다. 여기에는 [§13.2.3 프라이버시와 정보적 자기결정](#1323-프라이버시와-정보-자기결정권)에 따른 동의 또는 충분한 권한, 필요성, 비례성, 최소화가 포함됩니다. 내부 상태에는 [보호된 내부 상태 경계](../../core_05.040_band_continuity.md#protected-internal-state-boundary)도 적용됩니다.
 - 재식별 또는 재구성이 합리적으로 가능한 동안에는 비식별화, 집계, 풀링 및 유사한 표시로 해당 의무가 끝나지 않습니다. 그러한 표시를 근거로 삼는 당사자가 불가능하다는 점을 입증해야 합니다.
 - 파생 과정을 시스템, 행위자 또는 시간에 걸쳐 나누어 각 단계는 통과하지만 전체적으로 보호 대상 결과가 드러나게 하는 경우 [§15.1.1 분할 방지 원칙](#1511-분할-방지-원칙)이 적용됩니다.
 
 이 원칙은 다음을 하지 않습니다.
 - 보호 대상 내용을 드러내지 않고 누구를 재식별하거나 보호 대상 내용을 재구성하는 데 합리적으로 이용될 수 없는 익명 트래픽 총량과 같은 일반 집계에 적용되는 것;
 - 제6장의 어떤 권리 최저선 조항을 만들거나, 확대하거나, 축소하는 것; 또는
-- [CS-2 — 정보 유형 및 처리](corpus_systems/cs_02_a_information_types_and_handling.md)의 데이터 유형 규칙을 대체하는 것. 이 원칙은 해당 규칙에 따라 적용됩니다.
+- [CS-2 — 정보 유형 및 처리](../../corpus_systems/cs_06.305_information_types_and_handling.md)의 데이터 유형 규칙을 대체하는 것. 이 원칙은 해당 규칙에 따라 적용됩니다.
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 정의 계층 및 필수 규율
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [비례성](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [필요성](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [비례성](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [필요성](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [분류 비례 거버넌스](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [O](core_05_band_oversight.md#분류에-맞춰-세기-조절된-거버넌스) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 
 </details>
@@ -935,31 +943,31 @@ flowchart TB
     style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
-*정의는 제1장의 원칙과 제6장의 권리를 명확히 하고, 제2장부터 제4장까지는 그 정의의 구조, 무결성 및 검증을 규율한다. 어느 계층도 제1장과 경쟁하지 않는다. 정확성과 검증 가능성은 원칙을 대체하는 것이 아니라 원칙에 기여한다. [개념 개요](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions)에서 재수록.*
+*정의는 제1장의 원칙과 제6장의 권리를 명확히 하고, 제2장부터 제4장까지는 그 정의의 구조, 무결성 및 검증을 규율한다. 어느 계층도 제1장과 경쟁하지 않는다. 정확성과 검증 가능성은 원칙을 대체하는 것이 아니라 원칙에 기여한다. [개념 개요](../../guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions)에서 재수록.*
 
 **제2장부터 제5장까지**에서 정한 정의와 평가 제약을 벗어난 제1장의 해석은 유효하지 않다. 모든 적용은 또한 다음을 보존하고 이행해야 한다.
 - **비례성**, **필요성**, **시스템 차원의 평가**
 - 증거 및 추적 가능성에 관한 **제4장**의 요건
 - 정의의 무결성, 회피 및 미준수에 관한 **제3장**의 규정
-- **[§13 헌법상 충돌 해결 절차](#13-헌법상-충돌-해결-절차)**. 여기에는 실질적으로 관련이 있는 경우 **[헌법상 충돌 기록](core_05_band_integrative.md#constitutional-collision-record)** 요건에 따른 헌법상 충돌 처리도 포함된다.
+- **[§13 헌법상 충돌 해결 절차](#13-헌법상-충돌-해결-절차)**. 여기에는 실질적으로 관련이 있는 경우 **[헌법상 충돌 기록](../../core_05.045_band_integrative.md#constitutional-collision-record)** 요건에 따른 헌법상 충돌 처리도 포함된다.
 <a id="153-ambiguity-resolution"></a>
 #### 15.3 모호성 해결
 
 <details>
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
-- [추상적 엄격성](core_05_band_integrative.md#abstract-strictness) · [O](core_05_band_integrative.md#abstract-strictness) · [M](core_05_band_integrative.md#abstract-strictness-a) · [A](core_05_band_integrative.md#abstract-strictness-a) · [C](core_05_band_integrative.md#abstract-strictness-c)
-- [최대한의 보호 효과](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
-- [안녕](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [회복 불가능한 피해](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [추상적 엄격성](../../core_05.045_band_integrative.md#abstract-strictness) · [O](../../core_05.045_band_integrative.md#abstract-strictness) · [M](../../core_05.045_band_integrative.md#abstract-strictness-a) · [A](../../core_05.045_band_integrative.md#abstract-strictness-a) · [C](../../core_05.045_band_integrative.md#abstract-strictness-c)
+- [최대한의 보호 효과](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
+- [안녕](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [회복 불가능한 피해](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 - [진실(헌법상 제약)](core_05_band_oversight.md#진실헌법-제약) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [의미 있는 주체성](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [의미 있는 주체성](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
 <br>
 
-제1장이 모호한 경우, 해석자는 다음 두 가지를 동시에 가장 잘 보존하는 해석을 선택해야 한다. 헌법의 [최대한의 보호 효과](core_05_band_integrative.md#fullest-protective-effect)와 공동 시스템을 감각 있는 존재의 안녕에 맞추려는 헌법적 목적이다. [추상적 엄격성](core_05_band_integrative.md#abstract-strictness)으로 모호성을 해소해서는 안 된다. **제6장**의 권리가 관련된 경우, 해석자는 **제1장**의 상호작용 규칙과 적용 가능한 정의가 **명시적으로** 허용하는 경우를 제외하고, 그러한 보호를 **축소하는** 해석으로 모호성을 **해소해서는 안 된다**.
+제1장이 모호한 경우, 해석자는 다음 두 가지를 동시에 가장 잘 보존하는 해석을 선택해야 한다. 헌법의 [최대한의 보호 효과](../../core_05.045_band_integrative.md#fullest-protective-effect)와 공동 시스템을 감각 있는 존재의 안녕에 맞추려는 헌법적 목적이다. [추상적 엄격성](../../core_05.045_band_integrative.md#abstract-strictness)으로 모호성을 해소해서는 안 된다. **제6장**의 권리가 관련된 경우, 해석자는 **제1장**의 상호작용 규칙과 적용 가능한 정의가 **명시적으로** 허용하는 경우를 제외하고, 그러한 보호를 **축소하는** 해석으로 모호성을 **해소해서는 안 된다**.
 
 통합적 해석 이후에도 모호성이 남아 있다면, 해석은 다음 사항도 우선해야 한다.
 - 시스템 안정성의 보존
@@ -974,7 +982,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">정의 · 평가 · 준수</span></strong></summary>
 
 - [말뭉치](core_05_band_integrative.md#코퍼스) · [O](core_05_band_integrative.md#코퍼스) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
-- [최대한의 보호 효과](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
+- [최대한의 보호 효과](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
 - [권한 체계와 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계) · [O](core_05_band_integrative.md#권위-스택과-내부-위계) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 
 </details>
@@ -986,9 +994,9 @@ flowchart TB
 이 하위 절은 **문언 및 출처 계층의 우선순위**에서 비롯되는 해석상 긴장을 해결하는 **유일한 정식 절차**다.
 - 적용 범위:
   - 구속력 있는 헌법 출처(통합된 `core_*` 문서) 내부; 그리고
-  - 편입 계층. 여기서 편입 문서는 [최대한의 보호 효과](core_05_band_integrative.md#fullest-protective-effect)에 따라 선택된다.
+  - 편입 계층. 여기서 편입 문서는 [최대한의 보호 효과](../../core_05.045_band_integrative.md#fullest-protective-effect)에 따라 선택된다.
 - 출처 계층의 지위는 제5장의 [권한 체계와 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계)에 따라 식별한다.
-- [제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)은 보관, 판본 고정, 채택의 틀을 제공한다. 이 절차를 **다시 서술하지 않는다**.
+- [제17장](../../core_18.000_incorporation.md)은 보관, 판본 고정, 채택의 틀을 제공한다. 이 절차를 **다시 서술하지 않는다**.
 - 운영 중 발생하는 **헌법상 충돌**에는 — 텍스트 계층의 우선순위가 아니라 — **[§13 헌법상 충돌 해결 절차](#13-헌법상-충돌-해결-절차)**를 적용한다.
 
 **적용 순서.** 다음 사항을 **이 순서대로** 적용한다.
@@ -1001,7 +1009,7 @@ flowchart TB
 
 먼저 **[§15.2 정의 층위와 필수 규율](#152-정의-계층-및-필수-규율)** 및 **[§15.3 모호성 해소](#153-모호성-해결)**를 적용한다.
 - **제2장부터 제5장까지**는 해석 및 증거 층위로 기능한다.
-- **모호성** 규칙은 통합된 전체로서 가장 충분한 **보호** 효과를 요구하며 지각 있는 존재의 복지와 정렬되어야 한다. 이 규칙은 [추상적 엄격성](core_05_band_integrative.md#abstract-strictness)을 허용하지 **않는다**.
+- **모호성** 규칙은 통합된 전체로서 가장 충분한 **보호** 효과를 요구하며 지각 있는 존재의 복지와 정렬되어야 한다. 이 규칙은 [추상적 엄격성](../../core_05.045_band_integrative.md#abstract-strictness)을 허용하지 **않는다**.
 - **제1장**의 상호작용 규칙과 적용 가능한 정의가 **명시적으로** 허용하는 경우를 제외하고 **제6장**의 권리를 축소해서는 안 된다.
 
 <a id="1542-last-resort-internal-hierarchy"></a>
@@ -1014,26 +1022,26 @@ flowchart TB
 - 독립적인 실질적 주석으로 읽히는 정의보다 조항이 우선한다.
 - 정본 정의는 각 수준에서 사용되는 용어의 의미를 계속 규율한다.
 
-이 위계는 최후의 수단인 해석 규칙이다. **§15.4.1**(*통합적 해석*)에 따른 통합적 해석 후에도 남는 진정한 양립 불가능성에만 적용되며, 통상적인 운영에서 한 층위가 다른 층위를 대신하도록 허용하지 않는다. **[§15.3 모호성 해소](#153-모호성-해결)**와 **§15.4.1**(*통합적 해석*)의 제한은 계속 적용된다. 이 제한은 [추상적 엄격성](core_05_band_integrative.md#abstract-strictness)을 금지하고, 명시적으로 허용된 **제1장** 상호작용 규칙 외의 **제6장** 권리 축소도 금지한다.
+이 위계는 최후의 수단인 해석 규칙이다. **§15.4.1**(*통합적 해석*)에 따른 통합적 해석 후에도 남는 진정한 양립 불가능성에만 적용되며, 통상적인 운영에서 한 층위가 다른 층위를 대신하도록 허용하지 않는다. **[§15.3 모호성 해소](#153-모호성-해결)**와 **§15.4.1**(*통합적 해석*)의 제한은 계속 적용된다. 이 제한은 [추상적 엄격성](../../core_05.045_band_integrative.md#abstract-strictness)을 금지하고, 명시적으로 허용된 **제1장** 상호작용 규칙 외의 **제6장** 권리 축소도 금지한다.
 
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 편입 층위
 
-**§15.4.1**(*통합적 해석*) 및 **§15.4.2**(*최후의 수단으로서의 내부 위계*)에 따른 헌법적 해석 후, 채택된 이행 문서의 **지정 의무**, 즉 채택을 통해 실제로 발효된 명시된 이행 의무를 적용한다. 이 의무는 **[제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**에 따른 **유효한 채택 및 편입 범위** 안에서만 적용한다(기록 보유자, 고정된 판본, 채택의 구성 방식).
+**§15.4.1**(*통합적 해석*) 및 **§15.4.2**(*최후의 수단으로서의 내부 위계*)에 따른 헌법적 해석 후, 채택된 이행 문서의 **지정 의무**, 즉 채택을 통해 실제로 발효된 명시된 이행 의무를 적용한다. 이 의무는 **[제17장](../../core_18.000_incorporation.md)**에 따른 **유효한 채택 및 편입 범위** 안에서만 적용한다(기록 보유자, 고정된 판본, 채택의 구성 방식).
 
-아래 규칙은 [가장 완전한 보호 효과](core_05_band_integrative.md#fullest-protective-effect)를 기준으로 한다. 이는 **[§15.3 모호성 해소](#153-모호성-해결)**의 **모호성** 규칙이 사용하는 것과 같은 기준이다에 따라 편입된 문서 중에서 선택한다. [추상적 엄격성](core_05_band_integrative.md#abstract-strictness)에 따라 선택하는 일은 없다.
+아래 규칙은 [가장 완전한 보호 효과](../../core_05.045_band_integrative.md#fullest-protective-effect)를 기준으로 한다. 이는 **[§15.3 모호성 해소](#153-모호성-해결)**의 **모호성** 규칙이 사용하는 것과 같은 기준이다에 따라 편입된 문서 중에서 선택한다. [추상적 엄격성](../../core_05.045_band_integrative.md#abstract-strictness)에 따라 선택하는 일은 없다.
 
 - **편입 문서 간 가장 완전한 보호 효과:** 해당 헌법적 해석과 일치하는 범위에서 가장 완전한 보호 효과가 있는 수준의 편입 의무를 적용한다.
   - 그 수준은 동일하게 실질적 범위를 가진 의무에 대해 가장 강력한 **보호, 안전, 책임성 및 추적 가능성** 요건을 보존하는 편입 **문서**다.
   - [권한 체계와 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계)에 따라 도출된 헌법적 해석과 계속 일치하는 대안 중에서 선택한다.
-  - 이는 [추상적 엄격성](core_05_band_integrative.md#abstract-strictness)이 **아니다**.
+  - 이는 [추상적 엄격성](../../core_05.045_band_integrative.md#abstract-strictness)이 **아니다**.
 - **명확히 채택된 기준선:** 편입된 산출물의 **판본 식별자나 보관 기록**이 누락되거나, 서로 모순되거나, 실질적으로 신뢰하기 어려운 경우:
-  - **제12장과 제13장**에 따라 유효성이 회복될 때까지 [가장 완전한 보호 효과](core_05_band_integrative.md#fullest-protective-effect)를 가진 **명확히 채택된 기준선**이 적용된다.
+  - **제12장과 제13장**에 따라 유효성이 회복될 때까지 [가장 완전한 보호 효과](../../core_05.045_band_integrative.md#fullest-protective-effect)를 가진 **명확히 채택된 기준선**이 적용된다.
   - **명확히 채택된 기준선**은 기록을 신뢰할 수 없을 때 채택 경로가 **명확히 뒷받침하는**, 채택까지 **추적 가능한** 편입 판본 또는 **기준선**을 뜻한다(제17장에 따른 보관 규율과 **이탈 방지**).
-  - 이는 [추상적 엄격성](core_05_band_integrative.md#abstract-strictness)을 통한 실질적 헌법 모호성 해소가 **아니다**.
-- **파일 간 가장 완전한 보호 효과:** 채택된 이행 파일 둘 이상이 동일한 의미 있는 범위의 위험에 대해 서로 다른 기준을 설정하면, 위 두 규칙과 일치하는 [가장 완전한 보호 효과](core_05_band_integrative.md#fullest-protective-effect)를 가진 명확히 채택된 규칙이 우선한다.
+  - 이는 [추상적 엄격성](../../core_05.045_band_integrative.md#abstract-strictness)을 통한 실질적 헌법 모호성 해소가 **아니다**.
+- **파일 간 가장 완전한 보호 효과:** 채택된 이행 파일 둘 이상이 동일한 의미 있는 범위의 위험에 대해 서로 다른 기준을 설정하면, 위 두 규칙과 일치하는 [가장 완전한 보호 효과](../../core_05.045_band_integrative.md#fullest-protective-effect)를 가진 명확히 채택된 규칙이 우선한다.
   - 출처 층위의 지위는 계속 [권한 체계와 내부 위계](core_05_band_integrative.md#권위-스택과-내부-위계)에 따른다.
-  - 보관, 판본 및 채택 구성은 계속 **[제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**에 따른다.
+  - 보관, 판본 및 채택 구성은 계속 **[제17장](../../core_18.000_incorporation.md)**에 따른다.
   - 인용된 프로필과 인용된 이행 라벨이 해당 위험에 대해 충돌하는 것처럼 보이는 경우에도 같은 규칙이 적용된다.
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1050,10 +1058,10 @@ flowchart TB
 *쉽게 말해, 한 상황이 편입된 이행 지침 파일 여러 개와 관련되거나 채택 문서가 그러한 공동 구조 의무를 발효시키는 경우, 같은 사실관계에 대한 다른 중요한 의무가 여전히 충족되지 않았다면 한 파일을 잘 이행해도 준수로 인정되지 않는다.*
 
 이 하위 절의 결합 이행 규칙은 동일한 사실관계에 **둘 이상의 이행 지침 파일**이 적용되는 경우에 관한 것이다. 다음과는 다르다.
-- 편입된 공동 구조 문서의 **단일** 운영 클러스터에서 그 일부만 이행하면 준수로 인정되지 않는다는 규칙 — **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)**(*운영 클러스터*) 참조; 또는
+- 편입된 공동 구조 문서의 **단일** 운영 클러스터에서 그 일부만 이행하면 준수로 인정되지 않는다는 규칙 — **[CJS-1.14](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)**(*운영 클러스터*) 참조; 또는
 - **종속 클러스터** 정의를 함께 충족해야 한다는 제5장 규칙 — **[제5장 §2.1 공동 발동 및 충족](core_05__definitions_home.md#21-공동-호출과-충족)** 참조.
 
-**이 하위 절이 적용되는 경우.** 다음 두 경우 중 하나에서 **[제17장](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**에 따른 유효한 채택 및 편입 범위 안에 이 규칙이 적용된다.
+**이 하위 절이 적용되는 경우.** 다음 두 경우 중 하나에서 **[제17장](../../core_18.000_incorporation.md)**에 따른 유효한 채택 및 편입 범위 안에 이 규칙이 적용된다.
 
 1. **하나의 상황, 둘 이상의 파일:** 사실관계에 따라 시스템, 기관, 포럼 또는 공동 구조 문서 등 편입된 이행 파일을 둘 이상 적용해야 한다. 어떤 파일이 적용되는지는 채택 범위와 해당 파일이 사실관계에 제공하는 주제 라우팅으로 정하며, 충족하기 가장 쉬운 파일만 선택하는 것으로 정하지 않는다.
 2. **채택으로 공동 구조 묶음이 발효되는 경우:** 채택 문서가 지정된 공동 구조 이행 문서(**CJS** 폴더 및 채택 경로에 열거된 다른 공동 구조 파일)를 채택자에게 적용한다.
@@ -1067,7 +1075,7 @@ flowchart TB
   - 다음으로 **CI**(기관 거버넌스와 보증);
   - 다음으로 **CF**(제12장 포럼 계열 원칙);
 - 이 순서 안에서 해당 사실관계의 주제 라우팅이 요구하는 내용만 읽는다.
-- 편집자와 감사자는 권위 있는 행 표로 **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)(*파일 간 라우팅*)**을 사용한다.
+- 편집자와 감사자는 권위 있는 행 표로 **[CJS-0.1](../../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing)(*파일 간 라우팅*)**을 사용한다.
 - 결합 이행과 파일 간 가장 완전한 보호 효과 규칙은 이 하위 절과 **§15.4.3**(*편입 층위*)에 명시된 대로 계속 적용된다.
 
 긴급 상황에서 의무를 축소할 수 있는 경우는 그 축소가 다음 조건을 충족할 때뿐이다.

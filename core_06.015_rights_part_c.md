@@ -467,14 +467,14 @@ This Article covers the exceptional powers of security, intelligence, force, and
   - open use of force and military power — **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*);
   - machines that can kill, or can coerce sentients, on their own — **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
   - hunting spies, saboteurs, and hostile infiltrators — **Article XIV-D** (*Counter-Espionage Limits*), which adds to **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and never narrows it.
-- **Every use of these powers leaves an official record:** Each decision to approve, carry out, extend, or end a use of these powers is a materially binding act. That includes a surveillance or covert-collection order, opening or extending a counter-espionage investigation, a deployment or use of force, and putting an autonomous lethal system or coercion tool into use. Each one must have a [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) (**Act Record**) that meets at least the minimum in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs). In short, the record must show:
+- **Every use of these powers leaves an official record:** Each decision to approve, carry out, extend, or end a use of these powers is a materially binding act. That includes a surveillance or covert-collection order, opening or extending a counter-espionage investigation, a deployment or use of force, and putting an autonomous lethal system or coercion tool into use. Each one must have a [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) (**Act Record**) that meets at least the minimum in [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). In short, the record must show:
   - what was done, how far it reached, and what authority allowed it;
   - who asked for it, who independently approved it and on what grounds, and who keeps the record;
   - how to challenge it, and where any challenge stands;
   - every emergency shortcut, handoff, or substitution, and when each approval runs out.
 
   An existing official record can serve as the Act Record if it contains all of this; a separate duplicate is not required.
-  - **Emergencies change the order, not the record:** When action is taken before approval under [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*), the reason, scope, start, and expiry go into the record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
+  - **Emergencies change the order, not the record:** When action is taken before approval under [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*), the reason, scope, start, and expiry go into the record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
   - **Secrecy limits who can see the record, not whether it exists:** Security and confidentiality rules may limit who can see parts of an Act Record. They may never erase it, or make it unusable for independent review, challenge, correction, or remedy.
   - **The actor's own logs are not approval:** Logs, model traces, targeting data, or sign-offs produced by the agency, force, or system that acted are evidence to link to the Act Record. They cannot replace independent approval or the Act Record itself.
   - **Machines need a named human decision:** For an autonomous lethal system or coercion tool, the Act Record must identify the human who made the decision that **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*) requires, and what information that human had when deciding.
@@ -572,7 +572,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   Independent oversight, challenge pathways, and anti-self-investigation protections must remain functionally real.
 - **Remedy and taint rule:** Information obtained or used in violation of this Article must be subject to lawful corrective action sufficient to restore rights and deter recurrence. Examples:
   - exclusion;
-  - segregation;
+  - isolation;
   - deletion;
   - reclassification;
   - notice;
@@ -724,7 +724,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
   - [§6 Trust](core_01.005_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [§7.1 Limitation Discipline](core_01.005_values_principles.md#71-limitation-discipline), and
   - [Chapter One §13.1.5 Rights-Collision Procedure](core_01.010_interaction_interpretation.md#1315-rights-collision-decision-test) (1.010 §13.1.5).
-- Read with: [Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) (8.000 §7); and [Chapter Thirteen §6.1](core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1) (*Emergency measures and continuation burden*).
+- Read with: [Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) (8.000 §7); and [Chapter Thirteen §6.1](core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (13.000 §6.1) (*Emergency measures and continuation burden*).
 
 </details>
 
@@ -759,7 +759,7 @@ This Article sets out the limits on counter-espionage power:
   - how a sentient who is cleared has their access, standing, and record restored.
 
   The limits themselves must be public. Secrecy may withhold specific methods and live operations, but not the rules that bind them.
-  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
+  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Eight §7 Emergency and Urgent Action](core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Thirteen §6.1** (*Emergency measures and continuation burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
   - **An emergency does not rewrite the rules:** Changing the protocol goes through the same independent approval, and a change applies only going forward.
   - **Discovery is not an emergency:** Finding a spy, a leak, or a breach does not by itself suspend the protocol.
 - **Suspicion must rest on conduct:** An investigation may open only on specific, recorded facts about a sentient's own conduct. None of the following is enough on its own:
@@ -1141,8 +1141,8 @@ This Article sets out the floor for observable and contestable evidence:
   - [Chapter Nine §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3) through
   - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations),
   - [§18 Governance Under Stewardship Discipline](core_01.015_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and
-  - [§18.3 Segregation of Duties](core_01.015_stewardship_capacity_principles.md#183-segregation-of-duties).
-- Read with: [Chapter Eight §2 Four-Seat Constitutional Floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2) and [§3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) for which seats must stay apart on a materially binding act.
+  - [§18.3 Separation of Duties](core_01.015_stewardship_capacity_principles.md#183-separation-of-duties).
+- Read with: [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) and [§3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines) for which seats must stay apart on a materially binding act.
 
 </details>
 
@@ -1169,7 +1169,7 @@ This Article sets out the floor for distributed oversight:
     - more review paths, deeper review, and more frequent review as a system's class, impact, and dependency rise;
     - a fresh check whenever a material change means earlier checks no longer describe the system; and
     - published triggers that require outside review when internal review cannot be trusted to do the job.
-- **No checking your own work:** Having many reviewers is not enough if a reviewer is checking its own act. Under segregation of duties — **Chapter One §18.3** (*Segregation of Duties*) and **Chapter Eight** (*Functional Independence and Segregation of Duties*) — this applies to human and AI stewards alike:
+- **No checking your own work:** Having many reviewers is not enough if a reviewer is checking its own act. Under separation of duties — **Chapter One §18.3** (*Separation of Duties*) and **Chapter Eight** (*Functional Independence and Separation of Duties*) — this applies to human and AI stewards alike:
   - whoever started or carried out an act, or operates the system under review, may not verify or authorize that act;
   - whoever verifies or authorizes an act may not also keep its official record or hear the challenge to it.
 #### Article XVI-C: Verification Accessibility
@@ -1344,7 +1344,7 @@ This Article sets out the floors for progressive deployment and reversibility:
   - participants are told about changes that materially affect them — to what they can do, what they hold, or the rules they play or work under — no later than when the change takes effect (a public change log is usually enough);
   - a bad change can be reversed or fixed quickly;
   - a change does not take away something participants have earned or built up — such as progress, standing, items of value, or reputation — without notice and a way to raise a dispute; and
-  - a change that would push the system's effects beyond its bounded scope, or make participants depend on it in ways that are hard to walk away from, triggers re-evaluation of its class under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System classification machinery*). Until that review is done, the change follows the rules for the higher class.
+  - a change that would push the system's effects beyond its bounded scope, or make participants depend on it in ways that are hard to walk away from, triggers re-evaluation of its class under **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*). Until that review is done, the change follows the rules for the higher class.
 - **Ways to undo (all classes):** Systems must have ways to undo harm, in proportion to how much harm they could do. These include:
   - rolling back;
   - containing; and
@@ -1431,7 +1431,7 @@ This Article covers innovation, experimentation, and creative freedom:
 
 *Article neighbors:*
 
-- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-6.345** (*System lifecycle*) and **CS-9.305 (*System classification machinery*) and CS-9.310 (*System classification machinery*) — System classification and handling** put this Article into practice. They cannot narrow the floors set here.
+- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-6.345** (*System lifecycle*) and **CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — System classification and handling** put this Article into practice. They cannot narrow the floors set here.
 - **Science publication:** Rules for publishing, reviewing, replicating, and correcting scientific work are in [Article XV-D](#article-xv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*), as part of Info-Sphere Integrity.
 
 #### Article XVIII-A: Sandboxed Scope
@@ -1697,7 +1697,7 @@ This Article sets out the rules for rewarding inventions, processes, and functio
   - constitutional safety, audit, or compliance mechanisms.
 
   In those domains, and in other survival-critical, foundational, or standards-setting domains, institutions should prefer prizes, direct reward, pooled access, compulsory licensing, public buyout, or equivalent mechanisms that preserve implementation, repair, and broad diffusion.
-- **Reclassification and tightening:** Where an innovation initially treated as lower-dependency later becomes a dependency-critical coordination layer — for example, a platform, protocol, model, marketplace, or payment rail — institutions must reassess it under the applicable **CS-9.305 (*System classification machinery*) and CS-9.310 (*System classification machinery*) — System classification and handling** class.
+- **Reclassification and tightening:** Where an innovation initially treated as lower-dependency later becomes a dependency-critical coordination layer — for example, a platform, protocol, model, marketplace, or payment rail — institutions must reassess it under the applicable **CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) — System classification and handling** class.
   - Reassessment may narrow, convert, or terminate remaining exclusion where continued exclusivity would create:
     - coercive lock-in;
     - anti-competitive bottlenecks;

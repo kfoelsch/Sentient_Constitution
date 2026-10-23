@@ -12,10 +12,10 @@
 > | भाग | फ़ाइल | स्वामी |
 > |------|------|------|
 > | **भाग क — मूल्यांकन** | [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) | §1–§10: उद्देश्य, प्रणाली वर्ग, संपूर्ण-प्रणाली मूल्यांकन (चार्टर्ड दायरा बनाम कार्यात्मक सीमाएँ सहित), डोमेन-मूल्यांकन हुक, वर्ग के उदाहरणात्मक चलन |
-> | **भाग ख — अभिलेख और प्रक्रिया** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: प्रमाणन अभिलेख (शासक [चार्टर](core_05_band_continuity.md#charter) क्षेत्र सहित), पारदर्शिता/चुनौती-योग्यता, मंच भूमिकाएँ, पर्यवेक्षी अनुक्रम, प्रस्थिति सेतु, पुनर्खोल — भाग क §10 से सतत अध्याय क्रमांकन |
+> | **भाग ख — अभिलेख और प्रक्रिया** | [`core_07_b_system_alignment_certification_record_process.md`](core_07_b_system_alignment_certification_record_process.md) | §11–§16: प्रमाणन अभिलेख (शासक [चार्टर](../../core_05.040_band_continuity.md) क्षेत्र सहित), पारदर्शिता/चुनौती-योग्यता, मंच भूमिकाएँ, पर्यवेक्षी अनुक्रम, प्रस्थिति सेतु, पुनर्खोल — भाग क §10 से सतत अध्याय क्रमांकन |
 >
 > पूर्व एक-फ़ाइल अध्याय सात की विरासत अटकाव भाग क और भाग ख फ़ाइलों पर सुरक्षित हैं। अन्य फ़ाइलों में सामान्य **अध्याय सात** कड़ियाँ अनुभाग संख्या से उपयुक्त भाग तक मार्गन करती हैं।
-> संस्थागत चार्टर गठन, न्यूनतम क्षेत्र, और आवधिक-समीक्षा कर्तव्य [`corpus_institutions`](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** में रहते हैं — अध्याय सात उन क्षेत्रों का उपभोग करता है; उन्हें पुनः परिभाषित नहीं करता।
+> संस्थागत चार्टर गठन, न्यूनतम क्षेत्र, और आवधिक-समीक्षा कर्तव्य [`corpus_institutions`](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md) **CI-3.6** में रहते हैं — अध्याय सात उन क्षेत्रों का उपभोग करता है; उन्हें पुनः परिभाषित नहीं करता।
 
 >
 > **पिछला (इस लोकेल में):** [core_06_rights_part_d.md](core_06_rights_part_d.md)

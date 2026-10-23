@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [அத்தியாயம் ஐந்து திசைகாட்டி](core_05__definitions_home.md#அததயயம-ஐநத-தசகடடயம-வரயற-வரபடமம); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims); எளிய-மொழி நோக்கம் [முகவுரை §1](core_00_preamble.md#continuity)-இல்.
-- கீழ்வழி: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §4.1 மீள்திறனும் சுய-குணப்படுத்தல் வடிவமைப்பும்](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 பகிர்ந்த-அமைப்புத் திறன்](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 அரசியலமைப்பு விளைவுக் கூற்றுக் கட்டுப்பாடு](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [அரசியலமைப்பு நோக்கச் சிதைவு](#continuity-aim-decomposition); [core_05_band_continuity.md](../../core_05.040_band_continuity.md)-இல் தொடர்ச்சித் தலைப்புத் தொகுதிகள்.
+- கீழ்வழி: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §4.1 மீள்திறனும் சுய-குணப்படுத்தல் வடிவமைப்பும்](core_01_a_values_principles.md#10-resilience-and-self-healing-design); [§12 பகிர்ந்த-அமைப்புத் திறன்](core_01_c_stewardship_capacity_principles.md); [§11.1.5 அரசியலமைப்பு விளைவுக் கூற்றுக் கட்டுப்பாடு](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [அரசியலமைப்பு நோக்கச் சிதைவு](#continuity-aim-decomposition); [core_05_band_continuity.md](../../core_05.040_band_continuity.md)-இல் தொடர்ச்சித் தலைப்புத் தொகுதிகள்.
 - இதனுடன் படிக்க: [பொறுப்பான நிர்வாகம்](../../core_05.040_band_continuity.md#stewardship), [பொறுப்பான நிர்வாகக் குறை](../../core_05.040_band_continuity.md#stewardship-defect), [சூழலியல் முழுமை](../../core_05.040_band_continuity.md#ecological-integrity), [சார்பு](../../core_05.040_band_continuity.md#dependency), [பதிலீட்டு விலகல்](../../core_05.050_band_oversight.md#proxy-divergence), [இருப்பு இடர்](../../core_05.040_band_continuity.md#existential-risk), [தொடர் தோல்வி](../../core_05.040_band_continuity.md#cascading-failure), [செழிப்பு](core_05_apex_flourishing_aim.md#flourishing-constitutional) (இணை நோக்கம் — எதையும் மற்றதன் செலவில் பின்தொடரக் கூடாது; குறுகிய கால ஆதாயங்களைப் பின்தொடர்ந்து **பங்கேற்பு**, **மேற்பார்வை**, **பொறுப்புக்கூறல்**, அல்லது **காலந்தவறாமையை** [பொருள் பங்கு](core_00_preamble.md#material-stake) கேட்பதற்குக் கீழே காலி செய்வது **தொடர்ச்சியை** தோல்வியுறச் செய்கிறது, அண்மைக்கால வெளியீடுகள் உயர்ந்தாலும்), [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிடப்பட்டது (தொடர்ச்சி எப்படி சட்டபூர்வமாக இருக்கிறது — ஐந்தாவது கட்டுமானத் துண்டு அல்ல), தொடர்ச்சி அளவீட்டுக் குடும்பம், மற்றும் [அத்தியாயம் ஐந்து அகரவரிசை அடைவு](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
@@ -48,14 +48,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **எப்படி அளவிடவும் மதிப்பிடவும்**
   - **முதன்மை அளவு:** [தொடர்ச்சி அளவீட்டுக் குடும்பம்](#continuity-measurement-family) — *உணர்வுள்ளோரும் அமைப்புகளும் நீடிக்க முடியுமா — சூழலியலாகவும், நம்பகமாகவும், தோல்வி வழியாகவும்?* [அரசியலமைப்பு நோக்கச் சிதைவையும்](#continuity-aim-decomposition) காண்க. இந்த வரி அளவீடுகளை மட்டும் சுட்டுகிறது; எப்படி அளவிடுவது விதிகள் ஒவ்வொரு இணைக்கப்பட்ட வரையறையிலும் அமர்கின்றன.
-  - **முதன்மை மதிப்பீடு:** [அரசியலமைப்பு நான்மத்தின்](core_00_preamble.md#constitutional-tetrad) கீழ், [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிட்டுத் தீர்ப்பிடுங்கள். அமைப்புகள் பழுதுபார்க்கவும், தகவமைக்கவும், இடரை நேர்மையாக எதிர்கொள்ளவும், சூழலியல் வரம்புகளுக்குள் இருக்கவும் நீடித்த திறனை வைத்திருக்கின்றனவா என்று கேளுங்கள் — இன்றைய எண்கள் அமைதியாகத் தோன்றுகின்றனவா என்று அல்ல. கூறப்பட்ட தொடர்ச்சி முடிவுகளை [உறுப்பு](#continuity-aim-decomposition) நிபந்தனைகளுக்குக் கட்டுங்கள், அத்தியாயம் நான்கு மற்றும் [அத்தியாயம் ஒன்று §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) கீழ்.
+  - **முதன்மை மதிப்பீடு:** [அரசியலமைப்பு நான்மத்தின்](core_00_preamble.md#constitutional-tetrad) கீழ், [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிட்டுத் தீர்ப்பிடுங்கள். அமைப்புகள் பழுதுபார்க்கவும், தகவமைக்கவும், இடரை நேர்மையாக எதிர்கொள்ளவும், சூழலியல் வரம்புகளுக்குள் இருக்கவும் நீடித்த திறனை வைத்திருக்கின்றனவா என்று கேளுங்கள் — இன்றைய எண்கள் அமைதியாகத் தோன்றுகின்றனவா என்று அல்ல. கூறப்பட்ட தொடர்ச்சி முடிவுகளை [உறுப்பு](#continuity-aim-decomposition) நிபந்தனைகளுக்குக் கட்டுங்கள், அத்தியாயம் நான்கு மற்றும் [அத்தியாயம் ஒன்று §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) கீழ்.
 <a id="continuity-aim-constitutional-c"></a>
 - **எது நிற்க வேண்டும்**
   - **முதன்மைத் தோல்வி:**
     - திருத்தங்களை என்றென்றும் தள்ளிப்போட **தொடர்ச்சியை** பயன்படுத்துதல்;
     - மறைந்த இடர் இறக்கிவிடல், மீளமுடியாத தீங்கு, அல்லது சூழலியல் சுமைகளைப் பிறர் மீது இடமாற்றுதல் ஆகியவற்றில் நிற்கும்போது «நிலைத்தன்மையை» இணக்கமாகக் கருதுதல்;
     - சாதாரண «விளக்குகளை எரிய வை» பேச்சால் [சவால் செய்யக்கூடிய தன்மையை](../../core_05.035_band_accountability.md#contestability) அல்லது [காலந்தவறாத் தீர்வை](../../core_05.035_band_accountability.md#timely-resolution) தடுப்பது; அல்லது
-    - [அத்தியாயம் ஒன்று §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) கீழ் தெளிவான அனுமதி இல்லாமல் [செழிப்பை](core_05_apex_flourishing_aim.md#flourishing-constitutional) பொருள்ரீதியாகத் தோற்கடிக்கும் விதத்தில் **தொடர்ச்சியை** பின்தொடர்தல்.
+    - [அத்தியாயம் ஒன்று §6](core_01_b_interaction_interpretation.md) கீழ் தெளிவான அனுமதி இல்லாமல் [செழிப்பை](core_05_apex_flourishing_aim.md#flourishing-constitutional) பொருள்ரீதியாகத் தோற்கடிக்கும் விதத்தில் **தொடர்ச்சியை** பின்தொடர்தல்.
 
 ---
 
@@ -108,7 +108,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - கீழ்வழி: தொடர்ச்சி அளவீட்டுக் குடும்பம் — இணைப்பு-மட்டும் சுருக்குதல்; சொல்வழி அடுக்குகள் கீழே உள்ள அட்டவணையில் இணைக்கப்பட்ட இலை வரையறைகளில் வாழ்கின்றன.
-- இதனுடன் படிக்க: [CS-9 — வள ஒதுக்கீடும் நிதிப் பொறுப்பான நிர்வாகமும்](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (நிதி மற்றும் குறுக்கு-அமைப்புத் திரும்பல் இயக்கவியல்).
+- இதனுடன் படிக்க: [CS-9 — வள ஒதுக்கீடும் நிதிப் பொறுப்பான நிர்வாகமும்](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (நிதி மற்றும் குறுக்கு-அமைப்புத் திரும்பல் இயக்கவியல்).
 
 </details>
 

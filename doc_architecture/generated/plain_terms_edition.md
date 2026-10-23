@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **714** of **1094** headings carry a gloss (65%).
+Coverage: **715** of **1105** headings carry a gloss (65%).
 
 ## Contents
 
@@ -24,14 +24,14 @@ Coverage: **714** of **1094** headings carry a gloss (65%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05.020_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (82/94 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (83/95 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (39/100 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05.055_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05.060_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-seven-system-and-institutional-charters) — `core_07.000_charters.md` (7/61 glossed)
-- [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-eight-functional-independence-and-segregation-of-duties) — `core_08.000_functional_independence_segregation_of_duties.md` (9/10 glossed)
+- [CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-eight-functional-independence-and-separation-of-duties) — `core_08.000_functional_independence_separation_of_duties.md` (9/20 glossed)
 - [CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-nine-part-a-system-alignment-certification--evaluation) — `core_09.005_system_alignment_certification_evaluation.md` (16/58 glossed)
 - [CHAPTER NINE, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-nine-part-b-system-alignment-certification--record-and-process) — `core_09.010_system_alignment_certification_record_process.md` (13/25 glossed)
 - [CHAPTER NINE, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-nine-part-c-system-alignment-certification--illustrations) — `core_09.015_system_alignment_certification_illustrations.md` (10/11 glossed)
@@ -106,11 +106,11 @@ Chapters One through Six own values, how words are built and checked, the dictio
 
 [Source](../../core_00.000_preamble.md#4-principles-definitions-and-rights)
 
-#### 5. System and Institutional Charters, Functional Independence, and Segregation of Duties
+#### 5. System and Institutional Charters, Functional Independence, and Separation of Duties
 
 a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly occupy the checks on its own act.
 
-[Source](../../core_00.000_preamble.md#5-system-and-institutional-charters-functional-independence-and-segregation-of-duties)
+[Source](../../core_00.000_preamble.md#5-system-and-institutional-charters-functional-independence-and-separation-of-duties)
 
 ##### 5.1 Four-seat separation map
 
@@ -120,7 +120,7 @@ a system or institution of real impact publishes a System Charter or Institution
 
 #### 6. Key Practical Process Pipelines
 
-Chapters Nine through Thirteen apply Chapter Eight's separation-of-duties floor in one chain: certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.
+Chapters Nine through Thirteen apply Chapter Eight's separation-of-duties requirement in one chain: certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.
 
 [Source](../../core_00.000_preamble.md#6-key-practical-process-pipelines)
 
@@ -418,13 +418,13 @@ sentients should be able to work, build, switch providers, and push back without
 
 ##### 11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
 
-this section draws the floor against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twelve judges that — and only after Chapter Ten has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_01.005_values_principles.md#1111-concentration-threshold-triggers-adopter-tunable).
+this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twelve judges that — and only after Chapter Ten has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_01.005_values_principles.md#1111-concentration-threshold-triggers-adopter-tunable).
 
 [Source](../../core_01.005_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable)
 
 ###### 11.1.1 Concentration Threshold Triggers (Adopter-Tunable)
 
-adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the floor still holds. The detailed threshold-setting rules live in CJS-5.125 §11.1 (*Market concentration threshold-setting discipline (adopter-tunable)*) (market concentration threshold-setting discipline).
+adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the requirements still hold. The detailed threshold-setting rules live in CJS-5.125 §11.1 (*Market concentration threshold-setting discipline (adopter-tunable)*) (market concentration threshold-setting discipline).
 
 [Source](../../core_01.005_values_principles.md#1111-concentration-threshold-triggers-adopter-tunable)
 
@@ -478,7 +478,7 @@ shared infrastructure, such as networks, open tools, public services, data, and 
 
 #### 12. Systemic Evaluation Requirement
 
-this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Nine** and **CS-9.305 (*System classification machinery*) and CS-9.310** (*System classification machinery*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05.050_band_oversight.md#auditability)).
+this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Nine** and **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05.050_band_oversight.md#auditability)).
 
 [Source](../../core_01.005_values_principles.md#12-systemic-evaluation-requirement)
 
@@ -748,11 +748,11 @@ public authority under this Constitution belongs to no religion or worldview. It
 
 [Source](../../core_01.015_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)
 
-##### 18.3 Segregation of Duties
+##### 18.3 Separation of Duties
 
 governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Eight supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.
 
-[Source](../../core_01.015_stewardship_capacity_principles.md#183-segregation-of-duties)
+[Source](../../core_01.015_stewardship_capacity_principles.md#183-separation-of-duties)
 
 ##### 18.4 Ongoing Justification
 
@@ -1234,7 +1234,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 82/94 headings glossed
+Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 83/95 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1469,6 +1469,12 @@ a Material Control Line is the real chain of power around a particular act. It i
 an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the record, and an interested party cannot also be the one who checks, records, or decides it.
 
 [Source](../../core_05.035_band_accountability.md#interested-party)
+
+##### Independence
+
+a seat, body, or system is independent of an act when the party seeking the result cannot control it on that act and it has no stake of its own in how the act comes out. A different title, signature, or company does not make a check independent.
+
+[Source](../../core_05.035_band_accountability.md#independence)
 
 ##### Initiating Seat
 
@@ -1890,13 +1896,13 @@ a **System Certification Record** is the auditable case file for one system unde
 
 ##### System Classification Record
 
-a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System classification machinery*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
+a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
 
 [Source](../../core_05.040_band_continuity.md#system-classification-record)
 
 ##### System Data Types Record
 
-a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
+a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
 
 [Source](../../core_05.040_band_continuity.md#system-data-types-record)
 
@@ -3576,63 +3582,123 @@ scope can change, but not quietly. A change to what the Chartered Party may do i
 
 [Source](../../core_07.000_charters.md#76-keeping-old-versions)
 
-## CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES
+## CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES
 
-Source file: [`core_08.000_functional_independence_segregation_of_duties.md`](../../core_08.000_functional_independence_segregation_of_duties.md) · 9/10 headings glossed
+Source file: [`core_08.000_functional_independence_separation_of_duties.md`](../../core_08.000_functional_independence_separation_of_duties.md) · 9/20 headings glossed
 
 #### 1. Purpose, Scope, and Owner Boundary
 
-before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This floor applies both to the [Constitutional Contract Layer](../../core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control the official record of that check, or decide the challenge to it.
+before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](../../core_05.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_05.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control the official record of that check, or decide the challenge to it.
 
-[Source](../../core_08.000_functional_independence_segregation_of_duties.md#1-purpose-scope-and-owner-boundary)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#1-purpose-scope-and-owner-boundary)
 
-#### 2. Four-Seat Constitutional Floor
+#### 2. Four-Seat Constitutional Requirement
 
-every materially binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.
+separation of duties is the requirement for every materially binding act (the **Four-Seat Requirement**), and four jobs are how it is met: ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.
 
-[Source](../../core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)
 
 #### 3. Independence, Conflict, and Control Lines
 
 changing the name on the desk does not create independence. A verifying authority or reviewer is not independent when the sentient or office seeking the result can direct, remove, reward, punish, or quietly overrule them on that act.
 
-[Source](../../core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)
 
 #### 4. Wrong-Seat Routing
 
-when a step is not yours, do not silently take it and do not simply walk away. Record the gap and pass the matter to the right place.
+when a step is not yours, do not silently take it and do not simply walk away. Record the gap and pass the matter to the right place. Better still, build the process so each step goes to the right place without anyone having to notice.
 
-[Source](../../core_08.000_functional_independence_segregation_of_duties.md#4-wrong-seat-routing)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#4-wrong-seat-routing)
 
 #### 5. Published Placement, Vacancy, and Substitution
 
 an organization must say who holds each job before the hard case arrives, including who takes over when the ordinary holder is absent or conflicted.
 
-[Source](../../core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)
+
+##### 5.1 What the map must say
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#51-what-the-map-must-say)
+
+##### 5.2 Where the map is kept
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#52-where-the-map-is-kept)
+
+##### 5.3 A seat the map leaves unplaced, or a holder who cannot serve
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#53-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve)
+
+##### 5.4 Delegation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#54-delegation)
 
 #### 6. Proportional Scaling and Merged Hosting
 
 small and informal groups do not need four large departments. They do need a real independent check, a usable record, and a challenge path. Scale changes the staffing method, not the protected separation.
 
-[Source](../../core_08.000_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#6-proportional-scaling-and-merged-hosting)
+
+##### 6.1 How separation scales
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#61-how-separation-scales)
+
+##### 6.2 Merging two seats in one office
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#62-merging-two-seats-in-one-office)
+
+##### 6.3 Seats held in common
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#63-seats-held-in-common)
+
+##### 6.4 Joint professional practice
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#64-joint-professional-practice)
+
+##### 6.5 Informal and community work
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#65-informal-and-community-work)
+
+##### 6.6 Stake, class, and what does not justify a merger
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#66-stake-class-and-what-does-not-justify-a-merger)
 
 #### 7. Emergency and Urgent Action
 
 a real emergency may justify acting before the ordinary check finishes. It changes sequence, not seat ownership or the class-scaled separation posture. It does not let the actor certify its own continuation, erase the trail, or become the final reviewer afterward.
 
-[Source](../../core_08.000_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action)
 
 #### 8. Act Records and Attributable Handoffs
 
 every materially binding act has an Act Record showing what happened, who held each seat, what was decided, and where a challenge goes.
 
-[Source](../../core_08.000_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs)
 
 #### 9. Relationship to Later Processes
 
 later chapters tell each process what to evaluate, record, decide, and remedy. This chapter tells those processes how power must be separated while they do it.
 
-[Source](../../core_08.000_functional_independence_segregation_of_duties.md#9-relationship-to-later-processes)
+[Source](../../core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes)
 
 ## CHAPTER NINE, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 

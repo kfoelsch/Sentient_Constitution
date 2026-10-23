@@ -459,7 +459,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুরেখ</span></strong></summary>
 
-- পূর্বসূত্র: [§3](#3-সসটম-ও-পরতষঠনক-চরটর-ক-বলত-হব); [অধ্যায় আট §2 চার-আসনের সাংবিধানিক ভিত্তি](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2)।
+- পূর্বসূত্র: [§3](#3-সসটম-ও-পরতষঠনক-চরটর-ক-বলত-হব); [অধ্যায় আট §2 চার-আসনের সাংবিধানিক ভিত্তি](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2)।
 - পরবর্তী প্রয়োগ:
   - [অধ্যায় আট §5 প্রকাশিত নিয়োগ, শূন্যপদ ও বিকল্প-নিয়োগ](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [অধ্যায় নয় অংশ খ §6.1.1 প্রত্যয়নে চারটি আসন](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -489,7 +489,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 আসনগুলি কী এবং কেন আছে
 
-প্রত্যেক [বস্তুগতভাবে বাধ্যতামূলক কাজ](../../core_05.035_band_accountability.md#materially-binding-act)-এ চারটি কাজ থাকে; [অধ্যায় আট §2 চার-আসনের সাংবিধানিক ভিত্তি](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) সেগুলি আলাদা রাখে:
+প্রত্যেক [বস্তুগতভাবে বাধ্যতামূলক কাজ](../../core_05.035_band_accountability.md#materially-binding-act)-এ চারটি কাজ থাকে; [অধ্যায় আট §2 চার-আসনের সাংবিধানিক ভিত্তি](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) সেগুলি আলাদা রাখে:
 
 - **[সূচনা-আসন](../../core_05.035_band_accountability.md#initiating-seat):** অনুরোধ, প্রস্তাব, পরিচালনা বা দাবি করে কাজটি শুরু করে।
 - **[যাচাই-বা-অনুমোদন আসন](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** প্রমাণ ও কর্তৃত্ব পরীক্ষা করে; পরে কাজটি যাচাই, অনুমোদন, শর্তযুক্ত বা প্রত্যাখ্যান করে।

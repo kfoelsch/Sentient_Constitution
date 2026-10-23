@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - மேல்வழி: [அத்தியாயம் ஐந்து திசைகாட்டி](core_05__definitions_home.md#அததயயம-ஐநத-தசகடடயம-வரயற-வரபடமம); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) (பங்கேற்பு கால்; [பொருள் பங்கு](core_00_preamble.md#material-stake) அளவீடு); [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims); முதன்மை நோக்கம் [செழிப்பு](core_00_preamble.md#flourishing).
-- கீழ்வழி: கோட்பாடுகள்: [முகவுரை §1 மாதிரி](core_00_preamble.md#the-model); [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 அரசியலமைப்பு விளைவுக் கூற்றுக் கட்டுப்பாடு](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பு](../../core_05.055_band_participation.md#stakeholder-status-and-weight) பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பு அடுக்கு பொருந்தும் இடத்தில்; [நான்மக் கால் சிதைவு](#participation-tetrad-leg-decomposition); [core_05_band_participation.md](../../core_05.055_band_participation.md)-இல் பங்கேற்புப் பட்டை இலை வரையறைகள்.
+- கீழ்வழி: கோட்பாடுகள்: [முகவுரை §1 மாதிரி](core_00_preamble.md#the-model); [அத்தியாயம் ஒன்று §5 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 பொறுப்பான நிர்வாகமும் பகிர்ந்த புரிதலும்](core_01_c_stewardship_capacity_principles.md); [§11.1.5 அரசியலமைப்பு விளைவுக் கூற்றுக் கட்டுப்பாடு](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பு](../../core_05.055_band_participation.md#stakeholder-status-and-weight) பாதிக்கப்படுவோரின் அமைப்புப் பங்கேற்பு அடுக்கு பொருந்தும் இடத்தில்; [நான்மக் கால் சிதைவு](#participation-tetrad-leg-decomposition); [core_05_band_participation.md](../../core_05.055_band_participation.md)-இல் பங்கேற்புப் பட்டை இலை வரையறைகள்.
 - இதனுடன் படிக்க: [பொருளுள்ள செயல்திறன்](../../core_05.055_band_participation.md#meaningful-agency), [சவால் செய்யக்கூடிய தன்மை](../../core_05.035_band_accountability.md#contestability) (பங்கேற்பு/பொறுப்புக்கூறல் எல்லை), [அணுகத்தக்க தன்மை](../../core_05.055_band_participation.md#accessibility), [அடிப்படை நியாயம்](../../core_05.055_band_participation.md#substantive-fairness), [பிணைக்கும் பாதிக்கப்படுவோர் தேர்வு](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [காலந்தவறாமை](core_05_apex_timeliness_leg.md#timeliness-constitutional) (காலந்தவறாத பங்கேற்பு), [வகைப்பாடு-அளவிடப்பட்ட ஆட்சி](../../core_05.050_band_oversight.md#classification-scaled-governance), மற்றும் பங்கேற்பு அளவீட்டுக் குடும்பம்.
 
 </details>
@@ -63,7 +63,7 @@
     - [அடிப்படை நியாயம்](../../core_05.055_band_participation.md#substantive-fairness);
     - [பாதிக்கப்படுவோர் எடை](../../core_05.055_band_participation.md#stakeholder-weight);
     - [அமைப்புக் கைப்பற்றுதல்](../../core_05.040_band_continuity.md#system-capture); மற்றும்
-    - [அத்தியாயம் ஒன்று §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [அத்தியாயம் ஒன்று §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: இணக்கமற்றது எப்போது:
   - கட்டமைப்பு விலக்கு உள்ளது;

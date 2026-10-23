@@ -135,7 +135,7 @@
 - [क्षमता अपेक्षा](../../core_05.050_band_oversight.md#capability-requirement)
 - [समाधान-मार्गों का कब्ज़ा](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [शृंखलाबद्ध विफलता](../../core_05.040_band_continuity.md#cascading-failure)
-- [चार्टर](../../core_05.040_band_continuity.md#charter)
+- [चार्टर](../../core_05.040_band_continuity.md)
 - [वर्गीकरण-स्केल शासन](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [दबाव और छल](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [सामूहिक जवाबदेही विफलता](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -407,7 +407,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims); [भौतिक दाँव](core_00_preamble.md#material-stake); [प्रस्तावना §2 मापन का अवलोकन](core_00_preamble.md#measurements-overview)।
+- ऊर्ध्व: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims); [भौतिक दाँव](core_00_preamble.md#material-stake); [प्रस्तावना §2 मापन का अवलोकन](core_00_preamble.md#2-measurements-overview)।
 - अधो: अध्याय पाँच की सभी पट्टी परिभाषाओं और **Def.** आश्रित समूहों के लिए संवैधानिक उन्मुखता।
 - साथ पढ़ें: किसी भी आश्रित समूह को लागू करने से पहले [स्वतंत्र परिभाषाएँ](core_05__definitions_home.md#1-सवततर-परभषए), [§1.1 आह्वान, संतुष्टि और अनुपालन](core_05__definitions_home.md#11-आहवन-सतषट-और-अनपलन), [§2.1 संयुक्त आह्वान और संतुष्टि](core_05__definitions_home.md#21-सयकत-आहवन-और-सतषट) और [§2.2 स्वायत्त परिभाषाओं की अंतःक्रिया और पूर्ण संदर्भ](core_05__definitions_home.md#22-सवयतत-परभषओ-क-अतकरय-और-परण-सदरभ) मेटा नियम।
 
@@ -443,7 +443,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">पाठक मार्गदर्शन (गैर-संक्रियात्मक): प्रस्तावना मापन-क्रॉसवॉक</span></strong></summary>
 
-> [प्रस्तावना §2](core_00_preamble.md#measurements-overview) सात संवैधानिक **मापन श्रेणियाँ** सूचीबद्ध करती है — वे प्रश्न जो संचालक प्रणालियों का आकलन करते समय पूछते हैं। अध्याय पाँच **प्रामाणिक परिभाषाओं** को चतुष्क टाँग, **सातत्य** उद्देश्य, और **एकीकृत** क्रॉस-टाँग स्वामित्व के अनुसार संगठित करता है। नीचे की तालिका प्रत्येक मापन श्रेणी को उसके अध्याय-पाँच घरों से जोड़ती है। कोई श्रेणी एक से अधिक पट्टी फ़ाइलों पर फैल सकती है; प्रामाणिक घर नहीं खिसकते जब मापन श्रेणियाँ ओवरलैप करें।
+> [प्रस्तावना §2](core_00_preamble.md#2-measurements-overview) सात संवैधानिक **मापन श्रेणियाँ** सूचीबद्ध करती है — वे प्रश्न जो संचालक प्रणालियों का आकलन करते समय पूछते हैं। अध्याय पाँच **प्रामाणिक परिभाषाओं** को चतुष्क टाँग, **सातत्य** उद्देश्य, और **एकीकृत** क्रॉस-टाँग स्वामित्व के अनुसार संगठित करता है। नीचे की तालिका प्रत्येक मापन श्रेणी को उसके अध्याय-पाँच घरों से जोड़ती है। कोई श्रेणी एक से अधिक पट्टी फ़ाइलों पर फैल सकती है; प्रामाणिक घर नहीं खिसकते जब मापन श्रेणियाँ ओवरलैप करें।
 >
 > **तात्विकता** ([तात्विकता निर्धारण](../../core_05.050_band_oversight.md#materiality)) एकीकृत है — [भौतिक दाँव](core_00_preamble.md#material-stake) के अधीन सभी मापन परिवारों को स्केल करने वाला अनुप्रस्थ देहलीज़ द्वार; वह नीचे की तालिका में अलग श्रेणी नहीं है।
 

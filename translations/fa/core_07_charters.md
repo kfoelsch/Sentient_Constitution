@@ -433,7 +433,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§۳](#۳-محتوای-لازم-منشورهای-سیستم-و-نهادی)؛ [فصل هشت §۲ کف قانون اساسیِ چهار جایگاه](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- بالادست: [§۳](#۳-محتوای-لازم-منشورهای-سیستم-و-نهادی)؛ [فصل هشت §۲ کف قانون اساسیِ چهار جایگاه](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - پایین‌دست: [فصل هشت §۵ انتصاب منتشرشده، جای خالی و جانشینی](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5)؛ [فصل نه، بخش ب §۶.۱.۱ چهار جایگاه در گواهی](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)؛ [فصل ده §۳.۷ نگهداری سوابق و اختیار گشودن](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)؛ **CI-8.205 §۲** (*مسیرهای تفکیک کارکردی*)؛ **CI-14.205 §۵** (*نقش‌های مجاز و زنجیره‌های پاسخ‌گویی*)؛ **CI-14.205 §۶** (*فهرست جایگاه‌ها: الگوهای نقش فرایندی و مرزهای عملیاتی*).
 - همراه با: [خط کنترل مادی](../../core_05.035_band_accountability.md#material-control-line)؛ [سابقهٔ احراز صلاحیت](../../core_05.035_band_accountability.md#standing-record).
 
@@ -457,7 +457,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### ۴.۱ جایگاه‌ها چیستند و چرا وجود دارند
 
-هر [عمل الزام‌آور مادی](../../core_05.035_band_accountability.md#materially-binding-act) چهار کارکرد دارد و [فصل هشت §۲ کف قانون اساسیِ چهار جایگاه](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) آن‌ها را از هم جدا نگه می‌دارد:
+هر [عمل الزام‌آور مادی](../../core_05.035_band_accountability.md#materially-binding-act) چهار کارکرد دارد و [فصل هشت §۲ کف قانون اساسیِ چهار جایگاه](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) آن‌ها را از هم جدا نگه می‌دارد:
 
 - **[جایگاه آغازکننده](../../core_05.035_band_accountability.md#initiating-seat):** عمل را با درخواست، پیشنهاد، اجرا یا ادعای آن آغاز می‌کند.
 - **[جایگاه راستی‌آزمایی یا اجازه](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** شواهد و اختیار را بررسی و سپس عمل را تأیید، مجاز، مشروط یا رد می‌کند.

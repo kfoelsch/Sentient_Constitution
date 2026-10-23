@@ -8,8 +8,8 @@
 >
 > - **متولی قانون اساسی:** کفِ جایگاه‌های متمایز برای اعمال الزام‌آور مادی؛ حداقل محتوای همگانی هر [سابقهٔ عمل الزام‌آور مادی](../../core_05_band_accountability.md#materially-binding-act-record)؛ استقلال از کنشگر و [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line) کنشگر؛ انتشار عمومی تخصیص مسیر و نقش؛ مسیریابی تعارض، جای خالی، جانشینی و جایگاه نادرست؛ میزبانی ادغام‌شدهٔ متناسب؛ تحویل‌های قابل انتساب؛ و حداقل شرایط استقلالی که هر فرایند قانون اساسی بعدی باید اعمال کند.
 > - **منبع در لایهٔ اصول:** [فصل یکم §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) از حکمرانی می‌خواهد استقلال کارکردی را حفظ کند و معماری عملیاتی جایگاه‌ها را به اینجا ارجاع می‌دهد.
-> - **متولی اجرا:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)، [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) و [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) جایگاه‌ها را تخصیص می‌دهند و عملیاتی می‌کنند. آن‌ها می‌توانند سخت‌گیرانه‌تر باشند و انواع محدودِ جایگاه‌های اختیار ویژه را بیفزایند؛ اما نمی‌توانند این فصل را محدود کنند.
-> - **کاربرد ویژهٔ هر فرایند همچنان در مراحل بعدی انجام می‌شود:** فصل هشتم این کف را برای گواهی هم‌راستایی سامانه اعمال می‌کند؛ [فصل نهم §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) آن را برای سوابق وضعیت اعمال می‌کند؛ فصل دوازدهم و [corpus_forum.md](../../corpus_forum.md) آن را برای فرایند انجمن اعمال می‌کنند. آن فصل‌ها می‌توانند پادمان‌های لازم برای موضوع خود را بیفزایند؛ اما نمی‌توانند جایگزینی ضعیف‌تر ایجاد کنند.
+> - **متولی اجرا:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation)، [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) و [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) جایگاه‌ها را تخصیص می‌دهند و عملیاتی می‌کنند. آن‌ها می‌توانند سخت‌گیرانه‌تر باشند و انواع محدودِ جایگاه‌های اختیار ویژه را بیفزایند؛ اما نمی‌توانند این فصل را محدود کنند.
+> - **کاربرد ویژهٔ هر فرایند همچنان در مراحل بعدی انجام می‌شود:** فصل هشتم این کف را برای گواهی هم‌راستایی سامانه اعمال می‌کند؛ [فصل نهم §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) آن را برای سوابق وضعیت اعمال می‌کند؛ فصل دوازدهم و [corpus_forum.md](../../corpus_forum.md) آن را برای فرایند انجمن اعمال می‌کنند. آن فصل‌ها می‌توانند پادمان‌های لازم برای موضوع خود را بیفزایند؛ اما نمی‌توانند جایگزینی ضعیف‌تر ایجاد کنند.
 >
 > ترتیب خواندن: §1 هدف و دامنه → §2 کف چهار جایگاه → §3 استقلال و تعارض‌ها → §4 مسیریابی جایگاه نادرست → §5 تخصیص منتشرشده و جایگزین‌ها → §6 مقیاس‌بندی متناسب → §7 وضعیت اضطراری → §8 سوابق عمل و تحویل‌های قابل انتساب → §9 کاربردهای بعدی.
 
@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادستی: [چهارگانهٔ قانون اساسی](../../core_00_preamble.md#constitutional-tetrad) — به‌ویژه **نظارت** و **پاسخ‌گویی**؛ [ذی‌نفعی مادی](../../core_00_preamble.md#material-stake)؛ [استاندارد سرپرستی مشترک فصل یکم §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)؛ [حکمرانی تحت انضباط سرپرستی فصل یکم §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [مادهٔ شانزدهم](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ممیزی، شفافیت و راستی‌آزمایی مستقل*).
-- زیربخش‌ها: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-floor)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes).
+- زیربخش‌ها: [§1](#1-purpose-scope-and-owner-boundary)؛ [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [§7](#7-emergency-and-urgent-action)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [§9](#9-relationship-to-later-processes).
 - پایین‌دستی: [فصل هشتم](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)؛ [فصل نهم](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)؛ [فصل دوازدهم](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)؛ [فصل سیزدهم](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)؛ متن اجرایی مشخص‌شده در بالا.
 - همراه با: [کشف ناهم‌راستایی فصل یکم §19.3](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*کشف و بازبینی چندگانه*)؛ [اقدام قابل انتساب](../../core_05_band_accountability.md#attributable-action)؛ [یکپارچگی انتساب](../../core_05_band_accountability.md#attribution-integrity)؛ [ممیزی‌پذیری](../../core_05_band_oversight.md#auditability)؛ [اعتراض‌پذیری](../../core_05_band_accountability.md#contestability)؛ [تناسب](../../core_05_band_accountability.md#proportionality).
 
@@ -36,7 +36,7 @@
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادستی: ادعای متولی در آغاز فصل؛ [فصل یکم §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)؛ [نظارت](../../core_05_apex_oversight_leg.md#oversight-constitutional)؛ [پاسخ‌گویی](../../core_05_apex_accountability_leg.md#accountability).
-- پایین‌دستی: از [§2](#2-four-seat-constitutional-floor) تا [§9](#9-relationship-to-later-processes)؛ هر فرایند بعدی که عمل الزام‌آور مادی را ایجاد یا تغییر می‌دهد.
+- پایین‌دستی: از [§2](#2-four-seat-constitutional-requirement) تا [§9](#9-relationship-to-later-processes)؛ هر فرایند بعدی که عمل الزام‌آور مادی را ایجاد یا تغییر می‌دهد.
 - همراه با: [فصل چهارم](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) برای بستر راستی‌آزمایی؛ [مادهٔ XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*کف قابلیت اتکا و اعتمادپذیری*) و [مادهٔ XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*حق جبران و راهکار*) برای اعتراض و جبران؛ [مادهٔ شانزدهم](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ممیزی، شفافیت و راستی‌آزمایی مستقل*) برای کف‌های حقوق راستی‌آزمایی مستقل.
 
 </details>
@@ -65,14 +65,14 @@
 - محتوای سوابق ویژهٔ هر فرایند از فصل‌های هشتم تا دوازدهم؛ یا
 - فهرست جایگاه‌های عملیاتی، روش‌های نیرویابی و سازوکارهای نقشهٔ مسیر از متن اجرایی مشخص‌شده.
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. کف چهار جایگاه قانون اساسی
 
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
 - بالادستی: [§1](#1-purpose-scope-and-owner-boundary)؛ [فصل یکم §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)؛ [فصل یکم §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- پایین‌دستی: از [§3](#3-independence-conflict-and-control-lines) تا [§9](#9-relationship-to-later-processes)؛ [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*فهرست جایگاه‌ها — الگوهای نقش فرایند و مرزهای عملیاتی*).
+- پایین‌دستی: از [§3](#3-independence-conflict-and-control-lines) تا [§9](#9-relationship-to-later-processes)؛ [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*فهرست جایگاه‌ها — الگوهای نقش فرایند و مرزهای عملیاتی*).
 - همراه با: [§6](#6-proportional-scaling-and-merged-hosting) برای تنها مسیر مجاز میزبانی ادغام‌شده.
 
 </details>
@@ -163,9 +163,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§2](#2-four-seat-constitutional-floor)؛ [پاسخ‌گویی متناسب با اختیار](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)؛ [مادهٔ XXIV](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتسخیر*).
+- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [پاسخ‌گویی متناسب با اختیار](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)؛ [مادهٔ XXIV](core_06_rights_part_d.md) (*تفسیر قانون اساسی، بازبینی و تضمین‌های ضدتسخیر*).
 - پایین‌دست: [§4](#4-wrong-seat-routing)؛ [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ نقش‌های مؤلفهٔ گواهی فصل هشتم؛ نگهداری سوابق فصل نهم؛ منع داوری دربارهٔ خود در مراجع فصل دوازدهم.
-- همراه با این بخش بخوانید: [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line)؛ [CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*یکپارچگی تعارض، ضدتسخیر و ضدفساد*) و [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*تضمین‌های یکپارچگی، عملیات ضدتسخیر و پشتیبانی ضدداوری دربارهٔ خود*) برای تضمین‌های عملیاتیِ تعارض و منع داوری دربارهٔ خود.
+- همراه با این بخش بخوانید: [خط کنترل مادی](../../core_05_band_accountability.md#material-control-line)؛ [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*یکپارچگی تعارض، ضدتسخیر و ضدفساد*) و [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*تضمین‌های یکپارچگی، عملیات ضدتسخیر و پشتیبانی ضدداوری دربارهٔ خود*) برای تضمین‌های عملیاتیِ تعارض و منع داوری دربارهٔ خود.
 
 </details>
 
@@ -190,8 +190,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§2](#2-four-seat-constitutional-floor)؛ [§3](#3-independence-conflict-and-control-lines).
-- پایین‌دست: [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [قواعد جایگاه مشترک CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines).
+- پایین‌دست: [§5](#5-published-placement-vacancy-and-substitution)؛ [§8](#8-act-records-and-attributable-handoffs)؛ [قواعد جایگاه مشترک CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - همراه با این بخش بخوانید: [فصل یکم §17.5 وظیفهٔ مقاومت](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 </details>
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§2](#2-four-seat-constitutional-floor)؛ [§3](#3-independence-conflict-and-control-lines)؛ [شفافیت](../../core_05_band_oversight.md#transparency)؛ [ممیزی‌پذیری](../../core_05_band_oversight.md#auditability).
-- پایین‌دست: [§8](#8-act-records-and-attributable-handoffs)؛ [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*مسیرهای جداسازی کارکردی*)؛ [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*نقش‌های مجاز و زنجیره‌های پاسخ‌گویی*)؛ سوابق فصل هشتم و نهم.
-- همراه با این بخش بخوانید: [منشور](../../core_05_band_continuity.md#charter) و [فصل سیزدهم §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [§3](#3-independence-conflict-and-control-lines)؛ [شفافیت](../../core_05_band_oversight.md#transparency)؛ [ممیزی‌پذیری](../../core_05_band_oversight.md#auditability).
+- پایین‌دست: [§8](#8-act-records-and-attributable-handoffs)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*مسیرهای جداسازی کارکردی*)؛ [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*نقش‌های مجاز و زنجیره‌های پاسخ‌گویی*)؛ سوابق فصل هشتم و نهم.
+- همراه با این بخش بخوانید: [منشور](../../core_05.040_band_continuity.md) و [فصل سیزدهم §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -244,8 +244,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§2](#2-four-seat-constitutional-floor)؛ [ذی‌نفعی مادی](../../core_00_preamble.md#material-stake)؛ [ضرورت](../../core_05_band_accountability.md#necessity)؛ [تناسب](../../core_05_band_accountability.md#proportionality).
-- پایین‌دست: [فصل نهم §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records)؛ [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*نیروی انسانی مسیر و افزونگی صلاحیت متناسب با طبقه*)؛ [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*مسیرهای جداسازی کارکردی*).
+- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [ذی‌نفعی مادی](../../core_00_preamble.md#material-stake)؛ [ضرورت](../../core_05_band_accountability.md#necessity)؛ [تناسب](../../core_05_band_accountability.md#proportionality).
+- پایین‌دست: [فصل نهم §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records)؛ [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*نیروی انسانی مسیر و افزونگی صلاحیت متناسب با طبقه*)؛ [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*مسیرهای جداسازی کارکردی*).
 - همراه با این بخش بخوانید: [بار قابل‌اجتناب](../../core_05_band_continuity.md#avoidable-burden) و [فصل یکم §3.3 فرایند ضدتحقیر](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -267,7 +267,7 @@ flowchart TB
 
 کارهای غیررسمی، بدون دستمزد، یاری متقابل، مراقبتی، تعمیراتی، آموزشی، تعاونی و سرپرستی اجتماعی می‌توانند برای بررسی مربوط از نهادِ اتکای بی‌طرفی استفاده کنند که اختیارش منتشر شده باشد. هرجا مسیر واقعاً بی‌طرف و پاسخ‌گو وجود دارد، قانون اساسی رسمیت نهادی‌ای را که دامنه به‌طور معقول نمی‌تواند فراهم کند الزام نمی‌کند.
 
-کمبود نیرو، سرعت، راحتی یا تمرکز تخصص به‌تنهایی ادغام را توجیه نمی‌کند. موضع متناسب با طبقه در [§2 کف قانون اساسی چهار جایگاه](#2-four-seat-constitutional-floor) حاکم است: برای طبقهٔ A هیچ انحرافی مجاز نیست و هر انحراف در دامنهٔ طبقهٔ B یا C باید الزامات بالا را برآورده کند. هرچه ذی‌نفعی مادی بیشتر باشد، فرضِ وجود دفترهای جداگانه، افزونگی صلاحیت و جانشینان مستقل قوی‌تر است.
+کمبود نیرو، سرعت، راحتی یا تمرکز تخصص به‌تنهایی ادغام را توجیه نمی‌کند. موضع متناسب با طبقه در [§2 کف قانون اساسی چهار جایگاه](#2-four-seat-constitutional-requirement) حاکم است: برای طبقهٔ A هیچ انحرافی مجاز نیست و هر انحراف در دامنهٔ طبقهٔ B یا C باید الزامات بالا را برآورده کند. هرچه ذی‌نفعی مادی بیشتر باشد، فرضِ وجود دفترهای جداگانه، افزونگی صلاحیت و جانشینان مستقل قوی‌تر است.
 
 <a id="7-emergency-and-urgent-action"></a>
 ### ۷. اقدام اضطراری و فوری
@@ -275,9 +275,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: [§2](#2-four-seat-constitutional-floor)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [فصل دوازدهم §6.1 اقدامات اضطراری و بار ادامه‌دادن](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)؛ [موضع موقت پیش‌فرض](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- بالادست: [§2](#2-four-seat-constitutional-requirement)؛ [§6](#6-proportional-scaling-and-merged-hosting)؛ [فصل دوازدهم §6.1 اقدامات اضطراری و بار ادامه‌دادن](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)؛ [موضع موقت پیش‌فرض](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - پایین‌دست: فرایندهای رخداد، مهار، انتشار، ادامه و بازبینی پس از رخداد در متن اجراییِ تعیین‌شده.
-- همراه با این بخش بخوانید: [به‌موقع‌بودن](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)، [حفظ شواهد](../../core_05_band_oversight.md#evidence-preservation) و [فهرست جایگاه CI-4.6 — گونه‌های نقش فرایندی و مرزهای عملیاتی](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- همراه با این بخش بخوانید: [به‌موقع‌بودن](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)، [حفظ شواهد](../../core_05_band_oversight.md#evidence-preservation) و [فهرست جایگاه CI-4.6 — گونه‌های نقش فرایندی و مرزهای عملیاتی](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -314,8 +314,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: از [§2](#2-four-seat-constitutional-floor) تا [§7](#7-emergency-and-urgent-action)؛ [سابقهٔ عمل الزام‌آور مادی](../../core_05_band_accountability.md#materially-binding-act-record)؛ [اقدام قابل‌انتساب](../../core_05_band_accountability.md#attributable-action)؛ [یکپارچگی انتساب](../../core_05_band_accountability.md#attribution-integrity).
-- پایین‌دست: [CS-4 §10 اقدام قابل‌انتسابِ قابل‌بازرسی](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)؛ [قواعد جایگاه مشترک CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)؛ هر سابقهٔ فرایندی که §8 بر آن حاکم است؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*قالب پایهٔ قابل‌بررسی ماشینی؛ پشتیبانی فرایندی، نه تعریفی دوم*).
+- بالادست: از [§2](#2-four-seat-constitutional-requirement) تا [§7](#7-emergency-and-urgent-action)؛ [سابقهٔ عمل الزام‌آور مادی](../../core_05_band_accountability.md#materially-binding-act-record)؛ [اقدام قابل‌انتساب](../../core_05_band_accountability.md#attributable-action)؛ [یکپارچگی انتساب](../../core_05_band_accountability.md#attribution-integrity).
+- پایین‌دست: [CS-4 §10 اقدام قابل‌انتسابِ قابل‌بازرسی](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)؛ [قواعد جایگاه مشترک CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)؛ هر سابقهٔ فرایندی که §8 بر آن حاکم است؛ [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*قالب پایهٔ قابل‌بررسی ماشینی؛ پشتیبانی فرایندی، نه تعریفی دوم*).
 - همراه با این بخش بخوانید: [§4 ارجاع به جایگاه نادرست](#4-wrong-seat-routing) و [فصل چهارم §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>

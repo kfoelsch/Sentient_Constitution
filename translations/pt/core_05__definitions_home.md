@@ -135,7 +135,7 @@ Este diretório enumera **Definições A-Z** e **Aglomerados A-Z** em separado. 
 - [Exigência de capacidade](../../core_05.050_band_oversight.md#capability-requirement)
 - [Captura das vias de resolução](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [Falha em cascata](../../core_05.040_band_continuity.md#cascading-failure)
-- [Carta](../../core_05.040_band_continuity.md#charter)
+- [Carta](../../core_05.040_band_continuity.md)
 - [Governança escalada à classificação](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [Coerção e manipulação](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [Falha coletiva da prestação de contas](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -407,7 +407,7 @@ Este diretório enumera **Definições A-Z** e **Aglomerados A-Z** em separado. 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); [aposta material](core_00_preamble.md#material-stake); [Preâmbulo §2 Visão geral das medições](core_00_preamble.md#measurements-overview).
+- Origem: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad); [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims); [aposta material](core_00_preamble.md#material-stake); [Preâmbulo §2 Visão geral das medições](core_00_preamble.md#2-measurements-overview).
 - Destino: orientação constitucional para todas as definições de faixa do Capítulo Cinco e os aglomerados dependentes **Def.**
 - Ler com: as regras meta de [Definições independentes](core_05__definitions_home.md#1-definições-independentes), [§1.1 Invocação, satisfação e conformidade](core_05__definitions_home.md#11-invocação-satisfação-e-conformidade), [§2.1 Invocação conjunta e satisfação](core_05__definitions_home.md#21-invocação-conjunta-e-satisfação) e [§2.2 Interação de definições autônomas e contexto pleno](core_05__definitions_home.md#22-interação-de-definições-autônomas-e-contexto-pleno) antes de aplicar qualquer aglomerado dependente.
 
@@ -443,7 +443,7 @@ As definições do Capítulo Cinco ordenam-se pelos [Dois Fins Constitucionais](
 <details>
 <summary><strong><span style="color: #2563eb;">Orientação para quem lê (não operativa): cruzamento de medição do Preâmbulo</span></strong></summary>
 
-> O [Preâmbulo §2](core_00_preamble.md#measurements-overview) enumera sete **categorias de medição** constitucionais — as perguntas que quem opera faz ao avaliar sistemas. O Capítulo Cinco organiza **definições canônicas** por perna da Tétrade, fim de **Continuidade** e titularidade **Integrativa** de cruza entre pernas. A tabela abaixo mapeia cada categoria de medição aos seus lares do Capítulo Cinco. Uma categoria pode abranger mais de um arquivo de faixa; os lares canônicos não se movem quando as categorias de medição se sobrepõem.
+> O [Preâmbulo §2](core_00_preamble.md#2-measurements-overview) enumera sete **categorias de medição** constitucionais — as perguntas que quem opera faz ao avaliar sistemas. O Capítulo Cinco organiza **definições canônicas** por perna da Tétrade, fim de **Continuidade** e titularidade **Integrativa** de cruza entre pernas. A tabela abaixo mapeia cada categoria de medição aos seus lares do Capítulo Cinco. Uma categoria pode abranger mais de um arquivo de faixa; os lares canônicos não se movem quando as categorias de medição se sobrepõem.
 >
 > A **Materialidade** ([Determinação de materialidade](../../core_05.050_band_oversight.md#materiality)) é Integrativa — uma porta-limiar transversal que escala todas as famílias de medição sob [aposta material](core_00_preamble.md#material-stake); não é uma categoria separada na tabela abaixo.
 

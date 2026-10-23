@@ -23,24 +23,24 @@
 
 - [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — **participação**, **supervisão**, **responsabilização** e **tempestividade**, dimensionadas segundo o [interesse material em jogo](core_00_preamble.md#material-stake)
 - [Dois objetivos constitucionais](core_00_preamble.md#two-constitutional-aims) — [Florescimento](core_00_preamble.md#flourishing) e [Continuidade](core_00_preamble.md#continuity) (o objetivo constitucional de **Continuidade**, distinto da continuidade operacional ou de protocolo em outras partes do corpus)
-- [interesse material em jogo](core_00_preamble.md#material-stake) — escala de impacto, dependência e risco para os deveres da Tétrade; ler em conjunto com a Materialidade Integrativa ([Materialidade](core_05_band_oversight.md#materiality)) e as entradas do Capítulo Cinco abaixo
+- [interesse material em jogo](core_00_preamble.md#material-stake) — escala de impacto, dependência e risco para os deveres da Tétrade; ler em conjunto com a Materialidade Integrativa ([Materialidade](../../core_05.050_band_oversight.md#materiality)) e as entradas do Capítulo Cinco abaixo
 
 **Definições proxy do Capítulo Cinco** (satisfação O/M/A/C — rastrear nos Capítulos Dois a Quatro quando materialmente pertinente):
 
-- [Bem-estar](core_05_band_continuity.md#wellbeing) (objetivo de Florescimento)
-- [Supervisão](core_05_apex_oversight_leg.md#oversight), [Responsabilização](core_05_apex_accountability_leg.md#accountability), [Contestabilidade](core_05_band_accountability.md#contestability), [Governança](core_05_band_accountability.md#governance), [Governança dimensionada por classificação](core_05_band_oversight.md#governança-escalada-à-classificação)
-- [Material](core_05_band_oversight.md#material), [Impacto material](core_05_band_oversight.md#material-impact), [Risco material](core_05_band_oversight.md#material-risk), [Materialidade](core_05_band_oversight.md#materiality) (os widgets rotulam como **Materialidade**), [Materialidade sistêmica](core_05_band_continuity.md#systemic-materiality) — agrupamento: [Materialidade, impacto, risco e integridade das proxies](core_05_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
+- [Bem-estar](../../core_05.040_band_continuity.md#wellbeing) (objetivo de Florescimento)
+- [Supervisão](../../core_05.020_apex_oversight_leg.md#oversight), [Responsabilização](core_05_apex_accountability_leg.md#accountability), [Contestabilidade](../../core_05.035_band_accountability.md#contestability), [Governança](../../core_05.035_band_accountability.md#governance), [Governança dimensionada por classificação](core_05_band_oversight.md#governança-escalada-à-classificação)
+- [Material](../../core_05.050_band_oversight.md#material), [Impacto material](../../core_05.050_band_oversight.md#material-impact), [Risco material](../../core_05.050_band_oversight.md#material-risk), [Materialidade](../../core_05.050_band_oversight.md#materiality) (os widgets rotulam como **Materialidade**), [Materialidade sistêmica](../../core_05.040_band_continuity.md#systemic-materiality) — agrupamento: [Materialidade, impacto, risco e integridade das proxies](../../core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
 
 **Principais agrupamentos dependentes da §3 do Capítulo Cinco** (grupos de invocação conjunta — ler com os Capítulos Dois a Quatro quando materialmente pertinente):
 
-- [Status e peso das partes interessadas](core_05_band_participation.md#stakeholder-status-and-weight) (camada de Participação do Sistema de Partes Interessadas)
-- [Camada de Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional) e [Arquitetura de governança, supervisão, dependência, descentralização, concentração, estrutura de mercado e integridade das vias de saída](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- [Status e peso das partes interessadas](../../core_05.055_band_participation.md#stakeholder-status-and-weight) (camada de Participação do Sistema de Partes Interessadas)
+- [Camada de Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional) e [Arquitetura de governança, supervisão, dependência, descentralização, concentração, estrutura de mercado e integridade das vias de saída](../../core_05.035_band_accountability.md#governance-architecture-decentralization-and-concentration)
 - [Corpus e hierarquia de autoridade](core_05_band_integrative.md#defi1-corpus-e-pilha-de-autoridade)
 - [Responsabilização, contestabilidade e falha da responsabilização coletiva](core_05_apex_accountability_leg.md#accountability)
 
 **CJS-3** (*biblioteca de agrupamentos operacionais (oDef)*) — bússola de agrupamentos operacionais para termos operacionais conjuntos entre implementações; ler em conjunto com a Tétrade, os objetivos e a escala segundo o interesse material em jogo deste capítulo:
 
-- [CJS-3.1 Bússola constitucional e mapa de agrupamentos](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — entrada principal para os agrupamentos de **CJS-3.2** (*Supervisão: transparência reflexiva e termos de responsabilização*) a **CJS-3.23** (*Integrativa: termos de integridade de intervenção e anulação*), organizados por componente da Tétrade, objetivo de Continuidade e faixas integrativas entre componentes
+- [CJS-3.1 Bússola constitucional e mapa de agrupamentos](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — entrada principal para os agrupamentos de **CJS-3.2** (*Supervisão: transparência reflexiva e termos de responsabilização*) a **CJS-3.23** (*Integrativa: termos de integridade de intervenção e anulação*), organizados por componente da Tétrade, objetivo de Continuidade e faixas integrativas entre componentes
 
 </details>
 
@@ -53,7 +53,7 @@
 
 - **Quando os princípios colidem** ([§13 Processo de Resolução de Colisões Constitucionais](#13-processo-de-resolução-de-colisões-constitucionais)): Segurança e Verdade vêm primeiro, e toda outra ponderação deve preservar a Tétrade, em vez de enfraquecê-la para obter uma solução fácil.
 - **Quando um valor é levado longe demais** ([§14 Proibição de anulação absoluta](#14-prohibition-on-absolute-override)): nenhum valor, nem qualquer um dos dois objetivos, pode ser usado para esvaziar um componente abaixo do que o interesse material em jogo exige.
-- **Quando a Constituição é lida ou aplicada** ([§15 Interpretação constitucional](#15-constitutional-interpretation)): renomear, dividir ou redirecionar o mesmo ato não permite contornar um requisito, e a ambiguidade é interpretada em favor do [Efeito protetivo mais amplo](core_05_band_integrative.md#fullest-protective-effect).
+- **Quando a Constituição é lida ou aplicada** ([§15 Interpretação constitucional](#15-constitutional-interpretation)): renomear, dividir ou redirecionar o mesmo ato não permite contornar um requisito, e a ambiguidade é interpretada em favor do [Efeito protetivo mais amplo](../../core_05.045_band_integrative.md#fullest-protective-effect).
 
 **Onde a Parte B contempla cada componente.** O Rastreio de cada seção lista todos os componentes que ela aborda. Esta tabela indica as principais localizações.
 
@@ -66,7 +66,7 @@
 
 **Seções que não abordam diretamente nenhum componente.** [§15.1.1 Princípio contra a segmentação](#1511-princípio-contra-a-segmentação) e [§15.4.1](#1541-leitura-integrada) a [§15.4.3](#1543-camada-de-incorporação) regem como o texto é lido e qual camada de fontes prevalece. Por definição, seus Rastreamentos não contêm uma linha da Tétrade.
 
-**Dois sentidos de tempo.** Na Parte B, o tempo aparece em dois sentidos. Horizontes temporais longos (danos acumulados e adiados, e a [§3.2 Restrição de Consistência Temporal do Capítulo Oito](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint), aplicada em [§13.1.2](#1312-minimização-de-danos)) pertencem ao objetivo de **Continuidade**. Prazos, ciclos de revisão e atrasos (limites temporais das restrições, divulgação eventual, atrasos evitáveis) pertencem ao componente de **tempestividade**.
+**Dois sentidos de tempo.** Na Parte B, o tempo aparece em dois sentidos. Horizontes temporais longos (danos acumulados e adiados, e a [§3.2 Restrição de Consistência Temporal do Capítulo Oito](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint), aplicada em [§13.1.2](#1312-minimização-de-danos)) pertencem ao objetivo de **Continuidade**. Prazos, ciclos de revisão e atrasos (limites temporais das restrições, divulgação eventual, atrasos evitáveis) pertencem ao componente de **tempestividade**.
 
 **Dois eixos, sem conflito.** Os objetivos da Parte A dizem o que os sistemas compartilhados buscam. A Parte B diz o que nenhuma ponderação, anulação ou interpretação pode retirar.
 
@@ -81,7 +81,7 @@
 
 - Ler com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — participação, supervisão, responsabilização e tempestividade nos procedimentos, na divulgação, no tratamento de Colisões Constitucionais e na reparação; dimensionada segundo o [interesse material em jogo](core_00_preamble.md#material-stake).
 - Antecedentes: Princípios: [3. Objetivo fundamental: Bem-estar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Confiança](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [7. Liberdade (agência limitada)](core_01_a_values_principles.md#7-freedom-bounded-agency) e [§16 Gestão responsável em profundidade](core_01_c_stewardship_capacity_principles.md#16-a-zeladoria-em-profundidade).
-- Desdobramentos: [13.2.1 Preservação da integridade epistêmica](#1321-preservação-da-integridade-epistêmica), [Registro de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record), [postura provisória padrão](#default-interim-posture) e [14. Proibição de anulação absoluta](#14-prohibition-on-absolute-override).
+- Desdobramentos: [13.2.1 Preservação da integridade epistêmica](#1321-preservação-da-integridade-epistêmica), [Registro de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record), [postura provisória padrão](#default-interim-posture) e [14. Proibição de anulação absoluta](#14-prohibition-on-absolute-override).
 - Desdobramentos: rege os conflitos entre artigos em todo o [Capítulo Seis: Direitos Fundamentais](core_06_rights_part_a.md#capítulo-seis-direitos-fundacionais).
   - Ler em conjunto com [Artigo XXIV: Interpretação constitucional, revisão e salvaguardas contra captura](core_06_rights_part_d.md#artigo-xxv-interpretação-constitucional-revisão-e-salvaguardas-contra-captura) e [Artigo XX: Justiça após violação verificada](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
   - Aplicar quando surgirem questões de revisão, emergência ou Colisão Constitucional.
@@ -91,7 +91,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Colisão Constitucional](core_05_band_integrative.md#constitutional-collision) · [O](core_05_band_integrative.md#constitutional-collision) · [M](core_05_band_integrative.md#constitutional-collision-a) · [A](core_05_band_integrative.md#constitutional-collision-a) · [C](core_05_band_integrative.md#constitutional-collision-c)
+- [Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision) · [O](../../core_05.045_band_integrative.md#constitutional-collision) · [M](../../core_05.045_band_integrative.md#constitutional-collision-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-c)
 - [Participação](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Responsabilização](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
@@ -101,12 +101,12 @@
 
 <br>
 
-*Em termos simples: as Colisões Constitucionais ocorrerão — **Segurança** e **Verdade** vêm primeiro. Depois disso, as restrições devem ser proporcionais, necessárias, minimizar danos e ser tão leves quanto possível. A verdade não pode ser ocultada por conforto; a privacidade não pode ser removida por conveniência; os limites à liberdade aplicam-se conforme a [§7.1 Disciplina das restrições](core_01_a_values_principles.md#71-limitation-discipline); as Colisões Constitucionais relativas a direitos exigem um teste decisório documentado; métricas que distorcem a conformidade não contam. A otimização de curto prazo não pode passar na avaliação da [§3.2 Restrição de Consistência Temporal do Capítulo Oito](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint). **§13.1** (*Princípios fundamentais de ponderação*) a **§13.3** (*Minimização dos encargos evitáveis*) contêm as regras de ponderação, as restrições de divulgação e privacidade e o procedimento para Colisões Constitucionais.*
+*Em termos simples: as Colisões Constitucionais ocorrerão — **Segurança** e **Verdade** vêm primeiro. Depois disso, as restrições devem ser proporcionais, necessárias, minimizar danos e ser tão leves quanto possível. A verdade não pode ser ocultada por conforto; a privacidade não pode ser removida por conveniência; os limites à liberdade aplicam-se conforme a [§7.1 Disciplina das restrições](core_01_a_values_principles.md#71-limitation-discipline); as Colisões Constitucionais relativas a direitos exigem um teste decisório documentado; métricas que distorcem a conformidade não contam. A otimização de curto prazo não pode passar na avaliação da [§3.2 Restrição de Consistência Temporal do Capítulo Oito](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint). **§13.1** (*Princípios fundamentais de ponderação*) a **§13.3** (*Minimização dos encargos evitáveis*) contêm as regras de ponderação, as restrições de divulgação e privacidade e o procedimento para Colisões Constitucionais.*
 
 A Parte B mantém a Tétrade intacta em três situações:
-- **[Colisões Constitucionais](core_05_band_integrative.md#constitutional-collision) (esta seção):** resolve-as sem enfraquecer nenhum componente.
+- **[Colisões Constitucionais](../../core_05.045_band_integrative.md#constitutional-collision) (esta seção):** resolve-as sem enfraquecer nenhum componente.
 - **Extrapolação ([§14 Proibição de anulação absoluta](#14-prohibition-on-absolute-override)):** impede que um único valor, inclusive qualquer um dos dois objetivos, prevaleça sobre os demais ou esvazie um componente abaixo do que exige o interesse material em jogo.
-- **Leitura e aplicação ([§15 Interpretação Constitucional](#15-constitutional-interpretation)):** impede renomear, dividir ou redirecionar o mesmo ato para contornar um requisito e interpreta a ambiguidade em favor do [Efeito protetivo mais pleno](core_05_band_integrative.md#fullest-protective-effect).
+- **Leitura e aplicação ([§15 Interpretação Constitucional](#15-constitutional-interpretation)):** impede renomear, dividir ou redirecionar o mesmo ato para contornar um requisito e interpreta a ambiguidade em favor do [Efeito protetivo mais pleno](../../core_05.045_band_integrative.md#fullest-protective-effect).
 
 Quando valores ou restrições entram em conflito:
 - **Precedência:** a **Segurança** e a **Verdade** prevalecem quando não é possível resolver os conflitos sem violá-las.
@@ -167,9 +167,9 @@ flowchart TB
 
 *Escopo.* [§13.1 Princípios fundamentais de ponderação](#131-princípios-fundamentais-de-ponderação) — definições de necessidade, minimização de danos e dano na sequência de ponderação.
 
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Minimização de danos (seleção da ponderação)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [Dano](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Minimização de danos (seleção da ponderação)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Dano](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
 
 </details>
 
@@ -228,10 +228,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Viabilidade](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
-- [Liberdade (Agência Delimitada)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [Agência Significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Viabilidade](../../core_05.035_band_accountability.md#feasibility) · [O](../../core_05.035_band_accountability.md#feasibility) · [M](../../core_05.035_band_accountability.md#feasibility-a) · [A](../../core_05.035_band_accountability.md#feasibility-a) · [C](../../core_05.035_band_accountability.md#feasibility-c)
+- [Liberdade (Agência Delimitada)](../../core_05.055_band_participation.md#freedom-bounded-agency) · [O](../../core_05.055_band_participation.md#freedom-bounded-agency) · [M](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05.055_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05.055_band_participation.md#freedom-bounded-agency-c)
+- [Agência Significativa](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -254,7 +254,7 @@ Afirmar que não existe alternativa, sem análise documentada, não satisfaz ess
 - apenas a redução de custos quando direitos são materialmente afetados;
 - o fato de a restrição já existir.
 
-**Âmbito.** Esta subseção aplica-se a qualquer restrição constitucional — não apenas a contextos de Colisão Constitucional previstos em [§13.1.5 Procedimento de Colisão de Direitos — Teste de Decisão](#1315-rights-collision-decision-test). Quando uma restrição onera materialmente [Liberdade (Agência Delimitada)](core_05_band_participation.md#freedom-bounded-agency), [Agência Significativa](core_05_band_participation.md#meaningful-agency) ou [Consentimento](core_05_band_participation.md#consent), a comprovação da necessidade deve ser igualmente rigorosa.
+**Âmbito.** Esta subseção aplica-se a qualquer restrição constitucional — não apenas a contextos de Colisão Constitucional previstos em [§13.1.5 Procedimento de Colisão de Direitos — Teste de Decisão](#1315-rights-collision-decision-test). Quando uma restrição onera materialmente [Liberdade (Agência Delimitada)](../../core_05.055_band_participation.md#freedom-bounded-agency), [Agência Significativa](../../core_05.055_band_participation.md#meaningful-agency) ou [Consentimento](../../core_05.055_band_participation.md#consent), a comprovação da necessidade deve ser igualmente rigorosa.
 <a id="1312-harm-minimization"></a>
 ##### 13.1.2 Minimização de danos
 <details>
@@ -267,12 +267,12 @@ Afirmar que não existe alternativa, sem análise documentada, não satisfaz ess
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Minimização de danos (seleção de compromissos)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [Dano](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [Integridade ecológica](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [Capacidade de recuperação ecológica](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [Risco](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Dano irreversível](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [Minimização de danos (seleção de compromissos)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Dano](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [Integridade ecológica](../../core_05.040_band_continuity.md#ecological-integrity) · [O](../../core_05.040_band_continuity.md#ecological-integrity) · [M](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
+- [Capacidade de recuperação ecológica](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [Risco](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [Dano irreversível](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
 
 </details>
 
@@ -280,10 +280,10 @@ Afirmar que não existe alternativa, sem análise documentada, não satisfaz ess
 
 *Em termos simples: quando várias opções necessárias continuam disponíveis após o cumprimento de [§13.1.1 Necessidade](#1311-necessidade), escolha a que causa o menor dano total — contabilizando todas as pessoas afetadas, os ecossistemas e sistemas vivos, todos os sistemas envolvidos e todos os horizontes temporais relevantes. Otimizar localmente enquanto se criam danos sistémicos ou ecológicos, ou otimizar a curto prazo enquanto se causam danos a longo prazo, não passa neste teste. A minimização de danos nunca autoriza descer abaixo dos limites constitucionais em [§13.1.4 Limites Constitucionais, Segurança e Processo Contra a Degradação](#1314-limites-constitucionais-mínimos-segurança-e-processo-não-degradante).*
 
-**Âmbito da comparação.** Quando várias opções constitucionalmente adequadas satisfazem [Segurança (§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [Verdade (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) e [§13.1.1 Necessidade](#1311-necessidade), a seleção deve favorecer a opção que minimize o total de [Dano](core_05_band_accountability.md#harm) entre:
+**Âmbito da comparação.** Quando várias opções constitucionalmente adequadas satisfazem [Segurança (§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [Verdade (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) e [§13.1.1 Necessidade](#1311-necessidade), a seleção deve favorecer a opção que minimize o total de [Dano](../../core_05.035_band_accountability.md#harm) entre:
 - seres sencientes afetados direta e indiretamente;
 - sistemas que sustentam, medeiam ou dependem do resultado;
-- sistemas ecológicos e vivos, incluindo a [Integridade ecológica](core_05_band_continuity.md#ecological-integrity) e, quando a recuperação após o dano for relevante, a [Capacidade de recuperação ecológica](core_05_band_continuity.md#ecological-recovery-capacity);
+- sistemas ecológicos e vivos, incluindo a [Integridade ecológica](../../core_05.040_band_continuity.md#ecological-integrity) e, quando a recuperação após o dano for relevante, a [Capacidade de recuperação ecológica](../../core_05.040_band_continuity.md#ecological-recovery-capacity);
 - horizontes temporais relevantes, incluindo efeitos tardios e cumulativos.
 
 **Requisito de agregação.** A avaliação de danos deve agregar:
@@ -298,7 +298,7 @@ Os seguintes casos não estão em conformidade:
 - otimizar apenas os danos locais ou imediatos enquanto se criam danos sistémicos, agregados ou ecológicos maiores;
 - externalizar danos para ecossistemas, seres sencientes não identificados ou outras partes não contabilizadas para aparentar minimizar os danos para as partes identificadas.
 
-**Disciplina do horizonte temporal.** A otimização a curto prazo com custos sistémicos a longo prazo não passa neste teste. A minimização de danos deve considerar a [Restrição de Consistência Temporal do Capítulo Oito §3.2](core_09_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): uma decisão que parece minimizar danos no período atual, mas que previsivelmente causa danos maiores ao longo do horizonte temporal constitucional relevante, não está em conformidade.
+**Disciplina do horizonte temporal.** A otimização a curto prazo com custos sistémicos a longo prazo não passa neste teste. A minimização de danos deve considerar a [Restrição de Consistência Temporal do Capítulo Oito §3.2](core_07_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): uma decisão que parece minimizar danos no período atual, mas que previsivelmente causa danos maiores ao longo do horizonte temporal constitucional relevante, não está em conformidade.
 
 **Relação com os limites constitucionais.** A minimização de danos opera *acima* dos limites constitucionais estabelecidos em [§13.1.4 Limites Constitucionais, Segurança e Processo Contra a Degradação](#1314-limites-constitucionais-mínimos-segurança-e-processo-não-degradante). Nunca autoriza:
 - a extinção permanente dos mínimos do Piso de Direitos;
@@ -320,14 +320,14 @@ A minimização de danos seleciona entre opções que já respeitam esses limite
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Risco](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-- [Dano Irreversível](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [Risco Existencial](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [Capacidade de Recuperação Ecológica](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [Aprisionamento Sistêmico](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [Reversibilidade](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-- [Dependência](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Risco](../../core_05.040_band_continuity.md#risk) · [O](../../core_05.040_band_continuity.md#risk) · [M](../../core_05.040_band_continuity.md#risk-a) · [A](../../core_05.040_band_continuity.md#risk-a) · [C](../../core_05.040_band_continuity.md#risk-c)
+- [Dano Irreversível](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [Risco Existencial](../../core_05.040_band_continuity.md#existential-risk) · [O](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [A](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [Capacidade de Recuperação Ecológica](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [Aprisionamento Sistêmico](../../core_05.040_band_continuity.md#systemic-lock-in) · [O](../../core_05.040_band_continuity.md#systemic-lock-in) · [M](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [A](../../core_05.040_band_continuity.md#systemic-lock-in-a) · [C](../../core_05.040_band_continuity.md#systemic-lock-in-c)
+- [Reversibilidade](../../core_05.040_band_continuity.md#reversibility) · [O](../../core_05.040_band_continuity.md#reversibility) · [M](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#reversibility-constitutional-c)
+- [Dependência](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [Responsabilização](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
@@ -337,13 +337,13 @@ A minimização de danos seleciona entre opções que já respeitam esses limite
 
 *Em termos simples: a proporcionalidade verifica se a dimensão de uma restrição corresponde à dimensão do dano que ela enfrenta. Uma opção necessária e que minimize o dano ainda assim falha se seu alcance, duração ou intensidade forem desproporcionais ao que está realmente em jogo. Quanto mais irreversível, sistêmico ou gerador de dependência for o risco, mais fortes devem ser a justificativa e o escrutínio. A mesma regra contra a governança insuficiente se aplica ao poder: maior poder autorizado ou função de consequências relevantes deve elevar a responsabilização e a supervisão, não reduzi-las.*
 
-As limitações aos **valores** constitucionais — incluindo as proteções de **Piso de Direitos** do **Capítulo Seis** e outros princípios e proteções sujeitos a ponderação nos termos do [§13 Processo de Resolução de Colisões Constitucionais](#13-processo-de-resolução-de-colisões-constitucionais) — devem ser proporcionais à magnitude e à probabilidade do **dano** ou do **impacto sistêmico** legitimamente enfrentado, em consonância com [Proporcionalidade](core_05_band_accountability.md#proportionality) no **Capítulo Cinco**.
+As limitações aos **valores** constitucionais — incluindo as proteções de **Piso de Direitos** do **Capítulo Seis** e outros princípios e proteções sujeitos a ponderação nos termos do [§13 Processo de Resolução de Colisões Constitucionais](#13-processo-de-resolução-de-colisões-constitucionais) — devem ser proporcionais à magnitude e à probabilidade do **dano** ou do **impacto sistêmico** legitimamente enfrentado, em consonância com [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) no **Capítulo Cinco**.
 
 **Patamar de classificação.** Nenhum sistema pode ser governado em nível inferior ao exigido por sua classificação aplicável mais elevada. Um rótulo administrativo inferior não pode reduzir o escrutínio exigido pela classificação aplicável mais elevada de risco, dependência, direitos ou impacto sistêmico.
 
 **Responsabilização proporcional à autoridade.** A proporcionalidade também proíbe a governança insuficiente daqueles que detêm maior poder autorizado, função de consequências relevantes ou influência institucional: a intensidade da [Responsabilização](core_05_apex_accountability_leg.md#accountability) e da [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional) deve aumentar com essa autoridade, não diminuir.
 
-**Limiar reforçado.** Quando ações introduzem risco de dano irreversível, aprisionamento sistêmico, Risco Existencial ou perda irreversível da Capacidade de Recuperação Ecológica, os sistemas devem aplicar [Escrutínio Reforçado](core_05_band_oversight.md#heightened-scrutiny) e limiares reforçados de justificação e reversibilidade, quando viável.
+**Limiar reforçado.** Quando ações introduzem risco de dano irreversível, aprisionamento sistêmico, Risco Existencial ou perda irreversível da Capacidade de Recuperação Ecológica, os sistemas devem aplicar [Escrutínio Reforçado](../../core_05.050_band_oversight.md#heightened-scrutiny) e limiares reforçados de justificação e reversibilidade, quando viável.
 
 **Escalonamento adicional.** Esses limiares devem aumentar novamente quando indicadores materialmente relevantes se aplicarem, incluindo:
 - exposição à irreversibilidade
@@ -364,13 +364,13 @@ As limitações aos **valores** constitucionais — incluindo as proteções de 
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Segurança (Restrição Constitucional)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Dignidade e Igual Consideração Moral](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Crueldade](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [Dano](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
-- [Dano Irreversível](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Segurança (Restrição Constitucional)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [Dignidade e Igual Consideração Moral](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Crueldade](../../core_05.035_band_accountability.md#cruelty) · [O](../../core_05.035_band_accountability.md#cruelty) · [M](../../core_05.035_band_accountability.md#cruelty-a) · [A](../../core_05.035_band_accountability.md#cruelty-a) · [C](../../core_05.035_band_accountability.md#cruelty-c)
+- [Dano](../../core_05.035_band_accountability.md#harm) · [O](../../core_05.035_band_accountability.md#harm) · [M](../../core_05.035_band_accountability.md#harm-a) · [A](../../core_05.035_band_accountability.md#harm-a) · [C](../../core_05.035_band_accountability.md#harm-c)
+- [Dano Irreversível](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -386,7 +386,7 @@ As limitações aos **valores** constitucionais — incluindo as proteções de 
 
 ###### Princípios da Dignidade
 
-Os **Princípios da Dignidade** são os dois princípios a seguir: o [Princípio dos Mínimos da Base de Direitos](#princípio-dos-mínimos-da-base-de-direitos) e o [Princípio do Processo Não Degradante](#princípio-do-processo-não-degradante). Juntos, eles tornam [Dignidade e Igual Consideração Moral](core_05_band_participation.md#dignity-and-equal-moral-standing) operacionais como limites mínimos absolutos: aquilo que nunca pode ser retirado permanentemente de qualquer ser senciente e a forma como nenhum ser senciente pode ser tratado em qualquer processo. O acesso mínimo aos meios de subsistência e os direitos fundamentais de contestação, revisão e recurso integram os Princípios da Dignidade por serem as condições mínimas para tratar alguém como uma pessoa cuja posição conta. A igual consideração em si e os fundamentos pelos quais ela não pode ser negada constam do [Artigo VI-A](core_06_rights_part_b.md#artigo-vi-a-dignidade-e-igual-consideração-moral) (*Dignidade e Igual Consideração Moral*).
+Os **Princípios da Dignidade** são os dois princípios a seguir: o [Princípio dos Mínimos da Base de Direitos](#princípio-dos-mínimos-da-base-de-direitos) e o [Princípio do Processo Não Degradante](#princípio-do-processo-não-degradante). Juntos, eles tornam [Dignidade e Igual Consideração Moral](../../core_05.055_band_participation.md#dignity-and-equal-moral-standing) operacionais como limites mínimos absolutos: aquilo que nunca pode ser retirado permanentemente de qualquer ser senciente e a forma como nenhum ser senciente pode ser tratado em qualquer processo. O acesso mínimo aos meios de subsistência e os direitos fundamentais de contestação, revisão e recurso integram os Princípios da Dignidade por serem as condições mínimas para tratar alguém como uma pessoa cuja posição conta. A igual consideração em si e os fundamentos pelos quais ela não pode ser negada constam do [Artigo VI-A](core_06_rights_part_b.md#artigo-vi-a-dignidade-e-igual-consideração-moral) (*Dignidade e Igual Consideração Moral*).
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -395,7 +395,7 @@ Os **Princípios da Dignidade** são os dois princípios a seguir: o [Princípio
 Este princípio protege a Base de Direitos da seguinte forma:
 
 - Nenhum processo constitucional, medida, transição, emenda, consequência relativa à posição, ação de emergência ou resultado relacionado à justiça pode extinguir permanentemente ou dispensar os **mínimos da Base de Direitos** das proteções fundamentais da dignidade previstas no [Artigo VI-A](core_06_rights_part_b.md#artigo-vi-a-dignidade-e-igual-consideração-moral) (*Dignidade e Igual Consideração Moral*) e no [Princípio do Processo Não Degradante](#princípio-do-processo-não-degradante), do acesso mínimo aos meios de subsistência ou dos direitos fundamentais de contestação, revisão e recurso.
-- A restrição temporária de direitos específicos só é permitida se cumprir o [Princípio da Restrição Menos Limitadora, com Prazo Definido e Sujeita a Revisão](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) e as regras de emergência do [Capítulo Doze §6.1](core_13_forum.md#61-emergency-measures-and-continuation-burden) (*Medidas de emergência e ônus de continuidade*) — ou seja, toda restrição deve ser justificada, mínima, documentada, limitada no tempo e sujeita a revisão independente. Artigos específicos podem acrescentar salvaguardas mais fortes, mas não podem restringir este princípio nem usar os rótulos de conveniência, eficiência, classificação, emergência, transição, posição, emenda, contrato ou implementação para contorná-lo.
+- A restrição temporária de direitos específicos só é permitida se cumprir o [Princípio da Restrição Menos Limitadora, com Prazo Definido e Sujeita a Revisão](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) e as regras de emergência do [Capítulo Doze §6.1](../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden) (*Medidas de emergência e ônus de continuidade*) — ou seja, toda restrição deve ser justificada, mínima, documentada, limitada no tempo e sujeita a revisão independente. Artigos específicos podem acrescentar salvaguardas mais fortes, mas não podem restringir este princípio nem usar os rótulos de conveniência, eficiência, classificação, emergência, transição, posição, emenda, contrato ou implementação para contorná-lo.
 
 <a id="anti-degrading-process-principle"></a>
 
@@ -404,7 +404,9 @@ Este princípio protege a Base de Direitos da seguinte forma:
 O [Princípio do Processo Não Degradante (§3.3)](core_01_a_values_principles.md#33-processo-contra-a-degradação), estabelecido na Parte A, opera como limite mínimo absoluto nesta ponderação.
 - Nenhuma restrição, reparação ou processo que resista aos testes de necessidade, minimização de danos e proporcionalidade pode ser concebido, formulado, executado ou autorizado a operar de maneira degradante, humilhante, espetacularizada, retaliatória, discriminatória na imposição de encargos ou erosiva de direitos por conveniência.
 - Um resultado substantivo correto continua em desconformidade se for alcançado por meio de um processo degradante.
-- Quando o caráter proibido consistir em sofrimento como fim em si mesmo ou em imposição gratuita ou degradante — inclusive humilhação por si só —, consultar [Crueldade](core_05_band_accountability.md#cruelty).
+- Quando o caráter proibido consistir em sofrimento como fim em si mesmo ou em imposição gratuita ou degradante — inclusive humilhação por si só —, consultar [Crueldade](../../core_05.035_band_accountability.md#cruelty).
+
+<a id="1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
 
 ##### 13.1.5 Princípio da Restrição Menos Limitadora, com Prazo Definido e Sujeita a Revisão
 
@@ -412,14 +414,14 @@ O [Princípio do Processo Não Degradante (§3.3)](core_01_a_values_principles.m
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
 - Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — os quatro pilares: pilar da **supervisão** (as restrições permanecem sujeitas a revisão independente; as provas são preservadas e os revisores independentes mantêm acesso enquanto houver um Conflito Constitucional pendente); pilar da **responsabilização** (um Registro de Conflito Constitucional documentado e auditável identifica a regra, as alternativas, as provas e a base da escolha); pilar da **participação** (as partes afetadas conseguem compreender, contestar e reconstruir a decisão, e são informadas sobre o que está congelado); pilar da **tempestividade** (as restrições são temporárias salvo disposição contrária de uma regra mais forte da Base de Direitos, têm duração ou periodicidade de revisão e um caminho de restauração, e um Conflito Constitucional pendente segue o prazo aplicável); aplicar a escala de [interesse material](core_00_preamble.md#material-stake) (o ônus da prova aumenta com a gravidade, a irreversibilidade, a concentração de dependência e a incerteza).
-- Etapas posteriores: [Artigo XXV-B: Procedimento para Conflitos de Direitos e Alinhamento Restaurativo](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (os fóruns aplicam este teste decisório); [Artigo XXV-C: Resolução Tempestiva e Limite Mínimo contra Atrasos](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [Capítulo Doze §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Resolução tempestiva, níveis de materialidade e disciplina contra atrasos*).
+- Etapas posteriores: [Artigo XXV-B: Procedimento para Conflitos de Direitos e Alinhamento Restaurativo](core_06_rights_part_e.md) (os fóruns aplicam este teste decisório); [Artigo XXV-C: Resolução Tempestiva e Limite Mínimo contra Atrasos](core_06_rights_part_e.md); [Capítulo Doze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Resolução tempestiva, níveis de materialidade e disciplina contra atrasos*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Registro de Conflito Constitucional](core_05_band_integrative.md#constitutional-collision-record) · [O](core_05_band_integrative.md#constitutional-collision-record) · [M](core_05_band_integrative.md#constitutional-collision-record-a) · [A](core_05_band_integrative.md#constitutional-collision-record-a) · [C](core_05_band_integrative.md#constitutional-collision-record-c)
+- [Registro de Conflito Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record) · [O](../../core_05.045_band_integrative.md#constitutional-collision-record) · [M](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [A](../../core_05.045_band_integrative.md#constitutional-collision-record-a) · [C](../../core_05.045_band_integrative.md#constitutional-collision-record-c)
 
 </details>
 
@@ -436,26 +438,26 @@ As restrições constitucionais devem cumprir todos os requisitos a seguir:
 - **Temporária, salvo autorização expressa:** a restrição deve ser temporária, a menos que uma regra mais forte da Base de Direitos permita expressamente uma restrição duradoura.
 - **Caminho de restauração:** sempre que viável, a restrição deve indicar uma duração ou periodicidade de revisão, além de condições de restauração, reversão ou reavaliação vinculadas às provas, a circunstâncias alteradas ou a desvios observados em relação aos resultados esperados.
 <a id="1315-rights-collision-decision-test"></a>
-**Registro de Colisão Constitucional e possibilidade de reconstrução.** Quando a sequência de ponderação (§13.1.1 (*Necessidade*) a §13.1.5 (*Princípio da restrição menos restritiva, limitada no tempo e sujeita a revisão*)) for aplicada a uma restrição material ou a uma Colisão Constitucional, a resolução deve produzir um [Registro de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record) documentado e auditável (forma abreviada: **Registro de Colisão**) com clareza suficiente para que as partes afetadas e os revisores compreendam, contestem e reconstruam a decisão de forma independente. No mínimo, o registro deve incluir:
+**Registro de Colisão Constitucional e possibilidade de reconstrução.** Quando a sequência de ponderação (§13.1.1 (*Necessidade*) a §13.1.5 (*Princípio da restrição menos restritiva, limitada no tempo e sujeita a revisão*)) for aplicada a uma restrição material ou a uma Colisão Constitucional, a resolução deve produzir um [Registro de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record) documentado e auditável (forma abreviada: **Registro de Colisão**) com clareza suficiente para que as partes afetadas e os revisores compreendam, contestem e reconstruam a decisão de forma independente. No mínimo, o registro deve incluir:
 - **Regra operativa e predicados:** a disposição constitucional invocada e os fatos materiais que a acionaram.
 - **Alternativas consideradas:** alternativas materialmente viáveis, inclusive a inação, com razões explícitas para a rejeição — atendendo ao requisito de análise de alternativas em [§13.1.1 Necessidade](#1311-necessidade).
 - **Tratamento das evidências e da incerteza:** as evidências que sustentam a necessidade, o perfil de dano e a proporcionalidade da opção selecionada, inclusive como a incerteza foi tratada.
 - **Fundamento da seleção:** por que a opção selecionada satisfaz a necessidade, a minimização de danos, a proporcionalidade, os limites constitucionais e a forma menos restritiva — e não apenas que o faz.
 - **Gatilhos de revisão:** o prazo de expiração, a periodicidade de reavaliação ou as condições de reversão conforme o [§13.1.5 Princípio da restrição menos restritiva, limitada no tempo e sujeita a revisão](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
-O Registro de Colisão integra o [Registro do Ato](core_05_band_accountability.md#materially-binding-act-record) do ato que resolve a Colisão Constitucional; não é necessário um registro autônomo duplicado quando esses elementos permanecerem identificáveis, vinculados, versionados, preservados e acessíveis.
+O Registro de Colisão integra o [Registro do Ato](../../core_05.035_band_accountability.md#materially-binding-act-record) do ato que resolve a Colisão Constitucional; não é necessário um registro autônomo duplicado quando esses elementos permanecerem identificáveis, vinculados, versionados, preservados e acessíveis.
 
 O ônus da prova aumenta conforme a gravidade do dano esperado, a irreversibilidade, a concentração de dependências e a incerteza. Restrições de maior risco exigem evidências mais robustas e escrutínio independente. Conveniência, inércia institucional ou preferência por otimização, por si sós, não justificam suficientemente a restrição de direitos quando esta disciplina se aplica.
 
 Os limites de confidencialidade aplicáveis ao Registro de Colisão devem cumprir o [§13.2 Restrições de divulgação epistêmica](#132-restrições-à-divulgação-epistêmica). Quando a divulgação pública integral não for viável, deve-se manter a máxima divulgação parcial viável, além do acesso de revisores independentes.
 
 <a id="default-interim-posture"></a>
-**Postura provisória padrão enquanto uma Colisão Constitucional estiver pendente.** Até que o processo do [Registro de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record) e o [Artigo XXIV](core_06_rights_part_d.md#artigo-xxv-interpretação-constitucional-revisão-e-salvaguardas-contra-captura) (*Salvaguardas de interpretação constitucional, revisão e prevenção de captura*) resolvam a Colisão Constitucional, o curso provisório fica definido para impedir que um custodiante fabrique um vencedor improvisando:
+**Postura provisória padrão enquanto uma Colisão Constitucional estiver pendente.** Até que o processo do [Registro de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record) e o [Artigo XXIV](core_06_rights_part_d.md#artigo-xxv-interpretação-constitucional-revisão-e-salvaguardas-contra-captura) (*Salvaguardas de interpretação constitucional, revisão e prevenção de captura*) resolvam a Colisão Constitucional, o curso provisório fica definido para impedir que um custodiante fabrique um vencedor improvisando:
 
 - **Preservar evidências:** Não tornar a Colisão Constitucional sem objeto por meio de exclusão, vazamento ou publicação irreversível.
 - **Congelar etapas irreversíveis** que tornariam indisponível uma das interpretações em conflito — não tomar uma medida irreversível se ela encerraria a Colisão Constitucional, tornaria sem objeto a posição de um dos lados ou fabricaria um vencedor antes da resolução interpretativa.
 - **Prosseguir com medidas reversíveis e consentidas** que mantenham ambas as interpretações disponíveis — inclusive o acesso de revisores independentes conforme a [observabilidade sujeita a restrições de segurança](core_04_burden_traceability_verification.md#4-regra-de-observabilidade-e-verificação-sob-restrições-de-segurança) quando houver consentimento.
-- **Notificar** as partes afetadas e a via de interpretação sobre o que está congelado, o que prossegue e o prazo aplicável (para uma disputa encaminhada a um foro, os prazos por nível e os limites máximos de [Capítulo Doze §6](core_13_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Resolução tempestiva, níveis de materialidade e disciplina contra atrasos*)).
+- **Notificar** as partes afetadas e a via de interpretação sobre o que está congelado, o que prossegue e o prazo aplicável (para uma disputa encaminhada a um foro, os prazos por nível e os limites máximos de [Capítulo Doze §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Resolução tempestiva, níveis de materialidade e disciplina contra atrasos*)).
 
 Esse curso provisório não decide qual lado tem razão. Congele o que não puder ser desfeito para que nenhuma interpretação seja descartada; o [§13 Processo de resolução de Colisões Constitucionais](#13-processo-de-resolução-de-colisões-constitucionais) ainda precisa resolver a Colisão Constitucional. O [§13.1.5 Princípio da restrição menos restritiva, limitada no tempo e sujeita a revisão](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) explica por quê: uma medida reversível e consentida mantém ambas as interpretações disponíveis; uma irreversível não.
 
@@ -475,14 +477,14 @@ Uma vez satisfeita a sequência de ponderação, aplica-se ao projeto resultante
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Integridade Epistêmica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Verdade (Restrição Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Confiança](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Privacidade (Informacional)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [Materialidade](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Previsibilidade](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Integridade Epistêmica](../../core_05.050_band_oversight.md#epistemic-integrity) · [O](../../core_05.050_band_oversight.md#epistemic-integrity-o) · [M](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [A](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [C](../../core_05.050_band_oversight.md#epistemic-integrity-c)
+- [Verdade (Restrição Constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05.050_band_oversight.md#truth-constitutional-constraint-c)
+- [Confiança](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [Privacidade (Informacional)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [Materialidade](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](../../core_05.050_band_oversight.md#materiality-determination-a) · [A](../../core_05.050_band_oversight.md#materiality-determination-a) · [C](../../core_05.050_band_oversight.md#materiality-determination-c)
+- [Previsibilidade](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -503,14 +505,14 @@ Esta seção distingue três padrões:
   - vantagem institucional.
 - **Divulgação adiada** e **divulgação limitada** — permitidas somente quando:
   - as condições de [§13.2.1 Preservação da Integridade Epistêmica](#1321-preservação-da-integridade-epistêmica) forem satisfeitas;
-  - [Necessidade](core_05_band_accountability.md#necessity) e [Proporcionalidade](core_05_band_accountability.md#proportionality) forem atendidas; e
-  - for preservado o máximo viável de [Integridade Epistêmica](core_05_band_oversight.md#epistemic-integrity).
+  - [Necessidade](../../core_05.035_band_accountability.md#necessity) e [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) forem atendidas; e
+  - for preservado o máximo viável de [Integridade Epistêmica](../../core_05.050_band_oversight.md#epistemic-integrity).
 - **Limitação da divulgação para proteger a privacidade** nos termos de [§13.2.3 Privacidade e Autodeterminação Informacional](#1323-privacidade-e-autodeterminação-informacional):
   - permitida somente nos termos do [Princípio da Restrição Menos Limitadora, com Prazo Determinado e Sujeita a Revisão](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
-  - quando a privacidade colidir com transparência, auditoria, segurança ou responsabilização, resolver a Colisão Constitucional conforme os requisitos do [Registro de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record);
+  - quando a privacidade colidir com transparência, auditoria, segurança ou responsabilização, resolver a Colisão Constitucional conforme os requisitos do [Registro de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record);
   - a privacidade não é automaticamente subordinada.
 
-Qualquer limite justificado deve preservar a dimensão da **supervisão** da [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) por meio de registros protegidos (incluindo o [Registro de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record) referente ao próprio limite), revisão independente, acesso seguro, tarjas, divulgação adiada ou salvaguardas comparáveis. Não pode **impedir** a possibilidade de [contestação](core_05_band_accountability.md#contestability) informada nem os deveres aplicáveis de transparência, auditoria ou revisão do **Capítulo Seis**, exceto na medida expressamente permitida por [§13.2.1 Preservação da Integridade Epistêmica](#1321-preservação-da-integridade-epistêmica).
+Qualquer limite justificado deve preservar a dimensão da **supervisão** da [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) por meio de registros protegidos (incluindo o [Registro de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record) referente ao próprio limite), revisão independente, acesso seguro, tarjas, divulgação adiada ou salvaguardas comparáveis. Não pode **impedir** a possibilidade de [contestação](../../core_05.035_band_accountability.md#contestability) informada nem os deveres aplicáveis de transparência, auditoria ou revisão do **Capítulo Seis**, exceto na medida expressamente permitida por [§13.2.1 Preservação da Integridade Epistêmica](#1321-preservação-da-integridade-epistêmica).
 
 Os limites sensíveis à segurança sobre publicação, acesso a dados, divulgação de métodos ou materiais de replicação são regidos aqui e em [Capítulo Um §5.1 Investigação Informada pela Ciência e Apoio à Decisão](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support). Esses limites **não** devem se tornar um meio de suprimir evidências desfavoráveis, ocultar falhas de segurança ou fabricar consenso aparente.
 
@@ -530,12 +532,12 @@ Os limites sensíveis à segurança sobre publicação, acesso a dados, divulga�
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Integridade Epistêmica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Verdade (Restrição Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Materialidade](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Previsibilidade](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Integridade Epistêmica](../../core_05.050_band_oversight.md#epistemic-integrity) · [O](../../core_05.050_band_oversight.md#epistemic-integrity-o) · [M](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [A](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [C](../../core_05.050_band_oversight.md#epistemic-integrity-c)
+- [Verdade (Restrição Constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05.050_band_oversight.md#truth-constitutional-constraint-c)
+- [Materialidade](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](../../core_05.050_band_oversight.md#materiality-determination-a) · [A](../../core_05.050_band_oversight.md#materiality-determination-a) · [C](../../core_05.050_band_oversight.md#materiality-determination-c)
+- [Previsibilidade](../../core_05.050_band_oversight.md#foreseeability) · [O](../../core_05.050_band_oversight.md#foreseeability) · [M](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05.050_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05.050_band_oversight.md#foreseeability-diligence-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -566,9 +568,9 @@ Todas as restrições à divulgação devem prever **auditoria retrospectiva** e
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Confiança](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
-- [Verdade (Restrição Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Integridade Epistêmica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Confiança](../../core_05.040_band_continuity.md#trust) · [O](../../core_05.040_band_continuity.md#trust) · [M](../../core_05.040_band_continuity.md#trust-a) · [A](../../core_05.040_band_continuity.md#trust-a) · [C](../../core_05.040_band_continuity.md#trust-c)
+- [Verdade (Restrição Constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05.050_band_oversight.md#truth-constitutional-constraint-c)
+- [Integridade Epistêmica](../../core_05.050_band_oversight.md#epistemic-integrity) · [O](../../core_05.050_band_oversight.md#epistemic-integrity-o) · [M](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [A](../../core_05.050_band_oversight.md#epistemic-integrity-a) · [C](../../core_05.050_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
@@ -584,27 +586,27 @@ A confiança não deve ser preservada por meio de engano ou supressão da verdad
 
 - Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — eixo da **participação** (a privacidade sustenta a liberdade de expressão e associação); eixo da **supervisão** (as próprias intrusões na privacidade devem ser auditáveis); eixo da **responsabilização** (quando a privacidade colide com transparência, auditoria, segurança ou responsabilização, a Colisão Constitucional é resolvida em um Registro de Colisão Constitucional documentado, sem tratar a privacidade como subordinada); ponderação conforme o [interesse material](core_00_preamble.md#material-stake).
 - A montante: Princípios: [7. Liberdade (agência limitada)](core_01_a_values_principles.md#7-freedom-bounded-agency), [4. Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [5. Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) e [§13.2 Restrições de divulgação epistêmica](#132-restrições-à-divulgação-epistêmica).
-- A jusante: [**Def.C3** Privacidade (informacional) — termo principal do agrupamento entre pares](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head), incluindo [Privacidade (informacional)](core_05_band_continuity.md#privacy-informational), [Limite do estado interno protegido](core_05_band_continuity.md#protected-internal-state-boundary) e [Limite da vigilância](core_05_band_continuity.md#surveillance-boundary).
+- A jusante: [**Def.C3** Privacidade (informacional) — termo principal do agrupamento entre pares](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head), incluindo [Privacidade (informacional)](../../core_05.040_band_continuity.md#privacy-informational), [Limite do estado interno protegido](../../core_05.040_band_continuity.md#protected-internal-state-boundary) e [Limite da vigilância](../../core_05.040_band_continuity.md#surveillance-boundary).
 - A jusante: [Artigo VII-A](core_06_rights_part_b.md#artigo-vii-a-autopropriedade-do-corpo) (*Autopropriedade do corpo*); [Artigo VII-B](core_06_rights_part_b.md#artigo-vii-b-autopropriedade-da-mente) (*Autopropriedade da mente*); [Artigo IX](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*Direitos de imagem, dados experienciais e publicação*); [Artigo X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agência e liberdade contra manipulação*); [Artigo XIV-A](core_06_rights_part_c.md#artigo-xiv-a-segurança-inteligência-e-limites-ao-poder-encoberto) (*Limites à segurança, inteligência e poder encoberto*).
-- Ler em conjunto com: [§13.1.5 Princípio da restrição menos limitadora, limitada no tempo e sujeita a revisão](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Registro de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record) quando a privacidade colidir com transparência, auditoria, segurança ou outros interesses constitucionais.
+- Ler em conjunto com: [§13.1.5 Princípio da restrição menos limitadora, limitada no tempo e sujeita a revisão](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Registro de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record) quando a privacidade colidir com transparência, auditoria, segurança ou outros interesses constitucionais.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Privacidade (informacional)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [Limite do estado interno protegido](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [Limite da vigilância](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
-- [Consentimento](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Privacidade (informacional)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [Limite do estado interno protegido](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [Limite da vigilância](../../core_05.040_band_continuity.md#surveillance-boundary) · [O](../../core_05.040_band_continuity.md#surveillance-boundary) · [M](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [A](../../core_05.040_band_continuity.md#surveillance-boundary-a) · [C](../../core_05.040_band_continuity.md#surveillance-boundary-c)
+- [Consentimento](../../core_05.055_band_participation.md#consent) · [O](../../core_05.055_band_participation.md#consent) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*Em termos simples: a privacidade é um interesse com peso constitucional — não apenas a ausência de divulgação. Os sistemas não podem coletar, inferir, agregar, reter ou usar informações pessoais e relacionais além do que a necessidade e a proporcionalidade justificam. Quando a privacidade colide com deveres de transparência, auditoria, segurança ou responsabilização, a Colisão Constitucional é resolvida conforme os requisitos do [Registro de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record), sem tratar a privacidade como automaticamente subordinada. A vigilância que inibe a agência, a associação ou a expressão deve cumprir a mesma disciplina de necessidade e restrição mínima aplicável a qualquer outra restrição de direitos.*
+*Em termos simples: a privacidade é um interesse com peso constitucional — não apenas a ausência de divulgação. Os sistemas não podem coletar, inferir, agregar, reter ou usar informações pessoais e relacionais além do que a necessidade e a proporcionalidade justificam. Quando a privacidade colide com deveres de transparência, auditoria, segurança ou responsabilização, a Colisão Constitucional é resolvida conforme os requisitos do [Registro de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record), sem tratar a privacidade como automaticamente subordinada. A vigilância que inibe a agência, a associação ou a expressão deve cumprir a mesma disciplina de necessidade e restrição mínima aplicável a qualquer outra restrição de direitos.*
 
 **Privacidade como interesse constitucional.** A privacidade — incluindo a privacidade informacional, espacial e relacional, bem como a liberdade contra vigilância injustificada — é um interesse com peso constitucional que sustenta a **Liberdade** ([§7 Liberdade (agência limitada)](core_01_a_values_principles.md#7-freedom-bounded-agency)), a **Dignidade** ([Artigo VI-A](core_06_rights_part_b.md#artigo-vi-a-dignidade-e-igual-consideração-moral) (*Dignidade e igual condição moral*)) e as condições para uma agência significativa e uma participação sem coerção. Ela tem peso constitucional próprio nos mecanismos de ponderação e Colisão Constitucional desta seção.
 
@@ -616,12 +618,12 @@ A confiança não deve ser preservada por meio de engano ou supressão da verdad
 
 A disponibilidade, a observabilidade, a publicação anterior, a posse pela plataforma ou a acessibilidade técnica não extinguem os interesses de privacidade nem satisfazem as disciplinas acima.
 
-**Integração à classificação de dados.** A camada operacional dessas disciplinas é o sistema de tipos de dados em **[CS-2 — Tipos de informação e tratamento](corpus_systems/cs_02_a_information_types_and_handling.md)**. Esse sistema classifica as informações em um ou mais de onze tipos — ambientais e de coordenação de sobrevivência (**Type E**), governança e fonte operacional (**Type G**), divulgação pública aberta para supervisão (**Type O**), históricas, relacionais e de participação (**Type H**), identidade e atribuição (**Type I**), neurocognitivas e internas (**Type N**), segurança, proteção e investigação restrita (**Type S**), obras criadas por um senciente enquanto privadas ou compartilhadas (**Type Y**) e depois de publicadas (**Type W**), além de obras sob licença comercial (**Type U**) ou cessão (**Type T**) — cada qual com seu padrão de acesso e restrições de tratamento. A maior parte do tratamento de privacidade envolve **Types H, I, N, S, and Y**; o mapeamento de cada categoria de privacidade ao tipo correspondente consta em [Privacidade (Informacional)](core_05_band_continuity.md#privacy-informational). As disciplinas de coleta, retenção e uso acima aplicam-se no nível exigido pela classificação aplicável mais restritiva, e não em um patamar genérico. Se os dados puderem ser reconstruídos, transformados ou agregados em uma classificação mais sensível, aplicam-se as proteções dessa classificação mais sensível. Classificação incorreta, estruturação evasiva ou contorno funcional das proteções dos tipos de dados viola este princípio.
+**Integração à classificação de dados.** A camada operacional dessas disciplinas é o sistema de tipos de dados em **[CS-2 — Tipos de informação e tratamento](../../corpus_systems/cs_06.305_information_types_and_handling.md)**. Esse sistema classifica as informações em um ou mais de onze tipos — ambientais e de coordenação de sobrevivência (**Type E**), governança e fonte operacional (**Type G**), divulgação pública aberta para supervisão (**Type O**), históricas, relacionais e de participação (**Type H**), identidade e atribuição (**Type I**), neurocognitivas e internas (**Type N**), segurança, proteção e investigação restrita (**Type S**), obras criadas por um senciente enquanto privadas ou compartilhadas (**Type Y**) e depois de publicadas (**Type W**), além de obras sob licença comercial (**Type U**) ou cessão (**Type T**) — cada qual com seu padrão de acesso e restrições de tratamento. A maior parte do tratamento de privacidade envolve **Types H, I, N, S, and Y**; o mapeamento de cada categoria de privacidade ao tipo correspondente consta em [Privacidade (Informacional)](../../core_05.040_band_continuity.md#privacy-informational). As disciplinas de coleta, retenção e uso acima aplicam-se no nível exigido pela classificação aplicável mais restritiva, e não em um patamar genérico. Se os dados puderem ser reconstruídos, transformados ou agregados em uma classificação mais sensível, aplicam-se as proteções dessa classificação mais sensível. Classificação incorreta, estruturação evasiva ou contorno funcional das proteções dos tipos de dados viola este princípio.
 
 **Vigilância e monitoramento.** Sistemas de monitoramento, observação, registro e inferência que afetem materialmente a agência, a associação ou a expressão de seres sencientes devem cumprir o [**Princípio da restrição menos limitadora, limitada no tempo e sujeita a revisão**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). O monitoramento não pode ser indiscriminado, encoberto, indefinido ou condição para usar um sistema de que seres sencientes dependam, quando um método mais brando funcionar. É proibido se desencorajar seres sencientes de falar, reunir-se ou exercer de outra forma as liberdades protegidas por esta Constituição.
 
 **Privacidade em uma Colisão Constitucional com outros interesses.** A privacidade pode ser limitada quando colidir materialmente com **Segurança**, **Verdade**, deveres de transparência e auditoria, obrigações de responsabilização ou outro interesse constitucional de peso igual ou superior.
-- Essas limitações devem seguir os requisitos do [Registro de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record), incluindo:
+- Essas limitações devem seguir os requisitos do [Registro de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record), incluindo:
   - alternativas documentadas;
   - seleção da opção menos limitadora;
   - escopo limitado no tempo; e
@@ -640,15 +642,15 @@ A disponibilidade, a observabilidade, a publicação anterior, a posse pela plat
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — eixo da **supervisão** ([Divergência do indicador substituto](core_05_band_oversight.md#proxy-divergence) é um termo da Faixa de Supervisão; uma métrica que já não acompanha seu objetivo constitucional não pode fundamentar uma alegação de conformidade); eixo da **responsabilização** (a correção exige escalonamento e revisão documentados); ponderação conforme o [interesse material](core_00_preamble.md#material-stake) quando materialmente relevante.
+- Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — eixo da **supervisão** ([Divergência do indicador substituto](../../core_05.050_band_oversight.md#proxy-divergence) é um termo da Faixa de Supervisão; uma métrica que já não acompanha seu objetivo constitucional não pode fundamentar uma alegação de conformidade); eixo da **responsabilização** (a correção exige escalonamento e revisão documentados); ponderação conforme o [interesse material](core_00_preamble.md#material-stake) quando materialmente relevante.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Divergência do indicador substituto](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
-- [Materialidade](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Divergência do indicador substituto](../../core_05.050_band_oversight.md#proxy-divergence) · [O](../../core_05.050_band_oversight.md#proxy-divergence) · [M](../../core_05.050_band_oversight.md#proxy-divergence-a) · [A](../../core_05.050_band_oversight.md#proxy-divergence-a) · [C](../../core_05.050_band_oversight.md#proxy-divergence-c)
+- [Materialidade](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](../../core_05.050_band_oversight.md#materiality-determination-a) · [A](../../core_05.050_band_oversight.md#materiality-determination-a) · [C](../../core_05.050_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -656,7 +658,7 @@ A disponibilidade, a observabilidade, a publicação anterior, a posse pela plat
 
 *Em termos simples: quando uma métrica se desvia daquilo que deveria medir, apoiar-se nela deixa de contar como conformidade. A divergência deve ser corrigida no registro, com escalonamento e revisão documentados.*
 
-Uma métrica, pontuação ou caixa de seleção é apenas um substituto de algo real. Se evidências materialmente relevantes mostrarem que esse substituto deixou de acompanhar aquilo que deveria medir (o que de fato importa para a Constituição), uma alegação de conformidade baseada nele não conta. Essa lacuna é chamada [divergência do indicador substituto](core_05_band_oversight.md#proxy-divergence). A alegação permanece inválida até que o problema seja corrigido.
+Uma métrica, pontuação ou caixa de seleção é apenas um substituto de algo real. Se evidências materialmente relevantes mostrarem que esse substituto deixou de acompanhar aquilo que deveria medir (o que de fato importa para a Constituição), uma alegação de conformidade baseada nele não conta. Essa lacuna é chamada [divergência do indicador substituto](../../core_05.050_band_oversight.md#proxy-divergence). A alegação permanece inválida até que o problema seja corrigido.
 
 Uma correção só conta se constar do registro:
 - **Rastreável:** segue as regras de rastreabilidade do [Capítulo Quatro](core_04_burden_traceability_verification.md) e as definições de indicadores substitutos do Capítulo Cinco, para que qualquer pessoa possa ver o que estava errado e o que mudou.
@@ -669,7 +671,7 @@ Uma correção só conta se constar do registro:
 <summary><strong><span style="color: #2563eb;">Rastreio</span></strong></summary>
 
 - A montante: [§13.1 Princípios centrais de ponderação](#131-princípios-fundamentais-de-ponderação) (aplica-se após o cumprimento da sequência de ponderação); [§17 Administração responsável por consequências](core_01_c_stewardship_capacity_principles.md#17-stewardship-com-consequências-significativas-o-papel-do-steward); [§9.2 Eficiência constitucional](core_01_a_values_principles.md#92-eficiência-constitucional).
-- Ler em conjunto com: a família de medição de Desempenho Constitucional (*Encargo Evitável como medição constitucional*); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — vertente da **participação** (o encargo que não é constitucionalmente exigido restringe a [Agência Significativa](core_05_band_participation.md#meaningful-agency)); vertente da **pontualidade** (um atraso evitável é um encargo evitável); vertentes da **fiscalização** e da **responsabilização** (um encargo alegadamente exigido pela Constituição deve cumprir os requisitos de evidência e rastreabilidade do Capítulo Quatro, para que possa ser verificado e contestado); escalonamento da [participação material](core_00_preamble.md#material-stake).
+- Ler em conjunto com: a família de medição de Desempenho Constitucional (*Encargo Evitável como medição constitucional*); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — vertente da **participação** (o encargo que não é constitucionalmente exigido restringe a [Agência Significativa](../../core_05.055_band_participation.md#meaningful-agency)); vertente da **pontualidade** (um atraso evitável é um encargo evitável); vertentes da **fiscalização** e da **responsabilização** (um encargo alegadamente exigido pela Constituição deve cumprir os requisitos de evidência e rastreabilidade do Capítulo Quatro, para que possa ser verificado e contestado); escalonamento da [participação material](core_00_preamble.md#material-stake).
 - A jusante: [§19.1.3 Aplicação a responsáveis e operadores](core_01_c_stewardship_capacity_principles.md#1913-aplicação-a-tutores-e-operadores) (os incentivos não devem recompensar a criação de encargos desnecessários); [Artigo XXII: Compreensibilidade e Administração Responsável da Complexidade](core_06_rights_part_d.md#artigo-xxiii-compreensibilidade-e-gestão-responsável-da-complexidade).
 
 </details>
@@ -677,11 +679,11 @@ Uma correção só conta se constar do registro:
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Encargo Evitável](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Segurança (Restrição Constitucional)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [Verdade (Restrição Constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Encargo Evitável](../../core_05.040_band_continuity.md#avoidable-burden) · [O](../../core_05.040_band_continuity.md#avoidable-burden) · [M](../../core_05.040_band_continuity.md#avoidable-burden-a) · [A](../../core_05.040_band_continuity.md#avoidable-burden-a) · [C](../../core_05.040_band_continuity.md#avoidable-burden-c)
+- [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Segurança (Restrição Constitucional)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [O](../../core_05.040_band_continuity.md#safety-constitutional-constraint) · [M](../../core_05.040_band_continuity.md#safety-constraint-a) · [A](../../core_05.040_band_continuity.md#safety-constraint-a) · [C](../../core_05.040_band_continuity.md#safety-constraint-c)
+- [Verdade (Restrição Constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05.050_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -699,12 +701,14 @@ Para efeitos desta secção:
 
 Esta secção:
 - opera **apenas dentro** do conjunto de opções que já satisfazem Segurança, Verdade, a Base de Direitos e os princípios de ponderação da §13.1 (*Princípios centrais de ponderação*). **Não** autoriza reduzir encargos enfraquecendo essas proteções.
-- articula-se com os requisitos de **Seleção Eficaz Menos Restritiva** do [Registo de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record). Quando esta secção se aplica, a ação selecionada deve ser simultaneamente a opção eficaz menos restritiva e a menos onerosa.
+- articula-se com os requisitos de **Seleção Eficaz Menos Restritiva** do [Registo de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record). Quando esta secção se aplica, a ação selecionada deve ser simultaneamente a opção eficaz menos restritiva e a menos onerosa.
 - considera defeitos constitucionais o excesso de processos, de restrições e de encargos sem uma ligação verificável a um benefício constitucional. Esses defeitos podem ser objeto de revisão ao abrigo do **Capítulo Nove** e corrigidos segundo os requisitos de rastreabilidade entre definições e resultados do **Capítulo Quatro**.
 
-As alegações de que determinado encargo é exigido pela Constituição devem cumprir os requisitos probatórios e de rastreabilidade do **Capítulo Quatro**. A conveniência, a inércia institucional, a tradição ou a preferência, por si sós, não bastam para justificar um encargo sem uma ligação verificável a um resultado constitucional, em consonância com os requisitos do [Registo de Colisão Constitucional](core_05_band_integrative.md#constitutional-collision-record).
+As alegações de que determinado encargo é exigido pela Constituição devem cumprir os requisitos probatórios e de rastreabilidade do **Capítulo Quatro**. A conveniência, a inércia institucional, a tradição ou a preferência, por si sós, não bastam para justificar um encargo sem uma ligação verificável a um resultado constitucional, em consonância com os requisitos do [Registo de Colisão Constitucional](../../core_05.045_band_integrative.md#constitutional-collision-record).
 
 Quando as estruturas de incentivos afetam responsáveis ou operadores, esta secção reforça [§19.1.3 Aplicação a responsáveis e operadores](core_01_c_stewardship_capacity_principles.md#1913-aplicação-a-tutores-e-operadores). Os incentivos à administração responsável não devem recompensar a criação de encargos desnecessários, tal como não devem recompensar o mero volume de produção.
+<a id="14-prohibition-on-absolute-override"></a>
+
 ### 14. Proibição de Sobreposição Absoluta
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreio</span></strong></summary>
@@ -721,11 +725,11 @@ Quando as estruturas de incentivos afetam responsáveis ou operadores, esta sec�
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Materialidade](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Minimização de Danos (Seleção de Trade-offs)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [Divergência de Proxies](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Materialidade](../../core_05.050_band_oversight.md#materiality) · [O](../../core_05.050_band_oversight.md#materiality) · [M](../../core_05.050_band_oversight.md#materiality-determination-a) · [A](../../core_05.050_band_oversight.md#materiality-determination-a) · [C](../../core_05.050_band_oversight.md#materiality-determination-c)
+- [Minimização de Danos (Seleção de Trade-offs)](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05.035_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Divergência de Proxies](../../core_05.050_band_oversight.md#proxy-divergence) · [O](../../core_05.050_band_oversight.md#proxy-divergence) · [M](../../core_05.050_band_oversight.md#proxy-divergence-a) · [A](../../core_05.050_band_oversight.md#proxy-divergence-a) · [C](../../core_05.050_band_oversight.md#proxy-divergence-c)
 
 </details>
 
@@ -738,6 +742,8 @@ Nenhum valor definido neste capítulo pode ser usado como justificativa universa
 - a segurança não deve ser usada para justificar restrições indefinidas ou sem limites
 - a confiança não deve ser mantida por meio da falsidade
 - a liberdade não deve ser exercida de modo a produzir danos sistêmicos
+<a id="15-constitutional-interpretation"></a>
+
 ### 15. Interpretação Constitucional
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreio</span></strong></summary>
@@ -746,9 +752,9 @@ Nenhum valor definido neste capítulo pode ser usado como justificativa universa
 - A jusante: [§15.1 Princípio Constitucional de Não Contorno](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-princípio-contra-a-segmentação)), [§15.2 Camada definicional e disciplinas exigidas](#152-camada-definicional-e-disciplinas-obrigatórias), [§15.3 Resolução de ambiguidades](#153-resolução-de-ambiguidades), [§15.4 Resolução de conflitos de significado constitucional](#154-resolução-de-conflitos-de-significado-constitucional) ([§15.4.1](#1541-leitura-integrada) · [§15.4.2](#1542-hierarquia-interna-de-último-recurso) · [§15.4.3](#1543-camada-de-incorporação) · [§15.4.4](#1544-cumprimento-conjunto-de-obrigações-incorporadas-aplicáveis-em-conjunto)); [3. Objetivo Fundamental: Bem-estar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) até [20. Aplicação Integrada](core_01_c_stewardship_capacity_principles.md#20-aplicação-integrada); [13. Processo de Resolução de Colisões Constitucionais](#13-processo-de-resolução-de-colisões-constitucionais) para o procedimento de colisão constitucional; presunção de não contração de [Capítulo Seis: Direitos Fundamentais](core_06_rights_part_a.md#capítulo-seis-direitos-fundacionais).
 - Ler em conjunto com: [Capítulos Dois a Quatro](core_02_definition_structure.md) e [Capítulo Cinco](core_05__definitions_home.md#capítulo-cinco-definições-fundacionais) — camada interpretativa e probatória para cada termo deste capítulo.
 - Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) e [Dois Objetivos Constitucionais](core_00_preamble.md#two-constitutional-aims) — contexto interpretativo da estrutura de valores integrados; escala do [interesse material](core_00_preamble.md#material-stake) quando materialmente relevante.
-- Ler em conjunto com: [Hierarquia de Autoridades e Hierarquia Interna](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna) (*status da camada de origem*); [Capítulo Dezessete](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) (*custódia, edições e enquadramento da adoção* — não é uma segunda sede para a ordem de conflitos); [Capítulo Quatorze](core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) e [Capítulo Quinze](core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*barreiras de não regressão e hierarquia do adotante nos termos de [§15.4 Resolução de conflitos de significado constitucional](#154-resolução-de-conflitos-de-significado-constitucional)*).
+- Ler em conjunto com: [Hierarquia de Autoridades e Hierarquia Interna](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna) (*status da camada de origem*); [Capítulo Dezessete](../../core_18.000_incorporation.md) (*custódia, edições e enquadramento da adoção* — não é uma segunda sede para a ordem de conflitos); [Capítulo Quatorze](core_13_non_regression.md) e [Capítulo Quinze](../../core_16.000_expansion_supremacy.md) (*barreiras de não regressão e hierarquia do adotante nos termos de [§15.4 Resolução de conflitos de significado constitucional](#154-resolução-de-conflitos-de-significado-constitucional)*).
 - Ler em conjunto com: [Artigo XXIV: Interpretação Constitucional, Revisão e Salvaguardas contra Captura](core_06_rights_part_d.md#artigo-xxv-interpretação-constitucional-revisão-e-salvaguardas-contra-captura) para salvaguardas da interpretação institucional (sem substituir esta seção).
-- Ler em conjunto com: [Capítulo Sete: Independência Funcional e Separação de Deveres](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — o patamar mínimo da arquitetura de cargos que a lista contra contornos em [§15.1 Princípio Constitucional de Não Contorno](#151-constitutional-no-bypass-principle) protege (não repetido aqui).
+- Ler em conjunto com: [Capítulo Sete: Independência Funcional e Separação de Deveres](core_07_functional_independence_segregation_of_duties.md) — o patamar mínimo da arquitetura de cargos que a lista contra contornos em [§15.1 Princípio Constitucional de Não Contorno](#151-constitutional-no-bypass-principle) protege (não repetido aqui).
 
 </details>
 
@@ -757,23 +763,25 @@ Nenhum valor definido neste capítulo pode ser usado como justificativa universa
 
 - [Corpus](core_05_band_integrative.md#corpus) · [O](core_05_band_integrative.md#corpus) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
 - [Hierarquia de Autoridades e Hierarquia Interna](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna) · [O](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 
 </details>
 
 <br>
 
-*Em termos simples: leia esta Constituição como um todo. O Capítulo Um declara valores e limites, mas essas palavras só contam quando lidas em conjunto com as regras de definição e evidência dos Capítulos Dois a Cinco. Se uma passagem puder ser interpretada de mais de uma maneira, escolha a leitura que melhor protege os seres sencientes e a Constituição como um todo — privilegiando a estabilidade, a minimização de danos irreversíveis, a compreensão verdadeira e a agência significativa —, e não a leitura que seja apenas a mais restritiva no papel ([Rigor Abstrato](core_05_band_integrative.md#abstract-strictness)). Os direitos do Capítulo Seis não podem ser restringidos, salvo se esta Constituição o permitir claramente.*
+*Em termos simples: leia esta Constituição como um todo. O Capítulo Um declara valores e limites, mas essas palavras só contam quando lidas em conjunto com as regras de definição e evidência dos Capítulos Dois a Cinco. Se uma passagem puder ser interpretada de mais de uma maneira, escolha a leitura que melhor protege os seres sencientes e a Constituição como um todo — privilegiando a estabilidade, a minimização de danos irreversíveis, a compreensão verdadeira e a agência significativa —, e não a leitura que seja apenas a mais restritiva no papel ([Rigor Abstrato](../../core_05.045_band_integrative.md#abstract-strictness)). Os direitos do Capítulo Seis não podem ser restringidos, salvo se esta Constituição o permitir claramente.*
 
 Cada princípio deste capítulo aplica-se conjuntamente com a [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) e os [Dois Objetivos Constitucionais](core_00_preamble.md#two-constitutional-aims) estabelecidos em [Preâmbulo §1 O Modelo](core_00_preamble.md#the-model). Quando uma seção envolver materialmente uma perna da Tétrade ou um objetivo, seu Rastreio indicará qual deles e se seus deveres variam conforme o [interesse material](core_00_preamble.md#material-stake).
+
+<a id="151-constitutional-no-bypass-principle"></a>
 
 #### 15.1 Princípio Constitucional de Não Contorno
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreio</span></strong></summary>
 
-- Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — a lista contra contornos acompanha as quatro pernas: perna de **supervisão** (escrutínio ordinário e auditabilidade); perna de **participação** (possibilidade de contestação, acesso prático e deveres de justificação pública); perna de **tempestividade** (resolução oportuna e vias de restauração e reversão); perna de **responsabilização** (a própria responsabilização, bem como independência funcional e separação de deveres nos termos do [Capítulo Sete](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); escala do [interesse material](core_00_preamble.md#material-stake).
+- Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — a lista contra contornos acompanha as quatro pernas: perna de **supervisão** (escrutínio ordinário e auditabilidade); perna de **participação** (possibilidade de contestação, acesso prático e deveres de justificação pública); perna de **tempestividade** (resolução oportuna e vias de restauração e reversão); perna de **responsabilização** (a própria responsabilização, bem como independência funcional e separação de deveres nos termos do [Capítulo Sete](core_07_functional_independence_segregation_of_duties.md)); escala do [interesse material](core_00_preamble.md#material-stake).
 - A jusante: [§15.1.1 Princípio contra a Segmentação](#1511-princípio-contra-a-segmentação); [§15.1.2 Princípio da Informação Derivada](#1512-princípio-da-informação-derivada).
 
 </details>
@@ -781,9 +789,9 @@ Cada princípio deste capítulo aplica-se conjuntamente com a [Tétrade Constitu
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Não Contorno](core_05_band_integrative.md#no-bypass) · [O](core_05_band_integrative.md#no-bypass) · [M](core_05_band_integrative.md#no-bypass-a) · [A](core_05_band_integrative.md#no-bypass-a) · [C](core_05_band_integrative.md#no-bypass-c)
-- [Possibilidade de Contestação](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [Auditabilidade](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Não Contorno](../../core_05.045_band_integrative.md#no-bypass) · [O](../../core_05.045_band_integrative.md#no-bypass) · [M](../../core_05.045_band_integrative.md#no-bypass-a) · [A](../../core_05.045_band_integrative.md#no-bypass-a) · [C](../../core_05.045_band_integrative.md#no-bypass-c)
+- [Possibilidade de Contestação](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
+- [Auditabilidade](../../core_05.050_band_oversight.md#auditability) · [O](../../core_05.050_band_oversight.md#auditability) · [M](../../core_05.050_band_oversight.md#auditability-a) · [A](../../core_05.050_band_oversight.md#auditability-a) · [C](../../core_05.050_band_oversight.md#auditability-c)
 - [Responsabilização](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
@@ -820,7 +828,7 @@ Não pode ser usado para contornar:
 - o acesso prático;
 - a resolução oportuna;
 - as vias de restauração e reversão;
-- a independência funcional e a separação de deveres ([Capítulo Sete](core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); ou
+- a independência funcional e a separação de deveres ([Capítulo Sete](core_07_functional_independence_segregation_of_duties.md)); ou
 - a responsabilização.
 
 As camadas de implementação adotadas podem acrescentar detalhes a essas proteções. Não podem restringi-las.
@@ -844,7 +852,7 @@ Este princípio não:
 - cria, amplia ou restringe qualquer disposição sobre o Piso de Direitos do Capítulo Seis; ou
 - substitui a declaração do próprio conjunto sobre quais compartimentos e deveres protegidos abrange. O conjunto declara isso em **Não contorno** e cita esta seção para a regra.
 
-As avaliações do sistema como um todo devem testar a não segmentação nos termos de [Capítulo Oito §3 Avaliação de certificação do sistema como um todo](core_09_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) quando se aplicar um conjunto invocado conjuntamente, antes de serem sustentadas alegações de classificação, governança ou conformidade. Esta seção funciona em conjunto com [Capítulo Três §2.1 Padrões comuns de evasão](core_03_definition_integrity.md#21-padrões-comuns-de-evasão) e [§2.2 Evasão redutiva](core_03_definition_integrity.md#22-evasão-redutiva).
+As avaliações do sistema como um todo devem testar a não segmentação nos termos de [Capítulo Oito §3 Avaliação de certificação do sistema como um todo](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) quando se aplicar um conjunto invocado conjuntamente, antes de serem sustentadas alegações de classificação, governança ou conformidade. Esta seção funciona em conjunto com [Capítulo Três §2.1 Padrões comuns de evasão](core_03_definition_integrity.md#21-padrões-comuns-de-evasão) e [§2.2 Evasão redutiva](core_03_definition_integrity.md#22-evasão-redutiva).
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 Princípio da informação derivada
@@ -853,16 +861,16 @@ As avaliações do sistema como um todo devem testar a não segmentação nos te
 
 - Ler em conjunto com: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — o eixo da **participação** (a privacidade sustenta a agência e a expressão, que seriam prejudicadas pela reconstrução a partir de dados combinados); o eixo da **responsabilização** (a parte que invoca um rótulo de desidentificado ou agregado demonstra que ele se aplica); e a escala da [interesse material](core_00_preamble.md#material-stake).
 - A montante: [§15.1 Princípio Constitucional de Não Contorno](#151-constitutional-no-bypass-principle); [§15.1.1 Princípio contra a segmentação](#1511-princípio-contra-a-segmentação).
-- A jusante: [§13.2.3 Privacidade e autodeterminação informacional](#1323-privacidade-e-autodeterminação-informacional); [CS-2 — Tipos de informação e tratamento](corpus_systems/cs_02_a_information_types_and_handling.md).
+- A jusante: [§13.2.3 Privacidade e autodeterminação informacional](#1323-privacidade-e-autodeterminação-informacional); [CS-2 — Tipos de informação e tratamento](../../corpus_systems/cs_06.305_information_types_and_handling.md).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Informação derivada](core_05_band_integrative.md#derived-information) · [O](core_05_band_integrative.md#derived-information) · [M](core_05_band_integrative.md#derived-information-a) · [A](core_05_band_integrative.md#derived-information-a) · [C](core_05_band_integrative.md#derived-information-c)
-- [Privacidade (informacional)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
-- [Limite do estado interno protegido](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [Informação derivada](../../core_05.045_band_integrative.md#derived-information) · [O](../../core_05.045_band_integrative.md#derived-information) · [M](../../core_05.045_band_integrative.md#derived-information-a) · [A](../../core_05.045_band_integrative.md#derived-information-a) · [C](../../core_05.045_band_integrative.md#derived-information-c)
+- [Privacidade (informacional)](../../core_05.040_band_continuity.md#privacy-informational) · [O](../../core_05.040_band_continuity.md#privacy-informational) · [M](../../core_05.040_band_continuity.md#privacy-informational-a) · [A](../../core_05.040_band_continuity.md#privacy-informational-a) · [C](../../core_05.040_band_continuity.md#privacy-informational-c)
+- [Limite do estado interno protegido](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [O](../../core_05.040_band_continuity.md#protected-internal-state-boundary) · [M](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -870,7 +878,7 @@ As avaliações do sistema como um todo devem testar a não segmentação nos te
 
 *Em termos simples: o princípio de Não Contorno estabelece que mudar o rótulo não elimina uma exigência, e o princípio contra a segmentação estabelece que dividir também não. Esta seção diz o mesmo sobre combinar. A informação é tratada pelo que revela, não pela forma como foi produzida: partes aparentemente inofensivas que, juntas, revelam algo sensível são sensíveis, e o rótulo «desidentificado» ou «agregado» não oferece segurança enquanto ainda for possível identificar seres sencientes ou reconstruir algo protegido.*
 
-A informação é tratada no nível de proteção correspondente ao que revela, independentemente de como foi derivada. A [Informação derivada](core_05_band_integrative.md#derived-information) fica sujeita às salvaguardas aplicáveis ao que revela ou possibilita, e não às salvaguardas inferiores que se aplicavam aos seus dados de entrada.
+A informação é tratada no nível de proteção correspondente ao que revela, independentemente de como foi derivada. A [Informação derivada](../../core_05.045_band_integrative.md#derived-information) fica sujeita às salvaguardas aplicáveis ao que revela ou possibilita, e não às salvaguardas inferiores que se aplicavam aos seus dados de entrada.
 
 **Quando se aplica:** A informação derivada está abrangida quando se verifica qualquer uma das condições seguintes:
 - **Efeito funcional:** revela, reconstrói, aproxima ou reidentifica algo protegido, como informações pessoais sensíveis, estados internos protegidos, características protegidas ou fatos sensíveis para a segurança. O efeito funcional é o teste principal.
@@ -880,22 +888,22 @@ A informação é tratada no nível de proteção correspondente ao que revela, 
 A ausência de intenção não exclui a informação derivada abrangida por este princípio. O teste é proporcional à [interesse material](core_00_preamble.md#material-stake) e à sensibilidade do que seria revelado.
 
 **Consequências:**
-- A derivação deve cumprir as salvaguardas que se aplicariam à coleta daquilo que revela, incluindo consentimento ou autoridade adequada, necessidade, proporcionalidade e minimização, nos termos de [§13.2.3 Privacidade e autodeterminação informacional](#1323-privacidade-e-autodeterminação-informacional) e, no caso de estados internos, do [Limite do estado interno protegido](core_05_band_continuity.md#protected-internal-state-boundary).
+- A derivação deve cumprir as salvaguardas que se aplicariam à coleta daquilo que revela, incluindo consentimento ou autoridade adequada, necessidade, proporcionalidade e minimização, nos termos de [§13.2.3 Privacidade e autodeterminação informacional](#1323-privacidade-e-autodeterminação-informacional) e, no caso de estados internos, do [Limite do estado interno protegido](../../core_05.040_band_continuity.md#protected-internal-state-boundary).
 - Desidentificação, agregação, agrupamento e rótulos semelhantes não encerram esses deveres enquanto a reidentificação ou a reconstrução continuar sendo razoavelmente possível. A parte que invoca esse rótulo deve demonstrar que isso não é possível.
 - A divisão de uma derivação entre sistemas, atores ou períodos, de modo que cada etapa passe enquanto o conjunto revela o resultado protegido, é regida pelo [§15.1.1 Princípio contra a segmentação](#1511-princípio-contra-a-segmentação).
 
 Este princípio não:
 - se aplica a agregados comuns, como totais anônimos de tráfego, que não revelem nada protegido e não possam ser razoavelmente usados para reidentificar alguém ou reconstruir algo protegido;
 - cria, amplia ou restringe qualquer disposição sobre o Piso de Direitos do Capítulo Seis; ou
-- substitui as regras sobre tipos de dados em [CS-2 — Tipos de informação e tratamento](corpus_systems/cs_02_a_information_types_and_handling.md), que aplicam este princípio.
+- substitui as regras sobre tipos de dados em [CS-2 — Tipos de informação e tratamento](../../corpus_systems/cs_06.305_information_types_and_handling.md), que aplicam este princípio.
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 Camada definicional e disciplinas obrigatórias
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Proporcionalidade](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [Necessidade](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [Necessidade](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
 - [Governança proporcional à classificação](core_05_band_oversight.md#governança-escalada-à-classificação) · [O](core_05_band_oversight.md#governança-escalada-à-classificação) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 
 </details>
@@ -935,31 +943,31 @@ flowchart TB
     style X fill:none,stroke:#64748b,color:#ffffff
 ```
 
-*As definições dão precisão aos princípios do Capítulo Um e aos direitos do Capítulo Seis; os Capítulos Dois a Quatro regem a estrutura, a integridade e a verificação dessas definições. Nenhuma das camadas concorre com o Capítulo Um — a precisão e a possibilidade de teste servem aos princípios; não os substituem. Reproduzido da [Visão geral conceitual](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions).*
+*As definições dão precisão aos princípios do Capítulo Um e aos direitos do Capítulo Seis; os Capítulos Dois a Quatro regem a estrutura, a integridade e a verificação dessas definições. Nenhuma das camadas concorre com o Capítulo Um — a precisão e a possibilidade de teste servem aos princípios; não os substituem. Reproduzido da [Visão geral conceitual](../../guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions).*
 
 Nenhuma interpretação do Capítulo Um é válida fora das definições e restrições de avaliação estabelecidas nos **Capítulos Dois a Cinco**. Toda aplicação também deve preservar e aplicar:
 - **proporcionalidade**, **necessidade** e **avaliação sistêmica**
 - os requisitos de evidência e rastreabilidade do **Capítulo Quatro**
 - a integridade das definições, a evasão e o descumprimento do **Capítulo Três**
-- **[Processo de resolução de colisões constitucionais §13](#13-processo-de-resolução-de-colisões-constitucionais)**, incluindo o tratamento de colisões constitucionais segundo os requisitos do **[Registro de colisões constitucionais](core_05_band_integrative.md#constitutional-collision-record)** quando forem materialmente relevantes
+- **[Processo de resolução de colisões constitucionais §13](#13-processo-de-resolução-de-colisões-constitucionais)**, incluindo o tratamento de colisões constitucionais segundo os requisitos do **[Registro de colisões constitucionais](../../core_05.045_band_integrative.md#constitutional-collision-record)** quando forem materialmente relevantes
 <a id="153-ambiguity-resolution"></a>
 #### 15.3 Resolução de ambiguidades
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
-- [Rigor abstrato](core_05_band_integrative.md#abstract-strictness) · [O](core_05_band_integrative.md#abstract-strictness) · [M](core_05_band_integrative.md#abstract-strictness-a) · [A](core_05_band_integrative.md#abstract-strictness-a) · [C](core_05_band_integrative.md#abstract-strictness-c)
-- [Efeito protetivo máximo](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
-- [Bem-estar](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [Dano irreversível](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
-- [Verdade (restrição constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Agência significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Rigor abstrato](../../core_05.045_band_integrative.md#abstract-strictness) · [O](../../core_05.045_band_integrative.md#abstract-strictness) · [M](../../core_05.045_band_integrative.md#abstract-strictness-a) · [A](../../core_05.045_band_integrative.md#abstract-strictness-a) · [C](../../core_05.045_band_integrative.md#abstract-strictness-c)
+- [Efeito protetivo máximo](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
+- [Bem-estar](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [Dano irreversível](../../core_05.035_band_accountability.md#irreversible-harm) · [O](../../core_05.035_band_accountability.md#irreversible-harm) · [M](../../core_05.035_band_accountability.md#irreversible-harm-a) · [A](../../core_05.035_band_accountability.md#irreversible-harm-a) · [C](../../core_05.035_band_accountability.md#irreversible-harm-c)
+- [Verdade (restrição constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05.050_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05.050_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05.050_band_oversight.md#truth-constitutional-constraint-c)
+- [Agência significativa](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.055_band_participation.md#meaningful-agency) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
 
 </details>
 
 <br>
 
-Quando o Capítulo Um for ambíguo, os intérpretes devem escolher a leitura que melhor preserve, ao mesmo tempo, duas coisas: o [Efeito protetivo máximo](core_05_band_integrative.md#fullest-protective-effect) da Constituição e seu objetivo constitucional de alinhar os sistemas compartilhados ao bem-estar senciente. Não devem resolver a ambiguidade recorrendo ao [Rigor abstrato](core_05_band_integrative.md#abstract-strictness). Quando os direitos do **Capítulo Seis** estiverem implicados, os intérpretes **não** devem resolver a ambiguidade por meio de leituras que **restrinjam** essas proteções, exceto quando as regras de interação do **Capítulo Um** e as definições aplicáveis o permitirem **expressamente**.
+Quando o Capítulo Um for ambíguo, os intérpretes devem escolher a leitura que melhor preserve, ao mesmo tempo, duas coisas: o [Efeito protetivo máximo](../../core_05.045_band_integrative.md#fullest-protective-effect) da Constituição e seu objetivo constitucional de alinhar os sistemas compartilhados ao bem-estar senciente. Não devem resolver a ambiguidade recorrendo ao [Rigor abstrato](../../core_05.045_band_integrative.md#abstract-strictness). Quando os direitos do **Capítulo Seis** estiverem implicados, os intérpretes **não** devem resolver a ambiguidade por meio de leituras que **restrinjam** essas proteções, exceto quando as regras de interação do **Capítulo Um** e as definições aplicáveis o permitirem **expressamente**.
 
 Quando a ambiguidade persistir após a leitura integrada, a interpretação também deve favorecer:
 - a preservação da estabilidade sistêmica
@@ -974,7 +982,7 @@ Quando a ambiguidade persistir após a leitura integrada, a interpretação tamb
 <summary><strong><span style="color: #2563eb;">Definições · Avaliação · Conformidade</span></strong></summary>
 
 - [Corpus](core_05_band_integrative.md#corpus) · [O](core_05_band_integrative.md#corpus) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
-- [Efeito protetivo máximo](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
+- [Efeito protetivo máximo](../../core_05.045_band_integrative.md#fullest-protective-effect) · [O](../../core_05.045_band_integrative.md#fullest-protective-effect) · [M](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [A](../../core_05.045_band_integrative.md#fullest-protective-effect-a) · [C](../../core_05.045_band_integrative.md#fullest-protective-effect-c)
 - [Hierarquia de autoridade e hierarquia interna](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna) · [O](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 
 </details>
@@ -986,9 +994,9 @@ Quando a ambiguidade persistir após a leitura integrada, a interpretação tamb
 Esta subseção é o **único procedimento canônico** para resolver tensões interpretativas decorrentes da **precedência textual e das camadas de fontes**.
 - Ela se aplica:
   - dentro da fonte constitucional vinculante (o instrumento integrado `core_*`); e
-  - na camada de incorporação, em que os textos incorporados são escolhidos pelo [Efeito protetivo máximo](core_05_band_integrative.md#fullest-protective-effect).
+  - na camada de incorporação, em que os textos incorporados são escolhidos pelo [Efeito protetivo máximo](../../core_05.045_band_integrative.md#fullest-protective-effect).
 - A condição da camada de fonte é identificada segundo a [Hierarquia de autoridade e hierarquia interna](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna) do Capítulo Cinco.
-- O [Capítulo Dezessete](core_18_incorporation.md#chapter-seventeen-incorporation-bridge) fornece custódia, fixação da edição e enquadramento da adoção. Ele **não** reapresenta este procedimento.
+- O [Capítulo Dezessete](../../core_18.000_incorporation.md) fornece custódia, fixação da edição e enquadramento da adoção. Ele **não** reapresenta este procedimento.
 - Para **conflitos constitucionais em operação** — e não para a precedência entre camadas textuais — aplique o **[§13 Processo de resolução de conflitos constitucionais](#13-processo-de-resolução-de-colisões-constitucionais)**.
 
 **Sequência operativa.** Aplique o seguinte **nesta ordem**:
@@ -1001,7 +1009,7 @@ Esta subseção é o **único procedimento canônico** para resolver tensões in
 
 Aplique primeiro **[§15.2 Camada definicional e disciplinas exigidas](#152-camada-definicional-e-disciplinas-obrigatórias)** e **[§15.3 Resolução de ambiguidades](#153-resolução-de-ambiguidades)**:
 - **Os Capítulos Dois a Cinco** funcionam como camada interpretativa e probatória.
-- A regra de **ambiguidade** exige o máximo **efeito protetivo** como um todo integrado e alinhamento com o bem-estar senciente; ela **não** permite o [Rigor Abstrato](core_05_band_integrative.md#abstract-strictness).
+- A regra de **ambiguidade** exige o máximo **efeito protetivo** como um todo integrado e alinhamento com o bem-estar senciente; ela **não** permite o [Rigor Abstrato](../../core_05.045_band_integrative.md#abstract-strictness).
 - Os direitos do **Capítulo Seis** não podem ser restringidos, exceto quando as regras de interação do **Capítulo Um** e as definições aplicáveis o permitirem **expressamente**.
 
 <a id="1542-last-resort-internal-hierarchy"></a>
@@ -1014,26 +1022,26 @@ Se persistir uma incompatibilidade genuína após a leitura integrada nos termos
 - os artigos prevalecem sobre definições interpretadas como glosas substantivas independentes;
 - as definições canônicas continuam a reger o significado dos termos usados em cada nível.
 
-Esta hierarquia é uma regra interpretativa de último recurso. Ela se aplica apenas a uma incompatibilidade genuína que persista após a leitura integrada nos termos de **§15.4.1** (*Leitura integrada*) e não permite que uma camada substitua outra na operação normal. Continuam aplicáveis os limites de **[§15.3 Resolução de ambiguidades](#153-resolução-de-ambiguidades)** e **§15.4.1** (*Leitura integrada*). Eles vedam o [Rigor Abstrato](core_05_band_integrative.md#abstract-strictness) e vedam a restrição dos direitos do **Capítulo Seis** fora das regras de interação do **Capítulo Um** expressamente permitidas.
+Esta hierarquia é uma regra interpretativa de último recurso. Ela se aplica apenas a uma incompatibilidade genuína que persista após a leitura integrada nos termos de **§15.4.1** (*Leitura integrada*) e não permite que uma camada substitua outra na operação normal. Continuam aplicáveis os limites de **[§15.3 Resolução de ambiguidades](#153-resolução-de-ambiguidades)** e **§15.4.1** (*Leitura integrada*). Eles vedam o [Rigor Abstrato](../../core_05.045_band_integrative.md#abstract-strictness) e vedam a restrição dos direitos do **Capítulo Seis** fora das regras de interação do **Capítulo Um** expressamente permitidas.
 
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 Camada de incorporação
 
-Após a leitura constitucional nos termos de **§15.4.1** (*Leitura integrada*) e **§15.4.2** (*Hierarquia interna de último recurso*), aplique as **obrigações designadas** no texto de implementação adotado — os deveres específicos de como fazer que a adoção efetivamente colocou em vigor. Aplique-os somente dentro do **escopo válido de adoção e incorporação** nos termos do **[Capítulo Dezessete](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** (quem detém os registros, qual edição está fixada e como a adoção é estruturada).
+Após a leitura constitucional nos termos de **§15.4.1** (*Leitura integrada*) e **§15.4.2** (*Hierarquia interna de último recurso*), aplique as **obrigações designadas** no texto de implementação adotado — os deveres específicos de como fazer que a adoção efetivamente colocou em vigor. Aplique-os somente dentro do **escopo válido de adoção e incorporação** nos termos do **[Capítulo Dezessete](../../core_18.000_incorporation.md)** (quem detém os registros, qual edição está fixada e como a adoção é estruturada).
 
-As regras abaixo escolhem entre textos incorporados com base no [Máximo Efeito Protetivo](core_05_band_integrative.md#fullest-protective-effect), o mesmo padrão usado pela regra de **ambiguidade** em **[§15.3 Resolução de ambiguidades](#153-resolução-de-ambiguidades)**. Elas nunca escolhem com base no [Rigor Abstrato](core_05_band_integrative.md#abstract-strictness).
+As regras abaixo escolhem entre textos incorporados com base no [Máximo Efeito Protetivo](../../core_05.045_band_integrative.md#fullest-protective-effect), o mesmo padrão usado pela regra de **ambiguidade** em **[§15.3 Resolução de ambiguidades](#153-resolução-de-ambiguidades)**. Elas nunca escolhem com base no [Rigor Abstrato](../../core_05.045_band_integrative.md#abstract-strictness).
 
 - **Máximo Efeito Protetivo entre textos incorporados:** aplique as obrigações incorporadas no nível que ofereça o Máximo Efeito Protetivo e seja compatível com essa leitura constitucional.
   - Esse nível é o **texto** incorporado que preserva os requisitos **mais fortes de proteção, segurança, responsabilização e rastreabilidade** para a obrigação de mesmo escopo material.
   - Escolha entre as alternativas que continuem coerentes com a leitura constitucional produzida nos termos da [Pilha de Autoridade e Hierarquia Interna](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna).
-  - Isso **não** é [Rigor Abstrato](core_05_band_integrative.md#abstract-strictness).
+  - Isso **não** é [Rigor Abstrato](../../core_05.045_band_integrative.md#abstract-strictness).
 - **Referencial claramente adotado:** quando **identificadores de edição ou registros de custódia** dos artefatos incorporados estiverem ausentes, forem contraditórios ou materialmente não confiáveis:
-  - prevalece o **referencial claramente adotado** com o [Máximo Efeito Protetivo](core_05_band_integrative.md#fullest-protective-effect) até que a validade seja restabelecida nos termos dos **Capítulos Doze e Treze**;
+  - prevalece o **referencial claramente adotado** com o [Máximo Efeito Protetivo](../../core_05.045_band_integrative.md#fullest-protective-effect) até que a validade seja restabelecida nos termos dos **Capítulos Doze e Treze**;
   - **Referencial claramente adotado** significa a edição incorporada ou o **referencial** rastreável à adoção que a cadeia de adoção **sustenta claramente** quando os registros não são confiáveis (disciplina de custódia e **prevenção de deriva** nos termos do Capítulo Dezessete);
-  - isso **não** é resolução substantiva de ambiguidade constitucional por meio do [Rigor Abstrato](core_05_band_integrative.md#abstract-strictness).
-- **Máximo Efeito Protetivo entre arquivos:** quando dois ou mais arquivos de implementação adotados estabelecem padrões diferentes para o mesmo risco de escopo significativo, prevalece a regra claramente adotada com o [Máximo Efeito Protetivo](core_05_band_integrative.md#fullest-protective-effect), em conformidade com as duas regras acima.
+  - isso **não** é resolução substantiva de ambiguidade constitucional por meio do [Rigor Abstrato](../../core_05.045_band_integrative.md#abstract-strictness).
+- **Máximo Efeito Protetivo entre arquivos:** quando dois ou mais arquivos de implementação adotados estabelecem padrões diferentes para o mesmo risco de escopo significativo, prevalece a regra claramente adotada com o [Máximo Efeito Protetivo](../../core_05.045_band_integrative.md#fullest-protective-effect), em conformidade com as duas regras acima.
   - A condição da camada da fonte permanece sujeita à [Pilha de Autoridade e Hierarquia Interna](core_05_band_integrative.md#pilha-de-autoridade-e-hierarquia-interna).
-  - A custódia, as edições e a estrutura da adoção permanecem sujeitas ao **[Capítulo Dezessete](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)**.
+  - A custódia, as edições e a estrutura da adoção permanecem sujeitas ao **[Capítulo Dezessete](../../core_18.000_incorporation.md)**.
   - A mesma regra se aplica quando um perfil citado e um rótulo de implementação citado parecerem entrar em conflito quanto a esse risco.
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -1050,10 +1058,10 @@ As regras abaixo escolhem entre textos incorporados com base no [Máximo Efeito 
 *Em termos simples: quando uma situação envolve mais de um arquivo incorporado de instruções práticas — ou quando os documentos da sua adoção colocam em vigor esses deveres de estrutura conjunta — cumprir bem um arquivo não conta como conformidade se outro dever material relativo aos mesmos fatos continuar pendente.*
 
 A regra de cumprimento conjunto deste subtópico trata da aplicação de **mais de um arquivo de instruções práticas** aos mesmos fatos. Não é a mesma coisa que:
-- a regra de um **único** conjunto operacional em texto incorporado de estrutura conjunta, segundo a qual cumprir apenas parte desse conjunto não conta como conformidade — consulte **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*Conjuntos operacionais*); ou
+- a regra de um **único** conjunto operacional em texto incorporado de estrutura conjunta, segundo a qual cumprir apenas parte desse conjunto não conta como conformidade — consulte **[CJS-1.14](../../corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md#cjs-5140-14-operational-clusters)** (*Conjuntos operacionais*); ou
 - a regra do Capítulo Cinco segundo a qual as definições de **Conjunto Dependente** devem ser satisfeitas em conjunto — consulte **[Capítulo Cinco §2.1 Invocação e cumprimento conjuntos](core_05__definitions_home.md#21-invocação-conjunta-e-satisfação)**.
 
-**Quando este subtópico se aplica.** Estas regras se aplicam dentro do escopo válido de adoção e incorporação nos termos do **[Capítulo Dezessete](core_18_incorporation.md#chapter-seventeen-incorporation-bridge)** em qualquer um destes casos:
+**Quando este subtópico se aplica.** Estas regras se aplicam dentro do escopo válido de adoção e incorporação nos termos do **[Capítulo Dezessete](../../core_18.000_incorporation.md)** em qualquer um destes casos:
 
 1. **Uma situação, mais de um arquivo:** os fatos exigem a aplicação de mais de um arquivo de implementação incorporado — por exemplo, arquivos de sistemas, instituições, fóruns ou de estrutura conjunta. Quais arquivos se aplicam é decidido pelo escopo da adoção e pelo encaminhamento temático que esses arquivos fornecem para os fatos, e não pela escolha do arquivo mais fácil de cumprir.
 2. **A adoção coloca em vigor o conjunto de estrutura conjunta:** o instrumento de adoção aplica ao adotante textos designados de implementação de estrutura conjunta (a pasta **CJS** e quaisquer outros arquivos de estrutura conjunta listados na cadeia de adoção).
@@ -1067,7 +1075,7 @@ A regra de cumprimento conjunto deste subtópico trata da aplicação de **mais 
   - depois **CI** (governança institucional e garantia);
   - depois **CF** (doutrina das famílias de fóruns do Capítulo Doze);
 - dentro dessa ordem, leia somente o que o encaminhamento temático exigir para os fatos;
-- editores e auditores usam **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Encaminhamento entre arquivos*)** para consultar a tabela de linhas oficial;
+- editores e auditores usam **[CJS-0.1](../../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*Encaminhamento entre arquivos*)** para consultar a tabela de linhas oficial;
 - o cumprimento conjunto e a regra de Máximo Efeito Protetivo entre arquivos continuam aplicáveis conforme estabelecido neste subtópico e em **§15.4.3** (*Camada de incorporação*).
 
 Emergências podem restringir esses deveres somente quando a restrição for:

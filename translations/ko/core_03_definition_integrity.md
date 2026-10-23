@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상류: [제3장, 2절 — 관찰 가능한 체계 행위에서 오는 비준수](#2-관찰-가능한-체계-행위에서-오는-비준수); [제2장, §2 정의 완전성 요건](core_02_definition_structure.md#2-정의-완전성-요건).
-- 하류: [제4장, 2절 — 정의 추적 가능성 요건](core_04_burden_traceability_verification.md#2-정의-추적-가능성-요건); [제9장 — 체계 정합 인증](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제11장 — 궤적 효과와 통합](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 헌법 나침반과 무리 지도](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- 하류: [제4장, 2절 — 정의 추적 가능성 요건](core_04_burden_traceability_verification.md#2-정의-추적-가능성-요건); [제9장 — 체계 정합 인증](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [제11장 — 궤적 효과와 통합](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 헌법 나침반과 무리 지도](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - 함께 읽기: [비준수 소견 프로필](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — 프로필 필드의 정전 O/M/A/C 거처; [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 운영 제약
 
-비준수는 공동 시행 코퍼스의 운영 제약에 대해서도 찾아질 수 있다. 기본 소견 프로필과 그것들이 그 소견에 어떻게 붙는지는 거기서 다룬다 — 이 장이 아니다. [CJS-3.1 헌법 나침반과 무리 지도](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)를 보라.
+비준수는 공동 시행 코퍼스의 운영 제약에 대해서도 찾아질 수 있다. 기본 소견 프로필과 그것들이 그 소견에 어떻게 붙는지는 거기서 다룬다 — 이 장이 아니다. [CJS-3.1 헌법 나침반과 무리 지도](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)를 보라.
 
 ---
 

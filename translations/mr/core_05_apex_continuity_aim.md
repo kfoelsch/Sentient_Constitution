@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); सोप्या भाषेतील उद्दिष्ट [प्रस्तावना §1](core_00_preamble.md#continuity) वर.
-- पुढे: तत्त्वे: [अध्याय एक §4.1 लचीलापन आणि स्व-मरम्मत डिज़ाइन](core_01_a_values_principles.md#41-resilience-and-self-healing-design); [§12 सामायिक-प्रणाली क्षमता](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity); [§11.1.5 संवैधानिक निकाल-दावा शिस्त](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [संवैधानिक उद्दिष्ट विघटन](#continuity-aim-decomposition); सातत्य विषय गट [core_05_band_continuity.md](../../core_05.040_band_continuity.md) मध्ये.
+- पुढे: तत्त्वे: [अध्याय एक §4.1 लचीलापन आणि स्व-मरम्मत डिज़ाइन](core_01_a_values_principles.md#10-resilience-and-self-healing-design); [§12 सामायिक-प्रणाली क्षमता](core_01_c_stewardship_capacity_principles.md); [§11.1.5 संवैधानिक निकाल-दावा शिस्त](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [संवैधानिक उद्दिष्ट विघटन](#continuity-aim-decomposition); सातत्य विषय गट [core_05_band_continuity.md](../../core_05.040_band_continuity.md) मध्ये.
 - सोबत वाचा: [उत्तरदायी व्यवस्थापन](../../core_05.040_band_continuity.md#stewardship), [उत्तरदायी-व्यवस्थापन दोष](../../core_05.040_band_continuity.md#stewardship-defect), [पारिस्थितिक अखंडता](../../core_05.040_band_continuity.md#ecological-integrity), [अवलंबित्व](../../core_05.040_band_continuity.md#dependency), [प्रतिनिधी-सूचक विचलन](../../core_05.050_band_oversight.md#proxy-divergence), [अस्तित्वगत धोका](../../core_05.040_band_continuity.md#existential-risk), [शृंखलाबद्ध विफलता](../../core_05.040_band_continuity.md#cascading-failure), [समुन्नती](core_05_apex_flourishing_aim.md#flourishing-constitutional) (जोडीचे उद्दिष्ट — कोणतेही दुसऱ्याच्या किंमतीने साधता येत नाही; [भौतिक दाव](core_00_preamble.md#material-stake) जे मागतो त्याच्या खाली **सहभाग**, **देखरेख**, **उत्तरदायित्व**, किंवा **समयबद्धता** पोकळ करणारे अल्पकालीन लाभ साधणे **सातत्य** अपयशी ठरते, जवळच्या काळाचे निकाल वर गेले तरी), [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित (सातत्य वैध कसे राहते — पाचवा बांधकाम घटक नाही), सातत्य मापन कुटुंब, आणि [अध्याय पाच वर्णमाला निर्देशिका](core_05__definitions_home.md#chapter-five-alphabetical-directory).
 
 </details>
@@ -46,14 +46,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **कसे मापावे आणि मूल्यमापन करावे**
   - **प्राथमिक माप:** [सातत्य मापन कुटुंब](#continuity-measurement-family) — *संज्ञ प्राणी आणि प्रणाली टिकू शकतात का — पारिस्थितिक रीतीने, विश्वासार्ह रीतीने, आणि अपयशापलीकडे?* [संवैधानिक उद्दिष्ट विघटन](#continuity-aim-decomposition) सुद्धा पहा. ही ओळ फक्त मापांकडे निर्देश करते; कसे-मापावे नियम प्रत्येक जोडलेल्या व्याख्येवर बसतात.
-  - **प्राथमिक मूल्यमापन:** [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली, [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित करून ठरवा. प्रणाली दुरुस्ती, अनुकूलन, धोक्याशी प्रामाणिकपणे तोंड देणे आणि पारिस्थितिक मर्यादांत राहणे यासाठी टिकणारी क्षमता ठेवतात का विचारा — आजचे आकडे शांत दिसतात का नाही. दावा केलेले सातत्य निकाल [घटक](#continuity-aim-decomposition) अटींशी बांधा, अध्याय चार आणि [अध्याय एक §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) खाली.
+  - **प्राथमिक मूल्यमापन:** [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली, [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित करून ठरवा. प्रणाली दुरुस्ती, अनुकूलन, धोक्याशी प्रामाणिकपणे तोंड देणे आणि पारिस्थितिक मर्यादांत राहणे यासाठी टिकणारी क्षमता ठेवतात का विचारा — आजचे आकडे शांत दिसतात का नाही. दावा केलेले सातत्य निकाल [घटक](#continuity-aim-decomposition) अटींशी बांधा, अध्याय चार आणि [अध्याय एक §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) खाली.
 <a id="continuity-aim-constitutional-c"></a>
 - **काय टिकले पाहिजे**
   - **प्राथमिक अपयश:**
     - **सातत्य** वापरून दुरुस्त्या कायमच्या पुढे ढकलणे;
     - «स्थिरता» अनुपालन मानणे जेव्हा ती लपवलेल्या धोका-फेकण्यावर, अपरिवर्तनीय हानीवर, किंवा पारिस्थितिक भार इतरांवर ढकलण्यावर उभी असते;
     - सामान्य «दिवे चालू ठेवा» बोलणे वापरून [आव्हानयोग्यता](../../core_05.035_band_accountability.md#contestability) किंवा [समयबद्ध निराकरण](../../core_05.035_band_accountability.md#timely-resolution) अडवणे; किंवा
-    - **सातत्य** अशा रीतीने साधणे जे [समुन्नती](core_05_apex_flourishing_aim.md#flourishing-constitutional) भौतिक रीतीने पराभूत करते, [अध्याय एक §6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) खाली स्पष्ट परवानगीशिवाय.
+    - **सातत्य** अशा रीतीने साधणे जे [समुन्नती](core_05_apex_flourishing_aim.md#flourishing-constitutional) भौतिक रीतीने पराभूत करते, [अध्याय एक §6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md) खाली स्पष्ट परवानगीशिवाय.
 
 ---
 
@@ -106,7 +106,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - पुढे: सातत्य मापन कुटुंब — फक्त-दुवा रोलअप; पदनिहाय स्तर खालील तक्त्यात जोडलेल्या पान-व्याख्यांवर राहतात.
-- सोबत वाचा: [CS-9 — संसाधन वाटप आणि निधी उत्तरदायी व्यवस्थापन](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (निधी आणि आंतर-प्रणाली परतावा यांत्रिकी).
+- सोबत वाचा: [CS-9 — संसाधन वाटप आणि निधी उत्तरदायी व्यवस्थापन](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md) (निधी आणि आंतर-प्रणाली परतावा यांत्रिकी).
 
 </details>
 

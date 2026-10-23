@@ -12,7 +12,7 @@
 >
 > **上一篇（仍为英语）：** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **下一篇（仍为英语）：** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **下一篇（仍为英语）：** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 > **阅读弧线：** §1 宗旨 → 争议顺序 → §2 默认场所与收件 → §2.1–§2.3 牵头限度、混合利害、质疑 → §3 移送与反自我裁判 → §4 族系 → §5 升级与认证 → §6 层级与反拖延 → §7 评议所支持
 </details>
 
@@ -59,7 +59,7 @@
 - 上游：[第七章 — 系统对齐认证](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)；[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)；[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)；[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)（*原则与解释约束*）；[第二至四章](core_02_definition_structure.md)（*追溯与核验期望*）；[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)（*与第二至四章在文本库位置组件中一并阅读的定义*）；[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)（*本章一并适用的基础权利底线*）。
 - 下游：[§2](#2-default-venue-and-primary-stakes)（*首要利害默认场所、收件分诊、混合利害、不对称、轨迹记录质疑；及时可质疑的门槛通路；善意定性与反博弈*）；[§3](#3-transfer-consolidation-and-coordination)（*移送与反自我裁判*）；[§4](#4-forum-family-definitions)（*评议所族系定义、分庭、共享标准与暂行操作法*）；[§4.3](#43-institutional-forums)（*作为机构族系适用争议顺序的内部过程边界*）；[§5](#5-escalation-and-certification)（*升级、认证与临时保护*）；[§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*实质性层级、流程链里程碑与反拖延纪律*）；[§7](#7-forum-support-before-during-and-after-review)（*审查前、中、后的评议所支持*）。
 - 四元腿：**参与**、**监督**、**问责**、**及时性**（经核实认定可以打开、更新或更正轨迹记录；**CF-11** 实施层级时钟）。首要宗旨：**繁盛**与**延续**。[实质利害](core_00_preamble.md#material-stake)缩放适用于路由与通路负担。
-- 一并阅读：[序言 §3.2](core_00_preamble.md#32-key-governance-processes) 与 [§3.3](core_00_preamble.md#33-governance-layers)（*过程路径与治理层纪律*）；[Article XII：受影响方的系统参与、代表与正当程序](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)；[corpus_forum.md](../../corpus_forum.md)（**CF-6.2.2**（《紧急、穷尽与时限规则》）— 实施，而非收窄）；[corpus_institutions.md](../../corpus_institutions.md)（*质疑、二次审查与廉正监测 — 不取代已指派的评议所管辖*）；[Article XIII-B：质疑、审查与救济权](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)；[Article XXIV 族](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)（*文本库位置组件中所引用的正义约束*）。
+- 一并阅读：[序言 §3.2](core_00_preamble.md#32-key-governance-processes) 与 [§3.3](core_00_preamble.md#33-governance-layers)（*过程路径与治理层纪律*）；[Article XII：受影响方的系统参与、代表与正当程序](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)；[corpus_forum.md](../../corpus_forum.md)（**CF-6.2.2**（《紧急、穷尽与时限规则》）— 实施，而非收窄）；[corpus_institutions.md](../../corpus_institutions.md)（*质疑、二次审查与廉正监测 — 不取代已指派的评议所管辖*）；[Article XIII-B：质疑、审查与救济权](core_06_rights_part_c.md)；[Article XXIV 族](core_06_rights_part_d.md)（*文本库位置组件中所引用的正义约束*）。
 
 </details>
 
@@ -91,7 +91,7 @@
 **评议所族系**是本文书**监督**那些轨道的首要制度。它们有别于已颁布规则的例行执行行政。
 
 <a id="dispute-sequencing"></a>
-**争议顺序。** 在已获授权系统、机构或有界决定域内部，普通争议先走已公布的[受影响方的系统参与](core_05_band_participation.md#stakeholder-status-and-weight-cluster)质疑与正当程序路径。若该路径产出仍被争议的结果、缺失、被俘获，或不能合法给予所需救济，本章按**第 2 节**依首要利害路由该事项。**廉正**、**技术评议所领域**、**环境**与**宪法**在那是首要利害时是默认牵头族系 — 不是跳过顺序的例外。未完成的内部过程、穷尽标签，或主张内部审查未完成，不得拖延那些牵头、挪走其实体，或吃掉 **Article XXV-C**（《及时解决与反拖延底线》）时钟。当拖延会实质危及权利、证据、独立或实践恢复时，直接通路仍可用。
+**争议顺序。** 在已获授权系统、机构或有界决定域内部，普通争议先走已公布的[受影响方的系统参与](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)质疑与正当程序路径。若该路径产出仍被争议的结果、缺失、被俘获，或不能合法给予所需救济，本章按**第 2 节**依首要利害路由该事项。**廉正**、**技术评议所领域**、**环境**与**宪法**在那是首要利害时是默认牵头族系 — 不是跳过顺序的例外。未完成的内部过程、穷尽标签，或主张内部审查未完成，不得拖延那些牵头、挪走其实体，或吃掉 **Article XXV-C**（《及时解决与反拖延底线》）时钟。当拖延会实质危及权利、证据、独立或实践恢复时，直接通路仍可用。
 
 ```mermaid
 flowchart TD
@@ -145,7 +145,7 @@ flowchart TD
 - 上游：[§1](#1-purpose-and-role)（*宗旨、首要适用角色、问责要求、已公布门槛路由、细节非挪位、独立与审查期望*）。
 - 下游：[§3](#3-transfer-consolidation-and-coordination)（*移送、合并、反自我裁判*）；[§4](#4-forum-family-definitions)（*与默认表一并阅读的评议所族系定义*）；[§5](#5-escalation-and-certification)（*从默认场所升级；临时保护*）；[§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*实质性层级与反拖延纪律*）；[§7](#7-forum-support-before-during-and-after-review)（*审查前、中、后的评议所支持*）。
 - 第 2 节内：[§2.1](#21-lead-default-limits)（*首要利害碰撞、宪法认证与反自我裁判备用*）；[§2.2](#22-mixed-stakes-and-routing-asymmetry)（*混合利害与不对称*）；[§2.3](#23-forum-records-standing-records-and-contests)（*评议所案件记录、轨迹记录与质疑*）。
-- 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**、**监督**与**及时性**腿；[实质利害](core_00_preamble.md#material-stake)缩放用于首要利害路由；[第八章 §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels)（*轨迹槽位语法*）；[第八章 §7 统一标尺](core_08_standing_assessment.md#7-unified-proportional-lequ-scale)（*共享五倍 LEQU 带与分开轴记录*）；[第八章 §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles)（*告知首要利害而不移动影响槽位的跨轴归一化描述符*）；[corpus_forum.md](../../corpus_forum.md)（**CF-5** 与 **CF-7.2**）；[corpus_systems.md](../../corpus_systems.md)（*系统分类、部署与再核验职责*）；[第十章 §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*对合格第八章槽位 7–9 的反宪法不当行为指定；保留遗留锚点*）；[第十章 §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)（*该指定的正当程序，与本章及 **Article XXIV**（《冲突解决、升级与紧急相称性》）一并阅读*）；[Article XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)（*正义目的与范围*）。
+- 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — **参与**、**监督**与**及时性**腿；[实质利害](core_00_preamble.md#material-stake)缩放用于首要利害路由；[第八章 §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels)（*轨迹槽位语法*）；[第八章 §7 统一标尺](core_08_standing_assessment.md#7-unified-proportional-lequ-scale)（*共享五倍 LEQU 带与分开轴记录*）；[第八章 §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles)（*告知首要利害而不移动影响槽位的跨轴归一化描述符*）；[corpus_forum.md](../../corpus_forum.md)（**CF-5** 与 **CF-7.2**）；[corpus_systems.md](../../corpus_systems.md)（*系统分类、部署与再核验职责*）；[第十章 §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*对合格第八章槽位 7–9 的反宪法不当行为指定；保留遗留锚点*）；[第十章 §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment)（*该指定的正当程序，与本章及 **Article XXIV**（《冲突解决、升级与紧急相称性》）一并阅读*）；[Article XXIV-A](core_06_rights_part_d.md)（*正义目的与范围*）。
 
 </details>
 
@@ -190,7 +190,7 @@ flowchart TD
      - 需要处的**宪法**认证；
      - 机构当事方规则；以及
      - **第 2、3 与 5 节**下的反自我裁判备用。
-   - **评议所偏私争议：** 若争斗主要关于本应回避的小组成员、偏私的小组参与，或可比的评议所廉正违约 — 包括 **[Article XXIII-B](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls)（《组成、轮换与冲突控制》）** 下**宪法**评议所小组上的 — 先路由到**廉正**评议所。在**第 3 节**下，评议所不能是其自身偏私的唯一最终裁判：**宪法**评议所不能是决定其自身小组成员是否本应回避的唯一最终评议所。轨迹锁定纪律：**[第九章 §5.5](core_09_standing_integration.md#55-special-locks)**。具名不当行为模式：**[第十章 §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**。
+   - **评议所偏私争议：** 若争斗主要关于本应回避的小组成员、偏私的小组参与，或可比的评议所廉正违约 — 包括 **[Article XXIII-B](core_06_rights_part_c.md)（《组成、轮换与冲突控制》）** 下**宪法**评议所小组上的 — 先路由到**廉正**评议所。在**第 3 节**下，评议所不能是其自身偏私的唯一最终裁判：**宪法**评议所不能是决定其自身小组成员是否本应回避的唯一最终评议所。轨迹锁定纪律：**[第九章 §5.5](core_09_standing_integration.md#55-special-locks)**。具名不当行为模式：**[第十章 §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**。
    - **技术如何做问题：** 规格、方法、测量、测试与专家证据问题，在那些是首要利害或经认证组件问题时，走向**技术评议所领域**。
    - **系统对齐签核：**
      - 对新的具实质影响系统的正式**宪法对齐承认**，以及对既有系统的**持续对齐核验**，默认以**廉正**为牵头。
@@ -237,14 +237,14 @@ flowchart TD
 #### 2.3 评议所案件记录、轨迹记录与质疑
 
 **评议所案件记录与轨迹记录：**
-- 评议所为摆在它面前的争议保存一份[**评议所案件记录**](core_05_band_accountability.md#forum-case-record)。该记录跟踪：
+- 评议所为摆在它面前的争议保存一份[**评议所案件记录**](../../core_05.035_band_accountability.md#forum-case-record)。该记录跟踪：
   - 主张；
   - 证据；
   - 路由选择；
   - 临时命令；
   - 经认证问题；以及
   - 该案中的最终认定。
-- 它与[第八章](core_08_standing_assessment.md#2-standing-records)所要求的**轨迹记录****不是**同一事物（见[轨迹记录](core_05_band_accountability.md#standing-record-chapter-six)）。
+- 它与[第八章](core_08_standing_assessment.md#2-standing-records)所要求的**轨迹记录****不是**同一事物（见[轨迹记录](../../core_05.035_band_accountability.md#standing-record-chapter-six)）。
 - 评议所决定仅在产出经核实贡献记录、经核实违规认定、**系统对齐认证记录**，或其他在第二至四章及任何被要求的审查保障下有界、可追溯、可质疑且经核实的认定时，才可以成为第八章**贡献轨迹记录**或**违规轨迹记录**的一部分。
 - 下列各项本身都不改变任何人的轨迹、角色资格、信任状态、承认或最终轨迹效果：
   - 提交案件；
@@ -291,7 +291,7 @@ flowchart TD
 
 - 上游：[§2](#2-default-venue-and-primary-stakes)（*默认场所表、收件分诊、混合利害与不对称*）；[第九章 §2 — 整合记录与决定顺序](core_09_standing_integration.md#2-integration-record-and-decision-order)（*最高适用不合规类别 — 混合利害协调*）。
 - 下游：[§5](#5-escalation-and-certification)（*经认证宪法问题、备用路由激活，以及协调进行中的临时保护*）。
-- 一并阅读：[Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)（《质疑、审查与救济权》）；[corpus_institutions.md](../../corpus_institutions.md)（*凡保障满足期望时可以先于廉正评议所的内部廉正过程*）；[corpus_forum.md](../../corpus_forum.md)（**CF-7**，廉正牵头的对齐协调）。
+- 一并阅读：[Article XIII-B](core_06_rights_part_c.md)（《质疑、审查与救济权》）；[corpus_institutions.md](../../corpus_institutions.md)（*凡保障满足期望时可以先于廉正评议所的内部廉正过程*）；[corpus_forum.md](../../corpus_forum.md)（**CF-7**，廉正牵头的对齐协调）。
 
 </details>
 
@@ -346,7 +346,7 @@ flowchart TD
 <a id="capacity-failure-routing"></a>
 **能力失败在被饿死的机构之外被审理。** 主张评议所族系、救济系统或轨迹整合功能能力不足 — 设计积压、不可及收件、慢性资金不足、慢性里程碑失败，或触发的[第九章 §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) 救济对等绊线 — 是反自我裁判事项。其能力受质疑的机构不得是其自身能力的唯一事实认定者。
 - **廉正**族系是能力失败主张的默认牵头，当廉正本身是受质疑机构时适用**第 3 节**备用配对。
-- 任何受影响当事方、受保护报告者，或[第一章 §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) 下的自组织群体，都可以提交能力失败主张。它按**第 6 节**在层级 B 时钟上被审理，除非记录显示层级 A 利害。
+- 任何受影响当事方、受保护报告者，或[第一章 §9.5](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) 下的自组织群体，都可以提交能力失败主张。它按**第 6 节**在层级 B 时钟上被审理，除非记录显示层级 A 利害。
 - 受质疑机构必须提供其已公布的[第九章 §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) 与**第 6 节**积压数字，并可以给出证据，但不得控制认定或纠正命令。
 - 能力失败认定是[第九章 §9.2](core_09_standing_integration.md#92-remedy-system-durability) 耐久失败。它把纠正命令路由到负责人员与资金的[首要利害](#2-default-venue-and-primary-stakes)族系，并在模式为慢性或被隐瞒时，打开普通第八章路径。
 
@@ -454,7 +454,7 @@ flowchart TD
 **示例事项。** 本族系包括对下列事项的质疑：
 - 机构授权、被允许行动或被责成功能；
 - 已采纳文书下的受监督范围边界与分类；
-- [章程](core_05_band_continuity.md#charter)范围、章程修正权威、章程–行为不匹配，或在章程范围之外运营；
+- [章程](../../core_05.040_band_continuity.md)范围、章程修正权威、章程–行为不匹配，或在章程范围之外运营；
 - **`corpus_institutions.md`** 与同源层下的机构职责合规与绩效；
 - 共享跨管辖或跨机构标准的本地执行；
 - 系统对齐程序中的机构授权与权利底线组件问题，凡机构是必要当事方或机构授权为首要之处。
@@ -484,7 +484,7 @@ flowchart TD
 - 可比**生态****实体**。
 - 这包括**第八章**测量、**第六章**权利底线执行或**第五章**（*生态完整性*、*环境先决条件*）依赖该项认定的**模式**或**系统性**生态失败。
 
-**代表性提交。** 其首要利害为[自然系统轨迹](core_05_band_participation.md#natural-systems-standing)或生态完整性的案件，可以由已公布代表 — 受影响共同体、原住民延续持有者或指定监护人 — 为生命支持系统自身利益打开。这不使该系统成为感知者。代表的任命、回避与公布住在 [`corpus_forum.md`](../../corpus_forum.md)（**CF-5**（《路由操作、移送、认证与代表性对待》）），且必须**实施，而非收窄**本底线。
+**代表性提交。** 其首要利害为[自然系统轨迹](../../core_05.055_band_participation.md#natural-systems-standing)或生态完整性的案件，可以由已公布代表 — 受影响共同体、原住民延续持有者或指定监护人 — 为生命支持系统自身利益打开。这不使该系统成为感知者。代表的任命、回避与公布住在 [`corpus_forum.md`](../../corpus_forum.md)（**CF-5**（《路由操作、移送、认证与代表性对待》）），且必须**实施，而非收窄**本底线。
 
 **示例事项。** 本族系包括对下列事项的质疑：
 - 生态完整性或环境先决条件基线与违约；
@@ -615,7 +615,7 @@ flowchart TD
 - 上游：[§2](#2-default-venue-and-primary-stakes) 与 [§3](#3-transfer-consolidation-and-coordination)（*默认场所、收件、移送、混合利害与反自我裁判备用*）；[§4.6](#46-constitutional-forums) 与 [§4.7](#47-provisional-implementation-operational-law)（*暂行法处置与签发*）；[第八章 §7 统一标尺](core_08_standing_assessment.md#7-unified-proportional-lequ-scale)（*数字影响槽位指派*）；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)（*对合格槽位 7–9 的相匹配反宪法不当行为指定*）；[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)（*经认证宪法问题中的安全与真理钩*）。
 - 下游：[§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*实质性层级与反拖延纪律*）；[§7](#7-forum-support-before-during-and-after-review)（*升级与认证的可质疑评议所支持*）；[第十六章](../../core_18_incorporation.md)（***Article V-E**（《感知地位裁断底线》）实施设计的实施路由*）。
 - 第 5 节内：[临时保护](#interim-protection)（*实体待决期间的现状与多评议所临时命令冲突协调*）。
-- 一并阅读：[Article V-E：感知地位裁断底线](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)；[第五章 — 感知地位裁断](core_05_band_participation.md#sentience-status-adjudication-constitutional)；[Article XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)（《正义目的与范围》）至 [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule)（*与第十章指定一并引用的审查保障*）；[Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)（*认证 — 对齐裁定与一般学说*）。
+- 一并阅读：[Article V-E：感知地位裁断底线](core_06_rights_part_b.md)；[第五章 — 感知地位裁断](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional)；[Article XXIV-A](core_06_rights_part_d.md)（《正义目的与范围》）至 [Article XXIV-C](core_06_rights_part_d.md)（*与第十章指定一并引用的审查保障*）；[Article XIII-B](core_06_rights_part_c.md)（*认证 — 对齐裁定与一般学说*）。
 
 </details>
 
@@ -731,7 +731,7 @@ flowchart TD
   - 每一在收件处被拒绝的提交必须被记入，并载明所引用指标与拒绝理由。
   - **廉正**族系按已公布节奏抽样该日志。
   - 拒绝集中于下列任一者的模式，本身就是该门正被用作扣留装置的可信指标，并在无需进一步提交的情况下打开廉正审查：
-    - 一个[基质类](core_05_band_participation.md#substrate-class)；
+    - 一个[基质类](../../core_05.055_band_participation.md#substrate-class)；
     - 一个母系统；或
     - 一个运营者。
   - 采纳者必须公布一套底线指标，任何收件台都不得单独把它当作不足。
@@ -757,12 +757,12 @@ flowchart TD
   - **牵头族系** — 默认技术评议所领域，连同上文特殊路由；
   - **专科分庭允准** — 专家小组或分庭可以协助指标评价，但不得挪走实体底线规则或默认纳入；
   - **提交触发** — 在授予、撤回或收窄依赖地位的保护之前，实质被争议、被质疑、未决、被收窄、被撤销或被恢复的地位；
-  - **临时争议对待** — [争议感知者生命](core_05_band_participation.md#contested-sentient-life-constitutional) 加上 Article V-E 默认纳入，在地位仍活着时；
+  - **临时争议对待** — [争议感知者生命](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) 加上 Article V-E 默认纳入，在地位仍活着时；
   - **审查触发** — 该姿态的已宣布结束日期或强制审查（有时限审查，不是物种清单）；
   - **重开证据标准** — 新的经核实证据，不是仅按日历重开；
   - **独立代表** — 本钩下该实体代表的任命路径、冲突筛查与接触条款；以及
   - **收件拒绝日志** — 被拒绝提交记在何处、**廉正**按何种节奏抽样它们，以及已公布的底线指标集。
-- 详细制度设计、任命机制、提交表格与排序，路由到**第十六章**纳入纪律下的已采纳实施文本，且**不得**收窄 **Article V-E**（《感知地位裁断底线》）底线。截至本版，专用[感知地位裁断记录](core_05_band_participation.md#sentience-status-adjudication-record-constitutional)格式在**第十六章**下列为 [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) 与 [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json)；那些文件实施、且**不**收窄 **Article V-E**（《感知地位裁断底线》）或本钩。上文最低字段仍适用。本钩**不是**完整的任命或提交制定法。
+- 详细制度设计、任命机制、提交表格与排序，路由到**第十六章**纳入纪律下的已采纳实施文本，且**不得**收窄 **Article V-E**（《感知地位裁断底线》）底线。截至本版，专用[感知地位裁断记录](../../core_05.055_band_participation.md#sentience-status-adjudication-record-constitutional)格式在**第十六章**下列为 [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md) 与 [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json)；那些文件实施、且**不**收窄 **Article V-E**（《感知地位裁断底线》）或本钩。上文最低字段仍适用。本钩**不是**完整的任命或提交制定法。
 
 <a id="referral-distinguished-from-expansion"></a>
 #### 转介有别于扩大
@@ -787,21 +787,21 @@ flowchart TD
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（*及时、高效且公正的底线*）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)（*质疑与救济通路*）；[Article XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden)（*延续纪律*）；[§5](#5-escalation-and-certification)（*升级与认证时钟与之交互*）。
-- 下游：[§7](#7-forum-support-before-during-and-after-review)（*检查、取证与跟进支持*）；[§5](#interim-protection)（*临时保护*）；[corpus_forum.md](../../corpus_forum.md)（**CF-11.3.1**（《目标窗口与时限底线》））；[corpus_institutions.md](../../corpus_institutions.md)（**CI-8**（《可及路径》））；[第八至十一章应用 vignettes](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)；[Article XXIV-D](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks)（*与默认恢复质疑窗口相同的外限*）。
+- 上游：[Article XXV-C](core_06_rights_part_d.md)（*及时、高效且公正的底线*）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[Article XIII-B](core_06_rights_part_c.md)（*质疑与救济通路*）；[Article XXIV-D](core_06_rights_part_d.md)（*延续纪律*）；[§5](#5-escalation-and-certification)（*升级与认证时钟与之交互*）。
+- 下游：[§7](#7-forum-support-before-during-and-after-review)（*检查、取证与跟进支持*）；[§5](#interim-protection)（*临时保护*）；[corpus_forum.md](../../corpus_forum.md)（**CF-11.3.1**（《目标窗口与时限底线》））；[corpus_institutions.md](../../corpus_institutions.md)（**CI-8**（《可及路径》））；[第八至十一章应用 vignettes](../../core_10.005_application_vignettes.md)；[Article XXIV-D](core_06_rights_part_d.md)（*与默认恢复质疑窗口相同的外限*）。
 - 四元腿：**及时性**（横断执行）；**参与**与**监督**（可及收件与已公布里程碑）。首要宗旨：**繁盛**与**延续**。
-- 一并阅读：及时性测量族（*及时解决以及反拖延与解决路径纪律*）；[实质性认定](core_05_band_oversight.md#materiality-determination)；[及时解决](core_05_band_accountability.md#timely-resolution-constitutional)；[解决路径俘获](core_05_band_accountability.md#capture-of-resolution-pathways)；[宪法效率](core_05_band_continuity.md#constitutional-efficiency)。
-- 尽责管理入口（非操作性）：有约束力的下一步声明：[操作性尽责管理声明（Article XXV-C）](core_06_rights_part_d.md#operative-steward-statement-delay)。支持性指针不得收窄它。
+- 一并阅读：及时性测量族（*及时解决以及反拖延与解决路径纪律*）；[实质性认定](core_05_band_oversight.md#materiality-determination)；[及时解决](../../core_05.035_band_accountability.md#timely-resolution-constitutional)；[解决路径俘获](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)；[宪法效率](../../core_05.040_band_continuity.md#constitutional-efficiency)。
+- 尽责管理入口（非操作性）：有约束力的下一步声明：[操作性尽责管理声明（Article XXV-C）](core_06_rights_part_d.md)。支持性指针不得收窄它。
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">定义 · 评估 · 合规</span></strong></summary>
 
-- [及时解决](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [及时解决](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [实质性认定](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [解决路径俘获](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [宪法效率](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [解决路径俘获](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [宪法效率](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -823,7 +823,7 @@ flowchart TD
       - 依赖不对称设置中的参与障碍伤害；
       - 最终第八章**违规轴 s = 7、8 或 9** 影响槽位审查；或
       - 适用处的相匹配**第十章**指定。
-    - 期望：合法**临时保护**必须在不等待完整实体的情况下可用；收件、确认与证据保全必须在**数日**内开始，而不是数周，除非[不可抗力](core_05_band_accountability.md#force-majeure-constitutional)或有记载的安全约束阻止。
+    - 期望：合法**临时保护**必须在不等待完整实体的情况下可用；收件、确认与证据保全必须在**数日**内开始，而不是数周，除非[不可抗力](../../core_05.035_band_accountability.md#force-majeure-constitutional)或有记载的安全约束阻止。
   - **层级 B — 实质权利影响，非迫近**
     - 伤害范围：现在要紧的实质权利、轨迹或机构伤害，但尚非层级 A 紧急程度的急性持续伤害。
     - 例子：
@@ -856,7 +856,7 @@ flowchart TD
     - 期望：最简程序路径；凡没有外部权利利害之处，正式评议所过程可以最小或被放弃；反博弈与反拖延规则仅在外部宪法利益被牵涉时适用。
 <a id="urgency-classification-and-time-scale"></a>
 - **紧急分类与时间尺度：** A/B/C/L/P 标签是该争议的紧急程度与实质性认定。[§5](#5-escalation-and-certification) 评议所族系升级、增加当事方、跨境协调或第十章案卷，**本身不**把事项移入不同紧急层级。那些事实可以在更长已公布时间尺度上拉长后期窗口（**问题 1** 至整合解决），只要收件、证据保全与任何被要求的**临时保护**保持在已分类层级的底线。用更慢层级的时钟替代该项认定即不合规。紧急标签本身改变之前，需要新的[实质性认定](core_05_band_oversight.md#materiality-determination) — 通常在伤害变为迫近，或最终第八章**违规轴 s = 7、8 或 9** 审查或相匹配**第十章**指定是利害时，**上调**到**层级 A**。
-- **流程链阶段里程碑：** 对经**第八至十一章**路由的争议，采纳者必须公布每一阶段感知者可及的默认窗口，按层级缩放。数字底线表住在 [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)，且必须落在本节外限之内：
+- **流程链阶段里程碑：** 对经**第八至十一章**路由的争议，采纳者必须公布每一阶段感知者可及的默认窗口，按层级缩放。数字底线表住在 [CF-11.3.1](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md)，且必须落在本节外限之内：
   1. 评议所通路与收件；
   2. 证据保全；
   3. **第八章第 2–3 节**下的**问题 1** 经核实认定与**轨迹记录**打开；
@@ -871,14 +871,14 @@ flowchart TD
   - **层级 L：** 最多**四个月**；
   - **层级 P：** 最多**六个月**。
   越过某层级外限而无该有记载延期即不合规。凡宪法利益仍未解决之处，无限期推迟即不合规。
-- **紧急遏制后的恢复质疑：** 同一外限是在推迟通知与质疑的 [**Article XXIV-D**](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) 紧急措施之后恢复它们的默认窗口。该窗口从措施开始，或从通知或质疑被推迟时起算，以较早者为准。通知或质疑的紧急推迟是**层级 A**，除非记录了一份有记载的较低紧急展示。越过外限的继续是 **Article XXIV-D** 延续展示，不是新时钟。
+- **紧急遏制后的恢复质疑：** 同一外限是在推迟通知与质疑的 [**Article XXIV-D**](core_06_rights_part_d.md) 紧急措施之后恢复它们的默认窗口。该窗口从措施开始，或从通知或质疑被推迟时起算，以较早者为准。通知或质疑的紧急推迟是**层级 A**，除非记录了一份有记载的较低紧急展示。越过外限的继续是 **Article XXIV-D** 延续展示，不是新时钟。
 - **反拖延底线：** 下列各项在可预见地使权利、救济或及时保护落空之处不合规：
   - 设计积压、慢性资金不足或不可及收件，击败 **Article XIII-B**（《质疑、审查与救济权》）实践通路；
   - 设计来耗尽主张者的拖延制度；
   - 自我制造的拖延、程序叠层、评议所挑选，或用于在没有里程碑正当化的情况下延长解决的记录碎片化；
   - 把指控当作经核实轨迹输入以换取时间（[第八章 §3.1](core_08_standing_assessment.md#verified-inputs-for-standing)）；
-  - 通过拖延、不透明或解决者偏私的[解决路径俘获](core_05_band_accountability.md#capture-of-resolution-pathways)；
-  - 违背第一章 [§12.2 宪法效率](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) 的效率主张，它们：
+  - 通过拖延、不透明或解决者偏私的[解决路径俘获](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)；
+  - 违背第一章 [§12.2 宪法效率](core_01_c_stewardship_capacity_principles.md) 的效率主张，它们：
     - 跳过事实核对；
     - 惩罚错误一方；
     - 提供与伤害不相配的修复；或
@@ -894,7 +894,7 @@ flowchart TD
 
 - 上游：[§1](#1-purpose-and-role)（*独立、可质疑性与追溯期望*）；[§2](#2-default-venue-and-primary-stakes)（*首要利害路由与收件*）；[§4](#4-forum-family-definitions)（*持有该能力的评议所族系*）；[§5](#5-escalation-and-certification)（*依赖可质疑支持的升级与认证*）；[§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（*层级时钟与反拖延纪律*）。
 - 下游：[§5](#interim-protection)（*支持工作进行中的临时保护*）。
-- 一并阅读：[corpus_forum.md](../../corpus_forum.md)（**CF-8**（《评议所取证与分析支持》）；**CF-9**（《独立调查服务与检控接口》））；[Article XIII-B：质疑、审查与救济权](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)；[Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)（《审计、透明与独立核验》）。
+- 一并阅读：[corpus_forum.md](../../corpus_forum.md)（**CF-8**（《评议所取证与分析支持》）；**CF-9**（《独立调查服务与检控接口》））；[Article XIII-B：质疑、审查与救济权](core_06_rights_part_c.md)；[Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)（《审计、透明与独立核验》）。
 
 </details>
 
@@ -921,6 +921,6 @@ flowchart TD
 
 **上一文件（仍为英语）：** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**下一文件（仍为英语）：** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**下一文件（仍为英语）：** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 
 **有约束力的原文：** [core_11_forum.md](../../core_13_forum.md)

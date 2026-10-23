@@ -12,7 +12,7 @@
 >
 > **Trước (vẫn tiếng Anh):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **Tiếp theo (vẫn tiếng Anh):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **Tiếp theo (vẫn tiếng Anh):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 > **Cung đọc:** §1 mục đích → Trình tự tranh chấp → §2 địa điểm mặc định và tiếp nhận → §2.1–§2.3 giới hạn dẫn, lợi hại hỗn hợp, tranh biện → §3 chuyển và chống tự xét → §4 họ → §5 nâng cấp và chứng nhận → §6 bậc và chống trì hoãn → §7 hỗ trợ diễn đàn
 </details>
 
@@ -59,7 +59,7 @@ Chương Mười Một là chủ sở hữu hiến pháp của **họ diễn đ�
 - Thượng nguồn: [Chương Bảy — Chứng nhận thẳng hàng hệ thống](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification); [Chương Tám](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model); [Chương Chín](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration); [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct); [Chương Một](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*nguyên tắc và ràng buộc diễn giải*); [Chương Hai đến Bốn](core_02_definition_structure.md) (*kỳ vọng truy vết và xác minh*); [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) (*định nghĩa đọc cùng Chương Hai đến Bốn trong widget Vị trí kho văn bản*); [Chương Sáu](core_06_rights_part_a.md#chapter-six-foundational-rights) (*Sàn Quyền nền chương này áp cùng*).
 - Hạ nguồn: [§2](#2-default-venue-and-primary-stakes) (*địa điểm mặc định lợi hại chính, phân loại tiếp nhận, lợi hại hỗn hợp, bất đối xứng, tranh biện hồ sơ quỹ đạo; lối vào ngưỡng tranh biện được kịp; mô tả thiện chí và chống chơi*); [§3](#3-transfer-consolidation-and-coordination) (*chuyển và chống tự xét*); [§4](#4-forum-family-definitions) (*định nghĩa họ diễn đàn, buồng, chuẩn dùng chung, và luật vận hành tạm*); [§4.3](#43-institutional-forums) (*Ranh giới quy trình nội như ứng dụng họ Thể chế của Trình tự tranh chấp*); [§5](#5-escalation-and-certification) (*nâng cấp, chứng nhận, và bảo vệ tạm*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*bậc tính trọng yếu, mốc chuỗi, và kỷ luật chống trì hoãn*); [§7](#7-forum-support-before-during-and-after-review) (*hỗ trợ diễn đàn trước, trong, và sau rà soát*).
 - Trụ Tứ diện: **tham gia**, **giám sát**, **trách nhiệm giải trình**, **kịp thời** (phát hiện đã xác minh có thể mở, cập nhật, hoặc sửa hồ sơ quỹ đạo; **CF-11** triển khai đồng hồ bậc). Mục tiêu sơ cấp: **Hưng thịnh** và **Liên tục**. Chia tỷ lệ [lợi hại vật chất](core_00_preamble.md#material-stake) áp cho định tuyến và gánh lối vào.
-- Đọc cùng: [Lời nói đầu §3.2](core_00_preamble.md#32-key-governance-processes) và [§3.3](core_00_preamble.md#33-governance-layers) (*đường quy trình và kỷ luật tầng quản trị*); [Điều XII: Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*Quy tắc khẩn cấp, cạn, và thời hạn*) — triển khai, không thu hẹp); [corpus_institutions.md](../../corpus_institutions.md) (*tranh biện, rà soát thứ cấp, và giám sát toàn vẹn — không thay thẩm quyền định tuyến diễn đàn đã gán*); [Điều XIII-B: Quyền tranh biện, rà soát, và biện pháp khắc phục](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [họ Điều XXIV](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*ràng buộc công lý được viện trong widget Vị trí kho văn bản*).
+- Đọc cùng: [Lời nói đầu §3.2](core_00_preamble.md#32-key-governance-processes) và [§3.3](core_00_preamble.md#33-governance-layers) (*đường quy trình và kỷ luật tầng quản trị*); [Điều XII: Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*Quy tắc khẩn cấp, cạn, và thời hạn*) — triển khai, không thu hẹp); [corpus_institutions.md](../../corpus_institutions.md) (*tranh biện, rà soát thứ cấp, và giám sát toàn vẹn — không thay thẩm quyền định tuyến diễn đàn đã gán*); [Điều XIII-B: Quyền tranh biện, rà soát, và biện pháp khắc phục](core_06_rights_part_c.md); [họ Điều XXIV](core_06_rights_part_d.md) (*ràng buộc công lý được viện trong widget Vị trí kho văn bản*).
 
 </details>
 
@@ -91,7 +91,7 @@ Chương này nêu **họ diễn đàn** nào **giám sát** câu hỏi sơ cấ
 **Họ diễn đàn** là thể chế sơ cấp qua đó văn kiện này **giám sát** những đường đó. Chúng khác quản trị điều hành thường ngày của quy tắc đã ban.
 
 <a id="dispute-sequencing"></a>
-**Trình tự tranh chấp.** Bên trong hệ thống, thể chế, hoặc miền quyết có giới hạn đã được ủy quyền, tranh chấp thường dùng đường tranh biện và thủ tục đúng đắn [Tham gia hệ thống của bên bị ảnh hưởng](core_05_band_participation.md#stakeholder-status-and-weight-cluster) đã công bố trước. Nếu đường đó cho kết quả vẫn bị tranh, thiếu, bị chiếm, hoặc không cấp được cứu trợ cần một cách hợp pháp, chương này định tuyến việc theo lợi hại chính dưới **mục 2**. **Toàn vẹn**, **Lĩnh vực Diễn đàn Kỹ thuật**, **Môi trường**, và **Hiến pháp** là họ dẫn mặc định khi đó là lợi hại chính — không phải ngoại lệ bỏ trình tự. Quy trình nội chưa xong, nhãn cạn, hoặc tuyên rà nội chưa xong không được làm chậm những dẫn đó, dời nội dung của chúng, hay ăn đồng hồ **Điều XXV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*). Lối vào trực tiếp vẫn có khi trì hoãn sẽ gây nguy có trọng cho quyền, bằng chứng, độc lập, hoặc phục hồi thực tiễn.
+**Trình tự tranh chấp.** Bên trong hệ thống, thể chế, hoặc miền quyết có giới hạn đã được ủy quyền, tranh chấp thường dùng đường tranh biện và thủ tục đúng đắn [Tham gia hệ thống của bên bị ảnh hưởng](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) đã công bố trước. Nếu đường đó cho kết quả vẫn bị tranh, thiếu, bị chiếm, hoặc không cấp được cứu trợ cần một cách hợp pháp, chương này định tuyến việc theo lợi hại chính dưới **mục 2**. **Toàn vẹn**, **Lĩnh vực Diễn đàn Kỹ thuật**, **Môi trường**, và **Hiến pháp** là họ dẫn mặc định khi đó là lợi hại chính — không phải ngoại lệ bỏ trình tự. Quy trình nội chưa xong, nhãn cạn, hoặc tuyên rà nội chưa xong không được làm chậm những dẫn đó, dời nội dung của chúng, hay ăn đồng hồ **Điều XXV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*). Lối vào trực tiếp vẫn có khi trì hoãn sẽ gây nguy có trọng cho quyền, bằng chứng, độc lập, hoặc phục hồi thực tiễn.
 
 ```mermaid
 flowchart TD
@@ -145,7 +145,7 @@ Tranh biện thể chế, rà soát thứ cấp, và giám sát toàn vẹn ở 
 - Thượng nguồn: [§1](#1-purpose-and-role) (*mục đích, vai trò ứng dụng sơ cấp, yêu cầu trách nhiệm giải trình, định tuyến ngưỡng đã công bố, không dời chi tiết, kỳ vọng độc lập và rà soát*).
 - Hạ nguồn: [§3](#3-transfer-consolidation-and-coordination) (*chuyển, hợp nhất, chống tự xét*); [§4](#4-forum-family-definitions) (*định nghĩa họ diễn đàn đọc cùng bảng mặc định*); [§5](#5-escalation-and-certification) (*nâng cấp từ địa điểm mặc định; Bảo vệ tạm*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*bậc tính trọng yếu và kỷ luật chống trì hoãn*); [§7](#7-forum-support-before-during-and-after-review) (*hỗ trợ diễn đàn trước, trong, và sau rà soát*).
 - Trong §2: [§2.1](#21-lead-default-limits) (*va lợi hại chính, chứng nhận hiến pháp, và dự phòng chống tự xét*); [§2.2](#22-mixed-stakes-and-routing-asymmetry) (*lợi hại hỗn hợp và bất đối xứng*); [§2.3](#23-forum-records-standing-records-and-contests) (*hồ sơ vụ diễn đàn, hồ sơ quỹ đạo, và tranh biện*).
-- Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — trụ **tham gia**, **giám sát**, và **kịp thời**; chia tỷ lệ [lợi hại vật chất](core_00_preamble.md#material-stake) cho định tuyến lợi hại chính; [Chương Tám §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*ngữ pháp ô quỹ đạo*); [thang thống nhất Chương Tám §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*dải LEQU năm lần dùng chung và hồ sơ trục riêng*); [Chương Tám §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*mô tả chuẩn hóa xuyên trục thông tin lợi hại chính mà không dịch ô tác động*); [corpus_forum.md](../../corpus_forum.md) (**CF-5** và **CF-7.2**); [corpus_systems.md](../../corpus_systems.md) (*phân loại hệ thống, triển khai, và nghĩa vụ tái xác nhận*); [Chương Mười §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*chỉ định hành vi sai phản hiến pháp cho ô 7–9 Chương Tám đủ điều kiện; neo cũ được giữ*); [Chương Mười §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*thủ tục đúng đắn cho chỉ định đó đọc cùng chương này và **Điều XXIV** (*Giải quyết xung đột, leo thang, và tính tương xứng khẩn cấp*)*); [Điều XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*mục tiêu và phạm vi công lý*).
+- Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — trụ **tham gia**, **giám sát**, và **kịp thời**; chia tỷ lệ [lợi hại vật chất](core_00_preamble.md#material-stake) cho định tuyến lợi hại chính; [Chương Tám §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*ngữ pháp ô quỹ đạo*); [thang thống nhất Chương Tám §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*dải LEQU năm lần dùng chung và hồ sơ trục riêng*); [Chương Tám §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*mô tả chuẩn hóa xuyên trục thông tin lợi hại chính mà không dịch ô tác động*); [corpus_forum.md](../../corpus_forum.md) (**CF-5** và **CF-7.2**); [corpus_systems.md](../../corpus_systems.md) (*phân loại hệ thống, triển khai, và nghĩa vụ tái xác nhận*); [Chương Mười §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*chỉ định hành vi sai phản hiến pháp cho ô 7–9 Chương Tám đủ điều kiện; neo cũ được giữ*); [Chương Mười §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*thủ tục đúng đắn cho chỉ định đó đọc cùng chương này và **Điều XXIV** (*Giải quyết xung đột, leo thang, và tính tương xứng khẩn cấp*)*); [Điều XXIV-A](core_06_rights_part_d.md) (*mục tiêu và phạm vi công lý*).
 
 </details>
 
@@ -190,7 +190,7 @@ Kỳ vọng thời gian cho lối vào diễn đàn phải:
      - chứng nhận **Hiến pháp** nơi cần;
      - quy tắc bên thể chế; và
      - dự phòng chống tự xét dưới **mục 2, 3, và 5**.
-   - **Tranh thiên vị diễn đàn:** Nếu cuộc tranh chủ yếu về thành viên hội đồng lẽ ra phải rút, tham gia hội đồng thiên vị, hoặc phá toàn vẹn diễn đàn tương đương — kể cả trên hội đồng diễn đàn **Hiến pháp** dưới **[Điều XXIII-B](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls) (*Thành phần, luân phiên, và kiểm xung đột*)** — định tuyến tới diễn đàn **Toàn vẹn** trước. Dưới **mục 3**, một diễn đàn không thể là thẩm cuối duy nhất về thiên vị của chính mình: diễn đàn **Hiến pháp** không thể là diễn đàn cuối duy nhất quyết liệu thành viên hội đồng của chính nó lẽ ra phải xin rút. Kỷ luật khóa quỹ đạo: **[Chương Chín §5.5](core_09_standing_integration.md#55-special-locks)**. Mẫu hành vi sai đã đặt tên: **[Chương Mười §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
+   - **Tranh thiên vị diễn đàn:** Nếu cuộc tranh chủ yếu về thành viên hội đồng lẽ ra phải rút, tham gia hội đồng thiên vị, hoặc phá toàn vẹn diễn đàn tương đương — kể cả trên hội đồng diễn đàn **Hiến pháp** dưới **[Điều XXIII-B](core_06_rights_part_c.md) (*Thành phần, luân phiên, và kiểm xung đột*)** — định tuyến tới diễn đàn **Toàn vẹn** trước. Dưới **mục 3**, một diễn đàn không thể là thẩm cuối duy nhất về thiên vị của chính mình: diễn đàn **Hiến pháp** không thể là diễn đàn cuối duy nhất quyết liệu thành viên hội đồng của chính nó lẽ ra phải xin rút. Kỷ luật khóa quỹ đạo: **[Chương Chín §5.5](core_09_standing_integration.md#55-special-locks)**. Mẫu hành vi sai đã đặt tên: **[Chương Mười §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
    - **Câu hỏi kỹ thuật cách-làm:** Đặc tả, phương pháp, đo, thử, và câu hỏi bằng chứng chuyên gia đi tới **Lĩnh vực Diễn đàn Kỹ thuật** khi chúng là lợi hại chính hoặc câu hỏi thành phần được chứng nhận.
    - **Duyệt thẳng hàng hệ thống:**
      - **Công nhận thẳng hàng hiến pháp** chính thức cho hệ thống tác động có trọng mới, và **xác nhận thẳng hàng đang chạy** cho hệ thống hiện có, mặc định **Toàn vẹn** làm dẫn.
@@ -237,14 +237,14 @@ Các quy tắc này giới hạn cách dẫn mặc định của bảng tương 
 #### 2.3 Hồ sơ vụ diễn đàn, hồ sơ quỹ đạo, và tranh biện
 
 **Hồ sơ vụ diễn đàn và hồ sơ quỹ đạo:**
-- Một diễn đàn giữ một [**hồ sơ vụ diễn đàn**](core_05_band_accountability.md#forum-case-record) cho tranh chấp trước nó. Hồ sơ đó theo:
+- Một diễn đàn giữ một [**hồ sơ vụ diễn đàn**](../../core_05.035_band_accountability.md#forum-case-record) cho tranh chấp trước nó. Hồ sơ đó theo:
   - các tuyên;
   - bằng chứng;
   - lựa chọn định tuyến;
   - lệnh tạm;
   - câu hỏi được chứng nhận; và
   - phát hiện cuối trong vụ đó.
-- Nó **không** cùng thứ với **hồ sơ quỹ đạo** đòi bởi [Chương Tám](core_08_standing_assessment.md#2-standing-records) (xem [Hồ sơ quỹ đạo](core_05_band_accountability.md#standing-record-chapter-six)).
+- Nó **không** cùng thứ với **hồ sơ quỹ đạo** đòi bởi [Chương Tám](core_08_standing_assessment.md#2-standing-records) (xem [Hồ sơ quỹ đạo](../../core_05.035_band_accountability.md#standing-record-chapter-six)).
 - Quyết diễn đàn chỉ có thể thành phần **hồ sơ quỹ đạo đóng góp** hoặc **hồ sơ quỹ đạo vi phạm** Chương Tám khi nó tạo hồ sơ đóng góp đã xác minh, phát hiện vi phạm đã xác minh, **hồ sơ chứng nhận thẳng hàng hệ thống**, hoặc phát hiện khác có giới hạn, truy vết được, tranh biện được, và đã xác minh dưới Chương Hai đến Bốn và mọi bảo vệ rà đòi.
 - Không cái nào sau, tự nó, đổi quỹ đạo, đủ điều kiện vai, trạng thái tin cậy, công nhận, hoặc hiệu ứng quỹ đạo cuối của ai:
   - nộp một vụ;
@@ -291,7 +291,7 @@ Các quy tắc này giới hạn cách dẫn mặc định của bảng tương 
 
 - Thượng nguồn: [§2](#2-default-venue-and-primary-stakes) (*bảng địa điểm mặc định, phân loại tiếp nhận, lợi hại hỗn hợp, và bất đối xứng*); [Chương Chín §2 — Hồ sơ tích hợp và thứ tự quyết](core_09_standing_integration.md#2-integration-record-and-decision-order) (*hạng không tuân thủ áp cao nhất — phối hợp lợi hại hỗn hợp*).
 - Hạ nguồn: [§5](#5-escalation-and-certification) (*câu hỏi hiến pháp được chứng nhận, kích định tuyến dự phòng, và Bảo vệ tạm trong khi phối hợp tiến*).
-- Đọc cùng: [Điều XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Quyền tranh biện, rà soát, và biện pháp khắc phục*); [corpus_institutions.md](../../corpus_institutions.md) (*quy trình toàn vẹn nội có thể đi trước diễn đàn toàn vẹn nơi bảo vệ thỏa kỳ vọng*); [corpus_forum.md](../../corpus_forum.md) (**CF-7**, phối hợp thẳng hàng do Toàn vẹn dẫn).
+- Đọc cùng: [Điều XIII-B](core_06_rights_part_c.md) (*Quyền tranh biện, rà soát, và biện pháp khắc phục*); [corpus_institutions.md](../../corpus_institutions.md) (*quy trình toàn vẹn nội có thể đi trước diễn đàn toàn vẹn nơi bảo vệ thỏa kỳ vọng*); [corpus_forum.md](../../corpus_forum.md) (**CF-7**, phối hợp thẳng hàng do Toàn vẹn dẫn).
 
 </details>
 
@@ -346,7 +346,7 @@ Các quy tắc này giới hạn cách dẫn mặc định của bảng tương 
 <a id="capacity-failure-routing"></a>
 **Thất năng lực được nghe ngoài thân bị đói.** Tuyên rằng một họ diễn đàn, hệ thống biện pháp khắc phục, hoặc chức năng tích hợp quỹ đạo dưới năng lực — tồn đọng thiết kế, tiếp nhận không vào được, thiếu tài trợ mãn, thất mốc mãn, hoặc cò ngang-biện-pháp-khắc-phục [Chương Chín §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) đã kích — là việc chống tự xét. Thân có năng lực đang hỏi không được là người tìm sự kiện duy nhất về năng lực của chính mình.
 - Họ **Toàn vẹn** là dẫn mặc định cho tuyên thất năng lực, với cặp dự phòng **mục 3** áp nơi Toàn vẹn tự là thân đang hỏi.
-- Mọi bên bị ảnh hưởng, người báo được bảo vệ, hoặc nhóm tự tổ dưới [Chương Một §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) có thể nộp tuyên thất năng lực. Nó được nghe trên đồng hồ Bậc B dưới **mục 6** trừ khi hồ sơ chỉ lợi hại Bậc A.
+- Mọi bên bị ảnh hưởng, người báo được bảo vệ, hoặc nhóm tự tổ dưới [Chương Một §9.5](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) có thể nộp tuyên thất năng lực. Nó được nghe trên đồng hồ Bậc B dưới **mục 6** trừ khi hồ sơ chỉ lợi hại Bậc A.
 - Thân đang hỏi phải cung số tồn đọng [Chương Chín §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) và **mục 6** đã công bố, và có thể đưa bằng chứng, nhưng không được kiểm phát hiện hay lệnh sửa.
 - Phát hiện thất năng lực là thất bền [Chương Chín §9.2](core_09_standing_integration.md#92-remedy-system-durability). Nó định tuyến lệnh sửa tới họ [lợi hại chính](#2-default-venue-and-primary-stakes) chịu nhân sự và tài trợ và, nơi mẫu mãn hoặc bị che, mở đường Chương Tám thường.
 
@@ -454,7 +454,7 @@ Các **tiểu mục** **dưới** **theo** **thứ tự** **bảng** **địa đ
 **Việc minh họa.** Họ này gồm tranh về:
 - ủy nhiệm thể chế, hành động phép, hoặc chức năng được giao;
 - biên phạm vi được giám sát và phân loại dưới công cụ tiếp nhận;
-- phạm vi [Điều lệ](core_05_band_continuity.md#charter), quyền sửa điều lệ, lệch điều lệ–hành vi, hoặc vận hành ngoài phạm vi đã điều lệ;
+- phạm vi [Điều lệ](../../core_05.040_band_continuity.md), quyền sửa điều lệ, lệch điều lệ–hành vi, hoặc vận hành ngoài phạm vi đã điều lệ;
 - tuân thủ nghĩa vụ thể chế và hiệu năng dưới **`corpus_institutions.md`** và tầng đồng loại;
 - cưỡng địa phương chuẩn xuyên thẩm quyền hoặc xuyên thể chế dùng chung;
 - câu hỏi thành phần ủy nhiệm thể chế và Sàn Quyền trong thủ tục thẳng hàng hệ thống nơi một thể chế là bên cần thiết hoặc ủy nhiệm thể chế là chính.
@@ -484,7 +484,7 @@ Các **tiểu mục** **dưới** **theo** **thứ tự** **bảng** **địa đ
 - **nội dung** **sinh thái** tương đương.
 - Gồm thất sinh thái **mẫu** hoặc **hệ thống** nơi đo lường **Chương Tám**, cưỡng Sàn Quyền **Chương Sáu**, hoặc **Chương Năm** (*Tính toàn vẹn sinh thái*, *Tiền điều kiện môi trường*) phụ thuộc xác định đó.
 
-**Nộp đại diện.** Một vụ có lợi hại chính là [Quỹ đạo hệ thống tự nhiên](core_05_band_participation.md#natural-systems-standing) hoặc tính toàn vẹn sinh thái có thể được mở bởi đại diện đã công bố — cộng đồng bị ảnh hưởng, người giữ liên tục bản địa, hoặc người giám hộ được chỉ định — vì lợi ích của chính hệ thống nâng sự sống. Điều này không làm hệ thống thành hữu tri. Bổ nhiệm, xin rút, và công bố đại diện sống ở [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*Vận hành định tuyến, chuyển, chứng nhận, và đối xử đại diện*)) và phải **triển khai, không thu hẹp**, sàn này.
+**Nộp đại diện.** Một vụ có lợi hại chính là [Quỹ đạo hệ thống tự nhiên](../../core_05.055_band_participation.md#natural-systems-standing) hoặc tính toàn vẹn sinh thái có thể được mở bởi đại diện đã công bố — cộng đồng bị ảnh hưởng, người giữ liên tục bản địa, hoặc người giám hộ được chỉ định — vì lợi ích của chính hệ thống nâng sự sống. Điều này không làm hệ thống thành hữu tri. Bổ nhiệm, xin rút, và công bố đại diện sống ở [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*Vận hành định tuyến, chuyển, chứng nhận, và đối xử đại diện*)) và phải **triển khai, không thu hẹp**, sàn này.
 
 **Việc minh họa.** Họ này gồm tranh về:
 - đường cơ sở và phá tính toàn vẹn sinh thái hoặc tiền điều kiện môi trường;
@@ -615,7 +615,7 @@ Nơi **cần** để giải việc trong thẩm quyền định tuyến, diễn 
 - Thượng nguồn: [§2](#2-default-venue-and-primary-stakes) và [§3](#3-transfer-consolidation-and-coordination) (*địa điểm mặc định, tiếp nhận, chuyển, lợi hại hỗn hợp, và dự phòng chống tự xét*); [§4.6](#46-constitutional-forums) và [§4.7](#47-provisional-implementation-operational-law) (*xử luật tạm và ban*); [thang thống nhất Chương Tám §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*gán ô tác động số*); [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*chỉ định hành vi sai phản hiến pháp khớp cho ô 7–9 đủ điều kiện*); [Chương Một](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*móc An toàn và Sự thật trong câu hỏi hiến pháp được chứng nhận*).
 - Hạ nguồn: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*bậc tính trọng yếu và kỷ luật chống trì hoãn*); [§7](#7-forum-support-before-during-and-after-review) (*hỗ trợ diễn đàn tranh biện được cho nâng cấp và chứng nhận*); [Chương Mười Sáu](../../core_18_incorporation.md) (*định tuyến triển khai cho thiết kế triển khai **Điều V-E** (*Sàn phân xử trạng thái hữu tri*)*).
 - Trong §5: [Bảo vệ tạm](#interim-protection) (*hiện trạng chờ nội dung và phối hợp xung đột lệnh tạm đa-diễn-đàn*).
-- Đọc cùng: [Điều V-E: Sàn phân xử trạng thái hữu tri](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [Chương Năm — Phân xử trạng thái hữu tri](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Điều XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*Mục tiêu và phạm vi công lý*) đến [Điều XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*bảo vệ rà được viện với chỉ định Chương Mười*); [Điều XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*chứng nhận — phán thẳng hàng và học thuyết chung*).
+- Đọc cùng: [Điều V-E: Sàn phân xử trạng thái hữu tri](core_06_rights_part_b.md); [Chương Năm — Phân xử trạng thái hữu tri](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional); [Điều XXIV-A](core_06_rights_part_d.md) (*Mục tiêu và phạm vi công lý*) đến [Điều XXIV-C](core_06_rights_part_d.md) (*bảo vệ rà được viện với chỉ định Chương Mười*); [Điều XIII-B](core_06_rights_part_c.md) (*chứng nhận — phán thẳng hàng và học thuyết chung*).
 
 </details>
 
@@ -731,7 +731,7 @@ Một vụ chỉ được chuyển từ họ diễn đàn này sang họ khác k
   - Mọi nộp bị từ chối lúc tiếp nhận phải được ghi với chỉ báo viện và lý do từ chối.
   - Họ **Toàn vẹn** lấy mẫu nhật ký đó theo nhịp đã công bố.
   - Mẫu từ chối tập trung vào bất kỳ điều nào sau tự là chỉ báo đáng tin rằng cổng đang dùng như thiết bị giữ lại, và mở rà Toàn vẹn mà không cần nộp thêm:
-    - một [Lớp nền](core_05_band_participation.md#substrate-class);
+    - một [Lớp nền](../../core_05.055_band_participation.md#substrate-class);
     - một hệ thống mẹ; hoặc
     - một người vận hành.
   - Bên tiếp nhận phải công bố bộ sàn chỉ báo mà không bàn tiếp nhận nào được coi là không đủ tự nó.
@@ -757,12 +757,12 @@ Một vụ chỉ được chuyển từ họ diễn đàn này sang họ khác k
   - **họ dẫn** — Lĩnh vực Diễn đàn Kỹ thuật mặc định, với các đường đặc biệt trên;
   - **cho phép buồng chuyên** — hội đồng hoặc buồng chuyên gia có thể hỗ trợ đánh giá chỉ báo nhưng không được dời quy tắc sàn nội dung hay mặc định bao gồm;
   - **cò nộp** — trạng thái bị tranh có trọng, đang tranh, chưa chốt, thu hẹp, thu hồi, hoặc khôi trước khi cấp, rút, hoặc thu hẹp bảo vệ phụ thuộc trạng thái;
-  - **đối xử Tạm đang tranh** — [Đời sống Hữu tri đang tranh](core_05_band_participation.md#contested-sentient-life-constitutional) cộng mặc định bao gồm Điều V-E trong khi trạng thái còn sống;
+  - **đối xử Tạm đang tranh** — [Đời sống Hữu tri đang tranh](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) cộng mặc định bao gồm Điều V-E trong khi trạng thái còn sống;
   - **cò rà** — ngày kết đã tuyên hoặc rà bắt buộc cho tư thế này (rà có hạn thời gian, không danh sách loài);
   - **chuẩn bằng chứng mở lại** — bằng chứng đã xác minh mới, không mở lại chỉ-lịch;
   - **đại diện độc lập** — đường bổ nhiệm, sàng xung đột, và điều khoản lối vào cho đại diện của thực thể dưới móc này; và
   - **nhật ký từ chối tiếp nhận** — nơi nộp bị từ chối được ghi, **Toàn vẹn** lấy mẫu chúng theo nhịp nào, và bộ sàn chỉ báo đã công bố.
-- Thiết kế thể chế chi tiết, cơ chế bổ nhiệm, mẫu nộp, và trình tự định tuyến tới văn bản triển khai đã tiếp nhận dưới kỷ luật tiếp nhận **Chương Mười Sáu** và **không được** thu hẹp sàn **Điều V-E** (*Sàn phân xử trạng thái hữu tri*). Tính đến ấn bản này, định dạng [Hồ sơ phân xử trạng thái hữu tri](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) chuyên được liệt dưới **Chương Mười Sáu** như [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) và [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); những tệp đó triển khai, và **không** thu hẹp, **Điều V-E** (*Sàn phân xử trạng thái hữu tri*) hay móc này. Các trường tối thiểu trên vẫn áp. Móc này **không** phải luật bổ nhiệm hoặc nộp đầy.
+- Thiết kế thể chế chi tiết, cơ chế bổ nhiệm, mẫu nộp, và trình tự định tuyến tới văn bản triển khai đã tiếp nhận dưới kỷ luật tiếp nhận **Chương Mười Sáu** và **không được** thu hẹp sàn **Điều V-E** (*Sàn phân xử trạng thái hữu tri*). Tính đến ấn bản này, định dạng [Hồ sơ phân xử trạng thái hữu tri](../../core_05.055_band_participation.md#sentience-status-adjudication-record-constitutional) chuyên được liệt dưới **Chương Mười Sáu** như [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md) và [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); những tệp đó triển khai, và **không** thu hẹp, **Điều V-E** (*Sàn phân xử trạng thái hữu tri*) hay móc này. Các trường tối thiểu trên vẫn áp. Móc này **không** phải luật bổ nhiệm hoặc nộp đầy.
 
 <a id="referral-distinguished-from-expansion"></a>
 #### Chuyển khác mở rộng
@@ -787,21 +787,21 @@ Một vụ chỉ được chuyển từ họ diễn đàn này sang họ khác k
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: [Điều XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*sàn kịp thời, hiệu quả, và công*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Điều XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*lối vào tranh biện và biện pháp khắc phục*); [Điều XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*kỷ luật tiếp*); [§5](#5-escalation-and-certification) (*đồng hồ nâng cấp và chứng nhận tương tác với*).
-- Hạ nguồn: [§7](#7-forum-support-before-during-and-after-review) (*hỗ trợ thanh tra, pháp y, và theo dõi*); [§5](#interim-protection) (*Bảo vệ tạm*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*cửa sổ mục tiêu và sàn thời hạn*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*đường dẫn tiếp cận được*)); [cảnh ứng dụng Chương Tám–Mười Một](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes); [Điều XXIV-D](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) (*cùng biên ngoài như cửa sổ khôi-tranh biện mặc định*).
+- Thượng nguồn: [Điều XXV-C](core_06_rights_part_d.md) (*sàn kịp thời, hiệu quả, và công*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Điều XIII-B](core_06_rights_part_c.md) (*lối vào tranh biện và biện pháp khắc phục*); [Điều XXIV-D](core_06_rights_part_d.md) (*kỷ luật tiếp*); [§5](#5-escalation-and-certification) (*đồng hồ nâng cấp và chứng nhận tương tác với*).
+- Hạ nguồn: [§7](#7-forum-support-before-during-and-after-review) (*hỗ trợ thanh tra, pháp y, và theo dõi*); [§5](#interim-protection) (*Bảo vệ tạm*); [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*cửa sổ mục tiêu và sàn thời hạn*)); [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*đường dẫn tiếp cận được*)); [cảnh ứng dụng Chương Tám–Mười Một](../../core_10.005_application_vignettes.md); [Điều XXIV-D](core_06_rights_part_d.md) (*cùng biên ngoài như cửa sổ khôi-tranh biện mặc định*).
 - Trụ Tứ diện: **kịp thời** (cưỡng cắt ngang); **tham gia** và **giám sát** (tiếp nhận tiếp cận được và mốc đã công bố). Mục tiêu sơ cấp: **Hưng thịnh** và **Liên tục**.
-- Đọc cùng: gia đình đo Kịp thời (*Giải quyết kịp thời và kỷ luật chống trì hoãn và đường giải*); [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination); [Giải quyết kịp thời](core_05_band_accountability.md#timely-resolution-constitutional); [Chiếm đường dẫn giải quyết](core_05_band_accountability.md#capture-of-resolution-pathways); [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency).
-- Cửa quản trị có trách nhiệm (không vận hành): Tuyên bố bước tiếp ràng buộc: [Tuyên bố quản trị có trách nhiệm mang tính vận hành (Điều XXV-C)](core_06_rights_part_d.md#operative-steward-statement-delay). Con trỏ hỗ trợ không thể thu hẹp nó.
+- Đọc cùng: gia đình đo Kịp thời (*Giải quyết kịp thời và kỷ luật chống trì hoãn và đường giải*); [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination); [Giải quyết kịp thời](../../core_05.035_band_accountability.md#timely-resolution-constitutional); [Chiếm đường dẫn giải quyết](../../core_05.035_band_accountability.md#capture-of-resolution-pathways); [Hiệu quả hiến pháp](../../core_05.040_band_continuity.md#constitutional-efficiency).
+- Cửa quản trị có trách nhiệm (không vận hành): Tuyên bố bước tiếp ràng buộc: [Tuyên bố quản trị có trách nhiệm mang tính vận hành (Điều XXV-C)](core_06_rights_part_d.md). Con trỏ hỗ trợ không thể thu hẹp nó.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Định nghĩa · Đánh giá · Tuân thủ</span></strong></summary>
 
-- [Giải quyết kịp thời](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [Giải quyết kịp thời](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [Chiếm đường dẫn giải quyết](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [Chiếm đường dẫn giải quyết](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [Hiệu quả hiến pháp](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -823,7 +823,7 @@ Mục này triển khai **Điều XXV-C** (*Giải quyết kịp thời và sàn
       - tổn thương rào tham gia trong bối cảnh bất đối xứng-phụ-thuộc;
       - rà ô tác động **Trục Vi phạm s = 7, 8, hoặc 9** Chương Tám cuối; hoặc
       - chỉ định **Chương Mười** khớp nơi áp.
-    - Kỳ vọng: **bảo vệ tạm** hợp pháp phải có sẵn mà không chờ nội dung đầy; tiếp nhận, xác nhận, và bảo toàn bằng chứng phải bắt đầu **trong vài ngày**, không tuần, trừ khi [Bất khả kháng](core_05_band_accountability.md#force-majeure-constitutional) hoặc ràng buộc an toàn có hồ sơ ngăn.
+    - Kỳ vọng: **bảo vệ tạm** hợp pháp phải có sẵn mà không chờ nội dung đầy; tiếp nhận, xác nhận, và bảo toàn bằng chứng phải bắt đầu **trong vài ngày**, không tuần, trừ khi [Bất khả kháng](../../core_05.035_band_accountability.md#force-majeure-constitutional) hoặc ràng buộc an toàn có hồ sơ ngăn.
   - **Bậc B — tác động quyền có trọng, chưa sắp xảy**
     - Phạm vi hại: tổn thương quyền, quỹ đạo, hoặc thể chế có trọng có nghĩa ngay, nhưng chưa phải hại đang chạy cấp của mức khẩn Bậc A.
     - Ví dụ:
@@ -856,7 +856,7 @@ Mục này triển khai **Điều XXV-C** (*Giải quyết kịp thời và sàn
     - Kỳ vọng: đường thủ tục đơn giản nhất; quy trình diễn đàn hình thức có thể tối thiểu hoặc miễn nơi không quyền ngoài bị kéo; quy tắc chống chơi và chống trì hoãn chỉ áp nơi lợi ích hiến pháp ngoài bị kéo.
 <a id="urgency-classification-and-time-scale"></a>
 - **Phân loại mức khẩn và thang thời gian:** Nhãn A/B/C/L/P là phát hiện mức khẩn và tính trọng yếu của tranh. Nâng cấp họ-diễn-đàn [§5](#5-escalation-and-certification), bên thêm, phối hợp xuyên biên, hoặc sổ Chương Mười **không** tự đưa việc sang bậc mức khẩn khác. Những sự kiện đó có thể dài cửa sổ giai đoạn sau (**Câu hỏi 1** đến giải tích hợp) trên thang thời gian đã công bố dài hơn, miễn tiếp nhận, bảo toàn bằng chứng, và mọi **bảo vệ tạm** đòi vẫn ở sàn của bậc đã phân loại. Dùng đồng hồ bậc chậm hơn làm thế cho phát hiện đó là không tuân thủ. Một [Xác định tính trọng yếu](core_05_band_oversight.md#materiality-determination) mới được đòi trước khi chính nhãn mức khẩn đổi — thường **lên** **Bậc A** khi hại trở nên sắp xảy hoặc khi rà **Trục Vi phạm s = 7, 8, hoặc 9** Chương Tám cuối hay chỉ định **Chương Mười** khớp là lợi hại.
-- **Mốc giai đoạn chuỗi:** Với tranh định tuyến qua **Chương Tám đến Mười Một**, bên tiếp nhận phải công bố cửa sổ mặc định hữu tri tiếp cận được cho mỗi giai đoạn, chia tỷ lệ theo bậc. Bảng sàn số sống ở [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) và phải khít trong biên ngoài mục này:
+- **Mốc giai đoạn chuỗi:** Với tranh định tuyến qua **Chương Tám đến Mười Một**, bên tiếp nhận phải công bố cửa sổ mặc định hữu tri tiếp cận được cho mỗi giai đoạn, chia tỷ lệ theo bậc. Bảng sàn số sống ở [CF-11.3.1](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md) và phải khít trong biên ngoài mục này:
   1. lối vào diễn đàn và tiếp nhận;
   2. bảo toàn bằng chứng;
   3. phát hiện đã xác minh **Câu hỏi 1** và mở **hồ sơ quỹ đạo** dưới **Chương Tám mục 2–3**;
@@ -871,14 +871,14 @@ Mục này triển khai **Điều XXV-C** (*Giải quyết kịp thời và sàn
   - **Bậc L:** nhiều nhất **bốn tháng**;
   - **Bậc P:** nhiều nhất **sáu tháng**.
   Vượt biên ngoài của bậc mà không gia hạn có hồ sơ đó là không tuân thủ. Hoãn vô hạn là không tuân thủ nơi lợi ích hiến pháp còn chưa giải.
-- **Khôi-tranh biện sau kiềm khẩn:** Cùng biên ngoài là cửa sổ mặc định để khôi thông báo và tranh biện sau biện pháp khẩn [**Điều XXIV-D**](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) đã hoãn chúng. Cửa sổ chạy từ đầu biện pháp, hoặc từ khi thông báo hoặc tranh biện bị hoãn, cái nào sớm hơn. Hoãn khẩn thông báo hoặc tranh biện là **Bậc A** trừ khi chỉ mức-khẩn-thấp hơn có hồ sơ được ghi. Tiếp quá biên là chỉ tiếp **Điều XXIV-D**, không phải đồng hồ mới.
+- **Khôi-tranh biện sau kiềm khẩn:** Cùng biên ngoài là cửa sổ mặc định để khôi thông báo và tranh biện sau biện pháp khẩn [**Điều XXIV-D**](core_06_rights_part_d.md) đã hoãn chúng. Cửa sổ chạy từ đầu biện pháp, hoặc từ khi thông báo hoặc tranh biện bị hoãn, cái nào sớm hơn. Hoãn khẩn thông báo hoặc tranh biện là **Bậc A** trừ khi chỉ mức-khẩn-thấp hơn có hồ sơ được ghi. Tiếp quá biên là chỉ tiếp **Điều XXIV-D**, không phải đồng hồ mới.
 - **Sàn chống trì hoãn:** Các điều sau không tuân thủ nơi chúng vô hiệu quyền, biện pháp khắc phục, hoặc bảo vệ kịp một cách dự đoán được:
   - tồn đọng thiết kế, thiếu tài trợ mãn, hoặc tiếp nhận không vào được đánh bại lối vào thực tiễn **Điều XIII-B** (*Quyền tranh biện, rà soát, và biện pháp khắc phục*);
   - chế độ trì hoãn thiết kế để kiệt người tuyên;
   - trì hoãn tự tạo, chồng thủ tục, mua diễn đàn, hoặc mảnh hồ sơ dùng kéo dài giải không biện minh mốc;
   - coi cáo như đầu vào quỹ đạo đã xác minh để mua thời gian ([Chương Tám §3.1](core_08_standing_assessment.md#verified-inputs-for-standing));
-  - [Chiếm đường dẫn giải quyết](core_05_band_accountability.md#capture-of-resolution-pathways) qua trì hoãn, độ mờ, hoặc thiên vị người giải;
-  - tuyên hiệu quả trái [§12.2 Hiệu quả hiến pháp](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) Chương Một mà:
+  - [Chiếm đường dẫn giải quyết](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) qua trì hoãn, độ mờ, hoặc thiên vị người giải;
+  - tuyên hiệu quả trái [§12.2 Hiệu quả hiến pháp](core_01_c_stewardship_capacity_principles.md) Chương Một mà:
     - bỏ kiểm sự kiện;
     - phạt bên sai;
     - đưa sửa không khớp hại; hoặc
@@ -894,7 +894,7 @@ Mục này triển khai **Điều XXV-C** (*Giải quyết kịp thời và sàn
 
 - Thượng nguồn: [§1](#1-purpose-and-role) (*kỳ vọng độc lập, khả năng tranh biện, và truy vết*); [§2](#2-default-venue-and-primary-stakes) (*định tuyến lợi hại chính và tiếp nhận*); [§4](#4-forum-family-definitions) (*họ diễn đàn giữ năng lực này*); [§5](#5-escalation-and-certification) (*nâng cấp và chứng nhận dựa hỗ trợ tranh biện được*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*đồng hồ bậc và kỷ luật chống trì hoãn*).
 - Hạ nguồn: [§5](#interim-protection) (*Bảo vệ tạm trong khi công hỗ trợ tiến*).
-- Đọc cùng: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*Hỗ trợ pháp y và phân tích diễn đàn*); **CF-9** (*Dịch vụ điều tra độc lập và giao diện truy tố*)); [Điều XIII-B: Quyền tranh biện, rà soát, và biện pháp khắc phục](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Điều XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Kiểm toán, minh bạch, và xác minh độc lập*).
+- Đọc cùng: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*Hỗ trợ pháp y và phân tích diễn đàn*); **CF-9** (*Dịch vụ điều tra độc lập và giao diện truy tố*)); [Điều XIII-B: Quyền tranh biện, rà soát, và biện pháp khắc phục](core_06_rights_part_c.md); [Điều XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Kiểm toán, minh bạch, và xác minh độc lập*).
 
 </details>
 
@@ -921,7 +921,7 @@ Họ diễn đàn phải duy trì hoặc lấy lối vào hỗ trợ **độc l�
 
 **Tệp trước (vẫn tiếng Anh):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**Tệp tiếp theo (vẫn tiếng Anh):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**Tệp tiếp theo (vẫn tiếng Anh):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 
 **Nguyên bản ràng buộc:** [core_11_forum.md](../../core_13_forum.md)
 

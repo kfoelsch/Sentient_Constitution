@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
 - بالائی: [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ اصولی تہہ کی وضاحت [تمہید §1](core_00_preamble.md#flourishing) پر۔
-- زیریں: اصول: [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)؛ [§3 ناقابلِ سمجھوتہ اصولی پابندیاں: حفاظت اور سچائی](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth)؛ [§4 اعتماد](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)؛ [§11.1.5 آئینی نتیجہ دعووں کی ضبط](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)؛ [آئینی مقصد کی تحلیل](#flourishing-aim-decomposition)؛ چوکڑی کی پٹی فائلیں جہاں **شگفتگی** [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ) کے مطابق بنیادی مقصد ہے۔
+- زیریں: اصول: [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md)؛ [§3 ناقابلِ سمجھوتہ اصولی پابندیاں: حفاظت اور سچائی](core_01_a_values_principles.md)؛ [§4 اعتماد](core_01_a_values_principles.md)؛ [§11.1.5 آئینی نتیجہ دعووں کی ضبط](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)؛ [آئینی مقصد کی تحلیل](#flourishing-aim-decomposition)؛ چوکڑی کی پٹی فائلیں جہاں **شگفتگی** [باب پنجم قطب نما](core_05__definitions_home.md#باب-پنجم-قطب-نما-اور-تعریف-کا-نقشہ) کے مطابق بنیادی مقصد ہے۔
 - ساتھ پڑھیں: [بہبود](../../core_05.040_band_continuity.md#wellbeing)، [حفاظت (پابندی)](../../core_05.040_band_continuity.md#safety-constitutional-constraint)، [سچائی (آئینی پابندی)](../../core_05.050_band_oversight.md#truth-constitutional-constraint)، [اعتبار](../../core_05.040_band_continuity.md#trustworthiness)، [بامعنی فاعلیت](../../core_05.055_band_participation.md#meaningful-agency)، [متبادل اشاروں کا انحراف](../../core_05.050_band_oversight.md#proxy-divergence)، [نظام پر قبضہ](../../core_05.040_band_continuity.md#system-capture)، [استمرار (آئینی مقصد)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (جوڑا مقصد — کوئی ایک دوسرے کی قیمت پر نہیں پکڑی جا سکتی)، [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ (اس مقصد کا جواز فریم — پانچواں جزو نہیں)، اور شگفتگی پیمائش خاندان۔
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کے تحت جائزہ لیں، [مادی داؤ](core_00_preamble.md#material-stake) کے مطابق پیمانہ۔
-  - دعویٰ کردہ شگفتگی نتائج کو [اجزائے ترکیبی](#flourishing-aim-decomposition) شرائط اور ان نتائج سے باندھیں جو شعوری وجود حقیقتاً تجربہ کرتے ہیں، باب چہارم اور [باب یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) کے تحت۔
+  - دعویٰ کردہ شگفتگی نتائج کو [اجزائے ترکیبی](#flourishing-aim-decomposition) شرائط اور ان نتائج سے باندھیں جو شعوری وجود حقیقتاً تجربہ کرتے ہیں، باب چہارم اور [باب یکم §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) کے تحت۔
   - ہمیشہ [استمرار (آئینی مقصد)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) کے ساتھ پڑھیں: قلیل مدتی نفع جو لمبی مدت کے استحکام، لچک، یا ماحولیاتی دیانت کو پیش بینی سے کمزور کرے **شگفتگی** ہارتا ہے جب دونوں مقاصد ساتھ جانچے جائیں۔
 <a id="flourishing-constitutional-c"></a>
 - C: عدمِ اطاعت جب:
   - ایک تعمیراتی حصہ زیادہ سے زیادہ کیا جائے جبکہ سچائی، حفاظت، اعتبار، یا فاعلیت کھوکھلی ہو؛
   - شگفتگی کے دعوے باب چہارم کے تحت آئینی نتائج تک سراغ نہ لگ سکیں؛ یا
-  - **شگفتگی** ایسے انداز میں پکڑی جائے جو [استمرار (آئینی مقصد)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) کو مادی طور پر ہرا دے بغیر واضح اجازت [باب یکم §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) کے تحت۔
+  - **شگفتگی** ایسے انداز میں پکڑی جائے جو [استمرار (آئینی مقصد)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) کو مادی طور پر ہرا دے بغیر واضح اجازت [باب یکم §6](core_01_b_interaction_interpretation.md) کے تحت۔
 
 ---
 

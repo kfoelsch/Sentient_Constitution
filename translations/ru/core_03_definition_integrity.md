@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Исход: [Глава третья, раздел 2 — Несоответствие из наблюдаемого поведения системы](#2-несоответствие-из-наблюдаемого-поведения-системы); [Глава вторая, §2 Требование целостности определения](core_02_definition_structure.md#2-требование-целостности-определения).
-- Назначение: [Глава четвёртая, раздел 2 — Требование прослеживаемости определения](core_04_burden_traceability_verification.md#2-требование-прослеживаемости-определения); [Глава девятая — Сертификация согласования системы](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Глава десятая — Модель вклада, нарушения и траектории](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Глава одиннадцатая — Эффекты траектории и интеграция](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Конституционный компас и карта группировок](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- Назначение: [Глава четвёртая, раздел 2 — Требование прослеживаемости определения](core_04_burden_traceability_verification.md#2-требование-прослеживаемости-определения); [Глава девятая — Сертификация согласования системы](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Глава десятая — Модель вклада, нарушения и траектории](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Глава одиннадцатая — Эффекты траектории и интеграция](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Конституционный компас и карта группировок](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Читать вместе с: [Профиль находки несоответствия](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — канонический дом O/M/A/C для полей профиля; [Конституционная тетрада](core_00_preamble.md#constitutional-tetrad); [Две конституционные цели](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 Операционные ограничения
 
-Несоответствие может также находиться против операционных ограничений в корпусе совместной реализации. Профили находок по умолчанию и то, как они присоединяются к этим находкам, обрабатываются там — не в этой главе. См. [CJS-3.1 Конституционный компас и карта группировок](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+Несоответствие может также находиться против операционных ограничений в корпусе совместной реализации. Профили находок по умолчанию и то, как они присоединяются к этим находкам, обрабатываются там — не в этой главе. См. [CJS-3.1 Конституционный компас и карта группировок](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

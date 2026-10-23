@@ -49,7 +49,7 @@
 | **4 — 安全限度** | 真实安全限度被允许；借口性阻断不被允许 | [§4](#4-受安全约束的可观察性与核验规则) |
 | **5 — 什么算数** | 证据必须真实、完整、独立，并随时间维持 | [§5](#5-合规证据标准) |
 
-**直白语言可及性。** [第一章 §3.4 — 直白语言可及性尽责管理义务](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)适用于感知者为行使权利、质疑决定或核验合规所使用的治理、裁决性与运行材料。直白语言**不**改变或减低第二至四章所要求者。若直白语言版本与此处的定义或核验规则不一致，以那些规则为准。使用行话、堆叠的复杂性或不透明来阻断[可质疑性](../../core_05.035_band_accountability.md#contestability)或 [Article XVI：审计、透明与独立核验](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)通路，构成本章与**第一章 §3.4**下的不合规。
+**直白语言可及性。** [第一章 §3.4 — 直白语言可及性尽责管理义务](core_01_a_values_principles.md)适用于感知者为行使权利、质疑决定或核验合规所使用的治理、裁决性与运行材料。直白语言**不**改变或减低第二至四章所要求者。若直白语言版本与此处的定义或核验规则不一致，以那些规则为准。使用行话、堆叠的复杂性或不透明来阻断[可质疑性](../../core_05.035_band_accountability.md#contestability)或 [Article XVI：审计、透明与独立核验](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)通路，构成本章与**第一章 §3.4**下的不合规。
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 定义可追溯性要求
@@ -122,7 +122,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第四章，第 3 节 — 可追溯性的可观察性要求](#3-可追溯性的可观察性要求)；[第一章，第 6.2 节 — 认识披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)。
+- 上游：原则：[第四章，第 3 节 — 可追溯性的可观察性要求](#3-可追溯性的可观察性要求)；[第一章，第 6.2 节 — 认识披露约束](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)。
 - 下游：[第四章，第 5 节 — 合规证据标准](#5-合规证据标准)；[corpus_systems.md](../../corpus_systems.md)，**CS-2 — 信息类型与处理**，以及 **CS-5** — 操作性密码学、凭证与信息类型处理。
 - 一并阅读：[第五章聚类定义（可预见性勤勉）](../../core_05.050_band_oversight.md#foreseeability) — 在合理可预见条件下可预见地阻止核验的设计选择，不论所声称的安全理由为何，即不合规；[第五章 真理（宪法约束）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)与[第五章 安全（约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint) — 密码学与信息类型处理不得取代第 **2**、**3** 或 **5** 节；凡环境隔离约束具有实质性之处，适用 **Articles VII-A**、**VII-B**、**XVI-A** 与 **XVII-A**。
 
@@ -158,7 +158,7 @@
 
 - 上游：[第四章，第 1 节至第 4 节](#1-排他执行与负担分配)；[第二章，§1 — 宗旨与角色](core_02_definition_structure.md#1-宗旨与角色)；[第二章，§2 定义完整性要求](core_02_definition_structure.md#2-定义完整性要求)；[第二章，§3 跨定义栈的一致性](core_02_definition_structure.md#3-跨定义栈的一致性)；[第三章，第 1 节 — 定义完整性与反规避约束](core_03_definition_integrity.md#1-定义完整性与反规避约束)；[第三章，第 2 节 — 来自可观察系统行为的不合规](core_03_definition_integrity.md#2-来自可观察系统行为的不合规)；[第三章，§2.6 不确定性完整性与不利用约束](core_03_definition_integrity.md#26-不确定性完整性与不利用约束) — 实质性定义与不合规规则；**§4** 仅陈述证据层要求，不重述那些规则。
 - 下游：[第十章 — 贡献、违规与轨迹模型](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)。
-- 一并阅读：[第四章，第 2 节 — 定义可追溯性要求](#2-定义可追溯性要求) — 未能调用或正确适用任何一项具实质性要求的**第五章**定义，使相关评价、证据与合规判定全部失效；[第一章，§6 — 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)，凡缩放影响感知者福祉与长时域稳定之间的权衡之处；[第五章 安全（约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[第五章 真理（宪法约束）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)，以及[第五章 认识完整性](../../core_05.050_band_oversight.md#epistemic-integrity) — 对经验、预测或因果主张的科学知情证据对齐。
+- 一并阅读：[第四章，第 2 节 — 定义可追溯性要求](#2-定义可追溯性要求) — 未能调用或正确适用任何一项具实质性要求的**第五章**定义，使相关评价、证据与合规判定全部失效；[第一章，§6 — 过程冲突解决](core_01_b_interaction_interpretation.md)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)，凡缩放影响感知者福祉与长时域稳定之间的权衡之处；[第五章 安全（约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[第五章 真理（宪法约束）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)，以及[第五章 认识完整性](../../core_05.050_band_oversight.md#epistemic-integrity) — 对经验、预测或因果主张的科学知情证据对齐。
 
 </details>
 
@@ -174,7 +174,7 @@
 - 是**可观察的**、**可核验的**、相对所要求范围**完整的**、跨时间**持续的**，并且严格性**充分**、与系统影响、依赖与风险相称，以经受独立审计与对抗性检验
 - 凡可合理达成之处使用**独立核验**；缺失必须在相称性约束下被正当化
 - 遵守**第 4 节**对证据生成、披露与核验的约束，包括凡适用之处的密码学与信息类型处理
-- 凡宪法价值或约束在同一评价中冲突之处，与[第一章，§6 — 过程冲突解决](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)保持一致
+- 凡宪法价值或约束在同一评价中冲突之处，与[第一章，§6 — 过程冲突解决](core_01_b_interaction_interpretation.md)保持一致
 - 对合规、分类或治理具有实质性的**经验**、**预测**或**因果**主张，凡相称之处反映**科学完整性** — 可检验或可审查的方法，已记录的假定与限度，凡它们影响决定之处不压制空结果或失败复现，以及结论可随新证据而修订
 
 **下列各项未满足第 1 节下的举证责任：**

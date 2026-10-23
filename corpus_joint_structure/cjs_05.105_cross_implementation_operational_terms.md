@@ -356,7 +356,7 @@ Use this compass before applying any **oDef** / **CJS-5.105 (*operational cluste
 1. This compass and the constitutional bands below.
 2. The constitutional band file for the relevant Tetrad leg, **Continuity** band, or **Integrative** band.
 3. **CJS-0.105 §1** (*Topic router*) mandatory read-with when a topic-router row applies.
-4. Individual **oDef** OP terms (pinned cluster floor first, then sub-rules).
+4. Individual **oDef** OP terms (pinned cluster minimum first, then sub-rules).
 5. Where a finding is **non-compliant** against an **oDef** rule that applies, optional [Non-Compliance Finding Profile](../core_05.035_band_accountability.md#non-compliance-finding-profile) metadata attaches **to that finding** (not to a sentient). Start from the cluster map's **Default profile** for the cluster that applies. Change it only when the facts of the case call for it, and record any change in the profile's Assessment part. Constitutional frame: [Chapter Three, section 3](../core_03.000_definition_integrity.md#3-non-compliance-finding-profiles).
 
 **Constitutional bands**

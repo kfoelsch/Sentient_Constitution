@@ -470,7 +470,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- اپ اسٹریم: [§3](#3-کون-سا-نظام-اور-ادارہ-جاتی-چارٹر-بیان-کرنا-ضروری-ہے); [باب آٹھ §2 چار سیٹوں والی آئینی منزل](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2)۔
+- اپ اسٹریم: [§3](#3-کون-سا-نظام-اور-ادارہ-جاتی-چارٹر-بیان-کرنا-ضروری-ہے); [باب آٹھ §2 چار سیٹوں والی آئینی منزل](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2)۔
 - بہاو:
   - [باب آٹھ §5 شائع شدہ تعیناتی، آسامی، اور متبادل](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5)؛
   - [باب نویں حصہ B §6.1.1 سرٹیفیکیشن میں چار نشستیں۔](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1)؛
@@ -500,7 +500,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 سیٹیں کیا ہیں، اور وہ کیوں موجود ہیں۔
 
-ہر [مادی طور پر پابند ایکٹ](../../core_05.035_band_accountability.md#materially-binding-act) چار ملازمتیں ہیں، اور [باب آٹھ §2 چار سیٹوں والی آئینی منزل](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) انہیں الگ رکھتا ہے:
+ہر [مادی طور پر پابند ایکٹ](../../core_05.035_band_accountability.md#materially-binding-act) چار ملازمتیں ہیں، اور [باب آٹھ §2 چار سیٹوں والی آئینی منزل](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) انہیں الگ رکھتا ہے:
 
 - **[ابتدائی نشست](../../core_05.035_band_accountability.md#initiating-seat):** درخواست کرنے، تجویز کرنے، کام کرنے، یا اس کا دعوی کرکے ایکٹ کا آغاز کرتا ہے۔
 - **[سیٹ کی تصدیق کریں یا اجازت دیں۔](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** ثبوت اور اتھارٹی کی جانچ پڑتال کرتا ہے، پھر اس عمل کی تصدیق، اجازت، شرائط، یا انکار کرتا ہے۔

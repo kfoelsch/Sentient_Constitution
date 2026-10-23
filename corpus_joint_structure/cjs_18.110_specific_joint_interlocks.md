@@ -92,10 +92,10 @@ Shared operational clusters (**oDef.*n***, same as **CJS-5.105 (*operational clu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [CJS-18.110 §1.1 Composition floor](#cjs-18110-11-composition-floor); [CJS-18.110 §1.2 Attachment publication](#cjs-18110-12-attachment-publication).
+- Downstream: [CJS-18.110 §1.1 Composition minimum](#cjs-18110-11-composition-minimum); [CJS-18.110 §1.2 Attachment publication](#cjs-18110-12-attachment-publication).
 - Read with:
   - **CJS-18.110 §1** (*Hybrid delegated authority (delegated binding bodies)*);
-  - **CJS-18.110 §1.1** (*Composition floor*);
+  - **CJS-18.110 §1.1** (*Composition minimum*);
   - **CJS-18.110 §1.2** (*Attachment publication*);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*).
@@ -105,14 +105,14 @@ Shared operational clusters (**oDef.*n***, same as **CJS-5.105 (*operational clu
 
 <br>
 
-*In plain terms: this package covers hybrid decision bodies for institutions and forums in two steps — **CJS-18.110 §1.1** (*Composition floor*) says who must be on the body; **CJS-18.110 §1.2** (*Attachment publication*) says what the published rules must spell out about how long members serve. Both steps must be satisfied.*
+*In plain terms: this package covers hybrid decision bodies for institutions and forums in two steps — **CJS-18.110 §1.1** (*Composition minimum*) says who must be on the body; **CJS-18.110 §1.2** (*Attachment publication*) says what the published rules must spell out about how long members serve. Both steps must be satisfied.*
 
 A hybrid design that names home and rotating roles but omits **CJS-18.110 §1.2** (*Attachment publication*) publication mechanics does not satisfy **CJS-18.110 §1** (*Hybrid delegated authority (delegated binding bodies)*). Naming the mix is not enough; the published term rules have to be there too.
 
-- [CJS-18.110 §1.1](#cjs-18110-11-composition-floor) (*Composition floor*)
+- [CJS-18.110 §1.1](#cjs-18110-11-composition-minimum) (*Composition minimum*)
 - [CJS-18.110 §1.2](#cjs-18110-12-attachment-publication) (*Attachment publication*)
 
-### CJS-18.110 §1.1 Composition floor
+### CJS-18.110 §1.1 Composition minimum
 
 
 *In plain terms: a group that makes binding decisions cannot be all long-serving insiders or all newcomers. It must mix stable "home" members with rotating members — and home members must usually be the minority when the group decides together.*
@@ -120,7 +120,7 @@ A hybrid design that names home and rotating roles but omits **CJS-18.110 §1.2*
 **Who this covers**
 
 - **Institution decision bodies** — committees, divisions, and similar bodies below a parent institution that make binding decisions, within the **Class C and above** applicability of **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*). Owner detail: **CI-9.210 §3** (*Delegated subunits, institutional design class, and attachment discipline*). Router topic: **CJS-R01** in **CJS-0.105 §1** (*Cross-file routing*).
-- **Forum chambers and panels** — chambers, divisions, and designated panels under **CF-13.405 §5** (*Chamber creation, identification, and family boundary*) through **CF-13.405 §8** (*Specialist and technical chamber discipline*). Router topic: **CJS-R02** in **CJS-0.105 §1** (*Cross-file routing*). The minimum **Class C** institutional design floor in **CF-13.405 §6** (*Chamber authority composition and service mechanics*) applies even where other governed systems are below Class C.
+- **Forum chambers and panels** — chambers, divisions, and designated panels under **CF-13.405 §5** (*Chamber creation, identification, and family boundary*) through **CF-13.405 §8** (*Specialist and technical chamber discipline*). Router topic: **CJS-R02** in **CJS-0.105 §1** (*Cross-file routing*). The minimum **Class C** institutional design minimum in **CF-13.405 §6** (*Chamber authority composition and service mechanics*) applies even where other governed systems are below Class C.
 
 **The hybrid mix required**
 
@@ -135,7 +135,7 @@ Every covered body must use a **hybrid design** that includes both:
 
 **When one member may decide alone.** If the rules lawfully allow a single member or sole officer to decide, the overall workflow must still include both continuity and rotation somewhere in the path to that decision.
 
-**Emergencies only.** An entirely home-based or entirely rotating workflow fails this rule for ordinary binding decisions. A temporary departure is permitted only to the extent authorized by the primary owner's continuity rules and consistent with [Emergency and Contingency](../core_05.040_band_continuity.md#emergency-and-contingency-constitutional), [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden), and [Chapter Eight §7 Emergency and Urgent Action](../core_08.000_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action). A published plan alone does not establish an emergency or authorize a departure. The applicable emergency predicate, necessity, proportionality, default expiry, independent review, continuation burden, notice and challenge restoration, and restoration or rollback requirements must all be met. A staffing shortage, deadline, release target, or reputational concern is not by itself an emergency. Emergency action preserves seat ownership and class-scaled separation, including the prohibition on any merger of the four seats for Class A; an actor may not verify its own continuation, hold a conflicted record, or hear the challenge to its own act.
+**Emergencies only.** An entirely home-based or entirely rotating workflow fails this rule for ordinary binding decisions. A temporary departure is permitted only to the extent authorized by the primary owner's continuity rules and consistent with [Emergency and Contingency](../core_05.040_band_continuity.md#emergency-and-contingency-constitutional), [Chapter Thirteen §6.1 Emergency measures and continuation burden](../core_13.000_forum.md#61-emergency-measures-and-continuation-burden), and [Chapter Eight §7 Emergency and Urgent Action](../core_08.000_functional_independence_separation_of_duties.md#7-emergency-and-urgent-action). A published plan alone does not establish an emergency or authorize a departure. The applicable emergency predicate, necessity, proportionality, default expiry, independent review, continuation burden, notice and challenge restoration, and restoration or rollback requirements must all be met. A staffing shortage, deadline, release target, or reputational concern is not by itself an emergency. Emergency action preserves seat ownership and class-scaled separation, including the prohibition on any merger of the four seats for Class A; an actor may not verify its own continuation, hold a conflicted record, or hear the challenge to its own act.
 
 For forums, apply [CF-13.450 §3 Activation triggers](../corpus_forum/cf_13.450_forum_continuity.md#cf-13450-3-activation-triggers), [CF-13.455 §1 Temporary quorum and provisional authority](../corpus_forum/cf_13.455_fallback_operation.md#cf-13455-1-temporary-quorum-and-provisional-authority), and [CF-13.460 Emergency adjudication](../corpus_forum/cf_13.460_emergency_adjudication.md), including independent review during emergency mode and restoration and reconciliation. Document and carry out the return to the ordinary hybrid workflow when the emergency conditions clear or lawful continuation fails. Retrospective review and disclosure remain governed by [Article XXVI-A Retrospective Review and Disclosure](../core_06.025_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure); restrictions must meet [Article XX-B Restriction Floors](../core_06.020_rights_part_d.md#article-xx-b-restriction-floors). Where constitutional-system continuity is implicated, apply [CS-6.345 §8 Governance continuity, crisis communications, and exercises (high-impact systems)](../corpus_systems/cs_06.345_design_testing_verification_deployment.md#cs-6345-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems).
 
@@ -144,7 +144,7 @@ For forums, apply [CF-13.450 §3 Activation triggers](../corpus_forum/cf_13.450_
 ### CJS-18.110 §1.2 Attachment publication
 
 
-*In plain terms: once the hybrid mix is required (**CJS-18.110 §1.1** (*Composition floor*)), the published rules must spell out how long rotating members serve, how home-member terms work, and who may not change those durations in secret.*
+*In plain terms: once the hybrid mix is required (**CJS-18.110 §1.1** (*Composition minimum*)), the published rules must spell out how long rotating members serve, how home-member terms work, and who may not change those durations in secret.*
 
 Where **CJS-18.110 §1** (*Hybrid delegated authority (delegated binding bodies)*) applies, the document must publish:
 
@@ -179,7 +179,7 @@ The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misl
 
 A trustworthiness claim is non-compliant if one implementation file gives reassuring signals while another implementation file in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
 
-For implementation routing, **Class A**, **Class B**, and **Class C** systems follow [corpus_systems.md](../corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310 — System classification and handling** and **CS-14.305 — Critical system stewardship** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **CS-9.305 (*System classification machinery*) and CS-9.310** (*System classification machinery*) criteria and limits, apply **Chapter Nine §3** (*Whole-System Certification Evaluation*) evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
+For implementation routing, **Class A**, **Class B**, and **Class C** systems follow [corpus_systems.md](../corpus_systems.md) **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*) and **CS-14.305 — Critical system stewardship** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **CS-9.305 (*System classification machinery*) and CS-9.310** (*System impact classifications*) criteria and limits, apply **Chapter Nine §3** (*Whole-System Certification Evaluation*) evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
 
 Where trust depends on multiple systems, institutions, dependencies, or implementation layers, institutions must maintain a published and auditable map that identifies:
 - the implementation duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;

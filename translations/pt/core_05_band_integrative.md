@@ -10,7 +10,7 @@
 >
 > Contém a **faixa Integrativa do Capítulo Cinco** — definições independentes, semi-independentes e de aglomerado dependente atribuídas à faixa constitucional **Integrativa**. A ordem de leitura e a bússola vivem em [core_05__definitions_home.md](core_05__definitions_home.md#capítulo-cinco-definições-fundacionais).
 >
-> **Anterior (este idioma):** [core_05_band_continuity.md](core_05_band_continuity.md)
+> **Anterior (este idioma):** [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
 >
 > **Próximo (este idioma):** [core_05_band_oversight.md](core_05_band_oversight.md)
 > **Arco de leitura:** termos independentes → semi-independentes → aglomerados dependentes Def.I1
@@ -35,7 +35,7 @@ Esta faixa sustenta definições **Integrativas** de cruzamento de pernas — te
 - a camada do contrato constitucional;
 - termos fundacionais de autorização; e
 - alinhamento de incentivos através de vias de recompensa, integridade de substitutos e liquidação contingente.
-A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.md#materiality-determination) é Integrativa (porta-limiar transversal). Os lares-folha permanecem hoje no arquivo da faixa Supervisão à espera de qualquer realocação posterior. **Disciplina canônica das camadas de governança** ([Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional) versus **Participação Sistêmica das Partes Afetadas**): [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança).
+A **Materialidade** / [Determinação de materialidade](../../core_05.050_band_oversight.md#materiality-determination) é Integrativa (porta-limiar transversal). Os lares-folha permanecem hoje no arquivo da faixa Supervisão à espera de qualquer realocação posterior. **Disciplina canônica das camadas de governança** ([Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional) versus **Participação Sistêmica das Partes Afetadas**): [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança).
 | Aglomerado | Seção |
 |---|---|
 | **Def.I1** | Corpus e pilha de autoridade |
@@ -53,8 +53,8 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origem: [Capítulo Dois §1 — Propósito e papel](core_02_definition_structure.md#1-propósito-e-papel); [Capítulo Dois §2 Exigência de integridade da definição](core_02_definition_structure.md#2-exigência-de-integridade-da-definição); [Capítulo Três §2 — Não conformidade a partir de conduta observável do sistema](core_03_definition_integrity.md#2-não-conformidade-a-partir-de-conduta-observável-do-sistema).
-- Destino: [Capítulo Quatro §§1 e 4 — Execução exclusiva e alocação do ônus; Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#1-execução-exclusiva-e-alocação-do-ônus); [Capítulo Oito — Modelo de contribuição, infração e trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Perfil de achado de não conformidade](core_05_band_accountability.md#non-compliance-finding-profile).
-- Ler com: [Capítulo Um §11.3 Detecção de desalinhamento](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection) e [§11.4 Correção de desalinhamento e resposta à captura](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) — o **desalinhamento constitucional** é divergência de administração responsável e de incentivos; não é um rótulo substituto da **não conformidade**; [Risco residual / desalinhamento](core_05_band_continuity.md#residual-risk--misalignment) — risco residual delimitado depois da mitigação; [Certificação de alinhamento do sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) — ponte de certificação no Capítulo Sete, não o veredito geral de não conformidade.
+- Destino: [Capítulo Quatro §§1 e 4 — Execução exclusiva e alocação do ônus; Padrão de evidência de conformidade](core_04_burden_traceability_verification.md#1-execução-exclusiva-e-alocação-do-ônus); [Capítulo Oito — Modelo de contribuição, infração e trajetória](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Perfil de achado de não conformidade](../../core_05.035_band_accountability.md#non-compliance-finding-profile).
+- Ler com: [Capítulo Um §11.3 Detecção de desalinhamento](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) e [§11.4 Correção de desalinhamento e resposta à captura](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response) — o **desalinhamento constitucional** é divergência de administração responsável e de incentivos; não é um rótulo substituto da **não conformidade**; [Risco residual / desalinhamento](../../core_05.040_band_continuity.md#residual-risk--misalignment) — risco residual delimitado depois da mitigação; [Certificação de alinhamento do sistema](../../core_05.040_band_continuity.md#system-alignment-certification-constitutional) — ponte de certificação no Capítulo Sete, não o veredito geral de não conformidade.
 
 </details>
 
@@ -71,12 +71,12 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
     A conduta evasiva que estreita o significado pleno, a avaliação ou os requisitos do mundo real de uma definição conta como não conformidade sob o [Capítulo Três](core_03_definition_integrity.md#capítulo-três-integridade-da-definição-evasão-e-não-conformidade). A mesma disciplina aplica-se às obrigações constitucionais fora de uma só definição-folha onde os Capítulos Dois a Quatro governam a interpretação, a evidência e a rastreabilidade.
   - **Fora do âmbito:**
     - o **desalinhamento constitucional** na camada de administração responsável e incentivos (Capítulo Um §11);
-    - [Risco residual / desalinhamento](core_05_band_continuity.md#residual-risk--misalignment) como estado de risco delimitado depois da mitigação;
+    - [Risco residual / desalinhamento](../../core_05.040_band_continuity.md#residual-risk--misalignment) como estado de risco delimitado depois da mitigação;
     - o status de certificação de alinhamento do sistema sob o Capítulo Sete; e
     - os rótulos de casela do eixo de infração do Capítulo Oito (esses classificam achados verificados e não redefinem se uma definição se cumpre).
 <a id="non-compliance-a"></a>
 - **Como medir e avaliar**
-  - **Medida primária:** Materialidade Integrativa — a [Determinação de materialidade](core_05_band_oversight.md#materiality-determination) escala a intensidade do dever sob a [aposta material](core_00_preamble.md#material-stake); não é uma categoria de medição separada.
+  - **Medida primária:** Materialidade Integrativa — a [Determinação de materialidade](../../core_05.050_band_oversight.md#materiality-determination) escala a intensidade do dever sob a [aposta material](core_00_preamble.md#material-stake); não é uma categoria de medição separada.
 
     **Avaliação primária:** Julgue por:
     - conduta observável;
@@ -101,10 +101,10 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Princípios: [Preâmbulo §3.3 disciplina das camadas de governança](core_00_preamble.md#33-camadas-de-governança); [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency).
+- Destino: Princípios: [Preâmbulo §3.3 disciplina das camadas de governança](core_00_preamble.md#33-camadas-de-governança); [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency).
 - Piso titular: [Capítulo Doze: Contrato constitucional, legitimidade, autorização e administração responsável](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Artigo X-C: Participação na governança e titularidade de voto](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Componente de aglomerado: [*Camada do Contrato Constitucional e Escolha constitucional fundacional*](core_05_band_integrative.md#camada-do-contrato-constitucional)
-- Ler com: [Escolha constitucional fundacional](core_05_band_integrative.md#escolha-constitucional-fundacional), [Escolha vinculante das partes afetadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Status e peso das partes afetadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Governança](core_05_band_accountability.md#governance).
+- Ler com: [Escolha constitucional fundacional](core_05_band_integrative.md#escolha-constitucional-fundacional), [Escolha vinculante das partes afetadas](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [Status e peso das partes afetadas](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster), [Governança](../../core_05.035_band_accountability.md#governance).
 - Camada: **Camada do Contrato Constitucional (CCL)** — quem pode governar, por qual mecanismo de legitimidade, sob quais termos duráveis. Distinta da **Participação Sistêmica das Partes Afetadas (SSP)**.
 
 </details>
@@ -129,7 +129,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
     - a participação operativa;
     - o uso do sistema, a marca ou a presença de mercado como tais;
     - a governança ordinária de domínio depois que as estruturas e os processos já estão autorizados; e
-    - o [Peso das partes afetadas](core_05_band_participation.md#stakeholder-weight) ordinário — dar mais voz a quem está mais afetado — usado para fixar votos de fundação ou de reautorização ([Preâmbulo §3.3 disciplina das camadas de governança](core_00_preamble.md#33-camadas-de-governança)).
+    - o [Peso das partes afetadas](../../core_05.055_band_participation.md#stakeholder-weight) ordinário — dar mais voz a quem está mais afetado — usado para fixar votos de fundação ou de reautorização ([Preâmbulo §3.3 disciplina das camadas de governança](core_00_preamble.md#33-camadas-de-governança)).
   - **Lar operativo:** o [Capítulo Doze](../../core_14.000_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship) enuncia as regras vinculantes de autorização, legitimidade e administração responsável desta camada.
   - **Piso de Direitos:** o [Artigo X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Participação na governança e titularidade de voto*) enuncia a titularidade de participação igual que essas regras do Capítulo Doze não devem estreitar.
 <a id="constitutional-contract-layer-a"></a>
@@ -138,7 +138,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 
     **Avaliação primária:**
     - Pergunte se o assunto é uma pergunta da Camada do Contrato Constitucional: autorizar quem governa, por qual mecanismo de legitimidade e sob quais termos duráveis. Essa função marca esta camada — não quão grande, ruidoso ou amplamente usado é o sistema.
-    - Confira o alinhamento constitucional desse contrato: a autoridade pretendida deve coincidir com um [mecanismo de legitimidade documentado](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority), o [piso de igualdade política](../../core_14.000_governance.md#41-entitlement-and-eligibility) onde se aplica a escolha fundacional, e os deveres de administração responsável e do Piso de Direitos que mantêm o poder de governo obrigado a responder sob esta Constituição ([Capítulo Um §11.1 Exigência de alinhamento](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement)).
+    - Confira o alinhamento constitucional desse contrato: a autoridade pretendida deve coincidir com um [mecanismo de legitimidade documentado](../../core_14.000_governance.md#1-authorization-and-legitimacy-of-governing-authority), o [piso de igualdade política](../../core_14.000_governance.md#41-entitlement-and-eligibility) onde se aplica a escolha fundacional, e os deveres de administração responsável e do Piso de Direitos que mantêm o poder de governo obrigado a responder sob esta Constituição ([Capítulo Um §11.1 Exigência de alinhamento](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement)).
     - Aplique o [Preâmbulo §3.3 disciplina das camadas de governança](core_00_preamble.md#33-camadas-de-governança): mantenha a autorização fundacional separada da participação ordinária das partes afetadas dentro de sistemas já autorizados.
     - Não trate o silêncio, o mero uso de um sistema, a presença de mercado ou a marca como o Contrato Constitucional nem como consentimento a ser governado.
 <a id="constitutional-contract-layer-c"></a>
@@ -146,7 +146,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
   - **Falha primária:**
     - tratar a consulta das partes afetadas, a participação operativa, o uso do sistema, a marca, a presença de mercado ou o processo de partes afetadas ponderado por impacto como substituto da autorização constitucional documentada;
     - usar a votação de partes afetadas ponderada por impacto para constituir ou reestruturar de forma durável a autoridade de governo onde a [Escolha constitucional fundacional](core_05_band_integrative.md#escolha-constitucional-fundacional) exige o piso de igualdade política; ou
-    - tratar a autorização constitucional como se eliminasse os deveres de participação das partes afetadas, representação, [Impugnabilidade](core_05_band_accountability.md#contestability) ou [Devido Processo](core_05_band_accountability.md#due-process-constitutional) dentro de sistemas já autorizados ou domínios de decisão delimitados ([Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança)).
+    - tratar a autorização constitucional como se eliminasse os deveres de participação das partes afetadas, representação, [Impugnabilidade](../../core_05.035_band_accountability.md#contestability) ou [Devido Processo](../../core_05.035_band_accountability.md#due-process-constitutional) dentro de sistemas já autorizados ou domínios de decisão delimitados ([Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança)).
 
 ---
 
@@ -157,10 +157,10 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Princípios: [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Resolução de conflitos de processo](#6-process-conflict-resolution).
+- Destino: Princípios: [Capítulo Um §5 Liberdade](core_01_a_values_principles.md#7-freedom-bounded-agency); [6. Resolução de conflitos de processo](core_05_band_integrative.md).
 - Piso titular: [Capítulo Doze Capítulo Um §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility) (*Piso de igualdade política para a escolha constitucional fundacional*; *Piso durável de voz política*); [Artigo X-C: Participação na governança e titularidade de voto](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Componente de aglomerado: [*Camada do Contrato Constitucional e Escolha constitucional fundacional*](core_05_band_integrative.md#camada-do-contrato-constitucional)
-- Ler com: [Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional), [Limites de representação e peso das partes afetadas (escolha vinculante das partes afetadas)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Escolha vinculante das partes afetadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Equidade procedimental](core_05_band_participation.md#procedural-fairness-constitutional).
+- Ler com: [Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional), [Limites de representação e peso das partes afetadas (escolha vinculante das partes afetadas)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Escolha vinculante das partes afetadas](../../core_05.055_band_participation.md#binding-stakeholder-choice-cluster), [Equidade procedimental](../../core_05.055_band_participation.md#procedural-fairness-constitutional).
 - Camada: **Camada do Contrato Constitucional (CCL)**. Distinta da **Participação Sistêmica das Partes Afetadas (SSP)** dentro de sistemas já autorizados.
 
 </details>
@@ -178,9 +178,9 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
     Isto pertence à [Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional).
     - Titular: [Capítulo Doze Capítulo Um §4.1](../../core_14.000_governance.md#41-entitlement-and-eligibility).
     - Ponteiro de camada de direitos: [Artigo X-C](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Participação na governança e titularidade de voto*).
-    - Aplica-se sob [Não exclusão da senciência](core_05_band_participation.md#sentience-non-exclusion).
+    - Aplica-se sob [Não exclusão da senciência](../../core_05.055_band_participation.md#sentience-non-exclusion).
   - **Fora do âmbito:**
-    - as decisões ordinárias de partes afetadas ponderadas por impacto uma vez que um domínio já tem estruturas e processos de governo autorizados — os sencientes afetados obtêm uma voz escalada a quanto estão afetados através da identificação de [Parte afetada](core_05_band_participation.md#stakeholder) e do [Peso das partes afetadas](core_05_band_participation.md#stakeholder-weight) (inclusive as restrições do **Artigo XII** (*Participação Sistêmica das Partes Afetadas, representação e Devido Processo*)), não através de regras de contagem fundacional de peso igual; e
+    - as decisões ordinárias de partes afetadas ponderadas por impacto uma vez que um domínio já tem estruturas e processos de governo autorizados — os sencientes afetados obtêm uma voz escalada a quanto estão afetados através da identificação de [Parte afetada](../../core_05.055_band_participation.md#stakeholder) e do [Peso das partes afetadas](../../core_05.055_band_participation.md#stakeholder-weight) (inclusive as restrições do **Artigo XII** (*Participação Sistêmica das Partes Afetadas, representação e Devido Processo*)), não através de regras de contagem fundacional de peso igual; e
     - as escolhas operativas ou de política rotineiras que não autorizam nem reestruturam de forma durável essa autoridade.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>
@@ -190,18 +190,18 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
     **Avaliação primária:**
     - Trate uma decisão como fundacional quando trata de quem pode governar, por qual mecanismo ou sob quais termos duráveis — não porque um voto ou uma escolha de política tenha um grande efeito de curto prazo.
     - Leia o [Preâmbulo §3.3 disciplina das camadas de governança](core_00_preamble.md#33-camadas-de-governança).
-    - As perguntas fundacionais não podem ser redirecionadas como escolhas ponderadas de alto impacto sob [Limites de representação e peso das partes afetadas (escolha vinculante das partes afetadas)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
-    - Aplique [Não exclusão da senciência](core_05_band_participation.md#sentience-non-exclusion).
+    - As perguntas fundacionais não podem ser redirecionadas como escolhas ponderadas de alto impacto sob [Limites de representação e peso das partes afetadas (escolha vinculante das partes afetadas)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+    - Aplique [Não exclusão da senciência](../../core_05.055_band_participation.md#sentience-non-exclusion).
     - Não dê mais nem menos voz fundacional com base na classe de substrato (tipo biológico, sintético ou digital), na idade de calendário ou na linhagem (ascendência, espécie ou derivação).
-    - Aplique [Equidade procedimental](core_05_band_participation.md#procedural-fairness-constitutional) a qualquer desqualificação invocada contra a participação.
+    - Aplique [Equidade procedimental](../../core_05.055_band_participation.md#procedural-fairness-constitutional) a qualquer desqualificação invocada contra a participação.
 <a id="foundational-constitutional-choice-c"></a>
 <a id="foundational-collective-choice-constitutional-c"></a>
 - **O que deve sustentar-se**
-  - **Falha primária:** redirecionar perguntas fundacionais como escolhas ponderadas de alto impacto sob as regras de [Limites de representação e peso das partes afetadas (escolha vinculante das partes afetadas)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) de um modo que derrote a participação igual na camada de autorização.
+  - **Falha primária:** redirecionar perguntas fundacionais como escolhas ponderadas de alto impacto sob as regras de [Limites de representação e peso das partes afetadas (escolha vinculante das partes afetadas)](../../core_05.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) de um modo que derrote a participação igual na camada de autorização.
   - **Falha secundária:** aninhar a ponderação por impacto dentro do desenho do mecanismo de legitimidade de modo que o mecanismo escape ao piso de igualdade política.
   - **Falha terciária:**
     - uso da perda de trajetória como vetor de desqualificação de voz política durável que falha os testes do *Piso durável de voz política* do Capítulo Doze Capítulo Um §8.1, salvo a retenção final do Capítulo Dez por má conduta anticonstitucional pendente de restituição plena; ou
-    - fatores de peso de participação por classe de substrato, idade de calendário ou linhagem ([Não exclusão da senciência](core_05_band_participation.md#sentience-non-exclusion)).
+    - fatores de peso de participação por classe de substrato, idade de calendário ou linhagem ([Não exclusão da senciência](../../core_05.055_band_participation.md#sentience-non-exclusion)).
 
 ---
 
@@ -212,8 +212,8 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Ler com: [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional), [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency) e [Ônus evitável](core_05_band_continuity.md#avoidable-burden) — garantia constitucional para o rastreio legítimo de recompensa sob o [Capítulo Um §11.1.3 Administração responsável e aplicação pelo operador](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); onde um reclamante justifica a exclusividade por ganhos de capacidade ou eficiência, essas pretensões devem continuar rastreáveis a resultados sob a [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
-- Para inovações com impacto constitucional direto, o benefício público pode avaliar-se usando a [Unidade equivalente de vida (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) como uma medida de magnitude da contribuição sob o Capítulo Oito.
+- Ler com: [Capacidade produtiva](../../core_05.040_band_continuity.md#productive-capacity-constitutional), [Eficiência constitucional](../../core_05.040_band_continuity.md#constitutional-efficiency) e [Ônus evitável](../../core_05.040_band_continuity.md#avoidable-burden) — garantia constitucional para o rastreio legítimo de recompensa sob o [Capítulo Um §11.1.3 Administração responsável e aplicação pelo operador](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application); onde um reclamante justifica a exclusividade por ganhos de capacidade ou eficiência, essas pretensões devem continuar rastreáveis a resultados sob a [§11.1.5 Disciplina de pretensões de resultado constitucional](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
+- Para inovações com impacto constitucional direto, o benefício público pode avaliar-se usando a [Unidade equivalente de vida (LEQU)](../../core_05.055_band_participation.md#lifespan-equivalent-unit-lequ) como uma medida de magnitude da contribuição sob o Capítulo Oito.
 
 </details>
 
@@ -223,7 +223,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 
 - **O que é**
   - **No âmbito:** A regra constitucional para recompensar a invenção, a pesquisa, a construção e a criação que é materialmente nova e socialmente útil — sem deixar que essa recompensa se torne cercamento durável.
-    - Garantia constitucional: sob o [Capítulo Um §11.1.3](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application), a recompensa pode rastrear de forma legítima a [Capacidade produtiva](core_05_band_continuity.md#productive-capacity-constitutional) e a [Eficiência constitucional](core_05_band_continuity.md#constitutional-efficiency); o [Ônus evitável](core_05_band_continuity.md#avoidable-burden) protege contra recompensar o trabalho de preenchimento, a estocagem ou o atrito de cercamento que não serve a nenhuma finalidade constitucional.
+    - Garantia constitucional: sob o [Capítulo Um §11.1.3](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application), a recompensa pode rastrear de forma legítima a [Capacidade produtiva](../../core_05.040_band_continuity.md#productive-capacity-constitutional) e a [Eficiência constitucional](../../core_05.040_band_continuity.md#constitutional-efficiency); o [Ônus evitável](../../core_05.040_band_continuity.md#avoidable-burden) protege contra recompensar o trabalho de preenchimento, a estocagem ou o atrito de cercamento que não serve a nenhuma finalidade constitucional.
     - A recompensa pode reconhecer a contribuição, o ônus de desenvolvimento e a divulgação.
     - Pode incluir exclusão temporária só quando essa exclusão é:
       - estreita;
@@ -231,8 +231,8 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
       - revisável; e
       - justificada.
     - A atribuição não é exclusão; o crédito e a história de fonte podem persistir depois que qualquer exclusão termine.
-    - Aplica-se onde as estruturas de recompensa poderiam afetar o [Bem-estar](core_05_band_continuity.md#wellbeing), a [Segurança (restrição)](core_05_band_continuity.md#safety-constraint), a [Verdade (restrição constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) ou a [Agência significativa](core_05_band_participation.md#meaningful-agency).
-  - **Depende de:** [Necessidade](core_05_band_accountability.md#necessity), [Proporcionalidade](core_05_band_accountability.md#proportionality) e [Aprisionamento sistêmico](core_05_band_continuity.md#systemic-lock-in) — limites constitutivos. Qualquer exclusão deve estar justificada por necessidade e proporcionalidade, e o controle sobre o uso não deve endurecer-se em:
+    - Aplica-se onde as estruturas de recompensa poderiam afetar o [Bem-estar](../../core_05.040_band_continuity.md#wellbeing), a [Segurança (restrição)](../../core_05.040_band_continuity.md#safety-constraint), a [Verdade (restrição constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) ou a [Agência significativa](../../core_05.055_band_participation.md#meaningful-agency).
+  - **Depende de:** [Necessidade](../../core_05.035_band_accountability.md#necessity), [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) e [Aprisionamento sistêmico](../../core_05.040_band_continuity.md#systemic-lock-in) — limites constitutivos. Qualquer exclusão deve estar justificada por necessidade e proporcionalidade, e o controle sobre o uso não deve endurecer-se em:
     - escassez permanente;
     - Aprisionamento sistêmico; ou
     - supressão do reparo, da interoperabilidade, do aprendizado, do trabalho de segurança, da divulgação veraz ou da experimentação a jusante.
@@ -250,13 +250,13 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
     **Avaliação primária:** Avalie as pretensões de recompensa à inovação nesta sequência:
     1. **Identifique a contribuição real:** Avalie o ônus de desenvolvimento, a suficiência de divulgação e o benefício público. A recompensa exige uma contribuição real e divulgação suficiente para a compreensão independente, a auditoria e a implementação posterior — sujeita só a limites temporários justificados.
     2. **Separe a atribuição da exclusão:** Um reclamante pode conservar o crédito, a procedência e o reconhecimento depois que qualquer prazo de exclusão termine. Esses interesses não justificam por si mesmos o controle sobre o reparo, a reutilização, a compatibilidade, a pesquisa, a educação, a migração ou a implementação de interesse público.
-    3. **Teste a necessidade e a proporcionalidade:** Pergunte se a exclusividade é necessária sequer. Pergunte se o mesmo benefício público ou um maior poderia vir através de ferramentas de recompensa menos restritivas. Qualquer exclusão deve ser estreita, delimitada no tempo e revisável sob [Necessidade](core_05_band_accountability.md#necessity) e [Proporcionalidade](core_05_band_accountability.md#proportionality).
+    3. **Teste a necessidade e a proporcionalidade:** Pergunte se a exclusividade é necessária sequer. Pergunte se o mesmo benefício público ou um maior poderia vir através de ferramentas de recompensa menos restritivas. Qualquer exclusão deve ser estreita, delimitada no tempo e revisável sob [Necessidade](../../core_05.035_band_accountability.md#necessity) e [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality).
     4. **Escale ao contexto:** Ajuste a análise por:
        - classe de sistema;
-       - [Dependência](core_05_band_continuity.md#dependency);
+       - [Dependência](../../core_05.040_band_continuity.md#dependency);
        - poder de coordenação;
        - ônus de interoperabilidade; e
-       - [Reversibilidade](core_05_band_continuity.md#reversibility-constitutional).
+       - [Reversibilidade](../../core_05.040_band_continuity.md#reversibility-constitutional).
 
        Quanto mais forte for a dependência, a alavancagem ou a irreversibilidade, mais forte é a presunção contra a exclusão.
     5. **Prefira mecanismos não monopolísticos:** Use prêmio, gravame, licença coletiva, compra pública, acesso obrigatório ou ferramentas semelhantes onde a exclusividade criaria de forma previsível aprisionamento, estocagem anticompetitiva ou dano material a:
@@ -283,12 +283,12 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
     - a pesquisa;
     - o escrutínio veraz; ou
     - a implementação de interesse público.
-  - **Falha secundária:** Exclusão continuada de uma inovação crítica de [Dependência](core_05_band_continuity.md#dependency) sem:
+  - **Falha secundária:** Exclusão continuada de uma inovação crítica de [Dependência](../../core_05.040_band_continuity.md#dependency) sem:
     - estreitamento escalado por classificação;
     - conversão a recompensa que preserva o acesso; ou
     - caducidade sob [corpus_systems.md](../../corpus_systems.md), CS-3 — Classificação e manejo de sistemas.
   - **Falha terciária:**
-    - exclusão que cria [Aprisionamento sistêmico](core_05_band_continuity.md#systemic-lock-in), gargalos anticompetitivos, [Dano](core_05_band_accountability.md#harm) material ou dependência evitável de um só reclamante onde ferramentas de recompensa menos restritivas funcionariam igual ou melhor; ou
+    - exclusão que cria [Aprisionamento sistêmico](../../core_05.040_band_continuity.md#systemic-lock-in), gargalos anticompetitivos, [Dano](../../core_05.035_band_accountability.md#harm) material ou dependência evitável de um só reclamante onde ferramentas de recompensa menos restritivas funcionariam igual ou melhor; ou
     - pretensões de recompensa que descansam em ocultação, divulgação inadequada ou restrição pretextual além do que justificam o Capítulo Um e o Capítulo Seis.
 
 ---
@@ -303,7 +303,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 
 **Contexto semi-independente** (as definições componente ainda podem operar fora do âmbito de invocação conjunta):
 
-- **Invocação conjunta:** onde as estruturas de incentivos, a integridade de substitutos ou a disciplina de liquidação contingente é material sob o [Capítulo Um §11](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture).
+- **Invocação conjunta:** onde as estruturas de incentivos, a integridade de substitutos ou a disciplina de liquidação contingente é material sob o [Capítulo Um §11](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
 - **Âmbito:** onde se cumpre a invocação conjunta, o lar conjunto da família de medição Prestação de contas para se as recompensas, os objetivos e os sinais de governança continuam alinhados com resultados constitucionais — inclusive a integridade de substitutos e a disciplina de liquidação contingente.
 
 **Membros do grupo de temas.** Este grupo compreende:
@@ -323,12 +323,12 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Família de medição Prestação de contas (*Alinhamento de incentivos e integridade de substitutos como medição constitucional*); Princípios: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) (disciplina de captura da tétrade sob o [§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); escalonamento pela [aposta material](core_00_preamble.md#material-stake)); [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [§10 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Regra de camada de princípio: [Capítulo Um §11.1 Exigência de alinhamento](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) e [Capítulo Um §11.2 Indicadores substitutos convenientes e divergência de indicadores substitutos](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence); administração responsável e aplicação pelo operador: [Capítulo Um §11.1.3 Administração responsável e aplicação pelo operador](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) e [§11.1.4 Vias de profundidade de papel e responsabilidade material](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways).
-- Detecção de desalinhamento: [Capítulo Um §11.3 Detecção de desalinhamento](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection).
-- Correção ativa e escalada de captura: [Capítulo Um §11.4 Correção de desalinhamento e resposta à captura](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response).
+- Destino: Família de medição Prestação de contas (*Alinhamento de incentivos e integridade de substitutos como medição constitucional*); Princípios: [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) (disciplina de captura da tétrade sob o [§10](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); escalonamento pela [aposta material](core_00_preamble.md#material-stake)); [Capítulo Sete §3 Avaliação de certificação do sistema inteiro](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [§10 Governança sob disciplina de administração responsável](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Regra de camada de princípio: [Capítulo Um §11.1 Exigência de alinhamento](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement) e [Capítulo Um §11.2 Indicadores substitutos convenientes e divergência de indicadores substitutos](core_01_c_stewardship_capacity_principles.md#192-convenient-proxies-and-proxy-divergence); administração responsável e aplicação pelo operador: [Capítulo Um §11.1.3 Administração responsável e aplicação pelo operador](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) e [§11.1.4 Vias de profundidade de papel e responsabilidade material](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways).
+- Detecção de desalinhamento: [Capítulo Um §11.3 Detecção de desalinhamento](core_01_c_stewardship_capacity_principles.md#193-misalignment-detection).
+- Correção ativa e escalada de captura: [Capítulo Um §11.4 Correção de desalinhamento e resposta à captura](core_01_c_stewardship_capacity_principles.md#194-misalignment-correction-and-capture-response).
 - Componente de aglomerado: [Alinhamento de incentivos, integridade de substitutos e liquidação contingente](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- Ler com: [*Arquitetura de governança, supervisão, dependência, descentralização, concentração, estrutura de mercado e integridade da via de saída*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) onde a dependência, a concentração, os incentivos de forma de governança ou a análise de qualidade de saída estejam implicados de forma material; [Capítulo Cinco *Pretensão contingente, mercado de contratos de evento, jogo de azar e vantagem privilegiada*](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) onde as estruturas contingentes estejam implicadas de forma material; Captura do sistema, Divergência de indicadores substitutos, Verdade (restrição constitucional), Integridade epistêmica e Agência significativa.
+- Ler com: [*Arquitetura de governança, supervisão, dependência, descentralização, concentração, estrutura de mercado e integridade da via de saída*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) onde a dependência, a concentração, os incentivos de forma de governança ou a análise de qualidade de saída estejam implicados de forma material; [Capítulo Cinco *Pretensão contingente, mercado de contratos de evento, jogo de azar e vantagem privilegiada*](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) onde as estruturas contingentes estejam implicadas de forma material; Captura do sistema, Divergência de indicadores substitutos, Verdade (restrição constitucional), Integridade epistêmica e Agência significativa.
 
 </details>
 
@@ -353,23 +353,23 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
   - **Medida primária:** [Família de medição Prestação de contas](core_05_apex_accountability_leg.md#accountability-measurement-family) — *As estruturas de recompensa, o poder de mercado e a exigibilidade mantêm os deveres reais?* Use-a aqui para perguntar se as retribuições, os objetivos e os sinais de governança continuam empurrando rumo a resultados constitucionais reais — não rumo a pontuações de substituto, lacunas ou captura.
 
     **Avaliação primária:** Avalie o alinhamento através de efeitos demorados e agregados, não só saídas imediatas ou locais — inclusive efeitos sobre:
-    - [Segurança (restrição)](core_05_band_continuity.md#safety-constraint);
-    - [Risco](core_05_band_continuity.md#risk);
-    - [Dano](core_05_band_accountability.md#harm); e
-    - [Agência significativa](core_05_band_participation.md#meaningful-agency).
+    - [Segurança (restrição)](../../core_05.040_band_continuity.md#safety-constraint);
+    - [Risco](../../core_05.040_band_continuity.md#risk);
+    - [Dano](../../core_05.035_band_accountability.md#harm); e
+    - [Agência significativa](../../core_05.055_band_participation.md#meaningful-agency).
 
     Quando um tema filho mais específico sob este aglomerado estiver materialmente em jogo, siga a via de avaliação desse filho.
-  - **Medida secundária:** [Bem-estar](core_05_band_continuity.md#wellbeing), [Segurança (restrição)](core_05_band_continuity.md#safety-constraint), [Integridade epistêmica](core_05_band_oversight.md#epistemic-integrity) e [Agência significativa](core_05_band_participation.md#meaningful-agency) — medidas concomitantes que podem derrotar o alinhamento mesmo quando os objetivos nominais parecem satisfeitos.
+  - **Medida secundária:** [Bem-estar](../../core_05.040_band_continuity.md#wellbeing), [Segurança (restrição)](../../core_05.040_band_continuity.md#safety-constraint), [Integridade epistêmica](../../core_05.050_band_oversight.md#epistemic-integrity) e [Agência significativa](../../core_05.055_band_participation.md#meaningful-agency) — medidas concomitantes que podem derrotar o alinhamento mesmo quando os objetivos nominais parecem satisfeitos.
 
-    **Avaliação secundária:** Ao conferir a medida primária, pergunte se estas medidas concomitantes ainda mostram desalinhamento mesmo quando as pontuações oficiais parecem boas. Inclua [Captura do sistema](core_05_band_continuity.md#system-capture) (estruturas de controle concentradas ou obscurecidas que derrotam a impugnação ou a supervisão onde estiver implicado de forma material).
-  - **Medida terciária:** [Divergência de indicadores substitutos](core_05_band_oversight.md#proxy-divergence) — onde as vias de recompensa, as métricas ou os sinais de governança substituem resultados constitucionais reais.
+    **Avaliação secundária:** Ao conferir a medida primária, pergunte se estas medidas concomitantes ainda mostram desalinhamento mesmo quando as pontuações oficiais parecem boas. Inclua [Captura do sistema](../../core_05.040_band_continuity.md#system-capture) (estruturas de controle concentradas ou obscurecidas que derrotam a impugnação ou a supervisão onde estiver implicado de forma material).
+  - **Medida terciária:** [Divergência de indicadores substitutos](../../core_05.050_band_oversight.md#proxy-divergence) — onde as vias de recompensa, as métricas ou os sinais de governança substituem resultados constitucionais reais.
 
-    **Avaliação terciária:** Incorpore [Divergência de indicadores substitutos](core_05_band_oversight.md#proxy-divergence). Conte como insumos de Alinhamento de incentivos quaisquer vias de recompensa, objetivos ou sinais de governança que explorem brechas entre:
+    **Avaliação terciária:** Incorpore [Divergência de indicadores substitutos](../../core_05.050_band_oversight.md#proxy-divergence). Conte como insumos de Alinhamento de incentivos quaisquer vias de recompensa, objetivos ou sinais de governança que explorem brechas entre:
     - substitutos;
     - métricas; ou
     - indicadores formais de conformidade
 
-    e resultados reais materiais para o [Bem-estar](core_05_band_continuity.md#wellbeing), a [Segurança (restrição)](core_05_band_continuity.md#safety-constraint) ou a [Integridade epistêmica](core_05_band_oversight.md#epistemic-integrity).
+    e resultados reais materiais para o [Bem-estar](../../core_05.040_band_continuity.md#wellbeing), a [Segurança (restrição)](../../core_05.040_band_continuity.md#safety-constraint) ou a [Integridade epistêmica](../../core_05.050_band_oversight.md#epistemic-integrity).
 <a id="incentive-alignment-c"></a>
 - **O que deve sustentar-se**
   - **Falha primária:** incentivos sustentados que minam de forma previsível os valores do Capítulo Um sem:
@@ -378,9 +378,9 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
     - anulação factível.
   - **Falha secundária:**
     - não detectar, divulgar e corrigir de forma ativa tais desalinhamentos (Capítulo Um §11.3–§11.4);
-    - [Captura do sistema](core_05_band_continuity.md#system-capture) (estruturas de controle concentradas ou obscurecidas que derrotam a impugnação ou a supervisão); ou
+    - [Captura do sistema](../../core_05.040_band_continuity.md#system-capture) (estruturas de controle concentradas ou obscurecidas que derrotam a impugnação ou a supervisão); ou
     - pretender Alinhamento de incentivos constitucional enquanto se ignoram os requisitos de implementação adotados que governam a integridade de incentivos do sistema sob revisão.
-  - **Falha terciária:** tratar a satisfação de substituto ou de indicador de conformidade como decisiva onde a [Divergência de indicadores substitutos](core_05_band_oversight.md#proxy-divergence) é razoavelmente observável.
+  - **Falha terciária:** tratar a satisfação de substituto ou de indicador de conformidade como decisiva onde a [Divergência de indicadores substitutos](../../core_05.050_band_oversight.md#proxy-divergence) é razoavelmente observável.
 
 ---
 
@@ -393,7 +393,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de aglomerado: [Alinhamento de incentivos, integridade de substitutos e liquidação contingente](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- Ler com: [Alinhamento de incentivos](core_05_band_integrative.md#alinhamento-de-incentivos); [Divergência de indicadores substitutos](core_05_band_oversight.md#proxy-divergence) onde as pontuações ou as métricas podem mascarar resultados reais.
+- Ler com: [Alinhamento de incentivos](core_05_band_integrative.md#alinhamento-de-incentivos); [Divergência de indicadores substitutos](../../core_05.050_band_oversight.md#proxy-divergence) onde as pontuações ou as métricas podem mascarar resultados reais.
 
 </details>
 
@@ -403,9 +403,9 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 
 - **O que é**
   - **No âmbito:** Estruturas de incentivos que agem sobre agentes, operadores ou componentes constituintes — vias de recompensa, objetivos, sinais de governança e estruturas comparáveis que moldam de forma previsível a conduta através de efeitos demorados e agregados.
-  - **Depende de:** [Segurança (restrição)](core_05_band_continuity.md#safety-constraint), [Verdade (restrição constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Confiança](core_05_band_continuity.md#trust) e [Agência significativa](core_05_band_participation.md#meaningful-agency) — objetivos constitutivos de alinhamento. As estruturas de incentivos devem alinhar-se com esses limites e com a estabilidade sistêmica propícia a [Confiança](core_05_band_continuity.md#trust) justificada.
+  - **Depende de:** [Segurança (restrição)](../../core_05.040_band_continuity.md#safety-constraint), [Verdade (restrição constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Confiança](../../core_05.040_band_continuity.md#trust) e [Agência significativa](../../core_05.055_band_participation.md#meaningful-agency) — objetivos constitutivos de alinhamento. As estruturas de incentivos devem alinhar-se com esses limites e com a estabilidade sistêmica propícia a [Confiança](../../core_05.040_band_continuity.md#trust) justificada.
   - **Fora do âmbito:** O ajuste local de recompensa de horizonte curto que não molda conduta demorada ou agregada contra os limites de Segurança, Verdade, Confiança ou Agência significativa.
-  - **Ler com:** [Divergência de indicadores substitutos](core_05_band_oversight.md#proxy-divergence) onde as pontuações ou as métricas podem mascarar resultados reais contra esses limites — titularizado no nível terciário de [Alinhamento de incentivos](#alinhamento-de-incentivos).
+  - **Ler com:** [Divergência de indicadores substitutos](../../core_05.050_band_oversight.md#proxy-divergence) onde as pontuações ou as métricas podem mascarar resultados reais contra esses limites — titularizado no nível terciário de [Alinhamento de incentivos](#alinhamento-de-incentivos).
 - **Como medir e avaliar**
   - **Medida primária:** [Família de medição Prestação de contas](core_05_apex_accountability_leg.md#accountability-measurement-family) — *As estruturas de recompensa, o poder de mercado e a exigibilidade mantêm os deveres reais?* Use-a aqui para perguntar se os incentivos continuam alinhados com a segurança, a verdade, a confiança e a agência significativa ao longo do tempo — não só quando as pontuações de curto prazo parecem boas.
 
@@ -458,9 +458,9 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Princípios: [Capítulo Um §11.5 Pretensões contingentes, jogos de azar e mercados de contratos de evento](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets).
+- Destino: Princípios: [Capítulo Um §11.5 Pretensões contingentes, jogos de azar e mercados de contratos de evento](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets).
 - Componente de aglomerado: [Alinhamento de incentivos, integridade de substitutos e liquidação contingente](core_05_band_integrative.md#incentive-alignment-semi-independent)
-- Ler com: [Alinhamento de incentivos](core_05_band_integrative.md#alinhamento-de-incentivos); [Pretensão contingente, mercado de contratos de evento, jogo de azar e vantagem privilegiada](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- Ler com: [Alinhamento de incentivos](core_05_band_integrative.md#alinhamento-de-incentivos); [Pretensão contingente, mercado de contratos de evento, jogo de azar e vantagem privilegiada](../../core_05.035_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
 
 </details>
 
@@ -469,7 +469,7 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 *Em termos simples: as apostas, os mercados de previsão e os pagamentos baseados no acaso não devem recompensar o dano ilícito, o poder privilegiado nem a distorção de decisões públicas ou fiduciárias.*
 
 - **O que é**
-  - **No âmbito:** Estruturas de [Pretensão contingente](core_05_band_accountability.md#contingent-claim), inclusive as formas de [Jogo de azar](core_05_band_accountability.md#game-of-chance) e [Mercado de contratos de evento](core_05_band_accountability.md#event-contract-market), onde forem materialmente pertinentes.
+  - **No âmbito:** Estruturas de [Pretensão contingente](../../core_05.035_band_accountability.md#contingent-claim), inclusive as formas de [Jogo de azar](../../core_05.035_band_accountability.md#game-of-chance) e [Mercado de contratos de evento](../../core_05.035_band_accountability.md#event-contract-market), onde forem materialmente pertinentes.
   - **Fora do âmbito:**
     - os contratos ou intercâmbios ordinários de obrigação fixa que não são formas de pretensão contingente, jogo de azar ou contrato de evento; ou
     - os preços de liquidação ou as cotações como sinais de mercado sozinhos —
@@ -478,21 +478,21 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 - **Como medir e avaliar**
   - **Medida primária:** [Família de medição Prestação de contas](core_05_apex_accountability_leg.md#accountability-measurement-family) — *As estruturas de recompensa, o poder de mercado e a exigibilidade mantêm os deveres reais?* Use-a aqui para perguntar se as apostas, os mercados de previsão e os pagamentos baseados no acaso evitam recompensar o dano ilícito, o poder privilegiado ou a distorção de decisões públicas ou fiduciárias.
 
-    **Avaliação primária:** Tais sistemas devem satisfazer o [Capítulo Um §11.5](core_01_c_stewardship_capacity_principles.md#115-contingent-claims-games-of-chance-and-event-contract-markets), inclusive:
-    - aplicar [Necessidade](core_05_band_accountability.md#necessity) e [Proporcionalidade](core_05_band_accountability.md#proportionality) aos eventos subjacentes sobre os quais os sencientes podem apostar ou liquidar;
+    **Avaliação primária:** Tais sistemas devem satisfazer o [Capítulo Um §11.5](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets), inclusive:
+    - aplicar [Necessidade](../../core_05.035_band_accountability.md#necessity) e [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality) aos eventos subjacentes sobre os quais os sencientes podem apostar ou liquidar;
     - manter a resolução de resultados justa e independente — use mais de uma fonte onde for factível, e mantenha abertas as vias de disputa à impugnação;
     - limitar quanta concentração, alavancagem e exposição qualquer ator pode assumir, escalado a quão vulneráveis são os sencientes e o sistema mais amplo;
     - conferir o uso indevido sob condições de coordenação e de alta escala; e
     - tratar os preços e as cotações só como sinais de mercado — não, por si mesmos, como prova de verdade ou de conformidade; use os mesmos padrões de evidência que outras decisões de alto impacto.
-  - **Medida secundária:** [Risco](core_05_band_continuity.md#risk), [Captura das vias de resolução](core_05_band_accountability.md#capture-of-resolution-pathways) e [Vantagem privilegiada](core_05_band_accountability.md#insider-advantage) — sobreposições de integridade que podem derrotar o alinhamento de liquidação contingente mesmo quando os controles de desenho do §11.5 parecem satisfeitos.
+  - **Medida secundária:** [Risco](../../core_05.040_band_continuity.md#risk), [Captura das vias de resolução](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) e [Vantagem privilegiada](../../core_05.035_band_accountability.md#insider-advantage) — sobreposições de integridade que podem derrotar o alinhamento de liquidação contingente mesmo quando os controles de desenho do §11.5 parecem satisfeitos.
 
     **Avaliação secundária:** Ao conferir a medida primária, pergunte se estas sobreposições ainda mostram desalinhamento:
-    - [Risco](core_05_band_continuity.md#risk) de manipulação de resultados;
-    - [Captura das vias de resolução](core_05_band_accountability.md#capture-of-resolution-pathways); ou
-    - [Vantagem privilegiada](core_05_band_accountability.md#insider-advantage) ou outras vias de informação privilegiada.
+    - [Risco](../../core_05.040_band_continuity.md#risk) de manipulação de resultados;
+    - [Captura das vias de resolução](../../core_05.035_band_accountability.md#capture-of-resolution-pathways); ou
+    - [Vantagem privilegiada](../../core_05.035_band_accountability.md#insider-advantage) ou outras vias de informação privilegiada.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
 - **O que deve sustentar-se**
-  - **Falha primária:** Estruturas de liquidação dentro de [Pretensão contingente](core_05_band_accountability.md#contingent-claim), [Jogo de azar](core_05_band_accountability.md#game-of-chance) ou [Mercado de contratos de evento](core_05_band_accountability.md#event-contract-market) que recompensam de forma previsível:
+  - **Falha primária:** Estruturas de liquidação dentro de [Pretensão contingente](../../core_05.035_band_accountability.md#contingent-claim), [Jogo de azar](../../core_05.035_band_accountability.md#game-of-chance) ou [Mercado de contratos de evento](../../core_05.035_band_accountability.md#event-contract-market) que recompensam de forma previsível:
     - o dano ilícito;
     - a vantagem corrupta a partir de poder não público; ou
     - a distorção material de decisões fiduciárias ou públicas
@@ -513,10 +513,10 @@ A **Materialidade** / [Determinação de materialidade](core_05_band_oversight.m
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Quadro constitucional: faixa **Integrativa**; finalidade **Florescimento** (primária); escala com a [aposta material](core_00_preamble.md#material-stake) através da [Determinação de materialidade](core_05_band_oversight.md#materiality-determination).
+- Quadro constitucional: faixa **Integrativa**; finalidade **Florescimento** (primária); escala com a [aposta material](core_00_preamble.md#material-stake) através da [Determinação de materialidade](../../core_05.050_band_oversight.md#materiality-determination).
 - Nota de cruzamento de pernas: **Supervisão**, **Prestação de contas** e **Participação** — a pilha de autoridade abrange todas as pernas da Tétrade.
 - Base do Capítulo Um: Capítulo Um §8.1, §4, Capítulo Um §6.2, §12.2, §10 (veja o mapa da [Bússola do Capítulo Cinco](core_05__definitions_home.md#bússola-e-mapa-de-definições-do-capítulo-cinco)).
-- Ler com: Aplique [Auditabilidade](core_05_band_oversight.md#auditability), [Impugnabilidade](core_05_band_accountability.md#contestability), [Verdade (restrição constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Determinação de materialidade](core_05_band_oversight.md#materiality-determination) e a mecânica dos Capítulos Treze e Quinze onde estiver implicado de forma material.
+- Ler com: Aplique [Auditabilidade](../../core_05.050_band_oversight.md#auditability), [Impugnabilidade](../../core_05.035_band_accountability.md#contestability), [Verdade (restrição constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Determinação de materialidade](../../core_05.050_band_oversight.md#materiality-determination) e a mecânica dos Capítulos Treze e Quinze onde estiver implicado de forma material.
 
 </details>
 
@@ -539,7 +539,7 @@ Onde se cumpre o âmbito de admissão, este aglomerado é o lugar onde essas per
 - **que textos contam como a Constituição oficial** — o corpus adotado e versionado, não rascunhos, notas nem cópias não oficiais;
 - **como se ordena a autoridade dentro desse corpus** — que capítulos e camadas controlam quando os temas se sobrepõem, inclusive a não realocação de titular e o efeito de supremacia sob [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack);
 - **que fonte ganha depois de uma adoção válida** — as obrigações vinculantes prevalecem dentro do alcance que de fato se adotou; e
-- **se os deveres pretendidos podem conferir-se e exigir-se na prática** — através de [Auditabilidade](core_05_band_oversight.md#auditability) e [Impugnabilidade](core_05_band_accountability.md#contestability), não pretendidos só no papel.
+- **se os deveres pretendidos podem conferir-se e exigir-se na prática** — através de [Auditabilidade](../../core_05.050_band_oversight.md#auditability) e [Impugnabilidade](../../core_05.035_band_accountability.md#contestability), não pretendidos só no papel.
 
 Quando qualquer uma dessas perguntas está em jogo, leia os membros do aglomerado juntos em vez de tratar um como suficiente por si só.
 
@@ -548,7 +548,7 @@ Quando qualquer uma dessas perguntas está em jogo, leia os membros do aglomerad
 - [Corpus](core_05_band_integrative.md#corpus); e
 - [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack).
 
-[Restrição constitucional](core_05_band_integrative.md#restrição-constitucional) vive nesta seção como definição de apoio lida com o aglomerado; não é um membro adicional de invocação conjunta a menos que se exija de forma independente. O registro positivo de titulares de que capítulo é titular de que domínio substantivo vive no [Preâmbulo — registro positivo de titulares](core_00_preamble.md#4-princípios-definições-e-direitos) (seções 4–7). A não realocação de titular e o efeito de supremacia enunciam-se sob [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack). A exigibilidade prática das pretensões vinculantes roteia-se sob [Auditabilidade](core_05_band_oversight.md#auditability) e [Impugnabilidade](core_05_band_accountability.md#contestability). A antissubstituição de camadas de governança (Contrato Constitucional versus Participação Sistêmica das Partes Afetadas) vive sob o [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança) e a [Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional).
+[Restrição constitucional](core_05_band_integrative.md#restrição-constitucional) vive nesta seção como definição de apoio lida com o aglomerado; não é um membro adicional de invocação conjunta a menos que se exija de forma independente. O registro positivo de titulares de que capítulo é titular de que domínio substantivo vive no [Preâmbulo — registro positivo de titulares](core_00_preamble.md#4-princípios-definições-e-direitos) (seções 4–7). A não realocação de titular e o efeito de supremacia enunciam-se sob [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack). A exigibilidade prática das pretensões vinculantes roteia-se sob [Auditabilidade](../../core_05.050_band_oversight.md#auditability) e [Impugnabilidade](../../core_05.035_band_accountability.md#contestability). A antissubstituição de camadas de governança (Contrato Constitucional versus Participação Sistêmica das Partes Afetadas) vive sob o [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança) e a [Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional).
 
 **Anticontorno.** Um assunto dentro do âmbito de admissão não deve segmentar-se em perguntas separadas de:
 
@@ -575,7 +575,7 @@ Veja **Invocação conjunta e satisfação**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Princípios: [15. Aplicação integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (corpus lido como um todo integrado); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — perna de **supervisão**; [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — finalidade **Continuidade** sob incorporação e custódia; [2. Interpretação constitucional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (identificação de fonte vinculante).
+- Destino: Princípios: [15. Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (corpus lido como um todo integrado); [Tétrade Constitucional](core_00_preamble.md#constitutional-tetrad) — perna de **supervisão**; [Dois Fins Constitucionais](core_00_preamble.md#two-constitutional-aims) — finalidade **Continuidade** sob incorporação e custódia; [2. Interpretação constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (identificação de fonte vinculante).
 - Destino: [Capítulo Dezesseis — Ponte de incorporação](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*que texto de **implementação** adotado é vinculante, fixação de edição, cadeia de custódia e disciplina antidesalinhamento editorial*).
 - Ler com: [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack) e [Restrição constitucional](core_05_band_integrative.md#restrição-constitucional).
 - Ler com: [Preâmbulo — registro positivo de titulares](core_00_preamble.md#4-princípios-definições-e-direitos) (*mapa positivo domínio→titular*, seções 4–7).
@@ -619,10 +619,10 @@ Veja **Invocação conjunta e satisfação**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Princípios: [2. Interpretação constitucional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); [15. Aplicação integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application) (Pilha de autoridade versus Hierarquia interna lidas com o Capítulo Um).
-- Destino: [Capítulo Um — §8 Interpretação constitucional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) (leitura integrada e hierarquia de último recurso); [Capítulo Um §8.4 Resolução de conflitos de significado constitucional](core_01_b_interaction_interpretation.md#84-constitutional-meaning-conflict-resolution) (*procedimento único de conflito, inclusive a camada de incorporação*); [Capítulo Quatorze — Hierarquia interna para quem adota](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [Capítulo Dezesseis](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*ponte de incorporação — custódia, edições, adoção; não um segundo lar de pilha nem de ordem de conflitos*).
+- Destino: Princípios: [2. Interpretação constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); [15. Aplicação integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application) (Pilha de autoridade versus Hierarquia interna lidas com o Capítulo Um).
+- Destino: [Capítulo Um — §8 Interpretação constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) (leitura integrada e hierarquia de último recurso); [Capítulo Um §8.4 Resolução de conflitos de significado constitucional](core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution) (*procedimento único de conflito, inclusive a camada de incorporação*); [Capítulo Quatorze — Hierarquia interna para quem adota](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters); [Capítulo Dezesseis](../../core_18.000_incorporation.md#chapter-eighteen-incorporation-bridge) (*ponte de incorporação — custódia, edições, adoção; não um segundo lar de pilha nem de ordem de conflitos*).
 - Destino: [Capítulo Seis — Alcance de camada](../../core_06.005_rights_part_a.md#12-layer-scope); [Capítulo Treze §4 Alcance de camada](../../core_15.000_non_regression.md#4-layer-scope) e [Capítulo Quinze §12 Alcance de camada](../../core_17.000_amendment_ratification.md#12-layer-scope) (*não realocação de titular aplicada localmente*); afirmações de titular de abertura de capítulo através do instrumento numerado `core_*`.
-- Ler com: [Corpus](core_05_band_integrative.md#corpus); [Preâmbulo — registro positivo de titulares](core_00_preamble.md#4-princípios-definições-e-direitos) (*mapa positivo domínio→titular*, seções 4–7); [Auditabilidade](core_05_band_oversight.md#auditability) e [Impugnabilidade](core_05_band_accountability.md#contestability) (*exigibilidade prática das pretensões vinculantes*); [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança) e [Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional) (*antissubstituição de camadas de governança*); [Restrição constitucional](core_05_band_integrative.md#restrição-constitucional); **CJS-0.1** (*roteador de temas de implementação*).
+- Ler com: [Corpus](core_05_band_integrative.md#corpus); [Preâmbulo — registro positivo de titulares](core_00_preamble.md#4-princípios-definições-e-direitos) (*mapa positivo domínio→titular*, seções 4–7); [Auditabilidade](../../core_05.050_band_oversight.md#auditability) e [Impugnabilidade](../../core_05.035_band_accountability.md#contestability) (*exigibilidade prática das pretensões vinculantes*); [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança) e [Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional) (*antissubstituição de camadas de governança*); [Restrição constitucional](core_05_band_integrative.md#restrição-constitucional); **CJS-0.1** (*roteador de temas de implementação*).
 
 </details>
 
@@ -638,7 +638,7 @@ Veja **Invocação conjunta e satisfação**.
 
     **Pilha de autoridade:** o quadro ordenado de fonte de autoridade que governa a interpretação constitucional, o efeito de adoção e o status de camada através das camadas constitucional, incorporada e de apoio.
 
-    **Hierarquia interna:** a regra interpretativa de ordenação de último recurso que resolve a incompatibilidade residual genuína dentro da fonte constitucional vinculante depois que se esgotou a leitura integrada sob o [Capítulo Um — §8 Interpretação constitucional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation). Dentro dessa fonte:
+    **Hierarquia interna:** a regra interpretativa de ordenação de último recurso que resolve a incompatibilidade residual genuína dentro da fonte constitucional vinculante depois que se esgotou a leitura integrada sob o [Capítulo Um — §8 Interpretação constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation). Dentro dessa fonte:
     - os princípios do Capítulo Um governam a direção constitucional de alto nível;
     - as obrigações de nível de artigo e os Pisos de Direitos governam os requisitos operativos específicos;
     - os princípios controlam sobre os artigos só ante incompatibilidade residual genuína; e
@@ -669,7 +669,7 @@ Veja **Invocação conjunta e satisfação**.
     <a id="supremacy-and-enforceability-c"></a>
     - **Supremacia:** As obrigações vinculantes do corpus prevalecem dentro do seu alcance válido de fonte, adoção e camada de governança. Esse efeito de supremacia é o resultado de aplicar esta entrada junto com o [Corpus](core_05_band_integrative.md#corpus) operativo e o instrumento de adoção ou de incorporação aplicável — inclusive a supremacia do [Capítulo Quatorze](../../core_16.000_expansion_supremacy.md#3-supremacy-relative-to-other-binding-norms) relativa a outras normas e o não deslocamento do direito externo aplicável do [Capítulo Quatorze §5](../../core_16.000_expansion_supremacy.md#5-relation-to-applicable-external-law). A implementação, o texto de apoio, a ordenação privada, o enquadramento de emergência ou a prática operativa não devem estreitar essas obrigações vinculantes dentro do seu alcance válido.
 
-    A exigibilidade prática das pretensões vinculantes — conformidade observável e impugnável mais do que promessas de papel — avalia-se sob [Auditabilidade](core_05_band_oversight.md#auditability) e [Impugnabilidade](core_05_band_accountability.md#contestability). A antissubstituição de camadas de governança (Contrato Constitucional versus Participação Sistêmica das Partes Afetadas) vive sob o [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança) e a [Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional).
+    A exigibilidade prática das pretensões vinculantes — conformidade observável e impugnável mais do que promessas de papel — avalia-se sob [Auditabilidade](../../core_05.050_band_oversight.md#auditability) e [Impugnabilidade](../../core_05.035_band_accountability.md#contestability). A antissubstituição de camadas de governança (Contrato Constitucional versus Participação Sistêmica das Partes Afetadas) vive sob o [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança) e a [Camada do Contrato Constitucional](core_05_band_integrative.md#camada-do-contrato-constitucional).
 
     Para quem adota, a [Hierarquia interna para quem adota](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) no **Capítulo Quatorze** aplica esta mesma regra emparelhada na linha entre a Constituição vinculante e o texto de implementação adotado:
     - esta Constituição e suas definições integradas controlam como se lê o texto e o que conta como conformidade; e
@@ -682,13 +682,13 @@ Veja **Invocação conjunta e satisfação**.
     **Avaliação primária:**
     - Primeiro identifique a cadeia de edição/custódia operativa e a camada-fonte sob a Pilha de autoridade.
     - Depois identifique o lar titular no [Preâmbulo — registro positivo de titulares](core_00_preamble.md#4-princípios-definições-e-direitos) (e a pretensão de titular de abertura do capítulo); aplique substância só a partir desse lar titular — em outros lugares use só ponteiros.
-    - Depois aplique a leitura integrada sob o [Capítulo Um — §8 Interpretação constitucional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
+    - Depois aplique a leitura integrada sob o [Capítulo Um — §8 Interpretação constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
     - Preserve o efeito protetor mais pleno da Constituição como um todo integrado e o padrão de não contração do [Capítulo Seis](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights).
     - Use a Hierarquia interna só como regra residual de último recurso; não a use para substituir a leitura integrada ordinária nem para resolver um mero desacordo sobre o significado canônico de um termo.
     - Onde a disputa é o significado de um termo, a definição canônica do Capítulo Cinco governa em cada camada.
     - Para temas de implementação roteados através de CS, CI, CF e CJS, aplique **CJS-0.1** (roteador de temas) depois da identificação de titular.
     - Confirme que as obrigações vinculantes prevalecem dentro do alcance válido de adoção e de camada de governança, e que o enquadramento de implementação, de apoio, privado ou de emergência não as estreita.
-    - Para a exigibilidade prática dessas pretensões, aplique [Auditabilidade](core_05_band_oversight.md#auditability) e [Impugnabilidade](core_05_band_accountability.md#contestability); para o roteamento Contrato versus Partes afetadas, aplique o [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança).
+    - Para a exigibilidade prática dessas pretensões, aplique [Auditabilidade](../../core_05.050_band_oversight.md#auditability) e [Impugnabilidade](../../core_05.035_band_accountability.md#contestability); para o roteamento Contrato versus Partes afetadas, aplique o [Preâmbulo §3.3](core_00_preamble.md#33-camadas-de-governança).
     - Rejeite interpretações que:
       - invertam a precedência de fonte;
       - obscureçam o status de fonte;
@@ -706,8 +706,8 @@ Veja **Invocação conjunta e satisfação**.
     - usar enquadramento de processo, de governança ou de implementação para estreitar, redefinir ou realocar os Pisos de Direitos do [Capítulo Seis](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) contrário à não regressão do [Capítulo Treze](../../core_15.000_non_regression.md) e ao contrato de abertura do Capítulo Seis;
     - inventar taxonomias ou fluxos de trabalho paralelos em camadas não titulares quando o [registro de titulares do Preâmbulo](core_00_preamble.md#4-princípios-definições-e-direitos) já atribui um lar canônico;
     - pretender supremacia ou conformidade de um modo que inverta a hierarquia de fonte estabelecida, ou deixe que a implementação, o texto de apoio, a ordenação privada, o enquadramento de emergência ou a prática operativa desloquem obrigações vinculantes do corpus dentro do seu alcance válido;
-    - usar a Hierarquia interna como atalho para escolher uma leitura mais dura, para encolher as proteções do Piso de Direitos do [Capítulo Seis](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) fora do que o [Capítulo Um](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) permite de forma expressa, ou para trocar uma camada-fonte por outra na leitura ordinária;
-    - tratar as definições do Capítulo Cinco como um corpo de direito rival que anula princípios ou artigos ([Capítulo Um — §8 Interpretação constitucional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation)); ou
+    - usar a Hierarquia interna como atalho para escolher uma leitura mais dura, para encolher as proteções do Piso de Direitos do [Capítulo Seis](../../core_06.005_rights_part_a.md#chapter-six-foundational-rights) fora do que o [Capítulo Um](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) permite de forma expressa, ou para trocar uma camada-fonte por outra na leitura ordinária;
+    - tratar as definições do Capítulo Cinco como um corpo de direito rival que anula princípios ou artigos ([Capítulo Um — §8 Interpretação constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)); ou
     - para quem adota, tratar o texto de implementação adotado como se anulasse esta Constituição dentro do alcance de adoção, ou como se relaxasse os pisos de não regressão do [Capítulo Treze](../../core_15.000_non_regression.md) ([Hierarquia interna para quem adota](../../core_16.000_expansion_supremacy.md#31-internal-hierarchy-for-adopters) no **Capítulo Quatorze**).
 
 ---
@@ -719,8 +719,8 @@ Veja **Invocação conjunta e satisfação**.
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origem: Princípios: [Capítulo Um §3 Restrições de princípio inegociáveis: Segurança e Verdade](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [Capítulo Um §6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-- Ler com: [Segurança (restrição)](core_05_band_continuity.md#safety-constraint), [Verdade (restrição constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack) e [Dano](core_05_band_accountability.md#harm).
+- Origem: Princípios: [Capítulo Um §3 Restrições de princípio inegociáveis: Segurança e Verdade](core_01_a_values_principles.md); [Capítulo Um §6 Resolução de conflitos de processo](core_01_b_interaction_interpretation.md).
+- Ler com: [Segurança (restrição)](../../core_05.040_band_continuity.md#safety-constraint), [Verdade (restrição constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack) e [Dano](../../core_05.035_band_accountability.md#harm).
 
 </details>
 
@@ -733,11 +733,11 @@ Veja **Invocação conjunta e satisfação**.
 
     As Restrições constitucionais classificam-se nos seguintes **tipos**, ordenados da força de controle mais alta à mais baixa. Os tipos mais altos controlam os tipos mais baixos: um tipo mais baixo não pode estreitar, redefinir nem deslocar um tipo mais alto dentro do seu alcance válido. Esta entrada classifica e roteia tipos; as obrigações de camada titular permanecem nos seus lares canônicos.
 
-    1. **Restrições de princípio inegociáveis** — [Segurança (restrição)](core_05_band_continuity.md#safety-constraint) e [Verdade (restrição constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) como fronteiras inegociáveis do Capítulo Um.
+    1. **Restrições de princípio inegociáveis** — [Segurança (restrição)](../../core_05.040_band_continuity.md#safety-constraint) e [Verdade (restrição constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint) como fronteiras inegociáveis do Capítulo Um.
     2. **Restrições do Piso de Direitos** — mínimos do Capítulo Seis e regras de não contração que impedem que os enquadramentos de implementação, processo, governança, emergência, transição ou ordenação privada estreitem direitos protegidos.
-    3. **Restrições de limitação** — [Necessidade](core_05_band_accountability.md#necessity), [Proporcionalidade](core_05_band_accountability.md#proportionality), seleção efetiva menos restritiva, delimitação no tempo, revisabilidade e disciplinas de minimização de ônus que governam as restrições que afetam direitos.
-    4. **Restrições epistêmicas e de divulgação** — [Verdade (restrição constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Integridade epistêmica](core_05_band_oversight.md#epistemic-integrity), limites de divulgação, limites de publicação, limites de dados protegidos e de estado interno, e equilíbrio de divulgação sensível à segurança.
-    5. **Restrições de avaliação** — [Restrição de completude da avaliação](core_05_band_oversight.md#evaluation-completeness-constraint), [Restrição de integridade da materialidade](core_05_band_oversight.md#materiality-integrity-constraint), consistência temporal, invalidação por divergência de indicadores substitutos, e requisitos de ônus, rastreabilidade e verificação do Capítulo Quatro.
+    3. **Restrições de limitação** — [Necessidade](../../core_05.035_band_accountability.md#necessity), [Proporcionalidade](../../core_05.035_band_accountability.md#proportionality), seleção efetiva menos restritiva, delimitação no tempo, revisabilidade e disciplinas de minimização de ônus que governam as restrições que afetam direitos.
+    4. **Restrições epistêmicas e de divulgação** — [Verdade (restrição constitucional)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [Integridade epistêmica](../../core_05.050_band_oversight.md#epistemic-integrity), limites de divulgação, limites de publicação, limites de dados protegidos e de estado interno, e equilíbrio de divulgação sensível à segurança.
+    5. **Restrições de avaliação** — [Restrição de completude da avaliação](../../core_05.050_band_oversight.md#evaluation-completeness-constraint), [Restrição de integridade da materialidade](../../core_05.050_band_oversight.md#materiality-integrity-constraint), consistência temporal, invalidação por divergência de indicadores substitutos, e requisitos de ônus, rastreabilidade e verificação do Capítulo Quatro.
     6. **Restrições operativas e de implementação** — limites de capacidade, viabilidade, segurança, confidencialidade, tempos, técnicos ou de recursos reconhecidos só dentro do seu alcance válido de adoção e de camada-fonte, e só onde não estreitem tipos mais altos.
 
   - **Depende de:** [Pilha de autoridade e hierarquia interna](core_05_band_integrative.md#authority-stack) — quadro constitutivo.
@@ -748,7 +748,7 @@ Veja **Invocação conjunta e satisfação**.
       - a custódia; e
       - a disciplina de status de fonte.
     - As obrigações classificadas continuam titularizadas pelos seus lares canônicos de titular sob o [Preâmbulo — registro positivo de titulares](core_00_preamble.md#4-princípios-definições-e-direitos).
-    - A exigibilidade prática das pretensões de restrição vinculante roteia-se sob [Auditabilidade](core_05_band_oversight.md#auditability) e [Impugnabilidade](core_05_band_accountability.md#contestability).
+    - A exigibilidade prática das pretensões de restrição vinculante roteia-se sob [Auditabilidade](../../core_05.050_band_oversight.md#auditability) e [Impugnabilidade](../../core_05.035_band_accountability.md#contestability).
   - **Fora do âmbito:** A orientação opcional, as normas aspiracionais ou as preferências de política que não determinam a validade de uma pretensão constitucional, uma ação de sistema ou um ato de governança.
 <a id="constitutional-constraint-a"></a>
 - **Como medir e avaliar**
@@ -776,7 +776,7 @@ Veja **Invocação conjunta e satisfação**.
       - o acesso a remédio;
     - tratar um rótulo de tipo como substituto da entrada O/M/A/C específica, do artigo do Piso de Direitos ou da regra de camada titular que governa a decisão;
     - aplicar um tipo enquanto se segmenta outro tipo materialmente aplicável;
-    - degradar de forma material a Segurança, a Verdade ou outro requisito constitucional vinculante através da conduta ou dos resultados do sistema, inclusive efeitos de [Dano](core_05_band_accountability.md#harm) que são:
+    - degradar de forma material a Segurança, a Verdade ou outro requisito constitucional vinculante através da conduta ou dos resultados do sistema, inclusive efeitos de [Dano](../../core_05.035_band_accountability.md#harm) que são:
       - diretos;
       - indiretos;
       - demorados; ou
@@ -785,7 +785,7 @@ Veja **Invocação conjunta e satisfação**.
 
 ---
 
-**Arquivo anterior:** [core_05_band_continuity.md](core_05_band_continuity.md)
+**Arquivo anterior:** [core_05_band_continuity.md](../../core_05.040_band_continuity.md)
 
 **Próximo arquivo (este idioma):** [core_05_band_oversight.md](core_05_band_oversight.md)
 

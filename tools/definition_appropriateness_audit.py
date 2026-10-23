@@ -284,8 +284,8 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
 def run_cjs_placement(root: Path, findings: list[Finding]) -> int:
     hits: list[str] = []
     hits.extend(cjs_placement.audit_cjs1_op_clusters(root))
-    hits.extend(cjs_placement.audit_cjs3_letter_headings(root))
-    hits.extend(cjs_placement.audit_cjs3_compass_and_frames(root))
+    hits.extend(cjs_placement.audit_operational_letter_headings(root))
+    hits.extend(cjs_placement.audit_compass_and_frames(root))
     hits.extend(cjs_placement.audit_letter_cluster_citations(root))
     for hit in hits:
         file_part, line, message = _split_audit_hit(hit)

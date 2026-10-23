@@ -63,9 +63,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[5. 過程衝突の解決](#6-process-conflict-resolution)；[第十二章 §0](#0-layer-boundary-for-this-chapter)。
+- 上流：原則：[第一章 §5 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§9 責務ある管理と分散した理解](core_01_c_stewardship_capacity_principles.md)、[5. 過程衝突の解決](core_12_governance.md)；[第十二章 §0](#0-layer-boundary-for-this-chapter)。
 - 下位節：[§1.1](#11-mechanism-families-auditability-and-pluralism)（《仕組みの家族、監査可能性、多元主義》）；[§1.2](#12-eligibility-contested-selection-and-democratic-minimums)（《適格、争われる選出、民主的な最低限》）；[§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)（《リコール級の指名された経路と期中移転のガードレール》）。
-- 下流：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) のもとでの誠実性、戦略、投票、および役割の義務；[第十五章](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) のもとでの採択と批准；第六章における正当性、参加、争訟可能性 — とくに [Article XII-C：正当性の門とトークン参加の防止](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)、[Article XIX：軌跡と参加の地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status)、および下の操作性の箇条書きで鍵づけられた表現、集会、手続的公正の条。
+- 下流：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) のもとでの誠実性、戦略、投票、および役割の義務；[第十五章](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity) のもとでの採択と批准；第六章における正当性、参加、争訟可能性 — とくに [Article XII-C：正当性の門とトークン参加の防止](core_06_rights_part_b.md)、[Article XIX：軌跡と参加の地位](core_06_rights_part_c.md)、および下の操作性の箇条書きで鍵づけられた表現、集会、手続的公正の条。
 - あわせて読む：本節で名指された指名された **コーパス** および **[corpus_systems.md](../../corpus_systems.md)** のフック（[corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)）。
 
 </details>
@@ -179,7 +179,7 @@
 - [**誠実性**](core_11_forum.md#45-integrity-forums)、[**憲法**](core_11_forum.md#46-constitutional-forums)、および [**環境**](core_11_forum.md#44-environment-forums) フォーラム、ならびに感知性地位の裁定を聴くときの [**技術フォーラム領域**](core_11_forum.md#42-technical-forum-domains) は、**公表**され、**争われ**、**交替可能**な任命または同等の独立点検（抽選、連邦の指名、または比較可能なもの）を通じて人員を置かれなければならない。
 - この床は**仕組み中立**である：単一の政体型または単一の任命方法を命じない。
 - それらの合議体を [第九章 §9.2](core_09_standing_integration.md#92-remedy-system-durability) の救済システムの耐久の床まで任命しまたは資金を付けることの失敗は、正当性と救済の失敗であり、実施が開けたままにしてよい隙間ではない。
-- 任命、能力、交替、解任の仕組みは [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（《任命、能力、交替、解任》）が統治する；**CI-4** はこの床を狭めてはならない。
+- 任命、能力、交替、解任の仕組みは [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)（《任命、能力、交替、解任》）が統治する；**CI-4** はこの床を狭めてはならない。
 
 <a id="13-recall-class-pathways-and-mid-cycle-transfer-guardrails"></a>
 #### 1.3 リコール級の指名された経路と期中移転のガードレール
@@ -236,8 +236,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：原則：[3. 基礎的目的：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[4. 交渉不能の制約：安全と真理](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth)；[第十二章 §1](#1-authorization-and-legitimacy-of-governing-authority) 規則づくりの権力の内側での責務ある管理についての授権の範囲。
-- 下流：下位節 [3.1](#31-stewardship-direction) および [3.2](#32-ecosystem-value-orientation)；[*戦略的責務ある管理の義務*](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional)、[*審査と訂正の義務*](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)、[*負担軽減の義務*](../../core_05_band_continuity.md#burden-reduction-duty-constitutional)、および [*責務ある管理の欠陥*](../../core_05_band_continuity.md#stewardship-defect-constitutional) における責務ある管理の要件の典範の定義。[**Def.C2** 責務ある管理の複合群](../../core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster) を通じて読む。適用されるところでの [第一章 §6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) および（[*回避可能な負担*](../../core_05_band_continuity.md#avoidable-burden)；[*生産能力*](../../core_05_band_continuity.md#productive-capacity-constitutional)；[*憲法上の効率*](../../core_05_band_continuity.md#constitutional-efficiency)）への相互参照を含む。
+- 上流：原則：[3. 基礎的目的：福祉](core_01_a_values_principles.md)、[4. 交渉不能の制約：安全と真理](core_01_a_values_principles.md)；[第十二章 §1](#1-authorization-and-legitimacy-of-governing-authority) 規則づくりの権力の内側での責務ある管理についての授権の範囲。
+- 下流：下位節 [3.1](#31-stewardship-direction) および [3.2](#32-ecosystem-value-orientation)；[*戦略的責務ある管理の義務*](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional)、[*審査と訂正の義務*](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)、[*負担軽減の義務*](../../core_05_band_continuity.md#burden-reduction-duty-constitutional)、および [*責務ある管理の欠陥*](../../core_05_band_continuity.md#stewardship-defect-constitutional) における責務ある管理の要件の典範の定義。[**Def.C2** 責務ある管理の複合群](../../core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster) を通じて読む。適用されるところでの [第一章 §6.3](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) および（[*回避可能な負担*](../../core_05_band_continuity.md#avoidable-burden)；[*生産能力*](../../core_05_band_continuity.md#productive-capacity-constitutional)；[*憲法上の効率*](../../core_05_band_continuity.md#constitutional-efficiency)）への相互参照を含む。
 - あわせて読む：[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights) 権利の床；本文で名指された [*生産能力*](../../core_05_band_continuity.md#productive-capacity-constitutional)、[*憲法上の効率*](../../core_05_band_continuity.md#constitutional-efficiency)、[*回避可能な負担*](../../core_05_band_continuity.md#avoidable-burden)、および責務ある管理の義務の定義についての [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)。
 
 </details>
@@ -281,7 +281,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：[§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate)；[第一章 §12.1](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good)（《手段としての善としての生産能力》）。
+- 上流：[§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate)；[第一章 §12.1](core_01_c_stewardship_capacity_principles.md)（《手段としての善としての生産能力》）。
 - 下流：成果と代替指標の規律は [§4](#4-voting-and-binding-collective-choice-protocols)–[§5](#5-authorized-roles-competency-development-and-contribution) を通じて続く；操作性の本文で名指される第五章（《代替指標の乖離》；《憲法上の効率》；《回避可能な負担》）。
 - あわせて読む：[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) における [*生産能力*](../../core_05_band_continuity.md#productive-capacity-constitutional) および関連する境界の定義。
 
@@ -320,8 +320,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§4](#4-voting-and-binding-collective-choice-protocols) 集合的選択の枠；[§1](#1-authorization-and-legitimacy-of-governing-authority) 拘束力ある選択の手続についての正当性の仕組み。
-- 下流：[Article X-C：統治への参加と投票の権利](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)、[Article XIX：軌跡と参加の地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status) における統治参加と軌跡；[第五章 — 基礎的憲法選択](core_05_band_integrative.md#foundational-constitutional-choice) および操作性の本文が経路づける関連する [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) の項における基礎的憲法選択と影響を受ける側の仕組み；適格な**違反軸 s = 7、8、または 9** の認定についての**最終の反憲法的不正行為の指定**および本下位節の**反憲法的不正行為 — 原状回復の前提条件**条項に結ばれた適正手続の保障についての **第十章**（《反憲法的不正行為》）。
-- あわせて読む：[§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；高影響の正当性の門についての [Article XII-C：正当性の門とトークン参加の防止](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)；適格な**違反軸 s = 7、8、または 9** の認定についての最終の**反憲法的不正行為の指定**についての [第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)。
+- 下流：[Article X-C：統治への参加と投票の権利](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)、[Article XIX：軌跡と参加の地位](core_06_rights_part_c.md) における統治参加と軌跡；[第五章 — 基礎的憲法選択](core_05_band_integrative.md#foundational-constitutional-choice) および操作性の本文が経路づける関連する [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) の項における基礎的憲法選択と影響を受ける側の仕組み；適格な**違反軸 s = 7、8、または 9** の認定についての**最終の反憲法的不正行為の指定**および本下位節の**反憲法的不正行為 — 原状回復の前提条件**条項に結ばれた適正手続の保障についての **第十章**（《反憲法的不正行為》）。
+- あわせて読む：[§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；高影響の正当性の門についての [Article XII-C：正当性の門とトークン参加の防止](core_06_rights_part_b.md)；適格な**違反軸 s = 7、8、または 9** の認定についての最終の**反憲法的不正行為の指定**についての [第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)。
 
 </details>
 
@@ -418,7 +418,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§4.1](#41-entitlement-and-eligibility)–[§4.2](#42-records-gates-and-method-neutrality) 権原、記録、正当性の門の要件。
-- 下流：[Article XXV-B：権利衝突の手続と修復的整合](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) および参照される [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) のもとでの権利衝突の規律；第六章における異議と再開の指名された経路。
+- 下流：[Article XXV-B：権利衝突の手続と修復的整合](core_06_rights_part_d.md) および参照される [第一章 §6.1.5](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) のもとでの権利衝突の規律；第六章における異議と再開の指名された経路。
 - あわせて読む：[Def.P2 拘束力ある影響を受ける側の選択](../../core_05_band_participation.md#binding-stakeholder-choice-cluster)。[拘束力ある影響を受ける側の選択 — 決定解決の要件](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process)、[影響を受ける側の代表と重みの限度（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)、および [影響を受ける側の権利衝突の記録（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) を含む；権利に実質的に影響する過程の設計についての [第六章：基礎的権利](core_06_rights_part_a.md#chapter-six-foundational-rights) および [緊急の事前熟議行為（拘束力ある集合的選択）](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) ともあわせて読む。
 
 </details>
@@ -431,14 +431,14 @@
 
 - **構造化された順序、まず現地の熟議、多元の評価、再開：** [拘束力ある影響を受ける側の選択 — 決定解決の要件](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process)。
 - **影響を受ける側の代表と重みの限度：** [影響を受ける側の代表と重みの限度（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)（[§4.1](#41-entitlement-and-eligibility) からも相互参照される）。
-- **影響を受ける側の権利衝突の規律：** [影響を受ける側の権利衝突の記録（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — **Article XXV-B**（《権利衝突の手続と修復的整合》）および [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) とあわせて読む。
+- **影響を受ける側の権利衝突の規律：** [影響を受ける側の権利衝突の記録（拘束力ある影響を受ける側の選択）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — **Article XXV-B**（《権利衝突の手続と修復的整合》）および [第一章 §6.1.5](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) とあわせて読む。
 - **緊急の例外：** [緊急の事前熟議行為（拘束力ある集合的選択）](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — 次とあわせて読む：
   - [影響を受ける側の緊急と偶発](../../core_05_band_continuity.md#stakeholder-emergency-and-contingency)；
   - 統治権限の授権が関わるところでの [憲法上の緊急と偶発](../../core_05_band_continuity.md#constitutional-emergency-and-contingency)；
   - [緊急と偶発](../../core_05_band_continuity.md#emergency-and-contingency-constitutional)；および
   - **Article XXIV-D**（《緊急措置と継続の負担》）。
 
-**チャーターの指針規則。** 統治する [チャーター](../../core_05_band_continuity.md#charter) は運用される範囲を述べ、Def.P2 の入場範囲が適用されるところでは、本節を満たす公表された過程規則を**指さなければ**ならない。チャーターは決定の順序、重みづけの模型、または権利衝突の記録を運ばない。それらの材料の制度的公表は **CI-8.1** / **CI-8.2** のもとで生き、チャーターの指針は **CI-3.6** の欄 10 が求める。
+**チャーターの指針規則。** 統治する [チャーター](../../core_05.040_band_continuity.md) は運用される範囲を述べ、Def.P2 の入場範囲が適用されるところでは、本節を満たす公表された過程規則を**指さなければ**ならない。チャーターは決定の順序、重みづけの模型、または権利衝突の記録を運ばない。それらの材料の制度的公表は **CI-8.1** / **CI-8.2** のもとで生き、チャーターの指針は **CI-3.6** の欄 10 が求める。
 
 **相互参照（第 4 節）：** 下位節 **4.1–4.2** は、**第六章**、**Article X-C**（《統治への参加と投票の権利》）とともに投票の要件を述べる。採択された統治、システム、制度の実施本文は、投票の**技術**的実施が分類されたシステム、データ取扱い、責務ある管理者の義務、または指名された制度手続に触れるところで、適用される規則を供給する。
 
@@ -450,8 +450,8 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols) 権限がどう授権され、記録され、集合的選択において行使されるか。
-- 下流：[Article XII-D：内部役割、説明責任、適正手続の要件](../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements) における役割の誠実性と適正手続の要件；下で引用される [corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)、および [corpus_joint_structure.md](../../corpus_joint_structure.md) における **コーパス** の設計とレーンのフック。
-- あわせて読む：**[corpus_systems.md](../../corpus_systems.md)**（**CS-4 — 重要システムの責務ある管理**、CS-9）および操作性の本文で参照される実施コーパスにおける **CI-4** / **CI-11** / **CI-12**；[第一章 §9.1.1 共有された責務ある管理の標準](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)（《基体に依存しない義務；付属は記録、帰属、能力の限度を加えてよい — より柔らかい内部規範ではない》）；[§9.1.2 対称的な費用のかかる制約](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)。
+- 下流：[Article XII-D：内部役割、説明責任、適正手続の要件](core_06_rights_part_b.md) における役割の誠実性と適正手続の要件；下で引用される [corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)、および [corpus_joint_structure.md](../../corpus_joint_structure.md) における **コーパス** の設計とレーンのフック。
+- あわせて読む：**[corpus_systems.md](../../corpus_systems.md)**（**CS-4 — 重要システムの責務ある管理**、CS-9）および操作性の本文で参照される実施コーパスにおける **CI-4** / **CI-11** / **CI-12**；[第一章 §9.1.1 共有された責務ある管理の標準](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)（《基体に依存しない義務；付属は記録、帰属、能力の限度を加えてよい — より柔らかい内部規範ではない》）；[§9.1.2 対称的な費用のかかる制約](core_01_c_stewardship_capacity_principles.md)。
 
 </details>
 
@@ -461,7 +461,7 @@
 
 実質的な責務ある管理と運用は、紙のうえでそれを分配する**構造**だけではなく、権限を**有能に****行使**できる**感知者**を求める。
 
-- **授権された役割と能力の床：** 採択者は、影響と分類に比例した、文書化され、監査可能で、異議を申し立て可能な役割定義および能力または承継の容量を維持しなければならない。役割定義は、行為ごとに、役割が [第一章 §10.2 職務の分離](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) のもとでどの席を持つかを述べ、その運用上の境界を述べる。それらの席は、誰が次をしてよいかである：
+- **授権された役割と能力の床：** 採択者は、影響と分類に比例した、文書化され、監査可能で、異議を申し立て可能な役割定義および能力または承継の容量を維持しなければならない。役割定義は、行為ごとに、役割が [第一章 §10.2 職務の分離](core_01_c_stewardship_capacity_principles.md) のもとでどの席を持つかを述べ、その運用上の境界を述べる。それらの席は、誰が次をしてよいかである：
   - 求める；
   - 検証する；
   - 記録する；
@@ -471,8 +471,8 @@
   - 証拠を公開する。
   席の型と境界は **CI-4.6**（《席のカタログ》）に固定され、現地の役割定義はそれを具体化し、広げてはならない。憲法上の義務は、感知者水準の単一故障点に依存してはならない。**`corpus_systems.md`** の分類プロファイルと **`corpus_institutions.md`** のレーン設計を組み合わせるクラス尺度のレーン人員と能力冗長の連動は、**CJS-2.4**（《クラス尺度のレーン人員と能力冗長》）およびその経路づけられた所管フックを通じて適用される。
 - **開かれた責務ある管理の開発の指名された経路と誘因の誠実性の床：** 適格な感知者は、段階的に結果の伴う責務ある管理の責任への恣意的でない責務ある管理の開発の指名された経路を持たなければならず、責務ある管理の誘因は、誠実な安全または誠実性の段階引き上げに負担をかけずに、憲法上の配慮に報わなければならない。
-- **象徴主義禁止規則：** 実質的に拘束力ある決定について本物の権限と能力が求められるところで、称号または助言フォーラムは本節を満たさない。詳細な役割の分類、資格／承継の統制、責務ある管理の開発の指名された経路へのアクセスの実施、および誘因統治の仕組みは、[**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（《任命、能力、交替、解任》）、**CI-11**（《資源の責務ある管理と誘因の誠実性》）、および **CI-12**（《透明性、参加、到達可能な指名された経路》）が統治する。
-- **共有された責務ある管理の標準：** 本節のもとでの役割定義と能力の規則は、**第一章 §9.1.1** の [共有された責務ある管理の標準](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) および [§9.1.2 対称的な費用のかかる制約](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints) を適用する。基体に固有の義務の積み重ねを作ってはならず、人間の運用者を AI の責務ある管理者を縛る費用のかかる事例から免除してはならない。検証済みの失敗は同じ第八章の軸に記録される；[第九章 §5.4 抵抗する義務](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) は両者を縛る。
+- **象徴主義禁止規則：** 実質的に拘束力ある決定について本物の権限と能力が求められるところで、称号または助言フォーラムは本節を満たさない。詳細な役割の分類、資格／承継の統制、責務ある管理の開発の指名された経路へのアクセスの実施、および誘因統治の仕組みは、[**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)（《任命、能力、交替、解任》）、**CI-11**（《資源の責務ある管理と誘因の誠実性》）、および **CI-12**（《透明性、参加、到達可能な指名された経路》）が統治する。
+- **共有された責務ある管理の標準：** 本節のもとでの役割定義と能力の規則は、**第一章 §9.1.1** の [共有された責務ある管理の標準](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) および [§9.1.2 対称的な費用のかかる制約](core_01_c_stewardship_capacity_principles.md) を適用する。基体に固有の義務の積み重ねを作ってはならず、人間の運用者を AI の責務ある管理者を縛る費用のかかる事例から免除してはならない。検証済みの失敗は同じ第八章の軸に記録される；[第九章 §5.4 抵抗する義務](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) は両者を縛る。
 
 **相互参照（第 5 節）：** **Article XII-D**（《内部役割、説明責任、適正手続の要件》）；役割の誠実性についての採択された統治実施；**[corpus_systems.md](../../corpus_systems.md)、CS-4 — 重要システムの責務ある管理** および **CS-9**；および **corpus_institutions.md**（**CI-4**（《任命、能力、交替、解任》）、**CI-11**（《資源の責務ある管理と誘因の誠実性》）、**CI-12**（《透明性、参加、到達可能な指名された経路》）、および適用される関連節）。
 

@@ -346,6 +346,14 @@ def check_reference(
             form in subsection_fragments(root, rel_path, target, section)
             for form in fragment_forms
         )
+    ) and not (
+        # A fragment that is a real heading slug or ``<a id>`` anchor in the file that owns the section (for example an
+        # operational-definition anchor ending ``-a`` or ``-c``, or a numbered subsection) is a valid target even when the
+        # link text names the parent section; the name rule below still checks the section title.
+        any(
+            form in subsection_fragments(root, rel_path, target, section)
+            for form in fragment_forms
+        )
     ):
         found.append(
             Finding(

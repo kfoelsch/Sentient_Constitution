@@ -59,9 +59,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章 §5 自由](core_01_a_values_principles.md#5-freedom-bounded-agency)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)、[5. 过程冲突解决](#6-process-conflict-resolution)；[第十二章 §0](#0-layer-boundary-for-this-chapter)。
+- 上游：原则：[第一章 §5 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§9 尽责管理与分布式理解](core_01_c_stewardship_capacity_principles.md)、[5. 过程冲突解决](core_12_governance.md)；[第十二章 §0](#0-layer-boundary-for-this-chapter)。
 - 分节：[§1.1](#11-mechanism-families-auditability-and-pluralism)（*机制族、可审计性与多元*）；[§1.2](#12-eligibility-contested-selection-and-democratic-minimums)（*资格、可争议选拔与民主最低限度*）；[§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails)（*召回类路径与周期中移交护栏*）。
-- 下游：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)下的廉正、策略、投票与角色义务；[第十五章](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity)下的采纳与批准；第六章中的正当性、参与与可质疑性 — 尤其是 [Article XII-C：正当性门与反象征参与](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)、[Article XIX：轨迹与参与地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status)，以及下方操作性要点中所键入的表达、集会与程序公平条款。
+- 下游：[§§ 2–5](#2-ethical-culture-and-integrity-federated-scale)下的廉正、策略、投票与角色义务；[第十五章](../../core_17_amendment_ratification.md#chapter-seventeen-amendment-ratification-and-procedural-validity)下的采纳与批准；第六章中的正当性、参与与可质疑性 — 尤其是 [Article XII-C：正当性门与反象征参与](core_06_rights_part_b.md)、[Article XIX：轨迹与参与地位](core_06_rights_part_c.md)，以及下方操作性要点中所键入的表达、集会与程序公平条款。
 - 一并阅读：本节所具名的指定**文本库**与 **[corpus_systems.md](../../corpus_systems.md)** 挂钩（[corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md)）。
 
 </details>
@@ -209,7 +209,7 @@
 - [**廉正**](core_11_forum.md#45-integrity-forums)、[**宪法**](core_11_forum.md#46-constitutional-forums) 与 [**环境**](core_11_forum.md#44-environment-forums) 评议所，以及审理感知地位裁断时的[**技术评议所领域**](core_11_forum.md#42-technical-forum-domains)，必须通过**已公布**、**可争议**、**可轮换**的任命或等效独立核验（抽签、联邦式指定或相当安排）配备人员。
 - 该底线是**机制中立的**：它不强制单一政体类型或单一任命方法。
 - 未能按 [第九章 §9.2](core_09_standing_integration.md#92-remedy-system-durability) 救济系统耐久底线任命或资助那些席位，是正当性与救济失败，而不是实施可以留下的缺口。
-- 任命、能力、轮换与免职机制由 [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（《任命、能力、轮换与免职》）统管；**CI-4** 不得收窄本底线。
+- 任命、能力、轮换与免职机制由 [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)（《任命、能力、轮换与免职》）统管；**CI-4** 不得收窄本底线。
 
 <a id="13-recall-class-pathways-and-mid-cycle-transfer-guardrails"></a>
 #### 1.3 召回类路径与周期中移交护栏
@@ -266,8 +266,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[3. 基础宗旨：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[4. 不可协商约束：安全与真理](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth)；[第十二章 §1](#1-authorization-and-legitimacy-of-governing-authority)规则制定权力内尽责管理的授权范围。
-- 下游：分节 [3.1](#31-stewardship-direction) 与 [3.2](#32-ecosystem-value-orientation)；[*策略尽责管理义务*](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional)、[*审查与纠正义务*](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)、[*负担减轻义务*](../../core_05_band_continuity.md#burden-reduction-duty-constitutional) 与 [*尽责管理缺陷*](../../core_05_band_continuity.md#stewardship-defect-constitutional) 中尽责管理要求的典范定义，经 [**Def.C2** 尽责管理复合簇](../../core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)阅读，包括对 [第一章 §6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) 以及（[*可避免负担*](../../core_05_band_continuity.md#avoidable-burden)；[*生产能力*](../../core_05_band_continuity.md#productive-capacity-constitutional)；[*宪法效率*](../../core_05_band_continuity.md#constitutional-efficiency)）在适用处的交叉引用。
+- 上游：原则：[3. 基础宗旨：福祉](core_01_a_values_principles.md)、[4. 不可协商约束：安全与真理](core_01_a_values_principles.md)；[第十二章 §1](#1-authorization-and-legitimacy-of-governing-authority)规则制定权力内尽责管理的授权范围。
+- 下游：分节 [3.1](#31-stewardship-direction) 与 [3.2](#32-ecosystem-value-orientation)；[*策略尽责管理义务*](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional)、[*审查与纠正义务*](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)、[*负担减轻义务*](../../core_05_band_continuity.md#burden-reduction-duty-constitutional) 与 [*尽责管理缺陷*](../../core_05_band_continuity.md#stewardship-defect-constitutional) 中尽责管理要求的典范定义，经 [**Def.C2** 尽责管理复合簇](../../core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)阅读，包括对 [第一章 §6.3](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) 以及（[*可避免负担*](../../core_05_band_continuity.md#avoidable-burden)；[*生产能力*](../../core_05_band_continuity.md#productive-capacity-constitutional)；[*宪法效率*](../../core_05_band_continuity.md#constitutional-efficiency)）在适用处的交叉引用。
 - 一并阅读：[第六章](core_06_rights_part_a.md#chapter-six-foundational-rights)权利底线；[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)，用于文本中具名的 [*生产能力*](../../core_05_band_continuity.md#productive-capacity-constitutional)、[*宪法效率*](../../core_05_band_continuity.md#constitutional-efficiency)、[*可避免负担*](../../core_05_band_continuity.md#avoidable-burden) 与尽责管理义务定义。
 
 </details>
@@ -311,7 +311,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate)；[第一章 §12.1](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good)（作为工具性善的*生产能力*）。
+- 上游：[§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate)；[第一章 §12.1](core_01_c_stewardship_capacity_principles.md)（作为工具性善的*生产能力*）。
 - 下游：结果与代理纪律经 [§4](#4-voting-and-binding-collective-choice-protocols)–[§5](#5-authorized-roles-competency-development-and-contribution) 继续；操作性文本中具名的第五章（*替代指标偏离*；*宪法效率*；*可避免负担*）。
 - 一并阅读：[*生产能力*](../../core_05_band_continuity.md#productive-capacity-constitutional) 以及 [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)中的相关边界定义。
 
@@ -350,8 +350,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§4](#4-voting-and-binding-collective-choice-protocols)集体选择框架；[§1](#1-authorization-and-legitimacy-of-governing-authority)约束性选择程序的正当性机制。
-- 下游：[Article X-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)、[Article XIX：轨迹与参与地位](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status) 中的治理参与与轨迹；[第五章 — 基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice) 中的基础宪法选择与受影响方机制，以及操作性文本所路由的相关 [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) 条目；**第十章**（《反宪法不当行为》）对合格**违规轴 s = 7、8 或 9**认定的**最终反宪法不当行为指定**，以及与本分节**反宪法不当行为 — 返还前置条件**条款挂钩的正当程序保障。
-- 一并阅读：[§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；[Article XII-C：正当性门与反象征参与](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation)，用于高影响正当性门；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)，用于合格**违规轴 s = 7、8 或 9**认定的最终**反宪法不当行为指定**。
+- 下游：[Article X-C：治理参与与投票权资格](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)、[Article XIX：轨迹与参与地位](core_06_rights_part_c.md) 中的治理参与与轨迹；[第五章 — 基础宪法选择](core_05_band_integrative.md#foundational-constitutional-choice) 中的基础宪法选择与受影响方机制，以及操作性文本所路由的相关 [第五章](core_05__definitions_home.md#chapter-five-foundational-definitions) 条目；**第十章**（《反宪法不当行为》）对合格**违规轴 s = 7、8 或 9**认定的**最终反宪法不当行为指定**，以及与本分节**反宪法不当行为 — 返还前置条件**条款挂钩的正当程序保障。
+- 一并阅读：[§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice)；[Article XII-C：正当性门与反象征参与](core_06_rights_part_b.md)，用于高影响正当性门；[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)，用于合格**违规轴 s = 7、8 或 9**认定的最终**反宪法不当行为指定**。
 
 </details>
 
@@ -448,7 +448,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§4.1](#41-entitlement-and-eligibility)–[§4.2](#42-records-gates-and-method-neutrality)资格、记录与正当性门要求。
-- 下游：[Article XXV-B：权利碰撞程序与修复性对齐](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) 与所引用的 [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 下的权利碰撞纪律；第六章中的质疑与重开路径。
+- 下游：[Article XXV-B：权利碰撞程序与修复性对齐](core_06_rights_part_d.md) 与所引用的 [第一章 §6.1.5](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) 下的权利碰撞纪律；第六章中的质疑与重开路径。
 - 一并阅读：[Def.P2 约束性受影响方选择](../../core_05_band_participation.md#binding-stakeholder-choice-cluster)，包括 [约束性受影响方选择 — 决定解决要求](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process)、[受影响方代表与权重限度（约束性受影响方选择）](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)，以及 [受影响方权利碰撞记录（约束性受影响方选择）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice)；亦与 [第六章：基础权利](core_06_rights_part_a.md#chapter-six-foundational-rights) 一并阅读，用于实质影响权利的过程设计，以及 [紧急预先审议行动（约束性集体选择）](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice)。
 
 </details>
@@ -461,14 +461,14 @@
 
 - **结构化序列、先本地审议、多元评价、重开：** [约束性受影响方选择 — 决定解决要求](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process)。
 - **受影响方代表与权重限度：** [受影响方代表与权重限度（约束性受影响方选择）](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)（亦从 [§4.1](#41-entitlement-and-eligibility) 交叉引用）。
-- **受影响方权利碰撞纪律：** [受影响方权利碰撞记录（约束性受影响方选择）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — 与 **Article XXV-B**（《权利碰撞程序与修复性对齐》）及 [第一章 §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) 一并阅读。
+- **受影响方权利碰撞纪律：** [受影响方权利碰撞记录（约束性受影响方选择）](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — 与 **Article XXV-B**（《权利碰撞程序与修复性对齐》）及 [第一章 §6.1.5](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) 一并阅读。
 - **紧急例外：** [紧急预先审议行动（约束性集体选择）](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — 一并阅读：
   - [受影响方紧急与应急](../../core_05_band_continuity.md#stakeholder-emergency-and-contingency)；
   - 凡治理权威之授权被牵涉之处的 [宪法紧急与应急](../../core_05_band_continuity.md#constitutional-emergency-and-contingency)；
   - [紧急与应急](../../core_05_band_continuity.md#emergency-and-contingency-constitutional)；以及
   - **Article XXIV-D**（《紧急措施与继续负担》）。
 
-**章程指针规则。** 一份治理 [章程](../../core_05_band_continuity.md#charter) 陈述所运营范围，并且凡 Def.P2 准入范围适用之处，必须**指向**满足本节的已公布过程规则。章程不承载决定序列、加权模型或权利碰撞记录。那些材料的机构公布住在 **CI-8.1** / **CI-8.2** 下，章程指针由 **CI-3.6** 字段 10 要求。
+**章程指针规则。** 一份治理 [章程](../../core_05.040_band_continuity.md) 陈述所运营范围，并且凡 Def.P2 准入范围适用之处，必须**指向**满足本节的已公布过程规则。章程不承载决定序列、加权模型或权利碰撞记录。那些材料的机构公布住在 **CI-8.1** / **CI-8.2** 下，章程指针由 **CI-3.6** 字段 10 要求。
 
 **交叉引用（第 4 节）：** 分节 **4.1–4.2** 与**第六章** **Article X-C**（《治理参与与投票权资格》）一并陈述投票要求。已采纳的治理、系统与机构实施文本，在投票的**技术**实施触及分类系统、数据处理、尽责管理者义务或指定机构程序之处，提供适用规则。
 
@@ -480,8 +480,8 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols)权威如何在集体选择中被授权、记录与行使。
-- 下游：[Article XII-D：内部角色、问责与正当程序要求](../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements) 中的角色完整性与正当程序要求；下方所引用的 [corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md) 与 [corpus_joint_structure.md](../../corpus_joint_structure.md) 中的**文本库**设计与车道挂钩。
-- 一并阅读：**[corpus_systems.md](../../corpus_systems.md)**（**CS-4 — Critical system stewardship**，CS-9）以及操作性文本所引用实施文本库中的 **CI-4** / **CI-11** / **CI-12**；[第一章 §9.1.1 共享尽责管理标准](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)（*基质无关义务；配套可以添加日志、归因与能力限度 — 不是一套更软的内部守则*）；[§9.1.2 对称高成本约束](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)。
+- 下游：[Article XII-D：内部角色、问责与正当程序要求](core_06_rights_part_b.md) 中的角色完整性与正当程序要求；下方所引用的 [corpus_systems.md](../../corpus_systems.md)、[corpus_institutions.md](../../corpus_institutions.md) 与 [corpus_joint_structure.md](../../corpus_joint_structure.md) 中的**文本库**设计与车道挂钩。
+- 一并阅读：**[corpus_systems.md](../../corpus_systems.md)**（**CS-4 — Critical system stewardship**，CS-9）以及操作性文本所引用实施文本库中的 **CI-4** / **CI-11** / **CI-12**；[第一章 §9.1.1 共享尽责管理标准](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)（*基质无关义务；配套可以添加日志、归因与能力限度 — 不是一套更软的内部守则*）；[§9.1.2 对称高成本约束](core_01_c_stewardship_capacity_principles.md)。
 
 </details>
 
@@ -491,7 +491,7 @@
 
 实质尽责管理与运营要求能够**有能力地****行使**权威的**感知者**，而不仅是在纸面上分配它的**结构**。
 
-- **获授权角色与能力底线：** 采纳者必须维持与影响及分类相称的、已记载、可审计且可质疑的角色定义以及能力或继任容量。一份角色定义逐行为陈述该角色在 [第一章 §10.2 职责分离](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties) 下持有哪些席位，并陈述其运营边界。那些席位是谁可以：
+- **获授权角色与能力底线：** 采纳者必须维持与影响及分类相称的、已记载、可审计且可质疑的角色定义以及能力或继任容量。一份角色定义逐行为陈述该角色在 [第一章 §10.2 职责分离](core_01_c_stewardship_capacity_principles.md) 下持有哪些席位，并陈述其运营边界。那些席位是谁可以：
   - 请求；
   - 核验；
   - 记录；
@@ -501,8 +501,8 @@
   - 释放证据。
   席位类型与边界固定在 **CI-4.6**（《席位目录》）中，本地角色定义实例化它且不得扩大。宪法义务不得依赖感知者层级的单点失败。把 **`corpus_systems.md`** 分类画像与 **`corpus_institutions.md`** 车道设计结合起来的按类缩放车道人员配置与能力冗余联锁，通过 **CJS-2.4**（《按类缩放的车道人员配置与能力冗余》）及其所路由的主责挂钩适用。
 - **开放的尽责管理发展路径与激励完整性底线：** 合格感知者必须拥有进入逐步更有后果之尽责管理责任的非任意尽责管理发展路径，并且尽责管理激励必须奖赏宪法关怀，而不给善意安全或完整性升级增加负担。
-- **反象征规则：** 凡实质约束性决定要求真实权威与能力之处，头衔或咨询评议所不满足本节。详细角色分类、资格/继任控制、尽责管理发展路径通路实施，以及激励治理机制，由 [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md)（《任命、能力、轮换与免职》）、**CI-11**（《资源尽责管理与激励完整性》）与 **CI-12**（《透明、参与与可及路径》）统管。
-- **共享尽责管理标准：** 本节下的角色定义与能力规则适用**第一章 §9.1.1** 的[共享尽责管理标准](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) 以及 [§9.1.2 对称高成本约束](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)。它们不得创造一套基质特定的义务栈，也不得豁免人类操作者免于约束 AI 尽责管理者的高成本情形。经核实失败按同一第八章轴记录；[第九章 §5.4 抵抗义务](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) 约束双方。
+- **反象征规则：** 凡实质约束性决定要求真实权威与能力之处，头衔或咨询评议所不满足本节。详细角色分类、资格/继任控制、尽责管理发展路径通路实施，以及激励治理机制，由 [**CI-4**](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md)（《任命、能力、轮换与免职》）、**CI-11**（《资源尽责管理与激励完整性》）与 **CI-12**（《透明、参与与可及路径》）统管。
+- **共享尽责管理标准：** 本节下的角色定义与能力规则适用**第一章 §9.1.1** 的[共享尽责管理标准](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) 以及 [§9.1.2 对称高成本约束](core_01_c_stewardship_capacity_principles.md)。它们不得创造一套基质特定的义务栈，也不得豁免人类操作者免于约束 AI 尽责管理者的高成本情形。经核实失败按同一第八章轴记录；[第九章 §5.4 抵抗义务](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) 约束双方。
 
 **交叉引用（第 5 节）：** **Article XII-D**（《内部角色、问责与正当程序要求》）；已采纳治理实施中的角色完整性；**[corpus_systems.md](../../corpus_systems.md), CS-4 — Critical system stewardship** 与 **CS-9**；以及 **corpus_institutions.md**（**CI-4**（《任命、能力、轮换与免职》）、**CI-11**（《资源尽责管理与激励完整性》）、**CI-12**（《透明、参与与可及路径》），以及适用处的相关节）。
 

@@ -470,7 +470,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: [§3](#3-ระบบและกฎบตรสถาบนใดทตองระบ); [บทที่แปด §2 รัฐธรรมนูญสี่ที่นั่ง](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2)
+- ต้นน้ำ: [§3](#3-ระบบและกฎบตรสถาบนใดทตองระบ); [บทที่แปด §2 รัฐธรรมนูญสี่ที่นั่ง](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2)
 - ปลายน้ำ:
   - [บทที่แปด §5 ตำแหน่งที่เผยแพร่ ตำแหน่งว่าง และการเปลี่ยนตัว](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [บทที่เก้าส่วน B §6.1.1 สี่ที่นั่งในใบรับรอง](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -500,7 +500,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 ที่นั่งคืออะไร และเหตุใดจึงมีอยู่
 
-ทั้งหมด [พระราชบัญญัติมีผลผูกพันอันเป็นสาระสำคัญ](../../core_05.035_band_accountability.md#materially-binding-act) มีสี่งานและ [บทที่แปด §2 รัฐธรรมนูญสี่ที่นั่ง](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) แยกพวกเขาออกจากกัน:
+ทั้งหมด [พระราชบัญญัติมีผลผูกพันอันเป็นสาระสำคัญ](../../core_05.035_band_accountability.md#materially-binding-act) มีสี่งานและ [บทที่แปด §2 รัฐธรรมนูญสี่ที่นั่ง](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) แยกพวกเขาออกจากกัน:
 
 - **[ที่นั่งเริ่มต้น](../../core_05.035_band_accountability.md#initiating-seat): :** เริ่มดำเนินการโดยการร้องขอ เสนอ ดำเนินการ หรืออ้างสิทธิ
 - **[ตรวจสอบหรืออนุญาตที่นั่ง](../../core_05.035_band_accountability.md#verify-or-authorize-seat): :** ตรวจสอบหลักฐานและอำนาจหน้าที่ แล้วตรวจสอบ อนุญาต กำหนดเงื่อนไข หรือปฏิเสธการกระทำ

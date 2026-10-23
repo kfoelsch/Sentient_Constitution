@@ -22,7 +22,7 @@
 
 13. **[Stewardship](core_05.040_band_continuity.md#stewardship)** orients material systems through sentient organization — **Pillar 1** ([§17](#17-consequential-stewardship-the-steward-role): consequential hands-on operation and improvement), **Pillar 2** ([proactive stewardship](#16-pillar-2-proactive-stewardship): catching trouble early and fixing it without avoidable delay), and **Pillar 3** ([§16.1](#161-distributed-understanding) · [§16.2](#162-institutional-development): competence at community and institutional scale) — toward durable constitutional alignment over time under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **[Participation](core_05.025_apex_participation_leg.md#participation-constitutional)** (consequential roles and voice) and **[Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional)** (distributed understanding, auditability, and contestability — oversight requires auditing; [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large audit process among others) — including the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 14. **[Consequential Stewardship](#17-consequential-stewardship-the-steward-role)** is the steward role itself: the hands-on duties, standards, and protections that attach to anyone doing consequential operation, maintenance, oversight, or improvement work on a material system — **Pillar 1** made operational, plus the shared standard, alignment under pressure, and role-scoped observability a steward's role carries.
-15. **[Governance](core_05.035_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **[Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised, and **authority-scaled answerability** under [§18.1](#181-governance-as-authorized-structure): greater authorized power or consequential role raises constitutional accountability and oversight, never lowers them. [§18.3 Segregation of Duties](#183-segregation-of-duties) keeps the one who acted from being the one who checks. [§18.4 Ongoing Justification](#184-ongoing-justification) requires those arrangements to keep proving they still fit this Constitution. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Fourteen**.
+15. **[Governance](core_05.035_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **[Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised, and **authority-scaled answerability** under [§18.1](#181-governance-as-authorized-structure): greater authorized power or consequential role raises constitutional accountability and oversight, never lowers them. [§18.3 Separation of Duties](#183-separation-of-duties) keeps the one who acted from being the one who checks. [§18.4 Ongoing Justification](#184-ongoing-justification) requires those arrangements to keep proving they still fit this Constitution. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Fourteen**.
 16. **[Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture)** supplies the principle-layer discipline for incentive structures, proxy integrity, short-horizon defects, reward-path correction, and capture response.
 17. **[Integrated Application](#20-integrated-application)** is the chapter capstone: later chapters are read through this chapter's integrated-value framework.
 
@@ -230,7 +230,7 @@ Distributed understanding is the community-facing facet of **Pillar 3** under **
 
 - **What it requires:** proportionate, structured access to how shared systems that materially affect sentients operate — their purposes, constraints, uncertainties, and materially relevant effects.
 - **What makes it workable:** [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) must supply documentation, education, transparency, role pathways, and comprehensibility stewardship. The obligation stands whether or not every sentient uses every path.
-- **Online public baseline:** where lawful online infrastructure exists, the online [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) — including the paywall prohibition and maximum-feasible public-substitute rule — is governed by [Transparency](core_05.050_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and is implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310** (*Information types and handling*).
+- **Online public baseline:** where lawful online infrastructure exists, the online [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) — including the paywall prohibition and maximum-feasible public-substitute rule — is governed by [Transparency](core_05.050_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure), and is implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-6.305 (*Information types and handling*) and CS-6.310** (*Data classifications*).
 - **What the access supports:**
   - the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** leg (informed [Meaningful Agency](core_05.055_band_participation.md#meaningful-agency) and contestability)
   - the **oversight** leg, including auditing under [Auditability](core_05.050_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*), of which [System Alignment Certification](core_05.040_band_continuity.md#system-alignment-certification) is one especially large process among sibling audit modes
@@ -436,7 +436,7 @@ This principle does not:
 flowchart TB
     S16["§16 Stewardship In Depth<br/><br/>• Pillar 1 made operational as a role (§17)<br/>• Governance and incentive discipline carried downstream (§18, §19)"]
     S17["§17 Consequential Stewardship<br/><br/>• The steward role: who does the work<br/>• §17.1 Shared Stewardship Standard<br/>• §17.2 Alignment Under Pressure<br/>• §17.3 Logging the Role, Not the Steward<br/>• §17.4 Aligned Self-Organization<br/>• §17.5 Duty to Resist<br/>• §17.6 Portable Competence"]
-    G18["§18 Governance Under Stewardship Discipline<br/><br/>• Authority structures: who may decide what<br/>• §18.1 Governance as Authorized Structure<br/>• §18.2 Institutional Secularism and Worldview Neutrality<br/>• §18.3 Segregation of Duties<br/>• §18.4 Ongoing Justification<br/>• §18.5 Modular Architecture and Dependency Discipline<br/>• §18.6 Standardization"]
+    G18["§18 Governance Under Stewardship Discipline<br/><br/>• Authority structures: who may decide what<br/>• §18.1 Governance as Authorized Structure<br/>• §18.2 Institutional Secularism and Worldview Neutrality<br/>• §18.3 Separation of Duties<br/>• §18.4 Ongoing Justification<br/>• §18.5 Modular Architecture and Dependency Discipline<br/>• §18.6 Standardization"]
     I19["§19 Incentive Alignment and System Capture<br/><br/>• Rewards: what pulls actors and structures<br/>• §19.1 Alignment Requirement<br/>• §19.2 Convenient Proxies and Proxy Divergence<br/>• §19.3 Misalignment Detection<br/>• §19.4 Misalignment Correction and Capture Response<br/>• §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets<br/>• §19.6 Keeping Responsibility When Ownership or Structure Changes"]
     FL["Flourishing aim<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
     CO["Continuity aim<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
@@ -457,7 +457,7 @@ flowchart TB
 ```
 
 **Reading the chart:**
-- **Stewardship discipline and the steward role both feed governance:** [§16 Stewardship In Depth](#16-stewardship-in-depth) supplies the stewardship discipline, and [§17 Consequential Stewardship: The Steward Role](#17-consequential-stewardship-the-steward-role) supplies the steward role, meaning the sentients and AI systems that actually do the work. [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline) sets the authorized structures that work happens inside: who may decide what, segregation of duties, ongoing justification, modular architecture, and standardization.
+- **Stewardship discipline and the steward role both feed governance:** [§16 Stewardship In Depth](#16-stewardship-in-depth) supplies the stewardship discipline, and [§17 Consequential Stewardship: The Steward Role](#17-consequential-stewardship-the-steward-role) supplies the steward role, meaning the sentients and AI systems that actually do the work. [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline) sets the authorized structures that work happens inside: who may decide what, separation of duties, ongoing justification, modular architecture, and standardization.
 - **Governance structures are kept aligned by incentive alignment:** [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) keeps rewards, proxies, and ownership changes from pulling those structures, and the stewards inside them, away from constitutional outcomes. It also carries detection, correction, and capture response, and [§19.1.3 Stewardship and Operator Application](#1913-stewardship-and-operator-application) applies the rule to stewards and operators directly.
 - **Incentive alignment serves the aims and the Tetrad:** the **Flourishing** and **Continuity** aims, and the **participation**, **oversight**, **accountability**, and **timeliness** legs of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
 
@@ -805,15 +805,15 @@ flowchart TB
   - [§19.3 Misalignment Detection](#193-misalignment-detection) (*plural detection*);
   - [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response).
 - Limits:
-  - [§18.3 Segregation of Duties](#183-segregation-of-duties) and
-  - [Chapter Eight §2 Four-Seat Constitutional Floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2) (*learning a seat is not holding it*);
+  - [§18.3 Separation of Duties](#183-separation-of-duties) and
+  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) (*learning a seat is not holding it*);
   - [Chapter Eleven §6.2 Competency bars and clearances](core_11.000_standing_integration.md#62-competency-bars-and-clearances) (11.000 §6.2);
   - [§17.5 Duty to Resist](#175-duty-to-resist);
   - [13.2 Epistemic Disclosure Constraints](core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints).
 - Downstream:
   - [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution) (14.000 §5) (*no single point of sentient-level failure*);
   - [CJS-18.110 §4](corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*);
-  - [CI-14.205 §1](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-floor) (*Shared staffing and competency floor*);
+  - [CI-14.205 §1](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement) (*Shared staffing and competency requirement*);
   - [CS-14.305 §10](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, succession, inspectable action, and oversight effectiveness*).
 
 </details>
@@ -844,14 +844,14 @@ Competence in a consequential role belongs to the role and to the communities th
 - **Rotation is a tool:** Role pathways may use rotation, shadowing, paired work, or temporary cover where it serves coverage, learning, or [anti-capture](core_05.040_band_continuity.md#anti-capture). It moves only where safety and consent allow, and not faster than competence builds. A role must not be spread so thin that nobody is competent in it.
 
 **Limits:**
-- **Seats stay separate:** Learning another seat's work is not holding that seat. Rotation must not put a sentient in the checking seat over work they did, and earlier involvement in an act is a conflict under [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) and [§18.3 Segregation of Duties](#183-segregation-of-duties).
+- **Seats stay separate:** Learning another seat's work is not holding that seat. Rotation must not put a sentient in the checking seat over work they did, and earlier involvement in an act is a conflict under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) and [§18.3 Separation of Duties](#183-separation-of-duties).
 - **Clearance comes first:** No one steps into a binding or safety-relevant role before meeting its competency bar under [Chapter Eleven §6.2 Competency bars and clearances](core_11.000_standing_integration.md#62-competency-bars-and-clearances). Until then they work supervised, in a learning-dominant role.
 - **No retaliation:** Reassignment, rotation, or retraining must not be used to sideline a steward who resisted under [§17.5 Duty to Resist](#175-duty-to-resist) or used [protected reporting](core_05.035_band_accountability.md#protected-reporting-whistleblowing).
 - **Understanding is not access:** Confidentiality, security, and least-privilege limits under [13.2 Epistemic Disclosure Constraints](core_01.010_interaction_interpretation.md#132-epistemic-disclosure-constraints) still bind, and the role logging in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward) still applies.
 - **Specialization and burden:** [§16 Scope](#16-scope-priority-and-limits) stands: this does not require rotating everyone through every role or override justified specialization. The effort is sized to [Avoidable Burden](core_05.040_band_continuity.md#avoidable-burden). A small or informal group can meet it through a few trusted sentients covering for each other, without institutional apparatus.
 - **Every steward:** The same duty binds human and AI stewards under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
 
-Staffing minimums, backup depth, and succession mechanics live in [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-18.110 §4](corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*), [CI-14.205 §1](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-floor) (*Shared staffing and competency floor*), and [CS-14.305 §10](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, succession, inspectable action, and oversight effectiveness*). This subsection states the principle they carry out.
+Staffing minimums, backup depth, and succession mechanics live in [Chapter Fourteen §5 — Authorized Roles, Competency Development, and Contribution](core_14.000_governance.md#5-authorized-roles-competency-development-and-contribution), [CJS-18.110 §4](corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*), [CI-14.205 §1](corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-1-shared-staffing-and-competency-requirement) (*Shared staffing and competency requirement*), and [CS-14.305 §10](corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, succession, inspectable action, and oversight effectiveness*). This subsection states the principle they carry out.
 
 <br>
 
@@ -881,7 +881,7 @@ Staffing minimums, backup depth, and succession mechanics live in [Chapter Fourt
 - Subsections (reading order):
   - [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure) ·
   - [§18.2 Institutional Secularism and Worldview Neutrality](#182-institutional-secularism-and-worldview-neutrality) ·
-  - [§18.3 Segregation of Duties](#183-segregation-of-duties) ·
+  - [§18.3 Separation of Duties](#183-separation-of-duties) ·
   - [§18.4 Ongoing Justification](#184-ongoing-justification) ·
   - [§18.5 Modular Architecture and Dependency Discipline](#185-modular-architecture-and-dependency-discipline) ·
   - [§18.6 Standardization](#186-standardization).
@@ -907,7 +907,7 @@ Staffing minimums, backup depth, and succession mechanics live in [Chapter Fourt
 
 *In plain terms: governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Fourteen's operative authorization rules.*
 
-This section carries [Governance](core_05.035_band_accountability.md#governance) discipline downstream of [§16 Stewardship In Depth](#16-stewardship-in-depth): authorized structure, institutional secularism, stewardship override, [ongoing justification](#184-ongoing-justification), and segregation of duties. **[§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture)** carries incentive alignment, proxy integrity, short-horizon defect correction, operator application, and capture response.
+This section carries [Governance](core_05.035_band_accountability.md#governance) discipline downstream of [§16 Stewardship In Depth](#16-stewardship-in-depth): authorized structure, institutional secularism, stewardship override, [ongoing justification](#184-ongoing-justification), and separation of duties. **[§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture)** carries incentive alignment, proxy integrity, short-horizon defect correction, operator application, and capture response.
 
 <a id="181-governance-as-authorized-structure"></a>
 #### 18.1 Governance as Authorized Structure
@@ -925,7 +925,7 @@ This section carries [Governance](core_05.035_band_accountability.md#governance)
   - [Oversight](core_05.020_apex_oversight_leg.md#oversight-constitutional).
 - Upstream: Principles: [§16 Stewardship In Depth](#16-stewardship-in-depth); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream:
-  - [§18.3 Segregation of Duties](#183-segregation-of-duties);
+  - [§18.3 Separation of Duties](#183-separation-of-duties);
   - [§18.4 Ongoing Justification](#184-ongoing-justification);
   - [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture);
   - [Chapter Fourteen](core_14.000_governance.md) (14.000) (*Constitutional Contract Layer* operationalization);
@@ -1012,8 +1012,8 @@ This Constitution and the public governance it constrains are secular in the ins
 - Apply it consistently with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article XI-F** (*Non-Imposition and Consent in Association*) where cooperative interaction applies.
 - The individual freedom of conscience, religion, and comparable worldview is stated in **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
 
-<a id="183-segregation-of-duties"></a>
-#### 18.3 Segregation of Duties
+<a id="183-separation-of-duties"></a>
+#### 18.3 Separation of Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1022,7 +1022,7 @@ This Constitution and the public governance it constrains are secular in the ins
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (the one who checks is not the one who acted); **accountability** leg (answerability cannot collapse onto the actor); [material stake](core_00.000_preamble.md#material-stake) scaling under [Proportionality](core_05.035_band_accountability.md#proportionality).
 - Read with: [§19.3 Misalignment Detection](#193-misalignment-detection) (*Plural detection and review — the many-eyes half of this pair*).
 - Read with: [§18.5 Modular Architecture and Dependency Discipline](#185-modular-architecture-and-dependency-discipline) (*the architectural counterpart: separable, attributable system components*).
-- Downstream: [Chapter Eight — Functional Independence and Segregation of Duties](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) (8.000), the constitutional owner of the four-seat floor and its cross-process application; designated implementation text and later process chapters apply that floor and may not narrow it.
+- Downstream: [Chapter Eight — Functional Independence and Separation of Duties](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) (8.000), the constitutional owner of the Four-Seat Requirement and its cross-process application; designated implementation text and later process chapters apply that floor and may not narrow it.
 
 </details>
 
@@ -1044,7 +1044,7 @@ This Constitution and the public governance it constrains are secular in the ins
 
 **Whoever checks the work can't be the one who did it.**
 
-Oversight and accountability only work if the checking is done independently of the action being checked. So every decision or action that materially binds sentients must follow the separation-of-roles rules in [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties). Those rules include:
+Oversight and accountability only work if the checking is done independently of the action being checked. So every decision or action that materially binds sentients must follow the separation-of-roles rules in [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties). Those rules include:
 
 - different sentients (human or AI) in the "doing" and "checking" roles;
 - combinations of roles that are off-limits;
@@ -1114,7 +1114,7 @@ Important governance choices cannot be set once and forgotten. They must be rech
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure); [§18.3 Segregation of Duties](#183-segregation-of-duties) (*the organizational counterpart: separation of roles keeps the checker apart from the actor; this section keeps the system's parts separable enough to be checked*).
+- Upstream: [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure); [§18.3 Separation of Duties](#183-separation-of-duties) (*the organizational counterpart: separation of roles keeps the checker apart from the actor; this section keeps the system's parts separable enough to be checked*).
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (parts that can be examined one at a time), **accountability** leg (responsibility that attaches to an identifiable component), **participation** leg (understanding that does not require mastering the whole); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** (containment, repair, replacement) and **Flourishing**.
 - Read with:
   - [§5.2 Plain-Language Accessibility](core_01.005_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and
@@ -1515,7 +1515,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 - No single actor, forum, institution, operator, auditor, information mediator, appointing authority, or stakeholder bloc may monopolize the practical ability to detect, review, correct, or interpret material constitutional failure.
 - Plural, structurally independent oversight pathways must remain available where [material stake](core_00.000_preamble.md#material-stake) requires them.
 - Lawful security and confidentiality limits still apply, but they must preserve maximum feasible [Auditability](core_05.050_band_oversight.md#auditability) and [Contestability](core_05.035_band_accountability.md#contestability).
-- This is the many-eyes half of a pair with [§18.3 Segregation of Duties](#183-segregation-of-duties): plurality keeps oversight from being cornered by one actor; segregation keeps it from being performed by the actor under review.
+- This is the many-eyes half of a pair with [§18.3 Separation of Duties](#183-separation-of-duties): plurality keeps oversight from being cornered by one actor; separation of duties keeps it from being performed by the actor under review.
 
 **Open systems, data, and auditing** (defined in [Chapter Five](core_05.045_band_integrative.md#open-systems-data-and-auditing)):
 

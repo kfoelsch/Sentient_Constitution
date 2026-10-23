@@ -470,7 +470,7 @@ flowchart TB
 <details>
 <summary> <strong> <span style="color: #2563eb;"> Трассировка </span> </strong> </summary>
 
-- Восходящий поток: [§3 ](#3-что-должны-быть-указаны-в-системных-и-институциональных-уставах) ; [Глава восьмая §2 Четырехместный конституционный пол ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- Восходящий поток: [§3 ](#3-что-должны-быть-указаны-в-системных-и-институциональных-уставах) ; [Глава восьмая §2 Четырехместный конституционный пол ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - Ниже по течению:
   - [Глава восьмая §5 Опубликованное размещение, вакансии и замена ](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [Глава девятая, часть B §6.1.1 Четыре места в сертификате ](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -500,7 +500,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"> </a>
 #### 4.1 Что такое сиденья и почему они существуют
 
-В каждом [Законе о материальной обязательности ](../../core_05.035_band_accountability.md#materially-binding-act) есть четыре должности, и [Глава восьмая §2 Четырехместный конституционный этаж ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) разделяет их:
+В каждом [Законе о материальной обязательности ](../../core_05.035_band_accountability.md#materially-binding-act) есть четыре должности, и [Глава восьмая §2 Четырехместный конституционный этаж ](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) разделяет их:
 
 - **[Инициирующее место ](../../core_05.035_band_accountability.md#initiating-seat) :** начинает действие с запроса, предложения, выполнения или утверждения его.
 - **[Подтверждение или авторизация места ](../../core_05.035_band_accountability.md#verify-or-authorize-seat) :** проверяет доказательства и полномочия, затем проверяет, санкционирует, обуславливает или отклоняет действие.

@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [అధ్యాయం ఐదు దిక్సూచి](core_05__definitions_home.md#అధయయ-ఐద-దకసచ-మరయ-నరవచన-మయప); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); సూత్ర-పొర వివరణ [ప్రస్తావన §1](core_00_preamble.md#flourishing)లో.
-- గమ్యం: సూత్రాలు: [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 రాజీలేని సూత్ర పరిమితులు: భద్రత మరియు సత్యం](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 విశ్వాసం](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 రాజ్యాంగ ఫలిత వాదనల క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [రాజ్యాంగ లక్ష్య విభజన](#flourishing-aim-decomposition); [అధ్యాయం ఐదు దిక్సూచి](core_05__definitions_home.md#అధయయ-ఐద-దకసచ-మరయ-నరవచన-మయప) ప్రకారం **సమున్నతి** ప్రాథమిక లక్ష్యం అయిన చతుష్టయం బ్యాండ్ ఫైళ్ళు.
+- గమ్యం: సూత్రాలు: [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md); [§3 రాజీలేని సూత్ర పరిమితులు: భద్రత మరియు సత్యం](core_01_a_values_principles.md); [§4 విశ్వాసం](core_01_a_values_principles.md); [§11.1.5 రాజ్యాంగ ఫలిత వాదనల క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [రాజ్యాంగ లక్ష్య విభజన](#flourishing-aim-decomposition); [అధ్యాయం ఐదు దిక్సూచి](core_05__definitions_home.md#అధయయ-ఐద-దకసచ-మరయ-నరవచన-మయప) ప్రకారం **సమున్నతి** ప్రాథమిక లక్ష్యం అయిన చతుష్టయం బ్యాండ్ ఫైళ్ళు.
 - దీనితో చదవండి: [శ్రేయస్సు](../../core_05.040_band_continuity.md#wellbeing), [భద్రత (పరిమితి)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [సత్యం (రాజ్యాంగ పరిమితి)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [నమ్మదగినతనం](../../core_05.040_band_continuity.md#trustworthiness), [అర్థవంతమైన కర్తృత్వం](../../core_05.055_band_participation.md#meaningful-agency), [ప్రతినిధి విచలనం](../../core_05.050_band_oversight.md#proxy-divergence), [వ్యవస్థ స్వాధీనం](../../core_05.040_band_continuity.md#system-capture), [కొనసాగింపు (రాజ్యాంగ లక్ష్యం)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (జత లక్ష్యం — ఒకదాని ఖర్చుతో మరొకటి అనుసరించకూడదు), [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) [భౌతిక పందెం](core_00_preamble.md#material-stake)కు స్కేల్ (ఈ లక్ష్యం ధర్మబద్ధత చట్రం — ఐదవ ఘటకం కాదు), మరియు సమున్నతి కొలత కుటుంబం.
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) కింద అంచనా వేయండి, [భౌతిక పందెం](core_00_preamble.md#material-stake)కు స్కేల్.
-  - వాదించిన సమున్నతి ఫలితాలను [ఘటక](#flourishing-aim-decomposition) షరతులకు మరియు సంజ్ఞ ప్రాణులు నిజంగా అనుభవించే ఫలితాలకు కట్టండి, అధ్యాయం నాలుగు మరియు [అధ్యాయం ఒకటి §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline) కింద.
+  - వాదించిన సమున్నతి ఫలితాలను [ఘటక](#flourishing-aim-decomposition) షరతులకు మరియు సంజ్ఞ ప్రాణులు నిజంగా అనుభవించే ఫలితాలకు కట్టండి, అధ్యాయం నాలుగు మరియు [అధ్యాయం ఒకటి §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline) కింద.
   - ఎల్లప్పుడూ [కొనసాగింపు (రాజ్యాంగ లక్ష్యం)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)తో చదవండి: దీర్ఘకాల స్థిరత, స్థితిస్థాపకత, లేదా పర్యావరణ సమగ్రతను అంచనా-యోగ్యంగా బలహీనపరిచే స్వల్పకాలిక లాభాలు రెండు లక్ష్యాలు కలిసి అంచనా వేయబడినప్పుడు **సమున్నతి**ను విఫలం చేస్తాయి.
 <a id="flourishing-constitutional-c"></a>
 - C: అనుసరణ-కాదు ఎప్పుడు:
   - సత్యం, భద్రత, నమ్మదగినతనం, లేదా కర్తృత్వం ఖాళీ అవుతుండగా ఒక నిర్మాణ బ్లాక్ గరిష్టం చేయబడుతుంది;
   - సమున్నతి వాదనలు అధ్యాయం నాలుగు కింద రాజ్యాంగ ఫలితాలకు జాడ పట్టలేవు; లేదా
-  - [అధ్యాయం ఒకటి §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) కింద స్పష్టమైన అనుమతి లేకుండా [కొనసాగింపు (రాజ్యాంగ లక్ష్యం)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)ను భౌతికంగా ఓడించే విధంగా **సమున్నతి** అనుసరించబడుతుంది.
+  - [అధ్యాయం ఒకటి §6](core_01_b_interaction_interpretation.md) కింద స్పష్టమైన అనుమతి లేకుండా [కొనసాగింపు (రాజ్యాంగ లక్ష్యం)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)ను భౌతికంగా ఓడించే విధంగా **సమున్నతి** అనుసరించబడుతుంది.
 
 ---
 

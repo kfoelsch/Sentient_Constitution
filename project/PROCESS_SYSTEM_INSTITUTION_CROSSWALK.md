@@ -64,7 +64,7 @@ Confidence: 42 high, 22 medium, 3 low.
 3. **Process is the most entangled object.** 13 of 20 Process items (65%) name a second object. System and Institution are about half single-object each (8 of 16 and 10 of 19). System items cluster in Chapter One Part C (capture, capacity, market structure).
 4. **Chapter One already roughly sorts this way.** Part B is mostly Process plus the interpretation rules. Part C is mostly System and Institution. Part A is mostly values that bind every object, plus six Process items (2.3, 3.3, 3.4, 4.2, 5.1, 5.2).
 5. **The values and the object-specific principles are different kinds of thing.** Eight items are values that bind every object. They are what the object-specific principles serve, and no object owns them. For the reorganizing task, that is a more useful split than any of the three objects.
-6. **Process principles are scattered.** Ten Process items sit outside Part B: six in Part A and four in Part C (§§10.3, 10.5, 11.2, 12.3). §18.3 Segregation of Duties is the clearest case. It is a Chapter One principle whose home chapter, Chapter Eight, is itself a Process floor.
+6. **Process principles are scattered.** Ten Process items sit outside Part B: six in Part A and four in Part C (§§10.3, 10.5, 11.2, 12.3). §18.3 Separation of Duties is the clearest case. It is a Chapter One principle whose home chapter, Chapter Eight, is itself a Process requirement.
 
 ## What this does and does not support
 
@@ -124,7 +124,7 @@ Confidence: 42 high, 22 medium, 3 low.
 | 1C §10.5 | Duty to Resist | Process | Institution | M | Refuse, document, escalate sequence; duty falls on the steward |
 | 1C §11 | Governance Under Stewardship Discipline | Institution | — | H | Who may decide what and how |
 | 1C §11.1 | Governance as Authorized Structure | Institution | — | H | Authorized power and answerability |
-| 1C §11.2 | Segregation of Duties | Process | Institution | H | Actor not the independent check on the act; applies to every binding process |
+| 1C §11.2 | Separation of Duties | Process | Institution | H | Actor not the independent check on the act; applies to every binding process |
 | 1C §11.3 | Ongoing Justification | Institution | Process | M | Decision, voice and weighting rules must keep proving fit, on a visible schedule |
 | 1C §12 | Incentive Alignment and System Capture | System | Institution | H | Capture and incentive discipline |
 | 1C §12.1 | Alignment Requirement | System | — | M | Based on keyword list, not full read |
@@ -143,7 +143,7 @@ Confidence: 42 high, 22 medium, 3 low.
 | 1C §15 | Systemic Evaluation Requirement | System | Process | H | Pointer to Chapter Nine and CS-9.305 and CS-9.310 |
 | 1C §16 | Integrated Application | All objects | — | H | Read every later chapter through Chapter One |
 | 7 §1 | Purpose, Scope, and Owner Boundary | Process | Institution | H | Separate jobs inside any binding process |
-| 7 §2 | Four-Seat Constitutional Floor | Process | Institution | H | Ask or act, check, keep record, hear challenge |
+| 7 §2 | Four-Seat Constitutional Requirement | Process | Institution | H | Ask or act, check, keep record, hear challenge |
 | 7 §3 | Independence, Conflict, and Control Lines | Institution | Process | M | Who can direct, remove, reward or overrule whom |
 | 7 §4 | Wrong-Seat Routing | Process | — | H | Do not silently take it; decline, name the seat, route |
 | 7 §5 | Published Placement, Vacancy, and Substitution | Institution | Process | H | Who holds each seat and who covers |
@@ -155,5 +155,5 @@ Confidence: 42 high, 22 medium, 3 low.
 ## Legend
 
 - **1A / 1B / 1C:** `core_01.005_values_principles.md`, `core_01.010_interaction_interpretation.md`, `core_01.015_stewardship_capacity_principles.md`.
-- **7:** `core_08.000_functional_independence_segregation_of_duties.md`.
+- **7:** `core_08.000_functional_independence_separation_of_duties.md`.
 - **Also:** the second object the item clearly touches, if any.

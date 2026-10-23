@@ -8,8 +8,8 @@
 >
 > - **రాజ్యాంగ యజమాని:** గణనీయంగా బద్ధత కలిగించే చర్యలకు ప్రత్యేక స్థానాల కనీస ప్రమాణం; ప్రతి [గణనీయంగా బద్ధత కలిగించే చర్య రికార్డు](../../core_05_band_accountability.md#materially-binding-act-record) లో ఉండవలసిన సార్వత్రిక కనీస అంశాలు; చర్యకర్త మరియు వారి [భౌతిక నియంత్రణ రేఖ](../../core_05_band_accountability.md#material-control-line) నుంచి స్వాతంత్ర్యం; ముందుగా ప్రచురించిన లేన్ మరియు పాత్ర కేటాయింపు; ప్రయోజన సంఘర్షణ, ఖాళీ, ప్రత్యామ్నాయ నియామకం, తప్పు స్థానానికి వచ్చిన అంశాల మార్గనిర్దేశం; నిష్పత్తికి తగిన విలీన హోస్టింగ్; ఆపాదించగల బాధ్యతతో జరిగే బదిలీలు; ప్రతి తరువాతి రాజ్యాంగ ప్రక్రియ పాటించవలసిన కనీస స్వాతంత్ర్య షరతులు.
 > - **సూత్రాల-స్థాయి మూలం:** [అధ్యాయం ఒకటి §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties) పరిపాలన కార్యాత్మక స్వాతంత్ర్యాన్ని కాపాడాలని కోరుతూ, అమలులో ఉండే స్థాన నిర్మాణాన్ని ఇక్కడికి నిర్దేశిస్తుంది.
-> - **అమలు యజమాని:** [CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), మరియు [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) స్థానాలను కేటాయించి అమలులో పెడతాయి. అవి మరింత కఠినంగా ఉండవచ్చు, పరిమిత ప్రత్యేక-అధికార స్థాన రకాలను చేర్చవచ్చు; ఈ అధ్యాయాన్ని మాత్రం బలహీనపరచకూడదు.
-> - **ప్రక్రియ-నిర్దిష్ట అన్వయం తరువాతి అధ్యాయాల్లో ఉంటుంది:** అధ్యాయం ఎనిమిది ఈ కనీస ప్రమాణాన్ని వ్యవస్థ-అనుసరణ ధృవీకరణకు వర్తింపజేస్తుంది; [అధ్యాయం తొమ్మిది §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties) స్థితి రికార్డులకు వర్తింపజేస్తుంది; అధ్యాయం పన్నెండు మరియు [corpus_forum.md](../../corpus_forum.md) ఫోరమ్ ప్రక్రియకు వర్తింపజేస్తాయి. ఆ అధ్యాయాలు తమ అంశానికి అవసరమైన రక్షణలను జోడించవచ్చు; బలహీనమైన ప్రత్యామ్నాయాన్ని సృష్టించకూడదు.
+> - **అమలు యజమాని:** [CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes), మరియు [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) స్థానాలను కేటాయించి అమలులో పెడతాయి. అవి మరింత కఠినంగా ఉండవచ్చు, పరిమిత ప్రత్యేక-అధికార స్థాన రకాలను చేర్చవచ్చు; ఈ అధ్యాయాన్ని మాత్రం బలహీనపరచకూడదు.
+> - **ప్రక్రియ-నిర్దిష్ట అన్వయం తరువాతి అధ్యాయాల్లో ఉంటుంది:** అధ్యాయం ఎనిమిది ఈ కనీస ప్రమాణాన్ని వ్యవస్థ-అనుసరణ ధృవీకరణకు వర్తింపజేస్తుంది; [అధ్యాయం తొమ్మిది §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties) స్థితి రికార్డులకు వర్తింపజేస్తుంది; అధ్యాయం పన్నెండు మరియు [corpus_forum.md](../../corpus_forum.md) ఫోరమ్ ప్రక్రియకు వర్తింపజేస్తాయి. ఆ అధ్యాయాలు తమ అంశానికి అవసరమైన రక్షణలను జోడించవచ్చు; బలహీనమైన ప్రత్యామ్నాయాన్ని సృష్టించకూడదు.
 >
 > పఠన క్రమం: §1 ఉద్దేశ్యం మరియు పరిధి → §2 నాలుగు-స్థానాల కనీస ప్రమాణం → §3 స్వాతంత్ర్యం మరియు ప్రయోజన సంఘర్షణలు → §4 తప్పు స్థానానికి వచ్చిన అంశాల మార్గనిర్దేశం → §5 ముందస్తు ప్రచురిత కేటాయింపు మరియు ప్రత్యామ్నాయులు → §6 నిష్పత్తి ప్రకారం విస్తరణ → §7 అత్యవసరాలు → §8 చర్య రికార్డులు మరియు ఆపాదించగల బదిలీలు → §9 తరువాతి అన్వయం.
 
@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
 - పైస్థాయి: [రాజ్యాంగ చతుష్టయం](../../core_00_preamble.md#constitutional-tetrad) — ముఖ్యంగా **పర్యవేక్షణ** మరియు **జవాబుదారీతనం**; [భౌతిక వాటా](../../core_00_preamble.md#material-stake); [అధ్యాయం ఒకటి §17.1 భాగస్వామ్య సంరక్షకత్వ ప్రమాణం](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard); [అధ్యాయం ఒకటి §18 సంరక్షకత్వ క్రమశిక్షణలో పరిపాలన](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [ఆర్టికల్ XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*).
-- ఉపవిభాగాలు: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
+- ఉపవిభాగాలు: [§1](#1-purpose-scope-and-owner-boundary); [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§6](#6-proportional-scaling-and-merged-hosting); [§7](#7-emergency-and-urgent-action); [§8](#8-act-records-and-attributable-handoffs); [§9](#9-relationship-to-later-processes).
 - దిగువస్థాయి: [అధ్యాయం ఎనిమిది](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index); [అధ్యాయం తొమ్మిది](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [అధ్యాయం పన్నెండు](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction); [అధ్యాయం పదమూడు](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship); పైన పేర్కొన్న నిర్దేశిత అమలు పాఠ్యాలు.
 - వీటితో కలిపి చదవండి: [అధ్యాయం ఒకటి §19.3 అసమలేఖన గుర్తింపు](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection) (*బహుళ పక్షాల గుర్తింపు మరియు సమీక్ష*); [ఆపాదించగల చర్య](../../core_05_band_accountability.md#attributable-action); [ఆపాదింపు సమగ్రత](../../core_05_band_accountability.md#attribution-integrity); [ఆడిట్ చేయగలగడం](../../core_05_band_oversight.md#auditability); [సవాలు చేయగలగడం](../../core_05_band_accountability.md#contestability); [నిష్పత్తి సముచితత్వం](../../core_05_band_accountability.md#proportionality).
 
@@ -36,7 +36,7 @@
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
 - పైస్థాయి: అధ్యాయం ప్రారంభంలోని యజమాని వాదన; [అధ్యాయం ఒకటి §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [పర్యవేక్షణ](../../core_05_apex_oversight_leg.md#oversight-constitutional); [జవాబుదారీతనం](../../core_05_apex_accountability_leg.md#accountability).
-- దిగువస్థాయి: [§2](#2-four-seat-constitutional-floor) నుంచి [§9](#9-relationship-to-later-processes) వరకు; గణనీయంగా బద్ధత కలిగించే చర్యను ఉత్పత్తి చేసే లేదా మార్చే ప్రతి తరువాతి ప్రక్రియ.
+- దిగువస్థాయి: [§2](#2-four-seat-constitutional-requirement) నుంచి [§9](#9-relationship-to-later-processes) వరకు; గణనీయంగా బద్ధత కలిగించే చర్యను ఉత్పత్తి చేసే లేదా మార్చే ప్రతి తరువాతి ప్రక్రియ.
 - వీటితో కలిపి చదవండి: ధృవీకరణకు ఆధార నిర్మాణం కోసం [అధ్యాయం నాలుగు](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); సవాలు మరియు పరిష్కారం కోసం [ఆర్టికల్ XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*విశ్వసనీయత మరియు నమ్మదగినత కనీస ప్రమాణం*) మరియు [ఆర్టికల్ XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*పరిష్కారం మరియు ఉపశమన హక్కు*); స్వతంత్ర ధృవీకరణ హక్కుల కనీస ప్రమాణాల కోసం [ఆర్టికల్ XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ*).
 
 </details>
@@ -65,14 +65,14 @@
 - ప్రక్రియ-నిర్దిష్ట రికార్డు అంశాలను అధ్యాయాలు ఎనిమిది నుంచి పన్నెండు నుంచి; లేదా
 - నిర్వహణ స్థానాల జాబితాలు, సిబ్బంది పద్ధతులు, లేన్-మ్యాప్ విధానాలను నిర్దేశిత అమలు పాఠ్యాల నుంచి.
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. నాలుగు-స్థానాల రాజ్యాంగ కనీస ప్రమాణం
 
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
 - పైస్థాయి: [§1](#1-purpose-scope-and-owner-boundary); [అధ్యాయం ఒకటి §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties); [అధ్యాయం ఒకటి §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- దిగువస్థాయి: [§3](#3-independence-conflict-and-control-lines) నుంచి [§9](#9-relationship-to-later-processes) వరకు; [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*స్థానాల జాబితా — ప్రక్రియ-పాత్ర నమూనాలు మరియు నిర్వహణ సరిహద్దులు*).
+- దిగువస్థాయి: [§3](#3-independence-conflict-and-control-lines) నుంచి [§9](#9-relationship-to-later-processes) వరకు; [CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*స్థానాల జాబితా — ప్రక్రియ-పాత్ర నమూనాలు మరియు నిర్వహణ సరిహద్దులు*).
 - వీటితో కలిపి చదవండి: విలీన హోస్టింగ్‌కు అనుమతించిన ఏకైక మార్గం కోసం [§6](#6-proportional-scaling-and-merged-hosting).
 
 </details>
@@ -163,9 +163,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
-- పైస్థాయి: [§2](#2-four-seat-constitutional-floor); [అధికారానికి అనుగుణమైన జవాబుదారీతనం](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [ఆర్టికల్ XXIV](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*రాజ్యాంగ వివరణ, సమీక్ష, స్వాధీనత-నిరోధక రక్షణలు*).
+- పైస్థాయి: [§2](#2-four-seat-constitutional-requirement); [అధికారానికి అనుగుణమైన జవాబుదారీతనం](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [ఆర్టికల్ XXIV](core_06_rights_part_d.md) (*రాజ్యాంగ వివరణ, సమీక్ష, స్వాధీనత-నిరోధక రక్షణలు*).
 - దిగువస్థాయి: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); అధ్యాయం ఎనిమిది ధృవీకరణ భాగపు పాత్రలు; అధ్యాయం తొమ్మిది రికార్డు అదుపు; అధ్యాయం పన్నెండు ఫోరమ్‌లో స్వీయ-నిర్ణయ నిషేధం.
-- వీటితో కలిపి చదవండి: [భౌతిక నియంత్రణ రేఖ](../../core_05_band_accountability.md#material-control-line); నిర్వహణ ప్రయోజన సంఘర్షణ, స్వాధీనత-నిరోధక రక్షణల కోసం [CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*ప్రయోజన సంఘర్షణ సమగ్రత, స్వాధీనత-నిరోధం, అవినీతి నిరోధం*) మరియు [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*సమగ్రత రక్షణలు, స్వాధీనత-నిరోధక నిర్వహణ, స్వీయ-నిర్ణయ నిరోధానికి మద్దతు*).
+- వీటితో కలిపి చదవండి: [భౌతిక నియంత్రణ రేఖ](../../core_05_band_accountability.md#material-control-line); నిర్వహణ ప్రయోజన సంఘర్షణ, స్వాధీనత-నిరోధక రక్షణల కోసం [CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md) (*ప్రయోజన సంఘర్షణ సమగ్రత, స్వాధీనత-నిరోధం, అవినీతి నిరోధం*) మరియు [CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md) (*సమగ్రత రక్షణలు, స్వాధీనత-నిరోధక నిర్వహణ, స్వీయ-నిర్ణయ నిరోధానికి మద్దతు*).
 
 </details>
 
@@ -190,8 +190,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
-- పైస్థాయి: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines).
-- దిగువస్థాయి: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-4.6 ఉమ్మడి స్థాన నియమాలు](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
+- పైస్థాయి: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines).
+- దిగువస్థాయి: [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); [CI-4.6 ఉమ్మడి స్థాన నియమాలు](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - వీటితో కలిపి చదవండి: [అధ్యాయం ఒకటి §17.5 ప్రతిఘటించాల్సిన బాధ్యత](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 </details>
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
-- పైస్థాయి: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [పారదర్శకత](../../core_05_band_oversight.md#transparency); [ఆడిట్ చేయగలగడం](../../core_05_band_oversight.md#auditability).
-- దిగువస్థాయి: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*కార్యాత్మక విభజన లేన్‌లు*); [CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*అనుమతించిన పాత్రలు మరియు జవాబుదారీ శ్రేణులు*); అధ్యాయం ఎనిమిది, అధ్యాయం తొమ్మిది రికార్డులు.
-- వీటితో కలిపి చదవండి: [చార్టర్](../../core_05_band_continuity.md#charter) మరియు [అధ్యాయం పదమూడు §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
+- పైస్థాయి: [§2](#2-four-seat-constitutional-requirement); [§3](#3-independence-conflict-and-control-lines); [పారదర్శకత](../../core_05_band_oversight.md#transparency); [ఆడిట్ చేయగలగడం](../../core_05_band_oversight.md#auditability).
+- దిగువస్థాయి: [§8](#8-act-records-and-attributable-handoffs); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*కార్యాత్మక విభజన లేన్‌లు*); [CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains) (*అనుమతించిన పాత్రలు మరియు జవాబుదారీ శ్రేణులు*); అధ్యాయం ఎనిమిది, అధ్యాయం తొమ్మిది రికార్డులు.
+- వీటితో కలిపి చదవండి: [చార్టర్](../../core_05.040_band_continuity.md) మరియు [అధ్యాయం పదమూడు §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
 
@@ -243,8 +243,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
-- పైస్థాయి: [§2](#2-four-seat-constitutional-floor); [భౌతిక వాటా](../../core_00_preamble.md#material-stake); [అవశ్యకత](../../core_05_band_accountability.md#necessity); [నిష్పత్తి సముచితత్వం](../../core_05_band_accountability.md#proportionality).
-- దిగువస్థాయి: [అధ్యాయం తొమ్మిది §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*వర్గానికి తగిన లేన్ సిబ్బంది కేటాయింపు, సామర్థ్య పునరావృతం*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*కార్యాత్మక విభజన లేన్‌లు*).
+- పైస్థాయి: [§2](#2-four-seat-constitutional-requirement); [భౌతిక వాటా](../../core_00_preamble.md#material-stake); [అవశ్యకత](../../core_05_band_accountability.md#necessity); [నిష్పత్తి సముచితత్వం](../../core_05_band_accountability.md#proportionality).
+- దిగువస్థాయి: [అధ్యాయం తొమ్మిది §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy) (*వర్గానికి తగిన లేన్ సిబ్బంది కేటాయింపు, సామర్థ్య పునరావృతం*); [CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes) (*కార్యాత్మక విభజన లేన్‌లు*).
 - వీటితో కలిపి చదవండి: [నివారించగల భారం](../../core_05_band_continuity.md#avoidable-burden) మరియు అధ్యాయం ఒకటి [§3.3 హీనపరచని ప్రక్రియ](../../core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -266,7 +266,7 @@ flowchart TB
 
 అనౌపచారిక, వేతనం లేని, పరస్పర సహాయం, సంరక్షణ, మరమ్మతు, బోధన, సహకార, సముదాయ సంరక్షకత్వ పనుల్లో సంబంధిత తనిఖీకి ప్రచురిత అధికారం కలిగిన, ప్రయోజన రహిత నమ్మకస్త సంస్థను ఉపయోగించవచ్చు. నిజంగా ప్రయోజన రహితమైన, జవాబుదారీ మార్గం ఉన్నప్పుడు, ఆ పని పరిధి భరించలేని సంస్థాగత అధికారికతను రాజ్యాంగం కోరదు.
 
-సిబ్బంది కొరత, వేగం, సౌలభ్యం లేదా నైపుణ్యం కొందరిలో కేంద్రీకృతమై ఉండటం మాత్రమే విలీనానికి సమర్థన కాదు. [§2 నాలుగు-స్థానాల రాజ్యాంగ కనీస ప్రమాణం](#2-four-seat-constitutional-floor) లోని వర్గానికి అనుగుణమైన విధానం వర్తిస్తుంది: వర్గం A కు మినహాయింపు లేదు; వర్గం B లేదా C కు ఏదైనా మినహాయింపు ఇవ్వాలంటే పైన పేర్కొన్న అవసరాలు తీరాలి. భౌతిక వాటా ఎంత ఎక్కువైతే, వేర్వేరు కార్యాలయాలు, నైపుణ్య పునరావృతం, స్వతంత్ర ప్రత్యామ్నాయుల అవసరంపై ముందస్తు ఊహ అంత బలంగా ఉండాలి.
+సిబ్బంది కొరత, వేగం, సౌలభ్యం లేదా నైపుణ్యం కొందరిలో కేంద్రీకృతమై ఉండటం మాత్రమే విలీనానికి సమర్థన కాదు. [§2 నాలుగు-స్థానాల రాజ్యాంగ కనీస ప్రమాణం](#2-four-seat-constitutional-requirement) లోని వర్గానికి అనుగుణమైన విధానం వర్తిస్తుంది: వర్గం A కు మినహాయింపు లేదు; వర్గం B లేదా C కు ఏదైనా మినహాయింపు ఇవ్వాలంటే పైన పేర్కొన్న అవసరాలు తీరాలి. భౌతిక వాటా ఎంత ఎక్కువైతే, వేర్వేరు కార్యాలయాలు, నైపుణ్య పునరావృతం, స్వతంత్ర ప్రత్యామ్నాయుల అవసరంపై ముందస్తు ఊహ అంత బలంగా ఉండాలి.
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. అత్యవసర మరియు తక్షణ చర్య
@@ -274,9 +274,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
-- పైస్థాయి: [§2](#2-four-seat-constitutional-floor); [§6](#6-proportional-scaling-and-merged-hosting); [అధ్యాయం పన్నెండు §6.1 అత్యవసర చర్యలు, కొనసాగింపుకు సంబంధించిన భారం](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [ప్రామాణిక మధ్యంతర విధానం](../../core_01_b_interaction_interpretation.md#default-interim-posture).
+- పైస్థాయి: [§2](#2-four-seat-constitutional-requirement); [§6](#6-proportional-scaling-and-merged-hosting); [అధ్యాయం పన్నెండు §6.1 అత్యవసర చర్యలు, కొనసాగింపుకు సంబంధించిన భారం](../../core_13_forum.md#61-emergency-measures-and-continuation-burden); [ప్రామాణిక మధ్యంతర విధానం](../../core_01_b_interaction_interpretation.md#default-interim-posture).
 - దిగువస్థాయి: నిర్దేశిత అమలు పాఠ్యాల్లోని ఘటన, నిరోధం, విడుదల, కొనసాగింపు, ఘటనానంతర సమీక్ష ప్రక్రియలు.
-- వీటితో కలిపి చదవండి: [కాలపాలన](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [సాక్ష్య భద్రపరచడం](../../core_05_band_oversight.md#evidence-preservation), మరియు [CI-4.6 స్థానాల జాబితా — ప్రక్రియ-పాత్ర నమూనాలు, నిర్వహణ సరిహద్దులు](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- వీటితో కలిపి చదవండి: [కాలపాలన](../../core_05_apex_timeliness_leg.md#timeliness-constitutional), [సాక్ష్య భద్రపరచడం](../../core_05_band_oversight.md#evidence-preservation), మరియు [CI-4.6 స్థానాల జాబితా — ప్రక్రియ-పాత్ర నమూనాలు, నిర్వహణ సరిహద్దులు](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -313,8 +313,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్</span></strong></summary>
 
-- పైస్థాయి: [§2](#2-four-seat-constitutional-floor) నుంచి [§7](#7-emergency-and-urgent-action) వరకు; [గణనీయంగా బద్ధత కలిగించే చర్య రికార్డు](../../core_05_band_accountability.md#materially-binding-act-record); [ఆపాదించగల చర్య](../../core_05_band_accountability.md#attributable-action); [ఆపాదింపు సమగ్రత](../../core_05_band_accountability.md#attribution-integrity).
-- దిగువస్థాయి: [CS-4 §10 పరిశీలించగల ఆపాదిత చర్య](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [CI-4.6 ఉమ్మడి స్థాన నియమాలు](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8 ప్రకారం నిర్వహించే ప్రతి ప్రక్రియ రికార్డు; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*యంత్రం ద్వారా తనిఖీ చేయగల ప్రాథమిక రూపం; రెండో నిర్వచనం కాదు, ప్రక్రియకు మద్దతు మాత్రమే*).
+- పైస్థాయి: [§2](#2-four-seat-constitutional-requirement) నుంచి [§7](#7-emergency-and-urgent-action) వరకు; [గణనీయంగా బద్ధత కలిగించే చర్య రికార్డు](../../core_05_band_accountability.md#materially-binding-act-record); [ఆపాదించగల చర్య](../../core_05_band_accountability.md#attributable-action); [ఆపాదింపు సమగ్రత](../../core_05_band_accountability.md#attribution-integrity).
+- దిగువస్థాయి: [CS-4 §10 పరిశీలించగల ఆపాదిత చర్య](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action); [CI-4.6 ఉమ్మడి స్థాన నియమాలు](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); §8 ప్రకారం నిర్వహించే ప్రతి ప్రక్రియ రికార్డు; [`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json) (*యంత్రం ద్వారా తనిఖీ చేయగల ప్రాథమిక రూపం; రెండో నిర్వచనం కాదు, ప్రక్రియకు మద్దతు మాత్రమే*).
 - వీటితో కలిపి చదవండి: [§4 తప్పు స్థానానికి వచ్చిన అంశాల మార్గనిర్దేశం](#4-wrong-seat-routing) మరియు [అధ్యాయం నాలుగు §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>

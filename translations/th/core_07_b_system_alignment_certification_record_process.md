@@ -10,7 +10,7 @@
 > มี **บทที่เจ็ด ส่วน ข** — เนื้อหา **บันทึก** การรับรอง ความโปร่งใสและความสามารถในการโต้แย้ง บทบาทส่วนประกอบของเวที ลำดับการกำกับ สะพานร่องรอย และการเปิดใหม่ (**§11–§16** ต่อจากส่วน ก §1–§10) **ส่วน ก** — ข้อกำหนดการประเมิน — อยู่ใน [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md)
 >
 > - **เจ้าของทางรัฐธรรมนูญ (ร่วมกับส่วน ก):** **การรับรองความสอดคล้องของระบบและบันทึกที่เกี่ยวข้อง** ที่เวทีกำกับ ภายใต้ขา **การกำกับดูแล** ของจตุรภาค SAC เป็นกระบวนการตรวจที่ใหญ่และมีส่วนได้เสียสูงเป็นพิเศษในบรรดาอื่น; พื้นการตรวจคงอยู่ที่ **มาตรา XVI** และ [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) ของบทที่ห้า
-> - **ข้อมูลเข้าการประเมิน:** [ส่วน ก §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ถึง [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) จัดหาผลลัพธ์การประเมินที่สะท้อนบนบันทึกการรับรอง
+> - **ข้อมูลเข้าการประเมิน:** [ส่วน ก §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ถึง [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) จัดหาผลลัพธ์การประเมินที่สะท้อนบนบันทึกการรับรอง
 > - **กฎต้านการย้าย:** ส่วน ข ไม่กล่าวซ้ำกลไกประเมินของส่วน ก บทนิยามฉบับหลักของบทที่ห้า การวัดร่องรอยของบทที่แปด หรือผลของร่องรอยของบทที่เก้า **§15** กล่าวขอบสะพานร่องรอยอย่างชัดเจน ส่วน ข ก็ไม่ย้ายความเป็นเจ้าของการตรวจจาก **มาตรา XVI** / **Def.O1** / **CJS-3.3**–**CJS-3.5**
 >
 > **ต้นทาง:** [ส่วน ก](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation); การกำกับของเวทีในบทที่สิบเอ็ด; วินัยการตรวจสอบของบทที่สองถึงสี่
@@ -27,7 +27,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: [ส่วน ก §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*จุดประสงค์การรับรองและแผนที่การประเมิน*); [ส่วน ก §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ถึง [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ผลลัพธ์การประเมินสำหรับบันทึก*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims)
+- ต้นทาง: [ส่วน ก §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*จุดประสงค์การรับรองและแผนที่การประเมิน*); [ส่วน ก §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ถึง [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*ผลลัพธ์การประเมินสำหรับบันทึก*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims)
 - ปลายทาง: [§11](#11-certification-record) ถึง [§16](#16-reopening-drift-and-non-evasion); [บทที่แปด](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model); [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)
 - อ่านคู่กับ: [corpus_forum.md](../../corpus_forum.md) **CF-5** และ **CF-7**
 
@@ -35,7 +35,7 @@
 
 <br>
 
-บทที่เจ็ด **ส่วน ข** เป็นเจ้าของทางรัฐธรรมนูญของ **บันทึกการรับรอง** **กระบวนการที่เวทีกำกับ** และ **สะพานร่องรอย** สำหรับการรับรองความสอดคล้องของระบบ ข้อกำหนดการประเมินอยู่ใน **[ส่วน ก](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)** ส่วน กจบที่ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation); ส่วนนี้ต่อบทที่ **§11**
+บทที่เจ็ด **ส่วน ข** เป็นเจ้าของทางรัฐธรรมนูญของ **บันทึกการรับรอง** **กระบวนการที่เวทีกำกับ** และ **สะพานร่องรอย** สำหรับการรับรองความสอดคล้องของระบบ ข้อกำหนดการประเมินอยู่ใน **[ส่วน ก](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)** ส่วน กจบที่ [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation); ส่วนนี้ต่อบทที่ **§11**
 
 *พูดแบบตรง ๆ: ส่วน กกล่าวว่าต้อง **ประเมิน** อะไร ส่วน ขกล่าวว่าอะไรต้องไป **บนบันทึก** **เวที** ดำเนินกระบวนการอย่างไร ผู้มีความรู้สึกที่ได้รับผลกระทบ **โต้แย้ง** ผลอย่างไร และการรับรองอาจป้อน **ร่องรอย** ได้อย่างไร — โดยไม่ให้การรับรองแทนการวัดร่องรอยหรือผลของร่องรอย*
 
@@ -48,7 +48,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: [ส่วน ก §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*จุดประสงค์การรับรอง*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*ปัจจัยประเมินทั้งระบบ*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ถึง [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ผลลัพธ์ประเมินโดเมนที่สะท้อนบนบันทึก*); [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional) (*ความหมายบทที่ห้า*); [§12](#12-transparency-auditability-and-contestability) (*ความโปร่งใส ความสามารถในการตรวจ ความสามารถในการโต้แย้ง*); [§14](#14-supervisory-sequence-and-contestability-chain) (*ลำดับการกำกับและสายความสามารถในการโต้แย้ง*)
+- ต้นทาง: [ส่วน ก §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*จุดประสงค์การรับรอง*); [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*ปัจจัยประเมินทั้งระบบ*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ถึง [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*ผลลัพธ์ประเมินโดเมนที่สะท้อนบนบันทึก*); [บันทึกการรับรองระบบ](../../core_05.040_band_continuity.md#system-certification-record-constitutional) (*ความหมายบทที่ห้า*); [§12](#12-transparency-auditability-and-contestability) (*ความโปร่งใส ความสามารถในการตรวจ ความสามารถในการโต้แย้ง*); [§14](#14-supervisory-sequence-and-contestability-chain) (*ลำดับการกำกับและสายความสามารถในการโต้แย้ง*)
 - ปลายทาง: [§15](#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*กระบวนการรับรองที่เวทีกำกับ*)
 - หมวดย่อย: [§11.1](#111-minimum-record-contents) (*เนื้อหาบันทึกขั้นต่ำ*); [§11.2](#112-cross-section-record-requirements) (*ข้อกำหนดบันทึกข้ามหมวด*); [§11.3](#113-rights-floor-record-evaluation-non-substitution) (*การประเมินบันทึกพื้นสิทธิ — ห้ามแทน*)
 
@@ -56,9 +56,9 @@
 
 <br>
 
-*พูดแบบตรง ๆ: บันทึกการรับรองคือแฟ้มคดีที่ตรวจได้ของระบบหนึ่งที่อยู่ในการทบทวน — ใครดำเนิน อะไรถูกตรวจ พบอะไร ตัดสินอะไร และจะโต้แย้งอย่างไร ไม่ใช่ชุดการตลาดหรือตราอนุมัติบรรทัดเดียว ความลึกของบันทึก การเปิดเผย และภาระการโต้แย้งปรับตามชั้นระบบภายใต้ [§2.1](core_07_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) — ระบบวิกฤตต่อการอยู่รอด **Class A** ขอแฟ้มที่เต็มและโต้แย้งได้มากกว่าชั้นประสาน **Class C** แม้ทั้งคู่ต้องกล่าวชั้นอย่างซื่อและสะท้อนการประเมินที่ถูกขอ*
+*พูดแบบตรง ๆ: บันทึกการรับรองคือแฟ้มคดีที่ตรวจได้ของระบบหนึ่งที่อยู่ในการทบทวน — ใครดำเนิน อะไรถูกตรวจ พบอะไร ตัดสินอะไร และจะโต้แย้งอย่างไร ไม่ใช่ชุดการตลาดหรือตราอนุมัติบรรทัดเดียว ความลึกของบันทึก การเปิดเผย และภาระการโต้แย้งปรับตามชั้นระบบภายใต้ [§2.1](core_07_a_system_alignment_certification_evaluation.md) — ระบบวิกฤตต่อการอยู่รอด **Class A** ขอแฟ้มที่เต็มและโต้แย้งได้มากกว่าชั้นประสาน **Class C** แม้ทั้งคู่ต้องกล่าวชั้นอย่างซื่อและสะท้อนการประเมินที่ถูกขอ*
 
-**บันทึกการรับรองระบบ** เป็นบันทึกที่มีขอบและทบทวนได้เกี่ยวกับระบบ รุ่น ผู้ดำเนินการหรือผู้บริหารอย่างรับผิดชอบ ขอบเขต หน้าต่างเวลา โปรไฟล์ผลกระทบที่เป็นสาระ และบริบทการตัดสินอย่างใดอย่างหนึ่ง — มีขอบเขต มีขอบเวลา และโต้แย้งได้ภายใต้ความหมายบทที่ห้าใน [บันทึกการรับรองระบบ](core_05_band_continuity.md#system-certification-record-constitutional)
+**บันทึกการรับรองระบบ** เป็นบันทึกที่มีขอบและทบทวนได้เกี่ยวกับระบบ รุ่น ผู้ดำเนินการหรือผู้บริหารอย่างรับผิดชอบ ขอบเขต หน้าต่างเวลา โปรไฟล์ผลกระทบที่เป็นสาระ และบริบทการตัดสินอย่างใดอย่างหนึ่ง — มีขอบเขต มีขอบเวลา และโต้แย้งได้ภายใต้ความหมายบทที่ห้าใน [บันทึกการรับรองระบบ](../../core_05.040_band_continuity.md#system-certification-record-constitutional)
 
 <a id="111-minimum-record-contents"></a>
 
@@ -66,28 +66,28 @@
 
 บันทึกต้องระบุอย่างน้อย:
 
-- **อัตลักษณ์ ขอบเขต และสถานะของระบบ:** ระบบ รุ่น ผู้ดำเนินการหรือผู้บริหารอย่างรับผิดชอบ ขอบเขต [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) ที่กำกับหรือตราสารขอบเขตที่เผยแพร่ที่เทียบได้ (หรือการขาดที่มีเหตุในที่ที่ไม่เป็นสาระ) ชุมชนที่ได้รับผลกระทบ การพึ่งพา และสถานะการทบทวน — รวมว่าขอบเขตที่รับรองตรงกับขอบเขตที่ตราสารกล่าวในที่ที่มีตราสารกำหนดขอบเขต;
-- **ข้อค้นพบการประเมินทั้งระบบ:** ข้อค้นพบที่เป็นสาระภายใต้ [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) รวมขอบเขตเชิงระบบ การเข้าถึงได้ การเรียกใช้ร่วมความเป็นส่วนตัว การออก การชุมนุม ความสอดคล้องของเวลา การปกครอง สิ่งจูงใจ และความสามารถในการโต้แย้งในที่ที่เกี่ยว — และในที่ที่ความเสี่ยงระบบอยู่ในขอบเขตภายใต้ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) ข้อค้นพบ [การประเมินความเสี่ยง](core_05_band_continuity.md#risk-evaluation) พร้อมท่าที [การเปิดเผยความเสี่ยง](core_05_band_oversight.md#risk-disclosure) (ผู้รับหรือการจัดเส้นทาง เวลา การกักและการแทนที่ และข้อบกพร่องหรือเงื่อนไขที่ยังไม่ยุติ) กล่าวบนบันทึกนี้ ไม่ใช่เป็นบันทึกเปิดเผยความเสี่ยงที่ตั้งชื่อแยก;
-- **บันทึกการจำแนกระบบ:** [บันทึกการจำแนกระบบ](core_05_band_continuity.md#system-classification-record-constitutional) — หรือเนื้อหาที่ถูกขอภายใต้ CS-3 — ตามที่ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ขอ รวม:
+- **อัตลักษณ์ ขอบเขต และสถานะของระบบ:** ระบบ รุ่น ผู้ดำเนินการหรือผู้บริหารอย่างรับผิดชอบ ขอบเขต [ตราสารกำหนดขอบเขต](../../core_05.040_band_continuity.md) ที่กำกับหรือตราสารขอบเขตที่เผยแพร่ที่เทียบได้ (หรือการขาดที่มีเหตุในที่ที่ไม่เป็นสาระ) ชุมชนที่ได้รับผลกระทบ การพึ่งพา และสถานะการทบทวน — รวมว่าขอบเขตที่รับรองตรงกับขอบเขตที่ตราสารกล่าวในที่ที่มีตราสารกำหนดขอบเขต;
+- **ข้อค้นพบการประเมินทั้งระบบ:** ข้อค้นพบที่เป็นสาระภายใต้ [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) รวมขอบเขตเชิงระบบ การเข้าถึงได้ การเรียกใช้ร่วมความเป็นส่วนตัว การออก การชุมนุม ความสอดคล้องของเวลา การปกครอง สิ่งจูงใจ และความสามารถในการโต้แย้งในที่ที่เกี่ยว — และในที่ที่ความเสี่ยงระบบอยู่ในขอบเขตภายใต้ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) ข้อค้นพบ [การประเมินความเสี่ยง](../../core_05.040_band_continuity.md#risk-evaluation) พร้อมท่าที [การเปิดเผยความเสี่ยง](core_05_band_oversight.md#risk-disclosure) (ผู้รับหรือการจัดเส้นทาง เวลา การกักและการแทนที่ และข้อบกพร่องหรือเงื่อนไขที่ยังไม่ยุติ) กล่าวบนบันทึกนี้ ไม่ใช่เป็นบันทึกเปิดเผยความเสี่ยงที่ตั้งชื่อแยก;
+- **บันทึกการจำแนกระบบ:** [บันทึกการจำแนกระบบ](../../core_05.040_band_continuity.md#system-classification-record-constitutional) — หรือเนื้อหาที่ถูกขอภายใต้ CS-3 — ตามที่ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) ขอ รวม:
   - การกำหนดชั้นระบบ;
   - ชนิดการพึ่งพา;
   - เหตุผลการจำแนก; และ
   - ข้อสมมติผลกระทบที่เป็นสาระ;
-- **บันทึกชนิดข้อมูลของระบบ:** [บันทึกชนิดข้อมูลของระบบ](core_05_band_continuity.md#system-data-types-record-constitutional) — หรือเนื้อหาที่ถูกขอภายใต้ CS-2 — ตามที่ [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) ขอ รวม:
+- **บันทึกชนิดข้อมูลของระบบ:** [บันทึกชนิดข้อมูลของระบบ](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) — หรือเนื้อหาที่ถูกขอภายใต้ CS-2 — ตามที่ [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) ขอ รวม:
   - ชนิดข้อมูลที่อยู่ในขอบเขตอย่างเป็นสาระ และข้อสมมติการปฏิบัติ การแยก วงชีวิต และการประกันโครงสร้างพื้นฐานที่พึ่ง;
-  - การประเมินชนิดข้อมูลเป็นระยะล่าสุด (วันที่หรือตัวระบุรอบ จังหวะที่ปรับตามชั้นและผลกระทบ และการจัดชนิดใหม่ที่เป็นสาระใด) ภายใต้ **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** และ **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)**;
-  - ความสามารถระบุผู้กระทำที่พอรองรับ [การกระทำที่ระบุผู้กระทำได้](core_05_band_accountability.md#attributable-action-constitutional) และ [ความครบถ้วนของการระบุผู้กระทำ](core_05_band_accountability.md#attribution-integrity-constitutional); และ
+  - การประเมินชนิดข้อมูลเป็นระยะล่าสุด (วันที่หรือตัวระบุรอบ จังหวะที่ปรับตามชั้นและผลกระทบ และการจัดชนิดใหม่ที่เป็นสาระใด) ภายใต้ **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** และ **[CS-2 §8](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-8-system-data-types-record-governance)**;
+  - ความสามารถระบุผู้กระทำที่พอรองรับ [การกระทำที่ระบุผู้กระทำได้](../../core_05.035_band_accountability.md#attributable-action-constitutional) และ [ความครบถ้วนของการระบุผู้กระทำ](../../core_05.035_band_accountability.md#attribution-integrity-constitutional); และ
   - ในที่ที่เส้นฐาน Type O ใช้ [การเปิดเผยเส้นฐานการกำกับดูแลสาธารณะ](core_05_band_oversight.md#public-oversight-baseline-disclosure) ครอบขอบเขตที่รับรองอย่างไร (ช่องตราสารกำหนดขอบเขตที่พึ่ง ข้อค้นพบขอบ และช่องว่างการครอบหรือเงื่อนไขใด);
-- **การประเมินรอยเท้าทางนิเวศ:** ภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้ ข้อสมมติการระบุตามวงชีวิตและการพึ่งพา ท่าทีการเปิดเผย และข้อค้นพบส่วนประกอบรอยเท้าตามที่ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) ขอ;
-- **การประเมินการบริหารทรัพยากรข้ามระบบอย่างรับผิดชอบ:** ข้อค้นพบแผนที่ระบบที่พึ่งและกระแสทรัพยากร ข้อค้นพบความพอของ [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) และข้อค้นพบส่วนประกอบความเป็นธรรมข้ามระบบตามที่ [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ใช้;
-- **การประเมินการไม่เลือกปฏิบัติ:** ข้อค้นพบแบบภาระและประโยชน์ ข้อค้นพบลักษณะที่คุ้มครองและการเลือกปฏิบัติโดยตัวแทน และข้อค้นพบส่วนประกอบความเป็นธรรมที่เป็นสาระตามที่ [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ใช้;
-- **การประเมินการเข้าถึงได้:** ข้อค้นพบการมีส่วนร่วมที่เป็นสาระ การจัดอำนวย และต้านการปฏิเสธโดยตัวแทนตามที่ [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ใช้;
-- **การประเมินขีดความสามารถทางการศึกษาและความครบถ้วนของระบบการเรียนรู้:** ข้อค้นพบการสร้างขีดความสามารถ เส้นทางฝึกใหม่ ความโปร่งใสของการประเมิน และความสามารถในการโต้แย้งของระบบการเรียนรู้ตามที่ [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้;
-- **การประเมินความน่าไว้วางใจและความครบถ้วนของการพึ่งระบบ:** ข้อค้นพบความพึ่งได้ ความไว้วางใจเท็จ สิ่งจูงใจบิดเบี้ยว เส้นทางโต้แย้ง และความครบถ้วนของการฟื้นตามที่ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ใช้;
+- **การประเมินรอยเท้าทางนิเวศ:** ภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้ ข้อสมมติการระบุตามวงชีวิตและการพึ่งพา ท่าทีการเปิดเผย และข้อค้นพบส่วนประกอบรอยเท้าตามที่ [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) ขอ;
+- **การประเมินการบริหารทรัพยากรข้ามระบบอย่างรับผิดชอบ:** ข้อค้นพบแผนที่ระบบที่พึ่งและกระแสทรัพยากร ข้อค้นพบความพอของ [การสนับสนุนข้ามระบบตามสัดส่วน](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) และข้อค้นพบส่วนประกอบความเป็นธรรมข้ามระบบตามที่ [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ใช้;
+- **การประเมินการไม่เลือกปฏิบัติ:** ข้อค้นพบแบบภาระและประโยชน์ ข้อค้นพบลักษณะที่คุ้มครองและการเลือกปฏิบัติโดยตัวแทน และข้อค้นพบส่วนประกอบความเป็นธรรมที่เป็นสาระตามที่ [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ใช้;
+- **การประเมินการเข้าถึงได้:** ข้อค้นพบการมีส่วนร่วมที่เป็นสาระ การจัดอำนวย และต้านการปฏิเสธโดยตัวแทนตามที่ [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ใช้;
+- **การประเมินขีดความสามารถทางการศึกษาและความครบถ้วนของระบบการเรียนรู้:** ข้อค้นพบการสร้างขีดความสามารถ เส้นทางฝึกใหม่ ความโปร่งใสของการประเมิน และความสามารถในการโต้แย้งของระบบการเรียนรู้ตามที่ [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้;
+- **การประเมินความน่าไว้วางใจและความครบถ้วนของการพึ่งระบบ:** ข้อค้นพบความพึ่งได้ ความไว้วางใจเท็จ สิ่งจูงใจบิดเบี้ยว เส้นทางโต้แย้ง และความครบถ้วนของการฟื้นตามที่ [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) ขอในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ใช้;
 - **หลักฐานทางเทคนิคและการประกัน:** มาตรฐานทางเทคนิค การทดสอบ การวัด ความไม่แน่นอน ระยะความปลอดภัย โหมดล้มเหลว ผลการทดสอบถดถอยและการทดสอบความมั่นคงของรอบการรับรองหรือการรับรองใหม่ และฐานหลักฐานที่พึ่งอย่างเป็นสาระ;
 - **การทบทวนฝ่ายที่ได้รับผลกระทบ สิ่งแวดล้อม และความครบถ้วน:**
   - ข้อพิจารณาฝ่ายที่ได้รับผลกระทบ พื้นสิทธิ การเข้าถึงได้ การพึ่งพา และการมีส่วนร่วม;
-  - การเปิดรับทางนิเวศ การระบุ [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) การพึ่งเงื่อนไขเบื้องต้นทางสิ่งแวดล้อม ภาระวงชีวิต หน้าที่ฟื้นฟู และการทบทวนส่วนประกอบความสอดคล้องทางสิ่งแวดล้อมในที่ที่เป็นสาระ;
+  - การเปิดรับทางนิเวศ การระบุ [รอยเท้าทางนิเวศ](../../core_05.040_band_continuity.md#ecological-footprint) การพึ่งเงื่อนไขเบื้องต้นทางสิ่งแวดล้อม ภาระวงชีวิต หน้าที่ฟื้นฟู และการทบทวนส่วนประกอบความสอดคล้องทางสิ่งแวดล้อมในที่ที่เป็นสาระ;
   - ความเสี่ยงการยึดครอง การทบทวนตนเอง ความสอดคล้องของสิ่งจูงใจ การควบคุมหลักฐาน และเส้นทางโต้แย้ง;
 - **การกำกับของเวที:** ครอบครัวเวทีหรืออำนาจที่ออก รับ ส่งต่อ รับรอง ระงับ หรือทบทวนแต่ละส่วนประกอบ กล่าวตามลำดับที่ [§14](#14-supervisory-sequence-and-contestability-chain) ขอ;
 - **ผลการรับรองและขีดจำกัดการพึ่ง:**
@@ -106,19 +106,19 @@
 
 #### 11.2 ข้อกำหนดบันทึกข้ามหมวด
 
-*พูดแบบตรง ๆ: บันทึกต้องสะท้อนสิ่งที่หมวดประเมินของส่วน กพบจริง — ไม่ใช่แค่รายชื่อหัวข้อ ที่นี่ **การประเมินโดเมน** คือการตรวจตามหัวข้อของส่วน กข้อหนึ่งใน [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) ถึง [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) — รอยเท้าทางนิเวศ การสนับสนุนข้ามระบบ การไม่เลือกปฏิบัติ การเข้าถึงได้ ขีดความสามารถทางการศึกษา หรือความน่าไว้วางใจ — แต่ละข้อถูกขอเฉพาะเมื่อตัวกระตุ้นความเป็นสาระของหัวข้อนั้นใช้กับระบบที่ทบทวน หากการตรวจนั้นถูกขอ ข้อค้นพบต้องอยู่บนบันทึก*
+*พูดแบบตรง ๆ: บันทึกต้องสะท้อนสิ่งที่หมวดประเมินของส่วน กพบจริง — ไม่ใช่แค่รายชื่อหัวข้อ ที่นี่ **การประเมินโดเมน** คือการตรวจตามหัวข้อของส่วน กข้อหนึ่งใน [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) ถึง [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) — รอยเท้าทางนิเวศ การสนับสนุนข้ามระบบ การไม่เลือกปฏิบัติ การเข้าถึงได้ ขีดความสามารถทางการศึกษา หรือความน่าไว้วางใจ — แต่ละข้อถูกขอเฉพาะเมื่อตัวกระตุ้นความเป็นสาระของหัวข้อนั้นใช้กับระบบที่ทบทวน หากการตรวจนั้นถูกขอ ข้อค้นพบต้องอยู่บนบันทึก*
 
 บันทึกการรับรองต้องสะท้อนผลลัพธ์การประเมินของ:
 
 - **การประเมินทั้งระบบ** — ข้อค้นพบที่เป็นสาระและวินัยภายใต้ [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) รวมข้อค้นพบการประเมินความเสี่ยงและการเปิดเผยความเสี่ยงในที่ที่ความเสี่ยงระบบอยู่ในขอบเขตภายใต้ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors);
-- **ชั้นและการปฏิบัติของระบบ** — [บันทึกการจำแนกระบบ](core_05_band_continuity.md#system-classification-record-constitutional) และการประเมินชั้นภายใต้ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) และ [บันทึกชนิดข้อมูลของระบบ](core_05_band_continuity.md#system-data-types-record-constitutional) และการประเมินชนิดข้อมูลภายใต้ [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
+- **ชั้นและการปฏิบัติของระบบ** — [บันทึกการจำแนกระบบ](../../core_05.040_band_continuity.md#system-classification-record-constitutional) และการประเมินชั้นภายใต้ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) และ [บันทึกชนิดข้อมูลของระบบ](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) และการประเมินชนิดข้อมูลภายใต้ [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
 - **การประเมินโดเมน:**
-  - [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) ในที่ที่ภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้เป็นสาระ;
-  - [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ใช้;
-  - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ใช้;
-  - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ใช้;
-  - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้;
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ใช้;
+  - [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) ในที่ที่ภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้เป็นสาระ;
+  - [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ใช้;
+  - [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ใช้;
+  - [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ใช้;
+  - [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้;
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ใช้;
 - **ความครบถ้วนของบันทึก** — [§12](#12-transparency-auditability-and-contestability); และ
 - **ลำดับการกำกับและเส้นทางโต้แย้ง** — [§14](#14-supervisory-sequence-and-contestability-chain)
 
@@ -133,23 +133,23 @@
 เมื่อตัวกระตุ้นความเป็นสาระข้างล่างใช้กับ **ระบบที่มีผลกระทบที่เป็นสาระ** บันทึกการรับรองต้องแสดง **การประเมินพื้นสิทธิ** ไม่ใช่คำกล่าวของผู้ดำเนินการหรือการปฏิบัติตามบนกระดาษอย่างเดียว:
 
 - **สิ่งจำเป็นต่อการอยู่รอด การศึกษา และเงื่อนไขที่ปลอดภัย:**
-  - ใช้เมื่อระบบจัดสรร กำหนดราคา เป็นที่ตั้ง หรือยุติการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด การเข้าถึงการศึกษาที่เท่ากัน หรือ [**เงื่อนไขที่ปลอดภัย**](core_05_band_continuity.md#safe-conditions-constitutional);
+  - ใช้เมื่อระบบจัดสรร กำหนดราคา เป็นที่ตั้ง หรือยุติการเข้าถึงสิ่งจำเป็นต่อการอยู่รอด การเข้าถึงการศึกษาที่เท่ากัน หรือ [**เงื่อนไขที่ปลอดภัย**](../../core_05.040_band_continuity.md#safe-conditions-constitutional);
   - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้พื้นเหล่านั้นเสื่อมอย่างเป็นสาระภายใต้ **มาตรา III-A** (*การอยู่รอด*) **มาตรา III-B** (*การเข้าถึงการศึกษาที่เท่ากัน*) **มาตรา XIII-A** (*เส้นฐานความพึ่งได้และความน่าไว้วางใจ*) และบทบัญญัติบทที่หกที่เกี่ยวข้องหรือไม่;
 - **การบริหารทรัพยากรข้ามระบบอย่างรับผิดชอบ:**
   - ใช้เมื่อระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งฐานที่ระบบอื่นหรือผู้มีความรู้สึกพึ่ง อย่างเป็นสาระ;
-  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา IV-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) หรือ **มาตรา IV-B** (*ความเป็นธรรมข้ามระบบและความยั่งยืน*) เสื่อมอย่างเป็นสาระตามที่ [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) ขอหรือไม่;
+  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา IV-A** (*การทำแผนที่การพึ่งพาและความโปร่งใสของกระแสทรัพยากร*) หรือ **มาตรา IV-B** (*ความเป็นธรรมข้ามระบบและความยั่งยืน*) เสื่อมอย่างเป็นสาระตามที่ [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) ขอหรือไม่;
 - **การไม่เลือกปฏิบัติ:**
   - ใช้เมื่อระบบจำแนก จัดอันดับ กำหนดราคา กั้น ประกัน หรือจัดสรรภาระและประโยชน์ในหมู่ผู้มีความรู้สึกอย่างเป็นสาระ — รวมผ่านกฎคุณสมบัติ ลักษณะแบบจำลอง ตรรกะการจัดอันดับ นโยบายแพลตฟอร์ม หรือเส้นทางตัดสินที่เทียบได้;
-  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) เสื่อมอย่างเป็นสาระตามที่ [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) ขอหรือไม่;
+  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) เสื่อมอย่างเป็นสาระตามที่ [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) ขอหรือไม่;
 - **การเข้าถึงได้และการมีส่วนร่วม:**
   - ใช้เมื่อระบบกั้นการมีส่วนร่วมที่เป็นสาระในโดเมนที่เกี่ยวข้องทางรัฐธรรมนูญอย่างเป็นสาระ — รวมการปกครอง การมีส่วนร่วมของฝ่ายที่ได้รับผลกระทบ การชี้ขาด การปฏิบัติ การเข้าถึงพื้นการอยู่รอด การเข้าถึงการดูแล การแสดงออก การชุมนุม สื่อ หรือโดเมนที่เทียบได้ — ผ่านส่วนต่อประสาน สถานที่ ตารางเวลา หลักฐาน การเข้าถึงการคำนวณ การออกแบบอำนวย หรือเส้นทางมีส่วนร่วมที่เทียบได้;
-  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา V-G** (*การเข้าถึงได้*) เสื่อมอย่างเป็นสาระตามที่ [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) ขอหรือไม่;
+  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา V-G** (*การเข้าถึงได้*) เสื่อมอย่างเป็นสาระตามที่ [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) ขอหรือไม่;
 - **ขีดความสามารถทางการศึกษา:**
   - ใช้เมื่อระบบจัดอันดับ ประเมิน แนะนำ จัดที่ หรือกั้นด้วยหลักฐานผู้มีความรู้สึกในบริบทการศึกษาหรือฝึกอย่างเป็นสาระ — หรือกั้นเส้นทางฝึกใหม่ การศึกษาต่อเนื่อง หรือการสนับสนุนการเปลี่ยนในที่ที่ข้อกำหนดสมรรถนะเปลี่ยนอย่างเป็นสาระ;
-  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) เสื่อมอย่างเป็นสาระตามที่ [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) ขอหรือไม่;
+  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) เสื่อมอย่างเป็นสาระตามที่ [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) ขอหรือไม่;
 - **ความน่าไว้วางใจและการพึ่ง:**
   - ใช้เมื่อระบบหล่อการพึ่งของผู้มีความรู้สึกต่อความประพฤติ ขีด ความเสี่ยง เส้นทางโต้แย้ง หรือการเยียวยาที่ถูกแสดงอย่างเป็นสาระ — รวมผ่านข้อกล่าวอ้างความพึ่งได้ ท่าทีการเปิดเผย การออกแบบสิ่งจูงใจ วิธีฟื้น หรือเส้นทางพึ่งที่เทียบได้;
-  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) เสื่อมอย่างเป็นสาระตามที่ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) ขอหรือไม่
+  - บันทึกต้องประเมินว่าการรับรู้หรือการพึ่งต่อเนื่องจะปิดหรือทำให้ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) เสื่อมอย่างเป็นสาระตามที่ [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) ขอหรือไม่
 
 <a id="12-transparency-auditability-and-contestability"></a>
 
@@ -158,9 +158,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: [§11](#11-certification-record) (*เนื้อหาบันทึก*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) และ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ข้อมูลเข้าประเมินชั้น ข้อมูล รอยเท้า การสนับสนุนข้ามระบบ การไม่เลือกปฏิบัติ การเข้าถึงได้ ขีดความสามารถทางการศึกษา และความน่าไว้วางใจ*); ตระกูลการวัดการกำกับดูแล (*ความจริงและความครบถ้วนของความรู้ในฐานะการวัดทางรัฐธรรมนูญ*); ตระกูลการวัดความทันเวลา (*การยุติที่ทันเวลาและวินัยต้านความล่าช้า*); บทที่สองถึงสี่ (*ภาระ การตามรอย การตรวจสอบ และการรักษาหลักฐาน*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การกำกับดูแล** **ความรับผิดชอบ** **การมีส่วนร่วม** และ **ความทันเวลา**; [**Def.O1** *ความโปร่งใส ความสามารถในการตรวจ และการตรวจสอบ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability)
+- ต้นทาง: [§11](#11-certification-record) (*เนื้อหาบันทึก*); [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) และ [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*ข้อมูลเข้าประเมินชั้น ข้อมูล รอยเท้า การสนับสนุนข้ามระบบ การไม่เลือกปฏิบัติ การเข้าถึงได้ ขีดความสามารถทางการศึกษา และความน่าไว้วางใจ*); ตระกูลการวัดการกำกับดูแล (*ความจริงและความครบถ้วนของความรู้ในฐานะการวัดทางรัฐธรรมนูญ*); ตระกูลการวัดความทันเวลา (*การยุติที่ทันเวลาและวินัยต้านความล่าช้า*); บทที่สองถึงสี่ (*ภาระ การตามรอย การตรวจสอบ และการรักษาหลักฐาน*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การกำกับดูแล** **ความรับผิดชอบ** **การมีส่วนร่วม** และ **ความทันเวลา**; [**Def.O1** *ความโปร่งใส ความสามารถในการตรวจ และการตรวจสอบ*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster); [ความสามารถในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability)
 - ปลายทาง: [§14](#14-supervisory-sequence-and-contestability-chain) (*ลำดับการกำกับและสายความสามารถในการโต้แย้ง*); [§15](#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [บทที่สิบเอ็ด §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*บันทึกคดีของเวที การโต้แย้งบันทึกร่องรอย*); [บทที่สิบเอ็ด §5](core_11_forum.md#5-escalation-and-certification) (*รายละเอียดการยกระดับและการรับรอง*)
-- อ่านคู่กับ: [มาตรา XVI: การตรวจ ความโปร่งใส และการตรวจสอบอิสระ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [มาตรา XIII-B: สิทธิในการโต้แย้ง ทบทวน และได้รับการเยียวยา](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [การรักษาหลักฐาน](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md) **CS-2 — ชนิดข้อมูลและการปฏิบัติ** และ **CS-3 — การจำแนกและการปฏิบัติระบบ**; **CJS-3.4** (*เงื่อนไขความโปร่งใสเป็นชั้นและการเข้าถึงการตรวจ*)
+- อ่านคู่กับ: [มาตรา XVI: การตรวจ ความโปร่งใส และการตรวจสอบอิสระ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [มาตรา XIII-B: สิทธิในการโต้แย้ง ทบทวน และได้รับการเยียวยา](core_06_rights_part_c.md); [การรักษาหลักฐาน](core_05_band_oversight.md#evidence-preservation); [corpus_systems.md](../../corpus_systems.md) **CS-2 — ชนิดข้อมูลและการปฏิบัติ** และ **CS-3 — การจำแนกและการปฏิบัติระบบ**; **CJS-3.4** (*เงื่อนไขความโปร่งใสเป็นชั้นและการเข้าถึงการตรวจ*)
 
 </details>
 
@@ -169,7 +169,7 @@
 
 - [ความโปร่งใส](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [ความสามารถในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -177,7 +177,7 @@
 
 *พูดแบบตรง ๆ: บันทึกการรับรองใช้ได้เมื่อผู้มีความรู้สึกอ่าน ตรวจสอบ และผลักกลับเมื่อผิด หมวดนี้วางสามข้อกำหนดนั้น — ความโปร่งใส ความสามารถในการตรวจ ความสามารถในการโต้แย้ง — บนบันทึกเอง ไม่ใช่ในฐานะอุดมคติลอย ภายใต้ขา **การกำกับดูแล** ของจตุรภาค การกำกับดูแลขอการตรวจ; การรับรองความสอดคล้องของระบบเป็นกระบวนการตรวจที่ใหญ่เป็นพิเศษที่ต้องสนองพื้นเหล่านั้นที่นี่ — มันไม่เป็นเจ้าของหรือแทน **มาตรา XVI** หรือวิธีตรวจพี่น้อง*
 
-หมวดนี้นำ [ความโปร่งใส](core_05_band_oversight.md#transparency) [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) และ [ความสามารถในการโต้แย้ง](core_05_band_accountability.md#contestability) ไปใช้กับบันทึกการรับรองความสอดคล้องของระบบ บ้านคำฉบับหลักและขอบเจ้าของอยู่ภายใต้ [คำปรารภ — หลักการ บทนิยาม และสิทธิ](core_00_preamble.md#4-principles-definitions-and-rights) และ [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation) ภายใต้ [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad):
+หมวดนี้นำ [ความโปร่งใส](core_05_band_oversight.md#transparency) [ความสามารถในการตรวจ](core_05_band_oversight.md#auditability) และ [ความสามารถในการโต้แย้ง](../../core_05.035_band_accountability.md#contestability) ไปใช้กับบันทึกการรับรองความสอดคล้องของระบบ บ้านคำฉบับหลักและขอบเจ้าของอยู่ภายใต้ [คำปรารภ — หลักการ บทนิยาม และสิทธิ](core_00_preamble.md#4-principles-definitions-and-rights) และ [กองอำนาจและลำดับชั้นภายใน](core_05_band_integrative.md#owner-non-relocation) ภายใต้ [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad):
 
 - **ความโปร่งใส** และ **ความสามารถในการตรวจ** นำไปใช้ **การกำกับดูแล**;
 - **ความสามารถในการโต้แย้ง** นำไปใช้ **ความรับผิดชอบ** และรักษา **การมีส่วนร่วม** ในเส้นทางโต้แย้ง;
@@ -201,7 +201,7 @@
 
 - บันทึกการรับรองต้องระบุผู้กระทำได้ สร้างใหม่ได้ และทบทวนอิสระได้ภายใต้บทที่สองถึงสี่และ [การรักษาหลักฐาน](core_05_band_oversight.md#evidence-preservation);
 - ต้องระบุ:
-  - ใครออก รับ ส่งต่อ รับรอง [ระงับ](core_05_band_accountability.md#stay) หรือทบทวนแต่ละส่วนประกอบที่เป็นสาระ;
+  - ใครออก รับ ส่งต่อ รับรอง [ระงับ](../../core_05.035_band_accountability.md#stay) หรือทบทวนแต่ละส่วนประกอบที่เป็นสาระ;
   - หลักฐานใดถูกพึ่งอย่างเป็นสาระ;
   - อะไรเปลี่ยนระหว่างรุ่น;
 - ขอบเขตการตรวจต้องพอทดสอบว่าผลที่บันทึกตามจากหลักฐานและข้อสมมติที่บันทึกหรือไม่;
@@ -220,7 +220,7 @@
 - กลไกโต้แย้งต้องใช้ได้และเข้าถึงได้ ไม่ใช่พิธี;
 - การโต้แย้งต้องสามารถ:
   - เปิดการทบทวนใหม่;
-  - [ระงับ](core_05_band_accountability.md#stay) หรือจำกัดการพึ่งในที่ที่แสดงความผิดที่เป็นสาระหรือความเสี่ยงความครบถ้วนอย่างน่าเชื่อ;
+  - [ระงับ](../../core_05.035_band_accountability.md#stay) หรือจำกัดการพึ่งในที่ที่แสดงความผิดที่เป็นสาระหรือความเสี่ยงความครบถ้วนอย่างน่าเชื่อ;
   - จัดเส้นทางไปยังครอบครัวเวทีที่มีอำนาจสาระที่ชอบเหนือจุดที่ถูกโต้แย้ง;
 - หน้าที่ความสามารถในการโต้แย้งปรับตามชั้นระบบและผลกระทบที่เป็นสาระ;
 - พวกมันไม่หายเพราะระบบถูกติดป้ายทดลอง ภายใน ส่วนตัว แยก หรือเทคนิคอย่างเดียวในที่ที่มีผลกระทบที่เป็นสาระ
@@ -260,30 +260,30 @@
 
 - **เวทีเทคนิค** — ชิ้นทางเทคนิค:
   - รักษาและใช้ข้อกำหนดทางเทคนิค วิธีวัด ระเบียบการทดสอบ มาตรฐานหลักฐานผู้เชี่ยวชาญ วิธีลดความไม่แน่นอน และข้อค้นพบความพอทางเทคนิคภายในขอบเขตที่ชอบ;
-  - จัดหา **ข้อค้นพบส่วนประกอบ** สำหรับบันทึกการรับรอง รวมการประกันที่ปรับตามชั้นและข้อค้นพบโครงสร้างพื้นฐานการปฏิบัติข้อมูลภายใต้ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) และ [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
-  - ถือบทบาทส่วนประกอบ [การชี้ขาดสถานะความเป็นผู้มีความรู้สึก](core_05_band_participation.md#sentience-status-adjudication-constitutional) — การประเมินตัวบ่งชี้ หลักฐานผู้เชี่ยวชาญ และความไม่แน่นอนที่มีขอบ — ในที่ที่การรับรองเกี่ยวอย่างเป็นสาระว่าใครนับเป็น **ผู้มีความรู้สึก** เพื่อสิทธิ ร่องรอย หรือการคุ้มครอง สอดคล้องกับ [มาตรา V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*พื้นการชี้ขาดสถานะความเป็นผู้มีความรู้สึก*) และ [บทที่สิบเอ็ด §4.2](core_11_forum.md#42-technical-forum-domains) / [§5](core_11_forum.md#5-escalation-and-certification) (ตะขอ *การชี้ขาดสถานะความเป็นผู้มีความรู้สึก*) เป็นหัวปริยาย; ส่งต่อเส้นทางพิเศษความครบถ้วน สถาบัน หรือทางรัฐธรรมนูญภายใต้ตะขอนั้นเมื่อบทที่สิบเอ็ดขอ
+  - จัดหา **ข้อค้นพบส่วนประกอบ** สำหรับบันทึกการรับรอง รวมการประกันที่ปรับตามชั้นและข้อค้นพบโครงสร้างพื้นฐานการปฏิบัติข้อมูลภายใต้ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) และ [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation);
+  - ถือบทบาทส่วนประกอบ [การชี้ขาดสถานะความเป็นผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) — การประเมินตัวบ่งชี้ หลักฐานผู้เชี่ยวชาญ และความไม่แน่นอนที่มีขอบ — ในที่ที่การรับรองเกี่ยวอย่างเป็นสาระว่าใครนับเป็น **ผู้มีความรู้สึก** เพื่อสิทธิ ร่องรอย หรือการคุ้มครอง สอดคล้องกับ [มาตรา V-E](core_06_rights_part_b.md) (*พื้นการชี้ขาดสถานะความเป็นผู้มีความรู้สึก*) และ [บทที่สิบเอ็ด §4.2](core_11_forum.md#42-technical-forum-domains) / [§5](core_11_forum.md#5-escalation-and-certification) (ตะขอ *การชี้ขาดสถานะความเป็นผู้มีความรู้สึก*) เป็นหัวปริยาย; ส่งต่อเส้นทางพิเศษความครบถ้วน สถาบัน หรือทางรัฐธรรมนูญภายใต้ตะขอนั้นเมื่อบทที่สิบเอ็ดขอ
 - **เวทีความครบถ้วน** — การประสานหัวปริยาย:
   - นำการรับรู้ความสอดคล้องทางรัฐธรรมนูญอย่างเป็นทางการและการยืนยันความสอดคล้องต่อเนื่อง เว้นแต่บทที่สิบเอ็ดกำหนดส่วนได้เสียหลักอื่น;
   - ใช้มาตรฐานของเวทีเทคนิคในที่ที่ใช้ได้อย่างเป็นสาระ;
-  - ส่งต่อ รับรอง หรือ [ระงับ](core_05_band_accountability.md#stay) คำถามส่วนประกอบที่เป็นของครอบครัวเวทีอื่น ตามที่ [§14](#14-supervisory-sequence-and-contestability-chain) ขอ
+  - ส่งต่อ รับรอง หรือ [ระงับ](../../core_05.035_band_accountability.md#stay) คำถามส่วนประกอบที่เป็นของครอบครัวเวทีอื่น ตามที่ [§14](#14-supervisory-sequence-and-contestability-chain) ขอ
 - **เวทีสิ่งแวดล้อม** — ความสอดคล้องทางสิ่งแวดล้อมเมื่อนิเวศสำคัญ:
   - ถือบทบาทส่วนประกอบความสอดคล้องทางสิ่งแวดล้อมในที่ที่มีการเปิดรับทางนิเวศที่เป็นสาระ การพึ่งเงื่อนไขเบื้องต้นทางสิ่งแวดล้อม ภาระวงชีวิต หน้าที่ฟื้นฟู หรือความเสี่ยงทางนิเวศที่คาดได้อย่างมีเหตุ;
-  - รวมการระบุ การเปิดเผย และการเปรียบ [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) ภายใต้ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) ในที่ที่ภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้เป็นสาระ
+  - รวมการระบุ การเปิดเผย และการเปรียบ [รอยเท้าทางนิเวศ](../../core_05.040_band_continuity.md#ecological-footprint) ภายใต้ [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) ในที่ที่ภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้เป็นสาระ
 - **เวทีผู้มีความรู้สึก** — คำถามฝ่ายที่ได้รับผลกระทบที่ไม่ใช่สถาบัน:
   - ถือบทบาทส่วนประกอบผลกระทบต่อฝ่ายที่ได้รับผลกระทบและหน้าที่ชุมชนเฉพาะในที่ที่การจัดเส้นทางส่วนได้เสียหลักของบทที่สิบเอ็ดคงเรื่องไว้ในเวทีผู้มีความรู้สึก — โดยทั่วไปคำถามผู้มีความรู้สึกต่อผู้มีความรู้สึกหรือการปกครองชุมชนในที่ที่ **ไม่มีสถาบันเป็นฝ่ายจำเป็น**;
-  - อาจช่วยหรือรับการส่งต่อเรื่องการมีส่วนร่วมของฝ่ายที่ได้รับผลกระทบในที่ที่ [การชี้ขาดสถานะความเป็นผู้มีความรู้สึก](core_05_band_participation.md#sentience-status-adjudication-constitutional) เดินภายใต้หัวเทคนิคปริยาย แต่ **ไม่** ถือบทบาทส่วนประกอบการชี้ขาดนั้นเป็นปริยาย;
+  - อาจช่วยหรือรับการส่งต่อเรื่องการมีส่วนร่วมของฝ่ายที่ได้รับผลกระทบในที่ที่ [การชี้ขาดสถานะความเป็นผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) เดินภายใต้หัวเทคนิคปริยาย แต่ **ไม่** ถือบทบาทส่วนประกอบการชี้ขาดนั้นเป็นปริยาย;
   - **ไม่** ถือบทบาทส่วนประกอบพื้นสิทธิปริยายสำหรับการสอดคล้องของระบบเมื่อสถาบัน ผู้ดำเนินการสถาบัน หรืออาณัติสถาบันเป็นฝ่ายจำเป็นหรือส่วนได้เสียหลัก; คำถามเหล่านั้นจัดเส้นทางภายใต้ **สถาบัน** ข้างล่าง
 - **เวทีสถาบัน** — อาณัติสถาบันและคำถามส่วนประกอบพื้นสิทธิเมื่อมีสถาบันในภาพ:
   - ถืออำนาจส่วนประกอบสำหรับอาณัติสถาบัน ขอบเขตที่ถูกกำกับ การจำแนก และการปฏิบัติตามหน้าที่สถาบันในที่ที่ส่วนได้เสียเหล่านั้นเกิดในการรับรอง;
   - ตัดสินว่าการรับรองจะรักษาหรือเอาชนะพื้นที่คุ้มครองทางรัฐธรรมนูญเมื่อพื้นเหล่านั้นเกี่ยวอย่างเป็นสาระและสถาบันเป็นฝ่ายจำเป็น ผู้ดำเนินการหรือผู้บริหารอย่างรับผิดชอบเป็นสถาบัน หรืออาณัติสถาบันหรือการปฏิบัติตามที่ถูกกำกับเป็นส่วนได้เสียหลัก รวม:
     - **สิ่งจำเป็นต่อการอยู่รอด** ภายใต้ **มาตรา III-A** (*การอยู่รอด*);
     - **การเข้าถึงการศึกษา** ภายใต้ **มาตรา III-B** (*การเข้าถึงการศึกษาที่เท่ากัน*);
-    - **ขีดความสามารถการศึกษาที่ศูนย์กลางผู้มีความรู้สึก** ภายใต้ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) — รวมการประเมินภายใต้ [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระนั้นใช้;
-    - **พื้นการไม่เลือกปฏิบัติ** ภายใต้ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) — รวมการประเมินภายใต้ [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระนั้นใช้;
-    - **พื้นการเข้าถึงได้** ภายใต้ **มาตรา V-G** (*การเข้าถึงได้*) — รวมการประเมินภายใต้ [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระนั้นใช้;
-    - **ความประพฤติระบบที่พึ่งได้และน่าไว้วางใจ** ภายใต้ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) — รวมการประเมินภายใต้ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระนั้นใช้;
-    - **พื้นการจัดสรรทรัพยากรและการพึ่ง** ภายใต้ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) — รวม [การสนับสนุนข้ามระบบตามสัดส่วน](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) ภายใต้ [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) ในที่ที่เกี่ยวอย่างเป็นสาระ;
-    - **พื้นที่เกี่ยวกับความปลอดภัย** ภายใต้ **มาตรา XIII-A** (*เส้นฐานความพึ่งได้และความน่าไว้วางใจ*) และ [**เงื่อนไขที่ปลอดภัย**](core_05_band_continuity.md#safe-conditions-constitutional) ในที่ที่เกี่ยวอย่างเป็นสาระ
+    - **ขีดความสามารถการศึกษาที่ศูนย์กลางผู้มีความรู้สึก** ภายใต้ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) — รวมการประเมินภายใต้ [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระนั้นใช้;
+    - **พื้นการไม่เลือกปฏิบัติ** ภายใต้ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) — รวมการประเมินภายใต้ [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระนั้นใช้;
+    - **พื้นการเข้าถึงได้** ภายใต้ **มาตรา V-G** (*การเข้าถึงได้*) — รวมการประเมินภายใต้ [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระนั้นใช้;
+    - **ความประพฤติระบบที่พึ่งได้และน่าไว้วางใจ** ภายใต้ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) — รวมการประเมินภายใต้ [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระนั้นใช้;
+    - **พื้นการจัดสรรทรัพยากรและการพึ่ง** ภายใต้ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) — รวม [การสนับสนุนข้ามระบบตามสัดส่วน](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) ภายใต้ [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) ในที่ที่เกี่ยวอย่างเป็นสาระ;
+    - **พื้นที่เกี่ยวกับความปลอดภัย** ภายใต้ **มาตรา XIII-A** (*เส้นฐานความพึ่งได้และความน่าไว้วางใจ*) และ [**เงื่อนไขที่ปลอดภัย**](../../core_05.040_band_continuity.md#safe-conditions-constitutional) ในที่ที่เกี่ยวอย่างเป็นสาระ
 - **ทางรัฐธรรมนูญ** และครอบครัวเวทีประจำอื่น — ส่วนได้เสียทางรัฐธรรมนูญและส่วนเหลือ:
   - คงอำนาจส่วนประกอบที่ถูกกำหนดสำหรับความสมบูรณ์ทางรัฐธรรมนูญ ความหมาย การเยียวยาโครงสร้างทั้งชั้น หรือคำถามส่วนได้เสียหลักอื่นที่บทที่สิบเอ็ดกำหนดนอกครอบครัวข้างบน;
   - กระบวนการรับรองต้องไม่ให้ความเชี่ยวชาญทางเทคนิคหรือการประสานความครบถ้วนแทนที่บทบาทสาระที่ถูกกำหนดเหล่านั้น
@@ -297,7 +297,7 @@
 
 - ต้นทาง: [§11](#11-certification-record) (*เนื้อหาบันทึก*); [§12](#12-transparency-auditability-and-contestability) (*ข้อกำหนดความครบถ้วนของบันทึก*); [§13](#13-forum-supervision-and-component-roles) (*การกำหนดบทบาทส่วนประกอบ*); ตระกูลการวัดความทันเวลา (*การยุติที่ทันเวลาและวินัยต้านความล่าช้า*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การมีส่วนร่วม** **การกำกับดูแล** **ความรับผิดชอบ** และ **ความทันเวลา**; [บทที่สิบเอ็ด §4](core_11_forum.md#4-forum-family-definitions) (*การรับรู้ความสอดคล้องที่ความครบถ้วนนำ การส่งต่อส่วนประกอบ และการยืนยัน*); [บทที่สิบเอ็ด §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*การประสานความสอดคล้องที่ความครบถ้วนนำและต้านการตัดสินตนเอง*)
 - ปลายทาง: [§15](#15-relationship-to-standing) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [§16](#16-reopening-drift-and-non-evasion) (*ตัวกระตุ้นการเปิดใหม่*); [บทที่สิบเอ็ด §5](core_11_forum.md#5-escalation-and-certification) (*การยกระดับครอบครัวต่อครอบครัวและการรับรองทางรัฐธรรมนูญ*)
-- อ่านคู่กับ: [ลำดับข้อพิพาท](core_11_forum.md#dispute-sequencing) ภายใต้บทที่สิบเอ็ด §1; [คำปรารภ §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md) **CF-5** และ **CF-7**; [มาตรา XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*สิทธิในการโต้แย้ง ทบทวน และได้รับการเยียวยา*)
+- อ่านคู่กับ: [ลำดับข้อพิพาท](core_11_forum.md#dispute-sequencing) ภายใต้บทที่สิบเอ็ด §1; [คำปรารภ §3.3](core_00_preamble.md#33-governance-layers); [corpus_forum.md](../../corpus_forum.md) **CF-5** และ **CF-7**; [มาตรา XIII-B](core_06_rights_part_c.md) (*สิทธิในการโต้แย้ง ทบทวน และได้รับการเยียวยา*)
 
 </details>
 
@@ -328,12 +328,12 @@
 
 1. **การประสานหัว:** เวที **ความครบถ้วน** รักษาบันทึกการรับรองที่ประสานหนึ่งสำหรับการรับรู้ การยืนยัน การรับรองซ้ำ การถอน หรือการไม่รับรู้ความสอดคล้องทางรัฐธรรมนูญอย่างเป็นทางการ เว้นแต่บทที่สิบเอ็ดกำหนดหัวที่ชอบอื่นสำหรับส่วนได้เสียหลัก
 2. **ข้อค้นพบส่วนประกอบ:** ครอบครัวเวทีเทคนิค สิ่งแวดล้อม สถาบัน ผู้มีความรู้สึก ทางรัฐธรรมนูญ และครอบครัวที่ถูกกำหนดอื่นผลิตข้อค้นพบส่วนประกอบที่มีขอบภายในอำนาจสาระที่ชอบ:
-   - **เวทีเทคนิค** จัดหาข้อกำหนด วิธี การทดสอบ และข้อค้นพบความพอทางเทคนิค — รวมข้อค้นพบส่วนประกอบ [การชี้ขาดสถานะความเป็นผู้มีความรู้สึก](core_05_band_participation.md#sentience-status-adjudication-constitutional) ในที่ที่ [§13](#13-forum-supervision-and-component-roles) กำหนดส่วนได้เสียนั้น;
-   - **เวทีสิ่งแวดล้อม** จัดหาข้อค้นพบส่วนประกอบความสอดคล้องทางสิ่งแวดล้อมที่ถูกขอในที่ที่มีการเปิดรับทางนิเวศที่เป็นสาระ — รวมการประเมิน [รอยเท้าทางนิเวศ](core_05_band_continuity.md#ecological-footprint) ภายใต้ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) ในที่ที่ภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้เป็นสาระ;
+   - **เวทีเทคนิค** จัดหาข้อกำหนด วิธี การทดสอบ และข้อค้นพบความพอทางเทคนิค — รวมข้อค้นพบส่วนประกอบ [การชี้ขาดสถานะความเป็นผู้มีความรู้สึก](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) ในที่ที่ [§13](#13-forum-supervision-and-component-roles) กำหนดส่วนได้เสียนั้น;
+   - **เวทีสิ่งแวดล้อม** จัดหาข้อค้นพบส่วนประกอบความสอดคล้องทางสิ่งแวดล้อมที่ถูกขอในที่ที่มีการเปิดรับทางนิเวศที่เป็นสาระ — รวมการประเมิน [รอยเท้าทางนิเวศ](../../core_05.040_band_continuity.md#ecological-footprint) ภายใต้ [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) ในที่ที่ภาระสิ่งแวดล้อมที่ระบุผู้รับผิดได้เป็นสาระ;
    - **เวทีสถาบัน** จัดหาข้อค้นพบส่วนประกอบอาณัติสถาบันและพื้นสิทธิที่ถูกขอในที่ที่ [§13](#13-forum-supervision-and-component-roles) กำหนดส่วนได้เสียเหล่านั้น;
    - **เวทีผู้มีความรู้สึก** จัดหาข้อค้นพบผลกระทบต่อฝ่ายที่ได้รับผลกระทบที่ไม่ใช่สถาบันในที่ที่บทที่สิบเอ็ดคงส่วนได้เสียเหล่านั้นในเวทีผู้มีความรู้สึก;
    - **ทางรัฐธรรมนูญ** และครอบครัวเวทีที่ถูกกำหนดอื่นจัดหาข้อค้นพบส่วนประกอบสำหรับส่วนได้เสียที่บทที่สิบเอ็ดกำหนดให้
-3. **การส่งต่อ การรับรอง และการระงับ:** เวทีหัวต้องส่งต่อ รับรอง หรือ [ระงับ](core_05_band_accountability.md#stay) คำถามส่วนประกอบที่เป็นของครอบครัวเวทีอื่นเป็นหลัก มันเรียกการรับรองจบไม่ได้ — หรือยกเงื่อนไขอย่างเป็นสาระ — ขณะครอบครัวเวทีอื่นยังมีงานที่ถูกกำหนดยังไม่จบ งานยังไม่จบนั้นรวม:
+3. **การส่งต่อ การรับรอง และการระงับ:** เวทีหัวต้องส่งต่อ รับรอง หรือ [ระงับ](../../core_05.035_band_accountability.md#stay) คำถามส่วนประกอบที่เป็นของครอบครัวเวทีอื่นเป็นหลัก มันเรียกการรับรองจบไม่ได้ — หรือยกเงื่อนไขอย่างเป็นสาระ — ขณะครอบครัวเวทีอื่นยังมีงานที่ถูกกำหนดยังไม่จบ งานยังไม่จบนั้นรวม:
    - ข้อค้นพบที่ถูกขอ;
    - ข้อคัดค้าน;
    - เงื่อนไขการเยียวยา; หรือ
@@ -352,7 +352,7 @@
 <a id="142-contestability-paths"></a>
 **เส้นทางความสามารถในการโต้แย้ง** บันทึกการรับรองระบบต้องตั้งชื่อเส้นทางโต้แย้งเหล่านี้ พวกมันนำไปใช้ลำดับข้อพิพาทสำหรับบันทึกการรับรอง ไม่ใช่ครอบครัวเวทีและไม่แทนการจัดเส้นทางของบทที่สิบเอ็ด
 
-- **เส้นทางโต้แย้งบันทึกที่เผยแพร่** — ก้าวแรกธรรมดาสำหรับข้อพิพาทธรรมดาเกี่ยวกับบันทึกการรับรอง บันทึกตั้งชื่อที่นั่งโต้แย้งของ [การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ](core_05_band_participation.md#stakeholder-status-and-weight-cluster):
+- **เส้นทางโต้แย้งบันทึกที่เผยแพร่** — ก้าวแรกธรรมดาสำหรับข้อพิพาทธรรมดาเกี่ยวกับบันทึกการรับรอง บันทึกตั้งชื่อที่นั่งโต้แย้งของ [การมีส่วนร่วมในระบบของฝ่ายที่ได้รับผลกระทบ](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster):
   - ใครรับการโต้แย้ง;
   - ยื่นอย่างไร; และ
   - ว่านาฬิกาภายใต้ **มาตรา XXV-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*) เดินตั้งแต่ได้รับ
@@ -367,10 +367,10 @@
 สายความสามารถในการโต้แย้งใช้เส้นทางเหล่านั้นในลำดับนี้:
 
 1. **การโต้แย้งบันทึก** (เส้นทางโต้แย้งบันทึกที่เผยแพร่) ฝ่ายที่ได้รับผลกระทบอาจโต้แย้งเนื้อหา ขอบเขต ข้อสมมติการจำแนก การพึ่งหลักฐาน ผลลัพธ์ ขีดจำกัดการพึ่ง หรือความครบถ้วนของการกำกับของบันทึกการรับรองภายใต้ [§12](#12-transparency-auditability-and-contestability) หากเส้นทางนั้นยังถูกโต้แย้ง ขาด ถูกยึดครอง หรือให้การเยียวยาที่จำเป็นไม่ได้ บทที่สิบเอ็ดจัดเส้นทางตามส่วนได้เสียหลัก
-2. **การโต้แย้งส่วนประกอบ** (เส้นทางเวทีส่วนประกอบ) การโต้แย้งที่จำกัดที่ข้อค้นพบส่วนประกอบถูกจัดเส้นทางไปยังครอบครัวเวทีที่มีอำนาจสาระเหนือส่วนประกอบนั้น เวทีหัวอาจ [ระงับ](core_05_band_accountability.md#stay) การพึ่งส่วนประกอบที่ถูกโต้แย้งระหว่างรอการทบทวนที่ทันเวลา
+2. **การโต้แย้งส่วนประกอบ** (เส้นทางเวทีส่วนประกอบ) การโต้แย้งที่จำกัดที่ข้อค้นพบส่วนประกอบถูกจัดเส้นทางไปยังครอบครัวเวทีที่มีอำนาจสาระเหนือส่วนประกอบนั้น เวทีหัวอาจ [ระงับ](../../core_05.035_band_accountability.md#stay) การพึ่งส่วนประกอบที่ถูกโต้แย้งระหว่างรอการทบทวนที่ทันเวลา
 3. **การโต้แย้งการประสานหัว** (เส้นทางความครบถ้วนของหัว) การโต้แย้งว่าเวทีหัวดำเนินกระบวนการอย่างไรถูกจัดเส้นทางภายใต้กฎความครบถ้วนและต้านการตัดสินตนเองของ [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) รวมการยึดครอง ข้อมูลที่ซ่อน การทบทวนตนเอง การเรียงก้าวที่ละเมิด การเรียกการรับรองจบเร็วเกินไป หรือปัญหาความครบถ้วนอื่นของเวทีหัว เมื่อการโต้แย้งมุ่งอคติ การยึดครอง ความขัดแย้ง หรือการละเมิดกระบวนการของเวทีหัวนั้นเอง การจัดเส้นทางสำรองภายใต้กฎเหล่านั้นใช้เพื่อไม่ให้การทบทวนถูกจำกัดที่เวทีหัวเดียวกัน
 4. **การยกระดับและการรับรอง** (เส้นทางยกระดับ) ในที่ที่ส่วนได้เสียหลัก ความสมบูรณ์ทางรัฐธรรมนูญ การเยียวยาโครงสร้าง ทางตันระหว่างครอบครัว หรือการคุ้มกันต้านการตัดสินตนเองขอ การจัดเส้นทางโต้แย้งต่อผ่านการโอน การรับรอง การจัดเส้นทางสำรอง และการยกระดับครอบครัวต่อครอบครัวของบทที่สิบเอ็ด
-5. **ขีดจำกัดการพึ่งระหว่างการโต้แย้ง:** การโต้แย้งที่เป็นสาระและทันเวลาอาจจำกัดหรือหยุดการพึ่งบันทึกการรับรองเท่าที่จำเป็นเพื่อกันภัยที่คาดได้ รักษาหลักฐาน หรือกันการพึ่งที่ไม่อาจย้อนบนข้อค้นพบที่ถูกโต้แย้ง ภายใต้การทบทวนโดยเร็วภายใต้ [มาตรา XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*)
+5. **ขีดจำกัดการพึ่งระหว่างการโต้แย้ง:** การโต้แย้งที่เป็นสาระและทันเวลาอาจจำกัดหรือหยุดการพึ่งบันทึกการรับรองเท่าที่จำเป็นเพื่อกันภัยที่คาดได้ รักษาหลักฐาน หรือกันการพึ่งที่ไม่อาจย้อนบนข้อค้นพบที่ถูกโต้แย้ง ภายใต้การทบทวนโดยเร็วภายใต้ [มาตรา XXV-C](core_06_rights_part_d.md) (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*)
 
 บันทึกการรับรองต้องกล่าวสายความสามารถในการโต้แย้ง — ว่าฝ่ายที่ได้รับผลกระทบโต้แย้งที่แต่ละก้าวอย่างไร — และเส้นทางความสามารถในการโต้แย้งที่มีชื่อ
 
@@ -389,7 +389,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: [§11](#11-certification-record) ถึง [§13](#13-forum-supervision-and-component-roles) (*บันทึกการรับรองและการกำกับของเวที*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); [ข้อมูลเข้าที่ตรวจสอบแล้วสำหรับร่องรอย](core_05_band_accountability.md#verified-inputs-for-standing)
+- ต้นทาง: [§11](#11-certification-record) ถึง [§13](#13-forum-supervision-and-component-roles) (*บันทึกการรับรองและการกำกับของเวที*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims); [ข้อมูลเข้าที่ตรวจสอบแล้วสำหรับร่องรอย](../../core_05.035_band_accountability.md#verified-inputs-for-standing)
 - ปลายทาง: [บทที่แปด](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*บันทึกร่องรอยและประตูข้อมูลเข้าที่ตรวจสอบแล้ว*); [บทที่เก้า](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) (*ผลของร่องรอยและการบูรณาการ*)
 - อ่านคู่กับ: **มาตรา III-A** (*การเข้าถึงสิ่งจำเป็นต่อการอยู่รอดในที่ที่การรับรองกั้นการส่งมอบ*)
 
@@ -407,13 +407,13 @@
 **ประตูข้อมูลเข้าที่ตรวจสอบแล้ว** บันทึกการรับรองอาจป้อนร่องรอยของบทที่แปดได้เฉพาะเมื่อมีขอบ ตามรอยได้ โต้แย้งได้ และตรวจสอบแล้วภายใต้:
 
 - [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*ชั้นระบบ*);
-- [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*ชนิดข้อมูลและการปฏิบัติ*);
-- [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) ในที่ที่เป็นสาระ;
-- [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ใช้;
-- [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ใช้;
-- [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ใช้;
-- [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้;
-- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ใช้;
+- [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*ชนิดข้อมูลและการปฏิบัติ*);
+- [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) ในที่ที่เป็นสาระ;
+- [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา IV** (*การจัดสรรทรัพยากร การพึ่งพา และการให้ทุนระบบนิเวศ*) ใช้;
+- [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-B** (*การไม่เลือกปฏิบัติ*) ใช้;
+- [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา V-G** (*การเข้าถึงได้*) ใช้;
+- [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา VI** (*สิทธิในการศึกษาที่ศูนย์กลางผู้มีความรู้สึก*) ใช้;
+- [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) ในที่ที่ตัวกระตุ้นความเป็นสาระของ **มาตรา XIII** (*สิทธิในระบบที่พึ่งได้และน่าไว้วางใจ*) ใช้;
 - [§12](#12-transparency-auditability-and-contestability) และ [§14](#14-supervisory-sequence-and-contestability-chain);
 - บทที่สองถึงสี่ และกระบวนการบทที่สิบเอ็ดที่ใช้
 
@@ -463,9 +463,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*การจำแนกผิดและความไม่สอดคล้อง*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*ข้อบกพร่องการประเมินความเสี่ยงและการเปิดเผยความเสี่ยง*); [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*การแสดงรอยเท้าผิดและความไม่สอดคล้อง*); [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*การแสดงกระแสทรัพยากรผิด ความไม่สอดคล้องของการสกัด และความไม่พอของการสนับสนุน*); [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*ความไม่สอดคล้องแบบการเลือกปฏิบัติและการเลี่ยงโดยตัวแทน*); [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*ความไม่สอดคล้องของการเข้าถึงได้และการอำนวยบนกระดาษอย่างเดียว*); [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*ความไม่สอดคล้องความทึบของการประเมิน การเฝ้าประตูหลักฐาน และความไม่สอดคล้องความล้าสมัยที่ถูกบังคับ*); [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ความไม่สอดคล้องความไว้วางใจเท็จ ความไม่สอดคล้องสิ่งจูงใจบิดเบี้ยว และความไม่สอดคล้องความครบถ้วนของการฟื้น*); [§12](#12-transparency-auditability-and-contestability) (*ความสามารถในการโต้แย้ง*); [§14](#14-supervisory-sequence-and-contestability-chain) (*การโต้แย้งที่น่าเชื่อและการเปิดใหม่*); [บทที่สาม §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) และ [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*ความครบถ้วนของบทนิยามและการเลี่ยง*); [บทที่สาม §2.1 แบบการเลี่ยงที่พบบ่อย](core_03_definition_integrity.md#21-common-evasion-patterns) (*การเลี่ยงขอบเขตและขอบ*); [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) (*ความไม่ตรงตราสาร–ความประพฤติและการทบทวนที่เลยกำหนด*)
+- ต้นทาง: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*การจำแนกผิดและความไม่สอดคล้อง*); [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*ข้อบกพร่องการประเมินความเสี่ยงและการเปิดเผยความเสี่ยง*); [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) (*การแสดงรอยเท้าผิดและความไม่สอดคล้อง*); [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) (*การแสดงกระแสทรัพยากรผิด ความไม่สอดคล้องของการสกัด และความไม่พอของการสนับสนุน*); [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (*ความไม่สอดคล้องแบบการเลือกปฏิบัติและการเลี่ยงโดยตัวแทน*); [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (*ความไม่สอดคล้องของการเข้าถึงได้และการอำนวยบนกระดาษอย่างเดียว*); [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) (*ความไม่สอดคล้องความทึบของการประเมิน การเฝ้าประตูหลักฐาน และความไม่สอดคล้องความล้าสมัยที่ถูกบังคับ*); [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*ความไม่สอดคล้องความไว้วางใจเท็จ ความไม่สอดคล้องสิ่งจูงใจบิดเบี้ยว และความไม่สอดคล้องความครบถ้วนของการฟื้น*); [§12](#12-transparency-auditability-and-contestability) (*ความสามารถในการโต้แย้ง*); [§14](#14-supervisory-sequence-and-contestability-chain) (*การโต้แย้งที่น่าเชื่อและการเปิดใหม่*); [บทที่สาม §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) และ [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*ความครบถ้วนของบทนิยามและการเลี่ยง*); [บทที่สาม §2.1 แบบการเลี่ยงที่พบบ่อย](core_03_definition_integrity.md#21-common-evasion-patterns) (*การเลี่ยงขอบเขตและขอบ*); [ตราสารกำหนดขอบเขต](../../core_05.040_band_continuity.md) (*ความไม่ตรงตราสาร–ความประพฤติและการทบทวนที่เลยกำหนด*)
 - ปลายทาง: [บทที่สิบเอ็ด](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*การกำกับของเวทีที่เปิดใหม่*); [บทที่แปด](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*ประตูข้อมูลเข้าที่ตรวจสอบแล้วในที่ที่ข้อเท็จจริงรองรับข้อค้นพบที่ไม่เป็นคุณ*)
-- อ่านคู่กับ: [corpus_systems.md](../../corpus_systems.md) (*หน้าที่นำไปใช้ระบบที่นำเข้า*) รวม **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*ข้อกำหนดการจำแนกใหม่และการปกครองวงชีวิต*) สำหรับการประเมินชนิดข้อมูลเป็นระยะ และ **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*ข้อกำหนดการจำแนกใหม่*) สำหรับตัวกระตุ้นการประเมินชั้นระบบใหม่และการยืนยัน SAC
+- อ่านคู่กับ: [corpus_systems.md](../../corpus_systems.md) (*หน้าที่นำไปใช้ระบบที่นำเข้า*) รวม **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*ข้อกำหนดการจำแนกใหม่และการปกครองวงชีวิต*) สำหรับการประเมินชนิดข้อมูลเป็นระยะ และ **[CS-3 §3.5](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*ข้อกำหนดการจำแนกใหม่*) สำหรับตัวกระตุ้นการประเมินชั้นระบบใหม่และการยืนยัน SAC
 
 </details>
 
@@ -484,18 +484,18 @@
   - หลักฐานของฝ่ายที่ได้รับผลกระทบ;
   - การโต้แย้งที่น่าเชื่อภายใต้ [§14](#14-supervisory-sequence-and-contestability-chain);
   - ข้อคัดค้านทางนิเวศ;
-  - ความไม่สอดคล้องของชั้นระบบหรือการประเมินใหม่ที่เลยกำหนดภายใต้ **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**;
-  - ความไม่สอดคล้องของชนิดข้อมูลหรือการปฏิบัติ การประเมินชนิดข้อมูลเป็นระยะที่เลยกำหนดหรือถูกข้ามภายใต้ **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**;
+  - ความไม่สอดคล้องของชั้นระบบหรือการประเมินใหม่ที่เลยกำหนดภายใต้ **[CS-3 §3.5](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)**;
+  - ความไม่สอดคล้องของชนิดข้อมูลหรือการปฏิบัติ การประเมินชนิดข้อมูลเป็นระยะที่เลยกำหนดหรือถูกข้ามภายใต้ **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**;
   - ความไม่สอดคล้องของการจำแนก;
-  - การแก้ [ตราสารกำหนดขอบเขต](core_05_band_continuity.md#charter) ความไม่ตรงตราสาร–ความประพฤติ การดำเนินงานอย่างเป็นสาระนอกขอบเขตที่ตราสารกำหนด หรือการทบทวนตราสารเป็นระยะที่เลยกำหนด;
+  - การแก้ [ตราสารกำหนดขอบเขต](../../core_05.040_band_continuity.md) ความไม่ตรงตราสาร–ความประพฤติ การดำเนินงานอย่างเป็นสาระนอกขอบเขตที่ตราสารกำหนด หรือการทบทวนตราสารเป็นระยะที่เลยกำหนด;
 - **ความไม่สอดคล้องของโดเมน** ที่สะท้อนบนบันทึกการรับรอง รวม:
   - ข้อบกพร่องหรือความไม่สอดคล้องการประเมินความเสี่ยงหรือการเปิดเผยความเสี่ยงที่เป็นสาระภายใต้ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors);
-  - การแสดงรอยเท้าผิดหรือความไม่สอดคล้องที่เป็นสาระภายใต้ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation);
-  - ความไม่สอดคล้องแบบการเลือกปฏิบัติหรือการเลี่ยงโดยตัวแทนที่เป็นสาระภายใต้ [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation);
-  - ความไม่สอดคล้องของการเข้าถึงได้หรือการอำนวยบนกระดาษอย่างเดียวที่เป็นสาระภายใต้ [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation);
-  - ความไม่สอดคล้องความทึบของการประเมิน การเฝ้าประตูหลักฐาน หรือความล้าสมัยที่ถูกบังคับที่เป็นสาระภายใต้ [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation);
-  - ความไม่สอดคล้องความไว้วางใจเท็จ สิ่งจูงใจบิดเบี้ยว หรือความครบถ้วนของการฟื้นที่เป็นสาระภายใต้ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation);
-  - ความไม่สอดคล้องการประเมินส่วน กอื่นในที่ที่ตัวกระตุ้นความเป็นสาระที่คู่ใช้ — รวม [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) และ [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)
+  - การแสดงรอยเท้าผิดหรือความไม่สอดคล้องที่เป็นสาระภายใต้ [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation);
+  - ความไม่สอดคล้องแบบการเลือกปฏิบัติหรือการเลี่ยงโดยตัวแทนที่เป็นสาระภายใต้ [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation);
+  - ความไม่สอดคล้องของการเข้าถึงได้หรือการอำนวยบนกระดาษอย่างเดียวที่เป็นสาระภายใต้ [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation);
+  - ความไม่สอดคล้องความทึบของการประเมิน การเฝ้าประตูหลักฐาน หรือความล้าสมัยที่ถูกบังคับที่เป็นสาระภายใต้ [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation);
+  - ความไม่สอดคล้องความไว้วางใจเท็จ สิ่งจูงใจบิดเบี้ยว หรือความครบถ้วนของการฟื้นที่เป็นสาระภายใต้ [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation);
+  - ความไม่สอดคล้องการประเมินส่วน กอื่นในที่ที่ตัวกระตุ้นความเป็นสาระที่คู่ใช้ — รวม [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) และ [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)
 
 **ทำไมการเปิดใหม่จึงสำคัญ** การเปิดใหม่เพราะความไม่สอดคล้อง การเติบโตของการพึ่ง หรือการโต้แย้งที่น่าเชื่อคุ้มครองเป้าประสงค์ **ความต่อเนื่อง** ภายใต้ [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) ในที่ที่ระบบร่วมกั้นการส่งมอบที่ยืนยาวของสิ่งจำเป็นต่อการอยู่รอด การเข้าถึงการศึกษา เส้นทางสร้างขีดความสามารถ การพึ่งที่น่าไว้วางใจ หรือความปลอดภัย การรับรองเก่าต้องไม่แทนการปฏิบัติตามพื้นสิทธิปัจจุบัน
 

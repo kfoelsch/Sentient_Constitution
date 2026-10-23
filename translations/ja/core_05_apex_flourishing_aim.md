@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第五章の羅針](core_05__definitions_home.md#第五章の羅針と定義地図)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；原則層の語釈は [前文 §1](core_00_preamble.md#flourishing)。
-- 下流：原則：[§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)；[§3 交渉不能の原則制約：安全と真理](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth)；[§4 信頼](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)；[§11.1.5 憲法上の成果主張の規律](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)；[憲法上の目的の分解](#flourishing-aim-decomposition)；[第五章の羅針](core_05__definitions_home.md#第五章の羅針と定義地図)に従い**繁栄**が第一次の目的である四元の帯ファイル。
+- 下流：原則：[§2 基礎目標：福祉](core_01_a_values_principles.md)；[§3 交渉不能の原則制約：安全と真理](core_01_a_values_principles.md)；[§4 信頼](core_01_a_values_principles.md)；[§11.1.5 憲法上の成果主張の規律](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)；[憲法上の目的の分解](#flourishing-aim-decomposition)；[第五章の羅針](core_05__definitions_home.md#第五章の羅針と定義地図)に従い**繁栄**が第一次の目的である四元の帯ファイル。
 - あわせて読む：[福祉](../../core_05.040_band_continuity.md#wellbeing)、[安全（制約）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[真理（憲法上の制約）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)、[信頼可能性](../../core_05.040_band_continuity.md#trustworthiness)、[意味ある行為主体性](../../core_05.055_band_participation.md#meaningful-agency)、[代替指標の乖離](../../core_05.050_band_oversight.md#proxy-divergence)、[システム捕捉](../../core_05.040_band_continuity.md#system-capture)、[継続（憲法上の目的）](core_05_apex_continuity_aim.md#continuity-aim-constitutional)（対になる目的 — どちらも他方の犠牲で追ってはならない）、[憲法四元](core_00_preamble.md#constitutional-tetrad)を [実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせたもの（この目的の正当性の枠 — 第五の構成要素ではない）、および繁栄の測定ファミリー。
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - [憲法四元](core_00_preamble.md#constitutional-tetrad)のもとで、[実質的利害](core_00_preamble.md#material-stake)に応じて尺度を合わせて判定せよ。
-  - 主張された繁栄の成果を、[構成要素](#flourishing-aim-decomposition)の条件と、感知者が実際に経験する成果に結びつけよ。第四章および [第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)のもとで。
+  - 主張された繁栄の成果を、[構成要素](#flourishing-aim-decomposition)の条件と、感知者が実際に経験する成果に結びつけよ。第四章および [第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)のもとで。
   - つねに [継続（憲法上の目的）](core_05_apex_continuity_aim.md#continuity-aim-constitutional) とあわせて読め：長期の安定、回復力、または生態的誠実性を予見可能に弱める短期の利得は、二つの目的がともに判定されるとき **繁栄** に失敗する。
 <a id="flourishing-constitutional-c"></a>
 - C: 不遵守であるとき：
   - 一つの構築ブロックが最大化され、真理、安全、信頼可能性、または行為主体性が空洞化される；
   - 繁栄の主張が第四章のもとでの憲法上の成果へたどられない；または
-  - **繁栄**が、[第一章 §6 過程衝突の解決](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) のもとでの明確な許可なしに [継続（憲法上の目的）](core_05_apex_continuity_aim.md#continuity-aim-constitutional) を実質的に打ち負かす仕方で追われる。
+  - **繁栄**が、[第一章 §6 過程衝突の解決](core_01_b_interaction_interpretation.md) のもとでの明確な許可なしに [継続（憲法上の目的）](core_05_apex_continuity_aim.md#continuity-aim-constitutional) を実質的に打ち負かす仕方で追われる。
 
 ---
 

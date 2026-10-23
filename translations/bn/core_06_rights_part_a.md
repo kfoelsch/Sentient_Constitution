@@ -43,14 +43,14 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [বস্তুগত বাজি](core_00_preamble.md#material-stake)।
-- ঊর্ধ্ব: [অধ্যায় এক §6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)।
+- ঊর্ধ্ব: [অধ্যায় এক §6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md); [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
 - ঊর্ধ্ব: [অধ্যায় এক §19 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল)।
 - ঊর্ধ্ব: অধ্যায় দুই থেকে চার; অধ্যায় পাঁচ সংজ্ঞা।
 - অধঃ: এই অধ্যায়ের **অংশ ক থেকে ঘ**; [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification); [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)।
 - অধঃ: [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [§1.2 স্তরের পরিসর](#12-সতরর-পরসর)।
 - সঙ্গে পড়ুন: [কর্তৃত্ব স্তূপ ও অভ্যন্তরীণ ক্রম](core_05_band_integrative.md#owner-non-relocation) এবং [প্রস্তাবনা — ধনাত্মক স্বত্বাধিকারী পঞ্জি](core_00_preamble.md#4-নত-সজঞ-ও-অধকর); [অনুচ্ছেদ XIII-B](core_06_rights_part_c.md#অনচছদ-xiii-b-পরতকর-ও-সশধনর-অধকর) (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*)।
 - সঙ্গে পড়ুন: [অনুচ্ছেদ XVI](core_06_rights_part_c.md#অনচছদ-xvi-নরকষ-সবচছত-ও-সবধন-যচই) (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*)।
-- সঙ্গে পড়ুন: [অনুচ্ছেদ XIX-B](core_06_rights_part_c.md#article-xix-b-contestability-and-proportional-restriction-limits) (*চ্যালেঞ্জ-যোগ্যতা ও আনুপাতিক সীমাবদ্ধতার সীমা*); [অনুচ্ছেদ XXVI-C](core_06_rights_part_d.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)।
+- সঙ্গে পড়ুন: [অনুচ্ছেদ XIX-B](core_06_rights_part_c.md) (*চ্যালেঞ্জ-যোগ্যতা ও আনুপাতিক সীমাবদ্ধতার সীমা*); [অনুচ্ছেদ XXVI-C](core_06_rights_part_d.md) (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)।
 
 </details>
 
@@ -73,7 +73,7 @@
 বৃহত্তর সাংবিধানিক স্তূপ বলে সেই তল কীভাবে ব্যাখ্যা, সীমাবদ্ধ, যাচাই ও বলবৎ হয়। এই অধ্যায়ের কোনো বিধান স্পষ্ট অন্য কথা না বললে অধ্যায় ছয়ের প্রতিটি অধিকার পড়া হয় এগুলোর সঙ্গে:
 - **অধ্যায় এক**, যার মধ্যে:
   - **মূল্য-বন্ধন** — নিরাপত্তা, সত্য, প্রয়োজনীয়তা, আনুপাতিকতা, এবং স্থানীয়, সমষ্টিগত, বিলম্বিত ও আন্তঃব্যবস্থা প্রভাবের ব্যবস্থাগত মূল্যায়ন;
-  - **মিথস্ক্রিয়া শৃঙ্খলা** — [অধ্যায় এক §6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution);
+  - **মিথস্ক্রিয়া শৃঙ্খলা** — [অধ্যায় এক §6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md);
   - **সাংবিধানিক স্কেলিং** — [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad), [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) এবং [বস্তুগত বাজি](core_00_preamble.md#material-stake) স্কেলিং;
   - **প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল** — [অধ্যায় এক §11](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল) এবং সংশ্লিষ্ট দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলা, কিন্তু শুধু যেখানে প্রণোদনা নকশা, আস্থা, বিশ্বস্ততা, দখল, বাজার কাঠামো বা রক্ষিত সীমাবদ্ধতা বস্তুগতভাবে প্রাসঙ্গিক।
 - **অধ্যায় দুই থেকে চার** — সংজ্ঞা সততা, ভার ও সন্ধানযোগ্যতা, পর্যবেক্ষণযোগ্যতা, সহজলভ্য যাচাই, এবং প্রযোজ্য হলে নিরাপত্তা-সীমিত পর্যবেক্ষণযোগ্যতা।
@@ -100,7 +100,7 @@
 - **চ্যালেঞ্জ, পর্যালোচনা ও আনুপাতিক সংশোধন** — **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*); অধ্যায় পাঁচ (*প্রতিকার ও সংশোধন*)
 
 **বিরোধ ও সময়মতো প্রক্রিয়া**
-- **ন্যায়, ক্ষতিপূরণ, সীমাবদ্ধতার সীমা, জরুরি অবস্থা ও অধিকার-সংঘর্ষ** — **অনুচ্ছেদ XXVI** (*সময়মতো পশ্চাৎদৃষ্টি পর্যালোচনা ও পুনরুদ্ধারমূলক সামঞ্জস্য*); [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
+- **ন্যায়, ক্ষতিপূরণ, সীমাবদ্ধতার সীমা, জরুরি অবস্থা ও অধিকার-সংঘর্ষ** — **অনুচ্ছেদ XXVI** (*সময়মতো পশ্চাৎদৃষ্টি পর্যালোচনা ও পুনরুদ্ধারমূলক সামঞ্জস্য*); [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
 - **প্রধান ব্যবহারিক প্রক্রিয়া শৃঙ্খল** — **অনুচ্ছেদ XXVI-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*); [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)
 
 এই অধ্যায়ের অন্যত্র সেই বিষয়ের সংক্ষিপ্ত ক্রস-রেফারেন্স এই নোঙর অন্তর্ভুক্ত করে।
@@ -126,11 +126,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 
 </details>
 
-<strong><span style="color: #2563eb;">সংজ্ঞা:</span></strong> [পরিবেশগত পূর্বশর্ত](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+<strong><span style="color: #2563eb;">সংজ্ঞা:</span></strong> [পরিবেশগত পূর্বশর্ত](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
 
 *সহজ ভাষায়: **অনুচ্ছেদ I** (*পরিবেশগত বেঁচে থাকা*) গ্রহ-আগে অধিকার-তল — পৃথিবীর জীবন-রক্ষাকারী ব্যবস্থা টিকতে হয় যাতে প্রতিটি সংজ্ঞের জন্য **সমুন্নতি** ও **সাতত্য** সম্ভব থাকে, এবং পরের শাসন প্রত্যয়ন, শ্রেণিবিন্যাস বা বাস্তবায়ন পছন্দের মধ্য দিয়ে সেই তল সংকুচিত করতে পারে না।*
 
@@ -153,21 +153,21 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [পরিবেশগত পূর্বশর্ত](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [পরিবেশগত সততা](core_05_band_continuity.md#ecological-integrity-constitutional) · [O](core_05_band_continuity.md#ecological-integrity-constitutional) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [স্থায়িত্ব](core_05_band_continuity.md#sustainability) · [O](core_05_band_continuity.md#sustainability) · [M](core_05_band_continuity.md#sustainability-a) · [A](core_05_band_continuity.md#sustainability-a) · [C](core_05_band_continuity.md#sustainability-c)
-- [প্রাকৃতিক ব্যবস্থার প্রস্থিতি](core_05_band_participation.md#natural-systems-standing) · [O](core_05_band_participation.md#natural-systems-standing) · [M](core_05_band_participation.md#natural-systems-standing-a) · [A](core_05_band_participation.md#natural-systems-standing-a) · [C](core_05_band_participation.md#natural-systems-standing-c)
-- [প্রাণী জীবন](core_05_band_participation.md#animal-life-constitutional) · [O](core_05_band_participation.md#animal-life-constitutional) · [M](core_05_band_participation.md#animal-life-constitutional-a) · [A](core_05_band_participation.md#animal-life-constitutional-a) · [C](core_05_band_participation.md#animal-life-constitutional-c)
-- [উন্নত যোগাযোগমূলক জীবন](core_05_band_participation.md#elevated-communicative-life-constitutional) · [O](core_05_band_participation.md#elevated-communicative-life-constitutional) · [M](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [A](core_05_band_participation.md#elevated-communicative-life-constitutional-a) · [C](core_05_band_participation.md#elevated-communicative-life-constitutional-c)
-- [বিতর্কিত-সংজ্ঞ জীবন](core_05_band_participation.md#contested-sentient-life-constitutional) · [O](core_05_band_participation.md#contested-sentient-life-constitutional) · [M](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [A](core_05_band_participation.md#contested-sentient-life-constitutional-a) · [C](core_05_band_participation.md#contested-sentient-life-constitutional-c)
-- [কল্যাণ](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [পরিবেশগত পূর্বশর্ত](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
+- [পরিবেশগত সততা](../../core_05.040_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05.040_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-integrity-constitutional-c)
+- [স্থায়িত্ব](../../core_05.040_band_continuity.md#sustainability) · [O](../../core_05.040_band_continuity.md#sustainability) · [M](../../core_05.040_band_continuity.md#sustainability-a) · [A](../../core_05.040_band_continuity.md#sustainability-a) · [C](../../core_05.040_band_continuity.md#sustainability-c)
+- [প্রাকৃতিক ব্যবস্থার প্রস্থিতি](../../core_05.055_band_participation.md#natural-systems-standing) · [O](../../core_05.055_band_participation.md#natural-systems-standing) · [M](../../core_05.055_band_participation.md#natural-systems-standing-a) · [A](../../core_05.055_band_participation.md#natural-systems-standing-a) · [C](../../core_05.055_band_participation.md#natural-systems-standing-c)
+- [প্রাণী জীবন](../../core_05.055_band_participation.md#animal-life-constitutional) · [O](../../core_05.055_band_participation.md#animal-life-constitutional) · [M](../../core_05.055_band_participation.md#animal-life-constitutional-a) · [A](../../core_05.055_band_participation.md#animal-life-constitutional-a) · [C](../../core_05.055_band_participation.md#animal-life-constitutional-c)
+- [উন্নত যোগাযোগমূলক জীবন](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional) · [O](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional) · [M](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional-a) · [A](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional-a) · [C](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional-c)
+- [বিতর্কিত-সংজ্ঞ জীবন](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) · [O](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) · [M](../../core_05.055_band_participation.md#contested-sentient-life-constitutional-a) · [A](../../core_05.055_band_participation.md#contested-sentient-life-constitutional-a) · [C](../../core_05.055_band_participation.md#contested-sentient-life-constitutional-c)
+- [কল্যাণ](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
 
 </details>
 
@@ -178,40 +178,40 @@
 - **পূর্বশর্ত, সততা ও স্থায়িত্ব:** অধ্যায় পাঁচে **পরিবেশগত পূর্বশর্ত**, **পরিবেশগত সততা** ও **স্থায়িত্ব** এই অনুচ্ছেদের অধীনে কার্যকরী।
   - জীবন-রক্ষাকারী প্রাকৃতিক ব্যবস্থার নিজস্ব সাতত্য ও সততার স্বার্থ আছে। সেই স্বার্থ সংজ্ঞ স্বার্থের পাশে ব্যাখ্যাকে অবহিত করে।
   - যে বস্তুগত ক্ষতি এই অনুচ্ছেদ লঙ্ঘন করে — **পরিবেশগত পূর্বশর্ত**, **পরিবেশগত সততা** ও **স্থায়িত্ব**-এর অধীনে বিচার — তা অনুপালনহীন।
-  - গ্রহণকারীর [গ্রহণ দলিল](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) বা গ্রহণ পরিসরের অন্তর্ভুক্ত বাস্তবায়ন পাঠে নাম করা পরিবেশগত প্রয়োজন লঙ্ঘনকারী ক্ষতিও অনুপালনহীন।
-- **প্রাণী জীবনের মিথস্ক্রিয়া:** [প্রাণী জীবন](core_05_band_participation.md#animal-life-constitutional) **প্রাকৃতিক ব্যবস্থার প্রস্থিতি** এবং সংজ্ঞদের অধ্যায় ছয় অধিকার-তলের মাঝে কল্যাণ-সুরক্ষা ক্ষেত্র দখল করে।
+  - গ্রহণকারীর [গ্রহণ দলিল](../../core_17.000_amendment_ratification.md) বা গ্রহণ পরিসরের অন্তর্ভুক্ত বাস্তবায়ন পাঠে নাম করা পরিবেশগত প্রয়োজন লঙ্ঘনকারী ক্ষতিও অনুপালনহীন।
+- **প্রাণী জীবনের মিথস্ক্রিয়া:** [প্রাণী জীবন](../../core_05.055_band_participation.md#animal-life-constitutional) **প্রাকৃতিক ব্যবস্থার প্রস্থিতি** এবং সংজ্ঞদের অধ্যায় ছয় অধিকার-তলের মাঝে কল্যাণ-সুরক্ষা ক্ষেত্র দখল করে।
   - কল্যাণ-সদৃশ ক্ষতি বস্তুগতভাবে জড়ালে **সংজ্ঞতা অ-বহিষ্কার**-এর অধীনে প্রাণী জীবনের ন্যূনতম নিষ্ঠুরতা ও কল্যাণ তল স্থাপন করে।
   - নথি বস্তুগতভাবে সেই প্রশ্ন জড়ালে এটি উন্নত যোগাযোগমূলক ব্যবহার বা সংজ্ঞতা-অবস্থা নিষ্পত্তির বিকল্প নয়।
   - যে বস্তুগত যোগাযোগমূলক বা জ্ঞানীয় সূচক বিতর্কিত বা স্বীকারযোগ্য সংজ্ঞতা জড়ায়, সেগুলো অনির্দিষ্ট শুধু-কল্যাণ পার্কিংয়ের বদলে সংজ্ঞতা-অবস্থা নিষ্পত্তি খুলতে চায়। পরিচালক বা দায়িত্বশীল ব্যবস্থাপককে সেই নিষ্পত্তি সময়সীমাবদ্ধ পর্যালোচনায় খুলতে হয় — প্রজাতি তালিকায় নয়। উত্তরণ **অনুচ্ছেদ VI-B** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*) / বিতর্কিত-সংজ্ঞ নিয়মিত অন্তর্ভুক্তি খোলে; এটি নিজে সংজ্ঞ অবস্থা স্বীকার করে না।
-- **উন্নত যোগাযোগমূলক জীবনের মিথস্ক্রিয়া:** [উন্নত যোগাযোগমূলক জীবন](core_05_band_participation.md#elevated-communicative-life-constitutional) **প্রাণী জীবন** এবং বিতর্কিত বা স্বীকৃত অধ্যায় ছয় ব্যবহারের মাঝে স্থিতিশীল যোগাযোগমূলক / বাসস্থান-অগ্রাধিকার ক্ষেত্র দখল করে।
+- **উন্নত যোগাযোগমূলক জীবনের মিথস্ক্রিয়া:** [উন্নত যোগাযোগমূলক জীবন](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional) **প্রাণী জীবন** এবং বিতর্কিত বা স্বীকৃত অধ্যায় ছয় ব্যবহারের মাঝে স্থিতিশীল যোগাযোগমূলক / বাসস্থান-অগ্রাধিকার ক্ষেত্র দখল করে।
   - এতে প্রাণী জীবনের নিষ্ঠুরতা ও কল্যাণ তল থাকে এবং শক্তিশালী যোগাযোগমূলক বা জ্ঞানীয় সূচক বস্তুগতভাবে জড়ালে **সংজ্ঞতা অ-বহিষ্কার**-এর অধীনে বাসস্থান বা পরিচালন পরিবেশ সুস্থ রাখার অগ্রাধিকার বাড়ে।
   - নথি বস্তুগতভাবে বিতর্কিত বা স্বীকারযোগ্য সংজ্ঞতা জড়ালে এটি সংজ্ঞতা-অবস্থা নিষ্পত্তির বিকল্প নয়।
   - যে বস্তুগত যোগাযোগমূলক বা জ্ঞানীয় সূচক বিতর্কিত বা স্বীকারযোগ্য সংজ্ঞতা জড়ায়, সেগুলো অনির্দিষ্ট বাসস্থান-অগ্রাধিকার পার্কিংয়ের বদলে সংজ্ঞতা-অবস্থা নিষ্পত্তি খুলতে চায়। পরিচালক বা দায়িত্বশীল ব্যবস্থাপককে সেই নিষ্পত্তি সময়সীমাবদ্ধ পর্যালোচনায় খুলতে হয় — প্রজাতি তালিকায় নয়। উত্তরণ **অনুচ্ছেদ VI-B** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*) / বিতর্কিত-সংজ্ঞ নিয়মিত অন্তর্ভুক্তি খোলে; এটি নিজে সংজ্ঞ অবস্থা স্বীকার করে না।
-- **বিতর্কিত-সংজ্ঞ জীবনের মিথস্ক্রিয়া:** সংজ্ঞতা অনিশ্চিত, বিরোধিত, বস্তুগতভাবে বিতর্কিত বা নিষ্পত্তির অধীনে থাকলে [বিতর্কিত-সংজ্ঞ জীবন](core_05_band_participation.md#contested-sentient-life-constitutional) **সংজ্ঞতা অ-বহিষ্কার**-এর অধীনে প্রযোজ্য।
-  - এটি প্রশ্ন [সংজ্ঞতা-অবস্থা নিষ্পত্তি](core_05_band_participation.md#sentience-status-adjudication-constitutional) পদ্ধতিতে রাউট করে (মালিক অনুচ্ছেদ **অনুচ্ছেদ VI-B** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*))।
+- **বিতর্কিত-সংজ্ঞ জীবনের মিথস্ক্রিয়া:** সংজ্ঞতা অনিশ্চিত, বিরোধিত, বস্তুগতভাবে বিতর্কিত বা নিষ্পত্তির অধীনে থাকলে [বিতর্কিত-সংজ্ঞ জীবন](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) **সংজ্ঞতা অ-বহিষ্কার**-এর অধীনে প্রযোজ্য।
+  - এটি প্রশ্ন [সংজ্ঞতা-অবস্থা নিষ্পত্তি](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) পদ্ধতিতে রাউট করে (মালিক অনুচ্ছেদ **অনুচ্ছেদ VI-B** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*))।
   - **অনুচ্ছেদ VI-B** (*সংজ্ঞতা-অবস্থা নিষ্পত্তি তল*)-এর অধীনে বস্তুগতভাবে অমীমাংসিত সংজ্ঞতা-অবস্থা অধ্যায় ছয় অধিকার-তলের অধীনে অন্তর্ভুক্তিতে ডিফল্ট করে, যদি না সুরক্ষা আটকানো, সংকুচিত বা প্রত্যাহার করতে চাওয়া পক্ষ প্রযোজ্য ভার পূরণ করে।
 - **এই সুরক্ষা কীভাবে একসঙ্গে বসে:** নিচের সব একসঙ্গে প্রযোজ্য হতে পারে:
-  - [প্রাকৃতিক ব্যবস্থার প্রস্থিতি](core_05_band_participation.md#natural-systems-standing);
-  - [প্রাণী জীবন](core_05_band_participation.md#animal-life-constitutional);
-  - [উন্নত যোগাযোগমূলক জীবন](core_05_band_participation.md#elevated-communicative-life-constitutional);
-  - [বিতর্কিত-সংজ্ঞ জীবন](core_05_band_participation.md#contested-sentient-life-constitutional); এবং
+  - [প্রাকৃতিক ব্যবস্থার প্রস্থিতি](../../core_05.055_band_participation.md#natural-systems-standing);
+  - [প্রাণী জীবন](../../core_05.055_band_participation.md#animal-life-constitutional);
+  - [উন্নত যোগাযোগমূলক জীবন](../../core_05.055_band_participation.md#elevated-communicative-life-constitutional);
+  - [বিতর্কিত-সংজ্ঞ জীবন](../../core_05.055_band_participation.md#contested-sentient-life-constitutional); এবং
   - অধ্যায় ছয়ের সংজ্ঞ তল।
 
-  যেটি তথ্যে মিলে সেটি প্রয়োগ করুন; যেখানে তারা উপরিপাত করে, [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) এবং সেই অধ্যায় পাঁচ এন্ট্রির অনুপালন নিয়মের অধীনে আরও সুরক্ষাকারী নিয়ম শাসন করে। যে বস্তুগত যোগাযোগমূলক বা জ্ঞানীয় সূচক বিতর্কিত বা স্বীকারযোগ্য সংজ্ঞতা জড়ায়, সেগুলো অনির্দিষ্ট শুধু-কল্যাণ বা বাসস্থান-অগ্রাধিকার পার্কিংয়ের বদলে সংজ্ঞতা-অবস্থা নিষ্পত্তি খুলতে চায়।
+  যেটি তথ্যে মিলে সেটি প্রয়োগ করুন; যেখানে তারা উপরিপাত করে, [অধ্যায় এক §6.1.5 অধিকার-সংঘর্ষ সিদ্ধান্ত পরীক্ষা](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) এবং সেই অধ্যায় পাঁচ এন্ট্রির অনুপালন নিয়মের অধীনে আরও সুরক্ষাকারী নিয়ম শাসন করে। যে বস্তুগত যোগাযোগমূলক বা জ্ঞানীয় সূচক বিতর্কিত বা স্বীকারযোগ্য সংজ্ঞতা জড়ায়, সেগুলো অনির্দিষ্ট শুধু-কল্যাণ বা বাসস্থান-অগ্রাধিকার পার্কিংয়ের বদলে সংজ্ঞতা-অবস্থা নিষ্পত্তি খুলতে চায়।
 
 <a id="article-i-b-ecological-footprint-and-transparency"></a>
 #### অনুচ্ছেদ I-B: পরিবেশগত পদচিহ্ন ও স্বচ্ছতা
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 জ্ঞানতাত্ত্বিক প্রকাশ বন্ধন](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.2 জ্ঞানতাত্ত্বিক প্রকাশ বন্ধন](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [পরিবেশগত পদচিহ্ন](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [পরিবেশগত পদচিহ্ন](../../core_05.040_band_continuity.md#ecological-footprint) · [O](../../core_05.040_band_continuity.md#ecological-footprint) · [M](../../core_05.040_band_continuity.md#ecological-footprint-a) · [A](../../core_05.040_band_continuity.md#ecological-footprint-a) · [C](../../core_05.040_band_continuity.md#ecological-footprint-c)
 - [বস্তুগত প্রভাব](core_05_band_oversight.md#বসতগত-পরভব) · [O](core_05_band_oversight.md#বসতগত-পরভব) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
 - [স্বচ্ছতা](core_05_band_oversight.md#সবচছত) · [O](core_05_band_oversight.md#সবচছত) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [জ্ঞানতাত্ত্বিক সততা](core_05_band_oversight.md#জঞনতততবক-সতত) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
@@ -232,16 +232,16 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint) এবং [§14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement)।
-- অধ্যায় পাঁচ: প্রামাণিক **আন্তঃপ্রজন্ম দায়িত্ব** O/M/A/C বসে [**Def.I1** *পরিবেশগত সততা, পদচিহ্ন ও স্থায়িত্ব*](core_05_band_continuity.md#ecological-footprint-semi-independent)-এ, **পরিবেশগত সততা**, **স্থায়িত্ব**, **পরিবেশগত পূর্বশর্ত** ও **পরিবেশগত পদচিহ্ন**-এর সঙ্গে যৌথভাবে পড়া (পদচিহ্ন ভার, প্রকাশ, তুলনা, হ্রাস বা সন্ধানযোগ্যতা বস্তুগতভাবে জড়ালে যৌথ আহ্বান)। **আদিবাসী সাতত্য**, **ভাষা, সংস্কৃতি ও ঐতিহ্য**, **প্রাকৃতিক ব্যবস্থার প্রস্থিতি** ও **আন্তঃপ্রজন্ম দায়িত্ব**-এর যৌথ আহ্বানও [অধ্যায় পাঁচ *আদিবাসী সাতত্য, ভাষা, সংস্কৃতি ও ঐতিহ্য*](core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) দিয়ে রাউট হয় যেখানে সম্প্রদায়-বাঁধা সাতত্য, ঐতিহ্য, প্রাকৃতিক-ব্যবস্থা প্রস্থিতি ও ভবিষ্যৎ-শৃঙ্খলা বিশ্লেষণ একসঙ্গে প্রযোজ্য।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint) এবং [§14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md)।
+- অধ্যায় পাঁচ: প্রামাণিক **আন্তঃপ্রজন্ম দায়িত্ব** O/M/A/C বসে [**Def.I1** *পরিবেশগত সততা, পদচিহ্ন ও স্থায়িত্ব*](../../core_05.040_band_continuity.md#ecological-footprint-semi-independent)-এ, **পরিবেশগত সততা**, **স্থায়িত্ব**, **পরিবেশগত পূর্বশর্ত** ও **পরিবেশগত পদচিহ্ন**-এর সঙ্গে যৌথভাবে পড়া (পদচিহ্ন ভার, প্রকাশ, তুলনা, হ্রাস বা সন্ধানযোগ্যতা বস্তুগতভাবে জড়ালে যৌথ আহ্বান)। **আদিবাসী সাতত্য**, **ভাষা, সংস্কৃতি ও ঐতিহ্য**, **প্রাকৃতিক ব্যবস্থার প্রস্থিতি** ও **আন্তঃপ্রজন্ম দায়িত্ব**-এর যৌথ আহ্বানও [অধ্যায় পাঁচ *আদিবাসী সাতত্য, ভাষা, সংস্কৃতি ও ঐতিহ্য*](../../core_05.040_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) দিয়ে রাউট হয় যেখানে সম্প্রদায়-বাঁধা সাতত্য, ঐতিহ্য, প্রাকৃতিক-ব্যবস্থা প্রস্থিতি ও ভবিষ্যৎ-শৃঙ্খলা বিশ্লেষণ একসঙ্গে প্রযোজ্য।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [আন্তঃপ্রজন্ম দায়িত্ব](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [পরিবেশগত পূর্বশর্ত](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [আন্তঃপ্রজন্ম দায়িত্ব](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
+- [পরিবেশগত পূর্বশর্ত](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional-c)
 - [তাৎপর্য নির্ণয়](core_05_band_oversight.md#তৎপরয-নরণয) · [O](core_05_band_oversight.md#তৎপরয-নরণয) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -263,8 +263,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [§14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement)।
-- সঙ্গে পড়ুন: [নিরাপত্তা (বন্ধন)](core_05_band_continuity.md#safety-constraint), [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#সতয-সবধনক-বনধন), [পরিবেশগত পূর্বশর্ত](core_05_band_continuity.md#environmental-preconditions-constitutional), [পরিবেশগত পুনরুদ্ধার ক্ষমতা](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [আন্তঃপ্রজন্ম দায়িত্ব](core_05_band_continuity.md#intergenerational-responsibility-constitutional) এবং [অস্তিত্বগত ঝুঁকি](core_05_band_continuity.md#existential-risk)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [§14 ব্যবস্থাগত মূল্যায়ন প্রত্যাশা](core_01_c_stewardship_capacity_principles.md)।
+- সঙ্গে পড়ুন: [নিরাপত্তা (বন্ধন)](../../core_05.040_band_continuity.md#safety-constraint), [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#সতয-সবধনক-বনধন), [পরিবেশগত পূর্বশর্ত](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional), [পরিবেশগত পুনরুদ্ধার ক্ষমতা](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional), [আন্তঃপ্রজন্ম দায়িত্ব](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) এবং [অস্তিত্বগত ঝুঁকি](../../core_05.040_band_continuity.md#existential-risk)।
 - অধঃ: **অধ্যায় তেরো §6.1** (*জরুরি ব্যবস্থা ও ধারাবাহিকতার ভার*) — অস্তিত্বগত-ঝুঁকি বা জরুরি ফ্রেম টানা হলে অজুহাত-নিরোধ ও সময়সীমাবদ্ধ পর্যালোচনা শৃঙ্খলা।
 
 </details>
@@ -272,10 +272,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [অস্তিত্বগত ঝুঁকি](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
-- [পরিবেশগত পুনরুদ্ধার ক্ষমতা](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [অস্তিত্বগত ঝুঁকি](../../core_05.040_band_continuity.md#existential-risk) · [O](../../core_05.040_band_continuity.md#existential-risk) · [M](../../core_05.040_band_continuity.md#existential-risk-a) · [A](../../core_05.040_band_continuity.md#existential-risk-a) · [C](../../core_05.040_band_continuity.md#existential-risk-c)
+- [পরিবেশগত পুনরুদ্ধার ক্ষমতা](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional-c)
 - [পূর্বদৃশ্যতা সতর্কতা](core_05_band_oversight.md#পরবদশযত-সতরকত) · [O](core_05_band_oversight.md#পরবদশযত-সতরকত) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [নির্ভরতা](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 
 </details>
 
@@ -283,7 +283,7 @@
 
 *সহজ ভাষায়: কোনো ব্যবস্থা বা সিদ্ধান্ত সংজ্ঞ বেঁচে থাকা বা পরিবেশগত পুনরুদ্ধার ক্ষমতাকে বিশ্বাসযোগ্যভাবে হুমকি দিতে পারলে নিয়ন্ত্রকদের সর্বোচ্চ পরীক্ষা প্রয়োগ করতে হয় — বিপদ ছোট, ধীর বা বিতর্কিত হলেও।*
 
-- **পরিবেশগত পুনরুদ্ধার ক্ষমতার পরিসর:** এই অনুচ্ছেদে **পরিবেশগত পুনরুদ্ধার ক্ষমতা** মানে অধ্যায় পাঁচে [পরিবেশগত পুনরুদ্ধার ক্ষমতা](core_05_band_continuity.md#ecological-recovery-capacity-constitutional) — ত্রুটির পর পরিচালন ব্যবস্থা পুনঃস্থাপন (**স্ব-মেরামত**), নির্দিষ্ট অবস্থা ফিরিয়ে আনা (**উল্টানো যায় এমনতা**) বা বাণিজ্যিক খরচ উদ্ধার নয়।
+- **পরিবেশগত পুনরুদ্ধার ক্ষমতার পরিসর:** এই অনুচ্ছেদে **পরিবেশগত পুনরুদ্ধার ক্ষমতা** মানে অধ্যায় পাঁচে [পরিবেশগত পুনরুদ্ধার ক্ষমতা](../../core_05.040_band_continuity.md#ecological-recovery-capacity-constitutional) — ত্রুটির পর পরিচালন ব্যবস্থা পুনঃস্থাপন (**স্ব-মেরামত**), নির্দিষ্ট অবস্থা ফিরিয়ে আনা (**উল্টানো যায় এমনতা**) বা বাণিজ্যিক খরচ উদ্ধার নয়।
 - **উচ্চতর পরীক্ষা:** কোনো ব্যবস্থা, নীতি, অবকাঠামো, সমন্বিত কার্যকলাপ বা শাসন সিদ্ধান্ত **অস্তিত্বগত ঝুঁকি** বা **পরিবেশগত পুনরুদ্ধার ক্ষমতা**-র অপরিবর্তনীয় ক্ষতির বিশ্বাসযোগ্য নামকৃত পথ তৈরি করলে উচ্চতর সাংবিধানিক পরীক্ষা বাধ্যতামূলক।
   - পথ কম-সম্ভাব্য, বিলম্বিত, ক্রমবর্ধমান, সীমা-নির্ভর বা সময় নিয়ে বিতর্কিত হলেও এই নিয়ম প্রযোজ্য।
 - **মূল্যায়ন প্রয়োজন:** মূল্যায়নে থাকতে হয়:
@@ -300,7 +300,7 @@
   সিদ্ধান্ত নথিতে অনিশ্চয়তা, অনুমান, প্রমাণের সীমা, মতভেদ ও বস্তুগত ফাঁক খোলাখুলি বলতে হয়।
 - **ভার ও নথির অতিরিক্ত বাধ্যতামূলক শর্ত:** বস্তুগতভাবে নিরাপদতর প্রতিটি বিকল্পের ক্ষেত্রে অধ্যায় চার §5-এর অনুপালন-প্রমাণ মান পূরণকারী প্রমাণসহ অনুমোদন, অব্যাহতকরণ বা সম্প্রসারণপ্রার্থীকে হয় পর্যালোচনাধীন কাজে সেটি গ্রহণ করতে হবে, নয়তো প্রমাণে দেখাতে হবে যে সেটি কাজটির বৈধ উদ্দেশ্য পূরণ করবে না বা উপলভ্য নয়; শুধু বিকল্প বিবেচনার নথি যথেষ্ট নয়। নজরদারি কার্যকারণ-পথটি ক্ষতি অপরিবর্তনীয় হওয়ার আগেই থামানোর মতো যথেষ্ট আগে শনাক্ত করতে সক্ষম হতে হবে, এবং নামযুক্ত কোনো অভিনেতার থামানোর ক্ষমতা ও বাস্তব সক্ষমতা—দুটিই থাকতে হবে। প্রশমন ও বাধাদান ব্যবস্থা সম্ভাব্য ক্ষতির মাত্রার অনুপাতে হবে। নতুন বস্তুগত প্রমাণে, সম্প্রসারণে এবং ঝুঁকি-অনুপাতে বিরতিতে এই ভার আবার পূরণ করতে হবে। ভার অপূর্ণ থাকলে অনুপালনহীনতা এবং অধ্যায় তিন §3-এর পরিণতি প্রযোজ্য। এই অনুচ্ছেদের প্রতিটি অনুমোদন, অব্যাহতকরণ বা সম্প্রসারণ-সিদ্ধান্ত বস্তুগতভাবে বাধ্যতামূলক কাজ; তার কার্য-নথিতে অভিনেতার প্রমাণ ও পর্যালোচকের মূল্যায়ন যুক্ত থাকবে এবং অনিশ্চয়তা, অনুমান, প্রমাণের সীমা, মতভেদ ও বস্তুগত ফাঁক খোলাখুলি উল্লেখ থাকবে।
 - **বর্তমান লাভের সীমা:** বর্তমান লাভ ভবিষ্যৎ সংজ্ঞ, পরিবেশগত পুনরুদ্ধারের জন্য জরুরি ব্যবস্থা, বা জীবন-রক্ষাকারী পরিবেশগত শর্তকে সভ্যতা-মাত্রার বা বেঁচে থাকা-জরুরি ক্ষতির অসামঞ্জস্যপূর্ণ সংস্পর্শে রাখার ন্যায্যতা দেয় না। কোনো প্রাকৃতিক বাস্তুতন্ত্রকে, যে কোনো মাত্রায়, তার [পরিবেশগত পুনরুদ্ধার ক্ষমতার](../../core_05.040_band_continuity.md#ecological-recovery-capacity) অপরিবর্তনীয় ক্ষতির মুখে ফেলাও এর ন্যায্যতা পায় না।
-- **নামকৃত মাপ:** এই অনুচ্ছেদের অধীনে অনুমোদন, অব্যাহতকরণ বা সম্প্রসারণ চাওয়া অভিনেতাদের [গ্রহণ দলিল](../../core_17.000_amendment_ratification.md#102-instrument-of-adoption) বা গ্রহণ পরিসরের অন্তর্ভুক্ত বাস্তবায়ন পাঠে পথের সঙ্গে আনুপাতিক হ্রাস, সীমা বা বাধা মাপ নাম করে রাখতে হয় — জলবায়ু ব্যবস্থার ক্ষতি [পরিবেশগত পূর্বশর্ত](core_05_band_continuity.md#environmental-preconditions-constitutional) উপাদান হিসেবে সহ। এই অনুচ্ছেদ তবু সংখ্যা লক্ষ্য বসায় না। **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*) পদচিহ্ন-আরোপ উপধারাই থাকে এবং একা হ্রাস চায় না। এই অনুচ্ছেদের অধীনে বিশ্বাসযোগ্য পথ খোলা থাকতে সেই নামকৃত মাপ ছাড়া অব্যাহতকরণ অনুপালনহীন।
+- **নামকৃত মাপ:** এই অনুচ্ছেদের অধীনে অনুমোদন, অব্যাহতকরণ বা সম্প্রসারণ চাওয়া অভিনেতাদের [গ্রহণ দলিল](../../core_17.000_amendment_ratification.md) বা গ্রহণ পরিসরের অন্তর্ভুক্ত বাস্তবায়ন পাঠে পথের সঙ্গে আনুপাতিক হ্রাস, সীমা বা বাধা মাপ নাম করে রাখতে হয় — জলবায়ু ব্যবস্থার ক্ষতি [পরিবেশগত পূর্বশর্ত](../../core_05.040_band_continuity.md#environmental-preconditions-constitutional) উপাদান হিসেবে সহ। এই অনুচ্ছেদ তবু সংখ্যা লক্ষ্য বসায় না। **অনুচ্ছেদ I-B** (*পরিবেশগত পদচিহ্ন ও স্বচ্ছতা*) পদচিহ্ন-আরোপ উপধারাই থাকে এবং একা হ্রাস চায় না। এই অনুচ্ছেদের অধীনে বিশ্বাসযোগ্য পথ খোলা থাকতে সেই নামকৃত মাপ ছাড়া অব্যাহতকরণ অনুপালনহীন।
 
 <a id="article-ii-material-stewardship-and-durable-use-integrity"></a>
 ### অনুচ্ছেদ II: বস্তুগত দায়িত্বশীল ব্যবস্থাপনা ও স্থায়ী-ব্যবহার সততা
@@ -308,7 +308,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) এবং [§9.2 বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md) এবং [§9.2 বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)।
 
 </details>
 
@@ -345,15 +345,15 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [পরিবেশগত পদচিহ্ন](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
-- [আন্তঃপ্রজন্ম দায়িত্ব](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+- [পরিবেশগত পদচিহ্ন](../../core_05.040_band_continuity.md#ecological-footprint) · [O](../../core_05.040_band_continuity.md#ecological-footprint) · [M](../../core_05.040_band_continuity.md#ecological-footprint-a) · [A](../../core_05.040_band_continuity.md#ecological-footprint-a) · [C](../../core_05.040_band_continuity.md#ecological-footprint-c)
+- [আন্তঃপ্রজন্ম দায়িত্ব](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [তাৎপর্য নির্ণয়](core_05_band_oversight.md#তৎপরয-নরণয) · [O](core_05_band_oversight.md#তৎপরয-নরণয) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
@@ -379,16 +379,16 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) এবং [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) এবং [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [আনুপাতিকতা](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [নির্ভরতা](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [প্রয়োজনীয়তা](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 
 </details>
 
@@ -413,7 +413,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 
 </details>
 
@@ -422,8 +422,8 @@
 
 - [প্রণোদনা সারিবদ্ধতা](core_05_band_integrative.md#পরণদন-সরবদধত) · [O](core_05_band_integrative.md#পরণদন-সরবদধত) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 - [পূর্বদৃশ্যতা সতর্কতা](core_05_band_oversight.md#পরবদশযত-সতরকত) · [O](core_05_band_oversight.md#পরবদশযত-সতরকত) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
-- [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [আনুপাতিকতা](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [প্রয়োজনীয়তা](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -444,19 +444,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [সম্মতি](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
+- [সম্মতি](../../core_05.055_band_participation.md#consent-constitutional) · [O](../../core_05.055_band_participation.md#consent-constitutional) · [M](../../core_05.055_band_participation.md#consent-constitutional-a) · [A](../../core_05.055_band_participation.md#consent-constitutional-a) · [C](../../core_05.055_band_participation.md#consent-constitutional-c)
 - [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#সতয-সবধনক-বনধন) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [নির্ভরতা](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [অর্থপূর্ণ কর্তৃত্ব](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [জবরদস্তি ও কারসাজি](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [আস্থা ক্ষয় ও বিভ্রান্তিকর নির্ভর](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [M](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [অর্থপূর্ণ কর্তৃত্ব](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.035_band_accountability.md) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [জবরদস্তি ও কারসাজি](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05.055_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [আস্থা ক্ষয় ও বিভ্রান্তিকর নির্ভর](core_05_band_integrative.md) · [O](core_05_band_integrative.md) · [M](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../../core_05.040_band_continuity.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
@@ -475,19 +475,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
-- সঙ্গে পড়ুন: [অনুচ্ছেদ XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*বহনযোগ্যতা অধিকার*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*আন্তঃক্রিয়াশীলতা, বহনযোগ্যতা ও প্রস্থান-সততা শর্ত*) এবং **CJS-3.18** (*তথ্য-ধারণ ও জীবনচক্র-সততা শর্ত*); [অধ্যায় এক §11.6 উত্তরসূরি দায়িত্ব ও আনুষ্ঠানিক-কাঠামো অ-পলায়ন](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [অধ্যায় নয় §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) এবং [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- সঙ্গে পড়ুন: [অনুচ্ছেদ XIX-A](core_06_rights_part_c.md) (*বহনযোগ্যতা অধিকার*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*আন্তঃক্রিয়াশীলতা, বহনযোগ্যতা ও প্রস্থান-সততা শর্ত*) এবং **CJS-3.18** (*তথ্য-ধারণ ও জীবনচক্র-সততা শর্ত*); [অধ্যায় এক §11.6 উত্তরসূরি দায়িত্ব ও আনুষ্ঠানিক-কাঠামো অ-পলায়ন](core_01_c_stewardship_capacity_principles.md); [অধ্যায় নয় §9.1](../../core_11.000_standing_integration.md#91-remediation-capacity-and-funding) এবং [§9.4](../../core_11.000_standing_integration.md#94-anti-evasion-and-look-through-authority)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [নির্ভরতা](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [আন্তঃপ্রজন্ম দায়িত্ব](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [আন্তঃপ্রজন্ম দায়িত্ব](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05.040_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [তাৎপর্য নির্ণয়](core_05_band_oversight.md#তৎপরয-নরণয) · [O](core_05_band_oversight.md#তৎপরয-নরণয) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [অবহেলা](core_05_band_accountability.md#negligence) · [O](core_05_band_accountability.md#negligence) · [M](core_05_band_accountability.md#negligence-a) · [A](core_05_band_accountability.md#negligence-a) · [C](core_05_band_accountability.md#negligence-c)
+- [প্রয়োজনীয়তা](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [অবহেলা](../../core_05.035_band_accountability.md#negligence) · [O](../../core_05.035_band_accountability.md#negligence) · [M](../../core_05.035_band_accountability.md#negligence-a) · [A](../../core_05.035_band_accountability.md#negligence-a) · [C](../../core_05.035_band_accountability.md#negligence-c)
 
 </details>
 
@@ -495,7 +495,7 @@
 
 *সহজ ভাষায়: পণ্য পরিচালকের সার্ভার ছাড়া না চললে পরিচালককে আগেই বলতে হয়, সাতত্য-জরুরি তথ্য এমন রূপে ফাঁদতে পারে না যা সত্যি গোপনীয়তা না চাইলে রপ্তানি যায় না,।*
 
-- **তথ্য পরিচালনা:** এই অনুচ্ছেদের তথ্য [CS-2 — তথ্যের ধরন ও পরিচালনা](../../corpus_systems/cs_02_a_information_types_and_handling.md) অনুসারে শ্রেণিবদ্ধ ও পরিচালনা করতে হবে, যেখানে [অধ্যায় আঠারো](../../core_18.000_incorporation.md)-এর অধীনে অন্তর্ভুক্ত। এতে [§1.3](../../corpus_systems/cs_02_a_information_types_and_handling.md#13-collection-notice-and-deletion)-এর নোটিশ ও মুছে-ফেলার নিয়ম এবং [§1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)-এর ধারাবাহিকতা-গুরুত্বপূর্ণ রপ্তানি নিয়ম রয়েছে।
+- **তথ্য পরিচালনা:** এই অনুচ্ছেদের তথ্য [CS-2 — তথ্যের ধরন ও পরিচালনা](../../corpus_systems/cs_06.305_information_types_and_handling.md) অনুসারে শ্রেণিবদ্ধ ও পরিচালনা করতে হবে, যেখানে [অধ্যায় আঠারো](../../core_18.000_incorporation.md)-এর অধীনে অন্তর্ভুক্ত। এতে [§1.3](../../corpus_systems/cs_06.305_information_types_and_handling.md#13-collection-notice-and-deletion)-এর নোটিশ ও মুছে-ফেলার নিয়ম এবং [§1.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)-এর ধারাবাহিকতা-গুরুত্বপূর্ণ রপ্তানি নিয়ম রয়েছে।
 - **তল:** যে পণ্যের বৈধ মূল ব্যবহার পরিচালক-নিয়ন্ত্রিত নেটওয়ার্ক সেবার উপর নির্ভর করে, পরিচালকদের — কোনো বস্তুগতভাবে বাধ্যতামূলক প্রতিশ্রুতির আগে, এবং **তাৎপর্য** ও নির্ভরতার আনুপাতিকে — নিচের সব প্রকাশ করতে হয়:
   - কী চলমান পরিচালক প্রবেশ চায়;
   - সেবা শেষ হলে কী অবনতি বা ব্যর্থ হয়;
@@ -503,7 +503,7 @@
   - কী বহনযোগ্যতা আছে;
   - কী সাতত্য মাপ আছে।
 
-  পরিচালক সাতত্য-জরুরি সংজ্ঞ তথ্য এমন রূপে সংগ্রহ বা ধরে রাখতে পারে না যা প্রকাশিত সাতত্য ও রপ্তানি পথে রপ্তানি, স্থানান্তর বা হস্তান্তর যায় না, শুধু যেখানে **প্রয়োজনীয়তা** গোপনীয়তা, সুরক্ষা বা বৈধ অ-প্রকাশ চায় — সেক্ষেত্রে সীমা, পরিসর এবং কোনো বৈধ বিকল্প রপ্তানি পথ প্রতিশ্রুতির আগে প্রকাশ করতে হয়। সঙ্গে পড়ুন [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**, **[section 1.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*সাতত্য-জরুরি সংগ্রহ ও রপ্তানিযোগ্যতা*), এবং **অনুচ্ছেদ XIX-A** (*বহনযোগ্যতা অধিকার*)।
+  পরিচালক সাতত্য-জরুরি সংজ্ঞ তথ্য এমন রূপে সংগ্রহ বা ধরে রাখতে পারে না যা প্রকাশিত সাতত্য ও রপ্তানি পথে রপ্তানি, স্থানান্তর বা হস্তান্তর যায় না, শুধু যেখানে **প্রয়োজনীয়তা** গোপনীয়তা, সুরক্ষা বা বৈধ অ-প্রকাশ চায় — সেক্ষেত্রে সীমা, পরিসর এবং কোনো বৈধ বিকল্প রপ্তানি পথ প্রতিশ্রুতির আগে প্রকাশ করতে হয়। সঙ্গে পড়ুন [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**, **[section 1.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)** (*সাতত্য-জরুরি সংগ্রহ ও রপ্তানিযোগ্যতা*), এবং **অনুচ্ছেদ XIX-A** (*বহনযোগ্যতা অধিকার*)।
 *প্রতিবেশী অনুচ্ছেদ:* **অনুচ্ছেদ II** (*বস্তুগত দায়িত্বশীল ব্যবস্থাপনা ও স্থায়ী-ব্যবহার সততা*)-এর **সংশোধন** এই অধ্যায়ের উদ্বোধনে বলা **ব্যাখ্যামূলক কেন্দ্র** অনুসরণ করে (চ্যালেঞ্জ ও প্রতিকার; ন্যায় ও উত্তরণ)।
 
 <a id="article-ii-f-continuity-and-operator-shutdown"></a>
@@ -521,7 +521,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - সঙ্গে পড়ুন: **অনুচ্ছেদ I** (*পরিবেশগত বেঁচে থাকা*), **অনুচ্ছেদ II** (*বস্তুগত দায়িত্বশীল ব্যবস্থাপনা ও স্থায়ী-ব্যবহার সততা*), এবং বেঁচে থাকা, শিক্ষাগত প্রবেশাধিকার, শারীরিক-রক্ষণাবেক্ষণ বা শ্রম শর্ত বস্তুগতভাবে জড়ালে অধ্যায় পাঁচ।
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) এবং [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§6 প্রক্রিয়া দ্বন্দ্ব সমাধান](core_01_b_interaction_interpretation.md) এবং [§9 দায়িত্বশীল ব্যবস্থাপনা ও বণ্টিত বোঝাপড়া](core_01_c_stewardship_capacity_principles.md)।
 
 </details>
 
@@ -545,7 +545,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint) এবং [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint) এবং [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency)।
 - সঙ্গে পড়ুন: সমুন্নতি পরিমাপ পরিবার (*বেঁচে থাকার তল প্রবেশ সাংবিধানিক পরিমাপ হিসেবে*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — বরাদ্দ ও চ্যালেঞ্জ নামকৃত পথে **অংশগ্রহণ**, **তত্ত্বাবধান** ও নিরীক্ষা, **জবাবদিহি** ও প্রতিকার, **অনুচ্ছেদ XXVI-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)-এর অধীনে **সময়ানুবর্তিতা**; [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** (বেঁচে থাকা-অপরিহার্য প্রবেশ) এবং **সাতত্য** (স্থায়ী সরবরাহ ও অ-পশ্চাদগামী পৌঁছানো)।
 - অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যেখানে ব্যবস্থা পৌঁছানো দরজা করে বা টিকিয়ে রাখে; **অনুচ্ছেদ XIII-B** (*চ্যালেঞ্জ, পর্যালোচনা ও প্রতিকারের অধিকার*); **অনুচ্ছেদ XIX-B** (*চ্যালেঞ্জ-যোগ্যতা ও আনুপাতিক সীমাবদ্ধতার সীমা*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)।
 
@@ -554,10 +554,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [কল্যাণ](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-- [নির্ভরতা](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [অর্থপূর্ণ কর্তৃত্ব](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [তথ্য-গোলক](core_05_band_participation.md#info-sphere) · [O](core_05_band_participation.md#info-sphere) · [M](core_05_band_participation.md#info-sphere-a) · [A](core_05_band_participation.md#info-sphere-a) · [C](core_05_band_participation.md#info-sphere-c)
+- [কল্যাণ](../../core_05.040_band_continuity.md#wellbeing) · [O](../../core_05.040_band_continuity.md#wellbeing) · [M](../../core_05.040_band_continuity.md#wellbeing-a) · [A](../../core_05.040_band_continuity.md#wellbeing-a) · [C](../../core_05.040_band_continuity.md#wellbeing-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [অর্থপূর্ণ কর্তৃত্ব](../../core_05.055_band_participation.md#meaningful-agency) · [O](../../core_05.035_band_accountability.md) · [M](../../core_05.055_band_participation.md#meaningful-agency-a) · [A](../../core_05.055_band_participation.md#meaningful-agency-a) · [C](../../core_05.055_band_participation.md#meaningful-agency-c)
+- [তথ্য-গোলক](../../core_05.055_band_participation.md#info-sphere) · [O](../../core_05.055_band_participation.md#info-sphere) · [M](../../core_05.055_band_participation.md#info-sphere-a) · [A](../../core_05.055_band_participation.md#info-sphere-a) · [C](../../core_05.055_band_participation.md#info-sphere-c)
 
 </details>
 
@@ -574,24 +574,24 @@
   - সেই পরিবেশ অন্য সংজ্ঞ, ব্যবস্থা বা এড়ানো যায় এমন অবকাঠামো ব্যর্থতা থেকে আসা ধ্বংসাত্মক হুমকির বিরুদ্ধে রক্ষিত হতে হয়।
 - **খেয়ালী উচ্ছেদ ও অপরিহার্য-পরিবেশ অ-পণ্যায়নের বিরুদ্ধে সুরক্ষা:** স্থির আশ্রয় ও পরিচালন পরিবেশ খেয়ালী উচ্ছেদ, স্থানচ্যুতি বা অপরিহার্য-পরিবেশ সম্পর্ক শেষ করার বিরুদ্ধে তল বহন করে।
   - অপরিহার্য আশ্রয় বা পরিচালন-পরিবেশ সম্পর্কের উচ্ছেদ, স্থানচ্যুতি বা সমাপ্তি — ভৌত বাসস্থান, ভিত্তিদেহ হোস্টিং, কম্পিউট ভাড়া এবং কৃত্রিম ও সংকর সংজ্ঞদের তুলনীয় ভিত্তিদেহ-নিরপেক্ষ ব্যবস্থা সহ — হতে হয়:
-    - শুধু সেই সংজ্ঞে প্রযোজ্য নির্দিষ্ট কারণে — কম্বল বা দল নিয়ম নয় — [প্রক্রিয়াগত ন্যায্যতা](core_05_band_participation.md#procedural-fairness-constitutional)-এর অধীনে ন্যায্য প্রক্রিয়া সহ;
+    - শুধু সেই সংজ্ঞে প্রযোজ্য নির্দিষ্ট কারণে — কম্বল বা দল নিয়ম নয় — [প্রক্রিয়াগত ন্যায্যতা](../../core_05.055_band_participation.md#procedural-fairness-constitutional)-এর অধীনে ন্যায্য প্রক্রিয়া সহ;
     - অর্থপূর্ণ নোটিশ ও চ্যালেঞ্জ সুযোগ সহ সংজ্ঞে পৌঁছাতে;
-    - [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) ও [আনুপাতিকতা](core_05_band_accountability.md#proportionality) পূরণ করতে।
+    - [প্রয়োজনীয়তা](../../core_05.035_band_accountability.md#necessity) ও [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) পূরণ করতে।
   - পণ্যায়ন চাপ — মূল্য নির্ধারণ, ফটকা পুনর্বণ্টন বা তুলনীয় বাজার-কাঠামো চাপ — অনুপালনহীন যেখানে এটি বেঁচে থাকার তল বস্তুগতভাবে জড়ায় এমন মাপে অপরিহার্য-পরিবেশ প্রবেশ হারায়।
-  - অপরিহার্য-পরিবেশ প্রবেশ [অপরিহার্য-পরিবেশ অ-পণ্যায়ন](core_05_band_continuity.md#essential-environment-non-commodification-constitutional)-শাসিত অ-পণ্যায়ন তল বহন করে। সাধারণ বাজার-কাঠামো যন্ত্র সেই তল সংকুচিত করতে পারে না।
+  - অপরিহার্য-পরিবেশ প্রবেশ [অপরিহার্য-পরিবেশ অ-পণ্যায়ন](../../core_05.040_band_continuity.md#essential-environment-non-commodification-constitutional)-শাসিত অ-পণ্যায়ন তল বহন করে। সাধারণ বাজার-কাঠামো যন্ত্র সেই তল সংকুচিত করতে পারে না।
 - **সংযোগ:** তথ্য-গোলকে এবং মূল তথ্য ও যোগাযোগ ব্যবস্থায় প্রবেশ আধুনিক সংজ্ঞ সমাজে অংশগ্রহণের ভিত্তিগত প্রয়োজন।
   - সংজ্ঞ প্রাণীকে কর্তৃত্ব, সচেতনতা ও অর্থপূর্ণ অংশগ্রহণ ধরে রাখতে যথেষ্ট প্রবেশ পেতে হয়।
-  - সেই প্রবেশের যেকোনো সীমা [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity), [আনুপাতিকতা](core_05_band_accountability.md#proportionality) এবং সুরক্ষা, নিরাপত্তা বা বৈধ পরিচালন সীমা বস্তুগতভাবে সংকীর্ণ প্রবেশ চাইলে [নিরাপত্তা (বন্ধন)](core_05_band_continuity.md#safety-constraint) পূরণ করতে হয়।
+  - সেই প্রবেশের যেকোনো সীমা [প্রয়োজনীয়তা](../../core_05.035_band_accountability.md#necessity), [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) এবং সুরক্ষা, নিরাপত্তা বা বৈধ পরিচালন সীমা বস্তুগতভাবে সংকীর্ণ প্রবেশ চাইলে [নিরাপত্তা (বন্ধন)](../../core_05.040_band_continuity.md#safety-constraint) পূরণ করতে হয়।
 - **প্রাতিষ্ঠানিক নিশ্চয়তা:** আগের অধিকার বড় মাপে নিশ্চিত করতে গ্রহণকারী আদেশ **এই সংবিধান** বাস্তবায়ন করলে ধনাত্মক প্রাতিষ্ঠানিক ব্যবস্থা লাগতে পারে। সেই ব্যবস্থায় থাকতে পারে:
   - বৈধ রাজস্ব ও বরাদ্দ যন্ত্র — হস্তান্তর, বস্তুগত সরবরাহ, বা মিশ্র নকশা;
   - কে যোগ্য, সমর্থন পেতে কোথায় থাকতে হয়, এবং খরচ বদলালে সুবিধার স্তর কীভাবে হালনাগাদ হয় তার নিয়ম।
 
   সেই নিয়ম পৌঁছানো সাজাতে পারে। সেগুলো বেঁচে থাকার অপরিহারে ন্যূনতম প্রবেশ হারাতে বা **অনুচ্ছেদ III** ও **V**-এর বিরুদ্ধে বিদ্বেষমূলক বহিষ্কার চাপাতে ব্যবহার করা যায় না।
-  - বিস্তারিত রাজস্ব অভিমুখ — ফি ও চার্জ বেঁচে থাকা-প্রাসঙ্গিক উপকরণে ন্যূনতম প্রবেশ নষ্ট করতে পারে না এই নিয়ম সহ — শাসিত হয় [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*শ্রেণিবিন্যাস-যুক্ত প্রাতিষ্ঠানিক কর্তব্য*), **CI-10** (*সরকারি রাজস্ব, ফি, পুনরাবৃত্ত চার্জ ও বিলিং সততা*) এবং **CI-11** (*সম্পদ দায়িত্বশীল ব্যবস্থাপনা ও প্রণোদনা সততা*) দিয়ে।
+  - বিস্তারিত রাজস্ব অভিমুখ — ফি ও চার্জ বেঁচে থাকা-প্রাসঙ্গিক উপকরণে ন্যূনতম প্রবেশ নষ্ট করতে পারে না এই নিয়ম সহ — শাসিত হয় [**CI-9**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) (*শ্রেণিবিন্যাস-যুক্ত প্রাতিষ্ঠানিক কর্তব্য*), **CI-10** (*সরকারি রাজস্ব, ফি, পুনরাবৃত্ত চার্জ ও বিলিং সততা*) এবং **CI-11** (*সম্পদ দায়িত্বশীল ব্যবস্থাপনা ও প্রণোদনা সততা*) দিয়ে।
   - সংজ্ঞ প্রাণী বস্তুগতভাবে নির্ভর করে এমন ব্যবস্থা বেঁচে থাকার অপরিহার্য সরবরাহ, বিতরণ, মূল্য, হোস্ট বা প্রবেশ কেটে দিলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে প্রযোজ্য — এবং সেই ব্যবস্থার প্রক্রিয়া এখানে বলা অধিকার সংকুচিত করতে ব্যবহার করা যায় না।
   - এই অনুচ্ছেদ একটিমাত্র অর্থায়ন মডেল নির্ধারণ করে না। চাকরি, উদ্যোগ, স্বেচ্ছায় বিনিময় এবং বেঁচে থাকার তলের উপর অন্য বৈধ অর্থনৈতিক কার্যকলাপ অনুমোদিত থাকে, অধ্যায় এক, অধ্যায় ছয় এবং অন্তর্ভুক্ত দলিল সাপেক্ষে — বাজার-কাঠামো বা উচ্চ-প্রভাব বাণিজ্যিক ব্যবস্থা প্রযোজ্য হলে `corpus_systems.md` সহ।
 
-ক্রস-রেফারেন্স: **অনুচ্ছেদ XXVIII-D** (*অনুপালনহীন সম্পত্তি ও ব্যবস্থা; স্বেচ্ছায় হস্তান্তর প্রণোদনা*) উত্তরণ জুড়ে অপরিহার্য-পরিবেশ সাতত্যের উত্তরণকালীন-দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলা — কার্যকরী বিস্তার [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) থেকে **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)-এ; **অধ্যায় পাঁচ** [*বাস-সাতত্য*](../../core_05.040_band_continuity.md#occupancy-continuity), [*অপরিহার্য-পরিবেশ অ-পণ্যায়ন*](../../core_05.040_band_continuity.md#essential-environment-non-commodification), এবং প্রযোজ্য হলে [**§3.7** *শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার, নিরাপদ শর্ত, বাস-সাতত্য, পরিবেশগত পূর্বশর্ত, সাংস্কৃতিক সাতত্য, বিশ্রাম ও স্থানচ্যুতি-নিরোধ তল*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment)-এর যৌথ-আহ্বান গুচ্ছ।
+ক্রস-রেফারেন্স: **অনুচ্ছেদ XXVIII-D** (*অনুপালনহীন সম্পত্তি ও ব্যবস্থা; স্বেচ্ছায় হস্তান্তর প্রণোদনা*) উত্তরণ জুড়ে অপরিহার্য-পরিবেশ সাতত্যের উত্তরণকালীন-দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলা — কার্যকরী বিস্তার [[**CI-14.1**](../../corpus_institutions/ci_06.275_transitional_governance_institutional_evolution.md) থেকে **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives)-এ; **অধ্যায় পাঁচ** [*বাস-সাতত্য*](../../core_05.040_band_continuity.md#occupancy-continuity), [*অপরিহার্য-পরিবেশ অ-পণ্যায়ন*](../../core_05.040_band_continuity.md#essential-environment-non-commodification), এবং প্রযোজ্য হলে [**§3.7** *শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার, নিরাপদ শর্ত, বাস-সাতত্য, পরিবেশগত পূর্বশর্ত, সাংস্কৃতিক সাতত্য, বিশ্রাম ও স্থানচ্যুতি-নিরোধ তল*](../../core_05.040_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment)-এর যৌথ-আহ্বান গুচ্ছ।
 
 <a id="article-iii-c-bodily-maintenance-and-healthcare-access"></a>
 <a id="article-iii-b-bodily-maintenance-and-healthcare-access"></a>
@@ -604,20 +604,20 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 সীমাবদ্ধতা শৃঙ্খলা](core_01_a_values_principles.md#51-limitation-discipline)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§5.1 সীমাবদ্ধতা শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline)।
 - অধঃ: **অনুচ্ছেদ VI-A** (*মর্যাদা ও সমান নৈতিক প্রস্থিতি*) মর্যাদা তল, **অনুচ্ছেদ VII-A** (*শরীর ও মনের আত্মস্বত্ব*) আত্মস্বত্ব অ-অনুপ্রবেশ তল, **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*) বৈষম্যহীনতা।
-- সঙ্গে পড়ুন: অধ্যায় পাঁচ *শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার*, *সারবস্তুগত ন্যায্যতা*, *সুরক্ষিত বৈশিষ্ট্য*; [§3.7 *শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার, নিরাপদ শর্ত, বাস-সাতত্য, পরিবেশগত পূর্বশর্ত, সাংস্কৃতিক সাতত্য, বিশ্রাম ও স্থানচ্যুতি-নিরোধ তল*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (যত্ন প্রবেশ, বেঁচে থাকার তল সাতত্য, নিরাপদ অংশগ্রহণ শর্ত, বিশ্রাম বা পুনরুদ্ধার, বাস-সাতত্য, অপরিহার্য পরিচালন পরিবেশ, পরিবেশগত পূর্বশর্ত বা স্থান-যুক্ত সাতত্য একসঙ্গে বস্তুগতভাবে জড়ালে)।
+- সঙ্গে পড়ুন: অধ্যায় পাঁচ *শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার*, *সারবস্তুগত ন্যায্যতা*, *সুরক্ষিত বৈশিষ্ট্য*; [§3.7 *শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার, নিরাপদ শর্ত, বাস-সাতত্য, পরিবেশগত পূর্বশর্ত, সাংস্কৃতিক সাতত্য, বিশ্রাম ও স্থানচ্যুতি-নিরোধ তল*](../../core_05.040_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (যত্ন প্রবেশ, বেঁচে থাকার তল সাতত্য, নিরাপদ অংশগ্রহণ শর্ত, বিশ্রাম বা পুনরুদ্ধার, বাস-সাতত্য, অপরিহার্য পরিচালন পরিবেশ, পরিবেশগত পূর্বশর্ত বা স্থান-যুক্ত সাতত্য একসঙ্গে বস্তুগতভাবে জড়ালে)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার](core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [O](core_05_band_continuity.md#bodily-maintenance-access-constitutional) · [M](core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](core_05_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](core_05_band_continuity.md#bodily-maintenance-access-constitutional-c)
-- [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [সুরক্ষিত বৈশিষ্ট্য](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [আনুপাতিকতা](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional) · [O](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional) · [M](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [A](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-a) · [C](../../core_05.040_band_continuity.md#bodily-maintenance-access-constitutional-c)
+- [সারবস্তুগত ন্যায্যতা](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
+- [সুরক্ষিত বৈশিষ্ট্য](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [প্রয়োজনীয়তা](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -653,23 +653,23 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 সীমাবদ্ধতা শৃঙ্খলা](core_01_a_values_principles.md#51-limitation-discipline), [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§5.1 সীমাবদ্ধতা শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), [§11.1.3 দায়িত্বশীল ব্যবস্থাপনা ও পরিচালক প্রয়োগ](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)।
 - অধঃ: **অনুচ্ছেদ III-A** (*বেঁচে থাকা*) বেঁচে থাকার তল (উপরে-পড়া, স্থলাভিষিক্ত নয়), **অনুচ্ছেদ IV-A** (*সমান শিক্ষাগত প্রবেশাধিকার*) শিক্ষাগত প্রবেশাধিকার, **অনুচ্ছেদ VI-A** (*মর্যাদা ও সমান নৈতিক প্রস্থিতি*) মর্যাদা, **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*) বৈষম্যহীনতা, **অনুচ্ছেদ X-C** (*প্রভাবিত-পক্ষ ভূমিকা ও অংশগ্রহণ অধিকার*) মুক্ত সংঘ, **অনুচ্ছেদ XIV-A** (*নির্ভরযোগ্যতা ও বিশ্বাসযোগ্যতা ভিত্তিরেখা*) নির্ভরযোগ্যতা (নিরাপদ শর্তে যতদূর পড়ে), **অনুচ্ছেদ XIX** (*প্রস্থিতি ও অংশগ্রহণ অবস্থা*) প্রস্থিতি ও অংশগ্রহণ, **অধ্যায় এক §11** অ-ঘনত্ব (স্পষ্ট: §6 একা এই তল পূরণ করে না)।
-- সঙ্গে পড়ুন: অধ্যায় পাঁচ *ন্যায্য ক্ষতিপূরণ*, *সমষ্টিগত সংগঠন*, *নিরাপদ শর্ত*, *স্থানচ্যুতি-নিরোধ তল*, *অবসর ও বিশ্রাম*, *আদিবাসী সাতত্য* এবং *ভাষা, সংস্কৃতি ও ঐতিহ্য*; [§3.7 *শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার, নিরাপদ শর্ত, বাস-সাতত্য, পরিবেশগত পূর্বশর্ত, সাংস্কৃতিক সাতত্য, বিশ্রাম ও স্থানচ্যুতি-নিরোধ তল*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (বেঁচে থাকা, শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার, বাস-সাতত্য, বিশ্রাম, নিরাপদ শ্রম শর্ত, স্থানচ্যুতি-নিরোধ, পরিবেশগত পূর্বশর্ত বা স্থান-যুক্ত সাতত্য একসঙ্গে বস্তুগতভাবে জড়ালে); [অধ্যায় পাঁচ *সমাবেশ, সমষ্টিগত সংগঠন ও প্রতিষ্ঠান গঠন*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (সমাবেশ ও সমষ্টিগত-সংগঠন নামকৃত পথ যৌথভাবে জড়ালে)। বাস্তবায়ন রাউটিং: `corpus_institutions.md` CI-9 / CI-10 / CI-11 রাজস্ব উপাদান; *নিরাপদ শর্ত*-এর জন্য `corpus_systems.md` CS-5 নিরাপত্তা প্রোফাইল।
+- সঙ্গে পড়ুন: অধ্যায় পাঁচ *ন্যায্য ক্ষতিপূরণ*, *সমষ্টিগত সংগঠন*, *নিরাপদ শর্ত*, *স্থানচ্যুতি-নিরোধ তল*, *অবসর ও বিশ্রাম*, *আদিবাসী সাতত্য* এবং *ভাষা, সংস্কৃতি ও ঐতিহ্য*; [§3.7 *শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার, নিরাপদ শর্ত, বাস-সাতত্য, পরিবেশগত পূর্বশর্ত, সাংস্কৃতিক সাতত্য, বিশ্রাম ও স্থানচ্যুতি-নিরোধ তল*](../../core_05.040_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (বেঁচে থাকা, শারীরিক-রক্ষণাবেক্ষণ প্রবেশাধিকার, বাস-সাতত্য, বিশ্রাম, নিরাপদ শ্রম শর্ত, স্থানচ্যুতি-নিরোধ, পরিবেশগত পূর্বশর্ত বা স্থান-যুক্ত সাতত্য একসঙ্গে বস্তুগতভাবে জড়ালে); [অধ্যায় পাঁচ *সমাবেশ, সমষ্টিগত সংগঠন ও প্রতিষ্ঠান গঠন*](../../core_05.055_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (সমাবেশ ও সমষ্টিগত-সংগঠন নামকৃত পথ যৌথভাবে জড়ালে)। বাস্তবায়ন রাউটিং: `corpus_institutions.md` CI-9 / CI-10 / CI-11 রাজস্ব উপাদান; *নিরাপদ শর্ত*-এর জন্য `corpus_systems.md` CS-5 নিরাপত্তা প্রোফাইল।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [ন্যায্য ক্ষতিপূরণ](core_05_band_continuity.md#fair-compensation-constitutional) · [O](core_05_band_continuity.md#fair-compensation-constitutional) · [M](core_05_band_continuity.md#fair-compensation-constitutional-a) · [A](core_05_band_continuity.md#fair-compensation-constitutional-a) · [C](core_05_band_continuity.md#fair-compensation-constitutional-c)
-- [সমষ্টিগত সংগঠন](core_05_band_participation.md#collective-organization-constitutional) · [O](core_05_band_participation.md#collective-organization-constitutional) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
-- [ব্যবসা সৃষ্টি](core_05_band_participation.md#business-creation-constitutional) · [O](core_05_band_participation.md#business-creation-constitutional) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
-- [নিরাপদ শর্ত](core_05_band_continuity.md#safe-conditions-constitutional) · [O](core_05_band_continuity.md#safe-conditions-constitutional) · [M](core_05_band_continuity.md#safe-conditions-constitutional-a) · [A](core_05_band_continuity.md#safe-conditions-constitutional-a) · [C](core_05_band_continuity.md#safe-conditions-constitutional-c)
-- [স্থানচ্যুতি-নিরোধ তল](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [O](core_05_band_continuity.md#anti-displacement-floor-constitutional) · [M](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](core_05_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](core_05_band_continuity.md#anti-displacement-floor-constitutional-c)
-- [অবসর ও বিশ্রাম](core_05_band_continuity.md#leisure-and-rest-constitutional) · [O](core_05_band_continuity.md#leisure-and-rest-constitutional) · [M](core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [A](core_05_band_continuity.md#leisure-and-rest-constitutional-a) · [C](core_05_band_continuity.md#leisure-and-rest-constitutional-c)
-- [আদিবাসী সাতত্য](core_05_band_continuity.md#indigenous-continuity-constitutional) · [O](core_05_band_continuity.md#indigenous-continuity-constitutional) · [M](core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [A](core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [C](core_05_band_continuity.md#indigenous-continuity-constitutional-c)
-- [ভাষা, সংস্কৃতি ও ঐতিহ্য](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [O](core_05_band_continuity.md#language-culture-and-heritage-constitutional) · [M](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](core_05_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](core_05_band_continuity.md#language-culture-and-heritage-constitutional-c)
+- [ন্যায্য ক্ষতিপূরণ](../../core_05.040_band_continuity.md#fair-compensation-constitutional) · [O](../../core_05.040_band_continuity.md#fair-compensation-constitutional) · [M](../../core_05.040_band_continuity.md#fair-compensation-constitutional-a) · [A](../../core_05.040_band_continuity.md#fair-compensation-constitutional-a) · [C](../../core_05.040_band_continuity.md#fair-compensation-constitutional-c)
+- [সমষ্টিগত সংগঠন](../../core_05.055_band_participation.md#collective-organization-constitutional) · [O](../../core_05.055_band_participation.md#collective-organization-constitutional) · [M](../../core_05.055_band_participation.md#collective-organization-constitutional-a) · [A](../../core_05.055_band_participation.md#collective-organization-constitutional-a) · [C](../../core_05.055_band_participation.md#collective-organization-constitutional-c)
+- [ব্যবসা সৃষ্টি](../../core_05.055_band_participation.md#business-creation-constitutional) · [O](../../core_05.055_band_participation.md#business-creation-constitutional) · [M](../../core_05.055_band_participation.md#business-creation-constitutional-a) · [A](../../core_05.055_band_participation.md#business-creation-constitutional-a) · [C](../../core_05.055_band_participation.md#business-creation-constitutional-c)
+- [নিরাপদ শর্ত](../../core_05.040_band_continuity.md#safe-conditions-constitutional) · [O](../../core_05.040_band_continuity.md#safe-conditions-constitutional) · [M](../../core_05.040_band_continuity.md#safe-conditions-constitutional-a) · [A](../../core_05.040_band_continuity.md#safe-conditions-constitutional-a) · [C](../../core_05.040_band_continuity.md#safe-conditions-constitutional-c)
+- [স্থানচ্যুতি-নিরোধ তল](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional) · [O](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional) · [M](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional-a) · [A](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional-a) · [C](../../core_05.040_band_continuity.md#anti-displacement-floor-constitutional-c)
+- [অবসর ও বিশ্রাম](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional) · [O](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional) · [M](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional-a) · [A](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional-a) · [C](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional-c)
+- [আদিবাসী সাতত্য](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional) · [O](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional) · [M](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional-a) · [A](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional-a) · [C](../../core_05.040_band_continuity.md#indigenous-continuity-constitutional-c)
+- [ভাষা, সংস্কৃতি ও ঐতিহ্য](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional) · [O](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional) · [M](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-a) · [A](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-a) · [C](../../core_05.040_band_continuity.md#language-culture-and-heritage-constitutional-c)
 
 </details>
 
@@ -678,16 +678,16 @@
 *সহজ ভাষায়: যে কেউ কাজ করে — যেকোনো রূপে, যেকোনো ভিত্তিদেহে — ন্যায্য পারিশ্রমিক, অন্যের সঙ্গে সংগঠিত হওয়ার স্বাধীনতা, নিরাপদ শর্ত ও সত্যিকারের ছুটির অধিকার রাখে। শ্রেণিবিন্যাসের ফন্দি, বাজার কাঠামো বা ভিত্তিদেহ-শ্রেণির যুক্তিতে সেগুলোর কোনোটি হারানো যায় না।*
 
 - **শ্রম ও অর্থনৈতিক তল:** এই অনুচ্ছেদ উৎপাদনশীল কাজ দেয় এমন যে কারও চারটি মৌলিক রক্ষা করে — মজুরি, চুক্তি, প্ল্যাটফর্ম, সমবায় বা তুলনীয় ব্যবস্থার মধ্য দিয়ে, **সংজ্ঞতা অ-বহিষ্কার**-এর অধীনে যেকোনো ভিত্তিদেহে:
-  - [ন্যায্য ক্ষতিপূরণ](core_05_band_continuity.md#fair-compensation-constitutional);
-  - [সমষ্টিগত সংগঠন](core_05_band_participation.md#collective-organization-constitutional);
-  - [নিরাপদ শর্ত](core_05_band_continuity.md#safe-conditions-constitutional); এবং
-  - [অবসর ও বিশ্রাম](core_05_band_continuity.md#leisure-and-rest-constitutional) (প্রতিটি অধ্যায় পাঁচে সংজ্ঞায়িত)।
+  - [ন্যায্য ক্ষতিপূরণ](../../core_05.040_band_continuity.md#fair-compensation-constitutional);
+  - [সমষ্টিগত সংগঠন](../../core_05.055_band_participation.md#collective-organization-constitutional);
+  - [নিরাপদ শর্ত](../../core_05.040_band_continuity.md#safe-conditions-constitutional); এবং
+  - [অবসর ও বিশ্রাম](../../core_05.040_band_continuity.md#leisure-and-rest-constitutional) (প্রতিটি অধ্যায় পাঁচে সংজ্ঞায়িত)।
 
   এই তল **অনুচ্ছেদ III-A** (*বেঁচে থাকা*) বেঁচে থাকার তলের উপর গড়ে; এটি তার স্থলাভিষিক্ত নয়। শুধু বেঁচে থাকার প্রয়োজন পূরণ এই অনুচ্ছেদ পূরণ করে না। শুধু **অধ্যায় এক §11** অ-ঘনত্ব নিয়ম পূরণও যথেষ্ট নয়।
 - **ন্যায্য ক্ষতিপূরণ:** উৎপাদনশীল কার্যকলাপের ক্ষতিপূরণ হতে হয়:
-  - [ন্যায্য ক্ষতিপূরণ](core_05_band_continuity.md#fair-compensation-constitutional)-এর অধীনে সারবস্তু পর্যাপ্ততায় পৌঁছাতে;
-  - তুলনীয় কার্যকলাপ জুড়ে [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) অনুসরণ করতে;
-  - **অনুচ্ছেদ X-A** (*কর্তৃত্ব ও কারসাজি থেকে স্বাধীনতা*)-এর অধীনে শ্রমিককে তারা স্বাধীনভাবে করত না এমন পছন্দে কারসাজি করতে, বা [অর্থপূর্ণ কর্তৃত্ব](core_05_band_participation.md#meaningful-agency)-এর অধীনে আসল বিকল্প না থাকতে পারিশ্রমিক বা সুবিধা দিয়ে ফাঁদতে ব্যবহার করা যায় না।
+  - [ন্যায্য ক্ষতিপূরণ](../../core_05.040_band_continuity.md#fair-compensation-constitutional)-এর অধীনে সারবস্তু পর্যাপ্ততায় পৌঁছাতে;
+  - তুলনীয় কার্যকলাপ জুড়ে [সারবস্তুগত ন্যায্যতা](../../core_05.055_band_participation.md#substantive-fairness-constitutional) অনুসরণ করতে;
+  - **অনুচ্ছেদ X-A** (*কর্তৃত্ব ও কারসাজি থেকে স্বাধীনতা*)-এর অধীনে শ্রমিককে তারা স্বাধীনভাবে করত না এমন পছন্দে কারসাজি করতে, বা [অর্থপূর্ণ কর্তৃত্ব](../../core_05.055_band_participation.md#meaningful-agency)-এর অধীনে আসল বিকল্প না থাকতে পারিশ্রমিক বা সুবিধা দিয়ে ফাঁদতে ব্যবহার করা যায় না।
 
   যে ক্ষতিপূরণ প্রকল্পের ফল **সুরক্ষিত বৈশিষ্ট্য** বা **সুরক্ষিত বৈশিষ্ট্য স্থলাভিষিক্তকরণ ও বৈষম্যমূলক প্রভাব**-এর অধীনে তাদের বস্তুগত প্রক্সি অনুসরণ করে, সেগুলো অনুপালনহীন।
 - **সমষ্টিগত সংগঠন:** সংজ্ঞ প্রাণীর উৎপাদনশীল কার্যকলাপের শর্ত চ্যালেঞ্জ ও গঠনের উদ্দেশ্যে সমষ্টিগত-সংগঠন নামকৃত পথ গঠন, যোগদান, অংশগ্রহণ ও সেগুলোর মধ্য দিয়ে কাজ করার অধিকার আছে।
@@ -702,7 +702,7 @@
 - **অ-ঘনত্ব, প্রতিযোগিতা-পক্ষ ও একীকরণ-ছাদ মিথস্ক্রিয়া:** **অধ্যায় এক §11** অ-ঘনত্ব শৃঙ্খলা, **§11.2** প্রতিযোগিতা-পক্ষ / আধিপত্য-নিরোধ শৃঙ্খলা এবং **§11.3** একীকরণ-ছাদ শৃঙ্খলা উৎপাদনশীল-কার্যকলাপ ক্ষমতা কাঠামোতে প্রযোজ্য, কিন্তু তারা এই তল থেকে আলাদা।
   - যে বাজার কাঠামো অ-ঘনত্ব পূরণ করে কিন্তু ন্যায্য ক্ষতিপূরণ, সমষ্টিগত সংগঠন, নিরাপদ শর্ত বা অবসর ও বিশ্রাম ব্যর্থ করে, তা এই অনুচ্ছেদের অধীনে অনুপালনহীন।
   - যে উৎপাদনশীল-কার্যকলাপ কাঠামো এই অনুচ্ছেদ পূরণ করে কিন্তু §11-এর বিরুদ্ধে ক্ষমতা ঘনীভূত করে, তা §11-এর অধীনে অনুপালনহীন।
-  - খুব কম নিয়োগকর্তা নিয়োগ নিয়ন্ত্রণ করলে, শ্রমিকদের চলে যাওয়া বা নিয়োগ আটকানো হয় (অ-প্রতিযোগিতা, নো-পোচ চুক্তি, মজুরি-নির্ধারণ বা ভারী অ-আবেদন নিয়ম), প্ল্যাটফর্ম সংজ্ঞ প্রাণীকে তালাবদ্ধ করে, সরবরাহকারী নিয়ন্ত্রণ করে শ্রমিক চেপে ধরে, একীকরণ শ্রম বা সরবরাহকারী নির্ভরতা ছাদ পার করে, বা দ্বাররক্ষক ন্যায্য দরকষাকষি ও চাকরি চলাচল আটকায় — সেই তথ্য **§11.2**, **[CJS-3.11.2 আধিপত্য-নিরোধ আচরণ ও সংশোধন তালিকা](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§11.3** এবং এই অনুচ্ছেদের অধীনে মূল্যায়ন করুন যখন তারা বস্তুগতভাবে প্রযোজ্য।
+  - খুব কম নিয়োগকর্তা নিয়োগ নিয়ন্ত্রণ করলে, শ্রমিকদের চলে যাওয়া বা নিয়োগ আটকানো হয় (অ-প্রতিযোগিতা, নো-পোচ চুক্তি, মজুরি-নির্ধারণ বা ভারী অ-আবেদন নিয়ম), প্ল্যাটফর্ম সংজ্ঞ প্রাণীকে তালাবদ্ধ করে, সরবরাহকারী নিয়ন্ত্রণ করে শ্রমিক চেপে ধরে, একীকরণ শ্রম বা সরবরাহকারী নির্ভরতা ছাদ পার করে, বা দ্বাররক্ষক ন্যায্য দরকষাকষি ও চাকরি চলাচল আটকায় — সেই তথ্য **§11.2**, **[CJS-3.11.2 আধিপত্য-নিরোধ আচরণ ও সংশোধন তালিকা](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#cjs-5125-112-anti-domination-conduct-and-remediation-catalog)**, **§11.3** এবং এই অনুচ্ছেদের অধীনে মূল্যায়ন করুন যখন তারা বস্তুগতভাবে প্রযোজ্য।
 - **সীমা ও বাস্তবায়ন রাউটিং:** **ন্যায্য ক্ষতিপূরণ**, **সমষ্টিগত সংগঠন** বা শ্রম-গতিশীলতার যেকোনো সীমা **প্রয়োজনীয়তা**, **আনুপাতিকতা**, **সুরক্ষিত বৈশিষ্ট্য** ও **সারবস্তুগত ন্যায্যতা** পূরণ করতে হয়।
   - পরিচালন যন্ত্র — রাজস্ব অভিমুখ, হস্তান্তর ও বীমা নকশা, নিরাপদ শর্তের মান নির্ধারণ, এবং সমষ্টিগত-সংগঠন প্রাতিষ্ঠানিক নকশা — `corpus_institutions.md` CI-9 (*শ্রেণিবিন্যাস-যুক্ত প্রাতিষ্ঠানিক কর্তব্য*) / CI-10 (*সরকারি রাজস্ব, ফি, পুনরাবৃত্ত চার্জ ও বিলিং সততা*) / CI-11 (*সম্পদ দায়িত্বশীল ব্যবস্থাপনা ও প্রণোদনা সততা*) এবং **অধ্যায় ষোল** অন্তর্ভুক্তি শৃঙ্খলার অধীনে `corpus_systems.md` CS-5-এ রাউট হয়।
   - সেই বাস্তবায়ন পাঠ এই তল সংকুচিত করে পড়া যায় না।
@@ -736,19 +736,19 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) এবং [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#5-freedom-bounded-agency)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) এবং [অধ্যায় এক §5 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [সুরক্ষিত বৈশিষ্ট্য](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [প্রবেশযোগ্যতা](core_05_band_participation.md#accessibility-constitutional) · [O](core_05_band_participation.md#accessibility-constitutional) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
-- [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [শিক্ষামূলক কর্তৃত্ব](core_05_band_participation.md#educational-agency) · [O](core_05_band_accountability.md#educational-agency-o) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
-- [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [আনুপাতিকতা](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [সুরক্ষিত বৈশিষ্ট্য](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05.055_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05.055_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05.055_band_participation.md#protected-characteristics-constitutional-c)
+- [প্রবেশযোগ্যতা](../../core_05.055_band_participation.md#accessibility-constitutional) · [O](../../core_05.055_band_participation.md#accessibility-constitutional) · [M](../../core_05.055_band_participation.md#accessibility-constitutional-a) · [A](../../core_05.055_band_participation.md#accessibility-constitutional-a) · [C](../../core_05.055_band_participation.md#accessibility-constitutional-c)
+- [সারবস্তুগত ন্যায্যতা](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
+- [শিক্ষামূলক কর্তৃত্ব](../../core_05.055_band_participation.md#educational-agency) · [O](../../core_05.035_band_accountability.md) · [M](../../core_05.055_band_participation.md#educational-agency-a) · [A](../../core_05.055_band_participation.md#educational-agency-a) · [C](../../core_05.055_band_participation.md#educational-agency-c)
+- [প্রয়োজনীয়তা](../../core_05.035_band_accountability.md#necessity) · [O](../../core_05.035_band_accountability.md#necessity) · [M](../../core_05.035_band_accountability.md#necessity-a) · [A](../../core_05.035_band_accountability.md#necessity-a) · [C](../../core_05.035_band_accountability.md#necessity-c)
+- [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality) · [O](../../core_05.035_band_accountability.md#proportionality) · [M](../../core_05.035_band_accountability.md#proportionality-a) · [A](../../core_05.035_band_accountability.md#proportionality-a) · [C](../../core_05.035_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -781,7 +781,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§19 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল) এবং [§12 ভাগ করা ব্যবস্থার ক্ষমতা](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§3.1 নিরাপত্তা](../../core_01.005_values_principles.md#4-safety-harm-constraint), [§8 সাংবিধানিক ব্যাখ্যা](core_01_b_interaction_interpretation.md#15-constitutional-interpretation), [§19 প্রণোদনা সারিবদ্ধতা ও ব্যবস্থা দখল](core_01_c_stewardship_capacity_principles.md#১৯-পরণদন-সমঞজসয-ও-বযবসথগত-দখল) এবং [§12 ভাগ করা ব্যবস্থার ক্ষমতা](core_01_c_stewardship_capacity_principles.md)।
 
 </details>
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 - সঙ্গে পড়ুন: সাতত্য পরিমাপ পরিবার (*নির্ভরতা ও সম্পদ প্রবাহ সাংবিধানিক পরিমাপ হিসেবে*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — স্বচ্ছ নির্ভরতা মানচিত্র ও নিরীক্ষাযোগ্য সম্পদ-প্রবাহ নথির মধ্য দিয়ে **তত্ত্বাবধান**, **অনুচ্ছেদ XVI-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*)-এর অধীনে চ্যালেঞ্জযোগ্য পর্যালোচনায় **অংশগ্রহণ**; [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** (দৃশ্যমান খরচ-ও-লাভ বরাদ্দ) এবং **সাতত্য** (বদলাতে থাকা ব্যবস্থা জুড়ে স্থায়ী নির্ভরতা দৃশ্যমানতা)।
 - অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যেখানে ব্যবস্থা ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করে; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বরাদ্দ ও অর্থায়ন দায়িত্বশীল ব্যবস্থাপনা*), এবং **CS-8** (*অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্র স্থিতিস্থাপকতা*)।
 
@@ -837,9 +837,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [নির্ভরতা](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
 - [স্বচ্ছতা](core_05_band_oversight.md#সবচছত) · [O](core_05_band_oversight.md#সবচছত) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [ব্যবস্থা সীমানা সততা](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
+- [ব্যবস্থা সীমানা সততা](../../core_05.040_band_continuity.md#system-boundary-integrity) · [O](../../core_05.040_band_continuity.md#system-boundary-integrity) · [M](../../core_05.040_band_continuity.md#system-boundary-integrity-a) · [A](../../core_05.040_band_continuity.md#system-boundary-integrity-a) · [C](../../core_05.040_band_continuity.md#system-boundary-integrity-c)
 
 </details>
 
@@ -863,8 +863,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
-- সঙ্গে পড়ুন: [*শাসন স্থাপত্য, তত্ত্বাবধান, নির্ভরতা, বিকেন্দ্রীকরণ, ঘনত্ব, বাজার কাঠামো ও প্রস্থান-পথ সততা*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (যৌথ আহ্বান যেখানে ঘনত্ব, তত্ত্বাবধান, নির্ভরতা, শাসন-কর্তৃত্ব কাঠামো বা প্রণোদনা রাউটিং নিচের কার্যকরী পাঠে **§5** / **§5** এবং *ঘনত্ব-সীমা মিথস্ক্রিয়া* শৃঙ্খলার সঙ্গে ছেদ করে)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) এবং [অধ্যায় নয় §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- সঙ্গে পড়ুন: [*শাসন স্থাপত্য, তত্ত্বাবধান, নির্ভরতা, বিকেন্দ্রীকরণ, ঘনত্ব, বাজার কাঠামো ও প্রস্থান-পথ সততা*](../../core_05.035_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (যৌথ আহ্বান যেখানে ঘনত্ব, তত্ত্বাবধান, নির্ভরতা, শাসন-কর্তৃত্ব কাঠামো বা প্রণোদনা রাউটিং নিচের কার্যকরী পাঠে **§5** / **§5** এবং *ঘনত্ব-সীমা মিথস্ক্রিয়া* শৃঙ্খলার সঙ্গে ছেদ করে)।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — চ্যালেঞ্জ ও প্রতিদ্বন্দ্বিতা নামকৃত পথে **অংশগ্রহণ**, **তত্ত্বাবধান** ও নিরীক্ষা, **জবাবদিহি** ও সংশোধনমূলক পর্যালোচনা, **অনুচ্ছেদ XXVI-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)-এর অধীনে **সময়ানুবর্তিতা**; [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** (আন্তঃব্যবস্থা ন্যায্যতা ও অ-নিষ্কাশন) এবং **সাতত্য** (দীর্ঘমেয়াদি স্থায়িত্ব ও বাস্তুতন্ত্র অর্থায়ন)।
 - অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) এবং [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) যেখানে আন্তঃব্যবস্থা ন্যায্যতা, বাস্তুতন্ত্র অর্থায়ন, বা ভাগ করা অবকাঠামো থেকে স্থায়ী নিষ্কাশন বস্তুগতভাবে জড়ায়।
 - দায়িত্বশীল ব্যবস্থাপক দ্বার (অ-কার্যকরী): বাধ্যতামূলক পরবর্তী-ধাপ বিবৃতি: [কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি](#operative-steward-statement-cross-system-contribution)। সহায়ক নির্দেশক এটিকে সংকুচিত করতে পারে না।
@@ -874,17 +874,17 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সংজ্ঞা · মূল্যায়ন · অনুপালন</span></strong></summary>
 
-- [নির্ভরতা](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
-- [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [নির্ভরতা](../../core_05.040_band_continuity.md#dependency) · [O](../../core_05.040_band_continuity.md#dependency) · [M](../../core_05.040_band_continuity.md#dependency-a) · [A](../../core_05.040_band_continuity.md#dependency-a) · [C](../../core_05.040_band_continuity.md#dependency-c)
+- [আনুপাতিক আন্তঃব্যবস্থা অবদান](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional-c)
+- [সারবস্তুগত ন্যায্যতা](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05.055_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05.055_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05.055_band_participation.md#substantive-fairness-constitutional-c)
 - [তাৎপর্য নির্ণয়](core_05_band_oversight.md#তৎপরয-নরণয) · [O](core_05_band_oversight.md#তৎপরয-নরণয) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [পরিবেশগত পদচিহ্ন](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
+- [পরিবেশগত পদচিহ্ন](../../core_05.040_band_continuity.md#ecological-footprint) · [O](../../core_05.040_band_continuity.md#ecological-footprint) · [M](../../core_05.040_band_continuity.md#ecological-footprint-a) · [A](../../core_05.040_band_continuity.md#ecological-footprint-a) · [C](../../core_05.040_band_continuity.md#ecological-footprint-c)
 
 </details>
 
 <br>
 
-*সহজ ভাষায়: ভাগ করা অর্থ ও ক্ষমতা ভাগ করুন এই খেয়ালে কে সত্যি নির্ভরশীল, কার সত্যিকারের বিকল্প আছে, পরিবেশগত ভার, এবং ব্যবহার টিকতে পারে কি না — মূলত যারা স্বল্পকালে জিতে তাদের দিকে নয়। ভাগ করা ভিত্তির ভারী ব্যবহারকারী [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) ছাড়া মূল্য টেনে বের করতে থাকতে পারে না। যখন ব্যবস্থা সম্পদ, ক্ষমতা, নিয়ন্ত্রণ বা সুযোগ এমনভাবে ঘনীভূত করে যা অন্যের কল্যাণ, কর্তৃত্ব, মর্যাদা বা পরিবেশগত সততাকে পূর্বদৃশ্যভাবে ক্ষতি করে, অধ্যায় একের অ-ঘনত্ব নিয়ম ও গ্রহণকারী-টিউনযোগ্য সীমা আরও পরীক্ষা যোগ করে। সেই পরীক্ষা অতিরিক্ত; নির্ভরতা মানচিত্রের স্থলাভিষিক্ত নয় এবং আন্তঃব্যবস্থা ন্যায্যতা অবহেলার অজুহাত নয়।*
+*সহজ ভাষায়: ভাগ করা অর্থ ও ক্ষমতা ভাগ করুন এই খেয়ালে কে সত্যি নির্ভরশীল, কার সত্যিকারের বিকল্প আছে, পরিবেশগত ভার, এবং ব্যবহার টিকতে পারে কি না — মূলত যারা স্বল্পকালে জিতে তাদের দিকে নয়। ভাগ করা ভিত্তির ভারী ব্যবহারকারী [আনুপাতিক আন্তঃব্যবস্থা অবদান](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) ছাড়া মূল্য টেনে বের করতে থাকতে পারে না। যখন ব্যবস্থা সম্পদ, ক্ষমতা, নিয়ন্ত্রণ বা সুযোগ এমনভাবে ঘনীভূত করে যা অন্যের কল্যাণ, কর্তৃত্ব, মর্যাদা বা পরিবেশগত সততাকে পূর্বদৃশ্যভাবে ক্ষতি করে, অধ্যায় একের অ-ঘনত্ব নিয়ম ও গ্রহণকারী-টিউনযোগ্য সীমা আরও পরীক্ষা যোগ করে। সেই পরীক্ষা অতিরিক্ত; নির্ভরতা মানচিত্রের স্থলাভিষিক্ত নয় এবং আন্তঃব্যবস্থা ন্যায্যতা অবহেলার অজুহাত নয়।*
 
 <a id="operative-steward-statement-cross-system-contribution"></a>
 > **কার্যকরী দায়িত্বশীল ব্যবস্থাপক বিবৃতি।** **মালিক:** অনুচ্ছেদ IV-B। সংজ্ঞা: আনুপাতিক আন্তঃব্যবস্থা অবদান। মানচিত্র: CS-9। **নিষিদ্ধ পদক্ষেপ:** সংবাদ বিজ্ঞপ্তি, একবারের অনুদান, বা বেঁচে থাকার তল অনুপালনকে সংশ্লিষ্ট সমর্থন গণ্য করবেন না। **ঘড়ি:** এখনই মানচিত্র করা প্রবেশ ও নির্গমন তুলনা করুন। পরের সূত্রের জন্য অপেক্ষা করবেন না।
@@ -897,19 +897,19 @@
   - পরিবেশগত পদচিহ্ন, ঊর্ধ্ব ও অধঃ ভার সহ;
   - দীর্ঘমেয়াদি স্থায়িত্ব।
 
-  ব্যবস্থা [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) ছাড়া ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা থেকে স্থায়ীভাবে নিষ্কাশন করতে পারে না।
-- **সংশ্লিষ্ট সমর্থন:** **সংশ্লিষ্ট সমর্থন** মানে [আনুপাতিক আন্তঃব্যবস্থা অবদান](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)-এর অধীনে সারবস্তু পর্যাপ্ততায় পৌঁছানো সমর্থন, [সারবস্তুগত ন্যায্যতা](core_05_band_participation.md#substantive-fairness-constitutional) ও [আনুপাতিকতা](core_05_band_accountability.md#proportionality)-এর অধীনে মূল্যায়িত এবং **আন্তঃব্যবস্থা ন্যায্যতা**-এর অধীনে তালিকাভুক্ত উপাদানে স্কেল করা। অন্তত মূল্যায়ন করুন নথিভুক্ত সম্পদ প্রবাহে বস্তুগত হলে আছে কি না:
+  ব্যবস্থা [আনুপাতিক আন্তঃব্যবস্থা অবদান](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) ছাড়া ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা থেকে স্থায়ীভাবে নিষ্কাশন করতে পারে না।
+- **সংশ্লিষ্ট সমর্থন:** **সংশ্লিষ্ট সমর্থন** মানে [আনুপাতিক আন্তঃব্যবস্থা অবদান](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional)-এর অধীনে সারবস্তু পর্যাপ্ততায় পৌঁছানো সমর্থন, [সারবস্তুগত ন্যায্যতা](../../core_05.055_band_participation.md#substantive-fairness-constitutional) ও [আনুপাতিকতা](../../core_05.035_band_accountability.md#proportionality)-এর অধীনে মূল্যায়িত এবং **আন্তঃব্যবস্থা ন্যায্যতা**-এর অধীনে তালিকাভুক্ত উপাদানে স্কেল করা। অন্তত মূল্যায়ন করুন নথিভুক্ত সম্পদ প্রবাহে বস্তুগত হলে আছে কি না:
   - ভাগ করা বা ভিত্তিগত নির্ভরতার পরিচালন সাতত্য;
   - নিষ্কাশন সমষ্টিগত ক্ষতির ঝুঁকি বস্তুগতভাবে বাড়ালে প্রতিকার ও স্থিতিস্থাপকতা ক্ষমতা;
   - নিষ্কাশনকারী ব্যবস্থা নির্ভর করে এমন ভাগ করা অবকাঠামো ও আন্তঃক্রিয়াশীলতার জন্য বাস্তুতন্ত্র পুনর্বিনিয়োগ; এবং
-  - বস্তুগত [পরিবেশগত পদচিহ্ন](core_05_band_continuity.md#ecological-footprint) চাপানো হলে এবং অন্য সাংবিধানিক বিধান, বাস্তবায়ন ফাইল বা গ্রহণ দলিল কাজ চাইলে পরিবেশগত ভার অফসেট বা পুনরুদ্ধার।
+  - বস্তুগত [পরিবেশগত পদচিহ্ন](../../core_05.040_band_continuity.md#ecological-footprint) চাপানো হলে এবং অন্য সাংবিধানিক বিধান, বাস্তবায়ন ফাইল বা গ্রহণ দলিল কাজ চাইলে পরিবেশগত ভার অফসেট বা পুনরুদ্ধার।
 
   **অনুচ্ছেদ V-A** (*নির্ভরতা মানচিত্র ও সম্পদ-প্রবাহ স্বচ্ছতা*)-এর অধীনে নির্ভরশীল-ব্যবস্থা মানচিত্র ও নিরীক্ষাযোগ্য সম্পদ-প্রবাহ নথিতে প্রবেশ ও নির্গমন তুলনা করুন। বস্তুগতভাবে প্রভাবশালী ব্যবস্থা ভাগ করা অবকাঠামো বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করলে [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_05.040_band_continuity.md#system-alignment-certification) [অধ্যায় নয়](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)-এর অধীনে দিয়ে পর্যাপ্ততা মূল্যায়ন করুন। পরিচালন বরাদ্দ যন্ত্র রাউট হয় **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বরাদ্দ ও অর্থায়ন দায়িত্বশীল ব্যবস্থাপনা*) এবং **CS-8** (*অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্র স্থিতিস্থাপকতা*)-এর অধীনে; সেই স্তর এই তল বাস্তবায়ন করে এবং সংকুচিত করতে পারে না।
 
   যে স্থায়ী অসাম্য সাংবিধানিক সারিবদ্ধতাকে বস্তুগতভাবে হুমকি দেয়, সেগুলো **অনুচ্ছেদ IX, XIII, XIV ও XVII**-এর অধীনে নিরীক্ষা, চ্যালেঞ্জ ও সংশোধনমূলক পর্যালোচনার অধীন।
 - **বাজার-ঘনত্ব-সীমা মিথস্ক্রিয়া:** সম্পদ-বরাদ্দ ব্যবস্থা যা সম্পদ, ক্ষমতা, নিয়ন্ত্রণ বা সুযোগ এমনভাবে ঘনীভূত করে বা ধরে রাখে যা অন্য সংজ্ঞদের কল্যাণ, কর্তৃত্ব, মর্যাদা বা পরিবেশগত সততা পূর্বদৃশ্যভাবে অবনতি করে, সেগুলো জড়ায়:
   - **অধ্যায় এক §11 অ-ঘনত্ব তল**;
-  - **[§11.1 বাজার ঘনত্ব সীমা প্রক্রিয়া](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)** শৃঙ্খলা।
+  - **[§11.1 বাজার ঘনত্ব সীমা প্রক্রিয়া](core_01_c_stewardship_capacity_principles.md)** শৃঙ্খলা।
 
   তলের ভিতরে গ্রহণকারী-টিউনযোগ্য পরিচালন সীমা অনুমোদিত। তল বাতিল করতে বসানো সীমা শাসন অনুপালনহীন। বাতিলকারী শাসনের উদাহরণ:
   - যে সীমা পূর্বদৃশ্যভাবে কখনো বাঁধে না;

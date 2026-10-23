@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第五章指南针](core_05__definitions_home.md#第五章指南针与定义地图)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；直白宗旨在[序言 §1](core_00_preamble.md#continuity)。
-- 下游：原则：[第一章 §4.1 韧性与自愈设计](core_01_a_values_principles.md#41-resilience-and-self-healing-design)；[§12 共享系统能力](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity)；[§11.1.5 宪法结果主张纪律](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)；[宪法宗旨分解](#continuity-aim-decomposition)；延续主题组在 [core_05_band_continuity.md](../../core_05.040_band_continuity.md)。
+- 下游：原则：[第一章 §4.1 韧性与自愈设计](core_01_a_values_principles.md#10-resilience-and-self-healing-design)；[§12 共享系统能力](core_01_c_stewardship_capacity_principles.md)；[§11.1.5 宪法结果主张纪律](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)；[宪法宗旨分解](#continuity-aim-decomposition)；延续主题组在 [core_05_band_continuity.md](../../core_05.040_band_continuity.md)。
 - 一并阅读：[尽责管理](../../core_05.040_band_continuity.md#stewardship)、[尽责管理缺陷](../../core_05.040_band_continuity.md#stewardship-defect)、[生态完整性](../../core_05.040_band_continuity.md#ecological-integrity)、[依赖](../../core_05.040_band_continuity.md#dependency)、[替代指标偏离](../../core_05.050_band_oversight.md#proxy-divergence)、[生存风险](../../core_05.040_band_continuity.md#existential-risk)、[级联失败](../../core_05.040_band_continuity.md#cascading-failure)、[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)（成对宗旨 — 任何一项都不得以牺牲另一项为代价来追求；追求掏空**参与**、**监督**、**问责**或**及时性**、使其低于[实质利害](core_00_preamble.md#material-stake)所要求者的短期收益，即违背**延续**，即使近期产出上升）、按[实质利害](core_00_preamble.md#material-stake)缩放的[宪法四元](core_00_preamble.md#constitutional-tetrad)（延续如何保持正当 — 不是第五个构件）、延续测量族，以及[第五章字母目录](core_05__definitions_home.md#chapter-five-alphabetical-directory)。
 
 </details>
@@ -46,14 +46,14 @@
 <a id="continuity-aim-constitutional-a"></a>
 - **如何测量与评估**
   - **主要测量：** [延续测量族](#continuity-measurement-family) — *感知者与系统能否持久 — 在生态上、可靠地、并穿越失败？* 亦见[宪法宗旨分解](#continuity-aim-decomposition)。本行只指向那些测量；如何测量的规则坐落在每一项被链接的定义上。
-  - **主要评估：** 在[宪法四元](core_00_preamble.md#constitutional-tetrad)下判断，按[实质利害](core_00_preamble.md#material-stake)缩放。问一问系统是否保持持久能力去修复、适应、诚实面对风险，并留在生态限度之内 — 而不是今天的数字看起来是否平静。把所主张的延续结果系到[构成](#continuity-aim-decomposition)条件上，依据第四章与[第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)。
+  - **主要评估：** 在[宪法四元](core_00_preamble.md#constitutional-tetrad)下判断，按[实质利害](core_00_preamble.md#material-stake)缩放。问一问系统是否保持持久能力去修复、适应、诚实面对风险，并留在生态限度之内 — 而不是今天的数字看起来是否平静。把所主张的延续结果系到[构成](#continuity-aim-decomposition)条件上，依据第四章与[第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)。
 <a id="continuity-aim-constitutional-c"></a>
 - **必须成立什么**
   - **主要失败：**
     - 用**延续**永远推迟修补；
     - 把「稳定」当作合规，当它建立在隐蔽风险倾倒、不可逆伤害或把生态负担转嫁给他人之上；
     - 用普通的「让灯一直亮着」话术去阻断[可质疑性](../../core_05.035_band_accountability.md#contestability)或[及时解决](../../core_05.035_band_accountability.md#timely-resolution)；或
-    - 以实质击败[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)的方式追求**延续**，而没有[第一章 §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)下的明确许可。
+    - 以实质击败[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)的方式追求**延续**，而没有[第一章 §6](core_01_b_interaction_interpretation.md)下的明确许可。
 
 ---
 
@@ -106,7 +106,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 下游：延续测量族 — 仅链接汇总；各用语层级住在下表所链叶定义上。
-- 一并阅读：[CS-9 — 资源分配与资助的尽责管理](../../corpus_systems/cs_09_resource_allocation_funding_stewardship.md)（资助与跨系统回报机制）。
+- 一并阅读：[CS-9 — 资源分配与资助的尽责管理](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md)（资助与跨系统回报机制）。
 
 </details>
 

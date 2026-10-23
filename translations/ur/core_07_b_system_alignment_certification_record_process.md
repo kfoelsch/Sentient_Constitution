@@ -10,7 +10,7 @@
 > اس میں **باب ہفتم، حصہ ب** ہے — سرٹیفیکیشن **ریکارڈ** کے مندرجات، شفافیت اور چیلنج پذیری، فورم جزو کے کردار، نگرانی کی ترتیب، کیفیت کا پل، اور دوبارہ کھولنا (**§11–§16**، حصہ الف §1–§10 سے جاری)۔ **حصہ الف** — جائزے کے تقاضے — [`core_07_a_system_alignment_certification_evaluation.md`](core_07_a_system_alignment_certification_evaluation.md) میں ہے۔
 >
 > - **آئینی مالک (حصہ الف کے ساتھ مشترکہ):** فورم زیرِ نگرانی **نظام ہم آہنگی سرٹیفیکیشن اور متعلقہ ریکارڈ**۔ چوکڑی کی **نگرانی** ٹانگ کے تحت SAC دیگر آڈٹ عملوں میں ایک خاص طور پر بڑا، اعلیٰ داؤ آڈٹ عمل ہے؛ آڈٹ کی تہیں **دفعہ XVI** اور باب پنجم کی [آڈٹ پذیری](core_05_band_oversight.md#auditability) پر رہتی ہیں۔
-> - **جائزے کے ان پٹ:** [حصہ الف §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) وہ جائزہ نتائج دیتے ہیں جو سرٹیفیکیشن ریکارڈ پر عکس ہوتے ہیں۔
+> - **جائزے کے ان پٹ:** [حصہ الف §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) وہ جائزہ نتائج دیتے ہیں جو سرٹیفیکیشن ریکارڈ پر عکس ہوتے ہیں۔
 > - **عدمِ منتقلی قاعدہ:** حصہ ب حصہ الف کی جائزہ میکانکس، باب پنجم کی مستند تعریفیں، باب ہشتم کی کیفیت پیمائش، یا باب نہم کے کیفیت اثرات دوبارہ بیان نہیں کرتا۔ **§15** کیفیت پل کی حد صریحاً بیان کرتا ہے۔ حصہ ب **دفعہ XVI** / **Def.O1** / **CJS-3.3**–**CJS-3.5** سے آڈٹ کی ملکیت بھی منتقل نہیں کرتا۔
 >
 > **بالائی:** [حصہ الف](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)؛ باب یازدهم کی فورم نگرانی؛ باب دوم تا چہارم کی تصدیق ضبط۔
@@ -27,7 +27,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [حصہ الف §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*سرٹیفیکیشن کا مقصد اور جائزے کا نقشہ*)؛ [حصہ الف §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ریکارڈ کے لیے جائزہ نتائج*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)۔
+- بالائی: [حصہ الف §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*سرٹیفیکیشن کا مقصد اور جائزے کا نقشہ*)؛ [حصہ الف §2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*ریکارڈ کے لیے جائزہ نتائج*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)۔
 - زیریں: [§11](#11-certification-record) تا [§16](#16-reopening-drift-and-non-evasion)؛ [باب ہشتم](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model)؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)۔
 - ساتھ پڑھیں: [corpus_forum.md](../../corpus_forum.md)، **CF-5** اور **CF-7**۔
 
@@ -35,7 +35,7 @@
 
 <br>
 
-باب ہفتم، **حصہ ب**، نظام ہم آہنگی سرٹیفیکیشن کے **سرٹیفیکیشن ریکارڈ**، **فورم زیرِ نگرانی عمل**، اور **کیفیت پل** کا آئینی مالک ہے۔ جائزے کے تقاضے **[حصہ الف](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)** میں ہیں۔ حصہ الف [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) پر ختم ہوتا ہے؛ یہ حصہ باب کو **§11** سے جاری رکھتا ہے۔
+باب ہفتم، **حصہ ب**، نظام ہم آہنگی سرٹیفیکیشن کے **سرٹیفیکیشن ریکارڈ**، **فورم زیرِ نگرانی عمل**، اور **کیفیت پل** کا آئینی مالک ہے۔ جائزے کے تقاضے **[حصہ الف](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)** میں ہیں۔ حصہ الف [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) پر ختم ہوتا ہے؛ یہ حصہ باب کو **§11** سے جاری رکھتا ہے۔
 
 *سادہ الفاظ میں: حصہ الف کہتا ہے کیا **جانچا** جانا چاہیے۔ حصہ ب کہتا ہے کیا **ریکارڈ پر** جانا چاہیے، **فورم** عمل کیسے چلاتے ہیں، متاثر شعوری وجود نتائج کو کیسے **چیلنج** کرتے ہیں، اور سرٹیفیکیشن **کیفیت** کو کیسے کھلا سکتی ہے — بغیر اس کے کہ سرٹیفیکیشن کیفیت پیمائش یا کیفیت اثرات کی جگہ لے لے۔*
 
@@ -48,7 +48,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [حصہ الف §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*سرٹیفیکیشن کا مقصد*)؛ [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*پورے نظام کے جائزے کے عوامل*)؛ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*ریکارڈ پر عکس دائرہ جائزہ نتائج*)؛ [نظام سرٹیفیکیشن ریکارڈ](core_05_band_continuity.md#system-certification-record-constitutional) (*باب پنجم کا معنی*)؛ [§12](#12-transparency-auditability-and-contestability) (*شفافیت، آڈٹ پذیری، اور چیلنج پذیری*)؛ [§14](#14-supervisory-sequence-and-contestability-chain) (*نگرانی کی ترتیب اور چیلنج پذیری زنجیر*)۔
+- بالائی: [حصہ الف §1](core_07_a_system_alignment_certification_evaluation.md#1-purpose-and-role) (*سرٹیفیکیشن کا مقصد*)؛ [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*پورے نظام کے جائزے کے عوامل*)؛ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*ریکارڈ پر عکس دائرہ جائزہ نتائج*)؛ [نظام سرٹیفیکیشن ریکارڈ](../../core_05.040_band_continuity.md#system-certification-record-constitutional) (*باب پنجم کا معنی*)؛ [§12](#12-transparency-auditability-and-contestability) (*شفافیت، آڈٹ پذیری، اور چیلنج پذیری*)؛ [§14](#14-supervisory-sequence-and-contestability-chain) (*نگرانی کی ترتیب اور چیلنج پذیری زنجیر*)۔
 - زیریں: [§15](#15-relationship-to-standing) (*تصدیق شدہ ان پٹ دروازہ*)؛ [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*فورم زیرِ نگرانی سرٹیفیکیشن عمل*)۔
 - ذیلی حصے: [§11.1](#111-minimum-record-contents) (*ریکارڈ کے کم از کم مندرجات*)؛ [§11.2](#112-cross-section-record-requirements) (*کراس سیکشن ریکارڈ تقاضے*)؛ [§11.3](#113-rights-floor-record-evaluation-non-substitution) (*حقوق کی تہہ کا ریکارڈ جائزہ — عدمِ متبادل*)۔
 
@@ -56,9 +56,9 @@
 
 <br>
 
-*سادہ الفاظ میں: سرٹیفیکیشن ریکارڈ جائزے تلے ایک نظام کی آڈٹ کے قابل کیس فائل ہے — کون چلاتا ہے، کیا پرکھا گیا، کیا ملا، کیا فیصلہ ہوا، اور اسے کیسے چیلنج کیا جائے۔ یہ مارکیٹنگ پیکٹ یا ایک سطری منظوری کی مہر نہیں۔ ریکارڈ کی گہرائی، انکشاف، اور چیلنج کا بوجھ [§2.1](core_07_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) کے تحت نظام کی کلاس کے ساتھ پیمانہ ہوتے ہیں — **کلاس A** کا بقا کے لیے نازک نظام **کلاس C** کی ہم آہنگی تہہ سے زیادہ پورا اور زیادہ چیلنج کے قابل فائل مانگتا ہے، حالانکہ دونوں کو کلاس ایمانداری سے بیان کرنی چاہیے اور مطلوبہ جائزے عکس کرنے چاہییں۔*
+*سادہ الفاظ میں: سرٹیفیکیشن ریکارڈ جائزے تلے ایک نظام کی آڈٹ کے قابل کیس فائل ہے — کون چلاتا ہے، کیا پرکھا گیا، کیا ملا، کیا فیصلہ ہوا، اور اسے کیسے چیلنج کیا جائے۔ یہ مارکیٹنگ پیکٹ یا ایک سطری منظوری کی مہر نہیں۔ ریکارڈ کی گہرائی، انکشاف، اور چیلنج کا بوجھ [§2.1](core_07_a_system_alignment_certification_evaluation.md) کے تحت نظام کی کلاس کے ساتھ پیمانہ ہوتے ہیں — **کلاس A** کا بقا کے لیے نازک نظام **کلاس C** کی ہم آہنگی تہہ سے زیادہ پورا اور زیادہ چیلنج کے قابل فائل مانگتا ہے، حالانکہ دونوں کو کلاس ایمانداری سے بیان کرنی چاہیے اور مطلوبہ جائزے عکس کرنے چاہییں۔*
 
-ایک **نظام سرٹیفیکیشن ریکارڈ** کسی خاص نظام، ورژن، آپریٹر یا ذمہ دار انتظام، دائرے، وقتی کھڑکی، مادی اثر پروفائل، اور فیصلے کے سیاق سے متعلق محدود، جائزے کے قابل ریکارڈ ہے — دائرے میں محدود، وقت میں محدود، اور [نظام سرٹیفیکیشن ریکارڈ](core_05_band_continuity.md#system-certification-record-constitutional) میں باب پنجم کے معنی کے تحت چیلنج کے قابل۔
+ایک **نظام سرٹیفیکیشن ریکارڈ** کسی خاص نظام، ورژن، آپریٹر یا ذمہ دار انتظام، دائرے، وقتی کھڑکی، مادی اثر پروفائل، اور فیصلے کے سیاق سے متعلق محدود، جائزے کے قابل ریکارڈ ہے — دائرے میں محدود، وقت میں محدود، اور [نظام سرٹیفیکیشن ریکارڈ](../../core_05.040_band_continuity.md#system-certification-record-constitutional) میں باب پنجم کے معنی کے تحت چیلنج کے قابل۔
 
 <a id="111-minimum-record-contents"></a>
 
@@ -66,28 +66,28 @@
 
 ریکارڈ کو کم از کم یہ پہچاننا چاہیے:
 
-- **نظام کی شناخت، دائرہ، اور حیثیت:** نظام، ورژن، آپریٹر یا ذمہ دار انتظام، دائرہ، حکمران [منشور](core_05_band_continuity.md#charter) یا مساوی شائع شدہ دائرہ دستاویز (یا جہاں غیر مادی ہو وہاں معقول غیر موجودگی)، متاثر برادریاں، انحصار، اور جائزے کی حیثیت — بشمول جہاں منشور موجود ہو تصدیق شدہ دائرہ منشور کے بیان کردہ دائرے سے میل کھاتا ہے یا نہیں؛
-- **پورے نظام کے جائزے کی دریافتیں:** [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) کے تحت مادی دریافتیں، بشمول نظامی دائرہ، رسائی پذیری، رازداری کی مشترکہ پکار، خروج، مجلس، وقتی مطابقت، حکمرانی، محرکات، اور چیلنج پذیری جہاں شامل ہوں — اور، جہاں [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) کے تحت نظامی خطرہ دائرے میں ہو، [خطرے کا جائزہ](core_05_band_continuity.md#risk-evaluation) کی دریافتیں ساتھ [خطرے کا انکشاف](core_05_band_oversight.md#risk-disclosure) کی وضع (سامعین یا رخ بندی، وقت، روکے گئے حصے اور متبادل، اور غیر حل شدہ نقائص یا شرائط)، اسی ریکارڈ پر بیان نہ کہ الگ نامزد خطرہ-انکشاف ریکارڈ کے طور پر؛
-- **نظام درجہ بندی ریکارڈ:** [نظام درجہ بندی ریکارڈ](core_05_band_continuity.md#system-classification-record-constitutional) — یا CS-3 کے تحت اس کے مطلوبہ مندرجات — جیسا [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) مانگتا ہے، بشمول:
+- **نظام کی شناخت، دائرہ، اور حیثیت:** نظام، ورژن، آپریٹر یا ذمہ دار انتظام، دائرہ، حکمران [منشور](../../core_05.040_band_continuity.md) یا مساوی شائع شدہ دائرہ دستاویز (یا جہاں غیر مادی ہو وہاں معقول غیر موجودگی)، متاثر برادریاں، انحصار، اور جائزے کی حیثیت — بشمول جہاں منشور موجود ہو تصدیق شدہ دائرہ منشور کے بیان کردہ دائرے سے میل کھاتا ہے یا نہیں؛
+- **پورے نظام کے جائزے کی دریافتیں:** [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) کے تحت مادی دریافتیں، بشمول نظامی دائرہ، رسائی پذیری، رازداری کی مشترکہ پکار، خروج، مجلس، وقتی مطابقت، حکمرانی، محرکات، اور چیلنج پذیری جہاں شامل ہوں — اور، جہاں [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) کے تحت نظامی خطرہ دائرے میں ہو، [خطرے کا جائزہ](../../core_05.040_band_continuity.md#risk-evaluation) کی دریافتیں ساتھ [خطرے کا انکشاف](core_05_band_oversight.md#risk-disclosure) کی وضع (سامعین یا رخ بندی، وقت، روکے گئے حصے اور متبادل، اور غیر حل شدہ نقائص یا شرائط)، اسی ریکارڈ پر بیان نہ کہ الگ نامزد خطرہ-انکشاف ریکارڈ کے طور پر؛
+- **نظام درجہ بندی ریکارڈ:** [نظام درجہ بندی ریکارڈ](../../core_05.040_band_continuity.md#system-classification-record-constitutional) — یا CS-3 کے تحت اس کے مطلوبہ مندرجات — جیسا [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) مانگتا ہے، بشمول:
   - نظام کلاس کی تفویض؛
   - انحصار کی قسم (اقسام)؛
   - درجہ بندی کی دلیل؛ اور
   - مادی اثر کے مفروضے؛
-- **نظام ڈیٹا اقسام ریکارڈ:** [نظام ڈیٹا اقسام ریکارڈ](core_05_band_continuity.md#system-data-types-record-constitutional) — یا CS-2 کے تحت اس کے مطلوبہ مندرجات — جیسا [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) مانگتا ہے، بشمول:
+- **نظام ڈیٹا اقسام ریکارڈ:** [نظام ڈیٹا اقسام ریکارڈ](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) — یا CS-2 کے تحت اس کے مطلوبہ مندرجات — جیسا [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) مانگتا ہے، بشمول:
   - مادی طور پر دائرے میں ڈیٹا اقسام اور ہینڈلنگ، علیحدگی، زندگی سائیکل، اور بنیادی ڈھانچہ یقین دہانی کے مفروضے جن پر انحصار کیا گیا؛
-  - سب سے تازہ وقفہ وار ڈیٹا-قسم دوبارہ جائزہ (تاریخ یا سائیکل شناخت، کلاس اور اثر کے مطابق تال، اور کوئی مادی دوبارہ قسم بندی) **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** اور **[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance)** کے تحت؛
-  - [منسوب عمل](core_05_band_accountability.md#attributable-action-constitutional) اور [انتساب کی دیانت](core_05_band_accountability.md#attribution-integrity-constitutional) سہارا دینے کے لیے کافی انتساب صلاحیت؛ اور
+  - سب سے تازہ وقفہ وار ڈیٹا-قسم دوبارہ جائزہ (تاریخ یا سائیکل شناخت، کلاس اور اثر کے مطابق تال، اور کوئی مادی دوبارہ قسم بندی) **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** اور **[CS-2 §8](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-8-system-data-types-record-governance)** کے تحت؛
+  - [منسوب عمل](../../core_05.035_band_accountability.md#attributable-action-constitutional) اور [انتساب کی دیانت](../../core_05.035_band_accountability.md#attribution-integrity-constitutional) سہارا دینے کے لیے کافی انتساب صلاحیت؛ اور
   - جہاں قسم O کی بنیاد لاگو ہو، [عوامی نگرانی کی بنیادی انکشاف](core_05_band_oversight.md#public-oversight-baseline-disclosure) تصدیق شدہ دائرے کو کیسے ڈھانپتی ہے (جن منشور خانوں پر انحصار کیا گیا، سرحدی دریافتیں، اور کوئی کوریج خلا یا شرائط)؛
-- **ماحولیاتی نقش کا جائزہ:** قابلِ انتساب ماحولیاتی بوجھ، زندگی سائیکل اور انحصار انتساب مفروضے، انکشاف کی وضع، اور نقش جزو کی دریافتیں جیسا [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) مانگتا ہے؛
-- **بین نظامی وسیلہ ذمہ دارانہ انتظام کا جائزہ:** تابع نظاموں کا نقشہ اور وسیلہ بہاؤ کی دریافتیں، [متناسب بین نظامی حصہ](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) کی موزونیت کی دریافتیں، اور بین نظامی انصاف جزو کی دریافتیں جیسا [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) مانگتا ہے جہاں **دفعہ IV** (*وسیلہ تقسیم، انحصار، اور ماحولیاتی نظام فنڈنگ*) کا مادیت محرک لاگو ہو؛
-- **عدمِ امتیاز کا جائزہ:** بوجھ-اور-فائدہ نمونے کی دریافتیں، محفوظ خصوصیت اور متبادل امتیاز کی دریافتیں، اور حقیقی انصاف جزو کی دریافتیں جیسا [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) مانگتا ہے جہاں **دفعہ V-B** (*عدمِ امتیاز*) کا مادیت محرک لاگو ہو؛
-- **رسائی پذیری کا جائزہ:** حقیقی شرکت، سہولت، اور متبادل سے انکار مخالف دریافتیں جیسا [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) مانگتا ہے جہاں **دفعہ V-G** (*رسائی پذیری*) کا مادیت محرک لاگو ہو؛
-- **تعلیمی صلاحیت اور سیکھنے کے نظام کی دیانت کا جائزہ:** صلاحیت سازی، دوبارہ تربیت راستہ، جائزہ شفافیت، اور سیکھنے کے نظام کی چیلنج پذیری کی دریافتیں جیسا [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) مانگتا ہے جہاں **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کا مادیت محرک لاگو ہو؛
-- **قابلِ اعتمادی اور نظام-انحصار دیانت کا جائزہ:** اعتبار، جھوٹا اعتماد، بگڑا محرک، چیلنج راستہ، اور بحالی دیانت کی دریافتیں جیسا [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) مانگتا ہے جہاں **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کا مادیت محرک لاگو ہو؛
+- **ماحولیاتی نقش کا جائزہ:** قابلِ انتساب ماحولیاتی بوجھ، زندگی سائیکل اور انحصار انتساب مفروضے، انکشاف کی وضع، اور نقش جزو کی دریافتیں جیسا [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) مانگتا ہے؛
+- **بین نظامی وسیلہ ذمہ دارانہ انتظام کا جائزہ:** تابع نظاموں کا نقشہ اور وسیلہ بہاؤ کی دریافتیں، [متناسب بین نظامی حصہ](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) کی موزونیت کی دریافتیں، اور بین نظامی انصاف جزو کی دریافتیں جیسا [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) مانگتا ہے جہاں **دفعہ IV** (*وسیلہ تقسیم، انحصار، اور ماحولیاتی نظام فنڈنگ*) کا مادیت محرک لاگو ہو؛
+- **عدمِ امتیاز کا جائزہ:** بوجھ-اور-فائدہ نمونے کی دریافتیں، محفوظ خصوصیت اور متبادل امتیاز کی دریافتیں، اور حقیقی انصاف جزو کی دریافتیں جیسا [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) مانگتا ہے جہاں **دفعہ V-B** (*عدمِ امتیاز*) کا مادیت محرک لاگو ہو؛
+- **رسائی پذیری کا جائزہ:** حقیقی شرکت، سہولت، اور متبادل سے انکار مخالف دریافتیں جیسا [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) مانگتا ہے جہاں **دفعہ V-G** (*رسائی پذیری*) کا مادیت محرک لاگو ہو؛
+- **تعلیمی صلاحیت اور سیکھنے کے نظام کی دیانت کا جائزہ:** صلاحیت سازی، دوبارہ تربیت راستہ، جائزہ شفافیت، اور سیکھنے کے نظام کی چیلنج پذیری کی دریافتیں جیسا [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) مانگتا ہے جہاں **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کا مادیت محرک لاگو ہو؛
+- **قابلِ اعتمادی اور نظام-انحصار دیانت کا جائزہ:** اعتبار، جھوٹا اعتماد، بگڑا محرک، چیلنج راستہ، اور بحالی دیانت کی دریافتیں جیسا [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) مانگتا ہے جہاں **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کا مادیت محرک لاگو ہو؛
 - **تکنیکی ثبوت اور یقین دہانی:** سرٹیفیکیشن یا دوبارہ سرٹیفیکیشن سائیکل کے لیے تکنیکی معیار، ٹیسٹ، پیمانے، غیر یقینی، حفاظتی حاشیے، ناکامی کے طریقے، رجریشن-ٹیسٹ اور سیکیورٹی-ٹیسٹ نتائج، اور مادی طور پر استعمال شدہ ثبوت کی بنیاد؛
 - **متاثر فریق، ماحولیاتی، اور دیانت جائزہ:**
   - متاثر فریق، حقوق کی تہہ، رسائی پذیری، انحصار، اور شرکت کے پہلو؛
-  - ماحولیاتی انکشاف، [ماحولیاتی نقش](core_05_band_continuity.md#ecological-footprint) انتساب، ماحولیاتی پیش شرائط پر انحصار، زندگی سائیکل بوجھ، بحالی فرض، اور ماحولیاتی ہم آہنگی جزو جائزہ جہاں مادی ہو؛
+  - ماحولیاتی انکشاف، [ماحولیاتی نقش](../../core_05.040_band_continuity.md#ecological-footprint) انتساب، ماحولیاتی پیش شرائط پر انحصار، زندگی سائیکل بوجھ، بحالی فرض، اور ماحولیاتی ہم آہنگی جزو جائزہ جہاں مادی ہو؛
   - قبضہ، خود جائزہ، محرک ہم آہنگی، ثبوت کنٹرول، اور چیلنج راستے کے خطرات؛
 - **فورم نگرانی:** ہر جزو جاری کرنے، اختیار کرنے، بھیجنے، سرٹیفائی کرنے، توقف دینے، یا جائزہ لینے والا فورم خاندان یا اختیار، [§14](#14-supervisory-sequence-and-contestability-chain) کے مطلوبہ ترتیب میں بیان؛
 - **سرٹیفیکیشن نتیجہ اور انحصار کی حدیں:**
@@ -106,19 +106,19 @@
 
 #### 11.2 کراس سیکشن ریکارڈ تقاضے
 
-*سادہ الفاظ میں: ریکارڈ کو حصہ الف کے جائزہ قطعوں نے حقیقتاً کیا پایا وہ عکس کرنا چاہیے — صرف قطعوں کے عنوان نہیں۔ یہاں **دائرہ جائزہ** [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) میں حصہ الف کی موضوع خاص جانچوں میں سے ایک ہے — ماحولیاتی نقش، بین نظامی سہارا، عدمِ امتیاز، رسائی پذیری، تعلیمی صلاحیت، یا قابلِ اعتمادی — ہر ایک صرف تب مطلوب جب اس موضوع کا مادیت محرک جائزے تلے نظام پر لاگو ہو۔ اگر ایسی جانچ مطلوب تھی تو اس کی دریافتیں ریکارڈ پر ہونی چاہئیں۔*
+*سادہ الفاظ میں: ریکارڈ کو حصہ الف کے جائزہ قطعوں نے حقیقتاً کیا پایا وہ عکس کرنا چاہیے — صرف قطعوں کے عنوان نہیں۔ یہاں **دائرہ جائزہ** [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) تا [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) میں حصہ الف کی موضوع خاص جانچوں میں سے ایک ہے — ماحولیاتی نقش، بین نظامی سہارا، عدمِ امتیاز، رسائی پذیری، تعلیمی صلاحیت، یا قابلِ اعتمادی — ہر ایک صرف تب مطلوب جب اس موضوع کا مادیت محرک جائزے تلے نظام پر لاگو ہو۔ اگر ایسی جانچ مطلوب تھی تو اس کی دریافتیں ریکارڈ پر ہونی چاہئیں۔*
 
 سرٹیفیکیشن ریکارڈ کو ان جائزہ نتائج کو عکس کرنا چاہیے:
 
 - **پورے نظام کا جائزہ** — [§3](core_07_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) کے تحت مادی دریافتیں اور ضبط، بشمول خطرے کے جائزے اور خطرے کے انکشاف کی دریافتیں جہاں [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) کے تحت نظامی خطرہ دائرے میں ہو؛
-- **نظام کلاس اور ہینڈلنگ** — [نظام درجہ بندی ریکارڈ](core_05_band_continuity.md#system-classification-record-constitutional) اور [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) کے تحت کلاس جائزہ، اور [نظام ڈیٹا اقسام ریکارڈ](core_05_band_continuity.md#system-data-types-record-constitutional) اور [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) کے تحت ڈیٹا اقسام جائزہ؛
+- **نظام کلاس اور ہینڈلنگ** — [نظام درجہ بندی ریکارڈ](../../core_05.040_band_continuity.md#system-classification-record-constitutional) اور [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) کے تحت کلاس جائزہ، اور [نظام ڈیٹا اقسام ریکارڈ](../../core_05.040_band_continuity.md#system-data-types-record-constitutional) اور [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) کے تحت ڈیٹا اقسام جائزہ؛
 - **دائرہ جائزے:**
-  - [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) جہاں قابلِ انتساب ماحولیاتی بوجھ مادی ہوں؛
-  - [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) جہاں **دفعہ IV** (*وسیلہ تقسیم، انحصار، اور ماحولیاتی نظام فنڈنگ*) کا مادیت محرک لاگو ہو؛
-  - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) جہاں **دفعہ V-B** (*عدمِ امتیاز*) کا مادیت محرک لاگو ہو؛
-  - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) جہاں **دفعہ V-G** (*رسائی پذیری*) کا مادیت محرک لاگو ہو؛
-  - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) جہاں **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کا مادیت محرک لاگو ہو؛
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) جہاں **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کا مادیت محرک لاگو ہو؛
+  - [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) جہاں قابلِ انتساب ماحولیاتی بوجھ مادی ہوں؛
+  - [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) جہاں **دفعہ IV** (*وسیلہ تقسیم، انحصار، اور ماحولیاتی نظام فنڈنگ*) کا مادیت محرک لاگو ہو؛
+  - [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) جہاں **دفعہ V-B** (*عدمِ امتیاز*) کا مادیت محرک لاگو ہو؛
+  - [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) جہاں **دفعہ V-G** (*رسائی پذیری*) کا مادیت محرک لاگو ہو؛
+  - [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) جہاں **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کا مادیت محرک لاگو ہو؛
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) جہاں **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کا مادیت محرک لاگو ہو؛
 - **ریکارڈ دیانت** — [§12](#12-transparency-auditability-and-contestability)؛ اور
 - **نگرانی ترتیب اور چیلنج راستے** — [§14](#14-supervisory-sequence-and-contestability-chain)۔
 
@@ -133,23 +133,23 @@
 جب نیچے مادیت محرکات **مادی اثر والے نظام** پر لاگو ہوں تو سرٹیفیکیشن ریکارڈ کو **حقوق کی تہہ کا جائزہ** دکھانا چاہیے، نہ کہ آپریٹر کا دعویٰ یا صرف کاغذی اطاعت:
 
 - **بقا کی ضروری چیزیں، تعلیم، اور محفوظ حالات:**
-  - لاگو ہوتا ہے جب نظام بقا کی ضروری چیزوں، برابر تعلیمی رسائی، یا [**محفوظ حالات**](core_05_band_continuity.md#safe-conditions-constitutional) تک رسائی مہیا کرے، تقسیم کرے، قیمت لگائے، میزبانی کرے، یا ختم کرے؛
+  - لاگو ہوتا ہے جب نظام بقا کی ضروری چیزوں، برابر تعلیمی رسائی، یا [**محفوظ حالات**](../../core_05.040_band_continuity.md#safe-conditions-constitutional) تک رسائی مہیا کرے، تقسیم کرے، قیمت لگائے، میزبانی کرے، یا ختم کرے؛
   - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ III-A** (*بقا*)، **دفعہ III-B** (*برابر تعلیمی رسائی*)، **دفعہ XIII-A** (*قابلِ اعتمادی اور اعتبار کی بنیاد*)، اور متعلقہ باب ششم احکام کے تحت ان تہوں کو بند یا مادی طور پر گرا دے گا یا نہیں؛
 - **بین نظامی وسیلہ ذمہ دارانہ انتظام:**
   - لاگو ہوتا ہے جب نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار سے مادی طور پر تقسیم، رخ، فنڈ، یا نکاس کرے جن پر دوسرے نظام یا شعوری وجود انحصار کرتے ہیں؛
-  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) یا **دفعہ IV-B** (*بین نظامی انصاف اور پائیداری*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) مانگتا ہے؛
+  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ IV-A** (*انحصار کی نقشہ سازی اور وسائل-بہاؤ کی شفافیت*) یا **دفعہ IV-B** (*بین نظامی انصاف اور پائیداری*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) مانگتا ہے؛
 - **عدمِ امتیاز:**
   - لاگو ہوتا ہے جب نظام شعوری وجودوں میں بوجھ اور فائدے مادی طور پر درجہ بند، رینک، قیمت، گیٹ، خارج، یا تقسیم کرے — بشمول اہلیت قواعد، ماڈل خصوصیات، رینکنگ منطق، پلیٹ فارم پالیسی، یا موازنہ فیصلہ راستوں کے ذریعے؛
-  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ V-B** (*عدمِ امتیاز*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) مانگتا ہے؛
+  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ V-B** (*عدمِ امتیاز*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) مانگتا ہے؛
 - **رسائی پذیری اور شرکت:**
   - لاگو ہوتا ہے جب نظام آئینی طور پر متعلقہ دائروں میں حقیقی شرکت کو مادی طور پر گیٹ کرے — بشمول حکمرانی، متاثر فریق شرکت، فیصلہ، عمل، بقا تہہ رسائی، صحت رسائی، اظہار، مجلس، پریس، یا موازنہ دائرے — انٹرفیس، مقامات، شیڈول، اسناد، حساب رسائی، سہولت ڈیزائن، یا موازنہ شرکت راستوں کے ذریعے؛
-  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ V-G** (*رسائی پذیری*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) مانگتا ہے؛
+  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ V-G** (*رسائی پذیری*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) مانگتا ہے؛
 - **تعلیمی صلاحیت:**
   - لاگو ہوتا ہے جب نظام تعلیمی یا تربیتی سیاق میں شعوری وجودوں کو مادی طور پر رینک، جانچ، تجویز، جگہ، یا سند-گیٹ کرے — یا دوبارہ تربیت، جاری تعلیم، یا منتقلی سہارا راستے مادی طور پر گیٹ کرے جہاں قابلیت تقاضے مادی طور پر بدل گئے ہوں؛
-  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) مانگتا ہے؛
+  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) مانگتا ہے؛
 - **قابلِ اعتمادی اور انحصار:**
   - لاگو ہوتا ہے جب نظام بیان کردہ رویے، حدوں، خطرات، چیلنج راستوں، یا تدارک پر شعوری انحصار مادی طور پر گڑھے — بشمول اعتبار دعووں، انکشاف وضع، محرک ڈیزائن، بحالی عمل، یا موازنہ انحصار راستوں کے ذریعے؛
-  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) مانگتا ہے۔
+  - ریکارڈ کو جانچنا چاہیے کہ تسلیم یا جاری انحصار **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کو بند یا مادی طور پر گرا دے گا یا نہیں جیسا [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) مانگتا ہے۔
 
 <a id="12-transparency-auditability-and-contestability"></a>
 
@@ -158,9 +158,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [§11](#11-certification-record) (*ریکارڈ مندرجات*)؛ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)، [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)، [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation)، [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)، [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation)، [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation)، [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)، اور [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*کلاس، ڈیٹا، نقش، بین نظامی سہارا، عدمِ امتیاز، رسائی پذیری، تعلیمی صلاحیت، اور قابلِ اعتمادی جائزے کے ان پٹ*)؛ نگرانی پیمائش خاندان (*سچائی اور حقائق کی دیانت بطور آئینی پیمائش*)؛ بروقت کارروائی پیمائش خاندان (*بروقت حل اور تاخیر مخالف ضبط*)؛ باب دوم تا چہارم (*بوجھ، سراغ، تصدیق، اور ثبوت تحفظ*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **نگرانی**، **جوابدہی**، **شرکت**، اور **بروقت کارروائی**؛ [**Def.O1** *شفافیت، آڈٹ پذیری، اور تصدیق*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)؛ [چیلنج پذیری](core_05_band_accountability.md#contestability)۔
+- بالائی: [§11](#11-certification-record) (*ریکارڈ مندرجات*)؛ [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)، [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)، [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation)، [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)، [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation)، [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation)، [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation)، اور [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*کلاس، ڈیٹا، نقش، بین نظامی سہارا، عدمِ امتیاز، رسائی پذیری، تعلیمی صلاحیت، اور قابلِ اعتمادی جائزے کے ان پٹ*)؛ نگرانی پیمائش خاندان (*سچائی اور حقائق کی دیانت بطور آئینی پیمائش*)؛ بروقت کارروائی پیمائش خاندان (*بروقت حل اور تاخیر مخالف ضبط*)؛ باب دوم تا چہارم (*بوجھ، سراغ، تصدیق، اور ثبوت تحفظ*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **نگرانی**، **جوابدہی**، **شرکت**، اور **بروقت کارروائی**؛ [**Def.O1** *شفافیت، آڈٹ پذیری، اور تصدیق*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)؛ [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability)۔
 - زیریں: [§14](#14-supervisory-sequence-and-contestability-chain) (*نگرانی کی ترتیب اور چیلنج پذیری زنجیر*)؛ [§15](#15-relationship-to-standing) (*تصدیق شدہ ان پٹ دروازہ*)؛ [باب یازدهم §2.3](core_11_forum.md#23-forum-records-standing-records-and-contests) (*فورم کیس ریکارڈ، کیفیت ریکارڈ چیلنج*)؛ [باب یازدهم §5](core_11_forum.md#5-escalation-and-certification) (*بلندی اور سرٹیفیکیشن تفصیل*)۔
-- ساتھ پڑھیں: [دفعہ XVI: آڈٹ، شفافیت اور آزاد تصدیق](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)؛ [دفعہ XIII-B: چیلنج، جائزہ اور تدارک کا حق](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)؛ [ثبوت کا تحفظ](core_05_band_oversight.md#evidence-preservation)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — معلومات کی اقسام اور ہینڈلنگ** اور **CS-3 — نظام کی درجہ بندی اور ہینڈلنگ**؛ **CJS-3.4** (*درجہ دار شفافیت اور آڈٹ رسائی کی شرائط*)۔
+- ساتھ پڑھیں: [دفعہ XVI: آڈٹ، شفافیت اور آزاد تصدیق](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)؛ [دفعہ XIII-B: چیلنج، جائزہ اور تدارک کا حق](core_06_rights_part_c.md)؛ [ثبوت کا تحفظ](core_05_band_oversight.md#evidence-preservation)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — معلومات کی اقسام اور ہینڈلنگ** اور **CS-3 — نظام کی درجہ بندی اور ہینڈلنگ**؛ **CJS-3.4** (*درجہ دار شفافیت اور آڈٹ رسائی کی شرائط*)۔
 
 </details>
 
@@ -169,7 +169,7 @@
 
 - [شفافیت](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
 - [آڈٹ پذیری](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [چیلنج پذیری](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) · [O](../../core_05.035_band_accountability.md#contestability) · [M](../../core_05.035_band_accountability.md#contestability-a) · [A](../../core_05.035_band_accountability.md#contestability-a) · [C](../../core_05.035_band_accountability.md#contestability-c)
 
 </details>
 
@@ -177,7 +177,7 @@
 
 *سادہ الفاظ میں: سرٹیفیکیشن ریکارڈ تب ہی کام کرتا ہے جب شعوری وجود اسے پڑھ سکیں، جانچ سکیں، اور غلط ہونے پر پیچھے دھکیل سکیں۔ یہ قطعہ وہ تین تقاضے — شفافیت، آڈٹ پذیری، اور چیلنج پذیری — خود ریکارڈ پر رکھتا ہے، مجرد آئیڈیل کے طور پر نہیں۔ چوکڑی کی **نگرانی** ٹانگ کے تحت نگرانی آڈٹ مانگتی ہے؛ نظام ہم آہنگی سرٹیفیکیشن ایک خاص طور پر بڑا آڈٹ عمل ہے جسے وہ تہیں یہاں پوری کرنی چاہئیں — یہ **دفعہ XVI** یا بہن آڈٹ طریقوں کا مالک یا بدل نہیں۔*
 
-یہ قطعہ نظام ہم آہنگی سرٹیفیکیشن ریکارڈ پر [شفافیت](core_05_band_oversight.md#transparency)، [آڈٹ پذیری](core_05_band_oversight.md#auditability)، اور [چیلنج پذیری](core_05_band_accountability.md#contestability) لاگو کرتا ہے۔ مستند اصطلاح گھر اور مالک حدیں [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-principles-definitions-and-rights) اور [اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#owner-non-relocation) کے تحت ہیں۔ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کے تحت:
+یہ قطعہ نظام ہم آہنگی سرٹیفیکیشن ریکارڈ پر [شفافیت](core_05_band_oversight.md#transparency)، [آڈٹ پذیری](core_05_band_oversight.md#auditability)، اور [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) لاگو کرتا ہے۔ مستند اصطلاح گھر اور مالک حدیں [تمہید — مثبت مالک رجسٹر](core_00_preamble.md#4-principles-definitions-and-rights) اور [اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#owner-non-relocation) کے تحت ہیں۔ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) کے تحت:
 
 - **شفافیت** اور **آڈٹ پذیری** **نگرانی** عمل میں لاتے ہیں؛
 - **چیلنج پذیری** **جوابدہی** عمل میں لاتی ہے اور چیلنج راستوں میں **شرکت** بچاتی ہے؛
@@ -201,7 +201,7 @@
 
 - سرٹیفیکیشن ریکارڈ باب دوم تا چہارم اور [ثبوت کا تحفظ](core_05_band_oversight.md#evidence-preservation) کے تحت قابلِ انتساب، دوبارہ تعمیر کے قابل، اور آزاد جائزے کے قابل ہونا چاہیے؛
 - اسے پہچاننا چاہیے:
-  - کس نے ہر مادی جزو جاری، اختیار، بھیجا، سرٹیفائی، [توقف](core_05_band_accountability.md#stay) دیا، یا جائزہ لیا؛
+  - کس نے ہر مادی جزو جاری، اختیار، بھیجا، سرٹیفائی، [توقف](../../core_05.035_band_accountability.md#stay) دیا، یا جائزہ لیا؛
   - کس ثبوت پر مادی انحصار کیا گیا؛
   - ورژنوں کے درمیان کیا بدلا؛
 - آڈٹ دائرہ اتنا ہونا چاہیے کہ پرکھا جا سکے ریکارڈ شدہ نتیجہ ریکارڈ شدہ ثبوت اور مفروضوں سے نکلتا ہے یا نہیں؛
@@ -220,7 +220,7 @@
 - چیلنج میکانزم کارآمد اور رسائی پذیر ہونے چاہئیں، رسمی رسم نہیں؛
 - چیلنج کو یہ کر سکنا چاہیے:
   - جائزہ دوبارہ کھولنا؛
-  - جہاں مادی غلطی یا دیانت خطرہ معتبر طور پر دکھے وہاں انحصار [توقف](core_05_band_accountability.md#stay) یا محدود کرنا؛
+  - جہاں مادی غلطی یا دیانت خطرہ معتبر طور پر دکھے وہاں انحصار [توقف](../../core_05.035_band_accountability.md#stay) یا محدود کرنا؛
   - اس فورم خاندان کی طرف رخ کرنا جسے چیلنج شدہ نکتے پر جائز اصل اختیار ہو؛
 - چیلنج پذیری فرائض نظام کلاس اور مادی اثر کے ساتھ پیمانہ ہوتے ہیں؛
 - وہ اس لیے غائب نہیں ہوتے کہ نظام تجرباتی، داخلی، ذاتی، الگ تھلگ، یا صرف تکنیکی لیبل ہو جہاں مادی اثر موجود ہو۔
@@ -260,30 +260,30 @@
 
 - **تکنیکی فورم** — تکنیکی ٹکڑا:
   - اپنے جائز دائرے میں تکنیکی وضاحتیں، پیمائش طریقے، ٹیسٹ پروٹوکول، ماہر ثبوت معیار، غیر یقینی کم کرنے کے طریقے، اور تکنیکی موزونیت دریافتیں قائم رکھنا اور لاگو کرنا؛
-  - سرٹیفیکیشن ریکارڈ کے لیے **جزو دریافتیں** دینا، بشمول [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) اور [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) کے تحت کلاس-پیمانہ یقین دہانی اور ڈیٹا ہینڈلنگ بنیادی ڈھانچہ دریافتیں؛
-  - [شعوریت کی حیثیت کا فیصلہ](core_05_band_participation.md#sentience-status-adjudication-constitutional) جزو کردار رکھنا — اشارہ جائزہ، ماہر ثبوت، اور محدود غیر یقینی — جہاں سرٹیفیکیشن مادی طور پر یہ پوچھے کون حقوق، کیفیت، یا حفاظت کے لیے **شعوری وجود** شمار ہوتا ہے، [دفعہ V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*شعوریت کی حیثیت کے فیصلے کی تہہ*) اور [باب یازدهم §4.2](core_11_forum.md#42-technical-forum-domains) / [§5](core_11_forum.md#5-escalation-and-certification) (*شعوریت کی حیثیت کا فیصلہ* ہک) کے مطابق طے شدہ لیڈ کے طور پر؛ جب باب یازدهم مانگے تو اس ہک کے تحت سالمیت، ادارہ جاتی، یا آئینی خاص راستوں کی طرف بھیجیں۔
+  - سرٹیفیکیشن ریکارڈ کے لیے **جزو دریافتیں** دینا، بشمول [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) اور [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) کے تحت کلاس-پیمانہ یقین دہانی اور ڈیٹا ہینڈلنگ بنیادی ڈھانچہ دریافتیں؛
+  - [شعوریت کی حیثیت کا فیصلہ](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) جزو کردار رکھنا — اشارہ جائزہ، ماہر ثبوت، اور محدود غیر یقینی — جہاں سرٹیفیکیشن مادی طور پر یہ پوچھے کون حقوق، کیفیت، یا حفاظت کے لیے **شعوری وجود** شمار ہوتا ہے، [دفعہ V-E](core_06_rights_part_b.md) (*شعوریت کی حیثیت کے فیصلے کی تہہ*) اور [باب یازدهم §4.2](core_11_forum.md#42-technical-forum-domains) / [§5](core_11_forum.md#5-escalation-and-certification) (*شعوریت کی حیثیت کا فیصلہ* ہک) کے مطابق طے شدہ لیڈ کے طور پر؛ جب باب یازدهم مانگے تو اس ہک کے تحت سالمیت، ادارہ جاتی، یا آئینی خاص راستوں کی طرف بھیجیں۔
 - **سالمیت فورم** — طے شدہ لیڈ ہم آہنگی:
   - رسمی آئینی ہم آہنگی تسلیم اور جاری ہم آہنگی توثیق کی قیادت جب تک باب یازدهم مختلف بنیادی داؤ تفویض نہ کرے؛
   - تکنیکی فورم معیار استعمال کرنا جہاں مادی طور پر لاگو ہوں؛
-  - دوسرے فورم خاندانوں کے جزو سوال [§14](#14-supervisory-sequence-and-contestability-chain) کے مطابق بھیجنا، سرٹیفائی کرنا، یا [توقف](core_05_band_accountability.md#stay) دینا۔
+  - دوسرے فورم خاندانوں کے جزو سوال [§14](#14-supervisory-sequence-and-contestability-chain) کے مطابق بھیجنا، سرٹیفائی کرنا، یا [توقف](../../core_05.035_band_accountability.md#stay) دینا۔
 - **ماحولیاتی فورم** — ماحولیاتی ہم آہنگی جب ماحولیات معنی رکھے:
   - ماحولیاتی ہم آہنگی جزو کردار رکھنا جہاں مادی ماحولیاتی انکشاف، ماحولیاتی پیش شرائط انحصار، زندگی سائیکل بوجھ، بحالی فرض، یا معقول طور پر پیش بینی ماحولیاتی خطرہ موجود ہو؛
-  - جہاں قابلِ انتساب ماحولیاتی بوجھ مادی ہوں [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) کے تحت [ماحولیاتی نقش](core_05_band_continuity.md#ecological-footprint) انتساب، انکشاف، اور موازنہ شامل کرنا۔
+  - جہاں قابلِ انتساب ماحولیاتی بوجھ مادی ہوں [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) کے تحت [ماحولیاتی نقش](../../core_05.040_band_continuity.md#ecological-footprint) انتساب، انکشاف، اور موازنہ شامل کرنا۔
 - **شعوری فورم** — غیر ادارہ جاتی متاثر فریق سوال:
   - متاثر فریق اثر اور برادری فرض جزو کردار صرف وہاں رکھنا جہاں باب یازدهم کی بنیادی داؤ رخ بندی معاملہ شعوری فورم میں رکھے — عام طور پر شعوری-تا-شعوری یا برادری حکمرانی سوال جہاں **کوئی ادارہ ضروری فریق نہیں**؛
-  - جہاں [شعوریت کی حیثیت کا فیصلہ](core_05_band_participation.md#sentience-status-adjudication-constitutional) تکنیکی طے شدہ لیڈ کے تحت چلے وہاں متاثر فریق شرکت پر مدد یا حوالہ لے سکتے ہیں، مگر **طے شدہ** کے طور پر وہ فیصلہ جزو کردار **نہیں** رکھتے؛
+  - جہاں [شعوریت کی حیثیت کا فیصلہ](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) تکنیکی طے شدہ لیڈ کے تحت چلے وہاں متاثر فریق شرکت پر مدد یا حوالہ لے سکتے ہیں، مگر **طے شدہ** کے طور پر وہ فیصلہ جزو کردار **نہیں** رکھتے؛
   - جب ادارہ، ادارہ جاتی آپریٹر، یا ادارہ جاتی مینڈیٹ ضروری فریق یا بنیادی داؤ ہو تو نظام ہم آہنگی کے لیے حقوق کی تہہ کا طے شدہ جزو کردار **نہیں** رکھتے؛ وہ سوال نیچے **ادارہ جاتی** کے تحت رخ پاتے ہیں۔
 - **ادارہ جاتی فورم** — ادارہ جاتی مینڈیٹ اور حقوق کی تہہ جزو سوال جب ادارے تصویر میں ہوں:
   - ادارہ جاتی مینڈیٹ، زیرِ نگرانی دائرہ، درجہ بندی، اور ادارہ جاتی فرض اطاعت کے لیے جزو اختیار رکھنا جہاں وہ داؤ سرٹیفیکیشن میں اٹھیں؛
   - فیصلہ کرنا کہ سرٹیفیکیشن آئینی طور پر محفوظ تہیں بچائے گی یا ہرائے گی جب وہ تہیں مادی طور پر شامل ہوں اور ادارہ ضروری فریق ہو، آپریٹر یا ذمہ دار انتظام ادارہ جاتی ہو، یا ادارہ جاتی مینڈیٹ یا زیرِ نگرانی اطاعت بنیادی داؤ ہو، بشمول:
     - **بقا کی ضروری چیزیں** **دفعہ III-A** (*بقا*) کے تحت؛
     - **تعلیمی رسائی** **دفعہ III-B** (*برابر تعلیمی رسائی*) کے تحت؛
-    - **شعوری وجود مرکز تعلیمی صلاحیت** **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کے تحت — بشمول [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) کے تحت جائزہ جہاں وہ مادیت محرک لاگو ہو؛
-    - **عدمِ امتیاز تہیں** **دفعہ V-B** (*عدمِ امتیاز*) کے تحت — بشمول [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) کے تحت جائزہ جہاں وہ مادیت محرک لاگو ہو؛
-    - **رسائی پذیری تہیں** **دفعہ V-G** (*رسائی پذیری*) کے تحت — بشمول [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) کے تحت جائزہ جہاں وہ مادیت محرک لاگو ہو؛
-    - **قابلِ اعتماد اور معتبر نظام رویہ** **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کے تحت — بشمول [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) کے تحت جائزہ جہاں وہ مادیت محرک لاگو ہو؛
-    - **وسیلہ تقسیم اور انحصار تہیں** **دفعہ IV** (*وسیلہ تقسیم، انحصار، اور ماحولیاتی نظام فنڈنگ*) کے تحت — بشمول [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) کے تحت [متناسب بین نظامی حصہ](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) جہاں مادی طور پر شامل ہو؛
-    - **حفاظت متعلق تہیں** **دفعہ XIII-A** (*قابلِ اعتمادی اور اعتبار کی بنیاد*) اور [**محفوظ حالات**](core_05_band_continuity.md#safe-conditions-constitutional) کے تحت جہاں مادی طور پر شامل ہوں۔
+    - **شعوری وجود مرکز تعلیمی صلاحیت** **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کے تحت — بشمول [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) کے تحت جائزہ جہاں وہ مادیت محرک لاگو ہو؛
+    - **عدمِ امتیاز تہیں** **دفعہ V-B** (*عدمِ امتیاز*) کے تحت — بشمول [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) کے تحت جائزہ جہاں وہ مادیت محرک لاگو ہو؛
+    - **رسائی پذیری تہیں** **دفعہ V-G** (*رسائی پذیری*) کے تحت — بشمول [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) کے تحت جائزہ جہاں وہ مادیت محرک لاگو ہو؛
+    - **قابلِ اعتماد اور معتبر نظام رویہ** **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کے تحت — بشمول [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) کے تحت جائزہ جہاں وہ مادیت محرک لاگو ہو؛
+    - **وسیلہ تقسیم اور انحصار تہیں** **دفعہ IV** (*وسیلہ تقسیم، انحصار، اور ماحولیاتی نظام فنڈنگ*) کے تحت — بشمول [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) کے تحت [متناسب بین نظامی حصہ](../../core_05.040_band_continuity.md#proportionate-cross-system-support-constitutional) جہاں مادی طور پر شامل ہو؛
+    - **حفاظت متعلق تہیں** **دفعہ XIII-A** (*قابلِ اعتمادی اور اعتبار کی بنیاد*) اور [**محفوظ حالات**](../../core_05.040_band_continuity.md#safe-conditions-constitutional) کے تحت جہاں مادی طور پر شامل ہوں۔
 - **آئینی** اور دیگر باقاعدہ فورم خاندان — آئینی اور باقی داؤ:
   - آئینی صحت، معنی، کلاس بھر ساختی تدارک، یا دیگر بنیادی داؤ سوال جو باب یازدهم اوپر خاندانوں سے باہر تفویض کرے ان کے لیے تفویض شدہ جزو اختیار رکھتے ہیں؛
   - سرٹیفیکیشن عمل تکنیکی مہارت یا سالمیت ہم آہنگی کو وہ تفویض شدہ اصل کردار ہٹانے نہیں دینا چاہیے۔
@@ -297,7 +297,7 @@
 
 - بالائی: [§11](#11-certification-record) (*ریکارڈ مندرجات*)؛ [§12](#12-transparency-auditability-and-contestability) (*ریکارڈ دیانت تقاضے*)؛ [§13](#13-forum-supervision-and-component-roles) (*جزو کردار تفویض*)؛ بروقت کارروائی پیمائش خاندان (*بروقت حل اور تاخیر مخالف ضبط*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — **شرکت**، **نگرانی**، **جوابدہی**، اور **بروقت کارروائی**؛ [باب یازدهم §4](core_11_forum.md#4-forum-family-definitions) (*سالمیت-لیڈ ہم آہنگی تسلیم، جزو حوالہ، اور توثیق*)؛ [باب یازدهم §3](core_11_forum.md#3-transfer-consolidation-and-coordination) (*سالمیت-لیڈ ہم آہنگی تنظیم اور خود-فیصلہ مخالف*)۔
 - زیریں: [§15](#15-relationship-to-standing) (*تصدیق شدہ ان پٹ دروازہ*)؛ [§16](#16-reopening-drift-and-non-evasion) (*دوبارہ کھولنے کے محرکات*)؛ [باب یازدهم §5](core_11_forum.md#5-escalation-and-certification) (*خاندان تا خاندان بلندی اور آئینی سرٹیفیکیشن*)۔
-- ساتھ پڑھیں: باب یازدهم §1 کے تحت [تنازعے کی ترتیب](core_11_forum.md#dispute-sequencing)؛ [تمہید §3.3](core_00_preamble.md#33-governance-layers)؛ [corpus_forum.md](../../corpus_forum.md)، **CF-5** اور **CF-7**؛ [دفعہ XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*چیلنج، جائزہ اور تدارک کا حق*)۔
+- ساتھ پڑھیں: باب یازدهم §1 کے تحت [تنازعے کی ترتیب](core_11_forum.md#dispute-sequencing)؛ [تمہید §3.3](core_00_preamble.md#33-governance-layers)؛ [corpus_forum.md](../../corpus_forum.md)، **CF-5** اور **CF-7**؛ [دفعہ XIII-B](core_06_rights_part_c.md) (*چیلنج، جائزہ اور تدارک کا حق*)۔
 
 </details>
 
@@ -328,12 +328,12 @@
 
 1. **لیڈ ہم آہنگی:** ایک **سالمیت** فورم رسمی آئینی ہم آہنگی تسلیم، توثیق، دوبارہ توثیق، واپسی، یا عدمِ تسلیم کے لیے ایک ہم آہنگ سرٹیفیکیشن ریکارڈ رکھتا ہے جب تک باب یازدهم بنیادی داؤ کے لیے مختلف جائز لیڈ تفویض نہ کرے۔
 2. **جزو دریافتیں:** تکنیکی، ماحولیاتی، ادارہ جاتی، شعوری، آئینی، اور دیگر تفویض شدہ فورم خاندان اپنے جائز اصل اختیار کے اندر محدود جزو دریافتیں پیدا کرتے ہیں:
-   - **تکنیکی فورم** وضاحتیں، طریقے، ٹیسٹ، اور تکنیکی موزونیت دریافتیں دیتے ہیں — بشمول [شعوریت کی حیثیت کا فیصلہ](core_05_band_participation.md#sentience-status-adjudication-constitutional) جزو دریافتیں جہاں [§13](#13-forum-supervision-and-component-roles) وہ داؤ تفویض کرے؛
-   - **ماحولیاتی فورم** مطلوب ماحولیاتی ہم آہنگی جزو دریافتیں دیتے ہیں جہاں مادی ماحولیاتی انکشاف ہو — بشمول [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) کے تحت [ماحولیاتی نقش](core_05_band_continuity.md#ecological-footprint) جائزہ جہاں قابلِ انتساب ماحولیاتی بوجھ مادی ہوں؛
+   - **تکنیکی فورم** وضاحتیں، طریقے، ٹیسٹ، اور تکنیکی موزونیت دریافتیں دیتے ہیں — بشمول [شعوریت کی حیثیت کا فیصلہ](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional) جزو دریافتیں جہاں [§13](#13-forum-supervision-and-component-roles) وہ داؤ تفویض کرے؛
+   - **ماحولیاتی فورم** مطلوب ماحولیاتی ہم آہنگی جزو دریافتیں دیتے ہیں جہاں مادی ماحولیاتی انکشاف ہو — بشمول [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) کے تحت [ماحولیاتی نقش](../../core_05.040_band_continuity.md#ecological-footprint) جائزہ جہاں قابلِ انتساب ماحولیاتی بوجھ مادی ہوں؛
    - **ادارہ جاتی فورم** مطلوب ادارہ جاتی مینڈیٹ اور حقوق کی تہہ جزو دریافتیں دیتے ہیں جہاں [§13](#13-forum-supervision-and-component-roles) وہ داؤ تفویض کرے؛
    - **شعوری فورم** غیر ادارہ جاتی متاثر فریق اثر دریافتیں دیتے ہیں جہاں باب یازدهم وہ داؤ شعوری فورم میں رکھے؛
    - **آئینی** اور دیگر تفویض شدہ فورم خاندان ان داؤ کے لیے جزو دریافتیں دیتے ہیں جو باب یازدهم انہیں تفویض کرے۔
-3. **حوالہ، سرٹیفیکیشن، اور توقف:** لیڈ فورم کو وہ جزو سوال بھیجنے، سرٹیفائی کرنے، یا [توقف](core_05_band_accountability.md#stay) دینے چاہئیں جو بنیادی طور پر دوسرے فورم خاندان کے ہیں۔ وہ سرٹیفیکیشن ختم نہیں کہہ سکتا — نہ شرائط کافی حد تک اٹھا سکتا — جب دوسرے فورم خاندان کا تفویض شدہ کام ابھی ادھورا ہو۔ وہ ادھورا کام شامل ہے:
+3. **حوالہ، سرٹیفیکیشن، اور توقف:** لیڈ فورم کو وہ جزو سوال بھیجنے، سرٹیفائی کرنے، یا [توقف](../../core_05.035_band_accountability.md#stay) دینے چاہئیں جو بنیادی طور پر دوسرے فورم خاندان کے ہیں۔ وہ سرٹیفیکیشن ختم نہیں کہہ سکتا — نہ شرائط کافی حد تک اٹھا سکتا — جب دوسرے فورم خاندان کا تفویض شدہ کام ابھی ادھورا ہو۔ وہ ادھورا کام شامل ہے:
    - مطلوب دریافت؛
    - اعتراض؛
    - تدارک شرط؛ یا
@@ -352,7 +352,7 @@
 <a id="142-contestability-paths"></a>
 **چیلنج پذیری راستے۔** نظام سرٹیفیکیشن ریکارڈ کو یہ چیلنج راستے نامزد کرنے چاہئیں۔ وہ سرٹیفیکیشن ریکارڈ کے لیے تنازعے کی ترتیب عمل میں لاتے ہیں۔ وہ فورم خاندان نہیں اور باب یازدهم رخ بندی کی جگہ نہیں لیتے۔
 
-- **شائع شدہ ریکارڈ چیلنج راستہ** — سرٹیفیکیشن ریکارڈ پر عام تنازعے کا عام پہلا قدم۔ ریکارڈ [متاثر فریقوں کی نظامی شرکت](core_05_band_participation.md#stakeholder-status-and-weight-cluster) چیلنج نشست نامزد کرتا ہے:
+- **شائع شدہ ریکارڈ چیلنج راستہ** — سرٹیفیکیشن ریکارڈ پر عام تنازعے کا عام پہلا قدم۔ ریکارڈ [متاثر فریقوں کی نظامی شرکت](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) چیلنج نشست نامزد کرتا ہے:
   - چیلنج کون وصول کرتا ہے؛
   - اسے کیسے داخل کریں؛ اور
   - کہ **دفعہ XXV-C** (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت گھڑیاں وصولی سے چلتی ہیں۔
@@ -367,10 +367,10 @@
 چیلنج پذیری زنجیر ان راستوں کو اس ترتیب میں استعمال کرتی ہے:
 
 1. **ریکارڈ چیلنج** (شائع شدہ ریکارڈ چیلنج راستہ)۔ متاثر فریق [§12](#12-transparency-auditability-and-contestability) کے تحت سرٹیفیکیشن ریکارڈ مواد، دائرہ، درجہ بندی مفروضے، ثبوت انحصار، نتیجہ، انحصار حدیں، یا نگرانی دیانت چیلنج کر سکتے ہیں۔ اگر وہ راستہ اب بھی متنازع، غائب، قبضے میں، یا مطلوب راحت نہ دے سکے تو باب یازدهم بنیادی داؤ سے رخ بندی کرتا ہے۔
-2. **جزو چیلنج** (جزو فورم راستہ)۔ جزو دریافت تک محدود چیلنج اس فورم خاندان کی طرف رخ پاتا ہے جسے اس جزو پر اصل اختیار ہو۔ لیڈ فورم بروقت جائزے تک چیلنج شدہ جزو پر انحصار [توقف](core_05_band_accountability.md#stay) دے سکتا ہے۔
+2. **جزو چیلنج** (جزو فورم راستہ)۔ جزو دریافت تک محدود چیلنج اس فورم خاندان کی طرف رخ پاتا ہے جسے اس جزو پر اصل اختیار ہو۔ لیڈ فورم بروقت جائزے تک چیلنج شدہ جزو پر انحصار [توقف](../../core_05.035_band_accountability.md#stay) دے سکتا ہے۔
 3. **لیڈ-ہم آہنگی چیلنج** (لیڈ-سالمیت راستہ)۔ لیڈ فورم نے عمل کیسے چلایا اس پر چیلنج [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) سالمیت اور خود-فیصلہ مخالف قواعد کے تحت رخ پاتا ہے۔ اس میں قبضہ، چھپی معلومات، خود جائزہ، قدم ترتیب کا غلط استعمال، سرٹیفیکیشن بہت جلد ختم کہنا، یا دیگر لیڈ-فورم دیانت مسائل شامل ہیں۔ جب چیلنج اسی لیڈ فورم کے اپنے تعصب، قبضے، تصادم، یا عمل غلط استعمال کو نشانہ بنائے تو ان قواعد کے تحت بیک اپ رخ بندی لاگو ہوتی ہے تاکہ جائزہ اسی لیڈ فورم تک محدود نہ رہے۔
 4. **بلندی اور سرٹیفیکیشن** (بلندی راستہ)۔ جہاں بنیادی داؤ، آئینی صحت، ساختی تدارک، خاندانی تعطل، یا خود-فیصلہ مخالف حفاظت مانگے، چیلنج رخ بندی باب یازدهم منتقلی، سرٹیفیکیشن، بیک اپ رخ بندی، اور خاندان تا خاندان بلندی سے جاری رہتی ہے۔
-5. **چیلنج کے دوران انحصار حدیں:** مادی اور بروقت چیلنج سرٹیفیکیشن ریکارڈ پر انحصار اتنی حد تک محدود یا روک سکتا ہے جتنی پیش بینی نقصان روکنے، ثبوت بچانے، یا چیلنج شدہ دریافت پر ناقابلِ واپسی انحصار روکنے کے لیے ضروری ہو، [دفعہ XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت فوری جائزے کے تابع۔
+5. **چیلنج کے دوران انحصار حدیں:** مادی اور بروقت چیلنج سرٹیفیکیشن ریکارڈ پر انحصار اتنی حد تک محدود یا روک سکتا ہے جتنی پیش بینی نقصان روکنے، ثبوت بچانے، یا چیلنج شدہ دریافت پر ناقابلِ واپسی انحصار روکنے کے لیے ضروری ہو، [دفعہ XXV-C](core_06_rights_part_d.md) (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت فوری جائزے کے تابع۔
 
 سرٹیفیکیشن ریکارڈ کو چیلنج پذیری زنجیر بیان کرنی چاہیے — متاثر فریق ہر قدم پر کیسے چیلنج کر سکتے ہیں — اور نامزد چیلنج پذیری راستے۔
 
@@ -389,7 +389,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [§11](#11-certification-record) تا [§13](#13-forum-supervision-and-component-roles) (*سرٹیفیکیشن ریکارڈ اور فورم نگرانی*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ [کیفیت کے لیے تصدیق شدہ ان پٹ](core_05_band_accountability.md#verified-inputs-for-standing)۔
+- بالائی: [§11](#11-certification-record) تا [§13](#13-forum-supervision-and-component-roles) (*سرٹیفیکیشن ریکارڈ اور فورم نگرانی*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad)؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims)؛ [کیفیت کے لیے تصدیق شدہ ان پٹ](../../core_05.035_band_accountability.md#verified-inputs-for-standing)۔
 - زیریں: [باب ہشتم](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*کیفیت ریکارڈ اور تصدیق شدہ ان پٹ دروازہ*)؛ [باب نہم](../../core_11_standing_integration.md#chapter-eleven-standing-effects-and-integration) (*کیفیت اثرات اور انضمام*)۔
 - ساتھ پڑھیں: **دفعہ III-A** (*بقا کی ضروری رسائی جہاں سرٹیفیکیشن ترسیل گیٹ کرے*)۔
 
@@ -407,13 +407,13 @@
 **تصدیق شدہ ان پٹ دروازہ۔** سرٹیفیکیشن ریکارڈ باب ہشتم کیفیت تب کھلا سکتا ہے جب وہ محدود، سراغ کے قابل، چیلنج کے قابل، اور ان کے تحت تصدیق شدہ ہو:
 
 - [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*نظام کلاس*)؛
-- [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*ڈیٹا اقسام اور ہینڈلنگ*)؛
-- [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) جہاں مادی ہو؛
-- [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) جہاں **دفعہ IV** (*وسیلہ تقسیم، انحصار، اور ماحولیاتی نظام فنڈنگ*) کا مادیت محرک لاگو ہو؛
-- [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) جہاں **دفعہ V-B** (*عدمِ امتیاز*) کا مادیت محرک لاگو ہو؛
-- [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) جہاں **دفعہ V-G** (*رسائی پذیری*) کا مادیت محرک لاگو ہو؛
-- [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) جہاں **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کا مادیت محرک لاگو ہو؛
-- [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) جہاں **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کا مادیت محرک لاگو ہو؛
+- [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) (*ڈیٹا اقسام اور ہینڈلنگ*)؛
+- [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) جہاں مادی ہو؛
+- [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) جہاں **دفعہ IV** (*وسیلہ تقسیم، انحصار، اور ماحولیاتی نظام فنڈنگ*) کا مادیت محرک لاگو ہو؛
+- [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) جہاں **دفعہ V-B** (*عدمِ امتیاز*) کا مادیت محرک لاگو ہو؛
+- [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) جہاں **دفعہ V-G** (*رسائی پذیری*) کا مادیت محرک لاگو ہو؛
+- [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) جہاں **دفعہ VI** (*شعوری وجود مرکز تعلیم کا حق*) کا مادیت محرک لاگو ہو؛
+- [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) جہاں **دفعہ XIII** (*قابلِ اعتماد اور معتبر نظاموں کا حق*) کا مادیت محرک لاگو ہو؛
 - [§12](#12-transparency-auditability-and-contestability) اور [§14](#14-supervisory-sequence-and-contestability-chain)؛
 - باب دوم تا چہارم، اور لاگو باب یازدهم عمل۔
 
@@ -463,9 +463,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*غلط درجہ بندی اور عدمِ ہم آہنگی*)؛ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*خطرہ جائزہ اور خطرہ انکشاف نقائص*)؛ [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*نقش غلط بیانی اور عدمِ ہم آہنگی*)؛ [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*وسیلہ بہاؤ غلط بیانی، نکاس عدمِ ہم آہنگی، اور سہارا کی کمی*)؛ [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) (*امتیاز نمونے کی عدمِ ہم آہنگی اور متبادل فرار*)؛ [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*رسائی پذیری عدمِ ہم آہنگی اور صرف کاغذی سہولت*)؛ [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) (*جائزہ دھند عدمِ ہم آہنگی، سند گیٹ کیپنگ، اور مسلط فرسودگی عدمِ ہم آہنگی*)؛ [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*جھوٹا اعتماد عدمِ ہم آہنگی، بگڑا محرک عدمِ ہم آہنگی، اور بحالی دیانت عدمِ ہم آہنگی*)؛ [§12](#12-transparency-auditability-and-contestability) (*چیلنج پذیری*)؛ [§14](#14-supervisory-sequence-and-contestability-chain) (*معتبر چیلنج اور دوبارہ کھولنا*)؛ [باب سوم §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) اور [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*تعریف سالمیت اور فرار*)؛ [باب سوم §2.1 عام فرار نمونے](core_03_definition_integrity.md#21-common-evasion-patterns) (*دائرہ-اور-سرحد فرار*)؛ [منشور](core_05_band_continuity.md#charter) (*منشور–رویہ عدمِ میل اور تاخیر شدہ جائزہ*)۔
+- بالائی: [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*غلط درجہ بندی اور عدمِ ہم آہنگی*)؛ [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) (*خطرہ جائزہ اور خطرہ انکشاف نقائص*)؛ [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) (*نقش غلط بیانی اور عدمِ ہم آہنگی*)؛ [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation) (*وسیلہ بہاؤ غلط بیانی، نکاس عدمِ ہم آہنگی، اور سہارا کی کمی*)؛ [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) (*امتیاز نمونے کی عدمِ ہم آہنگی اور متبادل فرار*)؛ [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) (*رسائی پذیری عدمِ ہم آہنگی اور صرف کاغذی سہولت*)؛ [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) (*جائزہ دھند عدمِ ہم آہنگی، سند گیٹ کیپنگ، اور مسلط فرسودگی عدمِ ہم آہنگی*)؛ [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) (*جھوٹا اعتماد عدمِ ہم آہنگی، بگڑا محرک عدمِ ہم آہنگی، اور بحالی دیانت عدمِ ہم آہنگی*)؛ [§12](#12-transparency-auditability-and-contestability) (*چیلنج پذیری*)؛ [§14](#14-supervisory-sequence-and-contestability-chain) (*معتبر چیلنج اور دوبارہ کھولنا*)؛ [باب سوم §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) اور [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*تعریف سالمیت اور فرار*)؛ [باب سوم §2.1 عام فرار نمونے](core_03_definition_integrity.md#21-common-evasion-patterns) (*دائرہ-اور-سرحد فرار*)؛ [منشور](../../core_05.040_band_continuity.md) (*منشور–رویہ عدمِ میل اور تاخیر شدہ جائزہ*)۔
 - زیریں: [باب یازدهم](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*دوبارہ کھلی فورم نگرانی*)؛ [باب ہشتم](../../core_10_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model) (*تصدیق شدہ ان پٹ دروازہ جہاں حقائق منفی دریافت سہارا دیں*)۔
-- ساتھ پڑھیں: [corpus_systems.md](../../corpus_systems.md) (*شامل نظام عمل درآمد فرائض*)، بشمول وقفہ وار ڈیٹا-قسم دوبارہ جائزے کے لیے **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*دوبارہ درجہ بندی اور زندگی سائیکل حکمرانی*)، اور نظام کلاس دوبارہ جائزہ محرکات اور SAC تصدیق کے لیے **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*دوبارہ درجہ بندی کا تقاضا*)۔
+- ساتھ پڑھیں: [corpus_systems.md](../../corpus_systems.md) (*شامل نظام عمل درآمد فرائض*)، بشمول وقفہ وار ڈیٹا-قسم دوبارہ جائزے کے لیے **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*دوبارہ درجہ بندی اور زندگی سائیکل حکمرانی*)، اور نظام کلاس دوبارہ جائزہ محرکات اور SAC تصدیق کے لیے **[CS-3 §3.5](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** (*دوبارہ درجہ بندی کا تقاضا*)۔
 
 </details>
 
@@ -484,18 +484,18 @@
   - متاثر فریق ثبوت؛
   - [§14](#14-supervisory-sequence-and-contestability-chain) کے تحت معتبر چیلنج؛
   - ماحولیاتی اعتراض؛
-  - نظام کلاس عدمِ ہم آہنگی یا **[CS-3 §3.5](../../corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** کے تحت تاخیر شدہ دوبارہ جائزہ؛
-  - ڈیٹا-قسم یا ہینڈلنگ عدمِ ہم آہنگی، **[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** کے تحت تاخیر شدہ یا چھوٹا وقفہ وار ڈیٹا-قسم دوبارہ جائزہ؛
+  - نظام کلاس عدمِ ہم آہنگی یا **[CS-3 §3.5](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)** کے تحت تاخیر شدہ دوبارہ جائزہ؛
+  - ڈیٹا-قسم یا ہینڈلنگ عدمِ ہم آہنگی، **[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** کے تحت تاخیر شدہ یا چھوٹا وقفہ وار ڈیٹا-قسم دوبارہ جائزہ؛
   - درجہ بندی عدمِ ہم آہنگی؛
-  - [منشور](core_05_band_continuity.md#charter) ترمیم، منشور–رویہ عدمِ میل، منشور دائرے سے مادی طور پر باہر عمل، یا تاخیر شدہ وقفہ وار منشور جائزہ؛
+  - [منشور](../../core_05.040_band_continuity.md) ترمیم، منشور–رویہ عدمِ میل، منشور دائرے سے مادی طور پر باہر عمل، یا تاخیر شدہ وقفہ وار منشور جائزہ؛
 - **دائرہ عدمِ ہم آہنگی** سرٹیفیکیشن ریکارڈ پر عکس، بشمول:
   - [§3.1](core_07_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) کے تحت مادی خطرہ جائزہ یا خطرہ انکشاف نقص یا عدمِ ہم آہنگی؛
-  - [§5](core_07_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) کے تحت مادی نقش غلط بیانی یا عدمِ ہم آہنگی؛
-  - [§7](core_07_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) کے تحت مادی امتیاز نمونے کی عدمِ ہم آہنگی یا متبادل فرار؛
-  - [§8](core_07_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) کے تحت مادی رسائی پذیری عدمِ ہم آہنگی یا صرف کاغذی سہولت؛
-  - [§9](core_07_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation) کے تحت مادی جائزہ دھند، سند گیٹ کیپنگ، یا مسلط فرسودگی عدمِ ہم آہنگی؛
-  - [§10](core_07_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) کے تحت مادی جھوٹا اعتماد، بگڑا محرک، یا بحالی دیانت عدمِ ہم آہنگی؛
-  - حصہ الف جائزے کی دیگر عدمِ ہم آہنگی جہاں متعلقہ مادیت محرک لاگو ہو — بشمول [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)، [§4](core_07_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)، اور [§6](core_07_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation)۔
+  - [§5](core_07_a_system_alignment_certification_evaluation.md#51-ecological-footprint-evaluation) کے تحت مادی نقش غلط بیانی یا عدمِ ہم آہنگی؛
+  - [§7](core_07_a_system_alignment_certification_evaluation.md#54-nondiscrimination-evaluation) کے تحت مادی امتیاز نمونے کی عدمِ ہم آہنگی یا متبادل فرار؛
+  - [§8](core_07_a_system_alignment_certification_evaluation.md#55-accessibility-evaluation) کے تحت مادی رسائی پذیری عدمِ ہم آہنگی یا صرف کاغذی سہولت؛
+  - [§9](core_07_a_system_alignment_certification_evaluation.md#52-educational-capability-and-learning-system-integrity-evaluation) کے تحت مادی جائزہ دھند، سند گیٹ کیپنگ، یا مسلط فرسودگی عدمِ ہم آہنگی؛
+  - [§10](core_07_a_system_alignment_certification_evaluation.md#56-trustworthiness-and-system-reliance-integrity-evaluation) کے تحت مادی جھوٹا اعتماد، بگڑا محرک، یا بحالی دیانت عدمِ ہم آہنگی؛
+  - حصہ الف جائزے کی دیگر عدمِ ہم آہنگی جہاں متعلقہ مادیت محرک لاگو ہو — بشمول [§2](core_07_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)، [§4](core_07_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)، اور [§6](core_07_a_system_alignment_certification_evaluation.md#53-proportionate-cross-system-support-evaluation)۔
 
 **دوبارہ کھولنا کیوں معنی رکھتا ہے۔** عدمِ ہم آہنگی، انحصار بڑھنے، یا معتبر چیلنج پر دوبارہ کھولنا [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) کے تحت **استمرار** مقصد بچاتا ہے جہاں مشترکہ نظام بقا کی ضروری چیزوں، تعلیمی رسائی، صلاحیت سازی راستوں، معتبر انحصار، یا حفاظت کی پائیدار ترسیل گیٹ کرتے ہیں۔ پرانی سرٹیفیکیشن موجودہ حقوق کی تہہ اطاعت کا بدل نہیں بننی چاہیے۔
 

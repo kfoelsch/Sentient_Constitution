@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [అధ్యాయం ఐదు దిక్సూచి](core_05__definitions_home.md#అధయయ-ఐద-దకసచ-మరయ-నరవచన-మయప); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) (పాల్గొనడం కాలు; [భౌతిక పందెం](core_00_preamble.md#material-stake)కు స్కేల్); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims); ప్రాథమిక లక్ష్యం [సమున్నతి](core_00_preamble.md#flourishing).
-- గమ్యం: సూత్రాలు: [ప్రస్తావన §1 నమూనా](core_00_preamble.md#the-model); [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 రాజ్యాంగ ఫలిత వాదనల క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం](../../core_05.055_band_participation.md#stakeholder-status-and-weight) ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం పొర వర్తించే చోట; [చతుష్టయం కాలు విభజన](#participation-tetrad-leg-decomposition); పాల్గొనడం-బ్యాండ్ ఆకు నిర్వచనాలు [core_05_band_participation.md](../../core_05.055_band_participation.md)లో.
+- గమ్యం: సూత్రాలు: [ప్రస్తావన §1 నమూనా](core_00_preamble.md#the-model); [అధ్యాయం ఒకటి §5 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md); [§11.1.5 రాజ్యాంగ ఫలిత వాదనల క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం](../../core_05.055_band_participation.md#stakeholder-status-and-weight) ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం పొర వర్తించే చోట; [చతుష్టయం కాలు విభజన](#participation-tetrad-leg-decomposition); పాల్గొనడం-బ్యాండ్ ఆకు నిర్వచనాలు [core_05_band_participation.md](../../core_05.055_band_participation.md)లో.
 - దీనితో చదవండి: [అర్థవంతమైన కర్తృత్వం](../../core_05.055_band_participation.md#meaningful-agency), [సవాలు-యోగ్యత](../../core_05.035_band_accountability.md#contestability) (పాల్గొనడం/జవాబుదారీతనం సరిహద్దు), [ప్రవేశ్యత](../../core_05.055_band_participation.md#accessibility), [వాస్తవిక న్యాయం](../../core_05.055_band_participation.md#substantive-fairness), [బంధనీయ ప్రభావిత-పక్ష ఎంపిక](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [సమయబద్ధత](core_05_apex_timeliness_leg.md#timeliness-constitutional) (సమయబద్ధ పాల్గొనడం), [వర్గీకరణ-స్కేల్ పాలన](../../core_05.050_band_oversight.md#classification-scaled-governance), మరియు పాల్గొనడం కొలత కుటుంబం.
 
 </details>
@@ -61,7 +61,7 @@
     - [వాస్తవిక న్యాయం](../../core_05.055_band_participation.md#substantive-fairness);
     - [ప్రభావిత పక్ష బరువు](../../core_05.055_band_participation.md#stakeholder-weight);
     - [వ్యవస్థ స్వాధీనం](../../core_05.040_band_continuity.md#system-capture); మరియు
-    - [అధ్యాయం ఒకటి §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [అధ్యాయం ఒకటి §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: అనుసరణ-కాదు ఎప్పుడు:
   - నిర్మాణాత్మక మినహాయింపు ఉంది;

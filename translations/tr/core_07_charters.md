@@ -470,7 +470,7 @@ Sistem Şartının veya Kurumsal Şartın bazı bölümleri sınıfla birlikte, 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı akış: [§3](#3-hangi-sistem-ve-kurumsal-şartlarda-belirtilmesi-gerekiyor); [Sekizinci Bölüm §2 Dört Koltuklu Anayasa Katı](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- Yukarı akış: [§3](#3-hangi-sistem-ve-kurumsal-şartlarda-belirtilmesi-gerekiyor); [Sekizinci Bölüm §2 Dört Koltuklu Anayasa Katı](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - Aşağı akış:
   - [Sekizinci Bölüm §5 Yayınlanmış Yerleştirme, Boş Pozisyon ve Oyuncu Değiştirme](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [Dokuzuncu Bölüm Kısım B §6.1.1 Sertifikasyonda dört koltuk](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -500,7 +500,7 @@ Her Sistem Şartı veya Kurumsal Şart, bir [Charter Rol Haritası](../../core_0
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 Koltuklar nedir ve neden varlar
 
-Her [Maddi Bağlayıcı Kanun](../../core_05.035_band_accountability.md#materially-binding-act) dört işi var ve [Sekizinci Bölüm §2 Dört Koltuklu Anayasa Katı](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) onları ayrı tutar:
+Her [Maddi Bağlayıcı Kanun](../../core_05.035_band_accountability.md#materially-binding-act) dört işi var ve [Sekizinci Bölüm §2 Dört Koltuklu Anayasa Katı](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) onları ayrı tutar:
 
 - **[Koltuk Başlatılıyor](../../core_05.035_band_accountability.md#initiating-seat):** eylemi talep ederek, teklif ederek, yürüterek veya talep ederek başlatır.
 - **[Koltuğu Doğrula veya Yetkilendir](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** kanıtları ve otoriteyi kontrol eder, ardından eylemi doğrular, yetkilendirir, koşullandırır veya reddeder.

@@ -456,7 +456,7 @@ Algunos aspectos de una Carta de Sistema o Carta Institucional varían según la
 <details>
 <summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
 
-- Origen: [§3](#3-lo-que-deben-declarar-las-cartas-de-sistema-e-institucionales); [Capítulo Ocho §2, Piso constitucional de cuatro puestos](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- Origen: [§3](#3-lo-que-deben-declarar-las-cartas-de-sistema-e-institucionales); [Capítulo Ocho §2, Piso constitucional de cuatro puestos](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - Aplicación posterior:
   - [Capítulo Ocho §5, Publicación de la asignación, vacante y sustitución](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5);
   - [Capítulo Nueve, Parte B §6.1.1, Cuatro puestos en una certificación](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1);
@@ -486,7 +486,7 @@ Toda Carta de Sistema o Carta Institucional contiene un [Mapa de funciones de la
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 Qué son los puestos y por qué existen
 
-Todo [Acto materialmente vinculante](../../core_05.035_band_accountability.md#materially-binding-act) tiene cuatro funciones, y el [Capítulo Ocho §2, Piso constitucional de cuatro puestos](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) las mantiene separadas:
+Todo [Acto materialmente vinculante](../../core_05.035_band_accountability.md#materially-binding-act) tiene cuatro funciones, y el [Capítulo Ocho §2, Piso constitucional de cuatro puestos](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) las mantiene separadas:
 
 - **[Puesto Iniciador](../../core_05.035_band_accountability.md#initiating-seat):** inicia el acto al solicitarlo, proponerlo, operarlo o reclamarlo.
 - **[Puesto de Verificación o Autorización](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** examina las pruebas y la autoridad; luego verifica, autoriza, condiciona o rechaza el acto.

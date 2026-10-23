@@ -134,7 +134,7 @@
 - [能力要件](../../core_05.050_band_oversight.md#capability-requirement)
 - [解決経路の捕捉](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [連鎖的失敗](../../core_05.040_band_continuity.md#cascading-failure)
-- [チャーター](../../core_05.040_band_continuity.md#charter)
+- [チャーター](../../core_05.040_band_continuity.md)
 - [分類に応じた統治](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [強制と操作](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [集合的説明責任の失敗](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -401,7 +401,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流：[憲法四元](core_00_preamble.md#constitutional-tetrad)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；[実質的利害](core_00_preamble.md#material-stake)；[前文 §2 測定の概観](core_00_preamble.md#measurements-overview)。
+- 上流：[憲法四元](core_00_preamble.md#constitutional-tetrad)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；[実質的利害](core_00_preamble.md#material-stake)；[前文 §2 測定の概観](core_00_preamble.md#2-measurements-overview)。
 - 下流：第五章のすべての帯定義および **Def.** 依存クラスターへの憲法上の方位。
 - あわせて読む：いかなる依存クラスターを適用する前に、[独立定義](core_05__definitions_home.md#1-独立定義)、[§1.1 呼び出し、充足、遵守](core_05__definitions_home.md#11-呼び出し充足遵守)、[§2.1 共同呼び出しと充足](core_05__definitions_home.md#21-共同呼び出しと充足)、および [§2.2 自立定義の相互作用と完全な文脈](core_05__definitions_home.md#22-自立定義の相互作用と完全な文脈) のメタ規則。
 
@@ -437,7 +437,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">読者案内（非操作性）：前文の測定クロスウォーク</span></strong></summary>
 
-> [前文 §2](core_00_preamble.md#measurements-overview) は七つの憲法上の**測定カテゴリ**を列挙する — 運用者がシステムを評価するときに立てる問いである。第五章は**典範定義**を四元の脚、**継続**目的、および**統合**の横断脚の所管によって編成する。下の表は、各測定カテゴリをその第五章の本拠へ地図づける。一つのカテゴリが複数の帯ファイルにまたがってよい。測定カテゴリが重なっても、典範の本拠は動かない。
+> [前文 §2](core_00_preamble.md#2-measurements-overview) は七つの憲法上の**測定カテゴリ**を列挙する — 運用者がシステムを評価するときに立てる問いである。第五章は**典範定義**を四元の脚、**継続**目的、および**統合**の横断脚の所管によって編成する。下の表は、各測定カテゴリをその第五章の本拠へ地図づける。一つのカテゴリが複数の帯ファイルにまたがってよい。測定カテゴリが重なっても、典範の本拠は動かない。
 >
 > **実質性**（[実質性の判定](../../core_05.050_band_oversight.md#materiality)）は統合的である — [実質的利害](core_00_preamble.md#material-stake)のもとですべての測定ファミリーの尺度を合わせる横断の閾ゲート。下の表における別個のカテゴリではない。
 

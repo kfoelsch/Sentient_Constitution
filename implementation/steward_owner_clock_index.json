@@ -569,7 +569,7 @@
           "href": "core_05.035_band_accountability.md#market-structure-constitutional"
         }
       ],
-      "conflict_rule": "Adopter-tunable does not mean adopter-optional. Thresholds that foreseeably never bind, unused enforcement, or no actual review nullify the floor.",
+      "conflict_rule": "Adopter-tunable does not mean adopter-optional. Thresholds that foreseeably never bind, unused enforcement, or no actual review nullify the requirements.",
       "forbidden_move": "Do not treat adopter-tunable as adopter-optional. Do not clear the floor with entity count or efficiency talk.",
       "clock": null,
       "clock_note": "Invalidate the nullifying threshold now. Restore review when the only door is closing.",

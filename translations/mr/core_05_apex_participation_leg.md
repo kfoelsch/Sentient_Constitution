@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
 - वरून: [अध्याय पाच दिशा-सूचक](core_05__definitions_home.md#अधयय-पच-दश-सचक-आण-वयखय-नकश); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) (सहभाग पाया; [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims); प्राथमिक उद्दिष्ट [समुन्नती](core_00_preamble.md#flourishing).
-- पुढे: तत्त्वे: [प्रस्तावना §1 नमुना](core_00_preamble.md#the-model); [अध्याय एक §5 स्वातंत्र्य](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§11.1.5 संवैधानिक निकाल-दावा शिस्त](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [प्रभावित पक्षांचा प्रणालीगत सहभाग](../../core_05.055_band_participation.md#stakeholder-status-and-weight) जिथे प्रभावित पक्षांचा प्रणालीगत सहभाग स्तर लागू होतो; [चतुष्क पाया विघटन](#participation-tetrad-leg-decomposition); सहभाग पट्ट्यातील पान-व्याख्या [core_05_band_participation.md](../../core_05.055_band_participation.md) मध्ये.
+- पुढे: तत्त्वे: [प्रस्तावना §1 नमुना](core_00_preamble.md#the-model); [अध्याय एक §5 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency); [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](core_01_c_stewardship_capacity_principles.md); [§11.1.5 संवैधानिक निकाल-दावा शिस्त](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [प्रभावित पक्षांचा प्रणालीगत सहभाग](../../core_05.055_band_participation.md#stakeholder-status-and-weight) जिथे प्रभावित पक्षांचा प्रणालीगत सहभाग स्तर लागू होतो; [चतुष्क पाया विघटन](#participation-tetrad-leg-decomposition); सहभाग पट्ट्यातील पान-व्याख्या [core_05_band_participation.md](../../core_05.055_band_participation.md) मध्ये.
 - सोबत वाचा: [अर्थपूर्ण कर्तृत्व](../../core_05.055_band_participation.md#meaningful-agency), [आव्हानयोग्यता](../../core_05.035_band_accountability.md#contestability) (सहभाग/उत्तरदायित्व सीमा), [सुलभता](../../core_05.055_band_participation.md#accessibility), [तत्त्वनिष्ठ न्याय्यपणा](../../core_05.055_band_participation.md#substantive-fairness), [प्रभावित पक्षांची बंधनकारक निवड](../../core_05.055_band_participation.md#defp2-binding-stakeholder-choice), [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional) (समयबद्ध सहभाग), [वर्गीकरण-प्रमाणित शासन](../../core_05.050_band_oversight.md#classification-scaled-governance), आणि सहभाग मापन कुटुंब.
 
 </details>
@@ -61,7 +61,7 @@
     - [तत्त्वनिष्ठ न्याय्यपणा](../../core_05.055_band_participation.md#substantive-fairness);
     - [प्रभावित पक्ष भार](../../core_05.055_band_participation.md#stakeholder-weight);
     - [प्रणाली ताबा](../../core_05.040_band_continuity.md#system-capture); आणि
-    - [अध्याय एक §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline).
+    - [अध्याय एक §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="participation-constitutional-c"></a>
 - C: अनुपालन-भंग जेव्हा:
   - संरचनात्मक बहिष्कार आहे;

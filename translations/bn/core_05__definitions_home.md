@@ -135,7 +135,7 @@
 - [ক্ষমতা প্রয়োজনীয়তা](../../core_05.050_band_oversight.md#capability-requirement)
 - [সমাধান-পথের দখল](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [ধারাবাহিক ব্যর্থতা](../../core_05.040_band_continuity.md#cascading-failure)
-- [পরিসর সনদ](../../core_05.040_band_continuity.md#charter)
+- [পরিসর সনদ](../../core_05.040_band_continuity.md)
 - [শ্রেণিবিন্যাস-স্কেল করা শাসন](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [জবরদস্তি ও কারসাজি](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [সমষ্টিগত জবাবদিহি ব্যর্থতা](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -407,7 +407,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [বস্তুগত বাজি](core_00_preamble.md#material-stake); [প্রস্তাবনা §2 পরিমাপের সংক্ষিপ্ত চিত্র](core_00_preamble.md#measurements-overview)।
+- ঊর্ধ্ব: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); [বস্তুগত বাজি](core_00_preamble.md#material-stake); [প্রস্তাবনা §2 পরিমাপের সংক্ষিপ্ত চিত্র](core_00_preamble.md#2-measurements-overview)।
 - অধঃ: অধ্যায় পাঁচের সব পটি সংজ্ঞা ও নির্ভরশীল **Def.** গুচ্ছের সাংবিধানিক অভিমুখ।
 - সঙ্গে পড়ুন: [স্বাধীন সংজ্ঞা](core_05__definitions_home.md#1-সবধন-সজঞ), [§1.1 আহ্বান, পূরণ ও অনুপালন](core_05__definitions_home.md#11-আহবন-পরণ-ও-অনপলন), [§2.1 যৌথ আহ্বান ও পূরণ](core_05__definitions_home.md#21-যথ-আহবন-ও-পরণ) এবং [§2.2 স্বতন্ত্র সংজ্ঞার মিথস্ক্রিয়া ও পূর্ণ প্রসঙ্গ](core_05__definitions_home.md#22-সবতনতর-সজঞর-মথসকরয-ও-পরণ-পরসঙগ)-এর মেটা নিয়ম কোনো নির্ভরশীল গুচ্ছ প্রয়োগের আগে।
 
@@ -443,7 +443,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">পাঠক নির্দেশনা (অ-কার্যকরী): প্রস্তাবনার পরিমাপ-ক্রসওয়াক</span></strong></summary>
 
-> [প্রস্তাবনা §2](core_00_preamble.md#measurements-overview) সাত সাংবিধানিক **পরিমাপ শ্রেণি** তালিকা করে — যে প্রশ্ন পরিচালকেরা ব্যবস্থা মূল্যায়নে করে। অধ্যায় পাঁচ **প্রামাণিক সংজ্ঞা** সাজায় চতুষ্কের পা, **সাতত্য** উদ্দেশ্য, এবং পা-পেরিয়ে **সমন্বিত** স্বত্বাধিকার অনুসারে। নিচের সারণি প্রতি পরিমাপ শ্রেণিকে তার অধ্যায় পাঁচ ঘরে ম্যাপ করে। এক শ্রেণি একাধিক পটি ফাইল জুড়ে থাকতে পারে; প্রামাণিক ঘর সরে না যখন পরিমাপ শ্রেণি ওভারল্যাপ করে।
+> [প্রস্তাবনা §2](core_00_preamble.md#2-measurements-overview) সাত সাংবিধানিক **পরিমাপ শ্রেণি** তালিকা করে — যে প্রশ্ন পরিচালকেরা ব্যবস্থা মূল্যায়নে করে। অধ্যায় পাঁচ **প্রামাণিক সংজ্ঞা** সাজায় চতুষ্কের পা, **সাতত্য** উদ্দেশ্য, এবং পা-পেরিয়ে **সমন্বিত** স্বত্বাধিকার অনুসারে। নিচের সারণি প্রতি পরিমাপ শ্রেণিকে তার অধ্যায় পাঁচ ঘরে ম্যাপ করে। এক শ্রেণি একাধিক পটি ফাইল জুড়ে থাকতে পারে; প্রামাণিক ঘর সরে না যখন পরিমাপ শ্রেণি ওভারল্যাপ করে।
 >
 > **তাৎপর্য** ([তাৎপর্য নির্ণয়](../../core_05.050_band_oversight.md#materiality)) সমন্বিত — এক আড়াআড়ি সীমা-ফটক যা [বস্তুগত বাজি](core_00_preamble.md#material-stake)-এর অধীনে সব পরিমাপ পরিবার স্কেল করে; এটি নিচের সারণিতে আলাদা শ্রেণি নয়।
 

@@ -12,7 +12,7 @@
 >
 > **قبلی (هنوز انگلیسی):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 >
-> **بعدی (هنوز انگلیسی):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+> **بعدی (هنوز انگلیسی):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 > **قوس خواندن:** §1 مقصود → توالی اختلاف → §2 محل پیش‌فرض و پذیرش → §2.1–§2.3 حدهای هدایت، منافع مختلط، اعتراض‌ها → §3 انتقال و ضدخودداوری → §4 خانواده‌ها → §5 ارتقا و گواهی → §6 طبقه‌ها و انضباط ضدتأخیر → §7 پشتیبانی مجمع
 </details>
 
@@ -59,7 +59,7 @@
 - بالادست: [فصل هفتم — گواهی هم‌راستایی نظام](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-system-alignment-certification)؛ [فصل هشتم](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)؛ [فصل نهم](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration)؛ [فصل دهم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)؛ [فصل یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*اصول و قیدهای تفسیری*)؛ [فصل‌های دوم تا چهارم](core_02_definition_structure.md) (*انتظارهای ردگیری و راستی‌آزمایی*)؛ [فصل پنجم](core_05__definitions_home.md#chapter-five-foundational-definitions) (*تعریف‌ها خوانده با فصل‌های دوم تا چهارم در ویجت جایگاه پیکره*)؛ [فصل ششم](core_06_rights_part_a.md#chapter-six-foundational-rights) (*کف حقوق بنیادین که این فصل همراه با آن اعمال می‌کند*).
 - پایین‌دست: [§2](#2-default-venue-and-primary-stakes) (*محل پیش‌فرض منافع اولیه، غربال پذیرش، منافع مختلط، عدم‌تقارن، اعتراض‌های سابقهٔ ردپا؛ دسترسی آستانهٔ به‌موقع قابل‌اعتراض؛ توصیف حسن‌نیت و ضدبازی*)؛ [§3](#3-transfer-consolidation-and-coordination) (*انتقال و ضدخودداوری*)؛ [§4](#4-forum-family-definitions) (*تعریف خانواده‌های مجمع، اتاق‌ها، استانداردهای مشترک، و حقوق عملیاتی موقت*)؛ [§4.3](#43-institutional-forums) (*مرز فرایند درونی به‌عنوان اعمال خانواده‌نهادی توالی اختلاف*)؛ [§5](#5-escalation-and-certification) (*ارتقا، گواهی، و حفاظت موقت*)؛ [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*طبقه‌های اهمیت مادی، نقاط عطف زنجیره، و انضباط ضدتأخیر*)؛ [§7](#7-forum-support-before-during-and-after-review) (*پشتیبانی مجمع پیش، هنگام، و پس از بازبینی*).
 - پای چهارگانه: **مشارکت**، **نظارت**، **پاسخگویی**، **به‌هنگامی** (یافته‌های راستی‌آزمایی‌شده می‌توانند سوابق ردپا را بگشایند، به‌روز کنند، یا تصحیح کنند؛ **CF-11** ساعت‌های طبقه را پیاده می‌کند). هدف(های) اصلی: **شکوفایی** و **پیوستگی**. مقیاس‌بندی [منافع مادی](core_00_preamble.md#material-stake) بر بار مسیرگذاری و دسترسی اعمال می‌شود.
-- خوانده شود با: [دیباچه §3.2](core_00_preamble.md#32-key-governance-processes) و [§3.3](core_00_preamble.md#33-governance-layers) (*مسیرهای فرایند و انضباط لایهٔ حکمرانی*)؛ [اصل XII: مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*قواعد اضطرار، استیفا، و زمان‌بندی*) — پیاده کند، نه تنگ)؛ [corpus_institutions.md](../../corpus_institutions.md) (*اعتراض، بازبینی ثانویه، و پایش یکپارچگی — جای صلاحیت مسیر مجمع تخصیص‌شده نمی‌نشیند*)؛ [اصل XIII-B: حق اعتراض، بازبینی و جبران](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)؛ [خانوادهٔ اصل XXIV](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*قیدهای عدالت ارجاع‌شده در ویجت جایگاه پیکره*).
+- خوانده شود با: [دیباچه §3.2](core_00_preamble.md#32-key-governance-processes) و [§3.3](core_00_preamble.md#33-governance-layers) (*مسیرهای فرایند و انضباط لایهٔ حکمرانی*)؛ [اصل XII: مشارکت سیستمی طرف‌های اثرپذیر، نمایندگی، و فرایند عادلانه](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-6.2.2** (*قواعد اضطرار، استیفا، و زمان‌بندی*) — پیاده کند، نه تنگ)؛ [corpus_institutions.md](../../corpus_institutions.md) (*اعتراض، بازبینی ثانویه، و پایش یکپارچگی — جای صلاحیت مسیر مجمع تخصیص‌شده نمی‌نشیند*)؛ [اصل XIII-B: حق اعتراض، بازبینی و جبران](core_06_rights_part_c.md)؛ [خانوادهٔ اصل XXIV](core_06_rights_part_d.md) (*قیدهای عدالت ارجاع‌شده در ویجت جایگاه پیکره*).
 
 </details>
 
@@ -91,7 +91,7 @@
 **خانواده‌های مجمع** نهادهای اولیه‌ای هستند که این ابزار از راه آن‌ها آن پیست‌ها را **نظارت می‌کند**. از ادارهٔ اجرایی روزمرهٔ قواعد وضع‌شده متمایزند.
 
 <a id="dispute-sequencing"></a>
-**توالی اختلاف.** درون نظام، نهاد، یا حوزهٔ تصمیم محدود ازپیش‌مجاز، اختلاف عادی نخست از مسیر اعتراض و فرایند عادلانهٔ منتشرشدهٔ [مشارکت سیستمی طرف‌های اثرپذیر](core_05_band_participation.md#stakeholder-status-and-weight-cluster) استفاده می‌کند. اگر آن مسیر نتیجه‌ای هنوز محل نزاع بدهد، غایب باشد، تسخیر شده باشد، یا نتواند قانوناً امداد لازم را بدهد، این فصل موضوع را با منافع اولیه زیر **بخش 2** مسیر می‌دهد. **یکپارچگی**، **حوزه‌های فنی مجمع**، **محیط**، و **قانون اساسی** خانواده‌های هدایت پیش‌فرض‌اند وقتی آن منافع اولیه است — نه استثناهایی که توالی را می‌پرند. فرایند درونی ناتمام، برچسب‌های استیفا، یا ادعای ناتمام بودن بازبینی درونی نباید آن هدایت‌ها را متوقف کند، ماهیت‌شان را جابه‌جا کند، یا ساعت‌های **اصل XXV-C** (*حل به‌هنگام و کف ضدتأخیر*) را بخورد. دسترسی مستقیم وقتی تأخیر حقوق، شاهد، استقلال، یا ترمیم عملی را از نظر مادی به خطر اندازد در دسترس می‌ماند.
+**توالی اختلاف.** درون نظام، نهاد، یا حوزهٔ تصمیم محدود ازپیش‌مجاز، اختلاف عادی نخست از مسیر اعتراض و فرایند عادلانهٔ منتشرشدهٔ [مشارکت سیستمی طرف‌های اثرپذیر](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) استفاده می‌کند. اگر آن مسیر نتیجه‌ای هنوز محل نزاع بدهد، غایب باشد، تسخیر شده باشد، یا نتواند قانوناً امداد لازم را بدهد، این فصل موضوع را با منافع اولیه زیر **بخش 2** مسیر می‌دهد. **یکپارچگی**، **حوزه‌های فنی مجمع**، **محیط**، و **قانون اساسی** خانواده‌های هدایت پیش‌فرض‌اند وقتی آن منافع اولیه است — نه استثناهایی که توالی را می‌پرند. فرایند درونی ناتمام، برچسب‌های استیفا، یا ادعای ناتمام بودن بازبینی درونی نباید آن هدایت‌ها را متوقف کند، ماهیت‌شان را جابه‌جا کند، یا ساعت‌های **اصل XXV-C** (*حل به‌هنگام و کف ضدتأخیر*) را بخورد. دسترسی مستقیم وقتی تأخیر حقوق، شاهد، استقلال، یا ترمیم عملی را از نظر مادی به خطر اندازد در دسترس می‌ماند.
 
 ```mermaid
 flowchart TD
@@ -146,7 +146,7 @@ flowchart TD
 - بالادست: [§1](#1-purpose-and-role) (*مقصود، نقش اعمال اولیه، الزام‌های پاسخگویی، مسیرگذاری آستانهٔ منتشرشده، عدم‌جابه‌جایی جزئیات، انتظارهای استقلال و بازبینی*).
 - پایین‌دست: [§3](#3-transfer-consolidation-and-coordination) (*انتقال، ادغام، ضدخودداوری*)؛ [§4](#4-forum-family-definitions) (*تعریف خانواده‌های مجمع خوانده با جدول پیش‌فرض*)؛ [§5](#5-escalation-and-certification) (*ارتقا از محل پیش‌فرض؛ حفاظت موقت*)؛ [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*طبقه‌های اهمیت مادی و انضباط ضدتأخیر*)؛ [§7](#7-forum-support-before-during-and-after-review) (*پشتیبانی مجمع پیش، هنگام، و پس از بازبینی*).
 - درون §2: [§2.1](#21-lead-default-limits) (*برخورد منافع اولیه، گواهی قانون اساسی، و پشتیبان ضدخودداوری*)؛ [§2.2](#22-mixed-stakes-and-routing-asymmetry) (*منافع مختلط و عدم‌تقارن*)؛ [§2.3](#23-forum-records-standing-records-and-contests) (*سوابق پروندهٔ مجمع، سوابق ردپا، و اعتراض‌ها*).
-- خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پاهای **مشارکت**، **نظارت**، و **به‌هنگامی**؛ مقیاس‌بندی [منافع مادی](core_00_preamble.md#material-stake) برای مسیرگذاری منافع اولیه؛ [فصل هشتم §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*دستور زبان خانهٔ ردپا*)؛ [مقیاس یکپارچهٔ فصل هشتم §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*باندهای LEQU پنج‌برابر مشترک و سوابق محور جدا*)؛ [فصل هشتم §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*توصیف‌گرهای بهنجارشدهٔ میان‌محور که منافع اولیه را بدون جابه‌جا کردن خانهٔ اثر اطلاع می‌دهند*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-5** و **CF-7.2**)؛ [corpus_systems.md](../../corpus_systems.md) (*تکالیف طبقه‌بندی، استقرار، و بازاعتبارسنجی نظام*)؛ [فصل دهم §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*نام‌گذاری سوءرفتار ضدقانون‌اساسی برای خانه‌های واجد شرایط 7–9 فصل هشتم؛ لنگر میراث نگه داشته*)؛ [فصل دهم §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*فرایند عادلانه برای آن نام‌گذاری خوانده با این فصل و **اصل XXIV** (*حل تعارض، تشدید، و تناسب اضطراری*)*)؛ [اصل XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*هدف و گسترهٔ عدالت*).
+- خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — پاهای **مشارکت**، **نظارت**، و **به‌هنگامی**؛ مقیاس‌بندی [منافع مادی](core_00_preamble.md#material-stake) برای مسیرگذاری منافع اولیه؛ [فصل هشتم §5.1](core_08_standing_assessment.md#5-slot-grammar-and-display-labels) (*دستور زبان خانهٔ ردپا*)؛ [مقیاس یکپارچهٔ فصل هشتم §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*باندهای LEQU پنج‌برابر مشترک و سوابق محور جدا*)؛ [فصل هشتم §§4.3–4.4](core_08_standing_assessment.md#43-route-descriptor-measurement-roles) (*توصیف‌گرهای بهنجارشدهٔ میان‌محور که منافع اولیه را بدون جابه‌جا کردن خانهٔ اثر اطلاع می‌دهند*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-5** و **CF-7.2**)؛ [corpus_systems.md](../../corpus_systems.md) (*تکالیف طبقه‌بندی، استقرار، و بازاعتبارسنجی نظام*)؛ [فصل دهم §3](core_10_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*نام‌گذاری سوءرفتار ضدقانون‌اساسی برای خانه‌های واجد شرایط 7–9 فصل هشتم؛ لنگر میراث نگه داشته*)؛ [فصل دهم §4](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*فرایند عادلانه برای آن نام‌گذاری خوانده با این فصل و **اصل XXIV** (*حل تعارض، تشدید، و تناسب اضطراری*)*)؛ [اصل XXIV-A](core_06_rights_part_d.md) (*هدف و گسترهٔ عدالت*).
 
 </details>
 
@@ -191,7 +191,7 @@ flowchart TD
      - گواهی **قانون اساسی** جایی که لازم است؛
      - قواعد طرف نهادی؛ و
      - پشتیبان ضدخودداوری زیر **بخش‌های 2، 3، و 5**.
-   - **اختلاف‌های سوگیری مجمع:** اگر دعوا عمدتاً دربارهٔ عضوی است که باید کنار می‌رفت، مشارکت سوگیر هیئت، یا نقض یکپارچگی مجمع هم‌تراز — از جمله روی هیئت مجمع **قانون اساسی** زیر **[اصل XXIII-B](core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls) (*ترکیب، چرخش، و کنترل‌های تعارض*)** — نخست به مجمع‌های **یکپارچگی** مسیر دهید. زیر **بخش 3**، مجمع نمی‌تواند تنها داور نهایی سوگیری خودش باشد: مجمع **قانون اساسی** نمی‌تواند تنها مجمع نهایی تصمیم‌گیرنده باشد که آیا عضو خودش باید کنار می‌رفت. انضباط قفل ردپا: **[فصل نهم §5.5](core_09_standing_integration.md#55-special-locks)**. الگوی سوءرفتار نام‌گذاری‌شده: **[فصل دهم §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
+   - **اختلاف‌های سوگیری مجمع:** اگر دعوا عمدتاً دربارهٔ عضوی است که باید کنار می‌رفت، مشارکت سوگیر هیئت، یا نقض یکپارچگی مجمع هم‌تراز — از جمله روی هیئت مجمع **قانون اساسی** زیر **[اصل XXIII-B](core_06_rights_part_c.md) (*ترکیب، چرخش، و کنترل‌های تعارض*)** — نخست به مجمع‌های **یکپارچگی** مسیر دهید. زیر **بخش 3**، مجمع نمی‌تواند تنها داور نهایی سوگیری خودش باشد: مجمع **قانون اساسی** نمی‌تواند تنها مجمع نهایی تصمیم‌گیرنده باشد که آیا عضو خودش باید کنار می‌رفت. انضباط قفل ردپا: **[فصل نهم §5.5](core_09_standing_integration.md#55-special-locks)**. الگوی سوءرفتار نام‌گذاری‌شده: **[فصل دهم §5.10](../../core_12_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)**.
    - **پرسش‌های فنی چگونه:** مشخصات، روش‌ها، اندازه‌گیری، آزمون، و پرسش‌های شاهد متخصص به **حوزه‌های فنی مجمع** می‌روند وقتی آن‌ها منافع اولیه یا پرسش‌های مؤلفهٔ گواهی‌شده‌اند.
    - **امضای هم‌راستایی نظام:**
      - بازشناسی رسمی **هم‌راستایی قانون اساسی** برای نظام‌های جدید از نظر مادی اثرگذار، و **اعتبارسنجی هم‌راستایی جاری** برای موجودها، به‌طور پیش‌فرض به **یکپارچگی** به‌عنوان هدایت می‌روند.
@@ -238,14 +238,14 @@ flowchart TD
 #### 2.3 سوابق پروندهٔ مجمع، سوابق ردپا، و اعتراض‌ها
 
 **سوابق پروندهٔ مجمع و سوابق ردپا:**
-- مجمع برای اختلاف پیش روی خود [**سابقهٔ پروندهٔ مجمع**](core_05_band_accountability.md#forum-case-record) نگه می‌دارد. آن سابقه ردگیری می‌کند:
+- مجمع برای اختلاف پیش روی خود [**سابقهٔ پروندهٔ مجمع**](../../core_05.035_band_accountability.md#forum-case-record) نگه می‌دارد. آن سابقه ردگیری می‌کند:
   - ادعاها؛
   - شاهد؛
   - انتخاب‌های مسیرگذاری؛
   - دستورهای موقت؛
   - پرسش‌های گواهی‌شده؛ و
   - یافته‌های نهایی در آن پرونده.
-- همان چیز **سوابق ردپا**ی خواسته‌شده توسط [فصل هشتم](core_08_standing_assessment.md#2-standing-records) نیست (ببینید [سابقهٔ ردپا](core_05_band_accountability.md#standing-record-chapter-six)).
+- همان چیز **سوابق ردپا**ی خواسته‌شده توسط [فصل هشتم](core_08_standing_assessment.md#2-standing-records) نیست (ببینید [سابقهٔ ردپا](../../core_05.035_band_accountability.md#standing-record-chapter-six)).
 - تصمیم مجمع فقط وقتی می‌تواند بخشی از **سابقهٔ ردپای همیاری** یا **سابقهٔ ردپای تخلف** فصل هشتم شود که سابقهٔ همیاری راستی‌آزمایی‌شده، یافتهٔ تخلف راستی‌آزمایی‌شده، **سابقهٔ گواهی هم‌راستایی نظام**، یا یافتهٔ دیگری تولید کند که محدود، ردگیری‌پذیر، قابل‌اعتراض، و راستی‌آزمایی‌شده زیر فصل‌های دوم تا چهارم و هر حمایت بازبینی لازم باشد.
 - هیچ‌کدام از این‌ها به‌تنهایی ردپا، شایستگی نقش، وضعیت اعتماد، بازشناسی، یا اثر نهایی ردپای کسی را عوض نمی‌کند:
   - ثبت پرونده؛
@@ -292,7 +292,7 @@ flowchart TD
 
 - بالادست: [§2](#2-default-venue-and-primary-stakes) (*جدول محل پیش‌فرض، غربال پذیرش، منافع مختلط، و عدم‌تقارن*)؛ [فصل نهم §2 — سابقهٔ یکپارچه‌سازی و ترتیب تصمیم](core_09_standing_integration.md#2-integration-record-and-decision-order) (*بالاترین ردهٔ عدم‌انطباق اعمال‌شدنی — هماهنگی منافع مختلط*).
 - پایین‌دست: [§5](#5-escalation-and-certification) (*پرسش‌های قانون اساسی گواهی‌شده، فعال‌سازی مسیرگذاری پشتیبان، و حفاظت موقت در حالی که هماهنگی پیش می‌رود*).
-- خوانده شود با: [اصل XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*حق اعتراض، بازبینی و جبران*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*فرایند یکپارچگی درونی که می‌تواند پیش از مجمع‌های یکپارچگی بیاید جایی که حمایت‌ها انتظارها را برآورند*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-7**، هماهنگی هم‌راستایی هدایت‌شده با یکپارچگی).
+- خوانده شود با: [اصل XIII-B](core_06_rights_part_c.md) (*حق اعتراض، بازبینی و جبران*)؛ [corpus_institutions.md](../../corpus_institutions.md) (*فرایند یکپارچگی درونی که می‌تواند پیش از مجمع‌های یکپارچگی بیاید جایی که حمایت‌ها انتظارها را برآورند*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-7**، هماهنگی هم‌راستایی هدایت‌شده با یکپارچگی).
 
 </details>
 
@@ -347,7 +347,7 @@ flowchart TD
 <a id="capacity-failure-routing"></a>
 **شکست ظرفیت بیرون از بدن گرسنه شنیده می‌شود.** ادعای اینکه خانوادهٔ مجمع، نظام جبران، یا کارکرد یکپارچه‌سازی ردپا زیر ظرفیت است — انباشت طراحی‌شده، پذیرش دسترس‌ناپذیر، کم‌تأمین مزمن، شکست نقطهٔ عطف مزمن، یا ماشهٔ برابری جبران [فصل نهم §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) خورده — امر ضدخودداوری است. بدنی که ظرفیتش محل نزاع است نباید تنها یابندهٔ واقعیت دربارهٔ ظرفیت خودش باشد.
 - خانوادهٔ **یکپارچگی** هدایت پیش‌فرض برای ادعاهای شکست ظرفیت است، با جفت‌های پشتیبان **بخش 3** اعمال‌شونده جایی که خود یکپارچگی بدن محل نزاع است.
-- هر طرف اثرپذیر، گزارش‌دهندهٔ حمایت‌شده، یا گروه خودسازمان‌یافته زیر [فصل یکم §9.5](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) می‌تواند ادعای شکست ظرفیت ثبت کند. روی ساعت طبقهٔ B زیر **بخش 6** شنیده می‌شود مگر سابقه منافع طبقهٔ A نشان دهد.
+- هر طرف اثرپذیر، گزارش‌دهندهٔ حمایت‌شده، یا گروه خودسازمان‌یافته زیر [فصل یکم §9.5](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) می‌تواند ادعای شکست ظرفیت ثبت کند. روی ساعت طبقهٔ B زیر **بخش 6** شنیده می‌شود مگر سابقه منافع طبقهٔ A نشان دهد.
 - بدن محل نزاع باید ارقام انباشت منتشرشدهٔ [فصل نهم §4.4](core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) و **بخش 6** را بدهد، و می‌تواند شاهد بدهد، اما نباید یافته یا دستور اصلاحی را کنترل کند.
 - یافتهٔ شکست ظرفیت شکست دوام [فصل نهم §9.2](core_09_standing_integration.md#92-remedy-system-durability) است. دستورهای اصلاحی را به خانوادهٔ [منافع اولیه](#2-default-venue-and-primary-stakes) مسئول نیرو و تأمین مسیر می‌دهد و، جایی که الگو مزمن یا پنهان است، مسیر عادی فصل هشتم را می‌گشاید.
 
@@ -455,7 +455,7 @@ flowchart TD
 **امور توضیحی.** این خانواده اعتراض‌ها بر این‌ها را در بر دارد:
 - مأموریت نهادی، کنش مجاز، یا کارکرد مأمور؛
 - مرزهای گسترهٔ نظارت‌شده و طبقه‌بندی زیر ابزارهای پذیرش؛
-- گسترهٔ [منشور](core_05_band_continuity.md#charter)، اختیار اصلاح منشور، ناهمخوانی منشور–رفتار، یا عملیات بیرون از گسترهٔ منشور؛
+- گسترهٔ [منشور](../../core_05.040_band_continuity.md)، اختیار اصلاح منشور، ناهمخوانی منشور–رفتار، یا عملیات بیرون از گسترهٔ منشور؛
 - انطباق تکلیف نهادی و عملکرد زیر **`corpus_institutions.md`** و لایه‌های هم‌تبار؛
 - اجرای محلی استانداردهای میان‌صلاحیت یا میان‌نهاد مشترک؛
 - پرسش‌های مؤلفهٔ مأموریت نهادی و کف حقوق در رسیدگی‌های هم‌راستایی نظام جایی که نهادی طرف لازم است یا مأموریت نهادی اولیه است.
@@ -485,7 +485,7 @@ flowchart TD
 - **ماهیت** **بوم‌شناختی** هم‌تراز.
 - این شامل شکست بوم‌شناختی **الگو** یا **سیستمی** است جایی که اندازه‌گیری **فصل هشتم**، اجرای کف حقوق **فصل ششم**، یا **فصل پنجم** (*یکپارچگی بوم‌شناختی*، *پیش‌شرط‌های محیطی*) به آن تعیین وابسته است.
 
-**ثبت نمایندگی.** پرونده‌ای که منافع اولیه‌اش [ردپای نظام‌های طبیعی](core_05_band_participation.md#natural-systems-standing) یا یکپارچگی بوم‌شناختی است می‌تواند توسط نمایندهٔ منتشرشده — اجتماع اثرپذیر، نگهدارندهٔ پیوستگی بومی، یا قیم نام‌گذاری‌شده — به نفع خود نظام پشتیبان حیات گشوده شود. این نظام را حس‌مند نمی‌کند. انتصاب، کناره‌گیری، و انتشار نمایندگان در [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*عملیات مسیرگذاری، انتقال، گواهی، و رفتار نمایندگی*)) زندگی می‌کند و باید این کف را **پیاده کند، نه تنگ**.
+**ثبت نمایندگی.** پرونده‌ای که منافع اولیه‌اش [ردپای نظام‌های طبیعی](../../core_05.055_band_participation.md#natural-systems-standing) یا یکپارچگی بوم‌شناختی است می‌تواند توسط نمایندهٔ منتشرشده — اجتماع اثرپذیر، نگهدارندهٔ پیوستگی بومی، یا قیم نام‌گذاری‌شده — به نفع خود نظام پشتیبان حیات گشوده شود. این نظام را حس‌مند نمی‌کند. انتصاب، کناره‌گیری، و انتشار نمایندگان در [`corpus_forum.md`](../../corpus_forum.md) (**CF-5** (*عملیات مسیرگذاری، انتقال، گواهی، و رفتار نمایندگی*)) زندگی می‌کند و باید این کف را **پیاده کند، نه تنگ**.
 
 **امور توضیحی.** این خانواده اعتراض‌ها بر این‌ها را در بر دارد:
 - خط‌پایه‌ها و نقض‌های یکپارچگی بوم‌شناختی یا پیش‌شرط محیطی؛
@@ -616,7 +616,7 @@ flowchart TD
 - بالادست: [§2](#2-default-venue-and-primary-stakes) و [§3](#3-transfer-consolidation-and-coordination) (*محل پیش‌فرض، پذیرش، انتقال، منافع مختلط، و پشتیبان‌های ضدخودداوری*)؛ [§4.6](#46-constitutional-forums) و [§4.7](#47-provisional-implementation-operational-law) (*تعیین و صدور حقوق موقت*)؛ [مقیاس یکپارچهٔ فصل هشتم §7](core_08_standing_assessment.md#7-unified-proportional-lequ-scale) (*گذاشتن خانهٔ عددی اثر*)؛ [فصل دهم](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) (*نام‌گذاری سوءرفتار ضدقانون‌اساسی متناظر برای خانه‌های واجد شرایط 7–9*)؛ [فصل یکم](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*قلاب‌های ایمنی و حقیقت در پرسش‌های قانون اساسی گواهی‌شده*).
 - پایین‌دست: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*طبقه‌های اهمیت مادی و انضباط ضدتأخیر*)؛ [§7](#7-forum-support-before-during-and-after-review) (*پشتیبانی مجمع قابل‌اعتراض برای ارتقا و گواهی*)؛ [فصل شانزدهم](../../core_18_incorporation.md) (*مسیرگذاری پیاده‌سازی برای طراحی پیاده‌سازی **اصل V-E** (*کف داوری وضعیت حس‌مندی*)*).
 - درون §5: [حفاظت موقت](#interim-protection) (*وضع موجود در انتظار ماهیت و هماهنگی تعارض دستور موقت چندمجمع*).
-- خوانده شود با: [اصل V-E: کف داوری وضعیت حس‌مندی](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)؛ [فصل پنجم — داوری وضعیت حس‌مندی](core_05_band_participation.md#sentience-status-adjudication-constitutional)؛ [اصل XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*هدف و گسترهٔ عدالت*) تا [اصل XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*حمایت‌های بازبینی ارجاع‌شده با نام‌گذاری‌های فصل دهم*)؛ [اصل XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*گواهی — احکام هم‌راستایی و آموزهٔ عمومی*).
+- خوانده شود با: [اصل V-E: کف داوری وضعیت حس‌مندی](core_06_rights_part_b.md)؛ [فصل پنجم — داوری وضعیت حس‌مندی](../../core_05.055_band_participation.md#sentience-status-adjudication-constitutional)؛ [اصل XXIV-A](core_06_rights_part_d.md) (*هدف و گسترهٔ عدالت*) تا [اصل XXIV-C](core_06_rights_part_d.md) (*حمایت‌های بازبینی ارجاع‌شده با نام‌گذاری‌های فصل دهم*)؛ [اصل XIII-B](core_06_rights_part_c.md) (*گواهی — احکام هم‌راستایی و آموزهٔ عمومی*).
 
 </details>
 
@@ -732,7 +732,7 @@ flowchart TD
   - هر ثبت ردشده در پذیرش باید با شاخص استنادشده و دلیل رد ثبت شود.
   - خانوادهٔ **یکپارچگی** آن سابقه را روی آهنگ منتشرشده نمونه می‌گیرد.
   - الگوی ردهای متمرکز بر هر یک از این‌ها خود شاخص معتبری است که دروازه به‌عنوان ابزار نگه داشتن به‌کار می‌رود، و بازبینی یکپارچگی را بدون ثبت بیشتر می‌گشاید:
-    - یک [طبقهٔ بستر](core_05_band_participation.md#substrate-class)؛
+    - یک [طبقهٔ بستر](../../core_05.055_band_participation.md#substrate-class)؛
     - یک نظام والد؛ یا
     - یک اپراتور.
   - پذیرندگان باید مجموعهٔ کف شاخص‌هایی منتشر کنند که هیچ میز پذیرشی نتواند به‌تنهایی ناکافی بداند.
@@ -758,12 +758,12 @@ flowchart TD
   - **خانوادهٔ هدایت** — حوزه‌های فنی مجمع به‌طور پیش‌فرض، با مسیرهای ویژهٔ بالا؛
   - **اجازهٔ اتاق تخصصی** — هیئت‌ها یا اتاق‌های متخصص می‌توانند ارزیابی شاخص را یاری دهند اما نباید قواعد کف ماهیت یا شمول پیش‌فرض را جابه‌جا کنند؛
   - **ماشهٔ ثبت** — وضعیت از نظر مادی محل نزاع، محل اختلاف، حل‌نشده، تنگ‌شده، لغوشده، یا ترمیم‌شده پیش از اعطا، پس‌گیری، یا تنگ کردن حمایت‌های وابسته به وضعیت؛
-  - **رفتار موقت محل‌نزاع** — [حیات حس‌مند محل‌نزاع](core_05_band_participation.md#contested-sentient-life-constitutional) به‌علاوهٔ شمول پیش‌فرض اصل V-E تا وقتی وضعیت زنده است؛
+  - **رفتار موقت محل‌نزاع** — [حیات حس‌مند محل‌نزاع](../../core_05.055_band_participation.md#contested-sentient-life-constitutional) به‌علاوهٔ شمول پیش‌فرض اصل V-E تا وقتی وضعیت زنده است؛
   - **ماشهٔ بازبینی** — تاریخ پایان اعلام‌شده یا بازبینی اجباری برای این وضعیت (بازبینی زمان‌مند، نه فهرست گونه)؛
   - **استاندارد شاهد بازگشایی** — شاهد راستی‌آزمایی‌شدهٔ جدید، نه بازگشایی فقط‌تقویمی؛
   - **نمایندهٔ مستقل** — مسیر انتصاب، غربال تعارض، و شروط دسترسی برای نمایندهٔ موجودیت زیر این قلاب؛ و
   - **سابقهٔ رد پذیرش** — کجا ثبت‌های ردشده ثبت می‌شوند، روی چه آهنگی **یکپارچگی** نمونه‌شان می‌گیرد، و مجموعهٔ کف منتشرشدهٔ شاخص‌ها.
-- طراحی نهادی جزئی، مکانیک انتصاب، فرم‌های ثبت، و توالی به متن پیاده‌سازی پذیرفته زیر انضباط پذیرش **فصل شانزدهم** مسیر می‌گیرند و **نباید** کف **اصل V-E** (*کف داوری وضعیت حس‌مندی*) را تنگ کنند. از این ویرایش، قالب اختصاصی [سابقهٔ داوری وضعیت حس‌مندی](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) زیر **فصل شانزدهم** به‌عنوان [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_sentience_status_record.md) و [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) شمارش شده است؛ آن پرونده‌ها **اصل V-E** (*کف داوری وضعیت حس‌مندی*) یا این قلاب را پیاده می‌کنند و **تنگ نمی‌کنند**. میدان‌های کمینهٔ بالا همچنان اعمال می‌شوند. این قلاب اساسنامهٔ کامل انتصاب یا ثبت **نیست**.
+- طراحی نهادی جزئی، مکانیک انتصاب، فرم‌های ثبت، و توالی به متن پیاده‌سازی پذیرفته زیر انضباط پذیرش **فصل شانزدهم** مسیر می‌گیرند و **نباید** کف **اصل V-E** (*کف داوری وضعیت حس‌مندی*) را تنگ کنند. از این ویرایش، قالب اختصاصی [سابقهٔ داوری وضعیت حس‌مندی](../../core_05.055_band_participation.md#sentience-status-adjudication-record-constitutional) زیر **فصل شانزدهم** به‌عنوان [`corpus_forum/cf_sentience_status_record.md`](../../corpus_forum/cf_13.475_sentience_status_record.md) و [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json) شمارش شده است؛ آن پرونده‌ها **اصل V-E** (*کف داوری وضعیت حس‌مندی*) یا این قلاب را پیاده می‌کنند و **تنگ نمی‌کنند**. میدان‌های کمینهٔ بالا همچنان اعمال می‌شوند. این قلاب اساسنامهٔ کامل انتصاب یا ثبت **نیست**.
 
 <a id="referral-distinguished-from-expansion"></a>
 #### ارجاع متمایز از گسترش
@@ -788,21 +788,21 @@ flowchart TD
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: [اصل XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*کف به‌هنگام، کارآمد، و عادلانه*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [اصل XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*دسترسی اعتراض و جبران*)؛ [اصل XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*انضباط ادامه*)؛ [§5](#5-escalation-and-certification) (*ساعت‌های ارتقا و گواهی با آن تعامل می‌کنند*).
-- پایین‌دست: [§7](#7-forum-support-before-during-and-after-review) (*پشتیبانی بازرسی، کارشناسی تحلیلی، و پیگیری*)؛ [§5](#interim-protection) (*حفاظت موقت*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*پنجره‌های هدف و کف‌های زمان‌بندی*))؛ [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*مسیرهای دسترس‌پذیر*))؛ [نمونه‌های کاربرد فصل‌های هشتم تا یازدهم](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)؛ [اصل XXIV-D](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) (*همان حدهای بیرونی به‌عنوان پنجره‌های پیش‌فرض ترمیم‌اعتراض*).
+- بالادست: [اصل XXV-C](core_06_rights_part_d.md) (*کف به‌هنگام، کارآمد، و عادلانه*)؛ [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)؛ [اصل XIII-B](core_06_rights_part_c.md) (*دسترسی اعتراض و جبران*)؛ [اصل XXIV-D](core_06_rights_part_d.md) (*انضباط ادامه*)؛ [§5](#5-escalation-and-certification) (*ساعت‌های ارتقا و گواهی با آن تعامل می‌کنند*).
+- پایین‌دست: [§7](#7-forum-support-before-during-and-after-review) (*پشتیبانی بازرسی، کارشناسی تحلیلی، و پیگیری*)؛ [§5](#interim-protection) (*حفاظت موقت*)؛ [corpus_forum.md](../../corpus_forum.md) (**CF-11.3.1** (*پنجره‌های هدف و کف‌های زمان‌بندی*))؛ [corpus_institutions.md](../../corpus_institutions.md) (**CI-8** (*مسیرهای دسترس‌پذیر*))؛ [نمونه‌های کاربرد فصل‌های هشتم تا یازدهم](../../core_10.005_application_vignettes.md)؛ [اصل XXIV-D](core_06_rights_part_d.md) (*همان حدهای بیرونی به‌عنوان پنجره‌های پیش‌فرض ترمیم‌اعتراض*).
 - پای چهارگانه: **به‌هنگامی** (اجرای میان‌برشی)؛ **مشارکت** و **نظارت** (پذیرش دسترس‌پذیر و نقاط عطف منتشرشده). هدف(های) اصلی: **شکوفایی** و **پیوستگی**.
-- خوانده شود با: خانوادهٔ اندازه‌گیری به‌هنگامی (*حل به‌هنگام و انضباط ضدتأخیر و مسیر حل*)؛ [تعیین اهمیت مادی](core_05_band_oversight.md#materiality-determination)؛ [حل به‌هنگام](core_05_band_accountability.md#timely-resolution-constitutional)؛ [تسخیر مسیرهای حل](core_05_band_accountability.md#capture-of-resolution-pathways)؛ [کارایی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency).
-- درِ مدیریت مسئولانه (غیرعملیاتی): بیان گام بعدی الزام‌آور: [بیان عملیاتی مدیریت مسئولانه (اصل XXV-C)](core_06_rights_part_d.md#operative-steward-statement-delay). اشاره‌گرهای پشتیبانی نمی‌توانند تنگش کنند.
+- خوانده شود با: خانوادهٔ اندازه‌گیری به‌هنگامی (*حل به‌هنگام و انضباط ضدتأخیر و مسیر حل*)؛ [تعیین اهمیت مادی](core_05_band_oversight.md#materiality-determination)؛ [حل به‌هنگام](../../core_05.035_band_accountability.md#timely-resolution-constitutional)؛ [تسخیر مسیرهای حل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)؛ [کارایی قانون اساسی](../../core_05.040_band_continuity.md#constitutional-efficiency).
+- درِ مدیریت مسئولانه (غیرعملیاتی): بیان گام بعدی الزام‌آور: [بیان عملیاتی مدیریت مسئولانه (اصل XXV-C)](core_06_rights_part_d.md). اشاره‌گرهای پشتیبانی نمی‌توانند تنگش کنند.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">تعریف‌ها · ارزیابی · انطباق</span></strong></summary>
 
-- [حل به‌هنگام](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
+- [حل به‌هنگام](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [O](../../core_05.035_band_accountability.md#timely-resolution-constitutional) · [M](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [A](../../core_05.035_band_accountability.md#timely-resolution-constitutional-a) · [C](../../core_05.035_band_accountability.md#timely-resolution-constitutional-c)
 - [تعیین اهمیت مادی](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-- [تسخیر مسیرهای حل](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [کارایی قانون اساسی](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [تسخیر مسیرهای حل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05.035_band_accountability.md#capture-of-resolution-pathways-c)
+- [کارایی قانون اساسی](../../core_05.040_band_continuity.md#constitutional-efficiency) · [O](../../core_05.040_band_continuity.md#constitutional-efficiency) · [M](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05.040_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05.040_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
@@ -824,7 +824,7 @@ flowchart TD
       - آسیب مانع مشارکت در بافت‌های نامتقارن وابستگی؛
       - بازبینی نهایی خانهٔ اثر **محور تخلف s = 7، 8، یا 9** فصل هشتم؛ یا
       - نام‌گذاری متناظر **فصل دهم** جایی که اعمال‌شدنی است.
-    - انتظار: **حفاظت موقت** قانونی باید بدون انتظار برای ماهیت کامل در دسترس باشد؛ پذیرش، تصدیق، و حفظ شاهد باید **درون روزها** آغاز شود، نه هفته‌ها، مگر [قوهٔ قاهره](core_05_band_accountability.md#force-majeure-constitutional) یا قید ایمنی مستند مانع شود.
+    - انتظار: **حفاظت موقت** قانونی باید بدون انتظار برای ماهیت کامل در دسترس باشد؛ پذیرش، تصدیق، و حفظ شاهد باید **درون روزها** آغاز شود، نه هفته‌ها، مگر [قوهٔ قاهره](../../core_05.035_band_accountability.md#force-majeure-constitutional) یا قید ایمنی مستند مانع شود.
   - **طبقهٔ B — اثر حقوق مادی، غیرقریب**
     - گسترهٔ آسیب: آسیب حقوق، ردپا، یا نهادی مادی که اکنون اهمیت دارد، اما هنوز آسیب جاری حاد فوریت طبقهٔ A نیست.
     - نمونه‌ها:
@@ -857,7 +857,7 @@ flowchart TD
     - انتظار: ساده‌ترین مسیر رویه‌ای؛ فرایند مجمع صوری می‌تواند کمینه یا چشم‌پوشیده‌شده باشد جایی که حقوق بیرونی در میان نیست؛ قواعد ضدبازی و ضدتأخیر فقط جایی اعمال می‌شوند که منافع قانون اساسی بیرونی درگیر باشند.
 <a id="urgency-classification-and-time-scale"></a>
 - **طبقه‌بندی فوریت و مقیاس زمان:** برچسب A/B/C/L/P یافتهٔ فوریت و اهمیت مادی اختلاف است. ارتقای خانوادهٔ مجمع [§5](#5-escalation-and-certification)، طرف‌های افزوده‌شده، هماهنگی فرامرزی، یا فهرست فصل دهم **به‌تنهایی** موضوع را به طبقهٔ فوریت متفاوت نمی‌برد. آن واقعیت‌ها می‌توانند پنجره‌های مرحلهٔ بعد (**پرسش ۱** تا حل یکپارچه) را روی مقیاس زمان منتشرشدهٔ بلندتر بکشند، تا وقتی پذیرش، حفظ شاهد، و هر **حفاظت موقت** لازم در کف طبقهٔ طبقه‌بندی‌شده بمانند. به‌کار بردن ساعت‌های طبقهٔ کندتر به‌عنوان جایگزین آن یافته غیرمنطبق است. [تعیین اهمیت مادی](core_05_band_oversight.md#materiality-determination) جدید پیش از آنکه خود برچسب فوریت عوض شود لازم است — معمولاً **بالا** به **طبقهٔ A** وقتی آسیب قریب شود یا وقتی بازبینی نهایی **محور تخلف s = 7، 8، یا 9** فصل هشتم یا نام‌گذاری متناظر **فصل دهم** منافع است.
-- **نقاط عطف مرحلهٔ زنجیره:** برای اختلاف‌های مسیرگرفته از **فصل‌های هشتم تا یازدهم**، پذیرندگان باید پنجره‌های پیش‌فرض دسترس‌پذیر برای حس‌مند برای هر مرحله، مقیاس‌شده با طبقه، منتشر کنند. جداول کف عددی در [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) زندگی می‌کنند و باید درون حدهای بیرونی این بخش بگنجند:
+- **نقاط عطف مرحلهٔ زنجیره:** برای اختلاف‌های مسیرگرفته از **فصل‌های هشتم تا یازدهم**، پذیرندگان باید پنجره‌های پیش‌فرض دسترس‌پذیر برای حس‌مند برای هر مرحله، مقیاس‌شده با طبقه، منتشر کنند. جداول کف عددی در [CF-11.3.1](../../corpus_forum/cf_13.445_performance_backlog_publication_accessibility.md) زندگی می‌کنند و باید درون حدهای بیرونی این بخش بگنجند:
   1. دسترسی مجمع و پذیرش؛
   2. حفظ شاهد؛
   3. یافتهٔ راستی‌آزمایی‌شدهٔ **پرسش ۱** و گشودن **سابقهٔ ردپا** زیر **بخش‌های 2–3 فصل هشتم**؛
@@ -872,14 +872,14 @@ flowchart TD
   - **طبقهٔ L:** حداکثر **چهار ماه**؛
   - **طبقهٔ P:** حداکثر **شش ماه**.
   گذشتن از حد بیرونی طبقه بدون آن تمدید مستند غیرمنطبق است. تعویق نامحدود غیرمنطبق است هرجا منافع قانون اساسی حل‌نشده بمانند.
-- **ترمیم‌اعتراض پس از مهار اضطراری:** همان حدهای بیرونی پنجره‌های پیش‌فرض برای ترمیم اخطار و اعتراض پس از تدبیر اضطراری [**اصل XXIV-D**](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) هستند که آن‌ها را به تعویق انداخت. پنجره از آغاز تدبیر، یا از وقتی اخطار یا اعتراض به تعویق افتاد، هر کدام زودتر، می‌دود. تعویق اضطراری اخطار یا اعتراض **طبقهٔ A** است مگر نمایش فوریت پایین‌تر مستند روی سابقه باشد. ادامه فراتر از حد نمایش ادامهٔ **اصل XXIV-D** است، نه ساعت جدید.
+- **ترمیم‌اعتراض پس از مهار اضطراری:** همان حدهای بیرونی پنجره‌های پیش‌فرض برای ترمیم اخطار و اعتراض پس از تدبیر اضطراری [**اصل XXIV-D**](core_06_rights_part_d.md) هستند که آن‌ها را به تعویق انداخت. پنجره از آغاز تدبیر، یا از وقتی اخطار یا اعتراض به تعویق افتاد، هر کدام زودتر، می‌دود. تعویق اضطراری اخطار یا اعتراض **طبقهٔ A** است مگر نمایش فوریت پایین‌تر مستند روی سابقه باشد. ادامه فراتر از حد نمایش ادامهٔ **اصل XXIV-D** است، نه ساعت جدید.
 - **کف ضدتأخیر:** این‌ها غیرمنطبق‌اند جایی که پیش‌بینی‌پذیر حقوق، جبران‌ها، یا حفاظت به‌هنگام را باطل کنند:
   - انباشت طراحی‌شده، کم‌تأمین مزمن، یا پذیرش دسترس‌ناپذیر که دسترسی عملی **اصل XIII-B** (*حق اعتراض، بازبینی و جبران*) را شکست دهد؛
   - رژیم‌های تأخیر طراحی‌شده برای خسته کردن مدعیان؛
   - تأخیر خودساخته، لایه‌بندی رویه‌ای، مجمع‌گردی، یا تکه‌تکه کردن سابقه به‌کاررفته برای کش دادن حل بدون توجیه نقطهٔ عطف؛
   - دانستن اتهامات به‌عنوان ورودی‌های ردپای راستی‌آزمایی‌شده برای خریدن زمان ([فصل هشتم §3.1](core_08_standing_assessment.md#verified-inputs-for-standing))؛
-  - [تسخیر مسیرهای حل](core_05_band_accountability.md#capture-of-resolution-pathways) از راه تأخیر، کدورت، یا سوگیری حل‌کننده؛
-  - ادعاهای کارایی خلاف [§12.2 کارایی قانون اساسی](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) فصل یکم که:
+  - [تسخیر مسیرهای حل](../../core_05.035_band_accountability.md#capture-of-resolution-pathways) از راه تأخیر، کدورت، یا سوگیری حل‌کننده؛
+  - ادعاهای کارایی خلاف [§12.2 کارایی قانون اساسی](core_01_c_stewardship_capacity_principles.md) فصل یکم که:
     - راستی‌آزمایی واقعیت را بپرند؛
     - طرف غلط را کیفر دهند؛
     - اصلاحی عرضه کنند که با آسیب جور نیست؛ یا
@@ -895,7 +895,7 @@ flowchart TD
 
 - بالادست: [§1](#1-purpose-and-role) (*انتظارهای استقلال، قابلیت اعتراض، و ردگیری*)؛ [§2](#2-default-venue-and-primary-stakes) (*مسیرگذاری منافع اولیه و پذیرش*)؛ [§4](#4-forum-family-definitions) (*خانواده‌های مجمعی که این ظرفیت را نگه می‌دارند*)؛ [§5](#5-escalation-and-certification) (*ارتقا و گواهی که به پشتیبانی قابل‌اعتراض تکیه می‌کنند*)؛ [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*ساعت‌های طبقه و انضباط ضدتأخیر*).
 - پایین‌دست: [§5](#interim-protection) (*حفاظت موقت در حالی که کار پشتیبانی پیش می‌رود*).
-- خوانده شود با: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*پشتیبانی کارشناسی تحلیلی مجمع*)؛ **CF-9** (*خدمت تحقیق مستقل و واسط پیگرد*))؛ [اصل XIII-B: حق اعتراض، بازبینی و جبران](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)؛ [اصل XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*).
+- خوانده شود با: [corpus_forum.md](../../corpus_forum.md) (**CF-8** (*پشتیبانی کارشناسی تحلیلی مجمع*)؛ **CF-9** (*خدمت تحقیق مستقل و واسط پیگرد*))؛ [اصل XIII-B: حق اعتراض، بازبینی و جبران](core_06_rights_part_c.md)؛ [اصل XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*حسابرسی، شفافیت و راستی‌آزمایی مستقل*).
 
 </details>
 
@@ -922,7 +922,7 @@ flowchart TD
 
 **پروندهٔ قبلی (هنوز انگلیسی):** [core_10_b_misconduct_pattern_applications.md](../../core_12_b_misconduct_pattern_applications.md#chapter-twelve-part-b-anti-constitutional-misconduct-pattern-applications)
 
-**پروندهٔ بعدی (هنوز انگلیسی):** [core_08-11_application_vignettes.md](../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes)
+**پروندهٔ بعدی (هنوز انگلیسی):** [core_08-11_application_vignettes.md](../../core_10.005_application_vignettes.md)
 
 **اصل الزام‌آور:** [core_11_forum.md](../../core_13_forum.md)
 

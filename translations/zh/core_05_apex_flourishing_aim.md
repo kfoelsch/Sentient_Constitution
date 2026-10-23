@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第五章指南针](core_05__definitions_home.md#第五章指南针与定义地图)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；原则层释义在[序言 §1](core_00_preamble.md#flourishing)。
-- 下游：原则：[§2 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)；[§3 不可妥协的原则约束：安全与真理](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth)；[§4 系统稳定使能者：信任（协调完整性）](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)；[§11.1.5 宪法结果主张纪律](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)；[宪法宗旨分解](#flourishing-aim-decomposition)；按[第五章指南针](core_05__definitions_home.md#第五章指南针与定义地图)以**繁盛**为首要宗旨的四元带文件。
+- 下游：原则：[§2 基础目标：福祉](core_01_a_values_principles.md)；[§3 不可妥协的原则约束：安全与真理](core_01_a_values_principles.md)；[§4 系统稳定使能者：信任（协调完整性）](core_01_a_values_principles.md)；[§11.1.5 宪法结果主张纪律](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)；[宪法宗旨分解](#flourishing-aim-decomposition)；按[第五章指南针](core_05__definitions_home.md#第五章指南针与定义地图)以**繁盛**为首要宗旨的四元带文件。
 - 一并阅读：[福祉](../../core_05.040_band_continuity.md#wellbeing)、[安全（约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)、[真理（宪法约束）](../../core_05.050_band_oversight.md#truth-constitutional-constraint)、[可信](../../core_05.040_band_continuity.md#trustworthiness)、[有意义的能动性](../../core_05.055_band_participation.md#meaningful-agency)、[替代指标偏离](../../core_05.050_band_oversight.md#proxy-divergence)、[系统俘获](../../core_05.040_band_continuity.md#system-capture)、[延续（宪法宗旨）](core_05_apex_continuity_aim.md#continuity-aim-constitutional)（成对宗旨 — 任何一项都不得以牺牲另一项为代价来追求）、按[实质利害](core_00_preamble.md#material-stake)缩放的[宪法四元](core_00_preamble.md#constitutional-tetrad)（本宗旨的正当性框架 — 不是第五个构成项），以及繁盛测量族。
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - 在[宪法四元](core_00_preamble.md#constitutional-tetrad)下判断，按[实质利害](core_00_preamble.md#material-stake)缩放。
-  - 把所主张的繁盛结果系到[构成项](#flourishing-aim-decomposition)条件上，以及感知者实际经历的结果上，依据第四章与[第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)。
+  - 把所主张的繁盛结果系到[构成项](#flourishing-aim-decomposition)条件上，以及感知者实际经历的结果上，依据第四章与[第一章 §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)。
   - 始终一并阅读[延续（宪法宗旨）](core_05_apex_continuity_aim.md#continuity-aim-constitutional)：可预见地削弱长期稳定性、韧性或生态完整性的短期收益，在两项宗旨一并判断时即违背**繁盛**。
 <a id="flourishing-constitutional-c"></a>
 - C: 不合规当：
   - 一项构件被最大化，而真理、安全、可信或能动性被掏空；
   - 繁盛主张无法追溯到第四章下的宪法结果；或
-  - 以实质击败[延续（宪法宗旨）](core_05_apex_continuity_aim.md#continuity-aim-constitutional)的方式追求**繁盛**，而没有[第一章 §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)下的明确许可。
+  - 以实质击败[延续（宪法宗旨）](core_05_apex_continuity_aim.md#continuity-aim-constitutional)的方式追求**繁盛**，而没有[第一章 §6](core_01_b_interaction_interpretation.md)下的明确许可。
 
 ---
 

@@ -419,7 +419,7 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상위: [§3](#3-시스템-헌장과-기관-헌장이-명시해야-하는-내용); [제8장 §2](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor).
+- 상위: [§3](#3-시스템-헌장과-기관-헌장이-명시해야-하는-내용); [제8장 §2](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement).
 - 하위: [제8장 §5](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution); [제9장 B부 §6.1.1](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification); [제10장 §3.7](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority); **CI-8.205 §2**, **CI-14.205 §§5–6**.
 - 함께 읽기: [중대 통제선](../../core_05.035_band_accountability.md#material-control-line); [standing 기록](../../core_05.035_band_accountability.md#standing-record).
 
@@ -443,7 +443,7 @@ lock은 감지자뿐 아니라 운영 주체 자체에 적용될 수 있다. 이
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 의석의 의미와 존재 이유
 
-모든 [중대하게 구속력 있는 행위](../../core_05.035_band_accountability.md#materially-binding-act)에는 네 가지 역할이 있으며, [제8장 §2 네 의석 헌법상 최저선](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor)은 이를 분리한다.
+모든 [중대하게 구속력 있는 행위](../../core_05.035_band_accountability.md#materially-binding-act)에는 네 가지 역할이 있으며, [제8장 §2 네 의석 헌법상 최저선](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)은 이를 분리한다.
 
 - **[개시 의석](../../core_05.035_band_accountability.md#initiating-seat):** 요청·제안·운영·주장을 통해 행위를 시작한다.
 - **[검증 또는 승인 의석](../../core_05.035_band_accountability.md#verify-or-authorize-seat):** 증거와 권한을 확인한 뒤 행위를 검증·승인·조건부 승인하거나 거부한다.

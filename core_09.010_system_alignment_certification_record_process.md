@@ -9,7 +9,7 @@
 > - **Evaluation inputs:** [Part A §2](core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§5](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) supply evaluation outputs reflected on the certification record.
 > - **Anti-relocation rule:** Part B does not restate Part A evaluation mechanics, Chapter Five canonical definitions, Chapter Ten standing measurement, or Chapter Eleven standing effects. **§10** states the standing bridge boundary explicitly. Part B also does not relocate auditing ownership from **Article XVI** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-5.110 §3 and CJS-5.115 §3** (*auditability and reconstructability terms*)–**CJS-5.110 §5**.
 >
-> **Upstream:** [Part A](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation); [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-segregation-of-duties) functional independence and segregation of duties; Chapter Thirteen forum supervision; Chapters Two through Four verification discipline.
+> **Upstream:** [Part A](core_09.005_system_alignment_certification_evaluation.md#chapter-nine-part-a-system-alignment-certification--evaluation); [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Thirteen forum supervision; Chapters Two through Four verification discipline.
 > **Downstream:** Chapter Ten standing records and verified inputs; Chapter Eleven standing effects.
 
 </details>
@@ -21,7 +21,7 @@
   - [Part A §1](core_09.005_system_alignment_certification_evaluation.md#1-purpose-and-role) (9.005 §1) (*certification purpose and process overview*);
   - [Part A §2](core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation) (9.005 §2) through
   - [§5](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation outputs for the record*);
-  - [Chapter Eight §2 Four-Seat Constitutional Floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2);
+  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream:
@@ -136,8 +136,8 @@ flowchart TB
   - [Part A §3 Whole-System Certification Evaluation](core_09.005_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (9.005 §3),
   - [§4 Evaluations Where Implicated](core_09.005_system_alignment_certification_evaluation.md#4-evaluations-where-implicated), and
   - [§5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) (*evaluation findings the forums review*);
-  - [Chapter Eight §2 Four-Seat Constitutional Floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2) and
-  - [§9 Relationship to Later Processes](core_08.000_functional_independence_segregation_of_duties.md#9-relationship-to-later-processes) (*the four seats, and the duty to say how certification uses them; applied in
+  - [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2) and
+  - [§9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes) (*the four seats, and the duty to say how certification uses them; applied in
   - [§6.1.1](#611-four-seats-in-a-certification)*);
   - [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) (*where the seats for a certification are placed*);
   - [Chapter Thirteen §4](core_13.000_forum.md#4-forum-family-definitions--accountability-through-adjudication) (13.000 §4) (*forum families, Integrity-led alignment certification, component referral, and validation*);
@@ -213,7 +213,7 @@ This section gives each forum family its **component role** in system alignment 
 
 ##### 6.1.1 Four seats in a certification
 
-This subsection is how Chapter Nine applies the [Chapter Eight §2 Four-Seat Constitutional Floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor). [Chapter Eight §9 Relationship to Later Processes](core_08.000_functional_independence_segregation_of_duties.md#9-relationship-to-later-processes) requires every later process to say how it assigns and uses all four seats, and this subsection is that statement for certification. A certification is a [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), so every pass has the four seats Chapter Eight defines, under the names Chapter Eight gives them. This subsection adds no seat and relaxes no rule of Chapter Eight. Other rules in this chapter may be stricter, never weaker.
+This subsection is how Chapter Nine applies the [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement). [Chapter Eight §9 Relationship to Later Processes](core_08.000_functional_independence_separation_of_duties.md#9-relationship-to-later-processes) requires every later process to say how it assigns and uses all four seats, and this subsection is that statement for certification. A certification is a [Materially Binding Act](core_05.035_band_accountability.md#materially-binding-act), so every pass has the four seats Chapter Eight defines, under the names Chapter Eight gives them. This subsection adds no seat and relaxes no rule of Chapter Eight. Other rules in this chapter may be stricter, never weaker.
 
 For the certification act, the seats are held as follows:
 
@@ -222,11 +222,11 @@ For the certification act, the seats are held as follows:
 - **[Record Seat](core_05.035_band_accountability.md#record-seat):** the office that opens, enters, versions, preserves, and publishes the coordinated System Certification Record. That record is the Act Record for the certification act (see [§8.1 Minimum record contents](#81-minimum-record-contents)).
 - **[Contest Seat](core_05.035_band_accountability.md#contest-seat):** the published record challenge path, together with the competent review or backup forum, for the challenged act (see [§9.1.1 Contestability paths](#911-contestability-paths)).
 
-**Where the seats are placed.** The system's [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) places the initiating, record, and contest seats for a certification. For each, it lists the eligible offices, the stewards now authorized to hold them, and the substitute. The record and contest seats it names sit outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the operator and proponent. The map does not place the verify-or-authorize seat. The lead forum and the component authorities are assigned under [§6.2 Supervisory sequence](#62-supervisory-sequence) and Chapter Thirteen, so the operator cannot choose its own verifying authority. The System Certification Record names the Charter Role Map version in force for each pass (see [§8.1 Minimum record contents](#81-minimum-record-contents)). A seat the map leaves unplaced is a System Charter defect to log and correct, and the pass routes as [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution) provides.
+**Where the seats are placed.** The system's [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) places the initiating, record, and contest seats for a certification. For each, it lists the eligible offices, the stewards now authorized to hold them, and the substitute. The record and contest seats it names sit outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the operator and proponent. The map does not place the verify-or-authorize seat. The lead forum and the component authorities are assigned under [§6.2 Supervisory sequence](#62-supervisory-sequence) and Chapter Thirteen, so the operator cannot choose its own verifying authority. The System Certification Record names the Charter Role Map version in force for each pass (see [§8.1 Minimum record contents](#81-minimum-record-contents)). A seat the map leaves unplaced is a System Charter defect to log and correct, and the pass routes as [Chapter Eight §5 Published Placement, Vacancy, and Substitution](core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) provides.
 
-**Outside the operator.** Everyone who holds a verify-or-authorize seat in a certification must be outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the operator and the proponent, and must have no interest that the outcome decides. The operator, steward, vendor, or other proponent cannot choose, appoint, fund through a channel it controls, or remove the forum or component authority that checks it. No one who works for it, is owned by it, or answers to it may hold the seat for its certification. A sentient who cannot meet this must step aside from that pass (recusal under Chapter Thirteen). A placement that fails this is not valid, whatever any Charter Role Map says ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)).
+**Outside the operator.** Everyone who holds a verify-or-authorize seat in a certification must be outside the [Material Control Line](core_05.035_band_accountability.md#material-control-line) of the operator and the proponent, and must have no interest that the outcome decides. The operator, steward, vendor, or other proponent cannot choose, appoint, fund through a channel it controls, or remove the forum or component authority that checks it. No one who works for it, is owned by it, or answers to it may hold the seat for its certification. A sentient who cannot meet this must step aside from that pass (recusal under Chapter Thirteen). A placement that fails this is not valid, whatever any Charter Role Map says ([Chapter Eight §3 Independence, Conflict, and Control Lines](core_08.000_functional_independence_separation_of_duties.md#3-independence-conflict-and-control-lines)).
 
-A forum family may hold different seats on different acts. It may not use its family label to merge seats prohibited by [Chapter Eight §2 Four-Seat Constitutional Floor](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) on the same act.
+A forum family may hold different seats on different acts. It may not use its family label to merge seats prohibited by [Chapter Eight §2 Four-Seat Constitutional Requirement](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) on the same act.
 
 **Lead forum and record holder.** The lead forum holds the verify-or-authorize seat for the outcome, and each component authority holds it for its own finding. The lead forum directs the sequence, but it does not hold the record seat on the same act. The record holder named in the Charter Role Map opens, versions, preserves, and publishes the record. It enters what the deciding forums determined and does not decide anything itself. The "one coordinated record" duty in Chapter Thirteen is a duty of the lead forum to coordinate the record, not to keep it.
 
@@ -447,7 +447,7 @@ For every condition or corrective task, the record must name:
 - the independent verifying authority; and
 - the consequence of non-completion or breach.
 
-A condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Releasing a condition requires independent verification of the evidence supporting release, under [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§6.2 Supervisory sequence](#62-supervisory-sequence).
+A condition cannot defer a protection that the authorized scope needs in order to preserve a Rights Floor. Releasing a condition requires independent verification of the evidence supporting release, under [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) and [§6.2 Supervisory sequence](#62-supervisory-sequence).
 
 **Systems already operating.** A system that is already operating when an adopter's adopting document takes effect is not barred by this rule while the transition window published for it runs.
 
@@ -515,7 +515,7 @@ A good-faith dispute is not unwillingness. An operator that contests a finding t
 **Capacity.** The forum finds whether:
 
 - **Authority:** the owners named for the correction control the cause, whether that is the design, the data, the funding, the deployment, or the governing decision. An owner who cannot change the cause is not a plan.
-- **Skill:** qualified sentients hold the work, with backup, so that correction does not rest on one head ([Chapter One §17.6 Portable Competence](core_01.015_stewardship_capacity_principles.md#176-portable-competence); **CI-14.205 §1** (*Shared staffing and competency floor*)).
+- **Skill:** qualified sentients hold the work, with backup, so that correction does not rest on one head ([Chapter One §17.6 Portable Competence](core_01.015_stewardship_capacity_principles.md#176-portable-competence); **CI-14.205 §1** (*Shared staffing and competency requirement*)).
 - **Resources:** the work is funded and scheduled, and its cost is not pushed onto affected sentients ([Chapter Eleven §9.1 Remediation capacity and funding](core_11.000_standing_integration.md#91-remediation-capacity-and-funding); **CI-11.205** (*Remedy systems and institutional redress capacity*)).
 - **Dependencies:** where the cause sits with a third party, such as a vendor, an upstream system, or a parent institution, someone can compel or replace it, and by when.
 - **Verifiability:** an independent verifying authority can test the fix with the access and the time given. A correction nobody can verify is not capacity.
@@ -590,7 +590,7 @@ The forum may not meet any of these by certifying, or by continuing certificatio
   - [Chapters Two through Four](core_04.000_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (*definition, burden, traceability, and verification substrate*);
   - [System Certification Record](core_05.040_band_continuity.md#system-certification-record) (*Chapter Five meaning*);
   - [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record);
-  - [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs) (8.000 §8); Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*);
+  - [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs) (8.000 §8); Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*);
   - [**Def.O1** *Transparency, Auditability, and Verification*](core_05.050_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: [§9](#9-recertification-and-reopening) (*recertification and reopening*); [§10](#10-relationship-to-standing) (*verified-input gate*); [Chapter Thirteen §2.3](core_13.000_forum.md#23-forum-case-records-standing-records-and-contests) (13.000 §2.3) (*forum case records, standing-record contests*).
 - Read with:
@@ -617,7 +617,7 @@ This section is the single home for what goes on the record. The evaluations in 
 
 #### 8.1 Minimum record contents
 
-For the materially binding certification act, the System Certification Record satisfies and extends the requirements of the [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) and [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs). It may carry those elements directly, or keep attributable, integrity-protected links to them. It does not need a duplicate parallel record.
+For the materially binding certification act, the System Certification Record satisfies and extends the requirements of the [Materially Binding Act Record](core_05.035_band_accountability.md#materially-binding-act-record) and [Chapter Eight §8 Act Records and Attributable Handoffs](core_08.000_functional_independence_separation_of_duties.md#8-act-records-and-attributable-handoffs). It may carry those elements directly, or keep attributable, integrity-protected links to them. It does not need a duplicate parallel record.
 
 The record must identify, at minimum:
 
@@ -628,7 +628,7 @@ The record must identify, at minimum:
   - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists;
   - where the operator or steward is an [Institution](core_05.040_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Part D §11.1 Relation to System Alignment Certification](core_09.020_institutional_alignment_certification.md#111-relation-to-system-alignment-certification));
 - **Prior record:** for a recertification, or a reopened or fresh review, an attributable, integrity-protected link to the completed record it follows, and what has changed since;
-- **System Classification Record:** the [System Classification Record](core_05.040_band_continuity.md#system-classification-record), or its required contents under CS-9.305 (*System classification machinery*) and CS-9.310 (*System classification machinery*), reflecting the evaluation under [Part A §2 System Class Evaluation](core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation), stating:
+- **System Classification Record:** the [System Classification Record](core_05.040_band_continuity.md#system-classification-record), or its required contents under CS-9.305 (*System classification machinery*) and CS-9.310 (*System impact classifications*), reflecting the evaluation under [Part A §2 System Class Evaluation](core_09.005_system_alignment_certification_evaluation.md#2-system-class-evaluation), stating:
   - the assigned system class;
   - the classification rationale;
   - key assumptions, including material-impact assumptions;
@@ -643,7 +643,7 @@ The record must identify, at minimum:
   - defects or conditions where evaluation or disclosure remains incomplete.
 
   These risk findings live on this record. They are not a separate named risk-disclosure record or a fifth mandatory named component record;
-- **System Data Types Record:** the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record), or its required contents under CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*), produced or verified under [Part A §3.4 Data Types and Handling Evaluation](core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), stating:
+- **System Data Types Record:** the [System Data Types Record](core_05.040_band_continuity.md#system-data-types-record), or its required contents under CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*), produced or verified under [Part A §3.4 Data Types and Handling Evaluation](core_09.005_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation), stating:
   - the data types materially in scope;
   - the classification rationale for ambiguous or multi-type data;
   - the separation and cross-domain-linkage controls relied on;
@@ -653,7 +653,7 @@ The record must identify, at minimum:
     - its date or cycle identifier;
     - its cadence (scaled to system class and impact); and
     - any material retypes;
-  - any justified restrictions on disclosure or audit access, with their public substitutes where CS-6.305 (*Information types and handling*) and CS-6.310 (*Information types and handling*) requires them; and
+  - any justified restrictions on disclosure or audit access, with their public substitutes where CS-6.305 (*Information types and handling*) and CS-6.310 (*Data classifications*) requires them; and
   - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](core_05.050_band_oversight.md#public-oversight-baseline-disclosure) covers the certified scope: the System Charter fields relied on, boundary findings, and any coverage gaps or conditions;
 - **Rights-Floor and domain findings:** for each protection in the [Part A §5 Rights-Floor and Domain Evaluations](core_09.005_system_alignment_certification_evaluation.md#5-rights-floor-and-domain-evaluations) table whose trigger applies:
   - the materiality trigger relied on and the evaluation scope;
@@ -690,7 +690,7 @@ The record must identify, at minimum:
   - risks of capture, self-review, misaligned incentives, evidence control, and obstructed challenge;
 - **Forum supervision:** the forum family or authority that issued, adopted, referred, certified, stayed, or reviewed each component, and the supervisory sequence (who oversees what, and in what order) under [§6.2 Supervisory sequence](#62-supervisory-sequence);
 - **Functional-independence record:**
-  - the four seats required by [Chapter Eight](core_08.000_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (initiating, verify-or-authorize, record, and contest), including each holder and authority, and the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) version in force when each seat was held;
+  - the four seats required by [Chapter Eight](core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (initiating, verify-or-authorize, record, and contest), including each holder and authority, and the [Charter Role Map](core_05.040_band_continuity.md#charter-role-map) version in force when each seat was held;
   - every recusal, delegation, substitute, permitted merger, or emergency departure; and
   - enough control-line information to show that the operator or proponent did not verify its own certification claim or control the challenge to it;
 - **Challenge paths:** the named [contestability paths](#911-contestability-paths) under [§9.1 Challenging a Certification](#91-challenging-a-certification) and the contestability chain under [§6.3 Contestability chain](#63-contestability-chain), showing how affected parties can challenge at each step;

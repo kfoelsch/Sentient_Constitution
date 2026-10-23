@@ -133,7 +133,7 @@
 - [능력 요건](../../core_05.050_band_oversight.md#capability-requirement)
 - [해결 경로의 포획](../../core_05.035_band_accountability.md#capture-of-resolution-pathways)
 - [연쇄 실패](../../core_05.040_band_continuity.md#cascading-failure)
-- [범위 증서](../../core_05.040_band_continuity.md#charter)
+- [범위 증서](../../core_05.040_band_continuity.md)
 - [분류에 맞춰 세기 조절된 거버넌스](../../core_05.050_band_oversight.md#classification-scaled-governance)
 - [강제와 조작](../../core_05.055_band_participation.md#coercion-and-manipulation)
 - [집단 책무 실패](../../core_05.035_band_accountability.md#collective-accountability-failure)
@@ -401,7 +401,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); [실질 이해관계](core_00_preamble.md#material-stake); [전문 §2 측정 개관](core_00_preamble.md#measurements-overview).
+- 상류: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad); [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); [실질 이해관계](core_00_preamble.md#material-stake); [전문 §2 측정 개관](core_00_preamble.md#2-measurements-overview).
 - 하류: 모든 제5장 띠 정의와 **Def.** 의존 무리를 위한 헌법 지향
 - 함께 읽기: 어떤 의존 무리든 적용하기 전에 [독립 정의](core_05__definitions_home.md#1-독립-정의), [§1.1 호출, 충족, 준수](core_05__definitions_home.md#11-호출-충족-준수), [§2.1 공동 호출과 충족](core_05__definitions_home.md#21-공동-호출과-충족), [§2.2 단독 정의의 상호작용과 온전한 맥락](core_05__definitions_home.md#22-단독-정의의-상호작용과-온전한-맥락) 메타 규칙.
 
@@ -437,7 +437,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">독자 안내(비운영): 전문 측정 대조</span></strong></summary>
 
-> [전문 §2](core_00_preamble.md#measurements-overview)는 일곱 헌법 **측정 범주**를 열거한다 — 체계를 평가할 때 운영하는 이가 묻는 질문. 제5장은 **정전 정의**를 사원(四元) 다리, **연속** 목적, **통합** 교차 다리 주관으로 짠다. 아래 표는 각 측정 범주를 그 제5장 거처에 잇는다. 한 범주가 띠 파일 둘 이상에 걸칠 수 있다; 측정 범주가 겹친다고 정전 거처가 옮겨지지는 않는다.
+> [전문 §2](core_00_preamble.md#2-measurements-overview)는 일곱 헌법 **측정 범주**를 열거한다 — 체계를 평가할 때 운영하는 이가 묻는 질문. 제5장은 **정전 정의**를 사원(四元) 다리, **연속** 목적, **통합** 교차 다리 주관으로 짠다. 아래 표는 각 측정 범주를 그 제5장 거처에 잇는다. 한 범주가 띠 파일 둘 이상에 걸칠 수 있다; 측정 범주가 겹친다고 정전 거처가 옮겨지지는 않는다.
 >
 > **실질성** ([실질성 인정](../../core_05.050_band_oversight.md#materiality))은 통합이다 — [실질 이해관계](core_00_preamble.md#material-stake) 아래 모든 측정 가족의 세기를 조절하는 가로지른 문턱 문이지, 아래 표의 따로 떨어진 범주가 아니다.
 

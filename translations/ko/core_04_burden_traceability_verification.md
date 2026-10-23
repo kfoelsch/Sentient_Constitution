@@ -49,7 +49,7 @@
 | **4 — 보안 한도** | 실제 보안 한도는 허용된다; 구실인 차단은 허용되지 않는다 | [§4](#4-보안-제약-관찰-가능성과-확인-규칙) |
 | **5 — 무엇이 세는가** | 증거는 실제이고, 완전하고, 독립하고, 지속되어야 한다 | [§5](#5-준수-증거-표준) |
 
-**쉬운 말 접근.** [제1장 §3.4 — 쉬운 말 접근성(참여와 책임 있는 관리 의무)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)는 감지자가 권리를 행사하고, 결정을 다투거나, 준수를 확인하는 데 쓰는 거버넌스, 재결, 운영 자료에 적용된다. 쉬운 말은 제2장부터 제4장이 요구하는 것을 **바꾸지** 않고 줄이지도 않는다. 쉬운 말 판이 여기의 정의나 확인 규칙과 어긋나 보이면, 그 규칙이 다스린다. 은어, 쌓인 복잡성, 또는 불투명을 써서 [다툴 수 있음](../../core_05.035_band_accountability.md#contestability)이나 [제 XV조: 감사, 투명, 독립 확인](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) 접근을 막는 것은 이 장과 **제1장 §3.4** 아래의 비준수다.
+**쉬운 말 접근.** [제1장 §3.4 — 쉬운 말 접근성(참여와 책임 있는 관리 의무)](core_01_a_values_principles.md)는 감지자가 권리를 행사하고, 결정을 다투거나, 준수를 확인하는 데 쓰는 거버넌스, 재결, 운영 자료에 적용된다. 쉬운 말은 제2장부터 제4장이 요구하는 것을 **바꾸지** 않고 줄이지도 않는다. 쉬운 말 판이 여기의 정의나 확인 규칙과 어긋나 보이면, 그 규칙이 다스린다. 은어, 쌓인 복잡성, 또는 불투명을 써서 [다툴 수 있음](../../core_05.035_band_accountability.md#contestability)이나 [제 XV조: 감사, 투명, 독립 확인](../../core_06.015_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) 접근을 막는 것은 이 장과 **제1장 §3.4** 아래의 비준수다.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 정의 추적 가능성 요건
@@ -122,7 +122,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: [제4장, 3절 — 추적 가능성의 관찰 가능성 요건](#3-추적-가능성의-관찰-가능성-요건); [제1장, 8.2절 — 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
+- 상류: 원칙: [제4장, 3절 — 추적 가능성의 관찰 가능성 요건](#3-추적-가능성의-관찰-가능성-요건); [제1장, 8.2절 — 인식 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
 - 하류: [제4장, 5절 — 준수 증거 표준](#5-준수-증거-표준); [corpus_systems.md](../../corpus_systems.md), **CS-2 — 정보 유형과 취급**, 및 **CS-5** — 운영 암호, 자격 정보, 정보 유형 취급.
 - 함께 읽기: [제5장 무리 정의 (예견 가능성 주의)](../../core_05.050_band_oversight.md#foreseeability) — 합리적으로 예견 가능한 조건 아래에서 확인을 예측 가능하게 막는 설계 선택은, 말해진 보안 근거와 관계없이 비준수다; [제5장 진실(헌법 제약)](../../core_05.050_band_oversight.md#truth-constitutional-constraint)과 [제5장 안전(제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint) — 암호와 정보 유형 취급은 **2**절, **3**절, 또는 **5**절을 대체해서는 안 된다; 환경 분리 제약이 실질인 곳에서 **Articles VII-A**, **VII-B**, **XVI-A**, **XVII-A**.
 
@@ -158,7 +158,7 @@
 
 - 상류: [제4장, 1절부터 4절](#1-전속-집행과-부담-배분); [제2장, §1 — 목적과 역할](core_02_definition_structure.md#1-목적과-역할); [제2장, §2 정의 완전성 요건](core_02_definition_structure.md#2-정의-완전성-요건); [제2장, §3 정의 스택에 걸친 일관성](core_02_definition_structure.md#3-정의-스택에-걸친-일관성); [제3장, 1절 — 정의 완전성과 회피 금지 제약](core_03_definition_integrity.md#1-정의-완전성과-회피-금지-제약); [제3장, 2절 — 관찰 가능한 체계 행위에서 오는 비준수](core_03_definition_integrity.md#2-관찰-가능한-체계-행위에서-오는-비준수); [제3장, §2.6 불확실성 완전성과 착취 금지 제약](core_03_definition_integrity.md#26-불확실성-완전성과-착취-금지-제약) — 실체 정의와 비준수 규칙; **§4**는 증거 층 요건만 말하며 그 규칙을 다시 말하지 않는다.
 - 하류: [제10장 — 기여, 위반, 궤적 모형](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- 함께 읽기: [제4장, 2절 — 정의 추적 가능성 요건](#2-정의-추적-가능성-요건) — 실질로 요구되는 어떤 **제5장** 정의든 불러내지 않거나 바르게 적용하지 못하면, 관련된 평가, 증거, 준수 인정을 온전히 무효로 한다; [제1장, §6 — 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); 세기 조절이 감지자 복지와 긴 지평 안정 사이의 교환에 영향을 미치는 곳에서 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); [제5장 안전(제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [제5장 진실(헌법 제약)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [제5장 인식 완전성](../../core_05.050_band_oversight.md#epistemic-integrity) — 경험적, 예측적, 또는 인과적 주장에 대한 과학에 정통한 증거 정합.
+- 함께 읽기: [제4장, 2절 — 정의 추적 가능성 요건](#2-정의-추적-가능성-요건) — 실질로 요구되는 어떤 **제5장** 정의든 불러내지 않거나 바르게 적용하지 못하면, 관련된 평가, 증거, 준수 인정을 온전히 무효로 한다; [제1장, §6 — 과정 충돌 해결](core_01_b_interaction_interpretation.md); 세기 조절이 감지자 복지와 긴 지평 안정 사이의 교환에 영향을 미치는 곳에서 [두 헌법 목적](core_00_preamble.md#two-constitutional-aims); [제5장 안전(제약)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [제5장 진실(헌법 제약)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [제5장 인식 완전성](../../core_05.050_band_oversight.md#epistemic-integrity) — 경험적, 예측적, 또는 인과적 주장에 대한 과학에 정통한 증거 정합.
 
 </details>
 
@@ -174,7 +174,7 @@
 - **관찰 가능**하고, **확인 가능**하고, 요구되는 범위에 대해 **완전**하고, 시간에 걸쳐 **지속**되고, 체계 영향, 의존, 위험에 비례하는 엄격함에서 **충분**하여, 독립 감사와 적대 시험에 견딜 것
 - 합리적으로 닿을 수 있는 곳에서 **독립 타당성 확인**을 쓸 것; 없음은 비례 제약 아래에서 정당화되어야 한다
 - 증거 생성, 공개, 확인에 대한 **4절** 제약을 준수할 것. 적용되는 곳에서 암호와 정보 유형 취급을 포함
-- 같은 평가에서 헌법 가치나 제약이 충돌하는 곳에서, [제1장, §6 — 과정 충돌 해결](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)과 일관되게 남을 것
+- 같은 평가에서 헌법 가치나 제약이 충돌하는 곳에서, [제1장, §6 — 과정 충돌 해결](core_01_b_interaction_interpretation.md)과 일관되게 남을 것
 - 준수, 분류, 또는 거버넌스에 실질인 **경험적**, **예측적**, 또는 **인과적** 주장에 대해, 비례하는 곳에서 **과학 완전성**을 반영할 것 — 시험 가능하거나 검토 가능한 방법, 문서화된 가정과 한계, 그것들이 결정에 관계하는 곳에서 영 결과나 실패한 재현의 억압 없음, 그리고 새 증거에 따라 고칠 수 있는 결론
 
 **다음은 1절 아래의 증명 부담을 충족하지 않는다:**

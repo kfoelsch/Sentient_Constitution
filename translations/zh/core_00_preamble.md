@@ -114,9 +114,9 @@
 
 *用直白的话说：正当性需要安全、真理与信任，再加上真正的机会去学习影响你的系统，并在维持其运转中承担有后果的角色。*
 
-持久正当性取决于[安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)与[信任](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity)，也取决于对合法尽责管理、诚实合作与有界志向的相称承认 — 不只靠制裁与约束。第一章在[承认、强化与志向](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)中陈述这一承认维度。
+持久正当性取决于[安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)与[信任](core_01_a_values_principles.md)，也取决于对合法尽责管理、诚实合作与有界志向的相称承认 — 不只靠制裁与约束。第一章在[承认、强化与志向](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)中陈述这一承认维度。
 
-分布式理解与尽责管理要求感知者有经常、相称的机会，去学习实质影响我们的系统如何运行。此外，它使我们能够在其维护与改进中承担有后果的角色 — 从而使能力、修复能力与正当性在我们的宪法共同体中广泛分布，以确保韧性、可持续与亲社会创新。这些机会必须满足安全、真理、有界能动性，以及[第一章](../../core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)所述的[可避免负担](../../core_05_band_continuity.md#avoidable-burden)与相称性纪律。
+分布式理解与尽责管理要求感知者有经常、相称的机会，去学习实质影响我们的系统如何运行。此外，它使我们能够在其维护与改进中承担有后果的角色 — 从而使能力、修复能力与正当性在我们的宪法共同体中广泛分布，以确保韧性、可持续与亲社会创新。这些机会必须满足安全、真理、有界能动性，以及[第一章](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)所述的[可避免负担](../../core_05_band_continuity.md#avoidable-burden)与相称性纪律。
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 在治理中使用测量
@@ -169,7 +169,7 @@
 
 每一摘要陈述该章掌管什么、产出什么。
 
-**第一章 — 价值、原则与尽责管理**（[A 部分](core_01_a_values_principles.md#2-foundational-objective-wellbeing) · [B 部分](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C 部分](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance)）
+**第一章 — 价值、原则与尽责管理**（[A 部分](core_01_a_values_principles.md) · [B 部分](../../core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C 部分](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance)）
 
 - **其职掌：** 陈述宪法的指导价值与约束 — 福祉、公平、安全、真理、信任、有界自由、对合法贡献的承认与相称奖赏、原则间冲突解决，以及尽责管理义务，包括分布式理解、系统评价与治理纪律。
 - **其产出：** 每一后续章节的解释基础 — 在必须阅读并适用系统、权利、定义或流程链时，把高阶宗旨变成操作性要求的规则。
@@ -227,7 +227,7 @@
 - **其职掌：** 把经核实的分类整合为真实世界的**轨迹效果**，走分开的轨道 — 按[**实质利害**](#material-stake)缩放，不把贡献与违规折成一个净分，也不掏空参与、监督、问责或及时性。
   - **贡献轨道：** 经核实的正面分类产生实际上侧：
     - [**能力许可**](../../core_11_standing_integration.md#62-competency-bars-and-clearances)可打开信任敏感角色、受托权威、监督准入，以及在对照已公布能力门槛证明能力、且无适用[轨迹锁定](../../core_11_standing_integration.md#42-prevention--general-standing-locks)阻断具名路径时，逐步加重后果的尽责管理
-    - 对合法尽责管理与合作的相称承认与**实质奖赏**，如[第一章](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)所要求
+    - 对合法尽责管理与合作的相称承认与**实质奖赏**，如[第一章](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)所要求
     - 不是空夸奖。好处必须真实、有证据支撑、并开放质疑
   - **违规轨道：** 经核实的违规认定产生实际下侧：
     - **轨迹锁定**、角色限制、补救令、[对受伤害者的救济](../../core_11_standing_integration.md#41-remedy-and-correction)、补充描述符与执行钩

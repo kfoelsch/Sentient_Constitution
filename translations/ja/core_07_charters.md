@@ -415,7 +415,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追跡関係</span></strong></summary>
 
-- 上流：[§3](#3-システム憲章および機関憲章の記載事項)；[第8章 §2 四席の憲法上の最低基準](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor)（8.000 §2）。
+- 上流：[§3](#3-システム憲章および機関憲章の記載事項)；[第8章 §2 四席の憲法上の最低基準](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)（8.000 §2）。
 - 下流：[第8章 §5 公開された配置、空席および代替](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution)（8.000 §5）；[第9章B部 §6.1.1 認証における四席](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification)（9.010 §6.1.1）；[第10章 §3.7 地位記録の保管と開示権限](../../core_10.000_standing_assessment.md#37-record-custody-and-opening-authority)（10.000 §3.7）；**CI-8.205 §2**（*機能分離レーン*）；**CI-14.205 §5**（*認可された役割と説明責任系統*）；**CI-14.205 §6**（*席のカタログ—プロセス役割類型と運用境界*）。
 - 併読：[実質的統制線](../../core_05.035_band_accountability.md#material-control-line)；[地位記録](../../core_05.035_band_accountability.md#standing-record)。
 
@@ -439,7 +439,7 @@ flowchart TB
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 各席とは何か、なぜ必要か
 
-すべての[重大な拘束力を持つ行為](../../core_05.035_band_accountability.md#materially-binding-act)には四つの役割があり、[第8章 §2 四席の憲法上の最低基準](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor)により分離される：
+すべての[重大な拘束力を持つ行為](../../core_05.035_band_accountability.md#materially-binding-act)には四つの役割があり、[第8章 §2 四席の憲法上の最低基準](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement)により分離される：
 
 - **[開始席](../../core_05.035_band_accountability.md#initiating-seat)：**行為を要求、提案、運用または主張して開始する。
 - **[検証・認可席](../../core_05.035_band_accountability.md#verify-or-authorize-seat)：**証拠と権限を確認し、その後、行為を検証、認可、条件付け、または拒否する。

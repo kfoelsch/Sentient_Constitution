@@ -470,7 +470,7 @@ Certains éléments d’une Charte de système ou d’une Charte institutionnell
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : [§3](#3-contenu-requis-des-chartes-de-système-et-institutionnelles) ; [chapitre huit §2, Socle constitutionnel de quatre sièges](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) (8.000 §2).
+- En amont : [§3](#3-contenu-requis-des-chartes-de-système-et-institutionnelles) ; [chapitre huit §2, Socle constitutionnel de quatre sièges](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) (8.000 §2).
 - En aval :
   - [chapitre huit §5, Affectation publiée, vacance et remplacement](../../core_08.000_functional_independence_separation_of_duties.md#5-published-placement-vacancy-and-substitution) (8.000 §5) ;
   - [chapitre neuf, partie B §6.1.1, Quatre sièges dans une certification](../../core_09.010_system_alignment_certification_record_process.md#611-four-seats-in-a-certification) (9.010 §6.1.1) ;
@@ -500,7 +500,7 @@ Chaque Charte de système ou Charte institutionnelle comprend une [Carte des rô
 <a id="41-what-the-seats-are-and-why-they-exist"></a>
 #### 4.1 Les sièges et leur raison d’être
 
-Tout [Acte matériellement contraignant](../../core_05.035_band_accountability.md#materially-binding-act) comporte quatre fonctions, que le [chapitre huit §2, Socle constitutionnel de quatre sièges](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-floor) sépare :
+Tout [Acte matériellement contraignant](../../core_05.035_band_accountability.md#materially-binding-act) comporte quatre fonctions, que le [chapitre huit §2, Socle constitutionnel de quatre sièges](../../core_08.000_functional_independence_separation_of_duties.md#2-four-seat-constitutional-requirement) sépare :
 
 - **[Siège initiateur](../../core_05.035_band_accountability.md#initiating-seat) :** déclenche l’acte en le demandant, en le proposant, en l’exécutant ou en le revendiquant.
 - **[Siège de vérification ou d’autorisation](../../core_05.035_band_accountability.md#verify-or-authorize-seat) :** examine les éléments de preuve et l’autorité, puis vérifie, autorise, assortit de conditions ou refuse l’acte.

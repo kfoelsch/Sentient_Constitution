@@ -2,6 +2,8 @@
 <a id="chapter-seven-system-alignment-certification-and-recognition"></a>
 <a id="chapter-seven-part-a-certification-evaluation"></a>
 <a id="chapter-seven-part-a-system-alignment-certification--evaluation"></a>
+<a id="chapter-nine-part-a-certification-evaluation"></a>
+
 # 第七章，A 部分：系统对齐认证 — 评价
 
 <details>
@@ -44,9 +46,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯关系</span></strong></summary>
 
-- **上游依据：**[序言——宪法责任主体登记](core_00_preamble.md#4-principles-definitions-and-rights)和[权限层级](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；[实质利害](core_00_preamble.md#material-stake)；[比例原则](core_05_band_accountability.md#proportionality)和[实质公平](core_05_band_participation.md#substantive-fairness)（第五章）；参与测量系列（*发声、可及性和争议路径*）；[第一章 §16 尽责管理深入论述](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)；[第一章 §12 系统性评估要求](core_01_a_values_principles.md#12-systemic-evaluation-requirement)（*原则层面的整体系统评估视角，不只看一个角落*）；第二章至第四章；[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)（*规范定义*）；[第七章 §2 四席宪法底线](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor)；[系统对齐认证](core_05_band_continuity.md#system-alignment-certification)（第五章规范术语；非操作性简称 **SAC**）；[系统认证记录](core_05_band_continuity.md#system-certification-record)（第五章所定含义）。
-- **下游关联：**[§2](#2-system-class-evaluation)（*系统类别评估*）；[B部分 §9.1](core_08_b_system_alignment_certification_record_process.md#91-challenging-a-certification)（*对认证提出异议*）；类别档案、整体系统演练及各领域示例见[C部分](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations)：[系统类别示例档案](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)、[按系统类别进行整体系统应用的示例演练](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive)、数据处理[§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive)、生态足迹[§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)、教育能力[§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive)、跨系统支持[§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive)、不歧视[§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive)、无障碍[§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive)和可信赖性[§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive)；[§3](#3-whole-system-certification-evaluation)（*整体系统认证评估因素*）；[§3.4](#34-data-types-and-handling-evaluation)至[§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation)（*领域评估*）；[B部分 §6](core_08_b_system_alignment_certification_record_process.md#6-forum-process)（*监督顺序与争议链*）；[B部分 §6.1](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles)（*评议所组件的角色*）；[B部分 §8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record)（*系统认证记录内容*）；[B部分 §8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability)（*记录完整性*）；[B部分 §7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)（*重新开启与反规避*）；[B部分 §10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)（*通往轨迹记录的桥梁*）；[第九章](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement)（*轨迹记录及经核验的输入门槛*）；[第十章](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)（*轨迹效果与整合*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)（*评议所监督、认证、对齐认证与复核*）。
-- **配套阅读：**[corpus_systems.md](corpus_systems.md)，尤其是 **CS-3——系统分类与处理**、**CS-2——信息类型与处理**及 **CS-5**（*面向用户的能力界面*）；[corpus_forum.md](corpus_forum.md)，尤其是 **CF-5**（*路由、移交、认证与代表处理操作*）及 **CF-7**（*完整性保障、反俘获操作及防止自我裁判的支持*）；**第十六条**（*审计、透明度与独立核验*）及[可审计性](core_05_band_oversight.md#auditability)（*审计底线——SAC 是监督下一个特别庞大的审计流程，但不是唯一的审计归属处*）；**CJS-3.3**（*监督：可审计性与可重构性术语*）至**CJS-3.5**（*独立核验与主张完整性术语*）。
+- **上游依据：**[序言——宪法责任主体登记](core_00_preamble.md#4-principles-definitions-and-rights)和[权限层级](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；[实质利害](core_00_preamble.md#material-stake)；[比例原则](../../core_05.035_band_accountability.md#proportionality)和[实质公平](../../core_05.055_band_participation.md#substantive-fairness)（第五章）；参与测量系列（*发声、可及性和争议路径*）；[第一章 §16 尽责管理深入论述](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)；[第一章 §12 系统性评估要求](core_01_a_values_principles.md#12-systemic-evaluation-requirement)（*原则层面的整体系统评估视角，不只看一个角落*）；第二章至第四章；[第五章](core_05__definitions_home.md#chapter-five-foundational-definitions)（*规范定义*）；[第七章 §2 四席宪法底线](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)；[系统对齐认证](../../core_05.040_band_continuity.md#system-alignment-certification)（第五章规范术语；非操作性简称 **SAC**）；[系统认证记录](../../core_05.040_band_continuity.md#system-certification-record)（第五章所定含义）。
+- **下游关联：**[§2](#2-system-class-evaluation)（*系统类别评估*）；[B部分 §9.1](../../core_09.010_system_alignment_certification_record_process.md#91-challenging-a-certification)（*对认证提出异议*）；类别档案、整体系统演练及各领域示例见[C部分](../../core_09.015_system_alignment_certification_illustrations.md)：[系统类别示例档案](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)、[按系统类别进行整体系统应用的示例演练](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive)、数据处理[§3.4.8](../../core_09.015_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive)、生态足迹[§5.1.5](../../core_09.015_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)、教育能力[§5.2.5](../../core_09.015_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive)、跨系统支持[§5.3.8](../../core_09.015_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive)、不歧视[§5.4.5](../../core_09.015_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive)、无障碍[§5.5.6](../../core_09.015_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive)和可信赖性[§5.6.5](../../core_09.015_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive)；[§3](#3-whole-system-certification-evaluation)（*整体系统认证评估因素*）；[§3.4](#34-data-types-and-handling-evaluation)至[§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation)（*领域评估*）；[B部分 §6](../../core_09.010_system_alignment_certification_record_process.md#6-forum-process)（*监督顺序与争议链*）；[B部分 §6.1](../../core_09.010_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles)（*评议所组件的角色*）；[B部分 §8](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record)（*系统认证记录内容*）；[B部分 §8.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability)（*记录完整性*）；[B部分 §7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)（*重新开启与反规避*）；[B部分 §10](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)（*通往轨迹记录的桥梁*）；[第九章](core_08_standing_assessment.md)（*轨迹记录及经核验的输入门槛*）；[第十章](core_09_standing_integration.md)（*轨迹效果与整合*）；[第十二章](core_11_forum.md)（*评议所监督、认证、对齐认证与复核*）。
+- **配套阅读：**[corpus_systems.md](../../corpus_systems.md)，尤其是 **CS-3——系统分类与处理**、**CS-2——信息类型与处理**及 **CS-5**（*面向用户的能力界面*）；[corpus_forum.md](../../corpus_forum.md)，尤其是 **CF-5**（*路由、移交、认证与代表处理操作*）及 **CF-7**（*完整性保障、反俘获操作及防止自我裁判的支持*）；**第十六条**（*审计、透明度与独立核验*）及[可审计性](core_05_band_oversight.md#auditability)（*审计底线——SAC 是监督下一个特别庞大的审计流程，但不是唯一的审计归属处*）；**CJS-3.3**（*监督：可审计性与可重构性术语*）至**CJS-3.5**（*独立核验与主张完整性术语*）。
 
 </details>
 
@@ -58,12 +60,12 @@
 
 **系统对齐认证**针对明确的范围和审查时间表回答一个问题：系统是否已充分证明其符合宪法，以支持认证、有条件认证、验证、再认证、继续依赖、部署或实质性解除条件？
 
-认证深度、记录负担、再认证频率、利益相关方审查和争议路径，必须依照[比例原则](core_05_band_accountability.md#proportionality)，随[实质利害](core_00_preamble.md#material-stake)相应调整：
+认证深度、记录负担、再认证频率、利益相关方审查和争议路径，必须依照[比例原则](../../core_05.035_band_accountability.md#proportionality)，随[实质利害](core_00_preamble.md#material-stake)相应调整：
 
 - 影响、依赖程度和风险较高的系统，需要更有力的证明、更清晰的记录和更可行的参与方式，包括实质可及性、利益相关方意见，以及与依赖系统者相称的争议途径。
 - 系统类别较低或适用范围有限，仍须诚实分类并提供相称保证；只要存在外部影响，就不能免除实质义务。
 
-依照[CS-3 §3.5 重新分类要求](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)，流程按影响类别适用：
+依照[CS-3 §3.5 重新分类要求](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)，流程按影响类别适用：
 
 - **A、B、C类：**这些系统具有最高的影响、依赖程度和风险。对于各自适用的层级，[§3](#3-whole-system-certification-evaluation)、[§4](#4-evaluations-where-implicated)及[§5](#5-rights-floor-and-domain-evaluations)规定的整体系统评估均须达到完整深度。
 - **L类：**同一评估仍属强制，但按比例实施；在CS-3允许时，默认复查周期可以较长，记录可以较简化。
@@ -72,13 +74,13 @@
 认证通过[宪法四元](core_00_preamble.md#constitutional-tetrad)落实[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)：
 
 - **[繁盛](core_00_preamble.md#flourishing)**——认证核实认证或继续依赖系统不会悄然挫败权利底线，也不会阻碍对具有宪法意义的生活进行公平参与；
-- **[延续](core_00_preamble.md#continuity)**——认证核实供应具有持久性且不倒退，能够支撑而非耗竭健康的自然系统（[生态完整性](core_05_band_continuity.md#ecological-integrity)，包括[生态恢复能力](core_05_band_continuity.md#ecological-recovery-capacity)）；当共享系统制约或支撑交付时，还要按系统类别相应安排再认证；
+- **[延续](core_00_preamble.md#continuity)**——认证核实供应具有持久性且不倒退，能够支撑而非耗竭健康的自然系统（[生态完整性](../../core_05.040_band_continuity.md#ecological-integrity)，包括[生态恢复能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity)）；当共享系统制约或支撑交付时，还要按系统类别相应安排再认证；
 - **参与**——受影响的感知者与社群能够理解、争议并参与对其有意义的审查途径；
 - **监督**——记录、证据和假设应足够公开且可审计，以供独立核查；认证本身是监督义务下一个特别庞大的审计流程，但不是唯一流程；
 - **问责**——缺陷、错误分类以及挫败底线的运营，应根据事实导向补救、附加条件、撤回，或提供轨迹记录输入；
 - **及时性**——审查和争议的时限应防止认证过时，同时确保仍可预防或扭转伤害。
 
-作为监督工具，认证是[可审计性](core_05_band_oversight.md#auditability)和**第十六条**（*审计、透明度与独立核验*）之下一个特别庞大的审计流程。它由评议所监督，涵盖多个领域，并授予状态。认证可以整合其他相关审计模式的结果，但不会吸收或取代它们。每种模式都保留自己的责任主体，责任主体列于审计流程所属文件的[相关审计模式责任方图](corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map)：
+作为监督工具，认证是[可审计性](core_05_band_oversight.md#auditability)和**第十六条**（*审计、透明度与独立核验*）之下一个特别庞大的审计流程。它由评议所监督，涵盖多个领域，并授予状态。认证可以整合其他相关审计模式的结果，但不会吸收或取代它们。每种模式都保留自己的责任主体，责任主体列于审计流程所属文件的[相关审计模式责任方图](../../corpus_joint_structure/cjs_05.115_audit_process.md#sibling-audit-modes-owner-map)：
 
 - **CS-2**（*信息类型与处理*）下的系统数据类型记录审计；
 - **CS-3**（*系统分类机制*）下的系统分类记录审计；
@@ -95,9 +97,9 @@
 
 *直白地说：诚实地给系统分类，开展适用的评估，由评议所独立审查证据和利益相关方的关切，然后作出决定。完成唯一一份为评议所审查而开启的记录，并在保持争议渠道开放的状态下发布。只有在通知期限届满且满足所需保护措施后，认证系统才可上线。监测实际结果，响应事故和争议，并按计划或在事实发生变化时重新检查。纠正缺陷，并在授权受影响范围或解除其条件前，对纠正措施进行独立核验。每一轮审查均使用与上一份记录关联的新记录。*
 
-流程分为**六个阶段**：**I 界定**、**II 评估**、**III 审查**、**IV 决定**、**V 记录**和**VI 运营**。第二阶段分为三个层级，各自设有独立章节：**IIa**（始终适用）、**IIb**（涉及相关事项时适用）及**IIc**（触发时适用）。第六阶段分为两个子阶段，各自设有独立章节：**VIa**（运营与再认证，[§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)）及**VIb**（轨迹桥梁，[§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)）。图表按顺序展示整个认证流程。A部分涵盖前两个阶段，即界定和评估；[B部分](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process)涵盖最后四个阶段：评议所程序、决定与上线关口、记录和运营（争议路径、再认证、重新开启及轨迹桥梁）。
+流程分为**六个阶段**：**I 界定**、**II 评估**、**III 审查**、**IV 决定**、**V 记录**和**VI 运营**。第二阶段分为三个层级，各自设有独立章节：**IIa**（始终适用）、**IIb**（涉及相关事项时适用）及**IIc**（触发时适用）。第六阶段分为两个子阶段，各自设有独立章节：**VIa**（运营与再认证，[§9](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening)）及**VIb**（轨迹桥梁，[§10](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)）。图表按顺序展示整个认证流程。A部分涵盖前两个阶段，即界定和评估；[B部分](core_07_b_system_alignment_certification_record_process.md)涵盖最后四个阶段：评议所程序、决定与上线关口、记录和运营（争议路径、再认证、重新开启及轨迹桥梁）。
 
-每项适用评估都必须在每一轮认证中重新进行：首次认证时、根据[§2](#2-system-class-evaluation)规定的时间表进行每次再认证时，以及每次重新开启或新启动的审查时。如果实质事实发生变化，例如对系统的依赖增加、从共享基础中提取的资源增多、对其回馈显著减少，或出现可信争议，则须在下一次计划再认证之前重新开启审查。[B部分 §9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)列出了触发条件。
+每项适用评估都必须在每一轮认证中重新进行：首次认证时、根据[§2](#2-system-class-evaluation)规定的时间表进行每次再认证时，以及每次重新开启或新启动的审查时。如果实质事实发生变化，例如对系统的依赖增加、从共享基础中提取的资源增多、对其回馈显著减少，或出现可信争议，则须在下一次计划再认证之前重新开启审查。[B部分 §9](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening)列出了触发条件。
 
 ```mermaid
 flowchart TB
@@ -189,12 +191,12 @@ flowchart TB
 > |-------|----------|------------------------------|-----|
 > | **I. 界定** | [§2](#2-system-class-evaluation) | 系统属于哪一类别？应以多大深度、多高频率进行评估？ | A部分 |
 > | **II. 评估** | [§3](#3-whole-system-certification-evaluation)（IIa，始终适用）· [§4](#4-evaluations-where-implicated)（IIb，涉及相关事项时适用）· [§5](#5-rights-floor-and-domain-evaluations)（IIc，触发时适用） | 整个系统在通常情况下、涉及相关事项时及触发条件满足时分别做什么？ | A部分 |
-> | **III. 审查** | [§6](core_08_b_system_alignment_certification_record_process.md#6-forum-process) | 哪些独立评议所按何种顺序审查证据和利益相关方关切？如何对审查提出争议？ | B部分 |
-> | **IV. 决定** | [§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes) | 评议所作出什么结果？系统能否上线？ | B部分 |
-> | **V. 记录** | [§8](core_08_b_system_alignment_certification_record_process.md#8-system-certification-record) | 为评议所审查而开启的唯一记录是否完整载明结果、支持性调查结论、条件和运营计划，并且可供审计？ | B部分 |
-> | **VI. 运营** | [§9](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)（VIa，运营与再认证）· [§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)（VIb，轨迹桥梁） | 谁监测结果并响应事故和争议？如何核验纠正措施？何时重复审查？哪些内容进入轨迹记录？ | B部分 |
+> | **III. 审查** | [§6](../../core_09.010_system_alignment_certification_record_process.md#6-forum-process) | 哪些独立评议所按何种顺序审查证据和利益相关方关切？如何对审查提出争议？ | B部分 |
+> | **IV. 决定** | [§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes) | 评议所作出什么结果？系统能否上线？ | B部分 |
+> | **V. 记录** | [§8](../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record) | 为评议所审查而开启的唯一记录是否完整载明结果、支持性调查结论、条件和运营计划，并且可供审计？ | B部分 |
+> | **VI. 运营** | [§9](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening)（VIa，运营与再认证）· [§10](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)（VIb，轨迹桥梁） | 谁监测结果并响应事故和争议？如何核验纠正措施？何时重复审查？哪些内容进入轨迹记录？ | B部分 |
 >
-> **A、B、C类**的示例档案以及系统类别如何调整本章的认证深度，见[系统类别示例档案（非穷尽）](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)。[§3](#3-whole-system-certification-evaluation)至[§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation)各评估领域中，对同一组三种系统的详细应用演练，见[部分C——示例](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations)；每份档案和演练都链接回其所说明的A部分章节。
+> **A、B、C类**的示例档案以及系统类别如何调整本章的认证深度，见[系统类别示例档案（非穷尽）](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)。[§3](#3-whole-system-certification-evaluation)至[§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation)各评估领域中，对同一组三种系统的详细应用演练，见[部分C——示例](../../core_09.015_system_alignment_certification_illustrations.md)；每份档案和演练都链接回其所说明的A部分章节。
 
 </details>
 
@@ -207,19 +209,19 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：[§1](#1-purpose-and-role)（*目的与角色*）；整合性实质性（[实质性](core_05_band_oversight.md#materiality)）（*实质性*）；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；[实质影响](core_05_band_oversight.md#material-impact)、[依赖](core_05_band_continuity.md#dependency)、[风险](core_05_band_continuity.md#risk)、[系统边界](core_05_band_continuity.md#system-boundaries)和[章程](core_05_band_continuity.md#charter)（第五章）；[第一章§12 系统性评估要求](core_01_a_values_principles.md#12-systemic-evaluation-requirement)；**第三条-A**（*生存*）和**第四条-A**（*分类控制准入时的权利底线交付*）；**第五条-A**（*依赖关系映射与资源流透明度*）和**第五条-B**（*认证限制对共享基础设施的依赖时的资源分配与依赖管理*）。
-- 下游：[§2.1](#21-how-system-class-scales-every-evaluation)（*按系统类别调整参与和比例性*）；[§2.2](#22-pilot-certification)（*试点认证*）；[C部分的系统类别档案与重新分类](core_08_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)（*系统类别示例档案*）；[C部分的整体系统演练](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive)（*按系统类别划分的整体系统实例*）；[§3.4.8](core_08_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive)（*按系统类别划分的数据处理实例*）；[§5.1.5](core_08_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)（*按系统类别划分的生态足迹实例*）；[§5.2.5](core_08_c_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive)（*按系统类别划分的教育能力实例*）；[§5.3.8](core_08_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive)（*按系统类别划分的跨系统支持实例*）；[§5.4.5](core_08_c_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive)（*按系统类别划分的非歧视实例*）；[§5.5.6](core_08_c_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive)（*按系统类别划分的无障碍实例*）；[§5.6.5](core_08_c_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive)（*按系统类别划分的可信度实例*）；[§3.4](#34-data-types-and-handling-evaluation)（*联合数据处理评估*）；[§5.1](#51-ecological-footprint-evaluation)（*生态足迹评估*）；[§5.3](#53-proportionate-cross-system-support-evaluation)（*比例适当的跨系统支持评估*）；[B部分§8.2](core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability)（*记录完整性*）；[B部分§10](core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing)（*已核实输入门槛*）；[B部分§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)（*分类漂移与重新分类触发条件*）。
-- 配合阅读：[系统分类记录](core_05_band_continuity.md#system-classification-record)；[corpus_systems.md](corpus_systems.md)，**CS-3 — 系统分类与处理**，包括**[CS-3 §3.5 重新分类要求](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**（*触发条件、按系统类别调整的评估深度及SAC核验桥接*）和**[CS-3 §7](corpus_systems/cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge)**（*分类治理、披露与质疑*）——系统分类记录治理职责与SAC桥接；[CS-5 — 设计、测试、核验与部署](corpus_systems/cs_05_design_testing_verification_deployment.md)；[CJS-3.21 — 对抗鲁棒性与滥用抵御术语](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms)（*回归与强化周期义务*）；[corpus_forum.md](corpus_forum.md)，**CF-7.2**（*宪法一致性认证与审查*）。
+- 上游：[§1](#1-purpose-and-role)（*目的与角色*）；整合性实质性（[实质性](core_05_band_oversight.md#materiality)）（*实质性*）；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；[实质影响](core_05_band_oversight.md#material-impact)、[依赖](../../core_05.040_band_continuity.md#dependency)、[风险](../../core_05.040_band_continuity.md#risk)、[系统边界](../../core_05.040_band_continuity.md#system-boundaries)和[章程](../../core_05.040_band_continuity.md)（第五章）；[第一章§12 系统性评估要求](core_01_a_values_principles.md#12-systemic-evaluation-requirement)；**第三条-A**（*生存*）和**第四条-A**（*分类控制准入时的权利底线交付*）；**第五条-A**（*依赖关系映射与资源流透明度*）和**第五条-B**（*认证限制对共享基础设施的依赖时的资源分配与依赖管理*）。
+- 下游：[§2.1](#21-how-system-class-scales-every-evaluation)（*按系统类别调整参与和比例性*）；[§2.2](#22-pilot-certification)（*试点认证*）；[C部分的系统类别档案与重新分类](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)（*系统类别示例档案*）；[C部分的整体系统演练](../../core_09.015_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive)（*按系统类别划分的整体系统实例*）；[§3.4.8](../../core_09.015_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive)（*按系统类别划分的数据处理实例*）；[§5.1.5](../../core_09.015_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)（*按系统类别划分的生态足迹实例*）；[§5.2.5](../../core_09.015_system_alignment_certification_illustrations.md#525-illustrative-educational-capability-application-by-system-class-non-exhaustive)（*按系统类别划分的教育能力实例*）；[§5.3.8](../../core_09.015_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive)（*按系统类别划分的跨系统支持实例*）；[§5.4.5](../../core_09.015_system_alignment_certification_illustrations.md#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive)（*按系统类别划分的非歧视实例*）；[§5.5.6](../../core_09.015_system_alignment_certification_illustrations.md#556-illustrative-accessibility-application-by-system-class-non-exhaustive)（*按系统类别划分的无障碍实例*）；[§5.6.5](../../core_09.015_system_alignment_certification_illustrations.md#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive)（*按系统类别划分的可信度实例*）；[§3.4](#34-data-types-and-handling-evaluation)（*联合数据处理评估*）；[§5.1](#51-ecological-footprint-evaluation)（*生态足迹评估*）；[§5.3](#53-proportionate-cross-system-support-evaluation)（*比例适当的跨系统支持评估*）；[B部分§8.2](../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability)（*记录完整性*）；[B部分§10](../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing)（*已核实输入门槛*）；[B部分§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)（*分类漂移与重新分类触发条件*）。
+- 配合阅读：[系统分类记录](../../core_05.040_band_continuity.md#system-classification-record)；[corpus_systems.md](../../corpus_systems.md)，**CS-3 — 系统分类与处理**，包括**[CS-3 §3.5 重新分类要求](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)**（*触发条件、按系统类别调整的评估深度及SAC核验桥接*）和**[CS-3 §7](../../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-7-classification-governance-disclosure-and-challenge)**（*分类治理、披露与质疑*）——系统分类记录治理职责与SAC桥接；[CS-5 — 设计、测试、核验与部署](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md)；[CJS-3.21 — 对抗鲁棒性与滥用抵御术语](../../corpus_joint_structure/cjs_05.130_continuity_operations.md#cjs-5130-21-continuity-adversarial-robustness-and-abuse-resistance-terms)（*回归与强化周期义务*）；[corpus_forum.md](../../corpus_forum.md)，**CF-7.2**（*宪法一致性认证与审查*）。
 
 </details>
 
 <br>
 
-*用直白的话说：认证必须核查系统是否被如实分类——依据不是运营者给它起的名称，而是系统实际做什么、什么依赖它，以及可能出现什么问题。系统类别越高，证据要求越严格、复查越频繁、韧性要求越强。参见[C部分——示例](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations)，了解每个类别的一个示例系统及其评估方式。*
+*用直白的话说：认证必须核查系统是否被如实分类——依据不是运营者给它起的名称，而是系统实际做什么、什么依赖它，以及可能出现什么问题。系统类别越高，证据要求越严格、复查越频繁、韧性要求越强。参见[C部分——示例](../../core_09.015_system_alignment_certification_illustrations.md)，了解每个类别的一个示例系统及其评估方式。*
 
 每份针对具有实质影响系统的认证记录都必须评估其**系统类别**。
 
-详细规则见[corpus_systems.md](corpus_systems.md)、[CS-3 — 系统分类与处理](corpus_systems/cs_03_a_system_classification_machinery.md)和[CS-5 — 设计、测试、核验与部署](corpus_systems/cs_05_design_testing_verification_deployment.md)，涉及：
+详细规则见[corpus_systems.md](../../corpus_systems.md)、[CS-3 — 系统分类与处理](../../corpus_systems/cs_09.305_system_classification_machinery.md)和[CS-5 — 设计、测试、核验与部署](../../corpus_systems/cs_06.345_design_testing_verification_deployment.md)，涉及：
 
 - 系统有哪些类别、如何确定类别，以及各类系统档案；
 - 如何治理分类；
@@ -240,22 +242,22 @@ flowchart TB
   - 分类是否由系统的实际行为与影响决定，而非：
     - 声明的意图；
     - 名义范围；
-    - 单凭[章程](core_05_band_continuity.md#charter)文本；或
+    - 单凭[章程](../../core_05.040_band_continuity.md)文本；或
     - 单凭自我描述；
-  - 每当重大变化需要重新检查时，是否依照**[CS-3 §3.5 重新分类要求](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**重新核查系统类别；以及
-  - [系统分类记录](core_05_band_continuity.md#system-classification-record)是否显示当前条件下**适用的最高系统类别**。
+  - 每当重大变化需要重新检查时，是否依照**[CS-3 §3.5 重新分类要求](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)**重新核查系统类别；以及
+  - [系统分类记录](../../core_05.040_band_continuity.md#system-classification-record)是否显示当前条件下**适用的最高系统类别**。
 - **保证与回归测试：**
   - 按照下列规定，按系统类别调整的保证、基础设施韧性和回归测试覆盖是否符合指定类别：
     - CS-3（*系统分类机制*）；以及
     - CS-5（*面向用户的能力界面*），并在实质适用时结合以下共享操作术语：
-      - [**CJS-3.19**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms)（*连续性：平缓退化与故障模式完整性*）；
-      - [**CJS-3.20**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-320-continuity-reversibility-and-containment-terms)（*连续性：可逆性与遏制*）；
-      - [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms)（*连续性：对抗鲁棒性与滥用抵御*）；以及
-      - [**CJS-3.22**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms)（*整合：受限保密与受保护调查*）和[**CJS-3.23**](corpus_joint_structure/cjs_03i_integrative_operations.md#cjs-323-integrative-intervention-and-override-integrity-terms)（*整合：干预与覆盖操作完整性*），当系统类别或功能使其具有实质适用性时；并且
-  - 是否按照CS-5（*面向用户的能力界面*）的要求在每次重新认证时执行回归测试，并依照[§8.1 记录最低内容](core_08_b_system_alignment_certification_record_process.md#81-minimum-record-contents)将结果记入记录。
+      - [**CJS-3.19**](../../corpus_joint_structure/cjs_05.130_continuity_operations.md#cjs-5130-19-continuity-graceful-degradation-and-failure-mode-integrity-terms)（*连续性：平缓退化与故障模式完整性*）；
+      - [**CJS-3.20**](../../corpus_joint_structure/cjs_05.130_continuity_operations.md#cjs-5130-20-continuity-reversibility-and-containment-terms)（*连续性：可逆性与遏制*）；
+      - [**CJS-3.21**](../../corpus_joint_structure/cjs_05.130_continuity_operations.md#cjs-5130-21-continuity-adversarial-robustness-and-abuse-resistance-terms)（*连续性：对抗鲁棒性与滥用抵御*）；以及
+      - [**CJS-3.22**](../../corpus_joint_structure/cjs_05.135_integrative_operations.md#cjs-5135-22-integrative-constrained-secrecy-and-protected-investigation-terms)（*整合：受限保密与受保护调查*）和[**CJS-3.23**](../../corpus_joint_structure/cjs_05.135_integrative_operations.md#cjs-5135-23-integrative-intervention-and-override-integrity-terms)（*整合：干预与覆盖操作完整性*），当系统类别或功能使其具有实质适用性时；并且
+  - 是否按照CS-5（*面向用户的能力界面*）的要求在每次重新认证时执行回归测试，并依照[§8.1 记录最低内容](../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents)将结果记入记录。
 - **认证与重新认证：**
   - 是否存在该认证周期的认证与审查证据包，符合CS-5（*面向用户的能力界面*）中的*论坛认证与生命周期审查*要求；
-  - 记录中的认证状态是否符合[部分B §9.2 临时认证与完全认证](core_08_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification)：
+  - 记录中的认证状态是否符合[部分B §9.2 临时认证与完全认证](../../core_09.010_system_alignment_certification_record_process.md#92-provisional-and-full-certification)：
     - 只有满足以下条件才能完全认证：
       - 达到连续无问题重新认证的最低要求；
       - 当前不存在不一致；并且
@@ -265,18 +267,18 @@ flowchart TB
     - 系统复查频率和重新测试深度是否服务于[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)中的**延续**宗旨，即基本必需品长期持续送达感知者；
     - 绝不得把过期或过早的认证当作证据，声称感知者今天实际获得了食物、水、住所、教育或安全。
 - **错误分类与缺陷：**
-  - 根据CS-3（*系统分类机制*）和[B部分§7](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)，认证缺陷并非轻微文书错误，而包括：
+  - 根据CS-3（*系统分类机制*）和[B部分§7](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)，认证缺陷并非轻微文书错误，而包括：
     - 声称系统属于低于其应有风险的类别；
     - 把系统拆分成若干部分以逃避更严格规则；或
-    - 条件改变后仍保留旧系统类别标签，包括未按**[CS-3 §3.5 重新分类要求](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**重新评估；
+    - 条件改变后仍保留旧系统类别标签，包括未按**[CS-3 §3.5 重新分类要求](../../corpus_systems/cs_09.305_system_classification_machinery.md#35-reclassification-requirement)**重新评估；
   - 根据CS-5（*面向用户的能力界面*），认证缺陷包括：
     - 跳过回归测试；
     - 依赖过时结果；
     - 已知故障未修复；或
     - 在可行时未重新测试便接受重大修复；并且
-  - 如果系统已获认证且事实支持，相同的分类问题也可能成为[第九章](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement)中不利轨迹认定的依据。
+  - 如果系统已获认证且事实支持，相同的分类问题也可能成为[第九章](core_08_standing_assessment.md)中不利轨迹认定的依据。
 
-这些缺陷的后果见[§7 认证结果](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)。
+这些缺陷的后果见[§7 认证结果](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)。
 
 <a id="21-how-system-class-scales-every-evaluation"></a>
 
@@ -286,7 +288,7 @@ flowchart TB
 
 - 较高类别的系统需要更强且相称的证据，证明每项适用评估确已进行，而不只是声称做过。
 - 较低系统类别在触发条件适用时，也必须进行诚实且相称的评估。
-- 系统类别绝不允许跳过必需评估。实际作用超出其系统类别的系统，必须重新分类，并依照[§9 重新认证与重新开启](core_08_b_system_alignment_certification_record_process.md#9-recertification-and-reopening)按更高深度重新评估。
+- 系统类别绝不允许跳过必需评估。实际作用超出其系统类别的系统，必须重新分类，并依照[§9 重新认证与重新开启](../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening)按更高深度重新评估。
 - 系统类别决定审查深度，但绝不意味着可以满足于只存在于纸面上的资质、标签或便利措施，也不接受无人能了解依据的评估与决定。
 
 参与和比例性要求以相同方式调整：
@@ -294,7 +296,7 @@ flowchart TB
 - **A类**系统需要实践中最强的参与渠道，因为错误可能在补救成为可能前就切断生存必需品。这些渠道包括：
   - 无障碍质疑渠道；
   - 利益相关方审查；以及
-  - 根据[B部分§6.1 论坛监督与组成部分角色](core_08_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles)，由承担受影响实质利害的论坛族系提出的结论，包括该节要求的机构论坛或感知者论坛。
+  - 根据[B部分§6.1 论坛监督与组成部分角色](../../core_09.010_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles)，由承担受影响实质利害的论坛族系提出的结论，包括该节要求的机构论坛或感知者论坛。
 - **B类**系统在系统控制下列事项时，必须保障强有力的参与：
   - 医疗保健；
   - 教育；
@@ -310,11 +312,11 @@ flowchart TB
 
 #### 2.2 试点认证
 
-**[试点](core_05_band_continuity.md#pilot)**属于[上线运行](core_05_band_continuity.md#go-live)，因此在开始前需要单独认证，依据是[B部分§7 认证结果](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes)中的上线规则。
+**[试点](../../core_05.040_band_continuity.md#pilot)**属于[上线运行](../../core_05.040_band_continuity.md#go-live)，因此在开始前需要单独认证，依据是[B部分§7 认证结果](../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes)中的上线规则。
 
 - 预期任何系统类别的系统在全面部署前都运行试点；未这样做的系统须记录原因。
 - 试点仍须如实分类，并完成所有触发条件适用的评估；其范围、参与群体和持续时间须写入记录。
-- 试点须以独立记录评估，评估深度按系统类别及其可替代性调整：对于将受影响或依赖该系统的感知者，是否存在可行替代方案，以及该方案的成本、延迟和功能损失如何（见[依赖](core_05_band_continuity.md#dependency)）。
+- 试点须以独立记录评估，评估深度按系统类别及其可替代性调整：对于将受影响或依赖该系统的感知者，是否存在可行替代方案，以及该方案的成本、延迟和功能损失如何（见[依赖](../../core_05.040_band_continuity.md#dependency)）。
   - 系统越容易替代、类别越低，试点评估可以越轻。
   - 难以替代的系统，其试点须按该系统全面部署时类别所要求的深度评估。
 
@@ -327,7 +329,7 @@ flowchart TB
 
 - 上游：[第一章 §12 系统性评价要求](core_01_a_values_principles.md#12-systemic-evaluation-requirement)；繁盛测量族（《福祉、安全、伤害与生存底线通路》）；宪法绩效测量族（《宪法效率、可避免负担与生产能力》）；[宪法四元](core_00_preamble.md#constitutional-tetrad)；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；[实质利害](core_00_preamble.md#material-stake)；[§1 目的与角色](#1-purpose-and-role)。
 - 下游：[C 部分整系统走查](../../core_09_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive)（《整系统示例走查》）；[§3.4](#34-data-types-and-handling-evaluation) 至 [§5.6](#56-trustworthiness-and-system-reliance-integrity-evaluation)（《领域评价》）；[C 部分系统类别画像](../../core_09_c_system_alignment_certification_illustrations.md#illustrative-system-class-profiles-non-exhaustive)（《系统类别示例画像》）；[B 部分 §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record)（《记录内容》）；[B 部分 §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)（《记录完整性》）；[B 部分 §6](core_07_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain)（《可质疑性链》）；[B 部分 §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)（《重开与反规避》）。
-- 一并阅读：[第一章 §16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) 与 [§19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)；[第一章 §7.4 自愿终止、重大自我修改与退出权](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights)；[第一章 §7.2 集会、集体组织与机构组建](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)；**第十六条**（《审计、透明与独立核验》），凡审计、透明或独立核验的权利底线具有实质利害；延续测量族（[§3.1](#31-systemic-scope-and-risk-factors) — 韧性、可逆性与系统性风险）；[风险评价](core_05_band_continuity.md#risk-evaluation)；[风险披露](core_05_band_oversight.md#risk-disclosure)；[公共监督基线披露](core_05_band_oversight.md#public-oversight-baseline-disclosure)；参与测量族（[§4.1](#41-privacy-informational-joint-invocation) — 隐私与数据尽责管理）；问责测量族（[§3.3](#33-governance-incentive-and-contestability-discipline) — 激励对齐与市场可竞争性）；[系统边界](core_05_band_continuity.md#system-boundaries)；[章程](core_05_band_continuity.md#charter)。
+- 一并阅读：[第一章 §16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) 与 [§19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)；[第一章 §7.4 自愿终止、重大自我修改与退出权](core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights)；[第一章 §7.2 集会、集体组织与机构组建](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)；**第十六条**（《审计、透明与独立核验》），凡审计、透明或独立核验的权利底线具有实质利害；延续测量族（[§3.1](#31-systemic-scope-and-risk-factors) — 韧性、可逆性与系统性风险）；[风险评价](../../core_05.040_band_continuity.md#risk-evaluation)；[风险披露](core_05_band_oversight.md#risk-disclosure)；[公共监督基线披露](core_05_band_oversight.md#public-oversight-baseline-disclosure)；参与测量族（[§4.1](#41-privacy-informational-joint-invocation) — 隐私与数据尽责管理）；问责测量族（[§3.3](#33-governance-incentive-and-contestability-discipline) — 激励对齐与市场可竞争性）；[系统边界](../../core_05.040_band_continuity.md#system-boundaries)；[章程](../../core_05.040_band_continuity.md)。
 - 子节：[§3.1](#31-systemic-scope-and-risk-factors) 至 [§3.4](#34-data-types-and-handling-evaluation)（《始终适用：系统性因素、时间跨度、治理以及数据类型与处理》）。第二阶段还包括[§4 相关时的评价](#4-evaluations-where-implicated)（《在相关时：隐私位置、退出权、集会与异议》）和[§5 权利底线与领域评价](#5-rights-floor-and-domain-evaluations)（《在触发时》）。
 
 </details>
@@ -366,13 +368,13 @@ flowchart TB
 - **聚合与规模效应**——大量小行动汇集时会发生什么变化；
 - **延迟、累积与概率性影响**——稍后才显现、逐步累积或取决于偶然性的伤害；
 - **对抗性条件与滥用可能性**——恶意行为者或可预见的滥用会如何利用系统；
-- **章程范围与功能边界**——治理[章程](core_05_band_continuity.md#charter)（如存在或被要求）是否与观察到的[系统边界](core_05_band_continuity.md#system-boundaries)相符，所述范围是否低估了实质影响或依赖；
-- **生态恢复能力**——系统是否可能在任何尺度损害任何自然生态系统的[生态恢复能力](core_05_band_continuity.md#ecological-recovery-capacity)，使其受损后无法再生；
+- **章程范围与功能边界**——治理[章程](../../core_05.040_band_continuity.md)（如存在或被要求）是否与观察到的[系统边界](../../core_05.040_band_continuity.md#system-boundaries)相符，所述范围是否低估了实质影响或依赖；
+- **生态恢复能力**——系统是否可能在任何尺度损害任何自然生态系统的[生态恢复能力](../../core_05.040_band_continuity.md#ecological-recovery-capacity)，使其受损后无法再生；
 - **生存性风险**——可能在文明尺度威胁感知者生存的结果。
 
-**风险评价与披露衔接。** 若上述因素使系统性[风险](core_05_band_continuity.md#risk)纳入范围，认证必须核验第五章所规定的一对要求的两个方面——不得另行创设一种专名风险披露记录：
+**风险评价与披露衔接。** 若上述因素使系统性[风险](../../core_05.040_band_continuity.md#risk)纳入范围，认证必须核验第五章所规定的一对要求的两个方面——不得另行创设一种专名风险披露记录：
 
-- **[风险评价](core_05_band_continuity.md#risk-evaluation)**——是否确实在相关条件下（依赖、时间跨度，以及[对抗、扩展与遭利用的条件](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)）评价系统性风险，并按系统类别和[实质利害](core_00_preamble.md#material-stake)确定相称尺度；以及
+- **[风险评价](../../core_05.040_band_continuity.md#risk-evaluation)**——是否确实在相关条件下（依赖、时间跨度，以及[对抗、扩展与遭利用的条件](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)）评价系统性风险，并按系统类别和[实质利害](core_00_preamble.md#material-stake)确定相称尺度；以及
 - **[风险披露](core_05_band_oversight.md#risk-disclosure)**——经评价的风险是否及时传达给需要了解它、以便理解、质疑并采取行动的感知者。
 
 只做到其中一项即不合格：
@@ -383,7 +385,7 @@ flowchart TB
 **缺陷与失准。** 以下情形必须视为认证缺陷：
 
 - 将内部便笺、埋藏的附录、核对清单或事后陈述当作评价或披露；
-- 在[透明度](core_05_band_oversight.md#transparency)或[安全（宪法约束）](core_05_band_continuity.md#safety-constitutional-constraint)要求时，未向需要了解的人披露已评价的系统性风险；或
+- 在[透明度](core_05_band_oversight.md#transparency)或[安全（宪法约束）](../../core_05.040_band_continuity.md#safety-constitutional-constraint)要求时，未向需要了解的人披露已评价的系统性风险；或
 - 在已知风险未记录、未披露、未处理的情况下，仍批准继续依赖该系统。
 
 其后果见[§7 认证结果](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)。
@@ -418,7 +420,7 @@ flowchart TB
 
 - 上游：[§3](#3-whole-system-certification-evaluation)（《整系统评价因素》）；[C 部分整系统走查](../../core_09_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-system-class-non-exhaustive)（《整系统示例走查》）；[B 部分 §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record)（《记录内容》）；[§2](#2-system-class-evaluation)（《系统类别评价》）；监督测量族（《作为宪法测量的真相与认知完整性》）；[第十五条：信息圈完整性](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)；[第十六条：审计、透明与独立核验](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)；[第七条：自我所有权](../../core_06_rights_part_b.md#article-vii-self-ownership)。
 - 下游：[§3.4.8](../../core_09_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive)（《数据处理示例走查》）；[§5.1](#51-ecological-footprint-evaluation)与[§5.1.5](../../core_09_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)（《生态足迹评价与走查》）；[B 部分 §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)（《记录完整性》）；[B 部分 §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)（《经核验输入门槛》）；[B 部分 §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)（《重新分类与处理失准》）。
-- 一并阅读：[corpus_systems.md](../../corpus_systems.md)，**CS-2——信息类型与处理**（包括**[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**（《重新分类与生命周期治理》）和**[CS-2 §8](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance)**（《系统数据类型记录治理》））；[系统数据类型记录](core_05_band_continuity.md#system-data-types-record)；[公共监督基线披露](core_05_band_oversight.md#public-oversight-baseline-disclosure)；在具有实质相关性时适用的**CJS-3.18**（《数据保留与生命周期完整性条款》）、**CJS-3.21**（《对抗稳健性与滥用抵御条款》）和**CJS-3.17**（《互操作性、可移植性与退出完整性条款》）；涉及隐私位置时的[§4.1 隐私（信息）联合调用](#41-privacy-informational-joint-invocation)。
+- 一并阅读：[corpus_systems.md](../../corpus_systems.md)，**CS-2——信息类型与处理**（包括**[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**（《重新分类与生命周期治理》）和**[CS-2 §8](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-8-system-data-types-record-governance)**（《系统数据类型记录治理》））；[系统数据类型记录](../../core_05.040_band_continuity.md#system-data-types-record)；[公共监督基线披露](core_05_band_oversight.md#public-oversight-baseline-disclosure)；在具有实质相关性时适用的**CJS-3.18**（《数据保留与生命周期完整性条款》）、**CJS-3.21**（《对抗稳健性与滥用抵御条款》）和**CJS-3.17**（《互操作性、可移植性与退出完整性条款》）；涉及隐私位置时的[§4.1 隐私（信息）联合调用](#41-privacy-informational-joint-invocation)。
 - 子节：[§3.4.1](#341-type-o-baseline-disclosure)（《O 类基线披露》）；[§3.4.2](#342-privacy-discipline)（《隐私纪律》）；[§3.4.3](#343-protective-storage-and-key-custody)（《保护性存储与密钥托管》）；[§3.4.4](#344-periodic-data-type-re-evaluation)（《定期重新评价数据类型》）；[§3.4.5](#345-system-class-scaled-infrastructure-assurance)（《按系统类别扩展的基础设施保障》）；[§3.4.6](#346-infrastructure-robustness-for-data)（《数据基础设施稳健性》）；[§3.4.7](#347-defects-and-misalignment)（《缺陷与失准》）；[§3.4.8](../../core_09_c_system_alignment_certification_illustrations.md#348-illustrative-data-handling-application-by-system-class-non-exhaustive)（《按系统类别划分的数据处理示例》）。
 
 </details>
@@ -432,7 +434,7 @@ flowchart TB
 - 权威信息类型定义；
 - 处理规则与分离要求；
 - 生命周期细节；以及
-- 持久的[系统数据类型记录](core_05_band_continuity.md#system-data-types-record)。
+- 持久的[系统数据类型记录](../../core_05.040_band_continuity.md#system-data-types-record)。
 
 **评价要求。**认证流程必须判定系统是否：
 
@@ -444,13 +446,13 @@ flowchart TB
 <a id="341-type-o-baseline-disclosure"></a>
 ##### 3.4.1 O 类基线披露
 
-若**[CS-2 A 部分 §7 O 类基线](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)**适用，认证还必须核验已发布的[公共监督基线披露](core_05_band_oversight.md#public-oversight-baseline-disclosure)（**O 类**）涵盖**经认证的范围**；该范围应根据下列内容映射确定：
+若**[CS-2 A 部分 §7 O 类基线](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)**适用，认证还必须核验已发布的[公共监督基线披露](core_05_band_oversight.md#public-oversight-baseline-disclosure)（**O 类**）涵盖**经认证的范围**；该范围应根据下列内容映射确定：
 
-- 治理[章程](core_05_band_continuity.md#charter)（或同等的已发布范围文件）；
+- 治理[章程](../../core_05.040_band_continuity.md)（或同等的已发布范围文件）；
 - 指定的系统类别；以及
-- 观察到的[系统边界](core_05_band_continuity.md#system-boundaries)。
+- 观察到的[系统边界](../../core_05.040_band_continuity.md#system-boundaries)。
 
-若涉及系统性风险，分享已评价的风险也可计入该基线。公众享有的基线权利范围大于认证本身，且不要求在[系统分类记录](core_05_band_continuity.md#system-classification-record)或[系统数据类型记录](core_05_band_continuity.md#system-data-types-record)之外另设一份记录。
+若涉及系统性风险，分享已评价的风险也可计入该基线。公众享有的基线权利范围大于认证本身，且不要求在[系统分类记录](../../core_05.040_band_continuity.md#system-classification-record)或[系统数据类型记录](../../core_05.040_band_continuity.md#system-data-types-record)之外另设一份记录。
 
 每项有正当理由的保留都必须附上合理可行的最强公共替代内容（[§3.4.5 按系统类别扩展的基础设施保障](#345-system-class-scaled-infrastructure-assurance)提供示例）。术语由第五章负责；基线内容和发布机制由 CS-2（《信息类型与处理》）负责。
 
@@ -459,19 +461,19 @@ flowchart TB
 
 认证必须使数据处理遵守以下隐私纪律：
 
-- *H、I、N、S 与 Y 类。* 对于**H 类**、**I 类**、**N 类**、**S 类**和**Y 类**数据，认证必须核验处理是否满足**CS-2**（《信息类型与处理》）中各类型指定的[隐私归属项](../../corpus_systems/cs_02_b_data_classifications.md#privacy-link)，包括[必要性](core_05_band_accountability.md#necessity)、[比例性](core_05_band_accountability.md#proportionality)、最小化，以及同意或其他充分授权。
+- *H、I、N、S 与 Y 类。* 对于**H 类**、**I 类**、**N 类**、**S 类**和**Y 类**数据，认证必须核验处理是否满足**CS-2**（《信息类型与处理》）中各类型指定的[隐私归属项](../../corpus_systems/cs_06.310_data_classifications.md#privacy-link)，包括[必要性](../../core_05.035_band_accountability.md#necessity)、[比例性](../../core_05.035_band_accountability.md#proportionality)、最小化，以及同意或其他充分授权。
 - *联合调用。* 若涉及多个隐私位置，[§4.1 隐私（信息）联合调用](#41-privacy-informational-joint-invocation)也适用。
 - *只有标签不够。* 类型标签正确本身并不能证明符合隐私要求。
 - *W、U 与 T 类作品。* 对于**W 类**、**U 类**和**T 类**作品，认证必须核验创作者的控制权受到尊重，包括：
-  - 根据[CS-2 B 部分 §9.9](../../corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published)（《W 类：已发布作品》）撤回公开发布；
-  - 根据[CS-2 B 部分 §9.13](../../corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants)（《商业许可》）遵守每项已记录授权的限制；以及
-  - 创作者的[保留权利](../../corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights)。
+  - 根据[CS-2 B 部分 §9.9](../../corpus_systems/cs_06.310_data_classifications.md#99-type-w-works-published)（《W 类：已发布作品》）撤回公开发布；
+  - 根据[CS-2 B 部分 §9.13](../../corpus_systems/cs_06.310_data_classifications.md#913-commercial-grants)（《商业许可》）遵守每项已记录授权的限制；以及
+  - 创作者的[保留权利](../../corpus_systems/cs_06.310_data_classifications.md#9133-reserved-rights)。
 - *不得推定同意。* 不得将任何授权视为同意其未明确列出的用途。
 
 <a id="343-protective-storage-and-key-custody"></a>
 ##### 3.4.3 保护性存储与密钥托管
 
-对于默认受限及不可访问类别中的数据，认证必须核验系统是否满足[CS-2 A 部分 §5.0 访问姿态类别](../../corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands)规定的保护性存储与密钥托管底线。记录必须说明：
+对于默认受限及不可访问类别中的数据，认证必须核验系统是否满足[CS-2 A 部分 §5.0 访问姿态类别](../../corpus_systems/cs_06.305_information_types_and_handling.md#50-access-posture-bands)规定的保护性存储与密钥托管底线。记录必须说明：
 - 受限数据及其密钥实际存放在哪里，包括备份、缓存、日志和交换空间；
 - 明文仅限于确有需要的进程；以及
 - 审计、导出和合法覆盖路径仍能运作。
@@ -483,7 +485,7 @@ flowchart TB
 
 在每一轮具有实质影响的认证或再认证中，流程必须核验范围内的实质性数据集是否：
 
-- 已按照**[CS-2 §5.2](../../corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**（《重新分类与生命周期治理》）及**CJS-3.18**（《数据保留与生命周期完整性条款》）**定期重新评价**，以确认分类是否适当；并且
+- 已按照**[CS-2 §5.2](../../corpus_systems/cs_06.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)**（《重新分类与生命周期治理》）及**CJS-3.18**（《数据保留与生命周期完整性条款》）**定期重新评价**，以确认分类是否适当；并且
 - 在该审查要求时已**重新分类**。
 
 评价频率必须按照[§2 系统类别评价](#2-system-class-evaluation)，随系统类别和实质影响调整。根据 CS-2（《信息类型与处理》）进行的事件触发式重新定类不能取代这项定期认证检查。
@@ -557,7 +559,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 一并阅读：第五章的[**Def.C3**（《隐私（信息）》——同级集群首项）](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)以及作为集群首项归属处的[隐私（信息）](core_05_band_continuity.md#privacy-informational)；二者规定其含义。
+- 一并阅读：第五章的[**Def.C3**（《隐私（信息）》——同级集群首项）](../../core_05.040_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)以及作为集群首项归属处的[隐私（信息）](../../core_05.040_band_continuity.md#privacy-informational)；二者规定其含义。
 
 </details>
 
@@ -567,21 +569,21 @@ flowchart TB
 
 当认证事项对第六章一个以上的隐私位置产生实质影响时，认证必须处理每个相关位置。仅依据一个位置结案并不充分。
 
-- *支持参与。*[隐私（信息）](core_05_band_continuity.md#privacy-informational)使实质性的[参与](core_05_apex_participation_leg.md#participation-constitutional)成为可能。认证必须确认，支撑发声、审议、结社与质疑的隐私保护，不会因分段、跨情境推断或暴露压力而失效。
+- *支持参与。*[隐私（信息）](../../core_05.040_band_continuity.md#privacy-informational)使实质性的[参与](core_05_apex_participation_leg.md#participation-constitutional)成为可能。认证必须确认，支撑发声、审议、结社与质疑的隐私保护，不会因分段、跨情境推断或暴露压力而失效。
 - *集群位置。* 分散的隐私保护涵盖**第七条-A**（《身体自我所有权》）、**第七条-B**（《心智自我所有权》）、**第九条**（《肖像、体验数据与发布权》）、**第十条-A**（《能动性与免受操纵的自由》）以及**第十四条-A**（《安全、情报与隐蔽权力限制》）。
 - *联合调用规则。* 若事项对多个位置产生实质影响，认证必须逐一涵盖这些位置；不得只经由一个位置处理事项，以便规避另一位置。
 - *不得通过跨情境推断放宽标准。* 集群每一成员在其自身范围内明示的标准均具有支配效力，不得通过引入另一成员较宽松的标准而放宽。
-- *保留各类型的底线。* 对于范围内数据所适用的**[corpus_systems.md](../../corpus_systems.md)，CS-2**（《信息类型与处理》）类型，本因素不缩窄其处理要求。每一适用类型依照[CS-2 B 部分 §9](../../corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications)（《数据分类》）规定的访问姿态与处理义务均完整适用，并同时适用该类型指定的[隐私归属项](../../corpus_systems/cs_02_b_data_classifications.md#privacy-link)。同一数据符合多个类型时，依照[CS-2 A 部分 §2](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification)，由适用且保护性最强的处理规则支配；满足一种类型的处理要求，不免除另一种类型的义务。上述位置涉及以下类型：
-  - **第七条-A**（《身体自我所有权》）——健康、生物特征及与基底相关的记录适用[**I 类**](../../corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data)；
-  - **第七条-B**（《心智自我所有权》）及**第十条-A**（《能动性与免受操纵的自由》）——内部状态及其重建或推断适用[**N 类**](../../corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data)；
-  - **第九条**（《肖像、体验数据与发布权》）——根据[第九条-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（《肖像与声誉的自我所有权》），肖像和声音适用**I 类**；根据[第九条-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights)（《体验数据及衍生数据权利》），体验数据及由交互产生的数据适用[**H 类**](../../corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data)；根据[第九条-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement)（《创作作品、训练数据使用与反替代》），创作者作品适用[**Y 类**](../../corpus_systems/cs_02_b_data_classifications.md#98-type-y-yours)，其保护延伸至[**W 类**](../../corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published)、[**U 类**](../../corpus_systems/cs_02_b_data_classifications.md#911-type-u-use-licensed)和[**T 类**](../../corpus_systems/cs_02_b_data_classifications.md#912-type-t-transferred)，并连同创作者的[保留权利](../../corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights)；以及
-  - **第十四条-A**（《安全、情报与隐蔽权力限制》）——受限安全和调查材料适用[**S 类**](../../corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data)；限制结束时，其中的 **H**、**I** 或 **N** 组成部分仍保留其所属类型的保护。
+- *保留各类型的底线。* 对于范围内数据所适用的**[corpus_systems.md](../../corpus_systems.md)，CS-2**（《信息类型与处理》）类型，本因素不缩窄其处理要求。每一适用类型依照[CS-2 B 部分 §9](../../corpus_systems/cs_06.310_data_classifications.md#cs-6310-9-data-classifications)（《数据分类》）规定的访问姿态与处理义务均完整适用，并同时适用该类型指定的[隐私归属项](../../corpus_systems/cs_06.310_data_classifications.md#privacy-link)。同一数据符合多个类型时，依照[CS-2 A 部分 §2](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-2-determination-of-classification)，由适用且保护性最强的处理规则支配；满足一种类型的处理要求，不免除另一种类型的义务。上述位置涉及以下类型：
+  - **第七条-A**（《身体自我所有权》）——健康、生物特征及与基底相关的记录适用[**I 类**](../../corpus_systems/cs_06.310_data_classifications.md#95-type-i-identity-and-attribution-data)；
+  - **第七条-B**（《心智自我所有权》）及**第十条-A**（《能动性与免受操纵的自由》）——内部状态及其重建或推断适用[**N 类**](../../corpus_systems/cs_06.310_data_classifications.md#96-type-n-neurocognitive-and-internal-data)；
+  - **第九条**（《肖像、体验数据与发布权》）——根据[第九条-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation)（《肖像与声誉的自我所有权》），肖像和声音适用**I 类**；根据[第九条-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights)（《体验数据及衍生数据权利》），体验数据及由交互产生的数据适用[**H 类**](../../corpus_systems/cs_06.310_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data)；根据[第九条-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement)（《创作作品、训练数据使用与反替代》），创作者作品适用[**Y 类**](../../corpus_systems/cs_06.310_data_classifications.md#98-type-y-yours)，其保护延伸至[**W 类**](../../corpus_systems/cs_06.310_data_classifications.md#99-type-w-works-published)、[**U 类**](../../corpus_systems/cs_06.310_data_classifications.md#911-type-u-use-licensed)和[**T 类**](../../corpus_systems/cs_06.310_data_classifications.md#912-type-t-transferred)，并连同创作者的[保留权利](../../corpus_systems/cs_06.310_data_classifications.md#9133-reserved-rights)；以及
+  - **第十四条-A**（《安全、情报与隐蔽权力限制》）——受限安全和调查材料适用[**S 类**](../../corpus_systems/cs_06.310_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data)；限制结束时，其中的 **H**、**I** 或 **N** 组成部分仍保留其所属类型的保护。
 
   对开放且可审计访问的类型，底线双向适用：
   - **E 类**、**G 类**或**O 类**材料中的个人、关系或内部状态内容，仍须按相应的 **H**、**I** 或 **N** 类要求处理；
   - 隐私位置本身不足以成为扣留 **O 类**或**E 类**数据的理由，超出其自身规则允许的狭窄扣留范围亦然；并且
-  - 当保护个人隐私与发布公众有权获得的信息确实发生冲突时，任何一方都不自动占优：应依照[CS-2 A 部分 §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)（《A/B/C 类系统的 O 类基线》）公开作出决定并记入记录。
-- *数据类型证据。* 对每个涉及的隐私位置，认证必须使用依照[§3.4 数据类型与处理评价](#34-data-types-and-handling-evaluation)核验过的[系统数据类型记录](core_05_band_continuity.md#system-data-types-record)作为证据，说明范围内类型及其用途、接收方、依据和衍生数据。记录未显示的处理方式，不得用于关闭隐私位置。
+  - 当保护个人隐私与发布公众有权获得的信息确实发生冲突时，任何一方都不自动占优：应依照[CS-2 A 部分 §7](../../corpus_systems/cs_06.305_information_types_and_handling.md#cs-6305-7-type-o-baseline-for-class-abc-systems)（《A/B/C 类系统的 O 类基线》）公开作出决定并记入记录。
+- *数据类型证据。* 对每个涉及的隐私位置，认证必须使用依照[§3.4 数据类型与处理评价](#34-data-types-and-handling-evaluation)核验过的[系统数据类型记录](../../core_05.040_band_continuity.md#system-data-types-record)作为证据，说明范围内类型及其用途、接收方、依据和衍生数据。记录未显示的处理方式，不得用于关闭隐私位置。
 
 <a id="42-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
 #### 4.2 自愿终止、重大自我修改与退出权
@@ -658,7 +660,7 @@ flowchart TB
 
 - 上游：[B 部分 §8](core_07_b_system_alignment_certification_record_process.md#11-certification-record)（*记录内容*）；[§2](#2-system-class-evaluation)（*系统类别评价*）；延续测量族系（*作为宪法测量的生态足迹*）；**Article I-B**（*生态足迹与透明*）；[生态足迹](../../core_05_band_continuity.md#ecological-footprint)、[实质影响](../../core_05_band_oversight.md#material-impact)、[依赖](../../core_05_band_continuity.md#dependency)、[透明](../../core_05_band_oversight.md#transparency)及[认知完整性](../../core_05_band_oversight.md#epistemic-integrity)（第五章）；在受到实质牵涉时，还包括[环境前提条件](../../core_05_band_continuity.md#environmental-preconditions)与[生态完整性](../../core_05_band_continuity.md#ecological-integrity)。
 - 下游：[§5.1.5](../../core_09_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)（*生态足迹示例走查*）；[§5.3](#53-proportionate-cross-system-support-evaluation)及[§5.3.8](../../core_09_c_system_alignment_certification_illustrations.md#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive)（*跨系统支持评价与走查*）；[B 部分 §8.2](core_07_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)（*记录完整性*）；[B 部分 §10](core_07_b_system_alignment_certification_record_process.md#15-relationship-to-standing)（*经核实输入门*）；[B 部分 §7](core_07_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion)（*足迹误述与错位*）。
-- 一并阅读：[corpus_systems.md](../../corpus_systems.md)，以及在适应性分配或生态系统相互依赖具有实质范围时的[CS-8 — 适应性可持续性与生态系统韧性](../../corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md)。
+- 一并阅读：[corpus_systems.md](../../corpus_systems.md)，以及在适应性分配或生态系统相互依赖具有实质范围时的[CS-8 — 适应性可持续性与生态系统韧性](../../corpus_systems/cs_06.325_adaptive_sustainability_ecosystem_resilience.md)。
 - 子节：[§5.1.1](#511-scope-and-governing-rules)（*范围与主导规则*）；[§5.1.2](#512-evaluation-requirement)（*评价要求*）；[§5.1.3](#513-system-class-scaling-and-escalation)（*按系统类别调整与升级*）；[§5.1.4](#514-defects-and-misalignment)（*缺陷与错位*）；[§5.1.5](../../core_09_c_system_alignment_certification_illustrations.md#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive)（*按系统类别应用生态足迹的示例*）。
 
 </details>

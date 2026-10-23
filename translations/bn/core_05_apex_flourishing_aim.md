@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - ঊর্ধ্ব: [অধ্যায় পাঁচ কম্পাস](core_05__definitions_home.md#অধযয-পচ-কমপস-ও-সজঞ-মনচতর); [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims); নীতি-স্তর ভাষ্য [প্রস্তাবনা §1](core_00_preamble.md#flourishing)-এ।
-- অধঃ: নীতি: [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§3 অনতিক্রম্য নীতি-বন্ধন: নিরাপত্তা ও সত্য](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth); [§4 ব্যবস্থা স্থিতির সহায়ক: বিশ্বাস (সমন্বয় সততা)](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§11.1.5 সাংবিধানিক ফল দাবি শৃঙ্খলা](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline); [সাংবিধানিক উদ্দেশ্য বিভাজন](#flourishing-aim-decomposition); চতুষ্কের পটি ফাইল যেখানে **সমুন্নতি** [অধ্যায় পাঁচ কম্পাস](core_05__definitions_home.md#অধযয-পচ-কমপস-ও-সজঞ-মনচতর) অনুসারে প্রাথমিক উদ্দেশ্য।
+- অধঃ: নীতি: [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md); [§3 অনতিক্রম্য নীতি-বন্ধন: নিরাপত্তা ও সত্য](core_01_a_values_principles.md); [§4 ব্যবস্থা স্থিতির সহায়ক: বিশ্বাস (সমন্বয় সততা)](core_01_a_values_principles.md); [§11.1.5 সাংবিধানিক ফল দাবি শৃঙ্খলা](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [সাংবিধানিক উদ্দেশ্য বিভাজন](#flourishing-aim-decomposition); চতুষ্কের পটি ফাইল যেখানে **সমুন্নতি** [অধ্যায় পাঁচ কম্পাস](core_05__definitions_home.md#অধযয-পচ-কমপস-ও-সজঞ-মনচতর) অনুসারে প্রাথমিক উদ্দেশ্য।
 - সঙ্গে পড়ুন: [কল্যাণ](../../core_05.040_band_continuity.md#wellbeing), [নিরাপত্তা (বন্ধন)](../../core_05.040_band_continuity.md#safety-constitutional-constraint), [সত্য (সাংবিধানিক বন্ধন)](../../core_05.050_band_oversight.md#truth-constitutional-constraint), [বিশ্বাসযোগ্যতা](../../core_05.040_band_continuity.md#trustworthiness), [অর্থপূর্ণ কর্তৃত্ব](../../core_05.055_band_participation.md#meaningful-agency), [স্থলাভিষিক্ত-সংকেত বিচ্যুতি](../../core_05.050_band_oversight.md#proxy-divergence), [ব্যবস্থা দখল](../../core_05.040_band_continuity.md#system-capture), [সাতত্য (সাংবিধানিক উদ্দেশ্য)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (জোড়া উদ্দেশ্য — কোনোটিই অন্যটির খরচে তাড়া করা যায় না), [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) [বস্তুগত বাজি](core_00_preamble.md#material-stake)-তে স্কেল করা (এই উদ্দেশ্যের বৈধতার কাঠামো — পঞ্চম গঠনকারী নয়), এবং সমুন্নতি পরিমাপ পরিবার।
 
 </details>
@@ -46,13 +46,13 @@
 <a id="flourishing-constitutional-a"></a>
 - A:
   - [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad)-এর অধীনে বিচার করুন, [বস্তুগত বাজি](core_00_preamble.md#material-stake)-তে স্কেল করা।
-  - দাবিকৃত সমুন্নতি ফলকে [গঠনকারী](#flourishing-aim-decomposition) শর্তে এবং সংজ্ঞ প্রাণী সত্যি যে ফল অনুভব করে তাতে বাঁধুন, অধ্যায় চার ও [অধ্যায় এক §11.1.5](core_01_c_stewardship_capacity_principles.md#1115-constitutional-outcome-claims-discipline)-এর অধীনে।
+  - দাবিকৃত সমুন্নতি ফলকে [গঠনকারী](#flourishing-aim-decomposition) শর্তে এবং সংজ্ঞ প্রাণী সত্যি যে ফল অনুভব করে তাতে বাঁধুন, অধ্যায় চার ও [অধ্যায় এক §11.1.5](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline)-এর অধীনে।
   - সবসময় সঙ্গে পড়ুন [সাতত্য (সাংবিধানিক উদ্দেশ্য)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): স্বল্পমেয়াদি লাভ যা দীর্ঘমেয়াদি স্থিতি, স্থিতিস্থাপকতা বা পরিবেশগত সততাকে পূর্বদৃষ্টভাবে দুর্বল করে, দুই উদ্দেশ্য একসঙ্গে বিচার করলে **সমুন্নতি** ভঙ্গ করে।
 <a id="flourishing-constitutional-c"></a>
 - C: অ-অনুপালনকারী যখন:
   - এক গঠন-খণ্ড সর্বোচ্চ করা হয় যখন সত্য, নিরাপত্তা, বিশ্বাসযোগ্যতা বা কর্তৃত্ব ফাঁপা হয়;
   - সমুন্নতি দাবি অধ্যায় চারের অধীনে সাংবিধানিক ফলে খুঁজে পাওয়া যায় না; বা
-  - **সমুন্নতি** এমনভাবে তাড়া করা হয় যা [সাতত্য (সাংবিধানিক উদ্দেশ্য)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)-কে বস্তুগতভাবে হারায় [অধ্যায় এক §6](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)-এর অধীনে স্পষ্ট অনুমতি ছাড়া।
+  - **সমুন্নতি** এমনভাবে তাড়া করা হয় যা [সাতত্য (সাংবিধানিক উদ্দেশ্য)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)-কে বস্তুগতভাবে হারায় [অধ্যায় এক §6](core_01_b_interaction_interpretation.md)-এর অধীনে স্পষ্ট অনুমতি ছাড়া।
 
 ---
 

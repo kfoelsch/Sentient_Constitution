@@ -38,7 +38,7 @@ El Capítulo Tres es el titular constitucional de la **integridad de la definici
 
 - Origen: Principios: [Capítulo Dos, §1 — Finalidad y función](core_02_definition_structure.md#1-finalidad-y-función); [Capítulo Dos, §2 Requisito de integridad de la definición](core_02_definition_structure.md#2-requisito-de-integridad-de-la-definición).
 - Destino: [Capítulo Tres, sección 2 — Incumplimiento a partir de conducta observable del sistema](#2-incumplimiento-a-partir-de-conducta-observable-del-sistema); [Capítulo Cuatro, sección 2 — Requisito de trazabilidad de la definición](core_04_burden_traceability_verification.md#2-requisito-de-trazabilidad-de-la-definición); [Capítulo Cuatro, sección 5 — Estándar de evidencia de cumplimiento](core_04_burden_traceability_verification.md#5-estándar-de-evidencia-de-cumplimiento); [Capítulo Diez — Modelo de contribución, infracción y trayectoria](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement).
-- Leer con: [Capítulo Uno, sección 4.2 — Verdad (restricción de integridad epistémica)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — la interpretación basada en conducta observable más que en estructura o intención declarada operacionaliza la restricción constitucional de verdad en la capa de integridad de la definición.
+- Leer con: [Capítulo Uno, sección 4.2 — Verdad (restricción de integridad epistémica)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) — la interpretación basada en conducta observable más que en estructura o intención declarada operacionaliza la restricción constitucional de verdad en la capa de integridad de la definición.
 
 </details>
 
@@ -216,7 +216,7 @@ Donde la incertidumbre impida la demostración definitiva de cumplimiento para c
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: [Capítulo Tres, sección 2 — Incumplimiento a partir de conducta observable del sistema](#2-incumplimiento-a-partir-de-conducta-observable-del-sistema); [Capítulo Dos, §2 Requisito de integridad de la definición](core_02_definition_structure.md#2-requisito-de-integridad-de-la-definición).
-- Destino: [Capítulo Cuatro, sección 2 — Requisito de trazabilidad de la definición](core_04_burden_traceability_verification.md#2-requisito-de-trazabilidad-de-la-definición); [Capítulo Nueve — Certificación de alineación del sistema](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Diez — Modelo de contribución, infracción y trayectoria](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Once — Efectos de trayectoria e integración](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Brújula constitucional y mapa de agrupaciones](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- Destino: [Capítulo Cuatro, sección 2 — Requisito de trazabilidad de la definición](core_04_burden_traceability_verification.md#2-requisito-de-trazabilidad-de-la-definición); [Capítulo Nueve — Certificación de alineación del sistema](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [Capítulo Diez — Modelo de contribución, infracción y trayectoria](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [Capítulo Once — Efectos de trayectoria e integración](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 Brújula constitucional y mapa de agrupaciones](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Leer con: [Perfil de hallazgo de incumplimiento](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — hogar canónico O/M/A/C de los campos del perfil; [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad); [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@ La trayectoria de una institución se ve afectada cuando la institución es el s
 <a id="34-operational-constraints"></a>
 #### 3.4 Restricciones operativas
 
-El incumplimiento también puede hallarse contra restricciones operativas en el corpus conjunto de implementación. Los perfiles de hallazgo por defecto y cómo se adjuntan a esos hallazgos se tratan allí — no en este capítulo. Véase [CJS-3.1 Brújula constitucional y mapa de agrupaciones](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+El incumplimiento también puede hallarse contra restricciones operativas en el corpus conjunto de implementación. Los perfiles de hallazgo por defecto y cómo se adjuntan a esos hallazgos se tratan allí — no en este capítulo. Véase [CJS-3.1 Brújula constitucional y mapa de agrupaciones](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

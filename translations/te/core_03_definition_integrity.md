@@ -216,7 +216,7 @@
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - మూలం: [అధ్యాయం మూడు, విభాగం 2 — పరిశీలించదగిన వ్యవస్థ ప్రవర్తన నుండి అనుసరణ-కాదు](#2-పరశలచదగన-వయవసథ-పరవరతన-నడ-అనసరణ-కద); [అధ్యాయం రెండు, §2 నిర్వచన సమగ్రత అవసరం](core_02_definition_structure.md#2-నరవచన-సమగరత-అవసర).
-- గమ్యం: [అధ్యాయం నాలుగు, విభాగం 2 — నిర్వచన అనుసరణీయత అవసరం](core_04_burden_traceability_verification.md#2-నరవచన-అనసరణయత-అవసర); [అధ్యాయం తొమ్మిది — వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [అధ్యాయం పది — సహకారం, ఉల్లంఘన, ప్రస్థితి నమూనా](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [అధ్యాయం పదకొండు — ప్రస్థితి ప్రభావాలు మరియు సమాకలనం](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 రాజ్యాంగ దిక్సూచి మరియు క్లస్టర్ మ్యాప్](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+- గమ్యం: [అధ్యాయం నాలుగు, విభాగం 2 — నిర్వచన అనుసరణీయత అవసరం](core_04_burden_traceability_verification.md#2-నరవచన-అనసరణయత-అవసర); [అధ్యాయం తొమ్మిది — వ్యవస్థ అనుగుణత ధృవీకరణ](../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification); [అధ్యాయం పది — సహకారం, ఉల్లంఘన, ప్రస్థితి నమూనా](../../core_10.000_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement); [అధ్యాయం పదకొండు — ప్రస్థితి ప్రభావాలు మరియు సమాకలనం](../../core_11.000_standing_integration.md#chapter-eleven-standing-effects-and-integration); [CJS-3.1 రాజ్యాంగ దిక్సూచి మరియు క్లస్టర్ మ్యాప్](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - దీనితో చదవండి: [అనుసరణ-కాదు కనుగొనడం ప్రొఫైల్](../../core_05.035_band_accountability.md#non-compliance-finding-profile) — ప్రొఫైల్ ఫీల్డులకు ప్రామాణిక O/M/A/C ఇల్లు; [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims).
 
 </details>
@@ -263,7 +263,7 @@
 <a id="34-operational-constraints"></a>
 #### 3.4 సంచాలక పరిమితులు
 
-సంయుక్త అమలు సంకలనంలోని సంచాలక పరిమితులపై కూడా అనుసరణ-కాదు కనుగొనవచ్చు. డిఫాల్ట్ కనుగొనడం ప్రొఫైళ్ళు, అవి ఆ కనుగొనడాలకు ఎలా అంటుకుంటాయో అక్కడ నిర్వహించబడతాయి — ఈ అధ్యాయంలో కాదు. చూడండి [CJS-3.1 రాజ్యాంగ దిక్సూచి మరియు క్లస్టర్ మ్యాప్](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+సంయుక్త అమలు సంకలనంలోని సంచాలక పరిమితులపై కూడా అనుసరణ-కాదు కనుగొనవచ్చు. డిఫాల్ట్ కనుగొనడం ప్రొఫైళ్ళు, అవి ఆ కనుగొనడాలకు ఎలా అంటుకుంటాయో అక్కడ నిర్వహించబడతాయి — ఈ అధ్యాయంలో కాదు. చూడండి [CJS-3.1 రాజ్యాంగ దిక్సూచి మరియు క్లస్టర్ మ్యాప్](../../corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 

@@ -1,0 +1,1292 @@
+# Translation link repair lines: pt (2026-10-22)
+
+Part of `evidence/2026-10-22/translation_link_repair_report.md`.
+
+- DROPPED translations/pt/core_00_preamble.md:117 core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_00_preamble.md:172 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- ENGLISH translations/pt/core_01_a_values_principles.md:32 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:169 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:169 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_a_values_principles.md:169 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:169 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:169 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:281 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:281 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:281 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:281 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:281 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:282 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:282 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:282 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:282 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:282 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:308 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_a_values_principles.md:314 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:329 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:329 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:329 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:329 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:329 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:562 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:562 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:562 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:562 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:562 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:564 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_a_values_principles.md:564 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_a_values_principles.md:564 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:564 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:564 core_05_band_oversight.md#foreseeability-diligence-c -> ../../core_05.050_band_oversight.md#foreseeability-diligence-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:572 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:572 core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable -> ../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable
+- ENGLISH translations/pt/core_01_a_values_principles.md:593 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_01_a_values_principles.md:593 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_01_a_values_principles.md:593 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:593 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:593 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:594 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:594 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_a_values_principles.md:594 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:594 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:594 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:595 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:595 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:595 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:595 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:595 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:597 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_a_values_principles.md:597 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_a_values_principles.md:597 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:597 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:597 core_05_band_oversight.md#foreseeability-diligence-c -> ../../core_05.050_band_oversight.md#foreseeability-diligence-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:605 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_01_a_values_principles.md:605 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:605 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:605 core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable -> ../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable
+- ENGLISH translations/pt/core_01_a_values_principles.md:627 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:627 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_a_values_principles.md:627 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:627 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:627 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:628 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_01_a_values_principles.md:628 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_01_a_values_principles.md:628 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:628 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:628 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:630 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:630 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:630 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:630 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:630 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:632 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_a_values_principles.md:632 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_a_values_principles.md:632 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:632 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:632 core_05_band_oversight.md#foreseeability-diligence-c -> ../../core_05.050_band_oversight.md#foreseeability-diligence-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:634 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_a_values_principles.md:634 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_a_values_principles.md:634 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:634 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:634 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:683 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_a_values_principles.md:683 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_a_values_principles.md:683 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:683 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:683 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:684 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:684 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_a_values_principles.md:684 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:684 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:684 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:738 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:766 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:766 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_a_values_principles.md:766 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:766 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:766 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:768 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:768 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:768 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:768 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:768 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:780 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:782 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_a_values_principles.md:785 core_09_a_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification -> ../../core_09.005_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification
+- ENGLISH translations/pt/core_01_a_values_principles.md:842 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_a_values_principles.md:1242 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:1242 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:1242 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1242 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1242 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:1275 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:1300 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:1300 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:1300 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1300 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1300 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:1360 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_a_values_principles.md:1444 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_a_values_principles.md:1471 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:1471 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:1471 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1471 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1471 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:1599 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:1599 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_a_values_principles.md:1599 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1599 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1599 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:1924 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_a_values_principles.md:1937 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_a_values_principles.md:1937 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_a_values_principles.md:1937 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1937 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_a_values_principles.md:1937 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_01_a_values_principles.md:1946 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_a_values_principles.md:1962 core_09_b_system_alignment_certification_record_process.md#6-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:26 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:31 core_05_apex_oversight_leg.md#oversight -> ../../core_05.020_apex_oversight_leg.md#oversight
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:32 core_05_band_oversight.md#material -> ../../core_05.050_band_oversight.md#material
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:32 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:32 core_05_band_oversight.md#material-risk -> ../../core_05.050_band_oversight.md#material-risk
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:32 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:32 core_05_band_oversight.md#materiality-impact-risk-and-proxy-integrity -> ../../core_05.050_band_oversight.md#materiality-impact-risk-and-proxy-integrity
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:56 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:84 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:94 core_05_band_integrative.md#constitutional-collision -> ../../core_05.045_band_integrative.md#constitutional-collision
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:94 core_05_band_integrative.md#constitutional-collision -> ../../core_05.045_band_integrative.md#constitutional-collision
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:94 core_05_band_integrative.md#constitutional-collision-a -> ../../core_05.045_band_integrative.md#constitutional-collision-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:94 core_05_band_integrative.md#constitutional-collision-a -> ../../core_05.045_band_integrative.md#constitutional-collision-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:94 core_05_band_integrative.md#constitutional-collision-c -> ../../core_05.045_band_integrative.md#constitutional-collision-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:107 core_05_band_integrative.md#constitutional-collision -> ../../core_05.045_band_integrative.md#constitutional-collision
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:109 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:346 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:398 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:415 core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment (no matching heading in core_06.025_rights_part_e.md)
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:415 core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.025_rights_part_e.md)
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:422 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:422 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:422 core_05_band_integrative.md#constitutional-collision-record-a -> ../../core_05.045_band_integrative.md#constitutional-collision-record-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:422 core_05_band_integrative.md#constitutional-collision-record-a -> ../../core_05.045_band_integrative.md#constitutional-collision-record-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:422 core_05_band_integrative.md#constitutional-collision-record-c -> ../../core_05.045_band_integrative.md#constitutional-collision-record-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:439 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:453 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:478 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:478 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:478 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:478 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:478 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:479 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:479 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:479 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:479 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:479 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:482 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:482 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:482 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:482 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:482 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:483 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:483 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:483 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:483 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:483 core_05_band_oversight.md#foreseeability-diligence-c -> ../../core_05.050_band_oversight.md#foreseeability-diligence-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:507 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:510 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:513 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:533 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:533 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:533 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:533 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:533 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:534 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:534 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:534 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:534 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:534 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:535 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:535 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:535 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:535 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:535 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:536 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:536 core_05_band_oversight.md#foreseeability -> ../../core_05.050_band_oversight.md#foreseeability
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:536 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:536 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:536 core_05_band_oversight.md#foreseeability-diligence-c -> ../../core_05.050_band_oversight.md#foreseeability-diligence-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:570 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:570 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:570 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:570 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:570 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:571 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:571 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:571 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:571 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:571 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:589 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:607 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:624 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:643 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:650 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:650 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:650 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:650 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:650 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:651 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:651 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:651 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:651 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:651 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:659 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:684 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:684 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:684 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:684 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:684 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:702 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:705 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:726 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:726 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:726 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:726 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:726 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:728 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:728 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:728 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:728 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:728 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:749 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:749 core_15_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity (no matching heading in core_15.000_non_regression.md)
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:749 core_16_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders (no matching heading in core_16.000_expansion_supremacy.md)
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:751 core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties (no matching heading in core_08.000_functional_independence_separation_of_duties.md)
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:767 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:776 core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties (no matching heading in core_08.000_functional_independence_separation_of_duties.md)
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:784 core_05_band_integrative.md#no-bypass -> ../../core_05.045_band_integrative.md#no-bypass
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:784 core_05_band_integrative.md#no-bypass -> ../../core_05.045_band_integrative.md#no-bypass
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:784 core_05_band_integrative.md#no-bypass-a -> ../../core_05.045_band_integrative.md#no-bypass-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:784 core_05_band_integrative.md#no-bypass-a -> ../../core_05.045_band_integrative.md#no-bypass-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:784 core_05_band_integrative.md#no-bypass-c -> ../../core_05.045_band_integrative.md#no-bypass-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:786 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:786 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:786 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:786 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:786 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:823 core_08_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties (no matching heading in core_08.000_functional_independence_separation_of_duties.md)
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:863 core_05_band_integrative.md#derived-information -> ../../core_05.045_band_integrative.md#derived-information
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:863 core_05_band_integrative.md#derived-information -> ../../core_05.045_band_integrative.md#derived-information
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:863 core_05_band_integrative.md#derived-information-a -> ../../core_05.045_band_integrative.md#derived-information-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:863 core_05_band_integrative.md#derived-information-a -> ../../core_05.045_band_integrative.md#derived-information-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:863 core_05_band_integrative.md#derived-information-c -> ../../core_05.045_band_integrative.md#derived-information-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:873 core_05_band_integrative.md#derived-information -> ../../core_05.045_band_integrative.md#derived-information
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:944 core_05_band_integrative.md#constitutional-collision-record -> ../../core_05.045_band_integrative.md#constitutional-collision-record
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#abstract-strictness-a -> ../../core_05.045_band_integrative.md#abstract-strictness-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#abstract-strictness-a -> ../../core_05.045_band_integrative.md#abstract-strictness-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:951 core_05_band_integrative.md#abstract-strictness-c -> ../../core_05.045_band_integrative.md#abstract-strictness-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:952 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:952 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:952 core_05_band_integrative.md#fullest-protective-effect-a -> ../../core_05.045_band_integrative.md#fullest-protective-effect-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:952 core_05_band_integrative.md#fullest-protective-effect-a -> ../../core_05.045_band_integrative.md#fullest-protective-effect-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:952 core_05_band_integrative.md#fullest-protective-effect-c -> ../../core_05.045_band_integrative.md#fullest-protective-effect-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:955 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:955 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:955 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:955 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:955 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:962 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:962 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:977 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:977 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:977 core_05_band_integrative.md#fullest-protective-effect-a -> ../../core_05.045_band_integrative.md#fullest-protective-effect-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:977 core_05_band_integrative.md#fullest-protective-effect-a -> ../../core_05.045_band_integrative.md#fullest-protective-effect-a
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:977 core_05_band_integrative.md#fullest-protective-effect-c -> ../../core_05.045_band_integrative.md#fullest-protective-effect-c
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:989 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:991 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:1004 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:1017 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:1022 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:1024 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:1024 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:1029 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:1031 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:1033 core_05_band_integrative.md#abstract-strictness -> ../../core_05.045_band_integrative.md#abstract-strictness
+- ENGLISH translations/pt/core_01_b_interaction_interpretation.md:1034 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:1036 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- DROPPED translations/pt/core_01_b_interaction_interpretation.md:1056 core_18_incorporation.md#chapter-seventeen-incorporation-bridge (no matching heading in core_18.000_incorporation.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:46 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:46 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:49 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:49 core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:64 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:64 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:64 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:64 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:64 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:67 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:67 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:67 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:67 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:67 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:68 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:68 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:68 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:68 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:68 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:72 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:72 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:72 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:72 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:72 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:76 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:76 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:76 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:76 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:76 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:111 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:123 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:162 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:162 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:164 core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:172 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:172 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:172 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:172 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:172 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:173 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:173 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:173 core_05_band_oversight.md#public-oversight-baseline-disclosure-a -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:173 core_05_band_oversight.md#public-oversight-baseline-disclosure-a -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:173 core_05_band_oversight.md#public-oversight-baseline-disclosure-c -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:174 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:174 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:174 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:174 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:174 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:175 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:175 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:175 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:175 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:175 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:192 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:192 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:192 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:195 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:197 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:205 core_05_band_oversight.md#verifiability -> ../../core_05.050_band_oversight.md#verifiability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:205 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:206 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:217 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:217 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:217 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:217 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:217 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:218 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:218 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:218 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:218 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:218 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:219 core_05_band_oversight.md#verifiability -> ../../core_05.050_band_oversight.md#verifiability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:219 core_05_band_oversight.md#verifiability -> ../../core_05.050_band_oversight.md#verifiability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:219 core_05_band_oversight.md#verifiability-a -> ../../core_05.050_band_oversight.md#verifiability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:219 core_05_band_oversight.md#verifiability-a -> ../../core_05.050_band_oversight.md#verifiability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:219 core_05_band_oversight.md#verifiability-c -> ../../core_05.050_band_oversight.md#verifiability-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:237 core_05_band_oversight.md#verifiability -> ../../core_05.050_band_oversight.md#verifiability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:237 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:241 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:241 core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:245 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:245 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:255 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:255 core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:265 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:265 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:265 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:265 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:265 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:282 core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:285 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:294 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:294 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:303 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:303 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:303 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:303 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:303 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:399 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:409 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:409 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:410 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:419 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:419 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:419 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:419 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:419 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:420 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:420 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:420 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:420 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:420 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:439 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:450 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:459 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:459 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:459 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:459 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:459 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:477 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:480 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:492 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:503 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:503 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:503 core_05_band_oversight.md#evidence-preservation-a -> ../../core_05.050_band_oversight.md#evidence-preservation-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:503 core_05_band_oversight.md#evidence-preservation-a -> ../../core_05.050_band_oversight.md#evidence-preservation-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:503 core_05_band_oversight.md#evidence-preservation-c -> ../../core_05.050_band_oversight.md#evidence-preservation-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:504 core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable -> ../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:504 core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable -> ../../core_05.050_band_oversight.md#foreseeability-and-reasonably-foreseeable
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:504 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:504 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:504 core_05_band_oversight.md#foreseeability-diligence-c -> ../../core_05.050_band_oversight.md#foreseeability-diligence-c
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:640 corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness (no matching heading in cs_14.305_critical_system_stewardship.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:669 core_08_functional_independence_segregation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties -> ../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:676 corpus_systems/cs_04_critical_system_stewardship.md#cs-410-competency-succession-and-oversight-effectiveness (no matching heading in cs_14.305_critical_system_stewardship.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:730 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:751 core_00_preamble.md#preamble--foundational-requirements -> ../../core_00.000_preamble.md#preamble--foundational-requirements
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:766 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:781 core_05_band_integrative.md#documented-legitimacy-mechanism -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:833 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:833 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:833 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:833 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:833 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:869 core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability (no matching heading in core_06.025_rights_part_e.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:869 core_06_rights_part_e.md#article-xxvi-b-periodic-revalidation-and-transparent-change (no matching heading in core_06.025_rights_part_e.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:880 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:880 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:880 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:880 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:880 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:913 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:913 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:922 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:922 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:922 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:922 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:922 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:934 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:948 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:950 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:963 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:966 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:979 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:979 core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:1004 core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1019 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1064 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1064 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1064 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1064 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1064 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1066 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1066 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1066 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1066 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1066 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1068 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1068 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1068 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1068 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1068 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1102 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1102 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1102 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1102 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1102 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1104 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1104 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1104 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1104 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1104 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1106 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1106 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1106 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1106 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1106 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1165 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1166 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1166 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1207 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1209 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1222 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1222 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1222 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1222 core_05_band_oversight.md#proxy-divergence-a -> ../../core_05.050_band_oversight.md#proxy-divergence-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1222 core_05_band_oversight.md#proxy-divergence-c -> ../../core_05.050_band_oversight.md#proxy-divergence-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1246 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1254 core_05_band_integrative.md#misalignment-detection -> ../../core_05.045_band_integrative.md#misalignment-detection
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1255 core_05_band_integrative.md#open-systems-data-and-auditing -> ../../core_05.045_band_integrative.md#open-systems-data-and-auditing
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1263 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1263 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1263 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1263 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1263 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1276 core_05_band_integrative.md#misalignment-detection -> ../../core_05.045_band_integrative.md#misalignment-detection
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1280 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1283 core_05_band_integrative.md#open-systems-data-and-auditing -> ../../core_05.045_band_integrative.md#open-systems-data-and-auditing
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:1318 core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1327 core_05_band_integrative.md#misaligned-reward-correction -> ../../core_05.045_band_integrative.md#misaligned-reward-correction
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1364 core_05_band_integrative.md#misaligned-reward-correction -> ../../core_05.045_band_integrative.md#misaligned-reward-correction
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1398 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1398 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1398 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1398 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1398 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1460 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1471 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1575 core_00_preamble.md#preamble--foundational-requirements -> ../../core_00.000_preamble.md#preamble--foundational-requirements
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:1578 core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:1578 core_06_rights_part_d.md#article-xxiv-c-public-reasons-challenge-rights-and-external-review (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_01_c_stewardship_capacity_principles.md:1578 core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment (no matching heading in core_06.025_rights_part_e.md)
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1590 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1590 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1590 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1590 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_01_c_stewardship_capacity_principles.md:1590 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- DROPPED translations/pt/core_04_burden_traceability_verification.md:52 core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_04_burden_traceability_verification.md:161 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/pt/core_04_burden_traceability_verification.md:177 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/pt/core_05__definitions_home.md:138 ../../core_05.040_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_05_apex_accountability_leg.md:22 core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_05_apex_accountability_leg.md:24 ../../core_05.045_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster (no matching heading in core_05.045_band_integrative.md)
+- DROPPED translations/pt/core_05_apex_accountability_leg.md:24 core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_05_apex_accountability_leg.md:84 core_01_c_stewardship_capacity_principles.md#13-market-structure (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_05_apex_continuity_aim.md:22 core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_05_apex_continuity_aim.md:56 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/pt/core_05_apex_flourishing_aim.md:22 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_05_apex_flourishing_aim.md:22 core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_05_apex_flourishing_aim.md:22 core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_05_apex_flourishing_aim.md:55 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/pt/core_05_apex_participation_leg.md:22 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/pt/core_05_band_integrative.md:38 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_05_band_integrative.md:79 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- DROPPED translations/pt/core_05_band_integrative.md:160 #6-process-conflict-resolution (no matching heading in core_05.045_band_integrative.md)
+- ENGLISH translations/pt/core_05_band_integrative.md:234 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_05_band_integrative.md:362 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_05_band_integrative.md:365 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_05_band_integrative.md:367 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_05_band_integrative.md:372 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_05_band_integrative.md:383 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_05_band_integrative.md:396 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_05_band_integrative.md:406 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_05_band_integrative.md:408 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_05_band_integrative.md:516 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_05_band_integrative.md:519 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_05_band_integrative.md:519 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_05_band_integrative.md:519 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_05_band_integrative.md:542 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_05_band_integrative.md:551 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_05_band_integrative.md:625 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_05_band_integrative.md:672 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_05_band_integrative.md:691 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- DROPPED translations/pt/core_05_band_integrative.md:722 core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_05_band_integrative.md:722 core_01_b_interaction_interpretation.md#6-process-conflict-resolution (no matching heading in core_01.010_interaction_interpretation.md)
+- ENGLISH translations/pt/core_05_band_integrative.md:723 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_05_band_integrative.md:736 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_05_band_integrative.md:739 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_05_band_integrative.md:739 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_05_band_integrative.md:740 core_05_band_oversight.md#evaluation-completeness-constraint -> ../../core_05.050_band_oversight.md#evaluation-completeness-constraint
+- ENGLISH translations/pt/core_05_band_integrative.md:740 core_05_band_oversight.md#materiality-integrity-constraint -> ../../core_05.050_band_oversight.md#materiality-integrity-constraint
+- ENGLISH translations/pt/core_05_band_integrative.md:751 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_05_band_oversight.md:93 core_05_band_oversight.md#materiality-semi-independent -> ../../core_05.050_band_oversight.md#materiality-semi-independent
+- ENGLISH translations/pt/core_05_band_oversight.md:94 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_05_band_oversight.md:94 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- DROPPED translations/pt/core_05_band_oversight.md:101 core_05_band_accountability.md#system (no matching heading in core_05.035_band_accountability.md)
+- ENGLISH translations/pt/core_05_band_oversight.md:111 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_05_band_oversight.md:111 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_05_band_oversight.md:127 core_05_band_oversight.md#materiality-semi-independent -> ../../core_05.050_band_oversight.md#materiality-semi-independent
+- ENGLISH translations/pt/core_05_band_oversight.md:128 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_05_band_oversight.md:139 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_05_band_oversight.md:151 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_05_band_oversight.md:161 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- DROPPED translations/pt/core_05_band_performance.md:11 core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_05_band_performance.md:36 core_05_band_continuity.md#proportionality-necessity-feasibility-burden-and-efficiency-cluster (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_05_band_performance.md:48 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- DROPPED translations/pt/core_06_rights_part_a.md:129 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:133 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:133 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:133 core_05_band_continuity.md#environmental-preconditions-c (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:156 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:164 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:164 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:164 core_05_band_continuity.md#environmental-preconditions-c (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:165 core_05_band_continuity.md#ecological-integrity-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:165 core_05_band_continuity.md#ecological-integrity-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:165 core_05_band_continuity.md#ecological-integrity-c (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:168 core_05_band_participation.md#animal-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:168 core_05_band_participation.md#animal-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:168 core_05_band_participation.md#animal-life-c (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:169 core_05_band_participation.md#elevated-communicative-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:169 core_05_band_participation.md#elevated-communicative-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:169 core_05_band_participation.md#elevated-communicative-life-c (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:170 core_05_band_participation.md#contested-sentient-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:170 core_05_band_participation.md#contested-sentient-life-a (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:170 core_05_band_participation.md#contested-sentient-life-c (no matching heading in core_05.055_band_participation.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:182 ../../core_17.000_amendment_ratification.md#102-instrument-of-adoption (no matching heading in core_17.000_amendment_ratification.md)
+- ENGLISH translations/pt/core_06_rights_part_a.md:216 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_a.md:216 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_a.md:216 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:216 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:216 core_05_band_oversight.md#material-impact-c -> ../../core_05.050_band_oversight.md#material-impact-c
+- ENGLISH translations/pt/core_06_rights_part_a.md:217 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_a.md:217 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_a.md:217 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:217 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:217 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_06_rights_part_a.md:218 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_06_rights_part_a.md:218 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_06_rights_part_a.md:218 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:218 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:218 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- DROPPED translations/pt/core_06_rights_part_a.md:236 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:236 core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:245 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:245 core_05_band_continuity.md#environmental-preconditions-a (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:245 core_05_band_continuity.md#environmental-preconditions-c (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_06_rights_part_a.md:246 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_a.md:246 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_a.md:246 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:246 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:246 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- DROPPED translations/pt/core_06_rights_part_a.md:267 core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/pt/core_06_rights_part_a.md:268 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_a.md:278 core_05_band_oversight.md#foreseeability-diligence -> ../../core_05.050_band_oversight.md#foreseeability-diligence
+- ENGLISH translations/pt/core_06_rights_part_a.md:278 core_05_band_oversight.md#foreseeability-diligence -> ../../core_05.050_band_oversight.md#foreseeability-diligence
+- ENGLISH translations/pt/core_06_rights_part_a.md:278 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:278 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:278 core_05_band_oversight.md#foreseeability-diligence-c -> ../../core_05.050_band_oversight.md#foreseeability-diligence-c
+- DROPPED translations/pt/core_06_rights_part_a.md:303 ../../core_17.000_amendment_ratification.md#102-instrument-of-adoption (no matching heading in core_17.000_amendment_ratification.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:315 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- ENGLISH translations/pt/core_06_rights_part_a.md:363 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_a.md:363 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_a.md:363 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:363 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:363 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_06_rights_part_a.md:430 core_05_band_oversight.md#foreseeability-diligence -> ../../core_05.050_band_oversight.md#foreseeability-diligence
+- ENGLISH translations/pt/core_06_rights_part_a.md:430 core_05_band_oversight.md#foreseeability-diligence -> ../../core_05.050_band_oversight.md#foreseeability-diligence
+- ENGLISH translations/pt/core_06_rights_part_a.md:430 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:430 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:430 core_05_band_oversight.md#foreseeability-diligence-c -> ../../core_05.050_band_oversight.md#foreseeability-diligence-c
+- ENGLISH translations/pt/core_06_rights_part_a.md:461 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_a.md:461 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_a.md:461 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:461 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:461 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- DROPPED translations/pt/core_06_rights_part_a.md:463 core_05_band_accountability.md#meaningful-agency-o (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:465 core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional (no matching heading in core_05.045_band_integrative.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:465 core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional (no matching heading in core_05.045_band_integrative.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:489 core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/pt/core_06_rights_part_a.md:498 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_a.md:498 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_a.md:498 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:498 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:498 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- DROPPED translations/pt/core_06_rights_part_a.md:530 core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:542 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:564 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:575 core_05_band_accountability.md#meaningful-agency-o (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:620 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:668 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:757 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:767 core_05_band_accountability.md#educational-agency-o (no matching heading in core_05.035_band_accountability.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:810 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_06_rights_part_a.md:810 core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/pt/core_06_rights_part_a.md:861 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_a.md:861 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_a.md:861 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:861 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:861 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- DROPPED translations/pt/core_06_rights_part_a.md:888 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- ENGLISH translations/pt/core_06_rights_part_a.md:902 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_a.md:902 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_a.md:902 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:902 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_a.md:902 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- DROPPED translations/pt/core_06_rights_part_a.md:934 core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/pt/core_06_rights_part_b.md:694 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_b.md:694 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_b.md:694 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:694 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:694 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:811 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_b.md:811 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_b.md:811 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:811 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:811 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:899 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_b.md:899 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_b.md:899 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:899 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:899 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:901 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_06_rights_part_b.md:901 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_06_rights_part_b.md:901 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:901 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:901 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:1019 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_06_rights_part_b.md:1019 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_06_rights_part_b.md:1019 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1019 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1019 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:1093 core_05_band_integrative.md#documented-legitimacy-mechanism -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism
+- ENGLISH translations/pt/core_06_rights_part_b.md:1093 core_05_band_integrative.md#documented-legitimacy-mechanism -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism
+- ENGLISH translations/pt/core_06_rights_part_b.md:1093 core_05_band_integrative.md#documented-legitimacy-mechanism-a -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1093 core_05_band_integrative.md#documented-legitimacy-mechanism-a -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1093 core_05_band_integrative.md#documented-legitimacy-mechanism-c -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:1106 core_05_band_integrative.md#documented-legitimacy-mechanism -> ../../core_05.045_band_integrative.md#documented-legitimacy-mechanism
+- ENGLISH translations/pt/core_06_rights_part_b.md:1292 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_b.md:1292 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_b.md:1292 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1292 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1292 core_05_band_oversight.md#heightened-scrutiny-c -> ../../core_05.050_band_oversight.md#heightened-scrutiny-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:1313 core_05_band_oversight.md#highest-scrutiny -> ../../core_05.050_band_oversight.md#highest-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_b.md:1348 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_b.md:1348 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_b.md:1348 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1348 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1348 core_05_band_oversight.md#heightened-scrutiny-c -> ../../core_05.050_band_oversight.md#heightened-scrutiny-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:1360 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_b.md:1570 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_b.md:1570 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_b.md:1570 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1570 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1570 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:1574 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_b.md:1574 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_b.md:1574 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1574 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1574 core_05_band_oversight.md#material-impact-c -> ../../core_05.050_band_oversight.md#material-impact-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:1618 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_b.md:1618 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_b.md:1618 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1618 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1618 core_05_band_oversight.md#material-impact-c -> ../../core_05.050_band_oversight.md#material-impact-c
+- ENGLISH translations/pt/core_06_rights_part_b.md:1798 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_b.md:1798 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_b.md:1798 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1798 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_b.md:1798 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_06_rights_part_c.md:122 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- DROPPED translations/pt/core_06_rights_part_c.md:142 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- ENGLISH translations/pt/core_06_rights_part_c.md:199 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- ENGLISH translations/pt/core_06_rights_part_c.md:246 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_c.md:246 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_c.md:246 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:246 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:246 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:325 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_c.md:325 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_c.md:325 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:325 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:325 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:379 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:379 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:379 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:379 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:379 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:394 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:398 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:522 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- ENGLISH translations/pt/core_06_rights_part_c.md:640 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_c.md:640 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_c.md:640 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:640 core_05_band_oversight.md#heightened-scrutiny-a -> ../../core_05.050_band_oversight.md#heightened-scrutiny-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:640 core_05_band_oversight.md#heightened-scrutiny-c -> ../../core_05.050_band_oversight.md#heightened-scrutiny-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:650 core_05_band_oversight.md#heightened-scrutiny -> ../../core_05.050_band_oversight.md#heightened-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_c.md:672 core_05_band_oversight.md#highest-scrutiny -> ../../core_05.050_band_oversight.md#highest-scrutiny
+- ENGLISH translations/pt/core_06_rights_part_c.md:701 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_06_rights_part_c.md:701 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_06_rights_part_c.md:701 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:701 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:701 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:725 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_06_rights_part_c.md:731 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_c.md:745 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_c.md:745 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_c.md:745 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:745 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:745 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:746 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_06_rights_part_c.md:746 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_06_rights_part_c.md:746 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:746 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:746 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:747 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:747 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:747 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:747 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:747 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:767 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_c.md:781 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_c.md:781 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_c.md:781 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:781 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:781 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:782 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:782 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:782 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:782 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:782 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:795 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_c.md:820 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_c.md:820 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_c.md:820 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:820 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:820 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:821 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_c.md:821 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_c.md:821 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:821 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:821 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:907 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:907 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:907 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:907 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:907 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:908 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_c.md:908 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_c.md:908 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:908 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:908 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:909 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_c.md:909 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_c.md:909 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:909 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:909 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:931 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- DROPPED translations/pt/core_06_rights_part_c.md:932 corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home (no matching heading in cjs_05.115_audit_process.md)
+- DROPPED translations/pt/core_06_rights_part_c.md:934 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- DROPPED translations/pt/core_06_rights_part_c.md:968 corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home (no matching heading in cjs_05.115_audit_process.md)
+- DROPPED translations/pt/core_06_rights_part_c.md:969 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- DROPPED translations/pt/core_06_rights_part_c.md:979 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- ENGLISH translations/pt/core_06_rights_part_c.md:995 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:995 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:995 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:995 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:995 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:997 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_c.md:997 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_c.md:997 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:997 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:997 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:1058 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:1058 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_c.md:1058 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1058 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1058 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:1096 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_c.md:1096 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_c.md:1096 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1096 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1096 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:1100 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_06_rights_part_c.md:1100 core_05_band_oversight.md#epistemic-integrity-o -> ../../core_05.050_band_oversight.md#epistemic-integrity-o
+- ENGLISH translations/pt/core_06_rights_part_c.md:1100 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1100 core_05_band_oversight.md#epistemic-integrity-a -> ../../core_05.050_band_oversight.md#epistemic-integrity-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1100 core_05_band_oversight.md#epistemic-integrity-c -> ../../core_05.050_band_oversight.md#epistemic-integrity-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:1111 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_06_rights_part_c.md:1224 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_c.md:1224 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_c.md:1224 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1224 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1224 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_06_rights_part_c.md:1287 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_c.md:1287 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_c.md:1287 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1287 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_c.md:1287 core_05_band_oversight.md#material-impact-c -> ../../core_05.050_band_oversight.md#material-impact-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:97 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_d.md:97 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_d.md:97 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:97 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:97 core_05_band_oversight.md#material-impact-c -> ../../core_05.050_band_oversight.md#material-impact-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:110 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_d.md:122 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- DROPPED translations/pt/core_06_rights_part_d.md:132 core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model (no matching heading in core_10.000_standing_assessment.md)
+- DROPPED translations/pt/core_06_rights_part_d.md:132 core_10_standing_integration.md#chapter-ten-standing-effects-and-integration (no matching heading in core_11.000_standing_integration.md)
+- ENGLISH translations/pt/core_06_rights_part_d.md:195 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- ENGLISH translations/pt/core_06_rights_part_d.md:206 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:206 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:206 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:206 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:206 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_06_rights_part_d.md:228 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- ENGLISH translations/pt/core_06_rights_part_d.md:341 core_11_standing_integration.md#51-separation-limits -> ../../core_11.000_standing_integration.md#51-separation-limits
+- DROPPED translations/pt/core_06_rights_part_d.md:430 core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment (no matching heading in core_06.025_rights_part_e.md)
+- ENGLISH translations/pt/core_06_rights_part_d.md:431 core_12_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- DROPPED translations/pt/core_06_rights_part_d.md:476 core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.025_rights_part_e.md)
+- ENGLISH translations/pt/core_06_rights_part_d.md:566 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_d.md:580 core_05_band_oversight.md#movement-refuge-semi-independent -> ../../core_05.050_band_oversight.md#movement-refuge-semi-independent
+- ENGLISH translations/pt/core_06_rights_part_d.md:729 core_05_band_oversight.md#movement-refuge-semi-independent -> ../../core_05.050_band_oversight.md#movement-refuge-semi-independent
+- ENGLISH translations/pt/core_06_rights_part_d.md:841 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_d.md:841 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_d.md:841 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:841 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:841 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:842 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_d.md:842 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_d.md:842 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:842 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:842 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:844 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:844 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:844 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:844 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:844 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:862 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:888 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_d.md:888 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_d.md:888 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:888 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:888 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:889 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_d.md:889 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_06_rights_part_d.md:889 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:889 core_05_band_oversight.md#material-impact-a -> ../../core_05.050_band_oversight.md#material-impact-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:889 core_05_band_oversight.md#material-impact-c -> ../../core_05.050_band_oversight.md#material-impact-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:919 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:919 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:919 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:919 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:919 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:942 core_05_band_integrative.md#fullest-protective-effect -> ../../core_05.045_band_integrative.md#fullest-protective-effect
+- ENGLISH translations/pt/core_06_rights_part_d.md:960 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_d.md:960 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_d.md:960 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:960 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:960 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:963 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:963 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:963 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:963 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:963 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:1006 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:1006 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:1006 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1006 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1006 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:1007 core_05_band_oversight.md#foreseeability-diligence -> ../../core_05.050_band_oversight.md#foreseeability-diligence
+- ENGLISH translations/pt/core_06_rights_part_d.md:1007 core_05_band_oversight.md#foreseeability-diligence -> ../../core_05.050_band_oversight.md#foreseeability-diligence
+- ENGLISH translations/pt/core_06_rights_part_d.md:1007 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1007 core_05_band_oversight.md#foreseeability-diligence-a -> ../../core_05.050_band_oversight.md#foreseeability-diligence-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1007 core_05_band_oversight.md#foreseeability-diligence-c -> ../../core_05.050_band_oversight.md#foreseeability-diligence-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:1040 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:1040 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:1040 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1040 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1040 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_d.md:1077 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:1077 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:1077 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1077 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1077 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_06_rights_part_d.md:1098 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- DROPPED translations/pt/core_06_rights_part_d.md:1102 core_12_forum.md#chapter-twelve-forums-and-jurisdiction (no matching heading in core_13.000_forum.md)
+- DROPPED translations/pt/core_06_rights_part_d.md:1104 core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability (no matching heading in core_06.025_rights_part_e.md)
+- ENGLISH translations/pt/core_06_rights_part_d.md:1192 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:1192 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_d.md:1192 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1192 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_d.md:1192 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_06_rights_part_d.md:1253 core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability (no matching heading in core_06.025_rights_part_e.md)
+- ENGLISH translations/pt/core_06_rights_part_e.md:88 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_e.md:88 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_e.md:88 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:88 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:88 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_e.md:90 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_e.md:90 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_e.md:90 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:90 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:90 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_06_rights_part_e.md:98 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- ENGLISH translations/pt/core_06_rights_part_e.md:119 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- ENGLISH translations/pt/core_06_rights_part_e.md:140 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_e.md:140 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_e.md:140 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:140 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:140 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_06_rights_part_e.md:142 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_06_rights_part_e.md:142 core_05_band_oversight.md#truth-constitutional-constraint-o -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-o
+- ENGLISH translations/pt/core_06_rights_part_e.md:142 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:142 core_05_band_oversight.md#truth-constitutional-constraint-a -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:142 core_05_band_oversight.md#truth-constitutional-constraint-c -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint-c
+- ENGLISH translations/pt/core_06_rights_part_e.md:208 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- ENGLISH translations/pt/core_06_rights_part_e.md:210 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- ENGLISH translations/pt/core_06_rights_part_e.md:223 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_e.md:223 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_06_rights_part_e.md:223 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:223 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:223 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- DROPPED translations/pt/core_06_rights_part_e.md:245 corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors (no matching heading in cf_13.445_performance_backlog_publication_accessibility.md)
+- ENGLISH translations/pt/core_06_rights_part_e.md:246 core_13_forum.md#61-emergency-measures-and-continuation-burden -> ../../core_13.000_forum.md#61-emergency-measures-and-continuation-burden
+- ENGLISH translations/pt/core_06_rights_part_e.md:280 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_e.md:280 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_e.md:280 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:280 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:280 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_06_rights_part_e.md:310 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_e.md:310 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_06_rights_part_e.md:310 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:310 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:310 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_06_rights_part_e.md:345 core_05_band_oversight.md#gate-criteria -> ../../core_05.050_band_oversight.md#gate-criteria
+- DROPPED translations/pt/core_06_rights_part_e.md:369 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- ENGLISH translations/pt/core_06_rights_part_e.md:379 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- ENGLISH translations/pt/core_06_rights_part_e.md:379 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- ENGLISH translations/pt/core_06_rights_part_e.md:379 core_05_band_oversight.md#evidence-preservation-a -> ../../core_05.050_band_oversight.md#evidence-preservation-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:379 core_05_band_oversight.md#evidence-preservation-a -> ../../core_05.050_band_oversight.md#evidence-preservation-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:379 core_05_band_oversight.md#evidence-preservation-c -> ../../core_05.050_band_oversight.md#evidence-preservation-c
+- ENGLISH translations/pt/core_06_rights_part_e.md:390 core_05_band_oversight.md#gate -> ../../core_05.050_band_oversight.md#gate
+- ENGLISH translations/pt/core_06_rights_part_e.md:390 core_05_band_oversight.md#gate-criteria -> ../../core_05.050_band_oversight.md#gate-criteria
+- DROPPED translations/pt/core_06_rights_part_e.md:406 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/pt/core_06_rights_part_e.md:408 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/pt/core_06_rights_part_e.md:409 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/pt/core_06_rights_part_e.md:420 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/pt/core_06_rights_part_e.md:428 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/pt/core_06_rights_part_e.md:429 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- ENGLISH translations/pt/core_06_rights_part_e.md:442 core_11_standing_integration.md#54-transition-exception-misaligned-rewards -> ../../core_11.000_standing_integration.md#54-transition-exception-misaligned-rewards
+- DROPPED translations/pt/core_06_rights_part_e.md:484 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- DROPPED translations/pt/core_06_rights_part_e.md:490 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- ENGLISH translations/pt/core_06_rights_part_e.md:490 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- ENGLISH translations/pt/core_06_rights_part_e.md:497 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_e.md:497 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_06_rights_part_e.md:497 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:497 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_06_rights_part_e.md:497 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- DROPPED translations/pt/core_06_rights_part_e.md:515 core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- ENGLISH translations/pt/core_06_rights_part_e.md:515 core_00_preamble.md#62-how-the-full-chain-fits-together -> ../../core_00.000_preamble.md#62-how-the-full-chain-fits-together
+- DROPPED translations/pt/core_06_rights_part_e.md:515 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- ENGLISH translations/pt/core_06_rights_part_e.md:548 core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct -> ../../core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct
+- ENGLISH translations/pt/core_06_rights_part_e.md:549 core_12_a_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct -> ../../core_12.005_misconduct_designation.md#chapter-twelve-anti-constitutional-misconduct
+- ENGLISH translations/pt/core_06_rights_part_e.md:550 core_12_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out -> ../../core_12.005_misconduct_designation.md#dissent-and-peaceful-protest-carve-out
+- DROPPED translations/pt/core_06_rights_part_e.md:555 corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxviii-d-operative-transition-scoped-remediation-requirements (no matching heading in ci_06.275_transitional_governance_institutional_evolution.md)
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:14 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:48 core_07_b_system_alignment_certification_record_process.md#91-challenging-a-certification -> ../../core_09.010_system_alignment_certification_record_process.md#91-challenging-a-certification
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:48 core_07_b_system_alignment_certification_record_process.md#6-forum-process -> ../../core_09.010_system_alignment_certification_record_process.md#6-forum-process
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:48 core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles -> ../../core_09.010_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:48 core_07_b_system_alignment_certification_record_process.md#8-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:48 core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability -> ../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:48 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:48 core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:99 core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening -> ../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:99 core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- DROPPED translations/pt/core_07_a_system_alignment_certification_evaluation.md:99 core_07_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process (no matching heading in core_09.010_system_alignment_certification_record_process.md)
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:101 core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening -> ../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:191 core_07_b_system_alignment_certification_record_process.md#6-forum-process -> ../../core_09.010_system_alignment_certification_record_process.md#6-forum-process
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:192 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:193 core_07_b_system_alignment_certification_record_process.md#8-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:194 core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening -> ../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:194 core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:210 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:210 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- DROPPED translations/pt/core_07_a_system_alignment_certification_evaluation.md:210 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:211 core_07_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability -> ../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:211 core_07_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:211 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- DROPPED translations/pt/core_07_a_system_alignment_certification_evaluation.md:243 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:255 core_07_b_system_alignment_certification_record_process.md#81-minimum-record-contents -> ../../core_09.010_system_alignment_certification_record_process.md#81-minimum-record-contents
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:258 core_07_b_system_alignment_certification_record_process.md#92-provisional-and-full-certification -> ../../core_09.010_system_alignment_certification_record_process.md#92-provisional-and-full-certification
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:268 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- DROPPED translations/pt/core_07_a_system_alignment_certification_evaluation.md:277 core_08_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement (no matching heading in core_10.000_standing_assessment.md)
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:279 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:289 core_07_b_system_alignment_certification_record_process.md#9-recertification-and-reopening -> ../../core_09.010_system_alignment_certification_record_process.md#9-recertification-and-reopening
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:297 core_07_b_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles -> ../../core_09.010_system_alignment_certification_record_process.md#61-forum-supervision-and-component-roles
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:313 core_07_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:330 core_08_b_system_alignment_certification_record_process.md#8-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:330 core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability -> ../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:330 core_08_b_system_alignment_certification_record_process.md#6-forum-process -> ../../core_09.010_system_alignment_certification_record_process.md#6-forum-process
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:330 core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:331 core_05_band_oversight.md#risk-disclosure -> ../../core_05.050_band_oversight.md#risk-disclosure
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:331 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- DROPPED translations/pt/core_07_a_system_alignment_certification_evaluation.md:331 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_07_a_system_alignment_certification_evaluation.md:370 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:377 core_05_band_oversight.md#risk-disclosure -> ../../core_05.050_band_oversight.md#risk-disclosure
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:387 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:390 core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:420 core_08_b_system_alignment_certification_record_process.md#8-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:421 core_08_b_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability -> ../../core_09.010_system_alignment_certification_record_process.md#82-record-integrity-transparency-and-auditability
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:421 core_08_b_system_alignment_certification_record_process.md#10-relationship-to-standing -> ../../core_09.010_system_alignment_certification_record_process.md#10-relationship-to-standing
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:421 core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:422 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:448 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- DROPPED translations/pt/core_07_a_system_alignment_certification_evaluation.md:450 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:535 core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes -> ../../core_09.010_system_alignment_certification_record_process.md#7-certification-outcomes
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:545 core_07_b_system_alignment_certification_record_process.md#8-system-certification-record -> ../../core_09.010_system_alignment_certification_record_process.md#8-system-certification-record
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:661 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:661 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:661 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:683 core_05_band_oversight.md#material-impact -> ../../core_05.050_band_oversight.md#material-impact
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:684 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:684 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:719 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:719 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:719 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:753 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:958 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:1000 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:1047 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_07_a_system_alignment_certification_evaluation.md:1088 core_05_band_oversight.md#materiality -> ../../core_05.050_band_oversight.md#materiality
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:12 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- DROPPED translations/pt/core_07_b_system_alignment_certification_record_process.md:59 core_07_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive (no matching heading in core_09.005_system_alignment_certification_evaluation.md)
+- DROPPED translations/pt/core_07_b_system_alignment_certification_record_process.md:69 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:70 core_05_band_oversight.md#risk-disclosure -> ../../core_05.050_band_oversight.md#risk-disclosure
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:80 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:161 core_05_band_oversight.md#transparency-auditability-and-verification-cluster -> ../../core_05.050_band_oversight.md#transparency-auditability-and-verification-cluster
+- DROPPED translations/pt/core_07_b_system_alignment_certification_record_process.md:163 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:163 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:170 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:170 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:170 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:170 core_05_band_oversight.md#transparency-a -> ../../core_05.050_band_oversight.md#transparency-a
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:170 core_05_band_oversight.md#transparency-c -> ../../core_05.050_band_oversight.md#transparency-c
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:171 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:171 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:171 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:171 core_05_band_oversight.md#auditability-a -> ../../core_05.050_band_oversight.md#auditability-a
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:171 core_05_band_oversight.md#auditability-c -> ../../core_05.050_band_oversight.md#auditability-c
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:180 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:180 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:196 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:198 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:198 core_05_band_oversight.md#transparency -> ../../core_05.050_band_oversight.md#transparency
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:198 core_05_band_oversight.md#public-oversight-baseline-disclosure -> ../../core_05.050_band_oversight.md#public-oversight-baseline-disclosure
+- ENGLISH translations/pt/core_07_b_system_alignment_certification_record_process.md:202 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- DROPPED translations/pt/core_07_b_system_alignment_certification_record_process.md:264 core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/pt/core_07_b_system_alignment_certification_record_process.md:300 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_07_b_system_alignment_certification_record_process.md:373 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_07_b_system_alignment_certification_record_process.md:466 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_07_b_system_alignment_certification_record_process.md:490 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_07_functional_independence_segregation_of_duties.md:12 ../../core_10_standing_assessment.md#37-segregation-of-duties -> ../../core_10.000_standing_assessment.md#37-separation-of-duties
+- DROPPED translations/pt/core_07_functional_independence_segregation_of_duties.md:166 ../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_07_functional_independence_segregation_of_duties.md:221 ../../core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_07_system_alignment_certification.md:15 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_07_system_alignment_certification.md:33 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- DROPPED translations/pt/core_08_standing_assessment.md:38 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:42 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:42 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:92 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/pt/core_08_standing_assessment.md:94 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_08_standing_assessment.md:94 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_08_standing_assessment.md:94 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_08_standing_assessment.md:94 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_08_standing_assessment.md:94 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_08_standing_assessment.md:154 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- DROPPED translations/pt/core_08_standing_assessment.md:395 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:402 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:402 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:411 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/pt/core_08_standing_assessment.md:411 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- DROPPED translations/pt/core_08_standing_assessment.md:413 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:413 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:424 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:441 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:452 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- ENGLISH translations/pt/core_08_standing_assessment.md:456 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- ENGLISH translations/pt/core_08_standing_assessment.md:464 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- DROPPED translations/pt/core_08_standing_assessment.md:478 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:478 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:482 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:514 core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor (no matching heading in core_06.010_rights_part_b.md)
+- ENGLISH translations/pt/core_08_standing_assessment.md:548 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- DROPPED translations/pt/core_08_standing_assessment.md:560 core_06_rights_part_d.md#incentive-alignment-transition-carve-out (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_08_standing_assessment.md:579 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- DROPPED translations/pt/core_08_standing_assessment.md:595 core_06_rights_part_d.md#incentive-alignment-transition-carve-out (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_08_standing_assessment.md:866 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_08_standing_assessment.md:869 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- ENGLISH translations/pt/core_08_standing_assessment.md:870 core_05_band_oversight.md#auditability -> ../../core_05.050_band_oversight.md#auditability
+- DROPPED translations/pt/core_08_standing_assessment.md:879 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:881 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:882 core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints (no matching heading in core_01.010_interaction_interpretation.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:891 core_06_rights_part_c.md#article-xix-standing-and-participation-status (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:892 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:893 core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:894 core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_08_standing_assessment.md:894 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_09_standing_integration.md:542 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_09_standing_integration.md:703 core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty (no matching heading in core_01.005_values_principles.md)
+- ENGLISH translations/pt/core_09_standing_integration.md:710 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- ENGLISH translations/pt/core_09_standing_integration.md:737 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- DROPPED translations/pt/core_09_standing_integration.md:836 ../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes (no matching heading in core_10.005_application_vignettes.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:12 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:21 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:27 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:71 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:79 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:146 core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_10_a_misconduct_designation.md:250 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:275 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:296 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:296 core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:296 core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:296 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:370 core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:370 core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:409 core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:409 core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_10_a_misconduct_designation.md:429 core_10_b_misconduct_pattern_applications.md#chapter-ten-part-b-anti-constitutional-misconduct-pattern-applications (no matching heading in core_12.010_misconduct_pattern_applications.md)
+- DROPPED translations/pt/core_11_forum.md:15 ../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes (no matching heading in core_10.005_application_vignettes.md)
+- DROPPED translations/pt/core_11_forum.md:62 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_11_forum.md:62 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_11_forum.md:149 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_11_forum.md:194 core_06_rights_part_c.md#article-xxiii-b-composition-rotation-and-conflict-controls (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_11_forum.md:295 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_11_forum.md:458 core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_11_forum.md:619 core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/pt/core_11_forum.md:619 core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_11_forum.md:619 core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_11_forum.md:619 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- ENGLISH translations/pt/core_11_forum.md:691 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation
+- DROPPED translations/pt/core_11_forum.md:791 core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_11_forum.md:791 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_11_forum.md:791 core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_11_forum.md:792 ../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes (no matching heading in core_10.005_application_vignettes.md)
+- DROPPED translations/pt/core_11_forum.md:792 core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_11_forum.md:794 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- DROPPED translations/pt/core_11_forum.md:795 core_06_rights_part_d.md#operative-steward-statement-delay (no matching heading in core_06.020_rights_part_d.md)
+- ENGLISH translations/pt/core_11_forum.md:803 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_11_forum.md:803 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_11_forum.md:803 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_11_forum.md:803 core_05_band_oversight.md#materiality-determination-a -> ../../core_05.050_band_oversight.md#materiality-determination-a
+- ENGLISH translations/pt/core_11_forum.md:803 core_05_band_oversight.md#materiality-determination-c -> ../../core_05.050_band_oversight.md#materiality-determination-c
+- ENGLISH translations/pt/core_11_forum.md:815 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- ENGLISH translations/pt/core_11_forum.md:859 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- DROPPED translations/pt/core_11_forum.md:860 ../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors (no matching heading in cf_13.445_performance_backlog_publication_accessibility.md)
+- DROPPED translations/pt/core_11_forum.md:875 core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_11_forum.md:882 core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_11_forum.md:898 core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_11_forum.md:925 ../../core_10-13_application_vignettes.md#chapters-eight-eleven-application-vignettes (no matching heading in core_10.005_application_vignettes.md)
+- DROPPED translations/pt/core_12_governance.md:62 core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_12_governance.md:62 #6-process-conflict-resolution (no matching heading in core_14.000_governance.md)
+- DROPPED translations/pt/core_12_governance.md:64 ../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/pt/core_12_governance.md:64 ../../core_06_rights_part_c.md#article-xix-standing-and-participation-status (no matching heading in core_06.015_rights_part_c.md)
+- ENGLISH translations/pt/core_12_governance.md:135 core_05_band_oversight.md#material -> ../../core_05.050_band_oversight.md#material
+- ENGLISH translations/pt/core_12_governance.md:250 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_12_governance.md:250 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- DROPPED translations/pt/core_12_governance.md:269 core_01_a_values_principles.md#2-foundational-objective-wellbeing (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_12_governance.md:269 core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth (no matching heading in core_01.005_values_principles.md)
+- DROPPED translations/pt/core_12_governance.md:314 core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/pt/core_12_governance.md:326 core_05_band_oversight.md#proxy-divergence -> ../../core_05.050_band_oversight.md#proxy-divergence
+- DROPPED translations/pt/core_12_governance.md:353 ../../core_06_rights_part_c.md#article-xix-standing-and-participation-status (no matching heading in core_06.015_rights_part_c.md)
+- DROPPED translations/pt/core_12_governance.md:354 ../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation (no matching heading in core_06.010_rights_part_b.md)
+- ENGLISH translations/pt/core_12_governance.md:375 core_05_band_oversight.md#materiality-determination -> ../../core_05.050_band_oversight.md#materiality-determination
+- DROPPED translations/pt/core_12_governance.md:451 core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment (no matching heading in core_06.020_rights_part_d.md)
+- DROPPED translations/pt/core_12_governance.md:471 ../../core_05_band_continuity.md#charter (no matching heading in core_05.040_band_continuity.md)
+- DROPPED translations/pt/core_12_governance.md:483 ../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements (no matching heading in core_06.010_rights_part_b.md)
+- DROPPED translations/pt/core_12_governance.md:484 core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_12_governance.md:494 core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- DROPPED translations/pt/core_12_governance.md:505 core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints (no matching heading in core_01.015_stewardship_capacity_principles.md)
+- ENGLISH translations/pt/core_13_non_regression.md:68 core_05_band_oversight.md#truth-constitutional-constraint -> ../../core_05.050_band_oversight.md#truth-constitutional-constraint
+- ENGLISH translations/pt/core_13_non_regression.md:68 core_05_band_oversight.md#epistemic-integrity -> ../../core_05.050_band_oversight.md#epistemic-integrity
+- ENGLISH translations/pt/core_13_non_regression.md:68 core_05_band_oversight.md#truth-and-epistemic-integrity-cluster -> ../../core_05.050_band_oversight.md#truth-and-epistemic-integrity-cluster
+- ENGLISH translations/pt/core_13_non_regression.md:172 core_05_band_oversight.md#evidence-preservation -> ../../core_05.050_band_oversight.md#evidence-preservation

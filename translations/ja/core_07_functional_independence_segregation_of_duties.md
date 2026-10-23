@@ -8,8 +8,8 @@
 >
 > - **憲法上の所管事項：**重大な拘束力を持つ行為について別個の席を設ける最低基準；各[重大な拘束力を持つ行為の記録](../../core_05_band_accountability.md#materially-binding-act-record)に共通する普遍的な最低内容；行為者およびその[物的支配ライン](../../core_05_band_accountability.md#material-control-line)からの独立性；公表されたレーンと役割の配置；利益相反、欠員、代行および誤った席への回付；比例的な統合運営；帰属を追跡できる引継ぎ；ならびに後続のすべての憲法上のプロセスが適用すべき最低限の独立性条件。
 > - **原則層の根拠：**[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)は、統治に機能的独立性の維持を求め、運用上の席の構造を本章に委ねる。
-> - **実施所管：**[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)、[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)、[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries)が席を配置し、運用可能にする。これらは本章より厳格であってよく、限定された特別権限の席種を追加してもよいが、本章の基準を狭めてはならない。
-> - **プロセス固有の適用は後続章が担う：**第八章はこの最低基準をシステム整合性認証に適用し、[第九章 §3.7](../../core_10_standing_assessment.md#37-segregation-of-duties)はステータス記録に適用する。第十二章と[corpus_forum.md](../../corpus_forum.md)はフォーラムの手続に適用する。各章は対象分野に必要な保護策を追加できるが、より弱い代替策を設けてはならない。
+> - **実施所管：**[CJS-3.11](../../corpus_joint_structure/cjs_05.125_accountability_operations.md#constitutional-lane-and-functional-separation)、[CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)、[CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries)が席を配置し、運用可能にする。これらは本章より厳格であってよく、限定された特別権限の席種を追加してもよいが、本章の基準を狭めてはならない。
+> - **プロセス固有の適用は後続章が担う：**第八章はこの最低基準をシステム整合性認証に適用し、[第九章 §3.7](../../core_10.000_standing_assessment.md#37-separation-of-duties)はステータス記録に適用する。第十二章と[corpus_forum.md](../../corpus_forum.md)はフォーラムの手続に適用する。各章は対象分野に必要な保護策を追加できるが、より弱い代替策を設けてはならない。
 >
 > 読む順序：§1 目的・範囲 → §2 四席の最低基準 → §3 独立性と利益相反 → §4 誤った席への回付 → §5 公表された配置と代行 → §6 比例的な規模調整 → §7 緊急事態 → §8 行為記録と帰属可能な引継ぎ → §9 後続プロセスへの適用。
 
@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
 - 上流：[憲法上の四原則](../../core_00_preamble.md#constitutional-tetrad)、特に**監督**と**説明責任**；[重要な利害](../../core_00_preamble.md#material-stake)；[第一章 §17.1 共有スチュワードシップ基準](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)；[第一章 §18 スチュワードシップ規律下の統治](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[第XVI条](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)（*監査、透明性、独立検証*）。
-- 小節：[§1](#1-purpose-scope-and-owner-boundary)；[§2](#2-four-seat-constitutional-floor)；[§3](#3-independence-conflict-and-control-lines)；[§4](#4-wrong-seat-routing)；[§5](#5-published-placement-vacancy-and-substitution)；[§6](#6-proportional-scaling-and-merged-hosting)；[§7](#7-emergency-and-urgent-action)；[§8](#8-act-records-and-attributable-handoffs)；[§9](#9-relationship-to-later-processes)。
+- 小節：[§1](#1-purpose-scope-and-owner-boundary)；[§2](#2-four-seat-constitutional-requirement)；[§3](#3-independence-conflict-and-control-lines)；[§4](#4-wrong-seat-routing)；[§5](#5-published-placement-vacancy-and-substitution)；[§6](#6-proportional-scaling-and-merged-hosting)；[§7](#7-emergency-and-urgent-action)；[§8](#8-act-records-and-attributable-handoffs)；[§9](#9-relationship-to-later-processes)。
 - 下流：[第八章](../../core_09_system_alignment_certification.md#chapter-nine-system-alignment-certification-reading-index)；[第九章](../../core_10_standing_assessment.md#chapter-ten-contribution-violation-and-standing-model--measurement)；[第十二章](../../core_13_forum.md#chapter-thirteen-forums-and-jurisdiction)；[第十三章](../../core_14_governance.md#chapter-fourteen-constitutional-contract-legitimacy-authorization-and-stewardship)；上記の指定実施文書。
 - 併読：[第一章 §19.3 不整合の検出](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)（*複数主体による検出と審査*）；[帰属可能な行為](../../core_05_band_accountability.md#attributable-action)；[帰属の完全性](../../core_05_band_accountability.md#attribution-integrity)；[監査可能性](../../core_05_band_oversight.md#auditability)；[異議申立て可能性](../../core_05_band_accountability.md#contestability)；[比例性](../../core_05_band_accountability.md#proportionality)。
 
@@ -36,7 +36,7 @@
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
 - 上流：章冒頭の所管に関する宣言；[第一章 §18](../../core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[監督](../../core_05_apex_oversight_leg.md#oversight-constitutional)；[説明責任](../../core_05_apex_accountability_leg.md#accountability)。
-- 下流：[§2](#2-four-seat-constitutional-floor)から[§9](#9-relationship-to-later-processes)まで；重大な拘束力を持つ行為を生み出す、または変更する後続のすべてのプロセス。
+- 下流：[§2](#2-four-seat-constitutional-requirement)から[§9](#9-relationship-to-later-processes)まで；重大な拘束力を持つ行為を生み出す、または変更する後続のすべてのプロセス。
 - 併読：検証基盤については[第四章](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification)；異議申立てと救済については[第XIII-A条](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)（*信頼性・信頼に足ることの基準*）および[第XIII-B条](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)（*救済を求める権利*）；独立検証に関する権利の最低基準については[第XVI条](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)（*監査、透明性、独立検証*）。
 
 </details>
@@ -65,14 +65,14 @@
 - 第八章から第十二章のプロセス固有の記録内容；または
 - 指定実施文書の運用上の席カタログ、人員配置方法およびレーンマップの仕組み。
 
-<a id="2-four-seat-constitutional-floor"></a>
+<a id="2-four-seat-constitutional-requirement"></a>
 ### 2. 四席の憲法上の最低基準
 
 <details>
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
 - 上流：[§1](#1-purpose-scope-and-owner-boundary)；[第一章 §18.3](../../core_01_c_stewardship_capacity_principles.md#183-separation-of-duties)；[第一章 §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)。
-- 下流：[§3](#3-independence-conflict-and-control-lines)から[§9](#9-relationship-to-later-processes)まで；[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries)（*席のカタログ — プロセス役割の類型と運用上の境界*）。
+- 下流：[§3](#3-independence-conflict-and-control-lines)から[§9](#9-relationship-to-later-processes)まで；[CI-4.6](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-6-seat-catalog--process-role-archetypes-and-operational-boundaries)（*席のカタログ — プロセス役割の類型と運用上の境界*）。
 - 併読：唯一認められる統合運営の経路については[§6](#6-proportional-scaling-and-merged-hosting)。
 
 </details>
@@ -163,9 +163,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
-- 上流：[§2](#2-four-seat-constitutional-floor)；[権限に応じた説明責任](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)；[第XXIV条](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)（*憲法解釈、審査および乗っ取り防止の保護策*）。
+- 上流：[§2](#2-four-seat-constitutional-requirement)；[権限に応じた説明責任](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)；[第XXIV条](core_06_rights_part_d.md)（*憲法解釈、審査および乗っ取り防止の保護策*）。
 - 下流：[§4](#4-wrong-seat-routing)；[§5](#5-published-placement-vacancy-and-substitution)；[§8](#8-act-records-and-attributable-handoffs)；第八章の認証コンポーネントの役割；第九章の記録保管；第十二章フォーラムにおける自己審査の防止。
-- 併読：[物的支配ライン](../../core_05_band_accountability.md#material-control-line)；運用上の利益相反と自己審査防止策について[CI-5](../../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md)（*利益相反の完全性、乗っ取り防止、腐敗防止*）および[CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md)（*完全性の保護策、乗っ取り防止の運用、自己審査防止の支援*）。
+- 併読：[物的支配ライン](../../core_05_band_accountability.md#material-control-line)；運用上の利益相反と自己審査防止策について[CI-5](../../corpus_institutions/ci_08.210_conflict_integrity_anti_capture_anti_corruption.md)（*利益相反の完全性、乗っ取り防止、腐敗防止*）および[CF-7](../../corpus_forum/cf_13.425_integrity_safeguards_anti_capture_anti_self_judging.md)（*完全性の保護策、乗っ取り防止の運用、自己審査防止の支援*）。
 
 </details>
 
@@ -190,8 +190,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
-- 上流：[§2](#2-four-seat-constitutional-floor)；[§3](#3-independence-conflict-and-control-lines)。
-- 下流：[§5](#5-published-placement-vacancy-and-substitution)；[§8](#8-act-records-and-attributable-handoffs)；[CI-4.6 共有席の規則](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)。
+- 上流：[§2](#2-four-seat-constitutional-requirement)；[§3](#3-independence-conflict-and-control-lines)。
+- 下流：[§5](#5-published-placement-vacancy-and-substitution)；[§8](#8-act-records-and-attributable-handoffs)；[CI-4.6 共有席の規則](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)。
 - 併読：[第一章 §17.5 抵抗する義務](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)。
 
 </details>
@@ -216,9 +216,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
-- 上流：[§2](#2-four-seat-constitutional-floor)；[§3](#3-independence-conflict-and-control-lines)；[透明性](../../core_05_band_oversight.md#transparency)；[監査可能性](../../core_05_band_oversight.md#auditability)。
-- 下流：[§8](#8-act-records-and-attributable-handoffs)；[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)（*機能的分離レーン*）；[CI-4.5](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains)（*認可された役割と説明責任の連鎖*）；第八章と第九章の記録。
-- 併読：[憲章](../../core_05_band_continuity.md#charter)および[第十三章 §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution)。
+- 上流：[§2](#2-four-seat-constitutional-requirement)；[§3](#3-independence-conflict-and-control-lines)；[透明性](../../core_05_band_oversight.md#transparency)；[監査可能性](../../core_05_band_oversight.md#auditability)。
+- 下流：[§8](#8-act-records-and-attributable-handoffs)；[CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)（*機能的分離レーン*）；[CI-4.5](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-14205-5-authorized-roles-and-accountability-chains)（*認可された役割と説明責任の連鎖*）；第八章と第九章の記録。
+- 併読：[憲章](../../core_05.040_band_continuity.md)および[第十三章 §5](../../core_14_governance.md#5-authorized-roles-competency-development-and-contribution)。
 
 </details>
 
@@ -244,8 +244,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
-- 上流：[§2](#2-four-seat-constitutional-floor)；[重要な利害](../../core_00_preamble.md#material-stake)；[必要性](../../core_05_band_accountability.md#necessity)；[比例性](../../core_05_band_accountability.md#proportionality)。
-- 下流：[第九章 §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records)；[CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy)（*クラスに応じたレーンの人員配置と能力の冗長性*）；[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)（*機能的分離レーン*）。
+- 上流：[§2](#2-four-seat-constitutional-requirement)；[重要な利害](../../core_00_preamble.md#material-stake)；[必要性](../../core_05_band_accountability.md#necessity)；[比例性](../../core_05_band_accountability.md#proportionality)。
+- 下流：[第九章 §3.7](../../core_10_standing_assessment.md#37-informal-and-small-scope-records)；[CJS-2.4](../../corpus_joint_structure/cjs_18.110_specific_joint_interlocks.md#cjs-18110-4-class-scaled-lane-staffing-and-competency-redundancy)（*クラスに応じたレーンの人員配置と能力の冗長性*）；[CI-3.2](../../corpus_institutions/ci_08.205_institutional_design_separation_of_powers.md#ci-8205-2-functional-separation-lanes)（*機能的分離レーン*）。
 - 併読：[回避可能な負担](../../core_05_band_continuity.md#avoidable-burden)および第一章[§3.3 尊厳を損なわないプロセス](../../core_01_a_values_principles.md#33-anti-degrading-process)。
 
 </details>
@@ -267,7 +267,7 @@ flowchart TB
 
 非公式、無報酬、相互扶助、介護、修理、教育、協同組合および地域社会のスチュワードシップ活動では、該当する確認について、公表された権限を持つ利害関係のない依拠可能な組織を用いてもよい。真に利害関係がなく説明責任を果たす経路が存在する場合、範囲上合理的に到達できない制度的形式性を憲法は求めない。
 
-人員不足、速度、利便性または専門知識の集中だけでは、統合を正当化できない。適用されるのは[§2 四席の憲法上の最低基準](#2-four-seat-constitutional-floor)に定めるクラス別の方針である。Aクラスでは逸脱を認めず、BクラスまたはCクラスの逸脱は上記の要件を満たさなければならない。重要な利害が大きいほど、別個の役職、能力の冗長性、独立した代行者を求める推定は強くなる。
+人員不足、速度、利便性または専門知識の集中だけでは、統合を正当化できない。適用されるのは[§2 四席の憲法上の最低基準](#2-four-seat-constitutional-requirement)に定めるクラス別の方針である。Aクラスでは逸脱を認めず、BクラスまたはCクラスの逸脱は上記の要件を満たさなければならない。重要な利害が大きいほど、別個の役職、能力の冗長性、独立した代行者を求める推定は強くなる。
 
 <a id="7-emergency-and-urgent-action"></a>
 ### 7. 緊急および緊急性の高い行為
@@ -275,9 +275,9 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
-- 上流：[§2](#2-four-seat-constitutional-floor)；[§6](#6-proportional-scaling-and-merged-hosting)；[第十二章 §6.1 緊急措置と継続の負担](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)；[既定の暫定方針](../../core_01_b_interaction_interpretation.md#default-interim-posture)。
+- 上流：[§2](#2-four-seat-constitutional-requirement)；[§6](#6-proportional-scaling-and-merged-hosting)；[第十二章 §6.1 緊急措置と継続の負担](../../core_13_forum.md#61-emergency-measures-and-continuation-burden)；[既定の暫定方針](../../core_01_b_interaction_interpretation.md#default-interim-posture)。
 - 下流：指定実施文書におけるインシデント、封じ込め、公開、継続および事後審査のプロセス。
-- 併読：[適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[証拠の保全](../../core_05_band_oversight.md#evidence-preservation)、[CI-4.6 席カタログ — プロセス役割の類型と運用上の境界](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment)。
+- 併読：[適時性](../../core_05_apex_timeliness_leg.md#timeliness-constitutional)、[証拠の保全](../../core_05_band_oversight.md#evidence-preservation)、[CI-4.6 席カタログ — プロセス役割の類型と運用上の境界](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-seat-containment)。
 
 </details>
 
@@ -314,8 +314,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">トレース</span></strong></summary>
 
-- 上流：[§2](#2-four-seat-constitutional-floor)から[§7](#7-emergency-and-urgent-action)まで；[重大な拘束力を持つ行為の記録](../../core_05_band_accountability.md#materially-binding-act-record)；[帰属可能な行為](../../core_05_band_accountability.md#attributable-action)；[帰属の完全性](../../core_05_band_accountability.md#attribution-integrity)。
-- 下流：[CS-4 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)；[CI-4.6 共有席の規則](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)；§8が定める各プロセス記録；[`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json)（*機械検査可能な基本形式。プロセスを支えるものであり、第二の定義ではない*）。
+- 上流：[§2](#2-four-seat-constitutional-requirement)から[§7](#7-emergency-and-urgent-action)まで；[重大な拘束力を持つ行為の記録](../../core_05_band_accountability.md#materially-binding-act-record)；[帰属可能な行為](../../core_05_band_accountability.md#attributable-action)；[帰属の完全性](../../core_05_band_accountability.md#attribution-integrity)。
+- 下流：[CS-4 §10 検査可能で帰属可能な行為](../../corpus_systems/cs_14.305_critical_system_stewardship.md#cs-14305-103-inspectable-attributable-action)；[CI-4.6 共有席の規則](../../corpus_institutions/ci_14.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules)；§8が定める各プロセス記録；[`materially_binding_act_record.schema.json`](../../implementation/schemas/materially_binding_act_record.schema.json)（*機械検査可能な基本形式。プロセスを支えるものであり、第二の定義ではない*）。
 - 併読：[§4 誤った席への回付](#4-wrong-seat-routing)および[第四章 §5](../../core_04_burden_traceability_verification.md#5-compliance-evidence-standard)。
 
 </details>
