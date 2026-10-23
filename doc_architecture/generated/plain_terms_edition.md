@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Sixteen](../../core_16.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **716** of **1106** headings carry a gloss (65%).
+Coverage: **718** of **1108** headings carry a gloss (65%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **716** of **1106** headings carry a gloss (65%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05.020_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05.025_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05.030_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (83/95 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05.035_band_accountability.md` (85/97 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05.040_band_continuity.md` (39/100 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05.045_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05.050_band_oversight.md` (31/41 glossed)
@@ -119,7 +119,7 @@ a system or institution of real impact publishes a System Charter or Institution
 
 #### 6. Key Practical Process Pipelines
 
-Chapters Nine through Thirteen apply Chapter Eight's separation-of-duties requirement in one chain: certify the system, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.
+Chapters Nine through Thirteen apply Chapter Eight's separation-of-duties requirement in one chain: certify systems and institutions, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.
 
 [Source](../../core_00.000_preamble.md#6-key-practical-process-pipelines)
 
@@ -1233,7 +1233,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 83/95 headings glossed
+Source file: [`core_05.035_band_accountability.md`](../../core_05.035_band_accountability.md) · 85/97 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1379,6 +1379,12 @@ an Interim Hold is a short, narrow, reasoned limit on one named sentient's use o
 
 [Source](../../core_05.035_band_accountability.md#interim-hold)
 
+##### Formation Check
+
+a Formation Check verifies that covered office-holders meet the published standing requirements and hold office in their own right for the Chartered Party's stated purpose. It is a check, not a licence to form or operate a body.
+
+[Source](../../core_05.035_band_accountability.md#formation-check)
+
 ##### Negligence
 
 a reasonably avoidable failure to take the care, action, or timely response needed to prevent or reduce serious harm when there was a duty and real ability to act.
@@ -1397,6 +1403,12 @@ acknowledge serious harm or rights failures, provide a usable path to correct th
 
 [Source](../../core_05.035_band_accountability.md#redress-and-remediation)
 
+##### Remediation Readiness
+
+after a certification review finds misalignment or a defect, Remediation Readiness is the forum's evidence-based finding about whether the responsible operator or institution is willing and able to correct it within the applicable window.
+
+[Source](../../core_05.035_band_accountability.md#remediation-readiness)
+
 ##### Remedy System
 
 the lasting personnel, institutions, processes, technology, and funding needed to make challenges and remedies work in practice — not just exist on paper.
@@ -1414,12 +1426,6 @@ when required and safe, focus on repairing harm, restoring affected sentients' a
 a severe outside event that reasonable diligence could not control may justify temporary relief. It does not excuse risks the system caused, risks it should have prepared for, or permanent abandonment of safety, truth, review, or audit duties.
 
 [Source](../../core_05.035_band_accountability.md#force-majeure)
-
-##### Capture of Resolution Pathways
-
-parties with money, control, privileged information, or a stake in the result must not be able to bias who or what decides a settlement or another rights-relevant outcome.
-
-[Source](../../core_05.040_band_continuity.md#capture-of-resolution-pathways)
 
 ##### Protected reporting and anti-retaliation
 
@@ -1726,6 +1732,12 @@ Competency Clearance is the standing-effect result that says verified readiness 
 a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections. No lock on a sentient is permanent.
 
 [Source](../../core_05.035_band_accountability.md#standing-lock)
+
+###### Institutional Authority Standing Lock
+
+after a verified finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.
+
+[Source](../../core_05.035_band_accountability.md#institutional-authority-standing-lock)
 
 ###### Anti-Constitutional Misconduct Review
 
