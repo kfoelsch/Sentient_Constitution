@@ -20,3 +20,16 @@ Implementation: Chapter One widget rows and expected-order data; [generated map]
 - D03: The steward will deliver settled chapters during editing. Translation work remains paused until a chapter is identified as ready under the settled-chapter process.
 
 The D02 evidence dependency remains active in [TODO.md](../TODO.md) and the [announcement-readiness plan](../project/plans/announcement_readiness_2026-10-20.md).
+
+## Other completed TODO notes
+
+- Five chart conversions have been completed. The chart-orientation audit and confirmation of the convert-on-next-edit policy remain open in [TODO.md](../TODO.md).
+
+## Structural follow-ups completed
+
+- **Chapter Nine Part D:** Added the institutional certification owner summary and a separate Part D node/path in the Preamble process map; added a current CS-9.305 pointer to the institution class test in Part D §12.1.
+- **Formation check and remediation readiness:** Added Chapter Five canonical entries for Formation Check and Remediation Readiness, and explicit Chapter Thirteen routing for readiness findings, evidence roles, and record outcomes.
+- **Article XI-E and the Institutional Authority Standing Lock:** Added the Chapter Five lock entry. Chapter Eleven already routes this special lock in its operative prose; there is no integration table there to extend.
+- **Interim Hold:** Added the Preamble owner-register pointer and a CS-6.355 §4.1 cross-reference distinguishing system-level node exclusion from a hold on a named sentient's authority.
+
+Related adoption and translation work remains open in [TODO.md](../TODO.md). Deferred Interim Hold applications remain conditional on the first three applications running in practice.

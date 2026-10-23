@@ -507,17 +507,19 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 - [Merits Determination](core_05.035_band_accountability.md#merits-determination) — binding substantive dispositions in those dispute-resolution pathways.
 - [Stay](core_05.035_band_accountability.md#stay) — temporary pause or reliance-limit orders pending further review.
 - [Interim Hold](core_05.035_band_accountability.md#interim-hold) — a narrow, time-bound limit on one named sentient's use of one named authority, on specific verified facts.
+- [Formation Check](core_05.035_band_accountability.md#formation-check) — verified standing and authenticity checks for covered office-holders.
 - [Attributable Action](core_05.035_band_accountability.md#attributable-action) — materially relevant action traceable to identifiable responsible actors.
 - [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity) — attribution chains resistant to obscuring, ambiguity, tampering, and repudiation.
 - [Negligence](core_05.035_band_accountability.md#negligence) — reasonably avoidable failures of care that produce material harm.
 - [Collective Accountability Failure](core_05.035_band_accountability.md#collective-accountability-failure) — care failures under diffused or collective responsibility.
 - [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation) — acknowledgment and proportionate correction.
+- [Remediation Readiness](core_05.035_band_accountability.md#remediation-readiness) — evidence-based finding on willingness and capacity to correct.
 - [Remedy System](core_05.035_band_accountability.md#remedy-system) — the lasting capacity that makes those dispute-resolution pathways work.
 - [Restorative Justice](core_05.035_band_accountability.md#restorative-justice) — restorative priority where required.
 - [Force Majeure](core_05.035_band_accountability.md#force-majeure) — exceptional external disruptions.
 - [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) — named form of System Capture addressing outcome-determination mechanisms.
 
-*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Accountability](core_05.005_apex_accountability_leg.md#accountability), [Attributable Action](core_05.035_band_accountability.md#attributable-action), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Negligence](core_05.035_band_accountability.md#negligence), [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Remedy System](core_05.035_band_accountability.md#remedy-system), [Restorative Justice](core_05.035_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) below.
+*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Accountability](core_05.005_apex_accountability_leg.md#accountability), [Attributable Action](core_05.035_band_accountability.md#attributable-action), [Attribution Integrity](core_05.035_band_accountability.md#attribution-integrity), [Contestability](core_05.035_band_accountability.md#contestability), [Due Process](core_05.035_band_accountability.md#due-process), [Timeliness](core_05.030_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](core_05.035_band_accountability.md#timely-resolution), [Formation Check](core_05.035_band_accountability.md#formation-check), [Negligence](core_05.035_band_accountability.md#negligence), [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Remediation Readiness](core_05.035_band_accountability.md#remediation-readiness), [Remedy System](core_05.035_band_accountability.md#remedy-system), [Restorative Justice](core_05.035_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](core_05.040_band_continuity.md#capture-of-resolution-pathways) below.
 
 ---
 
@@ -1028,6 +1030,38 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
 
 ---
 
+<a id="formation-check"></a>
+
+#### Formation Check
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) (7.000 §5) (*covered offices, standing and authenticity checks, and staff safeguards*).
+- Forum test: [Chapter Nine Part D §12.2 Institutional evaluation, always](core_09.015_institutional_alignment_certification.md#122-institutional-evaluation-always) (item 7).
+- Read with: [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*), [Material Control Line](core_05.035_band_accountability.md#material-control-line), and [Interim Hold](core_05.035_band_accountability.md#interim-hold).
+
+</details>
+
+<br>
+
+*In plain terms: a Formation Check verifies that covered office-holders meet the published standing requirements and hold office in their own right for the Chartered Party's stated purpose. It is a check, not a licence to form or operate a body.*
+
+- **What it is**
+  - **In scope:** The published, verifiable check under Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity of covered office-holders' standing and authenticity, plus the structural safeguards for other staff stated there. It creates no lock, hold, bar, or standing record.
+  - **Out of scope:** A belief, identity, group membership, reputation, or unverified allegation as a substitute for verified standing, conduct, control, rewards, and protected voice; individual screening of staff who hold no covered office.
+<a id="formation-check-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability and Oversight measurement families, scaled to the office's material authority and the Chartered Party's class.
+
+    **Primary assessment:** Apply Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity using verified records. Check the standing limb against locks, any applicable Interim Hold, competency requirements, and disclosed conflicts; check authenticity from control, interests and rewards, conduct, and protected voice. Chapter Nine Part D tests the published statement against observed operation.
+<a id="formation-check-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant to accept an unsupported attestation, use protected belief or association as a finding, treat the check as a gate on forming or operating an institution, or label the check complete when the published evidence does not support it.
+
+---
+
+
 <a id="negligence"></a>
 
 #### Negligence
@@ -1190,6 +1224,37 @@ Chapter Five, Accountability band, is the constitutional owner of the **leaf def
     - [Accountability](core_05.005_apex_accountability_leg.md#accountability);
     - [Contestability](core_05.035_band_accountability.md#contestability); or
     - [Procedural Fairness](core_05.055_band_participation.md#procedural-fairness).
+
+---
+
+<a id="remediation-readiness"></a>
+
+#### Remediation Readiness
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Nine Part B §7.1 Remediation Readiness: Willingness and Capacity to Correct](core_09.005_system_alignment_certification_record_process.md#71-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Part D §13.5](core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution) (institutions).
+- Forum routing: [Chapter Thirteen §4.5 Constitutional alignment certification and validation](core_13.000_forum.md#45-integrity-forums) and [§5 Escalation and certification](core_13.000_forum.md#5-escalation-and-certification).
+- Read with: [Redress and Remediation](core_05.035_band_accountability.md#redress-and-remediation), [Proportionality](core_05.035_band_accountability.md#proportionality), and [Timely Resolution](core_05.035_band_accountability.md#timely-resolution).
+
+</details>
+
+<br>
+
+*In plain terms: after a certification review finds misalignment or a defect, Remediation Readiness is the forum's evidence-based finding about whether the responsible operator or institution is willing and able to correct it within the applicable window.*
+
+- **What it is**
+  - **In scope:** A forum finding on willingness and capacity to correct a verified certification misalignment or defect, including the cause, required proof step, window, and independent verification. It does not itself certify the subject or create a standing effect.
+  - **Out of scope:** An operator's promise, plan, self-assessment, or declaration of completion without the conduct and evidence required by the canonical certification process.
+<a id="remediation-readiness-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** Accountability, Oversight, and Timeliness measurement families, scaled to class and material stake.
+
+    **Primary assessment:** The lead forum weighs conduct since notice and fit to the cause; the assigned technical and institutional components supply capacity, governance, and incentive evidence within their roles. Verify authority, skill, resources, dependencies, schedule, and proof independently; state the finding on the certification record.
+<a id="remediation-readiness-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant to let a subject determine its own readiness, condition certification on a plan not found ready, defer the check beyond the bounded process, or use readiness to replace the denial or revocation outcomes required by Chapter Nine.
 
 ---
 
@@ -4041,6 +4106,35 @@ See **Anti-Segmentation Principle**.
     - make it permanent without review or a remediation path;
     - extend it beyond the verified scope; or
     - use it to extinguish dignity, equal moral standing, challenge access, remedy access, or baseline Rights-Floor protection.
+
+---
+
+<a id="institutional-authority-standing-lock"></a>
+
+##### Institutional Authority Standing Lock
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eleven §5.5 Special locks](core_11.000_standing_integration.md#55-special-locks).
+- Formation and institutional certification interfaces: [Chapter Seven §5 Formation Check: Office-Holder Standing and Authenticity](core_07.000_charters.md#5-formation-check-office-holder-standing-and-authenticity) and [Chapter Nine Part D §13.5 Remediation readiness, denial, and revocation for an Institution](core_09.015_institutional_alignment_certification.md#135-remediation-readiness-denial-and-revocation-for-an-institution).
+- Read with: [Standing Lock](core_05.035_band_accountability.md#standing-lock), [Interim Hold](core_05.035_band_accountability.md#interim-hold), and [Article XI-E](core_06.005_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
+
+</details>
+
+<br>
+
+*In plain terms: after a verified finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.*
+
+- **What it is**
+  - **In scope:** The special lock attached to a verified, unresolved or materially unremedied finding of institutional vehicle wrongdoing. Its named pathway, look-through scope, protected interests, corrective conditions, independent review route, and gate effect are those stated in Chapter Eleven §5.5 Special locks.
+  - **Out of scope:** A restriction on forming or operating an institution as such, on unrelated authority pathways, or on wages, participation, protected reporting, survival access, or Rights-Floor protections. An Interim Hold on specific verified facts is not this lock and creates no standing effect.
+- **How to measure and assess**
+  - **Primary measure:** The Violation Axis and Accountability and Timeliness measurement families, based on verified findings.
+
+    **Primary assessment:** Apply the attachment and evidence requirements for special locks. Name the verified institutional vehicle, the subject's role, the authority pathway, the risk of recurrence, the corrective conditions, and the independent review route. Assess restoration only under Chapter Eleven §5.5 Special locks.
+- **What must hold**
+  - **Primary failure:** It is non-compliant to attach the lock without a verified finding, extend it beyond the named authority pathway, use it as a gate on forming or operating a body, or lift or narrow it without the independent restoration finding and reasons Chapter Eleven requires.
 
 ---
 

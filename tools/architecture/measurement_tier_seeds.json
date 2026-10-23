@@ -1377,6 +1377,21 @@
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
+    },
+    "Formation Check": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Institutional Authority Standing Lock": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Remediation Readiness": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
     }
   }
 }

@@ -2,6 +2,8 @@
 
 **2026-10-21 cleanup:** Completed work moved to [TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md). The complete pre-cleanup file is preserved in [TODO_SNAPSHOT_2026-10-21.md](archive/TODO_SNAPSHOT_2026-10-21.md). Older TODO/MEMLOG snapshots removed 2026-06-17 can be retrieved from Git history. Canonical architecture archives remain under [README.md](README.md) *Binding vs support* and [doc_architecture.md](doc_architecture.md).
 
+**2026-10-23 closeout:** The five chart conversions are complete; the audit and policy follow-up remain open. See [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
+
 ## Announcement preparation — 2026-10-20
 
 The [working announcement plan](project/plans/announcement_readiness_2026-10-20.md) records the schedule through December 31, [review inventory](project/plans/announcement_review_inventory_2026-10-20.md), batch evidence, and decision queue. It does not waive the publication spec or authorize release.
@@ -10,10 +12,6 @@ The [working announcement plan](project/plans/announcement_readiness_2026-10-20.
 - [ ] Complete the non-core review batches and reopen affected portions when governing core changes.
 
 The desk walkthrough and decision D01 are archived in [TODO_RESOLVED_2026-10-21.md](archive/TODO_RESOLVED_2026-10-21.md).
-
-## Editor Checklist (Pre-Review / Pre-Merge)
-
-Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/TODO_RESOLVED_2026-09-17.md). The P1 regression-workflow review is recorded in [P1 regression and evidence review](evidence/2026-09-17/P1_REGRESSION_AND_EVIDENCE_REVIEW_2026-09-17.md); the separate stress-pack validation remains open below.
 
 ## Current Chapter Map
 
@@ -71,26 +69,29 @@ Implementation and steward signoff are recorded in [TODO_RESOLVED_2026-10-19.md]
 
 ### Chapter Nine Part D — open follow-ups
 
+- The Preamble owner-register and process-map entries and current CS-9.305 institution-class pointer are complete; see [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
-- [ ] Add a Preamble owner-register entry and process-map entry for Part D, and a CS-3 pointer to the institution class test.
 - [ ] Sync translations after wording settles.
 
 ### Formation check and remediation readiness — open follow-ups
 
 The signoffs and lifted-hold reference are in [TODO_RESOLVED_2026-10-19.md](archive/TODO_RESOLVED_2026-10-19.md); see also [formation_check_and_remediation_readiness](evidence/2026-10-13/formation_check_and_remediation_readiness.md).
 
-- [ ] Add the Chapter Five entries and Chapter Thirteen routing for readiness findings; sync translations after wording settles.
+Chapter Five Formation Check and Remediation Readiness entries and Chapter Thirteen routing are complete; see [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
+- [ ] Sync translations after wording settles.
 
 ### Article XI-E gates and Institutional Authority Standing Lock — open follow-ups
 
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
-- [ ] Add a Chapter Five entry for the new lock beyond the pointers, and a Chapter Eleven integration-table row if one exists; sync translations after wording settles.
+- The Chapter Five Institutional Authority Standing Lock entry is complete. Chapter Eleven already routes the lock in its operative prose and contains no integration table to extend; see [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
+- [ ] Sync translations after wording settles.
 
 ### Interim Hold standard — open follow-ups
 
 - [ ] Complete announcement adoption and contest steps after the recorded heightened review; see [older-batch review](evidence/2026-10-20/heightened_review_record_older_batches_2026-10-20.md).
 - [ ] Revisit deferred applications after the first three applications run in practice: stakeholder-weight escrow, and holds on holders of authority over Class A, B, or C systems on grave anti-constitutional allegations.
-- [ ] Add a Preamble owner-register entry and CS-11 §4.1 pointer; sync translations after wording settles.
+- The Preamble owner-register Interim Hold pointer and current CS-6.355 §4.1 pointer are complete; see [2026-10-23 resolved work](archive/TODO_RESOLVED_2026-10-23.md).
+- [ ] Sync translations after wording settles.
 
 ### Process-level granularity — Option B
 
@@ -110,7 +111,7 @@ These remain optional planning questions, not decisions. Full notes and the 67-i
 - [ ] Review the 22 medium- and 3 low-confidence crosswalk tags; extend the crosswalk to Chapter One third-level subsections and the remaining corpus if useful.
 - [ ] Decide whether to define Process with a test, create an index or restructure, gather scattered Process principles, and whether a third Preamble question is needed.
 - [ ] Continue the process-ownership dispute-rule draft, including steward role names and its six open questions; consider the CI-6 change-record template.
-- [ ] Add a grep-based chart-orientation audit and `make` target; confirm the convert-on-next-edit policy. The five chart conversions are complete.
+- [ ] Add a grep-based chart-orientation audit and `make` target; confirm the convert-on-next-edit policy.
 
 ### Translation follow-ups
 

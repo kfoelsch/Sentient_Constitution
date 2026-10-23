@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-23T13:41:08+00:00
+Generated: 2026-10-23T14:42:41+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **274/274** terms pass tier audit.
+Approved progress: **277/277** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -237,6 +237,7 @@ Approved progress: **274/274** terms pass tier audit.
 | Event-Contract Market | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Feasibility | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Force Majeure | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Formation Check | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Forum Case Record | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Forum Family, Constitutional | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Forum Family, Environment | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
@@ -259,6 +260,7 @@ Approved progress: **274/274** terms pass tier audit.
 | Initiating Seat | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Innovation Reward and Anti-Enclosure | approved | primary_only | cluster_member | `core_05.045_band_integrative.md` | yes | pass |
 | Insider Advantage | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Institutional Authority Standing Lock | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Interested Party | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Interim Hold | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Jurisdiction | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
@@ -284,6 +286,7 @@ Approved progress: **274/274** terms pass tier audit.
 | Record Seat | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Record-Opening Authority | approved | primary_secondary | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Redress and Remediation | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
+| Remediation Readiness | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Remedy System | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Restorative Justice | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |
 | Single Catastrophic Incident | approved | primary_only | cluster_member | `core_05.035_band_accountability.md` | yes | pass |

@@ -117,7 +117,7 @@
       "href": "../../core_13.000_forum.md#chapter-thirteen-forums-and-jurisdiction"
     }
   ],
-  "term_count": 276,
+  "term_count": 278,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -279,13 +279,6 @@
       "anchor": "#capability-requirement",
       "plain_terms": null,
       "href": "../../core_05.050_band_oversight.md#capability-requirement"
-    },
-    {
-      "term": "Capture of Resolution Pathways",
-      "file": "core_05.035_band_accountability.md",
-      "anchor": "#capture-of-resolution-pathways",
-      "plain_terms": "parties with money, control, privileged information, or a stake in the result must not be able to bias who or what decides a settlement or another rights-relevant outcome.",
-      "href": "../../core_05.040_band_continuity.md#capture-of-resolution-pathways"
     },
     {
       "term": "Cascading Failure",
@@ -743,6 +736,13 @@
       "href": "../../core_05.050_band_oversight.md#foreseeability"
     },
     {
+      "term": "Formation Check",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#formation-check",
+      "plain_terms": "a Formation Check verifies that covered office-holders meet the published standing requirements and hold office in their own right for the Chartered Party's stated purpose. It is a check, not a licence to form or operate a body.",
+      "href": "../../core_05.035_band_accountability.md#formation-check"
+    },
+    {
       "term": "Forum Case Record",
       "file": "core_05.035_band_accountability.md",
       "anchor": "#forum-case-record",
@@ -1014,6 +1014,13 @@
       "anchor": "#institutional-alignment-certification",
       "plain_terms": "**institutional alignment certification** is the independent check of an institution, as opposed to one of its systems. It asks whether the institution does what its Institutional Charter says, whether the offices that hold its authority are answerable to someone, and whether the way it rewards its own members pushes toward the Constitution or away from it. It cites the certification of each system the institution runs and does not repeat that work. It never works as a licence: no institution needs permission from it to form or to operate.",
       "href": "../../core_05.040_band_continuity.md#institutional-alignment-certification"
+    },
+    {
+      "term": "Institutional Authority Standing Lock",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#institutional-authority-standing-lock",
+      "plain_terms": "after a verified finding that a sentient materially used an institution, enterprise, or office as a vehicle for a violation, this special Standing Lock restricts only the named governing, controlling, or owning authority pathway.",
+      "href": "../../core_05.035_band_accountability.md#institutional-authority-standing-lock"
     },
     {
       "term": "Institutional Certification Record",
@@ -1546,6 +1553,13 @@
       "anchor": "#refuge-from-non-compliance-constitutional",
       "plain_terms": "if the regime you are in is materially non-compliant with this Constitution, you have a Rights-Floor right to seek refuge in a compliant regime — subject to the admission qualifier and the receiving regime's duty to consider and, where consistent with its own Rights Floor, grant refuge.",
       "href": "../../core_05.055_band_participation.md#refuge-from-non-compliance"
+    },
+    {
+      "term": "Remediation Readiness",
+      "file": "core_05.035_band_accountability.md",
+      "anchor": "#remediation-readiness",
+      "plain_terms": "after a certification review finds misalignment or a defect, Remediation Readiness is the forum's evidence-based finding about whether the responsible operator or institution is willing and able to correct it within the applicable window.",
+      "href": "../../core_05.035_band_accountability.md#remediation-readiness"
     },
     {
       "term": "Remedy System",
